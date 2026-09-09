@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const ricochetSkull117637 = {
   id: "019e6f53-a654-74dd-9ae9-5545e6341b07",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ricochet-skull-117637",
   title: "Ricochet Skull",
   key: "ricochet-skull-117637",

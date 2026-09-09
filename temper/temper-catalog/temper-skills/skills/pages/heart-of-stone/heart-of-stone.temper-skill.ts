@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const heartOfStone = {
   id: "019e6f53-a2fa-77ec-ac11-b9ea9f81fcf8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "heart-of-stone",
   title: "Heart of Stone",
   key: "heart-of-stone",

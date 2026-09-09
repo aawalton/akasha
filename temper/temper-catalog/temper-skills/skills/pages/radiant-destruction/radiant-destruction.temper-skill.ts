@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const radiantDestruction = {
   id: "019e6f53-a57f-7267-b297-c1ecb4ccdc6d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "radiant-destruction",
   title: "Radiant Destruction",
   key: "radiant-destruction",

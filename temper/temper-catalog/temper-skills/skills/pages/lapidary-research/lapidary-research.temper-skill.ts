@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lapidaryResearch = {
   id: "019e6224-cca0-7d78-9613-3d740e708b4f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "lapidary-research",
   title: "Lapidary Research",
   key: "lapidary-research",

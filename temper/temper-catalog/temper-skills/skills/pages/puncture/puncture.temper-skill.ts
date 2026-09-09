@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const puncture = {
   id: "019e6f53-a55f-7403-a23c-13c508797884",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "puncture",
   title: "Puncture",
   key: "puncture",

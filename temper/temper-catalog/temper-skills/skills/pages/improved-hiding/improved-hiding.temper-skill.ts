@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const improvedHiding = {
   id: "019e6251-4cc6-72b1-bf55-0c8dc32d9e43",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "improved-hiding",
   title: "Improved Hiding",
   key: "improved-hiding",

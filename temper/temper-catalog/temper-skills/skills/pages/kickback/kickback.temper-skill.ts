@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const kickback = {
   id: "019e6251-4ccb-7838-b518-e0eaa986fc19",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "kickback",
   title: "Kickback",
   key: "kickback",

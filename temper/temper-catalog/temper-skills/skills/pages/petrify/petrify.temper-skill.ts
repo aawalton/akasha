@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const petrify = {
   id: "019e6f53-a4f7-7e16-905a-62ec327f4067",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "petrify",
   title: "Petrify",
   key: "petrify",

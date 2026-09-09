@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const prism31744 = {
   id: "019e6f53-a547-7b3b-93bd-dc543e756ed1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "prism-31744",
   title: "Prism",
   key: "prism-31744",

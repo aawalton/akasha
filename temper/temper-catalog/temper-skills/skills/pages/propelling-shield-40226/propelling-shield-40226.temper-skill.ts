@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const propellingShield40226 = {
   id: "019e6f53-a54c-7dba-b2c5-8cf25c5f9979",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "propelling-shield-40226",
   title: "Propelling Shield",
   key: "propelling-shield-40226",

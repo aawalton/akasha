@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const negateMagic = {
   id: "019e6f53-a4bd-7ae5-8315-56e5aed2be06",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "negate-magic",
   title: "Negate Magic",
   key: "negate-magic",

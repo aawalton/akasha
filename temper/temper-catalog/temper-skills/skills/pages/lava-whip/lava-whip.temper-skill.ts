@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lavaWhip = {
   id: "019e6f53-a3c3-783b-862a-fec6759449c2",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "lava-whip",
   title: "Lava Whip",
   key: "lava-whip",

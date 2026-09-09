@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lowSlash = {
   id: "019e6f53-a422-772f-9314-596e3468780a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "low-slash",
   title: "Low Slash",
   key: "low-slash",

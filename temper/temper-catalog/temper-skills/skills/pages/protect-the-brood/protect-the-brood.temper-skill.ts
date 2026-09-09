@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const protectTheBrood = {
   id: "019e6245-a6f2-71e3-b331-208180fa744a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "protect-the-brood",
   title: "Protect the Brood",
   key: "protect-the-brood",

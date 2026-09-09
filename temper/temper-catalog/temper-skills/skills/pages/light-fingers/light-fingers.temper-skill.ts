@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lightFingers = {
   id: "019e6251-4ccc-7be6-86e9-25fb5d5198dc",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "light-fingers",
   title: "Light Fingers",
   key: "light-fingers",

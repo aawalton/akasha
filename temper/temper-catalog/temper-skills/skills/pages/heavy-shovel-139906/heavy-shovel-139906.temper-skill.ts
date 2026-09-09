@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const heavyShovel139906 = {
   id: "019e6f53-a304-7e52-af7e-3da172003f6a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "heavy-shovel-139906",
   title: "Heavy Shovel",
   key: "heavy-shovel-139906",

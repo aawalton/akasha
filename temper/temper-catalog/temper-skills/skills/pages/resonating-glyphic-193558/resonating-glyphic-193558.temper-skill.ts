@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const resonatingGlyphic193558 = {
   id: "019e6f53-a621-714a-aeac-62fe34c345ef",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "resonating-glyphic-193558",
   title: "Resonating Glyphic",
   key: "resonating-glyphic-193558",

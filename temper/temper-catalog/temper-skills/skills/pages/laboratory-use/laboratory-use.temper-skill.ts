@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const laboratoryUse = {
   id: "019e6224-cc9f-7d8c-801a-26d49adbedce",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "laboratory-use",
   title: "Laboratory Use",
   key: "laboratory-use",

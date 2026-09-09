@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const magickaAid39255 = {
   id: "019e6f53-a436-7bc2-871d-fe3b70477257",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "magicka-aid-39255",
   title: "Magicka Aid",
   key: "magicka-aid-39255",

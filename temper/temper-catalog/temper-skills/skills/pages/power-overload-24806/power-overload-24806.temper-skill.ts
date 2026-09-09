@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const powerOverload24806 = {
   id: "019e6f53-a52b-707a-8d37-c1d0c18b3540",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "power-overload-24806",
   title: "Power Overload",
   key: "power-overload-24806",

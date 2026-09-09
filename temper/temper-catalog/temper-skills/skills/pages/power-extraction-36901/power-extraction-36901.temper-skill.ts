@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const powerExtraction36901 = {
   id: "019e6f53-a524-71d7-9388-9f7375124bf1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "power-extraction-36901",
   title: "Power Extraction",
   key: "power-extraction-36901",

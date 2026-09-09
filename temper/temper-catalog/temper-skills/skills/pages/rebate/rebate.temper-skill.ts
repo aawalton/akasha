@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const rebate = {
   id: "019e6245-a6ff-7fc5-83e8-53951ed4ae20",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "rebate",
   title: "Rebate",
   key: "rebate",

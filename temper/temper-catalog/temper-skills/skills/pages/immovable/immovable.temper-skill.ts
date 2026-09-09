@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const immovable = {
   id: "019e6238-c2c9-78ee-b11a-d76fc09f51a1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "immovable",
   title: "Immovable",
   key: "immovable",

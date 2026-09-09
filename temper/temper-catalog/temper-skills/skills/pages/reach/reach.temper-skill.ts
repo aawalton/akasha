@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const reach = {
   id: "019e6251-4cdd-7211-b962-975c44e5be5d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "reach",
   title: "Reach",
   key: "reach",

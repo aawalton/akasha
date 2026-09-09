@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const mountainGiant = {
   id: "019e6f53-a49e-7b0d-8ce9-74fb19dbc273",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "mountain-giant",
   title: "Mountain Giant",
   key: "mountain-giant",

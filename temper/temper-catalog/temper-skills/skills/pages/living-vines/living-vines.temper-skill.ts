@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const livingVines = {
   id: "019e6f53-a416-70bc-8219-67211df8e11a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "living-vines",
   title: "Living Vines",
   key: "living-vines",

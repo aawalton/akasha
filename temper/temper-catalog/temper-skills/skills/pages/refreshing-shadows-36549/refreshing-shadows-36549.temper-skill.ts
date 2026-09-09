@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const refreshingShadows36549 = {
   id: "019e6f53-a5de-7294-9872-73be5485ba95",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "refreshing-shadows-36549",
   title: "Refreshing Shadows",
   key: "refreshing-shadows-36549",

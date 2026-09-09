@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const innerFire = {
   id: "019e6f53-a378-71d4-bf4f-390e5faa86c9",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "inner-fire",
   title: "Inner Fire",
   key: "inner-fire",

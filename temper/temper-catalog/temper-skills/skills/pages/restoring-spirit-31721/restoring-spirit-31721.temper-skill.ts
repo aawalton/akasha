@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const restoringSpirit31721 = {
   id: "019e6f53-a633-75f4-9efb-588d395573dd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "restoring-spirit-31721",
   title: "Restoring Spirit",
   key: "restoring-spirit-31721",

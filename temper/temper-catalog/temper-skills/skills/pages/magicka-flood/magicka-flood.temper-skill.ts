@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const magickaFlood = {
   id: "019e6245-a6c5-7164-8df9-5a8d8cb343bb",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "magicka-flood",
   title: "Magicka Flood",
   key: "magicka-flood",

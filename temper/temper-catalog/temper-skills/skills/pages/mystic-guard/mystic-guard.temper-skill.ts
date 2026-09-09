@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const mysticGuard = {
   id: "019e6251-4cd3-726f-8f77-fd4a24f42b86",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "mystic-guard",
   title: "Mystic Guard",
   key: "mystic-guard",

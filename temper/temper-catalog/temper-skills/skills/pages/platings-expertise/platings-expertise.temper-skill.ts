@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const platingsExpertise = {
   id: "019e6224-cca8-733f-bd8f-74945156235d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "platings-expertise",
   title: "Platings Expertise",
   key: "platings-expertise",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const harnessMagicka = {
   id: "019e6238-c2c4-7cf0-b15e-a52fad48e00c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "harness-magicka",
   title: "Harness Magicka",
   key: "harness-magicka",

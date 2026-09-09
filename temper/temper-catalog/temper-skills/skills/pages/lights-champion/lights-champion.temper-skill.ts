@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lightsChampion = {
   id: "019e6226-00ff-706b-9dcf-76cf72928ee9",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "lights-champion",
   title: "Light's Champion",
   key: "lights-champion",

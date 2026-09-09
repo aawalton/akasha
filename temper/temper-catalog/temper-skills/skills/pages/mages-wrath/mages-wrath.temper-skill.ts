@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const magesWrath = {
   id: "019e6245-a6c4-7105-bb25-54086c8316b8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "mages-wrath",
   title: "Mages' Wrath",
   key: "mages-wrath",

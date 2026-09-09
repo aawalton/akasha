@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const minerHireling = {
   id: "019e6224-cca6-75ba-b45d-8479a200dfc3",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "miner-hireling",
   title: "Miner Hireling",
   key: "miner-hireling",

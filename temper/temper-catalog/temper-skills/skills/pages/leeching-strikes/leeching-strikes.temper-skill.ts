@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const leechingStrikes = {
   id: "019e6245-a6b9-7b75-bd55-09c1af3601ca",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "leeching-strikes",
   title: "Leeching Strikes",
   key: "leeching-strikes",

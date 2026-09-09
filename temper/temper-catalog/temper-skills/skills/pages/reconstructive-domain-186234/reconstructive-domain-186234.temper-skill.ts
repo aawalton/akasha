@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const reconstructiveDomain186234 = {
   id: "019e6f53-a5cb-7329-bbd5-7c582d80623c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "reconstructive-domain-186234",
   title: "Reconstructive Domain",
   key: "reconstructive-domain-186234",

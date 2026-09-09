@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const magmaFist = {
   id: "019e6245-a6c6-768f-9a87-cd4897dc6cfc",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "magma-fist",
   title: "Magma Fist",
   key: "magma-fist",

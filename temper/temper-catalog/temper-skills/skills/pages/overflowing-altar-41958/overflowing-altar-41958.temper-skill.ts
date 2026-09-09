@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const overflowingAltar41958 = {
   id: "019e6f53-a4d5-75a9-a688-a27cc50bbcaf",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "overflowing-altar-41958",
   title: "Overflowing Altar",
   key: "overflowing-altar-41958",

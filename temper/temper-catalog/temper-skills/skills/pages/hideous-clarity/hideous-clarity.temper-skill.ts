@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const hideousClarity = {
   id: "019e6245-a6a6-701d-810e-ce8c68fde0c3",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "hideous-clarity",
   title: "Hideous Clarity",
   key: "hideous-clarity",

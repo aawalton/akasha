@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const igneousShield29224 = {
   id: "019e6f53-a349-7145-a1a3-0c1c34929a21",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "igneous-shield-29224",
   title: "Igneous Shield",
   key: "igneous-shield-29224",

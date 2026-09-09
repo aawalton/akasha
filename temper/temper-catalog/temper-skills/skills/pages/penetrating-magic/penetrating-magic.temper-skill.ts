@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const penetratingMagic = {
   id: "019e6226-0101-7789-98ba-e2cfd15594ca",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "penetrating-magic",
   title: "Penetrating Magic",
   key: "penetrating-magic",

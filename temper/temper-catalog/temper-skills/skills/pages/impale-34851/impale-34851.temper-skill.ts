@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const impale34851 = {
   id: "019e6f53-a35a-70f4-81ed-cacc7525ca72",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "impale-34851",
   title: "Impale",
   key: "impale-34851",

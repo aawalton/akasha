@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const radiantWard22182 = {
   id: "019e6f53-a590-7ad5-a8dc-4a7fb6794869",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "radiant-ward-22182",
   title: "Radiant Ward",
   key: "radiant-ward-22182",

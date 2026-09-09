@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const rapidRot116199 = {
   id: "019e6f53-a5ad-74aa-b954-0f7505b13574",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "rapid-rot-116199",
   title: "Rapid Rot",
   key: "rapid-rot-116199",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const masterAssassin = {
   id: "019e6245-a6ca-7f43-b9f3-98f63375c08b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "master-assassin",
   title: "Master Assassin",
   key: "master-assassin",

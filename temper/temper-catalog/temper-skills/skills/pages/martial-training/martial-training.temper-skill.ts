@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const martialTraining = {
   id: "019e624a-12d1-7e8f-818d-4fed83f345ae",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "martial-training",
   title: "Martial Training",
   key: "martial-training",

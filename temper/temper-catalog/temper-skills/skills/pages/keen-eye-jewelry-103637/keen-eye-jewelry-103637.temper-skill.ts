@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const keenEyeJewelry103637 = {
   id: "019e6f53-a3a0-7d5f-a4fa-73d5d14b67e4",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "keen-eye-jewelry-103637",
   title: "Keen Eye: Jewelry",
   key: "keen-eye-jewelry-103637",

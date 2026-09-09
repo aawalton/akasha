@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const mercilessResolve61919 = {
   id: "019e6f53-a478-730a-a222-8a45bd2c7d35",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "merciless-resolve-61919",
   title: "Merciless Resolve",
   key: "merciless-resolve-61919",

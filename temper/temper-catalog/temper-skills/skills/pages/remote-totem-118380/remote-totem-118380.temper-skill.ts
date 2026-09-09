@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const remoteTotem118380 = {
   id: "019e6f53-a5f0-74f1-ad91-39c618007891",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "remote-totem-118380",
   title: "Remote Totem",
   key: "remote-totem-118380",

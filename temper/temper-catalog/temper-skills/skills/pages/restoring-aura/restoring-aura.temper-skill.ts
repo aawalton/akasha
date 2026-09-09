@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const restoringAura = {
   id: "019e6f53-a62c-7bc6-9975-0a899621c040",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "restoring-aura",
   title: "Restoring Aura",
   key: "restoring-aura",

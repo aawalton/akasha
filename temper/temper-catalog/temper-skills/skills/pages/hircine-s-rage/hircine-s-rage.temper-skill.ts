@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const hircineSRage = {
   id: "019e6f53-a31e-7943-b325-f5b99564edc8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "hircine-s-rage",
   title: "Hircine's Rage",
   key: "hircine-s-rage",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const maturation85880 = {
   id: "019e6f53-a466-7f0e-aea0-25c290ac524c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "maturation-85880",
   title: "Maturation",
   key: "maturation-85880",

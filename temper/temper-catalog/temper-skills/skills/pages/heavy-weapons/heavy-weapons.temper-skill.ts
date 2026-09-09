@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const heavyWeapons = {
   id: "019e6226-00fa-71c2-b576-93bed9fe5ad1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "heavy-weapons",
   title: "Heavy Weapons",
   key: "heavy-weapons",

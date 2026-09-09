@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const remedyCascade = {
   id: "019e6f53-a5e8-7ae1-8fae-6e5f9d206ce7",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "remedy-cascade",
   title: "Remedy Cascade",
   key: "remedy-cascade",

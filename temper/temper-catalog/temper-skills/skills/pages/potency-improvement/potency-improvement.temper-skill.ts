@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const potencyImprovement = {
   id: "019e6224-cca9-71b1-80bb-f053cd78adce",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "potency-improvement",
   title: "Potency Improvement",
   key: "potency-improvement",

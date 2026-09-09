@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const resolve = {
   id: "019e6238-c302-724c-8167-e37fba8feae0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "resolve",
   title: "Resolve",
   key: "resolve",

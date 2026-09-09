@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const momentum = {
   id: "019e6f53-a497-7626-b486-5f24cb3abb2b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "momentum",
   title: "Momentum",
   key: "momentum",

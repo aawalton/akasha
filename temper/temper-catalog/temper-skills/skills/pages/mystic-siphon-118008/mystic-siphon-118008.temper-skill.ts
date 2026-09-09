@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const mysticSiphon118008 = {
   id: "019e6f53-a4ab-7955-9d72-71142742e981",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "mystic-siphon-118008",
   title: "Mystic Siphon",
   key: "mystic-siphon-118008",

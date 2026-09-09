@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const magnumShot38672 = {
   id: "019e6f53-a44f-7413-ace3-a6da7ce30522",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "magnum-shot-38672",
   title: "Magnum Shot",
   key: "magnum-shot-38672",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const honorTheDead = {
   id: "019e6245-a6a7-702f-9d79-0bc1dbfd5ede",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "honor-the-dead",
   title: "Honor the Dead",
   key: "honor-the-dead",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const rend = {
   id: "019e6226-010c-7531-90ff-eadbdd8ebe2c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "rend",
   title: "Rend",
   key: "rend",

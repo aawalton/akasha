@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const pursuit32636 = {
   id: "019e6f53-a56c-7b60-b8ec-a1c58aa769bd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "pursuit-32636",
   title: "Master of the Chase",
   key: "pursuit-32636",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const resistAffliction36011 = {
   id: "019e6f53-a60d-7b4d-9e21-e493c798fd36",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "resist-affliction-36011",
   title: "Resist Affliction",
   key: "resist-affliction-36011",

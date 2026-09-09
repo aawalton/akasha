@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const poisonInjection = {
   id: "019e6226-0103-7162-b4b7-cb92f6d006e0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "poison-injection",
   title: "Poison Injection",
   key: "poison-injection",

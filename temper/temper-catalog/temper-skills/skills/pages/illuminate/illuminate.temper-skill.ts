@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const illuminate = {
   id: "019e6245-a6ae-73a6-9d83-bcaddfa4e855",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "illuminate",
   title: "Illuminate",
   key: "illuminate",

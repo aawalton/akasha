@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const redDiamond36155 = {
   id: "019e6f53-a5d3-7047-9c19-1dd2d0cb9718",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "red-diamond-36155",
   title: "Red Diamond",
   key: "red-diamond-36155",

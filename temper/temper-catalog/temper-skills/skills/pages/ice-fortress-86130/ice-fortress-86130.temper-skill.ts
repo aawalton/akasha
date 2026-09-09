@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const iceFortress86130 = {
   id: "019e6f53-a341-761a-b1de-ca1f1a0a6026",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ice-fortress-86130",
   title: "Ice Fortress",
   key: "ice-fortress-86130",

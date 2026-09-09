@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const piercingHowl = {
   id: "019e6f53-a505-7829-a7d7-640a4c94fdff",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "piercing-howl",
   title: "Gnash",
   key: "piercing-howl",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const lingeringFlare = {
   id: "019e6251-4cce-7085-8eff-321285c698da",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "lingering-flare",
   title: "Lingering Flare",
   key: "lingering-flare",

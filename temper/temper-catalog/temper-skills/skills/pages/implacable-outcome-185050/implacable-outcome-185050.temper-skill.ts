@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const implacableOutcome185050 = {
   id: "019e6f53-a364-79e5-960b-243966e1de8b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "implacable-outcome-185050",
   title: "Implacable Outcome",
   key: "implacable-outcome-185050",

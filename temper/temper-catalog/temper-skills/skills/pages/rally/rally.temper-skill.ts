@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const rally = {
   id: "019e6226-0108-7262-8f47-f52e5498cffa",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "rally",
   title: "Rally",
   key: "rally",

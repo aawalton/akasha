@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const infectiousClaws = {
   id: "019e6f53-a372-76d7-90a4-d335d351ba9f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "infectious-claws",
   title: "Rending Claws",
   key: "infectious-claws",

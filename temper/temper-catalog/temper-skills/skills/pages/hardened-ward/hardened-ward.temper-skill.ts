@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const hardenedWard = {
   id: "019e6245-a69a-7c6c-bc84-7ac46cc494d0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "hardened-ward",
   title: "Hardened Ward",
   key: "hardened-ward",

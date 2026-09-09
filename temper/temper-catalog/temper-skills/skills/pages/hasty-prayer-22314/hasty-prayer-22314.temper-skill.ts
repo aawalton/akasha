@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const hastyPrayer22314 = {
   id: "019e6f53-a2d5-7ba2-9aed-8369a18cc24b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "hasty-prayer-22314",
   title: "Hasty Prayer",
   key: "hasty-prayer-22314",

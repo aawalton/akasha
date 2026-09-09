@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const powerStone31396 = {
   id: "019e6f53-a531-7b54-b5d0-d2fb547d5ec9",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "power-stone-31396",
   title: "Power Stone",
   key: "power-stone-31396",

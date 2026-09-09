@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const healingThicket = {
   id: "019e6245-a69e-7dd0-9f37-40faa6da6b2b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "healing-thicket",
   title: "Healing Thicket",
   key: "healing-thicket",

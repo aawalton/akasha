@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const pulsar = {
   id: "019e6226-0104-7c4e-9ac0-9ac9de69ce63",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "pulsar",
   title: "Pulsar",
   key: "pulsar",

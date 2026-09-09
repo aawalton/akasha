@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const highborn = {
   id: "019e624a-12cb-7664-8005-72574986fe5b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "highborn",
   title: "Highborn",
   key: "highborn",

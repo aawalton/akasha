@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const metallurgy = {
   id: "019e6224-cca4-78b1-9b24-9538db755ab7",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "metallurgy",
   title: "Metallurgy",
   key: "metallurgy",

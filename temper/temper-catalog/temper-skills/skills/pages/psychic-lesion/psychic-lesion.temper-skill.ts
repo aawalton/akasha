@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const psychicLesion = {
   id: "019e6245-a6f3-72fc-8dce-37e62a3e03f8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "psychic-lesion",
   title: "Psychic Lesion",
   key: "psychic-lesion",

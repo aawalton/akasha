@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const hexproof = {
   id: "019e6245-a6a4-7fbc-b1ab-59825e996907",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "hexproof",
   title: "Hexproof",
   key: "hexproof",

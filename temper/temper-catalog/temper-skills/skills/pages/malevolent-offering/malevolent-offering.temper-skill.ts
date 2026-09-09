@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const malevolentOffering = {
   id: "019e6f53-a450-7937-b429-2856016c2897",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "malevolent-offering",
   title: "Malevolent Offering",
   key: "malevolent-offering",

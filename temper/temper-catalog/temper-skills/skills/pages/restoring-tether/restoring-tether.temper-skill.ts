@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const restoringTether = {
   id: "019e6f53-a634-7c82-87c8-48a1c66accf4",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "restoring-tether",
   title: "Restoring Tether",
   key: "restoring-tether",

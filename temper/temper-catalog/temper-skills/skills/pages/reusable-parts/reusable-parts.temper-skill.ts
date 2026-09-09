@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const reusableParts = {
   id: "019e6245-a712-71dc-a8ef-da59c7f0eb8a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "reusable-parts",
   title: "Reusable Parts",
   key: "reusable-parts",

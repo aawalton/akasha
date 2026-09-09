@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const quickCloak38901 = {
   id: "019e6f53-a571-724a-94ba-72912e314969",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "quick-cloak-38901",
   title: "Quick Cloak",
   key: "quick-cloak-38901",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const packLeader39075 = {
   id: "019e6f53-a4d9-7fd5-8ccc-3848f9048a58",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "pack-leader-39075",
   title: "Pack Leader",
   key: "pack-leader-39075",

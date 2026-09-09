@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const raceAgainstTime103710 = {
   id: "019e6f53-a579-734f-ab16-9f5187732c3c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "race-against-time-103710",
   title: "Race Against Time",
   key: "race-against-time-103710",

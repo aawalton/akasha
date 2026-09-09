@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const metalExtraction = {
   id: "019e6224-cca3-7a12-a2d2-e4db0a2d411d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "metal-extraction",
   title: "Metal Extraction",
   key: "metal-extraction",
