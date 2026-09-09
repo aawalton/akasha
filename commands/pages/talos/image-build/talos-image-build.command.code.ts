@@ -1,12 +1,12 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { buildSchematic } from "@akasha/talos/build-schematic"
 import { emitSchematicYaml } from "@akasha/talos/emit-yaml"
 import { installerIsoUrl, registerSchematic } from "@akasha/talos/factory"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const NODE = "--node"
 

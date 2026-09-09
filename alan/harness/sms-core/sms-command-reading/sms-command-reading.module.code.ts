@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import type { Given } from "../../../../commands/modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type Filing,
   filing,

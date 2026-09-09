@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { join, relative, resolve, sep } from "node:path"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
-import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
+import { saidBy as messageOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { codeRoot } from "@akasha/pages/code-root"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"

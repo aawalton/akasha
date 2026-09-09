@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { z } from "zod"
+import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
 import { type Reading, readingKept } from "../reading/readout-reading.module.code.ts"
 

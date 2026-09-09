@@ -1,5 +1,4 @@
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import {
   type SubagentPage,
   seatPageAt,
@@ -13,6 +12,7 @@ import {
   seatTurnStateOf,
 } from "@akasha/seat-system/seat-turn-state"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readIn } from "./no-word-reading/no-word-reading.module.code.ts"
 
 export type ForestSeat = ForestRow & {

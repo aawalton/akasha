@@ -1,11 +1,14 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { framesOf, saidBy } from "@akasha/command-system/fault-saying"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
+import {
+  framesOf,
+  saidBy,
+} from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
 import { closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
 import type { AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"

@@ -1,8 +1,8 @@
-import { whyOf } from "@akasha/command-system/fault-saying"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import { resolveApp } from "@akasha/mobile-cli/mobile-app"
 import { attachWebview, requireDrivingState } from "@akasha/mobile-cli/sim-driver"
 import type { SimSessionState } from "@akasha/mobile-cli/sim-session"
+import { whyOf } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const APP_SAID = "--app"
 

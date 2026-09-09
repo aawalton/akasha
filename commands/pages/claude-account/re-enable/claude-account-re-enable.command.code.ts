@@ -1,4 +1,3 @@
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { readingIn } from "@akasha/indexes"
 import { valueAt } from "@akasha/pages/page-value"
 import {
@@ -6,6 +5,7 @@ import {
   subscriptionMarks,
 } from "../../../../agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const TAKES_ONE = "this takes one account and no more, named as its page is named"
 

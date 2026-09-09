@@ -1,13 +1,13 @@
 import { existsSync } from "node:fs"
 import { readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

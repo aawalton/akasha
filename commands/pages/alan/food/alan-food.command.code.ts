@@ -11,9 +11,9 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import { rootOf, written } from "../../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "../../../../alan/track/daily/day-opening/day-opening.module.code.ts"
-import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const LOG = "log"
 

@@ -1,4 +1,3 @@
-import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
 import { installNamedAddon } from "akasha/temper/community-addons/install-named-addon/install-named-addon.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
@@ -8,6 +7,7 @@ import {
 } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { saidBy as messageOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const SAID_WRONG = 1
 

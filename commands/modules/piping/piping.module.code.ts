@@ -1,5 +1,5 @@
 import { closeSync, constants, openSync, readSync } from "node:fs"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 
 const RUN_OLD = "<<<<<<<"
 

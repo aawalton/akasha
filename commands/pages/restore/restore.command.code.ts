@@ -1,9 +1,9 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
-import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { type Answer, answering, type Given } from "../../modules/calling/calling.module.code.ts"
 import { bodyAt } from "../../modules/commit-reading/commit-reading.module.code.ts"
+import { saidBy } from "../../modules/fault-saying/fault-saying.module.code.ts"
 import { FILE_PATH } from "../../modules/flags/command-flags.module.code.ts"
 import { offRepo, pathAt } from "../../modules/said-pathing/said-pathing.module.code.ts"
 

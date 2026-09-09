@@ -1,5 +1,4 @@
 import { join, resolve } from "node:path"
-import { saidBy as saidOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils/run/running"
@@ -7,6 +6,7 @@ import { compilerConfigPathFor } from "akasha/temper/addon-build/addon-compiler-
 import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { saidBy as saidOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const DATA = 2
 

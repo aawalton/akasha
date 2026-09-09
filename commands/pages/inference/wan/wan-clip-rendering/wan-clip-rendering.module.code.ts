@@ -23,9 +23,9 @@ import {
   sha256Hex,
 } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
-import { whyOf } from "../../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 import type { Act, Taken } from "../wan-arguing/wan-arguing.module.code.ts"
 import { at, EXTEND, GENERATE, numberIn } from "../wan-arguing/wan-arguing.module.code.ts"
 import { framesIn, homeIn, portIn, sizeIn } from "../wan-hosting/wan-hosting.module.code.ts"

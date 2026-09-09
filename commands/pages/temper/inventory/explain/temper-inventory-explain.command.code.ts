@@ -1,6 +1,5 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
@@ -27,6 +26,7 @@ import {
 } from "../../../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

@@ -1,4 +1,3 @@
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { listedAt } from "@akasha/indexes"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
@@ -7,6 +6,7 @@ import { tasksIn } from "@akasha/readouts/inboxes-tasks"
 import { keepReading } from "@akasha/readouts/readout-reading"
 import { statedAt } from "@akasha/readouts/readout-tier"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 

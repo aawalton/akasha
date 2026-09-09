@@ -1,4 +1,4 @@
-import { saidBy } from "@akasha/command-system/fault-saying"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { RingCounts } from "../../../../readouts/body/readout-body.module.code.ts"
 import { fetchRingCountsFromMonarch } from "../../../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 import { keepReading } from "../../../../readouts/reading/readout-reading.module.code.ts"

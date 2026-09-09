@@ -1,4 +1,3 @@
-import { whyOf } from "@akasha/command-system/fault-saying"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 import {
   inventorySettings,
@@ -6,6 +5,7 @@ import {
 } from "../../../../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

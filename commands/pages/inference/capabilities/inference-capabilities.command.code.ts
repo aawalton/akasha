@@ -1,4 +1,3 @@
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { parseMfluxTools } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import type { InferenceService } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
@@ -17,6 +16,7 @@ import {
   told,
 } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const MODEL_TYPE = "--model-type"
 

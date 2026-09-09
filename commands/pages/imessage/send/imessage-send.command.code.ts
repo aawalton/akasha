@@ -1,6 +1,5 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
@@ -27,6 +26,7 @@ import {
   told,
 } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { filing, wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
 
 const TO = "--to"

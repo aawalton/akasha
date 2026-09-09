@@ -1,12 +1,12 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { basename } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import {
   AGENT_SETTINGS_PATH,
   readAgentSettingsBase,
   refreshedSettings,
 } from "../../../../seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const JSON_FLAG = "--json"
 

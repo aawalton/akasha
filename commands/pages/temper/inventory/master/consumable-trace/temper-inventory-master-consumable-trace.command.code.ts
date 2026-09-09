@@ -1,5 +1,4 @@
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
@@ -7,6 +6,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import { z } from "zod"
 import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

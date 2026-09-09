@@ -7,11 +7,11 @@ import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import type { Bodies } from "../drafting/drafting.module.code.ts"
+import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import {
   clearedOff,
   clearedUnder,

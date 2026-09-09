@@ -1,7 +1,7 @@
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { charismaIn } from "../../../attributes/pages/charisma.attribute.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/pages/constitution.attribute.code.ts"
 import { enduranceIn } from "../../../attributes/pages/endurance.attribute.code.ts"

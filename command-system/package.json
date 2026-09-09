@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",
     "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts"
   },

@@ -18,7 +18,6 @@ import {
   worldAt,
 } from "../../../changes/modules/shadow/change-shadow.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
@@ -26,6 +25,7 @@ import {
 import { mistaking, puttingUpSaid } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { NO_PAGE, saidOf, waitingSaid } from "../change-acting/change-acting.module.code.ts"
+import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "../flags/command-flags.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"

@@ -1,4 +1,3 @@
-import { saidBy } from "@akasha/command-system/fault-saying"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
 import { dayAfter } from "akasha/alan/harness/day/string/day-string.module.code.ts"
@@ -7,6 +6,7 @@ import {
   INBOX_LABEL,
   listMessages,
 } from "akasha/google/email/gmail-messages/gmail-messages.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { InboxKey } from "../keys/inbox-keys.module.code.ts"
 
 const EMAIL_MAX = 100

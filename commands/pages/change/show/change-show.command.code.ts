@@ -2,7 +2,6 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt, editsIn, foldedIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
-import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Given as Arguments } from "../../../modules/argument-reading/argument-reading.module.code.ts"
 import { mistaking } from "../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
@@ -11,6 +10,7 @@ import {
   noPageSaid,
   worldFor,
 } from "../../../modules/change-running/change-running.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { inputIn } from "../../../modules/piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../../../modules/reading/reading.module.code.ts"
 import { offRepo, pathAt } from "../../../modules/said-pathing/said-pathing.module.code.ts"

@@ -1,8 +1,8 @@
 import { resolve } from "node:path"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { initiativesDrawn } from "@akasha/domains/work-initiatives"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const CARRIES = "change-mechanical-file-content/move-property-value"
 

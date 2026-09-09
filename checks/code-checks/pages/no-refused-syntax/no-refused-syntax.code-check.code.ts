@@ -2,12 +2,12 @@ import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import { textOf } from "@akasha/code/body-text"
 import { parsedAs } from "@akasha/code/code-source"
-import { saidBy } from "@akasha/command-system/fault-saying"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   input,
   overEachFile,

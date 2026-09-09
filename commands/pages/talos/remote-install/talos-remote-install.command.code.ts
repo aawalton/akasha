@@ -1,4 +1,3 @@
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { buildSchematic } from "@akasha/talos/build-schematic"
 import { emitSchematicYaml } from "@akasha/talos/emit-yaml"
 import {
@@ -13,6 +12,7 @@ import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import { runSsh } from "@akasha/talos/ssh"
 import { waitForPort } from "@akasha/talos/wait-for-port"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const NODE = "--node"
 

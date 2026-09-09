@@ -1,5 +1,4 @@
 import { resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
@@ -9,6 +8,7 @@ import {
 import { readLastExplain } from "../../../../../temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 

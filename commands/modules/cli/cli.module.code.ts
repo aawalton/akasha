@@ -1,10 +1,10 @@
 import { Buffer } from "node:buffer"
 import { writeSync } from "node:fs"
 import { resolve } from "node:path"
-import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Answer, Outside } from "../calling/calling.module.code.ts"
 import { calling } from "../calling/calling.module.code.ts"
 import { commitAuthor } from "../commit-author/commit-author.module.code.ts"
+import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import { writerIn } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 

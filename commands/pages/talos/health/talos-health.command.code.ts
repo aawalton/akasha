@@ -1,9 +1,9 @@
 import { existsSync } from "node:fs"
-import { whyOf } from "@akasha/command-system/fault-saying"
 import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/nodes"
 import { clusterTalosconfigPath } from "@akasha/talos/paths"
 import { runTalosctl } from "@akasha/talos/talosctl"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const IP = "--ip"
 

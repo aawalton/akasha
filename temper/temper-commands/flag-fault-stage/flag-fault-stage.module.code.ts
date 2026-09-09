@@ -1,6 +1,6 @@
 import { mkdirSync, mkdtempSync, realpathSync } from "node:fs"
 import { join } from "node:path"
-import { saidBy } from "@akasha/command-system/fault-saying"
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 

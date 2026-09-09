@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { isAbsolute, join, resolve } from "node:path"
-import { whyOf } from "@akasha/command-system/fault-saying"
+import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export type Shape = "token" | "prose" | "switch"
 
