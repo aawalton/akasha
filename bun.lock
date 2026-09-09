@@ -16,7 +16,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
-        "@akasha/google-email": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
@@ -628,17 +627,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/domains": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "google/email": {
-      "name": "@akasha/google-email",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "@googleapis/gmail": "^17.0.0",
         "zod": "^4.3.6",
       },
     },
@@ -1783,8 +1771,6 @@
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
-
-    "@akasha/google-email": ["@akasha/google-email@workspace:google/email"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 

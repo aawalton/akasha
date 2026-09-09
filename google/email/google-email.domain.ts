@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const googleEmail = {
   id: "01a05c0e-372c-7620-9bcc-082febbe3f5b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "google-email",
   definition: "Alan's Gmail mailbox read, written to and kept in order",
-  manifest: "json",
   parts: [
     "module/gmail-credentials",
     "module/gmail-auth",
@@ -42,4 +41,4 @@ export const googleEmail = {
       statement: "Nothing here decides the fate of a message that arrives.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

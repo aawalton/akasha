@@ -1,6 +1,6 @@
-import { mailbox } from "@akasha/google-email/gmail-mailbox"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { recordToAgent } from "@akasha/seat-system/agent-record"
+import { mailbox } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,

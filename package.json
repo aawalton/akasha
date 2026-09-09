@@ -46,7 +46,6 @@
     "@radix-ui/react-slot": "*",
     "@akasha/command-system": "workspace:*",
     "@akasha/seat-system": "workspace:*",
-    "@akasha/google-email": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/rules-engine": "workspace:*",
     "@akasha/inference-clients": "workspace:*",

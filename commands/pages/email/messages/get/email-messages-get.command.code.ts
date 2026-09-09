@@ -1,5 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { getMessage } from "@akasha/google-email/email-message-fetching"
+import { getMessage } from "akasha/google/email/email-message-fetching/email-message-fetching.module.code.ts"
 import {
   answeredBy,
   answering,
