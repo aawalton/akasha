@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperDungeonChampions = {
   id: "01a060f9-bab9-7763-8ceb-8977b0b205de",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-dungeon-champions",
   definition: "the group bosses of the public dungeons and delves of Tamriel, drawn on the map",
-  manifest: "json",
   parts: [
     "module/dungeon-champion-names",
     "module/dungeon-champion-colors",
@@ -46,4 +45,4 @@ export const temperDungeonChampions = {
       statement: "The labels here are English alone.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

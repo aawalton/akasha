@@ -95,7 +95,8 @@
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/health-samples-day": "workspace:*",
     "@akasha/temper-capture-datamining": "workspace:*",
-    "@akasha/temper-capture-host": "workspace:*"
+    "@akasha/temper-capture-host": "workspace:*",
+    "@akasha/temper-settings-panel": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

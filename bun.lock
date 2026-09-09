@@ -66,6 +66,7 @@
         "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-saved-vars-migration": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/temper-upstream-data": "workspace:*",
         "@akasha/temper-watcher": "workspace:*",
         "@akasha/upscale": "workspace:*",
@@ -1474,7 +1475,6 @@
       "name": "@akasha/temper-collections-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-dungeon-champions": "workspace:*",
         "@akasha/temper-item-browser": "workspace:*",
         "@akasha/temper-lorebooks": "workspace:*",
         "@akasha/temper-lost-treasure": "workspace:*",
@@ -1518,12 +1518,6 @@
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "temper/dungeon-champions": {
-      "name": "@akasha/temper-dungeon-champions",
-      "dependencies": {
-        "@akasha/temper-settings-panel": "workspace:*",
       },
     },
     "temper/dungeons": {
@@ -2847,8 +2841,6 @@
     "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/completion-import"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
-
-    "@akasha/temper-dungeon-champions": ["@akasha/temper-dungeon-champions@workspace:temper/dungeon-champions"],
 
     "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:temper/dungeons"],
 
