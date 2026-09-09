@@ -17,7 +17,9 @@ const ID = "id"
 
 const SLUG = "slug"
 
-const PAGE_TYPE = "pageTypeSlug"
+const PAGE_TYPE = "type"
+
+const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 type Holder = { readonly path: string }
 
@@ -40,7 +42,7 @@ function heldAt(given: Guarding, path: string): string | null {
     }
   }
   const slug = textAt(value, SLUG)
-  const pageTypeSlug = textAt(value, PAGE_TYPE)
+  const pageTypeSlug = textAt(value, PAGE_TYPE) ?? textAt(value, PAGE_TYPE_SLUG)
   if (slug !== null && pageTypeSlug !== null) {
     const other = otherThan(index.listedAt(pageTypeSlug, slug), path)
     if (other !== null) {

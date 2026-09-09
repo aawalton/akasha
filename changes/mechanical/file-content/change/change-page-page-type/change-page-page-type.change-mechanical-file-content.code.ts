@@ -10,7 +10,7 @@ const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const TYPE_KEY = "pageTypeSlug"
 
-const STATED = /^ {2}pageTypeSlug: "([^"]*)",$/m
+const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/m
 
 export type Asked = {
   readonly at: string
@@ -25,12 +25,13 @@ export function passagesFor(
   was: string,
   now: string,
   line: string,
-  imported: string
+  imported: string,
+  key: string
 ): readonly (readonly [string, string])[] {
   return [
     [line, imported],
     [`satisfies ${typedAs(was)}`, `satisfies ${typedAs(now)}`],
-    [`${TYPE_KEY}: ${JSON.stringify(was)}`, `${TYPE_KEY}: ${JSON.stringify(now)}`],
+    [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`],
   ]
 }
 
@@ -50,7 +51,8 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (stated === null) {
     return refusing(`\`${given.at}\` states no \`${TYPE_KEY}\`, so no page type is restated`)
   }
-  const was = stated[1] ?? ""
+  const key = stated[1] ?? TYPE_KEY
+  const was = stated[2] ?? ""
   if (was === type.slug) {
     return refusing(`\`${was}\` is the page type the body states already`)
   }
@@ -65,7 +67,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: Answer[] = []
   let over = world
-  for (const [old, next] of passagesFor(was, type.slug, line[0], imported)) {
+  for (const [old, next] of passagesFor(was, type.slug, line[0], imported, key)) {
     const answer = await reach(over, CHANGE_FILE_CONTENT, { at: given.at, old, new: next })
     if (answer.said.refused !== null) return answer.said
     carried.push(answer.said)

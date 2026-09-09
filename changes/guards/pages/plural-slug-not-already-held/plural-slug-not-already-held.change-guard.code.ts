@@ -13,11 +13,13 @@ const PAGE_TYPE = "page-type"
 
 const PLURAL = "pluralSlug"
 
+const TYPE = "type"
+
 const TYPE_SLUG = "pageTypeSlug"
 
 function pluralIn(value: Value | null): string | null {
   if (value === null) return null
-  const said = textAt(value, TYPE_SLUG)
+  const said = textAt(value, TYPE) ?? textAt(value, TYPE_SLUG)
   if (said === null || slugOf(said) !== PAGE_TYPE) return null
   return textAt(value, PLURAL)
 }

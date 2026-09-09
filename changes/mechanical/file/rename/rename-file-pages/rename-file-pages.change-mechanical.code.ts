@@ -10,6 +10,8 @@ const RENAME_PAGE_ADDRESSES = "change-mechanical-file-content/rename-page-addres
 
 const SLUG = "slug"
 
+const PAGE_TYPE = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 export type Asked = {
@@ -32,7 +34,7 @@ function readIn(world: World, moved: Readonly<Record<string, string>>): Read {
     if (text === null) return { refused: `\`${at}\` could not be read` }
     const said = statedIn(parsedAs(at, text))
     const slug = said.get(SLUG)
-    const pageTypeSlug = said.get(PAGE_TYPE_SLUG)
+    const pageTypeSlug = said.get(PAGE_TYPE) ?? said.get(PAGE_TYPE_SLUG)
     if (slug === undefined) return { refused: `\`${at}\` states no \`${SLUG}\`` }
     if (pageTypeSlug === undefined) return { refused: `\`${at}\` states no \`${PAGE_TYPE_SLUG}\`` }
     found.push({ at, was: slug.text, to, pageTypeSlug: pageTypeSlug.text })

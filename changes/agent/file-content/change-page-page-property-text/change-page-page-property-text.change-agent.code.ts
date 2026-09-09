@@ -8,6 +8,8 @@ const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-pr
 
 const TEXT_PROPERTY = "text-property"
 
+const PAGE_TYPE = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const AT = "at"
@@ -28,7 +30,7 @@ export async function changePagePropertyText(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no wording is stated anew`)
-  const pageTypeSlug = slugAt(read.value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = slugAt(read.value, PAGE_TYPE) ?? slugAt(read.value, PAGE_TYPE_SLUG)
   if (pageTypeSlug === null) {
     return refusing(`\`${given.at}\` states no page type, so \`${given.key}\` names no property`)
   }

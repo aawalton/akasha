@@ -25,6 +25,8 @@ const RENAME_EXPORT = "change-mechanical-file-content/rename-export"
 
 const PAGE_TYPE = "page-type"
 
+const PAGE_TYPE_KEY = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const CODE = new Set([".ts", ".tsx"])
@@ -114,6 +116,11 @@ async function carriedOver(held: Carried, moved: ReadonlyMap<string, string>): P
   return carried
 }
 
+function keyAt(world: World, at: string, was: string): string {
+  if (world.textOf(at)?.includes(`${PAGE_TYPE_KEY}: "${was}"`) === true) return PAGE_TYPE_KEY
+  return PAGE_TYPE_SLUG
+}
+
 async function pageAnew(
   world: World,
   answers: readonly Answer[],
@@ -127,10 +134,11 @@ async function pageAnew(
   if (lands === undefined) return { refused: `\`${one.at}\` names no file the page type carries` }
   const held = await carriedOver({ answers, world }, moved)
   if ("refused" in held) return held
+  const key = keyAt(held.world, lands, was)
   return await heldOver(held.world, held.answers, CHANGE_FILE_CONTENT, {
     at: lands,
-    old: `${PAGE_TYPE_SLUG}: "${was}"`,
-    new: `${PAGE_TYPE_SLUG}: "${now}"`,
+    old: `${key}: "${was}"`,
+    new: `${key}: "${now}"`,
   })
 }
 

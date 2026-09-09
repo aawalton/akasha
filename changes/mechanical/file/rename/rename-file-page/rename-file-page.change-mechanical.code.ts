@@ -43,6 +43,8 @@ const TYPED = ".ts"
 
 const SLUG = "slug"
 
+const PAGE_TYPE_KEY = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const PAGE_TYPE = "page-type"
@@ -70,7 +72,7 @@ function readIn(at: string, text: string): Read {
   const source = parsedAs(at, text)
   const said = statedIn(source)
   const slug = said.get(SLUG)
-  const pageTypeSlug = said.get(PAGE_TYPE_SLUG)
+  const pageTypeSlug = said.get(PAGE_TYPE_KEY) ?? said.get(PAGE_TYPE_SLUG)
   if (slug === undefined) return { refused: `\`${at}\` states no \`${SLUG}\`` }
   if (pageTypeSlug === undefined) return { refused: `\`${at}\` states no \`${PAGE_TYPE_SLUG}\`` }
   return {

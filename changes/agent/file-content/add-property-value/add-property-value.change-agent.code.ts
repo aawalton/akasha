@@ -23,7 +23,7 @@ export type AddPropertyValueAsked = {
 }
 
 function singleIn(world: World, value: Value, key: string): boolean {
-  const stated = textAt(value, "pageTypeSlug")
+  const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (stated === null) return false
   const carried = world.index.propertiesIfNamed(slugOf(stated))
   if (carried === null) return false
