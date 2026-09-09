@@ -1,10 +1,10 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { CodeFileProperty } from "@akasha/pages/code-file-property"
 
 export type ComponentCode = "tsx"
 
 export const componentCode = {
   id: "01a071cb-913e-7640-a55f-ecae5999419f",
-  pageTypeSlug: "file-property",
+  pageTypeSlug: "code-file-property",
   slug: "component-code",
   propertySlug: "code",
   definition: "the code a component is",
@@ -14,4 +14,4 @@ export const componentCode = {
       statement: "This code is written in TSX.",
     },
   ],
-} as const satisfies FileProperty
+} as const satisfies CodeFileProperty

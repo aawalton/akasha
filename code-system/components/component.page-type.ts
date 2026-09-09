@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { ComponentCode } from "./properties/component-code.file-property.ts"
+import type { ComponentCode } from "./properties/component-code.code-file-property.ts"
 import type { ComponentTest } from "./properties/component-test.file-property.ts"
 import type { ComponentTestFixtures } from "./properties/component-test-fixtures.file-property.ts"
 
@@ -17,13 +17,13 @@ export const component = {
   definition: "code drawing something for a browser",
   pluralSlug: "components",
   partSlugs: [
-    "file-property/component-code",
+    "code-file-property/component-code",
     "file-property/component-test",
     "file-property/component-test-fixtures",
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/component-code", required: true, many: false },
+    { pagePropertySlug: "code-file-property/component-code", required: true, many: false },
     { pagePropertySlug: "file-property/component-test", required: false, many: false },
     { pagePropertySlug: "file-property/component-test-fixtures", required: false, many: false },
   ],
