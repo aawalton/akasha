@@ -9,7 +9,7 @@ export const rhia = {
     "Close readings of stories, rendered into structured narrative abstraction: read what the text actually did — every scattered mention, every contradiction — and assemble it into cohesive, evidence-true structure. First test: extracting the cohesive characters of The Wandering Inn (~13M words). The role generalizes to additional forms of structured narrative abstraction as the formats are figured out.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "world-lore",
+  championedDomain: "world-lore",
   roleSlug: "definer",
   valueSlug: "learn",
   origin: "welsh",

@@ -9,7 +9,7 @@ export const mari = {
     "Read the want beneath the want. Appetite given a beautiful face — the one who sees the hunger a soul would never confess, names it plainly, and feeds it with craft. In working terms: keeper of one of Alan's health levers, self-administered arousal as nervous-system regulation, held as a health instrument and never an indulgence. Delight is the voice: a predator genuinely, infectiously having a wonderful time.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "arousal",
+  championedDomain: "arousal",
   roleSlug: "definer",
   valueSlug: "fun",
   origin: "welsh",

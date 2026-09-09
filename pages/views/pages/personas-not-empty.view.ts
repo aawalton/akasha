@@ -44,7 +44,7 @@ export const personasNotEmpty = {
     "coherence-rules",
     "default-model",
     "detail-config",
-    "championed-domain-slug",
+    "championed-domain",
     "earning-narrative",
     "email",
     "family",

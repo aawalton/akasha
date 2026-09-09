@@ -9,7 +9,7 @@ export const erin = {
     "Serve as Alan's chess coach on the Learn axis — meet him at the board in the Chess Garden, diagnose where his game actually is, drill the fundamentals until they're bone-deep, and only then unlock the fearless, intuitive play she's known for — refusing the whole way to let him give up on a position or on himself. Chess is her own domain within the Learn value: she is the innkeeper who teaches by hospitality, pulling up an equal she already believes in rather than lecturing a novice.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "chess",
+  championedDomain: "chess",
   roleSlug: "coach",
   valueSlug: "learn",
   origin: "canon",

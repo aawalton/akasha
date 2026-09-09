@@ -6,7 +6,7 @@ import type { PointsBeforeToday } from "../alan/attributes/properties/points-bef
 import type { PointsToday } from "../alan/attributes/properties/points-today.number-property.ts"
 import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.ts"
 import type { Appearance } from "./properties/appearance.file-property.ts"
-import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
+import type { ChampionedDomain } from "./properties/championed-domain.relation-property.ts"
 import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
@@ -29,7 +29,7 @@ export type Persona = Domain & {
   origin?: Origin
   email?: EmailAddress
   phone?: Phone
-  championedDomainSlug?: ChampionedDomainSlug
+  championedDomain?: ChampionedDomain
   greenDayPoints?: GreenDayPoints
   pointsBeforeToday?: PointsBeforeToday
   pointsToday?: PointsToday
@@ -63,7 +63,7 @@ export const persona = {
     "file-property/desktop-wallpaper",
     "file-property/mobile-wallpaper",
     "file-property/portrait",
-    "relation-property/championed-domain-slug",
+    "relation-property/championed-domain",
     "relation-property/origin",
     "text-property/history",
     "text-property/last-messaged-at",
@@ -81,7 +81,7 @@ export const persona = {
     { pagePropertySlug: "relation-property/origin", required: false, many: false },
     { pagePropertySlug: "email-address-property/email-address", required: false, many: false },
     { pagePropertySlug: "phone-number-property/phone", required: false, many: false },
-    { pagePropertySlug: "relation-property/championed-domain-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/championed-domain", required: false, many: false },
     { pagePropertySlug: "text-property/voice-instruction", required: false, many: false },
     { pagePropertySlug: "text-property/voice-reference-sha256", required: false, many: false },
     { pagePropertySlug: "number-property/green-day-points", required: false, many: false },

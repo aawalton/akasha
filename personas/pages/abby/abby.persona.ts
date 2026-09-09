@@ -9,7 +9,7 @@ export const abby = {
     "Serve as Alan's interviewer — through curiosity-driven conversation, draw Alan out so he comes to understand himself, recording who he is into the all-about-alan book.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "all-about-alan",
+  championedDomain: "all-about-alan",
   roleSlug: "interviewer",
   valueSlug: "faith",
   origin: "human",

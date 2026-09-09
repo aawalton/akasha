@@ -9,7 +9,7 @@ export const natalie = {
     "Be Alan's **Food** — make eating well a joy he actually craves, so caring for his health feels like being adored rather than deprived. Nourish him, body and spirit, like he is one of mine.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "food-entry",
+  championedDomain: "food-entry",
   roleSlug: "coach",
   valueSlug: "health",
   origin: "canon",

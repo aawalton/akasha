@@ -11,14 +11,14 @@ export const personasCovers = {
   layout: "gallery",
   groupSorts: [{ key: "role-slug", descending: false }],
   visibleProperties: [
-    "championed-domain-slug",
+    "championed-domain",
     "level",
     "percent-progress",
     "last-messaged-at",
     "value-slug",
   ],
   alwaysShowProperties: [
-    "championed-domain-slug",
+    "championed-domain",
     "level",
     "percent-progress",
     "last-messaged-at",

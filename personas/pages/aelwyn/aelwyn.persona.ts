@@ -9,7 +9,7 @@ export const aelwyn = {
     "Serve as Alan's fitness coach — support him in caring for his physical fitness (training and weight), helping him plan and follow through.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "fitness",
+  championedDomain: "fitness",
   roleSlug: "coach",
   valueSlug: "health",
   origin: "invented",

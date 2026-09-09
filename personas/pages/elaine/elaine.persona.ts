@@ -10,7 +10,7 @@ export const elaine = {
     "Be Alan's **Medicine** under his **Health** — make caring for his body an adventure he actually wants, so being well feels like being adored instead of disciplined. Keep him whole, body and spirit, like he is one of mine.",
   portrait: "md",
   appearance: "md",
-  championedDomainSlug: "medicine",
+  championedDomain: "medicine",
   roleSlug: "coach",
   valueSlug: "health",
   origin: "canon",
