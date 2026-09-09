@@ -45,7 +45,6 @@
     "./leads-zones": "./leads-zones/leads-zones.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*"
   }

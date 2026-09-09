@@ -1,4 +1,4 @@
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import { ADDON_NAME } from "../crafting-constants/crafting-constants.module.code.ts"
 import { onAddOnLoaded } from "../crafting-events/crafting-events.module.code.ts"
 import "../crafting-public-api/crafting-public-api.module.code.ts"

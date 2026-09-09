@@ -34,7 +34,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
@@ -932,12 +931,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/addon-init": {
-      "name": "@akasha/temper-addon-init",
-      "dependencies": {
-        "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
     "temper/addons-resolve": {
       "name": "@akasha/temper-addons-resolve",
       "dependencies": {
@@ -949,7 +942,6 @@
     "temper/antiquities-addon": {
       "name": "@akasha/temper-antiquities-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -957,7 +949,6 @@
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
       },
     },
@@ -984,7 +975,6 @@
     "temper/characters-addon": {
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-companions-addon": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -992,14 +982,10 @@
     },
     "temper/collections-addon": {
       "name": "@akasha/temper-collections-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-      },
     },
     "temper/combat-addon": {
       "name": "@akasha/temper-combat-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1008,7 +994,6 @@
     "temper/companions-addon": {
       "name": "@akasha/temper-companions-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1017,7 +1002,6 @@
     "temper/crafting-addon": {
       "name": "@akasha/temper-crafting-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1037,7 +1021,6 @@
     "temper/events-addon": {
       "name": "@akasha/temper-events-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1045,7 +1028,6 @@
     "temper/housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-lib-custom-menu": "workspace:*",
@@ -1055,7 +1037,6 @@
     "temper/hud-addon": {
       "name": "@akasha/temper-hud-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1072,7 +1053,6 @@
     "temper/items-addon": {
       "name": "@akasha/temper-items-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
@@ -1082,7 +1062,6 @@
     "temper/keybinder-addon": {
       "name": "@akasha/temper-keybinder-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
       },
     },
@@ -1180,7 +1159,6 @@
     "temper/navigation-addon": {
       "name": "@akasha/temper-navigation-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1194,7 +1172,6 @@
     "temper/quests-addon": {
       "name": "@akasha/temper-quests-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -1202,7 +1179,6 @@
     "temper/selector-addon": {
       "name": "@akasha/temper-selector-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1294,7 +1270,6 @@
     "temper/trading-addon": {
       "name": "@akasha/temper-trading-addon",
       "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1439,8 +1414,6 @@
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
 
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
-
-    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/addon-init"],
 
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/temper-addon-library-types"],
 

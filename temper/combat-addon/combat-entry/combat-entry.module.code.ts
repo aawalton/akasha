@@ -10,7 +10,7 @@ import "../combat-ui-context-menus/combat-ui-context-menus.module.code.ts"
 import "../combat-ui-selection/combat-ui-selection.module.code.ts"
 import "../combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
 
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import { ADDON_NAME } from "../combat-constants/combat-constants.module.code.ts"
 import { setCombatLogStringFormatter } from "../combat-core-events/combat-core-events.module.code.ts"
 import { initializeCore } from "../combat-core-init/combat-core-init.module.code.ts"

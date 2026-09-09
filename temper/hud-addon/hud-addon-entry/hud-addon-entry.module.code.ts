@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-event-manager"
 import "@akasha/temper-eso-types/eso-events"
 import "../hud-addon-public-api/hud-addon-public-api.module.code.ts"
 
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import { initializeHudBar } from "../hud-addon-bar/hud-addon-bar.module.code.ts"
 import {
   installBuiltinFields,

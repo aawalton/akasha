@@ -1,6 +1,6 @@
 import "../keybinder-public-api/keybinder-public-api.module.code.ts"
 
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import { bindingFunctionsAvailable } from "../keybinder-binding-fns/keybinder-binding-fns.module.code.ts"
 import { ADDON_NAME } from "../keybinder-constants/keybinder-constants.module.code.ts"
 import { installBuildMasterListHook } from "../keybinder-filter/keybinder-filter.module.code.ts"

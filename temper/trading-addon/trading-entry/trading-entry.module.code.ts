@@ -19,7 +19,7 @@ import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "../trading-globals/trading-globals.module.code.ts"
 
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,

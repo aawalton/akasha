@@ -1,6 +1,5 @@
 import "../characters-public-api/characters-public-api.module.code.ts"
 
-import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import { collectMotifKnowledge } from "@akasha/temper-player-completion-state/completion-motif-knowledge"
 import {
@@ -8,6 +7,7 @@ import {
   initializeSavedVariables,
   pruneDeletedCharacters,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import { registerAddonInit } from "akasha/temper/addon-init/addon-init/addon-init.module.code.ts"
 import {
   finishPerfTrace,
   startPerfTrace,
