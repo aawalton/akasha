@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const shapeshifterANonHumanLitrpg0040Chapter35GoldMine = {
   id: "01a06730-4e0a-7dff-8538-6f8d94ae0d75",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0040-chapter-35-gold-mine",
   title: "Chapter 35: Gold Mine",
   story: "shapeshifter-a-non-human-litrpg",

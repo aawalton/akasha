@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sovereignSightProgressionFantasyCultivation0004Chapter004 = {
   id: "01a06730-4fac-799f-9748-bad6c17dc253",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "sovereign-sight-progression-fantasy-cultivation-0004-chapter-004",
   title: "Chapter 004",
   story: "sovereign-sight-progression-fantasy-cultivation",

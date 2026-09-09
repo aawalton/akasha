@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const shapeshifterANonHumanLitrpg0019Chapter15AcidSlimes = {
   id: "01a06730-4e08-7d56-bd29-5d89444feba8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0019-chapter-15-acid-slimes",
   title: "Chapter 15: Acid Slimes",
   story: "shapeshifter-a-non-human-litrpg",

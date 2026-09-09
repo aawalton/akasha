@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sherlyTheMostVirtuousHolyCow0020Chapter20CowsArmorAndSword = {
   id: "01a06730-4faa-7701-b6f8-0c6fcc782ccd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0020-chapter-20-cows-armor-and-sword",
   title: "Chapter 20 - Cow’s Armor and Sword",
   story: "sherly-the-most-virtuous-holy-cow",

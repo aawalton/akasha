@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const shapeshifterANonHumanLitrpg0014Chapter10NewParty = {
   id: "01a06730-4e08-78d5-bac7-31cf9d877d28",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0014-chapter-10-new-party",
   title: "Chapter 10: New Party",
   story: "shapeshifter-a-non-human-litrpg",

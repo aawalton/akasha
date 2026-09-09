@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sherlyTheMostVirtuousHolyCow0015Chapter15CowGirlChanges = {
   id: "01a06730-4fa9-79c2-ac1e-fb11c30f13a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0015-chapter-15-cow-girl-changes",
   title: "Chapter 15 - Cow Girl Changes",
   story: "sherly-the-most-virtuous-holy-cow",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   id: "01a06730-4e0a-75c6-9b1d-9838eff85e1d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0030-chapter-26-return-of-ghostwire",
   title: "Chapter 26: Return of Ghostwire",
   story: "shapeshifter-a-non-human-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sherlyTheMostVirtuousHolyCow0029Chapter29CowOnTheGap = {
   id: "01a06730-4faa-737a-98f1-84f99ffeca89",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0029-chapter-29-cow-on-the-gap",
   title: "Chapter 29 - Cow on The Gap",
   story: "sherly-the-most-virtuous-holy-cow",

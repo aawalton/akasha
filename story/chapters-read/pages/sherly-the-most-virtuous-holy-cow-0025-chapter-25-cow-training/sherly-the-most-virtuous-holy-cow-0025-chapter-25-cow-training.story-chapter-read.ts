@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sherlyTheMostVirtuousHolyCow0025Chapter25CowTraining = {
   id: "01a06730-4faa-738f-89df-be0b24e0e7d6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0025-chapter-25-cow-training",
   title: "Chapter 25 - Cow Training",
   story: "sherly-the-most-virtuous-holy-cow",
