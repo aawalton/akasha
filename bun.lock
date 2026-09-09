@@ -40,7 +40,6 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
-        "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-build-hash": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
@@ -1317,12 +1316,6 @@
     "temper/temper-addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
-    "temper/temper-alchemy": {
-      "name": "@akasha/temper-alchemy",
-      "dependencies": {
-        "@akasha/temper-formula-framework": "workspace:*",
-      },
-    },
     "temper/temper-build-deploy-checks": {
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
@@ -1347,7 +1340,6 @@
     "temper/temper-character-build": {
       "name": "@akasha/temper-character-build",
       "dependencies": {
-        "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
@@ -1407,7 +1399,6 @@
     "temper/temper-characters-stats": {
       "name": "@akasha/temper-characters-stats",
       "dependencies": {
-        "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-build": "workspace:*",
@@ -1738,7 +1729,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
@@ -1968,8 +1958,6 @@
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/temper-addon-library-types"],
 
     "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:temper/addons-resolve"],
-
-    "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:temper/temper-alchemy"],
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 

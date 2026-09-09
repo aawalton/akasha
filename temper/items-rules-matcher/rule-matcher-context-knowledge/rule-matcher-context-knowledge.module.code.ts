@@ -1,4 +1,3 @@
-import { potions } from "@akasha/temper-alchemy/potion-source"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import { resolveCharacterToggles } from "@akasha/temper-build-support/automation-settings"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
@@ -11,6 +10,7 @@ import type {
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined

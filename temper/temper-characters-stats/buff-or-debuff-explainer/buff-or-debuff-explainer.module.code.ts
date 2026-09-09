@@ -1,4 +1,3 @@
-import type { PotionSource } from "@akasha/temper-alchemy/potion-source"
 import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import type { BuffOrDebuffEffect } from "@akasha/temper-formula-framework/effect"
 import {
@@ -9,6 +8,7 @@ import {
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { PotionSource } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import { getBuffOrDebuffId } from "../buff-or-debuff-id/buff-or-debuff-id.module.code.ts"
 import { getMetricDisplayName, metrics } from "../metrics/metrics.module.code.ts"
 

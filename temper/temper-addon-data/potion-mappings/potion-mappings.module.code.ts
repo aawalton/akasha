@@ -1,5 +1,5 @@
-import { potions } from "@akasha/temper-alchemy/potion-source"
-import { ALCHEMY_EFFECT_IDS } from "@akasha/temper-alchemy/potion-traits"
+import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import { ALCHEMY_EFFECT_IDS } from "akasha/temper/temper-alchemy/potion-traits/potion-traits.module.code.ts"
 
 const METRIC_TO_ALCHEMY_TRAIT: Record<string, number> = {
   "resistance-physical": ALCHEMY_EFFECT_IDS["increase-armor"],

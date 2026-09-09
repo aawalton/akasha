@@ -1,9 +1,13 @@
 "use client"
 
-import { type PotionId, type PotionSource, potions } from "@akasha/temper-alchemy/potion-source"
 import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
 import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
+import {
+  type PotionId,
+  type PotionSource,
+  potions,
+} from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

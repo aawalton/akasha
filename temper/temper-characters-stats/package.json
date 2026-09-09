@@ -59,7 +59,6 @@
     "./source-lookup": "./source-lookup/source-lookup.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-character-build": "workspace:*",

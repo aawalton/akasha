@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAlchemy = {
   id: "01a06076-1b69-7174-a838-dc7b0b111961",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-alchemy",
   definition: "the potions and poisons a character brews from reagents",
-  manifest: "json",
   parts: [
     "module/poison-effect",
     "module/poison-source",
@@ -30,4 +29,4 @@ export const temperAlchemy = {
       statement: "The potion and reagent tables here are written out from the temper pages.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
