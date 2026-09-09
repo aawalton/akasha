@@ -1,4 +1,4 @@
-import { luaNumberString } from "@akasha/temper-lua-runner/lua-number-string"
+import { luaNumberString } from "akasha/temper/lua-runner/lua-number-string/lua-number-string.module.code.ts"
 
 const NUMERIC_KEY = /^-?\d+(\.\d+)?$/
 

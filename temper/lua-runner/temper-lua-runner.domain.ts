@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperLuaRunner = {
   id: "01a06059-248e-7afb-9115-253f8636048f",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-lua-runner",
   definition: "a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe",
-  manifest: "json",
   parts: [
     "lua-module/lua-driver",
     "lua-module/eso-sandbox-prelude",
@@ -43,4 +42,4 @@ export const temperLuaRunner = {
       statement: "Nothing here compiles TypeScript to Lua.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

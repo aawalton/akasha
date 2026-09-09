@@ -40,7 +40,6 @@
   "dependencies": {
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
-    "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/utils": "workspace:*",
     "typescript": "^5.8.3",
     "zod": "^4.3.6"

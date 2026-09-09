@@ -19,7 +19,6 @@
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
-    "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@googleapis/calendar": "^15.0.0",

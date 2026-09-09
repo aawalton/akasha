@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { basename, dirname, join, relative, resolve, sep } from "node:path"
-import { makeSandboxedLuaVm } from "@akasha/temper-lua-runner/sandboxed-lua-vm"
+import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import {
   ADDON_BUILD_COMMAND,
   ADDON_BUNDLE_UNIT,

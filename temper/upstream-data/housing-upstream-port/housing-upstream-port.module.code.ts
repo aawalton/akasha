@@ -1,7 +1,7 @@
 import { mkdir, readdir, rm, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import { PACKAGE_OF } from "../upstream-libraries/upstream-libraries.module.code.ts"
 
 const UPSTREAM_PATH = join(addonsDir(), "PortToFriendsHouse", "PortToFriendsHouseLibraryData.lua")

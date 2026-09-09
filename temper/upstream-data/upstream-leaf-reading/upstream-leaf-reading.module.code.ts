@@ -1,4 +1,4 @@
-import type { LuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import type { LuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import { agreedIn, dumpJsWalk, partedIn } from "../leaf-dump/leaf-dump.module.code.ts"
 import type { Ruling } from "../upstream-libraries/upstream-libraries.module.code.ts"
 

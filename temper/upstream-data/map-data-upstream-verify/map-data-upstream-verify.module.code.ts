@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import { PSEUDO_MAP_INDICES } from "@akasha/temper-lib-map-data/map-data-pseudo-indices"
 import { MAP_DATA } from "@akasha/temper-lib-map-data/map-data-table"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import { LUA_DUMP } from "../leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,

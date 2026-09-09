@@ -2,7 +2,7 @@ import { join } from "node:path"
 import { GEO_DATA_REFERENCE_TABLE } from "@akasha/temper-lib-zone/zone-geo-data"
 import { PRELOADED_ZONE_NAMES } from "@akasha/temper-lib-zone/zone-names-data"
 import { PUBLIC_DUNGEON_MAP_IDS } from "@akasha/temper-lib-zone/zone-public-dungeon-map-ids"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import { LUA_DUMP } from "../leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,

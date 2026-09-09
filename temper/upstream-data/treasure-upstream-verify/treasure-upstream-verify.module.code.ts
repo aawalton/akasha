@@ -4,7 +4,7 @@ import { BOOK_ID } from "@akasha/temper-lib-treasure/treasure-book-ids"
 import { ICONS } from "@akasha/temper-lib-treasure/treasure-icons"
 import { ALL_DATA } from "@akasha/temper-lib-treasure/treasure-pins-data"
 import type { AllData } from "@akasha/temper-lib-treasure/treasure-types"
-import { makeLuaVm } from "@akasha/temper-lua-runner/lua-vm"
+import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import { isRecord } from "../leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,

@@ -68,7 +68,6 @@
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-items-rules-routing": "workspace:*",
         "@akasha/temper-items-rules-routing-core": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
@@ -1232,12 +1231,6 @@
     "temper/lib-zone": {
       "name": "@akasha/temper-lib-zone",
     },
-    "temper/lua-runner": {
-      "name": "@akasha/temper-lua-runner",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "temper/player-completion-state": {
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
@@ -1280,7 +1273,6 @@
       "dependencies": {
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
@@ -2025,8 +2017,6 @@
     "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/temper-lib-treasure"],
 
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
-
-    "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:temper/lua-runner"],
 
     "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/temper-navigation-addon"],
 
