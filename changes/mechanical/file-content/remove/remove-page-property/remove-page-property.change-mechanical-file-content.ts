@@ -63,6 +63,15 @@ export const removePageProperty = {
       invariantKind: "absence",
       statement: "Nothing here reads the index.",
     },
+    {
+      invariantKind: "absence",
+      statement: "The only text written here is the empty string, so no relation value arrives.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
