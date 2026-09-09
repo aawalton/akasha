@@ -22,6 +22,26 @@ export const noRawNulBytes = {
     },
     {
       invariantKind: "departure",
+      statement: "A property naming its file is read from the file's own name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is let through only where a page with the property sits in its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file of that name in another folder is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property naming no file is read from the section its files have.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file that section names is let through wherever that file sits.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file with more than one NUL is reported at the first.",
     },
     {

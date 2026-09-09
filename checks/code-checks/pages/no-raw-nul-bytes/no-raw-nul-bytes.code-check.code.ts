@@ -1,4 +1,12 @@
-import { sectionHeld, slugsWhere } from "@akasha/indexes/property-carrying"
+import {
+  type Carried,
+  heldBeside,
+  type Kinded,
+  type Naming,
+  namingUnder,
+  sectionHeld,
+  slugsWhere,
+} from "@akasha/indexes/property-carrying"
 import type { Value } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -11,6 +19,8 @@ const NEWLINE = 0x0a
 const HOLDS = "holdsBytes"
 
 const BYTES = new WeakMap<Shadow, ReadonlySet<string>>()
+
+const NAMING = new WeakMap<Shadow, readonly Naming[]>()
 
 type Site = {
   readonly line: number
@@ -52,23 +62,34 @@ export function holdingBytes(value: Value): boolean {
   return value[HOLDS] === true
 }
 
+function kindedIn(shadow: Shadow): Kinded {
+  return {
+    kindsUnder: (of) => shadow.index.kindsUnder(of),
+    everyOfType: (kind) => shadow.index.everyOfType(kind),
+    valueAt: (path) => shadow.pageOf(path),
+  }
+}
+
 function bytesHeld(shadow: Shadow): ReadonlySet<string> {
   const found = BYTES.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(
-    {
-      kindsUnder: (of) => shadow.index.kindsUnder(of),
-      everyOfType: (kind) => shadow.index.everyOfType(kind),
-      valueAt: (path) => shadow.pageOf(path),
-    },
-    holdingBytes
-  )
+  const made = slugsWhere(kindedIn(shadow), holdingBytes)
   BYTES.set(shadow, made)
   return made
 }
 
+function namingIn(shadow: Shadow): readonly Naming[] {
+  const found = NAMING.get(shadow)
+  if (found !== undefined) return found
+  const made = namingUnder(kindedIn(shadow))
+  NAMING.set(shadow, made)
+  return made
+}
+
 export function exemptIn(path: string, shadow: Shadow): boolean {
-  return sectionHeld(path, bytesHeld(shadow))
+  if (sectionHeld(path, bytesHeld(shadow))) return true
+  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  return heldBeside(path, namingIn(shadow), holdingBytes, carrying)
 }
 
 export const noRawNulBytes = judgingEach(FILES, (given, shadow) =>
