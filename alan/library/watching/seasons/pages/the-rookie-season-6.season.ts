@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theRookieSeason6 = {
   id: "01a06802-b8bf-7034-8d41-ea2ddd417009",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-rookie-season-6",
   title: "The Rookie Season 6",
   partOfCollections: ["the-rookie"],

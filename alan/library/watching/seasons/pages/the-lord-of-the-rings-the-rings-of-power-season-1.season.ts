@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theLordOfTheRingsTheRingsOfPowerSeason1 = {
   id: "01a06802-b8bf-7015-8b42-3f2576fa908a",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-lord-of-the-rings-the-rings-of-power-season-1",
   title: "The Lord of the Rings: The Rings of Power Season 1",
   partOfCollections: ["the-lord-of-the-rings-the-rings-of-power"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theSarahJaneAdventuresSeason1 = {
   id: "01a06802-b8bf-7036-8136-9718a21f5323",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-sarah-jane-adventures-season-1",
   title: "The Sarah Jane Adventures Season 1",
   partOfCollections: ["the-sarah-jane-adventures"],

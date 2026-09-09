@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const swordArtOnlineS00 = {
   id: "019ea442-6923-727e-84c7-bc33460588de",
   pageTypeSlug: "season",
+  type: "season",
   slug: "sword-art-online-s00",
   title: "Specials",
   position: 0,

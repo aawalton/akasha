@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theLoneGunmenSpecials = {
   id: "01a06802-b8bf-7014-ad38-f2cca21b5ba0",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-lone-gunmen-specials",
   title: "The Lone Gunmen Specials",
   partOfCollections: ["the-lone-gunmen-2001"],

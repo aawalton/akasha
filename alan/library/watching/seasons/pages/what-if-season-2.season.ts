@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const whatIfSeason2 = {
   id: "01a06802-b8c0-7019-b59c-a733223a6a2e",
   pageTypeSlug: "season",
+  type: "season",
   slug: "what-if-season-2",
   title: "What If...? Season 2",
   partOfCollections: ["marvel-cinematic-universe"],

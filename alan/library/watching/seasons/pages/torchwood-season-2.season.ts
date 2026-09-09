@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const torchwoodSeason2 = {
   id: "01a06802-b8c0-7008-9c14-4b138beac981",
   pageTypeSlug: "season",
+  type: "season",
   slug: "torchwood-season-2",
   title: "Torchwood Season 2",
   partOfCollections: ["torchwood"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theBigBangTheorySpecials = {
   id: "01a06802-b8bf-7002-8277-97ebddbb1efd",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-big-bang-theory-specials",
   title: "The Big Bang Theory Specials",
   partOfCollections: ["the-big-bang-theory"],

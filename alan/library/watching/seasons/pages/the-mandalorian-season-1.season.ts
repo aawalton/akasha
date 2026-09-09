@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theMandalorianSeason1 = {
   id: "01a06802-b8bf-7018-bd30-0415580c9e5e",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-mandalorian-season-1",
   title: "The Mandalorian Season 1",
   partOfCollections: ["the-mandalorian"],

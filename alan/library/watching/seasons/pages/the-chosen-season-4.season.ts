@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theChosenSeason4 = {
   id: "01a06802-b8bf-7007-a5fc-a03aaa745225",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-chosen-season-4",
   title: "The Chosen Season 4",
   partOfCollections: ["the-chosen"],

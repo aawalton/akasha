@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theLegendOfKorraSpecials = {
   id: "01a06802-b8bf-7012-aaab-a9d459b046d1",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-legend-of-korra-specials",
   title: "The Legend of Korra Specials",
   partOfCollections: ["the-legend-of-korra"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const whiteCollarSeason3 = {
   id: "01a06802-b8c0-701d-8d79-07baaffc3aaf",
   pageTypeSlug: "season",
+  type: "season",
   slug: "white-collar-season-3",
   title: "White Collar Season 3",
   partOfCollections: ["white-collar"],

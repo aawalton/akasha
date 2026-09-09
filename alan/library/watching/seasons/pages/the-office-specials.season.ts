@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theOfficeSpecials = {
   id: "01a06802-b8bf-702d-84cd-69b9e5de9178",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-office-specials",
   title: "The Office Specials",
   partOfCollections: ["the-office"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theKeyToTime = {
   id: "01a06802-b8bf-7011-9802-c7fe93ca0df8",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-key-to-time",
   title: "The Key to Time",
   partOfCollections: ["doctor-who-1963-1989"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theWheelOfTimeSpecials = {
   id: "01a06802-b8bf-7050-90c5-059a721a605e",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-wheel-of-time-specials",
   title: "The Wheel of Time Specials",
   partOfCollections: ["the-wheel-of-time"],

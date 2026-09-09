@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theXFilesSeason9 = {
   id: "01a06802-b8c0-7003-80db-efbbbf23cf8b",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-x-files-season-9",
   title: "The X-Files Season 9",
   partOfCollections: ["the-x-files-1993-2002"],

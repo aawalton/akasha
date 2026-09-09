@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theTwilightZoneSeason3 = {
   id: "01a06802-b8bf-7045-b282-54f847b65f0d",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-twilight-zone-season-3",
   title: "The Twilight Zone Season 3",
   partOfCollections: ["the-twilight-zone-1985"],

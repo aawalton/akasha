@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const stevenUniverseSpecials = {
   id: "01a06802-b8be-700f-8ed5-440e1315d874",
   pageTypeSlug: "season",
+  type: "season",
   slug: "steven-universe-specials",
   title: "Steven Universe Specials",
   partOfCollections: ["steven-universe"],

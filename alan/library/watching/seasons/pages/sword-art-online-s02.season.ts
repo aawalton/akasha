@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const swordArtOnlineS02 = {
   id: "019ea442-7c89-7771-b078-7b08ac7b603f",
   pageTypeSlug: "season",
+  type: "season",
   slug: "sword-art-online-s02",
   title: "Sword Art Online II",
   description:

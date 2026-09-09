@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theMentalistSeason4 = {
   id: "01a06802-b8bf-701f-b8ac-6016d748af7a",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-mentalist-season-4",
   title: "The Mentalist Season 4",
   partOfCollections: ["the-mentalist"],

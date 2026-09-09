@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   id: "01a06802-b8be-702d-8b37-f59a0b9a5a8a",
   pageTypeSlug: "season",
+  type: "season",
   slug: "sword-art-online-alicization-war-of-underworld-season-4",
   title: "Sword Art Online: Alicization - War of Underworld (Season 4)",
   partOfCollections: ["sword-art-online-shows"],

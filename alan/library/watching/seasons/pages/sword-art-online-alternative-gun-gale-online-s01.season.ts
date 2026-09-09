@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01 = {
   id: "019ea442-93ab-7802-a02e-744f9fd54599",
   pageTypeSlug: "season",
+  type: "season",
   slug: "sword-art-online-alternative-gun-gale-online-s01",
   title: "Gun Gale Online",
   description:

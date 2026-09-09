@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const studioCSeason13 = {
   id: "01a06802-b8be-7018-8989-958f9d1c6bb0",
   pageTypeSlug: "season",
+  type: "season",
   slug: "studio-c-season-13",
   title: "Studio C Season 13",
   partOfCollections: ["studio-c"],

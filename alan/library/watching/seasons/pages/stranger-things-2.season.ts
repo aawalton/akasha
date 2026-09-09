@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const strangerThings2 = {
   id: "01a06802-b8be-7010-8df7-1e5f51ff3354",
   pageTypeSlug: "season",
+  type: "season",
   slug: "stranger-things-2",
   title: "Stranger Things 2",
   partOfCollections: ["stranger-things"],

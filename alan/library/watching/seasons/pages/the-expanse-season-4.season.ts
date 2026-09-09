@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theExpanseSeason4 = {
   id: "01a06802-b8bf-700c-bc37-08c0feb40618",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-expanse-season-4",
   title: "The Expanse Season 4",
   partOfCollections: ["the-expanse"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const thirdRockFromTheSunSeason2 = {
   id: "01a06802-b8b7-7001-bba0-1ee957c908d4",
   pageTypeSlug: "season",
+  type: "season",
   slug: "third-rock-from-the-sun-season-2",
   title: "3rd Rock from the Sun Season 2",
   partOfCollections: ["third-rock-from-the-sun"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const theRaveningWar = {
   id: "01a06802-b8bf-702e-955a-4c71c47d18a6",
   pageTypeSlug: "season",
+  type: "season",
   slug: "the-ravening-war",
   title: "The Ravening War",
   partOfCollections: ["dimension-20"],
