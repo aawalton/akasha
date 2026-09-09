@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const audiETronGt2025 = {
   id: "019e4ae3-b47c-736d-8584-dee4ec6a2c5f",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "audi-e-tron-gt-2025",
   title: "2025",
   modelYear: 2025,

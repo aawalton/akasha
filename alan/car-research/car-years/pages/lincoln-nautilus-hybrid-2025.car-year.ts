@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const lincolnNautilusHybrid2025 = {
   id: "019e4aea-1381-7224-8a9a-7d8131fb7444",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "lincoln-nautilus-hybrid-2025",
   title: "2025",
   modelYear: 2025,

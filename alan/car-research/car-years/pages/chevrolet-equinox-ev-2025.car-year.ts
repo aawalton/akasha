@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const chevroletEquinoxEv2025 = {
   id: "019e4ad6-af69-75da-9210-6c892bbd5d43",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "chevrolet-equinox-ev-2025",
   title: "2025",
   modelYear: 2025,

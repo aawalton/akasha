@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const karmaKaveya2025 = {
   id: "019e4ae2-d98b-7fe5-8c2c-8a4bd0b873c3",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "karma-kaveya-2025",
   title: "2025",
   modelYear: 2025,

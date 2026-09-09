@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const cadillacOptiq2026 = {
   id: "019e4ad7-df55-786a-b33e-e838f64d18bc",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "cadillac-optiq-2026",
   title: "2026",
   modelYear: 2026,

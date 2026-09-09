@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const jeepWrangler4xe2025 = {
   id: "019e4ae4-36b8-76f8-826a-a861c537cf66",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "jeep-wrangler-4xe-2025",
   title: "2025",
   modelYear: 2025,

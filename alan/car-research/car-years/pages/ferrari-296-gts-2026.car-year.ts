@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const ferrari296Gts2026 = {
   id: "019e4adb-405c-7baf-8127-46369ff7cc47",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "ferrari-296-gts-2026",
   title: "2026",
   modelYear: 2026,

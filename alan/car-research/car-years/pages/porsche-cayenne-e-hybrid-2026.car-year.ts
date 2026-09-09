@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const porscheCayenneEHybrid2026 = {
   id: "019e4afa-524f-7089-b92c-ef42d6016590",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "porsche-cayenne-e-hybrid-2026",
   title: "2026",
   modelYear: 2026,

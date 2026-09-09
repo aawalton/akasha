@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const mclarenArtura2025 = {
   id: "019e4aec-a467-7c6f-8d86-e4355d39d773",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "mclaren-artura-2025",
   title: "2025",
   modelYear: 2025,

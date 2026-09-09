@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const bentleyContinentalGtc2026 = {
   id: "019e4ad7-9e04-7cf0-9429-cf65c3a13909",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "bentley-continental-gtc-2026",
   title: "2026",
   modelYear: 2026,

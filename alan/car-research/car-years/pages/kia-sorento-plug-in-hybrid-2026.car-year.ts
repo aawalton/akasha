@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const kiaSorentoPlugInHybrid2026 = {
   id: "019e4aed-ee6f-75c3-9e50-3717ccf4b04d",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "kia-sorento-plug-in-hybrid-2026",
   title: "2026",
   modelYear: 2026,

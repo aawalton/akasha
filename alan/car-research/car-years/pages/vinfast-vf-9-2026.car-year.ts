@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const vinfastVf92026 = {
   id: "019e4afa-ff1a-7c6b-a485-29a5542305b0",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "vinfast-vf-9-2026",
   title: "2026",
   modelYear: 2026,

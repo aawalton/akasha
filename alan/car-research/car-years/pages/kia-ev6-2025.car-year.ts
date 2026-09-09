@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const kiaEv62025 = {
   id: "019e4ae3-90c8-7758-b35f-e88bac742440",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "kia-ev6-2025",
   title: "2025",
   modelYear: 2025,

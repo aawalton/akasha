@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const landRoverDefender2025 = {
   id: "019e4ae8-0a0a-7d42-b329-67073411294c",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "land-rover-defender-2025",
   title: "2025",
   modelYear: 2025,

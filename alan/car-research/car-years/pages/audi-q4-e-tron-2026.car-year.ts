@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const audiQ4ETron2026 = {
   id: "019e4ada-c93c-77a0-8216-7b9db90bb299",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "audi-q4-e-tron-2026",
   title: "2026",
   modelYear: 2026,

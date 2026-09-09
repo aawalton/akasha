@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const dodgeHornetRT2025 = {
   id: "019e4ad9-d66f-747d-a213-549978c87df0",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "dodge-hornet-r-t-2025",
   title: "2025",
   modelYear: 2025,

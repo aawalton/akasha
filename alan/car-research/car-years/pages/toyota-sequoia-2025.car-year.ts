@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const toyotaSequoia2025 = {
   id: "019e4b0b-8fe1-7f80-9a49-557be8a8a853",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "toyota-sequoia-2025",
   title: "2025",
   modelYear: 2025,

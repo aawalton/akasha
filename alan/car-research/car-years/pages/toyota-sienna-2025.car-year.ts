@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const toyotaSienna2025 = {
   id: "019e4b0d-d4e1-720b-8761-68fb60c30c8f",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "toyota-sienna-2025",
   title: "2025",
   modelYear: 2025,

@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const mitsubishiOutlander2026 = {
   id: "019e4af2-f0d9-7864-8b2d-a874ae03728f",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "mitsubishi-outlander-2026",
   title: "2026",
   modelYear: 2026,

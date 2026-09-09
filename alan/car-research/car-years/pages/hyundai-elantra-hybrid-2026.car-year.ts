@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const hyundaiElantraHybrid2026 = {
   id: "019e4ae3-b28d-7ce5-9bc7-334a550e520e",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "hyundai-elantra-hybrid-2026",
   title: "2026",
   modelYear: 2026,

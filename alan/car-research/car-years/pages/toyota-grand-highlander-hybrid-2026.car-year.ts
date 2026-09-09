@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const toyotaGrandHighlanderHybrid2026 = {
   id: "019e4b0b-1ba8-7d2d-a3ae-20416af5a57e",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "toyota-grand-highlander-hybrid-2026",
   title: "2026",
   modelYear: 2026,

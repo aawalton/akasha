@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const subaruSolterra2026 = {
   id: "019e4af8-02f3-7677-9620-1e646fc694a0",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "subaru-solterra-2026",
   title: "2026",
   modelYear: 2026,

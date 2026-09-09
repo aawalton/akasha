@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const fordF150Lightning2025 = {
   id: "019e4ade-ad72-7946-9249-25fe063b5957",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "ford-f-150-lightning-2025",
   title: "2025",
   modelYear: 2025,

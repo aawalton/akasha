@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const lucidGravity2025 = {
   id: "019e4aeb-2124-782f-9ff5-558035973ed4",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "lucid-gravity-2025",
   title: "2025",
   modelYear: 2025,

@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const genesisGv602025 = {
   id: "019e4add-2ba6-751d-af9f-928690231dd1",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "genesis-gv60-2025",
   title: "2025",
   modelYear: 2025,

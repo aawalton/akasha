@@ -3,6 +3,7 @@ import type { CarYear } from "../car-year.page-type.ts"
 export const hyundaiKonaElectric2025 = {
   id: "019e4ae2-f965-7d98-a751-d7dca92d2f63",
   pageTypeSlug: "car-year",
+  type: "car-year",
   slug: "hyundai-kona-electric-2025",
   title: "2025",
   modelYear: 2025,
