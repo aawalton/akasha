@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "@akasha/utils/run/running"
-import { seededWorld } from "../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { given } from "../../pages/infrastructure/deploy/infrastructure-deploy.command.test-fixtures.ts"
+import { seededWorld } from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { given } from "../infrastructure-deploy.command.test-fixtures.ts"
 import { putUpWebApp } from "./deploy-web-putting-up.module.code.ts"
 
 const WORLD = seededWorld()
