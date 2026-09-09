@@ -11,7 +11,7 @@ export const aranyaOnePackage = {
     {
       statement: "The root manifest names every file reached from outside the folder with it.",
       workingMemory:
-        "The root manifest states no `exports` today, and the 279 non-root manifests are what make every `@akasha/…` name resolve. Node resolves a package's own name against that package's own exports map, so one map on the root keeps those names working. It is there before anything dissolves, or the names go dark.",
+        'The root manifest now states `exports: {"./*": "./*"}`, naming every file by wildcard rather than by enumeration, so that intent is part met in the form that gives up the boundary. The 277 non-root manifests are what make every `@akasha/…` name resolve, and 261 enumerate their ways in by hand with no wildcard among them. `tsconfig.base.json` declares no `paths`, so a manifest taken away takes its share of 21055 import sites dark.',
     },
     {
       statement: "A workstation service deploys naming no package but the root.",
