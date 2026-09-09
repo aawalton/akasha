@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const alexaThymeBreakingThrough = {
   id: "019db533-f390-76c4-bd39-b7aed5585867",
