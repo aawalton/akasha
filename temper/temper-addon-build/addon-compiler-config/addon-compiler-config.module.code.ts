@@ -72,7 +72,7 @@ export function reachedPackageDirs(repoRoot: string, addonDir: string): readonly
 
 export type EsoAddonPage = {
   readonly slug: string
-  readonly bundleEntrySlug: string | null
+  readonly bundleEntry: string | null
   readonly bindings: string | null
   readonly luaModuleSlugs: readonly string[]
 }
@@ -98,19 +98,20 @@ export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null
     const said = value as {
       slug?: unknown
       pageTypeSlug?: unknown
+      bundleEntry?: unknown
       bundleEntrySlug?: unknown
       bindings?: unknown
       luaModuleSlugs?: unknown
     }
     if (said.pageTypeSlug !== "eso-addon" || typeof said.slug !== "string") continue
-    const entry = said.bundleEntrySlug
+    const entry = said.bundleEntry ?? said.bundleEntrySlug
     const bound = said.bindings
     const luaSaid: readonly unknown[] = Array.isArray(said.luaModuleSlugs)
       ? said.luaModuleSlugs
       : []
     return {
       slug: said.slug,
-      bundleEntrySlug: typeof entry === "string" ? entry : null,
+      bundleEntry: typeof entry === "string" ? entry : null,
       bindings: typeof bound === "string" ? bound : null,
       luaModuleSlugs: luaSaid.filter((one) => typeof one === "string"),
     }
@@ -180,11 +181,11 @@ export async function compilerConfigPathFor(
   const beside = join(addonDir, TSCONFIG_NAME)
   if (existsSync(beside)) return beside
   const page = await readEsoAddonPage(addonDir)
-  if (page === null || page.bundleEntrySlug === null) return null
-  const entryPath = bundleEntryPathIn(addonDir, page.bundleEntrySlug)
+  if (page === null || page.bundleEntry === null) return null
+  const entryPath = bundleEntryPathIn(addonDir, page.bundleEntry)
   if (!existsSync(entryPath)) {
     throw new Error(
-      `compilerConfigPathFor: the page in ${addonDir} names "${page.bundleEntrySlug}" as the bundle entry, and ${entryPath} is not there`
+      `compilerConfigPathFor: the page in ${addonDir} names "${page.bundleEntry}" as the bundle entry, and ${entryPath} is not there`
     )
   }
   const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
