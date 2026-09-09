@@ -8,7 +8,7 @@ import {
   RUN_SEAMS,
   saidOf,
   startedOn,
-} from "../../../modules/proxy-run/proxy-run.module.code.ts"
+} from "./proxy-run/proxy-run.module.code.ts"
 
 const INPUT = 1
 

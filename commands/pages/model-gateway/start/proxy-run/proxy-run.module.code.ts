@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import { readFirstLineAsPort } from "@akasha/seat-system/supervisor-proxy-port-line"
-import { modelGatewayEntrypoint } from "../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { modelGatewayEntrypoint } from "../../../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 
 export const STDERR_LOG = "oauth-proxy.stderr.log"
 

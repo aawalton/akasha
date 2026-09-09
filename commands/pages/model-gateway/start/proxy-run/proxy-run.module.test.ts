@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { modelGatewayEntrypoint } from "../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { modelGatewayEntrypoint } from "../../../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   AGENT_PREFIX,
   type Asked,
