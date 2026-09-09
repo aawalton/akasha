@@ -49,6 +49,18 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
+      statement: "A property its type fixes a value for is not demanded of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page of that type has that value without stating it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating a property its type fixes is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property its type works out is not demanded of the page.",
     },
     {

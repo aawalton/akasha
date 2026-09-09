@@ -60,7 +60,7 @@ export function reasonsIn(
   const pageFor = (one: Carried): Value | null =>
     shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
   for (const one of declared) {
-    if (!one.required || one.uncommitted || one.secret) continue
+    if (!one.required || one.uncommitted || one.secret || one.fixed !== undefined) continue
     if (one.pageTypeSlug === COMPUTED) continue
     if (excused.has(one.pagePropertySlug)) continue
     if (!(one.key in value)) {
@@ -83,6 +83,12 @@ export function reasonsIn(
     if (one.secret) {
       said.push(
         `states \`${slug}\`, which \`${named}\` declares secret, and such a value stands in the page's sops file rather than in it`
+      )
+      continue
+    }
+    if (one.fixed !== undefined) {
+      said.push(
+        `states \`${slug}\`, which \`${named}\` fixes as \`${one.fixed}\`, and a fixed value is on no page`
       )
       continue
     }
