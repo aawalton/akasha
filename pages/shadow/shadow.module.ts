@@ -53,7 +53,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A path a settle carried is forgotten from the memo handed in.",
+      statement: "A path a settle had is forgotten from the memo handed in.",
     },
     {
       invariantKind: "absence",

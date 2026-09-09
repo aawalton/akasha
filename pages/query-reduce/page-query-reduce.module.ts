@@ -21,7 +21,7 @@ export const pageQueryReduce = {
     },
     {
       invariantKind: "departure",
-      statement: "A mean is the sum over the count of the rows that carried a number.",
+      statement: "A mean is the sum over the count of the rows that had a number.",
     },
     {
       invariantKind: "departure",

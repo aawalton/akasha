@@ -58,7 +58,7 @@ export const forcedToolChoice = {
     },
     {
       invariantKind: "departure",
-      statement: "A request that carried no body is answered with the response upstream sent.",
+      statement: "A request that had no body is answered with the response upstream sent.",
     },
     {
       invariantKind: "departure",

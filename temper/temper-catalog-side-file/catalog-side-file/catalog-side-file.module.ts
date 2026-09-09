@@ -29,7 +29,7 @@ export const catalogSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A written request has a version above the version the last request carried.",
+      statement: "A written request has a version above the version the last request had.",
     },
     {
       invariantKind: "departure",

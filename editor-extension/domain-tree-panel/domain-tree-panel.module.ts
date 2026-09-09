@@ -26,8 +26,7 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A panel becoming visible with a drawing owed draws the rows the file last carried.",
+      statement: "A panel becoming visible with a drawing owed draws the rows the file last had.",
     },
     {
       invariantKind: "departure",

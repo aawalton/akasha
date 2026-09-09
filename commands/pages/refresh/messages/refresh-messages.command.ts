@@ -22,7 +22,7 @@ export const refreshMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A day the transcripts say nothing about keeps the counts it already carried.",
+      statement: "A day the transcripts say nothing about keeps the counts it already had.",
     },
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ export const watcherTaskProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "The id a character's line already carried is kept rather than minted again.",
+      statement: "The id a character's line already had is kept rather than minted again.",
     },
     {
       invariantKind: "departure",

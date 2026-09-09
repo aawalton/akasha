@@ -20,7 +20,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "A refusal from the pages names the file that refusal is about.",
       workingMemory:
-        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write carried. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and has comments the no-code-comments check refuses.",
+        "page-calling now names the status, the byte count and the parser's own message on a body it cannot read. landedIn now appends the paths a write had. The file-property guard names the page type, the character count, the opening of the body and the 255-byte ceiling. The entry that could not be opened is still unnamed, because keepWhole sits in indexing.module.code.ts, which is 15,810 bytes against a 15,000 ceiling and has comments the no-code-comments check refuses.",
     },
     {
       statement: "The watcher updates itself to the source revision it is told to run.",

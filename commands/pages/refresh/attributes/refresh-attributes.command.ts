@@ -33,7 +33,7 @@ export const refreshAttributes = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute that could not be read keeps the figure it already carried.",
+      statement: "An attribute that could not be read keeps the figure it already had.",
     },
     {
       invariantKind: "departure",

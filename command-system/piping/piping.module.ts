@@ -31,7 +31,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "An input that carried nothing before the while ran out is nothing piped in.",
+      statement: "An input that had nothing before the while ran out is nothing piped in.",
     },
     {
       invariantKind: "departure",

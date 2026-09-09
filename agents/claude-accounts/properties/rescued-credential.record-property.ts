@@ -14,7 +14,7 @@ export const rescuedCredential = {
   pageTypeSlug: "record-property",
   slug: "rescued-credential",
   propertySlug: "rescued-credential",
-  definition: "the rotated pair kept beside a page where no landing carried that pair",
+  definition: "the rotated pair kept beside a page where no landing had that pair",
   properties: [
     { pagePropertySlug: "text-property/rescued-access-token", required: true, many: false },
     { pagePropertySlug: "text-property/rescued-refresh-token", required: true, many: false },

@@ -29,7 +29,7 @@ export const deepLinkOpenSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A link the listener already carried is not carried again as the launch link.",
+      statement: "A link the listener already had is not carried again as the launch link.",
     },
     {
       invariantKind: "departure",

@@ -66,7 +66,7 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states the address the seat last carried as well as the slug.",
+      statement: "A seat states the address the seat last had as well as the slug.",
     },
     {
       invariantKind: "departure",

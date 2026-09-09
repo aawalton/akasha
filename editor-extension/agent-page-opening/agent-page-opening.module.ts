@@ -4,7 +4,7 @@ export const agentPageOpening = {
   id: "01a0686b-bfe9-782e-86e6-c23e6ef21f33",
   pageTypeSlug: "module",
   slug: "agent-page-opening",
-  definition: "the page akasha has for a row, opened from the row that already carried its path",
+  definition: "the page akasha has for a row, opened from the row that already had its path",
   code: "ts",
   invariants: [
     {

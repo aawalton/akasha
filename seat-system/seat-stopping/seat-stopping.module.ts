@@ -20,7 +20,7 @@ export const seatStopping = {
     {
       invariantKind: "departure",
       statement:
-        "A seat whose processes are all gone is ended by ending the session that carried that seat.",
+        "A seat whose processes are all gone is ended by ending the session that had that seat.",
     },
     {
       invariantKind: "departure",

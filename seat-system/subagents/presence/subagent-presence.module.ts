@@ -44,7 +44,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page taken up keeps the id and the kind that page carried.",
+      statement: "A page taken up keeps the id and the kind that page had.",
     },
     {
       invariantKind: "departure",

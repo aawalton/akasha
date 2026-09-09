@@ -38,7 +38,7 @@ export const personaPointsRebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona written to on no counted day keeps the figure she already carried.",
+      statement: "A persona written to on no counted day keeps the figure she already had.",
     },
     {
       invariantKind: "departure",

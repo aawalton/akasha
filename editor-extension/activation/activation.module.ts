@@ -29,7 +29,7 @@ export const activation = {
     },
     {
       invariantKind: "departure",
-      statement: "A start that fails is reported with the message the failure carried.",
+      statement: "A start that fails is reported with the message the failure had.",
     },
     {
       invariantKind: "departure",

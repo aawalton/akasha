@@ -21,7 +21,7 @@ export const seatAkashaHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "Values come back under the key names the old page carried.",
+      statement: "Values come back under the key names the old page had.",
     },
     {
       invariantKind: "departure",

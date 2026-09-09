@@ -84,7 +84,7 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A message to a subagent dies with the session that carried the message.",
+      statement: "A message to a subagent dies with the session that had the message.",
     },
   ],
 } as const satisfies PageType

@@ -49,7 +49,7 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A drawing says which readings the file carried nothing for.",
+      statement: "A drawing says which readings the file had nothing for.",
     },
 
     {

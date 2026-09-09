@@ -17,7 +17,7 @@ export const errorReleaseSha = {
     },
     {
       invariantKind: "departure",
-      statement: "The build named is the build the first report carried.",
+      statement: "The build named is the build the first report had.",
     },
   ],
 } as const satisfies TextProperty

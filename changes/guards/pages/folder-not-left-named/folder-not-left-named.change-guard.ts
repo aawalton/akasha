@@ -42,7 +42,7 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the answer carried is read at the path the answer left it.",
+      statement: "A body the answer had is read at the path the answer left it.",
     },
     {
       invariantKind: "departure",

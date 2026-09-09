@@ -49,7 +49,7 @@ export const seatNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat name reaches the seat that carried the name most recently.",
+      statement: "A seat name reaches the seat that had the name most recently.",
     },
     {
       invariantKind: "departure",
