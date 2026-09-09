@@ -46,7 +46,6 @@
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-capture-writer": "workspace:*",
@@ -1129,9 +1128,6 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
-    "temper/capture-errors": {
-      "name": "@akasha/temper-capture-errors",
-    },
     "temper/capture-host": {
       "name": "@akasha/temper-capture-host",
       "dependencies": {
@@ -1214,7 +1210,6 @@
     "temper/errors-addon": {
       "name": "@akasha/temper-errors-addon",
       "dependencies": {
-        "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-writer": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -1222,7 +1217,6 @@
     "temper/errors-triage": {
       "name": "@akasha/temper-errors-triage",
       "dependencies": {
-        "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
@@ -2093,8 +2087,6 @@
     "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/build-support"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
-
-    "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:temper/capture-errors"],
 
     "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:temper/capture-host"],
 

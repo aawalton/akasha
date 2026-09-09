@@ -1,5 +1,5 @@
-import { ERRORS_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-errors/errors-descriptor"
-import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
+import { ERRORS_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-errors/errors-descriptor/errors-descriptor.module.code.ts"
+import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import type { rootSchema } from "../errors-saved-variables/errors-saved-variables.module.code.ts"
 
 export const SAVED_VARIABLES_NAME = ERRORS_CAPTURE_DESCRIPTOR.savedVariablesName

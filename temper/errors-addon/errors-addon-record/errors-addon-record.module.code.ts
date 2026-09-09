@@ -1,8 +1,11 @@
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-02"
 import "@akasha/temper-eso-types/eso-functions-08"
-import type { ErrorEntry, ErrorsPayload } from "@akasha/temper-capture-errors/errors-payload"
 import type { CaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
+import type {
+  ErrorEntry,
+  ErrorsPayload,
+} from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
   attributedAddonFolder,
   attributedBuildId,

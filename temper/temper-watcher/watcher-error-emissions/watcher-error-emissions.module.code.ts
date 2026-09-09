@@ -1,7 +1,7 @@
-import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import { crashSignatureKey } from "@akasha/temper-errors-triage/errors-crash-signatures"
 import type { LivenessVerdict } from "@akasha/temper-errors-triage/errors-liveness"
 import type { Triage, TriageVerdict } from "@akasha/temper-errors-triage/errors-triage"
+import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 
 export interface TemperErrorEnvelope {
   readonly kind: "temper-error"

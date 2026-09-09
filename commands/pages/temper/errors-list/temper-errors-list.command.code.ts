@@ -4,7 +4,6 @@ import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
-import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
 import { collectEntries, SAVED_VARIABLES_NAME } from "@akasha/temper-errors-triage/errors-collect"
 import {
   classifyLiveness,
@@ -21,6 +20,7 @@ import {
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { ran } from "@akasha/utils/run/running"
+import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import { valuesOf } from "../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1

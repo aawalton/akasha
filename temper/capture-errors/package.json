@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/temper-capture-errors",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./errors-descriptor": "./errors-descriptor/errors-descriptor.module.code.ts",
-    "./errors-payload": "./errors-payload/errors-payload.module.code.ts"
-  }
-}

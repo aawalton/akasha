@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync } from "node:fs"
 import { join } from "node:path"
-import type { ErrorEntry } from "@akasha/temper-capture-errors/errors-payload"
+import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import type {
   ErrorDecision,
   TemperErrorEnvelope,
