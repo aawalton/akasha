@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theStormlightArchiveAPocketCompanion = {
   id: "019db533-f39c-7f83-a471-6e028551528b",

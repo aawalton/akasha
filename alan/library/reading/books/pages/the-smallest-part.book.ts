@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theSmallestPart = {
   id: "019db533-f39c-7f7b-85b2-deacc933160c",

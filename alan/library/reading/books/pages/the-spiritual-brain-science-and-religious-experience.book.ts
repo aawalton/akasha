@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theSpiritualBrainScienceAndReligiousExperience = {
   id: "019db533-f39d-7e7f-a78b-a0be0386bde5",

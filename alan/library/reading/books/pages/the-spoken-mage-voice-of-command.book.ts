@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theSpokenMageVoiceOfCommand = {
   id: "019db533-f39a-79fe-9174-1c84e05c5faf",

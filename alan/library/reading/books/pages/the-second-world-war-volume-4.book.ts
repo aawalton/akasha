@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theSecondWorldWarVolume4 = {
   id: "019db533-f39d-73cc-93f2-60eac07df87c",
