@@ -5,7 +5,7 @@ export const aranyaL0120260705t173828z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "aranya-l01-20260705t173828z",
   title: "Aranya — wallpaper L01 (Initiating)",
-  personaSlug: "aranya",
+  persona: "aranya",
   imagePath: "Aranya/aranya-L01-20260705T173828Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

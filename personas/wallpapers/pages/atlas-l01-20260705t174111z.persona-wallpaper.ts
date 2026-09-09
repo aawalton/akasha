@@ -5,7 +5,7 @@ export const atlasL0120260705t174111z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "atlas-l01-20260705t174111z",
   title: "Atlas — wallpaper L01 (Initiating)",
-  personaSlug: "atlas",
+  persona: "atlas",
   imagePath: "Atlas/atlas-L01-20260705T174111Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

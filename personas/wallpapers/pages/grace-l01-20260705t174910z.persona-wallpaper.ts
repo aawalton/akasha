@@ -5,7 +5,7 @@ export const graceL0120260705t174910z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "grace-l01-20260705t174910z",
   title: "Grace — wallpaper L01 (Initiating)",
-  personaSlug: "grace",
+  persona: "grace",
   imagePath: "Grace/grace-L01-20260705T174910Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

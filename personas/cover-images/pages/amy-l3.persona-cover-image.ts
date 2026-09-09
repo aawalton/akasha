@@ -5,7 +5,7 @@ export const amyL3 = {
   pageTypeSlug: "persona-cover-image",
   slug: "amy-l3",
   title: "Amy cover L3",
-  personaSlug: "amy",
+  persona: "amy",
   imagePath: "Amy/canon/amy-anchor.png",
   relationshipLevel: 3,
 } as const satisfies PersonaCoverImage

@@ -5,7 +5,7 @@ export const zeliL0120260705t182110z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "zeli-l01-20260705t182110z",
   title: "Zeli — wallpaper L01 (Initiating)",
-  personaSlug: "zeli",
+  persona: "zeli",
   imagePath: "Zeli/zeli-L01-20260705T182110Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

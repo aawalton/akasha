@@ -5,7 +5,7 @@ export const amyL0120260724t102613z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "amy-l01-20260724t102613z",
   title: "Amy — wallpaper L01 (Intensifying)",
-  personaSlug: "amy",
+  persona: "amy",
   imagePath: "Amy/amy-L01-20260724T102613Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

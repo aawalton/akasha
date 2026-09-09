@@ -5,7 +5,7 @@ export const rubyL0120260705t180223z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "ruby-l01-20260705t180223z",
   title: "Ruby — wallpaper L01 (Initiating)",
-  personaSlug: "ruby",
+  persona: "ruby",
   imagePath: "Ruby/ruby-L01-20260705T180223Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

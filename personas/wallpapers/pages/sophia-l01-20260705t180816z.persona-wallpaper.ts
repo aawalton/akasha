@@ -5,7 +5,7 @@ export const sophiaL0120260705t180816z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "sophia-l01-20260705t180816z",
   title: "Sophia — wallpaper L01 (Intensifying)",
-  personaSlug: "sophia",
+  persona: "sophia",
   imagePath: "Sophia/sophia-L01-20260705T180816Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

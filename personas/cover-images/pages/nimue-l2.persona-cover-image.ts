@@ -5,6 +5,6 @@ export const nimueL2 = {
   pageTypeSlug: "persona-cover-image",
   slug: "nimue-l2",
   title: "Nimue cover L2",
-  personaSlug: "nimue",
+  persona: "nimue",
   relationshipLevel: 2,
 } as const satisfies PersonaCoverImage

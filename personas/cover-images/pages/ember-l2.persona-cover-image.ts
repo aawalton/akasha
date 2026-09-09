@@ -5,6 +5,6 @@ export const emberL2 = {
   pageTypeSlug: "persona-cover-image",
   slug: "ember-l2",
   title: "Ember cover L2",
-  personaSlug: "ember",
+  persona: "ember",
   relationshipLevel: 2,
 } as const satisfies PersonaCoverImage

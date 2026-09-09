@@ -5,7 +5,7 @@ export const emberL0120260705t174635z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "ember-l01-20260705t174635z",
   title: "Ember — wallpaper L01 (Bonding)",
-  personaSlug: "ember",
+  persona: "ember",
   imagePath: "Ember/ember-L01-20260705T174635Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

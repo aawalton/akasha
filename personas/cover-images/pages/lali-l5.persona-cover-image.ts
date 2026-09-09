@@ -5,6 +5,6 @@ export const laliL5 = {
   pageTypeSlug: "persona-cover-image",
   slug: "lali-l5",
   title: "Lali cover L5",
-  personaSlug: "lali",
+  persona: "lali",
   relationshipLevel: 5,
 } as const satisfies PersonaCoverImage

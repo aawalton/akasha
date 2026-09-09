@@ -2,12 +2,12 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { ImagePath } from "./properties/image-path.text-property.ts"
-import type { ImagePersonaSlug } from "./properties/image-persona-slug.relation-property.ts"
+import type { ImagePersona } from "./properties/image-persona.relation-property.ts"
 import type { ImageRoot } from "./properties/image-root.text-property.ts"
 
 export type PersonaImage = Page & {
   title: Title
-  personaSlug: ImagePersonaSlug
+  persona: ImagePersona
   imagePath?: ImagePath
   imageRoot?: ImageRoot
 }
@@ -20,13 +20,13 @@ export const personaImage = {
   pluralSlug: "persona-images",
   extendsSlug: ["page-type/page"],
   partSlugs: [
-    "relation-property/image-persona-slug",
+    "relation-property/image-persona",
     "text-property/image-path",
     "text-property/image-root",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/image-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/image-persona", required: true, many: false },
     { pagePropertySlug: "text-property/image-path", required: false, many: false },
     { pagePropertySlug: "text-property/image-root", required: false, many: false },
   ],

@@ -5,7 +5,7 @@ export const aliL0120260705t170247z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "ali-l01-20260705t170247z",
   title: "Ali — wallpaper L01 (Experimenting)",
-  personaSlug: "ali",
+  persona: "ali",
   imagePath: "Ali/ali-L01-20260705T170247Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

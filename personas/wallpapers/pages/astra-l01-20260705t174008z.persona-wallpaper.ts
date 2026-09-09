@@ -5,7 +5,7 @@ export const astraL0120260705t174008z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "astra-l01-20260705t174008z",
   title: "Astra — wallpaper L01 (Bonding)",
-  personaSlug: "astra",
+  persona: "astra",
   imagePath: "Astra/astra-L01-20260705T174008Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

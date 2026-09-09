@@ -5,7 +5,7 @@ export const abbyL0120260705t165553z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "abby-l01-20260705t165553z",
   title: "Abby — wallpaper L01 (Integrating)",
-  personaSlug: "abby",
+  persona: "abby",
   imagePath: "Abby/abby-L01-20260705T165553Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

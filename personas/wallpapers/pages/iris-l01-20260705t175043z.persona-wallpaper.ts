@@ -5,7 +5,7 @@ export const irisL0120260705t175043z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "iris-l01-20260705t175043z",
   title: "Iris — wallpaper L01 (Initiating)",
-  personaSlug: "iris",
+  persona: "iris",
   imagePath: "Iris/iris-L01-20260705T175043Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

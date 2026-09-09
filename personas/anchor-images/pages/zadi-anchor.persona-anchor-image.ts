@@ -5,7 +5,7 @@ export const zadiAnchor = {
   pageTypeSlug: "persona-anchor-image",
   slug: "zadi-anchor",
   title: "Zadi — anchor",
-  personaSlug: "zadi",
+  persona: "zadi",
   imagePath: "Zadi/zadi-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

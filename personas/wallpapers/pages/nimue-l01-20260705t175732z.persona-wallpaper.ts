@@ -5,7 +5,7 @@ export const nimueL0120260705t175732z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "nimue-l01-20260705t175732z",
   title: "Nimue — wallpaper L01 (Initiating)",
-  personaSlug: "nimue",
+  persona: "nimue",
   imagePath: "Nimue/nimue-L01-20260705T175732Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

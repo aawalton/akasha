@@ -5,7 +5,7 @@ export const ariaMariDndTableWallpaperV23440x1440 = {
   pageTypeSlug: "persona-wallpaper",
   slug: "aria-mari-dnd-table-wallpaper-v2-3440x1440",
   title: "Aria & Mari — at the table",
-  personaSlug: "aria",
+  persona: "aria",
   imagePath: "Aria/images/aria-mari-dnd-table-wallpaper-v2-3440x1440.png",
   imageRoot: "personas",
   description:

@@ -5,7 +5,7 @@ export const elinL0120260705t174603z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "elin-l01-20260705t174603z",
   title: "Elin — wallpaper L01 (Initiating)",
-  personaSlug: "elin",
+  persona: "elin",
   imagePath: "Elin/elin-L01-20260705T174603Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

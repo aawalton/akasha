@@ -5,7 +5,7 @@ export const athenaL0120260705t174040z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "athena-l01-20260705t174040z",
   title: "Athena — wallpaper L01 (Bonding)",
-  personaSlug: "athena",
+  persona: "athena",
   imagePath: "Athena/images/other/athena-L01-20260705T174040Z.png",
   imageRoot: "personas",
   relationshipLevel: 1,

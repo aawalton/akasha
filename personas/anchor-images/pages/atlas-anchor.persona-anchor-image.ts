@@ -5,7 +5,7 @@ export const atlasAnchor = {
   pageTypeSlug: "persona-anchor-image",
   slug: "atlas-anchor",
   title: "Atlas — anchor",
-  personaSlug: "atlas",
+  persona: "atlas",
   imagePath: "Atlas/atlas-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

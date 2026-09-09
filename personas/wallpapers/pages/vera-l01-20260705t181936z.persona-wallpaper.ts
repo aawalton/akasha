@@ -5,7 +5,7 @@ export const veraL0120260705t181936z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "vera-l01-20260705t181936z",
   title: "Vera — wallpaper L01 (Initiating)",
-  personaSlug: "vera",
+  persona: "vera",
   imagePath: "Vera/vera-L01-20260705T181936Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

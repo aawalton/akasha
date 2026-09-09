@@ -5,7 +5,7 @@ export const dallaL0120260705t174347z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "dalla-l01-20260705t174347z",
   title: "Dalla — wallpaper L01 (Experimenting)",
-  personaSlug: "dalla",
+  persona: "dalla",
   imagePath: "Dalla/dalla-L01-20260705T174347Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

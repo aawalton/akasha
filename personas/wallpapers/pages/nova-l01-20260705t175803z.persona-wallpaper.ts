@@ -5,7 +5,7 @@ export const novaL0120260705t175803z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "nova-l01-20260705t175803z",
   title: "Nova — wallpaper L01 (Intensifying)",
-  personaSlug: "nova",
+  persona: "nova",
   imagePath: "Nova/nova-L01-20260705T175803Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

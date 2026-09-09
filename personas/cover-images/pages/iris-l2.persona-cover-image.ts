@@ -5,6 +5,6 @@ export const irisL2 = {
   pageTypeSlug: "persona-cover-image",
   slug: "iris-l2",
   title: "Iris cover L2",
-  personaSlug: "iris",
+  persona: "iris",
   relationshipLevel: 2,
 } as const satisfies PersonaCoverImage

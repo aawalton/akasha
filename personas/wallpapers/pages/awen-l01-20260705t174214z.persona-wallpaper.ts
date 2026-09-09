@@ -5,7 +5,7 @@ export const awenL0120260705t174214z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "awen-l01-20260705t174214z",
   title: "Awen — wallpaper L01 (Bonding)",
-  personaSlug: "awen",
+  persona: "awen",
   imagePath: "Awen/awen-L01-20260705T174214Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

@@ -5,6 +5,6 @@ export const echoL5 = {
   pageTypeSlug: "persona-cover-image",
   slug: "echo-l5",
   title: "Echo cover L5",
-  personaSlug: "echo",
+  persona: "echo",
   relationshipLevel: 5,
 } as const satisfies PersonaCoverImage

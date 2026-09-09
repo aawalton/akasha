@@ -5,7 +5,7 @@ export const ariaL0120260705t173900z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "aria-l01-20260705t173900z",
   title: "Aria — wallpaper L01 (Initiating)",
-  personaSlug: "aria",
+  persona: "aria",
   imagePath: "Aria/aria-L01-20260705T173900Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

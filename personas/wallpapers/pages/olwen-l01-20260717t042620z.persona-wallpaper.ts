@@ -5,7 +5,7 @@ export const olwenL0120260717t042620z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "olwen-l01-20260717t042620z",
   title: "Olwen — wallpaper L01 (Initiating)",
-  personaSlug: "olwen",
+  persona: "olwen",
   imagePath: "Olwen/olwen-L01-20260717T042620Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

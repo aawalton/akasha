@@ -5,7 +5,7 @@ export const auraL0220260812t141937z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "aura-l02-20260812t141937z",
   title: "Aura — wallpaper L02 (Experimenting)",
-  personaSlug: "aura",
+  persona: "aura",
   imagePath: "Aura/aura-L02-20260812T141937Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 2,

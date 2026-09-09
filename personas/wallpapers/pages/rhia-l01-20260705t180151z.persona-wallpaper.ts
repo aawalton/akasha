@@ -5,7 +5,7 @@ export const rhiaL0120260705t180151z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "rhia-l01-20260705t180151z",
   title: "Rhia — wallpaper L01 (Initiating)",
-  personaSlug: "rhia",
+  persona: "rhia",
   imagePath: "Rhia/rhia-L01-20260705T180151Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

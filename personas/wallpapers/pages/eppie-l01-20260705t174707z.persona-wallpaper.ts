@@ -5,7 +5,7 @@ export const eppieL0120260705t174707z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "eppie-l01-20260705t174707z",
   title: "Eppie — wallpaper L01 (Initiating)",
-  personaSlug: "eppie",
+  persona: "eppie",
   imagePath: "Eppie/eppie-L01-20260705T174707Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

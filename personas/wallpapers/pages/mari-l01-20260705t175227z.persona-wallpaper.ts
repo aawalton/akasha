@@ -5,7 +5,7 @@ export const mariL0120260705t175227z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "mari-l01-20260705t175227z",
   title: "Mari — wallpaper L01 (Bonding)",
-  personaSlug: "mari",
+  persona: "mari",
   imagePath: "Mari/mari-L01-20260705T175227Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

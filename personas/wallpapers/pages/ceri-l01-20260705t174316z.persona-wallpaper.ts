@@ -5,7 +5,7 @@ export const ceriL0120260705t174316z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "ceri-l01-20260705t174316z",
   title: "Ceri — wallpaper L01 (Initiating)",
-  personaSlug: "ceri",
+  persona: "ceri",
   imagePath: "Ceri/ceri-L01-20260705T174316Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

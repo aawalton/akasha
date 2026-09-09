@@ -5,7 +5,7 @@ export const rubyAnchor = {
   pageTypeSlug: "persona-anchor-image",
   slug: "ruby-anchor",
   title: "Ruby — anchor",
-  personaSlug: "ruby",
+  persona: "ruby",
   imagePath: "Ruby/ruby-anchor.png",
   imageRoot: "personas",
 } as const satisfies PersonaAnchorImage

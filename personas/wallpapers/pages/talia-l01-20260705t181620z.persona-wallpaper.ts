@@ -5,7 +5,7 @@ export const taliaL0120260705t181620z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "talia-l01-20260705t181620z",
   title: "Talia — wallpaper L01 (Initiating)",
-  personaSlug: "talia",
+  persona: "talia",
   imagePath: "Talia/talia-L01-20260705T181620Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,

@@ -5,7 +5,7 @@ export const selahL0120260705t180740z = {
   pageTypeSlug: "persona-wallpaper",
   slug: "selah-l01-20260705t180740z",
   title: "Selah — wallpaper L01 (Initiating)",
-  personaSlug: "selah",
+  persona: "selah",
   imagePath: "Selah/selah-L01-20260705T180740Z.png",
   imageRoot: "wallpapers",
   relationshipLevel: 1,
