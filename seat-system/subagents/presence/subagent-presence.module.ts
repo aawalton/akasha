@@ -65,7 +65,7 @@ export const subagentPresence = {
     {
       invariantKind: "departure",
       statement:
-        "A page taken up states the assignment history held only where its seat states no assignment.",
+        "A page taken up states the assignment history has only where its seat states no assignment.",
     },
     {
       invariantKind: "departure",
@@ -138,11 +138,11 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing another landing's held lock refused is asked for again.",
+      statement: "A landing another landing's lock refused is asked for again.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal naming no held lock is answered at once.",
+      statement: "A refusal naming no lock is answered at once.",
     },
     {
       invariantKind: "departure",
@@ -162,7 +162,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A take-down refused for a held lock is asked for again as a put-up is.",
+      statement: "A take-down refused for a lock is asked for again as a put-up is.",
     },
     {
       invariantKind: "departure",
