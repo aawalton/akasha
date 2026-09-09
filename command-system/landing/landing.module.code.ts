@@ -16,6 +16,10 @@ import {
   readingEnded,
 } from "../../commands/modules/commit-reading/commit-reading.module.code.ts"
 import {
+  committed,
+  whileIndexFrees,
+} from "../../commands/modules/committing/committing.module.code.ts"
+import {
   clearedOff,
   clearedUnder,
   isFolder,
@@ -26,7 +30,6 @@ import {
   orphaningIn,
   orphaningSaid,
 } from "../../commands/modules/orphaning/orphaning.module.code.ts"
-import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"

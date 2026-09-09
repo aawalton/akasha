@@ -1,4 +1,3 @@
-import { UNNAMED } from "../../../command-system/committing/committing.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../../../command-system/gate-building/gate-building.module.code.ts"
 import type {
@@ -7,6 +6,7 @@ import type {
   Landed,
 } from "../../../command-system/landing/landing.module.code.ts"
 import type { Filled } from "../../../command-system/value-minting/value-minting.module.code.ts"
+import { UNNAMED } from "../committing/committing.module.code.ts"
 import type { Counting } from "../judged-saying/judged-saying.module.code.ts"
 import { judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
 

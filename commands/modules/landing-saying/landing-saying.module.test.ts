@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { counted } from "../../../command-system/asking/asking.module.code.ts"
-import { UNNAMED } from "../../../command-system/committing/committing.module.code.ts"
 import type { Drafted, Landed } from "../../../command-system/landing/landing.module.code.ts"
+import { UNNAMED } from "../committing/committing.module.code.ts"
 import {
   committedLine,
   defaultMessage,

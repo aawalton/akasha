@@ -1,13 +1,13 @@
 import { resolve } from "node:path"
 import { sayAnswer } from "@akasha/command-system/answer-bytes"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { AUTHOR } from "@akasha/command-system/committing"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { writerIn } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { AKASHA } from "@akasha/pages/checkout-roots"
 import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+import { AUTHOR } from "../../../modules/committing/committing.module.code.ts"
 
 const PROPERTY_ROOT = "page-property"
 
