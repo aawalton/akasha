@@ -9,12 +9,6 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement:
-        "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
-      workingMemory:
-        "At 0a4df504072 no `command-system` folder is there: every module sits under `commands/modules/`, its five dependents dropped the alias, and the akasha domain names `page-type/command` directly. `scratching` sits there too, though at the move only 16 of its 141 reachers were commands, so it is tree-wide test tooling under `commands/`, which this intent bars. Where a tree-wide helper belongs is Alan's.",
-    },
-    {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
       workingMemory:
         "A run scoped to `commands/` answers 2 refusals at 7470a0274e, of 727 tree-wide, down from 196 of 1121 at 440b43ad0a. One is the repository root, which is not under `commands/`. The other is `commands/pages`: `pages-of-the-type-above` asks each subfolder for a page of the type above it, and 47 namespace folders sit there, since `namespace` extends `domain` rather than `command`. Every remedy is a folder shape under `checks/`.",
