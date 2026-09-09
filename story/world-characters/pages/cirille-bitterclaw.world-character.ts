@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const cirilleBitterclaw = {
   id: "01a06580-2494-7782-8e50-3e35901ab5c4",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "cirille-bitterclaw",
   title: "Cirille",
   world: "the-wandering-inn",

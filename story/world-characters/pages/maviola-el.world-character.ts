@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const maviolaEl = {
   id: "01a06580-2494-7378-9fdc-f63e265b9de0",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "maviola-el",
   title: "Lady Maviola El",
   world: "the-wandering-inn",

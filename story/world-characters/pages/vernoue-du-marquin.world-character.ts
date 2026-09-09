@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const vernoueDuMarquin = {
   id: "01a06580-2495-7893-8762-183f54660b22",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "vernoue-du-marquin",
   title: "Princess Vernoue du Marquin",
   world: "the-wandering-inn",

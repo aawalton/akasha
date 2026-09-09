@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const seaweedfsBackupLongtail = {
   id: "01a06863-74e1-724d-a15e-66c67cb38571",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "seaweedfs-backup-longtail",
   definition: "what copies the oldest backups on to slower storage",
   resourceKind: "CronJob",

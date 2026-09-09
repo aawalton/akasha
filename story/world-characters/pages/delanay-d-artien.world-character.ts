@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const delanayDArtien = {
   id: "01a06580-2494-7552-bd2a-530c16be1a2c",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "delanay-d-artien",
   title: "Delanay d'Artien",
   world: "the-wandering-inn",

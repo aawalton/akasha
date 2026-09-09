@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const talosSubnetRouter = {
   id: "01a06812-2380-7d28-a4a5-09178aa6be26",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "talos-subnet-router",
   definition: "the router carrying private network traffic to the cluster nodes' addresses",
   resourceKind: "Deployment",

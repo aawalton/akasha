@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const athenaL0120260705t174040z = {
   id: "019f234f-4948-77b0-a029-af00e00eb96c",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "athena-l01-20260705t174040z",
   title: "Athena — wallpaper L01 (Bonding)",
   persona: "athena",

@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const sleepRelayService = {
   id: "01a06220-ef8c-7a3e-a40b-06bc3fc01541",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "sleep-relay-service",
   definition: "the service carrying the sleep hours to the sites that show them",
   runs: [

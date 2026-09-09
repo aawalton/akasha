@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const graceL0120260705t174910z = {
   id: "019f1941-b671-7203-a2a3-34e7008fff43",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "grace-l01-20260705t174910z",
   title: "Grace — wallpaper L01 (Initiating)",
   persona: "grace",

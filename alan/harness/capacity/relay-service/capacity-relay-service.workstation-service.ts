@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const capacityRelayService = {
   id: "01a06230-614f-7c7a-b4f2-d985546de7af",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "capacity-relay-service",
   definition: "the service carrying the capacity hours to the sites that show them",
   runs: [

@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const claudeAccountUpkeepStall = {
   id: "01a06829-0194-773b-982b-dd8a10714450",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "claude-account-upkeep-stall",
   definition: "the service ruling on whether Claude account upkeep has stalled and telling Alan",
   runs: [

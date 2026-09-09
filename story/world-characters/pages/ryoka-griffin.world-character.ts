@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const ryokaGriffin = {
   id: "01a06580-2495-75a6-80f6-47528af154ec",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "ryoka-griffin",
   title: "Ryoka",
   world: "the-wandering-inn",

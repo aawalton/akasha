@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const postgresAnnualDump = {
   id: "01a06865-c012-7a1d-b102-3faf8416b98f",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "postgres-annual-dump",
   definition: "what writes a whole copy of the database once a year",
   resourceKind: "CronJob",

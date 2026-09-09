@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const wanderingInnSync = {
   id: "01a06829-0194-7944-8222-878e84344e48",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "wandering-inn-sync",
   definition: "the service filing each new Wandering Inn chapter as a page",
   runs: [

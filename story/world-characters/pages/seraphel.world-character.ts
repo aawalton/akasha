@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const seraphel = {
   id: "01a06580-2495-7b69-9ddc-edac330b6afc",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "seraphel",
   title: "Seraphel",
   world: "the-wandering-inn",

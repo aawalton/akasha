@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const ddnsHeadscale = {
   id: "01a06812-2380-7daf-80c0-b50676a5feef",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "ddns-headscale",
   definition: "the job that points a public name at the current address",
   resourceKind: "CronJob",

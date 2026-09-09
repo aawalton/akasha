@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const ulvama = {
   id: "01a06580-2495-7f68-a839-c88ba1cbc32f",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "ulvama",
   title: "Ulvama",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const kubeStateMetrics = {
   id: "01a06812-2380-742f-b9bc-e1bb91eceda6",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "kube-state-metrics",
   definition: "the server that publishes the state of the cluster's own objects as metrics",
   resourceKind: "Deployment",

@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const inboxTrackingPoll = {
   id: "01a06829-0194-7b3e-8aaf-32073fb983f2",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "inbox-tracking-poll",
   definition: "the service refreshing the inbox counts the statusline shows",
   runs: ["bun alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.code.ts"],

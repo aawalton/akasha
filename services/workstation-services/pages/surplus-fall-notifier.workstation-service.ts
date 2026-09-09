@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const surplusFallNotifier = {
   id: "01a06829-0194-7754-b17a-14e66866bd98",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "surplus-fall-notifier",
   definition: "the service saying when the day has spent Alan's night down a rung",
   runs: ["bun alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.code.ts"],

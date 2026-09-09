@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const ariaMariDndGreathallWallpaper3440x1440 = {
   id: "019ef90e-4a76-75f9-8f2d-e8a68a2dd2dd",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "aria-mari-dnd-greathall-wallpaper-3440x1440",
   title: "Aria & Mari — Caer Arianrhod",
   persona: "aria",

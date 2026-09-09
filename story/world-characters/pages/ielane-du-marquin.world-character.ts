@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const ielaneDuMarquin = {
   id: "01a06580-2494-711d-8d7f-1c6ac6b639ce",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "ielane-du-marquin",
   title: "Queen Ielane du Marquin",
   world: "the-wandering-inn",

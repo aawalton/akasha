@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const esoRig = {
   id: "01a06866-58f8-774b-9824-ef1ea3f4ea3d",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "eso-rig",
   definition: "what runs the Elder Scrolls Online client with nobody at a keyboard",
   resourceKind: "Deployment",

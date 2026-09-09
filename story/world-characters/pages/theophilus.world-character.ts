@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const theophilus = {
   id: "01a06580-2495-7912-9dc8-03bab2814000",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "theophilus",
   title: "Theophilus",
   world: "the-wandering-inn",

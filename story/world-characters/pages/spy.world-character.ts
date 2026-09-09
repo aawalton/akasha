@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const spy = {
   id: "01a06580-2495-7263-a2be-230b894bffd3",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "spy",
   title: "unknown spy",
   world: "the-wandering-inn",

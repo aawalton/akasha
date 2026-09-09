@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const gitTransportJanitor = {
   id: "01a07c78-6dec-7595-bde9-99656b98280f",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "git-transport-janitor",
   definition: "the job clearing the debris an aborted push leaves in the repositories",
   resourceKind: "CronJob",

@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const venaz = {
   id: "01a06580-2495-7cb0-b614-b7d1c864788f",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "venaz",
   title: "Venaz",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const azKerash = {
   id: "01a06580-2494-7b32-95c9-6744876a1f76",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "az-kerash",
   title: "Az'kerash",
   world: "the-wandering-inn",

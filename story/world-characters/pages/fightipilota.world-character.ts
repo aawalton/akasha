@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const fightipilota = {
   id: "01a06580-2494-72f5-9726-4cc56b85fe71",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "fightipilota",
   title: "Fightipilota",
   world: "the-wandering-inn",

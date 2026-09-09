@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const monarchPoll = {
   id: "01a06829-0194-7a16-9864-72598a2e5654",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "monarch-poll",
   definition: "the service landing the Monarch rows whose update time has moved",
   runs: ["bun alan/harness/monarch/transaction-polling/transaction-polling.module.code.ts"],

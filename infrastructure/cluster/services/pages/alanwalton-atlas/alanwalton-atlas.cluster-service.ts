@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const alanwaltonAtlas = {
   id: "01a05b26-f8b6-718d-afa7-a3c62e0a1196",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "alanwalton-atlas",
   definition: "what draws Alan's map and takes in the locations his phone sends",
   resourceKind: "Deployment",

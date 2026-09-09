@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const minotaurEmissary = {
   id: "01a06580-2495-7f9e-b299-d35f46bab375",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "minotaur-emissary",
   title: "the Minotaur",
   world: "the-wandering-inn",

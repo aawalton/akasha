@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const postgresCnpg = {
   id: "01a06812-2380-705a-87bc-2d6f0da9924c",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "postgres-cnpg",
   definition: "the managed cluster the Postgres database runs as",
   resourceKind: "Cluster",

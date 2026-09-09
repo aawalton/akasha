@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const taliaL0120260705t181620z = {
   id: "019f0945-4c2e-7e13-b5e4-443ba892e80d",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "talia-l01-20260705t181620z",
   title: "Talia — wallpaper L01 (Initiating)",
   persona: "talia",

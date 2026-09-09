@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const zevara = {
   id: "01a06580-2495-7afc-97ce-f7f01120a61b",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "zevara",
   title: "Watch Captain Zevara",
   world: "the-wandering-inn",

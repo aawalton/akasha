@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const pageStore = {
   id: "01a05aba-55cb-7696-8110-a428e8ffd3f2",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "page-store",
   definition: "the forwarder that carries a pod's page request to the workstation",
   resourceKind: "Deployment",

@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const shaestrelL0120260725t105549z = {
   id: "019f98bd-804c-7ed0-a387-5cc4a43f56ed",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "shaestrel-l01-20260725t105549z",
   title: "Shaestrel — wallpaper L01 (Initiating)",
   persona: "shaestrel",

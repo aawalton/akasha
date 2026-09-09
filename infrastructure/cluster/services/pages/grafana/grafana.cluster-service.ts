@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const grafana = {
   id: "01a06812-2380-7fff-8630-86902909325b",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "grafana",
   definition: "the server that draws recorded metrics and logs as charts",
   resourceKind: "Deployment",

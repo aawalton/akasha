@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const irisL0120260705t175043z = {
   id: "019efaea-c4a2-76d0-8c26-9cd29a69a50d",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "iris-l01-20260705t175043z",
   title: "Iris — wallpaper L01 (Initiating)",
   persona: "iris",

@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const postgresExporter = {
   id: "01a06812-2380-7259-8296-16b643a8bc64",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "postgres-exporter",
   definition: "the server that publishes the database's state as metrics",
   resourceKind: "Deployment",

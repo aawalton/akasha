@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const royalRoadSync = {
   id: "01a06829-0194-78d3-8693-e4cc1c1e6e9a",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "royal-road-sync",
   definition: "the service syncing Royal Road chapters",
   runs: [

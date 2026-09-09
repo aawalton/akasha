@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const dcgmExporter = {
   id: "01a06829-0194-7abe-a29a-b073b8c32332",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "dcgm-exporter",
   definition: "the service publishing the workstation GPU as metrics: memory, use, heat and power",
   runs: [

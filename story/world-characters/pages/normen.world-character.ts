@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const normen = {
   id: "01a06580-2495-7d3f-8d6b-03c39fe67e48",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "normen",
   title: "Normen",
   world: "the-wandering-inn",

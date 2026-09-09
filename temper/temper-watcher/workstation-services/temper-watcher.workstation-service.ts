@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const temperWatcher = {
   id: "01a06039-9c8b-7942-a8fc-234055602831",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "temper-watcher",
   definition: "the service carrying what Alan does in the game across to the web",
   runs: ["bun temper/temper-watcher/watcher-running/watcher-running.module.code.ts"],

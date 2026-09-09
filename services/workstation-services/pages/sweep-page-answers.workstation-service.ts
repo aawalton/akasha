@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const sweepPageAnswers = {
   id: "019ffe91-4c22-7a30-b5f1-6d3a7c4e8b02",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "sweep-page-answers",
   definition: "the service taking away a kept page answer once it has been there a day",
   runs: ["bun pages/answer-sweeping/page-answer-sweeping.module.code.ts"],

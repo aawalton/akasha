@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const reposEmptyDirPurge = {
   id: "01a06829-0194-7c17-9a07-d06e04099921",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "repos-empty-dir-purge",
   definition: "the service removing every directory with nothing under Alan's repositories",
   runs: [

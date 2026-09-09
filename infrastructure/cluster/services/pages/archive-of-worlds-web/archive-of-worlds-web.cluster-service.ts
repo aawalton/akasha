@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const archiveOfWorldsWeb = {
   id: "01a05b26-f8b6-7d0c-8371-3abedb498e0f",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "archive-of-worlds-web",
   definition: "what serves the site published original stories are read on",
   resourceKind: "Deployment",

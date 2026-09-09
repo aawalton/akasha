@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const inboxRelayService = {
   id: "01a06230-b156-7667-b81e-d7a74183ae8d",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "inbox-relay-service",
   definition: "the service carrying the inbox counts to the site that shows them",
   runs: [

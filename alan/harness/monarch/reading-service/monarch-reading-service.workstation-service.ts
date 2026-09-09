@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const monarchReadingService = {
   id: "01a05b42-a2d3-7d02-b6b1-5faa28a7bdba",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "monarch-reading-service",
   definition: "the service taking Monarch's unreviewed count onto its readout",
   runs: ["bun alan/harness/monarch/reading/monarch-reading.module.code.ts"],

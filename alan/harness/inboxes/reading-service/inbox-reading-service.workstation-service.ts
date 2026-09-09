@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const inboxReadingService = {
   id: "01a06230-b156-758f-964c-393712fcedd4",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "inbox-reading-service",
   definition: "the service taking Alan's five inbox counts onto their readouts",
   runs: ["bun alan/harness/inboxes/reading/inbox-reading.module.code.ts"],

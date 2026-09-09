@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const orphanedResourcesSweep = {
   id: "01a06829-0194-7184-8190-2c4c599798bd",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "orphaned-resources-sweep",
   definition: "the service saying which live cluster resources no source manifest accounts for",
   runs: ["bun infrastructure/cluster/manifests/orphan-sweeping/orphan-sweeping.module.code.ts"],

@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const pebblesnatch = {
   id: "01a06580-2495-74f1-8c85-ff0bab414851",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "pebblesnatch",
   title: "Pebblesnatch",
   world: "the-wandering-inn",

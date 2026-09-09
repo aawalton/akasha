@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const nailrenFletchsing = {
   id: "01a06580-2495-70a5-b00c-928a3514de10",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "nailren-fletchsing",
   title: "Nailren Fletchsing",
   world: "the-wandering-inn",

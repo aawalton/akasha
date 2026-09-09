@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const pagesService = {
   id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "pages-service",
   definition: "the service answering page queries and landing page writes",
   runs: ["bun pages/service/page-listening/page-listening.module.code.ts"],

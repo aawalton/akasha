@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const badarrow = {
   id: "01a06580-2494-7ef7-a18c-8584e4cd9ecb",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "badarrow",
   title: "Badarrow",
   world: "the-wandering-inn",

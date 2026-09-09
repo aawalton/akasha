@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const loki = {
   id: "01a06816-68b2-782a-9997-af90e9fdae8a",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "loki",
   definition: "the store every log is shipped to and queried out of",
   resourceKind: "Deployment",

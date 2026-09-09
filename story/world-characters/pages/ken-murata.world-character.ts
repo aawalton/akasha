@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const kenMurata = {
   id: "01a06580-2494-7dea-99fb-6d1933b7aaa7",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "ken-murata",
   title: "Ken",
   world: "the-wandering-inn",

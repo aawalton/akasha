@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const ttcClient = {
   id: "01a06829-0194-7e8a-b87b-1e6e9ea4fe59",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "ttc-client",
   definition: "the service keeping Tamriel Trade Centre prices current inside the game's prefix",
   runs: [

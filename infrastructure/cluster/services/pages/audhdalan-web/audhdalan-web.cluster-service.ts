@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const audhdalanWeb = {
   id: "01a05b26-f8b6-702c-863b-08d754492dee",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "audhdalan-web",
   definition: "what serves the site Alan's neurodiversity writing is published on",
   resourceKind: "Deployment",

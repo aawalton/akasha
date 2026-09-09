@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const greatCoursesSync = {
   id: "01a06829-0194-71d6-8b3b-2687352034df",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "great-courses-sync",
   definition: "the service filing a Great Courses course as a page where none represents it",
   runs: ["bun collections/great-courses/catalogue-syncing/catalogue-syncing.module.code.ts"],

@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const alevica = {
   id: "01a06580-2493-7cc3-ab41-6c7dd177bc8b",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "alevica",
   title: "Alevica",
   world: "the-wandering-inn",

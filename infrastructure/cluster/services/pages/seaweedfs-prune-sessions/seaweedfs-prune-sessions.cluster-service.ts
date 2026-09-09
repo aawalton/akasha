@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const seaweedfsPruneSessions = {
   id: "01a06816-68b2-782e-bab4-94b6543bc420",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "seaweedfs-prune-sessions",
   definition: "the sweep that removes stored agent sessions past their age",
   resourceKind: "CronJob",

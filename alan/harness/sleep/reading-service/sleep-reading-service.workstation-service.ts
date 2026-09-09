@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const sleepReadingService = {
   id: "01a06220-ef8c-7501-a97f-688355f6fa47",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "sleep-reading-service",
   definition: "the service taking Alan's sleep hours onto its readout",
   runs: ["bun alan/harness/sleep/reading/sleep-reading.module.code.ts"],

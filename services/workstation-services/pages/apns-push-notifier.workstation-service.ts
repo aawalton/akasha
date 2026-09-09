@@ -3,6 +3,7 @@ import type { WorkstationService } from "../workstation-service.page-type.ts"
 export const apnsPushNotifier = {
   id: "01a06829-0193-7bb7-858d-8cb22b1eb62d",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "apns-push-notifier",
   definition: "the service putting each notification written for Alan on his devices",
   runs: [

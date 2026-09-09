@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const nodeExporterDaemonset = {
   id: "01a06812-2380-745d-b472-9c01fc3c6797",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "node-exporter-daemonset",
   definition: "the daemon publishing each node's processor, memory, disk and network as metrics",
   resourceKind: "DaemonSet",

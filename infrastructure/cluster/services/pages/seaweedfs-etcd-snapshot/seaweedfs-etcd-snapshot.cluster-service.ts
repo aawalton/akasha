@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const seaweedfsEtcdSnapshot = {
   id: "01a06816-68b2-7704-91dc-308b6f1e9d35",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "seaweedfs-etcd-snapshot",
   definition: "what writes a copy of the cluster's own key store",
   resourceKind: "CronJob",

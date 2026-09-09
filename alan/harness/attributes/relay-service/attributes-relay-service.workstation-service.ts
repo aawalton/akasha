@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const attributesRelayService = {
   id: "01a0687a-f498-78ce-a19b-36b6b2217113",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "attributes-relay-service",
   definition: "the service carrying the six attribute points to the site that shows them",
   runs: [

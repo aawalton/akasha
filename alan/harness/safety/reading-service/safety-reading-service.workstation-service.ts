@@ -3,6 +3,7 @@ import type { WorkstationService } from "@akasha/service/workstation-service"
 export const safetyReadingService = {
   id: "01a05f42-92f5-7007-b8a6-32a3ffb8ea1d",
   pageTypeSlug: "workstation-service",
+  type: "workstation-service",
   slug: "safety-reading-service",
   definition: "the service taking Alan's safety level onto its readout",
   runs: ["bun alan/harness/safety/reading/safety-reading.module.code.ts"],

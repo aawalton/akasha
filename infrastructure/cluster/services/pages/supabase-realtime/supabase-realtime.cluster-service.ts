@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const supabaseRealtime = {
   id: "01a06812-2380-7fe4-8a55-3bb9b9dc3a52",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "supabase-realtime",
   definition: "the server that pushes a row's change to the browsers subscribed to it",
   resourceKind: "Deployment",

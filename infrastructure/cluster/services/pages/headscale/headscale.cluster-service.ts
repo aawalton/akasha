@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const headscale = {
   id: "01a06812-2380-7204-bb6c-c05c012bbf72",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "headscale",
   definition:
     "the server admitting a machine to the private network and telling it where the others are",

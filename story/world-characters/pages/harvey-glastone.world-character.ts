@@ -3,6 +3,7 @@ import type { WorldCharacter } from "../world-character.page-type.ts"
 export const harveyGlastone = {
   id: "01a06580-2494-7e5b-8a58-a65199e4ad85",
   pageTypeSlug: "world-character",
+  type: "world-character",
   slug: "harvey-glastone",
   title: "Harvey Glastone",
   world: "the-wandering-inn",

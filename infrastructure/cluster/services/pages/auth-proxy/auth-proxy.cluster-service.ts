@@ -3,6 +3,7 @@ import type { ClusterService } from "../../cluster-service.page-type.ts"
 export const authProxy = {
   id: "01a06863-8e7c-7a70-a620-0a4edd125d51",
   pageTypeSlug: "cluster-service",
+  type: "cluster-service",
   slug: "auth-proxy",
   definition: "what decides who a request is from before it reaches anything",
   resourceKind: "Deployment",

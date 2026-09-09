@@ -3,6 +3,7 @@ import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
 export const laliL0120260705t175151z = {
   id: "019f0a85-391c-7c7e-b9db-1455edbed34f",
   pageTypeSlug: "persona-wallpaper",
+  type: "persona-wallpaper",
   slug: "lali-l01-20260705t175151z",
   title: "Lali — wallpaper L01 (Initiating)",
   persona: "lali",
