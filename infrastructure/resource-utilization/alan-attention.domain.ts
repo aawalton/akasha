@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const alanAttention = {
   id: "01a0675b-16d4-7fec-97b7-58f61da0a03e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "alan-attention",
   definition: "the time Alan can give the system",
   invariants: [

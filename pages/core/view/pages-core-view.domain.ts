@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesCoreView = {
   id: "01a071cb-580b-710d-a9ae-c371fe8df6c3",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-core-view",
   definition: "what a view makes of the rows handed to it",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "page-edge",
   definition: "a reference from one page to another",
   invariants: [

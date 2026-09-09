@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const network = {
   id: "01a0658b-0f02-7e55-94d1-d612c0ed6115",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "network",
   definition: "what a program reaches other machines over",
   pluralSlug: "networks",

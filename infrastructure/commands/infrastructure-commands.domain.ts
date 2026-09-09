@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const infrastructureCommands = {
   id: "01a06809-a024-78cb-a37f-ff53624d76bd",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "infrastructure-commands",
   definition: "what an agent runs by name over what the system runs on",
   parts: [],

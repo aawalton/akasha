@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const telemetry = {
   id: "01a0658b-0f02-79eb-aed4-e7e8b92bc117",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "telemetry",
   definition: "somewhere a program records what it is doing",
   parts: [

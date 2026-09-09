@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesCorePropertyTypes = {
   id: "01a071cb-236e-781b-9c7d-29bf3bd222c7",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-core-property-types",
   definition: "what one kind of page property means",
   parts: [

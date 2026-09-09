@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const languageDesign = {
   id: "01a06600-0000-7000-8000-000000000003",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "language-design",
   definition: "how a language is shaped",
   parts: ["workspace-package/lua-compiler"],

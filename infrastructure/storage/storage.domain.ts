@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const storage = {
   id: "01a0658b-0f02-7644-863a-eb9b17536f55",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "storage",
   definition: "where bytes live",
   parts: [

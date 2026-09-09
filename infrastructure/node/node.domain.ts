@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const node = {
   id: "01a0675b-16f6-70fc-b7f0-5a700f512e86",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "node",
   definition: "one machine in a cluster",
   parts: ["manifest/nvidia-device-plugin"],

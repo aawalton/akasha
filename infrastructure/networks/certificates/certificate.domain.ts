@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const certificate = {
   id: "01a0658b-0f02-7cc7-a170-0193d5a4bc1d",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "certificate",
   definition: "a signed statement that a name belongs to whoever answers on it",
   pluralSlug: "certificates",

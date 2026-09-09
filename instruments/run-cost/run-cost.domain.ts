@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const runCost = {
   id: "01a06860-a0ef-7619-8f93-c450df9427ad",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "run-cost",
   definition: "how long a run takes, said as one of six named bands",
   pluralSlug: "run-costs",

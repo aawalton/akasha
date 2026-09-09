@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const backup = {
   id: "01a0658b-0f02-7c83-b788-fe3d8bce0c2b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "backup",
   definition: "a copy of what a store has, kept apart from that store",
   pluralSlug: "backups",

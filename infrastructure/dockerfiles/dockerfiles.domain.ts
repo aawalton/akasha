@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const dockerfiles = {
   id: "01a06865-abff-7000-a441-7a4caa49c9d9",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "dockerfiles",
   definition: "the Dockerfile each service is built from, written from what the service imports",
   parts: [

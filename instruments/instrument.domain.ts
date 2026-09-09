@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const instrument = {
   id: "01a06591-583b-7ae3-907a-e718596a3661",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "instrument",
   definition: "code kept to be run again, to find out what is true",
   pluralSlug: "instruments",

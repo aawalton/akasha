@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesCoreSchema = {
   id: "01a071cb-3d85-7fcd-8315-90eca5831d35",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-core-schema",
   definition: "the shape a zod validator names a config value must have",
   parts: [

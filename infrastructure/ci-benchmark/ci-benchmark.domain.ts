@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const ciBenchmark = {
   id: "01a0675b-16d8-704b-a679-f300bf41cd88",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "ci-benchmark",
   definition: "one CI node's substrate measured against the whole check registry on a cold store",
   parts: ["module/toolchain-manifest"],

@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const k8sTypes = {
   id: "01a06735-dd9c-700c-89ca-ed7f38cab9b1",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "k8s-types",
   definition: "the types a Kubernetes manifest is written from",
   parts: [
