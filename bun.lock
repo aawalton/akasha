@@ -74,7 +74,6 @@
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
@@ -1598,13 +1597,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-shopping": {
-      "name": "@akasha/temper-shopping",
-      "dependencies": {
-        "@akasha/temper-trading-pricing": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-skill-kinds": {
       "name": "@akasha/temper-skill-kinds",
       "dependencies": {
@@ -1668,7 +1660,6 @@
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
@@ -2035,8 +2026,6 @@
     "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
 
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:temper/settings-panel"],
-
-    "@akasha/temper-shopping": ["@akasha/temper-shopping@workspace:temper/temper-shopping"],
 
     "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/temper-skill-kinds"],
 

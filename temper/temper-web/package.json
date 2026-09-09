@@ -53,7 +53,6 @@
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-player-completion-ui": "workspace:*",
     "@akasha/temper-races": "workspace:*",
-    "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",

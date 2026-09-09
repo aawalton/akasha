@@ -5,9 +5,9 @@ import {
   ALL_DESTRUCTIVE_ACTIONS,
   type InventorySafetySettings,
 } from "@akasha/temper-items-core/inventory-safety-types"
-import type { ShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useSettingsBlob } from "akasha/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import type { ShoppingSettings } from "akasha/temper/temper-shopping/shopping-settings/shopping-settings.module.code.ts"
 import { useCallback } from "react"
 
 function isInventoryLoggingSettings(v: unknown): v is InventoryLoggingSettings {

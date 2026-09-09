@@ -4,7 +4,7 @@ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import type {
   PurchaseRecommendation,
   ShoppingItem,
-} from "@akasha/temper-shopping/ttc-shopping-types"
+} from "akasha/temper/temper-shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import {
   pinLocationIndex,

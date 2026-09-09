@@ -22,7 +22,7 @@ export const temper = {
     "domain/temper-game-catalog-capture-addon",
     "eso-addon/temper-errors-addon",
     "domain/temper-completion-import",
-    "workspace-package/temper-shopping",
+    "domain/temper-shopping",
     "workspace-package/temper-addon-library-types",
     "workspace-package/temper-eso-types",
     "workspace-package/temper-catalog-core",

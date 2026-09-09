@@ -75,7 +75,6 @@
     "@akasha/temper-companions-ui": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-player-completion-ui": "workspace:*",
-    "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",

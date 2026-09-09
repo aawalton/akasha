@@ -6,10 +6,10 @@ import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { getQualityClassName } from "@akasha/temper-companions-ui/companion-quality-rules"
 import type { CompanionGearNeed } from "@akasha/temper-items-core/companion-gear-diff"
-import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { requireGet } from "@akasha/utils/narrow/require-get"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { needToShoppingKey } from "akasha/temper/temper-shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,

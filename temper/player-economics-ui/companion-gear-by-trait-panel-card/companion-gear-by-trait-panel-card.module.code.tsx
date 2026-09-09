@@ -14,11 +14,11 @@ import {
   type CompanionGearNeed,
   type GearNeededGroup,
 } from "@akasha/temper-items-core/companion-gear-diff"
-import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { needToShoppingKey } from "akasha/temper/temper-shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   type BlendedPriceKey,
