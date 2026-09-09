@@ -6,7 +6,7 @@ export const browser = {
   slug: "browser",
   definition: "a browser driven from code, and what is kept of a run",
   parts: [
-    "workspace-package/browser-commands",
+    "domain/browser-commands",
     "workspace-package/browser-launch-env",
     "workspace-package/browser-test-harness",
   ],

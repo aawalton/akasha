@@ -10,6 +10,7 @@
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
+        "@akasha/command-system": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
@@ -22,6 +23,7 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
+        "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-data": "workspace:*",
@@ -539,20 +541,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "browser/commands": {
-      "name": "@akasha/browser-commands",
-      "dependencies": {
-        "@akasha/browser-test-harness": "workspace:*",
-        "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-client": "workspace:*",
-        "@akasha/supabase-server": "workspace:*",
-      },
-      "optionalDependencies": {
-        "playwright-core": "1.61.1",
       },
     },
     "browser/launch-env": {
@@ -2775,8 +2763,6 @@
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:alan/library/book-of-everything"],
 
     "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:alan/library/book-of-everything/commands"],
-
-    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:browser/commands"],
 
     "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:browser/launch-env"],
 

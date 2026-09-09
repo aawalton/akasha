@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const browserCommands = {
   id: "01a06862-06c8-7000-8f27-5543118e4614",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "browser-commands",
   definition: "what an agent runs by name over a site it drives a browser against",
-  manifest: "json",
   parts: ["module/browser-command-arguing", "module/verify-render-plan"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const browserCommands = {
       statement: "Nothing here knows the purpose of any page this package looks at.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
