@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const naturalReversion = {
   id: "01a0657d-0271-7389-83fb-f95c45b8486e",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "natural-reversion",
   title: "Natural Reversion",
   world: "the-wandering-inn",

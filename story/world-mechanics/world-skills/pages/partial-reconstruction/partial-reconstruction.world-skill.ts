@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const partialReconstruction = {
   id: "01a0657d-0287-7492-bc1c-a85bfbd89630",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "partial-reconstruction",
   title: "Partial Reconstruction",
   world: "the-wandering-inn",

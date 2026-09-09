@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const pitfallTrap = {
   id: "01a0657d-0295-76d2-909e-34cc6eef1705",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "pitfall-trap",
   title: "Pitfall Trap",
   world: "the-wandering-inn",

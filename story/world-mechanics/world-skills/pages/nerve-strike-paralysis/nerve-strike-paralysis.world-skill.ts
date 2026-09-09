@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const nerveStrikeParalysis = {
   id: "01a0657d-027b-7cf2-948c-de830767581c",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "nerve-strike-paralysis",
   title: "Nerve Strike: Paralysis",
   world: "the-wandering-inn",
