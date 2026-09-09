@@ -1,6 +1,6 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { appendEdits } from "@akasha/changes/edits-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { textIn, textOf } from "@akasha/code/body-text"
@@ -266,13 +266,13 @@ function statedFrom(
   root: string,
   base: string,
   changes: readonly FileEdit[]
-): { readonly rows: readonly Stated[] } | { readonly why: string } {
+): { readonly rows: readonly FileChange[] } | { readonly why: string } {
   const before = beforeOf(
     root,
     base,
     changes.map((one) => one.path)
   )
-  const rows: Stated[] = []
+  const rows: FileChange[] = []
   for (const one of changes) {
     const reading =
       one.readersOweReading === undefined ? {} : { readersOweReading: one.readersOweReading }

@@ -1,6 +1,7 @@
 import type {
   Adding,
   Answer,
+  FileChange,
   Held,
   Moving,
   NotText,
@@ -9,7 +10,6 @@ import type {
   Replayed,
   Said,
   Splice,
-  Stated,
 } from "./change-answer.module.types.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
@@ -38,7 +38,7 @@ export function refusing(why: string): Answer {
   return { edits: [], refused: why }
 }
 
-export function pathsOf(one: Stated): readonly string[] {
+export function pathsOf(one: FileChange): readonly string[] {
   return one.kind === "move" ? [one.pathFrom, one.pathTo] : [one.path]
 }
 
@@ -50,7 +50,7 @@ export function missing(key: string): string {
   return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
 }
 
-export function stating(edits: readonly Stated[]): Said {
+export function stating(edits: readonly FileChange[]): Said {
   return { edits, refused: null }
 }
 
@@ -79,7 +79,7 @@ export function windowed(text: string, from: number, to: number): readonly [numb
   return [start, shut]
 }
 
-export function spliced(path: string, text: string, splice: Splice): readonly Stated[] {
+export function spliced(path: string, text: string, splice: Splice): readonly FileChange[] {
   if (text.slice(splice.from, splice.to) === splice.put) return []
   const [start, shut] = windowed(text, splice.from, splice.to)
   return [
@@ -109,7 +109,7 @@ export function splicing(
   path: string,
   text: string,
   splices: readonly Splice[]
-): readonly Stated[] {
+): readonly FileChange[] {
   const runs: Splice[][] = []
   let shut = -1
   for (const one of splices) {
@@ -125,7 +125,11 @@ export function splicing(
   })
 }
 
-export function splicedIn(path: string, text: string, spots: readonly Splice[]): readonly Stated[] {
+export function splicedIn(
+  path: string,
+  text: string,
+  spots: readonly Splice[]
+): readonly FileChange[] {
   const seen = new Set<number>()
   const held: Splice[] = []
   for (const one of [...spots].sort((here, there) => here.from - there.from)) {
@@ -188,7 +192,7 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
   return { left: { path: one.pathTo, body: text, from: one.pathFrom } }
 }
 
-export function expanded(one: Stated, textOf: BodyOf): Expanded {
+export function expanded(one: FileChange, textOf: BodyOf): Expanded {
   if (one.kind === "add") return addedIn(one, textOf)
   if (one.kind === "replace") return replacedIn(one, textOf)
   if (one.kind === "remove") return removedIn(one, textOf)
@@ -213,7 +217,7 @@ export function beyond(had: Answer, said: Answer): Answer {
 }
 
 export function gathered(answers: readonly Answer[]): Answer {
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   for (const one of answers) {
     if (one.refused !== null) return one
     edits.push(...one.edits)

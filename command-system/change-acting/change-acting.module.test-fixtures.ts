@@ -1,5 +1,5 @@
 import { pathsOf } from "@akasha/changes/change-answer"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
@@ -36,11 +36,11 @@ export const HANDED_AT = "akasha/three/handed.md"
 
 export const HANDED_OTHER = "akasha/three/other.md"
 
-export const HANDED_ONE: Stated = { kind: "add", path: HANDED_AT, content: "handed" }
+export const HANDED_ONE: FileChange = { kind: "add", path: HANDED_AT, content: "handed" }
 
-export const HANDED_TWO: Stated = { kind: "add", path: HANDED_OTHER, content: "other" }
+export const HANDED_TWO: FileChange = { kind: "add", path: HANDED_OTHER, content: "other" }
 
-const MOVED: Stated = { kind: "move", pathFrom: MOVED_FROM, pathTo: MOVED_TO }
+const MOVED: FileChange = { kind: "move", pathFrom: MOVED_FROM, pathTo: MOVED_TO }
 
 export const KEPT_BOTH: readonly string[] = [KEPT_ONE, KEPT_TWO]
 
@@ -80,7 +80,7 @@ export const NOTHING: Piping = piping("")
 
 export const QUIET: Piping = () => ({ unreadable: "went quiet", part: true as const })
 
-function rowsIn(root: string, page: string): readonly Stated[] {
+function rowsIn(root: string, page: string): readonly FileChange[] {
   const said = editsIn(root, page)
   return "why" in said ? [] : said.rows
 }
@@ -93,7 +93,7 @@ export function handedIn(root: string): readonly string[] {
   return rowsIn(root, handedPageOf(SUB)).flatMap(pathsOf).sort()
 }
 
-export function handing(root: string, under: string, rows: readonly Stated[]): undefined {
+export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
   appendEdits(root, handedPageOf(under), rows)
 }
 

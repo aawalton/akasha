@@ -5,7 +5,7 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
-  Stated,
+  FileChange,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -41,7 +41,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     moved,
   })
   if (carried.said.refused !== null) return carried.said
-  const edits: Stated[] = [...carrying.said.edits, ...carried.said.edits]
+  const edits: FileChange[] = [...carrying.said.edits, ...carried.said.edits]
   let seen = carried.world
   for (const path of reading.importers) {
     const held = seen.textOf(path)

@@ -9,7 +9,10 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Stated } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  FileChange,
+} from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   guardedBy,
   NOT_READ,
@@ -42,7 +45,7 @@ function takingAway(root: string, paths: readonly string[]): Answer {
   const text = textIn(root)
   const held = (one: string) =>
     paths.includes(one) ? (text(one) ?? "export const held = 1\n") : text(one)
-  const edits = paths.map((path): Stated => ({ kind: "remove", path }))
+  const edits = paths.map((path): FileChange => ({ kind: "remove", path }))
   return guardedBy(worldAt(root, held), stating(edits), GUARDS)
 }
 

@@ -27,7 +27,7 @@ export type Moving = Reading & {
   readonly pathTo: string
 }
 
-export type Stated = Adding | Replacing | Removing | Moving
+export type FileChange = Adding | Replacing | Removing | Moving
 
 export type Splice = {
   readonly from: number
@@ -44,7 +44,7 @@ export type Bodies = ReadonlyMap<string, string | null>
 export type Replayed = ReadonlyMap<string, Held | null>
 
 export type Answer = {
-  readonly edits: readonly Stated[]
+  readonly edits: readonly FileChange[]
   readonly refused: string | null
 }
 

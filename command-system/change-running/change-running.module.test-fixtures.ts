@@ -2,7 +2,7 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { removePage } from "@akasha/changes/change-agent/remove-page"
 import { pathsOf } from "@akasha/changes/change-answer"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { type Loaded, loadedAt } from "@akasha/changes/change-loading"
 import type { World } from "@akasha/changes/change-shadow"
 import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
@@ -167,15 +167,15 @@ export function pathsIn(root: string): readonly string[] {
 
 export const SUB = "tester-one"
 
-export function handing(root: string, under: string, rows: readonly Stated[]): undefined {
+export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
   keptEdits(root, handedPageOf(under), () => rows)
 }
 
 export const HANDED_AT = "akasha/three/handed.md"
 
-export const HANDED_ONE: Stated = { kind: "add", path: HANDED_AT, content: "handed" }
+export const HANDED_ONE: FileChange = { kind: "add", path: HANDED_AT, content: "handed" }
 
-export const EDIT: Stated = { kind: "add", path: "a/b.ts", content: "held" }
+export const EDIT: FileChange = { kind: "add", path: "a/b.ts", content: "held" }
 
 export const HELD = { edits: [EDIT], refused: null }
 

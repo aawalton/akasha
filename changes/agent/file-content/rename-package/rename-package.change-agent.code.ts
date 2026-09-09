@@ -15,9 +15,9 @@ import {
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { aliasIn, spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
@@ -148,7 +148,7 @@ export function renamePackage(world: World, given: RenamePackageAsked): Said {
   if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
   const reading = importingOf(world.index, reachedIn(given.at, text))
   if ("unread" in reading) return refusing(reading.unread)
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   edits.push(...splicing(given.at, text, restated(given.at, text, was, given.to)))
   for (const path of manifestsOf(world)) {
     if (path === given.at) continue

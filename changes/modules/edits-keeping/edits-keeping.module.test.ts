@@ -5,7 +5,7 @@ import { said as gitIn } from "@akasha/git/git-running"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { pathsOf } from "../change-answer/change-answer.module.code.ts"
-import type { Stated } from "../change-answer/change-answer.module.types.ts"
+import type { FileChange } from "../change-answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsAt,
@@ -27,7 +27,7 @@ const ONE = "akasha/one.module.ts"
 
 const TWO = "akasha/two.module.ts"
 
-function adding(path: string, content: string): Stated {
+function adding(path: string, content: string): FileChange {
   return { kind: "add", path, content }
 }
 

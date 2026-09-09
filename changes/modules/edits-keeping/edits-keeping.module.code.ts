@@ -7,7 +7,12 @@ import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { type BodyOf, gathered, NOT_TEXT } from "../change-answer/change-answer.module.code.ts"
-import type { Answer, Held, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  FileChange,
+  Held,
+  Reading,
+} from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 
@@ -19,7 +24,7 @@ const NO_PAGE = "a path that is no page keeps no edits"
 
 const NO_ROW = "reads as no edit"
 
-export type Kept = { readonly rows: readonly Stated[] } | { readonly why: string }
+export type Kept = { readonly rows: readonly FileChange[] } | { readonly why: string }
 
 function partAt(page: string, part: number): string | null {
   return uncommittedPartAt(page, SLUG, HELD, part)
@@ -43,7 +48,7 @@ function owing(said: Record<string, unknown>): Reading | null {
   }
 }
 
-function stated(said: unknown): Stated | null {
+function stated(said: unknown): FileChange | null {
   if (typeof said !== "object" || said === null) return null
   const one = said as Record<string, unknown>
   const owed = owing(one)
@@ -87,7 +92,7 @@ function bodyAt(root: string, at: string): Held | null {
 }
 
 function rowsIn(text: string): Kept {
-  const said: Stated[] = []
+  const said: FileChange[] = []
   const lines = text.split("\n")
   for (let at = 0; at < lines.length; at += 1) {
     const line = lines[at]
@@ -172,7 +177,7 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
   if (held.length > 0) appended(root, page, held.join(""))
 }
 
-function appending(root: string, page: string, rows: readonly Stated[]): undefined {
+function appending(root: string, page: string, rows: readonly FileChange[]): undefined {
   poured(
     root,
     page,
@@ -208,15 +213,15 @@ export function droppedFirst(root: string, page: string, went: readonly string[]
   })
 }
 
-type Rows = readonly Stated[] | null
+type Rows = readonly FileChange[] | null
 
-function followsOn(had: readonly Stated[], next: readonly Stated[]): boolean {
+function followsOn(had: readonly FileChange[], next: readonly FileChange[]): boolean {
   if (next.length < had.length) return false
   for (let at = 0; at < had.length; at += 1) if (next[at] !== had[at]) return false
   return true
 }
 
-function settled(root: string, page: string, had: readonly Stated[], next: Rows): Kept {
+function settled(root: string, page: string, had: readonly FileChange[], next: Rows): Kept {
   if (next === null || next.length === 0) {
     swept(root, page)
     return { rows: [] }
@@ -230,16 +235,20 @@ function settled(root: string, page: string, had: readonly Stated[], next: Rows)
   return { rows: next }
 }
 
-export function keptEdits(root: string, page: string, act: (had: readonly Stated[]) => Rows): Kept
 export function keptEdits(
   root: string,
   page: string,
-  act: (had: readonly Stated[]) => Promise<Rows>
+  act: (had: readonly FileChange[]) => Rows
+): Kept
+export function keptEdits(
+  root: string,
+  page: string,
+  act: (had: readonly FileChange[]) => Promise<Rows>
 ): Promise<Kept>
 export function keptEdits(
   root: string,
   page: string,
-  act: (had: readonly Stated[]) => Rows | Promise<Rows>
+  act: (had: readonly FileChange[]) => Rows | Promise<Rows>
 ): Kept | Promise<Kept> {
   const at = editsAt(page)
   if (at === null) return { why: NO_PAGE }
@@ -255,7 +264,7 @@ export function keptEdits(
   })
 }
 
-export function appendEdits(root: string, page: string, edits: readonly Stated[]): Kept {
+export function appendEdits(root: string, page: string, edits: readonly FileChange[]): Kept {
   const at = editsAt(page)
   if (at === null) return { why: NO_PAGE }
   if (edits.length === 0) return { rows: [] }
@@ -267,7 +276,7 @@ export function appendEdits(root: string, page: string, edits: readonly Stated[]
   })
 }
 
-export function foldedIn(rows: readonly Stated[]): Answer {
+export function foldedIn(rows: readonly FileChange[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }
 

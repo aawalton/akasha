@@ -11,9 +11,9 @@ import {
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   addedTo,
@@ -172,7 +172,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
     const declaring = (key: string): string | null => naming.known.slugOfKeyIn(naming.value, key)
     put(path, addressedIn(path, body, slugs, one, declaring))
   }
-  const restating: Stated[] = []
+  const restating: FileChange[] = []
   for (const [path, held] of spots) {
     restating.push(...splicedIn(path, texts.get(path) ?? "", held))
   }

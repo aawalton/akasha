@@ -3,7 +3,7 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
-  Stated,
+  FileChange,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -52,7 +52,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const reading = importingOf(world.index, moved)
   if ("unread" in reading) return refusing(reading.unread)
   const carried = Object.fromEntries(moved)
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   let seen = world
   for (const [one, next] of moved) {
     const carrying = await reach(seen, MOVE_FILE, { from: one, to: next })

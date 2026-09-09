@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
@@ -47,11 +47,11 @@ afterAll(() => {
   scratch.sweep()
 })
 
-function replacing(path: string, contentFrom: string, contentTo: string): Stated {
+function replacing(path: string, contentFrom: string, contentTo: string): FileChange {
   return { kind: "replace", path, contentFrom, contentTo }
 }
 
-function removing(path: string): Stated {
+function removing(path: string): FileChange {
   return { kind: "remove", path }
 }
 
@@ -164,7 +164,7 @@ test("a row appended while the apply ran is left where the folded rows go", asyn
   appendEdits(root, PAGE, [row])
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
-  const later: Stated = { kind: "add", path: TWO, content: NOW }
+  const later: FileChange = { kind: "add", path: TWO, content: NOW }
   appendEdits(root, PAGE, [later])
 
   expect(undone(root, PAGE, said.unfold, true)).toBe(null)

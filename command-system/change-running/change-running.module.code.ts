@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { pathsOf, replayed } from "@akasha/changes/change-answer"
-import type { Answer as Said, Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange, Answer as Said } from "@akasha/changes/change-answer/types"
 import { type Loaded, ranBy, runAt } from "@akasha/changes/change-loading"
 import { addedTo, ledgerAt, type World, worldAt } from "@akasha/changes/change-shadow"
 import { bodyIn, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
@@ -81,7 +81,7 @@ export function textIn(root: string): (path: string) => string | null {
   }
 }
 
-export function worldFor(root: string, had: readonly Stated[], before: Said): World {
+export function worldFor(root: string, had: readonly FileChange[], before: Said): World {
   const base = ledgerAt(root, bodyIn(root), runAt, textIn(root))
   return had.length === 0 ? base : addedTo(base, before)
 }
@@ -177,7 +177,7 @@ export function applyIn(given: Arguments): Asked | string {
 export function unwarrantedFor(
   root: string,
   agentId: string | null,
-  rows: readonly Stated[]
+  rows: readonly FileChange[]
 ): readonly string[] {
   const after = replayed({ edits: rows, refused: null }, bodyIn(root))
   if ("refused" in after) return [after.refused]

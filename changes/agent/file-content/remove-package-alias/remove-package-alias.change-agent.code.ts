@@ -10,9 +10,9 @@ import {
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { entriesGoingIn, objectAt } from "../../../modules/json-entries/json-entries.module.code.ts"
@@ -82,7 +82,7 @@ export function removePackageAlias(world: World, given: RemovePackageAliasAsked)
   if (reaching !== null) {
     return refusing(`\`${reaching}\` reaches this package as \`${given.was}\`, ${UNDROPPED}`)
   }
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
     const body = world.textOf(path)
     if (body === null || !body.includes(given.was)) continue

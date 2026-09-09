@@ -9,7 +9,7 @@ import {
   splicedIn,
   splicing,
 } from "./change-answer.module.code.ts"
-import type { Stated } from "./change-answer.module.types.ts"
+import type { FileChange } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
 
@@ -153,7 +153,7 @@ test("an add onto a path holding a body that is not text is refused", () => {
   })
 })
 
-function replaying(edits: readonly Stated[], bodies: Readonly<Record<string, string>>) {
+function replaying(edits: readonly FileChange[], bodies: Readonly<Record<string, string>>) {
   return replayed({ edits, refused: null }, holding(bodies))
 }
 

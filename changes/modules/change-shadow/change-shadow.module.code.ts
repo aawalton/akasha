@@ -31,9 +31,9 @@ import {
 import type {
   Answer,
   Bodies,
+  FileChange,
   Held,
   Replayed,
-  Stated,
 } from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
@@ -190,7 +190,7 @@ export type Kept = {
   readonly root: string
   readonly base: BodyOf
   readonly bodies: Map<string, Held | null>
-  readonly held: Set<Stated>
+  readonly held: Set<FileChange>
   readonly settled: Map<string, Held | null>
   readonly remembered: Remembered
   fresh: Answer
@@ -265,7 +265,7 @@ export function ledgerAt(
     root,
     base: bodyOf,
     bodies: new Map<string, Held | null>(),
-    held: new Set<Stated>(),
+    held: new Set<FileChange>(),
     settled: new Map<string, Held | null>(),
     remembered: remembered(),
     fresh: NOTHING_OVER,

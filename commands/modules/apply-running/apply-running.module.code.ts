@@ -1,5 +1,5 @@
 import { pathsOf } from "@akasha/changes/change-answer"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
@@ -81,7 +81,7 @@ export function folding(root: string, page: string): Folded {
 export function rebasedRows(
   root: string,
   base: string,
-  rows: readonly Stated[]
+  rows: readonly FileChange[]
 ): Rebased | { readonly why: string } {
   const said = foldedIn(rows)
   if (said.refused !== null) return { why: said.refused }

@@ -10,9 +10,9 @@ import {
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { entriesGoingIn, objectAt } from "../../../modules/json-entries/json-entries.module.code.ts"
@@ -143,7 +143,7 @@ function overEdits(
   asked: readonly Pair[],
   was: string,
   to: string
-): readonly Stated[] | string {
+): readonly FileChange[] | string {
   const held = objectIn(overText)
   if (held === null || Array.isArray(held)) {
     return `\`${over}\` reads as no JSON object, ${UNFOLDED}`
@@ -171,8 +171,8 @@ function aliasEdits(
   over: string,
   was: string,
   to: string
-): readonly Stated[] {
-  const found: Stated[] = []
+): readonly FileChange[] {
+  const found: FileChange[] = []
   for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
     if (path === at || path === over) continue
     const body = world.textOf(path)
@@ -185,8 +185,8 @@ function aliasEdits(
   return found
 }
 
-function reachEdits(world: World, was: string, spelled: string): readonly Stated[] {
-  const found: Stated[] = []
+function reachEdits(world: World, was: string, spelled: string): readonly FileChange[] {
+  const found: FileChange[] = []
   for (const path of world.index.everyPath()) {
     if (!typed(path)) continue
     const body = world.textOf(path)
@@ -222,7 +222,7 @@ export function removePackageManifest(world: World, given: RemovePackageManifest
   }
   const first = overEdits(over, overText, ways, asked, was, to)
   if (typeof first === "string") return refusing(first)
-  const edits: Stated[] = [...first, { kind: "remove", path: given.at }]
+  const edits: FileChange[] = [...first, { kind: "remove", path: given.at }]
   edits.push(...aliasEdits(world, given.at, over, was, to))
   edits.push(...reachEdits(world, was, `${to}${PARTED_BY}${under}`))
   return stating(edits)

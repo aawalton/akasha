@@ -20,8 +20,8 @@ import {
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer,
+  FileChange,
   Splice,
-  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { spelledAnew } from "../../../../modules/package-naming/package-naming.module.code.ts"
@@ -250,8 +250,8 @@ function waySplices(way: Way, text: string, was: string, to: string): readonly S
   return found
 }
 
-function wayEdits(world: World, way: Way, was: string, to: string): readonly Stated[] {
-  const edits: Stated[] = []
+function wayEdits(world: World, way: Way, was: string, to: string): readonly FileChange[] {
+  const edits: FileChange[] = []
   const text = world.textOf(way.at)
   if (text !== null) {
     edits.push(...splicedIn(way.at, text, waySplices(way, text, was, to)))

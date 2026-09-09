@@ -17,9 +17,9 @@ import {
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -134,7 +134,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   if (held.size === 0) {
     return refusing(`nothing spells \`${given.of}\`, so there is nothing to respell`)
   }
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   for (const [path, spots] of held) {
     const text = world.textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)

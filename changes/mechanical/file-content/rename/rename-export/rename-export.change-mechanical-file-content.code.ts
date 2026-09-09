@@ -15,9 +15,9 @@ import {
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -51,7 +51,7 @@ export function renameExport(
       return refusing(`\`${path}\` already reaches a \`${to}\``)
     }
   }
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   for (const [path, spots] of held) {
     const text = textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)

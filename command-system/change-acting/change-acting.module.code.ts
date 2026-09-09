@@ -1,5 +1,5 @@
 import { replayed } from "@akasha/changes/change-answer"
-import type { Stated } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { bodyIn, droppedAll, editsIn, keptEdits } from "@akasha/changes/edits-keeping"
 import { handedPageOf, handedUnder } from "@akasha/changes/subagent-handed"
 import { mistaking } from "../asking/asking.module.code.ts"
@@ -33,14 +33,14 @@ const HELD_BACK = "the handed edits are kept as they were, and this agent's own 
 
 const TAKEN = "these edits are this agent's own now, and `akasha change apply` lands them"
 
-export function saidOf(one: Stated): string {
+export function saidOf(one: FileChange): string {
   if (one.kind === "move") return `moves ${one.pathFrom} to ${one.pathTo}`
   if (one.kind === "remove") return `takes ${one.path} away`
   if (one.kind === "add") return `adds ${one.path}`
   return `changes ${one.path}`
 }
 
-function namedIn(one: Stated, at: readonly string[]): boolean {
+function namedIn(one: FileChange, at: readonly string[]): boolean {
   if (one.kind === "move") return at.includes(one.pathTo) || at.includes(one.pathFrom)
   return at.includes(one.path)
 }
@@ -141,7 +141,11 @@ function rootedAt(root: string, said: readonly string[]): readonly string[] | st
   return at
 }
 
-function missedIn(at: readonly string[], went: readonly Stated[], of: Words): readonly string[] {
+function missedIn(
+  at: readonly string[],
+  went: readonly FileChange[],
+  of: Words
+): readonly string[] {
   return at
     .filter((one) => !went.some((edit) => namedIn(edit, [one])))
     .map((one) => `\`${one}\` ${of.missing}`)
@@ -213,8 +217,8 @@ export function listingHanded(root: string, page: string, under: string): Answer
 
 type Held = {
   readonly at: string
-  readonly rows: readonly Stated[]
-  readonly went: readonly Stated[]
+  readonly rows: readonly FileChange[]
+  readonly went: readonly FileChange[]
 }
 
 function handedFor(

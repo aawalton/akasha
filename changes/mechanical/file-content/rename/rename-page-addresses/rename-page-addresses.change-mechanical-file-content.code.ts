@@ -6,9 +6,9 @@ import {
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
+  FileChange,
   Said,
   Splice,
-  Stated,
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
@@ -91,7 +91,7 @@ export function renamePageAddresses(world: World, given: RenamePageAddressesAske
     return refusing(`${held}, so no address was restated`)
   }
   const openings = openingsIn(moved)
-  const edits: Stated[] = []
+  const edits: FileChange[] = []
   for (const path of paths) {
     if (!TYPED.test(path)) continue
     const text = world.textOf(path)
