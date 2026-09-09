@@ -27,7 +27,7 @@ const PART_SLUGS = "part-slugs"
 
 const PROPERTY_SLUG = "property-slug"
 
-const PAGE_PROPERTY_SLUG = "pagePropertySlug"
+const PAGE_PROPERTY = "pageProperty"
 
 const SLUG = "slug"
 
@@ -81,7 +81,7 @@ export async function removePropertyFromPageType(
   const record = await reach(over, REMOVE_RECORD, {
     at: given.at,
     key: PROPERTIES,
-    where: PAGE_PROPERTY_SLUG,
+    where: PAGE_PROPERTY,
     is: given.property,
   })
   if (record.said.refused !== null) return record.said

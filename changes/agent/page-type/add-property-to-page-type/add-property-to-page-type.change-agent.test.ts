@@ -85,7 +85,7 @@ test("the declaration is put in as a record rather than as the text of a record"
   await answering(seen)
   expect(seen[0]?.at).toBe(RECORD)
   expect(seen[0]?.given.record).toBe(
-    `{ pagePropertySlug: "${PROPERTY}", required: false, many: false }`
+    `{ pageProperty: "${PROPERTY}", required: false, many: false }`
   )
 })
 

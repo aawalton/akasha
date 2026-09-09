@@ -91,7 +91,7 @@ test("the declaration taken out is the one naming that property", async () => {
   await answering(seen)
   expect(seen[2]?.at).toBe(RECORD)
   expect(seen[2]?.given.key).toBe("properties")
-  expect(seen[2]?.given.where).toBe("pagePropertySlug")
+  expect(seen[2]?.given.where).toBe("pageProperty")
   expect(seen[2]?.given.is).toBe(PROPERTY)
 })
 

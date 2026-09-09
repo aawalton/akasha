@@ -75,7 +75,7 @@ export function reachedBy(world: World, path: string): string | null {
 
 export function recordFor(given: AddPropertyToPageTypeAsked): string {
   const held = [
-    `pagePropertySlug: ${JSON.stringify(given.property)}`,
+    `pageProperty: ${JSON.stringify(given.property)}`,
     `required: ${given.required}`,
     `many: ${given.many}`,
   ]
