@@ -4,8 +4,10 @@ import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
-import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
+import type {
+  Adding,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   earlyIn,
@@ -99,8 +101,8 @@ function rooted(generator: string | null): string {
   return root
 }
 
-function carrying(body: string): FileEdit {
-  return { path: AT, body: new TextEncoder().encode(body) }
+function carrying(body: string): Adding {
+  return { kind: "add", path: AT, content: body }
 }
 
 function textOf(edits: readonly Replacing[], path: string = AT): string {
@@ -156,7 +158,7 @@ test("a page carrying the value already keeps the one it carries", () => {
 
 test("a path naming no page takes no value", () => {
   const root = rooted("uuid-v7")
-  const said = mintingOnto(root, [{ path: "akasha/one.ts", body: new TextEncoder().encode(BODY) }])
+  const said = mintingOnto(root, [{ kind: "add", path: "akasha/one.ts", content: BODY }])
   expect(said.filled).toEqual([])
 })
 
@@ -171,7 +173,7 @@ test("a page already committed keeps the value it was given", () => {
 
 test("a path taken away takes no value", () => {
   const root = rooted("uuid-v7")
-  const said = mintingOnto(root, [{ path: AT, body: null }])
+  const said = mintingOnto(root, [{ kind: "remove", path: AT }])
   expect(said.filled).toEqual([])
   expect(said.edits).toEqual([])
 })

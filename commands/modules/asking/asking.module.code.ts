@@ -259,7 +259,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   if ("why" in stated) return mistaking([stated.why, NOTHING])
   let minted: Minted
   try {
-    minted = mintingOnto(given.root, asked.changes)
+    minted = mintingOnto(given.root, stated.rows)
   } catch (thrown) {
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }

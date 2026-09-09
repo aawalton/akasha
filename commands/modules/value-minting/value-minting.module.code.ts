@@ -1,4 +1,3 @@
-import { textIn } from "@akasha/code/body-text"
 import { insertedInto } from "@akasha/code/value-inserting"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
@@ -8,10 +7,10 @@ import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import type {
+  Adding,
   FileChange,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const UUID_V7 = "uuid-v7"
@@ -30,8 +29,10 @@ export type Filled = {
   readonly why: string
 }
 
+type Bodied = Adding | Replacing
+
 type Rewritten = {
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly filled: readonly Filled[]
 }
 
@@ -42,26 +43,34 @@ export type Minted = {
 
 const NOTHING_MINTED: Minted = { edits: [], filled: [] }
 
-function rowsFor(was: readonly FileEdit[], now: readonly FileEdit[]): readonly Replacing[] {
-  const before = new Map(was.map((one) => [one.path, one.body]))
-  const rows: Replacing[] = []
-  for (const one of now) {
-    const held = before.get(one.path)
-    if (held === undefined || held === null || one.body === null) continue
-    const from = textIn(held)
-    const to = textIn(one.body)
-    if (from === to) continue
-    rows.push({ kind: "replace", path: one.path, contentFrom: from, contentTo: to })
-  }
-  return rows
+function bodiedIn(one: FileChange): Bodied | null {
+  return one.kind === "add" || one.kind === "replace" ? one : null
 }
 
-function rowsOf(changes: readonly FileEdit[]): readonly FileChange[] {
-  return changes.map((one) =>
-    one.body === null
-      ? { kind: "remove", path: one.path }
-      : { kind: "add", path: one.path, content: new TextDecoder().decode(one.body) }
-  )
+function bodyOf(one: Bodied): string {
+  return one.kind === "add" ? one.content : one.contentTo
+}
+
+function bodiedWith(one: Bodied, body: string): Bodied {
+  return one.kind === "add" ? { ...one, content: body } : { ...one, contentTo: body }
+}
+
+function rowsFor(was: readonly FileChange[], now: readonly FileChange[]): readonly Replacing[] {
+  const before = new Map<string, string>()
+  for (const one of was) {
+    const held = bodiedIn(one)
+    if (held !== null) before.set(held.path, bodyOf(held))
+  }
+  const rows: Replacing[] = []
+  for (const one of now) {
+    const held = bodiedIn(one)
+    if (held === null) continue
+    const from = before.get(held.path)
+    const to = bodyOf(held)
+    if (from === undefined || from === to) continue
+    rows.push({ kind: "replace", path: held.path, contentFrom: from, contentTo: to })
+  }
+  return rows
 }
 
 export function mintedFor(kind: string, slug: string): string {
@@ -81,9 +90,9 @@ export function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
 
 export function earlyIn(
   root: string,
-  changes: readonly FileEdit[]
+  changes: readonly FileChange[]
 ): ReadonlyMap<string, Generated> {
-  const cast = shadowFor(changeOf(root, baseOf(root), rowsOf(changes)))
+  const cast = shadowFor(changeOf(root, baseOf(root), changes))
   if ("refused" in cast) return new Map()
   return earlyOf(cast.shadow)
 }
@@ -115,52 +124,52 @@ export function identifiedOver(text: string): string | null {
   return turned ? said.join("\n") : null
 }
 
-function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Rewritten {
+function entriedOnto(shadow: Shadow, changes: readonly FileChange[]): Rewritten {
   const shapes = shadow.index.entryShapesAt()
   if (shapes.size === 0) return { changes, filled: [] }
   const pageTypes = shadow.index.pageTypesIn()
   const fileProperties = new Set(shadow.index.fileKeysAt().keys())
-  const held: FileEdit[] = []
+  const held: FileChange[] = []
   const filled: Filled[] = []
   for (const one of changes) {
-    const body = one.body
+    const body = bodiedIn(one)
     if (body === null) {
       held.push(one)
       continue
     }
-    const said = heldIn(one.path, pageTypes, fileProperties)
+    const said = heldIn(body.path, pageTypes, fileProperties)
     if (said.kind !== "property" || said.propertySlug === null || !shapes.has(said.propertySlug)) {
       held.push(one)
       continue
     }
-    const next = identifiedOver(new TextDecoder().decode(body))
+    const next = identifiedOver(bodyOf(body))
     if (next === null) {
       held.push(one)
       continue
     }
-    held.push({ ...one, body: new TextEncoder().encode(next) })
-    filled.push({ path: one.path, keys: [ID], why: NEW_ENTRY })
+    held.push(bodiedWith(body, next))
+    filled.push({ path: body.path, keys: [ID], why: NEW_ENTRY })
   }
   return { changes: held, filled }
 }
 
-function couldTurn(change: Change, changes: readonly FileEdit[]): boolean {
+function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
   for (const one of changes) {
-    const body = one.body
+    const body = bodiedIn(one)
     if (body === null) continue
-    const said = partedIn(one.path)
+    const said = partedIn(body.path)
     if (said === null) continue
     if (said.sections.length > 0) {
-      if (identifiedOver(new TextDecoder().decode(body)) !== null) return true
+      if (identifiedOver(bodyOf(body)) !== null) return true
       continue
     }
-    if (said.held === HELD_TS && change.before(one.path) === null) return true
+    if (said.held === HELD_TS && change.before(body.path) === null) return true
   }
   return false
 }
 
-export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
-  const change = changeOf(root, baseOf(root), rowsOf(changes))
+export function mintingOnto(root: string, changes: readonly FileChange[]): Minted {
+  const change = changeOf(root, baseOf(root), changes)
   if (!couldTurn(change, changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING_MINTED
@@ -168,17 +177,15 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
   const early = earlyOf(cast.shadow)
   if (early.size === 0) return { edits: rowsFor(changes, entried.changes), filled: entried.filled }
   const pageTypes = cast.shadow.index.pageTypesIn()
-  const held: FileEdit[] = []
+  const held: FileChange[] = []
   const filled: Filled[] = []
   for (const one of entried.changes) {
-    const body = one.body
-    const leftAlone =
-      body === null || !pageNamed(one.path, pageTypes) || change.before(one.path) !== null
-    if (leftAlone) {
+    const body = bodiedIn(one)
+    if (body === null || !pageNamed(body.path, pageTypes) || change.before(body.path) !== null) {
       held.push(one)
       continue
     }
-    let text = new TextDecoder().decode(body)
+    let text = bodyOf(body)
     const value = loadedFrom(text).value
     if (value === null) {
       held.push(one)
@@ -187,7 +194,7 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
     const keys: string[] = []
     for (const [slug, said] of early) {
       if (value[said.key] !== undefined) continue
-      const next = insertedInto(one.path, text, said.key, mintedFor(said.kind, slug))
+      const next = insertedInto(body.path, text, said.key, mintedFor(said.kind, slug))
       if (next === null) continue
       text = next
       keys.push(said.key)
@@ -196,8 +203,8 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
       held.push(one)
       continue
     }
-    held.push({ ...one, body: new TextEncoder().encode(text) })
-    filled.push({ path: one.path, keys, why: NEW_PAGE })
+    held.push(bodiedWith(body, text))
+    filled.push({ path: body.path, keys, why: NEW_PAGE })
   }
   return { edits: rowsFor(changes, held), filled: [...entried.filled, ...filled] }
 }

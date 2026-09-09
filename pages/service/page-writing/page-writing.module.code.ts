@@ -1,3 +1,4 @@
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import type { Value } from "@akasha/pages/page-value"
@@ -51,8 +52,6 @@ const AUTHORED = /^[^<>]+ <[^<>@\s]+@[^<>\s]+>$/
 const PUT = "change-mechanical-file/add-if-not-present-file"
 
 const TAKE = "change-mechanical-file/remove-file"
-
-const BYTES = new TextEncoder()
 
 type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE }>
 
@@ -128,10 +127,11 @@ function beside(root: string, kept: readonly Kept[]): readonly string[] {
 }
 
 export function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[] {
-  const held = changes.map((one) =>
-    one.at === TAKE
-      ? { path: one.given.at, body: null }
-      : { path: one.given.at, body: BYTES.encode(one.given.body) }
+  const held = changes.map(
+    (one): FileChange =>
+      one.at === TAKE
+        ? { kind: "remove", path: one.given.at }
+        : { kind: "add", path: one.given.at, content: one.given.body }
   )
   const minted = new Map(mintingOnto(root, held).edits.map((one) => [one.path, one.contentTo]))
   return changes.map((one): Edit => {
