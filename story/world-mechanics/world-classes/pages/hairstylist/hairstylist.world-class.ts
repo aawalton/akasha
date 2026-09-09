@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const hairstylist = {
   id: "01a0657e-1370-7ebe-8fc2-87ccc317ed51",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "hairstylist",
   title: "Hairstylist",
   world: "the-wandering-inn",

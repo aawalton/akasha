@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const goblinChieftain = {
   id: "01a0657e-136c-7580-90cf-630687904d94",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "goblin-chieftain",
   title: "Goblin Chieftain",
   world: "the-wandering-inn",
