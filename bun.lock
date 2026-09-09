@@ -311,7 +311,6 @@
         "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
-        "@akasha/personas": "workspace:*",
         "@akasha/persons": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -877,16 +876,6 @@
     },
     "pages/url": {
       "name": "@akasha/pages-url",
-    },
-    "personas": {
-      "name": "@akasha/personas",
-      "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "persons": {
       "name": "@akasha/persons",
@@ -2015,8 +2004,6 @@
     "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/ui-store"],
 
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
-
-    "@akasha/personas": ["@akasha/personas@workspace:personas"],
 
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
 

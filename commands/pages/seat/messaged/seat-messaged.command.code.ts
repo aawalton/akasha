@@ -1,6 +1,12 @@
 import { asking } from "@akasha/pages-service/asking"
-import { keepPointsToday, pointsIn } from "@akasha/personas/persona-points-keeping"
-import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
+import {
+  keepPointsToday,
+  pointsIn,
+} from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
+import {
+  keepLastMessagedAt,
+  personaOr,
+} from "akasha/personas/reading/persona-reading.module.code.ts"
 import {
   raiseMessages,
   sentIn,

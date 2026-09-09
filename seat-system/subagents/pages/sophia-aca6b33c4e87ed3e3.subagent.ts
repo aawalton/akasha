@@ -5,7 +5,7 @@ export const sophiaAca6b33c4e87ed3e3 = {
   pageTypeSlug: "subagent",
   slug: "sophia-aca6b33c4e87ed3e3",
   principalSeatName: "sophia",
-  assignmentSlug: "workspace-package/persona",
+  assignmentSlug: "domain/persona",
   dispatchedAs: "Explore",
   agentId: "01a087b8-6af2-7000-ba28-c17d38bd4394--aca6b33c4e87ed3e3",
 } as const satisfies Subagent

@@ -1,7 +1,10 @@
 import { asking } from "@akasha/pages-service/asking"
-import { pointsTotalKept } from "@akasha/personas/persona-points-keeping"
-import { displayNameOf, personasStanding } from "@akasha/personas/persona-reading"
-import { levelOf } from "@akasha/personas/persona-relationship-level"
+import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
+import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
+import {
+  displayNameOf,
+  personasStanding,
+} from "akasha/personas/reading/persona-reading.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"

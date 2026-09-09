@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const persona = {
   id: "01a0532a-a54c-785e-97fa-4e56cb1bc0d1",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "persona",
   definition: "who answers for a part of Alan's life, and what is kept of her",
-  manifest: "json",
   parts: [
     "domain/persona-points",
     "email-address-property/email-address",
@@ -89,4 +88,4 @@ export const persona = {
     "module/desktop-wallpaper-setting",
     "workstation-service/desktop-wallpaper-setting",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

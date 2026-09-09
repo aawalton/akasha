@@ -31,5 +31,15 @@ export const composeSeatName = {
       invariantKind: "departure",
       statement: "A flex spelled anything but flex- followed by a whole number gives no name.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name that is exactly a person's slug is that person's rather than a spelling of the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name that is no person's slug moves with the attributes that name was composed from.",
+    },
   ],
 } as const satisfies Module

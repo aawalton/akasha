@@ -1,4 +1,3 @@
-import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/personas/persona-targets"
 import {
   recipientResolverConfigBanner,
   resolveRecipientResolverConfig,
@@ -6,6 +5,10 @@ import {
 import { defaultRecipientResolverDeps } from "@akasha/seat-system/recipient-resolver-deps"
 import { assembleRecipientResolverSpecs } from "@akasha/seat-system/recipient-resolver-registry"
 import { runRecipientResolverTick } from "@akasha/seat-system/recipient-resolver-tick"
+import {
+  listPersonaSlugs,
+  listPersonaWakeSources,
+} from "akasha/personas/targets/persona-targets.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,

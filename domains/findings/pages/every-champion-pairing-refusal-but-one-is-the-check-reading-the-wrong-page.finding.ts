@@ -4,7 +4,7 @@ export const everyChampionPairingRefusalButOneIsTheCheckReadingTheWrongPage = {
   id: "01a05ff6-52d5-7b52-be20-ae70bee8f388",
   pageTypeSlug: "finding",
   slug: "every-champion-pairing-refusal-but-one-is-the-check-reading-the-wrong-page",
-  domain: "workspace-package/persona",
+  domain: "domain/persona",
   claim:
     "None of the eleven champion messages in `domain-edges` is the class they were reported as: the `championed-domain-claimed-by-another` arm fired zero times. Four are a bare slug landing on a book chapter or a topic while the domain page does name the persona back. Two name akasha `.ts` pages the check cannot open. One is a single domain under two slugs. Only dalla is real: she names `change`, which names nobody, while `change-harness` and `deploy-system` both name her.",
   evidence:

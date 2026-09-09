@@ -5,7 +5,7 @@ export const sophia = {
   pageTypeSlug: "seat",
   slug: "sophia",
   persona: "sophia",
-  assignmentSlug: "workspace-package/persona",
+  assignmentSlug: "domain/persona",
   role: "persona-craft",
   person: "alan",
   startMode: "interactive",

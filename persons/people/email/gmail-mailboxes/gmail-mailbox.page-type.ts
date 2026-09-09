@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { EmailAddress } from "@akasha/personas/email-address"
+import type { EmailAddress } from "akasha/personas/properties/email-address.email-address-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { ProcessedMessages } from "./properties/processed-messages.page-property-entry.ts"
 
