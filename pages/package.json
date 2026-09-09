@@ -41,7 +41,6 @@
     "./name-place/function-identifier": "./name-places/pages/function-identifier.name-place.ts",
     "./name-place/package-name": "./name-places/pages/package-name.name-place.ts",
     "./name-place/type-identifier": "./name-places/pages/type-identifier.name-place.ts",
-    "./named-file-property": "./named-file-properties/named-file-property.page-type.ts",
     "./number-property": "./number-properties/number-property.page-type.ts",
     "./one-of-property": "./one-of-properties/one-of-property.page-type.ts",
     "./page": "./page.page-type.ts",
