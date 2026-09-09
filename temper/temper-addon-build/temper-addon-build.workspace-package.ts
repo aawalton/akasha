@@ -30,7 +30,7 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon folder carrying no tsconfig is built from settings a build writes.",
+      statement: "An addon folder with no tsconfig is built from settings a build writes.",
     },
     {
       invariantKind: "departure",

@@ -70,7 +70,7 @@ export const temperItemsCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An item is known by the fields its own link carries.",
+      statement: "An item is known by the fields its own link has.",
     },
     {
       invariantKind: "absence",

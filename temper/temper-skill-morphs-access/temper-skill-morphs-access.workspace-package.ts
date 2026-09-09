@@ -20,7 +20,7 @@ export const temperSkillMorphsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying no completion is read as no progress.",
+      statement: "A row with no completion is read as no progress.",
     },
     {
       invariantKind: "departure",

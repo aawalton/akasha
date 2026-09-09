@@ -22,7 +22,7 @@ export const temperErrorsTriage = {
     },
     {
       invariantKind: "departure",
-      statement: "A judgement carries the reason the judgement was reached.",
+      statement: "A judgement has the reason the judgement was reached.",
     },
     {
       invariantKind: "absence",

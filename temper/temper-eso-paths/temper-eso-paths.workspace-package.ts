@@ -4,7 +4,7 @@ export const temperEsoPaths = {
   id: "01a06050-639d-78c1-a9ff-c6579f3deebd",
   pageTypeSlug: "workspace-package",
   slug: "temper-eso-paths",
-  definition: "what a workstation carries of the game and of the game's own sources",
+  definition: "what a workstation has of the game and of the game's own sources",
   manifest: "json",
   partSlugs: [
     "module/eso-paths",

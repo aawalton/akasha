@@ -16,7 +16,7 @@ export const verdict = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A failing judgement carries at least one finding.",
+      statement: "A failing judgement has at least one finding.",
     },
     {
       invariantKind: "departure",

@@ -99,7 +99,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index carries the pages rather than every file git tracks.",
+      statement: "The index has the pages rather than every file git tracks.",
     },
     {
       invariantKind: "gap",

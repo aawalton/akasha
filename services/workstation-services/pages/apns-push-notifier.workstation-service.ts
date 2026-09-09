@@ -34,7 +34,7 @@ export const apnsPushNotifier = {
     },
     {
       invariantKind: "departure",
-      statement: "No push carries an app-icon badge.",
+      statement: "No push has an app-icon badge.",
     },
     {
       invariantKind: "absence",

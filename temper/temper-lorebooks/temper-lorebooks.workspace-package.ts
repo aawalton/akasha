@@ -184,7 +184,7 @@ export const temperLorebooks = {
     },
     {
       invariantKind: "gap",
-      statement: "Akasha names 4328 of the 4773 book titles this table carries.",
+      statement: "Akasha names 4328 of the 4773 book titles this table has.",
     },
   ],
 } as const satisfies WorkspacePackage

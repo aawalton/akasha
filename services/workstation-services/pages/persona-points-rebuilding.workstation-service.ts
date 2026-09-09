@@ -28,7 +28,7 @@ export const personaPointsRebuilding = {
     {
       invariantKind: "departure",
       statement:
-        "Without this run a day turning would leave each persona carrying today's count alone.",
+        "Without this run a day turning would leave each persona with today's count alone.",
     },
   ],
 } as const satisfies WorkstationService

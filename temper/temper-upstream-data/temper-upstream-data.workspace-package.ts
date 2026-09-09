@@ -32,7 +32,7 @@ export const temperUpstreamData = {
     },
     {
       invariantKind: "departure",
-      statement: "A copy is ruled on against the upstream files a live ESO install carries.",
+      statement: "A copy is ruled on against the upstream files a live ESO install has.",
     },
     {
       invariantKind: "departure",

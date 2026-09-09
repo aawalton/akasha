@@ -104,7 +104,7 @@ export const page = {
     },
     {
       invariantKind: "departure",
-      statement: "A page is a file whose name carries a page type.",
+      statement: "A page is a file whose name has a page type.",
     },
   ],
 } as const satisfies WorkspacePackage

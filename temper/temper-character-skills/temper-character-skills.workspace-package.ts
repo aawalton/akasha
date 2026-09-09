@@ -126,7 +126,7 @@ export const temperCharacterSkills = {
     },
     {
       invariantKind: "constraint",
-      statement: "A skill's place in the whole table is the index a build hash carries.",
+      statement: "A skill's place in the whole table is the index a build hash has.",
     },
   ],
 } as const satisfies WorkspacePackage

@@ -53,7 +53,7 @@ export const temperCharactersCaptureAddon = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A place in these tables is the number a saved build hash carries.",
+      statement: "A place in these tables is the number a saved build hash has.",
     },
     {
       invariantKind: "gap",

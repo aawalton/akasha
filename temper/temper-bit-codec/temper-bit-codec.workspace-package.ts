@@ -5,7 +5,7 @@ export const temperBitCodec = {
   pageTypeSlug: "workspace-package",
   slug: "temper-bit-codec",
   definition:
-    "packing a build into as few bits as the game allows, and the characters that carry them",
+    "packing a build into as few bits as the game allows, and the characters that have them",
   manifest: "json",
   partSlugs: [
     "module/bit-writer",
