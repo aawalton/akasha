@@ -10,7 +10,7 @@ export const temperCharactersAddon = {
   addonManifest: "json",
   bundleEntry: "characters-entry",
   bindings: "xml",
-  luaModuleSlugs: ["lua-module/characters-config-global"],
+  luaModules: ["lua-module/characters-config-global"],
   partSlugs: [
     "eso-interface/skill-point-finder-layout",
     "lua-module/characters-config-global",

@@ -5,7 +5,7 @@ import type { AddonManifest } from "./properties/addon-manifest.file-property.ts
 import type { Bindings } from "./properties/bindings.named-file-property.ts"
 import type { BundleEntry } from "./properties/bundle-entry.relation-property.ts"
 import type { EsoInterfaces } from "./properties/eso-interfaces.relation-property.ts"
-import type { LuaModuleSlugs } from "./properties/lua-module-slugs.relation-property.ts"
+import type { LuaModules } from "./properties/lua-modules.relation-property.ts"
 import type { SiblingManifest } from "./properties/sibling-manifest.file-property.ts"
 
 export type EsoAddon = WorkspacePackage & {
@@ -13,7 +13,7 @@ export type EsoAddon = WorkspacePackage & {
   bundleEntry?: BundleEntry
   bindings?: Bindings
   interfaces?: EsoInterfaces
-  luaModuleSlugs?: LuaModuleSlugs
+  luaModules?: LuaModules
   gitIgnore?: AddonGitIgnore
   siblingManifest?: SiblingManifest
 }
@@ -31,7 +31,7 @@ export const esoAddon = {
     "named-file-property/bindings",
     "relation-property/bundle-entry",
     "relation-property/eso-interfaces",
-    "relation-property/lua-module-slugs",
+    "relation-property/lua-modules",
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
@@ -45,7 +45,7 @@ export const esoAddon = {
       maxCount: null,
     },
     {
-      pagePropertySlug: "relation-property/lua-module-slugs",
+      pagePropertySlug: "relation-property/lua-modules",
       required: false,
       many: true,
       maxCount: null,

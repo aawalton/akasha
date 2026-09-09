@@ -10,7 +10,7 @@ export const temperCompanionsAddon = {
   bundleEntry: "companions-entry",
   bindings: "xml",
   gitIgnore: "gitignore",
-  luaModuleSlugs: ["lua-module/companions-config"],
+  luaModules: ["lua-module/companions-config"],
   partSlugs: [
     "module/companion-qol-types",
     "module/companion-qol-casts",
