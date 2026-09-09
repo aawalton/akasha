@@ -168,5 +168,10 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "The pages under a seat are asked of the index rather than listed off a folder.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run of hyphens between the seat's name and the subagent's own id is written as one.",
+    },
   ],
 } as const satisfies Module
