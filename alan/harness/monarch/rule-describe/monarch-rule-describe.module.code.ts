@@ -6,7 +6,6 @@ function quoted(texts: readonly string[]): string {
   return texts.map((text) => `"${text}"`).join(" or ")
 }
 
-/** A clause excluding several values excludes every one of them, so they are joined with "and". */
 function quotedAll(texts: readonly string[]): string {
   return texts.map((text) => `"${text}"`).join(" and ")
 }

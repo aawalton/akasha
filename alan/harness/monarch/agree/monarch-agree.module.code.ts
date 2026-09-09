@@ -1,9 +1,5 @@
 #!/usr/bin/env bun
 
-// The first thing this script did was build a case out of twelve rows and check what `decide`
-// made of it. That part settles the same way every run and reads nothing, so it now stands as
-// the monarch-rules module's own test. What is left here is what only the live history can say:
-// that the two ways of reaching a neighbourhood agree over the rules and rows that actually stand.
 import type { HistoryRow } from "../history/monarch-history.module.code.ts"
 import { readHistory, readNeighbourhood } from "../history/monarch-history.module.code.ts"
 import { loadCategoryRules } from "../rule-documents/monarch-rule-documents.module.code.ts"
@@ -33,7 +29,7 @@ function ids(rows: readonly Subject[]): string {
 
 const failures: string[] = []
 
-function claim(held: boolean, what: string): void {
+function claim(held: boolean, what: string): undefined {
   console.log(`  ${held ? "pass" : "FAIL"}  ${what}`)
   if (!held) failures.push(what)
 }

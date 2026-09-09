@@ -18,7 +18,7 @@ export function dateClausesMatch(clauses: DateClauses, date: string): boolean {
   return clauses.monthIs.includes(month)
 }
 
-export function checkedDateClauses(name: string, clauses: DateClauses): void {
+export function checkedDateClauses(name: string, clauses: DateClauses): undefined {
   const floor = clauses.onOrAfter
   if (floor !== null && !YYYY_MM_DD.test(floor)) {
     throw new Error(`rule "${name}" floors at "${floor}", which is not a YYYY-MM-DD date`)
@@ -73,7 +73,6 @@ const MONTHS = [
   "December",
 ]
 
-/** The calendar number of a month named in a rule's `month` clause, which names it in words. */
 export function monthNumberFrom(name: string, at: string): number {
   const found = MONTHS.findIndex((one) => one.toLowerCase() === name.trim().toLowerCase())
   if (found < 0) throw new Error(`${at}: "${name}" is not a month`)
