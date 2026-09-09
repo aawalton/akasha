@@ -12,6 +12,7 @@ export type RescuedCredential = {
 export const rescuedCredential = {
   id: "01a0637b-78bb-77e3-8457-23dd0863e27e",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "rescued-credential",
   propertySlug: "rescued-credential",
   definition: "the rotated pair kept beside a page where no landing had that pair",

@@ -11,6 +11,7 @@ export type CollectionHeader = {
 export const collectionHeader = {
   id: "01a0683a-620a-7fa0-b6b2-c73fafd745f0",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "collection-header",
   propertySlug: "header",
   definition: "what stands above the pages a page gathers",

@@ -8,6 +8,7 @@ export type ImageMedia = {
 export const imageMedia = {
   id: "01a062b8-8775-7002-af76-179b0e1a6c4c",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "image-media",
   propertySlug: "image",
   definition: "the image a page type's pages are rendered as",

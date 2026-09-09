@@ -12,6 +12,7 @@ export type DetailFrame = {
 export const detailFrame = {
   id: "01a0683a-620a-721f-ac05-27b2bc929afe",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "detail-frame",
   propertySlug: "frame",
   definition: "how the screen around a page's body behaves while the page is read",

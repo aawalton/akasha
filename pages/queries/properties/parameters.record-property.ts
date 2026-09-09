@@ -13,6 +13,7 @@ export type Parameters = List<Parameter>
 export const parameters = {
   id: "01a063ee-2a3b-76da-8c25-5b7c4aa9df28",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "parameters",
   propertySlug: "parameters",
   definition: "the values a query is given, each with the type it takes",

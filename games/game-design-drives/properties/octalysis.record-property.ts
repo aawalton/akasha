@@ -12,6 +12,7 @@ export type Octalysis = {
 export const octalysis = {
   id: "01a06756-f604-7da5-89c2-26d073aeedb1",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "octalysis",
   propertySlug: "octalysis",
   definition: "how Chou's own system names and numbers a drive",

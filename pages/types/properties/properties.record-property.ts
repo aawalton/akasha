@@ -41,6 +41,7 @@ export type Properties = List<Declaration>
 export const properties = {
   id: "01a04df3-6848-7e77-ba2c-9399e3f6a356",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "properties",
   propertySlug: "properties",
   definition: "the properties a page type adds, and the inherited properties it narrows",

@@ -15,6 +15,7 @@ export type ReplacementPatterns = List<ReplacementPattern>
 export const replacementPatterns = {
   id: "01a0822d-c124-76d5-acd8-925e9cdcdb81",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "replacement-patterns",
   propertySlug: "replacement-patterns",
   definition: "each construction a banned term is written in, with the one written in its place",

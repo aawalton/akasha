@@ -14,6 +14,7 @@ export type TurnWorking = {
 export const turnWorking = {
   id: "01a06c75-5eab-7ec2-b8c4-b25cdb0803ce",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "turn-working",
   propertySlug: "turn-working",
   definition: "whether a seat is mid-turn, the byte read to, and the tasks still running",

@@ -8,6 +8,7 @@ export type FrameAutoScroll = {
 export const frameAutoScroll = {
   id: "01a0683a-620a-738e-922d-fa0b734ddda1",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "frame-auto-scroll",
   propertySlug: "auto-scroll",
   definition: "where a page is carried to on its own rather than by the reader's hand",

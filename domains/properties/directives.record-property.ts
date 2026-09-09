@@ -19,6 +19,7 @@ export type Directives = List<Directive>
 export const directives = {
   id: "01a04e1f-cbf6-7150-812b-844b9bf21ed2",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "directives",
   propertySlug: "directives",
   definition: "what a domain tells whoever reads it to do, each with the sort it is",

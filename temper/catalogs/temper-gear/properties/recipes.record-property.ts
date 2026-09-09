@@ -11,6 +11,7 @@ export type Recipes = List<Recipe>
 export const recipes = {
   id: "01a05fd1-d43d-7c95-8ac4-1739e09c409e",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "recipes",
   propertySlug: "reagents",
   definition: "the reagent sets a drink is brewed from, one set to an entry",

@@ -13,6 +13,7 @@ export type PersonaMessages = List<PersonaMessage>
 export const personaMessages = {
   id: "01a082e2-4994-7f71-aa2d-ad0fc9b437f9",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "persona-messages",
   propertySlug: "persona-messages",
   definition: "how many messages each persona was written on a day",

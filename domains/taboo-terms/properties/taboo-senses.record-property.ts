@@ -13,6 +13,7 @@ export type TabooSenses = List<TabooSense>
 export const tabooSenses = {
   id: "01a0592f-d53e-7a82-b68e-38856ee374cf",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "taboo-senses",
   propertySlug: "taboo-senses",
   definition: "the senses a taboo term is never written in, each with what is written instead",

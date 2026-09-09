@@ -13,6 +13,7 @@ export type Invariants = List<Invariant>
 export const invariants = {
   id: "01a04e14-2276-7559-823a-c7ac8abf852e",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "invariants",
   propertySlug: "invariants",
   definition: "what must be true of a page, each with the sort it is",

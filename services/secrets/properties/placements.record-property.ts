@@ -13,6 +13,7 @@ export type Placements = List<Placement>
 export const placements = {
   id: "01a0765c-3223-7d78-a54c-e8653b46a958",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "placements",
   propertySlug: "placements",
   definition: "the resources a secret's value is put into, and the key it sits under in each",

@@ -12,6 +12,7 @@ export type Request = {
 export const request = {
   id: "01a0542c-d18b-71bb-99a6-64c5edfe6321",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "request",
   propertySlug: "request",
   definition: "what has been asked of a seat and not yet carried out",

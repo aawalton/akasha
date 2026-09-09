@@ -15,6 +15,7 @@ export type QuestionLinks = List<QuestionLink>
 export const questionLinks = {
   id: "01a06823-89b2-7009-9d8b-67cd69c12142",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "question-links",
   propertySlug: "links",
   definition: "a way to open what a question is asking about",

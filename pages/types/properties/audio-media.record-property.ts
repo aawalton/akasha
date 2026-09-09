@@ -12,6 +12,7 @@ export type AudioMedia = {
 export const audioMedia = {
   id: "01a062b8-8775-7001-8dc5-cf2cfeb779b3",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "audio-media",
   propertySlug: "audio",
   definition: "the audio a page type's pages are rendered as, and what it is rendered from",

@@ -13,6 +13,7 @@ export type Intents = List<Intent>
 export const intents = {
   id: "01a058a3-b01f-7002-b869-8274ae8203a6",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "intents",
   propertySlug: "intents",
   definition: "what an initiative is to make so",

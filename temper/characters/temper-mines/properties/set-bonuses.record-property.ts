@@ -15,6 +15,7 @@ export type SetBonuses = List<SetBonus>
 export const setBonuses = {
   id: "01a05fcd-f554-73bf-83df-72e8cb8357e3",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "set-bonuses",
   propertySlug: "set-bonuses",
   definition: "what a set gives at each number of pieces worn",

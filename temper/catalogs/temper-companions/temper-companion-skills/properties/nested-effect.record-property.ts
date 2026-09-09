@@ -21,6 +21,7 @@ export type NestedEffect = {
 export const nestedEffect = {
   id: "01a06196-037c-704b-a0d5-349064c3a709",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "nested-effect",
   propertySlug: "effect",
   definition: "the inner effect a delayed or repeating effect carries",

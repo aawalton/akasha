@@ -16,6 +16,7 @@ export type EffectTarget = {
 export const effectTarget = {
   id: "01a06196-0378-75a0-80bb-3aec137ffc83",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "effect-target",
   propertySlug: "target",
   definition: "who an effect lands on and how far it reaches",

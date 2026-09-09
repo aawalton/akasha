@@ -10,6 +10,7 @@ export type ChildCollection = {
 export const childCollection = {
   id: "01a0683a-620a-7821-a81d-95fedabac32d",
   pageTypeSlug: "record-property",
+  type: "record-property",
   slug: "child-collection",
   propertySlug: "child-collection",
   definition: "the pages a page gathers, and the key by which each names the page gathering it",
