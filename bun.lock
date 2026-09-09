@@ -1546,8 +1546,24 @@
         "@akasha/temper-companions-core": "workspace:*",
       },
     },
+    "temper/capture-datamining": {
+      "name": "@akasha/temper-capture-datamining",
+    },
+    "temper/capture-datamining-reader": {
+      "name": "@akasha/temper-capture-datamining-reader",
+      "dependencies": {
+        "@akasha/temper-capture-datamining": "workspace:*",
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "temper/capture-descriptor": {
       "name": "@akasha/temper-capture-descriptor",
+    },
+    "temper/capture-errors": {
+      "name": "@akasha/temper-capture-errors",
     },
     "temper/capture-host": {
       "name": "@akasha/temper-capture-host",
@@ -1562,12 +1578,51 @@
         "@akasha/utils": "workspace:*",
       },
     },
+    "temper/capture-sales": {
+      "name": "@akasha/temper-capture-sales",
+    },
+    "temper/capture-sales-addon": {
+      "name": "@akasha/temper-capture-sales-addon",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-capture-sales": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "temper/capture-writer": {
+      "name": "@akasha/temper-capture-writer",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-capture-descriptor": "workspace:*",
+        "@akasha/temper-capture-perf": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/catalog-host": {
       "name": "@akasha/temper-catalog-host",
       "dependencies": {
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
+      },
+    },
+    "temper/catalog-side-file": {
+      "name": "@akasha/temper-catalog-side-file",
+      "dependencies": {
+        "@akasha/temper-eso-paths": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "temper/characters-equipment-ui": {
+      "name": "@akasha/temper-characters-equipment-ui",
+      "dependencies": {
+        "@akasha/temper-equipment-kinds": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "temper/classes": {
@@ -1577,16 +1632,49 @@
         "@akasha/utils": "workspace:*",
       },
     },
+    "temper/completion-import": {
+      "name": "@akasha/temper-completion-import",
+      "dependencies": {
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-saved-variables": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "temper/explain": {
       "name": "@akasha/temper-explain",
     },
     "temper/hud-window": {
       "name": "@akasha/temper-hud-window",
     },
+    "temper/items-filters-addon": {
+      "name": "@akasha/temper-items-filters-addon",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-hud-window": "workspace:*",
+        "@akasha/temper-items-filters-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+      },
+    },
     "temper/narrow": {
       "name": "@akasha/temper-narrow",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "temper/player-completion-skills-morphs-ui": {
+      "name": "@akasha/temper-player-completion-skills-morphs-ui",
+      "dependencies": {
+        "@akasha/design-patterns": "workspace:*",
+        "@akasha/temper-classes": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-player-completion-ui": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+      "peerDependencies": {
+        "react": "^18 || ^19",
       },
     },
     "temper/player-profile": {
@@ -1599,6 +1687,13 @@
       },
       "peerDependencies": {
         "react": "^18 || ^19",
+      },
+    },
+    "temper/quests-trace": {
+      "name": "@akasha/temper-quests-trace",
+      "dependencies": {
+        "@akasha/temper-saved-variables": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "temper/temper-addon-build": {
@@ -1733,9 +1828,6 @@
         "@akasha/temper-formula-framework": "workspace:*",
       },
     },
-    "temper/temper-capture-datamining": {
-      "name": "@akasha/temper-capture-datamining",
-    },
     "temper/temper-capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
@@ -1745,43 +1837,8 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
-    "temper/temper-capture-datamining-reader": {
-      "name": "@akasha/temper-capture-datamining-reader",
-      "dependencies": {
-        "@akasha/temper-capture-datamining": "workspace:*",
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-capture-errors": {
-      "name": "@akasha/temper-capture-errors",
-    },
-    "temper/temper-capture-sales": {
-      "name": "@akasha/temper-capture-sales",
-    },
-    "temper/temper-capture-sales-addon": {
-      "name": "@akasha/temper-capture-sales-addon",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-capture-sales": "workspace:*",
-        "@akasha/temper-capture-writer": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
     "temper/temper-capture-shapes": {
       "name": "@akasha/temper-capture-shapes",
-    },
-    "temper/temper-capture-writer": {
-      "name": "@akasha/temper-capture-writer",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-capture-descriptor": "workspace:*",
-        "@akasha/temper-capture-perf": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/temper-catalog-addon": {
       "name": "@akasha/temper-catalog-addon",
@@ -1794,14 +1851,6 @@
     },
     "temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
-    },
-    "temper/temper-catalog-side-file": {
-      "name": "@akasha/temper-catalog-side-file",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "temper/temper-champion-points": {
       "name": "@akasha/temper-champion-points",
@@ -1898,15 +1947,6 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-characters-equipment-ui": {
-      "name": "@akasha/temper-characters-equipment-ui",
-      "dependencies": {
-        "@akasha/temper-equipment-kinds": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
       },
     },
     "temper/temper-characters-skills-morphs-addon": {
@@ -2055,15 +2095,6 @@
       "dependencies": {
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-completion-import": {
-      "name": "@akasha/temper-completion-import",
-      "dependencies": {
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2258,15 +2289,6 @@
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-items-filters-addon": {
-      "name": "@akasha/temper-items-filters-addon",
-      "dependencies": {
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-hud-window": "workspace:*",
-        "@akasha/temper-items-filters-core": "workspace:*",
-        "@akasha/temper-items-rules-eval": "workspace:*",
       },
     },
     "temper/temper-items-filters-core": {
@@ -2490,21 +2512,6 @@
         "fast-check": "^4.5.3",
       },
     },
-    "temper/temper-player-completion-skills-morphs-ui": {
-      "name": "@akasha/temper-player-completion-skills-morphs-ui",
-      "dependencies": {
-        "@akasha/design-patterns": "workspace:*",
-        "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
-        "@akasha/temper-player-completion-ui": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "temper/temper-player-completion-state": {
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
@@ -2598,13 +2605,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-quests-trace": {
-      "name": "@akasha/temper-quests-trace",
-      "dependencies": {
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "temper/temper-races": {
@@ -3169,27 +3169,27 @@
 
     "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/temper-build-support"],
 
-    "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/temper-capture-datamining"],
+    "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/capture-datamining"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/temper-capture-datamining-addon"],
 
-    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:temper/temper-capture-datamining-reader"],
+    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:temper/capture-datamining-reader"],
 
     "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:temper/capture-descriptor"],
 
-    "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:temper/temper-capture-errors"],
+    "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:temper/capture-errors"],
 
     "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:temper/capture-host"],
 
     "@akasha/temper-capture-perf": ["@akasha/temper-capture-perf@workspace:temper/capture-perf"],
 
-    "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:temper/temper-capture-sales"],
+    "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:temper/capture-sales"],
 
-    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/temper-capture-sales-addon"],
+    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
 
     "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:temper/temper-capture-shapes"],
 
-    "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:temper/temper-capture-writer"],
+    "@akasha/temper-capture-writer": ["@akasha/temper-capture-writer@workspace:temper/capture-writer"],
 
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/temper-catalog-addon"],
 
@@ -3197,7 +3197,7 @@
 
     "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:temper/catalog-host"],
 
-    "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:temper/temper-catalog-side-file"],
+    "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:temper/catalog-side-file"],
 
     "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:temper/temper-champion-points"],
 
@@ -3215,7 +3215,7 @@
 
     "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:temper/temper-characters-equipment"],
 
-    "@akasha/temper-characters-equipment-ui": ["@akasha/temper-characters-equipment-ui@workspace:temper/temper-characters-equipment-ui"],
+    "@akasha/temper-characters-equipment-ui": ["@akasha/temper-characters-equipment-ui@workspace:temper/characters-equipment-ui"],
 
     "@akasha/temper-characters-skills-morphs-addon": ["@akasha/temper-characters-skills-morphs-addon@workspace:temper/temper-characters-skills-morphs-addon"],
 
@@ -3241,7 +3241,7 @@
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/temper-completion"],
 
-    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/temper-completion-import"],
+    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/completion-import"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
 
@@ -3291,7 +3291,7 @@
 
     "@akasha/temper-items-core": ["@akasha/temper-items-core@workspace:temper/temper-items-core"],
 
-    "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:temper/temper-items-filters-addon"],
+    "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:temper/items-filters-addon"],
 
     "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:temper/temper-items-filters-core"],
 
@@ -3375,7 +3375,7 @@
 
     "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:temper/temper-player-completion"],
 
-    "@akasha/temper-player-completion-skills-morphs-ui": ["@akasha/temper-player-completion-skills-morphs-ui@workspace:temper/temper-player-completion-skills-morphs-ui"],
+    "@akasha/temper-player-completion-skills-morphs-ui": ["@akasha/temper-player-completion-skills-morphs-ui@workspace:temper/player-completion-skills-morphs-ui"],
 
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/temper-player-completion-state"],
 
@@ -3389,7 +3389,7 @@
 
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/temper-quests-addon"],
 
-    "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:temper/temper-quests-trace"],
+    "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:temper/quests-trace"],
 
     "@akasha/temper-races": ["@akasha/temper-races@workspace:temper/temper-races"],
 
