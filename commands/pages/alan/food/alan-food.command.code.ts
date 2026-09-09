@@ -2,6 +2,7 @@ import { readFile } from "node:fs/promises"
 import { pad2 } from "@akasha/day/day-string"
 import { getMountainMorningDayStr } from "@akasha/day/mountain-day"
 import { readMountainWallTime } from "@akasha/day/mountain-wall"
+import { STEM_CEILING } from "@akasha/named-for/page-stem"
 import { imageObjectKey } from "@akasha/object-store/object-store-key"
 import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
@@ -50,7 +51,7 @@ const NUTRITION_STEP = "nutritionPoints"
 
 const NOTHING_MISSED = "none"
 
-const STEM_CEILING = 100
+const STEM_HOLDS = STEM_CEILING - SLUG_OPENING.length
 
 const NOON = 12
 
@@ -199,13 +200,17 @@ export function happenedAtFrom(
   return { at: reading.at }
 }
 
+export function shortenedTo(whole: string, ceiling: number): string {
+  return whole.length <= ceiling ? whole : whole.slice(0, ceiling).replace(/-+$/, "")
+}
+
 export function stemFor(dayStr: string, title: string): string {
   const slug = title
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
   const whole = slug === "" ? dayStr : `${dayStr}-${slug}`
-  return whole.length <= STEM_CEILING ? whole : whole.slice(0, STEM_CEILING).replace(/-+$/, "")
+  return shortenedTo(whole, STEM_HOLDS)
 }
 
 export function stemOfSlug(slug: string): string {
@@ -221,7 +226,9 @@ export function freeStemIn(stem: string, slugs: readonly string[]): string {
   for (const slug of slugs) {
     if (slug === stem || slug.startsWith(`${stem}-`)) taken += 1
   }
-  return taken === 0 ? stem : `${stem}-${taken + 1}`
+  if (taken === 0) return stem
+  const numbered = `-${taken + 1}`
+  return `${shortenedTo(stem, STEM_HOLDS - numbered.length)}${numbered}`
 }
 
 export type Stems = { readonly stems: readonly string[] } | { readonly refused: string }

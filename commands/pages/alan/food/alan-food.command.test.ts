@@ -136,3 +136,15 @@ test("a stem already taken on the day is numbered past what is there", () => {
   )
   expect(freeStemIn("2026-06-26-kale", ["2026-06-26-chard"])).toBe("2026-06-26-kale")
 })
+
+test("the whole slug fits a page's slug, not just the stem inside it", () => {
+  const stem = stemFor("2026-06-26", "x".repeat(200))
+  expect(slugOfStem(stem).length).toBeLessThanOrEqual(100)
+})
+
+test("a numbered entry on a long name still fits a page's slug", () => {
+  const stem = stemFor("2026-06-26", "x".repeat(200))
+  const numbered = freeStemIn(stem, [stem, `${stem}-2`])
+  expect(numbered).not.toBe(stem)
+  expect(slugOfStem(numbered).length).toBeLessThanOrEqual(100)
+})

@@ -73,6 +73,16 @@ export const alanFood = {
       statement: "An entry is numbered where that name is taken on that day.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "The hundred characters a page's slug holds bound the whole slug rather than the stem inside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page type opening the slug and the number ending it are both counted against that length.",
+    },
+    {
       invariantKind: "departure",
       statement: "Whether an object store is there is settled before anything is written.",
     },
