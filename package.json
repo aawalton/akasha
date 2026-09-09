@@ -9,6 +9,7 @@
     "./*": "./*"
   },
   "dependencies": {
+    "akasha": "link:.",
     "@akasha/changes": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-url": "workspace:*",
