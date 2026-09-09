@@ -20,7 +20,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import { NavCommands } from "./archive-of-worlds-nav-commands/archive-of-worlds-nav-commands.module.code.tsx"
-import "./archive-of-worlds-web-look/archive-of-worlds-web-look.stylesheet.styles.css"
+import "./look/archive-of-worlds-web-look.stylesheet.styles.css"
 
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",
