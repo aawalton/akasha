@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0109Chapter585TheDeathBallBegins = {
   id: "01a06730-4df5-79b0-8c4e-cf13cf4e6afc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0109-chapter-585-the-death-ball-begins",
   title: "Chapter 585: The Death Ball Begins",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0114Chapter644TheFinalStrike = {
   id: "01a07252-32ef-71f8-98c5-e557ad44a5a8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0114-chapter-644-the-final-strike",
   story: "story-read/rise-of-the-living-forge",
   position: 114,

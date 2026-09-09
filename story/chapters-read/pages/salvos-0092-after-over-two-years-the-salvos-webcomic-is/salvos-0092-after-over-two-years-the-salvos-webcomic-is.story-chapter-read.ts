@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   id: "01a06730-4de7-77ea-8ad4-f287168bf326",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0092-after-over-two-years-the-salvos-webcomic-is",
   title: "AFTER OVER TWO YEARS, THE SALVOS WEBCOMIC IS FINALLY OUT!",
   story: "story-read/salvos",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0027Chapter459PrecautionaryMeasures = {
   id: "01a06730-4e09-77a2-89d9-98503567dce0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0027-chapter-459-precautionary-measures",
   title: "Chapter 459: Precautionary Measures",
   story: "story-read/rise-of-the-living-forge",

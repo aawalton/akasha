@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0063Chapter540CultistsOfTheEye = {
   id: "01a06730-4de2-7357-b00f-bcdb4bacb317",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0063-chapter-540-cultists-of-the-eye",
   title: "Chapter 540: Cultists of the Eye",
   story: "story-read/reborn-as-a-demonic-tree",

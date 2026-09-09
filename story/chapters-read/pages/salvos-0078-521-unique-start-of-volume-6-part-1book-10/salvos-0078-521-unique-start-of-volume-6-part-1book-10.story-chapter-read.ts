@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0078521UniqueStartOfVolume6Part1book10 = {
   id: "01a06730-4de6-7f44-a486-1d2ba4d428b5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0078-521-unique-start-of-volume-6-part-1book-10",
   title: "521. Unique (Start of Volume 6 Part 1/Book 10)",
   story: "story-read/salvos",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0018Chapter17NumbersGoUp = {
   id: "01a0672f-8c2f-71fa-8ec5-239a8031a977",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0018-chapter-17-numbers-go-up",
   title: "Chapter 17 – Numbers Go Up",
   story: "rock-falls-everyone-dies",

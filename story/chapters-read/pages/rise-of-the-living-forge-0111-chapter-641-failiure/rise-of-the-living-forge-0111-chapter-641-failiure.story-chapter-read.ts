@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0111Chapter641Failiure = {
   id: "01a06730-4e10-71a1-a14d-986c46bc5abd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0111-chapter-641-failiure",
   title: "Chapter 641: Failiure",
   story: "story-read/rise-of-the-living-forge",

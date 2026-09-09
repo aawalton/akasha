@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   id: "01a0672f-8c2d-7286-af50-8c76af81262c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0006-chapter-6-one-stone-breaks-bone",
   title: "Chapter 6 – One Stone Breaks Bone",
   story: "rock-falls-everyone-dies",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0034Chapter512CelestialWarStartOfBook9 = {
   id: "01a06730-4dd3-7197-ae63-e61e4e77b38d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0034-chapter-512-celestial-war-start-of-book-9",
   title: "Chapter 512: Celestial War (Start of Book 9)",
   story: "story-read/reborn-as-a-demonic-tree",

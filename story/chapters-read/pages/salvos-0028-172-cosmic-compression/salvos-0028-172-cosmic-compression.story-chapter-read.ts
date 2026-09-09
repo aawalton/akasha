@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0028172CosmicCompression = {
   id: "01a06730-4dd9-70b6-859a-fa819b7c5955",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0028-172-cosmic-compression",
   title: "172. Cosmic Compression",
   story: "story-read/salvos",

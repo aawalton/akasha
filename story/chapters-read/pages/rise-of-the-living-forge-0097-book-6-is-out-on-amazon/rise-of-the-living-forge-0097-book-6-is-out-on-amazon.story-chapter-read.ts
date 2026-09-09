@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0097Book6IsOutOnAmazon = {
   id: "01a06730-4e0e-7224-aaf4-5e5fd1cca79d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0097-book-6-is-out-on-amazon",
   title: "Book 6 is out on amazon!",
   story: "story-read/rise-of-the-living-forge",

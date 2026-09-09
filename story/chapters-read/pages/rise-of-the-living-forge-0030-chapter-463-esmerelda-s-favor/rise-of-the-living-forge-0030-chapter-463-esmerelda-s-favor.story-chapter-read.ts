@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0030Chapter463EsmereldaSFavor = {
   id: "01a06730-4e09-7c8c-9cd6-05f1c615445a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0030-chapter-463-esmerelda-s-favor",
   title: "Chapter 463: Esmerelda's Favor",
   story: "story-read/rise-of-the-living-forge",

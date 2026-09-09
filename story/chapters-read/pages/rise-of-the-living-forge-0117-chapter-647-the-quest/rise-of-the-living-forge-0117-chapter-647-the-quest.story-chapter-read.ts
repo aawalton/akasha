@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0117Chapter647TheQuest = {
   id: "01a086e8-d720-704e-ab7d-69fb8e8fe641",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0117-chapter-647-the-quest",
   position: 117,
   publishedAt: "2026-09-09",

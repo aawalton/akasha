@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0073517DisillusionPartOne = {
   id: "01a06730-4de3-792d-9ea9-02dffba114b3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0073-517-disillusion-part-one",
   title: "517. Disillusion Part One",
   story: "story-read/salvos",

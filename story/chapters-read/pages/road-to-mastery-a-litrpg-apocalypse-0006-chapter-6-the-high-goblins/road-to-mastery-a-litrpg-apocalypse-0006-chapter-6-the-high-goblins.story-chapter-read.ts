@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   id: "01a0672f-8c2c-73e5-aff6-ca7fda88df96",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0006-chapter-6-the-high-goblins",
   title: "Chapter 6: The High Goblins",
   story: "road-to-mastery-a-litrpg-apocalypse",

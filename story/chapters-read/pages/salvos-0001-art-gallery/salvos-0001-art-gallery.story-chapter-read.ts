@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0001ArtGallery = {
   id: "01a06730-4dcf-710c-b150-dc8553bb22a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0001-art-gallery",
   title: "Art Gallery",
   story: "story-read/salvos",

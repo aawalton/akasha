@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0054NewFicAnnouncementTheraNotAChapter = {
   id: "01a06730-4ddd-7a02-a574-e41ec029e742",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0054-new-fic-announcement-thera-not-a-chapter",
   title: "New Fic Announcement: Thera (Not a chapter)",
   story: "story-read/salvos",

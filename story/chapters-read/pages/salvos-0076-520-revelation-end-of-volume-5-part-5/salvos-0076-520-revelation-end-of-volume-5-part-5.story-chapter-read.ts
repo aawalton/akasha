@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0076520RevelationEndOfVolume5Part5 = {
   id: "01a06730-4de5-7a2e-a952-5b025529beb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0076-520-revelation-end-of-volume-5-part-5",
   title: "520. Revelation (End of Volume 5 Part 5)",
   story: "story-read/salvos",

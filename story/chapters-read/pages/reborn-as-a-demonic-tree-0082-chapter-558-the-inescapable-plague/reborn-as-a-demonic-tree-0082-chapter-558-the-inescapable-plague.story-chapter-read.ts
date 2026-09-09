@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0082Chapter558TheInescapablePlague = {
   id: "01a06730-4dea-7a57-9c8a-4fd51a610553",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0082-chapter-558-the-inescapable-plague",
   title: "Chapter 558: The Inescapable Plague",
   story: "story-read/reborn-as-a-demonic-tree",

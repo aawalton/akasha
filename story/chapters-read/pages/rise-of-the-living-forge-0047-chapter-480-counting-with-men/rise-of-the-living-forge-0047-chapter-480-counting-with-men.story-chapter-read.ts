@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0047Chapter480CountingWithMen = {
   id: "01a06730-4e0b-72a4-8dd9-6b5662338894",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0047-chapter-480-counting-with-men",
   title: "Chapter 480: Counting with Men",
   story: "story-read/rise-of-the-living-forge",

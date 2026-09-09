@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   id: "01a0672f-8c2d-7611-8fbd-815fcf9fcd48",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0012-chapter-11-avalanche",
   title: "Chapter 11 – [Avalanche]",
   story: "rock-falls-everyone-dies",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0002Chapter2Exceptions = {
   id: "01a06730-4e07-7588-914b-f5c77a7b128c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0002-chapter-2-exceptions",
   title: "Chapter 2: Exceptions",
   story: "story-read/rise-of-the-living-forge",

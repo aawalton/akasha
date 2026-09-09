@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0029Chapter460ACallEndOfBook7 = {
   id: "01a06730-4dd0-7393-a82b-f499a8f5a271",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0029-chapter-460-a-call-end-of-book-7",
   title: "Chapter 460: A Call (End of Book 7)",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0098Chapter532CouncilContemplations = {
   id: "01a06730-4e0e-73ea-9ed7-b84c28140172",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0098-chapter-532-council-contemplations",
   title: "Chapter 532: Council Contemplations",
   story: "story-read/rise-of-the-living-forge",

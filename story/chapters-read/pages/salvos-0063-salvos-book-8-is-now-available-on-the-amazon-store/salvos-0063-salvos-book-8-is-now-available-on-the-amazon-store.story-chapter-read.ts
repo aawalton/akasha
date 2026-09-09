@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0063SalvosBook8IsNowAvailableOnTheAmazonStore = {
   id: "01a06730-4de0-78eb-846d-f696e25718a3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0063-salvos-book-8-is-now-available-on-the-amazon-store",
   title: "Salvos Book 8 is now available on the Amazon store! Give it a rating!",
   story: "story-read/salvos",

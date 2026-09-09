@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0181Chapter613TrulyCareless = {
   id: "01a06730-4e12-74de-94d4-3ed6acb3a4e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0181-chapter-613-truly-careless",
   title: "Chapter 613: Truly Careless",
   story: "story-read/rise-of-the-living-forge",

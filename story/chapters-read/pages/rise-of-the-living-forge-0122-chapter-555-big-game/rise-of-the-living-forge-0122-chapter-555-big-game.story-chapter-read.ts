@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0122Chapter555BigGame = {
   id: "01a06730-4e10-719d-bf77-17e0e983a051",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0122-chapter-555-big-game",
   title: "Chapter 555: Big Game",
   story: "story-read/rise-of-the-living-forge",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0090TwoDaysLeft = {
   id: "01a06730-4de7-7d70-833b-1128f7871e6f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0090-two-days-left",
   title: "TWO DAYS LEFT",
   story: "story-read/salvos",

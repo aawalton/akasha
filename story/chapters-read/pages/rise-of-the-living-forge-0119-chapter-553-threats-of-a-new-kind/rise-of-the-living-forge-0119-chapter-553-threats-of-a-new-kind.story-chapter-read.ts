@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0119Chapter553ThreatsOfANewKind = {
   id: "01a06730-4e10-7fe5-b382-df9d25b6d8c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0119-chapter-553-threats-of-a-new-kind",
   title: "Chapter 553: Threats of a new kind",
   story: "story-read/rise-of-the-living-forge",

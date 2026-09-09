@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression001919Blackmail = {
   id: "01a06730-4e08-7a96-be2a-14b2bda48034",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0019-19-blackmail",
   title: "19 - Blackmail",
   story: "rise-of-the-dragon-queen-evolutionprogression",

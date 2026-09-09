@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0049347EdithesElation = {
   id: "01a06730-4ddd-7440-a992-05761c5b7b04",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0049-347-edithes-elation",
   title: "347. Edithe's Elation",
   story: "story-read/salvos",

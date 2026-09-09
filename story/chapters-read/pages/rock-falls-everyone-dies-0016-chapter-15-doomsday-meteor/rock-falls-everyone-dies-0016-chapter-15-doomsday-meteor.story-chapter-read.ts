@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   id: "01a0672f-8c2d-7064-b58f-1a14319f1003",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0016-chapter-15-doomsday-meteor",
   title: "Chapter 15 – [Doomsday Meteor]",
   story: "rock-falls-everyone-dies",

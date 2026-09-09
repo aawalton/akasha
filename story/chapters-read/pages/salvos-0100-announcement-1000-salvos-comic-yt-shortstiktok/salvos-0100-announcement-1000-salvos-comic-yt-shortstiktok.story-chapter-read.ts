@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0100Announcement1000SalvosComicYtShortstiktok = {
   id: "01a06730-4de7-7d3e-9ab1-ca0b3a428ee9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0100-announcement-1000-salvos-comic-yt-shortstiktok",
   title: "Announcement: $1000 Salvos Comic YT Shorts/TikTok Edit Contest + Announcement",
   story: "story-read/salvos",

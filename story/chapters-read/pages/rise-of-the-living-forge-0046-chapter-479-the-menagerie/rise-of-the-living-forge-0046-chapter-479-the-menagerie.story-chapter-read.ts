@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0046Chapter479TheMenagerie = {
   id: "01a06730-4e0b-75b1-8771-4d2063e39377",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0046-chapter-479-the-menagerie",
   title: "Chapter 479: The Menagerie",
   story: "story-read/rise-of-the-living-forge",

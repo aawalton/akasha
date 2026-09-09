@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const roadToMasteryALitrpgApocalypse0003Chapter3HelloWorld = {
   id: "01a0672f-8c2c-73ff-b43b-e78bd8281254",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0003-chapter-3-hello-world",
   title: "Chapter 3: Hello World",
   story: "road-to-mastery-a-litrpg-apocalypse",

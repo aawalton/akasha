@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0034Chapter467SkillGap = {
   id: "01a06730-4e0a-7fb7-b2e8-7b19dd488e0d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0034-chapter-467-skill-gap",
   title: "Chapter 467: Skill gap",
   story: "story-read/rise-of-the-living-forge",

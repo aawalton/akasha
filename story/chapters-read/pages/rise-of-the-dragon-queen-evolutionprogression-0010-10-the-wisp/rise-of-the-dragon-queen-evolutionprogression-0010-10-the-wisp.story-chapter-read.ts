@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression001010TheWisp = {
   id: "01a06730-4e06-73cf-beb8-e912e7106780",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0010-10-the-wisp",
   title: "10 - The Wisp",
   story: "rise-of-the-dragon-queen-evolutionprogression",

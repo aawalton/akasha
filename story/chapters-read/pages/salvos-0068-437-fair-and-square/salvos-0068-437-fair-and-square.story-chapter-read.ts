@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0068437FairAndSquare = {
   id: "01a06730-4de1-7d2b-9329-e078defed64e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0068-437-fair-and-square",
   title: "437. Fair and Square",
   story: "story-read/salvos",

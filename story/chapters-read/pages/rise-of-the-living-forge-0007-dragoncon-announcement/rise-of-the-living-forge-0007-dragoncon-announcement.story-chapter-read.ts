@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0007DragonconAnnouncement = {
   id: "01a06730-4e07-7b20-a096-05736c538270",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0007-dragoncon-announcement",
   title: "Dragoncon Announcement!",
   story: "story-read/rise-of-the-living-forge",

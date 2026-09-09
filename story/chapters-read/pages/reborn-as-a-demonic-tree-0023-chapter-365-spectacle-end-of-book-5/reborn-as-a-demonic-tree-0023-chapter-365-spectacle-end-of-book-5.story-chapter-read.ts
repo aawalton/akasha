@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0023Chapter365SpectacleEndOfBook5 = {
   id: "01a06730-4dca-7105-b3e1-594bef2f1db1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0023-chapter-365-spectacle-end-of-book-5",
   title: "Chapter 365: Spectacle (End of Book 5)",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0030200SpecialSideCharacterPopularityPoll = {
   id: "01a06730-4dd9-70f4-9c0d-a82acb77a9de",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0030-200-special-side-character-popularity-poll",
   title: "200 Special: Side Character Popularity Poll!",
   story: "story-read/salvos",

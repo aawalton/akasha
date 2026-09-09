@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0050Chapter483TheLineButNotThatOneAndGeneralNote = {
   id: "01a06730-4e0b-718f-8d8a-f63268839b39",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0050-chapter-483-the-line-but-not-that-one-and-general-note",
   title: "Chapter 483: The Line (but not that one) & GENERAL NOTE",
   story: "story-read/rise-of-the-living-forge",

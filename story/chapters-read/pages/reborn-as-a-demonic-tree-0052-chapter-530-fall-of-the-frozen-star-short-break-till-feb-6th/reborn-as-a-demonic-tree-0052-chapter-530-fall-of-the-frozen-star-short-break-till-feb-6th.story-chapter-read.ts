@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0052Chapter530FallOfTheFrozenStarShortBreakTillFeb6th = {
   id: "01a06730-4dde-7c74-a98b-b9f3883a385f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0052-chapter-530-fall-of-the-frozen-star-short-break-till-feb-6th",
   title: "Chapter 530: Fall of the Frozen Star + short break till Feb 6th",
   story: "story-read/reborn-as-a-demonic-tree",

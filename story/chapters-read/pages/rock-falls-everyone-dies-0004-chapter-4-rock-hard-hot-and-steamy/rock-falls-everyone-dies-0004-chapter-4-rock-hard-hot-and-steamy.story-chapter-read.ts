@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   id: "01a0672f-8c2d-710a-9e31-7b00e172f6e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0004-chapter-4-rock-hard-hot-and-steamy",
   title: "Chapter 4 – Rock Hard; Hot and Steamy",
   story: "rock-falls-everyone-dies",

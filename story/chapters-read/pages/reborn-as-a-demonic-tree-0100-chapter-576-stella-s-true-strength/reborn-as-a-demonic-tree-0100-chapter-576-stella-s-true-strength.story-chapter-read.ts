@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0100Chapter576StellaSTrueStrength = {
   id: "01a06730-4df0-74d7-904e-635f901802e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0100-chapter-576-stella-s-true-strength",
   title: "Chapter 576: Stella's True Strength",
   story: "story-read/reborn-as-a-demonic-tree",

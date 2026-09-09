@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0012101ConsequencesStartOfVolume3 = {
   id: "01a06730-4dd5-7527-af5c-2381f17481c4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0012-101-consequences-start-of-volume-3",
   title: "101. Consequences (Start of Volume 3)",
   story: "story-read/salvos",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0091Chapter567DimensionalPainter = {
   id: "01a06730-4ded-7a1e-a286-c6266f5a7adc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0091-chapter-567-dimensional-painter",
   title: "Chapter 567: Dimensional Painter",
   story: "story-read/reborn-as-a-demonic-tree",

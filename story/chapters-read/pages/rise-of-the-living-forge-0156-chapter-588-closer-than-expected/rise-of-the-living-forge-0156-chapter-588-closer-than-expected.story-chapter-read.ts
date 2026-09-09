@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0156Chapter588CloserThanExpected = {
   id: "01a06730-4e11-7a2b-9912-a73ef34a508d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0156-chapter-588-closer-than-expected",
   title: "Chapter 588: Closer than expected",
   story: "story-read/rise-of-the-living-forge",

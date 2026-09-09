@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0084Chapter560TravelTheStarsEndOfBook9 = {
   id: "01a06730-4deb-75a7-8bed-f92b9bbc9334",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0084-chapter-560-travel-the-stars-end-of-book-9",
   title: "Chapter 560: Travel the Stars (End of Book 9)",
   story: "story-read/reborn-as-a-demonic-tree",

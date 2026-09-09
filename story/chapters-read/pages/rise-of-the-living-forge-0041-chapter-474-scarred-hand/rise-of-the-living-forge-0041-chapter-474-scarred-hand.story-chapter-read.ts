@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   id: "01a06730-4e0b-7d4a-bd7b-d5a6d6a32f84",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0041-chapter-474-scarred-hand",
   title: "Chapter 474: Scarred Hand",
   story: "story-read/rise-of-the-living-forge",

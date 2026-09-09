@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression00033WrathOfTheRavenous = {
   id: "01a06730-4e05-7760-bde4-152b6f0dd3e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0003-3-wrath-of-the-ravenous",
   title: "3 - Wrath Of The Ravenous",
   story: "rise-of-the-dragon-queen-evolutionprogression",

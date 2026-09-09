@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0114Chapter590SilverspireSacrifice = {
   id: "01a06730-4df6-7cca-bc74-cdafa681b79c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0114-chapter-590-silverspire-sacrifice",
   title: "Chapter 590: Silverspire Sacrifice",
   story: "story-read/reborn-as-a-demonic-tree",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0049Chapter4822ndTimeSTheCharm = {
   id: "01a06730-4e0b-7898-a409-a74c5484a0e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0049-chapter-482-2nd-time-s-the-charm",
   title: "Chapter 482: 2nd time's the charm",
   story: "story-read/rise-of-the-living-forge",

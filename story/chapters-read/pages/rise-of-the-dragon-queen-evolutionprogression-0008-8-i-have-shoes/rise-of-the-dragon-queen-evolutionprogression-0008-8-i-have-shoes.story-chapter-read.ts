@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression00088IHaveShoes = {
   id: "01a06730-4e05-7bfa-9d47-79364d345ac5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0008-8-i-have-shoes",
   title: "8 - I have shoes!",
   story: "rise-of-the-dragon-queen-evolutionprogression",

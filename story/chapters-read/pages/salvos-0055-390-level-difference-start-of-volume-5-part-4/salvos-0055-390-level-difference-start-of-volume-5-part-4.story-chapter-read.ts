@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0055390LevelDifferenceStartOfVolume5Part4 = {
   id: "01a06730-4ddd-751a-9f1a-e65e09b3274d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0055-390-level-difference-start-of-volume-5-part-4",
   title: "390. Level Difference (Start of Volume 5 Part 4)",
   story: "story-read/salvos",

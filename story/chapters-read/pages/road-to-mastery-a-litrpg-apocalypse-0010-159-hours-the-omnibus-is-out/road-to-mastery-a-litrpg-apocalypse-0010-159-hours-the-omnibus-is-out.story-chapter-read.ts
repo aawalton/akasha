@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const roadToMasteryALitrpgApocalypse0010159HoursTheOmnibusIsOut = {
   id: "01a0672f-8c2c-7de9-b6ae-2624f665f6a4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0010-159-hours-the-omnibus-is-out",
   title: "159 Hours!? The Omnibus is Out!",
   story: "road-to-mastery-a-litrpg-apocalypse",

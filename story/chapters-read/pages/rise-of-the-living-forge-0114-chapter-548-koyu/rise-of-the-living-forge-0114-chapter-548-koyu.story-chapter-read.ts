@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0114Chapter548Koyu = {
   id: "01a06730-4e10-7ffe-88b9-250987ef69c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0114-chapter-548-koyu",
   title: "Chapter 548: Koyu",
   story: "story-read/rise-of-the-living-forge",

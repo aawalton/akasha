@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0001Chapter1ARollingStoneGathersNoMoss = {
   id: "01a0672f-8c2d-797c-b6ab-3dd43882db94",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0001-chapter-1-a-rolling-stone-gathers-no-moss",
   title: "Chapter 1 – A [Rolling Stone] Gathers no Moss",
   story: "rock-falls-everyone-dies",

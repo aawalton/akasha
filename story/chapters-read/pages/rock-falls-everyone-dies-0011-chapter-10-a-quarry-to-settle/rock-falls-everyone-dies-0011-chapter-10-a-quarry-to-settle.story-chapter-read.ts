@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   id: "01a0672f-8c2d-715e-a9e1-862d92ffbb8e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0011-chapter-10-a-quarry-to-settle",
   title: "Chapter 10 – A Quarry to Settle",
   story: "rock-falls-everyone-dies",

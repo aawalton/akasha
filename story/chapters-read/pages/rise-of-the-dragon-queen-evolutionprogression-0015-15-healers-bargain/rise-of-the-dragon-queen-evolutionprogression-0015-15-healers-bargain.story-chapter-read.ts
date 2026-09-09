@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression001515HealersBargain = {
   id: "01a06730-4e08-7924-9fd9-4bc7c18ea0d2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0015-15-healers-bargain",
   title: "15 - Healers Bargain",
   story: "rise-of-the-dragon-queen-evolutionprogression",

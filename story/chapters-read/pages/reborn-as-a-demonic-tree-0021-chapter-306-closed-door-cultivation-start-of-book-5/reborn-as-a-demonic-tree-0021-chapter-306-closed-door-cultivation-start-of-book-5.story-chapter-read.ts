@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0021Chapter306ClosedDoorCultivationStartOfBook5 = {
   id: "01a06730-4dc9-7d15-b85a-d6ab4381b6c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0021-chapter-306-closed-door-cultivation-start-of-book-5",
   title: "Chapter 306: Closed Door Cultivation (Start of Book 5)",
   story: "story-read/reborn-as-a-demonic-tree",

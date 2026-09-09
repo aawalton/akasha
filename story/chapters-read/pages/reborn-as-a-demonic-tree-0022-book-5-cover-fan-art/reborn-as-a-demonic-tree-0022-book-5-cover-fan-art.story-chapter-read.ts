@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0022Book5CoverFanArt = {
   id: "01a06730-4dc9-7983-bd33-45eb4711a54d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0022-book-5-cover-fan-art",
   title: "Book 5 Cover + Fan Art!",
   story: "story-read/reborn-as-a-demonic-tree",

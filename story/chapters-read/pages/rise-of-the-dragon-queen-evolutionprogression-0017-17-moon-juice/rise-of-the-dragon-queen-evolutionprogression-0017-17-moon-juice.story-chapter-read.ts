@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression001717MoonJuice = {
   id: "01a06730-4e08-79c9-aa6e-5a6950ea8838",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0017-17-moon-juice",
   title: "17 - Moon Juice",
   story: "rise-of-the-dragon-queen-evolutionprogression",

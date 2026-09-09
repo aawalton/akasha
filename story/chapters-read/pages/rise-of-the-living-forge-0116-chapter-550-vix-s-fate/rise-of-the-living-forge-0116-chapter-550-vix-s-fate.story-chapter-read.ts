@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const riseOfTheLivingForge0116Chapter550VixSFate = {
   id: "01a06730-4e10-7fb3-b936-537cb1fc3c2f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rise-of-the-living-forge-0116-chapter-550-vix-s-fate",
   title: "Chapter 550: Vix's Fate",
   story: "story-read/rise-of-the-living-forge",

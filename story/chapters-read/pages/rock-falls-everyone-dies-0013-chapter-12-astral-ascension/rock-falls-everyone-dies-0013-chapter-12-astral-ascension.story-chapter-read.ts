@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rockFallsEveryoneDies0013Chapter12AstralAscension = {
   id: "01a0672f-8c2d-7bdc-bc10-a175222bda02",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0013-chapter-12-astral-ascension",
   title: "Chapter 12 – Astral Ascension",
   story: "rock-falls-everyone-dies",
