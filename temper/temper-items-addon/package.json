@@ -10,7 +10,6 @@
     "@akasha/temper-characters-capture-addon": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/temper-hud-window": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-filters-addon": "workspace:*",
     "@akasha/temper-items-filters-core": "workspace:*",

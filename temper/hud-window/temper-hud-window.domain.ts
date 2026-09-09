@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperHudWindow = {
   id: "01a060c4-17cf-71ca-8cd3-af5a3fa3c40d",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-hud-window",
   definition: "an addon window a player drags around the screen",
-  manifest: "json",
   parts: ["module/movable-window"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperHudWindow = {
       statement: "Where a window is kept is the caller's concern rather than this package's.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

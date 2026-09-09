@@ -1419,14 +1419,10 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/hud-window": {
-      "name": "@akasha/temper-hud-window",
-    },
     "temper/items-filters-addon": {
       "name": "@akasha/temper-items-filters-addon",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-items-filters-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
       },
@@ -1836,7 +1832,6 @@
         "@akasha/temper-characters-capture-addon": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-filters-addon": "workspace:*",
         "@akasha/temper-items-filters-core": "workspace:*",
@@ -2469,8 +2464,6 @@
     "@akasha/temper-hud-addon": ["@akasha/temper-hud-addon@workspace:temper/hud-addon"],
 
     "@akasha/temper-hud-components": ["@akasha/temper-hud-components@workspace:temper/hud-components"],
-
-    "@akasha/temper-hud-window": ["@akasha/temper-hud-window@workspace:temper/hud-window"],
 
     "@akasha/temper-interface-addon": ["@akasha/temper-interface-addon@workspace:temper/temper-interface-addon"],
 

@@ -1,4 +1,3 @@
-import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
 import { isResettingCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
 import {
   getSavedVariables,
@@ -6,6 +5,7 @@ import {
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { TEXT_TERTIARY } from "akasha/design/tokens/text-color/text-color.module.code.ts"
+import { createMovableWindow } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
 import { getActiveQuests } from "../characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "../characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "../characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
