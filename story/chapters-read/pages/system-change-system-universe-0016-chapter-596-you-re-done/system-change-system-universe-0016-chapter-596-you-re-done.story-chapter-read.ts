@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0016Chapter596YouReDone = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0016-chapter-596-you-re-done",
   title: "Chapter 596: You’re Done.",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 16,
   ownLength: 2248,
   unitSlug: "words",

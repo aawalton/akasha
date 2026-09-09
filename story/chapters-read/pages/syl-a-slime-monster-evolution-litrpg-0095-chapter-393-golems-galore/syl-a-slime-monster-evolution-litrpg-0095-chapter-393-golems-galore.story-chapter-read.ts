@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0095Chapter393GolemsGalore = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0095-chapter-393-golems-galore",
   title: "Chapter 393 : Golems Galore",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 95,
   ownLength: 2276,
   unitSlug: "words",

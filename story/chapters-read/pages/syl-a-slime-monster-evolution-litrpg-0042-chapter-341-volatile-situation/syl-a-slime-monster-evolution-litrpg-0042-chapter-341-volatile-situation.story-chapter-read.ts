@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0042Chapter341VolatileSituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0042-chapter-341-volatile-situation",
   title: "Chapter 341 : Volatile Situation",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 42,
   ownLength: 2186,
   unitSlug: "words",

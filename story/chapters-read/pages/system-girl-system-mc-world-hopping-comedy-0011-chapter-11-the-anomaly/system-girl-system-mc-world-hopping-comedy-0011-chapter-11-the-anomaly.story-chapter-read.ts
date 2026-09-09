@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0011Chapter11TheAnomaly = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0011-chapter-11-the-anomaly",
   title: "Chapter 11: The Anomaly",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 11,
   ownLength: 1432,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0049Chapter627Veiled = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0049-chapter-627-veiled",
   title: "Chapter 627: Veiled",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 49,
   ownLength: 2203,
   unitSlug: "words",

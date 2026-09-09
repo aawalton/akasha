@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0070Chapter648NoIngredients = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0070-chapter-648-no-ingredients",
   title: "Chapter 648: No Ingredients!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 70,
   ownLength: 2063,
   unitSlug: "words",

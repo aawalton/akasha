@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0090Chapter388GoblinCuisine = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0090-chapter-388-goblin-cuisine",
   title: "Chapter 388 : Goblin Cuisine",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 90,
   ownLength: 2409,
   unitSlug: "words",

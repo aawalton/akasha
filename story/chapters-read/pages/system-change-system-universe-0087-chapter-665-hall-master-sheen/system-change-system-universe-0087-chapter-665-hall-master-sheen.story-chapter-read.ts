@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0087Chapter665HallMasterSheen = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0087-chapter-665-hall-master-sheen",
   title: "Chapter 665: Hall Master Sheen",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 87,
   ownLength: 2132,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0001Chapter1CriticalExistenceFa
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0001-chapter-1-critical-existence-failure",
   title: "Chapter 1: Critical Existence Failure",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 1,
   ownLength: 1502,
   unitSlug: "words",

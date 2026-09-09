@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0052Chapter351Sylbera = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0052-chapter-351-sylbera",
   title: "Chapter 351 : Sylbera",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 52,
   ownLength: 2114,
   unitSlug: "words",

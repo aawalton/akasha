@@ -5,7 +5,7 @@ export const superSupportive0205TwoHundredThreeHerdcreaturesI = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0205-two-hundred-three-herdcreatures-i",
   title: "TWO HUNDRED THREE: Herdcreatures I",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 205,
   ownLength: 5117,
   unitSlug: "words",

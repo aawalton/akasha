@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToda
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0007-system-universe-4-trials-of-cydaria-out-today",
   title: "System Universe 4: Trials of Cydaria out today!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 7,
   ownLength: 515,
   unitSlug: "words",

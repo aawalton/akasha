@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0099Chapter397Ceasefire = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0099-chapter-397-ceasefire",
   title: "Chapter 397 : Ceasefire",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 99,
   ownLength: 2207,
   unitSlug: "words",

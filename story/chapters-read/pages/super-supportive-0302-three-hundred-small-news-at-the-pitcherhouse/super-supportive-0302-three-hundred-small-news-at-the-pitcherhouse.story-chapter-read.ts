@@ -5,7 +5,7 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0302-three-hundred-small-news-at-the-pitcherhouse",
   title: "THREE HUNDRED: Small News at the Pitcherhouse",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 302,
   ownLength: 4649,
   unitSlug: "words",

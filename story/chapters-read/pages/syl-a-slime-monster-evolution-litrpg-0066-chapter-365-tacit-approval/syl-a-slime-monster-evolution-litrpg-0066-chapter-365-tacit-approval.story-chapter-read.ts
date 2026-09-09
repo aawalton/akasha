@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0066Chapter365TacitApproval = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0066-chapter-365-tacit-approval",
   title: "Chapter 365 : Tacit Approval",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 66,
   ownLength: 2474,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0221TwoHundredNineteenBarrelRoll = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0221-two-hundred-nineteen-barrel-roll",
   title: "TWO HUNDRED NINETEEN: Barrel Roll",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 221,
   ownLength: 5527,
   unitSlug: "words",

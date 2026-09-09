@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0067Chapter366SplittingAndSharing = 
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0067-chapter-366-splitting-and-sharing",
   title: "Chapter 366 : Splitting and Sharing",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 67,
   ownLength: 2560,
   unitSlug: "words",

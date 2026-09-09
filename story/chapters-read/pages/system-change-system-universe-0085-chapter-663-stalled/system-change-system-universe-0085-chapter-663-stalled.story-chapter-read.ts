@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0085Chapter663Stalled = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0085-chapter-663-stalled",
   title: "Chapter 663: Stalled",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 85,
   ownLength: 2040,
   unitSlug: "words",

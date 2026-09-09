@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0068Chapter646HePointedIShot = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0068-chapter-646-he-pointed-i-shot",
   title: "Chapter 646: He Pointed. I Shot.",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 68,
   ownLength: 2126,
   unitSlug: "words",

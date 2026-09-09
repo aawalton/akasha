@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0078Chapter656Teleporter = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0078-chapter-656-teleporter",
   title: "Chapter 656: Teleporter",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 78,
   ownLength: 2054,
   unitSlug: "words",

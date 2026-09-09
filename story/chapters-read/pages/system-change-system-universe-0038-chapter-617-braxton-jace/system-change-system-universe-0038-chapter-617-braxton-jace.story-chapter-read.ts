@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0038Chapter617BraxtonJace = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0038-chapter-617-braxton-jace",
   title: "Chapter 617: Braxton/Jace",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 38,
   ownLength: 2598,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0122Chapter420TravelTraining = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0122-chapter-420-travel-training",
   title: "Chapter 420 : Travel Training",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 122,
   ownLength: 2316,
   unitSlug: "words",

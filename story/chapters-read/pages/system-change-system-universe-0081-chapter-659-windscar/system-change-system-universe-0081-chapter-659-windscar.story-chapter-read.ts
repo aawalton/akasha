@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0081Chapter659Windscar = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0081-chapter-659-windscar",
   title: "Chapter 659: Windscar",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 81,
   ownLength: 2168,
   unitSlug: "words",

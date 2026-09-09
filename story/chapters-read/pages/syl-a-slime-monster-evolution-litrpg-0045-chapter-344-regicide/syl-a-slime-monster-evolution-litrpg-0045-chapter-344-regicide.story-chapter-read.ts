@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0045Chapter344Regicide = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0045-chapter-344-regicide",
   title: "Chapter 344 : Regicide",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 45,
   ownLength: 2255,
   unitSlug: "words",

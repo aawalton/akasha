@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0016Chapter315MermenRumors = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0016-chapter-315-mermen-rumors",
   title: "Chapter 315 : Mermen Rumors",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 16,
   ownLength: 2362,
   unitSlug: "words",

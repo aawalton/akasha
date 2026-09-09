@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0011Chapter310PlayingInTheWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0011-chapter-310-playing-in-the-water",
   title: "Chapter 310 : Playing in the Water",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 11,
   ownLength: 2284,
   unitSlug: "words",

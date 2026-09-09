@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0020Chapter600PostInvasion = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0020-chapter-600-post-invasion",
   title: "Chapter 600: Post-Invasion",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 20,
   ownLength: 2079,
   unitSlug: "words",

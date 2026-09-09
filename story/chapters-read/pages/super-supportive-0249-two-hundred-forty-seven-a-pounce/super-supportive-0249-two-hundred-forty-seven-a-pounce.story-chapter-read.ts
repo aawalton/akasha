@@ -5,7 +5,7 @@ export const superSupportive0249TwoHundredFortySevenAPounce = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0249-two-hundred-forty-seven-a-pounce",
   title: "TWO HUNDRED FORTY-SEVEN: A Pounce",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 249,
   ownLength: 2966,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0065Chapter643TooMuch = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0065-chapter-643-too-much",
   title: "Chapter 643: Too Much?",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 65,
   ownLength: 2229,
   unitSlug: "words",

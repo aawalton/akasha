@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0006Chapter6MissionCommerceFail
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0006-chapter-6-mission-commerce-failure",
   title: "Chapter 6: Mission Commerce Failure",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 6,
   ownLength: 1748,
   unitSlug: "words",

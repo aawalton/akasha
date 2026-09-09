@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0114Chapter412EternalVigil = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0114-chapter-412-eternal-vigil",
   title: "Chapter 412 : Eternal Vigil",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 114,
   ownLength: 2409,
   unitSlug: "words",

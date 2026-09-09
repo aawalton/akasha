@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0026Chapter325NextAssignment = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0026-chapter-325-next-assignment",
   title: "Chapter 325 : Next Assignment",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 26,
   ownLength: 2030,
   unitSlug: "words",

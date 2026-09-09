@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0005SystemChangeSystemUniverseBook1Announ
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0005-system-change-system-universe-book-1-announcement-now-availa",
   title: "System Change (System Universe Book 1) Announcement! Now Available!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 5,
   ownLength: 475,
   unitSlug: "words",

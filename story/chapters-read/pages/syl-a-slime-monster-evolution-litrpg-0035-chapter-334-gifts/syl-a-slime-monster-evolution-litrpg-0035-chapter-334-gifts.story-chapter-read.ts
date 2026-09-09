@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0035Chapter334Gifts = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0035-chapter-334-gifts",
   title: "Chapter 334 : Gifts",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 35,
   ownLength: 2334,
   unitSlug: "words",

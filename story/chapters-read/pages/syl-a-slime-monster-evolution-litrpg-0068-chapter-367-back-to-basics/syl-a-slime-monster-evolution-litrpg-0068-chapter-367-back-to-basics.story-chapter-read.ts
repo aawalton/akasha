@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0068Chapter367BackToBasics = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0068-chapter-367-back-to-basics",
   title: "Chapter 367 : Back to Basics",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 68,
   ownLength: 2411,
   unitSlug: "words",

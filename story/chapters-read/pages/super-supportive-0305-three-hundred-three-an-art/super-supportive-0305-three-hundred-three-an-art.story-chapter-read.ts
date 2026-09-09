@@ -5,7 +5,7 @@ export const superSupportive0305ThreeHundredThreeAnArt = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0305-three-hundred-three-an-art",
   title: "THREE HUNDRED THREE: An Art",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 305,
   ownLength: 3739,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0055Chapter633FavoritePastime = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0055-chapter-633-favorite-pastime",
   title: "Chapter 633: Favorite Pastime",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 55,
   ownLength: 2148,
   unitSlug: "words",

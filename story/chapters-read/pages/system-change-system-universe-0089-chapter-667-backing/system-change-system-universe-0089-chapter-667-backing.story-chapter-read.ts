@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0089Chapter667Backing = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0089-chapter-667-backing",
   title: "Chapter 667: Backing",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 89,
   ownLength: 2195,
   unitSlug: "words",

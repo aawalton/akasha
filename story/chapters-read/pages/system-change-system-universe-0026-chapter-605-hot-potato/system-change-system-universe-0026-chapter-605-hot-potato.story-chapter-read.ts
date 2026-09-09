@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0026Chapter605HotPotato = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0026-chapter-605-hot-potato",
   title: "Chapter 605: Hot Potato",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 26,
   ownLength: 2262,
   unitSlug: "words",

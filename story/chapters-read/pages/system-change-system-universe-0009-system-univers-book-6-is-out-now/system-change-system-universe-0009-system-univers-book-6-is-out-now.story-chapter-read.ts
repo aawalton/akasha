@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0009SystemUniversBook6IsOutNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0009-system-univers-book-6-is-out-now",
   title: "System Univers Book 6 is Out Now!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 9,
   ownLength: 485,
   unitSlug: "words",

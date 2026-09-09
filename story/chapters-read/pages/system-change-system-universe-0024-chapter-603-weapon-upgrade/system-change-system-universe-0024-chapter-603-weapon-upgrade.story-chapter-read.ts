@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0024Chapter603WeaponUpgrade = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0024-chapter-603-weapon-upgrade",
   title: "Chapter 603: Weapon Upgrade",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 24,
   ownLength: 2104,
   unitSlug: "words",

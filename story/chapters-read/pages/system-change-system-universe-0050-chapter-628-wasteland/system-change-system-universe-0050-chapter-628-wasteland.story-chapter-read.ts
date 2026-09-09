@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0050Chapter628Wasteland = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0050-chapter-628-wasteland",
   title: "Chapter 628: Wasteland",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 50,
   ownLength: 2185,
   unitSlug: "words",

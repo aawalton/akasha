@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0027Chapter606SystemWatcher = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0027-chapter-606-system-watcher",
   title: "Chapter 606: System Watcher",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 27,
   ownLength: 2139,
   unitSlug: "words",

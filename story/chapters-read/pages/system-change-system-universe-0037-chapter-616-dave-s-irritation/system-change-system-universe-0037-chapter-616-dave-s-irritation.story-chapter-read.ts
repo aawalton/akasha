@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0037Chapter616DaveSIrritation = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0037-chapter-616-dave-s-irritation",
   title: "Chapter 616: Dave’s Irritation",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 37,
   ownLength: 2201,
   unitSlug: "words",

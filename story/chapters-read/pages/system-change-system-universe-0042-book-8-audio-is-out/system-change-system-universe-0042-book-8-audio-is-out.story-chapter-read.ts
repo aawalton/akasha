@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0042Book8AudioIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0042-book-8-audio-is-out",
   title: "Book 8 Audio is Out!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 42,
   ownLength: 120,
   unitSlug: "words",

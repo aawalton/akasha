@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0018Chapter598EpilogueBook8 = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0018-chapter-598-epilogue-book-8",
   title: "Chapter 598: Epilogue Book 8",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 18,
   ownLength: 2225,
   unitSlug: "words",

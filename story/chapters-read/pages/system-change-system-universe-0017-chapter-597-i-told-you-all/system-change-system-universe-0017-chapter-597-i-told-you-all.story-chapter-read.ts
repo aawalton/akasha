@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0017Chapter597IToldYouAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0017-chapter-597-i-told-you-all",
   title: "Chapter 597: I Told You All!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 17,
   ownLength: 2083,
   unitSlug: "words",

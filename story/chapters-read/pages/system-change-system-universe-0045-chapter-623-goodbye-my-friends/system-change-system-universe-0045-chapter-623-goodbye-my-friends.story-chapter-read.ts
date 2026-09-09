@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0045Chapter623GoodbyeMyFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0045-chapter-623-goodbye-my-friends",
   title: "Chapter 623: Goodbye, My Friends",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 45,
   ownLength: 3268,
   unitSlug: "words",

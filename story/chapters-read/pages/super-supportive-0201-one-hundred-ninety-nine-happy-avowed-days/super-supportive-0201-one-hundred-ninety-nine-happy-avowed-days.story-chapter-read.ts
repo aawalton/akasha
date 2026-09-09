@@ -5,7 +5,7 @@ export const superSupportive0201OneHundredNinetyNineHappyAvowedDays = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0201-one-hundred-ninety-nine-happy-avowed-days",
   title: "ONE HUNDRED NINETY-NINE: Happy Avowed Days",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 201,
   ownLength: 3881,
   unitSlug: "words",

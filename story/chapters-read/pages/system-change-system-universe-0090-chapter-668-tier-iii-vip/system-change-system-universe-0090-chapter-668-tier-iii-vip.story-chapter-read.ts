@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0090Chapter668TierIiiVip = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0090-chapter-668-tier-iii-vip",
   title: "Chapter 668: Tier III VIP",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 90,
   ownLength: 2206,
   unitSlug: "words",

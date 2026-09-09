@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0014Chapter313ProvisionalRegistratio
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0014-chapter-313-provisional-registration",
   title: "Chapter 313 : Provisional Registration",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 14,
   ownLength: 2279,
   unitSlug: "words",

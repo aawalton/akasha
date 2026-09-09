@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0059Chapter637Ascender = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0059-chapter-637-ascender",
   title: "Chapter 637: Ascender",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 59,
   ownLength: 2141,
   unitSlug: "words",

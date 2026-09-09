@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0006SystemUniverseBook2TorithIsFinallyOut
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0006-system-universe-book-2-torith-is-finally-out",
   title: "System Universe Book 2: Torith is finally out!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 6,
   ownLength: 453,
   unitSlug: "words",

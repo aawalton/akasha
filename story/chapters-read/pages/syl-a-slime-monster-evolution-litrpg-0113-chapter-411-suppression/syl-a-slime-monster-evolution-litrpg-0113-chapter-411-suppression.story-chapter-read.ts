@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0113Chapter411Suppression = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0113-chapter-411-suppression",
   title: "Chapter 411 : Suppression",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 113,
   ownLength: 2405,
   unitSlug: "words",

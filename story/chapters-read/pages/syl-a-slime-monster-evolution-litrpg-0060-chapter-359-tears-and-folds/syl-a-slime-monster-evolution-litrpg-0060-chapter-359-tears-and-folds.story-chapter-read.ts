@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0060Chapter359TearsAndFolds = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0060-chapter-359-tears-and-folds",
   title: "Chapter 359 : Tears and Folds",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 60,
   ownLength: 2658,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0247TwoHundredFortyFiveBrosABromeliadAndAPackOrHerdO
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0247-two-hundred-forty-five-bros-a-bromeliad-and-a-pack-or-herd-o",
   title: "TWO HUNDRED FORTY-FIVE: Bros, a Bromeliad, and a Pack or Herd of Bears",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 247,
   ownLength: 2294,
   unitSlug: "words",

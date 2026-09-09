@@ -5,7 +5,7 @@ export const superSupportive0245TwoHundredFortyThreeWithAYell = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0245-two-hundred-forty-three-with-a-yell",
   title: "TWO HUNDRED FORTY-THREE: With a Yell",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 245,
   ownLength: 3711,
   unitSlug: "words",

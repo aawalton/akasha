@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0110-chapter-408-tainted-depths",
   title: "Chapter 408 : Tainted Depths",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 110,
   ownLength: 2335,
   unitSlug: "words",

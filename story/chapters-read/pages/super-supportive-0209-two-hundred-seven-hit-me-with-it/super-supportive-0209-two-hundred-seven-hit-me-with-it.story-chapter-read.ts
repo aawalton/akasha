@@ -5,7 +5,7 @@ export const superSupportive0209TwoHundredSevenHitMeWithIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0209-two-hundred-seven-hit-me-with-it",
   title: "TWO HUNDRED SEVEN: Hit Me With It",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 209,
   ownLength: 4878,
   unitSlug: "words",

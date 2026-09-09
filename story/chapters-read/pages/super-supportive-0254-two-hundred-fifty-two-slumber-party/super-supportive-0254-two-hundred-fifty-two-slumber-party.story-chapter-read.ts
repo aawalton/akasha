@@ -5,7 +5,7 @@ export const superSupportive0254TwoHundredFiftyTwoSlumberParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0254-two-hundred-fifty-two-slumber-party",
   title: "TWO HUNDRED FIFTY-TWO: Slumber Party",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 254,
   ownLength: 4048,
   unitSlug: "words",

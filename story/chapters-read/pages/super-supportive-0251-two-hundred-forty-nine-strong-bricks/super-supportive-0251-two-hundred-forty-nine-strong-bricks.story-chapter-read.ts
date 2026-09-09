@@ -5,7 +5,7 @@ export const superSupportive0251TwoHundredFortyNineStrongBricks = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0251-two-hundred-forty-nine-strong-bricks",
   title: "TWO HUNDRED FORTY-NINE: Strong Bricks",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 251,
   ownLength: 4301,
   unitSlug: "words",

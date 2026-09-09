@@ -5,7 +5,7 @@ export const superSupportive0210TwoHundredEightNormalTeenagerMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0210-two-hundred-eight-normal-teenager-matters",
   title: "TWO HUNDRED EIGHT: Normal Teenager Matters",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 210,
   ownLength: 4182,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0094Chapter392AdvancedReading = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0094-chapter-392-advanced-reading",
   title: "Chapter 392 : Advanced Reading",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 94,
   ownLength: 2303,
   unitSlug: "words",

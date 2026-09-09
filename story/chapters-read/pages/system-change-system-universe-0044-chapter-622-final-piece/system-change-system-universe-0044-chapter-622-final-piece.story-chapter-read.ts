@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0044-chapter-622-final-piece",
   title: "Chapter 622: Final Piece",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 44,
   ownLength: 2055,
   unitSlug: "words",

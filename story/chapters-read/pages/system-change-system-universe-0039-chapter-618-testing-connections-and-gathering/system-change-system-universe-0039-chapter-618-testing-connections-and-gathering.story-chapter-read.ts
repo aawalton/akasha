@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0039Chapter618TestingConnectionsAndGather
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0039-chapter-618-testing-connections-and-gathering",
   title: "Chapter 618: Testing Connections and Gathering",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 39,
   ownLength: 2339,
   unitSlug: "words",

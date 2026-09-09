@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0121Chapter419RaysOfPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0121-chapter-419-rays-of-power",
   title: "Chapter 419 : Rays of Power",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 121,
   ownLength: 2214,
   unitSlug: "words",

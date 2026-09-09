@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0034Chapter613PeaceOfMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0034-chapter-613-peace-of-mind",
   title: "Chapter 613: Peace of Mind",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 34,
   ownLength: 2144,
   unitSlug: "words",

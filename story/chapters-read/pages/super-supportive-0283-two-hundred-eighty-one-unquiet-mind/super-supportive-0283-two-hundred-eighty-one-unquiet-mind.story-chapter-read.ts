@@ -5,7 +5,7 @@ export const superSupportive0283TwoHundredEightyOneUnquietMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0283-two-hundred-eighty-one-unquiet-mind",
   title: "TWO HUNDRED EIGHTY-ONE: Unquiet Mind",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 283,
   ownLength: 5180,
   unitSlug: "words",

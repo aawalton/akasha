@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0103Chapter681Protocol3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0103-chapter-681-protocol-3",
   title: "Chapter 681: Protocol 3",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 103,
   ownLength: 2094,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0099Chapter677AspectIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0099-chapter-677-aspect-ii",
   title: "Chapter 677: Aspect II",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 99,
   ownLength: 2476,
   unitSlug: "words",

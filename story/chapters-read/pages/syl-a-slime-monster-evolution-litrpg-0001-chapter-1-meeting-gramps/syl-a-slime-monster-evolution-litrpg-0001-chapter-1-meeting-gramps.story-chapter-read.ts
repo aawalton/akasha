@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0001Chapter1MeetingGramps = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0001-chapter-1-meeting-gramps",
   title: "Chapter 1 : Meeting Gramps",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 1,
   ownLength: 1487,
   unitSlug: "words",

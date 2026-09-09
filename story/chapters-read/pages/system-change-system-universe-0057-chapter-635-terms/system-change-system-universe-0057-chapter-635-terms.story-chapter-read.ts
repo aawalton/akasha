@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0057Chapter635Terms = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0057-chapter-635-terms",
   title: "Chapter 635: Terms",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 57,
   ownLength: 2014,
   unitSlug: "words",

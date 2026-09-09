@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0041Chapter340DeepWaters = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0041-chapter-340-deep-waters",
   title: "Chapter 340 : Deep Waters",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 41,
   ownLength: 2017,
   unitSlug: "words",

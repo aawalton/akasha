@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0063Chapter641Nikolai = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0063-chapter-641-nikolai",
   title: "Chapter 641: Nikolai",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 63,
   ownLength: 2142,
   unitSlug: "words",

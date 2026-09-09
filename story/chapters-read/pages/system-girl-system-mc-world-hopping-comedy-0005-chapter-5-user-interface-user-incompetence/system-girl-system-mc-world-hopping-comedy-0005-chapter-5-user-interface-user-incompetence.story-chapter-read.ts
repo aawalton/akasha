@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0005Chapter5UserInterfaceUserIn
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0005-chapter-5-user-interface-user-incompetence",
   title: "Chapter 5: User Interface, User Incompetence",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 5,
   ownLength: 1793,
   unitSlug: "words",

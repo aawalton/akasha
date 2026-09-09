@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0089Chapter387Respect = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0089-chapter-387-respect",
   title: "Chapter 387 : Respect",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 89,
   ownLength: 2095,
   unitSlug: "words",

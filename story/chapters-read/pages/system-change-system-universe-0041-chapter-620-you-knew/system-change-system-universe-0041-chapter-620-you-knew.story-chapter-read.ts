@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0041Chapter620YouKnew = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0041-chapter-620-you-knew",
   title: "Chapter 620: You Knew?",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 41,
   ownLength: 2605,
   unitSlug: "words",

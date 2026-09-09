@@ -5,7 +5,7 @@ export const superSupportive0280TwoHundredSeventyEightAnErrandAtLeafsong = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0280-two-hundred-seventy-eight-an-errand-at-leafsong",
   title: "TWO HUNDRED SEVENTY-EIGHT:  An Errand at Leafsong",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 280,
   ownLength: 1370,
   unitSlug: "words",

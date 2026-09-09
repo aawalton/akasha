@@ -5,7 +5,7 @@ export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0284-two-hundred-eighty-two-beanshot",
   title: "TWO HUNDRED EIGHTY-TWO: Beanshot",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 284,
   ownLength: 4587,
   unitSlug: "words",

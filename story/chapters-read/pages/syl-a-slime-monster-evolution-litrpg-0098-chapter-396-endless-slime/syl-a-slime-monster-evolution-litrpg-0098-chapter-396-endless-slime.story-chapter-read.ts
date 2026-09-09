@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0098Chapter396EndlessSlime = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0098-chapter-396-endless-slime",
   title: "Chapter 396 : Endless Slime",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 98,
   ownLength: 2374,
   unitSlug: "words",

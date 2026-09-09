@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0095Chapter673Velari = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0095-chapter-673-velari",
   title: "Chapter 673: Velari",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 95,
   ownLength: 2218,
   unitSlug: "words",

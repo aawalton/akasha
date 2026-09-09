@@ -5,7 +5,7 @@ export const superSupportive0214TwoHundredTwelveHighFlyers = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0214-two-hundred-twelve-high-flyers",
   title: "TWO HUNDRED TWELVE: High Flyers",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 214,
   ownLength: 4540,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0022Chapter321Deconstructing = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0022-chapter-321-deconstructing",
   title: "Chapter 321 : Deconstructing",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 22,
   ownLength: 2242,
   unitSlug: "words",

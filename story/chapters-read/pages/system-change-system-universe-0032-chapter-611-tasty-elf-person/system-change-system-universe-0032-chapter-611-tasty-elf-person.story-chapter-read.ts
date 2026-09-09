@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0032-chapter-611-tasty-elf-person",
   title: "Chapter 611: Tasty Elf Person",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 32,
   ownLength: 2240,
   unitSlug: "words",

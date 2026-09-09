@@ -5,7 +5,7 @@ export const superSupportive0271TwoHundredSixtyNineSnowXi = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0271-two-hundred-sixty-nine-snow-xi",
   title: "TWO HUNDRED SIXTY-NINE: Snow XI",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 271,
   ownLength: 2107,
   unitSlug: "words",

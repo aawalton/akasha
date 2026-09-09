@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0077Chapter375HolyCrab = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0077-chapter-375-holy-crab",
   title: "Chapter 375 : Holy Crab",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 77,
   ownLength: 2279,
   unitSlug: "words",

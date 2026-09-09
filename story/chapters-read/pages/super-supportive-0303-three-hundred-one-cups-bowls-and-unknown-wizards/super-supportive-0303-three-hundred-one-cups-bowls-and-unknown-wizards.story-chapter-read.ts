@@ -5,7 +5,7 @@ export const superSupportive0303ThreeHundredOneCupsBowlsAndUnknownWizards = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0303-three-hundred-one-cups-bowls-and-unknown-wizards",
   title: "THREE HUNDRED ONE:  Cups, Bowls, and Unknown Wizards",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 303,
   ownLength: 3143,
   unitSlug: "words",

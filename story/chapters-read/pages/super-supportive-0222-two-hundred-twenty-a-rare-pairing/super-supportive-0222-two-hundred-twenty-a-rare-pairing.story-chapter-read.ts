@@ -5,7 +5,7 @@ export const superSupportive0222TwoHundredTwentyARarePairing = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0222-two-hundred-twenty-a-rare-pairing",
   title: "TWO HUNDRED TWENTY: A Rare Pairing",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 222,
   ownLength: 3831,
   unitSlug: "words",

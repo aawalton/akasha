@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0054Chapter353MagicalSpeedrun = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0054-chapter-353-magical-speedrun",
   title: "Chapter 353 : Magical Speedrun",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 54,
   ownLength: 2110,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0007Chapter241SlimenapBook4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0007-chapter-241-slimenap-book-4",
   title: "Chapter 241 : Slimenap [Book 4]",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 7,
   ownLength: 2719,
   unitSlug: "words",

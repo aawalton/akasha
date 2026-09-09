@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0002Chapter2TheEndUserExperienc
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0002-chapter-2-the-end-user-experience",
   title: "Chapter 2: The End-User Experience",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 2,
   ownLength: 1195,
   unitSlug: "words",

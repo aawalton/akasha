@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0023Chapter602Rewards = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0023-chapter-602-rewards",
   title: "Chapter 602: Rewards",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 23,
   ownLength: 2066,
   unitSlug: "words",

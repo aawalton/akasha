@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0051Chapter350CoarseAndRough = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0051-chapter-350-coarse-and-rough",
   title: "Chapter 350 : Coarse and Rough",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 51,
   ownLength: 2243,
   unitSlug: "words",

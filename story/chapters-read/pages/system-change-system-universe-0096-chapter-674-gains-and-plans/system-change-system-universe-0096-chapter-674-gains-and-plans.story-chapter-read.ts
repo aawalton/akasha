@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0096-chapter-674-gains-and-plans",
   title: "Chapter 674: Gains and Plans",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 96,
   ownLength: 2175,
   unitSlug: "words",

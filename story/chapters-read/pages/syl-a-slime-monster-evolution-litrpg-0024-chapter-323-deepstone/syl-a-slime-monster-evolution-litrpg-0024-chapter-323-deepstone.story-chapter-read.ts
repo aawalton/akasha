@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0024Chapter323Deepstone = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0024-chapter-323-deepstone",
   title: "Chapter 323 : Deepstone",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 24,
   ownLength: 2199,
   unitSlug: "words",

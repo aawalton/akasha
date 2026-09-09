@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0076Chapter654GreatBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0076-chapter-654-great-battle",
   title: "Chapter 654: Great Battle!",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 76,
   ownLength: 2089,
   unitSlug: "words",

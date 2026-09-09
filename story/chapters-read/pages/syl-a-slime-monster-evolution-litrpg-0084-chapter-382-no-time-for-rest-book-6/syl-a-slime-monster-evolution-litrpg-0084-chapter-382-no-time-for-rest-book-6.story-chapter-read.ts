@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0084Chapter382NoTimeForRestBook6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0084-chapter-382-no-time-for-rest-book-6",
   title: "Chapter 382 : No Time for Rest [Book 6]",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 84,
   ownLength: 3026,
   unitSlug: "words",

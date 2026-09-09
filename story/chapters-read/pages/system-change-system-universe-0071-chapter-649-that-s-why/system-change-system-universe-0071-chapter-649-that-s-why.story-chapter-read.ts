@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0071Chapter649ThatSWhy = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0071-chapter-649-that-s-why",
   title: "Chapter 649: That's Why",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 71,
   ownLength: 2101,
   unitSlug: "words",

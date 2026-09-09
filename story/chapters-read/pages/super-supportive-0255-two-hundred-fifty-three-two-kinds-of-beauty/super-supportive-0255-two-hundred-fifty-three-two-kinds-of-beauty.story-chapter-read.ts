@@ -5,7 +5,7 @@ export const superSupportive0255TwoHundredFiftyThreeTwoKindsOfBeauty = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0255-two-hundred-fifty-three-two-kinds-of-beauty",
   title: "TWO HUNDRED FIFTY-THREE: Two Kinds of Beauty",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 255,
   ownLength: 4155,
   unitSlug: "words",

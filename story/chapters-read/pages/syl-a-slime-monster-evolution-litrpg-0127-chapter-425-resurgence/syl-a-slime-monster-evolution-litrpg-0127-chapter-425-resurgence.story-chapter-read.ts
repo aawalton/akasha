@@ -10,7 +10,7 @@ export const sylASlimeMonsterEvolutionLitrpg0127Chapter425Resurgence = {
   externalId: "3933175",
   source: "royal-road",
   title: "Chapter 425 : Resurgence",
-  storySlug: "story-read/syl-a-slime-monster-evolution-litrpg",
+  story: "story-read/syl-a-slime-monster-evolution-litrpg",
   ownLength: 2198,
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3933175/chapter-425-resurgence",

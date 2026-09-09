@@ -5,7 +5,7 @@ export const superSupportive0282TwoHundredEightyStakeouts = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0282-two-hundred-eighty-stakeouts",
   title: "TWO HUNDRED EIGHTY:  Stakeouts",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 282,
   ownLength: 3568,
   unitSlug: "words",

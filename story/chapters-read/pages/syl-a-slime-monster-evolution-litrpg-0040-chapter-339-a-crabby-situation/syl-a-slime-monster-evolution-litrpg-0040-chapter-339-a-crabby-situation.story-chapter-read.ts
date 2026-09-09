@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0040Chapter339ACrabbySituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0040-chapter-339-a-crabby-situation",
   title: "Chapter 339 : A Crabby Situation",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 40,
   ownLength: 2155,
   unitSlug: "words",

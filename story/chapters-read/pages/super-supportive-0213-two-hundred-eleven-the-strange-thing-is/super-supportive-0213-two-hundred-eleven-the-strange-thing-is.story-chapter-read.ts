@@ -5,7 +5,7 @@ export const superSupportive0213TwoHundredElevenTheStrangeThingIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0213-two-hundred-eleven-the-strange-thing-is",
   title: "TWO HUNDRED ELEVEN: The Strange Thing Is...",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 213,
   ownLength: 3156,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0021Chapter601ContributorsAndSereph = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0021-chapter-601-contributors-and-sereph",
   title: "Chapter 601: Contributors and Sereph",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 21,
   ownLength: 2008,
   unitSlug: "words",

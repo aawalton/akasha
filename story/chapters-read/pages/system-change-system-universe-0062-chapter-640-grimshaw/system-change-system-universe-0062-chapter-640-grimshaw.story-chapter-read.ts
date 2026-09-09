@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0062Chapter640Grimshaw = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0062-chapter-640-grimshaw",
   title: "Chapter 640: Grimshaw",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 62,
   ownLength: 2316,
   unitSlug: "words",

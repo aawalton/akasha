@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0087Chapter385Bullying = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0087-chapter-385-bullying",
   title: "Chapter 385 : Bullying",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 87,
   ownLength: 2540,
   unitSlug: "words",

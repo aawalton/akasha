@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0004Chapter169ReturningBook3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0004-chapter-169-returning-book-3",
   title: "Chapter 169 : Returning [Book 3]",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 4,
   ownLength: 2724,
   unitSlug: "words",

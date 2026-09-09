@@ -5,7 +5,7 @@ export const superSupportive0296TwoHundredNinetyFourWhenWishingWasHavingV = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0296-two-hundred-ninety-four-when-wishing-was-having-v",
   title: "TWO HUNDRED NINETY-FOUR: When Wishing Was Having V",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 296,
   ownLength: 6112,
   unitSlug: "words",

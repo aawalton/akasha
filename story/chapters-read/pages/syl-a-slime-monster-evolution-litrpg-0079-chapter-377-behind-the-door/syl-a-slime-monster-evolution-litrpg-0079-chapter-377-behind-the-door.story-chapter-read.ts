@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0079Chapter377BehindTheDoor = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0079-chapter-377-behind-the-door",
   title: "Chapter 377 : Behind the Door",
-  storySlug: "syl-a-slime-monster-evolution-litrpg",
+  story: "syl-a-slime-monster-evolution-litrpg",
   position: 79,
   ownLength: 2348,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0304ThreeHundredTwoContractsAndContracts = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0304-three-hundred-two-contracts-and-contracts",
   title: "THREE HUNDRED TWO: contracts and Contracts",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 304,
   ownLength: 4734,
   unitSlug: "words",

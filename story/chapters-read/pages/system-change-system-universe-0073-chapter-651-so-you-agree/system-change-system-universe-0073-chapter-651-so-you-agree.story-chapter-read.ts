@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0073Chapter651SoYouAgree = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0073-chapter-651-so-you-agree",
   title: "Chapter 651: So... You Agree?",
-  storySlug: "system-change-system-universe",
+  story: "system-change-system-universe",
   position: 73,
   ownLength: 2213,
   unitSlug: "words",
