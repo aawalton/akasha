@@ -2,7 +2,7 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { decodeUtf8, spellsText } from "@akasha/code/utf8-body"
 import { bytes } from "@akasha/utils/run/running"
-import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "../../../command-system/scratching/scratching.module.code.ts"
 
 const MERGING_AT = "akasha-merge-file-"
 

@@ -3,7 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { noImportersFiled } from "@akasha/indexes/testing"
-import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+import { CLASH_MARK } from "../../commands/modules/body-merging/body-merging.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {

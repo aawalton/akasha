@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn, told } from "@akasha/git/git-running"
-import { sameBody as sameBytes } from "../body-merging/body-merging.module.code.ts"
+import { sameBody as sameBytes } from "../../commands/modules/body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
 

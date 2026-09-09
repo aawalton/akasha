@@ -29,7 +29,6 @@ export const commandSystem = {
     "module/change-freshness",
     "module/value-minting",
     "module/argument-reading",
-    "module/body-merging",
     "module/drafting",
     "module/applying",
     "module/mechanical-landing",

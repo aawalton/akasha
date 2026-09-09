@@ -70,6 +70,7 @@ export const command = {
     "module/folder-clearing",
     "module/orphaning",
     "module/holding",
+    "module/body-merging",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
