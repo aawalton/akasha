@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
-import { initiativesDrawn } from "@akasha/domains/work-initiatives"
 import { AKASHA } from "@akasha/pages/checkout-roots"
 import { addressIn } from "@akasha/pages/page-address"
+import { initiativesDrawn } from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
 
 const KEY = "initiative"

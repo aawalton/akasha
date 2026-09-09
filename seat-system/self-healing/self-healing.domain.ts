@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const selfHealing = {
   id: "01a08865-01fe-7c5a-ad92-7c42a01e7c23",

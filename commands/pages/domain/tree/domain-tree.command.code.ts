@@ -1,6 +1,9 @@
 import { resolve } from "node:path"
-import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
 import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
+import {
+  type DomainRow as Drawn,
+  domainsDrawn,
+} from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { AUTHOR } from "../../../modules/committing/committing.module.code.ts"

@@ -1,7 +1,7 @@
-import { domainsRead } from "@akasha/domains/domain-reading"
 import { everyOfType, readingIn } from "@akasha/pages/index-reading"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { domainsRead } from "akasha/domains/modules/reading/domain-reading.module.code.ts"
 
 const TERM = "term"
 

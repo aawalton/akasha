@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const pagesUiPerf = {
   id: "01a071d1-2367-7ad6-9120-93d669869ca2",

@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { AllowsTmpPaths } from "akasha/pages/types/properties/allows-tmp-paths.boolean-property.ts"
 import type { Code } from "./properties/code.code-file-property.ts"
 import type { ModuleTypes } from "./properties/module-types.file-property.ts"

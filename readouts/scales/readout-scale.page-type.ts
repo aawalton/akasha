@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { BlackAt } from "./properties/black-at.number-property.ts"
 import type { BlueAt } from "./properties/blue-at.number-property.ts"
 import type { EarnedColorSlug } from "./properties/earned-color-slug.text-property.ts"

@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const terminalShell = {
   id: "01a0884d-5f98-745e-bc9f-ced0318936eb",

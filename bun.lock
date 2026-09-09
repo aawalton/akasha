@@ -12,7 +12,6 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/domains": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
@@ -325,7 +324,6 @@
     "code-system": {
       "name": "@akasha/code",
       "dependencies": {
-        "@akasha/domains": "workspace:*",
         "@akasha/pages": "workspace:*",
         "typescript": "5.9.3",
         "vite": "^8.0.3",
@@ -484,9 +482,6 @@
         "tailwindcss": "^4.0",
       },
     },
-    "domains": {
-      "name": "@akasha/domains",
-    },
     "domains/plain-language": {
       "name": "@akasha/plain-language",
       "dependencies": {
@@ -528,7 +523,6 @@
       "name": "@akasha/git",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/domains": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1114,8 +1108,6 @@
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:design/primitives"],
 
     "@akasha/design-system": ["@akasha/design-system@workspace:design/system"],
-
-    "@akasha/domains": ["@akasha/domains@workspace:domains"],
 
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
 

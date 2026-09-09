@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { AmbientTypes } from "./properties/ambient-types.file-property.ts"
 import type { Generated } from "./properties/generated.record-property.ts"
 

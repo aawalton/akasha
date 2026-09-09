@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { GeneratedDirectory } from "./properties/generated-directory.build-folder-property.ts"
 import type { ManifestCode } from "./properties/manifest-code.code-file-property.ts"
 

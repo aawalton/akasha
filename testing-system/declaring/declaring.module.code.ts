@@ -1,4 +1,3 @@
-import { domain } from "@akasha/domains/domain"
 import { generatorKind } from "@akasha/pages/generator-kind"
 import { uuidV7 } from "@akasha/pages/generator-kind/uuid-v7"
 import { page } from "@akasha/pages/page"
@@ -7,6 +6,7 @@ import { slug as slugPage } from "@akasha/pages/page/slug"
 import { pageProperty } from "@akasha/pages/page-property"
 import { pageType } from "@akasha/pages/page-type"
 import { textProperty } from "@akasha/pages/text-property"
+import { domain } from "akasha/domains/domain.page-type.ts"
 
 type Named = {
   readonly slug: string

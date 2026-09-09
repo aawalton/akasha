@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Model } from "../seats/properties/model.text-property.ts"
 import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
 import type { SubagentPrompt } from "./properties/subagent-prompt.file-property.ts"

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { DomainRow } from "@akasha/domains/domain-rows"
+import type { DomainRow } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import type { Health } from "../service-health/service-health.module.code.ts"
 import {
   COOLING_MS,

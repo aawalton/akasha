@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { RouteCode } from "./properties/route-code.code-file-property.ts"
 import type { RouteTest } from "./properties/route-test.code-file-property.ts"
 import type { UrlPath } from "./properties/url-path.text-property.ts"

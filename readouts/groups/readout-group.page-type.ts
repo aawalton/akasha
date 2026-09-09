@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { FigureOffScale } from "./properties/figure-off-scale.boolean-property.ts"
 import type { SortOrder } from "./properties/sort-order.text-property.ts"
 

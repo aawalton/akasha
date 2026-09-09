@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Code } from "../modules/properties/code.code-file-property.ts"
 import type { CompiledLua } from "./properties/compiled-lua.code-file-property.ts"
 import type { LuaExport } from "./properties/lua-export.text-property.ts"

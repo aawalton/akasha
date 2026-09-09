@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { MasteryBehaviour } from "./properties/mastery-behaviour.text-property.ts"
 import type { MasteryRank } from "./properties/mastery-rank.number-property.ts"
 

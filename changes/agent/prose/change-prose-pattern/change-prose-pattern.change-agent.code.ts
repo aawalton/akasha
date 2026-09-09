@@ -1,13 +1,17 @@
-import { type ProseAt, proseFrom, type Reach } from "@akasha/domains/prose-reach"
+import { textAt, type Value } from "@akasha/pages/page-value"
+import {
+  type ProseAt,
+  proseFrom,
+  type Reach,
+} from "akasha/domains/standard-agent-english/prose-reach/prose-reach.module.code.ts"
 import {
   type Parsing,
   type Passage,
   parsingNow,
   type Restatement,
   restatedIn,
-} from "@akasha/domains/prose-restating"
-import type { Pattern } from "@akasha/domains/prose-rewrite"
-import { textAt, type Value } from "@akasha/pages/page-value"
+} from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
+import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {

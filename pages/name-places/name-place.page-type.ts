@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { NameFormat } from "../text-properties/properties/name-format.relation-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 

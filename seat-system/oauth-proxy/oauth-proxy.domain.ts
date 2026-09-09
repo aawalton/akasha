@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const oauthProxy = {
   id: "01a08866-3c3f-734b-a28f-34e79b39e012",

@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Content } from "./properties/content.file-property.ts"
 import type { InstallPath } from "./properties/install-path.text-property.ts"
 import type { OnlyOn } from "./properties/only-on.select-property.ts"

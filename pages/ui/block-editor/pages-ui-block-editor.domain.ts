@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const pagesUiBlockEditor = {
   id: "01a071cf-0a63-7750-ad97-3e1dcf0312b9",

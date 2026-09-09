@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Attributes } from "./properties/attributes.relation-property.ts"
 import type { Index } from "./properties/index.relation-property.ts"
 

@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { PluralSlug } from "../../domains/properties/plural-slug.text-property.ts"
 import type { AllowsTmpPaths } from "./properties/allows-tmp-paths.boolean-property.ts"
 import type { DetailConfig } from "./properties/detail-config.record-property.ts"

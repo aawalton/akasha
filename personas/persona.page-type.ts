@@ -1,7 +1,7 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Phone } from "@akasha/persons/phone"
 import type { Role } from "@akasha/seat-system/role"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { PointsBeforeToday } from "../alan/attributes/properties/points-before-today.number-property.ts"
 import type { PointsToday } from "../alan/attributes/properties/points-today.number-property.ts"
 import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.ts"

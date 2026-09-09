@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Shell } from "./properties/shell.code-file-property.ts"
 import type { Sourced } from "./properties/sourced.boolean-property.ts"
 

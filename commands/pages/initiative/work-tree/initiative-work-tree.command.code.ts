@@ -1,6 +1,9 @@
 import { resolve } from "node:path"
-import { type InitiativeRow, initiativesDrawn } from "@akasha/domains/work-initiatives"
 import { type Drawn, drawnNow } from "@akasha/seat-system/work-tree-drawn"
+import {
+  type InitiativeRow,
+  initiativesDrawn,
+} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

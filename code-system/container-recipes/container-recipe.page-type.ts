@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Recipe } from "./properties/recipe.file-property.ts"
 
 export type ContainerRecipe = Domain & {

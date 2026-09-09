@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const recipientResolving = {
   id: "01a08857-a2cc-78af-ab64-4af2c5f058bf",

@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { AuthorityCertificate } from "./properties/authority-certificate.file-property.ts"
 
 export type CertificateAuthority = Domain & {

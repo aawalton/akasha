@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { ImageExtensions } from "./properties/image-extensions.file-property.ts"
 import type { ImageFolder } from "./properties/image-folder.text-property.ts"
 import type { ImageKind } from "./properties/image-kind.text-property.ts"

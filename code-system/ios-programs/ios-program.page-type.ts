@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
 import type { Components } from "./properties/components.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"

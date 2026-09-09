@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const pagesUiMarkdown = {
   id: "01a071cf-d60f-7945-8ae3-67e578d922b4",

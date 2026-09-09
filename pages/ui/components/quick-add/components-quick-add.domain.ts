@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const componentsQuickAdd = {
   id: "01a071d3-63bd-7123-8d21-2d607ec892bb",

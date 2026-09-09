@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const provisioning = {
   id: "01a06861-49aa-7cbb-bded-bbd1af45e1b4",

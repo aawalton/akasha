@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "./domain.page-type.ts"
 
 export const domain = {
   id: "01a04a26-9105-7001-a1cc-60a031152982",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "domain",
   definition: "how we define how things should be",
-  manifest: "json",
   parts: [
     "module/domain-rows",
     "module/work-initiatives",
@@ -46,4 +45,4 @@ export const domain = {
       statement: "A seat's attributes represent the choices that seat will make.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

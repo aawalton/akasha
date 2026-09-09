@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const pagesCoreSchema = {
   id: "01a071cb-3d85-7fcd-8315-90eca5831d35",

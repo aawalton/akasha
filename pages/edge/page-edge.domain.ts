@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const pageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",

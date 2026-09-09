@@ -1,4 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 
 export const ring = {
   id: "01a0655b-9cdd-73ae-8a72-25ca95f9932b",

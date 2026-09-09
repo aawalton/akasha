@@ -1,5 +1,5 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { EmailAddress } from "akasha/personas/properties/email-address.email-address-property.ts"
 import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"
 import type { Bodyweight } from "./properties/bodyweight.number-property.ts"

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import type { InitiativeIntent, InitiativeRow } from "@akasha/domains/work-initiatives"
+import type {
+  InitiativeIntent,
+  InitiativeRow,
+} from "akasha/domains/modules/work-initiatives/work-initiatives.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   colorsSaid,
