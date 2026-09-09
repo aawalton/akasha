@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP = {
   id: "01a06731-ae97-7015-bd74-b3291af88e42",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0029-february-i-am-not-become-dead-update-taking-care-of-myself-p",
   title:
     "February I Am Not Become Dead Update: Taking care of myself, progress, and Mark of the Fool Webtoon",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0021SpecialAnnouncementIAmBecomeDeathJustLaunched = {
   id: "01a06731-ae97-700d-8c98-dd11f9e79d88",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0021-special-announcement-i-am-become-death-just-launched",
   title: "Special Announcement: I Am Become Death just Launched!",
   story: "story-read/mark-of-the-fool",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0003Chapter3TheMarkSMockingGrin = {
   id: "01a06731-ae94-7000-a9f0-51ce0acc9f1a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0003-chapter-3-the-mark-s-mocking-grin",
   title: "Chapter 3: The Mark's Mocking Grin",
   story: "story-read/mark-of-the-fool",

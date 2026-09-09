@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0076DailySchedule = {
   id: "01a0672c-ed5e-7008-91c7-f7cd9901c71f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0076-daily-schedule",
   title: "Daily Schedule",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0200Chapter186TheWorstTiming = {
   id: "01a06731-ad82-7018-b5e1-3c62c203da1f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0200-chapter-186-the-worst-timing",
   title: "Chapter 186 The Worst Timing",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0045Chapter38WinterCelebrationAndBasicIllusion = {
   id: "01a0672c-ed5c-7017-8822-6f8241baa09f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0045-chapter-38-winter-celebration-and-basic-illusion",
   title: "Chapter 38 Winter celebration and basic illusion",
   story: "story-read/melody-of-mana",

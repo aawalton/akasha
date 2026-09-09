@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0169Chapter155OneToAnother = {
   id: "01a06731-ad81-7015-9f4f-dcabc95f878e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0169-chapter-155-one-to-another",
   title: "Chapter 155 One to Another",
   story: "story-read/melody-of-mana",

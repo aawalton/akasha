@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0226Chapter212UpTheMountains = {
   id: "01a06731-ad83-7016-9569-f1aff643a87e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0226-chapter-212-up-the-mountains",
   title: "Chapter 212 Up the Mountains",
   story: "story-read/melody-of-mana",

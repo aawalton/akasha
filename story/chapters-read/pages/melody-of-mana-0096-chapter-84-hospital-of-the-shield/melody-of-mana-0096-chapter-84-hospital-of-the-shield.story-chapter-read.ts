@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0096Chapter84HospitalOfTheShield = {
   id: "01a0672c-ed5e-701c-8aa9-5cb906d15eb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0096-chapter-84-hospital-of-the-shield",
   title: "Chapter 84 Hospital of The Shield",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0013Book6LaunchesTodayInEBookAndPaperback = {
   id: "01a06731-ae97-7005-a138-e2930ee6ba90",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0013-book-6-launches-today-in-e-book-and-paperback",
   title: "Book 6 launches today in e-book and paperback!",
   story: "story-read/mark-of-the-fool",

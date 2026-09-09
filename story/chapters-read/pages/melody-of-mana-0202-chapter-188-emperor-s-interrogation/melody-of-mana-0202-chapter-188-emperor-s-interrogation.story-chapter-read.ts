@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0202Chapter188EmperorSInterrogation = {
   id: "01a06731-ad82-701a-b27e-25c3e46e589c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0202-chapter-188-emperor-s-interrogation",
   title: "Chapter 188 Emperor's Interrogation",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
   id: "01a0672c-ed5f-7003-857a-c57815e1cd9f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0102-chapter-90-endel-s-idea-of-therapy",
   title: "Chapter 90 Endel's Idea of Therapy",
   story: "story-read/melody-of-mana",

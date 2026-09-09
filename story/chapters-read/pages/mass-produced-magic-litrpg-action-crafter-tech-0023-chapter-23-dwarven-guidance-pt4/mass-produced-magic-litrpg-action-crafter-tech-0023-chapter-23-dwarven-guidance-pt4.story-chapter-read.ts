@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const massProducedMagicLitrpgActionCrafterTech0023Chapter23DwarvenGuidancePt4 = {
   id: "01a06731-afb0-7001-b41a-d3207bf37d65",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0023-chapter-23-dwarven-guidance-pt4",
   title: "Chapter 23 – Dwarven Guidance – Pt4",
   story: "mass-produced-magic-litrpg-action-crafter-tech",

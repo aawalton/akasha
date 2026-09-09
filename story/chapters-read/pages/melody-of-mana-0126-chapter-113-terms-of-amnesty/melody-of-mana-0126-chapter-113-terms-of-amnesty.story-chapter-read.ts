@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0126Chapter113TermsOfAmnesty = {
   id: "01a0672c-ed5f-701b-b3ef-712e66d0c392",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0126-chapter-113-terms-of-amnesty",
   title: "Chapter 113 Terms of Amnesty",
   story: "story-read/melody-of-mana",

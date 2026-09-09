@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0145132TheHammerFalls = {
   id: "01a06731-ad80-700c-be75-6498342df7fe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0145-132-the-hammer-falls",
   title: "132 The Hammer Falls",
   story: "story-read/melody-of-mana",

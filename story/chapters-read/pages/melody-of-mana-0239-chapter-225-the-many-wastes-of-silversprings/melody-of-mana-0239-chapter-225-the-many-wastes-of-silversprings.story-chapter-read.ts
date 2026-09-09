@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0239Chapter225TheManyWastesOfSilversprings = {
   id: "01a06731-ad84-700c-b885-cd8d6a7800b2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0239-chapter-225-the-many-wastes-of-silversprings",
   title: "Chapter 225 The Many Wastes of Silversprings",
   story: "story-read/melody-of-mana",

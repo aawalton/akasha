@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   id: "01a06731-ae63-7000-933e-0eefc0cb8fe2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0042-42-lexi",
   title: "42. Lexi",
   story: "mana-devourer-litrpgmana-cultivation",

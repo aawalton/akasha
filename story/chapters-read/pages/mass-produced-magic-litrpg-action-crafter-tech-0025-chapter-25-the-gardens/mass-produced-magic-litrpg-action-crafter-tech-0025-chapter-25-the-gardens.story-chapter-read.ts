@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const massProducedMagicLitrpgActionCrafterTech0025Chapter25TheGardens = {
   id: "01a06731-afb0-7003-8cd0-032a0b53d437",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0025-chapter-25-the-gardens",
   title: "Chapter 25 – The Gardens",
   story: "mass-produced-magic-litrpg-action-crafter-tech",

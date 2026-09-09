@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0181Chapter167ReArming = {
   id: "01a06731-ad82-7005-87c5-77932b9d3039",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0181-chapter-167-re-arming",
   title: "Chapter 167 Re-arming",
   story: "story-read/melody-of-mana",

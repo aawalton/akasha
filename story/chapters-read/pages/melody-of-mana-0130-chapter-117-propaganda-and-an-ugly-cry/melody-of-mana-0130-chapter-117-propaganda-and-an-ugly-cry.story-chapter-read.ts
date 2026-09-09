@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0130Chapter117PropagandaAndAnUglyCry = {
   id: "01a06731-ad7f-7018-9741-306cabfef5f0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0130-chapter-117-propaganda-and-an-ugly-cry",
   title: "Chapter 117 Propaganda and an Ugly Cry",
   story: "story-read/melody-of-mana",

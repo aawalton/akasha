@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0033Chapter28ShoesHoesAndAYoungMage = {
   id: "01a0672c-ed5c-700b-a623-ce81cf80a178",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0033-chapter-28-shoes-hoes-and-a-young-mage",
   title: "Chapter 28 Shoes, hoes, and a young mage",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0020SideStory4JohnTheFuryOfTheDowntrodden = {
   id: "01a0672c-ed5b-7008-a32a-71393979b71b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0020-side-story-4-john-the-fury-of-the-downtrodden",
   title: "Side Story 4 John The fury of the downtrodden",
   story: "story-read/melody-of-mana",

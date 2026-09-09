@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0001Chapter1FoolsAndInheritance = {
   id: "01a06731-ae93-7000-a4e6-039eda3d5160",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0001-chapter-1-fools-and-inheritance",
   title: "Chapter 1: Fools and Inheritance",
   story: "story-read/mark-of-the-fool",

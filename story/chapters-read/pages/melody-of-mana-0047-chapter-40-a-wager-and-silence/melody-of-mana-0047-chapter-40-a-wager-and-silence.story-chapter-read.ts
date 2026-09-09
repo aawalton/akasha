@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0047Chapter40AWagerAndSilence = {
   id: "01a0672c-ed5c-7019-88cf-c3ebca664487",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0047-chapter-40-a-wager-and-silence",
   title: "Chapter 40 A wager and silence",
   story: "story-read/melody-of-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0012MarkOfTheFoolBook4AudioHasLauuuunched = {
   id: "01a06731-ae97-7004-b72b-37987eaf935c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0012-mark-of-the-fool-book-4-audio-has-lauuuunched",
   title: "MARK OF THE FOOL BOOK 4 AUDIO HAS LAUUUUNCHED!",
   story: "story-read/mark-of-the-fool",

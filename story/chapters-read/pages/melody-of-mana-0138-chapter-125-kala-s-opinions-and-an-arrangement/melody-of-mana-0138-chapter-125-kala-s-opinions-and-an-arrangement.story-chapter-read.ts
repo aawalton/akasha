@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0138Chapter125KalaSOpinionsAndAnArrangement = {
   id: "01a06731-ad80-7005-89a3-6d974361fc80",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0138-chapter-125-kala-s-opinions-and-an-arrangement",
   title: "Chapter 125 Kala's Opinions and an Arrangement",
   story: "story-read/melody-of-mana",

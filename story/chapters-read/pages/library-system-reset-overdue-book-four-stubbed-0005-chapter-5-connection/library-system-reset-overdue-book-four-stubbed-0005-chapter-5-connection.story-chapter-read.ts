@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const librarySystemResetOverdueBookFourStubbed0005Chapter5Connection = {
   id: "01a06731-ae82-7000-a5c0-962d8e541a97",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0005-chapter-5-connection",
   title: "Chapter 5: Connection",
   story: "library-system-reset-overdue-book-four-stubbed",

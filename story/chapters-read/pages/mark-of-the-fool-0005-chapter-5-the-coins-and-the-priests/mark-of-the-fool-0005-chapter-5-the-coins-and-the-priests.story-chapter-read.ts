@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const markOfTheFool0005Chapter5TheCoinsAndThePriests = {
   id: "01a06731-ae94-7002-933c-0ea7fadae08b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mark-of-the-fool-0005-chapter-5-the-coins-and-the-priests",
   title: "Chapter 5: The Coins and the Priests",
   story: "story-read/mark-of-the-fool",

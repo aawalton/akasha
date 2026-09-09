@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const massProducedMagicLitrpgActionCrafterTech0035Chapter35CityTensionsPt2 = {
   id: "01a06731-afb1-7005-bca9-20db91784627",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0035-chapter-35-city-tensions-pt-2",
   title: "Chapter 35 – City Tensions – Pt 2",
   story: "mass-produced-magic-litrpg-action-crafter-tech",

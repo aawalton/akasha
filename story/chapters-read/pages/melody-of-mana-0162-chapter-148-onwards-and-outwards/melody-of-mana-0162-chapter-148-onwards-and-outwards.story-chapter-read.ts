@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const melodyOfMana0162Chapter148OnwardsAndOutwards = {
   id: "01a06731-ad81-700e-8df0-2856f590893f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "melody-of-mana-0162-chapter-148-onwards-and-outwards",
   title: "Chapter 148 Onwards and Outwards",
   story: "story-read/melody-of-mana",
