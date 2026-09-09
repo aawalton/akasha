@@ -2,7 +2,13 @@ import { namesIn } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages/change"
 import { slugIn } from "@akasha/pages/page-address"
 import { partedIn as nameParted } from "@akasha/pages/page-file-name"
-import { identityOf } from "@akasha/pages/page-type-properties"
+import {
+  declarationsFrom,
+  identityOf,
+  propertiesFrom,
+  type Source,
+  sourceAmong,
+} from "@akasha/pages/page-type-properties"
 import { slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import { input, pagesTailed } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -54,13 +60,18 @@ export function addressedIn(said: string): string {
   return slugIn(said) ?? said
 }
 
-export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
+export function sourceOf(gathered: readonly PageType[], shadow: Shadow): Source {
+  const values = gathered.flatMap((one) => (one.value === null ? [] : [one.value]))
+  return sourceAmong(values, shadow.index.sourceIn())
+}
+
+export function introducedIn(one: PageType, source: Source): readonly string[] {
   const value = one.value
   if (value === null) return []
   const inherited = new Set(
-    slugsIn(value[ABOVE]).flatMap((over) => shadow.index.propertiesOf(over).map(identityOf))
+    slugsIn(value[ABOVE]).flatMap((over) => propertiesFrom(over, source).map(identityOf))
   )
-  const own = shadow.index.declarationsOf(one.slug).filter((each) => each.declaredBy === one.slug)
+  const own = declarationsFrom(one.slug, source).filter((each) => each.declaredBy === one.slug)
   const introduced = new Set(
     own.filter((each) => !inherited.has(identityOf(each))).map((each) => each.pagePropertySlug)
   )
@@ -95,17 +106,17 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
 }
 
 export function introducedOver(
-  standing: readonly PageType[],
-  shadow: Shadow
+  gathered: readonly PageType[],
+  source: Source
 ): ReadonlyMap<string, readonly string[]> {
-  return new Map(standing.map((one) => [one.slug, introducedIn(one, shadow)]))
+  return new Map(gathered.map((one) => [one.slug, introducedIn(one, source)]))
 }
 
 export function introducersIn(
-  standing: readonly PageType[],
+  gathered: readonly PageType[],
   introduced: ReadonlyMap<string, readonly string[]>
 ): ReadonlyMap<string, readonly string[]> {
-  const pairs = standing.flatMap((one) =>
+  const pairs = gathered.flatMap((one) =>
     (introduced.get(one.slug) ?? []).map((propertySlug) => ({ propertySlug, slug: one.slug }))
   )
   const grouped = Map.groupBy(pairs, (one) => addressedIn(one.propertySlug))
@@ -128,7 +139,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   const types = everyType(shadow, carried)
-  const introduced = introducedOver(types, shadow)
+  const introduced = introducedOver(types, sourceOf(types, shadow))
   const introducers = introducersIn(types, introduced)
   const said: Judged[] = []
   for (const one of types) {

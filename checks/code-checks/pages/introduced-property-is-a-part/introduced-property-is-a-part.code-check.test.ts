@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import { listedFiled, listedTakenFrom, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import {
@@ -17,6 +17,7 @@ import {
   introducedPropertyIsAPart,
   type PageType,
   partedIn,
+  sourceOf,
   typeNamedIn,
 } from "./introduced-property-is-a-part.code-check.code.ts"
 
@@ -259,6 +260,19 @@ test("a page type the change takes away is not judged", () => {
   expect(said).toEqual([])
 })
 
+test("a page type the index does not list by slug is judged from the value gathered for it", () => {
+  const root = rooted()
+  typed(root, "held", null, ["mine"], [])
+  typed(root, "other", null, ["its"], [`${TEXT}/its`])
+  listedTakenFrom(root, PAGE_TYPE, "held")
+  const said = judged(
+    landing(root, { [pathFor("other")]: bytesOf("other", null, ["its"], [`${TEXT}/its`]) })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("held"))
+  expect(said[0]?.reason).toContain("`mine`")
+})
+
 test("what a page type declares and parts is read off its body", () => {
   expect(
     declaresIn({ properties: [{ pagePropertySlug: "one" }, { pagePropertySlug: "two" }] })
@@ -289,7 +303,7 @@ test("a property either page type above declares is inherited, not introduced", 
     path: pathFor("under"),
     value: shadow.pageOf(pathFor("under")),
   }
-  expect(introducedIn(under, shadow)).toEqual(["foo"])
+  expect(introducedIn(under, sourceOf([under], shadow))).toEqual(["foo"])
 })
 
 test("a page type inheriting through the second name above it hides no introducer", () => {

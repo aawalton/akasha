@@ -47,6 +47,14 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type is read from the page types gathered rather than looked for again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the gathering does not have is looked for in the index.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A part is matched by the slug the part addresses rather than by the page type the part names.",
     },
