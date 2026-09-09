@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { emitReading } from "@akasha/verdict/reading-channel"
+import { emitReading } from "akasha/verdict/reading-channel/reading-channel.module.code.ts"
 import {
   ALAN_PERSON,
   notify,
@@ -36,9 +36,6 @@ interface StallReading {
   readonly findings: readonly StallFinding[]
 }
 
-// Whether upkeep has stalled is ruled on by reading each account. A fleet with no accounts in it
-// is not a fleet in good health — it is a failure to look, and answering it as zero accounts
-// judged would report all clear at exactly the moment this is the only thing still watching.
 function readingsUnder(root: string): readonly AccountReading[] {
   const readings = readingsIn(root)
   if (readings.length === 0) {
@@ -87,7 +84,7 @@ function latchedAccounts(): readonly string[] {
   }
 }
 
-function holdLatch(accounts: readonly string[]): void {
+function holdLatch(accounts: readonly string[]): undefined {
   try {
     writeFileSync(LATCH_AT, accounts.join("\n"), "utf8")
   } catch (thrown) {
@@ -125,11 +122,6 @@ async function main(argv: readonly string[]): Promise<number> {
   if (wanted) {
     const already = new Set(latchedAccounts())
     const fresh = stall.stalled.filter((one) => !already.has(one))
-    // A LATCH IS A RECORD THAT ALAN WAS TOLD, so it is held after the send and never before it.
-    // This wrote the latch first, so a `notify` that threw — or a kill in the window between the
-    // two — left every stalled account recorded as stated and the alert was never retried: one
-    // lost alert, silently, for as long as those same accounts stayed stalled. The latch now
-    // moves only where the notification was written.
     if (fresh.length > 0) {
       try {
         await notify(ALAN_PERSON, {
@@ -146,8 +138,6 @@ async function main(argv: readonly string[]): Promise<number> {
       }
       holdLatch(stall.stalled)
     } else {
-      // Nothing fresh is owed, so the latch follows what is stalled and recovered accounts drop out
-      // of it, letting a later stall on the same account be stated rather than swallowed.
       holdLatch(stall.stalled)
     }
   }

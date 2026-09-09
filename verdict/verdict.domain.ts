@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const verdict = {
   id: "01a05c87-a15f-79e8-9268-c8bf1735c3e6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
-  manifest: "json",
   parts: [
     "module/outcome",
     "module/verdict-shape",
@@ -31,4 +30,4 @@ export const verdict = {
       statement: "Nothing here measures anything.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aReadingNowTakesItsCoverageWordingFromVerdict = {
   id: "01a05cb7-586b-7002-873f-79be5916db3c",
   pageTypeSlug: "finding",
-  domain: "workspace-package/verdict",
+  domain: "domain/verdict",
   slug: "a-reading-now-takes-its-coverage-wording-from-verdict",
   claim:
     "renderCoverage now stands only in verdict/verdict-text, and health-samples-import reads it from there. That package verdict-reading exists to be a shape that never reads as pass or fail, yet its headline now takes its coverage wording from the verdict package. Wording changed in verdict moves a health reading with it, and nothing in verdict says a reading depends on it.",

@@ -1,4 +1,4 @@
-import { renderCoverage } from "@akasha/verdict/verdict-text"
+import { renderCoverage } from "akasha/verdict/text/verdict-text.module.code.ts"
 
 export interface VerdictCoverage {
   readonly observed: number

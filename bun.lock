@@ -245,7 +245,6 @@
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/ssh-access": "workspace:*",
-        "@akasha/verdict": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2399,9 +2398,6 @@
         "zod": "^4.3.6",
       },
     },
-    "verdict": {
-      "name": "@akasha/verdict",
-    },
   },
   "trustedDependencies": [
     "esbuild",
@@ -2838,8 +2834,6 @@
     "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
 
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
-
-    "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
 
