@@ -1,12 +1,9 @@
 import { SEAT_MODE_INTERACTIVE } from "../../seat-launching/seat-launching.module.code.ts"
 
-// The path to the seat call is spelled here as a string rather than imported, because importing
-// the seat call from a shell composer would pull the whole writer in to reach one constant.
 export const SEAT_COMMAND_REL = "seat-system/seat-call/seat-call.module.code.ts"
 
 const STATED_ATTRIBUTES = ["persona", "domain", "role"] as const
 
-// The payload key the seat call answers a read under rather than stating anything.
 const WHOAMI = "whoami"
 
 export const INTERACTIVE_PRINCIPAL = "alan"

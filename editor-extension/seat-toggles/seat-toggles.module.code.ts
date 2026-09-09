@@ -29,9 +29,6 @@ export function planReset(state: SeatToggleState): readonly SeatStep[] {
 
 const EditorReviveZ = z.object({ "editor-revive": z.string().min(1) })
 
-// The host is node and this module reaches nothing bun alone carries, so the notices are
-// composed here rather than by a bun child reading a path built from the root at run time.
-// `notices` throws where the folder is not there, which is what the child's non-zero exit was.
 export function resumePrompt(): string {
   return EditorReviveZ.parse(notices())["editor-revive"]
 }
