@@ -4,8 +4,6 @@ const SUBTYPE = "change-target-subtype"
 
 const PARENT = "parent"
 
-const PARENT_SLUG = "parentSlug"
-
 export function slugIn(address: string): string {
   return address.slice(address.indexOf("/") + 1)
 }
@@ -18,8 +16,7 @@ export function narrows(world: World, kind: string, of: string): boolean {
     seen.add(held)
     const value = world.index.pageAt(SUBTYPE, held)
     if (value === null) return false
-    const above = value[PARENT]
-    const named = typeof above === "string" ? above : value[PARENT_SLUG]
+    const named = value[PARENT]
     held = typeof named === "string" ? slugIn(named) : null
   }
   return false
