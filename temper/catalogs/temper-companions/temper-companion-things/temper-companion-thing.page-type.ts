@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
-import type { EquipType } from "./properties/equip-type.number-property.ts"
-
-export type TemperCompanionThing = TemperCatalogThing & {
-  equipType?: EquipType
-}
 
 export const temperCompanionThing = {
   id: "01a05fcc-694c-762c-bcd1-1691361636e2",
@@ -22,4 +16,5 @@ export const temperCompanionThing = {
       statement: "Every place a companion wears a thing is named by one number.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

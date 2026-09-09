@@ -3,7 +3,7 @@ import type { Abbreviation } from "../temper-companion-things/properties/abbrevi
 import type { ValidArmorWeights } from "../temper-companion-things/properties/valid-armor-weights.text-property.ts"
 import type { ValidTraitIds } from "../temper-companion-things/properties/valid-trait-ids.text-property.ts"
 import type { ValidWeaponRoleIds } from "../temper-companion-things/properties/valid-weapon-role-ids.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
 
 export type TemperCompanionBaseRole = TemperCompanionThing & {
   abbreviation: Abbreviation

@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { SlotCategory } from "../temper-companion-things/properties/slot-category.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
 
 export type TemperCompanionJewelrySlot = TemperCompanionThing & {
   slotCategory: SlotCategory

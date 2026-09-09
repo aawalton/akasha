@@ -4,7 +4,7 @@ import type { ClassPassiveId } from "../temper-companion-things/properties/class
 import type { EsoCompanionId } from "../temper-companion-things/properties/eso-companion-id.number-property.ts"
 import type { PassiveEffects } from "../temper-companion-things/properties/passive-effects.page-property-entry.ts"
 import type { Subtitle } from "../temper-companion-things/properties/subtitle.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
 
 export type TemperEsoCompanion = TemperCompanionThing & {
   subtitle?: Subtitle
