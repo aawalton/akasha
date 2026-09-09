@@ -11,6 +11,8 @@ import type { Owner } from "./properties/owner.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
+import type { TypeGenerator } from "./properties/type-generator.file-property.ts"
+import type { Types } from "./properties/types.file-property.ts"
 import type { Worked } from "./properties/worked.file-property.ts"
 
 export type PageType = Domain & {
@@ -27,6 +29,8 @@ export type PageType = Domain & {
   runsTabooCheck?: RunsTabooCheck
   allowsTmpPaths?: AllowsTmpPaths
   worked?: Worked
+  typeGenerator?: TypeGenerator
+  types?: Types
 }
 
 export const pageType = {
@@ -53,6 +57,8 @@ export const pageType = {
     "boolean-property/secret",
     "boolean-property/show-reading-progress",
     "boolean-property/uncommitted",
+    "file-property/type-generator",
+    "file-property/types",
     "file-property/worked",
     "number-property/next-seq",
     "page-type/page-property",
@@ -106,6 +112,8 @@ export const pageType = {
     { pagePropertySlug: "number-property/next-seq", required: false, many: false },
     { pagePropertySlug: "relation-property/owner", required: false, many: false },
     { pagePropertySlug: "file-property/worked", required: false, many: false },
+    { pagePropertySlug: "file-property/type-generator", required: false, many: false },
+    { pagePropertySlug: "file-property/types", required: false, many: false },
   ],
   invariants: [
     {
