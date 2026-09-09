@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const apistaAgileFlier = {
   id: "01a06575-97eb-7d5a-b820-bcb73368c4c9",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "apista-agile-flier",
   title: "Apista: Agile Flier",
   world: "the-wandering-inn",

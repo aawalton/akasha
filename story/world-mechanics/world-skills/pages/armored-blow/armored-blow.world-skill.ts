@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const armoredBlow = {
   id: "01a06575-97ec-74c6-aa25-ea0a928588fe",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "armored-blow",
   title: "Armored Blow",
   world: "the-wandering-inn",

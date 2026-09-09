@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const berserkerRage = {
   id: "01a06575-97f5-7488-bc7b-d388c5ace7f5",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "berserker-rage",
   title: "Berserker Rage",
   world: "the-wandering-inn",

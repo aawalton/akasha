@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const bloodlessIncision = {
   id: "01a06575-97f6-7fbf-85b3-6e00c8a16821",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "bloodless-incision",
   title: "Bloodless Incision",
   world: "the-wandering-inn",

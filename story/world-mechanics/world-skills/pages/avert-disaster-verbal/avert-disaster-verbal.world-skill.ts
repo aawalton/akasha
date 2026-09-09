@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const avertDisasterVerbal = {
   id: "01a06575-97f1-724c-906d-1151225cad91",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "avert-disaster-verbal",
   title: "Avert Disaster (Verbal)",
   world: "the-wandering-inn",

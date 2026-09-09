@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const beneficialTonic = {
   id: "01a06575-97f5-7b36-8e0e-a7f5da896496",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "beneficial-tonic",
   title: "Beneficial Tonic",
   world: "the-wandering-inn",

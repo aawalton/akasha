@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const barbedComment = {
   id: "01a06575-97f3-710b-9520-ae48ffc31b1e",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "barbed-comment",
   title: "Barbed Comment",
   world: "the-wandering-inn",

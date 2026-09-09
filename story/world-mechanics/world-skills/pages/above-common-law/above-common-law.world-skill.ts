@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const aboveCommonLaw = {
   id: "01a06575-97e7-737c-8799-f7aeaf930fbb",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "above-common-law",
   title: "Above Common Law",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const allOrNothingCharge = {
   id: "01a06575-97ea-7f59-9bef-c025e7ad40a6",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "all-or-nothing-charge",
   title: "All-or-Nothing Charge",
   world: "the-wandering-inn",

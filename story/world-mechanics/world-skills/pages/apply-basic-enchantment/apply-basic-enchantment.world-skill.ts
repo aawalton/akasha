@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const applyBasicEnchantment = {
   id: "01a06575-97eb-71e3-9afe-a5530624c744",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "apply-basic-enchantment",
   title: "Apply Basic Enchantment",
   world: "the-wandering-inn",

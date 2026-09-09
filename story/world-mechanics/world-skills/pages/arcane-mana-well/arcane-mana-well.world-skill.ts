@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const arcaneManaWell = {
   id: "01a06575-97ec-7356-a716-8fbaa2677dfc",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "arcane-mana-well",
   title: "Arcane Mana Well",
   world: "the-wandering-inn",
