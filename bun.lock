@@ -1214,7 +1214,14 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-web": {
+    "temper/trading-addon": {
+      "name": "@akasha/temper-trading-addon",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
+    "temper/web": {
       "name": "@akasha/temper-web",
       "version": "0.1.0",
       "dependencies": {
@@ -1265,13 +1272,6 @@
       },
       "peerDependencies": {
         "tailwindcss": "^4.0",
-      },
-    },
-    "temper/trading-addon": {
-      "name": "@akasha/temper-trading-addon",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "testing-system": {
@@ -1531,7 +1531,7 @@
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
-    "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
+    "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/web"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 
