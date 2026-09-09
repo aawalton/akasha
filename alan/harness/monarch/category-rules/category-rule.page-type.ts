@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Category } from "../monarch-months/properties/category.relation-property.ts"
+import type { Category } from "../months/properties/category.relation-property.ts"
 import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"
 import type { Matches } from "./properties/matches.record-property.ts"
 import type { RuleNote } from "./properties/rule-note.text-property.ts"
