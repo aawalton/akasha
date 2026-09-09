@@ -5,6 +5,6 @@ export const wallLordOfAThousandExchangesCoinAndSword = {
   pageTypeSlug: "world-class",
   slug: "wall-lord-of-a-thousand-exchanges-coin-and-sword",
   title: "Wall Lord of a Thousand Exchanges, Coin and Sword",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

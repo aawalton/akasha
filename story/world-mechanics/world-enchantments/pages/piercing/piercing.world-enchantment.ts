@@ -5,5 +5,5 @@ export const piercing = {
   pageTypeSlug: "world-enchantment",
   slug: "piercing",
   title: "Piercing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

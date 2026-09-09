@@ -5,6 +5,6 @@ export const acrobatSForm = {
   pageTypeSlug: "world-skill",
   slug: "acrobat-s-form",
   title: "Acrobat’s Form",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

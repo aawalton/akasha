@@ -5,6 +5,6 @@ export const waterproofFabric = {
   pageTypeSlug: "world-item",
   slug: "waterproof-fabric",
   title: "Waterproof Fabric",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

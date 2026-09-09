@@ -5,6 +5,6 @@ export const alchemyShortenedSpan = {
   pageTypeSlug: "world-skill",
   slug: "alchemy-shortened-span",
   title: "Alchemy: Shortened Span",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

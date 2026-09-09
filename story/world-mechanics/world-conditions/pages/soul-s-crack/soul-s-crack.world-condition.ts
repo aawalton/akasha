@@ -5,5 +5,5 @@ export const soulSCrack = {
   pageTypeSlug: "world-condition",
   slug: "soul-s-crack",
   title: "Soul’s Crack",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

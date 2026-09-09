@@ -5,6 +5,6 @@ export const scrollOfMessages = {
   pageTypeSlug: "world-item",
   slug: "scroll-of-messages",
   title: "Scroll of Messages",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

@@ -5,6 +5,6 @@ export const locusOfConnection = {
   pageTypeSlug: "world-item",
   slug: "locus-of-connection",
   title: "Locus of Connection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

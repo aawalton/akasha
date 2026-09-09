@@ -5,5 +5,5 @@ export const bodyBreathOfJewels = {
   pageTypeSlug: "world-condition",
   slug: "body-breath-of-jewels",
   title: "Body – Breath of Jewels",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

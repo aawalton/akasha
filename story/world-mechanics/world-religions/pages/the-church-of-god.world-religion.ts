@@ -5,5 +5,5 @@ export const theChurchOfGod = {
   pageTypeSlug: "world-religion",
   slug: "the-church-of-god",
   title: "The Church of God",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldReligion

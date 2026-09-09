@@ -5,5 +5,5 @@ export const impactGuard = {
   pageTypeSlug: "world-enchantment",
   slug: "impact-guard",
   title: "Impact Guard",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

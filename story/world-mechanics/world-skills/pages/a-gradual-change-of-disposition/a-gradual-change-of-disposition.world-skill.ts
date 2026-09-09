@@ -5,6 +5,6 @@ export const aGradualChangeOfDisposition = {
   pageTypeSlug: "world-skill",
   slug: "a-gradual-change-of-disposition",
   title: "A Gradual Change of Disposition",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

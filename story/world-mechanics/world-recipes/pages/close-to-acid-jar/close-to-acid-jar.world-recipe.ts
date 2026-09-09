@@ -5,5 +5,5 @@ export const closeToAcidJar = {
   pageTypeSlug: "world-recipe",
   slug: "close-to-acid-jar",
   title: "Close to Acid Jar",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldRecipe

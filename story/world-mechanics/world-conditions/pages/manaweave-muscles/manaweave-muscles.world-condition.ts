@@ -5,5 +5,5 @@ export const manaweaveMuscles = {
   pageTypeSlug: "world-condition",
   slug: "manaweave-muscles",
   title: "Manaweave Muscles",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

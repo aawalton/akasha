@@ -5,6 +5,6 @@ export const twinVirtueOfHouseTerland = {
   pageTypeSlug: "world-class",
   slug: "twin-virtue-of-house-terland",
   title: "Twin Virtue of House Terland",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

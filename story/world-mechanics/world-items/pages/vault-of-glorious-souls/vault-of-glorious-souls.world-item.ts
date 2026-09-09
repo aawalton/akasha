@@ -5,6 +5,6 @@ export const vaultOfGloriousSouls = {
   pageTypeSlug: "world-item",
   slug: "vault-of-glorious-souls",
   title: "Vault of Glorious Souls",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

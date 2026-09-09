@@ -5,5 +5,5 @@ export const massPrayerOfMagicSDenial = {
   pageTypeSlug: "world-miracle",
   slug: "mass-prayer-of-magic-s-denial",
   title: "Mass Prayer of Magic’s Denial",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

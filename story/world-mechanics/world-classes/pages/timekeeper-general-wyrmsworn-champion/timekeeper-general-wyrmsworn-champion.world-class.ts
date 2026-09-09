@@ -5,6 +5,6 @@ export const timekeeperGeneralWyrmswornChampion = {
   pageTypeSlug: "world-class",
   slug: "timekeeper-general-wyrmsworn-champion",
   title: "Timekeeper General, Wyrmsworn Champion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

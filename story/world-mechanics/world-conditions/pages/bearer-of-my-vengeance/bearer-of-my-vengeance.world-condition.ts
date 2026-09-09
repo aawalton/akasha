@@ -5,5 +5,5 @@ export const bearerOfMyVengeance = {
   pageTypeSlug: "world-condition",
   slug: "bearer-of-my-vengeance",
   title: "Bearer of My Vengeance",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

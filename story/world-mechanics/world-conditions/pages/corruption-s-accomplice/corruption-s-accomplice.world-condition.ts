@@ -5,5 +5,5 @@ export const corruptionSAccomplice = {
   pageTypeSlug: "world-condition",
   slug: "corruption-s-accomplice",
   title: "Corruption’s Accomplice",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

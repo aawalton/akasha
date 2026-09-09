@@ -5,5 +5,5 @@ export const feetNatureSPassageSnow = {
   pageTypeSlug: "world-condition",
   slug: "feet-nature-s-passage-snow",
   title: "Feet – Nature’s Passage (Snow)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

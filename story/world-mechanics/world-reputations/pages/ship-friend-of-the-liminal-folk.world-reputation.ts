@@ -5,5 +5,5 @@ export const shipFriendOfTheLiminalFolk = {
   pageTypeSlug: "world-reputation",
   slug: "ship-friend-of-the-liminal-folk",
   title: "Ship: Friend of the Liminal Folk",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldReputation

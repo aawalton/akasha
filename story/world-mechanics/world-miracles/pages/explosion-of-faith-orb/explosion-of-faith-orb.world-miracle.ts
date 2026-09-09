@@ -5,5 +5,5 @@ export const explosionOfFaithOrb = {
   pageTypeSlug: "world-miracle",
   slug: "explosion-of-faith-orb",
   title: "Explosion of Faith (Orb)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

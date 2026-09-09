@@ -5,5 +5,5 @@ export const speed = {
   pageTypeSlug: "world-enchantment",
   slug: "speed",
   title: "Speed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

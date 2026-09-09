@@ -5,5 +5,5 @@ export const evercut = {
   pageTypeSlug: "world-enchantment",
   slug: "evercut",
   title: "Evercut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

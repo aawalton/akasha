@@ -5,5 +5,5 @@ export const signetRingOfLiscor = {
   pageTypeSlug: "world-item",
   slug: "signet-ring-of-liscor",
   title: "Signet Ring of Liscor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldItem

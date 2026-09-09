@@ -5,5 +5,5 @@ export const bowOfThiypcSPromise = {
   pageTypeSlug: "world-item",
   slug: "bow-of-thiypc-s-promise",
   title: "Bow of Thiypc’s Promise",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldItem

@@ -5,5 +5,5 @@ export const layOurSinsAndGloriesInOpenAir = {
   pageTypeSlug: "world-legacy",
   slug: "lay-our-sins-and-glories-in-open-air",
   title: "Lay Our Sins and Glories in Open Air",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldLegacy

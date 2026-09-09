@@ -5,5 +5,5 @@ export const longRangedShot = {
   pageTypeSlug: "world-legacy",
   slug: "long-ranged-shot",
   title: "Long-ranged Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldLegacy

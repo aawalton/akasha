@@ -5,6 +5,6 @@ export const undyingLichMythOfDeathAndVengeance = {
   pageTypeSlug: "world-class",
   slug: "undying-lich-myth-of-death-and-vengeance",
   title: "Undying Lich, Myth of Death and Vengeance",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

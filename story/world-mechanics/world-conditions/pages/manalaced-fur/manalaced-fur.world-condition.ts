@@ -5,5 +5,5 @@ export const manalacedFur = {
   pageTypeSlug: "world-condition",
   slug: "manalaced-fur",
   title: "Manalaced Fur",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

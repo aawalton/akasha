@@ -5,6 +5,6 @@ export const aTribeOfTwoWorthTheWeightOfThousands = {
   pageTypeSlug: "world-skill",
   slug: "a-tribe-of-two-worth-the-weight-of-thousands",
   title: "A Tribe of Two, Worth the Weight of Thousands",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

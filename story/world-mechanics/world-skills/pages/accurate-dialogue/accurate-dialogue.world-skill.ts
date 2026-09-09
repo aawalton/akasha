@@ -5,6 +5,6 @@ export const accurateDialogue = {
   pageTypeSlug: "world-skill",
   slug: "accurate-dialogue",
   title: "Accurate Dialogue",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

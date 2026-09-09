@@ -5,6 +5,6 @@ export const triggerRunes = {
   pageTypeSlug: "world-item",
   slug: "trigger-runes",
   title: "Trigger Runes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

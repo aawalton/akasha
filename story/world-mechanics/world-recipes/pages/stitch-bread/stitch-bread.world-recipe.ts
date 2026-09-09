@@ -5,5 +5,5 @@ export const stitchBread = {
   pageTypeSlug: "world-recipe",
   slug: "stitch-bread",
   title: "Stitch-bread",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldRecipe

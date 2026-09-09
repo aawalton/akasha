@@ -5,5 +5,5 @@ export const theSynecticHaze = {
   pageTypeSlug: "world-curse",
   slug: "the-synectic-haze",
   title: "The Synectic Haze",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCurse

@@ -5,6 +5,6 @@ export const safetyTalisman = {
   pageTypeSlug: "world-item",
   slug: "safety-talisman",
   title: "Safety Talisman",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

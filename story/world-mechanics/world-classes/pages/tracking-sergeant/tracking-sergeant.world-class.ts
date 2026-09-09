@@ -5,6 +5,6 @@ export const trackingSergeant = {
   pageTypeSlug: "world-class",
   slug: "tracking-sergeant",
   title: "Tracking Sergeant",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["goblinfriend-bug-captain"],
 } as const satisfies WorldClass

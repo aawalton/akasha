@@ -5,6 +5,6 @@ export const typoFinder = {
   pageTypeSlug: "world-class",
   slug: "typo-finder",
   title: "Typo Finder",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,5 +5,5 @@ export const infusedDoughScaethenDough = {
   pageTypeSlug: "world-recipe",
   slug: "infused-dough-scaethen-dough",
   title: "Infused Dough (Scaethen Dough)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldRecipe

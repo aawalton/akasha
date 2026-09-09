@@ -5,6 +5,6 @@ export const potOfCombination = {
   pageTypeSlug: "world-item",
   slug: "pot-of-combination",
   title: "Pot of Combination",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

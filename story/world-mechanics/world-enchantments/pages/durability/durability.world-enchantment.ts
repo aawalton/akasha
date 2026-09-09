@@ -5,5 +5,5 @@ export const durability = {
   pageTypeSlug: "world-enchantment",
   slug: "durability",
   title: "Durability",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

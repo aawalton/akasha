@@ -5,6 +5,6 @@ export const aScrollADayParchment = {
   pageTypeSlug: "world-skill",
   slug: "a-scroll-a-day-parchment",
   title: "A Scroll A Day: Parchment",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

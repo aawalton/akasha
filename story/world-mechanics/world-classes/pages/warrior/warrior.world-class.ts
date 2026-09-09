@@ -5,7 +5,7 @@ export const warrior = {
   pageTypeSlug: "world-class",
   slug: "warrior",
   title: "Warrior",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["warriors"],
   evolvesToSlugs: ["bannerlady", "berserker", "champion", "general", "weapon-expert"],
   references: "jsonl",

@@ -5,6 +5,6 @@ export const bloodOfEnemiesBoil = {
   pageTypeSlug: "world-curse",
   slug: "blood-of-enemies-boil",
   title: "Blood of Enemies, Boil",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCurse

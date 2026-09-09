@@ -5,5 +5,5 @@ export const manaburnHeart = {
   pageTypeSlug: "world-condition",
   slug: "manaburn-heart",
   title: "Manaburn Heart",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

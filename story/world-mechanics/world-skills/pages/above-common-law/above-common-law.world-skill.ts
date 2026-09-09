@@ -5,6 +5,6 @@ export const aboveCommonLaw = {
   pageTypeSlug: "world-skill",
   slug: "above-common-law",
   title: "Above Common Law",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

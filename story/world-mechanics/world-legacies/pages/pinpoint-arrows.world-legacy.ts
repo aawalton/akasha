@@ -5,5 +5,5 @@ export const pinpointArrows = {
   pageTypeSlug: "world-legacy",
   slug: "pinpoint-arrows",
   title: "Pinpoint Arrows",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldLegacy

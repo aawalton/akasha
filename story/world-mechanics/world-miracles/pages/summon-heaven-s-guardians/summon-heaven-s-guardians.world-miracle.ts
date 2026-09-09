@@ -5,5 +5,5 @@ export const summonHeavenSGuardians = {
   pageTypeSlug: "world-miracle",
   slug: "summon-heaven-s-guardians",
   title: "Summon Heaven’s Guardians",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

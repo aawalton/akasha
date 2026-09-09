@@ -5,5 +5,5 @@ export const bigKick = {
   pageTypeSlug: "world-miracle",
   slug: "big-kick",
   title: "Big Kick",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

@@ -5,6 +5,6 @@ export const goodLuckCharm = {
   pageTypeSlug: "world-item",
   slug: "good-luck-charm",
   title: "Good Luck Charm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

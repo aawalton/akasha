@@ -5,7 +5,7 @@ export const vampireHunter = {
   pageTypeSlug: "world-class",
   slug: "vampire-hunter",
   title: "Vampire Hunter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["vampire-hunters"],
   evolvesFromSlugs: ["crossbow-speed-hunter"],
   references: "jsonl",

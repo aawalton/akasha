@@ -5,5 +5,5 @@ export const miracle = {
   pageTypeSlug: "world-condition",
   slug: "miracle",
   title: "Miracle",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

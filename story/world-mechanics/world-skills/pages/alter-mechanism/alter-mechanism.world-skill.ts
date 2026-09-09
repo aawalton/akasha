@@ -5,6 +5,6 @@ export const alterMechanism = {
   pageTypeSlug: "world-skill",
   slug: "alter-mechanism",
   title: "Alter Mechanism",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

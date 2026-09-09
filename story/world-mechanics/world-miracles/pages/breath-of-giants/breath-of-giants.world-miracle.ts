@@ -5,5 +5,5 @@ export const breathOfGiants = {
   pageTypeSlug: "world-miracle",
   slug: "breath-of-giants",
   title: "Breath of Giants",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

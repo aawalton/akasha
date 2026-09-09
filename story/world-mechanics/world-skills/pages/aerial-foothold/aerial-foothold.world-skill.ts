@@ -5,6 +5,6 @@ export const aerialFoothold = {
   pageTypeSlug: "world-skill",
   slug: "aerial-foothold",
   title: "Aerial Foothold",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

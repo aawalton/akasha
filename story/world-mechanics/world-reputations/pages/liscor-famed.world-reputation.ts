@@ -5,5 +5,5 @@ export const liscorFamed = {
   pageTypeSlug: "world-reputation",
   slug: "liscor-famed",
   title: "Liscor (Famed)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldReputation

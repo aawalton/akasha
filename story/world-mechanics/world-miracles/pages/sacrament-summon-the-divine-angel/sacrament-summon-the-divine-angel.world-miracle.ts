@@ -5,5 +5,5 @@ export const sacramentSummonTheDivineAngel = {
   pageTypeSlug: "world-miracle",
   slug: "sacrament-summon-the-divine-angel",
   title: "Sacrament: Summon the Divine (Angel)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

@@ -5,5 +5,5 @@ export const amassTheFaithfulSWill = {
   pageTypeSlug: "world-miracle",
   slug: "amass-the-faithful-s-will",
   title: "Amass the Faithful’s Will",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

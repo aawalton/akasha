@@ -5,5 +5,5 @@ export const infamyNowMyFame = {
   pageTypeSlug: "world-reputation",
   slug: "infamy-now-my-fame",
   title: "Infamy, Now My Fame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldReputation

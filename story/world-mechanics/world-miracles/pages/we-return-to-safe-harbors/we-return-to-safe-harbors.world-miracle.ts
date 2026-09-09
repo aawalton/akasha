@@ -5,5 +5,5 @@ export const weReturnToSafeHarbors = {
   pageTypeSlug: "world-miracle",
   slug: "we-return-to-safe-harbors",
   title: "We Return to Safe Harbors",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

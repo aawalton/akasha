@@ -5,6 +5,6 @@ export const alchemicalCoatingDullwitSLiquor = {
   pageTypeSlug: "world-skill",
   slug: "alchemical-coating-dullwit-s-liquor",
   title: "Alchemical Coating: Dullwit’s Liquor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

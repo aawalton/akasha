@@ -5,5 +5,5 @@ export const upgradeSpellFuturisticMagic = {
   pageTypeSlug: "world-miracle",
   slug: "upgrade-spell-futuristic-magic",
   title: "Upgrade Spell (Futuristic Magic)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

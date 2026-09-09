@@ -5,6 +5,6 @@ export const alliedDistressCall = {
   pageTypeSlug: "world-skill",
   slug: "allied-distress-call",
   title: "Allied Distress Call",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

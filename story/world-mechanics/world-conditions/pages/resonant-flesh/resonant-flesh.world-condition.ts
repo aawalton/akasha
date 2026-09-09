@@ -5,6 +5,6 @@ export const resonantFlesh = {
   pageTypeSlug: "world-condition",
   slug: "resonant-flesh",
   title: "Resonant Flesh",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

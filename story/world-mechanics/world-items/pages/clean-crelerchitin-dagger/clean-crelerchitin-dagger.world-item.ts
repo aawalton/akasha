@@ -5,5 +5,5 @@ export const cleanCrelerchitinDagger = {
   pageTypeSlug: "world-item",
   slug: "clean-crelerchitin-dagger",
   title: "Clean Crelerchitin Dagger",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldItem

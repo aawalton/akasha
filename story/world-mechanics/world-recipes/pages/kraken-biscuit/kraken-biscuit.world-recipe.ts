@@ -5,5 +5,5 @@ export const krakenBiscuit = {
   pageTypeSlug: "world-recipe",
   slug: "kraken-biscuit",
   title: "Kraken Biscuit",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldRecipe

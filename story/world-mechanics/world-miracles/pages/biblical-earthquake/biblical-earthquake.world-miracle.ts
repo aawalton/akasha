@@ -5,5 +5,5 @@ export const biblicalEarthquake = {
   pageTypeSlug: "world-miracle",
   slug: "biblical-earthquake",
   title: "Biblical Earthquake",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

@@ -5,5 +5,5 @@ export const thePaintedFolk = {
   pageTypeSlug: "world-religion",
   slug: "the-painted-folk",
   title: "The Painted Folk",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldReligion

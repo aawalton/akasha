@@ -5,6 +5,6 @@ export const againAndAgainAndEverAgain = {
   pageTypeSlug: "world-skill",
   slug: "again-and-again-and-ever-again",
   title: "Again, and Again, and Ever Again",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

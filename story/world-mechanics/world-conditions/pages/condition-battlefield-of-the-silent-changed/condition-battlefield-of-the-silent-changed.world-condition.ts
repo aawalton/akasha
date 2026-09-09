@@ -5,6 +5,6 @@ export const conditionBattlefieldOfTheSilentChanged = {
   pageTypeSlug: "world-condition",
   slug: "condition-battlefield-of-the-silent-changed",
   title: "Condition – Battlefield of the Silent Changed.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

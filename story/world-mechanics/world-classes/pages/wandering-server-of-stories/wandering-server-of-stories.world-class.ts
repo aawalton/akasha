@@ -5,7 +5,7 @@ export const wanderingServerOfStories = {
   pageTypeSlug: "world-class",
   slug: "wandering-server-of-stories",
   title: "Wandering Server of Stories",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["head-server-of-tales-and-fables"],
   references: "jsonl",
 } as const satisfies WorldClass

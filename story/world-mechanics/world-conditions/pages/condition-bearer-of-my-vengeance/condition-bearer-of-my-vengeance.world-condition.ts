@@ -5,6 +5,6 @@ export const conditionBearerOfMyVengeance = {
   pageTypeSlug: "world-condition",
   slug: "condition-bearer-of-my-vengeance",
   title: "Condition: Bearer of My Vengeance",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldCondition

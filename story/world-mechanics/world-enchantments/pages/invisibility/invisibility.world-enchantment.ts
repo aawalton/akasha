@@ -5,5 +5,5 @@ export const invisibility = {
   pageTypeSlug: "world-enchantment",
   slug: "invisibility",
   title: "Invisibility",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldEnchantment

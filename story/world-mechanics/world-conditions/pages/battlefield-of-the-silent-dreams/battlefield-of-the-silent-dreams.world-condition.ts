@@ -5,5 +5,5 @@ export const battlefieldOfTheSilentDreams = {
   pageTypeSlug: "world-condition",
   slug: "battlefield-of-the-silent-dreams",
   title: "Battlefield of the Silent (Dreams)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCondition

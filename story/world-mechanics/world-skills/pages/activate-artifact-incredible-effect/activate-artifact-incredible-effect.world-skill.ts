@@ -5,6 +5,6 @@ export const activateArtifactIncredibleEffect = {
   pageTypeSlug: "world-skill",
   slug: "activate-artifact-incredible-effect",
   title: "Activate Artifact: Incredible Effect",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

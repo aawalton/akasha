@@ -5,6 +5,6 @@ export const stringOfFate = {
   pageTypeSlug: "world-item",
   slug: "string-of-fate",
   title: "String of Fate",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldItem

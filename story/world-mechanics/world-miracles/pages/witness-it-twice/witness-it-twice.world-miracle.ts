@@ -5,5 +5,5 @@ export const witnessItTwice = {
   pageTypeSlug: "world-miracle",
   slug: "witness-it-twice",
   title: "Witness It, Twice",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldMiracle

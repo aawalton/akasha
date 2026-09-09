@@ -5,5 +5,5 @@ export const royalQuest = {
   pageTypeSlug: "world-quest",
   slug: "royal-quest",
   title: "Royal Quest",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldQuest
