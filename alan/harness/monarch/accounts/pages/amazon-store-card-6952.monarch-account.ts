@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
 
 export const amazonStoreCard6952 = {
   id: "01a06559-5ea8-7004-b142-39ece4c266e4",

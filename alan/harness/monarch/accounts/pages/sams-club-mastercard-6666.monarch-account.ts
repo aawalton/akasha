@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
 
 export const samsClubMastercard6666 = {
   id: "01a06559-5ea8-7015-810c-3440ad3ae8e4",

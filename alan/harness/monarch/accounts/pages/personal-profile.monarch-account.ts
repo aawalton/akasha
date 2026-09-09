@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
 
 export const personalProfile = {
   id: "01a06559-5ea8-7013-832c-a432c9370260",

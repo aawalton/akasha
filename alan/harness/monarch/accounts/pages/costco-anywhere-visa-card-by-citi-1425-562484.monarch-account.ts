@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
 
 export const costcoAnywhereVisaCardByCiti1425562484 = {
   id: "01a06559-5ea8-700c-86cd-a01381071eb9",
