@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const mathematicalBrainTeasersAndLogicPuzzles = {
   id: "019db533-f3a0-72b2-b884-9bcc52d40065",

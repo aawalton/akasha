@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const masteringDifferentialEquationsTheVisualMethod = {
   id: "019db533-f3a0-77f1-86c2-e2136991d5e4",

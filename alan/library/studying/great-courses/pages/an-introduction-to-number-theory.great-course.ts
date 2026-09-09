@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const anIntroductionToNumberTheory = {
   id: "019db533-f3a0-7a38-bde8-bfebfea94124",

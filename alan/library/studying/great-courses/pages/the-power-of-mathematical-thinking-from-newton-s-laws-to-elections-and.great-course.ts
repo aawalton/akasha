@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const thePowerOfMathematicalThinkingFromNewtonSLawsToElectionsAnd = {
   id: "019db533-f3a0-76b3-857f-9390c64ed241",

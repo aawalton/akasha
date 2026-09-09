@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const understandingMultivariableCalculusProblemsSolutionsAndTips = {
   id: "019db533-f3a0-7218-8f96-9900dcf07bf8",

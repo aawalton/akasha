@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const pilotLectureHowToUseProbabilityToWinGamesOfStrategy = {
   id: "019db533-f3a0-775d-b23b-0ec345ea9ca0",

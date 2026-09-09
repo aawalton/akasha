@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theSecretsOfMentalMath = {
   id: "019db533-f3a0-7264-a510-e706c5fe6895",
