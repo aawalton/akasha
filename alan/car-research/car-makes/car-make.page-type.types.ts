@@ -1,4 +1,4 @@
-import type { Car } from "../cars/car.page-type.ts"
+import type { Car } from "../cars/car.page-type.types.ts"
 import type { ChargingNetworkAccess } from "./properties/charging-network-access.text-property.ts"
 import type { Country } from "./properties/country.text-property.ts"
 import type { DrmPolicy } from "./properties/drm-policy.text-property.ts"

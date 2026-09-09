@@ -1,16 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { ExclusionReason } from "./properties/exclusion-reason.text-property.ts"
-import type { ShortList } from "./properties/short-list.boolean-property.ts"
-import type { Sources } from "./properties/sources.text-property.ts"
-
-export type Car = Page & {
-  title: Title
-  shortList?: ShortList
-  sources?: Sources
-  exclusionReason?: ExclusionReason
-}
 
 export const car = {
   id: "01a065a0-0000-7000-8000-000000000401",
@@ -41,4 +29,5 @@ export const car = {
       statement: "No page is a car itself.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

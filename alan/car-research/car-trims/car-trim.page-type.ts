@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.ts"
+import type { Car } from "../cars/car.page-type.types.ts"
 import type { CarYear } from "./properties/car-year.relation-property.ts"
 
 export type CarTrim = Car & {

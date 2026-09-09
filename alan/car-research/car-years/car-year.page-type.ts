@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.ts"
+import type { Car } from "../cars/car.page-type.types.ts"
 import type { CarModel } from "./properties/car-model.relation-property.ts"
 import type { ModelYear } from "./properties/model-year.number-property.ts"
 import type { RefreshNotes } from "./properties/refresh-notes.text-property.ts"
