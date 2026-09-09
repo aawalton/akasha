@@ -53,6 +53,15 @@ export const spacingStepping = {
     },
     {
       invariantKind: "departure",
+      statement: "What is written again is answered as a change rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that is not there yet is answered as an addition rather than a replacement.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file already with the body that would be written again is left alone.",
     },
     {

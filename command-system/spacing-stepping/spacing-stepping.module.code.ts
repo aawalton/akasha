@@ -1,10 +1,10 @@
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { textOf } from "@akasha/code/body-text"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { textAt } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const STYLESHEET = "stylesheet"
 
@@ -26,7 +26,7 @@ export type Step = {
 }
 
 export type Stepped = {
-  readonly edits: readonly FileEdit[]
+  readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }
 
@@ -77,9 +77,14 @@ export function steppedOver(change: Change, shadow: Shadow): Stepped {
   const steps = stepsIn(css)
   if (steps.length === 0) return NOTHING_STEPPED
   const body = bodyFor(steps)
-  if (textOf(change.after(writtenAt)) === body) return NOTHING_STEPPED
+  const was = textOf(change.after(writtenAt))
+  if (was === body) return NOTHING_STEPPED
   return {
-    edits: [{ path: writtenAt, body: new TextEncoder().encode(body) }],
+    edits: [
+      was === null
+        ? { kind: "add", path: writtenAt, content: body }
+        : { kind: "replace", path: writtenAt, contentFrom: was, contentTo: body },
+    ],
     said: [
       `\`${writtenAt}\` was written again from the ${steps.length} spacing steps \`${readFrom}\` states`,
     ],

@@ -1,3 +1,4 @@
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
@@ -34,6 +35,15 @@ export function formattingIn(root: string, changes: readonly FileEdit[]): Format
   return { changes: held, formatted }
 }
 
+const BYTES = new TextEncoder()
+
+function bodiedFrom(rows: readonly (Adding | Replacing)[]): readonly FileEdit[] {
+  return rows.map((one) => ({
+    path: one.path,
+    body: BYTES.encode(one.kind === "add" ? one.content : one.contentTo),
+  }))
+}
+
 export type Prepared = {
   readonly formatting: Formatting
   readonly changes: readonly FileEdit[]
@@ -60,7 +70,7 @@ export function preparing(
     ...locking.edits,
     ...worked.edits,
     ...mapped.edits,
-    ...stepped.edits,
+    ...bodiedFrom(stepped.edits),
     ...globbed.edits,
   ]
   return {
