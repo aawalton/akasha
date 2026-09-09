@@ -5,7 +5,7 @@ export const savageDivinity0448AnnouncingTheSavageDivinityManga = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0448-announcing-the-savage-divinity-manga",
   title: "Announcing the Savage Divinity Manga!",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 448,
   ownLength: 213,
   unitSlug: "words",

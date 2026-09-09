@@ -5,7 +5,7 @@ export const savageDivinity0563Chapter556Compromise = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0563-chapter-556-compromise",
   title: "Chapter 556 : Compromise",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 563,
   ownLength: 5448,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const savageDivinity0325SavageDivinityTheFinalChapterAprilFoolsJoke = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0325-savage-divinity-the-final-chapter-april-fools-joke",
   title: "Savage Divinity - The Final Chapter April Fools Joke",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 325,
   ownLength: 2357,
   unitSlug: "words",

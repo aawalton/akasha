@@ -5,7 +5,7 @@ export const savageDivinity0373HateToDoThisToYouAllButItMustBeDone = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0373-hate-to-do-this-to-you-all-but-it-must-be-done",
   title: "Hate to do this to you all, but it must be done.",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 373,
   ownLength: 172,
   unitSlug: "words",

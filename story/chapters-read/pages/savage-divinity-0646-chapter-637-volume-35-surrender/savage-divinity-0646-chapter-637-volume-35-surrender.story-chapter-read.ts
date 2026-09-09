@@ -5,7 +5,7 @@ export const savageDivinity0646Chapter637Volume35Surrender = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0646-chapter-637-volume-35-surrender",
   title: "Chapter 637: Volume 35 - Surrender",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 646,
   ownLength: 8198,
   unitSlug: "words",
