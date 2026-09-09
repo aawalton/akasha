@@ -7,7 +7,7 @@ import { canonicalize } from "../repo-path/repo-path.module.code.ts"
 
 export const AKASHA = "akasha"
 
-const REPO_PAGES = "infrastructure/repos/pages"
+const REPO_PAGES = "infrastructure/git-repos/repos/pages"
 
 const REPO_ENDING = "-repo"
 
