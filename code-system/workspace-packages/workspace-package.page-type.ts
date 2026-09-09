@@ -16,7 +16,7 @@ export const workspacePackage = {
   id: "01a05891-1ea4-7c85-947f-8f033081b276",
   pageTypeSlug: "page-type",
   slug: "workspace-package",
-  definition: "a domain the workspace installs as one",
+  definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
   partSlugs: [
     "named-file-property/dockerfile-extensions",
@@ -68,18 +68,6 @@ export const workspacePackage = {
     {
       invariantKind: "gap",
       statement: "The workspace installs every package the tree has.",
-    },
-  ],
-  directives: [
-    {
-      directiveKind: "rule",
-      name: "Earn The Manifest",
-      act: "Make a folder a workspace package only when a tool must read what it needs.",
-      warrant: "A manifest costs upkeep on every change and buys nothing until something reads it.",
-      aids: [
-        "Importing it by name is not a tool reading it.",
-        "A boundary is a check's job, not a manifest's.",
-      ],
     },
   ],
 } as const satisfies PageType
