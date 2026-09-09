@@ -5,7 +5,7 @@ export const bewareOfChicken0187MerryChristmas = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0187-merry-christmas",
   title: "Merry Christmas!",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 187,
   ownLength: 88,
   ownProgress: 88,

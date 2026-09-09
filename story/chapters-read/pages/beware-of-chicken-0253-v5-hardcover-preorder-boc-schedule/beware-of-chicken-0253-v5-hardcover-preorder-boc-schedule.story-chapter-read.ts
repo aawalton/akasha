@@ -5,7 +5,7 @@ export const bewareOfChicken0253V5HardcoverPreorderBocSchedule = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0253-v5-hardcover-preorder-boc-schedule",
   title: "V5 Hardcover Preorder+BOC schedule",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 253,
   ownLength: 70,
   ownProgress: 70,

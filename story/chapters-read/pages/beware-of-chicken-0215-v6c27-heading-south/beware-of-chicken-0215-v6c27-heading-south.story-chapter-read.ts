@@ -5,7 +5,7 @@ export const bewareOfChicken0215V6c27HeadingSouth = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0215-v6c27-heading-south",
   title: "v6c27: Heading South",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 215,
   ownLength: 2077,
   ownProgress: 2077,

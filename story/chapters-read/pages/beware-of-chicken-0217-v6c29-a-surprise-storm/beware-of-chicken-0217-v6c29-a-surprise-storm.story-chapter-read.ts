@@ -5,7 +5,7 @@ export const bewareOfChicken0217V6c29ASurpriseStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0217-v6c29-a-surprise-storm",
   title: "v6c29: A Surprise Storm",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 217,
   ownLength: 2478,
   ownProgress: 2478,

@@ -5,7 +5,7 @@ export const bewareOfChicken0271V7c18SongOfTheForge = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0271-v7c18-song-of-the-forge",
   title: "v7c18: Song of the Forge",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 271,
   ownLength: 3034,
   ownProgress: 3034,

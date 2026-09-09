@@ -5,7 +5,7 @@ export const bewareOfChicken0222ComicTwoKindsOfImmortality = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0222-comic-two-kinds-of-immortality",
   title: "Comic: Two Kinds of Immortality",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 222,
   ownLength: 152,
   ownProgress: 152,

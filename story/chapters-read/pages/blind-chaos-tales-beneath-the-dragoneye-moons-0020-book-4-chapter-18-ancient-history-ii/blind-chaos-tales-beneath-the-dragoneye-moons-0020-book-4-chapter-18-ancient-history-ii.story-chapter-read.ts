@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0020Book4Chapter18AncientHis
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0020-book-4-chapter-18-ancient-history-ii",
   title: "Book 4 - Chapter 18 - Ancient History II",
-  partOfCollectionSlugs: ["blind-chaos-tales-beneath-the-dragoneye-moons"],
+  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 20,
   ownLength: 3900,
   unitSlug: "words",

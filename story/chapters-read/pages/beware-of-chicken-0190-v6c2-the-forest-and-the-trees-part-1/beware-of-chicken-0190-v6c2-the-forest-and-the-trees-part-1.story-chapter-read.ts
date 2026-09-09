@@ -5,7 +5,7 @@ export const bewareOfChicken0190V6c2TheForestAndTheTreesPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0190-v6c2-the-forest-and-the-trees-part-1",
   title: "v6c2: The Forest and the Trees Part 1",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 190,
   ownLength: 2115,
   ownProgress: 2115,

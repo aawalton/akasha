@@ -5,7 +5,7 @@ export const bewareOfChicken0211V6c23TogetherAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0211-v6c23-together-again",
   title: "v6c23: Together Again",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 211,
   ownLength: 2525,
   ownProgress: 2525,

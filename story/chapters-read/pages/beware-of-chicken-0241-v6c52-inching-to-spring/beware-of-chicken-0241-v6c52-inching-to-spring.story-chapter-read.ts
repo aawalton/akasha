@@ -5,7 +5,7 @@ export const bewareOfChicken0241V6c52InchingToSpring = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0241-v6c52-inching-to-spring",
   title: "v6c52: Inching to Spring",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 241,
   ownLength: 1996,
   ownProgress: 1996,

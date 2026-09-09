@@ -5,7 +5,7 @@ export const bewareOfChicken0262V7c9JoyousDaysAhead = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0262-v7c9-joyous-days-ahead",
   title: "v7c9: Joyous Days Ahead",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 262,
   ownLength: 2210,
   ownProgress: 2210,
