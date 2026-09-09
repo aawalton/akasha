@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { BytecodeDirectory } from "./properties/bytecode-directory.build-folder-property.ts"
-import type { Python } from "./properties/python.file-property.ts"
+import type { Python } from "./properties/python.code-file-property.ts"
 
 export type PythonModule = Domain & {
   python: Python
@@ -14,10 +14,10 @@ export const pythonModule = {
   slug: "python-module",
   definition: "code in the Python language",
   pluralSlug: "python-modules",
-  partSlugs: ["file-property/python", "build-folder-property/bytecode-directory"],
+  partSlugs: ["code-file-property/python", "build-folder-property/bytecode-directory"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/python", required: true, many: false },
+    { pagePropertySlug: "code-file-property/python", required: true, many: false },
     { pagePropertySlug: "build-folder-property/bytecode-directory", required: false, many: false },
   ],
   invariants: [
