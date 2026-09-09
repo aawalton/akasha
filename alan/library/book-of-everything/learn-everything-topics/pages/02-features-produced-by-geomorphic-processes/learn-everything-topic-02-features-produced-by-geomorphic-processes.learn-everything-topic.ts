@@ -8,5 +8,5 @@ export const learnEverythingTopic02FeaturesProducedByGeomorphicProcesses = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-surface-features"],
+  partOf: ["learn-everything-topic-03-surface-features"],
 } as const satisfies LearnEverythingTopic

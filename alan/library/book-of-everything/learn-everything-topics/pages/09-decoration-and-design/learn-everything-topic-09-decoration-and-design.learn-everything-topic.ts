@@ -8,5 +8,5 @@ export const learnEverythingTopic09DecorationAndDesign = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+  partOf: ["learn-everything-topic-02-particular-arts"],
 } as const satisfies LearnEverythingTopic

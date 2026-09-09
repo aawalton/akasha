@@ -8,7 +8,7 @@ export const learnEverythingTopic06AztecMexicaAndTheSpanishConquest = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
+  partOf: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
   calibration: -1,
   frontier: "md",
   integration: "md",

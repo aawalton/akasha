@@ -8,5 +8,5 @@ export const learnEverythingTopic03MajorCulturalComponentsAndInstitutionsOfSocie
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
+  partOf: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
 } as const satisfies LearnEverythingTopic

@@ -1,7 +1,7 @@
 import type { Reach, Work } from "@akasha/pages/computed-property"
 import type { WorkedLearnEverythingTopic } from "../learn-everything-topic.page-type.worked.ts"
 
-const UNDER = "topic-part-of-slugs"
+const UNDER = "topic-part-of"
 
 type Beneath = { readonly coverage?: number }
 

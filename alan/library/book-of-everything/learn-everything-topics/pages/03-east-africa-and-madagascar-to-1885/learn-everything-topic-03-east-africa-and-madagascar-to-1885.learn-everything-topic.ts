@@ -8,5 +8,5 @@ export const learnEverythingTopic03EastAfricaAndMadagascarTo1885 = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-04-sub-saharan-africa-to-1885"],
+  partOf: ["learn-everything-topic-04-sub-saharan-africa-to-1885"],
 } as const satisfies LearnEverythingTopic

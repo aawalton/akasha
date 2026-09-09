@@ -8,5 +8,5 @@ export const learnEverythingTopic02BranchesOfPublicLawSubstantiveAndProcedural =
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-05-law"],
+  partOf: ["learn-everything-topic-05-law"],
 } as const satisfies LearnEverythingTopic

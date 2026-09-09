@@ -8,5 +8,5 @@ export const learnEverythingTopic04TheBehaviorOfOrganisms = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-life-on-earth"],
+  partOf: ["learn-everything-topic-03-life-on-earth"],
 } as const satisfies LearnEverythingTopic

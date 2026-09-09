@@ -8,5 +8,5 @@ export const learnEverythingTopic02FormalLogicMetalogicAppliedLogic = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-logic"],
+  partOf: ["learn-everything-topic-01-logic"],
 } as const satisfies LearnEverythingTopic

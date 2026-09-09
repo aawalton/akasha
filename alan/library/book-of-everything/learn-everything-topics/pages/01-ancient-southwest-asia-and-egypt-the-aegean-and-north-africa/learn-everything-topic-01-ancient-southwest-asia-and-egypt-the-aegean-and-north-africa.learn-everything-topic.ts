@@ -8,7 +8,7 @@ export const learnEverythingTopic01AncientSouthwestAsiaAndEgyptTheAegeanAndNorth
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],
+  partOf: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],
   calibration: 0,
   frontier: "md",
   integration: "md",

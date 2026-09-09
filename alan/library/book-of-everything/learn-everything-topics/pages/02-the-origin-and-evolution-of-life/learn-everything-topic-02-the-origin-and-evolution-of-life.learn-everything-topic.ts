@@ -8,5 +8,5 @@ export const learnEverythingTopic02TheOriginAndEvolutionOfLife = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-the-nature-and-diversity-of-life"],
+  partOf: ["learn-everything-topic-01-the-nature-and-diversity-of-life"],
 } as const satisfies LearnEverythingTopic

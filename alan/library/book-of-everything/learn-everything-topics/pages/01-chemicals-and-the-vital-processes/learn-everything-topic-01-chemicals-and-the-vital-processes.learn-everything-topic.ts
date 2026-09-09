@@ -8,5 +8,5 @@ export const learnEverythingTopic01ChemicalsAndTheVitalProcesses = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-the-molecular-basis-of-life"],
+  partOf: ["learn-everything-topic-02-the-molecular-basis-of-life"],
 } as const satisfies LearnEverythingTopic

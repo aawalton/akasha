@@ -8,5 +8,5 @@ export const learnEverythingTopic03CoordinationOfVitalProcessesRegulationAndInte
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+  partOf: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
 } as const satisfies LearnEverythingTopic

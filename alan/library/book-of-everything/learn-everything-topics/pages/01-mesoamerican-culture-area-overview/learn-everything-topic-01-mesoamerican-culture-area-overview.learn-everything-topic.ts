@@ -8,7 +8,7 @@ export const learnEverythingTopic01MesoamericanCultureAreaOverview = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
+  partOf: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
   frontier: "md",
   bites: "md",
 } as const satisfies LearnEverythingTopic

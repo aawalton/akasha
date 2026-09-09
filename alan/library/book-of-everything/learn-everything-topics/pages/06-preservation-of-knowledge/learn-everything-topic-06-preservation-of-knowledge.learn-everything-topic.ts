@@ -8,5 +8,5 @@ export const learnEverythingTopic06PreservationOfKnowledge = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],
+  partOf: ["learn-everything-topic-10-the-branches-of-knowledge"],
 } as const satisfies LearnEverythingTopic

@@ -8,7 +8,7 @@ export const learnEverythingTopic01HistoryAndFoundationsOfMathematics = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-mathematics"],
+  partOf: ["learn-everything-topic-02-mathematics"],
   calibration: 0,
   frontier: "md",
   integration: "md",

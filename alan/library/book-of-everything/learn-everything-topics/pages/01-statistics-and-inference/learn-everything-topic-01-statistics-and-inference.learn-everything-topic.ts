@@ -8,6 +8,6 @@ export const learnEverythingTopic01StatisticsAndInference = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],
+  partOf: ["learn-everything-topic-03-applications-of-mathematics"],
   integration: "md",
 } as const satisfies LearnEverythingTopic

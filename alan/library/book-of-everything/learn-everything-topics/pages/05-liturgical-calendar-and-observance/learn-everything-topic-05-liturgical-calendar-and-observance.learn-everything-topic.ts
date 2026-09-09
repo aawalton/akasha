@@ -8,7 +8,7 @@ export const learnEverythingTopic05LiturgicalCalendarAndObservance = {
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
+  partOf: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
   calibration: 0,
   frontier: "md",
   integration: "md",

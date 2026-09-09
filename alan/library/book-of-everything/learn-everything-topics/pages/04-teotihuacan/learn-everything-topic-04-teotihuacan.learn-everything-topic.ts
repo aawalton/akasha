@@ -8,7 +8,7 @@ export const learnEverythingTopic04Teotihuacan = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
+  partOf: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
   calibration: 0,
   frontier: "md",
   integration: "md",

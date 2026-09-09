@@ -8,5 +8,5 @@ export const learnEverythingTopic01HumanEvolution = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-the-development-of-human-life"],
+  partOf: ["learn-everything-topic-01-the-development-of-human-life"],
 } as const satisfies LearnEverythingTopic

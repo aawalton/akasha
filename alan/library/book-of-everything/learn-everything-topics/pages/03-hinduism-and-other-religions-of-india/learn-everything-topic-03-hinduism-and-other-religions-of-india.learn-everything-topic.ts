@@ -8,7 +8,7 @@ export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
   masteryLevel: "mastery-level/student",
   scoredOn: "2026-06-23",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-02-particular-religions"],
+  partOf: ["learn-everything-topic-02-particular-religions"],
   calibration: 0,
   frontier: "md",
   integration: "md",

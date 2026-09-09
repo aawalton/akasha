@@ -8,7 +8,7 @@ export const learnEverythingTopic03TechnologyOfMeasurementObservationAndControl 
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],
+  partOf: ["learn-everything-topic-02-elements-of-technology"],
   calibration: 0,
   frontier: "md",
   integration: "md",

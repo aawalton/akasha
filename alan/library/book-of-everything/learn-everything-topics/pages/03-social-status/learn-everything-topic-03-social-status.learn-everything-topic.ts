@@ -8,5 +8,5 @@ export const learnEverythingTopic03SocialStatus = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],
+  partOf: ["learn-everything-topic-02-social-organization-and-social-change"],
 } as const satisfies LearnEverythingTopic

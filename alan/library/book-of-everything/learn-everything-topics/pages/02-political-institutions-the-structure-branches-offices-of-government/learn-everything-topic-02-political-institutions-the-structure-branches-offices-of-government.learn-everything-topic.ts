@@ -8,5 +8,5 @@ export const learnEverythingTopic02PoliticalInstitutionsTheStructureBranchesOffi
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-04-politics-and-government"],
+  partOf: ["learn-everything-topic-04-politics-and-government"],
 } as const satisfies LearnEverythingTopic

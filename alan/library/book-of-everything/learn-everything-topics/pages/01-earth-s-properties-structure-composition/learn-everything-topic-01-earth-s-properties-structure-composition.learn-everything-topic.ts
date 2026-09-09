@@ -8,5 +8,5 @@ export const learnEverythingTopic01EarthSPropertiesStructureComposition = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-the-earth"],
+  partOf: ["learn-everything-topic-02-the-earth"],
 } as const satisfies LearnEverythingTopic

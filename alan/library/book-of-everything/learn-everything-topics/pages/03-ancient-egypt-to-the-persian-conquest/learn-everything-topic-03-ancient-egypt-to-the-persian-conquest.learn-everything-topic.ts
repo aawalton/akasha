@@ -8,7 +8,7 @@ export const learnEverythingTopic03AncientEgyptToThePersianConquest = {
   masteryLevel: "mastery-level/student",
   scoredOn: "2026-09-06",
   status: "resting",
-  partOfSlugs: [
+  partOf: [
     "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
   ],
   frontier: "md",

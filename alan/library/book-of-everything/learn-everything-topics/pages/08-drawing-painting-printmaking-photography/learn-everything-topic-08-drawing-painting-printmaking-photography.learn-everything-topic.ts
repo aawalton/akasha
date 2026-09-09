@@ -8,7 +8,7 @@ export const learnEverythingTopic08DrawingPaintingPrintmakingPhotography = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+  partOf: ["learn-everything-topic-02-particular-arts"],
   calibration: -2,
   frontier: "md",
   integration: "md",

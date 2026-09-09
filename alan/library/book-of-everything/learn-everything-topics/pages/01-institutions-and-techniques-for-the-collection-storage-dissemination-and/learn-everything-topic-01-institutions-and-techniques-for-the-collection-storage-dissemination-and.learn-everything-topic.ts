@@ -9,5 +9,5 @@ export const learnEverythingTopic01InstitutionsAndTechniquesForTheCollectionStor
     masteryLevel: "mastery-level/novice",
     scoredOn: "2026-06-19",
     status: "unopened",
-    partOfSlugs: ["learn-everything-topic-06-preservation-of-knowledge"],
+    partOf: ["learn-everything-topic-06-preservation-of-knowledge"],
   } as const satisfies LearnEverythingTopic

@@ -8,7 +8,7 @@ export const learnEverythingTopic03StructureAndCompositionOfTheEarthSInterior = 
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-01-earth-s-properties-structure-composition"],
+  partOf: ["learn-everything-topic-01-earth-s-properties-structure-composition"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

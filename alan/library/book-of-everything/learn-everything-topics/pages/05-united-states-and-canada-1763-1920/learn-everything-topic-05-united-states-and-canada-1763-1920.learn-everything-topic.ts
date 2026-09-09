@@ -8,5 +8,5 @@ export const learnEverythingTopic05UnitedStatesAndCanada17631920 = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+  partOf: ["learn-everything-topic-06-the-modern-world-to-1920"],
 } as const satisfies LearnEverythingTopic

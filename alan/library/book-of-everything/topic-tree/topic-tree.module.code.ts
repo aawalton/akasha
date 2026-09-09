@@ -54,8 +54,6 @@ function parentIn(said: unknown): string | null {
   return typeof first === "string" ? first : null
 }
 
-// COVERAGE IS WORKED OUT RATHER THAN STORED, SO THE ROWS COME FROM `asking`. A path is no key a
-// row carries, so the paths a topic sorts and reports by are read from the index alongside.
 function pathsIn(root: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const one of valuesOfType(root, TOPIC)) {
@@ -82,7 +80,7 @@ export function rowsIn(root: string): readonly Row[] {
         label: typeof label === "string" ? label : slug,
         coverage: numberOf(held["coverage"]),
         status: statusOf(held["status"]),
-        parent: parentIn(held["partOfSlugs"]),
+        parent: parentIn(held["partOf"]),
       },
     ]
   })

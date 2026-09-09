@@ -8,5 +8,5 @@ export const learnEverythingTopic01TheAtmosphere = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-earth-s-envelope"],
+  partOf: ["learn-everything-topic-02-earth-s-envelope"],
 } as const satisfies LearnEverythingTopic

@@ -8,7 +8,7 @@ export const learnEverythingTopic02FoundationsPrograms = {
   masteryLevel: "mastery-level/student",
   scoredOn: "2026-07-08",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],
+  partOf: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],
   calibrationRead:
     'Spontaneous self-read only (no rating asked, per continuing steer). Opened overconfident — "this part is easy, went deep here" — then redrew accurately to "this is my frontier" under the first reconstruction probe. Well-calibrated once tested; the opening headline-confidence exceeded the structure actually held.',
   frontier: "md",

@@ -8,5 +8,5 @@ export const learnEverythingTopic03TheProductionDistributionAndUtilizationOfWeal
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-05-human-society"],
+  partOf: ["learn-everything-topic-05-human-society"],
 } as const satisfies LearnEverythingTopic

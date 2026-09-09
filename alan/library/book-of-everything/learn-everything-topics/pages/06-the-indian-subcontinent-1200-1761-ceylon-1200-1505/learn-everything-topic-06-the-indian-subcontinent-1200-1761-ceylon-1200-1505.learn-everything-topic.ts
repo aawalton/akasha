@@ -8,5 +8,5 @@ export const learnEverythingTopic06TheIndianSubcontinent12001761Ceylon12001505 =
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+  partOf: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
 } as const satisfies LearnEverythingTopic

@@ -2,13 +2,13 @@ import type { Slug } from "@akasha/pages/page/slug"
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type TopicPartOfSlugs = List<Slug>
+export type TopicPartOf = List<Slug>
 
-export const topicPartOfSlugs = {
+export const topicPartOf = {
   id: "01a0659f-93da-700f-8f41-8714236db415",
   pageTypeSlug: "relation-property",
-  slug: "topic-part-of-slugs",
-  propertySlug: "part-of-slugs",
+  slug: "topic-part-of",
+  propertySlug: "part-of",
   definition: "the topics a topic sits under",
   targetPageTypeSlug: "page-type/learn-everything-topic",
   invariants: [

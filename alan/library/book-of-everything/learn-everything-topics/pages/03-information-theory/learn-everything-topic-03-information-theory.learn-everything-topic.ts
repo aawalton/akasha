@@ -8,7 +8,7 @@ export const learnEverythingTopic03InformationTheory = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],
+  partOf: ["learn-everything-topic-03-applications-of-mathematics"],
   calibration: 0,
   frontier: "md",
   integration: "md",

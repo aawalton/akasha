@@ -8,7 +8,7 @@ export const learnEverythingTopic10GameDesign = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-25",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+  partOf: ["learn-everything-topic-02-particular-arts"],
   calibration: -2,
   capture: {
     captureSource: "aura-game-design-session-4a6053f1",

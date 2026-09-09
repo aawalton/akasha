@@ -8,7 +8,7 @@ export const learnEverythingTopic02ReligiousLifeInstitutionsAndPractices = {
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-01-religion-in-general"],
+  partOf: ["learn-everything-topic-01-religion-in-general"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

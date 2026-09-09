@@ -8,7 +8,7 @@ export const learnEverythingTopic01PoliticalTheory = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-04-politics-and-government"],
+  partOf: ["learn-everything-topic-04-politics-and-government"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

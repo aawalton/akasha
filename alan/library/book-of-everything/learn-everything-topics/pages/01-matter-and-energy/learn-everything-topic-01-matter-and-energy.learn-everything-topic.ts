@@ -8,5 +8,5 @@ export const learnEverythingTopic01MatterAndEnergy = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["profile"],
+  partOf: ["profile"],
 } as const satisfies LearnEverythingTopic

@@ -8,5 +8,5 @@ export const learnEverythingTopic05ChinaInRevolutionJapaneseHegemony = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],
+  partOf: ["learn-everything-topic-07-the-world-since-1920"],
 } as const satisfies LearnEverythingTopic

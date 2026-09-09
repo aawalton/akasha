@@ -8,5 +8,5 @@ export const learnEverythingTopic02GalaxiesAndStars = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-the-universe"],
+  partOf: ["learn-everything-topic-03-the-universe"],
 } as const satisfies LearnEverythingTopic

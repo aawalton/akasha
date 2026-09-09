@@ -8,5 +8,5 @@ export const learnEverythingTopic06MilitaryTechnology = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+  partOf: ["learn-everything-topic-03-fields-of-technology"],
 } as const satisfies LearnEverythingTopic

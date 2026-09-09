@@ -8,5 +8,5 @@ export const learnEverythingTopic03ErasAndPeriodsOfGeologicTime = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-04-earth-s-history"],
+  partOf: ["learn-everything-topic-04-earth-s-history"],
 } as const satisfies LearnEverythingTopic

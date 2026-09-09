@@ -8,5 +8,5 @@ export const learnEverythingTopic05TechnologyOfIndustrialProductionProcesses = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],
+  partOf: ["learn-everything-topic-02-elements-of-technology"],
 } as const satisfies LearnEverythingTopic

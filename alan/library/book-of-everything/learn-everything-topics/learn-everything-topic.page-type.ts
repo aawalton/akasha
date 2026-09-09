@@ -10,7 +10,7 @@ import type { TopicCapture } from "./properties/topic-capture.record-property.ts
 import type { TopicEvidence } from "./properties/topic-evidence.file-property.ts"
 import type { TopicMasteryLevel } from "./properties/topic-mastery-level.relation-property.ts"
 import type { TopicNode } from "./properties/topic-node.text-property.ts"
-import type { TopicPartOfSlugs } from "./properties/topic-part-of-slugs.relation-property.ts"
+import type { TopicPartOf } from "./properties/topic-part-of.relation-property.ts"
 import type { TopicScoredOn } from "./properties/topic-scored-on.calendar-date-property.ts"
 import type { TopicStatus } from "./properties/topic-status.select-property.ts"
 
@@ -19,7 +19,7 @@ export type LearnEverythingTopic = Page & {
   masteryLevel: TopicMasteryLevel
   scoredOn: TopicScoredOn
   status: TopicStatus
-  partOfSlugs?: TopicPartOfSlugs
+  partOf?: TopicPartOf
   calibration?: TopicCalibration
   calibrationRead?: TopicCalibrationRead
   capture?: TopicCapture
@@ -50,7 +50,7 @@ export const learnEverythingTopic = {
     "number-property/topic-calibration",
     "record-property/topic-capture",
     "relation-property/topic-mastery-level",
-    "relation-property/topic-part-of-slugs",
+    "relation-property/topic-part-of",
     "select-property/topic-status",
     "text-property/capture-source",
     "text-property/topic-calibration-read",
@@ -68,7 +68,7 @@ export const learnEverythingTopic = {
     { pagePropertySlug: "calendar-date-property/topic-scored-on", required: true, many: false },
     { pagePropertySlug: "select-property/topic-status", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/topic-part-of-slugs",
+      pagePropertySlug: "relation-property/topic-part-of",
       required: false,
       many: true,
       maxCount: null,

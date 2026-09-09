@@ -8,6 +8,6 @@ export const learnEverythingTopic02AtomicNucleiAndElementaryParticles = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-atoms"],
+  partOf: ["learn-everything-topic-01-atoms"],
   integration: "md",
 } as const satisfies LearnEverythingTopic

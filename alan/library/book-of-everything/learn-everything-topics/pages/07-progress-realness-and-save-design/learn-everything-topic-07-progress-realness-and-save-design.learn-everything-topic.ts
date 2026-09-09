@@ -8,7 +8,7 @@ export const learnEverythingTopic07ProgressRealnessAndSaveDesign = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-25",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-10-game-design"],
+  partOf: ["learn-everything-topic-10-game-design"],
   calibration: -2,
   capture: {
     captureSource: "aura-game-design-session-4a6053f1",

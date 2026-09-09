@@ -8,7 +8,7 @@ export const learnEverythingTopic07PlayGamesAndFun = {
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-25",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
+  partOf: ["learn-everything-topic-03-human-behavior-and-experience"],
   calibration: -1,
   capture: {
     captureSource: "aura-game-design-session-4a6053f1",

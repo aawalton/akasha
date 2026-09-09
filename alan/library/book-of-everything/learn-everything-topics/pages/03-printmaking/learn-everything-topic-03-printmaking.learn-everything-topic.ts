@@ -8,5 +8,5 @@ export const learnEverythingTopic03Printmaking = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-08-drawing-painting-printmaking-photography"],
+  partOf: ["learn-everything-topic-08-drawing-painting-printmaking-photography"],
 } as const satisfies LearnEverythingTopic

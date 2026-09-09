@@ -8,7 +8,7 @@ export const learnEverythingTopic08DevelopmentGrowthDifferentiationAndMorphogene
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-09-06",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+  partOf: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
   frontier: "md",
   bites: "md",
   topicEvidence: "md",

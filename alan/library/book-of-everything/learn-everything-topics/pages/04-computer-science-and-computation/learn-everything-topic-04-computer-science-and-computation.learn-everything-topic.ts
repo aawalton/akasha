@@ -8,5 +8,5 @@ export const learnEverythingTopic04ComputerScienceAndComputation = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],
+  partOf: ["learn-everything-topic-03-applications-of-mathematics"],
 } as const satisfies LearnEverythingTopic

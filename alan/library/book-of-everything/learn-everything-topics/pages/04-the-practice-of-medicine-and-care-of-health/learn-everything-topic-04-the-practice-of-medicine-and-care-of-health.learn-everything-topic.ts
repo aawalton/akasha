@@ -8,5 +8,5 @@ export const learnEverythingTopic04ThePracticeOfMedicineAndCareOfHealth = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-the-human-body-health-and-disease"],
+  partOf: ["learn-everything-topic-02-the-human-body-health-and-disease"],
 } as const satisfies LearnEverythingTopic

@@ -8,5 +8,5 @@ export const learnEverythingTopic01TechnologyItsScopeAndHistory = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-01-nature-development-of-technology"],
+  partOf: ["learn-everything-topic-01-nature-development-of-technology"],
 } as const satisfies LearnEverythingTopic

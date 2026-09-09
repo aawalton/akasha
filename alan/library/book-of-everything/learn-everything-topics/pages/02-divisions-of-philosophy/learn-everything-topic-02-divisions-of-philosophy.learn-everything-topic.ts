@@ -8,7 +8,7 @@ export const learnEverythingTopic02DivisionsOfPhilosophy = {
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-23",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-05-philosophy"],
+  partOf: ["learn-everything-topic-05-philosophy"],
   calibration: -1,
   frontier: "md",
   integration: "md",

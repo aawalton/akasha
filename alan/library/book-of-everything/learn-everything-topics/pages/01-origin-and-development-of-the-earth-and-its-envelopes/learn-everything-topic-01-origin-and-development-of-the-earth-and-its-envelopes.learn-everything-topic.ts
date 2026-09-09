@@ -8,7 +8,7 @@ export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-04-earth-s-history"],
+  partOf: ["learn-everything-topic-04-earth-s-history"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

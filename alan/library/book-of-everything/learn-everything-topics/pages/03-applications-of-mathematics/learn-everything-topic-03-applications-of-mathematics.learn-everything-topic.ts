@@ -8,7 +8,7 @@ export const learnEverythingTopic03ApplicationsOfMathematics = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-02-mathematics"],
+  partOf: ["learn-everything-topic-02-mathematics"],
   calibration: 0,
   frontier: "md",
   integration: "md",

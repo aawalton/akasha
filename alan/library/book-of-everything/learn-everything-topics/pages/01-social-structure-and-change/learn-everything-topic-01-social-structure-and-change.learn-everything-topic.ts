@@ -8,7 +8,7 @@ export const learnEverythingTopic01SocialStructureAndChange = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-06-23",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],
+  partOf: ["learn-everything-topic-02-social-organization-and-social-change"],
   calibration: -1,
   frontier: "md",
   integration: "md",

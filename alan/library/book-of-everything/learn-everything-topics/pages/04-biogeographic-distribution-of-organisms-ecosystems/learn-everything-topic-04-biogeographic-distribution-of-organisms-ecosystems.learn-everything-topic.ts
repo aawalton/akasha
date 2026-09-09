@@ -8,5 +8,5 @@ export const learnEverythingTopic04BiogeographicDistributionOfOrganismsEcosystem
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-05-the-biosphere"],
+  partOf: ["learn-everything-topic-05-the-biosphere"],
 } as const satisfies LearnEverythingTopic

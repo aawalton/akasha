@@ -8,5 +8,5 @@ export const learnEverythingTopic01ReligionInGeneral = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-08-religion"],
+  partOf: ["learn-everything-topic-08-religion"],
 } as const satisfies LearnEverythingTopic

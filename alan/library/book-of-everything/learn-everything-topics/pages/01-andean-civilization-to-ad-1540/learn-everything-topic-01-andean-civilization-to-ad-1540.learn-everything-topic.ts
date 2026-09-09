@@ -8,6 +8,6 @@ export const learnEverythingTopic01AndeanCivilizationToAd1540 = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-05-pre-columbian-america"],
+  partOf: ["learn-everything-topic-05-pre-columbian-america"],
   integration: "md",
 } as const satisfies LearnEverythingTopic

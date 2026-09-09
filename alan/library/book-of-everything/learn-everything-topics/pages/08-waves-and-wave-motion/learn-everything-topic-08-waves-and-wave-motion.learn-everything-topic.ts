@@ -8,7 +8,7 @@ export const learnEverythingTopic08WavesAndWaveMotion = {
   masteryLevel: "mastery-level/student",
   scoredOn: "2026-07-07",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+  partOf: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

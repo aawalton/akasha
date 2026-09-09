@@ -8,7 +8,7 @@ export const learnEverythingTopic03ChemicalReactions = {
   masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-09-06",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+  partOf: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
   frontier: "md",
   topicEvidence: "md",
 } as const satisfies LearnEverythingTopic

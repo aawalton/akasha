@@ -8,7 +8,7 @@ export const learnEverythingTopic03MotionPictures = {
   masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-23",
   status: "live",
-  partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+  partOf: ["learn-everything-topic-02-particular-arts"],
   calibration: -2,
   frontier: "md",
   integration: "md",

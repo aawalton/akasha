@@ -8,7 +8,7 @@ export const learnEverythingTopic01OriginsAndSourceCriticismOverview = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-21",
   status: "unopened",
-  partOfSlugs: [
+  partOf: [
     "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
   ],
   frontier: "md",

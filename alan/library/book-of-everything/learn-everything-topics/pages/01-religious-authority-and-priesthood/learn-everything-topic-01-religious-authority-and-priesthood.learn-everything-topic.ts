@@ -8,5 +8,5 @@ export const learnEverythingTopic01ReligiousAuthorityAndPriesthood = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
+  partOf: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
 } as const satisfies LearnEverythingTopic

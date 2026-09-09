@@ -8,5 +8,5 @@ export const learnEverythingTopic04CurrentInternalStatesAffectingAPersonBehavior
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
+  partOf: ["learn-everything-topic-03-human-behavior-and-experience"],
 } as const satisfies LearnEverythingTopic

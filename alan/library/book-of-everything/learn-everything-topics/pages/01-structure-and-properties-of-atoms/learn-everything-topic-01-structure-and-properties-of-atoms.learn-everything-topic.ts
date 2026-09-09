@@ -8,7 +8,7 @@ export const learnEverythingTopic01StructureAndPropertiesOfAtoms = {
   masteryLevel: "mastery-level/student",
   scoredOn: "2026-06-19",
   status: "resting",
-  partOfSlugs: ["learn-everything-topic-01-atoms"],
+  partOf: ["learn-everything-topic-01-atoms"],
   frontier: "md",
   integration: "md",
   misconceptions: "md",

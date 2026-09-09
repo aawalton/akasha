@@ -8,5 +8,5 @@ export const learnEverythingTopic01Historiography = {
   masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
-  partOfSlugs: ["learn-everything-topic-04-history-and-the-humanities"],
+  partOf: ["learn-everything-topic-04-history-and-the-humanities"],
 } as const satisfies LearnEverythingTopic
