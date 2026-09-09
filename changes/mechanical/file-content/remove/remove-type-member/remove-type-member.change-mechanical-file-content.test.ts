@@ -11,7 +11,7 @@ import {
 
 const AT = "held/one.page-type.ts"
 
-const MANIFEST_FROM = `import type { Manifest } from "./properties/manifest.named-file-property.ts"`
+const MANIFEST_FROM = `import type { Manifest } from "./properties/manifest.file-property.ts"`
 
 const WEB_FROM = `import type { WebDirectory } from "./properties/web-directory.build-folder-property.ts"`
 

@@ -10,7 +10,7 @@ const AT = "held/one.page-type.ts"
 
 const FROM = "./properties/web-directory.build-folder-property.ts"
 
-const HOLDING = `import type { Manifest } from "./properties/manifest.named-file-property.ts"
+const HOLDING = `import type { Manifest } from "./properties/manifest.file-property.ts"
 
 export type IosApp = WorkspacePackage & {
   manifest: Manifest
