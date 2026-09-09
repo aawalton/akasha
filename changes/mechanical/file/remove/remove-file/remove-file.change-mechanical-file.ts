@@ -6,7 +6,7 @@ export const removeFile = {
   slug: "remove-file",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one file taken away, with nothing else judged",
   code: "ts",
   test: "ts",

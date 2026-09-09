@@ -6,7 +6,7 @@ export const moveFilePage = {
   slug: "move-file-page",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-page",
+  changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page moved to another folder with every file that page keeps beside the page",
   code: "ts",
   test: "ts",

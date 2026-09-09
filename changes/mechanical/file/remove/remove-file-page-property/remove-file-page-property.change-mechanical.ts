@@ -6,7 +6,7 @@ export const removeFilePageProperty = {
   slug: "remove-file-page-property",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-page-property",
+  changeTargetSubtype: "change-target-subtype/file-page-property",
   definition: "one page property taken away with every file that property keeps beside it",
   code: "ts",
   test: "ts",

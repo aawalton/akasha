@@ -6,7 +6,7 @@ export const removeFileCode = {
   slug: "remove-file-code",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-code",
+  changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code file taken away, with the imports naming that file judged",
   code: "ts",
   test: "ts",

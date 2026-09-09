@@ -6,7 +6,7 @@ export const changeFileContentCode = {
   slug: "change-file-content-code",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "one passage of one code body replaced, with the imports that body names judged",
   code: "ts",
   test: "ts",

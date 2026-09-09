@@ -6,7 +6,7 @@ export const addPropertyToEveryPage = {
   slug: "add-property-to-every-page",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/page-type",
-  changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
+  changeTargetSubtype: "change-target-subtype/page-type-page-property",
   definition: "one value put under one key on every page of one page type",
   code: "ts",
   test: "ts",

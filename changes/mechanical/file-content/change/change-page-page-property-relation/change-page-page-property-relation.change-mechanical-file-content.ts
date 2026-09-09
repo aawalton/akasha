@@ -6,7 +6,7 @@ export const changePagePagePropertyRelation = {
   slug: "change-page-page-property-relation",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one relation a page states pointed at another page",
   code: "ts",
   test: "ts",

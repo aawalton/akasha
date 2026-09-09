@@ -6,7 +6,7 @@ export const movePropertyValue = {
   slug: "move-property-value",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one value moved to another place in the list one page property holds",
   code: "ts",
   test: "ts",

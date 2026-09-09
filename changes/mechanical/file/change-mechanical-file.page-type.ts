@@ -1,10 +1,10 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetSubtypeSlug } from "../../properties/change-target-subtype-slug.relation-property.ts"
+import type { ChangeTargetSubtype } from "../../properties/change-target-subtype.relation-property.ts"
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFile = ChangeMechanical & {
   changeTargetType: "change-target-type/file"
-  changeTargetSubtypeSlug: ChangeTargetSubtypeSlug
+  changeTargetSubtype: ChangeTargetSubtype
 }
 
 export const changeMechanicalFile = {
@@ -24,7 +24,7 @@ export const changeMechanicalFile = {
   properties: [
     { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-subtype-slug",
+      pagePropertySlug: "relation-property/change-target-subtype",
       required: true,
       many: false,
     },

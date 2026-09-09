@@ -6,7 +6,7 @@ export const renamePageAddresses = {
   slug: "rename-page-addresses",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "many pages' addresses restated by reading each body once",
   code: "ts",
   test: "ts",

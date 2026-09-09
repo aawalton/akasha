@@ -6,7 +6,7 @@ export const changeImports = {
   slug: "change-imports",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
+  changeTargetSubtype: "change-target-subtype/file-content-code",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
   test: "ts",

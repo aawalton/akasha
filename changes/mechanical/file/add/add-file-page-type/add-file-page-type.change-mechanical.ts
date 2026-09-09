@@ -6,7 +6,7 @@ export const addFilePageType = {
   slug: "add-file-page-type",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
+  changeTargetSubtype: "change-target-subtype/file-page-type",
   definition:
     "one page type written at one path, with the plural slug that page type states judged",
   code: "ts",

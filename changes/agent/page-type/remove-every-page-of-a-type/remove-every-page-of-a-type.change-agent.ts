@@ -6,7 +6,7 @@ export const removeEveryPageOfAType = {
   slug: "remove-every-page-of-a-type",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/page-type",
-  changeTargetSubtypeSlug: "change-target-subtype/page-type-page",
+  changeTargetSubtype: "change-target-subtype/page-type-page",
   definition: "every page of one page type taken away, each with the files beside it",
   code: "ts",
   test: "ts",

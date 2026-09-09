@@ -6,7 +6,7 @@ export const addFileCode = {
   slug: "add-file-code",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-code",
+  changeTargetSubtype: "change-target-subtype/file-code",
   definition: "one code body written at one path, with the imports that body names judged",
   code: "ts",
   test: "ts",

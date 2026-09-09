@@ -6,7 +6,7 @@ export const changePagePageType = {
   slug: "change-page-page-type",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page",
+  changeTargetSubtype: "change-target-subtype/file-content-page",
   definition: "the page type a body states, restated with the type that body satisfies",
   code: "ts",
   test: "ts",

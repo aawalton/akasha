@@ -6,7 +6,7 @@ export const changePagePageType = {
   slug: "change-page-page-type",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file-page",
+  changeTargetSubtype: "change-target-subtype/file-page",
   definition: "one page stated as another page type, in the data and in every file name",
   code: "ts",
   test: "ts",

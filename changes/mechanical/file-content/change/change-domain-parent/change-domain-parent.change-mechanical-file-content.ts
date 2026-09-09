@@ -6,7 +6,7 @@ export const changeDomainParent = {
   slug: "change-domain-parent",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one page made a part of another page rather than of the page naming it now",
   code: "ts",
   test: "ts",

@@ -169,7 +169,7 @@ function judging(acts: string | null): World {
           const held = SUBTYPES[slug]
           return held === undefined ? null : { parent: held }
         }
-        return acts === null ? {} : { changeTargetSubtypeSlug: acts }
+        return acts === null ? {} : { changeTargetSubtype: acts }
       },
       pageTypesIn: () => PAGE_TYPES,
       kindsUnder: () => UNDER,

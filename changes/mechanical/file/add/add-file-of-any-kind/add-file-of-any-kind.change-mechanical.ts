@@ -6,7 +6,7 @@ export const addFileOfAnyKind = {
   slug: "add-file-of-any-kind",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one body written at one path, through the change writing that kind of path",
   code: "ts",
   test: "ts",

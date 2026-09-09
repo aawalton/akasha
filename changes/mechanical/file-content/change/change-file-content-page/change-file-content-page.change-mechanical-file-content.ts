@@ -6,7 +6,7 @@ export const changeFileContentPage = {
   slug: "change-file-content-page",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page",
+  changeTargetSubtype: "change-target-subtype/file-content-page",
   definition: "one passage of one page's body replaced, with what that page states judged",
   code: "ts",
   test: "ts",

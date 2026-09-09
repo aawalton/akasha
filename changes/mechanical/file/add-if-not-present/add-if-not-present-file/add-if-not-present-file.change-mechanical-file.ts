@@ -6,7 +6,7 @@ export const addIfNotPresentFile = {
   slug: "add-if-not-present-file",
   changeMode: "change-mode-add-if-not-present",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one body written at one path that does not have that body already",
   code: "ts",
   test: "ts",

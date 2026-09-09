@@ -2,14 +2,14 @@ import type { Module } from "../code-system/modules/module.page-type.ts"
 import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ChangeMode } from "./properties/change-mode.relation-property.ts"
-import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
+import type { ChangeTargetSubtype } from "./properties/change-target-subtype.relation-property.ts"
 import type { ChangeTargetType } from "./properties/change-target-type.relation-property.ts"
 
 export type Change = Module & {
   changeKindSlug: ChangeKindSlug
   changeMode: ChangeMode
   changeTargetType?: ChangeTargetType
-  changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
+  changeTargetSubtype?: ChangeTargetSubtype
 }
 
 export const change = {
@@ -39,7 +39,7 @@ export const change = {
     "page-type/change-mode",
     "relation-property/change-mode",
     "relation-property/change-target-type",
-    "relation-property/change-target-subtype-slug",
+    "relation-property/change-target-subtype",
     "domain/change-target",
     "module/target-kinding",
     "module/target-narrowing",
@@ -54,7 +54,7 @@ export const change = {
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/change-target-subtype-slug",
+      pagePropertySlug: "relation-property/change-target-subtype",
       required: false,
       many: false,
     },

@@ -6,7 +6,7 @@ export const renamePagePropertyKey = {
   slug: "rename-page-property-key",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-key",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-key",
   definition: "one key of a page's exported object spelled anew, keeping its place and its value",
   code: "ts",
   test: "ts",

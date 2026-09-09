@@ -6,7 +6,7 @@ export const addFile = {
   slug: "add-file",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one body written at one path, with nothing else judged",
   code: "ts",
   test: "ts",

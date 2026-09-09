@@ -6,7 +6,7 @@ export const moveFile = {
   slug: "move-file",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file",
-  changeTargetSubtypeSlug: "change-target-subtype/file",
+  changeTargetSubtype: "change-target-subtype/file",
   definition: "one file moved to another path, with nothing else judged",
   code: "ts",
   test: "ts",

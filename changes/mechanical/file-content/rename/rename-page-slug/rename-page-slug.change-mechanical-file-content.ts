@@ -6,7 +6,7 @@ export const renamePageSlug = {
   slug: "rename-page-slug",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
+  changeTargetSubtype: "change-target-subtype/file-content-page-property-value",
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
   test: "ts",
