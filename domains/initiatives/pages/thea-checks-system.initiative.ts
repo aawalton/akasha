@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "file-property-group is a new page property naming nested file properties, and module-property-group narrows those to code, test and test-fixtures, so decision, check and audit are pages of it stating only their own slug. code-check stops extending module. The grammar moves first: sectionsIn in pages/file-name admits one property section, so a check's check.code.ts reads as a stray today. Then the page types, the properties, the contents, the callers, and last the old properties.",
+        "The tooling is done and measured: code-check holds nine member files from its type alone, a check page stating none of them, and heldIn reads .audit.code.ts as a property rather than a stray. checking loads .check.code.ts where it is there, and judging states Auditing, which takes the root alone. id-is-a-uuid-version-7 is migrated, its decision and audit split out; 55 left, one a turn. Then akasha audit runs the audits, then each .code.ts becomes .check.code.ts and the old properties go.",
     },
     {
       statement:
