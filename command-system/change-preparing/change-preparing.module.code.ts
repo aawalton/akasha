@@ -4,6 +4,7 @@ import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { globbedFor } from "../../commands/modules/source-globbing/source-globbing.module.code.ts"
 import { steppedFor } from "../../commands/modules/spacing-stepping/spacing-stepping.module.code.ts"
+import { workedFor } from "../../commands/modules/worked-typing/worked-typing.module.code.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
@@ -11,7 +12,6 @@ import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { typesFor } from "../type-generating/type-generating.module.code.ts"
-import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]

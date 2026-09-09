@@ -35,7 +35,6 @@ export const commandSystem = {
     "module/value-minting",
     "module/folder-clearing",
     "module/manifest-locking",
-    "module/worked-typing",
     "module/address-mapping",
     "module/type-generating",
     "module/argument-reading",
