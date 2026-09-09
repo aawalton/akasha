@@ -34,6 +34,11 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A chapter already filed is read under its own story key or under the collections edge.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
     },
     {
