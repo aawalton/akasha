@@ -10,7 +10,7 @@ const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const TYPE_KEY = "pageTypeSlug"
 
-const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/m
+const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
 
 export type Asked = {
   readonly at: string
@@ -26,12 +26,14 @@ export function passagesFor(
   now: string,
   line: string,
   imported: string,
-  key: string
+  keys: readonly string[]
 ): readonly (readonly [string, string])[] {
   return [
     [line, imported],
     [`satisfies ${typedAs(was)}`, `satisfies ${typedAs(now)}`],
-    [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`],
+    ...keys.map(
+      (key) => [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`] as const
+    ),
   ]
 }
 
@@ -47,12 +49,13 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (text === null) {
     return refusing(`\`${given.at}\` holds no body, so no page type is restated`)
   }
-  const stated = STATED.exec(text)
-  if (stated === null) {
+  const stated = [...text.matchAll(STATED)]
+  const first = stated[0]
+  if (first === undefined) {
     return refusing(`\`${given.at}\` states no \`${TYPE_KEY}\`, so no page type is restated`)
   }
-  const key = stated[1] ?? TYPE_KEY
-  const was = stated[2] ?? ""
+  const was = first[2] ?? ""
+  const keys = stated.filter((one) => one[2] === was).map((one) => one[1] ?? TYPE_KEY)
   if (was === type.slug) {
     return refusing(`\`${was}\` is the page type the body states already`)
   }
@@ -67,7 +70,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: Answer[] = []
   let over = world
-  for (const [old, next] of passagesFor(was, type.slug, line[0], imported, key)) {
+  for (const [old, next] of passagesFor(was, type.slug, line[0], imported, keys)) {
     const answer = await reach(over, CHANGE_FILE_CONTENT, { at: given.at, old, new: next })
     if (answer.said.refused !== null) return answer.said
     carried.push(answer.said)

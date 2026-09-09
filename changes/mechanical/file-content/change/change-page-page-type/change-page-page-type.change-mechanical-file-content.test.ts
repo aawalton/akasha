@@ -55,6 +55,28 @@ test("each passage is worked by the change this change reaches", async () => {
   })
 })
 
+test("a body stating the page type under two keys has both restated", async () => {
+  const worked: Worked[] = []
+  const body = `${IMPORTED}
+
+export const kept = {
+  pageTypeSlug: "one-thing",
+  type: "one-thing",
+  slug: "kept",
+} as const satisfies OneThing
+`
+
+  const said = await runChange(worldOf(body, worked), { at: AT, to: TO })
+
+  expect(said.refused).toBe(null)
+  expect(worked.map((one) => one.given)).toEqual([
+    { at: AT, old: IMPORTED, new: `import type { TwoThing } from "../two/two-thing.page-type.ts"` },
+    { at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" },
+    { at: AT, old: `pageTypeSlug: "one-thing"`, new: `pageTypeSlug: "two-thing"` },
+    { at: AT, old: `type: "one-thing"`, new: `type: "two-thing"` },
+  ])
+})
+
 test("the import naming that type is restated to reach the page type named", async () => {
   const worked: Worked[] = []
 

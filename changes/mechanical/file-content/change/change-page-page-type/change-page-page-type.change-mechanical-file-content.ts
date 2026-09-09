@@ -30,6 +30,10 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
+      statement: "Every key the body states the page type under is restated.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The import naming that type is restated to reach the page type named.",
     },
     {
