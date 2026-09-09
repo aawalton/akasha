@@ -8,7 +8,7 @@ export const theNewWorld0424464TheDepthOfAFringeWalker = {
   story: "the-new-world",
   position: 424,
   ownLength: 7815,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2526556/464-the-depth-of-a-fringe-walker",

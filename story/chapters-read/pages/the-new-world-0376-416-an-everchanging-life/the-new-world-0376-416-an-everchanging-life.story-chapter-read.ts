@@ -8,7 +8,7 @@ export const theNewWorld0376416AnEverchangingLife = {
   story: "the-new-world",
   position: 376,
   ownLength: 4895,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2228797/416-an-everchanging-life",

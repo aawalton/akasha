@@ -8,7 +8,7 @@ export const theNewWorld0317358CauseAndEffect = {
   story: "the-new-world",
   position: 317,
   ownLength: 4293,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1117965/358-cause-and-effect",

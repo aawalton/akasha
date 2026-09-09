@@ -8,7 +8,7 @@ export const theNewWorld0285326APrimordialPlayground = {
   story: "the-new-world",
   position: 285,
   ownLength: 2965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/836623/326-a-primordial-playground",

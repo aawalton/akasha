@@ -8,7 +8,7 @@ export const theNewWorld0278319AHivemindSPotential = {
   story: "the-new-world",
   position: 278,
   ownLength: 2546,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/758264/319-a-hiveminds-potential",

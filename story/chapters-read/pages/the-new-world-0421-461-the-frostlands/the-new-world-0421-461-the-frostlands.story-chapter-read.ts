@@ -8,7 +8,7 @@ export const theNewWorld0421461TheFrostlands = {
   story: "the-new-world",
   position: 421,
   ownLength: 4668,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2508228/461-the-frostlands",

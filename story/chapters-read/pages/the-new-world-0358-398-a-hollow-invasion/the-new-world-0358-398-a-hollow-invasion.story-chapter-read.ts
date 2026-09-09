@@ -8,7 +8,7 @@ export const theNewWorld0358398AHollowInvasion = {
   story: "the-new-world",
   position: 358,
   ownLength: 4809,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2131081/398-a-hollow-invasion",

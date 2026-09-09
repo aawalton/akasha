@@ -8,7 +8,7 @@ export const theNewWorld0248289AmassingPotential = {
   story: "the-new-world",
   position: 248,
   ownLength: 4054,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/637623/289-amassing-potential",

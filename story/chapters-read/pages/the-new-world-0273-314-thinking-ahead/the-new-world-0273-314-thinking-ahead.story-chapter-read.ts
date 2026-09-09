@@ -8,7 +8,7 @@ export const theNewWorld0273314ThinkingAhead = {
   story: "the-new-world",
   position: 273,
   ownLength: 2680,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/751975/314-thinking-ahead",

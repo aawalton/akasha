@@ -8,7 +8,7 @@ export const theNewWorld0370410ABrokenHomeAndABrokenMan = {
   story: "the-new-world",
   position: 370,
   ownLength: 2957,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2190948/410-a-broken-home-and-a-broken-man",

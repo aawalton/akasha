@@ -8,7 +8,7 @@ export const theNewWorld0393433Honesty = {
   story: "the-new-world",
   position: 393,
   ownLength: 3422,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2328754/433-honesty",
   externalId: "2328754",

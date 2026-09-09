@@ -8,7 +8,7 @@ export const theNewWorld0364404TheAbyssalChasm = {
   story: "the-new-world",
   position: 364,
   ownLength: 4457,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2155600/404-the-abyssal-chasm",

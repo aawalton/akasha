@@ -8,7 +8,7 @@ export const theNewWorld0399439KinslaThaneTheFallenAvatar = {
   story: "the-new-world",
   position: 399,
   ownLength: 3850,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2365025/439-kinsla-thane-the-fallen-avatar",

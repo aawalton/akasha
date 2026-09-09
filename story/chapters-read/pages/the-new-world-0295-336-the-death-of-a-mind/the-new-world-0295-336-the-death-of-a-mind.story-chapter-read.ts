@@ -8,7 +8,7 @@ export const theNewWorld0295336TheDeathOfAMind = {
   story: "the-new-world",
   position: 295,
   ownLength: 7491,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/860717/336-the-death-of-a-mind",

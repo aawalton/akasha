@@ -8,7 +8,7 @@ export const theNewWorld0310351EthicsAndArmies = {
   story: "the-new-world",
   position: 310,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1035941/351-ethics-and-armies",

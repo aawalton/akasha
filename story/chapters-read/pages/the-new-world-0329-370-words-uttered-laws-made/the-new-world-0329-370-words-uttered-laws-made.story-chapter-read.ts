@@ -8,7 +8,7 @@ export const theNewWorld0329370WordsUtteredLawsMade = {
   story: "the-new-world",
   position: 329,
   ownLength: 1018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1139113/370-words-uttered-laws-made",

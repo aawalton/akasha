@@ -8,7 +8,7 @@ export const theNewWorld0391431LivingByTheSkinOfYourTeeth = {
   story: "the-new-world",
   position: 391,
   ownLength: 4480,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2315933/431-living-by-the-skin-of-your-teeth",

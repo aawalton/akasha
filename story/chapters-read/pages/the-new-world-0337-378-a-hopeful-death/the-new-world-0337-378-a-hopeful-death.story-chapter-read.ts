@@ -8,7 +8,7 @@ export const theNewWorld0337378AHopefulDeath = {
   story: "the-new-world",
   position: 337,
   ownLength: 2800,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1157382/378-a-hopeful-death",

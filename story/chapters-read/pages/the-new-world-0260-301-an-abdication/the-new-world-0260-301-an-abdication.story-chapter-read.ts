@@ -8,7 +8,7 @@ export const theNewWorld0260301AnAbdication = {
   story: "the-new-world",
   position: 260,
   ownLength: 5934,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/665326/301-an-abdication",

@@ -8,7 +8,7 @@ export const theNewWorld0392432ASweepingReform = {
   story: "the-new-world",
   position: 392,
   ownLength: 3902,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2321133/432-a-sweeping-reform",

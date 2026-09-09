@@ -8,7 +8,7 @@ export const theNewWorld0299340TheAdvance = {
   story: "the-new-world",
   position: 299,
   ownLength: 3553,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/910143/340-the-advance",

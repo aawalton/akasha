@@ -8,7 +8,7 @@ export const theNewWorld0348388ArtifactsAndDelegation = {
   story: "the-new-world",
   position: 348,
   ownLength: 3774,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2108878/388-artifacts-and-delegation",

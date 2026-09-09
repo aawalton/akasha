@@ -8,7 +8,7 @@ export const theNewWorld0375415ADarkFantasy = {
   story: "the-new-world",
   position: 375,
   ownLength: 4954,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2223599/415-a-dark-fantasy",

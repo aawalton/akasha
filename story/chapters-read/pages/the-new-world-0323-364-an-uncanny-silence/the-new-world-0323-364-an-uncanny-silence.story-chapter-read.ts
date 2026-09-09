@@ -8,7 +8,7 @@ export const theNewWorld0323364AnUncannySilence = {
   story: "the-new-world",
   position: 323,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1128312/364-an-uncanny-silence",

@@ -8,7 +8,7 @@ export const theNewWorld0350390AWarpedPast = {
   story: "the-new-world",
   position: 350,
   ownLength: 5334,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2114127/390-a-warped-past",

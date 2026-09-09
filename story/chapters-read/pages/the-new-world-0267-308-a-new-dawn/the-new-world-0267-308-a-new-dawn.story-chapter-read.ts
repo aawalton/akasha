@@ -8,7 +8,7 @@ export const theNewWorld0267308ANewDawn = {
   story: "the-new-world",
   position: 267,
   ownLength: 4218,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/747313/308-a-new-dawn",

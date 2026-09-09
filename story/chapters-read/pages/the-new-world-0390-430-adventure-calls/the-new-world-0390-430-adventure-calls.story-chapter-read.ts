@@ -8,7 +8,7 @@ export const theNewWorld0390430AdventureCalls = {
   story: "the-new-world",
   position: 390,
   ownLength: 4461,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2310465/430-adventure-calls",

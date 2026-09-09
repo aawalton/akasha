@@ -8,7 +8,7 @@ export const theNewWorld0309350UntimelyAssaults = {
   story: "the-new-world",
   position: 309,
   ownLength: 3312,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1032385/350-untimely-assaults",

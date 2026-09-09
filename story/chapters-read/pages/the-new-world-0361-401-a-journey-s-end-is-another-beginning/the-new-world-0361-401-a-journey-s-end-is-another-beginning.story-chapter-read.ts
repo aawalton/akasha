@@ -8,7 +8,7 @@ export const theNewWorld0361401AJourneySEndIsAnotherBeginning = {
   story: "the-new-world",
   position: 361,
   ownLength: 4664,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2140397/401-a-journeys-end-is-another-beginning",

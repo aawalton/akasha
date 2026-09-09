@@ -8,7 +8,7 @@ export const theNewWorld0372412ReforgingAMind = {
   story: "the-new-world",
   position: 372,
   ownLength: 5395,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2205177/412-reforging-a-mind",

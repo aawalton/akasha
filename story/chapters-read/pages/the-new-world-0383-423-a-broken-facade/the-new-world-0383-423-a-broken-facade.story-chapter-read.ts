@@ -8,7 +8,7 @@ export const theNewWorld0383423ABrokenFacade = {
   story: "the-new-world",
   position: 383,
   ownLength: 4140,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2272040/423-a-broken-facade",

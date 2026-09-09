@@ -8,7 +8,7 @@ export const theNewWorld0388428TrueOblivion = {
   story: "the-new-world",
   position: 388,
   ownLength: 3230,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2299034/428-true-oblivion",

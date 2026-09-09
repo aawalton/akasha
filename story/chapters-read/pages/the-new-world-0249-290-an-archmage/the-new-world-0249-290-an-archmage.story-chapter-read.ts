@@ -8,7 +8,7 @@ export const theNewWorld0249290AnArchmage = {
   story: "the-new-world",
   position: 249,
   ownLength: 3114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/639771/290-an-archmage",

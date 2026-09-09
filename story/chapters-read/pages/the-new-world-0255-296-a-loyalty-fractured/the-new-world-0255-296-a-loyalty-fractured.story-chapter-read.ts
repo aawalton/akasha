@@ -8,7 +8,7 @@ export const theNewWorld0255296ALoyaltyFractured = {
   story: "the-new-world",
   position: 255,
   ownLength: 4213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/651105/296-a-loyalty-fractured",

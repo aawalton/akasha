@@ -8,7 +8,7 @@ export const theNewWorld0373413AParadigmShift = {
   story: "the-new-world",
   position: 373,
   ownLength: 5127,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2210976/413-a-paradigm-shift",

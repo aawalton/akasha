@@ -8,7 +8,7 @@ export const theNewWorld0381421ADefier = {
   story: "the-new-world",
   position: 381,
   ownLength: 6173,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2261068/421-a-defier",

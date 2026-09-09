@@ -8,7 +8,7 @@ export const theNewWorld0303344Enmity = {
   story: "the-new-world",
   position: 303,
   ownLength: 1225,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/935503/344-enmity",
   externalId: "935503",

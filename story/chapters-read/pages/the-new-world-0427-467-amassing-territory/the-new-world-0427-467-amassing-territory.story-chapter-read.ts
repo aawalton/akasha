@@ -8,7 +8,7 @@ export const theNewWorld0427467AmassingTerritory = {
   story: "the-new-world",
   position: 427,
   ownLength: 5083,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2545128/467-amassing-territory",

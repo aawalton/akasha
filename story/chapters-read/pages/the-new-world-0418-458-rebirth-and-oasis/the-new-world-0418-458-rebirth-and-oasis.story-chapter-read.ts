@@ -8,7 +8,7 @@ export const theNewWorld0418458RebirthAndOasis = {
   story: "the-new-world",
   position: 418,
   ownLength: 2367,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2488090/458-rebirth-and-oasis",

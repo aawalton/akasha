@@ -8,7 +8,7 @@ export const theNewWorld0252293TheSiegeOfSaphigia = {
   story: "the-new-world",
   position: 252,
   ownLength: 5126,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/645740/293-the-siege-of-saphigia",

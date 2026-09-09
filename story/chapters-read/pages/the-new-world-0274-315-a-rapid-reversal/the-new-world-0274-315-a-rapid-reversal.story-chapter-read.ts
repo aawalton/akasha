@@ -8,7 +8,7 @@ export const theNewWorld0274315ARapidReversal = {
   story: "the-new-world",
   position: 274,
   ownLength: 2769,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/752441/315-a-rapid-reversal",

@@ -8,7 +8,7 @@ export const theNewWorld0351391NormalcySMight = {
   story: "the-new-world",
   position: 351,
   ownLength: 2517,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2115714/391-normalcys-might",

@@ -8,7 +8,7 @@ export const theNewWorld0425465HellIsEverchanging = {
   story: "the-new-world",
   position: 425,
   ownLength: 5823,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2532216/465-hell-is-everchanging",

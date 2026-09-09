@@ -8,7 +8,7 @@ export const theNewWorld0368408AnotherTimeInAnotherLife = {
   story: "the-new-world",
   position: 368,
   ownLength: 4627,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2177905/408-another-time-in-another-life",

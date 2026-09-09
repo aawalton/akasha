@@ -8,7 +8,7 @@ export const theNewWorld0326367AnEmptyPurgatory = {
   story: "the-new-world",
   position: 326,
   ownLength: 5414,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1133309/367-an-empty-purgatory",

@@ -8,7 +8,7 @@ export const theNewWorld0258299AShiningMassacre = {
   story: "the-new-world",
   position: 258,
   ownLength: 4261,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/659398/299-a-shining-massacre",

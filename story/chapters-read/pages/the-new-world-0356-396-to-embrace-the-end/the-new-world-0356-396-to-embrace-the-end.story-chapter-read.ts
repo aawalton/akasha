@@ -8,7 +8,7 @@ export const theNewWorld0356396ToEmbraceTheEnd = {
   story: "the-new-world",
   position: 356,
   ownLength: 4984,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2126871/396-to-embrace-the-end",

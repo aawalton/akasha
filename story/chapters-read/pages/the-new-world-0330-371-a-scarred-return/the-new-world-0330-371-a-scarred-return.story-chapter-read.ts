@@ -8,7 +8,7 @@ export const theNewWorld0330371AScarredReturn = {
   story: "the-new-world",
   position: 330,
   ownLength: 3676,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1141348/371-a-scarred-return",

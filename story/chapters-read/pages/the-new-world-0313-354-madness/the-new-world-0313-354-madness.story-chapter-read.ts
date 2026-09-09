@@ -8,7 +8,7 @@ export const theNewWorld0313354Madness = {
   story: "the-new-world",
   position: 313,
   ownLength: 3498,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1085402/354-madness",
   externalId: "1085402",

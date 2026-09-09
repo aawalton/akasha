@@ -8,7 +8,7 @@ export const theNewWorld0277318PossibilitiesUnbounded = {
   story: "the-new-world",
   position: 277,
   ownLength: 2319,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/755187/318-possibilities-unbounded",

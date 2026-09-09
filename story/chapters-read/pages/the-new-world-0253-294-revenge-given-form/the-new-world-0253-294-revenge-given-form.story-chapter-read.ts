@@ -8,7 +8,7 @@ export const theNewWorld0253294RevengeGivenForm = {
   story: "the-new-world",
   position: 253,
   ownLength: 4358,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649019/294-revenge-given-form",

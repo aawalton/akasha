@@ -8,7 +8,7 @@ export const theNewWorld0408448HavocAndDarkness = {
   story: "the-new-world",
   position: 408,
   ownLength: 5036,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2420121/448-havoc-and-darkness",

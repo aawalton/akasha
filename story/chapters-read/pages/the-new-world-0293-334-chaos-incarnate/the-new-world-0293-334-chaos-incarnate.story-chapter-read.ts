@@ -8,7 +8,7 @@ export const theNewWorld0293334ChaosIncarnate = {
   story: "the-new-world",
   position: 293,
   ownLength: 3724,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/850373/334-chaos-incarnate",

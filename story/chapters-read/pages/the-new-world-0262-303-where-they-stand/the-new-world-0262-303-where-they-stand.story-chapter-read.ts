@@ -8,7 +8,7 @@ export const theNewWorld0262303WhereTheyStand = {
   story: "the-new-world",
   position: 262,
   ownLength: 6408,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743656/303-where-they-stand",

@@ -8,7 +8,7 @@ export const theNewWorld0422462AFrozenMemory = {
   story: "the-new-world",
   position: 422,
   ownLength: 3426,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2513765/462-a-frozen-memory",

@@ -8,7 +8,7 @@ export const theNewWorld0344384OfAlphaAndOmega = {
   story: "the-new-world",
   position: 344,
   ownLength: 3834,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2099821/384-of-alpha-and-omega",

@@ -8,7 +8,7 @@ export const theNewWorld0265306FittingRightIn = {
   story: "the-new-world",
   position: 265,
   ownLength: 4538,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/745250/306-fitting-right-in",

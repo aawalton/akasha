@@ -8,7 +8,7 @@ export const theNewWorld0296337ScorchedEarthAndShiningSoil = {
   story: "the-new-world",
   position: 296,
   ownLength: 3282,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/870751/337-scorched-earth-and-shining-soil",

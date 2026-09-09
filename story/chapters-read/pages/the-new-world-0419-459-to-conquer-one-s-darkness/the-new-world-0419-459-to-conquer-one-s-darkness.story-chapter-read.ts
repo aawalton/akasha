@@ -8,7 +8,7 @@ export const theNewWorld0419459ToConquerOneSDarkness = {
   story: "the-new-world",
   position: 419,
   ownLength: 2605,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2495760/459-to-conquer-ones-darkness",

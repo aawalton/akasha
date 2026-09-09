@@ -8,7 +8,7 @@ export const theNewWorld0333374WhatIsToCome = {
   story: "the-new-world",
   position: 333,
   ownLength: 4805,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1147833/374-what-is-to-come",

@@ -8,7 +8,7 @@ export const theNewWorld0271312APieceOfPlazia = {
   story: "the-new-world",
   position: 271,
   ownLength: 5946,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/750776/312-a-piece-of-plazia",

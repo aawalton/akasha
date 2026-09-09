@@ -8,7 +8,7 @@ export const theNewWorld0404444RitualsAndCultures = {
   story: "the-new-world",
   position: 404,
   ownLength: 7243,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2392767/444-rituals-and-cultures",

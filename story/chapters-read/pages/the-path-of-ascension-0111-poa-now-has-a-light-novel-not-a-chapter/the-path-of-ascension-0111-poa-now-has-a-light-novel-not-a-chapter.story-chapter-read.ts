@@ -8,7 +8,7 @@ export const thePathOfAscension0111PoaNowHasALightNovelNotAChapter = {
   story: "story-read/the-path-of-ascension",
   position: 111,
   ownLength: 120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/2294346/poa-now-has-a-light-novel-not-a-chapter",

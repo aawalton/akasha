@@ -8,7 +8,7 @@ export const theNewWorld0316357Infiltration = {
   story: "the-new-world",
   position: 316,
   ownLength: 4128,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1116449/357-infiltration",

@@ -8,7 +8,7 @@ export const theNewWorld0308349Uncertainty = {
   story: "the-new-world",
   position: 308,
   ownLength: 4613,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1020765/349-uncertainty",

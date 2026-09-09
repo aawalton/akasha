@@ -8,7 +8,7 @@ export const theNewWorld0420460ForgingPaths = {
   story: "the-new-world",
   position: 420,
   ownLength: 3468,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2500963/460-forging-paths",

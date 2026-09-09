@@ -8,7 +8,7 @@ export const theNewWorld0301342WhatBumpsInTheNight = {
   story: "the-new-world",
   position: 301,
   ownLength: 3688,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/919935/342-what-bumps-in-the-night",

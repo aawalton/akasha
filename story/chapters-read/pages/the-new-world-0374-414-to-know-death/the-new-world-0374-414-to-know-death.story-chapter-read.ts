@@ -8,7 +8,7 @@ export const theNewWorld0374414ToKnowDeath = {
   story: "the-new-world",
   position: 374,
   ownLength: 5693,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2216123/414-to-know-death",

@@ -8,7 +8,7 @@ export const theNewWorld0396436ToForgeForAnEmpire = {
   story: "the-new-world",
   position: 396,
   ownLength: 5078,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2346751/436-to-forge-for-an-empire",

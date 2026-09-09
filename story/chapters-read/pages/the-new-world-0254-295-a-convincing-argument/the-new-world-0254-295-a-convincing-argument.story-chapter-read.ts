@@ -8,7 +8,7 @@ export const theNewWorld0254295AConvincingArgument = {
   story: "the-new-world",
   position: 254,
   ownLength: 6676,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/649949/295-a-convincing-argument",

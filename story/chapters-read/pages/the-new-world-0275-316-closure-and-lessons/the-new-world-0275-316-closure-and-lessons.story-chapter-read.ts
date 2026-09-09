@@ -8,7 +8,7 @@ export const theNewWorld0275316ClosureAndLessons = {
   story: "the-new-world",
   position: 275,
   ownLength: 2504,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/753021/316-closure-and-lessons",

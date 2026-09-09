@@ -8,7 +8,7 @@ export const theNewWorld0327368LeviathanSPull = {
   story: "the-new-world",
   position: 327,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1135166/368-leviathans-pull",

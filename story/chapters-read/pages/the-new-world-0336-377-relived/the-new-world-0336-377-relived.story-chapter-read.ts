@@ -8,7 +8,7 @@ export const theNewWorld0336377Relived = {
   story: "the-new-world",
   position: 336,
   ownLength: 3102,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1154100/377-relived",
   externalId: "1154100",

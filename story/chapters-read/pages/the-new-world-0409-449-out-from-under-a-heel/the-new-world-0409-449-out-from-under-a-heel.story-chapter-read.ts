@@ -8,7 +8,7 @@ export const theNewWorld0409449OutFromUnderAHeel = {
   story: "the-new-world",
   position: 409,
   ownLength: 9191,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2425285/449-out-from-under-a-heel",

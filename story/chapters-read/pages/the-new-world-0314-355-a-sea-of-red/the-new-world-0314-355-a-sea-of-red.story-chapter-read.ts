@@ -8,7 +8,7 @@ export const theNewWorld0314355ASeaOfRed = {
   story: "the-new-world",
   position: 314,
   ownLength: 2922,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1088686/355-a-sea-of-red",

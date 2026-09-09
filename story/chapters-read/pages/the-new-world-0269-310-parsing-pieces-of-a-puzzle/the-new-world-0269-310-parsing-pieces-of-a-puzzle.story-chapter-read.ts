@@ -8,7 +8,7 @@ export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   story: "the-new-world",
   position: 269,
   ownLength: 2205,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/748426/310-parsing-pieces-of-a-puzzle",

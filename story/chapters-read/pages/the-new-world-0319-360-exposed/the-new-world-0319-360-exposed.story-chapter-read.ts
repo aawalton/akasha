@@ -8,7 +8,7 @@ export const theNewWorld0319360Exposed = {
   story: "the-new-world",
   position: 319,
   ownLength: 6841,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1122180/360-exposed",
   externalId: "1122180",

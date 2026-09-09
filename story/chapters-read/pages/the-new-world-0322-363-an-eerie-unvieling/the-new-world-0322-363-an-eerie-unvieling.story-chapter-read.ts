@@ -8,7 +8,7 @@ export const theNewWorld0322363AnEerieUnvieling = {
   story: "the-new-world",
   position: 322,
   ownLength: 4591,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1126738/363-an-eerie-unvieling",

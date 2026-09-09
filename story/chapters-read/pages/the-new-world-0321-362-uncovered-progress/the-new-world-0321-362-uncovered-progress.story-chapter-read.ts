@@ -8,7 +8,7 @@ export const theNewWorld0321362UncoveredProgress = {
   story: "the-new-world",
   position: 321,
   ownLength: 2224,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1124787/362-uncovered-progress",

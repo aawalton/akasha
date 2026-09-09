@@ -8,7 +8,7 @@ export const thePathOfAscension0015PoaTheConceptOfDeathChapter7 = {
   story: "story-read/the-path-of-ascension",
   position: 15,
   ownLength: 5915,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/802899/poa-the-concept-of-death-chapter-7",

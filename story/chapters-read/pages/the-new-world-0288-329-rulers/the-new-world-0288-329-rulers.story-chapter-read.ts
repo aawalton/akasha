@@ -8,7 +8,7 @@ export const theNewWorld0288329Rulers = {
   story: "the-new-world",
   position: 288,
   ownLength: 2453,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/840675/329-rulers",
   externalId: "840675",

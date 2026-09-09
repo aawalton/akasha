@@ -8,7 +8,7 @@ export const theNewWorld0294335ThePrimevalsPowers = {
   story: "the-new-world",
   position: 294,
   ownLength: 4221,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/851806/335-the-primevals-powers",

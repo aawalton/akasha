@@ -8,7 +8,7 @@ export const theNewWorld0354394AMiredPast = {
   story: "the-new-world",
   position: 354,
   ownLength: 2717,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2122828/394-a-mired-past",

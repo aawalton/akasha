@@ -8,7 +8,7 @@ export const theNewWorld0412452ToDevoteEverything = {
   story: "the-new-world",
   position: 412,
   ownLength: 9389,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2444633/452-to-devote-everything",

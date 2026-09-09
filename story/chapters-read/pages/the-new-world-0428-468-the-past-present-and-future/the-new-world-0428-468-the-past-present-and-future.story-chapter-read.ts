@@ -8,7 +8,7 @@ export const theNewWorld0428468ThePastPresentAndFuture = {
   story: "the-new-world",
   position: 428,
   ownLength: 6395,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2567322/468-the-past-present-and-future",

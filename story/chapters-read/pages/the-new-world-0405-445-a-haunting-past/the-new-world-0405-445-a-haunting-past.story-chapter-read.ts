@@ -8,7 +8,7 @@ export const theNewWorld0405445AHauntingPast = {
   story: "the-new-world",
   position: 405,
   ownLength: 6018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2401483/445-a-haunting-past",

@@ -8,7 +8,7 @@ export const theNewWorld0311352ClashingKingdoms = {
   story: "the-new-world",
   position: 311,
   ownLength: 3302,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1057531/352-clashing-kingdoms",

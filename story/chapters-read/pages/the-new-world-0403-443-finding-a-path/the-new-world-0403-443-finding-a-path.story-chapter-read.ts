@@ -8,7 +8,7 @@ export const theNewWorld0403443FindingAPath = {
   story: "the-new-world",
   position: 403,
   ownLength: 7697,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2388054/443-finding-a-path",

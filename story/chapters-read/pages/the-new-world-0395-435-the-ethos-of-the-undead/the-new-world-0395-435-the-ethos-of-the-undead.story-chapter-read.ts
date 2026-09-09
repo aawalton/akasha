@@ -8,7 +8,7 @@ export const theNewWorld0395435TheEthosOfTheUndead = {
   story: "the-new-world",
   position: 395,
   ownLength: 7509,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2339008/435-the-ethos-of-the-undead",

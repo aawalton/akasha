@@ -8,7 +8,7 @@ export const theNewWorld0406446ToEvokeAwe = {
   story: "the-new-world",
   position: 406,
   ownLength: 4520,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2407425/446-to-evoke-awe",

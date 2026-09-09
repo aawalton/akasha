@@ -8,7 +8,7 @@ export const theNewWorld0398438AWorldEnder = {
   story: "the-new-world",
   position: 398,
   ownLength: 3608,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2357731/438-a-world-ender",

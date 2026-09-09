@@ -8,7 +8,7 @@ export const theNewWorld0290331TheLottery = {
   story: "the-new-world",
   position: 290,
   ownLength: 3327,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/843733/331-the-lottery",

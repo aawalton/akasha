@@ -8,7 +8,7 @@ export const theNewWorld0353393TheWeightOfWorlds = {
   story: "the-new-world",
   position: 353,
   ownLength: 3636,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2120584/393-the-weight-of-worlds",

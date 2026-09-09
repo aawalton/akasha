@@ -8,7 +8,7 @@ export const theNewWorld0423463Stasis = {
   story: "the-new-world",
   position: 423,
   ownLength: 4852,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2519203/463-stasis",
   externalId: "2519203",

@@ -8,7 +8,7 @@ export const thePathOfAscension0033ThePathOfAscensionBook3OnAmazonLinks = {
   story: "story-read/the-path-of-ascension",
   position: 33,
   ownLength: 197,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/1215967/the-path-of-ascension-book-3-on-amazon-links",

@@ -8,7 +8,7 @@ export const theNewWorld0261302Prosperity = {
   story: "the-new-world",
   position: 261,
   ownLength: 3499,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/743078/302-prosperity",

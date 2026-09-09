@@ -8,7 +8,7 @@ export const theNewWorld0324365Bloodbath = {
   story: "the-new-world",
   position: 324,
   ownLength: 4703,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1129433/365-bloodbath",

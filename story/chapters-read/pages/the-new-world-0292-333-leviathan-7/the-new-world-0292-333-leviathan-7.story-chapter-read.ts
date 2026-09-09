@@ -8,7 +8,7 @@ export const theNewWorld0292333Leviathan7 = {
   story: "the-new-world",
   position: 292,
   ownLength: 3791,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/846266/333-leviathan-7",

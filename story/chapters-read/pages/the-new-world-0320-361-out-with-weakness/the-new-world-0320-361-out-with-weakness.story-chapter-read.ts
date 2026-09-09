@@ -8,7 +8,7 @@ export const theNewWorld0320361OutWithWeakness = {
   story: "the-new-world",
   position: 320,
   ownLength: 4594,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1123199/361-out-with-weakness",

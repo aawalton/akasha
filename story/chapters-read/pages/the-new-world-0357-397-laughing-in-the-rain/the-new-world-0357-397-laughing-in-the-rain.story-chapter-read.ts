@@ -8,7 +8,7 @@ export const theNewWorld0357397LaughingInTheRain = {
   story: "the-new-world",
   position: 357,
   ownLength: 5749,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2129158/397-laughing-in-the-rain",

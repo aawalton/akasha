@@ -8,7 +8,7 @@ export const theNewWorld0256297AChangeOfPace = {
   story: "the-new-world",
   position: 256,
   ownLength: 5423,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/654171/297-a-change-of-pace",

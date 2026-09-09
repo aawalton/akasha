@@ -8,7 +8,7 @@ export const theNewWorld0287328Gratitude = {
   story: "the-new-world",
   position: 287,
   ownLength: 3652,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/839293/328-gratitude",

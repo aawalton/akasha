@@ -8,7 +8,7 @@ export const theNewWorld0384424AWarWaged = {
   story: "the-new-world",
   position: 384,
   ownLength: 5530,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2277926/424-a-war-waged",

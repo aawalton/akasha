@@ -8,7 +8,7 @@ export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   story: "the-new-world",
   position: 338,
   ownLength: 280,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1207453/announcement-my-first-book-is-published-finally",

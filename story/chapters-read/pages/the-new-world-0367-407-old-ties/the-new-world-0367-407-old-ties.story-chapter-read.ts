@@ -8,7 +8,7 @@ export const theNewWorld0367407OldTies = {
   story: "the-new-world",
   position: 367,
   ownLength: 2424,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2172156/407-old-ties",

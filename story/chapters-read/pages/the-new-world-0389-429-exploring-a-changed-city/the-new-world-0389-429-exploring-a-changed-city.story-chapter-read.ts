@@ -8,7 +8,7 @@ export const theNewWorld0389429ExploringAChangedCity = {
   story: "the-new-world",
   position: 389,
   ownLength: 7248,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2303650/429-exploring-a-changed-city",

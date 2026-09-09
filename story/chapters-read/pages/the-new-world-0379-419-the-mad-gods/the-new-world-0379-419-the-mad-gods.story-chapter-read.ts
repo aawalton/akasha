@@ -8,7 +8,7 @@ export const theNewWorld0379419TheMadGods = {
   story: "the-new-world",
   position: 379,
   ownLength: 4339,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2248191/419-the-mad-gods",

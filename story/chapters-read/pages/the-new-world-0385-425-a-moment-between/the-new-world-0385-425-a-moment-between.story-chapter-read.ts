@@ -8,7 +8,7 @@ export const theNewWorld0385425AMomentBetween = {
   story: "the-new-world",
   position: 385,
   ownLength: 2979,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2282522/425-a-moment-between",

@@ -8,7 +8,7 @@ export const theNewWorld0378418AChangedWorld = {
   story: "the-new-world",
   position: 378,
   ownLength: 3930,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2244728/418-a-changed-world",

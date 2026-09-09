@@ -8,7 +8,7 @@ export const theNewWorld0359399GamingTheSystem = {
   story: "the-new-world",
   position: 359,
   ownLength: 3236,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2133331/399-gaming-the-system",

@@ -8,7 +8,7 @@ export const theNewWorld0342382AnEarnedIntermission = {
   story: "the-new-world",
   position: 342,
   ownLength: 5725,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2095915/382-an-earned-intermission",

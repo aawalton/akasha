@@ -8,7 +8,7 @@ export const theNewWorld0246287GalacticAnarchy = {
   story: "the-new-world",
   position: 246,
   ownLength: 5481,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/632299/287-galactic-anarchy",

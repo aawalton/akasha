@@ -8,7 +8,7 @@ export const theNewWorld0250291ASovereign = {
   story: "the-new-world",
   position: 250,
   ownLength: 4185,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/641450/291-a-sovereign",

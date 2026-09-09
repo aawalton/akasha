@@ -8,7 +8,7 @@ export const theNewWorld0300341AnIsolatingInvasion = {
   story: "the-new-world",
   position: 300,
   ownLength: 4099,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/918758/341-an-isolating-invasion",

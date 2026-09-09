@@ -8,7 +8,7 @@ export const theNewWorld0304345TheElementsOfDisaster = {
   story: "the-new-world",
   position: 304,
   ownLength: 7137,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/938270/345-the-elements-of-disaster",

@@ -8,7 +8,7 @@ export const theNewWorld0307348Reconnected = {
   story: "the-new-world",
   position: 307,
   ownLength: 4601,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/965653/348-reconnected",

@@ -8,7 +8,7 @@ export const theNewWorld0264305AGalaxyUnexplored = {
   story: "the-new-world",
   position: 264,
   ownLength: 3974,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/744680/305-a-galaxy-unexplored",

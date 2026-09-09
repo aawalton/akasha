@@ -8,7 +8,7 @@ export const theNewWorld0400440ToWieldAStar = {
   story: "the-new-world",
   position: 400,
   ownLength: 3995,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2370305/440-to-wield-a-star",

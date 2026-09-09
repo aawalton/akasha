@@ -8,7 +8,7 @@ export const theNewWorld0291332NotAGameOfChance = {
   story: "the-new-world",
   position: 291,
   ownLength: 4012,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/845742/332-not-a-game-of-chance",

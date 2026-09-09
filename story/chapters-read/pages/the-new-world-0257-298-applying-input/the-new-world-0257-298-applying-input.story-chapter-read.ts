@@ -8,7 +8,7 @@ export const theNewWorld0257298ApplyingInput = {
   story: "the-new-world",
   position: 257,
   ownLength: 6585,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/656866/298-applying-input",

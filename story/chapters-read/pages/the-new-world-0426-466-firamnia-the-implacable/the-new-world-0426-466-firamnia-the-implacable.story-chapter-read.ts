@@ -8,7 +8,7 @@ export const theNewWorld0426466FiramniaTheImplacable = {
   story: "the-new-world",
   position: 426,
   ownLength: 5947,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2540476/466-firamnia-the-implacable",

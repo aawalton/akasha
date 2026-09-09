@@ -8,7 +8,7 @@ export const theNewWorld0270311ACleverBug = {
   story: "the-new-world",
   position: 270,
   ownLength: 2891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/749419/311-a-clever-bug",

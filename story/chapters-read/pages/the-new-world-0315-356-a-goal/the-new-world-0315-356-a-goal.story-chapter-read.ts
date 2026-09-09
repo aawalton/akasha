@@ -8,7 +8,7 @@ export const theNewWorld0315356AGoal = {
   story: "the-new-world",
   position: 315,
   ownLength: 5099,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1114636/356-a-goal",
   externalId: "1114636",

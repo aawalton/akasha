@@ -8,7 +8,7 @@ export const theNewWorld0347387TheMakingsOfAnEmpire = {
   story: "the-new-world",
   position: 347,
   ownLength: 3059,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2106752/387-the-makings-of-an-empire",

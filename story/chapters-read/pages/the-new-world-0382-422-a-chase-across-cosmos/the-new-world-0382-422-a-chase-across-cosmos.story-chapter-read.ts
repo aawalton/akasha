@@ -8,7 +8,7 @@ export const theNewWorld0382422AChaseAcrossCosmos = {
   story: "the-new-world",
   position: 382,
   ownLength: 5415,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2266131/422-a-chase-across-cosmos",

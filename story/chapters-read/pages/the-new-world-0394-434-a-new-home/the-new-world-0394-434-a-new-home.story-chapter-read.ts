@@ -8,7 +8,7 @@ export const theNewWorld0394434ANewHome = {
   story: "the-new-world",
   position: 394,
   ownLength: 5685,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2334217/434-a-new-home",

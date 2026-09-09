@@ -8,7 +8,7 @@ export const theNewWorld0334375AMightUnseenAndUndeniable = {
   story: "the-new-world",
   position: 334,
   ownLength: 1866,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1149228/375-a-might-unseen-and-undeniable",

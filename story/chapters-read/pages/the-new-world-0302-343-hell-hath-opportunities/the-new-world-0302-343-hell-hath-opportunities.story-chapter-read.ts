@@ -8,7 +8,7 @@ export const theNewWorld0302343HellHathOpportunities = {
   story: "the-new-world",
   position: 302,
   ownLength: 3651,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/922742/343-hell-hath-opportunities",

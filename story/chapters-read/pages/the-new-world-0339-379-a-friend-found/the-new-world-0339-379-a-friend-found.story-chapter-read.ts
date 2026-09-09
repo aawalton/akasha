@@ -8,7 +8,7 @@ export const theNewWorld0339379AFriendFound = {
   story: "the-new-world",
   position: 339,
   ownLength: 1865,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2089862/379-a-friend-found",

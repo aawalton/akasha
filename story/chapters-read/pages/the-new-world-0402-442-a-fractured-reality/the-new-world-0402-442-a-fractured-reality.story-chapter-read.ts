@@ -8,7 +8,7 @@ export const theNewWorld0402442AFracturedReality = {
   story: "the-new-world",
   position: 402,
   ownLength: 4366,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2383331/442-a-fractured-reality",

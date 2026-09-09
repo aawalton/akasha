@@ -8,7 +8,7 @@ export const theNewWorld0346386AShadowReborn = {
   story: "the-new-world",
   position: 346,
   ownLength: 2973,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2104263/386-a-shadow-reborn",

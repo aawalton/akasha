@@ -8,7 +8,7 @@ export const theNewWorld0312353AHollowRoar = {
   story: "the-new-world",
   position: 312,
   ownLength: 2678,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1065701/353-a-hollow-roar",

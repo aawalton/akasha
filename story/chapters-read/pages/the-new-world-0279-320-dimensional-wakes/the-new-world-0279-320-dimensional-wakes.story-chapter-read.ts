@@ -8,7 +8,7 @@ export const theNewWorld0279320DimensionalWakes = {
   story: "the-new-world",
   position: 279,
   ownLength: 2583,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/759889/320-dimensional-wakes",

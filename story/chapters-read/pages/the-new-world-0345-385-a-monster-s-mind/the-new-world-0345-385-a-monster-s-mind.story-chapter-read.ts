@@ -8,7 +8,7 @@ export const theNewWorld0345385AMonsterSMind = {
   story: "the-new-world",
   position: 345,
   ownLength: 2868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2101721/385-a-monsters-mind",

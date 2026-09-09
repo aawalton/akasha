@@ -8,7 +8,7 @@ export const theNewWorld0340380AChangedAlbony = {
   story: "the-new-world",
   position: 340,
   ownLength: 2036,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2091831/380-a-changed-albony",

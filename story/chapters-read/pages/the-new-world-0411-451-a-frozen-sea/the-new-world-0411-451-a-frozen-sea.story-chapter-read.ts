@@ -8,7 +8,7 @@ export const theNewWorld0411451AFrozenSea = {
   story: "the-new-world",
   position: 411,
   ownLength: 3094,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2438625/451-a-frozen-sea",

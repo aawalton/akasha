@@ -8,7 +8,7 @@ export const theNewWorld0331372ABrokenTrust = {
   story: "the-new-world",
   position: 331,
   ownLength: 2216,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1143855/372-a-broken-trust",

@@ -8,7 +8,7 @@ export const theNewWorld0397437ToUnderstandAPeople = {
   story: "the-new-world",
   position: 397,
   ownLength: 4266,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2352421/437-to-understand-a-people",

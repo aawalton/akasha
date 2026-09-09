@@ -8,7 +8,7 @@ export const theNewWorld0281322WhatItSFor = {
   story: "the-new-world",
   position: 281,
   ownLength: 3333,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/763249/322-what-its-for",

@@ -8,7 +8,7 @@ export const theNewWorld0413453Shatter = {
   story: "the-new-world",
   position: 413,
   ownLength: 4348,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2457931/453-shatter",
   externalId: "2457931",

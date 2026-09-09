@@ -8,7 +8,7 @@ export const theNewWorld0387427AnUnmaking = {
   story: "the-new-world",
   position: 387,
   ownLength: 2641,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2294373/427-an-unmaking",

@@ -8,7 +8,7 @@ export const theNewWorld0306347SetUp = {
   story: "the-new-world",
   position: 306,
   ownLength: 5011,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/962075/347-set-up",
   externalId: "962075",

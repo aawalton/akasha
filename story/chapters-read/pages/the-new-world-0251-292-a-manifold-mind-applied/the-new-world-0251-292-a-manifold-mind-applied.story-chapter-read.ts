@@ -8,7 +8,7 @@ export const theNewWorld0251292AManifoldMindApplied = {
   story: "the-new-world",
   position: 251,
   ownLength: 6151,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/643436/292-a-manifold-mind-applied",

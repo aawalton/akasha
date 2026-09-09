@@ -8,7 +8,7 @@ export const theNewWorld0386426UnweavingAPuzzle = {
   story: "the-new-world",
   position: 386,
   ownLength: 5212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2287699/426-unweaving-a-puzzle",

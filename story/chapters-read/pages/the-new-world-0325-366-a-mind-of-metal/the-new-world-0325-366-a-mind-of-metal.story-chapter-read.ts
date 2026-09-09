@@ -8,7 +8,7 @@ export const theNewWorld0325366AMindOfMetal = {
   story: "the-new-world",
   position: 325,
   ownLength: 3554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/1131696/366-a-mind-of-metal",

@@ -8,7 +8,7 @@ export const theNewWorld0369409MemoriesOfBrokenGlass = {
   story: "the-new-world",
   position: 369,
   ownLength: 4245,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2186195/409-memories-of-broken-glass",

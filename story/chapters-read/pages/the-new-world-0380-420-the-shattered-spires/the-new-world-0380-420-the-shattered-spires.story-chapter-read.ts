@@ -8,7 +8,7 @@ export const theNewWorld0380420TheShatteredSpires = {
   story: "the-new-world",
   position: 380,
   ownLength: 4264,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/2253318/420-the-shattered-spires",

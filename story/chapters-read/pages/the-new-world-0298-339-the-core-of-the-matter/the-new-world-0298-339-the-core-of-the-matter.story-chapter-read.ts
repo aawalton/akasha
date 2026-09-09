@@ -8,7 +8,7 @@ export const theNewWorld0298339TheCoreOfTheMatter = {
   story: "the-new-world",
   position: 298,
   ownLength: 3326,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/887525/339-the-core-of-the-matter",
