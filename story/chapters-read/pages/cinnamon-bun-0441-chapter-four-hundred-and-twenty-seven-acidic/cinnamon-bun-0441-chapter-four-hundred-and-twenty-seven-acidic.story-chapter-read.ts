@@ -8,7 +8,7 @@ export const cinnamonBun0441ChapterFourHundredAndTwentySevenAcidic = {
   story: "story-read/cinnamon-bun",
   position: 441,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1313868/chapter-four-hundred-and-twenty-seven-acidic-reaction",

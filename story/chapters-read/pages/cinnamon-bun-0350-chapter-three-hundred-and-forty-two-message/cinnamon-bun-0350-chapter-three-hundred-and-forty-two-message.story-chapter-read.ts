@@ -8,7 +8,7 @@ export const cinnamonBun0350ChapterThreeHundredAndFortyTwoMessage = {
   story: "story-read/cinnamon-bun",
   position: 350,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/993466/chapter-three-hundred-and-forty-two-message-delivered",

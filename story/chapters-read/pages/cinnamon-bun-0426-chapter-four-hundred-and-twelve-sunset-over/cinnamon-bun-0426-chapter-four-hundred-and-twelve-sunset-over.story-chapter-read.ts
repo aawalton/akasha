@@ -8,7 +8,7 @@ export const cinnamonBun0426ChapterFourHundredAndTwelveSunsetOver = {
   story: "story-read/cinnamon-bun",
   position: 426,
   ownLength: 2026,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1247301/chapter-four-hundred-and-twelve-sunset-over-smoulderglen",

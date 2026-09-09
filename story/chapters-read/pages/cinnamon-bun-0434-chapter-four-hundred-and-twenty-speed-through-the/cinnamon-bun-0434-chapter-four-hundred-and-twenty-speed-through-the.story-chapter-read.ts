@@ -8,7 +8,7 @@ export const cinnamonBun0434ChapterFourHundredAndTwentySpeedThroughThe = {
   story: "story-read/cinnamon-bun",
   position: 434,
   ownLength: 2033,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1289353/chapter-four-hundred-and-twenty-speed-through",

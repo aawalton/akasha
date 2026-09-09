@@ -8,7 +8,7 @@ export const cinnamonBun0349ChapterThreeHundredAndFortyOneALittleBird = {
   story: "story-read/cinnamon-bun",
   position: 349,
   ownLength: 2083,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/989808/chapter-three-hundred-and-forty-one-a-little-bird",

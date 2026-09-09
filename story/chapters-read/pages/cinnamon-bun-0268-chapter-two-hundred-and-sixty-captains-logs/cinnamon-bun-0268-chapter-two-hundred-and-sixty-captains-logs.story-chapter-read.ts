@@ -8,7 +8,7 @@ export const cinnamonBun0268ChapterTwoHundredAndSixtyCaptainsLogs = {
   story: "story-read/cinnamon-bun",
   position: 268,
   ownLength: 1927,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/776600/chapter-two-hundred-and-sixty-captains-logs",

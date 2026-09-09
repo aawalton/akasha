@@ -8,7 +8,7 @@ export const cinnamonBun0354ChapterThreeHundredAndFortySixFusionMode = {
   story: "story-read/cinnamon-bun",
   position: 354,
   ownLength: 1854,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1002322/chapter-three-hundred-and-forty-six-fusion-mode",

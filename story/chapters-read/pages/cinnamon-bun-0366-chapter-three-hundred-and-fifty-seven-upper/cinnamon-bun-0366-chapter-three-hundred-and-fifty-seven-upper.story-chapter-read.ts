@@ -8,7 +8,7 @@ export const cinnamonBun0366ChapterThreeHundredAndFiftySevenUpper = {
   story: "story-read/cinnamon-bun",
   position: 366,
   ownLength: 2066,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1030938/chapter-three-hundred-and-fifty-seven-upper-management",

@@ -8,7 +8,7 @@ export const cinnamonBun0249ChapterTwoHundredAndFortyOneIslanding = {
   story: "story-read/cinnamon-bun",
   position: 249,
   ownLength: 1965,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/742970/chapter-two-hundred-and-forty-one-islanding",

@@ -8,7 +8,7 @@ export const cinnamonBun0126ChapterOneHundredAndTwentyOneGangstaBun = {
   story: "story-read/cinnamon-bun",
   position: 126,
   ownLength: 2033,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575206/chapter-one-hundred-and-twenty-one-gangsta-bun",

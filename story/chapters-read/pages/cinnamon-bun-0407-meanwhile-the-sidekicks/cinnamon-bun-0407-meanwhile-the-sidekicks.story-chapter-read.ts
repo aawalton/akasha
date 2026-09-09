@@ -8,7 +8,7 @@ export const cinnamonBun0407MeanwhileTheSidekicks = {
   story: "story-read/cinnamon-bun",
   position: 407,
   ownLength: 1266,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1154407/meanwhile-the-sidekicks",

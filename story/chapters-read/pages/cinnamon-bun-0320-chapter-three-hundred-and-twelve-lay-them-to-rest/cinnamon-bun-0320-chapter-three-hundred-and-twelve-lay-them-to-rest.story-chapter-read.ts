@@ -8,7 +8,7 @@ export const cinnamonBun0320ChapterThreeHundredAndTwelveLayThemToRest = {
   story: "story-read/cinnamon-bun",
   position: 320,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/910320/chapter-three-hundred-and-twelve-lay-them-to-rest",

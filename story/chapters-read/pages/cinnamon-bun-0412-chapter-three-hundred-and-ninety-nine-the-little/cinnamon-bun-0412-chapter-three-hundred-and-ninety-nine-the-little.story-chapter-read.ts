@@ -8,7 +8,7 @@ export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
   story: "story-read/cinnamon-bun",
   position: 412,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1186658/chapter-three-hundred-and-ninety-nine-the-little",

@@ -8,7 +8,7 @@ export const cinnamonBun0173ChapterOneHundredAndSixtySevenPeaceForOur = {
   story: "story-read/cinnamon-bun",
   position: 173,
   ownLength: 1966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/643667/chapter-one-hundred-and-sixty-seven-peace-for",

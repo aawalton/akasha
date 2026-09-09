@@ -8,7 +8,7 @@ export const cinnamonBun0139ChapterOneHundredAndThirtyFourFamilyMatters = {
   story: "story-read/cinnamon-bun",
   position: 139,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/589737/chapter-one-hundred-and-thirty-four-family-matters",

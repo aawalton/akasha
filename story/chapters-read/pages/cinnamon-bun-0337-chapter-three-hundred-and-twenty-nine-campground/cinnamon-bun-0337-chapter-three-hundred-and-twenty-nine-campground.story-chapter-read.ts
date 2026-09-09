@@ -8,7 +8,7 @@ export const cinnamonBun0337ChapterThreeHundredAndTwentyNineCampground = {
   story: "story-read/cinnamon-bun",
   position: 337,
   ownLength: 1994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/958463/chapter-three-hundred-and-twenty-nine-campground",

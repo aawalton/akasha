@@ -8,7 +8,7 @@ export const cinnamonBun0312ChapterThreeHundredAndFourRoyalExpositioner = {
   story: "story-read/cinnamon-bun",
   position: 312,
   ownLength: 1998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/891225/chapter-three-hundred-and-four-royal-expositioner",

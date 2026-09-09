@@ -8,7 +8,7 @@ export const cinnamonBun0261ChapterTwoHundredAndFiftyThreeGranite = {
   story: "story-read/cinnamon-bun",
   position: 261,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/763251/chapter-two-hundred-and-fifty-three-granite-springs",

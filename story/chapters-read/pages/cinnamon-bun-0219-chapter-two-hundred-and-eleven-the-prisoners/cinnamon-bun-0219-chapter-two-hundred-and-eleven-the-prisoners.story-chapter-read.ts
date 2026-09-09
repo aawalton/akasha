@@ -8,7 +8,7 @@ export const cinnamonBun0219ChapterTwoHundredAndElevenThePrisoners = {
   story: "story-read/cinnamon-bun",
   position: 219,
   ownLength: 1980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/704215/chapter-two-hundred-and-eleven-the-prisoners-dilemma",

@@ -8,7 +8,7 @@ export const cinnamonBun0137ChapterOneHundredAndThirtyTwoHarpingOn = {
   story: "story-read/cinnamon-bun",
   position: 137,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/586874/chapter-one-hundred-and-thirty-two-harping-on",

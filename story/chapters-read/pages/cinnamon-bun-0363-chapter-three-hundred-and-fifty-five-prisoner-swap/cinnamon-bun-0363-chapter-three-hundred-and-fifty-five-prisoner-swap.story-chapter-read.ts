@@ -8,7 +8,7 @@ export const cinnamonBun0363ChapterThreeHundredAndFiftyFivePrisonerSwap = {
   story: "story-read/cinnamon-bun",
   position: 363,
   ownLength: 2013,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1025360/chapter-three-hundred-and-fifty-five-prisoner",

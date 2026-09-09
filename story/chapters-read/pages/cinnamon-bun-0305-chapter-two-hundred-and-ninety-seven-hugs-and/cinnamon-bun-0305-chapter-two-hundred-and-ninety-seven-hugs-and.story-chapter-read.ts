@@ -8,7 +8,7 @@ export const cinnamonBun0305ChapterTwoHundredAndNinetySevenHugsAnd = {
   story: "story-read/cinnamon-bun",
   position: 305,
   ownLength: 1953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/875223/chapter-two-hundred-and-ninety-seven-hugs-and",

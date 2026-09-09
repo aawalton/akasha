@@ -8,7 +8,7 @@ export const cinnamonBun0326ChapterThreeHundredAndEighteenSheepish = {
   story: "story-read/cinnamon-bun",
   position: 326,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/927574/chapter-three-hundred-and-eighteen-sheepish",

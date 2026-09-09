@@ -8,7 +8,7 @@ export const cinnamonBun0299ChapterTwoHundredAndNinetyOneImNotTouching = {
   story: "story-read/cinnamon-bun",
   position: 299,
   ownLength: 2301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/861968/chapter-two-hundred-and-ninety-one-im-not-touching",

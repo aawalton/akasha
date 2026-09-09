@@ -8,7 +8,7 @@ export const cinnamonBun0448ChapterFourHundredAndThirtyFourRibbonMe = {
   story: "story-read/cinnamon-bun",
   position: 448,
   ownLength: 1970,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1348213/chapter-four-hundred-and-thirty-four-ribbon-me",

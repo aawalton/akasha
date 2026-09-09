@@ -8,7 +8,7 @@ export const cinnamonBun0289ChapterTwoHundredAndEightyOneHowToWin = {
   story: "story-read/cinnamon-bun",
   position: 289,
   ownLength: 2064,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/837702/chapter-two-hundred-and-eighty-one-how-to-win",

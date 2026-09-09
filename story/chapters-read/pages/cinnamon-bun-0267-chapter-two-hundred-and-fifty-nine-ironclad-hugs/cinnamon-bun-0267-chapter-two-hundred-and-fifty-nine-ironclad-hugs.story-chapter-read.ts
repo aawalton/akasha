@@ -8,7 +8,7 @@ export const cinnamonBun0267ChapterTwoHundredAndFiftyNineIroncladHugs = {
   story: "story-read/cinnamon-bun",
   position: 267,
   ownLength: 1932,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/774429/chapter-two-hundred-and-fifty-nine-ironclad-hugs",

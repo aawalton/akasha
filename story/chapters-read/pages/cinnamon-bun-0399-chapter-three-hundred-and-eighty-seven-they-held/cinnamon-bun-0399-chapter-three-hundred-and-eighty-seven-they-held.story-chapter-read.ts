@@ -8,7 +8,7 @@ export const cinnamonBun0399ChapterThreeHundredAndEightySevenTheyHeld = {
   story: "story-read/cinnamon-bun",
   position: 399,
   ownLength: 2081,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1127393/chapter-three-hundred-and-eighty-seven-they-held",

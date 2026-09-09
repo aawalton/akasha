@@ -8,7 +8,7 @@ export const cinnamonBun0403ChapterThreeHundredAndNinetyOneRampUp = {
   story: "story-read/cinnamon-bun",
   position: 403,
   ownLength: 1983,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1139832/chapter-three-hundred-and-ninety-one-ramp-up",

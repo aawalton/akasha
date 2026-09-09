@@ -8,7 +8,7 @@ export const cinnamonBun0290ChapterTwoHundredAndEightyTwoFinallyPlaying = {
   story: "story-read/cinnamon-bun",
   position: 290,
   ownLength: 1551,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/841324/chapter-two-hundred-and-eighty-two-finally-playing",

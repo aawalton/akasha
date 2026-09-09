@@ -8,7 +8,7 @@ export const cinnamonBun0157ChapterOneHundredAndFiftyOneOnceIs = {
   story: "story-read/cinnamon-bun",
   position: 157,
   ownLength: 1966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/614520/chapter-one-hundred-and-fifty-one-once-is-happenstance",

@@ -8,7 +8,7 @@ export const cinnamonBun0125ChapterOneHundredAndTwentyIntoTheScumways = {
   story: "story-read/cinnamon-bun",
   position: 125,
   ownLength: 2186,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/574736/chapter-one-hundred-and-twenty-into-the-scumways",

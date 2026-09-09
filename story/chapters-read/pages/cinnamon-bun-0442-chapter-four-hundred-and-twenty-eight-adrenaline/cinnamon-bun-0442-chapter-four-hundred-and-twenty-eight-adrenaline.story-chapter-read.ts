@@ -8,7 +8,7 @@ export const cinnamonBun0442ChapterFourHundredAndTwentyEightAdrenaline = {
   story: "story-read/cinnamon-bun",
   position: 442,
   ownLength: 1829,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1321052/chapter-four-hundred-and-twenty-eight-adrenaline",

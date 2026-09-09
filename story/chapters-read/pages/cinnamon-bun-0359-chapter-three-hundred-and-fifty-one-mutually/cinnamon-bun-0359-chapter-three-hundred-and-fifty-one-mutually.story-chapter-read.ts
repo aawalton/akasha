@@ -8,7 +8,7 @@ export const cinnamonBun0359ChapterThreeHundredAndFiftyOneMutually = {
   story: "story-read/cinnamon-bun",
   position: 359,
   ownLength: 1973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1015790/chapter-three-hundred-and-fifty-one-mutually-assured",

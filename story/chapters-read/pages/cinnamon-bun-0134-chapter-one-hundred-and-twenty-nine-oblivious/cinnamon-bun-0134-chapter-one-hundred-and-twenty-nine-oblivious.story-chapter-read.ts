@@ -8,7 +8,7 @@ export const cinnamonBun0134ChapterOneHundredAndTwentyNineOblivious = {
   story: "story-read/cinnamon-bun",
   position: 134,
   ownLength: 2085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/583147/chapter-one-hundred-and-twenty-nine-oblivious",

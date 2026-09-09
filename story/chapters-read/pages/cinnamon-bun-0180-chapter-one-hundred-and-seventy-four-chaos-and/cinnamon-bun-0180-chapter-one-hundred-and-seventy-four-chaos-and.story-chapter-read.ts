@@ -8,7 +8,7 @@ export const cinnamonBun0180ChapterOneHundredAndSeventyFourChaosAnd = {
   story: "story-read/cinnamon-bun",
   position: 180,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/651723/chapter-one-hundred-and-seventy-four-chaos-and",

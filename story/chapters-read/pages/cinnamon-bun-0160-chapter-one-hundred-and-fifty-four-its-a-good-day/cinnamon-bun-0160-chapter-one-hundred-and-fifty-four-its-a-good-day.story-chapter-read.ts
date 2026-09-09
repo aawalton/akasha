@@ -8,7 +8,7 @@ export const cinnamonBun0160ChapterOneHundredAndFiftyFourItsAGoodDay = {
   story: "story-read/cinnamon-bun",
   position: 160,
   ownLength: 1945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/620603/chapter-one-hundred-and-fifty-four-its-a-good",

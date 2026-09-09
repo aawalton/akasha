@@ -8,7 +8,7 @@ export const cinnamonBun0199ChapterOneHundredAndNinetyTwoMaidItOut = {
   story: "story-read/cinnamon-bun",
   position: 199,
   ownLength: 1820,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/685246/chapter-one-hundred-and-ninety-two-maid-it-out",

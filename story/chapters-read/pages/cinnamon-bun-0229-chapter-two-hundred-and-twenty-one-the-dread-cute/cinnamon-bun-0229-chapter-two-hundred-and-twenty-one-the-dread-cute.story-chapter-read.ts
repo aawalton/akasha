@@ -8,7 +8,7 @@ export const cinnamonBun0229ChapterTwoHundredAndTwentyOneTheDreadCute = {
   story: "story-read/cinnamon-bun",
   position: 229,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/716179/chapter-two-hundred-and-twenty-one-the-dread-cute-ulu",

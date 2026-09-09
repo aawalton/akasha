@@ -8,7 +8,7 @@ export const cinnamonBun0177ChapterOneHundredAndSeventyOneOhTheSmall = {
   story: "story-read/cinnamon-bun",
   position: 177,
   ownLength: 1953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/648625/chapter-one-hundred-and-seventy-one-oh-the-small",

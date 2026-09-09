@@ -8,7 +8,7 @@ export const cinnamonBun0306ChapterTwoHundredAndNinetyEightFreeAction = {
   story: "story-read/cinnamon-bun",
   position: 306,
   ownLength: 1943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/878797/chapter-two-hundred-and-ninety-eight-free-action",

@@ -8,7 +8,7 @@ export const cinnamonBun0286ChapterTwoHundredAndSeventyEightDisorderIn = {
   story: "story-read/cinnamon-bun",
   position: 286,
   ownLength: 1852,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/831710/chapter-two-hundred-and-seventy-eight-disorder",

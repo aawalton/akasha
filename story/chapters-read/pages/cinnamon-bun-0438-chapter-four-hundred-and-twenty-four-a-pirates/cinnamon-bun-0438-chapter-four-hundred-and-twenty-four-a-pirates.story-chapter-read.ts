@@ -8,7 +8,7 @@ export const cinnamonBun0438ChapterFourHundredAndTwentyFourAPirates = {
   story: "story-read/cinnamon-bun",
   position: 438,
   ownLength: 2018,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1304301/chapter-four-hundred-and-twenty-four-a-pirates",

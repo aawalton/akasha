@@ -8,7 +8,7 @@ export const cinnamonBun0373ChapterThreeHundredAndSixtyFourFrom = {
   story: "story-read/cinnamon-bun",
   position: 373,
   ownLength: 1910,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1051785/chapter-three-hundred-and-sixty-four-from-sylphfree",

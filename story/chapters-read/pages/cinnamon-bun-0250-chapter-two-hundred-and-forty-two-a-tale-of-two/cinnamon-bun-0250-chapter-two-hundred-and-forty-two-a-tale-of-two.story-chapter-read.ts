@@ -8,7 +8,7 @@ export const cinnamonBun0250ChapterTwoHundredAndFortyTwoATaleOfTwo = {
   story: "story-read/cinnamon-bun",
   position: 250,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/744131/chapter-two-hundred-and-forty-two-a-tale-of-two",

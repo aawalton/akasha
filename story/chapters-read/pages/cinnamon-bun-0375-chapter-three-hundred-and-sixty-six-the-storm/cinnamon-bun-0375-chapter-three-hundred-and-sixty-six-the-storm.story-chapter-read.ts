@@ -8,7 +8,7 @@ export const cinnamonBun0375ChapterThreeHundredAndSixtySixTheStorm = {
   story: "story-read/cinnamon-bun",
   position: 375,
   ownLength: 2187,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1057169/chapter-three-hundred-and-sixty-six-the-storm",

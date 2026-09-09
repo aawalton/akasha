@@ -8,7 +8,7 @@ export const cinnamonBun0346ChapterThreeHundredAndThirtyEightAbandoned = {
   story: "story-read/cinnamon-bun",
   position: 346,
   ownLength: 2162,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/983067/chapter-three-hundred-and-thirty-eight-abandoned",

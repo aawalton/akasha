@@ -8,7 +8,7 @@ export const cinnamonBun0254ChapterTwoHundredAndFortySixPaladinBusiness = {
   story: "story-read/cinnamon-bun",
   position: 254,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/750870/chapter-two-hundred-and-forty-six-paladin-business",

@@ -8,7 +8,7 @@ export const cinnamonBun0259ChapterTwoHundredAndFiftyOneOnTheBackFoot = {
   story: "story-read/cinnamon-bun",
   position: 259,
   ownLength: 1933,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/759376/chapter-two-hundred-and-fifty-one-on-the-back",

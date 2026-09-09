@@ -8,7 +8,7 @@ export const cinnamonBun0208StrayBunArtContest = {
   story: "story-read/cinnamon-bun",
   position: 208,
   ownLength: 154,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/679999/stray-bun-art-contest",

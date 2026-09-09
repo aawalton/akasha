@@ -8,7 +8,7 @@ export const cinnamonBun0272ChapterTwoHundredAndSixtyFourGameOfGroans = {
   story: "story-read/cinnamon-bun",
   position: 272,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/782854/chapter-two-hundred-and-sixty-four-game-of-groans",

@@ -8,7 +8,7 @@ export const cinnamonBun0420ChapterFourHundredAndSevenOffTheBooks = {
   story: "story-read/cinnamon-bun",
   position: 420,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1222304/chapter-four-hundred-and-seven-off-the-books",

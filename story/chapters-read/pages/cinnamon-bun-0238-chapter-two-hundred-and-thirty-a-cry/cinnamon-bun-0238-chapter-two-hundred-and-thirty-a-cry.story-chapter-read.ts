@@ -8,7 +8,7 @@ export const cinnamonBun0238ChapterTwoHundredAndThirtyACry = {
   story: "story-read/cinnamon-bun",
   position: 238,
   ownLength: 1987,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/723176/chapter-two-hundred-and-thirty-a-cry",

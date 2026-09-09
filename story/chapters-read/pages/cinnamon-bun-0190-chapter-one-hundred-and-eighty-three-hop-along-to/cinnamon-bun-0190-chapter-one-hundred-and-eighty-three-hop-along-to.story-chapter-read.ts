@@ -8,7 +8,7 @@ export const cinnamonBun0190ChapterOneHundredAndEightyThreeHopAlongTo = {
   story: "story-read/cinnamon-bun",
   position: 190,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/675889/chapter-one-hundred-and-eighty-three-hop-along",

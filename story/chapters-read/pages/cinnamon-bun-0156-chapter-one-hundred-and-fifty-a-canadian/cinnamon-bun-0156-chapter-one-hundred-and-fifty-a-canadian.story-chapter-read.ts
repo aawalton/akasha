@@ -8,7 +8,7 @@ export const cinnamonBun0156ChapterOneHundredAndFiftyACanadian = {
   story: "story-read/cinnamon-bun",
   position: 156,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/613571/chapter-one-hundred-and-fifty-a-canadian-riftwalker",

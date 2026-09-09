@@ -8,7 +8,7 @@ export const cinnamonBun0162ChapterOneHundredAndFiftySixPlotting = {
   story: "story-read/cinnamon-bun",
   position: 162,
   ownLength: 1901,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/624351/chapter-one-hundred-and-fifty-six-plotting",

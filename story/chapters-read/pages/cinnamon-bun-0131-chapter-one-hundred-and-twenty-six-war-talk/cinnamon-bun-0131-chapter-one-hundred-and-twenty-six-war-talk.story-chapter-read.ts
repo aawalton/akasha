@@ -8,7 +8,7 @@ export const cinnamonBun0131ChapterOneHundredAndTwentySixWarTalk = {
   story: "story-read/cinnamon-bun",
   position: 131,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/579351/chapter-one-hundred-and-twenty-six-war-talk",

@@ -8,7 +8,7 @@ export const cinnamonBun0387ChapterThreeHundredAndSeventyFiveAbomination = {
   story: "story-read/cinnamon-bun",
   position: 387,
   ownLength: 1947,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1085622/chapter-three-hundred-and-seventy-five-abomination",

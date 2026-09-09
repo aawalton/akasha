@@ -8,7 +8,7 @@ export const cinnamonBun0143ChapterOneHundredAndThirtyEightAvianation = {
   story: "story-read/cinnamon-bun",
   position: 143,
   ownLength: 2016,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/593597/chapter-one-hundred-and-thirty-eight-avianation",

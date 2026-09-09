@@ -8,7 +8,7 @@ export const cinnamonBun0116ChapterOneHundredAndElevenSeizeTheDate = {
   story: "story-read/cinnamon-bun",
   position: 116,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/569013/chapter-one-hundred-and-eleven-seize-the-date",

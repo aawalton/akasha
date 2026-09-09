@@ -8,7 +8,7 @@ export const cinnamonBun0323ChapterThreeHundredAndFifteenChildishFears = {
   story: "story-read/cinnamon-bun",
   position: 323,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/919320/chapter-three-hundred-and-fifteen-childish-fears",

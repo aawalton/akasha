@@ -8,7 +8,7 @@ export const cinnamonBun0184ChapterOneHundredAndSeventyEightUntoxication = {
   story: "story-read/cinnamon-bun",
   position: 184,
   ownLength: 1946,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/655667/chapter-one-hundred-and-seventy-eight-untoxication",

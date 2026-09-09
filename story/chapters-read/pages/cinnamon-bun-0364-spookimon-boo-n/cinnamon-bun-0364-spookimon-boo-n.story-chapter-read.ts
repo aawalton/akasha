@@ -8,7 +8,7 @@ export const cinnamonBun0364SpookimonBooN = {
   story: "story-read/cinnamon-bun",
   position: 364,
   ownLength: 1739,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1027862/spookimon-boo-n",

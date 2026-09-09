@@ -8,7 +8,7 @@ export const cinnamonBun0394ChapterThreeHundredAndEightyTwoSouthbound = {
   story: "story-read/cinnamon-bun",
   position: 394,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1113993/chapter-three-hundred-and-eighty-two-southbound",

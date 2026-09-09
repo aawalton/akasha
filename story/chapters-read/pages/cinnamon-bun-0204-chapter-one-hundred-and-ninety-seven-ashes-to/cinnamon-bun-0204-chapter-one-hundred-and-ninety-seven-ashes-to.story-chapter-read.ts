@@ -8,7 +8,7 @@ export const cinnamonBun0204ChapterOneHundredAndNinetySevenAshesTo = {
   story: "story-read/cinnamon-bun",
   position: 204,
   ownLength: 1966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/689091/chapter-one-hundred-and-ninety-seven-ashes-to",

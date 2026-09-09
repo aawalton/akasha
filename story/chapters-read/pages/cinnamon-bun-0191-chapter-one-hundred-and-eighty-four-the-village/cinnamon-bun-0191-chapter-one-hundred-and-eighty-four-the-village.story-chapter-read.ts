@@ -8,7 +8,7 @@ export const cinnamonBun0191ChapterOneHundredAndEightyFourTheVillage = {
   story: "story-read/cinnamon-bun",
   position: 191,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/676891/chapter-one-hundred-and-eighty-four-the-village",

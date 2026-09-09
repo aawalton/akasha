@@ -8,7 +8,7 @@ export const cinnamonBun0440ChapterFourHundredAndTwentySixThereIsOnly = {
   story: "story-read/cinnamon-bun",
   position: 440,
   ownLength: 2040,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1311380/chapter-four-hundred-and-twenty-six-there-is-only",

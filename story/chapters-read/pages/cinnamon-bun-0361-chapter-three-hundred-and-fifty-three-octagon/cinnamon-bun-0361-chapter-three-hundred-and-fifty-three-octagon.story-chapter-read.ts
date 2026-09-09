@@ -8,7 +8,7 @@ export const cinnamonBun0361ChapterThreeHundredAndFiftyThreeOctagon = {
   story: "story-read/cinnamon-bun",
   position: 361,
   ownLength: 1965,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1020430/chapter-three-hundred-and-fifty-three-octagon",

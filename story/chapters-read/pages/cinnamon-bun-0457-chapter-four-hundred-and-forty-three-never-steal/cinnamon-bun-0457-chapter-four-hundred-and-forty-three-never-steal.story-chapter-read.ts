@@ -8,7 +8,7 @@ export const cinnamonBun0457ChapterFourHundredAndFortyThreeNeverSteal = {
   story: "story-read/cinnamon-bun",
   position: 457,
   ownLength: 1517,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1400676/chapter-four-hundred-and-forty-three-never-steal",

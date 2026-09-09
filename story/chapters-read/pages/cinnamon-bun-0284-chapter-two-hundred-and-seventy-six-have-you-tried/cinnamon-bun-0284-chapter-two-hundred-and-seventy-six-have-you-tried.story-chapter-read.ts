@@ -8,7 +8,7 @@ export const cinnamonBun0284ChapterTwoHundredAndSeventySixHaveYouTried = {
   story: "story-read/cinnamon-bun",
   position: 284,
   ownLength: 1999,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/827068/chapter-two-hundred-and-seventy-six-have-you-tried",

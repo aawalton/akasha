@@ -8,7 +8,7 @@ export const cinnamonBun0384ChapterThreeHundredAndSeventyTwoFacialHare = {
   story: "story-read/cinnamon-bun",
   position: 384,
   ownLength: 1972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1077953/chapter-three-hundred-and-seventy-two-facial-hare",

@@ -8,7 +8,7 @@ export const cinnamonBun0115ChapterOneHundredAndTenLosingIsFun = {
   story: "story-read/cinnamon-bun",
   position: 115,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/568613/chapter-one-hundred-and-ten-losing-is-fun",

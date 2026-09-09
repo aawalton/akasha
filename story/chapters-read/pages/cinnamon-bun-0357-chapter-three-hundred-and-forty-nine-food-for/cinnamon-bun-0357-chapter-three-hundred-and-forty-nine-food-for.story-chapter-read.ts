@@ -8,7 +8,7 @@ export const cinnamonBun0357ChapterThreeHundredAndFortyNineFoodFor = {
   story: "story-read/cinnamon-bun",
   position: 357,
   ownLength: 1998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1013226/chapter-three-hundred-and-forty-nine-food-for",

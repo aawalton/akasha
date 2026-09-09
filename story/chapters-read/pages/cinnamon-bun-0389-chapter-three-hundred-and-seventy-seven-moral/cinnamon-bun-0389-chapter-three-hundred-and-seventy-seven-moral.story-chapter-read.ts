@@ -8,7 +8,7 @@ export const cinnamonBun0389ChapterThreeHundredAndSeventySevenMoral = {
   story: "story-read/cinnamon-bun",
   position: 389,
   ownLength: 1895,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1091706/chapter-three-hundred-and-seventy-seven-moral",

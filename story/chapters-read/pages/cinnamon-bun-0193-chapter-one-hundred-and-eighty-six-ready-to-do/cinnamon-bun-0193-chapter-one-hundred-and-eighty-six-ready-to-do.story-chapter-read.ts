@@ -8,7 +8,7 @@ export const cinnamonBun0193ChapterOneHundredAndEightySixReadyToDo = {
   story: "story-read/cinnamon-bun",
   position: 193,
   ownLength: 2009,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/679987/chapter-one-hundred-and-eighty-six-ready-to-do",

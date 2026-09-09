@@ -8,7 +8,7 @@ export const cinnamonBun0181ChapterOneHundredAndSeventyFiveJumpingShip = {
   story: "story-read/cinnamon-bun",
   position: 181,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/651862/chapter-one-hundred-and-seventy-five-jumping-ship",

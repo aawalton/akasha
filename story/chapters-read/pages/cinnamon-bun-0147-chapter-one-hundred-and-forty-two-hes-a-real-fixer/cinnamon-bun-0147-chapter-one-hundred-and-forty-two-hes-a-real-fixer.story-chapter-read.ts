@@ -8,7 +8,7 @@ export const cinnamonBun0147ChapterOneHundredAndFortyTwoHesARealFixer = {
   story: "story-read/cinnamon-bun",
   position: 147,
   ownLength: 1981,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/597593/chapter-one-hundred-and-forty-two-hes-a-real-fixer-upper",

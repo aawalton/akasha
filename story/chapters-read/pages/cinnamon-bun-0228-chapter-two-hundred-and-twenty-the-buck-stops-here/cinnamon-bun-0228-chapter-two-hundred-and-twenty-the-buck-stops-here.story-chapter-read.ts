@@ -8,7 +8,7 @@ export const cinnamonBun0228ChapterTwoHundredAndTwentyTheBuckStopsHere = {
   story: "story-read/cinnamon-bun",
   position: 228,
   ownLength: 1921,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/715927/chapter-two-hundred-and-twenty-the-buck-stops",

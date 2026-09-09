@@ -8,7 +8,7 @@ export const cinnamonBun0189ChapterOneHundredAndEightyTwoShoppingWith = {
   story: "story-read/cinnamon-bun",
   position: 189,
   ownLength: 2032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/672592/chapter-one-hundred-and-eighty-two-shopping-with",

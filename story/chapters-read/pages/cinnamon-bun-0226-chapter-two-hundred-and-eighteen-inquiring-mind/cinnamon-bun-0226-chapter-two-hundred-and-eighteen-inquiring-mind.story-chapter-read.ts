@@ -8,7 +8,7 @@ export const cinnamonBun0226ChapterTwoHundredAndEighteenInquiringMind = {
   story: "story-read/cinnamon-bun",
   position: 226,
   ownLength: 1867,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/713633/chapter-two-hundred-and-eighteen-inquiring-mind",

@@ -8,7 +8,7 @@ export const cinnamonBun0135ChapterOneHundredAndThirtyHopingForABetter = {
   story: "story-read/cinnamon-bun",
   position: 135,
   ownLength: 1934,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/584362/chapter-one-hundred-and-thirty-hoping-for-a-better",

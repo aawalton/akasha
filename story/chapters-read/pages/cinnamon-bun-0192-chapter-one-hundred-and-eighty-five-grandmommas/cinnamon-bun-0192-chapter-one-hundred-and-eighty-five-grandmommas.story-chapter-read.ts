@@ -8,7 +8,7 @@ export const cinnamonBun0192ChapterOneHundredAndEightyFiveGrandmommas = {
   story: "story-read/cinnamon-bun",
   position: 192,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/678257/chapter-one-hundred-and-eighty-five-grandmommas",

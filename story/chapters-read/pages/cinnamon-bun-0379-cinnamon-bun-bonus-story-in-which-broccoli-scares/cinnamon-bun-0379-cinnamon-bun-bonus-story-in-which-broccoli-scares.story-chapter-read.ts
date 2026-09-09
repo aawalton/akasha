@@ -8,7 +8,7 @@ export const cinnamonBun0379CinnamonBunBonusStoryInWhichBroccoliScares = {
   story: "story-read/cinnamon-bun",
   position: 379,
   ownLength: 2157,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1067974/cinnamon-bun-bonus-story-in-which-broccoli-scares",

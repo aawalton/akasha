@@ -8,7 +8,7 @@ export const cinnamonBun0416ChapterFourHundredAndThreeArtfulDebate = {
   story: "story-read/cinnamon-bun",
   position: 416,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1202008/chapter-four-hundred-and-three-artful-debate",

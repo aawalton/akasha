@@ -8,7 +8,7 @@ export const cinnamonBun0121ChapterOneHundredAndSixteenMomma = {
   story: "story-read/cinnamon-bun",
   position: 121,
   ownLength: 1961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572034/chapter-one-hundred-and-sixteen-momma",

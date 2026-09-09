@@ -8,7 +8,7 @@ export const cinnamonBun0283ChapterTwoHundredAndSeventyFiveCasus = {
   story: "story-read/cinnamon-bun",
   position: 283,
   ownLength: 2186,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/824124/chapter-two-hundred-and-seventy-five-casus-antibelli",

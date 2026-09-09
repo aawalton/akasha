@@ -8,7 +8,7 @@ export const cinnamonBun0217ChapterTwoHundredAndNineNotTheHeroWeNeed = {
   story: "story-read/cinnamon-bun",
   position: 217,
   ownLength: 1883,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/701639/chapter-two-hundred-and-nine-not-the-hero-we-need",

@@ -8,7 +8,7 @@ export const cinnamonBun0329ChapterThreeHundredAndTwentyOneUprooted = {
   story: "story-read/cinnamon-bun",
   position: 329,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/933298/chapter-three-hundred-and-twenty-one-uprooted",

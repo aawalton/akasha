@@ -8,7 +8,7 @@ export const cinnamonBun0381BroccoliClaus = {
   story: "story-read/cinnamon-bun",
   position: 381,
   ownLength: 461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1071405/broccoli-claus",

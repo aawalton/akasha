@@ -8,7 +8,7 @@ export const cinnamonBun0456ChapterFourHundredAndFortyTwoFetchingHelp = {
   story: "story-read/cinnamon-bun",
   position: 456,
   ownLength: 1463,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1394621/chapter-four-hundred-and-forty-two-fetching-help",

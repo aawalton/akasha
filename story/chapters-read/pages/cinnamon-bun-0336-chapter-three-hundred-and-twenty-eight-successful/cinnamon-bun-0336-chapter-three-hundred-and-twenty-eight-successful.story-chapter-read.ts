@@ -8,7 +8,7 @@ export const cinnamonBun0336ChapterThreeHundredAndTwentyEightSuccessful = {
   story: "story-read/cinnamon-bun",
   position: 336,
   ownLength: 1926,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/956984/chapter-three-hundred-and-twenty-eight-successful",

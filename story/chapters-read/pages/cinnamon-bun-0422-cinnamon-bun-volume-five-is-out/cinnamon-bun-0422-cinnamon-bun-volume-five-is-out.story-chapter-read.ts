@@ -8,7 +8,7 @@ export const cinnamonBun0422CinnamonBunVolumeFiveIsOut = {
   story: "story-read/cinnamon-bun",
   position: 422,
   ownLength: 279,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1229749/cinnamon-bun-volume-five-is-out",

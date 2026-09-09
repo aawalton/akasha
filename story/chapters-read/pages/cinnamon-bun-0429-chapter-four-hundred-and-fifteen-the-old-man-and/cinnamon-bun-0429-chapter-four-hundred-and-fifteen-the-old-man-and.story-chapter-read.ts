@@ -8,7 +8,7 @@ export const cinnamonBun0429ChapterFourHundredAndFifteenTheOldManAnd = {
   story: "story-read/cinnamon-bun",
   position: 429,
   ownLength: 1953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1269409/chapter-four-hundred-and-fifteen-the-old-man-and",

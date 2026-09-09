@@ -8,7 +8,7 @@ export const cinnamonBun0296ChapterTwoHundredAndEightyEightYouveGotta = {
   story: "story-read/cinnamon-bun",
   position: 296,
   ownLength: 1823,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/855932/chapter-two-hundred-and-eighty-eight-youve-gotta",

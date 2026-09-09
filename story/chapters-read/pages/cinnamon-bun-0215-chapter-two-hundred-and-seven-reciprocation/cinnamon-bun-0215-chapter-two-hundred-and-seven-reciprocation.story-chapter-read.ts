@@ -8,7 +8,7 @@ export const cinnamonBun0215ChapterTwoHundredAndSevenReciprocation = {
   story: "story-read/cinnamon-bun",
   position: 215,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/699389/chapter-two-hundred-and-seven-reciprocation",

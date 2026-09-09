@@ -8,7 +8,7 @@ export const cinnamonBun0237ChapterTwoHundredAndTwentyNineArmourUp = {
   story: "story-read/cinnamon-bun",
   position: 237,
   ownLength: 1919,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/721616/chapter-two-hundred-and-twenty-nine-armour-up",

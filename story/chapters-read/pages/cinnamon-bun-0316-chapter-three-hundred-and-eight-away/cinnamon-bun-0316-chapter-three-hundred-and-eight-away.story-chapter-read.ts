@@ -8,7 +8,7 @@ export const cinnamonBun0316ChapterThreeHundredAndEightAway = {
   story: "story-read/cinnamon-bun",
   position: 316,
   ownLength: 2043,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/901081/chapter-three-hundred-and-eight-away",

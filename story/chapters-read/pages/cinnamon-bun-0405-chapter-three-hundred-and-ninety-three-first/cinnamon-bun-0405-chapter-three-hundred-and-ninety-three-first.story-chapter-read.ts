@@ -8,7 +8,7 @@ export const cinnamonBun0405ChapterThreeHundredAndNinetyThreeFirst = {
   story: "story-read/cinnamon-bun",
   position: 405,
   ownLength: 2028,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1146499/chapter-three-hundred-and-ninety-three-first-person",

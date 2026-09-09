@@ -8,7 +8,7 @@ export const cinnamonBun0277ChapterTwoHundredAndSixtyNineRoyaltea = {
   story: "story-read/cinnamon-bun",
   position: 277,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/794310/chapter-two-hundred-and-sixty-nine-royaltea",

@@ -8,7 +8,7 @@ export const cinnamonBun0146ChapterOneHundredAndFortyOneBroccoliIsTo = {
   story: "story-read/cinnamon-bun",
   position: 146,
   ownLength: 1999,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/596474/chapter-one-hundred-and-forty-one-broccoli-is",

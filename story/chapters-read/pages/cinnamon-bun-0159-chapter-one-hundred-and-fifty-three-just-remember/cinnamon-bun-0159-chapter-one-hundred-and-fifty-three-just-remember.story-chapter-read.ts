@@ -8,7 +8,7 @@ export const cinnamonBun0159ChapterOneHundredAndFiftyThreeJustRemember = {
   story: "story-read/cinnamon-bun",
   position: 159,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/618177/chapter-one-hundred-and-fifty-three-just-remember",

@@ -8,7 +8,7 @@ export const cinnamonBun0341ChapterThreeHundredAndThirtyThreeCatchingUp = {
   story: "story-read/cinnamon-bun",
   position: 341,
   ownLength: 1900,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/969121/chapter-three-hundred-and-thirty-three-catching",

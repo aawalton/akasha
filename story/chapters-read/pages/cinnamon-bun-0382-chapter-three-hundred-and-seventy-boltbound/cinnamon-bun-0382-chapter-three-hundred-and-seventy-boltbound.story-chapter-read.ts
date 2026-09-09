@@ -8,7 +8,7 @@ export const cinnamonBun0382ChapterThreeHundredAndSeventyBoltbound = {
   story: "story-read/cinnamon-bun",
   position: 382,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1072927/chapter-three-hundred-and-seventy-boltbound",

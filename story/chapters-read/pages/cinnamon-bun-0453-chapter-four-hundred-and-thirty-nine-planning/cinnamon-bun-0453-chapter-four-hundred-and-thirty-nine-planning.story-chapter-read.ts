@@ -8,7 +8,7 @@ export const cinnamonBun0453ChapterFourHundredAndThirtyNinePlanning = {
   story: "story-read/cinnamon-bun",
   position: 453,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1369975/chapter-four-hundred-and-thirty-nine-planning",

@@ -8,7 +8,7 @@ export const cinnamonBun0414ChapterFourHundredAndOneAbsenceMakesThe = {
   story: "story-read/cinnamon-bun",
   position: 414,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1194868/chapter-four-hundred-and-one-absence-makes-the",

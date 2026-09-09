@@ -8,7 +8,7 @@ export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   story: "story-read/cinnamon-bun",
   position: 432,
   ownLength: 2020,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1281322/chapter-four-hundred-and-eighteen-reluctantly",

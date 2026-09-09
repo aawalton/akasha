@@ -8,7 +8,7 @@ export const cinnamonBun0243ChapterTwoHundredAndThirtyFiveCrossCultural = {
   story: "story-read/cinnamon-bun",
   position: 243,
   ownLength: 2041,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/731545/chapter-two-hundred-and-thirty-five-cross-cultural",

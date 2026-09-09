@@ -8,7 +8,7 @@ export const cinnamonBun0262ChapterTwoHundredAndFiftyFourJointStrike = {
   story: "story-read/cinnamon-bun",
   position: 262,
   ownLength: 1899,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/765580/chapter-two-hundred-and-fifty-four-joint-strike",

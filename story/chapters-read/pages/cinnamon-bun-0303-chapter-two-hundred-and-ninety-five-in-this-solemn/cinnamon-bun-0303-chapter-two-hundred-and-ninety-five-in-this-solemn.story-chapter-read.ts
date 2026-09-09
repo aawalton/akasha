@@ -8,7 +8,7 @@ export const cinnamonBun0303ChapterTwoHundredAndNinetyFiveInThisSolemn = {
   story: "story-read/cinnamon-bun",
   position: 303,
   ownLength: 2092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/870859/chapter-two-hundred-and-ninety-five-in-this-solemn",

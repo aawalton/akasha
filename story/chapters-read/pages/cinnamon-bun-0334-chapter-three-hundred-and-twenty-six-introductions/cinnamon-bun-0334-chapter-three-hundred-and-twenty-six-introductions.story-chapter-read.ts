@@ -8,7 +8,7 @@ export const cinnamonBun0334ChapterThreeHundredAndTwentySixIntroductions = {
   story: "story-read/cinnamon-bun",
   position: 334,
   ownLength: 1974,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/951882/chapter-three-hundred-and-twenty-six-introductions",

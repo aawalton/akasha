@@ -8,7 +8,7 @@ export const cinnamonBun0327ChapterThreeHundredAndNineteenNightieKnight = {
   story: "story-read/cinnamon-bun",
   position: 327,
   ownLength: 2029,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/929178/chapter-three-hundred-and-nineteen-nightie-knight",

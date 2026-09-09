@@ -8,7 +8,7 @@ export const cinnamonBun0452ChapterFourHundredAndThirtyEightReturnOf = {
   story: "story-read/cinnamon-bun",
   position: 452,
   ownLength: 2500,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1362648/chapter-four-hundred-and-thirty-eight-return-of",

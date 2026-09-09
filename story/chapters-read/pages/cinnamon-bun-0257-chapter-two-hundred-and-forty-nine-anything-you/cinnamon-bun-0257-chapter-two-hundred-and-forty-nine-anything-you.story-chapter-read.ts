@@ -9,7 +9,7 @@ export const cinnamonBun0257ChapterTwoHundredAndFortyNineAnythingYou = {
   story: "story-read/cinnamon-bun",
   position: 257,
   ownLength: 1940,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/755370/chapter-two-hundred-and-forty-nine-anything-you",

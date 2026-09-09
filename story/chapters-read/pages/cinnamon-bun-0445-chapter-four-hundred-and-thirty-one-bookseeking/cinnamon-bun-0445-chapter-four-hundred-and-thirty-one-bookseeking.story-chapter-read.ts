@@ -8,7 +8,7 @@ export const cinnamonBun0445ChapterFourHundredAndThirtyOneBookseeking = {
   story: "story-read/cinnamon-bun",
   position: 445,
   ownLength: 1934,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1335714/chapter-four-hundred-and-thirty-one-bookseeking",

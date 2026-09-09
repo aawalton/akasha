@@ -8,7 +8,7 @@ export const cinnamonBun0149ChapterOneHundredAndFortyFourLaVogueDeLa = {
   story: "story-read/cinnamon-bun",
   position: 149,
   ownLength: 1972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/604204/chapter-one-hundred-and-forty-four-la-vogue-de",

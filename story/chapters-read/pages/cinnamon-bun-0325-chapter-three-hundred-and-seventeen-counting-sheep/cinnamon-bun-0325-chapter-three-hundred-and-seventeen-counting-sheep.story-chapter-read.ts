@@ -8,7 +8,7 @@ export const cinnamonBun0325ChapterThreeHundredAndSeventeenCountingSheep = {
   story: "story-read/cinnamon-bun",
   position: 325,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/924237/chapter-three-hundred-and-seventeen-counting-sheep",

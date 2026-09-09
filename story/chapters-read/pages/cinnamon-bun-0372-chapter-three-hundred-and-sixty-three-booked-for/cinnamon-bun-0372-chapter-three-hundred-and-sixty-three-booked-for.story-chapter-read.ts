@@ -8,7 +8,7 @@ export const cinnamonBun0372ChapterThreeHundredAndSixtyThreeBookedFor = {
   story: "story-read/cinnamon-bun",
   position: 372,
   ownLength: 2138,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1048147/chapter-three-hundred-and-sixty-three-booked-for",

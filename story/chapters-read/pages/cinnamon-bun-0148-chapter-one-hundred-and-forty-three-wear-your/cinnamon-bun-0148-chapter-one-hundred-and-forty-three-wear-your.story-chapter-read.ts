@@ -8,7 +8,7 @@ export const cinnamonBun0148ChapterOneHundredAndFortyThreeWearYour = {
   story: "story-read/cinnamon-bun",
   position: 148,
   ownLength: 1973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/603269/chapter-one-hundred-and-forty-three-wear-your",

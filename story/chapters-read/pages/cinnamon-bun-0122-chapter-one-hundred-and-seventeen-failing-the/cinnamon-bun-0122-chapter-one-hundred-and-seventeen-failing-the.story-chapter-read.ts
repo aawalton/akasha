@@ -8,7 +8,7 @@ export const cinnamonBun0122ChapterOneHundredAndSeventeenFailingThe = {
   story: "story-read/cinnamon-bun",
   position: 122,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/572358/chapter-one-hundred-and-seventeen-failing-the",

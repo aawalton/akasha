@@ -8,7 +8,7 @@ export const cinnamonBun0194ChapterOneHundredAndEightySevenCuterThanA = {
   story: "story-read/cinnamon-bun",
   position: 194,
   ownLength: 1964,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/680589/chapter-one-hundred-and-eighty-seven-cuter-than",

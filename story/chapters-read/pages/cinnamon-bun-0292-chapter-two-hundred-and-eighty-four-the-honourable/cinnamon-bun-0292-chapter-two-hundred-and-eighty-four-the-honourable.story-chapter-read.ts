@@ -8,7 +8,7 @@ export const cinnamonBun0292ChapterTwoHundredAndEightyFourTheHonourable = {
   story: "story-read/cinnamon-bun",
   position: 292,
   ownLength: 1944,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/846168/chapter-two-hundred-and-eighty-four-the-honourable",

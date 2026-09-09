@@ -8,7 +8,7 @@ export const cinnamonBun0301ChapterTwoHundredAndNinetyThreeBlitzkrieg = {
   story: "story-read/cinnamon-bun",
   position: 301,
   ownLength: 1975,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/866601/chapter-two-hundred-and-ninety-three-blitzkrieg",

@@ -8,7 +8,7 @@ export const cinnamonBun0176ChapterOneHundredAndSeventyThePiratesLair = {
   story: "story-read/cinnamon-bun",
   position: 176,
   ownLength: 1983,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/647489/chapter-one-hundred-and-seventy-the-pirates-lair",

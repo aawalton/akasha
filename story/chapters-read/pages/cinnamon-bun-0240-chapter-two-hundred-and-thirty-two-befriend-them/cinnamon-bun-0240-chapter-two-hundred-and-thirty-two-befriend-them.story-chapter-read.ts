@@ -8,7 +8,7 @@ export const cinnamonBun0240ChapterTwoHundredAndThirtyTwoBefriendThem = {
   story: "story-read/cinnamon-bun",
   position: 240,
   ownLength: 2080,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/725706/chapter-two-hundred-and-thirty-two-befriend-them",

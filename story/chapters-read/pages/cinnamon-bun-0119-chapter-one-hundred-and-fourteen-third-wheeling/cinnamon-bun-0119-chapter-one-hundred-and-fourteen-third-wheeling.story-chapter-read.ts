@@ -8,7 +8,7 @@ export const cinnamonBun0119ChapterOneHundredAndFourteenThirdWheeling = {
   story: "story-read/cinnamon-bun",
   position: 119,
   ownLength: 2049,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/570949/chapter-one-hundred-and-fourteen-third-wheeling",

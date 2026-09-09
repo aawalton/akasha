@@ -9,7 +9,7 @@ export const cinnamonBun0167ChapterOneHundredAndSixtyOneYouCanSeeThe = {
   story: "story-read/cinnamon-bun",
   position: 167,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/633760/chapter-one-hundred-and-sixty-one-you-can-see",

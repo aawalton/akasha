@@ -8,7 +8,7 @@ export const cinnamonBun0401ChapterThreeHundredAndEightyNineAntipathy = {
   story: "story-read/cinnamon-bun",
   position: 401,
   ownLength: 2051,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1133640/chapter-three-hundred-and-eighty-nine-antipathy",

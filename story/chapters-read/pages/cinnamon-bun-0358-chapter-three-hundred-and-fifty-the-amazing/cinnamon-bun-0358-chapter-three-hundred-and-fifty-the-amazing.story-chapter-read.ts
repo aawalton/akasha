@@ -8,7 +8,7 @@ export const cinnamonBun0358ChapterThreeHundredAndFiftyTheAmazing = {
   story: "story-read/cinnamon-bun",
   position: 358,
   ownLength: 1966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1014221/chapter-three-hundred-and-fifty-the-amazing-spidermom",

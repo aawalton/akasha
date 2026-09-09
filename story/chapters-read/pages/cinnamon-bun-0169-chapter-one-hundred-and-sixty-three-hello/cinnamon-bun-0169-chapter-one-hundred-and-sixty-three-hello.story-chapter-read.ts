@@ -8,7 +8,7 @@ export const cinnamonBun0169ChapterOneHundredAndSixtyThreeHello = {
   story: "story-read/cinnamon-bun",
   position: 169,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/637580/chapter-one-hundred-and-sixty-three-hello-darkwoods",

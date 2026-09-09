@@ -8,7 +8,7 @@ export const cinnamonBun0315ChapterThreeHundredAndSevenHiringA = {
   story: "story-read/cinnamon-bun",
   position: 315,
   ownLength: 1952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/900002/chapter-three-hundred-and-seven-hiring-a-professional",

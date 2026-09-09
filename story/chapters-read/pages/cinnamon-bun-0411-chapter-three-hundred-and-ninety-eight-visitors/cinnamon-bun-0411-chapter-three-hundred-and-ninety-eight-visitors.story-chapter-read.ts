@@ -8,7 +8,7 @@ export const cinnamonBun0411ChapterThreeHundredAndNinetyEightVisitors = {
   story: "story-read/cinnamon-bun",
   position: 411,
   ownLength: 1952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1184766/chapter-three-hundred-and-ninety-eight-visitors",

@@ -8,7 +8,7 @@ export const cinnamonBun0183ChapterOneHundredAndSeventySevenDoubleTime = {
   story: "story-read/cinnamon-bun",
   position: 183,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/654495/chapter-one-hundred-and-seventy-seven-double-time",

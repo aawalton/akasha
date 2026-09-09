@@ -8,7 +8,7 @@ export const cinnamonBun0263ChapterTwoHundredAndFiftyFiveSnakesAreA = {
   story: "story-read/cinnamon-bun",
   position: 263,
   ownLength: 1905,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/766557/chapter-two-hundred-and-fifty-five-snakes-are",

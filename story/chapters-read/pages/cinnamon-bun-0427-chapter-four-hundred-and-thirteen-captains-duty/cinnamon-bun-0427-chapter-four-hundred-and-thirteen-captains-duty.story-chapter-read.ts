@@ -8,7 +8,7 @@ export const cinnamonBun0427ChapterFourHundredAndThirteenCaptainsDuty = {
   story: "story-read/cinnamon-bun",
   position: 427,
   ownLength: 2152,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1252567/chapter-four-hundred-and-thirteen-captains-duty",

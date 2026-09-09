@@ -8,7 +8,7 @@ export const cinnamonBun0395ChapterThreeHundredAndEightyThreeSiVis = {
   story: "story-read/cinnamon-bun",
   position: 395,
   ownLength: 1810,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1115782/chapter-three-hundred-and-eighty-three-si-vis",

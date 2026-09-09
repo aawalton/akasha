@@ -8,7 +8,7 @@ export const cinnamonBun0324ChapterThreeHundredAndSixteenPastTense = {
   story: "story-read/cinnamon-bun",
   position: 324,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/922740/chapter-three-hundred-and-sixteen-past-tense",

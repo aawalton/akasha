@@ -8,7 +8,7 @@ export const cinnamonBun0155ChapterOneHundredAndFortyNinePreludeTo = {
   story: "story-read/cinnamon-bun",
   position: 155,
   ownLength: 1975,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/612590/chapter-one-hundred-and-forty-nine-prelude-to",

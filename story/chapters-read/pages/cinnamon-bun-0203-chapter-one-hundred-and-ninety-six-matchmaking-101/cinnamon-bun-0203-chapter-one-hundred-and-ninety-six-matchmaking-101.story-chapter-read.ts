@@ -8,7 +8,7 @@ export const cinnamonBun0203ChapterOneHundredAndNinetySixMatchmaking101 = {
   story: "story-read/cinnamon-bun",
   position: 203,
   ownLength: 1931,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/688620/chapter-one-hundred-and-ninety-six-matchmaking",

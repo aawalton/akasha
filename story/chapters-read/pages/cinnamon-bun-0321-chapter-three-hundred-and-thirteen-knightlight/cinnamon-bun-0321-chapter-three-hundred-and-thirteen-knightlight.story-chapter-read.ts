@@ -8,7 +8,7 @@ export const cinnamonBun0321ChapterThreeHundredAndThirteenKnightlight = {
   story: "story-read/cinnamon-bun",
   position: 321,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/915499/chapter-three-hundred-and-thirteen-knightlight",

@@ -8,7 +8,7 @@ export const cinnamonBun0223ChapterTwoHundredAndFifteenUnMistTakeable = {
   story: "story-read/cinnamon-bun",
   position: 223,
   ownLength: 1998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/709423/chapter-two-hundred-and-fifteen-un-mist-takeable",

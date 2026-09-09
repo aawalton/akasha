@@ -8,7 +8,7 @@ export const cinnamonBun0347ChapterThreeHundredAndThirtyNineFinders = {
   story: "story-read/cinnamon-bun",
   position: 347,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/984663/chapter-three-hundred-and-thirty-nine-finders",

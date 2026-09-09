@@ -8,7 +8,7 @@ export const cinnamonBun0362ChapterThreeHundredAndFiftyFourPiracysA = {
   story: "story-read/cinnamon-bun",
   position: 362,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1023898/chapter-three-hundred-and-fifty-four-piracys-a",

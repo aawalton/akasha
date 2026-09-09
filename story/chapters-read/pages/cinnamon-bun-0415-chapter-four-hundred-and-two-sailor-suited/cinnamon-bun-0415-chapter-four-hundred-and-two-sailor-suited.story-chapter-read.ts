@@ -8,7 +8,7 @@ export const cinnamonBun0415ChapterFourHundredAndTwoSailorSuited = {
   story: "story-read/cinnamon-bun",
   position: 415,
   ownLength: 1946,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1199972/chapter-four-hundred-and-two-sailor-suited-soldiers",

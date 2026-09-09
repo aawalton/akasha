@@ -8,7 +8,7 @@ export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   story: "story-read/cinnamon-bun",
   position: 437,
   ownLength: 2027,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1298983/chapter-four-hundred-and-twenty-three-awake-at",

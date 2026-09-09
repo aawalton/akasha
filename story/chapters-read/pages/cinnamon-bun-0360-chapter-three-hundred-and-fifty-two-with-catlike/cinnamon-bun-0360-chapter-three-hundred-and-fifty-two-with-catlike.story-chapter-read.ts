@@ -8,7 +8,7 @@ export const cinnamonBun0360ChapterThreeHundredAndFiftyTwoWithCatlike = {
   story: "story-read/cinnamon-bun",
   position: 360,
   ownLength: 1933,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1019049/chapter-three-hundred-and-fifty-two-with-catlike",

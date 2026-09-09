@@ -8,7 +8,7 @@ export const cinnamonBun0236ChapterTwoHundredAndTwentyEightTheGreat = {
   story: "story-read/cinnamon-bun",
   position: 236,
   ownLength: 1929,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/720905/chapter-two-hundred-and-twenty-eight-the-great",

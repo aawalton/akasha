@@ -8,7 +8,7 @@ export const cinnamonBun0185TheFriendshipCircleOfVeryNiceGirlsPartV = {
   story: "story-read/cinnamon-bun",
   position: 185,
   ownLength: 1697,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/656184/the-friendship-circle-of-very-nice-girls-part",

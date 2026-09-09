@@ -8,7 +8,7 @@ export const cinnamonBun0392ChapterThreeHundredAndEightyTheWedding = {
   story: "story-read/cinnamon-bun",
   position: 392,
   ownLength: 1761,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1101829/chapter-three-hundred-and-eighty-the-wedding-trackers",

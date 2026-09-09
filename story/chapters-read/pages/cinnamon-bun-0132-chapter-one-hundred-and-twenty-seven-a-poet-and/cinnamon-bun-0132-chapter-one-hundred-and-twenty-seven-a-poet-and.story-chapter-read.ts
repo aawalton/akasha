@@ -8,7 +8,7 @@ export const cinnamonBun0132ChapterOneHundredAndTwentySevenAPoetAnd = {
   story: "story-read/cinnamon-bun",
   position: 132,
   ownLength: 2006,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-06",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/580341/chapter-one-hundred-and-twenty-seven-a-poet-and",

@@ -8,7 +8,7 @@ export const cinnamonBun0195ChapterOneHundredAndEightyEightWalkingSongs = {
   story: "story-read/cinnamon-bun",
   position: 195,
   ownLength: 1908,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/681246/chapter-one-hundred-and-eighty-eight-walking-songs",

@@ -8,7 +8,7 @@ export const cinnamonBun0124ChapterOneHundredAndNineteenMorepoles = {
   story: "story-read/cinnamon-bun",
   position: 124,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/573307/chapter-one-hundred-and-nineteen-morepoles",

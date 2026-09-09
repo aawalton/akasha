@@ -8,7 +8,7 @@ export const cinnamonBun0280ChapterTwoHundredAndSeventyTwoChivalryIsnt = {
   story: "story-read/cinnamon-bun",
   position: 280,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/818294/chapter-two-hundred-and-seventy-two-chivalry-isnt",

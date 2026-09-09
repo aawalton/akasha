@@ -8,7 +8,7 @@ export const cinnamonBun0242ChapterTwoHundredAndThirtyFourAckAck = {
   story: "story-read/cinnamon-bun",
   position: 242,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/728955/chapter-two-hundred-and-thirty-four-ack-ack",

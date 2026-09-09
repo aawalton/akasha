@@ -8,7 +8,7 @@ export const cinnamonBun0396ChapterThreeHundredAndEightyFourSmallTown = {
   story: "story-read/cinnamon-bun",
   position: 396,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1119414/chapter-three-hundred-and-eighty-four-small-town",

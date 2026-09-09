@@ -8,7 +8,7 @@ export const cinnamonBun0351ChapterThreeHundredAndFortyThreeHoppingThe = {
   story: "story-read/cinnamon-bun",
   position: 351,
   ownLength: 1994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/994955/chapter-three-hundred-and-forty-three-hopping",

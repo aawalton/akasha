@@ -8,7 +8,7 @@ export const cinnamonBun0210ChapterTwoHundredAndTwoHeartOfDarkness = {
   story: "story-read/cinnamon-bun",
   position: 210,
   ownLength: 1980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/692540/chapter-two-hundred-and-two-heart-of-darkness",

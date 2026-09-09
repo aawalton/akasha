@@ -8,7 +8,7 @@ export const cinnamonBun0244ChapterTwoHundredAndThirtySixListenUp = {
   story: "story-read/cinnamon-bun",
   position: 244,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/732792/chapter-two-hundred-and-thirty-six-listen-up-maggots",

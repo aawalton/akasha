@@ -8,7 +8,7 @@ export const cinnamonBun0371ChapterThreeHundredAndSixtyTwoIfTheEnemy = {
   story: "story-read/cinnamon-bun",
   position: 371,
   ownLength: 1838,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1046504/chapter-three-hundred-and-sixty-two-if-the-enemy",

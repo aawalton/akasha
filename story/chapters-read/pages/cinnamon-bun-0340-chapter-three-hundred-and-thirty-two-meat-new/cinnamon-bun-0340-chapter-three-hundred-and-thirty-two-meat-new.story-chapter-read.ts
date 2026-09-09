@@ -8,7 +8,7 @@ export const cinnamonBun0340ChapterThreeHundredAndThirtyTwoMeatNew = {
   story: "story-read/cinnamon-bun",
   position: 340,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/967277/chapter-three-hundred-and-thirty-two-meat-new",

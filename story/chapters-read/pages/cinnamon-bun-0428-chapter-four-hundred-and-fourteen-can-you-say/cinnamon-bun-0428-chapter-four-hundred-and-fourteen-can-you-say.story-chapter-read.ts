@@ -8,7 +8,7 @@ export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   story: "story-read/cinnamon-bun",
   position: 428,
   ownLength: 1992,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1266913/chapter-four-hundred-and-fourteen-can-you-say",

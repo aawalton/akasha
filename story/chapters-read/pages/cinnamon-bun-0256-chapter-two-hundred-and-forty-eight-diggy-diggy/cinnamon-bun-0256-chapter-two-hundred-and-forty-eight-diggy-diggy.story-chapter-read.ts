@@ -8,7 +8,7 @@ export const cinnamonBun0256ChapterTwoHundredAndFortyEightDiggyDiggy = {
   story: "story-read/cinnamon-bun",
   position: 256,
   ownLength: 1878,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/754248/chapter-two-hundred-and-forty-eight-diggy-diggy",

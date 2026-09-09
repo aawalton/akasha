@@ -8,7 +8,7 @@ export const cinnamonBun0391ChapterThreeHundredAndSeventyNinePolite = {
   story: "story-read/cinnamon-bun",
   position: 391,
   ownLength: 1967,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1098049/chapter-three-hundred-and-seventy-nine-polite",

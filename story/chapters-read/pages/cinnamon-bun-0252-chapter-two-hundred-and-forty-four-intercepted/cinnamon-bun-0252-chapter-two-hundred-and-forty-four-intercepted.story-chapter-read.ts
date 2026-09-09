@@ -8,7 +8,7 @@ export const cinnamonBun0252ChapterTwoHundredAndFortyFourIntercepted = {
   story: "story-read/cinnamon-bun",
   position: 252,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/747329/chapter-two-hundred-and-forty-four-intercepted",

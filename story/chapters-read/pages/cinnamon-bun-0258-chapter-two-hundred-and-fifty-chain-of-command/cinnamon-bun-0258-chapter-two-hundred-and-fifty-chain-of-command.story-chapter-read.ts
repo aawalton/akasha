@@ -8,7 +8,7 @@ export const cinnamonBun0258ChapterTwoHundredAndFiftyChainOfCommand = {
   story: "story-read/cinnamon-bun",
   position: 258,
   ownLength: 1960,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/758171/chapter-two-hundred-and-fifty-chain-of-command",

@@ -8,7 +8,7 @@ export const cinnamonBun0152ChapterOneHundredAndFortySixForewarnedIs = {
   story: "story-read/cinnamon-bun",
   position: 152,
   ownLength: 2026,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/607315/chapter-one-hundred-and-forty-six-forewarned-is",

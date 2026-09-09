@@ -8,7 +8,7 @@ export const cinnamonBun0400ChapterThreeHundredAndEightyEightMothErOf = {
   story: "story-read/cinnamon-bun",
   position: 400,
   ownLength: 2045,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1131592/chapter-three-hundred-and-eighty-eight-moth-er",

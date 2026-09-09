@@ -8,7 +8,7 @@ export const cinnamonBun0163ChapterOneHundredAndFiftySevenAdventure = {
   story: "story-read/cinnamon-bun",
   position: 163,
   ownLength: 1893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/625523/chapter-one-hundred-and-fifty-seven-adventure",

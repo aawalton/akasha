@@ -8,7 +8,7 @@ export const cinnamonBun0295ChapterTwoHundredAndEightySevenPolitical = {
   story: "story-read/cinnamon-bun",
   position: 295,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/852341/chapter-two-hundred-and-eighty-seven-political",

@@ -8,7 +8,7 @@ export const cinnamonBun0419ChapterFourHundredAndSixBookmouse = {
   story: "story-read/cinnamon-bun",
   position: 419,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1217461/chapter-four-hundred-and-six-bookmouse",

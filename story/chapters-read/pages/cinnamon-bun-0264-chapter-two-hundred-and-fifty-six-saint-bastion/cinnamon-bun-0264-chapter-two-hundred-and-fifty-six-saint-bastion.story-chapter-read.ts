@@ -8,7 +8,7 @@ export const cinnamonBun0264ChapterTwoHundredAndFiftySixSaintBastion = {
   story: "story-read/cinnamon-bun",
   position: 264,
   ownLength: 1914,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/769258/chapter-two-hundred-and-fifty-six-saint-bastion",

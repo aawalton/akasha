@@ -8,7 +8,7 @@ export const cinnamonBun0461ChapterFourHundredAndFortySevenId = {
   story: "story-read/cinnamon-bun",
   position: 461,
   ownLength: 1441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1417559/chapter-four-hundred-and-forty-seven-id",

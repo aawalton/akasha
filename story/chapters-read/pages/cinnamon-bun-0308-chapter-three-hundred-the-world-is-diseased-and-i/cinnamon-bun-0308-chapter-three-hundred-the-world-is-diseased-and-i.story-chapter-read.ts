@@ -8,7 +8,7 @@ export const cinnamonBun0308ChapterThreeHundredTheWorldIsDiseasedAndI = {
   story: "story-read/cinnamon-bun",
   position: 308,
   ownLength: 1951,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/880538/chapter-three-hundred-the-world-is-diseased-and",

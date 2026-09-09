@@ -8,7 +8,7 @@ export const cinnamonBun0127ChapterOneHundredAndTwentyTwoInterrogations = {
   story: "story-read/cinnamon-bun",
   position: 127,
   ownLength: 2038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/575732/chapter-one-hundred-and-twenty-two-interrogations",

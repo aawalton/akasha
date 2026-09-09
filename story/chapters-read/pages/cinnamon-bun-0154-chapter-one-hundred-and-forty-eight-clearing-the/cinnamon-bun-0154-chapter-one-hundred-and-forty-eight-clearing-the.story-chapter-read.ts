@@ -8,7 +8,7 @@ export const cinnamonBun0154ChapterOneHundredAndFortyEightClearingThe = {
   story: "story-read/cinnamon-bun",
   position: 154,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/611252/chapter-one-hundred-and-forty-eight-clearing-the",

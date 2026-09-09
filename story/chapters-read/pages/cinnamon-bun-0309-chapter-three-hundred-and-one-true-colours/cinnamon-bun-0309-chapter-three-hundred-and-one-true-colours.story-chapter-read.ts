@@ -8,7 +8,7 @@ export const cinnamonBun0309ChapterThreeHundredAndOneTrueColours = {
   story: "story-read/cinnamon-bun",
   position: 309,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/884462/chapter-three-hundred-and-one-true-colours",

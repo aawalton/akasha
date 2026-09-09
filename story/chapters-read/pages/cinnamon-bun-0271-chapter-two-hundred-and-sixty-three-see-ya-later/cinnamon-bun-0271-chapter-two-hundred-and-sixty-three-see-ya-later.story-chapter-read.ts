@@ -8,7 +8,7 @@ export const cinnamonBun0271ChapterTwoHundredAndSixtyThreeSeeYaLater = {
   story: "story-read/cinnamon-bun",
   position: 271,
   ownLength: 1980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/778950/chapter-two-hundred-and-sixty-three-see-ya-later",

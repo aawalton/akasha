@@ -8,7 +8,7 @@ export const cinnamonBun0345ChapterThreeHundredAndThirtySevenPiracyIn = {
   story: "story-read/cinnamon-bun",
   position: 345,
   ownLength: 1974,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/979608/chapter-three-hundred-and-thirty-seven-piracy",

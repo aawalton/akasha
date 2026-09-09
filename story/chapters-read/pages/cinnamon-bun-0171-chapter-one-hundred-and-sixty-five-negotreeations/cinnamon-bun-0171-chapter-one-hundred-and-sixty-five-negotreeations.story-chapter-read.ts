@@ -8,7 +8,7 @@ export const cinnamonBun0171ChapterOneHundredAndSixtyFiveNegotreeations = {
   story: "story-read/cinnamon-bun",
   position: 171,
   ownLength: 2021,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/640931/chapter-one-hundred-and-sixty-five-negotreeations",

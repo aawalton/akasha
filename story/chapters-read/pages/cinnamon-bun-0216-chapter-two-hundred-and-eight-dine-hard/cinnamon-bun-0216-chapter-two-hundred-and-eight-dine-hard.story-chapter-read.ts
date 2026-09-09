@@ -8,7 +8,7 @@ export const cinnamonBun0216ChapterTwoHundredAndEightDineHard = {
   story: "story-read/cinnamon-bun",
   position: 216,
   ownLength: 1893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/700524/chapter-two-hundred-and-eight-dine-hard",

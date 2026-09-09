@@ -8,7 +8,7 @@ export const cinnamonBun0390ChapterThreeHundredAndSeventyEightPayForIt = {
   story: "story-read/cinnamon-bun",
   position: 390,
   ownLength: 2088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1096234/chapter-three-hundred-and-seventy-eight-pay-for",

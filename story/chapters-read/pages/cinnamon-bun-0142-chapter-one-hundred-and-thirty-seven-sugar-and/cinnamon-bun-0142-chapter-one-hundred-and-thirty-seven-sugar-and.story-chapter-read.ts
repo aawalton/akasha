@@ -8,7 +8,7 @@ export const cinnamonBun0142ChapterOneHundredAndThirtySevenSugarAnd = {
   story: "story-read/cinnamon-bun",
   position: 142,
   ownLength: 1964,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/592996/chapter-one-hundred-and-thirty-seven-sugar-and",

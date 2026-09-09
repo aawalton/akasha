@@ -8,7 +8,7 @@ export const cinnamonBun0370ChapterThreeHundredAndSixtyOneBiteTheGust = {
   story: "story-read/cinnamon-bun",
   position: 370,
   ownLength: 2102,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1043004/chapter-three-hundred-and-sixty-one-bite-the-gust",

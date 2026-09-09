@@ -8,7 +8,7 @@ export const cinnamonBun0161ChapterOneHundredAndFiftyFivePanicAtThe = {
   story: "story-read/cinnamon-bun",
   position: 161,
   ownLength: 1937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/621578/chapter-one-hundred-and-fifty-five-panic-at-the",

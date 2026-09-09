@@ -8,7 +8,7 @@ export const cinnamonBun0311ChapterThreeHundredAndThreeOutOfTheDark = {
   story: "story-read/cinnamon-bun",
   position: 311,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/889841/chapter-three-hundred-and-three-out-of-the-dark",

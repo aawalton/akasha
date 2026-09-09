@@ -8,7 +8,7 @@ export const cinnamonBun0352ChapterThreeHundredAndFortyFourTheGolden = {
   story: "story-read/cinnamon-bun",
   position: 352,
   ownLength: 1963,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/998407/chapter-three-hundred-and-forty-four-the-golden",

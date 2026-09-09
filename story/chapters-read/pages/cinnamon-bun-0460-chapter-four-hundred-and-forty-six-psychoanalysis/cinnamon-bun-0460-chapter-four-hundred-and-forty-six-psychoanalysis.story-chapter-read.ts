@@ -8,7 +8,7 @@ export const cinnamonBun0460ChapterFourHundredAndFortySixPsychoanalysis = {
   story: "story-read/cinnamon-bun",
   position: 460,
   ownLength: 1654,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1412207/chapter-four-hundred-and-forty-six-psychoanalysis",

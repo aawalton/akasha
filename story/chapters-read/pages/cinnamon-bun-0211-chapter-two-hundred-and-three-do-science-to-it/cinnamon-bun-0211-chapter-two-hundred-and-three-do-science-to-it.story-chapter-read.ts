@@ -8,7 +8,7 @@ export const cinnamonBun0211ChapterTwoHundredAndThreeDoScienceToIt = {
   story: "story-read/cinnamon-bun",
   position: 211,
   ownLength: 2059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/693809/chapter-two-hundred-and-three-do-science-to-it",

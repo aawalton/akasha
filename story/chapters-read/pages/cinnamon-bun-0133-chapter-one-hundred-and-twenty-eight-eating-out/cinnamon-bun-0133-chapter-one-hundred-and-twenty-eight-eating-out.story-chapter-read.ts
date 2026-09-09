@@ -8,7 +8,7 @@ export const cinnamonBun0133ChapterOneHundredAndTwentyEightEatingOut = {
   story: "story-read/cinnamon-bun",
   position: 133,
   ownLength: 1927,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/582044/chapter-one-hundred-and-twenty-eight-eating-out",

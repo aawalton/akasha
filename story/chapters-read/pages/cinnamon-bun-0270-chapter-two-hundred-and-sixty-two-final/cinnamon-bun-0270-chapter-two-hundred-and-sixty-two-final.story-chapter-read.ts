@@ -8,7 +8,7 @@ export const cinnamonBun0270ChapterTwoHundredAndSixtyTwoFinal = {
   story: "story-read/cinnamon-bun",
   position: 270,
   ownLength: 2039,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/778158/chapter-two-hundred-and-sixty-two-final-destination",

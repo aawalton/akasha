@@ -8,7 +8,7 @@ export const cinnamonBun0209ChapterTwoHundredAndOneGrassrootsCampaign = {
   story: "story-read/cinnamon-bun",
   position: 209,
   ownLength: 1977,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/691223/chapter-two-hundred-and-one-grassroots-campaign",

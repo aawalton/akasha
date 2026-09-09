@@ -8,7 +8,7 @@ export const cinnamonBun0153ChapterOneHundredAndFortySevenInWhich = {
   story: "story-read/cinnamon-bun",
   position: 153,
   ownLength: 1843,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/610193/chapter-one-hundred-and-forty-seven-in-which-broccoli",

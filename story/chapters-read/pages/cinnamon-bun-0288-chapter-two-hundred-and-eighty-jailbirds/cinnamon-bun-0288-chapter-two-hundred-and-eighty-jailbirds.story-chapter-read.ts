@@ -8,7 +8,7 @@ export const cinnamonBun0288ChapterTwoHundredAndEightyJailbirds = {
   story: "story-read/cinnamon-bun",
   position: 288,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/836301/chapter-two-hundred-and-eighty-jailbirds",

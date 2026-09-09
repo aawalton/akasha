@@ -8,7 +8,7 @@ export const cinnamonBun0200ChapterOneHundredAndNinetyThreeCleanThe = {
   story: "story-read/cinnamon-bun",
   position: 200,
   ownLength: 1963,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/686251/chapter-one-hundred-and-ninety-three-clean-the",

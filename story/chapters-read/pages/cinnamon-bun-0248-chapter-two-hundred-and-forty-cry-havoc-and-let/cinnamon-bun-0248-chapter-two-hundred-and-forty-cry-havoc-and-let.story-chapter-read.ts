@@ -8,7 +8,7 @@ export const cinnamonBun0248ChapterTwoHundredAndFortyCryHavocAndLet = {
   story: "story-read/cinnamon-bun",
   position: 248,
   ownLength: 1961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/740485/chapter-two-hundred-and-forty-cry-havoc-and-let",

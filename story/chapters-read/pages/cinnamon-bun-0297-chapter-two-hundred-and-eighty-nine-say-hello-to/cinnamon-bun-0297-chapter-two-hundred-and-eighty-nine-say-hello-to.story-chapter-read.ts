@@ -8,7 +8,7 @@ export const cinnamonBun0297ChapterTwoHundredAndEightyNineSayHelloTo = {
   story: "story-read/cinnamon-bun",
   position: 297,
   ownLength: 2067,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/857170/chapter-two-hundred-and-eighty-nine-say-hello",

@@ -8,7 +8,7 @@ export const cinnamonBun0218ChapterTwoHundredAndTenReadTheMood = {
   story: "story-read/cinnamon-bun",
   position: 218,
   ownLength: 1988,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/703441/chapter-two-hundred-and-ten-read-the-mood",

@@ -8,7 +8,7 @@ export const cinnamonBun0418ChapterFourHundredAndFiveSocialNetworking = {
   story: "story-read/cinnamon-bun",
   position: 418,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1215498/chapter-four-hundred-and-five-social-networking",

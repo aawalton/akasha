@@ -8,7 +8,7 @@ export const cinnamonBun0265ChapterTwoHundredAndFiftySevenQuarry = {
   story: "story-read/cinnamon-bun",
   position: 265,
   ownLength: 2060,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/770332/chapter-two-hundred-and-fifty-seven-quarry",

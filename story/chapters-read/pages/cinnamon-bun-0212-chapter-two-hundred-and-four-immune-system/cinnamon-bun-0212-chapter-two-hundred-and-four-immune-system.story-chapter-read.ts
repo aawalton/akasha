@@ -8,7 +8,7 @@ export const cinnamonBun0212ChapterTwoHundredAndFourImmuneSystem = {
   story: "story-read/cinnamon-bun",
   position: 212,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/695354/chapter-two-hundred-and-four-immune-system",

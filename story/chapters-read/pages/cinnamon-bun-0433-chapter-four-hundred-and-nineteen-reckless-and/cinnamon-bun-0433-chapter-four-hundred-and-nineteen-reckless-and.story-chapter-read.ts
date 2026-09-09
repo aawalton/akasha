@@ -8,7 +8,7 @@ export const cinnamonBun0433ChapterFourHundredAndNineteenRecklessAnd = {
   story: "story-read/cinnamon-bun",
   position: 433,
   ownLength: 2029,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1283949/chapter-four-hundred-and-nineteen-reckless-and",

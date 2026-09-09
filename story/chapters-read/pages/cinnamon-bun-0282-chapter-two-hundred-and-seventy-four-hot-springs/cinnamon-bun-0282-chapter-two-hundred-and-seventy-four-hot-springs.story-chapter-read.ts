@@ -8,7 +8,7 @@ export const cinnamonBun0282ChapterTwoHundredAndSeventyFourHotSprings = {
   story: "story-read/cinnamon-bun",
   position: 282,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/822570/chapter-two-hundred-and-seventy-four-hot-springs",

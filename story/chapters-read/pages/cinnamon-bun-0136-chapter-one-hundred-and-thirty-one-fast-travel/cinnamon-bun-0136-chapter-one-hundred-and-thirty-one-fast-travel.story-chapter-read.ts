@@ -8,7 +8,7 @@ export const cinnamonBun0136ChapterOneHundredAndThirtyOneFastTravel = {
   story: "story-read/cinnamon-bun",
   position: 136,
   ownLength: 2089,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/585814/chapter-one-hundred-and-thirty-one-fast-travel",

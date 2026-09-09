@@ -8,7 +8,7 @@ export const cinnamonBun0140ChapterOneHundredAndThirtyFiveGreatBallsOf = {
   story: "story-read/cinnamon-bun",
   position: 140,
   ownLength: 2159,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/590687/chapter-one-hundred-and-thirty-five-great-balls",

@@ -8,7 +8,7 @@ export const cinnamonBun0344ChapterThreeHundredAndThirtySixCrashScene = {
   story: "story-read/cinnamon-bun",
   position: 344,
   ownLength: 2124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/978145/chapter-three-hundred-and-thirty-six-crash-scene",
