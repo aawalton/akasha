@@ -1,4 +1,4 @@
-import { namespaceYaml } from "../seaweedfs-namespace/seaweedfs-namespace.module.code.ts"
+import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
 import {
   COMPONENT_PRUNE,
   PRUNE_NAMESPACE,

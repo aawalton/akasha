@@ -1,3 +1,4 @@
+import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
 import {
   backupPvcYaml,
   backupPvYaml,
@@ -7,7 +8,6 @@ import {
   ASSETS_NAMESPACE,
   backupAssetsCronJobYaml,
 } from "../seaweedfs-longtail-assets/seaweedfs-longtail-assets.module.code.ts"
-import { namespaceYaml } from "../seaweedfs-namespace/seaweedfs-namespace.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

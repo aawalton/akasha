@@ -1,4 +1,5 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { filerDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   COMPONENT_FILER,
   componentLabels,
@@ -8,7 +9,6 @@ import {
   NAMESPACE,
   selectorLabels,
 } from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
-import { filerDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service-filer", {

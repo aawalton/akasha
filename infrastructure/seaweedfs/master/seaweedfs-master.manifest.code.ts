@@ -1,6 +1,7 @@
 import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   backupPvcYaml,
   backupPvYaml,
@@ -17,7 +18,6 @@ import {
   STORAGE_LABELS,
   selectorLabels,
 } from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
-import { masterDeploymentYaml } from "../seaweedfs-deployments/seaweedfs-deployments.module.code.ts"
 
 const SHARED_BACKUP = "seaweedfs-backup"
 
