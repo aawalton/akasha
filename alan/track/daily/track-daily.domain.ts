@@ -6,7 +6,6 @@ export const trackDaily = {
   slug: "track-daily",
   definition: "what is measured about Alan a day at a time",
   parts: [
-    "page-type/email-entry",
     "page-type/day",
     "module/day-narrow-types",
     "module/day-place",
