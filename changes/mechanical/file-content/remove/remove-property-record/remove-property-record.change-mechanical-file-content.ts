@@ -52,6 +52,15 @@ export const removePropertyRecord = {
       invariantKind: "absence",
       statement: "Nothing here reads what the record means.",
     },
+    {
+      invariantKind: "absence",
+      statement: "The only text written here is the empty string, so no relation value arrives.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
