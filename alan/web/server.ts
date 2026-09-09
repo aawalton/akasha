@@ -32,16 +32,6 @@ const CSP_CONFIG: AppCspConfig = {
   mediaSrc: ["blob:"],
 }
 
-// A hold over the checkout derivations sat here. Every page query used to ask whether its page
-// type was answered from this pod's own checkout, and that question rebuilt a derivation keyed on
-// a fresh FileTree, costing about 250ms of synchronous `git ls-tree` and `git diff-index` each
-// time. Asked once per page type it ran to 57.6s of work no `await` could yield out of, which is
-// long enough for six consecutive liveness probes to time out and for kubelet to kill the
-// container mid request. The hold bounded that sweep rather than removing it.
-//
-// The branch it was bounding is gone: `@shared/pages-query` no longer reads the checkout on any
-// path, so there is no derivation to hold and nothing synchronous left to yield out of.
-
 const PORT_SCHEMA = z.coerce.number().int().positive().max(65535).default(3000)
 const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")
 const port = PORT_SCHEMA.parse(process.env["PORT"])
