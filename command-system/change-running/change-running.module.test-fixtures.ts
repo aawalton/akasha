@@ -31,11 +31,23 @@ const SPARE: Readonly<Record<string, string>> = {
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
 }
 
+const DRAFT_AT = "commands/pages/change/draft/change-draft.command.ts"
+
+const DRAFT_COMMAND: Readonly<Record<string, string>> = {
+  [DRAFT_AT]: pageOf({
+    id: "01a04a4a-0001-7000-8000-00000000000a",
+    pageTypeSlug: "command",
+    slug: "change-draft",
+    definition: "the command a run records what that run cost beside",
+    code: "ts",
+  }),
+}
+
 export const CHOSEN: Chosen = {
   said: "change",
   drafts: null,
   barred: [],
-  at: "commands/pages/change-draft/change-draft.command.ts",
+  at: DRAFT_AT,
 }
 
 let given: Readonly<Record<string, string>> = {}
@@ -75,7 +87,7 @@ const KINDS: Readonly<Record<string, string>> = {
     pageTypeSlug: "page-type",
     slug: "change-kind",
     definition: "which sort one change is",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [],
   }),
   [CHANGE_KIND_AT]: pageOf({
@@ -109,7 +121,13 @@ const REACHING_ANY_KIND: Readonly<Record<string, string>> = {
 }
 
 export function repo(): string {
-  return indexedRepo({ ...SPARE, ...OWING_NO_READING, ...REACHING_ANY_KIND, ...KINDS })
+  return indexedRepo({
+    ...SPARE,
+    ...OWING_NO_READING,
+    ...REACHING_ANY_KIND,
+    ...KINDS,
+    ...DRAFT_COMMAND,
+  })
 }
 
 export function piping(said: string): Piping {
