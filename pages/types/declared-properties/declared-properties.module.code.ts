@@ -18,7 +18,9 @@ const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
 
-const EXTENDS = "extendsSlug"
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
 
 const UNIQUE_PROPERTY = "uniqueProperty"
 
@@ -49,6 +51,10 @@ export type Identifying = (pageTypeSlug: string) => ReadonlyMap<string, Identifi
 
 export function identityOf(one: Carried): string {
   return `${one.pageTypeSlug}/${one.pagePropertySlug}`
+}
+
+function aboveIn(value: Value): readonly string[] {
+  return slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
 }
 
 export function pageAt(
@@ -165,7 +171,7 @@ export function declarationsIfNamed(
     const value = source.pageTypeAt(own)
     if (value === null) return null
     carried.push(...declaredFor(value, source, own))
-    for (const above of [...slugsIn(value[EXTENDS])].reverse()) waiting.push(above)
+    for (const above of [...aboveIn(value)].reverse()) waiting.push(above)
   }
   return carried
 }
@@ -185,7 +191,7 @@ function unreadable(pageTypeSlug: string, source: Source): string {
         ? `\`${pageTypeSlug}\` names no page type here, so what it carries cannot be read`
         : `\`${pageTypeSlug}\` reaches \`${own}\` by extending, through ${route.join(" -> ")}, and \`${own}\` names no page type here`
     }
-    for (const above of [...slugsIn(value[EXTENDS])].reverse()) waiting.push([...route, above])
+    for (const above of [...aboveIn(value)].reverse()) waiting.push([...route, above])
   }
   return `\`${pageTypeSlug}\` cannot be read here`
 }

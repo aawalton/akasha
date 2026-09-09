@@ -4,7 +4,9 @@ import { slugsIn, textAt, type Value } from "../../value/page-value.module.code.
 
 const PAGE_TYPE = "page-type"
 
-const EXTENDS = "extendsSlug"
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
 
 const SLUG = "slug"
 
@@ -18,7 +20,8 @@ function gatheredIn(reading: Reading): ReadonlySet<string> {
       for (const held of valuesOfType(reading, one)) {
         const slug = textAt(held.value, SLUG)
         if (slug === null || seen.has(slug)) continue
-        if (!slugsIn(held.value[EXTENDS]).some((each) => seen.has(each))) continue
+        const above = held.value[EXTENDS] ?? held.value[WAS_EXTENDS]
+        if (!slugsIn(above).some((each) => seen.has(each))) continue
         seen.add(slug)
         grew = true
       }

@@ -101,7 +101,7 @@ test("a property naming members takes the target each of those members declares"
   const known = knownAt(root, repo)
 
   expect(known.targetOf("either")).toEqual(["domain", "note"])
-  expect(known.targetOf("domain-slug")).toBe("domain")
+  expect(known.targetOf("page-domain")).toBe("domain")
 })
 
 test("a name one member of a one of admits reaches its page through that member", () => {
@@ -132,7 +132,7 @@ test("a key one property carries reaches it, and a key no property carries reach
   const value = { pageTypeSlug: "domain" }
 
   expect(known.slugOfKeyIn(value, "partSlugs")).toBe("part-slugs")
-  expect(known.slugOfKeyIn(value, "domainSlug")).toBe("domain-slug")
+  expect(known.slugOfKeyIn(value, "domain")).toBe("page-domain")
   expect(known.slugOfKeyIn(value, "design")).toBe(null)
 })
 

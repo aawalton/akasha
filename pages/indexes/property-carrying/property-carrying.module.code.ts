@@ -15,7 +15,9 @@ import type { Reading } from "../shape/index-shape.module.code.ts"
 
 const DECLARES = "page-property-slug"
 
-const EXTENDS = "extends-slug"
+const EXTENDS = "extends-type"
+
+const WAS_EXTENDS = "extends-slug"
 
 const PAGE_TYPE = "page-type"
 
@@ -71,6 +73,7 @@ function underneath(reading: Reading, id: string): readonly string[] {
     if (named === null || named.sections.length > 0 || named.pageType !== PAGE_TYPE) continue
     found.push(named.slug)
     waiting.push(...idsNaming(reading, one, EXTENDS))
+    waiting.push(...idsNaming(reading, one, WAS_EXTENDS))
   }
   return found
 }

@@ -4,7 +4,9 @@ import { slugsIn, type Value } from "../../value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
-const EXTENDS = "extendsSlug"
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
 
 const SLUG = "slug"
 
@@ -15,7 +17,7 @@ function saidIn(value: Value | null, key: string): string | null {
 }
 
 function namedAbove(value: Value | null): readonly string[] {
-  return value === null ? [] : slugsIn(value[EXTENDS])
+  return value === null ? [] : slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
 }
 
 export function listedAbove(

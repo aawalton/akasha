@@ -21,7 +21,9 @@ const DECLARED = "properties"
 
 const DECLARES = "pagePropertySlug"
 
-const EXTENDS = "extendsSlug"
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
 
 const WITHHELD = "uncommitted"
 
@@ -159,7 +161,7 @@ function carriedBy(
   const bare = bareAmong(properties)
   const above = new Map<string, readonly string[]>()
   for (const [slug, value] of types) {
-    const up = slugsIn(value[EXTENDS])
+    const up = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
     if (up.length > 0) above.set(slug, up)
   }
   const filed = new Map<string, ReadonlyMap<string, string | null>>()

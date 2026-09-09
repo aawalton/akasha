@@ -14,6 +14,10 @@ const PAGE_TYPE = "page-type"
 
 const TARGET_PAGE_TYPE = "targetPageType"
 
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
+
 export const TESTS_RUN: readonly string[] = [
   "is",
   "in",
@@ -142,7 +146,8 @@ export function ownerFor(root: string, named: Named, pageTypeSlug: string): stri
     if (page === undefined) continue
     const owner = textAt(page, "owner")
     if (owner !== null && owner !== "") return slugOf(owner)
-    for (const above of [...slugsIn(page["extendsSlug"])].reverse()) waiting.push(above)
+    const parents = slugsIn(page[EXTENDS] ?? page[WAS_EXTENDS])
+    for (const above of [...parents].reverse()) waiting.push(above)
   }
   return null
 }

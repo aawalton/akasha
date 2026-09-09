@@ -17,7 +17,9 @@ const DECLARED = "properties"
 
 const DECLARES = "pagePropertySlug"
 
-const EXTENDS = "extendsSlug"
+const EXTENDS = "extends"
+
+const WAS_EXTENDS = "extendsSlug"
 
 const FALLBACK = "default"
 
@@ -145,7 +147,7 @@ export function sidecarsIn(
     const slug = textAt(value, "slug")
     if (slug === null) continue
     own.set(slug, declaredIn(value))
-    const extended = slugsIn(value[EXTENDS])
+    const extended = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
     if (extended.length > 0) above.set(slug, extended)
   }
   const found = new Map<string, Sidecars>()
