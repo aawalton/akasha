@@ -6,5 +6,5 @@ export const officialAudhdDiagnosis = {
   slug: "official-audhd-diagnosis",
   title: "Official AuDHD Diagnosis",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "faith",
+  lifeThemeValue: "faith",
 } as const satisfies LifeTheme

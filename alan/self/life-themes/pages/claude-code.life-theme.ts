@@ -7,5 +7,5 @@ export const claudeCode = {
   title: "Claude Code",
   startDate: "2026-02-12",
   lifeThemeStatus: "current-focus",
-  lifeThemeValueSlug: "learn",
+  lifeThemeValue: "learn",
 } as const satisfies LifeTheme

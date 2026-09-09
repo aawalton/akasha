@@ -8,5 +8,5 @@ export const noCommercialWork = {
   endDate: "2026-01-18",
   startDate: "2025-01-01",
   lifeThemeStatus: "done",
-  lifeThemeValueSlug: "wealth",
+  lifeThemeValue: "wealth",
 } as const satisfies LifeTheme

@@ -7,5 +7,5 @@ export const listenTo1000HoursOfMusic = {
   title: "Listen to 1,000 Hours of Music",
   startDate: "2025-01-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

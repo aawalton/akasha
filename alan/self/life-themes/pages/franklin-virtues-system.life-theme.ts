@@ -6,5 +6,5 @@ export const franklinVirtuesSystem = {
   slug: "franklin-virtues-system",
   title: "Franklin Virtues System",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "faith",
+  lifeThemeValue: "faith",
 } as const satisfies LifeTheme

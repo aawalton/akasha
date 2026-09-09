@@ -7,5 +7,5 @@ export const beatSaberAerobicExercise = {
   title: "Beat Saber Aerobic Exercise",
   startDate: "2026-01-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValueSlug: "health",
+  lifeThemeValue: "health",
 } as const satisfies LifeTheme

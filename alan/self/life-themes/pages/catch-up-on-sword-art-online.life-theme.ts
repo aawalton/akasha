@@ -6,5 +6,5 @@ export const catchUpOnSwordArtOnline = {
   slug: "catch-up-on-sword-art-online",
   title: "Catch up on Sword Art Online",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

@@ -8,5 +8,5 @@ export const catchUpOnTheXFiles = {
   endDate: "2026-01-01",
   startDate: "2025-10-01",
   lifeThemeStatus: "done",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

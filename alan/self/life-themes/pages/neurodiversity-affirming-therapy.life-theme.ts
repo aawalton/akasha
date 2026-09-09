@@ -6,5 +6,5 @@ export const neurodiversityAffirmingTherapy = {
   slug: "neurodiversity-affirming-therapy",
   title: "Neurodiversity Affirming Therapy",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "faith",
+  lifeThemeValue: "faith",
 } as const satisfies LifeTheme

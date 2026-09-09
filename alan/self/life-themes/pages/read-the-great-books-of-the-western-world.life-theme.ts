@@ -6,5 +6,5 @@ export const readTheGreatBooksOfTheWesternWorld = {
   slug: "read-the-great-books-of-the-western-world",
   title: "Read The Great Books of The Western World",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "learn",
+  lifeThemeValue: "learn",
 } as const satisfies LifeTheme

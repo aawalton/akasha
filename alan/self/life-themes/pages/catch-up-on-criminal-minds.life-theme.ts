@@ -7,5 +7,5 @@ export const catchUpOnCriminalMinds = {
   title: "Catch up on Criminal Minds",
   startDate: "2025-01-01",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

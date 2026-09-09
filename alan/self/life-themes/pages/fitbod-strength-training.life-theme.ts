@@ -7,5 +7,5 @@ export const fitbodStrengthTraining = {
   title: "FitBod Strength Training",
   startDate: "2026-01-01",
   lifeThemeStatus: "current-focus",
-  lifeThemeValueSlug: "health",
+  lifeThemeValue: "health",
 } as const satisfies LifeTheme

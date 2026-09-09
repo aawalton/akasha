@@ -7,5 +7,5 @@ export const digitalRemodel = {
   title: "Digital Remodel",
   startDate: "2026-01-17",
   lifeThemeStatus: "in-progress",
-  lifeThemeValueSlug: "health",
+  lifeThemeValue: "health",
 } as const satisfies LifeTheme

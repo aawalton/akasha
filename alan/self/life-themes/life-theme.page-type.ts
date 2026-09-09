@@ -4,7 +4,7 @@ import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { EndDate } from "./properties/end-date.calendar-date-property.ts"
 import type { LifeThemeParent } from "./properties/life-theme-parent.relation-property.ts"
 import type { LifeThemeStatus } from "./properties/life-theme-status.select-property.ts"
-import type { LifeThemeValueSlug } from "./properties/life-theme-value-slug.relation-property.ts"
+import type { LifeThemeValue } from "./properties/life-theme-value.relation-property.ts"
 import type { StartDate } from "./properties/start-date.calendar-date-property.ts"
 
 export type LifeTheme = Page & {
@@ -13,7 +13,7 @@ export type LifeTheme = Page & {
   lifeThemeParent?: LifeThemeParent
   startDate?: StartDate
   lifeThemeStatus: LifeThemeStatus
-  lifeThemeValueSlug: LifeThemeValueSlug
+  lifeThemeValue: LifeThemeValue
 }
 
 export const lifeTheme = {
@@ -27,7 +27,7 @@ export const lifeTheme = {
     "calendar-date-property/end-date",
     "calendar-date-property/start-date",
     "relation-property/life-theme-parent",
-    "relation-property/life-theme-value-slug",
+    "relation-property/life-theme-value",
     "select-property/life-theme-status",
   ],
   properties: [
@@ -36,7 +36,7 @@ export const lifeTheme = {
     { pagePropertySlug: "relation-property/life-theme-parent", required: false, many: false },
     { pagePropertySlug: "calendar-date-property/start-date", required: false, many: false },
     { pagePropertySlug: "select-property/life-theme-status", required: true, many: false },
-    { pagePropertySlug: "relation-property/life-theme-value-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/life-theme-value", required: true, many: false },
   ],
   invariants: [
     {

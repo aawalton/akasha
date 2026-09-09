@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type LifeThemeValueSlug = Slug
+export type LifeThemeValue = Slug
 
-export const lifeThemeValueSlug = {
+export const lifeThemeValue = {
   id: "01a06575-c2c0-7ff7-823d-841339e34481",
   pageTypeSlug: "relation-property",
-  slug: "life-theme-value-slug",
-  propertySlug: "life-theme-value-slug",
+  slug: "life-theme-value",
+  propertySlug: "life-theme-value",
   definition: "the value a life theme is given over to",
   targetPageTypeSlug: "page-type/value",
 } as const satisfies RelationProperty

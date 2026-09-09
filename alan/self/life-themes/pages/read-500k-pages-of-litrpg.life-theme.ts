@@ -7,5 +7,5 @@ export const read500kPagesOfLitrpg = {
   title: "Read 500k Pages of LitRPG",
   startDate: "2025-01-01",
   lifeThemeStatus: "in-progress",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

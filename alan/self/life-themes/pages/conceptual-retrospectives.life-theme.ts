@@ -7,5 +7,5 @@ export const conceptualRetrospectives = {
   title: "Conceptual Retrospectives",
   startDate: "2026-01-18",
   lifeThemeStatus: "current-focus",
-  lifeThemeValueSlug: "faith",
+  lifeThemeValue: "faith",
 } as const satisfies LifeTheme

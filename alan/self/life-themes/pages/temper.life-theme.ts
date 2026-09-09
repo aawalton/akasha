@@ -7,5 +7,5 @@ export const temper = {
   title: "Temper",
   startDate: "2026-01-01",
   lifeThemeStatus: "current-focus",
-  lifeThemeValueSlug: "fun",
+  lifeThemeValue: "fun",
 } as const satisfies LifeTheme

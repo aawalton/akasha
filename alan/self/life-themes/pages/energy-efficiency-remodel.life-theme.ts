@@ -7,5 +7,5 @@ export const energyEfficiencyRemodel = {
   title: "Energy Efficiency Remodel",
   startDate: "2026-02-03",
   lifeThemeStatus: "up-next",
-  lifeThemeValueSlug: "health",
+  lifeThemeValue: "health",
 } as const satisfies LifeTheme
