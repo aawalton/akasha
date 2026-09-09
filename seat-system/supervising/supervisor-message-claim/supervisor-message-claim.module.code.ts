@@ -1,8 +1,8 @@
-import { seatNameForAgent } from "../../messages-agent-tools/messages-agent-tools.module.code.ts"
 import {
   claimedBefore,
   releaseClaim,
 } from "../../messaging/message-file/message-file.module.code.ts"
+import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 
 export interface ClaimedBeforeRow {
   readonly id: string
@@ -22,8 +22,8 @@ export function readClaimedBefore(
   return Promise.resolve(held)
 }
 
-export function releaseMessageClaim(targetAgentId: string, messageId: string): Promise<void> {
+export function releaseMessageClaim(targetAgentId: string, messageId: string): Promise<undefined> {
   const to = seatNameForAgent(targetAgentId)
   if (to !== null) releaseClaim(to, messageId)
-  return Promise.resolve()
+  return Promise.resolve(undefined)
 }

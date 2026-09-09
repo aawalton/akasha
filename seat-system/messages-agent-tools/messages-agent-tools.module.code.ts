@@ -74,11 +74,6 @@ export async function deliverClaimedMessage(args: {
   args.witness?.(row.id)
 }
 
-// A SEAT'S NAME IS ANSWERED IN ONE PLACE AND PASSED THROUGH HERE. This read the name off the old
-// page's path. Four callers reach it by this module rather than by the one that answers it, so it
-// is re-exported rather than moved, and they are left where they are.
-export { seatNameForAgent }
-
 export async function startChannelListener(
   server: ChannelServer,
   agentId: string
