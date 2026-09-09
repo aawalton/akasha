@@ -53,7 +53,7 @@ export const theaChecksSystem = {
     {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
-        "Alan's call: the hash is worked out at deploy rather than at emit. No sed site is left anywhere, and workload-deploying already refuses a checksum/* value that is not a hex digest before applying. secret-slugs is declared on cluster-service and named by 6 of the 12 workloads with an annotation. 13 of the 15 annotations are a placeholder; alanwalton-web and atlas hash at emit through secretChecksum, needing a live cluster. Left: secretSlugs on the other 6, then the deploy fills from it.",
+        "Every workload carrying a checksum annotation now names its secrets, but buildkit and promtail, whose annotation tracks a ConfigMap the manifest emits rather than a secret. 8 secret pages were written for the 4 s3-creds resources that had none, placements only and no sops value. Left: the deploy fills the annotation. workload-deploying cannot, carrying the absence that nothing there reads a page, so the filling sits with web-app-reading, which already reads the cluster-service page.",
     },
     {
       statement: "Every env key a client bundle reads is marked for vite rather than for Next.",
