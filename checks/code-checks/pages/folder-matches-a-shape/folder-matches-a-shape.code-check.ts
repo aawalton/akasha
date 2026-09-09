@@ -5,7 +5,12 @@ export const folderMatchesAShape = {
   pageTypeSlug: "code-check",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
-  parts: ["module/folder-grouping", "module/shape-loading", "page-type/folder-shape"],
+  parts: [
+    "module/folder-grouping",
+    "module/folder-naming",
+    "module/shape-loading",
+    "page-type/folder-shape",
+  ],
   code: "ts",
   test: "ts",
   testFixtures: "ts",

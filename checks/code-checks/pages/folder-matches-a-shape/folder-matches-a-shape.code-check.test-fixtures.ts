@@ -5,6 +5,22 @@ import {
   type Grouped,
   segmentingOver,
 } from "./modules/folder-grouping/folder-grouping.module.code.ts"
+import type { Holds } from "./modules/folder-naming/folder-naming.module.code.ts"
+
+export function holding(named: Readonly<Record<string, readonly string[]>>): Holds {
+  return (folder) => ({
+    names: named[folder] ?? [],
+    holds: [],
+    declared: new Set<string>(),
+  })
+}
+
+export function grouping(under: Readonly<Record<string, readonly string[]>>): Grouped {
+  return {
+    at: () => [],
+    foldersIn: (folder) => under[folder] ?? [],
+  }
+}
 
 function groupedBy(files: readonly string[]): Grouped {
   const sitting = new Map<string, string[]>()
