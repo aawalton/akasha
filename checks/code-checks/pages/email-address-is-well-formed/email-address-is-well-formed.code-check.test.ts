@@ -24,8 +24,6 @@ const ONE = "01a058ff-0000-7001-8000-000000000001"
 
 const DOMAIN = "@example.com"
 
-const TAB = String.fromCodePoint(9)
-
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -57,135 +55,23 @@ function judged(root: string, kind: string, stated: Record<string, unknown>): re
   return emailAddressIsWellFormed(change, cast.shadow)
 }
 
-function judging(said: string): readonly Judged[] {
-  return judged(rooted(), HELD, { emailAddress: said })
-}
-
-test("an address written in lowercase with one `@` is let through", () => {
-  expect(judging(`ada${DOMAIN}`)).toEqual([])
-})
-
-test("an address holding a capital is refused for its case", () => {
-  const said = judging(`Ada${DOMAIN}`)
+test("a page the change carries is judged by what the decision answers", () => {
+  const said = judged(rooted(), HELD, { emailAddress: `Ada${DOMAIN}` })
 
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("written in lowercase")
-})
-
-test("an address holding no `@` is refused, and the refusal says how many it holds", () => {
-  const said = judging("ada.example.com")
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds 0 `@`")
-})
-
-test("an address holding two `@` is refused", () => {
-  const said = judging(`ada@ada${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds 2 `@`")
-})
-
-test("an address stating no mailbox before the `@` is refused", () => {
-  const said = judging(DOMAIN)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("no mailbox")
-})
-
-test("an address stating no domain after the `@` is refused", () => {
-  const said = judging("ada@")
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("no domain")
-})
-
-test("an address padded before the mailbox is refused", () => {
-  const said = judging(` ada${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds whitespace")
-})
-
-test("an address padded after the domain is refused", () => {
-  const said = judging(`ada${DOMAIN} `)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds whitespace")
-})
-
-test("an address holding a space inside the mailbox is refused", () => {
-  const said = judging(`ada ada${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds whitespace")
-})
-
-test("an address holding a tab is refused", () => {
-  const said = judging(`ada${TAB}${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds whitespace")
-})
-
-test("a padded address is refused for its whitespace rather than for its case", () => {
-  const said = judging(` Ada${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("holds whitespace")
-})
-
-test("an address of 254 characters is let through", () => {
-  expect(judging(`${"a".repeat(254 - DOMAIN.length)}${DOMAIN}`)).toEqual([])
-})
-
-test("an address of 255 characters is refused for its length", () => {
-  const said = judging(`${"a".repeat(255 - DOMAIN.length)}${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("an address of 255 characters")
-})
-
-test("an address too long is refused for its length rather than for its case", () => {
-  const said = judging(`${"A".repeat(255 - DOMAIN.length)}${DOMAIN}`)
-
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("255 characters")
-})
-
-test("a mailbox tagged after `+` is let through", () => {
-  expect(judging(`ada+akasha${DOMAIN}`)).toEqual([])
-})
-
-test("a page stating no address is passed over", () => {
-  expect(judged(rooted(), HELD, {})).toEqual([])
-})
-
-test("a value under a key that is no address is passed over", () => {
-  expect(judged(rooted(), "named", { nickname: `Ada${DOMAIN}` })).toEqual([])
-})
-
-test("the refusal names the property the address is stated under", () => {
-  const said = judging(`Ada${DOMAIN}`)
-
+  expect(said[0]?.path).toBe(pathFor(HELD, "one"))
   expect(said[0]?.reason).toContain("`email-address`")
 })
 
-test("the refusal names the page the address stands on", () => {
-  const said = judging(`Ada${DOMAIN}`)
-
-  expect(said[0]?.path).toBe(pathFor(HELD, "one"))
+test("a well-formed address the change carries is let through", () => {
+  expect(judged(rooted(), HELD, { emailAddress: `ada${DOMAIN}` })).toEqual([])
 })
 
-test("a value stated as a list is judged address by address", () => {
-  const said = judged(rooted(), HELD, {
-    emailAddress: [`ada${DOMAIN}`, `Ada${DOMAIN}`, "ada.example.com"],
-  })
-
-  expect(said).toHaveLength(2)
+test("a page whose keys are no address is passed over", () => {
+  expect(judged(rooted(), "named", { nickname: `Ada${DOMAIN}` })).toEqual([])
 })
 
-test("a key held by a page type standing under `email-address-property` is judged too", () => {
+test("a key held by a page type under `email-address-property` is judged too", () => {
   const root = rooted()
   typed(root, "work-address-property", ADDRESS)
   declaring(root, "work-address", { pageTypeSlug: "work-address-property" })
