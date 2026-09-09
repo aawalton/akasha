@@ -5,7 +5,7 @@ export const somniaOnline = {
   pageTypeSlug: "story-read",
   slug: "somnia-online",
   title: "Somnia Online",
-  worldSlug: "somnia-online",
+  world: "somnia-online",
   source: "kindle",
   tags: ["VRMMO"],
   unitSlug: "words",

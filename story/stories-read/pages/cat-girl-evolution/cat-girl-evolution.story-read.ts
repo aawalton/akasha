@@ -9,7 +9,7 @@ export const catGirlEvolution = {
   externalId: "129180",
   externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
   title: "Cat Girl Evolution",
-  worldSlug: "cat-girl-evolution",
+  world: "cat-girl-evolution",
   source: "royal-road",
   externalTags: [
     "LitRPG",

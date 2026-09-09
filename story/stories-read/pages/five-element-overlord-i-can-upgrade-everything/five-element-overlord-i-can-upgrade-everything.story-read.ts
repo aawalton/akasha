@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything = {
   pageTypeSlug: "story-read",
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
-  worldSlug: "five-element-overlord-i-can-upgrade-everything",
+  world: "five-element-overlord-i-can-upgrade-everything",
   source: "royal-road",
   author: "KaeNovels",
   following: true,

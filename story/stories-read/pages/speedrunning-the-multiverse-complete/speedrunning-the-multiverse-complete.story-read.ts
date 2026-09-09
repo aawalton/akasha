@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete = {
   pageTypeSlug: "story-read",
   slug: "speedrunning-the-multiverse-complete",
   title: "Speedrunning the Multiverse [COMPLETE]",
-  worldSlug: "speedrunning-the-multiverse-complete",
+  world: "speedrunning-the-multiverse-complete",
   source: "royal-road",
   author: "adastra339",
   rank: "B",

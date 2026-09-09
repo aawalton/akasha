@@ -5,7 +5,7 @@ export const arcticCryomancer = {
   pageTypeSlug: "world-class",
   slug: "arctic-cryomancer",
   title: "Arctic Cryomancer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["relicbound-arctic-cryomancer"],
   references: "jsonl",
 } as const satisfies WorldClass

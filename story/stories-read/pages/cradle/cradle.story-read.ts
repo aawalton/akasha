@@ -5,7 +5,7 @@ export const cradle = {
   pageTypeSlug: "story-read",
   slug: "cradle",
   title: "Cradle",
-  worldSlug: "cradle",
+  world: "cradle",
   source: "kindle",
   rank: "A",
   tags: ["Cultivation", "System World"],

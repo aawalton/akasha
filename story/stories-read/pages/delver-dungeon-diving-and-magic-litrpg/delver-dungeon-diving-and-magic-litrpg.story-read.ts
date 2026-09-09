@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg = {
   pageTypeSlug: "story-read",
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
-  worldSlug: "delver-dungeon-diving-and-magic-litrpg",
+  world: "delver-dungeon-diving-and-magic-litrpg",
   source: "royal-road",
   author: "Corwin Benedict",
   publicationStatus: "ongoing",

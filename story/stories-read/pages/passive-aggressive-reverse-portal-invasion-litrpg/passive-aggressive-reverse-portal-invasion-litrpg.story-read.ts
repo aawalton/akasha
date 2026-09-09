@@ -5,7 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
-  worldSlug: "passive-aggressive-reverse-portal-invasion-litrpg",
+  world: "passive-aggressive-reverse-portal-invasion-litrpg",
   source: "royal-road",
   author: "N Conceivable",
   following: true,

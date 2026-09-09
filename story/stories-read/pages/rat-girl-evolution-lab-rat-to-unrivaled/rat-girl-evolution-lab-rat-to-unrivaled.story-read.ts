@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
   pageTypeSlug: "story-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled",
   title: "Rat Girl Evolution",
-  worldSlug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  world: "rat-girl-evolution-lab-rat-to-unrivaled",
   source: "royal-road",
   rank: "C",
   externalTags: [

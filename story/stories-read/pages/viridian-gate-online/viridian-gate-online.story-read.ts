@@ -5,7 +5,7 @@ export const viridianGateOnline = {
   pageTypeSlug: "story-read",
   slug: "viridian-gate-online",
   title: "Viridian Gate Online",
-  worldSlug: "viridian-gate-online",
+  world: "viridian-gate-online",
   source: "kindle",
   rank: "B",
   tags: ["VRMMO"],

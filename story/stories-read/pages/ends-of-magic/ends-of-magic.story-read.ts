@@ -5,7 +5,7 @@ export const endsOfMagic = {
   pageTypeSlug: "story-read",
   slug: "ends-of-magic",
   title: "Ends of Magic",
-  worldSlug: "ends-of-magic",
+  world: "ends-of-magic",
   source: "royal-road",
   author: "Alexander Olson",
   rank: "B",

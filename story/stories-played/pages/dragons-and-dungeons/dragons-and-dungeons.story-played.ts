@@ -5,7 +5,7 @@ export const dragonsAndDungeons = {
   pageTypeSlug: "story-played",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",
-  worldSlug: "personas",
+  world: "personas",
   unitSlug: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

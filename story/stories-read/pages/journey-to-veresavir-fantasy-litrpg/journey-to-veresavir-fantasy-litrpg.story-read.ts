@@ -5,7 +5,7 @@ export const journeyToVeresavirFantasyLitrpg = {
   pageTypeSlug: "story-read",
   slug: "journey-to-veresavir-fantasy-litrpg",
   title: "Journey to Veresavir [Fantasy LitRPG]",
-  worldSlug: "journey-to-veresavir-fantasy-litrpg",
+  world: "journey-to-veresavir-fantasy-litrpg",
   source: "royal-road",
   author: "Rhaegar",
   publicationStatus: "ongoing",

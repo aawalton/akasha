@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia = {
   pageTypeSlug: "story-read",
   slug: "alexa-thyme-formerly-alexithymia",
   title: "Alexa Thyme (Formerly ALEXiThymiA)",
-  worldSlug: "alexa-thyme-formerly-alexithymia",
+  world: "alexa-thyme-formerly-alexithymia",
   source: "royal-road",
   author: "Lykanthropy",
   following: true,

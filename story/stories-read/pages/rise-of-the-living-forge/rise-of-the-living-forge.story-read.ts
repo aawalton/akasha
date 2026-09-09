@@ -5,7 +5,7 @@ export const riseOfTheLivingForge = {
   pageTypeSlug: "story-read",
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
-  worldSlug: "rise-of-the-living-forge",
+  world: "rise-of-the-living-forge",
   source: "royal-road",
   author: "Actus",
   rank: "B",

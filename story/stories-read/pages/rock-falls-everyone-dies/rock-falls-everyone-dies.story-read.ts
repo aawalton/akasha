@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies = {
   pageTypeSlug: "story-read",
   slug: "rock-falls-everyone-dies",
   title: "Rock falls, everyone dies",
-  worldSlug: "rock-falls-everyone-dies",
+  world: "rock-falls-everyone-dies",
   source: "royal-road",
   author: "zechamp",
   rank: "C",

@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   pageTypeSlug: "story-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   title: "Apocalypse Healer",
-  worldSlug: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  world: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   source: "royal-road",
   rank: "C",
   externalTags: ["LitRPG", "Action", "Adventure", "Fantasy", "Magic"],

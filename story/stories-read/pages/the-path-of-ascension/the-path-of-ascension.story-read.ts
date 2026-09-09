@@ -5,7 +5,7 @@ export const thePathOfAscension = {
   pageTypeSlug: "story-read",
   slug: "the-path-of-ascension",
   title: "The Path of Ascension",
-  worldSlug: "the-path-of-ascension",
+  world: "the-path-of-ascension",
   source: "royal-road",
   author: "C_Mantis",
   rank: "A",

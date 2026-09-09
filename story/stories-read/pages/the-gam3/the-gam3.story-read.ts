@@ -5,7 +5,7 @@ export const theGam3 = {
   pageTypeSlug: "story-read",
   slug: "the-gam3",
   title: "The Gam3",
-  worldSlug: "the-gam3",
+  world: "the-gam3",
   source: "kindle",
   rank: "B",
   tags: ["VRMMO"],

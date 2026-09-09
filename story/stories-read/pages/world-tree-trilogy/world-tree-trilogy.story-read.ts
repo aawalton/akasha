@@ -5,7 +5,7 @@ export const worldTreeTrilogy = {
   pageTypeSlug: "story-read",
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
-  worldSlug: "world-tree-trilogy",
+  world: "world-tree-trilogy",
   source: "kindle",
   rank: "C",
   tags: ["VRMMO"],

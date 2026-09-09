@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
   pageTypeSlug: "story-read",
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
-  worldSlug: "my-lord-please-a-character-driven-kingdom-building",
+  world: "my-lord-please-a-character-driven-kingdom-building",
   source: "royal-road",
   author: "Animas",
   publicationStatus: "ongoing",

@@ -5,7 +5,7 @@ export const theGiftOfLoot = {
   pageTypeSlug: "story-read",
   slug: "the-gift-of-loot",
   title: "The Gift of Loot",
-  worldSlug: "the-gift-of-loot",
+  world: "the-gift-of-loot",
   source: "royal-road",
   author: "Jack_Golightly",
   following: true,

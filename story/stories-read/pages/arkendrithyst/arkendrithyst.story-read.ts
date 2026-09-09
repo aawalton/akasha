@@ -5,7 +5,7 @@ export const arkendrithyst = {
   pageTypeSlug: "story-read",
   slug: "arkendrithyst",
   title: "Ar'Kendrithyst",
-  worldSlug: "arkendrithyst",
+  world: "arkendrithyst",
   source: "royal-road",
   author: "Arcs",
   rank: "C",

@@ -5,7 +5,7 @@ export const theWhisperingCrystals = {
   pageTypeSlug: "story-read",
   slug: "the-whispering-crystals",
   title: "The Whispering Crystals",
-  worldSlug: "the-whispering-crystals",
+  world: "the-whispering-crystals",
   source: "kindle",
   rank: "C",
   tags: ["System Apocalypse"],

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "syl-a-slime-monster-evolution-litrpg",
   title: "Syl [A Slime Monster Evolution LitRPG]",
-  worldSlug: "syl-a-slime-monster-evolution-litrpg",
+  world: "syl-a-slime-monster-evolution-litrpg",
   source: "royal-road",
   author: "Lunadea",
   rank: "B",

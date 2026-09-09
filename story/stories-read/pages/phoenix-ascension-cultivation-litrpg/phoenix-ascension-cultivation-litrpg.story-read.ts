@@ -9,7 +9,7 @@ export const phoenixAscensionCultivationLitrpg = {
   externalId: "129188",
   externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
   title: "Phoenix Ascension",
-  worldSlug: "phoenix-ascension-cultivation-litrpg",
+  world: "phoenix-ascension-cultivation-litrpg",
   source: "royal-road",
   externalTags: [
     "LitRPG",

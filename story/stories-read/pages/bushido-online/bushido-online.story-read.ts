@@ -5,7 +5,7 @@ export const bushidoOnline = {
   pageTypeSlug: "story-read",
   slug: "bushido-online",
   title: "Bushido Online",
-  worldSlug: "bushido-online",
+  world: "bushido-online",
   source: "kindle",
   rank: "C",
   tags: ["VRMMO"],

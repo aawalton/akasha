@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg = {
   pageTypeSlug: "story-read",
   slug: "all-the-skills-a-deckbuilding-litrpg",
   title: "All The Skills - A Deckbuilding LitRPG",
-  worldSlug: "all-the-skills-a-deckbuilding-litrpg",
+  world: "all-the-skills-a-deckbuilding-litrpg",
   source: "royal-road",
   author: "HonourRae",
   rank: "B",

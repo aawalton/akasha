@@ -5,7 +5,7 @@ export const deathHealer = {
   pageTypeSlug: "story-read",
   slug: "death-healer",
   title: "Death Healer",
-  worldSlug: "death-healer",
+  world: "death-healer",
   source: "royal-road",
   rank: "C",
   externalTags: [

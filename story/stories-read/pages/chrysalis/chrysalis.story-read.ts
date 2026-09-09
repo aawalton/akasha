@@ -5,7 +5,7 @@ export const chrysalis = {
   pageTypeSlug: "story-read",
   slug: "chrysalis",
   title: "Chrysalis",
-  worldSlug: "chrysalis",
+  world: "chrysalis",
   source: "royal-road",
   author: "RinoZ",
   rank: "A",

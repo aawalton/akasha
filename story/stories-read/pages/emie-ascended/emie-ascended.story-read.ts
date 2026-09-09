@@ -5,7 +5,7 @@ export const emieAscended = {
   pageTypeSlug: "story-read",
   slug: "emie-ascended",
   title: "Emie Ascended",
-  worldSlug: "emie-ascended",
+  world: "emie-ascended",
   source: "royal-road",
   author: "Braided Sky",
   following: true,

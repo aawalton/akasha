@@ -5,7 +5,7 @@ export const markOfTheFool = {
   pageTypeSlug: "story-read",
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",
-  worldSlug: "mark-of-the-fool",
+  world: "mark-of-the-fool",
   source: "royal-road",
   author: "J.M. Clarke (U Juggernaut)",
   rank: "B",

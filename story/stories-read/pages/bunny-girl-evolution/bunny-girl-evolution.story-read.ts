@@ -5,7 +5,7 @@ export const bunnyGirlEvolution = {
   pageTypeSlug: "story-read",
   slug: "bunny-girl-evolution",
   title: "Bunny Girl Evolution",
-  worldSlug: "bunny-girl-evolution",
+  world: "bunny-girl-evolution",
   source: "royal-road",
   author: "Bedivere the Mad",
   rank: "B",

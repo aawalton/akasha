@@ -5,7 +5,7 @@ export const theWayOfTheShaman = {
   pageTypeSlug: "story-read",
   slug: "the-way-of-the-shaman",
   title: "The Way of the Shaman",
-  worldSlug: "the-way-of-the-shaman",
+  world: "the-way-of-the-shaman",
   source: "kindle",
   rank: "C",
   tags: ["VRMMO"],

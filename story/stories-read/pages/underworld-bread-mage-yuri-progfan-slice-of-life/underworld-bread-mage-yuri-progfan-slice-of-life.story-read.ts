@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
   pageTypeSlug: "story-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   title: "Underworld Bread Mage [Yuri, Progfan, Slice of Life]",
-  worldSlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  world: "underworld-bread-mage-yuri-progfan-slice-of-life",
   source: "royal-road",
   author: "SnowySnow",
   publicationStatus: "ongoing",

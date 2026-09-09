@@ -10,7 +10,7 @@ export const savageDivinity = {
   externalId: "5701",
   externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity",
   title: "Savage Divinity",
-  worldSlug: "savage-divinity",
+  world: "savage-divinity",
   source: "royal-road",
   externalTags: [
     "Martial Arts",

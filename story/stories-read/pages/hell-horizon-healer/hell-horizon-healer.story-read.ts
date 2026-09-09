@@ -5,7 +5,7 @@ export const hellHorizonHealer = {
   pageTypeSlug: "story-read",
   slug: "hell-horizon-healer",
   title: "Hell Horizon: Healer",
-  worldSlug: "hell-horizon-healer",
+  world: "hell-horizon-healer",
   source: "royal-road",
   author: "Freeid",
   publicationStatus: "ongoing",

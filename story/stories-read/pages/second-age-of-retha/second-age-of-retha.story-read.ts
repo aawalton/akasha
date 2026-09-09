@@ -5,7 +5,7 @@ export const secondAgeOfRetha = {
   pageTypeSlug: "story-read",
   slug: "second-age-of-retha",
   title: "Second Age of Retha",
-  worldSlug: "second-age-of-retha",
+  world: "second-age-of-retha",
   source: "kindle",
   following: true,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod = {
   pageTypeSlug: "story-read",
   slug: "labyrinth-of-the-mad-god",
   title: "Labyrinth of the Mad God",
-  worldSlug: "labyrinth-of-the-mad-god",
+  world: "labyrinth-of-the-mad-god",
   source: "royal-road",
   rank: "C",
   externalTags: [

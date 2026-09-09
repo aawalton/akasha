@@ -5,7 +5,7 @@ export const hellHoundEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "hell-hound-evolution-litrpg",
   title: "Hell Hound Evolution",
-  worldSlug: "hell-hound-evolution-litrpg",
+  world: "hell-hound-evolution-litrpg",
   source: "royal-road",
   rank: "C",
   externalTags: [

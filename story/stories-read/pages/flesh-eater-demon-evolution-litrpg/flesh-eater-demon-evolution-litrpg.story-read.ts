@@ -9,7 +9,7 @@ export const fleshEaterDemonEvolutionLitrpg = {
   externalId: "129187",
   externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
   title: "Flesh Eater",
-  worldSlug: "flesh-eater-demon-evolution-litrpg",
+  world: "flesh-eater-demon-evolution-litrpg",
   source: "royal-road",
   externalTags: [
     "LitRPG",

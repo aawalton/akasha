@@ -5,7 +5,7 @@ export const metaworldHopecore = {
   pageTypeSlug: "story-read",
   slug: "metaworld-hopecore",
   title: "Metaworld HopeCore",
-  worldSlug: "metaworld-hopecore",
+  world: "metaworld-hopecore",
   source: "royal-road",
   author: "Wutosama",
   following: true,

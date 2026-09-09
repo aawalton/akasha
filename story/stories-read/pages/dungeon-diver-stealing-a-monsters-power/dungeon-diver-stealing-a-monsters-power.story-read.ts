@@ -5,7 +5,7 @@ export const dungeonDiverStealingAMonstersPower = {
   pageTypeSlug: "story-read",
   slug: "dungeon-diver-stealing-a-monsters-power",
   title: "Dungeon Diver: Stealing A Monster’s Power",
-  worldSlug: "dungeon-diver-stealing-a-monsters-power",
+  world: "dungeon-diver-stealing-a-monsters-power",
   source: "royal-road",
   author: "KaeNovels",
   rank: "C",

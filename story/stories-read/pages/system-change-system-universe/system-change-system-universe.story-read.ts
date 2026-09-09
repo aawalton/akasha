@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse = {
   pageTypeSlug: "story-read",
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",
-  worldSlug: "system-change-system-universe",
+  world: "system-change-system-universe",
   source: "royal-road",
   author: "SunriseCV",
   rank: "B",

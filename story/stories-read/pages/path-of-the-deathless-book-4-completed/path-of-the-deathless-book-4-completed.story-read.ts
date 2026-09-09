@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed = {
   externalId: "122502",
   externalLink: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-4-completed",
   title: "Path of The Deathless",
-  worldSlug: "path-of-the-deathless-book-4-completed",
+  world: "path-of-the-deathless-book-4-completed",
   source: "royal-road",
   externalTags: [
     "LitRPG",

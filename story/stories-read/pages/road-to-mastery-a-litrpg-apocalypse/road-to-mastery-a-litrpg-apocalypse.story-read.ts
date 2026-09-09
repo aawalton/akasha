@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse = {
   pageTypeSlug: "story-read",
   slug: "road-to-mastery-a-litrpg-apocalypse",
   title: "Road to Mastery: A LitRPG Apocalypse",
-  worldSlug: "road-to-mastery-a-litrpg-apocalypse",
+  world: "road-to-mastery-a-litrpg-apocalypse",
   source: "royal-road",
   author: "Valerios",
   following: true,

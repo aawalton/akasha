@@ -5,5 +5,5 @@ export const commonfolkSBlessingLesserFolkSVitalesGift = {
   pageTypeSlug: "world-boon",
   slug: "commonfolk-s-blessing-lesser-folk-s-vitales-gift",
   title: "Commonfolk’s Blessing (Lesser) — Folk’s Vitales Gift",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldBoon

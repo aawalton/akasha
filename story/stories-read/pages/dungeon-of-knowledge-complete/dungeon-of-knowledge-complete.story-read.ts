@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete = {
   pageTypeSlug: "story-read",
   slug: "dungeon-of-knowledge-complete",
   title: "Dungeon of Knowledge [Complete]",
-  worldSlug: "dungeon-of-knowledge-complete",
+  world: "dungeon-of-knowledge-complete",
   source: "royal-road",
   author: "timewalk",
   rank: "A",

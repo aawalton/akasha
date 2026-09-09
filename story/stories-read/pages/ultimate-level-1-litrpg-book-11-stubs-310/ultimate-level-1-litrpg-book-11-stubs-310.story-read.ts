@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
   pageTypeSlug: "story-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
-  worldSlug: "ultimate-level-1-litrpg-book-11-stubs-310",
+  world: "ultimate-level-1-litrpg-book-11-stubs-310",
   source: "royal-road",
   author: "Dads Bedtime Stories",
   rank: "B",

@@ -5,7 +5,7 @@ export const roadToMastery = {
   pageTypeSlug: "story-read",
   slug: "road-to-mastery",
   title: "Road to Mastery",
-  worldSlug: "road-to-mastery",
+  world: "road-to-mastery",
   source: "kindle",
   rank: "B",
   tags: ["System Apocalypse"],

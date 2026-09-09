@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr = {
   pageTypeSlug: "story-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr",
   title: "The Unexpected Engagement of the Marvelous Mr. Penn",
-  worldSlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  world: "the-unexpected-engagement-of-the-marvelous-mr",
   source: "royal-road",
   author: "rkgoff",
   following: true,

@@ -5,7 +5,7 @@ export const anOutcastInAnotherWorld = {
   pageTypeSlug: "story-read",
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
-  worldSlug: "an-outcast-in-another-world",
+  world: "an-outcast-in-another-world",
   source: "kindle",
   rank: "C",
   unitSlug: "words",

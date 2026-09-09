@@ -5,7 +5,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "the-speed-of-light-monster-evolution-litrpg",
   title: "The Speed of Light",
-  worldSlug: "the-speed-of-light-monster-evolution-litrpg",
+  world: "the-speed-of-light-monster-evolution-litrpg",
   source: "royal-road",
   rank: "C",
   externalTags: [

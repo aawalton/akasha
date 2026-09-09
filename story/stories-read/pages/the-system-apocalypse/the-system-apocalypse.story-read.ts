@@ -5,7 +5,7 @@ export const theSystemApocalypse = {
   pageTypeSlug: "story-read",
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",
-  worldSlug: "the-system-apocalypse",
+  world: "the-system-apocalypse",
   source: "kindle",
   rank: "B",
   tags: ["System Apocalypse"],

@@ -9,7 +9,7 @@ export const delve = {
   externalId: "25225",
   externalLink: "https://www.royalroad.com/fiction/25225/delve",
   title: "Delve",
-  worldSlug: "delve",
+  world: "delve",
   source: "royal-road",
   externalTags: [
     "LitRPG",

@@ -5,7 +5,7 @@ export const awakenOnline = {
   pageTypeSlug: "story-read",
   slug: "awaken-online",
   title: "Awaken Online",
-  worldSlug: "awaken-online",
+  world: "awaken-online",
   source: "kindle",
   rank: "A",
   following: true,

@@ -5,7 +5,7 @@ export const soulGuardian = {
   pageTypeSlug: "story-read",
   slug: "soul-guardian",
   title: "Soul Guardian",
-  worldSlug: "soul-guardian",
+  world: "soul-guardian",
   source: "kindle",
   rank: "B",
   following: true,

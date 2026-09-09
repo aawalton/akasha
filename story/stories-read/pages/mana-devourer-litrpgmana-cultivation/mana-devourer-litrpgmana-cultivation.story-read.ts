@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation = {
   pageTypeSlug: "story-read",
   slug: "mana-devourer-litrpgmana-cultivation",
   title: "Mana Devourer",
-  worldSlug: "mana-devourer-litrpgmana-cultivation",
+  world: "mana-devourer-litrpgmana-cultivation",
   source: "royal-road",
   rank: "C",
   externalTags: [

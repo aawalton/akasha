@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
   pageTypeSlug: "story-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   title: "The Legendary Fool",
-  worldSlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  world: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   source: "royal-road",
   rank: "C",
   externalTags: [

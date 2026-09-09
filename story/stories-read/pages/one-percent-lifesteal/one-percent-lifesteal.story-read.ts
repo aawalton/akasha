@@ -5,7 +5,7 @@ export const onePercentLifesteal = {
   pageTypeSlug: "story-read",
   slug: "one-percent-lifesteal",
   title: "1% Lifesteal",
-  worldSlug: "one-percent-lifesteal",
+  world: "one-percent-lifesteal",
   source: "kindle",
   rank: "C",
   tags: ["Dark"],

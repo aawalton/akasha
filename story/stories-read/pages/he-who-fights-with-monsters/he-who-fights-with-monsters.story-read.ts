@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters = {
   pageTypeSlug: "story-read",
   slug: "he-who-fights-with-monsters",
   title: "He Who Fights With Monsters",
-  worldSlug: "he-who-fights-with-monsters",
+  world: "he-who-fights-with-monsters",
   source: "royal-road",
   author: "Shirtaloon (Travis Deverell)",
   rank: "A",

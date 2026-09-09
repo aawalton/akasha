@@ -5,7 +5,7 @@ export const divineDungeonUniverse = {
   pageTypeSlug: "story-read",
   slug: "divine-dungeon-universe",
   title: "Divine Dungeon Universe",
-  worldSlug: "divine-dungeon-universe",
+  world: "divine-dungeon-universe",
   source: "kindle",
   unitSlug: "words",
 } as const satisfies StoryRead

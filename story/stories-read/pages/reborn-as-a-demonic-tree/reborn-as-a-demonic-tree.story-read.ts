@@ -5,7 +5,7 @@ export const rebornAsADemonicTree = {
   pageTypeSlug: "story-read",
   slug: "reborn-as-a-demonic-tree",
   title: "Reborn as a Demonic Tree",
-  worldSlug: "reborn-as-a-demonic-tree",
+  world: "reborn-as-a-demonic-tree",
   source: "royal-road",
   author: "XKARNATION",
   rank: "B",

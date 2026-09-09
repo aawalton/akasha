@@ -11,7 +11,7 @@ export const massProducedMagicLitrpgActionCrafterTech = {
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech",
   title: "Mass Produced Magic",
-  worldSlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  world: "mass-produced-magic-litrpg-action-crafter-tech",
   source: "royal-road",
   externalTags: [
     "LitRPG",

@@ -5,7 +5,7 @@ export const kerasSelyrianUniverse = {
   pageTypeSlug: "story-read",
   slug: "keras-selyrian-universe",
   title: "Keras Selyrian Universe",
-  worldSlug: "keras-selyrian-universe",
+  world: "keras-selyrian-universe",
   source: "kindle",
   unitSlug: "words",
 } as const satisfies StoryRead

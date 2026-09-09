@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound = {
   pageTypeSlug: "story-read",
   slug: "the-legend-of-randidly-ghosthound",
   title: "The Legend of Randidly Ghosthound",
-  worldSlug: "the-legend-of-randidly-ghosthound",
+  world: "the-legend-of-randidly-ghosthound",
   source: "royal-road",
   author: "puddles4263",
   rank: "C",

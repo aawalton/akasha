@@ -5,5 +5,5 @@ export const bodyOfTheEater = {
   pageTypeSlug: "world-aspect",
   slug: "body-of-the-eater",
   title: "Body of the Eater",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldAspect

@@ -5,7 +5,7 @@ export const defianceOfTheFall = {
   pageTypeSlug: "story-read",
   slug: "defiance-of-the-fall",
   title: "Defiance of the Fall",
-  worldSlug: "defiance-of-the-fall",
+  world: "defiance-of-the-fall",
   source: "royal-road",
   rank: "C",
   externalTags: [

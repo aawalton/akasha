@@ -5,7 +5,7 @@ export const theGoodGuys = {
   pageTypeSlug: "story-read",
   slug: "the-good-guys",
   title: "The Good Guys",
-  worldSlug: "the-good-guys",
+  world: "the-good-guys",
   source: "kindle",
   rank: "B",
   tags: ["Comedy"],

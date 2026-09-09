@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia = {
   pageTypeSlug: "story-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
-  worldSlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  world: "heaven-piercing-giraffe-op-mc-xianxia",
   source: "royal-road",
   author: "A4 bAnAnA",
   publicationStatus: "ongoing",

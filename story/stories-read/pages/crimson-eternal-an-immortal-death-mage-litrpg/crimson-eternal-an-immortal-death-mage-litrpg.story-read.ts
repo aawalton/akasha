@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
   pageTypeSlug: "story-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg",
   title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)",
-  worldSlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  world: "crimson-eternal-an-immortal-death-mage-litrpg",
   source: "royal-road",
   author: "WolfShine",
   rank: "C",

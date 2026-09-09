@@ -5,7 +5,7 @@ export const stonehavenLeague = {
   pageTypeSlug: "story-read",
   slug: "stonehaven-league",
   title: "Stonehaven League",
-  worldSlug: "stonehaven-league",
+  world: "stonehaven-league",
   source: "kindle",
   following: true,
   tags: ["VRMMO"],

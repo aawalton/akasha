@@ -5,5 +5,5 @@ export const artisanOfBones = {
   pageTypeSlug: "world-class",
   slug: "artisan-of-bones",
   title: "Artisan of Bones",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

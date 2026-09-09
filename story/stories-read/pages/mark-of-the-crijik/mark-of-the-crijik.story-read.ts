@@ -5,7 +5,7 @@ export const markOfTheCrijik = {
   pageTypeSlug: "story-read",
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",
-  worldSlug: "mark-of-the-crijik",
+  world: "mark-of-the-crijik",
   source: "royal-road",
   author: "ThinkTwice",
   rank: "C",

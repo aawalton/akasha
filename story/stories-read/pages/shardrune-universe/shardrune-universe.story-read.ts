@@ -5,7 +5,7 @@ export const shardruneUniverse = {
   pageTypeSlug: "story-read",
   slug: "shardrune-universe",
   title: "Shardrune Universe",
-  worldSlug: "shardrune-universe",
+  world: "shardrune-universe",
   source: "kindle",
   rank: "B",
   following: true,

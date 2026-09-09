@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg",
   title: "Squid Girl Evolution",
-  worldSlug: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  world: "squid-girl-evolution-monster-girl-evolution-litrpg",
   source: "royal-road",
   rank: "C",
   externalTags: [

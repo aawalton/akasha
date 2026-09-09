@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc = {
   pageTypeSlug: "story-read",
   slug: "time-cursed-knight-time-loop-post-apoc",
   title: "Time Cursed Knight [Time Loop • Post Apoc]",
-  worldSlug: "time-cursed-knight-time-loop-post-apoc",
+  world: "time-cursed-knight-time-loop-post-apoc",
   source: "royal-road",
   author: "GCLopes",
   publicationStatus: "ongoing",

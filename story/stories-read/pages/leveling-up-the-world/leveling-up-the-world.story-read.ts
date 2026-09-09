@@ -5,7 +5,7 @@ export const levelingUpTheWorld = {
   pageTypeSlug: "story-read",
   slug: "leveling-up-the-world",
   title: "Leveling up the World",
-  worldSlug: "leveling-up-the-world",
+  world: "leveling-up-the-world",
   source: "royal-road",
   author: "Lise Eclaire",
   rank: "C",

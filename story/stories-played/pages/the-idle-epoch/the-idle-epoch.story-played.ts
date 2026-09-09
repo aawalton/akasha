@@ -5,7 +5,7 @@ export const theIdleEpoch = {
   pageTypeSlug: "story-played",
   slug: "the-idle-epoch",
   title: "The Idle Epoch",
-  worldSlug: "the-idle-epoch",
+  world: "the-idle-epoch",
   unitSlug: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

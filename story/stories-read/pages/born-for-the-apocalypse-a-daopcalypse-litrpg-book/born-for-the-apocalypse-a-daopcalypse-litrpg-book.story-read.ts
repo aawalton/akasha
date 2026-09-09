@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   pageTypeSlug: "story-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   title: "Born for the Apocalypse",
-  worldSlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  world: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   source: "royal-road",
   rank: "C",
   externalTags: [

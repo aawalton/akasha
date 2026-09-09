@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed = {
   pageTypeSlug: "story-read",
   slug: "the-calamitous-bob-stubbed",
   title: "The Calamitous Bob (stubbed)",
-  worldSlug: "the-calamitous-bob-stubbed",
+  world: "the-calamitous-bob-stubbed",
   source: "royal-road",
   author: "Mecanimus",
   rank: "A",

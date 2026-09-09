@@ -5,6 +5,6 @@ export const archmageOfTectonicMight = {
   pageTypeSlug: "world-class",
   slug: "archmage-of-tectonic-might",
   title: "Archmage of Tectonic Might",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

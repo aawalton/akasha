@@ -10,7 +10,7 @@ export const godOfTrash = {
   externalId: "107252",
   externalLink: "https://www.royalroad.com/fiction/107252/god-of-trash",
   title: "God of Trash",
-  worldSlug: "god-of-trash",
+  world: "god-of-trash",
   source: "royal-road",
   externalTags: [
     "LitRPG",

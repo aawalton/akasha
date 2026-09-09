@@ -5,7 +5,7 @@ export const superSupportive = {
   pageTypeSlug: "story-read",
   slug: "super-supportive",
   title: "Super Supportive",
-  worldSlug: "super-supportive",
+  world: "super-supportive",
   source: "royal-road",
   author: "Sleyca",
   following: true,

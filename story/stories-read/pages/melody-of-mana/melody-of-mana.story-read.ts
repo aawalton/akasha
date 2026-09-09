@@ -5,7 +5,7 @@ export const melodyOfMana = {
   pageTypeSlug: "story-read",
   slug: "melody-of-mana",
   title: "Melody of Mana",
-  worldSlug: "melody-of-mana",
+  world: "melody-of-mana",
   source: "royal-road",
   author: "Wandering Agent",
   rank: "C",

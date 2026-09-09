@@ -9,7 +9,7 @@ export const theRunesmith = {
   externalId: "31474",
   externalLink: "https://www.royalroad.com/fiction/31474/the-runesmith",
   title: "The Runesmith",
-  worldSlug: "the-runesmith",
+  world: "the-runesmith",
   source: "royal-road",
   externalTags: [
     "GameLit",

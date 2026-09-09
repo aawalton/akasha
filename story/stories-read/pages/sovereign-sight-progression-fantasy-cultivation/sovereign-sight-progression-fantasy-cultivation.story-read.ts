@@ -6,7 +6,7 @@ export const sovereignSightProgressionFantasyCultivation = {
   slug: "sovereign-sight-progression-fantasy-cultivation",
   title:
     "Sovereign Sight [Progression Fantasy, Cultivation, Clever Strategist, High Perception MC]",
-  worldSlug: "sovereign-sight-progression-fantasy-cultivation",
+  world: "sovereign-sight-progression-fantasy-cultivation",
   source: "royal-road",
   author: "Nicoli Gonnella",
   publicationStatus: "ongoing",

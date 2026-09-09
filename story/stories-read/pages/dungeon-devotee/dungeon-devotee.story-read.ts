@@ -5,7 +5,7 @@ export const dungeonDevotee = {
   pageTypeSlug: "story-read",
   slug: "dungeon-devotee",
   title: "Dungeon Devotee",
-  worldSlug: "dungeon-devotee",
+  world: "dungeon-devotee",
   source: "royal-road",
   author: "Nixia",
   rank: "C",

@@ -5,6 +5,6 @@ export const coffeeShopDate = {
   pageTypeSlug: "story-played",
   slug: "coffee-shop-date",
   title: "Coffee Shop Date",
-  worldSlug: "personas",
+  world: "personas",
   unitSlug: "words",
 } as const satisfies StoryPlayed

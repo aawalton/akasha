@@ -5,5 +5,5 @@ export const reiss = {
   pageTypeSlug: "world-carried-memory",
   slug: "reiss",
   title: "Reiss",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldCarriedMemory

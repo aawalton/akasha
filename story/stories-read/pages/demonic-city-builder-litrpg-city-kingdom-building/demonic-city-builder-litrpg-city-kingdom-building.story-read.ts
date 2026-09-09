@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   pageTypeSlug: "story-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
-  worldSlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  world: "demonic-city-builder-litrpg-city-kingdom-building",
   source: "royal-road",
   author: "Cattacomb",
   publicationStatus: "ongoing",

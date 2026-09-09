@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   pageTypeSlug: "story-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression",
   title: "Every Trope Everywhere All At Once [LitRPG, Progression, Comedy, Adventure]",
-  worldSlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  world: "every-trope-everywhere-all-at-once-litrpg-progression",
   source: "royal-road",
   author: "WritingMonocle",
   publicationStatus: "ongoing",

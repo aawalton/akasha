@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow = {
   pageTypeSlug: "story-read",
   slug: "sherly-the-most-virtuous-holy-cow",
   title: "Sherly",
-  worldSlug: "sherly-the-most-virtuous-holy-cow",
+  world: "sherly-the-most-virtuous-holy-cow",
   source: "royal-road",
   rank: "C",
   externalTags: [

@@ -5,7 +5,7 @@ export const vuldranni = {
   pageTypeSlug: "story-read",
   slug: "vuldranni",
   title: "Vuldranni",
-  worldSlug: "vuldranni",
+  world: "vuldranni",
   source: "kindle",
   rank: "B",
   tags: ["Comedy"],

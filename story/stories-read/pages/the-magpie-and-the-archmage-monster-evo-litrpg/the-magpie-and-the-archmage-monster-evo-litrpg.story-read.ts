@@ -10,7 +10,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",
   title: "The Magpie and The Archmage",
-  worldSlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  world: "the-magpie-and-the-archmage-monster-evo-litrpg",
   source: "royal-road",
   externalTags: [
     "LitRPG",

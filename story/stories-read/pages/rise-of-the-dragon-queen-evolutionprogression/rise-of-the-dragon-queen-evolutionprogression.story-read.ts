@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression = {
   pageTypeSlug: "story-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression",
   title: "Rise Of The Dragon Queen",
-  worldSlug: "rise-of-the-dragon-queen-evolutionprogression",
+  world: "rise-of-the-dragon-queen-evolutionprogression",
   source: "royal-road",
   rank: "C",
   externalTags: [

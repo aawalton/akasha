@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   pageTypeSlug: "story-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   title: "12 Steps to Transcendence: A Skill-Grinding LitRPG",
-  worldSlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  world: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   source: "royal-road",
   author: "Mishri",
   publicationStatus: "ongoing",

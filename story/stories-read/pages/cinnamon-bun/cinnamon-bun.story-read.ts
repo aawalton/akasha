@@ -10,7 +10,7 @@ export const cinnamonBun = {
   externalId: "31429",
   externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun",
   title: "Cinnamon Bun",
-  worldSlug: "cinnamon-bun",
+  world: "cinnamon-bun",
   source: "royal-road",
   externalTags: [
     "LitRPG",

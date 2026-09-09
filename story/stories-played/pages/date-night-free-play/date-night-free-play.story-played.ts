@@ -5,6 +5,6 @@ export const dateNightFreePlay = {
   pageTypeSlug: "story-played",
   slug: "date-night-free-play",
   title: "Date Night Free Play",
-  worldSlug: "personas",
+  world: "personas",
   unitSlug: "words",
 } as const satisfies StoryPlayed

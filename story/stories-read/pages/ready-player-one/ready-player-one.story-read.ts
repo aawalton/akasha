@@ -5,7 +5,7 @@ export const readyPlayerOne = {
   pageTypeSlug: "story-read",
   slug: "ready-player-one",
   title: "Ready Player One",
-  worldSlug: "ready-player-one",
+  world: "ready-player-one",
   source: "kindle",
   rank: "C",
   tags: ["VRMMO"],

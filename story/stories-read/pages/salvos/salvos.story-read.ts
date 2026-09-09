@@ -5,7 +5,7 @@ export const salvos = {
   pageTypeSlug: "story-read",
   slug: "salvos",
   title: "Salvos",
-  worldSlug: "salvos",
+  world: "salvos",
   source: "royal-road",
   rank: "C",
   externalTags: [

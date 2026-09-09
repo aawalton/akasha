@@ -5,7 +5,7 @@ export const motherOfLearning = {
   pageTypeSlug: "story-read",
   slug: "mother-of-learning",
   title: "Mother of Learning",
-  worldSlug: "mother-of-learning",
+  world: "mother-of-learning",
   source: "royal-road",
   author: "nobody103",
   rank: "B",

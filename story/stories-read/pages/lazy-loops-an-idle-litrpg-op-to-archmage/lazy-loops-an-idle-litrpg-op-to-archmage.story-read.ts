@@ -5,7 +5,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage = {
   pageTypeSlug: "story-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage",
   title: "Lazy Loops: An Idle LitRPG [OP to Archmage]",
-  worldSlug: "lazy-loops-an-idle-litrpg-op-to-archmage",
+  world: "lazy-loops-an-idle-litrpg-op-to-archmage",
   source: "royal-road",
   author: "Fiddlesoup",
   publicationStatus: "ongoing",

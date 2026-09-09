@@ -5,7 +5,7 @@ export const forgeOfDestiny = {
   pageTypeSlug: "story-read",
   slug: "forge-of-destiny",
   title: "Forge of Destiny",
-  worldSlug: "forge-of-destiny",
+  world: "forge-of-destiny",
   source: "royal-road",
   rank: "C",
   externalTags: [

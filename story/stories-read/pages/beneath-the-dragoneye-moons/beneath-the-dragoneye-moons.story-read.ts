@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons = {
   pageTypeSlug: "story-read",
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
-  worldSlug: "beneath-the-dragoneye-moons",
+  world: "beneath-the-dragoneye-moons",
   source: "royal-road",
   author: "Selkie",
   rank: "A",

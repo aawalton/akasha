@@ -5,7 +5,7 @@ export const pathToProsperityLitrpgVol12Stubbed = {
   pageTypeSlug: "story-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed",
   title: "Path to Prosperity [LitRPG] (Vol 1,2 stubbed)",
-  worldSlug: "path-to-prosperity-litrpg-vol-12-stubbed",
+  world: "path-to-prosperity-litrpg-vol-12-stubbed",
   source: "royal-road",
   author: "HideousGrain",
   rank: "C",

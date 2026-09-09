@@ -5,7 +5,7 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
   pageTypeSlug: "story-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc",
   title: "Dark Matter Ascension",
-  worldSlug: "dark-matter-ascension-litrpg-swordmage-mc",
+  world: "dark-matter-ascension-litrpg-swordmage-mc",
   source: "royal-road",
   rank: "C",
   externalTags: [

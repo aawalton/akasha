@@ -5,6 +5,6 @@ export const partnersIi = {
   pageTypeSlug: "story-played",
   slug: "partners-ii",
   title: "Partners II",
-  worldSlug: "personas",
+  world: "personas",
   unitSlug: "words",
 } as const satisfies StoryPlayed

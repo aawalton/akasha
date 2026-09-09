@@ -5,7 +5,7 @@ export const succulentGirlEvolution = {
   pageTypeSlug: "story-read",
   slug: "succulent-girl-evolution",
   title: "Succulent Girl Evolution",
-  worldSlug: "succulent-girl-evolution",
+  world: "succulent-girl-evolution",
   source: "royal-road",
   rank: "C",
   externalTags: [

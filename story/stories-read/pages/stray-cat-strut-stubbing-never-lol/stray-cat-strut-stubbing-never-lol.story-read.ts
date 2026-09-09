@@ -10,7 +10,7 @@ export const strayCatStrutStubbingNeverLol = {
   externalId: "33600",
   externalLink: "https://www.royalroad.com/fiction/33600/stray-cat-strut-stubbing-never-lol",
   title: "Stray Cat Strut",
-  worldSlug: "stray-cat-strut-stubbing-never-lol",
+  world: "stray-cat-strut-stubbing-never-lol",
   source: "royal-road",
   externalTags: [
     "LitRPG",

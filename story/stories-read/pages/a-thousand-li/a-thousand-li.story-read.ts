@@ -5,7 +5,7 @@ export const aThousandLi = {
   pageTypeSlug: "story-read",
   slug: "a-thousand-li",
   title: "A Thousand Li",
-  worldSlug: "a-thousand-li",
+  world: "a-thousand-li",
   source: "kindle",
   rank: "B",
   tags: ["Cultivation"],

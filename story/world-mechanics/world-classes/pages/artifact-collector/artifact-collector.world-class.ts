@@ -5,6 +5,6 @@ export const artifactCollector = {
   pageTypeSlug: "world-class",
   slug: "artifact-collector",
   title: "Artifact Collector",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

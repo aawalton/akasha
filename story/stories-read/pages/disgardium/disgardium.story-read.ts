@@ -5,7 +5,7 @@ export const disgardium = {
   pageTypeSlug: "story-read",
   slug: "disgardium",
   title: "Disgardium",
-  worldSlug: "disgardium",
+  world: "disgardium",
   source: "kindle",
   rank: "B",
   tags: ["VRMMO"],

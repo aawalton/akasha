@@ -5,7 +5,7 @@ export const aTouchOfPower = {
   pageTypeSlug: "story-read",
   slug: "a-touch-of-power",
   title: "A Touch of Power",
-  worldSlug: "a-touch-of-power",
+  world: "a-touch-of-power",
   source: "kindle",
   rank: "A",
   following: true,

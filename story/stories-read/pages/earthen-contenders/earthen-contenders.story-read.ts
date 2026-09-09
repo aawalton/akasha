@@ -5,7 +5,7 @@ export const earthenContenders = {
   pageTypeSlug: "story-read",
   slug: "earthen-contenders",
   title: "Earthen Contenders",
-  worldSlug: "earthen-contenders",
+  world: "earthen-contenders",
   source: "kindle",
   rank: "C",
   following: true,

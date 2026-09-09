@@ -5,7 +5,7 @@ export const alexaThyme = {
   pageTypeSlug: "story-read",
   slug: "alexa-thyme",
   title: "Alexa Thyme",
-  worldSlug: "alexa-thyme",
+  world: "alexa-thyme",
   source: "kindle",
   rank: "B",
   following: true,

@@ -10,7 +10,7 @@ export const thereIsNoEpicLootHereOnlyPuns = {
   externalId: "15935",
   externalLink: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns",
   title: "There is no Epic Loot here, Only Puns",
-  worldSlug: "there-is-no-epic-loot-here-only-puns",
+  world: "there-is-no-epic-loot-here-only-puns",
   source: "royal-road",
   externalTags: [
     "LitRPG",

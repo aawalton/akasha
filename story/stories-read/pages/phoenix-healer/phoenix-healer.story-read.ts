@@ -5,7 +5,7 @@ export const phoenixHealer = {
   pageTypeSlug: "story-read",
   slug: "phoenix-healer",
   title: "Phoenix Healer",
-  worldSlug: "phoenix-healer",
+  world: "phoenix-healer",
   source: "royal-road",
   author: "Maeve McCarthy",
   following: true,

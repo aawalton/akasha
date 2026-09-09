@@ -5,7 +5,7 @@ export const hellDifficultyTutorial = {
   pageTypeSlug: "story-read",
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",
-  worldSlug: "hell-difficulty-tutorial",
+  world: "hell-difficulty-tutorial",
   source: "royal-road",
   rank: "C",
   externalTags: [

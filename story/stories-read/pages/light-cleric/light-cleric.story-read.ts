@@ -5,7 +5,7 @@ export const lightCleric = {
   pageTypeSlug: "story-read",
   slug: "light-cleric",
   title: "Light Cleric",
-  worldSlug: "light-cleric",
+  world: "light-cleric",
   source: "royal-road",
   author: "Ira Creasman",
   following: true,

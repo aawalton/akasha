@@ -5,7 +5,7 @@ export const dragonHeart = {
   pageTypeSlug: "story-read",
   slug: "dragon-heart",
   title: "Dragon Heart",
-  worldSlug: "dragon-heart",
+  world: "dragon-heart",
   source: "kindle",
   rank: "C",
   tags: ["Cultivation", "Dark"],

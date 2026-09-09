@@ -10,7 +10,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg = {
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg",
   title: "Chloe the Zombie",
-  worldSlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  world: "chloe-the-zombie-a-monster-evolution-litrpg",
   source: "royal-road",
   externalTags: [
     "LitRPG",

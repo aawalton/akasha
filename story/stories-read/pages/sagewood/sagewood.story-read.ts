@@ -5,7 +5,7 @@ export const sagewood = {
   pageTypeSlug: "story-read",
   slug: "sagewood",
   title: "Sagewood",
-  worldSlug: "sagewood",
+  world: "sagewood",
   source: "kindle",
   rank: "C",
   tags: ["Slice-Of-Life"],

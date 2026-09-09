@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
   pageTypeSlug: "story-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy",
   title: "Millennial Mage (A Slice of Life, Progression Fantasy)",
-  worldSlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  world: "millennial-mage-a-slice-of-life-progression-fantasy",
   source: "royal-road",
   author: "JLMullins",
   rank: "A",

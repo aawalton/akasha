@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg = {
   pageTypeSlug: "story-read",
   slug: "shapeshifter-a-non-human-litrpg",
   title: "\\nFaceless Hunter",
-  worldSlug: "shapeshifter-a-non-human-litrpg",
+  world: "shapeshifter-a-non-human-litrpg",
   source: "royal-road",
   rank: "C",
   externalTags: [

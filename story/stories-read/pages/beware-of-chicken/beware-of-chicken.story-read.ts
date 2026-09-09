@@ -5,7 +5,7 @@ export const bewareOfChicken = {
   pageTypeSlug: "story-read",
   slug: "beware-of-chicken",
   title: "Beware Of Chicken",
-  worldSlug: "beware-of-chicken",
+  world: "beware-of-chicken",
   source: "royal-road",
   author: "Casualfarmer",
   rank: "A",

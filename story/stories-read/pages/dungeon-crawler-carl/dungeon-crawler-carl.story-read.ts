@@ -5,7 +5,7 @@ export const dungeonCrawlerCarl = {
   pageTypeSlug: "story-read",
   slug: "dungeon-crawler-carl",
   title: "Dungeon Crawler Carl",
-  worldSlug: "dungeon-crawler-carl",
+  world: "dungeon-crawler-carl",
   source: "kindle",
   rank: "C",
   tags: ["System Apocalypse"],

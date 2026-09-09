@@ -5,7 +5,7 @@ export const guardianOfAsterFall = {
   pageTypeSlug: "story-read",
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",
-  worldSlug: "guardian-of-aster-fall",
+  world: "guardian-of-aster-fall",
   source: "kindle",
   rank: "C",
   tags: ["Crafting", "Dungeon Delver"],

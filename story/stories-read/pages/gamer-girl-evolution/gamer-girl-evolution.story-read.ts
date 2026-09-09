@@ -5,7 +5,7 @@ export const gamerGirlEvolution = {
   pageTypeSlug: "story-read",
   slug: "gamer-girl-evolution",
   title: "Gamer Girl Evolution",
-  worldSlug: "gamer-girl-evolution",
+  world: "gamer-girl-evolution",
   source: "royal-road",
   author: "Silva Sensei",
   rank: "C",

@@ -10,7 +10,7 @@ export const mythransMasterOfAllContinuedCompleted = {
   externalId: "8220",
   externalLink: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed",
   title: "Mythran's Master Of All",
-  worldSlug: "mythrans-master-of-all-continued-completed",
+  world: "mythrans-master-of-all-continued-completed",
   source: "royal-road",
   externalTags: [
     "Virtual Reality",

@@ -5,7 +5,7 @@ export const theConnectedSystem = {
   pageTypeSlug: "story-read",
   slug: "the-connected-system",
   title: "The Connected System",
-  worldSlug: "the-connected-system",
+  world: "the-connected-system",
   source: "kindle",
   rank: "C",
   tags: ["System Apocalypse"],

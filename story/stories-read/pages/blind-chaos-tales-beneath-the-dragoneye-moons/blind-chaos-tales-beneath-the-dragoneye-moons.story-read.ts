@@ -10,7 +10,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons = {
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons",
   title: "Blind Chaos",
-  worldSlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  world: "blind-chaos-tales-beneath-the-dragoneye-moons",
   source: "royal-road",
   externalTags: [
     "LitRPG",

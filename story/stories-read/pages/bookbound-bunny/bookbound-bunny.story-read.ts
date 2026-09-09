@@ -8,7 +8,7 @@ export const bookboundBunny = {
   externalId: "104261",
   externalLink: "https://www.royalroad.com/fiction/104261/bookbound-bunny",
   title: "Bookbound Bunny",
-  worldSlug: "bookbound-bunny",
+  world: "bookbound-bunny",
   source: "royal-road",
   externalTags: [
     "Progression",

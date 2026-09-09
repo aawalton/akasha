@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed = {
   pageTypeSlug: "story-read",
   slug: "library-system-reset-overdue-book-four-stubbed",
   title: "Library System Reset",
-  worldSlug: "library-system-reset-overdue-book-four-stubbed",
+  world: "library-system-reset-overdue-book-four-stubbed",
   source: "royal-road",
   rank: "C",
   externalTags: [

@@ -5,7 +5,7 @@ export const thePrimalHunter = {
   pageTypeSlug: "story-read",
   slug: "the-primal-hunter",
   title: "The Primal Hunter",
-  worldSlug: "the-primal-hunter",
+  world: "the-primal-hunter",
   source: "royal-road",
   author: "Zogarth",
   rank: "B",

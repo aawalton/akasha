@@ -5,7 +5,7 @@ export const theWanderingInn = {
   pageTypeSlug: "story-read",
   slug: "the-wandering-inn",
   title: "The Wandering Inn",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   source: "the-wandering-inn",
   rank: "S",
   tags: ["litrpg", "fantasy", "slice-of-life"],

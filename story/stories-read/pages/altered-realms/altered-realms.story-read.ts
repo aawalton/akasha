@@ -5,7 +5,7 @@ export const alteredRealms = {
   pageTypeSlug: "story-read",
   slug: "altered-realms",
   title: "Altered Realms",
-  worldSlug: "altered-realms",
+  world: "altered-realms",
   source: "kindle",
   rank: "D",
   tags: ["VRMMO"],

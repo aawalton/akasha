@@ -5,5 +5,5 @@ export const assertiveCouncilmember = {
   pageTypeSlug: "world-class",
   slug: "assertive-councilmember",
   title: "Assertive Councilmember",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

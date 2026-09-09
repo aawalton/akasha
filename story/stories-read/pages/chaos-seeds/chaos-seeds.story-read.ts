@@ -5,7 +5,7 @@ export const chaosSeeds = {
   pageTypeSlug: "story-read",
   slug: "chaos-seeds",
   title: "Chaos Seeds",
-  worldSlug: "chaos-seeds",
+  world: "chaos-seeds",
   source: "kindle",
   rank: "C",
   tags: ["Civilization Building", "Isekai"],

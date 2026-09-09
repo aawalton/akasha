@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
   pageTypeSlug: "story-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   title: "Zero-Day Saint — I Cheat Smarter — [Shapeshifter litRPG][Vol 1 Complete]",
-  worldSlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  world: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   source: "royal-road",
   author: "Lilly Fox",
   publicationStatus: "ongoing",

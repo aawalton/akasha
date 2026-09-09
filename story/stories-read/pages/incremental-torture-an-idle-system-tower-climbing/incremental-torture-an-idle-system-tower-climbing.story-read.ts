@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
   pageTypeSlug: "story-read",
   slug: "incremental-torture-an-idle-system-tower-climbing",
   title: "Incremental Torture",
-  worldSlug: "incremental-torture-an-idle-system-tower-climbing",
+  world: "incremental-torture-an-idle-system-tower-climbing",
   source: "royal-road",
   rank: "C",
   externalTags: [

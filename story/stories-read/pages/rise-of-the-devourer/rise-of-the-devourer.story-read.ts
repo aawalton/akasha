@@ -5,7 +5,7 @@ export const riseOfTheDevourer = {
   pageTypeSlug: "story-read",
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",
-  worldSlug: "rise-of-the-devourer",
+  world: "rise-of-the-devourer",
   source: "kindle",
   rank: "C",
   unitSlug: "words",

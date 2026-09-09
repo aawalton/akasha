@@ -5,7 +5,7 @@ export const justAddMana = {
   pageTypeSlug: "story-read",
   slug: "just-add-mana",
   title: "Just Add Mana",
-  worldSlug: "just-add-mana",
+  world: "just-add-mana",
   source: "royal-road",
   author: "SilverLinings",
   rank: "B",

@@ -10,7 +10,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food",
   title: "Wolf Girl Evolution",
-  worldSlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  world: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   source: "royal-road",
   externalTags: [
     "LitRPG",

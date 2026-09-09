@@ -5,7 +5,7 @@ export const theVioletHour = {
   pageTypeSlug: "story-played",
   slug: "the-violet-hour",
   title: "The Violet Hour",
-  worldSlug: "personas",
+  world: "personas",
   unitSlug: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

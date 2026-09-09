@@ -10,7 +10,7 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",
   title: "System Girl",
-  worldSlug: "system-girl-system-mc-world-hopping-comedy",
+  world: "system-girl-system-mc-world-hopping-comedy",
   source: "royal-road",
   externalTags: [
     "LitRPG",

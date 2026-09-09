@@ -5,7 +5,7 @@ export const theNewWorld = {
   pageTypeSlug: "story-read",
   slug: "the-new-world",
   title: "The New World",
-  worldSlug: "the-new-world",
+  world: "the-new-world",
   source: "royal-road",
   author: "Monsoon117",
   rank: "C",

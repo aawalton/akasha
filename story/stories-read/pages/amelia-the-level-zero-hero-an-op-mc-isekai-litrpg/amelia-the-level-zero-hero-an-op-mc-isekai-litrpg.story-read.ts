@@ -10,7 +10,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   title: "Amelia the Level Zero Hero",
-  worldSlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  world: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   source: "royal-road",
   externalTags: [
     "LitRPG",

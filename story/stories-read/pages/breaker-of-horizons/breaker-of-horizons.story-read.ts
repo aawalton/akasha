@@ -5,7 +5,7 @@ export const breakerOfHorizons = {
   pageTypeSlug: "story-read",
   slug: "breaker-of-horizons",
   title: "Breaker of Horizons",
-  worldSlug: "breaker-of-horizons",
+  world: "breaker-of-horizons",
   source: "royal-road",
   rank: "C",
   externalTags: [

@@ -5,7 +5,7 @@ export const azarinthHealer = {
   pageTypeSlug: "story-read",
   slug: "azarinth-healer",
   title: "Azarinth Healer",
-  worldSlug: "azarinth-healer",
+  world: "azarinth-healer",
   source: "royal-road",
   author: "Rhaegar",
   rank: "B",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
   pageTypeSlug: "story-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   title: "The Stubborn Skill-Grinder In A Time Loop (Book 4 Stubbed)",
-  worldSlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  world: "the-stubborn-skill-grinder-in-a-time-loop-book",
   source: "royal-road",
   author: "X-RHODEN-X",
   rank: "B",

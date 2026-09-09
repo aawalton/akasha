@@ -5,7 +5,7 @@ export const newGam3Plus = {
   pageTypeSlug: "story-read",
   slug: "new-gam3-plus",
   title: "New Gam3 Plus",
-  worldSlug: "new-gam3-plus",
+  world: "new-gam3-plus",
   source: "royal-road",
   author: "Ephemerality",
   following: true,
