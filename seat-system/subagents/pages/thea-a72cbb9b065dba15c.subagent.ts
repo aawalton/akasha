@@ -3,6 +3,7 @@ import type { Subagent } from "../subagent.page-type.ts"
 export const theaA72cbb9b065dba15c = {
   id: "01a06db0-fbc5-7cde-bacf-5a844d889cd2",
   pageTypeSlug: "subagent",
+  type: "subagent",
   slug: "thea-a72cbb9b065dba15c",
   principalSeatName: "thea",
   assignmentSlug: "initiative/thea-checks-system",

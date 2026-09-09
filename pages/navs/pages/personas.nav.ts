@@ -3,6 +3,7 @@ import type { Nav } from "../nav.page-type.ts"
 export const personas = {
   id: "01a06577-2613-7013-8889-e759e97f41ba",
   pageTypeSlug: "nav",
+  type: "nav",
   slug: "personas",
   title: "Personas",
   icon: "bot",

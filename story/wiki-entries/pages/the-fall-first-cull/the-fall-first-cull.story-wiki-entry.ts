@@ -3,6 +3,7 @@ import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
 export const theFallFirstCull = {
   id: "01a0657d-bb98-719d-a172-eb1f14efc911",
   pageTypeSlug: "story-wiki-entry",
+  type: "story-wiki-entry",
   slug: "the-fall-first-cull",
   title: "The Fall (First Cull)",
   world: "tower-of-nimue",

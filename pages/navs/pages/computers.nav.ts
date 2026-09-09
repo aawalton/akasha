@@ -3,6 +3,7 @@ import type { Nav } from "../nav.page-type.ts"
 export const computers = {
   id: "01a06577-2613-7007-8711-7018adf1b8fc",
   pageTypeSlug: "nav",
+  type: "nav",
   slug: "computers",
   title: "Computers",
   icon: "laptop-minimal",

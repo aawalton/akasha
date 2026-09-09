@@ -3,6 +3,7 @@ import type { IosComponent } from "../../ios-component.page-type.ts"
 export const alanwaltonWidgetFeed = {
   id: "01a05835-69d7-777a-9161-494558086ce9",
   pageTypeSlug: "ios-component",
+  type: "ios-component",
   slug: "alanwalton-widget-feed",
   definition: "the fetch every tile of Alan's app draws from",
   swift: "swift",

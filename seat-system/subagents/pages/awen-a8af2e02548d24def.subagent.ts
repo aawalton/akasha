@@ -3,6 +3,7 @@ import type { Subagent } from "../subagent.page-type.ts"
 export const awenA8af2e02548d24def = {
   id: "01a082a7-1e58-776b-b962-350183901d73",
   pageTypeSlug: "subagent",
+  type: "subagent",
   slug: "awen-a8af2e02548d24def",
   principalSeatName: "awen",
   assignmentSlug: "initiative/awen-page-folders-by-index",

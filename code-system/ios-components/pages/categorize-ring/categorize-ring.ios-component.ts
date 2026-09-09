@@ -3,6 +3,7 @@ import type { IosComponent } from "../../ios-component.page-type.ts"
 export const categorizeRing = {
   id: "01a05482-22db-796e-b0e4-76ec3c1bb83e",
   pageTypeSlug: "ios-component",
+  type: "ios-component",
   slug: "categorize-ring",
   definition: "the tile drawing how many transactions are unreviewed",
   swift: "swift",
