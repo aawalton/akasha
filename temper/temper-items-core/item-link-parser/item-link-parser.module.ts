@@ -17,7 +17,7 @@ export const itemLinkParser = {
     },
     {
       invariantKind: "departure",
-      statement: "A field holding no number reads as zero.",
+      statement: "A field with no number reads as zero.",
     },
   ],
 } as const satisfies Module

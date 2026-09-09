@@ -13,7 +13,7 @@ export const exportFetching = {
     },
     {
       invariantKind: "departure",
-      statement: "A workstation holding no export falls through to the laptop.",
+      statement: "A workstation with no export falls through to the laptop.",
     },
     {
       invariantKind: "departure",
