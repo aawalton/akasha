@@ -236,14 +236,6 @@ export function clearPageCardPerf(): undefined {
   return undefined
 }
 
-declare global {
-  interface Window {
-    __pageCardPerf?: PageCardPerf
-    getPageCardPerf?: () => PageCardPerf
-    clearPageCardPerf?: () => undefined
-  }
-}
-
 let WINDOW_INSTALLED = false
 
 function installWindowGlobals(): undefined {
@@ -262,8 +254,16 @@ function installWindowGlobals(): undefined {
       return { entries: snapshotEntries() }
     },
   })
-  window.getPageCardPerf = getPageCardPerf
-  window.clearPageCardPerf = clearPageCardPerf
+  Object.defineProperty(window, "getPageCardPerf", {
+    configurable: true,
+    enumerable: true,
+    value: getPageCardPerf,
+  })
+  Object.defineProperty(window, "clearPageCardPerf", {
+    configurable: true,
+    enumerable: true,
+    value: clearPageCardPerf,
+  })
   return undefined
 }
 

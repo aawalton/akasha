@@ -6,4 +6,10 @@ export const pageCardPerf = {
   slug: "page-card-perf",
   definition: "one page-card edit timed from click through visible, stored and settled",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The readings put on the window are read by a console rather than by code.",
+    },
+  ],
 } as const satisfies Module
