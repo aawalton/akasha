@@ -61,7 +61,7 @@ export const athenaCommandsAtTheRoot = {
     },
   ],
   constraints: [
-    "Nothing under `checks/` changes here. Alan holds checks and check tests.",
+    "A new check needs Alan's. Changing a check that is there needs no approval.",
     "The glass is not broken without Alan saying so, and the reason is written in the commit.",
     "A deletion needs no approval. A directive needs Alan's.",
     "A command's parent is its namespace, and a namespace's is the command page type.",
