@@ -5,6 +5,6 @@ export const fieldOfDeepestSlumber = {
   pageTypeSlug: "world-spell",
   slug: "field-of-deepest-slumber",
   title: "Field of Deepest Slumber",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

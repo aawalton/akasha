@@ -5,6 +5,6 @@ export const emergencyTeleported = {
   pageTypeSlug: "world-spell",
   slug: "emergency-teleported",
   title: "Emergency Teleported",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

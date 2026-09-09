@@ -5,6 +5,6 @@ export const maximusForceorb = {
   pageTypeSlug: "world-spell",
   slug: "maximus-forceorb",
   title: "Maximus Forceorb",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

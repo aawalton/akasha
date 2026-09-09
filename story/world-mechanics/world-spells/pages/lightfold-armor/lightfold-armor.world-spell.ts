@@ -5,6 +5,6 @@ export const lightfoldArmor = {
   pageTypeSlug: "world-spell",
   slug: "lightfold-armor",
   title: "Lightfold Armor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

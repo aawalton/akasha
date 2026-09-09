@@ -5,6 +5,6 @@ export const forceful = {
   pageTypeSlug: "world-spell",
   slug: "forceful",
   title: "Forceful",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

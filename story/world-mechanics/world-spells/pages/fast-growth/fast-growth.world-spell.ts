@@ -5,5 +5,5 @@ export const fastGrowth = {
   pageTypeSlug: "world-spell",
   slug: "fast-growth",
   title: "Fast Growth",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const greaterLightningWard = {
   pageTypeSlug: "world-spell",
   slug: "greater-lightning-ward",
   title: "Greater Lightning Ward",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

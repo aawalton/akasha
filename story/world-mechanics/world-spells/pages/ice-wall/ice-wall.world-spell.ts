@@ -5,7 +5,7 @@ export const iceWall = {
   pageTypeSlug: "world-spell",
   slug: "ice-wall",
   title: "Ice Wall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Ice Wall!"],
   references: "jsonl",
 } as const satisfies WorldSpell

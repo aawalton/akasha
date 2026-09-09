@@ -5,6 +5,6 @@ export const fullBodySynchronization = {
   pageTypeSlug: "world-spell",
   slug: "full-body-synchronization",
   title: "Full Body Synchronization",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

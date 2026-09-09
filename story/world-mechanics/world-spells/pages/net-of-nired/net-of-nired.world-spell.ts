@@ -5,6 +5,6 @@ export const netOfNired = {
   pageTypeSlug: "world-spell",
   slug: "net-of-nired",
   title: "Net of Nired",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

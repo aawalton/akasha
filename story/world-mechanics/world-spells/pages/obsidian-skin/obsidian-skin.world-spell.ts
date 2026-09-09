@@ -5,6 +5,6 @@ export const obsidianSkin = {
   pageTypeSlug: "world-spell",
   slug: "obsidian-skin",
   title: "Obsidian Skin",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

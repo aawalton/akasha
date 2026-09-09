@@ -5,5 +5,5 @@ export const flyingWheels = {
   pageTypeSlug: "world-spell",
   slug: "flying-wheels",
   title: "Flying Wheels",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const myfltaSMagicalSensorNet = {
   pageTypeSlug: "world-spell",
   slug: "myflta-s-magical-sensor-net",
   title: "Myflta’s Magical Sensor Net",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

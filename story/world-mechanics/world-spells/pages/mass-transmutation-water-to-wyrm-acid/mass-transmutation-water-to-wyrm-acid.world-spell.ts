@@ -5,6 +5,6 @@ export const massTransmutationWaterToWyrmAcid = {
   pageTypeSlug: "world-spell",
   slug: "mass-transmutation-water-to-wyrm-acid",
   title: "Mass Transmutation: Water to Wyrm Acid",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

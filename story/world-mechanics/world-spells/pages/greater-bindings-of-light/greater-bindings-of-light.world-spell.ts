@@ -5,6 +5,6 @@ export const greaterBindingsOfLight = {
   pageTypeSlug: "world-spell",
   slug: "greater-bindings-of-light",
   title: "Greater Bindings of Light",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

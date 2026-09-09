@@ -5,5 +5,5 @@ export const magicBubble = {
   pageTypeSlug: "world-spell",
   slug: "magic-bubble",
   title: "Magic Bubble",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

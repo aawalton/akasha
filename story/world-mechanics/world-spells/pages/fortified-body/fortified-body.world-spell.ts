@@ -5,6 +5,6 @@ export const fortifiedBody = {
   pageTypeSlug: "world-spell",
   slug: "fortified-body",
   title: "Fortified Body",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const heatNull = {
   pageTypeSlug: "world-spell",
   slug: "heat-null",
   title: "Heat Null",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

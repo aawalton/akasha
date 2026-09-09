@@ -5,6 +5,6 @@ export const magicNull = {
   pageTypeSlug: "world-spell",
   slug: "magic-null",
   title: "Magic Null",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const elementalCohesion = {
   pageTypeSlug: "world-spell",
   slug: "elemental-cohesion",
   title: "Elemental Cohesion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

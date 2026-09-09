@@ -5,6 +5,6 @@ export const magnesisAttractionPolarity = {
   pageTypeSlug: "world-spell",
   slug: "magnesis-attraction-polarity",
   title: "Magnesis: Attraction Polarity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

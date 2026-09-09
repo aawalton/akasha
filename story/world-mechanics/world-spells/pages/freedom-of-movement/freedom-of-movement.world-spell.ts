@@ -5,6 +5,6 @@ export const freedomOfMovement = {
   pageTypeSlug: "world-spell",
   slug: "freedom-of-movement",
   title: "Freedom of Movement",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

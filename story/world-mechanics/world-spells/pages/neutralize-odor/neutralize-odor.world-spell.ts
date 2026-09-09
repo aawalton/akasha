@@ -5,6 +5,6 @@ export const neutralizeOdor = {
   pageTypeSlug: "world-spell",
   slug: "neutralize-odor",
   title: "Neutralize Odor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

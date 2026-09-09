@@ -5,6 +5,6 @@ export const heatVision = {
   pageTypeSlug: "world-spell",
   slug: "heat-vision",
   title: "Heat Vision",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

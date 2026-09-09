@@ -5,6 +5,6 @@ export const multiMessageLink = {
   pageTypeSlug: "world-spell",
   slug: "multi-message-link",
   title: "Multi-Message Link",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const groundingTotem = {
   pageTypeSlug: "world-spell",
   slug: "grounding-totem",
   title: "Grounding Totem",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const lightformArmaments = {
   pageTypeSlug: "world-spell",
   slug: "lightform-armaments",
   title: "Lightform Armaments",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

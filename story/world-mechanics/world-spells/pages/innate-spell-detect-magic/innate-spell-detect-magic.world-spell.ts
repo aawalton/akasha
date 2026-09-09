@@ -5,6 +5,6 @@ export const innateSpellDetectMagic = {
   pageTypeSlug: "world-spell",
   slug: "innate-spell-detect-magic",
   title: "Innate Spell: Detect Magic",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

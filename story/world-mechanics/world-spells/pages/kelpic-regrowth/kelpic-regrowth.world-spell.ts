@@ -5,6 +5,6 @@ export const kelpicRegrowth = {
   pageTypeSlug: "world-spell",
   slug: "kelpic-regrowth",
   title: "Kelpic Regrowth",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

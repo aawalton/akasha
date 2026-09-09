@@ -5,6 +5,6 @@ export const longRangedScryingCeria = {
   pageTypeSlug: "world-spell",
   slug: "long-ranged-scrying-ceria",
   title: "Long-Ranged Scrying: Ceria",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

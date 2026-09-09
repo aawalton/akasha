@@ -5,6 +5,6 @@ export const lightCaneExtendedMaterialization = {
   pageTypeSlug: "world-spell",
   slug: "light-cane-extended-materialization",
   title: "Light Cane: Extended Materialization",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const massEnchantmentHaste = {
   pageTypeSlug: "world-spell",
   slug: "mass-enchantment-haste",
   title: "Mass Enchantment: Haste",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

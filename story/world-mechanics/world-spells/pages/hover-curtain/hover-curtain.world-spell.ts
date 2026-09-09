@@ -5,6 +5,6 @@ export const hoverCurtain = {
   pageTypeSlug: "world-spell",
   slug: "hover-curtain",
   title: "Hover Curtain",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

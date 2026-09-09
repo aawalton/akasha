@@ -5,6 +5,6 @@ export const enhancedSpellLightningBolt = {
   pageTypeSlug: "world-spell",
   slug: "enhanced-spell-lightning-bolt",
   title: "Enhanced Spell: Lightning Bolt",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

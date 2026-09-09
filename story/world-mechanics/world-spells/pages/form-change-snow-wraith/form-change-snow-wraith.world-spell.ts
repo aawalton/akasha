@@ -5,6 +5,6 @@ export const formChangeSnowWraith = {
   pageTypeSlug: "world-spell",
   slug: "form-change-snow-wraith",
   title: "Form Change: Snow Wraith",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const ninvetSContinuousGenerator = {
   pageTypeSlug: "world-spell",
   slug: "ninvet-s-continuous-generator",
   title: "Ninvet’s Continuous Generator",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

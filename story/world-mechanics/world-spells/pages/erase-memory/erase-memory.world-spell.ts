@@ -5,6 +5,6 @@ export const eraseMemory = {
   pageTypeSlug: "world-spell",
   slug: "erase-memory",
   title: "Erase Memory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

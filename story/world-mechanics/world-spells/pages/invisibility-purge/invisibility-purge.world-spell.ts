@@ -5,6 +5,6 @@ export const invisibilityPurge = {
   pageTypeSlug: "world-spell",
   slug: "invisibility-purge",
   title: "Invisibility Purge",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,5 +5,5 @@ export const nighteye = {
   pageTypeSlug: "world-spell",
   slug: "nighteye",
   title: "Nighteye",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

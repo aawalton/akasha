@@ -5,6 +5,6 @@ export const munizorSMagnificentMansion = {
   pageTypeSlug: "world-spell",
   slug: "munizor-s-magnificent-mansion",
   title: "Munizor’s Magnificent Mansion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

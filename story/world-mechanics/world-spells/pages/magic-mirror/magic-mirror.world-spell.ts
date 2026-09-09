@@ -5,6 +5,6 @@ export const magicMirror = {
   pageTypeSlug: "world-spell",
   slug: "magic-mirror",
   title: "Magic Mirror",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

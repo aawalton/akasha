@@ -5,5 +5,5 @@ export const magicPictureDaily = {
   pageTypeSlug: "world-spell",
   slug: "magic-picture-daily",
   title: "– Magic Picture (Daily)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

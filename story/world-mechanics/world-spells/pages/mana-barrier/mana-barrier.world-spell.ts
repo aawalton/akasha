@@ -5,6 +5,6 @@ export const manaBarrier = {
   pageTypeSlug: "world-spell",
   slug: "mana-barrier",
   title: "Mana Barrier",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

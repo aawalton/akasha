@@ -5,6 +5,6 @@ export const handOfTheColossusOfDiamondsAuxmetSFist = {
   pageTypeSlug: "world-spell",
   slug: "hand-of-the-colossus-of-diamonds-auxmet-s-fist",
   title: "Hand of the Colossus of Diamonds, Auxmet’s Fist",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

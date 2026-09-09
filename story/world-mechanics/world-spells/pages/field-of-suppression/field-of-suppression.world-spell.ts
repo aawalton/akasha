@@ -5,6 +5,6 @@ export const fieldOfSuppression = {
   pageTypeSlug: "world-spell",
   slug: "field-of-suppression",
   title: "Field of Suppression",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

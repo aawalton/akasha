@@ -5,6 +5,6 @@ export const forceBeam = {
   pageTypeSlug: "world-spell",
   slug: "force-beam",
   title: "Force Beam",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

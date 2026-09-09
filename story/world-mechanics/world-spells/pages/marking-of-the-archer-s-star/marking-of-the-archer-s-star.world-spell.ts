@@ -5,6 +5,6 @@ export const markingOfTheArcherSStar = {
   pageTypeSlug: "world-spell",
   slug: "marking-of-the-archer-s-star",
   title: "Marking of the Archer’s Star",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell
