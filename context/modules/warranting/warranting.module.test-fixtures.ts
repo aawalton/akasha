@@ -3,7 +3,6 @@ import { join } from "node:path"
 import { recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { dataAt } from "@akasha/file-system/data-place"
 import {
   idFiled,
   listedFiled,
@@ -13,6 +12,7 @@ import {
 } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
+import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
 import type { Warrant } from "./warranting.module.code.ts"
 
 const HERE = rootOf(import.meta.path)

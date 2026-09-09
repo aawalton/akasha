@@ -3,7 +3,7 @@ import { copyFileSync, existsSync, mkdirSync, readdirSync, writeFileSync } from 
 import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { dataIn } from "@akasha/file-system/data-place"
+import { dataIn } from "akasha/file-system/data-place/data-place.module.code.ts"
 import {
   cipherFor,
   keysBeside,

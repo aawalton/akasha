@@ -1,9 +1,9 @@
 import { readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { holderProcessRuns } from "@akasha/file-system/lock-holder-runs"
+import { holderProcessRuns } from "akasha/file-system/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { git } from "../git-capping/git-capping.module.code.ts"
 
-function sleepSync(ms: number): void {
+function sleepSync(ms: number): undefined {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
 }
 

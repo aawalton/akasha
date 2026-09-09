@@ -1,6 +1,11 @@
 import { closeSync, mkdirSync, openSync, rmSync, statSync, unlinkSync, writeSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { alive, holderOf, markIn, startedAt } from "@akasha/file-system/lock-holder"
+import {
+  alive,
+  holderOf,
+  markIn,
+  startedAt,
+} from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
 
 export const LOCK_AT = ".git/akasha-landing.lock"
 

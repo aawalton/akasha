@@ -413,7 +413,6 @@
         "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
-        "@akasha/file-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -649,12 +648,6 @@
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",
       "version": "1.110.0",
-    },
-    "file-system": {
-      "name": "@akasha/file-system",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-      },
     },
     "git": {
       "name": "@akasha/git",
@@ -2004,8 +1997,6 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
-
-    "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
 

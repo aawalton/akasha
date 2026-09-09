@@ -2,10 +2,10 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { exclusively } from "@akasha/file-system/exclusive"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
+import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
 import { type BodyOf, gathered, NOT_TEXT } from "../change-answer/change-answer.module.code.ts"
 import type {
   Answer,

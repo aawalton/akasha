@@ -9,7 +9,12 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { alive, holderOf, markIn, startedAt } from "@akasha/file-system/lock-holder"
+import {
+  alive,
+  holderOf,
+  markIn,
+  startedAt,
+} from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
 import { exportedAs } from "../export-name/page-export-name.module.code.ts"
 import { partedIn, uncommittedAt } from "../file-name/page-file-name.module.code.ts"
 import { loadedFrom, type Value } from "../value/page-value.module.code.ts"

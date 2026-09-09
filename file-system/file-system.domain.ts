@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const fileSystem = {
   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "file-system",
   definition: "where akasha keeps what git does not track, and how processes take turns over it",
-  manifest: "json",
   parts: [
     "module/answer-keeping",
     "module/answer-mark",
@@ -14,4 +13,4 @@ export const fileSystem = {
     "module/lock-holder",
     "module/lock-holder-runs",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

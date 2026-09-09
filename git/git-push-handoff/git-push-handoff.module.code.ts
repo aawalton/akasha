@@ -10,10 +10,10 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { holderProcessRuns } from "@akasha/file-system/lock-holder-runs"
 import { git } from "@akasha/git/git-capping"
 import { remoteOf } from "@akasha/git/git-pushing"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { holderProcessRuns } from "akasha/file-system/lock-holder-runs/lock-holder-runs.module.code.ts"
 
 const STATE_DIR = "harness-push"
 
@@ -72,7 +72,7 @@ export function readPushState(root: string): PushState | null {
   }
 }
 
-export function writePushState(root: string, state: PushState): void {
+export function writePushState(root: string, state: PushState): undefined {
   const path = pushStatePath(root)
   if (path === null) return
   try {
@@ -101,7 +101,7 @@ export function takePushLock(root: string): boolean {
   }
 }
 
-export function releasePushLock(root: string): void {
+export function releasePushLock(root: string): undefined {
   const path = pushLockPath(root)
   if (path === null) return
   try {

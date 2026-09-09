@@ -1,8 +1,8 @@
-import type { Holder } from "@akasha/file-system/lock-holder"
-import { alive } from "@akasha/file-system/lock-holder"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { nameOf, supervisorOf } from "@akasha/seat-system/seat-reading"
+import type { Holder } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
+import { alive } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
 import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
 
