@@ -1,3 +1,4 @@
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import type { Judging } from "@akasha/checks/judging"
 import { MEASURING } from "@akasha/code/code-tests"
 import { said as gitSaid } from "@akasha/git/git-running"
@@ -220,12 +221,18 @@ function asReadOf(root: string, agentId: string, held: Bodies): readonly Reading
   return out
 }
 
-function recordedAsLanded(root: string, agentId: string, changes: readonly FileEdit[]): undefined {
+const BYTES = new TextEncoder()
+
+function recordedAsLanded(
+  root: string,
+  agentId: string,
+  changes: readonly FileChange[]
+): undefined {
   for (const one of changes) {
-    if (one.body === null) continue
+    if (one.kind === "move" || one.kind === "remove") continue
     recordRead(root, agentId, {
       path: one.path,
-      oid: blobIdOf(one.body),
+      oid: blobIdOf(BYTES.encode(one.kind === "add" ? one.content : one.contentTo)),
       seenAt: Date.now(),
       carriedOid: null,
     })

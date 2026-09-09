@@ -275,18 +275,17 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     ...formattedSaid(formatting.formatted),
     ...prepared.said,
   ]
-  const held: Asked = { ...asked, changes: prepared.authored }
-  const bypass = bypassIn(given, held)
+  const bypass = bypassIn(given, asked)
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
   const gate = bypass === null && "gate" in built ? built.gate : NO_GATE
-  held.reaching?.()
-  if (held.dryRun) return await reporting(given.root, gate, aside, prepared.over, prepared.changes)
-  const message = messageWith(held, bypass, broken)
+  asked.reaching?.()
+  if (asked.dryRun) return await reporting(given.root, gate, aside, prepared.over, prepared.changes)
+  const message = messageWith(asked, bypass, broken)
   const asRead = asReadIn(given, prepared.authored)
-  if (held.draft === true) {
-    return await draftingAsked(given, held, gate, message, asRead, aside, prepared.changes)
+  if (asked.draft === true) {
+    return await draftingAsked(given, asked, gate, message, asRead, aside, prepared.changes)
   }
   let said: Landed | Refused
   try {
@@ -296,7 +295,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
       message,
       gate,
       given.writer,
-      held.read ?? null,
+      asked.read ?? null,
       asRead,
       null,
       prepared.over
@@ -314,14 +313,14 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     base,
     runningOf(given.changeKind),
     prepared.changes,
-    held.readings ?? [],
+    asked.readings ?? [],
     NO_OWING
   )
   recordLanded(given, prepared.authored)
   const put = installingIn(given.root, prepared.changes)
   return {
     report: reported(counted, said, {
-      saying: held.saying,
+      saying: asked.saying,
       plainly: wroteAndTook,
       changes: prepared.changes,
       bypassed: bypass === null ? null : bypass.said,

@@ -76,7 +76,7 @@ export function sequenced(
 
 export type Prepared = {
   readonly formatting: Formatting
-  readonly authored: readonly FileEdit[]
+  readonly authored: readonly FileChange[]
   readonly changes: readonly FileChange[]
   readonly said: readonly string[]
   readonly over: Change | null
@@ -90,8 +90,8 @@ export function preparing(
   already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes, already)
-  const authored = foldedOver(changes, bodiedFrom(formatting.edits))
-  const stated = rowsFrom(root, base, authored)
+  const folded = foldedOver(changes, bodiedFrom(formatting.edits))
+  const stated = rowsFrom(root, base, folded)
   if ("why" in stated) return { refusals: [stated.why] }
   const moved: readonly Moving[] = moves.map((one) => ({
     kind: "move",
@@ -118,7 +118,7 @@ export function preparing(
   ]
   return {
     formatting,
-    authored,
+    authored: rows,
     changes: [...rows, ...added],
     said: [
       ...locking.said,

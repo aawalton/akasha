@@ -2,7 +2,6 @@ import type { FileChange } from "@akasha/changes/change-answer/types"
 import type { Given } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 import {
   blobIdOf,
   type Carry,
@@ -13,13 +12,15 @@ import {
   recordRead,
 } from "../reading/reading.module.code.ts"
 
-export function recordLanded(given: Given, changes: readonly FileEdit[]): undefined {
+const BYTES = new TextEncoder()
+
+export function recordLanded(given: Given, changes: readonly FileChange[]): undefined {
   if (given.agentId === null) return
   for (const one of changes) {
-    if (one.body === null) continue
+    if (one.kind === "move" || one.kind === "remove") continue
     recordRead(given.root, given.agentId, {
       path: one.path,
-      oid: blobIdOf(one.body),
+      oid: blobIdOf(BYTES.encode(one.kind === "add" ? one.content : one.contentTo)),
       seenAt: Date.now(),
       carriedOid: null,
     })
@@ -53,10 +54,11 @@ export function carryLanded(
   dropReadings(root, dropped)
 }
 
-export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {
+export function asReadIn(given: Given, changes: readonly FileChange[]): readonly Reading[] {
   if (given.agentId === null) return []
   const held: Reading[] = []
   for (const one of changes) {
+    if (one.kind === "move") continue
     const seen = readingIn(given.root, given.agentId, one.path)
     if (seen !== null) held.push(seen)
   }
