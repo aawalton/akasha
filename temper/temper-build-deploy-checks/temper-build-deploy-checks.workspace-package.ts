@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperBuildDeployChecks = {
   id: "01a06287-7841-7e04-b566-2bb1b434877d",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-build-deploy-checks",
   definition: "how a game add-on is judged before it is built and shipped",
   manifest: "json",

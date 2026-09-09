@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const readout = {
   id: "01a05446-e75c-73a6-9442-0919b16723c0",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "readout",
   definition: "how a reading reaches the person it is for",
   manifest: "json",

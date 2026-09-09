@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibAsync = {
   id: "01a0606a-1c52-7326-b2c4-11a5a0c5c3fa",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-async",
   definition: "a shared scheduler running other addons' work a slice at a time across frames",
   manifest: "json",

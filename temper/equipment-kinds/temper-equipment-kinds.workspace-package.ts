@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperEquipmentKinds = {
   id: "01a060b8-08c3-7a47-a8fa-29a32e398b30",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-equipment-kinds",
   definition: "the slots, types and quality tiers a piece of Elder Scrolls Online gear is named by",
   manifest: "json",

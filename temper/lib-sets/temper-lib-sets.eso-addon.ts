@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibSets = {
   id: "01a0617b-4b72-7c64-bc02-7f49e4f6ee46",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-sets",
   definition: "an addon library naming every gear set in the game and saying where each one drops",
   manifest: "json",

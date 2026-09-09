@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibChatMessage = {
   id: "01a06060-0d13-746b-9617-c8f4b7d288ce",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-chat-message",
   definition: "an addon library printing tagged chat messages and restoring chat across sessions",
   manifest: "json",

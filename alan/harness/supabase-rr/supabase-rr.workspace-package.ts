@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const supabaseRr = {
   id: "01a05c97-8af3-7dbb-b6b0-4fd120a787a9",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "supabase-rr",
   definition: "Supabase reached from a React Router app, on the server and in the browser",
   manifest: "json",

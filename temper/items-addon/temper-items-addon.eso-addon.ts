@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperItemsAddon = {
   id: "01a06258-b537-7b6c-9b09-2f3e886fedeb",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-items-addon",
   definition:
     "the add-on that tracks every character's items and moves, sells, uses and crafts them by rule",

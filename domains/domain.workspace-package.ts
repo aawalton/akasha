@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const domain = {
   id: "01a04a26-9105-7001-a1cc-60a031152982",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "domain",
   definition: "how we define how things should be",
   manifest: "json",

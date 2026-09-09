@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const seatSystem = {
   id: "01a04f23-d2da-7b20-a543-142de383ac28",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",

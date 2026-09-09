@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const designPrimitives = {
   id: "01a05bde-9a73-7b0d-9c03-ebd55459b775",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "design-primitives",
   definition: "the plain controls and surfaces every other design package is built from",
   manifest: "json",

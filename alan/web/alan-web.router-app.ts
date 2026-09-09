@@ -3,6 +3,7 @@ import type { RouterApp } from "../../code-system/router-apps/router-app.page-ty
 export const alanWeb = {
   id: "01a05bb1-0c04-751f-8f51-baadbd134cf6",
   pageTypeSlug: "router-app",
+  type: "router-app",
   slug: "alan-web",
   definition: "the routes Alan's site serves to a browser",
   manifest: "json",

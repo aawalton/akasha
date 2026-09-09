@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const designSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "design-system",
   definition: "the look every product wears and the gallery showing what it is made of",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperSkillKinds = {
   id: "01a060db-b2bf-75cc-8809-206da241df83",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-skill-kinds",
   definition:
     "the kinds a skill is sorted by and the shapes a skill activation effect is written in",

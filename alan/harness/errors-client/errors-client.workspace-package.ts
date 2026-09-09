@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const errorsClient = {
   id: "01a05c89-6033-7676-ba14-f9bfd36ca899",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "errors-client",
   definition: "an error caught in a browser sent to the site that served it",
   manifest: "json",

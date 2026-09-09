@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperTradingAddon = {
   id: "01a06160-2a58-7de9-8f4a-dbca3806b485",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-trading-addon",
   definition: "the add-on a player browses guild store listings from and prices a sale by",
   manifest: "json",

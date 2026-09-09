@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const mobileCli = {
   id: "01a05cee-e560-7302-ad38-fd2e2a149eed",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "mobile-cli",
   definition: "the iOS work this workstation drives on a mac it reaches over ssh",
   manifest: "json",

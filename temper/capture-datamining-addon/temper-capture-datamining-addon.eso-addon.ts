@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperCaptureDataminingAddon = {
   id: "01a06341-d9e8-7008-91c3-2fcab6b143bf",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-capture-datamining-addon",
   definition: "the addon taking the game's own item and quest data one id at a time",
   manifest: "json",

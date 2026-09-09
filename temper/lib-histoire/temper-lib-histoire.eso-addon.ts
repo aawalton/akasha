@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperLibHistoire = {
   id: "01a06197-4ca1-7e27-83d1-a375f8179328",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-histoire",
   definition: "the guild history the game drops kept for other add-ons to read",
   manifest: "json",

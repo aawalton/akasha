@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const backupRetention = {
   id: "01a06863-74df-7622-85ad-e931851aec9d",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "backup-retention",
   definition: "what thins the database's backups as the backups age",
   manifest: "json",

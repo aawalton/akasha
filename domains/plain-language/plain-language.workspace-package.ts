@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "plain-language",
   definition: "whether a sentence is written in plain language",
   manifest: "json",

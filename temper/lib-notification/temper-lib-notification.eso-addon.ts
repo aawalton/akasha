@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibNotification = {
   id: "01a0605a-0514-797f-9f36-a01b055a56fc",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-notification",
   definition: "the rows an addon adds to the game's notifications panel",
   manifest: "json",

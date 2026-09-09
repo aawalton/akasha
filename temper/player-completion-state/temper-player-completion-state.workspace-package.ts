@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperPlayerCompletionState = {
   id: "01a06253-d28f-7000-8979-abef0ff69650",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-player-completion-state",
   definition: "the completion addon's saved table and the shapes read out of it",
   manifest: "json",

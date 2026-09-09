@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibSlashCommander = {
   id: "01a06066-8400-790c-a2ed-5c212c9cdab7",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-slash-commander",
   definition: "a slash command another addon registers, and the chat completion offering it",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibAddonKeybinds = {
   id: "01a0605a-0518-757d-8157-8586eaf48429",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-addon-keybinds",
   definition: "the split of the game's keybindings menu into standard keybinds and addon keybinds",
   manifest: "json",

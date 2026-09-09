@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperEsoTypes = {
   id: "01a0608f-b078-7ec9-8793-92de8b04a299",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-eso-types",
   definition: "the types a compiler reads for the globals an Elder Scrolls Online addon runs among",
   manifest: "json",

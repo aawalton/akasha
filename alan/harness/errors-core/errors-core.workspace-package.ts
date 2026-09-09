@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const errorsCore = {
   id: "01a05c48-deeb-7013-b082-9b135a70f3cc",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "errors-core",
   definition: "a caught error reduced to what can be reported, compared and exited on",
   manifest: "json",

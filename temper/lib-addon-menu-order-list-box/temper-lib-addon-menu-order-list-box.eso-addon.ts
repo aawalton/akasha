@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperLibAddonMenuOrderListBox = {
   id: "01a06207-bdfa-77c3-9c7b-c125ea77a269",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-addon-menu-order-list-box",
   definition: "a LibAddonMenu-2.0 widget with a list a player puts into an order by hand",
   manifest: "json",

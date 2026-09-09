@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const objectStore = {
   id: "01a05cbb-139c-75e2-a97e-d9467fae14ce",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "object-store",
   definition: "bytes kept under a key in a SeaweedFS bucket",
   manifest: "json",

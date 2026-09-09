@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibZone = {
   id: "01a061e7-9339-786d-9b8b-dd5d2b7a609c",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-zone",
   definition: "every zone and subzone the game holds, named in each language",
   manifest: "json",

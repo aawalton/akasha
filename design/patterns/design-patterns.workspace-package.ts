@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const designPatterns = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "design-patterns",
   definition: "the recurring pieces a list, a card and a toolbar are built from",
   manifest: "json",

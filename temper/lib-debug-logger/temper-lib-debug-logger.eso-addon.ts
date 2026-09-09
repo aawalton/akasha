@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibDebugLogger = {
   id: "01a06061-408b-7657-add9-d2dfd959f9b9",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-debug-logger",
   definition: "the in-game log every other addon writes to and the errors the client raises",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const pagesUiStore = {
   id: "01a05b69-455c-7bbd-8f3b-b2c3946559fc",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "pages-ui-store",
   definition: "the page rows a browser holds, and the queries and writes run against them",
   manifest: "json",

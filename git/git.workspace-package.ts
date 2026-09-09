@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const git = {
   id: "01a05d7f-23fc-7000-b2b7-266f4611121a",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "git",
   definition: "git run in a repository, and what it said",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperCharacterSources = {
   id: "01a060ea-ac66-7120-a995-b58614b651f2",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-character-sources",
   definition:
     "the effect sources a character build carries beyond its class, race, gear and skills",

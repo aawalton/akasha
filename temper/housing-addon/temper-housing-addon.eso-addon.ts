@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperHousingAddon = {
   id: "01a06113-b7cb-7519-aaf3-198045bc75aa",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-housing-addon",
   definition: "the add-on for travelling to a house, whether a friend's, your own or a shared one",
   manifest: "json",

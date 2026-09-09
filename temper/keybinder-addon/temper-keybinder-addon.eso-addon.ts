@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperKeybinderAddon = {
   id: "01a06381-67c1-79b7-93fa-01801fc096e7",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-keybinder-addon",
   definition: "the add-on keeping one set of key bindings across every character on the account",
   manifest: "json",

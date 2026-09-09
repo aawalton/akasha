@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperSelectorAddon = {
   id: "01a061ef-c8a5-7acc-81f1-b5b3b65ee46d",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-selector-addon",
   definition: "the add-on saving which add-ons are on as a pack the player switches between",
   manifest: "json",

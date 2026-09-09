@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "./workspace-packages/workspace-package.pa
 export const codeSystem = {
   id: "01a04a26-9105-7002-aa57-d2c5a03907ce",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "code-system",
   definition: "the code a machine runs",
   manifest: "json",

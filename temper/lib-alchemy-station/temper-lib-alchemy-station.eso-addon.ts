@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibAlchemyStation = {
   id: "01a06054-98ba-7687-a7df-a99c3188320b",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-alchemy-station",
   definition: "the tabs other addons add to the game's alchemy crafting station",
   manifest: "json",

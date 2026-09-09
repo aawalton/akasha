@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperAntiquitiesAddon = {
   id: "01a06275-5d2d-7594-903b-3f31fdbba41e",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-antiquities-addon",
   definition: "the add-on browsing antiquity leads and reporting where each one is found",
   manifest: "json",

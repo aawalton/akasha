@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibTableFunctions = {
   id: "01a06052-2ca3-74ef-b59e-f8d49f0ca734",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-table-functions",
   definition: "the table helpers every Temper addon in the game shares",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperLibSavedVars = {
   id: "01a06177-abf7-7c8b-83f6-be2b40de177e",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-saved-vars",
   definition: "one addon's settings kept per character, per account or per server",
   manifest: "json",

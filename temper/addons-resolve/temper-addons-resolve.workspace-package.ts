@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const temperAddonsResolve = {
   id: "01a06060-ec3c-725c-b37c-206e3c7f7e97",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-addons-resolve",
   definition: "which addons the repository has and what each addon needs to be built",
   manifest: "json",

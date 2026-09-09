@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibCharacterKnowledge = {
   id: "01a061fa-8034-72e8-8175-6440e4c91a6d",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-character-knowledge",
   definition: "what every character on every account knows how to make",
   manifest: "json",

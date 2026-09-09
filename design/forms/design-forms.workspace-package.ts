@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const designForms = {
   id: "01a05b7e-679a-7735-bc0a-1abf739c0463",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "design-forms",
   definition: "the controls a form is built from",
   manifest: "json",

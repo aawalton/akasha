@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperCaptureSalesAddon = {
   id: "01a060e2-3181-7c02-be71-c63b5b648d5b",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-capture-sales-addon",
   definition: "the add-on capturing the player's own guild store sales for a host to read",
   manifest: "json",

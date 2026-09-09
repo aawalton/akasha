@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibDataEncode = {
   id: "01a06061-969c-79fe-8013-c5a31045b336",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-data-encode",
   definition: "an arbitrary Lua table packed into text the game may carry and read back",
   manifest: "json",

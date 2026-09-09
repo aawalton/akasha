@@ -3,6 +3,7 @@ import type { EsoAddon } from "@akasha/code/eso-addon"
 export const temperCollectionsAddon = {
   id: "01a0624c-a660-70e0-bf26-d959d1027e91",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-collections-addon",
   definition:
     "the add-on shipping the skyshard, lorebook, treasure, champion and item-set trackers as one",

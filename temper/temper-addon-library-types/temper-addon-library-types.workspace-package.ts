@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperAddonLibraryTypes = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-addon-library-types",
   definition: "the types a compiler reads for the libraries an Elder Scrolls Online addon calls",
   manifest: "json",

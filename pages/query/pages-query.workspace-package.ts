@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const pagesQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "pages-query",
   definition: "the page store reached over HTTP",
   manifest: "json",

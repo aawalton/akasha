@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const pagesAccess = {
   id: "01a05bd6-c533-7016-89de-5e52ec2cde2a",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "pages-access",
   definition: "reading and writing pages, in the store and in the tree",
   manifest: "json",

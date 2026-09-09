@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const commandSystem = {
   id: "01a04bdd-596d-7df2-832e-b8571f8bf0c6",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "command-system",
   definition: "what an agent runs by name",
   manifest: "json",

@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const calendarSync = {
   id: "01a05c22-7bc9-7008-a9a5-27f7d4d1c0c0",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "calendar-sync",
   definition: "the events a public library publishes, brought into the page store each day",
   manifest: "json",

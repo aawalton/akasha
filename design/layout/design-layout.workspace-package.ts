@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const designLayout = {
   id: "01a05b82-8b9b-7e30-9148-8941b6ccd5ff",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "design-layout",
   definition: "the frame, columns and panels a browser draws a page's content in",
   manifest: "json",

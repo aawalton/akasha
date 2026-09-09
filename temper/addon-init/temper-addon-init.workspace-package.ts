@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../code-system/workspace-packages/work
 export const temperAddonInit = {
   id: "01a060ae-335e-74c4-a05c-9d3c375de3b4",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "temper-addon-init",
   definition: "the moment the game has finished loading one add-on",
   manifest: "json",

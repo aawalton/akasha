@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const supabaseAuth = {
   id: "01a05c6d-3507-7082-9e71-8c024f532b00",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "supabase-auth",
   definition: "signing in to Supabase, and who the signed-in user is",
   manifest: "json",

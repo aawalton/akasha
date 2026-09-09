@@ -3,6 +3,7 @@ import type { IosApp } from "@akasha/code/ios-app"
 export const alanwalton = {
   id: "01a05821-5723-7172-b3f3-b3708871f3fc",
   pageTypeSlug: "ios-app",
+  type: "ios-app",
   slug: "alanwalton",
   definition: "the app on Alan's phone and the shell it runs in",
   manifest: "json",

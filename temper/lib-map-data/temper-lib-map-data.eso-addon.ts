@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibMapData = {
   id: "01a061e1-aeb3-7996-87d0-fffa6b5d33b6",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-map-data",
   definition: "which map, zone and floor the player is on, and where that falls on Tamriel",
   manifest: "json",

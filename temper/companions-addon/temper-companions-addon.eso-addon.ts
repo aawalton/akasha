@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperCompanionsAddon = {
   id: "01a0611d-84e6-7be5-8c8a-4c6082779c87",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-companions-addon",
   definition: "the add-on a player reads a companion's gear and skills from and aims at a build",
   manifest: "json",

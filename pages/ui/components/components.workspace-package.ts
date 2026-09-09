@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const components = {
   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "components",
   definition: "the parts a page and its listings are drawn from",
   manifest: "json",

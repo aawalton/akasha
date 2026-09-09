@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperInterfaceAddon = {
   id: "01a060e7-1bea-7ec8-9343-b0e442437b98",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-interface-addon",
   definition: "the add-on holding the interface tweaks that no other add-on has a home for",
   manifest: "json",

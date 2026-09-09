@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "lua-compiler",
   definition: "the compiler turning TypeScript into Lua",
   manifest: "json",

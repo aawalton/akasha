@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "../../../code-system/workspace-packages/w
 export const healthSamplesAccess = {
   id: "01a05bc7-9129-7000-a4ef-ca6a1a3463b1",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "health-samples-access",
   definition: "step and calorie readings kept on the ESO day each began in",
   manifest: "json",

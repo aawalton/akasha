@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibMapPins = {
   id: "01a06062-57dc-7eeb-bb3d-6badd05f9bf5",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-map-pins",
   definition: "an addon library adding custom pins and their filter checkboxes to the world map",
   manifest: "json",

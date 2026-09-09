@@ -3,6 +3,7 @@ import type { WorkspacePackage } from "@akasha/code/workspace-package"
 export const service = {
   id: "01a05a3c-cafd-7ded-8901-f1468940d7ca",
   pageTypeSlug: "workspace-package",
+  type: "workspace-package",
   slug: "service",
   definition: "what the system runs without being asked each time",
   manifest: "json",

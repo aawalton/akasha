@@ -3,6 +3,7 @@ import type { EsoAddon } from "../../code-system/eso-addons/eso-addon.page-type.
 export const temperLibTreasure = {
   id: "01a061d5-d0c3-7a12-a5dc-1ab43add5958",
   pageTypeSlug: "eso-addon",
+  type: "eso-addon",
   slug: "temper-lib-treasure",
   definition: "where every treasure map, survey report and clue is buried",
   manifest: "json",
