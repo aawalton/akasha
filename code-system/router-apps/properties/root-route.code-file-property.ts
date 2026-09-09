@@ -1,12 +1,12 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { CodeFileProperty } from "@akasha/pages/code-file-property"
 
 export type RootRoute = "tsx"
 
 export const rootRoute = {
   id: "01a063f3-c2ad-7357-b6ab-267960198089",
-  pageTypeSlug: "file-property",
+  pageTypeSlug: "code-file-property",
   slug: "root-route",
   propertySlug: "root-route",
   definition: "the route every other route renders inside",
   fileName: "root.tsx",
-} as const satisfies FileProperty
+} as const satisfies CodeFileProperty

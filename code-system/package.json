@@ -41,7 +41,7 @@
     "./performance": "./performances/performance.page-type.ts",
     "./python-module": "./python-modules/python-module.page-type.ts",
     "./route": "./routes/route.page-type.ts",
-    "./router-app/root-route": "./router-apps/properties/root-route.file-property.ts",
+    "./router-app/root-route": "./router-apps/properties/root-route.code-file-property.ts",
     "./shape-progress": "./shape-progress/shape-progress.module.code.ts",
     "./shell-script": "./shell-scripts/shell-script.page-type.ts",
     "./stylesheet": "./stylesheets/stylesheet.page-type.ts",

@@ -6,7 +6,7 @@ import type { BundleDirectory } from "./properties/bundle-directory.build-folder
 import type { CompileConfig } from "./properties/compile-config.file-property.ts"
 import type { DeclarationDirectory } from "./properties/declaration-directory.build-folder-property.ts"
 import type { PlaceholderImage } from "./properties/placeholder-image.file-property.ts"
-import type { RootRoute } from "./properties/root-route.file-property.ts"
+import type { RootRoute } from "./properties/root-route.code-file-property.ts"
 import type { RouteTable } from "./properties/route-table.file-property.ts"
 import type { RouteTypesDirectory } from "./properties/route-types-directory.build-folder-property.ts"
 import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.file-property.ts"
@@ -49,7 +49,7 @@ export const routerApp = {
     "file-property/app-layout",
     "file-property/compile-config",
     "file-property/placeholder-image",
-    "file-property/root-route",
+    "code-file-property/root-route",
     "file-property/route-table",
     "file-property/router-app-git-ignore",
     "file-property/router-config",
@@ -66,7 +66,7 @@ export const routerApp = {
   ],
   extends: ["page-type/workspace-package"],
   properties: [
-    { pagePropertySlug: "file-property/root-route", required: true, many: false },
+    { pagePropertySlug: "code-file-property/root-route", required: true, many: false },
     { pagePropertySlug: "file-property/route-table", required: true, many: false },
     { pagePropertySlug: "code-file-property/server-entry", required: true, many: false },
     { pagePropertySlug: "file-property/router-config", required: true, many: false },
