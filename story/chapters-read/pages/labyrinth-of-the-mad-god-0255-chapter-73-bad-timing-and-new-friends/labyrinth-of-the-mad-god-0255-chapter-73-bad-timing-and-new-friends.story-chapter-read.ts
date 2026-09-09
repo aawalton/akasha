@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0255Chapter73BadTimingAndNewFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0255-chapter-73-bad-timing-and-new-friends",
   title: "Chapter 73: Bad Timing and New Friends",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 255,
   ownLength: 1625,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0221Chapter38TheFirstPhase = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0221-chapter-38-the-first-phase",
   title: "Chapter 38: The First Phase",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 221,
   ownLength: 2971,
   unitSlug: "words",

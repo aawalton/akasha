@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0183Chapter1IntoTheLabyrinth = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0183-chapter-1-into-the-labyrinth",
   title: "Chapter 1: Into the Labyrinth",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 183,
   ownLength: 2769,
   unitSlug: "words",

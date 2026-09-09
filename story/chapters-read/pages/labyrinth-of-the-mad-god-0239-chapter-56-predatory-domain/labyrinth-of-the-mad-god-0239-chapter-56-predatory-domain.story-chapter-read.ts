@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0239-chapter-56-predatory-domain",
   title: "Chapter 56: Predatory Domain",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 239,
   ownLength: 2145,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0182Chapter0OurStorySoFar = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0182-chapter-0-our-story-so-far",
   title: "Chapter 0: Our Story so Far",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 182,
   ownLength: 3499,
   unitSlug: "words",

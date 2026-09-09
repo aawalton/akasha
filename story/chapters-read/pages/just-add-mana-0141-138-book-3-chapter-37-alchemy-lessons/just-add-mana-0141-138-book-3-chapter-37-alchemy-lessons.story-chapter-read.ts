@@ -5,7 +5,7 @@ export const justAddMana0141138Book3Chapter37AlchemyLessons = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0141-138-book-3-chapter-37-alchemy-lessons",
   title: "138 — Book 3, Chapter 37 — Alchemy Lessons",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 141,
   ownLength: 2783,
   unitSlug: "words",

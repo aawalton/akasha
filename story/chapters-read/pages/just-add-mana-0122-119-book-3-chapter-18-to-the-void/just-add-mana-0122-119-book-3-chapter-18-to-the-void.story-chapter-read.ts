@@ -5,7 +5,7 @@ export const justAddMana0122119Book3Chapter18ToTheVoid = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0122-119-book-3-chapter-18-to-the-void",
   title: "119 — Book 3, Chapter 18 — To the Void",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 122,
   ownLength: 3265,
   unitSlug: "words",

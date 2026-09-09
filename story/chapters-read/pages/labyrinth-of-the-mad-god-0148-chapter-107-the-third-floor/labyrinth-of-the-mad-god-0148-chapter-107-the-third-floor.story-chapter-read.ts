@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0148Chapter107TheThirdFloor = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0148-chapter-107-the-third-floor",
   title: "Chapter 107: The Third Floor",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 148,
   ownLength: 1732,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const justAddMana0106103Book3Chapter2DungeonDelving = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0106-103-book-3-chapter-2-dungeon-delving",
   title: "103 — Book 3, Chapter 2 — Dungeon Delving",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 106,
   ownLength: 3333,
   ownProgress: 3333,

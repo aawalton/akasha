@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0107Chapter67Outmatched = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0107-chapter-67-outmatched",
   title: "Chapter 67: Outmatched",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 107,
   ownLength: 1588,
   unitSlug: "words",

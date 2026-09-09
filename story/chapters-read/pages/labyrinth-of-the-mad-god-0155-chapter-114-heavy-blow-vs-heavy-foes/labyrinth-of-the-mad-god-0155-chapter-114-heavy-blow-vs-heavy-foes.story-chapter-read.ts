@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0155Chapter114HeavyBlowVsHeavyFoes = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0155-chapter-114-heavy-blow-vs-heavy-foes",
   title: "Chapter 114: Heavy Blow vs Heavy Foes",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 155,
   ownLength: 1754,
   unitSlug: "words",

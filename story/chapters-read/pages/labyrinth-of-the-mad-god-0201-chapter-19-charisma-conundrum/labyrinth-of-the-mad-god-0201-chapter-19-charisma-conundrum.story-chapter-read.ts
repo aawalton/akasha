@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0201Chapter19CharismaConundrum = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0201-chapter-19-charisma-conundrum",
   title: "Chapter 19: Charisma Conundrum",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 201,
   ownLength: 2336,
   unitSlug: "words",

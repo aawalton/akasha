@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0005ChapterFiveCloseEncounterOfThePrimateKind =
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0005-chapter-five-close-encounter-of-the-primate-kind",
   title: "Chapter Five: Close Encounter of the Primate Kind",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 5,
   ownLength: 1599,
   unitSlug: "words",

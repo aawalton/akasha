@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0213Chapter31BaseCamp = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0213-chapter-31-base-camp",
   title: "Chapter 31: Base Camp",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 213,
   ownLength: 1946,
   unitSlug: "words",

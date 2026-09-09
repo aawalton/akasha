@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0193Chapter11WellEarnedReward = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0193-chapter-11-well-earned-reward",
   title: "Chapter 11: Well-Earned Reward",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 193,
   ownLength: 2061,
   unitSlug: "words",

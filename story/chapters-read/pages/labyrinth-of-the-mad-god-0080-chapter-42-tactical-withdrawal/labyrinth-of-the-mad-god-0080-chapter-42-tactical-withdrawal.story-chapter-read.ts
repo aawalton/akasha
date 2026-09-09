@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0080-chapter-42-tactical-withdrawal",
   title: "Chapter 42: Tactical Withdrawal",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 80,
   ownLength: 1548,
   unitSlug: "words",

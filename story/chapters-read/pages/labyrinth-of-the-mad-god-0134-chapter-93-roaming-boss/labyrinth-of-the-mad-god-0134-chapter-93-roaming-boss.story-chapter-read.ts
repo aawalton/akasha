@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0134Chapter93RoamingBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0134-chapter-93-roaming-boss",
   title: "Chapter 93: Roaming Boss",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 134,
   ownLength: 1621,
   unitSlug: "words",

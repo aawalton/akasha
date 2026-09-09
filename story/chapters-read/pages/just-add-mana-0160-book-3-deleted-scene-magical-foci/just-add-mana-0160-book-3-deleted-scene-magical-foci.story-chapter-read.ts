@@ -5,7 +5,7 @@ export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0160-book-3-deleted-scene-magical-foci",
   title: "Book 3 Deleted Scene — Magical Foci",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 160,
   ownLength: 1839,
   unitSlug: "words",

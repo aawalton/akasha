@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0152Chapter111TheTwist = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0152-chapter-111-the-twist",
   title: "Chapter 111: The Twist",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 152,
   ownLength: 1557,
   unitSlug: "words",

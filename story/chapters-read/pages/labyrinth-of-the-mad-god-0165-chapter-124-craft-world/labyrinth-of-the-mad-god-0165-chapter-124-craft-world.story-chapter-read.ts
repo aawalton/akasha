@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0165Chapter124CraftWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0165-chapter-124-craft-world",
   title: "Chapter 124: Craft World",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 165,
   ownLength: 2295,
   unitSlug: "words",

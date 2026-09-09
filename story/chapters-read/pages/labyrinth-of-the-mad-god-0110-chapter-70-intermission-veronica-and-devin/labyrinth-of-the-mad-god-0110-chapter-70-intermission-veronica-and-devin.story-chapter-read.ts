@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0110Chapter70IntermissionVeronicaAndDevin = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0110-chapter-70-intermission-veronica-and-devin",
   title: "Chapter 70: Intermission: Veronica and Devin",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 110,
   ownLength: 1817,
   unitSlug: "words",

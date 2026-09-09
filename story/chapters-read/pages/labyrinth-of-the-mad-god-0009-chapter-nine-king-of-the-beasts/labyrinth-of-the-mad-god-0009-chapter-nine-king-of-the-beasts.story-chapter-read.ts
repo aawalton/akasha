@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0009ChapterNineKingOfTheBeasts = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0009-chapter-nine-king-of-the-beasts",
   title: "Chapter Nine: King of the Beasts",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 9,
   ownLength: 1782,
   unitSlug: "words",

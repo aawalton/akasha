@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0233Chapter50BrickByBrick = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0233-chapter-50-brick-by-brick",
   title: "Chapter 50: Brick by Brick",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 233,
   ownLength: 1958,
   unitSlug: "words",

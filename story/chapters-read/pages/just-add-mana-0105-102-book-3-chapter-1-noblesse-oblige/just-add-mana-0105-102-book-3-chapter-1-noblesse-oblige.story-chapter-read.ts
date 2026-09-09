@@ -5,7 +5,7 @@ export const justAddMana0105102Book3Chapter1NoblesseOblige = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0105-102-book-3-chapter-1-noblesse-oblige",
   title: "102 — Book 3, Chapter 1 — Noblesse Oblige",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 105,
   ownLength: 4069,
   ownProgress: 4069,

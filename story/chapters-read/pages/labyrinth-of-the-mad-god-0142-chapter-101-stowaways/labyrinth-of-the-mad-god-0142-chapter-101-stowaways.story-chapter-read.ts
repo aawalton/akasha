@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0142Chapter101Stowaways = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0142-chapter-101-stowaways",
   title: "Chapter 101: Stowaways",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 142,
   ownLength: 2008,
   unitSlug: "words",

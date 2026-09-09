@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0151Chapter110FloorNumberFour = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0151-chapter-110-floor-number-four",
   title: "Chapter 110: Floor Number Four",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 151,
   ownLength: 1710,
   unitSlug: "words",

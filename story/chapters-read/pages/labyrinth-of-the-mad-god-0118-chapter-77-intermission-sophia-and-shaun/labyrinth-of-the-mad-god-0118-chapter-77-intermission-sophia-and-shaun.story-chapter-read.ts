@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0118Chapter77IntermissionSophiaAndShaun = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0118-chapter-77-intermission-sophia-and-shaun",
   title: "Chapter 77: Intermission: Sophia and Shaun",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 118,
   ownLength: 2495,
   unitSlug: "words",

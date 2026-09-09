@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0029Chapter4AbilityMasterySystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0029-chapter-4-ability-mastery-system",
   title: "Chapter 4: Ability Mastery System",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 29,
   ownLength: 1458,
   unitSlug: "words",

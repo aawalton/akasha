@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0091Chapter52CloseCall = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0091-chapter-52-close-call",
   title: "Chapter 52: Close Call",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 91,
   ownLength: 1249,
   unitSlug: "words",

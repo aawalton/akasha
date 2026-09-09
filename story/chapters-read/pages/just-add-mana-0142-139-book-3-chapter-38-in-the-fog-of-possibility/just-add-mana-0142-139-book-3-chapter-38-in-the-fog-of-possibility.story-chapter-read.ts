@@ -5,7 +5,7 @@ export const justAddMana0142139Book3Chapter38InTheFogOfPossibility = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0142-139-book-3-chapter-38-in-the-fog-of-possibility",
   title: "139 — Book 3, Chapter 38 — In the Fog of Possibility",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 142,
   ownLength: 3446,
   unitSlug: "words",

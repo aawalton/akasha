@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0098Chapter59Parley = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0098-chapter-59-parley",
   title: "Chapter 59: Parley",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 98,
   ownLength: 1827,
   unitSlug: "words",

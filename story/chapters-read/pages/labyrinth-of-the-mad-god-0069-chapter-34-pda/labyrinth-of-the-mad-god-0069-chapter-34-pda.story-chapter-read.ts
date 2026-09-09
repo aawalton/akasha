@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0069Chapter34Pda = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0069-chapter-34-pda",
   title: "Chapter 34: PDA",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 69,
   ownLength: 1877,
   unitSlug: "words",

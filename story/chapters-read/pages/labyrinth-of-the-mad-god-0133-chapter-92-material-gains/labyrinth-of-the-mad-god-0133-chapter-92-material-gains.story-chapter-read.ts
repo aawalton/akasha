@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0133Chapter92MaterialGains = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0133-chapter-92-material-gains",
   title: "Chapter 92: Material Gains",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 133,
   ownLength: 1707,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const justAddMana0177172Book4Chapter16OnTheNatureOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0177-172-book-4-chapter-16-on-the-nature-of-darkness",
   title: "172 — Book 4, Chapter 16 — On the Nature of Darkness",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 177,
   ownLength: 3173,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0215Chapter33LoomingShowdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0215-chapter-33-looming-showdown",
   title: "Chapter 33: Looming Showdown",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 215,
   ownLength: 2450,
   unitSlug: "words",

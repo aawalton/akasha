@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0157Chapter116TheFloorIsLava = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0157-chapter-116-the-floor-is-lava",
   title: "Chapter 116: The Floor is Lava",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 157,
   ownLength: 2498,
   unitSlug: "words",

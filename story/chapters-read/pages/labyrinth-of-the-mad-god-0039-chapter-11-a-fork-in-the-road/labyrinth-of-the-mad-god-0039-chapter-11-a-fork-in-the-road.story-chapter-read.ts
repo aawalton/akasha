@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0039Chapter11AForkInTheRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0039-chapter-11-a-fork-in-the-road",
   title: "Chapter 11: A Fork in the Road",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 39,
   ownLength: 1629,
   unitSlug: "words",

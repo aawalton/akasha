@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0258Chapter76SophiasDemon = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0258-chapter-76-sophias-demon",
   title: "Chapter 76: Sophia’s Demon",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 258,
   ownLength: 1710,
   unitSlug: "words",

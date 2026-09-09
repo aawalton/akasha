@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0113Chapter72Kata = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0113-chapter-72-kata",
   title: "Chapter 72: Kata",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 113,
   ownLength: 1522,
   unitSlug: "words",

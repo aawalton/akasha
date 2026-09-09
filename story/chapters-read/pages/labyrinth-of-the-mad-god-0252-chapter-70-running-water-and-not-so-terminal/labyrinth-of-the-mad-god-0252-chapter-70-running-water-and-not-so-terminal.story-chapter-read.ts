@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0252Chapter70RunningWaterAndNotSoTerminal = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0252-chapter-70-running-water-and-not-so-terminal",
   title: "Chapter 70: Running Water and Not-So-Terminal Velocity",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 252,
   ownLength: 2060,
   unitSlug: "words",

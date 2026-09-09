@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0208Chapter26BlendIntoTheBackground = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0208-chapter-26-blend-into-the-background",
   title: "Chapter 26: Blend into the Background",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 208,
   ownLength: 2391,
   unitSlug: "words",

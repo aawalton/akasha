@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0007ChapterSevenFightOrFlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0007-chapter-seven-fight-or-flight",
   title: "Chapter Seven: Fight or Flight",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 7,
   ownLength: 3468,
   unitSlug: "words",

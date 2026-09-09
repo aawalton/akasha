@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0088Chapter49BurningBright = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0088-chapter-49-burning-bright",
   title: "Chapter 49: Burning Bright",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 88,
   ownLength: 1993,
   unitSlug: "words",

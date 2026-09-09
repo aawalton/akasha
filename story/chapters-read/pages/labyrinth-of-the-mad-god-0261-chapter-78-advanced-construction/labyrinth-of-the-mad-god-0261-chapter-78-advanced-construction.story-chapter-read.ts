@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0261Chapter78AdvancedConstruction = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0261-chapter-78-advanced-construction",
   title: "Chapter 78: Advanced Construction",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 261,
   ownLength: 1777,
   unitSlug: "words",

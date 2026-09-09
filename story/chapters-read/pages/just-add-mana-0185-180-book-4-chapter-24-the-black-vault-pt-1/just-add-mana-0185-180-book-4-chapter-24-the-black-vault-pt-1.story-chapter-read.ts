@@ -5,7 +5,7 @@ export const justAddMana0185180Book4Chapter24TheBlackVaultPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0185-180-book-4-chapter-24-the-black-vault-pt-1",
   title: "180 — Book 4, Chapter 24 — The Black Vault, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 185,
   ownLength: 3728,
   unitSlug: "words",

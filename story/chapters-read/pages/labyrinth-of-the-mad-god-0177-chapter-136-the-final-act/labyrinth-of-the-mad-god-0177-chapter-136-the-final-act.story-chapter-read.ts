@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0177Chapter136TheFinalAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0177-chapter-136-the-final-act",
   title: "Chapter 136: The Final Act",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 177,
   ownLength: 1773,
   unitSlug: "words",

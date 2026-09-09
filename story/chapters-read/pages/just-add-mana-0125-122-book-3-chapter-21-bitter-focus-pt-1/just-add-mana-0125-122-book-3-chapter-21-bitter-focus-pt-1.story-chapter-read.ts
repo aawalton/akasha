@@ -5,7 +5,7 @@ export const justAddMana0125122Book3Chapter21BitterFocusPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0125-122-book-3-chapter-21-bitter-focus-pt-1",
   title: "122 — Book 3, Chapter 21 — Bitter Focus, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 125,
   ownLength: 2986,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0061Chapter28TheThirdMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0061-chapter-28-the-third-man",
   title: "Chapter 28: The Third Man",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 61,
   ownLength: 1831,
   unitSlug: "words",

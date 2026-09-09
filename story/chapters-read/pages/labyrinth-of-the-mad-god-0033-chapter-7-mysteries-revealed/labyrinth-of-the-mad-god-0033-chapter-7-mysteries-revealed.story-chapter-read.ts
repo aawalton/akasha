@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0033Chapter7MysteriesRevealed = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0033-chapter-7-mysteries-revealed",
   title: "Chapter 7: Mysteries Revealed",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 33,
   ownLength: 1551,
   unitSlug: "words",

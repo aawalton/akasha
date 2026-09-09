@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0229Chapter46AurorasDawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0229-chapter-46-auroras-dawn",
   title: "Chapter 46: Aurora’s Dawn",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 229,
   ownLength: 2310,
   unitSlug: "words",

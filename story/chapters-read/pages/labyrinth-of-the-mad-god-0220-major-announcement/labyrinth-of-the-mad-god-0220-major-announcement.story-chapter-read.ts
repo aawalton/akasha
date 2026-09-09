@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0220MajorAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0220-major-announcement",
   title: "Major Announcement!",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 220,
   ownLength: 323,
   unitSlug: "words",

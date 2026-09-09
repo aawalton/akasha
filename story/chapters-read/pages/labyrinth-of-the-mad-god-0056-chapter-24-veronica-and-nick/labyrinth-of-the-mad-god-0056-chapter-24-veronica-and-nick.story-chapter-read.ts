@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0056Chapter24VeronicaAndNick = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0056-chapter-24-veronica-and-nick",
   title: "Chapter 24: Veronica and Nick",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 56,
   ownLength: 2196,
   unitSlug: "words",

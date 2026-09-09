@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0099Chapter60AMomentaryRespite = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0099-chapter-60-a-momentary-respite",
   title: "Chapter 60: A Momentary Respite",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 99,
   ownLength: 2556,
   unitSlug: "words",

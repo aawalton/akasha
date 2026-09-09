@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0065Chapter31TheGreatGarbageWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0065-chapter-31-the-great-garbage-war",
   title: "Chapter 31: The Great Garbage War",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 65,
   ownLength: 1605,
   unitSlug: "words",

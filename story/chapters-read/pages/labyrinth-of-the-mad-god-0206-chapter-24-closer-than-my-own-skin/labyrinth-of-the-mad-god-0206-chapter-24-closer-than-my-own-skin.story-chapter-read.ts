@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0206Chapter24CloserThanMyOwnSkin = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0206-chapter-24-closer-than-my-own-skin",
   title: "Chapter 24: Closer Than My Own Skin",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 206,
   ownLength: 2384,
   unitSlug: "words",

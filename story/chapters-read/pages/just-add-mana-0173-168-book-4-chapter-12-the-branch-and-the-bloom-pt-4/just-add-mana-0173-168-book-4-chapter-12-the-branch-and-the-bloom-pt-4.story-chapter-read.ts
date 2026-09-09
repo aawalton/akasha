@@ -5,7 +5,7 @@ export const justAddMana0173168Book4Chapter12TheBranchAndTheBloomPt4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0173-168-book-4-chapter-12-the-branch-and-the-bloom-pt-4",
   title: "168 — Book 4, Chapter 12 — The Branch and the Bloom, Pt 4",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 173,
   ownLength: 3382,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0100Chapter61VioletSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0100-chapter-61-violet-sky",
   title: "Chapter 61: Violet Sky",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 100,
   ownLength: 1671,
   unitSlug: "words",

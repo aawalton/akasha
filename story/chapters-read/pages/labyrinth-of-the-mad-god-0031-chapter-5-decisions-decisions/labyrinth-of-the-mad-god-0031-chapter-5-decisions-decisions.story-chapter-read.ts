@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0031Chapter5DecisionsDecisions = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0031-chapter-5-decisions-decisions",
   title: "Chapter 5: Decisions, Decisions",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 31,
   ownLength: 1975,
   unitSlug: "words",

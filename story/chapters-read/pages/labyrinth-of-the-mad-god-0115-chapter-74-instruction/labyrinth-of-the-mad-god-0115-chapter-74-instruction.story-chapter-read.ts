@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0115Chapter74Instruction = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0115-chapter-74-instruction",
   title: "Chapter 74: Instruction",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 115,
   ownLength: 1711,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0158Chapter117BreathingEasy = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0158-chapter-117-breathing-easy",
   title: "Chapter 117: Breathing Easy",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 158,
   ownLength: 1884,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0160Chapter119TheSkyIsFalling = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0160-chapter-119-the-sky-is-falling",
   title: "Chapter 119: The Sky is Falling",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 160,
   ownLength: 1634,
   unitSlug: "words",

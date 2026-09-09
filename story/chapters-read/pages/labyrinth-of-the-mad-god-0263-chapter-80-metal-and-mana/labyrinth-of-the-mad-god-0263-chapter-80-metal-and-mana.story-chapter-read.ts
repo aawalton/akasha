@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0263Chapter80MetalAndMana = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0263-chapter-80-metal-and-mana",
   title: "Chapter 80: Metal and Mana",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 263,
   ownLength: 1715,
   unitSlug: "words",

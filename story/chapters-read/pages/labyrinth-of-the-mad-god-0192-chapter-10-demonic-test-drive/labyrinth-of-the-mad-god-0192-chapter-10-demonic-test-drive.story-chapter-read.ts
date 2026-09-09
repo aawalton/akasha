@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0192Chapter10DemonicTestDrive = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0192-chapter-10-demonic-test-drive",
   title: "Chapter 10: Demonic Test Drive",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 192,
   ownLength: 2539,
   unitSlug: "words",

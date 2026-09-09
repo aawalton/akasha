@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0181EpilogueBehindTheScenes = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0181-epilogue-behind-the-scenes",
   title: "Epilogue: Behind the Scenes",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 181,
   ownLength: 661,
   unitSlug: "words",

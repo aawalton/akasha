@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0244Chapter62BuildingTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0244-chapter-62-building-team",
   title: "Chapter 62: Building Team",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 244,
   ownLength: 2563,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const justAddMana0123120Book3Chapter19ManaCalibrationPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0123-120-book-3-chapter-19-mana-calibration-pt-1",
   title: "120 — Book 3, Chapter 19 — Mana Calibration, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 123,
   ownLength: 3316,
   unitSlug: "words",

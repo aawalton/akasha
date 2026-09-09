@@ -5,7 +5,7 @@ export const justAddMana0112109Book3Chapter8DivineStudiesPt5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0112-109-book-3-chapter-8-divine-studies-pt-5",
   title: "109 — Book 3, Chapter 8 — Divine Studies, Pt 5",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 112,
   ownLength: 3251,
   unitSlug: "words",

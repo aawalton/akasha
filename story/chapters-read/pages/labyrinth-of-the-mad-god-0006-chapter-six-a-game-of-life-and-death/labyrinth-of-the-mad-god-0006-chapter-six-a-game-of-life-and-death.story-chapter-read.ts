@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0006-chapter-six-a-game-of-life-and-death",
   title: "Chapter Six: A Game of Life and Death",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 6,
   ownLength: 1839,
   unitSlug: "words",

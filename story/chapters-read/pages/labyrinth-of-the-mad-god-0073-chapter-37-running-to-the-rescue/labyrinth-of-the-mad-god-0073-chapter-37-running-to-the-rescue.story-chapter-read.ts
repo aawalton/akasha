@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0073Chapter37RunningToTheRescue = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0073-chapter-37-running-to-the-rescue",
   title: "Chapter 37: Running to the Rescue",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 73,
   ownLength: 1538,
   unitSlug: "words",

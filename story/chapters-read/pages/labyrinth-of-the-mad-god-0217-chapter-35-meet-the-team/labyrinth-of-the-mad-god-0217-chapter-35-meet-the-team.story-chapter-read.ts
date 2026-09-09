@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0217Chapter35MeetTheTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0217-chapter-35-meet-the-team",
   title: "Chapter 35: Meet the Team",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 217,
   ownLength: 2657,
   unitSlug: "words",

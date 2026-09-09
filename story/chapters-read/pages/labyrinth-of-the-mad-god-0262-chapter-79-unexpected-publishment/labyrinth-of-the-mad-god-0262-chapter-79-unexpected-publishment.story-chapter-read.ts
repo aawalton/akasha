@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0262Chapter79UnexpectedPublishment = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0262-chapter-79-unexpected-publishment",
   title: "Chapter 79: Unexpected Publishment",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 262,
   ownLength: 1555,
   unitSlug: "words",

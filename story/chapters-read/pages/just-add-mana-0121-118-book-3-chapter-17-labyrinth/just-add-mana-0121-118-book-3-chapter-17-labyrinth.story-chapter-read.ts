@@ -5,7 +5,7 @@ export const justAddMana0121118Book3Chapter17Labyrinth = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0121-118-book-3-chapter-17-labyrinth",
   title: "118 — Book 3, Chapter 17 — Labyrinth",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 121,
   ownLength: 3306,
   unitSlug: "words",

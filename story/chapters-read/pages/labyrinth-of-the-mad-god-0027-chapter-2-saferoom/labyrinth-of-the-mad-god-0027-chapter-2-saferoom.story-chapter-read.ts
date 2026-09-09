@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0027Chapter2Saferoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0027-chapter-2-saferoom",
   title: "Chapter 2: Saferoom",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 27,
   ownLength: 1651,
   unitSlug: "words",

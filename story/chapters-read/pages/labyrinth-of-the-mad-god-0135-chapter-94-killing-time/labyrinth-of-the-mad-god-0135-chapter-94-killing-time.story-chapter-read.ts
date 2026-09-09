@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0135Chapter94KillingTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0135-chapter-94-killing-time",
   title: "Chapter 94: Killing Time",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 135,
   ownLength: 1780,
   unitSlug: "words",

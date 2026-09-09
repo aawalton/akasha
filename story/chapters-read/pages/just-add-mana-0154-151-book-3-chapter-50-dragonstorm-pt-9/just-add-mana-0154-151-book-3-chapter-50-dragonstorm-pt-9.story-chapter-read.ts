@@ -5,7 +5,7 @@ export const justAddMana0154151Book3Chapter50DragonstormPt9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0154-151-book-3-chapter-50-dragonstorm-pt-9",
   title: "151 — Book 3, Chapter 50 — Dragonstorm, Pt 9",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 154,
   ownLength: 2766,
   unitSlug: "words",

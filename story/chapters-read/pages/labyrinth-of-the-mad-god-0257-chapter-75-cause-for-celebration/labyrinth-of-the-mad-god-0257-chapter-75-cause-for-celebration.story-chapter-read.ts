@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0257Chapter75CauseForCelebration = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0257-chapter-75-cause-for-celebration",
   title: "Chapter 75: Cause for Celebration",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 257,
   ownLength: 1746,
   unitSlug: "words",

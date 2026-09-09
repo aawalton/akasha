@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0054FridayConceptArt1791306 = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0054-friday-concept-art-1791306",
   title: "Friday Concept Art",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 54,
   ownLength: 5,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0197Chapter15Bladewind = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0197-chapter-15-bladewind",
   title: "Chapter 15: Bladewind",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 197,
   ownLength: 2433,
   unitSlug: "words",

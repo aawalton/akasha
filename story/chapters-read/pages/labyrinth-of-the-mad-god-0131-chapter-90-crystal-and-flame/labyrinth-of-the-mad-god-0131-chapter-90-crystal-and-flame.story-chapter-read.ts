@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0131Chapter90CrystalAndFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0131-chapter-90-crystal-and-flame",
   title: "Chapter 90: Crystal and Flame",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 131,
   ownLength: 2031,
   unitSlug: "words",

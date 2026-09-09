@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0076Chapter39RacingTheSwarm = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0076-chapter-39-racing-the-swarm",
   title: "Chapter 39: Racing the Swarm",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 76,
   ownLength: 1590,
   unitSlug: "words",

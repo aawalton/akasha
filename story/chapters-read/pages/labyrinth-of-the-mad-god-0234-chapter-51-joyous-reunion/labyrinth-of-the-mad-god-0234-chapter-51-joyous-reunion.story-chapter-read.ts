@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0234Chapter51JoyousReunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0234-chapter-51-joyous-reunion",
   title: "Chapter 51: Joyous Reunion",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 234,
   ownLength: 2274,
   unitSlug: "words",

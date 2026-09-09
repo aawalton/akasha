@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0106Chapter66Kiki = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0106-chapter-66-kiki",
   title: "Chapter 66: Kiki",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 106,
   ownLength: 1636,
   unitSlug: "words",

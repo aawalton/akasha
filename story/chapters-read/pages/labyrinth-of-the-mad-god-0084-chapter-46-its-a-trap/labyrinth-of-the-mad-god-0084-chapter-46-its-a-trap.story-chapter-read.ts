@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0084Chapter46ItsATrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0084-chapter-46-its-a-trap",
   title: "Chapter 46: It’s a Trap",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 84,
   ownLength: 1845,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0011TheStoryContinuesOnAmazonAndAudible = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0011-the-story-continues-on-amazon-and-audible",
   title: "The Story Continues on Amazon and Audible!",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 11,
   ownLength: 238,
   unitSlug: "words",

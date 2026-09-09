@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0043Chapter14Escape = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0043-chapter-14-escape",
   title: "Chapter 14: Escape",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 43,
   ownLength: 1765,
   unitSlug: "words",

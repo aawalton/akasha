@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0246Chapter64ShrineOfTheFacelessGods = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0246-chapter-64-shrine-of-the-faceless-gods",
   title: "Chapter 64: Shrine of the Faceless Gods",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 246,
   ownLength: 2047,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0140Chapter99GoodNewsAndBadNews = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0140-chapter-99-good-news-and-bad-news",
   title: "Chapter 99: Good News and Bad News",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 140,
   ownLength: 1760,
   unitSlug: "words",

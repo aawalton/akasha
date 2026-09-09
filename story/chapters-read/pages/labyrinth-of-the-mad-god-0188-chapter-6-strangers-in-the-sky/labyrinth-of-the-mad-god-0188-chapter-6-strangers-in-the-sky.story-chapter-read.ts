@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0188Chapter6StrangersInTheSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0188-chapter-6-strangers-in-the-sky",
   title: "Chapter 6: Strangers in the Sky",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 188,
   ownLength: 2559,
   unitSlug: "words",

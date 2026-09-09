@@ -5,7 +5,7 @@ export const justAddMana0116113Book3Chapter12LibraryWoesPt4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0116-113-book-3-chapter-12-library-woes-pt-4",
   title: "113 — Book 3, Chapter 12— Library Woes, Pt 4",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 116,
   ownLength: 3306,
   unitSlug: "words",

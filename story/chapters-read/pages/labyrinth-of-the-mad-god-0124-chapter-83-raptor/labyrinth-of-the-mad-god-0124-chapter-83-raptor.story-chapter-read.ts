@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0124Chapter83Raptor = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0124-chapter-83-raptor",
   title: "Chapter 83: Raptor",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 124,
   ownLength: 1598,
   unitSlug: "words",

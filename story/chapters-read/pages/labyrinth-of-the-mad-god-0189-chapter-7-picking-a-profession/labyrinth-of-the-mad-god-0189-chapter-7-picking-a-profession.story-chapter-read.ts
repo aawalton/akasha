@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0189-chapter-7-picking-a-profession",
   title: "Chapter 7: Picking a Profession",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 189,
   ownLength: 1949,
   unitSlug: "words",

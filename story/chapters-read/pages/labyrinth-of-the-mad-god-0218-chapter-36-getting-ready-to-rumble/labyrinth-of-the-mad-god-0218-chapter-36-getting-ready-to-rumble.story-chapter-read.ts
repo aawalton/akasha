@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0218Chapter36GettingReadyToRumble = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0218-chapter-36-getting-ready-to-rumble",
   title: "Chapter 36: Getting Ready to Rumble",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 218,
   ownLength: 1799,
   unitSlug: "words",

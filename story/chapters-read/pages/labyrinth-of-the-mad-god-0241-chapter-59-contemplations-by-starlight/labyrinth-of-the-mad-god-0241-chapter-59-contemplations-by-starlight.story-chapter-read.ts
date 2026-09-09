@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0241Chapter59ContemplationsByStarlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0241-chapter-59-contemplations-by-starlight",
   title: "Chapter 59: Contemplations by Starlight",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 241,
   ownLength: 1467,
   unitSlug: "words",

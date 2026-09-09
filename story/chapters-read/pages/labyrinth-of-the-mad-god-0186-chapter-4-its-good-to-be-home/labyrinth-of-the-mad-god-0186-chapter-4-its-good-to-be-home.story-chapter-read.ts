@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0186Chapter4ItsGoodToBeHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0186-chapter-4-its-good-to-be-home",
   title: "Chapter 4: It’s Good to be Home",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 186,
   ownLength: 1833,
   unitSlug: "words",

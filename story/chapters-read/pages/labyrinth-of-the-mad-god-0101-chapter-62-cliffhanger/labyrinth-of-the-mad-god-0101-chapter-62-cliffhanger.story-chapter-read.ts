@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0101Chapter62Cliffhanger = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0101-chapter-62-cliffhanger",
   title: "Chapter 62: Cliffhanger",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 101,
   ownLength: 1668,
   unitSlug: "words",

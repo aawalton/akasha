@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0161Chapter120DeathFromAboveAndFoesFromBelow = 
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0161-chapter-120-death-from-above-and-foes-from-below",
   title: "Chapter 120: Death from Above and Foes from Below",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 161,
   ownLength: 1570,
   unitSlug: "words",

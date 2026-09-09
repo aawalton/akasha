@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0147Chapter106VisionsFromTheVoidIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0147-chapter-106-visions-from-the-void-ii",
   title: "Chapter 106: Visions from the Void II",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 147,
   ownLength: 1958,
   unitSlug: "words",

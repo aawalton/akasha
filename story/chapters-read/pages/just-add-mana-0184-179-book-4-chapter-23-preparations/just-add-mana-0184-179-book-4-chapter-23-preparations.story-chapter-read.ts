@@ -5,7 +5,7 @@ export const justAddMana0184179Book4Chapter23Preparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0184-179-book-4-chapter-23-preparations",
   title: "179 — Book 4, Chapter 23 — Preparations",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 184,
   ownLength: 3664,
   unitSlug: "words",

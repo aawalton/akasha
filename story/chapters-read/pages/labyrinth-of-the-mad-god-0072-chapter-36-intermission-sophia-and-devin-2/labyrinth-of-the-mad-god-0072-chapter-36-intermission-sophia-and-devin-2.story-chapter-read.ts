@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0072Chapter36IntermissionSophiaAndDevin2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0072-chapter-36-intermission-sophia-and-devin-2",
   title: "Chapter 36: Intermission: Sophia and Devin 2",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 72,
   ownLength: 1714,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0055Chapter23SupplyRun = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0055-chapter-23-supply-run",
   title: "Chapter 23: Supply Run",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 55,
   ownLength: 2220,
   unitSlug: "words",

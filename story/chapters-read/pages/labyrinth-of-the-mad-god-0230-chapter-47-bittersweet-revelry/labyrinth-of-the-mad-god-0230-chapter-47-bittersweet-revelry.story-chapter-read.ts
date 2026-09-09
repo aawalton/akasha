@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0230Chapter47BittersweetRevelry = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0230-chapter-47-bittersweet-revelry",
   title: "Chapter 47: Bittersweet Revelry",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 230,
   ownLength: 2122,
   unitSlug: "words",

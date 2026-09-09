@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0116Chapter75BaredBladesByMidnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0116-chapter-75-bared-blades-by-midnight",
   title: "Chapter 75: Bared Blades by Midnight",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 116,
   ownLength: 1373,
   unitSlug: "words",

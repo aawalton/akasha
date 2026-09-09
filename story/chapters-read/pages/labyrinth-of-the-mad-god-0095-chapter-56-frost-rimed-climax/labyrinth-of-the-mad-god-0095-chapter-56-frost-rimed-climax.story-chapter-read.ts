@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0095Chapter56FrostRimedClimax = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0095-chapter-56-frost-rimed-climax",
   title: "Chapter 56: Frost-Rimed Climax",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 95,
   ownLength: 1733,
   unitSlug: "words",

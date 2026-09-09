@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0050ConceptArt = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0050-concept-art",
   title: "Concept Art",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 50,
   ownLength: 2,
   unitSlug: "words",

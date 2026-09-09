@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0141Chapter100BreakingAndEntry = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0141-chapter-100-breaking-and-entry",
   title: "Chapter 100: Breaking and Entry",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 141,
   ownLength: 1818,
   unitSlug: "words",

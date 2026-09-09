@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0063Chapter29Shaun = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0063-chapter-29-shaun",
   title: "Chapter 29: Shaun",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 63,
   ownLength: 1751,
   unitSlug: "words",

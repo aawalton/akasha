@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0048Chapter18NickToTheRescue = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0048-chapter-18-nick-to-the-rescue",
   title: "Chapter 18: Nick to the Rescue",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 48,
   ownLength: 1601,
   unitSlug: "words",

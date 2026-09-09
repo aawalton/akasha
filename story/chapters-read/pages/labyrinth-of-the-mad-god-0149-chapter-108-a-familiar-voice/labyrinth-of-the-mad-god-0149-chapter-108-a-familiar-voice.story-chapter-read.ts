@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0149Chapter108AFamiliarVoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0149-chapter-108-a-familiar-voice",
   title: "Chapter 108: A Familiar Voice",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 149,
   ownLength: 1921,
   unitSlug: "words",

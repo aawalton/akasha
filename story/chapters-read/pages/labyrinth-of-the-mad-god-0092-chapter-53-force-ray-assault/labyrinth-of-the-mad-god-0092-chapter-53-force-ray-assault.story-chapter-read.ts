@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0092Chapter53ForceRayAssault = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0092-chapter-53-force-ray-assault",
   title: "Chapter 53: Force Ray Assault",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 92,
   ownLength: 1576,
   unitSlug: "words",

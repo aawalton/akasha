@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0004ChapterFourTutorialTheSearingIsle = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0004-chapter-four-tutorial-the-searing-isle",
   title: "Chapter Four: Tutorial: The Searing Isle",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 4,
   ownLength: 2971,
   unitSlug: "words",

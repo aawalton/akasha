@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0138Chapter97CrashCourse = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0138-chapter-97-crash-course",
   title: "Chapter 97: Crash Course",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 138,
   ownLength: 1687,
   unitSlug: "words",

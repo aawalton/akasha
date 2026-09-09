@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0145Chapter104FrozenFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0145-chapter-104-frozen-flame",
   title: "Chapter 104: Frozen Flame",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 145,
   ownLength: 2358,
   unitSlug: "words",

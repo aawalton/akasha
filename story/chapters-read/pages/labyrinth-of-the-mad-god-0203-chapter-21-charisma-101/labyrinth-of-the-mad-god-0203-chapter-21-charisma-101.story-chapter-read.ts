@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0203Chapter21Charisma101 = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0203-chapter-21-charisma-101",
   title: "Chapter 21: Charisma 101",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 203,
   ownLength: 2139,
   unitSlug: "words",

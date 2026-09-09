@@ -5,7 +5,7 @@ export const justAddMana0157154Book3Chapter53TurnaboutPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0157-154-book-3-chapter-53-turnabout-pt-2",
   title: "154 — Book 3, Chapter 53 — Turnabout, Pt 2",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 157,
   ownLength: 3366,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0232Chapter49ItsTimeToStartBuilding = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0232-chapter-49-its-time-to-start-building",
   title: "Chapter 49: It’s Time to Start Building",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 232,
   ownLength: 2568,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0227Chapter44ATurnForTheWorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0227-chapter-44-a-turn-for-the-worse",
   title: "Chapter 44: A Turn For the Worse",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 227,
   ownLength: 2268,
   unitSlug: "words",

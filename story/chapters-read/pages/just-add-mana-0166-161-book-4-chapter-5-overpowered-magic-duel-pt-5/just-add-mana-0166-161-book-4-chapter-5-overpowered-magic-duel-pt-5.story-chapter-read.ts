@@ -5,7 +5,7 @@ export const justAddMana0166161Book4Chapter5OverpoweredMagicDuelPt5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0166-161-book-4-chapter-5-overpowered-magic-duel-pt-5",
   title: "161 — Book 4, Chapter 5 — Overpowered Magic Duel, Pt 5",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 166,
   ownLength: 3857,
   unitSlug: "words",

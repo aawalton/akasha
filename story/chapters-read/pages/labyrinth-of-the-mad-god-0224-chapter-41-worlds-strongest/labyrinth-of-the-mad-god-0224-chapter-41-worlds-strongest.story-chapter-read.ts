@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0224Chapter41WorldsStrongest = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0224-chapter-41-worlds-strongest",
   title: "Chapter 41: World’s Strongest",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 224,
   ownLength: 1854,
   unitSlug: "words",

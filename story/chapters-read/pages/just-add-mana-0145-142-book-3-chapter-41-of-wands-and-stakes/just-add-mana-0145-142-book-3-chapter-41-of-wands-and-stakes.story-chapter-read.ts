@@ -5,7 +5,7 @@ export const justAddMana0145142Book3Chapter41OfWandsAndStakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0145-142-book-3-chapter-41-of-wands-and-stakes",
   title: "142 — Book 3, Chapter 41 — Of Wands and Stakes",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 145,
   ownLength: 2887,
   unitSlug: "words",

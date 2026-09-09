@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0205Chapter23SpeciesEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0205-chapter-23-species-evolution",
   title: "Chapter 23: Species Evolution",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 205,
   ownLength: 2248,
   unitSlug: "words",

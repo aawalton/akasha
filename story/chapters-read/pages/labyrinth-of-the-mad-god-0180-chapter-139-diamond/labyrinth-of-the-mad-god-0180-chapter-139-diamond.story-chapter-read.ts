@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0180Chapter139Diamond = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0180-chapter-139-diamond",
   title: "Chapter 139: Diamond",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 180,
   ownLength: 2805,
   unitSlug: "words",

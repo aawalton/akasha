@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0086Chapter47Checkmate = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0086-chapter-47-checkmate",
   title: "Chapter 47: Checkmate",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 86,
   ownLength: 1563,
   unitSlug: "words",
