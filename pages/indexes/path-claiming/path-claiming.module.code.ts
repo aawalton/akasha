@@ -23,6 +23,8 @@ const EXTENDS = "extends"
 
 const FALLBACK = "default"
 
+const FIXED = "fixed"
+
 const WITHHELD = "uncommitted"
 
 export function under(repo: string, path: string): string {
@@ -127,7 +129,7 @@ function declaredIn(value: Value): Sidecars {
     if (held["secret"] === true) secret = true
     if (withheld) uncommitted = true
     const slug = held[DECLARES] ?? held[WAS_DECLARES]
-    const fallback = held[FALLBACK]
+    const fallback = held[FALLBACK] ?? held[FIXED]
     if (typeof slug === "string" && typeof fallback === "string") {
       found.set(slugOf(slug), { held: fallback, uncommitted: withheld })
     }

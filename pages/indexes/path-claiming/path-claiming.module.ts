@@ -42,6 +42,14 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement: "A declaration fixing a file property's value claims that file the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page states nothing for such a property, so its type is the only source.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A file property declared uncommitted is claimed under the name an uncommitted file has.",
     },
