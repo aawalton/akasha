@@ -331,8 +331,10 @@ export function namingOver(holds: Holds): (folder: string) => string | null {
   }
 }
 
+export type Paged = Pick<Answering, "pageAt">
+
 export function partsOver(
-  index: Answering,
+  index: Paged,
   root: string,
   stated: FilePropertiesBy,
   sidecars: SidecarsBy,

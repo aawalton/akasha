@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { NAMING_NONE } from "@akasha/code/code-specifier"
+import type { FoldersBy } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages/change"
+import { heldIn } from "@akasha/pages/page-file-name"
+import type { Value } from "@akasha/pages/page-value"
 import {
   answeringTo,
   edgesOf,
@@ -10,7 +13,9 @@ import {
   heldFolder,
   namesFiling,
   namingFolderOf,
+  type Paged,
   pageNameOf,
+  partsOver,
 } from "./folder-matches-a-shape.code-check.code.ts"
 import {
   ancestorsOf,
@@ -241,6 +246,35 @@ test("the workspace root is judged, and no folder answers to it", () => {
 test("a change carrying no path judges no folder at all", () => {
   const said = foldersJudgedBy(change([], {}, {}), NAMING_NONE, grouping({}), holding({}))
   expect([...said]).toEqual([])
+})
+
+const MANIFEST_AT = "akasha/one/manifests/one-manifests.manifest.ts"
+
+const GENERATED_AT = "akasha/one/manifests/generated"
+
+const MANIFEST_TYPES = new Set<string>(["manifest"])
+
+const FOLDER_PROPERTIES: FoldersBy = new Map([
+  ["manifest", new Map([["generated-directory", "generated"]])],
+])
+
+function paging(value: Value): Paged {
+  return { pageAt: () => value }
+}
+
+function claimed(value: Value): readonly string[] {
+  const parts = partsOver(paging(value), ROOT, new Map(), new Map(), FOLDER_PROPERTIES, () => false)
+  return parts(heldIn(MANIFEST_AT, MANIFEST_TYPES, new Set<string>()))
+}
+
+test("a page stating a folder property claims the folder that property names", () => {
+  expect(
+    claimed({ pageTypeSlug: "manifest", slug: "one-manifests", generatedDirectory: true })
+  ).toEqual([MANIFEST_AT, GENERATED_AT])
+})
+
+test("a page stating no folder property claims its own file and nothing beside it", () => {
+  expect(claimed({ pageTypeSlug: "manifest", slug: "one-manifests" })).toEqual([MANIFEST_AT])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {
