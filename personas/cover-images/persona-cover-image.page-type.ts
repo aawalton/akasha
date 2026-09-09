@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
-import type { PersonaImage } from "../images/persona-image.page-type.ts"
+import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
 
 export type PersonaCoverImage = PersonaImage & {
   relationshipLevel: RelationshipLevel

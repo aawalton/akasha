@@ -2,7 +2,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
-import type { PersonaImage } from "../images/persona-image.page-type.ts"
+import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 import type { EsoDay } from "./properties/eso-day.text-property.ts"
 

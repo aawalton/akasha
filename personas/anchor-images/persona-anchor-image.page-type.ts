@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { PersonaImage } from "../images/persona-image.page-type.ts"
+import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
 import type { Grade } from "./properties/grade.text-property.ts"
 
 export type PersonaAnchorImage = PersonaImage & {

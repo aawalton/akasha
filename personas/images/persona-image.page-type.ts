@@ -1,16 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { ImagePath } from "./properties/image-path.text-property.ts"
-import type { ImagePersona } from "./properties/image-persona.relation-property.ts"
-import type { ImageRoot } from "./properties/image-root.text-property.ts"
-
-export type PersonaImage = Page & {
-  title: Title
-  persona: ImagePersona
-  imagePath?: ImagePath
-  imageRoot?: ImageRoot
-}
 
 export const personaImage = {
   id: "01a0655b-4a9b-7009-9c47-3a4467acc46f",
@@ -49,4 +37,5 @@ export const personaImage = {
       statement: "No page of this type is on its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
