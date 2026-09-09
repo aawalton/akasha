@@ -4,7 +4,7 @@ export const moveFile = {
   id: "01a07883-67ed-7849-b6e5-e499695cac46",
   pageTypeSlug: "change-mechanical-file",
   slug: "move-file",
-  changeModeSlug: "change-mode-move",
+  changeMode: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one file moved to another path, with nothing else judged",

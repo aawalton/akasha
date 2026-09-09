@@ -4,7 +4,7 @@ export const addFileOfAnyKind = {
   id: "01a081bf-3f33-77ca-96cc-29ff7017f563",
   pageTypeSlug: "change-mechanical",
   slug: "add-file-of-any-kind",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one body written at one path, through the change writing that kind of path",

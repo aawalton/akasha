@@ -4,7 +4,7 @@ export const addPropertyRecord = {
   id: "01a081e6-5170-7f4a-b5df-d0846398305f",
   pageTypeSlug: "change-agent",
   slug: "add-property-record",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   definition: "one record put into one page property, judged by the checks a landing runs",
   code: "ts",
   test: "ts",

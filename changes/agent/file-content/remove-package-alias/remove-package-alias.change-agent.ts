@@ -4,7 +4,7 @@ export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
   pageTypeSlug: "change-agent",
   slug: "remove-package-alias",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   definition: "the alias a renamed package was reached under taken out of every manifest",
   code: "ts",
   test: "ts",

@@ -4,7 +4,7 @@ export const changeManifestWays = {
   id: "01a0798b-3398-71d0-ba4b-fa40530ad360",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "change-manifest-ways",
-  changeModeSlug: "change-mode-change",
+  changeMode: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-manifest",
   definition: "a manifest's ways in rewritten to follow the files those ways in name",

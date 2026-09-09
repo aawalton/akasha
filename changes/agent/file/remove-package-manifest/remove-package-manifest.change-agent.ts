@@ -4,7 +4,7 @@ export const removePackageManifest = {
   id: "01a08294-60d3-7068-afff-2fa2afcd468a",
   pageTypeSlug: "change-agent",
   slug: "remove-package-manifest",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   definition:
     "a package's manifest taken away, with the package above taking what that manifest named",
   code: "ts",

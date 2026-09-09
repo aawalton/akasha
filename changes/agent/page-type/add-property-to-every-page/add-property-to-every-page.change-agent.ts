@@ -4,7 +4,7 @@ export const addPropertyToEveryPage = {
   id: "01a08177-a04c-7a4b-9516-1d7be9d3f724",
   pageTypeSlug: "change-agent",
   slug: "add-property-to-every-page",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/page-type",
   changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
   definition: "one value put under one key on every page of one page type",

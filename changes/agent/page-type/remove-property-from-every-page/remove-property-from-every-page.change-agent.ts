@@ -4,7 +4,7 @@ export const removePropertyFromEveryPage = {
   id: "01a081b9-ad8c-70a8-ab31-382461b45312",
   pageTypeSlug: "change-agent",
   slug: "remove-property-from-every-page",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/page-type",
   changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
   definition: "one key taken off every page of one page type, with the values that key has",

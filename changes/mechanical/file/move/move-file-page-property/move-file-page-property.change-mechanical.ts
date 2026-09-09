@@ -4,7 +4,7 @@ export const moveFilePageProperty = {
   id: "01a08225-2ced-7797-a5ee-3aba1a83c869",
   pageTypeSlug: "change-mechanical",
   slug: "move-file-page-property",
-  changeModeSlug: "change-mode-move",
+  changeMode: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-property",
   definition: "one page property's own file moved to another path with the files beside it",

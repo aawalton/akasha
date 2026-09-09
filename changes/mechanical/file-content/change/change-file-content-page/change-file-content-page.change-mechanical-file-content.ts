@@ -4,7 +4,7 @@ export const changeFileContentPage = {
   id: "01a0826b-01da-7957-9cdb-c75c20bffe8b",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "change-file-content-page",
-  changeModeSlug: "change-mode-change",
+  changeMode: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page",
   definition: "one passage of one page's body replaced, with what that page states judged",

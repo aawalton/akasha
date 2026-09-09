@@ -4,7 +4,7 @@ export const renamePageAddresses = {
   id: "01a082a8-d622-77d8-aafa-a0c97bdc6f64",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-page-addresses",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
   definition: "many pages' addresses restated by reading each body once",

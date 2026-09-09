@@ -4,7 +4,7 @@ export const renameLocalVariable = {
   id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-local-variable",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
   definition: "the change spelling a local binding and its references anew in one file",

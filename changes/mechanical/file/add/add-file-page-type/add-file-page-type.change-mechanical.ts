@@ -4,7 +4,7 @@ export const addFilePageType = {
   id: "01a07984-8ef3-719a-972b-cb77ca7dafec",
   pageTypeSlug: "change-mechanical",
   slug: "add-file-page-type",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
   definition:

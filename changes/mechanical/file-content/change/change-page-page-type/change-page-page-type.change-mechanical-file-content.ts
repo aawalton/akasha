@@ -4,7 +4,7 @@ export const changePagePageType = {
   id: "01a0827d-a3dc-77be-a528-3c5b25c83d95",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "change-page-page-type",
-  changeModeSlug: "change-mode-change",
+  changeMode: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page",
   definition: "the page type a body states, restated with the type that body satisfies",

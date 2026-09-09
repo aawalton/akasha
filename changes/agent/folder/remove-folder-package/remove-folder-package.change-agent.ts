@@ -4,7 +4,7 @@ export const removeFolderPackage = {
   id: "01a08283-b8fd-74bd-bd06-dee89a6470ac",
   pageTypeSlug: "change-agent",
   slug: "remove-folder-package",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   definition: "one workspace package taken away with the folder that package sits in",
   code: "ts",
   test: "ts",

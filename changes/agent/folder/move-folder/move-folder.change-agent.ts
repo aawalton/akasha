@@ -4,7 +4,7 @@ export const moveFolder = {
   id: "01a07c54-a9b0-797b-add8-8e9d734c5213",
   pageTypeSlug: "change-agent",
   slug: "move-folder",
-  changeModeSlug: "change-mode-move",
+  changeMode: "change-mode-move",
   definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",

@@ -4,7 +4,7 @@ export const removePropertyValue = {
   id: "01a07758-01be-7649-a91a-f8952f0b468e",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "remove-property-value",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
   definition: "one value taken out of one page property in a page's body",

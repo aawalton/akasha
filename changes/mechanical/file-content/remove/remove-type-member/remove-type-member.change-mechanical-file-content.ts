@@ -4,7 +4,7 @@ export const removeTypeMember = {
   id: "01a08285-9707-78cc-8925-892dca08a7a2",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "remove-type-member",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/file-content",
   definition: "one member taken out of an exported object type",
   code: "ts",

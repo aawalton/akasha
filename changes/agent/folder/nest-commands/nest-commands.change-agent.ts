@@ -4,7 +4,7 @@ export const nestCommands = {
   id: "01a081b3-c5cb-70ec-b343-6e3500108eae",
   pageTypeSlug: "change-agent",
   slug: "nest-commands",
-  changeModeSlug: "change-mode-move",
+  changeMode: "change-mode-move",
   definition: "one namespace's commands made its parts and moved into its folder",
   code: "ts",
   test: "ts",

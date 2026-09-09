@@ -4,7 +4,7 @@ export const renameFilePageType = {
   id: "01a0828e-5e7f-724c-b387-7d19c7622f00",
   pageTypeSlug: "change-mechanical",
   slug: "rename-file-page-type",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
   definition: "a page type renamed, in its own name and in every page filed under that page type",

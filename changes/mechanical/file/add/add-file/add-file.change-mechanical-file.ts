@@ -4,7 +4,7 @@ export const addFile = {
   id: "01a07810-4657-7cb0-8eff-29902c541102",
   pageTypeSlug: "change-mechanical-file",
   slug: "add-file",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one body written at one path, with nothing else judged",

@@ -4,7 +4,7 @@ export const removeFolder = {
   id: "01a08281-d6e6-78ee-a0cc-ad533d8405ae",
   pageTypeSlug: "change-agent",
   slug: "remove-folder",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   definition: "one folder and every file under it taken away",
   code: "ts",
   test: "ts",

@@ -4,7 +4,7 @@ export const renamePages = {
   id: "01a08337-0d7c-7cd3-bad9-c30420f68ccf",
   pageTypeSlug: "change-agent",
   slug: "rename-pages",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   definition: "many pages renamed and carried to where their slugs say, in one call",
   code: "ts",
   test: "ts",

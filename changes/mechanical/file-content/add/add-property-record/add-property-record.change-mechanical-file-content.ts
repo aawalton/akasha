@@ -4,7 +4,7 @@ export const addPropertyRecord = {
   id: "01a081d9-419a-72bf-ae0b-5318df5fce07",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "add-property-record",
-  changeModeSlug: "change-mode-add",
+  changeMode: "change-mode-add",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
   definition: "one record put into one page property in a page's body",

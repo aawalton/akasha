@@ -4,7 +4,7 @@ export const removePropertyFromPageType = {
   id: "01a08287-d90b-7f07-9a9e-bf6209c40126",
   pageTypeSlug: "change-agent",
   slug: "remove-property-from-page-type",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/page-type",
   changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
   definition: "one page property taken off one page type",

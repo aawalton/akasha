@@ -4,7 +4,7 @@ export const renamePagePropertyKey = {
   id: "01a08199-2188-7b83-8ede-a4feb5dd9765",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-page-property-key",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-key",
   definition: "one key of a page's exported object spelled anew, keeping its place and its value",

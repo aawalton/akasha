@@ -4,7 +4,7 @@ export const changeFileContent = {
   id: "01a07810-fb33-7e75-8e1e-ce1e302d5668",
   pageTypeSlug: "change-mechanical-file-content",
   slug: "change-file-content",
-  changeModeSlug: "change-mode-change",
+  changeMode: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   definition: "one passage of one body replaced by another, with nothing else judged",
   code: "ts",

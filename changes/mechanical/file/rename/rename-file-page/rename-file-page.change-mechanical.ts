@@ -4,7 +4,7 @@ export const renameFilePage = {
   id: "01a08239-8d1d-7b49-a5c2-fc039de37378",
   pageTypeSlug: "change-mechanical",
   slug: "rename-file-page",
-  changeModeSlug: "change-mode-rename",
+  changeMode: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page",
   definition: "a page renamed and moved to where its slug says, in the data and in every name",

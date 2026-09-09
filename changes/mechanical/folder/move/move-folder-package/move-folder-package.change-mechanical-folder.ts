@@ -4,7 +4,7 @@ export const moveFolderPackage = {
   id: "01a08240-de06-760d-bf8c-d82a5881e24b",
   pageTypeSlug: "change-mechanical-folder",
   slug: "move-folder-package",
-  changeModeSlug: "change-mode-move",
+  changeMode: "change-mode-move",
   changeTargetTypeSlug: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder-package",
   definition: "a workspace package moved to another folder, taking the slug that folder names",

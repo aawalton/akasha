@@ -4,7 +4,7 @@ export const removeFolderPackage = {
   id: "01a0824a-d2c6-7488-8bfd-742aa19c8ef2",
   pageTypeSlug: "change-mechanical-folder",
   slug: "remove-folder-package",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   changeTargetTypeSlug: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder-package",
   definition: "one workspace package taken away with the folder that package sits in",

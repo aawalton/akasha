@@ -4,7 +4,7 @@ export const removePageType = {
   id: "01a0783a-11c0-7891-a250-63a80bef1c95",
   pageTypeSlug: "change-agent",
   slug: "remove-page-type",
-  changeModeSlug: "change-mode-remove",
+  changeMode: "change-mode-remove",
   definition: "one page type taken away, by the partial change taking a page type away",
   code: "ts",
   test: "ts",
