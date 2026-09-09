@@ -18,7 +18,14 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import type { BarContext } from "@akasha/temper-items-filters-addon/filter-bar-controls"
+import { TEMPER_FILTERS } from "@akasha/temper-items-filters-core/search-filter-registry"
+import type {
+  AnyTemperFilter,
+  FilterGroup,
+  FilterId,
+  FilterValue,
+} from "@akasha/temper-items-filters-core/search-filter-types"
+import type { BarContext } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,
   buildRangeEditor,
@@ -31,15 +38,8 @@ import {
   LABEL_GAP,
   PADDING_X,
   PADDING_Y,
-} from "@akasha/temper-items-filters-addon/filter-bar-controls"
-import type { FilterController } from "@akasha/temper-items-filters-addon/panel-filter-binding"
-import { TEMPER_FILTERS } from "@akasha/temper-items-filters-core/search-filter-registry"
-import type {
-  AnyTemperFilter,
-  FilterGroup,
-  FilterId,
-  FilterValue,
-} from "@akasha/temper-items-filters-core/search-filter-types"
+} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+import type { FilterController } from "akasha/temper/items-filters-addon/panel-filter-binding/panel-filter-binding.module.code.ts"
 import type { BrowseEngine } from "../trading-browse-engine/trading-browse-engine.module.code.ts"
 import {
   buildHeader,

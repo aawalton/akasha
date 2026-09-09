@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemsFiltersAddon = {
   id: "01a0614b-6734-767e-be82-2cfd13e1d6a8",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-items-filters-addon",
   definition:
     "the filter panel a player narrows the inventory with, and the binding that narrows the rows",
-  manifest: "json",
   parts: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
   invariants: [
     {
@@ -26,4 +25,4 @@ export const temperItemsFiltersAddon = {
       statement: "Nothing here reads an item off the guild trader.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

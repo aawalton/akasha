@@ -2,7 +2,7 @@ import {
   type BarButton,
   COLOR_SECONDARY,
   setButtonActive,
-} from "@akasha/temper-items-filters-addon/filter-bar-controls"
+} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
 import { BROWSER_CATEGORIES } from "../inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
 import type {
   BrowserFilterState,

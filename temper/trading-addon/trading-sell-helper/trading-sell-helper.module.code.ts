@@ -20,7 +20,7 @@ import {
   createBarButton,
   PADDING_X,
   PADDING_Y,
-} from "@akasha/temper-items-filters-addon/filter-bar-controls"
+} from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   getItemPriceKey,
   suggestSellPrice,
