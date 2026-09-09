@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { baseOf, landing } from "../landing/landing.module.code.ts"
+import { baseOf, landing } from "../../../command-system/landing/landing.module.code.ts"
 import {
   ADMITS,
   BROKEN,
@@ -11,7 +11,7 @@ import {
   filesIn,
   PAGE,
   scratch,
-} from "../landing/landing.module.test-fixtures.ts"
+} from "../../../command-system/landing/landing.module.test-fixtures.ts"
 import {
   blockedMoves,
   MORE,

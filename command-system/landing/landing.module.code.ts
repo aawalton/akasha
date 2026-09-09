@@ -35,13 +35,13 @@ import {
   orphaningIn,
   orphaningSaid,
 } from "../../commands/modules/orphaning/orphaning.module.code.ts"
+import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
+import { movedOnto, movesHeld } from "../../commands/modules/path-moving/path-moving.module.code.ts"
 import {
   outsideRoot,
   writesOutside,
 } from "../../commands/modules/said-pathing/said-pathing.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
-import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
 export type FileEdit = {

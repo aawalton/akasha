@@ -19,7 +19,6 @@
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
     "./landing/testing": "./landing/landing.module.test-fixtures.ts",
-    "./path-moving": "./path-moving/path-moving.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
     "./piping/testing": "./piping/piping.module.test-fixtures.ts",
     "./reading": "./reading/reading.module.code.ts",

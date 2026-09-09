@@ -15,7 +15,7 @@ import { textIn, textOf } from "@akasha/code/body-text"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
-import type { FileMove } from "../../../command-system/path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const MANIFEST = "package.json"
 

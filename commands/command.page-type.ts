@@ -98,6 +98,7 @@ export const command = {
     "module/drafting",
     "module/gate-building",
     "module/mechanical-landing",
+    "module/path-moving",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

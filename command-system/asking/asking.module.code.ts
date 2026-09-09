@@ -34,6 +34,7 @@ import {
   type Saying,
 } from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
+import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
 import type { Minted } from "../../commands/modules/value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../../commands/modules/value-minting/value-minting.module.code.ts"
 import { unwarrantedIn } from "../../commands/modules/warrant-owing/warrant-owing.module.code.ts"
@@ -41,7 +42,6 @@ import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import type { Drafted, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
