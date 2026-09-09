@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const saturdayLegs20260725C0759e62GobletBulgarianSplitSquatSet2 = {
   id: "019f9983-b083-78c1-8d8c-bb635f880253",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "saturday-legs-2026-07-25-c0759e62-goblet-bulgarian-split-squat-set-2",
   title: "Goblet Bulgarian Split Squat set 2",
   exercise: "goblet-bulgarian-split-squat",

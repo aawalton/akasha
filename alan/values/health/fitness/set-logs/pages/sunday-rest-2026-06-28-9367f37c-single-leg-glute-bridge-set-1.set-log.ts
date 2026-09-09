@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const sundayRest202606289367f37cSingleLegGluteBridgeSet1 = {
   id: "019f0f0a-70cd-7d0a-bc23-2508cb351b08",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "sunday-rest-2026-06-28-9367f37c-single-leg-glute-bridge-set-1",
   title: "Single Leg Glute Bridge set 1",
   exercise: "single-leg-glute-bridge",

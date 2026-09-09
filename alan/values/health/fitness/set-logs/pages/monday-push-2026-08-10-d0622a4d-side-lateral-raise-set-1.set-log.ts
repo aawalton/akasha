@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const mondayPush20260810D0622a4dSideLateralRaiseSet1 = {
   id: "019fed4d-f397-7cdb-b397-d31cf0b345cc",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "monday-push-2026-08-10-d0622a4d-side-lateral-raise-set-1",
   title: "Side Lateral Raise set 1",
   exercise: "side-lateral-raise",

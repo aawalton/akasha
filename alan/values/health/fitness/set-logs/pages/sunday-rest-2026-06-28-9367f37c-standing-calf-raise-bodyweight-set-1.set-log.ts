@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const sundayRest202606289367f37cStandingCalfRaiseBodyweightSet1 = {
   id: "019f0f0b-7035-7d37-a9ce-9d81710e14b9",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "sunday-rest-2026-06-28-9367f37c-standing-calf-raise-bodyweight-set-1",
   title: "Standing Calf Raise (Bodyweight) set 1",
   exercise: "standing-calf-raise-bodyweight",

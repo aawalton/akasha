@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet2 = {
   id: "019f054b-1775-7747-bb12-43acf996742e",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "friday-pull-2026-06-26-105c11ff-bent-over-two-dumbbell-row-set-2",
   title: "Bent Over Two-Dumbbell Row set 2",
   exercise: "bent-over-two-dumbbell-row",

@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const mondayPush2026062913d28120DumbbellBenchPressSet2 = {
   id: "019f147a-60a4-720e-aeae-84dd9fd83f4a",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "monday-push-2026-06-29-13d28120-dumbbell-bench-press-set-2",
   title: "Dumbbell Bench Press set 2",
   exercise: "dumbbell-bench-press",

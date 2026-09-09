@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const wednesdayLegs20260624789253e9RomanianDeadliftSet1 = {
   id: "019efa84-8513-7369-875a-55fbee1d1a01",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "wednesday-legs-2026-06-24-789253e9-romanian-deadlift-set-1",
   title: "Romanian Deadlift set 1",
   exercise: "romanian-deadlift",

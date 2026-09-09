@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const fridayPull2026070350a5aaeaPushupsSet2 = {
   id: "019f2934-ccca-75f2-bf2f-6a26ce9522f0",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "friday-pull-2026-07-03-50a5aaea-pushups-set-2",
   title: "Pushups set 2",
   exercise: "pushups",

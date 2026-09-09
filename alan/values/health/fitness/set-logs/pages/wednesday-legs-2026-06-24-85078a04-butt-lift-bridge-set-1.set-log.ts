@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const wednesdayLegs2026062485078a04ButtLiftBridgeSet1 = {
   id: "019efbfc-debf-773c-b958-9f15c7cde4b2",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "wednesday-legs-2026-06-24-85078a04-butt-lift-bridge-set-1",
   title: "Butt Lift (Bridge) set 1",
   exercise: "butt-lift-bridge",

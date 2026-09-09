@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const mondayPush20260810D0622a4dStandingDumbbellTricepsExtensionSet1 = {
   id: "019fed57-0cd6-73cd-8733-e3306305bff1",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "monday-push-2026-08-10-d0622a4d-standing-dumbbell-triceps-extension-set-1",
   title: "Standing Dumbbell Triceps Extension set 1",
   exercise: "standing-dumbbell-triceps-extension",

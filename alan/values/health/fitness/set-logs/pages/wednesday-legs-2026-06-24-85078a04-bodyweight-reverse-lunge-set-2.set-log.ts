@@ -3,6 +3,7 @@ import type { SetLog } from "../set-log.page-type.ts"
 export const wednesdayLegs2026062485078a04BodyweightReverseLungeSet2 = {
   id: "019efbf5-de62-702c-a5e0-71cbe8abeba7",
   pageTypeSlug: "set-log",
+  type: "set-log",
   slug: "wednesday-legs-2026-06-24-85078a04-bodyweight-reverse-lunge-set-2",
   title: "Bodyweight Reverse Lunge set 2",
   exercise: "bodyweight-reverse-lunge",
