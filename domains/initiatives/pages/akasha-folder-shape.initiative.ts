@@ -24,8 +24,6 @@ export const akashaFolderShape = {
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
-      workingMemory:
-        "Nothing states this today, so it is decided case by case. Alan's default: a folder unless there is a reason to make it a package, and a reason is a name the outside must reach. `agents` earns its manifest, reached by 18 subpaths from 37 import sites across `seat-system` and `command-system`. The workspace-package page already has the rule Earn The Manifest.",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
