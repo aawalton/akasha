@@ -1,4 +1,7 @@
-import { runSshCapture, streamSshLines } from "@akasha/ssh-access/ssh-reach"
+import {
+  runSshCapture,
+  streamSshLines,
+} from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   buildFetchScript,
   type HealthExport,

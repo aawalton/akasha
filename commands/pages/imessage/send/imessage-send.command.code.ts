@@ -5,7 +5,7 @@ import { answering, asJson, refusedBy, told } from "@akasha/command-system/comma
 import { filing, wordFilling } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { InputError } from "@akasha/errors-core/exit-code"
-import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
+import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   JSON_SAID,
   proseIn,

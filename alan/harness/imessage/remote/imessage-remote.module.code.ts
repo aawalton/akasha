@@ -1,5 +1,5 @@
 import { DataError } from "@akasha/errors-core/exit-code"
-import { runSshCapture } from "@akasha/ssh-access/ssh-reach"
+import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   buildChatDbScript,
   buildCountUnreadSql,

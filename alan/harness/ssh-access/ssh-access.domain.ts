@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const sshAccess = {
   id: "01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "ssh-access",
   definition: "how a script is run on another machine over ssh and its output read back",
-  manifest: "json",
   parts: ["module/ssh-target", "module/ssh-reach"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const sshAccess = {
       statement: "Nothing here knows the purpose of any script this package has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

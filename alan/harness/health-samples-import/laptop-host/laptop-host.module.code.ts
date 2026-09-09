@@ -1,4 +1,4 @@
-import type { SshTarget } from "@akasha/ssh-access/ssh-target"
+import type { SshTarget } from "akasha/alan/harness/ssh-access/ssh-target/ssh-target.module.code.ts"
 
 export const MACBOOK: SshTarget = {
   user: "walton",

@@ -126,7 +126,6 @@
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
-    "@akasha/ssh-access": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/pages-core": "workspace:*"
   },

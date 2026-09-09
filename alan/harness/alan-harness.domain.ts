@@ -26,7 +26,7 @@ export const alanHarness = {
     "domain/sms-core",
     "domain/email-inbound",
     "domain/email-watch",
-    "workspace-package/ssh-access",
+    "domain/ssh-access",
     "workspace-package/calendar-sync",
     "domain/imessage",
     "workspace-package/health-samples-access",
