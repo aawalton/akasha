@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0184158IiGrievanceIBook3End = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0184-158-ii-grievance-i-book-3-end",
   title: "158 (II) Grievance [I] [Book 3 End]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 184,
   ownLength: 0,
   unitSlug: "words",

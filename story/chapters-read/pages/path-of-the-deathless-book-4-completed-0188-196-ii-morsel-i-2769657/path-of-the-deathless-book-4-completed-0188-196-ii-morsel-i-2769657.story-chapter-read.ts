@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0188196IiMorselI2769657 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0188-196-ii-morsel-i-2769657",
   title: "196 (II) Morsel [I]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 188,
   ownLength: 2725,
   unitSlug: "words",

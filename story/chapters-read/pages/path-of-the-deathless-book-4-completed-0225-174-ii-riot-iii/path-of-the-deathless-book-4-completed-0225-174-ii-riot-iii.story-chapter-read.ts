@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0225174IiRiotIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0225-174-ii-riot-iii",
   title: "174 (II) Riot [III]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 225,
   ownLength: 0,
   unitSlug: "words",

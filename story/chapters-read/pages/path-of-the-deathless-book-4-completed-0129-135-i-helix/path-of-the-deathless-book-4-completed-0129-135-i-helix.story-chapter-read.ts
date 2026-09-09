@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0129135IHelix = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0129-135-i-helix",
   title: "135 (I) Helix",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 129,
   ownLength: 0,
   unitSlug: "words",

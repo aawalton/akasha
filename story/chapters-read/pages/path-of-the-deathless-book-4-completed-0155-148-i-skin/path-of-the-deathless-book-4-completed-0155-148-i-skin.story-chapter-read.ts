@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0155148ISkin = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0155-148-i-skin",
   title: "148 (I) Skin",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 155,
   ownLength: 0,
   unitSlug: "words",

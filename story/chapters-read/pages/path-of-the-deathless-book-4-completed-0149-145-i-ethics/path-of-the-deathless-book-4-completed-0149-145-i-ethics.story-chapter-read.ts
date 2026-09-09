@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0149145IEthics = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0149-145-i-ethics",
   title: "145 (I) Ethics",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 149,
   ownLength: 0,
   unitSlug: "words",

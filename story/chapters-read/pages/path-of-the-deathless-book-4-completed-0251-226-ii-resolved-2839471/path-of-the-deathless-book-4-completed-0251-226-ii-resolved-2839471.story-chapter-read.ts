@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0251226IiResolved2839471 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0251-226-ii-resolved-2839471",
   title: "226 (II) Resolved",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 251,
   ownLength: 2991,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0158185IRhetoricalIi2741198 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0158-185-i-rhetorical-ii-2741198",
   title: "185 (I) Rhetorical [II]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 158,
   ownLength: 4011,
   unitSlug: "words",

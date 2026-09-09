@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0249183IiDarkIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0249-183-ii-dark-ii",
   title: "183 (II) Dark [II] ",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 249,
   ownLength: 0,
   unitSlug: "words",
