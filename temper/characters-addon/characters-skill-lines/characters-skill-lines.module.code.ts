@@ -1,5 +1,5 @@
-import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeSkillLineProgress } from "../characters-skill-lines-merge/characters-skill-lines-merge.module.code.ts"
 

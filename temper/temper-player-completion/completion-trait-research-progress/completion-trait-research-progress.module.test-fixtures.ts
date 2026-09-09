@@ -3,7 +3,7 @@ import type {
   TraitResearchCraftType,
   TraitResearchLine,
   TraitResearchTrait,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,

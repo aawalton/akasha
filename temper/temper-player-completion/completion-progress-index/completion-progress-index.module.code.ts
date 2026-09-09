@@ -1,9 +1,9 @@
+import { isRecord } from "@akasha/utils/narrow/is-record"
+import { joinPath } from "@akasha/utils/narrow/join-path"
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
-import { isRecord } from "@akasha/utils/narrow/is-record"
-import { joinPath } from "@akasha/utils/narrow/join-path"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "../completion-account-checkers/completion-account-checkers.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "../completion-card-checkers/completion-card-checkers.module.code.ts"
 import {

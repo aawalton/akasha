@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { companionQuestIds } from "../companion-quest-data/companion-quest-data.module.code.ts"
 import {
   ACCOUNT_CARDS,

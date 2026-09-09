@@ -1,8 +1,8 @@
+import { requireGet } from "@akasha/utils/narrow/require-get"
 import type {
   AccountCompletion,
   ItemSetPieceProgress,
-} from "@akasha/temper-completion/completion-progress"
-import { requireGet } from "@akasha/utils/narrow/require-get"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { setCategories } from "akasha/temper/temper-characters-equipment/set-categories/set-categories.module.code.ts"
 import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import type { SetCategoryId } from "akasha/temper/temper-equipment/set-category-ids/set-category-ids.module.code.ts"

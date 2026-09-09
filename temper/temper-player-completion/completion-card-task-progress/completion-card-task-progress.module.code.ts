@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,

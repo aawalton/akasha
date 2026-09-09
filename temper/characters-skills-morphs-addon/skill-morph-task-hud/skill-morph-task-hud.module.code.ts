@@ -1,4 +1,3 @@
-import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import {
   getSavedVariables,
   type TaskData,
@@ -12,6 +11,7 @@ import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
 } from "akasha/temper/characters-capture-addon/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { ExpectedMorphableSkill } from "akasha/temper/temper-skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import {
   type MorphSuggestionEntry,

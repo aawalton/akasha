@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   CharacterCompletion,
   SkillPointProgress,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionOverride } from "../completion-override/completion-override.module.code.ts"
 import { applyCompletionOverrides } from "./apply-completion-overrides.module.code.ts"
 

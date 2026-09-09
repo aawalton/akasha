@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { CharacterCompletion } from "@akasha/temper-completion/completion-progress"
-import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import {
   type NextCharacterInput,
   resolveNextCharacter,

@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type {
   CharacterCompletion,
   TraitResearchCraftType,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   isTraitResearchCardComplete,
   isTraitResearchItemComplete,

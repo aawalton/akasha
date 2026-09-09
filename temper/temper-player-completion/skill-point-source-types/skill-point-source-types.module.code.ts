@@ -1,4 +1,4 @@
-import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
+import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
 export type SkillPointGeneralKey = Extract<
   keyof SkillPointProgress,

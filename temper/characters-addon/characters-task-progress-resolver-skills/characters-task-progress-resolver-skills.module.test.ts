@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
 import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { resolveSkillPoints } from "./characters-task-progress-resolver-skills.module.code.ts"
 
 const FOLIUM_DISCOGNITUM_CEILING = 2

@@ -1,4 +1,4 @@
-import type { SparsePoiDiscovery } from "@akasha/temper-completion/completion-progress"
+import type { SparsePoiDiscovery } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { mergeIdList } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 

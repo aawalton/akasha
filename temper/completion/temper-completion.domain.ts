@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCompletion = {
   id: "01a0607a-9cbb-77f0-9ede-8b04b4408831",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-completion",
   definition: "what a player has finished across an account, a character and a companion",
-  manifest: "json",
   parts: [
     "module/completion-progress",
     "module/completion-record",
@@ -104,4 +103,4 @@ export const temperCompletion = {
       statement: "A part read out of turn drifts from the order the game reports.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,5 +1,5 @@
-import type { RecipeList } from "@akasha/temper-completion/completion-progress"
-import { RECIPE_DATA } from "@akasha/temper-completion/recipe-data"
+import type { RecipeList } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { RECIPE_DATA } from "akasha/temper/completion/recipe-data/recipe-data.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
 import { isNamedShape } from "../completion-named-shape/completion-named-shape.module.code.ts"

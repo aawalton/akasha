@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { MountTrainingProgress } from "@akasha/temper-completion/completion-progress"
+import type { MountTrainingProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { isMountTrainingPathComplete } from "./completion-mount-training-completeness.module.code.ts"
 
 const MAXED: MountTrainingProgress = {

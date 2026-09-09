@@ -1,5 +1,5 @@
-import type { LoreCategory } from "@akasha/temper-completion/completion-progress"
-import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+import type { LoreCategory } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import { isNamedShape } from "../completion-named-shape/completion-named-shape.module.code.ts"
 import type { AccountLoreProgress } from "../completion-ui-types/completion-ui-types.module.code.ts"

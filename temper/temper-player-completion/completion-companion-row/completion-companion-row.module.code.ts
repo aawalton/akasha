@@ -1,4 +1,4 @@
-import type { CompanionCompletion } from "@akasha/temper-completion/completion-progress"
+import type { CompanionCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
 export interface CompletionCompanionRow {
   id: string

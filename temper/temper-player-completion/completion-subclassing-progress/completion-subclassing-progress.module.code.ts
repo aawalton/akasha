@@ -1,4 +1,4 @@
-import type { AccountCompletion } from "@akasha/temper-completion/completion-progress"
+import type { AccountCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { calculateSkillLinePercent } from "../completion-skill-line-progress/completion-skill-line-progress.module.code.ts"
 import type { SkillLineProgressEntry } from "../completion-ui-types/completion-ui-types.module.code.ts"

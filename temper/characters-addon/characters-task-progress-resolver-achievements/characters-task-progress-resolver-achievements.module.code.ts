@@ -1,7 +1,7 @@
-import type { AchievementCriteriaProgress } from "@akasha/temper-completion/completion-progress"
-import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import type { AchievementCriteriaProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import {
   getAccountAchievementCategoryMap,
   getCharacterAchievementCategoryMap,

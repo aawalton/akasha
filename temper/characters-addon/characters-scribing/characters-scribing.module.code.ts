@@ -2,7 +2,7 @@ import type {
   GrimoireEntry,
   ScribingProgress,
   ScriptEntry,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeScribing } from "../characters-scribing-merge/characters-scribing-merge.module.code.ts"
 

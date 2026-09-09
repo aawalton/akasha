@@ -1,9 +1,9 @@
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@akasha/temper-completion/completion-progress"
-import { isRecord } from "@akasha/utils/narrow/is-record"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 
 const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
 

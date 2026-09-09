@@ -2,7 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { partAt } from "@akasha/pages/page-file-parts"
-import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
 
 const MINE_PAGE = "temper/characters/temper-mines/pages/eso/eso.temper-mine.ts"

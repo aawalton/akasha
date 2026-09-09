@@ -8,7 +8,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/completion-import/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/temper-player-completion/completion-import-outcome/completion-import-outcome.module.code.ts"

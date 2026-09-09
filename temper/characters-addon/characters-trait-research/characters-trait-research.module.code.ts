@@ -2,7 +2,7 @@ import type {
   TraitResearchCraftType,
   TraitResearchLine,
   TraitResearchTrait,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeTraitResearch } from "../characters-trait-research-merge/characters-trait-research-merge.module.code.ts"
 

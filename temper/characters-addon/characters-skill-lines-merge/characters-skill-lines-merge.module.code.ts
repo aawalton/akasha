@@ -1,4 +1,4 @@
-import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
+import type { SkillLineProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { mergeByKey } from "../characters-keyed-merge/characters-keyed-merge.module.code.ts"
 
 function mergeLine(stored: SkillLineProgress, fresh: SkillLineProgress): SkillLineProgress {

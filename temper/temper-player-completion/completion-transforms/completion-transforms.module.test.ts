@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { CharacterCompletion } from "@akasha/temper-completion/completion-progress"
+import type { CharacterCompletion } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import type {
   TraitResearchCatalogCraftType,

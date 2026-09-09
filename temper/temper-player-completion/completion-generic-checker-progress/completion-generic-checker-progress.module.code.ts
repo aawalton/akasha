@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { ItemProgress } from "../completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AnyCompletionCardId } from "../completion-card-id/completion-card-id.module.code.ts"
 import {

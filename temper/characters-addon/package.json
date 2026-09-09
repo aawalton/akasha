@@ -5,7 +5,6 @@
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-companions-addon": "workspace:*",
-    "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

@@ -1,6 +1,6 @@
-import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/temper-player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   clampRapportProgress,

@@ -1,5 +1,5 @@
-import type { ItemSetProgress } from "@akasha/temper-completion/completion-record"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { ItemSetProgress } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string

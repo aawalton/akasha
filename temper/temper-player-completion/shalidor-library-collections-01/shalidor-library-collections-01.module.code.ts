@@ -1,4 +1,4 @@
-import type { LoreCollectionEntry } from "@akasha/temper-completion/lore-library-types"
+import type { LoreCollectionEntry } from "akasha/temper/completion/lore-library-types/lore-library-types.module.code.ts"
 
 export const SHALIDOR_LIBRARY_COLLECTIONS_01: readonly LoreCollectionEntry[] = [
   {

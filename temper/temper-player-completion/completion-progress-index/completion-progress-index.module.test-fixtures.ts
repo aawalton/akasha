@@ -1,7 +1,7 @@
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompletionCharacterEntry } from "../completion-next-character/completion-next-character.module.code.ts"
 
 export function mkMount(

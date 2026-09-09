@@ -1,4 +1,4 @@
-import type { SparseLoreLibrary } from "@akasha/temper-completion/completion-progress"
+import type { SparseLoreLibrary } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import { addIdToListAt } from "../characters-known-id-lists/characters-known-id-lists.module.code.ts"
 

@@ -1,4 +1,4 @@
-import type { SparseRecipes } from "@akasha/temper-completion/completion-progress"
+import type { SparseRecipes } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { mergeIdListsByKey } from "../characters-collector-merge/characters-collector-merge.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import { addIdToListAt } from "../characters-known-id-lists/characters-known-id-lists.module.code.ts"

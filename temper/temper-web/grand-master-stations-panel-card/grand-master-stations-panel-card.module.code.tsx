@@ -1,5 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { TOTAL_GRAND_MASTER_STATIONS } from "@akasha/temper-completion/completion-progress"
+import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import {

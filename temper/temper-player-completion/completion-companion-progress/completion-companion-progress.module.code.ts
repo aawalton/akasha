@@ -1,7 +1,7 @@
 import type {
   CharacterCompletion,
   CompanionCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import {
   companions,

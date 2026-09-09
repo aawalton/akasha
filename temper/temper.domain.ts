@@ -74,7 +74,7 @@ export const temper = {
     "domain/temper-champion-points",
     "domain/temper-classes",
     "domain/temper-alchemy",
-    "workspace-package/temper-completion",
+    "domain/temper-completion",
     "domain/temper-catalog-host",
     "domain/temper-game-catalog-capture-host",
     "domain/temper-capture-datamining",

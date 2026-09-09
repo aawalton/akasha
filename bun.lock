@@ -41,7 +41,6 @@
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
@@ -1002,7 +1001,6 @@
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-companions-addon": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -1031,12 +1029,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/completion": {
-      "name": "@akasha/temper-completion",
-      "dependencies": {
-        "zod": "^4.3.6",
       },
     },
     "temper/crafting-addon": {
@@ -1220,7 +1212,6 @@
     "temper/player-completion-state": {
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
-        "@akasha/temper-completion": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1313,7 +1304,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
@@ -1531,8 +1521,6 @@
     "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/combat-addon"],
 
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/companions-addon"],
-
-    "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/crafting-addon"],
 

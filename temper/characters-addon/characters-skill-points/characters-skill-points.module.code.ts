@@ -1,5 +1,5 @@
-import type { SkillPointProgress } from "@akasha/temper-completion/completion-progress"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   ENDLESS_ARCHIVE,
   GROUP_DUNGEONS,

@@ -1,12 +1,12 @@
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
-} from "@akasha/temper-completion/completion-progress"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import type {
+  AccountCompletion,
+  CharacterCompletion,
+  CompanionCompletion,
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   cleanAccountCompletionInput,
   cleanCharacterCompletionInput,

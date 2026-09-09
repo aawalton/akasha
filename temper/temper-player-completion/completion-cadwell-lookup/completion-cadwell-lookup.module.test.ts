@@ -3,7 +3,7 @@ import type {
   CadwellProgress,
   CadwellZone,
   CharacterCompletion,
-} from "@akasha/temper-completion/completion-progress"
+} from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   type CadwellLevelCatalogEntry,
   cadwellCompletedCount,
