@@ -908,7 +908,6 @@
     "inference/generations/upscale": {
       "name": "@akasha/upscale",
       "dependencies": {
-        "@akasha/cluster-api": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -967,14 +966,6 @@
     "infrastructure/backup-retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/cluster/api": {
-      "name": "@akasha/cluster-api",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2762,8 +2753,6 @@
     "@akasha/checks": ["@akasha/checks@workspace:checks"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
-
-    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:infrastructure/cluster/api"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 

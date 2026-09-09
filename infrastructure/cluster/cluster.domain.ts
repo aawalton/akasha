@@ -10,7 +10,7 @@ export const cluster = {
     "workspace-package/cluster-manifests",
     "page-type/cluster-service",
     "domain/cluster-provisioning",
-    "workspace-package/cluster-api",
+    "domain/cluster-api",
     "workspace-package/k8s-synth",
     "domain/k8s-types",
   ],

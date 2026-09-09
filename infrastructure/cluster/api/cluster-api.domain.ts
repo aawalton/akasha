@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const clusterApi = {
   id: "01a068d4-d2aa-79d4-b241-bf8c8672b7fd",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "cluster-api",
   definition: "how a program reaches the cluster's API server and what it asks of it",
-  manifest: "json",
   parts: ["module/cluster-fetch", "module/cluster-jobs", "module/cluster-workloads"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const clusterApi = {
       statement: "The credential is a service account token the environment has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
