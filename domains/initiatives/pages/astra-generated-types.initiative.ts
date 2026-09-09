@@ -12,11 +12,6 @@ export const astraGeneratedTypes = {
   ],
   intents: [
     {
-      statement: "No change to a file's content lands on a file a generated property has.",
-      workingMemory:
-        "Nothing refuses such an edit today. The `block-akasha-edits` hook refuses Edit and Write over the whole checkout by location rather than by file, and the warrant system asks only that a writer read a path before writing it. A check is the shape the repository offers, and a check needs Alan's approval.\n",
-    },
-    {
       statement: "A page type states the code that writes its type.",
     },
     {
