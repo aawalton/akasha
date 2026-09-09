@@ -16,7 +16,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "No `command-system` folder is there.",
       workingMemory:
-        "70 folders sit under `command-system`: `commands/`, holding the `command` page type, and 69 modules, of which `ios-widget-emit` and `ios-widget-swift` are iOS's and nothing imports. The `namespace` and `refactor-command` page types are in `commands/` now. A manifest names a way in even where the reach from outside is spelled as a relative path, so dropping an alias refuses every such reach: 16 were dropped and 12 put back.",
+        "38 folders sit under `command-system` at c9b0029be2, down from 70, moving one commit each. Six are held back because other lanes reach them where they are: `scratching`, `fault-saying`, `rooting`, `reading`, `during-call`, `command-declaring`. `landing-throughput` is a `performance` page. `calling` and `landing` are the most entangled and go last. A manifest names a way in even where the reach is spelled as a relative path, so dropping an alias refuses every such reach.",
     },
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
