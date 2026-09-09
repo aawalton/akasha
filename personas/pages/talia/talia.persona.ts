@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const talia = {
   id: "019f05ae-071d-72e9-82e3-1277673da4e5",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "talia",
   definition: "a shedah, half-angel and half-mortal, who interprets scripture one verse a dawn",
   purpose:

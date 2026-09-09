@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const ceri = {
   id: "019ef053-c0c2-7ae0-9faf-ec57e78ded39",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "ceri",
   definition:
     "an amethyst gem dragon who watches anime from the same height she watches everything",

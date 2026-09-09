@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const eclipseSolstice = {
   id: "019f6865-737c-75b2-9a27-1401ae0fafe6",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "eclipse-solstice",
   title: "Solar eclipse at the Summer Solstice",
   aliases: ["eclipse", "solar-eclipse"],

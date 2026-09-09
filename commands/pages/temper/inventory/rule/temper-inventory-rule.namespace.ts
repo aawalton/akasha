@@ -3,6 +3,7 @@ import type { Namespace } from "../../../../namespaces/namespace.page-type.ts"
 export const temperInventoryRule = {
   id: "01a07c17-78b9-7671-8f3d-fd5136036a25",
   pageTypeSlug: "namespace",
+  type: "namespace",
   slug: "temper-inventory-rule",
   definition: "the rules an inventory is kept by",
   parts: [

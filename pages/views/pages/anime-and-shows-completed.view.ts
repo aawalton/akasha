@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const animeAndShowsCompleted = {
   id: "01a06577-2614-7005-b335-134f3e00e1b6",
   pageTypeSlug: "view",
+  type: "view",
   slug: "anime-and-shows-completed",
   title: "Completed",
   nav: "anime-and-shows",

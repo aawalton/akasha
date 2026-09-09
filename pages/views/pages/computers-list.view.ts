@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const computersList = {
   id: "01a06577-2614-700f-a238-8a567d71f076",
   pageTypeSlug: "view",
+  type: "view",
   slug: "computers-list",
   title: "List",
   nav: "computers",

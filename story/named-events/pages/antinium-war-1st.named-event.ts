@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const antiniumWar1st = {
   id: "019f6865-7620-77a0-83ab-1862089cdc5a",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "antinium-war-1st",
   title: "First Antinium War",
   aliases: [

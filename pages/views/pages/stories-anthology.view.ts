@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const storiesAnthology = {
   id: "01a06577-2615-7007-b148-bbb91ca245fb",
   pageTypeSlug: "view",
+  type: "view",
   slug: "stories-anthology",
   title: "Anthology",
   nav: "stories",

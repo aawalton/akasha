@@ -3,6 +3,7 @@ import type { CarMake } from "../../car-make.page-type.ts"
 export const rivian = {
   id: "019e4af4-379f-7d6d-8be5-b1b2cdbfee1d",
   pageTypeSlug: "car-make",
+  type: "car-make",
   slug: "rivian",
   title: "Rivian",
   chargingNetworkAccess:

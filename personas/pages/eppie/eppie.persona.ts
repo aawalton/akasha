@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const eppie = {
   id: "019ee19d-d6e5-7ed5-b1ad-27ffe6f34987",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "eppie",
   definition:
     "Euphemia Fontaine, a singer and stage actress who has performed what she takes apart",

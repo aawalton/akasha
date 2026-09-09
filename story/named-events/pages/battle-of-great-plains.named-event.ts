@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const battleOfGreatPlains = {
   id: "019f6865-7b36-7c9c-a820-2202a7ad33a6",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "battle-of-great-plains",
   title: "Battle of the Great Plains of Izril",
   aliases: ["battle-great-plains", "great-plains-battle"],

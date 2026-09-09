@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const athena = {
   id: "019f2330-25c9-770c-894f-fd4ac497997c",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "athena",
   definition: "the goddess who came as Mentor, and keeps the harness every agent reads and obeys",
   purpose:

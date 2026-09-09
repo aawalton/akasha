@@ -3,6 +3,7 @@ import type { CarMake } from "../../car-make.page-type.ts"
 export const lincoln = {
   id: "019e4ae7-bed0-77bd-9e00-db5232adca7d",
   pageTypeSlug: "car-make",
+  type: "car-make",
   slug: "lincoln",
   title: "Lincoln",
   chargingNetworkAccess:

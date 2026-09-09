@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const iris = {
   id: "019ef9f8-8237-7a6a-b3d6-7821cc814b7c",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "iris",
   definition: "the messenger goddess who speaks the System and runs story-worlds",
   purpose:

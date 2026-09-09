@@ -3,6 +3,7 @@ import type { EsoInterface } from "@akasha/code/eso-interface"
 export const shifterBoxTemplate = {
   id: "01a06187-364c-7851-b7ad-0cc5cdf2a05e",
   pageTypeSlug: "eso-interface",
+  type: "eso-interface",
   slug: "shifter-box-template",
   definition: "the XML template every control of a shifter box is built from",
   markup: "xml",

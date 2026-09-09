@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const atlas = {
   id: "019f28f1-70e0-7afd-8199-b890ba84d64d",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "atlas",
   definition: "the Titaness who holds up the sky, born blind, knowing the world through her feet",
   purpose:

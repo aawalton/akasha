@@ -3,6 +3,7 @@ import type { EsoInterface } from "@akasha/code/eso-interface"
 export const leadsLayout = {
   id: "01a06274-b08b-7c8c-bbc7-d352dfe6b43f",
   pageTypeSlug: "eso-interface",
+  type: "eso-interface",
   slug: "leads-layout",
   definition: "the whole antiquity lead window, from its title row to its list rows",
   markup: "xml",

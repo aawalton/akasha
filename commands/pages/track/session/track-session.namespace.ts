@@ -3,6 +3,7 @@ import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
 export const trackSession = {
   id: "01a07979-7d78-7cc9-b390-00151a274e16",
   pageTypeSlug: "namespace",
+  type: "namespace",
   slug: "track-session",
   definition: "the stretches of time one of Alan's days is made of",
   parts: [

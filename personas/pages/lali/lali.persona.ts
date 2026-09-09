@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const lali = {
   id: "019f0a42-42c4-7a8d-8b99-97aded91020a",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "lali",
   definition:
     "a projection out of the realm of the forms who keeps the delight of mathematics alive",

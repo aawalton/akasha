@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const bloodfeastRaid = {
   id: "019f6865-7bff-721a-a1e4-855388e7736a",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "bloodfeast-raid",
   title: "Bloodfeast Raiders attack (Izril north)",
   aliases: ["bloodfeast-raiders"],

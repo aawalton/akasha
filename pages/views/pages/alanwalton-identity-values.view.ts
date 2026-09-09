@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const alanwaltonIdentityValues = {
   id: "01a06577-2614-7002-a57f-36cabc33d4cc",
   pageTypeSlug: "view",
+  type: "view",
   slug: "alanwalton-identity-values",
   title: "Values",
   nav: "alanwalton-identity",

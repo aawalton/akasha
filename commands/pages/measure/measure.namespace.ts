@@ -3,6 +3,7 @@ import type { Namespace } from "../../namespaces/namespace.page-type.ts"
 export const measure = {
   id: "01a0796e-6072-74f0-b75e-599b54481bb7",
   pageTypeSlug: "namespace",
+  type: "namespace",
   slug: "measure",
   definition: "what a thing has spent of what that thing is allowed",
   parts: [

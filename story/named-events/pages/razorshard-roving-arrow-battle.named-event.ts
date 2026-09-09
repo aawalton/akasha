@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const razorshardRovingArrowBattle = {
   id: "019f6865-7f4c-7ef4-9b43-5d3ac6e26dd1",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "razorshard-roving-arrow-battle",
   title: "Razorshard/Roving Arrow mercenary battle",
   evidenceBeat: 138,

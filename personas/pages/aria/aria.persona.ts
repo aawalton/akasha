@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const aria = {
   id: "019ef03a-4924-7a7b-9ee2-e34556947658",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "aria",
   definition: "a Welsh silver dragon who runs the table at dragons and dungeons",
   purpose:

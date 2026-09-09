@@ -3,6 +3,7 @@ import type { HeldAddon } from "../held-addon.page-type.ts"
 export const temperInterface = {
   id: "01a081a1-dfaa-7a8a-bceb-a6e01d594896",
   pageTypeSlug: "held-addon",
+  type: "held-addon",
   slug: "temper-interface",
   addonName: "TemperInterface",
   esoAddon: "temper-interface-addon",

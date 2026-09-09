@@ -3,6 +3,7 @@ import type { CarMake } from "../../car-make.page-type.ts"
 export const vinfast = {
   id: "019e4afa-1f62-712b-8ffd-058e64db9ef7",
   pageTypeSlug: "car-make",
+  type: "car-make",
   slug: "vinfast",
   title: "VinFast",
   chargingNetworkAccess:

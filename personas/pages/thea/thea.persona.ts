@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const thea = {
   id: "019f2889-d1d2-7216-97c6-02cad98484c6",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "thea",
   definition: "a Titaness of light who divides what has grown too dense for the light to enter",
   purpose:

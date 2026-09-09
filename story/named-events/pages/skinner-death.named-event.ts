@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const skinnerDeath = {
   id: "019f6865-774e-7ad2-863b-22c66a5826f0",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "skinner-death",
   title: "Skinner dies (Liscor crypt disaster)",
   aliases: ["skinner", "funeral-pyres"],

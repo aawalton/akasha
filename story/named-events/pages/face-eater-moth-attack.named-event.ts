@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const faceEaterMothAttack = {
   id: "019f6865-7e27-7329-85ac-bbf4e29869df",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "face-eater-moth-attack",
   title: "Face-Eater Moth attack on Liscor",
   evidenceBeat: 5,

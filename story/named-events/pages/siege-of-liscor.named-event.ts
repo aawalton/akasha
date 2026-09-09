@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const siegeOfLiscor = {
   id: "019f6865-7788-74c8-8610-64de9551a566",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "siege-of-liscor",
   title: "Siege of Liscor",
   aliases: ["siege-liscor", "liscor-siege"],

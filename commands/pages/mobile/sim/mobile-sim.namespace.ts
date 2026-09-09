@@ -3,6 +3,7 @@ import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
 export const mobileSim = {
   id: "01a07bc2-afbe-7db2-96a8-ce71678480ac",
   pageTypeSlug: "namespace",
+  type: "namespace",
   slug: "mobile-sim",
   definition: "the iOS simulator and what is driven on it",
   parts: [

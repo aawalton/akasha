@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const idleLineup2Team = {
   id: "01a06577-2614-7017-8c26-5f5f48268699",
   pageTypeSlug: "view",
+  type: "view",
   slug: "idle-lineup-2-team",
   title: "Team",
   nav: "idle-lineup-2",

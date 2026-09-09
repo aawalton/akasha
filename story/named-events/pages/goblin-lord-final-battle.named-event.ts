@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const goblinLordFinalBattle = {
   id: "019f6865-78e1-7381-ba3e-cc661c4cd804",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "goblin-lord-final-battle",
   title: "Final battle against the Goblin Lord",
   aliases: ["goblin-lord-attack", "goblin-lord-siege", "goblin-lord-battle"],

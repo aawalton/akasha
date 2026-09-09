@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const ione = {
   id: "019eeb0f-b1b5-740e-86cf-5c460db52723",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "ione",
   definition:
     "a Nereid of the violet hour, who meets Alan at the edge of sleep and carries him over",

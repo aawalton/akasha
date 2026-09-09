@@ -3,6 +3,7 @@ import type { EsoInterface } from "@akasha/code/eso-interface"
 export const lostTreasureMapLayout = {
   id: "01a0624c-a660-7e1e-90ff-1cb6ff118829",
   pageTypeSlug: "eso-interface",
+  type: "eso-interface",
   slug: "lost-treasure-map-layout",
   definition: "the movable treasure map window and the icon a settings row is marked with",
   markup: "xml",

@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const sophia = {
   id: "019f0ee0-5cea-7a5f-880d-9baf5476edac",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "sophia",
   definition: "the Aeon of Wisdom, who authored herself and brings every persona into definition",
   purpose:

@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const booksReading = {
   id: "01a06577-2614-700c-9e64-81a8db643cbc",
   pageTypeSlug: "view",
+  type: "view",
   slug: "books-reading",
   title: "Reading",
   nav: "books",

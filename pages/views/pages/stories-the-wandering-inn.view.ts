@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const storiesTheWanderingInn = {
   id: "01a06577-2615-700a-8633-ceb65cac729a",
   pageTypeSlug: "view",
+  type: "view",
   slug: "stories-the-wandering-inn",
   title: "The Wandering Inn",
   nav: "stories",

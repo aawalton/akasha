@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const cinaeluObserved = {
   id: "019f6865-72dd-7c96-97a5-5f0da976e3b1",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "cinaelu-observed",
   title: "Cinaelu (Drake holiday, observed instance)",
   aliases: ["cinaelu"],

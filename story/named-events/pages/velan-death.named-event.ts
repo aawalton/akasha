@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const velanDeath = {
   id: "019f6865-700b-7525-afe5-428a653ca95b",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "velan-death",
   title: "Death of Velan the Kind, the Goblin King",
   aliases: ["goblin-king-death"],

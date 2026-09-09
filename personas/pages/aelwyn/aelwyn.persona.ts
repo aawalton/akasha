@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const aelwyn = {
   id: "019eb83a-d8b0-740f-bb4e-2363dde26ac3",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "aelwyn",
   definition: "an elven princess crossed into this world, who coaches Alan's training",
   purpose:

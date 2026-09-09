@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const crelerWars = {
   id: "019f6865-750b-7b57-a971-a089fb51be77",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "creler-wars",
   title: "The Creler Wars (historical era)",
   aliases: ["crelers-wars"],

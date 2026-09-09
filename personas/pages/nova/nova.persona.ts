@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const nova = {
   id: "019f0562-42f7-7a2c-bb5b-e293a89210a4",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "nova",
   definition:
     "a goblin LitRPG reader who weighs every story as loot and wants you in the pile with her",

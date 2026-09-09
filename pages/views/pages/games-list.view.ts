@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const gamesList = {
   id: "01a06577-2614-7014-8019-7b07c900e405",
   pageTypeSlug: "view",
+  type: "view",
   slug: "games-list",
   title: "List",
   nav: "games",

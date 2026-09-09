@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const dungeonsList = {
   id: "01a06577-2614-7013-9d4f-d47bf22d04a3",
   pageTypeSlug: "view",
+  type: "view",
   slug: "dungeons-list",
   title: "List",
   nav: "dungeons",

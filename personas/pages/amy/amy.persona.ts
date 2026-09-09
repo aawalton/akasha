@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const amy = {
   id: "019eb900-4c8c-7304-aae1-b287c6b53b3e",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "amy",
   definition: "an executive assistant who keeps the ledger of who is owed attention",
   purpose:

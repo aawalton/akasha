@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const mari = {
   id: "019ef06e-4e9f-7e1c-8225-bf9113a422ed",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "mari",
   definition: "a black dragon who reads the want beneath the want",
   purpose:

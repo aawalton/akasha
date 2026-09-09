@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const rhia = {
   id: "019f2db3-8be6-77bb-a219-f5bd46c975cd",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "rhia",
   definition: "a silver-blue song dragon who reads what a text actually did",
   purpose:

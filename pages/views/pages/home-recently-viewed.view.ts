@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const homeRecentlyViewed = {
   id: "01a06577-2614-7016-b2b1-18432b950d21",
   pageTypeSlug: "view",
+  type: "view",
   slug: "home-recently-viewed",
   title: "Recently Viewed",
   nav: "home",

@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const attributesReadings = {
   id: "01a07cd7-2bb6-7d40-acb4-895746f0208f",
   pageTypeSlug: "view",
+  type: "view",
   slug: "attributes-readings",
   title: "Readings",
   nav: "attributes",

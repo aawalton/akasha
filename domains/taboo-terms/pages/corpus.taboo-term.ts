@@ -3,6 +3,7 @@ import type { TabooTerm } from "../taboo-term.page-type.ts"
 export const corpus = {
   id: "01a0593e-da23-7013-9d2c-4b84b9e42d34",
   pageTypeSlug: "taboo-term",
+  type: "taboo-term",
   slug: "corpus",
   pattern: "\\bcorpus\\b",
   tabooSenses: [

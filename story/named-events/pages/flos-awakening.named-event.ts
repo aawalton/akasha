@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const flosAwakening = {
   id: "019f6865-76e9-7585-975b-beda295ae415",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "flos-awakening",
   title: "Flos of Reim awakens (end of the slumber)",
   aliases: ["king-of-destruction-awakes", "king-of-destruction-slumber"],

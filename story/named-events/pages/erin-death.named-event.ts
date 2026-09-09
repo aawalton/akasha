@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const erinDeath = {
   id: "019f6865-75be-765d-b2f1-c85f26b367b2",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "erin-death",
   title: "Erin shot / enters stasis",
   aliases: ["erin-stasis", "erins-death", "erin-frozen"],

@@ -3,6 +3,7 @@ import type { EsoInterface } from "@akasha/code/eso-interface"
 export const mediaPcBackupfontZh = {
   id: "01a06069-f8c6-7cb5-8e32-7b8555198f5d",
   pageTypeSlug: "eso-interface",
+  type: "eso-interface",
   slug: "media-pc-backupfont-zh",
   definition: "the fallback fonts a Windows or Mac client loads for Chinese",
   markup: "xml",

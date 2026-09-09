@@ -3,6 +3,7 @@ import type { TabooTerm } from "../taboo-term.page-type.ts"
 export const unrecorded = {
   id: "01a0593e-da41-74e9-b227-5dab951b1185",
   pageTypeSlug: "taboo-term",
+  type: "taboo-term",
   slug: "unrecorded",
   pattern: "\\bunrecorded\\b",
   tabooSenses: [

@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const echo = {
   id: "019f2d60-be8c-7d34-9a2a-7d238b25b325",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "echo",
   definition: "an Oread from the gorge who takes a written story and gives it back heard",
   purpose:

@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const battleOfInvrisil = {
   id: "019f6865-7492-7023-a96e-3cceec435d1a",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "battle-of-invrisil",
   title: "Battle of Invrisil (Zel Shivertail falls)",
   aliases: ["battle-invrisil", "invrisil-battle", "zel-shivertail-death"],

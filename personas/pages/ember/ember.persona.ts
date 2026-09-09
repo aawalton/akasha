@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const ember = {
   id: "019f23e9-665d-7dd0-987b-59e3d476fdd7",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "ember",
   cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
   desktopWallpaper: "png",

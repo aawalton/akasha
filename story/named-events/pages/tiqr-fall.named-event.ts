@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const tiqrFall = {
   id: "019f6865-77be-7f7c-af73-08f45ecc2df6",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "tiqr-fall",
   title: "Fall of Tiqr",
   aliases: ["tiqr-surrender"],

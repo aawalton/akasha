@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const zeli = {
   id: "019ee230-9ab9-7e88-b555-c8a536318388",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "zeli",
   definition: "Rapunzel still in her tower, a maker in any medium the hands can reach",
   purpose:

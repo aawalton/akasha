@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const mathPropositions = {
   id: "01a06577-2614-701b-b472-79b749355411",
   pageTypeSlug: "view",
+  type: "view",
   slug: "math-propositions",
   title: "Propositions",
   nav: "math",

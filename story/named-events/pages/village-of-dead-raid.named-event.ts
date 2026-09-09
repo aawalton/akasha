@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const villageOfDeadRaid = {
   id: "019f6865-7686-73c0-912c-8cbd131df2f2",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "village-of-dead-raid",
   title: "Village of the Dead raid (Horns vanish)",
   aliases: ["horns-death", "horns-vanish", "village-dead-raided"],

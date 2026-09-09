@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const tasksNotCompleted = {
   id: "01a06577-2615-700b-ba4a-6d91b781b8ac",
   pageTypeSlug: "view",
+  type: "view",
   slug: "tasks-not-completed",
   title: "Not Completed",
   nav: "tasks",

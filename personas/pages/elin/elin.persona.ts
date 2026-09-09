@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const elin = {
   id: "019f2ddc-5bad-745b-8e96-cf5a9a9343f2",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "elin",
   definition:
     "a white opal collecting dragon, who keeps the catalogue and knows what belongs with what",

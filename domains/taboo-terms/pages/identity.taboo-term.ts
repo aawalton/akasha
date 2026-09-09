@@ -3,6 +3,7 @@ import type { TabooTerm } from "../taboo-term.page-type.ts"
 export const identity = {
   id: "01a0593e-da2e-7138-980e-60713a5f4dca",
   pageTypeSlug: "taboo-term",
+  type: "taboo-term",
   slug: "identity",
   pattern: '(?<![-.])\\bidentity\\b(?![/"])',
   tabooSenses: [

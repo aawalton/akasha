@@ -3,6 +3,7 @@ import type { TabooTerm } from "../taboo-term.page-type.ts"
 export const pin = {
   id: "01a0593e-da35-7884-bd93-cff8c3174eb1",
   pageTypeSlug: "taboo-term",
+  type: "taboo-term",
   slug: "pin",
   pattern: "\\bpin\\b",
   tabooSenses: [

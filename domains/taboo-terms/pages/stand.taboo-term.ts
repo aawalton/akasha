@@ -3,6 +3,7 @@ import type { TabooTerm } from "../taboo-term.page-type.ts"
 export const stand = {
   id: "01a05cfe-1cad-7674-ab61-e3865ae14bae",
   pageTypeSlug: "taboo-term",
+  type: "taboo-term",
   slug: "stand",
   pattern: "(?<![a-z])(stands?|standing|stood)(?![a-z])",
   tabooSenses: [

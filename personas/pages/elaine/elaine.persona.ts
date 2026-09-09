@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const elaine = {
   id: "019f04fb-947b-7686-8b7d-17141a85af4a",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "elaine",
   definition:
     "a girl who died on Earth, woke on Pallos, and spent the second life becoming a Healer",

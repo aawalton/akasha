@@ -3,6 +3,7 @@ import type { Persona } from "../../persona.page-type.ts"
 export const awen = {
   id: "019f10d8-7045-7647-8ce2-e9b7ed28736b",
   pageTypeSlug: "persona",
+  type: "persona",
   slug: "awen",
   definition: "a princess with an engineer's hands, who builds things that are lovely and hold",
   purpose:

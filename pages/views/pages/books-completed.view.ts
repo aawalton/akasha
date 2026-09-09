@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const booksCompleted = {
   id: "01a06577-2614-700b-8109-abdde8bac2bc",
   pageTypeSlug: "view",
+  type: "view",
   slug: "books-completed",
   title: "Completed",
   nav: "books",

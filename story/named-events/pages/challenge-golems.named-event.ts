@@ -3,6 +3,7 @@ import type { NamedEvent } from "../named-event.page-type.ts"
 export const challengeGolems = {
   id: "019f6865-7c61-74a4-82e6-e27251c3bdb5",
   pageTypeSlug: "named-event",
+  type: "named-event",
   slug: "challenge-golems",
   title: "Wistram golem challenge",
   aliases: ["wistram-golem-challenge"],

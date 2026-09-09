@@ -3,6 +3,7 @@ import type { View } from "../view.page-type.ts"
 export const widgetsUse = {
   id: "01a07c99-d4ae-7dac-be34-5aa8cdd57108",
   pageTypeSlug: "view",
+  type: "view",
   slug: "widgets-use",
   title: "Use",
   nav: "widgets",
