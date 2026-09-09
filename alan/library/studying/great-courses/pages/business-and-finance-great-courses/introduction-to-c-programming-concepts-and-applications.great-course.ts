@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const introductionToCProgrammingConceptsAndApplications = {
   id: "019db533-f3a0-7462-be4a-97bfd096efbe",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "introduction-to-c-programming-concepts-and-applications",
   title: "Introduction to C++: Programming Concepts and Applications",
   status: "not-started",

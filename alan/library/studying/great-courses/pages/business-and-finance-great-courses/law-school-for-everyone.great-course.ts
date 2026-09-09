@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lawSchoolForEveryone = {
   id: "019db533-f39e-7a55-8120-72daf4ecbe04",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "law-school-for-everyone",
   title: "Law School for Everyone",
   status: "not-started",

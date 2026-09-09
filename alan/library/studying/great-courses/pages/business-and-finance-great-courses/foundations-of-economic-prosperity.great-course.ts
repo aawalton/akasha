@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const foundationsOfEconomicProsperity = {
   id: "019db533-f39e-74f1-b127-76f1a94a4024",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "foundations-of-economic-prosperity",
   title: "Foundations of Economic Prosperity",
   status: "not-started",

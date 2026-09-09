@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToPlanForThePerfectRetirement = {
   id: "019db533-f39e-774d-9230-d3acc6a196c6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-plan-for-the-perfect-retirement",
   title: "How to Plan for the Perfect Retirement",
   status: "not-started",

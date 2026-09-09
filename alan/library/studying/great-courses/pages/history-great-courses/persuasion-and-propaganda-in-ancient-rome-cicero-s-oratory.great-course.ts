@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   id: "019db533-f39f-7d84-9067-f277131defd3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "persuasion-and-propaganda-in-ancient-rome-cicero-s-oratory",
   title: "Persuasion and Propaganda in Ancient Rome: Cicero's Oratory",
   status: "completed",

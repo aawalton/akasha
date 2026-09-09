@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureCatherineTheGreat = {
   id: "019db533-f3a0-70fe-8caf-76238464bb48",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-catherine-the-great",
   title: "Pilot Lecture: Catherine the Great",
   status: "completed",

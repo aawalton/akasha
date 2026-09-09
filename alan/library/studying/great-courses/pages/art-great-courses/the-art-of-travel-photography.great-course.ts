@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theArtOfTravelPhotography = {
   id: "019db533-f39f-746e-ab09-27ab782c574d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-art-of-travel-photography",
   title: "The Art of Travel Photography",
   status: "completed",

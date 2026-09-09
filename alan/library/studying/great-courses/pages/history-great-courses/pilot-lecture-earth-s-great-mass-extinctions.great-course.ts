@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureEarthSGreatMassExtinctions = {
   id: "019db533-f39f-7d5a-b0b5-9421d444ee43",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-earth-s-great-mass-extinctions",
   title: "Pilot Lecture: Earth’s Great Mass Extinctions",
   status: "completed",

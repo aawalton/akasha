@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEvolutionOfAmericanFederalism = {
   id: "019db533-f39f-7792-8d80-c02fe19e233b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-evolution-of-american-federalism",
   title: "The Evolution of American Federalism",
   status: "not-started",

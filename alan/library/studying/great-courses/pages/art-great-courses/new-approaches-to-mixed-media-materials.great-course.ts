@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const newApproachesToMixedMediaMaterials = {
   id: "019db533-f39f-7581-b0cc-abfc166e31cd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "new-approaches-to-mixed-media-materials",
   title: "New Approaches to Mixed Media Materials",
   status: "completed",

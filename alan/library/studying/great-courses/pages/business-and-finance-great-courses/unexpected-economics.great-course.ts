@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const unexpectedEconomics = {
   id: "019db533-f39e-732a-9c01-59a1dfffb29b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "unexpected-economics",
   title: "Unexpected Economics",
   status: "not-started",

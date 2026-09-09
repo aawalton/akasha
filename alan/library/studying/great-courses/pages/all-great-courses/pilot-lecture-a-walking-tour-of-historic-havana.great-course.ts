@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureAWalkingTourOfHistoricHavana = {
   id: "019db533-f398-7397-bc8c-bf2ee817a29f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-a-walking-tour-of-historic-havana",
   title: "Pilot Lecture: A Walking Tour of Historic Havana",
   status: "completed",

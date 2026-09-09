@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theDecisiveBattlesOfWorldHistory = {
   id: "019db533-f39f-7908-8d0e-3c7888858306",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-decisive-battles-of-world-history",
   title: "The Decisive Battles of World History",
   status: "completed",

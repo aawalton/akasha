@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fundamentalsOfPhotographyIi = {
   id: "019db533-f39f-76e1-808f-be4eed8f66ff",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "fundamentals-of-photography-ii",
   title: "Fundamentals of Photography II",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theSurveillanceStateBigDataFreedomAndYou = {
   id: "019db533-f39e-73e1-bf2f-0d841737aa09",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-surveillance-state-big-data-freedom-and-you",
   title: "The Surveillance State: Big Data, Freedom, and You",
   status: "not-started",

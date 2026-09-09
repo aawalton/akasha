@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const handLetteringForBeginners = {
   id: "019db533-f39f-76ab-86cb-49e982df610f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "hand-lettering-for-beginners",
   title: "Hand-Lettering for Beginners",
   status: "completed",

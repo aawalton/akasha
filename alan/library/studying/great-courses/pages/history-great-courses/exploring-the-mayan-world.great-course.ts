@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const exploringTheMayanWorld = {
   id: "019db533-f3a0-74ae-834f-0d3bd9b171a7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "exploring-the-mayan-world",
   title: "Exploring the Mayan World",
   status: "completed",

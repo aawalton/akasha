@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingWesternArtStoriesStylesAndMasterworks = {
   id: "019db533-f38a-755c-9b4e-aa52cfeed23f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-western-art-stories-styles-and-masterworks",
   title: "Understanding Western Art: Stories, Styles, and Masterworks",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const essentialsOfStrengthTraining = {
   id: "019db533-f3a0-7979-a66c-ca3d3822c4c9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "essentials-of-strength-training",
   title: "Essentials of Strength Training",
   status: "completed",

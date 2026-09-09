@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const jewelryDesignForBeadArtists = {
   id: "019db533-f39f-78bd-aa48-64eca9923eac",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "jewelry-design-for-bead-artists",
   title: "Jewelry Design for Bead Artists",
   status: "completed",

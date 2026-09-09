@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const passionsPhilosophyAndTheIntelligenceOfEmotions = {
   id: "019db533-f3a0-777c-8a66-1ae6a0fc3c9e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "passions-philosophy-and-the-intelligence-of-emotions",
   title: "Passions: Philosophy and the Intelligence of Emotions",
   status: "not-started",

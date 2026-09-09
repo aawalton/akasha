@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const decodingTheSecretsOfEgyptianHieroglyphs = {
   id: "019db533-f39f-7eb7-943e-b9e32672580b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "decoding-the-secrets-of-egyptian-hieroglyphs",
   title: "Decoding the Secrets of Egyptian Hieroglyphs",
   status: "completed",

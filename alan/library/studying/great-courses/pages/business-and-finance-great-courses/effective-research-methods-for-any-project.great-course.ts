@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const effectiveResearchMethodsForAnyProject = {
   id: "019db533-f39e-74a2-92f0-f83b464e5618",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "effective-research-methods-for-any-project",
   title: "Effective Research Methods for Any Project",
   status: "not-started",

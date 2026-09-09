@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePerfectCupcake = {
   id: "019db533-f39f-772b-9aae-532dfa86b4f8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-perfect-cupcake",
   title: "The Perfect Cupcake",
   status: "completed",

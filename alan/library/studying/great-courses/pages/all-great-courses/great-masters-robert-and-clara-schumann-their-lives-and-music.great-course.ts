@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMastersRobertAndClaraSchumannTheirLivesAndMusic = {
   id: "019db533-f388-705b-ba5f-d0384ab14e4a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-masters-robert-and-clara-schumann-their-lives-and-music",
   title: "Great Masters: Robert and Clara Schumann—Their Lives and Music",
   status: "not-started",

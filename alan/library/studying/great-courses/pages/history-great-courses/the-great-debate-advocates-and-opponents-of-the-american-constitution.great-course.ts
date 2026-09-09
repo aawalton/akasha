@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatDebateAdvocatesAndOpponentsOfTheAmericanConstitution = {
   id: "019db533-f39f-7db9-8024-8aa74e7e7cde",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-debate-advocates-and-opponents-of-the-american-constitution",
   title: "The Great Debate: Advocates and Opponents of the American Constitution",
   status: "not-started",

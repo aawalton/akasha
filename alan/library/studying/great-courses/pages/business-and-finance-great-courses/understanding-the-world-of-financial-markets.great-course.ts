@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheWorldOfFinancialMarkets = {
   id: "019db533-f39e-72e9-adab-3d81a6f1f36e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-world-of-financial-markets",
   title: "Understanding the World of Financial Markets",
   status: "not-started",

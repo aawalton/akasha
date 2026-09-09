@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theMayoClinicGuideToPainRelief = {
   id: "019db533-f3a0-76f3-a63d-86a3838acdaf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-mayo-clinic-guide-to-pain-relief",
   title: "The Mayo Clinic Guide to Pain Relief",
   status: "not-started",

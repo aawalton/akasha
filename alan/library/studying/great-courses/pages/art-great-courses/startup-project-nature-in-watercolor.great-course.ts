@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const startupProjectNatureInWatercolor = {
   id: "019db533-f39f-7405-a745-6b8fc50aae1b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "startup-project-nature-in-watercolor",
   title: "Startup Project: Nature in Watercolor",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLecturePyramidsOfTheWorldAngkorWat = {
   id: "019db533-f3a0-7112-8c7e-463bb92a6a16",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-pyramids-of-the-world-angkor-wat",
   title: "Pilot Lecture: Pyramids of the World—Angkor Wat",
   status: "completed",

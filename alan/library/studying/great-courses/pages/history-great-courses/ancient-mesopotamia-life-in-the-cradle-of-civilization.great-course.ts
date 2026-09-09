@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   id: "019db533-f39f-7b73-ac0a-8ca0aa0eebde",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "ancient-mesopotamia-life-in-the-cradle-of-civilization",
   title: "Ancient Mesopotamia: Life in the Cradle of Civilization",
   status: "completed",

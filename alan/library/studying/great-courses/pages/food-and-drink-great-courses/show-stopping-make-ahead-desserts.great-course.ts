@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const showStoppingMakeAheadDesserts = {
   id: "019db533-f39f-795d-9f86-9f373c96f769",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "show-stopping-make-ahead-desserts",
   title: "Show-Stopping Make-Ahead Desserts",
   status: "completed",

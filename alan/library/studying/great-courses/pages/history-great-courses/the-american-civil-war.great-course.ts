@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theAmericanCivilWar = {
   id: "019db533-f3a0-7096-a9ff-6f9839ab1be3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-american-civil-war",
   title: "The American Civil War",
   status: "completed",

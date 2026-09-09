@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const tocquevilleAndTheAmericanExperiment = {
   id: "019db533-f387-7f9b-8400-513bfe8bdeb4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "tocqueville-and-the-american-experiment",
   title: "Tocqueville and the American Experiment",
   status: "not-started",

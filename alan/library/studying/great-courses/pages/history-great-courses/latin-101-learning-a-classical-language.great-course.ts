@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const latin101LearningAClassicalLanguage = {
   id: "019db533-f39f-7e78-b1b0-0f0659247ad4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "latin-101-learning-a-classical-language",
   title: "Latin 101: Learning a Classical Language",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theScienceOfIntegrativeMedicine = {
   id: "019db533-f3a0-761e-b22f-f8c807603920",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-science-of-integrative-medicine",
   title: "The Science of Integrative Medicine",
   status: "not-started",

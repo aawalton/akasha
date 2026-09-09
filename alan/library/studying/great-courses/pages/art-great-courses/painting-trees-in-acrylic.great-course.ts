@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const paintingTreesInAcrylic = {
   id: "019db533-f39f-7596-a68f-9cdcba0088d1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "painting-trees-in-acrylic",
   title: "Painting Trees in Acrylic",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistoryOfEuropeanArt = {
   id: "019db533-f39f-765f-a190-3940beffa014",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-history-of-european-art",
   title: "A History of European Art",
   status: "completed",

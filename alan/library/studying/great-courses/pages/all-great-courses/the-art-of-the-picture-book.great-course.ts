@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theArtOfThePictureBook = {
   id: "019db533-f389-717c-8cf1-cdc5c9f3ca94",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-art-of-the-picture-book",
   title: "The Art of the Picture Book",
   status: "completed",

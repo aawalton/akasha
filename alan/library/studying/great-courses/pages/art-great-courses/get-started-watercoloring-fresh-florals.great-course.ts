@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const getStartedWatercoloringFreshFlorals = {
   id: "019db533-f39f-7696-aa4e-b624b6eea1c4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "get-started-watercoloring-fresh-florals",
   title: "Get Started Watercoloring: Fresh Florals",
   status: "completed",

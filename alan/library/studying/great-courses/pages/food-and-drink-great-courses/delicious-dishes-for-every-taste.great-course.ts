@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const deliciousDishesForEveryTaste = {
   id: "019db533-f39f-79fe-9734-1d1fd8370315",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "delicious-dishes-for-every-taste",
   title: "Delicious Dishes for Every Taste",
   status: "completed",

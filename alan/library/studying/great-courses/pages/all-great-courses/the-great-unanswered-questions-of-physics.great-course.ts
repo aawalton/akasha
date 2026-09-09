@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatUnansweredQuestionsOfPhysics = {
   id: "019db533-f389-7141-939d-bb5945fcd753",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-unanswered-questions-of-physics",
   title: "The Great Unanswered Questions of Physics",
   status: "not-started",

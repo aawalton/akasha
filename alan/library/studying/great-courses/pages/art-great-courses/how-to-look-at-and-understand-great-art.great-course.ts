@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToLookAtAndUnderstandGreatArt = {
   id: "019db533-f39f-7615-96d0-87c98b82778f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-look-at-and-understand-great-art",
   title: "How to Look at and Understand Great Art",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatVillainsOfHistory = {
   id: "01a06578-6718-7005-b8f2-5dd254a23519",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-villains-of-history",
   title: "The Great Villains of History",
   status: "not-started",

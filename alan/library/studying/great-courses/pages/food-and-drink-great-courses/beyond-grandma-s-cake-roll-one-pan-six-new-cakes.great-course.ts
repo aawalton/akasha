@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
   id: "019db533-f39f-7b7e-9093-ec7389f53970",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "beyond-grandma-s-cake-roll-one-pan-six-new-cakes",
   title: "Beyond Grandma's Cake Roll: One Pan, Six New Cakes",
   status: "completed",

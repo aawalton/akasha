@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const essentialTechniquesForOutstandingPaintings = {
   id: "019db533-f398-7412-828a-b685e54bd79e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "essential-techniques-for-outstanding-paintings",
   title: "Essential Techniques for Outstanding Paintings",
   status: "completed",

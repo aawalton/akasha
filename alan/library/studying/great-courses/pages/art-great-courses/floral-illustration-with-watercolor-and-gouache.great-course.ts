@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const floralIllustrationWithWatercolorAndGouache = {
   id: "019db533-f39f-7a53-8274-d0a0fe0b3af0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "floral-illustration-with-watercolor-and-gouache",
   title: "Floral Illustration With Watercolor & Gouache",
   status: "completed",

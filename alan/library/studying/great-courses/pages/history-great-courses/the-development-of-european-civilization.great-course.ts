@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theDevelopmentOfEuropeanCivilization = {
   id: "019db533-f39f-7d45-9374-dbeb7902154c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-development-of-european-civilization",
   title: "The Development of European Civilization",
   status: "not-started",

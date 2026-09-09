@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursFranceThroughTheAges = {
   id: "019db533-f39f-7cb0-8446-a2be4478088d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-france-through-the-ages",
   title: "The Great Tours: France through the Ages",
   status: "completed",

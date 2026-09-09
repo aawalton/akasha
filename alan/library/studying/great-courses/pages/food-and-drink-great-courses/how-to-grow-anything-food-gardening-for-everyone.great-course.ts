@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToGrowAnythingFoodGardeningForEveryone = {
   id: "019db533-f39f-7988-be0d-bd3ce595ab2f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-grow-anything-food-gardening-for-everyone",
   title: "How to Grow Anything: Food Gardening for Everyone",
   status: "completed",

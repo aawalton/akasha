@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const bigHistoryTheBigBangLifeOnEarthAndTheRiseOfHumanity = {
   id: "019db533-f39f-7eac-8218-6080ffab5ee9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "big-history-the-big-bang-life-on-earth-and-the-rise-of-humanity",
   title: "Big History: The Big Bang, Life on Earth, and the Rise of Humanity",
   status: "completed",

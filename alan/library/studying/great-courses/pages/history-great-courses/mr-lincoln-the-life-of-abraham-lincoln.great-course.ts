@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mrLincolnTheLifeOfAbrahamLincoln = {
   id: "019db533-f39f-7dae-9081-e036c89bb2a2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mr-lincoln-the-life-of-abraham-lincoln",
   title: "Mr. Lincoln: The Life of Abraham Lincoln",
   status: "not-started",

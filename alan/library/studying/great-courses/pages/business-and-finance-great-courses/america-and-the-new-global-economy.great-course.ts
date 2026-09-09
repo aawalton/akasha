@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const americaAndTheNewGlobalEconomy = {
   id: "019db533-f3a0-7162-916c-9845b4cb45c0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "america-and-the-new-global-economy",
   title: "America and the New Global Economy",
   status: "completed",

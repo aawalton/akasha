@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const medievalEuropeCrisisAndRenewal = {
   id: "019db533-f388-70d2-a05a-91ffd25cf5e6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "medieval-europe-crisis-and-renewal",
   title: "Medieval Europe: Crisis and Renewal",
   status: "not-started",

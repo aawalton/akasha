@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const anIntroductionToInfectiousDiseases = {
   id: "019db533-f3a0-7964-8394-f6ffcfb7b7f9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "an-introduction-to-infectious-diseases",
   title: "An Introduction to Infectious Diseases",
   status: "completed",

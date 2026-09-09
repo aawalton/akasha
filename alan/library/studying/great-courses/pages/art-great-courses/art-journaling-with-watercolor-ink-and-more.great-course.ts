@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const artJournalingWithWatercolorInkAndMore = {
   id: "019db533-f39f-75f5-9e8a-b90930e10f7e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "art-journaling-with-watercolor-ink-and-more",
   title: "Art Journaling With Watercolor, Ink & More",
   status: "completed",

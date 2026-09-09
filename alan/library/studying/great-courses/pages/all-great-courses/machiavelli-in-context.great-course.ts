@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const machiavelliInContext = {
   id: "019db533-f388-7067-9fe1-8dc78761deb4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "machiavelli-in-context",
   title: "Machiavelli in Context",
   status: "not-started",

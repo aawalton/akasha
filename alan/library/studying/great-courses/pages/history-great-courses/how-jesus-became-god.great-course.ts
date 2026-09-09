@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howJesusBecameGod = {
   id: "019db533-f39f-7868-9f07-058dbefd6895",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-jesus-became-god",
   title: "How Jesus Became God",
   status: "completed",

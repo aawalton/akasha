@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const changingBodyCompositionThroughDietAndExercise = {
   id: "019db533-f3a0-794e-9d67-1cd4e99c34c1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "changing-body-composition-through-diet-and-exercise",
   title: "Changing Body Composition through Diet and Exercise",
   status: "not-started",

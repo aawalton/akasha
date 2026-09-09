@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const qigongFlowForHealthAndHappiness = {
   id: "019db533-f3a0-7885-b492-770f925d545f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "qigong-flow-for-health-and-happiness",
   title: "Qigong Flow for Health and Happiness",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const gutHealthExplained = {
   id: "019db533-f3a0-7924-bdb1-f7e088d8d6ff",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "gut-health-explained",
   title: "Gut Health Explained",
   status: "not-started",

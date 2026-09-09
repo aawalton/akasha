@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingInvestments = {
   id: "019db533-f3a0-71d6-b6cf-2c0946bf4c0b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-investments",
   title: "Understanding Investments",
   status: "not-started",

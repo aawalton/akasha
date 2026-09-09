@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEntrepreneurSToolkit = {
   id: "019db533-f39e-77f2-9765-65159dc440e3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-entrepreneur-s-toolkit",
   title: "The Entrepreneur's Toolkit",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mixedMediaPenInkAndWatercolor = {
   id: "019db533-f39f-7576-8aa1-e0e5a6c75070",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mixed-media-pen-ink-and-watercolor",
   title: "Mixed Media: Pen, Ink & Watercolor",
   status: "completed",

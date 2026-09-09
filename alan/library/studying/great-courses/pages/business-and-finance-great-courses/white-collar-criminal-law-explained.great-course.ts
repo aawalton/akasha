@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const whiteCollarCriminalLawExplained = {
   id: "019db533-f39e-72f1-84a4-5d34fc169207",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "white-collar-criminal-law-explained",
   title: "White Collar Criminal Law Explained",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   id: "019db533-f39f-79b3-9d14-af884f913fae",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
   title: "The Everyday Gourmet: Essential Secrets of Spices in Cooking",
   status: "completed",

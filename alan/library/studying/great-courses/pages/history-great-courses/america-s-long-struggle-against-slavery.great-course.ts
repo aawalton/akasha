@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const americaSLongStruggleAgainstSlavery = {
   id: "019db533-f39f-7b88-9413-6f230148a679",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "america-s-long-struggle-against-slavery",
   title: "America’s Long Struggle against Slavery",
   status: "completed",

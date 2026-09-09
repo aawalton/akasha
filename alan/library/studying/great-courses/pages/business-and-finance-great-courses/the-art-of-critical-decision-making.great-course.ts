@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theArtOfCriticalDecisionMaking = {
   id: "019db533-f39e-7a4d-a3a8-1433fe9a5ce4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-art-of-critical-decision-making",
   title: "The Art of Critical Decision Making",
   status: "not-started",

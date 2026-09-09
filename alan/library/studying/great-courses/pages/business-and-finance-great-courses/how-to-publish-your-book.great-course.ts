@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToPublishYourBook = {
   id: "019db533-f39e-782f-8634-8dc7e2bac458",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-publish-your-book",
   title: "How to Publish Your Book",
   status: "not-started",

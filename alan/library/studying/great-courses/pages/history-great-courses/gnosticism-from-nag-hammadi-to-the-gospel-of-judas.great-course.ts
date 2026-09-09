@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const gnosticismFromNagHammadiToTheGospelOfJudas = {
   id: "019db533-f39f-7e97-b6e1-8cbc18750aaf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "gnosticism-from-nag-hammadi-to-the-gospel-of-judas",
   title: "Gnosticism: From Nag Hammadi to the Gospel of Judas",
   status: "completed",

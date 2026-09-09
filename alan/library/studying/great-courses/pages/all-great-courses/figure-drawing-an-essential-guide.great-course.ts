@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const figureDrawingAnEssentialGuide = {
   id: "019db533-f398-7405-8ed1-589a4143707b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "figure-drawing-an-essential-guide",
   title: "Figure Drawing: An Essential Guide",
   status: "completed",

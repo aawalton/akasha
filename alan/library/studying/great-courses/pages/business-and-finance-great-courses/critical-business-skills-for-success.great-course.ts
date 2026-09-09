@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const criticalBusinessSkillsForSuccess = {
   id: "019db533-f39e-7af2-a025-1001616633ae",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "critical-business-skills-for-success",
   title: "Critical Business Skills for Success",
   status: "in-progress",

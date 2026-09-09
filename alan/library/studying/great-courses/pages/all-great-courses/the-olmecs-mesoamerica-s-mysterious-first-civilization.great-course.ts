@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   id: "019db533-f398-7390-8f8e-4e1327d8d4f1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
   title: "The Olmecs: Mesoamerica’s Mysterious First Civilization",
   status: "not-started",

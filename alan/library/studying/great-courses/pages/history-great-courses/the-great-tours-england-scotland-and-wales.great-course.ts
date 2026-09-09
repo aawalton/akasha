@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursEnglandScotlandAndWales = {
   id: "019db533-f39f-7bfe-95be-91d2526c9118",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-england-scotland-and-wales",
   title: "The Great Tours: England, Scotland, and Wales",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const gettingStartedWithColoredPencilAndWatercolor = {
   id: "019db533-f39f-7620-9dbb-8b8c24faadbc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "getting-started-with-colored-pencil-and-watercolor",
   title: "Getting Started With Colored Pencil & Watercolor",
   status: "completed",

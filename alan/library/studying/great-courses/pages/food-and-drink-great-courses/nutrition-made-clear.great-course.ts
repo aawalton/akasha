@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const nutritionMadeClear = {
   id: "019db533-f3a0-77bc-a3b7-a62b47a8af1d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "nutrition-made-clear",
   title: "Nutrition Made Clear",
   status: "in-progress",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatCastlesOfEurope = {
   id: "019db533-f3a0-716c-83cc-bf0aad693508",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-castles-of-europe",
   title: "Great Castles of Europe",
   status: "not-started",

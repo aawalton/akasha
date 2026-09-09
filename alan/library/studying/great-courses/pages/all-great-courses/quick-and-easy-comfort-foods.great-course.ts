@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const quickAndEasyComfortFoods = {
   id: "019db533-f38a-7579-b736-22e3b5ada003",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "quick-and-easy-comfort-foods",
   title: "Quick and Easy Comfort Foods",
   status: "completed",

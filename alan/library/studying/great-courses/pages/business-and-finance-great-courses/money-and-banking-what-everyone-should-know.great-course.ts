@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const moneyAndBankingWhatEveryoneShouldKnow = {
   id: "019db533-f3a0-7343-b130-fd5091c68ca1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "money-and-banking-what-everyone-should-know",
   title: "Money and Banking: What Everyone Should Know",
   status: "not-started",

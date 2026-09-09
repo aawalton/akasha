@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
   id: "019db533-f3a0-71f7-bcc9-67a7dc3bd815",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-history-and-achievements-of-the-islamic-golden-age",
   title: "The History and Achievements of the Islamic Golden Age",
   status: "not-started",

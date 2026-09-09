@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const billCoorsTheWillToLive = {
   id: "019db533-f3a0-7a4e-8a64-be099e3476f1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "bill-coors-the-will-to-live",
   title: "Bill Coors: The Will to Live",
   status: "completed",

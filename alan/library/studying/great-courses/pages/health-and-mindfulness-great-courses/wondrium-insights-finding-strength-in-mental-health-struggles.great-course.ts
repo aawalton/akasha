@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   id: "019db533-f3a0-7534-90d4-37c14935ae00",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "wondrium-insights-finding-strength-in-mental-health-struggles",
   title: "Wondrium Insights: Finding Strength in Mental Health Struggles",
   status: "completed",

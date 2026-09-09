@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lifelongHealthAchievingOptimumWellBeingAtAnyAge = {
   id: "019db533-f3a0-78c5-b00d-2d8506dcf091",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "lifelong-health-achieving-optimum-well-being-at-any-age",
   title: "Lifelong Health: Achieving Optimum Well-Being at Any Age",
   status: "not-started",

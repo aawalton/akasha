@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const conquestOfTheAmericas = {
   id: "019db533-f39f-7e8d-9bf0-c6669ec1e4da",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "conquest-of-the-americas",
   title: "Conquest of the Americas",
   status: "not-started",

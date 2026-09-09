@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
   id: "019db533-f3a0-7574-974a-b6f0184783c0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "big-data-how-data-analytics-is-transforming-the-world",
   title: "Big Data: How Data Analytics Is Transforming the World",
   status: "completed",

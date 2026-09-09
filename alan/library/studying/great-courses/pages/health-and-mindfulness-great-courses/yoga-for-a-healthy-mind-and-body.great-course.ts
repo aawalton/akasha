@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const yogaForAHealthyMindAndBody = {
   id: "019db533-f3a0-7529-b264-f5116d0341dc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "yoga-for-a-healthy-mind-and-body",
   title: "Yoga for a Healthy Mind and Body",
   status: "not-started",

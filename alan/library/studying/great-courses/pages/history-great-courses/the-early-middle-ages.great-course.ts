@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEarlyMiddleAges = {
   id: "019db533-f39f-7e2e-b5cd-27f7d0bf5bfb",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-early-middle-ages",
   title: "The Early Middle Ages",
   status: "not-started",

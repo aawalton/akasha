@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mindBodyMedicineTheNewScienceOfOptimalHealth = {
   id: "019db533-f3a0-7787-8e1b-18a115077e48",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mind-body-medicine-the-new-science-of-optimal-health",
   title: "Mind-Body Medicine: The New Science of Optimal Health",
   status: "not-started",

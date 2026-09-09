@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theFallAndRiseOfChina = {
   id: "019db533-f3a0-70a9-92bf-659832bbc953",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-fall-and-rise-of-china",
   title: "The Fall and Rise of China",
   status: "in-progress",

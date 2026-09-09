@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatPharaohsOfAncientEgypt = {
   id: "019db533-f3a0-7188-b214-31f28e7b4766",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-pharaohs-of-ancient-egypt",
   title: "Great Pharaohs of Ancient Egypt",
   status: "completed",

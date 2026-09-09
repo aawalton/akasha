@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const artisanBreadMaking = {
   id: "019db533-f39f-7b13-8f9a-e4fbbfc910b9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "artisan-bread-making",
   title: "Artisan Bread Making",
   status: "completed",

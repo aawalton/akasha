@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistoryOfHitlerSEmpire2ndEdition = {
   id: "019db533-f39f-7ae8-9272-740bfec53829",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-history-of-hitler-s-empire-2nd-edition",
   title: "A History of Hitler's Empire, 2nd Edition",
   status: "completed",

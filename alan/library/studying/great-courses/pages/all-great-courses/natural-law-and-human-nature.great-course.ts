@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const naturalLawAndHumanNature = {
   id: "019db533-f388-70c0-ad93-0443518b5740",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "natural-law-and-human-nature",
   title: "Natural Law and Human Nature",
   status: "not-started",

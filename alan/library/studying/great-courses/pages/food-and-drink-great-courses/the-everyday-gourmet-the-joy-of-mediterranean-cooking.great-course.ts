@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEverydayGourmetTheJoyOfMediterraneanCooking = {
   id: "019db533-f39f-7968-8a79-66523448030c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
   title: "The Everyday Gourmet: The Joy of Mediterranean Cooking",
   status: "not-started",

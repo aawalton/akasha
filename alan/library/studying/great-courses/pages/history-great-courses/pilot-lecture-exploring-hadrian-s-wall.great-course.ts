@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureExploringHadrianSWall = {
   id: "019db533-f3a0-70fa-adb1-9d9da721d178",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-exploring-hadrian-s-wall",
   title: "Pilot Lecture: Exploring Hadrian’s Wall",
   status: "completed",

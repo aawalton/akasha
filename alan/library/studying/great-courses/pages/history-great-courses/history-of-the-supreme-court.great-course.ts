@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const historyOfTheSupremeCourt = {
   id: "019db533-f39f-7f56-a85a-048fdd8b49f0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "history-of-the-supreme-court",
   title: "History of the Supreme Court",
   status: "completed",

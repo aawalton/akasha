@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const nationalGeographicMastersOfPhotography = {
   id: "019db533-f39f-75b6-a2d4-790437d1498a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "national-geographic-masters-of-photography",
   title: "National Geographic Masters of Photography",
   status: "completed",

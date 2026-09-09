@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   id: "019db533-f387-7ef8-bfa8-b704bbf8ec9d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-birth-of-the-american-film-industry",
   title: "Pilot Lecture: The Birth of the American Film Industry",
   status: "completed",

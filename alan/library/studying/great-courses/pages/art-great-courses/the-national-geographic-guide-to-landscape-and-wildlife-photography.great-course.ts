@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theNationalGeographicGuideToLandscapeAndWildlifePhotography = {
   id: "019db533-f39f-73bb-97bc-3ea8ed675127",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-national-geographic-guide-to-landscape-and-wildlife-photography",
   title: "The National Geographic Guide to Landscape and Wildlife Photography",
   status: "completed",

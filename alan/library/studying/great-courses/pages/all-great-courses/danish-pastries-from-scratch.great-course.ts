@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const danishPastriesFromScratch = {
   id: "019db533-f38a-7553-a44a-c0d39a2492c4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "danish-pastries-from-scratch",
   title: "Danish Pastries From Scratch",
   status: "completed",

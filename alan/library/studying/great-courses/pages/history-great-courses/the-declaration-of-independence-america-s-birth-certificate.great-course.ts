@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theDeclarationOfIndependenceAmericaSBirthCertificate = {
   id: "01a06578-6718-7003-95ef-7de3db92d78b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-declaration-of-independence-america-s-birth-certificate",
   title: "The Declaration of Independence: America’s Birth Certificate",
   status: "not-started",

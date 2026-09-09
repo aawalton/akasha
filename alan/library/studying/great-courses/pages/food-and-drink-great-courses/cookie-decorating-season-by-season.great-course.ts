@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const cookieDecoratingSeasonBySeason = {
   id: "019db533-f39f-7a13-9e39-cea41e8b8c9d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "cookie-decorating-season-by-season",
   title: "Cookie Decorating Season by Season",
   status: "completed",

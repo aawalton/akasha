@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const classicCroissantsModernTechniques = {
   id: "019db533-f39f-7a7e-9378-e91ff13dad62",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "classic-croissants-modern-techniques",
   title: "Classic Croissants, Modern Techniques",
   status: "completed",

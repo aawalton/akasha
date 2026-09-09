@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const urbanLegendsExplained = {
   id: "019db533-f398-7381-b91b-99afb7abc36d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "urban-legends-explained",
   title: "Urban Legends Explained",
   status: "not-started",

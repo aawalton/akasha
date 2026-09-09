@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistoryOfIndia = {
   id: "019db533-f3a0-71f2-88f3-4f7093004f55",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-history-of-india",
   title: "A History of India",
   status: "completed",

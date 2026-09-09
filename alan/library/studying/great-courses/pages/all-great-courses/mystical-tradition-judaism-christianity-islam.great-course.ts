@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mysticalTraditionJudaismChristianityIslam = {
   id: "019db533-f388-7034-a44e-9477938ee651",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mystical-tradition-judaism-christianity-islam",
   title: "Mystical Tradition: Judaism, Christianity, Islam",
   status: "not-started",

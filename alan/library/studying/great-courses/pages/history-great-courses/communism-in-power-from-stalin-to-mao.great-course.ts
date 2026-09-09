@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const communismInPowerFromStalinToMao = {
   id: "019db533-f3a0-753f-82b2-0b08922096bf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "communism-in-power-from-stalin-to-mao",
   title: "Communism in Power: From Stalin to Mao",
   status: "not-started",

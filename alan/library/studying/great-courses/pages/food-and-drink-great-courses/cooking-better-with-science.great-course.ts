@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const cookingBetterWithScience = {
   id: "019db533-f39f-7a3e-b69b-1b0bfacdd1cd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "cooking-better-with-science",
   title: "Cooking Better with Science",
   status: "completed",

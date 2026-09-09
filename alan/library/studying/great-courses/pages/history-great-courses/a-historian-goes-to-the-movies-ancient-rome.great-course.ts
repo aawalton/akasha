@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistorianGoesToTheMoviesAncientRome = {
   id: "019db533-f3a0-723b-8734-66eb38075085",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-historian-goes-to-the-movies-ancient-rome",
   title: "A Historian Goes to the Movies: Ancient Rome",
   status: "completed",

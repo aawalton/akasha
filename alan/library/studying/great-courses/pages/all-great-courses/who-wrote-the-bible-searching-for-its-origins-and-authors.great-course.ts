@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const whoWroteTheBibleSearchingForItsOriginsAndAuthors = {
   id: "019db533-f389-7116-b645-21db310ef652",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "who-wrote-the-bible-searching-for-its-origins-and-authors",
   title: "Who Wrote the Bible? Searching for Its Origins and Authors",
   status: "not-started",

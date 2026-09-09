@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureGreatConversationsChurchillAndOrwell = {
   id: "019db533-f3a0-70b8-8493-e81da684f3e6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-great-conversations-churchill-and-orwell",
   title: "Pilot Lecture: Great Conversations: Churchill and Orwell",
   status: "completed",

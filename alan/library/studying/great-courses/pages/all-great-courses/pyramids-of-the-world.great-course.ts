@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pyramidsOfTheWorld = {
   id: "019db533-f387-7f4c-b4ab-83cf07a1415b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pyramids-of-the-world",
   title: "Pyramids of the World",
   status: "not-started",

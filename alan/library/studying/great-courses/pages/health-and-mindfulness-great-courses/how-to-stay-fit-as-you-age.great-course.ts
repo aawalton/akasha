@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToStayFitAsYouAge = {
   id: "019db533-f3a0-78ba-bde6-66ea57e946ab",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-stay-fit-as-you-age",
   title: "How to Stay Fit As You Age",
   status: "not-started",

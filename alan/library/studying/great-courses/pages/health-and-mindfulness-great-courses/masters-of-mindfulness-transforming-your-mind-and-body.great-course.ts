@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mastersOfMindfulnessTransformingYourMindAndBody = {
   id: "019db533-f3a0-787b-95f0-d256c29cd94d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "masters-of-mindfulness-transforming-your-mind-and-body",
   title: "Masters of Mindfulness: Transforming Your Mind and Body",
   status: "not-started",

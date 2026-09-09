@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const behavioralEconomicsWhenPsychologyAndEconomicsCollide = {
   id: "019db533-f39f-7075-bc49-036889b1e2ac",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "behavioral-economics-when-psychology-and-economics-collide",
   title: "Behavioral Economics: When Psychology and Economics Collide",
   status: "completed",

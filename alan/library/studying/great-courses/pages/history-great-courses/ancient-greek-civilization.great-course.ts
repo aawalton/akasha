@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const ancientGreekCivilization = {
   id: "019db533-f39f-7ed7-bdd5-bcbcfca8ac36",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "ancient-greek-civilization",
   title: "Ancient Greek Civilization",
   status: "completed",

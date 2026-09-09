@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howRailwaysTransformedTheWorld = {
   id: "019db533-f3a0-70e5-9a13-5c1e457b6950",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-railways-transformed-the-world",
   title: "How Railways Transformed the World",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theScientificGuideToHealthAndHappiness = {
   id: "019db533-f3a0-7629-9a53-0781a86cdf7d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-scientific-guide-to-health-and-happiness",
   title: "The Scientific Guide to Health and Happiness",
   status: "not-started",

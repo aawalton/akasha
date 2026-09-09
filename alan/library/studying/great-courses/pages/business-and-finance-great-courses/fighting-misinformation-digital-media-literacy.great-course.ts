@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fightingMisinformationDigitalMediaLiteracy = {
   id: "019db533-f39e-749a-a215-a85b34ea485f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "fighting-misinformation-digital-media-literacy",
   title: "Fighting Misinformation: Digital Media Literacy",
   status: "not-started",

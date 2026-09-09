@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theCompletePainterLessonsFromTheMasters = {
   id: "019db533-f39f-73b1-8667-a72003bac0cf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-complete-painter-lessons-from-the-masters",
   title: "The Complete Painter: Lessons from the Masters",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theAncientOlympics = {
   id: "019db533-f3a0-70f0-9f9f-c293dc29dab8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-ancient-olympics",
   title: "The Ancient Olympics",
   status: "completed",

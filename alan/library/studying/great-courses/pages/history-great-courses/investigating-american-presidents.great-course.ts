@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const investigatingAmericanPresidents = {
   id: "019db533-f3a0-7453-ab32-356db260f2c3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "investigating-american-presidents",
   title: "Investigating American Presidents",
   status: "not-started",

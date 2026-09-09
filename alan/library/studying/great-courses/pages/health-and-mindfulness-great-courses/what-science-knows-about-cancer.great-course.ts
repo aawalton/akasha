@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const whatScienceKnowsAboutCancer = {
   id: "019db533-f3a0-759f-8dac-db99f3662787",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "what-science-knows-about-cancer",
   title: "What Science Knows about Cancer",
   status: "not-started",

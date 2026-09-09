@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const crossroadsOfCivilizationAHistoryOfCentralAsia = {
   id: "019db533-f39f-7a5e-a6a7-c6e10e58b5d3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "crossroads-of-civilization-a-history-of-central-asia",
   title: "Crossroads of Civilization: A History of Central Asia",
   status: "not-started",

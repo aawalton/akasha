@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const masteringTaiChi = {
   id: "019db533-f3a0-77dc-bcc2-3e24f373bfb8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mastering-tai-chi",
   title: "Mastering Tai Chi",
   status: "completed",

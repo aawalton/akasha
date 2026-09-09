@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const yourBestBrain = {
   id: "019db533-f3a0-75df-92a7-01944884a4f6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "your-best-brain",
   title: "Your Best Brain",
   status: "not-started",

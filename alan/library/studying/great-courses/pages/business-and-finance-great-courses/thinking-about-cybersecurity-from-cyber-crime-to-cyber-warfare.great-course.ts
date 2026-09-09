@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thinkingAboutCybersecurityFromCyberCrimeToCyberWarfare = {
   id: "019db533-f39e-7d9c-932e-65de2c4e6f55",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
   title: "Thinking about Cybersecurity: From Cyber Crime to Cyber Warfare",
   status: "not-started",

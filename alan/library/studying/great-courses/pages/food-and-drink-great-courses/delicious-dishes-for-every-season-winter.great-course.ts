@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const deliciousDishesForEverySeasonWinter = {
   id: "019db533-f39f-79e8-8c21-b683855665fc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "delicious-dishes-for-every-season-winter",
   title: "Delicious Dishes for Every Season: Winter",
   status: "completed",

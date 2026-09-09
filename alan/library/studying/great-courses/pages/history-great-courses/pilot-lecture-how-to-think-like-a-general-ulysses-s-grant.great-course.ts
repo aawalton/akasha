@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureHowToThinkLikeAGeneralUlyssesSGrant = {
   id: "019db533-f39f-7d2f-b595-b80cc1a76be8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
   title: "Pilot Lecture: How to Think like a General—Ulysses S. Grant",
   status: "completed",

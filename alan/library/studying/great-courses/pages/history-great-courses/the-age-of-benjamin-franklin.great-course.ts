@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theAgeOfBenjaminFranklin = {
   id: "019db533-f39f-7d3a-a52f-86ba8f044a58",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-age-of-benjamin-franklin",
   title: "The Age of Benjamin Franklin",
   status: "not-started",

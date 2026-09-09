@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const bakeYourBestSweetYeastBreadsChallahAndMore = {
   id: "019db533-f398-73c9-ad72-2a13b1763838",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "bake-your-best-sweet-yeast-breads-challah-and-more",
   title: "Bake Your Best: Sweet Yeast Breads, Challah & More",
   status: "completed",

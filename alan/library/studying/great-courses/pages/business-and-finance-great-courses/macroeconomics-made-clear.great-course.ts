@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const macroeconomicsMadeClear = {
   id: "019db533-f39e-74aa-876d-2a2a8fadb5c9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "macroeconomics-made-clear",
   title: "Macroeconomics Made Clear",
   status: "not-started",

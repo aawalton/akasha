@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const essentialSeedBeadTechniques = {
   id: "019db533-f39f-7a33-8594-188211404bf0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "essential-seed-bead-techniques",
   title: "Essential Seed Bead Techniques",
   status: "completed",

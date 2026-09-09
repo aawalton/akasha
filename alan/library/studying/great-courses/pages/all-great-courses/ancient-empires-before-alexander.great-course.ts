@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const ancientEmpiresBeforeAlexander = {
   id: "019db533-f388-70ed-b0a6-01efa434d0de",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "ancient-empires-before-alexander",
   title: "Ancient Empires before Alexander",
   status: "not-started",

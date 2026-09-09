@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
   id: "019db533-f3a0-79c3-89a0-7ab61a660bca",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "financial-literacy-finding-your-way-in-the-financial-markets",
   title: "Financial Literacy: Finding Your Way in the Financial Markets",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theAmericanMind = {
   id: "019db533-f39f-7d05-8bfe-c7571c48d98b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-american-mind",
   title: "The American Mind",
   status: "not-started",

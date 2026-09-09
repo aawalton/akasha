@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheTimuridEmpire = {
   id: "019db533-f3a0-730d-8dfb-89ca762720ae",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-timurid-empire",
   title: "Pilot Lecture: The Timurid Empire",
   status: "completed",

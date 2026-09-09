@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatCourse30MasterpiecesOfTheAncientWorld = {
   id: "019db533-f3a0-75ff-b015-7ebe03dd843f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-course-30-masterpieces-of-the-ancient-world",
   title: "30 Masterpieces of the Ancient World",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const natureInWatercolorPaintingTrees = {
   id: "019db533-f398-7376-8d64-deb766fd64f5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "nature-in-watercolor-painting-trees",
   title: "Nature in Watercolor: Painting Trees",
   status: "completed",

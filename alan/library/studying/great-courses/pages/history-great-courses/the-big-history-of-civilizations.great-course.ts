@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theBigHistoryOfCivilizations = {
   id: "019db533-f3a0-71ee-b6ad-db6edc9d3e68",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-big-history-of-civilizations",
   title: "The Big History of Civilizations",
   status: "not-started",

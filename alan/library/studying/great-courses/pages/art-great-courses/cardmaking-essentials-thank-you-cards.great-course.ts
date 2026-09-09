@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const cardmakingEssentialsThankYouCards = {
   id: "019db533-f39f-7635-a292-7cd2e0d3e00e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "cardmaking-essentials-thank-you-cards",
   title: "Cardmaking Essentials: Thank You Cards",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theBarbarianEmpiresOfTheSteppes = {
   id: "019db533-f3a0-71be-af1b-2680504f45e0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-barbarian-empires-of-the-steppes",
   title: "The Barbarian Empires of the Steppes",
   status: "completed",

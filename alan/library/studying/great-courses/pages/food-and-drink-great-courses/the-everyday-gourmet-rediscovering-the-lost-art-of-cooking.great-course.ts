@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theEverydayGourmetRediscoveringTheLostArtOfCooking = {
   id: "019db533-f39f-7848-b087-aa3f45b0c24b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
   title: "The Everyday Gourmet: Rediscovering the Lost Art of Cooking",
   status: "not-started",

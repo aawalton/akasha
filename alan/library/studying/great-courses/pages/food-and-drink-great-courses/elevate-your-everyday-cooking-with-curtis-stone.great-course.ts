@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const elevateYourEverydayCookingWithCurtisStone = {
   id: "019db533-f39f-79de-ad6d-2c7849746eed",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "elevate-your-everyday-cooking-with-curtis-stone",
   title: "Elevate Your Everyday Cooking with Curtis Stone",
   status: "completed",

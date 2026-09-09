@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const ordinaryAmericansInTheRevolution = {
   id: "019db533-f3a0-70c2-9ca6-b0c85d86ed14",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "ordinary-americans-in-the-revolution",
   title: "Ordinary Americans in the Revolution",
   status: "not-started",

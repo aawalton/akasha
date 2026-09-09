@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureMaxPlanckAndTheUltravioletCatastrophe = {
   id: "019db533-f3a0-70d2-a916-5a13b1073f41",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-max-planck-and-the-ultraviolet-catastrophe",
   title: "Pilot Lecture: Max Planck and the Ultraviolet Catastrophe",
   status: "completed",

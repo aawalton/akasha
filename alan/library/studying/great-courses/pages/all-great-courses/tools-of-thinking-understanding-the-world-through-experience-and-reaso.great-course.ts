@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   id: "019db533-f387-7f04-9834-75cd5ba7ae1d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "tools-of-thinking-understanding-the-world-through-experience-and-reaso",
   title: "Tools of Thinking: Understanding the World through Experience and Reason",
   status: "not-started",

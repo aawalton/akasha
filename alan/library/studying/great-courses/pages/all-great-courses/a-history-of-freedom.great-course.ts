@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistoryOfFreedom = {
   id: "019db533-f388-7086-b839-cec06334f3e6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-history-of-freedom",
   title: "A History of Freedom",
   status: "not-started",

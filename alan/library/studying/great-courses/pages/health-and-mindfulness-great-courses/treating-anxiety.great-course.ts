@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const treatingAnxiety = {
   id: "019db533-f3a0-7689-a6e9-ab565d88eaf4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "treating-anxiety",
   title: "Treating Anxiety",
   status: "not-started",

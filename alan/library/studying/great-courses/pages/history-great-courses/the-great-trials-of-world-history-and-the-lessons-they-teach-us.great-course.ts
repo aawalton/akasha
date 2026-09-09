@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatTrialsOfWorldHistoryAndTheLessonsTheyTeachUs = {
   id: "019db533-f39f-7ca6-b76a-9b2fdb2da57d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
   title: "The Great Trials of World History and the Lessons They Teach Us",
   status: "not-started",

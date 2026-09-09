@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const meaningFromDataStatisticsMadeClear = {
   id: "019db533-f3a0-785b-8c23-e7d80747aa5a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "meaning-from-data-statistics-made-clear",
   title: "Meaning from Data: Statistics Made Clear",
   status: "not-started",

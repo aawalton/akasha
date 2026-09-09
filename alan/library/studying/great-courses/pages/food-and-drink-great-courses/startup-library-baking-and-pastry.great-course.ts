@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const startupLibraryBakingAndPastry = {
   id: "019db533-f39f-78e8-a180-1e7fa454c651",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "startup-library-baking-and-pastry",
   title: "Startup Library: Baking & Pastry",
   status: "completed",

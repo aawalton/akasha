@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const onTrialForMurderAmericaSMostFamousMurderTrials = {
   id: "019db533-f39f-787d-88ce-58124484c223",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "on-trial-for-murder-america-s-most-famous-murder-trials",
   title: "On Trial for Murder: America’s Most Famous Murder Trials",
   status: "not-started",

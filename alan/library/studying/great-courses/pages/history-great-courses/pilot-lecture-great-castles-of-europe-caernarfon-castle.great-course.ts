@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureGreatCastlesOfEuropeCaernarfonCastle = {
   id: "019db533-f39f-7e0e-bc54-58a4ac867316",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-great-castles-of-europe-caernarfon-castle",
   title: "Pilot Lecture: Great Castles of Europe—Caernarfon Castle",
   status: "completed",

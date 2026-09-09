@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreekAndPersianWars = {
   id: "019db533-f3a0-708c-a3f3-68afed527202",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-greek-and-persian-wars",
   title: "The Greek and Persian Wars",
   status: "not-started",

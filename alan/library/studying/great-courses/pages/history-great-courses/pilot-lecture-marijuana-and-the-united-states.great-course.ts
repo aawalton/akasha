@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureMarijuanaAndTheUnitedStates = {
   id: "019db533-f39f-7953-a0fb-a5144a0dd367",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-marijuana-and-the-united-states",
   title: "Pilot Lecture: Marijuana and the United States",
   status: "completed",

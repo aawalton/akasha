@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const goingToTheDevilTheImpeachmentOf1868 = {
   id: "019db533-f3a0-713b-aca5-8316101ee7cc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "going-to-the-devil-the-impeachment-of-1868",
   title: "Going to the Devil: The Impeachment of 1868",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const whatAreTheChancesProbabilityMadeClear = {
   id: "019db533-f3a0-74e9-ab7d-e7fa1d043be5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "what-are-the-chances-probability-made-clear",
   title: "What Are the Chances? Probability Made Clear",
   status: "not-started",

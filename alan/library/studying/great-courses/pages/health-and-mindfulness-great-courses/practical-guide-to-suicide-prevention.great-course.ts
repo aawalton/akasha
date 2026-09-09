@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const practicalGuideToSuicidePrevention = {
   id: "019db533-f3a0-77a7-96d3-d1f4294543b0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "practical-guide-to-suicide-prevention",
   title: "Practical Guide to Suicide Prevention",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursTheWorldSMostSacredSites = {
   id: "019db533-f398-7388-9274-c90e7f987b1f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-the-world-s-most-sacred-sites",
   title: "The Great Tours: The World’s Most Sacred Sites",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const nosferatuExaminedTheDraculaConnection = {
   id: "019db533-f39f-74f8-b059-41f397a4b3f0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "nosferatu-examined-the-dracula-connection",
   title: "Nosferatu Examined: The Dracula Connection",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theCelticWorld = {
   id: "019db533-f3a0-70c8-b3e5-fb4a51b050cc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-celtic-world",
   title: "The Celtic World",
   status: "completed",

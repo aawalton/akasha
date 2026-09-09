@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theMythsOfNutritionAndFitness = {
   id: "019db533-f3a0-75f4-8bd6-a95253f52bf0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-myths-of-nutrition-and-fitness",
   title: "The Myths of Nutrition and Fitness",
   status: "completed",

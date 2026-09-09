@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const medicalMythsLiesAndHalfTruthsWhatWeThinkWeKnowMayBeHurtin = {
   id: "019db533-f3a0-779c-b02c-925473e2bd32",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurtin",
   title: "Medical Myths, Lies, and Half-Truths: What We Think We Know May Be Hurting Us",
   status: "not-started",

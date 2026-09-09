@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   id: "019db533-f3a0-7242-ae3f-658824cb2e96",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-history-of-england-from-the-tudors-to-the-stuarts",
   title: "A History of England from the Tudors to the Stuarts",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const apollo11LessonsForAllTime = {
   id: "019db533-f39f-7e6d-81da-50a11b044924",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "apollo-11-lessons-for-all-time",
   title: "Apollo 11: Lessons for All time",
   status: "completed",

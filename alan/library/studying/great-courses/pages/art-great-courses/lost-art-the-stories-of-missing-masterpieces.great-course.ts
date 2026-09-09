@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lostArtTheStoriesOfMissingMasterpieces = {
   id: "019db533-f39f-756c-97e0-7b8e073c0a83",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "lost-art-the-stories-of-missing-masterpieces",
   title: "Lost Art: The Stories of Missing Masterpieces",
   status: "completed",

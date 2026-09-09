@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursAGuidedTourOfAncientEgypt = {
   id: "019db533-f39f-77e7-864e-aae7f77f86ad",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-a-guided-tour-of-ancient-egypt",
   title: "The Great Tours: A Guided Tour of Ancient Egypt",
   status: "completed",

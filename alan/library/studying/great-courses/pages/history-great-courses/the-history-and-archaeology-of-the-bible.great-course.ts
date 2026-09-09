@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHistoryAndArchaeologyOfTheBible = {
   id: "019db533-f39f-7bde-a8e0-200d8d98f6f4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-history-and-archaeology-of-the-bible",
   title: "The History and Archaeology of the Bible",
   status: "completed",

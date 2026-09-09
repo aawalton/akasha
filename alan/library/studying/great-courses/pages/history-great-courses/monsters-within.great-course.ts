@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const monstersWithin = {
   id: "019db533-f39f-78b3-b304-b2f44f476574",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "monsters-within",
   title: "Monsters Within ...",
   status: "completed",

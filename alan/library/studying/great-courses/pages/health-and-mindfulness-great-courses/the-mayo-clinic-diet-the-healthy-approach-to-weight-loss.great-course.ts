@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theMayoClinicDietTheHealthyApproachToWeightLoss = {
   id: "019db533-f3a0-76de-8680-5b874b12129a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
   title: "The Mayo Clinic Diet: The Healthy Approach to Weight Loss.",
   status: "not-started",

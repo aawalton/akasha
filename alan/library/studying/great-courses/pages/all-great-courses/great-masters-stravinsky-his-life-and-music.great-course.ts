@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMastersStravinskyHisLifeAndMusic = {
   id: "019db533-f388-7041-b5c0-de3417ef0860",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-masters-stravinsky-his-life-and-music",
   title: "Great Masters: Stravinsky—His Life and Music",
   status: "not-started",

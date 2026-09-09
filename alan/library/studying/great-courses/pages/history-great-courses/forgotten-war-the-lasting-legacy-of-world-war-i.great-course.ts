@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const forgottenWarTheLastingLegacyOfWorldWarI = {
   id: "019db533-f39f-79be-ad80-94d7ef6f3f14",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "forgotten-war-the-lasting-legacy-of-world-war-i",
   title: "Forgotten War: The Lasting Legacy of World War I",
   status: "completed",

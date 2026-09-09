@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theAgingBrain = {
   id: "019db533-f3a0-76d3-bef7-100b299ae9dc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-aging-brain",
   title: "The Aging Brain",
   status: "not-started",

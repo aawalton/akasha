@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
   id: "019db533-f3a0-77d1-a45a-03d0461d1743",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
   title: "Pilot Lecture: Antioxidants—What Are They and Why Do We Need Them?",
   status: "completed",
