@@ -1,0 +1,18 @@
+import type { Book } from "../book.page-type.ts"
+
+export const disgardiumClearThreat = {
+  id: "019db533-f390-7d6f-9e83-264690ae4841",
+  pageTypeSlug: "book",
+  type: "book",
+  slug: "disgardium-clear-threat",
+  title: "Disgardium: Clear Threat",
+  status: "not-started",
+  unit: "words",
+  position: 10,
+  ownLength: 137750,
+  publishedAt: "2022-02-25",
+  partOfCollections: ["book-series/disgardium"],
+  source: "kindle",
+  externalId: "B09MMJJHVG",
+  externalLink: "https://amazon.com/dp/B09MMJJHVG",
+} as const satisfies Book
