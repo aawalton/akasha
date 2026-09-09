@@ -1,7 +1,9 @@
+import type { Answer } from "@akasha/command-system/calling"
+import { refusedBy } from "@akasha/command-system/command-answering"
 import {
   readBrowserTestEnv,
   readRealUserOptInEnv,
-} from "@akasha/browser-test-harness/browser-test-env"
+} from "akasha/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import {
   classifyExpectedAttr,
   classifyExpectedCount,
@@ -11,14 +13,12 @@ import {
   type ExpectedAttrMode,
   type RenderObservation,
   type RenderVerdict,
-} from "@akasha/browser-test-harness/deployed-render-check"
+} from "akasha/browser/test-harness/deployed-render-check/deployed-render-check.module.code.ts"
 import {
   createReadOnlyAnonSession,
   createReadOnlyRealUserHarness,
   createReadOnlyThrowawayHarness,
-} from "@akasha/browser-test-harness/read-only-harness"
-import type { Answer } from "@akasha/command-system/calling"
-import { refusedBy } from "@akasha/command-system/command-answering"
+} from "akasha/browser/test-harness/read-only-harness/read-only-harness.module.code.ts"
 import {
   countIn,
   missingOf,

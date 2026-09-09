@@ -5,9 +5,5 @@ export const browser = {
   pageTypeSlug: "domain",
   slug: "browser",
   definition: "a browser driven from code, and what is kept of a run",
-  parts: [
-    "domain/browser-commands",
-    "domain/browser-launch-env",
-    "workspace-package/browser-test-harness",
-  ],
+  parts: ["domain/browser-commands", "domain/browser-launch-env", "domain/browser-test-harness"],
 } as const satisfies Domain

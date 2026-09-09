@@ -9,7 +9,6 @@
     "./*": "./*"
   },
   "dependencies": {
-    "@akasha/browser-test-harness": "workspace:*",
     "@akasha/changes": "workspace:*",
     "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",

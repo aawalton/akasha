@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "browser-test-harness",
   definition: "a chromium driven against a running app, signed in as a user it never writes",
-  manifest: "json",
   parts: [
     "module/browser-test-env",
     "module/console-capture",
@@ -27,4 +26,4 @@ export const browserTestHarness = {
       statement: "Nothing here knows the assertion any test the harness has makes.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
