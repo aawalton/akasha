@@ -18,8 +18,6 @@ const SOURCE_KEYS = {
 
 const PERSONA_KEY = "persona"
 
-const PERSONA_SLUG_KEY = "personaSlug"
-
 export const PERSONA_ASKING: Query = {
   pageTypeSlug: PERSONA_PAGE_TYPE_SLUG,
   keys: [...PERSONA_KEYS],
@@ -28,7 +26,7 @@ export const PERSONA_ASKING: Query = {
 
 export const POINTS_SOURCE_ASKING: Query = {
   pageTypeSlug: POINTS_SOURCE_PAGE_TYPE_SLUG,
-  keys: [PERSONA_KEY, PERSONA_SLUG_KEY, ...Object.keys(SOURCE_KEYS)],
+  keys: [PERSONA_KEY, ...Object.keys(SOURCE_KEYS)],
   sortBy: "slug",
 }
 
@@ -37,8 +35,8 @@ function everyRowIn(what: string, asked: Asked): readonly Row[] {
   return asked.rows
 }
 
-function personaSlugIn(row: Row): string {
-  const named = textOf(row[PERSONA_KEY]) ?? textOf(row[PERSONA_SLUG_KEY])
+function personaIn(row: Row): string {
+  const named = textOf(row[PERSONA_KEY])
   if (named === undefined || named === "") {
     const slug = textOf(row.slug) ?? "a source with no slug"
     throw new Error(
@@ -64,7 +62,7 @@ export async function personaRecipeRows(): Promise<readonly Readonly<Record<stri
       const value = textOf(row[pageKey])
       if (value !== undefined) held[rowKey] = value
     }
-    sourceByPersona.set(personaSlugIn(row), held)
+    sourceByPersona.set(personaIn(row), held)
   }
 
   const out: Record<string, unknown>[] = []
