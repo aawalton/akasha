@@ -8,7 +8,7 @@ export const breakerOfHorizons009898TheoreticalIssues = {
   story: "story-read/breaker-of-horizons",
   position: 98,
   ownLength: 1738,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/660595/98-theoretical-issues",

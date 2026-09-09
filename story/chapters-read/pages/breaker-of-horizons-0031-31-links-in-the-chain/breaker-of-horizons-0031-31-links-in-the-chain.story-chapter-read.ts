@@ -8,7 +8,7 @@ export const breakerOfHorizons003131LinksInTheChain = {
   story: "story-read/breaker-of-horizons",
   position: 31,
   ownLength: 2990,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/540352/31-links-in-the-chain",

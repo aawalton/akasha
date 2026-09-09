@@ -8,7 +8,7 @@ export const breakerOfHorizons0174174NewRivalries = {
   story: "story-read/breaker-of-horizons",
   position: 174,
   ownLength: 2217,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/835776/174-new-rivalries",

@@ -8,7 +8,7 @@ export const bookboundBunny0061B3Chapter57AncillaryFlight = {
   story: "bookbound-bunny",
   position: 61,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3578285/b3-chapter-57-ancillary-flight",

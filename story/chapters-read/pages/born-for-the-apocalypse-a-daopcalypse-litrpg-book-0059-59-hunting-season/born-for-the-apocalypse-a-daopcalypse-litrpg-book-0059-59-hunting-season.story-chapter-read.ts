@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005959HuntingSeason = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 59,
   ownLength: 2661,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2087086/59-hunting-season",

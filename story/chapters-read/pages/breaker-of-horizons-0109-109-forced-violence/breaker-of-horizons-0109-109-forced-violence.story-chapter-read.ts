@@ -8,7 +8,7 @@ export const breakerOfHorizons0109109ForcedViolence = {
   story: "story-read/breaker-of-horizons",
   position: 109,
   ownLength: 1905,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/683901/109-forced-violence",

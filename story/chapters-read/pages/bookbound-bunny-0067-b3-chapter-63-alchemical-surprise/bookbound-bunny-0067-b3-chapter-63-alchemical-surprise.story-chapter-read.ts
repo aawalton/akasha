@@ -8,7 +8,7 @@ export const bookboundBunny0067B3Chapter63AlchemicalSurprise = {
   story: "bookbound-bunny",
   position: 67,
   ownLength: 2267,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3651717/b3-chapter-63-alchemical-surprise",

@@ -8,7 +8,7 @@ export const breakerOfHorizons004242AWalkInTheDark = {
   story: "story-read/breaker-of-horizons",
   position: 42,
   ownLength: 2637,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/559355/42-a-walk-in-the-dark",

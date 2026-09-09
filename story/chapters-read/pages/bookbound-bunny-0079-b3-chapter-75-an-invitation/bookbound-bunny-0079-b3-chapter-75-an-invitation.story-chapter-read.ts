@@ -8,7 +8,7 @@ export const bookboundBunny0079B3Chapter75AnInvitation = {
   story: "bookbound-bunny",
   position: 79,
   ownLength: 2656,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3785774/b3-chapter-75-an-invitation",

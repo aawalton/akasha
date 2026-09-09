@@ -8,7 +8,7 @@ export const breakerOfHorizons0105105DoubleAct = {
   story: "story-read/breaker-of-horizons",
   position: 105,
   ownLength: 2358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/675676/105-double-act",

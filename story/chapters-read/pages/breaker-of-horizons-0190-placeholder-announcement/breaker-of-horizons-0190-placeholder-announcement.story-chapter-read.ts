@@ -8,7 +8,7 @@ export const breakerOfHorizons0190PlaceholderAnnouncement = {
   story: "story-read/breaker-of-horizons",
   position: 190,
   ownLength: 85,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/960794/placeholder-announcement",

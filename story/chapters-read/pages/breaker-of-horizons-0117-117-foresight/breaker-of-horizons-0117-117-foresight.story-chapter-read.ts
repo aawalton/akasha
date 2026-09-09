@@ -8,7 +8,7 @@ export const breakerOfHorizons0117117Foresight = {
   story: "story-read/breaker-of-horizons",
   position: 117,
   ownLength: 2151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/699277/117-foresight",

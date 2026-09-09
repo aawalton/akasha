@@ -8,7 +8,7 @@ export const breakerOfHorizons008383DirePronouncements = {
   story: "story-read/breaker-of-horizons",
   position: 83,
   ownLength: 2076,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-15",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/632011/83-dire-pronouncements",

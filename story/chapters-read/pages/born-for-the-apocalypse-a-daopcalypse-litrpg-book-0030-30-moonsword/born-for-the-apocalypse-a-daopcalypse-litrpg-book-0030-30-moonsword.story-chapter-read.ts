@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003030Moonsword = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 30,
   ownLength: 1271,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1947540/30-moonsword",

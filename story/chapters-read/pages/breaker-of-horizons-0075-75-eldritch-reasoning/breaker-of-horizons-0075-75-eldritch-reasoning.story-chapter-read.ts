@@ -8,7 +8,7 @@ export const breakerOfHorizons007575EldritchReasoning = {
   story: "story-read/breaker-of-horizons",
   position: 75,
   ownLength: 2129,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/616659/75-eldritch-reasoning",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0100100AngerAndAgency = {
   story: "story-read/breaker-of-horizons",
   position: 100,
   ownLength: 2184,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/665107/100-anger-and-agency",

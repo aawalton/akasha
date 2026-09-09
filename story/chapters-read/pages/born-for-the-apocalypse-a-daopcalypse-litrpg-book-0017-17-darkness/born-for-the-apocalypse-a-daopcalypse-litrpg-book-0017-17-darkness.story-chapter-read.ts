@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001717Darkness = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 17,
   ownLength: 1893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1136787/17-darkness",

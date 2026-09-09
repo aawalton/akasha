@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00077Zornhau = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 7,
   ownLength: 1014,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-11",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1111345/7-zornhau",

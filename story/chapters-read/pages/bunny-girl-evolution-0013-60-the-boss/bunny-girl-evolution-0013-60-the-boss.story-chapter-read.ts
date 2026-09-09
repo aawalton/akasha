@@ -9,7 +9,7 @@ export const bunnyGirlEvolution001360TheBoss = {
   position: 13,
   ownLength: 2759,
   ownProgress: 2759,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:04.958Z",
   publishedAt: "2025-01-03",
   externalLink:

@@ -8,7 +8,7 @@ export const breakerOfHorizons007272Undercurrents = {
   story: "story-read/breaker-of-horizons",
   position: 72,
   ownLength: 2008,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/611039/72-undercurrents",

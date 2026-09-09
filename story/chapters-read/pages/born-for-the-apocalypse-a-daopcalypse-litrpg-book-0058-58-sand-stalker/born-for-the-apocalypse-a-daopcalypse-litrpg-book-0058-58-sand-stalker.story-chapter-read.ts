@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005858SandStalker = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 58,
   ownLength: 2207,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-21",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2081550/58-sand-stalker",

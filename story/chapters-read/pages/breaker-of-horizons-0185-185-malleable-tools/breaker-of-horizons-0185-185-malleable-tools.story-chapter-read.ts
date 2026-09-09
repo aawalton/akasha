@@ -8,7 +8,7 @@ export const breakerOfHorizons0185185MalleableTools = {
   story: "story-read/breaker-of-horizons",
   position: 185,
   ownLength: 2066,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/864513/185-malleable-tools",

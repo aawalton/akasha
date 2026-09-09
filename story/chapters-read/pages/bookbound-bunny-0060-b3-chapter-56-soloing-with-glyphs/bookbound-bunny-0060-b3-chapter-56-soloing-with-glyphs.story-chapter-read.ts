@@ -8,7 +8,7 @@ export const bookboundBunny0060B3Chapter56SoloingWithGlyphs = {
   story: "bookbound-bunny",
   position: 60,
   ownLength: 2391,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3564891/b3-chapter-56-soloing-with-glyphs",

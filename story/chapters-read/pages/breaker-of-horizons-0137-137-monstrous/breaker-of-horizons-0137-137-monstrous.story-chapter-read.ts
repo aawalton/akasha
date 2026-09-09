@@ -8,7 +8,7 @@ export const breakerOfHorizons0137137Monstrous = {
   story: "story-read/breaker-of-horizons",
   position: 137,
   ownLength: 1811,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/738555/137-monstrous",

@@ -8,7 +8,7 @@ export const breakerOfHorizons005454DarknessIncarnate = {
   story: "story-read/breaker-of-horizons",
   position: 54,
   ownLength: 2260,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/579824/54-darkness-incarnate",

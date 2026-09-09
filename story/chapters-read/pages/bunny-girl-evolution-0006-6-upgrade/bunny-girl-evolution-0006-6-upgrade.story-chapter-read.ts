@@ -9,7 +9,7 @@ export const bunnyGirlEvolution00066Upgrade = {
   position: 6,
   ownLength: 2422,
   ownProgress: 2422,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:51.373Z",
   publishedAt: "2024-08-01",
   externalLink:

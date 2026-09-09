@@ -8,7 +8,7 @@ export const breakerOfHorizons0166166ABiggerWorld = {
   story: "story-read/breaker-of-horizons",
   position: 166,
   ownLength: 2471,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/817662/166-a-bigger-world",

@@ -8,7 +8,7 @@ export const breakerOfHorizons006262DomesticAffairs = {
   story: "story-read/breaker-of-horizons",
   position: 62,
   ownLength: 2330,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/594516/62-domestic-affairs",

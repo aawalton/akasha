@@ -8,7 +8,7 @@ export const breakerOfHorizons0176176MomentsOfMischief = {
   story: "story-read/breaker-of-horizons",
   position: 176,
   ownLength: 2138,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/840578/176-moments-of-mischief",

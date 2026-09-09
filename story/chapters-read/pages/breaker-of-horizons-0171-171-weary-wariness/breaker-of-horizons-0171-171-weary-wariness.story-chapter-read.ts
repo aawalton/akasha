@@ -8,7 +8,7 @@ export const breakerOfHorizons0171171WearyWariness = {
   story: "story-read/breaker-of-horizons",
   position: 171,
   ownLength: 2244,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-20",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/828481/171-weary-wariness",

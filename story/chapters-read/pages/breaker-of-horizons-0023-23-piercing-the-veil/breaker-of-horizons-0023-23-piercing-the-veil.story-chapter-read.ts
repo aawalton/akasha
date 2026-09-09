@@ -8,7 +8,7 @@ export const breakerOfHorizons002323PiercingTheVeil = {
   story: "story-read/breaker-of-horizons",
   position: 23,
   ownLength: 2585,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/527163/23-piercing-the-veil",

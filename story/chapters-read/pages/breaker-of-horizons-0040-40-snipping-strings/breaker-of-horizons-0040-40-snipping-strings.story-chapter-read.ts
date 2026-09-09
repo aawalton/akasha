@@ -8,7 +8,7 @@ export const breakerOfHorizons004040SnippingStrings = {
   story: "story-read/breaker-of-horizons",
   position: 40,
   ownLength: 2554,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/556023/40-snipping-strings",

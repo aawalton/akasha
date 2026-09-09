@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005252ShowOfStrength = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 52,
   ownLength: 1729,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2039296/52-show-of-strength",

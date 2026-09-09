@@ -8,7 +8,7 @@ export const bookboundBunny0081B3Chapter77Awards = {
   story: "bookbound-bunny",
   position: 81,
   ownLength: 2286,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3807477/b3-chapter-77-awards",

@@ -8,7 +8,7 @@ export const breakerOfHorizons00077DinnerAndDuel = {
   story: "story-read/breaker-of-horizons",
   position: 7,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/501148/7-dinner-and-duel",

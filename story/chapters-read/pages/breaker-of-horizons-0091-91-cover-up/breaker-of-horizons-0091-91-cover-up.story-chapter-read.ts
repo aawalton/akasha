@@ -8,7 +8,7 @@ export const breakerOfHorizons009191CoverUp = {
   story: "story-read/breaker-of-horizons",
   position: 91,
   ownLength: 2250,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/647263/91-cover-up",

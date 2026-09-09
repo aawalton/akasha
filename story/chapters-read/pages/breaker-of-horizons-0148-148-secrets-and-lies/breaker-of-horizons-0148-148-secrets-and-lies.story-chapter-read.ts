@@ -8,7 +8,7 @@ export const breakerOfHorizons0148148SecretsAndLies = {
   story: "story-read/breaker-of-horizons",
   position: 148,
   ownLength: 1958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/776829/148-secrets-and-lies",

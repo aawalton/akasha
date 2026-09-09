@@ -8,7 +8,7 @@ export const breakerOfHorizons0124124Transfiguration = {
   story: "story-read/breaker-of-horizons",
   position: 124,
   ownLength: 1862,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/712920/124-transfiguration",

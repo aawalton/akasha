@@ -8,7 +8,7 @@ export const breakerOfHorizons004747NewGround = {
   story: "story-read/breaker-of-horizons",
   position: 47,
   ownLength: 2892,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-12",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/568151/47-new-ground",

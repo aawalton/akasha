@@ -8,7 +8,7 @@ export const bookboundBunny0053B3Chapter49ReplicatingBelief = {
   story: "bookbound-bunny",
   position: 53,
   ownLength: 2269,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3490841/b3-chapter-49-replicating-belief",

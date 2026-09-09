@@ -8,7 +8,7 @@ export const bookboundBunny0071B3Chapter67Dreaming = {
   story: "bookbound-bunny",
   position: 71,
   ownLength: 2159,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3692549/b3-chapter-67-dreaming",

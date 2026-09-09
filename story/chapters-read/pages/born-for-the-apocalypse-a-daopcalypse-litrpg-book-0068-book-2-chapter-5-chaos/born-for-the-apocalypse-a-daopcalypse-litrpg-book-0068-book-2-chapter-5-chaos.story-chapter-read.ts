@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0068Book2Chapter5Chaos = 
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 68,
   ownLength: 1087,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2271973/book-2-chapter-5--chaos",

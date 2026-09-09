@@ -8,7 +8,7 @@ export const breakerOfHorizons001515Venting = {
   story: "story-read/breaker-of-horizons",
   position: 15,
   ownLength: 2456,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/514176/15-venting",

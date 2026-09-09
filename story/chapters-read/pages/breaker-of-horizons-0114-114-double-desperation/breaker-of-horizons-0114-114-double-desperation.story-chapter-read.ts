@@ -8,7 +8,7 @@ export const breakerOfHorizons0114114DoubleDesperation = {
   story: "story-read/breaker-of-horizons",
   position: 114,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/693138/114-double-desperation",

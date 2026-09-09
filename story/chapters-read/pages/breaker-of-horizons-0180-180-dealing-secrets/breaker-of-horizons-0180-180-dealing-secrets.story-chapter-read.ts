@@ -8,7 +8,7 @@ export const breakerOfHorizons0180180DealingSecrets = {
   story: "story-read/breaker-of-horizons",
   position: 180,
   ownLength: 2239,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-21",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/850258/180-dealing-secrets",

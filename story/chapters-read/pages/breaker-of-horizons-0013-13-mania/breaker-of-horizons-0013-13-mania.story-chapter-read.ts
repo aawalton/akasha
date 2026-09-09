@@ -8,7 +8,7 @@ export const breakerOfHorizons001313Mania = {
   story: "story-read/breaker-of-horizons",
   position: 13,
   ownLength: 2352,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-15",
   externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/510925/13-mania",
   externalId: "510925",

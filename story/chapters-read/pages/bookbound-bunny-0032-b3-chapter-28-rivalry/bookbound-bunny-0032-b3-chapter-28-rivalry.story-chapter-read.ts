@@ -8,7 +8,7 @@ export const bookboundBunny0032B3Chapter28Rivalry = {
   story: "bookbound-bunny",
   position: 32,
   ownLength: 2131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-11",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3259436/b3-chapter-28-rivalry",

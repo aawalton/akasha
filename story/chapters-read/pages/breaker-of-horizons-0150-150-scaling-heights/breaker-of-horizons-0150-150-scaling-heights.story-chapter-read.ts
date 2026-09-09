@@ -8,7 +8,7 @@ export const breakerOfHorizons0150150ScalingHeights = {
   story: "story-read/breaker-of-horizons",
   position: 150,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/782063/150-scaling-heights",

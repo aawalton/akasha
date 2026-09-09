@@ -8,7 +8,7 @@ export const breakerOfHorizons001616FreedomOfChoice = {
   story: "story-read/breaker-of-horizons",
   position: 16,
   ownLength: 2345,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/515487/16-freedom-of-choice",

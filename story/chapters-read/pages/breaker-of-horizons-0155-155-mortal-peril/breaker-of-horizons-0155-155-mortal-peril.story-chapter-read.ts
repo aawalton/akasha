@@ -8,7 +8,7 @@ export const breakerOfHorizons0155155MortalPeril = {
   story: "story-read/breaker-of-horizons",
   position: 155,
   ownLength: 1898,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/794263/155-mortal-peril",

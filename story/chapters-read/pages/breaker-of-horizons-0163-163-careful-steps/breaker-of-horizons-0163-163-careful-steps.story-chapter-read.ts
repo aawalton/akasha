@@ -8,7 +8,7 @@ export const breakerOfHorizons0163163CarefulSteps = {
   story: "story-read/breaker-of-horizons",
   position: 163,
   ownLength: 2142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-23",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/811811/163-careful-steps",

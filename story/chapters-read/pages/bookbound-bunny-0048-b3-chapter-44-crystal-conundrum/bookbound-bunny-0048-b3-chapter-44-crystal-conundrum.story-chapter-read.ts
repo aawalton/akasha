@@ -8,7 +8,7 @@ export const bookboundBunny0048B3Chapter44CrystalConundrum = {
   story: "bookbound-bunny",
   position: 48,
   ownLength: 2336,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3426264/b3-chapter-44-crystal-conundrum",

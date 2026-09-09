@@ -8,7 +8,7 @@ export const breakerOfHorizons002626Bound = {
   story: "story-read/breaker-of-horizons",
   position: 26,
   ownLength: 2487,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-30",
   externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/531698/26-bound",
   externalId: "531698",

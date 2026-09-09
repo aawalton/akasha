@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002626RiftGoblinCommander
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 26,
   ownLength: 1197,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-13",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1901095/26-rift-goblin-commander",

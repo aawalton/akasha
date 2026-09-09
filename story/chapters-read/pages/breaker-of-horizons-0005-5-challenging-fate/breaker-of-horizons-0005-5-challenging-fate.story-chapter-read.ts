@@ -8,7 +8,7 @@ export const breakerOfHorizons00055ChallengingFate = {
   story: "story-read/breaker-of-horizons",
   position: 5,
   ownLength: 1944,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/498038/5-challenging-fate",

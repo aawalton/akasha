@@ -8,7 +8,7 @@ export const breakerOfHorizons0107107Trepidation = {
   story: "story-read/breaker-of-horizons",
   position: 107,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/679868/107-trepidation",

@@ -8,7 +8,7 @@ export const breakerOfHorizons006060Beacons = {
   story: "story-read/breaker-of-horizons",
   position: 60,
   ownLength: 2411,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/591079/60-beacons",

@@ -8,7 +8,7 @@ export const bookboundBunny0080B3Chapter76HiddenTalents = {
   story: "bookbound-bunny",
   position: 80,
   ownLength: 2815,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3798602/b3-chapter-76-hidden-talents",

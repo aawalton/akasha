@@ -8,7 +8,7 @@ export const breakerOfHorizons003030ChippingAtTheFetters = {
   story: "story-read/breaker-of-horizons",
   position: 30,
   ownLength: 2823,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/538491/30-chipping-at-the-fetters",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0132132LayersAndLayers = {
   story: "story-read/breaker-of-horizons",
   position: 132,
   ownLength: 1894,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/728746/132-layers-and-layers",

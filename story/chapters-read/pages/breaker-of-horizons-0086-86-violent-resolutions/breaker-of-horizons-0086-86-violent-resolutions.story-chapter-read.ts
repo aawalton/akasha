@@ -8,7 +8,7 @@ export const breakerOfHorizons008686ViolentResolutions = {
   story: "story-read/breaker-of-horizons",
   position: 86,
   ownLength: 1687,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-25",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/637359/86-violent-resolutions",

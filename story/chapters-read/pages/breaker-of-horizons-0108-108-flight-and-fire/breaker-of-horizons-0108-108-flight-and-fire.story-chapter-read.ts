@@ -8,7 +8,7 @@ export const breakerOfHorizons0108108FlightAndFire = {
   story: "story-read/breaker-of-horizons",
   position: 108,
   ownLength: 2026,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/681697/108-flight-and-fire",

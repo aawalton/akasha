@@ -8,7 +8,7 @@ export const bookboundBunny0084B3Chapter80NewEnvironment = {
   story: "bookbound-bunny",
   position: 84,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3837683/b3-chapter-80-new-environment",

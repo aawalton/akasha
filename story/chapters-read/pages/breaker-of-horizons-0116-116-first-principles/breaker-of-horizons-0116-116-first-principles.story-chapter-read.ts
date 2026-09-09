@@ -8,7 +8,7 @@ export const breakerOfHorizons0116116FirstPrinciples = {
   story: "story-read/breaker-of-horizons",
   position: 116,
   ownLength: 2215,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/696982/116-first-principles",

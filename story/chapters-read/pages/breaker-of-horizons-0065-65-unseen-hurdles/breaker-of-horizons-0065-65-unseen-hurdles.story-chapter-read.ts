@@ -8,7 +8,7 @@ export const breakerOfHorizons006565UnseenHurdles = {
   story: "story-read/breaker-of-horizons",
   position: 65,
   ownLength: 2072,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/599826/65-unseen-hurdles",

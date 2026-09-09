@@ -8,7 +8,7 @@ export const breakerOfHorizons0188186ConflictGalore = {
   story: "story-read/breaker-of-horizons",
   position: 188,
   ownLength: 7506,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/917896/186-conflict-galore",

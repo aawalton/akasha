@@ -8,7 +8,7 @@ export const bookboundBunny0078B3Chapter74BurningBright = {
   story: "bookbound-bunny",
   position: 78,
   ownLength: 2372,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3776349/b3-chapter-74-burning-bright",

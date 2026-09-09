@@ -8,7 +8,7 @@ export const bookboundBunny0073B3Chapter69Cunning = {
   story: "bookbound-bunny",
   position: 73,
   ownLength: 2374,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3713824/b3-chapter-69-cunning",

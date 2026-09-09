@@ -8,7 +8,7 @@ export const breakerOfHorizons00033PrecisionMatters = {
   story: "story-read/breaker-of-horizons",
   position: 3,
   ownLength: 3167,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/494944/3-precision-matters",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0103103ChartingACourse = {
   story: "story-read/breaker-of-horizons",
   position: 103,
   ownLength: 1882,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-26",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/671320/103-charting-a-course",

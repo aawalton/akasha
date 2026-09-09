@@ -8,7 +8,7 @@ export const breakerOfHorizons002525FoodForThought = {
   story: "story-read/breaker-of-horizons",
   position: 25,
   ownLength: 2369,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/530334/25-food-for-thought",

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004949RipAndTear = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 49,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-24",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2027812/49-rip-and-tear",

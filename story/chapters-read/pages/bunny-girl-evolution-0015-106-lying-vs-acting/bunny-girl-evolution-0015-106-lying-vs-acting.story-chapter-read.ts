@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0015106LyingVsActing = {
   position: 15,
   ownLength: 3467,
   ownProgress: 3467,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:08.817Z",
   publishedAt: "2025-06-14",
   externalLink:

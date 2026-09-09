@@ -8,7 +8,7 @@ export const breakerOfHorizons0118118PlansOfEngagement = {
   story: "story-read/breaker-of-horizons",
   position: 118,
   ownLength: 2131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/700970/118-plans-of-engagement",

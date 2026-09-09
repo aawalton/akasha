@@ -8,7 +8,7 @@ export const bookboundBunny0050B3Chapter46Decay = {
   story: "bookbound-bunny",
   position: 50,
   ownLength: 2249,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3447398/b3-chapter-46-decay",

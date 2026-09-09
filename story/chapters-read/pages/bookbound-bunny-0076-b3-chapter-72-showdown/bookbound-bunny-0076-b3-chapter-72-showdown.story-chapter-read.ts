@@ -8,7 +8,7 @@ export const bookboundBunny0076B3Chapter72Showdown = {
   story: "bookbound-bunny",
   position: 76,
   ownLength: 2596,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3744885/b3-chapter-72-showdown",

@@ -8,7 +8,7 @@ export const breakerOfHorizons008181AlternativeThreads = {
   story: "story-read/breaker-of-horizons",
   position: 81,
   ownLength: 2088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/628065/81-alternative-threads",

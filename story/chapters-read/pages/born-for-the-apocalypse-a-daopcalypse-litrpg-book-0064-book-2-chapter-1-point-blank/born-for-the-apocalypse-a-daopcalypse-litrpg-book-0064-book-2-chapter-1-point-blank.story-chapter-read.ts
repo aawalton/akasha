@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0064Book2Chapter1PointBla
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 64,
   ownLength: 1111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2255021/book-2-chapter-1--point-blank",

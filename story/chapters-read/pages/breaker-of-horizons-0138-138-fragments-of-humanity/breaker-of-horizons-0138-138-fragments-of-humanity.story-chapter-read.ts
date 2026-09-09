@@ -8,7 +8,7 @@ export const breakerOfHorizons0138138FragmentsOfHumanity = {
   story: "story-read/breaker-of-horizons",
   position: 138,
   ownLength: 2031,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/740278/138-fragments-of-humanity",

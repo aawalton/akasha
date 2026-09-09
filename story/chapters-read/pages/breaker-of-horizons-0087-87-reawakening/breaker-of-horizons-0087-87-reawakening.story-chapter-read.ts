@@ -8,7 +8,7 @@ export const breakerOfHorizons008787Reawakening = {
   story: "story-read/breaker-of-horizons",
   position: 87,
   ownLength: 2107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/639581/87-reawakening",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0112112DiametricPowers = {
   story: "story-read/breaker-of-horizons",
   position: 112,
   ownLength: 2016,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/689156/112-diametric-powers",

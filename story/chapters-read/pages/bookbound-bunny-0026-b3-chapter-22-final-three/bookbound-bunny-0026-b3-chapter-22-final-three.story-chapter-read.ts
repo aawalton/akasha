@@ -8,7 +8,7 @@ export const bookboundBunny0026B3Chapter22FinalThree = {
   story: "bookbound-bunny",
   position: 26,
   ownLength: 2133,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3194849/b3-chapter-22-final-three",

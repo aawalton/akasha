@@ -8,7 +8,7 @@ export const breakerOfHorizons006363ThwartedPlans = {
   story: "story-read/breaker-of-horizons",
   position: 63,
   ownLength: 1972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/596462/63-thwarted-plans",

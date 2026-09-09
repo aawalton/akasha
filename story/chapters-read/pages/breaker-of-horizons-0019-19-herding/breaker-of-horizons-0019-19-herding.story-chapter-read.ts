@@ -8,7 +8,7 @@ export const breakerOfHorizons001919Herding = {
   story: "story-read/breaker-of-horizons",
   position: 19,
   ownLength: 2346,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/520519/19-herding",

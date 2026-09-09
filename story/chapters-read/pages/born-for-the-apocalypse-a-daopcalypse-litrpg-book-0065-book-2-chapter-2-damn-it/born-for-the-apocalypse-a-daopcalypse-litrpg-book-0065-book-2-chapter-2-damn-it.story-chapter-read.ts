@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0065Book2Chapter2DamnIt =
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 65,
   ownLength: 1097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2260574/book-2-chapter-2-damn-it",

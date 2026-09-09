@@ -8,7 +8,7 @@ export const breakerOfHorizons006868Possession = {
   story: "story-read/breaker-of-horizons",
   position: 68,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/604470/68-possession",

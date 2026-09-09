@@ -8,7 +8,7 @@ export const breakerOfHorizons0149149TheRoadToMastery = {
   story: "story-read/breaker-of-horizons",
   position: 149,
   ownLength: 2241,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/779107/149-the-road-to-mastery",

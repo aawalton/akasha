@@ -8,7 +8,7 @@ export const breakerOfHorizons005050TheBeginning = {
   story: "story-read/breaker-of-horizons",
   position: 50,
   ownLength: 2318,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/572921/50-the-beginning",

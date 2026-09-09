@@ -8,7 +8,7 @@ export const breakerOfHorizons0120120MysteryAtDawn = {
   story: "story-read/breaker-of-horizons",
   position: 120,
   ownLength: 2298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/704872/120-mystery-at-dawn",

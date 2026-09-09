@@ -8,7 +8,7 @@ export const breakerOfHorizons0153153WritingWoes = {
   story: "story-read/breaker-of-horizons",
   position: 153,
   ownLength: 2129,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/789526/153-writing-woes",

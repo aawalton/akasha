@@ -8,7 +8,7 @@ export const breakerOfHorizons002424AFriendlyReckoning = {
   story: "story-read/breaker-of-horizons",
   position: 24,
   ownLength: 2301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/528427/24-a-friendly-reckoning",

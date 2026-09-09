@@ -9,7 +9,7 @@ export const bunnyGirlEvolution00033Tunnel = {
   position: 3,
   ownLength: 2284,
   ownProgress: 2284,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:45.558Z",
   publishedAt: "2024-08-01",
   externalLink:

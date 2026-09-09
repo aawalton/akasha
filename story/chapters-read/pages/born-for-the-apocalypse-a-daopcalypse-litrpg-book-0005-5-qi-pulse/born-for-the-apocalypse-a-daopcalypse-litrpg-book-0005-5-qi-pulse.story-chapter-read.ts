@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00055QiPulse = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 5,
   ownLength: 1547,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1107794/5-qi-pulse",

@@ -8,7 +8,7 @@ export const breakerOfHorizons00022AThiefOfMemory = {
   story: "story-read/breaker-of-horizons",
   position: 2,
   ownLength: 2446,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/493139/2-a-thief-of-memory",

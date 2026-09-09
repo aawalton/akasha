@@ -8,7 +8,7 @@ export const breakerOfHorizons005252SeismicShifts = {
   story: "story-read/breaker-of-horizons",
   position: 52,
   ownLength: 2539,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/576197/52-seismic-shifts",

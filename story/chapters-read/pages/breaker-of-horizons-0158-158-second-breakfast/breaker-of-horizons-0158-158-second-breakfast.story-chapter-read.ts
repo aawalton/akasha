@@ -8,7 +8,7 @@ export const breakerOfHorizons0158158SecondBreakfast = {
   story: "story-read/breaker-of-horizons",
   position: 158,
   ownLength: 1963,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/801635/158-second-breakfast",

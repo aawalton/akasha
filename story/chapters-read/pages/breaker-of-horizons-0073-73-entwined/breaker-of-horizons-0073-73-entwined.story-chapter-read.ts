@@ -8,7 +8,7 @@ export const breakerOfHorizons007373Entwined = {
   story: "story-read/breaker-of-horizons",
   position: 73,
   ownLength: 1945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/613014/73-entwined",

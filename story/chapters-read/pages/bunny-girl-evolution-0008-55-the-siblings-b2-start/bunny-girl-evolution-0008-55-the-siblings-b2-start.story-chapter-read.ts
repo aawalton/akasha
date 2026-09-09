@@ -9,7 +9,7 @@ export const bunnyGirlEvolution000855TheSiblingsB2Start = {
   position: 8,
   ownLength: 4018,
   ownProgress: 4018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:55.242Z",
   publishedAt: "2024-12-17",
   externalLink:

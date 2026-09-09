@@ -8,7 +8,7 @@ export const breakerOfHorizons002828Puzzlement = {
   story: "story-read/breaker-of-horizons",
   position: 28,
   ownLength: 2493,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/535162/28-puzzlement",

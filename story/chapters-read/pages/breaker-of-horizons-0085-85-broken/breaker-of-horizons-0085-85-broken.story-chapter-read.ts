@@ -8,7 +8,7 @@ export const breakerOfHorizons008585Broken = {
   story: "story-read/breaker-of-horizons",
   position: 85,
   ownLength: 2048,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-22",
   externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/635769/85-broken",
   externalId: "635769",

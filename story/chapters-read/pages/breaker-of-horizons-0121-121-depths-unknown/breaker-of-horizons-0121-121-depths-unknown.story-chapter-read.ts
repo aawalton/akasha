@@ -8,7 +8,7 @@ export const breakerOfHorizons0121121DepthsUnknown = {
   story: "story-read/breaker-of-horizons",
   position: 121,
   ownLength: 2136,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-28",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/707223/121-depths-unknown",

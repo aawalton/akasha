@@ -8,7 +8,7 @@ export const breakerOfHorizons0189187aRedrawingLines = {
   story: "story-read/breaker-of-horizons",
   position: 189,
   ownLength: 3566,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/938751/187a-redrawing-lines",

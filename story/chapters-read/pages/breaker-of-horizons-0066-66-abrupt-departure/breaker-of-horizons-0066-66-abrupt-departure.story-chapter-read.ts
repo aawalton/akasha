@@ -8,7 +8,7 @@ export const breakerOfHorizons006666AbruptDeparture = {
   story: "story-read/breaker-of-horizons",
   position: 66,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/601292/66-abrupt-departure",

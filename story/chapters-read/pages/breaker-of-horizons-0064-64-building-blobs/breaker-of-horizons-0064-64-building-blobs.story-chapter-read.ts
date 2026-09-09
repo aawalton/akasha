@@ -8,7 +8,7 @@ export const breakerOfHorizons006464BuildingBlobs = {
   story: "story-read/breaker-of-horizons",
   position: 64,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/598000/64-building-blobs",

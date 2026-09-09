@@ -8,7 +8,7 @@ export const breakerOfHorizons0102102TheTempest = {
   story: "story-read/breaker-of-horizons",
   position: 102,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/669150/102-the-tempest",

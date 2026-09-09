@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003434AWayOut = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 34,
   ownLength: 1248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-05",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1993459/34-a-way-out",

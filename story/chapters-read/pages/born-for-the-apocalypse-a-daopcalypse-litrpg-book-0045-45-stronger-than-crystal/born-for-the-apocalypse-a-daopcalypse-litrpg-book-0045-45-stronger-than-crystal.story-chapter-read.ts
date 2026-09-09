@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004545StrongerThanCrystal
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 45,
   ownLength: 1580,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-19",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2018977/45-stronger-than-crystal",

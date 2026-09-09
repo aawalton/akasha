@@ -8,7 +8,7 @@ export const breakerOfHorizons0134134InnerTurmoil = {
   story: "story-read/breaker-of-horizons",
   position: 134,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/732641/134-inner-turmoil",

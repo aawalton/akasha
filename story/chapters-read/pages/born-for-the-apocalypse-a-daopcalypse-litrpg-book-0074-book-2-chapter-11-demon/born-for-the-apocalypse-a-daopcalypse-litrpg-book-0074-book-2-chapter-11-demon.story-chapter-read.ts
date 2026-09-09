@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0074Book2Chapter11Demon =
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 74,
   ownLength: 1079,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2293907/book-2-chapter-11--demon",

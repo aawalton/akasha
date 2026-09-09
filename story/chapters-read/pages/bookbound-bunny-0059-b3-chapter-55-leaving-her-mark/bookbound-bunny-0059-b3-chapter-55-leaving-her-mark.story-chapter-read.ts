@@ -8,7 +8,7 @@ export const bookboundBunny0059B3Chapter55LeavingHerMark = {
   story: "bookbound-bunny",
   position: 59,
   ownLength: 2190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3555453/b3-chapter-55-leaving-her-mark",

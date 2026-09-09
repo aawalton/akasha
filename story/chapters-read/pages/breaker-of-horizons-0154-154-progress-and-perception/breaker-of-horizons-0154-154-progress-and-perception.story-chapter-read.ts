@@ -8,7 +8,7 @@ export const breakerOfHorizons0154154ProgressAndPerception = {
   story: "story-read/breaker-of-horizons",
   position: 154,
   ownLength: 2119,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-22",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/792238/154-progress-and-perception",

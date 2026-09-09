@@ -9,7 +9,7 @@ export const bunnyGirlEvolution00055Cabin = {
   position: 5,
   ownLength: 3152,
   ownProgress: 3152,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:49.447Z",
   publishedAt: "2024-08-01",
   externalLink:

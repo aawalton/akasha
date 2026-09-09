@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002828HiddenPiece = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 28,
   ownLength: 1136,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1915044/28-hidden-piece",

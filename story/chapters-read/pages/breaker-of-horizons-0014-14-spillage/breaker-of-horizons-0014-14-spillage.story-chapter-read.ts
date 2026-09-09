@@ -8,7 +8,7 @@ export const breakerOfHorizons001414Spillage = {
   story: "story-read/breaker-of-horizons",
   position: 14,
   ownLength: 2371,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/512345/14-spillage",

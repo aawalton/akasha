@@ -8,7 +8,7 @@ export const breakerOfHorizons0159159FamiliarGround = {
   story: "story-read/breaker-of-horizons",
   position: 159,
   ownLength: 2205,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/803268/159-familiar-ground",

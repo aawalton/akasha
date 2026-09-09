@@ -8,7 +8,7 @@ export const bookboundBunny0070B3Chapter66CatchUp = {
   story: "bookbound-bunny",
   position: 70,
   ownLength: 2168,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3683674/b3-chapter-66-catch-up",

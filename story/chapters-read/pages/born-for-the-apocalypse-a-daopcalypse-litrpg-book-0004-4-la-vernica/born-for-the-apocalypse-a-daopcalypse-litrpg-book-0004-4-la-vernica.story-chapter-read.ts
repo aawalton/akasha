@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00044LaVernica = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 4,
   ownLength: 3680,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-06",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1106982/4-la-veronica",

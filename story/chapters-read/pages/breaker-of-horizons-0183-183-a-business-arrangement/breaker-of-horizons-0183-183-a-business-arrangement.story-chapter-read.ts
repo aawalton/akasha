@@ -8,7 +8,7 @@ export const breakerOfHorizons0183183ABusinessArrangement = {
   story: "story-read/breaker-of-horizons",
   position: 183,
   ownLength: 2016,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/857077/183-a-business-arrangement",

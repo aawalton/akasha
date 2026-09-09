@@ -8,7 +8,7 @@ export const breakerOfHorizons009292ComplicationsAndConsequences = {
   story: "story-read/breaker-of-horizons",
   position: 92,
   ownLength: 1657,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/648877/92-complications-and-consequences",

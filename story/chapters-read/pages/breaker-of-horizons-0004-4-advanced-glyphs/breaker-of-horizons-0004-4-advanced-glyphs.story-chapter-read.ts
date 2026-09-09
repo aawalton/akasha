@@ -8,7 +8,7 @@ export const breakerOfHorizons00044AdvancedGlyphs = {
   story: "story-read/breaker-of-horizons",
   position: 4,
   ownLength: 3202,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/496269/4-advanced-glyphs",

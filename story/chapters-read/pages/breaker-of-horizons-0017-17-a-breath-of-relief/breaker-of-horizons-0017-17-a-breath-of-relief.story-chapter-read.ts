@@ -8,7 +8,7 @@ export const breakerOfHorizons001717ABreathOfRelief = {
   story: "story-read/breaker-of-horizons",
   position: 17,
   ownLength: 2329,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/517349/17-a-breath-of-relief",

@@ -8,7 +8,7 @@ export const bookboundBunny0036B3Chapter32BackToClass = {
   story: "bookbound-bunny",
   position: 36,
   ownLength: 2044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3299525/b3-chapter-32-back-to-class",

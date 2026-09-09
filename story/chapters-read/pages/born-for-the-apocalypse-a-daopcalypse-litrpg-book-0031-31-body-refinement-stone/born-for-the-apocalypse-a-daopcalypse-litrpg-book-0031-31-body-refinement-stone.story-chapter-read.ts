@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003131BodyRefinementStone
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 31,
   ownLength: 1279,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1949298/31-body-refinement-stone",

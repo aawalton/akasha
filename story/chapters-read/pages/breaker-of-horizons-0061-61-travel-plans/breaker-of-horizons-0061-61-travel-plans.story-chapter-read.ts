@@ -8,7 +8,7 @@ export const breakerOfHorizons006161TravelPlans = {
   story: "story-read/breaker-of-horizons",
   position: 61,
   ownLength: 1972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/592898/61-travel-plans",

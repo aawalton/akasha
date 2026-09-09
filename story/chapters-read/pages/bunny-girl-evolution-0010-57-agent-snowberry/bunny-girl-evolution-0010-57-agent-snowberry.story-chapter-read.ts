@@ -9,7 +9,7 @@ export const bunnyGirlEvolution001057AgentSnowberry = {
   position: 10,
   ownLength: 3062,
   ownProgress: 3062,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:59.152Z",
   publishedAt: "2024-12-24",
   externalLink:

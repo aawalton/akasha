@@ -8,7 +8,7 @@ export const breakerOfHorizons007676MemoriesOfTheAncients = {
   story: "story-read/breaker-of-horizons",
   position: 76,
   ownLength: 1793,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/618164/76-memories-of-the-ancients",

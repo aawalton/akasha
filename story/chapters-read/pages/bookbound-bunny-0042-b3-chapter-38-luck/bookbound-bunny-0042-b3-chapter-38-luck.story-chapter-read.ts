@@ -8,7 +8,7 @@ export const bookboundBunny0042B3Chapter38Luck = {
   story: "bookbound-bunny",
   position: 42,
   ownLength: 2225,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3365280/b3-chapter-38-luck",

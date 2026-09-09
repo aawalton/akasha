@@ -8,7 +8,7 @@ export const bookboundBunny0089B3Chapter85FestivalsEnd = {
   story: "bookbound-bunny",
   position: 89,
   ownLength: 2462,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3903527/b3-chapter-85-festivals-end",

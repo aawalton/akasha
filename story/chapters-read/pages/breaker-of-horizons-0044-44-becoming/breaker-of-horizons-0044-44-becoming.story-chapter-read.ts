@@ -8,7 +8,7 @@ export const breakerOfHorizons004444Becoming = {
   story: "story-read/breaker-of-horizons",
   position: 44,
   ownLength: 2880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/562874/44-becoming",

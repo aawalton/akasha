@@ -8,7 +8,7 @@ export const breakerOfHorizons0156156PreAllies = {
   story: "story-read/breaker-of-horizons",
   position: 156,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/796715/156-pre-allies",

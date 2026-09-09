@@ -8,7 +8,7 @@ export const breakerOfHorizons0139139UnchosenPaths = {
   story: "story-read/breaker-of-horizons",
   position: 139,
   ownLength: 2105,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/742394/139-unchosen-paths",

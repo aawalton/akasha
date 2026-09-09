@@ -8,7 +8,7 @@ export const breakerOfHorizons0179179BuddingRelationships = {
   story: "story-read/breaker-of-horizons",
   position: 179,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/847532/179-budding-relationships",

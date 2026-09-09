@@ -8,7 +8,7 @@ export const breakerOfHorizons00088PowerLadder = {
   story: "story-read/breaker-of-horizons",
   position: 8,
   ownLength: 1896,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/502411/8-power-ladder",

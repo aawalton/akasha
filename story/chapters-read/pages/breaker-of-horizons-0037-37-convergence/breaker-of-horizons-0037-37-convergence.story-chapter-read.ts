@@ -8,7 +8,7 @@ export const breakerOfHorizons003737Convergence = {
   story: "story-read/breaker-of-horizons",
   position: 37,
   ownLength: 2277,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/550879/37-convergence",

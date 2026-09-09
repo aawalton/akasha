@@ -8,7 +8,7 @@ export const breakerOfHorizons005959NavigatingTheUnknown = {
   story: "story-read/breaker-of-horizons",
   position: 59,
   ownLength: 2325,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/589547/59-navigating-the-unknown",

@@ -8,7 +8,7 @@ export const breakerOfHorizons005656UnexplainedIntervention = {
   story: "story-read/breaker-of-horizons",
   position: 56,
   ownLength: 2143,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-12",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/583599/56-unexplained-intervention",

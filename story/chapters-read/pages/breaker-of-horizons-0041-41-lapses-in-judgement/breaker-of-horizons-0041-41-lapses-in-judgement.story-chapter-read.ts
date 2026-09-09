@@ -8,7 +8,7 @@ export const breakerOfHorizons004141LapsesInJudgement = {
   story: "story-read/breaker-of-horizons",
   position: 41,
   ownLength: 2214,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-21",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/557848/41-lapses-in-judgement",

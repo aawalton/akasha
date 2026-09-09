@@ -8,7 +8,7 @@ export const breakerOfHorizons0167167AGrimBeginning = {
   story: "story-read/breaker-of-horizons",
   position: 167,
   ownLength: 2102,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/819405/167-a-grim-beginning",

@@ -8,7 +8,7 @@ export const breakerOfHorizons008484Reversal = {
   story: "story-read/breaker-of-horizons",
   position: 84,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/633600/84-reversal",

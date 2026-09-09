@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002323PreparingTheBait = 
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 23,
   ownLength: 1729,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1886261/23-preparing-the-bait",

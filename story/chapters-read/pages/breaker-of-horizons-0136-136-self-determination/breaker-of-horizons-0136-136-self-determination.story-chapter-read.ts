@@ -8,7 +8,7 @@ export const breakerOfHorizons0136136SelfDetermination = {
   story: "story-read/breaker-of-horizons",
   position: 136,
   ownLength: 1873,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/736464/136-self-determination",

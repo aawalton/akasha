@@ -8,7 +8,7 @@ export const bookboundBunny0087B3Chapter83WoodlandEncounter = {
   story: "bookbound-bunny",
   position: 87,
   ownLength: 2221,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3870634/b3-chapter-83-woodland-encounter",

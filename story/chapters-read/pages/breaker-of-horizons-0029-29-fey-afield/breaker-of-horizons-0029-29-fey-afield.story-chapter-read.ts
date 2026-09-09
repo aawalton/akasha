@@ -8,7 +8,7 @@ export const breakerOfHorizons002929FeyAfield = {
   story: "story-read/breaker-of-horizons",
   position: 29,
   ownLength: 2399,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/537082/29-fey-afield",

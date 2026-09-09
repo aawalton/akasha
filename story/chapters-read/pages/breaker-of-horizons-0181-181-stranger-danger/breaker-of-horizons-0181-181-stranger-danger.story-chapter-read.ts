@@ -8,7 +8,7 @@ export const breakerOfHorizons0181181StrangerDanger = {
   story: "story-read/breaker-of-horizons",
   position: 181,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/852296/181-stranger-danger",

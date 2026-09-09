@@ -8,7 +8,7 @@ export const breakerOfHorizons005151RevivingVolition = {
   story: "story-read/breaker-of-horizons",
   position: 51,
   ownLength: 2981,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/574758/51-reviving-volition",

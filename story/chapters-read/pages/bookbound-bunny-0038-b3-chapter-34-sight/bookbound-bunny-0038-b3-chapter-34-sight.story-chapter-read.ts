@@ -8,7 +8,7 @@ export const bookboundBunny0038B3Chapter34Sight = {
   story: "bookbound-bunny",
   position: 38,
   ownLength: 2155,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3327850/b3-chapter-34-sight",

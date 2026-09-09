@@ -8,7 +8,7 @@ export const breakerOfHorizons0164164UnknownVariables = {
   story: "story-read/breaker-of-horizons",
   position: 164,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-27",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/813890/164-unknown-variables",

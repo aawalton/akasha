@@ -8,7 +8,7 @@ export const bookboundBunny0058B3Chapter54UnveilingPotential = {
   story: "bookbound-bunny",
   position: 58,
   ownLength: 2329,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3546310/b3-chapter-54-unveiling-potential",

@@ -8,7 +8,7 @@ export const breakerOfHorizons008989Manipulated = {
   story: "story-read/breaker-of-horizons",
   position: 89,
   ownLength: 2396,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/643415/89-manipulated",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0182182UpperReaches = {
   story: "story-read/breaker-of-horizons",
   position: 182,
   ownLength: 2135,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-28",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/855003/182-upper-reaches",

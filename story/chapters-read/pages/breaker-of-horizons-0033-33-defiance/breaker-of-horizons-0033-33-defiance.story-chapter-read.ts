@@ -8,7 +8,7 @@ export const breakerOfHorizons003333Defiance = {
   story: "story-read/breaker-of-horizons",
   position: 33,
   ownLength: 2344,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/543761/33-defiance",

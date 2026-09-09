@@ -8,7 +8,7 @@ export const breakerOfHorizons007070CallToAid = {
   story: "story-read/breaker-of-horizons",
   position: 70,
   ownLength: 2251,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-31",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/607558/70-call-to-aid",

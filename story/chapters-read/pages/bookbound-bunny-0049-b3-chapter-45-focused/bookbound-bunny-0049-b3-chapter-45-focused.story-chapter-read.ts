@@ -8,7 +8,7 @@ export const bookboundBunny0049B3Chapter45Focused = {
   story: "bookbound-bunny",
   position: 49,
   ownLength: 2862,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3435033/b3-chapter-45-focused",

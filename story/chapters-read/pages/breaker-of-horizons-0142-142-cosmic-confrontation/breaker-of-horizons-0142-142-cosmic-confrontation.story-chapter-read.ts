@@ -8,7 +8,7 @@ export const breakerOfHorizons0142142CosmicConfrontation = {
   story: "story-read/breaker-of-horizons",
   position: 142,
   ownLength: 2112,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/747743/142-cosmic-confrontation",

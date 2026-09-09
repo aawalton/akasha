@@ -8,7 +8,7 @@ export const breakerOfHorizons0101101Transcendence = {
   story: "story-read/breaker-of-horizons",
   position: 101,
   ownLength: 2238,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/667374/101-transcendence",

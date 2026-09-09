@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001414Kesagiri = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 14,
   ownLength: 1065,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-26",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1123431/14-kesagiri",

@@ -8,7 +8,7 @@ export const breakerOfHorizons004343AShadowOfLife = {
   story: "story-read/breaker-of-horizons",
   position: 43,
   ownLength: 2508,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/561299/43-a-shadow-of-life",

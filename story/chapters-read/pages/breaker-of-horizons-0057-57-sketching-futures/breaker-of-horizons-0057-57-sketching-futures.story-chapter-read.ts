@@ -8,7 +8,7 @@ export const breakerOfHorizons005757SketchingFutures = {
   story: "story-read/breaker-of-horizons",
   position: 57,
   ownLength: 2428,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/585858/57-sketching-futures",

@@ -8,7 +8,7 @@ export const breakerOfHorizons00066FamilialTies = {
   story: "story-read/breaker-of-horizons",
   position: 6,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/499438/6-familial-ties",

@@ -8,7 +8,7 @@ export const breakerOfHorizons002727MakingPeace = {
   story: "story-read/breaker-of-horizons",
   position: 27,
   ownLength: 2585,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/533703/27-making-peace",

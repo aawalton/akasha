@@ -8,7 +8,7 @@ export const breakerOfHorizons0111111PatchingUp = {
   story: "story-read/breaker-of-horizons",
   position: 111,
   ownLength: 1965,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/687682/111-patching-up",

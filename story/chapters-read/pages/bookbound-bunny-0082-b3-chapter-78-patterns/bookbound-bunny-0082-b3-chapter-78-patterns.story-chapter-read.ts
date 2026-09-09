@@ -8,7 +8,7 @@ export const bookboundBunny0082B3Chapter78Patterns = {
   story: "bookbound-bunny",
   position: 82,
   ownLength: 2213,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3816504/b3-chapter-78-patterns",

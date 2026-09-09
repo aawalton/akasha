@@ -8,7 +8,7 @@ export const bookboundBunny0072B3Chapter68Flashy = {
   story: "bookbound-bunny",
   position: 72,
   ownLength: 2302,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3705323/b3-chapter-68-flashy",

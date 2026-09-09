@@ -8,7 +8,7 @@ export const breakerOfHorizons004545TheFulcrum = {
   story: "story-read/breaker-of-horizons",
   position: 45,
   ownLength: 2553,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-05",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/564771/45-the-fulcrum",

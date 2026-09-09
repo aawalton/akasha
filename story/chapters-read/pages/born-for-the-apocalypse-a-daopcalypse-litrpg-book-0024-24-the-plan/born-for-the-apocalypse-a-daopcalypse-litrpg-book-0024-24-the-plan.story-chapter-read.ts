@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002424ThePlan = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 24,
   ownLength: 1048,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-06",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1889004/24-the-plan",

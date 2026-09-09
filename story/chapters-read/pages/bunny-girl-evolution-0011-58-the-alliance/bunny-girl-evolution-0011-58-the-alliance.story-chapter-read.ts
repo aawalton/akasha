@@ -9,7 +9,7 @@ export const bunnyGirlEvolution001158TheAlliance = {
   position: 11,
   ownLength: 3602,
   ownProgress: 3602,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:01.083Z",
   publishedAt: "2024-12-27",
   externalLink:

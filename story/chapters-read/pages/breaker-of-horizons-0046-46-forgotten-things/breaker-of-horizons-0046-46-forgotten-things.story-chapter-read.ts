@@ -8,7 +8,7 @@ export const breakerOfHorizons004646ForgottenThings = {
   story: "story-read/breaker-of-horizons",
   position: 46,
   ownLength: 2409,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/566234/46-forgotten-things",

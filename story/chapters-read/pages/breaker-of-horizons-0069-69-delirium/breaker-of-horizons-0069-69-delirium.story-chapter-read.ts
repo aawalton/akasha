@@ -8,7 +8,7 @@ export const breakerOfHorizons006969Delirium = {
   story: "story-read/breaker-of-horizons",
   position: 69,
   ownLength: 1990,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/606250/69-delirium",

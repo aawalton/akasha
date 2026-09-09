@@ -8,7 +8,7 @@ export const breakerOfHorizons005353StreamsAndShadows = {
   story: "story-read/breaker-of-horizons",
   position: 53,
   ownLength: 2522,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-02",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/578166/53-streams-and-shadows",

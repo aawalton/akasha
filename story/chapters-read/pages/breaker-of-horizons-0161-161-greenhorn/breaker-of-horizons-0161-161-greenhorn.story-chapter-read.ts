@@ -8,7 +8,7 @@ export const breakerOfHorizons0161161Greenhorn = {
   story: "story-read/breaker-of-horizons",
   position: 161,
   ownLength: 2154,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-16",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/807471/161-greenhorn",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0178178ThreesACrowd = {
   story: "story-read/breaker-of-horizons",
   position: 178,
   ownLength: 2401,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/845507/178-threes-a-crowd",

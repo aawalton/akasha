@@ -8,7 +8,7 @@ export const breakerOfHorizons003636Force = {
   story: "story-read/breaker-of-horizons",
   position: 36,
   ownLength: 2704,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-03",
   externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/548792/36-force",
   externalId: "548792",

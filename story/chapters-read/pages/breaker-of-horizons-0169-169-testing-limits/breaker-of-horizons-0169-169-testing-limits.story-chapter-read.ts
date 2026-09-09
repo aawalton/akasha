@@ -8,7 +8,7 @@ export const breakerOfHorizons0169169TestingLimits = {
   story: "story-read/breaker-of-horizons",
   position: 169,
   ownLength: 2213,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/824320/169-testing-limits",

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00011DoomsdayPrepperMeetR
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 1,
   ownLength: 5654,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-03",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1104381/1-doomsday-prepper-meet-raison-detre",

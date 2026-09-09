@@ -8,7 +8,7 @@ export const breakerOfHorizons0122122PropheticDoom = {
   story: "story-read/breaker-of-horizons",
   position: 122,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/708885/122-prophetic-doom",

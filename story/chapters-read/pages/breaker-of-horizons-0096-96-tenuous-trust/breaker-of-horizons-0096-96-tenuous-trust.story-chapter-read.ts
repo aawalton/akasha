@@ -8,7 +8,7 @@ export const breakerOfHorizons009696TenuousTrust = {
   story: "story-read/breaker-of-horizons",
   position: 96,
   ownLength: 1804,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/656220/96-tenuous-trust",

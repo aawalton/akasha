@@ -8,7 +8,7 @@ export const breakerOfHorizons0141141UnveilingHistory = {
   story: "story-read/breaker-of-horizons",
   position: 141,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/746005/141-unveiling-history",

@@ -8,7 +8,7 @@ export const breakerOfHorizons001111KantTouchThis = {
   story: "story-read/breaker-of-horizons",
   position: 11,
   ownLength: 2226,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/507485/11-kant-touch-this",

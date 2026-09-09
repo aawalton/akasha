@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003939Fly = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 39,
   ownLength: 1257,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2003245/39-fly",

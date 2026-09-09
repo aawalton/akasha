@@ -8,7 +8,7 @@ export const bookboundBunny0077B3Chapter73Vandriel = {
   story: "bookbound-bunny",
   position: 77,
   ownLength: 2282,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3766819/b3-chapter-73-vandriel",

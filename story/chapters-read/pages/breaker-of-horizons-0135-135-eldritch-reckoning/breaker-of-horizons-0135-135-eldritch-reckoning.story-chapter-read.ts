@@ -8,7 +8,7 @@ export const breakerOfHorizons0135135EldritchReckoning = {
   story: "story-read/breaker-of-horizons",
   position: 135,
   ownLength: 1666,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/734798/135-eldritch-reckoning",

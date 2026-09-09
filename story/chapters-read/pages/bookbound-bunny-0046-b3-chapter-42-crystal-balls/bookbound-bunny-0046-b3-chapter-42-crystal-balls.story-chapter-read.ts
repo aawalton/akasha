@@ -8,7 +8,7 @@ export const bookboundBunny0046B3Chapter42CrystalBalls = {
   story: "bookbound-bunny",
   position: 46,
   ownLength: 2235,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3402540/b3-chapter-42-crystal-balls",

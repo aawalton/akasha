@@ -8,7 +8,7 @@ export const breakerOfHorizons007979FamiliarChords = {
   story: "story-read/breaker-of-horizons",
   position: 79,
   ownLength: 2179,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/623591/79-familiar-chords",

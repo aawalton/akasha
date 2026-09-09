@@ -9,7 +9,7 @@ export const bunnyGirlEvolution001259TheThieves = {
   position: 12,
   ownLength: 2679,
   ownProgress: 2679,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:03.039Z",
   publishedAt: "2024-12-31",
   externalLink:

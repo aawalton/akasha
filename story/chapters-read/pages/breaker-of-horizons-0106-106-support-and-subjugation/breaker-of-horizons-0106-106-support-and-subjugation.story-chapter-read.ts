@@ -8,7 +8,7 @@ export const breakerOfHorizons0106106SupportAndSubjugation = {
   story: "story-read/breaker-of-horizons",
   position: 106,
   ownLength: 1961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/677616/106-support-and-subjugation",

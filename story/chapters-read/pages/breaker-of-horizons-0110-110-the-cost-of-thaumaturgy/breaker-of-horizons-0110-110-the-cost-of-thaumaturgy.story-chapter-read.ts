@@ -8,7 +8,7 @@ export const breakerOfHorizons0110110TheCostOfThaumaturgy = {
   story: "story-read/breaker-of-horizons",
   position: 110,
   ownLength: 2170,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/685594/110-the-cost-of-thaumaturgy",

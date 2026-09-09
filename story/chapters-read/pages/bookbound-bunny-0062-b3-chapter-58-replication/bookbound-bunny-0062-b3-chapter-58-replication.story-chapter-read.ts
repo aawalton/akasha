@@ -8,7 +8,7 @@ export const bookboundBunny0062B3Chapter58Replication = {
   story: "bookbound-bunny",
   position: 62,
   ownLength: 2472,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3587799/b3-chapter-58-replication",

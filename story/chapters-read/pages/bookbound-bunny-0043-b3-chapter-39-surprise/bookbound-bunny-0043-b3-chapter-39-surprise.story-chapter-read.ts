@@ -8,7 +8,7 @@ export const bookboundBunny0043B3Chapter39Surprise = {
   story: "bookbound-bunny",
   position: 43,
   ownLength: 2263,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3373682/b3-chapter-39-surprise",

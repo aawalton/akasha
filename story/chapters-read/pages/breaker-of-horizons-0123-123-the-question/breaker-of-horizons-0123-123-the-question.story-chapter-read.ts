@@ -8,7 +8,7 @@ export const breakerOfHorizons0123123TheQuestion = {
   story: "story-read/breaker-of-horizons",
   position: 123,
   ownLength: 2345,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/711121/123-the-question",

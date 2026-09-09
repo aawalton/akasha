@@ -8,7 +8,7 @@ export const bookboundBunny0023B3Chapter19SeeingYellow = {
   story: "bookbound-bunny",
   position: 23,
   ownLength: 2090,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3168256/b3-chapter-19-seeing-yellow",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0175175Improvisation = {
   story: "story-read/breaker-of-horizons",
   position: 175,
   ownLength: 2395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-03",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/837745/175-improvisation",

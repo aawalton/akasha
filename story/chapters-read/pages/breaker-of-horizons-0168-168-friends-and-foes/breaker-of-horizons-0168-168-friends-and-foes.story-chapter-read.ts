@@ -8,7 +8,7 @@ export const breakerOfHorizons0168168FriendsAndFoes = {
   story: "story-read/breaker-of-horizons",
   position: 168,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/821787/168-friends-and-foes",

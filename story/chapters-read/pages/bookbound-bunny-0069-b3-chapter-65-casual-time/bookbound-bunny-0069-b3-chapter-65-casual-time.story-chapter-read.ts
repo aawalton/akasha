@@ -8,7 +8,7 @@ export const bookboundBunny0069B3Chapter65CasualTime = {
   story: "bookbound-bunny",
   position: 69,
   ownLength: 2342,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3674477/b3-chapter-65-casual-time",

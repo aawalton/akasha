@@ -8,7 +8,7 @@ export const breakerOfHorizons001010ThaumaturgyTrial = {
   story: "story-read/breaker-of-horizons",
   position: 10,
   ownLength: 2365,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/505506/10-thaumaturgy-trial",

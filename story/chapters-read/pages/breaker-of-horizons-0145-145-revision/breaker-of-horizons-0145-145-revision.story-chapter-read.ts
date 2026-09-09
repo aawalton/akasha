@@ -8,7 +8,7 @@ export const breakerOfHorizons0145145Revision = {
   story: "story-read/breaker-of-horizons",
   position: 145,
   ownLength: 2164,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-20",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/753817/145-revision",

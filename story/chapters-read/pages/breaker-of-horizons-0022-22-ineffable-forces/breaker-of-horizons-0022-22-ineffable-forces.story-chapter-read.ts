@@ -8,7 +8,7 @@ export const breakerOfHorizons002222IneffableForces = {
   story: "story-read/breaker-of-horizons",
   position: 22,
   ownLength: 2462,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/525181/22-ineffable-forces",

@@ -8,7 +8,7 @@ export const bookboundBunny0068B3Chapter64Brews = {
   story: "bookbound-bunny",
   position: 68,
   ownLength: 2250,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-11",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3660981/b3-chapter-64-brews",

@@ -8,7 +8,7 @@ export const bookboundBunny0057B3Chapter53GlyphsForEverything = {
   story: "bookbound-bunny",
   position: 57,
   ownLength: 2357,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3532809/b3-chapter-53-glyphs-for-everything",

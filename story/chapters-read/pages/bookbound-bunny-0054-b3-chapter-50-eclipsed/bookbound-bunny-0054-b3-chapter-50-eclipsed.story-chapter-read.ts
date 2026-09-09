@@ -8,7 +8,7 @@ export const bookboundBunny0054B3Chapter50Eclipsed = {
   story: "bookbound-bunny",
   position: 54,
   ownLength: 2674,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3499818/b3-chapter-50-eclipsed",

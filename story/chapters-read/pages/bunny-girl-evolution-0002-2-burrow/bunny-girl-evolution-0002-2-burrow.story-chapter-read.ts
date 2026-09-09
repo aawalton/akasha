@@ -9,7 +9,7 @@ export const bunnyGirlEvolution00022Burrow = {
   position: 2,
   ownLength: 1778,
   ownProgress: 1778,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:43.767Z",
   publishedAt: "2024-08-01",
   externalLink:

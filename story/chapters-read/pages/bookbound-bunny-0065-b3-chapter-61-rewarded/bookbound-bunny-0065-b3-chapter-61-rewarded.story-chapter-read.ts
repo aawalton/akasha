@@ -8,7 +8,7 @@ export const bookboundBunny0065B3Chapter61Rewarded = {
   story: "bookbound-bunny",
   position: 65,
   ownLength: 2447,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3630181/b3-chapter-61--rewarded",

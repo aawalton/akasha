@@ -8,7 +8,7 @@ export const breakerOfHorizons0173173UnexpectedExercise = {
   story: "story-read/breaker-of-horizons",
   position: 173,
   ownLength: 2193,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-27",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/832897/173-unexpected-exercise",

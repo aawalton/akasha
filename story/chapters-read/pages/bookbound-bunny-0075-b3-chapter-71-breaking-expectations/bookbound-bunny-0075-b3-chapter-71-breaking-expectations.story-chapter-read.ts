@@ -8,7 +8,7 @@ export const bookboundBunny0075B3Chapter71BreakingExpectations = {
   story: "bookbound-bunny",
   position: 75,
   ownLength: 2437,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3735927/b3-chapter-71-breaking-expectations",

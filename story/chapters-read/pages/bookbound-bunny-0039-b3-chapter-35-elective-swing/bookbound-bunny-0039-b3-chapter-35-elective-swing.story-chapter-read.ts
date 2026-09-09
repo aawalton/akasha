@@ -8,7 +8,7 @@ export const bookboundBunny0039B3Chapter35ElectiveSwing = {
   story: "bookbound-bunny",
   position: 39,
   ownLength: 2477,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3335879/b3-chapter-35-elective-swing",

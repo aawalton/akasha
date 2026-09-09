@@ -8,7 +8,7 @@ export const breakerOfHorizons00099BoltsAndBonds = {
   story: "story-read/breaker-of-horizons",
   position: 9,
   ownLength: 2631,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/503976/9-bolts-and-bonds",

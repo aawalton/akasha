@@ -8,7 +8,7 @@ export const breakerOfHorizons00011OnTheSidelines = {
   story: "story-read/breaker-of-horizons",
   position: 1,
   ownLength: 2062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/490185/1-on-the-sidelines",

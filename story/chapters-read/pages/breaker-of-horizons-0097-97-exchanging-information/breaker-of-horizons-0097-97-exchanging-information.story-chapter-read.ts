@@ -8,7 +8,7 @@ export const breakerOfHorizons009797ExchangingInformation = {
   story: "story-read/breaker-of-horizons",
   position: 97,
   ownLength: 1734,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/658664/97-exchanging-information",

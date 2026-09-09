@@ -9,7 +9,7 @@ export const bunnyGirlEvolution000956TheFuneral = {
   position: 9,
   ownLength: 3198,
   ownProgress: 3198,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:02:57.210Z",
   publishedAt: "2024-12-20",
   externalLink:

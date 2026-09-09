@@ -8,7 +8,7 @@ export const breakerOfHorizons008888Mending = {
   story: "story-read/breaker-of-horizons",
   position: 88,
   ownLength: 2066,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/641231/88-mending",

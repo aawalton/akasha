@@ -8,7 +8,7 @@ export const bookboundBunny0047B3Chapter43Seeding = {
   story: "bookbound-bunny",
   position: 47,
   ownLength: 2113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3417157/b3-chapter-43-seeding",

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002121Ambushed = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 21,
   ownLength: 1090,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1877533/21-ambushed",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0144144DemiurgesUrges = {
   story: "story-read/breaker-of-horizons",
   position: 144,
   ownLength: 2125,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/751714/144-demiurges-urges",

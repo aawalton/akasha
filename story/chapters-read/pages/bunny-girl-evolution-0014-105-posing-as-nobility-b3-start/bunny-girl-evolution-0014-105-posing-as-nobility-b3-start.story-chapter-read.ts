@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
   position: 14,
   ownLength: 2610,
   ownProgress: 2610,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:06.891Z",
   publishedAt: "2025-06-10",
   externalLink:

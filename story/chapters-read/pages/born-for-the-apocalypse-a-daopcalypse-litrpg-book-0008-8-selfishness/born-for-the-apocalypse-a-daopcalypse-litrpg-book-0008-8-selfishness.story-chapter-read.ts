@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00088Selfishness = {
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 8,
   ownLength: 1697,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-12",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1112256/8-selfishness",

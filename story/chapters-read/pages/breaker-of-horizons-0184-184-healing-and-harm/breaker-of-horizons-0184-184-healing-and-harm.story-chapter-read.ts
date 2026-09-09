@@ -8,7 +8,7 @@ export const breakerOfHorizons0184184HealingAndHarm = {
   story: "story-read/breaker-of-horizons",
   position: 184,
   ownLength: 2282,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/861831/184-healing-and-harm",

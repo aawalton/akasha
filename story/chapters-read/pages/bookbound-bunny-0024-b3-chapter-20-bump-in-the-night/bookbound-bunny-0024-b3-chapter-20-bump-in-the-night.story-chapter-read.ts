@@ -8,7 +8,7 @@ export const bookboundBunny0024B3Chapter20BumpInTheNight = {
   story: "bookbound-bunny",
   position: 24,
   ownLength: 2035,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-21",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3176095/b3-chapter-20-bump-in-the-night",

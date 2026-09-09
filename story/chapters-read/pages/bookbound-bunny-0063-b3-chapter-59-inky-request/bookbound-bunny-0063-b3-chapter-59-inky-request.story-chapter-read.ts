@@ -8,7 +8,7 @@ export const bookboundBunny0063B3Chapter59InkyRequest = {
   story: "bookbound-bunny",
   position: 63,
   ownLength: 2344,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3610845/b3-chapter-59-inky-request",

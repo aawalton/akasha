@@ -8,7 +8,7 @@ export const breakerOfHorizons0170170BindingPower = {
   story: "story-read/breaker-of-horizons",
   position: 170,
   ownLength: 2213,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-17",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/826574/170-binding-power",

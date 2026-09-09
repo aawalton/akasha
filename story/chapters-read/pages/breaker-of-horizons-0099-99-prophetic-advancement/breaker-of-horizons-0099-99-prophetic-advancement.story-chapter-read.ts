@@ -8,7 +8,7 @@ export const breakerOfHorizons009999PropheticAdvancement = {
   story: "story-read/breaker-of-horizons",
   position: 99,
   ownLength: 2064,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-12",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/663178/99-prophetic-advancement",

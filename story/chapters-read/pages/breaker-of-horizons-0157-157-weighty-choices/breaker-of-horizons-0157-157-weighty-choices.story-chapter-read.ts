@@ -8,7 +8,7 @@ export const breakerOfHorizons0157157WeightyChoices = {
   story: "story-read/breaker-of-horizons",
   position: 157,
   ownLength: 2603,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-02",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/798770/157-weighty-choices",

@@ -8,7 +8,7 @@ export const breakerOfHorizons0186Hiatus = {
   story: "story-read/breaker-of-horizons",
   position: 186,
   ownLength: 114,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-21",
   externalLink: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/868784/hiatus",
   externalId: "868784",

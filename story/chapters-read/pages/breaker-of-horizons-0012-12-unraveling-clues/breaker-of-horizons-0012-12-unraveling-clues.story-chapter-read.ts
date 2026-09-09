@@ -8,7 +8,7 @@ export const breakerOfHorizons001212UnravelingClues = {
   story: "story-read/breaker-of-horizons",
   position: 12,
   ownLength: 1955,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/509024/12-unraveling-clues",

@@ -8,7 +8,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0067Book2Chapter4Shadow =
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 67,
   ownLength: 1301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2267376/book-2-chapter-4--shadow",

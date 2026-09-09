@@ -8,7 +8,7 @@ export const bookboundBunny0074B3Chapter70OpeningAct = {
   story: "bookbound-bunny",
   position: 74,
   ownLength: 2344,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3723085/b3-chapter-70-opening-act",

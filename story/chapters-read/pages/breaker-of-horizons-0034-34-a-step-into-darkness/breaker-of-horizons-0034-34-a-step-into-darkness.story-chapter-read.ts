@@ -8,7 +8,7 @@ export const breakerOfHorizons003434AStepIntoDarkness = {
   story: "story-read/breaker-of-horizons",
   position: 34,
   ownLength: 2642,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/545263/34-a-step-into-darkness",
