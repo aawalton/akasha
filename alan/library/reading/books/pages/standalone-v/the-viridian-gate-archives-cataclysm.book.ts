@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theViridianGateArchivesCataclysm = {
   id: "019db533-f38b-70c0-acd9-b967c3e7eeb0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-viridian-gate-archives-cataclysm",
   title: "The Viridian Gate Archives: Cataclysm",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theMansGuideToWomen = {
   id: "019db533-f38a-722c-936b-e9651e43b000",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-mans-guide-to-women",
   title: "The Man's Guide to Women",
   status: "not-started",

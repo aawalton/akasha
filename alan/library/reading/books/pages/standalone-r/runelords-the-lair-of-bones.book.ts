@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const runelordsTheLairOfBones = {
   id: "019db533-f39a-7858-90f9-868f6f51a599",
   pageTypeSlug: "book",
+  type: "book",
   slug: "runelords-the-lair-of-bones",
   title: "Runelords: The Lair of Bones",
   status: "not-started",

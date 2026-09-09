@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const supercommunicators = {
   id: "019db533-f39e-7067-ba30-20cbb6726512",
   pageTypeSlug: "book",
+  type: "book",
   slug: "supercommunicators",
   title: "Supercommunicators",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theRithmatist = {
   id: "019db533-f39d-7273-80b0-eb874d10a945",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-rithmatist",
   title: "The Rithmatist",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const monsterHunterMemoirsGrunge = {
   id: "019db533-f39a-7eb4-9aa4-8e5e3ab14174",
   pageTypeSlug: "book",
+  type: "book",
   slug: "monster-hunter-memoirs-grunge",
   title: "Monster Hunter Memoirs: Grunge",
   status: "not-started",

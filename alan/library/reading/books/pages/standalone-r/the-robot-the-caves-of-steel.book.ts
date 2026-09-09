@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theRobotTheCavesOfSteel = {
   id: "019db533-f39a-7a79-b3c3-e688ba3ed9bb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-robot-the-caves-of-steel",
   title: "The Robot: The Caves of Steel",
   status: "not-started",

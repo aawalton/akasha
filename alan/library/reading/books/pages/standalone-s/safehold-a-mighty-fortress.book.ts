@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const safeholdAMightyFortress = {
   id: "019db533-f39b-72a0-8380-acb6bbe9c4ec",
   pageTypeSlug: "book",
+  type: "book",
   slug: "safehold-a-mighty-fortress",
   title: "Safehold: A Mighty Fortress",
   status: "not-started",

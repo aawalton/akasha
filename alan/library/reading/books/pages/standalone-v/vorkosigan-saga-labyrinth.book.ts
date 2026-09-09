@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vorkosiganSagaLabyrinth = {
   id: "019db533-f39a-7e7f-8c52-ca805dbb6f38",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vorkosigan-saga-labyrinth",
   title: "Vorkosigan Saga: Labyrinth",
   status: "not-started",

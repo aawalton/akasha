@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const warGodWindRidersOath = {
   id: "019db533-f39a-77d3-af55-3371b9d85992",
   pageTypeSlug: "book",
+  type: "book",
   slug: "war-god-wind-riders-oath",
   title: "War God: Wind Rider's Oath",
   status: "not-started",

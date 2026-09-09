@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const teachingsOfBrighamYoung = {
   id: "019db533-f39d-7a0b-80fd-af7e7ee58762",
   pageTypeSlug: "book",
+  type: "book",
   slug: "teachings-of-brigham-young",
   title: "Teachings of Brigham Young",
   status: "not-started",

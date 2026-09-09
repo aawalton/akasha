@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const teachingsOfDavidOMckay = {
   id: "019db533-f39d-7994-9a48-16de0b257432",
   pageTypeSlug: "book",
+  type: "book",
   slug: "teachings-of-david-o-mckay",
   title: "Teachings of David O. McKay",
   status: "not-started",

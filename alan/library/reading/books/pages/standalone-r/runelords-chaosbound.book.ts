@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const runelordsChaosbound = {
   id: "019db533-f39b-7238-a20f-bcf937be9ac9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "runelords-chaosbound",
   title: "Runelords: Chaosbound",
   status: "not-started",

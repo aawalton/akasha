@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const ultimateLevel1ShatteredDreams = {
   id: "019db533-f38b-7130-8314-1602a5c445c4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "ultimate-level-1-shattered-dreams",
   title: "Ultimate Level 1: Shattered Dreams",
   status: "completed",

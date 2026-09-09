@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theViridianGateArchivesImperialLegion = {
   id: "019db533-f38b-708e-9b9a-f30e142c182d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-viridian-gate-archives-imperial-legion",
   title: "The Viridian Gate Archives: Imperial Legion",
   status: "completed",

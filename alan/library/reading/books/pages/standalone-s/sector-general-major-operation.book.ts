@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sectorGeneralMajorOperation = {
   id: "019db533-f38b-73c5-bb19-e7e556fa4308",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sector-general-major-operation",
   title: "Sector General: Major Operation",
   status: "not-started",

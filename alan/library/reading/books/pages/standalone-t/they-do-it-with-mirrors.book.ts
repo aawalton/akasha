@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theyDoItWithMirrors = {
   id: "019db533-f399-7baa-b8de-d8c412c5c544",
   pageTypeSlug: "book",
+  type: "book",
   slug: "they-do-it-with-mirrors",
   title: "They Do It with Mirrors",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sylOsmosis = {
   id: "019db533-f391-7722-9b5c-bbdc8bb2c3e4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "syl-osmosis",
   title: "Syl: Osmosis",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rama2 = {
   id: "019db533-f39a-7d69-b3d3-6848491f9279",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rama-2",
   title: "Rama 2",
   status: "not-started",

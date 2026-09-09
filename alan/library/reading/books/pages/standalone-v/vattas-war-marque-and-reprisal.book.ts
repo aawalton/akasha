@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vattasWarMarqueAndReprisal = {
   id: "019db533-f39a-7f64-8143-2de092f4e2f4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vattas-war-marque-and-reprisal",
   title: "Vatta's War: Marque and Reprisal",
   status: "not-started",

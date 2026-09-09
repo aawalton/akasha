@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const runelordsTheRunelords = {
   id: "019db533-f39a-78a9-a1c1-3f9fd2915763",
   pageTypeSlug: "book",
+  type: "book",
   slug: "runelords-the-runelords",
   title: "Runelords: The Runelords",
   status: "not-started",

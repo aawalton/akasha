@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wheelOfTimeKnifeOfDreams = {
   id: "019db533-f39a-7e94-9ca5-ae1ecff17753",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wheel-of-time-knife-of-dreams",
   title: "Wheel of Time: Knife of Dreams",
   status: "completed",

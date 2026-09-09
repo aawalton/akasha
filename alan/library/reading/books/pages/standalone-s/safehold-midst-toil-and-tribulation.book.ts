@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const safeholdMidstToilAndTribulation = {
   id: "019db533-f39a-7e34-a9a7-0c4bf6855cd4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "safehold-midst-toil-and-tribulation",
   title: "Safehold: Midst Toil and Tribulation",
   status: "not-started",

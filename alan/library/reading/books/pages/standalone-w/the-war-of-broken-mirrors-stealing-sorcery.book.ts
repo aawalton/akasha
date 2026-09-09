@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWarOfBrokenMirrorsStealingSorcery = {
   id: "019db533-f39a-7b52-9768-563109954044",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-war-of-broken-mirrors-stealing-sorcery",
   title: "The War of Broken Mirrors: Stealing Sorcery",
   status: "completed",

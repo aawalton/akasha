@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theReckonersFirefight = {
   id: "019db533-f38a-7c31-8fb8-167a1e6ebf3c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-reckoners-firefight",
   title: "The Reckoners: Firefight",
   status: "not-started",

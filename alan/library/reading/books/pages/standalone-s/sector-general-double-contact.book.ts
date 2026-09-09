@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sectorGeneralDoubleContact = {
   id: "019db533-f39b-724d-a631-bdc27170412a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sector-general-double-contact",
   title: "Sector General: Double Contact",
   status: "not-started",

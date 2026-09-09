@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const safeholdAtTheSignOfTriumph = {
   id: "019db533-f39b-7156-b023-96832d2ba01f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "safehold-at-the-sign-of-triumph",
   title: "Safehold: At the Sign of Triumph",
   status: "not-started",

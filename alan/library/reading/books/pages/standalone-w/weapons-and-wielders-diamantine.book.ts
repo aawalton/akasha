@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const weaponsAndWieldersDiamantine = {
   id: "019db533-f38a-7399-81fe-38a8144b1ea3",
   pageTypeSlug: "book",
+  type: "book",
   slug: "weapons-and-wielders-diamantine",
   title: "Weapons and Wielders: Diamantine",
   status: "completed",

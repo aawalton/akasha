@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const robertLangdonInferno = {
   id: "019db533-f39b-705c-8374-17e2f68b9b6a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "robert-langdon-inferno",
   title: "Robert Langdon: Inferno",
   status: "not-started",

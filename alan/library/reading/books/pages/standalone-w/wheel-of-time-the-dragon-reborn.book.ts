@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wheelOfTimeTheDragonReborn = {
   id: "019db533-f39a-7bdd-b90f-dd7239ab70cd",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wheel-of-time-the-dragon-reborn",
   title: "Wheel of Time: The Dragon Reborn",
   status: "completed",

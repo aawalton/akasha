@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const notMyWillButThine = {
   id: "019db533-f39d-70e3-9ec6-973bd9f53a42",
   pageTypeSlug: "book",
+  type: "book",
   slug: "not-my-will-but-thine",
   title: "Not My Will, But Thine",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const systemUniverseRequirements = {
   id: "019db533-f391-775d-987e-dd641ff4a212",
   pageTypeSlug: "book",
+  type: "book",
   slug: "system-universe-requirements",
   title: "System Universe: Requirements",
   status: "completed",

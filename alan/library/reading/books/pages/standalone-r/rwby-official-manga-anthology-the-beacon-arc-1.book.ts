@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rwbyOfficialMangaAnthologyTheBeaconArc1 = {
   id: "019db533-f38b-719e-ade0-1cbb765546be",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rwby-official-manga-anthology-the-beacon-arc-1",
   title: "RWBY: Official Manga Anthology: The Beacon Arc 1",
   status: "not-started",

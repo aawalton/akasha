@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesDeathsBrightDay = {
   id: "019db533-f39b-71a9-bce0-e900079fedb7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-deaths-bright-day",
   title: "RCN Series: Death's Bright Day",
   status: "not-started",

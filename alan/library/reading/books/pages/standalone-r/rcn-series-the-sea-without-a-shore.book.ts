@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesTheSeaWithoutAShore = {
   id: "019db533-f39a-789b-ac93-569289471088",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-the-sea-without-a-shore",
   title: "RCN Series: The Sea Without a Shore",
   status: "not-started",

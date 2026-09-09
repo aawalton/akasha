@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const voidknightAscension = {
   id: "019db533-f38a-749e-b930-ce8ce94f00cd",
   pageTypeSlug: "book",
+  type: "book",
   slug: "voidknight-ascension",
   title: "Voidknight Ascension",
   status: "completed",

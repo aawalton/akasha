@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const thePoemsOfRobertBrowning = {
   id: "019db533-f39d-75ee-bcb9-619efda5a0df",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-poems-of-robert-browning",
   title: "The Poems of Robert Browning",
   status: "not-started",

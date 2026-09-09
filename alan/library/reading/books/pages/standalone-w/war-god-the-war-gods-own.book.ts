@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const warGodTheWarGodsOwn = {
   id: "019db533-f39a-7a52-84ab-66d601167451",
   pageTypeSlug: "book",
+  type: "book",
   slug: "war-god-the-war-gods-own",
   title: "War God: The War God's Own",
   status: "not-started",

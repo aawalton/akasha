@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const saintsBoldlyNoblyAndIndependent = {
   id: "019db533-f39d-7282-8b97-a32eaa7d7dc8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "saints-boldly-nobly-and-independent",
   title: "Saints: Boldly, Nobly, and Independent",
   status: "not-started",

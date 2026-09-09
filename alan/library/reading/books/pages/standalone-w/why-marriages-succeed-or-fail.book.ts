@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const whyMarriagesSucceedOrFail = {
   id: "019db533-f38a-7241-8a68-2eff7a477223",
   pageTypeSlug: "book",
+  type: "book",
   slug: "why-marriages-succeed-or-fail",
   title: "Why Marriages Succeed or Fail",
   status: "completed",

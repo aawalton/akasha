@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vattasWarEngagingTheEnemy = {
   id: "019db533-f39b-7111-95d1-696d35047b74",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vattas-war-engaging-the-enemy",
   title: "Vatta's War: Engaging the Enemy",
   status: "not-started",

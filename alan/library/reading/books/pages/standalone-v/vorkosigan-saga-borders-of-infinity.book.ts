@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vorkosiganSagaBordersOfInfinity = {
   id: "019db533-f39b-7140-b424-72748107a0d4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vorkosigan-saga-borders-of-infinity",
   title: "Vorkosigan Saga: Borders of Infinity",
   status: "not-started",

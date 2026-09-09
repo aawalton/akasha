@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sylNucleus = {
   id: "019db533-f391-7744-8622-598fb16cc40c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "syl-nucleus",
   title: "Syl: Nucleus",
   status: "completed",

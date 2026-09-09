@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const robertLangdonAngelsAndDemons = {
   id: "019db533-f39b-7210-bda7-f15206d1c22f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "robert-langdon-angels-and-demons",
   title: "Robert Langdon: Angels & Demons",
   status: "not-started",

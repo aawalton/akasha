@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineSecondSquadJamFinish = {
   id: "019db533-f38b-7288-b07f-14ae51f2fe9d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-alternative-gun-gale-online-second-squad-jam-finish",
   title: "Sword Art Online Alternative Gun Gale Online: Second Squad Jam: Finish",
   status: "not-started",

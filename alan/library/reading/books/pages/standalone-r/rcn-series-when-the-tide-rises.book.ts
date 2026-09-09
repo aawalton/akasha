@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesWhenTheTideRises = {
   id: "019db533-f39a-77f2-9926-487e870901e3",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-when-the-tide-rises",
   title: "RCN Series: When the Tide Rises",
   status: "not-started",

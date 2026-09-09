@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rwbyNovelSeriesRomanHolidayAnAfkBook = {
   id: "019db533-f38b-71d1-8fc6-14b76b0d961f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rwby-novel-series-roman-holiday-an-afk-book",
   title: "RWBY Novel Series: Roman Holiday: An AFK Book",
   status: "not-started",

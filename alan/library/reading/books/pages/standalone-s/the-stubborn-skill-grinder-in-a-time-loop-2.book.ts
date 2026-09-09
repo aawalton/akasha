@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoop2 = {
   id: "019db533-f391-7b6d-b27d-54ec9def3d95",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-2",
   title: "The Stubborn Skill-Grinder In A Time Loop 2",
   status: "completed",

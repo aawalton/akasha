@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const systemUniverseSavannah = {
   id: "019db533-f391-778b-9034-26f737dd3b3c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "system-universe-savannah",
   title: "System Universe: Savannah",
   status: "completed",

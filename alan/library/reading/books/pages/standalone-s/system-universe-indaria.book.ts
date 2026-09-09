@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const systemUniverseIndaria = {
   id: "019db533-f391-774c-8db9-da61257bdc65",
   pageTypeSlug: "book",
+  type: "book",
   slug: "system-universe-indaria",
   title: "System Universe: Indaria",
   status: "completed",

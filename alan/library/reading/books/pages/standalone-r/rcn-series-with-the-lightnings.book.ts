@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesWithTheLightnings = {
   id: "019db533-f39a-781b-a97f-ae8ffb2a90b8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-with-the-lightnings",
   title: "RCN Series: With the Lightnings",
   status: "not-started",

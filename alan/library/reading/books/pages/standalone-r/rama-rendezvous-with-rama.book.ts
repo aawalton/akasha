@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const ramaRendezvousWithRama = {
   id: "019db533-f39a-7c76-a347-64d2f0398b9d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rama-rendezvous-with-rama",
   title: "Rama: Rendezvous with Rama",
   status: "not-started",

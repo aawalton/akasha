@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const speedrunningTheMultiverse = {
   id: "019db533-f391-7670-aaa1-f6ebe4eca46b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "speedrunning-the-multiverse",
   title: "Speedrunning the Multiverse",
   status: "completed",

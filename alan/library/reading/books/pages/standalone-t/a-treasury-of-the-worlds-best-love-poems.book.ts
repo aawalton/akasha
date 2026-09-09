@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const aTreasuryOfTheWorldsBestLovePoems = {
   id: "019db533-f39d-7c84-96e0-57e891d4956a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "a-treasury-of-the-worlds-best-love-poems",
   title: "A Treasury of the World's Best Love Poems",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWideGreenWorldSeriesPassage = {
   id: "019db533-f39a-7868-928c-9c80ffa53261",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-wide-green-world-series-passage",
   title: "The Wide Green World Series: Passage",
   status: "not-started",

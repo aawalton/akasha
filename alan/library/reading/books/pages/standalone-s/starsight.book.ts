@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const starsight = {
   id: "019db533-f39d-700d-a96d-d2d3376e0b39",
   pageTypeSlug: "book",
+  type: "book",
   slug: "starsight",
   title: "Starsight",
   status: "completed",

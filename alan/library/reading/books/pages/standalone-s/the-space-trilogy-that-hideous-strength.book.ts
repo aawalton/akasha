@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSpaceTrilogyThatHideousStrength = {
   id: "019db533-f39a-7bbd-9492-c538219ca94d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-space-trilogy-that-hideous-strength",
   title: "The Space Trilogy: That Hideous Strength",
   status: "not-started",

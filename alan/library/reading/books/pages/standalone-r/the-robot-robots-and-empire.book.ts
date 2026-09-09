@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theRobotRobotsAndEmpire = {
   id: "019db533-f38b-7151-88df-8e1dc5179834",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-robot-robots-and-empire",
   title: "The Robot: Robots and Empire",
   status: "not-started",

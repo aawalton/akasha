@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theUpwardSpiral = {
   id: "019db533-f39d-7ead-8fe2-7710be503f25",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-upward-spiral",
   title: "The Upward Spiral",
   status: "not-started",

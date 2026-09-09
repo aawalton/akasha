@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rwbyNovelSeriesBeforeTheDawnAnAfkBook = {
   id: "019db533-f38b-71a6-8f1e-6a21213bb7c0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rwby-novel-series-before-the-dawn-an-afk-book",
   title: "RWBY Novel Series: Before the Dawn: An AFK Book",
   status: "not-started",

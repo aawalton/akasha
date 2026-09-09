@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnlineProgressive6 = {
   id: "019db533-f391-7700-a036-fe14cf3ad174",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-progressive-6",
   title: "Sword Art Online Progressive 6",
   status: "not-started",

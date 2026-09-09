@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sleepingMurder = {
   id: "019db533-f399-7b6a-b27f-c77260cea43f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sleeping-murder",
   title: "Sleeping Murder",
   status: "not-started",

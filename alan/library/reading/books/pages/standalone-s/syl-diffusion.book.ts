@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sylDiffusion = {
   id: "019db533-f391-7733-9a3c-4265a4ec32d7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "syl-diffusion",
   title: "Syl: Diffusion",
   status: "completed",

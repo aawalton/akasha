@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSevenPrinciplesForMakingMarriageWork = {
   id: "019db533-f38a-71ef-a6bb-da2e7dd15394",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-seven-principles-for-making-marriage-work",
   title: "The Seven Principles for Making Marriage Work",
   status: "not-started",

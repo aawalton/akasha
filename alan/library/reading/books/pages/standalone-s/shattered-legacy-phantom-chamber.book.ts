@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const shatteredLegacyPhantomChamber = {
   id: "019db533-f38a-73dc-b1a7-058c1e3bd183",
   pageTypeSlug: "book",
+  type: "book",
   slug: "shattered-legacy-phantom-chamber",
   title: "Shattered Legacy: Phantom Chamber",
   status: "not-started",

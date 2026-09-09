@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const safeholdThroughFieryTrials = {
   id: "019db533-f39a-78fe-aa42-416288293d14",
   pageTypeSlug: "book",
+  type: "book",
   slug: "safehold-through-fiery-trials",
   title: "Safehold: Through Fiery Trials",
   status: "not-started",

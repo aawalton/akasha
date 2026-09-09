@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wordsOfRadiance = {
   id: "019db533-f39c-7f54-9735-77fc2a61b9de",
   pageTypeSlug: "book",
+  type: "book",
   slug: "words-of-radiance",
   title: "Words of Radiance",
   status: "not-started",

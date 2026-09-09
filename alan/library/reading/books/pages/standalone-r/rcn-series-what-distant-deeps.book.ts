@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesWhatDistantDeeps = {
   id: "019db533-f39a-7840-a8c9-95aa38c7b175",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-what-distant-deeps",
   title: "RCN Series: What Distant Deeps",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const safeholdByHeresiesDistressed = {
   id: "019db533-f39b-7289-98aa-e53c5a5421c6",
   pageTypeSlug: "book",
+  type: "book",
   slug: "safehold-by-heresies-distressed",
   title: "Safehold: By Heresies Distressed",
   status: "not-started",

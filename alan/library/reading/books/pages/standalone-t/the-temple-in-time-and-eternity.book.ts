@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theTempleInTimeAndEternity = {
   id: "019db533-f39d-757e-8ec2-892fd05a9f7b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-temple-in-time-and-eternity",
   title: "The Temple in Time and Eternity",
   status: "not-started",

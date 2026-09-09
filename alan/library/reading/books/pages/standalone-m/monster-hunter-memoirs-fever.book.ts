@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const monsterHunterMemoirsFever = {
   id: "019db533-f39a-7e49-b477-62bd6a790577",
   pageTypeSlug: "book",
+  type: "book",
   slug: "monster-hunter-memoirs-fever",
   title: "Monster Hunter Memoirs: Fever",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const stormlightArchiveWindAndTruth = {
   id: "019db533-f38a-7bf2-aaae-40c879e5b8fc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "stormlight-archive-wind-and-truth",
   title: "Stormlight Archive: Wind and Truth",
   status: "not-started",

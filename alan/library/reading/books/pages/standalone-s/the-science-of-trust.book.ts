@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theScienceOfTrust = {
   id: "019db533-f39d-7f6b-9140-56bd69fcd686",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-science-of-trust",
   title: "The Science of Trust",
   status: "completed",

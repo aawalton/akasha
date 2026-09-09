@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const oldKingdomSabriel = {
   id: "019db533-f39a-7d48-9ef0-af5f32a2f23b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "old-kingdom-sabriel",
   title: "Old Kingdom: Sabriel",
   status: "not-started",

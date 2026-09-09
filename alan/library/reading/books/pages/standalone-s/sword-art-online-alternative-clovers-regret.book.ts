@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnlineAlternativeCloversRegret = {
   id: "019db533-f386-775e-a28f-c854fe6e15b1",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-alternative-clovers-regret",
   title: "Sword Art Online Alternative Clover's Regret",
   status: "not-started",

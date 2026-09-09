@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const strayCatStrut4 = {
   id: "019db533-f391-76ef-9c75-1ce744059d52",
   pageTypeSlug: "book",
+  type: "book",
   slug: "stray-cat-strut-4",
   title: "Stray Cat Strut 4",
   status: "not-started",

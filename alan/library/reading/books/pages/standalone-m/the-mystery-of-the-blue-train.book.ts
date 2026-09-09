@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theMysteryOfTheBlueTrain = {
   id: "019db533-f399-7cca-849d-a9788ede6e97",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-mystery-of-the-blue-train",
   title: "The Mystery of the Blue Train",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rcnSeriesLtLearyCommanding = {
   id: "019db533-f39a-7f82-bbfe-996476b9f9b5",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rcn-series-lt-leary-commanding",
   title: "RCN Series: Lt. Leary Commanding",
   status: "not-started",

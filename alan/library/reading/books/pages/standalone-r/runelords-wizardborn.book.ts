@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const runelordsWizardborn = {
   id: "019db533-f39a-782b-967b-93f103ccbc1b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "runelords-wizardborn",
   title: "Runelords: Wizardborn",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wolfmanWarlockLibriohexer = {
   id: "019db533-f38a-742d-baee-22e038ffcb26",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wolfman-warlock-libriohexer",
   title: "Wolfman Warlock: Libriohexer",
   status: "not-started",

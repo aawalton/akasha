@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const systemUniverseSystemInterference = {
   id: "019db533-f391-7754-b567-232ec4616ea7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "system-universe-system-interference",
   title: "System Universe: System Interference",
   status: "completed",

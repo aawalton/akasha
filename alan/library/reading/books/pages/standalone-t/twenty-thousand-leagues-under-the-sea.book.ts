@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const twentyThousandLeaguesUnderTheSea = {
   id: "019db533-f39d-75f6-becd-c9ba8718c6bd",
   pageTypeSlug: "book",
+  type: "book",
   slug: "twenty-thousand-leagues-under-the-sea",
   title: "Twenty Thousand Leagues Under the Sea",
   status: "not-started",

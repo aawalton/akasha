@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const oldKingdomGoldenhand = {
   id: "019db533-f39b-70cd-b048-e348513caae0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "old-kingdom-goldenhand",
   title: "Old Kingdom: Goldenhand",
   status: "not-started",

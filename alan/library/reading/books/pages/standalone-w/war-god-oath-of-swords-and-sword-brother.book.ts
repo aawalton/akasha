@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const warGodOathOfSwordsAndSwordBrother = {
   id: "019db533-f39a-7dd4-aa1e-e33dd57f3721",
   pageTypeSlug: "book",
+  type: "book",
   slug: "war-god-oath-of-swords-and-sword-brother",
   title: "War God: Oath of Swords and Sword Brother",
   status: "not-started",

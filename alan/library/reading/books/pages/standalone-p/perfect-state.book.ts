@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const perfectState = {
   id: "019db533-f39d-70ab-a06a-9fb76a7e8a14",
   pageTypeSlug: "book",
+  type: "book",
   slug: "perfect-state",
   title: "Perfect State",
   status: "completed",

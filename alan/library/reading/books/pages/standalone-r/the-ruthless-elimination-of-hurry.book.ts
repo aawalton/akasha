@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theRuthlessEliminationOfHurry = {
   id: "019db533-f388-7ef0-9b5f-c376ac4d928d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-ruthless-elimination-of-hurry",
   title:
     "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const spaceOdyssey2061OdysseyThree = {
   id: "019db533-f39b-7425-ab5f-fd7fe43528e7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "space-odyssey-2061-odyssey-three",
   title: "Space Odyssey: 2061: Odyssey Three",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const throughTheYears = {
   id: "019db533-f39d-75a5-81d5-26bcdda9f784",
   pageTypeSlug: "book",
+  type: "book",
   slug: "through-the-years",
   title: "Through The Years",
   status: "paused",

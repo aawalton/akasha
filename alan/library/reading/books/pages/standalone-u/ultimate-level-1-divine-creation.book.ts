@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const ultimateLevel1DivineCreation = {
   id: "019db533-f38a-7520-b429-c494c188696d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "ultimate-level-1-divine-creation",
   title: "Ultimate Level 1: Divine Creation",
   status: "completed",

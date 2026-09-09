@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const reunion = {
   id: "019db533-f399-7aea-ae40-9b41d16ed02e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "reunion",
   title: "Reunion",
   status: "not-started",

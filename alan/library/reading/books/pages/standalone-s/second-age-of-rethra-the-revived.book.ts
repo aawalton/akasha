@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const secondAgeOfRethraTheRevived = {
   id: "019db533-f38a-7d6b-bb5b-c405747cb2f8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "second-age-of-rethra-the-revived",
   title: "Second Age of Rethra: The Revived",
   status: "completed",

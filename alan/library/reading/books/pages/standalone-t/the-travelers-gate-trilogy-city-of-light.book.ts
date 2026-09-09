@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theTravelersGateTrilogyCityOfLight = {
   id: "019db533-f39b-71c0-9239-9afcbc580087",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-travelers-gate-trilogy-city-of-light",
   title: "The Traveler's Gate Trilogy: City of Light",
   status: "not-started",

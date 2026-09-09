@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const shatteredLegacyCrystalAwakening = {
   id: "019db533-f38a-73d4-ba10-5be193dd3af7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "shattered-legacy-crystal-awakening",
   title: "Shattered Legacy: Crystal Awakening",
   status: "not-started",

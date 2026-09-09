@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const stonehavenLeagueCitadelOfSmoke = {
   id: "019db533-f391-769e-b4b1-8067672e8dad",
   pageTypeSlug: "book",
+  type: "book",
   slug: "stonehaven-league-citadel-of-smoke",
   title: "Stonehaven League: Citadel of Smoke",
   status: "completed",

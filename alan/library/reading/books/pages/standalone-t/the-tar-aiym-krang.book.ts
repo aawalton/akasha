@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theTarAiymKrang = {
   id: "019db533-f399-7b15-b6cb-f637b4aee776",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-tar-aiym-krang",
   title: "The Tar-Aiym Krang",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSpokenMageVoiceOfLife = {
   id: "019db533-f39a-793b-8d64-594f56a6e29f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-spoken-mage-voice-of-life",
   title: "The Spoken Mage: Voice of Life",
   status: "not-started",

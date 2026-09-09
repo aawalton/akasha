@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const redawn = {
   id: "019db533-f39c-7fc9-89d8-10cfdc0bd50b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "redawn",
   title: "ReDawn",
   status: "completed",

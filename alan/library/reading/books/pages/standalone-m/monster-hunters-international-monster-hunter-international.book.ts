@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const monsterHuntersInternationalMonsterHunterInternational = {
   id: "019db533-f39a-7e6a-bc77-b0257e2682e8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "monster-hunters-international-monster-hunter-international",
   title: "Monster Hunters International: Monster Hunter International",
   status: "not-started",

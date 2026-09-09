@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vattasWarCommandDecision = {
   id: "019db533-f39b-72c5-9c19-b1a5a596fbe5",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vattas-war-command-decision",
   title: "Vatta's War: Command Decision",
   status: "not-started",

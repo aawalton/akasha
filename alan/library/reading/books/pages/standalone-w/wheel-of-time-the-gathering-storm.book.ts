@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wheelOfTimeTheGatheringStorm = {
   id: "019db533-f39a-7bc7-8634-7482532d251e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wheel-of-time-the-gathering-storm",
   title: "Wheel of Time: The Gathering Storm",
   status: "completed",

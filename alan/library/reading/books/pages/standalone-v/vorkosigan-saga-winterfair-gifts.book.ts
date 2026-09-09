@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const vorkosiganSagaWinterfairGifts = {
   id: "019db533-f39a-7839-bf22-f4b378b74613",
   pageTypeSlug: "book",
+  type: "book",
   slug: "vorkosigan-saga-winterfair-gifts",
   title: "Vorkosigan Saga: Winterfair Gifts",
   status: "not-started",

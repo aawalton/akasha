@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theViridianGateArchivesEmpiricalEndgame = {
   id: "019db533-f391-7c09-b241-fd3865d71072",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-viridian-gate-archives-empirical-endgame",
   title: "The Viridian Gate Archives: Empirical Endgame",
   status: "not-started",

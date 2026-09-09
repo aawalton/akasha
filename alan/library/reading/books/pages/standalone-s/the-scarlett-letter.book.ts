@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theScarlettLetter = {
   id: "019db533-f39d-7577-8bd0-1e32c0fb918c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-scarlett-letter",
   title: "The Scarlett Letter",
   status: "not-started",

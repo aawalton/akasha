@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSpaceTrilogyPerelandra = {
   id: "019db533-f39a-7c12-9e5e-02931938d7eb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-space-trilogy-perelandra",
   title: "The Space Trilogy: Perelandra",
   status: "not-started",

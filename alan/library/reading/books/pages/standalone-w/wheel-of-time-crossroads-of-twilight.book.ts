@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wheelOfTimeCrossroadsOfTwilight = {
   id: "019db533-f39b-718b-9dc1-ca5cc1b785fe",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wheel-of-time-crossroads-of-twilight",
   title: "Wheel of Time: Crossroads of Twilight",
   status: "completed",

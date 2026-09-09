@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rewire = {
   id: "019db533-f39e-7060-9558-251a590c33fd",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rewire",
   title: "Rewire",
   status: "not-started",

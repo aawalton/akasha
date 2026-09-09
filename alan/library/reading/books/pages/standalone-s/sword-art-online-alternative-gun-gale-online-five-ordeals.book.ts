@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineFiveOrdeals = {
   id: "019db533-f38b-7268-b609-8e3eabc19861",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-alternative-gun-gale-online-five-ordeals",
   title: "Sword Art Online Alternative Gun Gale Online: Five Ordeals",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const robertLangdonTheSecretOfSecrets = {
   id: "019db533-f38b-7169-8844-24b4ce70717f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "robert-langdon-the-secret-of-secrets",
   title: "Robert Langdon: The Secret of Secrets",
   status: "not-started",

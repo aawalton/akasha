@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const wheelOfTimeAMemoryOfLight = {
   id: "019db533-f39b-7254-9748-1cec5327e17e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "wheel-of-time-a-memory-of-light",
   title: "Wheel of Time: A Memory of Light",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rwbyNovelSeriesAfterTheFallAnAfkBook = {
   id: "019db533-f38b-71c7-8c9b-8039c323cba2",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rwby-novel-series-after-the-fall-an-afk-book",
   title: "RWBY Novel Series: After the Fall: An AFK Book",
   status: "not-started",

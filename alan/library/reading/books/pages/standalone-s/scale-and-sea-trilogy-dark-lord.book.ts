@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const scaleAndSeaTrilogyDarkLord = {
   id: "019db533-f38a-74a7-b762-b4a436a319c4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "scale-and-sea-trilogy-dark-lord",
   title: "Scale & Sea Trilogy: Dark Lord",
   status: "completed",

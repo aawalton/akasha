@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnline14 = {
   id: "019db533-f38b-72eb-9466-bfaed89c2c8f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-14",
   title: "Sword Art Online 14",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoiceFinish = {
   id: "019db533-f38b-7290-afd0-01dfb0b05ab7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sword-art-online-alternative-gun-gale-online-3rd-squad-jam-betrayers-choice-finish",
   title: "Sword Art Online Alternative Gun Gale Online: 3rd Squad Jam: Betrayers' Choice: Finish",
   status: "not-started",

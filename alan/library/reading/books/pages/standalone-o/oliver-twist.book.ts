@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const oliverTwist = {
   id: "019db533-f39d-7aed-b5d0-95049b81760d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "oliver-twist",
   title: "Oliver Twist",
   status: "not-started",

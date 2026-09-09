@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const ultimateLevel1NewPotential = {
   id: "019db533-f38b-7127-8284-06d347113edf",
   pageTypeSlug: "book",
+  type: "book",
   slug: "ultimate-level-1-new-potential",
   title: "Ultimate Level 1: New Potential",
   status: "completed",

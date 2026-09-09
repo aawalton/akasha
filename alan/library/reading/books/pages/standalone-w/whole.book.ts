@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const whole = {
   id: "019db533-f39d-7eef-bb81-d79b44681d2f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "whole",
   title: "Whole",
   status: "not-started",

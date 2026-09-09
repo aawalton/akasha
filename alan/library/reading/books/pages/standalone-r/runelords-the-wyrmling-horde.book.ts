@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const runelordsTheWyrmlingHorde = {
   id: "019db533-f39a-7a2f-bb9e-25160e96bfa6",
   pageTypeSlug: "book",
+  type: "book",
   slug: "runelords-the-wyrmling-horde",
   title: "Runelords: The Wyrmling Horde",
   status: "not-started",
