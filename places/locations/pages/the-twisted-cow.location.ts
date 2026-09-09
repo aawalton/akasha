@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theTwistedCow = {
   id: "019f1aec-0f8f-775d-ade3-127c80ef3d30",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-twisted-cow",
   title: "The Twisted Cow",
   address: "250 N University Ave, Provo, UT 84601, United States",

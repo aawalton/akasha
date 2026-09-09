@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theBruceScottishPub = {
   id: "019f1aec-0cfb-76e2-83cf-d632e60d5633",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-bruce-scottish-pub",
   title: "The Bruce Scottish Pub",
   latitude: 40.7659772,

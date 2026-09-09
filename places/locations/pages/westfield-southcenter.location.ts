@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const westfieldSouthcenter = {
   id: "019f1aec-0c73-76b5-b1d3-58e72d5482f1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "westfield-southcenter",
   title: "Westfield Southcenter",
   latitude: 47.4598632,

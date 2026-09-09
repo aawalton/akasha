@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const uvuAthleticsUtahCounty = {
   id: "019f322c-9c51-75cf-8480-cfdf7ed39073",
   pageTypeSlug: "location",
+  type: "location",
   slug: "uvu-athletics-utah-county",
   title: "UVU Athletics (Utah County)",
   address: "Utah County, UT",

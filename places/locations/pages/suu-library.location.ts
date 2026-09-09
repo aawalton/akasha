@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const suuLibrary = {
   id: "019f1aec-0f78-7f39-854a-163e46c1c1f7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "suu-library",
   title: "SUU Library",
   latitude: 37.675533,

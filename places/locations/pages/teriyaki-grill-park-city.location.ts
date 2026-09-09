@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const teriyakiGrillParkCity = {
   id: "019f1b49-5712-76c0-8211-1b961265f96b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "teriyaki-grill-park-city",
   title: "Teriyaki Grill - Park City",
   latitude: 40.6541625,

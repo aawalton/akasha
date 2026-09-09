@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const zubsPizzaSubsUtahCounty = {
   id: "019f322c-9caa-7102-8916-ef5bd1ac3a12",
   pageTypeSlug: "location",
+  type: "location",
   slug: "zubs-pizza-subs-utah-county",
   title: "Zub's Pizza & Sub's (Utah County)",
   address: "Utah County, UT",

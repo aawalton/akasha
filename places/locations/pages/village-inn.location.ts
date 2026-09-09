@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const villageInn = {
   id: "019f1aec-0f83-74dd-a5ae-32bd64049b48",
   pageTypeSlug: "location",
+  type: "location",
   slug: "village-inn",
   title: "Village Inn",
   address: "933 S University Ave, Provo, UT 84606, United States",

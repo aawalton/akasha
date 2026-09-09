@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tableTwentyFive = {
   id: "019f1b49-527c-7d82-8272-60e6a03daf35",
   pageTypeSlug: "location",
+  type: "location",
   slug: "table-twenty-five",
   title: "Table Twenty Five",
   latitude: 51.393311,

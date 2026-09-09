@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const universalEndlessSummerResortDocksideInnAndSuites = {
   id: "019f1b49-5760-7440-b387-221702ee616d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "universal-endless-summer-resort-dockside-inn-and-suites",
   title: "Universal Endless Summer Resort - Dockside Inn and Suites",
   latitude: 33.571087,

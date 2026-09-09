@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const thePicklrBluffdale = {
   id: "019f322c-9bc4-790a-a94d-db174cdd803f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-picklr-bluffdale",
   title: "The Picklr (Bluffdale)",
   address: "Bluffdale, UT",

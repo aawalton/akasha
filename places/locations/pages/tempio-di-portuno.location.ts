@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tempioDiPortuno = {
   id: "019f1aec-0da5-713f-9b44-ceecf7f0eaf3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tempio-di-portuno",
   title: "Tempio di Portuno",
   latitude: 41.8892365,

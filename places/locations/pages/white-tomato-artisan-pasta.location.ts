@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const whiteTomatoArtisanPasta = {
   id: "019f1b49-518e-75bc-bac0-18ec91a36158",
   pageTypeSlug: "location",
+  type: "location",
   slug: "white-tomato-artisan-pasta",
   title: "White Tomato Artisan Pasta",
   latitude: 41.014714,

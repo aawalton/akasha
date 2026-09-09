@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const timeOutMarketLisbon = {
   id: "019f1aec-0ec7-79fd-a843-5bfdf8a88c24",
   pageTypeSlug: "location",
+  type: "location",
   slug: "time-out-market-lisbon",
   title: "Time Out Market Lisbon",
   latitude: 38.7070934,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wholeFoodsMarketMadison = {
   id: "019f1aec-0f6e-7238-8f59-68ddd322c908",
   pageTypeSlug: "location",
+  type: "location",
   slug: "whole-foods-market-madison",
   title: "Whole Foods Market - Madison",
   latitude: 43.074633,

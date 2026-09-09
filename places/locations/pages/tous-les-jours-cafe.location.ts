@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tousLesJoursCafe = {
   id: "019f1aec-0d0d-75e8-b6d2-0f3f192dc697",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tous-les-jours-cafe",
   title: "TOUS les JOURS Café",
   latitude: 40.7608993,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const trureligionPancakeSteakhouse = {
   id: "019f1aec-0fe6-7977-9021-3683c209f364",
   pageTypeSlug: "location",
+  type: "location",
   slug: "trureligion-pancake-steakhouse",
   title: "TRUreligion Pancake & Steakhouse",
   address: "360 S State St Ste 158, Orem, UT 84058, United States",

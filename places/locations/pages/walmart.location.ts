@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const walmart = {
   id: "019f1b49-52c4-729a-8bab-bec7f46cb7a3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "walmart",
   title: "Walmart",
   latitude: 21.3076625,

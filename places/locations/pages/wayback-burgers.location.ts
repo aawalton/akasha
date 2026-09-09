@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const waybackBurgers = {
   id: "019f1aec-0cd9-71a3-b75b-fdc34b9a0717",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wayback-burgers",
   title: "Wayback Burgers",
   latitude: 53.3215951,

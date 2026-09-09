@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theCrookedSpoon = {
   id: "019f1b49-5761-7ceb-99f3-06173f2afcff",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-crooked-spoon",
   title: "The Crooked Spoon",
   latitude: 42.2163705,

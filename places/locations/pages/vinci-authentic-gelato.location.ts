@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const vinciAuthenticGelato = {
   id: "019f1aec-0f7b-79e6-90cf-398c101b2af2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "vinci-authentic-gelato",
   title: "Vinci Authentic Gelato",
   address: "490 N Freedom Blvd, Provo, UT 84601, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wendysLehi = {
   id: "019f322c-9c74-76f9-a23a-f772afd95efb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wendys-lehi",
   title: "Wendy's (Lehi)",
   address: "Lehi, UT",

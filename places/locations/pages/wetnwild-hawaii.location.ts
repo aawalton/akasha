@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wetnwildHawaii = {
   id: "019f1b49-52c1-75a3-a833-b4e47d61a44d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wetnwild-hawaii",
   title: "Wet'n'Wild Hawaii",
   latitude: 21.3585433,

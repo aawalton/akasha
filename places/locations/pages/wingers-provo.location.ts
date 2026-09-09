@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wingersProvo = {
   id: "019f322c-9c8c-723d-a271-720b70244020",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wingers-provo",
   title: "Wingers (Provo)",
   address: "Provo, UT",

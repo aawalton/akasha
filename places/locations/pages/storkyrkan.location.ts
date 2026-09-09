@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const storkyrkan = {
   id: "019f1aec-0e0b-7fa1-9273-ab1010b45704",
   pageTypeSlug: "location",
+  type: "location",
   slug: "storkyrkan",
   title: "Storkyrkan",
   latitude: 59.3257739,

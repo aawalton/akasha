@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const waterloopleinMarket = {
   id: "019f1aec-0e41-79a4-a943-a2c1e5c71197",
   pageTypeSlug: "location",
+  type: "location",
   slug: "waterlooplein-market",
   title: "Waterlooplein Market",
   latitude: 52.368622,

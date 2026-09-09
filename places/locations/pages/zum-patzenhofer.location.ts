@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const zumPatzenhofer = {
   id: "019f1aec-0d4c-786a-ab52-de90495e511e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "zum-patzenhofer",
   title: "Zum Patzenhofer",
   latitude: 52.5025098,

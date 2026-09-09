@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tropicalFarmsMacadamiaNuts = {
   id: "019f1b49-52c8-7637-82ce-5e4fc430d681",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tropical-farms-macadamia-nuts",
   title: "Tropical Farms Macadamia Nuts",
   latitude: 17.841224,

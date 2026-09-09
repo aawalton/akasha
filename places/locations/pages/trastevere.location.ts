@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const trastevere = {
   id: "019f1aec-0dbc-7818-ba5e-c14cd25d377e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "trastevere",
   title: "Trastevere",
   latitude: 41.8911586,

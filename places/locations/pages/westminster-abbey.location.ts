@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const westminsterAbbey = {
   id: "019f1aec-0e80-7fcc-b52c-edc63424eb44",
   pageTypeSlug: "location",
+  type: "location",
   slug: "westminster-abbey",
   title: "Westminster Abbey",
   latitude: 51.499399,

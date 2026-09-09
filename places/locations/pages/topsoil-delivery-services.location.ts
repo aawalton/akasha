@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const topsoilDeliveryServices = {
   id: "019f1b49-5293-7887-977b-0d72b842599e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "topsoil-delivery-services",
   title: "Topsoil Delivery & Services",
   latitude: 47.7219872,

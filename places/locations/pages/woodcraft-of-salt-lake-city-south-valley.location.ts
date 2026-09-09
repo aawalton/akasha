@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const woodcraftOfSaltLakeCitySouthValley = {
   id: "019f1b49-512c-74bb-a44c-c7e3142ef5a5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "woodcraft-of-salt-lake-city-south-valley",
   title: "Woodcraft of Salt Lake City/South Valley",
   latitude: 40.697625,

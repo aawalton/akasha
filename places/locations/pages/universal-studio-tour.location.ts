@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const universalStudioTour = {
   id: "019f1b49-5791-7f60-9ca8-0bf9d27c95de",
   pageTypeSlug: "location",
+  type: "location",
   slug: "universal-studio-tour",
   title: "Universal Studio Tour",
   latitude: 32.496321,

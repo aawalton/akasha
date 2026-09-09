@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const willisTower = {
   id: "019f1aec-0ea8-7d32-8cc2-a6f5867ce839",
   pageTypeSlug: "location",
+  type: "location",
   slug: "willis-tower",
   title: "Willis Tower",
   latitude: 41.878738,

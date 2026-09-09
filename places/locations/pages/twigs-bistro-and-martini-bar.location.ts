@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const twigsBistroAndMartiniBar = {
   id: "019f1b49-54c0-7e54-80f4-10a64c84b123",
   pageTypeSlug: "location",
+  type: "location",
   slug: "twigs-bistro-and-martini-bar",
   title: "Twigs Bistro and Martini Bar",
   latitude: 46.226721,

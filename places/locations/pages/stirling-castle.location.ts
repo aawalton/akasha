@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const stirlingCastle = {
   id: "019f1aec-0e8a-7fa5-b729-a13ec4c9eed9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "stirling-castle",
   title: "Stirling Castle",
   latitude: 56.1240308,

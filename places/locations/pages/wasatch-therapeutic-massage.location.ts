@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wasatchTherapeuticMassage = {
   id: "019f1b49-529c-7a93-bfaa-7e7570a62fdb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wasatch-therapeutic-massage",
   title: "Wasatch Therapeutic Massage",
   latitude: 38.9396134,

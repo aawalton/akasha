@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tropicalSmoothieCafeUtahCounty = {
   id: "019f322c-9c34-785d-b1fa-54b588773a0c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tropical-smoothie-cafe-utah-county",
   title: "Tropical Smoothie Café (Utah County)",
   address: "Utah County, UT",

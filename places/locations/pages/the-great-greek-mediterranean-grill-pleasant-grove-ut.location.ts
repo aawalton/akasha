@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theGreatGreekMediterraneanGrillPleasantGroveUt = {
   id: "019f1b49-549a-76c5-aac8-fbd910003fc6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-great-greek-mediterranean-grill-pleasant-grove-ut",
   title: "The Great Greek Mediterranean Grill - Pleasant Grove , UT",
   latitude: 28.3025881,

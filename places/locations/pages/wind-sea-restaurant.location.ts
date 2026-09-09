@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const windSeaRestaurant = {
   id: "019f1b49-5582-7a47-873c-39e8f3e6fd74",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wind-sea-restaurant",
   title: "Wind & Sea Restaurant",
   latitude: 32.519783,

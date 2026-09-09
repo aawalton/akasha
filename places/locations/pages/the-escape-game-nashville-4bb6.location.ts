@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theEscapeGameNashville4bb6 = {
   id: "019f1aec-0dfd-7388-9d7a-ab5a5fe24bb6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-escape-game-nashville-4bb6",
   title: "The Escape Game Nashville",
   latitude: 36.2053185,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const zaanseSchans = {
   id: "019f1aec-0e25-7198-b708-0e548943a961",
   pageTypeSlug: "location",
+  type: "location",
   slug: "zaanse-schans",
   title: "Zaanse Schans",
   latitude: 52.4750534,

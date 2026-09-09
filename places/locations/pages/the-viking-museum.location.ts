@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theVikingMuseum = {
   id: "019f1aec-0e08-7434-abb8-d34dff40d026",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-viking-museum",
   title: "The Viking Museum",
   latitude: 59.3265806,

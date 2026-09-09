@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const westgateParkCityResortSpa = {
   id: "019f1b49-574c-7b52-9e0b-723742c23fe0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "westgate-park-city-resort-spa",
   title: "Westgate Park City Resort & Spa",
   latitude: 32.666937,

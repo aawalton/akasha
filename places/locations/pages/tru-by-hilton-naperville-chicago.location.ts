@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const truByHiltonNapervilleChicago = {
   id: "019f1b49-54af-7e51-ab33-dee7b4270d1c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tru-by-hilton-naperville-chicago",
   title: "Tru by Hilton Naperville Chicago",
   latitude: 43.062366,

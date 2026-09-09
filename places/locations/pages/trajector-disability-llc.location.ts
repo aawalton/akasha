@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const trajectorDisabilityLlc = {
   id: "019f1aec-0f81-7e16-b981-ceed786cc5cf",
   pageTypeSlug: "location",
+  type: "location",
   slug: "trajector-disability-llc",
   title: "Trajector Disability LLC",
   address: "619 Technology Ave B33, Orem, UT 84097, United States",

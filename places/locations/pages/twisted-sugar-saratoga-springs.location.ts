@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const twistedSugarSaratogaSprings = {
   id: "019f322c-9c3f-714b-8474-9d7075b898e3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "twisted-sugar-saratoga-springs",
   title: "Twisted Sugar (Saratoga Springs)",
   address: "Saratoga Springs, UT",

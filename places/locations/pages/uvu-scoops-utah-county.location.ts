@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const uvuScoopsUtahCounty = {
   id: "019f322c-9c54-7658-a4f5-a09b5292dabb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "uvu-scoops-utah-county",
   title: "UVU Scoops (Utah County)",
   address: "Utah County, UT",

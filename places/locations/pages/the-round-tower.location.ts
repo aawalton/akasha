@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theRoundTower = {
   id: "019f1b49-538f-7ce7-b5bb-3ef6eca07614",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-round-tower",
   title: "The Round Tower",
   latitude: 38.752037,

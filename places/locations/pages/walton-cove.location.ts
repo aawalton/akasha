@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const waltonCove = {
   id: "019f1aec-0f05-7c98-84aa-9a8838ed2aa8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "walton-cove",
   title: "Walton Cove",
   latitude: 42.2562791,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tsubameRotatingSushiUtahCounty = {
   id: "019f322c-9c38-7b15-8292-5be7d477ecd9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tsubame-rotating-sushi-utah-county",
   title: "Tsubame Rotating Sushi (Utah County)",
   address: "Utah County, UT",

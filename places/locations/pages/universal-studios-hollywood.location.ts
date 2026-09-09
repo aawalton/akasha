@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const universalStudiosHollywood = {
   id: "019f1aec-0f63-7b4f-bebd-54ef3e560a7f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "universal-studios-hollywood",
   title: "Universal Studios Hollywood",
   latitude: 34.1381168,

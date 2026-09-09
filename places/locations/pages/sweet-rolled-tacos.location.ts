@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sweetRolledTacos = {
   id: "019f1aec-0e83-77ed-8c14-43dcbcc769cc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sweet-rolled-tacos",
   title: "Sweet Rolled Tacos",
   latitude: 37.1128821,

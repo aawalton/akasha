@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theHolyGrillAndBar = {
   id: "019f1b49-57a4-74b4-8955-af6d6dcc720e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-holy-grill-and-bar",
   title: "The Holy Grill And Bar",
   latitude: 34.612939,

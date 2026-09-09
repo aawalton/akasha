@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theHiveTrampolineParkUtahCounty = {
   id: "019f322c-9bc1-7578-b2b3-652c874e3437",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-hive-trampoline-park-utah-county",
   title: "The Hive Trampoline Park (Utah County)",
   address: "Utah County, UT",

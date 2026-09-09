@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theSmokedTacoUtahCounty = {
   id: "019f322c-9bf7-769b-86d8-e8a1a5efac19",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-smoked-taco-utah-county",
   title: "The Smoked Taco (Utah County)",
   address: "Utah County, UT",

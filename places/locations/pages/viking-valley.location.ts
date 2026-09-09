@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const vikingValley = {
   id: "019f1aec-0ee7-76af-bad9-33fc5899028d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "viking-valley",
   title: "Viking Valley",
   latitude: 60.8792298,

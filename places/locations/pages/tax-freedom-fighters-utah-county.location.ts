@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const taxFreedomFightersUtahCounty = {
   id: "019f322c-9bac-7e32-9664-5a770f94819e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tax-freedom-fighters-utah-county",
   title: "Tax Freedom Fighters (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theKolachePlace = {
   id: "019f1aec-103b-70a6-aac5-b3b9f1528705",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-kolache-place",
   title: "The Kolache Place",
   address: "434 W Center St, Provo, UT 84601, United States",

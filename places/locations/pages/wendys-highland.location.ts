@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const wendysHighland = {
   id: "019f322c-9c71-7211-81b9-0922bc538aa7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "wendys-highland",
   title: "Wendy's (Highland)",
   address: "Highland, UT",

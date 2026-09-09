@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const taqueriaLosChachalacos = {
   id: "019f1aec-0d4a-7197-b607-0ef38a97adea",
   pageTypeSlug: "location",
+  type: "location",
   slug: "taqueria-los-chachalacos",
   title: "Taqueria Los Chachalacos",
   latitude: 21.13022,

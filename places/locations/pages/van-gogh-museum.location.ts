@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const vanGoghMuseum = {
   id: "019f1aec-0e3d-7d2f-a780-02c35d2bec2a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "van-gogh-museum",
   title: "Van Gogh Museum",
   latitude: 52.3583673,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theArtInstituteOfChicago = {
   id: "019f1aec-0ea6-7db0-b653-aecd4201278e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-art-institute-of-chicago",
   title: "The Art Institute of Chicago",
   latitude: 41.879605,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const toursBoatsArchitectureTours = {
   id: "019f1b49-5672-7bf6-8f1f-e834f7ac7d40",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tours-boats-architecture-tours",
   title: "Tours & Boats Architecture Tours",
   latitude: 41.852644,

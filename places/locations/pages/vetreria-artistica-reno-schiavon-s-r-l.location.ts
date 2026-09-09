@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const vetreriaArtisticaRenoSchiavonSRL = {
   id: "019f1b49-550c-734f-9431-ef96c93cf8a8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "vetreria-artistica-reno-schiavon-s-r-l",
   title: "Vetreria Artistica Reno Schiavon S.r.l.",
   latitude: 45.452774,

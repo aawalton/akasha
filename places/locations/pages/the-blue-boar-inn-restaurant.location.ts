@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theBlueBoarInnRestaurant = {
   id: "019f1b49-5131-7580-b02b-06f079c054eb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-blue-boar-inn-restaurant",
   title: "The Blue Boar Inn & Restaurant",
   latitude: 29.78642,

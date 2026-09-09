@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theBakedBear = {
   id: "019f1aec-0ffa-76c5-8777-535d39014974",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-baked-bear",
   title: "The Baked Bear",
   address: "1249 E Main St, Lehi, UT 84043, United States",

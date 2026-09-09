@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const subZeroIceCreamUtahCounty = {
   id: "019f322c-9b98-7408-8b72-5d515ad685fe",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sub-zero-ice-cream-utah-county",
   title: "Sub Zero Ice Cream (Utah County)",
   address: "Utah County, UT",

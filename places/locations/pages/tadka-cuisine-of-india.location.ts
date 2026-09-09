@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const tadkaCuisineOfIndia = {
   id: "019f1aec-0cda-7eb9-bb71-e9960f313df7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "tadka-cuisine-of-india",
   title: "Tadka Cuisine of India",
   latitude: 40.0442596,

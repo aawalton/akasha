@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const theSherlockHolmesMuseum = {
   id: "019f1b49-55df-793b-a2c1-ccf057930b2a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "the-sherlock-holmes-museum",
   title: "The Sherlock Holmes Museum",
   latitude: 51.5073594,

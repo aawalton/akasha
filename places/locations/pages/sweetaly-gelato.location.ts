@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sweetalyGelato = {
   id: "019f1aec-0ef0-7ad7-827b-e211a540d85e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sweetaly-gelato",
   title: "Sweetaly Gelato",
   address: "1527 S 1500 E, Salt Lake City, UT 84105, United States",
