@@ -1,67 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { valueAt } from "../../value/page-value.module.code.ts"
+import { propertiesIfNamed, sourceIn } from "./declared-properties.module.code.ts"
 import {
-  type Carried,
-  declarationsOf,
-  propertiesIfNamed,
-  propertiesOf,
-  sourceIn,
-} from "./declared-properties.module.code.ts"
-
-const scratch = scratchWorld()
+  carriedBy,
+  declaredIn,
+  propertied,
+  rootAt,
+  scratch,
+  typed,
+} from "./declared-properties.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-function named(above: readonly string[] | null): string {
-  if (above === null) return "[]"
-  return JSON.stringify(above.map((one) => `page-type/${one}`))
-}
-
-function typed(
-  root: string,
-  slug: string,
-  above: readonly string[] | null,
-  declared: readonly Record<string, unknown>[]
-): undefined {
-  const path = `akasha/held/${slug}.page-type.ts`
-  listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
-  const page = join(root, path)
-  mkdirSync(dirname(page), { recursive: true })
-  const said = named(above)
-  writeFileSync(
-    page,
-    `export const held = { slug: ${JSON.stringify(slug)}, extends: ${said},` +
-      ` properties: ${JSON.stringify(declared)} }\n`
-  )
-}
-
-function propertied(
-  root: string,
-  pageTypeSlug: string,
-  slug: string,
-  propertySlug: string,
-  unique: string | null = null
-): undefined {
-  schemaFiled(root, pageTypeSlug, slug, [
-    { pageTypeSlug, targetPageTypeSlug: null, unique, slug, propertySlug },
-  ])
-}
-
-function carriedBy(root: string, slug: string): readonly Carried[] {
-  return propertiesOf(slug, root, (path) => valueAt(path, root))
-}
-
-function declaredIn(root: string, slug: string): readonly Carried[] {
-  return declarationsOf(slug, root, (path) => valueAt(path, root))
-}
-
-function rootAt(): string {
-  return scratch.rootFor("akasha-properties-")
-}
 
 test("a page type carries the properties it declares itself", () => {
   const root = rootAt()
@@ -445,4 +394,23 @@ test("the types above are read level by level, and each type's own are taken in 
     "page",
     "domain",
   ])
+})
+
+test("what a file property group declares is left to the pages carrying that group", () => {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "file-property", "code", "code")
+  typed(root, "page-property", null, [
+    { pagePropertySlug: "definition", required: true, many: false },
+  ])
+  typed(root, "file-property-group", ["page-property"], [])
+  typed(
+    root,
+    "module-property-group",
+    ["file-property-group"],
+    [{ pagePropertySlug: "code", required: true, many: false }]
+  )
+
+  expect(carriedBy(root, "module-property-group").map((one) => one.key)).toEqual(["definition"])
+  expect(carriedBy(root, "page-property").map((one) => one.key)).toEqual(["definition"])
 })

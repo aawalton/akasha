@@ -22,6 +22,8 @@ const WAS_SAID = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
+const GROUP = "file-property-group"
+
 const UNIQUE_PROPERTY = "uniqueProperty"
 
 const TARGET_PAGE_TYPE = "targetPageType"
@@ -55,6 +57,24 @@ export function identityOf(one: Carried): string {
 
 function aboveIn(value: Value): readonly string[] {
   return slugsIn(value[EXTENDS])
+}
+
+const groupBySlug = new WeakMap<Source, Map<string, boolean>>()
+
+function groupIn(own: string, source: Source): boolean {
+  let held = groupBySlug.get(source)
+  if (held === undefined) {
+    held = new Map()
+    groupBySlug.set(source, held)
+  }
+  const found = held.get(own)
+  if (found !== undefined) return found
+  held.set(own, false)
+  const value = own === GROUP ? null : source.pageTypeAt(own)
+  const said =
+    own === GROUP || (value !== null && aboveIn(value).some((one) => groupIn(one, source)))
+  held.set(own, said)
+  return said
 }
 
 export function pageAt(
@@ -170,7 +190,7 @@ export function declarationsIfNamed(
     walked.add(own)
     const value = source.pageTypeAt(own)
     if (value === null) return null
-    carried.push(...declaredFor(value, source, own))
+    if (!groupIn(own, source)) carried.push(...declaredFor(value, source, own))
     for (const above of [...aboveIn(value)].reverse()) waiting.push(above)
   }
   return carried

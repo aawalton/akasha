@@ -8,6 +8,7 @@ export const declaredProperties = {
     "the properties a page type or a record property carries, each under the key it is read by",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -47,6 +48,14 @@ export const declaredProperties = {
     {
       invariantKind: "departure",
       statement: "A record property declares its fields as a page type declares its properties.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type descending from a file property group declares that group's members.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of such a page type states none of those members.",
     },
     {
       invariantKind: "departure",
