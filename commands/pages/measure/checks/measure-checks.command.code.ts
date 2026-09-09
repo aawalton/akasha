@@ -1,9 +1,5 @@
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  chosenIn,
-  costsIn,
-  linesOf,
-} from "../../../modules/check-measuring/check-measuring.module.code.ts"
+import { chosenIn, costsIn, linesOf } from "./check-measuring/check-measuring.module.code.ts"
 
 export function measureChecks(argv: readonly string[], given: Given): Answer {
   const chose = chosenIn(argv)

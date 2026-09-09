@@ -1,5 +1,5 @@
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { linesOf, windowIn } from "../../../modules/check-measuring/check-measuring.module.code.ts"
+import { linesOf, windowIn } from "../checks/check-measuring/check-measuring.module.code.ts"
 import { CHANGE, costsIn } from "./change-measuring/change-measuring.module.code.ts"
 
 export function measureChanges(argv: readonly string[], given: Given): Answer {

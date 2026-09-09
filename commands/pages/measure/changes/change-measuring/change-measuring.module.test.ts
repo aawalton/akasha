@@ -5,14 +5,14 @@ import {
   linesOf,
   partsIn,
   windowIn,
-} from "../../../../modules/check-measuring/check-measuring.module.code.ts"
+} from "../../checks/check-measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
   HOUR,
   NOW,
   spacedOnce,
-} from "../../../../modules/check-measuring/check-measuring.module.test-fixtures.ts"
+} from "../../checks/check-measuring/check-measuring.module.test-fixtures.ts"
 import { costsIn, heldIn } from "./change-measuring.module.code.ts"
 import {
   APPLY_AT,
