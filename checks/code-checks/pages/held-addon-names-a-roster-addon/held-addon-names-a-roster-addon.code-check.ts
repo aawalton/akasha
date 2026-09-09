@@ -5,7 +5,7 @@ export const heldAddonNamesARosterAddon = {
   pageTypeSlug: "code-check",
   slug: "held-addon-names-a-roster-addon",
   definition:
-    "the check refusing a held addon page naming an addon the roster finds nowhere or elsewhere",
+    "the check refusing a `held-addon` page naming an addon the roster finds nowhere or elsewhere",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -15,7 +15,7 @@ export const heldAddonNamesARosterAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The held addon pages judged are the pages the index files under `held-addon`.",
+      statement: "The pages judged are the pages the index files under `held-addon`.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const heldAddonNamesARosterAddon = {
     {
       invariantKind: "departure",
       statement:
-        "An index naming held addon pages and no manifest refuses rather than judging every page stale.",
+        "An index naming `held-addon` pages and no manifest refuses rather than judging every page stale.",
     },
     {
       invariantKind: "absence",
@@ -70,7 +70,7 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "An index naming no held addon page judges clean.",
+      statement: "An index naming no `held-addon` page judges clean.",
     },
     {
       invariantKind: "absence",
