@@ -28,7 +28,6 @@ export const clusterCheck = {
   partSlugs: [
     "boolean-property/always-run",
     "boolean-property/tree-sha",
-    "module/audit-reading",
     "module/blank-comments",
     "module/cluster-population-bound",
     "module/file-finding",

@@ -23,6 +23,7 @@ export const check = {
     "module/run-cost",
     "module/shape-saying",
     "module/change-mirror",
+    "module/audit-reading",
   ],
   invariants: [
     {

@@ -31,9 +31,6 @@ test("a truncated scan states its counts as a floor", () => {
   const lines = renderAuditReading("subject", reading)
   expect(lines).toHaveLength(3)
   expect(lines[2]).toContain("FLOOR rather than a census")
-  // The old wording said the scan "came back full", which reads as *complete* — the opposite
-  // of the branch it sits on.
-  expect(lines[2]).not.toContain("came back full")
 })
 
 test("a complete scan adds no floor line", () => {

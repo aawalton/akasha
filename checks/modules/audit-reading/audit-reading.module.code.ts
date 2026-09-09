@@ -29,9 +29,6 @@ export function summarizeAudit(input: AuditMeasurement): AuditReading {
   }
 }
 
-// What a zero means is the whole point of this rendering. A count of nothing found is worth
-// reading only where something was looked at and weighed, so the two ways of reaching zero
-// without measuring anything say so in words rather than printing a bare 0 that reads clean.
 const NOT_A_ZERO = "this is not a zero"
 
 export function renderAuditReading(subject: string, reading: AuditReading): readonly string[] {
@@ -60,7 +57,5 @@ function secondLine(reading: Extract<AuditReading, { kind: "measured" }>): strin
 
 function truncationLines(coverage: ScanCoverage): readonly string[] {
   if (coverage === "complete") return []
-  // "came back full", which this said before it carried, reads as easily as *complete* — the
-  // opposite of the branch it sits on. What is meant is that the scan hit its own ceiling.
   return ["  The scan stopped at its limit, so every count above is a FLOOR rather than a census."]
 }
