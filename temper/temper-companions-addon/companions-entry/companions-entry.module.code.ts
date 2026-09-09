@@ -29,7 +29,10 @@ import "@akasha/temper-eso-types/lua-language-extensions"
 import "../companions-globals/companions-globals.module.code.ts"
 
 import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
-import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
+import {
+  finishPerfTrace,
+  startPerfTrace,
+} from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
 import { initializeFcoCompanion } from "../companion-qol-init/companion-qol-init.module.code.ts"
 import { refreshAllCompanionData } from "../companions-commands/companions-commands.module.code.ts"
 import { ADDON_NAME } from "../companions-constants/companions-constants.module.code.ts"

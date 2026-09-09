@@ -6,7 +6,6 @@
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-capture-perf": "workspace:*",
     "@akasha/temper-characters-capture-addon": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",

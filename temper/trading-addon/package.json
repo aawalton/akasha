@@ -26,7 +26,6 @@
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-capture-perf": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-filters-addon": "workspace:*",

@@ -20,7 +20,10 @@ import "@akasha/temper-eso-types/eso-lua-sandbox"
 import "../trading-globals/trading-globals.module.code.ts"
 
 import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
-import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
+import {
+  finishPerfTrace,
+  startPerfTrace,
+} from "akasha/temper/capture-perf/perf-trace/perf-trace.module.code.ts"
 import { createBrowseEngine } from "../trading-browse-engine/trading-browse-engine.module.code.ts"
 import { createBrowseWindow } from "../trading-browse-window/trading-browse-window.module.code.ts"
 import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
