@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/ci-benchmark",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./toolchain-manifest": "./toolchain-manifest/toolchain-manifest.module.code.ts"
-  }
-}

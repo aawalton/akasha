@@ -13,7 +13,7 @@ export const infrastructure = {
     "domain/git-transport",
     "domain/analysis-complexity",
     "page-type/alert",
-    "workspace-package/ci-benchmark",
+    "domain/ci-benchmark",
     "domain/cluster",
     "domain/auth",
     "domain/container-image",

@@ -12,7 +12,6 @@
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/changes": "workspace:*",
-    "@akasha/ci-benchmark": "workspace:*",
     "@akasha/comfy": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/errors-core": "workspace:*",

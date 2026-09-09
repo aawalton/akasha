@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const ciBenchmark = {
   id: "01a0675b-16d8-704b-a679-f300bf41cd88",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "ci-benchmark",
   definition: "one CI node's substrate measured against the whole check registry on a cold store",
-  manifest: "json",
   parts: ["module/toolchain-manifest"],
   invariants: [
     {
@@ -38,4 +37,4 @@ export const ciBenchmark = {
       statement: "The memory request covers the tmpfs size limit as well as the working set.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

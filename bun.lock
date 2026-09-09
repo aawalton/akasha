@@ -8,7 +8,6 @@
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/browser-test-harness": "workspace:*",
         "@akasha/changes": "workspace:*",
-        "@akasha/ci-benchmark": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
         "@akasha/day": "workspace:*",
@@ -1051,9 +1050,6 @@
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
-    },
-    "infrastructure/ci-benchmark": {
-      "name": "@akasha/ci-benchmark",
     },
     "infrastructure/cluster/api": {
       "name": "@akasha/cluster-api",
@@ -2890,8 +2886,6 @@
     "@akasha/checks": ["@akasha/checks@workspace:checks"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
-
-    "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:infrastructure/ci-benchmark"],
 
     "@akasha/cluster-api": ["@akasha/cluster-api@workspace:infrastructure/cluster/api"],
 
