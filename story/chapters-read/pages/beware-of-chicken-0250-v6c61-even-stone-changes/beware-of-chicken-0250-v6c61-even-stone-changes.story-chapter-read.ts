@@ -9,7 +9,7 @@ export const bewareOfChicken0250V6c61EvenStoneChanges = {
   position: 250,
   ownLength: 2746,
   ownProgress: 2746,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:58.457Z",
   publishedAt: "2025-09-01",
   externalLink:

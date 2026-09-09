@@ -9,7 +9,7 @@ export const bewareOfChicken0217V6c29ASurpriseStorm = {
   position: 217,
   ownLength: 2478,
   ownProgress: 2478,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:48.338Z",
   publishedAt: "2025-05-29",
   externalLink:

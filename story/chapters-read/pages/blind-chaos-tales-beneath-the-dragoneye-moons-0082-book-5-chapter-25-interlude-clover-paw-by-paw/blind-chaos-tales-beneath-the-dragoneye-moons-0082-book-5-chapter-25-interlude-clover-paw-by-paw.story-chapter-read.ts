@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0082Book5Chapter25InterludeC
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 82,
   ownLength: 3298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3596066/book-5-chapter-25-interlude-clover-paw-by-paw",

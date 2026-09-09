@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0066Book5Chapter9MinorInterl
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 66,
   ownLength: 2991,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3249372/book-5-chapter-9-minor-interlude-rani-unending",

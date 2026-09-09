@@ -9,7 +9,7 @@ export const bewareOfChicken0257V7c4TheMoonAndTheEarth = {
   position: 257,
   ownLength: 2463,
   ownProgress: 2463,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:13.489Z",
   publishedAt: "2025-11-25",
   externalLink:

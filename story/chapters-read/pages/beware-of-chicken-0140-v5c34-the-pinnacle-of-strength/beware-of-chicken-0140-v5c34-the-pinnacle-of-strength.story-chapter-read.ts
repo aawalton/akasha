@@ -9,7 +9,7 @@ export const bewareOfChicken0140V5c34ThePinnacleOfStrength = {
   position: 140,
   ownLength: 1914,
   ownProgress: 1914,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:05.566Z",
   publishedAt: "2024-08-17",
   externalLink:

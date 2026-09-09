@@ -9,7 +9,7 @@ export const bewareOfChicken0195V6c7TheSwordAndTheFalcon = {
   position: 195,
   ownLength: 1699,
   ownProgress: 1699,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:00.669Z",
   publishedAt: "2025-03-23",
   externalLink:

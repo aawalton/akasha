@@ -9,7 +9,7 @@ export const bewareOfChicken0261V7c8PartyFormation = {
   position: 261,
   ownLength: 2749,
   ownProgress: 2749,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:22.048Z",
   publishedAt: "2025-12-04",
   externalLink:

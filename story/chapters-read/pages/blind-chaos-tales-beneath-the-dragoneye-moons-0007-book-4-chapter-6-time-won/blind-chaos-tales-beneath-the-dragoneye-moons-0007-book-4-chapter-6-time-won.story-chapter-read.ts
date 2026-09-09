@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0007Book4Chapter6TimeWon = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 7,
   ownLength: 5910,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2515996/book-4-chapter-6-time-won",

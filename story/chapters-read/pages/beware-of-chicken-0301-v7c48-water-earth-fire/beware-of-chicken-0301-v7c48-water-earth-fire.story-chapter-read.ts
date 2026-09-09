@@ -8,7 +8,7 @@ export const bewareOfChicken0301V7c48WaterEarthFire = {
   story: "story-read/beware-of-chicken",
   position: 301,
   ownLength: 3499,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-12",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3262642/v7c48-water-earth-fire",

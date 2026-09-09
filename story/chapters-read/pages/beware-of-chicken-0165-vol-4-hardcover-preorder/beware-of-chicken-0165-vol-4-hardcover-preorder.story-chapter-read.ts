@@ -9,7 +9,7 @@ export const bewareOfChicken0165Vol4HardcoverPreorder = {
   position: 165,
   ownLength: 2,
   ownProgress: 2,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:58.040Z",
   publishedAt: "2024-11-01",
   externalLink:

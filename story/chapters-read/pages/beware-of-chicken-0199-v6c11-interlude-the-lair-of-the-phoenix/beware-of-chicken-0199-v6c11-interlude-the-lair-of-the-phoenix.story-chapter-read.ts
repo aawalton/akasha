@@ -9,7 +9,7 @@ export const bewareOfChicken0199V6c11InterludeTheLairOfThePhoenix = {
   position: 199,
   ownLength: 2467,
   ownProgress: 2467,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:09.082Z",
   publishedAt: "2025-04-02",
   externalLink:

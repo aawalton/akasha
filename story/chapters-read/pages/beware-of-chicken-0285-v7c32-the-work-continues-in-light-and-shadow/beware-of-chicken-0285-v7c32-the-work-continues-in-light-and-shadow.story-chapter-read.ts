@@ -9,7 +9,7 @@ export const bewareOfChicken0285V7c32TheWorkContinuesInLightAndShadow = {
   position: 285,
   ownLength: 2462,
   ownProgress: 2462,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:12.762Z",
   publishedAt: "2026-02-26",
   externalLink:

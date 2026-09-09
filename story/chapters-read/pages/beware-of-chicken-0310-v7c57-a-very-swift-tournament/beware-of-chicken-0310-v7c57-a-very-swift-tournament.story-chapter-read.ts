@@ -8,7 +8,7 @@ export const bewareOfChicken0310V7c57AVerySwiftTournament = {
   story: "story-read/beware-of-chicken",
   position: 310,
   ownLength: 2296,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3373263/v7c57-a-very-swift-tournament",

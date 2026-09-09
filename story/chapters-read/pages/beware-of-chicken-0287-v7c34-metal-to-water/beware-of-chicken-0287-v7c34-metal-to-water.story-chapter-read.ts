@@ -9,7 +9,7 @@ export const bewareOfChicken0287V7c34MetalToWater = {
   position: 287,
   ownLength: 2456,
   ownProgress: 619,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3114187/v7c34-metal-to-water",

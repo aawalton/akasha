@@ -8,7 +8,7 @@ export const bewareOfChicken0307V7c54APraiseworthyAccomplishment = {
   story: "story-read/beware-of-chicken",
   position: 307,
   ownLength: 2178,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3348152/v7c54-a-praiseworthy-accomplishment",

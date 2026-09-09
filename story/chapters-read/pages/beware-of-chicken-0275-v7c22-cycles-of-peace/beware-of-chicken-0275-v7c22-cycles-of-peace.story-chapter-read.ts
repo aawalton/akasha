@@ -9,7 +9,7 @@ export const bewareOfChicken0275V7c22CyclesOfPeace = {
   position: 275,
   ownLength: 2629,
   ownProgress: 2629,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:51.747Z",
   publishedAt: "2026-01-28",
   externalLink:

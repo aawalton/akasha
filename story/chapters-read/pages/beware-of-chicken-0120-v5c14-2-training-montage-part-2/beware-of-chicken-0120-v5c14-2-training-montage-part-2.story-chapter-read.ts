@@ -9,7 +9,7 @@ export const bewareOfChicken0120V5c142TrainingMontagePart2 = {
   position: 120,
   ownLength: 1665,
   ownProgress: 1665,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:37.589Z",
   publishedAt: "2024-06-24",
   externalLink:

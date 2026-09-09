@@ -7,7 +7,7 @@ export const bewareOfChicken0110V5c5HearthAndHome1648536 = {
   story: "story-read/beware-of-chicken",
   position: 110,
   publishedAt: "2024-05-24",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1648536",
   source: "royal-road",
   title: "v5c5: Hearth and Home",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0038Book4Chapter33ShockAndAw
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 38,
   ownLength: 4634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2837042/book-4-chapter-33-shock-and-awe",

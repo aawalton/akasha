@@ -9,7 +9,7 @@ export const bewareOfChicken0253V5HardcoverPreorderBocSchedule = {
   position: 253,
   ownLength: 70,
   ownProgress: 70,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:04.780Z",
   publishedAt: "2025-11-03",
   externalLink:

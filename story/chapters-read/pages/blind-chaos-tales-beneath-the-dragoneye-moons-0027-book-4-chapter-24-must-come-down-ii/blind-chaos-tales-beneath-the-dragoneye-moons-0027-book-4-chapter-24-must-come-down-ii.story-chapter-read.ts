@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0027Book4Chapter24MustComeDo
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 27,
   ownLength: 5663,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2715296/book-4-chapter-24-must-come-down-ii",

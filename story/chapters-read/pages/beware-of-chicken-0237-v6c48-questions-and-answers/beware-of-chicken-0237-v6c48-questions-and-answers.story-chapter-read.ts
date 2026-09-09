@@ -9,7 +9,7 @@ export const bewareOfChicken0237V6c48QuestionsAndAnswers = {
   position: 237,
   ownLength: 2294,
   ownProgress: 2294,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:30.938Z",
   publishedAt: "2025-07-26",
   externalLink:

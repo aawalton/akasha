@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0058Book5Chapter1Prima = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 58,
   ownLength: 3781,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3117203/book-5-chapter-1-prima",

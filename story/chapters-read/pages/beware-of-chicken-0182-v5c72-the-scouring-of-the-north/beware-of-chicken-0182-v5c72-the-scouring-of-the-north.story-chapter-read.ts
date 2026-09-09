@@ -9,7 +9,7 @@ export const bewareOfChicken0182V5c72TheScouringOfTheNorth = {
   position: 182,
   ownLength: 3202,
   ownProgress: 3202,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:33.692Z",
   publishedAt: "2024-12-02",
   externalLink:

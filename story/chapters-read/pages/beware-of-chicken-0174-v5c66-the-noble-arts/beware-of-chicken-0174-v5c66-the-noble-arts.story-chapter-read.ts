@@ -9,7 +9,7 @@ export const bewareOfChicken0174V5c66TheNobleArts = {
   position: 174,
   ownLength: 2333,
   ownProgress: 2333,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:16.877Z",
   publishedAt: "2024-11-20",
   externalLink:

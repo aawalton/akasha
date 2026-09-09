@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0024MajorAnnouncement = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 24,
   ownLength: 1937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-16",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2681904/major-announcement",

@@ -9,7 +9,7 @@ export const bewareOfChicken0116V5c11WuZetianRidesAgain = {
   position: 116,
   ownLength: 2046,
   ownProgress: 2046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:28.867Z",
   publishedAt: "2024-06-09",
   externalLink:

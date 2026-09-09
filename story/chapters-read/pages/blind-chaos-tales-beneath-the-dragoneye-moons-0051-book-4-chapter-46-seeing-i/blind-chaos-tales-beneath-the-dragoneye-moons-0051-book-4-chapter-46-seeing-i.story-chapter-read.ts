@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0051Book4Chapter46SeeingI = 
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 51,
   ownLength: 5624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2972822/book-4-chapter-46-seeing-i",

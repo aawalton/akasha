@@ -9,7 +9,7 @@ export const bewareOfChicken0171V5c64CoursePlotted = {
   position: 171,
   ownLength: 4283,
   ownProgress: 4283,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:10.475Z",
   publishedAt: "2024-11-15",
   externalLink:

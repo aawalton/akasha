@@ -8,7 +8,7 @@ export const bookboundBunny0021B3Chapter17Distribution = {
   story: "bookbound-bunny",
   position: 21,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3150278/b3-chapter-17-distribution",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0072Book5Chapter15InterludeL
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 72,
   ownLength: 3858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3363931/book-5-chapter-15-interlude-lumornor-an-unexpectedly",

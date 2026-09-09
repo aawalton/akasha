@@ -9,7 +9,7 @@ export const bewareOfChicken0265V7c12InterludeMaidMatters = {
   position: 265,
   ownLength: 2105,
   ownProgress: 2105,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:30.365Z",
   publishedAt: "2025-12-14",
   externalLink:

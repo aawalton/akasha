@@ -8,7 +8,7 @@ export const bewareOfChicken0328V7v75TheStepsMayStopButTheFootprintsRemain = {
   story: "story-read/beware-of-chicken",
   position: 328,
   ownLength: 1892,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3633574/v7v75-the-steps-may-stop-but-the-footprints-remain",

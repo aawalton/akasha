@@ -9,7 +9,7 @@ export const bewareOfChicken0180V5c70TheTorchBearers = {
   position: 180,
   ownLength: 2050,
   ownProgress: 2050,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:29.482Z",
   publishedAt: "2024-11-29",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0111V5c6ASunnyBunny = {
   position: 111,
   ownLength: 1741,
   ownProgress: 1741,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:18.590Z",
   publishedAt: "2024-05-26",
   externalLink:

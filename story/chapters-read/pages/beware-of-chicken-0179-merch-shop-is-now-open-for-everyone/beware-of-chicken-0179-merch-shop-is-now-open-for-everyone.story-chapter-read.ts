@@ -9,7 +9,7 @@ export const bewareOfChicken0179MerchShopIsNowOpenForEveryone = {
   position: 179,
   ownLength: 95,
   ownProgress: 95,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:27.396Z",
   publishedAt: "2024-11-26",
   externalLink:

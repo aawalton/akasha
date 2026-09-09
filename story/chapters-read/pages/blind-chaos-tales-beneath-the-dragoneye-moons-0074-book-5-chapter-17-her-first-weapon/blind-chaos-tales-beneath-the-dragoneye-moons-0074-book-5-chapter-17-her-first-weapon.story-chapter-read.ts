@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0074Book5Chapter17HerFirstWe
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 74,
   ownLength: 4086,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3424402/book-5-chapter-17-her-first-weapon",

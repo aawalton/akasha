@@ -9,7 +9,7 @@ export const bewareOfChicken0192V6c4TheForestAndTheTreesPart3 = {
   position: 192,
   ownLength: 2086,
   ownProgress: 2086,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:54.290Z",
   publishedAt: "2025-03-15",
   externalLink:

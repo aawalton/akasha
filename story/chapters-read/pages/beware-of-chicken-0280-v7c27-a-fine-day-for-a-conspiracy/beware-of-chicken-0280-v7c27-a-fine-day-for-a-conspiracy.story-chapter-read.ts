@@ -9,7 +9,7 @@ export const bewareOfChicken0280V7c27AFineDayForAConspiracy = {
   position: 280,
   ownLength: 2351,
   ownProgress: 2351,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:02.284Z",
   publishedAt: "2026-02-07",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0214V6c26FirstDelivery = {
   position: 214,
   ownLength: 1878,
   ownProgress: 1878,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:42.364Z",
   publishedAt: "2025-05-22",
   externalLink:

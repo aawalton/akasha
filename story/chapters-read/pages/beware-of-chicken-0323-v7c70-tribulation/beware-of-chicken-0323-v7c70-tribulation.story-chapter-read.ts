@@ -8,7 +8,7 @@ export const bewareOfChicken0323V7c70Tribulation = {
   story: "story-read/beware-of-chicken",
   position: 323,
   ownLength: 2601,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3582621/v7c70-tribulation",

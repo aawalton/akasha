@@ -9,7 +9,7 @@ export const bewareOfChicken0177V5c68BeginningToFeelLikeVictory = {
   position: 177,
   ownLength: 2787,
   ownProgress: 2787,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:23.283Z",
   publishedAt: "2024-11-23",
   externalLink:

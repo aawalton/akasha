@@ -9,7 +9,7 @@ export const bewareOfChicken0138V5c32LikeAntsToAnElephant = {
   position: 138,
   ownLength: 3664,
   ownProgress: 3664,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:01.012Z",
   publishedAt: "2024-08-12",
   externalLink:

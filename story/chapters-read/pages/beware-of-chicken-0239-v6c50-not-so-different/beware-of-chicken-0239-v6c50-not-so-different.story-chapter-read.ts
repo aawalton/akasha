@@ -9,7 +9,7 @@ export const bewareOfChicken0239V6c50NotSoDifferent = {
   position: 239,
   ownLength: 2075,
   ownProgress: 2075,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:35.726Z",
   publishedAt: "2025-08-01",
   externalLink:

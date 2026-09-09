@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0047Book4Chapter42FaithAndSt
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 47,
   ownLength: 5628,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2927974/book-4-chapter-42-faith-and-strength",

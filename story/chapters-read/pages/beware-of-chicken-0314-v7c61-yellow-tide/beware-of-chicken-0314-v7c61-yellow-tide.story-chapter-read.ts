@@ -8,7 +8,7 @@ export const bewareOfChicken0314V7c61YellowTide = {
   story: "story-read/beware-of-chicken",
   position: 314,
   ownLength: 2882,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3451757/v7c61-yellow-tide",

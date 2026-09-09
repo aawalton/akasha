@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0039Book4Chapter34StolenTime
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 39,
   ownLength: 4842,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-12",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2842906/book-4-chapter-34-stolen-time-faded-memories",

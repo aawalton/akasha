@@ -9,7 +9,7 @@ export const bewareOfChicken0212V6c24AManyFacetedJewel = {
   position: 212,
   ownLength: 2076,
   ownProgress: 2076,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:38.058Z",
   publishedAt: "2025-05-11",
   externalLink:

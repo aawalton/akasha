@@ -8,7 +8,7 @@ export const bookboundBunny0003B2Chapter1JourneyOfTime = {
   story: "bookbound-bunny",
   position: 3,
   ownLength: 2492,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-19",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2448050/b2-chapter-1-journey-of-time",

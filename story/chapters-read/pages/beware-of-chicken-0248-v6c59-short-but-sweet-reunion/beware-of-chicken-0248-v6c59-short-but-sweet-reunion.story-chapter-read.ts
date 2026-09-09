@@ -9,7 +9,7 @@ export const bewareOfChicken0248V6c59ShortButSweetReunion = {
   position: 248,
   ownLength: 2242,
   ownProgress: 2242,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:54.365Z",
   publishedAt: "2025-08-27",
   externalLink:

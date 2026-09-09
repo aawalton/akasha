@@ -9,7 +9,7 @@ export const bewareOfChicken0204V6c16TheHillsAndValleysOfLife = {
   position: 204,
   ownLength: 2354,
   ownProgress: 2354,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:20.505Z",
   publishedAt: "2025-04-22",
   externalLink:

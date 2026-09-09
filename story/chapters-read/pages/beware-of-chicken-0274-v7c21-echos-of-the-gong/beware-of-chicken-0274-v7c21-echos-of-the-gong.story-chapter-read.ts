@@ -9,7 +9,7 @@ export const bewareOfChicken0274V7c21EchosOfTheGong = {
   position: 274,
   ownLength: 2316,
   ownProgress: 2316,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:49.855Z",
   publishedAt: "2026-01-24",
   externalLink:

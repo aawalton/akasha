@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0076Book5Chapter19InterludeA
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 76,
   ownLength: 8292,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3455191/book-5-chapter-19-interlude-avyna-ambitions-end",

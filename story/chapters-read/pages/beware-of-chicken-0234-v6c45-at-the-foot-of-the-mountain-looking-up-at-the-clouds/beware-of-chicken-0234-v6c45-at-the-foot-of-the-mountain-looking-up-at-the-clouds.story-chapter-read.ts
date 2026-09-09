@@ -9,7 +9,7 @@ export const bewareOfChicken0234V6c45AtTheFootOfTheMountainLookingUpAtTheClouds 
   position: 234,
   ownLength: 2154,
   ownProgress: 2154,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:24.728Z",
   publishedAt: "2025-07-12",
   externalLink:

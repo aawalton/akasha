@@ -9,7 +9,7 @@ export const bewareOfChicken0154V5c48TheQuietSetsInPart2 = {
   position: 154,
   ownLength: 2238,
   ownProgress: 2238,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:34.445Z",
   publishedAt: "2024-10-02",
   externalLink:

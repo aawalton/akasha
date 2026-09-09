@@ -9,7 +9,7 @@ export const bewareOfChicken0134V5c28CloserToHome = {
   position: 134,
   ownLength: 2228,
   ownProgress: 2228,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:24.949Z",
   publishedAt: "2024-08-03",
   externalLink:

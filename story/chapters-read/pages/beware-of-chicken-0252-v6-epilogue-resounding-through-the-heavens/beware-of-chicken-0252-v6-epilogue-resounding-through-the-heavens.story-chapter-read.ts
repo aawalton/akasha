@@ -9,7 +9,7 @@ export const bewareOfChicken0252V6EpilogueResoundingThroughTheHeavens = {
   position: 252,
   ownLength: 1320,
   ownProgress: 1320,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:02.697Z",
   publishedAt: "2025-09-05",
   externalLink:

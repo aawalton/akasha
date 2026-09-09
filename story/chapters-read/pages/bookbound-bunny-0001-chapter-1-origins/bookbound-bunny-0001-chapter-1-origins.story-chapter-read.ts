@@ -8,7 +8,7 @@ export const bookboundBunny0001Chapter1Origins = {
   story: "bookbound-bunny",
   position: 1,
   ownLength: 2557,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2030608/chapter-1-origins",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0028Book4Chapter25TheFoulWin
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 28,
   ownLength: 4949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2721063/book-4-chapter-25-the-foul-winds-of-change",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0064Book5Chapter7AsCloseAsSh
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 64,
   ownLength: 4354,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3219961/book-5-chapter-7-as-close-as-shed-come",

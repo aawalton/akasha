@@ -9,7 +9,7 @@ export const bewareOfChicken0166V5c59MusingsOfASword = {
   position: 166,
   ownLength: 4192,
   ownProgress: 4192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:59.998Z",
   publishedAt: "2024-11-03",
   externalLink:

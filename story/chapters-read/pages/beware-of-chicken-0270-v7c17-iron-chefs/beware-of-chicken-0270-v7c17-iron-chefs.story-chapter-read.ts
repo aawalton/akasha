@@ -9,7 +9,7 @@ export const bewareOfChicken0270V7c17IronChefs = {
   position: 270,
   ownLength: 1872,
   ownProgress: 1872,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:41.052Z",
   publishedAt: "2026-01-08",
   externalLink:

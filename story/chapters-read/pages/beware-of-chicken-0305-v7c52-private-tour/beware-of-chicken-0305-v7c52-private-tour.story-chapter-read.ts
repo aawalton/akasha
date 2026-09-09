@@ -8,7 +8,7 @@ export const bewareOfChicken0305V7c52PrivateTour = {
   story: "story-read/beware-of-chicken",
   position: 305,
   ownLength: 2201,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3331308/v7c52-private-tour",

@@ -9,7 +9,7 @@ export const bewareOfChicken0259V7c6GrowingAroundAThistle = {
   position: 259,
   ownLength: 2098,
   ownProgress: 2098,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:17.896Z",
   publishedAt: "2025-11-29",
   externalLink:

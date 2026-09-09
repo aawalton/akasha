@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0036Book4Chapter31AnElfsVaca
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 36,
   ownLength: 3358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2796046/book-4-chapter-31-an-elfs-vacation",

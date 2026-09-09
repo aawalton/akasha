@@ -9,7 +9,7 @@ export const bewareOfChicken0122V5c16TheApprentice = {
   position: 122,
   ownLength: 1642,
   ownProgress: 1642,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:41.838Z",
   publishedAt: "2024-06-28",
   externalLink:

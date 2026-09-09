@@ -9,7 +9,7 @@ export const bewareOfChicken0143V5c37DarkTideRising = {
   position: 143,
   ownLength: 2268,
   ownProgress: 2268,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:11.740Z",
   publishedAt: "2024-08-30",
   externalLink:

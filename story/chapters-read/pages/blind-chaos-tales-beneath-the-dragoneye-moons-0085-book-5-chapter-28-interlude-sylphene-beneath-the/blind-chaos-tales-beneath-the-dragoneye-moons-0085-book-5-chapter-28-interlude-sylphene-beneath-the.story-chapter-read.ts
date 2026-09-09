@@ -9,7 +9,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0085Book5Chapter28InterludeS
     story: "blind-chaos-tales-beneath-the-dragoneye-moons",
     position: 85,
     ownLength: 7598,
-    unitSlug: "words",
+    unit: "words",
     publishedAt: "2026-07-08",
     externalLink:
       "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3650362/book-5-chapter-28-interlude-sylphene-beneath-the",

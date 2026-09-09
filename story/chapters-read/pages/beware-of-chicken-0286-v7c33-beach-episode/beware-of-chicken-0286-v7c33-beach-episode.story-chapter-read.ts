@@ -9,7 +9,7 @@ export const bewareOfChicken0286V7c33BeachEpisode = {
   position: 286,
   ownLength: 2487,
   ownProgress: 2487,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:14.631Z",
   publishedAt: "2026-03-02",
   externalLink:

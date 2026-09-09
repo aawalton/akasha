@@ -9,7 +9,7 @@ export const bewareOfChicken0149V5c43CrushedToEmbers = {
   position: 149,
   ownLength: 4282,
   ownProgress: 4282,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:24.081Z",
   publishedAt: "2024-09-20",
   externalLink:

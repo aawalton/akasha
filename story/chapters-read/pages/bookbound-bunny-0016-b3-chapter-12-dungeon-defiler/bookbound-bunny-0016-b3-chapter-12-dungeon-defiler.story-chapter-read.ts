@@ -8,7 +8,7 @@ export const bookboundBunny0016B3Chapter12DungeonDefiler = {
   story: "bookbound-bunny",
   position: 16,
   ownLength: 2340,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3110821/b3-chapter-12-dungeon-defiler",

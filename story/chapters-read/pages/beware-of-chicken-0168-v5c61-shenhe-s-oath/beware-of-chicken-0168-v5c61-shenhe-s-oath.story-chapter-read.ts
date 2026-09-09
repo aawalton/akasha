@@ -9,7 +9,7 @@ export const bewareOfChicken0168V5c61ShenheSOath = {
   position: 168,
   ownLength: 2074,
   ownProgress: 2074,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:04.289Z",
   publishedAt: "2024-11-08",
   externalLink:

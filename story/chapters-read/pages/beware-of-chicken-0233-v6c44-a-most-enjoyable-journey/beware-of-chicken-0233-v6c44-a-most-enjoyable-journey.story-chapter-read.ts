@@ -9,7 +9,7 @@ export const bewareOfChicken0233V6c44AMostEnjoyableJourney = {
   position: 233,
   ownLength: 1934,
   ownProgress: 1934,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:22.762Z",
   publishedAt: "2025-07-10",
   externalLink:

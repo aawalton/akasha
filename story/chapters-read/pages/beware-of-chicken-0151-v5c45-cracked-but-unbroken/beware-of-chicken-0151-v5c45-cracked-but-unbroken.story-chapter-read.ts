@@ -9,7 +9,7 @@ export const bewareOfChicken0151V5c45CrackedButUnbroken = {
   position: 151,
   ownLength: 3208,
   ownProgress: 3208,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:28.392Z",
   publishedAt: "2024-09-25",
   externalLink:

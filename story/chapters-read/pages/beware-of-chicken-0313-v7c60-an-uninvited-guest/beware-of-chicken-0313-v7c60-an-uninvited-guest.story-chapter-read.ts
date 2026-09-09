@@ -8,7 +8,7 @@ export const bewareOfChicken0313V7c60AnUninvitedGuest = {
   story: "story-read/beware-of-chicken",
   position: 313,
   ownLength: 2116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3438404/v7c60-an-uninvited-guest",

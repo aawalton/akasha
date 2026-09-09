@@ -9,7 +9,7 @@ export const bewareOfChicken0194V6c6TheMusingsOfABladeOfGrass = {
   position: 194,
   ownLength: 2172,
   ownProgress: 2172,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:58.640Z",
   publishedAt: "2025-03-21",
   externalLink:

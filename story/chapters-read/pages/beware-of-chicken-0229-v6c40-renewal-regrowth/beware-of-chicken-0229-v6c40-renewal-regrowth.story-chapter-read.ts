@@ -9,7 +9,7 @@ export const bewareOfChicken0229V6c40RenewalRegrowth = {
   position: 229,
   ownLength: 2018,
   ownProgress: 2018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:14.645Z",
   publishedAt: "2025-07-01",
   externalLink:

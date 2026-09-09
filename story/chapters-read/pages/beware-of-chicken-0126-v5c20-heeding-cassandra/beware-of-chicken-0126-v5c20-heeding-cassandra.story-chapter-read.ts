@@ -9,7 +9,7 @@ export const bewareOfChicken0126V5c20HeedingCassandra = {
   position: 126,
   ownLength: 2426,
   ownProgress: 2426,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:50.193Z",
   publishedAt: "2024-07-07",
   externalLink:

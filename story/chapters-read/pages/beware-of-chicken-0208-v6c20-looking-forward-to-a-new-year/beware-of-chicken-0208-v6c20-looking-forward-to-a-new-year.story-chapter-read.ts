@@ -9,7 +9,7 @@ export const bewareOfChicken0208V6c20LookingForwardToANewYear = {
   position: 208,
   ownLength: 2353,
   ownProgress: 2353,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:29.858Z",
   publishedAt: "2025-05-02",
   externalLink:

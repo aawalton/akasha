@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0061Book5Chapter4SoftResolve
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 61,
   ownLength: 6372,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3149052/book-5-chapter-4-soft-resolve",

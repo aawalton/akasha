@@ -9,7 +9,7 @@ export const bewareOfChicken0268V7c15MasterOfIron = {
   position: 268,
   ownLength: 2345,
   ownProgress: 2345,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:36.751Z",
   publishedAt: "2025-12-21",
   externalLink:

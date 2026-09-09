@@ -9,7 +9,7 @@ export const bewareOfChicken0146V5c40SanctuaryBreached = {
   position: 146,
   ownLength: 2629,
   ownProgress: 2629,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:17.954Z",
   publishedAt: "2024-09-06",
   externalLink:

@@ -8,7 +8,7 @@ export const bewareOfChicken0318V7c65EncroachingTide = {
   story: "story-read/beware-of-chicken",
   position: 318,
   ownLength: 2316,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3494665/v7c65-encroaching-tide",

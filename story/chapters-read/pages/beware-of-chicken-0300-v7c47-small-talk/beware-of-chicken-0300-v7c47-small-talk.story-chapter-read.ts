@@ -8,7 +8,7 @@ export const bewareOfChicken0300V7c47SmallTalk = {
   story: "story-read/beware-of-chicken",
   position: 300,
   ownLength: 2186,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3254467/v7c47-small-talk",

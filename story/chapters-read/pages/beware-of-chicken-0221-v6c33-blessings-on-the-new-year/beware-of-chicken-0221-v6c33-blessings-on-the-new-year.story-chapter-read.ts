@@ -9,7 +9,7 @@ export const bewareOfChicken0221V6c33BlessingsOnTheNewYear = {
   position: 221,
   ownLength: 1815,
   ownProgress: 1815,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:56.895Z",
   publishedAt: "2025-06-08",
   externalLink:

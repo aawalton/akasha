@@ -8,7 +8,7 @@ export const bewareOfChicken0321V7c68WarOfManeuver = {
   story: "story-read/beware-of-chicken",
   position: 321,
   ownLength: 3101,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3559709/v7c68-war-of-maneuver",

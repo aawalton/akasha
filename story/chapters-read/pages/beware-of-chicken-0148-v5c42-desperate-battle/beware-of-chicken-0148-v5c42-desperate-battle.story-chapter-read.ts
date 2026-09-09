@@ -9,7 +9,7 @@ export const bewareOfChicken0148V5c42DesperateBattle = {
   position: 148,
   ownLength: 2119,
   ownProgress: 2119,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:21.961Z",
   publishedAt: "2024-09-17",
   externalLink:

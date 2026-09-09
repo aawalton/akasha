@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0062Book5Chapter5ThatWhichTr
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 62,
   ownLength: 3525,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3193642/book-5-chapter-5-that-which-transcends",

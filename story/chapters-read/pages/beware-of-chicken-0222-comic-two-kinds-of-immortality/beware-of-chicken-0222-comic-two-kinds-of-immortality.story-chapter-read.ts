@@ -9,7 +9,7 @@ export const bewareOfChicken0222ComicTwoKindsOfImmortality = {
   position: 222,
   ownLength: 152,
   ownProgress: 152,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:58.964Z",
   publishedAt: "2025-06-14",
   externalLink:

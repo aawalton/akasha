@@ -9,7 +9,7 @@ export const bewareOfChicken0157V5c51TheCleanupBegins = {
   position: 157,
   ownLength: 2445,
   ownProgress: 2445,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:41.124Z",
   publishedAt: "2024-10-16",
   externalLink:

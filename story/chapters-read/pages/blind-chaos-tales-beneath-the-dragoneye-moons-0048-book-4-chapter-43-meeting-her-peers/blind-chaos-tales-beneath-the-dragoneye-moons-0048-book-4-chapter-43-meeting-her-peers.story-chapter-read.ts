@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0048Book4Chapter43MeetingHer
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 48,
   ownLength: 5847,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2943682/book-4-chapter-43-meeting-her-peers",

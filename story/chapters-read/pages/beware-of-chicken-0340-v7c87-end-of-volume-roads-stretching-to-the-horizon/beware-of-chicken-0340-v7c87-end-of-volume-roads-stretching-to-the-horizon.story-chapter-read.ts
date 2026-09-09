@@ -8,7 +8,7 @@ export const bewareOfChicken0340V7c87EndOfVolumeRoadsStretchingToTheHorizon = {
   story: "story-read/beware-of-chicken",
   position: 340,
   ownLength: 3406,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3751519/v7c87-end-of-volume-roads-stretching-to-the-horizon",

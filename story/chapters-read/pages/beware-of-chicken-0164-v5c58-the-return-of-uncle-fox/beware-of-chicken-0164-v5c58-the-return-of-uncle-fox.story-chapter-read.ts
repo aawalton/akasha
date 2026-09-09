@@ -9,7 +9,7 @@ export const bewareOfChicken0164V5c58TheReturnOfUncleFox = {
   position: 164,
   ownLength: 2929,
   ownProgress: 2929,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:56.072Z",
   publishedAt: "2024-10-31",
   externalLink:

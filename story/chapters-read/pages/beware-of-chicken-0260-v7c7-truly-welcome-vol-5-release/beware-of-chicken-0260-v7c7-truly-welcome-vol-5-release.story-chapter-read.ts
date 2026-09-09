@@ -9,7 +9,7 @@ export const bewareOfChicken0260V7c7TrulyWelcomeVol5Release = {
   position: 260,
   ownLength: 2209,
   ownProgress: 2209,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:19.940Z",
   publishedAt: "2025-12-02",
   externalLink:

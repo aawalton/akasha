@@ -9,7 +9,7 @@ export const bewareOfChicken0197V6c9HeSAFunGuy = {
   position: 197,
   ownLength: 1953,
   ownProgress: 1953,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:04.800Z",
   publishedAt: "2025-03-28",
   externalLink:

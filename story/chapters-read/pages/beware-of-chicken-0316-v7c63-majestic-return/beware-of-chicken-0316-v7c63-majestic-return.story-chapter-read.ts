@@ -8,7 +8,7 @@ export const bewareOfChicken0316V7c63MajesticReturn = {
   story: "story-read/beware-of-chicken",
   position: 316,
   ownLength: 2008,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3472124/v7c63-majestic-return",

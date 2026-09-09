@@ -8,7 +8,7 @@ export const bookboundBunny0011B3Chapter7Perimeter = {
   story: "bookbound-bunny",
   position: 11,
   ownLength: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-17",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3062037/b3-chapter-7-perimeter",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0001TheStorySoFar = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 1,
   ownLength: 740,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765788/the-story-so-far",

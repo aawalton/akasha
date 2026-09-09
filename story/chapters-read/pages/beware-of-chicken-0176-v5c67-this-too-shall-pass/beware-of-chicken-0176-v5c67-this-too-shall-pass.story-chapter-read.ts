@@ -9,7 +9,7 @@ export const bewareOfChicken0176V5c67ThisTooShallPass = {
   position: 176,
   ownLength: 2481,
   ownProgress: 2481,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:20.991Z",
   publishedAt: "2024-11-21",
   externalLink:

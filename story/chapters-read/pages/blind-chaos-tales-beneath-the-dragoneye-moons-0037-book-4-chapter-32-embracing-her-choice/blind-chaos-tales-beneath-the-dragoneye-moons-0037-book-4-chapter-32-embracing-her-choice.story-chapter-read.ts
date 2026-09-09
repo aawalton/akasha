@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0037Book4Chapter32EmbracingH
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 37,
   ownLength: 5216,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2801824/book-4-chapter-32-embracing-her-choice",

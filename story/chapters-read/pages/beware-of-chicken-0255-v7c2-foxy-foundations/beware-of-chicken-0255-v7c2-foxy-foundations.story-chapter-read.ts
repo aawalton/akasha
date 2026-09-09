@@ -9,7 +9,7 @@ export const bewareOfChicken0255V7c2FoxyFoundations = {
   position: 255,
   ownLength: 2446,
   ownProgress: 2446,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:08.960Z",
   publishedAt: "2025-11-20",
   externalLink:

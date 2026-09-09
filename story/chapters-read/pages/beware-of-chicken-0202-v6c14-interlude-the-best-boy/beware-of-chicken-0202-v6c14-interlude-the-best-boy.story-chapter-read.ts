@@ -9,7 +9,7 @@ export const bewareOfChicken0202V6c14InterludeTheBestBoy = {
   position: 202,
   ownLength: 2069,
   ownProgress: 2069,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:16.202Z",
   publishedAt: "2025-04-11",
   externalLink:

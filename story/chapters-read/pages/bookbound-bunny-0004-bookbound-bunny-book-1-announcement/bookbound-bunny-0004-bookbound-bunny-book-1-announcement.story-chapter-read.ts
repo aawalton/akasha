@@ -8,7 +8,7 @@ export const bookboundBunny0004BookboundBunnyBook1Announcement = {
   story: "bookbound-bunny",
   position: 4,
   ownLength: 441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-18",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2686236/bookbound-bunny-book-1-announcement",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0043Book4Chapter38StallingOu
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 43,
   ownLength: 7074,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-26",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2883266/book-4-chapter-38-stalling-out",

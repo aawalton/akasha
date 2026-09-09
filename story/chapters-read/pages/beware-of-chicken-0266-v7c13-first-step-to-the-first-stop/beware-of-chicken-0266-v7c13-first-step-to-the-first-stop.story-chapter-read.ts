@@ -9,7 +9,7 @@ export const bewareOfChicken0266V7c13FirstStepToTheFirstStop = {
   position: 266,
   ownLength: 2720,
   ownProgress: 2720,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:32.562Z",
   publishedAt: "2025-12-17",
   externalLink:

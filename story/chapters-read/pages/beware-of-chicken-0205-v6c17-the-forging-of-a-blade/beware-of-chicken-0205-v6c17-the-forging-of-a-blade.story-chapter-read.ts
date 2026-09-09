@@ -9,7 +9,7 @@ export const bewareOfChicken0205V6c17TheForgingOfABlade = {
   position: 205,
   ownLength: 3154,
   ownProgress: 3154,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:22.668Z",
   publishedAt: "2025-04-25",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0263V7c10TheVirtuousSReward = {
   position: 263,
   ownLength: 1998,
   ownProgress: 1998,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:26.077Z",
   publishedAt: "2025-12-10",
   externalLink:

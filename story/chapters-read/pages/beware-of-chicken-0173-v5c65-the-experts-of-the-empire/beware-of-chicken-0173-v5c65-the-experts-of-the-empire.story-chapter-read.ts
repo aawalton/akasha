@@ -9,7 +9,7 @@ export const bewareOfChicken0173V5c65TheExpertsOfTheEmpire = {
   position: 173,
   ownLength: 1778,
   ownProgress: 1778,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:14.887Z",
   publishedAt: "2024-11-18",
   externalLink:

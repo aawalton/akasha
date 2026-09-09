@@ -9,7 +9,7 @@ export const bewareOfChicken0215V6c27HeadingSouth = {
   position: 215,
   ownLength: 2077,
   ownProgress: 2077,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:44.340Z",
   publishedAt: "2025-05-24",
   externalLink:

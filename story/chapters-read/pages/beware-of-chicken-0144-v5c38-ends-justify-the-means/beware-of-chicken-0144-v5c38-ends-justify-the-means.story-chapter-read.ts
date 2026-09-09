@@ -9,7 +9,7 @@ export const bewareOfChicken0144V5c38EndsJustifyTheMeans = {
   position: 144,
   ownLength: 2320,
   ownProgress: 2320,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:13.646Z",
   publishedAt: "2024-08-31",
   externalLink:

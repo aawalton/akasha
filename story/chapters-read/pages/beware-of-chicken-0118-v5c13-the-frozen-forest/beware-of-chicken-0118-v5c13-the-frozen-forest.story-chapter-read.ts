@@ -9,7 +9,7 @@ export const bewareOfChicken0118V5c13TheFrozenForest = {
   position: 118,
   ownLength: 2131,
   ownProgress: 2131,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:32.973Z",
   publishedAt: "2024-06-18",
   externalLink:

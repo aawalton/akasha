@@ -9,7 +9,7 @@ export const bewareOfChicken0226V6c37TheMasterOfTheForest = {
   position: 226,
   ownLength: 2101,
   ownProgress: 2101,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:07.452Z",
   publishedAt: "2025-06-24",
   externalLink:

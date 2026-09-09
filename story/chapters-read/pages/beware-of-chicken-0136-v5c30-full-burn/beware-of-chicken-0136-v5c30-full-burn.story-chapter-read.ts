@@ -9,7 +9,7 @@ export const bewareOfChicken0136V5c30FullBurn = {
   position: 136,
   ownLength: 2792,
   ownProgress: 2792,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:29.094Z",
   publishedAt: "2024-08-07",
   externalLink:

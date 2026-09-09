@@ -8,7 +8,7 @@ export const bewareOfChicken0293V7c40TheJollyFatty = {
   story: "story-read/beware-of-chicken",
   position: 293,
   ownLength: 2020,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3186538/v7c40-the-jolly-fatty",

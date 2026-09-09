@@ -9,7 +9,7 @@ export const bewareOfChicken0115V5c10BureaucraticNightmare = {
   position: 115,
   ownLength: 2825,
   ownProgress: 2825,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:26.736Z",
   publishedAt: "2024-06-06",
   externalLink:

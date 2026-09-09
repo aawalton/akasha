@@ -8,7 +8,7 @@ export const bookboundBunny0018B3Chapter14Negotiation = {
   story: "bookbound-bunny",
   position: 18,
   ownLength: 2330,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3125531/b3-chapter-14-negotiation",

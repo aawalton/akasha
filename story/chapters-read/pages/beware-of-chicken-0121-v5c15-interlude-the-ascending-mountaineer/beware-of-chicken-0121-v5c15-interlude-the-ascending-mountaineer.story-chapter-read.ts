@@ -9,7 +9,7 @@ export const bewareOfChicken0121V5c15InterludeTheAscendingMountaineer = {
   position: 121,
   ownLength: 2352,
   ownProgress: 2352,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:39.784Z",
   publishedAt: "2024-06-26",
   externalLink:

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0086Book5Chapter29TheProgres
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 86,
   ownLength: 4651,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3659634/book-5-chapter-29-the-progress-of-others",

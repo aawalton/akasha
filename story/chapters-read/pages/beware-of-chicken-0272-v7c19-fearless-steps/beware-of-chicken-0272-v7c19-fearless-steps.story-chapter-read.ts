@@ -9,7 +9,7 @@ export const bewareOfChicken0272V7c19FearlessSteps = {
   position: 272,
   ownLength: 3366,
   ownProgress: 3366,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:45.480Z",
   publishedAt: "2026-01-14",
   externalLink:

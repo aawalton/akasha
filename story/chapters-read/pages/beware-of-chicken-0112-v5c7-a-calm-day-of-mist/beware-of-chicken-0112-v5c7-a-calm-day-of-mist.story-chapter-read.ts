@@ -9,7 +9,7 @@ export const bewareOfChicken0112V5c7ACalmDayOfMist = {
   position: 112,
   ownLength: 1665,
   ownProgress: 1665,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:20.615Z",
   publishedAt: "2024-05-29",
   externalLink:

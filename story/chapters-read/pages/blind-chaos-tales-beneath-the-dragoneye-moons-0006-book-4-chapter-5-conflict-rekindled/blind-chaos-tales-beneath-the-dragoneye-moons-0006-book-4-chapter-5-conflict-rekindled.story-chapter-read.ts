@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0006Book4Chapter5ConflictRek
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 6,
   ownLength: 5261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2510560/book-4-chapter-5-conflict-rekindled",

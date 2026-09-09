@@ -8,7 +8,7 @@ export const bewareOfChicken0341V7EpilogueAndThePathsLeadingBackHome = {
   story: "story-read/beware-of-chicken",
   position: 341,
   ownLength: 3122,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3763552/v7-epilogue-and-the-paths-leading-back-home",

@@ -8,7 +8,7 @@ export const bewareOfChicken0291V7c38ReflectionOfTheWorld = {
   story: "story-read/beware-of-chicken",
   position: 291,
   ownLength: 2285,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3171231/v7c38-reflection-of-the-world",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0029Book4Chapter26BlindRetri
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 29,
   ownLength: 7310,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2735851/book-4-chapter-26-blind-retribution-i",

@@ -9,7 +9,7 @@ export const bewareOfChicken0161V5c55WashAwayYourWorries = {
   position: 161,
   ownLength: 2683,
   ownProgress: 2683,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:49.766Z",
   publishedAt: "2024-10-25",
   externalLink:

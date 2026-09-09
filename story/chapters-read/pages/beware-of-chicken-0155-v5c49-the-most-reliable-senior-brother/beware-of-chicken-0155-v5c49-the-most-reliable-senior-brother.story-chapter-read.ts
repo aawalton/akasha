@@ -9,7 +9,7 @@ export const bewareOfChicken0155V5c49TheMostReliableSeniorBrother = {
   position: 155,
   ownLength: 1726,
   ownProgress: 1726,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:36.683Z",
   publishedAt: "2024-10-06",
   externalLink:

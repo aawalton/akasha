@@ -9,7 +9,7 @@ export const bewareOfChicken0125V5c19TheGrinch = {
   position: 125,
   ownLength: 1637,
   ownProgress: 1637,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:48.075Z",
   publishedAt: "2024-07-05",
   externalLink:

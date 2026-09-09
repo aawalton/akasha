@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0008Book4Chapter7TheFirstCha
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 8,
   ownLength: 5377,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2521372/book-4-chapter-7-the-first-challenge",

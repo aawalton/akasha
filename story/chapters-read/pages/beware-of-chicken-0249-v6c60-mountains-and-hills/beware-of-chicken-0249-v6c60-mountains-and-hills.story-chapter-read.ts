@@ -9,7 +9,7 @@ export const bewareOfChicken0249V6c60MountainsAndHills = {
   position: 249,
   ownLength: 1920,
   ownProgress: 1920,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:56.432Z",
   publishedAt: "2025-08-29",
   externalLink:

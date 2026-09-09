@@ -9,7 +9,7 @@ export const bewareOfChicken0210V6c22WorryAndRelief = {
   position: 210,
   ownLength: 2051,
   ownProgress: 2051,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:34.138Z",
   publishedAt: "2025-05-07",
   externalLink:

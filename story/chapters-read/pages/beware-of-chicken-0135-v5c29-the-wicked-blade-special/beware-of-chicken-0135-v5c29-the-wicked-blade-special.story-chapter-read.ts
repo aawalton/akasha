@@ -9,7 +9,7 @@ export const bewareOfChicken0135V5c29TheWickedBladeSpecial = {
   position: 135,
   ownLength: 1973,
   ownProgress: 1973,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:26.971Z",
   publishedAt: "2024-08-05",
   externalLink:

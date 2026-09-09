@@ -9,7 +9,7 @@ export const bewareOfChicken0129V5c23TomorrowOneStepAtATime = {
   position: 129,
   ownLength: 2175,
   ownProgress: 2175,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:56.574Z",
   publishedAt: "2024-07-21",
   externalLink:

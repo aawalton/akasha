@@ -9,7 +9,7 @@ export const bewareOfChicken0282V7c29UnkownStrength = {
   position: 282,
   ownLength: 2998,
   ownProgress: 2998,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:06.650Z",
   publishedAt: "2026-02-20",
   externalLink:

@@ -8,7 +8,7 @@ export const bewareOfChicken0299V7c46TheDuelingPeaksGala = {
   story: "story-read/beware-of-chicken",
   position: 299,
   ownLength: 2364,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3246323/v7c46-the-dueling-peaks-gala",

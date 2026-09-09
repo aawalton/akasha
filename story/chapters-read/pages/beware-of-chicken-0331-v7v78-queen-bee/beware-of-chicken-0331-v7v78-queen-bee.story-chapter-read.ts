@@ -8,7 +8,7 @@ export const bewareOfChicken0331V7v78QueenBee = {
   story: "story-read/beware-of-chicken",
   position: 331,
   ownLength: 2153,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-12",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3664584/v7v78-queen-bee",

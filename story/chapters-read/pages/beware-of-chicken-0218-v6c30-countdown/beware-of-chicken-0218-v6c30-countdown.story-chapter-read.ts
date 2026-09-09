@@ -9,7 +9,7 @@ export const bewareOfChicken0218V6c30Countdown = {
   position: 218,
   ownLength: 2711,
   ownProgress: 2711,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:50.378Z",
   publishedAt: "2025-05-31",
   externalLink:

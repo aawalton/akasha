@@ -9,7 +9,7 @@ export const bewareOfChicken0245V6c56JourneyThroughTheSky = {
   position: 245,
   ownLength: 1895,
   ownProgress: 1895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:47.962Z",
   publishedAt: "2025-08-13",
   externalLink:

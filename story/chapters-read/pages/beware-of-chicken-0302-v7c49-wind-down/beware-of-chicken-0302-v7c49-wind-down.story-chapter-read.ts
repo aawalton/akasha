@@ -8,7 +8,7 @@ export const bewareOfChicken0302V7c49WindDown = {
   story: "story-read/beware-of-chicken",
   position: 302,
   ownLength: 2024,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3303287/v7c49-wind-down",

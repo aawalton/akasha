@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0015Book4Chapter13TheCavalry
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 15,
   ownLength: 4326,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2608433/book-4-chapter-13-the-cavalry",

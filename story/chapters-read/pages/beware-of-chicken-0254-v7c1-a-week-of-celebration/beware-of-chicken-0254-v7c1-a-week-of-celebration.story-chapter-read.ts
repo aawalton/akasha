@@ -9,7 +9,7 @@ export const bewareOfChicken0254V7c1AWeekOfCelebration = {
   position: 254,
   ownLength: 2484,
   ownProgress: 2484,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:06.872Z",
   publishedAt: "2025-11-18",
   externalLink:

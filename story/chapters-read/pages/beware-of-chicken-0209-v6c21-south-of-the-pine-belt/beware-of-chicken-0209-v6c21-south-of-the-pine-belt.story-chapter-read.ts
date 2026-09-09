@@ -9,7 +9,7 @@ export const bewareOfChicken0209V6c21SouthOfThePineBelt = {
   position: 209,
   ownLength: 2129,
   ownProgress: 2129,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:32.061Z",
   publishedAt: "2025-05-05",
   externalLink:

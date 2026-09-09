@@ -9,7 +9,7 @@ export const bewareOfChicken0235V6c46SeniorBrotherSDayAtTheOffice = {
   position: 235,
   ownLength: 3348,
   ownProgress: 3348,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:26.768Z",
   publishedAt: "2025-07-22",
   externalLink:

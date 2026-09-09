@@ -8,7 +8,7 @@ export const bewareOfChicken0308V7c55BarHopping = {
   story: "story-read/beware-of-chicken",
   position: 308,
   ownLength: 2166,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3356764/v7c55-bar-hopping",

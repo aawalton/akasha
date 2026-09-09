@@ -9,7 +9,7 @@ export const bewareOfChicken0117V5c12AsTheBirdFlies = {
   position: 117,
   ownLength: 2232,
   ownProgress: 2232,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:31.009Z",
   publishedAt: "2024-06-11",
   externalLink:

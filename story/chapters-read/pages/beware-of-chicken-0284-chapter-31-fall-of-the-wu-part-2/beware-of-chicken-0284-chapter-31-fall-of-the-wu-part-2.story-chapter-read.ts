@@ -9,7 +9,7 @@ export const bewareOfChicken0284Chapter31FallOfTheWuPart2 = {
   position: 284,
   ownLength: 2668,
   ownProgress: 2668,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:10.751Z",
   publishedAt: "2026-02-24",
   externalLink:

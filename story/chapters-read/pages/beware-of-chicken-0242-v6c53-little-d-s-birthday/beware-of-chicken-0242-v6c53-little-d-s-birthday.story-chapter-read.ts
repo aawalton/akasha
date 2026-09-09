@@ -9,7 +9,7 @@ export const bewareOfChicken0242V6c53LittleDSBirthday = {
   position: 242,
   ownLength: 1723,
   ownProgress: 1723,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:41.943Z",
   publishedAt: "2025-08-07",
   externalLink:

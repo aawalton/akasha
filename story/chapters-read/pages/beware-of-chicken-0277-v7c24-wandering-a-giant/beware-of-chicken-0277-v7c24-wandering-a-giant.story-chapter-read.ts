@@ -9,7 +9,7 @@ export const bewareOfChicken0277V7c24WanderingAGiant = {
   position: 277,
   ownLength: 2439,
   ownProgress: 2439,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:55.748Z",
   publishedAt: "2026-02-01",
   externalLink:

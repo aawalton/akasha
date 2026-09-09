@@ -8,7 +8,7 @@ export const bewareOfChicken0288V7c35TheLadyOfTheLake = {
   story: "story-read/beware-of-chicken",
   position: 288,
   ownLength: 2282,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-06",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3121534/v7c35-the-lady-of-the-lake",

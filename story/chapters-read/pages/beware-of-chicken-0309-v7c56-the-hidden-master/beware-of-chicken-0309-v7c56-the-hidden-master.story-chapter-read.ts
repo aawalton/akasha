@@ -8,7 +8,7 @@ export const bewareOfChicken0309V7c56TheHiddenMaster = {
   story: "story-read/beware-of-chicken",
   position: 309,
   ownLength: 2486,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3369164/v7c56-the-hidden-master",

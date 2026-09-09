@@ -9,7 +9,7 @@ export const bewareOfChicken0201V6c13EnlightenmentPart2 = {
   position: 201,
   ownLength: 1943,
   ownProgress: 1943,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:13.963Z",
   publishedAt: "2025-04-09",
   externalLink:

@@ -8,7 +8,7 @@ export const bewareOfChicken0327V7c74DustAndRebirth = {
   story: "story-read/beware-of-chicken",
   position: 327,
   ownLength: 2733,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3624996/v7c74-dust-and-rebirth",

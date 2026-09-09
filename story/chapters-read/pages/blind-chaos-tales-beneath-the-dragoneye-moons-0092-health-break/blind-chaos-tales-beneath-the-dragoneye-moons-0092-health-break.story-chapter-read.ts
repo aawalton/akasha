@@ -7,7 +7,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0092HealthBreak = {
   story: "story-read/blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 92,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3929345",
   source: "royal-road",
   title: "Health Break",

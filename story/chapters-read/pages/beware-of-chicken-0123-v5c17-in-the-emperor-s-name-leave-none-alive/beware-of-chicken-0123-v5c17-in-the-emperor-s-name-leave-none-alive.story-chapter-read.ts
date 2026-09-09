@@ -9,7 +9,7 @@ export const bewareOfChicken0123V5c17InTheEmperorSNameLeaveNoneAlive = {
   position: 123,
   ownLength: 2011,
   ownProgress: 2011,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:43.795Z",
   publishedAt: "2024-07-01",
   externalLink:

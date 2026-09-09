@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0009Book4Chapter8PartiesProf
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 9,
   ownLength: 6102,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2529032/book-4-chapter-8-parties-profits-and-plots",

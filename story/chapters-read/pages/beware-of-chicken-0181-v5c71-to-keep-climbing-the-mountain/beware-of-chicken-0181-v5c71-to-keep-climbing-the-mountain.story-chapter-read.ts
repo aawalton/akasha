@@ -9,7 +9,7 @@ export const bewareOfChicken0181V5c71ToKeepClimbingTheMountain = {
   position: 181,
   ownLength: 2775,
   ownProgress: 2775,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:31.667Z",
   publishedAt: "2024-11-30",
   externalLink:

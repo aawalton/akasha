@@ -9,7 +9,7 @@ export const bewareOfChicken0163V5c57TheTruthLaidBarePart2 = {
   position: 163,
   ownLength: 2561,
   ownProgress: 2561,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:53.987Z",
   publishedAt: "2024-10-30",
   externalLink:

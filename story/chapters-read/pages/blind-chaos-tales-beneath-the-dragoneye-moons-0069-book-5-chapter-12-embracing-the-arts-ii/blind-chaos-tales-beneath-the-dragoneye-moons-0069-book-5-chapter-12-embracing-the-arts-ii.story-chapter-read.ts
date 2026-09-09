@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0069Book5Chapter12EmbracingT
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 69,
   ownLength: 5430,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3314842/book-5-chapter-12-embracing-the-arts-ii",

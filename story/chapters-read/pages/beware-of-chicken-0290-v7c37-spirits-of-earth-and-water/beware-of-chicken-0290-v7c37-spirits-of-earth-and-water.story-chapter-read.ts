@@ -8,7 +8,7 @@ export const bewareOfChicken0290V7c37SpiritsOfEarthAndWater = {
   story: "story-read/beware-of-chicken",
   position: 290,
   ownLength: 2447,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3163824/v7c37-spirits-of-earth-and-water",

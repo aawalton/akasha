@@ -9,7 +9,7 @@ export const bewareOfChicken0216V6c28TheFairiesDescend = {
   position: 216,
   ownLength: 1743,
   ownProgress: 1743,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:46.312Z",
   publishedAt: "2025-05-27",
   externalLink:

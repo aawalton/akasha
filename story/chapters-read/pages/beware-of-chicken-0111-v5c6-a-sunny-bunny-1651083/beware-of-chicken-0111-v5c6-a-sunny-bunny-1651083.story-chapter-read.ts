@@ -7,7 +7,7 @@ export const bewareOfChicken0111V5c6ASunnyBunny1651083 = {
   story: "story-read/beware-of-chicken",
   position: 111,
   publishedAt: "2024-05-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1651083",
   source: "royal-road",
   title: "v5c6: A Sunny Bunny",

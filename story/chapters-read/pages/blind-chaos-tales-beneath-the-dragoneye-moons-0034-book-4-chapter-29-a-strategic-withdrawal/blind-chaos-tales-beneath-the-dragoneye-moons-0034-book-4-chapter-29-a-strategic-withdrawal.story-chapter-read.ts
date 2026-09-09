@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0034Book4Chapter29AStrategic
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 34,
   ownLength: 5720,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2775933/book-4-chapter-29-a-strategic-withdrawal",

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0071Book5Chapter14AWildAnniv
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 71,
   ownLength: 4782,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3342953/book-5-chapter-14-a-wild-anniversary-i",

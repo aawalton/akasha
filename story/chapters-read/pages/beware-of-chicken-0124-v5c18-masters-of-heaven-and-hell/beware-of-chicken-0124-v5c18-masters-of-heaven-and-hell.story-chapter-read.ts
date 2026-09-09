@@ -9,7 +9,7 @@ export const bewareOfChicken0124V5c18MastersOfHeavenAndHell = {
   position: 124,
   ownLength: 2163,
   ownProgress: 2163,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:45.964Z",
   publishedAt: "2024-07-03",
   externalLink:

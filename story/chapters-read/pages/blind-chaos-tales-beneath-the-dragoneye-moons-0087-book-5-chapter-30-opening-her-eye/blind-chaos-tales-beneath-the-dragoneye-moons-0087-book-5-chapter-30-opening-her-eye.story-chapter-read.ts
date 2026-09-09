@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0087Book5Chapter30OpeningHer
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 87,
   ownLength: 5535,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3752673/book-5-chapter-30-opening-her-eye",

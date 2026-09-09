@@ -8,7 +8,7 @@ export const bewareOfChicken0303V7c50TheYoungerBrother = {
   story: "story-read/beware-of-chicken",
   position: 303,
   ownLength: 2716,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3311962/v7c50-the-younger-brother",

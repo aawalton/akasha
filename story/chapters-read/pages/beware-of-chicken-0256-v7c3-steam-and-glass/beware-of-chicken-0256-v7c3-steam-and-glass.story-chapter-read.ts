@@ -9,7 +9,7 @@ export const bewareOfChicken0256V7c3SteamAndGlass = {
   position: 256,
   ownLength: 2767,
   ownProgress: 2767,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:11.090Z",
   publishedAt: "2025-11-22",
   externalLink:

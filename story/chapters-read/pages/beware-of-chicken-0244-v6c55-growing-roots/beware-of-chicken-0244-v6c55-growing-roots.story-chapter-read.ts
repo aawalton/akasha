@@ -9,7 +9,7 @@ export const bewareOfChicken0244V6c55GrowingRoots = {
   position: 244,
   ownLength: 2169,
   ownProgress: 2169,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:45.876Z",
   publishedAt: "2025-08-12",
   externalLink:

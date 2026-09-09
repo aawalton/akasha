@@ -8,7 +8,7 @@ export const bookboundBunny0007B3Chapter3ForestFloor = {
   story: "bookbound-bunny",
   position: 7,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3021235/b3-chapter-3-forest-floor",

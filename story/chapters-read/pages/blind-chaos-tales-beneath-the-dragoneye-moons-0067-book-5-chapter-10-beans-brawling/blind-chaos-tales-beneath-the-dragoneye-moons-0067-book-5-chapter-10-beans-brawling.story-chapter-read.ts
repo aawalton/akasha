@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0067Book5Chapter10BeansBrawl
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 67,
   ownLength: 4819,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3257937/book-5-chapter-10-beans-brawling",

@@ -9,7 +9,7 @@ export const bewareOfChicken0203V6c15NotEveryDepartureIsHeavenSShaking = {
   position: 203,
   ownLength: 1981,
   ownProgress: 1981,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:18.103Z",
   publishedAt: "2025-04-13",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0110V5c5HearthAndHome = {
   position: 110,
   ownLength: 2127,
   ownProgress: 2127,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:16.469Z",
   publishedAt: "2024-05-24",
   externalLink:

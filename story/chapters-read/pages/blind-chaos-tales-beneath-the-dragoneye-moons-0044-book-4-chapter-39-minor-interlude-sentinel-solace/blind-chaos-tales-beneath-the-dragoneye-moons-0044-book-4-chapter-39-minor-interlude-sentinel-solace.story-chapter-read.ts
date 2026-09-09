@@ -9,7 +9,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0044Book4Chapter39MinorInter
     story: "blind-chaos-tales-beneath-the-dragoneye-moons",
     position: 44,
     ownLength: 4909,
-    unitSlug: "words",
+    unit: "words",
     publishedAt: "2025-12-31",
     externalLink:
       "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2896786/book-4-chapter-39-minor-interlude-sentinel-solace",

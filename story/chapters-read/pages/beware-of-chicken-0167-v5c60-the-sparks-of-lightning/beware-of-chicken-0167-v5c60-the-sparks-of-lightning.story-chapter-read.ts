@@ -9,7 +9,7 @@ export const bewareOfChicken0167V5c60TheSparksOfLightning = {
   position: 167,
   ownLength: 2455,
   ownProgress: 2455,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:02.199Z",
   publishedAt: "2024-11-06",
   externalLink:

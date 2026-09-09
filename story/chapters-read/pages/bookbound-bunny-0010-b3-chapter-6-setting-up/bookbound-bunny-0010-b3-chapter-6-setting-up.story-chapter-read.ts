@@ -8,7 +8,7 @@ export const bookboundBunny0010B3Chapter6SettingUp = {
   story: "bookbound-bunny",
   position: 10,
   ownLength: 2127,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3052733/b3-chapter-6-setting-up",

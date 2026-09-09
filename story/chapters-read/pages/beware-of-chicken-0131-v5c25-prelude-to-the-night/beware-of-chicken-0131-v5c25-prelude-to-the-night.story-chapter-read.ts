@@ -9,7 +9,7 @@ export const bewareOfChicken0131V5c25PreludeToTheNight = {
   position: 131,
   ownLength: 2607,
   ownProgress: 2607,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:18.881Z",
   publishedAt: "2024-07-26",
   externalLink:

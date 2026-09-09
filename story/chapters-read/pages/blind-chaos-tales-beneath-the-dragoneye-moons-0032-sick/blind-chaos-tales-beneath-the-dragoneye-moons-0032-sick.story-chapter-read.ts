@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0032Sick = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 32,
   ownLength: 237,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-14",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2761705/sick",

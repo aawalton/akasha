@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0088Book5Chapter31SeventeenS
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 88,
   ownLength: 6256,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3774909/book-5-chapter-31-seventeen-swords-i",

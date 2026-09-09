@@ -9,7 +9,7 @@ export const bewareOfChicken0147V5c41AllAlongTheHomefront = {
   position: 147,
   ownLength: 2371,
   ownProgress: 2371,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:19.851Z",
   publishedAt: "2024-09-08",
   externalLink:

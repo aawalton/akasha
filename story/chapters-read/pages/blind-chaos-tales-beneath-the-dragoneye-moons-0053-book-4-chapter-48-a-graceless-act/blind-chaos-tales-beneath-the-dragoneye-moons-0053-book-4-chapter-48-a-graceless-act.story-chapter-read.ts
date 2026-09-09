@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0053Book4Chapter48AGraceless
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 53,
   ownLength: 5839,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-30",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2996336/book-4-chapter-48-a-graceless-act",

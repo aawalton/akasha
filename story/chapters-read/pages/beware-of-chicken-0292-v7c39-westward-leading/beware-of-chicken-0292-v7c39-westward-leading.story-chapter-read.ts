@@ -8,7 +8,7 @@ export const bewareOfChicken0292V7c39WestwardLeading = {
   story: "story-read/beware-of-chicken",
   position: 292,
   ownLength: 1835,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3178763/v7c39-westward-leading",

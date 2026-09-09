@@ -9,7 +9,7 @@ export const bewareOfChicken0224V6c35MessyMail = {
   position: 224,
   ownLength: 2125,
   ownProgress: 2125,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:03.177Z",
   publishedAt: "2025-06-19",
   externalLink:

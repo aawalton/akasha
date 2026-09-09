@@ -9,7 +9,7 @@ export const bewareOfChicken0198V6c10AGlimpseOfConnections = {
   position: 198,
   ownLength: 2365,
   ownProgress: 2365,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:06.977Z",
   publishedAt: "2025-03-31",
   externalLink:

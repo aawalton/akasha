@@ -9,7 +9,7 @@ export const bewareOfChicken0160V5c54ForAMomentCalm = {
   position: 160,
   ownLength: 2605,
   ownProgress: 2605,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:47.592Z",
   publishedAt: "2024-10-23",
   externalLink:

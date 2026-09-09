@@ -9,7 +9,7 @@ export const bewareOfChicken0133V5c27NoPlanSurvivesFirstContactPart2 = {
   position: 133,
   ownLength: 2132,
   ownProgress: 2132,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:22.875Z",
   publishedAt: "2024-07-31",
   externalLink:

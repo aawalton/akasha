@@ -9,7 +9,7 @@ export const bewareOfChicken0207V6c19OldWounds = {
   position: 207,
   ownLength: 1811,
   ownProgress: 1811,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:26.869Z",
   publishedAt: "2025-04-29",
   externalLink:

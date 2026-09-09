@@ -9,7 +9,7 @@ export const bewareOfChicken0213V6c25LastDaysOfTheOldYear = {
   position: 213,
   ownLength: 2173,
   ownProgress: 2173,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:40.248Z",
   publishedAt: "2025-05-20",
   externalLink:

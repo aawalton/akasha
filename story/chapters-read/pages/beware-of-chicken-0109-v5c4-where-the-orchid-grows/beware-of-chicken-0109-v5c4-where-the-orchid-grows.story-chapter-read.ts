@@ -9,7 +9,7 @@ export const bewareOfChicken0109V5c4WhereTheOrchidGrows = {
   position: 109,
   ownLength: 2987,
   ownProgress: 2987,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:14.275Z",
   publishedAt: "2024-05-22",
   externalLink:

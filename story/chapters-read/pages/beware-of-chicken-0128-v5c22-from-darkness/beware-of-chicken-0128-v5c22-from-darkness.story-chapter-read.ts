@@ -9,7 +9,7 @@ export const bewareOfChicken0128V5c22FromDarkness = {
   position: 128,
   ownLength: 1968,
   ownProgress: 1968,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:54.365Z",
   publishedAt: "2024-07-19",
   externalLink:

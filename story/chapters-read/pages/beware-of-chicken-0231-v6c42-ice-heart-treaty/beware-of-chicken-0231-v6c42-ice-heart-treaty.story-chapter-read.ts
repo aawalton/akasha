@@ -9,7 +9,7 @@ export const bewareOfChicken0231V6c42IceHeartTreaty = {
   position: 231,
   ownLength: 2162,
   ownProgress: 2162,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:18.815Z",
   publishedAt: "2025-07-05",
   externalLink:

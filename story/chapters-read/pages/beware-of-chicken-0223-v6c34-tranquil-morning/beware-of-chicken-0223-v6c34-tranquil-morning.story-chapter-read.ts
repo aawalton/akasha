@@ -9,7 +9,7 @@ export const bewareOfChicken0223V6c34TranquilMorning = {
   position: 223,
   ownLength: 1784,
   ownProgress: 1784,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:01.054Z",
   publishedAt: "2025-06-17",
   externalLink:

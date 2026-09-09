@@ -8,7 +8,7 @@ export const bewareOfChicken0338V7c85TheTrueRuler = {
   story: "story-read/beware-of-chicken",
   position: 338,
   ownLength: 3226,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3733692/v7c85-the-true-ruler",

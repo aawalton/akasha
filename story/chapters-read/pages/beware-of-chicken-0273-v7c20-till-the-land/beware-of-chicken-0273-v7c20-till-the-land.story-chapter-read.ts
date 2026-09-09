@@ -9,7 +9,7 @@ export const bewareOfChicken0273V7c20TillTheLand = {
   position: 273,
   ownLength: 4228,
   ownProgress: 4228,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:47.601Z",
   publishedAt: "2026-01-21",
   externalLink:

@@ -8,7 +8,7 @@ export const bookboundBunny0012B3Chapter8ShadowAndFlame = {
   story: "bookbound-bunny",
   position: 12,
   ownLength: 2137,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-19",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3070364/b3-chapter-8-shadow-and-flame",

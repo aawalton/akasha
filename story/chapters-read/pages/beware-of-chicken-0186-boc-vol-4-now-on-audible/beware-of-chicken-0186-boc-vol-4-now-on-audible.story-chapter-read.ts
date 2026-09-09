@@ -9,7 +9,7 @@ export const bewareOfChicken0186BocVol4NowOnAudible = {
   position: 186,
   ownLength: 71,
   ownProgress: 71,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:41.617Z",
   publishedAt: "2024-12-17",
   externalLink:

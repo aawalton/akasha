@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0033Book1IsNowOnAmazon = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 33,
   ownLength: 234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765837/book-1-is-now-on-amazon",

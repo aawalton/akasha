@@ -8,7 +8,7 @@ export const bewareOfChicken0312V7c59LastDaysAtThePeaks = {
   story: "story-read/beware-of-chicken",
   position: 312,
   ownLength: 3265,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3430209/v7c59-last-days-at-the-peaks",

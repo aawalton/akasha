@@ -8,7 +8,7 @@ export const bookboundBunny0006B3Chapter2RuneCharms = {
   story: "bookbound-bunny",
   position: 6,
   ownLength: 2167,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3014288/b3-chapter-2-rune-charms",

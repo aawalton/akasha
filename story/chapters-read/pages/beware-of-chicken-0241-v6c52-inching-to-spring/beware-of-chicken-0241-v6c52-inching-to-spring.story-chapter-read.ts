@@ -9,7 +9,7 @@ export const bewareOfChicken0241V6c52InchingToSpring = {
   position: 241,
   ownLength: 1996,
   ownProgress: 1996,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:39.841Z",
   publishedAt: "2025-08-05",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0150V5c44WillOfTheWeak = {
   position: 150,
   ownLength: 4454,
   ownProgress: 4454,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:26.265Z",
   publishedAt: "2024-09-21",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0169V5c62TheHeavensConverge = {
   position: 169,
   ownLength: 2138,
   ownProgress: 2138,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:06.376Z",
   publishedAt: "2024-11-10",
   externalLink:

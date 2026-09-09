@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0054Book4Chapter49Splinters 
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 54,
   ownLength: 4912,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3013285/book-4-chapter-49-splinters",

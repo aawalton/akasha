@@ -9,7 +9,7 @@ export const bewareOfChicken0206V6c18FallingFromTheSummit = {
   position: 206,
   ownLength: 3732,
   ownProgress: 3732,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:24.769Z",
   publishedAt: "2025-04-26",
   externalLink:

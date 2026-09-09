@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0021Book4Chapter19LivesLived
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 21,
   ownLength: 5979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2661871/book-4-chapter-19-lives-lived-lives-lost",

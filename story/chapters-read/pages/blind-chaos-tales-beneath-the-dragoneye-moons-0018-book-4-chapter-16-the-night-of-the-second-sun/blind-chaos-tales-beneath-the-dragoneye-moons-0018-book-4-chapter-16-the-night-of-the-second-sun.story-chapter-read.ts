@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0018Book4Chapter16TheNightOf
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 18,
   ownLength: 5107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2631793/book-4-chapter-16-the-night-of-the-second-sun",

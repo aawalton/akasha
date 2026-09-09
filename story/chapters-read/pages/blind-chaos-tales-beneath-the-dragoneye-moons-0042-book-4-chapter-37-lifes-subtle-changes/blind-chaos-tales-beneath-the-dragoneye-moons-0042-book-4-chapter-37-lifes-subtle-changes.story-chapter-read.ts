@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0042Book4Chapter37LifesSubtl
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 42,
   ownLength: 5515,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2877547/book-4-chapter-37-lifes-subtle-changes",

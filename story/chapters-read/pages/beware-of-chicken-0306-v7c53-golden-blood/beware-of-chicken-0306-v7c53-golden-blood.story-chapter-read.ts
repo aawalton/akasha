@@ -8,7 +8,7 @@ export const bewareOfChicken0306V7c53GoldenBlood = {
   story: "story-read/beware-of-chicken",
   position: 306,
   ownLength: 1925,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3339799/v7c53-golden-blood",

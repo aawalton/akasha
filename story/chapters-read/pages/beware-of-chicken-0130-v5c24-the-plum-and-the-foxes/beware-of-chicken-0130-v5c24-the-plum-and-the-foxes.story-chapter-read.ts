@@ -9,7 +9,7 @@ export const bewareOfChicken0130V5c24ThePlumAndTheFoxes = {
   position: 130,
   ownLength: 1840,
   ownProgress: 1840,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:01:16.749Z",
   publishedAt: "2024-07-23",
   externalLink:

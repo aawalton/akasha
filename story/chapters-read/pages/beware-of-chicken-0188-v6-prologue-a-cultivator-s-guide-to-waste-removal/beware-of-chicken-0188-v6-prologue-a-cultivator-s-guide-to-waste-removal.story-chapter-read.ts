@@ -9,7 +9,7 @@ export const bewareOfChicken0188V6PrologueACultivatorSGuideToWasteRemoval = {
   position: 188,
   ownLength: 2209,
   ownProgress: 2209,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:45.648Z",
   publishedAt: "2025-02-25",
   externalLink:

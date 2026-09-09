@@ -9,7 +9,7 @@ export const bewareOfChicken0184V5c74TheCycleContinuesEndOfBook5 = {
   position: 184,
   ownLength: 2894,
   ownProgress: 2894,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:37.682Z",
   publishedAt: "2024-12-06",
   externalLink:

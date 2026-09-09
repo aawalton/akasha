@@ -9,7 +9,7 @@ export const bewareOfChicken0113V5c8TheMasterOfTheAzureHills = {
   position: 113,
   ownLength: 1883,
   ownProgress: 1883,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:22.510Z",
   publishedAt: "2024-06-01",
   externalLink:

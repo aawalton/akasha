@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0002Book4Chapter1Remera = {
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 4610,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2466419/book-4-chapter-1-remera",

@@ -8,7 +8,7 @@ export const bewareOfChicken0339V7c86TheRisingOfADragon = {
   story: "story-read/beware-of-chicken",
   position: 339,
   ownLength: 2667,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3741900/v7c86-the-rising-of-a-dragon",

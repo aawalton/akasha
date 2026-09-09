@@ -9,7 +9,7 @@ export const bewareOfChicken0232V6c43ABirdInHand = {
   position: 232,
   ownLength: 1955,
   ownProgress: 1955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:20.730Z",
   publishedAt: "2025-07-08",
   externalLink:

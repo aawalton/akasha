@@ -9,7 +9,7 @@ export const bewareOfChicken0247V6c58TopOfTheMountainButStillAWaysToGo = {
   position: 247,
   ownLength: 2697,
   ownProgress: 2697,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:52.241Z",
   publishedAt: "2025-08-25",
   externalLink:

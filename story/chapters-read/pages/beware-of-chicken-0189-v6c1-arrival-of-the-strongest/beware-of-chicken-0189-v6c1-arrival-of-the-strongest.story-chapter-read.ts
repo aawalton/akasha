@@ -9,7 +9,7 @@ export const bewareOfChicken0189V6c1ArrivalOfTheStrongest = {
   position: 189,
   ownLength: 2524,
   ownProgress: 2524,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:48.112Z",
   publishedAt: "2025-03-04",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0236V6c47GrassEarthAndTheRavine = {
   position: 236,
   ownLength: 2540,
   ownProgress: 2540,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:59:28.967Z",
   publishedAt: "2025-07-24",
   externalLink:

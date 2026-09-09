@@ -9,7 +9,7 @@ export const bewareOfChicken0269V7c16AManHasThreeMasks = {
   position: 269,
   ownLength: 3254,
   ownProgress: 3254,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:38.874Z",
   publishedAt: "2026-01-06",
   externalLink:

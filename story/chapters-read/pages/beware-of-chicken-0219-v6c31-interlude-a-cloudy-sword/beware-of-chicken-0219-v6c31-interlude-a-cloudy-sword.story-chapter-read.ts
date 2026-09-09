@@ -9,7 +9,7 @@ export const bewareOfChicken0219V6c31InterludeACloudySword = {
   position: 219,
   ownLength: 1895,
   ownProgress: 1895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:58:52.569Z",
   publishedAt: "2025-06-03",
   externalLink:

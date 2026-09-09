@@ -9,7 +9,7 @@ export const bewareOfChicken0185V5EpilogueTheWindingThreadsOfFate = {
   position: 185,
   ownLength: 3393,
   ownProgress: 3393,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:39.704Z",
   publishedAt: "2024-12-09",
   externalLink:

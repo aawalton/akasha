@@ -9,7 +9,7 @@ export const bewareOfChicken0193V6c5ThroughAFalconSEyes = {
   position: 193,
   ownLength: 1650,
   ownProgress: 1650,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:57:56.411Z",
   publishedAt: "2025-03-19",
   externalLink:

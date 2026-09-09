@@ -9,7 +9,7 @@ export const bewareOfChicken0145V5c39ChariotOfTheEarthPrinceOfTheHeavens = {
   position: 145,
   ownLength: 2362,
   ownProgress: 2362,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:15.858Z",
   publishedAt: "2024-09-03",
   externalLink:

@@ -8,7 +8,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0083Book5Chapter26ASeriesOfH
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 83,
   ownLength: 4998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3618908/book-5-chapter-26-a-series-of-hunts-ii",

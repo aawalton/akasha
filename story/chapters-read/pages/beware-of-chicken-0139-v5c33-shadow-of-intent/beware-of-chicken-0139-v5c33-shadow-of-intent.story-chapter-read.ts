@@ -9,7 +9,7 @@ export const bewareOfChicken0139V5c33ShadowOfIntent = {
   position: 139,
   ownLength: 1729,
   ownProgress: 1729,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:03.507Z",
   publishedAt: "2024-08-14",
   externalLink:

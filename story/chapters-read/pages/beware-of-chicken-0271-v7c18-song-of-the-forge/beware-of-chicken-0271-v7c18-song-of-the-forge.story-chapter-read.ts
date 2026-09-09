@@ -9,7 +9,7 @@ export const bewareOfChicken0271V7c18SongOfTheForge = {
   position: 271,
   ownLength: 3034,
   ownProgress: 3034,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:00:43.192Z",
   publishedAt: "2026-01-09",
   externalLink:

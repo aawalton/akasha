@@ -8,7 +8,7 @@ export const bewareOfChicken0317V7c64UnnervingMeeting = {
   story: "story-read/beware-of-chicken",
   position: 317,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3485587/v7c64-unnerving-meeting",

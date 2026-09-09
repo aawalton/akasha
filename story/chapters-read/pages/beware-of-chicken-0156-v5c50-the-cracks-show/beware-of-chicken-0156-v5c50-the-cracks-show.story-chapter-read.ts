@@ -9,7 +9,7 @@ export const bewareOfChicken0156V5c50TheCracksShow = {
   position: 156,
   ownLength: 2098,
   ownProgress: 2098,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:56:39.213Z",
   publishedAt: "2024-10-07",
   externalLink:
