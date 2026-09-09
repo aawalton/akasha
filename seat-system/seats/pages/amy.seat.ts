@@ -7,7 +7,7 @@ export const amy = {
   personaSlug: "amy",
   assignmentSlug: "initiative/amy-day-model",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
