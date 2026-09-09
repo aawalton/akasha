@@ -14,7 +14,7 @@ export const amyDayModel = {
       statement:
         "Everything measured about one of Alan's days sits on one `day` page under `alan/track/days/pages`.",
       workingMemory:
-        "The type is `day` and every page is slugged `day-YYYY-MM-DD` under `alan/track/days/pages`. `eso-day` is no longer a page type: its 253 row files sit beside the day page of the same date, byte for byte, and the six-in-the-morning ESO boundary remains only as the rule saying which date a reading is filed under. What is left is `email-entry`, 20 pages of one day each, holding one number apiece.",
+        "The type is `day` and every page is slugged `day-YYYY-MM-DD` under `alan/track/days/pages`. `eso-day` is no longer a page type: its 253 row files sit beside the day page of the same date, byte for byte, and the six-in-the-morning ESO boundary remains only as the rule saying which date a reading is filed under. `email-entry` is no longer a page type either: the one number its 20 pages held is `lowestEmailInboxCount` on the day page of the same date.",
     },
     {
       statement:
