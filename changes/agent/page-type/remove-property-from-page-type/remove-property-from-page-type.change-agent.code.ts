@@ -1,6 +1,6 @@
 import { addressIn } from "@akasha/pages/page-address"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
-import { textAt } from "@akasha/pages/page-value-reading"
+import { textAt, textsAt } from "@akasha/pages/page-value-reading"
 import {
   gathered,
   missing,
@@ -70,14 +70,17 @@ export async function removePropertyFromPageType(
   if (member.said.refused !== null) return member.said
   over = member.world
   answers.push(member.said)
-  const part = await reach(over, REMOVE_VALUE, {
-    at: given.at,
-    key: PARTS,
-    value: given.property,
-  })
-  if (part.said.refused !== null) return part.said
-  over = part.world
-  answers.push(part.said)
+  const parted = textsAt(owner, PARTS)
+  if (parted?.includes(given.property) === true) {
+    const part = await reach(over, REMOVE_VALUE, {
+      at: given.at,
+      key: PARTS,
+      value: given.property,
+    })
+    if (part.said.refused !== null) return part.said
+    over = part.world
+    answers.push(part.said)
+  }
   const record = await reach(over, REMOVE_RECORD, {
     at: given.at,
     key: PROPERTIES,

@@ -27,6 +27,7 @@ type Holding = {
   readonly path?: string
   readonly listed?: boolean
   readonly owner?: boolean
+  readonly parted?: boolean
   readonly refuses?: boolean
 }
 
@@ -44,8 +45,10 @@ function worldFor(seen: Reached[], holding: Holding = {}): World {
     index: {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: (one: string) => {
-        if (one === OWNER_AT) return holding.owner === false ? null : { slug: "ios-app" }
-        return { propertySlug: "web-directory" }
+        if (one !== OWNER_AT) return { propertySlug: "web-directory" }
+        if (holding.owner === false) return null
+        if (holding.parted === false) return { slug: "ios-app" }
+        return { slug: "ios-app", parts: [PROPERTY] }
       },
     } as never,
     reaching: catching(seen, holding.refuses === true),
@@ -84,6 +87,15 @@ test("the property goes from among the page type's parts in the same answer", as
   expect(seen[1]?.at).toBe(VALUE)
   expect(seen[1]?.given.key).toBe("parts")
   expect(seen[1]?.given.value).toBe(PROPERTY)
+})
+
+test("a page type that declares a property without parting it loses the declaration alone", async () => {
+  const seen: Reached[] = []
+  const said = await answering(seen, {}, { parted: false })
+  expect(said.refused).toBe(null)
+  expect(seen.map((one) => one.at)).toEqual([MEMBER, RECORD])
+  expect(seen[1]?.given.key).toBe("properties")
+  expect(seen[1]?.given.is).toBe(PROPERTY)
 })
 
 test("the declaration taken out is the one naming that property", async () => {

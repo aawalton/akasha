@@ -30,7 +30,7 @@ export const removePropertyFromPageType = {
     {
       invariantKind: "departure",
       statement:
-        "A page type keeping the property in its parts alone or its properties alone is refused.",
+        "A page type that declares a property without parting it loses the declaration alone.",
     },
     {
       invariantKind: "departure",
