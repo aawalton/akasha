@@ -1486,6 +1486,20 @@
         "typescript": "5.9.3",
       },
     },
+    "temper/addon-generators": {
+      "name": "@akasha/temper-addon-generators",
+      "dependencies": {
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-dungeons": "workspace:*",
+        "@akasha/temper-equipment-kinds": "workspace:*",
+        "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-skill-kinds": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "temper/addon-init": {
       "name": "@akasha/temper-addon-init",
       "dependencies": {
@@ -2053,20 +2067,6 @@
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-addon-generators": {
-      "name": "@akasha/temper-addon-generators",
-      "dependencies": {
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -3069,7 +3069,7 @@
 
     "@akasha/temper-addon-data": ["@akasha/temper-addon-data@workspace:temper/temper-addon-data"],
 
-    "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:temper/temper-addon-generators"],
+    "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:temper/addon-generators"],
 
     "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/addon-init"],
 
