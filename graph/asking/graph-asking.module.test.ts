@@ -51,7 +51,7 @@ const NAMED = "code-system/modules/module.page-type.ts"
 
 const NAMER = "pages/indexes/index.page-type.ts"
 
-const EXTENDS = "extends-slug"
+const EXTENDS = "extends-type"
 
 const ENDING = ".ts"
 
