@@ -4,11 +4,11 @@ import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-stor
 import { coverUrl } from "@akasha/pages-url/cover-url"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { landRow, mergeRow } from "../generation-log/generation-log.module.code.ts"
-import type { InferenceRunRecord } from "../inference-run-record/inference-run-record.module.code.ts"
 import {
   persistInferenceMedia,
   shouldPersistMedia,
 } from "../persist-media/persist-media.module.code.ts"
+import type { InferenceRunRecord } from "../record/inference-run-record.module.code.ts"
 
 export const IMAGE_PAGE_TYPE_SLUG = "image"
 

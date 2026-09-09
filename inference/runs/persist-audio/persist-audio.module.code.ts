@@ -3,11 +3,11 @@ import { audioObjectKey } from "@akasha/object-store/object-store-key"
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { landRow } from "../generation-log/generation-log.module.code.ts"
-import type { InferenceRunRecord } from "../inference-run-record/inference-run-record.module.code.ts"
 import {
   persistInferenceMedia,
   shouldPersistMedia,
 } from "../persist-media/persist-media.module.code.ts"
+import type { InferenceRunRecord } from "../record/inference-run-record.module.code.ts"
 
 export const AUDIO_PAGE_TYPE_SLUG = "audio"
 

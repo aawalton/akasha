@@ -7,7 +7,7 @@ import {
   type InferenceService,
   SERVICE_VERSIONS,
   ServiceVersionsSchema,
-} from "../inference-run-services/inference-run-services.module.code.ts"
+} from "../services/inference-run-services.module.code.ts"
 
 export const InferenceRunRecordSchema = z.object({
   title: z.string(),
