@@ -7,7 +7,7 @@ export const google = {
   definition: "what Alan keeps with Google, reached under one consent",
   parts: [
     "workspace-package/google-calendar",
-    "workspace-package/google-drive",
+    "domain/google-drive",
     "workspace-package/google-email",
     "workspace-package/google-oauth",
   ],

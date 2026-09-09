@@ -114,7 +114,8 @@
     "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
-    "@akasha/workspace-paths": "workspace:*"
+    "@akasha/workspace-paths": "workspace:*",
+    "@akasha/google-oauth": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

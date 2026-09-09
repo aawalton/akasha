@@ -1,9 +1,9 @@
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import { DRIVE_SCOPES } from "@akasha/google-drive/env"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
+import { DRIVE_SCOPES } from "akasha/google/drive/drive-credentials/drive-credentials.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
@@ -188,10 +188,12 @@ async function fetching(
   root: string,
   from: string
 ): Promise<Answer> {
-  const files = await import("@akasha/google-drive/files")
+  const files = await import("akasha/google/drive/drive-files/drive-files.module.code.ts")
   const fileId = files.parseDriveFileId(said.get(SOURCE) ?? "")
   const folder = folderOf(said.get(OUT), root, from)
-  const { makeDriveClient } = await import("@akasha/google-drive/client")
+  const { makeDriveClient } = await import(
+    "akasha/google/drive/drive-client/drive-client.module.code.ts"
+  )
   const client = await makeDriveClient()
   try {
     const metadata = await files.fetchFileMetadata(client, fileId)
