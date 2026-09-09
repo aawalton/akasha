@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0045Chapter113TheBattleOfGlyp
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0045-chapter-113-the-battle-of-glyphward-fortress",
   title: "Chapter 113 - The Battle of Glyphward Fortress",
-  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 45,
   ownLength: 18519,
   unitSlug: "words",

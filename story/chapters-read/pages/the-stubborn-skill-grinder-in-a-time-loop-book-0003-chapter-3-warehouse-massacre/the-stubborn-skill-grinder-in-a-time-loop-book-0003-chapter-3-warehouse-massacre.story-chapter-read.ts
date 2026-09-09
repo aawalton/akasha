@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0003Chapter3WarehouseMassacre
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0003-chapter-3-warehouse-massacre",
   title: "Chapter 3 - Warehouse Massacre",
-  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 3,
   ownLength: 5920,
   unitSlug: "words",

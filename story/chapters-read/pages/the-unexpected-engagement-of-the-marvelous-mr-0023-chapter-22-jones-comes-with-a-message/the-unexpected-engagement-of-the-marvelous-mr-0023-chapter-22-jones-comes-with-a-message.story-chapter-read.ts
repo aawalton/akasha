@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0023Chapter22JonesComesWithA
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0023-chapter-22-jones-comes-with-a-message",
   title: "Chapter 22 - Jones Comes with a Message",
-  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 23,
   ownLength: 2442,
   unitSlug: "words",

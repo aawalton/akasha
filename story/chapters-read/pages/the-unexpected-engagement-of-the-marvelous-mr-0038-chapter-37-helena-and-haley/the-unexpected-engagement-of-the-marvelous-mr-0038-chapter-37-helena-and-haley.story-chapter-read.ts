@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0038Chapter37HelenaAndHaley 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0038-chapter-37-helena-and-haley",
   title: "Chapter 37 - Helena and Haley",
-  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 38,
   ownLength: 3024,
   unitSlug: "words",

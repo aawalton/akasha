@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0049Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0049-epilogue",
   title: "Epilogue",
-  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 49,
   ownLength: 1309,
   unitSlug: "words",
