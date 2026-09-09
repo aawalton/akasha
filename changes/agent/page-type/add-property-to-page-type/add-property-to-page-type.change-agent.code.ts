@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { manifestsIn, reachingOf } from "@akasha/indexes/package-reaching"
 import { importedFrom } from "@akasha/pages/page-body"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
-import { textAt } from "@akasha/pages/page-value-reading"
+import { textAt, textsAt } from "@akasha/pages/page-value-reading"
 import {
   gathered,
   missing,
@@ -24,6 +24,8 @@ const ADD_VALUE = "change-mechanical-file-content/add-property-value"
 const ADD_MEMBER = "change-mechanical-file-content/add-type-member"
 
 const PROPERTIES = "properties"
+
+const PARTS = "parts"
 
 const PART_SLUGS = "part-slugs"
 
@@ -120,7 +122,7 @@ export async function addPropertyToPageType(
   answers.push(record.said)
   const part = await reach(over, ADD_VALUE, {
     at: given.at,
-    key: exportedAs(PART_SLUGS),
+    key: textsAt(owner, PARTS) === null ? exportedAs(PART_SLUGS) : PARTS,
     value: given.property,
   })
   if (part.said.refused !== null) return part.said
