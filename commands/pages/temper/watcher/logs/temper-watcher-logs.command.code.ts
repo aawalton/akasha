@@ -3,10 +3,10 @@ import { join } from "node:path"
 import type {
   LogSource,
   WatcherLogLine,
-} from "akasha/temper/temper-watcher/watcher-log-line/watcher-log-line.module.code.ts"
-import { parseWatcherLine } from "akasha/temper/temper-watcher/watcher-log-line/watcher-log-line.module.code.ts"
-import { mergeNewestFirst } from "akasha/temper/temper-watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
-import { watcherLogDir } from "akasha/temper/temper-watcher/watcher-paths/watcher-paths.module.code.ts"
+} from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import { parseWatcherLine } from "akasha/temper/watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import { mergeNewestFirst } from "akasha/temper/watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
+import { watcherLogDir } from "akasha/temper/watcher/watcher-paths/watcher-paths.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 

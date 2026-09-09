@@ -43,7 +43,7 @@ RUN mkdir -p /out && \
     bun build --compile --target=bun-windows-x64 \
       --define "__WATCHER_VERSION__=\"${COMMIT_SHA}\"" \
       --outfile=/out/temper-watcher-worker.exe \
-      temper/temper-watcher/watcher-worker/watcher-worker.module.code.ts && \
+      temper/watcher/watcher-worker/watcher-worker.module.code.ts && \
     echo "${COMMIT_SHA}" > /out/version.txt
 
 FROM alpine:3.22 AS final

@@ -1,11 +1,11 @@
 import {
   readState,
   workerLogPath,
-} from "akasha/temper/temper-watcher/watcher-daemon/watcher-daemon.module.code.ts"
+} from "akasha/temper/watcher/watcher-daemon/watcher-daemon.module.code.ts"
 import {
   isUnitActive,
   unitMainPid,
-} from "akasha/temper/temper-watcher/watcher-unit/watcher-unit.module.code.ts"
+} from "akasha/temper/watcher/watcher-unit/watcher-unit.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
