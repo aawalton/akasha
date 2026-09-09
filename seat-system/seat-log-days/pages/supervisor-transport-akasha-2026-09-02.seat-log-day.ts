@@ -3,6 +3,7 @@ import type { SeatLogDay } from "../seat-log-day.page-type.ts"
 export const supervisorTransportAkasha20260902 = {
   id: "01a065a2-eda7-73f0-bc1f-e2880beb630a",
   pageTypeSlug: "seat-log-day",
+  type: "seat-log-day",
   slug: "supervisor-transport-akasha-2026-09-02",
   source: "supervisor-transport",
   seatName: "akasha",

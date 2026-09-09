@@ -3,6 +3,7 @@ import type { SeatLogDay } from "../seat-log-day.page-type.ts"
 export const oauthProxyConsoleDalla20260902 = {
   id: "01a065a2-eda6-7359-9b32-3855373b4c2e",
   pageTypeSlug: "seat-log-day",
+  type: "seat-log-day",
   slug: "oauth-proxy-console-dalla-2026-09-02",
   source: "oauth-proxy-console",
   seatName: "dalla",
