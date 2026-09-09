@@ -1,4 +1,4 @@
-import type { MobileCut } from "../../mobile-cut.page-type.ts"
+import type { MobileCut } from "../../mobile-cut.page-type.types.ts"
 
 export const alanwalton206 = {
   id: "01a07cc5-deed-7000-8a49-c823201bb6d6",
