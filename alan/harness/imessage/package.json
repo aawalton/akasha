@@ -15,7 +15,6 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/ssh-access": "workspace:*",
-    "zod": "^4.3.6",
-    "akasha": "workspace:*"
+    "zod": "^4.3.6"
   }
 }

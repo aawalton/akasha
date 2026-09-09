@@ -10,7 +10,5 @@
     "./new-york-wall": "./new-york-wall/new-york-wall.module.code.ts",
     "./us-zone-offset": "./us-zone-offset/us-zone-offset.module.code.ts"
   },
-  "dependencies": {
-    "akasha": "workspace:*"
-  }
+  "dependencies": {}
 }
