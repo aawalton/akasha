@@ -2,9 +2,9 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judging } from "@akasha/checks/judging"
-import { agentPathOf } from "@akasha/context/warranting"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils/fs/missing"
+import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import {
   preparing,
   sequenced,

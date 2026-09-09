@@ -1,5 +1,5 @@
 import { editsAt } from "@akasha/changes/edits-keeping"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { mistaking } from "../../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"

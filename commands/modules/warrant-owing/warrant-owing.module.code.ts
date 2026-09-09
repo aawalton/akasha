@@ -1,4 +1,4 @@
-import { changingOf, owedIn } from "@akasha/context/warranting"
+import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 

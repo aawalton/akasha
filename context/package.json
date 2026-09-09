@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/context",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./warranting": "./modules/warranting/warranting.module.code.ts",
-    "./warranting/testing": "./modules/warranting/warranting.module.test-fixtures.ts"
-  }
-}

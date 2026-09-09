@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const context = {
   id: "01a04f50-2a7e-7000-a43d-22ce4657c379",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "context",
   definition: "what a change requires its writer to have read",
-  manifest: "json",
   parts: ["page-type/context-warrant", "module/agent-stated", "module/warranting"],
   invariants: [
     {
@@ -26,4 +25,4 @@ export const context = {
       statement: "The warrants a change owes are worked out from the warrant pages.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

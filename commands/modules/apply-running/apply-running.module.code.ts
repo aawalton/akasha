@@ -1,7 +1,7 @@
 import { pathsOf } from "@akasha/changes/change-answer"
 import type { FileChange } from "@akasha/changes/change-answer/types"
 import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
   applying,
