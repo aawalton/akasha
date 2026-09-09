@@ -73,6 +73,10 @@ export const pageMatchesItsType = {
         "Where a page type sits is read from the index as the change leaves that page type.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page type the index does not name is passed over rather than throwing.",
+    },
+    {
       invariantKind: "gap",
       statement: "A change with an entry file alone is an input to this check.",
     },

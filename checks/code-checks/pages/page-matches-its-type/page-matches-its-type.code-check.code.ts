@@ -16,9 +16,9 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { refusalText } from "../../../modules/refusal-text/refusal-text.module.code.ts"
 import {
   entryReasonsIn,
-  FORMAT,
   fieldsFor,
   fieldsOf,
+  formatOf,
   offFormat,
   overLength,
   type Shaping,
@@ -43,9 +43,6 @@ function entriesAt(held: Value, key: string): readonly Value[] {
   return kept
 }
 
-// THE WORDS COME FROM THE REFUSAL'S OWN PAGE. A page stating a key its page type works out carries
-// a second answer, and the worked answer replaces it wherever the page is worked out, so the
-// stated one is read by whatever reads the file and by nothing else.
 export function computedKey(key: string, on: string): string {
   return refusalText("page-key-computed", { key, on })
 }
@@ -108,7 +105,7 @@ export function reasonsIn(
     const page = pageFor(one)
     if (page === null) continue
     const max = one.maxLength ?? numberAt(page, "maxLength")
-    const format = textAt(page, FORMAT)
+    const format = formatOf(page)
     for (const each of listed ? held : [held]) {
       const why = overLength(each, max, slug, "")
       if (why !== null) said.push(why)
@@ -149,11 +146,6 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carriedBy = (pageTypeSlug: string): readonly Carried[] => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
-    // The page names its own type, so this asks about a page type it did not pick and the index
-    // may not name — which is the whole shape of the fault this check exists to catch. It takes
-    // the tolerant reading and passes over what cannot be read, because a check that throws is a
-    // check that does not run, and an index missing a page type is the index's fault rather than
-    // this page's.
     const said = shadow.index.propertiesIfNamed(pageTypeSlug) ?? []
     held.set(pageTypeSlug, said)
     return said

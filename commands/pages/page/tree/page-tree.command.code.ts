@@ -119,7 +119,7 @@ function baseOf(kind: string): string {
 
 function typeOf(one: Held, said: Declaration): string {
   const target = slugAt(one.value, "targetPageTypeSlug")
-  const format = slugAt(one.value, "nameFormatSlug")
+  const format = slugAt(one.value, "nameFormat") ?? slugAt(one.value, "nameFormatSlug")
   const inner =
     target !== null
       ? `${baseOf(one.kind)}(${target})`

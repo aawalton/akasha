@@ -5,7 +5,13 @@ import type { Carried } from "@akasha/pages/page-type-properties"
 import { numberAt, textAt, type Value } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 
-export const FORMAT = "nameFormatSlug"
+const FORMAT = "nameFormat"
+
+const FORMAT_WAS = "nameFormatSlug"
+
+export function formatOf(page: Value): string | null {
+  return textAt(page, FORMAT) ?? textAt(page, FORMAT_WAS)
+}
 
 const ID = "id"
 
@@ -78,7 +84,7 @@ export function fieldsOf(
     const fieldPage = pageFor(shaped)
     const stood = fieldPage === null ? null : numberAt(fieldPage, "maxLength")
     const max = shaped.maxLength ?? stood
-    const format = fieldPage === null ? null : textAt(fieldPage, FORMAT)
+    const format = fieldPage === null ? null : formatOf(fieldPage)
     const many = Array.isArray(stated)
     if (shaped.many && many && shaped.maxCount !== null && stated.length > shaped.maxCount) {
       said.push(
