@@ -40,6 +40,15 @@ export const changeProsePattern = {
       statement: "One passage refused refuses the whole, so a batch lands together or not at all.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The act reached names `relation-reaches-a-page`, so every relation on a page written is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal may name a relation no passage in the batch touched.",
+    },
+    {
       invariantKind: "constraint",
       statement: "The parser reads a model no commit has, so this runs only where that model is.",
     },
