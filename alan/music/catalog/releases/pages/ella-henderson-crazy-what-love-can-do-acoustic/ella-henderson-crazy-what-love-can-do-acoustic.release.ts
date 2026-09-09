@@ -5,7 +5,7 @@ export const ellaHendersonCrazyWhatLoveCanDoAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-crazy-what-love-can-do-acoustic",
   title: "Crazy What Love Can Do (Acoustic)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.973333,
   ownProgress: 5.973333,

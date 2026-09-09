@@ -5,7 +5,7 @@ export const clairoAfterMidnightFeatClairo = {
   pageTypeSlug: "release",
   slug: "clairo-after-midnight-feat-clairo",
   title: "After Midnight (feat. Clairo)",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 3.133333,
   ownProgress: 0,

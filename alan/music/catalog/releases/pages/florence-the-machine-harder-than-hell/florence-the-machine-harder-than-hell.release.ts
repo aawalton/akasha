@@ -5,7 +5,7 @@ export const florenceTheMachineHarderThanHell = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-harder-than-hell",
   title: "Harder Than Hell",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 40.6074,
   ownProgress: 40.6074,

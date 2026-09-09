@@ -5,7 +5,7 @@ export const elvisPresley2HisHandInMineWithTheJordanaires = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-his-hand-in-mine-with-the-jordanaires",
   title: "His Hand in Mine (With the Jordanaires)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.768533,
   ownProgress: 27.768533,

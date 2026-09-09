@@ -5,7 +5,7 @@ export const elvisPresley2ElvisGoldenRecordsVol1 = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-golden-records-vol-1",
   title: "Elvis' Golden Records (Vol. 1)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 33.87775,
   ownProgress: 33.87775,

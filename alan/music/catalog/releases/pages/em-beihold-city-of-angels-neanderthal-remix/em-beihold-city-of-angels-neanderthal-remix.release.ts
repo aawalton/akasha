@@ -5,7 +5,7 @@ export const emBeiholdCityOfAngelsNeanderthalRemix = {
   pageTypeSlug: "release",
   slug: "em-beihold-city-of-angels-neanderthal-remix",
   title: "City of Angels (Neanderthal Remix)",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.5,
   ownProgress: 3.5,

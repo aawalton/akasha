@@ -5,7 +5,7 @@ export const ellaHendersonDreamOnMe = {
   pageTypeSlug: "release",
   slug: "ella-henderson-dream-on-me",
   title: "Dream On Me",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.037933,
   ownProgress: 3.037933,

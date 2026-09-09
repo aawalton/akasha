@@ -5,7 +5,7 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-just-a-girl-from-the-original-series-yellowjackets",
   title: "Just A Girl (From The Original Series “Yellowjackets”)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 4.580483,
   ownProgress: 4.580483,

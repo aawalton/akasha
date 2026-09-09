@@ -5,7 +5,7 @@ export const coldplayLeftrightleftrightleftLive = {
   pageTypeSlug: "release",
   slug: "coldplay-leftrightleftrightleft-live",
   title: "LeftRightLeftRightLeft (Live)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 39.9124,
   ownProgress: 39.9124,

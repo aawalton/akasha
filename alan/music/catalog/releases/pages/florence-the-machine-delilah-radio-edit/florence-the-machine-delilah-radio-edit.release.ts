@@ -5,7 +5,7 @@ export const florenceTheMachineDelilahRadioEdit = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-delilah-radio-edit",
   title: "Delilah (Radio Edit)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 3.623433,
   ownProgress: 3.623433,

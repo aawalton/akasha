@@ -5,7 +5,7 @@ export const elvisPresley2BlueHawaiiOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-blue-hawaii-original-soundtrack",
   title: "Blue Hawaii (Original Soundtrack)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 31.307283,
   ownProgress: 31.307283,

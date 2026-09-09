@@ -5,7 +5,7 @@ export const florenceTheMachineLightOfLove = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-light-of-love",
   title: "Light Of Love",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 4.012,
   ownProgress: 4.012,

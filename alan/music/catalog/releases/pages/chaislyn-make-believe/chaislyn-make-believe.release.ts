@@ -5,7 +5,7 @@ export const chaislynMakeBelieve = {
   pageTypeSlug: "release",
   slug: "chaislyn-make-believe",
   title: "Make Believe",
-  partOfCollectionSlugs: ["chaislyn"],
+  partOfCollections: ["chaislyn"],
   position: 0,
   ownLength: 3.136667,
   ownProgress: 3.136667,

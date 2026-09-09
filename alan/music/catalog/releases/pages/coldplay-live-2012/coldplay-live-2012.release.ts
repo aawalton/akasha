@@ -5,7 +5,7 @@ export const coldplayLive2012 = {
   pageTypeSlug: "release",
   slug: "coldplay-live-2012",
   title: "Live 2012",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 66.7209,
   ownProgress: 66.7209,

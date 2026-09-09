@@ -5,7 +5,7 @@ export const coldplayMidnightKygoRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-midnight-kygo-remix",
   title: "Midnight (Kygo Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 5.27245,
   ownProgress: 5.27245,

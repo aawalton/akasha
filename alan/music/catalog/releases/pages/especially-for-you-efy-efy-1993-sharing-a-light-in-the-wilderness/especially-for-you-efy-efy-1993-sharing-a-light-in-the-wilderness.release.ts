@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy1993SharingALightInTheWilderness = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-1993-sharing-a-light-in-the-wilderness",
   title: "Efy 1993: Sharing a Light in the Wilderness",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 1993,
   ownLength: 47.245483,
   ownProgress: 47.245483,

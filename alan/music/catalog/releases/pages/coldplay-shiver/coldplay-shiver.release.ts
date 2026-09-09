@@ -5,7 +5,7 @@ export const coldplayShiver = {
   pageTypeSlug: "release",
   slug: "coldplay-shiver",
   title: "Shiver",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 15.5522,
   ownProgress: 15.5522,

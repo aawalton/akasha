@@ -5,7 +5,7 @@ export const coldplayAHeadFullOfDreams = {
   pageTypeSlug: "release",
   slug: "coldplay-a-head-full-of-dreams",
   title: "A Head Full of Dreams",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 45.83925,
   ownProgress: 45.83925,

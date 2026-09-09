@@ -5,7 +5,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollection = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection",
   title: "The Greatest Journey - Essential Collection",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 64.952017,
   ownProgress: 64.952017,

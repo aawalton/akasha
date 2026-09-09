@@ -5,7 +5,7 @@ export const emeiThatGirl = {
   pageTypeSlug: "release",
   slug: "emei-that-girl",
   title: "That Girl",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.340433,
   ownProgress: 2.340433,

@@ -5,7 +5,7 @@ export const celticWoman2YouRaiseMeUp20thAnniversary = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-you-raise-me-up-20th-anniversary",
   title: "You Raise Me Up (20th Anniversary)",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 4.266667,
   ownProgress: 4.266667,

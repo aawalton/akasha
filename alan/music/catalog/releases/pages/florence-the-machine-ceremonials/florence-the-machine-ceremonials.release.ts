@@ -5,7 +5,7 @@ export const florenceTheMachineCeremonials = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-ceremonials",
   title: "Ceremonials",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 72.288117,
   ownProgress: 72.288117,

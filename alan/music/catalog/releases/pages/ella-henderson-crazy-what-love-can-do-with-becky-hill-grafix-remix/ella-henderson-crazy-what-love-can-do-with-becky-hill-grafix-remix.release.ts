@@ -5,7 +5,7 @@ export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-crazy-what-love-can-do-with-becky-hill-grafix-remix",
   title: "Crazy What Love Can Do (with Becky Hill) [Grafix Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 9.197417,
   ownProgress: 9.197417,

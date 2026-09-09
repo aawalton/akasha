@@ -5,7 +5,7 @@ export const coldplayLiveFromSpotifyLondon = {
   pageTypeSlug: "release",
   slug: "coldplay-live-from-spotify-london",
   title: "Live from Spotify London",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 21.157983,
   ownProgress: 21.157983,

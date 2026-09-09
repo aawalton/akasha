@@ -5,7 +5,7 @@ export const elvisPresley2Elvis301Hits = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-30-1-hits",
   title: "Elvis 30 #1 Hits",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 78.291817,
   ownProgress: 78.291817,

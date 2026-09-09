@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunWithAlokLucaSchreinerRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-under-the-sun-with-alok-luca-schreiner-remix",
   title: "Under The Sun (with Alok) [Luca Schreiner Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.878783,
   ownProgress: 0,

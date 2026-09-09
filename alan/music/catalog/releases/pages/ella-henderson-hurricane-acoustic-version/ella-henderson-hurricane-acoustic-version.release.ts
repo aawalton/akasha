@@ -5,7 +5,7 @@ export const ellaHendersonHurricaneAcousticVersion = {
   pageTypeSlug: "release",
   slug: "ella-henderson-hurricane-acoustic-version",
   title: "Hurricane (Acoustic Version)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.30035,
   ownProgress: 5.30035,

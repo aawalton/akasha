@@ -5,7 +5,7 @@ export const elvisPresley2Live1969 = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-live-1969",
   title: "Live 1969",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 797.487,
   ownProgress: 797.487,

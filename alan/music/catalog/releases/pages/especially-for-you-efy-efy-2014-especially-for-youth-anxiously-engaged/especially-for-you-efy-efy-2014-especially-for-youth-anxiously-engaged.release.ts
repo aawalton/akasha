@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2014EspeciallyForYouthAnxiouslyEngaged = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2014-especially-for-youth-anxiously-engaged",
   title: "Efy 2014 Especially for Youth - Anxiously Engaged",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2014,
   ownLength: 43.996383,
   ownProgress: 43.996383,

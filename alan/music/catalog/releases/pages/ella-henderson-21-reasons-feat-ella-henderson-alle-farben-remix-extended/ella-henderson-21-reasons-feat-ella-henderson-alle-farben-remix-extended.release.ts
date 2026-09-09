@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemixExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-alle-farben-remix-extended",
   title: "21 Reasons (feat. Ella Henderson) [Alle Farben Remix] [Extended]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.8514,
   ownProgress: 3.8514,

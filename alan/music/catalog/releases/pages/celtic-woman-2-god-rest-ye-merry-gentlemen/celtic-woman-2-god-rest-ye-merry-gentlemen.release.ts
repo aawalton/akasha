@@ -5,7 +5,7 @@ export const celticWoman2GodRestYeMerryGentlemen = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-god-rest-ye-merry-gentlemen",
   title: "God Rest Ye Merry Gentlemen",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 2.490533,
   ownProgress: 2.490533,

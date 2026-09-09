@@ -5,7 +5,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriends = {
   pageTypeSlug: "release",
   slug: "coldplay-viva-la-vida-or-death-and-all-his-friends",
   title: "Viva La Vida or Death and All His Friends",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 45.917717,
   ownProgress: 45.917717,

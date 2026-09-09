@@ -5,7 +5,7 @@ export const elvisPresley2TheEssentialElvisPresley = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-the-essential-elvis-presley",
   title: "The Essential Elvis Presley",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 111.587317,
   ownProgress: 111.587317,

@@ -5,7 +5,7 @@ export const elvisPresley2ElvisSingsLeiberAndStoller = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-sings-leiber-and-stoller",
   title: "Elvis Sings Leiber and Stoller",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 53.563417,
   ownProgress: 53.563417,

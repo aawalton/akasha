@@ -5,7 +5,7 @@ export const elvisPresley2Speedway = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-speedway",
   title: "Speedway",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.922833,
   ownProgress: 27.922833,

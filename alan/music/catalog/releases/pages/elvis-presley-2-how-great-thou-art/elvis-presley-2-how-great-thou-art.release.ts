@@ -5,7 +5,7 @@ export const elvisPresley2HowGreatThouArt = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-how-great-thou-art",
   title: "How Great Thou Art",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 39.500583,
   ownProgress: 39.500583,

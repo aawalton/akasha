@@ -5,7 +5,7 @@ export const enyaStormsInAfricaPtIi2009Remaster = {
   pageTypeSlug: "release",
   slug: "enya-storms-in-africa-pt-ii-2009-remaster",
   title: "Storms in Africa (Pt. II) [2009 Remaster]",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 6.842217,
   ownProgress: 6.842217,

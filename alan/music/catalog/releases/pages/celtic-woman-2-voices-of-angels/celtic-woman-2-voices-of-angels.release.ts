@@ -5,7 +5,7 @@ export const celticWoman2VoicesOfAngels = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-voices-of-angels",
   title: "Voices Of Angels",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 64.94015,
   ownProgress: 64.94015,

@@ -5,7 +5,7 @@ export const emBeiholdNobodyElse = {
   pageTypeSlug: "release",
   slug: "em-beihold-nobody-else",
   title: "Nobody Else",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.22885,
   ownProgress: 3.22885,

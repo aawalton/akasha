@@ -5,7 +5,7 @@ export const ellaHendersonFilthyRichJayDixieRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-filthy-rich-jay-dixie-remix",
   title: "Filthy Rich (Jay Dixie Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.296817,
   ownProgress: 0,

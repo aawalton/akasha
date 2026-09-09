@@ -5,7 +5,7 @@ export const coldplayOvertura = {
   pageTypeSlug: "release",
   slug: "coldplay-overtura",
   title: "Overtura",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 1.8802,
   ownProgress: 1.8802,

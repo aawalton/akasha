@@ -5,7 +5,7 @@ export const coldplayGodPutASmileUponYourFace = {
   pageTypeSlug: "release",
   slug: "coldplay-god-put-a-smile-upon-your-face",
   title: "God Put a Smile upon Your Face",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 10.536417,
   ownProgress: 10.536417,

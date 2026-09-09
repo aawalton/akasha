@@ -5,7 +5,7 @@ export const florenceTheMachineUnderHeavenOverHell = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-under-heaven-over-hell",
   title: "Under Heaven Over Hell",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 164.376017,
   ownProgress: 164.376017,

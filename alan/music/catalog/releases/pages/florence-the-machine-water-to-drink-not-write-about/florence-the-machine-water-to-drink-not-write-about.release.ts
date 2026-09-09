@@ -5,7 +5,7 @@ export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-water-to-drink-not-write-about",
   title: "Water To Drink Not Write About",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 45.92345,
   ownProgress: 45.92345,

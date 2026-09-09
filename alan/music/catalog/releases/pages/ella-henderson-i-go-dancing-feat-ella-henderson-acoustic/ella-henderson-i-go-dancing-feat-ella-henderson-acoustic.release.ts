@@ -5,7 +5,7 @@ export const ellaHendersonIGoDancingFeatEllaHendersonAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-i-go-dancing-feat-ella-henderson-acoustic",
   title: "I Go Dancing (feat. Ella Henderson) [Acoustic]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.778033,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const florenceTheMachineSpectrumSayMyNameEp = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-spectrum-say-my-name-ep",
   title: "Spectrum (Say My Name) EP",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 19.572517,
   ownProgress: 19.572517,

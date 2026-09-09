@@ -5,7 +5,7 @@ export const coldplayXY = {
   pageTypeSlug: "release",
   slug: "coldplay-x-y",
   title: "X&Y",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 62.085583,
   ownProgress: 62.085583,

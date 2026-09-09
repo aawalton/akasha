@@ -5,7 +5,7 @@ export const coldplayUpUpFreedoRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-up-up-freedo-remix",
   title: "Up&Up (Freedo Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.5049,
   ownProgress: 3.5049,

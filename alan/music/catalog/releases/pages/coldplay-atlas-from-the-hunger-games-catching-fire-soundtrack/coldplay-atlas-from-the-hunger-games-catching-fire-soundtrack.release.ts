@@ -5,7 +5,7 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrack = {
   pageTypeSlug: "release",
   slug: "coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack",
   title: "Atlas (From “The Hunger Games: Catching Fire” Soundtrack)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.934883,
   ownProgress: 3.934883,

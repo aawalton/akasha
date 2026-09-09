@@ -5,7 +5,7 @@ export const ellaHendersonBraveLucaSchreinerRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-brave-luca-schreiner-remix",
   title: "Brave (Luca Schreiner Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 10.054317,
   ownProgress: 10.054317,

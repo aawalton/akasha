@@ -5,7 +5,7 @@ export const emeiBetterPeopleToLeaveOnRead = {
   pageTypeSlug: "release",
   slug: "emei-better-people-to-leave-on-read",
   title: "Better People To Leave On Read",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.189067,
   ownProgress: 2.189067,

@@ -5,7 +5,7 @@ export const florenceTheMachineHeavenIsHere = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-heaven-is-here",
   title: "Heaven Is Here",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 1.854717,
   ownProgress: 1.854717,

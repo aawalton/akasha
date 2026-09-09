@@ -5,7 +5,7 @@ export const florenceTheMachineYouVeGotTheLoveJamieXxRework = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-you-ve-got-the-love-jamie-xx-rework",
   title: "You've Got The Love (Jamie xx Rework)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 5.7165,
   ownProgress: 5.7165,

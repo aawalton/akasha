@@ -5,7 +5,7 @@ export const ellaHenderson0800HeavenJoelCorryVipMixExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-0800-heaven-joel-corry-vip-mix-extended",
   title: "0800 HEAVEN (Joel Corry VIP Mix) [Extended]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.9357,
   ownProgress: 0,

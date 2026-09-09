@@ -5,7 +5,7 @@ export const elvisPresley2ElvisCountry = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-country",
   title: "Elvis Country",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 38.945967,
   ownProgress: 38.945967,

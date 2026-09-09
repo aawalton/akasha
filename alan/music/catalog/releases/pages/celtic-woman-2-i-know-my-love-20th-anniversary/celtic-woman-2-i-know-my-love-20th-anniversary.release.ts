@@ -5,7 +5,7 @@ export const celticWoman2IKnowMyLove20thAnniversary = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-i-know-my-love-20th-anniversary",
   title: "I Know My Love (20th Anniversary)",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 3.500667,
   ownProgress: 3.500667,

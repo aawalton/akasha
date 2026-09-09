@@ -5,7 +5,7 @@ export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-peace-in-the-valley-the-complete-gospel-recordings",
   title: "Peace In The Valley - The Complete Gospel Recordings",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 219.44795,
   ownProgress: 219.44795,

@@ -5,7 +5,7 @@ export const ellaHendersonRiskItAll = {
   pageTypeSlug: "release",
   slug: "ella-henderson-risk-it-all",
   title: "Risk It All",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.967733,
   ownProgress: 2.967733,

@@ -5,7 +5,7 @@ export const elvisPresley2ElvisIsBack = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-is-back",
   title: "Elvis Is Back",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 31.7788,
   ownProgress: 31.7788,

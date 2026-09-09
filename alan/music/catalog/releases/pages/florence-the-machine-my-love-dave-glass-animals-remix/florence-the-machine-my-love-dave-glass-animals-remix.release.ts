@@ -5,7 +5,7 @@ export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-my-love-dave-glass-animals-remix",
   title: "My Love (Dave Glass Animals Remix)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 3.512617,
   ownProgress: 3.512617,

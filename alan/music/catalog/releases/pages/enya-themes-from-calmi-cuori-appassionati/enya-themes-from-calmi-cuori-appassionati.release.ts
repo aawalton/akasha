@@ -5,7 +5,7 @@ export const enyaThemesFromCalmiCuoriAppassionati = {
   pageTypeSlug: "release",
   slug: "enya-themes-from-calmi-cuori-appassionati",
   title: 'Themes From "Calmi Cuori Appassionati"',
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 49.238967,
   ownProgress: 49.238967,

@@ -5,7 +5,7 @@ export const emeiRegrets = {
   pageTypeSlug: "release",
   slug: "emei-regrets",
   title: "Regrets",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.03755,
   ownProgress: 2.03755,

@@ -5,7 +5,7 @@ export const ellaHendersonBrave = {
   pageTypeSlug: "release",
   slug: "ella-henderson-brave",
   title: "Brave",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.350883,
   ownProgress: 3.350883,

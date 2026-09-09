@@ -5,7 +5,7 @@ export const elvisPresley2ForLpFansOnly = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-for-lp-fans-only",
   title: "For LP Fans Only",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 28.080817,
   ownProgress: 28.080817,

@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy1999ASeasonForCourage = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-1999-a-season-for-courage",
   title: "Efy 1999 - A Season for Courage",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 1999,
   ownLength: 46.270383,
   ownProgress: 46.270383,

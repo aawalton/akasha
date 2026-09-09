@@ -5,7 +5,7 @@ export const coldplayTheBlueRoom = {
   pageTypeSlug: "release",
   slug: "coldplay-the-blue-room",
   title: "The Blue Room",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 19.552183,
   ownProgress: 19.552183,

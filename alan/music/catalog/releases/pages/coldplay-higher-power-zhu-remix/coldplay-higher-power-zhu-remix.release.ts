@@ -5,7 +5,7 @@ export const coldplayHigherPowerZhuRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-higher-power-zhu-remix",
   title: "Higher Power (ZHU Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 4.768217,
   ownProgress: 4.768217,

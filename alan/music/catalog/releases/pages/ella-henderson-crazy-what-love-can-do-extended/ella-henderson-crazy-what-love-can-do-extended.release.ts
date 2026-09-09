@@ -5,7 +5,7 @@ export const ellaHendersonCrazyWhatLoveCanDoExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-crazy-what-love-can-do-extended",
   title: "Crazy What Love Can Do (Extended)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 4.430883,
   ownProgress: 4.430883,

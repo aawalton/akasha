@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2001RememberThePromise = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2001-remember-the-promise",
   title: "Efy 2001 - Remember the Promise",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2001,
   ownLength: 37.8704,
   ownProgress: 37.8704,

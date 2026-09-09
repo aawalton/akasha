@@ -5,7 +5,7 @@ export const ellaHendersonWeGotLoveHugelRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-we-got-love-hugel-remix",
   title: "We Got Love (HUGEL Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.920633,
   ownProgress: 2.920633,

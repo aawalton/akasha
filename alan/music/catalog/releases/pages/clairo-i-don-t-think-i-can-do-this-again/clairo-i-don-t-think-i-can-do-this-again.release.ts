@@ -5,7 +5,7 @@ export const clairoIDonTThinkICanDoThisAgain = {
   pageTypeSlug: "release",
   slug: "clairo-i-don-t-think-i-can-do-this-again",
   title: "I Don’t Think I Can Do This Again",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 3.699767,
   ownProgress: 0,

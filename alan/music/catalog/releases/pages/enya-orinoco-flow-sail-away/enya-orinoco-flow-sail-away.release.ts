@@ -5,7 +5,7 @@ export const enyaOrinocoFlowSailAway = {
   pageTypeSlug: "release",
   slug: "enya-orinoco-flow-sail-away",
   title: "Orinoco Flow (Sail Away)",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 3.764,
   ownProgress: 3.764,

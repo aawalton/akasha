@@ -5,7 +5,7 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1Session =
   pageTypeSlug: "release",
   slug: "coldplay-have-yourself-a-merry-little-christmas-jo-whiley-bbc-radio-1-session",
   title: "Have Yourself a Merry Little Christmas (Jo Whiley, BBC Radio 1 Session)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 2.320133,
   ownProgress: 2.320133,

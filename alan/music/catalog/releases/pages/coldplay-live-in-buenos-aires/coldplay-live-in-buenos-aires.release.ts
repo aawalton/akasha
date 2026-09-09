@@ -5,7 +5,7 @@ export const coldplayLiveInBuenosAires = {
   pageTypeSlug: "release",
   slug: "coldplay-live-in-buenos-aires",
   title: "Live in Buenos Aires",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 114.45455,
   ownProgress: 114.45455,

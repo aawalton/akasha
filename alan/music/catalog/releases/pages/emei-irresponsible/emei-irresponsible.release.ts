@@ -5,7 +5,7 @@ export const emeiIrresponsible = {
   pageTypeSlug: "release",
   slug: "emei-irresponsible",
   title: "Irresponsible",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.079183,
   ownProgress: 2.079183,

@@ -5,7 +5,7 @@ export const elvisPresley2BlueHawaii = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-blue-hawaii",
   title: "Blue Hawaii",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 32.14415,
   ownProgress: 32.14415,

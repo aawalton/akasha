@@ -5,7 +5,7 @@ export const florenceTheMachineHighAsHope = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-high-as-hope",
   title: "High As Hope",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 40.039083,
   ownProgress: 40.039083,

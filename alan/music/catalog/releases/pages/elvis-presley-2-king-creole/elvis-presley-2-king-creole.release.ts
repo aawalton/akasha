@@ -5,7 +5,7 @@ export const elvisPresley2KingCreole = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-king-creole",
   title: "King Creole",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 23.4695,
   ownProgress: 23.4695,

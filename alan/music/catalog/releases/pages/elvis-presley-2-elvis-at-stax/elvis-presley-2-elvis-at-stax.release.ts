@@ -5,7 +5,7 @@ export const elvisPresley2ElvisAtStax = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-at-stax",
   title: "Elvis At Stax",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 172.927233,
   ownProgress: 172.927233,

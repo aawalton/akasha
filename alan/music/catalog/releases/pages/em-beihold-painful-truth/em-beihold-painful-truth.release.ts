@@ -5,7 +5,7 @@ export const emBeiholdPainfulTruth = {
   pageTypeSlug: "release",
   slug: "em-beihold-painful-truth",
   title: "Painful Truth",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.481117,
   ownProgress: 3.481117,

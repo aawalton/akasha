@@ -5,7 +5,7 @@ export const ellaHendersonTakeCareOfYouWilsonRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-take-care-of-you-wilson-remix",
   title: "Take Care of You (Wilson Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.015867,
   ownProgress: 3.015867,

@@ -5,7 +5,7 @@ export const coldplayLetSomebodyGoKygoRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-let-somebody-go-kygo-remix",
   title: "Let Somebody Go (Kygo Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 10.863517,
   ownProgress: 10.863517,

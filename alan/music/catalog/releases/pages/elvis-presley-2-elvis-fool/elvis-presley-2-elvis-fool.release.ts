@@ -5,7 +5,7 @@ export const elvisPresley2ElvisFool = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-fool",
   title: "Elvis (Fool)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 45.4317,
   ownProgress: 45.4317,

@@ -5,7 +5,7 @@ export const enyaADayWithoutRain = {
   pageTypeSlug: "release",
   slug: "enya-a-day-without-rain",
   title: "A Day Without Rain",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 37.509233,
   ownProgress: 37.509233,

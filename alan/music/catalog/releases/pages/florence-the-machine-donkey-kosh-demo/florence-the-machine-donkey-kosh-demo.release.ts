@@ -5,7 +5,7 @@ export const florenceTheMachineDonkeyKoshDemo = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-donkey-kosh-demo",
   title: "Donkey Kosh (Demo)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 2.943333,
   ownProgress: 2.943333,

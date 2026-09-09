@@ -5,7 +5,7 @@ export const chaislynLittleDidIKnow = {
   pageTypeSlug: "release",
   slug: "chaislyn-little-did-i-know",
   title: "Little Did I Know",
-  partOfCollectionSlugs: ["chaislyn"],
+  partOfCollections: ["chaislyn"],
   position: 0,
   ownLength: 3.76075,
   ownProgress: 3.76075,

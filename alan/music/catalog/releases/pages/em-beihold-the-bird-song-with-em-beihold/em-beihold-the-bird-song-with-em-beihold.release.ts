@@ -5,7 +5,7 @@ export const emBeiholdTheBirdSongWithEmBeihold = {
   pageTypeSlug: "release",
   slug: "em-beihold-the-bird-song-with-em-beihold",
   title: "The Bird Song (with Em Beihold)",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.884783,
   ownProgress: 3.884783,

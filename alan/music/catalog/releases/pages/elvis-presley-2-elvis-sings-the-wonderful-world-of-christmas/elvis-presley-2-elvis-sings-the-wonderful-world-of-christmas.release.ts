@@ -5,7 +5,7 @@ export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-sings-the-wonderful-world-of-christmas",
   title: "Elvis Sings the Wonderful World of Christmas",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 35.225733,
   ownProgress: 35.225733,

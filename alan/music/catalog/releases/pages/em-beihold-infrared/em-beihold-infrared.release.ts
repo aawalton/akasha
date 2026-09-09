@@ -5,7 +5,7 @@ export const emBeiholdInfrared = {
   pageTypeSlug: "release",
   slug: "em-beihold-infrared",
   title: "Infrared",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 19.411017,
   ownProgress: 19.411017,

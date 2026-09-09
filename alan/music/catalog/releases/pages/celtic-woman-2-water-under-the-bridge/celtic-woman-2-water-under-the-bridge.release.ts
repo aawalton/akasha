@@ -5,7 +5,7 @@ export const celticWoman2WaterUnderTheBridge = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-water-under-the-bridge",
   title: "Water Under the Bridge",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 3.733333,
   ownProgress: 3.733333,

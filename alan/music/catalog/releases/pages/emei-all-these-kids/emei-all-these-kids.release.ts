@@ -5,7 +5,7 @@ export const emeiAllTheseKids = {
   pageTypeSlug: "release",
   slug: "emei-all-these-kids",
   title: "ALL THESE KIDS",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 4.3089,
   ownProgress: 4.3089,

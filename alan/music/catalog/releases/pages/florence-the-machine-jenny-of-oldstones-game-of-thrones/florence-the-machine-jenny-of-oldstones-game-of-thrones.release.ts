@@ -5,7 +5,7 @@ export const florenceTheMachineJennyOfOldstonesGameOfThrones = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-jenny-of-oldstones-game-of-thrones",
   title: "Jenny of Oldstones (Game of Thrones)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 3.143967,
   ownProgress: 3.143967,

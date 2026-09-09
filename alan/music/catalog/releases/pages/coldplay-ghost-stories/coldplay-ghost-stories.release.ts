@@ -5,7 +5,7 @@ export const coldplayGhostStories = {
   pageTypeSlug: "release",
   slug: "coldplay-ghost-stories",
   title: "Ghost Stories",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 40.301967,
   ownProgress: 40.301967,

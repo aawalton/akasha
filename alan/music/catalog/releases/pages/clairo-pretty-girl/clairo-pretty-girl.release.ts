@@ -5,7 +5,7 @@ export const clairoPrettyGirl = {
   pageTypeSlug: "release",
   slug: "clairo-pretty-girl",
   title: "Pretty Girl",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 2.972533,
   ownProgress: 2.972533,

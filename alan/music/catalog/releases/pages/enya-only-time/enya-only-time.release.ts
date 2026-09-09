@@ -5,7 +5,7 @@ export const enyaOnlyTime = {
   pageTypeSlug: "release",
   slug: "enya-only-time",
   title: "Only Time",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 3.628,
   ownProgress: 3.628,

@@ -5,7 +5,7 @@ export const ellaHendersonIGoDancingFeatEllaHendersonJoelCorryRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-i-go-dancing-feat-ella-henderson-joel-corry-remix",
   title: "I Go Dancing (feat. Ella Henderson) [Joel Corry Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.715667,
   ownProgress: 0,

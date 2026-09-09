@@ -5,7 +5,7 @@ export const emBeiholdFantasyWithGayleEmBeihold = {
   pageTypeSlug: "release",
   slug: "em-beihold-fantasy-with-gayle-em-beihold",
   title: "Fantasy (with GAYLE & Em Beihold)",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 2.918167,
   ownProgress: 2.918167,

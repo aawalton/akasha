@@ -5,7 +5,7 @@ export const ellaHendersonRestOfOurDaysSuperFestiveVersion = {
   pageTypeSlug: "release",
   slug: "ella-henderson-rest-of-our-days-super-festive-version",
   title: "Rest Of Our Days (Super Festive Version)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 6.325783,
   ownProgress: 0,

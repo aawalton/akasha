@@ -5,7 +5,7 @@ export const florenceTheMachineSayMyNameExtendedRemix = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-say-my-name-extended-remix",
   title: "Say My Name (Extended Remix)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 7.371417,
   ownProgress: 7.371417,

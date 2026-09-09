@@ -5,7 +5,7 @@ export const elvisPresley2LoveLettersFromElvis = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-love-letters-from-elvis",
   title: "Love Letters from Elvis",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 40.41415,
   ownProgress: 40.41415,

@@ -5,7 +5,7 @@ export const epicTheMusicalEpicTheWisdomSagaOfficialConceptAlbum = {
   pageTypeSlug: "release",
   slug: "epic-the-musical-epic-the-wisdom-saga-official-concept-album",
   title: "EPIC: The Wisdom Saga (Official Concept Album)",
-  partOfCollectionSlugs: ["epic-the-musical"],
+  partOfCollections: ["epic-the-musical"],
   position: 0,
   ownLength: 18.06675,
   ownProgress: 18.06675,

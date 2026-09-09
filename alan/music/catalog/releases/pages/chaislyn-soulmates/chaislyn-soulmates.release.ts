@@ -5,7 +5,7 @@ export const chaislynSoulmates = {
   pageTypeSlug: "release",
   slug: "chaislyn-soulmates",
   title: "Soulmates",
-  partOfCollectionSlugs: ["chaislyn"],
+  partOfCollections: ["chaislyn"],
   position: 0,
   ownLength: 4.518933,
   ownProgress: 4.518933,

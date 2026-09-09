@@ -5,7 +5,7 @@ export const elvisPresley2FromElvisInMemphis = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-from-elvis-in-memphis",
   title: "From Elvis in Memphis",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 49.949017,
   ownProgress: 49.949017,

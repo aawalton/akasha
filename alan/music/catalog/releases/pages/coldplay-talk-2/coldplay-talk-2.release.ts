@@ -5,7 +5,7 @@ export const coldplayTalk2 = {
   pageTypeSlug: "release",
   slug: "coldplay-talk-2",
   title: "Talk",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 13.964867,
   ownProgress: 13.964867,

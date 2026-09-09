@@ -5,7 +5,7 @@ export const coldplayTrueLoveDavideRossiRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-true-love-davide-rossi-remix",
   title: "True Love (Davide Rossi Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 4.695833,
   ownProgress: 4.695833,

@@ -5,7 +5,7 @@ export const ejaeTimeAfterTime = {
   pageTypeSlug: "release",
   slug: "ejae-time-after-time",
   title: "Time After Time",
-  partOfCollectionSlugs: ["ejae"],
+  partOfCollections: ["ejae"],
   position: 0,
   ownLength: 2.804967,
   ownProgress: 0,

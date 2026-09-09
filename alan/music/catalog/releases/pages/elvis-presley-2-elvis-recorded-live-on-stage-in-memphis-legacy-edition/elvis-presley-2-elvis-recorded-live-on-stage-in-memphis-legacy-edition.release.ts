@@ -5,7 +5,7 @@ export const elvisPresley2ElvisRecordedLiveOnStageInMemphisLegacyEdition = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-recorded-live-on-stage-in-memphis-legacy-edition",
   title: "Elvis Recorded Live on Stage in Memphis (Legacy Edition)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 143.630383,
   ownProgress: 143.630383,

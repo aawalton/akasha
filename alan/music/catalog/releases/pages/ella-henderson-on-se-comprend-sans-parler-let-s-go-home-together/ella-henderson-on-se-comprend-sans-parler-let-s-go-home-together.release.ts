@@ -5,7 +5,7 @@ export const ellaHendersonOnSeComprendSansParlerLetSGoHomeTogether = {
   pageTypeSlug: "release",
   slug: "ella-henderson-on-se-comprend-sans-parler-let-s-go-home-together",
   title: "On se comprend sans parler (Let's Go Home Together)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.525633,
   ownProgress: 3.525633,

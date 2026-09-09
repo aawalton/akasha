@@ -5,7 +5,7 @@ export const emeiSunnyd = {
   pageTypeSlug: "release",
   slug: "emei-sunnyd",
   title: "SUNNYD",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.111233,
   ownProgress: 2.111233,

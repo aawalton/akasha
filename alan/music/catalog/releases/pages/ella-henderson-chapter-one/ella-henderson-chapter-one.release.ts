@@ -5,7 +5,7 @@ export const ellaHendersonChapterOne = {
   pageTypeSlug: "release",
   slug: "ella-henderson-chapter-one",
   title: "Chapter One",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 40.671583,
   ownProgress: 40.671583,

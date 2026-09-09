@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigExtendedRemix
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-charlie-hedges-eddie-craig-extended-remix",
   title: "Let’s Go Home Together (Charlie Hedges & Eddie Craig Extended Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.589733,
   ownProgress: 5.589733,

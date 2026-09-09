@@ -5,7 +5,7 @@ export const coldplayMusicOfTheSpheres = {
   pageTypeSlug: "release",
   slug: "coldplay-music-of-the-spheres",
   title: "Music Of The Spheres",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 41.843433,
   ownProgress: 41.843433,

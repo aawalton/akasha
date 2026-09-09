@@ -5,7 +5,7 @@ export const clairoGetWithU = {
   pageTypeSlug: "release",
   slug: "clairo-get-with-u",
   title: "Get With U",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 1.981383,
   ownProgress: 1.981383,

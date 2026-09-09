@@ -5,7 +5,7 @@ export const elvisPresley2Spinout = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-spinout",
   title: "Spinout",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 29.287933,
   ownProgress: 29.287933,

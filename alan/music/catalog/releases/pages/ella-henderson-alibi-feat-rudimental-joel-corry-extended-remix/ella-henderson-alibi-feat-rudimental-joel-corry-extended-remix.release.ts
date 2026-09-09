@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimentalJoelCorryExtendedRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-feat-rudimental-joel-corry-extended-remix",
   title: "Alibi (feat. Rudimental) [Joel Corry Extended Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 4.11075,
   ownProgress: 0,

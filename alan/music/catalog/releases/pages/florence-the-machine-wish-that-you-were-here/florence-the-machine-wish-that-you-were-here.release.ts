@@ -6,7 +6,7 @@ export const florenceTheMachineWishThatYouWereHere = {
   slug: "florence-the-machine-wish-that-you-were-here",
   title:
     "Wish That You Were Here (From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 6.713283,
   ownProgress: 6.713283,

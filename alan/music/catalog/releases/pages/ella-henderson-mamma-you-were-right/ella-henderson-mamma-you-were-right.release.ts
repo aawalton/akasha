@@ -5,7 +5,7 @@ export const ellaHendersonMammaYouWereRight = {
   pageTypeSlug: "release",
   slug: "ella-henderson-mamma-you-were-right",
   title: "Mamma You Were Right",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.797117,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteLive = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-aloha-from-hawaii-via-satellite-live",
   title: "Aloha from Hawaii Via Satellite (Live)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 62.297467,
   ownProgress: 62.297467,

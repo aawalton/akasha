@@ -5,7 +5,7 @@ export const ellaHendersonHeartstringsVipMix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-heartstrings-vip-mix",
   title: "Heartstrings (VIP Mix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 6.955783,
   ownProgress: 0,

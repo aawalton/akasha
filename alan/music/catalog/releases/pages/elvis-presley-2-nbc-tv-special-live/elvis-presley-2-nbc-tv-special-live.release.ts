@@ -5,7 +5,7 @@ export const elvisPresley2NbcTvSpecialLive = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-nbc-tv-special-live",
   title: "NBC-TV Special (Live)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 44.710967,
   ownProgress: 44.710967,

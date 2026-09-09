@@ -5,7 +5,7 @@ export const clairoGlueSongFeatClairo = {
   pageTypeSlug: "release",
   slug: "clairo-glue-song-feat-clairo",
   title: "Glue Song (feat. Clairo)",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 2.2511,
   ownProgress: 0,

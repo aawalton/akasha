@@ -5,7 +5,7 @@ export const elvisPresley2ADateWithElvis = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-a-date-with-elvis",
   title: "A Date With Elvis",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.2766,
   ownProgress: 27.2766,

@@ -5,7 +5,7 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDesk = {
   pageTypeSlug: "release",
   slug: "coldplay-champion-of-the-world-live-at-npr-s-tiny-desk",
   title: "Champion Of The World (Live at NPR's Tiny Desk)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.60555,
   ownProgress: 3.60555,

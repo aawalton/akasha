@@ -5,7 +5,7 @@ export const coldplayHigherPower = {
   pageTypeSlug: "release",
   slug: "coldplay-higher-power",
   title: "Higher Power",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.521567,
   ownProgress: 3.521567,

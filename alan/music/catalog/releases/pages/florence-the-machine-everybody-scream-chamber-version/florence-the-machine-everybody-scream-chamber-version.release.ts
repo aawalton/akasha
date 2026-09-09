@@ -5,7 +5,7 @@ export const florenceTheMachineEverybodyScreamChamberVersion = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-everybody-scream-chamber-version",
   title: "Everybody Scream (Chamber Version)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 64.226867,
   ownProgress: 64.226867,

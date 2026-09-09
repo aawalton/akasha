@@ -5,7 +5,7 @@ export const florenceTheMachineLungsDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-lungs-deluxe-edition",
   title: "Lungs (Deluxe Edition)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 83.573867,
   ownProgress: 83.573867,

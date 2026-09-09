@@ -5,7 +5,7 @@ export const enyaWatermark = {
   pageTypeSlug: "release",
   slug: "enya-watermark",
   title: "Watermark",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 43.10395,
   ownProgress: 43.10395,

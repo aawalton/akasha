@@ -5,7 +5,7 @@ export const coldplayParachutes = {
   pageTypeSlug: "release",
   slug: "coldplay-parachutes",
   title: "Parachutes",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 41.927283,
   ownProgress: 41.927283,

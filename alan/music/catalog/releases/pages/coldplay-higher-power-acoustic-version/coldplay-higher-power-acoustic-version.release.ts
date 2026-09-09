@@ -5,7 +5,7 @@ export const coldplayHigherPowerAcousticVersion = {
   pageTypeSlug: "release",
   slug: "coldplay-higher-power-acoustic-version",
   title: "Higher Power (Acoustic Version)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 7.018467,
   ownProgress: 7.018467,

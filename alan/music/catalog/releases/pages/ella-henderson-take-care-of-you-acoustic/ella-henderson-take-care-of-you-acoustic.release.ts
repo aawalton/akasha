@@ -5,7 +5,7 @@ export const ellaHendersonTakeCareOfYouAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-take-care-of-you-acoustic",
   title: "Take Care of You (Acoustic)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 6.4557,
   ownProgress: 6.4557,

@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimentalLowFiMix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-feat-rudimental-low-fi-mix",
   title: "Alibi (feat. Rudimental) [Low Fi Mix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.639333,
   ownProgress: 0,

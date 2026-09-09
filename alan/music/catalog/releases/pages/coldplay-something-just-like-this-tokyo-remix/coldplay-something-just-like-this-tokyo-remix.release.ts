@@ -5,7 +5,7 @@ export const coldplaySomethingJustLikeThisTokyoRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-something-just-like-this-tokyo-remix",
   title: "Something Just Like This (Tokyo Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 4.549767,
   ownProgress: 4.549767,

@@ -5,7 +5,7 @@ export const coldplayMyUniverseGalantisRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-my-universe-galantis-remix",
   title: "My Universe (Galantis Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.748467,
   ownProgress: 3.748467,

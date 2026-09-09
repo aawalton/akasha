@@ -5,7 +5,7 @@ export const elvisPresley2Clambake = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-clambake",
   title: "Clambake",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 29.593933,
   ownProgress: 29.593933,

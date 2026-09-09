@@ -5,7 +5,7 @@ export const emeiDonTKnowAboutTheWorld = {
   pageTypeSlug: "release",
   slug: "emei-don-t-know-about-the-world",
   title: "Don't Know About The World",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.394933,
   ownProgress: 2.394933,

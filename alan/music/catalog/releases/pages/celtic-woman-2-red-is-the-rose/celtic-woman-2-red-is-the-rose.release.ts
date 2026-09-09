@@ -5,7 +5,7 @@ export const celticWoman2RedIsTheRose = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-red-is-the-rose",
   title: "Red is the Rose",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 3.579167,
   ownProgress: 3.579167,

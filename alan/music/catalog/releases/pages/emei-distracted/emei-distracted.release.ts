@@ -5,7 +5,7 @@ export const emeiDistracted = {
   pageTypeSlug: "release",
   slug: "emei-distracted",
   title: "Distracted",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.68,
   ownProgress: 2.68,

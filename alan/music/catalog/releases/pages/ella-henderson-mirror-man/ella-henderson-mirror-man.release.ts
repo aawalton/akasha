@@ -5,7 +5,7 @@ export const ellaHendersonMirrorMan = {
   pageTypeSlug: "release",
   slug: "ella-henderson-mirror-man",
   title: "Mirror Man",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.708083,
   ownProgress: 3.708083,

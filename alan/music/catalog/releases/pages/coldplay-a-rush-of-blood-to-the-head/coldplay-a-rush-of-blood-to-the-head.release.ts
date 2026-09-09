@@ -5,7 +5,7 @@ export const coldplayARushOfBloodToTheHead = {
   pageTypeSlug: "release",
   slug: "coldplay-a-rush-of-blood-to-the-head",
   title: "A Rush of Blood to the Head",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 54.18595,
   ownProgress: 54.18595,

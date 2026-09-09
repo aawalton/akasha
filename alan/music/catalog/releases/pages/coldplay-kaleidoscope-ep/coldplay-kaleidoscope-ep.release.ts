@@ -5,7 +5,7 @@ export const coldplayKaleidoscopeEp = {
   pageTypeSlug: "release",
   slug: "coldplay-kaleidoscope-ep",
   title: "Kaleidoscope EP",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 24.984617,
   ownProgress: 24.984617,

@@ -5,7 +5,7 @@ export const coldplayProspektSMarch = {
   pageTypeSlug: "release",
   slug: "coldplay-prospekt-s-march",
   title: "Prospekt's March",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 27.4339,
   ownProgress: 27.4339,

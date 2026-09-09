@@ -5,7 +5,7 @@ export const enyaAsBaile2008Remaster = {
   pageTypeSlug: "release",
   slug: "enya-as-baile-2008-remaster",
   title: "As Baile (2008 Remaster)",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 22.011483,
   ownProgress: 22.011483,

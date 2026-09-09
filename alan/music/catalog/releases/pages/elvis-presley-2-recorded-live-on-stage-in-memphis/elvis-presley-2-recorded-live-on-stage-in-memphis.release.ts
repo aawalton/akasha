@@ -5,7 +5,7 @@ export const elvisPresley2RecordedLiveOnStageInMemphis = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-recorded-live-on-stage-in-memphis",
   title: "Recorded Live On Stage In Memphis",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 42.0424,
   ownProgress: 42.0424,

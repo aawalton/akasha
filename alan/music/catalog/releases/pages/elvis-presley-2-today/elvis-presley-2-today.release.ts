@@ -5,7 +5,7 @@ export const elvisPresley2Today = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-today",
   title: "Today",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 33.893033,
   ownProgress: 33.893033,

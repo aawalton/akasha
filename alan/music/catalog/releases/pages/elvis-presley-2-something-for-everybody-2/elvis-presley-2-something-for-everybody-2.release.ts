@@ -5,7 +5,7 @@ export const elvisPresley2SomethingForEverybody2 = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-something-for-everybody-2",
   title: "Something for Everybody",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 26.682833,
   ownProgress: 26.682833,

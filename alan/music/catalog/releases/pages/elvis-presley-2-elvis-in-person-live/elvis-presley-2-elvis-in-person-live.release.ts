@@ -5,7 +5,7 @@ export const elvisPresley2ElvisInPersonLive = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-in-person-live",
   title: "Elvis In Person (Live)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 36.762133,
   ownProgress: 36.762133,

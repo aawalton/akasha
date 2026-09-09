@@ -5,7 +5,7 @@ export const florenceTheMachineDanceFeverCompleteEdition = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-dance-fever-complete-edition",
   title: "Dance Fever (Complete Edition)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 61.72135,
   ownProgress: 61.72135,

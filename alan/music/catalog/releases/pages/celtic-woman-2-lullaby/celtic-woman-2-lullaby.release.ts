@@ -5,7 +5,7 @@ export const celticWoman2Lullaby = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-lullaby",
   title: "Lullaby",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 29.583717,
   ownProgress: 29.583717,

@@ -5,7 +5,7 @@ export const clairoBetterSgLewisXClairo = {
   pageTypeSlug: "release",
   slug: "clairo-better-sg-lewis-x-clairo",
   title: "Better (SG Lewis x Clairo)",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 3.22935,
   ownProgress: 0,

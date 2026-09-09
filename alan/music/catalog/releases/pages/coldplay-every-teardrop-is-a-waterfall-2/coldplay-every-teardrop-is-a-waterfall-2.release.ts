@@ -5,7 +5,7 @@ export const coldplayEveryTeardropIsAWaterfall2 = {
   pageTypeSlug: "release",
   slug: "coldplay-every-teardrop-is-a-waterfall-2",
   title: "Every Teardrop Is a Waterfall",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 11.869283,
   ownProgress: 11.869283,

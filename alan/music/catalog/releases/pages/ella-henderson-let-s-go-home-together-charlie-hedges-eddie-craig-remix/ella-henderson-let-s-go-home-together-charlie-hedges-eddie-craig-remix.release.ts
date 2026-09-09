@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-charlie-hedges-eddie-craig-remix",
   title: "Let’s Go Home Together (Charlie Hedges & Eddie Craig Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 7.382033,
   ownProgress: 7.382033,

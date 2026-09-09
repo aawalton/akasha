@@ -5,7 +5,7 @@ export const enyaTheCelts2 = {
   pageTypeSlug: "release",
   slug: "enya-the-celts-2",
   title: "The Celts",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 41.418767,
   ownProgress: 41.418767,

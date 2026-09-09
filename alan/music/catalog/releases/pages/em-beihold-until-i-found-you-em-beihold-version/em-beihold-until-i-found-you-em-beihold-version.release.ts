@@ -5,7 +5,7 @@ export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   pageTypeSlug: "release",
   slug: "em-beihold-until-i-found-you-em-beihold-version",
   title: "Until I Found You (Em Beihold Version)",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 2.940667,
   ownProgress: 2.940667,

@@ -5,7 +5,7 @@ export const enyaClouds = {
   pageTypeSlug: "release",
   slug: "enya-clouds",
   title: "Clouds",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 43.911667,
   ownProgress: 43.911667,

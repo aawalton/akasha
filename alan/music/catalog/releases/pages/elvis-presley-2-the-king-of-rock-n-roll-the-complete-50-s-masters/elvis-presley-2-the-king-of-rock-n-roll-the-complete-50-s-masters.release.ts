@@ -5,7 +5,7 @@ export const elvisPresley2TheKingOfRockNRollTheComplete50SMasters = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-the-king-of-rock-n-roll-the-complete-50-s-masters",
   title: "The King of Rock 'n' Roll: The Complete 50's Masters",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 336.957583,
   ownProgress: 336.957583,

@@ -5,7 +5,7 @@ export const elvisPresley2HeTouchedMe = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-he-touched-me",
   title: "He Touched Me",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 30.479483,
   ownProgress: 30.479483,

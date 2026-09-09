@@ -5,7 +5,7 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   title: "Symphony of Lungs - BBC Proms at the Royal Albert Hall",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 83.071633,
   ownProgress: 83.071633,

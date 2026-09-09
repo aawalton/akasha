@@ -5,7 +5,7 @@ export const florenceTheMachineHunger = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-hunger",
   title: "Hunger",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 3.577767,
   ownProgress: 3.577767,

@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-extended",
   title: "21 Reasons (feat. Ella Henderson) [Extended]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 4.117333,
   ownProgress: 4.117333,

@@ -5,7 +5,7 @@ export const coldplayTrouble = {
   pageTypeSlug: "release",
   slug: "coldplay-trouble",
   title: "Trouble",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 13.729767,
   ownProgress: 13.729767,

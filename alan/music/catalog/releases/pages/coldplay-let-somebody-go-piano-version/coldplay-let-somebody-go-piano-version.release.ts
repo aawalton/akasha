@@ -5,7 +5,7 @@ export const coldplayLetSomebodyGoPianoVersion = {
   pageTypeSlug: "release",
   slug: "coldplay-let-somebody-go-piano-version",
   title: "Let Somebody Go (Piano Version)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 15.014933,
   ownProgress: 15.014933,

@@ -5,7 +5,7 @@ export const elvisPresley2SunsetBoulevard = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-sunset-boulevard",
   title: "Sunset Boulevard",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 329.050733,
   ownProgress: 329.050733,

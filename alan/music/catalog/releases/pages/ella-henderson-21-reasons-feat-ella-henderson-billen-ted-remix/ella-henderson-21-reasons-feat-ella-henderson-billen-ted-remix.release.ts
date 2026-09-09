@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonBillenTedRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-billen-ted-remix",
   title: "21 Reasons (feat. Ella Henderson) [Billen Ted Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.02315,
   ownProgress: 5.02315,

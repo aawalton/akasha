@@ -5,7 +5,7 @@ export const ellaHenderson0800HeavenSymmetrikRemixExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-0800-heaven-symmetrik-remix-extended",
   title: "0800 HEAVEN (Symmetrik Remix) [Extended]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.83415,
   ownProgress: 0,

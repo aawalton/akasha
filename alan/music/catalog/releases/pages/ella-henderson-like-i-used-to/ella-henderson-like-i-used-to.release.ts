@@ -5,7 +5,7 @@ export const ellaHendersonLikeIUsedTo = {
   pageTypeSlug: "release",
   slug: "ella-henderson-like-i-used-to",
   title: "Like I Used To",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.104383,
   ownProgress: 0,

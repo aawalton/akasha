@@ -5,7 +5,7 @@ export const elvisPresley2FrankieJohnny = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-frankie-johnny",
   title: "Frankie & Johnny",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 26.479267,
   ownProgress: 26.479267,

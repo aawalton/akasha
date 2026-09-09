@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-under-the-sun-with-alok-switch-disco-kc-lights-remix",
   title: "Under The Sun (with Alok & Switch Disco) [KC Lights Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.765517,
   ownProgress: 0,

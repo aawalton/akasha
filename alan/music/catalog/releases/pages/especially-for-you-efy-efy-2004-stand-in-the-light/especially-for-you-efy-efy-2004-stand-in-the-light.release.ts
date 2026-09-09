@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2004StandInTheLight = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2004-stand-in-the-light",
   title: "Efy 2004 - Stand in the Light",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2004,
   ownLength: 53.27725,
   ownProgress: 53.27725,

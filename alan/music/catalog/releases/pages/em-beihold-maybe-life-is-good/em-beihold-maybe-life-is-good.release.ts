@@ -5,7 +5,7 @@ export const emBeiholdMaybeLifeIsGood = {
   pageTypeSlug: "release",
   slug: "em-beihold-maybe-life-is-good",
   title: "Maybe Life Is Good",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.180883,
   ownProgress: 3.180883,

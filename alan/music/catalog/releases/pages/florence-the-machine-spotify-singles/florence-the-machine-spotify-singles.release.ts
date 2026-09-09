@@ -5,7 +5,7 @@ export const florenceTheMachineSpotifySingles = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-spotify-singles",
   title: "Spotify Singles",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 8.2785,
   ownProgress: 8.2785,

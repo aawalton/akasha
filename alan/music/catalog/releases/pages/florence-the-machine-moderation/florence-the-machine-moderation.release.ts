@@ -5,7 +5,7 @@ export const florenceTheMachineModeration = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-moderation",
   title: "Moderation",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 5.040133,
   ownProgress: 5.040133,

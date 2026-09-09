@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimentalTheOtherGirlVersion = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-feat-rudimental-the-other-girl-version",
   title: "Alibi (feat. Rudimental) [The Other Girl Version]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.08085,
   ownProgress: 0,

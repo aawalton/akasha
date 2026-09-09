@@ -5,7 +5,7 @@ export const emBeiholdForgiveYourself = {
   pageTypeSlug: "release",
   slug: "em-beihold-forgive-yourself",
   title: "Forgive Yourself",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 3.229033,
   ownProgress: 3.229033,

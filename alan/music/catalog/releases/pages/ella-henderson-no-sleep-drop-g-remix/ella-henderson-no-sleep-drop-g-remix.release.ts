@@ -5,7 +5,7 @@ export const ellaHendersonNoSleepDropGRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-no-sleep-drop-g-remix",
   title: "No Sleep (Drop G Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.482233,
   ownProgress: 0,

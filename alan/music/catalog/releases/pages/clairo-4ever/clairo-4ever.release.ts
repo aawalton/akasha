@@ -5,7 +5,7 @@ export const clairo4ever = {
   pageTypeSlug: "release",
   slug: "clairo-4ever",
   title: "4EVER",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 2.659917,
   ownProgress: 0,

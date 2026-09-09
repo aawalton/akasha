@@ -5,7 +5,7 @@ export const emeiLateToTheParty = {
   pageTypeSlug: "release",
   slug: "emei-late-to-the-party",
   title: "Late to the Party",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.952933,
   ownProgress: 2.952933,

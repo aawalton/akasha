@@ -5,7 +5,7 @@ export const coldplayOrphansArabesque = {
   pageTypeSlug: "release",
   slug: "coldplay-orphans-arabesque",
   title: "Orphans / Arabesque",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 8.96355,
   ownProgress: 8.96355,

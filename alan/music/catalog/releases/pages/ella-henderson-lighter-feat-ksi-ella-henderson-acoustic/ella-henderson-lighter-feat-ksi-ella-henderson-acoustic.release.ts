@@ -5,7 +5,7 @@ export const ellaHendersonLighterFeatKsiEllaHendersonAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-lighter-feat-ksi-ella-henderson-acoustic",
   title: "Lighter (feat. KSI & Ella Henderson) [Acoustic]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.5329,
   ownProgress: 2.5329,

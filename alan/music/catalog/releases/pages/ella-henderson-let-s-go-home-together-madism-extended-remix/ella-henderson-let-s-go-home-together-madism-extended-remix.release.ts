@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherMadismExtendedRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-madism-extended-remix",
   title: "Let’s Go Home Together (Madism Extended Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 4.1263,
   ownProgress: 4.1263,

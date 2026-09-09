@@ -5,7 +5,7 @@ export const ellaHendersonHurricaneVipRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-hurricane-vip-remix",
   title: "Hurricane (VIP Remix)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.38635,
   ownProgress: 5.38635,

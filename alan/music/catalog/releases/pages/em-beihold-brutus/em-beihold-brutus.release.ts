@@ -5,7 +5,7 @@ export const emBeiholdBrutus = {
   pageTypeSlug: "release",
   slug: "em-beihold-brutus",
   title: "Brutus",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 2.467517,
   ownProgress: 2.467517,

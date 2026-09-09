@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2013FirmInTheFaithEspeciallyForYouthOfficial 
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2013-firm-in-the-faith-especially-for-youth-official",
   title: "Efy 2013 Firm in the Faith (Especially for Youth) Official",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2013,
   ownLength: 47.776367,
   ownProgress: 47.776367,

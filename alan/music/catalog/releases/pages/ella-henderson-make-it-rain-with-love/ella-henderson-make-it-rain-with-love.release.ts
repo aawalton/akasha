@@ -5,7 +5,7 @@ export const ellaHendersonMakeItRainWithLove = {
   pageTypeSlug: "release",
   slug: "ella-henderson-make-it-rain-with-love",
   title: "Make It Rain With Love",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 18.961033,
   ownProgress: 0,

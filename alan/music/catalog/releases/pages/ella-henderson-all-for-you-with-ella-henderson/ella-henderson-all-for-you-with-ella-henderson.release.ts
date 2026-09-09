@@ -5,7 +5,7 @@ export const ellaHendersonAllForYouWithEllaHenderson = {
   pageTypeSlug: "release",
   slug: "ella-henderson-all-for-you-with-ella-henderson",
   title: "All For You (with Ella Henderson)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 7.34255,
   ownProgress: 7.34255,

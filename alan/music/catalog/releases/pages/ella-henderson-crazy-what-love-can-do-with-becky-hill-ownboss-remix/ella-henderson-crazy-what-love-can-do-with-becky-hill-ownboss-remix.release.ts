@@ -5,7 +5,7 @@ export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillOwnbossRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-crazy-what-love-can-do-with-becky-hill-ownboss-remix",
   title: "Crazy What Love Can Do (with Becky Hill) [Öwnboss Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 9.252417,
   ownProgress: 9.252417,

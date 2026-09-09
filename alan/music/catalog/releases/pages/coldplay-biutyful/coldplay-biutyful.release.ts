@@ -5,7 +5,7 @@ export const coldplayBiutyful = {
   pageTypeSlug: "release",
   slug: "coldplay-biutyful",
   title: "Biutyful",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 3.206567,
   ownProgress: 3.206567,

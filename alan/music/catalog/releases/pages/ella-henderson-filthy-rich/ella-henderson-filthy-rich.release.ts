@@ -5,7 +5,7 @@ export const ellaHendersonFilthyRich = {
   pageTypeSlug: "release",
   slug: "ella-henderson-filthy-rich",
   title: "Filthy Rich",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.878533,
   ownProgress: 0,

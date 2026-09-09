@@ -5,7 +5,7 @@ export const coldplayMoonMusicFullMoonEdition = {
   pageTypeSlug: "release",
   slug: "coldplay-moon-music-full-moon-edition",
   title: "Moon Music (Full Moon Edition)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 79.124383,
   ownProgress: 79.124383,

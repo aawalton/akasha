@@ -5,7 +5,7 @@ export const elvisPresley2GoodTimes = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-good-times",
   title: "Good Times",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 29.70705,
   ownProgress: 29.70705,

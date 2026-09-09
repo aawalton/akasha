@@ -5,7 +5,7 @@ export const coldplayDonTPanic = {
   pageTypeSlug: "release",
   slug: "coldplay-don-t-panic",
   title: "Don't Panic",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 6.3922,
   ownProgress: 6.3922,

@@ -5,7 +5,7 @@ export const elvisPresley2ElvisAtTheMovies = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-at-the-movies",
   title: "Elvis At The Movies",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 95.774,
   ownProgress: 95.774,

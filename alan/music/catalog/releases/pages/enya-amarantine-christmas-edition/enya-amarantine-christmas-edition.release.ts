@@ -5,7 +5,7 @@ export const enyaAmarantineChristmasEdition = {
   pageTypeSlug: "release",
   slug: "enya-amarantine-christmas-edition",
   title: "Amarantine (Christmas Edition)",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 60.59205,
   ownProgress: 60.59205,

@@ -5,7 +5,7 @@ export const ellaHendersonNoSleep = {
   pageTypeSlug: "release",
   slug: "ella-henderson-no-sleep",
   title: "No Sleep",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.8364,
   ownProgress: 0,

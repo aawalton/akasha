@@ -5,7 +5,7 @@ export const enyaTrainsAndWinterRains = {
   pageTypeSlug: "release",
   slug: "enya-trains-and-winter-rains",
   title: "Trains and Winter Rains",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 3.721833,
   ownProgress: 3.721833,

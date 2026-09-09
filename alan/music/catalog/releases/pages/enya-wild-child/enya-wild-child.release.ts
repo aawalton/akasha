@@ -5,7 +5,7 @@ export const enyaWildChild = {
   pageTypeSlug: "release",
   slug: "enya-wild-child",
   title: "Wild Child",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 9.351533,
   ownProgress: 9.351533,

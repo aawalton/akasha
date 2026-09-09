@@ -5,7 +5,7 @@ export const florenceTheMachineMyBestDressDemo = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-my-best-dress-demo",
   title: "My Best Dress (Demo)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 2.576433,
   ownProgress: 2.576433,

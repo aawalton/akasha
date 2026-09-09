@@ -5,7 +5,7 @@ export const clairoHeaven = {
   pageTypeSlug: "release",
   slug: "clairo-heaven",
   title: "Heaven",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 3.89785,
   ownProgress: 0,

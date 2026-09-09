@@ -5,7 +5,7 @@ export const ellaHendersonYours = {
   pageTypeSlug: "release",
   slug: "ella-henderson-yours",
   title: "Yours",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 2.846917,
   ownProgress: 2.846917,

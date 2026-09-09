@@ -5,7 +5,7 @@ export const coldplayAdventureOfALifetimeMatomaRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-adventure-of-a-lifetime-matoma-remix",
   title: "Adventure of a Lifetime (Matoma Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 4.178567,
   ownProgress: 4.178567,

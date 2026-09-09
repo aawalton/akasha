@@ -5,7 +5,7 @@ export const celticWoman2MoGhileMearMyGallantStar = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-mo-ghile-mear-my-gallant-star",
   title: "Mo Ghile Mear (My Gallant Star)",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 3.650167,
   ownProgress: 3.650167,

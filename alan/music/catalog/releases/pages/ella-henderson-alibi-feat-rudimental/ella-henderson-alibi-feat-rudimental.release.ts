@@ -5,7 +5,7 @@ export const ellaHendersonAlibiFeatRudimental = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-feat-rudimental",
   title: "Alibi (feat. Rudimental)",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 3.080867,
   ownProgress: 0,

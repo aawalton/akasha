@@ -5,7 +5,7 @@ export const coldplayPrincessOfChinaAndreSobotaRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-princess-of-china-andre-sobota-remix",
   title: "Princess of China (Andre Sobota Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 5.0664,
   ownProgress: 5.0664,

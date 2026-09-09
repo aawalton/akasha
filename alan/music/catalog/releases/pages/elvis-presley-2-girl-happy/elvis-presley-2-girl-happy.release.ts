@@ -5,7 +5,7 @@ export const elvisPresley2GirlHappy = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-girl-happy",
   title: "Girl Happy",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 23.790617,
   ownProgress: 23.790617,

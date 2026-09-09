@@ -5,7 +5,7 @@ export const coldplayParadise = {
   pageTypeSlug: "release",
   slug: "coldplay-paradise",
   title: "Paradise",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 4.645317,
   ownProgress: 4.645317,

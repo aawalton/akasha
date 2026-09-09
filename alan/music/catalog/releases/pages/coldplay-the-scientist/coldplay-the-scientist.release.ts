@@ -5,7 +5,7 @@ export const coldplayTheScientist = {
   pageTypeSlug: "release",
   slug: "coldplay-the-scientist",
   title: "The Scientist",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 11.729967,
   ownProgress: 11.729967,

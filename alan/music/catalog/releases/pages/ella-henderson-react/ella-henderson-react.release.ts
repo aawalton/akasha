@@ -5,7 +5,7 @@ export const ellaHendersonReact = {
   pageTypeSlug: "release",
   slug: "ella-henderson-react",
   title: "REACT",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.624283,
   ownProgress: 0,

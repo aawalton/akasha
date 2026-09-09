@@ -5,7 +5,7 @@ export const coldplayGhostStoriesLive2014 = {
   pageTypeSlug: "release",
   slug: "coldplay-ghost-stories-live-2014",
   title: "Ghost Stories Live 2014",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 40.774367,
   ownProgress: 40.774367,

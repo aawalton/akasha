@@ -5,7 +5,7 @@ export const elvisPresley2ElvisChristmasAlbum2 = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-christmas-album-2",
   title: "Elvis` Christmas Album",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 30.076133,
   ownProgress: 30.076133,

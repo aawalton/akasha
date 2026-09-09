@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2002WeBelieve = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2002-we-believe",
   title: "Efy 2002 - We Believe",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2002,
   ownLength: 45.755267,
   ownProgress: 45.755267,

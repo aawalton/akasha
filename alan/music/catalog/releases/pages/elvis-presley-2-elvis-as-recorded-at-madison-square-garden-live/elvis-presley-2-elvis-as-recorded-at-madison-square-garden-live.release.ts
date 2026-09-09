@@ -5,7 +5,7 @@ export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-as-recorded-at-madison-square-garden-live",
   title: "Elvis: As Recorded at Madison Square Garden (Live)",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 52.739433,
   ownProgress: 52.739433,

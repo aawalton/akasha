@@ -5,7 +5,7 @@ export const clairoBlouse = {
   pageTypeSlug: "release",
   slug: "clairo-blouse",
   title: "Blouse",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 3.256267,
   ownProgress: 0,

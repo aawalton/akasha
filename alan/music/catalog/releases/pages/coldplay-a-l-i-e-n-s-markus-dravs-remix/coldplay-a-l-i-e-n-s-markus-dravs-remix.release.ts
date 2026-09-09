@@ -5,7 +5,7 @@ export const coldplayALIENSMarkusDravsRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-a-l-i-e-n-s-markus-dravs-remix",
   title: "A L I E N S (Markus Dravs Remix)",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 7.086933,
   ownProgress: 7.086933,

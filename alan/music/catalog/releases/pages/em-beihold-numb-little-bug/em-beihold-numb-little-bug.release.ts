@@ -5,7 +5,7 @@ export const emBeiholdNumbLittleBug = {
   pageTypeSlug: "release",
   slug: "em-beihold-numb-little-bug",
   title: "Numb Little Bug",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 2.820617,
   ownProgress: 2.820617,

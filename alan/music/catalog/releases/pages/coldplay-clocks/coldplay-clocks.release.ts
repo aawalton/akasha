@@ -5,7 +5,7 @@ export const coldplayClocks = {
   pageTypeSlug: "release",
   slug: "coldplay-clocks",
   title: "Clocks",
-  partOfCollectionSlugs: ["coldplay"],
+  partOfCollections: ["coldplay"],
   position: 0,
   ownLength: 14.349517,
   ownProgress: 14.349517,

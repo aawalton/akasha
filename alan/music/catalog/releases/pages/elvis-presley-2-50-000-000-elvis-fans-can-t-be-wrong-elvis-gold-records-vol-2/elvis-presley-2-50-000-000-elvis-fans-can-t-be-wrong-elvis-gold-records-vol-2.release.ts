@@ -5,7 +5,7 @@ export const elvisPresley250000000ElvisFansCanTBeWrongElvisGoldRecordsVol2 = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-50-000-000-elvis-fans-can-t-be-wrong-elvis-gold-records-vol-2",
   title: "50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol. 2",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 22.7466,
   ownProgress: 22.7466,

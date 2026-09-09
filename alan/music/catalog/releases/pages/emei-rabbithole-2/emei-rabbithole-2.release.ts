@@ -5,7 +5,7 @@ export const emeiRabbithole2 = {
   pageTypeSlug: "release",
   slug: "emei-rabbithole-2",
   title: "RABBITHOLE",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 12.593067,
   ownProgress: 12.593067,

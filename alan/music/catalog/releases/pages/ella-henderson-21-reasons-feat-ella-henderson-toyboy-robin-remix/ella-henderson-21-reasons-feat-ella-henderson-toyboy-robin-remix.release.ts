@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonToyboyRobinRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-toyboy-robin-remix",
   title: "21 Reasons (feat. Ella Henderson) [Toyboy & Robin Remix]",
-  partOfCollectionSlugs: ["ella-henderson"],
+  partOfCollections: ["ella-henderson"],
   position: 0,
   ownLength: 5.6857,
   ownProgress: 5.6857,

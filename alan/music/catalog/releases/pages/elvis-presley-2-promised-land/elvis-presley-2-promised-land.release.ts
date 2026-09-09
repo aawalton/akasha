@@ -5,7 +5,7 @@ export const elvisPresley2PromisedLand = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-promised-land",
   title: "Promised Land",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 28.44415,
   ownProgress: 28.44415,

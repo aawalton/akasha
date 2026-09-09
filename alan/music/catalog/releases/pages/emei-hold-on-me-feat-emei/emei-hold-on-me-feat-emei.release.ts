@@ -5,7 +5,7 @@ export const emeiHoldOnMeFeatEmei = {
   pageTypeSlug: "release",
   slug: "emei-hold-on-me-feat-emei",
   title: "Hold On Me (feat. Emei)",
-  partOfCollectionSlugs: ["emei"],
+  partOfCollections: ["emei"],
   position: 0,
   ownLength: 2.492817,
   ownProgress: 2.492817,

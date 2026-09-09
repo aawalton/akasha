@@ -5,7 +5,7 @@ export const enyaAmarantine2 = {
   pageTypeSlug: "release",
   slug: "enya-amarantine-2",
   title: "Amarantine",
-  partOfCollectionSlugs: ["enya"],
+  partOfCollections: ["enya"],
   position: 0,
   ownLength: 45.5832,
   ownProgress: 45.5832,

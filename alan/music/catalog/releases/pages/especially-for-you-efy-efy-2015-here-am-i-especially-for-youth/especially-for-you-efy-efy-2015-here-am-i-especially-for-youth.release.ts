@@ -5,7 +5,7 @@ export const especiallyForYouEfyEfy2015HereAmIEspeciallyForYouth = {
   pageTypeSlug: "release",
   slug: "especially-for-you-efy-efy-2015-here-am-i-especially-for-youth",
   title: "Efy 2015 Here Am I (Especially for Youth)",
-  partOfCollectionSlugs: ["especially-for-you-efy"],
+  partOfCollections: ["especially-for-you-efy"],
   position: 2015,
   ownLength: 49.1099,
   ownProgress: 49.1099,

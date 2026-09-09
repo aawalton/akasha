@@ -5,7 +5,7 @@ export const emBeiholdGroundhogDay = {
   pageTypeSlug: "release",
   slug: "em-beihold-groundhog-day",
   title: "Groundhog Day",
-  partOfCollectionSlugs: ["em-beihold"],
+  partOfCollections: ["em-beihold"],
   position: 0,
   ownLength: 2.89365,
   ownProgress: 2.89365,

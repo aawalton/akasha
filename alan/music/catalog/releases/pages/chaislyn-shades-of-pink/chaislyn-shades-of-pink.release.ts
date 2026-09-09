@@ -5,7 +5,7 @@ export const chaislynShadesOfPink = {
   pageTypeSlug: "release",
   slug: "chaislyn-shades-of-pink",
   title: "Shades of Pink",
-  partOfCollectionSlugs: ["chaislyn"],
+  partOfCollections: ["chaislyn"],
   position: 0,
   ownLength: 3.564867,
   ownProgress: 3.564867,

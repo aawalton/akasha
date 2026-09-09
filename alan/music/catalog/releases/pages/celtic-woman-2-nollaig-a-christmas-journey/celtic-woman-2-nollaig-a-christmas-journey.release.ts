@@ -5,7 +5,7 @@ export const celticWoman2NollaigAChristmasJourney = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-nollaig-a-christmas-journey",
   title: "Nollaig – A Christmas Journey",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 49.571433,
   ownProgress: 49.571433,

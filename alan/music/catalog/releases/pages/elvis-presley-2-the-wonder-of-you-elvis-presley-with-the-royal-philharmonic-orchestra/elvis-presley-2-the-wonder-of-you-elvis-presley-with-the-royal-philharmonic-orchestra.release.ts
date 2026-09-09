@@ -5,7 +5,7 @@ export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrch
   pageTypeSlug: "release",
   slug: "elvis-presley-2-the-wonder-of-you-elvis-presley-with-the-royal-philharmonic-orchestra",
   title: "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
-  partOfCollectionSlugs: ["elvis-presley-2"],
+  partOfCollections: ["elvis-presley-2"],
   position: 0,
   ownLength: 51.246583,
   ownProgress: 51.246583,

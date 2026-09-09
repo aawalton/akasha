@@ -5,7 +5,7 @@ export const florenceTheMachineFreeTheBlessedMadonnaRemix = {
   pageTypeSlug: "release",
   slug: "florence-the-machine-free-the-blessed-madonna-remix",
   title: "Free (The Blessed Madonna Remix)",
-  partOfCollectionSlugs: ["florence-the-machine"],
+  partOfCollections: ["florence-the-machine"],
   position: 0,
   ownLength: 4.3962,
   ownProgress: 4.3962,

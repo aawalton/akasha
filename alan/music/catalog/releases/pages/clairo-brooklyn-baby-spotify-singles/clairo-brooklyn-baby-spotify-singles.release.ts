@@ -5,7 +5,7 @@ export const clairoBrooklynBabySpotifySingles = {
   pageTypeSlug: "release",
   slug: "clairo-brooklyn-baby-spotify-singles",
   title: "Brooklyn Baby - Spotify Singles",
-  partOfCollectionSlugs: ["clairo"],
+  partOfCollections: ["clairo"],
   position: 0,
   ownLength: 5.76,
   ownProgress: 0,
