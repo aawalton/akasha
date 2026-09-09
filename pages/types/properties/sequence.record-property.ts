@@ -35,7 +35,7 @@ export const sequence = {
     },
     {
       invariantKind: "departure",
-      statement: "Pages holding one value under the grouping key stand in one run.",
+      statement: "Pages with one value under the grouping key stand in one run.",
     },
   ],
 } as const satisfies RecordProperty

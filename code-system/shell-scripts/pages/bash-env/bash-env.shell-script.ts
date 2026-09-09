@@ -35,7 +35,7 @@ export const bashEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "A shell reading the script is not left holding a failing status.",
+      statement: "A shell reading the script is not left with a failing status.",
     },
     {
       invariantKind: "gap",

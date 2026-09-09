@@ -13,7 +13,7 @@ export const catalogConfigGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty side file leaves the name holding nothing.",
+      statement: "An empty side file leaves the name with nothing.",
     },
   ],
 } as const satisfies TypeDeclaration
