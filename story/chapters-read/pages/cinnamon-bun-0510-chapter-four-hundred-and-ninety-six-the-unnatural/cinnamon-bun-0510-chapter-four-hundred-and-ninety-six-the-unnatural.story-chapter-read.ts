@@ -5,7 +5,7 @@ export const cinnamonBun0510ChapterFourHundredAndNinetySixTheUnnatural = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0510-chapter-four-hundred-and-ninety-six-the-unnatural",
   title: "Chapter Four Hundred and Ninety-Six - The Unnatural Power of Love",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 510,
   ownLength: 1559,
   unitSlug: "words",

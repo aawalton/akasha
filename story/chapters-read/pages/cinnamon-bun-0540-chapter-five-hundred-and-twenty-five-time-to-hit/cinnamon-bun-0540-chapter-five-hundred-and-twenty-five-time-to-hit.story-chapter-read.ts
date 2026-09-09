@@ -5,7 +5,7 @@ export const cinnamonBun0540ChapterFiveHundredAndTwentyFiveTimeToHit = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0540-chapter-five-hundred-and-twenty-five-time-to-hit",
   title: "Chapter Five Hundred and Twenty-Five - Time to Hit the Books",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 540,
   ownLength: 1474,
   unitSlug: "words",
