@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherNoPullBackMakesPivotingCheap = {
   id: "01a077ee-12cd-7ea5-887d-bf55f51995fb",

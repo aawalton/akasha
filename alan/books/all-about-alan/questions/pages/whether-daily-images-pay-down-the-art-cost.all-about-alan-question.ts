@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherDailyImagesPayDownTheArtCost = {
   id: "01a077e9-6e08-7fd8-aea2-f3c4c07f646a",

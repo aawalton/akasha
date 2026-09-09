@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherInsightIntoMyselfIsItsOwnYield = {
   id: "01a077ef-473a-77ef-bba9-1459b5d94227",

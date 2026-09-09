@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichIdentitiesSurvivedTheCollapse = {
   id: "01a077f0-49e8-7957-b19f-e3af489f455c",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichRulesCameFromWhatWasNearby = {
   id: "01a077e5-8834-7f30-94e6-4450253d49fb",

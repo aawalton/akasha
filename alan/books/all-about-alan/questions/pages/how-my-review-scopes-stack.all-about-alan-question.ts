@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howMyReviewScopesStack = {
   id: "01a077e1-dcf8-77e0-9f9b-292124a027a4",

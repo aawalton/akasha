@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherFadingRunsOnFourDialsOrOne = {
   id: "01a077e5-95f0-7efc-9e3f-1c09b0006ccb",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichYearsExecutiveFunctionWasMyBottleneck = {
   id: "01a077ec-8fbc-78a2-960c-a764f6169afc",

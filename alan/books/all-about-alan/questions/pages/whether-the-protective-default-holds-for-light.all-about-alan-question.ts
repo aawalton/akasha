@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheProtectiveDefaultHoldsForLight = {
   id: "01a077eb-75f1-7604-9d25-c964d5a95bfe",

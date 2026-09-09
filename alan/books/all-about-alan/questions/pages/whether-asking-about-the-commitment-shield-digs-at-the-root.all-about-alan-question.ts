@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAskingAboutTheCommitmentShieldDigsAtTheRoot = {
   id: "01a077ed-2ed6-7129-8412-6d52136cca01",

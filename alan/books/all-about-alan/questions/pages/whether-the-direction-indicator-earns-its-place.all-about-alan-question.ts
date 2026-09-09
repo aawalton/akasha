@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheDirectionIndicatorEarnsItsPlace = {
   id: "01a077ea-b511-7c4b-8529-a6455386a84d",

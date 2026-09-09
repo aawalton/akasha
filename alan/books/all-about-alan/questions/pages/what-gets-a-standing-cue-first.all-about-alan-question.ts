@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatGetsAStandingCueFirst = {
   id: "01a077e9-2550-7536-b405-68d98dbe66d7",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMonitorsIntellectualCloseness = {
   id: "01a077eb-4f45-7f13-9192-16f258fcdf44",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheSensoryStackMadeTheBedroomWork = {
   id: "01a077e9-a252-7846-ab9e-f6c2ba23c9d3",

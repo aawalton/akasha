@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherCoOpsGetAShorterTrackRecord = {
   id: "01a077ef-db06-7895-b83a-18b9f578abcb",

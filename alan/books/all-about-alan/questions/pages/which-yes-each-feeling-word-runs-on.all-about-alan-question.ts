@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichYesEachFeelingWordRunsOn = {
   id: "01a077ef-c2cd-7abc-bd86-714a15672407",

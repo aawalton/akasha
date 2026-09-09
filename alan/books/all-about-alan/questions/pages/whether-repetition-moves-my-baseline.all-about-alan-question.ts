@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherRepetitionMovesMyBaseline = {
   id: "01a077e9-eb8a-7dad-b4bb-402912f868a1",

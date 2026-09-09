@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherGoodSocialNetsOutPositive = {
   id: "01a07810-45ba-78ee-bfab-97dbe0445520",

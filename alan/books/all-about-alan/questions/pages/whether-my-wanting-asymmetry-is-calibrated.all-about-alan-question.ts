@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyWantingAsymmetryIsCalibrated = {
   id: "01a077eb-1da4-73c3-84e7-74cd9c5adef2",

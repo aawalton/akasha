@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichSenseOfVulnerableLevelFourIs = {
   id: "01a077e8-1a55-7681-bbc4-ae7e57223329",

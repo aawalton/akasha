@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howMuchOfMyContinuityMySystemsCarry = {
   id: "01a077e9-5957-71fb-85dc-60819e064281",

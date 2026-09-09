@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howManyWarmingHoursBuyABetterDay = {
   id: "01a077e7-ad57-71e7-898a-0f9b412521be",

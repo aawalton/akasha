@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherPrayerSilenceAndBreathSilenceAreOne = {
   id: "01a077e6-4efc-7236-9e7f-a2cca1eee1f0",

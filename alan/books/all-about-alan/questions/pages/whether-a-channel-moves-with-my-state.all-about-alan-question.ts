@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAChannelMovesWithMyState = {
   id: "01a077ed-ff3c-76a3-89fa-90e275c42a0c",

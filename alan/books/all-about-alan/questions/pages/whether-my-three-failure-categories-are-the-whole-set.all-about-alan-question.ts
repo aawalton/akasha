@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyThreeFailureCategoriesAreTheWholeSet = {
   id: "01a077e9-9767-7066-8117-f2e14b7e75f5",

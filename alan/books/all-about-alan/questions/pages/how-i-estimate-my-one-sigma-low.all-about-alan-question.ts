@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIEstimateMyOneSigmaLow = {
   id: "01a077e6-544a-7421-a9d1-e8611c42cdc3",

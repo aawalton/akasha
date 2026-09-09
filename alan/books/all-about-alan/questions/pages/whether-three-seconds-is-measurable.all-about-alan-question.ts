@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherThreeSecondsIsMeasurable = {
   id: "01a077e9-5955-78e6-8844-01903371395d",

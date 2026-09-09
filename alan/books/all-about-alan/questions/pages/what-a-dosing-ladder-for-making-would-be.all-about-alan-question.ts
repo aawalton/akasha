@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatADosingLadderForMakingWouldBe = {
   id: "01a077eb-6c35-7b2b-9d26-226a07b08b9d",

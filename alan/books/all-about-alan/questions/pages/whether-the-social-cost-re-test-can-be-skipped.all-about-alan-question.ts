@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheSocialCostReTestCanBeSkipped = {
   id: "01a077ef-73ba-769a-b5fa-8b3c3219244b",

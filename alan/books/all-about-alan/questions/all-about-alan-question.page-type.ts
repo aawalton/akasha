@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { OpenQuestion } from "./properties/open-question.text-property.ts"
-import type { QuestionTopic } from "./properties/question-topic.relation-property.ts"
-
-export type AllAboutAlanQuestion = Page & {
-  topic: QuestionTopic
-  ask: OpenQuestion
-}
 
 export const allAboutAlanQuestion = {
   id: "01a077d9-ec56-7451-945a-1b2355aa31dc",
@@ -40,4 +32,5 @@ export const allAboutAlanQuestion = {
       statement: "A topic lists no question open on that topic.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

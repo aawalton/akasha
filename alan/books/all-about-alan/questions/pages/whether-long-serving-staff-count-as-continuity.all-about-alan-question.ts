@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherLongServingStaffCountAsContinuity = {
   id: "01a077ee-d27a-7a89-944e-859a6d42b34a",

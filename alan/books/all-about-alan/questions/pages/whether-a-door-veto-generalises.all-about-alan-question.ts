@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherADoorVetoGeneralises = {
   id: "01a077ea-fd54-7928-a1a4-96fbed8ff813",

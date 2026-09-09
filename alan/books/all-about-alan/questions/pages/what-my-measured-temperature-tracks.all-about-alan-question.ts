@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMyMeasuredTemperatureTracks = {
   id: "01a077e5-3da5-7e75-bd64-e5bc94dfbac4",

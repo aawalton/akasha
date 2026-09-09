@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatLetMyLastLiftReachWholeWorldScale = {
   id: "01a077e4-c6cf-7a51-93a7-765f7d2d721a",

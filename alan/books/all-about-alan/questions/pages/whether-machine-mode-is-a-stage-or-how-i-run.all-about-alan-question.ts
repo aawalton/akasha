@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMachineModeIsAStageOrHowIRun = {
   id: "01a077ec-8a97-7508-bc33-33ab2433be0e",

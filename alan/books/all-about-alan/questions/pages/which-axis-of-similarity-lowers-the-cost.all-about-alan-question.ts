@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichAxisOfSimilarityLowersTheCost = {
   id: "01a077e4-3d41-7a49-979e-5e750938196d",

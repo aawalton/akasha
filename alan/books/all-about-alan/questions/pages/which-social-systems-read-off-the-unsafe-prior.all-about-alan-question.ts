@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichSocialSystemsReadOffTheUnsafePrior = {
   id: "01a077ec-5cc3-72d2-850d-fb6d53139c2b",

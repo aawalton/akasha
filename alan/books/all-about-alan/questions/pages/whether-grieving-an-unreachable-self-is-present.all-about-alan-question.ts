@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherGrievingAnUnreachableSelfIsPresent = {
   id: "01a077ee-7a24-7c38-bb48-ec14da39c329",

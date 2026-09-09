@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereBuildingSomethingPhysicalSits = {
   id: "01a077eb-6c34-7437-ab2c-0eb6868860fd",

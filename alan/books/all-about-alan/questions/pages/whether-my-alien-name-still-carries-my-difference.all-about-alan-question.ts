@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyAlienNameStillCarriesMyDifference = {
   id: "01a077e6-608c-7913-b034-1efa2ad4b768",

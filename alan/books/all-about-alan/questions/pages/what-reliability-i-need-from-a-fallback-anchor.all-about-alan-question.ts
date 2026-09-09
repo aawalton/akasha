@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatReliabilityINeedFromAFallbackAnchor = {
   id: "01a077eb-b111-7264-9bb6-e9977d4d690b",

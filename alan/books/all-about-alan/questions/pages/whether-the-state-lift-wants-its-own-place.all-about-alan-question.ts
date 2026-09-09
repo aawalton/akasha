@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheStateLiftWantsItsOwnPlace = {
   id: "01a077f0-e7be-7871-8d7b-3a15b8649d83",

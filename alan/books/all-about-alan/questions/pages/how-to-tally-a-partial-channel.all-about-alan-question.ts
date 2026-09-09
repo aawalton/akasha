@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howToTallyAPartialChannel = {
   id: "01a077ed-3182-7ec8-b38a-770e65744dd1",

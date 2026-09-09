@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheLineBetweenPresentAndProjectedWantsHolds = {
   id: "01a077e7-137f-7252-b0e6-666abcc1c323",

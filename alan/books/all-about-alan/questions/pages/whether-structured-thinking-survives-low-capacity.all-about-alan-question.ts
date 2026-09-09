@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherStructuredThinkingSurvivesLowCapacity = {
   id: "01a077ed-525a-77c7-b3e7-1d747ab114f6",

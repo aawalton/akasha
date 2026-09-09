@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyHarnessPreEmptsRumination = {
   id: "01a077e6-106f-7e6b-9366-694e06d5f6bf",

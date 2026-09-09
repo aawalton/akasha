@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereTouchAndTasteToolsSit = {
   id: "01a077e7-14ba-747a-99d1-37b6e0f6dfdc",

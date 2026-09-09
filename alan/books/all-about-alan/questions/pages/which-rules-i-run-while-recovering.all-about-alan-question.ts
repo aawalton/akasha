@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichRulesIRunWhileRecovering = {
   id: "01a077e3-c2be-72ad-b49a-8c0504dfc150",

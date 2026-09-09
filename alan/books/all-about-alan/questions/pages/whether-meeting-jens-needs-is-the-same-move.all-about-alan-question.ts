@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMeetingJensNeedsIsTheSameMove = {
   id: "01a077ec-8a99-7716-9a88-125dd0141888",

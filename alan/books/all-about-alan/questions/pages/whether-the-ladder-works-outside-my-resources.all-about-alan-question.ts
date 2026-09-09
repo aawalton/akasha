@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheLadderWorksOutsideMyResources = {
   id: "01a077e5-ed77-77d6-8751-efd8a0b35e22",

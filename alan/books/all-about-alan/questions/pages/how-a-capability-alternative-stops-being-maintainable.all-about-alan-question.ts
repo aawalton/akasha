@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howACapabilityAlternativeStopsBeingMaintainable = {
   id: "01a077e1-ff90-7f9c-bf20-79e5ff82caaa",

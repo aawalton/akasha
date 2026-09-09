@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWouldShowOneSubstrateUnderBoth = {
   id: "01a077e5-990b-7464-a684-71a0585cf99e",

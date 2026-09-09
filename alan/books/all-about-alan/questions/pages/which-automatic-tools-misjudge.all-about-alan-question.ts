@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichAutomaticToolsMisjudge = {
   id: "01a077e7-14bc-76bc-b6a5-714f645e9e8b",

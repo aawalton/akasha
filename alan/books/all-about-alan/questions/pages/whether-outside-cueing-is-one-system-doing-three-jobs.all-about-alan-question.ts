@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOutsideCueingIsOneSystemDoingThreeJobs = {
   id: "01a077e7-68d0-7ab4-bf42-2ebd4f8b67ac",

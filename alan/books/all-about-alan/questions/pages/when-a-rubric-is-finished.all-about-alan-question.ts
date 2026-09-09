@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whenARubricIsFinished = {
   id: "01a077e5-d96b-76e4-bdde-af6c4cf0606a",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherASleepCycleIsWorthALevel = {
   id: "01a077ef-7e99-779c-9717-43c48ac42ba2",

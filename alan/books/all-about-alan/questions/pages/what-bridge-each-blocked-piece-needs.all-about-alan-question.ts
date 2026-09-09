@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatBridgeEachBlockedPieceNeeds = {
   id: "01a077ed-363e-7058-b175-0976bda8ba88",

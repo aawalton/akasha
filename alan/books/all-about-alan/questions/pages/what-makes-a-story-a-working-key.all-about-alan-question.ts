@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMakesAStoryAWorkingKey = {
   id: "01a077e6-a8ea-7129-b0ca-95d8ca2f25ff",

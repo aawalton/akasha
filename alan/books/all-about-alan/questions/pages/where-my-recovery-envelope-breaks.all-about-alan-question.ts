@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereMyRecoveryEnvelopeBreaks = {
   id: "01a077e8-d486-784c-89ac-e5248e57ca85",

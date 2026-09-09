@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyImageWorkCountsAsAMakerChannel = {
   id: "01a077ee-510a-7069-9df1-9a2d2d4e6590",

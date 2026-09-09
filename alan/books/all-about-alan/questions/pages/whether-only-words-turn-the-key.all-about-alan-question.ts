@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOnlyWordsTurnTheKey = {
   id: "01a077e6-a8eb-7cdb-9ea8-f306f96fd1ff",

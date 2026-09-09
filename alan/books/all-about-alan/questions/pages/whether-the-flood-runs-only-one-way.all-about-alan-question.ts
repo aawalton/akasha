@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheFloodRunsOnlyOneWay = {
   id: "01a077e8-81d3-7a5d-8a2d-4eb04d4486e0",

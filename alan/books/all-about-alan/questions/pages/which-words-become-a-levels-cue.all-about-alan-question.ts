@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichWordsBecomeALevelsCue = {
   id: "01a077e1-dcf7-7df8-8e8a-10d190bc0ecf",

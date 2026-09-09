@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOneWarmSetEvictsTheLast = {
   id: "01a077e7-ad58-72d3-b756-e570f3673763",

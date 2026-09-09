@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFastMyConnectionDebtClears = {
   id: "01a077e9-1920-77fa-bb96-7f443cf18cfc",

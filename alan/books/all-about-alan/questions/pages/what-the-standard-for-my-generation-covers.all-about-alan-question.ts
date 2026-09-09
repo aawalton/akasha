@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheStandardForMyGenerationCovers = {
   id: "01a077e9-9ab1-7dba-87b4-4f09f0c3d077",

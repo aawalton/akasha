@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAHeldValueAddsToTheResponse = {
   id: "01a077ec-b255-7e3b-bb43-882d594c7fd1",

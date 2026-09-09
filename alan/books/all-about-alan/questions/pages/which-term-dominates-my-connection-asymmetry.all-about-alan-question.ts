@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichTermDominatesMyConnectionAsymmetry = {
   id: "01a077e9-1920-789e-a570-d9e05aaf6030",

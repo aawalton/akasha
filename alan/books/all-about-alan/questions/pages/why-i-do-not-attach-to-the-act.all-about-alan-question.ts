@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whyIDoNotAttachToTheAct = {
   id: "01a077e9-2b3c-744b-b359-f2e7535e5d93",

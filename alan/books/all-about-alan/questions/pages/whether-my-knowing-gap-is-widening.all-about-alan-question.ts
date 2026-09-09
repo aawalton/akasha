@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyKnowingGapIsWidening = {
   id: "01a077e9-010b-7f13-b7e3-518d598eb0fd",

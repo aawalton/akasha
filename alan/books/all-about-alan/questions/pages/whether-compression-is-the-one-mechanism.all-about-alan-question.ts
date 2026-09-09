@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherCompressionIsTheOneMechanism = {
   id: "01a077e9-9e08-7a61-8fd6-417b967148db",

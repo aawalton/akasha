@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMyCacheInvalidationGetsWrong = {
   id: "01a077ea-5748-7faa-bfe1-f81a6761ff6b",

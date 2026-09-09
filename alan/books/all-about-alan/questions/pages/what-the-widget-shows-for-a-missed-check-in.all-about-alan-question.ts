@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheWidgetShowsForAMissedCheckIn = {
   id: "01a077ea-b510-7c00-8803-eda863206a6d",

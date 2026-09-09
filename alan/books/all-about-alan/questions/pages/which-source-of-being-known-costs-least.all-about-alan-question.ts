@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichSourceOfBeingKnownCostsLeast = {
   id: "01a077ec-a00d-7072-b78e-c0ed1fe1fe0f",

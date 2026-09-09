@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheNextHalfStepLimitHoldsEverywhere = {
   id: "01a077e8-d485-7366-81c0-72dffe16a849",

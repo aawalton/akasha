@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichPlansSurviveOwnActionsOnly = {
   id: "01a077e6-d639-7df6-b2f0-07758d01d520",

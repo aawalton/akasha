@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereMyBodySenseStopsCarrying = {
   id: "01a077e5-63de-7b46-8c50-5b9351d7d993",

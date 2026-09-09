@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherLosingAutonomyCausedTheNerveDamage = {
   id: "01a077eb-39eb-7a81-8950-3aa7c52d1268",

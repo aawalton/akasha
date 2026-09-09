@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOpenQuestionsKeepTheLostNuance = {
   id: "01a077e8-8944-7f2a-aec5-6f9ea9fc81b3",

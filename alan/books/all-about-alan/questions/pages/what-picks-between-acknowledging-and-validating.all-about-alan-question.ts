@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatPicksBetweenAcknowledgingAndValidating = {
   id: "01a077f1-e30a-747c-8aa0-e8f1f9d23a21",

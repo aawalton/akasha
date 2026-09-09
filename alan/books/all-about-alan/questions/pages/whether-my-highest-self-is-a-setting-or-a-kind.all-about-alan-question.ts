@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyHighestSelfIsASettingOrAKind = {
   id: "01a077f1-8984-74f0-8ee2-5c6fdcd73a19",

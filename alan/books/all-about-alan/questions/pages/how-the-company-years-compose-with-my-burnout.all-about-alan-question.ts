@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howTheCompanyYearsComposeWithMyBurnout = {
   id: "01a077e3-2efa-7ff3-92a0-41fe8dc21f74",

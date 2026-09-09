@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherRecoveryModeWasTheReplacementOrTheGap = {
   id: "01a0785c-b087-7043-85e8-12ce4774e38b",

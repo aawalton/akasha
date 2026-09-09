@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichDisciplinesCarryMyCompactnessCase = {
   id: "01a077e7-c40d-721d-9c2a-1ddc5c44c50f",

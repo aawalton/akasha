@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whoseRecoveriesMyRecoveryFigureRestsOn = {
   id: "01a077e8-d484-7ab1-bfd2-1a4f3f98974d",

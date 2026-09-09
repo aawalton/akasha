@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howMuchOfTheResidueAnInterviewReaches = {
   id: "01a077e7-fd11-7680-aae2-64d9743c5e0c",

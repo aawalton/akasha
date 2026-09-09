@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAProbabilityIStateIsGraded = {
   id: "01a077e4-c71d-72b9-9101-e6caffc69aca",

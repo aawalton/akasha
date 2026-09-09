@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMySafetyAnchorsGoNumeric = {
   id: "01a077e5-ed75-7e2e-863f-1e1eb0095f71",

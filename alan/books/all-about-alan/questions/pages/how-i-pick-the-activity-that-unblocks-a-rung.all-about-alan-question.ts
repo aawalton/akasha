@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIPickTheActivityThatUnblocksARung = {
   id: "01a077eb-39a2-7055-9e4e-fa42ca41a678",

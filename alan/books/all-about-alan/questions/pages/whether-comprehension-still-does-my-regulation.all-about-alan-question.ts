@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherComprehensionStillDoesMyRegulation = {
   id: "01a077ed-80dc-74e0-969f-6b5a20682d48",

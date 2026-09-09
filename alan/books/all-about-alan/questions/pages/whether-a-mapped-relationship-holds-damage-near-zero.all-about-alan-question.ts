@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAMappedRelationshipHoldsDamageNearZero = {
   id: "01a077eb-dc03-71e4-a9f7-b5fe1a053808",

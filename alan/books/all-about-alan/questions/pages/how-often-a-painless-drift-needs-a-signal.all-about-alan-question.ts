@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howOftenAPainlessDriftNeedsASignal = {
   id: "01a077ec-a1a0-7895-a470-9122375f37d3",

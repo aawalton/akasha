@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherADefinitionalMatchEverFeelsDifferent = {
   id: "01a077ef-c2ce-7b14-a6d9-fec44c3afb4f",

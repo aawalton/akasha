@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichChannelCarriesBeingAttendedTo = {
   id: "01a077ea-d36f-75bc-b7c8-d61ab8a2e7d8",

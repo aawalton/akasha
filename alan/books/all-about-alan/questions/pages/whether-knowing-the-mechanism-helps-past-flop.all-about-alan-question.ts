@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherKnowingTheMechanismHelpsPastFlop = {
   id: "01a077e4-89f7-79c5-a4ec-3a557318a59a",

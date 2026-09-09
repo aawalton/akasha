@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherEveryGroupWantsTheSameLayers = {
   id: "01a077f3-1085-7daf-81e3-2fe27de88952",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherEverythingCalmingRunsThroughOneShift = {
   id: "01a077e9-eb88-73d5-8243-47a08caa49a0",

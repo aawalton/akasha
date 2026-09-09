@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyPrestigeRateHasACeiling = {
   id: "01a077ee-fbc4-7a6d-a719-90589595c2c3",

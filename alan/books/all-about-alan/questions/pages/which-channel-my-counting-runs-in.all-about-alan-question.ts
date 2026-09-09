@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichChannelMyCountingRunsIn = {
   id: "01a077f0-2486-767a-8477-3b13e4b9b722",

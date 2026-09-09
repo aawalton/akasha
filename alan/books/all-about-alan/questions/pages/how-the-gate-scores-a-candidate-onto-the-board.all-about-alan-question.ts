@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howTheGateScoresACandidateOntoTheBoard = {
   id: "01a077ee-add4-7b26-8bfe-e174708c23b6",

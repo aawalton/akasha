@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAPhysicalProxyReadsMyReserve = {
   id: "01a077e5-50a0-7e16-aeec-77fef23a5c69",

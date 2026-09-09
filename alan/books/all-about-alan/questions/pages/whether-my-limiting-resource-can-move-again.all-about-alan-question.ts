@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyLimitingResourceCanMoveAgain = {
   id: "01a077ec-8fbd-7747-98e8-f142c68fafdd",

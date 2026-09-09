@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereMyLotionBottlesSit = {
   id: "01a077e7-263a-7d59-8759-a43714d10aa3",

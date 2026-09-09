@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatIsLeftToBuildOnTheFileStore = {
   id: "01a077e5-043d-787e-9e10-575b213215ae",

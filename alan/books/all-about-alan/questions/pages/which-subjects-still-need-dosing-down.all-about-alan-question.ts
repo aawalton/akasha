@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichSubjectsStillNeedDosingDown = {
   id: "01a077e5-50a1-716f-be0a-548ac8f62a82",

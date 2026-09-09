@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMirroringNetsPositiveForMe = {
   id: "01a077e9-010c-7f9b-b085-fd17c4811097",

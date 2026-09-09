@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyDistanceEstimatesHaveSettled = {
   id: "01a077e7-7f56-7dc1-be5f-13ff28dda25f",

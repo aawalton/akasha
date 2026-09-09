@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereNotForkingAPretendSelfClosesAMethod = {
   id: "01a077e7-d87c-7d02-8acd-eabe4b045b8c",

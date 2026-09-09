@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereArousalComesBackAboveTheFloor = {
   id: "01a077e0-ff5d-79b5-be4d-683595b672a9",

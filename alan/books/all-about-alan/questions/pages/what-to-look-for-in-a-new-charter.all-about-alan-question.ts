@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatToLookForInANewCharter = {
   id: "01a077ee-d27a-7df9-8f3f-1b9dff3c040e",

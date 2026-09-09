@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIOrderMyGreatCoursesSweep = {
   id: "01a077e8-7db9-74ff-b778-85cbea6ac4cf",

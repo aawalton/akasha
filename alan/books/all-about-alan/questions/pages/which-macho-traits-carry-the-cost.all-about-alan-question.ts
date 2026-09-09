@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichMachoTraitsCarryTheCost = {
   id: "01a077ea-d1ce-7927-8b8d-8593469796c9",

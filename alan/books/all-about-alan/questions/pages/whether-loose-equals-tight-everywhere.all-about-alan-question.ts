@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherLooseEqualsTightEverywhere = {
   id: "01a077e8-2e11-72bc-9d91-d71991835199",

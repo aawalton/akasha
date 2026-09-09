@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereTraumaRulesPartFromChosenRules = {
   id: "01a077e9-f5a7-70e8-b3eb-c1ccd1b249c1",

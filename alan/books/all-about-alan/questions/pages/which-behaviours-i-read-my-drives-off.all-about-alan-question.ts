@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichBehavioursIReadMyDrivesOff = {
   id: "01a077f1-13b8-7607-9073-3158c7d711d4",

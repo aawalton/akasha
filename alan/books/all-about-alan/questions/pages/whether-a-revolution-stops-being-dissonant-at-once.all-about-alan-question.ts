@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherARevolutionStopsBeingDissonantAtOnce = {
   id: "01a077f0-12fb-76d6-ac02-6f3f702dbc0c",

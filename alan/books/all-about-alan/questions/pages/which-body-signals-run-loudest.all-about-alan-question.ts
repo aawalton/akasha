@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichBodySignalsRunLoudest = {
   id: "01a077f1-13b7-71b5-a67b-ef82471d8425",

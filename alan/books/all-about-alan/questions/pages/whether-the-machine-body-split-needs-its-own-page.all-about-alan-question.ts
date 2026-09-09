@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheMachineBodySplitNeedsItsOwnPage = {
   id: "01a077ed-b13a-70e8-b173-fa0c3065297a",

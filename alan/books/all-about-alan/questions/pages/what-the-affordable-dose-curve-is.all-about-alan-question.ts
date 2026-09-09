@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheAffordableDoseCurveIs = {
   id: "01a077ed-3180-783c-ba13-6fd0f8161a81",

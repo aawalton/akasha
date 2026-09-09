@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheBorrowedReturnFades = {
   id: "01a077f1-67bd-7b5e-a73b-a7ab5186e8e9",

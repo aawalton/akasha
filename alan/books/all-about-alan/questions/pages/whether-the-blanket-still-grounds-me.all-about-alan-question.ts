@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheBlanketStillGroundsMe = {
   id: "01a077ed-806a-7d8c-a531-41a78d592b2e",

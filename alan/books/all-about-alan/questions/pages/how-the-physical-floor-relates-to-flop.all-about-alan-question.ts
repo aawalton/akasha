@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howThePhysicalFloorRelatesToFlop = {
   id: "01a077ea-fd54-782f-ad20-4ae667202007",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherJensMemoryRunsLighterOnGoodDays = {
   id: "01a077ea-b02d-793c-b6e1-b7356e199847",

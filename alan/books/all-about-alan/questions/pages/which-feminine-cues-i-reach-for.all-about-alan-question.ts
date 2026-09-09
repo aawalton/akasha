@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichFeminineCuesIReachFor = {
   id: "01a077eb-e695-7dd1-acf3-6f68bc828310",

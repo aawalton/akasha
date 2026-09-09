@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherInterestGatingIsItsOwnMechanism = {
   id: "01a077ee-0b8c-73e8-909e-98999ed7a584",

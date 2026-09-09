@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherPositivePullEverStartsMe = {
   id: "01a077ec-a19f-7985-96b4-b48278019c09",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheFiringCarriesAFreshEncodingSignature = {
   id: "01a077f0-49ea-7d89-b044-6cf376623721",

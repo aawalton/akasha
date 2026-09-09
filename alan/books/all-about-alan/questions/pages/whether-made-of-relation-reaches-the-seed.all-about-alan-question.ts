@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMadeOfRelationReachesTheSeed = {
   id: "01a077eb-ea0f-70bd-b12a-21fa5ede049a",

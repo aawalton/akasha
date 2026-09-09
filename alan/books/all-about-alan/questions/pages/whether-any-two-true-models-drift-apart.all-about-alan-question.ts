@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnyTwoTrueModelsDriftApart = {
   id: "01a077e7-7f57-7e4b-9f10-24376f8f475c",

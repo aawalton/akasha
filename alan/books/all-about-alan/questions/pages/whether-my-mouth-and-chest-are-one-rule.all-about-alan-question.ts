@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyMouthAndChestAreOneRule = {
   id: "01a077e7-9807-71cc-b310-905e3f4c5931",

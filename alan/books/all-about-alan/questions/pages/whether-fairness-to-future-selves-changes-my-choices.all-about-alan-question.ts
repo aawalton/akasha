@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherFairnessToFutureSelvesChangesMyChoices = {
   id: "01a077ec-34d9-7a0f-9056-05fae5966be9",

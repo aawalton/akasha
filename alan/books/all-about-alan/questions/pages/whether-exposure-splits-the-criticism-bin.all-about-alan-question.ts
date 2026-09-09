@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherExposureSplitsTheCriticismBin = {
   id: "01a077ec-3d84-7312-8e82-655fb78d9cbe",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatChoosesBetweenRewritingAndGrinding = {
   id: "01a077ec-a1a1-7872-b483-2b2038d984a2",

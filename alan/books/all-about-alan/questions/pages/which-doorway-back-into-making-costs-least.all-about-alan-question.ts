@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichDoorwayBackIntoMakingCostsLeast = {
   id: "01a077ee-510b-7c09-9f71-57c3f5e77d89",

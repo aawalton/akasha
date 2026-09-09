@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWouldInstrumentMyArousalBand = {
   id: "01a077e3-2cdb-7e27-ab1a-ba0b00f549f0",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherWeightingWhatMattersFollowsFromNoLoops = {
   id: "01a077ee-add9-7a08-80a6-ccac670f286c",

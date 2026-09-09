@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyColourBandsRideARollingSigma = {
   id: "01a077e2-b832-70fa-8d1d-163fa8f0247c",

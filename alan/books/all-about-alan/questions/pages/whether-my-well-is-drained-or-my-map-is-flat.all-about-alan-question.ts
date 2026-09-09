@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyWellIsDrainedOrMyMapIsFlat = {
   id: "01a077ed-b13b-7a64-85c6-c55e5c3b0af7",

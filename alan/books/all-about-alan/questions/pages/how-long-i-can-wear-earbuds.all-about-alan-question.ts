@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howLongICanWearEarbuds = {
   id: "01a077e3-7abf-7c72-b9e8-55e687348f68",

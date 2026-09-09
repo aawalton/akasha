@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherNotPrePlayingPainMakesMeDecisive = {
   id: "01a077e6-9631-7fdf-be13-3c2881d656b7",

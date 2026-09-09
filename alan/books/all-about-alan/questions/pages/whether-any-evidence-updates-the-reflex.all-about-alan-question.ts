@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnyEvidenceUpdatesTheReflex = {
   id: "01a077ed-f62a-7212-a09e-32ac977c84ef",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherHardNightsCrossIntoADisorder = {
   id: "01a077ec-856f-7e76-9e88-546fcdea98db",

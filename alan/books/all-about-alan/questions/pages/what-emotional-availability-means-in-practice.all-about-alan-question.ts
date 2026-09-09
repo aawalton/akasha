@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatEmotionalAvailabilityMeansInPractice = {
   id: "01a077f1-e2fd-7d86-b4e2-e3ebfb46f420",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const wherePainCrossesIntoLonging = {
   id: "01a077e4-89fa-7786-a873-79a598c5c4b1",

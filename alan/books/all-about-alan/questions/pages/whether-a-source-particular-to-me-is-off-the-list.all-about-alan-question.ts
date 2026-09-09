@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherASourceParticularToMeIsOffTheList = {
   id: "01a077ee-213f-725a-9f63-029da6486972",

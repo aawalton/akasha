@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyLawOfEmotionalPhysicsIsAnAsymmetry = {
   id: "01a077e1-e4ef-72cd-b72b-54f1acf9f347",

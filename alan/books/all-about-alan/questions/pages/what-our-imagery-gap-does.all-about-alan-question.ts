@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatOurImageryGapDoes = {
   id: "01a077f0-5406-7b69-86d1-9223fda7de3b",

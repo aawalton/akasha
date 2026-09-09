@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatDemotesAnActivityHalfwayThrough = {
   id: "01a077e5-3b55-78bf-b04e-ca33495b5377",

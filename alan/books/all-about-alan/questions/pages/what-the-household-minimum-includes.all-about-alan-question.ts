@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheHouseholdMinimumIncludes = {
   id: "01a077ef-88a0-706c-8821-f95cb8364c7a",

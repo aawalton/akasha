@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howDependenceAndReachComposeIntoSafety = {
   id: "01a077f0-d5c5-75f3-be7a-b91d2f9a0a31",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherVisibilityCouldReplaceNeverInitiating = {
   id: "01a077eb-4f46-7f55-b639-7813e060fa30",

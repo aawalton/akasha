@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howStressLevelAndStressCapacitySeparate = {
   id: "01a077e3-561a-78d9-9606-a02fe8c9191c",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMeasuringTheVisualSideWouldShow = {
   id: "01a077e5-5c76-79fc-826c-9a80ff7dfb4f",

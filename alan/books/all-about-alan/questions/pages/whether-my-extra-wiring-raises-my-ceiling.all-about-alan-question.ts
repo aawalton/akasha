@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyExtraWiringRaisesMyCeiling = {
   id: "01a077ef-d2c0-74d6-bc52-245a852818c6",

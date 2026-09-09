@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIGrieveSelvesIHaveNoContinuityWith = {
   id: "01a077e6-4f26-7473-8d5c-d3c821ecd14b",

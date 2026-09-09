@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereCueingStopsWorking = {
   id: "01a077da-697b-78c8-b5e4-b215f12f62f2",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichLeverLiftsTheCentre = {
   id: "01a077ef-7e98-7af8-9b47-cb95d81ae0be",

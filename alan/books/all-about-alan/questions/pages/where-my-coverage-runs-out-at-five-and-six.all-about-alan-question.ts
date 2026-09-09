@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereMyCoverageRunsOutAtFiveAndSix = {
   id: "01a077e4-c6d0-7ad9-903e-d32aedd7f20a",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIWouldCatchCodeDriftingFromDocs = {
   id: "01a077ed-808a-7f1b-bcaf-56a9f190205f",

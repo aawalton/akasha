@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherEmptyAndListenSubtractsAnything = {
   id: "01a077e5-a849-7858-8f4e-8c5d6212a35e",

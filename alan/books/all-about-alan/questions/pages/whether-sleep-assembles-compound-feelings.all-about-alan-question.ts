@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherSleepAssemblesCompoundFeelings = {
   id: "01a077ed-6e28-7028-a8c5-e00195d84421",

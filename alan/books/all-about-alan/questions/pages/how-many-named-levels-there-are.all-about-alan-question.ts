@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howManyNamedLevelsThereAre = {
   id: "01a077f3-1084-7ff8-8d2c-5ab82718c73e",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherInterestOverridesMySafetyLine = {
   id: "01a077e6-544a-7eec-857a-673e3b90a0bb",

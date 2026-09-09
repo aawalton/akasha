@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whyTheChargeKeysToFinishingSetup = {
   id: "01a077eb-6c35-7220-b1c3-faccde48f5a3",

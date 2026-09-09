@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatContinuousDeployStillNeeds = {
   id: "01a077ee-76c7-766c-8c4b-a344c051c9ac",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherReadingASongAloudAddsAnything = {
   id: "01a077e6-608b-77c2-ac27-4ea5d7f1534c",

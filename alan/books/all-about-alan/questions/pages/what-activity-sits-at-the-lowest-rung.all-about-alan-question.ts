@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatActivitySitsAtTheLowestRung = {
   id: "01a077eb-39a2-7726-9ccb-ace5ae144e34",

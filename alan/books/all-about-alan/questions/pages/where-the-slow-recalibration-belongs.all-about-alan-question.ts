@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereTheSlowRecalibrationBelongs = {
   id: "01a077ee-c88f-71ee-951e-4126d583bef2",

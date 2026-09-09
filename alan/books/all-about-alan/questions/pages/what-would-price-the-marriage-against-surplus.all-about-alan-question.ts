@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWouldPriceTheMarriageAgainstSurplus = {
   id: "01a0784d-abb5-75db-8a76-3bee12c793aa",

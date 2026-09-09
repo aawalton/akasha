@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichSkillInTheClosenessRigLeads = {
   id: "01a077f0-16d1-78b3-a9ab-c76c35d98ae2",

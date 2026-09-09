@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMyListOfUsualSourcesHolds = {
   id: "01a077ee-213f-7d29-84b5-93739ec33b3f",

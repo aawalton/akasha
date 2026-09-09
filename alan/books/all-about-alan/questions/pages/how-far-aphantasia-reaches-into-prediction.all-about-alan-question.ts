@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFarAphantasiaReachesIntoPrediction = {
   id: "01a0786e-2579-739f-977e-91c00fe3ba07",

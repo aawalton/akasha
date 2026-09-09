@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereMyPriorInHerFavourYields = {
   id: "01a077e2-88c0-7672-a9a2-187befac9b53",

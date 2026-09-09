@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOneDialDrivesFeelingAndCost = {
   id: "01a077e5-3347-7500-a8e2-e43c0adc4e12",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherGriefAndGratitudeAreOnePowerSource = {
   id: "01a077e3-c60a-706b-bcc7-a9d732074fd9",

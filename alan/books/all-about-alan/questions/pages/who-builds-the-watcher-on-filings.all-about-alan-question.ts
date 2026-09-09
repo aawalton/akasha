@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whoBuildsTheWatcherOnFilings = {
   id: "01a077ee-d27a-7329-94a9-3bfb659ce040",

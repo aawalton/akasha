@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howTheEightyPercentScores = {
   id: "01a077ed-b139-78c0-91a7-c713936c4a51",

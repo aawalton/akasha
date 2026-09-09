@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAPainlessDriftGoesUnrecognised = {
   id: "01a077e9-5ccd-7bb8-89da-747c0481c79c",

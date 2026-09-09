@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWritesANewMeasureIntoTheMap = {
   id: "01a077f1-7f7d-7515-bec9-810bbd0b6a80",

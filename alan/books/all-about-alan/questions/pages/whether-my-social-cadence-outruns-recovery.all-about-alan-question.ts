@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMySocialCadenceOutrunsRecovery = {
   id: "01a07813-be06-7800-9cc1-27ffdbcb47c7",

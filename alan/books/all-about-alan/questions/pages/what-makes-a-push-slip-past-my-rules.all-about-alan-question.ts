@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMakesAPushSlipPastMyRules = {
   id: "01a077e5-8833-78e5-9efa-4a10061964ca",

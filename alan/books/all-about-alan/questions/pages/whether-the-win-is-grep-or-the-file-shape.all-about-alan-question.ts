@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheWinIsGrepOrTheFileShape = {
   id: "01a077e9-6e1c-7134-84ef-5a22fbb4126e",

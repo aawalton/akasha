@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherStaminaAndManaReadTheSameWay = {
   id: "01a077e2-b833-76ed-b07c-722e5bb4659c",

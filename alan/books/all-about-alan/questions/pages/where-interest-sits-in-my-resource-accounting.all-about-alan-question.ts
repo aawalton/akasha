@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereInterestSitsInMyResourceAccounting = {
   id: "01a077e6-d93e-7cc1-9275-060c05e7a276",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMyBreathCountingRunsOn = {
   id: "01a077ea-34fb-72fb-a2e7-22a17f86674e",

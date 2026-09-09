@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherRobotModeSavesCapacity = {
   id: "01a077ea-1c3b-7a35-869a-7a18945c347a",

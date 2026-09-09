@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichPartsOfMyEthicsAreMine = {
   id: "01a077e4-c13b-759f-9cc3-b50834bc5a88",

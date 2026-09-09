@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichReflexesAMemoryStillFires = {
   id: "01a077e9-7935-7e2e-922a-b39cbb53beaf",

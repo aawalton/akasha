@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatClosingLooksLikeForNewsAndChats = {
   id: "01a077eb-4330-7ba6-a17d-0cccfec53a98",

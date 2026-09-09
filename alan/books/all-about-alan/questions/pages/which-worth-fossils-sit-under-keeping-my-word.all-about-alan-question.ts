@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichWorthFossilsSitUnderKeepingMyWord = {
   id: "01a077e8-a719-74ac-a2dd-1cd9c0595354",

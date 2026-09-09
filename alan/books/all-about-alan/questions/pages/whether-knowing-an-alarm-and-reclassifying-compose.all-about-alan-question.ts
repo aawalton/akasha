@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherKnowingAnAlarmAndReclassifyingCompose = {
   id: "01a077e5-862b-7551-af77-7432d8c7bd66",

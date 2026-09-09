@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFastMyWarmSetFades = {
   id: "01a077e8-bbe5-7726-b000-d9e987cd74da",

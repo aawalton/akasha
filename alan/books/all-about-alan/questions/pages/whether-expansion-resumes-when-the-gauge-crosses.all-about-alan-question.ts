@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherExpansionResumesWhenTheGaugeCrosses = {
   id: "01a077e6-06ef-7aa2-8f82-85a13d24bd82",

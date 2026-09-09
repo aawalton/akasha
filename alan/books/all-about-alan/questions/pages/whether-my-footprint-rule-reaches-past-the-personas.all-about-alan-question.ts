@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyFootprintRuleReachesPastThePersonas = {
   id: "01a077e3-bfff-7bf0-bf14-4f1e2a7b9128",

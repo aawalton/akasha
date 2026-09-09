@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherEachTankHasItsOwnAche = {
   id: "01a077e8-436a-7915-8630-5d1af47b2486",

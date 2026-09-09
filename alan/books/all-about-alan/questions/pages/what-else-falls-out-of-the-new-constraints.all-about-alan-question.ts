@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatElseFallsOutOfTheNewConstraints = {
   id: "01a077f1-875b-786b-b6e4-b37cbd5d0886",

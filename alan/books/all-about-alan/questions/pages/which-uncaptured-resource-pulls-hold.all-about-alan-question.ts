@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichUncapturedResourcePullsHold = {
   id: "01a077e3-a519-75bc-ba79-812d68522ee8",

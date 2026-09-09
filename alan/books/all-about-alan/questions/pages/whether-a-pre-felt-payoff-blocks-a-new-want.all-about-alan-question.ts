@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAPreFeltPayoffBlocksANewWant = {
   id: "01a077f1-7f7e-7f40-8603-45c5d7e3c202",

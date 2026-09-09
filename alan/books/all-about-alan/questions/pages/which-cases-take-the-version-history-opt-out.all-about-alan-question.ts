@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichCasesTakeTheVersionHistoryOptOut = {
   id: "01a077e5-043f-7371-ad02-334589bb2c3c",

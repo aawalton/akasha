@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheFourFactorsDoseSeparately = {
   id: "01a077ed-3181-704a-a40c-b49960d2f453",

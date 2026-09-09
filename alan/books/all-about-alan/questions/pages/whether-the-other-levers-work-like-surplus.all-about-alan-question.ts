@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheOtherLeversWorkLikeSurplus = {
   id: "01a07807-d9fa-7683-b33a-5d56ad992f7d",

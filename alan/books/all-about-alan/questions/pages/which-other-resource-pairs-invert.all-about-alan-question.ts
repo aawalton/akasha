@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichOtherResourcePairsInvert = {
   id: "01a077e3-a518-7036-ac36-8055cc381cf3",

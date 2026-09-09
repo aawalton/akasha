@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatShareOfRecoveryRunsThroughTheNerve = {
   id: "01a077ef-7e98-71d6-98d5-401a86ef707a",

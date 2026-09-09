@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatAPositiveGroundForMyWorthWouldTake = {
   id: "01a077e3-c001-7eb5-8038-6af746f7a96d",

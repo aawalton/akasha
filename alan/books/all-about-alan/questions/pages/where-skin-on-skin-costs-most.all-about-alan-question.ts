@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereSkinOnSkinCostsMost = {
   id: "01a077e8-2e0f-72de-8476-762c4be82b51",

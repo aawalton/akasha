@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherADrilledSkillEverFeelsNative = {
   id: "01a077e7-d87b-7682-907f-2bd4cf212eef",

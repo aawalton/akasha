@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherOrdinancesLandAsPractice = {
   id: "01a077e7-85d5-7019-8936-eb4aef7e0abc",

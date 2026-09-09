@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherLowSafetyPushesMyAssentsOntoDefinitions = {
   id: "01a077ef-c2cf-7aad-844d-5b4384e4eb3b",

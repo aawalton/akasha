@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howTheFootprintSortsIntoAvoidanceAndArmour = {
   id: "01a077ea-c744-7f68-babf-4b08afbdb485",

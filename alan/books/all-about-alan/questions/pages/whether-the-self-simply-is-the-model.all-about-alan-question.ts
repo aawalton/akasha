@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheSelfSimplyIsTheModel = {
   id: "01a077eb-ea10-7124-882a-b7afb8552989",

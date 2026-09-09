@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howMyGameOfLifeAlgorithmWorked = {
   id: "01a077e2-fc02-7d52-8809-eef426f0a3f3",

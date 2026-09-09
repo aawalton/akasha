@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheBeliefMethodReachesAConditionedResponse = {
   id: "01a077eb-ffdd-7fef-847f-4a4654ae9935",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheCoreHumanPartsCanBeEnumerated = {
   id: "01a077e7-4c1b-78ab-9ffd-b33aa0db5d63",

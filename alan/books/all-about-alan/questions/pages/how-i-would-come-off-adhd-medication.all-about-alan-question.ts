@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIWouldComeOffAdhdMedication = {
   id: "01a077e2-d79a-71bb-b581-21bb47791da8",

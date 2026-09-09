@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howSomethingRetiresFromTheRotation = {
   id: "01a077ef-f640-75a6-be55-89a1101ea18d",

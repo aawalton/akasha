@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichStatesMySelfReportCollapses = {
   id: "01a077e3-3643-7a5c-a4a5-fa97c17b69d3",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherEffortPerUpdateStaysConstant = {
   id: "01a077e9-010a-72a4-bfe4-c5e7082f704b",

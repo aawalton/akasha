@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherBoredomStartsATeamICannotKeepUpWith = {
   id: "01a077ea-312f-7a1e-947e-65b5432d2f1b",

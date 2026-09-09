@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMyActualWeightHistoryIs = {
   id: "01a077ed-525c-73a1-9f20-3a467350dfe4",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatHappensWhenAThingResistsChunking = {
   id: "01a077ef-f641-7687-a917-84c2db248f77",

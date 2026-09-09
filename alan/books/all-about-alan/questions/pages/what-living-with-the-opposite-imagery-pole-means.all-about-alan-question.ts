@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatLivingWithTheOppositeImageryPoleMeans = {
   id: "01a077ea-b02e-7d5e-acbe-bb379defb842",

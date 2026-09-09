@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheShakingResolvedAfterICameHome = {
   id: "01a077eb-1180-73f2-969a-c6f0bf5a2dbd",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheArrivalsCountAsEvidence = {
   id: "01a077e9-5ccd-790d-887f-54d646ff430c",

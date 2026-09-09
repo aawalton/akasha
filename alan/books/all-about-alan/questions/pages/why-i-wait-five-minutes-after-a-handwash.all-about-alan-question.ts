@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whyIWaitFiveMinutesAfterAHandwash = {
   id: "01a077e7-263b-7c2f-ad7f-e9196bb0f698",

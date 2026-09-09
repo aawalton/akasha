@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheCommitmentShieldBecomesUnnecessary = {
   id: "01a077e5-0103-7e2b-9f07-69ebc75fbab5",

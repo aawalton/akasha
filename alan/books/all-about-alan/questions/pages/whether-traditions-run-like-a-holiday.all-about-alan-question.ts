@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTraditionsRunLikeAHoliday = {
   id: "01a077f1-67bc-778b-a102-55dc506ba230",

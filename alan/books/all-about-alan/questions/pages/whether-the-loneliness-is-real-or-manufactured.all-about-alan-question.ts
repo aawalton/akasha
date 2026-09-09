@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheLonelinessIsRealOrManufactured = {
   id: "01a077e2-8350-74ce-add9-4b5c1cf0739b",

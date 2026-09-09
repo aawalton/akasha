@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheGaugeReadingRefersTo = {
   id: "01a077eb-1da3-748a-8833-8f01320a92c3",

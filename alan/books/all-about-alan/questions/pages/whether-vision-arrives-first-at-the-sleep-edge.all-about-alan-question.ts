@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherVisionArrivesFirstAtTheSleepEdge = {
   id: "01a077ee-6625-79e6-a478-8746a9ca7a64",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherPreferringWomensCompanyIsTheCategory = {
   id: "01a077e8-436b-7061-9301-fd466e6cf571",

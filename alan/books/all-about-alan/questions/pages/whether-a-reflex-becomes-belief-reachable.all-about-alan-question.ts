@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAReflexBecomesBeliefReachable = {
   id: "01a077ef-73b9-73a2-8444-b08756cdb6cf",

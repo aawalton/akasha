@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAFreshAxisReachesMeAgain = {
   id: "01a077e5-103e-74dc-bb40-af88692f1e31",

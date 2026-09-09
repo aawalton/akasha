@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWantingMeasuresUnderThinAccess = {
   id: "01a077e5-3345-7304-86f3-84c55fbfb45a",

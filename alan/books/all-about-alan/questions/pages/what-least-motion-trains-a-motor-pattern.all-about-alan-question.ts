@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatLeastMotionTrainsAMotorPattern = {
   id: "01a077e5-e07e-795f-ad30-526937c844dd",

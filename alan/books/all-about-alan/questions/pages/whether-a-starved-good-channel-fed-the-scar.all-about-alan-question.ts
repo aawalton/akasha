@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAStarvedGoodChannelFedTheScar = {
   id: "01a077e4-8397-7061-b25c-caa89089aa41",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMySmallerStimsNeedSeparating = {
   id: "01a077e4-49a8-76fa-9b78-090c6ef87c07",

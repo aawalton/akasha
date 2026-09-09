@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherLettingCleanupGoGeneralises = {
   id: "01a077e7-b528-704e-a089-9a7a25ceb7fc",

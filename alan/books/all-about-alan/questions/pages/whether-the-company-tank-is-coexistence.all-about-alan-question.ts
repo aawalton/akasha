@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheCompanyTankIsCoexistence = {
   id: "01a077e8-436c-75d6-9452-7e1e77c2ec5f",

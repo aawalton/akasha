@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyResourceStatePicksTheMode = {
   id: "01a077e5-e07e-7a8c-9ac1-3a1f42560b5b",

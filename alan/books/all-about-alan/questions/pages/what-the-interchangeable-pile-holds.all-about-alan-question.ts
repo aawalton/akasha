@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheInterchangeablePileHolds = {
   id: "01a077e5-4d70-7ce7-9b33-cd18311e7871",

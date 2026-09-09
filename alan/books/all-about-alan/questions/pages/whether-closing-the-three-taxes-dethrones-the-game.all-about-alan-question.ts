@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherClosingTheThreeTaxesDethronesTheGame = {
   id: "01a077ed-083c-7fa2-93a3-5645ecf33b67",

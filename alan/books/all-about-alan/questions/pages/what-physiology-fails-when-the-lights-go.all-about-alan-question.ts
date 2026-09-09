@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatPhysiologyFailsWhenTheLightsGo = {
   id: "01a077ef-53a7-72d2-ac7a-01d3a45289ba",

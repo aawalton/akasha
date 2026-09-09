@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howACandidateReplacementBeliefIsGenerated = {
   id: "01a077eb-ffdc-7383-9e3d-23604620d11b",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherCognitiveFitAndOrientationAreIndependent = {
   id: "01a077e5-103d-749a-9622-7f6ce829292c",

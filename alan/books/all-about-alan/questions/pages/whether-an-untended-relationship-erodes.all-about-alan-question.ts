@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnUntendedRelationshipErodes = {
   id: "01a077e2-2608-70d2-be21-7c6c06f44eff",

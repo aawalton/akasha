@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichLotionBrandIKeep = {
   id: "01a077e7-2639-79d1-bcf2-485c316e3559",

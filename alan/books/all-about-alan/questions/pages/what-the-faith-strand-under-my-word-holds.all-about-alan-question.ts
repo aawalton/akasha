@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheFaithStrandUnderMyWordHolds = {
   id: "01a077e8-a718-797d-ad25-ba27c425a6ec",

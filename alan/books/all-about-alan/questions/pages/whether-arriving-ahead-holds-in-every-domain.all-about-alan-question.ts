@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherArrivingAheadHoldsInEveryDomain = {
   id: "01a077e1-758a-777b-b885-c2c2de9f252d",

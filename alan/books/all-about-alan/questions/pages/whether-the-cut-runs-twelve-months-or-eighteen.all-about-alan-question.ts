@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheCutRunsTwelveMonthsOrEighteen = {
   id: "01a077ef-88a0-718a-be14-ba68a1113b28",

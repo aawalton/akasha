@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheCatastrophicBandDriftsDown = {
   id: "01a077e5-95ef-7682-ad4e-bd9bc3a76594",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichTrustSignalsBeyondResistingCount = {
   id: "01a077ef-db06-7b21-bef4-1089497a9aa4",

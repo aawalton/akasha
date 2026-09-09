@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMyDeclineThresholdsAreMine = {
   id: "01a077ec-fe39-7afe-939d-a3dda316ac46",

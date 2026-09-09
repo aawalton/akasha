@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherANewChannelIsDescribableInAdvance = {
   id: "01a077ed-ff3c-755b-b782-6e4d62cf8a40",

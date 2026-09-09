@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherMaskingDrawsOnMyScarceWindow = {
   id: "01a077e6-4df6-7eda-b5f8-6b3f1f4a20b9",

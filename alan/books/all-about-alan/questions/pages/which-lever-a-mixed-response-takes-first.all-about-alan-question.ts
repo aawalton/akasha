@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichLeverAMixedResponseTakesFirst = {
   id: "01a077ef-73b8-7d3b-be33-2c9562f4dcb2",

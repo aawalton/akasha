@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFastEachSafetyLeverRuns = {
   id: "01a077ef-7e97-7420-b12f-83e017618fe4",

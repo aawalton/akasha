@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereTheWeightOfTheFindingLands = {
   id: "01a077f0-1414-7fcd-b166-9b7de84247e2",

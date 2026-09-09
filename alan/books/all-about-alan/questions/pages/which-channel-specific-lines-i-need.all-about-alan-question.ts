@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichChannelSpecificLinesINeed = {
   id: "01a077eb-4f47-7a63-90e7-64673eba15d8",

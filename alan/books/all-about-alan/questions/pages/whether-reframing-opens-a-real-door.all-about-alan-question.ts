@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherReframingOpensARealDoor = {
   id: "01a077ea-fd53-7eb1-a8c9-6de59d0784a8",

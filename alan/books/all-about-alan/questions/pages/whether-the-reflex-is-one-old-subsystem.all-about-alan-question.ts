@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheReflexIsOneOldSubsystem = {
   id: "01a077e9-7936-7f6e-ae0d-9b44a671355e",

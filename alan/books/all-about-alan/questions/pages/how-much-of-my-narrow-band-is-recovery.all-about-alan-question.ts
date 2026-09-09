@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howMuchOfMyNarrowBandIsRecovery = {
   id: "01a077e3-2cd9-7f2f-8040-edbb0434ea71",

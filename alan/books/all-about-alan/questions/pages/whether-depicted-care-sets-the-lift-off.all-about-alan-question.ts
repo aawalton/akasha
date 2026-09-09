@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherDepictedCareSetsTheLiftOff = {
   id: "01a077e5-cbc0-73c2-9e19-5929c65bf4f3",

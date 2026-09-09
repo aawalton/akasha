@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howIComeBackOutOfFightFlightFreezeOrFawn = {
   id: "01a077e4-89f9-7461-861f-2ae9c3f046a5",

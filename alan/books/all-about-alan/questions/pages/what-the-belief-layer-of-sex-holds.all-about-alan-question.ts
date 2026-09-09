@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheBeliefLayerOfSexHolds = {
   id: "01a077e9-2b3c-79f4-aa29-33eff50ba766",

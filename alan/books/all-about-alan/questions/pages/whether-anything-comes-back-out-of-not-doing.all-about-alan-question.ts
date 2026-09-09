@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnythingComesBackOutOfNotDoing = {
   id: "01a077ee-add9-7cd1-b3a2-4ef1844aaffb",

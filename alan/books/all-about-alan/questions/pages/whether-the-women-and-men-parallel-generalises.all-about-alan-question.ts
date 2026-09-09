@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheWomenAndMenParallelGeneralises = {
   id: "01a077e8-b073-749b-9e80-ade90aca61b2",

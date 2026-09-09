@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherImmuneActivationFeedsTheLoad = {
   id: "01a077eb-c349-7776-ab70-142c39af7cd0",

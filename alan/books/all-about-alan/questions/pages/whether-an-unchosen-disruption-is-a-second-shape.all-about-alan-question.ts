@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnUnchosenDisruptionIsASecondShape = {
   id: "01a077e7-263b-7a4f-937e-afec23b204d9",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherICanAffordRejectionInTime = {
   id: "01a077ed-ace5-727d-b381-50f7926b5190",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichFrameworksITookUpAndDropped = {
   id: "01a077ee-41d4-7508-9a76-a19a060864ee",

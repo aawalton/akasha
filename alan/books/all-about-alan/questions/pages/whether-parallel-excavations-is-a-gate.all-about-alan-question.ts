@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherParallelExcavationsIsAGate = {
   id: "01a077e8-7dd9-768b-a3f3-d34f04c8ca73",

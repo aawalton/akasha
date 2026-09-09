@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAMeasureCanBeRetired = {
   id: "01a077f1-7f7e-7fba-a049-f886bb21c7d3",

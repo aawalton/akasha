@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichPeopleAndPlacesCarryUrgency = {
   id: "01a077e4-25dd-76da-aaa2-7d852eaa77e7",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheRenegotiationStartsAtAll = {
   id: "01a077ea-9242-7dd6-a912-a0b030e27014",

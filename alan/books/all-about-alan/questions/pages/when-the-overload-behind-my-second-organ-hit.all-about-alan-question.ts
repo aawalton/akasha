@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whenTheOverloadBehindMySecondOrganHit = {
   id: "01a077e5-4d71-72b2-bfbb-fc20dd7484ef",

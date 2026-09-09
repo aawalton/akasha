@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherSelfImprovementIsTheFixedPoint = {
   id: "01a077e8-9d1f-797a-a148-c520a8144681",

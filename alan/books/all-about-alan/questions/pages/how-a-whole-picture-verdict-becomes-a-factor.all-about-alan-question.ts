@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howAWholePictureVerdictBecomesAFactor = {
   id: "01a077e5-d96b-7c6f-b4db-2fc4ab4f34a8",

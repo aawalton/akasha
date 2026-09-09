@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherSteerAgainstSurrenderRunsPastSleep = {
   id: "01a077ee-6625-7d2f-b160-e8bd9a397623",

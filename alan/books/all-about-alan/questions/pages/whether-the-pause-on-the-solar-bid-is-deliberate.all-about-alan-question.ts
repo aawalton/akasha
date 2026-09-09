@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherThePauseOnTheSolarBidIsDeliberate = {
   id: "01a077ee-e456-7bef-ab87-7e4aa7fcacf3",

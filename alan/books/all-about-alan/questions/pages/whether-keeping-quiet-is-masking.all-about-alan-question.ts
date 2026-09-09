@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherKeepingQuietIsMasking = {
   id: "01a077e7-aae3-7c86-b664-28362f80699d",

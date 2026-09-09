@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatMakesALayerTheNextToRedo = {
   id: "01a077ee-fbc5-7f05-9382-63976638e9b4",

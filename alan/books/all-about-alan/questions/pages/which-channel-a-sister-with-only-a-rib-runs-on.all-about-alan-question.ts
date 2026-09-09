@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichChannelASisterWithOnlyARibRunsOn = {
   id: "01a077ed-ff3c-7b0d-bdad-55d954bd909b",

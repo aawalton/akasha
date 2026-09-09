@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAVagalLeverShortensTheTail = {
   id: "01a077de-7e78-7675-abd4-630fb5cc4067",

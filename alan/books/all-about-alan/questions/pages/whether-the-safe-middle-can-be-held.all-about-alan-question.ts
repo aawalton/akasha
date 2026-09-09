@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheSafeMiddleCanBeHeld = {
   id: "01a077f0-d5c4-7a7e-8975-d067b6b7f99d",

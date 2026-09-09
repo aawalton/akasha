@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whenInterestCrossesIntoStarting = {
   id: "01a077e6-d93c-7f76-9cbf-6d95e74c633b",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherKindnessRidesAffectionsCurve = {
   id: "01a077e5-cbbf-7603-a05d-767c0b59f879",

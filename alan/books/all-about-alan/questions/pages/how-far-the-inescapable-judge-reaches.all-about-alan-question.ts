@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFarTheInescapableJudgeReaches = {
   id: "01a077e6-2beb-7cdc-9052-b7cdb71eccc6",

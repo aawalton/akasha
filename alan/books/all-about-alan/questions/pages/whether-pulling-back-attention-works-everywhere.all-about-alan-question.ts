@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherPullingBackAttentionWorksEverywhere = {
   id: "01a077e2-8352-7c34-90ec-85074b7c8495",

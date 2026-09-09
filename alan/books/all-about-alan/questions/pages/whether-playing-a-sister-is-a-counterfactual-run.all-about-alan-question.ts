@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherPlayingASisterIsACounterfactualRun = {
   id: "01a077f0-2485-7aaf-9130-ec7780ce9188",

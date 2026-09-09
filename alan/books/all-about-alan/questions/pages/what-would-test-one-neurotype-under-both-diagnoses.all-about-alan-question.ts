@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatWouldTestOneNeurotypeUnderBothDiagnoses = {
   id: "01a077ef-d2bf-7b4c-98bf-e3a0292c1806",

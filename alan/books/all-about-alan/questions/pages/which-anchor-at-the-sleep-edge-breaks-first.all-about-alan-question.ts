@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichAnchorAtTheSleepEdgeBreaksFirst = {
   id: "01a077ee-6625-74da-b728-cbdc07151fd5",

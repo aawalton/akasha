@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereFunSitsAmongMyValues = {
   id: "01a077ec-4d9a-705c-bbe6-a5aee6896c7d",

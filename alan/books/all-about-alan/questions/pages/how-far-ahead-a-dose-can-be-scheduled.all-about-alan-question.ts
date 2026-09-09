@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howFarAheadADoseCanBeScheduled = {
   id: "01a077ed-3182-7646-9a2b-08a9247d7655",

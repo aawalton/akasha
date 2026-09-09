@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTrustAndGroundingShareOneMechanism = {
   id: "01a077ef-db06-7db5-bb25-101db6072401",

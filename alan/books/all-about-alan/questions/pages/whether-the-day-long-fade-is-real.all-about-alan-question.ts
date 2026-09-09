@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheDayLongFadeIsReal = {
   id: "01a077e7-ad56-7c80-8658-d858ed3e7442",

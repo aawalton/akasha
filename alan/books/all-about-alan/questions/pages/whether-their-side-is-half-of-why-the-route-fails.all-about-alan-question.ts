@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheirSideIsHalfOfWhyTheRouteFails = {
   id: "01a077ef-254e-7054-8363-d2281cafeb06",

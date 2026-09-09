@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheBudgetFramingHoldsAcrossMyExecutiveFunctions = {
   id: "01a077ee-12ce-7c3a-a818-92e06841e1ff",

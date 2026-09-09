@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAttachmentIsAbsentOrUnreadable = {
   id: "01a077ef-ab2b-7a84-89cb-bd1795bd3c31",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatCalibratesMyHourScaleReference = {
   id: "01a077ed-5640-7f19-8e78-9923c8319a62",

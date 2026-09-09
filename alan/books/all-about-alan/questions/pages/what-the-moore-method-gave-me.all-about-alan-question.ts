@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatTheMooreMethodGaveMe = {
   id: "01a077e2-fc04-7a4d-aae6-6e11dc6dc04f",

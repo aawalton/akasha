@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherNamingASharedLackIsSayable = {
   id: "01a077f0-94d6-7878-96c1-d64805872124",

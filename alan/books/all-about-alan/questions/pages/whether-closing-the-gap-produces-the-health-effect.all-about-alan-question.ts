@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherClosingTheGapProducesTheHealthEffect = {
   id: "01a077ec-d1ba-7d1f-9795-e1c1fa117507",

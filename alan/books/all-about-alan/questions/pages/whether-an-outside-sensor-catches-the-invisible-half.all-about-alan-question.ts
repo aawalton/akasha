@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherAnOutsideSensorCatchesTheInvisibleHalf = {
   id: "01a077e9-14ae-7e48-aad4-bb6af3630812",

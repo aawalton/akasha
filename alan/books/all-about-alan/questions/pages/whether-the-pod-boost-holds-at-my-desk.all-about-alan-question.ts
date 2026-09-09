@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherThePodBoostHoldsAtMyDesk = {
   id: "01a077ec-71f5-78ea-a4f1-0e67b1978cf5",

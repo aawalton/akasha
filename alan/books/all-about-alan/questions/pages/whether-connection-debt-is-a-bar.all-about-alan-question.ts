@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherConnectionDebtIsABar = {
   id: "01a077e4-d814-744a-a471-7e6fb2287d8b",

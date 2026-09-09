@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whatALevelAboveMyHighestWouldMean = {
   id: "01a077f1-8985-7c90-8fd8-6ead09b99cbe",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherTheWeatherGateRunsBothWays = {
   id: "01a077ea-1093-7a1a-bcad-21a81d711353",

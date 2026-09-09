@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const howADreamSurvivesBrokenRecall = {
   id: "01a077ed-6e27-7c8b-abb1-7d83b1766b77",

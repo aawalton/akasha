@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whereElseILeanOnSomeoneElsesRecord = {
   id: "01a077e7-2984-7904-ada2-96577c542646",

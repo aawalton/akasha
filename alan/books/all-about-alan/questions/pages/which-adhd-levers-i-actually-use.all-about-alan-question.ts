@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whichAdhdLeversIActuallyUse = {
   id: "01a077e2-d799-76c9-98f6-c073ff6214e8",

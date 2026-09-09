@@ -1,4 +1,4 @@
-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.types.ts"
 
 export const whetherNoPullToReachBackHoldsEverywhere = {
   id: "01a077ef-9563-755a-8d48-8298fbd754c0",
