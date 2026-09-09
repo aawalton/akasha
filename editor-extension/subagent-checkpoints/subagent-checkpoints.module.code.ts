@@ -1,4 +1,4 @@
-import { mkdir, open, readFile, rename, writeFile } from "node:fs/promises"
+import { type FileHandle, mkdir, open, readFile, rename, writeFile } from "node:fs/promises"
 import * as os from "node:os"
 import * as path from "node:path"
 import { z } from "zod"
@@ -41,7 +41,7 @@ export async function anchorEnding(filePath: string, offset: number): Promise<st
   const from = Math.max(0, offset - ANCHOR_BYTES)
   const wanted = offset - from
   const buffer = Buffer.allocUnsafe(wanted)
-  let handle
+  let handle: FileHandle
   try {
     handle = await open(filePath, "r")
   } catch {

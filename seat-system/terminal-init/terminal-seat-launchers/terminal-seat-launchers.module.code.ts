@@ -130,7 +130,7 @@ function handlerForPersonLines(name: string, only: boolean): readonly string[] {
   ]
 }
 
-function seatNameSplitLines(name: string): readonly string[] {
+function seatNameSplitLines(): readonly string[] {
   return [
     `  if [ "$#" = 1 ] && [ "$name" != "\${name%%-*}" ] && ` +
       `[ -f "$_root/${SEAT_COMMAND_REL}" ] && ` +
@@ -151,7 +151,7 @@ export function seatNewFn(name: string): string {
     "    return 1",
     "  fi",
     `  ${ROOT_LOCAL}`,
-    ...seatNameSplitLines(name),
+    ...seatNameSplitLines(),
     ...handlerForPersonLines(name, true),
     ...payloadEscapeLines(name),
     `  local _${name}_typed_role="" _${name}_typed_domain="" _${name}_sorted=""`,
