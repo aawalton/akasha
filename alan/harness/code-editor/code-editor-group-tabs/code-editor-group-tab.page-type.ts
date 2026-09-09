@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type CodeEditorGroupTab = Page
 
 export const codeEditorGroupTab = {
   id: "01a06826-92e5-7347-826a-2896ea71b0ee",
@@ -19,4 +16,5 @@ export const codeEditorGroupTab = {
         "The next write takes the page of a tab closed while the tab's window is still open.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
