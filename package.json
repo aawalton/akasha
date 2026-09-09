@@ -47,7 +47,6 @@
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-service": "workspace:*",
     "@akasha/pages-access": "workspace:*",
-    "@akasha/temper-build-deploy-checks": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",

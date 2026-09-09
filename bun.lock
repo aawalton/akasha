@@ -35,7 +35,6 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
@@ -933,14 +932,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/build-deploy-checks": {
-      "name": "@akasha/temper-build-deploy-checks",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "typescript": "^5.8.3",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
@@ -1361,8 +1352,6 @@
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/addon-library-types"],
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
-
-    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/build-deploy-checks"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 

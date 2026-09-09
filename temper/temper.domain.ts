@@ -142,7 +142,7 @@ export const temper = {
     "eso-addon/temper-antiquities-addon",
     "domain/temper-addon-data",
     "eso-addon/temper-navigation-addon",
-    "workspace-package/temper-build-deploy-checks",
+    "domain/temper-build-deploy-checks",
     "eso-addon/temper-lib-addon-menu",
     "domain/temper-build-hash",
     "domain/temper-build-codec",

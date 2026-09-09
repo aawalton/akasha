@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperBuildDeployChecks = {
   id: "01a06287-7841-7e04-b566-2bb1b434877d",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-build-deploy-checks",
   definition: "how a game add-on is judged before it is built and shipped",
-  manifest: "json",
   parts: [
     "module/population-bound",
     "module/error-message",
@@ -99,7 +98,7 @@ export const temperBuildDeployChecks = {
     },
     {
       invariantKind: "gap",
-      statement: "Most code this package is made of is still outside akasha.",
+      statement: "Most code this folder is made of is still outside akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
