@@ -9,30 +9,6 @@ export const memoryReaperRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reaper sits outside the fleet that reaper polices.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every agent supervisor tree running as uid 1000 is watched.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A tree is killed only under host memory pressure.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The tree killed is the single largest by subtree total.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One tree goes per kill.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A kill is followed by a recovery window in which nothing else is killed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The reaper's configuration is stated when that reaper starts.",
     },
     {
