@@ -11,8 +11,10 @@ export const holdInside = {
   replacementPatterns: [
     { frame: "object", fromPattern: "holds [object]", toPattern: "has [object]" },
     { frame: "object", fromPattern: "hold [object]", toPattern: "have [object]" },
+    { frame: "object", fromPattern: "held [object]", toPattern: "had [object]" },
     { frame: "fronted", fromPattern: "holds", toPattern: "has" },
     { frame: "fronted", fromPattern: "hold", toPattern: "have" },
+    { frame: "fronted", fromPattern: "held", toPattern: "had" },
     { frame: "participle", fromPattern: "holding [object]", toPattern: "with [object]" },
     { frame: "placed", fromPattern: "is held in [place]", toPattern: "is in [place]" },
   ],
