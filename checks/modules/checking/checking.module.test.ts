@@ -26,7 +26,9 @@ import {
   ROOT,
   rootWith,
   SAMPLED,
+  type Sleeping,
   scratch,
+  sleepingAt,
   THROWS,
   THROWS_UNDER,
   TWO_CHECKS,
@@ -299,18 +301,19 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
 })
 
 test(
-  "a check refuses nothing in a change its own input turns away whole",
+  "a check that judges refuses nothing in a change its own input turns away whole",
   async () => {
     const asked = shadowAsked(over(SAMPLED))
     const taken: string[] = []
+    const held = new Map<string, Sleeping>()
     for (const one of checksIn(ROOT)) {
       const takes = one.isInput
-      if (takes === null) continue
+      if (takes === null || one.runsOn.length === 0) continue
       const asleep = SAMPLED.filter((path) => !takes(path, asked))
       if (asleep.length === 0) continue
       taken.push(one.slug)
-      const change = over(asleep)
-      expect([one.slug, await one.run(change, shadowAsked(change))]).toEqual([one.slug, []])
+      const sleeping = sleepingAt(held, asleep)
+      expect([one.slug, await one.run(sleeping.change, sleeping.shadow)]).toEqual([one.slug, []])
     }
     expect(taken.length).toBeGreaterThan(0)
   },

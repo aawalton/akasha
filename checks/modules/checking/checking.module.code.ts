@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
@@ -20,6 +21,7 @@ export type Gathered = {
   readonly slug: string
   readonly page: string
   readonly root: string
+  readonly code?: string | null
   readonly runsOn: readonly Phase[]
   readonly isInput: Input | null
   readonly run: AnyRunning
@@ -28,6 +30,8 @@ export type Gathered = {
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 
 const CODE = "code"
+
+const CHECK_CODE = "check.code"
 
 const TS = "ts"
 
@@ -93,6 +97,12 @@ function runningIn(at: string, slug: string, beside: string): AnyRunning | null 
   return every.length === 1 && every[0] !== undefined ? (every[0] as AnyRunning) : null
 }
 
+export function codeOf(root: string, page: string): string | null {
+  const held = besideAt(page, CHECK_CODE, TS)
+  if (held !== null && existsSync(join(root, held))) return held
+  return besideAt(page, CODE, TS)
+}
+
 export function checksIn(root: string): readonly Gathered[] {
   const found: Gathered[] = []
   for (const path of checkPagesIn(root)) {
@@ -112,7 +122,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (runsOn === null) {
       throw new Error(`${path} is a check page, and states no phase a runner can honour`)
     }
-    const beside = besideAt(path, CODE, TS)
+    const beside = codeOf(root, path)
     if (beside === null) {
       throw new Error(`${path} is a check page, and no code file can sit beside a name like it`)
     }
@@ -120,7 +130,7 @@ export function checksIn(root: string): readonly Gathered[] {
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, root, runsOn, isInput: inputIn(run), run })
+    found.push({ slug, page: path, root, code: beside, runsOn, isInput: inputIn(run), run })
   }
   for (const one of modelChecksIn(root)) {
     const runsOn: Phase[] = []
@@ -158,9 +168,8 @@ function takesFrom(one: Gathered, change: Change, shadow: Shadow): boolean {
 }
 
 function takenAway(one: Gathered, change: Change): boolean {
-  const code = besideAt(one.page, CODE, TS)
   for (const path of change.changed) {
-    if (path !== one.page && path !== code) continue
+    if (path !== one.page && path !== one.code) continue
     if (change.after(path) === null) return true
   }
   return false

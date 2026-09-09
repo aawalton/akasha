@@ -66,6 +66,18 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check whose own code file is there is loaded from that file.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A check without one is loaded from the code its module page names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file a check was loaded from is the file taking that check away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check stating no input runs for every change.",
     },
     {

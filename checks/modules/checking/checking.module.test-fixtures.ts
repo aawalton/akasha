@@ -12,6 +12,7 @@ import {
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
@@ -194,6 +195,21 @@ export function overIn(root: string, changed: readonly string[]): Change {
 
 export function over(changed: readonly string[]): Change {
   return overIn(ROOT, changed)
+}
+
+export type Sleeping = {
+  readonly change: Change
+  readonly shadow: Shadow
+}
+
+export function sleepingAt(held: Map<string, Sleeping>, asleep: readonly string[]): Sleeping {
+  const key = asleep.join(" ")
+  const done = held.get(key)
+  if (done !== undefined) return done
+  const change = over(asleep)
+  const made = { change, shadow: shadowAsked(change) }
+  held.set(key, made)
+  return made
 }
 
 export function checksTakenFrom(root: string, slug: string): undefined {
