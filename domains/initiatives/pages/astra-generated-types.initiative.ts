@@ -37,6 +37,8 @@ export const astraGeneratedTypes = {
     },
     {
       statement: "No page type's type is written by hand.",
+      workingMemory:
+        "Of 473 page types, 390 declare nothing many-valued and are ready as they are. Thirty-seven spell a many-valued property as an array of that property's own type, and those need the list carried into the property before a written type can say what the hand-written one said. The rest already carry it. A page type is turned on one at a time by stating the types property, so a page type that is not ready is left alone.\n",
     },
     {
       statement: "A page property states the code that writes its type.",
