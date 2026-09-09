@@ -1,11 +1,11 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { dropReadings } from "@akasha/command-system/reading"
-import { fileStemOf } from "@akasha/file-page-identity"
 import { everyOfType } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideOf } from "@akasha/pages/page-beside"
 import { landRemovals } from "@akasha/seat-system/gated-landing"
+import { fileStemOf } from "akasha/file-page-identity/file-page/file-page.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 

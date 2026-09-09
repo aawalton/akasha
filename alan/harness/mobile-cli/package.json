@@ -37,7 +37,6 @@
     "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/file-page-identity": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

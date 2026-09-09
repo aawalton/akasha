@@ -15,7 +15,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/google-email": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
@@ -255,7 +254,6 @@
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -704,9 +702,6 @@
       "name": "@types/vscode",
       "version": "1.110.0",
     },
-    "file-page-identity": {
-      "name": "@akasha/file-page-identity",
-    },
     "file-system": {
       "name": "@akasha/file-system",
       "dependencies": {
@@ -864,7 +859,6 @@
     "pages/access": {
       "name": "@akasha/pages-access",
       "dependencies": {
-        "@akasha/file-page-identity": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-service": "workspace:*",
@@ -2327,8 +2321,6 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
-
-    "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
 

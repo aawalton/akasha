@@ -12,7 +12,6 @@
     "@akasha/changes": "workspace:*",
     "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/file-page-identity": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
