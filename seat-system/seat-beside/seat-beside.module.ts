@@ -45,5 +45,13 @@ export const seatBeside = {
       invariantKind: "departure",
       statement: "A removal that fails is reported and does not halt its caller.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A seat is named here, and a seat's page path is read for that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal names the seat rather than reaching that seat's page.",
+    },
   ],
 } as const satisfies Module
