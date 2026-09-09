@@ -129,7 +129,7 @@ export const changeApply = {
     {
       invariantKind: "constraint",
       statement:
-        "An apply's time tracks the test files standing beside the batch rather than the pages in it.",
+        "An apply's time tracks the test files beside the batch rather than the pages in it.",
     },
   ],
 } as const satisfies Command
