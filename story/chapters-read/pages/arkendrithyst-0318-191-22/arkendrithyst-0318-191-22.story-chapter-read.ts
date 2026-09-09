@@ -4,7 +4,7 @@ export const arkendrithyst031819122 = {
   id: "01a08394-8ccb-73a5-82a1-b83ec832002d",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0318-191-22",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 318,
   publishedAt: "2022-06-15",
   unitSlug: "words",

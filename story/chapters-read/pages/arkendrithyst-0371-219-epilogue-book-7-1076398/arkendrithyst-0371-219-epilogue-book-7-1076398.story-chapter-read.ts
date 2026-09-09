@@ -4,7 +4,7 @@ export const arkendrithyst0371219EpilogueBook71076398 = {
   id: "01a08394-edb9-73ba-9352-8311819fdbd8",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0371-219-epilogue-book-7-1076398",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 371,
   publishedAt: "2023-01-01",
   unitSlug: "words",

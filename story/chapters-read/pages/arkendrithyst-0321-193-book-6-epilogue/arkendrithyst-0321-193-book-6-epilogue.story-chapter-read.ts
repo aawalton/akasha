@@ -5,7 +5,7 @@ export const arkendrithyst0321193Book6Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0321-193-book-6-epilogue",
   title: "193, Book 6 Epilogue ",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 321,
   ownLength: 8265,
   ownProgress: 8265,
