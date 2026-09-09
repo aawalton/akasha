@@ -49,5 +49,7 @@ export const alanAtlasWeb = {
     "route/atlas-api-health",
     "route/atlas-api-live-version",
     "route/atlas-api-errors",
+    "route/atlas-api-page-types",
+    "route/atlas-api-page-write",
   ],
 } as const satisfies RouterApp
