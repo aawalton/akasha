@@ -5,6 +5,7 @@ import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
 import {
   mountainWallAt,
+  namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
@@ -306,16 +307,22 @@ export function mintedAt(now: Date): string {
   return uuidVersion7(now.getTime())
 }
 
+export function anchoredIn(argv: readonly string[], said: string): string {
+  const day = saidFor(argv, DAY)
+  if (day === null || !namesNoDay(said)) return said
+  return `${day} ${said.trim()}`
+}
+
 export function instantIn(argv: readonly string[], flag: string, now: Date): string | null {
   const said = saidFor(argv, flag)
   if (said === null) return now.toISOString()
-  const reading = readMountainWallTime(said, now)
+  const reading = readMountainWallTime(anchoredIn(argv, said), now)
   return reading.read === "instant" ? reading.iso : null
 }
 
 export function sayingFor(argv: readonly string[], flag: string, now: Date): string {
   const said = saidFor(argv, flag) ?? ""
-  const reading = readMountainWallTime(said, now)
+  const reading = readMountainWallTime(anchoredIn(argv, said), now)
   return reading.read === "refused" ? reading.saying : `${flag} takes a wall time`
 }
 
@@ -412,7 +419,7 @@ export function addressed(argv: readonly string[], rows: readonly Row[], now: Da
   }
   const said = saidFor(argv, AT)
   if (said !== null) {
-    const reading = readMountainWallTime(said, now)
+    const reading = readMountainWallTime(anchoredIn(argv, said), now)
     if (reading.read === "refused") return reading.saying
     const held = reading.at.getTime()
     const found = rows.find((one) => {

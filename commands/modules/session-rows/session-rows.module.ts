@@ -19,6 +19,18 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
+      statement: "A time naming no day of its own falls on the day `--day` names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A time naming its own day keeps that day, and `--day` does not move it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming no day leaves a bare time read against now.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stretch is addressed by one of the four ways a caller names that stretch.",
     },
     {

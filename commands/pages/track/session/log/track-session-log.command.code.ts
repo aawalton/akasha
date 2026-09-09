@@ -8,6 +8,7 @@ import {
   telling,
 } from "../../../../modules/session-acting/session-acting.module.code.ts"
 import {
+  anchoredIn,
   DRY_RUN,
   END,
   faultsIn,
@@ -47,7 +48,7 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
   }
   const ended = saidFor(argv, END)
   if (ended === null) return mistaking([`${END} names the wall time the stretch ended`])
-  const reading = readMountainWallTime(ended, now)
+  const reading = readMountainWallTime(anchoredIn(argv, ended), now)
   if (reading.read === "refused") return mistaking([reading.saying])
   if (reading.at.getTime() <= new Date(began).getTime()) {
     return mistaking(["a stretch cannot end at or before it began"])

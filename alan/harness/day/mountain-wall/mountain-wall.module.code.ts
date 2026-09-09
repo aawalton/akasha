@@ -198,6 +198,10 @@ function readDatedWallTime(wall: MountainWall): MountainWallReading {
   return reached(instants[0] as number)
 }
 
+export function namesNoDay(said: string): boolean {
+  return BARE_TIME.test(said.trim())
+}
+
 export function readMountainWallTime(said: string, now: Date): MountainWallReading {
   const trimmed = said.trim()
   const bare = BARE_TIME.exec(trimmed)

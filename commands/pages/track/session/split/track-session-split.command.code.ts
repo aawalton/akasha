@@ -10,6 +10,7 @@ import {
 import {
   AT,
   addressed,
+  anchoredIn,
   carriedIn,
   DRY_RUN,
   faultsIn,
@@ -33,7 +34,7 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   if (typeof found === "string") return mistaking([found])
   const said = saidFor(argv, AT)
   if (said === null) return mistaking([`${AT} names the time the stretch is parted at`])
-  const reading = readMountainWallTime(said, now)
+  const reading = readMountainWallTime(anchoredIn(argv, said), now)
   if (reading.read === "refused") return mistaking([reading.saying])
   const parted = reading.at.getTime()
   const from = new Date(found.startTime).getTime()

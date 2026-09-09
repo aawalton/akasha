@@ -19,6 +19,10 @@ export const mountainWall = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a time names a day of its own is answered here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A timestamp closing in Z or in an offset is the instant that timestamp states.",
     },
     {
