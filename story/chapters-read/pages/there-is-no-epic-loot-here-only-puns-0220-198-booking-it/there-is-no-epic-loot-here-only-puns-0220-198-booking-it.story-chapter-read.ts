@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0220198BookingIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0220-198-booking-it",
   title: "198: Booking it",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 220,
   ownLength: 3149,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0251228TheWoadNotTaken = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0251-228-the-woad-not-taken",
   title: "228: The Woad not Taken",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 251,
   ownLength: 3559,
   unitSlug: "words",

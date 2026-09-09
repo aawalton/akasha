@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0121105DeltasDayOff = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0121-105-deltas-day-off",
   title: "105: Delta's Day Off",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 121,
   ownLength: 3042,
   unitSlug: "words",

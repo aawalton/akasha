@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0203181SkullAndEyes = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0203-181-skull-and-eyes",
   title: "181: Skull and Eyes",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 203,
   ownLength: 3392,
   unitSlug: "words",

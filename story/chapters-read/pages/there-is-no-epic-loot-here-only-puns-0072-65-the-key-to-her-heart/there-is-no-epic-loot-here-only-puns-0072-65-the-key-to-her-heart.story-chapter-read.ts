@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007265TheKeyToHerHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0072-65-the-key-to-her-heart",
   title: "65: The Key to her Heart!",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 72,
   ownLength: 3710,
   unitSlug: "words",

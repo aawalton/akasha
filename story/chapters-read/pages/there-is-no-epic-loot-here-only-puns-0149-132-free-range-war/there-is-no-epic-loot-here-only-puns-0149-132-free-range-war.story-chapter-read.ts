@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0149132FreeRangeWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0149-132-free-range-war",
   title: "132: Free Range War",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 149,
   ownLength: 3024,
   unitSlug: "words",

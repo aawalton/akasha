@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0209187ABDG = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0209-187-a-b-d-g",
   title: "187: A. B. D? G?!",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 209,
   ownLength: 3226,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009180MotherVsMother = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0091-80-mother-vs-mother",
   title: "80: Mother vs Mother",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 91,
   ownLength: 4034,
   unitSlug: "words",

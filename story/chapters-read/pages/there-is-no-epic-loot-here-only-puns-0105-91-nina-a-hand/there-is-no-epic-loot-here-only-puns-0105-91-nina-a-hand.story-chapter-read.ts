@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns010591NinaAHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0105-91-nina-a-hand",
   title: "91: Nina a Hand?",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 105,
   ownLength: 4300,
   unitSlug: "words",

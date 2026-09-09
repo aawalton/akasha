@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns007063WyinOrLose = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0070-63-wyin-or-lose",
   title: "63: Wyin or lose",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 70,
   ownLength: 4500,
   unitSlug: "words",

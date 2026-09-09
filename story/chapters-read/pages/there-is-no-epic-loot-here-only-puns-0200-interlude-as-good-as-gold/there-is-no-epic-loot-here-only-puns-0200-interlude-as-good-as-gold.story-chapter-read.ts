@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0200InterludeAsGoodAsGold = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0200-interlude-as-good-as-gold",
   title: "Interlude: As Good As Gold",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 200,
   ownLength: 3620,
   unitSlug: "words",

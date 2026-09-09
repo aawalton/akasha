@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0223200JusticeSlime = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0223-200-justice-slime",
   title: "200: Justice Slime",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 223,
   ownLength: 2744,
   unitSlug: "words",

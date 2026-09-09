@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006460TheStarOfTheShow = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0064-60-the-star-of-the-show",
   title: "60: The Star of the Show",
-  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  storySlug: "there-is-no-epic-loot-here-only-puns",
   position: 64,
   ownLength: 4216,
   unitSlug: "words",
