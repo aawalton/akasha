@@ -20,6 +20,11 @@ export const webApp = {
   pluralSlug: "web-apps",
   extends: ["page-type/domain"],
   parts: [
+    "module/change-branch-worktree",
+    "module/dev-server-env-writing",
+    "module/dev-server-recording",
+    "module/dev-server-stating",
+    "module/dev-server-worktree",
     "relation-property/cluster-services",
     "text-property/build-command",
     "text-property/hostnames",
