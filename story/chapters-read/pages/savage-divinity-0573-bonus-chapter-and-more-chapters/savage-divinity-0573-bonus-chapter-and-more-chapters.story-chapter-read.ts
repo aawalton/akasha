@@ -5,7 +5,7 @@ export const savageDivinity0573BonusChapterAndMoreChapters = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0573-bonus-chapter-and-more-chapters",
   title: "BONUS CHAPTER AND MORE CHAPTERS!",
-  partOfCollectionSlugs: ["savage-divinity"],
+  storySlug: "savage-divinity",
   position: 573,
   ownLength: 685,
   unitSlug: "words",
