@@ -8,11 +8,6 @@ export const astraGeneratedTypes = {
   persona: "astra",
   intents: [
     {
-      statement: "A file property states whether the files that property has are generated.",
-      workingMemory:
-        "`boolean-property/machine-written` on `file-property` is the property this renames. Eleven pages state it true. Nothing reads it as a prohibition.\n",
-    },
-    {
       statement: "No change to a file's content lands on a file a generated property has.",
       workingMemory:
         "Nothing refuses such an edit today. The `block-akasha-edits` hook refuses Edit and Write over the whole checkout by location rather than by file, and the warrant system asks only that a writer read a path before writing it. A check is the shape the repository offers, and a check needs Alan's approval.\n",
