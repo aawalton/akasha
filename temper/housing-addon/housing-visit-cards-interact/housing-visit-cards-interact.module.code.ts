@@ -1,5 +1,5 @@
-import "@akasha/temper-eso-types/eso-extra"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 import { asVcControls } from "../housing-visit-cards-view/housing-visit-cards-view.module.code.ts"
 

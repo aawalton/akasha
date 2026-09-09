@@ -11,6 +11,5 @@
     "./errors-addon-entry": "./errors-addon-entry/errors-addon-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

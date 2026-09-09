@@ -1,8 +1,8 @@
-import "@akasha/temper-eso-types/eso-api-2"
-import "@akasha/temper-eso-types/eso-functions-01"
-import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/eso-string-ids"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-api-2/eso-api-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-string-ids/eso-string-ids.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 
 export function registerUiStrings(this: void): undefined {

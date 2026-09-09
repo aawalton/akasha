@@ -45,6 +45,5 @@
     "./leads-zones": "./leads-zones/leads-zones.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

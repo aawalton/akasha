@@ -1,6 +1,6 @@
-import "@akasha/temper-eso-types/eso-enums-06"
-import "@akasha/temper-eso-types/eso-functions-09"
-import "@akasha/temper-eso-types/eso-globals"
+import "akasha/temper/temper-eso-types/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/currency-catalog/currency-catalog.module.code.ts"
 import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"

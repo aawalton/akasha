@@ -1,9 +1,9 @@
-import "@akasha/temper-eso-types/eso-enums-01"
-import "@akasha/temper-eso-types/eso-functions-01"
-import "@akasha/temper-eso-types/eso-functions-03"
-import "@akasha/temper-eso-types/eso-functions-08"
-import "@akasha/temper-eso-types/eso-functions-09"
-import "@akasha/temper-eso-types/eso-globals"
+import "akasha/temper/temper-eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,

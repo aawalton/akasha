@@ -1,10 +1,10 @@
-import "@akasha/temper-eso-types/eso-events"
-import "@akasha/temper-eso-types/eso-extra"
-import "@akasha/temper-eso-types/eso-functions-01"
-import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/eso-interface-extra-3"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
-import "@akasha/temper-eso-types/lua-language-extensions"
+import "akasha/temper/temper-eso-types/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-extra/eso-extra.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 function parseLuaCapture(captured: string | undefined): string | undefined {

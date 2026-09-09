@@ -1,6 +1,6 @@
-import "@akasha/temper-eso-types/eso-enums-17"
-import "@akasha/temper-eso-types/eso-objects-01"
-import "@akasha/temper-eso-types/eso-ui-2"
+import "akasha/temper/temper-eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import {
   asBackdropEdgeView,
   asControl,

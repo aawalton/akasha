@@ -24,7 +24,7 @@ export const temper = {
     "domain/temper-completion-import",
     "domain/temper-shopping",
     "domain/temper-addon-library-types",
-    "workspace-package/temper-eso-types",
+    "domain/temper-eso-types",
     "domain/temper-catalog-core",
     "domain/temper-catalog",
     "domain/temper-character",

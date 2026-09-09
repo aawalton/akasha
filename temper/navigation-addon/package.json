@@ -9,6 +9,5 @@
     "./navigation-entry": "./navigation-entry/navigation-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

@@ -50,7 +50,6 @@
     "@akasha/pages-query": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
-    "@akasha/temper-eso-types": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",

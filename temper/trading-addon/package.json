@@ -24,6 +24,5 @@
     "./trading-entry": "./trading-entry/trading-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

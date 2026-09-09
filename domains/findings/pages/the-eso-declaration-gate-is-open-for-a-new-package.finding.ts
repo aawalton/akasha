@@ -5,7 +5,7 @@ export const theEsoDeclarationGateIsOpenForANewPackage = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-eso-declaration-gate-is-open-for-a-new-package",
-  domain: "workspace-package/temper-eso-types",
+  domain: "domain/temper-eso-types",
   claim:
     "A new akasha package reaches the game's globals with no `declare global` of its own and with no import at all. Every akasha declaration file is a root of the write's program as well as of the audit's, so the globals are ambient in both. An import of `@akasha/temper-eso-types` is harmless and says where a name is declared, and the eighteen modules landed at `b29193f80e` carry one, but nothing refuses a module leaving it out. This page first claimed the import was needed, which was wrong.",
   evidence:

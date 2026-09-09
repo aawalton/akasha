@@ -8,6 +8,5 @@
     "./sales-capture": "./sales-capture/sales-capture.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

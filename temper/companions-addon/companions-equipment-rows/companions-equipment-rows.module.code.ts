@@ -1,10 +1,10 @@
-import "@akasha/temper-eso-types/eso-enums-11"
-import "@akasha/temper-eso-types/eso-enums-17"
-import "@akasha/temper-eso-types/eso-enums-19"
-import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/eso-ui-2"
-import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/lua-language-extensions"
+import "akasha/temper/temper-eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { GREEN } from "akasha/design/tokens/semantic-color/semantic-color.module.code.ts"
 import {
   TEXT_PRIMARY,

@@ -1,6 +1,6 @@
-import "@akasha/temper-eso-types/eso-enums-04"
-import "@akasha/temper-eso-types/eso-functions-06"
-import "@akasha/temper-eso-types/eso-globals"
+import "akasha/temper/temper-eso-types/eso-enums-04/eso-enums-04.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-06/eso-functions-06.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type {
   ScribingCatalogGrimoire,

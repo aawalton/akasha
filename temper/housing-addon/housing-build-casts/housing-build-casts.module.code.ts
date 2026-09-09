@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-ui"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 export type ControlHandler = (this: void, ...args: unknown[]) => void
 export function asControlHandler(value: unknown): ControlHandler {
   return value as ControlHandler

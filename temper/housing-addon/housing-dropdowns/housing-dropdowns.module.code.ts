@@ -1,8 +1,8 @@
-import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/eso-ui-2"
-import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface ComboBoxView {

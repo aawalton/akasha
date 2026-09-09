@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-functions-02"
+import "akasha/temper/temper-eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import { EU_LIBRARY_DATA } from "../housing-library-data-eu/housing-library-data-eu.module.code.ts"
 import { NA_LIBRARY_DATA } from "../housing-library-data-na/housing-library-data-na.module.code.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"

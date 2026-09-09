@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-objects-01"
+import "akasha/temper/temper-eso-types/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 interface BackdropEntry {

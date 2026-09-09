@@ -1,7 +1,7 @@
-import "@akasha/temper-eso-types/eso-enums-01"
-import "@akasha/temper-eso-types/eso-functions-04"
-import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/lua-language-extensions"
+import "akasha/temper/temper-eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 
 import type {
   CadwellCatalogLevel,

@@ -22,7 +22,6 @@
     "./hud-addon-entry": "./hud-addon-entry/hud-addon-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

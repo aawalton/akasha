@@ -1,8 +1,8 @@
-import "@akasha/temper-eso-types/eso-api"
-import "@akasha/temper-eso-types/eso-functions-02"
-import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/eso-ui-2"
-import "@akasha/temper-eso-types/eso-ui-3"
+import "akasha/temper/temper-eso-types/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import { asFcoSettings, asNumber } from "../companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 import type {

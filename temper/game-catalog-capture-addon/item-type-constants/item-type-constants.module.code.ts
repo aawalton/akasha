@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-enums-09"
+import "akasha/temper/temper-eso-types/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 
 export function buildItemTypes(): Record<string, number> {
   return {

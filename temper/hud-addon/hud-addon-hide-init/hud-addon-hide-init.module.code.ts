@@ -1,7 +1,7 @@
-import "@akasha/temper-eso-types/eso-event-manager"
-import "@akasha/temper-eso-types/eso-events"
-import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-event-manager/eso-event-manager.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
 import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-enums-11"
+import "akasha/temper/temper-eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
 export function buildWeaponTypes(): Record<string, number> {
   return {

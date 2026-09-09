@@ -99,7 +99,6 @@
     "./quiet-world": "./quiet-world/quiet-world.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

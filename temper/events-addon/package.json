@@ -22,6 +22,5 @@
     "./events-addon-entry": "./events-addon-entry/events-addon-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*"
   }
 }

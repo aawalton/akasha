@@ -1,7 +1,7 @@
-import "@akasha/temper-eso-types/eso-functions-01"
-import "@akasha/temper-eso-types/eso-functions-09"
-import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/lua-language-extensions"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 
 import { requireDefined } from "@akasha/utils/narrow/require-defined"
 import type { CollectiblesCatalogData } from "akasha/temper/capture-shapes/collectibles-catalog/collectibles-catalog.module.code.ts"

@@ -1,8 +1,8 @@
-import "@akasha/temper-eso-types/eso-enums-01"
-import "@akasha/temper-eso-types/eso-enums-12"
-import "@akasha/temper-eso-types/eso-functions-02"
-import "@akasha/temper-eso-types/eso-functions-07"
-import "@akasha/temper-eso-types/eso-functions-08"
+import "akasha/temper/temper-eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-enums-12/eso-enums-12.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import type { CompanionBuildData } from "../companions-codec/companions-codec.module.code.ts"
 
 export type EquipmentDimension = "presence" | "weight" | "type" | "trait" | "quality"

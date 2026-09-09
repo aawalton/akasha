@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-functions-01"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 import { SALES_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-sales/sales-descriptor/sales-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture-writer/capture-writer/capture-writer.module.code.ts"

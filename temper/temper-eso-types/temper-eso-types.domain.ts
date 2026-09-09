@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperEsoTypes = {
   id: "01a0608f-b078-7ec9-8793-92de8b04a299",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-eso-types",
   definition: "the types a compiler reads for the globals an Elder Scrolls Online addon runs among",
-  manifest: "json",
   parts: [
     "type-declaration/eso-addon-list",
     "type-declaration/eso-addon-manager",
@@ -107,4 +106,4 @@ export const temperEsoTypes = {
     "type-declaration/eso-world-map-window",
     "type-declaration/eso-keybindings",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

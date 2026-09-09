@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-functions-01"
+import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 export interface BitWriterState {
   bytes: readonly number[]

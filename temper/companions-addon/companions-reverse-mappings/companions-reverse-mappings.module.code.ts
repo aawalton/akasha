@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import {
   ARMOR_TRAIT_TO_INDEX,
   ARMOR_TYPE_TO_INDEX,

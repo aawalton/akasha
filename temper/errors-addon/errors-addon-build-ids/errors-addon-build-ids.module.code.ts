@@ -1,4 +1,4 @@
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import { matchedText } from "../errors-addon-traceback/errors-addon-traceback.module.code.ts"
 
 interface BuildIdHolder {

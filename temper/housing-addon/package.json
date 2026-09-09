@@ -56,7 +56,6 @@
     "./housing-window-controls": "./housing-window-controls/housing-window-controls.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-lib-custom-menu": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

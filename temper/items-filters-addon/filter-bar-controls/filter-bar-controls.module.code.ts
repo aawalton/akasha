@@ -1,13 +1,13 @@
-import "@akasha/temper-eso-types/eso-enums-17"
-import "@akasha/temper-eso-types/eso-enums-19"
-import "@akasha/temper-eso-types/eso-interface-extra-2"
-import "@akasha/temper-eso-types/eso-interface-extra-4"
-import "@akasha/temper-eso-types/eso-objects-01"
-import "@akasha/temper-eso-types/eso-objects-02"
-import "@akasha/temper-eso-types/eso-ui"
-import "@akasha/temper-eso-types/eso-ui-2"
-import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/eso-lua-sandbox"
+import "akasha/temper/temper-eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-objects-01/eso-objects-01.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-objects-02/eso-objects-02.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import type {
   AnyTemperFilter,
   FilterEditorOption,
