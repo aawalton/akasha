@@ -6,18 +6,20 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.ts"
 import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.ts"
+import type { ReadStory } from "./properties/read-story.relation-property.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
 import type { StorySlug } from "./properties/story-slug.relation-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title
-  storySlug: StorySlug
+  storySlug?: StorySlug
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
   removedAt?: RemovedAt
   markedReadAt?: MarkedReadAt
   chronologyAnchors?: ChronologyAnchors
+  story?: ReadStory
 }
 
 export const storyChapterRead = {
@@ -74,16 +76,18 @@ export const storyChapterRead = {
     "text-property/anchor-claimed-by",
     "text-property/anchor-lexeme",
     "text-property/anchor-reference",
+    "relation-property/read-story",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/story-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/story-slug", required: false, many: false },
     { pagePropertySlug: "number-property/own-length", required: true, many: false },
     { pagePropertySlug: "url-property/external-link", required: true, many: false },
     { pagePropertySlug: "file-property/prose", required: true, many: false },
     { pagePropertySlug: "instant-property/removed-at", required: false, many: false },
     { pagePropertySlug: "instant-property/marked-read-at", required: false, many: false },
     { pagePropertySlug: "page-property-entry/chronology-anchors", required: false, many: false },
+    { pagePropertySlug: "relation-property/read-story", required: false, many: false },
   ],
   invariants: [
     {
