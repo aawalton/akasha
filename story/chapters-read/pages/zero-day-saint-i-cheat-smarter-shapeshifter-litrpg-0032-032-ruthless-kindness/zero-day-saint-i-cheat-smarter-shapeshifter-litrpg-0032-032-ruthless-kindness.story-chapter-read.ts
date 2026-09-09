@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0032032RuthlessKindness 
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0032-032-ruthless-kindness",
   title: "032 - Ruthless Kindness",
-  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 32,
   ownLength: 2381,
   unitSlug: "words",

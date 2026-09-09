@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0035Chapter35SoupSleepAndS
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0035-chapter-35-soup-sleep-and-shadow-pay",
   title: "Chapter 35: Soup, Sleep, and Shadow Pay",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 35,
   ownLength: 1495,
   unitSlug: "words",

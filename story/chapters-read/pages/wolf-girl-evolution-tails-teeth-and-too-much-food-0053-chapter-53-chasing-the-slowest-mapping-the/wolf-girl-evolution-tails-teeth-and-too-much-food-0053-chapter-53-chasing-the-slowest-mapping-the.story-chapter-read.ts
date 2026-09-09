@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0053Chapter53ChasingTheSlo
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0053-chapter-53-chasing-the-slowest-mapping-the",
   title: "Chapter 53: Chasing the Slowest, Mapping the Longest",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 53,
   ownLength: 1816,
   unitSlug: "words",

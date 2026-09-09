@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0038Chapter38BubblesBetray
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0038-chapter-38-bubbles-betrayal-and-brushings",
   title: "Chapter 38: Bubbles, Betrayal, and Brushings",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 38,
   ownLength: 1323,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0027027ConcussiveMainten
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0027-027-concussive-maintenance",
   title: "027 - Concussive Maintenance",
-  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 27,
   ownLength: 2281,
   unitSlug: "words",

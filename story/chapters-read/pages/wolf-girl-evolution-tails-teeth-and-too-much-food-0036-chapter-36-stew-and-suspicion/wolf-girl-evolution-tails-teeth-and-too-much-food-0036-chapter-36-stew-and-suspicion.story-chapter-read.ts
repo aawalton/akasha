@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0036Chapter36StewAndSuspic
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0036-chapter-36-stew-and-suspicion",
   title: "Chapter 36: Stew and Suspicion",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 36,
   ownLength: 1170,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0042042IMissedGravity = 
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0042-042-i-missed-gravity",
   title: "042 - I Missed Gravity",
-  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 42,
   ownLength: 1873,
   unitSlug: "words",

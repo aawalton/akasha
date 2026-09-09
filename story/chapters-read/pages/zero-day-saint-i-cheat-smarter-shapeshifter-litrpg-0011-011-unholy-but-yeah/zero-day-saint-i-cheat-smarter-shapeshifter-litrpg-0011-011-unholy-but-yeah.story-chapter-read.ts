@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0011011UnholyButYeah = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0011-011-unholy-but-yeah",
   title: "011 - Unholy, But Yeah",
-  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 11,
   ownLength: 2358,
   unitSlug: "words",

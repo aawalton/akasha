@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0149Chapter146BadBadSmackT
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0149-chapter-146-bad-bad-smack-time",
   title: "Chapter 146: Bad Bad Smack Time!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 149,
   ownLength: 3234,
   unitSlug: "words",

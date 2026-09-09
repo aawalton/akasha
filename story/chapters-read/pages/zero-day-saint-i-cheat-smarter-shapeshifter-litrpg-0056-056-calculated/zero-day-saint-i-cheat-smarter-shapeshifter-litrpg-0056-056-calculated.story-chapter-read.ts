@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0056056Calculated = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0056-056-calculated",
   title: "056 - Calculated",
-  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 56,
   ownLength: 1789,
   unitSlug: "words",

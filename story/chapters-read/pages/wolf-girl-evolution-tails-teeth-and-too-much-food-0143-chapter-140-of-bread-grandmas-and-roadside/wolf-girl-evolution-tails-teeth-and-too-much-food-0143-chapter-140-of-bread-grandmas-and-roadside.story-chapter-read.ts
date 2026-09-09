@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0143Chapter140OfBreadGrand
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0143-chapter-140-of-bread-grandmas-and-roadside",
   title: "Chapter 140: Of Bread Grandmas and Roadside Rumors",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 143,
   ownLength: 3487,
   unitSlug: "words",

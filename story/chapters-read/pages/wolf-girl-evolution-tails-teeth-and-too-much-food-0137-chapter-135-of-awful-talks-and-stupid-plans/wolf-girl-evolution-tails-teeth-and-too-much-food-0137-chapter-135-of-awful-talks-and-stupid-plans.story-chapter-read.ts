@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0137Chapter135OfAwfulTalks
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0137-chapter-135-of-awful-talks-and-stupid-plans",
   title: "Chapter 135: Of Awful Talks and Stupid Plans",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 137,
   ownLength: 2796,
   unitSlug: "words",

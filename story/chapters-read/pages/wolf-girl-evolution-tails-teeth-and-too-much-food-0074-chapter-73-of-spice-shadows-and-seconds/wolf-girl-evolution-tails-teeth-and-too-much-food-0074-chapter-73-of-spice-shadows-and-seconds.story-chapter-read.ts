@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0074Chapter73OfSpiceShadow
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0074-chapter-73-of-spice-shadows-and-seconds",
   title: "Chapter 73: Of Spice, Shadows, and Second’s Smiles",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 74,
   ownLength: 2025,
   unitSlug: "words",

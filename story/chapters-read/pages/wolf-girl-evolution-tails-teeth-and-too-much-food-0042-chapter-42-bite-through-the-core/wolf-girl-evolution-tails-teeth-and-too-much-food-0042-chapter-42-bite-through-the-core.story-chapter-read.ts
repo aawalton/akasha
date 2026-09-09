@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0042Chapter42BiteThroughTh
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0042-chapter-42-bite-through-the-core",
   title: "Chapter 42: Bite Through the Core",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 42,
   ownLength: 1487,
   unitSlug: "words",

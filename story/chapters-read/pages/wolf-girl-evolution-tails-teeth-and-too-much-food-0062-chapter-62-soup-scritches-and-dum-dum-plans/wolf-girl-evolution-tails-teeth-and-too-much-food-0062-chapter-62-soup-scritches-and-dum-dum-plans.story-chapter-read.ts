@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0062Chapter62SoupScritches
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0062-chapter-62-soup-scritches-and-dum-dum-plans",
   title: "Chapter 62: Soup, Scritches, and Dum Dum Plans",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 62,
   ownLength: 1660,
   unitSlug: "words",

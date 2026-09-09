@@ -6,7 +6,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0125Chapter124OfMaliceReve
     pageTypeSlug: "story-chapter-read",
     slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0125-chapter-124-of-malice-revealed-and-escalating",
     title: "Chapter 124: Of Malice Revealed and Escalating Threats",
-    storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+    story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
     position: 125,
     ownLength: 3143,
     unitSlug: "words",

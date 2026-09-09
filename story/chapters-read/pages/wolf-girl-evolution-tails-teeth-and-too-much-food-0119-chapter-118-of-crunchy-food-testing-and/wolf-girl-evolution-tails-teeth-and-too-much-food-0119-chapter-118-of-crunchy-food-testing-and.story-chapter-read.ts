@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0119Chapter118OfCrunchyFoo
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0119-chapter-118-of-crunchy-food-testing-and",
   title: "Chapter 118: Of Crunchy Food Testing, and Mlemful Moongazing",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 119,
   ownLength: 3206,
   unitSlug: "words",

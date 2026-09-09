@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0083Chapter82OfRabbitHunts
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0083-chapter-82-of-rabbit-hunts-and-many-zooms",
   title: "Chapter 82: Of Rabbit Hunts, and Many Zooms!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 83,
   ownLength: 1989,
   unitSlug: "words",

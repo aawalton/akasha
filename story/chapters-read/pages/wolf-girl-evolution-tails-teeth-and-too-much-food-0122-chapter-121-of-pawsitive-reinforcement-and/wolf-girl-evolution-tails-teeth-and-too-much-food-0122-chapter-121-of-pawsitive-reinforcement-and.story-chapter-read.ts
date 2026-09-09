@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0122Chapter121OfPawsitiveR
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0122-chapter-121-of-pawsitive-reinforcement-and",
   title: "Chapter 121: Of Pawsitive Reinforcement, and Towerful Secrets",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 122,
   ownLength: 2845,
   unitSlug: "words",

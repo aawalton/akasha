@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0040Chapter40OldStonesFres
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0040-chapter-40-old-stones-fresh-stink",
   title: "Chapter 40: Old Stones, Fresh Stink",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 40,
   ownLength: 1314,
   unitSlug: "words",

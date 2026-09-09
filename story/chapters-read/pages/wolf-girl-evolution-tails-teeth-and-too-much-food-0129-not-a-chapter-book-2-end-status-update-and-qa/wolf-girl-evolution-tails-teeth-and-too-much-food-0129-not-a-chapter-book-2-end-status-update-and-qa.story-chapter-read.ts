@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0129NotAChapterBook2EndSta
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0129-not-a-chapter-book-2-end-status-update-and-qa",
   title: "Not a chapter! - Book 2 End, Status Update, and Q&A",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 129,
   ownLength: 581,
   unitSlug: "words",

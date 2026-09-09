@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0084Chapter83OfScritchesSn
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0084-chapter-83-of-scritches-sneezes-and-stat",
   title: "Chapter 83: Of Scritches, Sneezes, and Stat-splaining!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 84,
   ownLength: 2167,
   unitSlug: "words",

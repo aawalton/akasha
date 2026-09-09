@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0028Chapter28TailsAndTruth
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0028-chapter-28-tails-and-truths",
   title: "Chapter 28: Tails and Truths",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 28,
   ownLength: 1350,
   unitSlug: "words",

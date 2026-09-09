@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0152Chapter149OfDivineWisd
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0152-chapter-149-of-divine-wisdom-and-big-big",
   title: "Chapter 149: Of Divine Wisdom and Big Big Plans!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 152,
   ownLength: 1860,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0132Chapter130OfDepartures
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0132-chapter-130-of-departures-sandwiches-and",
   title: "Chapter 130: Of Departures, Sandwiches, and Emotional Damage!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 132,
   ownLength: 2521,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0054Chapter54FastWolfFalli
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0054-chapter-54-fast-wolf-falling-rocks",
   title: "Chapter 54: Fast Wolf, Falling Rocks",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 54,
   ownLength: 1830,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0079Chapter78OfOfficesOafs
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0079-chapter-78-of-offices-oafs-and-one-very",
   title: "Chapter 78: Of Offices, Oafs, and One Very Dangerous Pup",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 79,
   ownLength: 2463,
   unitSlug: "words",

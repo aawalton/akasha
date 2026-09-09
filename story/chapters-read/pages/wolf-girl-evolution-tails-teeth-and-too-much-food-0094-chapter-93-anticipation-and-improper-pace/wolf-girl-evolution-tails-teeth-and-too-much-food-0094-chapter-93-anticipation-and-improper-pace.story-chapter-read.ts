@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0094Chapter93AnticipationA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0094-chapter-93-anticipation-and-improper-pace",
   title: "Chapter 93: Anticipation and Improper Pace",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 94,
   ownLength: 1797,
   unitSlug: "words",

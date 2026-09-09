@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0059Chapter59OfQuestionsSh
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0059-chapter-59-of-questions-shiny-trades-and",
   title: "Chapter 59: Of Questions, Shiny Trades, and Secrets of the Deep",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 59,
   ownLength: 1703,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0092Chapter91OfPlannedMlem
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0092-chapter-91-of-planned-mlems-and-mundane",
   title: "Chapter 91: Of Planned Mlems and Mundane Worries",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 92,
   ownLength: 1870,
   unitSlug: "words",

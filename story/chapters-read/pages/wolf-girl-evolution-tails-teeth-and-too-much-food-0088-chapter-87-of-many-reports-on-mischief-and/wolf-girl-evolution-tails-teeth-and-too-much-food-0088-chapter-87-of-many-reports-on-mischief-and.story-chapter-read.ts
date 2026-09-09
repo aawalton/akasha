@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0088Chapter87OfManyReports
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0088-chapter-87-of-many-reports-on-mischief-and",
   title: "Chapter 87: Of Many Reports on Mischief and Zooms!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 88,
   ownLength: 2236,
   unitSlug: "words",

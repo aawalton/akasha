@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0118Chapter117Anticipating
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0118-chapter-117-anticipating-ant-delicacies-to",
   title: "Chapter 117: Anticipating Ant Delicacies, to Terrible Tall Tales",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 118,
   ownLength: 2900,
   unitSlug: "words",

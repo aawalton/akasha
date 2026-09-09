@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0025Chapter25TheSpicePlan 
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0025-chapter-25-the-spice-plan",
   title: "Chapter 25: The Spice Plan",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 25,
   ownLength: 1513,
   unitSlug: "words",

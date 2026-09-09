@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0101Chapter100RegicidalAnt
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0101-chapter-100-regicidal-anticide",
   title: "Chapter 100: Regicidal Anticide",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 101,
   ownLength: 2708,
   unitSlug: "words",

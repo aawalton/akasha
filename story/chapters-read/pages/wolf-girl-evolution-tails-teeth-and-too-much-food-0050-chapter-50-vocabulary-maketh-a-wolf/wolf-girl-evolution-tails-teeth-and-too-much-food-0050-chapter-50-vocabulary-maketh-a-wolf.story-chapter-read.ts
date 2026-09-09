@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0050Chapter50VocabularyMak
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0050-chapter-50-vocabulary-maketh-a-wolf",
   title: "Chapter 50: Vocabulary Maketh a Wolf",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 50,
   ownLength: 1533,
   unitSlug: "words",

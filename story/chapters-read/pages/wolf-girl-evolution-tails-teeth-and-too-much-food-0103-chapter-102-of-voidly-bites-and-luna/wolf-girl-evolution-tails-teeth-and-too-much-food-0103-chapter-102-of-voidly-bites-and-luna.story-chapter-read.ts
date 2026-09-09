@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0103Chapter102OfVoidlyBite
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0103-chapter-102-of-voidly-bites-and-luna",
   title: "Chapter 102: Of Voidly Bites and Luna Aspirations",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 103,
   ownLength: 1821,
   unitSlug: "words",

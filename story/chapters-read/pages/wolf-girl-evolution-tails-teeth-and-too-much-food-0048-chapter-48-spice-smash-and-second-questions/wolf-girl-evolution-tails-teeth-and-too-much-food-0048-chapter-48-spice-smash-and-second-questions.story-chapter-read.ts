@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0048Chapter48SpiceSmashAnd
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0048-chapter-48-spice-smash-and-second-questions",
   title: "Chapter 48: Spice, Smash, and Second Questions",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 48,
   ownLength: 1723,
   unitSlug: "words",

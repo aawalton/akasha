@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0124Chapter123OfBrokenGrou
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0124-chapter-123-of-broken-ground-and-rising",
   title: "Chapter 123: Of Broken Ground and Rising Threats",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 124,
   ownLength: 2727,
   unitSlug: "words",

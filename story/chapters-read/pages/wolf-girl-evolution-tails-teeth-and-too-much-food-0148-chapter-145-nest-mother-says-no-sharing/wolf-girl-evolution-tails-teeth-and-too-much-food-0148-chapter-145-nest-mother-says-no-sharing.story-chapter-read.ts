@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0148Chapter145NestMotherSa
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0148-chapter-145-nest-mother-says-no-sharing",
   title: "Chapter 145: Nest Mother Says No Sharing",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 148,
   ownLength: 2607,
   unitSlug: "words",

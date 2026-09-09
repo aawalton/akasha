@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0060Chapter60OfRunningRumb
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0060-chapter-60-of-running-rumbles-and-really-bad",
   title: "Chapter 60: Of Running, Rumbles, and Really Bad Ideas",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 60,
   ownLength: 1538,
   unitSlug: "words",

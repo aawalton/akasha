@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0064Chapter64StretchingThe
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0064-chapter-64-stretching-the-legs-clawing-the",
   title: "Chapter 64: Stretching the Legs, Clawing the Chews",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 64,
   ownLength: 1484,
   unitSlug: "words",

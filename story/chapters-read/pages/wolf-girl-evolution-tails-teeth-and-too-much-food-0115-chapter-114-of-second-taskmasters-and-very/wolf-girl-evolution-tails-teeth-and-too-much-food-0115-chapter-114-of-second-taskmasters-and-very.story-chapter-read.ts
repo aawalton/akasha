@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0115Chapter114OfSecondTask
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0115-chapter-114-of-second-taskmasters-and-very",
   title: "Chapter 114: Of Second Taskmasters and Very Important Training",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 115,
   ownLength: 2880,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0112Chapter111ShadowRoadsT
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0112-chapter-111-shadow-roads-take-luna-home",
   title: "Chapter 111: Shadow Roads, Take Luna Home!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 112,
   ownLength: 2937,
   unitSlug: "words",

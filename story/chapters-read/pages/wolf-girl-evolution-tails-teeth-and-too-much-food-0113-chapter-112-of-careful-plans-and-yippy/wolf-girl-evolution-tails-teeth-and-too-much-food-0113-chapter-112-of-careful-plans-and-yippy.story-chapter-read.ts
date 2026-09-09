@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0113Chapter112OfCarefulPla
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0113-chapter-112-of-careful-plans-and-yippy",
   title: "Chapter 112: Of Careful Plans, and Yippy Shadows",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 113,
   ownLength: 3029,
   unitSlug: "words",

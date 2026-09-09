@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0156Chapter153DoChimeraDre
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0156-chapter-153-do-chimera-dream-of-delighted",
   title: "Chapter 153: Do Chimera Dream of Delighted Yips?",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 156,
   ownLength: 1791,
   unitSlug: "words",

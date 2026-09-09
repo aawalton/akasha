@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0157Chapter154OfFullMawsAn
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0157-chapter-154-of-full-maws-and-crunchy-gains",
   title: "Chapter 154: Of Full Maws and Crunchy Gains",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 157,
   ownLength: 2894,
   unitSlug: "words",

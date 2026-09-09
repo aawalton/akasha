@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0037Chapter37SecondOrdersS
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0037-chapter-37-second-orders-stew-pacts-and",
   title: "Chapter 37: Second Orders, Stew Pacts, and Sudden Baths",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 37,
   ownLength: 1702,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0065Chapter65SwampsSkillsA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0065-chapter-65-swamps-skills-and-running-on",
   title: "Chapter 65: Swamps, Skills, and Running on Repeat",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 65,
   ownLength: 1617,
   unitSlug: "words",

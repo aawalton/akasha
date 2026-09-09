@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0097Chapter96OfFriendsAndF
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0097-chapter-96-of-friends-and-foes-and-carnivores",
   title: "Chapter 96: Of Friends and Foes and Carnivores",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 97,
   ownLength: 2227,
   unitSlug: "words",

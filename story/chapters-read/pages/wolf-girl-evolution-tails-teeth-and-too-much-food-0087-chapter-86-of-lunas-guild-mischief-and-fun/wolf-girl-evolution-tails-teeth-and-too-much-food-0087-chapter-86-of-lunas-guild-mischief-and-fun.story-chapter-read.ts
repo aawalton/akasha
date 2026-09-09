@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0087Chapter86OfLunasGuildM
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0087-chapter-86-of-lunas-guild-mischief-and-fun",
   title: "Chapter 86: Of Luna’s Guild Mischief and Fun",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 87,
   ownLength: 1957,
   unitSlug: "words",

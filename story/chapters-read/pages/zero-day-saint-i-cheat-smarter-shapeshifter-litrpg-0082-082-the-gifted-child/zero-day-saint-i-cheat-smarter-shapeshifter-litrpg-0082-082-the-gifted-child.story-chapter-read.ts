@@ -10,7 +10,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0082082TheGiftedChild = 
   externalId: "3933137",
   source: "royal-road",
   title: "082 - The Gifted Child",
-  storySlug: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
+  story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   ownLength: 2311,
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3933137/082-the-gifted-child",

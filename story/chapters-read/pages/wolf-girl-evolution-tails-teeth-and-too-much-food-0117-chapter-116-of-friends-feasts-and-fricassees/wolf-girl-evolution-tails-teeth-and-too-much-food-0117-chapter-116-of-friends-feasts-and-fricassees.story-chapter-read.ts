@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0117Chapter116OfFriendsFea
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0117-chapter-116-of-friends-feasts-and-fricassees",
   title: "Chapter 116: Of Friends, Feasts, and Fricassees",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 117,
   ownLength: 2161,
   unitSlug: "words",

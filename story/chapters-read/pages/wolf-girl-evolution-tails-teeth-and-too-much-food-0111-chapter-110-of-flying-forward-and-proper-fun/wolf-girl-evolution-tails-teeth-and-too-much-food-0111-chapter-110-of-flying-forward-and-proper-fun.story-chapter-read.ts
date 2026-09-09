@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0111Chapter110OfFlyingForw
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0111-chapter-110-of-flying-forward-and-proper-fun",
   title: "Chapter 110: Of Flying Forward, and Proper Fun!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 111,
   ownLength: 2321,
   unitSlug: "words",

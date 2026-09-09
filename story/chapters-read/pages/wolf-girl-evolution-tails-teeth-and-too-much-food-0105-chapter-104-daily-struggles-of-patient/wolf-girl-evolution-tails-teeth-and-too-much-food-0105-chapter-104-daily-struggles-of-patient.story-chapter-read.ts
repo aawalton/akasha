@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0105Chapter104DailyStruggl
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0105-chapter-104-daily-struggles-of-patient",
   title: "Chapter 104: Daily Struggles of Patient Piggies",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 105,
   ownLength: 1928,
   unitSlug: "words",

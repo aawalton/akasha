@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0044Chapter44SoupSpoonsAnd
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0044-chapter-44-soup-spoons-and-suspicion",
   title: "Chapter 44: Soup, Spoons, and Suspicion",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 44,
   ownLength: 1574,
   unitSlug: "words",

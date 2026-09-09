@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0153Chapter150OfBrushiesBe
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0153-chapter-150-of-brushies-behemoths-and-big",
   title: "Chapter 150: Of Brushies, Behemoths, and Big Big Boom-Booms!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 153,
   ownLength: 2320,
   unitSlug: "words",

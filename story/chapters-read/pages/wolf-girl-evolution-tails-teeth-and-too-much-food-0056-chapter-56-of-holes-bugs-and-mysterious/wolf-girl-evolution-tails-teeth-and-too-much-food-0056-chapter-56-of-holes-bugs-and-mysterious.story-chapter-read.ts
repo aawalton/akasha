@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0056Chapter56OfHolesBugsAn
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0056-chapter-56-of-holes-bugs-and-mysterious",
   title: "Chapter 56: Of Holes, Bugs, and Mysterious Echoes",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 56,
   ownLength: 1679,
   unitSlug: "words",

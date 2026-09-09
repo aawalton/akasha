@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0032Chapter32SpiceForBlood
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0032-chapter-32-spice-for-blood",
   title: "Chapter 32: Spice for Blood",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 32,
   ownLength: 1339,
   unitSlug: "words",

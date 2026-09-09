@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0095Chapter94OfPotionRegre
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0095-chapter-94-of-potion-regrets-and-expedition",
   title: "Chapter 94: Of Potion Regrets and Expedition Time",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 95,
   ownLength: 2051,
   unitSlug: "words",

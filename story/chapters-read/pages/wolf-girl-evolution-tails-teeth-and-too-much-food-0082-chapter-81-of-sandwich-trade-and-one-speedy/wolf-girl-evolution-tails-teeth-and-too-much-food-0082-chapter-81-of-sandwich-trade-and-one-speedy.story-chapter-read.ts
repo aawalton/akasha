@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0082Chapter81OfSandwichTra
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0082-chapter-81-of-sandwich-trade-and-one-speedy",
   title: "Chapter 81: Of Sandwich, Trade, and One Speedy Gambit",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 82,
   ownLength: 1888,
   unitSlug: "words",

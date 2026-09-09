@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0061Chapter61OfCrunchyRuin
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0061-chapter-61-of-crunchy-ruins-and-wriggly-word",
   title: "Chapter 61: Of Crunchy Ruins and Wriggly Word Dilemmas",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 61,
   ownLength: 2042,
   unitSlug: "words",

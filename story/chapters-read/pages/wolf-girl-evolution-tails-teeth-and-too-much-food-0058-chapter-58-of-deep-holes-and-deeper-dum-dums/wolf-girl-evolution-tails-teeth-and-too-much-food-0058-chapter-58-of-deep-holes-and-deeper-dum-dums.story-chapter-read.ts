@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0058Chapter58OfDeepHolesAn
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0058-chapter-58-of-deep-holes-and-deeper-dum-dums",
   title: "Chapter 58: Of Deep Holes and Deeper Dum-Dums",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 58,
   ownLength: 1658,
   unitSlug: "words",

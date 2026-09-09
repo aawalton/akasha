@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0104Chapter103OfHappyYipsA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0104-chapter-103-of-happy-yips-and-poses-many",
   title: "Chapter 103: Of Happy Yips and Poses Many!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 104,
   ownLength: 2635,
   unitSlug: "words",

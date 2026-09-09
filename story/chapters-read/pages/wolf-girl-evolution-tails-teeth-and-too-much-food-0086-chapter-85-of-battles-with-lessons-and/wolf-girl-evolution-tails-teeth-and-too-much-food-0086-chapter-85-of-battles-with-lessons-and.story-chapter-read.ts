@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0086Chapter85OfBattlesWith
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0086-chapter-85-of-battles-with-lessons-and",
   title: "Chapter 85: Of Battles with Lessons and Grammar",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 86,
   ownLength: 1971,
   unitSlug: "words",

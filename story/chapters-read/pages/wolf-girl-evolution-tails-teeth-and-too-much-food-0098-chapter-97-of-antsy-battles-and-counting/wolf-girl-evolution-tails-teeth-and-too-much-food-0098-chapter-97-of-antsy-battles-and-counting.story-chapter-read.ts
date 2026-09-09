@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0098Chapter97OfAntsyBattle
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0098-chapter-97-of-antsy-battles-and-counting",
   title: "Chapter 97: Of Antsy Battles and Counting Bites",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 98,
   ownLength: 2386,
   unitSlug: "words",

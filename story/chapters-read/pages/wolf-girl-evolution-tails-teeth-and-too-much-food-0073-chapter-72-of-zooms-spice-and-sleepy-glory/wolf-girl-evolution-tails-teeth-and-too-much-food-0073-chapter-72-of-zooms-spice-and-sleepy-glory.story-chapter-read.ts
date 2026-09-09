@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0073Chapter72OfZoomsSpiceA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0073-chapter-72-of-zooms-spice-and-sleepy-glory",
   title: "Chapter 72: Of Zooms, Spice, and Sleepy Glory",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 73,
   ownLength: 2196,
   unitSlug: "words",

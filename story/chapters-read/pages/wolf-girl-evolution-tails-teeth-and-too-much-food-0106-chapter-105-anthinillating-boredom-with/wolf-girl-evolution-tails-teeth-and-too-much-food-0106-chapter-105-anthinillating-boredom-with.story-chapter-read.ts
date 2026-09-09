@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0106Chapter105Anthinillati
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0106-chapter-105-anthinillating-boredom-with",
   title: "Chapter 105: Anthinillating Boredom, with Awoos and Style!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 106,
   ownLength: 2086,
   unitSlug: "words",

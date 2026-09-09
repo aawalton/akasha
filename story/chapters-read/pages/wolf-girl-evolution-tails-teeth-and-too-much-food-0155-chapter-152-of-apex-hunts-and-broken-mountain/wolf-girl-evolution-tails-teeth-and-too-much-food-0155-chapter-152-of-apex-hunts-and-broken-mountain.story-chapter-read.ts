@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0155Chapter152OfApexHuntsA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0155-chapter-152-of-apex-hunts-and-broken-mountain",
   title: "Chapter 152: Of Apex Hunts and Broken Mountain Faces",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 155,
   ownLength: 2618,
   unitSlug: "words",

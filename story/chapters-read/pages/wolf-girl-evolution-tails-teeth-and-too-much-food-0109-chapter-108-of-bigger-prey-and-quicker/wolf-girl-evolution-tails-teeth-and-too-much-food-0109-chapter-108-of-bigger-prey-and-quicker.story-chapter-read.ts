@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0109Chapter108OfBiggerPrey
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0109-chapter-108-of-bigger-prey-and-quicker",
   title: "Chapter 108: Of Bigger Prey and Quicker Returns!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 109,
   ownLength: 2228,
   unitSlug: "words",

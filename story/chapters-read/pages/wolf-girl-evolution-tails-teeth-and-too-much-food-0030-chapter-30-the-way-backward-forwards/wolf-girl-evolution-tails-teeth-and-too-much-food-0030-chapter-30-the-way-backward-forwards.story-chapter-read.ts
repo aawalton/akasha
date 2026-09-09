@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0030Chapter30TheWayBackwar
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0030-chapter-30-the-way-backward-forwards",
   title: "Chapter 30: The Way Backward Forwards",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 30,
   ownLength: 1210,
   unitSlug: "words",

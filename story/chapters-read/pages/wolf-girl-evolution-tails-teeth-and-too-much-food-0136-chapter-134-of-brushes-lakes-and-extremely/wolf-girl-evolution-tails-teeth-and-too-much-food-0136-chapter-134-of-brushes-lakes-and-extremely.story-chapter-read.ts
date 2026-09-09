@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0136Chapter134OfBrushesLak
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0136-chapter-134-of-brushes-lakes-and-extremely",
   title: "Chapter 134: Of Brushes, Lakes, and Extremely Comfortable Wolves",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 136,
   ownLength: 2488,
   unitSlug: "words",

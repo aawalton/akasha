@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0039Chapter39PromisePrepAn
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0039-chapter-39-promise-prep-and-pack-tactics",
   title: "Chapter 39: Promise, Prep, and Pack Tactics",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 39,
   ownLength: 1421,
   unitSlug: "words",

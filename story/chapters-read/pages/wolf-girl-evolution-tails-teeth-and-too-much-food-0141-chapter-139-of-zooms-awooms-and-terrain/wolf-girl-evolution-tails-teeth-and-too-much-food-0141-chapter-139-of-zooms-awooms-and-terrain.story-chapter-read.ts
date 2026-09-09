@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0141Chapter139OfZoomsAwoom
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0141-chapter-139-of-zooms-awooms-and-terrain",
   title: "Chapter 139: Of Zooms, Awooms, and Terrain Travel",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 141,
   ownLength: 2163,
   unitSlug: "words",

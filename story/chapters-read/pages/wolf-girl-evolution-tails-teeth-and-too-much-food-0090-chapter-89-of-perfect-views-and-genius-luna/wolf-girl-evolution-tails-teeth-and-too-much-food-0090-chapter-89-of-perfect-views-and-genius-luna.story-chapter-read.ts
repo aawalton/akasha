@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0090Chapter89OfPerfectView
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0090-chapter-89-of-perfect-views-and-genius-luna",
   title: "Chapter 89: Of Perfect Views and Genius Luna!",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 90,
   ownLength: 2178,
   unitSlug: "words",

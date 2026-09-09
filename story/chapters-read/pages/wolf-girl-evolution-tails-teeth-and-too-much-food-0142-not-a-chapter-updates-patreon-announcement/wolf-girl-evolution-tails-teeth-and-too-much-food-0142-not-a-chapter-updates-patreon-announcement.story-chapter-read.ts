@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0142NotAChapterUpdatesPatr
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0142-not-a-chapter-updates-patreon-announcement",
   title: "NOT A CHAPTER - Updates & Patreon Announcement",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 142,
   ownLength: 428,
   unitSlug: "words",

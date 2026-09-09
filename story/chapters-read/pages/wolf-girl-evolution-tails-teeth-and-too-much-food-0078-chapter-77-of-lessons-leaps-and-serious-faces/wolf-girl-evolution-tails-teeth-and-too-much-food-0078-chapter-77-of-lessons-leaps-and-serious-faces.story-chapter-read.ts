@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0078Chapter77OfLessonsLeap
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0078-chapter-77-of-lessons-leaps-and-serious-faces",
   title: "Chapter 77: Of Lessons, Leaps, and Serious Faces",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 78,
   ownLength: 2338,
   unitSlug: "words",

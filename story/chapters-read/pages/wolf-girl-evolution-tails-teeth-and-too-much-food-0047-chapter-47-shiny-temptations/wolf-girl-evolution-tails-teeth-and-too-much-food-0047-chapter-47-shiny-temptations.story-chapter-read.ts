@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0047Chapter47ShinyTemptati
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0047-chapter-47-shiny-temptations",
   title: "Chapter 47: Shiny Temptations",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 47,
   ownLength: 1598,
   unitSlug: "words",
