@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeMyEverythingTenthAnniversaryEdition = {
   id: "01a0676a-d725-7027-839d-3447657af551",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-my-everything-tenth-anniversary-edition",
   title: "My Everything (Tenth Anniversary Edition)",
   partOfCollections: ["ariana-grande"],

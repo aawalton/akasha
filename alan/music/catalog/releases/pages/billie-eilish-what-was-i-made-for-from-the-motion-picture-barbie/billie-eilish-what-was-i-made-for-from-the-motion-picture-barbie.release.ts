@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   id: "01a0676a-d730-704c-a08d-ec15452dcaf6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
   partOfCollections: ["billie-eilish"],

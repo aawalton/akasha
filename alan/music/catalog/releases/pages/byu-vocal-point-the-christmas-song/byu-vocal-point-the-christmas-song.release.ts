@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointTheChristmasSong = {
   id: "01a0676a-d72c-7040-bd8e-80d1b9acbed4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-the-christmas-song",
   title: "The Christmas Song",
   partOfCollections: ["byu-vocal-point"],

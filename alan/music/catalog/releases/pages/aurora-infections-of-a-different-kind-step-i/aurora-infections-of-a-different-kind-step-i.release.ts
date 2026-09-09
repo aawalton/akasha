@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraInfectionsOfADifferentKindStepI = {
   id: "01a0676a-d721-7070-bf81-0298dc0f5eb0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-infections-of-a-different-kind-step-i",
   title: "Infections of a Different Kind (Step I)",
   partOfCollections: ["aurora"],

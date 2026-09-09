@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRunawayLvl2 = {
   id: "01a0676a-d728-702d-aa5c-24941b5d6a7d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-runaway-lvl-2",
   title: "Runaway (Lvl.2)",
   partOfCollections: ["aurora"],

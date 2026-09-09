@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeEternalSunshineSlightlyDeluxe = {
   id: "01a0676a-d71d-7028-a7a2-aec6bd4baa11",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe",
   title: "eternal sunshine (slightly deluxe)",
   partOfCollections: ["ariana-grande"],

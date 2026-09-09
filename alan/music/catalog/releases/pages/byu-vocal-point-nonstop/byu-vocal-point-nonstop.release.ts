@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointNonstop = {
   id: "01a0676a-d725-7077-85ec-7c7ddce6d695",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-nonstop",
   title: "Nonstop",
   partOfCollections: ["byu-vocal-point"],

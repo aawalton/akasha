@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraASoulWithNoKingRemixFeatNature = {
   id: "01a0676a-d715-7043-b6de-7f60fd5ff1a3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-a-soul-with-no-king-remix-feat-nature",
   title: "A Soul With No King - Remix (feat. NATURE)",
   partOfCollections: ["aurora"],

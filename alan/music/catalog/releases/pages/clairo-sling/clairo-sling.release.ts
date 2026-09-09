@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoSling = {
   id: "01a0676a-d729-7022-88e4-7d92cb12c3b1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-sling",
   title: "Sling",
   partOfCollections: ["clairo"],

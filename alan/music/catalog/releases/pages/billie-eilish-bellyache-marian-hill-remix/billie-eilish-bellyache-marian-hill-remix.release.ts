@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishBellyacheMarianHillRemix = {
   id: "01a0676a-d718-703d-99c7-520cef044074",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-bellyache-marian-hill-remix",
   title: "Bellyache (Marian Hill Remix)",
   partOfCollections: ["billie-eilish"],

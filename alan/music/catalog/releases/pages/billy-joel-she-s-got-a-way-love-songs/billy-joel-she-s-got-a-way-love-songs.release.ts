@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelSheSGotAWayLoveSongs = {
   id: "01a0676a-d728-7070-8f77-dd268d703536",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-she-s-got-a-way-love-songs",
   title: "She's Got A Way: Love Songs",
   partOfCollections: ["billy-joel"],

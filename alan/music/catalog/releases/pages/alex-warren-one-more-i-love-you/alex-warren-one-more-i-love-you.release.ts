@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenOneMoreILoveYou = {
   id: "01a0676a-d726-702f-baff-950cf0e84ced",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-one-more-i-love-you",
   title: "One More I Love You",
   partOfCollections: ["alex-warren"],

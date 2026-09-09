@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenBurningDownWithJoeJonas = {
   id: "01a0676a-d719-7045-af72-c4cc409ecfab",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-burning-down-with-joe-jonas",
   title: "Burning Down (with Joe Jonas)",
   partOfCollections: ["alex-warren"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraMusicForTheFellowWitchesOutThere = {
   id: "01a0676a-d725-701b-9da9-41ab4246bac4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-music-for-the-fellow-witches-out-there",
   title: "MUSIC FOR THE FELLOW WITCHES OUT THERE",
   partOfCollections: ["aurora"],

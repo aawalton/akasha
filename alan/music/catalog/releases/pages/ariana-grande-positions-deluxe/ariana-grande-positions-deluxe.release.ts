@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandePositionsDeluxe = {
   id: "01a0676a-d727-700c-b606-a36f111a33f6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-positions-deluxe",
   title: "Positions (Deluxe)",
   partOfCollections: ["ariana-grande"],

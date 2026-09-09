@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayFixYou2 = {
   id: "01a0676a-d71e-7006-875c-9a56dc0c73ae",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-fix-you-2",
   title: "Fix You",
   partOfCollections: ["coldplay"],

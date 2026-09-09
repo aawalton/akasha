@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2SpancilHill = {
   id: "01a0676a-d729-7071-9ab4-ad28b6812182",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-spancil-hill",
   title: "Spancil Hill",
   partOfCollections: ["celtic-woman-2"],

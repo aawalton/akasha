@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
   id: "01a0676a-d732-7028-af23-b23d0ab534f1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-yours-truly-tenth-anniversary-edition",
   title: "Yours Truly (Tenth Anniversary Edition)",
   partOfCollections: ["ariana-grande"],

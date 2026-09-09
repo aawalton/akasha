@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const adele21 = {
   id: "01a0676a-d714-7024-9380-d317af4dcee9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "adele-21",
   title: "21",
   partOfCollections: ["adele"],

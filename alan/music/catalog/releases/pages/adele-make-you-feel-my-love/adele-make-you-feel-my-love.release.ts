@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const adeleMakeYouFeelMyLove = {
   id: "01a0676a-d724-702f-8954-2ca9218e317a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "adele-make-you-feel-my-love",
   title: "Make You Feel My Love",
   partOfCollections: ["adele"],

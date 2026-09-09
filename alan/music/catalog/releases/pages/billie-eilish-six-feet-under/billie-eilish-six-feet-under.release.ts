@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishSixFeetUnder = {
   id: "01a0676a-d729-7013-9a12-da54992f94ef",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
   partOfCollections: ["billie-eilish"],

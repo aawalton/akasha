@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2OHolyNight2020Version = {
   id: "01a0676a-d726-700f-bfdc-f239a8eedd86",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-o-holy-night-2020-version",
   title: "O Holy Night (2020 Version)",
   partOfCollections: ["celtic-woman-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2IKnowMyLove20thAnniversary = {
   id: "01a0676a-d721-7026-9096-8be7f02fa3b3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-i-know-my-love-20th-anniversary",
   title: "I Know My Love (20th Anniversary)",
   partOfCollections: ["celtic-woman-2"],

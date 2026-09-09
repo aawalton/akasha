@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRunawayGuitarAcoustic = {
   id: "01a0676a-d728-702c-8d78-116b7905522a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-runaway-guitar-acoustic",
   title: "Runaway (Guitar Acoustic)",
   partOfCollections: ["aurora"],

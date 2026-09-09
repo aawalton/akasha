@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenBloodline = {
   id: "01a0676a-d719-7019-ae18-e95a2361ad0a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-bloodline",
   title: "Bloodline",
   partOfCollections: ["alex-warren"],

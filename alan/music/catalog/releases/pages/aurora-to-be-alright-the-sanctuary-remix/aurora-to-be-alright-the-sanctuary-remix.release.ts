@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraToBeAlrightTheSanctuaryRemix = {
   id: "01a0676a-d72f-7002-aa44-f7e876e67b6c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-to-be-alright-the-sanctuary-remix",
   title: "To Be Alright (The Sanctuary Remix)",
   partOfCollections: ["aurora"],

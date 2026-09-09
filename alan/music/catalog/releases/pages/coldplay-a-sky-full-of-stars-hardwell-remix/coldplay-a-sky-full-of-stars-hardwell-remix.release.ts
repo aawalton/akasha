@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayASkyFullOfStarsHardwellRemix = {
   id: "01a0676a-d715-7041-8cd3-af7a6858dfc5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-a-sky-full-of-stars-hardwell-remix",
   title: "A Sky Full of Stars (Hardwell Remix)",
   partOfCollections: ["coldplay"],

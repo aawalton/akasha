@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoBetterSgLewisXClairo = {
   id: "01a0676a-d718-7050-881d-3680070c4ee7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-better-sg-lewis-x-clairo",
   title: "Better (SG Lewis x Clairo)",
   partOfCollections: ["clairo"],

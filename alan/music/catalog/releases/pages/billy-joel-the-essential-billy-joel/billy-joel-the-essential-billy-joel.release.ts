@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelTheEssentialBillyJoel = {
   id: "01a0676a-d72d-7005-bb96-0b8fb8cedb15",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-the-essential-billy-joel",
   title: "The Essential Billy Joel",
   partOfCollections: ["billy-joel"],

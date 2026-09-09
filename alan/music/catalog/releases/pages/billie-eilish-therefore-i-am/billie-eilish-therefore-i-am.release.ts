@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishThereforeIAm = {
   id: "01a0676a-d72e-7024-b4cc-342650686d7a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
   partOfCollections: ["billie-eilish"],

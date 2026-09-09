@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraBringBackTheColorFeatAurora = {
   id: "01a0676a-d719-7039-9b80-7448e3fea8c1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-bring-back-the-color-feat-aurora",
   title: "BRING BACK THE COLOR (feat. AURORA)",
   partOfCollections: ["aurora"],

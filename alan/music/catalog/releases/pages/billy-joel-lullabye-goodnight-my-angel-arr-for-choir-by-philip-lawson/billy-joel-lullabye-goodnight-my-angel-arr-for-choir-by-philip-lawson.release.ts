@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelLullabyeGoodnightMyAngelArrForChoirByPhilipLawson = {
   id: "01a0676a-d724-7014-9bf2-983c35abc207",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-lullabye-goodnight-my-angel-arr-for-choir-by-philip-lawson",
   title: "Lullabye (Goodnight, my angel) [Arr. for choir by Philip Lawson]",
   partOfCollections: ["billy-joel"],

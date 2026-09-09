@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraIntoTheUnknown = {
   id: "01a0676a-d721-707a-b90c-657f37b26c65",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",
   partOfCollections: ["aurora"],

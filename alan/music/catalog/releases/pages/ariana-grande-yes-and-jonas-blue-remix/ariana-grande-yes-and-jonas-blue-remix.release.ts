@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeYesAndJonasBlueRemix = {
   id: "01a0676a-d731-704e-a67d-2f6c7d4077da",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-yes-and-jonas-blue-remix",
   title: "yes, and? (Jonas Blue Remix)",
   partOfCollections: ["ariana-grande"],

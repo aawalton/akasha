@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraTheRiverAskjellRemix = {
   id: "01a0676a-d72e-7001-8885-24bd627ba690",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-the-river-askjell-remix",
   title: "The River (Askjell Remix)",
   partOfCollections: ["aurora"],

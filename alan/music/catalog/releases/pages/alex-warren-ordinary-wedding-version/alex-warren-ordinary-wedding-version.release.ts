@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenOrdinaryWeddingVersion = {
   id: "01a0676a-d726-7046-b1bc-e6fab979b73c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-ordinary-wedding-version",
   title: "Ordinary (Wedding Version)",
   partOfCollections: ["alex-warren"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenChasingShadows = {
   id: "01a0676a-d71a-701f-a26e-f25748918be1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-chasing-shadows",
   title: "Chasing Shadows",
   partOfCollections: ["alex-warren"],

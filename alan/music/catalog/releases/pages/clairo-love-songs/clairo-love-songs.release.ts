@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoLoveSongs = {
   id: "01a0676a-d723-7083-8cf3-47a0cba6f1c8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-love-songs",
   title: "Love Songs",
   partOfCollections: ["clairo"],

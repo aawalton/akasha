@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayEverglow = {
   id: "01a0676a-d71d-702e-920a-f764d26e8fc8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-everglow",
   title: "Everglow",
   partOfCollections: ["coldplay"],

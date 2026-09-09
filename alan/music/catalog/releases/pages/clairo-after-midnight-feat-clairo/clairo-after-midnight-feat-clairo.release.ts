@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoAfterMidnightFeatClairo = {
   id: "01a0676a-d716-7002-a31b-6b0cd3dfb532",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-after-midnight-feat-clairo",
   title: "After Midnight (feat. Clairo)",
   partOfCollections: ["clairo"],

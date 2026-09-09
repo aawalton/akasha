@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexandriaPixie = {
   id: "01a0676a-d726-7081-8215-d598d260d940",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alexandria-pixie",
   title: "Pixie",
   partOfCollections: ["alexandria"],

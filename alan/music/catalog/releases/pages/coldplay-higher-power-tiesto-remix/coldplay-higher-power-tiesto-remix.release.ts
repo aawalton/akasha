@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayHigherPowerTiestoRemix = {
   id: "01a0676a-d720-703e-acfd-785bfa10c205",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-higher-power-tiesto-remix",
   title: "Higher Power (Tiësto Remix)",
   partOfCollections: ["coldplay"],

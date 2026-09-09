@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraStories = {
   id: "01a0676a-d72a-7022-9275-627868296ae4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-stories",
   title: "STORIES",
   partOfCollections: ["aurora"],

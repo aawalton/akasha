@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoGlueSongFeatClairo = {
   id: "01a0676a-d71f-7009-927c-7e42534126f8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-glue-song-feat-clairo",
   title: "Glue Song (feat. Clairo)",
   partOfCollections: ["clairo"],

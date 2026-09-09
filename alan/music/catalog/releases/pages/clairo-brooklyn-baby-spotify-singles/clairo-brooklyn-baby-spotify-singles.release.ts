@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoBrooklynBabySpotifySingles = {
   id: "01a0676a-d719-703c-a224-9f2fd369f241",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-brooklyn-baby-spotify-singles",
   title: "Brooklyn Baby - Spotify Singles",
   partOfCollections: ["clairo"],

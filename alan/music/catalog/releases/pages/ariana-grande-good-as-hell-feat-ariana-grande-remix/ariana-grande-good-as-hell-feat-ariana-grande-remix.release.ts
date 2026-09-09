@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
   id: "01a0676a-d71f-701b-9186-3da3220b9b09",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-good-as-hell-feat-ariana-grande-remix",
   title: "Good as Hell (feat. Ariana Grande) [Remix]",
   partOfCollections: ["ariana-grande"],

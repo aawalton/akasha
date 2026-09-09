@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayKaleidoscopeEp = {
   id: "01a0676a-d722-7034-9aa4-ce47c3f214b7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-kaleidoscope-ep",
   title: "Kaleidoscope EP",
   partOfCollections: ["coldplay"],

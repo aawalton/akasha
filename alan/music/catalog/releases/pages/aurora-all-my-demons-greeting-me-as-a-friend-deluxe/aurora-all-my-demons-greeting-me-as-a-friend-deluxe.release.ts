@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   id: "01a0676a-d716-7020-9d00-0513b4d3998c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
   title: "All My Demons Greeting Me as a Friend (Deluxe)",
   partOfCollections: ["aurora"],

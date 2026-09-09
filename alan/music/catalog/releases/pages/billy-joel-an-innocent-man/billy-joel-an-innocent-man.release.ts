@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelAnInnocentMan = {
   id: "01a0676a-d717-7011-baf3-9634953b1ee9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-an-innocent-man",
   title: "An Innocent Man",
   partOfCollections: ["billy-joel"],

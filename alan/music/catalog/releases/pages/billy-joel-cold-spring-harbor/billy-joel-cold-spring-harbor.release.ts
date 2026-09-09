@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelColdSpringHarbor = {
   id: "01a0676a-d71b-700d-8215-7cc1523a2948",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-cold-spring-harbor",
   title: "Cold Spring Harbor",
   partOfCollections: ["billy-joel"],

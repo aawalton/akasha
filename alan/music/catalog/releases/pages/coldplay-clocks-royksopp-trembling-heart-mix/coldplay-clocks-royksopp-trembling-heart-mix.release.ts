@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayClocksRoyksoppTremblingHeartMix = {
   id: "01a0676a-d71b-7002-a64a-18eb074ee0a3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-clocks-royksopp-trembling-heart-mix",
   title: "Clocks (Royksopp Trembling Heart Mix)",
   partOfCollections: ["coldplay"],

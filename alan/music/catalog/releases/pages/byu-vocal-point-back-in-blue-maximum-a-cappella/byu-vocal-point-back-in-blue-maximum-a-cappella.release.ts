@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointBackInBlueMaximumACappella = {
   id: "01a0676a-d717-7049-be16-c6eaf366c40b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-back-in-blue-maximum-a-cappella",
   title: "Back in Blue: Maximum A Cappella",
   partOfCollections: ["byu-vocal-point"],

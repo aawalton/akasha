@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelSongsInTheAttic = {
   id: "01a0676a-d729-7067-96e1-4a3c03eb015c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-songs-in-the-attic",
   title: "Songs In the Attic",
   partOfCollections: ["billy-joel"],

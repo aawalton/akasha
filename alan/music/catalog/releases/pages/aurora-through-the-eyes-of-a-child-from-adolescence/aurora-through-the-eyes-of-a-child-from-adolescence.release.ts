@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraThroughTheEyesOfAChildFromAdolescence = {
   id: "01a0676a-d72e-7038-ab9a-9c7898f1feed",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-through-the-eyes-of-a-child-from-adolescence",
   title: "Through the Eyes of a Child (From Adolescence)",
   partOfCollections: ["aurora"],

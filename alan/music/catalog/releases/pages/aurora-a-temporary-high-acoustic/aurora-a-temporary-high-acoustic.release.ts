@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraATemporaryHighAcoustic = {
   id: "01a0676a-d715-7044-a765-622b884747be",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-a-temporary-high-acoustic",
   title: "A Temporary High (Acoustic)",
   partOfCollections: ["aurora"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeIDonTKnowWhyIJustDo = {
   id: "01a0676a-d721-7013-85c1-30a5ced4c866",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-i-don-t-know-why-i-just-do",
   title: "I Don't Know Why (I Just Do)",
   partOfCollections: ["ariana-grande"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayLetSomebodyGoPianoVersion = {
   id: "01a0676a-d723-7024-a7f4-03ca04634181",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-let-somebody-go-piano-version",
   title: "Let Somebody Go (Piano Version)",
   partOfCollections: ["coldplay"],

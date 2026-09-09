@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoAnticipate = {
   id: "01a0676a-d717-702a-910b-4fb8079c473f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-anticipate",
   title: "Anticipate",
   partOfCollections: ["clairo"],

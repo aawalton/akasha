@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2Lullaby = {
   id: "01a0676a-d724-7012-9607-649d6d7340c8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-lullaby",
   title: "Lullaby",
   partOfCollections: ["celtic-woman-2"],

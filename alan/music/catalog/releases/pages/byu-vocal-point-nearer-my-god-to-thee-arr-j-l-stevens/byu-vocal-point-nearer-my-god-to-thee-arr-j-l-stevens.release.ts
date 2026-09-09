@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointNearerMyGodToTheeArrJLStevens = {
   id: "01a0676a-d725-7041-8d07-212768cd1f5b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-nearer-my-god-to-thee-arr-j-l-stevens",
   title: "Nearer, My God, to Thee (Arr. J.L. Stevens)",
   partOfCollections: ["byu-vocal-point"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayMoonMusic = {
   id: "01a0676a-d724-7083-9182-7c7488cf7bbf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-moon-music",
   title: "Moon Music",
   partOfCollections: ["coldplay"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const backstreetBoys2LetItBeMePlayNSkillzRemix = {
   id: "01a0676a-d723-7004-8b03-a88ea6a0650e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "backstreet-boys-2-let-it-be-me-play-n-skillz-remix",
   title: "Let It Be Me (Play-N-Skillz Remix)",
   partOfCollections: ["backstreet-boys-2"],

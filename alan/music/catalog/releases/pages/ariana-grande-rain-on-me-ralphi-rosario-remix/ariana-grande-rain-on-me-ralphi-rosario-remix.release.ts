@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeRainOnMeRalphiRosarioRemix = {
   id: "01a0676a-d727-7046-9fce-0473e12e86b6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-rain-on-me-ralphi-rosario-remix",
   title: "Rain On Me (Ralphi Rosario Remix)",
   partOfCollections: ["ariana-grande"],

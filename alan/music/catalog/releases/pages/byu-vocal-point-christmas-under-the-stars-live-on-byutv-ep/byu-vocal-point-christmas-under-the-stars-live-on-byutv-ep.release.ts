@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointChristmasUnderTheStarsLiveOnByutvEp = {
   id: "01a0676a-d71a-7047-8b90-a7b1b7f03aad",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-christmas-under-the-stars-live-on-byutv-ep",
   title: "Christmas Under the Stars (Live on BYUtv) - EP",
   partOfCollections: ["byu-vocal-point"],

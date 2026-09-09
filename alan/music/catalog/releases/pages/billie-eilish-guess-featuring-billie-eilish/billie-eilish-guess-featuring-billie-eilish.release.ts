@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishGuessFeaturingBillieEilish = {
   id: "01a0676a-d71f-7033-a307-f5992ebec77d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-guess-featuring-billie-eilish",
   title: "Guess featuring billie eilish",
   partOfCollections: ["billie-eilish"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHall = {
   id: "01a0676a-d72e-7008-9857-95871b6cfb30",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall",
   title: "The Seed (feat. Anna Lapwood) [Live from the Royal Albert Hall]",
   partOfCollections: ["aurora"],

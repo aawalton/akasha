@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayColoratura = {
   id: "01a0676a-d71b-7011-9b40-11bc59c01b08",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-coloratura",
   title: "Coloratura",
   partOfCollections: ["coldplay"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishGuitarSongs = {
   id: "01a0676a-d71f-7034-bbc3-f31973dfb3b1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-guitar-songs",
   title: "Guitar Songs",
   partOfCollections: ["billie-eilish"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2TheGreatestJourneyEssentialCollection = {
   id: "01a0676a-d72d-701a-b92b-c45aad6ba1f1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-the-greatest-journey-essential-collection",
   title: "The Greatest Journey - Essential Collection",
   partOfCollections: ["celtic-woman-2"],

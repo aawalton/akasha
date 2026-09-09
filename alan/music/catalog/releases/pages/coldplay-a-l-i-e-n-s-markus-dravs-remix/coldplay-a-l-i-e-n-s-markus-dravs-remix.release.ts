@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayALIENSMarkusDravsRemix = {
   id: "01a0676a-d715-702a-8136-b9ba0786876e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-a-l-i-e-n-s-markus-dravs-remix",
   title: "A L I E N S (Markus Dravs Remix)",
   partOfCollections: ["coldplay"],

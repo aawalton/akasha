@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelGlassHouses = {
   id: "01a0676a-d71f-7002-8898-b6297c4b8602",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-glass-houses",
   title: "Glass Houses",
   partOfCollections: ["billy-joel"],

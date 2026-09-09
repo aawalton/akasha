@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayHigherPowerZhuRemix = {
   id: "01a0676a-d720-703f-bd96-1d1f1fe2cb2f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-higher-power-zhu-remix",
   title: "Higher Power (ZHU Remix)",
   partOfCollections: ["coldplay"],

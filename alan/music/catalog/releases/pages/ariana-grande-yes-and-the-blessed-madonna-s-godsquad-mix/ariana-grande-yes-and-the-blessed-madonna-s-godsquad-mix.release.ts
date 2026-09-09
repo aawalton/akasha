@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMix = {
   id: "01a0676a-d731-7050-b292-07a3bf2ca6eb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
   title: "yes, and? (The Blessed Madonna’s Godsquad Mix)",
   partOfCollections: ["ariana-grande"],

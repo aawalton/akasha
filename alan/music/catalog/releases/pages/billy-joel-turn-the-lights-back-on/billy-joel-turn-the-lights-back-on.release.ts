@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelTurnTheLightsBackOn = {
   id: "01a0676a-d72f-7023-8878-2e69a5224123",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-turn-the-lights-back-on",
   title: "Turn the Lights Back On",
   partOfCollections: ["billy-joel"],

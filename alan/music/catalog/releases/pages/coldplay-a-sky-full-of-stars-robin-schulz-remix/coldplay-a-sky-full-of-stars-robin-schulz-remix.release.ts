@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayASkyFullOfStarsRobinSchulzRemix = {
   id: "01a0676a-d715-7042-95f1-cdfecf72f5ab",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-a-sky-full-of-stars-robin-schulz-remix",
   title: "A Sky Full of Stars (Robin Schulz Remix)",
   partOfCollections: ["coldplay"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishOceanEyes = {
   id: "01a0676a-d726-7012-bf16-98a75717e1b4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-ocean-eyes",
   title: "Ocean Eyes",
   partOfCollections: ["billie-eilish"],

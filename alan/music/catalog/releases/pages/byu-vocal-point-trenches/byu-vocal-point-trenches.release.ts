@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointTrenches = {
   id: "01a0676a-d72f-701a-93fe-a20570b01002",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-trenches",
   title: "Trenches",
   partOfCollections: ["byu-vocal-point"],

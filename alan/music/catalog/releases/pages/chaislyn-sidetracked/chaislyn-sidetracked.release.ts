@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const chaislynSidetracked = {
   id: "01a0676a-d729-7004-9a92-0a2bcf4a30b0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "chaislyn-sidetracked",
   title: "Sidetracked",
   partOfCollections: ["chaislyn"],

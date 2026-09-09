@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const backstreetBoys2InAWorldLikeThisDeluxeWorldTourEdition = {
   id: "01a0676a-d721-7064-b7e5-de2f7d48e3e2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "backstreet-boys-2-in-a-world-like-this-deluxe-world-tour-edition",
   title: "In a World Like This (Deluxe World Tour Edition)",
   partOfCollections: ["backstreet-boys-2"],

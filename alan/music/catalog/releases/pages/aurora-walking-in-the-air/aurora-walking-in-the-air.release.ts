@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraWalkingInTheAir = {
   id: "01a0676a-d730-7013-a4bb-6e2c3007431f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-walking-in-the-air",
   title: "Walking In The Air",
   partOfCollections: ["aurora"],

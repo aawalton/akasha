@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraCureForMeFeatSilvanaEstradaLive = {
   id: "01a0676a-d71b-7046-8576-663b80e6b21b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-cure-for-me-feat-silvana-estrada-live",
   title: "Cure For Me (feat. Silvana Estrada) [Live]",
   partOfCollections: ["aurora"],

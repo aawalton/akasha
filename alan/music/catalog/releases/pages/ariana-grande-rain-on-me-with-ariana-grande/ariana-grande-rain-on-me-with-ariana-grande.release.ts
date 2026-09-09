@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeRainOnMeWithArianaGrande = {
   id: "01a0676a-d727-7047-b053-96bdbaa2de63",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-rain-on-me-with-ariana-grande",
   title: "Rain On Me (with Ariana Grande)",
   partOfCollections: ["ariana-grande"],

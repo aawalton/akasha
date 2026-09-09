@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   id: "01a0676a-d730-702a-aac2-60512e6c9bb0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love",
   title: "we can't be friends (wait for your love)",
   partOfCollections: ["ariana-grande"],

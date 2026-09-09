@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraAppleTreeGeorgiaRemix = {
   id: "01a0676a-d717-702f-8ba7-3032da3a1cd1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-apple-tree-georgia-remix",
   title: "Apple Tree (Georgia Remix)",
   partOfCollections: ["aurora"],

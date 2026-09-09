@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayARushOfBloodToTheHead = {
   id: "01a0676a-d715-703d-b121-10d3e8029558",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-a-rush-of-blood-to-the-head",
   title: "A Rush of Blood to the Head",
   partOfCollections: ["coldplay"],

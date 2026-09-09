@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraQueendomRemixes = {
   id: "01a0676a-d727-703b-926d-7530ea1d3190",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-queendom-remixes",
   title: "Queendom (Remixes)",
   partOfCollections: ["aurora"],

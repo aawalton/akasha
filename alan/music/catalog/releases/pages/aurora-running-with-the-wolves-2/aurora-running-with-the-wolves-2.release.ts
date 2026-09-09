@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRunningWithTheWolves2 = {
   id: "01a0676a-d728-7032-80bd-63624b7d183c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-running-with-the-wolves-2",
   title: "Running with the Wolves",
   partOfCollections: ["aurora"],

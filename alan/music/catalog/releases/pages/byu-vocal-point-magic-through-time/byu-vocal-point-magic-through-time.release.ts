@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointMagicThroughTime = {
   id: "01a0676a-d724-7025-a90d-b214e4acb89d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-magic-through-time",
   title: "Magic Through Time",
   partOfCollections: ["byu-vocal-point"],

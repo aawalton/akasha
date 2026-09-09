@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeHotelRockBottom = {
   id: "01a0676a-d720-7064-b8b0-9be219cbcc51",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-hotel-rock-bottom",
   title: "Hotel Rock Bottom",
   partOfCollections: ["ariana-grande"],

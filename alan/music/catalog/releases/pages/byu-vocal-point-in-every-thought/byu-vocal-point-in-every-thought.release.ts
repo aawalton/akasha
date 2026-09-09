@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointInEveryThought = {
   id: "01a0676a-d721-7067-8310-43696cc88ac4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-in-every-thought",
   title: "In Every Thought",
   partOfCollections: ["byu-vocal-point"],

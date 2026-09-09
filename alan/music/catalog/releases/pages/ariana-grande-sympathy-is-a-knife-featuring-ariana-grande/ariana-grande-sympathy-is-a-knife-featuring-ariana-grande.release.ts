@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrande = {
   id: "01a0676a-d72b-7008-a826-df4cf82f1c7a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",
   title: "Sympathy is a knife featuring ariana grande",
   partOfCollections: ["ariana-grande"],

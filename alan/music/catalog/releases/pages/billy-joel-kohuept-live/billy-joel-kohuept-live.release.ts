@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelKohueptLive = {
   id: "01a0676a-d722-704c-a8e8-977ef5abaf74",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-kohuept-live",
   title: "Kohuept (Live)",
   partOfCollections: ["billy-joel"],

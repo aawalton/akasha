@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishBurnWithVinceStaples = {
   id: "01a0676a-d717-7015-a0de-559d48fbe7e4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-burn-with-vince-staples",
   title: "&burn (with Vince Staples)",
   partOfCollections: ["billie-eilish"],

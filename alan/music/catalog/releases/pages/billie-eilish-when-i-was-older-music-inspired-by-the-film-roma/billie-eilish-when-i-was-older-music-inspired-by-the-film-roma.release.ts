@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   id: "01a0676a-d730-7055-9afd-85fb9eb9a9b5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
   title: "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
   partOfCollections: ["billie-eilish"],

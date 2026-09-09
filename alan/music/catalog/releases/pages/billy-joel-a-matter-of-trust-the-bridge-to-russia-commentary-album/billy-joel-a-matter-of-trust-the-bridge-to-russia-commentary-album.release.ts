@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelAMatterOfTrustTheBridgeToRussiaCommentaryAlbum = {
   id: "01a0676a-d715-702f-8943-55316b8e459f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-a-matter-of-trust-the-bridge-to-russia-commentary-album",
   title: "A Matter Of Trust - The Bridge To Russia (Commentary Album)",
   partOfCollections: ["billy-joel"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayMusicOfTheSpheres = {
   id: "01a0676a-d725-701d-84b5-efcebbf88ce0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-music-of-the-spheres",
   title: "Music Of The Spheres",
   partOfCollections: ["coldplay"],

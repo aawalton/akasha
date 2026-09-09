@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeJasonSSongGaveItAway = {
   id: "01a0676a-d722-7021-b9a9-aa168ed15610",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-jason-s-song-gave-it-away",
   title: "Jason's Song (Gave It Away)",
   partOfCollections: ["ariana-grande"],

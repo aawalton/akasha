@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const adeleSendMyLoveToYourNewLover = {
   id: "01a0676a-d728-7060-997b-709385ce2514",
   pageTypeSlug: "release",
+  type: "release",
   slug: "adele-send-my-love-to-your-new-lover",
   title: "Send My Love (To Your New Lover)",
   partOfCollections: ["adele"],

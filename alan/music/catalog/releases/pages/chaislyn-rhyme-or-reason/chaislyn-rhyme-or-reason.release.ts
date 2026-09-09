@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const chaislynRhymeOrReason = {
   id: "01a0676a-d728-7003-b5e7-3de3a725b9a2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "chaislyn-rhyme-or-reason",
   title: "rhyme or reason",
   partOfCollections: ["chaislyn"],

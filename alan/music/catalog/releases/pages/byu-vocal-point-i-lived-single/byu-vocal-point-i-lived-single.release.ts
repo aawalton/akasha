@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointILivedSingle = {
   id: "01a0676a-d721-7027-b4b9-cd60897cf549",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-i-lived-single",
   title: "I Lived - Single",
   partOfCollections: ["byu-vocal-point"],

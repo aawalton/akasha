@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRingTheAlarm = {
   id: "01a0676a-d728-700b-a3a2-58da70a3a62f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
   partOfCollections: ["aurora"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoLiveAtElectricLady = {
   id: "01a0676a-d723-7043-a94c-51c06d12b7a8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-live-at-electric-lady",
   title: "Live at Electric Lady",
   partOfCollections: ["clairo"],

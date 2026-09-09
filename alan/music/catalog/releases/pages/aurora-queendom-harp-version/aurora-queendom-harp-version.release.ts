@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraQueendomHarpVersion = {
   id: "01a0676a-d727-703a-a3db-d4efc9f742d9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-queendom-harp-version",
   title: "Queendom (Harp Version)",
   partOfCollections: ["aurora"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelLiveThroughTheYears = {
   id: "01a0676a-d723-7056-ae4c-da9418043288",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-live-through-the-years",
   title: "Live Through the Years",
   partOfCollections: ["billy-joel"],

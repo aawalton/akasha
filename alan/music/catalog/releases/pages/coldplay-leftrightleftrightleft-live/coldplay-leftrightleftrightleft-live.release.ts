@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayLeftrightleftrightleftLive = {
   id: "01a0676a-d722-7073-b588-3a20c6e3c383",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-leftrightleftrightleft-live",
   title: "LeftRightLeftRightLeft (Live)",
   partOfCollections: ["coldplay"],

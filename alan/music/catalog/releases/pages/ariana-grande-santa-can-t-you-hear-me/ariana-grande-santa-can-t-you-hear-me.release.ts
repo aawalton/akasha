@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeSantaCanTYouHearMe = {
   id: "01a0676a-d728-703c-a8b7-370f7669aec1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-santa-can-t-you-hear-me",
   title: "Santa, Can’t You Hear Me",
   partOfCollections: ["ariana-grande"],

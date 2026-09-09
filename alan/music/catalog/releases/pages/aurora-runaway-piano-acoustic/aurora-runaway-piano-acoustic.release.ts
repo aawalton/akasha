@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRunawayPianoAcoustic = {
   id: "01a0676a-d728-702f-a748-ed81b96199cb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-runaway-piano-acoustic",
   title: "Runaway (Piano Acoustic)",
   partOfCollections: ["aurora"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelLiveAtSheaStadium = {
   id: "01a0676a-d723-7044-a2af-c4ed30c5bac2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-live-at-shea-stadium",
   title: "Live At Shea Stadium",
   partOfCollections: ["billy-joel"],

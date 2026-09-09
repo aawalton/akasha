@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishHappierThanEver = {
   id: "01a0676a-d71f-7048-8dee-be24cf239e03",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-happier-than-ever",
   title: "Happier Than Ever",
   partOfCollections: ["billie-eilish"],

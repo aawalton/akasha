@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeDieForYouRemix = {
   id: "01a0676a-d71c-7012-824c-db9ca1da6fee",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-die-for-you-remix",
   title: "Die For You (Remix)",
   partOfCollections: ["ariana-grande"],

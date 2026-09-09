@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurry = {
   id: "01a0676a-d721-7057-8e56-ff49df251344",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-ilomilo-live-from-the-film-billie-eilish-the-world-s-a-little-blurry",
   title: "ilomilo (Live From The Film - Billie Eilish: The World’s A Little Blurry)",
   partOfCollections: ["billie-eilish"],

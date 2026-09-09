@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
   id: "01a0676a-d71e-7027-80df-391cc196b9a4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-for-the-humans-who-take-long-walks-in-the-forest",
   title: "FOR THE HUMANS WHO TAKE LONG WALKS IN THE FOREST",
   partOfCollections: ["aurora"],

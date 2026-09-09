@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2TheDawningOfTheDay = {
   id: "01a0676a-d72c-7046-891d-89450edbec52",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-the-dawning-of-the-day",
   title: "The Dawning Of The Day",
   partOfCollections: ["celtic-woman-2"],

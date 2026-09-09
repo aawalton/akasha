@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraRunawayOrchestral = {
   id: "01a0676a-d728-702e-82fe-d6d0abfc3cdb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-runaway-orchestral",
   title: "Runaway (Orchestral)",
   partOfCollections: ["aurora"],

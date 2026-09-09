@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraForgottenLoveClaptoneRemix = {
   id: "01a0676a-d71e-702f-ac3c-eff4b5877dfb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-forgotten-love-claptone-remix",
   title: "Forgotten Love (Claptone Remix)",
   partOfCollections: ["aurora"],

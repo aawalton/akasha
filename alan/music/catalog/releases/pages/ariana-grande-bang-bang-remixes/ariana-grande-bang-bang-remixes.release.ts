@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeBangBangRemixes = {
   id: "01a0676a-d718-7016-b00d-a43928116d47",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-bang-bang-remixes",
   title: "Bang Bang (Remixes)",
   partOfCollections: ["ariana-grande"],

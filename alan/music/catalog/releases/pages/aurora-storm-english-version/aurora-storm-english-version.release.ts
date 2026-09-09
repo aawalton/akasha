@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraStormEnglishVersion = {
   id: "01a0676a-d72a-7024-a58d-95f7ac543f0a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-storm-english-version",
   title: "Storm (English Version)",
   partOfCollections: ["aurora"],

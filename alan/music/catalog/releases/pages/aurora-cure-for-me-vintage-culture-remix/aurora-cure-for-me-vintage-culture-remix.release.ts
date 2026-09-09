@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraCureForMeVintageCultureRemix = {
   id: "01a0676a-d71b-7048-a7c5-a63ca4884456",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-cure-for-me-vintage-culture-remix",
   title: "Cure For Me (Vintage Culture Remix)",
   partOfCollections: ["aurora"],

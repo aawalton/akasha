@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2Solo = {
   id: "01a0676a-d729-704d-b635-edd4d4139a19",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-solo",
   title: "Solo",
   partOfCollections: ["celtic-woman-2"],

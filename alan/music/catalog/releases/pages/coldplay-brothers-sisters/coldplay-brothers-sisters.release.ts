@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayBrothersSisters = {
   id: "01a0676a-d719-703d-96b6-071f71531674",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-brothers-sisters",
   title: "Brothers & Sisters",
   partOfCollections: ["coldplay"],

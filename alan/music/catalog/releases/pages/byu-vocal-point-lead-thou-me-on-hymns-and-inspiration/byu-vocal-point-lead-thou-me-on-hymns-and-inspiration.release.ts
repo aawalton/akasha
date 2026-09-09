@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointLeadThouMeOnHymnsAndInspiration = {
   id: "01a0676a-d722-7066-870b-0a8f8e26799c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-lead-thou-me-on-hymns-and-inspiration",
   title: "Lead Thou Me On: Hymns and Inspiration",
   partOfCollections: ["byu-vocal-point"],

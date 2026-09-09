@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraTheConflictOfTheMind = {
   id: "01a0676a-d72c-7044-8a13-f74f8146a3cb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-the-conflict-of-the-mind",
   title: "The Conflict of the Mind",
   partOfCollections: ["aurora"],

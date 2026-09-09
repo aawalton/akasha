@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayLetSomebodyGoOfenbachRemix = {
   id: "01a0676a-d723-7023-936a-eb63b497ac0f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-let-somebody-go-ofenbach-remix",
   title: "Let Somebody Go (Ofenbach Remix)",
   partOfCollections: ["coldplay"],

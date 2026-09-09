@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const backstreetBoys2DonTGoBreakingMyHeartTheRemixes = {
   id: "01a0676a-d71c-7020-8216-886baf560d15",
   pageTypeSlug: "release",
+  type: "release",
   slug: "backstreet-boys-2-don-t-go-breaking-my-heart-the-remixes",
   title: "Don't Go Breaking My Heart (The Remixes)",
   partOfCollections: ["backstreet-boys-2"],

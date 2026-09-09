@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointYouWillBeFoundFromDearEvanHansen = {
   id: "01a0676a-d732-7021-8741-1b7d0f4e098c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-you-will-be-found-from-dear-evan-hansen",
   title: 'You Will Be Found (From "Dear Evan Hansen")',
   partOfCollections: ["byu-vocal-point"],

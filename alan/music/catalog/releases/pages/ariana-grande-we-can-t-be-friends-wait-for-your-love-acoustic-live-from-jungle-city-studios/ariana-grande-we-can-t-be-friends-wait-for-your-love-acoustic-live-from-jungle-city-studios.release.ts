@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCityStudios = {
   id: "01a0676a-d730-702c-9ae8-cb481c022447",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love-acoustic-live-from-jungle-city-studios",
   title: "we can't be friends (wait for your love) [acoustic (live from jungle city studios)]",
   partOfCollections: ["ariana-grande"],

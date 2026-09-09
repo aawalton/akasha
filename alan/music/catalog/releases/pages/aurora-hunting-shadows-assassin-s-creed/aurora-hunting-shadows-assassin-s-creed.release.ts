@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraHuntingShadowsAssassinSCreed = {
   id: "01a0676a-d720-7074-a8f7-ffd8995facac",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-hunting-shadows-assassin-s-creed",
   title: "Hunting Shadows (Assassin's Creed)",
   partOfCollections: ["aurora"],

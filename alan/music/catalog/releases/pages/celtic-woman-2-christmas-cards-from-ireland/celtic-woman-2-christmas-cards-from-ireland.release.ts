@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2ChristmasCardsFromIreland = {
   id: "01a0676a-d71a-7035-b4a8-e08cabea0a2a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-christmas-cards-from-ireland",
   title: "Christmas Cards From Ireland",
   partOfCollections: ["celtic-woman-2"],

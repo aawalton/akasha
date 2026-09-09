@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayClocks = {
   id: "01a0676a-d71b-7001-8751-fbdaa24e39a4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-clocks",
   title: "Clocks",
   partOfCollections: ["coldplay"],

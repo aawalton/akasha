@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayEveryTeardropIsAWaterfall = {
   id: "01a0676a-d71d-7033-aafd-13ab25efa176",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-every-teardrop-is-a-waterfall",
   title: "Every Teardrop Is a Waterfall",
   partOfCollections: ["coldplay"],

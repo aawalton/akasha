@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const celticWoman2TheBestOfChristmas = {
   id: "01a0676a-d72c-7030-83a7-e0fb62467b0b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "celtic-woman-2-the-best-of-christmas",
   title: "The Best of Christmas",
   partOfCollections: ["celtic-woman-2"],

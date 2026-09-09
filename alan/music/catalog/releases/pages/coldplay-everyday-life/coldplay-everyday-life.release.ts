@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayEverydayLife = {
   id: "01a0676a-d71d-703a-ade5-0292b88685cc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-everyday-life",
   title: "Everyday Life",
   partOfCollections: ["coldplay"],

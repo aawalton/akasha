@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayMidnightKygoRemix = {
   id: "01a0676a-d724-705e-b9b4-68209bbd87af",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-midnight-kygo-remix",
   title: "Midnight (Kygo Remix)",
   partOfCollections: ["coldplay"],

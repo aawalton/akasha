@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const arianaGrande7RingsRemix = {
   id: "01a0676a-d715-7015-b00c-9dbae9c8f092",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ariana-grande-7-rings-remix",
   title: "7 rings (Remix)",
   partOfCollections: ["ariana-grande"],

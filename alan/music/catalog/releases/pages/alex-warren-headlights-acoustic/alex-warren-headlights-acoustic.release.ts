@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const alexWarrenHeadlightsAcoustic = {
   id: "01a0676a-d720-7009-8430-d8d4bdcf3ff7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "alex-warren-headlights-acoustic",
   title: "Headlights (Acoustic)",
   partOfCollections: ["alex-warren"],

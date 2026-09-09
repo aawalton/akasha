@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const clairoCloserToYou = {
   id: "01a0676a-d71b-7003-8585-58e796b5422c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "clairo-closer-to-you",
   title: "Closer To You",
   partOfCollections: ["clairo"],

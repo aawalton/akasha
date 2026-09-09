@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const byuVocalPointHomewardBound = {
   id: "01a0676a-d720-7057-b566-fb435fbbe6bc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "byu-vocal-point-homeward-bound",
   title: "Homeward Bound",
   partOfCollections: ["byu-vocal-point"],

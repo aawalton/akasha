@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billyJoelBillyJoelPlaces = {
   id: "01a0676a-d719-7006-97e5-4203997a3860",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billy-joel-billy-joel-places",
   title: "Billy Joel - Places",
   partOfCollections: ["billy-joel"],

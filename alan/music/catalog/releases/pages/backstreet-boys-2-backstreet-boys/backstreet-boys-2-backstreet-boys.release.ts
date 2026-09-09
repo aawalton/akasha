@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const backstreetBoys2BackstreetBoys = {
   id: "01a0676a-d718-7001-ae83-b1ec0bf7570a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "backstreet-boys-2-backstreet-boys",
   title: "Backstreet Boys",
   partOfCollections: ["backstreet-boys-2"],

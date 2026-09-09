@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const billieEilishComeOutAndPlay = {
   id: "01a0676a-d71b-701a-acdf-832a2a252f4f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",
   partOfCollections: ["billie-eilish"],

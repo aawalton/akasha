@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraARockSomewhereTheSeedForGreenpeace = {
   id: "01a0676a-d715-703b-b9b9-6349dba9bb49",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-a-rock-somewhere-the-seed-for-greenpeace",
   title: "A Rock Somewhere / The Seed (For Greenpeace)",
   partOfCollections: ["aurora"],

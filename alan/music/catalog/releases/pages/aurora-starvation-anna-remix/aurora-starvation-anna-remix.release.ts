@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const auroraStarvationAnnaRemix = {
   id: "01a0676a-d72a-7019-97a4-40f02c144442",
   pageTypeSlug: "release",
+  type: "release",
   slug: "aurora-starvation-anna-remix",
   title: "Starvation (ANNA Remix)",
   partOfCollections: ["aurora"],
