@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0412Chapter2147 = {
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 412,
   ownLength: 2080,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1131693/chapter-2147",
