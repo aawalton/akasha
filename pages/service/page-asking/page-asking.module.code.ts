@@ -138,7 +138,7 @@ export function ownerFor(root: string, named: Named, pageTypeSlug: string): stri
     walked.add(own)
     const page = pagesOfType(root, named, PAGE_TYPE).get(own)
     if (page === undefined) continue
-    const owner = textAt(page, "ownerSlug")
+    const owner = textAt(page, "owner")
     if (owner !== null && owner !== "") return slugOf(owner)
     for (const above of [...slugsIn(page["extendsSlug"])].reverse()) waiting.push(above)
   }

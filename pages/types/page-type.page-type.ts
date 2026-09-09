@@ -7,7 +7,7 @@ import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { NextSeq } from "./properties/next-seq.number-property.ts"
-import type { OwnerSlug } from "./properties/owner-slug.relation-property.ts"
+import type { Owner } from "./properties/owner.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
@@ -23,7 +23,7 @@ export type PageType = Domain & {
   mediaConfig?: MediaConfig
   sequence?: Sequence
   nextSeq?: NextSeq
-  ownerSlug?: OwnerSlug
+  owner?: Owner
   runsTabooCheck?: RunsTabooCheck
   allowsTmpPaths?: AllowsTmpPaths
   worked?: Worked
@@ -69,7 +69,7 @@ export const pageType = {
     "relation-property/child-type",
     "relation-property/extends-slug",
     "relation-property/loaded-by-slug",
-    "relation-property/owner-slug",
+    "relation-property/owner",
     "relation-property/page-property-slug",
     "text-property/body-property-id",
     "text-property/child-relation",
@@ -104,7 +104,7 @@ export const pageType = {
     { pagePropertySlug: "boolean-property/runs-taboo-check", required: false, many: false },
     { pagePropertySlug: "boolean-property/allows-tmp-paths", required: false, many: false },
     { pagePropertySlug: "number-property/next-seq", required: false, many: false },
-    { pagePropertySlug: "relation-property/owner-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/owner", required: false, many: false },
     { pagePropertySlug: "file-property/worked", required: false, many: false },
   ],
   invariants: [

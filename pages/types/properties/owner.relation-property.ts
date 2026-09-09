@@ -1,13 +1,13 @@
 import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 
-export type OwnerSlug = Slug
+export type Owner = Slug
 
-export const ownerSlug = {
+export const owner = {
   id: "01a06c50-b15f-7d22-9f4b-7590e602dd05",
   pageTypeSlug: "relation-property",
-  slug: "owner-slug",
-  propertySlug: "owner-slug",
+  slug: "owner",
+  propertySlug: "owner",
   definition: "the property naming the account a page belongs to",
   targetPageTypeSlug: "page-type/page-property",
   invariants: [

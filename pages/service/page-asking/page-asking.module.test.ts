@@ -31,7 +31,7 @@ test("the owner is read from the second page type above where the first states n
   const held = typesHeld({
     under: { extendsSlug: ["page-type/one", "page-type/two"] },
     one: {},
-    two: { ownerSlug: "account-page" },
+    two: { owner: "account-page" },
   })
   expect(ownerFor(root, held, "under")).toBe("account-page")
 })
@@ -40,8 +40,8 @@ test("the owner is taken from the nearer of the page types above", () => {
   const held = typesHeld({
     under: { extendsSlug: ["page-type/close", "page-type/apart"] },
     close: { extendsSlug: ["page-type/distant"] },
-    apart: { ownerSlug: "apart-owner" },
-    distant: { ownerSlug: "distant-owner" },
+    apart: { owner: "apart-owner" },
+    distant: { owner: "distant-owner" },
   })
   expect(ownerFor(root, held, "under")).toBe("apart-owner")
 })
@@ -49,8 +49,8 @@ test("the owner is taken from the nearer of the page types above", () => {
 test("where two page types above are equally near, the owner is the last one named", () => {
   const held = typesHeld({
     under: { extendsSlug: ["page-type/first", "page-type/second"] },
-    first: { ownerSlug: "first-owner" },
-    second: { ownerSlug: "second-owner" },
+    first: { owner: "first-owner" },
+    second: { owner: "second-owner" },
   })
   expect(ownerFor(root, held, "under")).toBe("second-owner")
 })
@@ -58,7 +58,7 @@ test("where two page types above are equally near, the owner is the last one nam
 test("a page type above that nothing holds stops no other climb", () => {
   const held = typesHeld({
     under: { extendsSlug: ["page-type/there", "page-type/nothing-holds-this"] },
-    there: { ownerSlug: "there-owner" },
+    there: { owner: "there-owner" },
   })
   expect(ownerFor(root, held, "under")).toBe("there-owner")
 })
