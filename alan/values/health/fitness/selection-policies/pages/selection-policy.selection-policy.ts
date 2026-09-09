@@ -1,4 +1,4 @@
-import type { SelectionPolicy } from "../selection-policy.page-type.ts"
+import type { SelectionPolicy } from "../selection-policy.page-type.types.ts"
 
 export const selectionPolicy = {
   id: "01a06862-a02e-7416-95e5-bb41af7c60d1",
