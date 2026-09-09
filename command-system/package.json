@@ -7,7 +7,6 @@
     "./calling/testing": "./calling/calling.module.test-fixtures.ts",
     "./command-answering": "./command-answering/command-answering.module.code.ts",
     "./command-declaring": "./command-declaring/command-declaring.module.code.ts",
-    "./during-call": "./during-call/during-call.module.code.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",

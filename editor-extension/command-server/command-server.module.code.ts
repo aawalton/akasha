@@ -1,5 +1,4 @@
 import { writeSync } from "node:fs"
-import { duringOneCall } from "@akasha/command-system/during-call"
 import {
   COMMANDS_SERVED,
   LEASE_ENV,
@@ -8,6 +7,7 @@ import {
   PROTOCOL,
 } from "@akasha/editor-extension/commands-served"
 import { sayAnswer } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import { duringOneCall } from "../../commands/modules/during-call/during-call.module.code.ts"
 
 const HERE = "editor-extension/command-server/command-server.module.code.ts"
 

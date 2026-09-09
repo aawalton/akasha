@@ -1,10 +1,10 @@
 import { statSync } from "node:fs"
 import { join } from "node:path"
-import { onceInCall } from "@akasha/command-system/during-call"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { everyOfType, listedById } from "@akasha/pages/index-reading"
 import { uncommittedAt } from "@akasha/pages/page-file-name"
 import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { onceInCall } from "../../commands/modules/during-call/during-call.module.code.ts"
 import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
 
 export type Beside = Record<string, unknown>
@@ -66,9 +66,6 @@ export function akashaSeatPathForAgent(agentId: string): string | null {
   return one?.path.startsWith(SEAT_DIR) === true ? one.path : null
 }
 
-// THE SEAT PAGE A CALLER READS FOR ITS OWN SEAT READING. A subagent holds no page of its own here,
-// so it is answered the page of the seat it was spawned under, found by splitting its id the way
-// its values already are.
 export function akashaSeatPathForCaller(agentId: string): string | null {
   const own = akashaSeatPathForAgent(agentId)
   if (own !== null) return own
@@ -119,10 +116,6 @@ export function akashaHolderProcessOf(agentId: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-// THE MODE THE SEAT IS RUNNING IN, WHICH IS OBSERVED RATHER THAN DECLARED. The seat's page states
-// the mode it was asked to start in and that value is never revisited; this one is written by the
-// supervisor holding the seat, on the same beat as its process key, so the two answer for one
-// another — a mode read here belongs to the supervisor read there.
 export function akashaRunningModeOf(agentId: string): string | null {
   const held = akashaValueOf(agentId, MODE)
   return typeof held === "string" && held !== "" ? held : null

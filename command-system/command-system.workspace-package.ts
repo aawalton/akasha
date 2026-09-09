@@ -11,7 +11,6 @@ export const commandSystem = {
     "module/calling",
     "module/command-answering",
     "module/command-declaring",
-    "module/during-call",
     "module/fault-saying",
     "module/reading",
     "module/rooting",
