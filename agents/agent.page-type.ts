@@ -1,16 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
-import type { PrincipalSeatName } from "../seat-system/seats/properties/principal-seat-name.relation-property.ts"
-import type { Edits } from "./properties/edits.file-property.ts"
-import type { Refusals } from "./properties/refusals.file-property.ts"
-
-export type Agent = Page & {
-  assignmentSlug: AssignmentSlug
-  principalSeatName?: PrincipalSeatName
-  edits?: Edits
-  refusals?: Refusals
-}
 
 export const agent = {
   id: "01a06257-7813-710a-a637-a50b6dd747d9",
@@ -85,4 +73,5 @@ export const agent = {
       statement: "Every act an agent leaves for later has a reminder set for that act.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

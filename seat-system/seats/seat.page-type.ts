@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Agent } from "../../agents/agent.page-type.ts"
+import type { Agent } from "../../agents/agent.page-type.types.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
 import type { Mode } from "./properties/mode.text-property.ts"
