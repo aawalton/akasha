@@ -9,7 +9,7 @@ export const problems301400 = {
   position: 4,
   ownLength: 1875000,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalLink: "https://projecteuler.net/",
 } as const satisfies GameAchievement

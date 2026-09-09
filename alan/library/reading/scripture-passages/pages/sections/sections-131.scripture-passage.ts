@@ -9,7 +9,7 @@ export const sections131 = {
   position: 131,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "doctrineandcovenants131",
 } as const satisfies ScripturePassage

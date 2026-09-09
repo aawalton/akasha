@@ -9,6 +9,6 @@ export const musicalTheater = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
 } as const satisfies ReleaseCollection

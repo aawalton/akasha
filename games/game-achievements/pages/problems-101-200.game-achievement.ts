@@ -9,7 +9,7 @@ export const problems101200 = {
   position: 2,
   ownLength: 1000000,
   ownProgress: 220000,
-  unitSlug: "words",
+  unit: "words",
   status: "in-progress",
   rank: "A",
   externalLink: "https://projecteuler.net/",

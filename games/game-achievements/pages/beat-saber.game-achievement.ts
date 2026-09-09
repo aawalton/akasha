@@ -9,7 +9,7 @@ export const beatSaber = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "in-progress",
   rank: "A",
 } as const satisfies GameAchievement

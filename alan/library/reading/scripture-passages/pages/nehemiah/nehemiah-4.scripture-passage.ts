@@ -9,7 +9,7 @@ export const nehemiah4 = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "nehemiah4",
 } as const satisfies ScripturePassage
