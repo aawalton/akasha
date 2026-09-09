@@ -3,6 +3,7 @@ import type { Index } from "../index.page-type.ts"
 export const indexValue = {
   id: "01a05a6c-58a0-7619-8d8c-32d90706a524",
   pageTypeSlug: "index",
+  type: "index",
   slug: "index-value",
   definition: "an index from a page type to the values its pages have",
   name: "value",

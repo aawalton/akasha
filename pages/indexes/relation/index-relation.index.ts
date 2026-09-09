@@ -3,6 +3,7 @@ import type { Index } from "../index.page-type.ts"
 export const indexRelation = {
   id: "01a04a4a-23e9-77f1-b8ce-68661b5a2925",
   pageTypeSlug: "index",
+  type: "index",
   slug: "index-relation",
   definition: "an index from a page to the pages naming it",
   name: "relation",
