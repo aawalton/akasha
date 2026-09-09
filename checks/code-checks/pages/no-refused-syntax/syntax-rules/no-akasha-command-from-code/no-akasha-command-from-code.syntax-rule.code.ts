@@ -1,15 +1,7 @@
-import { dirname, relative } from "node:path"
 import { lineOf } from "@akasha/code/code-source"
-import { rootOf } from "@akasha/command-system/rooting"
 import { basenameOf } from "@akasha/hook-system/shell-calls"
 import ts from "typescript"
 import type { Given, Refusal } from "../syntax-rule.page-type.ts"
-
-const RESOLVED = require.resolve("@akasha/command-system/cli")
-
-export const DISPATCHER = relative(rootOf(RESOLVED), RESOLVED)
-
-export const DISPATCHER_AT = `${dirname(DISPATCHER)}/`
 
 const COMMAND = "akasha"
 
@@ -93,15 +85,11 @@ export function shellHeadIn(node: ts.TaggedTemplateExpression): string | null {
 }
 
 export function noAkashaCommandFromCode(standing: Given): readonly Refusal[] {
-  if (standing.path.startsWith(DISPATCHER_AT)) return []
   const bound = boundIn(standing.source)
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node) && launchedBy(node)) {
-      const every = node.arguments.flatMap((one) => spelledIn(one, bound))
-      const dispatcher = every.find((one) => one.endsWith(DISPATCHER))
-      const named = programIn(node, bound).find((one) => basenameOf(one) === COMMAND)
-      const said = dispatcher ?? named
+      const said = programIn(node, bound).find((one) => basenameOf(one) === COMMAND)
       if (said !== undefined) {
         found.push({
           line: lineOf(standing.source, node),

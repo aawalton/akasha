@@ -10,12 +10,11 @@ export const noAkashaCommandFromCode = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The dispatcher's path is refused wherever that path sits among a launching call's arguments.",
+      statement: "The command's own name is refused in the program's place alone.",
     },
     {
-      invariantKind: "departure",
-      statement: "The command's own name is refused in the program's place alone.",
+      invariantKind: "absence",
+      statement: "No path a launching call names is read, so no folder is spelled here.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +30,7 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A file sitting in the dispatcher's own folder is judged not.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A test file anywhere else is judged as every other file is judged.",
+      statement: "A test file is judged as every other file is judged.",
     },
     {
       invariantKind: "departure",

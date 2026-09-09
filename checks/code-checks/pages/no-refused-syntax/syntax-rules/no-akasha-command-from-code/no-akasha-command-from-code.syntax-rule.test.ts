@@ -1,13 +1,6 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code/code-source"
 import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
-import {
-  DISPATCHER,
-  DISPATCHER_AT,
-  noAkashaCommandFromCode,
-} from "./no-akasha-command-from-code.syntax-rule.code.ts"
-
-const CLI = `akasha/${DISPATCHER}`
+import { noAkashaCommandFromCode } from "./no-akasha-command-from-code.syntax-rule.code.ts"
 
 test("a file launching nothing is refused nothing", () => {
   expect(noAkashaCommandFromCode(parsed("export const one = 1\n"))).toEqual([])
@@ -24,26 +17,15 @@ test("the command run by a path ending in its name is refused", () => {
   expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(1)
 })
 
-test("the dispatcher named straight in a launching call is refused", () => {
-  const text = `Bun.spawnSync([bun, "${CLI}"])\n`
-  expect(noAkashaCommandFromCode(parsed(text))).toHaveLength(1)
-})
-
-test("the dispatcher reached through a bound name and a join is refused", () => {
-  const text =
-    `const CLI = "${CLI}"\n` + "Bun.spawnSync([process.execPath, join(root, CLI), ...args])\n"
+test("the command reached through a bound name and a join is refused", () => {
+  const text = 'const AKASHA = "akasha"\n' + 'spawnSync(join(bin, AKASHA), ["read"])\n'
   const said = noAkashaCommandFromCode(parsed(text))
   expect(said).toHaveLength(1)
   expect(said[0]?.line).toBe(2)
 })
 
-test("the dispatcher written as data and launched by nothing is left", () => {
-  const text = `const DISPATCHER = "${CLI}"\n`
-  expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
-})
-
-test("the dispatcher handed to a path reader is left", () => {
-  const text = `expect(rootOf("/one/${CLI}")).toBe("/one")\n`
+test("the dispatcher run as an argument is left to the rule refusing every run", () => {
+  const text = 'Bun.spawnSync([bun, "akasha/command-system/cli/cli.module.code.ts"])\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
@@ -55,12 +37,6 @@ test("the command named in text shown to a reader is left", () => {
 test("the command's name argued to another program is left", () => {
   const text = 'spawnSync("git", ["clone", "akasha"])\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
-})
-
-test("a file sitting in the dispatcher's own folder is refused nothing", () => {
-  const at = `${DISPATCHER_AT}cli.module.test.ts`
-  const text = `Bun.spawnSync([process.execPath, "${CLI}"])\n`
-  expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
 })
 
 test("a program starting itself to outlive its caller is left", () => {
