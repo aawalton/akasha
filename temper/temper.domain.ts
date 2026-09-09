@@ -104,7 +104,7 @@ export const temper = {
     "domain/temper-items-rules-core",
     "domain/temper-skill-kinds",
     "eso-addon/temper-interface-addon",
-    "workspace-package/temper-character-sources",
+    "domain/temper-character-sources",
     "domain/temper-player-completion",
     "domain/temper-companions-core",
     "domain/temper-items-rules-eval",

@@ -1,13 +1,12 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCharacterSources = {
   id: "01a060ea-ac66-7120-a995-b58614b651f2",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-character-sources",
   definition:
     "the effect sources a character build carries beyond its class, race, gear and skills",
-  manifest: "json",
   parts: [
     "module/alliances",
     "module/character-roles",
@@ -27,11 +26,11 @@ export const temperCharacterSources = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character's class and race are named outside this package.",
+      statement: "A character's class and race are named outside this folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A character's gear is named outside this package.",
+      statement: "A character's gear is named outside this folder.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

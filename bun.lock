@@ -38,7 +38,6 @@
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -978,12 +977,6 @@
     "temper/catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
-    "temper/character-sources": {
-      "name": "@akasha/temper-character-sources",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/characters-addon": {
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
@@ -1219,7 +1212,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
@@ -1405,8 +1397,6 @@
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/catalog-core"],
-
-    "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:temper/character-sources"],
 
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/characters-addon"],
 
