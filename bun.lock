@@ -385,18 +385,6 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "command-system": {
-      "name": "@akasha/command-system",
-      "dependencies": {
-        "@akasha/agents": "workspace:*",
-        "@akasha/changes": "workspace:*",
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "design/forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
@@ -1135,8 +1123,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/code": ["@akasha/code@workspace:code-system"],
-
-    "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
     "@akasha/design-forms": ["@akasha/design-forms@workspace:design/forms"],
 
