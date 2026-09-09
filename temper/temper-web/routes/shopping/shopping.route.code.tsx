@@ -1,7 +1,7 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { getUser } from "@akasha/supabase-rr/auth-server"
-import { ShoppingPageContent } from "@akasha/temper-player-economics-ui/shopping-page-content"
+import { ShoppingPageContent } from "akasha/temper/player-economics-ui/shopping-page-content/shopping-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
 import { useShoppingMarks } from "../../player-settings/player-settings.module.code.ts"
