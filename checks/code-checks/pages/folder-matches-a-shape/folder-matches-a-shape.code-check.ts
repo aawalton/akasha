@@ -41,6 +41,19 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The name a folder is asked for is never a name opening with what the page above it is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder is asked for no name where taking that opening off leaves nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape says so rather than asking for a name that folder would be refused for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder named for a part rather than for a page is asked for no such name.",
     },
     {

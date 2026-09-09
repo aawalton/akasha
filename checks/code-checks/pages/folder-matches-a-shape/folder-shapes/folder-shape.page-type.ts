@@ -15,6 +15,8 @@ export type Declaring = {
   readonly propertySlugs: ReadonlySet<string>
 }
 
+export type Wanted = { readonly name: string } | { readonly name: null; readonly gives: string }
+
 export type Standing = {
   readonly folder: string
   readonly files: readonly string[]
@@ -26,7 +28,7 @@ export type Standing = {
   readonly subfolders: readonly string[]
   readonly under: (folder: string) => readonly string[]
   readonly declaring: (folder: string) => Declaring | null
-  readonly naming: (folder: string) => string | null
+  readonly naming: (folder: string) => Wanted | null
   readonly holds: (folder: string) => readonly string[]
   readonly declared: (folder: string) => ReadonlySet<string>
   readonly parts: (page: Held) => readonly string[]
@@ -151,6 +153,24 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "That name has the opening it shares with the page above the folder taken off.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The opening is taken off again while what is left still opens with a name the page above has.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name a folder answers with opens with no name the page above that folder has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder answers with no name where taking that opening off leaves nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer is a folder wanting a name rather than a folder wanting none.",
     },
     {
       invariantKind: "departure",

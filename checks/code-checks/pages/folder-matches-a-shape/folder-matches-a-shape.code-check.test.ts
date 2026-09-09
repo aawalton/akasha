@@ -14,10 +14,13 @@ import {
   holdingOver,
   namesFiling,
   namingFolderOf,
+  namingOver,
+  openingWith,
   type Paged,
   pageNameOf,
   partOfOver,
   partsOver,
+  strippedOf,
 } from "./folder-matches-a-shape.code-check.code.ts"
 import { folderFrom } from "./folder-matches-a-shape.code-check.test-fixtures.ts"
 import { sectionsOfTheBookAbove } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
@@ -125,6 +128,30 @@ test("a path the change takes away still carries the folders above it", () => {
     change(["akasha/a/one.ts"], { "akasha/a/one.ts": null }, { "akasha/a/one.ts": "" })
   )
   expect(said.has("akasha/a")).toBe(true)
+})
+
+test("the opening a name shares with the page above it is taken off, and no more", () => {
+  expect(strippedOf("temper-world-zones", ["temper-world", "temper-worlds"])).toBe("zones")
+  expect(strippedOf("zones", ["temper-world", "temper-worlds"])).toBe("zones")
+})
+
+test("the opening is taken off again while what is left still opens with a name above", () => {
+  expect(openingWith("y-z", ["x", "y"])).toBe("y")
+  expect(strippedOf("x-y-z", ["x", "y"])).toBe("z")
+})
+
+test("a name the page above is named leaves nothing, so no name is worked out", () => {
+  expect(strippedOf("temper-skills", ["temper-skill", "temper-skills"])).toBe(null)
+})
+
+test("a folder wanting a name that cannot be worked out still wants a name", () => {
+  const naming = namingOver(
+    holding({
+      "akasha/temper-skills": ["temper-skills", "temper-skills"],
+      "akasha/temper-skills/skills": ["temper-skill", "temper-skills"],
+    })
+  )
+  expect(naming("akasha/temper-skills/skills")).toEqual({ name: null, gives: "temper-skills" })
 })
 
 test("a folder named `pages` the page in it names is that page's folder rather than a part", () => {

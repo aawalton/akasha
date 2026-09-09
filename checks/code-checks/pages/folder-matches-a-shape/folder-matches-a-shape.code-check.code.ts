@@ -19,7 +19,7 @@ import {
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Declaring, Standing } from "./folder-shapes/folder-shape.page-type.ts"
+import type { Declaring, Standing, Wanted } from "./folder-shapes/folder-shape.page-type.ts"
 import {
   ancestorsOf,
   folderOf,
@@ -204,11 +204,18 @@ export function declaringOver(
 
 export const HELD_FOLDERS = new Set<string>([MODULES, PAGES, PROPERTIES, SCRIPTS])
 
-export function strippedOf(named: string, above: readonly string[]): string {
+export function openingWith(named: string, above: readonly string[]): string | null {
   for (const one of above) {
-    if (named.startsWith(`${one}-`)) return named.slice(one.length + 1)
+    if (named === one || named.startsWith(`${one}-`)) return one
   }
-  return named
+  return null
+}
+
+export function strippedOf(named: string, above: readonly string[]): string | null {
+  const one = openingWith(named, above)
+  if (one === null) return named
+  if (named === one) return null
+  return strippedOf(named.slice(one.length + 1), above)
 }
 
 export function heldFolder(at: string, holds: Holds): boolean {
@@ -248,13 +255,6 @@ export function foldersJudgedBy(
   }
   if (change.changed.length > 0) found.add(ROOT)
   return found
-}
-
-export function openingWith(named: string, above: readonly string[]): string | null {
-  for (const one of above) {
-    if (named === one || named.startsWith(`${one}-`)) return one
-  }
-  return null
 }
 
 export type Holding = {
@@ -332,12 +332,13 @@ export function holdingOver(
   }
 }
 
-export function namingOver(holds: Holds): (folder: string) => string | null {
+export function namingOver(holds: Holds): (folder: string) => Wanted | null {
   return (folder) => {
     const names = holds(folder).names
-    const wants = names[1] ?? names[0]
-    if (wants === undefined) return null
-    return strippedOf(wants, holds(namingFolderOf(folder, holds)).names)
+    const gives = names[1] ?? names[0]
+    if (gives === undefined) return null
+    const name = strippedOf(gives, holds(namingFolderOf(folder, holds)).names)
+    return name === null ? { name: null, gives } : { name }
   }
 }
 

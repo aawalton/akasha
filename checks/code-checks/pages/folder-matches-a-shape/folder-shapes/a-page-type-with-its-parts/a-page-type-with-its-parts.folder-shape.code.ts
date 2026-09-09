@@ -44,9 +44,13 @@ export function aPageTypeWithItsParts(standing: Standing): readonly string[] {
   }
   const named = basename(standing.folder)
   const wants = standing.naming(standing.folder)
-  if (wants !== null && wants !== named) {
+  if (wants !== null && wants.name === null) {
     said.push(
-      `it is named \`${named}\` rather than \`${wants}\`, what \`${page.slug}\` calls its folder`
+      `it wants a name this check cannot work out: \`${page.slug}\` calls its folder \`${wants.gives}\`, which is what the page above it is named`
+    )
+  } else if (wants !== null && wants.name !== named) {
+    said.push(
+      `it is named \`${named}\` rather than \`${wants.name}\`, what \`${page.slug}\` calls its folder`
     )
   }
   const declared = standing.declared(standing.folder)

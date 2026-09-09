@@ -1,13 +1,13 @@
 import { expect, test } from "bun:test"
 import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
-import type { Standing } from "../folder-shape.page-type.ts"
+import type { Standing, Wanted } from "../folder-shape.page-type.ts"
 import { aPageWithItsParts } from "./a-page-with-its-parts.folder-shape.code.ts"
 
 const FOLDER = "akasha/code-checks"
 
 const PAGE_TYPES = new Set<string>(["page-type", "domain", "module", "code-check"])
 
-const NAMING = new Map<string, string>([[FOLDER, "code-checks"]])
+const NAMING = new Map<string, Wanted>([[FOLDER, { name: "code-checks" }]])
 
 function over(deep: readonly string[]): (names: readonly string[]) => Standing {
   return folderFrom({
@@ -45,12 +45,25 @@ test("a folder named other than what its page calls it is refused, naming both",
   const held = folderFrom({
     folder: "akasha/code-check",
     pageTypes: PAGE_TYPES,
-    naming: () => "code-checks",
+    naming: () => ({ name: "code-checks" }),
   })
   const said = aPageWithItsParts(held(["code-check.page-type.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`code-check`")
   expect(said[0]).toContain("`code-checks`")
+})
+
+test("a folder wanting a name no name can be worked out for is refused for wanting one", () => {
+  const held = folderFrom({
+    folder: "akasha/temper-skills/skills",
+    pageTypes: PAGE_TYPES,
+    naming: () => ({ name: null, gives: "temper-skills" }),
+  })
+  const said = aPageWithItsParts(held(["temper-skill.page-type.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("cannot work out")
+  expect(said[0]).toContain("`temper-skills`")
+  expect(said[0]).toContain("`temper-skill`")
 })
 
 test("a folder holding no page at all is refused", () => {
@@ -76,7 +89,7 @@ test("a file the page does state a property for is a part rather than a stray", 
   const held = folderFrom({
     folder: "akasha/held",
     pageTypes: PAGE_TYPES,
-    naming: () => "held",
+    naming: () => ({ name: "held" }),
     parts: (page) => [page.path, "akasha/held/held.module.code.ts"],
   })
   expect(aPageWithItsParts(held(["held.module.ts", "held.module.code.ts"]))).toEqual([])
