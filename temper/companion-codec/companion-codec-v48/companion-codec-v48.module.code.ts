@@ -2,8 +2,8 @@ import {
   type BitReaderState,
   makeBitReader,
   readBits,
-} from "@akasha/temper-build-hash/build-hash-bit-reader"
-import { recordFromKeys } from "@akasha/temper-build-hash/record-from-keys"
+} from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
+import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
 import type { CompanionArmorSlotId } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {

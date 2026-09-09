@@ -39,7 +39,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
-        "@akasha/temper-build-hash": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
@@ -974,9 +973,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/build-hash": {
-      "name": "@akasha/temper-build-hash",
-    },
     "temper/build-metadata": {
       "name": "@akasha/temper-build-metadata",
       "dependencies": {
@@ -1538,8 +1534,6 @@
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 
     "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/temper-build-deploy-checks"],
-
-    "@akasha/temper-build-hash": ["@akasha/temper-build-hash@workspace:temper/build-hash"],
 
     "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:temper/build-metadata"],
 

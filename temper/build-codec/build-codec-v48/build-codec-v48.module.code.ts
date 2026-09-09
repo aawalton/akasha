@@ -2,7 +2,7 @@ import {
   type BitReaderState,
   makeBitReader,
   readBits,
-} from "@akasha/temper-build-hash/build-hash-bit-reader"
+} from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { RoleId } from "../../character-sources/character-roles/character-roles.module.code.ts"

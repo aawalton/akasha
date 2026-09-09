@@ -80,7 +80,6 @@
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-addon-init": "workspace:*",
-    "@akasha/temper-build-hash": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "sonner": "^2.0.7"
   },
