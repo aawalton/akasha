@@ -6,4 +6,5 @@ export const upscaleBenchSynth = {
   slug: "upscale-bench-synth",
   definition: "the manifests the upscale benchmark job is applied as",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module

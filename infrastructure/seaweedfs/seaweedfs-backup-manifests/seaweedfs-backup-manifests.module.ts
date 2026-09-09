@@ -6,4 +6,5 @@ export const seaweedfsBackupManifests = {
   slug: "seaweedfs-backup-manifests",
   definition: "the manifests copying the Postgres backups and the bulk data off to another disk",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module

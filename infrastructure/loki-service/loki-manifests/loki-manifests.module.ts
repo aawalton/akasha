@@ -6,4 +6,5 @@ export const lokiManifests = {
   slug: "loki-manifests",
   definition: "the namespace, configuration, deployment and service manifests Loki runs as",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module

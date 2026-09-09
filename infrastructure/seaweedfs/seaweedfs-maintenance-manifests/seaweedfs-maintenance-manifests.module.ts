@@ -6,4 +6,5 @@ export const seaweedfsMaintenanceManifests = {
   slug: "seaweedfs-maintenance-manifests",
   definition: "the manifests setting the bucket quotas and vacuuming the volumes",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module

@@ -6,6 +6,7 @@ export const upscaleServingJob = {
   slug: "upscale-serving-job",
   definition: "the cluster job one image is upscaled by on a GPU node",
   code: "ts",
+  allowsTmpPaths: true,
   invariants: [
     {
       invariantKind: "departure",

@@ -6,4 +6,5 @@ export const seaweedfsPruneManifests = {
   slug: "seaweedfs-prune-manifests",
   definition: "the manifests removing stored agent sessions past their age",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module

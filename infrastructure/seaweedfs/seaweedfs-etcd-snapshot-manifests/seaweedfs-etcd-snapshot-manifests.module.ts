@@ -6,4 +6,5 @@ export const seaweedfsEtcdSnapshotManifests = {
   slug: "seaweedfs-etcd-snapshot-manifests",
   definition: "the manifests writing a copy of the cluster's key store into a bucket",
   code: "ts",
+  allowsTmpPaths: true,
 } as const satisfies Module
