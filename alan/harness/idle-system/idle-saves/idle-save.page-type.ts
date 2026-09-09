@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type IdleSave = Page
 
 export const idleSave = {
   id: "01a06826-794a-7698-b659-62bf92ba16c3",
@@ -34,4 +31,5 @@ export const idleSave = {
         "The state a save has and that save's player are properties this type does not yet declare.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
