@@ -3,6 +3,7 @@ import type { RustModule } from "../../../../code-system/rust-modules/rust-modul
 export const watcherTrayInstaller = {
   id: "01a06034-87f4-7908-a23a-069bdb5b09be",
   pageTypeSlug: "rust-module",
+  type: "rust-module",
   slug: "watcher-tray-installer",
   definition: "what the tray puts in place on a machine before it runs",
   rust: "rs",

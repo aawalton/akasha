@@ -3,6 +3,7 @@ import type { LuaModule } from "@akasha/code/lua-module"
 export const luaDriver = {
   id: "01a06059-248f-7c70-9dae-f3a0aaf537b3",
   pageTypeSlug: "lua-module",
+  type: "lua-module",
   slug: "lua-driver",
   definition: "the loop a Lua subprocess runs, reading scripts in and writing answers back",
   lua: "lua",

@@ -3,6 +3,7 @@ import type { IosProgram } from "../../ios-program.page-type.ts"
 export const smilingjennyWidget = {
   id: "01a05907-081c-72e1-bd1f-67e6df79007e",
   pageTypeSlug: "ios-program",
+  type: "ios-program",
   slug: "smilingjenny-widget",
   definition: "the tiles on Jenny's home screen",
   bundleId: "me.smilingjenny.app.widgets",

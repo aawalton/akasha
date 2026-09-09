@@ -3,6 +3,7 @@ import type { InvariantKind } from "../invariant-kind.page-type.ts"
 export const constraint = {
   id: "01a04e11-9f98-7f57-a74d-2bf329d4a0a0",
   pageTypeSlug: "invariant-kind",
+  type: "invariant-kind",
   slug: "constraint",
   definition: "a limit nobody here chose",
   invariantGroup: "invariant-group/design",

@@ -3,6 +3,7 @@ import type { ModelFamily } from "../model-family.page-type.types.ts"
 export const opus = {
   id: "01a0535c-f2cf-71e9-80b5-6f202d28b05e",
   pageTypeSlug: "model-family",
+  type: "model-family",
   slug: "opus",
   definition: "more expensive, more capable",
   name: "claude-opus-5",

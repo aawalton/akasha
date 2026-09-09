@@ -3,6 +3,7 @@ import type { InvariantKind } from "../invariant-kind.page-type.ts"
 export const stopgap = {
   id: "01a04e11-9f98-71ff-aa09-58376078e6f5",
   pageTypeSlug: "invariant-kind",
+  type: "invariant-kind",
   slug: "stopgap",
   definition: "a state kept by hand until something is built to have it",
   invariantGroup: "invariant-group/condition",

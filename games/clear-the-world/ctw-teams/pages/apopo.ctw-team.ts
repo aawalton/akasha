@@ -3,6 +3,7 @@ import type { CtwTeam } from "../ctw-team.page-type.ts"
 export const apopo = {
   id: "019dbb6d-6889-730e-9edc-8037b6cbafb3",
   pageTypeSlug: "ctw-team",
+  type: "ctw-team",
   slug: "apopo",
   title: "APOPO",
   cellsCleared: 0,

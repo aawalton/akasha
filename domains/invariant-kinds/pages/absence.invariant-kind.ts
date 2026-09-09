@@ -3,6 +3,7 @@ import type { InvariantKind } from "../invariant-kind.page-type.ts"
 export const absence = {
   id: "01a04e11-9f98-749e-86ea-46237bfead5e",
   pageTypeSlug: "invariant-kind",
+  type: "invariant-kind",
   slug: "absence",
   definition: "something the domain deliberately leaves out",
   invariantGroup: "invariant-group/design",

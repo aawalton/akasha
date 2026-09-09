@@ -3,6 +3,7 @@ import type { LuaModule } from "@akasha/code/lua-module"
 export const esoSandboxPrelude = {
   id: "01a06059-2490-71da-a837-990f36920c7e",
   pageTypeSlug: "lua-module",
+  type: "lua-module",
   slug: "eso-sandbox-prelude",
   definition: "an environment that answers to every name the game's own Lua would reach for",
   lua: "lua",

@@ -3,6 +3,7 @@ import type { ChangeKind } from "../change-kind.page-type.ts"
 export const changeChecked = {
   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
   pageTypeSlug: "change-kind",
+  type: "change-kind",
   slug: "change-checked",
   definition: "a change a program composed and the checks judge",
   pluralSlug: "change-checked",

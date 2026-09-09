@@ -3,6 +3,7 @@ import type { ClosenessLevel } from "../closeness-level.page-type.ts"
 export const level5 = {
   id: "01a0540e-e430-7baf-8725-6920118116c8",
   pageTypeSlug: "closeness-level",
+  type: "closeness-level",
   slug: "level-5",
   definition: "Full intimacy and trust.",
   level: 5,

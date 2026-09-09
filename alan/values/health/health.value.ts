@@ -3,6 +3,7 @@ import type { Value } from "../value.page-type.ts"
 export const health = {
   id: "019eb7d0-f6ed-73b7-8495-21dfdac80cd2",
   pageTypeSlug: "value",
+  type: "value",
   slug: "health",
   definition: "the condition of Alan's body and its upkeep",
   label: "Health",

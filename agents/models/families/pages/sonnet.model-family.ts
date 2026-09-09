@@ -3,6 +3,7 @@ import type { ModelFamily } from "../model-family.page-type.types.ts"
 export const sonnet = {
   id: "01a0535c-f2cf-7f23-8d73-f45bff4448f4",
   pageTypeSlug: "model-family",
+  type: "model-family",
   slug: "sonnet",
   definition: "less expensive, less capable",
   name: "claude-sonnet-5",

@@ -3,6 +3,7 @@ import type { IosProgram } from "../../ios-program.page-type.ts"
 export const alanwaltonDecodeHarness = {
   id: "01a0590a-0b37-799f-8e3f-cb30189db988",
   pageTypeSlug: "ios-program",
+  type: "ios-program",
   slug: "alanwalton-decode-harness",
   definition: "proof that every tile decodes the payload it is handed",
   main: "swift",
