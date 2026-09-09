@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0018Chapter18RainedOnBySwords = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0018-chapter-18-rained-on-by-swords",
   title: "Chapter 18: Rained on by Swords",
-  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 18,
   ownLength: 1739,
   unitSlug: "words",

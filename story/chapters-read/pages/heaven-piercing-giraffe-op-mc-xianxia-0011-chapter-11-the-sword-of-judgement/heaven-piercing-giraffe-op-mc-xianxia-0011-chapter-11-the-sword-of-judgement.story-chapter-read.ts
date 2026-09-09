@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0011Chapter11TheSwordOfJudgement = 
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0011-chapter-11-the-sword-of-judgement",
   title: "Chapter 11: The Sword of Judgement",
-  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 11,
   ownLength: 1771,
   unitSlug: "words",

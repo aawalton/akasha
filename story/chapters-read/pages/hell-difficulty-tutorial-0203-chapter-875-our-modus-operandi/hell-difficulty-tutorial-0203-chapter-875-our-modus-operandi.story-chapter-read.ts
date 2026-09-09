@@ -4,7 +4,7 @@ export const hellDifficultyTutorial0203Chapter875OurModusOperandi = {
   id: "01a07252-32ed-710f-8ff2-50829f502621",
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0203-chapter-875-our-modus-operandi",
-  partOfCollectionSlugs: ["story-read/hell-difficulty-tutorial"],
+  storySlug: "story-read/hell-difficulty-tutorial",
   position: 203,
   publishedAt: "2026-09-03",
   unitSlug: "words",

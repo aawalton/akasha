@@ -5,7 +5,7 @@ export const hellHorizonHealer0043Chapter43PowerfulWords = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0043-chapter-43-powerful-words",
   title: "Chapter 43 - Powerful Words",
-  partOfCollectionSlugs: ["hell-horizon-healer"],
+  storySlug: "hell-horizon-healer",
   position: 43,
   ownLength: 1353,
   unitSlug: "words",

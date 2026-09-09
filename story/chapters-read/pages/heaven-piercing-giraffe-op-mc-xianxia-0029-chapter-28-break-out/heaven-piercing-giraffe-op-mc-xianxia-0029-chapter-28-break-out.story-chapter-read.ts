@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter28BreakOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0029-chapter-28-break-out",
   title: "Chapter 28: Break Out",
-  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1587,
   unitSlug: "words",

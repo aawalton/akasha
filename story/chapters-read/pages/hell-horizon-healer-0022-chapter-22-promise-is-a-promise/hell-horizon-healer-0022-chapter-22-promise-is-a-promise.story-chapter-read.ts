@@ -5,7 +5,7 @@ export const hellHorizonHealer0022Chapter22PromiseIsAPromise = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0022-chapter-22-promise-is-a-promise",
   title: "Chapter 22 - Promise is a Promise",
-  partOfCollectionSlugs: ["hell-horizon-healer"],
+  storySlug: "hell-horizon-healer",
   position: 22,
   ownLength: 2058,
   unitSlug: "words",

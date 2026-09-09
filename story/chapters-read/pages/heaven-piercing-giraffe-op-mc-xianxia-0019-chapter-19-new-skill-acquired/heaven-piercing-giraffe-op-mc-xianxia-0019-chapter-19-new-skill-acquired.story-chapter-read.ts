@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0019-chapter-19-new-skill-acquired",
   title: "Chapter 19: New Skill Acquired",
-  partOfCollectionSlugs: ["heaven-piercing-giraffe-op-mc-xianxia"],
+  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 19,
   ownLength: 2379,
   unitSlug: "words",

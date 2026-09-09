@@ -5,7 +5,7 @@ export const hellHorizonHealer0006Chapter6APrice = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0006-chapter-6-a-price",
   title: "Chapter 6 - A Price",
-  partOfCollectionSlugs: ["hell-horizon-healer"],
+  storySlug: "hell-horizon-healer",
   position: 6,
   ownLength: 1573,
   unitSlug: "words",
