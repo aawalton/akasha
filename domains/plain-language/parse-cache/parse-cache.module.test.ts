@@ -1,19 +1,19 @@
-import { afterEach, expect, test } from "bun:test"
-import { appendFileSync, mkdirSync, mkdtempSync, rmSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, afterEach, expect, test } from "bun:test"
+import { appendFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import type { ParsedSentence } from "../dependency-graph/dependency-graph.module.code.ts"
 import { keyFor, makeParseCacheAt } from "./parse-cache.module.code.ts"
 
 const MODEL = "abc123"
 const OFF = "AKASHA_PARSE_CACHE_OFF"
 
-const made: string[] = []
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 function folder(): string {
-  const at = mkdtempSync(join(tmpdir(), "parse-cache-"))
-  made.push(at)
-  return at
+  return scratch.rootFor("parse-cache-")
 }
 
 function parseOf(text: string): ParsedSentence[] {
@@ -40,7 +40,6 @@ function parseOf(text: string): ParsedSentence[] {
 
 afterEach(() => {
   delete process.env[OFF]
-  for (const at of made.splice(0)) rmSync(at, { recursive: true, force: true })
 })
 
 test("a parse written is read back", () => {
