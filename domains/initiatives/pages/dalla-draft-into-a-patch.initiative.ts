@@ -11,7 +11,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The wide FileEdit type no longer exists.",
       workingMemory:
-        "`landing` takes `readonly FileChange[]` and splits it into bodies and renames itself; `rowsFrom` works the rows out from bodies against a base. `FileEdit` is still declared there and held on both sides: `Prepared` carries `bodied` beside `changes`, and `changeOf`, `carryLanded`, `installingIn`, `landing-saying.pathsOf` and `mintingOnto` take the body form. The producers still compose bodies — `file-arguing.builtIn`, `mechanical-filing`, `track-landing`, `subagent-presence`.",
+        "`landing`, `changeOf`, `carryLanded`, `installingIn` and `landing-saying.pathsOf` all take `readonly FileChange[]`; `changeOf` takes a base beside the rows. `FileEdit` is what is left: `landing` splits the rows back into bodies to write, `rowsFrom` works rows out from bodies, and `Asked.changes`, `Prepared.authored`, the lock road, `value-minting` and `warrant-owing` are bodies. The producers compose bodies — `file-arguing.builtIn`, `mechanical-filing`, `track-landing`, `subagent-presence`.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
