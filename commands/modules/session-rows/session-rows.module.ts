@@ -19,6 +19,10 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
+      statement: "A row that began on another day is a fault of the day whose page holds it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A time naming no day of its own falls on the day `--day` names.",
     },
     {

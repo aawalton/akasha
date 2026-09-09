@@ -356,12 +356,17 @@ export function levelsFor(
   return { read: "levels", levels: held }
 }
 
-export function faultsIn(rows: readonly Row[], page: string): readonly string[] {
+export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
   const said: string[] = []
   const seen = new Set<string>()
   let open = 0
   for (const [at, row] of rows.entries()) {
     const named = `row ${String(at + 1)}`
+    const began = new Date(row.startTime)
+    const on = Number.isNaN(began.getTime()) ? null : dayNow(began)
+    if (on !== null && on !== held.day) {
+      said.push(`${named} began on ${on} rather than on ${held.day}, whose page holds it`)
+    }
     for (const key of Object.keys(row)) {
       if (key.includes("-")) said.push(`${named} carries ${key}, which is spelled in kebab`)
       else if (!KEYS.includes(key)) said.push(`${named} carries ${key}, which no declaration names`)
@@ -370,7 +375,7 @@ export function faultsIn(rows: readonly Row[], page: string): readonly string[] 
       said.push(`${named} carries an id that is no uuid version 7`)
     } else if (seen.has(row.id)) said.push(`${named} carries an id another row of this day carries`)
     else seen.add(row.id)
-    if (row.dailyTracking !== page) said.push(`${named} names a day no page carries`)
+    if (row.dailyTracking !== held.page) said.push(`${named} names a day no page carries`)
     for (const [key, low, high] of [
       ["safetyLevel", SAFETY_LOW, SAFETY_HIGH],
       ["difficultyLevel", DIFFICULTY_LOW, DIFFICULTY_HIGH],

@@ -42,7 +42,7 @@ export async function trackSessionAmend(argv: readonly string[], given: Given): 
   if (tags.length === 0) delete found.relationships
   else found.relationships = tags
   if (changing.difficultyLevel === undefined) delete found.difficultyLevel
-  const faults = faultsIn(standing.rows, standing.held.page)
+  const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf([found]))
   return await landed(standing.held, standing.rows, `Amend ${title} on ${standing.day}`, given)

@@ -54,7 +54,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
     ...taggingOf(taggedFor(tagging.stated, title, [], tagging.known)),
   })
   const landings = home === found ? [found] : [found, home]
-  const faults = landings.flatMap((one) => faultsIn(one.rows, one.held.page))
+  const faults = landings.flatMap((one) => faultsIn(one.rows, one.held))
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf(home.rows.slice(-2)))
   const said =

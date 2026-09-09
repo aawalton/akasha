@@ -30,7 +30,7 @@ export async function trackSessionClose(argv: readonly string[], given: Given): 
     return mistaking(["a stretch cannot end at or before it began"])
   }
   found.stretch.endTime = ended
-  const faults = faultsIn(found.rows, found.held.page)
+  const faults = faultsIn(found.rows, found.held)
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf(found.rows.slice(-2)))
   return await landed(found.held, found.rows, `Close on ${found.held.day}`, given)

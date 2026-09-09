@@ -14,6 +14,7 @@ import {
   readSafety,
 } from "../../../../modules/session-leveling/session-leveling.module.code.ts"
 import {
+  anchoredIn,
   DRY_RUN,
   FROM_FILE,
   faultsIn,
@@ -52,7 +53,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       refusals.push(`${named} opens with no wall time and a title`)
       continue
     }
-    const reading = readMountainWallTime(found[1] ?? "", now)
+    const reading = readMountainWallTime(anchoredIn(argv, found[1] ?? ""), now)
     if (reading.read === "refused") {
       refusals.push(`${named}: ${reading.saying}`)
       continue
@@ -96,7 +97,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
     }
     before.endTime = one.startTime
   }
-  const faults = [...refusals, ...faultsIn(made, standing.held.page)]
+  const faults = [...refusals, ...faultsIn(made, standing.held)]
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf(made))
   return await landed(

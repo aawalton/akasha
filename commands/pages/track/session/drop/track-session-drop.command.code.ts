@@ -29,7 +29,7 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
     if (found.endTime === undefined) delete before.endTime
     else before.endTime = found.endTime
   }
-  const faults = faultsIn(standing.rows, standing.held.page)
+  const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf(standing.rows))
   return await landed(standing.held, standing.rows, `Drop ${found.title} on ${standing.day}`, given)

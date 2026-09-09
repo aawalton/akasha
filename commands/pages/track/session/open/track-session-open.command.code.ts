@@ -49,7 +49,7 @@ export async function trackSessionOpen(argv: readonly string[], given: Given): P
   }
   standing.rows.push(one)
   standing.rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
-  const faults = faultsIn(standing.rows, standing.held.page)
+  const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
   if (argv.includes(DRY_RUN)) return telling(shownOf([one]))
   return await landed(standing.held, standing.rows, `Open ${title} on ${standing.day}`, given)
