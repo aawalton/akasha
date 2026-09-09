@@ -4,7 +4,7 @@ export const theFolderNameStripHandsTheBarerNameToTheMoreSpecificOfTwoNestingSib
   id: "01a0881e-8ac2-759c-a0ab-f4eeaa68f2db",
   pageTypeSlug: "finding",
   slug: "the-folder-name-strip-hands-the-barer-name-to-the-more-specific-of-two-nesting-siblings",
-  domain: "workspace-package/check",
+  domain: "code-check/folder-matches-a-shape",
   claim:
     "Where a parent holds two page types whose slugs nest, `folder-matches-a-shape` takes the parent's opening off only the one that spells it, so the narrower page type is given the barer folder name and the tree reads as though it were the wider one.",
   evidence:
