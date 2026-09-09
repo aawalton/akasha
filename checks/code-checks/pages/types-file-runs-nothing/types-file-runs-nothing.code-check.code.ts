@@ -5,7 +5,7 @@ import {
   overEachText,
   textsBy,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { valueImportsIn } from "../calculation-imports-only-types/calculation-imports-only-types.code-check.code.ts"
+import { valueImportsIn } from "../calculation-imports-only-types/calculation-imports-only-types.code-check.decision.code.ts"
 
 const DECLARING = ".types.ts"
 
