@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../properties/definition.standard-agent-english-property.ts"
+import type { Definition } from "../../../properties/definition.standard-agent-english-property.ts"
 
 export type StandardAgentEnglishNonTermKind = Page & {
   definition: Definition
