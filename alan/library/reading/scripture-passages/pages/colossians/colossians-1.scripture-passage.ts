@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const colossians1 = {
   id: "01a06804-11ab-701c-987c-aca58151abee",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "colossians-1",
   title: "Colossians 1",
   book: "Colossians",

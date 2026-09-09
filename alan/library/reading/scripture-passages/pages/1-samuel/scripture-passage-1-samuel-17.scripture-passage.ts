@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage1Samuel17 = {
   id: "01a06804-11a9-701e-a046-690793700fb5",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-1-samuel-17",
   title: "1 Samuel 17",
   book: "1 Samuel",

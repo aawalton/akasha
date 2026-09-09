@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage1Chronicles12 = {
   id: "01a06804-11a8-7003-bb0d-3380060bbcd8",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-1-chronicles-12",
   title: "1 Chronicles 12",
   book: "1 Chronicles",

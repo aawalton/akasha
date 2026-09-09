@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const ecclesiastes2 = {
   id: "01a06804-11ab-7052-a531-8c23b1a2ce74",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "ecclesiastes-2",
   title: "Ecclesiastes 2",
   book: "Ecclesiastes",

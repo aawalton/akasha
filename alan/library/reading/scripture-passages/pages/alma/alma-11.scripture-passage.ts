@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const alma11 = {
   id: "019f0976-fcc0-7cbf-ac40-f8297276e135",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "alma-11",
   title: "Alma 11",
   book: "Alma",

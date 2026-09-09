@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const deuteronomy17 = {
   id: "01a06804-11ab-7034-b57e-a1b221af1315",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "deuteronomy-17",
   title: "Deuteronomy 17",
   book: "Deuteronomy",

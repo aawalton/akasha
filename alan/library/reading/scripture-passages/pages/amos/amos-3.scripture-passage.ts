@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const amos3 = {
   id: "01a06804-11ab-7014-849e-3877e0228306",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "amos-3",
   title: "Amos 3",
   book: "Amos",

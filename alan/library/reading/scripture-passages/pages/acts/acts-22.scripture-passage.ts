@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const acts22 = {
   id: "01a06804-11ab-7004-b55b-dedc8eef09b4",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "acts-22",
   title: "Acts 22",
   book: "Acts",

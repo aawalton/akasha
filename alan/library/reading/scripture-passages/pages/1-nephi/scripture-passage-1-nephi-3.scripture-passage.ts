@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage1Nephi3 = {
   id: "019f0976-ad2e-7001-b7e1-0b4d89e63a6f",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-1-nephi-3",
   title: "1 Nephi 3",
   book: "1 Nephi",

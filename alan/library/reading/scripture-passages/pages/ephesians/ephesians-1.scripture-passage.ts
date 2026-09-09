@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const ephesians1 = {
   id: "01a06804-11ac-7007-919e-46297ff26c55",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "ephesians-1",
   title: "Ephesians 1",
   book: "Ephesians",

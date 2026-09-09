@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage1Corinthians1 = {
   id: "01a06804-11a8-701d-affd-1e75592d6338",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-1-corinthians-1",
   title: "1 Corinthians 1",
   book: "1 Corinthians",

@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage2Peter2 = {
   id: "01a06804-11aa-701c-b74c-18b401fc7013",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-2-peter-2",
   title: "2 Peter 2",
   book: "2 Peter",

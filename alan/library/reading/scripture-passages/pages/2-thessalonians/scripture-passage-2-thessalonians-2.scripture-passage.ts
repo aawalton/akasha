@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const scripturePassage2Thessalonians2 = {
   id: "01a06804-11aa-7037-8887-794a6b970231",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "scripture-passage-2-thessalonians-2",
   title: "2 Thessalonians 2",
   book: "2 Thessalonians",
