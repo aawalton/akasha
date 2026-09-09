@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperEquipmentKinds = {
   id: "01a060b8-08c3-7a47-a8fa-29a32e398b30",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-equipment-kinds",
   definition: "the slots, types and quality tiers a piece of Elder Scrolls Online gear is named by",
-  manifest: "json",
   parts: [
     "module/armor-slots",
     "module/armor-types",
@@ -23,7 +22,7 @@ export const temperEquipmentKinds = {
     },
     {
       invariantKind: "departure",
-      statement: "A gear set is named outside this package.",
+      statement: "A gear set is named outside this folder.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

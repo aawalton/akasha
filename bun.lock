@@ -39,7 +39,6 @@
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1020,12 +1019,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/equipment-kinds": {
-      "name": "@akasha/temper-equipment-kinds",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/errors-addon": {
       "name": "@akasha/temper-errors-addon",
       "dependencies": {
@@ -1234,7 +1227,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -1433,8 +1425,6 @@
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/companions-addon"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/crafting-addon"],
-
-    "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/equipment-kinds"],
 
     "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/errors-addon"],
 

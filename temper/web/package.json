@@ -33,7 +33,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
-    "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
