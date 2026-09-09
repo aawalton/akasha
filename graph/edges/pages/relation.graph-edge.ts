@@ -6,5 +6,5 @@ export const relation = {
   slug: "relation",
   definition: "one page naming another through a property",
   index: "index/index-relation",
-  attributeSlugs: ["graph-attribute/property"],
+  attributes: ["graph-attribute/property"],
 } as const satisfies GraphEdge

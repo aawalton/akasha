@@ -146,7 +146,7 @@ function edged(
 
 export function relationWorld(lines: number, pagesExist = true): string {
   const root = scratch.rootFor(PREFIX)
-  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesExist)
+  edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, pagesExist)
   indexed(root, HELD_RELATION, pagesExist)
   filed(root, `path/${TARGET_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
   filed(root, `path/${SIDECAR_AT}.jsonl`, { path: TARGET_AT, id: TARGET_ID })
@@ -162,7 +162,7 @@ export function relationWorld(lines: number, pagesExist = true): string {
 
 function worldFor(indexName: string): string {
   const root = scratch.rootFor(PREFIX)
-  edged(root, IMPORT_EDGE, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
+  edged(root, IMPORT_EDGE, { attributes: [`${GRAPH_ATTRIBUTE}/${KNOWN}`] }, true)
   indexed(root, indexName, true)
   filed(root, `path/${EDGE_AT}.jsonl`, { path: EDGE_AT, id: EDGE_ID })
   filed(root, `path/${INDEX_AT}.jsonl`, { path: INDEX_AT, id: INDEX_ID })
@@ -217,7 +217,7 @@ export function loadingWorld(loadedBySlug: string | null, typeExists = true): st
 
 export function loaderWorld(names = true): string {
   const root = scratch.rootFor(PREFIX)
-  edged(root, RELATION, { attributeSlugs: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, true)
+  edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, true)
   indexed(root, HELD_RELATION, true)
   paged(root, TYPE_AT, {
     id: TYPE_ID,
