@@ -5,6 +5,6 @@ export const theMessengerSShortcut = {
   pageTypeSlug: "world-skill",
   slug: "the-messenger-s-shortcut",
   title: "The Messenger’s Shortcut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

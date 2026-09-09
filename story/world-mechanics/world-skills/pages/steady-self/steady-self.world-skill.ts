@@ -5,6 +5,6 @@ export const steadySelf = {
   pageTypeSlug: "world-skill",
   slug: "steady-self",
   title: "Steady Self",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const transferAfflictionsSelf = {
   pageTypeSlug: "world-skill",
   slug: "transfer-afflictions-self",
   title: "Transfer Afflictions (Self)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Transfer Afflictions: Self"],
   references: "jsonl",
 } as const satisfies WorldSkill

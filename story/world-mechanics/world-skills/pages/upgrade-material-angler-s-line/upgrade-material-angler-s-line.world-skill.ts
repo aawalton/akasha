@@ -5,6 +5,6 @@ export const upgradeMaterialAnglerSLine = {
   pageTypeSlug: "world-skill",
   slug: "upgrade-material-angler-s-line",
   title: "Upgrade Material: Angler’s Line",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

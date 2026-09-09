@@ -5,6 +5,6 @@ export const triflingIncentive = {
   pageTypeSlug: "world-skill",
   slug: "trifling-incentive",
   title: "Trifling Incentive",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

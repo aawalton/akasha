@@ -5,6 +5,6 @@ export const unerringThrow = {
   pageTypeSlug: "world-skill",
   slug: "unerring-throw",
   title: "Unerring Throw",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

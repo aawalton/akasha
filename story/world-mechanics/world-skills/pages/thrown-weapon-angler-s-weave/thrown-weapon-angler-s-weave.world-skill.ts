@@ -5,6 +5,6 @@ export const thrownWeaponAnglerSWeave = {
   pageTypeSlug: "world-skill",
   slug: "thrown-weapon-angler-s-weave",
   title: "Thrown Weapon: Angler’s Weave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const suppliesFlarepepperPowder = {
   pageTypeSlug: "world-skill",
   slug: "supplies-flarepepper-powder",
   title: "Supplies: Flarepepper Powder",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

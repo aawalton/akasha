@@ -5,6 +5,6 @@ export const theBindingOfHouseReinhart = {
   pageTypeSlug: "world-skill",
   slug: "the-binding-of-house-reinhart",
   title: "The Binding of House Reinhart",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

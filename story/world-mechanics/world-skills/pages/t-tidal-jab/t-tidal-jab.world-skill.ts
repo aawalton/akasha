@@ -5,6 +5,6 @@ export const tTidalJab = {
   pageTypeSlug: "world-skill",
   slug: "t-tidal-jab",
   title: "T-Tidal Jab",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

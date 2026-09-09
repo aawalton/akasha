@@ -5,6 +5,6 @@ export const spellRefraction = {
   pageTypeSlug: "world-skill",
   slug: "spell-refraction",
   title: "Spell Refraction",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

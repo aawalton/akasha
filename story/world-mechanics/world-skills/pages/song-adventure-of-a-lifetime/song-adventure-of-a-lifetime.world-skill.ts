@@ -5,6 +5,6 @@ export const songAdventureOfALifetime = {
   pageTypeSlug: "world-skill",
   slug: "song-adventure-of-a-lifetime",
   title: "Song: Adventure of a Lifetime",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

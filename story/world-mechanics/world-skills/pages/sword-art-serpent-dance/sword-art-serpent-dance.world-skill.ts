@@ -5,6 +5,6 @@ export const swordArtSerpentDance = {
   pageTypeSlug: "world-skill",
   slug: "sword-art-serpent-dance",
   title: "Sword Art: Serpent Dance",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const swiftReinforcementsThunderstrikeDivision = {
   pageTypeSlug: "world-skill",
   slug: "swift-reinforcements-thunderstrike-division",
   title: "Swift Reinforcements: Thunderstrike Division",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

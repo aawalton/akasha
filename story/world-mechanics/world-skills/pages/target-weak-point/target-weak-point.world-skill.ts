@@ -5,6 +5,6 @@ export const targetWeakPoint = {
   pageTypeSlug: "world-skill",
   slug: "target-weak-point",
   title: "Target Weak Point",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

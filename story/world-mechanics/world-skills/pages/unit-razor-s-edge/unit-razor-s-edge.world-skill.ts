@@ -5,6 +5,6 @@ export const unitRazorSEdge = {
   pageTypeSlug: "world-skill",
   slug: "unit-razor-s-edge",
   title: "Unit: Razor’s Edge",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

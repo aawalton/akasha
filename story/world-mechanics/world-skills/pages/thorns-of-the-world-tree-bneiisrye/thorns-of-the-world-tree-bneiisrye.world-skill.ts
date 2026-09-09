@@ -5,6 +5,6 @@ export const thornsOfTheWorldTreeBneiisrye = {
   pageTypeSlug: "world-skill",
   slug: "thorns-of-the-world-tree-bneiisrye",
   title: "Thorns of the World Tree: Bneiisrye",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

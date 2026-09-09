@@ -5,6 +5,6 @@ export const supremeStrategySupersonicRepositioning = {
   pageTypeSlug: "world-skill",
   slug: "supreme-strategy-supersonic-repositioning",
   title: "Supreme Strategy: Supersonic Repositioning",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

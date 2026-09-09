@@ -5,6 +5,6 @@ export const temporarySkillAssignedVisionsOfDefeatLegendary = {
   pageTypeSlug: "world-skill",
   slug: "temporary-skill-assigned-visions-of-defeat-legendary",
   title: "Temporary Skill Assigned: Visions of Defeat (Legendary)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

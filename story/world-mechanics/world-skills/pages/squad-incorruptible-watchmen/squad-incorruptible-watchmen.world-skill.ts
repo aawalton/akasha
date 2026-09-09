@@ -5,6 +5,6 @@ export const squadIncorruptibleWatchmen = {
   pageTypeSlug: "world-skill",
   slug: "squad-incorruptible-watchmen",
   title: "Squad: Incorruptible Watchmen",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

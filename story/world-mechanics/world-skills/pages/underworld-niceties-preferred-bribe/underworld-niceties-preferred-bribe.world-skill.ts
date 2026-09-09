@@ -5,6 +5,6 @@ export const underworldNicetiesPreferredBribe = {
   pageTypeSlug: "world-skill",
   slug: "underworld-niceties-preferred-bribe",
   title: "Underworld Niceties: Preferred Bribe",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

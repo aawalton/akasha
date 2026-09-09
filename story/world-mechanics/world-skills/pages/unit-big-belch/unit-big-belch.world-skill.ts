@@ -5,6 +5,6 @@ export const unitBigBelch = {
   pageTypeSlug: "world-skill",
   slug: "unit-big-belch",
   title: "Unit: Big Belch",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

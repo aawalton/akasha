@@ -5,6 +5,6 @@ export const tribeDriveTowardsTheFutureCollectiveCompetenceEngineering = {
   pageTypeSlug: "world-skill",
   slug: "tribe-drive-towards-the-future-collective-competence-engineering",
   title: "Tribe: Drive Towards the Future, Collective Competence: Engineering",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

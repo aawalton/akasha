@@ -5,6 +5,6 @@ export const tribeFullOfInk = {
   pageTypeSlug: "world-skill",
   slug: "tribe-full-of-ink",
   title: "Tribe: Full of Ink",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const thickGlassAlchemy = {
   pageTypeSlug: "world-skill",
   slug: "thick-glass-alchemy",
   title: "Thick Glass (Alchemy)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

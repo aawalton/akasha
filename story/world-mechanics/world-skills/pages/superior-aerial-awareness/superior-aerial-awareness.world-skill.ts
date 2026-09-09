@@ -5,6 +5,6 @@ export const superiorAerialAwareness = {
   pageTypeSlug: "world-skill",
   slug: "superior-aerial-awareness",
   title: "Superior Aerial Awareness",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

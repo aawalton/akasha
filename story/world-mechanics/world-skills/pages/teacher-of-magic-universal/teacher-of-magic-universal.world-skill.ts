@@ -5,6 +5,6 @@ export const teacherOfMagicUniversal = {
   pageTypeSlug: "world-skill",
   slug: "teacher-of-magic-universal",
   title: "Teacher of Magic (Universal)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

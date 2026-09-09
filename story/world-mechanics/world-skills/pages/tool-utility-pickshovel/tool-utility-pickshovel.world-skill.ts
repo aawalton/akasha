@@ -5,6 +5,6 @@ export const toolUtilityPickshovel = {
   pageTypeSlug: "world-skill",
   slug: "tool-utility-pickshovel",
   title: "Tool Utility: Pickshovel",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

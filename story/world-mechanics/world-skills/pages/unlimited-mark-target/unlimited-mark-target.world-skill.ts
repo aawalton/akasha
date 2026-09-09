@@ -5,6 +5,6 @@ export const unlimitedMarkTarget = {
   pageTypeSlug: "world-skill",
   slug: "unlimited-mark-target",
   title: "Unlimited Mark Target",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

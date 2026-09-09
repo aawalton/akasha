@@ -5,6 +5,6 @@ export const spellStorageBook = {
   pageTypeSlug: "world-skill",
   slug: "spell-storage-book",
   title: "Spell Storage: Book",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const threatForecast = {
   pageTypeSlug: "world-skill",
   slug: "threat-forecast",
   title: "Threat Forecast",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

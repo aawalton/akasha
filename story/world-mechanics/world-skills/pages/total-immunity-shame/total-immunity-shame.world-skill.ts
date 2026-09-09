@@ -5,6 +5,6 @@ export const totalImmunityShame = {
   pageTypeSlug: "world-skill",
   slug: "total-immunity-shame",
   title: "Total Immunity: Shame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

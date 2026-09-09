@@ -5,6 +5,6 @@ export const theTwiceBornWarlord = {
   pageTypeSlug: "world-skill",
   slug: "the-twice-born-warlord",
   title: "The Twice-Born Warlord",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const teammateLocateTeammates = {
   pageTypeSlug: "world-skill",
   slug: "teammate-locate-teammates",
   title: "Teammate – Locate Teammates",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

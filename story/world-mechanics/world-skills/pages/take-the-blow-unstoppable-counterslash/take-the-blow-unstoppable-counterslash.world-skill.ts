@@ -5,6 +5,6 @@ export const takeTheBlowUnstoppableCounterslash = {
   pageTypeSlug: "world-skill",
   slug: "take-the-blow-unstoppable-counterslash",
   title: "Take the Blow: Unstoppable Counterslash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

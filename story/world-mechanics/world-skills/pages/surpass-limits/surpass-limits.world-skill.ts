@@ -5,6 +5,6 @@ export const surpassLimits = {
   pageTypeSlug: "world-skill",
   slug: "surpass-limits",
   title: "Surpass Limits",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

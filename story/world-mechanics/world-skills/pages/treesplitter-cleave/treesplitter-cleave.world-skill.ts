@@ -5,6 +5,6 @@ export const treesplitterCleave = {
   pageTypeSlug: "world-skill",
   slug: "treesplitter-cleave",
   title: "Treesplitter Cleave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

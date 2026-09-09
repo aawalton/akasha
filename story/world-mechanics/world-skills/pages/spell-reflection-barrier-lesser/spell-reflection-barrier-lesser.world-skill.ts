@@ -5,6 +5,6 @@ export const spellReflectionBarrierLesser = {
   pageTypeSlug: "world-skill",
   slug: "spell-reflection-barrier-lesser",
   title: "Spell Reflection Barrier (Lesser)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

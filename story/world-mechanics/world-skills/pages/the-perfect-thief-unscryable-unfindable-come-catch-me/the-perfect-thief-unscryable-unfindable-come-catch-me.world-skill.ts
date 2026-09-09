@@ -5,6 +5,6 @@ export const thePerfectThiefUnscryableUnfindableComeCatchMe = {
   pageTypeSlug: "world-skill",
   slug: "the-perfect-thief-unscryable-unfindable-come-catch-me",
   title: "The Perfect Thief: Unscryable, Unfindable, Come Catch Me",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

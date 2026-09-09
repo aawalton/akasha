@@ -5,6 +5,6 @@ export const understoodByAll = {
   pageTypeSlug: "world-skill",
   slug: "understood-by-all",
   title: "Understood By All",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

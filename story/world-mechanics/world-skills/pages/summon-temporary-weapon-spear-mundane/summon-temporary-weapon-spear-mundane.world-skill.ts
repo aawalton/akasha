@@ -5,6 +5,6 @@ export const summonTemporaryWeaponSpearMundane = {
   pageTypeSlug: "world-skill",
   slug: "summon-temporary-weapon-spear-mundane",
   title: "Summon Temporary Weapon: Spear (Mundane)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

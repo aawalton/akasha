@@ -5,6 +5,6 @@ export const unnoticedByOneInvisibleToAll = {
   pageTypeSlug: "world-skill",
   slug: "unnoticed-by-one-invisible-to-all",
   title: "Unnoticed by One, Invisible to All",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

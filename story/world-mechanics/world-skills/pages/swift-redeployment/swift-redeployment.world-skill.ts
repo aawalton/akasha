@@ -5,6 +5,6 @@ export const swiftRedeployment = {
   pageTypeSlug: "world-skill",
   slug: "swift-redeployment",
   title: "Swift Redeployment",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

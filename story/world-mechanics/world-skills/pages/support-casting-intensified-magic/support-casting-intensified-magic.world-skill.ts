@@ -5,6 +5,6 @@ export const supportCastingIntensifiedMagic = {
   pageTypeSlug: "world-skill",
   slug: "support-casting-intensified-magic",
   title: "Support Casting: Intensified Magic",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

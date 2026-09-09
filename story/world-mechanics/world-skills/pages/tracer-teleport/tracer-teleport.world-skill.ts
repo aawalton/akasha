@@ -5,6 +5,6 @@ export const tracerTeleport = {
   pageTypeSlug: "world-skill",
   slug: "tracer-teleport",
   title: "Tracer Teleport",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

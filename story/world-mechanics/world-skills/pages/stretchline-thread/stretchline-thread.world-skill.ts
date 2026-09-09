@@ -5,6 +5,6 @@ export const stretchlineThread = {
   pageTypeSlug: "world-skill",
   slug: "stretchline-thread",
   title: "Stretchline Thread",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

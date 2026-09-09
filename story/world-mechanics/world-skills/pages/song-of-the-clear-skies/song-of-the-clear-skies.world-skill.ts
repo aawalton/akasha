@@ -5,6 +5,6 @@ export const songOfTheClearSkies = {
   pageTypeSlug: "world-skill",
   slug: "song-of-the-clear-skies",
   title: "Song of the Clear Skies",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

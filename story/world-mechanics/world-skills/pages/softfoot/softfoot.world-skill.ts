@@ -5,6 +5,6 @@ export const softfoot = {
   pageTypeSlug: "world-skill",
   slug: "softfoot",
   title: "Softfoot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

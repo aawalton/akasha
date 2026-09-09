@@ -5,6 +5,6 @@ export const summonThePinkCarriageOfMagnoliaReinhart = {
   pageTypeSlug: "world-skill",
   slug: "summon-the-pink-carriage-of-magnolia-reinhart",
   title: "Summon: The Pink Carriage of Magnolia Reinhart",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

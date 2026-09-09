@@ -5,6 +5,6 @@ export const theFirstTideCoveredLand = {
   pageTypeSlug: "world-skill",
   slug: "the-first-tide-covered-land",
   title: "The First Tide Covered Land",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

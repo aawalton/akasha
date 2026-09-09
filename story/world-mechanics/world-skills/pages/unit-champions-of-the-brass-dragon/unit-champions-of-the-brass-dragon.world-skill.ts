@@ -5,6 +5,6 @@ export const unitChampionsOfTheBrassDragon = {
   pageTypeSlug: "world-skill",
   slug: "unit-champions-of-the-brass-dragon",
   title: "Unit: Champions of the Brass Dragon",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

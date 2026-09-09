@@ -5,6 +5,6 @@ export const twoOfLifeTwoOfDeath = {
   pageTypeSlug: "world-skill",
   slug: "two-of-life-two-of-death",
   title: "Two of Life, Two of Death",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const telekinesisBubble = {
   pageTypeSlug: "world-skill",
   slug: "telekinesis-bubble",
   title: "Telekinesis: Bubble",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

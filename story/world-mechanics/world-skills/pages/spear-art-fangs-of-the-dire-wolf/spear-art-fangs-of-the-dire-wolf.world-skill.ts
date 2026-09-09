@@ -5,7 +5,7 @@ export const spearArtFangsOfTheDireWolf = {
   pageTypeSlug: "world-skill",
   slug: "spear-art-fangs-of-the-dire-wolf",
   title: "Spear Art: Fangs of the Dire Wolf",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Spear Art: Fangs of The Dire Wolf"],
   references: "jsonl",
 } as const satisfies WorldSkill

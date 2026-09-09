@@ -5,6 +5,6 @@ export const swordArtTheLightningSplits = {
   pageTypeSlug: "world-skill",
   slug: "sword-art-the-lightning-splits",
   title: "Sword Art: The Lightning Splits",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const tetradOfTheSolarAura = {
   pageTypeSlug: "world-skill",
   slug: "tetrad-of-the-solar-aura",
   title: "Tetrad of the Solar Aura",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const unitYawningBite = {
   pageTypeSlug: "world-skill",
   slug: "unit-yawning-bite",
   title: "Unit: Yawning Bite",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

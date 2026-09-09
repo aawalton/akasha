@@ -5,6 +5,6 @@ export const valueOfSum = {
   pageTypeSlug: "world-skill",
   slug: "value-of-sum",
   title: "Value of Sum",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

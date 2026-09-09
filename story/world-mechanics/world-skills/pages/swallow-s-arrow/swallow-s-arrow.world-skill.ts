@@ -5,7 +5,7 @@ export const swallowSArrow = {
   pageTypeSlug: "world-skill",
   slug: "swallow-s-arrow",
   title: "Swallow’s Arrow",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["lesser-dragonbreath-arrow-lightning"],
   references: "jsonl",
 } as const satisfies WorldSkill

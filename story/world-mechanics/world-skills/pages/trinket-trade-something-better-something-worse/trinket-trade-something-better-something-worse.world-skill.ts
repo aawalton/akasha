@@ -5,6 +5,6 @@ export const trinketTradeSomethingBetterSomethingWorse = {
   pageTypeSlug: "world-skill",
   slug: "trinket-trade-something-better-something-worse",
   title: "Trinket Trade: Something Better, Something Worse",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

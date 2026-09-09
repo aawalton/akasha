@@ -5,6 +5,6 @@ export const tribeScavengerArmor = {
   pageTypeSlug: "world-skill",
   slug: "tribe-scavenger-armor",
   title: "Tribe: Scavenger Armor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

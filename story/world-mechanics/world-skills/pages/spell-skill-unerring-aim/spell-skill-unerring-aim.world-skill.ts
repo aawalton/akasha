@@ -5,6 +5,6 @@ export const spellSkillUnerringAim = {
   pageTypeSlug: "world-skill",
   slug: "spell-skill-unerring-aim",
   title: "Spell Skill: Unerring Aim",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

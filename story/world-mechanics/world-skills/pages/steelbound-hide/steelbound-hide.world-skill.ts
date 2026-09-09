@@ -5,6 +5,6 @@ export const steelboundHide = {
   pageTypeSlug: "world-skill",
   slug: "steelbound-hide",
   title: "Steelbound Hide",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

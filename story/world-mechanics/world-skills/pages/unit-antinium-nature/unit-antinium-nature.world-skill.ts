@@ -5,6 +5,6 @@ export const unitAntiniumNature = {
   pageTypeSlug: "world-skill",
   slug: "unit-antinium-nature",
   title: "Unit: Antinium Nature",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

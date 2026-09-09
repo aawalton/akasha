@@ -5,6 +5,6 @@ export const tradeRouteCalculation = {
   pageTypeSlug: "world-skill",
   slug: "trade-route-calculation",
   title: "Trade Route Calculation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

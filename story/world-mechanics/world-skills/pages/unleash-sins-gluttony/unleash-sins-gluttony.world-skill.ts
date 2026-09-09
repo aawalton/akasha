@@ -5,6 +5,6 @@ export const unleashSinsGluttony = {
   pageTypeSlug: "world-skill",
   slug: "unleash-sins-gluttony",
   title: "Unleash Sins: Gluttony",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

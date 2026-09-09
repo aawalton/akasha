@@ -5,6 +5,6 @@ export const unitMomentOfFrenzy = {
   pageTypeSlug: "world-skill",
   slug: "unit-moment-of-frenzy",
   title: "Unit: Moment of Frenzy",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

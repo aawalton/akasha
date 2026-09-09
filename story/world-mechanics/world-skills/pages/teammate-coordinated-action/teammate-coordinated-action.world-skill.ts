@@ -5,6 +5,6 @@ export const teammateCoordinatedAction = {
   pageTypeSlug: "world-skill",
   slug: "teammate-coordinated-action",
   title: "Teammate: Coordinated Action",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

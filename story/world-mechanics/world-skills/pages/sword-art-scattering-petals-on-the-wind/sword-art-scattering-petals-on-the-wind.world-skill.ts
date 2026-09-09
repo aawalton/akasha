@@ -5,6 +5,6 @@ export const swordArtScatteringPetalsOnTheWind = {
   pageTypeSlug: "world-skill",
   slug: "sword-art-scattering-petals-on-the-wind",
   title: "Sword Art: Scattering Petals on the Wind",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

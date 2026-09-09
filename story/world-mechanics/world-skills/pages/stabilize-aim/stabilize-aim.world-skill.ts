@@ -5,6 +5,6 @@ export const stabilizeAim = {
   pageTypeSlug: "world-skill",
   slug: "stabilize-aim",
   title: "Stabilize Aim",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

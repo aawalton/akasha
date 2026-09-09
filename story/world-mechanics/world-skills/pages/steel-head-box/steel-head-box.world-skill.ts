@@ -5,6 +5,6 @@ export const steelHeadBox = {
   pageTypeSlug: "world-skill",
   slug: "steel-head-box",
   title: "Steel Head (Box)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

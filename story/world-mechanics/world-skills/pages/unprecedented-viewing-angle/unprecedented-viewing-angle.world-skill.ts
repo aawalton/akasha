@@ -5,6 +5,6 @@ export const unprecedentedViewingAngle = {
   pageTypeSlug: "world-skill",
   slug: "unprecedented-viewing-angle",
   title: "Unprecedented Viewing Angle",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

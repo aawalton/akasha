@@ -5,5 +5,5 @@ export const tiebreakingVoteMonthly = {
   pageTypeSlug: "world-skill",
   slug: "tiebreaking-vote-monthly",
   title: "Tiebreaking Vote (Monthly)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

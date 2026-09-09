@@ -5,6 +5,6 @@ export const sublimeDaydream = {
   pageTypeSlug: "world-skill",
   slug: "sublime-daydream",
   title: "Sublime Daydream",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const thePalaceOfFates = {
   pageTypeSlug: "world-skill",
   slug: "the-palace-of-fates",
   title: "The Palace of Fates",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["THE PALACE OF FATES"],
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const swiftLevelling = {
   pageTypeSlug: "world-skill",
   slug: "swift-levelling",
   title: "Swift Levelling",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const swordArtKrakenSTendrilsLash = {
   pageTypeSlug: "world-skill",
   slug: "sword-art-kraken-s-tendrils-lash",
   title: "Sword Art: Kraken’s Tendrils Lash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const truthIsNeverCertain = {
   pageTypeSlug: "world-skill",
   slug: "truth-is-never-certain",
   title: "Truth is Never Certain",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

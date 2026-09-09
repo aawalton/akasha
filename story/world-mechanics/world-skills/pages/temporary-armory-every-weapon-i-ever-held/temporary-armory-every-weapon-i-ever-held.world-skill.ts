@@ -5,6 +5,6 @@ export const temporaryArmoryEveryWeaponIEverHeld = {
   pageTypeSlug: "world-skill",
   slug: "temporary-armory-every-weapon-i-ever-held",
   title: "Temporary Armory: Every Weapon I Ever Held",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

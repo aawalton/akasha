@@ -5,6 +5,6 @@ export const unpredictableMove = {
   pageTypeSlug: "world-skill",
   slug: "unpredictable-move",
   title: "Unpredictable Move",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

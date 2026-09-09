@@ -5,6 +5,6 @@ export const soundSunderingCut = {
   pageTypeSlug: "world-skill",
   slug: "sound-sundering-cut",
   title: "Sound Sundering Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

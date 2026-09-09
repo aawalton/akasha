@@ -5,6 +5,6 @@ export const tribeGuiseOfNeutrality = {
   pageTypeSlug: "world-skill",
   slug: "tribe-guise-of-neutrality",
   title: "Tribe: Guise of Neutrality",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

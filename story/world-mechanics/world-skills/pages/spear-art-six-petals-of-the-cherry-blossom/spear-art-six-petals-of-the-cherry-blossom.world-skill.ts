@@ -5,6 +5,6 @@ export const spearArtSixPetalsOfTheCherryBlossom = {
   pageTypeSlug: "world-skill",
   slug: "spear-art-six-petals-of-the-cherry-blossom",
   title: "Spear Art: Six Petals of the Cherry Blossom",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const telekineticGrip = {
   pageTypeSlug: "world-skill",
   slug: "telekinetic-grip",
   title: "Telekinetic Grip",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

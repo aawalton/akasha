@@ -5,6 +5,6 @@ export const subvocalTouchtalk = {
   pageTypeSlug: "world-skill",
   slug: "subvocal-touchtalk",
   title: "Subvocal Touchtalk",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

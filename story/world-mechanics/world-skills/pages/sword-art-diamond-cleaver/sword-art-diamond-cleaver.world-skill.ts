@@ -5,5 +5,5 @@ export const swordArtDiamondCleaver = {
   pageTypeSlug: "world-skill",
   slug: "sword-art-diamond-cleaver",
   title: "Sword Art: Diamond Cleaver",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

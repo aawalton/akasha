@@ -5,6 +5,6 @@ export const theEternalWave = {
   pageTypeSlug: "world-skill",
   slug: "the-eternal-wave",
   title: "The Eternal Wave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

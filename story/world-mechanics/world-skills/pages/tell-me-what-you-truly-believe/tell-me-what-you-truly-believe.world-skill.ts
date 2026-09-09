@@ -5,6 +5,6 @@ export const tellMeWhatYouTrulyBelieve = {
   pageTypeSlug: "world-skill",
   slug: "tell-me-what-you-truly-believe",
   title: "Tell Me What You Truly Believe",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

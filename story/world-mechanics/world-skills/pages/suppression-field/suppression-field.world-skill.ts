@@ -5,6 +5,6 @@ export const suppressionField = {
   pageTypeSlug: "world-skill",
   slug: "suppression-field",
   title: "Suppression Field",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const treasuryOfHouseMarquin = {
   pageTypeSlug: "world-skill",
   slug: "treasury-of-house-marquin",
   title: "Treasury of House Marquin",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
