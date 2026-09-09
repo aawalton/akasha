@@ -20,7 +20,7 @@ import {
   useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
-import "./alan-web-look/alan-web-look.stylesheet.styles.css"
+import "./look/alan-web-look.stylesheet.styles.css"
 import "./capability-registrations/capability-registrations.module.code.ts"
 import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
 import { NavCommands } from "./nav-commands/nav-commands.module.code.tsx"
