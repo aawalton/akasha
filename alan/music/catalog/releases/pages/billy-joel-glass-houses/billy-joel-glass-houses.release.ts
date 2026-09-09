@@ -9,7 +9,7 @@ export const billyJoelGlassHouses = {
   position: 0,
   ownLength: 34.879083,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1980-03-12",
   externalId: "5sztejERqpktXEdemlUvU5",

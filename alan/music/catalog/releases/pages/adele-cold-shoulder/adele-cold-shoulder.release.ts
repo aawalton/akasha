@@ -9,7 +9,7 @@ export const adeleColdShoulder = {
   position: 0,
   ownLength: 19.1882,
   ownProgress: 19.1882,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-04-21",
   externalId: "4JjVwFhBHZTMJTSAIACvn4",

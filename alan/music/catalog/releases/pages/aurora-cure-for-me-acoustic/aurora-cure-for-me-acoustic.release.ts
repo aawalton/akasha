@@ -9,7 +9,7 @@ export const auroraCureForMeAcoustic = {
   position: 0,
   ownLength: 3.556217,
   ownProgress: 3.556217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
   externalId: "4W1FK6QtI8cY7j9aghTmbw",

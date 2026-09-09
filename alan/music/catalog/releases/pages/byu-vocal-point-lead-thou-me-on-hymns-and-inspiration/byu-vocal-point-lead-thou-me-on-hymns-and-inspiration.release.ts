@@ -9,7 +9,7 @@ export const byuVocalPointLeadThouMeOnHymnsAndInspiration = {
   position: 0,
   ownLength: 52.389483,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-20",
   externalId: "2NDwy0grmMrfAYQ0bRRggC",

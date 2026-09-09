@@ -9,7 +9,7 @@ export const celticWoman2OrinocoFlow = {
   position: 0,
   ownLength: 3.87155,
   ownProgress: 3.87155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-03",
   externalId: "2dDDZ4pFNpUe6ilY0NE6ti",

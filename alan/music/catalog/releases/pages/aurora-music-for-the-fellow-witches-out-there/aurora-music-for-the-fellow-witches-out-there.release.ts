@@ -9,7 +9,7 @@ export const auroraMusicForTheFellowWitchesOutThere = {
   position: 0,
   ownLength: 26.361183,
   ownProgress: 26.361183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-11",
   externalId: "31R3o5kDvOHm2QI7hXwIPv",

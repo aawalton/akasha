@@ -9,7 +9,7 @@ export const auroraIWentTooFarMkRemixRadioVersion = {
   position: 0,
   ownLength: 3.951167,
   ownProgress: 3.951167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-07-15",
   externalId: "3mFS2gbmzMxnPtFQ8f9QVP",

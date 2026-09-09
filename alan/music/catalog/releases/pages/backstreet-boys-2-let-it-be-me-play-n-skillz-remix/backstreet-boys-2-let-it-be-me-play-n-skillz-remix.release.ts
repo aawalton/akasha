@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMePlayNSkillzRemix = {
   position: 0,
   ownLength: 3.250033,
   ownProgress: 3.250033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalId: "5puIhznHkTkXcyiguFxrtL",

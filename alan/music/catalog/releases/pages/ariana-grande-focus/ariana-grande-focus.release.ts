@@ -9,7 +9,7 @@ export const arianaGrandeFocus = {
   position: 0,
   ownLength: 3.522667,
   ownProgress: 3.522667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-30",
   externalId: "3IGM1sXYke2UGII2DORrof",

@@ -9,7 +9,7 @@ export const celticWoman2OHolyNight2020Version = {
   position: 0,
   ownLength: 3.650183,
   ownProgress: 3.650183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-01",
   externalId: "3tvL7fXiSYfrJtymmq3YCC",

@@ -9,7 +9,7 @@ export const billieEilishHappierThanEverEdit = {
   position: 0,
   ownLength: 2.524067,
   ownProgress: 2.524067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2021-07-28",

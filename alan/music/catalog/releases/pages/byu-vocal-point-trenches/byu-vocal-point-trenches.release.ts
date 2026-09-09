@@ -9,7 +9,7 @@ export const byuVocalPointTrenches = {
   position: 0,
   ownLength: 3.487217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-12",
   externalId: "55Iv8gAsNpccTlLc54Egug",

@@ -9,7 +9,7 @@ export const arianaGrandeTheBoyIsMine = {
   position: 0,
   ownLength: 15.61205,
   ownProgress: 15.61205,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-19",
   externalId: "6QfFpCdG9XXQQ9pPJQtxz7",

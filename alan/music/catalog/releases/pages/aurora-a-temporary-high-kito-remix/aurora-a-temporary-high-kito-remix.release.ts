@@ -9,7 +9,7 @@ export const auroraATemporaryHighKitoRemix = {
   position: 0,
   ownLength: 3.115333,
   ownProgress: 3.115333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-18",
   externalId: "7A5pMZfyF8bQToPbSq0ZmH",

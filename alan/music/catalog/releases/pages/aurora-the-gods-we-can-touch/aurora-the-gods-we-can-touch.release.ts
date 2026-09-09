@@ -9,7 +9,7 @@ export const auroraTheGodsWeCanTouch = {
   position: 0,
   ownLength: 50.014733,
   ownProgress: 50.014733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-21",
   externalId: "5z1xjvymitc0DJETtvVmaX",

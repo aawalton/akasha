@@ -9,7 +9,7 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8 = {
   position: 0,
   ownLength: 2.278667,
   ownProgress: 2.278667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-07-18",

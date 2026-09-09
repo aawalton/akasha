@@ -9,7 +9,7 @@ export const byuVocalPointGratitude = {
   position: 0,
   ownLength: 5.305233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-24",
   externalId: "2nINaFm4H50Y7Sej2mqANH",

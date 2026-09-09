@@ -9,7 +9,7 @@ export const celticWoman2PostcardsFromIreland = {
   position: 0,
   ownLength: 51.009917,
   ownProgress: 51.009917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
   externalId: "6MEFNhfXzOAOiBjPLiPdhm",

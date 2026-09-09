@@ -9,7 +9,7 @@ export const backstreetBoys2ChancesMarkRalphRemix = {
   position: 0,
   ownLength: 3.509633,
   ownProgress: 3.509633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
   externalId: "00NuPxl4GeqEZORoP6Im0U",

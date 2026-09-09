@@ -9,7 +9,7 @@ export const celticWoman2SpancilHill = {
   position: 0,
   ownLength: 3.308333,
   ownProgress: 3.308333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-03",
   externalId: "4vqPZ33aCyf4YmwYSrc0qd",

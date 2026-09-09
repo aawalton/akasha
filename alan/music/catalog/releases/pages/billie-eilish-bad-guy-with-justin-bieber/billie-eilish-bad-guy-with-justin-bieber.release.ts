@@ -9,7 +9,7 @@ export const billieEilishBadGuyWithJustinBieber = {
   position: 0,
   ownLength: 3.247317,
   ownProgress: 3.247317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-11",

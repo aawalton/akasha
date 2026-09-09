@@ -9,7 +9,7 @@ export const byuVocalPointNewbornKing = {
   position: 0,
   ownLength: 21.127883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-13",
   externalId: "6OcaT1cLsbeKvYyMWVYv8B",

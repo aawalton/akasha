@@ -9,7 +9,7 @@ export const lynLapid = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "4pfy05cNNTacuOQ6SiSu4v",

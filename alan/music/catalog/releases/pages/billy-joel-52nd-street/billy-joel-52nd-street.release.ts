@@ -9,7 +9,7 @@ export const billyJoel52ndStreet = {
   position: 0,
   ownLength: 40.429283,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1978-10-13",
   externalId: "1HmCO8VK98AU6EXPOjGYyI",

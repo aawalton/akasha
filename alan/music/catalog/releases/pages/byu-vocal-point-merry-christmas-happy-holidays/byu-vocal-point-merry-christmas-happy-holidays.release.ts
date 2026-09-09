@@ -9,7 +9,7 @@ export const byuVocalPointMerryChristmasHappyHolidays = {
   position: 0,
   ownLength: 4.0976,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-11",
   externalId: "0KaweD1XtYJzzN9tFXGItZ",

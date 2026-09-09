@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMe = {
   position: 0,
   ownLength: 3.734333,
   ownProgress: 3.734333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-06",
   externalId: "6nPJEALAjWKOE1jWPws7jj",

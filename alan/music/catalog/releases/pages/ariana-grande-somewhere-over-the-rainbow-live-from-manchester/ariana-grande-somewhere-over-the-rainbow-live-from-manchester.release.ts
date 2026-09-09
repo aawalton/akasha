@@ -9,7 +9,7 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchester = {
   position: 0,
   ownLength: 4.533767,
   ownProgress: 4.533767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-06",
   externalId: "5DZ9A2AgtgmezypepyYGeJ",

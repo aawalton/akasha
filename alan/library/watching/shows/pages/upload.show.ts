@@ -9,7 +9,7 @@ export const upload = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-30",
   externalLink: "https://trakt.tv/shows/upload",

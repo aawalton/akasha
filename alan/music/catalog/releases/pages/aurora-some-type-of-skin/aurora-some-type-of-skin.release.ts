@@ -9,7 +9,7 @@ export const auroraSomeTypeOfSkin = {
   position: 0,
   ownLength: 9.954433,
   ownProgress: 9.954433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-10",
   externalId: "1kLM9sRXSaIxGRz18pE6DU",

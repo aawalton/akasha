@@ -9,7 +9,7 @@ export const billieEilishBitchesBrokenHearts = {
   position: 0,
   ownLength: 2.941183,
   ownProgress: 2.941183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2018-03-30",

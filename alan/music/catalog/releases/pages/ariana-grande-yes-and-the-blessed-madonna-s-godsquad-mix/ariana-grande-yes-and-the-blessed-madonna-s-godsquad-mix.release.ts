@@ -9,7 +9,7 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMix = {
   position: 0,
   ownLength: 5.033033,
   ownProgress: 5.033033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
   externalId: "61dUL51qxsxQJMdai6HiUH",

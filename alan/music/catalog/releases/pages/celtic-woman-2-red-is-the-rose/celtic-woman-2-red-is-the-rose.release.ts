@@ -9,7 +9,7 @@ export const celticWoman2RedIsTheRose = {
   position: 0,
   ownLength: 3.579167,
   ownProgress: 3.579167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-09",
   externalId: "6ORQwFm62ysiizXPqM1INp",

@@ -9,7 +9,7 @@ export const arianaGrande2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "66CXWjxzNUsdJxJ2JdwvnR",

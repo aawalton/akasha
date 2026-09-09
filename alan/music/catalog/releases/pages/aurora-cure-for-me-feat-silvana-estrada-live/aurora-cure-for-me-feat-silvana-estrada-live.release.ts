@@ -9,7 +9,7 @@ export const auroraCureForMeFeatSilvanaEstradaLive = {
   position: 0,
   ownLength: 3.85475,
   ownProgress: 3.85475,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-21",
   externalId: "4DDaWo4xz93U8e9BTTaLGI",

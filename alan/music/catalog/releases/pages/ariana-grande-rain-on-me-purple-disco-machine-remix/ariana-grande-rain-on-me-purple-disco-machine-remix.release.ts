@@ -9,7 +9,7 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemix = {
   position: 0,
   ownLength: 10.53725,
   ownProgress: 10.53725,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
   externalId: "42hbqXgvZ1dI3gQ1ZDnHA5",

@@ -9,7 +9,7 @@ export const arianaGrandeMyEverythingDeluxe = {
   position: 0,
   ownLength: 50.973483,
   ownProgress: 50.973483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-22",
   externalId: "6EVYTRG1drKdO8OnIQBeEj",

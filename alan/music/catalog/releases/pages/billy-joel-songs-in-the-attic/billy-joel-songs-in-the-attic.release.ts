@@ -9,7 +9,7 @@ export const billyJoelSongsInTheAttic = {
   position: 0,
   ownLength: 48.137733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1981-09-14",
   externalId: "2Vf4bohoWVk1YlPR2uNOFd",

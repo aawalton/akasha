@@ -9,7 +9,7 @@ export const arianaGrandeYoursTruly = {
   position: 0,
   ownLength: 46.43415,
   ownProgress: 46.43415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "5xSvNPstcxHtR4ap2vvN8A",

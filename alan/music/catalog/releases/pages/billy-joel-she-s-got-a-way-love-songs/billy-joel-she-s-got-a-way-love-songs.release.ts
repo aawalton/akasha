@@ -9,7 +9,7 @@ export const billyJoelSheSGotAWayLoveSongs = {
   position: 0,
   ownLength: 79.0721,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-18",
   externalId: "32wLA4tXwUwvyqclgZRijb",

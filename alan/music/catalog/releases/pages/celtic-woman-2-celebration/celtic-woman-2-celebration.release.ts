@@ -9,7 +9,7 @@ export const celticWoman2Celebration = {
   position: 0,
   ownLength: 55.61435,
   ownProgress: 55.61435,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-27",
   externalId: "2M3UP3E3ZpozRA9Ys4YLJW",

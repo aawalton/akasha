@@ -9,7 +9,7 @@ export const celticWoman2OverTheRainbow = {
   position: 0,
   ownLength: 3.405333,
   ownProgress: 3.405333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-16",
   externalId: "19ig22qPGuSgOoLoUwHYuH",

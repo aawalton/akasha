@@ -9,7 +9,7 @@ export const leonardCohen = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "5l8VQNuIg0turYE1VtM9zV",

@@ -9,7 +9,7 @@ export const arianaGrandePutYourHeartsUp = {
   position: 0,
   ownLength: 3.503333,
   ownProgress: 3.503333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalId: "4tR7U06JWAgDcA1qfxtrD2",

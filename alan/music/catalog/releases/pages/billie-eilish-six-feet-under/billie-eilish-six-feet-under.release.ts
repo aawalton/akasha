@@ -9,7 +9,7 @@ export const billieEilishSixFeetUnder = {
   position: 0,
   ownLength: 3.160217,
   ownProgress: 3.160217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2016-11-17",

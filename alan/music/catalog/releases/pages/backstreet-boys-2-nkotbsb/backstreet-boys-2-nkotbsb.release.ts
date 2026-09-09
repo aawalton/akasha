@@ -9,7 +9,7 @@ export const backstreetBoys2Nkotbsb = {
   position: 0,
   ownLength: 54.79615,
   ownProgress: 54.79615,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-05-24",
   externalId: "5Zwuaan4RIS108lyMEYYmw",

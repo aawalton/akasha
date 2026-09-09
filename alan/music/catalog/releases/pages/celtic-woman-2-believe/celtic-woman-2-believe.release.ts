@@ -9,7 +9,7 @@ export const celticWoman2Believe = {
   position: 0,
   ownLength: 63.99725,
   ownProgress: 63.99725,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "0W3Iy4fSoo52orS48lB62N",

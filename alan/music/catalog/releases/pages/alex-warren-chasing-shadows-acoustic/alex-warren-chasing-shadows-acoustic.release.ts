@@ -9,7 +9,7 @@ export const alexWarrenChasingShadowsAcoustic = {
   position: 0,
   ownLength: 5.444667,
   ownProgress: 5.444667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-14",
   externalId: "7blH1R6aCVgNqRUi8lVp3f",

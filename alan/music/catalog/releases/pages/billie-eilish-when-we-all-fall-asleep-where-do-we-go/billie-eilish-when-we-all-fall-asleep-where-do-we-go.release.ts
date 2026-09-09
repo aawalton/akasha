@@ -9,7 +9,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
   position: 0,
   ownLength: 42.921017,
   ownProgress: 42.921017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2019-03-29",

@@ -9,7 +9,7 @@ export const backstreetBoys2LetItBeMeBrennanHeartRemix = {
   position: 0,
   ownLength: 3.67645,
   ownProgress: 3.67645,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
   externalId: "66amYgzKWEUvBkZHN7sIkf",

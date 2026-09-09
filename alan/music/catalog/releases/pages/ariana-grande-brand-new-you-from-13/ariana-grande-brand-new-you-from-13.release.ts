@@ -9,7 +9,7 @@ export const arianaGrandeBrandNewYouFrom13 = {
   position: 0,
   ownLength: 8.180433,
   ownProgress: 8.180433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-20",
   externalId: "48uMMsVHGfKipIsOuYcvjs",

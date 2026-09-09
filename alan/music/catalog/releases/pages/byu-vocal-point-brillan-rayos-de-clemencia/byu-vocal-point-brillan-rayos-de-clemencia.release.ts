@@ -9,7 +9,7 @@ export const byuVocalPointBrillanRayosDeClemencia = {
   position: 0,
   ownLength: 3.704017,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-14",
   externalId: "4ldXycJdfpPV4gBLAGXldu",

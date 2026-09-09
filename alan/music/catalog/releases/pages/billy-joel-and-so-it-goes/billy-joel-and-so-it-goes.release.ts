@@ -9,7 +9,7 @@ export const billyJoelAndSoItGoes = {
   position: 0,
   ownLength: 441.355733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-26",
   externalId: "62feuYa3pcMI4JJjGjsUER",

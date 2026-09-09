@@ -9,7 +9,7 @@ export const byuVocalPointWickedMedley = {
   position: 0,
   ownLength: 5.3745,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-22",
   externalId: "0J8zQoSA3luDVK0d3paqNC",

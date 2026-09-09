@@ -9,7 +9,7 @@ export const auroraRunningWithTheWolvesWolfwalkersEdition = {
   position: 0,
   ownLength: 2.775767,
   ownProgress: 2.775767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalId: "5or6BEa0TARnX9gupWiCEv",

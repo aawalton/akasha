@@ -9,7 +9,7 @@ export const alexandriaPixie = {
   position: 0,
   ownLength: 3.481467,
   ownProgress: 3.481467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-21",

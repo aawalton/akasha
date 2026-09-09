@@ -9,7 +9,7 @@ export const billyJoelMyLives = {
   position: 0,
   ownLength: 288.331817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2005-11-22",
   externalId: "5nWLdbqnLvx8z8vpzWuwcg",

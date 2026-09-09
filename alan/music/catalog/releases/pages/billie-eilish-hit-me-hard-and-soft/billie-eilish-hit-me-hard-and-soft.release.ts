@@ -9,7 +9,7 @@ export const billieEilishHitMeHardAndSoft = {
   position: 0,
   ownLength: 43.838833,
   ownProgress: 43.838833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-05-17",

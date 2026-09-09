@@ -9,7 +9,7 @@ export const epicTheMusical = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   externalId: "2kdmTOXncgNHSuYVMhdd5I",

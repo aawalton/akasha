@@ -9,7 +9,7 @@ export const arianaGrandeYesAndFelixJaehnRemix = {
   position: 0,
   ownLength: 3.923167,
   ownProgress: 3.923167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
   externalId: "1K9Kpjfdj7Y3MHxuq3M6TK",

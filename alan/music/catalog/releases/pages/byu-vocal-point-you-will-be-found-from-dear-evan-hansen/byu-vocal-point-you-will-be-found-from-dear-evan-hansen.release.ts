@@ -9,7 +9,7 @@ export const byuVocalPointYouWillBeFoundFromDearEvanHansen = {
   position: 0,
   ownLength: 5.431667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-02",
   externalId: "40a3re7JlVp079mHtpY5uq",

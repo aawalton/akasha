@@ -9,7 +9,7 @@ export const celticWoman2GodRestYeMerryGentlemen = {
   position: 0,
   ownLength: 2.490533,
   ownProgress: 2.490533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-10",
   externalId: "5560w0xSWHBj61MAULRoqw",

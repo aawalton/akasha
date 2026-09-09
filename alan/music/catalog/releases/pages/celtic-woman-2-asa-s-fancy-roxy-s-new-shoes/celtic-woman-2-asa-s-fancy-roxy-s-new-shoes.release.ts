@@ -9,7 +9,7 @@ export const celticWoman2AsaSFancyRoxySNewShoes = {
   position: 0,
   ownLength: 3.6125,
   ownProgress: 3.6125,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-16",
   externalId: "3xnUqubGdeoQOQzzU8HeHs",

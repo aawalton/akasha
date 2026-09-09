@@ -9,7 +9,7 @@ export const youngSheldon = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-26",
   externalLink: "https://trakt.tv/shows/young-sheldon",

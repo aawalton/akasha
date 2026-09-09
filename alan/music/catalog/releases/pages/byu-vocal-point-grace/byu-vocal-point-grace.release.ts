@@ -9,7 +9,7 @@ export const byuVocalPointGrace = {
   position: 0,
   ownLength: 44.9037,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-02",
   externalId: "0TtdgTi8CpXJSzmPYvMaIy",

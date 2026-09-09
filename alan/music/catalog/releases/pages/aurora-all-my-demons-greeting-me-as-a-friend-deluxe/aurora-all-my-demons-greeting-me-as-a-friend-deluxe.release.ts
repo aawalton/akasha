@@ -9,7 +9,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   position: 0,
   ownLength: 64.812117,
   ownProgress: 64.812117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-11",
   externalId: "24CyXZHXgFPncdizaeTnSq",

@@ -9,7 +9,7 @@ export const arianaGrandeItWasAMaskedChristmas = {
   position: 0,
   ownLength: 3.01515,
   ownProgress: 3.01515,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-07",
   externalId: "7LsTjhsTKJA0Rfwwx1ppXs",

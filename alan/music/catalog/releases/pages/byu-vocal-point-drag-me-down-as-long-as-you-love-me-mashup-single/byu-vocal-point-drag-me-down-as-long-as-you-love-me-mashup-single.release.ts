@@ -9,7 +9,7 @@ export const byuVocalPointDragMeDownAsLongAsYouLoveMeMashupSingle = {
   position: 0,
   ownLength: 3.757633,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-11-01",
   externalId: "2y2HLvIPk6HD7MwUjBx5H0",

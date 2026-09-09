@@ -9,7 +9,7 @@ export const celticWoman2TheBestOfChristmas = {
   position: 0,
   ownLength: 69.182067,
   ownProgress: 69.182067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-17",
   externalId: "3XcfEon36vdUaMmHWdU6BS",

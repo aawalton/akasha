@@ -9,7 +9,7 @@ export const theHoldernessFamily = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "C",
   externalId: "6tITG4T8LpC0msapZ4wXGA",

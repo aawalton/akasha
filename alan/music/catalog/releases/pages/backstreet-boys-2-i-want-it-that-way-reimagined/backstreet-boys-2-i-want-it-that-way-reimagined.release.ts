@@ -9,7 +9,7 @@ export const backstreetBoys2IWantItThatWayReimagined = {
   position: 0,
   ownLength: 3.364883,
   ownProgress: 3.364883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-17",
   externalId: "74JILVZuxtZLFyRl9AY7TV",

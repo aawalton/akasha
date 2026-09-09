@@ -9,7 +9,7 @@ export const backstreetBoys2ChancesRemixes = {
   position: 0,
   ownLength: 16.200333,
   ownProgress: 16.200333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-14",
   externalId: "2teEJbIxwFhU8uQwxRbqhl",

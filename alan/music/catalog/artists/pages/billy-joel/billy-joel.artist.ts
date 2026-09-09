@@ -9,7 +9,7 @@ export const billyJoel = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "6zFYqv1mOsgBRQbae3JJ9e",

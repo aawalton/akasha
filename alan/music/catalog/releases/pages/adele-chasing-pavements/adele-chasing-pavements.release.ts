@@ -9,7 +9,7 @@ export const adeleChasingPavements = {
   position: 0,
   ownLength: 3.508433,
   ownProgress: 3.508433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-21",
   externalId: "5Kclo2Kmw2v94UqKwZam8F",

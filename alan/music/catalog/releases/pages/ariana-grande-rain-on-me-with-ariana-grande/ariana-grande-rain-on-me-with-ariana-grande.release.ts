@@ -9,7 +9,7 @@ export const arianaGrandeRainOnMeWithArianaGrande = {
   position: 0,
   ownLength: 3.036667,
   ownProgress: 3.036667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
   externalId: "4TqgXMSSTwP3RCo3MMSR6t",

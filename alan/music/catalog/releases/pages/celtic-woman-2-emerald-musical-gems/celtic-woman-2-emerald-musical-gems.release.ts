@@ -9,7 +9,7 @@ export const celticWoman2EmeraldMusicalGems = {
   position: 0,
   ownLength: 46.236567,
   ownProgress: 46.236567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalId: "7fa6mdn2l6gNvqmvZO6TIn",

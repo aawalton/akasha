@@ -9,7 +9,7 @@ export const byuVocalPointWeDonTTalkAboutBrunoFromEncanto = {
   position: 0,
   ownLength: 3.610267,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-04-08",
   externalId: "402NIAL7JA0OrTCXOOpic7",

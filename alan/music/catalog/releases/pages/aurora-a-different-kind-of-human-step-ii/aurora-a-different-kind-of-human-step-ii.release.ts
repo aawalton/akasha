@@ -9,7 +9,7 @@ export const auroraADifferentKindOfHumanStepIi = {
   position: 0,
   ownLength: 40.1452,
   ownProgress: 40.1452,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-07",
   externalId: "2xLOaAi985d5Xb4alPI8Hf",

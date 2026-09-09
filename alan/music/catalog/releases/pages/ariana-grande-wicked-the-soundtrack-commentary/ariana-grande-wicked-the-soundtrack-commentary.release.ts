@@ -9,7 +9,7 @@ export const arianaGrandeWickedTheSoundtrackCommentary = {
   position: 0,
   ownLength: 72.436883,
   ownProgress: 72.436883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-20",
   externalId: "3SKe78ljCWiaGA2znAmGEs",

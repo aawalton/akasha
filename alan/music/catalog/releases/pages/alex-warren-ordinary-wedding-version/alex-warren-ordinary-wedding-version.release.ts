@@ -9,7 +9,7 @@ export const alexWarrenOrdinaryWeddingVersion = {
   position: 0,
   ownLength: 3.116067,
   ownProgress: 3.116067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-18",
   externalId: "0GuyyL06PKQo3Yz43Nxdct",

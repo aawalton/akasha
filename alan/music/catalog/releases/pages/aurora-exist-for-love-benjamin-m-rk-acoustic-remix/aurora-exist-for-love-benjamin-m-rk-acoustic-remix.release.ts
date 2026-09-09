@@ -9,7 +9,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemix = {
   position: 0,
   ownLength: 16.982583,
   ownProgress: 16.982583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-07",
   externalId: "07WXtTeod8a4MHiWQJQrC8",

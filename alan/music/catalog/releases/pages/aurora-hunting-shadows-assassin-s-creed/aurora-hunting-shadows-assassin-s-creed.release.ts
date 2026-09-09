@@ -9,7 +9,7 @@ export const auroraHuntingShadowsAssassinSCreed = {
   position: 0,
   ownLength: 2.9431,
   ownProgress: 2.9431,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
   externalId: "6HzGOjwwke7sTbZrSf4Et9",

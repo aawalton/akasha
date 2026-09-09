@@ -9,7 +9,7 @@ export const alexWarrenChasingShadowsMkjRemix = {
   position: 0,
   ownLength: 5.517117,
   ownProgress: 5.517117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-24",
   externalId: "581A12sUOEPtkOfw5eDjYy",

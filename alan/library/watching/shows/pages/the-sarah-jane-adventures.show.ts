@@ -9,7 +9,7 @@ export const theSarahJaneAdventures = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
   externalLink: "https://trakt.tv/shows/the-sarah-jane-adventures",

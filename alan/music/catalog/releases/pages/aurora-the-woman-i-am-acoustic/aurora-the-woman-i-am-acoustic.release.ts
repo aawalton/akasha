@@ -9,7 +9,7 @@ export const auroraTheWomanIAmAcoustic = {
   position: 0,
   ownLength: 6.734,
   ownProgress: 6.734,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-20",
   externalId: "69EwxNZ9bOQLUrytcZwsf5",

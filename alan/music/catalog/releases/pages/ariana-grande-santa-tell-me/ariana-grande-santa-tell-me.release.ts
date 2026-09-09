@@ -9,7 +9,7 @@ export const arianaGrandeSantaTellMe = {
   position: 0,
   ownLength: 3.40155,
   ownProgress: 3.40155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-24",
   externalId: "27MNgBEnLCKoafz1g2Zu97",

@@ -9,7 +9,7 @@ export const auroraAppleTreeGeorgiaRemix = {
   position: 0,
   ownLength: 11.1561,
   ownProgress: 11.1561,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-14",
   externalId: "2Tdddwxt5OoIvLs8rl3t6N",

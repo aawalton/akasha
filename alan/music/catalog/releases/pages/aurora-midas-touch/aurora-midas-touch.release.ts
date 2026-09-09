@@ -9,7 +9,7 @@ export const auroraMidasTouch = {
   position: 0,
   ownLength: 2.694433,
   ownProgress: 2.694433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
   externalId: "6WYWxbDRmg5FYVsNp0jhV7",

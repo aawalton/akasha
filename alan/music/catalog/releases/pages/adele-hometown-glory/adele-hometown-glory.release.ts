@@ -9,7 +9,7 @@ export const adeleHometownGlory = {
   position: 0,
   ownLength: 16.862,
   ownProgress: 16.862,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-01",
   externalId: "1uT2pOgyFOXic7AyGCRCwx",

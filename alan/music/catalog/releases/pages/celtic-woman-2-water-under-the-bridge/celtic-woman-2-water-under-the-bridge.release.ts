@@ -9,7 +9,7 @@ export const celticWoman2WaterUnderTheBridge = {
   position: 0,
   ownLength: 3.733333,
   ownProgress: 3.733333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-23",
   externalId: "3oLWsGeuaNChQ5cNwbZNe1",

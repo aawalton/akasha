@@ -9,7 +9,7 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
   position: 0,
   ownLength: 3.602667,
   ownProgress: 3.602667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
   externalId: "2rfZFPB9om95kkhwbHnwa3",

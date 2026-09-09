@@ -9,7 +9,7 @@ export const auroraToBeAlright = {
   position: 0,
   ownLength: 15.651317,
   ownProgress: 15.651317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
   externalId: "5Ss70sGKkEU6rHOYSRsO3A",

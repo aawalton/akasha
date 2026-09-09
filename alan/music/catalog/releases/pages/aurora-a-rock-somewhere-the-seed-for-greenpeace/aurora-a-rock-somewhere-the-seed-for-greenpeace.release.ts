@@ -9,7 +9,7 @@ export const auroraARockSomewhereTheSeedForGreenpeace = {
   position: 0,
   ownLength: 5.970767,
   ownProgress: 5.970767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-06-25",

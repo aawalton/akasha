@@ -9,7 +9,7 @@ export const billyJoelBillyJoelNarratives = {
   position: 0,
   ownLength: 27.54695,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-27",
   externalId: "07qi6reLVlq9waILj1opdH",

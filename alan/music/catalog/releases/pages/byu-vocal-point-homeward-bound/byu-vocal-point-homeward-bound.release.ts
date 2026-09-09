@@ -9,7 +9,7 @@ export const byuVocalPointHomewardBound = {
   position: 0,
   ownLength: 4.182917,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-05-05",
   externalId: "4tZd1Uvx2sHHSLmSxrfK0J",

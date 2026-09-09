@@ -9,7 +9,7 @@ export const alexWarrenScreamingUnderwater = {
   position: 0,
   ownLength: 2.434883,
   ownProgress: 2.434883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
   externalId: "1JoSKqExdKeh5no4AhPYan",

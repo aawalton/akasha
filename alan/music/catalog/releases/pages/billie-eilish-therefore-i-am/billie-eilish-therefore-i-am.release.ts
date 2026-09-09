@@ -9,7 +9,7 @@ export const billieEilishThereforeIAm = {
   position: 0,
   ownLength: 2.90535,
   ownProgress: 2.90535,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2020-11-12",

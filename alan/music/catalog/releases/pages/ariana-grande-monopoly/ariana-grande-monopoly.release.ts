@@ -9,7 +9,7 @@ export const arianaGrandeMonopoly = {
   position: 0,
   ownLength: 2.6431,
   ownProgress: 2.6431,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-01",
   externalId: "0MbXjBEw6FrGtcglqEDHpb",

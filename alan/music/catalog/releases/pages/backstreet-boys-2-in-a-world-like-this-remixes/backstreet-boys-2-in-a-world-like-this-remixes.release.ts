@@ -9,7 +9,7 @@ export const backstreetBoys2InAWorldLikeThisRemixes = {
   position: 0,
   ownLength: 33.985917,
   ownProgress: 33.985917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-29",
   externalId: "037t7MAOKh2DHbf7ltfWUy",

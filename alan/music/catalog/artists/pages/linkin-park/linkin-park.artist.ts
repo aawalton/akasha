@@ -9,7 +9,7 @@ export const linkinPark = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "6XyY86QOPPrYVGvF9ch6wz",

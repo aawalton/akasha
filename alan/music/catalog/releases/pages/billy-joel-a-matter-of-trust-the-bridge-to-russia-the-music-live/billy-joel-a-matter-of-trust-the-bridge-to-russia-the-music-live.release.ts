@@ -9,7 +9,7 @@ export const billyJoelAMatterOfTrustTheBridgeToRussiaTheMusicLive = {
   position: 0,
   ownLength: 126.577367,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-19",
   externalId: "0Zck2cwH8sMBTRoqIODlmu",

@@ -9,7 +9,7 @@ export const backstreetBoys2Unbreakable = {
   position: 0,
   ownLength: 55.836117,
   ownProgress: 55.836117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2007-10-24",
   externalId: "3dJhkG64rXbA2PtBLBGFVd",

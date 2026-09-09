@@ -9,7 +9,7 @@ export const billyJoelStormFront = {
   position: 0,
   ownLength: 44.649283,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1989-10-17",
   externalId: "1Vw2uoVkLAJFVViJ1QyK1D",

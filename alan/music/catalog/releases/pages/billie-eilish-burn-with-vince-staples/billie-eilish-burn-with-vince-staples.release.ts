@@ -9,7 +9,7 @@ export const billieEilishBurnWithVinceStaples = {
   position: 0,
   ownLength: 2.983583,
   ownProgress: 2.983583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2017-12-15",

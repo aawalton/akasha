@@ -9,7 +9,7 @@ export const xMen97 = {
   position: 49,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-20",
   externalLink: "https://trakt.tv/shows/x-men-97",

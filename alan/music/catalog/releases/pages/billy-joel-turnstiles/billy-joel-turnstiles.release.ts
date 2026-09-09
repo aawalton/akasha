@@ -9,7 +9,7 @@ export const billyJoelTurnstiles = {
   position: 0,
   ownLength: 36.807083,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1976-05-19",
   externalId: "7GiLfxL1su3MSqz7pmKMZi",

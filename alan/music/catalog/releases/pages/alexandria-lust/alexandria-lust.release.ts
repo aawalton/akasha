@@ -9,7 +9,7 @@ export const alexandriaLust = {
   position: 0,
   ownLength: 1.921567,
   ownProgress: 1.921567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-14",

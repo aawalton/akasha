@@ -9,7 +9,7 @@ export const arianaGrandeBreakFree = {
   position: 0,
   ownLength: 10.536517,
   ownProgress: 10.536517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-02",
   externalId: "4WFgnJrj9Kb67y4NcFBaHo",

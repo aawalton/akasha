@@ -9,7 +9,7 @@ export const byuVocalPointWhatChildIsThis = {
   position: 0,
   ownLength: 3.842217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-12-07",
   externalId: "3aQZ10ux9DWCMkmW8Er0b9",

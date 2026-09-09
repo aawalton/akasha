@@ -9,7 +9,7 @@ export const backstreetBoys2NeverGone = {
   position: 0,
   ownLength: 47.6226,
   ownProgress: 47.6226,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-06-14",
   externalId: "1Wz9PANLXjaOskUv575hRV",

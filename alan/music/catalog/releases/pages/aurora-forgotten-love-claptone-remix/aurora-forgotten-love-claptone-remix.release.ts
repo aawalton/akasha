@@ -9,7 +9,7 @@ export const auroraForgottenLoveClaptoneRemix = {
   position: 0,
   ownLength: 9.796967,
   ownProgress: 9.796967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-25",
   externalId: "2fX9u6aMlTuyytivNH27DS",

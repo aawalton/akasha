@@ -9,7 +9,7 @@ export const celticWoman2Destiny = {
   position: 0,
   ownLength: 62.4635,
   ownProgress: 62.4635,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-15",
   externalId: "2UI1H3KCgGwcqYKXlHb5cY",

@@ -9,7 +9,7 @@ export const byuVocalPointHeIsBorn = {
   position: 0,
   ownLength: 41.40465,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-10-09",
   externalId: "63PQsDVKDO5F0db907qQKq",

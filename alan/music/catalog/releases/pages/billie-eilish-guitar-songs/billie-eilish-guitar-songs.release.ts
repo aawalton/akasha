@@ -9,7 +9,7 @@ export const billieEilishGuitarSongs = {
   position: 0,
   ownLength: 8.297133,
   ownProgress: 8.297133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-07-21",

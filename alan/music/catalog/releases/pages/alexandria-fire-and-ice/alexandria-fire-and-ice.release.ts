@@ -9,7 +9,7 @@ export const alexandriaFireAndIce = {
   position: 0,
   ownLength: 2.3349,
   ownProgress: 2.3349,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-19",

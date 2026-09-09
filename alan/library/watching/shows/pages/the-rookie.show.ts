@@ -9,7 +9,7 @@ export const theRookie = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "in-progress",
   publishedAt: "2018-10-17",
   externalLink: "https://trakt.tv/shows/the-rookie-2018",

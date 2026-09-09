@@ -9,7 +9,7 @@ export const auroraParamourFeatAurora = {
   position: 0,
   ownLength: 2.807217,
   ownProgress: 2.807217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
   externalId: "79NhJfhqNZgDUJtwIn1V1k",

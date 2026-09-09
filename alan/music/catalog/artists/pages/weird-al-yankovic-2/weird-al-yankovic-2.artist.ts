@@ -9,7 +9,7 @@ export const weirdAlYankovic2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "1bDWGdIC2hardyt55nlQgG",

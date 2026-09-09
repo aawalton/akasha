@@ -9,7 +9,7 @@ export const taylorSwift2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "06HL4z0CvFAxyc27GXpf02",

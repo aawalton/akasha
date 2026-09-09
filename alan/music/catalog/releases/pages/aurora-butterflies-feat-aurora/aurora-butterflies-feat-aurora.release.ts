@@ -9,7 +9,7 @@ export const auroraButterfliesFeatAurora = {
   position: 0,
   ownLength: 2.177767,
   ownProgress: 2.177767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-27",
   externalId: "3399XMtHgSm7F0DClLiSsU",

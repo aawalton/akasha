@@ -9,7 +9,7 @@ export const alexWarrenBurningDown = {
   position: 0,
   ownLength: 2.990617,
   ownProgress: 2.990617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-20",
   externalId: "1v9bkQK8p2Za27mavQqu1V",

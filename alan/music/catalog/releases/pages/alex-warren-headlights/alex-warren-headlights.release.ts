@@ -9,7 +9,7 @@ export const alexWarrenHeadlights = {
   position: 0,
   ownLength: 2.886883,
   ownProgress: 2.886883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-02",
   externalId: "2iZdpmmkZ1FmQh179iOc9z",

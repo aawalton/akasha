@@ -9,7 +9,7 @@ export const thirdRockFromTheSun = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1996-01-09",
   externalId: "3rd-rock-from-the-sun",

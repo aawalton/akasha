@@ -9,7 +9,7 @@ export const auroraComeCloser = {
   position: 0,
   ownLength: 4.474217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-05",
   externalId: "64FOGaSyhQfEBe8qJa8uBe",

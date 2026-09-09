@@ -9,7 +9,7 @@ export const alexWarrenChasingShadows = {
   position: 0,
   ownLength: 5.620667,
   ownProgress: 5.620667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
   externalId: "5laO2TJ5lwhscYwdFB0sIX",

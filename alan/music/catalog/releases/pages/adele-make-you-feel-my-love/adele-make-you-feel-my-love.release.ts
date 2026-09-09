@@ -9,7 +9,7 @@ export const adeleMakeYouFeelMyLove = {
   position: 0,
   ownLength: 3.534,
   ownProgress: 3.534,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-27",
   externalId: "4K1tS9SCKWJX4NQCcMUcUx",

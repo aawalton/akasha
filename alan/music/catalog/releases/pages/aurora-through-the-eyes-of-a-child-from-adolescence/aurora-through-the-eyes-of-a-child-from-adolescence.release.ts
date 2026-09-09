@@ -9,7 +9,7 @@ export const auroraThroughTheEyesOfAChildFromAdolescence = {
   position: 0,
   ownLength: 4.57355,
   ownProgress: 4.57355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
   externalId: "4C3VG2uZOyX31YhVZWYzg9",

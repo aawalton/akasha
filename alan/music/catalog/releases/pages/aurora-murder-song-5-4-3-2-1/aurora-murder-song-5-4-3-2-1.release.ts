@@ -9,7 +9,7 @@ export const auroraMurderSong54321 = {
   position: 0,
   ownLength: 6.9842,
   ownProgress: 6.9842,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-09-04",
   externalId: "3FsT7nfwI7tSgW02lCVjIv",

@@ -9,7 +9,7 @@ export const celticWoman2MoGhileMearMyGallantStar = {
   position: 0,
   ownLength: 3.650167,
   ownProgress: 3.650167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-01",
   externalId: "1g4lovWgZv3y1FPjzDKPLp",

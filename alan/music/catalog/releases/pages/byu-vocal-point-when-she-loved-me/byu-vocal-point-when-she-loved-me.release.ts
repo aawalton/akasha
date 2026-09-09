@@ -9,7 +9,7 @@ export const byuVocalPointWhenSheLovedMe = {
   position: 0,
   ownLength: 3.21555,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-06-21",
   externalId: "0YDdwa7PsHcEO0E7yVxhqG",

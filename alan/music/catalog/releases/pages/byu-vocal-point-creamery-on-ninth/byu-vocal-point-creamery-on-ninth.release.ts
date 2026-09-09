@@ -9,7 +9,7 @@ export const byuVocalPointCreameryOnNinth = {
   position: 0,
   ownLength: 27.71875,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
   externalId: "4c2Pre75CBJwMlrgxS9w7t",

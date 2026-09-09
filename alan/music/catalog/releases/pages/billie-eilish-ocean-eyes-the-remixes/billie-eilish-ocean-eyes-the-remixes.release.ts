@@ -9,7 +9,7 @@ export const billieEilishOceanEyesTheRemixes = {
   position: 0,
   ownLength: 14.941083,
   ownProgress: 14.941083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2017-01-13",

@@ -9,7 +9,7 @@ export const alexWarrenYardSaleFolkVersion = {
   position: 0,
   ownLength: 2.937,
   ownProgress: 2.937,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-15",
   externalId: "1GQeJDY5tnkVO3deoOLWXj",

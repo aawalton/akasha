@@ -9,7 +9,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 42.977483,
   ownProgress: 42.977483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-14",
   externalId: "6XVCLtMjubQa0VHm9UHsXN",

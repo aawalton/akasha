@@ -9,7 +9,7 @@ export const billieEilishSixFeetUnderTheRemixes = {
   position: 0,
   ownLength: 14.104,
   ownProgress: 14.104,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2017-02-03",

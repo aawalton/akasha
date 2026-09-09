@@ -9,7 +9,7 @@ export const auroraBringBackTheColorFeatAurora = {
   position: 0,
   ownLength: 2.809083,
   ownProgress: 2.809083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
   externalId: "5F3hrGQ5xXSg7ZxNvvDUxo",

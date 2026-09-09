@@ -9,7 +9,7 @@ export const jisoo = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "6UZ0ba50XreR4TM8u322gs",

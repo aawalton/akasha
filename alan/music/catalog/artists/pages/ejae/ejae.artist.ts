@@ -9,7 +9,7 @@ export const ejae = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "0RMJOzHDhAKY1o2j0W0vxY",

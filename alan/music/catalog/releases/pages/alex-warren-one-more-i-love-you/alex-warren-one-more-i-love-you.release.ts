@@ -9,7 +9,7 @@ export const alexWarrenOneMoreILoveYou = {
   position: 0,
   ownLength: 3.615583,
   ownProgress: 3.615583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-11",
   externalId: "0xhH21t4xL0EAQCOOsq5aG",

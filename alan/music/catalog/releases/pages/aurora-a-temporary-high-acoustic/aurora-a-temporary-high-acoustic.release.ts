@@ -9,7 +9,7 @@ export const auroraATemporaryHighAcoustic = {
   position: 0,
   ownLength: 2.832433,
   ownProgress: 2.832433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-25",
   externalId: "4W00PrH1IwkkllR7LhyJcr",

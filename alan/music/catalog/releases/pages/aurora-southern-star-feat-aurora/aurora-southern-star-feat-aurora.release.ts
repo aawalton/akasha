@@ -9,7 +9,7 @@ export const auroraSouthernStarFeatAurora = {
   position: 0,
   ownLength: 5.079333,
   ownProgress: 5.079333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-10-23",

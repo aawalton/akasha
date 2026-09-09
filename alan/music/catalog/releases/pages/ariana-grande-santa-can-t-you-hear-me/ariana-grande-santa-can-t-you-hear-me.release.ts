@@ -9,7 +9,7 @@ export const arianaGrandeSantaCanTYouHearMe = {
   position: 0,
   ownLength: 4.044067,
   ownProgress: 4.044067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-14",
   externalId: "5RNKudvhTz6IX57BupmjeD",

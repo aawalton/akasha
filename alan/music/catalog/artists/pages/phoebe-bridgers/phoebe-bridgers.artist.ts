@@ -9,7 +9,7 @@ export const phoebeBridgers = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "1r1uxoy19fzMxunt3ONAkG",

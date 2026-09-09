@@ -9,7 +9,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEdition = {
   position: 0,
   ownLength: 72.037717,
   ownProgress: 72.037717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-25",
   externalId: "2VSBGJ8bUuNgmOYXHIQagM",

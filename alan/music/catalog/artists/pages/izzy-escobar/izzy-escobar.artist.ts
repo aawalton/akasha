@@ -9,7 +9,7 @@ export const izzyEscobar = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "63iuP8EumHpqaaMKyi0pxO",

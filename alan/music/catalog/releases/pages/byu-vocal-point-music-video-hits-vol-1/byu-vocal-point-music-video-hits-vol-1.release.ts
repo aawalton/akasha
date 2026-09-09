@@ -9,7 +9,7 @@ export const byuVocalPointMusicVideoHitsVol1 = {
   position: 0,
   ownLength: 40.249067,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-09",
   externalId: "75anvZmaBM1s11fJsJAocW",

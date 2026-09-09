@@ -9,7 +9,7 @@ export const byuVocalPointTheGreatestShowmanACappellaMashup = {
   position: 0,
   ownLength: 4.609433,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-02-16",
   externalId: "6qkrDV0oKSCsn3i2OLOL9U",

@@ -9,7 +9,7 @@ export const alexWarrenYouLlBeAlrightKidChapter1 = {
   position: 0,
   ownLength: 33.130033,
   ownProgress: 33.130033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-26",
   externalId: "1eCGY9WJpYgtaFh1Lk2KNo",

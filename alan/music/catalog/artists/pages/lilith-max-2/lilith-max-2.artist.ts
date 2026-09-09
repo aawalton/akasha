@@ -9,7 +9,7 @@ export const lilithMax2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "797SPxZf82IYq3XCM8c9AM",

@@ -9,7 +9,7 @@ export const kpopDemonHuntersCast = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "S",
   externalId: "7mW7Tv7NvywKKXqafZo0Lc",

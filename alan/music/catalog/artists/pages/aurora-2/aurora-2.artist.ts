@@ -9,7 +9,7 @@ export const aurora2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "1WgXqy2Dd70QQOU7Ay074N",

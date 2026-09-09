@@ -9,7 +9,7 @@ export const celticWoman2SongsFromTheHeart = {
   position: 0,
   ownLength: 56.0388,
   ownProgress: 56.0388,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalId: "4isoRF5dFRCIE9kX6LVOfb",

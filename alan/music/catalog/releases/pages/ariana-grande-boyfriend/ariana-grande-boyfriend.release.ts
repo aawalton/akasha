@@ -9,7 +9,7 @@ export const arianaGrandeBoyfriend = {
   position: 0,
   ownLength: 3.101767,
   ownProgress: 3.101767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-02",
   externalId: "3zVB99XMdbP9HTVNg0GJwV",

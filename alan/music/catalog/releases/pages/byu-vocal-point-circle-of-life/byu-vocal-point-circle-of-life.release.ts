@@ -9,7 +9,7 @@ export const byuVocalPointCircleOfLife = {
   position: 0,
   ownLength: 3.562217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-12",
   externalId: "1Sklt4eUxYWpl6ZEE3kicq",

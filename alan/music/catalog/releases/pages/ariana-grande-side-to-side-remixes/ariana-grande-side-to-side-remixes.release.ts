@@ -9,7 +9,7 @@ export const arianaGrandeSideToSideRemixes = {
   position: 0,
   ownLength: 7.65,
   ownProgress: 7.65,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
   externalId: "6I3a9Dp8ZrsVWhbQja7xBz",

@@ -9,7 +9,7 @@ export const billyJoelLiveAtTheGreatAmericanMusicHall = {
   position: 0,
   ownLength: 71.0898,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-21",
   externalId: "0lmuUnlD8af6RkHAtJa5gP",

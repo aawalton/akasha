@@ -9,7 +9,7 @@ export const jadaFacer = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "4k51JgB5G0e33QYVpbcPuf",

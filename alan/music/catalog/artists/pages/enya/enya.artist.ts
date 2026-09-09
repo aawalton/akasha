@@ -9,7 +9,7 @@ export const enya = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "6uothxMWeLWIhsGeF7cyo4",

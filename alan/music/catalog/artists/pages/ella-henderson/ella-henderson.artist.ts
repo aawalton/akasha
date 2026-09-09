@@ -9,7 +9,7 @@ export const ellaHenderson = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "C",
   externalId: "7nDsS0l5ZAzMedVRKPP8F1",

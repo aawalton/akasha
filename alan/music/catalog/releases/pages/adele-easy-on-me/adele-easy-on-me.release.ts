@@ -9,7 +9,7 @@ export const adeleEasyOnMe = {
   position: 0,
   ownLength: 3.7449,
   ownProgress: 3.7449,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-14",
   externalId: "224jZ4sUX7OhAuMwaxp86S",

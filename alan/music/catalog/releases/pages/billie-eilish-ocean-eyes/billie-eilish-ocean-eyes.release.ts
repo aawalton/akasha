@@ -9,7 +9,7 @@ export const billieEilishOceanEyes = {
   position: 0,
   ownLength: 3.342667,
   ownProgress: 3.342667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2016-11-18",

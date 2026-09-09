@@ -9,7 +9,7 @@ export const billyJoelStreetlifeSerenade = {
   position: 0,
   ownLength: 37.848183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1974-10-11",
   externalId: "57nvMIu4PQLLXRbmKESigL",

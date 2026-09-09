@@ -9,7 +9,7 @@ export const billieEilishHotlineEdit = {
   position: 0,
   ownLength: 1.011983,
   ownProgress: 1.011983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-09",

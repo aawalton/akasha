@@ -9,7 +9,7 @@ export const rockapella = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "C",
   externalId: "1AFSUleuDTapVhm5zUf4ix",

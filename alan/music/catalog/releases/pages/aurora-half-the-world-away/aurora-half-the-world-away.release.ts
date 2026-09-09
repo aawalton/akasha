@@ -9,7 +9,7 @@ export const auroraHalfTheWorldAway = {
   position: 0,
   ownLength: 3.302217,
   ownProgress: 3.302217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-07-11",
   externalId: "0oqYmoUfMV93LzLxIzN3IF",

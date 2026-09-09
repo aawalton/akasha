@@ -9,7 +9,7 @@ export const backstreetBoys2AVeryBackstreetChristmas = {
   position: 0,
   ownLength: 43.62855,
   ownProgress: 43.62855,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-14",
   externalId: "0DmM20iJ1NjdQSxGs6kCGt",

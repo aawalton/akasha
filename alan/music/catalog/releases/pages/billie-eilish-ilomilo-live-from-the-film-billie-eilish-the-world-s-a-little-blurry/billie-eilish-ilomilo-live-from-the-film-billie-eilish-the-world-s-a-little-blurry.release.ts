@@ -9,7 +9,7 @@ export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurr
   position: 0,
   ownLength: 2.734183,
   ownProgress: 2.734183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-02-22",

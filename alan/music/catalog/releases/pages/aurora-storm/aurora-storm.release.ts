@@ -9,7 +9,7 @@ export const auroraStorm = {
   position: 0,
   ownLength: 3.7948,
   ownProgress: 3.7948,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-16",
   externalId: "5jV393Pygg0HSUH3DRv8fL",

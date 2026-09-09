@@ -9,7 +9,7 @@ export const yaelokre = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "B",
   externalId: "3rRyfgGByetsaaujkjQ7rY",

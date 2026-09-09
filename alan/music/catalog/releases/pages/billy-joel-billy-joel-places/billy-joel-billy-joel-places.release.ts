@@ -9,7 +9,7 @@ export const billyJoelBillyJoelPlaces = {
   position: 0,
   ownLength: 23.053983,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-02-18",
   externalId: "2AiwpBGTcAtAGanYlV7kzo",

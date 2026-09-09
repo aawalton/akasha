@@ -9,7 +9,7 @@ export const celticWoman2NollaigAChristmasJourney = {
   position: 0,
   ownLength: 49.571433,
   ownProgress: 49.571433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
   externalId: "7txzCkE4yqkBKMQv0wk0r4",

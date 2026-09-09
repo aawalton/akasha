@@ -9,7 +9,7 @@ export const celticWoman2AncientLand = {
   position: 0,
   ownLength: 58.410567,
   ownProgress: 58.410567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-28",
   externalId: "6JP6VJccHYWKPckmRpayOP",

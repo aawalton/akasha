@@ -9,7 +9,7 @@ export const billieEilishCopycatSofiTukkerRemix = {
   position: 0,
   ownLength: 3.3114,
   ownProgress: 3.3114,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2018-01-12",

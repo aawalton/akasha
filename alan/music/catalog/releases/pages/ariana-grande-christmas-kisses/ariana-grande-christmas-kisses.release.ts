@@ -9,7 +9,7 @@ export const arianaGrandeChristmasKisses = {
   position: 0,
   ownLength: 13.229083,
   ownProgress: 13.229083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "5MfeQZrrNfMqcaq03U9qOr",

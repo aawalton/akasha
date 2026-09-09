@@ -9,7 +9,7 @@ export const auroraForTheMetalPeople = {
   position: 0,
   ownLength: 22.620917,
   ownProgress: 22.620917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-04",
   externalId: "3wBRFm2OnYmxcXGCWHDf1T",

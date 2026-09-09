@@ -9,7 +9,7 @@ export const arianaGrandeTheBoyIsMineRemix = {
   position: 0,
   ownLength: 6.450383,
   ownProgress: 6.450383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
   externalId: "3AICoyb5EH2OBmQJnaPDIt",

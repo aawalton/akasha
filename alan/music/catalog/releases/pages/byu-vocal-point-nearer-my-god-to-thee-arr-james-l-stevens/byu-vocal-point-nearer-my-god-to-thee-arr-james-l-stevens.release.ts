@@ -9,7 +9,7 @@ export const byuVocalPointNearerMyGodToTheeArrJamesLStevens = {
   position: 0,
   ownLength: 6.321933,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-22",
   externalId: "1jrbIxWuVtlSJUGdOhcbtj",

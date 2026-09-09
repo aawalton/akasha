@@ -9,7 +9,7 @@ export const alexWarrenRememberMeHappy = {
   position: 0,
   ownLength: 2.3516,
   ownProgress: 2.3516,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-17",
   externalId: "7MCGknTlNbWvCkzNjrqRDq",

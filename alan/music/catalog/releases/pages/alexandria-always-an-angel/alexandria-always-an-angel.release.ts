@@ -9,7 +9,7 @@ export const alexandriaAlwaysAnAngel = {
   position: 0,
   ownLength: 1.9375,
   ownProgress: 1.9375,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-04-18",

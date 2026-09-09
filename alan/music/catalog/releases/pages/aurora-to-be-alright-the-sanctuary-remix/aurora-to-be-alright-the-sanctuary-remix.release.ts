@@ -9,7 +9,7 @@ export const auroraToBeAlrightTheSanctuaryRemix = {
   position: 0,
   ownLength: 3.77415,
   ownProgress: 3.77415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-12",
   externalId: "15gg0PgEyWNffQPkTvVySx",

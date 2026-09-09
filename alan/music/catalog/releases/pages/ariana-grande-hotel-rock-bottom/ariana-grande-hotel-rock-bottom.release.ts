@@ -9,7 +9,7 @@ export const arianaGrandeHotelRockBottom = {
   position: 0,
   ownLength: 3.26175,
   ownProgress: 3.26175,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-10",
   externalId: "7CL6fVngqU6X5VYXHQtBis",

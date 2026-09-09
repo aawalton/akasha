@@ -9,7 +9,7 @@ export const celticWoman22020thAnniversary = {
   position: 0,
   ownLength: 68.69635,
   ownProgress: 68.69635,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-26",
   externalId: "3uAqoycvjKO32NMWswWJes",

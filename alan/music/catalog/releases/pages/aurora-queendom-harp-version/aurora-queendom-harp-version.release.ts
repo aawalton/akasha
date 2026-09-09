@@ -9,7 +9,7 @@ export const auroraQueendomHarpVersion = {
   position: 0,
   ownLength: 3.876433,
   ownProgress: 3.876433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-01",
   externalId: "1vmPWNli0hFNGxkIvfVkGw",

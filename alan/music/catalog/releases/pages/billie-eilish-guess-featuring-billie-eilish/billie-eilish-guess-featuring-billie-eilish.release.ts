@@ -9,7 +9,7 @@ export const billieEilishGuessFeaturingBillieEilish = {
   position: 0,
   ownLength: 2.388833,
   ownProgress: 2.388833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-08-01",

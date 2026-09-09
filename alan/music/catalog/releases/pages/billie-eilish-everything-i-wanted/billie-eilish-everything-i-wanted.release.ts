@@ -9,7 +9,7 @@ export const billieEilishEverythingIWanted = {
   position: 0,
   ownLength: 4.090417,
   ownProgress: 4.090417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-11-13",

@@ -9,7 +9,7 @@ export const byuVocalPointThePrayer = {
   position: 0,
   ownLength: 4.4968,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-20",
   externalId: "4x9WrhfSRO3PUJIBVFaO4D",

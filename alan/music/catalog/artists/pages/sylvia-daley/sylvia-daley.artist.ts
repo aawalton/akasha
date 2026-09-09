@@ -9,7 +9,7 @@ export const sylviaDaley = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "03dXd2zBbBJvX60Oap8Lgo",

@@ -9,7 +9,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   position: 0,
   ownLength: 48.919633,
   ownProgress: 48.919633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-07",
   externalId: "5TtsKcqHI5MN7rtMR19tUL",

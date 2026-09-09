@@ -9,7 +9,7 @@ export const celticWoman2SpanishLady20thAnniversary = {
   position: 0,
   ownLength: 2.018217,
   ownProgress: 2.018217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-06",
   externalId: "6peF96JCYG7LBbh0HaovLS",

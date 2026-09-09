@@ -9,7 +9,7 @@ export const arianaGrandeIDonTKnowWhyIJustDo = {
   position: 0,
   ownLength: 3.7471,
   ownProgress: 3.7471,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-26",
   externalId: "4cCVfhdZyqipuaZ89KmMvi",

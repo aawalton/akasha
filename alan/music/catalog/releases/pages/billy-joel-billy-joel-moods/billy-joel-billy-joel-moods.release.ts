@@ -9,7 +9,7 @@ export const billyJoelBillyJoelMoods = {
   position: 0,
   ownLength: 19.2886,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-07-20",
   externalId: "142xn3meDPG005SmZv06Cj",

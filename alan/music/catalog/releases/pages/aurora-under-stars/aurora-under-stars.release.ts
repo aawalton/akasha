@@ -9,7 +9,7 @@ export const auroraUnderStars = {
   position: 0,
   ownLength: 3.3171,
   ownProgress: 3.3171,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-02",
   externalId: "1oo0Ro40bKv7UM8lj2g3VN",

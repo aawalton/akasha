@@ -9,7 +9,7 @@ export const byuVocalPointUltimateACappellaMashup25Hits25YearsSingle = {
   position: 0,
   ownLength: 3.71955,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-04-07",
   externalId: "60y9qUaNJLqpGx0qvoWEvp",

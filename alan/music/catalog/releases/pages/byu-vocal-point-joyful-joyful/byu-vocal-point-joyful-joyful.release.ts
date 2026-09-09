@@ -9,7 +9,7 @@ export const byuVocalPointJoyfulJoyful = {
   position: 0,
   ownLength: 3.9575,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-11-07",
   externalId: "1PGAJMZgLu6BRGEWHXY6JL",

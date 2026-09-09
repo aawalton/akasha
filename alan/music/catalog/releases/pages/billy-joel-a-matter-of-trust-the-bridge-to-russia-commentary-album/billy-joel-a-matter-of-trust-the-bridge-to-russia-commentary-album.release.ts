@@ -9,7 +9,7 @@ export const billyJoelAMatterOfTrustTheBridgeToRussiaCommentaryAlbum = {
   position: 0,
   ownLength: 10.81705,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-18",
   externalId: "1dBlgy5UFC8vfLcASVtdg3",

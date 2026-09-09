@@ -9,7 +9,7 @@ export const japaneseBreakfast = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   externalId: "7MoIc5s9KXolCBH1fy9kkw",

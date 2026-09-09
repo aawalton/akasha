@@ -9,7 +9,7 @@ export const backstreetBoys2Breathe = {
   position: 0,
   ownLength: 3.108217,
   ownProgress: 3.108217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
   externalId: "3wkAyn5E9eDgKpTIAnEMFU",

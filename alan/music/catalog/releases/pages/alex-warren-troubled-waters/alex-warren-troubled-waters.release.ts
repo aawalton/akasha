@@ -9,7 +9,7 @@ export const alexWarrenTroubledWaters = {
   position: 0,
   ownLength: 3.29625,
   ownProgress: 3.29625,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-06",
   externalId: "54V4i5OLHNmaiXIgK7urCp",

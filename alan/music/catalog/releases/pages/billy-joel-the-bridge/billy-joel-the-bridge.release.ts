@@ -9,7 +9,7 @@ export const billyJoelTheBridge = {
   position: 0,
   ownLength: 40.3046,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1986-07-28",
   externalId: "2fRxSC6FtiAkhEDVZr2seH",

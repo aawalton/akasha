@@ -9,7 +9,7 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTenia = {
   position: 0,
   ownLength: 3.247767,
   ownProgress: 3.247767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-10",
   externalId: "0y19fCEoUao4b8947RkFwM",

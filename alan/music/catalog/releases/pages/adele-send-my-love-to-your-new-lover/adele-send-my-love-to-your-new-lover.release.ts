@@ -9,7 +9,7 @@ export const adeleSendMyLoveToYourNewLover = {
   position: 0,
   ownLength: 3.717967,
   ownProgress: 3.717967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-16",
   externalId: "7hplTHLU8PAVs1forXE2NU",

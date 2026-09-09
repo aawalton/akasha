@@ -9,7 +9,7 @@ export const alexWarrenHeadlightsAcoustic = {
   position: 0,
   ownLength: 5.773767,
   ownProgress: 5.773767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
   externalId: "6Cc4zdNF2cCHgy8i5ROF2P",

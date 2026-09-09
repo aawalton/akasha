@@ -9,7 +9,7 @@ export const arianaGrandeLoveMeHarder = {
   position: 0,
   ownLength: 11.7623,
   ownProgress: 11.7623,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-22",
   externalId: "42j6ji8hAqwHUpvw2H08SU",

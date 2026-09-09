@@ -9,7 +9,7 @@ export const auroraDaydreamerKdaLondonDub = {
   position: 0,
   ownLength: 9.097167,
   ownProgress: 9.097167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-01",
   externalId: "7n5MsXEnd49U0yTt4JuQyI",

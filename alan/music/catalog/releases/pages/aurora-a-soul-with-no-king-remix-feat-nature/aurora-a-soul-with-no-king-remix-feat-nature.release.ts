@@ -9,7 +9,7 @@ export const auroraASoulWithNoKingRemixFeatNature = {
   position: 0,
   ownLength: 5.248883,
   ownProgress: 5.248883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-18",
   externalId: "4yXbg9cdraRfkITzuRQwrU",

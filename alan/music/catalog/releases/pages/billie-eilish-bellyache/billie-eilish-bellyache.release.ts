@@ -9,7 +9,7 @@ export const billieEilishBellyache = {
   position: 0,
   ownLength: 2.9862,
   ownProgress: 2.9862,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2017-02-24",

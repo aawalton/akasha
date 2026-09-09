@@ -9,7 +9,7 @@ export const alexWarrenEternityOrchestralVersion = {
   position: 0,
   ownLength: 3.41855,
   ownProgress: 3.41855,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-29",
   externalId: "4PVrTYM62DSSUwTKX39wAR",

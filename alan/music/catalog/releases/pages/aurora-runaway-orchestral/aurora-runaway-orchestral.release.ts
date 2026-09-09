@@ -9,7 +9,7 @@ export const auroraRunawayOrchestral = {
   position: 0,
   ownLength: 8.282383,
   ownProgress: 8.282383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-27",
   externalId: "42kpZzNwOI177DpbDyTwP7",

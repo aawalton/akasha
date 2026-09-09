@@ -9,7 +9,7 @@ export const auroraTheConflictOfTheMind = {
   position: 0,
   ownLength: 8.4011,
   ownProgress: 8.4011,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-18",
   externalId: "7bGzvyccrDzn32gieBu3tE",

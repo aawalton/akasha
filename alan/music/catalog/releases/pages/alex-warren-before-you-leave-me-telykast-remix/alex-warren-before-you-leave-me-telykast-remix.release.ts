@@ -9,7 +9,7 @@ export const alexWarrenBeforeYouLeaveMeTelykastRemix = {
   position: 0,
   ownLength: 2.79365,
   ownProgress: 2.79365,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-27",
   externalId: "220lHt2TZTUYnR0HWLzK6J",

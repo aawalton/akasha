@@ -9,7 +9,7 @@ export const auroraIntoTheUnknown = {
   position: 0,
   ownLength: 3.332667,
   ownProgress: 3.332667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-04",
   externalId: "4iSXUMDfkZMFLIEnkAWWDL",

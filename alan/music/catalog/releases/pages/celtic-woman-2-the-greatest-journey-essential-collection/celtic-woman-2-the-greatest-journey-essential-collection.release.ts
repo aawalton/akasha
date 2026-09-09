@@ -9,7 +9,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollection = {
   position: 0,
   ownLength: 64.952017,
   ownProgress: 64.952017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "6Gcai6e7rxHo6nliZntVCs",

@@ -9,7 +9,7 @@ export const backstreetBoys2DonTGoBreakingMyHeart = {
   position: 0,
   ownLength: 3.5954,
   ownProgress: 3.5954,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-17",
   externalId: "7vM2i8qUZILFrg03mu3pva",

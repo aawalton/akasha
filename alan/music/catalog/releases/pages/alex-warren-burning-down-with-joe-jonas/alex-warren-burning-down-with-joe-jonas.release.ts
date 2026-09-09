@@ -9,7 +9,7 @@ export const alexWarrenBurningDownWithJoeJonas = {
   position: 0,
   ownLength: 2.990617,
   ownProgress: 2.990617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
   externalId: "5sT7X6SG6Vc4jc68TbZKEp",

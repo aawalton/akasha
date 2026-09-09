@@ -9,7 +9,7 @@ export const theTwilightZone2019 = {
   position: 2019,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-04-01",
   externalId: "the-twilight-zone-2019",

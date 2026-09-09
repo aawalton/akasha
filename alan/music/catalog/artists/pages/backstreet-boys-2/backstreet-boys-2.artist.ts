@@ -9,7 +9,7 @@ export const backstreetBoys2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   externalId: "5rSXSAkZ67PYJSvpUpkOr7",

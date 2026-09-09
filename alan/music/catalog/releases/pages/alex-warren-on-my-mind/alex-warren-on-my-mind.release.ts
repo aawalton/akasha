@@ -9,7 +9,7 @@ export const alexWarrenOnMyMind = {
   position: 0,
   ownLength: 3.159283,
   ownProgress: 3.159283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-27",
   externalId: "128pqckLyL3mr3SJwpUZun",

@@ -9,7 +9,7 @@ export const auroraWhatHappenedToTheHeartDeluxe = {
   position: 0,
   ownLength: 84.4479,
   ownProgress: 84.4479,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-02",
   externalId: "3W0VJHaitM1oDZ1QT5wFDx",

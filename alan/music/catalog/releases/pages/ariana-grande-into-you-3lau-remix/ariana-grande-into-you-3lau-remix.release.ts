@@ -9,7 +9,7 @@ export const arianaGrandeIntoYou3lauRemix = {
   position: 0,
   ownLength: 3.285767,
   ownProgress: 3.285767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-19",
   externalId: "3c5hq7WzAnJapzz9CNuuLl",

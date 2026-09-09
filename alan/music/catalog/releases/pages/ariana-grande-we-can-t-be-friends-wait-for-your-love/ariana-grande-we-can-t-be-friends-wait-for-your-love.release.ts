@@ -9,7 +9,7 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   position: 0,
   ownLength: 18.573033,
   ownProgress: 18.573033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
   externalId: "1kY0kHkLtxqZb0tBqPsIx4",

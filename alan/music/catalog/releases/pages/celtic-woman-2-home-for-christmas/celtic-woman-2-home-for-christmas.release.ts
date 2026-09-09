@@ -9,7 +9,7 @@ export const celticWoman2HomeForChristmas = {
   position: 0,
   ownLength: 45.53485,
   ownProgress: 45.53485,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "35BraU46wN6VdKw3qJJge4",

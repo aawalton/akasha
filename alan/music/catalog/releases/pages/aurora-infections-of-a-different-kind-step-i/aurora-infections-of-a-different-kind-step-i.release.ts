@@ -9,7 +9,7 @@ export const auroraInfectionsOfADifferentKindStepI = {
   position: 0,
   ownLength: 33.1823,
   ownProgress: 33.1823,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-28",
   externalId: "3kFKPn3NLvalIpXRvE8Apg",

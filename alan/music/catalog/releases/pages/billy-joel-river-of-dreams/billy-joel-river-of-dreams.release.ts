@@ -9,7 +9,7 @@ export const billyJoelRiverOfDreams = {
   position: 0,
   ownLength: 49.279267,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-08-10",
   externalId: "4HPnwQJAEvTY910q4RNeOu",

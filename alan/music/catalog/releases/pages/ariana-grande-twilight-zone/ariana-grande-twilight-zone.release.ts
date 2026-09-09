@@ -9,7 +9,7 @@ export const arianaGrandeTwilightZone = {
   position: 0,
   ownLength: 9.638217,
   ownProgress: 9.638217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-20",
   externalId: "2OqSK4OKrorvnUzYunU2lX",

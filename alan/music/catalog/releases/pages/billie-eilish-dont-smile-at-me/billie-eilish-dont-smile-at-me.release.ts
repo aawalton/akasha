@@ -9,7 +9,7 @@ export const billieEilishDontSmileAtMe = {
   position: 0,
   ownLength: 28.990267,
   ownProgress: 28.990267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2017-12-22",

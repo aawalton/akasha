@@ -9,7 +9,7 @@ export const auroraTheDevilIsHuman = {
   position: 0,
   ownLength: 3.010217,
   ownProgress: 3.010217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-08",
   externalId: "39UyPPm0nKdFi4Vd9Hljzu",

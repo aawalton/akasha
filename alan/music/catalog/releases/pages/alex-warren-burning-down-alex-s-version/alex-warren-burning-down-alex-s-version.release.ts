@@ -9,7 +9,7 @@ export const alexWarrenBurningDownAlexSVersion = {
   position: 0,
   ownLength: 6.042733,
   ownProgress: 6.042733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-26",
   externalId: "44SlAPqGthCRERcF5874so",

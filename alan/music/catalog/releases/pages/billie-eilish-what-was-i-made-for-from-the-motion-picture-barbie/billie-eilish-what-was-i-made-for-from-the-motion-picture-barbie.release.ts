@@ -9,7 +9,7 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   position: 0,
   ownLength: 3.70615,
   ownProgress: 3.70615,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-13",

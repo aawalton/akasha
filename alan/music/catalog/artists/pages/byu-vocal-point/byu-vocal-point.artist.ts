@@ -8,7 +8,7 @@ export const byuVocalPoint = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   externalId: "5zhxxb24WP6q6rbLHAn2UQ",
   externalLink: "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ",

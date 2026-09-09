@@ -9,7 +9,7 @@ export const byuVocalPointGodRestYeMerryGentlemenSingle = {
   position: 0,
   ownLength: 3.28235,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-12-04",
   externalId: "2ZdvMEUW7kAY0RL5BoXzMF",

@@ -9,7 +9,7 @@ export const billieEilishComeOutAndPlay = {
   position: 0,
   ownLength: 3.50625,
   ownProgress: 3.50625,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2018-11-20",

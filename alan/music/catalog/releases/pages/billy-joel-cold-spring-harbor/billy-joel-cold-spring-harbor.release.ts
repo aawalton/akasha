@@ -9,7 +9,7 @@ export const billyJoelColdSpringHarbor = {
   position: 0,
   ownLength: 29.8906,
   ownProgress: 29.8906,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1971-11-01",
   externalId: "274rMlKrr22086ohmwAJZA",

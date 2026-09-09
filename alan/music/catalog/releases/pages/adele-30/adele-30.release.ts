@@ -9,7 +9,7 @@ export const adele30 = {
   position: 0,
   ownLength: 58.300467,
   ownProgress: 58.300467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
   externalId: "21jF5jlMtzo94wbxmJ18aa",

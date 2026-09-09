@@ -9,7 +9,7 @@ export const billieEilishNoTimeToDie = {
   position: 0,
   ownLength: 4.03775,
   ownProgress: 4.03775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2020-02-13",

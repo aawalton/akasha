@@ -9,7 +9,7 @@ export const arianaGrandeJustLookUpFromDonTLookUp = {
   position: 0,
   ownLength: 3.361117,
   ownProgress: 3.361117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-03",
   externalId: "1geA7d12ed5LXsBns7ONB4",

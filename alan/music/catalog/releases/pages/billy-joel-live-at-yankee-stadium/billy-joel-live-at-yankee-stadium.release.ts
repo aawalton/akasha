@@ -9,7 +9,7 @@ export const billyJoelLiveAtYankeeStadium = {
   position: 0,
   ownLength: 111.447867,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-04",
   externalId: "3ZcQQSHbMn6hIoNboBJjbF",

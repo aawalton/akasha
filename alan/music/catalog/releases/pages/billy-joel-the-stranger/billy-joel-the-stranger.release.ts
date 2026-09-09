@@ -9,7 +9,7 @@ export const billyJoelTheStranger = {
   position: 0,
   ownLength: 42.5584,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1977-09-29",
   externalId: "3IILMjMMnoN2sKzgesX8KV",

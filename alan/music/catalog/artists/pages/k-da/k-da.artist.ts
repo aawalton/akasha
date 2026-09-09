@@ -9,7 +9,7 @@ export const kDa = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
   externalId: "4gOc8TsQed9eqnqJct2c5v",

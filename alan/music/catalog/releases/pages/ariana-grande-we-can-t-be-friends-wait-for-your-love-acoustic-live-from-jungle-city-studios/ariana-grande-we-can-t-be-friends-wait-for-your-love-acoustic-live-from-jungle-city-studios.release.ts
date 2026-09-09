@@ -9,7 +9,7 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLoveAcousticLiveFromJungleCit
   position: 0,
   ownLength: 3.129683,
   ownProgress: 3.129683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-08",
   externalId: "65X8oNWJyq6abR094X1hlD",

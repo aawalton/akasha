@@ -9,7 +9,7 @@ export const arianaGrandeProblem = {
   position: 0,
   ownLength: 9.647167,
   ownProgress: 9.647167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-28",
   externalId: "6YaOfJYBAlkWqI5Gfsgttp",

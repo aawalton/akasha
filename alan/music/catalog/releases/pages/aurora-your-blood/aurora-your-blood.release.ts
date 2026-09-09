@@ -9,7 +9,7 @@ export const auroraYourBlood = {
   position: 0,
   ownLength: 4.137767,
   ownProgress: 4.137767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-08",
   externalId: "6Mrbtd9OIIh1XPiTMqHaHC",

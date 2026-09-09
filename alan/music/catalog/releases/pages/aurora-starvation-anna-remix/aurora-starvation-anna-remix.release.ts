@@ -9,7 +9,7 @@ export const auroraStarvationAnnaRemix = {
   position: 0,
   ownLength: 3.566433,
   ownProgress: 3.566433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-03",
   externalId: "651nEjooRVw6JJ78RAeoyK",

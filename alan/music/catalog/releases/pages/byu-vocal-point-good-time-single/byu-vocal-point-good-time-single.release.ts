@@ -9,7 +9,7 @@ export const byuVocalPointGoodTimeSingle = {
   position: 0,
   ownLength: 2.899717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-03-05",
   externalId: "69Maj1WdZU7whzbviBS3xI",

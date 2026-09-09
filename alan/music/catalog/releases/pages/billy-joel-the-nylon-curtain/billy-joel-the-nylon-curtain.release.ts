@@ -9,7 +9,7 @@ export const billyJoelTheNylonCurtain = {
   position: 0,
   ownLength: 41.49285,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1982-06-23",
   externalId: "50bajZpetfL5T0iRCOR74J",

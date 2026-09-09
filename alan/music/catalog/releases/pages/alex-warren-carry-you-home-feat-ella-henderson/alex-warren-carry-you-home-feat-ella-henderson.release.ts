@@ -9,7 +9,7 @@ export const alexWarrenCarryYouHomeFeatEllaHenderson = {
   position: 0,
   ownLength: 2.781333,
   ownProgress: 2.781333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-09",
   externalId: "3oUielVpG8olEWWXY7Z4JS",
