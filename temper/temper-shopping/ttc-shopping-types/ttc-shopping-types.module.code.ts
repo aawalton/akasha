@@ -1,8 +1,8 @@
-import type { TTCPriceEntry } from "@akasha/temper-trading-pricing/pricing-types"
+import type { TTCPriceEntry } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import type {
   TTCListingEntry,
   TTCListingSearchParams,
-} from "@akasha/temper-trading-pricing/ttc-listing-types"
+} from "akasha/temper/trading-pricing/ttc-listing-types/ttc-listing-types.module.code.ts"
 
 export const BUDGET_STRATEGY = {
   Tight: 1.05,

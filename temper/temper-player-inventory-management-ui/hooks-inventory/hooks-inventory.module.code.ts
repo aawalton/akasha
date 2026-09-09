@@ -2,9 +2,9 @@
 
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
-import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { assembleInventory } from "akasha/temper/temper-items-core/assemble-inventory/assemble-inventory.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"
 import { chunksStillLoading } from "../chunks-loading/chunks-loading.module.code.ts"
 

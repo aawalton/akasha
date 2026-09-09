@@ -59,7 +59,6 @@
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
     "@akasha/talos": "workspace:*",

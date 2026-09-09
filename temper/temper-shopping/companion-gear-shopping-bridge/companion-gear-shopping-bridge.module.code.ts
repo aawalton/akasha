@@ -1,15 +1,15 @@
 import type {
   CompanionEquipmentQualityId,
   CompanionTraitId,
-} from "@akasha/temper-trading-pricing/companion-gear-ids"
+} from "akasha/temper/trading-pricing/companion-gear-ids/companion-gear-ids.module.code.ts"
 import {
   COMPANION_TRAIT_TO_TTC_TRAIT,
   type CompanionGearSlotDescriptor,
   resolveTtcItemId,
   WEIGHT_TO_CATEGORY2,
-} from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
-import { isPriceEntry } from "@akasha/temper-trading-pricing/is-price-entry"
-import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
+} from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
+import { isPriceEntry } from "akasha/temper/trading-pricing/is-price-entry/is-price-entry.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import type { ShoppingItem } from "../ttc-shopping-types/ttc-shopping-types.module.code.ts"
 
 export interface CompanionGearNeed {

@@ -46,7 +46,6 @@
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -1274,7 +1273,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
@@ -1310,13 +1308,6 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
-    "temper/trading-pricing": {
-      "name": "@akasha/temper-trading-pricing",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "testing-system": {
@@ -1579,8 +1570,6 @@
     "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/skill-kinds"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
-
-    "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:temper/trading-pricing"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
 

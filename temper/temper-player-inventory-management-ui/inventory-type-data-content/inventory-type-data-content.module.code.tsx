@@ -16,7 +16,6 @@ import {
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { lookupCurrencyConversionRates } from "@akasha/temper-trading-pricing/currency-price-lookup"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { computeCurrencyGoldTotal } from "akasha/temper/temper-items-core/inventory-currencies/inventory-currencies.module.code.ts"
 import {
@@ -24,6 +23,7 @@ import {
   groupInventoryByType,
 } from "akasha/temper/temper-items-core/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { lookupCurrencyConversionRates } from "akasha/temper/trading-pricing/currency-price-lookup/currency-price-lookup.module.code.ts"
 import { Package, Search } from "lucide-react"
 import { useMemo } from "react"
 import { useInventory, usePriceExtract } from "../hooks-inventory/hooks-inventory.module.code.ts"

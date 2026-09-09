@@ -35,7 +35,6 @@
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
-    "@akasha/temper-trading-pricing": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "class-variance-authority": "^0.7.1",

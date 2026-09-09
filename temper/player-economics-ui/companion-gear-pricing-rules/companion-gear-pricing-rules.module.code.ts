@@ -1,11 +1,11 @@
+import type { UnfulfilledGearNeed } from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   type CompanionGearPriceResult,
   type CompanionGearSlotDescriptor,
   lookupCompanionGearPrice,
   lookupCompanionGearPriceForSlot,
-} from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
-import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
-import type { UnfulfilledGearNeed } from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
+} from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
+import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 
 const ARMOR_ITEM_NAMES: Record<string, Record<string, string>> = {
   head: { Light: "Hat", Medium: "Helmet", Heavy: "Helm" },
