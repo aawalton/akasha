@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-enums-07"
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-08"
 
-import type { SalesPayload } from "@akasha/temper-capture-sales/sales-payload"
+import type { SalesPayload } from "akasha/temper/capture-sales/sales-payload/sales-payload.module.code.ts"
 
 let getSavedVariables: (() => SalesPayload) | undefined
 

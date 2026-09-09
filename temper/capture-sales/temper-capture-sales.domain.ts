@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCaptureSales = {
   id: "01a0608a-15b3-7222-9758-3efaaecd469e",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-capture-sales",
   definition: "the shape a sale through a guild store takes where the game saves it",
-  manifest: "json",
   parts: ["module/sales-payload", "module/sales-descriptor"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperCaptureSales = {
       statement: "Nothing here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

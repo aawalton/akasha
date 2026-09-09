@@ -1348,14 +1348,10 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/capture-sales": {
-      "name": "@akasha/temper-capture-sales",
-    },
     "temper/capture-sales-addon": {
       "name": "@akasha/temper-capture-sales-addon",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-capture-sales": "workspace:*",
         "@akasha/temper-capture-writer": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
       },
@@ -2219,7 +2215,6 @@
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-sales": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
@@ -2586,8 +2581,6 @@
     "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:temper/capture-host"],
 
     "@akasha/temper-capture-perf": ["@akasha/temper-capture-perf@workspace:temper/capture-perf"],
-
-    "@akasha/temper-capture-sales": ["@akasha/temper-capture-sales@workspace:temper/capture-sales"],
 
     "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
 

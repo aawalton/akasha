@@ -71,7 +71,6 @@
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-capture-errors": "workspace:*",
     "@akasha/temper-capture-host": "workspace:*",
-    "@akasha/temper-capture-sales": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-catalog-host": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
