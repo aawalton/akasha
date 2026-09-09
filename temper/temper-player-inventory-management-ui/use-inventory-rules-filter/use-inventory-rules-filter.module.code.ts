@@ -1,11 +1,9 @@
 "use client"
 
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { GOAL_NONE_ID } from "@akasha/temper-items-rules-core/inventory-rule-goals"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { useCallback, useMemo, useRef } from "react"
-import { getActionLabel } from "../action-options/action-options.module.code.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -20,7 +18,8 @@ import {
   buildActionFilterPredicate,
   buildCategoryMatchIds,
   buildCategorySearchText,
-  matchesCategoryFilter,
+  matchesCategoryRule,
+  matchesItemRule,
   matchItemLocation as matchItemLocationPure,
   partitionRules,
 } from "../inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"
@@ -193,42 +192,7 @@ export function useInventoryRulesFilter(
   function filterCategoryRuleSubset(subset: readonly CategoryRule[]): readonly CategoryRule[] {
     const fd = filterDepsRef.current
     if (!fd.hasAnyFilter) return subset
-    return subset.filter((r) => {
-      const matchesGoal = !fd.hasGoalFilter || fd.goalFilterValues.has(r.goal ?? GOAL_NONE_ID)
-      const matchesStatus =
-        !fd.hasStatusFilter ||
-        (fd.showActive && r.active !== false) ||
-        (fd.showInactive && r.active === false) ||
-        (fd.showDuplicate && fd.duplicateRuleIds.has(r.id))
-      const matchesLock =
-        !fd.hasLockFilter || (fd.showLocked && r.locked === true) || (fd.showUnlocked && !r.locked)
-      const matchesAction =
-        !fd.hasActionFilter ||
-        (fd.actionFilterPredicate?.(
-          r.action,
-          r.destination,
-          r.stockScope,
-          r.conditions?.canInspire
-        ) ??
-          false)
-      const matchesSearch =
-        !fd.hasSearchFilter || fd.getCategoryRuleSearchText(r).includes(fd.searchLower)
-      const matchesCategory = matchesCategoryFilter(r.categoryId, fd.categoryMatchIds)
-      const matchesLocation =
-        !fd.hasLocationFilter ||
-        (fd.affectedItemsMap?.get(r.id) ?? []).some((item) =>
-          fd.matchItemLocation(item.locationKey)
-        )
-      return (
-        matchesGoal &&
-        matchesStatus &&
-        matchesLock &&
-        matchesAction &&
-        matchesSearch &&
-        matchesCategory &&
-        matchesLocation
-      )
-    })
+    return subset.filter((r) => matchesCategoryRule(r, fd))
   }
 
   const filterDepArray = [
@@ -282,56 +246,8 @@ export function useInventoryRulesFilter(
 
   const filteredItemRules = useMemo(
     () =>
-      hasAnyFilter
-        ? itemRules.filter((r) => {
-            const matchesGoal = !hasGoalFilter || goalFilterValues.has(r.goal ?? GOAL_NONE_ID)
-            const matchesStatus =
-              !hasStatusFilter ||
-              (showActive && r.active !== false) ||
-              (showInactive && r.active === false)
-            const matchesLock =
-              !hasLockFilter || (showLocked && r.locked === true) || (showUnlocked && !r.locked)
-            const matchesAction =
-              !hasActionFilter || (actionFilterPredicate?.(r.action, r.destination) ?? false)
-            const matchesSearch =
-              !hasSearchFilter ||
-              (r.title ?? r.itemName).toLowerCase().includes(searchLower) ||
-              (r.notes ?? "").toLowerCase().includes(searchLower) ||
-              getActionLabel(r.action).toLowerCase().includes(searchLower)
-            const matchesLocation =
-              !hasLocationFilter ||
-              (affectedItemsMap?.get(r.id) ?? []).some((item) =>
-                matchItemLocation(item.locationKey)
-              )
-            return (
-              matchesGoal &&
-              matchesStatus &&
-              matchesLock &&
-              matchesAction &&
-              matchesSearch &&
-              matchesLocation
-            )
-          })
-        : itemRules,
-    [
-      itemRules,
-      hasAnyFilter,
-      hasGoalFilter,
-      hasStatusFilter,
-      hasLockFilter,
-      hasActionFilter,
-      hasSearchFilter,
-      hasLocationFilter,
-      showActive,
-      showInactive,
-      showLocked,
-      showUnlocked,
-      goalFilterValues,
-      actionFilterPredicate,
-      searchLower,
-      affectedItemsMap,
-      matchItemLocation,
-    ]
+      hasAnyFilter ? itemRules.filter((r) => matchesItemRule(r, filterDepsRef.current)) : itemRules,
+    [itemRules, ...filterDepArray]
   )
 
   const sortDeps = [

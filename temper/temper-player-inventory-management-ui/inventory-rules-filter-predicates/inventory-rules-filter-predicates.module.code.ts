@@ -1,7 +1,10 @@
+import { GOAL_NONE_ID } from "@akasha/temper-items-rules-core/inventory-rule-goals"
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
   type CategoryRule,
+  type ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
   getCategoryDescendantIds,
@@ -25,7 +28,7 @@ function isLocationTypeId(value: string): value is LocationTypeId {
   return LOCATION_TYPE_SET.has(value)
 }
 
-type ActionFilterPredicate = (
+export type ActionFilterPredicate = (
   ruleAction: string,
   destination?: string,
   stockScope?: string,
@@ -141,7 +144,7 @@ export function buildCategoryMatchIds(ruleCategory: string): Set<string> | null 
   return getCategoryDescendantIds(ruleCategory, ITEM_CATEGORY_TREE)
 }
 
-export function matchesCategoryFilter(
+function matchesCategoryFilter(
   ruleCategoryId: string,
   categoryMatchIds: ReadonlySet<string> | null
 ): boolean {
@@ -177,4 +180,86 @@ export function partitionRules(
   const locked = filtered.filter((r) => r.locked === true).map((r) => r.id)
   const unlocked = filtered.filter((r) => !r.locked).map((r) => r.id)
   return { active, inactive, duplicate, locked, unlocked }
+}
+
+export type RuleFilterDeps = {
+  readonly hasGoalFilter: boolean
+  readonly hasStatusFilter: boolean
+  readonly hasLockFilter: boolean
+  readonly hasActionFilter: boolean
+  readonly hasSearchFilter: boolean
+  readonly hasLocationFilter: boolean
+  readonly showActive: boolean
+  readonly showInactive: boolean
+  readonly showDuplicate: boolean
+  readonly showLocked: boolean
+  readonly showUnlocked: boolean
+  readonly goalFilterValues: ReadonlySet<string>
+  readonly actionFilterPredicate: ActionFilterPredicate | null
+  readonly searchLower: string
+  readonly categoryMatchIds: ReadonlySet<string> | null
+  readonly duplicateRuleIds: ReadonlySet<string>
+  readonly affectedItemsMap: ReadonlyMap<string, readonly AffectedItem[]> | null | undefined
+  readonly matchItemLocation: (locationKey: string) => boolean
+  readonly getCategoryRuleSearchText: (r: CategoryRule) => string
+}
+
+function matchesLocationFilter(ruleId: string, fd: RuleFilterDeps): boolean {
+  if (!fd.hasLocationFilter) return true
+  return (fd.affectedItemsMap?.get(ruleId) ?? []).some((item) =>
+    fd.matchItemLocation(item.locationKey)
+  )
+}
+
+function matchesGoalFilter(goal: string | null | undefined, fd: RuleFilterDeps): boolean {
+  return !fd.hasGoalFilter || fd.goalFilterValues.has(goal ?? GOAL_NONE_ID)
+}
+
+function matchesLockFilter(locked: boolean | undefined, fd: RuleFilterDeps): boolean {
+  return !fd.hasLockFilter || (fd.showLocked && locked === true) || (fd.showUnlocked && !locked)
+}
+
+export function matchesCategoryRule(r: CategoryRule, fd: RuleFilterDeps): boolean {
+  const matchesStatus =
+    !fd.hasStatusFilter ||
+    (fd.showActive && r.active !== false) ||
+    (fd.showInactive && r.active === false) ||
+    (fd.showDuplicate && fd.duplicateRuleIds.has(r.id))
+  const matchesAction =
+    !fd.hasActionFilter ||
+    (fd.actionFilterPredicate?.(r.action, r.destination, r.stockScope, r.conditions?.canInspire) ??
+      false)
+  const matchesSearch =
+    !fd.hasSearchFilter || fd.getCategoryRuleSearchText(r).includes(fd.searchLower)
+  return (
+    matchesGoalFilter(r.goal, fd) &&
+    matchesStatus &&
+    matchesLockFilter(r.locked, fd) &&
+    matchesAction &&
+    matchesSearch &&
+    matchesCategoryFilter(r.categoryId, fd.categoryMatchIds) &&
+    matchesLocationFilter(r.id, fd)
+  )
+}
+
+export function matchesItemRule(r: ItemRule, fd: RuleFilterDeps): boolean {
+  const matchesStatus =
+    !fd.hasStatusFilter ||
+    (fd.showActive && r.active !== false) ||
+    (fd.showInactive && r.active === false)
+  const matchesAction =
+    !fd.hasActionFilter || (fd.actionFilterPredicate?.(r.action, r.destination) ?? false)
+  const matchesSearch =
+    !fd.hasSearchFilter ||
+    (r.title ?? r.itemName).toLowerCase().includes(fd.searchLower) ||
+    (r.notes ?? "").toLowerCase().includes(fd.searchLower) ||
+    getActionLabel(r.action).toLowerCase().includes(fd.searchLower)
+  return (
+    matchesGoalFilter(r.goal, fd) &&
+    matchesStatus &&
+    matchesLockFilter(r.locked, fd) &&
+    matchesAction &&
+    matchesSearch &&
+    matchesLocationFilter(r.id, fd)
+  )
 }
