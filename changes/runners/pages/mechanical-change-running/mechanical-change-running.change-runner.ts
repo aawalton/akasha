@@ -3,6 +3,7 @@ import type { ChangeRunner } from "../../change-runner.page-type.ts"
 export const mechanicalChangeRunning = {
   id: "01a08165-1d8f-730e-ad94-1bd3d2d9513b",
   pageTypeSlug: "change-runner",
+  type: "change-runner",
   slug: "mechanical-change-running",
   definition: "the changes a program names run in order and landed as one commit",
   code: "ts",
