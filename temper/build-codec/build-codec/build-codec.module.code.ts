@@ -1,7 +1,7 @@
 import { base64urlToBytes, bytesToBase64url } from "@akasha/temper-build-hash/build-hash-base64url"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash } from "@akasha/temper-formula-framework/branded-id"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import {
   CHARACTER_BUILD_TYPE,
   decodeV48,

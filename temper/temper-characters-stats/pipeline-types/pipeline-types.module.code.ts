@@ -1,5 +1,5 @@
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { ArmorItem } from "akasha/temper/temper-characters-equipment/item-composites/item-composites.module.code.ts"
 
 export interface TranslationContext {

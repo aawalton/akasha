@@ -4,7 +4,6 @@ import {
   applyCharacterMetadata,
   extractCharacterMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
@@ -16,6 +15,7 @@ import {
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,

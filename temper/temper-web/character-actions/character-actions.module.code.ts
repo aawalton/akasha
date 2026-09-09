@@ -1,6 +1,6 @@
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 
 export const CHARACTER_ACTIONS = {
   UPDATE_BUILD: "UPDATE_BUILD",

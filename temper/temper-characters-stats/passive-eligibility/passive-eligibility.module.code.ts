@@ -1,4 +1,3 @@
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
   countArmorPiecesByWeight,
   countSlottedAbilitiesFromLine,
@@ -12,6 +11,7 @@ import type { CurseState } from "@akasha/temper-character-sources/curses"
 import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { TranslationContext } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export interface PassiveEligibilityContext {

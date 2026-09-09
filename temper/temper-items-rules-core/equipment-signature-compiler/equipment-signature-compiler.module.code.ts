@@ -1,4 +1,3 @@
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
@@ -26,6 +25,7 @@ import {
   PLAYER_QUALITY_TO_ESO,
   PLAYER_WEAPON_TYPE_TO_ESO,
 } from "@akasha/temper-items-core/eso-player-equipment-constants-data"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,

@@ -11,7 +11,6 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "@akasha/design-primitives/alert-dialog"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import {
   getSkillsToRemoveOnClassChange,
@@ -20,6 +19,7 @@ import {
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean

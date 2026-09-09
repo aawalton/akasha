@@ -1,8 +1,8 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { AttributesPanelCard } from "../attributes-panel-card/attributes-panel-card.module.code.tsx"
 import { CharacterAutomationPanelCard } from "../automation-panel-card/automation-panel-card.module.code.tsx"
 import { ConsumablesPanelCard } from "../consumables-panel-card/consumables-panel-card.module.code.tsx"

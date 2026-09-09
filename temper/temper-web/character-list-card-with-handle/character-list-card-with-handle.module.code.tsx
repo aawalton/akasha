@@ -1,10 +1,10 @@
 "use client"
 
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { RoleId } from "@akasha/temper-character-sources/character-roles"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
 import { usePlayerByUserId } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { CharacterListPanelCard } from "../character-list-panel-card/character-list-panel-card.module.code.tsx"
 
 interface CharacterListCardWithHandleProps {

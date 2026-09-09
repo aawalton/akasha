@@ -1,8 +1,8 @@
 "use client"
 
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/temper-characters-stats/build-state-adapter/build-state-adapter.module.code.ts"
 import {
   compareMetricValuesUnfiltered,

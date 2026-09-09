@@ -1,12 +1,12 @@
 "use client"
 
-import type {
-  CharacterState,
-  CharacterVisibility,
-} from "@akasha/temper-character-build/build-types"
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type {
+  CharacterState,
+  CharacterVisibility,
+} from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { CharacterProvider } from "../character-context/character-context.module.code.tsx"
 import { CharacterEditorContent } from "../character-editor-content/character-editor-content.module.code.tsx"
 

@@ -7,7 +7,6 @@ import {
   CollapsibleTrigger,
 } from "@akasha/design-primitives/collapsible"
 import { Heading } from "@akasha/design-primitives/heading"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import {
@@ -20,6 +19,7 @@ import {
   skillLineCategoriesSorted,
 } from "@akasha/temper-skill-lines/skill-line-category-data"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"

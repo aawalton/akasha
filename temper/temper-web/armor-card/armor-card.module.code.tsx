@@ -7,7 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
   type ArmorTraitId,
   armorTraits,
@@ -27,6 +26,7 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import {
   type ArmorEnchantId,
   armorEnchants,

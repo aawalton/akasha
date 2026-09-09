@@ -7,7 +7,7 @@ export const temper = {
   definition: "a companion suite for The Elder Scrolls Online",
   parts: [
     "eso-addon/temper-crafting-addon",
-    "workspace-package/temper-character-build",
+    "domain/temper-character-build",
     "domain/temper-lorebooks",
     "domain/temper-characters-equipment",
     "domain/temper-characters-equipment-ui",
