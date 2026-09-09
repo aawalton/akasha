@@ -17,11 +17,11 @@ import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
-import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"

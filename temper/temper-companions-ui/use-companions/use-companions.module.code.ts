@@ -9,8 +9,8 @@ import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import type { CompanionBuildMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import type { CompanionBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,

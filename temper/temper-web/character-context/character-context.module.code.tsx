@@ -1,13 +1,13 @@
 "use client"
 
 import {
-  applyCharacterMetadata,
-  type CharacterBuildMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
-import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import {
+  applyCharacterMetadata,
+  type CharacterBuildMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   type CharacterState,
   type CharacterVisibility,

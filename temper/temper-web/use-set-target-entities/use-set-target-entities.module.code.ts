@@ -1,13 +1,13 @@
 "use client"
 
 import {
-  applyCharacterMetadata,
-  extractCharacterMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
-import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import {
+  applyCharacterMetadata,
+  extractCharacterMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"

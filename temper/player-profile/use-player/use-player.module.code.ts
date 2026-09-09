@@ -7,7 +7,7 @@ import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import type { ProfileMetadata } from "@akasha/temper-build-metadata/build-metadata"
+import type { ProfileMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

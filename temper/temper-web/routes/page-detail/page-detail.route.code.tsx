@@ -5,18 +5,18 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
-import type {
-  CharacterBuildMetadata,
-  CompanionBuildMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
-import {
-  applyCharacterMetadata,
-  applyCompanionMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
 import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import type {
+  CharacterBuildMetadata,
+  CompanionBuildMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import {
+  applyCharacterMetadata,
+  applyCompanionMetadata,
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

@@ -3,7 +3,7 @@
 import {
   applyCompanionMetadata,
   type CompanionBuildMetadata,
-} from "@akasha/temper-build-metadata/build-metadata"
+} from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

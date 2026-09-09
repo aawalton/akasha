@@ -14,9 +14,9 @@ import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restora
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { applyCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { applyCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
