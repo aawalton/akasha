@@ -593,13 +593,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/auth-proxy": {
-      "name": "@akasha/auth-proxy",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/cluster/manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
@@ -617,6 +610,13 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
         "yaml": "^2.8.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "infrastructure/networks/auth-proxy": {
+      "name": "@akasha/auth-proxy",
+      "dependencies": {
+        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1281,7 +1281,7 @@
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/web"],
 
-    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/auth-proxy"],
+    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/networks/auth-proxy"],
 
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
 
