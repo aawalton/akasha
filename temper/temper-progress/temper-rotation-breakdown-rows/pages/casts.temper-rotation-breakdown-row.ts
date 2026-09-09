@@ -3,6 +3,7 @@ import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-ro
 export const casts = {
   id: "019e5d79-3e5a-75c8-be5d-d7cf27860199",
   pageTypeSlug: "temper-rotation-breakdown-row",
+  type: "temper-rotation-breakdown-row",
   slug: "casts",
   title: "Casts",
   key: "casts",

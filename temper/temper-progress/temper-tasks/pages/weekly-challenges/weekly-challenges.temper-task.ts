@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const weeklyChallenges = {
   id: "019f9420-7fe5-7a60-8791-99f0d72cd040",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "weekly-challenges",
   title: "Weekly Challenges",
   icon: "file-text",

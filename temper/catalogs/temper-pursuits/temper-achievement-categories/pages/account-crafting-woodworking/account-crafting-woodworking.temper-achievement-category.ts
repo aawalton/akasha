@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountCraftingWoodworking = {
   id: "01a06168-7247-7010-8606-7a1057093730",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-crafting-woodworking",
   title: "Woodworking",
   category: "account",

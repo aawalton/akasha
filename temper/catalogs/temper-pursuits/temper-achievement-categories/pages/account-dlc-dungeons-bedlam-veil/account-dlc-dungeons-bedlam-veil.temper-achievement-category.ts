@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsBedlamVeil = {
   id: "01a06168-7249-7006-827e-850488f6fe68",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-bedlam-veil",
   title: "Bedlam Veil",
   category: "account",

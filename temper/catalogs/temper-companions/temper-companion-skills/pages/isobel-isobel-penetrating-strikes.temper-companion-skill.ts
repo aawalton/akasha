@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const isobelIsobelPenetratingStrikes = {
   id: "019e6484-3876-7084-9250-0cf2b301a826",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "isobel-isobel-penetrating-strikes",
   key: "isobel-penetrating-strikes",
   title: "Penetrating Strikes",

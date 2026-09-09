@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const zerithVarZerithVarStrandsOfTheLattice = {
   id: "019e6484-38b6-706c-8599-a9bf960b653e",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-strands-of-the-lattice",
   key: "zerith-var-strands-of-the-lattice",
   title: "Strands of the Lattice",

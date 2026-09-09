@@ -3,6 +3,7 @@ import type { TemperCompanionActivationBuff } from "../temper-companion-activati
 export const flatResistance = {
   id: "01a05fcd-70f4-75a4-8cfc-fa91c36f1319",
   pageTypeSlug: "temper-companion-activation-buff",
+  type: "temper-companion-activation-buff",
   slug: "flat-resistance",
   key: "flat-resistance",
   title: "Resistance",

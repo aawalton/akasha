@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedReverseEntropy = {
   id: "019e6688-86f2-7974-b9a7-518094a485da",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-reverse-entropy",
   key: "shared-reverse-entropy",
   title: "Reverse Entropy",

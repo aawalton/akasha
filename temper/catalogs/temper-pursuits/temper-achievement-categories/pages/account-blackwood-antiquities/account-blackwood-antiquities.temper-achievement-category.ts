@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountBlackwoodAntiquities = {
   id: "01a06168-724e-7014-a651-83b213bc94e7",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-blackwood-antiquities",
   title: "Antiquities",
   category: "account",

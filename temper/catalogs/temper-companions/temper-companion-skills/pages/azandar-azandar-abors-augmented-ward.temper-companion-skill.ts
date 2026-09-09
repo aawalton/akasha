@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const azandarAzandarAborsAugmentedWard = {
   id: "019e6484-3837-75fc-a834-638f18af72f8",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "azandar-azandar-abors-augmented-ward",
   key: "azandar-abors-augmented-ward",
   title: "Abor's Augmented Ward",

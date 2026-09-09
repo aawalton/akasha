@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedFlexibility = {
   id: "019e6484-3835-78f0-aac4-b3f011617cbb",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-flexibility",
   key: "shared-flexibility",
   title: "Flexibility",

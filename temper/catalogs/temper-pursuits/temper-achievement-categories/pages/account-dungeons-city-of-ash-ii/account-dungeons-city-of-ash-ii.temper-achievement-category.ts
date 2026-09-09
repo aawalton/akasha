@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDungeonsCityOfAshIi = {
   id: "01a06168-7248-7008-aad5-11f79794c10b",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dungeons-city-of-ash-ii",
   title: "City of Ash II",
   category: "account",

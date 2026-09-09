@@ -3,6 +3,7 @@ import type { TemperCompanionEquipmentQuality } from "../temper-companion-equipm
 export const fine = {
   id: "01a05fcd-ea6b-7297-aff9-bc6b6c148d72",
   pageTypeSlug: "temper-companion-equipment-quality",
+  type: "temper-companion-equipment-quality",
   slug: "fine",
   key: "fine",
   title: "Fine",

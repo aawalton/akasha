@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const weaponRestorationStaff = {
   id: "01a05fce-c4ae-792d-be22-49c0c2e80877",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "weapon-restoration-staff",
   key: "weapon-restoration-staff",
   title: "Restoration Staff",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const companionIsobel = {
   id: "01a05fce-c4a3-7f07-bb13-07a8060a35bd",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "companion-isobel",
   key: "companion-isobel",
   title: "Isobel",

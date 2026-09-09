@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const zerithVarZerithVarAzurahsEmbrace = {
   id: "019e6484-38ad-783d-9933-9a92a3957728",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-azurahs-embrace",
   key: "zerith-var-azurahs-embrace",
   title: "Azurah's Embrace",

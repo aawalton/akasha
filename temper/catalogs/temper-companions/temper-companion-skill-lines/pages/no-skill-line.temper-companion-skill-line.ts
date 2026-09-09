@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const noSkillLine = {
   id: "01a05fce-c4ab-7261-9e2e-6d39604d36cb",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "no-skill-line",
   key: "no-skill-line",
   title: "No Skill Line",

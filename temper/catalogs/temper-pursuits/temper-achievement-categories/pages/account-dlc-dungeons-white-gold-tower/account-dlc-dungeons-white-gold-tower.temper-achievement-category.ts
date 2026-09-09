@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsWhiteGoldTower = {
   id: "01a06168-724a-700f-91cc-ad55abbd9648",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-white-gold-tower",
   title: "White Gold Tower",
   category: "account",

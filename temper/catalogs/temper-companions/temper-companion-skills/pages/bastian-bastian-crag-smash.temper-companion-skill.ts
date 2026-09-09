@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const bastianBastianCragSmash = {
   id: "019e6484-384a-74c6-8e49-515e726ca209",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "bastian-bastian-crag-smash",
   key: "bastian-crag-smash",
   title: "Crag Smash",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const tanlorinTanlorinHazeOfCinders = {
   id: "019e6484-38a4-75a3-96be-0f4376392195",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "tanlorin-tanlorin-haze-of-cinders",
   key: "tanlorin-haze-of-cinders",
   title: "Haze of Cinders",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const weaponTwoHanded = {
   id: "01a05fce-c4ae-7b4d-8272-db110d080a7e",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "weapon-two-handed",
   key: "weapon-two-handed",
   title: "Two Handed",

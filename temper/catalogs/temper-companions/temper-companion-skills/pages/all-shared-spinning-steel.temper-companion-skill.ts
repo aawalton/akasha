@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedSpinningSteel = {
   id: "019e668d-c555-75f2-b975-63bd57ee036f",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-spinning-steel",
   key: "shared-spinning-steel",
   title: "Spinning Steel",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const bastianBastianBasaltBarrier = {
   id: "019e6484-3847-75cb-9c57-281ffbda5cdb",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "bastian-bastian-basalt-barrier",
   key: "bastian-basalt-barrier",
   title: "Basalt Barrier",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const weaponDualWield = {
   id: "01a05fce-c4ac-74e1-9b94-e14d56e474d6",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "weapon-dual-wield",
   key: "weapon-dual-wield",
   title: "Dual Wield",

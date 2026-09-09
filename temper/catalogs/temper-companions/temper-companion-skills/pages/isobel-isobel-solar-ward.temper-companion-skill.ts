@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const isobelIsobelSolarWard = {
   id: "019e6484-3877-79d0-a571-cfa6b0027f14",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "isobel-isobel-solar-ward",
   key: "isobel-solar-ward",
   title: "Solar Ward",

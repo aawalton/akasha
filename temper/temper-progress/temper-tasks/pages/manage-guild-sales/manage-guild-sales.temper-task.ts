@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const manageGuildSales = {
   id: "019db533-f381-758e-8b24-0a120b8857e8",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "manage-guild-sales",
   title: "Manage Guild Sales",
   displayOrder: 12,

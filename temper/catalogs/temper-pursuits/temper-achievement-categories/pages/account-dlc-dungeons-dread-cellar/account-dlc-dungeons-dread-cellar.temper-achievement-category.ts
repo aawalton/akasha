@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsDreadCellar = {
   id: "01a06168-7249-700e-935d-30da9b448cef",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-dread-cellar",
   title: "Dread Cellar",
   category: "account",

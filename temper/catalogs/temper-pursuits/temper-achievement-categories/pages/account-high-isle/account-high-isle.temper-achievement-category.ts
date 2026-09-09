@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountHighIsle = {
   id: "01a06168-724e-7007-9cc5-55089979cc2a",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-high-isle",
   title: "High Isle",
   category: "account",

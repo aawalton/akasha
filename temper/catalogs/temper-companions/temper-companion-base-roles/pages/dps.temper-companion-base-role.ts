@@ -3,6 +3,7 @@ import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page
 export const dps = {
   id: "01a05fce-c49a-791b-a58b-9a311f674333",
   pageTypeSlug: "temper-companion-base-role",
+  type: "temper-companion-base-role",
   slug: "dps",
   key: "dps",
   title: "DPS",

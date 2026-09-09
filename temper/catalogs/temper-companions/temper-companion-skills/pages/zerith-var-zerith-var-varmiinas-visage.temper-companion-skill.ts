@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const zerithVarZerithVarVarmiinasVisage = {
   id: "019e6484-38b8-718b-be62-f6e2773e375d",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-varmiinas-visage",
   key: "zerith-var-varmiinas-visage",
   title: "Varmiina's Visage",

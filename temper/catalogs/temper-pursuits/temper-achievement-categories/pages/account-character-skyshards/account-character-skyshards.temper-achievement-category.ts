@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountCharacterSkyshards = {
   id: "01a06168-7246-700a-939b-9b598b83460e",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-character-skyshards",
   title: "Skyshards",
   category: "account",

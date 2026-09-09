@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDungeonsGeneral = {
   id: "01a06168-7248-7001-adbd-3b582484e0f2",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dungeons-general",
   title: "General",
   category: "account",

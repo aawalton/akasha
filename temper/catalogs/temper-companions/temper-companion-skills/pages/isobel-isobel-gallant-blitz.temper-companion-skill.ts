@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const isobelIsobelGallantBlitz = {
   id: "019e6484-3872-7a18-a4ac-c005928549a5",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "isobel-isobel-gallant-blitz",
   key: "isobel-gallant-blitz",
   title: "Gallant Blitz",

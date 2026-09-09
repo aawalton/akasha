@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const zerithVarZerithVarBladeOfTheCrossing = {
   id: "019e6484-38ae-78e1-bcea-00334a19c551",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "zerith-var-zerith-var-blade-of-the-crossing",
   key: "zerith-var-blade-of-the-crossing",
   title: "Blade of the Crossing",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedFlow = {
   id: "019e6484-3830-7a11-bb1e-ef64c85fc414",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-flow",
   key: "shared-flow",
   title: "Flow",

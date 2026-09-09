@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const companionMirri = {
   id: "01a05fce-c4a5-733d-86d5-193c1a785f99",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "companion-mirri",
   key: "companion-mirri",
   title: "Mirri",

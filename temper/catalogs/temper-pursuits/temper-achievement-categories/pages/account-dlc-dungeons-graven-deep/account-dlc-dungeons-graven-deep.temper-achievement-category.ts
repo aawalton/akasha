@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsGravenDeep = {
   id: "01a06168-7249-7014-a181-c071c8b4eaaa",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-graven-deep",
   title: "Graven Deep",
   category: "account",

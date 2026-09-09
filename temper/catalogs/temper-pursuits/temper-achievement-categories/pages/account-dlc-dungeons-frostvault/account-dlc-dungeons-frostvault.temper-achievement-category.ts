@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsFrostvault = {
   id: "01a06168-7249-7013-9116-4c7cb45abfcc",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-frostvault",
   title: "Frostvault",
   category: "account",

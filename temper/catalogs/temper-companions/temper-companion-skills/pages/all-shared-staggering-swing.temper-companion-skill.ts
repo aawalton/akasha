@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedStaggeringSwing = {
   id: "019e668d-c55b-7dbc-83c4-7074c38cf26a",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-staggering-swing",
   key: "shared-staggering-swing",
   title: "Staggering Swing",

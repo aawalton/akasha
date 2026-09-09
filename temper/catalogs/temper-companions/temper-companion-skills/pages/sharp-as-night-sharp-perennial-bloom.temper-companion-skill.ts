@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const sharpAsNightSharpPerennialBloom = {
   id: "019e6484-389a-7844-81b6-ab0e6c0b23e5",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "sharp-as-night-sharp-perennial-bloom",
   key: "sharp-perennial-bloom",
   title: "Perennial Bloom",

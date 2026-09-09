@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const sharpAsNightSharpPetalsOfTheHunter = {
   id: "019e6484-389b-7e6f-afeb-c65964fc717d",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "sharp-as-night-sharp-petals-of-the-hunter",
   key: "sharp-petals-of-the-hunter",
   title: "Petals of the Hunter",

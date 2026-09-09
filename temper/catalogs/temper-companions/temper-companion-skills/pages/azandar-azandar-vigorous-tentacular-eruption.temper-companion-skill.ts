@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const azandarAzandarVigorousTentacularEruption = {
   id: "019e6484-3843-7ef8-96c1-69fd47ca7dae",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "azandar-azandar-vigorous-tentacular-eruption",
   key: "azandar-vigorous-tentacular-eruption",
   title: "Vigorous Tentacular Eruption",

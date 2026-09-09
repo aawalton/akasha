@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const azandarAzandarShieldsOfErudition = {
   id: "019e6484-383d-73dd-b1a3-602400be1e6d",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "azandar-azandar-shields-of-erudition",
   key: "azandar-shields-of-erudition",
   title: "Shields of Erudition",

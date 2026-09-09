@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const guildMages = {
   id: "01a05fce-c4aa-73ec-b7dd-015aa470f0ad",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "guild-mages",
   key: "guild-mages",
   title: "Mages Guild",

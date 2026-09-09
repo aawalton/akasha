@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const armorMedium = {
   id: "01a05fce-c49d-71db-9336-0988f8347a1d",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "armor-medium",
   key: "armor-medium",
   title: "Medium Armor",

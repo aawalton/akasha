@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const companionMirriSoulThief = {
   id: "01a05fce-c4a4-7c3d-83ba-7afdb37c7fbb",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "companion-mirri-soul-thief",
   key: "companion-mirri-soul-thief",
   title: "Soul Thief",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const azandarAzandarFateOmensInspiration = {
   id: "019e6484-3838-7b6f-a908-a3e696d8a623",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "azandar-azandar-fate-omens-inspiration",
   key: "azandar-fate-omens-inspiration",
   title: "Fate Omen's Inspiration",

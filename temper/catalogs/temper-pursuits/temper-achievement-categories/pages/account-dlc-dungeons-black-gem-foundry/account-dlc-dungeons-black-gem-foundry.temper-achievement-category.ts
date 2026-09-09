@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsBlackGemFoundry = {
   id: "01a06168-7249-7008-957f-36bf4f6bdb5e",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-black-gem-foundry",
   title: "Black Gem Foundry",
   category: "account",

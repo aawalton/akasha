@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const antiquityLeadsMotifs = {
   id: "019db533-f381-7514-8ad7-fedbef9c1ee0",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "antiquity-leads-motifs",
   title: "Antiquity Leads Motifs",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

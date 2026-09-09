@@ -3,6 +3,7 @@ import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-ro
 export const damage = {
   id: "019e5d79-3e47-73af-91ef-f14c33c428c5",
   pageTypeSlug: "temper-rotation-breakdown-row",
+  type: "temper-rotation-breakdown-row",
   slug: "damage",
   title: "Damage",
   key: "damage",

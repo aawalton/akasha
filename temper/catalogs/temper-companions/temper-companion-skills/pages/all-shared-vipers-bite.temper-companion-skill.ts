@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedVipersBite = {
   id: "019e668d-c550-7a2f-b045-155ddce14385",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-vipers-bite",
   key: "shared-vipers-bite",
   title: "Viper's Bite",

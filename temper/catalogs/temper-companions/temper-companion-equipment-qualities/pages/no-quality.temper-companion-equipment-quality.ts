@@ -3,6 +3,7 @@ import type { TemperCompanionEquipmentQuality } from "../temper-companion-equipm
 export const noQuality = {
   id: "01a05fcd-ea6b-79a3-97c7-3589bcd355dc",
   pageTypeSlug: "temper-companion-equipment-quality",
+  type: "temper-companion-equipment-quality",
   slug: "no-quality",
   key: "no-quality",
   title: "No Quality",

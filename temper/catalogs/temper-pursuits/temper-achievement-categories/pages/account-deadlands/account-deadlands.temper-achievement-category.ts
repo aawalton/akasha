@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDeadlands = {
   id: "01a06168-7250-7000-b4aa-018c924d8bc6",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-deadlands",
   title: "Deadlands",
   category: "account",

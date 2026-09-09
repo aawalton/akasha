@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedBulwark = {
   id: "019e6484-3825-7700-83fd-b1b8fc5895da",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-bulwark",
   key: "shared-bulwark",
   title: "Bulwark",

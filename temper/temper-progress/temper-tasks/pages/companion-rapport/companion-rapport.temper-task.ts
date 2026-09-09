@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const companionRapport = {
   id: "019e6eb9-14ae-747b-a209-26f7966ab741",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "companion-rapport",
   title: "Companion Rapport",
   icon: "file-text",

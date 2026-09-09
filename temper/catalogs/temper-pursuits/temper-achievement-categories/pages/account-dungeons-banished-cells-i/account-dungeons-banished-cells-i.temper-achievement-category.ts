@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDungeonsBanishedCellsI = {
   id: "01a06168-7248-7003-b3ac-41695039d698",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dungeons-banished-cells-i",
   title: "Banished Cells I",
   category: "account",

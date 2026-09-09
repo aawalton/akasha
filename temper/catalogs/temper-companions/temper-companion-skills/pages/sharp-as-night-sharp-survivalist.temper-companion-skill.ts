@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const sharpAsNightSharpSurvivalist = {
   id: "019e6484-389f-7385-af6f-a9666f9ad128",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "sharp-as-night-sharp-survivalist",
   key: "sharp-survivalist",
   title: "Survivalist",

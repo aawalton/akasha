@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const companionBastianDraconicArmor = {
   id: "01a05fce-c49f-7961-bdfe-4e9181c99a7e",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "companion-bastian-draconic-armor",
   key: "companion-bastian-draconic-armor",
   title: "Draconic Armor",

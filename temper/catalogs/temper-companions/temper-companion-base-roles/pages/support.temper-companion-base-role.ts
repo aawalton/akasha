@@ -3,6 +3,7 @@ import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page
 export const support = {
   id: "01a05fce-c49b-727b-849d-73e52fac2adc",
   pageTypeSlug: "temper-companion-base-role",
+  type: "temper-companion-base-role",
   slug: "support",
   key: "support",
   title: "Support",

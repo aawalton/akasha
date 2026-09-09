@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const isobelIsobelBaneslayer = {
   id: "019e6484-386a-748d-bf08-f1ce6e4a560d",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "isobel-isobel-baneslayer",
   key: "isobel-baneslayer",
   title: "Baneslayer",

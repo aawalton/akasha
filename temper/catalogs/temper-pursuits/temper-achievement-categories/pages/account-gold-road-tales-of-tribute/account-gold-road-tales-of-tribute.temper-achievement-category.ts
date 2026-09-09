@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountGoldRoadTalesOfTribute = {
   id: "01a06168-724d-7012-8377-6f1ba87139ad",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-gold-road-tales-of-tribute",
   title: "Tales of Tribute",
   category: "account",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedElementalBarricade = {
   id: "019e668d-c553-7e7c-819d-0fca148827c8",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-elemental-barricade",
   key: "shared-elemental-barricade",
   title: "Elemental Barricade",

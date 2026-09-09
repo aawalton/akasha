@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedSavageInstinct = {
   id: "019e6688-86f4-75d4-87ab-23740d103bb9",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-savage-instinct",
   key: "shared-savage-instinct",
   title: "Savage Instinct",

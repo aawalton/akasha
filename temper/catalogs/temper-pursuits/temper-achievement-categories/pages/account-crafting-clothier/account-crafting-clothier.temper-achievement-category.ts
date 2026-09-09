@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountCraftingClothier = {
   id: "01a06168-7247-700c-9f89-173a1c710ad5",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-crafting-clothier",
   title: "Clothier",
   category: "account",

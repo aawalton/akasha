@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const lorebooks = {
   id: "019e2215-efc0-78bd-8676-b89e52598dd4",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "lorebooks",
   title: "Lorebooks",
   icon: "file-text",

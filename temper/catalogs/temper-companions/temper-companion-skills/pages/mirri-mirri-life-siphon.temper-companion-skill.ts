@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const mirriMirriLifeSiphon = {
   id: "019e6484-3885-7f99-a15f-f9405b4b6a72",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "mirri-mirri-life-siphon",
   key: "mirri-life-siphon",
   title: "Life Siphon",

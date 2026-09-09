@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedRejuvenation = {
   id: "019e668d-c55a-7617-a74d-90aee967042b",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-rejuvenation",
   key: "shared-rejuvenation",
   title: "Rejuvenation",

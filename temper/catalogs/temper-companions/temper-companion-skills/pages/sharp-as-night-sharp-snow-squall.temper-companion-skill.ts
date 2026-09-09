@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const sharpAsNightSharpSnowSquall = {
   id: "019e6484-389e-71fc-b216-44f4b4624626",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "sharp-as-night-sharp-snow-squall",
   key: "sharp-snow-squall",
   title: "Snow Squall",

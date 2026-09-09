@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountArenasBlackrosePrison = {
   id: "01a06168-724b-700a-ae92-6b05cb38eab0",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-arenas-blackrose-prison",
   title: "Blackrose Prison",
   category: "account",

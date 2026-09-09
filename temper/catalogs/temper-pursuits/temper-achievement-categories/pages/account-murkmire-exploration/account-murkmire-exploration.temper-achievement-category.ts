@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountMurkmireExploration = {
   id: "01a06168-7250-7013-9e82-c648945e7faa",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-murkmire-exploration",
   title: "Exploration",
   category: "account",

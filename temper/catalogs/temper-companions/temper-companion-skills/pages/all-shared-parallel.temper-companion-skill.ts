@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedParallel = {
   id: "019e6688-86f1-78d9-8364-4fb564175667",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-parallel",
   key: "shared-parallel",
   title: "Parallel",

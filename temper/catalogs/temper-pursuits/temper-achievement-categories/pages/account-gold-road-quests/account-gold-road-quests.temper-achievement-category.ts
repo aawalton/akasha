@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountGoldRoadQuests = {
   id: "01a06168-724d-7016-b1c5-2a5e4b94f8a7",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-gold-road-quests",
   title: "Quests",
   category: "account",

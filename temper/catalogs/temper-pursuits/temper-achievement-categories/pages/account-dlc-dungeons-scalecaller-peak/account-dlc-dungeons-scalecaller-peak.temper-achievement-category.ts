@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsScalecallerPeak = {
   id: "01a06168-724a-7009-b5d0-32597daffc7f",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-scalecaller-peak",
   title: "Scalecaller Peak",
   category: "account",

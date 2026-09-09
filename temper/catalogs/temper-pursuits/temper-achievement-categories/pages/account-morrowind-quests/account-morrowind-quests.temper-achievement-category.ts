@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountMorrowindQuests = {
   id: "01a06168-724f-7011-bf60-0dc439518048",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-morrowind-quests",
   title: "Quests",
   category: "account",

@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountArenasDragonstarArena = {
   id: "01a06168-724b-700b-9abc-291da6090401",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-arenas-dragonstar-arena",
   title: "Dragonstar Arena",
   category: "account",

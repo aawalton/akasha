@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedArcaneNova = {
   id: "019e668d-c551-7b24-b060-e470d31135a9",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-arcane-nova",
   key: "shared-arcane-nova",
   title: "Arcane Nova",

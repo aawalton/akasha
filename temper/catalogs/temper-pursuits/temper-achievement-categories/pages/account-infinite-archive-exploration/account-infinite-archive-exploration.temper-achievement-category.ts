@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountInfiniteArchiveExploration = {
   id: "01a06168-724c-7013-97c1-ad1b0e9956b7",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-infinite-archive-exploration",
   title: "Exploration",
   category: "account",

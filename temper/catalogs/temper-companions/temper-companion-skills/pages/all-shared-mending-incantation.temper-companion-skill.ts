@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const allSharedMendingIncantation = {
   id: "019e668d-c558-7ef5-9029-06c6a047be67",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "all-shared-mending-incantation",
   key: "shared-mending-incantation",
   title: "Mending Incantation",

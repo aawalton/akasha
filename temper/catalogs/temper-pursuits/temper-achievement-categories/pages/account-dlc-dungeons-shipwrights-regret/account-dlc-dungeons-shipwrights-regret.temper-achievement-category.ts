@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountDlcDungeonsShipwrightsRegret = {
   id: "01a06168-724a-700b-87f6-88a6541d6bad",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-dlc-dungeons-shipwrights-regret",
   title: "Shipwright's Regret",
   category: "account",

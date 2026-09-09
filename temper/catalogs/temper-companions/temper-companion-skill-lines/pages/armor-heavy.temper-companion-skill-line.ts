@@ -3,6 +3,7 @@ import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.pa
 export const armorHeavy = {
   id: "01a05fce-c49c-7122-920d-623baf1cd369",
   pageTypeSlug: "temper-companion-skill-line",
+  type: "temper-companion-skill-line",
   slug: "armor-heavy",
   key: "armor-heavy",
   title: "Heavy Armor",

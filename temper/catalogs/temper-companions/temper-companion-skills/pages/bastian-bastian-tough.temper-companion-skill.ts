@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const bastianBastianTough = {
   id: "019e6484-3854-7de8-b88a-9a80cc6ffa59",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "bastian-bastian-tough",
   key: "bastian-tough",
   title: "Tough",

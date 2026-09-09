@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountHolidayEventsNewLifeFestival = {
   id: "01a06168-724d-7007-bb98-5fa802714fe3",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-holiday-events-new-life-festival",
   title: "New Life Festival",
   category: "account",

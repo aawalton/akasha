@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountGoldRoadMirrormoorMosaics = {
   id: "01a06168-724d-7017-90c1-e5afc327af31",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-gold-road-mirrormoor-mosaics",
   title: "Mirrormoor Mosaics",
   category: "account",

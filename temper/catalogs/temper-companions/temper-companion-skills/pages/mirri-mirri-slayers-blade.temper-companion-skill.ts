@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const mirriMirriSlayersBlade = {
   id: "019e6484-388c-785e-bf0a-bc50bb7c8b92",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "mirri-mirri-slayers-blade",
   key: "mirri-slayers-blade",
   title: "Slayer's Blade",

@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const emberEmberQuickFix = {
   id: "019e6484-385e-7e59-ad59-ee3e62563dae",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "ember-ember-quick-fix",
   key: "ember-quick-fix",
   title: "Quick Fix",

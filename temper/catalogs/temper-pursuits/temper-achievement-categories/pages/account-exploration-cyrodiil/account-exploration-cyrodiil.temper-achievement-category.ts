@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountExplorationCyrodiil = {
   id: "01a06168-724b-7015-95ef-f486d7256ce2",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-exploration-cyrodiil",
   title: "Cyrodiil",
   category: "account",

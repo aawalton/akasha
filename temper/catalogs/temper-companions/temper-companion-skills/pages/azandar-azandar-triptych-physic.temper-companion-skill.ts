@@ -3,6 +3,7 @@ import type { TemperCompanionSkill } from "../temper-companion-skill.page-type.t
 export const azandarAzandarTriptychPhysic = {
   id: "019e6484-3842-79f2-9ad8-f809263c772e",
   pageTypeSlug: "temper-companion-skill",
+  type: "temper-companion-skill",
   slug: "azandar-azandar-triptych-physic",
   key: "azandar-triptych-physic",
   title: "Triptych Physic",

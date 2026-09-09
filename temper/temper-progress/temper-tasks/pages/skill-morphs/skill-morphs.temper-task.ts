@@ -3,6 +3,7 @@ import type { TemperTask } from "../../temper-task.page-type.ts"
 export const skillMorphs = {
   id: "019db533-f381-756b-b84a-3e607b6d82ee",
   pageTypeSlug: "temper-task",
+  type: "temper-task",
   slug: "skill-morphs",
   title: "Skill Morphs",
   displayOrder: 0,
