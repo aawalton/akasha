@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type Franchise = CollectionExternal & {
-  title: Title
-}
 
 export const franchise = {
   id: "01a06599-ee09-7001-9283-02195311fb0e",
@@ -25,4 +19,5 @@ export const franchise = {
       statement: "A franchise the provider gives no id to leaves the id unstated.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { Franchise } from "../franchise.page-type.ts"
+import type { Franchise } from "../franchise.page-type.types.ts"
 
 export const swordArtOnline = {
   id: "019ea442-6507-7cad-9c65-3c053f1ee123",
