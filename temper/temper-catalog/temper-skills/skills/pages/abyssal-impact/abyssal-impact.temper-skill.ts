@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const abyssalImpact = {
   id: "019e6f53-9e87-7a50-a72d-59cc5b209b3d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "abyssal-impact",
   title: "Abyssal Impact",
   key: "abyssal-impact",

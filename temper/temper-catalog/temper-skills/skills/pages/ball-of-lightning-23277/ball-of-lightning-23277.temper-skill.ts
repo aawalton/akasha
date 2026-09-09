@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const ballOfLightning23277 = {
   id: "019e6f53-9ee5-72e3-aef8-f0fd730185b5",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ball-of-lightning-23277",
   title: "Ball of Lightning",
   key: "ball-of-lightning-23277",

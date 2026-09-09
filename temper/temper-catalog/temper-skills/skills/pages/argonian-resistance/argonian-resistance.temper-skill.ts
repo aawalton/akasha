@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const argonianResistance = {
   id: "019e624a-12be-716e-bbbd-b87a0f0f6e92",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "argonian-resistance",
   title: "Argonian Resistance",
   key: "argonian-resistance",

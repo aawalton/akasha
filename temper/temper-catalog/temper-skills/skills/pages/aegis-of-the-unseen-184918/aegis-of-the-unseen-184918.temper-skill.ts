@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const aegisOfTheUnseen184918 = {
   id: "019e6f53-9e9c-7ccd-84b5-dabd739a55cc",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "aegis-of-the-unseen-184918",
   title: "Aegis of the Unseen",
   key: "aegis-of-the-unseen-184918",

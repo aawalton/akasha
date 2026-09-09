@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const arcticWind = {
   id: "019e6f53-9ebe-720b-a89f-e119635af20d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "arctic-wind",
   title: "Arctic Wind",
   key: "arctic-wind",

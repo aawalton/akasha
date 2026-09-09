@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const redistributor = {
   id: "019e668e-9a5e-7f24-beba-944d62bfc8b4",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "redistributor",
   title: "Redistributor",
   key: "redistributor",

@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const theJuggernaut = {
   id: "019e66ec-796e-7dfb-b927-e234c3eae100",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "the-juggernaut",
   title: "The Juggernaut",
   key: "the-juggernaut",

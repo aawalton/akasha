@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const balancedWarrior = {
   id: "019e6245-a5f1-7d6c-8b13-22bb9774ebb9",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "balanced-warrior",
   title: "Balanced Warrior",
   key: "balanced-warrior",

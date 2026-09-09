@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const rampagingSlash = {
   id: "019e6484-5fd2-78c7-84d7-27bb6ca4c102",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "rampaging-slash",
   title: "Rampaging Slash",
   key: "rampaging-slash",

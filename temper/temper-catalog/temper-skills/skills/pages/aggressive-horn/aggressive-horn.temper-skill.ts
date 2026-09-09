@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const aggressiveHorn = {
   id: "019e6251-4c81-7b8c-890f-e518eed8a0ab",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "aggressive-horn",
   title: "Aggressive Horn",
   key: "aggressive-horn",

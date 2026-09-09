@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const vampireLord = {
   id: "019e66e7-6aa4-7ad9-b9b9-987cc1a153f5",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "vampire-lord",
   title: "Vampire Lord",
   key: "vampire-lord",

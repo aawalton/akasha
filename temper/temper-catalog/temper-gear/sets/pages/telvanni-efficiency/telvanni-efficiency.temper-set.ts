@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const telvanniEfficiency = {
   id: "019e668e-9a6a-7a60-bde8-a7289b9c8473",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "telvanni-efficiency",
   title: "Telvanni Efficiency",
   key: "telvanni-efficiency",

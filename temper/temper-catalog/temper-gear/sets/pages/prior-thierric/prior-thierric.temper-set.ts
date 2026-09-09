@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const priorThierric = {
   id: "019e6484-6010-7f50-8891-508be8230ba2",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "prior-thierric",
   title: "Prior Thierric",
   key: "prior-thierric",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const amplitude = {
   id: "019e6245-a5eb-7037-a041-86394803725d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "amplitude",
   title: "Amplitude",
   key: "amplitude",

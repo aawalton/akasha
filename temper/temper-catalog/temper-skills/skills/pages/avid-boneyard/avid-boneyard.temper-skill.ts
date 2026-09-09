@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const avidBoneyard = {
   id: "019e6245-a5f0-7cf4-9e5d-a75ade5014ed",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "avid-boneyard",
   title: "Avid Boneyard",
   key: "avid-boneyard",

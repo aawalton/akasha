@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const peaceAndSerenity = {
   id: "019e66ec-7be1-7705-a3e9-95204cfb9811",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "peace-and-serenity",
   title: "Peace and Serenity",
   key: "peace-and-serenity",

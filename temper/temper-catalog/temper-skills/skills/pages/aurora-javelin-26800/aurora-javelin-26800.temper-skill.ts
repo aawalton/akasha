@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const auroraJavelin26800 = {
   id: "019e6f53-9ed6-79d2-b463-2c54de4d876a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "aurora-javelin-26800",
   title: "Aurora Javelin",
   key: "aurora-javelin-26800",

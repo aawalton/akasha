@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const monolithOfStorms = {
   id: "019e6484-5fe3-7102-acad-95bab72dbb1c",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "monolith-of-storms",
   title: "Monolith of Storms",
   key: "monolith-of-storms",

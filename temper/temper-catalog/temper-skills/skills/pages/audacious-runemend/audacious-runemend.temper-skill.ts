@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const audaciousRunemend = {
   id: "019e6245-a5ee-73c9-ac62-27b2694a45dd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "audacious-runemend",
   title: "Audacious Runemend",
   key: "audacious-runemend",

@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const preciseRegeneration = {
   id: "019e6484-5fcf-7fee-acbe-243d8e91c637",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "precise-regeneration",
   title: "Precise Regeneration",
   key: "precise-regeneration",

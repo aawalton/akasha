@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const transformativeHope = {
   id: "019e66ec-7eb0-750d-9172-cbb78f6c7006",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "transformative-hope",
   title: "Transformative Hope",
   key: "transformative-hope",

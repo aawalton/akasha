@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const nightflame = {
   id: "019e6484-600d-7087-84f6-b5f4d5163da7",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "nightflame",
   title: "Nightflame",
   key: "nightflame",

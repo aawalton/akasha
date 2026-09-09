@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const yandirsMight = {
   id: "019e66ec-7f49-7f1e-a2b8-561d99efd23c",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "yandirs-might",
   title: "Yandir's Might",
   key: "yandirs-might",

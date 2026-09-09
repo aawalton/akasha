@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const acidSpray = {
   id: "019e6226-00ce-7fe3-90bd-0e3d18ef022b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "acid-spray",
   title: "Acid Spray",
   key: "acid-spray",

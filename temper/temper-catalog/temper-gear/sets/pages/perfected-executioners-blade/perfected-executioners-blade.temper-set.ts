@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const perfectedExecutionersBlade = {
   id: "019e6484-5fbc-76be-9478-521e7cb7b8ce",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "perfected-executioners-blade",
   title: "Perfected Executioner's Blade",
   key: "perfected-executioners-blade",

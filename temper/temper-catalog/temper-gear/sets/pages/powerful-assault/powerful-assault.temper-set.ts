@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const powerfulAssault = {
   id: "019e66ec-7877-7535-85fb-52bd0274a2be",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "powerful-assault",
   title: "Powerful Assault",
   key: "powerful-assault",

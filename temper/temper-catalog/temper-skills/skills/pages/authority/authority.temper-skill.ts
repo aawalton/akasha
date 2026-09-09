@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const authority = {
   id: "019e6251-4c89-70e9-880f-8140153f0624",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "authority",
   title: "Authority",
   key: "authority",

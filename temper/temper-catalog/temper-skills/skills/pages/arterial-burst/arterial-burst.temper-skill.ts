@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const arterialBurst = {
   id: "019e6251-4c86-7017-a0f0-8c3eb1159bbc",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "arterial-burst",
   title: "Arterial Burst",
   key: "arterial-burst",

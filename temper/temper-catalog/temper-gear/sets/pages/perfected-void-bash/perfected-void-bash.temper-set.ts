@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const perfectedVoidBash = {
   id: "019e6484-5fca-7b3d-9513-b27394ffcf96",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "perfected-void-bash",
   title: "Perfected Void Bash",
   key: "perfected-void-bash",

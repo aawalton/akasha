@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const wardOfCyrodiil = {
   id: "019e66ec-79de-7618-98ff-fb21dc76f701",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "ward-of-cyrodiil",
   title: "Ward of Cyrodiil",
   key: "ward-of-cyrodiil",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const agonyTotem118404 = {
   id: "019e6f53-9ea4-78f5-8b85-79ba80ad432b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "agony-totem-118404",
   title: "Agony Totem",
   key: "agony-totem-118404",
