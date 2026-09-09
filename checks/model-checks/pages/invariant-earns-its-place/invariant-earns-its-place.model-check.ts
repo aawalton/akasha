@@ -5,7 +5,7 @@ export const invariantEarnsItsPlace = {
   pageTypeSlug: "model-check",
   slug: "invariant-earns-its-place",
   definition: "whether a departure a change writes earns its place",
-  modelTestSlugs: ["model-test/restatement"],
+  modelTests: ["model-test/restatement"],
   patchRuns: 0,
   auditRuns: 0,
   invariants: [

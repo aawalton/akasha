@@ -1,11 +1,11 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AuditRuns } from "./properties/audit-runs.number-property.ts"
-import type { ModelTestSlugs } from "./properties/model-test-slugs.relation-property.ts"
+import type { ModelTests } from "./properties/model-tests.relation-property.ts"
 import type { PatchRuns } from "./properties/patch-runs.number-property.ts"
 
 export type ModelCheck = Domain & {
-  modelTestSlugs: ModelTestSlugs
+  modelTests: ModelTests
   patchRuns: PatchRuns
   auditRuns: AuditRuns
 }
@@ -20,12 +20,12 @@ export const modelCheck = {
     "model-check/invariant-earns-its-place",
     "number-property/audit-runs",
     "number-property/patch-runs",
-    "relation-property/model-test-slugs",
+    "relation-property/model-tests",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
     {
-      pagePropertySlug: "relation-property/model-test-slugs",
+      pagePropertySlug: "relation-property/model-tests",
       required: true,
       many: true,
       maxCount: null,

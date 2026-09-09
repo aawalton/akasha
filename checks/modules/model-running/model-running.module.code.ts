@@ -219,7 +219,7 @@ export function modelChecksIn(root: string): readonly Judgement[] {
     if (slug === undefined) continue
     const stated = valueAt(join(root, path), slug)
     if (stated === null) throw new Error(`${path} is a model check, and answers to no value`)
-    const named = slugsIn(stated, "modelTestSlugs")
+    const named = slugsIn(stated, "modelTests")
     if (named === null) throw new Error(`${path} is a model check, and names no test`)
     const onPatch = countIn(stated, "patchRuns")
     const onAudit = countIn(stated, "auditRuns")
