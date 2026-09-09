@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCleanDraftOnADirectoryRemovalIsEvidenceOfNothing = {
   id: "01a06433-8ace-7bd8-8800-f49b00510e7a",

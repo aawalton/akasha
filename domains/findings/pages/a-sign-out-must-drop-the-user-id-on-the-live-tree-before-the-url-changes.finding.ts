@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aSignOutMustDropTheUserIdOnTheLiveTreeBeforeTheUrlChanges = {
   id: "01a0822f-15b8-7147-922b-8d2f40f70892",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCheckedLandingCatchesImportEdgesAndPageRelationsAndNothingElse = {
   id: "01a068ac-b09e-7fb7-87e4-b1b196a33d0d",

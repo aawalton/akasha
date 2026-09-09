@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const mintMobileTrustReset = {
   id: "01a06555-9f3e-748f-adc5-1eceb2baf3f3",

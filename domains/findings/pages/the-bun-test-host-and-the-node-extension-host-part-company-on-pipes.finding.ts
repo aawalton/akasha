@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theBunTestHostAndTheNodeExtensionHostPartCompanyOnPipes = {
   id: "01a0680d-8b90-7000-8f5f-14b7b8f6596f",

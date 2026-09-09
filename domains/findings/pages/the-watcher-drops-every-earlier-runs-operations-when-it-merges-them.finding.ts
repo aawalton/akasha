@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWatcherDropsEveryEarlierRunsOperationsWhenItMergesThem = {
   id: "01a063c4-d269-7560-b66d-486a70656391",

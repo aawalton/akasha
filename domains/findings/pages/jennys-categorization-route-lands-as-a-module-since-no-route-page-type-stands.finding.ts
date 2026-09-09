@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const jennysCategorizationRouteLandsAsAModuleSinceNoRoutePageTypeStands = {
   id: "01a05bdc-98ff-7c1d-b142-ecbef0776099",

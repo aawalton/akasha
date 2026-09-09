@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anIgnoredSidecarOutlivesItsPageAndTheRemovalSaysItIsNotThere = {
   id: "01a0644a-d9a5-7000-a30b-957ee209db95",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTstlPackageIsALocallyMaintainedForkNotAVendoredOne = {
   id: "01a06798-4d53-7004-b27c-434f9652728f",

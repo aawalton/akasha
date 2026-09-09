@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const threatCategoriesUnnamed = {
   id: "01a06555-9f3f-706e-8ccb-40112d3f89f9",

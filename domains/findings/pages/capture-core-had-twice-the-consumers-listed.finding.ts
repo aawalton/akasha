@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const captureCoreHadTwiceTheConsumersListed = {
   id: "01a0605d-eb98-76fb-a851-e2b4cc5e8667",

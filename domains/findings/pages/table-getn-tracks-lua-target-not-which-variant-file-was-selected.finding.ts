@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const tableGetnTracksLuaTargetNotWhichVariantFileWasSelected = {
   id: "01a06798-4d53-7000-ad60-81bb8f86c4bc",

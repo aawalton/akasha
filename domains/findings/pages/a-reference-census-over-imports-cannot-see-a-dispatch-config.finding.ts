@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReferenceCensusOverImportsCannotSeeADispatchConfig = {
   id: "01a06294-7b41-7c08-ba5e-3f1d9a7e2c60",

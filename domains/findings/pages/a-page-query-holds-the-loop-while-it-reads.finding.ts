@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageQueryHoldsTheLoopWhileItReads = {
   id: "01a05ab8-fce9-7775-97fa-12c758702008",

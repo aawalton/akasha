@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const correctingHowACheckReadsIsNotChangingWhatItRefuses = {
   id: "01a063bd-a4ba-7303-877b-a2aa48cb5e3c",

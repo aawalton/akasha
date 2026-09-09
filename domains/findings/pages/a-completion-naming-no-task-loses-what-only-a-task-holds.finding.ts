@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCompletionNamingNoTaskLosesWhatOnlyATaskHolds = {
   id: "01a06097-5064-7bac-b79e-765b32668b51",

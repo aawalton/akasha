@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRenamedModuleLeavesItsInstalledUnitOnTheOldPath = {
   id: "01a05e50-ef80-7355-a5e8-5c4165e3cc3e",

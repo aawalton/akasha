@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const threeRulesTheInitiativeStatesWereRefusedByNoHook = {
   id: "01a06906-100c-7839-9824-49ff84b70ad5",

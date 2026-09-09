@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const mockModuleLeaksIntoEveryLaterTestFile = {
   id: "01a05bbe-127b-7000-b446-759b78e1b2f7",

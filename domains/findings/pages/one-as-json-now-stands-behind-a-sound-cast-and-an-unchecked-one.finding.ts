@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneAsJsonNowStandsBehindASoundCastAndAnUncheckedOne = {
   id: "01a05ccc-36f0-7adc-a935-fb95531828b9",

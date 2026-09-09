@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theQueryLinkDiesWhileEveryQueryPageItNamesIsThere = {
   id: "01a0641a-d59a-767f-b7f6-88ef4bbba035",

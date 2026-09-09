@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theNotifierAndAkashaHoldTwoDisjointDeviceTokenStores = {
   id: "01a060a0-1c52-7627-8206-34821df55117",

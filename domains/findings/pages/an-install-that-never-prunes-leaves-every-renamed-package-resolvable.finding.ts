@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anInstallThatNeverPrunesLeavesEveryRenamedPackageResolvable = {
   id: "01a07ce8-4293-77af-9c39-a58cc6557426",

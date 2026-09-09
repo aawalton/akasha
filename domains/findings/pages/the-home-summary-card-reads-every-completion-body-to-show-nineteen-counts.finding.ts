@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theHomeSummaryCardReadsEveryCompletionBodyToShowNineteenCounts = {
   id: "01a076d4-25ec-75a9-a5dd-027610a91df4",

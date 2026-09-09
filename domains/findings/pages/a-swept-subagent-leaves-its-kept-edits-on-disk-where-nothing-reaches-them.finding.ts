@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aSweptSubagentLeavesItsKeptEditsOnDiskWhereNothingReachesThem = {
   id: "01a087b7-92f3-7f08-a322-4e6b60b67cbe",

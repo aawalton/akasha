@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aNameRuleCannotBeWrittenAsAFormulaWhileStemmingStandsOutsideTheLanguage = {
   id: "01a06860-a0ef-7f25-93d7-e6e5da8a4cd7",

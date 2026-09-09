@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const federalEscalationSignalsUndefined = {
   id: "01a06555-9f3e-768a-b74c-282f02f8e83b",

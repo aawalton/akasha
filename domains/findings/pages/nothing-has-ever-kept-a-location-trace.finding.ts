@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingHasEverKeptALocationTrace = {
   id: "01a060c1-6704-7000-b68c-9da42e6042d5",

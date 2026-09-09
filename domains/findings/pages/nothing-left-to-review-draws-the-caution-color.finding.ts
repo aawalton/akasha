@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingLeftToReviewDrawsTheCautionColor = {
   id: "01a05b7e-984e-7bdb-9caa-b174b30cefa0",

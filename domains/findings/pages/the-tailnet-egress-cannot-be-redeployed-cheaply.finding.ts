@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTailnetEgressCannotBeRedeployedCheaply = {
   id: "01a05abf-bf21-7bd3-93e0-e09306a52a3b",

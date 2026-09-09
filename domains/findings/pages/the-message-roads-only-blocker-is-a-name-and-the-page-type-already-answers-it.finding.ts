@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theMessageRoadsOnlyBlockerIsANameAndThePageTypeAlreadyAnswersIt = {
   id: "01a069b5-5020-70ad-8d90-0dadaef2c49a",

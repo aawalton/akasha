@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDeepLinkOntoAPageTypeWithNoFilesFailsOnlyOnTheTap = {
   id: "01a06926-5c9f-7158-b7a9-1a1ca87ba06f",

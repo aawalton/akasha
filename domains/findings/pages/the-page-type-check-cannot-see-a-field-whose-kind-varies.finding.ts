@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const thePageTypeCheckCannotSeeAFieldWhoseKindVaries = {
   id: "01a061b0-5cba-71a3-8a73-fadac21564fe",

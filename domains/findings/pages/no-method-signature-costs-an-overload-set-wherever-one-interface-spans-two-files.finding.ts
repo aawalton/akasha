@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noMethodSignatureCostsAnOverloadSetWhereverOneInterfaceSpansTwoFiles = {
   id: "01a060cc-6ac2-705f-bf46-babe6e2cc59f",

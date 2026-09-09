@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const routeTypesFollowTheAppDirectoryRatherThanTheRouteFile = {
   id: "01a05cdc-7ea1-72eb-92b7-67e65a2e543f",

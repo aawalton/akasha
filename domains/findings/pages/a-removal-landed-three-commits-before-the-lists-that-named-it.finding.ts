@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRemovalLandedThreeCommitsBeforeTheListsThatNamedIt = {
   id: "01a06224-a9c9-7bb9-82e0-44f1d426aa7c",

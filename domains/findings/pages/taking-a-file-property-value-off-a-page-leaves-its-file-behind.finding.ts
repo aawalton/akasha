@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const takingAFilePropertyValueOffAPageLeavesItsFileBehind = {
   id: "01a08775-2220-76c0-a026-1efb9b2e4895",

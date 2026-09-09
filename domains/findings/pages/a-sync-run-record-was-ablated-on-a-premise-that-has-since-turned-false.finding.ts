@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aSyncRunRecordWasAblatedOnAPremiseThatHasSinceTurnedFalse = {
   id: "01a0687b-de90-7001-a005-4c7dd05a8ea1",

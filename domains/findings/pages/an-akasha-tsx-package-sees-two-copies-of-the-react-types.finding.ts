@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anAkashaTsxPackageSeesTwoCopiesOfTheReactTypes = {
   id: "01a05b91-37b0-7438-bdce-9f5aa9568a05",

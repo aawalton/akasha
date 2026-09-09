@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const resolvingAMediaPageByIdRereadsEveryChapterFile = {
   id: "01a05cf4-03d5-76f2-b8eb-e70319d85a54",

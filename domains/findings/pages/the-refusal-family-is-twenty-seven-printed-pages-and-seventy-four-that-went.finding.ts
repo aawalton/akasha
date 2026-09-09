@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRefusalFamilyIsTwentySevenPrintedPagesAndSeventyFourThatWent = {
   id: "01a06622-7f10-7c4e-9a3b-6d05e1477b20",

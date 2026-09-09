@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const thePushGuardRefusesEveryPushAndTheGpAliasWasNeverInItsReach = {
   id: "01a068ff-e61a-7e15-bf0f-d0a22f123bc8",

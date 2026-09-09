@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aModuleSlugIsTheOnlyWayIntoItsCode = {
   id: "01a0607c-474e-7189-a859-47e13764e206",

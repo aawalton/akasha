@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theSpotifyClientsWholeTestSuiteWentInACommitAboutTaskPages = {
   id: "01a06275-4a8f-7001-8ac3-4c7a4dd150bd",

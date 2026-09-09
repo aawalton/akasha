@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageQuerySlugWithNoPageTypeIsUsuallyReshapedNotGone = {
   id: "01a06a3c-7100-7000-9f2b-4d1c8e37a501",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fourExerciseAccessCodeSidecarsStandWithNoModulePage = {
   id: "01a06860-bf1f-7201-b9e1-5f59c232de83",

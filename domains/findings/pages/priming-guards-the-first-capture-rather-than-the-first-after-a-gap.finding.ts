@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const primingGuardsTheFirstCaptureRatherThanTheFirstAfterAGap = {
   id: "01a063cd-1318-796f-98f0-77f3b1df83a2",

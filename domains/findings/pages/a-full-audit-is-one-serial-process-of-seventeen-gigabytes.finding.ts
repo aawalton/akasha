@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aFullAuditIsOneSerialProcessOfSeventeenGigabytes = {
   id: "01a0673e-9777-75ff-acd1-26c75fb78bfc",

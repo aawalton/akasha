@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const substackGradeBehaviourOnly = {
   id: "01a06555-9f3e-7f8b-b64f-c39ee0fc48a7",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theHudGlobalConflictIsTheAddOnLocalCopyRatherThanTheCanonicalOne = {
   id: "01a063b0-9dac-7a9c-9bf3-f90c3f49ce0f",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theEsoTypingsGeneratorWritesWhereNothingReads = {
   id: "01a081a9-5ff3-7673-9322-73112d9446c5",

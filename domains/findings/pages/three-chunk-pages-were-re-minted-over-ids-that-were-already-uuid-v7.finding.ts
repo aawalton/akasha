@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const threeChunkPagesWereReMintedOverIdsThatWereAlreadyUuidV7 = {
   id: "01a06763-14c8-72e7-8e80-95cbfa10ceff",

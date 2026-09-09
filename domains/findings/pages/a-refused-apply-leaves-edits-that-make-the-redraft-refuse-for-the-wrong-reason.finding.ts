@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRefusedApplyLeavesEditsThatMakeTheRedraftRefuseForTheWrongReason = {
   id: "01a08353-7557-71c8-8ed0-da6d9e6d6853",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theAuditBackstopsEveryUncheckedLandingAndRunsOneCheckOfFiftyFour = {
   id: "01a08797-0acb-7000-aab7-fd9b0c692a31",

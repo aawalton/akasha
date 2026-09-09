@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingChecksThatAServiceReachesItsOwnPageBySlug = {
   id: "01a076d0-6388-76ee-a590-c8dc854e251d",

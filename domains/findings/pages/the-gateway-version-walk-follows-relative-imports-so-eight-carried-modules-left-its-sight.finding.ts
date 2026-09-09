@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theGatewayVersionWalkFollowsRelativeImportsSoEightCarriedModulesLeftItsSight = {
   id: "01a0695a-9ecc-7bee-acb5-748712c9d07a",

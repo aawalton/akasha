@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReminderScheduleIsJudgedWhenItIsSentRatherThanWhenItIsWritten = {
   id: "01a05f71-8d3b-7000-8ec1-ace3d075aedf",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWriteGateNamesReadPathsThatAreNotThere = {
   id: "01a06302-83de-78ab-aaad-d2fb56d76965",

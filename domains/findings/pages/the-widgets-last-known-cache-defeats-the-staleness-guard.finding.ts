@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWidgetsLastKnownCacheDefeatsTheStalenessGuard = {
   id: "01a05b7e-984e-7e12-96b8-73d2d9a3127f",

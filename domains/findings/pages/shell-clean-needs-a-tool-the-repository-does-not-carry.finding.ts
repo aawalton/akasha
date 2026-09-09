@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const shellCleanNeedsAToolTheRepositoryDoesNotCarry = {
   id: "01a07c9d-8804-7c13-87d4-6381de9d2251",

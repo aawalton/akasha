@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const envelopeUnassessed = {
   id: "01a06555-9f3d-7608-a08d-7f239ca9d12b",

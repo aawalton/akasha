@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const usedEvCriteriaUnlisted = {
   id: "01a06555-9f3f-7c1c-9393-33cae2b79328",

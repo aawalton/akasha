@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const abandonedIslandArchitectureStands = {
   id: "01a06555-9f3d-7ff3-840d-0b6853da6726",

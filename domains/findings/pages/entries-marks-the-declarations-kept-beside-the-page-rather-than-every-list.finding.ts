@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const entriesMarksTheDeclarationsKeptBesideThePageRatherThanEveryList = {
   id: "01a05f81-c595-7001-9953-21eae3b70cd9",

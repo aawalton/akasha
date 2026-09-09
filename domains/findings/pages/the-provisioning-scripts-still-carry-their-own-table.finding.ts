@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theProvisioningScriptsStillCarryTheirOwnTable = {
   id: "01a06866-fd54-7c00-ba6c-111c5fd11895",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWideBadgeVariantUnionIsReadByOneFileAndItsEightMemberSubsetByTen = {
   id: "01a07323-840b-7b3f-90da-9a056795a68d",

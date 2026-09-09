@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theDeployCommandCannotBeLoaded = {
   id: "01a05ac5-35e4-7adb-a3f7-7c84f5b4bc5d",

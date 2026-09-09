@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anInstallInOneLaneFailsATestFileInAnother = {
   id: "01a05ba7-1c40-7000-b2e8-5d1f3a90c7be",

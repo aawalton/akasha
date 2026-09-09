@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theReadoutCatalogCostIsTheListingNotTheFrontmatterParse = {
   id: "01a0613b-d7c2-720f-a9e4-18b0b62a6166",

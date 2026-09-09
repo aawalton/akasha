@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anAblationSearchThatReadsImportsMissesADynamicOne = {
   id: "01a0685d-4b35-701a-8ebd-2164b14035a7",

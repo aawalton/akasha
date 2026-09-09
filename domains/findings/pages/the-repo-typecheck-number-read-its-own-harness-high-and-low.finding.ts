@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRepoTypecheckNumberReadItsOwnHarnessHighAndLow = {
   id: "01a05ff7-cf13-7000-8880-aeb418e56e61",

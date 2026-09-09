@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const locationTraceMayBelongAsDayRows = {
   id: "01a0683c-2a55-7412-8b3f-833d11e93320",

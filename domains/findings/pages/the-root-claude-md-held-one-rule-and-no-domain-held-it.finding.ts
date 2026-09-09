@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRootClaudeMdHeldOneRuleAndNoDomainHeldIt = {
   id: "01a06551-09dd-7bff-bc49-5c0078ad2496",

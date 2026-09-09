@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCheckScratchWorldCannotBeSettled = {
   id: "01a08276-3c87-746a-bbe3-8ffc21c0f7ab",

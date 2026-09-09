@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const thePageTypeRegistryReadsMarkdownAlone = {
   id: "01a05ce0-2436-7001-9201-bece3500f208",

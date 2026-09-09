@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theKebabWhereKeysOutsideAkashaNameMarkdownPagesRatherThanTheWrongCase = {
   id: "01a05b4b-4db6-7830-9102-7286b93f461e",

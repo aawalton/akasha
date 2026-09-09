@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noClusterServiceAttachmentUnderAkashaIsClaimedByItsPage = {
   id: "01a06875-2e58-7f74-95ab-cbb255af5191",

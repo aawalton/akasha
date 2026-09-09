@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nonHabituationRerouteAndBacklinkOwed = {
   id: "01a06555-9f3e-7a3f-8d99-4c62a488c2cb",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theUtilsAndLuaAstSplitLandedWholeInTwoNewModules = {
   id: "01a06798-4d53-7003-97b5-1d133729238a",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageCannotLandInTheSameCommitAsItsOwnPageType = {
   id: "01a05fc7-f922-7efb-abb1-26f1072e3dd3",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const temperSNestedCommandNamesFlattenedIntoOneSlug = {
   id: "01a0603f-86cf-7e54-862b-8c7522e98b90",

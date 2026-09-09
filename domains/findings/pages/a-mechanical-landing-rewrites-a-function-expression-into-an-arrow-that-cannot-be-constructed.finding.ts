@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMechanicalLandingRewritesAFunctionExpressionIntoAnArrowThatCannotBeConstructed = {
   id: "01a06959-659e-7e89-9a8b-bce7deaa69d0",

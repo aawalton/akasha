@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const chessPuzzlesSolvedHasNoPagesToAskOf = {
   id: "01a06582-bd62-7e66-a5f0-c6b5a55b8487",

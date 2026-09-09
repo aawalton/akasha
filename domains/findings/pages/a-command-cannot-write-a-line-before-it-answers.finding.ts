@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCommandCannotWriteALineBeforeItAnswers = {
   id: "01a0603f-86ce-7198-9574-af2d5f3ca41e",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twoInstallersShareOneUnitFolderAndOwnershipIsGuessed = {
   id: "01a05b48-7d50-7503-bdd4-ecd7acaab780",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWebAppDeployBuildsOnlyAfterTheRolloutItCannotFinishWithoutOne = {
   id: "01a068fa-ed15-7d9b-b1a7-bd7f4a90a865",

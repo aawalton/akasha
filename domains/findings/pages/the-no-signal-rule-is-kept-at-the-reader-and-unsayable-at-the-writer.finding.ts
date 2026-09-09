@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theNoSignalRuleIsKeptAtTheReaderAndUnsayableAtTheWriter = {
   id: "01a0676a-4d21-7b3c-9e08-4f2a1c7db550",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aQualifiedAssignmentCanOnlyBeStatedByEditingTheSeatPage = {
   id: "01a06554-71ab-7000-a66c-865ae9e759cf",

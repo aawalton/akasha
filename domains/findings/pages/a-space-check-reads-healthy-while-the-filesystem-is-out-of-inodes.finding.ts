@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aSpaceCheckReadsHealthyWhileTheFilesystemIsOutOfInodes = {
   id: "01a068bc-1aad-7178-ab11-f2944acae41d",

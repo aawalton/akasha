@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPartOfSlugNamesNoPageTypeSoTwoParentsCanShareIt = {
   id: "01a06748-3c02-7000-9b5e-41f7a0c8d233",

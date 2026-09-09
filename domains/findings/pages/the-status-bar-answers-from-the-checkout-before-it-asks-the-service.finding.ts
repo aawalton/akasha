@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theStatusBarAnswersFromTheCheckoutBeforeItAsksTheService = {
   id: "01a0627b-4a11-7c30-9d55-3f81ba0e77c4",

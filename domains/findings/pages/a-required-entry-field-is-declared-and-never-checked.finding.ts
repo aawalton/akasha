@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRequiredEntryFieldIsDeclaredAndNeverChecked = {
   id: "01a05ffa-53e0-7008-a557-f6eea422cd18",

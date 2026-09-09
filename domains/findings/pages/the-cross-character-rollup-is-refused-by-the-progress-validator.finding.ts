@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theCrossCharacterRollupIsRefusedByTheProgressValidator = {
   id: "01a06418-219c-736b-ba57-606b34d01ced",

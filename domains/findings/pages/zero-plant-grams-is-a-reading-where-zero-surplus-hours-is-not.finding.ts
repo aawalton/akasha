@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const zeroPlantGramsIsAReadingWhereZeroSurplusHoursIsNot = {
   id: "01a06221-d65f-7977-ac71-6d13572ef6b3",

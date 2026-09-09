@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aProgressValueCarryingEntriesIsLegalOnlyWhenTheWorkIsDone = {
   id: "01a06423-2306-73a5-8c58-869d9c615ddf",

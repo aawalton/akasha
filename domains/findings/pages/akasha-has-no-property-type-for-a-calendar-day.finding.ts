@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const akashaHasNoPropertyTypeForACalendarDay = {
   id: "01a05fc7-f920-7cdd-b946-5864f6b6665d",

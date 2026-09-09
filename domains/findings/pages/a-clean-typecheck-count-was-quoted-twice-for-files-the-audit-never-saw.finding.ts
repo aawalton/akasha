@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCleanTypecheckCountWasQuotedTwiceForFilesTheAuditNeverSaw = {
   id: "01a0645b-3f5d-7b30-b3c2-40146939edb6",

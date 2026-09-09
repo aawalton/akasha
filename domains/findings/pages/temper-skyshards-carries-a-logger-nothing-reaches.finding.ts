@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const temperSkyshardsCarriesALoggerNothingReaches = {
   id: "01a061b1-a094-79ac-a8ff-62ce3b0983d3",

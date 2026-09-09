@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aShapeConstructorSharingItsTypesNameShutsTheCheckedRoadOnUtilsNarrow = {
   id: "01a069d8-6dae-7305-8b15-4502a7e278a7",

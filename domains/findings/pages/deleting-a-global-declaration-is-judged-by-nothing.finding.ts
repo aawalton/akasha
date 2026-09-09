@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const deletingAGlobalDeclarationIsJudgedByNothing = {
   id: "01a072f8-4bc2-7bd3-bd17-d44cf3b282e2",

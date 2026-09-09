@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fiveOrderListBoxCallsSetTheParameterBesideTheOneTheyMeant = {
   id: "01a062c3-06b5-7b39-9cdd-78c3994658fe",

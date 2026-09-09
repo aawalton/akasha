@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const namingAReachWouldEmptyTheImportIndex = {
   id: "01a05ad9-3b73-787f-ab20-ed7c86112b62",

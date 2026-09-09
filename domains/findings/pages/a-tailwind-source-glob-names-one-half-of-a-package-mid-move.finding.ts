@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aTailwindSourceGlobNamesOneHalfOfAPackageMidMove = {
   id: "01a05ce2-aa22-747b-86da-e31f3931e820",

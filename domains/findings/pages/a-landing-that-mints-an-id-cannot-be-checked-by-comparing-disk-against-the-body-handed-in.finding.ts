@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aLandingThatMintsAnIdCannotBeCheckedByComparingDiskAgainstTheBodyHandedIn = {
   id: "01a081f7-f3c6-734b-866b-772daa0024d2",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReadOnlyCensusSubagentDeletedALiveLanesScratchFolder = {
   id: "01a0697d-0dba-78de-bbf8-ce5c494c628b",

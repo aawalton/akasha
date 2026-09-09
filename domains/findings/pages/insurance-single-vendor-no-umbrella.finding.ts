@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const insuranceSingleVendorNoUmbrella = {
   id: "01a06555-9f3e-7c92-836d-6356c432945c",

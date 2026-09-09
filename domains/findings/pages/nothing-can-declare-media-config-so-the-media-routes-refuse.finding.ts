@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingCanDeclareMediaConfigSoTheMediaRoutesRefuse = {
   id: "01a062aa-531f-72e9-8d63-155b88de0708",

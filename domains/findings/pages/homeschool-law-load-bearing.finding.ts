@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const homeschoolLawLoadBearing = {
   id: "01a06555-9f3e-7489-b4da-a8889e7c6098",

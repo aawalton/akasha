@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const trustConcentratesAtSmallScale = {
   id: "01a06555-9f3f-79ff-a04c-fe54e50c6187",

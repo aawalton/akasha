@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const carTrimDeclaresTwoOfTheSixtyNinePropertiesItsRowsCarry = {
   id: "01a06827-645d-791d-b81c-809e00242a4f",

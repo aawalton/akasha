@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRoutesAreTheLastPlaceCodeNamesAReadout = {
   id: "01a05e65-7b6e-78b7-b83b-35131469d19e",

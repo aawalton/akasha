@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRootTsconfigNamesNoFileAndTheHookGuardingItStillSaysThatRunExitsZero = {
   id: "01a07323-840d-765e-b236-257f922a0d2e",

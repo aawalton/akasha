@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTabooGateReadsAGamesOwnNamesAsThisSystemsProse = {
   id: "01a06271-8a44-7002-a1f6-83d9e0b4c527",

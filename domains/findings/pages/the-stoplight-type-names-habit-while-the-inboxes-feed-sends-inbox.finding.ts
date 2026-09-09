@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theStoplightTypeNamesHabitWhileTheInboxesFeedSendsInbox = {
   id: "01a0826d-707a-7c4a-a803-99c6bfa00637",

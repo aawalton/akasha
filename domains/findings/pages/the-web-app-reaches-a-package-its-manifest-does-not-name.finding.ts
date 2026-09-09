@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWebAppReachesAPackageItsManifestDoesNotName = {
   id: "01a05ce2-aa22-7b17-821f-e66d5e7a1984",

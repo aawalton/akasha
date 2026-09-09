@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPostToAnApiRouteHoldingOnlyALoaderAnswers405NamingNothing = {
   id: "01a06233-591a-7e50-a81b-b072230c7baa",

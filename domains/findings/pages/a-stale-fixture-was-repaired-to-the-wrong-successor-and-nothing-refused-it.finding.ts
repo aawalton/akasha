@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aStaleFixtureWasRepairedToTheWrongSuccessorAndNothingRefusedIt = {
   id: "01a0769d-6a4e-74b4-ba80-15c571cf537b",

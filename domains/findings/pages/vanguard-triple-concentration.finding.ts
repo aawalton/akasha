@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const vanguardTripleConcentration = {
   id: "01a06555-9f3f-71c7-bb01-c7a527c7937e",

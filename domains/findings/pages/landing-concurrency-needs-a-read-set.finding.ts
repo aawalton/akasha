@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const landingConcurrencyNeedsAReadSet = {
   id: "01a04fc9-9152-7cc7-b6ab-d0ec7eef28db",

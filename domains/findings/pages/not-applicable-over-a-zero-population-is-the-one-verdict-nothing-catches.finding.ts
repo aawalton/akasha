@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const notApplicableOverAZeroPopulationIsTheOneVerdictNothingCatches = {
   id: "01a05cf8-fcf2-7002-aef7-c2dadb56ef54",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const findingsCarryAnUnsourcedDate = {
   id: "01a06555-9f3e-7e99-b8af-ba7ef9334c58",

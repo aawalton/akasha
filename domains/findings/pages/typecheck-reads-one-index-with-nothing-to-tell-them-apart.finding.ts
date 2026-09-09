@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const typecheckReadsOneIndexWithNothingToTellThemApart = {
   id: "01a05fd4-2c3a-7b16-9d48-6e2f7a10c934",

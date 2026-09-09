@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDanglingImportPointedAtASiblingsDestinationIsRefusedByTheGate = {
   id: "01a06426-cc4a-7bb2-91f9-89309307e25a",

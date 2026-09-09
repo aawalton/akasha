@@ -1,4 +1,4 @@
-import type { Finding } from "../../finding.page-type.ts"
+import type { Finding } from "../../finding.page-type.types.ts"
 
 export const aHookTestSpawningTheHookReadsTheBodyOnDiskRatherThanTheChange = {
   id: "01a081c6-fcd3-7912-a592-7d178669dfbc",

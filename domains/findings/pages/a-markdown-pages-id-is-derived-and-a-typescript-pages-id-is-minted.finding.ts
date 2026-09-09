@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMarkdownPagesIdIsDerivedAndATypescriptPagesIdIsMinted = {
   id: "01a0612e-dead-7d4f-b2fc-b2eb111e10ae",

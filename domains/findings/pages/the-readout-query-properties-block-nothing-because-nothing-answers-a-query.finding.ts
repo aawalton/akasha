@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theReadoutQueryPropertiesBlockNothingBecauseNothingAnswersAQuery = {
   id: "01a060ef-7636-7eb2-ab0a-cc60cb313394",

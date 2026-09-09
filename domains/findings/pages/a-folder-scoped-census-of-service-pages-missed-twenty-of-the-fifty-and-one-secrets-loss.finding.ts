@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aFolderScopedCensusOfServicePagesMissedTwentyOfTheFiftyAndOneSecretsLoss = {
   id: "01a069c7-4fb5-7a67-9705-ab8cace62fa4",

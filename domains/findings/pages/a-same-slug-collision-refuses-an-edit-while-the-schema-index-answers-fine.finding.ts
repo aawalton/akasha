@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aSameSlugCollisionRefusesAnEditWhileTheSchemaIndexAnswersFine = {
   id: "01a068bd-995c-7bea-9427-54436916a6bf",

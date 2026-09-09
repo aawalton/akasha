@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theCheckForStalePathLiteralsWasAblatedHoursBeforeItWasNeeded = {
   id: "01a06973-62d8-78c5-97ec-faa7a699df76",

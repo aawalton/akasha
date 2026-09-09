@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageLandedOverHttpWithoutTheCli = {
   id: "01a05ac1-a1d0-719b-9fbf-0e1c9fa7c997",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const sleepAndSurplusCanAnswerForNoDayAtAllWhileActivityIsHonestlyDark = {
   id: "01a069c1-2d21-77cd-9907-b1be775ad279",

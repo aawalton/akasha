@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const streamingSubscriptionsUnreviewed = {
   id: "01a06555-9f3e-7d7f-a678-37d3c2771482",

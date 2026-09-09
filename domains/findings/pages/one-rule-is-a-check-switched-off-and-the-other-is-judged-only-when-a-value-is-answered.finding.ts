@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneRuleIsACheckSwitchedOffAndTheOtherIsJudgedOnlyWhenAValueIsAnswered = {
   id: "01a07323-840d-7cb7-b8b2-7c98cbb3d3ce",

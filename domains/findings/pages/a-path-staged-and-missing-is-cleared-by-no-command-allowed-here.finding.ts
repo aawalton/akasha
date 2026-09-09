@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPathStagedAndMissingIsClearedByNoCommandAllowedHere = {
   id: "01a06057-e61c-7741-ad57-092899bac44b",

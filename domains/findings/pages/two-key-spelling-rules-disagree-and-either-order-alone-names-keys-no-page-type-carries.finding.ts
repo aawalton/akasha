@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twoKeySpellingRulesDisagreeAndEitherOrderAloneNamesKeysNoPageTypeCarries = {
   id: "01a07323-840c-721f-8695-7431cb225c16",

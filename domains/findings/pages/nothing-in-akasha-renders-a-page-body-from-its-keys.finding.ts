@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingInAkashaRendersAPageBodyFromItsKeys = {
   id: "01a05b34-b267-7a91-9f6f-c3a8555503d6",

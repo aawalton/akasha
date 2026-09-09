@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPodCanWriteThePageStoreButNotAReading = {
   id: "01a05b44-9d68-731e-8ba6-22d1817a4656",

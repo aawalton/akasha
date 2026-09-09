@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneSlugShapeNamesTwoDifferentDays = {
   id: "01a06253-c31a-7690-b7bc-2582976906e1",

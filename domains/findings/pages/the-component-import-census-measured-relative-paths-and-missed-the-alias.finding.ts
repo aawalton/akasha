@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theComponentImportCensusMeasuredRelativePathsAndMissedTheAlias = {
   id: "01a06426-cc4a-7171-8f59-d446c157541f",

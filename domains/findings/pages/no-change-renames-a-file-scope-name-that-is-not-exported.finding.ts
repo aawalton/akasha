@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noChangeRenamesAFileScopeNameThatIsNotExported = {
   id: "01a08258-2265-7f99-acb0-5950b4249d22",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theExtensionCommentsAreMeasuredRationaleAndInvariantsRefuseIt = {
   id: "01a064a8-86d3-757f-b6d6-84d80c95d162",

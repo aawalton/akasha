@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCheckedLandingCannotAddAnExportsEntryBecauseItsTestArmResolvesAgainstDisk = {
   id: "01a06974-c192-752c-a279-dabdb5086fd3",

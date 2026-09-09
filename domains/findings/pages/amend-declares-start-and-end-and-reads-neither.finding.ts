@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const amendDeclaresStartAndEndAndReadsNeither = {
   id: "01a06916-18af-76b7-bf1a-f655d5d20fdf",

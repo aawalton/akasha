@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fourReadoutRulesHaveNoAkashaInvariantAndTheCensusWasPartial = {
   id: "01a0641a-d59b-7394-8389-e04da87758b7",

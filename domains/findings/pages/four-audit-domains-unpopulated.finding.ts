@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fourAuditDomainsUnpopulated = {
   id: "01a06555-9f3e-78d0-9b21-d1ffb6c90867",

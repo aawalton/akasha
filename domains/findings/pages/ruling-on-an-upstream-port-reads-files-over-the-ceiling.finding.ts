@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const rulingOnAnUpstreamPortReadsFilesOverTheCeiling = {
   id: "01a06039-c825-7e98-b879-4d308ce709ff",

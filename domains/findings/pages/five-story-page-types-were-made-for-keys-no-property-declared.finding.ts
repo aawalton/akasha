@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fiveStoryPageTypesWereMadeForKeysNoPropertyDeclared = {
   id: "01a06584-deb2-7072-8909-802201a4fcc0",

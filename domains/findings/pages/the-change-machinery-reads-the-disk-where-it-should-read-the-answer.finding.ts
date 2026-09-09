@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theChangeMachineryReadsTheDiskWhereItShouldReadTheAnswer = {
   id: "01a08328-e21e-76ad-a64c-ce3bff5a2f5a",

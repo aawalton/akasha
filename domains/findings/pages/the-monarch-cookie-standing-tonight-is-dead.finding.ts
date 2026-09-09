@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theMonarchCookieStandingTonightIsDead = {
   id: "01a05b44-9d6a-7826-a924-bc44b9c0eaa1",

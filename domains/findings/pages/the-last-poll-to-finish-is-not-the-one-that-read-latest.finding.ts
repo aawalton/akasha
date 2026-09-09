@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theLastPollToFinishIsNotTheOneThatReadLatest = {
   id: "01a06816-69fa-7003-9357-4cdc4fc7183d",

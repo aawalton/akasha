@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCspNonceRestsOnRandomIdStayingUnpredictableAndNothingSaysSo = {
   id: "01a05c77-45e6-711b-ac95-370cb69c228f",

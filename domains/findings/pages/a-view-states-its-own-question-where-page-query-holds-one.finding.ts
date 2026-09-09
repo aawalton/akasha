@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aViewStatesItsOwnQuestionWherePageQueryHoldsOne = {
   id: "01a0657f-0c53-7003-ad50-0bc349c83571",

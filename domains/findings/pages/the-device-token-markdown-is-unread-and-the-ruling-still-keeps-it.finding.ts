@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theDeviceTokenMarkdownIsUnreadAndTheRulingStillKeepsIt = {
   id: "01a060f6-e4f9-707e-ae4a-2ed301ab8125",

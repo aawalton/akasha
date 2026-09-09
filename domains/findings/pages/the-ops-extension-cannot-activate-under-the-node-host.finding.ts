@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theOpsExtensionCannotActivateUnderTheNodeHost = {
   id: "01a06882-b069-7994-8961-ec642313ae4e",

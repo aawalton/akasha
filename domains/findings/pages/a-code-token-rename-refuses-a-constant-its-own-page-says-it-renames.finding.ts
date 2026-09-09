@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCodeTokenRenameRefusesAConstantItsOwnPageSaysItRenames = {
   id: "01a08325-f8e0-7000-8fa7-9eb4dd84f78b",

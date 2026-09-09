@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const onlyTheTmuxLauncherSweepsSubagentPagesSoEveryOtherRestartRoadOrphansThem = {
   id: "01a06978-6159-7286-9b8e-6972a18e89b1",

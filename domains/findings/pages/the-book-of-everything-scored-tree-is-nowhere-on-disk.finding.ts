@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theBookOfEverythingScoredTreeIsNowhereOnDisk = {
   id: "01a06589-aff9-7000-a725-2c1327d37bdf",

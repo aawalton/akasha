@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const storyChaptersNameAMediaSourcePropertyTheyDoNotCarry = {
   id: "01a05cf4-03d5-77e6-9a28-a3dd08dfdb01",

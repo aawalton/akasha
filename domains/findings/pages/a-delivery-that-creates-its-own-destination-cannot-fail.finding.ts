@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDeliveryThatCreatesItsOwnDestinationCannotFail = {
   id: "01a06202-3164-7000-a507-9237ebfc019d",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aTypeOnlyImportBesideASpawnedPathTurnsARenameIntoADiagnostic = {
   id: "01a06933-69c0-71a1-b8c3-859c283aecec",

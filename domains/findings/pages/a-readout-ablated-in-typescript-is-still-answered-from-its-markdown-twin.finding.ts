@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReadoutAblatedInTypescriptIsStillAnsweredFromItsMarkdownTwin = {
   id: "01a06274-d2eb-7919-b8e5-37e2a37d0ef2",

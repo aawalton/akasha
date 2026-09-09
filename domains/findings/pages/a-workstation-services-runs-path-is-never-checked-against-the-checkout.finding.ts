@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWorkstationServicesRunsPathIsNeverCheckedAgainstTheCheckout = {
   id: "01a06358-546d-7476-bdea-920a8b70bea6",

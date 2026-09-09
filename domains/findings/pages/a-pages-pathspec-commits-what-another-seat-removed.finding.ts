@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPagesPathspecCommitsWhatAnotherSeatRemoved = {
   id: "01a0673c-4ed9-719f-84dc-ffa781b39428",

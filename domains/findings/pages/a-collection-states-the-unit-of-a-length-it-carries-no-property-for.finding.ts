@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCollectionStatesTheUnitOfALengthItCarriesNoPropertyFor = {
   id: "01a064c1-d029-7eb3-bc31-acad90dfd6d6",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageOfAPageTypeIntroducedInOneChangeGetsNoMintedId = {
   id: "01a06271-8a44-7001-9e02-4b7c15d8a339",

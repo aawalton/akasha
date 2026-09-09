@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWebPodWithNoBuildCannotBecomeReadyAndOnlyARunningPodIsBuiltIn = {
   id: "01a08220-887b-7fbc-adc7-740f4ab217f8",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMoveRewritesImportsThatNoCheckThenJudges = {
   id: "01a06437-706c-73f9-ab72-0cda730db8df",

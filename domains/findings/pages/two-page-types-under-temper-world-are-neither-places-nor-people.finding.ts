@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twoPageTypesUnderTemperWorldAreNeitherPlacesNorPeople = {
   id: "01a05fc7-f922-77b0-8297-c8401ce4691e",

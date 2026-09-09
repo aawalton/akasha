@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theAkashaToolchainIsCompiledIntoAlansPhone = {
   id: "01a05d44-6b21-7a03-8c5e-4f9d20e17b38",

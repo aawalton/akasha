@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theReadRecordSaysABodyWasSentNeverThatABodyArrived = {
   id: "01a061ef-9538-7000-aeee-95f0cd57fa5c",

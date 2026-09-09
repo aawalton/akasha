@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const akashaServiceInstallAllPlansToRemoveEveryUnitWhenTheIndexReadsEmpty = {
   id: "01a0687d-883f-7001-a150-b9ed1b85868b",

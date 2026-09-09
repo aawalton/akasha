@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aParentPageLosesAnAppendWhileAWriteIsJudged = {
   id: "01a05bfa-f627-7000-ad60-970809a9b60e",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingGatedRenamesAFileBesideAPage = {
   id: "01a06741-b245-7433-b6eb-5946a81e1857",

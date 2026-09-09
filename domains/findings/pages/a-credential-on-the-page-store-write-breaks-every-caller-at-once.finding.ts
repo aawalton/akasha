@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCredentialOnThePageStoreWriteBreaksEveryCallerAtOnce = {
   id: "01a05ba6-1855-7000-b73b-7b7fde2810ea",

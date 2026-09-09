@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theCatalogCliIsAliveBehindTwoAkashaCommandsThatRefuse = {
   id: "01a060d3-cb3b-75bc-927e-a6d032494083",

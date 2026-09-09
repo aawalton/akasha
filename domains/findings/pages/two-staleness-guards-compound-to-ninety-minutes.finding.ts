@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twoStalenessGuardsCompoundToNinetyMinutes = {
   id: "01a05b92-9071-7001-8686-5b7af6823de7",

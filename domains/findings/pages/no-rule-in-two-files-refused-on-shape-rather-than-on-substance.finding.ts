@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noRuleInTwoFilesRefusedOnShapeRatherThanOnSubstance = {
   id: "01a06101-b033-7000-b115-20410532eb18",

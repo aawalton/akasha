@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anAnonKeyForSupabaseIsInTheCommit = {
   id: "01a05d1a-87dc-7968-889e-d85c122a224f",

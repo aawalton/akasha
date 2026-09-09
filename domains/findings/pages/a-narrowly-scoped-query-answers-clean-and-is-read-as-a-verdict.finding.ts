@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aNarrowlyScopedQueryAnswersCleanAndIsReadAsAVerdict = {
   id: "01a05ff5-97ca-7915-a7c1-a4bb8aa99f6b",

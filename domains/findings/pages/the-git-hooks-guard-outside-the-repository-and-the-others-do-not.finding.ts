@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theGitHooksGuardOutsideTheRepositoryAndTheOthersDoNot = {
   id: "01a05f45-b27b-74eb-a431-0d00b7b9fb8a",

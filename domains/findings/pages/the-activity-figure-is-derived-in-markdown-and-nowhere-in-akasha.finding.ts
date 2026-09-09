@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theActivityFigureIsDerivedInMarkdownAndNowhereInAkasha = {
   id: "01a06239-4c11-7e5a-9b73-2a1f0c84d6b1",

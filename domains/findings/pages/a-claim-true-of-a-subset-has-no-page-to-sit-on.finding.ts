@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aClaimTrueOfASubsetHasNoPageToSitOn = {
   id: "01a073c0-e30f-7181-8107-17836bc0b993",

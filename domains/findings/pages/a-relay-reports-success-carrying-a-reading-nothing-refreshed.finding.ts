@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRelayReportsSuccessCarryingAReadingNothingRefreshed = {
   id: "01a05e50-ef81-7702-a7a1-1eb6d61f4033",

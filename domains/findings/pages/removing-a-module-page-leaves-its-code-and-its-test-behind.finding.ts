@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const removingAModulePageLeavesItsCodeAndItsTestBehind = {
   id: "01a060be-c946-7004-9123-bd06975b62f1",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageQueryCarriesNoTitleBecauseTheOnlyTitleBelongsToTemper = {
   id: "01a06423-1b7c-7000-9f2a-4c81d5e0a377",

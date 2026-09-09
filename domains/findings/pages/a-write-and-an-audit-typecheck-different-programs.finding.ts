@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWriteAndAnAuditTypecheckDifferentPrograms = {
   id: "01a0607a-3363-70c1-a79c-6aa338b9dc8c",

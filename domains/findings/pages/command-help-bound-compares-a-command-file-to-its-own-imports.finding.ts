@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const commandHelpBoundComparesACommandFileToItsOwnImports = {
   id: "01a06112-9f5f-7b28-8aed-ce78d6444dbb",

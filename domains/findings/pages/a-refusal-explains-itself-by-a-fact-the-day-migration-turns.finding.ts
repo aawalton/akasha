@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRefusalExplainsItselfByAFactTheDayMigrationTurns = {
   id: "01a0608f-82c2-7f86-a40d-fc9823ddec7f",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDeviceSecretIsACredentialKeptInTheCommit = {
   id: "01a05b4b-4db6-79f3-ae76-1b3953664d3f",

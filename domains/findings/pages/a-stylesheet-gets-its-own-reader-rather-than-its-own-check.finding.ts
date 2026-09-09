@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aStylesheetGetsItsOwnReaderRatherThanItsOwnCheck = {
   id: "01a05c4b-ef18-77c6-b7ef-441d528dd9de",

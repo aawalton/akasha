@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const readingASeatTranscriptWholeFrozeTheEditorForLongerThanThePoll = {
   id: "01a06811-01d3-7005-9b69-8da1c638490c",

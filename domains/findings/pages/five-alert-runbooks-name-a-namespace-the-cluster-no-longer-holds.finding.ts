@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fiveAlertRunbooksNameANamespaceTheClusterNoLongerHolds = {
   id: "01a08232-bdd6-72d3-b63d-1e678cca611a",

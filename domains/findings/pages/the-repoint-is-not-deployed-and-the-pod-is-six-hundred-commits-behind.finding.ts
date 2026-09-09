@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRepointIsNotDeployedAndThePodIsSixHundredCommitsBehind = {
   id: "01a05e67-cd80-7dd2-b541-c7f2c0a5c426",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWholeFileLandingRevertsASiblingWorkersLinesWithCodeZero = {
   id: "01a06867-7fc9-7002-8637-7ac5005a541f",

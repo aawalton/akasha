@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noPageSaysHowAContainerImageIsBuilt = {
   id: "01a0603e-0c89-7d05-bd81-73dfba0e7c1c",

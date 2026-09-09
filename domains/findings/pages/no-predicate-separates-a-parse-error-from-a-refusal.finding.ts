@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noPredicateSeparatesAParseErrorFromARefusal = {
   id: "01a073da-e0e6-7fab-a025-66898b63a03a",

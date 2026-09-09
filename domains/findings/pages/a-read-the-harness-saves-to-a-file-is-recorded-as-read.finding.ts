@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReadTheHarnessSavesToAFileIsRecordedAsRead = {
   id: "01a060d3-cb3c-73ef-bbc5-b7016cdac78a",

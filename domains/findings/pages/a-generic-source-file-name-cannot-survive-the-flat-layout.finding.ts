@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aGenericSourceFileNameCannotSurviveTheFlatLayout = {
   id: "01a06436-474c-7e3e-b326-467db9afd270",

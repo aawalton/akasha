@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTransactionsEntryShapeDroppedHideFromReports = {
   id: "01a0675e-6da8-7001-b504-77a1c9e27440",

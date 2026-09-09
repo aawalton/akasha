@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theCatalogAddonImportOrderIsTheCollectionOrder = {
   id: "01a060ec-47c3-733d-9424-bfcda1f495ad",

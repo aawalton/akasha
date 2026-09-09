@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const devStdinWillNotOpenWhenStdinIsASocketAsBunSpawnWithAPipeMakesIt = {
   id: "01a08210-09bb-72b1-ad4f-d5ac17ee8bb5",

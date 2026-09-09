@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const neitherHookRefusesABoundedCommitOfTheLinterConfig = {
   id: "01a061b8-8b04-731b-ba15-97477cd91554",

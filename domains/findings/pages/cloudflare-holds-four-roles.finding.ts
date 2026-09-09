@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const cloudflareHoldsFourRoles = {
   id: "01a06555-9f3d-722f-8219-37bf1a92bfbe",

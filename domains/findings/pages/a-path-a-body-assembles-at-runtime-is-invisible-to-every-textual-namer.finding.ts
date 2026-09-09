@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPathABodyAssemblesAtRuntimeIsInvisibleToEveryTextualNamer = {
   id: "01a06285-94dc-71f1-b8f2-3dc54b8a9601",

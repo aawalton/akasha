@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneFreshnessRefusalCoversAStaleRecordAndAPartialReadAndNamesOnlyOne = {
   id: "01a068f5-7f47-7ff0-bebd-59b45ef78c63",

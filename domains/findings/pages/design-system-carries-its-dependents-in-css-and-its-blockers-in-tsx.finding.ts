@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const designSystemCarriesItsDependentsInCssAndItsBlockersInTsx = {
   id: "01a05c50-e3b4-7116-ab2b-5f96eaec8f77",

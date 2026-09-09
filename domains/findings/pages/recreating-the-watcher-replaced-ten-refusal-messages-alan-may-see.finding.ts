@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const recreatingTheWatcherReplacedTenRefusalMessagesAlanMaySee = {
   id: "01a063c6-848e-7bbb-925d-ab8acb6d7647",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const notNeedingDirectionUnphased = {
   id: "01a06555-9f3e-7d90-a394-3ca48174b5d4",

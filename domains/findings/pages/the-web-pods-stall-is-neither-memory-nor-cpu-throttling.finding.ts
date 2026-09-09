@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWebPodsStallIsNeitherMemoryNorCpuThrottling = {
   id: "01a05e6a-b604-7b86-8854-91bc022ed40b",

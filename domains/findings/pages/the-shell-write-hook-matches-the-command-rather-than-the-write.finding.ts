@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theShellWriteHookMatchesTheCommandRatherThanTheWrite = {
   id: "01a06418-219d-794a-a10e-14fddb8d73d6",

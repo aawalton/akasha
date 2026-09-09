@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const forkIsDispatchedWithNoKindPage = {
   id: "01a06dc2-4b27-7b44-bdd9-6e1d005492ab",

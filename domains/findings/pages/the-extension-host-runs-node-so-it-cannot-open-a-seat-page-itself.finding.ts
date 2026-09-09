@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theExtensionHostRunsNodeSoItCannotOpenASeatPageItself = {
   id: "01a06811-01d3-7006-859a-d62a552760e8",

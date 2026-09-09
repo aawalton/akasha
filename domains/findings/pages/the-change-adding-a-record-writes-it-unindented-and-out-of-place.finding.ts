@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theChangeAddingARecordWritesItUnindentedAndOutOfPlace = {
   id: "01a087be-e21a-7989-b927-22c3f772e870",

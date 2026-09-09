@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theReadingGateChargesADraftForTheWholeKeptPatch = {
   id: "01a0835c-d5ce-7472-a955-d2585332689d",

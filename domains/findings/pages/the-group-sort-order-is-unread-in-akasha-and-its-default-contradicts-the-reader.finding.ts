@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theGroupSortOrderIsUnreadInAkashaAndItsDefaultContradictsTheReader = {
   id: "01a0641a-d59b-7c62-8812-dfdd279d6935",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theCategoryRulesAreDataAndTheNameCodeMeansCarriedOutByCode = {
   id: "01a0657f-0c53-7000-aacc-5fbfb4971be1",

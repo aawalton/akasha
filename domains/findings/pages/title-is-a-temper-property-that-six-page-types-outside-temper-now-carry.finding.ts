@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const titleIsATemperPropertyThatSixPageTypesOutsideTemperNowCarry = {
   id: "01a0657f-0c53-7005-b16b-a77c67c1f12e",

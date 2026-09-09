@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const esoHealthSampleRowsLandInSidecarsWhosePageIsNeverMinted = {
   id: "01a06a44-1c30-7a10-9f52-3b7c8e0d4411",

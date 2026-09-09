@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const macStudioGatesTwoRemediations = {
   id: "01a06555-9f3e-743e-94d2-1f3bca617e70",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMoveCarriesNothingIntoAkasha = {
   id: "01a05b5a-708e-793f-b0ca-09e8413431bb",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWatchersFinishedForeverReadIgnoresTheNestedProgressStillDeclared = {
   id: "01a063e9-a1db-7e53-addd-555c7a148ed1",

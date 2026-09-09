@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const seedRatedHeardTracksWereNeverHeard = {
   id: "01a062e2-014b-7832-b97b-168347b91395",

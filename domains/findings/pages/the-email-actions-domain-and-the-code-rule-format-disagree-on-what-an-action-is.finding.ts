@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theEmailActionsDomainAndTheCodeRuleFormatDisagreeOnWhatAnActionIs = {
   id: "01a06860-54a2-7916-9071-3590c29dee10",

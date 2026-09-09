@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const removingAPageTheNewOneIsNamedAfterIsRefused = {
   id: "01a06348-077e-701d-a2c1-dda5893eb0aa",

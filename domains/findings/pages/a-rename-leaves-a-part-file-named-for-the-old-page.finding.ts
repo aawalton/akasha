@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRenameLeavesAPartFileNamedForTheOldPage = {
   id: "01a082a1-fb72-7bbe-99be-24cced56eb25",

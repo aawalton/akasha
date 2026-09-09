@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTaskRoundTripsReturnLegDropsEveryPerCharacterCompletion = {
   id: "01a076db-bd59-7117-8652-98f15e098967",

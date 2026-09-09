@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aClusterServiceNoWebAppNamesIsReadByNothing = {
   id: "01a06587-c73c-7b40-9f21-6c1a7e0b8d34",

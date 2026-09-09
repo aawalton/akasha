@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aScratchWorldLandingLeavesNoIdWhileEveryLiveSubagentPageCarriesOne = {
   id: "01a08225-fa5f-7802-b93f-82b97af23dcb",

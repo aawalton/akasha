@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noLiveSupervisorMatchesTheSupervisorPredicate = {
   id: "01a07371-81f2-77cf-b789-528e4fdabbd0",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const regeneratingAWorkstationUnitTakesAwaySecretsThirteenUnitsAreStartedWith = {
   id: "01a0696a-b614-7a13-b7ee-59739dc8f91c",

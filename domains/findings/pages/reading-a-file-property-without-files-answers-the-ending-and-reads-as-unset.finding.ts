@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const readingAFilePropertyWithoutFilesAnswersTheEndingAndReadsAsUnset = {
   id: "01a08279-b0b0-7829-8656-8a20ed7ced07",

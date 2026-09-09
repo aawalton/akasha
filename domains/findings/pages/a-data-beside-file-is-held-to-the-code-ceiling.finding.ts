@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDataBesideFileIsHeldToTheCodeCeiling = {
   id: "01a06572-ebf1-7540-92e1-a2aae921d3af",

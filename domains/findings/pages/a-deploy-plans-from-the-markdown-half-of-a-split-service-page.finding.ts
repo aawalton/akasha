@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDeployPlansFromTheMarkdownHalfOfASplitServicePage = {
   id: "01a05c17-8228-713b-a897-4e499bec198f",

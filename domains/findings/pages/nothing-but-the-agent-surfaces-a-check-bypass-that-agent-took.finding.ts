@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingButTheAgentSurfacesACheckBypassThatAgentTook = {
   id: "01a06488-e217-7263-b6ed-65bd3e959673",

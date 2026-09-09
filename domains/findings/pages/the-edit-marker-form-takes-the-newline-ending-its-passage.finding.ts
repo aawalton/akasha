@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theEditMarkerFormTakesTheNewlineEndingItsPassage = {
   id: "01a06297-3921-795e-a0a9-67cfda397279",

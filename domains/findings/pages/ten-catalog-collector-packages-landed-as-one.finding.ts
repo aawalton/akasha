@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const tenCatalogCollectorPackagesLandedAsOne = {
   id: "01a060ec-47c2-7c9d-b02b-696e2d213345",

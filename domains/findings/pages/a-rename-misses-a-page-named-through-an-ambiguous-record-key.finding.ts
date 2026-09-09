@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRenameMissesAPageNamedThroughAnAmbiguousRecordKey = {
   id: "01a082e2-f6b5-7b4b-ac40-84fe805a8b9b",

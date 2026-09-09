@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const addonGitIgnoreDuplicatesGitIgnore = {
   id: "01a060af-3215-77f0-9c54-a54dee18b4e0",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theRunningBuildDecidesOnPresenceAndDiscardsTheDomainItMeasured = {
   id: "01a05d7f-5b89-7fe7-b08c-7bed34cf1975",

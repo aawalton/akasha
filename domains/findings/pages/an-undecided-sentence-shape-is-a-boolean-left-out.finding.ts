@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anUndecidedSentenceShapeIsABooleanLeftOut = {
   id: "01a05dae-85a6-7668-890a-bbc92c7dc59d",

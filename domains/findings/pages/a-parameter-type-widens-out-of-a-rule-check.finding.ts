@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aParameterTypeWidensOutOfARuleCheck = {
   id: "01a05c12-ce1a-7b11-aea1-0fae37e720d0",

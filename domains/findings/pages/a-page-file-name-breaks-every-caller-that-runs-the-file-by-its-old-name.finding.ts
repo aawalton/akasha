@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageFileNameBreaksEveryCallerThatRunsTheFileByItsOldName = {
   id: "01a06838-5a67-75b5-a964-08137a2afc7e",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingLocalTellsAKeptCheckoutFromADiscardedOne = {
   id: "01a060ab-6301-77b6-a498-77c9fc58a04b",

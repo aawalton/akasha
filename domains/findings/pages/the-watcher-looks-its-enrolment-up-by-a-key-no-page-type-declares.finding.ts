@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theWatcherLooksItsEnrolmentUpByAKeyNoPageTypeDeclares = {
   id: "01a063c4-be37-72b1-bd7d-20d3ba3e8b2b",

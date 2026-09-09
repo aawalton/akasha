@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aServicePageOmittingNeedsSecretsRegeneratesAUnitThatStartsAndFails = {
   id: "01a06871-54e5-7003-b0d9-fa6eef6cf784",

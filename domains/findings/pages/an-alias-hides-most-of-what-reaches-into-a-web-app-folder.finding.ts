@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anAliasHidesMostOfWhatReachesIntoAWebAppFolder = {
   id: "01a05b56-acd8-7833-8080-fe245c19e793",

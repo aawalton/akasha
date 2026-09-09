@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const everyPathAnswersASettledIndexForPagedPathsAndABaseIndexForTheRest = {
   id: "01a07cd0-4409-7e34-8cd7-97fdb9a93a53",

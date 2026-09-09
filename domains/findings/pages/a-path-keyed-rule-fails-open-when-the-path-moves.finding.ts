@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPathKeyedRuleFailsOpenWhenThePathMoves = {
   id: "01a05b66-5c35-7fd6-ab2d-789fd7302c3c",

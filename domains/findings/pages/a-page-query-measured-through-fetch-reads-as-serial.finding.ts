@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageQueryMeasuredThroughFetchReadsAsSerial = {
   id: "01a05aef-b3e7-7975-9971-2d8e5926c826",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const reliabilityBarUnstated = {
   id: "01a06555-9f3e-7a46-a9db-b3e0271aaefa",

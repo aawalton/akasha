@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const additionBiasRuledClosed = {
   id: "01a06555-9f3d-7936-b06e-acedbff86c7b",

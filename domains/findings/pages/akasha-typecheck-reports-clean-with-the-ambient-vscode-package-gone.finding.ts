@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const akashaTypecheckReportsCleanWithTheAmbientVscodePackageGone = {
   id: "01a0697d-0dba-7d65-97e2-3ca4f040079d",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMockIsJudgedOnlyAgainstItsOwnPackage = {
   id: "01a05b9d-46fd-7000-9af5-74829e1604ae",

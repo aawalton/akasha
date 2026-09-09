@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aNarrowedAuditAnswersTooFewBytesToNameTheTestThatFailed = {
   id: "01a08312-ec47-7d49-9c3c-be3b8229dc3d",

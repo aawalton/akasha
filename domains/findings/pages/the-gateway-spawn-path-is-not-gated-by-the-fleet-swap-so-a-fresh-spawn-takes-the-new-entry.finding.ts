@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theGatewaySpawnPathIsNotGatedByTheFleetSwapSoAFreshSpawnTakesTheNewEntry = {
   id: "01a069c7-5233-720d-a874-e16a2f71b44f",

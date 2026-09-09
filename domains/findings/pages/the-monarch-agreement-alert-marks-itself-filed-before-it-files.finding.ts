@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theMonarchAgreementAlertMarksItselfFiledBeforeItFiles = {
   id: "01a061cc-ec2e-7000-ad8f-e19e141614fa",

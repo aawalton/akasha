@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theSharedIosScriptsFolderWasRenamedAndFourScriptsStillNameTheOldOne = {
   id: "01a0657e-994b-72c0-bd83-4bb8c304ed8b",

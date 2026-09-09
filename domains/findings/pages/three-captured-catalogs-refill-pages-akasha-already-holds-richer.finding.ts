@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const threeCapturedCatalogsRefillPagesAkashaAlreadyHoldsRicher = {
   id: "01a06050-8062-7736-ae0b-e7099dd6f8dc",

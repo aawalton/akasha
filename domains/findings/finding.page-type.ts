@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { PageDomain } from "../properties/page-domain.relation-property.ts"
-import type { Claim } from "./properties/claim.text-property.ts"
-import type { Evidence } from "./properties/evidence.text-property.ts"
-
-export type Finding = Page & {
-  domain: PageDomain
-  claim: Claim
-  evidence: Evidence
-}
 
 export const finding = {
   id: "01a04bc5-f8c3-758c-b460-da70df03bb96",

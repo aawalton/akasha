@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDetailConfigHasNoPropertyOnPageTypeSoSixSidecarsHaveNoHome = {
   id: "01a06828-1949-79c0-82bb-547d1fe3dff7",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const installingARelayTimerIsNotTheDeployThatWasHeldBack = {
   id: "01a06234-3501-7469-93b4-2d31eaa7401c",

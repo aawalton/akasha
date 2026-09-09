@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRefusedPackageMoveTakesTheCliFromEverySeat = {
   id: "01a0735b-f44b-7046-bd29-811b663c568a",

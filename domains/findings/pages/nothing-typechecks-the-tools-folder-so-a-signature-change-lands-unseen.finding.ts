@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingTypechecksTheToolsFolderSoASignatureChangeLandsUnseen = {
   id: "01a05be1-6c96-7149-b84f-27ed2e55f180",

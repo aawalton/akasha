@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theAkashaDeployPathPlacesNoSecret = {
   id: "01a0683e-687e-75c1-bc1c-c1ce4c45dc1b",

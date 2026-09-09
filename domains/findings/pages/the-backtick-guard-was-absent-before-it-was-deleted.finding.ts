@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theBacktickGuardWasAbsentBeforeItWasDeleted = {
   id: "01a06140-90cd-7000-9bd0-42267931019f",

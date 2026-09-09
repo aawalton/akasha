@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aCycleThroughAPackageEdgeGoesUnseen = {
   id: "01a05b15-391f-73d0-abbe-6df3583b7d72",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theFitnessFamilyIsNotACollectionFamily = {
   id: "01a0683c-6004-7a82-857d-de5840717392",

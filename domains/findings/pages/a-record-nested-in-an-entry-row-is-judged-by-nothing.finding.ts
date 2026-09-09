@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRecordNestedInAnEntryRowIsJudgedByNothing = {
   id: "01a05ffa-53e2-7eca-8b07-93742ab29357",

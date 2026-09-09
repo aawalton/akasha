@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const removingTheBareNameSearchEmptiedEveryPageTypeOfItsProperties = {
   id: "01a07353-48b3-79ee-91e0-fc018c3cf453",

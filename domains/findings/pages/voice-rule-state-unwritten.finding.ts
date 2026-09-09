@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const voiceRuleStateUnwritten = {
   id: "01a06555-9f3f-7015-add0-9a005a7c155d",

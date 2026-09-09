@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneLiftDragsInEveryBlockHoldingImporter = {
   id: "01a06254-6932-7e77-baef-6ccd4f854e9f",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aGateOutsideTheHoldLetsASiblingStripAModeBeforeItCommits = {
   id: "01a062ed-716f-7863-9623-28767404df5b",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
   id: "01a05aef-b3df-759a-b6d8-394b03016092",

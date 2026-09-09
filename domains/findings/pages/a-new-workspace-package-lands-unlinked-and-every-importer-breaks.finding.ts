@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aNewWorkspacePackageLandsUnlinkedAndEveryImporterBreaks = {
   id: "01a0686c-e937-700a-a93a-c212c99a378e",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theByteCeilingForcesTheDivisionThatCorruptsAGeneratedTable = {
   id: "01a060ac-e099-77f1-9fb4-e6519a662b0a",

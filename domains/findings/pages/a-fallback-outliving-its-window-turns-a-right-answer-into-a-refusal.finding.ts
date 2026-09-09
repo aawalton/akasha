@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aFallbackOutlivingItsWindowTurnsARightAnswerIntoARefusal = {
   id: "01a087cd-c6ba-7f34-9739-afdbe088a784",

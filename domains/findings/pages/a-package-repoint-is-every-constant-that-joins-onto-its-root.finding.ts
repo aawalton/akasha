@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPackageRepointIsEveryConstantThatJoinsOntoItsRoot = {
   id: "01a06798-4d53-7001-99dc-22205557575d",

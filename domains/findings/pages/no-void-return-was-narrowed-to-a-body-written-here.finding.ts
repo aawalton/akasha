@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const noVoidReturnWasNarrowedToABodyWrittenHere = {
   id: "01a05c69-4d64-7f4d-9619-91e433fc0031",

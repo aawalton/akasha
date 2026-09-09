@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aWebAppsHostNamesAreStatedOnAPageAndRoutedFromAFile = {
   id: "01a05b26-f8b6-7ffd-b7e7-e2624681524c",

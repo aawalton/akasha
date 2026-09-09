@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aProcessStartTimeSurvivesExecSoItCannotDateASupervisorsLoadedCode = {
   id: "01a0697b-4542-7d05-ae72-7c2ce432ffe8",

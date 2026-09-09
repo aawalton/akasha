@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theNotifierTokenReadMovedOntoAkashaAndRegistrationIsRestored = {
   id: "01a060b2-779b-7000-8f96-d584577504b8",

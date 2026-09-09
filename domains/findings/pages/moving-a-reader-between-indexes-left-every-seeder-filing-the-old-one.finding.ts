@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const movingAReaderBetweenIndexesLeftEverySeederFilingTheOldOne = {
   id: "01a076f6-9f6d-7d55-b101-298d9fe4c6cd",

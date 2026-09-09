@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aRelationTargetReadByBareSlugAnswersForTheOtherPropertyOfThatName = {
   id: "01a0693b-1f13-7065-ace9-f21ed3eb3d48",

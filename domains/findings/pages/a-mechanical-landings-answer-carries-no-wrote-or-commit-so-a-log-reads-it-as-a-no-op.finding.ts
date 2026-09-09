@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMechanicalLandingsAnswerCarriesNoWroteOrCommitSoALogReadsItAsANoOp = {
   id: "01a0683f-9beb-7167-b042-0d7b4a75afe8",

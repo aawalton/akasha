@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anActIsTakenAwayOnlyAfterAHandEditTheLandingDiscards = {
   id: "01a0876f-357e-7549-9ed7-a05754deba39",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const readLiveFromHasNoAkashaPropertySoTheMonarchSourceCannotBeCarried = {
   id: "01a0641a-d59b-7969-a13f-820e1245001a",

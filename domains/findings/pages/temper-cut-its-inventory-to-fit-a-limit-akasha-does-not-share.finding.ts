@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const temperCutItsInventoryToFitALimitAkashaDoesNotShare = {
   id: "01a05fdf-9a2c-77b7-9fa8-7c0771adbc38",

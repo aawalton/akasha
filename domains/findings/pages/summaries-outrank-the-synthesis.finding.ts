@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const summariesOutrankTheSynthesis = {
   id: "01a06555-9f3e-7da1-be97-09d044b605b1",

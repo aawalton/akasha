@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const addingARouteToAlanWebCostsTheRouteTablesOwnComment = {
   id: "01a06858-8cfa-7520-8959-a7bb74383314",

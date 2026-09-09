@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theErrorsTheRootBuildReportsAreOneCauseAMoveDissolves = {
   id: "01a05c2c-0c9c-7ed1-9ba1-3cd60b2a56bb",

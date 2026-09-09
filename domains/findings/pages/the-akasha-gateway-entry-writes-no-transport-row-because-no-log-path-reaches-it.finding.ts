@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theAkashaGatewayEntryWritesNoTransportRowBecauseNoLogPathReachesIt = {
   id: "01a06985-0000-7000-9a01-6d6733e1a002",

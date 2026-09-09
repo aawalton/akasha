@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theGraphCarriesNoFolder = {
   id: "01a05047-6045-7290-9b78-252f18c4e51b",

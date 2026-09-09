@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const anAgentsCeilingOnFlowIsSetByConventionsNoPromptCanCarryHonestly = {
   id: "01a07740-d031-7bdc-87c4-60aa71d3b15a",

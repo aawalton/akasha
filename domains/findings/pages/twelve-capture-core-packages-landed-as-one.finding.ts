@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twelveCaptureCorePackagesLandedAsOne = {
   id: "01a0604f-0f83-7b33-98a4-801da3e3995f",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const twoCompanionSkillEffectFieldsHoldTwoKindsEach = {
   id: "01a061b0-5cb9-7560-805b-a2e35d869331",

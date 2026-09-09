@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aLandingReplacesTheWarningSignAndRefusesToPutItBack = {
   id: "01a064ba-fcf2-7480-872e-d0365ec4e384",

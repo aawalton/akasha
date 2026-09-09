@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aPageKindCarryingNoFileOfItsOwnStillHoldsRows = {
   id: "01a0636b-ea30-7adc-871e-3b747b1486d5",

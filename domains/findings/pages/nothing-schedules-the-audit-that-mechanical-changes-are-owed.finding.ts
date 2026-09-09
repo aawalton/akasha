@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingSchedulesTheAuditThatMechanicalChangesAreOwed = {
   id: "01a06065-7e0c-7e88-9701-7e1ac5e3b878",

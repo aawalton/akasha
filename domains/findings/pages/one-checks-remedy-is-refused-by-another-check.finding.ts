@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const oneChecksRemedyIsRefusedByAnotherCheck = {
   id: "01a0614d-16f2-7ffd-ade3-30e0a20b7691",

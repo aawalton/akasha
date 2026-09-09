@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const temperTaskProgressNamedCharactersByIdsThatDidNotCarryAcross = {
   id: "01a05fda-025e-7627-be42-eab4c600e312",

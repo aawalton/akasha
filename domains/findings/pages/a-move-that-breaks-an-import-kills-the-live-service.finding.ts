@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aMoveThatBreaksAnImportKillsTheLiveService = {
   id: "01a05f21-9be3-70e7-b011-c79968564395",

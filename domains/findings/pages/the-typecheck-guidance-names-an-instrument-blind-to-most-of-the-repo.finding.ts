@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTypecheckGuidanceNamesAnInstrumentBlindToMostOfTheRepo = {
   id: "01a06390-4c22-7a40-bb49-2704ba155297",

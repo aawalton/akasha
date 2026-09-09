@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aNumberedFileAddedWithoutItsPageIsClaimedByNobody = {
   id: "01a062bb-0e24-76b0-a8f5-fd7a5bdb0f0c",

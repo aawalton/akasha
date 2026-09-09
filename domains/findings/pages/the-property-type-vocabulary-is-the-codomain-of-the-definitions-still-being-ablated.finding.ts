@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const thePropertyTypeVocabularyIsTheCodomainOfTheDefinitionsStillBeingAblated = {
   id: "01a06759-4acb-7e78-b1a9-e80c8052496b",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const portingAServicePageTakesItsSecretsAway = {
   id: "01a05a59-38f3-7101-a67a-9df4f6ec9c9e",

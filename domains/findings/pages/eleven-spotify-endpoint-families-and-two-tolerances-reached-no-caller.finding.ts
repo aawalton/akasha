@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const elevenSpotifyEndpointFamiliesAndTwoTolerancesReachedNoCaller = {
   id: "01a06275-4a8f-7000-ad23-61dfe69acb27",

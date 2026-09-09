@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aReductionPropertyWouldBeASecondWayToSayWhatPageQueryDeclares = {
   id: "01a06987-867a-7e1b-a00c-15dcfd86d270",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const nothingJudgesThePagesOutsideTheAkashaFolder = {
   id: "01a06101-8d12-71c7-ab24-f9bfdf7962e9",

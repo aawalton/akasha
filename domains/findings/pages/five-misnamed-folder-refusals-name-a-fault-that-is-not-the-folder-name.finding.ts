@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fiveMisnamedFolderRefusalsNameAFaultThatIsNotTheFolderName = {
   id: "01a087c2-1440-770d-86fb-d02f969825ca",

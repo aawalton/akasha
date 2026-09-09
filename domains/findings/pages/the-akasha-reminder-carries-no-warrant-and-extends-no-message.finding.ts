@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theAkashaReminderCarriesNoWarrantAndExtendsNoMessage = {
   id: "01a05f45-8988-7000-89be-e6868f022b9e",

@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const pageListeningStatesConcurrencyByMeasuringCompletionOrder = {
   id: "01a05d97-6c09-7000-b36d-9171fc5f32c2",

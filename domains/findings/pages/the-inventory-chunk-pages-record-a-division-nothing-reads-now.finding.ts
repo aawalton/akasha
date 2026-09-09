@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theInventoryChunkPagesRecordADivisionNothingReadsNow = {
   id: "01a06079-e46f-7444-83b0-d22dc078a55e",

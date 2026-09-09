@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aComponentIsReadFromItsBodyRatherThanFromItsCallers = {
   id: "01a0618d-cd66-7000-ae6b-b1311248b068",

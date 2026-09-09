@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aLandingWhoseCleanupFailsLeavesItsEditsKeptAndRefusesEveryLaterChange = {
   id: "01a0815d-b87e-77c1-aee6-fe4e8de1a70d",

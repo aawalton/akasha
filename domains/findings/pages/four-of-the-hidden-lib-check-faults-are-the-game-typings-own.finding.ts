@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const fourOfTheHiddenLibCheckFaultsAreTheGameTypingsOwn = {
   id: "01a063b0-9db6-7de6-869c-93827128f1fd",

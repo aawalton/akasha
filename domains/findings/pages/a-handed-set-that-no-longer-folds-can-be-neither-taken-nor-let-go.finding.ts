@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aHandedSetThatNoLongerFoldsCanBeNeitherTakenNorLetGo = {
   id: "01a08264-8036-770c-953f-36f911e346ac",

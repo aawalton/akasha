@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aFingerprintFilingThatFailsIsOwedForever = {
   id: "01a060d1-4042-7000-bc74-5b8e6d0d5d0c",

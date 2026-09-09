@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const theTrackedTreeGateIsProvedAtOneCommitAndTheDeployReadsAnother = {
   id: "01a05b91-7ef1-7e2b-923d-34b13b1a6ebd",

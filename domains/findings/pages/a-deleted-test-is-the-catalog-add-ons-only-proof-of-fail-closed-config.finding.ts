@@ -1,4 +1,4 @@
-import type { Finding } from "../finding.page-type.ts"
+import type { Finding } from "../finding.page-type.types.ts"
 
 export const aDeletedTestIsTheCatalogAddOnsOnlyProofOfFailClosedConfig = {
   id: "01a063b0-9da1-79be-afb7-075547fa1d86",
