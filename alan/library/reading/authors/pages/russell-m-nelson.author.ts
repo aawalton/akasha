@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const russellMNelson = {
   id: "01a06807-f091-7029-9175-26c7dfb68063",
   pageTypeSlug: "author",
+  type: "author",
   slug: "russell-m-nelson",
   title: "Russell M. Nelson",
   partOfCollections: ["prophets"],

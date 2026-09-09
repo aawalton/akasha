@@ -3,6 +3,7 @@ import type { ShowCollection } from "../show-collection.page-type.ts"
 export const watchWithJoseph = {
   id: "01a06808-6a77-7016-a977-ec5f736bb7d4",
   pageTypeSlug: "show-collection",
+  type: "show-collection",
   slug: "watch-with-joseph",
   title: "Watch with Joseph",
   partOfCollections: ["shows"],

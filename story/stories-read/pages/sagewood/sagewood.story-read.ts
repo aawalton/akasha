@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const sagewood = {
   id: "01a0657d-ada7-7742-8710-6a8c5d7695f9",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "sagewood",
   title: "Sagewood",
   world: "sagewood",

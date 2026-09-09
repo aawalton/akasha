@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const vinnyMarchi = {
   id: "01a06803-676c-7011-ac08-53a302031f1d",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "vinny-marchi",
   title: "Vinny Marchi",
   partOfCollections: ["artists"],

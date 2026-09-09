@@ -3,6 +3,7 @@ import type { GreatCoursesSubject } from "../great-courses-subject.page-type.ts"
 export const mathematicsGreatCourses = {
   id: "019db533-f3a0-78ef-a6c9-559466c7ea69",
   pageTypeSlug: "great-courses-subject",
+  type: "great-courses-subject",
   slug: "mathematics-great-courses",
   title: "Mathematics Great Courses",
   status: "paused",

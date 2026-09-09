@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const kellyClarkson = {
   id: "019ea4ac-72f8-7756-9707-4c6895f71eed",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "kelly-clarkson",
   title: "Kelly Clarkson",
   externalId: "d339efbb-77b9-4147-ba9e-59f2f24550b2",

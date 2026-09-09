@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const phoenixHealer = {
   id: "01a0657d-ada4-7230-9158-208883dda232",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "phoenix-healer",
   title: "Phoenix Healer",
   world: "phoenix-healer",

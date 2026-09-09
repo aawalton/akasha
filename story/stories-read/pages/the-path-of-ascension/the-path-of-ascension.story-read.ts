@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const thePathOfAscension = {
   id: "01a0657d-ada5-7b20-9cd1-2a64ab101af6",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-path-of-ascension",
   title: "The Path of Ascension",
   world: "the-path-of-ascension",

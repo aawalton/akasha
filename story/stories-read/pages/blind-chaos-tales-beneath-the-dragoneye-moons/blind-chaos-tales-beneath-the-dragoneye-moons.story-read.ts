@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons = {
   id: "01a0657d-ada1-7b15-a27b-2ea2c9119660",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
   rank: "C",
   unit: "words",

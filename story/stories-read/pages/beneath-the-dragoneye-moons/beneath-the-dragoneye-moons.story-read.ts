@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const beneathTheDragoneyeMoons = {
   id: "01a0657d-ada1-79fc-b862-dced705ba492",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
   world: "beneath-the-dragoneye-moons",

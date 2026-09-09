@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const gameOfThrones2 = {
   id: "01a06808-5077-7009-9c65-b22c71412fb6",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "game-of-thrones-2",
   title: "Game of Thrones",
   partOfCollections: ["fantasy-fandoms"],

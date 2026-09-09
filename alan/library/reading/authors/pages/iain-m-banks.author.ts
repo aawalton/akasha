@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const iainMBanks = {
   id: "01a06807-f091-7015-a2cf-d1da2f4b0b96",
   pageTypeSlug: "author",
+  type: "author",
   slug: "iain-m-banks",
   title: "Iain M. Banks",
   partOfCollections: ["science-fiction-authors"],

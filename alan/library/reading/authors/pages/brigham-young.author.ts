@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const brighamYoung = {
   id: "01a06807-f091-7001-8395-48c8672e0fe5",
   pageTypeSlug: "author",
+  type: "author",
   slug: "brigham-young",
   title: "Brigham Young",
   partOfCollections: ["prophets"],

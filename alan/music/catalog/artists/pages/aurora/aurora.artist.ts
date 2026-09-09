@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const aurora = {
   id: "019ea4a2-bf94-7e76-9b55-055406f66eb9",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "aurora",
   title: "AURORA",
   externalId: "484a4e90-6899-4e4b-a948-a2255d365340",

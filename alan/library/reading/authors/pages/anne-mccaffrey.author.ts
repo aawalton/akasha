@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const anneMccaffrey = {
   id: "01a06807-f090-7003-901f-8629ad273fa6",
   pageTypeSlug: "author",
+  type: "author",
   slug: "anne-mccaffrey",
   title: "Anne McCaffrey",
   partOfCollections: ["science-fiction-authors"],

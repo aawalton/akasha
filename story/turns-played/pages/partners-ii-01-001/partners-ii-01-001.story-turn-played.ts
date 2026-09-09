@@ -3,6 +3,7 @@ import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
 export const partnersIi01001 = {
   id: "01a064bd-7ccd-7eb1-b6f4-75456fb558ed",
   pageTypeSlug: "story-turn-played",
+  type: "story-turn-played",
   slug: "partners-ii-01-001",
   partOfCollections: ["story-played/partners-ii"],
   position: 1,

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed = {
   id: "01a0657d-ada4-708f-9d0a-efa1c1d69c9c",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "path-of-the-deathless-book-4-completed",
   unit: "words",
   externalId: "122502",

@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const ledZeppelin = {
   id: "01a06803-676b-7022-8845-9dd2a932aa91",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "led-zeppelin",
   title: "Led Zeppelin",
   partOfCollections: ["artists"],

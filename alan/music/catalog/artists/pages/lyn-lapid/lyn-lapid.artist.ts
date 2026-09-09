@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const lynLapid = {
   id: "01a06803-676b-7027-890c-80707c9be725",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "lyn-lapid",
   title: "Lyn Lapid",
   partOfCollections: ["artists"],

@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const elvisPresley2 = {
   id: "01a06803-676b-700b-be3d-e89a990f229f",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "elvis-presley-2",
   title: "Elvis Presley",
   partOfCollections: ["artists"],

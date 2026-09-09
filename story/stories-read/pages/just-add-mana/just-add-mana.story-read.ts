@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const justAddMana = {
   id: "01a0657d-ada3-7ae9-aaf6-42aa2d3f44aa",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "just-add-mana",
   title: "Just Add Mana",
   world: "just-add-mana",

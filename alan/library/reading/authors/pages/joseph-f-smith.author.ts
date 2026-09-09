@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const josephFSmith = {
   id: "01a06807-f091-701e-a223-024373fed4ef",
   pageTypeSlug: "author",
+  type: "author",
   slug: "joseph-f-smith",
   title: "Joseph F. Smith",
   partOfCollections: ["prophets"],

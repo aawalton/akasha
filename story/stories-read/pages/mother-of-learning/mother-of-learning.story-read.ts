@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const motherOfLearning = {
   id: "01a0657d-ada3-7c5a-8f04-35fd3ddd00f4",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "mother-of-learning",
   title: "Mother of Learning",
   world: "mother-of-learning",

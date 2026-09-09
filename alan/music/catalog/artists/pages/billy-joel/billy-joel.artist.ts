@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const billyJoel = {
   id: "01a06803-676b-7002-a3eb-aaec816b0225",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "billy-joel",
   title: "Billy Joel",
   partOfCollections: ["artists"],

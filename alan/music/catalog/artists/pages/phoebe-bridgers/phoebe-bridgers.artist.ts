@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const phoebeBridgers = {
   id: "01a06803-676c-7004-a9ef-66da0e7a11b6",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "phoebe-bridgers",
   title: "Phoebe Bridgers",
   partOfCollections: ["artists"],

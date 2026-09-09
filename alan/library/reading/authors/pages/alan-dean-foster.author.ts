@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const alanDeanFoster = {
   id: "01a06807-f090-7001-8bf6-fb065864ce4a",
   pageTypeSlug: "author",
+  type: "author",
   slug: "alan-dean-foster",
   title: "Alan Dean Foster",
   partOfCollections: ["science-fiction-authors"],

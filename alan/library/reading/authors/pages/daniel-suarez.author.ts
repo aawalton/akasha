@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const danielSuarez = {
   id: "01a06807-f091-7007-8f00-f7de4bc45bb8",
   pageTypeSlug: "author",
+  type: "author",
   slug: "daniel-suarez",
   title: "Daniel Suarez",
   partOfCollections: ["science-fiction-authors"],

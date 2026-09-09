@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const passiveAggressiveReversePortalInvasionLitrpg = {
   id: "01a0657d-ada4-79fa-beb3-ef8fb1c75ef8",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg",
   title: "Passive Aggressive [Reverse portal invasion LitRPG with a broken build]",
   world: "passive-aggressive-reverse-portal-invasion-litrpg",

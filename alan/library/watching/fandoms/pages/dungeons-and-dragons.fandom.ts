@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const dungeonsAndDragons = {
   id: "01a06808-5077-7007-87c2-aaf641786c0e",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "dungeons-and-dragons",
   title: "Dungeons and Dragons",
   partOfCollections: ["fantasy-fandoms"],

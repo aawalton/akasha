@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const jamesWhite = {
   id: "01a06807-f091-7019-b748-4b625ff43a47",
   pageTypeSlug: "author",
+  type: "author",
   slug: "james-white",
   title: "James White",
   partOfCollections: ["science-fiction-authors"],

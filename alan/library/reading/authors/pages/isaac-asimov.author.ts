@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const isaacAsimov = {
   id: "01a06807-f091-7016-b880-c6b56f10357f",
   pageTypeSlug: "author",
+  type: "author",
   slug: "isaac-asimov",
   title: "Isaac Asimov",
   partOfCollections: ["science-fiction-authors"],

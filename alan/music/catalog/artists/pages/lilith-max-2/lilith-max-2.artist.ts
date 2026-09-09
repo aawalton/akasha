@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const lilithMax2 = {
   id: "01a06803-676b-7024-87fb-bd4ba2438a73",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "lilith-max-2",
   title: "Lilith Max",
   partOfCollections: ["artists"],

@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const jessicaBaio2 = {
   id: "01a06803-676b-701b-b37b-641d46b0b472",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "jessica-baio-2",
   title: "Jessica Baio",
   partOfCollections: ["artists"],

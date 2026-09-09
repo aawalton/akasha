@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const superSupportive = {
   id: "01a0657d-ada5-7cc6-80ff-4b827d0d4403",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "super-supportive",
   title: "Super Supportive",
   world: "super-supportive",

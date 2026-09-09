@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const riseOfTheDragonQueenEvolutionprogression = {
   id: "01a0657d-ada4-7e7a-a51b-1604c98b0bc9",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression",
   title: "Rise Of The Dragon Queen",
   world: "rise-of-the-dragon-queen-evolutionprogression",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const systemChangeSystemUniverse = {
   id: "01a0657d-ada5-75f9-9a2a-f3f4715d70bb",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "system-change-system-universe",
   title: "System Change (System Universe)",
   world: "system-change-system-universe",

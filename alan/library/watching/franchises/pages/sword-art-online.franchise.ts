@@ -3,6 +3,7 @@ import type { Franchise } from "../franchise.page-type.ts"
 export const swordArtOnline = {
   id: "019ea442-6507-7cad-9c65-3c053f1ee123",
   pageTypeSlug: "franchise",
+  type: "franchise",
   slug: "sword-art-online",
   title: "Sword Art Online",
   source: "tmdb",

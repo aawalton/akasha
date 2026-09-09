@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const davidDrake = {
   id: "01a06807-f091-7008-8610-b42c748469ab",
   pageTypeSlug: "author",
+  type: "author",
   slug: "david-drake",
   title: "David Drake",
   partOfCollections: ["science-fiction-authors"],

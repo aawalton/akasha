@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const theGiftOfLoot = {
   id: "01a0657d-ada5-7bb6-89e4-a83e2e103895",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-gift-of-loot",
   title: "The Gift of Loot",
   world: "the-gift-of-loot",

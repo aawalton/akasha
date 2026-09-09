@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const dune2 = {
   id: "01a06808-5077-7006-83db-b6a2466247b2",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "dune-2",
   title: "Dune",
   partOfCollections: ["science-fiction-fandoms"],

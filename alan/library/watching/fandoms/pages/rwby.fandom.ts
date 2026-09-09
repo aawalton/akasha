@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const rwby = {
   id: "01a06808-5078-7007-95d3-9920b7fbea33",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "rwby",
   title: "RWBY",
   partOfCollections: ["anime-fandoms"],

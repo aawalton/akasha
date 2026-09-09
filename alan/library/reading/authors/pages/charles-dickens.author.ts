@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const charlesDickens = {
   id: "01a06807-f091-7003-bb8e-3234bce0dbd5",
   pageTypeSlug: "author",
+  type: "author",
   slug: "charles-dickens",
   title: "Charles Dickens",
   partOfCollections: ["classics-authors"],

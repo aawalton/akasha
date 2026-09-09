@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg = {
   id: "01a0657d-ada2-7e55-ae8b-3245ee80e3c2",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "delver-dungeon-diving-and-magic-litrpg",
   title: "Delver [Dungeon Diving and Magic LitRPG]",
   world: "delver-dungeon-diving-and-magic-litrpg",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const crimsonEternalAnImmortalDeathMageLitrpg = {
   id: "01a0657d-ada1-78e7-85ea-49bf264c4ac7",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg",
   title: "Crimson Eternal: An Immortal Death Mage LitRPG Apocalypse (Book 1 Stubbing in October)",
   world: "crimson-eternal-an-immortal-death-mage-litrpg",

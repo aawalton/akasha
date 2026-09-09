@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const theLordOfTheRings2 = {
   id: "01a06808-5078-700c-ac21-d87190de18fb",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "the-lord-of-the-rings-2",
   title: "The Lord of The Rings",
   partOfCollections: ["fantasy-fandoms"],

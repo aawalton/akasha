@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const darkMatterAscensionLitrpgSwordmageMc = {
   id: "01a0657d-ada1-7886-8712-9a06036377da",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc",
   title: "Dark Matter Ascension",
   world: "dark-matter-ascension-litrpg-swordmage-mc",

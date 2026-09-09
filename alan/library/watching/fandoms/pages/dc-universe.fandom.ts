@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const dcUniverse = {
   id: "01a06808-5077-7004-8c32-194339671fda",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "dc-universe",
   title: "DC Universe",
   partOfCollections: ["superhero-fandoms"],

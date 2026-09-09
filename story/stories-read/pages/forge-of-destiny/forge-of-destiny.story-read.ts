@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const forgeOfDestiny = {
   id: "01a0657d-ada2-78c7-aa02-6301de124020",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "forge-of-destiny",
   title: "Forge of Destiny",
   world: "forge-of-destiny",

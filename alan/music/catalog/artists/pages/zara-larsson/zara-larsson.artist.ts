@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const zaraLarsson = {
   id: "019ea49d-4cae-77bb-905d-4a26379e148e",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "zara-larsson",
   title: "Zara Larsson",
   externalId: "134e6410-6954-45d1-bd4a-0f2d2ad5471d",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const succulentGirlEvolution = {
   id: "01a0657d-ada5-76ca-8051-85917ab3e9b7",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "succulent-girl-evolution",
   title: "Succulent Girl Evolution",
   world: "succulent-girl-evolution",

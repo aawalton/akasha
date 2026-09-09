@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const arthurCClarke = {
   id: "01a06807-f090-7004-88a9-50ef2bf0b4de",
   pageTypeSlug: "author",
+  type: "author",
   slug: "arthur-c-clarke",
   title: "Arthur C. Clarke",
   partOfCollections: ["science-fiction-authors"],

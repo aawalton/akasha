@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const newGam3Plus = {
   id: "01a0657d-ada4-7388-bfc4-edff5af4d4c1",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "new-gam3-plus",
   title: "New Gam3 Plus",
   world: "new-gam3-plus",

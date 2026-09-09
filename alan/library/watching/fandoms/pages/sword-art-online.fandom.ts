@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const swordArtOnline = {
   id: "01a06808-5078-700b-a7ee-e9261b7164ac",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "sword-art-online",
   title: "Sword Art Online",
   partOfCollections: ["anime-fandoms"],

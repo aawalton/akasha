@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const wilfordWoodruff = {
   id: "01a06807-f091-702e-b243-12c0e3c2df28",
   pageTypeSlug: "author",
+  type: "author",
   slug: "wilford-woodruff",
   title: "Wilford Woodruff",
   partOfCollections: ["prophets"],

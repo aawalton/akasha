@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const greenDay = {
   id: "01a06803-676b-7013-ab1e-a09abef060e4",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "green-day",
   title: "Green Day",
   partOfCollections: ["artists"],

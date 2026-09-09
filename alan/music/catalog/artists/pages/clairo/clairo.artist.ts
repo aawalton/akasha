@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const clairo = {
   id: "01a06803-676b-7007-8276-303bac6bb30e",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "clairo",
   title: "Clairo",
   partOfCollections: ["artists"],

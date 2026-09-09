@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const jamesTaylor2 = {
   id: "01a06803-676b-7018-9908-1125e2ef2d1a",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "james-taylor-2",
   title: "James Taylor",
   partOfCollections: ["artists"],

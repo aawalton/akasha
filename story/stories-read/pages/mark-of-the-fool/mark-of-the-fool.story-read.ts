@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const markOfTheFool = {
   id: "01a0657d-ada3-74df-94f3-3108f9c52354",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",
   world: "mark-of-the-fool",

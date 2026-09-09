@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const robertJordan = {
   id: "01a06807-f091-7028-a510-dda867ed7ad3",
   pageTypeSlug: "author",
+  type: "author",
   slug: "robert-jordan",
   title: "Robert Jordan",
   partOfCollections: ["fantasy-authors"],

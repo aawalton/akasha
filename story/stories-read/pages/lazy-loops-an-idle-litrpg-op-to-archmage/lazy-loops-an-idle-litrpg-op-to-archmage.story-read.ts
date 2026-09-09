@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const lazyLoopsAnIdleLitrpgOpToArchmage = {
   id: "01a0657d-ada3-7d39-a332-f8a7bd6f6af5",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage",
   title: "Lazy Loops: An Idle LitRPG [OP to Archmage]",
   world: "lazy-loops-an-idle-litrpg-op-to-archmage",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia = {
   id: "01a0657d-ada2-72a0-a027-2a0e3ac88d8e",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia",
   title: "Heaven-Piercing Giraffe",
   world: "heaven-piercing-giraffe-op-mc-xianxia",

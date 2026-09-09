@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const weirdAlYankovic2 = {
   id: "01a06803-676c-7012-b045-21ef7bb0eb53",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "weird-al-yankovic-2",
   title: "“Weird Al” Yankovic",
   partOfCollections: ["artists"],

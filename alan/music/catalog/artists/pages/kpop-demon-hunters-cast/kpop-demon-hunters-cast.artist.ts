@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const kpopDemonHuntersCast = {
   id: "01a06803-676b-7021-a8df-cdc6e0bf17a3",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "kpop-demon-hunters-cast",
   title: "KPop Demon Hunters Cast",
   partOfCollections: ["artists", "kpop-demon-hunters"],

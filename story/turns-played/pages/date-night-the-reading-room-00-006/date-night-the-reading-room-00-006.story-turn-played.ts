@@ -3,6 +3,7 @@ import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
 export const dateNightTheReadingRoom00006 = {
   id: "01a064bd-7cc6-770f-8e5e-d44b16fa8968",
   pageTypeSlug: "story-turn-played",
+  type: "story-turn-played",
   slug: "date-night-the-reading-room-00-006",
   partOfCollections: ["story-played/date-night-the-reading-room"],
   position: 6,

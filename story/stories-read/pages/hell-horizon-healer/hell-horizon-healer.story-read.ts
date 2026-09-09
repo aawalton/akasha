@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const hellHorizonHealer = {
   id: "01a0657d-ada2-70dd-9afa-5fb0b363dffe",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "hell-horizon-healer",
   title: "Hell Horizon: Healer",
   world: "hell-horizon-healer",

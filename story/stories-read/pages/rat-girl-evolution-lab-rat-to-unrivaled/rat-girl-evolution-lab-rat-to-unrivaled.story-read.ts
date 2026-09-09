@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled = {
   id: "01a0657d-ada4-7a89-9b1d-9a047a6f29a8",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled",
   title: "Rat Girl Evolution",
   world: "rat-girl-evolution-lab-rat-to-unrivaled",

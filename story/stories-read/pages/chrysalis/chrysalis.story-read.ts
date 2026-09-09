@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const chrysalis = {
   id: "01a0657d-ada1-781d-8fa4-06246a43c533",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "chrysalis",
   title: "Chrysalis",
   world: "chrysalis",

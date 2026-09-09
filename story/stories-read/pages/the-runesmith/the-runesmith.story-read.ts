@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const theRunesmith = {
   id: "01a0657d-ada5-79d1-82c0-b37cf484c769",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-runesmith",
   rank: "C",
   unit: "words",

@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const sabrinaCarpenter = {
   id: "01a06803-676c-7007-ad42-2732899cfd52",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "sabrina-carpenter",
   title: "Sabrina Carpenter",
   partOfCollections: ["artists"],

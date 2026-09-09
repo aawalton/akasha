@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const jisoo = {
   id: "01a06803-676b-701c-b06a-7f4bf3c6d543",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "jisoo",
   title: "JISOO",
   partOfCollections: ["artists"],

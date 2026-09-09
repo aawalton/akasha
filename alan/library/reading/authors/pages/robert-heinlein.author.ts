@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const robertHeinlein = {
   id: "01a06807-f091-7027-8d18-ab2da0936b58",
   pageTypeSlug: "author",
+  type: "author",
   slug: "robert-heinlein",
   title: "Robert Heinlein",
   partOfCollections: ["science-fiction-authors"],

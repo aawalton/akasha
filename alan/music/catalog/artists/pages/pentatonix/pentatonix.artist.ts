@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const pentatonix = {
   id: "01a06803-676c-7003-af76-ca9b4c453f63",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "pentatonix",
   title: "Pentatonix",
   partOfCollections: ["artists"],

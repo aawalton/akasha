@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const cSLewis = {
   id: "01a06807-f091-7002-bfdd-29359cc03b97",
   pageTypeSlug: "author",
+  type: "author",
   slug: "c-s-lewis",
   title: "C. S. Lewis",
   partOfCollections: ["faith-authors"],

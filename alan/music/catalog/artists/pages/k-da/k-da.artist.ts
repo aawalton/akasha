@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const kDa = {
   id: "01a06803-676b-701e-902e-5bf1a8b9d455",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "k-da",
   title: "K/DA",
   partOfCollections: ["artists", "league-of-legends"],

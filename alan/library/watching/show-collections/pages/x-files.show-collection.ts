@@ -3,6 +3,7 @@ import type { ShowCollection } from "../show-collection.page-type.ts"
 export const xFiles = {
   id: "01a06808-6a77-7018-9efe-6fe48d04cfca",
   pageTypeSlug: "show-collection",
+  type: "show-collection",
   slug: "x-files",
   title: "X-Files",
   partOfCollections: ["science-fiction-fandoms", "speculative-antholoagies"],

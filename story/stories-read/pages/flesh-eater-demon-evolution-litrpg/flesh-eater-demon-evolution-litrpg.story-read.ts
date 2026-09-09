@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg = {
   id: "01a0657d-ada2-781e-be0f-880ef97c51fe",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "flesh-eater-demon-evolution-litrpg",
   rank: "C",
   unit: "words",

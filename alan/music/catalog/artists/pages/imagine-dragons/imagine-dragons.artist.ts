@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const imagineDragons = {
   id: "019ea496-69af-7f85-bcbc-21cde8492feb",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "imagine-dragons",
   title: "Imagine Dragons",
   externalId: "012151a8-0f9a-44c9-997f-ebd68b5389f9",

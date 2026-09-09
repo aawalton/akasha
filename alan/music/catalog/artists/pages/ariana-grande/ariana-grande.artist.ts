@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const arianaGrande = {
   id: "019ea4df-daa1-7e32-acb9-6cea0dfd1807",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "ariana-grande",
   title: "Ariana Grande",
   externalId: "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",

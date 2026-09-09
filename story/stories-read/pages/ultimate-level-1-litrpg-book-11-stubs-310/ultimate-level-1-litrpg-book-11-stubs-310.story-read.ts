@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const ultimateLevel1LitrpgBook11Stubs310 = {
   id: "01a0657d-ada6-7688-a820-da530cde65e7",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310",
   title: "Ultimate Level 1 LitRPG - Book 11 Stubs 3/10",
   world: "ultimate-level-1-litrpg-book-11-stubs-310",

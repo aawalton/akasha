@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const myLordPleaseACharacterDrivenKingdomBuilding = {
   id: "01a0657d-ada3-772b-b457-0c8e0068b87b",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "my-lord-please-a-character-driven-kingdom-building",
   title: "My Lord! Please! (A Character Driven Kingdom Building Novel)",
   world: "my-lord-please-a-character-driven-kingdom-building",

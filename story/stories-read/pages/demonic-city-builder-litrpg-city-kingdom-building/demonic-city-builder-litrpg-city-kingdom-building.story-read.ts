@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   id: "01a0657d-ada2-74c6-a752-2ce0a42891e6",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building",
   title: "Demonic City Builder [LitRPG, City & Kingdom Building]",
   world: "demonic-city-builder-litrpg-city-kingdom-building",

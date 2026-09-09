@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const loisMcmasterBujold = {
   id: "01a06807-f091-7023-8bce-3bd6062c49df",
   pageTypeSlug: "author",
+  type: "author",
   slug: "lois-mcmaster-bujold",
   title: "Lois McMaster Bujold",
   partOfCollections: ["science-fiction-authors"],

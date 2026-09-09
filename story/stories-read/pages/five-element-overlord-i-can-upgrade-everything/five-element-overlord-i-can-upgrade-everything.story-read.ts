@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything = {
   id: "01a0657d-ada2-734c-96bb-5d18356d9eb4",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "five-element-overlord-i-can-upgrade-everything",
   title: "Five Element Overlord: I Can Upgrade Everything!",
   world: "five-element-overlord-i-can-upgrade-everything",

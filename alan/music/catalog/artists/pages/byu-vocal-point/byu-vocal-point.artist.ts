@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const byuVocalPoint = {
   id: "01a06803-676b-7004-bb76-903473ed7ee8",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "byu-vocal-point",
   title: "BYU Vocal Point",
   position: 0,

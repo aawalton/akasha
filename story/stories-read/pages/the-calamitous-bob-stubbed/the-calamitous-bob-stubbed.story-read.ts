@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const theCalamitousBobStubbed = {
   id: "01a0657d-ada5-7aa1-a19d-bf644f86b49a",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-calamitous-bob-stubbed",
   title: "The Calamitous Bob (stubbed)",
   world: "the-calamitous-bob-stubbed",

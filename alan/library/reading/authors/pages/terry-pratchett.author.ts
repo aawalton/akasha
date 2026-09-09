@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const terryPratchett = {
   id: "01a06807-f091-702b-8b9a-1fd5b59e72b1",
   pageTypeSlug: "author",
+  type: "author",
   slug: "terry-pratchett",
   title: "Terry Pratchett",
   partOfCollections: ["fantasy-authors"],

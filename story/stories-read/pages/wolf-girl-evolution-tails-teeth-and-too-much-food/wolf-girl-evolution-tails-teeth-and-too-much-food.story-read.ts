@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   id: "01a0657d-ada6-72c0-8787-dfbe49e472e8",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   rank: "C",
   unit: "words",

@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const andrewRowe = {
   id: "01a06807-f090-7002-9948-3011bcd9b03d",
   pageTypeSlug: "author",
+  type: "author",
   slug: "andrew-rowe",
   title: "Andrew Rowe",
   partOfCollections: ["fantasy-authors"],

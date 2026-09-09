@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const emieAscended = {
   id: "01a0657d-ada2-7bc7-8dba-9b0da81ef377",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "emie-ascended",
   title: "Emie Ascended",
   world: "emie-ascended",

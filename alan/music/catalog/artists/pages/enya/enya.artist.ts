@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const enya = {
   id: "01a06803-676b-700e-b5dc-e19c81a95c3b",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "enya",
   title: "Enya",
   partOfCollections: ["artists"],

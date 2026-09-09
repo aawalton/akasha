@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   id: "01a0657d-ada4-7ed2-a5aa-31d90e265fa3",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   title: "Quiet Life Of The Mute Archmage (OP Archmage/ Academy/ XianXia/ LITRPG/ Mute MC)",
   world: "quiet-life-of-the-mute-archmage-op-archmage-academy",

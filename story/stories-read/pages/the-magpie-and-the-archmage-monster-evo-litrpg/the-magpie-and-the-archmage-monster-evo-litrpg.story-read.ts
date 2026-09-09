@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   id: "01a0657d-ada5-7118-90a5-c56286b50e57",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   rank: "C",
   unit: "words",

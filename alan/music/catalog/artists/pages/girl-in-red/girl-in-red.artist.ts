@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const girlInRed = {
   id: "01a06803-676b-7011-a6df-f38fecc78fc0",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "girl-in-red",
   title: "girl in red",
   partOfCollections: ["artists"],

@@ -3,6 +3,7 @@ import type { GreatCoursesCollection } from "../great-courses-collection.page-ty
 export const theGreatCourses = {
   id: "019db533-f3a0-7af8-b549-248b004c0bf9",
   pageTypeSlug: "great-courses-collection",
+  type: "great-courses-collection",
   slug: "the-great-courses",
   title: "The Great Courses",
   status: "not-applicable",

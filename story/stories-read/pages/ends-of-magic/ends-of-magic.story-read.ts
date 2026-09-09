@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const endsOfMagic = {
   id: "01a0657d-ada2-7652-87c4-4a1b6b826c35",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "ends-of-magic",
   title: "Ends of Magic",
   world: "ends-of-magic",

@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const davidOMckay = {
   id: "01a06807-f091-700a-9d72-d2b21be3345d",
   pageTypeSlug: "author",
+  type: "author",
   slug: "david-o-mckay",
   title: "David O. McKay",
   partOfCollections: ["prophets"],

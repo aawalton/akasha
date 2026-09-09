@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const starWars2 = {
   id: "01a06808-5078-7009-aef0-2de7f2a6dd95",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "star-wars-2",
   title: "Star Wars",
   partOfCollections: ["science-fiction-fandoms"],

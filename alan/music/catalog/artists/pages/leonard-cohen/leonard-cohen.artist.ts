@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const leonardCohen = {
   id: "01a06803-676b-7023-9822-b93ce4268131",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "leonard-cohen",
   title: "Leonard Cohen",
   partOfCollections: ["artists"],

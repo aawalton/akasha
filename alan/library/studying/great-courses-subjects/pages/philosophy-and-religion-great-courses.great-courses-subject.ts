@@ -3,6 +3,7 @@ import type { GreatCoursesSubject } from "../great-courses-subject.page-type.ts"
 export const philosophyAndReligionGreatCourses = {
   id: "019db533-f3a0-798e-adc6-12dadd6efe6c",
   pageTypeSlug: "great-courses-subject",
+  type: "great-courses-subject",
   slug: "philosophy-and-religion-great-courses",
   title: "Philosophy & Religion Great Courses",
   status: "paused",

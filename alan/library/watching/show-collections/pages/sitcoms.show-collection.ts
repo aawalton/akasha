@@ -3,6 +3,7 @@ import type { ShowCollection } from "../show-collection.page-type.ts"
 export const sitcoms = {
   id: "01a06808-6a77-700f-a93d-6b21007f60d5",
   pageTypeSlug: "show-collection",
+  type: "show-collection",
   slug: "sitcoms",
   title: "Sitcoms",
   partOfCollections: ["shows"],

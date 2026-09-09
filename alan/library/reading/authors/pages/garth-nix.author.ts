@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const garthNix = {
   id: "01a06807-f091-700f-a911-bbe08202a969",
   pageTypeSlug: "author",
+  type: "author",
   slug: "garth-nix",
   title: "Garth Nix",
   partOfCollections: ["fantasy-authors"],

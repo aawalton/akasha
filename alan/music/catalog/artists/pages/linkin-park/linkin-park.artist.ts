@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const linkinPark = {
   id: "01a06803-676b-7026-9fda-d9e54409307d",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "linkin-park",
   title: "Linkin Park",
   partOfCollections: ["artists"],

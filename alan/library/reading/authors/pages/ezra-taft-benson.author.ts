@@ -3,6 +3,7 @@ import type { Author } from "../author.page-type.ts"
 export const ezraTaftBenson = {
   id: "01a06807-f091-700e-befb-1cc3ee302c1d",
   pageTypeSlug: "author",
+  type: "author",
   slug: "ezra-taft-benson",
   title: "Ezra Taft Benson",
   partOfCollections: ["prophets"],

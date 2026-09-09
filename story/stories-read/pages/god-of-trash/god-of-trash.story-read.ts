@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const godOfTrash = {
   id: "01a0657d-ada2-773d-bba6-8d871ec80893",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "god-of-trash",
   ownProgress: 23215,
   rank: "C",

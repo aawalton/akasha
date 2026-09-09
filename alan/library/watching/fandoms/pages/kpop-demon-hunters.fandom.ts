@@ -3,6 +3,7 @@ import type { Fandom } from "../fandom.page-type.ts"
 export const kpopDemonHunters = {
   id: "01a06808-5078-7000-981d-e99e7499621c",
   pageTypeSlug: "fandom",
+  type: "fandom",
   slug: "kpop-demon-hunters",
   title: "KPop Demon Hunters",
   partOfCollections: ["anime-fandoms"],

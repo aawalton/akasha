@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const metaworldHopecore = {
   id: "01a0657d-ada3-7a67-aa3f-d781b58e9ddc",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "metaworld-hopecore",
   title: "Metaworld HopeCore",
   world: "metaworld-hopecore",

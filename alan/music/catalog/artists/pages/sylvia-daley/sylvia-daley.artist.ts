@@ -3,6 +3,7 @@ import type { Artist } from "../../artist.page-type.ts"
 export const sylviaDaley = {
   id: "01a06803-676c-700a-a8bc-f7583737dc27",
   pageTypeSlug: "artist",
+  type: "artist",
   slug: "sylvia-daley",
   title: "Sylvia Daley",
   partOfCollections: ["artists"],

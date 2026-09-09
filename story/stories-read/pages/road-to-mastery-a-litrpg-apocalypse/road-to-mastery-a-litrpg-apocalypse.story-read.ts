@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const roadToMasteryALitrpgApocalypse = {
   id: "01a0657d-ada4-783e-9560-786c933fc500",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "road-to-mastery-a-litrpg-apocalypse",
   title: "Road to Mastery: A LitRPG Apocalypse",
   world: "road-to-mastery-a-litrpg-apocalypse",

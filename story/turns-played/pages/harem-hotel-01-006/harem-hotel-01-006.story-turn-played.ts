@@ -3,6 +3,7 @@ import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
 export const haremHotel01006 = {
   id: "01a064bd-7cca-7653-9251-f19c8f06b269",
   pageTypeSlug: "story-turn-played",
+  type: "story-turn-played",
   slug: "harem-hotel-01-006",
   partOfCollections: ["story-played/harem-hotel"],
   position: 6,

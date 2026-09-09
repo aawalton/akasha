@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const riseOfTheLivingForge = {
   id: "01a0657d-ada4-74da-a446-a75e77410fd0",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
   world: "rise-of-the-living-forge",

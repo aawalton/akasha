@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const dungeonDiverStealingAMonstersPower = {
   id: "01a0657d-ada2-75ab-a38a-67c94e81fc08",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "dungeon-diver-stealing-a-monsters-power",
   title: "Dungeon Diver: Stealing A Monster’s Power",
   world: "dungeon-diver-stealing-a-monsters-power",

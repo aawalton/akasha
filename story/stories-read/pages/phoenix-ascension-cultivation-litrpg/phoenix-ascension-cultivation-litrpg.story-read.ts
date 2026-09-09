@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg = {
   id: "01a0657d-ada4-766d-995d-5c6bf82373eb",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
   rank: "C",
   unit: "words",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const thePrimalHunter = {
   id: "01a0657d-ada5-71f0-bf49-36b935e70225",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "the-primal-hunter",
   title: "The Primal Hunter",
   world: "the-primal-hunter",
