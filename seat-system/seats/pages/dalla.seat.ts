@@ -7,7 +7,7 @@ export const dalla = {
   personaSlug: "dalla",
   assignmentSlug: "initiative/dalla-draft-into-a-patch",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
