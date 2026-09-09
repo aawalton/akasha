@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noNonNullAssertion = {
   id: "01a05964-deb4-7557-82b0-293c12e0bf59",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-non-null-assertion",
   definition:
     "the rule refusing a value called present with `!` where the types say it may be absent",

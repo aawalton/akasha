@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noAkashaCommandFromCode = {
   id: "01a05a75-206d-71dc-87f5-7b633a8f8658",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-akasha-command-from-code",
   definition: "the rule refusing a call that runs the akasha command from inside akasha",
   code: "ts",

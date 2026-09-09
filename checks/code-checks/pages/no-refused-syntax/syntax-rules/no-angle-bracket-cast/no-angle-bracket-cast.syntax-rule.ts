@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noAngleBracketCast = {
   id: "01a05964-deb4-78ba-943a-0870780ca4d5",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-angle-bracket-cast",
   definition: "the rule refusing an assertion written as `<Type>value`",
   code: "ts",

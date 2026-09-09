@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noLibcByName = {
   id: "01a05030-729c-7c85-8f48-e6357917f933",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-libc-by-name",
   definition:
     "the rule refusing a core system library opened by name rather than the one already mapped",

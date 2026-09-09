@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noBodyReadBesideAnIndex = {
   id: "01a06428-de96-7f88-b896-bf883f93871c",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-body-read-beside-an-index",
   definition:
     "the rule refusing a page body read off a repository root by code already handed the index",

@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noVoidReturn = {
   id: "01a0502e-a144-778b-8b3c-5e4f4be4713d",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-void-return",
   definition: "the rule refusing `void` where a function written here states its return type",
   code: "ts",

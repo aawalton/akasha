@@ -3,6 +3,7 @@ import type { SyntaxRule } from "../syntax-rule.page-type.ts"
 export const noVoidSelfInObjectMethod = {
   id: "01a05031-0197-7c3c-a886-b0297dd3adcf",
   pageTypeSlug: "syntax-rule",
+  type: "syntax-rule",
   slug: "no-void-self-in-object-method",
   definition: "the rule refusing `this: void` on a method written into an object literal",
   code: "ts",
