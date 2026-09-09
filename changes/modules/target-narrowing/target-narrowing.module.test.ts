@@ -19,7 +19,7 @@ function worldOf(named: Readonly<Record<string, string>>): World {
     index: Object.assign({} as World["index"], {
       pageAt: (_pageType: string, slug: string) => {
         const held = named[slug]
-        return held === undefined ? null : { parentSlug: held }
+        return held === undefined ? null : { parent: held }
       },
     }),
     textOf: () => null,

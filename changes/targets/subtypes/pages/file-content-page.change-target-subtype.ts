@@ -6,5 +6,5 @@ export const fileContentPage = {
   slug: "file-content-page",
   definition: "a body read as a page",
   changeTargetType: "change-target-type/file-content",
-  parentSlug: "change-target-subtype/file-content-code",
+  parent: "change-target-subtype/file-content-code",
 } as const satisfies ChangeTargetSubtype

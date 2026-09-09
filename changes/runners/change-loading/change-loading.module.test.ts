@@ -167,7 +167,7 @@ function judging(acts: string | null): World {
       pageAt: (pageType: string, slug: string) => {
         if (pageType === SUBTYPE) {
           const held = SUBTYPES[slug]
-          return held === undefined ? null : { parentSlug: held }
+          return held === undefined ? null : { parent: held }
         }
         return acts === null ? {} : { changeTargetSubtypeSlug: acts }
       },

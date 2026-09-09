@@ -6,5 +6,5 @@ export const fileCode = {
   slug: "file-code",
   definition: "a file holding code",
   changeTargetType: "change-target-type/file",
-  parentSlug: "change-target-subtype/file",
+  parent: "change-target-subtype/file",
 } as const satisfies ChangeTargetSubtype
