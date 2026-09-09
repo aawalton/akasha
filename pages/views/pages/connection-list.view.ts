@@ -5,7 +5,7 @@ export const connectionList = {
   pageTypeSlug: "view",
   slug: "connection-list",
   title: "List",
-  navSlug: "connection",
+  nav: "connection",
   pageType: "relationship",
   viewPlace: 0,
 } as const satisfies View

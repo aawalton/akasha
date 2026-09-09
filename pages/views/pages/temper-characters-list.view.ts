@@ -5,7 +5,7 @@ export const temperCharactersList = {
   pageTypeSlug: "view",
   slug: "temper-characters-list",
   title: "List",
-  navSlug: "temper-characters",
+  nav: "temper-characters",
   pageType: "temper-account-character",
   viewPlace: 0,
   viewSorts: [{ key: "sort-order", descending: false }],

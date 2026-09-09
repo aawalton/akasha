@@ -5,7 +5,7 @@ export const temperTasksAll = {
   pageTypeSlug: "view",
   slug: "temper-tasks-all",
   title: "All",
-  navSlug: "temper-tasks",
+  nav: "temper-tasks",
   pageType: "temper-task",
   viewPlace: 4,
   viewSorts: [{ key: "display-order", descending: false }],

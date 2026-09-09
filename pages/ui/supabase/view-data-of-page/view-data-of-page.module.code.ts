@@ -213,7 +213,7 @@ function groupByOf(value: unknown): string | undefined {
 
 export function isFileSpelledView(properties: Readonly<Record<string, unknown>>): boolean {
   return (
-    properties.navSlug !== undefined ||
+    properties.nav !== undefined ||
     properties.pageType !== undefined ||
     properties.narrows !== undefined ||
     properties.viewSorts !== undefined ||

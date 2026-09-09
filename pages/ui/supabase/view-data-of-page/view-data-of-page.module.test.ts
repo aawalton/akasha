@@ -3,7 +3,7 @@ import { isFileSpelledView, viewDataOfPage } from "./view-data-of-page.module.co
 
 const TASKS_TODAY = {
   title: "Today",
-  navSlug: "tasks",
+  nav: "tasks",
   viewPlace: 0,
   layout: "cards",
   pageType: "to-do",
@@ -16,7 +16,7 @@ const TASKS_TODAY = {
 }
 
 test("a view carrying its nav item alone is read from its file", () => {
-  expect(isFileSpelledView({ navSlug: "tasks", title: "Tasks", viewPlace: 0 })).toBe(true)
+  expect(isFileSpelledView({ nav: "tasks", title: "Tasks", viewPlace: 0 })).toBe(true)
 })
 
 test("a view whose settings the browser wrote is not read from its file", () => {
@@ -40,7 +40,7 @@ test("a narrow becomes the filter that narrow names", () => {
 
 test("a narrow over many values keeps every value", () => {
   const data = viewDataOfPage({
-    navSlug: "anime-and-shows",
+    nav: "anime-and-shows",
     narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
   })
   expect(data?.filters).toEqual([
@@ -50,7 +50,7 @@ test("a narrow over many values keeps every value", () => {
 
 test("a narrow over one value takes that value rather than the list holding it", () => {
   const data = viewDataOfPage({
-    navSlug: "stories",
+    nav: "stories",
     narrows: [{ key: "partOf", comparison: "is", values: ["the-wandering-inn"] }],
   })
   expect(data?.filters).toEqual([
@@ -60,7 +60,7 @@ test("a narrow over one value takes that value rather than the list holding it",
 
 test("a narrow on emptiness carries no value", () => {
   const data = viewDataOfPage({
-    navSlug: "tasks",
+    nav: "tasks",
     narrows: [{ key: "completed-at", comparison: "empty", values: ["true"] }],
   })
   expect(data?.filters).toEqual([{ propertyId: "completedAt", operator: "is_empty" }])
@@ -75,7 +75,7 @@ test("a view's sorts keep their order and their direction", () => {
 })
 
 test("a cross-type view is read by the predicate it names", () => {
-  const data = viewDataOfPage({ navSlug: "home", viewPredicate: "favorites" })
+  const data = viewDataOfPage({ nav: "home", viewPredicate: "favorites" })
   expect(data?.crossTypeSource).toEqual({ predicateKey: "favorites" })
 })
 

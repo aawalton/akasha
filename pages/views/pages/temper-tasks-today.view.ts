@@ -5,7 +5,7 @@ export const temperTasksToday = {
   pageTypeSlug: "view",
   slug: "temper-tasks-today",
   title: "Today",
-  navSlug: "temper-tasks",
+  nav: "temper-tasks",
   pageType: "temper-task",
   viewPlace: 0,
   narrows: [

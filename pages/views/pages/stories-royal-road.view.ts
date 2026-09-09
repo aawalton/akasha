@@ -5,7 +5,7 @@ export const storiesRoyalRoad = {
   pageTypeSlug: "view",
   slug: "stories-royal-road",
   title: "Royal Road",
-  navSlug: "stories",
+  nav: "stories",
   pageType: "story-read",
   viewPlace: 1,
   layout: "list",

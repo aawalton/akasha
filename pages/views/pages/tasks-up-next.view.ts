@@ -5,7 +5,7 @@ export const tasksUpNext = {
   pageTypeSlug: "view",
   slug: "tasks-up-next",
   title: "Up Next",
-  navSlug: "tasks",
+  nav: "tasks",
   pageType: "to-do",
   viewPlace: 1,
   narrows: [

@@ -5,7 +5,7 @@ export const booksToRead = {
   pageTypeSlug: "view",
   slug: "books-to-read",
   title: "To Read",
-  navSlug: "books",
+  nav: "books",
   pageType: "ki-book",
   viewPlace: 1,
   layout: "cards",

@@ -5,7 +5,7 @@ export const storiesAnthology = {
   pageTypeSlug: "view",
   slug: "stories-anthology",
   title: "Anthology",
-  navSlug: "stories",
+  nav: "stories",
   pageType: "story-chapter-written",
   layout: "list",
   narrows: [{ key: "partOf", comparison: "is", values: ["anthology"] }],

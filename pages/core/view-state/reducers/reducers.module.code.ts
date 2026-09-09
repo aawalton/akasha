@@ -55,7 +55,7 @@ function buildViewProperties(args: {
   const written: { propertyId: string; value: unknown }[] = [
     { propertyId: "title", value: args.name },
     { propertyId: "slug", value: slugForView(args.name, args.ownerNavSlug, args.taken) },
-    { propertyId: "navSlug", value: args.ownerNavSlug },
+    { propertyId: "nav", value: args.ownerNavSlug },
     { propertyId: "viewPlace", value: args.viewPlace },
   ]
   if (args.data.layout !== undefined) {

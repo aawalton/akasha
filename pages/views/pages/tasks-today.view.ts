@@ -5,7 +5,7 @@ export const tasksToday = {
   pageTypeSlug: "view",
   slug: "tasks-today",
   title: "Today",
-  navSlug: "tasks",
+  nav: "tasks",
   pageType: "to-do",
   viewPlace: 0,
   layout: "cards",

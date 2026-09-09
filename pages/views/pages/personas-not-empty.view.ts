@@ -5,7 +5,7 @@ export const personasNotEmpty = {
   pageTypeSlug: "view",
   slug: "personas-not-empty",
   title: "Not Empty",
-  navSlug: "personas",
+  nav: "personas",
   pageType: "persona",
   viewPlace: 0,
   layout: "notes",

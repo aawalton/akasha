@@ -5,7 +5,7 @@ export const homeFavorites = {
   pageTypeSlug: "view",
   slug: "home-favorites",
   title: "Favorites",
-  navSlug: "home",
+  nav: "home",
   viewPredicate: "favorites",
   viewPlace: 0,
   layout: "table",

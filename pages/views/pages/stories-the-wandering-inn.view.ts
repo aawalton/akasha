@@ -5,7 +5,7 @@ export const storiesTheWanderingInn = {
   pageTypeSlug: "view",
   slug: "stories-the-wandering-inn",
   title: "The Wandering Inn",
-  navSlug: "stories",
+  nav: "stories",
   pageType: "story-chapter-read",
   viewPlace: 0,
   layout: "list",

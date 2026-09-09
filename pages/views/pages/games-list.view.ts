@@ -5,7 +5,7 @@ export const gamesList = {
   pageTypeSlug: "view",
   slug: "games-list",
   title: "List",
-  navSlug: "games",
+  nav: "games",
   pageType: "game",
   viewPlace: 0,
   layout: "cards",

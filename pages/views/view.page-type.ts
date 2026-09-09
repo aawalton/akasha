@@ -14,7 +14,7 @@ import type { ItemPageSize } from "./properties/item-page-size.number-property.t
 import type { Layout } from "./properties/layout.select-property.ts"
 import type { LiveRefreshMs } from "./properties/live-refresh-ms.number-property.ts"
 import type { LockedPageType } from "./properties/locked-page-type.boolean-property.ts"
-import type { NavSlug } from "./properties/nav-slug.relation-property.ts"
+import type { Nav } from "./properties/nav.relation-property.ts"
 import type { PageSize } from "./properties/page-size.number-property.ts"
 import type { ReorderCommand } from "./properties/reorder-command.text-property.ts"
 import type { ViewPageType } from "./properties/view-page-type.relation-property.ts"
@@ -25,7 +25,7 @@ import type { VisibleProperties } from "./properties/visible-properties.text-pro
 
 export type View = Page & {
   title: Title
-  navSlug: NavSlug
+  nav: Nav
   pageType?: ViewPageType
   viewPredicate?: ViewPredicate
   viewPlace?: ViewPlace
@@ -65,7 +65,7 @@ export const view = {
     "number-property/view-place",
     "record-property/group-sorts",
     "record-property/view-sorts",
-    "relation-property/nav-slug",
+    "relation-property/nav",
     "relation-property/view-page-type",
     "select-property/gallery-card-size",
     "select-property/group-granularity",
@@ -81,7 +81,7 @@ export const view = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/nav-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/nav", required: true, many: false },
     { pagePropertySlug: "relation-property/view-page-type", required: false, many: false },
     { pagePropertySlug: "text-property/view-predicate", required: false, many: false },
     { pagePropertySlug: "number-property/view-place", required: false, many: false },

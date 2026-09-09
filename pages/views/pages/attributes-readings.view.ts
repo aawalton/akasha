@@ -5,7 +5,7 @@ export const attributesReadings = {
   pageTypeSlug: "view",
   slug: "attributes-readings",
   title: "Readings",
-  navSlug: "attributes",
+  nav: "attributes",
   pageType: "readout",
   viewPlace: 0,
   layout: "table",

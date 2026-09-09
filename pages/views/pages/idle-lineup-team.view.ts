@@ -5,7 +5,7 @@ export const idleLineupTeam = {
   pageTypeSlug: "view",
   slug: "idle-lineup-team",
   title: "Team",
-  navSlug: "idle-lineup",
+  nav: "idle-lineup",
   pageType: "idle-persona-card",
   viewPlace: 0,
   layout: "gallery",

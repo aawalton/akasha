@@ -155,7 +155,7 @@ export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | und
     if (navItemSlug == null || navItemSlug === "") {
       return [{ key: "id", eq: NEVER_MATCH_VALUE }]
     }
-    return [{ key: "navSlug", eq: navItemSlug }]
+    return [{ key: "nav", eq: navItemSlug }]
   }, [navItemSlug])
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({

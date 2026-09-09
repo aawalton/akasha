@@ -5,7 +5,7 @@ export const computersList = {
   pageTypeSlug: "view",
   slug: "computers-list",
   title: "List",
-  navSlug: "computers",
+  nav: "computers",
   pageType: "computer",
   viewPlace: 0,
   layout: "table",

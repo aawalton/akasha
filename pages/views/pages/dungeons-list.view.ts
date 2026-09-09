@@ -5,7 +5,7 @@ export const dungeonsList = {
   pageTypeSlug: "view",
   slug: "dungeons-list",
   title: "List",
-  navSlug: "dungeons",
+  nav: "dungeons",
   pageType: "temper-dungeon",
   viewPlace: 0,
   viewSorts: [{ key: "rotation-position", descending: true }],

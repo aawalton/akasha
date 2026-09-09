@@ -5,7 +5,7 @@ export const personasSeats = {
   pageTypeSlug: "view",
   slug: "personas-seats",
   title: "Seats",
-  navSlug: "personas",
+  nav: "personas",
   pageType: "seat",
   viewPlace: 4,
   layout: "table",

@@ -5,7 +5,7 @@ export const widgetsUse = {
   pageTypeSlug: "view",
   slug: "widgets-use",
   title: "Use",
-  navSlug: "widgets",
+  nav: "widgets",
   pageType: "readout-widget",
   viewPlace: 0,
   layout: "table",

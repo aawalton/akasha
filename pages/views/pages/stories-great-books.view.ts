@@ -5,7 +5,7 @@ export const storiesGreatBooks = {
   pageTypeSlug: "view",
   slug: "stories-great-books",
   title: "Great Books",
-  navSlug: "stories",
+  nav: "stories",
   pageType: "book-section",
   viewPlace: 3,
   layout: "list",

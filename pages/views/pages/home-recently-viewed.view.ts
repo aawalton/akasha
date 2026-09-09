@@ -5,7 +5,7 @@ export const homeRecentlyViewed = {
   pageTypeSlug: "view",
   slug: "home-recently-viewed",
   title: "Recently Viewed",
-  navSlug: "home",
+  nav: "home",
   viewPredicate: "recently-viewed",
   viewPlace: 1,
   layout: "table",

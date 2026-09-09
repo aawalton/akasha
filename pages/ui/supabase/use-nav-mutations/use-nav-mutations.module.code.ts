@@ -21,9 +21,6 @@ export function slugFromName(name: string): string {
   return stem === "" ? "nav" : stem
 }
 
-// A NAV SLUG IS ALONE AMONG EVERY NAV THERE IS. A slug is unique among the pages of its page type
-// rather than within one app, so a stem free under this app can already name another app's nav
-// item, and creating it there would write over that page rather than beside it.
 async function freeNavSlug(name: string): Promise<string> {
   const stem = slugFromName(name)
   const { rows } = await getPages({
@@ -39,9 +36,6 @@ async function freeNavSlug(name: string): Promise<string> {
   }
 }
 
-// A NAV ITEM NAMES ANOTHER NAV ITEM BY SLUG. `navParent` is a relation carrying a slug, and the
-// interface hands over the parent's page id, so the slug is read off the parent before it is
-// written. A parent id naming no page answers null, which puts the child at the top.
 async function navSlugOfId(pageId: string | null): Promise<string | null> {
   if (pageId === null) return null
   const { rows } = await getPages({
@@ -148,7 +142,7 @@ export function useNavMutations(appSlug: string) {
 
       const { rows: itsViews } = await getPages({
         pageTypeSlug: VIEW_SLUG,
-        where: [{ key: "navSlug", eq: navSlug }],
+        where: [{ key: "nav", eq: navSlug }],
         select: ["id"],
         limit: 50,
       })
@@ -158,7 +152,7 @@ export function useNavMutations(appSlug: string) {
           properties: {
             title: "List",
             slug: `${navSlug}-list`,
-            navSlug,
+            nav: navSlug,
             viewPlace: 0,
           },
           select: ["id"],

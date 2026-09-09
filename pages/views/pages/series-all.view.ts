@@ -5,7 +5,7 @@ export const seriesAll = {
   pageTypeSlug: "view",
   slug: "series-all",
   title: "All",
-  navSlug: "series",
+  nav: "series",
   pageType: "ki-book-series",
   viewPlace: 0,
   layout: "cards",

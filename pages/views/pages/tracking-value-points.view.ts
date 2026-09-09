@@ -5,7 +5,7 @@ export const trackingValuePoints = {
   pageTypeSlug: "view",
   slug: "tracking-value-points",
   title: "Value Points",
-  navSlug: "tracking",
+  nav: "tracking",
   pageType: "day",
   viewPlace: 2,
   layout: "table",

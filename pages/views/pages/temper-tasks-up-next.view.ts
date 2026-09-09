@@ -5,7 +5,7 @@ export const temperTasksUpNext = {
   pageTypeSlug: "view",
   slug: "temper-tasks-up-next",
   title: "Up Next",
-  navSlug: "temper-tasks",
+  nav: "temper-tasks",
   pageType: "temper-task",
   viewPlace: 1,
   narrows: [{ key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] }],

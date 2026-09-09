@@ -5,7 +5,7 @@ export const alanwaltonIdentityThemes = {
   pageTypeSlug: "view",
   slug: "alanwalton-identity-themes",
   title: "Themes",
-  navSlug: "alanwalton-identity",
+  nav: "alanwalton-identity",
   pageType: "life-theme",
   viewPlace: 1,
   layout: "cards",

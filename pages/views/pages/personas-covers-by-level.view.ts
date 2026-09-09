@@ -5,7 +5,7 @@ export const personasCoversByLevel = {
   pageTypeSlug: "view",
   slug: "personas-covers-by-level",
   title: "Covers by Level",
-  navSlug: "personas",
+  nav: "personas",
   pageType: "persona-cover-image",
   viewPlace: 7,
   layout: "gallery",

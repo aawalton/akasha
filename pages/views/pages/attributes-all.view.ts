@@ -5,7 +5,7 @@ export const attributesAll = {
   pageTypeSlug: "view",
   slug: "attributes-all",
   title: "All",
-  navSlug: "attributes",
+  nav: "attributes",
   pageType: "attribute",
   viewPlace: 1,
   layout: "table",

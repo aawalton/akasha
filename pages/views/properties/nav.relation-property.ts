@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type NavSlug = Slug
+export type Nav = Slug
 
-export const navSlug = {
+export const nav = {
   id: "01a0680d-4d00-7001-8a73-4f2c6d9e4102",
   pageTypeSlug: "relation-property",
-  slug: "nav-slug",
-  propertySlug: "nav-slug",
+  slug: "nav",
+  propertySlug: "nav",
   definition: "the nav item a view sits under",
   targetPageTypeSlug: "page-type/nav",
   invariants: [
