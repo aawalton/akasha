@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
-import type { StartsOn } from "./properties/starts-on.calendar-date-property.ts"
-import type { Transactions } from "./properties/transactions.page-property-entry.ts"
-
-export type MonarchMonth = MonarchRecord & {
-  startsOn: StartsOn
-  transactions: Transactions
-}
 
 export const monarchMonth = {
   id: "01a0680b-2b00-7012-a659-4d8f2c7e2113",
@@ -65,4 +57,5 @@ export const monarchMonth = {
       statement: "Every word about the money is carried by the transactions beside the month.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

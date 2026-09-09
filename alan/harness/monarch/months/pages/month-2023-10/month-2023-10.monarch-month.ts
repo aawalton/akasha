@@ -1,4 +1,4 @@
-import type { MonarchMonth } from "../../monarch-month.page-type.ts"
+import type { MonarchMonth } from "../../monarch-month.page-type.types.ts"
 
 export const month202310 = {
   id: "01a06559-5eb5-7000-adfa-4ba2e15fa699",
