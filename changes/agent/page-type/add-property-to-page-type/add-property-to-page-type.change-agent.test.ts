@@ -111,7 +111,7 @@ test("the property is named among the page type's parts in the same answer", asy
   const seen: Reached[] = []
   await answering(seen)
   expect(seen[1]?.at).toBe(VALUE)
-  expect(seen[1]?.given.key).toBe("partSlugs")
+  expect(seen[1]?.given.key).toBe("parts")
   expect(seen[1]?.given.value).toBe(PROPERTY)
 })
 

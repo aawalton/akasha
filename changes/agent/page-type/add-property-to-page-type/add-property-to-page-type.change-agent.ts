@@ -25,6 +25,14 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
+      statement: "The part is put in keyed `parts` rather than under a second key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type naming no part yet gains its first part under that same key.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A declaration with many values states a count.",
     },
     {
