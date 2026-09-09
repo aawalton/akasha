@@ -5,13 +5,13 @@ import { indexValue } from "@akasha/indexes/value/page"
 import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
+import { followFolders, followWithin } from "@akasha/service/file-following"
 import {
   MARK_TAIL,
   marksIn,
   seatByShellPid,
   seatMarksAt,
-} from "@akasha/seat-system/terminal-seat-marks"
-import { followFolders, followWithin } from "@akasha/service/file-following"
+} from "../../../../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
   decide,
   type Held,

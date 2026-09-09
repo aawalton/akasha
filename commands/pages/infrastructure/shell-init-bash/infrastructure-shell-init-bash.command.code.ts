@@ -1,6 +1,6 @@
 import { aliasIndexesIn } from "@akasha/agents/claude-account-reading"
-import type { AliasEntry } from "@akasha/seat-system/terminal-bash"
-import { generateBashInit } from "@akasha/seat-system/terminal-bash"
+import type { AliasEntry } from "../../../../seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
+import { generateBashInit } from "../../../../seat-system/terminal-shell/terminal-bash/terminal-bash.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

@@ -1,6 +1,6 @@
 import { notices } from "@akasha/seat-system/compose-notices"
-import { SEAT_ATTACH_FN } from "@akasha/seat-system/terminal-seat-marks"
 import { z } from "zod"
+import { SEAT_ATTACH_FN } from "../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 
 export interface SeatToggleState {
