@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Three `ios-app` folders must stay packages: `app-building` rsyncs the app folder and three shared paths to `$HOME/.akasha-ios-build`, carrying neither root manifest nor lockfile, and `build-sim` runs `npm install` there against six registry-pinned `@capacitor/*` deps and no `workspace:*`. Every other folder reproduces the root install. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches; 19 packages are named from them.",
+        "Three `ios-app` folders are packages today only because one route delivers them apart from the root: `app-building` rsyncs the app folder and three shared paths to `$HOME/.akasha-ios-build` carrying no root manifest, and `build-sim` runs `npm install` there against six registry-pinned `@capacitor/*` deps. The native-app intent above retires that route. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches; 19 packages are named from them.",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
