@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0432Chapter395BaelokDescrier = {
   position: 432,
   ownLength: 2646,
   ownProgress: 2646,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:40.536Z",
   publishedAt: "2025-09-30",
   externalLink:

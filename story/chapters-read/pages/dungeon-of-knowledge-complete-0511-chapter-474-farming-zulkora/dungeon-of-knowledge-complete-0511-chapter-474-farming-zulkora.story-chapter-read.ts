@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0511Chapter474FarmingZulkora = {
   position: 511,
   ownLength: 1630,
   ownProgress: 1630,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:35.661Z",
   publishedAt: "2025-12-13",
   externalLink:

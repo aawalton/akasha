@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0197Chapter194DinnerAndGuests1Of2 = {
   position: 197,
   ownLength: 3748,
   ownProgress: 3748,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:47.361Z",
   publishedAt: "2025-02-06",
   externalLink:

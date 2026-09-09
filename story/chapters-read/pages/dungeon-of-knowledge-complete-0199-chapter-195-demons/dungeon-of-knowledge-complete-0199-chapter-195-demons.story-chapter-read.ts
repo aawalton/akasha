@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0199Chapter195Demons = {
   position: 199,
   ownLength: 5802,
   ownProgress: 5802,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:51.924Z",
   publishedAt: "2025-02-09",
   externalLink:

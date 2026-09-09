@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0310Chapter276ChallengeArena = {
   position: 310,
   ownLength: 2111,
   ownProgress: 2111,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:48.044Z",
   publishedAt: "2025-06-11",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0385Chapter348TwinsPart2 = {
   position: 385,
   ownLength: 2298,
   ownProgress: 2298,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:00.073Z",
   publishedAt: "2025-08-16",
   externalLink:

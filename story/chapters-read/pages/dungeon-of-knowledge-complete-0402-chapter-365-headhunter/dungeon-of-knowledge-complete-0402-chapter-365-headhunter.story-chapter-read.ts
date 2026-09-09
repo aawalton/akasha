@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0402Chapter365Headhunter = {
   position: 402,
   ownLength: 2510,
   ownProgress: 2510,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:37.561Z",
   publishedAt: "2025-09-02",
   externalLink:

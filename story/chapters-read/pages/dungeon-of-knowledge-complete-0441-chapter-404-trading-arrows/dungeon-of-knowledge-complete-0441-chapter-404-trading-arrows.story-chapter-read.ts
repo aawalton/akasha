@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0441Chapter404TradingArrows = {
   position: 441,
   ownLength: 2351,
   ownProgress: 2351,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:59.807Z",
   publishedAt: "2025-10-09",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0253Chapter223GhoulishContagionPart1 = {
   position: 253,
   ownLength: 2465,
   ownProgress: 2465,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:45.314Z",
   publishedAt: "2025-04-13",
   externalLink:

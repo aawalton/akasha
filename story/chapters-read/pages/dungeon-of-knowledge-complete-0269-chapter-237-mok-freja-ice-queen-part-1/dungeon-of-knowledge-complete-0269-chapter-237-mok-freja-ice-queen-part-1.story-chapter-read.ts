@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0269Chapter237MokFrejaIceQueenPart1 = {
   position: 269,
   ownLength: 2091,
   ownProgress: 2091,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:20.383Z",
   publishedAt: "2025-05-01",
   externalLink:

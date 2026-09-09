@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0435Chapter398ScionOfAzryet = {
   position: 435,
   ownLength: 3388,
   ownProgress: 3388,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:46.800Z",
   publishedAt: "2025-10-03",
   externalLink:

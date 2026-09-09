@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0413Chapter376AllGoldRaidPart2 = {
   position: 413,
   ownLength: 2531,
   ownProgress: 2531,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:00.754Z",
   publishedAt: "2025-09-13",
   externalLink:

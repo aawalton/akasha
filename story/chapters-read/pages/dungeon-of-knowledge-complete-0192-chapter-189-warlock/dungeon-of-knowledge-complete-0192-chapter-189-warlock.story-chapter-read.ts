@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0192Chapter189Warlock = {
   position: 192,
   ownLength: 3851,
   ownProgress: 3851,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:36.656Z",
   publishedAt: "2025-01-28",
   externalLink:

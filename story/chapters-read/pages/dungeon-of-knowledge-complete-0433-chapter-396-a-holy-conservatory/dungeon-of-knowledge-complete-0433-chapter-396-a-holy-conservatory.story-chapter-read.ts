@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0433Chapter396AHolyConservatory = {
   position: 433,
   ownLength: 2761,
   ownProgress: 2761,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:42.739Z",
   publishedAt: "2025-10-01",
   externalLink:

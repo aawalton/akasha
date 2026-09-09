@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0485Chapter448DownTheGullet = {
   position: 485,
   ownLength: 2972,
   ownProgress: 2972,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:39.438Z",
   publishedAt: "2025-11-20",
   externalLink:

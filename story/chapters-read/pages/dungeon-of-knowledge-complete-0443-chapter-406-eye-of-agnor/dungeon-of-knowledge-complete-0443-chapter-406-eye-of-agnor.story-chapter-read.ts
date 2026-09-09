@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0443Chapter406EyeOfAgnor = {
   position: 443,
   ownLength: 2785,
   ownProgress: 2785,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:08.860Z",
   publishedAt: "2025-10-11",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0365Chapter328TheWindsOfChange = {
   position: 365,
   ownLength: 1631,
   ownProgress: 1631,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:58.442Z",
   publishedAt: "2025-07-30",
   externalLink:

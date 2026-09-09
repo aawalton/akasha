@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0497Chapter460ZulkoraRift = {
   position: 497,
   ownLength: 1740,
   ownProgress: 1740,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:05.515Z",
   publishedAt: "2025-11-30",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0480Chapter443TheCycleOfRebirth = {
   position: 480,
   ownLength: 4299,
   ownProgress: 4299,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:28.856Z",
   publishedAt: "2025-11-15",
   externalLink:

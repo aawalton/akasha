@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0190Chapter187ABeaconOfLight = {
   position: 190,
   ownLength: 4365,
   ownProgress: 4365,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:32.268Z",
   publishedAt: "2025-01-23",
   externalLink:

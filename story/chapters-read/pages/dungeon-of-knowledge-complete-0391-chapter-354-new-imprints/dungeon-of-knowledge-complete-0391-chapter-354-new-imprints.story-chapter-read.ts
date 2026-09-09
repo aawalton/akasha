@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0391Chapter354NewImprints = {
   position: 391,
   ownLength: 3300,
   ownProgress: 3300,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:12.720Z",
   publishedAt: "2025-08-22",
   externalLink:

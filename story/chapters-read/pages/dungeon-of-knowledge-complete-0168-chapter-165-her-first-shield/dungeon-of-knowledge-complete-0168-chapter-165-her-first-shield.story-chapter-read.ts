@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0168Chapter165HerFirstShield = {
   position: 168,
   ownLength: 4465,
   ownProgress: 4465,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:42.859Z",
   publishedAt: "2024-12-03",
   externalLink:

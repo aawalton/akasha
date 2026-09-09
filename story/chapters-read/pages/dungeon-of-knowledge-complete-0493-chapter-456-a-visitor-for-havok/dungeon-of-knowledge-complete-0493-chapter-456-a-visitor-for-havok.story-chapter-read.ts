@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0493Chapter456AVisitorForHavok = {
   position: 493,
   ownLength: 1653,
   ownProgress: 1653,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:56.182Z",
   publishedAt: "2025-11-27",
   externalLink:

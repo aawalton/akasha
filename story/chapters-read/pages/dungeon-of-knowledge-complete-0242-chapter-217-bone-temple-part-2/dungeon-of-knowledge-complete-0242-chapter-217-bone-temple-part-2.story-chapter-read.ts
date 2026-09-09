@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0242Chapter217BoneTemplePart2 = {
   position: 242,
   ownLength: 2553,
   ownProgress: 2553,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:22.249Z",
   publishedAt: "2025-03-31",
   externalLink:

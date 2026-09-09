@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0440Chapter403GraveyardOfTheGods = {
   position: 440,
   ownLength: 2576,
   ownProgress: 2576,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:57.523Z",
   publishedAt: "2025-10-08",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0314Chapter280TheCraftersConundrum = {
   position: 314,
   ownLength: 1554,
   ownProgress: 1554,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:56.666Z",
   publishedAt: "2025-06-15",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0502Chapter465TheScoutSChoice = {
   position: 502,
   ownLength: 1525,
   ownProgress: 1525,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:16.165Z",
   publishedAt: "2025-12-04",
   externalLink:

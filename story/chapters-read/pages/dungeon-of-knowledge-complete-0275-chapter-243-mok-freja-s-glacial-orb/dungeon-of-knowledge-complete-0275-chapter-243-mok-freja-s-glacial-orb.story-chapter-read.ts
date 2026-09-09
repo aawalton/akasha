@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0275Chapter243MokFrejaSGlacialOrb = {
   position: 275,
   ownLength: 2116,
   ownProgress: 2116,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:32.893Z",
   publishedAt: "2025-05-08",
   externalLink:

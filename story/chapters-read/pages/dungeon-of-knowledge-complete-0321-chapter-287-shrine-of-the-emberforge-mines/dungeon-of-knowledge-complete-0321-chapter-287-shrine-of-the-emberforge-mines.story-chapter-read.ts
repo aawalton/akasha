@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0321Chapter287ShrineOfTheEmberforgeMines 
   position: 321,
   ownLength: 2017,
   ownProgress: 2017,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:12.127Z",
   publishedAt: "2025-06-21",
   externalLink:

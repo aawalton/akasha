@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0436Chapter399TheCalamity = {
   position: 436,
   ownLength: 4366,
   ownProgress: 4366,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:49.003Z",
   publishedAt: "2025-10-04",
   externalLink:

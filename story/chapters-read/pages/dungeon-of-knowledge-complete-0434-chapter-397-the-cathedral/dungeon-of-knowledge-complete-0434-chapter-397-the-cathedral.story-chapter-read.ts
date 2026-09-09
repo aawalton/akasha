@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0434Chapter397TheCathedral = {
   position: 434,
   ownLength: 2620,
   ownProgress: 2620,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:44.663Z",
   publishedAt: "2025-10-02",
   externalLink:

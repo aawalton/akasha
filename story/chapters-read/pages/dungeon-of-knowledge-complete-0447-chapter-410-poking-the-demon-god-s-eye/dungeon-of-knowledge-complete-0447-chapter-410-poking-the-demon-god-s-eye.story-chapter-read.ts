@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0447Chapter410PokingTheDemonGodSEye = {
   position: 447,
   ownLength: 3624,
   ownProgress: 3624,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:17.264Z",
   publishedAt: "2025-10-15",
   externalLink:

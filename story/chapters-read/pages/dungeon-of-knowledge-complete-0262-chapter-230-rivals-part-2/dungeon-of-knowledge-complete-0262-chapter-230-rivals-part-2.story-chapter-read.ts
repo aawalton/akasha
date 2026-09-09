@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0262Chapter230RivalsPart2 = {
   position: 262,
   ownLength: 2132,
   ownProgress: 2132,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:05.180Z",
   publishedAt: "2025-04-23",
   externalLink:

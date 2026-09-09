@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0470Chapter433CreepSpores = {
   position: 470,
   ownLength: 3726,
   ownProgress: 3726,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:07.621Z",
   publishedAt: "2025-11-07",
   externalLink:

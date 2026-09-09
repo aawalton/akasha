@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0500Chapter463ShadowsAndVoid = {
   position: 500,
   ownLength: 2710,
   ownProgress: 2710,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:12.100Z",
   publishedAt: "2025-12-03",
   externalLink:

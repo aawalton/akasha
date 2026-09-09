@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0173Chapter170Broodmother = {
   position: 173,
   ownLength: 5628,
   ownProgress: 5628,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:53.755Z",
   publishedAt: "2024-12-15",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0488Chapter451AHandfulOfRings = {
   position: 488,
   ownLength: 2623,
   ownProgress: 2623,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:45.747Z",
   publishedAt: "2025-11-23",
   externalLink:

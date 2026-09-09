@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0296Chapter264TrackerOfTheDead = {
   position: 296,
   ownLength: 2503,
   ownProgress: 2503,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:17.981Z",
   publishedAt: "2025-05-31",
   externalLink:

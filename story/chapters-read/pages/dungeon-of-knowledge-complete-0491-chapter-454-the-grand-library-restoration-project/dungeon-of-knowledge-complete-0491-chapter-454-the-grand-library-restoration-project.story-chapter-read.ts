@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0491Chapter454TheGrandLibraryRestorationP
   position: 491,
   ownLength: 1866,
   ownProgress: 1866,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:51.885Z",
   publishedAt: "2025-11-25",
   externalLink:

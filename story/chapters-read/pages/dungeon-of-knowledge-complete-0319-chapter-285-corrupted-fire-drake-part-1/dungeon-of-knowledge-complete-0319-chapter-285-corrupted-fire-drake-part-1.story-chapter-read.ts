@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0319Chapter285CorruptedFireDrakePart1 = {
   position: 319,
   ownLength: 2126,
   ownProgress: 2126,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:07.789Z",
   publishedAt: "2025-06-19",
   externalLink:

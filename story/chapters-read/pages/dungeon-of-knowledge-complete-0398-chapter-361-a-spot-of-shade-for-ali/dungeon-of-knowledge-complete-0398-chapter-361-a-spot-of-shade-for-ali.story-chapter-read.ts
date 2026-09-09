@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0398Chapter361ASpotOfShadeForAli = {
   position: 398,
   ownLength: 2688,
   ownProgress: 2688,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:28.591Z",
   publishedAt: "2025-08-29",
   externalLink:

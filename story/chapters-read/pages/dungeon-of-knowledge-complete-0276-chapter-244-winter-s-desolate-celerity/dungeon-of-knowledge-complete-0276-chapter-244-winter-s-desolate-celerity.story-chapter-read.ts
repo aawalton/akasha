@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0276Chapter244WinterSDesolateCelerity = {
   position: 276,
   ownLength: 2755,
   ownProgress: 2755,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:35.001Z",
   publishedAt: "2025-05-09",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0407Chapter370TheBattleForLytonRuinsPart2
   position: 407,
   ownLength: 2166,
   ownProgress: 2166,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:48.355Z",
   publishedAt: "2025-09-07",
   externalLink:

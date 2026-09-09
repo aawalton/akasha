@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0367Chapter330HeroesOfTheCrimsonBladePart
   position: 367,
   ownLength: 2193,
   ownProgress: 2193,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:02.606Z",
   publishedAt: "2025-07-31",
   externalLink:

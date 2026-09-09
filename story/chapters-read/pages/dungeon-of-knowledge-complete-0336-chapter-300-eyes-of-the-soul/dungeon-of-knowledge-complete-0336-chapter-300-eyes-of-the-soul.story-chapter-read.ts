@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0336Chapter300EyesOfTheSoul = {
   position: 336,
   ownLength: 2959,
   ownProgress: 2959,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:45.067Z",
   publishedAt: "2025-07-04",
   externalLink:

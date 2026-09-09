@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0389Chapter352TheBattleForTheGrandLibrary
   position: 389,
   ownLength: 2479,
   ownProgress: 2479,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:08.641Z",
   publishedAt: "2025-08-20",
   externalLink:

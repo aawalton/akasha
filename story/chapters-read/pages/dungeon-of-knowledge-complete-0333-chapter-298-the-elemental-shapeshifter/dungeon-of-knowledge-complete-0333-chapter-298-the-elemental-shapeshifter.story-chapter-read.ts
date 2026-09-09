@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0333Chapter298TheElementalShapeshifter = 
   position: 333,
   ownLength: 2139,
   ownProgress: 2139,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:37.479Z",
   publishedAt: "2025-07-02",
   externalLink:

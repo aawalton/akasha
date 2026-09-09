@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0294Chapter262TradeWinds = {
   position: 294,
   ownLength: 1454,
   ownProgress: 1454,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:13.811Z",
   publishedAt: "2025-05-29",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0444Chapter407ShadowAndBlood = {
   position: 444,
   ownLength: 4342,
   ownProgress: 4342,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:10.973Z",
   publishedAt: "2025-10-12",
   externalLink:

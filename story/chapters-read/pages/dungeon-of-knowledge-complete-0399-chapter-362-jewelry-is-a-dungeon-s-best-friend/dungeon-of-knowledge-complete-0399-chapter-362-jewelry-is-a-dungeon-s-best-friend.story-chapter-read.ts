@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0399Chapter362JewelryIsADungeonSBestFrien
   position: 399,
   ownLength: 2250,
   ownProgress: 2250,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:30.918Z",
   publishedAt: "2025-08-30",
   externalLink:

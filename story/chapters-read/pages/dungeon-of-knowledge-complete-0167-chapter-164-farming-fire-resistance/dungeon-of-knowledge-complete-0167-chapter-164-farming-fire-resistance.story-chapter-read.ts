@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0167Chapter164FarmingFireResistance = {
   position: 167,
   ownLength: 5082,
   ownProgress: 5082,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:40.581Z",
   publishedAt: "2024-12-01",
   externalLink:

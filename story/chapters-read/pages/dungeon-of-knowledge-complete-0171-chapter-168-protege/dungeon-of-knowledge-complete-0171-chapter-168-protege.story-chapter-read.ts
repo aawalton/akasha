@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0171Chapter168Protege = {
   position: 171,
   ownLength: 3854,
   ownProgress: 3854,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:49.366Z",
   publishedAt: "2024-12-10",
   externalLink:

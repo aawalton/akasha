@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0476Chapter439TheOverwhelmingTidesOfDeath
   position: 476,
   ownLength: 3283,
   ownProgress: 3283,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:19.988Z",
   publishedAt: "2025-11-12",
   externalLink:

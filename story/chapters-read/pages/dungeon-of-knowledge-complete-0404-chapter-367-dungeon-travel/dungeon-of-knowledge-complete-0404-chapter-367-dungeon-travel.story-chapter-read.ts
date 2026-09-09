@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0404Chapter367DungeonTravel = {
   position: 404,
   ownLength: 1767,
   ownProgress: 1767,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:41.893Z",
   publishedAt: "2025-09-04",
   externalLink:

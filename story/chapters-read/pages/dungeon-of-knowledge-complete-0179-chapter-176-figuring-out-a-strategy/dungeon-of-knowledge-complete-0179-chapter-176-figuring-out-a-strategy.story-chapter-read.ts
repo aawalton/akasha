@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0179Chapter176FiguringOutAStrategy = {
   position: 179,
   ownLength: 6327,
   ownProgress: 6327,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:07.382Z",
   publishedAt: "2024-12-29",
   externalLink:

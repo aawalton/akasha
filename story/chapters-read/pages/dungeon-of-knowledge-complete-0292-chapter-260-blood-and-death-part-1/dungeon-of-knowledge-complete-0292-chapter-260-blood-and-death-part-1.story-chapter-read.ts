@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0292Chapter260BloodAndDeathPart1 = {
   position: 292,
   ownLength: 2102,
   ownProgress: 2102,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:09.653Z",
   publishedAt: "2025-05-27",
   externalLink:

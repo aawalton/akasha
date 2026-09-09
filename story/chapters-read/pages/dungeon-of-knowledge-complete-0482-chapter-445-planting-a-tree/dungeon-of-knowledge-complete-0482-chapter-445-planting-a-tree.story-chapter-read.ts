@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0482Chapter445PlantingATree = {
   position: 482,
   ownLength: 2362,
   ownProgress: 2362,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:33.073Z",
   publishedAt: "2025-11-17",
   externalLink:

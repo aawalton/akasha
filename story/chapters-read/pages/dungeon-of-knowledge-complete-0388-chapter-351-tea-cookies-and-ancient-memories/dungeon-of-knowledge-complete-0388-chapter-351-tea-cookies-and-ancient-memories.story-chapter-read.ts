@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0388Chapter351TeaCookiesAndAncientMemorie
   position: 388,
   ownLength: 2390,
   ownProgress: 2390,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:06.673Z",
   publishedAt: "2025-08-19",
   externalLink:

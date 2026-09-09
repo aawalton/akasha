@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0343Chapter306TheBattleForCiradylPart2 = 
   position: 343,
   ownLength: 3810,
   ownProgress: 3810,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:10.791Z",
   publishedAt: "2025-07-10",
   externalLink:

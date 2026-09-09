@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0347Chapter310TheSearingArrowsOfRetributi
   position: 347,
   ownLength: 1582,
   ownProgress: 1582,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:20.246Z",
   publishedAt: "2025-07-13",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0344Chapter307TheAshesOfCiradyl = {
   position: 344,
   ownLength: 4650,
   ownProgress: 4650,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:13.334Z",
   publishedAt: "2025-07-11",
   externalLink:

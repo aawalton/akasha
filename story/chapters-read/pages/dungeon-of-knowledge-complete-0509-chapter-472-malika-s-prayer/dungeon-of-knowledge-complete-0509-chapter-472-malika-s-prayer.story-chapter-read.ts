@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0509Chapter472MalikaSPrayer = {
   position: 509,
   ownLength: 4307,
   ownProgress: 4307,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:30.988Z",
   publishedAt: "2025-12-11",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0337Chapter3005MalikaStatusSheet = {
   position: 337,
   ownLength: 970,
   ownProgress: 970,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:47.375Z",
   publishedAt: "2025-07-04",
   externalLink:

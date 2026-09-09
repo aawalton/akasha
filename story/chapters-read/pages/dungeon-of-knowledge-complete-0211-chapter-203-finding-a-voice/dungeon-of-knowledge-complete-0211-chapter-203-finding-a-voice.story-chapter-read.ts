@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0211Chapter203FindingAVoice = {
   position: 211,
   ownLength: 3629,
   ownProgress: 3629,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:17.365Z",
   publishedAt: "2025-02-26",
   externalLink:

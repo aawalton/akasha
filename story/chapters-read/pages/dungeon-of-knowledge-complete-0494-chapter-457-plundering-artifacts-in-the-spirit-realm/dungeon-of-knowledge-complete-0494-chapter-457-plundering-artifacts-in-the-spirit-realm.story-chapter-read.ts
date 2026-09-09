@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0494Chapter457PlunderingArtifactsInTheSpi
   position: 494,
   ownLength: 2929,
   ownProgress: 2929,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:58.789Z",
   publishedAt: "2025-11-27",
   externalLink:

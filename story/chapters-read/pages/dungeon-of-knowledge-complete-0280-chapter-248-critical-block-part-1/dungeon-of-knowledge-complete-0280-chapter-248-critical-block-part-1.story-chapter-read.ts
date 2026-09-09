@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0280Chapter248CriticalBlockPart1 = {
   position: 280,
   ownLength: 2652,
   ownProgress: 2652,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:43.571Z",
   publishedAt: "2025-05-13",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0291Chapter259TolBrekkAndTheTempleOfBlood
   position: 291,
   ownLength: 3390,
   ownProgress: 3390,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:07.443Z",
   publishedAt: "2025-05-26",
   externalLink:

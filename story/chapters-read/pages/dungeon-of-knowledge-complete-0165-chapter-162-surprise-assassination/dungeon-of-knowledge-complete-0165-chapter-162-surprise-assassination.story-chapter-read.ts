@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0165Chapter162SurpriseAssassination = {
   position: 165,
   ownLength: 7661,
   ownProgress: 7661,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:35.780Z",
   publishedAt: "2024-11-26",
   externalLink:

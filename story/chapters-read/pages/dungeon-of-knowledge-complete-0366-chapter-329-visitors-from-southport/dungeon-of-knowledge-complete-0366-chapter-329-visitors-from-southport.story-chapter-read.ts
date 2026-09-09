@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0366Chapter329VisitorsFromSouthport = {
   position: 366,
   ownLength: 2353,
   ownProgress: 2353,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:00.481Z",
   publishedAt: "2025-07-30",
   externalLink:

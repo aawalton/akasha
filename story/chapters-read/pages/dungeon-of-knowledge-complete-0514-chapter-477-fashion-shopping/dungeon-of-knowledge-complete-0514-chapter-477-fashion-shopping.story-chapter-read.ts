@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0514Chapter477FashionShopping = {
   position: 514,
   ownLength: 2136,
   ownProgress: 2136,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:41.546Z",
   publishedAt: "2025-12-16",
   externalLink:

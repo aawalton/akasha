@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0487Chapter450ShrinePartyWithTheOozeOverl
   position: 487,
   ownLength: 2331,
   ownProgress: 2331,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:43.779Z",
   publishedAt: "2025-11-22",
   externalLink:

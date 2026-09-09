@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0481Chapter444TheWeightOfAnAcorn = {
   position: 481,
   ownLength: 3377,
   ownProgress: 3377,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:30.983Z",
   publishedAt: "2025-11-16",
   externalLink:

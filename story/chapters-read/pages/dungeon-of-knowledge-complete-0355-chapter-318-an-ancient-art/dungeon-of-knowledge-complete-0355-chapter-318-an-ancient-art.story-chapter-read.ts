@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0355Chapter318AnAncientArt = {
   position: 355,
   ownLength: 2443,
   ownProgress: 2443,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:36.882Z",
   publishedAt: "2025-07-21",
   externalLink:

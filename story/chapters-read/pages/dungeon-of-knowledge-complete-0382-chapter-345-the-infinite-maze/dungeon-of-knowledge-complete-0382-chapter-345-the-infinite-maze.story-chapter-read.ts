@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0382Chapter345TheInfiniteMaze = {
   position: 382,
   ownLength: 2910,
   ownProgress: 2910,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:34.067Z",
   publishedAt: "2025-08-13",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0267Chapter235DoesItHaveToBeFire = {
   position: 267,
   ownLength: 2647,
   ownProgress: 2647,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:16.205Z",
   publishedAt: "2025-04-28",
   externalLink:

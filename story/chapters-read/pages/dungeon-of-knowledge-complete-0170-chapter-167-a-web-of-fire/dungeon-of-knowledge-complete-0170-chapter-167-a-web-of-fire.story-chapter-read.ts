@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0170Chapter167AWebOfFire = {
   position: 170,
   ownLength: 5808,
   ownProgress: 5808,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:47.167Z",
   publishedAt: "2024-12-08",
   externalLink:

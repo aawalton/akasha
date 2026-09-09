@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0219Chapter207MartialInsightPart1 = {
   position: 219,
   ownLength: 2466,
   ownProgress: 2466,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:34.376Z",
   publishedAt: "2025-03-06",
   externalLink:

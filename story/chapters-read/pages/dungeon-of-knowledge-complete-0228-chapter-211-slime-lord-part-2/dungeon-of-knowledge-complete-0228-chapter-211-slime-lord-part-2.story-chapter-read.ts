@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0228Chapter211SlimeLordPart2 = {
   position: 228,
   ownLength: 2946,
   ownProgress: 2946,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:52.944Z",
   publishedAt: "2025-03-16",
   externalLink:

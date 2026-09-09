@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0458Chapter421MaalgarothSDemise = {
   position: 458,
   ownLength: 2588,
   ownProgress: 2588,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:40.457Z",
   publishedAt: "2025-10-26",
   externalLink:

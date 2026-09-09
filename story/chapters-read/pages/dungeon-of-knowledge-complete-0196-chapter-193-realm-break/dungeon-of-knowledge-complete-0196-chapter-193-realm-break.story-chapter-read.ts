@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0196Chapter193RealmBreak = {
   position: 196,
   ownLength: 5245,
   ownProgress: 5245,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:45.205Z",
   publishedAt: "2025-02-04",
   externalLink:

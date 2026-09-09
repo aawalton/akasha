@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0223Chapter209VisitingAnOldFriendPart1 = 
   position: 223,
   ownLength: 2564,
   ownProgress: 2564,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:42.477Z",
   publishedAt: "2025-03-10",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0287Chapter255JoraaTheBetrayerPart2 = {
   position: 287,
   ownLength: 1960,
   ownProgress: 1960,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:58.800Z",
   publishedAt: "2025-05-21",
   externalLink:

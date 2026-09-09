@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0363Chapter326RemoteRaiding = {
   position: 363,
   ownLength: 3133,
   ownProgress: 3133,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:53.609Z",
   publishedAt: "2025-07-28",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0477Chapter440ATouchOfStrategyRequired = 
   position: 477,
   ownLength: 2200,
   ownProgress: 2200,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:22.265Z",
   publishedAt: "2025-11-13",
   externalLink:

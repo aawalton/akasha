@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0265Chapter233InstantaneousStep = {
   position: 265,
   ownLength: 2877,
   ownProgress: 2877,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:12.060Z",
   publishedAt: "2025-04-26",
   externalLink:

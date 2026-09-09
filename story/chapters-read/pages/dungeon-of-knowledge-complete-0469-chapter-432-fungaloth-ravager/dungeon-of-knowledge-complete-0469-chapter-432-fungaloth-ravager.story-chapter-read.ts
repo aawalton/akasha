@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0469Chapter432FungalothRavager = {
   position: 469,
   ownLength: 3171,
   ownProgress: 3171,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:04.973Z",
   publishedAt: "2025-11-06",
   externalLink:

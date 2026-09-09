@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0498Chapter461MaalgarothVersusTheSandwyrm
   position: 498,
   ownLength: 2215,
   ownProgress: 2215,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:07.787Z",
   publishedAt: "2025-12-01",
   externalLink:

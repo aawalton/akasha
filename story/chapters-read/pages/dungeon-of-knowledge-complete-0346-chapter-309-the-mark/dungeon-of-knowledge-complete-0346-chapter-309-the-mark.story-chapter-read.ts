@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0346Chapter309TheMark = {
   position: 346,
   ownLength: 1495,
   ownProgress: 1495,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:17.754Z",
   publishedAt: "2025-07-13",
   externalLink:

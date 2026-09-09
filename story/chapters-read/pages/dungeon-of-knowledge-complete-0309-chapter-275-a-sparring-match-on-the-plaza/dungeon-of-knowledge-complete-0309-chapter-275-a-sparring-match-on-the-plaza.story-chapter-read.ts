@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0309Chapter275ASparringMatchOnThePlaza = 
   position: 309,
   ownLength: 1970,
   ownProgress: 1970,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:45.853Z",
   publishedAt: "2025-06-10",
   externalLink:

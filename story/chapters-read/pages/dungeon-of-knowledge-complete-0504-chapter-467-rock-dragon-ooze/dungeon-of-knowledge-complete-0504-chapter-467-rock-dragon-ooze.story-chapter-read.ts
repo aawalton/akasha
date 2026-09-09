@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0504Chapter467RockDragonOoze = {
   position: 504,
   ownLength: 1761,
   ownProgress: 1761,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:20.338Z",
   publishedAt: "2025-12-06",
   externalLink:

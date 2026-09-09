@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0415Chapter378ATattooForNaia = {
   position: 415,
   ownLength: 3316,
   ownProgress: 3316,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:04.857Z",
   publishedAt: "2025-09-15",
   externalLink:

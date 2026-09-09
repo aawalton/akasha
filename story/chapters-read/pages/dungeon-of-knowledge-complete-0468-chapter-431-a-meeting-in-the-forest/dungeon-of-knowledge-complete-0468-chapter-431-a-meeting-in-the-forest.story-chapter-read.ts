@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0468Chapter431AMeetingInTheForest = {
   position: 468,
   ownLength: 2715,
   ownProgress: 2715,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:02.760Z",
   publishedAt: "2025-11-05",
   externalLink:

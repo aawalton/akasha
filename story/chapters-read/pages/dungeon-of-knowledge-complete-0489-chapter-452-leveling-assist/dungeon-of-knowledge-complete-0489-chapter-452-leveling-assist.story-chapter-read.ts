@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0489Chapter452LevelingAssist = {
   position: 489,
   ownLength: 2636,
   ownProgress: 2636,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:47.756Z",
   publishedAt: "2025-11-24",
   externalLink:

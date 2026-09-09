@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0172Chapter169MarketForces = {
   position: 172,
   ownLength: 4818,
   ownProgress: 4818,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:51.497Z",
   publishedAt: "2024-12-12",
   externalLink:

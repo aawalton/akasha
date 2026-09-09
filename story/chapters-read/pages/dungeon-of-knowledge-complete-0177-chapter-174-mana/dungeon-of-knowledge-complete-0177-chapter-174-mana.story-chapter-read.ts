@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0177Chapter174Mana = {
   position: 177,
   ownLength: 4288,
   ownProgress: 4288,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:02.886Z",
   publishedAt: "2024-12-24",
   externalLink:

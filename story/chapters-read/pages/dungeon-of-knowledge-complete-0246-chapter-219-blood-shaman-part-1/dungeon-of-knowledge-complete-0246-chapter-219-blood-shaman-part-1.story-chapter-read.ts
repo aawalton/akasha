@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0246Chapter219BloodShamanPart1 = {
   position: 246,
   ownLength: 2579,
   ownProgress: 2579,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:30.757Z",
   publishedAt: "2025-04-05",
   externalLink:

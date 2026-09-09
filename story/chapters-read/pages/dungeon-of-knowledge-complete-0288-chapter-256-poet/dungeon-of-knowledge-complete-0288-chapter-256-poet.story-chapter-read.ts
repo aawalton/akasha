@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0288Chapter256Poet = {
   position: 288,
   ownLength: 2975,
   ownProgress: 2975,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:00.900Z",
   publishedAt: "2025-05-22",
   externalLink:

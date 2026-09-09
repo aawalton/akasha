@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0244Chapter218ALessonInNecromancyPart1 = 
   position: 244,
   ownLength: 3225,
   ownProgress: 3225,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:26.503Z",
   publishedAt: "2025-04-02",
   externalLink:

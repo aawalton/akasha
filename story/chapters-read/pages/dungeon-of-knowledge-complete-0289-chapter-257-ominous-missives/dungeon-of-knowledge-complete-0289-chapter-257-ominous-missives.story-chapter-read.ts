@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
   position: 289,
   ownLength: 2254,
   ownProgress: 2254,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:03.158Z",
   publishedAt: "2025-05-24",
   externalLink:

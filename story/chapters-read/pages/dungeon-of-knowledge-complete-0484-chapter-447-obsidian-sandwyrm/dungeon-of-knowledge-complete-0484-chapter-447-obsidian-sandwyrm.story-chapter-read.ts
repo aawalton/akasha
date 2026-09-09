@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0484Chapter447ObsidianSandwyrm = {
   position: 484,
   ownLength: 2326,
   ownProgress: 2326,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:37.292Z",
   publishedAt: "2025-11-19",
   externalLink:

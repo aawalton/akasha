@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0191Chapter188Gold = {
   position: 191,
   ownLength: 6512,
   ownProgress: 6512,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:34.481Z",
   publishedAt: "2025-01-26",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0430Chapter393ADropInVisit = {
   position: 430,
   ownLength: 3368,
   ownProgress: 3368,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:36.183Z",
   publishedAt: "2025-09-28",
   externalLink:

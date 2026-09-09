@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0450Chapter413ADealWithTheDragon = {
   position: 450,
   ownLength: 3832,
   ownProgress: 3832,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:23.668Z",
   publishedAt: "2025-10-18",
   externalLink:

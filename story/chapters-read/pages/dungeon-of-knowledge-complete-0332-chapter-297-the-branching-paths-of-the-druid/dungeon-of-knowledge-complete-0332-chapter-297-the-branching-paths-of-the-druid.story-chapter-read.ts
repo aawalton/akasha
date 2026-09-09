@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0332Chapter297TheBranchingPathsOfTheDruid
   position: 332,
   ownLength: 3168,
   ownProgress: 3168,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:35.363Z",
   publishedAt: "2025-07-01",
   externalLink:

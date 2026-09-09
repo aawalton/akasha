@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0411Chapter374AnUrgentSwitch = {
   position: 411,
   ownLength: 2234,
   ownProgress: 2234,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:56.646Z",
   publishedAt: "2025-09-11",
   externalLink:

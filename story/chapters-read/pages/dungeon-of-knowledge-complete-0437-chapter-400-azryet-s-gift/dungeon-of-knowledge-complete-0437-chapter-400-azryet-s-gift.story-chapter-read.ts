@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0437Chapter400AzryetSGift = {
   position: 437,
   ownLength: 2284,
   ownProgress: 2284,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:51.300Z",
   publishedAt: "2025-10-05",
   externalLink:

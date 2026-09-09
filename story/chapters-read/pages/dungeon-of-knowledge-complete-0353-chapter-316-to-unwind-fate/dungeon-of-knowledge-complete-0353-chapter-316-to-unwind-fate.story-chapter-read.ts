@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0353Chapter316ToUnwindFate = {
   position: 353,
   ownLength: 2006,
   ownProgress: 2006,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:32.687Z",
   publishedAt: "2025-07-19",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0166Chapter163BooksOfThePast = {
   position: 166,
   ownLength: 7326,
   ownProgress: 7326,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:38.076Z",
   publishedAt: "2024-11-28",
   externalLink:

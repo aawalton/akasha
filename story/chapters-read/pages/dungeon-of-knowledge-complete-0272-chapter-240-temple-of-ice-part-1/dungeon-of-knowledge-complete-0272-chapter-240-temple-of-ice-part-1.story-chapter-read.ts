@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0272Chapter240TempleOfIcePart1 = {
   position: 272,
   ownLength: 2130,
   ownProgress: 2130,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:26.576Z",
   publishedAt: "2025-05-04",
   externalLink:

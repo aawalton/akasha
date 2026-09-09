@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0448Chapter411EliteInfectedRotGuardian = 
   position: 448,
   ownLength: 2547,
   ownProgress: 2547,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:19.360Z",
   publishedAt: "2025-10-16",
   externalLink:

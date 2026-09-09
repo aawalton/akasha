@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0266Chapter234CatchMeIfYouCan = {
   position: 266,
   ownLength: 2316,
   ownProgress: 2316,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:14.070Z",
   publishedAt: "2025-04-27",
   externalLink:

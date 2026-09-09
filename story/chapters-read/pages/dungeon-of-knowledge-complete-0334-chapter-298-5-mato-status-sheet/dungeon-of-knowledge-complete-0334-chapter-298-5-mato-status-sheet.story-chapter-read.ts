@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0334Chapter2985MatoStatusSheet = {
   position: 334,
   ownLength: 1205,
   ownProgress: 1205,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:39.671Z",
   publishedAt: "2025-07-02",
   externalLink:

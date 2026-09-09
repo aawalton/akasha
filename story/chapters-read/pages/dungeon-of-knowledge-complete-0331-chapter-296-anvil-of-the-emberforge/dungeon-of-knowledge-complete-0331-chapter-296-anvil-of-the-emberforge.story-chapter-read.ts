@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0331Chapter296AnvilOfTheEmberforge = {
   position: 331,
   ownLength: 2031,
   ownProgress: 2031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:33.194Z",
   publishedAt: "2025-06-30",
   externalLink:

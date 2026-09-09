@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0178Chapter175TankingFlame = {
   position: 178,
   ownLength: 6024,
   ownProgress: 6024,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:05.088Z",
   publishedAt: "2024-12-26",
   externalLink:

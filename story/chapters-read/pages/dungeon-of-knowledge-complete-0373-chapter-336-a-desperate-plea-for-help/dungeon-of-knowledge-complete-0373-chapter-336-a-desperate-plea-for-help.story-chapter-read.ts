@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0373Chapter336ADesperatePleaForHelp = {
   position: 373,
   ownLength: 1631,
   ownProgress: 1631,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:15.128Z",
   publishedAt: "2025-08-03",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0442Chapter405AProbingAttack = {
   position: 442,
   ownLength: 3317,
   ownProgress: 3317,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:01.769Z",
   publishedAt: "2025-10-10",
   externalLink:

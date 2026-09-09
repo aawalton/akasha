@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0169Chapter166TheDungeonSFlames = {
   position: 169,
   ownLength: 4353,
   ownProgress: 4353,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:45.006Z",
   publishedAt: "2024-12-05",
   externalLink:

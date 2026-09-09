@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0420Chapter383FleeingThroughAnAngryForest
   position: 420,
   ownLength: 2524,
   ownProgress: 2524,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:15.942Z",
   publishedAt: "2025-09-19",
   externalLink:

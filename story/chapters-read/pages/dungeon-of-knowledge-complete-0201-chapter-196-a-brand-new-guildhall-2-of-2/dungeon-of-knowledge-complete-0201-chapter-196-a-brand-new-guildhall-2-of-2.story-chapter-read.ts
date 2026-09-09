@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0201Chapter196ABrandNewGuildhall2Of2 = {
   position: 201,
   ownLength: 3061,
   ownProgress: 3061,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:56.167Z",
   publishedAt: "2025-02-11",
   externalLink:

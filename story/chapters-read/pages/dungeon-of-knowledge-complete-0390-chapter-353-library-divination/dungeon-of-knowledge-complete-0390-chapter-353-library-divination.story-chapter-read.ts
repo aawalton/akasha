@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0390Chapter353LibraryDivination = {
   position: 390,
   ownLength: 1917,
   ownProgress: 1917,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:10.725Z",
   publishedAt: "2025-08-21",
   externalLink:

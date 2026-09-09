@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   position: 341,
   ownLength: 4396,
   ownProgress: 4396,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:06.940Z",
   publishedAt: "2025-07-08",
   externalLink:

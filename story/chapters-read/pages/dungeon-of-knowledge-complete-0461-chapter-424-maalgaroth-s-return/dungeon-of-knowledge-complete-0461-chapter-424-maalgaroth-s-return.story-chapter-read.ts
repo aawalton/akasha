@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0461Chapter424MaalgarothSReturn = {
   position: 461,
   ownLength: 3089,
   ownProgress: 3089,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:47.882Z",
   publishedAt: "2025-10-29",
   externalLink:

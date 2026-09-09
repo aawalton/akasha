@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0423Chapter386ThePathOfTheElderPart1 = {
   position: 423,
   ownLength: 2819,
   ownProgress: 2819,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:22.149Z",
   publishedAt: "2025-09-21",
   externalLink:

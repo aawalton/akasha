@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0297Chapter265SeekerOfTheFirstAge = {
   position: 297,
   ownLength: 1543,
   ownProgress: 1543,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:20.188Z",
   publishedAt: "2025-06-01",
   externalLink:

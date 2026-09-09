@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0203Chapter198TheDragonGod = {
   position: 203,
   ownLength: 4956,
   ownProgress: 4956,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:00.380Z",
   publishedAt: "2025-02-16",
   externalLink:

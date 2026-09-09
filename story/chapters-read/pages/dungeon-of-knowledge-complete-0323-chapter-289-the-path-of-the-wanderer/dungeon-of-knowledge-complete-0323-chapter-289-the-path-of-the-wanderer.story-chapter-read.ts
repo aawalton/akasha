@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0323Chapter289ThePathOfTheWanderer = {
   position: 323,
   ownLength: 2679,
   ownProgress: 2679,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:16.450Z",
   publishedAt: "2025-06-23",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0371Chapter334AnUndergroundEarthquake = {
   position: 371,
   ownLength: 1855,
   ownProgress: 1855,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:10.968Z",
   publishedAt: "2025-08-03",
   externalLink:

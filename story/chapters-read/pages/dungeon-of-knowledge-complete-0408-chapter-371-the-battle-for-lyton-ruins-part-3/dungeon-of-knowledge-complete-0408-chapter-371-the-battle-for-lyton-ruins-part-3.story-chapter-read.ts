@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0408Chapter371TheBattleForLytonRuinsPart3
   position: 408,
   ownLength: 2622,
   ownProgress: 2622,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:50.457Z",
   publishedAt: "2025-09-08",
   externalLink:

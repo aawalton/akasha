@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0362Chapter325RunicTattoos = {
   position: 362,
   ownLength: 1835,
   ownProgress: 1835,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:51.255Z",
   publishedAt: "2025-07-27",
   externalLink:

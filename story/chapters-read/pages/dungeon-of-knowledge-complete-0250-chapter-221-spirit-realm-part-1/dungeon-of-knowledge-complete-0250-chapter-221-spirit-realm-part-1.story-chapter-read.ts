@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0250Chapter221SpiritRealmPart1 = {
   position: 250,
   ownLength: 2174,
   ownProgress: 2174,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:38.968Z",
   publishedAt: "2025-04-10",
   externalLink:

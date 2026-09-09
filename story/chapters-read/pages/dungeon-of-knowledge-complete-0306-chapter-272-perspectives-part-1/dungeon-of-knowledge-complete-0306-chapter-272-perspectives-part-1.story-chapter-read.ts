@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0306Chapter272PerspectivesPart1 = {
   position: 306,
   ownLength: 1783,
   ownProgress: 1783,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:39.158Z",
   publishedAt: "2025-06-08",
   externalLink:

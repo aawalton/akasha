@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0258Chapter226TheTempleOfContagionPart2 =
   position: 258,
   ownLength: 2846,
   ownProgress: 2846,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:57.050Z",
   publishedAt: "2025-04-18",
   externalLink:

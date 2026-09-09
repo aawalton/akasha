@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0419Chapter382HeRidesUponAPaleHorse = {
   position: 419,
   ownLength: 3957,
   ownProgress: 3957,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:13.456Z",
   publishedAt: "2025-09-19",
   externalLink:

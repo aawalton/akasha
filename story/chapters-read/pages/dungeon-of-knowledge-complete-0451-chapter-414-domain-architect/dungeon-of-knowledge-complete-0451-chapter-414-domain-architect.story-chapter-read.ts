@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0451Chapter414DomainArchitect = {
   position: 451,
   ownLength: 4155,
   ownProgress: 4155,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:25.976Z",
   publishedAt: "2025-10-19",
   externalLink:

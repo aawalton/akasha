@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0457Chapter420TheLittlestBerserker = {
   position: 457,
   ownLength: 2688,
   ownProgress: 2688,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:38.432Z",
   publishedAt: "2025-10-25",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0501Chapter464AnEscortQuest = {
   position: 501,
   ownLength: 2984,
   ownProgress: 2984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:14.134Z",
   publishedAt: "2025-12-04",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0392Chapter355MithrilBeetle = {
   position: 392,
   ownLength: 4132,
   ownProgress: 4132,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:14.781Z",
   publishedAt: "2025-08-23",
   externalLink:

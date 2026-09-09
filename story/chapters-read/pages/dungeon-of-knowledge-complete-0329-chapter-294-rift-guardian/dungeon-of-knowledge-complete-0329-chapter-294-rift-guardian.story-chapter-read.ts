@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0329Chapter294RiftGuardian = {
   position: 329,
   ownLength: 1884,
   ownProgress: 1884,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:29.064Z",
   publishedAt: "2025-06-28",
   externalLink:

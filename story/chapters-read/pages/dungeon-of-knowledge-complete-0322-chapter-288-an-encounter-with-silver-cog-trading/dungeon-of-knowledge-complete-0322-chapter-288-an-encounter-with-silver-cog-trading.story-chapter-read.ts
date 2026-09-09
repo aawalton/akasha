@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0322Chapter288AnEncounterWithSilverCogTra
   position: 322,
   ownLength: 4005,
   ownProgress: 4005,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:14.149Z",
   publishedAt: "2025-06-22",
   externalLink:

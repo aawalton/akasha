@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0405Chapter368ACrazyPlan = {
   position: 405,
   ownLength: 3440,
   ownProgress: 3440,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:44.068Z",
   publishedAt: "2025-09-05",
   externalLink:

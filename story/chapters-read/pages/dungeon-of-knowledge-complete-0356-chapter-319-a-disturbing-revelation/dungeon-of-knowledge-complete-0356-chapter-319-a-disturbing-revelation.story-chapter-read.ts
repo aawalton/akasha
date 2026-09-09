@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0356Chapter319ADisturbingRevelation = {
   position: 356,
   ownLength: 2550,
   ownProgress: 2550,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:38.841Z",
   publishedAt: "2025-07-22",
   externalLink:

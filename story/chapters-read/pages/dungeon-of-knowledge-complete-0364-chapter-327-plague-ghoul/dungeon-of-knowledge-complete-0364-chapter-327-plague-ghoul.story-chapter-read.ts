@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0364Chapter327PlagueGhoul = {
   position: 364,
   ownLength: 2903,
   ownProgress: 2903,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:55.668Z",
   publishedAt: "2025-07-29",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0380Chapter343SpiritLibraryRunesPart1 = {
   position: 380,
   ownLength: 1906,
   ownProgress: 1906,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:29.885Z",
   publishedAt: "2025-08-11",
   externalLink:

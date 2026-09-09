@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0248Chapter220WitchdoctorPart1 = {
   position: 248,
   ownLength: 2192,
   ownProgress: 2192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:34.844Z",
   publishedAt: "2025-04-07",
   externalLink:

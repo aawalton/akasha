@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0375Chapter338ArcaneAndSpace = {
   position: 375,
   ownLength: 3882,
   ownProgress: 3882,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:19.163Z",
   publishedAt: "2025-08-06",
   externalLink:

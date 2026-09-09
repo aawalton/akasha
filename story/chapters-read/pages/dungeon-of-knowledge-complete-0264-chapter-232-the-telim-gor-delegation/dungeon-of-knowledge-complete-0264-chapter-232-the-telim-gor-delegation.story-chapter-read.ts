@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0264Chapter232TheTelimGorDelegation = {
   position: 264,
   ownLength: 3092,
   ownProgress: 3092,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:09.890Z",
   publishedAt: "2025-04-25",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0445Chapter408XammathAndTheEye = {
   position: 445,
   ownLength: 3653,
   ownProgress: 3653,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:13.036Z",
   publishedAt: "2025-10-13",
   externalLink:

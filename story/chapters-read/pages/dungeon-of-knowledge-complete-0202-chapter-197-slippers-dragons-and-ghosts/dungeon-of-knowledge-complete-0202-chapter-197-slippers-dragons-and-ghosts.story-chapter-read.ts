@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0202Chapter197SlippersDragonsAndGhosts = 
   position: 202,
   ownLength: 4996,
   ownProgress: 4996,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:58.186Z",
   publishedAt: "2025-02-13",
   externalLink:

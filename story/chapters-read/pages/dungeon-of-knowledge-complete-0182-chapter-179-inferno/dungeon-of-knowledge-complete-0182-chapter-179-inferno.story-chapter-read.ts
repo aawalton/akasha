@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0182Chapter179Inferno = {
   position: 182,
   ownLength: 3917,
   ownProgress: 3917,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:13.976Z",
   publishedAt: "2025-01-05",
   externalLink:

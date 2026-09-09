@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0417Chapter380TheManaEater = {
   position: 417,
   ownLength: 3259,
   ownProgress: 3259,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:09.447Z",
   publishedAt: "2025-09-17",
   externalLink:

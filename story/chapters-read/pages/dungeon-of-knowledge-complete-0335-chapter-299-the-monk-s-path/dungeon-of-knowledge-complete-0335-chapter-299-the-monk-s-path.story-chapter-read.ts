@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0335Chapter299TheMonkSPath = {
   position: 335,
   ownLength: 2417,
   ownProgress: 2417,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:42.999Z",
   publishedAt: "2025-07-03",
   externalLink:

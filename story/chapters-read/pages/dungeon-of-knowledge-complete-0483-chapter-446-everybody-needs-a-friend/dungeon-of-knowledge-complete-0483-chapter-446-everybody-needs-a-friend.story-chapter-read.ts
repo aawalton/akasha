@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0483Chapter446EverybodyNeedsAFriend = {
   position: 483,
   ownLength: 2454,
   ownProgress: 2454,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:35.179Z",
   publishedAt: "2025-11-18",
   externalLink:

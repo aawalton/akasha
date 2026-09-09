@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0377Chapter340MultiplePathsInTimePart2 = 
   position: 377,
   ownLength: 2867,
   ownProgress: 2867,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:23.397Z",
   publishedAt: "2025-08-08",
   externalLink:

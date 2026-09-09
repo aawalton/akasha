@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0452Chapter415TheLanding = {
   position: 452,
   ownLength: 4341,
   ownProgress: 4341,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:28.043Z",
   publishedAt: "2025-10-20",
   externalLink:

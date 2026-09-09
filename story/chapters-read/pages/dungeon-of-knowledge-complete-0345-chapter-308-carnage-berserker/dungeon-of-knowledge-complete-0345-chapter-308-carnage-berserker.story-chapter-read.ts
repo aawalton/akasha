@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0345Chapter308CarnageBerserker = {
   position: 345,
   ownLength: 3400,
   ownProgress: 3400,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:15.464Z",
   publishedAt: "2025-07-12",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0431Chapter394AMotherSWoes = {
   position: 431,
   ownLength: 2256,
   ownProgress: 2256,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:38.429Z",
   publishedAt: "2025-09-29",
   externalLink:

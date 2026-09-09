@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0418Chapter381WhenDeathComesKnocking = {
   position: 418,
   ownLength: 3391,
   ownProgress: 3391,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:11.310Z",
   publishedAt: "2025-09-18",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0330Chapter295ADeftTwistOfMana = {
   position: 330,
   ownLength: 2323,
   ownProgress: 2323,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:30.958Z",
   publishedAt: "2025-06-29",
   externalLink:

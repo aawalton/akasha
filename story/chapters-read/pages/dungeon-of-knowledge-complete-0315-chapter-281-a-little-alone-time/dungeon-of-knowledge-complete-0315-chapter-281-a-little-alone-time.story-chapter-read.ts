@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0315Chapter281ALittleAloneTime = {
   position: 315,
   ownLength: 1461,
   ownProgress: 1461,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:58.883Z",
   publishedAt: "2025-06-15",
   externalLink:

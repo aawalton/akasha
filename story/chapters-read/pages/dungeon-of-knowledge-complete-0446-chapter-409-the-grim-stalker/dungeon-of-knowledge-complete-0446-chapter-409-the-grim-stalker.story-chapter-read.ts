@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0446Chapter409TheGrimStalker = {
   position: 446,
   ownLength: 2141,
   ownProgress: 2141,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:15.165Z",
   publishedAt: "2025-10-14",
   externalLink:

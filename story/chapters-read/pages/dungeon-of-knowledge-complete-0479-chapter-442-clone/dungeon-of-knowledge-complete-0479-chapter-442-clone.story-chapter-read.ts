@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0479Chapter442Clone = {
   position: 479,
   ownLength: 3606,
   ownProgress: 3606,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:26.643Z",
   publishedAt: "2025-11-14",
   externalLink:

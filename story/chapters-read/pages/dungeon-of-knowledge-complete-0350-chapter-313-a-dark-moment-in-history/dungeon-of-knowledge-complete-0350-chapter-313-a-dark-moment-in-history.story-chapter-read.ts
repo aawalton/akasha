@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0350Chapter313ADarkMomentInHistory = {
   position: 350,
   ownLength: 2045,
   ownProgress: 2045,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:26.475Z",
   publishedAt: "2025-07-16",
   externalLink:

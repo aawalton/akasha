@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0454Chapter417WielderOfTheSacredFlame = {
   position: 454,
   ownLength: 3843,
   ownProgress: 3843,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:32.369Z",
   publishedAt: "2025-10-22",
   externalLink:

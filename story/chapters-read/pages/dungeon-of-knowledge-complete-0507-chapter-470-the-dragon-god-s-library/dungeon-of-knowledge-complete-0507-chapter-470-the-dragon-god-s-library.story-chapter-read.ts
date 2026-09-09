@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0507Chapter470TheDragonGodSLibrary = {
   position: 507,
   ownLength: 3471,
   ownProgress: 3471,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:26.660Z",
   publishedAt: "2025-12-09",
   externalLink:

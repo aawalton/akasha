@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = 
   position: 186,
   ownLength: 6305,
   ownProgress: 6305,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:22.961Z",
   publishedAt: "2025-01-14",
   externalLink:

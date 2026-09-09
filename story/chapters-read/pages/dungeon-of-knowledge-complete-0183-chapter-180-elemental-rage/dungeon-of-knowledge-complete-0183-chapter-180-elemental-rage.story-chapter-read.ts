@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0183Chapter180ElementalRage = {
   position: 183,
   ownLength: 3727,
   ownProgress: 3727,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:16.279Z",
   publishedAt: "2025-01-07",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0348Chapter311ShrinePaths = {
   position: 348,
   ownLength: 3243,
   ownProgress: 3243,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:22.289Z",
   publishedAt: "2025-07-14",
   externalLink:

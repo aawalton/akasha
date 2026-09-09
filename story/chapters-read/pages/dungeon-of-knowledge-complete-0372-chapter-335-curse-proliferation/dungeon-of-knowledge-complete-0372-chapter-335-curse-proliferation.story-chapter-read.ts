@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0372Chapter335CurseProliferation = {
   position: 372,
   ownLength: 1403,
   ownProgress: 1403,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:13.061Z",
   publishedAt: "2025-08-03",
   externalLink:

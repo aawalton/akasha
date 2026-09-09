@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0180Chapter177RunesOfFire = {
   position: 180,
   ownLength: 4225,
   ownProgress: 4225,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:09.594Z",
   publishedAt: "2024-12-31",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0295Chapter263SoulNet = {
   position: 295,
   ownLength: 2923,
   ownProgress: 2923,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:15.785Z",
   publishedAt: "2025-05-29",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0426Chapter389Stranded = {
   position: 426,
   ownLength: 3022,
   ownProgress: 3022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:28.136Z",
   publishedAt: "2025-09-24",
   externalLink:

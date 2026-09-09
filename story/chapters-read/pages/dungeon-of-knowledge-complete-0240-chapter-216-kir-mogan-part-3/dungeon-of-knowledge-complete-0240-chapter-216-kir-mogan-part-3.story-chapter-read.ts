@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0240Chapter216KirMoganPart3 = {
   position: 240,
   ownLength: 2473,
   ownProgress: 2473,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:18.156Z",
   publishedAt: "2025-03-29",
   externalLink:

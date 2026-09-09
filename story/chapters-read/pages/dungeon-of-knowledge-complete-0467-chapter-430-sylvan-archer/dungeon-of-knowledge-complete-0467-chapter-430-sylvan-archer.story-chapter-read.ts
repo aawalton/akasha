@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0467Chapter430SylvanArcher = {
   position: 467,
   ownLength: 2955,
   ownProgress: 2955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:00.688Z",
   publishedAt: "2025-11-04",
   externalLink:

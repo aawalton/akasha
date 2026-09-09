@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0496Chapter459VisitingTheShrine = {
   position: 496,
   ownLength: 2039,
   ownProgress: 2039,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:03.057Z",
   publishedAt: "2025-11-29",
   externalLink:

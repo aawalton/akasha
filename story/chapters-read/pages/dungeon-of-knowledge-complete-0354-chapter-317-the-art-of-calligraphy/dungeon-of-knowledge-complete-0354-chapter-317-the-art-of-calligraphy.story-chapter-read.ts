@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0354Chapter317TheArtOfCalligraphy = {
   position: 354,
   ownLength: 2265,
   ownProgress: 2265,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:34.858Z",
   publishedAt: "2025-07-20",
   externalLink:

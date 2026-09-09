@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0397Chapter360AJauntThroughTheShadows = {
   position: 397,
   ownLength: 2990,
   ownProgress: 2990,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:26.289Z",
   publishedAt: "2025-08-28",
   externalLink:

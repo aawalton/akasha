@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0208Chapter201ThePhoenixAgain = {
   position: 208,
   ownLength: 3984,
   ownProgress: 3984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:11.051Z",
   publishedAt: "2025-02-23",
   externalLink:

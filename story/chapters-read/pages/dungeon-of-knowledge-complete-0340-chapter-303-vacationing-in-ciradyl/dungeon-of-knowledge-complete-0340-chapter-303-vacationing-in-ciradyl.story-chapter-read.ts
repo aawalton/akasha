@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0340Chapter303VacationingInCiradyl = {
   position: 340,
   ownLength: 2216,
   ownProgress: 2216,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:04.852Z",
   publishedAt: "2025-07-07",
   externalLink:

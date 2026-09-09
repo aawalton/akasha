@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0429Chapter392CloseEncounterOfTheDemonicK
   position: 429,
   ownLength: 2700,
   ownProgress: 2700,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:34.073Z",
   publishedAt: "2025-09-27",
   externalLink:

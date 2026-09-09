@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
   position: 400,
   ownLength: 2612,
   ownProgress: 2612,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:33.020Z",
   publishedAt: "2025-08-31",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0386Chapter349LegendaryMagic = {
   position: 386,
   ownLength: 2243,
   ownProgress: 2243,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:02.643Z",
   publishedAt: "2025-08-17",
   externalLink:

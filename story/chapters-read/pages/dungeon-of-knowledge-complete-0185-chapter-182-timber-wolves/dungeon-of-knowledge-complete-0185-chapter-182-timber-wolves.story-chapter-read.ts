@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0185Chapter182TimberWolves = {
   position: 185,
   ownLength: 6515,
   ownProgress: 6515,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:20.678Z",
   publishedAt: "2025-01-12",
   externalLink:

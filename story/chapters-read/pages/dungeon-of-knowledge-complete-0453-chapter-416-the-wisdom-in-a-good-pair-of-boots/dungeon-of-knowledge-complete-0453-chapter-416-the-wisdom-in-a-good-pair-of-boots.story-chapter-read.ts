@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0453Chapter416TheWisdomInAGoodPairOfBoots
   position: 453,
   ownLength: 2114,
   ownProgress: 2114,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:30.168Z",
   publishedAt: "2025-10-21",
   externalLink:

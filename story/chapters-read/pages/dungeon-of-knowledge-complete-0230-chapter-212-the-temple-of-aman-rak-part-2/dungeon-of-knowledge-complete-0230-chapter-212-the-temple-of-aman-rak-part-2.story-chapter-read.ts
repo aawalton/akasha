@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0230Chapter212TheTempleOfAmanRakPart2 = {
   position: 230,
   ownLength: 2224,
   ownProgress: 2224,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:57.341Z",
   publishedAt: "2025-03-18",
   externalLink:

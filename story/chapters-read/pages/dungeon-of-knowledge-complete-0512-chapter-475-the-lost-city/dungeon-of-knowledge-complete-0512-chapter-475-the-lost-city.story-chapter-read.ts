@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0512Chapter475TheLostCity = {
   position: 512,
   ownLength: 3494,
   ownProgress: 3494,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:37.681Z",
   publishedAt: "2025-12-14",
   externalLink:

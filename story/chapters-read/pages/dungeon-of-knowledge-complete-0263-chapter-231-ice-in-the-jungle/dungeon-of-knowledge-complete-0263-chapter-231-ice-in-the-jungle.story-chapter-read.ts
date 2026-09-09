@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0263Chapter231IceInTheJungle = {
   position: 263,
   ownLength: 2311,
   ownProgress: 2311,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:07.746Z",
   publishedAt: "2025-04-24",
   externalLink:

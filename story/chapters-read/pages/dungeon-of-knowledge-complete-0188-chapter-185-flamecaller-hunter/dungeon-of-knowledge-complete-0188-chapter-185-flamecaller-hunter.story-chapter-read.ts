@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0188Chapter185FlamecallerHunter = {
   position: 188,
   ownLength: 3417,
   ownProgress: 3417,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:17:27.879Z",
   publishedAt: "2025-01-19",
   externalLink:

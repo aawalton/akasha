@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0378Chapter341KingsAndEmperorsPart1 = {
   position: 378,
   ownLength: 2559,
   ownProgress: 2559,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:25.552Z",
   publishedAt: "2025-08-09",
   externalLink:

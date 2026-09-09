@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0221Chapter208ArcheryPracticePart1 = {
   position: 221,
   ownLength: 2272,
   ownProgress: 2272,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:38.386Z",
   publishedAt: "2025-03-09",
   externalLink:

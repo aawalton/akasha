@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0339Chapter302TheDescendantOfEmberforge =
   position: 339,
   ownLength: 2385,
   ownProgress: 2385,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:02.760Z",
   publishedAt: "2025-07-06",
   externalLink:

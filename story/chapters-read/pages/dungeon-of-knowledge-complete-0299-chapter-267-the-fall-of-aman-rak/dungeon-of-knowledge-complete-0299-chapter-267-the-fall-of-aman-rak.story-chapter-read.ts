@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0299Chapter267TheFallOfAmanRak = {
   position: 299,
   ownLength: 2771,
   ownProgress: 2771,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:24.285Z",
   publishedAt: "2025-06-03",
   externalLink:

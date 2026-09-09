@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0351Chapter314TrainingInTheArena = {
   position: 351,
   ownLength: 2597,
   ownProgress: 2597,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:28.551Z",
   publishedAt: "2025-07-17",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0478Chapter441ARingInTheForest = {
   position: 478,
   ownLength: 1564,
   ownProgress: 1564,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:24.535Z",
   publishedAt: "2025-11-13",
   externalLink:

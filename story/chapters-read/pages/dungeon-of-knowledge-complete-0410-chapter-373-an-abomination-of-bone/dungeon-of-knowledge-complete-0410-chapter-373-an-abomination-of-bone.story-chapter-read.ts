@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0410Chapter373AnAbominationOfBone = {
   position: 410,
   ownLength: 2764,
   ownProgress: 2764,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:54.541Z",
   publishedAt: "2025-09-10",
   externalLink:

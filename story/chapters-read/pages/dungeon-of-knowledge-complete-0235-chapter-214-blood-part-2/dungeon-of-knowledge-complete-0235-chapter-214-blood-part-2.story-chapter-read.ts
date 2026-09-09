@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0235Chapter214BloodPart2 = {
   position: 235,
   ownLength: 1860,
   ownProgress: 1860,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:07.959Z",
   publishedAt: "2025-03-23",
   externalLink:

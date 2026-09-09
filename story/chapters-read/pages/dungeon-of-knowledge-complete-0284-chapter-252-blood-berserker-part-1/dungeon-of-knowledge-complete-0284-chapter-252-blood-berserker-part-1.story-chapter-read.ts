@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0284Chapter252BloodBerserkerPart1 = {
   position: 284,
   ownLength: 1973,
   ownProgress: 1973,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:20:51.776Z",
   publishedAt: "2025-05-18",
   externalLink:

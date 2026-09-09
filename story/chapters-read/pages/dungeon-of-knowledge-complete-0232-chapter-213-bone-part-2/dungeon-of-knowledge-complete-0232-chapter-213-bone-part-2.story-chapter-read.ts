@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0232Chapter213BonePart2 = {
   position: 232,
   ownLength: 2002,
   ownProgress: 2002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:01.362Z",
   publishedAt: "2025-03-20",
   externalLink:

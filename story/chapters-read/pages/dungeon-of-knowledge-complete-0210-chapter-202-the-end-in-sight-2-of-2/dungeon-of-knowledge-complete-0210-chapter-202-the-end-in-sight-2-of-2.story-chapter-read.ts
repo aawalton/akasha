@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0210Chapter202TheEndInSight2Of2 = {
   position: 210,
   ownLength: 2815,
   ownProgress: 2815,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:15.310Z",
   publishedAt: "2025-02-25",
   externalLink:

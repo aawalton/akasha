@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0456Chapter419MaalgarothTheCorruptor = {
   position: 456,
   ownLength: 2727,
   ownProgress: 2727,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:36.504Z",
   publishedAt: "2025-10-24",
   externalLink:

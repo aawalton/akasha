@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0212Chapter204DungeonsKill1Of2 = {
   position: 212,
   ownLength: 3711,
   ownProgress: 3711,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:19.550Z",
   publishedAt: "2025-02-27",
   externalLink:

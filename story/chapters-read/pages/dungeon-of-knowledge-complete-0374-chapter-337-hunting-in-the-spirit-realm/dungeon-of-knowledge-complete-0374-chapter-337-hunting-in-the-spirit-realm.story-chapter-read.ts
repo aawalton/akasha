@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0374Chapter337HuntingInTheSpiritRealm = {
   position: 374,
   ownLength: 4259,
   ownProgress: 4259,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:17.068Z",
   publishedAt: "2025-08-05",
   externalLink:

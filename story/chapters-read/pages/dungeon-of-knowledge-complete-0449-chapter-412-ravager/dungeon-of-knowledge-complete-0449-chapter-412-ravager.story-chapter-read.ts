@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0449Chapter412Ravager = {
   position: 449,
   ownLength: 3319,
   ownProgress: 3319,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:21.509Z",
   publishedAt: "2025-10-17",
   externalLink:

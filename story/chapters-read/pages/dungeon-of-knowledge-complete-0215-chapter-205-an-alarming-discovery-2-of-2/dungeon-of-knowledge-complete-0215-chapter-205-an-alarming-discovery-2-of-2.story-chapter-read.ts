@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0215Chapter205AnAlarmingDiscovery2Of2 = {
   position: 215,
   ownLength: 2127,
   ownProgress: 2127,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:26.008Z",
   publishedAt: "2025-03-02",
   externalLink:

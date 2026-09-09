@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0428Chapter391ATimeForTears = {
   position: 428,
   ownLength: 2498,
   ownProgress: 2498,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:32.040Z",
   publishedAt: "2025-09-26",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0298Chapter266AbundantHealing = {
   position: 298,
   ownLength: 2107,
   ownProgress: 2107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:22.192Z",
   publishedAt: "2025-06-02",
   externalLink:

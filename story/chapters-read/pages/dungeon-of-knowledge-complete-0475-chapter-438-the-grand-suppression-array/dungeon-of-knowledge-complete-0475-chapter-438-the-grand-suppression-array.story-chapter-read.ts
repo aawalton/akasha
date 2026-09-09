@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0475Chapter438TheGrandSuppressionArray = 
   position: 475,
   ownLength: 3600,
   ownProgress: 3600,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:17.796Z",
   publishedAt: "2025-11-11",
   externalLink:

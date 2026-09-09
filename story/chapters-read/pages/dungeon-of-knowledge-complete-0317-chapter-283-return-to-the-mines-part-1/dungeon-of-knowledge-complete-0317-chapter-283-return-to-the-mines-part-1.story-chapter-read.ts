@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0317Chapter283ReturnToTheMinesPart1 = {
   position: 317,
   ownLength: 2404,
   ownProgress: 2404,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:03.526Z",
   publishedAt: "2025-06-17",
   externalLink:

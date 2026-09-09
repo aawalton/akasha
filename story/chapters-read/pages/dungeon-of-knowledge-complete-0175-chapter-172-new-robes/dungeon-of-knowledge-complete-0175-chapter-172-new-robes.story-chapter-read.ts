@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0175Chapter172NewRobes = {
   position: 175,
   ownLength: 5670,
   ownProgress: 5670,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:58.364Z",
   publishedAt: "2024-12-19",
   externalLink:

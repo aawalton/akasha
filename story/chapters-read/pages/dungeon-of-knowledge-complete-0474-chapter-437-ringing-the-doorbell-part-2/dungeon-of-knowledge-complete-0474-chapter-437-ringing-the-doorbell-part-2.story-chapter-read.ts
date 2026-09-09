@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0474Chapter437RingingTheDoorbellPart2 = {
   position: 474,
   ownLength: 2350,
   ownProgress: 2350,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:15.706Z",
   publishedAt: "2025-11-10",
   externalLink:

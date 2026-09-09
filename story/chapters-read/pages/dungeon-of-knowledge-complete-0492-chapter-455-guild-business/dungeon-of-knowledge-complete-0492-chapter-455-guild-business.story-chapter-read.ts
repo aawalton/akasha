@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0492Chapter455GuildBusiness = {
   position: 492,
   ownLength: 4001,
   ownProgress: 4001,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:54.006Z",
   publishedAt: "2025-11-26",
   externalLink:

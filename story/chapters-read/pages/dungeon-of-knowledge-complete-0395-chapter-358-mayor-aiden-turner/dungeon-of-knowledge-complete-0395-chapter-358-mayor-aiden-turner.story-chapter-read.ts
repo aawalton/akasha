@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0395Chapter358MayorAidenTurner = {
   position: 395,
   ownLength: 2751,
   ownProgress: 2751,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:25:21.604Z",
   publishedAt: "2025-08-26",
   externalLink:

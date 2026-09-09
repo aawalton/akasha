@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0361Chapter324TeharissaEvensong = {
   position: 361,
   ownLength: 1507,
   ownProgress: 1507,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:48.951Z",
   publishedAt: "2025-07-26",
   externalLink:

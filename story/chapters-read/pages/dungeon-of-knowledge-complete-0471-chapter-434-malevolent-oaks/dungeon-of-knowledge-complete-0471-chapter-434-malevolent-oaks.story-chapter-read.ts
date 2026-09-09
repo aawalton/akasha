@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0471Chapter434MalevolentOaks = {
   position: 471,
   ownLength: 3625,
   ownProgress: 3625,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:28:09.728Z",
   publishedAt: "2025-11-08",
   externalLink:

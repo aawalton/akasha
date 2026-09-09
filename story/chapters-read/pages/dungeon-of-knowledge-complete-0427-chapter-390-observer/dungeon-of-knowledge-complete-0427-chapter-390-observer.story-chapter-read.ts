@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0427Chapter390Observer = {
   position: 427,
   ownLength: 2037,
   ownProgress: 2037,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:30.055Z",
   publishedAt: "2025-09-25",
   externalLink:

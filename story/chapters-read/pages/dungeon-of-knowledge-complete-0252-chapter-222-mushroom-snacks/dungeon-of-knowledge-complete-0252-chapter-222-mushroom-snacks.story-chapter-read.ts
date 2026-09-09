@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0252Chapter222MushroomSnacks = {
   position: 252,
   ownLength: 3788,
   ownProgress: 3788,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:19:43.236Z",
   publishedAt: "2025-04-12",
   externalLink:

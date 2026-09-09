@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0300Chapter268SaviorOfAmanRak = {
   position: 300,
   ownLength: 2099,
   ownProgress: 2099,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:21:26.252Z",
   publishedAt: "2025-06-04",
   externalLink:

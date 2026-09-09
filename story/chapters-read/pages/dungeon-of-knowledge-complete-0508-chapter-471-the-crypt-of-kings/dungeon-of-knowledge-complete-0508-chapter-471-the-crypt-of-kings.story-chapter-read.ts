@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0508Chapter471TheCryptOfKings = {
   position: 508,
   ownLength: 2838,
   ownProgress: 2838,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:28.861Z",
   publishedAt: "2025-12-10",
   externalLink:

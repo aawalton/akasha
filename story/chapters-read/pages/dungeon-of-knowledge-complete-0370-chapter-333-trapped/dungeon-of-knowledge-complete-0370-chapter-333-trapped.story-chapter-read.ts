@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0370Chapter333Trapped = {
   position: 370,
   ownLength: 1970,
   ownProgress: 1970,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:23:08.884Z",
   publishedAt: "2025-08-02",
   externalLink:

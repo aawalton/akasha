@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0465Chapter428SittingAroundTheCampfire = 
   position: 465,
   ownLength: 2974,
   ownProgress: 2974,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:27:56.440Z",
   publishedAt: "2025-11-02",
   externalLink:

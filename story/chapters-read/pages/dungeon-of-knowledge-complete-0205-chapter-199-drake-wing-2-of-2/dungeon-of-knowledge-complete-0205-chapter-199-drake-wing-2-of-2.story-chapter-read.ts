@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0205Chapter199DrakeWing2Of2 = {
   position: 205,
   ownLength: 2717,
   ownProgress: 2717,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:18:04.665Z",
   publishedAt: "2025-02-18",
   externalLink:

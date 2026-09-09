@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0357Chapter320RallyingTheGuild = {
   position: 357,
   ownLength: 4670,
   ownProgress: 4670,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:40.735Z",
   publishedAt: "2025-07-23",
   externalLink:

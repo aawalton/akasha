@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0360Chapter323ForgingRaidGroupsPart3 = {
   position: 360,
   ownLength: 1451,
   ownProgress: 1451,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:47.055Z",
   publishedAt: "2025-07-26",
   externalLink:

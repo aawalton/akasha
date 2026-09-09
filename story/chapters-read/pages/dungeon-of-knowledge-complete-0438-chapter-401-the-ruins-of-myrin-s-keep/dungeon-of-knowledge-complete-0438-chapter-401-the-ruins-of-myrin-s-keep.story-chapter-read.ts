@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0438Chapter401TheRuinsOfMyrinSKeep = {
   position: 438,
   ownLength: 2992,
   ownProgress: 2992,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:26:53.393Z",
   publishedAt: "2025-10-06",
   externalLink:

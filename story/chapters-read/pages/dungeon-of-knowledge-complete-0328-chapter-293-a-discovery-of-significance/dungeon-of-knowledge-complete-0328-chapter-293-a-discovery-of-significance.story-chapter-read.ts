@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0328Chapter293ADiscoveryOfSignificance = 
   position: 328,
   ownLength: 2516,
   ownProgress: 2516,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:27.012Z",
   publishedAt: "2025-06-27",
   externalLink:

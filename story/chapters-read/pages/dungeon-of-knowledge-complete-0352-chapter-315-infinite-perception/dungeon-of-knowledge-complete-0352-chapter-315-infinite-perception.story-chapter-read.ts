@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0352Chapter315InfinitePerception = {
   position: 352,
   ownLength: 2038,
   ownProgress: 2038,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:22:30.635Z",
   publishedAt: "2025-07-18",
   externalLink:
