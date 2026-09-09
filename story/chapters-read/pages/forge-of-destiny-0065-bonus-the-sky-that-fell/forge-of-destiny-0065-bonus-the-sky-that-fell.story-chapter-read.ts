@@ -5,7 +5,7 @@ export const forgeOfDestiny0065BonusTheSkyThatFell = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0065-bonus-the-sky-that-fell",
   title: "Bonus: The Sky that Fell",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 65,
   ownLength: 1124,
   unitSlug: "words",

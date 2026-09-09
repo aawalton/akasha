@@ -5,7 +5,7 @@ export const forgeOfDestiny0051Chapter39ThreeMoons4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0051-chapter-39-three-moons-4",
   title: "Chapter 39-Three Moons 4",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 51,
   ownLength: 2622,
   unitSlug: "words",

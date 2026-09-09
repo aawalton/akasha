@@ -5,7 +5,7 @@ export const forgeOfDestiny0264InTheShadowOfXiangmenIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0264-in-the-shadow-of-xiangmen-iii",
   title: "In the Shadow of Xiangmen III",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 264,
   ownLength: 499,
   unitSlug: "words",
