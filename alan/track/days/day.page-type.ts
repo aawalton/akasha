@@ -11,6 +11,7 @@ import type { Date as TrackedDate } from "./properties/date.text-property.ts"
 import type { FaithPoints } from "./properties/faith-points.number-property.ts"
 import type { FunPoints } from "./properties/fun-points.number-property.ts"
 import type { HealthPoints } from "./properties/health-points.number-property.ts"
+import type { HealthSamples } from "./properties/health-samples.page-property-entry.ts"
 import type { InboxCalendar } from "./properties/inbox-calendar.number-property.ts"
 import type { InboxCalendarClearedToday } from "./properties/inbox-calendar-cleared-today.boolean-property.ts"
 import type { InboxTasks } from "./properties/inbox-tasks.number-property.ts"
@@ -22,6 +23,7 @@ import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-to
 import type { IntelligenceTopics } from "./properties/intelligence-topics.number-property.ts"
 import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
+import type { Listens } from "./properties/listens.page-property-entry.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
@@ -76,6 +78,8 @@ export type Day = Page & {
   sessions?: Sessions
   completedTasks?: CompletedTasks
   personaMessages?: PersonaMessages
+  healthSamples?: HealthSamples
+  listens?: Listens
 }
 
 export const day = {
@@ -148,6 +152,8 @@ export const day = {
     "text-property/safety-level",
     "text-property/to-do-slug",
     "text-property/version",
+    "page-property-entry/health-samples",
+    "page-property-entry/listens",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
@@ -229,6 +235,8 @@ export const day = {
     { pagePropertySlug: "computed-property/sleep-hours", required: false, many: false },
     { pagePropertySlug: "computed-property/spend-hours", required: false, many: false },
     { pagePropertySlug: "computed-property/surplus-hours", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/health-samples", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/listens", required: false, many: false },
   ],
   worked: "ts",
   invariants: [
