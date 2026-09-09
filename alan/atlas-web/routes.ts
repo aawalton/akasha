@@ -5,7 +5,7 @@ export default [
     index("routes/atlas-home/atlas-home.route.code.tsx"),
     route("search", "routes/search.tsx"),
     route("map", "routes/atlas-map/atlas-map.route.code.tsx"),
-    route("trip/:tripParam", "routes/trip.tsx"),
+    route("trip/:tripParam", "routes/atlas-trip/atlas-trip.route.code.tsx"),
     route(
       ":pageTypeSlug/:pageHrefParam",
       "routes/atlas-page-detail/atlas-page-detail.route.code.tsx"

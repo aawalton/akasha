@@ -6,14 +6,13 @@ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
 import { z } from "zod"
-import { LocationMap } from "../location-map/location-map.module.code.tsx"
+import { LocationMap } from "../../location-map/location-map.module.code.tsx"
 import {
   TIME_BUCKET_TOKENS,
   type TimeBucket,
   timeBucket,
-} from "../pin-time-color/pin-time-color.module.code.ts"
-import { type LocationPin, toPins } from "../pins/pins.module.code.ts"
-import type { Route } from "./+types/trip"
+} from "../../pin-time-color/pin-time-color.module.code.ts"
+import { type LocationPin, toPins } from "../../pins/pins.module.code.ts"
 
 const COLLECTION_SLUG = "location-collection"
 
@@ -21,12 +20,13 @@ const BasemapUrlSchema = z.string().url()
 
 type TripStop = LocationPin & { bucket: TimeBucket }
 
-export function meta({ data: loaderData }: Route.MetaArgs) {
-  const title = loaderData?.tripTitle
-  return [{ title: title !== undefined ? `${title} · Atlas` : "Trip · Atlas" }]
-}
-
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { tripParam: string }
+  request: Request
+}) {
   const parsed = parsePageHrefParam(params.tripParam)
   if (!parsed) throw new Response("Not Found", { status: 404 })
 
@@ -63,7 +63,14 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   return data({ tripTitle, stops, basemapUrl }, { headers })
 }
 
-export default function TripRoute({ loaderData }: Route.ComponentProps) {
+type TripLoaderData = Awaited<ReturnType<typeof loader>>["data"]
+
+export function meta({ data: loaderData }: { data: TripLoaderData | undefined }) {
+  const title = loaderData?.tripTitle
+  return [{ title: title !== undefined ? `${title} · Atlas` : "Trip · Atlas" }]
+}
+
+export default function TripRoute({ loaderData }: { loaderData: TripLoaderData }) {
   const { tripTitle, stops, basemapUrl } = loaderData
   return (
     <PageLayout>

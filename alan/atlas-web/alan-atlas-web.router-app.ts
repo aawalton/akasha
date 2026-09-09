@@ -62,5 +62,6 @@ export const alanAtlasWeb = {
     "route/atlas-page-listing",
     "route/atlas-map",
     "route/atlas-page-detail",
+    "route/atlas-trip",
   ],
 } as const satisfies RouterApp
