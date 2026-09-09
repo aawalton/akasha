@@ -1,6 +1,6 @@
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import { getSkillLineCategory } from "@akasha/temper-character-skills/passive-queries"
-import { type ScribedSkillId, scribedSkills } from "@akasha/temper-character-skills/scribed-skills"
+import { scribedSkills } from "@akasha/temper-character-skills/scribed-skills"
 import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import { alliances } from "@akasha/temper-character-sources/alliances"
 import { curses } from "@akasha/temper-character-sources/curses"
@@ -122,277 +122,77 @@ export const POTION_BITS = bitsNeeded(potionIds.length)
 
 export const ESO_PLUS_BITS = bitsNeeded(esoPlusIds.length)
 
-function createIndexMap(ids: readonly string[]): Map<string, number> {
+const scribedSkillIds = scribedSkills.ids
+
+export const SCRIBED_SKILL_BITS = bitsNeeded(scribedSkillIds.length)
+
+function indexIn<Id extends string>(ids: readonly Id[]): (id: string) => number {
   const map = new Map<string, number>()
   for (const [i, id] of ids.entries()) {
     map.set(id, i)
   }
-  return map
+  return (id) => map.get(id) ?? 0
 }
 
-const classIndexMap = createIndexMap(classIds)
-const raceIndexMap = createIndexMap(raceIds)
-const allianceIndexMap = createIndexMap(allianceIds)
-const vampireStageIndexMap = createIndexMap(vampireStageIds)
-const curseIndexMap = createIndexMap(curseIds)
-const mundusIndexMap = createIndexMap(mundusIds)
-const skillLineIndexMap = createIndexMap(skillLineIds)
-
-const armorWeightIndexMap = createIndexMap(armorWeightIds)
-const armorTraitIndexMap = createIndexMap(armorTraitIds)
-const armorEnchantIndexMap = createIndexMap(armorEnchantIds)
-const jewelryTraitIndexMap = createIndexMap(jewelryTraitIds)
-const jewelryEnchantIndexMap = createIndexMap(jewelryEnchantIds)
-const weaponTypeIndexMap = createIndexMap(weaponTypeIds)
-const weaponTraitIndexMap = createIndexMap(weaponTraitIds)
-const weaponEnchantIndexMap = createIndexMap(weaponEnchantIds)
-const poisonIndexMap = createIndexMap(poisonIds)
-const qualityIndexMap = createIndexMap(qualityIds)
-const setIndexMap = createIndexMap(setIds)
-
-const skillIndexMap = createIndexMap(skillIds)
-
-const grimoireIndexMap = createIndexMap(grimoireIds)
-const focusScriptIndexMap = createIndexMap(focusScriptIds)
-const signatureScriptIndexMap = createIndexMap(signatureScriptIds)
-const affixScriptIndexMap = createIndexMap(affixScriptIds)
-
-const championPointIndexMap = createIndexMap(championPointIds)
-
-const foodOrDrinkIndexMap = createIndexMap(foodOrDrinkIds)
-const potionIndexMap = createIndexMap(potionIds)
-
-const esoPlusIndexMap = createIndexMap(esoPlusIds)
-
-export function getClassIndex(id: string): number {
-  return classIndexMap.get(id) ?? 0
+function idIn<Id extends string>(ids: readonly Id[]): (index: number) => Id {
+  return (index) => ids[index] ?? requireFirst(ids)
 }
 
-export function getRaceIndex(id: string): number {
-  return raceIndexMap.get(id) ?? 0
-}
+export const getClassIndex = indexIn(classIds)
+export const getRaceIndex = indexIn(raceIds)
+export const getAllianceIndex = indexIn(allianceIds)
+export const getVampireStageIndex = indexIn(vampireStageIds)
+export const getCurseIndex = indexIn(curseIds)
+export const getMundusIndex = indexIn(mundusIds)
+export const getSkillLineIndex = indexIn(skillLineIds)
+export const getArmorWeightIndex = indexIn(armorWeightIds)
+export const getArmorTraitIndex = indexIn(armorTraitIds)
+export const getArmorEnchantIndex = indexIn(armorEnchantIds)
+export const getJewelryTraitIndex = indexIn(jewelryTraitIds)
+export const getJewelryEnchantIndex = indexIn(jewelryEnchantIds)
+export const getWeaponTypeIndex = indexIn(weaponTypeIds)
+export const getWeaponTraitIndex = indexIn(weaponTraitIds)
+export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
+export const getPoisonIndex = indexIn(poisonIds)
+export const getQualityIndex = indexIn(qualityIds)
+export const getSetIndex = indexIn(setIds)
+export const getSkillIndex = indexIn(skillIds)
+export const getGrimoireIndex = indexIn(grimoireIds)
+export const getFocusScriptIndex = indexIn(focusScriptIds)
+export const getSignatureScriptIndex = indexIn(signatureScriptIds)
+export const getAffixScriptIndex = indexIn(affixScriptIds)
+export const getScribedSkillIndex = indexIn(scribedSkillIds)
+export const getChampionPointIndex = indexIn(championPointIds)
+export const getFoodOrDrinkIndex = indexIn(foodOrDrinkIds)
+export const getPotionIndex = indexIn(potionIds)
+export const getEsoPlusIndex = indexIn(esoPlusIds)
 
-export function getAllianceIndex(id: string): number {
-  return allianceIndexMap.get(id) ?? 0
-}
-
-export function getVampireStageIndex(id: string): number {
-  return vampireStageIndexMap.get(id) ?? 0
-}
-
-export function getCurseIndex(id: string): number {
-  return curseIndexMap.get(id) ?? 0
-}
-
-export function getMundusIndex(id: string): number {
-  return mundusIndexMap.get(id) ?? 0
-}
-
-export function getSkillLineIndex(id: string): number {
-  return skillLineIndexMap.get(id) ?? 0
-}
-
-export function getArmorWeightIndex(id: string): number {
-  return armorWeightIndexMap.get(id) ?? 0
-}
-
-export function getArmorTraitIndex(id: string): number {
-  return armorTraitIndexMap.get(id) ?? 0
-}
-
-export function getArmorEnchantIndex(id: string): number {
-  return armorEnchantIndexMap.get(id) ?? 0
-}
-
-export function getJewelryTraitIndex(id: string): number {
-  return jewelryTraitIndexMap.get(id) ?? 0
-}
-
-export function getJewelryEnchantIndex(id: string): number {
-  return jewelryEnchantIndexMap.get(id) ?? 0
-}
-
-export function getWeaponTypeIndex(id: string): number {
-  return weaponTypeIndexMap.get(id) ?? 0
-}
-
-export function getWeaponTraitIndex(id: string): number {
-  return weaponTraitIndexMap.get(id) ?? 0
-}
-
-export function getWeaponEnchantIndex(id: string): number {
-  return weaponEnchantIndexMap.get(id) ?? 0
-}
-
-export function getPoisonIndex(id: string): number {
-  return poisonIndexMap.get(id) ?? 0
-}
-
-export function getQualityIndex(id: string): number {
-  return qualityIndexMap.get(id) ?? 0
-}
-
-export function getSetIndex(id: string): number {
-  return setIndexMap.get(id) ?? 0
-}
-
-export function getSkillIndex(id: string): number {
-  return skillIndexMap.get(id) ?? 0
-}
-
-export function getGrimoireIndex(id: string): number {
-  return grimoireIndexMap.get(id) ?? 0
-}
-
-export function getFocusScriptIndex(id: string): number {
-  return focusScriptIndexMap.get(id) ?? 0
-}
-
-export function getSignatureScriptIndex(id: string): number {
-  return signatureScriptIndexMap.get(id) ?? 0
-}
-
-export function getAffixScriptIndex(id: string): number {
-  return affixScriptIndexMap.get(id) ?? 0
-}
-
-export function getChampionPointIndex(id: string): number {
-  return championPointIndexMap.get(id) ?? 0
-}
-
-export function getFoodOrDrinkIndex(id: string): number {
-  return foodOrDrinkIndexMap.get(id) ?? 0
-}
-
-export function getPotionIndex(id: string): number {
-  return potionIndexMap.get(id) ?? 0
-}
-
-export function getEsoPlusIndex(id: string): number {
-  return esoPlusIndexMap.get(id) ?? 0
-}
-
-export function getClassId(index: number): (typeof classIds)[number] {
-  return classIds[index] ?? requireFirst(classIds)
-}
-
-export function getRaceId(index: number): (typeof raceIds)[number] {
-  return raceIds[index] ?? requireFirst(raceIds)
-}
-
-export function getAllianceId(index: number): (typeof allianceIds)[number] {
-  return allianceIds[index] ?? requireFirst(allianceIds)
-}
-
-export function getVampireStageId(index: number): (typeof vampireStageIds)[number] {
-  return vampireStageIds[index] ?? requireFirst(vampireStageIds)
-}
-
-export function getCurseId(index: number): (typeof curseIds)[number] {
-  return curseIds[index] ?? requireFirst(curseIds)
-}
-
-export function getMundusId(index: number): (typeof mundusIds)[number] {
-  return mundusIds[index] ?? requireFirst(mundusIds)
-}
-
-export function getSkillLineId(index: number): (typeof skillLineIds)[number] {
-  return skillLineIds[index] ?? requireFirst(skillLineIds)
-}
-
-export function getArmorWeightId(index: number): (typeof armorWeightIds)[number] {
-  return armorWeightIds[index] ?? requireFirst(armorWeightIds)
-}
-
-export function getArmorTraitId(index: number): (typeof armorTraitIds)[number] {
-  return armorTraitIds[index] ?? requireFirst(armorTraitIds)
-}
-
-export function getArmorEnchantId(index: number): (typeof armorEnchantIds)[number] {
-  return armorEnchantIds[index] ?? requireFirst(armorEnchantIds)
-}
-
-export function getJewelryTraitId(index: number): (typeof jewelryTraitIds)[number] {
-  return jewelryTraitIds[index] ?? requireFirst(jewelryTraitIds)
-}
-
-export function getJewelryEnchantId(index: number): (typeof jewelryEnchantIds)[number] {
-  return jewelryEnchantIds[index] ?? requireFirst(jewelryEnchantIds)
-}
-
-export function getWeaponTypeId(index: number): (typeof weaponTypeIds)[number] {
-  return weaponTypeIds[index] ?? requireFirst(weaponTypeIds)
-}
-
-export function getWeaponTraitId(index: number): (typeof weaponTraitIds)[number] {
-  return weaponTraitIds[index] ?? requireFirst(weaponTraitIds)
-}
-
-export function getWeaponEnchantId(index: number): (typeof weaponEnchantIds)[number] {
-  return weaponEnchantIds[index] ?? requireFirst(weaponEnchantIds)
-}
-
-export function getPoisonId(index: number): (typeof poisonIds)[number] {
-  return poisonIds[index] ?? requireFirst(poisonIds)
-}
-
-export function getQualityId(index: number): (typeof qualityIds)[number] {
-  return qualityIds[index] ?? requireFirst(qualityIds)
-}
-
-export function getSetId(index: number): (typeof setIds)[number] {
-  return setIds[index] ?? requireFirst(setIds)
-}
-
-export function getSkillId(index: number): (typeof skillIds)[number] {
-  return skillIds[index] ?? requireFirst(skillIds)
-}
-
-export function getPassiveSkillId(index: number): (typeof passiveSkillIds)[number] {
-  return passiveSkillIds[index] ?? requireFirst(passiveSkillIds)
-}
-
-export function getGrimoireId(index: number): (typeof grimoireIds)[number] {
-  return grimoireIds[index] ?? requireFirst(grimoireIds)
-}
-
-export function getFocusScriptId(index: number): (typeof focusScriptIds)[number] {
-  return focusScriptIds[index] ?? requireFirst(focusScriptIds)
-}
-
-export function getSignatureScriptId(index: number): (typeof signatureScriptIds)[number] {
-  return signatureScriptIds[index] ?? requireFirst(signatureScriptIds)
-}
-
-export function getAffixScriptId(index: number): (typeof affixScriptIds)[number] {
-  return affixScriptIds[index] ?? requireFirst(affixScriptIds)
-}
-
-export function getChampionPointId(index: number): (typeof championPointIds)[number] {
-  return championPointIds[index] ?? requireFirst(championPointIds)
-}
-
-export function getFoodOrDrinkId(index: number): (typeof foodOrDrinkIds)[number] {
-  return foodOrDrinkIds[index] ?? requireFirst(foodOrDrinkIds)
-}
-
-export function getPotionId(index: number): (typeof potionIds)[number] {
-  return potionIds[index] ?? requireFirst(potionIds)
-}
-
-export function getEsoPlusId(index: number): (typeof esoPlusIds)[number] {
-  return esoPlusIds[index] ?? requireFirst(esoPlusIds)
-}
-
-const scribedSkillIds = scribedSkills.ids
-const scribedSkillIndexMap = createIndexMap(scribedSkillIds)
-
-export const SCRIBED_SKILL_BITS = bitsNeeded(scribedSkillIds.length)
-
-export function getScribedSkillIndex(id: string): number {
-  return scribedSkillIndexMap.get(id) ?? 0
-}
-
-export function getScribedSkillId(index: number): ScribedSkillId {
-  return scribedSkillIds[index] ?? requireFirst(scribedSkillIds)
-}
+export const getClassId = idIn(classIds)
+export const getRaceId = idIn(raceIds)
+export const getAllianceId = idIn(allianceIds)
+export const getVampireStageId = idIn(vampireStageIds)
+export const getCurseId = idIn(curseIds)
+export const getMundusId = idIn(mundusIds)
+export const getSkillLineId = idIn(skillLineIds)
+export const getArmorWeightId = idIn(armorWeightIds)
+export const getArmorTraitId = idIn(armorTraitIds)
+export const getArmorEnchantId = idIn(armorEnchantIds)
+export const getJewelryTraitId = idIn(jewelryTraitIds)
+export const getJewelryEnchantId = idIn(jewelryEnchantIds)
+export const getWeaponTypeId = idIn(weaponTypeIds)
+export const getWeaponTraitId = idIn(weaponTraitIds)
+export const getWeaponEnchantId = idIn(weaponEnchantIds)
+export const getPoisonId = idIn(poisonIds)
+export const getQualityId = idIn(qualityIds)
+export const getSetId = idIn(setIds)
+export const getSkillId = idIn(skillIds)
+export const getPassiveSkillId = idIn(passiveSkillIds)
+export const getGrimoireId = idIn(grimoireIds)
+export const getFocusScriptId = idIn(focusScriptIds)
+export const getSignatureScriptId = idIn(signatureScriptIds)
+export const getAffixScriptId = idIn(affixScriptIds)
+export const getScribedSkillId = idIn(scribedSkillIds)
+export const getChampionPointId = idIn(championPointIds)
+export const getFoodOrDrinkId = idIn(foodOrDrinkIds)
+export const getPotionId = idIn(potionIds)
+export const getEsoPlusId = idIn(esoPlusIds)
