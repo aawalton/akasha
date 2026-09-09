@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ran } from "@akasha/utils/run/running"
+import { READS_AT, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import {
   actingIn,
   agentIn,

@@ -1,4 +1,4 @@
-import { SUBAGENT_MARK } from "@akasha/command-system/reading"
+import { SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import type { Answer } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   ASIDE,

@@ -1,7 +1,7 @@
 import { appendFileSync, existsSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { READS_AT, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
+import { READS_AT, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import { ASIDE, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"

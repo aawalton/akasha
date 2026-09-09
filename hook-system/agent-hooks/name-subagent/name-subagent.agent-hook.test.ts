@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { ACTING_NAMED, SEAT_NAMED, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { ran } from "@akasha/utils/run/running"
+import {
+  ACTING_NAMED,
+  SEAT_NAMED,
+  SUBAGENT_MARK,
+} from "../../../commands/modules/reading/reading.module.code.ts"
 import { ASIDE, LET_THROUGH } from "../../hook-answer/hook-answer.module.code.ts"
 import {
   actingIn,

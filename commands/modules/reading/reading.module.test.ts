@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing } from "../scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { writing } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
 import type { Opening } from "./reading.module.code.ts"
 import {
   ACTING_NAMED,

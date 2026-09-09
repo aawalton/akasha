@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { blobIdOf, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
+import { blobIdOf, recordRead } from "../../../commands/modules/reading/reading.module.code.ts"
 import {
   knowingIn,
   unreadIn,

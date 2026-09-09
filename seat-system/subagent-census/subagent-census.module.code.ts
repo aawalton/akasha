@@ -1,10 +1,10 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { valuesOfType } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+import { SUBAGENT_MARK } from "../../commands/modules/reading/reading.module.code.ts"
 import {
   actingAgentPidsFromProc,
   type ProcLivenessEntry,

@@ -1,7 +1,6 @@
 import { resolve } from "node:path"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import { dropReadings } from "@akasha/command-system/reading"
 import { createSubagentReader, type SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { scanProcEntries } from "@akasha/seat-system/proc-scan"
 import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
@@ -20,6 +19,7 @@ import {
   type Given,
 } from "../../../../command-system/calling/calling.module.code.ts"
 import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { dropReadings } from "../../../modules/reading/reading.module.code.ts"
 
 const REMOVE = "--remove"
 

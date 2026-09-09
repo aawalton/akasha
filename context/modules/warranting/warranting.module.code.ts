@@ -1,6 +1,10 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
+import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages/page-export-name"
+import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+import { slugOf } from "@akasha/seat-system/subagent-presence"
 import {
   blobIdOf,
   partly,
@@ -9,11 +13,7 @@ import {
   recordRead,
   SUBAGENT_MARK,
   sameBody,
-} from "@akasha/command-system/reading"
-import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import { slugOf } from "@akasha/seat-system/subagent-presence"
+} from "../../../commands/modules/reading/reading.module.code.ts"
 
 const READING = "akasha read"
 

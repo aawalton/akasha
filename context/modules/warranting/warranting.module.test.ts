@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { blobIdOf, recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { pageFiled } from "@akasha/indexes/testing"
+import {
+  blobIdOf,
+  recordRead,
+  SUBAGENT_MARK,
+} from "../../../commands/modules/reading/reading.module.code.ts"
 import {
   agentPathOf,
   callOf,

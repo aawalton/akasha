@@ -1,6 +1,5 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dropReadings, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { everyOfType, listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
@@ -9,6 +8,10 @@ import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { textAt } from "@akasha/utils/narrow/text-at"
 import type { FileEdit } from "../../../commands/modules/landing/landing.module.code.ts"
 import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
+import {
+  dropReadings,
+  SUBAGENT_MARK,
+} from "../../../commands/modules/reading/reading.module.code.ts"
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"

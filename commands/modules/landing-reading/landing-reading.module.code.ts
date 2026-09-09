@@ -1,4 +1,7 @@
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import type { Running } from "../drafting/drafting.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
 import {
   blobIdOf,
   type Carry,
@@ -7,10 +10,7 @@ import {
   type Reading,
   readingIn,
   recordRead,
-} from "../../../command-system/reading/reading.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { Running } from "../drafting/drafting.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
+} from "../reading/reading.module.code.ts"
 
 export function recordLanded(given: Given, changes: readonly FileEdit[]): undefined {
   if (given.agentId === null) return

@@ -3,11 +3,11 @@ import { readdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bodyOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils/run/running"
-import { blobIdOf } from "../../../command-system/reading/reading.module.code.ts"
 import {
   SCRATCH_AT,
   scratchWorld,
 } from "../../../command-system/scratching/scratching.module.code.ts"
+import { blobIdOf } from "../reading/reading.module.code.ts"
 import { bodyRead, differenceOf } from "./differing.module.code.ts"
 
 const scratch = scratchWorld()
