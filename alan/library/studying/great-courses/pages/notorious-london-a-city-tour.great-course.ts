@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const notoriousLondonACityTour = {
   id: "019db533-f39f-7522-b547-f9091190f3c7",

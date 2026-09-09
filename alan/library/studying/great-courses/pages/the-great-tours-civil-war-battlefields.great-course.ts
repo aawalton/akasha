@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theGreatToursCivilWarBattlefields = {
   id: "019db533-f39f-73db-bbf0-09bc8f9f7ee0",

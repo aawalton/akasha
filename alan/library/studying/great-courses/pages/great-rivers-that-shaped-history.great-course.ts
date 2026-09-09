@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const greatRiversThatShapedHistory = {
   id: "01a06578-671b-7001-a73a-6297cd522904",

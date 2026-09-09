@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const americaSBestStateParksForSummerFun = {
   id: "019db533-f39f-76d6-bf9e-e3b48ac3c330",

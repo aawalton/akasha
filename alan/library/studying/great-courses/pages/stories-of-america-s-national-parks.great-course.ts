@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const storiesOfAmericaSNationalParks = {
   id: "019db533-f39f-7464-b20c-30467266584f",
