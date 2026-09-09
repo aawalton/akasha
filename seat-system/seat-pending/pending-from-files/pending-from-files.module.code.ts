@@ -2,12 +2,12 @@ import {
   everyRecipient,
   messagesTo,
 } from "../../messaging/message-file/message-file.module.code.ts"
-import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
 import {
   anyLiveShell,
   anyLiveSubagent,
   workingOf,
-} from "../../seat-turn/turn-working/turn-working.module.code.ts"
+} from "../../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { seatsPresent } from "../../seat-roster/seat-roster.module.code.ts"
 import type { TurnPendingComponent } from "../../seat-turn-pending/seat-turn-pending.module.code.ts"
 
 export interface SeatPending {

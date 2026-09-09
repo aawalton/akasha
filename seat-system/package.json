@@ -244,7 +244,7 @@
     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
     "./terminal-seat-marks": "./terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts",
     "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
-    "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts",
+    "./turn-working": "./seat-observation/seat-turn/turn-working/turn-working.module.code.ts",
     "./seat-proc-key": "./seat-proc-key/seat-proc-key.module.code.ts",
     "./seat-akasha-beside": "./seat-akasha-beside/seat-akasha-beside.module.code.ts",
     "./seat-akasha-read": "./seat-akasha-read/seat-akasha-read.module.code.ts",

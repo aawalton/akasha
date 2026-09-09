@@ -5,7 +5,7 @@ import {
 import type { InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
 import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
-import { takeOpenTasks } from "../../seat-turn/turn-working/turn-working.module.code.ts"
+import { takeOpenTasks } from "../../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,

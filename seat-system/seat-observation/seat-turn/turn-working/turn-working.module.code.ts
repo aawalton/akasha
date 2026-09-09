@@ -1,7 +1,7 @@
 import { closeSync, openSync, readSync, statSync } from "node:fs"
-import { akashaObservedOf } from "../../seat-akasha-read/seat-akasha-read.module.code.ts"
-import { keepBesideUnder } from "../../seat-beside/seat-beside.module.code.ts"
-import { seatNameForAgent } from "../../seat-presence-read/seat-presence-read.module.code.ts"
+import { akashaObservedOf } from "../../../seat-akasha-read/seat-akasha-read.module.code.ts"
+import { keepBesideUnder } from "../../../seat-beside/seat-beside.module.code.ts"
+import { seatNameForAgent } from "../../../seat-presence-read/seat-presence-read.module.code.ts"
 
 export const WORKING_KEY = "turn-working"
 

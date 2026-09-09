@@ -1,13 +1,13 @@
 import { attributesOf } from "../seat-attributes/seat-attributes.module.code.ts"
-import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
-import { roleIsOnCall } from "../seat-role-on-call/seat-role-on-call.module.code.ts"
 import {
   anyWorking,
   anyWorkingRead,
   type TurnWorking,
   workingOf,
-} from "../seat-turn/turn-working/turn-working.module.code.ts"
+} from "../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
+import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
+import { roleIsOnCall } from "../seat-role-on-call/seat-role-on-call.module.code.ts"
 import {
   anyPendingRead,
   pendingOf,
