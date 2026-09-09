@@ -1,8 +1,5 @@
-import {
-  type Asked,
-  askComposed as askComposedThere,
-  type ComposedQuery,
-} from "../store-page-asking/store-page-asking.module.code.ts"
+import { askComposed as askComposedThere } from "../store-page-asking/store-page-asking.module.code.ts"
+import type { Asked, ComposedQuery } from "../store-questioning/store-questioning.module.code.ts"
 import type { Fetcher, Sleeper } from "../store-reaching/store-reaching.module.code.ts"
 import { askedAsSpelled } from "../store-spelling/store-spelling.module.code.ts"
 

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Asked, ComposedQuery } from "../store-page-asking/store-page-asking.module.code.ts"
+import type { Asked, ComposedQuery } from "../store-questioning/store-questioning.module.code.ts"
 import {
   askedAsSpelled,
   bothSpellings,

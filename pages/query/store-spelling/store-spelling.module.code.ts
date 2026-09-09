@@ -2,7 +2,7 @@ import type {
   Asked,
   ComposedQuery,
   QueryRow,
-} from "../store-page-asking/store-page-asking.module.code.ts"
+} from "../store-questioning/store-questioning.module.code.ts"
 
 function camelizeKey(key: string): string {
   const segments = key.split(/[^A-Za-z0-9]+/).filter((one) => one.length > 0)

@@ -1,4 +1,4 @@
-import type { ComposedQuery } from "@akasha/pages-query/ask"
+import type { ComposedQuery } from "@akasha/pages-query/answer-schema"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { z } from "zod"
 import {
