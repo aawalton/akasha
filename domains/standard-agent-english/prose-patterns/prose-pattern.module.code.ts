@@ -196,7 +196,10 @@ function particled(sentence: DepSentence, token: DepToken): boolean {
   const next = byId(sentence, token.id + 1)
   if (next !== undefined && PARTICLES.has(lower(next))) return true
   const object = child(sentence, token.id, OBJECT)
-  return object !== undefined && particleUnder(sentence, object.id)
+  if (object === undefined) return false
+  const after = byId(sentence, object.id + 1)
+  if (after !== undefined && PARTICLES.has(lower(after)) && after.deprel !== CASE) return true
+  return particleUnder(sentence, object.id)
 }
 
 function subjectOfItsOwn(sentence: DepSentence, token: DepToken): boolean {

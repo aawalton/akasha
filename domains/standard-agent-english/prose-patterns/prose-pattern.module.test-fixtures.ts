@@ -419,6 +419,15 @@ export const NAMES_A_PATH_RATHER_THAN_HOLDING: readonly Row[] = [
   ["key", "NOUN", 8, "obj"],
 ]
 
+export const A_RUN_HOLDING_ANYTHING_BACK: readonly Row[] = [
+  ["A", "DET", 2, "det"],
+  ["run", "NOUN", 3, "nsubj"],
+  ["holding", "VERB", 0, "root"],
+  ["anything", "PRON", 3, "obj"],
+  ["back", "NOUN", 6, "compound"],
+  ["ends", "NOUN", 3, "xcomp"],
+]
+
 export const A_TERMINAL_HOLDING_KEYS: readonly Row[] = [
   ["a", "DET", 2, "det"],
   ["terminal", "NOUN", 0, "root"],

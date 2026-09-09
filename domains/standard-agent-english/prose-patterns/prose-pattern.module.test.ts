@@ -8,6 +8,7 @@ import {
   A_PERSON_HOLDS,
   A_READ_ASKS_RATHER_THAN_HOLDING,
   A_RECORD_HOLDS_BETWEEN_ROUNDS,
+  A_RUN_HOLDING_ANYTHING_BACK,
   A_TERMINAL_HOLDING_KEYS,
   A_TIMER_HOLDS_THE_PROCESS_UP,
   A_TREE_IS_HELD_TO_RELEASE,
@@ -82,6 +83,10 @@ test("a particle right after a word is a particle the parser called a prepositio
 
 test("a particle the parser hung on a word's object is that word's particle", () => {
   expect(foundIn(sentenceOf(THE_PROXY_HOLDS_TRAFFIC_OUT), HOLD)).toEqual([])
+})
+
+test("a particle right after a word's object is that word's particle", () => {
+  expect(foundIn(sentenceOf(A_RUN_HOLDING_ANYTHING_BACK), HOLD)).toEqual([])
 })
 
 test("a word with an object of its own is found", () => {
