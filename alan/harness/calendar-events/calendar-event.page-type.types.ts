@@ -1,4 +1,4 @@
-import type { Page } from "../../../../pages/page.page-type.ts"
+import type { Page } from "../../../pages/page.page-type.ts"
 import type { CalendarEventAgeGroups } from "./properties/calendar-event-age-groups.text-property.ts"
 import type { CalendarEventAllDay } from "./properties/calendar-event-all-day.boolean-property.ts"
 import type { CalendarEventEndAt } from "./properties/calendar-event-end-at.instant-property.ts"
