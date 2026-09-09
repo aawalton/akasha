@@ -1,7 +1,7 @@
 import {
   pgbouncerExporterDeploymentYaml,
   pgbouncerExporterServiceYaml,
-} from "./modules/pgbouncer-exporter-manifests/pgbouncer-exporter-manifests.module.code.ts"
+} from "./modules/manifests/pgbouncer-exporter-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
