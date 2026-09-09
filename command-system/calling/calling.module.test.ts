@@ -144,7 +144,7 @@ test("a namespace naming no command is answered with what sits under it", async 
     {
       slug: "track-session",
       definition: "the stretches a day holds",
-      partSlugs: ["command/track-session-open"],
+      parts: ["command/track-session-open"],
     },
   ])
   const said = await calling(["track", "session"], { ...OUTSIDE, root })
@@ -157,11 +157,11 @@ test("a namespace naming no command is answered with what sits under it", async 
 test("a namespace under a namespace is listed as one word more", async () => {
   const root = rootWith([{ slug: "track-session-open", body: ANSWERS }])
   namespacesIn(root, [
-    { slug: "track", definition: "a day", partSlugs: ["namespace/track-session"] },
+    { slug: "track", definition: "a day", parts: ["namespace/track-session"] },
     {
       slug: "track-session",
       definition: "the stretches",
-      partSlugs: ["command/track-session-open"],
+      parts: ["command/track-session-open"],
     },
   ])
   const said = await calling(["track"], { ...OUTSIDE, root })
@@ -175,7 +175,7 @@ test("a command reached under a namespace is answered rather than the namespace"
     {
       slug: "track-session",
       definition: "the stretches",
-      partSlugs: ["command/track-session-open"],
+      parts: ["command/track-session-open"],
     },
   ])
   const said = await calling(["track", "session", "open", "one"], { ...OUTSIDE, root })

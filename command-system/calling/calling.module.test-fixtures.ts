@@ -97,7 +97,7 @@ export const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 export type Under = {
   readonly slug: string
   readonly definition?: string
-  readonly partSlugs: readonly string[]
+  readonly parts: readonly string[]
 }
 
 export function namespacesIn(root: string, named: readonly Under[]): undefined {
@@ -114,7 +114,7 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
     writeFileSync(
       join(root, at),
       `export const ${exportedAs(one.slug)} = { slug: "${one.slug}"${stated}` +
-        `, partSlugs: ${JSON.stringify(one.partSlugs)} }\n`
+        `, parts: ${JSON.stringify(one.parts)} }\n`
     )
     minted = minted + 1
     const id = `01a06c7c-0000-7000-8000-00000000000${minted}`
