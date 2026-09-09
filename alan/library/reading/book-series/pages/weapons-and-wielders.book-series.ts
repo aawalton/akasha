@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const weaponsAndWielders = {
   id: "019db533-f38a-7446-b978-1c200bccce47",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "weapons-and-wielders",
   title: "Weapons and Wielders",
   status: "following",

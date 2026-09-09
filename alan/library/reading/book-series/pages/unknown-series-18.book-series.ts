@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const unknownSeries18 = {
   id: "019db533-f38a-73b5-8fa9-37beb9a24ad1",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "unknown-series-18",
   title: "Unknown Series",
   status: "following",

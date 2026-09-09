@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const rcnSeries = {
   id: "019db533-f39b-74b8-bc24-97849b30f5d4",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "rcn-series",
   title: "RCN Series",
   status: "not-started",

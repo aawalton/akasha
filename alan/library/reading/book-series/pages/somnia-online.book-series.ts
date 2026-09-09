@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const somniaOnline = {
   id: "019db533-f38b-76f2-bc00-16c96ba019ea",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "somnia-online",
   title: "Somnia Online",
   status: "completed",

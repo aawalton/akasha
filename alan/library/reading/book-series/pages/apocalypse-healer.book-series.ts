@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const apocalypseHealer = {
   id: "019db533-f38b-7929-a36a-8c5e377a493d",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "apocalypse-healer",
   title: "Apocalypse Healer",
   status: "not-started",

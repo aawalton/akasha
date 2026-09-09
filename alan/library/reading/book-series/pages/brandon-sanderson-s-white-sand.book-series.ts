@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const brandonSandersonSWhiteSand = {
   id: "019db533-f39d-7357-a970-46df301f861f",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "brandon-sanderson-s-white-sand",
   title: "Brandon Sanderson's White Sand",
   status: "not-started",

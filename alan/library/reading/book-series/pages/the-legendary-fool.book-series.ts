@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const theLegendaryFool = {
   id: "019db533-f38b-766a-b7e7-3f3fada242ae",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "the-legendary-fool",
   title: "The Legendary Fool",
   status: "not-started",

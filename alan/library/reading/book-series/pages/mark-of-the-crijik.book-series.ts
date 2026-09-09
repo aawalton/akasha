@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const markOfTheCrijik = {
   id: "019db533-f38b-77f9-8dba-8dfeba4fffbb",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",
   status: "not-started",

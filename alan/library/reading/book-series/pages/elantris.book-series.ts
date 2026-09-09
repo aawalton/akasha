@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const elantris = {
   id: "019db533-f39b-7568-a35a-4ddcc65edd80",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "elantris",
   title: "Elantris",
   status: "not-started",

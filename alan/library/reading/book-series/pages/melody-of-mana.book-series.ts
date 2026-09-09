@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const melodyOfMana = {
   id: "019db533-f38b-7802-b7cb-9ea8155205ca",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "melody-of-mana",
   title: "Melody of Mana",
   status: "not-started",

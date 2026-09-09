@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const endsOfMagic = {
   id: "019db533-f38b-784c-b6c1-352ee7a84bfa",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "ends-of-magic",
   title: "Ends of Magic",
   status: "following",

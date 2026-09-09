@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const azarinthHealer = {
   id: "019db533-f38b-78da-8821-0ab9cc836bb9",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "azarinth-healer",
   title: "Azarinth Healer",
   status: "completed",

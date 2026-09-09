@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const pern = {
   id: "019db533-f39b-7578-87a5-41aa373f34f6",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "pern",
   title: "Pern",
   status: "paused",

@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const honorHarringtonSaganamiIsland = {
   id: "019db533-f39b-7528-9852-bc4e8afe7005",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "honor-harrington-saganami-island",
   title: "Honor Harrington: Saganami Island",
   status: "not-started",

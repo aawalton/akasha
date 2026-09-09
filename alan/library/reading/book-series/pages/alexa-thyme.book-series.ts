@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const alexaThyme = {
   id: "019db533-f38b-7946-bf8c-7ece09cf1d5b",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "alexa-thyme",
   title: "Alexa Thyme",
   status: "following",

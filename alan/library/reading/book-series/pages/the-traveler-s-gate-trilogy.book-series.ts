@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const theTravelerSGateTrilogy = {
   id: "019db533-f39b-74d0-b323-2873189b7d8e",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "the-traveler-s-gate-trilogy",
   title: "The Traveler's Gate Trilogy",
   status: "not-started",

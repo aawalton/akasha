@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const bobiverse = {
   id: "019db533-f39b-7538-9749-02e9370ed104",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "bobiverse",
   title: "Bobiverse",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const worldTreeTrilogy = {
   id: "019db533-f38b-761e-8016-1a0b865db48f",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
   status: "completed",

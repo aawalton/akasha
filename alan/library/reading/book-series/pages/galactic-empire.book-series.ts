@@ -3,6 +3,7 @@ import type { BookSeries } from "../book-series.page-type.ts"
 export const galacticEmpire = {
   id: "019db533-f39b-75a8-a0d5-4e840f3e3ed9",
   pageTypeSlug: "book-series",
+  type: "book-series",
   slug: "galactic-empire",
   title: "Galactic Empire",
   status: "not-started",
