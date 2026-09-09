@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0126Chapter624LeaSFirstSchema = {
   id: "01a06731-ae10-7000-b6b6-5373da88df99",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0126-chapter-624-lea-s-first-schema",
   title: "Chapter: 624 - Lea's First Schema",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

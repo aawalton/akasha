@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0037Chapter539QuietRemembrance = {
   id: "01a06731-ad86-7000-9de4-38af5ed6be92",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0037-chapter-539-quiet-remembrance",
   title: "Chapter: 539 - Quiet Remembrance",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

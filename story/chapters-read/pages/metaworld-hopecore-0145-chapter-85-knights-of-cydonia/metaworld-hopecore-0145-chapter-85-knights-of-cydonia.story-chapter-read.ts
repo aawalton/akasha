@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0145Chapter85KnightsOfCydonia = {
   id: "01a06731-af21-7000-a44a-420fa81c333d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0145-chapter-85-knights-of-cydonia",
   title: "CHAPTER 85 - Knights of Cydonia",
   story: "metaworld-hopecore",

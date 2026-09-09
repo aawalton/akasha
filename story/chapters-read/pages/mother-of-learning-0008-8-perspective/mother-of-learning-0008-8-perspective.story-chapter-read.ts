@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning00088Perspective = {
   id: "01a06731-b02e-7000-8873-3ff96c76866b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0008-8-perspective",
   title: "8. Perspective",
   story: "story-read/mother-of-learning",

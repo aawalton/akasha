@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0021Chapter11LifeOnMars2 = {
   id: "01a06731-aed2-7002-bfe9-ce1a1d621af2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0021-chapter-11-life-on-mars-2",
   title: "CHAPTER 11 - Life on Mars (2) ",
   story: "metaworld-hopecore",

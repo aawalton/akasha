@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0133Chapter79AChangeIsGonnaCome = {
   id: "01a06731-af1a-7003-8222-a73f851febab",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0133-chapter-79-a-change-is-gonna-come",
   title: "CHAPTER 79 - A Change Is Gonna Come",
   story: "metaworld-hopecore",

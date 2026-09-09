@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning001818ThePactIsSealed = {
   id: "01a06731-b03d-7000-a3b8-5f364cb77628",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0018-18-the-pact-is-sealed",
   title: "18. The Pact is Sealed",
   story: "story-read/mother-of-learning",

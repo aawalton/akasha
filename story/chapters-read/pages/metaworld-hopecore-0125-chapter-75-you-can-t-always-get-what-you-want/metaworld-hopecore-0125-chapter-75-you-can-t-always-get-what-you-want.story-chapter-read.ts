@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0125Chapter75YouCanTAlwaysGetWhatYouWant = {
   id: "01a06731-af18-7000-978a-3252b44bd260",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0125-chapter-75-you-can-t-always-get-what-you-want",
   title: "CHAPTER 75 - You Can’t Always Get What You Want",
   story: "metaworld-hopecore",

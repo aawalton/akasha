@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0045Chapter24TheActor = {
   id: "01a06731-aee0-7002-87dc-aacefb9135d7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0045-chapter-24-the-actor",
   title: "CHAPTER 24 - The Actor",
   story: "metaworld-hopecore",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0223Chapter714MomentsAndTimesOfImport = {
   id: "01a06743-b3db-7000-8677-e80153daf653",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0223-chapter-714-moments-and-times-of-import",
   title: "Chapter: 714 - Moments and Times of Import",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

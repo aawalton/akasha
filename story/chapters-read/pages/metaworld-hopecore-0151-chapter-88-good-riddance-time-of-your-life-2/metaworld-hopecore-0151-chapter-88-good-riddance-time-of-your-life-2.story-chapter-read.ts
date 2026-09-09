@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0151Chapter88GoodRiddanceTimeOfYourLife2 = {
   id: "01a06731-af27-7001-8415-61e8d859467c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0151-chapter-88-good-riddance-time-of-your-life-2",
   title: "CHAPTER 88 - Good Riddance (Time of Your Life) (2) ",
   story: "metaworld-hopecore",

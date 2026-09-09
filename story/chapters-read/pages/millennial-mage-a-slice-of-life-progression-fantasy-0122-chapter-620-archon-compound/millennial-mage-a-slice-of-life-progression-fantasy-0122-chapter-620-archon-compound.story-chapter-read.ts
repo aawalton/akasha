@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCompound = {
   id: "01a06731-ae0b-7000-9a17-7a2c9003a8c2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0122-chapter-620-archon-compound",
   title: "Chapter: 620 - Archon Compound",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

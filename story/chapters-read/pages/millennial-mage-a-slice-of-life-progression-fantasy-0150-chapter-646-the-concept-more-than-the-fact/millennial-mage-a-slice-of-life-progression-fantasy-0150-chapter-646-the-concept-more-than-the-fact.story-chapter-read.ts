@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0150Chapter646TheConceptMoreThanTheFact = {
   id: "01a06731-ae32-7000-ba4e-f1073fc835eb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0150-chapter-646-the-concept-more-than-the-fact",
   title: "Chapter: 646 - The Concept More than the Fact",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

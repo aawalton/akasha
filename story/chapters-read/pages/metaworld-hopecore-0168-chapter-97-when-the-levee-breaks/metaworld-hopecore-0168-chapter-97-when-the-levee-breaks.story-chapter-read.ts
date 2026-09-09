@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0168Chapter97WhenTheLeveeBreaks = {
   id: "01a06731-af35-7000-809b-7703da3f0d48",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0168-chapter-97-when-the-levee-breaks",
   title: "CHAPTER 97 - When the Levee Breaks",
   story: "metaworld-hopecore",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0254Chapter743DistractingTheDistraction = {
   id: "01a06743-b41f-7000-8916-f37b796405b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0254-chapter-743-distracting-the-distraction",
   title: "Chapter: 743 - Distracting the Distraction",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

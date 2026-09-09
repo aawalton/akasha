@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShamelessSelfPlug = {
   id: "01a06731-ae18-7000-8099-ec2842ad2d68",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0131-not-a-chapter-shameless-self-plug",
   title: "<Not a Chapter> Shameless Self-Plug",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

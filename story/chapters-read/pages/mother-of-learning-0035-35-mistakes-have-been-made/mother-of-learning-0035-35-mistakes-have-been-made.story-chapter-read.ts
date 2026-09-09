@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning003535MistakesHaveBeenMade = {
   id: "01a06731-b053-7000-b7e0-e235459f8fbf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0035-35-mistakes-have-been-made",
   title: "35. Mistakes Have Been Made",
   story: "story-read/mother-of-learning",

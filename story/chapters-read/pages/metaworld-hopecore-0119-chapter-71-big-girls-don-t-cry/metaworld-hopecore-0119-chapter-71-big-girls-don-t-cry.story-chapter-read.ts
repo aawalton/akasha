@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
   id: "01a06731-af13-7000-a19d-62695d851811",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0119-chapter-71-big-girls-don-t-cry",
   title: "CHAPTER 71 - Big Girls Don't Cry",
   story: "metaworld-hopecore",

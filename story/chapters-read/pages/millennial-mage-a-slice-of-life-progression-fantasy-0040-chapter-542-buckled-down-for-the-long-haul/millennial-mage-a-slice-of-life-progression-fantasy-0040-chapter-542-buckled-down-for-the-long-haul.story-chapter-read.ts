@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0040Chapter542BuckledDownForTheLongHaul = {
   id: "01a06731-ad8a-7000-aafd-efd7e0c7eaac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0040-chapter-542-buckled-down-for-the-long-haul",
   title: "Chapter: 542 - Buckled Down for the Long-Haul",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

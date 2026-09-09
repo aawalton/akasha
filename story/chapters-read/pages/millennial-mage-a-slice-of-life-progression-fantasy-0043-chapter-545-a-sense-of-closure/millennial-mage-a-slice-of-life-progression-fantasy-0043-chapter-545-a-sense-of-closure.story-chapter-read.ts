@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0043Chapter545ASenseOfClosure = {
   id: "01a06731-ad8d-7000-b413-3d7df8628bcb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0043-chapter-545-a-sense-of-closure",
   title: "Chapter: 545 - A Sense of Closure",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

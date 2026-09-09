@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0039Chapter541WhoMightYouBe = {
   id: "01a06731-ad88-7000-b353-91ab596ebb02",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0039-chapter-541-who-might-you-be",
   title: "Chapter: 541 - Who Might You Be?",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

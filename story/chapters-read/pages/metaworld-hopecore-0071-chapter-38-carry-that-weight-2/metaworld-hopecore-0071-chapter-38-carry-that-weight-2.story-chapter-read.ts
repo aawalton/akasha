@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0071Chapter38CarryThatWeight2 = {
   id: "01a06731-aeea-7001-8f46-804d96f14f76",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0071-chapter-38-carry-that-weight-2",
   title: "Chapter 38 - Carry that Weight (2) ",
   story: "metaworld-hopecore",

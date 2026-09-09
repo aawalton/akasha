@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0155FlockboundMm11AudiobookLaunch = {
   id: "01a06731-ae46-7000-b48b-fe36fd23df61",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0155-flockbound-mm-11-audiobook-launch",
   title: "Flockbound - MM 11 - Audiobook Launch",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

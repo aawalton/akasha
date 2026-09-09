@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0139Chapter636EnoughForMe = {
   id: "01a06731-ae23-7000-95a9-54ac9b36a5fe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0139-chapter-636-enough-for-me",
   title: "Chapter: 636 - Enough for Me",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

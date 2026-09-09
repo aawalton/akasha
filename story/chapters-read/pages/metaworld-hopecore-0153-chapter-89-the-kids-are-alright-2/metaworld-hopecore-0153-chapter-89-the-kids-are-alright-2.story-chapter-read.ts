@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0153Chapter89TheKidsAreAlright2 = {
   id: "01a06731-af28-7000-8349-2ce1650a7b66",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0153-chapter-89-the-kids-are-alright-2",
   title: "CHAPTER 89 — The Kids Are Alright (2)",
   story: "metaworld-hopecore",

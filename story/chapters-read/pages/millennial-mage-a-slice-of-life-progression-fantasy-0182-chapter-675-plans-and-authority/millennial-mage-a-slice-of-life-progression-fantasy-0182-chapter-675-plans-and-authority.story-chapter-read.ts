@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0182Chapter675PlansAndAuthority = {
   id: "01a06731-ae71-7000-9acd-2cdd19e46e59",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0182-chapter-675-plans-and-authority",
   title: "Chapter: 675 - Plans and Authority",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

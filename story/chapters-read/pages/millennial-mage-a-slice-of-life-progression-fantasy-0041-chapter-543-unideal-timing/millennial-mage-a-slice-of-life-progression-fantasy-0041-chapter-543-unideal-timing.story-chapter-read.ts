@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0041Chapter543UnidealTiming = {
   id: "01a06731-ad8b-7000-88b7-b81062ec8b49",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0041-chapter-543-unideal-timing",
   title: "Chapter: 543 - Unideal Timing",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

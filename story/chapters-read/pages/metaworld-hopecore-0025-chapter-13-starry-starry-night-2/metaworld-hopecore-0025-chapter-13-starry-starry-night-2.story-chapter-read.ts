@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0025Chapter13StarryStarryNight2 = {
   id: "01a06731-aed7-7000-9729-65a71bb07f3b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0025-chapter-13-starry-starry-night-2",
   title: "CHAPTER 13 - Starry Starry Night (2) ",
   story: "metaworld-hopecore",

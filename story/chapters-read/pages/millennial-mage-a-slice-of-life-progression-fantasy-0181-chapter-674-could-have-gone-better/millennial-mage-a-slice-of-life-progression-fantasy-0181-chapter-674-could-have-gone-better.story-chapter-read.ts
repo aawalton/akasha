@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHaveGoneBetter = {
   id: "01a06731-ae6f-7000-844a-32483e0c9892",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0181-chapter-674-could-have-gone-better",
   title: "Chapter: 674 - Could Have Gone Better",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

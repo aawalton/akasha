@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0160Chapter92EverybodysTalkin2 = {
   id: "01a06731-af2f-7001-91d4-8dfcb0f6b097",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0160-chapter-92-everybodys-talkin-2",
   title: "CHAPTER 92 - Everybody's Talkin’ (2)",
   story: "metaworld-hopecore",

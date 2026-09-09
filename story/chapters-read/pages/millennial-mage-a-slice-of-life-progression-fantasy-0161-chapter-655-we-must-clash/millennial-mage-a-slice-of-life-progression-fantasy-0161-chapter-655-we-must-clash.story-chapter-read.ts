@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0161Chapter655WeMustClash = {
   id: "01a06731-ae4e-7001-9758-af1ba3ee1c3d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0161-chapter-655-we-must-clash",
   title: "Chapter: 655 - We Must Clash",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

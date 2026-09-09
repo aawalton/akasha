@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0090JulySkipDayAndandVoidboundBook10 = {
   id: "01a06731-add5-7000-8912-5e41e060af16",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0090-july-skip-day-andand-voidbound-book-10",
   title: "July Skip Day && Voidbound - Book 10 Cover Reveal!",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

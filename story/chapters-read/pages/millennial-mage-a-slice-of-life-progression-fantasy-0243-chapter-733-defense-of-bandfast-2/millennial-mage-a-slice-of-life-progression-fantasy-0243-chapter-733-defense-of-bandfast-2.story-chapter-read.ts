@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0243Chapter733DefenseOfBandfast2 = {
   id: "01a06743-b407-7000-9f71-259e64b418f1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0243-chapter-733-defense-of-bandfast-2",
   title: "Chapter: 733 - Defense of Bandfast (2)",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

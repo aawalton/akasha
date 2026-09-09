@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0002ImageGallery = {
   id: "01a06731-ad60-7001-b4c6-77b4f3e86f33",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0002-image-gallery",
   title: "Image Gallery",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

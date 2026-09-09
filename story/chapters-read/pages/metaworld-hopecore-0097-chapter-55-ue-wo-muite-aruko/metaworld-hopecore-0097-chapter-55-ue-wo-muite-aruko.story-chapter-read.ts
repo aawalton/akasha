@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0097Chapter55UeWoMuiteAruko = {
   id: "01a06731-aefd-7001-9b00-50eec4e6b2c9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0097-chapter-55-ue-wo-muite-aruko",
   title: "CHAPTER 55 - Ue wo Muite Arukō ",
   story: "metaworld-hopecore",

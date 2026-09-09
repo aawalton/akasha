@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0136Chapter80TheHeartOfTheMatter2 = {
   id: "01a06731-af1b-7002-ae78-6459178509e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0136-chapter-80-the-heart-of-the-matter-2",
   title: "CHAPTER 80 - The Heart of the Matter (2) ",
   story: "metaworld-hopecore",

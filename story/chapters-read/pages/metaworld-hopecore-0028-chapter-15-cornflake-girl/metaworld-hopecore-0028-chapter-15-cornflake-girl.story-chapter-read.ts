@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0028Chapter15CornflakeGirl = {
   id: "01a06731-aed7-7003-9d52-dea70c3d4145",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0028-chapter-15-cornflake-girl",
   title: "CHAPTER 15 - Cornflake Girl",
   story: "metaworld-hopecore",

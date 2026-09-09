@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0038Chapter20SuspiciousMinds2 = {
   id: "01a06731-aedc-7000-84a2-f5b174b8418a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0038-chapter-20-suspicious-minds-2",
   title: "CHAPTER 20 - Suspicious Minds (2)",
   story: "metaworld-hopecore",

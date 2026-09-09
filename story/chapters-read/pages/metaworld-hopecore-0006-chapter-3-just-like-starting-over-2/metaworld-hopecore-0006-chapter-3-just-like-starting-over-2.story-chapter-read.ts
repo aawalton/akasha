@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0006Chapter3JustLikeStartingOver2 = {
   id: "01a06731-aecc-7000-9f73-7f6cb21c4f12",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0006-chapter-3-just-like-starting-over-2",
   title: "Chapter 3 - (Just Like) Starting Over (2)",
   story: "metaworld-hopecore",

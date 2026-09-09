@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning00077OfGapsAndPretending = {
   id: "01a06731-b02c-7000-92ba-010dbf1d3fc4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0007-7-of-gaps-and-pretending",
   title: "7. Of Gaps And Pretending",
   story: "story-read/mother-of-learning",

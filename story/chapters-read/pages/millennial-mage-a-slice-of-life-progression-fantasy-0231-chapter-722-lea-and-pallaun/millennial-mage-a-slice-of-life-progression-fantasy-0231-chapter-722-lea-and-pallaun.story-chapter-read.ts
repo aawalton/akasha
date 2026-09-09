@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0231Chapter722LeaAndPallaun = {
   id: "01a06743-b3eb-7000-9acf-c35d4e3a0ca1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0231-chapter-722-lea-and-pallaun",
   title: "Chapter: 722 - Lea and Pallaun",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0095FreeGiveawayBook1AudioInCelebration = {
   id: "01a06731-addd-7000-b2c1-546f94d9736e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0095-free-giveaway-book-1-audio-in-celebration",
   title: "<FREE Giveaway> Book 1 Audio in Celebration of Book 10's Upcoming Release",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

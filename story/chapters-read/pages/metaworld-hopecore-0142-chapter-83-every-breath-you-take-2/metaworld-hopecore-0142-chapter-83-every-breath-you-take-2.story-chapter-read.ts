@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0142Chapter83EveryBreathYouTake2 = {
   id: "01a06731-af1d-7004-bc47-ed061630e88f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0142-chapter-83-every-breath-you-take-2",
   title: "CHAPTER 83 — Every Breath You Take (2)",
   story: "metaworld-hopecore",

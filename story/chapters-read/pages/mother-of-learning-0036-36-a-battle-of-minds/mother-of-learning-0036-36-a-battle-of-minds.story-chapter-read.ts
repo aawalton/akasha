@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning003636ABattleOfMinds = {
   id: "01a06731-b054-7000-9f19-ab3da218f9ee",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0036-36-a-battle-of-minds",
   title: "36. A Battle of Minds",
   story: "story-read/mother-of-learning",

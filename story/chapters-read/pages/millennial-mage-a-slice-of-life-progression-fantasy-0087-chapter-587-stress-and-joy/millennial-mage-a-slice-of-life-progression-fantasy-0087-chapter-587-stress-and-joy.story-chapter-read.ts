@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0087Chapter587StressAndJoy = {
   id: "01a06731-add3-7000-8355-d49448ba55af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0087-chapter-587-stress-and-joy",
   title: "Chapter: 587 - Stress and Joy",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

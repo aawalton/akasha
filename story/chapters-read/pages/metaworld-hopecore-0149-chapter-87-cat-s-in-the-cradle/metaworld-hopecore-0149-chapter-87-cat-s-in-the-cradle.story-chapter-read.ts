@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0149Chapter87CatSInTheCradle = {
   id: "01a06731-af26-7000-b157-65cc761dadf0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0149-chapter-87-cat-s-in-the-cradle",
   title: "CHAPTER 87 — Cat's in the Cradle",
   story: "metaworld-hopecore",

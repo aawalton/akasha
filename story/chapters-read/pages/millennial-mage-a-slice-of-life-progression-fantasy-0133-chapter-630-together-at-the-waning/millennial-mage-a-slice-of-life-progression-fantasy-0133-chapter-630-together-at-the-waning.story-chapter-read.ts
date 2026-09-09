@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0133Chapter630TogetherAtTheWaning = {
   id: "01a06731-ae19-7000-be67-dc89446d07a0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0133-chapter-630-together-at-the-waning",
   title: "Chapter: 630 - Together at the Waning",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

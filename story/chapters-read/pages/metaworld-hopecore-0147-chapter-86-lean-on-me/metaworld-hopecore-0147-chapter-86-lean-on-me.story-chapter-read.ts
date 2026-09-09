@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0147Chapter86LeanOnMe = {
   id: "01a06731-af24-7000-9231-c03f051f6ea9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0147-chapter-86-lean-on-me",
   title: "CHAPTER 86 — Lean on Me",
   story: "metaworld-hopecore",

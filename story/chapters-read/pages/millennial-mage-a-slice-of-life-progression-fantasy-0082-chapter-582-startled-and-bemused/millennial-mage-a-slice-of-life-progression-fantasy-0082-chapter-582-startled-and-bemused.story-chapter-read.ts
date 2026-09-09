@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0082Chapter582StartledAndBemused = {
   id: "01a06731-adcc-7000-af7e-580da8ae9f7e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0082-chapter-582-startled-and-bemused",
   title: "Chapter: 582 - Startled and Bemused",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

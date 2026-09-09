@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0100Chapter57MiageteGoranYoruNoHoshiWo = {
   id: "01a06731-af00-7000-9656-2a670d4bfc36",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0100-chapter-57-miagete-goran-yoru-no-hoshi-wo",
   title: "CHAPTER 57 - Miagete Goran Yoru no Hoshi wo",
   story: "metaworld-hopecore",

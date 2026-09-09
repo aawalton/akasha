@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const millennialMageASliceOfLifeProgressionFantasy0020Chapter173TightSpaces = {
   id: "01a06731-ad79-7001-be97-94404352faa0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0020-chapter-173-tight-spaces",
   title: "Chapter: 173 - Tight Spaces",
   story: "millennial-mage-a-slice-of-life-progression-fantasy",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning002929TheHuntersAndTheHunted = {
   id: "01a06731-b04d-7000-8acc-bc06cc50fd17",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0029-29-the-hunters-and-the-hunted",
   title: "29. The Hunters and the Hunted",
   story: "story-read/mother-of-learning",

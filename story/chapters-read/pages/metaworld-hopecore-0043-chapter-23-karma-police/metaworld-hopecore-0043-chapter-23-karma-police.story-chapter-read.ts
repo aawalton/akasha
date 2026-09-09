@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const metaworldHopecore0043Chapter23KarmaPolice = {
   id: "01a06731-aee0-7000-87ee-7414d71f243d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "metaworld-hopecore-0043-chapter-23-karma-police",
   title: "CHAPTER 23 - Karma Police",
   story: "metaworld-hopecore",
