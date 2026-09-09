@@ -5,6 +5,6 @@ export const disintegrationOrbBeamDispersal = {
   pageTypeSlug: "world-spell",
   slug: "disintegration-orb-beam-dispersal",
   title: "Disintegration Orb, Beam Dispersal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

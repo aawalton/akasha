@@ -5,6 +5,6 @@ export const acheniteSMagicalShackles = {
   pageTypeSlug: "world-spell",
   slug: "achenite-s-magical-shackles",
   title: "Achenite’s Magical Shackles",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

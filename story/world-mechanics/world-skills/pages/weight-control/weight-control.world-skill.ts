@@ -5,6 +5,6 @@ export const weightControl = {
   pageTypeSlug: "world-skill",
   slug: "weight-control",
   title: "Weight Control",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

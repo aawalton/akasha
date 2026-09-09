@@ -5,6 +5,6 @@ export const adaptiveMessage = {
   pageTypeSlug: "world-spell",
   slug: "adaptive-message",
   title: "Adaptive Message",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

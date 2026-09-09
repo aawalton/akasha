@@ -5,5 +5,5 @@ export const harmonyOfMana = {
   pageTypeSlug: "world-song",
   slug: "harmony-of-mana",
   title: "Harmony of Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSong

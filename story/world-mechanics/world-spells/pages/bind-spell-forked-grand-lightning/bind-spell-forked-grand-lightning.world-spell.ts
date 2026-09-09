@@ -5,6 +5,6 @@ export const bindSpellForkedGrandLightning = {
   pageTypeSlug: "world-spell",
   slug: "bind-spell-forked-grand-lightning",
   title: "Bind Spell: Forked Grand Lightning",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

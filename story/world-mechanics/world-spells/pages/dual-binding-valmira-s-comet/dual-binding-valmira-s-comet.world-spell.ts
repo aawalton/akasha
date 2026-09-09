@@ -5,6 +5,6 @@ export const dualBindingValmiraSComet = {
   pageTypeSlug: "world-spell",
   slug: "dual-binding-valmira-s-comet",
   title: "Dual Binding: Valmira’s Comet",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

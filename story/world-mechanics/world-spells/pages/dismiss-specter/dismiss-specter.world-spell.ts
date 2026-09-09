@@ -5,6 +5,6 @@ export const dismissSpecter = {
   pageTypeSlug: "world-spell",
   slug: "dismiss-specter",
   title: "Dismiss Specter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

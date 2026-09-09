@@ -5,5 +5,5 @@ export const oldbloodOfGems = {
   pageTypeSlug: "world-species",
   slug: "oldblood-of-gems",
   title: "Oldblood of Gems",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpecies

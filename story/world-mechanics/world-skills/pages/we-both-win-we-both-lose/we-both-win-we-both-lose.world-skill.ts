@@ -5,6 +5,6 @@ export const weBothWinWeBothLose = {
   pageTypeSlug: "world-skill",
   slug: "we-both-win-we-both-lose",
   title: "We Both Win, We Both Lose",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

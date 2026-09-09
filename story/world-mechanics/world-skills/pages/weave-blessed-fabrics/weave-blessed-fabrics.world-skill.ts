@@ -5,6 +5,6 @@ export const weaveBlessedFabrics = {
   pageTypeSlug: "world-skill",
   slug: "weave-blessed-fabrics",
   title: "Weave Blessed Fabrics",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

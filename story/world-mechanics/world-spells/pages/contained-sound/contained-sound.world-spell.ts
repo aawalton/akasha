@@ -5,6 +5,6 @@ export const containedSound = {
   pageTypeSlug: "world-spell",
   slug: "contained-sound",
   title: "Contained Sound",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

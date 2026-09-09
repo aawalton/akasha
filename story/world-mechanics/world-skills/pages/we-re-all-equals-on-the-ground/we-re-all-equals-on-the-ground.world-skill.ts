@@ -5,6 +5,6 @@ export const weReAllEqualsOnTheGround = {
   pageTypeSlug: "world-skill",
   slug: "we-re-all-equals-on-the-ground",
   title: "We’re All Equals On the Ground",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const withHisTwoHorsesUnnamedFreud = {
   pageTypeSlug: "world-skill",
   slug: "with-his-two-horses-unnamed-freud",
   title: "…With His Two Horses (Unnamed, Freud)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

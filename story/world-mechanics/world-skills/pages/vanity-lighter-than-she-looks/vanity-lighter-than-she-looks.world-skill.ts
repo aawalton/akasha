@@ -5,6 +5,6 @@ export const vanityLighterThanSheLooks = {
   pageTypeSlug: "world-skill",
   slug: "vanity-lighter-than-she-looks",
   title: "Vanity: Lighter Than She Looks",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

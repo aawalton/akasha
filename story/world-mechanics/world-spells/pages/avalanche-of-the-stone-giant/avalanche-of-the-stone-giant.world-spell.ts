@@ -5,6 +5,6 @@ export const avalancheOfTheStoneGiant = {
   pageTypeSlug: "world-spell",
   slug: "avalanche-of-the-stone-giant",
   title: "Avalanche of the Stone Giant",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

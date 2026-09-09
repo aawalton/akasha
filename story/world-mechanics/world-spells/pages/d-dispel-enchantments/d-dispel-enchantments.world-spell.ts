@@ -5,6 +5,6 @@ export const dDispelEnchantments = {
   pageTypeSlug: "world-spell",
   slug: "d-dispel-enchantments",
   title: "D-Dispel Enchantments",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

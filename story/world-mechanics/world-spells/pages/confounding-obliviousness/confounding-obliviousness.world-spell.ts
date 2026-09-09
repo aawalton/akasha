@@ -5,6 +5,6 @@ export const confoundingObliviousness = {
   pageTypeSlug: "world-spell",
   slug: "confounding-obliviousness",
   title: "Confounding Obliviousness",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

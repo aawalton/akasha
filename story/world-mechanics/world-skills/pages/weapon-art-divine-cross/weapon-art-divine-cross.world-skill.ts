@@ -5,6 +5,6 @@ export const weaponArtDivineCross = {
   pageTypeSlug: "world-skill",
   slug: "weapon-art-divine-cross",
   title: "Weapon Art: Divine Cross",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

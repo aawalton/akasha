@@ -5,6 +5,6 @@ export const arcOfMidnight = {
   pageTypeSlug: "world-spell",
   slug: "arc-of-midnight",
   title: "Arc of Midnight",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

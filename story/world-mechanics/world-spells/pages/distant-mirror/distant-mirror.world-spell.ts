@@ -5,6 +5,6 @@ export const distantMirror = {
   pageTypeSlug: "world-spell",
   slug: "distant-mirror",
   title: "Distant Mirror",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

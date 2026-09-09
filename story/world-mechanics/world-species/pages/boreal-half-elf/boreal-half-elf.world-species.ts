@@ -5,5 +5,5 @@ export const borealHalfElf = {
   pageTypeSlug: "world-species",
   slug: "boreal-half-elf",
   title: "Boreal Half-Elf",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpecies

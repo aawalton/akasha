@@ -5,6 +5,6 @@ export const animateFrostmarrowBehemoth = {
   pageTypeSlug: "world-spell",
   slug: "animate-frostmarrow-behemoth",
   title: "Animate Frostmarrow Behemoth",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

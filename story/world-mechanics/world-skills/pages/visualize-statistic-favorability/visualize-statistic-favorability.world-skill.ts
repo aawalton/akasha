@@ -5,6 +5,6 @@ export const visualizeStatisticFavorability = {
   pageTypeSlug: "world-skill",
   slug: "visualize-statistic-favorability",
   title: "Visualize Statistic: Favorability",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

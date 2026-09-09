@@ -5,6 +5,6 @@ export const crimsonStormOfTheBloodDemon = {
   pageTypeSlug: "world-spell",
   slug: "crimson-storm-of-the-blood-demon",
   title: "Crimson Storm of the Blood Demon",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const createPebble = {
   pageTypeSlug: "world-spell",
   slug: "create-pebble",
   title: "Create: Pebble",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

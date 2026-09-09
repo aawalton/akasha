@@ -5,6 +5,6 @@ export const volatileMix = {
   pageTypeSlug: "world-skill",
   slug: "volatile-mix",
   title: "Volatile Mix",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

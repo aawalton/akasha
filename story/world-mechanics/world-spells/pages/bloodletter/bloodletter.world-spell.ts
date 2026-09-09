@@ -5,5 +5,5 @@ export const bloodletter = {
   pageTypeSlug: "world-spell",
   slug: "bloodletter",
   title: "Bloodletter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

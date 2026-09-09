@@ -5,6 +5,6 @@ export const blueRayOfLesserDisintegration = {
   pageTypeSlug: "world-spell",
   slug: "blue-ray-of-lesser-disintegration",
   title: "Blue Ray of Lesser Disintegration",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

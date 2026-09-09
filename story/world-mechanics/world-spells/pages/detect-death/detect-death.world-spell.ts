@@ -5,6 +5,6 @@ export const detectDeath = {
   pageTypeSlug: "world-spell",
   slug: "detect-death",
   title: "Detect Death",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

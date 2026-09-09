@@ -5,6 +5,6 @@ export const cracklingArmorOfTheLightningEmperor = {
   pageTypeSlug: "world-spell",
   slug: "crackling-armor-of-the-lightning-emperor",
   title: "Crackling Armor of the Lightning Emperor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

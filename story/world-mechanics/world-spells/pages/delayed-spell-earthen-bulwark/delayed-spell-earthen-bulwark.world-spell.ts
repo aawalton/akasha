@@ -5,6 +5,6 @@ export const delayedSpellEarthenBulwark = {
   pageTypeSlug: "world-spell",
   slug: "delayed-spell-earthen-bulwark",
   title: "Delayed Spell: Earthen Bulwark",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

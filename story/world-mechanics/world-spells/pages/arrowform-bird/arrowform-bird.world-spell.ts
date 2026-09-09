@@ -5,6 +5,6 @@ export const arrowformBird = {
   pageTypeSlug: "world-spell",
   slug: "arrowform-bird",
   title: "Arrowform: Bird",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

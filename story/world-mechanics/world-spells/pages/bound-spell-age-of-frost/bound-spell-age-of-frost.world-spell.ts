@@ -5,6 +5,6 @@ export const boundSpellAgeOfFrost = {
   pageTypeSlug: "world-spell",
   slug: "bound-spell-age-of-frost",
   title: "Bound Spell: Age of Frost",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

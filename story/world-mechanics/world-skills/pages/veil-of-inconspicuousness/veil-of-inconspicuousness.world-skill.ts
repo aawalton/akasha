@@ -5,6 +5,6 @@ export const veilOfInconspicuousness = {
   pageTypeSlug: "world-skill",
   slug: "veil-of-inconspicuousness",
   title: "Veil of Inconspicuousness",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

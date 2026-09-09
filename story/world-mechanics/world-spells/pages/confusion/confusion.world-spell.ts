@@ -5,6 +5,6 @@ export const confusion = {
   pageTypeSlug: "world-spell",
   slug: "confusion",
   title: "Confusion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

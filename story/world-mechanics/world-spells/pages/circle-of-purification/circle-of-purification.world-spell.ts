@@ -5,5 +5,5 @@ export const circleOfPurification = {
   pageTypeSlug: "world-spell",
   slug: "circle-of-purification",
   title: "Circle of Purification",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

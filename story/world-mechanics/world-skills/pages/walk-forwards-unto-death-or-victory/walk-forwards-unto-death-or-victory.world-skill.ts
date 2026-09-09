@@ -5,6 +5,6 @@ export const walkForwardsUntoDeathOrVictory = {
   pageTypeSlug: "world-skill",
   slug: "walk-forwards-unto-death-or-victory",
   title: "Walk Forwards Unto Death, Or Victory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

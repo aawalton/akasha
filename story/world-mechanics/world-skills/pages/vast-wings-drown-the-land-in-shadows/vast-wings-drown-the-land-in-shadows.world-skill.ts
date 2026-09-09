@@ -5,6 +5,6 @@ export const vastWingsDrownTheLandInShadows = {
   pageTypeSlug: "world-skill",
   slug: "vast-wings-drown-the-land-in-shadows",
   title: "Vast Wings Drown the Land in Shadows",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

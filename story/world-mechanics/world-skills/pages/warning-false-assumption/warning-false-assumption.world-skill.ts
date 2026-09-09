@@ -5,6 +5,6 @@ export const warningFalseAssumption = {
   pageTypeSlug: "world-skill",
   slug: "warning-false-assumption",
   title: "Warning: False Assumption",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

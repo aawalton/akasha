@@ -5,6 +5,6 @@ export const boltOfRadianceExplosiveCharge = {
   pageTypeSlug: "world-spell",
   slug: "bolt-of-radiance-explosive-charge",
   title: "Bolt of Radiance: Explosive Charge",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

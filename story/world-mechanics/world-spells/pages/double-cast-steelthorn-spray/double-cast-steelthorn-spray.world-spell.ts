@@ -5,6 +5,6 @@ export const doubleCastSteelthornSpray = {
   pageTypeSlug: "world-spell",
   slug: "double-cast-steelthorn-spray",
   title: "Double Cast: Steelthorn Spray",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

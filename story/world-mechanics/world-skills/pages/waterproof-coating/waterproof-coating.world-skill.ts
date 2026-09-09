@@ -5,6 +5,6 @@ export const waterproofCoating = {
   pageTypeSlug: "world-skill",
   slug: "waterproof-coating",
   title: "Waterproof Coating",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

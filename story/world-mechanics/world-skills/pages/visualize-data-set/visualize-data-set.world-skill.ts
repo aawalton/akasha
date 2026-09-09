@@ -5,6 +5,6 @@ export const visualizeDataSet = {
   pageTypeSlug: "world-skill",
   slug: "visualize-data-set",
   title: "Visualize Data Set",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

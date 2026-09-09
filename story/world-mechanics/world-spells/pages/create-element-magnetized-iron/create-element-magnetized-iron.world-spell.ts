@@ -5,6 +5,6 @@ export const createElementMagnetizedIron = {
   pageTypeSlug: "world-spell",
   slug: "create-element-magnetized-iron",
   title: "Create Element: Magnetized Iron",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

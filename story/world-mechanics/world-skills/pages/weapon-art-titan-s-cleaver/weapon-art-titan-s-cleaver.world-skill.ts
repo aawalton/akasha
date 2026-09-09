@@ -5,6 +5,6 @@ export const weaponArtTitanSCleaver = {
   pageTypeSlug: "world-skill",
   slug: "weapon-art-titan-s-cleaver",
   title: "Weapon Art: Titan’s Cleaver",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const vesselStormriderSBlessing = {
   pageTypeSlug: "world-skill",
   slug: "vessel-stormrider-s-blessing",
   title: "Vessel: Stormrider’s Blessing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

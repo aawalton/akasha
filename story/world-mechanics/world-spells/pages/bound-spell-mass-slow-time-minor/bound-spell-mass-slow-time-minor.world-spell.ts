@@ -5,5 +5,5 @@ export const boundSpellMassSlowTimeMinor = {
   pageTypeSlug: "world-spell",
   slug: "bound-spell-mass-slow-time-minor",
   title: "Bound Spell – Mass Slow Time (Minor)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

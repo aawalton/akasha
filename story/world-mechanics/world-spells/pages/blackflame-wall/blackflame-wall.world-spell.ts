@@ -5,6 +5,6 @@ export const blackflameWall = {
   pageTypeSlug: "world-spell",
   slug: "blackflame-wall",
   title: "Blackflame Wall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

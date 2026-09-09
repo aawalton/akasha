@@ -5,6 +5,6 @@ export const weaponProficiencySword = {
   pageTypeSlug: "world-skill",
   slug: "weapon-proficiency-sword",
   title: "Weapon Proficiency: Sword",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const boundSpellTheDragonflyNet = {
   pageTypeSlug: "world-spell",
   slug: "bound-spell-the-dragonfly-net",
   title: "Bound Spell: The Dragonfly Net",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

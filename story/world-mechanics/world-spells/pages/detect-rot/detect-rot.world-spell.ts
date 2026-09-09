@@ -5,6 +5,6 @@ export const detectRot = {
   pageTypeSlug: "world-spell",
   slug: "detect-rot",
   title: "Detect Rot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

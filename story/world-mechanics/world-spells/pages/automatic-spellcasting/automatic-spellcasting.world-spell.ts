@@ -5,6 +5,6 @@ export const automaticSpellcasting = {
   pageTypeSlug: "world-spell",
   slug: "automatic-spellcasting",
   title: "Automatic Spellcasting",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

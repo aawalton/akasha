@@ -5,6 +5,6 @@ export const wildGiftElephantSStrength = {
   pageTypeSlug: "world-skill",
   slug: "wild-gift-elephant-s-strength",
   title: "Wild Gift: Elephant’s Strength",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

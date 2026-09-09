@@ -5,5 +5,5 @@ export const airShield = {
   pageTypeSlug: "world-spell",
   slug: "air-shield",
   title: "Air Shield",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

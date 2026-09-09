@@ -5,6 +5,6 @@ export const autocastSpeedSpell = {
   pageTypeSlug: "world-spell",
   slug: "autocast-speed-spell",
   title: "Autocast: Speed Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell
