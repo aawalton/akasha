@@ -1,8 +1,8 @@
-import { expect, test } from "bun:test"
-import { mkdtempSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   BODY_FILING,
   COMPOSING,
@@ -23,8 +23,12 @@ function refusedIn(argv: readonly string[], taking: Taking): string {
   return "refused" in held ? held.refused.join(" | ") : ""
 }
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function rootAt(): string {
-  return mkdtempSync(join(tmpdir(), "email-command-reading-"))
+  return scratch.rootFor("email-command-reading-")
 }
 
 function givenAt(root: string): Given {
