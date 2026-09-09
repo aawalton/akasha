@@ -18,8 +18,6 @@ const INDEX_NAME = "name"
 
 const ATTRIBUTES = "attributes"
 
-const ATTRIBUTE_SLUGS = "attributeSlugs"
-
 const APART = "\n"
 
 const BY_INDEX: Known = "index"
@@ -34,7 +32,7 @@ export type Edge = {
 export type Asking = {
   readonly kind: string
   readonly indexName: string
-  readonly attributeSlugs: readonly string[]
+  readonly attributes: readonly string[]
 }
 
 function askedFor(path: string, kinds: readonly string[]): string {
@@ -78,7 +76,7 @@ function indexNameFor(index: Answering, named: string, asked: string): string {
 }
 
 function attributesIn(held: Value): readonly string[] {
-  const said = held[ATTRIBUTES] ?? held[ATTRIBUTE_SLUGS]
+  const said = held[ATTRIBUTES]
   if (!Array.isArray(said)) return []
   return said.filter((one): one is string => typeof one === "string").map(slugOf)
 }
@@ -88,15 +86,15 @@ function askingFor(index: Answering, kind: string, asked: string): Asking {
   return {
     kind,
     indexName: indexNameFor(index, textFor(found.value, INDEX, found.path, asked), asked),
-    attributeSlugs: attributesIn(found.value),
+    attributes: attributesIn(found.value),
   }
 }
 
 function attributeFor(asking: Asking, asked: string): string {
-  const only = asking.attributeSlugs[0]
-  if (asking.attributeSlugs.length !== 1 || only === undefined) {
+  const only = asking.attributes[0]
+  if (asking.attributes.length !== 1 || only === undefined) {
     throw new Error(
-      `the \`${asking.kind}\` edge carries ${asking.attributeSlugs.length} attributes rather than the one it is read by, so ${asked} could not be answered`
+      `the \`${asking.kind}\` edge carries ${asking.attributes.length} attributes rather than the one it is read by, so ${asked} could not be answered`
     )
   }
   return only
