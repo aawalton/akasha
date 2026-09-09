@@ -158,12 +158,16 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder with a page type beside its workspace package answers for the page type.",
+      statement: "A folder with a page type beside a second page answers for the page type.",
     },
     {
       invariantKind: "departure",
-      statement: "That workspace package is slugged the page type's slug.",
+      statement: "That second page is a workspace package or a domain of the page type's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page type answers because a page type must state the plural slug a folder is named from.",
     },
     {
       invariantKind: "departure",

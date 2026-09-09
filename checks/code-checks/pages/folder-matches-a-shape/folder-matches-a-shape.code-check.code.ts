@@ -37,6 +37,8 @@ const PAGE_TYPE = "page-type"
 
 const PACKAGE = "workspace-package"
 
+const DOMAIN = "domain"
+
 const RECORD_PROPERTY = "record-property"
 
 const ONE_OF_PROPERTY = "one-of-property"
@@ -269,12 +271,18 @@ function pairs(page: Held, said: Held): boolean {
   return page.pageTypeSlug === PAGE_TYPE && page.slug !== null && said.slug === page.slug
 }
 
+const BESIDE = new Set<string>([PACKAGE, DOMAIN])
+
+function beside(said: Held): boolean {
+  return said.pageTypeSlug !== null && BESIDE.has(said.pageTypeSlug)
+}
+
 export function pairedIn(pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
-  if (two.pageTypeSlug === PACKAGE && pairs(one, two)) return [one, two]
-  if (one.pageTypeSlug === PACKAGE && pairs(two, one)) return [two, one]
+  if (beside(two) && pairs(one, two)) return [one, two]
+  if (beside(one) && pairs(two, one)) return [two, one]
   return []
 }
 
