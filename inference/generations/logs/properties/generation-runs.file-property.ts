@@ -17,5 +17,18 @@ export const generationRuns = {
       invariantKind: "departure",
       statement: "A run records where its output was written rather than the output itself.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Rows past the most bytes one file may have roll into a numbered part beside that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first part beside a page is part2.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each further part takes the next number up.",
+    },
   ],
 } as const satisfies FileProperty
