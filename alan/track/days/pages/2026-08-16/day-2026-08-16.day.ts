@@ -17,7 +17,7 @@ export const day20260816 = {
   learnPoints: 3.651,
   nutritionPoints: 0,
   breathingPoints: 0,
-  activeCalories: 76.86399999999999,
+  activeCalories: 75.09699999999998,
   completionSnapshot: 448146,
   wordsReadPoints: 0,
   wordsReadSnapshot: 35501681,
