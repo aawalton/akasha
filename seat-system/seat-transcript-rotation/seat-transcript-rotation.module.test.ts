@@ -1,7 +1,7 @@
-import { expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   firstTimestampOf,
   rotationFrom,
@@ -95,10 +95,6 @@ test("no candidate at all leaves no answer", () => {
   expect(rotationFrom(reading({ candidates: [] }))).toBe(null)
 })
 
-// THE SHAPE CLAUDE CODE ACTUALLY WRITES. The opening records carry no timestamp of their own and
-// there are five of them here, so a reader taking the first line answers nothing. The fifth
-// carries a timestamp nested under its snapshot that is later than the first turn's own, so a
-// reader that reached inside a record would answer the wrong moment rather than none.
 const OPENING = [
   '{"type":"mode","mode":"normal","sessionId":"de64f69c"}',
   '{"type":"permission-mode","permissionMode":"bypassPermissions","sessionId":"de64f69c"}',
@@ -108,7 +104,6 @@ const OPENING = [
   '{"type":"user","uuid":"e8cf4bde","timestamp":"2026-09-04T12:55:30.604Z"}',
 ].join("\n")
 
-// The file the alan seat rotated onto opens with three such records rather than five.
 const ROTATED = [
   '{"type":"mode","mode":"normal","sessionId":"67123964"}',
   '{"type":"bridge-session","sessionId":"67123964","lastSequenceNum":0}',
@@ -117,35 +112,28 @@ const ROTATED = [
   '{"type":"user","uuid":"bbbb","timestamp":"2026-09-05T13:58:17.110Z"}',
 ].join("\n")
 
-function inAFolder(run: (folder: string) => void): void {
-  const folder = mkdtempSync(join(tmpdir(), "seat-transcript-rotation-"))
-  try {
-    run(folder)
-  } finally {
-    rmSync(folder, { recursive: true, force: true })
-  }
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+function folderAt(): string {
+  return scratch.rootFor("seat-transcript-rotation-")
 }
 
 test("the first timestamp is the first record carrying one at its top level", () => {
-  inAFolder((folder) => {
-    const path = join(folder, "opening.jsonl")
-    writeFileSync(path, `${OPENING}\n`)
-    expect(firstTimestampOf(path)).toBe(Date.parse("2026-09-04T12:55:30.604Z"))
-  })
+  const path = join(folderAt(), "opening.jsonl")
+  writeFileSync(path, `${OPENING}\n`)
+  expect(firstTimestampOf(path)).toBe(Date.parse("2026-09-04T12:55:30.604Z"))
 })
 
 test("a transcript opening with fewer unstamped records is read the same way", () => {
-  inAFolder((folder) => {
-    const path = join(folder, "rotated.jsonl")
-    writeFileSync(path, `${ROTATED}\n`)
-    expect(firstTimestampOf(path)).toBe(Date.parse("2026-09-05T13:58:17.195Z"))
-  })
+  const path = join(folderAt(), "rotated.jsonl")
+  writeFileSync(path, `${ROTATED}\n`)
+  expect(firstTimestampOf(path)).toBe(Date.parse("2026-09-05T13:58:17.195Z"))
 })
 
 test("a transcript whose opening records are all unstamped carries no first timestamp", () => {
-  inAFolder((folder) => {
-    const path = join(folder, "bare.jsonl")
-    writeFileSync(path, `${OPENING.split("\n").slice(0, 5).join("\n")}\n`)
-    expect(firstTimestampOf(path)).toBe(null)
-  })
+  const path = join(folderAt(), "bare.jsonl")
+  writeFileSync(path, `${OPENING.split("\n").slice(0, 5).join("\n")}\n`)
+  expect(firstTimestampOf(path)).toBe(null)
 })
