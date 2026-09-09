@@ -13,17 +13,19 @@ import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type {
   Adding,
-  FileChange,
+  Moving,
+  Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { baseOf, type FileEdit } from "../landing/landing.module.code.ts"
+import { baseOf } from "../landing/landing.module.code.ts"
 import {
   carriesLock,
   installedIn,
   installingIn,
   lockedOver,
   lockingFor,
+  manifestMovesIn,
   manifestsIn,
   NOTHING_INSTALLED,
   NOTHING_LOCKED,
@@ -75,16 +77,6 @@ function bodyOf(one: Adding | Replacing): string {
   return one.kind === "add" ? one.content : one.contentTo
 }
 
-const TEXT = new TextDecoder()
-
-function rowsOf(changes: readonly FileEdit[]): readonly FileChange[] {
-  return changes.map((one) =>
-    one.body === null
-      ? { kind: "remove", path: one.path }
-      : { kind: "add", path: one.path, content: TEXT.decode(one.body) }
-  )
-}
-
 function world(whole: boolean = false): string {
   const root = scratch.rootFor("akasha-manifest-locking-")
   for (const [path, body] of Object.entries({
@@ -105,21 +97,32 @@ function world(whole: boolean = false): string {
   return root
 }
 
-const ARRIVING = [{ path: "held/three/package.json", body: bytes(packageBody("three")) }]
+const ARRIVING: readonly Adding[] = [
+  { kind: "add", path: "held/three/package.json", content: packageBody("three") },
+]
 
 test("a manifest is one named package.json at the root or under a folder", () => {
   expect(
     manifestsIn([
-      { path: MANIFEST, body: null },
-      { path: "held/one/package.json", body: null },
-      { path: "held/one/package.jsonc", body: null },
-      { path: "held/one/src/held.ts", body: null },
+      { kind: "remove", path: MANIFEST },
+      { kind: "remove", path: "held/one/package.json" },
+      { kind: "remove", path: "held/one/package.jsonc" },
+      { kind: "remove", path: "held/one/src/held.ts" },
     ]).map((one) => one.path)
   ).toEqual([MANIFEST, "held/one/package.json"])
 })
 
+test("a manifest a rename names either end of is a manifest moved", () => {
+  expect(
+    manifestMovesIn([
+      { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
+      { kind: "move", pathFrom: "held/one/src/held.ts", pathTo: "held/one/src/moved.ts" },
+    ]).map((one) => one.pathTo)
+  ).toEqual(["held/moved/package.json"])
+})
+
 test("a landing carrying a lockfile of its own is known from one that does not", () => {
-  expect(carriesLock([{ path: LOCK, body: null }])).toBe(true)
+  expect(carriesLock([{ kind: "remove", path: LOCK }])).toBe(true)
   expect(carriesLock(ARRIVING)).toBe(false)
 })
 
@@ -134,19 +137,21 @@ test("two bodies are the same bytes or they are not, and nothing is not a body",
 test("a landing carrying no manifest asks for no change and has nothing to say", () => {
   const root = world()
   expect(
-    lockingFor(root, baseOf(root), [{ path: "held/one/src/held.ts", body: bytes("") }])
+    lockingFor(root, baseOf(root), [{ kind: "add", path: "held/one/src/held.ts", content: "" }])
   ).toEqual(NOTHING_LOCKED)
 })
 
 test("a landing carrying its own lockfile is taken at its word", () => {
   const root = world()
-  const held = [...ARRIVING, { path: LOCK, body: bytes("held") }]
+  const held: readonly Adding[] = [...ARRIVING, { kind: "add", path: LOCK, content: "held" }]
   expect(lockingFor(root, baseOf(root), held)).toEqual(NOTHING_LOCKED)
 })
 
 test("a manifest that moves the lockfile nowhere is carried by no landing", () => {
   const root = world()
-  const same = [{ path: "held/one/package.json", body: bytes(packageBody("one")) }]
+  const same: readonly Adding[] = [
+    { kind: "add", path: "held/one/package.json", content: packageBody("one") },
+  ]
   expect(lockingFor(root, baseOf(root), same)).toEqual(NOTHING_LOCKED)
 })
 
@@ -165,7 +170,7 @@ test("a manifest arriving takes the lockfile with it, and the tree installs afte
   for (const one of ARRIVING) {
     const at = join(root, one.path)
     mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, one.body)
+    writeFileSync(at, one.content)
   }
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
   for (const one of held.edits) {
@@ -176,7 +181,7 @@ test("a manifest arriving takes the lockfile with it, and the tree installs afte
 
 test("a landing carrying no manifest installs nothing", () => {
   const root = world()
-  expect(installingIn(root, rowsOf([{ path: "held/one/src/held.ts", body: bytes("") }]))).toEqual(
+  expect(installingIn(root, [{ kind: "add", path: "held/one/src/held.ts", content: "" }])).toEqual(
     NOTHING_INSTALLED
   )
 })
@@ -185,19 +190,19 @@ test("a landing carrying a manifest points the workspace at the folder that mani
   const root = world(true)
   const link = join(root, MODULES, "@held", "one")
   expect(existsSync(link)).toBe(true)
-  const moving = [
-    { path: "held/one/package.json", body: null },
-    { path: "held/moved/package.json", body: bytes(packageBody("one")) },
+  const moving: readonly (Adding | Removing)[] = [
+    { kind: "remove", path: "held/one/package.json" },
+    { kind: "add", path: "held/moved/package.json", content: packageBody("one") },
   ]
   const locked = lockingFor(root, baseOf(root), moving)
   for (const one of moving) {
     const at = join(root, one.path)
-    if (one.body === null) {
+    if (one.kind === "remove") {
       rmSync(join(at, ".."), { recursive: true, force: true })
       continue
     }
     mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, one.body)
+    writeFileSync(at, one.content)
   }
   for (const one of locked.edits) {
     const at = join(root, one.path)
@@ -205,7 +210,7 @@ test("a landing carrying a manifest points the workspace at the folder that mani
     writeFileSync(at, bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
-  const put = installingIn(root, rowsOf(moving))
+  const put = installingIn(root, moving)
   expect(put.wrong).toEqual([])
   expect(existsSync(link)).toBe(true)
 })
@@ -251,18 +256,18 @@ test("an install takes away a link reaching a folder whose manifest names anothe
   const root = world(true)
   const was = join(root, MODULES, "@held", "one")
   expect(existsSync(was)).toBe(true)
-  const renaming = [
-    { path: MANIFEST, body: bytes(LINKED_BODY.replace("@held/one", "@held/renamed")) },
-    { path: "held/one/package.json", body: bytes(packageBody("renamed")) },
+  const renaming: readonly Adding[] = [
+    { kind: "add", path: MANIFEST, content: LINKED_BODY.replace("@held/one", "@held/renamed") },
+    { kind: "add", path: "held/one/package.json", content: packageBody("renamed") },
   ]
   const locked = lockingFor(root, baseOf(root), renaming)
   for (const one of renaming) {
-    writeFileSync(join(root, one.path), one.body)
+    writeFileSync(join(root, one.path), one.content)
   }
   for (const one of locked.edits) {
     writeFileSync(join(root, one.path), bodyOf(one))
   }
-  const put = installingIn(root, rowsOf(renaming))
+  const put = installingIn(root, renaming)
   expect(put.wrong).toEqual([])
   expect(linkThere(was)).toBe(false)
   expect(existsSync(join(root, MODULES, "@held", "renamed"))).toBe(true)
@@ -317,11 +322,13 @@ test("an install leaves a folder under node_modules that is no link", () => {
   expect(existsSync(scoped)).toBe(true)
 })
 
-const MOVED = [{ from: "held/one/package.json", to: "held/moved/package.json" }]
+const MOVED: readonly Moving[] = [
+  { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
+]
 
 test("a manifest moved to another path takes the lockfile with it", () => {
   const root = world()
-  const held = lockingFor(root, baseOf(root), [], MOVED)
+  const held = lockingFor(root, baseOf(root), MOVED)
   expect(held.edits.map((one) => one.path)).toEqual([LOCK])
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
@@ -335,22 +342,20 @@ test("a landing carrying a manifest to another path points the workspace at that
   const root = world(true)
   const link = join(root, MODULES, "@held", "one")
   expect(existsSync(link)).toBe(true)
-  const locked = lockingFor(root, baseOf(root), [], MOVED)
+  const locked = lockingFor(root, baseOf(root), MOVED)
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   for (const one of locked.edits) {
     writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
-  const put = installingIn(root, [
-    { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
-  ])
+  const put = installingIn(root, MOVED)
   expect(put.wrong).toEqual([])
   expect(existsSync(link)).toBe(true)
 })
 
 test("a manifest going takes the lockfile with it, as one arriving does", () => {
   const root = world()
-  const going = [{ path: "held/one/package.json", body: null }]
+  const going: readonly Removing[] = [{ kind: "remove", path: "held/one/package.json" }]
   const held = lockingFor(root, baseOf(root), going)
   expect(held.edits.map((one) => one.path)).toEqual([LOCK])
   rmSync(join(root, "held/one"), { recursive: true, force: true })

@@ -148,6 +148,11 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
+        "A manifest a rename names is read from the array an edit's manifest is read from.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A manifest moved is renamed in the scratch tree before the manifests are worked in.",
     },
     {

@@ -101,7 +101,7 @@ export function preparing(
     pathTo: one.to,
   }))
   const rows = [...moved, ...stated.rows]
-  const locking = lockingFor(root, base, authored, moves)
+  const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
   const worked = workedFor(change)
   const mapped = mappedFor(change)

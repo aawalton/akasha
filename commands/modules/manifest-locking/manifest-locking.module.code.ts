@@ -17,10 +17,10 @@ import { pathsOf } from "../../../changes/modules/answer/change-answer.module.co
 import type {
   Adding,
   FileChange,
+  Moving,
+  Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
-import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -57,16 +57,21 @@ function isManifest(path: string): boolean {
   return path === MANIFEST || path.endsWith(`${PARTED_BY}${MANIFEST}`)
 }
 
-export function manifestsIn(changes: readonly FileEdit[]): readonly FileEdit[] {
-  return changes.filter((one) => isManifest(one.path))
+type Bodied = Adding | Replacing | Removing
+
+export function manifestsIn(changes: readonly FileChange[]): readonly Bodied[] {
+  return changes.filter((one): one is Bodied => one.kind !== "move" && isManifest(one.path))
 }
 
-export function manifestMovesIn(moves: readonly FileMove[]): readonly FileMove[] {
-  return moves.filter((one) => isManifest(one.from) || isManifest(one.to))
+export function manifestMovesIn(changes: readonly FileChange[]): readonly Moving[] {
+  return changes.filter(
+    (one): one is Moving =>
+      one.kind === "move" && (isManifest(one.pathFrom) || isManifest(one.pathTo))
+  )
 }
 
-export function carriesLock(changes: readonly FileEdit[]): boolean {
-  return changes.some((one) => one.path === LOCK)
+export function carriesLock(changes: readonly FileChange[]): boolean {
+  return changes.some((one) => one.kind !== "move" && one.path === LOCK)
 }
 
 export function sameBytes(one: Uint8Array | null, other: Uint8Array | null): boolean {
@@ -80,8 +85,8 @@ export type Made = { readonly was: Uint8Array | null; readonly now: Uint8Array }
 export function lockedOver(
   root: string,
   base: string,
-  touched: readonly FileEdit[],
-  moved: readonly FileMove[] = []
+  touched: readonly Bodied[],
+  moved: readonly Moving[] = []
 ): Made {
   const held = mkdtempSync(join(SCRATCH_AT, PREFIX))
   try {
@@ -101,20 +106,20 @@ export function lockedOver(
       was = null
     }
     for (const one of moved) {
-      const from = join(tree, one.from)
+      const from = join(tree, one.pathFrom)
       if (!existsSync(from)) continue
-      const landed = join(tree, one.to)
+      const landed = join(tree, one.pathTo)
       mkdirSync(dirname(landed), { recursive: true })
       renameSync(from, landed)
     }
     for (const one of touched) {
       const to = join(tree, one.path)
-      if (one.body === null) {
+      if (one.kind === "remove") {
         rmSync(to, { force: true })
         continue
       }
       mkdirSync(dirname(to), { recursive: true })
-      writeFileSync(to, one.body)
+      writeFileSync(to, one.kind === "add" ? one.content : one.contentTo)
     }
     if (ran([BUN, ...LOCKFILE_ONLY], { cwd: tree }).code !== 0) return null
     return { was, now: readFileSync(at) }
@@ -132,14 +137,9 @@ export type Locking = {
 
 export const NOTHING_LOCKED: Locking = { edits: [], said: [] }
 
-export function lockingOver(
-  root: string,
-  base: string,
-  changes: readonly FileEdit[],
-  moves: readonly FileMove[] = []
-): Locking {
+export function lockingOver(root: string, base: string, changes: readonly FileChange[]): Locking {
   const touched = manifestsIn(changes)
-  const moved = manifestMovesIn(moves)
+  const moved = manifestMovesIn(changes)
   const many = touched.length + moved.length
   if (many === 0 || carriesLock(changes)) return NOTHING_LOCKED
   const made = lockedOver(root, base, touched, moved)
@@ -172,14 +172,9 @@ export function lockingOver(
   }
 }
 
-export function lockingFor(
-  root: string,
-  base: string,
-  changes: readonly FileEdit[],
-  moves: readonly FileMove[] = []
-): Locking {
+export function lockingFor(root: string, base: string, changes: readonly FileChange[]): Locking {
   try {
-    return lockingOver(root, base, changes, moves)
+    return lockingOver(root, base, changes)
   } catch (thrown) {
     return {
       edits: [],
