@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
-import type { PersonSlug } from "./properties/person-authority-person-slug.relation-property.ts"
+import type { PersonSlug } from "./properties/person-authority-person.relation-property.ts"
 import type { Target } from "./properties/person-authority-target.text-property.ts"
 
 export type PersonAuthority = Page & {
-  personSlug: PersonSlug
+  person: PersonSlug
   authorityKind: AuthorityKind
   target: Target
 }
@@ -19,12 +19,12 @@ export const personAuthority = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "relation-property/person-authority-kind",
-    "relation-property/person-authority-person-slug",
+    "relation-property/person-authority-person",
     "text-property/person-authority-target",
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/person-authority-person-slug",
+      pagePropertySlug: "relation-property/person-authority-person",
       required: true,
       many: false,
     },
