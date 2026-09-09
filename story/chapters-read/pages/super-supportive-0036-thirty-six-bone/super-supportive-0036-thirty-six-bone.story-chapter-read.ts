@@ -8,7 +8,7 @@ export const superSupportive0036ThirtySixBone = {
   story: "super-supportive",
   position: 36,
   ownLength: 6118,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1216662/thirty-six-bone",

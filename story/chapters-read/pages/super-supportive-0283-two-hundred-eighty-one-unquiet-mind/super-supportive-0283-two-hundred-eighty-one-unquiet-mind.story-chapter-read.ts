@@ -8,7 +8,7 @@ export const superSupportive0283TwoHundredEightyOneUnquietMind = {
   story: "super-supportive",
   position: 283,
   ownLength: 5180,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3259026/two-hundred-eighty-one-unquiet-mind",

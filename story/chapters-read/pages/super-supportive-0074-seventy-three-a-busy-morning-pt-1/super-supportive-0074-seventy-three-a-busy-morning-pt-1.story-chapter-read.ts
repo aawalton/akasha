@@ -8,7 +8,7 @@ export const superSupportive0074SeventyThreeABusyMorningPt1 = {
   story: "super-supportive",
   position: 74,
   ownLength: 8299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1342372/seventy-three-a-busy-morning-pt-1",

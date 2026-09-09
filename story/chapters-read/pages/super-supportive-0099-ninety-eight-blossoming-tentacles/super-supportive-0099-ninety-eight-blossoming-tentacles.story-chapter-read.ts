@@ -8,7 +8,7 @@ export const superSupportive0099NinetyEightBlossomingTentacles = {
   story: "super-supportive",
   position: 99,
   ownLength: 5989,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1434488/ninety-eight-blossoming-tentacles",

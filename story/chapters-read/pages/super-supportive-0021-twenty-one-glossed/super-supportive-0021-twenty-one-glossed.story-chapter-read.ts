@@ -8,7 +8,7 @@ export const superSupportive0021TwentyOneGlossed = {
   story: "super-supportive",
   position: 21,
   ownLength: 2519,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1124079/twenty-one-glossed",

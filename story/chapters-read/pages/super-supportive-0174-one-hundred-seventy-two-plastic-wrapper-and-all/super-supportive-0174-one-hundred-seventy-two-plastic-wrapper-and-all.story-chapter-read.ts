@@ -8,7 +8,7 @@ export const superSupportive0174OneHundredSeventyTwoPlasticWrapperAndAll = {
   story: "super-supportive",
   position: 174,
   ownLength: 4641,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1827389/one-hundred-seventy-two-plastic-wrapper-and-all",

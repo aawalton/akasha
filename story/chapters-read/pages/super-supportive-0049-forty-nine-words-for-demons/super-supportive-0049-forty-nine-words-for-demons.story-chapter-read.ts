@@ -8,7 +8,7 @@ export const superSupportive0049FortyNineWordsForDemons = {
   story: "super-supportive",
   position: 49,
   ownLength: 3431,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1261022/forty-nine-words-for-demons",

@@ -8,7 +8,7 @@ export const superSupportive0218TwoHundredSixteenTheSnakeShapedLetterI = {
   story: "super-supportive",
   position: 218,
   ownLength: 4211,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2258664/two-hundred-sixteen-the-snake-shaped-letter-i",

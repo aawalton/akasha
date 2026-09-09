@@ -8,7 +8,7 @@ export const superSupportive0256TwoHundredFiftyFourScrape = {
   story: "super-supportive",
   position: 256,
   ownLength: 3213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2736202/two-hundred-fifty-four-scrape",

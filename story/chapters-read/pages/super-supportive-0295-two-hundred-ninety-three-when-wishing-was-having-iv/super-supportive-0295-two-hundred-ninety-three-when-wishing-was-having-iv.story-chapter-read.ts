@@ -8,7 +8,7 @@ export const superSupportive0295TwoHundredNinetyThreeWhenWishingWasHavingIv = {
   story: "super-supportive",
   position: 295,
   ownLength: 4834,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3568502/two-hundred-ninety-three-when-wishing-was-having",

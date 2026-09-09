@@ -8,7 +8,7 @@ export const superSupportive0082EightyOneOCruzamento = {
   story: "super-supportive",
   position: 82,
   ownLength: 2310,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378760/eighty-one-o-cruzamento",

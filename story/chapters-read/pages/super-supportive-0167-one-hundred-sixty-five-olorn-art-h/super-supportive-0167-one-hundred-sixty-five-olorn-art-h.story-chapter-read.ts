@@ -8,7 +8,7 @@ export const superSupportive0167OneHundredSixtyFiveOlornArtH = {
   story: "super-supportive",
   position: 167,
   ownLength: 4185,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1778860/one-hundred-sixty-five-olorn-arth",

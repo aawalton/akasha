@@ -8,7 +8,7 @@ export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   story: "super-supportive",
   position: 102,
   ownLength: 5289,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1446199/one-hundred-one-anesidora-time-0715-pm",

@@ -8,7 +8,7 @@ export const superSupportive0187OneHundredEightyFiveWhatDoYouKnowAboutChaos = {
   story: "super-supportive",
   position: 187,
   ownLength: 3421,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1922829/one-hundred-eighty-five-what-do-you-know-about",

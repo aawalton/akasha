@@ -8,7 +8,7 @@ export const superSupportive0222TwoHundredTwentyARarePairing = {
   story: "super-supportive",
   position: 222,
   ownLength: 3831,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2305621/two-hundred-twenty-a-rare-pairing",

@@ -8,7 +8,7 @@ export const superSupportive0100NinetyNineGymClassI = {
   story: "super-supportive",
   position: 100,
   ownLength: 8547,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1439301/ninety-nine-gym-class-i",

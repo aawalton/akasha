@@ -8,7 +8,7 @@ export const superSupportive0125OneHundredTwentyFourPoorMice = {
   story: "super-supportive",
   position: 125,
   ownLength: 6816,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1544698/one-hundred-twenty-four-poor-mice",

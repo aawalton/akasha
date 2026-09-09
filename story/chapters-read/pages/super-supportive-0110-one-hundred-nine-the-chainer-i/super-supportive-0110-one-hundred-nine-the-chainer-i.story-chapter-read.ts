@@ -8,7 +8,7 @@ export const superSupportive0110OneHundredNineTheChainerI = {
   story: "super-supportive",
   position: 110,
   ownLength: 6811,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1481846/one-hundred-nine-the-chainer-i",

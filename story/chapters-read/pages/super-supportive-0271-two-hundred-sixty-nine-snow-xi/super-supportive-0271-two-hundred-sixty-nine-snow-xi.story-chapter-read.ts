@@ -8,7 +8,7 @@ export const superSupportive0271TwoHundredSixtyNineSnowXi = {
   story: "super-supportive",
   position: 271,
   ownLength: 2107,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2993444/two-hundred-sixty-nine-snow-xi",

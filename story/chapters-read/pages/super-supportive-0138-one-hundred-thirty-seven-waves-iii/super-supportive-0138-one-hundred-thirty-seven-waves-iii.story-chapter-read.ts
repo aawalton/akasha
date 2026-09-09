@@ -8,7 +8,7 @@ export const superSupportive0138OneHundredThirtySevenWavesIii = {
   story: "super-supportive",
   position: 138,
   ownLength: 4533,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1615183/one-hundred-thirty-seven-waves-iii",

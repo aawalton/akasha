@@ -8,7 +8,7 @@ export const superSupportive0217TwoHundredFifteenTacos = {
   story: "super-supportive",
   position: 217,
   ownLength: 4249,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2245379/two-hundred-fifteen-tacos",

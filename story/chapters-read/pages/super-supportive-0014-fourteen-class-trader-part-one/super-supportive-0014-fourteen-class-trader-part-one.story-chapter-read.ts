@@ -8,7 +8,7 @@ export const superSupportive0014FourteenClassTraderPartOne = {
   story: "super-supportive",
   position: 14,
   ownLength: 2532,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1117328/fourteen-class-trader-part-one",

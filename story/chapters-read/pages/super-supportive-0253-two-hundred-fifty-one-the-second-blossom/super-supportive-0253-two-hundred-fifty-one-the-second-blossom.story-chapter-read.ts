@@ -8,7 +8,7 @@ export const superSupportive0253TwoHundredFiftyOneTheSecondBlossom = {
   story: "super-supportive",
   position: 253,
   ownLength: 4196,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2692702/two-hundred-fifty-one-the-second-blossom",

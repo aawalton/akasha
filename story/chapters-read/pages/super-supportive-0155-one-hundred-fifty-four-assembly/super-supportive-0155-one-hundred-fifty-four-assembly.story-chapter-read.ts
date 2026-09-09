@@ -8,7 +8,7 @@ export const superSupportive0155OneHundredFiftyFourAssembly = {
   story: "super-supportive",
   position: 155,
   ownLength: 6074,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1709100/one-hundred-fifty-four-assembly",

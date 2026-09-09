@@ -8,7 +8,7 @@ export const superSupportive0093NinetyTwoAllNighter = {
   story: "super-supportive",
   position: 93,
   ownLength: 5323,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1410783/ninety-two-all-nighter",

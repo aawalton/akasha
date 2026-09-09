@@ -8,7 +8,7 @@ export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   story: "super-supportive",
   position: 117,
   ownLength: 4827,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1506871/one-hundred-sixteen-twinkle-twinkle-gokoratch",

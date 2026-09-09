@@ -8,7 +8,7 @@ export const superSupportive0175OneHundredSeventyThreeTheThanksgiving = {
   story: "super-supportive",
   position: 175,
   ownLength: 5297,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1831873/one-hundred-seventy-three-the-thanksgiving",

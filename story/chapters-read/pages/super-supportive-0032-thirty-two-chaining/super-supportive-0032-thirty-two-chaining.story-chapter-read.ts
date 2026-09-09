@@ -8,7 +8,7 @@ export const superSupportive0032ThirtyTwoChaining = {
   story: "super-supportive",
   position: 32,
   ownLength: 4034,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1198333/thirty-two-chaining",

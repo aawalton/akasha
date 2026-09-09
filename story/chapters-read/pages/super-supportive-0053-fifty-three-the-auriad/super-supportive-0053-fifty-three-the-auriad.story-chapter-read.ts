@@ -8,7 +8,7 @@ export const superSupportive0053FiftyThreeTheAuriad = {
   story: "super-supportive",
   position: 53,
   ownLength: 2792,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1275481/fifty-three-the-auriad",

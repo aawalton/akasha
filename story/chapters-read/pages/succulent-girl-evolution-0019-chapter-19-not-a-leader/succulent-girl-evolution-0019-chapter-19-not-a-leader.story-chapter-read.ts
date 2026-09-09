@@ -8,7 +8,7 @@ export const succulentGirlEvolution0019Chapter19NotALeader = {
   story: "succulent-girl-evolution",
   position: 19,
   ownLength: 2118,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2579518/chapter-19-not-a-leader",

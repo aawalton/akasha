@@ -8,7 +8,7 @@ export const superSupportive0119OneHundredEighteenUnfolding = {
   story: "super-supportive",
   position: 119,
   ownLength: 6395,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1515215/one-hundred-eighteen-unfolding",

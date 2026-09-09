@@ -8,7 +8,7 @@ export const superSupportive0042FortyTwoBeSafe = {
   story: "super-supportive",
   position: 42,
   ownLength: 2586,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1238181/forty-two-be-safe",

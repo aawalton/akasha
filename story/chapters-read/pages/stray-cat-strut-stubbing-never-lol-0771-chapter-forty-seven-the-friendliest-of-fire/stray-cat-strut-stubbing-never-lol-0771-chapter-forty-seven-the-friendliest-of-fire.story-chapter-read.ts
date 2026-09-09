@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0771ChapterFortySevenTheFriendliestOfF
   story: "stray-cat-strut-stubbing-never-lol",
   position: 771,
   ownLength: 1577,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3680214/chapter-forty-seven-the-friendliest-of-fire",

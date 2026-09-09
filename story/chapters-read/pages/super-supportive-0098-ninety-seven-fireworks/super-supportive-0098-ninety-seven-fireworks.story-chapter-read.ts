@@ -8,7 +8,7 @@ export const superSupportive0098NinetySevenFireworks = {
   story: "super-supportive",
   position: 98,
   ownLength: 6437,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1430929/ninety-seven-fireworks",

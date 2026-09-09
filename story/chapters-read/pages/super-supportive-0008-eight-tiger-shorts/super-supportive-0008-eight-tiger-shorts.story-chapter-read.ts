@@ -8,7 +8,7 @@ export const superSupportive0008EightTigerShorts = {
   story: "super-supportive",
   position: 8,
   ownLength: 1847,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114180/eight-tiger-shorts",

@@ -8,7 +8,7 @@ export const superSupportive0126OneHundredTwentyFiveItSPepperFlavored = {
   story: "super-supportive",
   position: 126,
   ownLength: 9551,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1549639/one-hundred-twenty-five-its-pepper-flavored",

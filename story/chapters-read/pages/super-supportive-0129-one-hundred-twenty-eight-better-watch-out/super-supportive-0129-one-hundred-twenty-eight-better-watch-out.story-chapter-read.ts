@@ -8,7 +8,7 @@ export const superSupportive0129OneHundredTwentyEightBetterWatchOut = {
   story: "super-supportive",
   position: 129,
   ownLength: 6943,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1562484/one-hundred-twenty-eight-better-watch-out",

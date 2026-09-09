@@ -8,7 +8,7 @@ export const succulentGirlEvolution0021Chapter21ThatsNotAll = {
   story: "succulent-girl-evolution",
   position: 21,
   ownLength: 1898,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2592617/chapter-21-thats-not-all",

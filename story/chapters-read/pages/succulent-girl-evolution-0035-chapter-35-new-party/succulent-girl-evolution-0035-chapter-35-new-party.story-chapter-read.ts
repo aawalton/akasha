@@ -8,7 +8,7 @@ export const succulentGirlEvolution0035Chapter35NewParty = {
   story: "succulent-girl-evolution",
   position: 35,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2676402/chapter-35-new-party",

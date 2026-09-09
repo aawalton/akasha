@@ -8,7 +8,7 @@ export const superSupportive0023TwentyThreeFuneral = {
   story: "super-supportive",
   position: 23,
   ownLength: 5020,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1129594/twenty-three-funeral",

@@ -8,7 +8,7 @@ export const superSupportive0031ThirtyOneManon = {
   story: "super-supportive",
   position: 31,
   ownLength: 4135,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1194129/thirty-one-manon",

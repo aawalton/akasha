@@ -8,7 +8,7 @@ export const superSupportive0094NinetyThreeTheOnlySign = {
   story: "super-supportive",
   position: 94,
   ownLength: 5237,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1415044/ninety-three-the-only-sign",

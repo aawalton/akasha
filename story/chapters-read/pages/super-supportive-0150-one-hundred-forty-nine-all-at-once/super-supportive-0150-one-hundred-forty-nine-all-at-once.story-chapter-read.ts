@@ -8,7 +8,7 @@ export const superSupportive0150OneHundredFortyNineAllAtOnce = {
   story: "super-supportive",
   position: 150,
   ownLength: 3977,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1680325/one-hundred-forty-nine-all-at-once",

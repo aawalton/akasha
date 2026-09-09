@@ -8,7 +8,7 @@ export const superSupportive0079SeventyEightFactsAreFacts = {
   story: "super-supportive",
   position: 79,
   ownLength: 7018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1360779/seventy-eight-facts-are-facts",

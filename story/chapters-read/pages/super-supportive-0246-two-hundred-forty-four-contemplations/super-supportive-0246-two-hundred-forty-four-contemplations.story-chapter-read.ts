@@ -8,7 +8,7 @@ export const superSupportive0246TwoHundredFortyFourContemplations = {
   story: "super-supportive",
   position: 246,
   ownLength: 2313,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2603552/two-hundred-forty-four-contemplations",

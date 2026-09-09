@@ -8,7 +8,7 @@ export const superSupportive0151OneHundredFiftyCubeNews = {
   story: "super-supportive",
   position: 151,
   ownLength: 5862,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1684839/one-hundred-fifty-cube-news",

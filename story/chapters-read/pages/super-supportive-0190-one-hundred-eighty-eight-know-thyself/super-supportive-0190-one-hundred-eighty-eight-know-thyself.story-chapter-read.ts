@@ -8,7 +8,7 @@ export const superSupportive0190OneHundredEightyEightKnowThyself = {
   story: "super-supportive",
   position: 190,
   ownLength: 6156,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1947310/one-hundred-eighty-eight-know-thyself",

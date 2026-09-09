@@ -8,7 +8,7 @@ export const superSupportive0201OneHundredNinetyNineHappyAvowedDays = {
   story: "super-supportive",
   position: 201,
   ownLength: 3881,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2019379/one-hundred-ninety-nine-happy-avowed-days",

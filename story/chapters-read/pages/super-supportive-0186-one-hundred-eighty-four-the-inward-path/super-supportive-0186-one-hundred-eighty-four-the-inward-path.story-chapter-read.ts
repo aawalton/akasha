@@ -8,7 +8,7 @@ export const superSupportive0186OneHundredEightyFourTheInwardPath = {
   story: "super-supportive",
   position: 186,
   ownLength: 4362,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1915391/one-hundred-eighty-four-the-inward-path",

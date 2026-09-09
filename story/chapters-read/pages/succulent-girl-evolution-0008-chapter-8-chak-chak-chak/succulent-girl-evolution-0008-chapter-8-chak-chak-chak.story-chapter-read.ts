@@ -8,7 +8,7 @@ export const succulentGirlEvolution0008Chapter8ChakChakChak = {
   story: "succulent-girl-evolution",
   position: 8,
   ownLength: 2267,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525601/chapter-8-chak-chak-chak",

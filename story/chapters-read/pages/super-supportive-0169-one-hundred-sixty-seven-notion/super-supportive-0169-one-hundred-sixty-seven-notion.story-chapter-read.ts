@@ -8,7 +8,7 @@ export const superSupportive0169OneHundredSixtySevenNotion = {
   story: "super-supportive",
   position: 169,
   ownLength: 5633,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1794805/one-hundred-sixty-seven-notion",

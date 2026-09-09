@@ -8,7 +8,7 @@ export const superSupportive0122OneHundredTwentyOneAvalanche = {
   story: "super-supportive",
   position: 122,
   ownLength: 8154,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1527705/one-hundred-twenty-one-avalanche",

@@ -8,7 +8,7 @@ export const superSupportive0251TwoHundredFortyNineStrongBricks = {
   story: "super-supportive",
   position: 251,
   ownLength: 4301,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2668592/two-hundred-forty-nine-strong-bricks",

@@ -8,7 +8,7 @@ export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   story: "super-supportive",
   position: 284,
   ownLength: 4587,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3279668/two-hundred-eighty-two-beanshot",

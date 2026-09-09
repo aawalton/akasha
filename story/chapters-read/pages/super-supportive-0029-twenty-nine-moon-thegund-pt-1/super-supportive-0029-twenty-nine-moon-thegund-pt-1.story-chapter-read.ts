@@ -8,7 +8,7 @@ export const superSupportive0029TwentyNineMoonThegundPt1 = {
   story: "super-supportive",
   position: 29,
   ownLength: 5050,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1167992/twenty-nine-moon-thegund-pt-1",

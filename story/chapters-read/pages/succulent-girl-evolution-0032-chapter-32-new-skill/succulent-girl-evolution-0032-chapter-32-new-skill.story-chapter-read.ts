@@ -8,7 +8,7 @@ export const succulentGirlEvolution0032Chapter32NewSkill = {
   story: "succulent-girl-evolution",
   position: 32,
   ownLength: 2196,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2658394/chapter-32-new-skill",

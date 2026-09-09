@@ -8,7 +8,7 @@ export const superSupportive0010TenSideEffects = {
   story: "super-supportive",
   position: 10,
   ownLength: 2669,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115315/ten-side-effects",

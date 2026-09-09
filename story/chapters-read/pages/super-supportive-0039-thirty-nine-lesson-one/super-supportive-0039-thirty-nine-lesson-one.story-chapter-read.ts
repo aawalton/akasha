@@ -8,7 +8,7 @@ export const superSupportive0039ThirtyNineLessonOne = {
   story: "super-supportive",
   position: 39,
   ownLength: 8292,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1228338/thirty-nine-lesson-one",

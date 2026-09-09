@@ -8,7 +8,7 @@ export const superSupportive0012TwelveOneOClockOnAThursday = {
   story: "super-supportive",
   position: 12,
   ownLength: 2225,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116121/twelve-one-oclock-on-a-thursday",

@@ -8,7 +8,7 @@ export const superSupportive0051FiftyOneTakeMeSomewhereBetter = {
   story: "super-supportive",
   position: 51,
   ownLength: 2835,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1268514/fifty-one-take-me-somewhere-better",

@@ -8,7 +8,7 @@ export const superSupportive0044FortyFourRequestForInsight = {
   story: "super-supportive",
   position: 44,
   ownLength: 324,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1245476/forty-four-request-for-insight",

@@ -8,7 +8,7 @@ export const superSupportive0024TwentyFourRabbit = {
   story: "super-supportive",
   position: 24,
   ownLength: 5658,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1132920/twenty-four-rabbit",

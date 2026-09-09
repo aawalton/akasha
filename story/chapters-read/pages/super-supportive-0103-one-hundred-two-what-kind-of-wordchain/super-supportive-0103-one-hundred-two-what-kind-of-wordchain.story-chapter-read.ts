@@ -8,7 +8,7 @@ export const superSupportive0103OneHundredTwoWhatKindOfWordchain = {
   story: "super-supportive",
   position: 103,
   ownLength: 4833,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1449598/one-hundred-two-what-kind-of-wordchain",

@@ -8,7 +8,7 @@ export const superSupportive0050FiftyDelicious = {
   story: "super-supportive",
   position: 50,
   ownLength: 1764,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1264921/fifty-delicious",

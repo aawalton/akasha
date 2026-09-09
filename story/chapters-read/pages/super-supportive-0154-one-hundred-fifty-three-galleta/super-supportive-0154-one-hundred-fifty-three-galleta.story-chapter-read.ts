@@ -8,7 +8,7 @@ export const superSupportive0154OneHundredFiftyThreeGalleta = {
   story: "super-supportive",
   position: 154,
   ownLength: 3820,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1704051/one-hundred-fifty-three-galleta",

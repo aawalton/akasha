@@ -8,7 +8,7 @@ export const superSupportive0004FourAvowedCommunications = {
   story: "super-supportive",
   position: 4,
   ownLength: 3023,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1104952/four-avowed-communications",

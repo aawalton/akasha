@@ -8,7 +8,7 @@ export const superSupportive0172OneHundredSeventyAFunWayToDoSupper = {
   story: "super-supportive",
   position: 172,
   ownLength: 3746,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1815552/one-hundred-seventy-a-fun-way-to-do-supper",

@@ -8,7 +8,7 @@ export const superSupportive0077SeventySixTheRescueGame = {
   story: "super-supportive",
   position: 77,
   ownLength: 7091,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1353212/seventy-six-the-rescue-game",

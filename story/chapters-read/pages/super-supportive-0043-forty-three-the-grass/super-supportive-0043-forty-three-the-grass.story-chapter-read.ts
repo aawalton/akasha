@@ -8,7 +8,7 @@ export const superSupportive0043FortyThreeTheGrass = {
   story: "super-supportive",
   position: 43,
   ownLength: 5467,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1242366/forty-three-the-grass",

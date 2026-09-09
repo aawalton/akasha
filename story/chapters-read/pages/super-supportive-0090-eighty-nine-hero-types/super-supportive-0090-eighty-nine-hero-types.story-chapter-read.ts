@@ -8,7 +8,7 @@ export const superSupportive0090EightyNineHeroTypes = {
   story: "super-supportive",
   position: 90,
   ownLength: 5086,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1397911/eighty-nine-hero-types",

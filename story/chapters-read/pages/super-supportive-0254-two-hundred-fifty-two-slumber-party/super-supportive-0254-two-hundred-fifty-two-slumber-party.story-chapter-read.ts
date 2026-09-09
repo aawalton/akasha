@@ -8,7 +8,7 @@ export const superSupportive0254TwoHundredFiftyTwoSlumberParty = {
   story: "super-supportive",
   position: 254,
   ownLength: 4048,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2705240/two-hundred-fifty-two-slumber-party",

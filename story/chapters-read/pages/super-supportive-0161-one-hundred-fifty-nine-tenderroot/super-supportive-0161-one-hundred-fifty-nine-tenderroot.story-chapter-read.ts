@@ -8,7 +8,7 @@ export const superSupportive0161OneHundredFiftyNineTenderroot = {
   story: "super-supportive",
   position: 161,
   ownLength: 5113,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1740215/one-hundred-fifty-nine-tenderroot",

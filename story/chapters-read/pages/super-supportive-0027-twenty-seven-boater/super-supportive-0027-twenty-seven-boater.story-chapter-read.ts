@@ -8,7 +8,7 @@ export const superSupportive0027TwentySevenBoater = {
   story: "super-supportive",
   position: 27,
   ownLength: 4611,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1152327/twenty-seven-boater",

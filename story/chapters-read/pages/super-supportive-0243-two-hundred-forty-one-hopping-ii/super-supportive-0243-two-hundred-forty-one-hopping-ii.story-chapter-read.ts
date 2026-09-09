@@ -8,7 +8,7 @@ export const superSupportive0243TwoHundredFortyOneHoppingIi = {
   story: "super-supportive",
   position: 243,
   ownLength: 4424,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2561685/two-hundred-forty-one-hopping-ii",

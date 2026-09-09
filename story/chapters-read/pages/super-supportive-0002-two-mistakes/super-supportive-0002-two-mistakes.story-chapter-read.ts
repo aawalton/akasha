@@ -8,7 +8,7 @@ export const superSupportive0002TwoMistakes = {
   story: "super-supportive",
   position: 2,
   ownLength: 3764,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1097958/two-mistakes",

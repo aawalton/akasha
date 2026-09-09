@@ -8,7 +8,7 @@ export const superSupportive0048FortyEightTheMachine = {
   story: "super-supportive",
   position: 48,
   ownLength: 3191,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1257466/forty-eight-the-machine",

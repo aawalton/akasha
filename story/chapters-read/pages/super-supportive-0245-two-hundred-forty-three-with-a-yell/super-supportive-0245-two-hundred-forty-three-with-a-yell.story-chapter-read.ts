@@ -8,7 +8,7 @@ export const superSupportive0245TwoHundredFortyThreeWithAYell = {
   story: "super-supportive",
   position: 245,
   ownLength: 3711,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2591302/two-hundred-forty-three-with-a-yell",

@@ -8,7 +8,7 @@ export const superSupportive0025TwentyFiveWardrobe = {
   story: "super-supportive",
   position: 25,
   ownLength: 4262,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1139356/twenty-five-wardrobe",

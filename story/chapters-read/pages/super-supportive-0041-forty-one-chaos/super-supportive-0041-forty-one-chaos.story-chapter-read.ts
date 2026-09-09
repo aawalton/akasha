@@ -8,7 +8,7 @@ export const superSupportive0041FortyOneChaos = {
   story: "super-supportive",
   position: 41,
   ownLength: 3536,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1235378/forty-one-chaos",

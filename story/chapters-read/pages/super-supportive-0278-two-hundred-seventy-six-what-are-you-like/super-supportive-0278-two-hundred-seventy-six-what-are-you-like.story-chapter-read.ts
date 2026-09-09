@@ -8,7 +8,7 @@ export const superSupportive0278TwoHundredSeventySixWhatAreYouLike = {
   story: "super-supportive",
   position: 278,
   ownLength: 3492,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3156302/two-hundred-seventy-six-what-are-you-like",

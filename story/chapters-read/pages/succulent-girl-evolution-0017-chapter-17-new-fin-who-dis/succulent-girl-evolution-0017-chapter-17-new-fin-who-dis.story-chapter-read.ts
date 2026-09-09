@@ -8,7 +8,7 @@ export const succulentGirlEvolution0017Chapter17NewFinWhoDis = {
   story: "succulent-girl-evolution",
   position: 17,
   ownLength: 2104,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2568349/chapter-17-new-fin-who-dis",

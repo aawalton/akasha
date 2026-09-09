@@ -8,7 +8,7 @@ export const superSupportive0250TwoHundredFortyEightTheLucky57 = {
   story: "super-supportive",
   position: 250,
   ownLength: 5273,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2653925/two-hundred-forty-eight-the-lucky-57",

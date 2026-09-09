@@ -8,7 +8,7 @@ export const superSupportive0046FortySixLife = {
   story: "super-supportive",
   position: 46,
   ownLength: 2715,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1250159/forty-six-life",

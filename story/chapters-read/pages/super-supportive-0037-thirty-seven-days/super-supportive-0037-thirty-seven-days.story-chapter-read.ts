@@ -8,7 +8,7 @@ export const superSupportive0037ThirtySevenDays = {
   story: "super-supportive",
   position: 37,
   ownLength: 5615,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1220471/thirty-seven-days",

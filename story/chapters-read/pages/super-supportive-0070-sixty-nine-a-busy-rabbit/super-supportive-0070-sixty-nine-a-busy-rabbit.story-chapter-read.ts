@@ -8,7 +8,7 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   story: "super-supportive",
   position: 70,
   ownLength: 7961,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1327544/sixty-nine-a-busy-rabbit",

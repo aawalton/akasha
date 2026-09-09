@@ -8,7 +8,7 @@ export const superSupportive0003Three90Seconds = {
   story: "super-supportive",
   position: 3,
   ownLength: 2752,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1100089/three-90-seconds",

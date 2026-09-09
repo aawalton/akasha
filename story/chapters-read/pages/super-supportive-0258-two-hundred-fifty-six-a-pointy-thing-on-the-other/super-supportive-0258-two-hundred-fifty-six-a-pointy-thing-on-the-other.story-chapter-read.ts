@@ -8,7 +8,7 @@ export const superSupportive0258TwoHundredFiftySixAPointyThingOnTheOther = {
   story: "super-supportive",
   position: 258,
   ownLength: 4683,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2765192/two-hundred-fifty-six-a-pointy-thing-on-the-other",

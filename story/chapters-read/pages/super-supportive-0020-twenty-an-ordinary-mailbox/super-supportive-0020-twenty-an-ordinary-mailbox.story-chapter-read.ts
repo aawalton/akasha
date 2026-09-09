@@ -8,7 +8,7 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   story: "super-supportive",
   position: 20,
   ownLength: 1520,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1122880/twenty-an-ordinary-mailbox",

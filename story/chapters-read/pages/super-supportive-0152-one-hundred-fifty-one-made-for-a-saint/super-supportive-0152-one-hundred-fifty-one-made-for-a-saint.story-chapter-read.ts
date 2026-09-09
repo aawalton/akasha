@@ -8,7 +8,7 @@ export const superSupportive0152OneHundredFiftyOneMadeForASaint = {
   story: "super-supportive",
   position: 152,
   ownLength: 4934,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1690642/one-hundred-fifty-one-made-for-a-saint",

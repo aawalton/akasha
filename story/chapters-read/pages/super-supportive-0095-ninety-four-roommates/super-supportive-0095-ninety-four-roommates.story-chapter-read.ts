@@ -8,7 +8,7 @@ export const superSupportive0095NinetyFourRoommates = {
   story: "super-supportive",
   position: 95,
   ownLength: 8983,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1418803/ninety-four-roommates",

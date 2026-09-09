@@ -8,7 +8,7 @@ export const succulentGirlEvolution0029Chapter29Boundaries = {
   story: "succulent-girl-evolution",
   position: 29,
   ownLength: 2048,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2640623/chapter-29-boundaries",

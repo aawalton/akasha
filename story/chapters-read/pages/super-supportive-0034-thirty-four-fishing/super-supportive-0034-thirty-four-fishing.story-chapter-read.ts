@@ -8,7 +8,7 @@ export const superSupportive0034ThirtyFourFishing = {
   story: "super-supportive",
   position: 34,
   ownLength: 4296,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1206053/thirty-four-fishing",

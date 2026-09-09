@@ -8,7 +8,7 @@ export const superSupportive0182OneHundredEightyNeedleAndWheedle = {
   story: "super-supportive",
   position: 182,
   ownLength: 7878,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1883833/one-hundred-eighty-needle-wheedle",

@@ -8,7 +8,7 @@ export const superSupportive0038ThirtyEightHedonistic = {
   story: "super-supportive",
   position: 38,
   ownLength: 7760,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1224121/thirty-eight-hedonistic",

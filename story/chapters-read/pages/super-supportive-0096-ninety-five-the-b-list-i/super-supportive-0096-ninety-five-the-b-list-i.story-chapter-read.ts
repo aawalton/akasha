@@ -8,7 +8,7 @@ export const superSupportive0096NinetyFiveTheBListI = {
   story: "super-supportive",
   position: 96,
   ownLength: 4911,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1423212/ninety-five-the-b-list-i",

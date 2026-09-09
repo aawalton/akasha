@@ -8,7 +8,7 @@ export const succulentGirlEvolution0033Chapter33Moooo = {
   story: "succulent-girl-evolution",
   position: 33,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2663581/chapter-33-moooo",

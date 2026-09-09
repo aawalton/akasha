@@ -8,7 +8,7 @@ export const superSupportive0011ElevenLastAndLeast = {
   story: "super-supportive",
   position: 11,
   ownLength: 2380,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1115805/eleven-last-and-least",

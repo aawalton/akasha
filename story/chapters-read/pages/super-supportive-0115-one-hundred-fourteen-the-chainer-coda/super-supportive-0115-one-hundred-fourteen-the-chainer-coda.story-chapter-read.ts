@@ -8,7 +8,7 @@ export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   story: "super-supportive",
   position: 115,
   ownLength: 20746,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1498617/one-hundred-fourteen-the-chainer-coda",

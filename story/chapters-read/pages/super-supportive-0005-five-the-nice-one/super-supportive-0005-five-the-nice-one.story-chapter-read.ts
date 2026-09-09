@@ -8,7 +8,7 @@ export const superSupportive0005FiveTheNiceOne = {
   story: "super-supportive",
   position: 5,
   ownLength: 2525,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1105784/five-the-nice-one",

@@ -8,7 +8,7 @@ export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
   story: "super-supportive",
   position: 180,
   ownLength: 5293,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1871569/one-hundred-seventy-eight-the-elders-croak",

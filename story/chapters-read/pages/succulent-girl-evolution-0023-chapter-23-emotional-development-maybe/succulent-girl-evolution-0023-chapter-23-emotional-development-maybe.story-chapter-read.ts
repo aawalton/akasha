@@ -8,7 +8,7 @@ export const succulentGirlEvolution0023Chapter23EmotionalDevelopmentMaybe = {
   story: "succulent-girl-evolution",
   position: 23,
   ownLength: 2033,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2604958/chapter-23-emotional-development-maybe",

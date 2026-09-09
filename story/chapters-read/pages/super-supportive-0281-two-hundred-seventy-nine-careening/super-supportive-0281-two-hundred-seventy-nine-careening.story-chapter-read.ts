@@ -8,7 +8,7 @@ export const superSupportive0281TwoHundredSeventyNineCareening = {
   story: "super-supportive",
   position: 281,
   ownLength: 2319,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3198720/two-hundred-seventy-nine-careening",

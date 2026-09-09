@@ -8,7 +8,7 @@ export const superSupportive0168OneHundredSixtySixDreamsAndDoors = {
   story: "super-supportive",
   position: 168,
   ownLength: 4513,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1784538/one-hundred-sixty-six-dreams-and-doors",

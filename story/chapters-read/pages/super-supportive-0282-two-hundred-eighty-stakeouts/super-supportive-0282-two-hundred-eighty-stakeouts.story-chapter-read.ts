@@ -8,7 +8,7 @@ export const superSupportive0282TwoHundredEightyStakeouts = {
   story: "super-supportive",
   position: 282,
   ownLength: 3568,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3237614/two-hundred-eighty-stakeouts",

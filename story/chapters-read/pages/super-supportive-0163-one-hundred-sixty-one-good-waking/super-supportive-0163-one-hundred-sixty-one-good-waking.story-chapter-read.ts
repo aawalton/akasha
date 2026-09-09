@@ -8,7 +8,7 @@ export const superSupportive0163OneHundredSixtyOneGoodWaking = {
   story: "super-supportive",
   position: 163,
   ownLength: 4913,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1753850/one-hundred-sixty-one-good-waking",

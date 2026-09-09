@@ -8,7 +8,7 @@ export const superSupportive0159BOneHundredFiftySevenFamilyMattersIiiPartB = {
   story: "super-supportive",
   position: 159,
   ownLength: 3234,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1728060/b-one-hundred-fifty-seven-family-matters-iii-part",

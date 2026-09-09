@@ -8,7 +8,7 @@ export const superSupportive0109OneHundredEightCanoe = {
   story: "super-supportive",
   position: 109,
   ownLength: 3654,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1477672/one-hundred-eight-canoe",

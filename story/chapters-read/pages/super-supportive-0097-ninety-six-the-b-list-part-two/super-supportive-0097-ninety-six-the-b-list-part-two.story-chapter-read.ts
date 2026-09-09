@@ -8,7 +8,7 @@ export const superSupportive0097NinetySixTheBListPartTwo = {
   story: "super-supportive",
   position: 97,
   ownLength: 4507,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1426842/ninety-six-the-b-list-part-two",

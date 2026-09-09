@@ -8,7 +8,7 @@ export const superSupportive0279TwoHundredSeventySevenSipWater = {
   story: "super-supportive",
   position: 279,
   ownLength: 3802,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3175741/two-hundred-seventy-seven-sip-water",

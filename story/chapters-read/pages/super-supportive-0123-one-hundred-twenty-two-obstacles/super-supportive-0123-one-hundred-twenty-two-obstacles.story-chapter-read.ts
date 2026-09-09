@@ -8,7 +8,7 @@ export const superSupportive0123OneHundredTwentyTwoObstacles = {
   story: "super-supportive",
   position: 123,
   ownLength: 8103,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1535343/one-hundred-twenty-two-obstacles",

@@ -8,7 +8,7 @@ export const superSupportive0072SeventyOneWhereSTheReallySharpKnife = {
   story: "super-supportive",
   position: 72,
   ownLength: 4444,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1335020/seventy-one-wheres-the-really-sharp-knife",

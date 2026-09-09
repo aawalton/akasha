@@ -8,7 +8,7 @@ export const superSupportive0255TwoHundredFiftyThreeTwoKindsOfBeauty = {
   story: "super-supportive",
   position: 255,
   ownLength: 4155,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2717955/two-hundred-fifty-three-two-kinds-of-beauty",

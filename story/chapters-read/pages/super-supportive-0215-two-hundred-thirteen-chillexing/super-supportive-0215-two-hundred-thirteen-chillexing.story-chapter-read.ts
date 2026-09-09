@@ -8,7 +8,7 @@ export const superSupportive0215TwoHundredThirteenChillexing = {
   story: "super-supportive",
   position: 215,
   ownLength: 3825,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2226876/two-hundred-thirteen-chillexing",

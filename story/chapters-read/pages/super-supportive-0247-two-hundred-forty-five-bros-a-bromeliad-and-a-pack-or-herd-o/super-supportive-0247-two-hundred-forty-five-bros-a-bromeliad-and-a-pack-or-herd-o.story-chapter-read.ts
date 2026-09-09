@@ -8,7 +8,7 @@ export const superSupportive0247TwoHundredFortyFiveBrosABromeliadAndAPackOrHerdO
   story: "super-supportive",
   position: 247,
   ownLength: 2294,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2616249/two-hundred-forty-five-bros-a-bromeliad-and-a",

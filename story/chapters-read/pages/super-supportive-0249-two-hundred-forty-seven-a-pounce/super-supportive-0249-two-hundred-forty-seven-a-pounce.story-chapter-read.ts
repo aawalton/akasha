@@ -8,7 +8,7 @@ export const superSupportive0249TwoHundredFortySevenAPounce = {
   story: "super-supportive",
   position: 249,
   ownLength: 2966,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2641996/two-hundred-forty-seven-a-pounce",

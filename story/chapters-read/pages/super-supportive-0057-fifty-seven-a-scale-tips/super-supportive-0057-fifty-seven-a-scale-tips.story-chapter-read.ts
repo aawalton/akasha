@@ -8,7 +8,7 @@ export const superSupportive0057FiftySevenAScaleTips = {
   story: "super-supportive",
   position: 57,
   ownLength: 3776,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1289969/fifty-seven-a-scale-tips",

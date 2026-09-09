@@ -8,7 +8,7 @@ export const superSupportive0208TwoHundredSixHerdcreaturesIv = {
   story: "super-supportive",
   position: 208,
   ownLength: 5797,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2107285/two-hundred-six-herdcreatures-iv",

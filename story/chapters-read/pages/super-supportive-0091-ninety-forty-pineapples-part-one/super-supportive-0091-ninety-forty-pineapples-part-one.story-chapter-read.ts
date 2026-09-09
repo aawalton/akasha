@@ -8,7 +8,7 @@ export const superSupportive0091NinetyFortyPineapplesPartOne = {
   story: "super-supportive",
   position: 91,
   ownLength: 8136,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1401688/ninety-forty-pineapples-part-one",

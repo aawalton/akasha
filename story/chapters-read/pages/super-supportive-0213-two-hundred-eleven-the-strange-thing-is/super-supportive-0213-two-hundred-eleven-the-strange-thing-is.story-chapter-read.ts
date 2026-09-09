@@ -8,7 +8,7 @@ export const superSupportive0213TwoHundredElevenTheStrangeThingIs = {
   story: "super-supportive",
   position: 213,
   ownLength: 3156,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2189552/two-hundred-eleven-the-strange-thing-is",

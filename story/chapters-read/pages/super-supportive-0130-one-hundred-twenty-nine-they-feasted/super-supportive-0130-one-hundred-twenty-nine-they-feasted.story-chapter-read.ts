@@ -8,7 +8,7 @@ export const superSupportive0130OneHundredTwentyNineTheyFeasted = {
   story: "super-supportive",
   position: 130,
   ownLength: 5484,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1567328/one-hundred-twenty-nine-they-feasted",

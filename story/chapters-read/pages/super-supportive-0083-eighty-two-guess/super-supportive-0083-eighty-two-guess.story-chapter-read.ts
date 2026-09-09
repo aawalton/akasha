@@ -8,7 +8,7 @@ export const superSupportive0083EightyTwoGuess = {
   story: "super-supportive",
   position: 83,
   ownLength: 5764,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1378791/eighty-two-guess",

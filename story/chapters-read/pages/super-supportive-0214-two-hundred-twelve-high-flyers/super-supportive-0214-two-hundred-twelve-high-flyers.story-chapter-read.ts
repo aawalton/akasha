@@ -8,7 +8,7 @@ export const superSupportive0214TwoHundredTwelveHighFlyers = {
   story: "super-supportive",
   position: 214,
   ownLength: 4540,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2208393/two-hundred-twelve-high-flyers",

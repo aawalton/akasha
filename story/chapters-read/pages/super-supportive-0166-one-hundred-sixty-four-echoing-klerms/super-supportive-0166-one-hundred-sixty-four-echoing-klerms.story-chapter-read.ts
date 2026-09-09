@@ -8,7 +8,7 @@ export const superSupportive0166OneHundredSixtyFourEchoingKlerms = {
   story: "super-supportive",
   position: 166,
   ownLength: 5008,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1774261/one-hundred-sixty-four-echoing-klerms",

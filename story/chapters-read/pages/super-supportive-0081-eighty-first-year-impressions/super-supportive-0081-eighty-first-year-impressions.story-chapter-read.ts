@@ -8,7 +8,7 @@ export const superSupportive0081EightyFirstYearImpressions = {
   story: "super-supportive",
   position: 81,
   ownLength: 5446,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1367761/eighty-first-year-impressions",

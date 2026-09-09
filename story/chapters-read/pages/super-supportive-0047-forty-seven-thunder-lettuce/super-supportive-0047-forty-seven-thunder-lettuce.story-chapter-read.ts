@@ -8,7 +8,7 @@ export const superSupportive0047FortySevenThunderLettuce = {
   story: "super-supportive",
   position: 47,
   ownLength: 2866,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1253885/forty-seven-thunder-lettuce",

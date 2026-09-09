@@ -8,7 +8,7 @@ export const succulentGirlEvolution0005Chapter5TimeToLeaveTheNest = {
   story: "succulent-girl-evolution",
   position: 5,
   ownLength: 2258,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525543/chapter-5-time-to-leave-the-nest",

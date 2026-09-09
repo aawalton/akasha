@@ -8,7 +8,7 @@ export const superSupportive0176OneHundredSeventyFourBigTippers = {
   story: "super-supportive",
   position: 176,
   ownLength: 4546,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1843176/one-hundred-seventy-four-big-tippers",

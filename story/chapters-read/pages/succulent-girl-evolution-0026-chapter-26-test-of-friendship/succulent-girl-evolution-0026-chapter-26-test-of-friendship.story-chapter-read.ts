@@ -8,7 +8,7 @@ export const succulentGirlEvolution0026Chapter26TestOfFriendship = {
   story: "succulent-girl-evolution",
   position: 26,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2622788/chapter-26-test-of-friendship",

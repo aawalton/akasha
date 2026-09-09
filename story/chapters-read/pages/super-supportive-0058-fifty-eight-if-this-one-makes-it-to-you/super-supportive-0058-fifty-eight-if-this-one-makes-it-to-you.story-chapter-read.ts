@@ -8,7 +8,7 @@ export const superSupportive0058FiftyEightIfThisOneMakesItToYou = {
   story: "super-supportive",
   position: 58,
   ownLength: 1605,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294006/fifty-eight-if-this-one-makes-it-to-you",

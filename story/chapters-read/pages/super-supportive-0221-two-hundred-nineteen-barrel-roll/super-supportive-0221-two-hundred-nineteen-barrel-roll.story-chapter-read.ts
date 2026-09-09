@@ -8,7 +8,7 @@ export const superSupportive0221TwoHundredNineteenBarrelRoll = {
   story: "super-supportive",
   position: 221,
   ownLength: 5527,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2294345/two-hundred-nineteen-barrel-roll",

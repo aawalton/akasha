@@ -8,7 +8,7 @@ export const superSupportive0286TwoHundredEightyFourThoseWhoReach = {
   story: "super-supportive",
   position: 286,
   ownLength: 8549,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3319159/two-hundred-eighty-four-those-who-reach",

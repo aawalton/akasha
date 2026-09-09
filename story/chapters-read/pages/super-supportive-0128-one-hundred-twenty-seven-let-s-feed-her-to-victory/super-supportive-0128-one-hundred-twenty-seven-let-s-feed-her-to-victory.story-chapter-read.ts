@@ -8,7 +8,7 @@ export const superSupportive0128OneHundredTwentySevenLetSFeedHerToVictory = {
   story: "super-supportive",
   position: 128,
   ownLength: 4554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1558619/one-hundred-twenty-seven-lets-feed-her-to-victory",

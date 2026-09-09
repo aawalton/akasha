@@ -8,7 +8,7 @@ export const superSupportive0177OneHundredSeventyFiveKindEffort = {
   story: "super-supportive",
   position: 177,
   ownLength: 4962,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1849289/one-hundred-seventy-five-kind-effort",

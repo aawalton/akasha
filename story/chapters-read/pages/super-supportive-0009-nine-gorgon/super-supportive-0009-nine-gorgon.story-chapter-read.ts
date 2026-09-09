@@ -8,7 +8,7 @@ export const superSupportive0009NineGorgon = {
   story: "super-supportive",
   position: 9,
   ownLength: 3129,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1114911/nine-gorgon",

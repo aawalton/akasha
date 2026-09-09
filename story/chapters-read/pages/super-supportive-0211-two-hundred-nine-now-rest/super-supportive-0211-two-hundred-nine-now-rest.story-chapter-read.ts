@@ -8,7 +8,7 @@ export const superSupportive0211TwoHundredNineNowRest = {
   story: "super-supportive",
   position: 211,
   ownLength: 3018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2152689/two-hundred-nine-now-rest",

@@ -8,7 +8,7 @@ export const succulentGirlEvolution0028Chapter28FriendshipIsExclusive = {
   story: "succulent-girl-evolution",
   position: 28,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2633391/chapter-28-friendship-is-exclusive",

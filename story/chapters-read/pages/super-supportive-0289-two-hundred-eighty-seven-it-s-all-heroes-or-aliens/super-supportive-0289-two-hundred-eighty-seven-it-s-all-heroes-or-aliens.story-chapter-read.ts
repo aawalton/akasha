@@ -8,7 +8,7 @@ export const superSupportive0289TwoHundredEightySevenItSAllHeroesOrAliens = {
   story: "super-supportive",
   position: 289,
   ownLength: 4356,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3402430/two-hundred-eighty-seven-its-all-heroes-or-aliens",

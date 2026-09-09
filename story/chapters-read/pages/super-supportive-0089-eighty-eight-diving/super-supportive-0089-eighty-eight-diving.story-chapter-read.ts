@@ -8,7 +8,7 @@ export const superSupportive0089EightyEightDiving = {
   story: "super-supportive",
   position: 89,
   ownLength: 5795,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1392714/eighty-eight-diving",

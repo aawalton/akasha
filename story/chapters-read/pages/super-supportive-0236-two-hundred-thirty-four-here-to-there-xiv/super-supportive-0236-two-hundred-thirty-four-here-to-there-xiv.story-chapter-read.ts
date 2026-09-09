@@ -8,7 +8,7 @@ export const superSupportive0236TwoHundredThirtyFourHereToThereXiv = {
   story: "super-supportive",
   position: 236,
   ownLength: 4674,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2480322/two-hundred-thirty-four-here-to-there-xiv",

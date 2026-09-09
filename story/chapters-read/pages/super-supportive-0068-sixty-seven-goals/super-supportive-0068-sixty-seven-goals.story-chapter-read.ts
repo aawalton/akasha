@@ -8,7 +8,7 @@ export const superSupportive0068SixtySevenGoals = {
   story: "super-supportive",
   position: 68,
   ownLength: 6715,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1320188/sixty-seven-goals",

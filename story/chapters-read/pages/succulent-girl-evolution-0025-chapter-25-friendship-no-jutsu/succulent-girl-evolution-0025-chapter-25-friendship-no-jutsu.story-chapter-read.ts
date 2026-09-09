@@ -8,7 +8,7 @@ export const succulentGirlEvolution0025Chapter25FriendshipNoJutsu = {
   story: "succulent-girl-evolution",
   position: 25,
   ownLength: 2392,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2615478/chapter-25-friendship-no-jutsu",

@@ -8,7 +8,7 @@ export const superSupportive0028TwentyEightPerception = {
   story: "super-supportive",
   position: 28,
   ownLength: 7182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1159718/twenty-eight-perception",

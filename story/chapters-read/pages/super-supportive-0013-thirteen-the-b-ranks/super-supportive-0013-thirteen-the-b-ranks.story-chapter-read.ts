@@ -8,7 +8,7 @@ export const superSupportive0013ThirteenTheBRanks = {
   story: "super-supportive",
   position: 13,
   ownLength: 3490,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1116754/thirteen-the-b-ranks",

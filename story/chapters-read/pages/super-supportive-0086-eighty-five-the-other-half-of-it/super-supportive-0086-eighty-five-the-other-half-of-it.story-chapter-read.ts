@@ -8,7 +8,7 @@ export const superSupportive0086EightyFiveTheOtherHalfOfIt = {
   story: "super-supportive",
   position: 86,
   ownLength: 8028,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1385333/eighty-five-the-other-half-of-it",

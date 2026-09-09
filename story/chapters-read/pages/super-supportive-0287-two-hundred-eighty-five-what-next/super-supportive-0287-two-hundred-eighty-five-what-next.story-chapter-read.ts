@@ -8,7 +8,7 @@ export const superSupportive0287TwoHundredEightyFiveWhatNext = {
   story: "super-supportive",
   position: 287,
   ownLength: 5345,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3360542/two-hundred-eighty-five-what-next",

@@ -8,7 +8,7 @@ export const superSupportive0202TwoHundredYouVeGotTime = {
   story: "super-supportive",
   position: 202,
   ownLength: 2664,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2026734/two-hundred-youve-got-time",

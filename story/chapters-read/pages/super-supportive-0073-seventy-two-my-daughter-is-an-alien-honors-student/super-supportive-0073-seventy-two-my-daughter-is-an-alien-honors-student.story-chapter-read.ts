@@ -8,7 +8,7 @@ export const superSupportive0073SeventyTwoMyDaughterIsAnAlienHonorsStudent = {
   story: "super-supportive",
   position: 73,
   ownLength: 7634,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1338918/seventy-two-my-daughter-is-an-alien-honors-student",

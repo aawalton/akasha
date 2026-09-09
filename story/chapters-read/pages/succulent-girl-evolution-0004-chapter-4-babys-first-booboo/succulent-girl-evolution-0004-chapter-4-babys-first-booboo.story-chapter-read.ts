@@ -8,7 +8,7 @@ export const succulentGirlEvolution0004Chapter4BabysFirstBooboo = {
   story: "succulent-girl-evolution",
   position: 4,
   ownLength: 2295,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525524/chapter-4-babys-first-booboo",

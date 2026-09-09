@@ -8,7 +8,7 @@ export const superSupportive0203TwoHundredOneAWeirdPlace = {
   story: "super-supportive",
   position: 203,
   ownLength: 4025,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2031903/two-hundred-one-a-weird-place",

@@ -8,7 +8,7 @@ export const superSupportive0045FortyFiveStart = {
   story: "super-supportive",
   position: 45,
   ownLength: 4708,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1246304/forty-five-start",

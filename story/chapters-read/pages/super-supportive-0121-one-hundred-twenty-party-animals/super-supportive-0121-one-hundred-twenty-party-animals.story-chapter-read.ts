@@ -8,7 +8,7 @@ export const superSupportive0121OneHundredTwentyPartyAnimals = {
   story: "super-supportive",
   position: 121,
   ownLength: 2,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1523678/one-hundred-twenty-party-animals",

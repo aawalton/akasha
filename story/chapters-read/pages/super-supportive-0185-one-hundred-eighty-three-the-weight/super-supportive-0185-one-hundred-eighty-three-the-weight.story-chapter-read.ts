@@ -8,7 +8,7 @@ export const superSupportive0185OneHundredEightyThreeTheWeight = {
   story: "super-supportive",
   position: 185,
   ownLength: 3845,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1910029/one-hundred-eighty-three-the-weight",

@@ -8,7 +8,7 @@ export const superSupportive0067SixtySixPinball = {
   story: "super-supportive",
   position: 67,
   ownLength: 3837,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1316633/sixty-six-pinball",

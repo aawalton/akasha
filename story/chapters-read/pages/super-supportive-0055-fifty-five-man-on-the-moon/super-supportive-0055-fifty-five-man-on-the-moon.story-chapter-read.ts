@@ -8,7 +8,7 @@ export const superSupportive0055FiftyFiveManOnTheMoon = {
   story: "super-supportive",
   position: 55,
   ownLength: 3508,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1282960/fifty-five-man-on-the-moon",

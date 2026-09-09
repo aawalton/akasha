@@ -8,7 +8,7 @@ export const superSupportive0220TwoHundredEighteenPower = {
   story: "super-supportive",
   position: 220,
   ownLength: 4080,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2282196/two-hundred-eighteen-power",

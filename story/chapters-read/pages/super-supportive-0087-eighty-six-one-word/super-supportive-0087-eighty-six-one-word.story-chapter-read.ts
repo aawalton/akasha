@@ -8,7 +8,7 @@ export const superSupportive0087EightySixOneWord = {
   story: "super-supportive",
   position: 87,
   ownLength: 3965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1388481/eighty-six-one-word",

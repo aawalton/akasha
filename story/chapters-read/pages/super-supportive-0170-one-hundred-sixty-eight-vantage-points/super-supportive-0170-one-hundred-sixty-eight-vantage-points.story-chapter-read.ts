@@ -8,7 +8,7 @@ export const superSupportive0170OneHundredSixtyEightVantagePoints = {
   story: "super-supportive",
   position: 170,
   ownLength: 5109,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1799372/one-hundred-sixty-eight-vantage-points",

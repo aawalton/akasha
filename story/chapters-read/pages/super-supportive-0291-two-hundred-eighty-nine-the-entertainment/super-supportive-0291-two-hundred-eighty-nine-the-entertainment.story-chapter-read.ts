@@ -8,7 +8,7 @@ export const superSupportive0291TwoHundredEightyNineTheEntertainment = {
   story: "super-supportive",
   position: 291,
   ownLength: 4501,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3447515/two-hundred-eighty-nine-the-entertainment",

@@ -8,7 +8,7 @@ export const superSupportive0033ThirtyThreeFalling = {
   story: "super-supportive",
   position: 33,
   ownLength: 3343,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1202858/thirty-three-falling",

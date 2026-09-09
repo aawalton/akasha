@@ -8,7 +8,7 @@ export const superSupportive0133OneHundreThirtyTwoRipplesIii = {
   story: "super-supportive",
   position: 133,
   ownLength: 6939,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1586244/one-hundre-thirty-two-ripples-iii",

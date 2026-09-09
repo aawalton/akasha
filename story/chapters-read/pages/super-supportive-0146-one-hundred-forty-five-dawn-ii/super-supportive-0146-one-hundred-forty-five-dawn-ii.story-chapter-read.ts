@@ -8,7 +8,7 @@ export const superSupportive0146OneHundredFortyFiveDawnIi = {
   story: "super-supportive",
   position: 146,
   ownLength: 4931,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1661784/one-hundred-forty-five-dawn-ii",

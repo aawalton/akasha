@@ -8,7 +8,7 @@ export const superSupportive0164OneHundredSixtyTwoGrandPresentation = {
   story: "super-supportive",
   position: 164,
   ownLength: 6060,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1759170/one-hundred-sixty-two-grand-presentation",

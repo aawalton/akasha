@@ -8,7 +8,7 @@ export const superSupportive0209TwoHundredSevenHitMeWithIt = {
   story: "super-supportive",
   position: 209,
   ownLength: 4878,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2123312/two-hundred-seven-hit-me-with-it",

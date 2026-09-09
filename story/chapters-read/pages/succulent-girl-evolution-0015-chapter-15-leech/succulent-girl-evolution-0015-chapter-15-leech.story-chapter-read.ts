@@ -8,7 +8,7 @@ export const succulentGirlEvolution0015Chapter15Leech = {
   story: "succulent-girl-evolution",
   position: 15,
   ownLength: 1884,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2555204/chapter-15-leech",

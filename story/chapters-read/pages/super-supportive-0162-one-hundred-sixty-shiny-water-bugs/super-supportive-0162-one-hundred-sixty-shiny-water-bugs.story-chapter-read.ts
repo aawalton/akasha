@@ -8,7 +8,7 @@ export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   story: "super-supportive",
   position: 162,
   ownLength: 6253,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1749184/one-hundred-sixty-shiny-water-bugs",

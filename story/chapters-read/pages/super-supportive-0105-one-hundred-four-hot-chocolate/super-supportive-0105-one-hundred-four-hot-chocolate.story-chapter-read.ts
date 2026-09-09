@@ -8,7 +8,7 @@ export const superSupportive0105OneHundredFourHotChocolate = {
   story: "super-supportive",
   position: 105,
   ownLength: 7182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1457740/one-hundred-four-hot-chocolate",

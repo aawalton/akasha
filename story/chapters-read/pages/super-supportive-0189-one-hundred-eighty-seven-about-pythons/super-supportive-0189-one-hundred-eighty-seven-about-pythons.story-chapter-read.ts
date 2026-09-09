@@ -8,7 +8,7 @@ export const superSupportive0189OneHundredEightySevenAboutPythons = {
   story: "super-supportive",
   position: 189,
   ownLength: 3766,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1940950/one-hundred-eighty-seven-about-pythons",

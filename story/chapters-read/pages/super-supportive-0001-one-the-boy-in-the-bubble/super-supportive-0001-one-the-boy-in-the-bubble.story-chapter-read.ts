@@ -8,7 +8,7 @@ export const superSupportive0001OneTheBoyInTheBubble = {
   story: "super-supportive",
   position: 1,
   ownLength: 1573,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1096481/one-the-boy-in-the-bubble",

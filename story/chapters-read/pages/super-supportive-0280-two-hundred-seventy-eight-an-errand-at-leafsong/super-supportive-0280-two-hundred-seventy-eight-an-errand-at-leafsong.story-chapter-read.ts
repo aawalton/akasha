@@ -8,7 +8,7 @@ export const superSupportive0280TwoHundredSeventyEightAnErrandAtLeafsong = {
   story: "super-supportive",
   position: 280,
   ownLength: 1370,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3194677/two-hundred-seventy-eight-an-errand-at-leafsong",

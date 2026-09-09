@@ -8,7 +8,7 @@ export const superSupportive0085EightyFourTheFrenchSauce = {
   story: "super-supportive",
   position: 85,
   ownLength: 5782,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1382546/eighty-four-the-french-sauce",

@@ -8,7 +8,7 @@ export const superSupportive0059RitualOfReturn = {
   story: "super-supportive",
   position: 59,
   ownLength: 120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1294083/ritual-of-return",

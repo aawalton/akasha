@@ -8,7 +8,7 @@ export const superSupportive0071SeventyRareCompany = {
   story: "super-supportive",
   position: 71,
   ownLength: 3493,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1332050/seventy-rare-company",

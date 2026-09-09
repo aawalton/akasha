@@ -8,7 +8,7 @@ export const superSupportive0080SeventyNineTheFew = {
   story: "super-supportive",
   position: 80,
   ownLength: 5849,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1363774/seventy-nine-the-few",

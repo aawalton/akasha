@@ -8,7 +8,7 @@ export const superSupportive0173OneHundredSeventyOneEventPlanningIsnTHard = {
   story: "super-supportive",
   position: 173,
   ownLength: 6434,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1820869/one-hundred-seventy-one-event-planning-isnt-hard",

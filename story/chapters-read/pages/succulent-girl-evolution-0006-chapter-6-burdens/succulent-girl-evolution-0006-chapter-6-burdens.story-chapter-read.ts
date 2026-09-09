@@ -8,7 +8,7 @@ export const succulentGirlEvolution0006Chapter6Burdens = {
   story: "succulent-girl-evolution",
   position: 6,
   ownLength: 2045,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525560/chapter-6-burdens",

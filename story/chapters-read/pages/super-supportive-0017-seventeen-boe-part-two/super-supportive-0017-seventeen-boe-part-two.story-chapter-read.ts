@@ -8,7 +8,7 @@ export const superSupportive0017SeventeenBoePartTwo = {
   story: "super-supportive",
   position: 17,
   ownLength: 5029,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120008/seventeen-boe-part-two",

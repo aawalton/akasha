@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0766ChapterFortyThreeHammerAndAnvil = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 766,
   ownLength: 1529,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3614183/chapter-forty-three-hammer-and-anvil",

@@ -8,7 +8,7 @@ export const superSupportive0022TwentyTwoUneven = {
   story: "super-supportive",
   position: 22,
   ownLength: 4751,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1126741/twenty-two-uneven",

@@ -8,7 +8,7 @@ export const superSupportive0118OneHundredSeventeenCatch = {
   story: "super-supportive",
   position: 118,
   ownLength: 7098,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1510603/one-hundred-seventeen-catch",

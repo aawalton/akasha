@@ -8,7 +8,7 @@ export const superSupportive0260TwoHundredFiftyEightAlwaysMore = {
   story: "super-supportive",
   position: 260,
   ownLength: 1812,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2793685/two-hundred-fifty-eight-always-more",

@@ -8,7 +8,7 @@ export const superSupportive0179OneHundredSeventySevenGuests = {
   story: "super-supportive",
   position: 179,
   ownLength: 4965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1860730/one-hundred-seventy-seven-guests",

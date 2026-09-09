@@ -8,7 +8,7 @@ export const succulentGirlEvolution0030Chapter30PraiseMissFish = {
   story: "succulent-girl-evolution",
   position: 30,
   ownLength: 1944,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2645978/chapter-30-praise-miss-fish",

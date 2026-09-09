@@ -8,7 +8,7 @@ export const superSupportive0275TwoHundredSeventyThreeTheOtherSide = {
   story: "super-supportive",
   position: 275,
   ownLength: 3704,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3093627/two-hundred-seventy-three-the-other-side",

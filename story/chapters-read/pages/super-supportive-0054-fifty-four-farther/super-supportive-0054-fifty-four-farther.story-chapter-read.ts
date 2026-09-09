@@ -8,7 +8,7 @@ export const superSupportive0054FiftyFourFarther = {
   story: "super-supportive",
   position: 54,
   ownLength: 4158,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1279547/fifty-four-farther",

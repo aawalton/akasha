@@ -8,7 +8,7 @@ export const superSupportive0153OneHundredFiftyTwoASharpBreak = {
   story: "super-supportive",
   position: 153,
   ownLength: 3857,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1694814/one-hundred-fifty-two-a-sharp-break",

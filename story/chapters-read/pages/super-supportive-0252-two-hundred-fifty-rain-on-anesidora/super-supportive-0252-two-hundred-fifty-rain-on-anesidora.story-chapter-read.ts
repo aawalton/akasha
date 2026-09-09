@@ -8,7 +8,7 @@ export const superSupportive0252TwoHundredFiftyRainOnAnesidora = {
   story: "super-supportive",
   position: 252,
   ownLength: 3953,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2680043/two-hundred-fifty-rain-on-anesidora",

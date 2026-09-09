@@ -8,7 +8,7 @@ export const superSupportive0061SixtyMotherPt2 = {
   story: "super-supportive",
   position: 61,
   ownLength: 6004,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1302152/sixty-mother-pt-2",

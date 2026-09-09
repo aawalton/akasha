@@ -8,7 +8,7 @@ export const superSupportive0248TwoHundredFortySixBabyBlue = {
   story: "super-supportive",
   position: 248,
   ownLength: 3414,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2628991/two-hundred-forty-six-baby-blue",

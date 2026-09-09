@@ -8,7 +8,7 @@ export const superSupportive0183OneHundredEightyOneNightlight = {
   story: "super-supportive",
   position: 183,
   ownLength: 4991,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1888828/one-hundred-eighty-one-nightlight",

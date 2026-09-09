@@ -8,7 +8,7 @@ export const superSupportive0165OneHundredSixtyThreeThePrimarySYoungestChild = {
   story: "super-supportive",
   position: 165,
   ownLength: 6017,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1764681/one-hundred-sixty-three-the-primarys-youngest",

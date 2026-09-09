@@ -8,7 +8,7 @@ export const superSupportive0018EighteenInterludeRabbit = {
   story: "super-supportive",
   position: 18,
   ownLength: 1638,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1120720/eighteen-interlude-rabbit",

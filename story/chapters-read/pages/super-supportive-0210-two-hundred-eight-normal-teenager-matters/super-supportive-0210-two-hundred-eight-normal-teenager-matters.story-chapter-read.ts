@@ -8,7 +8,7 @@ export const superSupportive0210TwoHundredEightNormalTeenagerMatters = {
   story: "super-supportive",
   position: 210,
   ownLength: 4182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/2138046/two-hundred-eight-normal-teenager-matters",

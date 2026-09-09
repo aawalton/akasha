@@ -8,7 +8,7 @@ export const superSupportive0065SixtyFourToAQuietRabbit = {
   story: "super-supportive",
   position: 65,
   ownLength: 7130,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1309534/sixty-four-to-a-quiet-rabbit",

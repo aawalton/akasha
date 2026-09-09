@@ -8,7 +8,7 @@ export const superSupportive0066SixtyFiveIntake = {
   story: "super-supportive",
   position: 66,
   ownLength: 4835,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1313034/sixty-five-intake",

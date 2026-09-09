@@ -8,7 +8,7 @@ export const superSupportive0171OneHundredSixtyNineItSDefinitelyThursday = {
   story: "super-supportive",
   position: 171,
   ownLength: 4388,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/1809899/one-hundred-sixty-nine-its-definitely-thursday",
