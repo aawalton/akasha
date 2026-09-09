@@ -23,6 +23,10 @@ export const generatedFileNotWritten = {
     },
     {
       invariantKind: "departure",
+      statement: "A section under a page type carrying no such property is passed over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file added is passed over.",
     },
     {

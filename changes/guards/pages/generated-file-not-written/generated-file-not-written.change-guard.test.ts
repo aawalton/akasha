@@ -9,9 +9,15 @@ import { generatedFileNotWritten } from "./generated-file-not-written.change-gua
 
 const ID = "01a07750-0000-7000-8000-000000000001"
 
+const OWNER = "01a07750-0000-7000-8000-000000000002"
+
 const PROPERTY = "akasha/entries.file-property.ts"
 
+const HOLDER = "akasha/one/held.module.ts"
+
 const GENERATED = "akasha/one/held.module.entries.jsonl"
+
+const FOREIGN = "akasha/one/held.code-check.entries.jsonl"
 
 const PLAIN = "akasha/one/held.module.code.ts"
 
@@ -26,7 +32,9 @@ const ENTRIES: Value = {
 }
 
 const INDEX: Partial<Shadow["index"]> = {
-  carryingOf: () => ({ refused: NO_SLUG }),
+  carryingOf: () => ({
+    carrying: [{ pageTypeSlug: "module", path: HOLDER, id: OWNER, within: null }],
+  }),
   everyOfType: () => [{ path: PROPERTY, id: ID }],
   kindsUnder: () => new Set(["file-property"]),
 }
@@ -38,12 +46,21 @@ const SHADOW: Shadow = {
   codeAt: (path) => path,
 }
 
+const CARRIES_NONE: Shadow = {
+  ...SHADOW,
+  index: { ...INDEX, carryingOf: () => ({ refused: NO_SLUG }) } as Shadow["index"],
+}
+
 function replacing(path: string): FileChange {
   return { kind: "replace", path, contentFrom: "one", contentTo: "two" }
 }
 
+function judgedIn(shadow: Shadow, edits: readonly FileChange[]): string | null {
+  return generatedFileNotWritten({ said: stating(edits), shadow, before: worldOf({}) })
+}
+
 function judged(edits: readonly FileChange[]): string | null {
-  return generatedFileNotWritten({ said: stating(edits), shadow: SHADOW, before: worldOf({}) })
+  return judgedIn(SHADOW, edits)
 }
 
 test("a change to the content of a file a generated property has is refused", () => {
@@ -55,6 +72,14 @@ test("a change to the content of a file a generated property has is refused", ()
 
 test("a change to the content of a file no generated property has is not refused", () => {
   expect(judged([replacing(PLAIN)])).toBe(null)
+})
+
+test("that same section under a page type carrying no such property is not refused", () => {
+  expect(judged([replacing(FOREIGN)])).toBe(null)
+})
+
+test("a property no page type is known to carry is a file that is not generated", () => {
+  expect(judgedIn(CARRIES_NONE, [replacing(GENERATED)])).toBe(null)
 })
 
 test("a file a generated property has added is not refused", () => {
