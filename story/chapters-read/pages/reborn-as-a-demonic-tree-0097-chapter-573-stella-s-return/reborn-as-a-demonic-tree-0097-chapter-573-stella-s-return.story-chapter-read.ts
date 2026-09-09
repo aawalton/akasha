@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0097Chapter573StellaSReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0097-chapter-573-stella-s-return",
   title: "Chapter 573: Stella's Return",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 97,
   ownLength: 3003,
   unitSlug: "words",

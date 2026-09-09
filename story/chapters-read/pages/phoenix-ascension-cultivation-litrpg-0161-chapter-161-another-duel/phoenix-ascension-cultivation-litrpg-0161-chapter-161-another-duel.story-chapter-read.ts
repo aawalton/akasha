@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0161Chapter161AnotherDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0161-chapter-161-another-duel",
   title: "Chapter 161: Another duel",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 161,
   ownLength: 2048,
   unitSlug: "words",

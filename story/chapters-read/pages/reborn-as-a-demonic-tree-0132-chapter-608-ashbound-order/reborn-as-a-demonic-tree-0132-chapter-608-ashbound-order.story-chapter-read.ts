@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0132Chapter608AshboundOrder = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0132-chapter-608-ashbound-order",
   title: "Chapter 608: Ashbound Order",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 132,
   ownLength: 2820,
   unitSlug: "words",

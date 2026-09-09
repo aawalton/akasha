@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001212FortuneFavors = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0012-12-fortune-favors",
   title: "12 - Fortune Favors",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 12,
   ownLength: 2662,
   unitSlug: "words",

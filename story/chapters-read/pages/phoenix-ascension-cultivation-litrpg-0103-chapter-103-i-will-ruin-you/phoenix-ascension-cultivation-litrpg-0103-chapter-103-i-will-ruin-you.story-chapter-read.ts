@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0103Chapter103IWillRuinYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0103-chapter-103-i-will-ruin-you",
   title: "Chapter 103: I will ruin you!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 103,
   ownLength: 1880,
   unitSlug: "words",

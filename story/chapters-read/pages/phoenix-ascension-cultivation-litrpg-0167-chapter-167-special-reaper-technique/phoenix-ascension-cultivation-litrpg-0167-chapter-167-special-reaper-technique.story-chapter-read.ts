@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0167Chapter167SpecialReaperTechniq
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0167-chapter-167-special-reaper-technique",
   title: "Chapter 167: Special Reaper Technique",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 167,
   ownLength: 2179,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = 
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0053-chapter-53-demonic-qi-expulsion",
   title: "Chapter 53: Demonic Qi Expulsion",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 53,
   ownLength: 2452,
   unitSlug: "words",

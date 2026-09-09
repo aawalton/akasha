@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0003Chapter3Awakening = 
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0003-chapter-3-awakening",
   title: "Chapter 3: Awakening ",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 3,
   ownLength: 2161,
   unitSlug: "words",

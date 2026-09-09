@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0171Chapter171TowardTheFourCornerS
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0171-chapter-171-toward-the-four-corner-sword-realm",
   title: "Chapter 171: Toward the Four Corner Sword Realm!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 171,
   ownLength: 2374,
   unitSlug: "words",

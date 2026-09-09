@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0096Chapter572AnInvitationAndReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0096-chapter-572-an-invitation-and-return",
   title: "Chapter 572: An Invitation and Return",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 96,
   ownLength: 2759,
   unitSlug: "words",

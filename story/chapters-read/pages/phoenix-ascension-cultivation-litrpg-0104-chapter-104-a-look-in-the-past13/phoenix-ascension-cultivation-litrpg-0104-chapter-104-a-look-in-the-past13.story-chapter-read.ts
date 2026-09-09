@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0104Chapter104ALookInThePast13 = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0104-chapter-104-a-look-in-the-past13",
   title: "Chapter 104: A look in the past(1/3)",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 104,
   ownLength: 2231,
   unitSlug: "words",

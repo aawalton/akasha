@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0162Chapter162HowElementsWereMeant
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0162-chapter-162-how-elements-were-meant-to-be-used",
   title: "Chapter 162: How elements were meant to be used",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 162,
   ownLength: 1922,
   unitSlug: "words",

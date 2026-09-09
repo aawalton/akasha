@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0093Chapter93HowInteresting = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0093-chapter-93-how-interesting",
   title: "Chapter 93: How Interesting",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 93,
   ownLength: 2871,
   unitSlug: "words",

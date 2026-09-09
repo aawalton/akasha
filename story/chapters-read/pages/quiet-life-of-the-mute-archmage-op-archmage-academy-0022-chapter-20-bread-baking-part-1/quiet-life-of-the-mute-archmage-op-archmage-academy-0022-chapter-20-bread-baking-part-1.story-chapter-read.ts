@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0022Chapter20BreadBaking
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0022-chapter-20-bread-baking-part-1",
   title: "Chapter 20: Bread Baking (Part 1)",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 22,
   ownLength: 2600,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00044EvolveOrDie = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0004-4-evolve-or-die",
   title: "4 - Evolve Or Die",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 4,
   ownLength: 1990,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0090Chapter90FoundationEstablishme
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0090-chapter-90-foundation-establishment",
   title: "Chapter 90: Foundation Establishment",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 90,
   ownLength: 2670,
   unitSlug: "words",

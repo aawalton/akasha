@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00022TheOuterOuterWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0002-2-the-outer-outer-world",
   title: "2: The Outer-Outer-World",
-  storySlug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 2,
   ownLength: 2275,
   unitSlug: "words",

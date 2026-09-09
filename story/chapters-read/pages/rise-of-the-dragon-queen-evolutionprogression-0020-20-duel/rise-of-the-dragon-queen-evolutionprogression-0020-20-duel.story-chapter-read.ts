@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression002020Duel = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0020-20-duel",
   title: "20 - Duel",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 20,
   ownLength: 1990,
   unitSlug: "words",

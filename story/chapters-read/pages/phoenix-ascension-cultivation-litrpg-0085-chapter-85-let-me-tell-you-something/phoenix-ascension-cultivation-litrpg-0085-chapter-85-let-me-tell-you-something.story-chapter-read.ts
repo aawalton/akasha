@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0085Chapter85LetMeTellYouSomething
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0085-chapter-85-let-me-tell-you-something",
   title: "Chapter 85: Let me tell you something!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 85,
   ownLength: 2552,
   unitSlug: "words",

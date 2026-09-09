@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0036Chapter34Conclusion 
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0036-chapter-34-conclusion",
   title: "Chapter 34: Conclusion",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 36,
   ownLength: 2631,
   unitSlug: "words",

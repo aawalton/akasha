@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0089Chapter89ShangHue = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0089-chapter-89-shang-hue",
   title: "Chapter 89: Shang Hue",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 89,
   ownLength: 2324,
   unitSlug: "words",

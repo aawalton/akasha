@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0039Chapter517HumbleBeginnings = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0039-chapter-517-humble-beginnings",
   title: "Chapter 517: Humble Beginnings",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 39,
   ownLength: 2780,
   unitSlug: "words",

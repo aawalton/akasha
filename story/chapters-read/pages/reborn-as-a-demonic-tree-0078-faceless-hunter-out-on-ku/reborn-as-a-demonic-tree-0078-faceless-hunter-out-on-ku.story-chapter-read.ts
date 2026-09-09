@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0078FacelessHunterOutOnKu = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0078-faceless-hunter-out-on-ku",
   title: "Faceless Hunter out on KU!",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 78,
   ownLength: 214,
   unitSlug: "words",

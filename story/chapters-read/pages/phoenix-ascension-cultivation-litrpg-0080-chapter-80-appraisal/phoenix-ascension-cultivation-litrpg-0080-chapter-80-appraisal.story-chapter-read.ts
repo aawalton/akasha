@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0080Chapter80Appraisal = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0080-chapter-80-appraisal",
   title: "Chapter 80: Appraisal?",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 80,
   ownLength: 2099,
   unitSlug: "words",

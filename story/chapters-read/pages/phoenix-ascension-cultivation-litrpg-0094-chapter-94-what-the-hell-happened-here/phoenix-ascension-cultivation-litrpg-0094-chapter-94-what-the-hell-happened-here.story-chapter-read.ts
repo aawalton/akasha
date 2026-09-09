@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0094Chapter94WhatTheHellHappenedHe
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0094-chapter-94-what-the-hell-happened-here",
   title: "Chapter 94: What the hell happened here?",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 94,
   ownLength: 2805,
   unitSlug: "words",

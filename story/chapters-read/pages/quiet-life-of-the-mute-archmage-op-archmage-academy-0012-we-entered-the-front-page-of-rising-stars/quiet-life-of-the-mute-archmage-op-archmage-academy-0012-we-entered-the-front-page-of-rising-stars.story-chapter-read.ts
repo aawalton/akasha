@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0012WeEnteredTheFrontPag
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0012-we-entered-the-front-page-of-rising-stars",
   title: "We entered the front page of Rising Stars in just five days! Thank you very much!!",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 12,
   ownLength: 253,
   unitSlug: "words",

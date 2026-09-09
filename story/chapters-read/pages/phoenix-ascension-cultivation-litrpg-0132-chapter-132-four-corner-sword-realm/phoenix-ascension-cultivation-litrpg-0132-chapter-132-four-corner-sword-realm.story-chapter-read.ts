@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0132Chapter132FourCornerSwordRealm
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0132-chapter-132-four-corner-sword-realm",
   title: "Chapter 132 - Four Corner Sword Realm",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 132,
   ownLength: 1827,
   unitSlug: "words",

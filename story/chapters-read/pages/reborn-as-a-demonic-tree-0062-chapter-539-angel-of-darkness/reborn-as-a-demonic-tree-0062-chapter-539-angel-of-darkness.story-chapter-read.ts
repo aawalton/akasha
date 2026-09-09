@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0062Chapter539AngelOfDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0062-chapter-539-angel-of-darkness",
   title: "Chapter 539: Angel of Darkness",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 62,
   ownLength: 2868,
   unitSlug: "words",

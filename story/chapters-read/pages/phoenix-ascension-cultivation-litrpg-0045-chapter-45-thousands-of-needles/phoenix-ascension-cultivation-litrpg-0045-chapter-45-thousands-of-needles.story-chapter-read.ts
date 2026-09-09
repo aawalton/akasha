@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0045Chapter45ThousandsOfNeedles = 
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0045-chapter-45-thousands-of-needles",
   title: "Chapter 45: Thousands of Needles",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 45,
   ownLength: 2726,
   unitSlug: "words",

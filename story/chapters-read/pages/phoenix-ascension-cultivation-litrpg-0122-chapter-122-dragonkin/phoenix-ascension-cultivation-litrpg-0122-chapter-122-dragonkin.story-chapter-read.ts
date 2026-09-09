@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0122Chapter122Dragonkin = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0122-chapter-122-dragonkin",
   title: "Chapter 122: Dragonkin",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 122,
   ownLength: 2017,
   unitSlug: "words",

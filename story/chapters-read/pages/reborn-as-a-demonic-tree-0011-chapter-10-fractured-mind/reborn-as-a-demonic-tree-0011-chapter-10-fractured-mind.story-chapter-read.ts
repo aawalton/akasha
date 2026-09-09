@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0011Chapter10FracturedMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0011-chapter-10-fractured-mind",
   title: "Chapter 10: Fractured Mind",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 11,
   ownLength: 1797,
   unitSlug: "words",

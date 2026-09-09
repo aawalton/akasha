@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0116Chapter116Merge = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0116-chapter-116-merge",
   title: "Chapter 116: Merge?",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 116,
   ownLength: 2381,
   unitSlug: "words",

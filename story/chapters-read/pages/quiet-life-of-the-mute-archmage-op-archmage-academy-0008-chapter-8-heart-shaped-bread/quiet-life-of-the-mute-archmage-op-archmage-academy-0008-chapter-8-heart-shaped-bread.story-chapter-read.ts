@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0008Chapter8HeartShapedB
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0008-chapter-8-heart-shaped-bread",
   title: "Chapter 8: Heart Shaped Bread",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 8,
   ownLength: 2244,
   unitSlug: "words",

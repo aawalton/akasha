@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00055SearchForTruth = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0005-5-search-for-truth",
   title: "5: Search for Truth",
-  storySlug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 5,
   ownLength: 2513,
   unitSlug: "words",

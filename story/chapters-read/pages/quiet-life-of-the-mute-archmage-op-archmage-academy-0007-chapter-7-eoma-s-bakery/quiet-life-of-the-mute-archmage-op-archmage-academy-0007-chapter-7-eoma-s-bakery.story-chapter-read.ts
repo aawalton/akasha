@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0007Chapter7EomaSBakery 
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0007-chapter-7-eoma-s-bakery",
   title: "Chapter 7: Eoma's Bakery",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 7,
   ownLength: 2219,
   unitSlug: "words",

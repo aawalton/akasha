@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0029Chapter27TimeToGetTo
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0029-chapter-27-time-to-get-to-work",
   title: "Chapter 27: Time To Get To Work",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 29,
   ownLength: 3044,
   unitSlug: "words",

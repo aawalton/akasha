@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0081Chapter557Checkmate = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0081-chapter-557-checkmate",
   title: "Chapter 557: Checkmate",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 81,
   ownLength: 2469,
   unitSlug: "words",

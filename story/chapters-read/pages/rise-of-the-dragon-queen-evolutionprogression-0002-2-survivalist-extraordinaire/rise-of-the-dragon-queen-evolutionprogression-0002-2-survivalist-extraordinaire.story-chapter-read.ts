@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00022SurvivalistExtraordina
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0002-2-survivalist-extraordinaire",
   title: "2 - Survivalist Extraordinaire",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 2,
   ownLength: 3306,
   unitSlug: "words",

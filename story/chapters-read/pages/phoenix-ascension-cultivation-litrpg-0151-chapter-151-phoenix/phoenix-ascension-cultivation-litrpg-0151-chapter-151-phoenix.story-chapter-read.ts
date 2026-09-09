@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0151Chapter151Phoenix = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0151-chapter-151-phoenix",
   title: "Chapter 151: Phoenix",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 151,
   ownLength: 2506,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0014Chapter13TheWhiteRai
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0014-chapter-13-the-white-rain-part-3",
   title: "Chapter 13: The White Rain (Part 3)",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 14,
   ownLength: 2960,
   unitSlug: "words",

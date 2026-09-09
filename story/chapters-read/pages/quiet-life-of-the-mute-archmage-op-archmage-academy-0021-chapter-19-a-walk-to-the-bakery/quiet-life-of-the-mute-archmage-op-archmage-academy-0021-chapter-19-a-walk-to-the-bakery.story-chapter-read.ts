@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0021Chapter19AWalkToTheB
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0021-chapter-19-a-walk-to-the-bakery",
   title: "Chapter 19: A Walk To The Bakery",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 21,
   ownLength: 1707,
   unitSlug: "words",

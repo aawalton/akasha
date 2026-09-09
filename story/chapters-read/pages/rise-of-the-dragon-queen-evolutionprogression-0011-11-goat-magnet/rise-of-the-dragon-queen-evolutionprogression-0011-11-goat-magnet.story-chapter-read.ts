@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001111GoatMagnet = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0011-11-goat-magnet",
   title: "11 - Goat Magnet",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 11,
   ownLength: 3152,
   unitSlug: "words",

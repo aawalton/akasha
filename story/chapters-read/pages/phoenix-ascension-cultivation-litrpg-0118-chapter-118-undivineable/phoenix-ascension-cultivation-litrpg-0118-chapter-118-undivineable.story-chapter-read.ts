@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0118Chapter118Undivineable = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0118-chapter-118-undivineable",
   title: "Chapter 118: Undivineable",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 118,
   ownLength: 2128,
   unitSlug: "words",

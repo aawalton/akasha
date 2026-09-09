@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0055Chapter55StrangeDeerStrangerBi
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0055-chapter-55-strange-deer-stranger-bird",
   title: "Chapter 55: Strange Deer, Stranger Bird",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 55,
   ownLength: 4361,
   unitSlug: "words",

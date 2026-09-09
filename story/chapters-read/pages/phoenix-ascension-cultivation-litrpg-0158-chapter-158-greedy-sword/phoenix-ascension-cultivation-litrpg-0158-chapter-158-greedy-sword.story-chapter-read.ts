@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0158Chapter158GreedySword = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0158-chapter-158-greedy-sword",
   title: "Chapter 158: Greedy Sword",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 158,
   ownLength: 3666,
   unitSlug: "words",

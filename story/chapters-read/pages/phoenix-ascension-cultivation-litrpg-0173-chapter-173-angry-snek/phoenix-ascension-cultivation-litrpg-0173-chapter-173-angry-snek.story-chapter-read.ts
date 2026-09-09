@@ -4,7 +4,7 @@ export const phoenixAscensionCultivationLitrpg0173Chapter173AngrySnek = {
   id: "01a07d43-cdbd-7f59-8bb8-431c530ad67d",
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0173-chapter-173-angry-snek",
-  storySlug: "story-read/phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 173,
   publishedAt: "2026-09-07",
   unitSlug: "words",

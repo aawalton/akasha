@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001010TheWisp = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0010-10-the-wisp",
   title: "10 - The Wisp",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 10,
   ownLength: 1861,
   unitSlug: "words",

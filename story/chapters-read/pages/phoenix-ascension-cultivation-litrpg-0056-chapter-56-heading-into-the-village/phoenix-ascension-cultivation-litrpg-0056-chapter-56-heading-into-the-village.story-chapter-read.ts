@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0056Chapter56HeadingIntoTheVillage
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0056-chapter-56-heading-into-the-village",
   title: "Chapter 56: Heading into the VIllage",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 56,
   ownLength: 3819,
   unitSlug: "words",

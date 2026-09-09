@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0112Chapter112TheBoarStalksTheCica
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0112-chapter-112-the-boar-stalks-the-cicada-unaware-of",
   title: "Chapter 112: The Boar Stalks The Cicada, Unaware of Phoenix Behind it.",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 112,
   ownLength: 1595,
   unitSlug: "words",

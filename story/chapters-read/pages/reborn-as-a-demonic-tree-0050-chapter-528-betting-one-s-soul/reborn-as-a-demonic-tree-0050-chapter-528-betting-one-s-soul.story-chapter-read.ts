@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0050Chapter528BettingOneSSoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0050-chapter-528-betting-one-s-soul",
   title: "Chapter 528: Betting One's Soul",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 50,
   ownLength: 2920,
   unitSlug: "words",

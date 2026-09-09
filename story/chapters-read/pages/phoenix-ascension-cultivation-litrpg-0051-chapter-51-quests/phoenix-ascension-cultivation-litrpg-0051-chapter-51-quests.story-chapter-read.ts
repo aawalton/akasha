@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0051Chapter51Quests = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0051-chapter-51-quests",
   title: "Chapter 51: Quests",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 51,
   ownLength: 3745,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001818Mystery = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0018-18-mystery",
   title: "18 - Mystery",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 18,
   ownLength: 1949,
   unitSlug: "words",

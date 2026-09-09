@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0015AmazonLaunchArtLetSGoooooo = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0015-amazon-launch-art-let-s-goooooo",
   title: "AMAZON LAUNCH + ART (LET'S GOOOOOO)",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 15,
   ownLength: 442,
   unitSlug: "words",

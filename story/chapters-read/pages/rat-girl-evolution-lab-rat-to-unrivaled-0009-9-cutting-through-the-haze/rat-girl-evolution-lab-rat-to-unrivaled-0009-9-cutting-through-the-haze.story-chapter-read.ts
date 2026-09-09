@@ -5,7 +5,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00099CuttingThroughTheHaze = {
   pageTypeSlug: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0009-9-cutting-through-the-haze",
   title: "9: Cutting Through the Haze",
-  storySlug: "rat-girl-evolution-lab-rat-to-unrivaled",
+  story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 9,
   ownLength: 2443,
   unitSlug: "words",

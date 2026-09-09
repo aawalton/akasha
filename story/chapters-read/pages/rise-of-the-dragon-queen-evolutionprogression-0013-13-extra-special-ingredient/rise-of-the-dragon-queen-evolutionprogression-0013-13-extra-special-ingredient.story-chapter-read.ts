@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredien
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0013-13-extra-special-ingredient",
   title: "13 - Extra Special Ingredient",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 13,
   ownLength: 1849,
   unitSlug: "words",

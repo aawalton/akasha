@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001515HealersBargain = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0015-15-healers-bargain",
   title: "15 - Healers Bargain",
-  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
+  story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 15,
   ownLength: 1853,
   unitSlug: "words",

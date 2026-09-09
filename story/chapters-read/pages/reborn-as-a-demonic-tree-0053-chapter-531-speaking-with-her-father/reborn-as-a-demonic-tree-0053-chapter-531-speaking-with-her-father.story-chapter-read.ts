@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0053Chapter531SpeakingWithHerFather = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0053-chapter-531-speaking-with-her-father",
   title: "Chapter 531: Speaking with her Father",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 53,
   ownLength: 2777,
   unitSlug: "words",

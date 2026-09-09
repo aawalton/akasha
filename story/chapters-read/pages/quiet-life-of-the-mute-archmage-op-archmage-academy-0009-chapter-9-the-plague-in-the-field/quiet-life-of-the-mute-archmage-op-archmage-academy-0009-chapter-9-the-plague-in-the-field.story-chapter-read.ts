@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0009Chapter9ThePlagueInT
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0009-chapter-9-the-plague-in-the-field",
   title: "Chapter 9: The Plague In The Field",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 9,
   ownLength: 3001,
   unitSlug: "words",

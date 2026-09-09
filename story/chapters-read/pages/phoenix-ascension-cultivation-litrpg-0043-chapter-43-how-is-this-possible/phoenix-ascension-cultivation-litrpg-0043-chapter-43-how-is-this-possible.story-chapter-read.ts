@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0043Chapter43HowIsThisPossible = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0043-chapter-43-how-is-this-possible",
   title: "Chapter 43: How is this possible?!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 43,
   ownLength: 1913,
   unitSlug: "words",

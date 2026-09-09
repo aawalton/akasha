@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0092Chapter92Assassins = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0092-chapter-92-assassins",
   title: "Chapter 92: Assassins",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 92,
   ownLength: 2637,
   unitSlug: "words",

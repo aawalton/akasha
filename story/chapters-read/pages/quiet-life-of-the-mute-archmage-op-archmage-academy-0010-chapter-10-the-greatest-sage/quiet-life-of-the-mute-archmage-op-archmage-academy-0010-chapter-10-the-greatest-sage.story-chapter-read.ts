@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0010Chapter10TheGreatest
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0010-chapter-10-the-greatest-sage",
   title: "Chapter 10: The Greatest Sage ",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 10,
   ownLength: 2708,
   unitSlug: "words",

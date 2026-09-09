@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0098Chapter98notifications = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0098-chapter-98notifications",
   title: "Chapter 98:Notifications",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 98,
   ownLength: 1977,
   unitSlug: "words",

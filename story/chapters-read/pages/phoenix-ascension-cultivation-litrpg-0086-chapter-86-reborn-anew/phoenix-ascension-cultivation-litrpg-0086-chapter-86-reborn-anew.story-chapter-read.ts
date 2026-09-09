@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0086Chapter86RebornAnew = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0086-chapter-86-reborn-anew",
   title: "Chapter 86: Reborn Anew",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 86,
   ownLength: 2416,
   unitSlug: "words",

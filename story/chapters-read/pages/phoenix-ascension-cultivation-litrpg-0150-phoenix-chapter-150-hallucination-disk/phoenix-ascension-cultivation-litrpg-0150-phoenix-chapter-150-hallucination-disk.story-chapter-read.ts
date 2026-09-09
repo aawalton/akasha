@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0150PhoenixChapter150Hallucination
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0150-phoenix-chapter-150-hallucination-disk",
   title: "Phoenix Chapter 150 - Hallucination Disk",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 150,
   ownLength: 2141,
   unitSlug: "words",

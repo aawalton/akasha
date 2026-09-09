@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0134Chapter610ExpensiveToFeed = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0134-chapter-610-expensive-to-feed",
   title: "Chapter 610: Expensive to Feed",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 134,
   ownLength: 2570,
   unitSlug: "words",

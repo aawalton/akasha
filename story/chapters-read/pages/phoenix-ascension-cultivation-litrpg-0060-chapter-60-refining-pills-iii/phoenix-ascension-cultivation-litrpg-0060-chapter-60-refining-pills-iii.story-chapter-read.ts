@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0060Chapter60RefiningPillsIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0060-chapter-60-refining-pills-iii",
   title: "Chapter 60: Refining Pills III",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 60,
   ownLength: 2115,
   unitSlug: "words",

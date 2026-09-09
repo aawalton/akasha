@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0071Chapter71SlayingTheBear = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0071-chapter-71-slaying-the-bear",
   title: "Chapter 71: Slaying the Bear",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 71,
   ownLength: 2420,
   unitSlug: "words",

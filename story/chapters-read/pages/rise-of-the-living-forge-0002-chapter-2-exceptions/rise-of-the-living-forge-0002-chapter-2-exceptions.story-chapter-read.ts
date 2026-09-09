@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0002Chapter2Exceptions = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0002-chapter-2-exceptions",
   title: "Chapter 2: Exceptions",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 2,
   ownLength: 2756,
   unitSlug: "words",

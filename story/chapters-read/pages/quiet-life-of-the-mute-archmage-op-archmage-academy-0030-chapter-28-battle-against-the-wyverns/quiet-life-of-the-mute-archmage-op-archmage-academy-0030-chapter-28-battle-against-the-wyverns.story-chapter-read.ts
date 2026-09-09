@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0030Chapter28BattleAgain
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0030-chapter-28-battle-against-the-wyverns",
   title: "Chapter 28: Battle Against The Wyverns",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 30,
   ownLength: 2497,
   unitSlug: "words",

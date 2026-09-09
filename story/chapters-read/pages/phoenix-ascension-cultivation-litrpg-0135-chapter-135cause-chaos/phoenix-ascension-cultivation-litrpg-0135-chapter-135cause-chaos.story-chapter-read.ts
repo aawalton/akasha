@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0135Chapter135causeChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0135-chapter-135cause-chaos",
   title: "Chapter 135:Cause Chaos",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 135,
   ownLength: 2435,
   unitSlug: "words",

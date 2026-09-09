@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0016Chapter15AForeignGue
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0016-chapter-15-a-foreign-guest",
   title: "Chapter 15: A Foreign Guest",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 16,
   ownLength: 1950,
   unitSlug: "words",

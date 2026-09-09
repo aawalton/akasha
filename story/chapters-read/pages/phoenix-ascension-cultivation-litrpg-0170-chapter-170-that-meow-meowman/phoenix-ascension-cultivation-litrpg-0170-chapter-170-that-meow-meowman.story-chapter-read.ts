@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0170Chapter170ThatMeowMeowman = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0170-chapter-170-that-meow-meowman",
   title: "Chapter 170: THAT MEOW MEOWMAN!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 170,
   ownLength: 2682,
   unitSlug: "words",

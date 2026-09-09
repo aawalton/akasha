@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0015Chapter14OneStepAtAT
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0015-chapter-14-one-step-at-a-time",
   title: "Chapter 14: One Step At A Time",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 15,
   ownLength: 1860,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const phoenixAscensionCultivationLitrpg0172Chapter172FlaringABloodline = 
   id: "01a07854-67a6-7241-9e5a-d4958c96fae2",
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0172-chapter-172-flaring-a-bloodline",
-  storySlug: "story-read/phoenix-ascension-cultivation-litrpg",
+  story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 172,
   publishedAt: "2026-09-06",
   unitSlug: "words",

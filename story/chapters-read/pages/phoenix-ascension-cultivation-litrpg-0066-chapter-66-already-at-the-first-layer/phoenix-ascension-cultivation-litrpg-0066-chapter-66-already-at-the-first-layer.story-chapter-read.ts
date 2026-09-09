@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0066Chapter66AlreadyAtTheFirstLaye
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0066-chapter-66-already-at-the-first-layer",
   title: "Chapter 66: Already at the first layer?",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 66,
   ownLength: 2209,
   unitSlug: "words",

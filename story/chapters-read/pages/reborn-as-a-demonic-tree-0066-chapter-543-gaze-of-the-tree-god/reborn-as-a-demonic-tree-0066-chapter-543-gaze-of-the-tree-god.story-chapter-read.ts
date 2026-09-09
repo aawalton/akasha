@@ -5,7 +5,7 @@ export const rebornAsADemonicTree0066Chapter543GazeOfTheTreeGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0066-chapter-543-gaze-of-the-tree-god",
   title: "Chapter 543: Gaze of the Tree God",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 66,
   ownLength: 3260,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0024Chapter22TheReturnOf
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0024-chapter-22-the-return-of-phragons",
   title: "Chapter 22: The Return of Phragons",
-  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
+  story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 24,
   ownLength: 3819,
   unitSlug: "words",

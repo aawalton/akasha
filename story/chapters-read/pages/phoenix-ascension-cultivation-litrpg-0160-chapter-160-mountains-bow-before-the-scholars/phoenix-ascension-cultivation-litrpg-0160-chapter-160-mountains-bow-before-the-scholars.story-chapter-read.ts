@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0160Chapter160MountainsBowBeforeTh
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0160-chapter-160-mountains-bow-before-the-scholars",
   title: "Chapter 160: Mountains bow before the scholar's brush",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 160,
   ownLength: 2228,
   unitSlug: "words",

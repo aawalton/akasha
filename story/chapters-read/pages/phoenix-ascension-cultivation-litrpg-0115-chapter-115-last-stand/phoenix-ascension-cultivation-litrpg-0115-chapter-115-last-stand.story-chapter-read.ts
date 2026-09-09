@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0115Chapter115LastStand = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0115-chapter-115-last-stand",
   title: "Chapter 115: Last Stand",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 115,
   ownLength: 2443,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightni
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0168-chapter-168-a-giant-fuckass-lightning-dragon",
   title: "Chapter 168: A giant fuckass Lightning Dragon.",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 168,
   ownLength: 2513,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const rebornAsADemonicTree0137Chapter613ASingleTree = {
   id: "01a07252-32ef-7713-b4d8-08349f0b6a54",
   pageTypeSlug: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0137-chapter-613-a-single-tree",
-  storySlug: "story-read/reborn-as-a-demonic-tree",
+  story: "story-read/reborn-as-a-demonic-tree",
   position: 137,
   publishedAt: "2026-09-04",
   unitSlug: "words",
