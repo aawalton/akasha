@@ -1,24 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { PointsSourceAggregate } from "./properties/points-source-aggregate.text-property.ts"
-import type { PointsSourceKind } from "./properties/points-source-kind.text-property.ts"
-import type { PointsSourceMarker } from "./properties/points-source-marker.text-property.ts"
-import type { PointsSourcePathPrefix } from "./properties/points-source-path-prefix.text-property.ts"
-import type { PointsSourcePointField } from "./properties/points-source-point-field.text-property.ts"
-import type { PointsSourceReadings } from "./properties/points-source-readings.text-property.ts"
-import type { PointsSourceWeightField } from "./properties/points-source-weight-field.text-property.ts"
-import type { SourcePersona } from "./properties/source-persona.relation-property.ts"
-
-export type PersonaPointsSource = Domain & {
-  persona: SourcePersona
-  kind: PointsSourceKind
-  marker?: PointsSourceMarker
-  aggregate?: PointsSourceAggregate
-  pathPrefix?: PointsSourcePathPrefix
-  pointField?: PointsSourcePointField
-  weightField?: PointsSourceWeightField
-  readings?: PointsSourceReadings
-}
 
 export const personaPointsSource = {
   id: "01a00115-e648-7000-badd-cf9b31eda2f3",
@@ -75,4 +55,5 @@ export const personaPointsSource = {
       statement: "The engine can read every source a persona's document names.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
