@@ -9,11 +9,6 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement: "The `commands/` folder passes `folder-matches-a-shape`.",
-      workingMemory:
-        "A run scoped to `commands/` answers 2 refusals at 7470a0274e, of 727 tree-wide, down from 196 of 1121 at 440b43ad0a. One is the repository root, which is not under `commands/`. The other is `commands/pages`: `pages-of-the-type-above` asks each subfolder for a page of the type above it, and 47 namespace folders sit there, since `namespace` extends `domain` rather than `command`. Every remedy is a folder shape under `checks/`.",
-    },
-    {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
       workingMemory:
         "Every parent edge under `commands/` is checked: 208 nested commands each named by the namespace whose folder holds them, 12 top commands and 22 top namespaces named by the command page type, 25 nested namespaces named by the namespace above. None unnamed. Each reading was made by an instrument first shown to catch a seeded fault. Whether the 12 want namespaces is Alan's. The two track tests had failed unseen since 4e0e4b61b3 landed them, over a scratch repository with no index.",
