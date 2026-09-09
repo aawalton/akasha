@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0099Ch99MartialGrandmaster 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 99,
   ownLength: 2322,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3686585/ch99-martial-grandmaster",

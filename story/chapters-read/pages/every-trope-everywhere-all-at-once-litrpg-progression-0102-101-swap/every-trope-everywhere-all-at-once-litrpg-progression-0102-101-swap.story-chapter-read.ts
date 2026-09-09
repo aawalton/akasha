@@ -7,7 +7,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0102101Swap = {
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 102,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3922930",
   source: "royal-road",
   title: "101 - Swap",

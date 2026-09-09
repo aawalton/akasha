@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009089TheUltimateFlex
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 90,
   ownLength: 1519,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3815547/89-the-ultimate-flex-off",

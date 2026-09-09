@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0105ChapterOneHundredTwoTheChase = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 105,
   ownLength: 2049,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3629099/chapter-one-hundred-two-the-chase",

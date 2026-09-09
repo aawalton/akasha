@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0060ChapterFiftyNineTheGallery = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 60,
   ownLength: 2505,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2997431/chapter-fifty-nine-the-gallery",

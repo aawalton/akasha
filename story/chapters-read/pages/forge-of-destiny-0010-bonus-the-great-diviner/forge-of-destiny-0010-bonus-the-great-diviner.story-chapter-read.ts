@@ -8,7 +8,7 @@ export const forgeOfDestiny0010BonusTheGreatDiviner = {
   story: "forge-of-destiny",
   position: 10,
   ownLength: 1020,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/575941/bonus-the-great-diviner",

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0087ChapterEightySixSecondEvolution =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 87,
   ownLength: 2768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3446593/chapter-eighty-six-second-evolution",

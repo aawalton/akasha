@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0083Ch83Progress = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 83,
   ownLength: 2380,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3586648/ch83-progress",

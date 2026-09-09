@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0085Ch85PerfectGrade = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 85,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3596423/ch85-perfect-grade",

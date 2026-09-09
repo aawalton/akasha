@@ -8,7 +8,7 @@ export const forgeOfDestiny0039InterludeTheCobblerAndTheViper = {
   story: "forge-of-destiny",
   position: 39,
   ownLength: 1716,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607367/interlude-the-cobbler-and-the-viper",

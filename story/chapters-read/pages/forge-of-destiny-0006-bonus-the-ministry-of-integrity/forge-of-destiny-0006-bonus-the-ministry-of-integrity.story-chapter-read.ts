@@ -8,7 +8,7 @@ export const forgeOfDestiny0006BonusTheMinistryOfIntegrity = {
   story: "forge-of-destiny",
   position: 6,
   ownLength: 1520,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/562588/bonus-the-ministry-of-integrity",

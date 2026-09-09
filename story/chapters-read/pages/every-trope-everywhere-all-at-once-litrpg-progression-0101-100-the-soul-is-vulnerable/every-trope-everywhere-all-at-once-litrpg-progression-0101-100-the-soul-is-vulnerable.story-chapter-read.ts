@@ -7,7 +7,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0101100TheSoulIsVulne
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 101,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3914178",
   source: "royal-road",
   title: "100 - The Soul is Vulnerable",

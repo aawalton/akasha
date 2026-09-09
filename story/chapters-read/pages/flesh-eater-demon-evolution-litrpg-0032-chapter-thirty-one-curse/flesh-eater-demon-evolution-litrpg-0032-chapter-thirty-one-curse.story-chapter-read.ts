@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0032ChapterThirtyOneCurse = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 32,
   ownLength: 3016,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2692202/chapter-thirty-one-curse",

@@ -7,7 +7,7 @@ export const fiveElementOverlordICanUpgradeEverything0137Ch137EnchantedTalismans
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 137,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3932073",
   source: "royal-road",
   title: "Ch137 Enchanted Talismans",

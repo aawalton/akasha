@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0041ChapterFortyQualificationExam = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 41,
   ownLength: 3395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2741742/chapter-forty-qualification-exam",

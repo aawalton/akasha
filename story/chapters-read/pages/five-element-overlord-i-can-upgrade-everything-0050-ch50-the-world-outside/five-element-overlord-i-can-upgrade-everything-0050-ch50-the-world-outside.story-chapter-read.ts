@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0050Ch50TheWorldOutside = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 50,
   ownLength: 1170,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3372715/ch50-the-world-outside",

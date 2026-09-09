@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0036ChapterThirtyFiveTidings = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 36,
   ownLength: 2474,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2716032/chapter-thirty-five-tidings",

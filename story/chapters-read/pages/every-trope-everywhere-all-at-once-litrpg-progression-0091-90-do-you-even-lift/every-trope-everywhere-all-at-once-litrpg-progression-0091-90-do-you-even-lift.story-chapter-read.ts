@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009190DoYouEvenLift =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 91,
   ownLength: 1836,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3831448/90-do-you-even-lift",

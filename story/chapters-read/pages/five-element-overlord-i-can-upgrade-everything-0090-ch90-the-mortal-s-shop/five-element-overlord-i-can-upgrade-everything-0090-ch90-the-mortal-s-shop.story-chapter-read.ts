@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0090Ch90TheMortalSShop = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 90,
   ownLength: 1632,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3629134/ch90-the-mortals-shop",

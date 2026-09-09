@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0094ChapterNinetyOneSerindell = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 94,
   ownLength: 2932,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3511468/chapter-ninety-one-serindell",

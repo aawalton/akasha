@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0035Ch35BeingWatched = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 35,
   ownLength: 1768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3287344/ch35-being-watched",

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0010Ch10MinorLottery = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 10,
   ownLength: 1360,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211644/ch10-minor-lottery",

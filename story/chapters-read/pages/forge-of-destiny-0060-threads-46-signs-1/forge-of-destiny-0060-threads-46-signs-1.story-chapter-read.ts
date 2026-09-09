@@ -8,7 +8,7 @@ export const forgeOfDestiny0060Threads46Signs1 = {
   story: "forge-of-destiny",
   position: 60,
   ownLength: 3423,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/627084/threads-46-signs-1",

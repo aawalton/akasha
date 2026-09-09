@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0085ChapterEightyFourPromise = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 85,
   ownLength: 2618,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3425870/chapter-eighty-four-promise",

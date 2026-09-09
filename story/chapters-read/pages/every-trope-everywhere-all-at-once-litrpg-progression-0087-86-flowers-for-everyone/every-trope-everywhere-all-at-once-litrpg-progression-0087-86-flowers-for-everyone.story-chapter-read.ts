@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008786FlowersForEvery
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 87,
   ownLength: 1872,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3800644/86-flowers-for-everyone",

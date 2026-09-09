@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0069Ch69LanXin = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 69,
   ownLength: 1546,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3493994/ch69-lan-xin",

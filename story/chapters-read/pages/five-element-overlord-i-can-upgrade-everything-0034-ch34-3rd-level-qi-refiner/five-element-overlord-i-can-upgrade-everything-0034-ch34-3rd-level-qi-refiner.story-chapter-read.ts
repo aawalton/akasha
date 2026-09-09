@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0034Ch343rdLevelQiRefiner =
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 34,
   ownLength: 1710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-16",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3283086/ch34-3rd-level-qi-refiner",

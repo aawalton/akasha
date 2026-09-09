@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0042ChapterFortyOneQuestioning = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 42,
   ownLength: 3096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-11",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2750799/chapter-forty-one-questioning",

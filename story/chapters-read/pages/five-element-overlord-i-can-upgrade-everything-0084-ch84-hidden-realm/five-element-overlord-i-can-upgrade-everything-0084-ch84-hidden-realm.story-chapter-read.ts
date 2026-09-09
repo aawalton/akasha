@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0084Ch84HiddenRealm = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 84,
   ownLength: 1984,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3591271/ch84-hidden-realm",

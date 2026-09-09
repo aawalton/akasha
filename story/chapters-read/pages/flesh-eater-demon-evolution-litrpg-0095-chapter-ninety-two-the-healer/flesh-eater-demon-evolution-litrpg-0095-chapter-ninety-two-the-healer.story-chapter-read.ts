@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0095ChapterNinetyTwoTheHealer = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 95,
   ownLength: 2441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3519764/chapter-ninety-two-the-healer",

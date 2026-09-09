@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0120Ch120CultivationFamilie
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 120,
   ownLength: 1879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3815351/ch120-cultivation-families",

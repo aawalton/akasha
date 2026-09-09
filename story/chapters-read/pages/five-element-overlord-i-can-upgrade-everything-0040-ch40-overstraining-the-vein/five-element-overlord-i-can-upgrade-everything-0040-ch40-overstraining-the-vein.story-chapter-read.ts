@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0040Ch40OverstrainingTheVei
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 40,
   ownLength: 1318,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3315212/ch40-overstraining-the-vein",

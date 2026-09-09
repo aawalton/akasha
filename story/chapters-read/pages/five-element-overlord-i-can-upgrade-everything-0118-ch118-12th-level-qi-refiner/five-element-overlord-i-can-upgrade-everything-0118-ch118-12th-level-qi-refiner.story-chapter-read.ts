@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0118Ch11812thLevelQiRefiner
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 118,
   ownLength: 1569,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3806251/ch118-12th-level-qi-refiner",

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0051ChapterFiftyTheDemonAndTheNoble =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 51,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2860744/chapter-fifty-the-demon-and-the-noble",

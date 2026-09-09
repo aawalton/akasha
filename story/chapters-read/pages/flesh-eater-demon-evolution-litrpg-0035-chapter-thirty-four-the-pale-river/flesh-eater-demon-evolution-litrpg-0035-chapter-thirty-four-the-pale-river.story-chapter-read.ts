@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0035ChapterThirtyFourThePaleRiver = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 35,
   ownLength: 3108,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2709937/chapter-thirty-four-the-pale-river",

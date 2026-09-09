@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0059Ch59GreenRockLake = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 59,
   ownLength: 2113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3429401/ch59-green-rock-lake",

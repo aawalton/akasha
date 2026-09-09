@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0014ChapterFourteenTheCrossroadsDemon
   story: "flesh-eater-demon-evolution-litrpg",
   position: 14,
   ownLength: 2867,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2572241/chapter-fourteen-the-crossroads-demon",

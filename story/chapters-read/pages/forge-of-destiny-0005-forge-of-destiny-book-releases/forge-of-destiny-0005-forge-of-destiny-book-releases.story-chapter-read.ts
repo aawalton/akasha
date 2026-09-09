@@ -8,7 +8,7 @@ export const forgeOfDestiny0005ForgeOfDestinyBookReleases = {
   story: "forge-of-destiny",
   position: 5,
   ownLength: 107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/304210/forge-of-destiny-book-releases",

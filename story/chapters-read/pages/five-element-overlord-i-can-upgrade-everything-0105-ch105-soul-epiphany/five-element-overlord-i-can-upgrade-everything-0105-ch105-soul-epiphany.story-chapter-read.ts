@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0105Ch105SoulEpiphany = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 105,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3721948/ch105-soul-epiphany",

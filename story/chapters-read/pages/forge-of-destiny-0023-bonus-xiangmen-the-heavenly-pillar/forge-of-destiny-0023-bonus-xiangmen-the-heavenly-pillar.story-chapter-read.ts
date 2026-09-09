@@ -8,7 +8,7 @@ export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   story: "forge-of-destiny",
   position: 23,
   ownLength: 963,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/590775/bonus-xiangmen-the-heavenly-pillar",

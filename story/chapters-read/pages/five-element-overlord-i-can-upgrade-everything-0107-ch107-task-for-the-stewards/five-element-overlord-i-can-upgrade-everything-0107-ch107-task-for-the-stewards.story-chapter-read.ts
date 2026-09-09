@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0107Ch107TaskForTheStewards
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 107,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3739295/ch107-task-for-the-stewards",

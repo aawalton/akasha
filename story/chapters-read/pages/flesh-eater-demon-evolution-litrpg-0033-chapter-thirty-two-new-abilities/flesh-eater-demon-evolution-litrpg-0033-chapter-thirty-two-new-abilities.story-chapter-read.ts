@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0033ChapterThirtyTwoNewAbilities = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 33,
   ownLength: 2678,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2697277/chapter-thirty-two-new-abilities",

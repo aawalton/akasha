@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009897Galmeth = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 98,
   ownLength: 1786,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3888520/97-galmeth",

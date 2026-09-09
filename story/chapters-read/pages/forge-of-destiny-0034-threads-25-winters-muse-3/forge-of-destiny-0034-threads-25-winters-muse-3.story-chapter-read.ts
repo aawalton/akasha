@@ -8,7 +8,7 @@ export const forgeOfDestiny0034Threads25WintersMuse3 = {
   story: "forge-of-destiny",
   position: 34,
   ownLength: 2304,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/602390/threads-25-winters-muse-3",

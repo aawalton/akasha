@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0092ChapterEightyNineQuake = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 92,
   ownLength: 2030,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3490416/chapter-eighty-nine-quake",

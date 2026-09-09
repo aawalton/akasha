@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0005ChapterFiveBeyondThePit = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 5,
   ownLength: 2830,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525500/chapter-five-beyond-the-pit",

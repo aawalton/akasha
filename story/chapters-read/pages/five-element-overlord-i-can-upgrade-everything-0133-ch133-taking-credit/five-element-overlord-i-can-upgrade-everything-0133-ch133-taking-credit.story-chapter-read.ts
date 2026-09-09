@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0133Ch133TakingCredit = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 133,
   ownLength: 2983,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3902456/ch133-taking-credit",

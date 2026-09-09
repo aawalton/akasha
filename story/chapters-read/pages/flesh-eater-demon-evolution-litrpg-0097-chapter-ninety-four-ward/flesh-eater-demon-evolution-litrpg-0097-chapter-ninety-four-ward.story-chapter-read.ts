@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0097ChapterNinetyFourWard = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 97,
   ownLength: 3069,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3542579/chapter-ninety-four-ward",

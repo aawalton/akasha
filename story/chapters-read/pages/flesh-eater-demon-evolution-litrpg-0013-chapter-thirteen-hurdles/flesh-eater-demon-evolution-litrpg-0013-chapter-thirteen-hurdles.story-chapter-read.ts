@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0013ChapterThirteenHurdles = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 13,
   ownLength: 2826,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2563646/chapter-thirteen-hurdles",

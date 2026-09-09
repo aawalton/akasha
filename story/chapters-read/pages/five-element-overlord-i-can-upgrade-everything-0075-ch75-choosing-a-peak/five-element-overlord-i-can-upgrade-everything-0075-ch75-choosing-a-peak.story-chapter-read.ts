@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0075Ch75ChoosingAPeak = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 75,
   ownLength: 1843,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3531687/ch75-choosing-a-peak",

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009796LetsSplitUp = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 97,
   ownLength: 1528,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3883851/96-lets-split-up",

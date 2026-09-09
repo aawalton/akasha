@@ -8,7 +8,7 @@ export const forgeOfDestiny0040BonusMacabre = {
   story: "forge-of-destiny",
   position: 40,
   ownLength: 1161,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607369/bonus-macabre",

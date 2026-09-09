@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0015ChapterFifteenSoul = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 15,
   ownLength: 3025,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2577823/chapter-fifteen-soul",

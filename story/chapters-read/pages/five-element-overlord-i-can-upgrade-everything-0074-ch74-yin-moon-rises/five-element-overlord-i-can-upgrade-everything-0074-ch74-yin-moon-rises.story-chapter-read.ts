@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0074Ch74YinMoonRises = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 74,
   ownLength: 2321,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3526305/ch74-yin-moon-rises",

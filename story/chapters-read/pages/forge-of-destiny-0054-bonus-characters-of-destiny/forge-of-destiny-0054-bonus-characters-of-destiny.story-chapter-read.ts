@@ -8,7 +8,7 @@ export const forgeOfDestiny0054BonusCharactersOfDestiny = {
   story: "forge-of-destiny",
   position: 54,
   ownLength: 1363,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-27",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/621226/bonus-characters-of-destiny",

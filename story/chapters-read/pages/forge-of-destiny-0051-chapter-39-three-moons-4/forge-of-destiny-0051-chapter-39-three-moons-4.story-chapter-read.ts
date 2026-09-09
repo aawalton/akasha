@@ -8,7 +8,7 @@ export const forgeOfDestiny0051Chapter39ThreeMoons4 = {
   story: "forge-of-destiny",
   position: 51,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/618416/chapter-39-three-moons-4",

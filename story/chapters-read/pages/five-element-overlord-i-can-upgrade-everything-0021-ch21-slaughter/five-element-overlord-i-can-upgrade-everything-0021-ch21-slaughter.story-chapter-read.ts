@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0021Ch21Slaughter = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 21,
   ownLength: 1245,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211971/ch21-slaughter",

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0039Ch39TheTruth = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 39,
   ownLength: 1401,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3310996/ch39-the-truth",

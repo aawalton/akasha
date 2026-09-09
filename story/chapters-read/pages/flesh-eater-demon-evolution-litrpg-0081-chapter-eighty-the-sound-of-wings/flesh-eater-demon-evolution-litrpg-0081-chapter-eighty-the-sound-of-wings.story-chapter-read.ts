@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0081ChapterEightyTheSoundOfWings = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 81,
   ownLength: 2279,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3373387/chapter-eighty-the-sound-of-wings",

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0030ChapterTwentyNineStorm = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 30,
   ownLength: 2845,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-11",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2667419/chapter-twenty-nine-storm",

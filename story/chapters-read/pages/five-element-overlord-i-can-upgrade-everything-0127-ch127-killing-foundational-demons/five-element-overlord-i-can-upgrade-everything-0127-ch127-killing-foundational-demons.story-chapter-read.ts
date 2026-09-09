@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0127Ch127KillingFoundationa
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 127,
   ownLength: 1750,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3865088/ch127-killing-foundational-demons",

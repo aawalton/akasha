@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0078ChapterSeventySevenHeed = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 78,
   ownLength: 2491,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3343671/chapter-seventy-seven-heed",

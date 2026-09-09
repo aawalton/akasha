@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0098ChapterNinetyFiveTheCity = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 98,
   ownLength: 2531,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3553968/chapter-ninety-five-the-city",

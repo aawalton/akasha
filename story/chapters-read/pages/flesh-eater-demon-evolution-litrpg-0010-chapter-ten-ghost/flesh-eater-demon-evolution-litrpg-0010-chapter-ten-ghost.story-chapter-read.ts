@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0010ChapterTenGhost = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 10,
   ownLength: 2707,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2544718/chapter-ten-ghost",

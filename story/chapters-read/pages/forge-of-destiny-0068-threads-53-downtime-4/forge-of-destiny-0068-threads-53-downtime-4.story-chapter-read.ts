@@ -8,7 +8,7 @@ export const forgeOfDestiny0068Threads53Downtime4 = {
   story: "forge-of-destiny",
   position: 68,
   ownLength: 1444,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-22",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/636047/threads-53-downtime-4",

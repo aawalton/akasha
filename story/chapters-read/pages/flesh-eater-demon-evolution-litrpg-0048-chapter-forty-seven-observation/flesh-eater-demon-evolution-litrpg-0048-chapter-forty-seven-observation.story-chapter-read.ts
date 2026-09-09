@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0048ChapterFortySevenObservation = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 48,
   ownLength: 2686,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-02",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2810953/chapter-forty-seven-observation",

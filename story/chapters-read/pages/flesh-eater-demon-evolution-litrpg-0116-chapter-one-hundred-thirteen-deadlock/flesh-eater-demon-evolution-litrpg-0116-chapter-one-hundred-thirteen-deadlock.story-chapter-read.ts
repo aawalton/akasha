@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0116ChapterOneHundredThirteenDeadlock
   story: "flesh-eater-demon-evolution-litrpg",
   position: 116,
   ownLength: 2395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3765470/chapter-one-hundred-thirteen-deadlock",

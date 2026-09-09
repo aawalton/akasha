@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0069ChapterSixtyEightReturnToTheManor
   story: "flesh-eater-demon-evolution-litrpg",
   position: 69,
   ownLength: 2635,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-26",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3093567/chapter-sixty-eight-return-to-the-manor",

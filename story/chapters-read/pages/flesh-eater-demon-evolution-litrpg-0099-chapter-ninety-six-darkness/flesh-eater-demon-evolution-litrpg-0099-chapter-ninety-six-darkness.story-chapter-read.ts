@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0099ChapterNinetySixDarkness = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 99,
   ownLength: 2312,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3564190/chapter-ninety-six-darkness",

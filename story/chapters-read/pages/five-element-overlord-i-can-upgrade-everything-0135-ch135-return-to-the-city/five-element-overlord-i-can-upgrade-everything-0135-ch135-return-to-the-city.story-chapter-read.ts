@@ -7,7 +7,7 @@ export const fiveElementOverlordICanUpgradeEverything0135Ch135ReturnToTheCity = 
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 135,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3913452",
   source: "royal-road",
   title: "Ch135 Return To The City",

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0054Ch54MartialWarrior = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 54,
   ownLength: 1615,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3397024/ch54-martial-warrior",

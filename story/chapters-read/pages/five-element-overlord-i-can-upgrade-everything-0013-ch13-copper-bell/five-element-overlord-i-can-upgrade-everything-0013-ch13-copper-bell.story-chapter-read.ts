@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0013Ch13CopperBell = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 13,
   ownLength: 2045,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211868/ch13-copper-bell",

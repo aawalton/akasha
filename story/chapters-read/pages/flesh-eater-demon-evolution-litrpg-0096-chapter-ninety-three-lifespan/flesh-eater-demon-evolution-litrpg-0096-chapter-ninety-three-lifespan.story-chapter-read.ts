@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0096ChapterNinetyThreeLifespan = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 96,
   ownLength: 2471,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3532576/chapter-ninety-three-lifespan",

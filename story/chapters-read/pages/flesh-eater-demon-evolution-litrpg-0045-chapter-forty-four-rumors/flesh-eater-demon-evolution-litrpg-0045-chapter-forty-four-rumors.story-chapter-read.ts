@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0045ChapterFortyFourRumors = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 45,
   ownLength: 3027,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2770962/chapter-forty-four-rumors",

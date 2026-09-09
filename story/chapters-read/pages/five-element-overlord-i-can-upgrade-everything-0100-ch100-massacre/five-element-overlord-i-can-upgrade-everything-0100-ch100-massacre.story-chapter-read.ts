@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0100Ch100Massacre = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 100,
   ownLength: 2061,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3691474/ch100-massacre",

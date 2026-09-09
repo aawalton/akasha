@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0076Ch76BeastMasteryPeak = 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 76,
   ownLength: 1910,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3544981/ch76-beast-mastery-peak",

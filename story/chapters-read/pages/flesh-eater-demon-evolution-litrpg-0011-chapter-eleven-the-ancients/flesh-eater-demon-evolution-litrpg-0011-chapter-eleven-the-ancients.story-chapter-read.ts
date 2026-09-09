@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0011ChapterElevenTheAncients = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 11,
   ownLength: 2497,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2553812/chapter-eleven-the-ancients",

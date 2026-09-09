@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0023InterludeCallan = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 23,
   ownLength: 3803,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2626791/interlude-callan",

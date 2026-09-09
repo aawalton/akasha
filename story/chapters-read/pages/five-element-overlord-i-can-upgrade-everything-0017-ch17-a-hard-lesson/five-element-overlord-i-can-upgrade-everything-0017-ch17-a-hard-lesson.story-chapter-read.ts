@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0017Ch17AHardLesson = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 17,
   ownLength: 1262,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211916/ch17-a-hard-lesson",

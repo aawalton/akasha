@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0002ChapterTwoThePit = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 2,
   ownLength: 2891,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525480/chapter-two-the-pit",

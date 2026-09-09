@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0003ChapterThreeMagic = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 3,
   ownLength: 2848,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525485/chapter-three-magic",

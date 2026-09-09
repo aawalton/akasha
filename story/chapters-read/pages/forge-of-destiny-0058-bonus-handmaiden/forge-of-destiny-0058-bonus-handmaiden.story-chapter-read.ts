@@ -8,7 +8,7 @@ export const forgeOfDestiny0058BonusHandmaiden = {
   story: "forge-of-destiny",
   position: 58,
   ownLength: 1106,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-03",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625171/bonus-handmaiden",

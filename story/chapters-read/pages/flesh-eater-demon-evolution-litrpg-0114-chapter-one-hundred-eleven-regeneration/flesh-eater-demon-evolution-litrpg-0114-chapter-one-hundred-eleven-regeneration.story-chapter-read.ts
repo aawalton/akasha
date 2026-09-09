@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0114ChapterOneHundredElevenRegenerati
   story: "flesh-eater-demon-evolution-litrpg",
   position: 114,
   ownLength: 2402,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3744891/chapter-one-hundred-eleven-regeneration",

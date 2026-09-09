@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0042Ch42StringOfFate = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 42,
   ownLength: 1692,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3330780/ch42-string-of-fate",

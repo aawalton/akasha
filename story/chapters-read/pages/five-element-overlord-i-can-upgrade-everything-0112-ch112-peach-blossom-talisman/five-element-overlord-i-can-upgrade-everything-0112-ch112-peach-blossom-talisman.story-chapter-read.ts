@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0112Ch112PeachBlossomTalism
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 112,
   ownLength: 1355,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3770590/ch112-peach-blossom-talisman",

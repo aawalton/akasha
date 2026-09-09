@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0097Ch97ThePit = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 97,
   ownLength: 1646,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3677787/ch97-the-pit",

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0065Ch65BlackIronMountain =
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 65,
   ownLength: 1757,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3467272/ch65-black-iron-mountain",

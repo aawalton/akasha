@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0006Ch6ServantLife = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 6,
   ownLength: 1395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211618/ch6-servant-life",

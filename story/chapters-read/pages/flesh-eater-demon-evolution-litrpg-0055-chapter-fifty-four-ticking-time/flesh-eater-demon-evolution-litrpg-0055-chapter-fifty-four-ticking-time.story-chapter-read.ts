@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0055ChapterFiftyFourTickingTime = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 55,
   ownLength: 2476,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2921684/chapter-fifty-four-ticking-time",

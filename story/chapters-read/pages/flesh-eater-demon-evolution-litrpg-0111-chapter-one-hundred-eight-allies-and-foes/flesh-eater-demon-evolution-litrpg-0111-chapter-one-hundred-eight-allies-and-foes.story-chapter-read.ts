@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0111ChapterOneHundredEightAlliesAndFo
   story: "flesh-eater-demon-evolution-litrpg",
   position: 111,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3713316/chapter-one-hundred-eight-allies-and-foes",

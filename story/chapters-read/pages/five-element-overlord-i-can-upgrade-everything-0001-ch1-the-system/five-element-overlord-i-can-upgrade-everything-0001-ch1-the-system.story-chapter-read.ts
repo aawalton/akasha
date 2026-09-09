@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0001Ch1TheSystem = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 1,
   ownLength: 1751,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211488/ch1-the-system",

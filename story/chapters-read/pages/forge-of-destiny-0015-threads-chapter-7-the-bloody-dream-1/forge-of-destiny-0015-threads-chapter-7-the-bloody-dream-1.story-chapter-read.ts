@@ -8,7 +8,7 @@ export const forgeOfDestiny0015ThreadsChapter7TheBloodyDream1 = {
   story: "forge-of-destiny",
   position: 15,
   ownLength: 2298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/581016/threads-chapter-7-the-bloody-dream-1",

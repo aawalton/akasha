@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0110Ch110Decisions = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 110,
   ownLength: 2971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3753091/ch110-decisions",

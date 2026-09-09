@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0025ChapterTwentyFourTheLightningPass
   story: "flesh-eater-demon-evolution-litrpg",
   position: 25,
   ownLength: 2576,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2636303/chapter-twenty-four-the-lightning-pass",

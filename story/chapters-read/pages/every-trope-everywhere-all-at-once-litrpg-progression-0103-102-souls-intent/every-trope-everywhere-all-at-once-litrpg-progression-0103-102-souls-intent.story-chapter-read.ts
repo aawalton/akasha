@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0103102SoulsIntent = 
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0103-102-souls-intent",
   position: 103,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3932668",
   source: "royal-road",
   title: "102 - Soul's Intent",

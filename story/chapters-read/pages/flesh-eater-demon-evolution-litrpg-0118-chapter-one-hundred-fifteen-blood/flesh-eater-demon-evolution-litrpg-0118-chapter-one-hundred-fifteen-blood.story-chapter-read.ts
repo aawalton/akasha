@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0118ChapterOneHundredFifteenBlood = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 118,
   ownLength: 2363,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3785351/chapter-one-hundred-fifteen-blood",

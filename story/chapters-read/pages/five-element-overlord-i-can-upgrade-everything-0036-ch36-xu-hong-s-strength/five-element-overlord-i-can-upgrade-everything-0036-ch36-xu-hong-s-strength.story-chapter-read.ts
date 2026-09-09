@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0036Ch36XuHongSStrength = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 36,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3298559/ch36-xu-hongs-strength",

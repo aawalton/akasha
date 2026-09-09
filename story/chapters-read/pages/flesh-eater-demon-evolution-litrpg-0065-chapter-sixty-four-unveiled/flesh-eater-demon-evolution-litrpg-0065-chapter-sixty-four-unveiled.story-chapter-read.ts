@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0065ChapterSixtyFourUnveiled = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 65,
   ownLength: 2662,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3052879/chapter-sixty-four-unveiled",

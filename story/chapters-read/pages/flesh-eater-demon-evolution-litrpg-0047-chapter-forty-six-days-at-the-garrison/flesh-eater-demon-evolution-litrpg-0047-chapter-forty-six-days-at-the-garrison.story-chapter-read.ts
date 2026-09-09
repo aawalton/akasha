@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0047ChapterFortySixDaysAtTheGarrison 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 47,
   ownLength: 2876,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2802668/chapter-forty-six-days-at-the-garrison",

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009493MonsterSlayer =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 94,
   ownLength: 1534,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3852533/93-monster-slayer",

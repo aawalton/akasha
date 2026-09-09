@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0045Ch45ReturnToTheMarket =
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 45,
   ownLength: 1599,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3343330/ch45-return-to-the-market",

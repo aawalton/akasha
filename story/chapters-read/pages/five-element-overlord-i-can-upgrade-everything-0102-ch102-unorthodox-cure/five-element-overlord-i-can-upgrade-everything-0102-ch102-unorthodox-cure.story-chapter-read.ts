@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0102Ch102UnorthodoxCure = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 102,
   ownLength: 2108,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3708380/ch102-unorthodox-cure",

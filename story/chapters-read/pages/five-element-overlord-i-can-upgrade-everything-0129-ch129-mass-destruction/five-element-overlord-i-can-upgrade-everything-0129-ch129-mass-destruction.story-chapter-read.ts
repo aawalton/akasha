@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0129Ch129MassDestruction = 
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 129,
   ownLength: 2631,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3874266/ch129-mass-destruction",

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0074ChapterSeventyThreeTheThirdCircle
   story: "flesh-eater-demon-evolution-litrpg",
   position: 74,
   ownLength: 2460,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3168433/chapter-seventy-three-the-third-circle",

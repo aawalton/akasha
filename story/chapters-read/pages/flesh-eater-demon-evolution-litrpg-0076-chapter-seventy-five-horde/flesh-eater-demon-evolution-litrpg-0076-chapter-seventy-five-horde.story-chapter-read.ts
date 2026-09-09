@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0076ChapterSeventyFiveHorde = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 76,
   ownLength: 2137,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3198516/chapter-seventy-five-horde",

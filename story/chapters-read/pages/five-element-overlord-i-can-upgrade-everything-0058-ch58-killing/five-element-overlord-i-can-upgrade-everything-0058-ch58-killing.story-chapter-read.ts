@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0058Ch58Killing = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 58,
   ownLength: 1670,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3424751/ch58-killing",

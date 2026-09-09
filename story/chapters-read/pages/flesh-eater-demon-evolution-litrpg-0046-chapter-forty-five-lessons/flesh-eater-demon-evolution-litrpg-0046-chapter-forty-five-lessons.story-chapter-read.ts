@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0046ChapterFortyFiveLessons = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 46,
   ownLength: 3519,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-24",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2790204/chapter-forty-five-lessons",

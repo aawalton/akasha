@@ -8,7 +8,7 @@ export const forgeOfDestiny0019Threads11SectChallenges1 = {
   story: "forge-of-destiny",
   position: 19,
   ownLength: 2644,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/586009/threads-11--sect-challenges-1",

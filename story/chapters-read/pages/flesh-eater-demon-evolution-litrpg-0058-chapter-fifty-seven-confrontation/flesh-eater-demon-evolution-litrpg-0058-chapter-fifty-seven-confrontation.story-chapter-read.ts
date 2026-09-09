@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0058ChapterFiftySevenConfrontation = 
   story: "flesh-eater-demon-evolution-litrpg",
   position: 58,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-22",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2967146/chapter-fifty-seven-confrontation",

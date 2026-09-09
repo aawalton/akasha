@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0061ChapterSixtyFamily = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 61,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-02",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3006834/chapter-sixty-family",

@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0088Ch88LingshiCity = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 88,
   ownLength: 1584,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3619262/ch88-lingshi-city",

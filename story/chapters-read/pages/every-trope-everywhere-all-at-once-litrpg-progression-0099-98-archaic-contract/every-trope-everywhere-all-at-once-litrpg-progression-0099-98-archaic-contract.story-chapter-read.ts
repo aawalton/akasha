@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009998ArchaicContract
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 99,
   ownLength: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3898112/98-archaic-contract",

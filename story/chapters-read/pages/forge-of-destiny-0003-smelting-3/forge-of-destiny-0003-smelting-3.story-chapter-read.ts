@@ -8,7 +8,7 @@ export const forgeOfDestiny0003Smelting3 = {
   story: "forge-of-destiny",
   position: 3,
   ownLength: 3226,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/302256/smelting-3",

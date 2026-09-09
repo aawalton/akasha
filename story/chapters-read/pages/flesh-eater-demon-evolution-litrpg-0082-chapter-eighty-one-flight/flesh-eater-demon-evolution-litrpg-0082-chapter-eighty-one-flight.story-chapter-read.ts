@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0082ChapterEightyOneFlight = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 82,
   ownLength: 3120,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3385453/chapter-eighty-one-flight",

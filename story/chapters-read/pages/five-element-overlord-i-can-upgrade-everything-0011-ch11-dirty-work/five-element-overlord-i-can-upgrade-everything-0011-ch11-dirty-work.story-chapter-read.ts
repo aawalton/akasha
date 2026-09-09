@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0011Ch11DirtyWork = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 11,
   ownLength: 1127,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3211852/ch11-dirty-work",

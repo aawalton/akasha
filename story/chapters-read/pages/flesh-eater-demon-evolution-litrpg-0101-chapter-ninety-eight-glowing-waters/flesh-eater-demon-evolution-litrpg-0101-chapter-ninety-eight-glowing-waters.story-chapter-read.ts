@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0101ChapterNinetyEightGlowingWaters =
   story: "flesh-eater-demon-evolution-litrpg",
   position: 101,
   ownLength: 2394,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3586419/chapter-ninety-eight-glowing-waters",

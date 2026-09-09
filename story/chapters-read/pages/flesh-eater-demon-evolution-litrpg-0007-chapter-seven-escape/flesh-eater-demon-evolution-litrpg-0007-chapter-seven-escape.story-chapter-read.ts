@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0007ChapterSevenEscape = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 7,
   ownLength: 2705,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2525622/chapter-seven-escape",

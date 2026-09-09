@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0056ChapterFiftyFivePoison = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 56,
   ownLength: 3141,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/2929149/chapter-fifty-five-poison",

@@ -8,7 +8,7 @@ export const fleshEaterDemonEvolutionLitrpg0064ChapterSixtyThreeTruths = {
   story: "flesh-eater-demon-evolution-litrpg",
   position: 64,
   ownLength: 2131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-12",
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3038941/chapter-sixty-three-truths",

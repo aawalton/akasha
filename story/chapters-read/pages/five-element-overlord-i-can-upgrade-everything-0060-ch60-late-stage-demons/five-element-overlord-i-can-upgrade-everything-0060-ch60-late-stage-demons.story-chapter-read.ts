@@ -8,7 +8,7 @@ export const fiveElementOverlordICanUpgradeEverything0060Ch60LateStageDemons = {
   story: "five-element-overlord-i-can-upgrade-everything",
   position: 60,
   ownLength: 1780,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything/chapter/3434049/ch60-late-stage-demons",
