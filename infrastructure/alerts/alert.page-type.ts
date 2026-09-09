@@ -4,7 +4,7 @@ import type { Definition } from "../../domains/properties/definition.standard-ag
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
-import type { AlertPersonaSlug } from "./properties/alert-persona-slug.relation-property.ts"
+import type { AlertPersona } from "./properties/alert-persona.relation-property.ts"
 import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
 import type { AlertRunbook } from "./properties/alert-runbook.file-property.ts"
 import type { AlertSummary } from "./properties/alert-summary.text-property.ts"
@@ -16,7 +16,7 @@ export type Alert = Page & {
   summary?: AlertSummary
   personSlug?: PersonSlug
   runbook?: AlertRunbook
-  personaSlug?: AlertPersonaSlug
+  persona?: AlertPersona
   roleSlug?: AlertRoleSlug
 }
 
@@ -29,7 +29,7 @@ export const alert = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "file-property/alert-runbook",
-    "relation-property/alert-persona-slug",
+    "relation-property/alert-persona",
     "text-property/alert-domain",
     "text-property/alert-role-slug",
     "text-property/alert-summary",
@@ -41,7 +41,7 @@ export const alert = {
     { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
     { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
     { pagePropertySlug: "file-property/alert-runbook", required: false, many: false },
-    { pagePropertySlug: "relation-property/alert-persona-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/alert-persona", required: false, many: false },
     { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },
   ],
   invariants: [
