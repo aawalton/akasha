@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0434Chapter436aIFoundYouExplic
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0434-chapter-436a-i-found-you-explicit-content",
   title: "Chapter 436A - I Found You (EXPLICIT CONTENT)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 434,
   ownLength: 3955,
   unitSlug: "words",

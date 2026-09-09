@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0690Chapter689PrepForTheGarden
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0690-chapter-689-prep-for-the-garden-party",
   title: "Chapter 689 - Prep For The Garden Party",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 690,
   ownLength: 2852,
   unitSlug: "words",

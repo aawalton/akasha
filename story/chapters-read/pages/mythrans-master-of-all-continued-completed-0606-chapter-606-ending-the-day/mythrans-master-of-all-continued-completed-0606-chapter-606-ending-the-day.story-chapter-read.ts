@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0606Chapter606EndingTheDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0606-chapter-606-ending-the-day",
   title: "Chapter 606 - Ending The Day",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 606,
   ownLength: 2801,
   unitSlug: "words",

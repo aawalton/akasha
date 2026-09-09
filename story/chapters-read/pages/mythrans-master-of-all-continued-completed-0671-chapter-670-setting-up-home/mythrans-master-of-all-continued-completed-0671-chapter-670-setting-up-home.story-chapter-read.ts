@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0671Chapter670SettingUpHome = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0671-chapter-670-setting-up-home",
   title: "Chapter 670 - Setting Up Home",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 671,
   ownLength: 2705,
   unitSlug: "words",

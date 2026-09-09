@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0635Chapter634Bedtime = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0635-chapter-634-bedtime",
   title: "Chapter 634 - Bedtime",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 635,
   ownLength: 2830,
   unitSlug: "words",

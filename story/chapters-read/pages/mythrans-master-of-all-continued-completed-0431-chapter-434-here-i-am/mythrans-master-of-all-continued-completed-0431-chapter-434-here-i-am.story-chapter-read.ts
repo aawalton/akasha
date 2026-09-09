@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0431Chapter434HereIAm = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0431-chapter-434-here-i-am",
   title: "Chapter 434 - Here I Am",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 431,
   ownLength: 3977,
   unitSlug: "words",

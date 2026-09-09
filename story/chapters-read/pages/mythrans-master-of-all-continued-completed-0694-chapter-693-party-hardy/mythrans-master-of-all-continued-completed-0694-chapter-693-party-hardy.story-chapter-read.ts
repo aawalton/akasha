@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0694Chapter693PartyHardy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0694-chapter-693-party-hardy",
   title: "Chapter 693 - Party Hardy",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 694,
   ownLength: 3124,
   unitSlug: "words",

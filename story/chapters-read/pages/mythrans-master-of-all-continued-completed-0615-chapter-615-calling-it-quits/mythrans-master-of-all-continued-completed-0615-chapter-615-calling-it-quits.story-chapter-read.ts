@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0615Chapter615CallingItQuits =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0615-chapter-615-calling-it-quits",
   title: "Chapter 615 - Calling It Quits",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 615,
   ownLength: 2849,
   unitSlug: "words",

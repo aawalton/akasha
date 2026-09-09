@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0559Chapter559MakingChoices = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0559-chapter-559-making-choices",
   title: "Chapter 559 - Making Choices",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 559,
   ownLength: 2442,
   unitSlug: "words",

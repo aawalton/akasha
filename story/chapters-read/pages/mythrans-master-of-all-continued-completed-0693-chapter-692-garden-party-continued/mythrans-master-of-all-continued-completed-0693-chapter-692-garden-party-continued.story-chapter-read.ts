@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0693Chapter692GardenPartyConti
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0693-chapter-692-garden-party-continued",
   title: "Chapter 692 - Garden Party Continued",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 693,
   ownLength: 3547,
   unitSlug: "words",

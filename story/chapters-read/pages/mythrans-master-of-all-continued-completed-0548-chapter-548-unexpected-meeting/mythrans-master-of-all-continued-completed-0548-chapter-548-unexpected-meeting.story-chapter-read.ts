@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0548Chapter548UnexpectedMeetin
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0548-chapter-548-unexpected-meeting",
   title: "Chapter 548 - Unexpected Meeting",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 548,
   ownLength: 2893,
   unitSlug: "words",

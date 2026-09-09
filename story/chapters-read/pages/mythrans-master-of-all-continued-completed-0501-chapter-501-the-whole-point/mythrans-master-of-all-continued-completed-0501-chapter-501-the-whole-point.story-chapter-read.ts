@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0501Chapter501TheWholePoint = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0501-chapter-501-the-whole-point",
   title: "Chapter 501 - The Whole Point",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 501,
   ownLength: 3204,
   unitSlug: "words",

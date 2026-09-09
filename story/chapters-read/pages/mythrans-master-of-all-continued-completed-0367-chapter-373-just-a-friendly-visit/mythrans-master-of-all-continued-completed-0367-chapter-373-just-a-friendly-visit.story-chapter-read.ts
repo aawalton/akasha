@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0367Chapter373JustAFriendlyVis
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0367-chapter-373-just-a-friendly-visit",
   title: "Chapter 373 - Just A Friendly Visit",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 367,
   ownLength: 3677,
   unitSlug: "words",

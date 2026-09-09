@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0372Chapter378DeepLearning = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0372-chapter-378-deep-learning",
   title: "Chapter 378 - Deep Learning",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 372,
   ownLength: 3164,
   unitSlug: "words",

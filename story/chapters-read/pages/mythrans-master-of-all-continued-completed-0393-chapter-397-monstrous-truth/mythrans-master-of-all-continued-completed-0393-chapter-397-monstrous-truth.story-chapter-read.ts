@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0393Chapter397MonstrousTruth =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0393-chapter-397-monstrous-truth",
   title: "Chapter 397 - Monstrous Truth",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 393,
   ownLength: 3429,
   unitSlug: "words",

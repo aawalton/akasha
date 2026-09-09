@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0420Chapter423BuildMeABridge =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0420-chapter-423-build-me-a-bridge",
   title: "Chapter 423 - Build Me A Bridge",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 420,
   ownLength: 3671,
   unitSlug: "words",

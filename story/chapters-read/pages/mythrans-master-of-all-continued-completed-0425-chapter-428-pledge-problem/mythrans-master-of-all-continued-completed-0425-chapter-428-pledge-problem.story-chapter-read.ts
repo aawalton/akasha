@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0425Chapter428PledgeProblem = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0425-chapter-428-pledge-problem",
   title: "Chapter 428 - Pledge Problem",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 425,
   ownLength: 3268,
   unitSlug: "words",

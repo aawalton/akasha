@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0646Chapter645DinnerPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0646-chapter-645-dinner-plans",
   title: "Chapter 645 - Dinner Plans",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 646,
   ownLength: 2670,
   unitSlug: "words",

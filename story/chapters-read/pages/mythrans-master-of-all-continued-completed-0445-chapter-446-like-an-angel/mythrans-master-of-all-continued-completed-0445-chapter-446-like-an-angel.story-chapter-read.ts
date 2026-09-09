@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0445Chapter446LikeAnAngel = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0445-chapter-446-like-an-angel",
   title: "Chapter 446 - Like An Angel",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 445,
   ownLength: 3202,
   unitSlug: "words",

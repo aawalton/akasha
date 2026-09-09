@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0579Chapter579SecondRound = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0579-chapter-579-second-round",
   title: "Chapter 579 - Second Round",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 579,
   ownLength: 2686,
   unitSlug: "words",

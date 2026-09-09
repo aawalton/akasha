@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0562Chapter562TheMorningAfter 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0562-chapter-562-the-morning-after",
   title: "Chapter 562 - The Morning After",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 562,
   ownLength: 2520,
   unitSlug: "words",

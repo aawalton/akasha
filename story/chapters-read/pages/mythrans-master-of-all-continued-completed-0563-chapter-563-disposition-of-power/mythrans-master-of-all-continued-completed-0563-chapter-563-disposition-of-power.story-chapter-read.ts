@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0563Chapter563DispositionOfPow
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0563-chapter-563-disposition-of-power",
   title: "Chapter 563 - Disposition Of Power",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 563,
   ownLength: 3126,
   unitSlug: "words",

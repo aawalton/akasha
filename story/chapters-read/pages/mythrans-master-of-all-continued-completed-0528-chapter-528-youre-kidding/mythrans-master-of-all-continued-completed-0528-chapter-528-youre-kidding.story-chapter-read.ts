@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0528Chapter528YoureKidding = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0528-chapter-528-youre-kidding",
   title: "Chapter 528 - You're Kidding!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 528,
   ownLength: 2572,
   unitSlug: "words",

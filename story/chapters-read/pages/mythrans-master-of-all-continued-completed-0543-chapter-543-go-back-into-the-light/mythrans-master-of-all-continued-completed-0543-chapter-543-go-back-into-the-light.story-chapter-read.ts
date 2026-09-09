@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0543Chapter543GoBackIntoTheLig
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0543-chapter-543-go-back-into-the-light",
   title: "Chapter 543 - Go Back Into The Light",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 543,
   ownLength: 2778,
   unitSlug: "words",

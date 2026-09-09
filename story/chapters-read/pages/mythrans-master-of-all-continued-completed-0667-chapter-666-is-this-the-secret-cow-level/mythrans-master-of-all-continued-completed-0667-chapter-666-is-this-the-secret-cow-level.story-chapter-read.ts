@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0667Chapter666IsThisTheSecretC
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0667-chapter-666-is-this-the-secret-cow-level",
   title: "Chapter 666 - Is This The Secret Cow Level?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 667,
   ownLength: 5524,
   unitSlug: "words",

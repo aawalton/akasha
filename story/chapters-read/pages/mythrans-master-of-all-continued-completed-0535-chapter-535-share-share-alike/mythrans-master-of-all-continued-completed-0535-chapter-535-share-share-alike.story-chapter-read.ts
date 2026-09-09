@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0535Chapter535ShareShareAlike 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0535-chapter-535-share-share-alike",
   title: "Chapter 535 - Share, Share Alike",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 535,
   ownLength: 2863,
   unitSlug: "words",

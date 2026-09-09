@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0625Chapter624AArtemisRisingEx
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0625-chapter-624-a-artemis-rising-explicit-content",
   title: "Chapter 624 A - Artemis Rising (Explicit Content)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 625,
   ownLength: 2938,
   unitSlug: "words",

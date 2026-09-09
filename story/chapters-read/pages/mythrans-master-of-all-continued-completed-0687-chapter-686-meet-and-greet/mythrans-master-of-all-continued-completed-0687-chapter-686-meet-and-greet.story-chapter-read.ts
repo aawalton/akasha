@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0687Chapter686MeetAndGreet = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0687-chapter-686-meet-and-greet",
   title: "Chapter 686 - Meet And Greet",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 687,
   ownLength: 2982,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0455Chapter455NoOneToBlameButO
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0455-chapter-455-no-one-to-blame-but-ourselves",
   title: "Chapter 455 - No One To Blame But Ourselves",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 455,
   ownLength: 3165,
   unitSlug: "words",

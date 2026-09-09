@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0422Chapter425Homemaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0422-chapter-425-homemaker",
   title: "Chapter 425 - Homemaker",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 422,
   ownLength: 3345,
   unitSlug: "words",

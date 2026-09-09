@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0601Chapter601YouDealWithIt = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0601-chapter-601-you-deal-with-it",
   title: "Chapter 601 - You Deal With It",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 601,
   ownLength: 2819,
   unitSlug: "words",

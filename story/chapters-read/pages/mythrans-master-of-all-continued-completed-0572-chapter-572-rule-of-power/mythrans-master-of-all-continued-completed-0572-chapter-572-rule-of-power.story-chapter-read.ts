@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0572Chapter572RuleOfPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0572-chapter-572-rule-of-power",
   title: "Chapter 572 - Rule Of Power",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 572,
   ownLength: 2548,
   unitSlug: "words",

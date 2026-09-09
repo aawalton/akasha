@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0509Chapter509RelaxingInterlud
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0509-chapter-509-relaxing-interlude",
   title: "Chapter 509 - Relaxing Interlude",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 509,
   ownLength: 3326,
   unitSlug: "words",

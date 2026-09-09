@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0672Chapter671SurpriseSurprise
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0672-chapter-671-surprise-surprise-and-surprise",
   title: "Chapter 671 - Surprise, Surprise, And Surprise",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 672,
   ownLength: 3192,
   unitSlug: "words",

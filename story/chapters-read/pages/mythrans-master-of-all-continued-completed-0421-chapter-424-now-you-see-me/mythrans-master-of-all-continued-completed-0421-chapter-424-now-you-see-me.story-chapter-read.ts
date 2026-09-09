@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0421Chapter424NowYouSeeMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0421-chapter-424-now-you-see-me",
   title: "Chapter 424 - Now You See Me",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 421,
   ownLength: 3368,
   unitSlug: "words",

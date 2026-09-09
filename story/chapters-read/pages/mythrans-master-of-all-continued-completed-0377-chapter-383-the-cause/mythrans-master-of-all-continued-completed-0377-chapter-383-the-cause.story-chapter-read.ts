@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0377Chapter383TheCause = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0377-chapter-383-the-cause",
   title: "Chapter 383 - The Cause",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 377,
   ownLength: 3743,
   unitSlug: "words",

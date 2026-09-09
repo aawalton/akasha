@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0482Chapter482MakeMeSomething 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0482-chapter-482-make-me-something",
   title: "Chapter 482 - Make Me Something",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 482,
   ownLength: 3433,
   unitSlug: "words",

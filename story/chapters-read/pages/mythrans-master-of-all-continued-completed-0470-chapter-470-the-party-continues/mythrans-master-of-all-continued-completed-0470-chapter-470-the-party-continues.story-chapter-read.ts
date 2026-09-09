@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0470Chapter470ThePartyContinue
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0470-chapter-470-the-party-continues",
   title: "Chapter 470 - The Party Continues",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 470,
   ownLength: 3290,
   unitSlug: "words",

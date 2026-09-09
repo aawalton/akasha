@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0648Chapter647AfterDinnerParty
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0648-chapter-647-after-dinner-party",
   title: "Chapter 647 - After-Dinner Party",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 648,
   ownLength: 3048,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0378Chapter384HaveADrink = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0378-chapter-384-have-a-drink",
   title: "Chapter 384 - Have A Drink",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 378,
   ownLength: 3323,
   unitSlug: "words",

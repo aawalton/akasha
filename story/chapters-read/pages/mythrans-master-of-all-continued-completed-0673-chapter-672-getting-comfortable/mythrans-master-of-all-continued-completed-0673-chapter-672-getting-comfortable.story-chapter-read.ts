@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0673Chapter672GettingComfortab
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0673-chapter-672-getting-comfortable",
   title: "Chapter 672 - Getting Comfortable",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 673,
   ownLength: 2966,
   unitSlug: "words",

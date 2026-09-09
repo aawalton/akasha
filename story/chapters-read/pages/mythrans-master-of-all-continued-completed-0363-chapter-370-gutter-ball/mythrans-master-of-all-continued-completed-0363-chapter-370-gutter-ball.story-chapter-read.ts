@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0363Chapter370GutterBall = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0363-chapter-370-gutter-ball",
   title: "Chapter 370 - Gutter Ball",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 363,
   ownLength: 4042,
   unitSlug: "words",

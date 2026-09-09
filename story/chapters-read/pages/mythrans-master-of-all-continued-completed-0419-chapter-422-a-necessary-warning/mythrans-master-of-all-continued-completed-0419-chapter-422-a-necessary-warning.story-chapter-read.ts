@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0419Chapter422ANecessaryWarnin
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0419-chapter-422-a-necessary-warning",
   title: "Chapter 422 - A Necessary Warning",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 419,
   ownLength: 3112,
   unitSlug: "words",

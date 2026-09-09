@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0578Chapter578APrimeExample = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0578-chapter-578-a-prime-example",
   title: "Chapter 578 - A Prime Example",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 578,
   ownLength: 2676,
   unitSlug: "words",

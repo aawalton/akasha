@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0680Chapter679NothingToDoExcep
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0680-chapter-679-nothing-to-do-except-cuddle",
   title: "Chapter 679 - Nothing To Do Except Cuddle",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 680,
   ownLength: 2849,
   unitSlug: "words",

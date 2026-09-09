@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0600Chapter600WhatCanIDo = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0600-chapter-600-what-can-i-do",
   title: "Chapter 600 - What Can I Do",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 600,
   ownLength: 2694,
   unitSlug: "words",

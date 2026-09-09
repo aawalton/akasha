@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0480Chapter480GiveAndTake = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0480-chapter-480-give-and-take",
   title: "Chapter 480 - Give And Take",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 480,
   ownLength: 3356,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0626Chapter625ThePlanContinues
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0626-chapter-625-the-plan-continues",
   title: "Chapter 625 - The Plan Continues",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 626,
   ownLength: 2770,
   unitSlug: "words",

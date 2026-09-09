@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0489Chapter489TheLightShines =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0489-chapter-489-the-light-shines",
   title: "Chapter 489 - The Light Shines",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 489,
   ownLength: 3765,
   unitSlug: "words",

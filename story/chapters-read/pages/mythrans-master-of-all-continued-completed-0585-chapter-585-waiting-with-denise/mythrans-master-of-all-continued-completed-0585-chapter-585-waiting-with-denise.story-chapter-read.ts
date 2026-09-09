@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0585Chapter585WaitingWithDenis
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0585-chapter-585-waiting-with-denise",
   title: "Chapter 585 - Waiting With Denise",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 585,
   ownLength: 2682,
   unitSlug: "words",

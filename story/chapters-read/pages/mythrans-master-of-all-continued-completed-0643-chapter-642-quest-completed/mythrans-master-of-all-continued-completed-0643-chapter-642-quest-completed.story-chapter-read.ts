@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0643Chapter642QuestCompleted =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0643-chapter-642-quest-completed",
   title: "Chapter 642 - Quest Completed",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 643,
   ownLength: 2470,
   unitSlug: "words",

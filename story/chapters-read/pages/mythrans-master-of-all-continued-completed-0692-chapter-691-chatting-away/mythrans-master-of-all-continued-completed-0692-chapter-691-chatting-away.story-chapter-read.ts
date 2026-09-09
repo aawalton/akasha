@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0692Chapter691ChattingAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0692-chapter-691-chatting-away",
   title: "Chapter 691 - Chatting Away",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 692,
   ownLength: 3429,
   unitSlug: "words",

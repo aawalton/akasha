@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0571Chapter571AReverseHeist = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0571-chapter-571-a-reverse-heist",
   title: "Chapter 571 - A Reverse Heist",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 571,
   ownLength: 2850,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0392Chapter396DontMakeMeMad = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0392-chapter-396-dont-make-me-mad",
   title: "Chapter 396 - Don't Make Me Mad",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 392,
   ownLength: 3587,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0461Chapter461SavingTheHighElv
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0461-chapter-461-saving-the-high-elves",
   title: "Chapter 461 - Saving The High Elves",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 461,
   ownLength: 3442,
   unitSlug: "words",

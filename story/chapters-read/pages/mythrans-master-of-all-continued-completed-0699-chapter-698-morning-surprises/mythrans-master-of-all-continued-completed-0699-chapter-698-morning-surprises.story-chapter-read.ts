@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0699Chapter698MorningSurprises
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0699-chapter-698-morning-surprises",
   title: "Chapter 698 - Morning Surprises",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 699,
   ownLength: 2922,
   unitSlug: "words",

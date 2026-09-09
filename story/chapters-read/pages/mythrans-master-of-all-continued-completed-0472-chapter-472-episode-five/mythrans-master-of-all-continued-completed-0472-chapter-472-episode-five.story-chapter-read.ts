@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0472Chapter472EpisodeFive = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0472-chapter-472-episode-five",
   title: "Chapter 472 - Episode Five",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 472,
   ownLength: 3280,
   unitSlug: "words",

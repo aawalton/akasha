@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0554Chapter554PickingThemUpPar
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0554-chapter-554-picking-them-up-part-1",
   title: "Chapter 554 - Picking Them Up: Part 1",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 554,
   ownLength: 2465,
   unitSlug: "words",

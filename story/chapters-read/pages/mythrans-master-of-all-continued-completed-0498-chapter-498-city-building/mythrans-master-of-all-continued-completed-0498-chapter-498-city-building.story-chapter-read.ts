@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0498Chapter498CityBuilding = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0498-chapter-498-city-building",
   title: "Chapter 498 - City Building",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 498,
   ownLength: 2961,
   unitSlug: "words",

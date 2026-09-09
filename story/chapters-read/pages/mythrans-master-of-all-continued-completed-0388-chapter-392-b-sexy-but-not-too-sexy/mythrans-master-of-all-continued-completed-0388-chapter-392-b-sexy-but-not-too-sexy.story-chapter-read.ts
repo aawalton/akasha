@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0388Chapter392BSexyButNotTooSe
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0388-chapter-392-b-sexy-but-not-too-sexy",
   title: "Chapter 392-B - Sexy But Not Too Sexy",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 388,
   ownLength: 1663,
   unitSlug: "words",

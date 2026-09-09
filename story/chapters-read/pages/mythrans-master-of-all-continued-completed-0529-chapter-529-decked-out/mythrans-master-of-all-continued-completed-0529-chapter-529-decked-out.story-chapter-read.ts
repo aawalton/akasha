@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0529Chapter529DeckedOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0529-chapter-529-decked-out",
   title: "Chapter 529 - Decked Out",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 529,
   ownLength: 3377,
   unitSlug: "words",

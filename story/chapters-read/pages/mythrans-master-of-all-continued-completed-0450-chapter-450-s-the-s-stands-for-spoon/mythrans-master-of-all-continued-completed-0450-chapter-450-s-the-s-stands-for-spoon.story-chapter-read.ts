@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0450Chapter450STheSStandsForSp
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0450-chapter-450-s-the-s-stands-for-spoon",
   title: "Chapter 450 S - The 'S' Stands For Spoon!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 450,
   ownLength: 2020,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0573Chapter573TheWaterRealmVer
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0573-chapter-573-the-water-realm-version-2",
   title: "Chapter 573 - The Water Realm Version 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 573,
   ownLength: 2769,
   unitSlug: "words",

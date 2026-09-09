@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0516Chapter516FinallyBackForTh
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0516-chapter-516-finally-back-for-them",
   title: "Chapter 516 - Finally Back For Them",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 516,
   ownLength: 3102,
   unitSlug: "words",

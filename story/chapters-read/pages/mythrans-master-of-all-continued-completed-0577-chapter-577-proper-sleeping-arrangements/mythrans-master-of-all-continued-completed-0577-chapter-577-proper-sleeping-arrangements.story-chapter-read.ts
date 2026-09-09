@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0577Chapter577ProperSleepingAr
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0577-chapter-577-proper-sleeping-arrangements",
   title: "Chapter 577 - Proper Sleeping Arrangements",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 577,
   ownLength: 2540,
   unitSlug: "words",

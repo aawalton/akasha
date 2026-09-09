@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0474Chapter474BackInTheGame = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0474-chapter-474-back-in-the-game",
   title: "Chapter 474 - Back In The Game",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 474,
   ownLength: 3322,
   unitSlug: "words",

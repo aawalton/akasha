@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0375Chapter381ItsTimeToParty =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0375-chapter-381-its-time-to-party",
   title: "Chapter 381 - It's Time To Party",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 375,
   ownLength: 3418,
   unitSlug: "words",

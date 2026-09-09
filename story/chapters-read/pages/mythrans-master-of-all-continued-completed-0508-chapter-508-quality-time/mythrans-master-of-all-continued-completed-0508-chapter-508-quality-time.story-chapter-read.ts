@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0508Chapter508QualityTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0508-chapter-508-quality-time",
   title: "Chapter 508 - Quality Time",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 508,
   ownLength: 3427,
   unitSlug: "words",

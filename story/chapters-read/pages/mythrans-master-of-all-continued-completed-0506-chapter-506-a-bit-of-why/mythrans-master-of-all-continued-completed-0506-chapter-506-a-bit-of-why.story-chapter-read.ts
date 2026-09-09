@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0506Chapter506ABitOfWhy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0506-chapter-506-a-bit-of-why",
   title: "Chapter 506 - A Bit Of Why",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 506,
   ownLength: 3123,
   unitSlug: "words",

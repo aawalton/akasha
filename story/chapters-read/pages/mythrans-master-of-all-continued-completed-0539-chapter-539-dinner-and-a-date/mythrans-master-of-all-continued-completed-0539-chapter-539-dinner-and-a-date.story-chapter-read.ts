@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0539Chapter539DinnerAndADate =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0539-chapter-539-dinner-and-a-date",
   title: "Chapter 539 - Dinner And A Date",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 539,
   ownLength: 2729,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0546Chapter546AnotherSlightCom
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0546-chapter-546-another-slight-complication",
   title: "Chapter 546 - Another Slight Complication",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 546,
   ownLength: 2893,
   unitSlug: "words",

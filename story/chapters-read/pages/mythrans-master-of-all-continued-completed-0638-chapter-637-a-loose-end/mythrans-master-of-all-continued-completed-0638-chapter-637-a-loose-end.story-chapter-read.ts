@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0638Chapter637ALooseEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0638-chapter-637-a-loose-end",
   title: "Chapter 637 - A Loose End",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 638,
   ownLength: 2972,
   unitSlug: "words",

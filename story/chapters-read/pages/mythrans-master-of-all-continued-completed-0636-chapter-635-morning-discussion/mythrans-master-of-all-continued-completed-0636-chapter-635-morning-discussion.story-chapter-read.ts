@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0636Chapter635MorningDiscussio
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0636-chapter-635-morning-discussion",
   title: "Chapter 635 - Morning Discussion",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 636,
   ownLength: 2701,
   unitSlug: "words",

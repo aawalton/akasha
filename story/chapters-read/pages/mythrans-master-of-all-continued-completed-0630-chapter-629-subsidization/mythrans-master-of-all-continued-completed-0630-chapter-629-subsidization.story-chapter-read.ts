@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0630Chapter629Subsidization = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0630-chapter-629-subsidization",
   title: "Chapter 629 - Subsidization",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 630,
   ownLength: 2732,
   unitSlug: "words",

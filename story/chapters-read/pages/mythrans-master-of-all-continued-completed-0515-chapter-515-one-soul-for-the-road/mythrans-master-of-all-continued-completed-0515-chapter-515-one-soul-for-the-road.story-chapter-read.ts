@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0515Chapter515OneSoulForTheRoa
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0515-chapter-515-one-soul-for-the-road",
   title: "Chapter 515 - One Soul For The Road",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 515,
   ownLength: 3078,
   unitSlug: "words",

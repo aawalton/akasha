@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0596Chapter596WithTheCurrent =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0596-chapter-596-with-the-current",
   title: "Chapter 596 - With The Current",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 596,
   ownLength: 2831,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0666Chapter665ArenaFightPart2 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0666-chapter-665-arena-fight-part-2",
   title: "Chapter 665 - Arena Fight: Part 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 666,
   ownLength: 4959,
   unitSlug: "words",

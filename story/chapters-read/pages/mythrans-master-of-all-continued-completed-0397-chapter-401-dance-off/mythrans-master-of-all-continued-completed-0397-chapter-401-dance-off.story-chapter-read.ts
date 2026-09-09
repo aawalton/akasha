@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0397Chapter401DanceOff = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0397-chapter-401-dance-off",
   title: "Chapter 401 - Dance Off!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 397,
   ownLength: 5242,
   unitSlug: "words",

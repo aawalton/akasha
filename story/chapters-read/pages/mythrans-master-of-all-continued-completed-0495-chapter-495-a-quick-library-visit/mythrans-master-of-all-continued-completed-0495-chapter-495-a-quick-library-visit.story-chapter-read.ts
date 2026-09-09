@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0495Chapter495AQuickLibraryVis
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0495-chapter-495-a-quick-library-visit",
   title: "Chapter 495 - A Quick Library Visit",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 495,
   ownLength: 3082,
   unitSlug: "words",

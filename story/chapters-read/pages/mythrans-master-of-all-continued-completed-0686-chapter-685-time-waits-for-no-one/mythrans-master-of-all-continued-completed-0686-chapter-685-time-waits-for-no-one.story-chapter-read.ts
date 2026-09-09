@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0686Chapter685TimeWaitsForNoOn
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0686-chapter-685-time-waits-for-no-one",
   title: "Chapter 685 - Time Waits For No One",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 686,
   ownLength: 3234,
   unitSlug: "words",

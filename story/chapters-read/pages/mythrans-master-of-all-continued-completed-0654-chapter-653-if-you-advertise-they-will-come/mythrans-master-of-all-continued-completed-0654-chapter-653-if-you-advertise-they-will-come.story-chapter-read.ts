@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0654Chapter653IfYouAdvertiseTh
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0654-chapter-653-if-you-advertise-they-will-come",
   title: "Chapter 653 - If You Advertise, They Will Come",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 654,
   ownLength: 2717,
   unitSlug: "words",

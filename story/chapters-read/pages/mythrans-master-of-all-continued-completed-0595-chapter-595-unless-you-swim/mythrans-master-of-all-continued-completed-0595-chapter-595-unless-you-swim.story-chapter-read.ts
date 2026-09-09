@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0595Chapter595UnlessYouSwim = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0595-chapter-595-unless-you-swim",
   title: "Chapter 595 - Unless You Swim",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 595,
   ownLength: 2735,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0622Chapter622IssacsShopAgain 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0622-chapter-622-issacs-shop-again",
   title: "Chapter 622 - Issac's Shop Again",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 622,
   ownLength: 2683,
   unitSlug: "words",

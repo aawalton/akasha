@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0589Chapter589ItsGettingLate =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0589-chapter-589-its-getting-late",
   title: "Chapter 589 - It's Getting Late",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 589,
   ownLength: 3135,
   unitSlug: "words",

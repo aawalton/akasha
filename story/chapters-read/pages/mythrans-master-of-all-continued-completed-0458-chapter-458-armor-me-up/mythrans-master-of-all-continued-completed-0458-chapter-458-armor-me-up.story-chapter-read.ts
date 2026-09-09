@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0458Chapter458ArmorMeUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0458-chapter-458-armor-me-up",
   title: "Chapter 458 - Armor Me Up!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 458,
   ownLength: 3217,
   unitSlug: "words",

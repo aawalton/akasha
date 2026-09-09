@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0507Chapter507ClubOfHearts = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0507-chapter-507-club-of-hearts",
   title: "Chapter 507 - Club Of Hearts",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 507,
   ownLength: 3773,
   unitSlug: "words",

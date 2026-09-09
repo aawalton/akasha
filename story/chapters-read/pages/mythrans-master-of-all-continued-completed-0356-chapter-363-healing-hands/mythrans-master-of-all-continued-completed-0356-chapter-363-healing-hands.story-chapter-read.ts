@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0356Chapter363HealingHands = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0356-chapter-363-healing-hands",
   title: "Chapter 363 - Healing Hands",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 356,
   ownLength: 4932,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0649Chapter648NoPlaceLikeHome 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0649-chapter-648-no-place-like-home",
   title: "Chapter 648 - No Place Like Home",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 649,
   ownLength: 2827,
   unitSlug: "words",

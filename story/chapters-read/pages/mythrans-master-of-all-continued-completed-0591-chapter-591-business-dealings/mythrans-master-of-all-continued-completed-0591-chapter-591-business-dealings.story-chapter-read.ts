@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0591Chapter591BusinessDealings
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0591-chapter-591-business-dealings",
   title: "Chapter 591 - Business Dealings",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 591,
   ownLength: 2946,
   unitSlug: "words",

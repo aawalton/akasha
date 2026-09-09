@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0675Chapter674TemporaryGoodbye
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0675-chapter-674-temporary-goodbyes",
   title: "Chapter 674 - Temporary Goodbyes",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 675,
   ownLength: 2926,
   unitSlug: "words",

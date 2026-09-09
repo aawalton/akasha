@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0399Chapter402aJennifersJoyExp
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0399-chapter-402a-jennifers-joy-explicit-content",
   title: "Chapter 402A - Jennifer's Joy (EXPLICIT CONTENT)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 399,
   ownLength: 3538,
   unitSlug: "words",

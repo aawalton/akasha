@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0475Chapter475GiftsGalore = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0475-chapter-475-gifts-galore",
   title: "Chapter 475 - Gifts Galore",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 475,
   ownLength: 3568,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0383Chapter388OilsWellThatEnds
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0383-chapter-388-oils-well-that-ends-well",
   title: "Chapter 388 - Oil's Well That Ends Well",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 383,
   ownLength: 4231,
   unitSlug: "words",

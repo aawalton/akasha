@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0696Chapter695AfterPartyPoolTi
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0696-chapter-695-after-party-pool-time",
   title: "Chapter 695 - After Party Pool Time",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 696,
   ownLength: 3004,
   unitSlug: "words",

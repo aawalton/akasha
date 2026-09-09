@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0659Chapter658CatchAndRelease 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0659-chapter-658-catch-and-release",
   title: "Chapter 658 - Catch And Release",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 659,
   ownLength: 2732,
   unitSlug: "words",

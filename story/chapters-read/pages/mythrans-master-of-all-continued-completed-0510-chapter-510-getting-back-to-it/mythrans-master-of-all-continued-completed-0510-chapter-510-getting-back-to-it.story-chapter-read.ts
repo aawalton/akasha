@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0510Chapter510GettingBackToIt 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0510-chapter-510-getting-back-to-it",
   title: "Chapter 510 - Getting Back To It",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 510,
   ownLength: 3897,
   unitSlug: "words",

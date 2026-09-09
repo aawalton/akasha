@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0576Chapter576MaybeIfYouTry = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0576-chapter-576-maybe-if-you-try",
   title: "Chapter 576 - Maybe If You Try",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 576,
   ownLength: 2832,
   unitSlug: "words",

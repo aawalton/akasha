@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0471Chapter471PartyTimeContinu
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0471-chapter-471-party-time-continued",
   title: "Chapter 471 - Party Time Continued",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 471,
   ownLength: 3234,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0456Chapter456SharingIsCaring 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0456-chapter-456-sharing-is-caring",
   title: "Chapter 456 - Sharing Is Caring",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 456,
   ownLength: 3698,
   unitSlug: "words",

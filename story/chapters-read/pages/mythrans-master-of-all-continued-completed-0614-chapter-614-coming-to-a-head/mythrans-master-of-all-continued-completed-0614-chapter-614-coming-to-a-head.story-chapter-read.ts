@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0614Chapter614ComingToAHead = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0614-chapter-614-coming-to-a-head",
   title: "Chapter 614 - Coming To A Head",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 614,
   ownLength: 2726,
   unitSlug: "words",

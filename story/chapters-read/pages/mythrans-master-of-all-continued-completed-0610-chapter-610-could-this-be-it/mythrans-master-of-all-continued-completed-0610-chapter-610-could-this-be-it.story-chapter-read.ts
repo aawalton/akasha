@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0610Chapter610CouldThisBeIt = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0610-chapter-610-could-this-be-it",
   title: "Chapter 610 - Could This Be It?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 610,
   ownLength: 2744,
   unitSlug: "words",

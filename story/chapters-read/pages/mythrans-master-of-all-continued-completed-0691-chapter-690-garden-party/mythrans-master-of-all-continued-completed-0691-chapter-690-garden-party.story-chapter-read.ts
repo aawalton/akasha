@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0691Chapter690GardenParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0691-chapter-690-garden-party",
   title: "Chapter 690 - Garden Party",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 691,
   ownLength: 3459,
   unitSlug: "words",

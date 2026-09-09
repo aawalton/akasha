@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0396Chapter400PleasurePalace =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0396-chapter-400-pleasure-palace",
   title: "Chapter 400 - Pleasure Palace",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 396,
   ownLength: 4071,
   unitSlug: "words",

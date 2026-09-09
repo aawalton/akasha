@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0395Chapter399GoodIntentions =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0395-chapter-399-good-intentions",
   title: "Chapter 399 - Good Intentions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 395,
   ownLength: 3445,
   unitSlug: "words",

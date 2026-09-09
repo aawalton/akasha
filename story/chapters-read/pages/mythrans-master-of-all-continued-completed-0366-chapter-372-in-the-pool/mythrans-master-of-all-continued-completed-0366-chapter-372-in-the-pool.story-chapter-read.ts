@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0366Chapter372InThePool = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0366-chapter-372-in-the-pool",
   title: "Chapter 372 - In The Pool",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 366,
   ownLength: 3417,
   unitSlug: "words",

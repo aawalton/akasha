@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0650Chapter649RealLifeThings =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0650-chapter-649-real-life-things",
   title: "Chapter 649 - Real Life Things",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 650,
   ownLength: 3270,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0512Chapter512HighElvenHeretic
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0512-chapter-512-high-elven-heretic",
   title: "Chapter 512 - High Elven Heretic",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 512,
   ownLength: 3176,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0695Chapter694GardenPartyWindi
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0695-chapter-694-garden-party-winding-down",
   title: "Chapter 694 - Garden Party Winding Down",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 695,
   ownLength: 2967,
   unitSlug: "words",

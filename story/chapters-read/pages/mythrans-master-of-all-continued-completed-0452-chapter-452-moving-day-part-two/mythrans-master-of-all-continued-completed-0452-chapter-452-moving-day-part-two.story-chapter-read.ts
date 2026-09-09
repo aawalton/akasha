@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0452Chapter452MovingDayPartTwo
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0452-chapter-452-moving-day-part-two",
   title: "Chapter 452 - Moving Day Part Two",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 452,
   ownLength: 3264,
   unitSlug: "words",

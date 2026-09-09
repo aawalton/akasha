@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0586Chapter586ExchangingStorie
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0586-chapter-586-exchanging-stories",
   title: "Chapter 586 - Exchanging Stories",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 586,
   ownLength: 2879,
   unitSlug: "words",

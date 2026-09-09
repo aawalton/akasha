@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0486Chapter486FixingMistakes =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0486-chapter-486-fixing-mistakes",
   title: "Chapter 486 - Fixing Mistakes",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 486,
   ownLength: 3677,
   unitSlug: "words",

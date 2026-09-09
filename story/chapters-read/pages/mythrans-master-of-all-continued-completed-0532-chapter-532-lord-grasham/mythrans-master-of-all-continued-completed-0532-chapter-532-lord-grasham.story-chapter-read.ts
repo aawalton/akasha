@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0532Chapter532LordGrasham = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0532-chapter-532-lord-grasham",
   title: "Chapter 532 - Lord Grasham",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 532,
   ownLength: 2580,
   unitSlug: "words",

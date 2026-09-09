@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0469Chapter469Confrontation = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0469-chapter-469-confrontation",
   title: "Chapter 469 - Confrontation",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 469,
   ownLength: 3363,
   unitSlug: "words",

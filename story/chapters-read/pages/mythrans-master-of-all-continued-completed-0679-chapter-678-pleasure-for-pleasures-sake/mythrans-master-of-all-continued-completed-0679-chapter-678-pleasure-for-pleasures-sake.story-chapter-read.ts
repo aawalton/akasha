@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0679Chapter678PleasureForPleas
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0679-chapter-678-pleasure-for-pleasures-sake",
   title: "Chapter 678 - Pleasure For Pleasure's Sake",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 679,
   ownLength: 3167,
   unitSlug: "words",

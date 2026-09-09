@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0540Chapter540WhatSheWanted = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0540-chapter-540-what-she-wanted",
   title: "Chapter 540 - What She Wanted",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 540,
   ownLength: 3061,
   unitSlug: "words",

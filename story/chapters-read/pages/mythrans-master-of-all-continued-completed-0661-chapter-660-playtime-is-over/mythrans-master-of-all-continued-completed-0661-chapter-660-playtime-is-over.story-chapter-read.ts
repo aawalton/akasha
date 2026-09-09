@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0661Chapter660PlaytimeIsOver =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0661-chapter-660-playtime-is-over",
   title: "Chapter 660 - Playtime Is Over",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 661,
   ownLength: 3272,
   unitSlug: "words",

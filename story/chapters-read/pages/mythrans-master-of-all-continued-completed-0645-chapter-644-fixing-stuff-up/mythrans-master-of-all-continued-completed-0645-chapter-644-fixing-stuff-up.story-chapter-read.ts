@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0645Chapter644FixingStuffUp = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0645-chapter-644-fixing-stuff-up",
   title: "Chapter 644 - Fixing Stuff Up",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 645,
   ownLength: 2931,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0413Chapter416WorkingThingsOut
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0413-chapter-416-working-things-out",
   title: "Chapter 416 - Working Things Out",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 413,
   ownLength: 3956,
   unitSlug: "words",

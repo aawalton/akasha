@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0438Chapter440XuunahRenHunter 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0438-chapter-440-xuunah-ren-hunter",
   title: "Chapter 440 - Xuunah, Ren Hunter",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 438,
   ownLength: 3591,
   unitSlug: "words",

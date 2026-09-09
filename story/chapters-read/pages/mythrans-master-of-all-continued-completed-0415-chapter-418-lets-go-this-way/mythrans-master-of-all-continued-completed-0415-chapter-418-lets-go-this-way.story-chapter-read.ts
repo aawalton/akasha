@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0415Chapter418LetsGoThisWay = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0415-chapter-418-lets-go-this-way",
   title: "Chapter 418 - Let's Go This Way",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 415,
   ownLength: 3489,
   unitSlug: "words",

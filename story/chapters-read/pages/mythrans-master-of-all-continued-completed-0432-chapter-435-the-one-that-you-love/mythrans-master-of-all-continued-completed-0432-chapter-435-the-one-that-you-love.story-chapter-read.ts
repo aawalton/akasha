@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0432Chapter435TheOneThatYouLov
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0432-chapter-435-the-one-that-you-love",
   title: "Chapter 435 - The One That You Love",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 432,
   ownLength: 3649,
   unitSlug: "words",

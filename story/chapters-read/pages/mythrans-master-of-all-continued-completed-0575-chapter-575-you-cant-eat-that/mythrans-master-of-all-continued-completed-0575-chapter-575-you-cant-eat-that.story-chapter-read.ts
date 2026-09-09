@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0575Chapter575YouCantEatThat =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0575-chapter-575-you-cant-eat-that",
   title: "Chapter 575 - You Can't Eat That",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 575,
   ownLength: 2710,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0418Chapter421CuddleMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0418-chapter-421-cuddle-me",
   title: "Chapter 421 - Cuddle Me",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 418,
   ownLength: 3481,
   unitSlug: "words",

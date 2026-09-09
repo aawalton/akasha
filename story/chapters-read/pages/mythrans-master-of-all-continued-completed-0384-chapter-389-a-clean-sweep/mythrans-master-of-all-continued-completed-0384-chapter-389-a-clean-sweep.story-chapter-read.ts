@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0384Chapter389ACleanSweep = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0384-chapter-389-a-clean-sweep",
   title: "Chapter 389 - A Clean Sweep",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 384,
   ownLength: 3402,
   unitSlug: "words",

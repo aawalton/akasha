@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0500Chapter500NewResidence = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0500-chapter-500-new-residence",
   title: "Chapter 500 - New Residence",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 500,
   ownLength: 5127,
   unitSlug: "words",

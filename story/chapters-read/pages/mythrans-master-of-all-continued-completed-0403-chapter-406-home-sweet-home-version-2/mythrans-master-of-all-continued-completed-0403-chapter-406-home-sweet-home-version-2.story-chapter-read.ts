@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0403Chapter406HomeSweetHomeVer
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0403-chapter-406-home-sweet-home-version-2",
   title: "Chapter 406 - Home Sweet Home Version 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 403,
   ownLength: 3442,
   unitSlug: "words",

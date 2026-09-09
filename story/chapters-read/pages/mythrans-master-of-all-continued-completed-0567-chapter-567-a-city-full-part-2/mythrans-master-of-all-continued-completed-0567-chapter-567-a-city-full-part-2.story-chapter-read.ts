@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0567Chapter567ACityFullPart2 =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0567-chapter-567-a-city-full-part-2",
   title: "Chapter 567 - A City Full: Part 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 567,
   ownLength: 3025,
   unitSlug: "words",
