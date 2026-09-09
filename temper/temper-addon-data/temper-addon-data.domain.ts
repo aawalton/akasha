@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAddonData = {
   id: "01a062a9-3f10-7c41-b8e3-5d7420f9e1a6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-addon-data",
   definition: "where each data file temper renders from its own pages is landed",
-  manifest: "json",
   parts: [
     "module/addon-data-output-dirs",
     "module/addon-data-page-rows",
@@ -94,4 +93,4 @@ export const temperAddonData = {
       statement: "Every table the generators render is named here.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
