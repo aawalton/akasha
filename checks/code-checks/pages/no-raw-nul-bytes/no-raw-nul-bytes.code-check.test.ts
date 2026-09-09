@@ -1,12 +1,60 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { writing } from "@akasha/command-system/scratching/testing"
+import { shadowAt } from "@akasha/pages/shadow"
 import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
-import { reasonsIn, sitesIn } from "./no-raw-nul-bytes.code-check.code.ts"
+import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
+import {
+  exemptIn,
+  holdingBytes,
+  noRawNulBytes,
+  reasonsIn,
+  sitesIn,
+} from "./no-raw-nul-bytes.code-check.code.ts"
+import {
+  CERTIFICATE,
+  ELSEWHERE,
+  letThrough,
+  scratch,
+  seeded,
+  WALLPAPER,
+} from "./no-raw-nul-bytes.code-check.test-fixtures.ts"
 
 const ROOT = "/repo"
 
 const NUL = "\u0000"
 
 const given = bodiesIn(ROOT)
+
+const HOLDING = letThrough()
+
+const TWO_NULS =
+  "line 1 column 1 is the first of 2 raw NUL bytes, which hide the whole file from a search"
+
+afterAll(scratch.sweep)
+
+test("a property saying it holds bytes is the one this check lets through", () => {
+  expect(holdingBytes({ holdsBytes: true, fileName: CERTIFICATE })).toBe(true)
+})
+
+test("a property saying nothing about bytes is judged", () => {
+  expect(holdingBytes({ fileName: CERTIFICATE })).toBe(false)
+})
+
+test("a file a property names, beside a page carrying that property, is let through", () => {
+  expect(exemptIn(CERTIFICATE, shadowAt(HOLDING))).toBe(true)
+})
+
+test("a file of that name where no page carries the property is judged", () => {
+  expect(exemptIn(ELSEWHERE, shadowAt(HOLDING))).toBe(false)
+})
+
+test("a property naming no file lets its section through wherever that file sits", () => {
+  expect(exemptIn(WALLPAPER, shadowAt(HOLDING))).toBe(true)
+})
+
+test("a property naming a file it says nothing about leaves that file judged", () => {
+  expect(exemptIn(CERTIFICATE, shadowAt(seeded({ fileName: CERTIFICATE })))).toBe(false)
+})
 
 test("a body carrying no NUL is let through", () => {
   expect(reasonsIn(given("akasha/held.ts", bytesOf("const one = 1\n")))).toEqual([])
@@ -51,6 +99,15 @@ test("what the file is named changes nothing, because no kind of file is exempt"
 
 test("a body that is not text is judged on its bytes rather than passed over", () => {
   expect(reasonsIn(given("akasha/held.ts", new Uint8Array([0xff, 0xfe, 0x00])))).toHaveLength(1)
+})
+
+test("the check lets the named file through and says why it judges the one elsewhere", () => {
+  const held = `${NUL}${NUL}`
+  writing(HOLDING, CERTIFICATE, held)
+  writing(HOLDING, ELSEWHERE, held)
+  const both = onDisk(HOLDING)
+  const change = { root: HOLDING, changed: [CERTIFICATE, ELSEWHERE], before: both, after: both }
+  expect(noRawNulBytes(change, shadowAt(HOLDING))).toEqual([{ path: ELSEWHERE, reason: TWO_NULS }])
 })
 
 test("a carriage return is no line ending of its own, so a column runs on past it", () => {

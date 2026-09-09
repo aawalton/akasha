@@ -7,6 +7,7 @@ export const noRawNulBytes = {
   definition: "the check refusing a file with a raw NUL byte",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
