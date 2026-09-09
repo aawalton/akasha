@@ -1,13 +1,13 @@
 import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 
-export type LoadedBySlug = Slug
+export type LoadedBy = Slug
 
-export const loadedBySlug = {
+export const loadedBy = {
   id: "01a05234-e093-7966-b707-f7ac0f44d5e2",
   pageTypeSlug: "relation-property",
-  slug: "loaded-by-slug",
-  propertySlug: "loaded-by-slug",
+  slug: "loaded-by",
+  propertySlug: "loaded-by",
   definition: "the module whose code loads pages of this type",
   targetPageTypeSlug: "page-type/module",
 } as const satisfies RelationProperty

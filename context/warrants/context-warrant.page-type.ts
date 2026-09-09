@@ -39,7 +39,7 @@ export const contextWarrant = {
     "context-warrant/agent-role",
   ],
   extendsSlug: ["page-type/module"],
-  loadedBySlug: "module/warranting",
+  loadedBy: "module/warranting",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-read", required: true, many: false },

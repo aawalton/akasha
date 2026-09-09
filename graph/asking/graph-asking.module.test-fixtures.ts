@@ -50,7 +50,7 @@ export const DECLARED = "declaration"
 
 export const PART = "part-slugs"
 
-export const LOADED_BY = "loaded-by-slug"
+export const LOADED_BY = "loaded-by"
 
 export const HELD = "held"
 
@@ -187,7 +187,7 @@ export function reachingWorld(reaching: Readonly<Record<string, readonly string[
   return root
 }
 
-export function loadingWorld(loadedBySlug: string | null, typeExists = true): string {
+export function loadingWorld(loadedBy: string | null, typeExists = true): string {
   const root = worldFor(IMPORT)
   filed(root, `${IMPORT}/path/${LOADED_AT}.jsonl`, { path: SOURCE_AT })
   paged(root, TYPE_AT, {
@@ -195,7 +195,7 @@ export function loadingWorld(loadedBySlug: string | null, typeExists = true): st
     pageTypeSlug: PAGE_TYPE,
     slug: HELD_TYPE,
     definition: "a page type a test invented",
-    ...(loadedBySlug === null ? {} : { loadedBySlug }),
+    ...(loadedBy === null ? {} : { loadedBy }),
   })
   if (typeExists) filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
@@ -224,7 +224,7 @@ export function loaderWorld(names = true): string {
     pageTypeSlug: PAGE_TYPE,
     slug: HELD_TYPE,
     definition: "a page type a test invented",
-    loadedBySlug: `${MODULE}/${HELD_LOADER}`,
+    loadedBy: `${MODULE}/${HELD_LOADER}`,
   })
   filed(root, `path/${TYPE_AT}.jsonl`, { path: TYPE_AT, id: TYPE_ID })
   filed(root, `identity/page/id/${TYPE_ID}.jsonl`, { path: TYPE_AT, id: TYPE_ID })

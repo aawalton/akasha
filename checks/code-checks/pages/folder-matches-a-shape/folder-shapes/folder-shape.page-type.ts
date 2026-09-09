@@ -60,7 +60,7 @@ export const folderShape = {
     "folder-shape/the-workspace-root",
   ],
   extendsSlug: ["page-type/module"],
-  loadedBySlug: "code-check/folder-matches-a-shape",
+  loadedBy: "code-check/folder-matches-a-shape",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/folder-shape-enabled", required: true, many: false },

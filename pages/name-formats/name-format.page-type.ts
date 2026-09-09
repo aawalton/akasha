@@ -24,7 +24,7 @@ export const nameFormat = {
     "name-format/upper-uuid",
   ],
   extendsSlug: ["page-type/module"],
-  loadedBySlug: "module/format-reaching",
+  loadedBy: "module/format-reaching",
   properties: [{ pagePropertySlug: "file-property/test", required: true, many: false }],
   invariants: [
     {

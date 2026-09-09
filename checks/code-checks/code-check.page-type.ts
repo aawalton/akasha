@@ -85,7 +85,7 @@ export const codeCheck = {
     "code-check/repository-is-written-by-a-change",
   ],
   extendsSlug: ["page-type/module"],
-  loadedBySlug: "module/checking",
+  loadedBy: "module/checking",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-patch", required: true, many: false },

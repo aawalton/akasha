@@ -3,7 +3,7 @@ import type { PluralSlug } from "../../domains/properties/plural-slug.text-prope
 import type { AllowsTmpPaths } from "./properties/allows-tmp-paths.boolean-property.ts"
 import type { DetailConfig } from "./properties/detail-config.record-property.ts"
 import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
-import type { LoadedBySlug } from "./properties/loaded-by-slug.relation-property.ts"
+import type { LoadedBy } from "./properties/loaded-by.relation-property.ts"
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
 import type { NextSeq } from "./properties/next-seq.number-property.ts"
@@ -18,7 +18,7 @@ export type PageType = Domain & {
   properties?: Properties
   mortal?: Mortal
   pluralSlug: PluralSlug
-  loadedBySlug?: LoadedBySlug
+  loadedBy?: LoadedBy
   detailConfig?: DetailConfig
   mediaConfig?: MediaConfig
   sequence?: Sequence
@@ -68,7 +68,7 @@ export const pageType = {
     "record-property/sequence",
     "relation-property/child-type",
     "relation-property/extends-slug",
-    "relation-property/loaded-by-slug",
+    "relation-property/loaded-by",
     "relation-property/owner",
     "relation-property/page-property-slug",
     "text-property/body-property-id",
@@ -97,7 +97,7 @@ export const pageType = {
     { pagePropertySlug: "record-property/properties", required: false, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/mortal", required: false, many: false },
     { pagePropertySlug: "text-property/plural-slug", required: true, many: false },
-    { pagePropertySlug: "relation-property/loaded-by-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/loaded-by", required: false, many: false },
     { pagePropertySlug: "record-property/detail-config", required: false, many: false },
     { pagePropertySlug: "record-property/media-config", required: false, many: false },
     { pagePropertySlug: "record-property/sequence", required: false, many: false },
