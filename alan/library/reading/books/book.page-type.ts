@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Isbn } from "./properties/isbn.text-property.ts"
 import type { Isbn13 } from "./properties/isbn13.text-property.ts"

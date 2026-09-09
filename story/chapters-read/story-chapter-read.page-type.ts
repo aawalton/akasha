@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
+import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.types.ts"
 import type { ExternalLink } from "../../collections/externals/properties/external-link.url-property.ts"
 import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"

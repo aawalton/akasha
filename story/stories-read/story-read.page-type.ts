@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
+import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.types.ts"
 import type { Source } from "../../collections/externals/properties/source.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"

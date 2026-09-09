@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../collection.page-type.ts"
-import type { ExternalId } from "./properties/external-id.text-property.ts"
-import type { ExternalLink } from "./properties/external-link.url-property.ts"
-import type { LastSyncedAt } from "./properties/last-synced-at.calendar-date-property.ts"
-import type { Source } from "./properties/source.text-property.ts"
-
-export type CollectionExternal = Collection & {
-  externalId?: ExternalId
-  externalLink?: ExternalLink
-  source?: Source
-  lastSyncedAt?: LastSyncedAt
-}
 
 export const collectionExternal = {
   id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
@@ -50,4 +38,5 @@ export const collectionExternal = {
       statement: "A collection never synced states no moment that collection was synced at.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
