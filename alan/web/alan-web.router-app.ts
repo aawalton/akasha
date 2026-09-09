@@ -201,5 +201,7 @@ export const alanWeb = {
     "route/alan-web-api-spotify-callback",
     "route/alan-web-api-sms-webhook",
     "route/alan-web-home",
+    "route/alan-web-landing",
+    "route/alan-web-page-listing",
   ],
 } as const satisfies RouterApp

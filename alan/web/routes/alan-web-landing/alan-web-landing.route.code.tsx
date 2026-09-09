@@ -3,7 +3,6 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@akasha/design-primitives/heading"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { Link, redirect } from "react-router"
-import type { Route } from "./+types/landing"
 
 export function meta() {
   return [
@@ -16,7 +15,7 @@ export function meta() {
   ]
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { user, headers } = await getUser(request)
   if (user) throw redirect("/home", { headers })
   return null

@@ -4,9 +4,14 @@ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { Suspense } from "react"
 import { data } from "react-router"
-import type { Route } from "./+types/page-listing"
 
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageTypeSlug: string }
+  request: Request
+}) {
   const pluralSlug = params.pageTypeSlug
 
   const { headers } = createServerClient(request)
@@ -24,7 +29,11 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   return data({ slug: pageType.slug, searchParams: resolvedSearchParams }, { headers })
 }
 
-export default function PagesListingRoute({ loaderData }: Route.ComponentProps) {
+export default function PagesListingRoute({
+  loaderData,
+}: {
+  loaderData: { slug: string; searchParams: Record<string, string> }
+}) {
   const brandedSlug = toPageTypeSlug(loaderData.slug)
   return (
     <Suspense>
