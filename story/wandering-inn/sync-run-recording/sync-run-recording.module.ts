@@ -49,5 +49,9 @@ export const syncRunRecording = {
       invariantKind: "gap",
       statement: "The great courses and royal road syncs record no run.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run states the id that run keeps, because the landing this reaches mints none.",
+    },
   ],
 } as const satisfies Module

@@ -4,6 +4,7 @@ import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { entriesAt } from "@akasha/pages/page-entries"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
+import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 
 const SYNC_PAGE_TYPE = "sync"
 const SYNC_RUNS = "sync-runs"
@@ -97,7 +98,7 @@ function settledInto(runs: readonly Value[], startedAt: string, set: Stated): re
     return { ...one, ...set }
   })
   if (found) return held
-  return [...held, { runStartedAt: startedAt, ...set }]
+  return [...held, { id: uuidVersion7(), runStartedAt: startedAt, ...set }]
 }
 
 function settling(source: string, startedAt: string, set: Stated): undefined {
@@ -125,7 +126,10 @@ export async function recordingRun(
     landed(
       root,
       filed.page,
-      [...settledStale(filed.runs, startedAtMs), { runStartedAt: startedAt, runStatus: RUNNING }],
+      [
+        ...settledStale(filed.runs, startedAtMs),
+        { id: uuidVersion7(), runStartedAt: startedAt, runStatus: RUNNING },
+      ],
       `${source} opens a run`
     )
   }
