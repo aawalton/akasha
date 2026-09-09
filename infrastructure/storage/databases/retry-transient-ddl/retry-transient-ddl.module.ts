@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const retryTransientDdl = {
   id: "01a07740-d031-7c4b-9fdc-e16681cb6f2a",
