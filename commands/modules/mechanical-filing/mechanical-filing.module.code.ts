@@ -1,6 +1,6 @@
-import type { Asking } from "@akasha/changes/mechanical-change-running"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
 import { type Answer, answering, type Given } from "../calling/calling.module.code.ts"

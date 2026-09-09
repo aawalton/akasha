@@ -1,9 +1,9 @@
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
 import {
   CHAPTER_PAGE_TYPE,

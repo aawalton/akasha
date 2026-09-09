@@ -1,8 +1,8 @@
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { everyOfType } from "@akasha/pages/index-reading"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { numberAt, slugAt, textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { z } from "zod"
 
 export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"

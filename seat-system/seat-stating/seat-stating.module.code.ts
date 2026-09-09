@@ -1,11 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "@akasha/changes/mechanical-change-running"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt, readingIn, slugsOfType, typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import { valueAt } from "@akasha/pages/page-value"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { seatPathForName } from "../seat-reading/seat-reading.module.code.ts"
 
 const PERSON = "person"

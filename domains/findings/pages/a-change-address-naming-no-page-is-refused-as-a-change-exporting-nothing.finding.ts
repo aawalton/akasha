@@ -5,7 +5,7 @@ export const aChangeAddressNamingNoPageIsRefusedAsAChangeExportingNothing = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-change-address-naming-no-page-is-refused-as-a-change-exporting-nothing",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "`loadedAt` gives one refusal for two different faults. Where a change address names no page in the world's index, `codeAt` answers null and `exportedAt` answers null before importing anything, and the refusal reads ``reaches no change exporting `runChange```. That names a missing export, so a reader goes and checks the export, finds it where it should be, and learns nothing. The real fault is that the address resolved to no file. A test in `seat-system/subagent-page` is failing this way now and blocks every apply carrying a file beside it.",
   evidence:

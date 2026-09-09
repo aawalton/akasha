@@ -1,8 +1,11 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
-import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { codeRoot } from "@akasha/pages/code-root"
+import {
+  type Asking,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"

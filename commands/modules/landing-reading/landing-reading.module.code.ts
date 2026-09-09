@@ -1,4 +1,4 @@
-import type { FileChange } from "@akasha/changes/change-answer/types"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Given } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"

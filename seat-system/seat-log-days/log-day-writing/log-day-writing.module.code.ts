@@ -1,13 +1,13 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { typeSlugOf } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

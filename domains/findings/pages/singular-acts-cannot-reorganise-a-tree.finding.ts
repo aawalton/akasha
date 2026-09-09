@@ -5,7 +5,7 @@ export const singularActsCannotReorganiseATree = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "singular-acts-cannot-reorganise-a-tree",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "Every agent-facing change acts on one page, and `akasha change` runs alone on the command line, so a reorganisation costs one command per page with no way to batch. Flattening the folders under `alan/books` is 436 moves and 732 property restatements, 1168 commands, against 38 acts of which exactly one takes more than one page. A tree cannot be reorganised at the rate its own acts allow.",
   evidence:

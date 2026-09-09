@@ -5,7 +5,7 @@ export const aGeneratedFileHoldsEveryPathItImportsFromAgainstAnyMove = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-generated-file-holds-every-path-it-imports-from-against-any-move",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A move rewrites the relative specifiers of every body importing what moved, and `generated-file-not-written` refuses the change where any of those bodies is generated. So a generated file importing from outside its own folder holds every path it imports from: nothing under those paths can move, and the property whose relocation would remove the import cannot move either, because relocating it rewrites the same generated file. `alan/track/days` is held by this today, by one import on one line.",
   evidence:

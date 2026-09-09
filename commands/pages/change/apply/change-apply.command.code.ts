@@ -1,5 +1,5 @@
-import { loadedAt } from "@akasha/changes/change-loading"
-import { editsAt } from "@akasha/changes/edits-keeping"
+import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import {
   applyingKept,

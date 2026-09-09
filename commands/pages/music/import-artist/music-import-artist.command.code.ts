@@ -1,5 +1,3 @@
-import type { Asking } from "@akasha/changes/mechanical-change-running"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
@@ -7,6 +5,8 @@ import { type Value, valueAt } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
 import { todayYYYYMMDD } from "@akasha/utils/sync/today"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { searchLyrics } from "../../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,

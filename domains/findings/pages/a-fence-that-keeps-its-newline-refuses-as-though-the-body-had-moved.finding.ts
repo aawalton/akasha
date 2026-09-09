@@ -5,7 +5,7 @@ export const aFenceThatKeepsItsNewlineRefusesAsThoughTheBodyHadMoved = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-fence-that-keeps-its-newline-refuses-as-though-the-body-had-moved",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A fenced argument keeps the newline on its last line, so an `old` passage ending mid-line matches nothing and the change refuses with `holds no such passage`. That sentence names the file, so it is taken for a body that moved under the reader, and the reader re-extracts the passage from a file that never changed. Two agents met it five times in one session and neither revisited the diagnosis; one retyped about three thousand characters of a one-line property twice, having concluded that only a passage ending at a line's end could anchor. The rule is written down, and printed in another gate's own closing line. What misroutes the reader is a refusal naming the body rather than the fence.",
   evidence:

@@ -5,7 +5,7 @@ export const theChangeAddingARecordWritesItUnindentedAndOutOfPlace = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-change-adding-a-record-writes-it-unindented-and-out-of-place",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "The mechanical change adding a record to a page writes that record unindented and after the value the page states last, rather than among the records it belongs with. An agent then mends by hand what a mechanical change wrote.",
   evidence:

@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { bodyIn } from "@akasha/changes/edits-keeping"
 import { formattedBody } from "@akasha/code/code-format"
+import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   NOT_TEXT,
   notText,

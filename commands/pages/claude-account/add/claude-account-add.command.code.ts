@@ -1,6 +1,6 @@
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { aliasIndexesIn } from "../../../../agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"

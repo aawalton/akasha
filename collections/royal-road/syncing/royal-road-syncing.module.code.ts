@@ -1,9 +1,12 @@
-import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { asking, type Row } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
+import {
+  type Asking,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { RawChapter } from "akasha/collections/royal-road/pages/royal-road-pages.module.code.ts"
 import {
   fetchHtml,

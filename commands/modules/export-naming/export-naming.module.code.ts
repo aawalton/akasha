@@ -1,5 +1,5 @@
-import type { FileChange } from "@akasha/changes/change-answer/types"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 
 const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
 

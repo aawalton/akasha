@@ -5,7 +5,7 @@ export const aFolderMoveLeavesAPathSpelledAsDataStaleAndNoGuardReadsIt = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-folder-move-leaves-a-path-spelled-as-data-stale-and-no-guard-reads-it",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "`move-folder` rewrites relative import specifiers and a manifest's `exports` targets. It does not rewrite a folder path spelled as data — a string in a page's property, a path in a JSON deploy file, a constant in a module body outside the moved folder. `folder-not-left-named` does not catch these either, because it judges only bodies the move writes, and a speller outside the moved folder is a body the move does not write. So a folder move lands green while leaving stale paths behind it. This has already shipped a container command pointing at a directory that is not there.",
   evidence:

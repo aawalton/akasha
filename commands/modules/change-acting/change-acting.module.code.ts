@@ -1,5 +1,13 @@
-import { bodyIn, droppedAll, editsIn, keptEdits } from "@akasha/changes/edits-keeping"
-import { handedPageOf, handedUnder } from "@akasha/changes/subagent-handed"
+import {
+  bodyIn,
+  droppedAll,
+  editsIn,
+  keptEdits,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  handedPageOf,
+  handedUnder,
+} from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import { replayed } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mistaking } from "../asking/asking.module.code.ts"

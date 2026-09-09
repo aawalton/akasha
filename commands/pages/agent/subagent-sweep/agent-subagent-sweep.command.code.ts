@@ -1,6 +1,4 @@
 import { resolve } from "node:path"
-import type { Asking } from "@akasha/changes/mechanical-change-running"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { createSubagentReader, type SubagentNode } from "@akasha/editor-extension/subagent-reading"
 import { scanProcEntries } from "@akasha/seat-system/proc-scan"
 import type { ProcLivenessEntry } from "@akasha/seat-system/seat-proc-liveness"
@@ -13,6 +11,8 @@ import {
   seenIn,
   staleAmong,
 } from "@akasha/seat-system/subagent-census"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
 import { dropReadings } from "../../../modules/reading/reading.module.code.ts"

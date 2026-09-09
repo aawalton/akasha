@@ -5,7 +5,7 @@ export const aRespellThatLengthensImportSpecifiersCanPushAnImporterOverTheByteCe
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-respell-that-lengthens-import-specifiers-can-push-an-importer-over-the-byte-ceiling",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A change that respells import specifiers longer can push an importer past the byte ceiling, and the refusal names the importer rather than the change that grew it. So the first reading is `why is this file too long`, which is the wrong question, and the change that grew it is nowhere in the message. The remedy is to take the repetition out of the importer rather than to divide it, because dividing pushes the respell out to every file that reaches in.",
   evidence:

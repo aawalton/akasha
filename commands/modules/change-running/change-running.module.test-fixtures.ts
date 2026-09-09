@@ -1,10 +1,16 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { removePage } from "@akasha/changes/change-agent/remove-page"
-import { type Loaded, loadedAt } from "@akasha/changes/change-loading"
-import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
-import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
+import { removePage } from "akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts"
+import {
+  editsIn,
+  keptEdits,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { handedPageOf } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
+import {
+  type Loaded,
+  loadedAt,
+} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/shadow/change-shadow.module.code.ts"

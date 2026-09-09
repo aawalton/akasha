@@ -1,4 +1,4 @@
-import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
+import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "../../../modules/applying/applying.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import type { Refused } from "../../../modules/landing/landing.module.code.ts"

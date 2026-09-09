@@ -1,4 +1,4 @@
-import { editsAt } from "@akasha/changes/edits-keeping"
+import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { mistaking } from "../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"

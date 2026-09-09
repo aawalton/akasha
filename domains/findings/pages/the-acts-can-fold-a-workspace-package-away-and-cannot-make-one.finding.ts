@@ -5,7 +5,7 @@ export const theActsCanFoldAWorkspacePackageAwayAndCannotMakeOne = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-acts-can-fold-a-workspace-package-away-and-cannot-make-one",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A draft naming no act refuses with every act `akasha change` runs. Five of them reach a workspace package — `move-folder-package`, `remove-folder-package`, `remove-package-alias`, `remove-package-manifest` and `rename-package` — and none makes one. `changes/mechanical/folder/` holds only `move` and `remove`, and the two manifest mechanicals act only on a way in already written. What making a package takes is one file, as `code-system/workspace-packages/workspace-package.page-type.ts:66` already states, so this is a decision rather than a difficulty: every act was written for the direction `aranya-one-package` travels, which is toward the root. Three `ios-app` folders meet the aid on `Package Only When Needed` that a fourth would meet too, and whoever needs that fourth writes the manifest by hand, outside the acts.",
   evidence:

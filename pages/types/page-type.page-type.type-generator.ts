@@ -1,6 +1,6 @@
 import { dirname, relative } from "node:path"
-import type { Adding } from "@akasha/changes/change-answer/types"
 import type { Schema } from "@akasha/indexes/shape"
+import type { Adding } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../shadow/shadow.module.code.ts"

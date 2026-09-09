@@ -13,7 +13,6 @@
     "./where-testing": "./where-testing/where-testing.module.code.ts"
   },
   "dependencies": {
-    "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/indexes": "workspace:*",

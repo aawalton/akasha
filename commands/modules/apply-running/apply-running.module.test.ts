@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  appendEdits,
+  editsIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { headOf, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"

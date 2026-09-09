@@ -5,7 +5,7 @@ export const aMovedFileReachedByAPackageNameIsRespelledRelative = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-moved-file-reached-by-a-package-name-is-respelled-relative",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "`change-imports` respells every reach to a moved file as a path relative to the file doing the reaching, including a reach that named the file by its package. `specifierFor` returns a relative path and nothing else, so no route exists from a moved file back to a package specifier. Two folder moves today turned 28 `@akasha/changes/...` specifiers into `../../../changes/modules/...` paths that reach past a package boundary, while the export map keys that named those files were untouched and still resolve. Nothing refuses the relative form, so each folder move converts some package reaches into cross-package relative paths and none of them come back. I did not establish whether any caller depends on the relative form.",
   evidence:

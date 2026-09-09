@@ -1,9 +1,9 @@
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { entriesAt } from "@akasha/pages/page-entries"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 
 const SYNC_PAGE_TYPE = "sync"

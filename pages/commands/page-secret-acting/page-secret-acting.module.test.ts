@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "@akasha/changes/mechanical-change-running"
+import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "../../../commands/modules/applying/applying.module.code.ts"
 import type { Given } from "../../../commands/modules/calling/calling.module.code.ts"
 import type { Refused } from "../../../commands/modules/landing/landing.module.code.ts"

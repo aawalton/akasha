@@ -5,7 +5,6 @@
     "": {
       "name": "akasha",
       "dependencies": {
-        "@akasha/changes": "workspace:*",
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/design-forms": "workspace:*",
@@ -32,6 +31,7 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
+        "@akasha/testing-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -71,7 +71,6 @@
     "agents": {
       "name": "@akasha/agents",
       "dependencies": {
-        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -178,7 +177,6 @@
     "alan/harness/mobile-cli": {
       "name": "@akasha/mobile-cli",
       "dependencies": {
-        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
@@ -322,18 +320,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "changes": {
-      "name": "@akasha/changes",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/testing-system": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "typescript": "5.9.3",
       },
     },
     "code-system": {
@@ -606,7 +592,6 @@
     "pages": {
       "name": "@akasha/pages",
       "dependencies": {
-        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -646,7 +631,6 @@
     "pages/service": {
       "name": "@akasha/pages-service",
       "dependencies": {
-        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
@@ -804,7 +788,6 @@
       "name": "@akasha/seat-system",
       "dependencies": {
         "@akasha/agents": "workspace:*",
-        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -1115,8 +1098,6 @@
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
-
-    "@akasha/changes": ["@akasha/changes@workspace:changes"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
 

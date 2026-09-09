@@ -1,7 +1,10 @@
-import type { FileChange } from "@akasha/changes/change-answer/types"
-import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import type { Value } from "@akasha/pages/page-value"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  type Asking,
+  runMechanicalChange,
+} from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { mintingOnto } from "../../../commands/modules/value-minting/value-minting.module.code.ts"
 
 export type Put = {

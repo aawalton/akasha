@@ -1,4 +1,10 @@
-import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
+import {
+  droppedFirst,
+  editsAt,
+  foldedIn,
+  keptEdits,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"

@@ -1,5 +1,5 @@
-import { pathsOf as pathsOfRow } from "@akasha/changes/change-answer"
-import type { FileChange } from "@akasha/changes/change-answer/types"
+import { pathsOf as pathsOfRow } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { saidBy, whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../gate-building/gate-building.module.code.ts"

@@ -1,6 +1,9 @@
-import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
-import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
+import {
+  appendEdits,
+  editsIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { handedPageOf } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mistaking } from "../asking/asking.module.code.ts"

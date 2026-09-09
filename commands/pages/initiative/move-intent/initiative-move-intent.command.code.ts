@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
-import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { initiativesDrawn } from "@akasha/domains/work-initiatives"
+import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

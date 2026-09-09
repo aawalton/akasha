@@ -5,7 +5,7 @@ export const aFolderMoveCarriesTheGitignoredUncommittedSidecarsUnderIt = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-folder-move-carries-the-gitignored-uncommitted-sidecars-under-it",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "`move-folder` carries the gitignored `.uncommitted.*` sidecars under the folder it moves, at any depth, whatever their file extension. It does not consult gitignore and it does not work from the git index. Measured 2026-09-09 by two drafts that were dropped without applying. This is the answer to a question every folder-move lane asks, and the reason to write it down is that the opposite was inferred from the code, believed, and reported before anyone probed it.",
   evidence:

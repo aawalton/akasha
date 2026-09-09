@@ -1,10 +1,19 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { type Loaded, ranBy, runAt } from "@akasha/changes/change-loading"
-import { bodyIn, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
+import {
+  bodyIn,
+  foldedIn,
+  keptAt,
+  keptEdits,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  type Loaded,
+  ranBy,
+  runAt,
+} from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { pathsOf, replayed } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {

@@ -5,7 +5,7 @@ export const theChangeMachineryReadsTheDiskWhereItShouldReadTheAnswer = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-change-machinery-reads-the-disk-where-it-should-read-the-answer",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A layer of the change machinery reads the committed tree where what it owes an answer about is the state the change leaves.",
   evidence:

@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
 import type { Value } from "@akasha/pages/page-value"
+import type { Asking as Asked } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { refusingWith } from "../../../modules/calling/calling.module.test-fixtures.ts"
 import {
   appendedOnto,

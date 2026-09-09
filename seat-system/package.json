@@ -268,7 +268,6 @@
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
-    "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages": "workspace:*",

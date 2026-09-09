@@ -99,7 +99,6 @@
     "./naming/named-for/name-rule": "./naming/named-for/name-rule/name-rule.module.code.ts"
   },
   "dependencies": {
-    "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

@@ -5,7 +5,7 @@ export const aKeptMoveWidensWhatTheNextDraftIsJudgedAgainst = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-kept-move-widens-what-the-next-draft-is-judged-against",
-  domain: "workspace-package/change",
+  domain: "domain/change",
   claim:
     "A `change-file` drafted while a `move-folder` is kept is judged against the whole folded answer, so it demands a read of every body the fold now carries and refuses. The same edit drafted before any move passes, and the moves fold in behind it without a word. So the order edits were drafted in decides whether a set can land at all, and the refusal names the thousand files it wants read rather than naming the ordering, so the cause has to be guessed. The rule that falls out: draft every text edit first and every move after.",
   evidence:
