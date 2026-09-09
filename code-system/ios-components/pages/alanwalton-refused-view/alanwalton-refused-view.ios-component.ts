@@ -6,4 +6,10 @@ export const alanwaltonRefusedView = {
   slug: "alanwalton-refused-view",
   definition: "the drawing standing in for a feed that refused the credential",
   swift: "swift",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The tile names why the credential was refused rather than only that it was.",
+    },
+  ],
 } as const satisfies IosComponent

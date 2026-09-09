@@ -7,6 +7,8 @@ struct RefusedView: View {
                 .font(.system(size: 30, weight: .semibold))
             Text("Sign in")
                 .font(.system(size: 12, weight: .medium))
+            Text(DeviceSecretReader.diagnosis())
+                .font(.system(size: 9, weight: .regular))
         }
         .foregroundStyle(.secondary)
         .containerBackground(for: .widget) { Color(.systemBackground) }

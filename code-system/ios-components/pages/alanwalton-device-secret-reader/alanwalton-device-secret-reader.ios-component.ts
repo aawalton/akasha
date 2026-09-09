@@ -11,5 +11,9 @@ export const alanwaltonDeviceSecretReader = {
       invariantKind: "departure",
       statement: "Two keychain items for one device are refused rather than picked between.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Why a read answered nothing is named in words short enough for a tile to carry.",
+    },
   ],
 } as const satisfies IosComponent
