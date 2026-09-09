@@ -10,7 +10,6 @@ const HEALTH_VALUE_SLUG = "health"
 const TO_DO_SLUG = "slug"
 const TO_DO_DIFFICULTY = "difficulty"
 const TO_DO_VALUE = "toDoValue"
-const TO_DO_VALUE_SLUG = "toDoValueSlug"
 const TO_DO_LAST_COMPLETED_AT = "toDoLastCompletedAt"
 
 const COMPLETION_TO_DO_SLUG = "toDoSlug"
@@ -111,6 +110,7 @@ function checkoutRoot(): string {
 function toDosAsked(): readonly Readonly<Record<string, unknown>>[] {
   const asked = asking(checkoutRoot(), {
     pageTypeSlug: TO_DO_PAGE_TYPE_SLUG,
+    keys: [TO_DO_SLUG, TO_DO_DIFFICULTY, TO_DO_VALUE, TO_DO_LAST_COMPLETED_AT],
   } as never)
   if ("refused" in asked) throw new Error(`loadDayHealthTaskPoints: ${asked.refused}`)
   return asked.rows
@@ -127,7 +127,7 @@ export async function loadDayHealthTaskPoints(dayStr: string): Promise<number> {
   return computeHealthTaskPointsForWindow(
     {
       activeSources: toDos
-        .filter((values) => (values[TO_DO_VALUE] ?? values[TO_DO_VALUE_SLUG]) === HEALTH_VALUE_SLUG)
+        .filter((values) => values[TO_DO_VALUE] === HEALTH_VALUE_SLUG)
         .map((values) => ({
           slug: values[TO_DO_SLUG],
           completedAt: values[TO_DO_LAST_COMPLETED_AT],
