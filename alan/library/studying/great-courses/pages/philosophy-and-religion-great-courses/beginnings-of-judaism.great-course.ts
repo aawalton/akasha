@@ -9,7 +9,7 @@ export const beginningsOfJudaism = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 246.4,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "beginnings-of-judaism",
   externalLink: "https://www.thegreatcoursesplus.com/beginnings-of-judaism",

@@ -10,7 +10,7 @@ export const pompeiiDailyLifeInAnAncientRomanCity = {
   unitSlug: "minutes",
   ownLength: 705.6,
   ownProgress: 705.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "learning-paths-great-courses",

@@ -10,7 +10,7 @@ export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   unitSlug: "minutes",
   ownLength: 39,
   ownProgress: 39,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

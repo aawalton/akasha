@@ -10,7 +10,7 @@ export const theArtOfStorytellingFromParentsToProfessionals = {
   unitSlug: "minutes",
   ownLength: 753.6,
   ownProgress: 753.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

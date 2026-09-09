@@ -9,7 +9,7 @@ export const exploringMetaphysics2ndEdition = {
   unitSlug: "minutes",
   ownLength: 30,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "exploring-metaphysics-2nd-edition",
   externalLink: "https://plus.thegreatcourses.com/exploring-metaphysics-2nd-edition",

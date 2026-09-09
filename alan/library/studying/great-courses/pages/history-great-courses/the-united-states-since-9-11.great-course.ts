@@ -10,7 +10,7 @@ export const theUnitedStatesSince911 = {
   unitSlug: "minutes",
   ownLength: 73.2,
   ownProgress: 73.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-united-states-since-911",
   externalLink: "https://www.thegreatcoursesplus.com/the-united-states-since-911",

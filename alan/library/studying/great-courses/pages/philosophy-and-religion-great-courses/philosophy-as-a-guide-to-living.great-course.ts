@@ -9,7 +9,7 @@ export const philosophyAsAGuideToLiving = {
   unitSlug: "minutes",
   ownLength: 739.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "philosophy-as-a-guide-to-living",
   externalLink: "https://www.thegreatcoursesplus.com/philosophy-as-a-guide-to-living",

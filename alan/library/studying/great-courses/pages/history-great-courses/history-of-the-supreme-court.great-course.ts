@@ -10,7 +10,7 @@ export const historyOfTheSupremeCourt = {
   unitSlug: "minutes",
   ownLength: 1089,
   ownProgress: 1089,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

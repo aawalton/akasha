@@ -9,7 +9,7 @@ export const worldWarIThe = {
   unitSlug: "minutes",
   ownLength: 1120.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "world-war-i-the-great-war",
   externalLink: "https://www.thegreatcoursesplus.com/world-war-i-the-great-war",

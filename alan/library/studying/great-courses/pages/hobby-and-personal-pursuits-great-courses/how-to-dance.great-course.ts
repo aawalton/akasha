@@ -10,7 +10,7 @@ export const howToDance = {
   unitSlug: "minutes",
   ownLength: 477,
   ownProgress: 477,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

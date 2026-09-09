@@ -10,7 +10,7 @@ export const pilotLectureThinkingAboutIndigenousCulturesOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

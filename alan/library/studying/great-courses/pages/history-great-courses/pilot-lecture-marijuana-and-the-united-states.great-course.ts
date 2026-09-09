@@ -10,7 +10,7 @@ export const pilotLectureMarijuanaAndTheUnitedStates = {
   unitSlug: "minutes",
   ownLength: 31.8,
   ownProgress: 31.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-marijuana-and-the-united-states",
   externalLink:

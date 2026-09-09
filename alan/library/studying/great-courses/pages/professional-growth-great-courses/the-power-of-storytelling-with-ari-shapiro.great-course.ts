@@ -9,7 +9,7 @@ export const thePowerOfStorytellingWithAriShapiro = {
   unitSlug: "minutes",
   ownLength: 379.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "the-power-of-storytelling-with-ari-shapiro",
   externalLink: "https://www.thegreatcoursesplus.com/the-power-of-storytelling-with-ari-shapiro",

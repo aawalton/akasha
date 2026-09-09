@@ -10,11 +10,7 @@ export const greatCourse1066TheYearThatChangedEverything = {
   unitSlug: "minutes",
   ownLength: 204,
   ownProgress: 204,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "1066-the-year-that-changed-everything",
   externalLink: "https://www.thegreatcoursesplus.com/1066-the-year-that-changed-everything",

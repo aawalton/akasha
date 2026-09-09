@@ -10,7 +10,7 @@ export const reporting911AndWhyItStillMatters = {
   unitSlug: "minutes",
   ownLength: 121.2,
   ownProgress: 121.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "reporting-9-11-and-why-it-still-matters",
   externalLink: "https://www.thegreatcoursesplus.com/reporting-9-11-and-why-it-still-matters",

@@ -9,7 +9,7 @@ export const greatMusicOfThe20thCentury = {
   unitSlug: "minutes",
   ownLength: 1091.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "great-music-of-the-20th-century",
   externalLink: "https://www.thegreatcoursesplus.com/great-music-of-the-20th-century",

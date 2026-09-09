@@ -10,7 +10,7 @@ export const gnosticismFromNagHammadiToTheGospelOfJudas = {
   unitSlug: "minutes",
   ownLength: 778.2,
   ownProgress: 778.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

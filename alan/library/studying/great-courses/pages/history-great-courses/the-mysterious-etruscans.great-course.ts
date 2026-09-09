@@ -9,11 +9,7 @@ export const theMysteriousEtruscans = {
   unitSlug: "minutes",
   ownLength: 759,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "the-mysterious-etruscans",
   externalLink: "https://www.thegreatcoursesplus.com/the-mysterious-etruscans",

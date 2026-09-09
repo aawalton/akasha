@@ -10,7 +10,7 @@ export const theBrainBasedGuideToCommunicatingBetter = {
   unitSlug: "minutes",
   ownLength: 181.2,
   ownProgress: 181.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

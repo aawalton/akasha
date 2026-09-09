@@ -9,7 +9,7 @@ export const theUsConstitutionThroughHistory = {
   unitSlug: "minutes",
   ownLength: 856.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-us-constitution-through-history",
   externalLink: "https://www.thegreatcoursesplus.com/the-us-constitution-through-history",

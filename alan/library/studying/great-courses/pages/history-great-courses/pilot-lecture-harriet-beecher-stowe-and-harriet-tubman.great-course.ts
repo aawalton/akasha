@@ -10,7 +10,7 @@ export const pilotLectureHarrietBeecherStoweAndHarrietTubman = {
   unitSlug: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "harriet-beecher-stowe-and-harriet-tubman",
   externalLink: "https://www.thegreatcoursesplus.com/harriet-beecher-stowe-and-harriet-tubman",

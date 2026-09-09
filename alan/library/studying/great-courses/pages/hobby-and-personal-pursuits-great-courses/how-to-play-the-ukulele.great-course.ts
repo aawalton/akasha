@@ -9,7 +9,7 @@ export const howToPlayTheUkulele = {
   unitSlug: "minutes",
   ownLength: 386.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

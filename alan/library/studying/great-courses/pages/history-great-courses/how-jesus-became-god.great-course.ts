@@ -10,7 +10,7 @@ export const howJesusBecameGod = {
   unitSlug: "minutes",
   ownLength: 751.8,
   ownProgress: 751.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

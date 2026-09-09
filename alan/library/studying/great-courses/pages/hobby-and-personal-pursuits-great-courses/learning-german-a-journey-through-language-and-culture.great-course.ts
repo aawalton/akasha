@@ -10,7 +10,7 @@ export const learningGermanAJourneyThroughLanguageAndCulture = {
   unitSlug: "minutes",
   ownLength: 816,
   ownProgress: 816,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

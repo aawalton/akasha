@@ -9,7 +9,7 @@ export const socialMedia101 = {
   unitSlug: "minutes",
   ownLength: 360.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "social-media-101",
   externalLink: "https://www.thegreatcoursesplus.com/social-media-101",

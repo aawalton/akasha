@@ -9,7 +9,7 @@ export const concertMasterworks = {
   unitSlug: "minutes",
   ownLength: 1479.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "concert-masterworks",
   externalLink: "https://www.thegreatcoursesplus.com/concert-masterworks",

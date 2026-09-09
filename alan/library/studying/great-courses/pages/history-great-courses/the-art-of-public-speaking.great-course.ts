@@ -9,7 +9,7 @@ export const theArtOfPublicSpeaking = {
   unitSlug: "minutes",
   ownLength: 376.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "literature-great-courses",

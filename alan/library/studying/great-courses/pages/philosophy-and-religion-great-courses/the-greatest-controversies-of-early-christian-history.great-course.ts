@@ -9,7 +9,7 @@ export const theGreatestControversiesOfEarlyChristianHistory = {
   unitSlug: "minutes",
   ownLength: 682.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-greatest-controversies-of-early-christian-history",
   externalLink:

@@ -10,7 +10,7 @@ export const pilotLectureHowToUseProbabilityToWinGamesOfStrategy = {
   unitSlug: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-how-to-use-probability-to-win-games-of-strategy",
   externalLink:

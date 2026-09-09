@@ -9,7 +9,7 @@ export const masterpiecesOfTheImaginativeMindLiteratureSMostFantasticWorks = {
   unitSlug: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "masterpieces-of-the-imaginative-mind-literatures-most-fantastic-works",
   externalLink:

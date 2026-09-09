@@ -9,7 +9,7 @@ export const theAmericanWestHistoryMythAndLegacy = {
   unitSlug: "minutes",
   ownLength: 727.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-american-west-history-myth-and-legacy",
   externalLink: "https://www.thegreatcoursesplus.com/the-american-west-history-myth-and-legacy",

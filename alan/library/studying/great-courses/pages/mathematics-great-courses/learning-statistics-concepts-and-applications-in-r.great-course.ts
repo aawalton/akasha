@@ -9,7 +9,7 @@ export const learningStatisticsConceptsAndApplicationsInR = {
   unitSlug: "minutes",
   ownLength: 708.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "learning-statistics-concepts-and-applications-in-r",
   externalLink:

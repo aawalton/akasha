@@ -10,7 +10,7 @@ export const dogTraining101 = {
   unitSlug: "minutes",
   ownLength: 755.4,
   ownProgress: 755.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "dog-training-101",
   externalLink: "https://www.thegreatcoursesplus.com/dog-training-101",

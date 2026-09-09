@@ -10,7 +10,7 @@ export const greatCourse10GreatWhatIfsOfAmericanHistory = {
   unitSlug: "minutes",
   ownLength: 253.8,
   ownProgress: 253.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "10-great-what-ifs-of-american-history",
   externalLink: "https://www.thegreatcoursesplus.com/10-great-what-ifs-of-american-history",

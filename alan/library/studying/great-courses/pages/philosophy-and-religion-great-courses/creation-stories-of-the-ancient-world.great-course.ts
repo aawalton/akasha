@@ -10,7 +10,7 @@ export const creationStoriesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 300,
   ownProgress: 300,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "creation-stories-of-the-ancient-world",
   externalLink: "https://www.thegreatcoursesplus.com/creation-stories-of-the-ancient-world",

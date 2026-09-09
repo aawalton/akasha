@@ -9,7 +9,7 @@ export const howTheCrusadesChangedHistory = {
   unitSlug: "minutes",
   ownLength: 686.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "how-the-crusades-changed-history",
   externalLink: "https://www.thegreatcoursesplus.com/how-the-crusades-changed-history",

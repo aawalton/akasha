@@ -10,7 +10,7 @@ export const algebraI = {
   unitSlug: "minutes",
   ownLength: 1110.6,
   ownProgress: 1110.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "mathematics-great-courses",

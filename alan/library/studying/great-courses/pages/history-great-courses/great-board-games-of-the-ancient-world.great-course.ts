@@ -10,7 +10,7 @@ export const greatBoardGamesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 382.2,
   ownProgress: 382.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

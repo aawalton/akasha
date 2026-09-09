@@ -9,7 +9,7 @@ export const mrLincolnTheLifeOfAbrahamLincoln = {
   unitSlug: "minutes",
   ownLength: 366.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "mr-lincoln-the-life-of-abraham-lincoln",
   externalLink: "https://www.thegreatcoursesplus.com/mr-lincoln-the-life-of-abraham-lincoln",

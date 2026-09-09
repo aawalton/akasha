@@ -10,7 +10,7 @@ export const pilotLectureAlaricTheGothAndTheSackOfRome = {
   unitSlug: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-alaric-the-goth-and-the-sack-of-rome",
   externalLink:

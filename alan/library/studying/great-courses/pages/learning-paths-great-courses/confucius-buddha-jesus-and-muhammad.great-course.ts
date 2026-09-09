@@ -9,7 +9,7 @@ export const confuciusBuddhaJesusAndMuhammad = {
   unitSlug: "minutes",
   ownLength: 1140.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "literature-great-courses",

@@ -10,11 +10,7 @@ export const einsteinSRelativityAndTheQuantumRevolutionModernPhysicsForNo = {
   unitSlug: "minutes",
   ownLength: 732,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId:
     "einstein-s-relativity-and-the-quantum-revolution-modern-physics-for-non-scientists-2nd-edition",

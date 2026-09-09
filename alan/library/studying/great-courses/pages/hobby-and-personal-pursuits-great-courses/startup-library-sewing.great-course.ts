@@ -10,7 +10,7 @@ export const startupLibrarySewing = {
   unitSlug: "minutes",
   ownLength: 328.2,
   ownProgress: 328.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "startup-library-sewing",
   externalLink: "https://www.thegreatcoursesplus.com/startup-library-sewing",

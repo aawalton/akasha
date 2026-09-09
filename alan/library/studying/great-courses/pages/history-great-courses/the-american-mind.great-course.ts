@@ -9,7 +9,7 @@ export const theAmericanMind = {
   unitSlug: "minutes",
   ownLength: 1115.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-american-mind",
   externalLink: "https://www.thegreatcoursesplus.com/the-american-mind",

@@ -9,7 +9,7 @@ export const theLifeAndWorksOfJaneAusten = {
   unitSlug: "minutes",
   ownLength: 703.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-life-and-works-of-jane-austen",
   externalLink: "https://www.thegreatcoursesplus.com/the-life-and-works-of-jane-austen",

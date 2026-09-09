@@ -10,7 +10,7 @@ export const renaissanceTheTransformationOfTheWest = {
   unitSlug: "minutes",
   ownLength: 1596.6,
   ownProgress: 1596.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "renaissance-the-transformation-of-the-west",
   externalLink: "https://www.thegreatcoursesplus.com/renaissance-the-transformation-of-the-west",

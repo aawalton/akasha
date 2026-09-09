@@ -10,7 +10,7 @@ export const historyOfTheAncientWorldAGlobalPerspective = {
   unitSlug: "minutes",
   ownLength: 1462.2,
   ownProgress: 1462.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "history-of-the-ancient-world-a-global-perspective",
   externalLink:

@@ -10,7 +10,7 @@ export const ourNightSky = {
   unitSlug: "minutes",
   ownLength: 386.4,
   ownProgress: 386.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "learning-paths-great-courses",

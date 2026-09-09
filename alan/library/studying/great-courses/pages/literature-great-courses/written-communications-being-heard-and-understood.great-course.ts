@@ -9,7 +9,7 @@ export const writtenCommunicationsBeingHeardAndUnderstood = {
   unitSlug: "minutes",
   ownLength: 383.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

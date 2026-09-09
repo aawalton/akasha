@@ -9,7 +9,7 @@ export const imaginingTomorrowSEntertainment = {
   unitSlug: "minutes",
   ownLength: 249,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "imagining-tomorrow-s-entertainment",
   externalLink: "https://www.thegreatcoursesplus.com/imagining-tomorrow-s-entertainment",

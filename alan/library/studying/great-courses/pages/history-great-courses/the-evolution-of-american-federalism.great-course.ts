@@ -9,7 +9,7 @@ export const theEvolutionOfAmericanFederalism = {
   unitSlug: "minutes",
   ownLength: 748.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-evolution-of-american-federalism",
   externalLink: "https://www.thegreatcoursesplus.com/the-evolution-of-american-federalism",

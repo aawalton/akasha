@@ -9,7 +9,7 @@ export const theHistoryOfAncientRome = {
   unitSlug: "minutes",
   ownLength: 1451.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-history-of-ancient-rome",
   externalLink: "https://www.thegreatcoursesplus.com/the-history-of-ancient-rome",

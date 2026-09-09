@@ -9,7 +9,7 @@ export const ordinaryAmericansInTheRevolution = {
   unitSlug: "minutes",
   ownLength: 702,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "ordinary-americans-in-the-revolution",
   externalLink: "https://www.thegreatcoursesplus.com/ordinary-americans-in-the-revolution",

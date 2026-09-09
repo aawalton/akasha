@@ -9,7 +9,7 @@ export const theFallOfThePagansAndTheOriginsOfMedievalChristianity = {
   unitSlug: "minutes",
   ownLength: 752.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-fall-of-the-pagans-and-the-origins-of-medieval-christianity",
   externalLink:

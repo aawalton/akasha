@@ -10,7 +10,7 @@ export const mastersOfWarHistorySGreatestStrategicThinkers = {
   unitSlug: "minutes",
   ownLength: 747.6,
   ownProgress: 747.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "professional-growth-great-courses",

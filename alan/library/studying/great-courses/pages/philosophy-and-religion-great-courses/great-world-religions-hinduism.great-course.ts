@@ -9,7 +9,7 @@ export const greatWorldReligionsHinduism = {
   unitSlug: "minutes",
   ownLength: 361.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "great-world-religions-hinduism",
   externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-hinduism",

@@ -9,7 +9,7 @@ export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
   unitSlug: "minutes",
   ownLength: 308.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
   externalLink:

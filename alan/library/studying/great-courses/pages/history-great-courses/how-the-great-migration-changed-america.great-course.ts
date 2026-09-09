@@ -9,7 +9,7 @@ export const howTheGreatMigrationChangedAmerica = {
   unitSlug: "minutes",
   ownLength: 344.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "how-the-great-migration-changed-america",
   externalLink: "https://www.thegreatcoursesplus.com/how-the-great-migration-changed-america",

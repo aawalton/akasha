@@ -9,7 +9,7 @@ export const storyOfTheBible = {
   unitSlug: "minutes",
   ownLength: 723,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

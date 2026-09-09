@@ -9,7 +9,7 @@ export const theDeadSeaScrolls = {
   unitSlug: "minutes",
   ownLength: 735.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

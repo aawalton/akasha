@@ -9,7 +9,7 @@ export const theLivesOfGreatChristians = {
   unitSlug: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-lives-of-great-christians",
   externalLink: "https://www.thegreatcoursesplus.com/the-lives-of-great-christians",

@@ -10,11 +10,7 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   unitSlug: "minutes",
   ownLength: 165.6,
   ownProgress: 165.6,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "the-black-death-new-lessons-from-recent-research",
   externalLink:

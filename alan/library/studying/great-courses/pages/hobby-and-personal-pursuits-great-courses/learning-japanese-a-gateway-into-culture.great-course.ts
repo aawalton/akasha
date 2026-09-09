@@ -10,7 +10,7 @@ export const learningJapaneseAGatewayIntoCulture = {
   unitSlug: "minutes",
   ownLength: 1006.2,
   ownProgress: 1006.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "travel-and-culture-great-courses",

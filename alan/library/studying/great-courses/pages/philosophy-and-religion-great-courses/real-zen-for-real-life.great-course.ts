@@ -9,7 +9,7 @@ export const realZenForRealLife = {
   unitSlug: "minutes",
   ownLength: 886.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "real-zen-for-real-life",
   externalLink: "https://www.thegreatcoursesplus.com/real-zen-for-real-life",

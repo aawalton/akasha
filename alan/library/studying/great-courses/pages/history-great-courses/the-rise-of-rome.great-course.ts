@@ -10,11 +10,7 @@ export const theRiseOfRome = {
   unitSlug: "minutes",
   ownLength: 733.8,
   ownProgress: 733.8,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "rise-of-rome",
   externalLink: "https://www.thegreatcoursesplus.com/rise-of-rome",

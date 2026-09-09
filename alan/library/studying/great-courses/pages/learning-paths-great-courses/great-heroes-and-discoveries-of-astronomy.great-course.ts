@@ -9,11 +9,7 @@ export const greatHeroesAndDiscoveriesOfAstronomy = {
   unitSlug: "minutes",
   ownLength: 640.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "great-heroes-and-discoveries-of-astronomy",
   externalLink: "https://www.thegreatcoursesplus.com/great-heroes-and-discoveries-of-astronomy",

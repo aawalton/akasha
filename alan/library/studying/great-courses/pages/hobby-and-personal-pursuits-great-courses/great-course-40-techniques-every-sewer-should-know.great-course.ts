@@ -10,7 +10,7 @@ export const greatCourse40TechniquesEverySewerShouldKnow = {
   unitSlug: "minutes",
   ownLength: 256.2,
   ownProgress: 256.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "40-techniques-every-sewer-should-know",
   externalLink: "https://www.thegreatcoursesplus.com/40-techniques-every-sewer-should-know",

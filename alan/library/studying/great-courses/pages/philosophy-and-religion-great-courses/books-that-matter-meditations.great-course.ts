@@ -9,7 +9,7 @@ export const booksThatMatterMeditations = {
   unitSlug: "minutes",
   ownLength: 362.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "books-that-matter-meditations",
   externalLink: "https://www.thegreatcoursesplus.com/books-that-matter-meditations",

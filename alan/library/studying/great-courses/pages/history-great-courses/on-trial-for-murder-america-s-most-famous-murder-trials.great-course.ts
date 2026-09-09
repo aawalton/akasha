@@ -9,7 +9,7 @@ export const onTrialForMurderAmericaSMostFamousMurderTrials = {
   unitSlug: "minutes",
   ownLength: 308.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "on-trial-for-murder-america-s-most-famous-murder-trials",
   externalLink:

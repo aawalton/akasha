@@ -9,7 +9,7 @@ export const earlyModernPhilosophyDescartesAndTheRationalists = {
   unitSlug: "minutes",
   ownLength: 375.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "early-modern-philosophy-descartes-and-the-rationalists",
   externalLink:

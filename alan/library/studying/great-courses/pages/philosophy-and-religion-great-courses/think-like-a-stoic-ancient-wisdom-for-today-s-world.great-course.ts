@@ -9,7 +9,7 @@ export const thinkLikeAStoicAncientWisdomForTodaySWorld = {
   unitSlug: "minutes",
   ownLength: 669,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "think-like-a-stoic-ancient-wisdom-for-today-s-world",
   externalLink:

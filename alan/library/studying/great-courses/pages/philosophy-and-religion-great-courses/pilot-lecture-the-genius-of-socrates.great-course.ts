@@ -10,7 +10,7 @@ export const pilotLectureTheGeniusOfSocrates = {
   unitSlug: "minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-genius-of-socrates",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-genius-of-socrates",

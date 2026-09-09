@@ -9,7 +9,7 @@ export const tibetHistoryCultureAndReligion = {
   unitSlug: "minutes",
   ownLength: 528.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "tibet-history-culture-and-religion",
   externalLink: "https://www.thegreatcoursesplus.com/tibet-history-culture-and-religion",

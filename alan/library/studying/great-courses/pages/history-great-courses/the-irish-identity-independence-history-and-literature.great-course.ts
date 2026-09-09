@@ -9,7 +9,7 @@ export const theIrishIdentityIndependenceHistoryAndLiterature = {
   unitSlug: "minutes",
   ownLength: 1124.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-irish-identity-independence-history-and-literature",
   externalLink:

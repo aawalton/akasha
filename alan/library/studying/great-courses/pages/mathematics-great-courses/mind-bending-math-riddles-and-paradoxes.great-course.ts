@@ -9,7 +9,7 @@ export const mindBendingMathRiddlesAndParadoxes = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "mind-bending-math-riddles-and-paradoxes",
   externalLink: "https://www.thegreatcoursesplus.com/mind-bending-math-riddles-and-paradoxes",

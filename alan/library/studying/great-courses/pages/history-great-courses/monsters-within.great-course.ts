@@ -10,7 +10,7 @@ export const monstersWithin = {
   unitSlug: "minutes",
   ownLength: 104.4,
   ownProgress: 104.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

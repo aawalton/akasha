@@ -9,7 +9,7 @@ export const meteorologyAnIntroductionToTheWondersOfTheWeather = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

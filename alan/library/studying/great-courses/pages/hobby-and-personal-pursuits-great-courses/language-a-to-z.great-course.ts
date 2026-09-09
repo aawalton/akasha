@@ -10,7 +10,7 @@ export const languageAToZ = {
   unitSlug: "minutes",
   ownLength: 374.4,
   ownProgress: 374.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

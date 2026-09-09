@@ -9,7 +9,7 @@ export const mathematicsPhilosophyAndTheRealWorld = {
   unitSlug: "minutes",
   ownLength: 1109.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "mathematics-philosophy-and-the-real-world",
   externalLink: "https://www.thegreatcoursesplus.com/mathematics-philosophy-and-the-real-world",

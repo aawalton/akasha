@@ -10,7 +10,7 @@ export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   unitSlug: "minutes",
   ownLength: 653.4,
   ownProgress: 653.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
   externalLink:

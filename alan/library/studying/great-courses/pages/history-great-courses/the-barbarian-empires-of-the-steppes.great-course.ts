@@ -10,7 +10,7 @@ export const theBarbarianEmpiresOfTheSteppes = {
   unitSlug: "minutes",
   ownLength: 1107,
   ownProgress: 1107,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-barbarian-empires-of-the-steppes",
   externalLink: "https://www.thegreatcoursesplus.com/the-barbarian-empires-of-the-steppes",

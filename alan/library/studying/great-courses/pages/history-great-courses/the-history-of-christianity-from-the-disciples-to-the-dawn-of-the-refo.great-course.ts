@@ -9,7 +9,7 @@ export const theHistoryOfChristianityFromTheDisciplesToTheDawnOfTheRefo = {
   unitSlug: "minutes",
   ownLength: 1071,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

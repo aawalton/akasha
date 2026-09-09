@@ -9,7 +9,7 @@ export const howToListenToAndUnderstandOpera = {
   unitSlug: "minutes",
   ownLength: 1464.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-listen-to-and-understand-opera",
   externalLink: "https://www.thegreatcoursesplus.com/how-to-listen-to-and-understand-opera",

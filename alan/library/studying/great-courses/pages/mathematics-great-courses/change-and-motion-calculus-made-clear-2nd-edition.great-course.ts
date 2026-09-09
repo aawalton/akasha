@@ -9,11 +9,7 @@ export const changeAndMotionCalculusMadeClear2ndEdition = {
   unitSlug: "minutes",
   ownLength: 750,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "mathematics-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "change-and-motion-calculus-made-clear-2nd-edition",
   externalLink:

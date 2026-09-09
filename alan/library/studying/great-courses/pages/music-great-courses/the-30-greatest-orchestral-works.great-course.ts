@@ -9,7 +9,7 @@ export const the30GreatestOrchestralWorks = {
   unitSlug: "minutes",
   ownLength: 1491,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "the-30-greatest-orchestral-works",
   externalLink: "https://www.thegreatcoursesplus.com/the-30-greatest-orchestral-works",

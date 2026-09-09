@@ -10,7 +10,7 @@ export const thisDayInHistoryFebruary = {
   unitSlug: "minutes",
   ownLength: 84,
   ownProgress: 84,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "this-day-in-history-february",
   externalLink: "https://www.thegreatcoursesplus.com/this-day-in-history-february",

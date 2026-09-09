@@ -9,7 +9,7 @@ export const learningJavaProgramming = {
   unitSlug: "minutes",
   ownLength: 505.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "learning-java-programming",
   externalLink: "https://www.thegreatcoursesplus.com/learning-java-programming",

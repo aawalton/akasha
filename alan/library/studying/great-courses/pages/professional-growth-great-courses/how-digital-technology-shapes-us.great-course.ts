@@ -9,7 +9,7 @@ export const howDigitalTechnologyShapesUs = {
   unitSlug: "minutes",
   ownLength: 643.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

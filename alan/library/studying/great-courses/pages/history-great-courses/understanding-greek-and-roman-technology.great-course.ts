@@ -10,7 +10,7 @@ export const understandingGreekAndRomanTechnology = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 740.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-greek-and-roman-technology",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-greek-and-roman-technology",

@@ -9,7 +9,7 @@ export const greatWorldReligionsIslam = {
   unitSlug: "minutes",
   ownLength: 367.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "great-world-religions-islam",
   externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-islam",

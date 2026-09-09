@@ -10,7 +10,7 @@ export const theGreatToursFranceThroughTheAges = {
   unitSlug: "minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

@@ -10,7 +10,7 @@ export const buildingABetterVocabulary = {
   unitSlug: "minutes",
   ownLength: 1131,
   ownProgress: 1131,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

@@ -10,7 +10,7 @@ export const theRealAncientEgypt = {
   unitSlug: "minutes",
   ownLength: 235.2,
   ownProgress: 235.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-real-ancient-egypt",
   externalLink: "https://www.thegreatcoursesplus.com/the-real-ancient-egypt",

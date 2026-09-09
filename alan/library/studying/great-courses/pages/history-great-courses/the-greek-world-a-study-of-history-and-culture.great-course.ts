@@ -10,7 +10,7 @@ export const theGreekWorldAStudyOfHistoryAndCulture = {
   unitSlug: "minutes",
   ownLength: 770.4,
   ownProgress: 770.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-greek-world-a-study-of-history-and-culture",
   externalLink:

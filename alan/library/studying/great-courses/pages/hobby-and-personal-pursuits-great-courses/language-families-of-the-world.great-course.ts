@@ -10,7 +10,7 @@ export const languageFamiliesOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 957,
   ownProgress: 957,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

@@ -10,7 +10,7 @@ export const jewishIntellectualHistory16thTo20thCentury = {
   unitSlug: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

@@ -9,7 +9,7 @@ export const howToTurnYourPassionIntoProfit = {
   unitSlug: "minutes",
   ownLength: 583.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-turn-your-passion-into-profit",
   externalLink: "https://www.thegreatcoursesplus.com/how-to-turn-your-passion-into-profit",

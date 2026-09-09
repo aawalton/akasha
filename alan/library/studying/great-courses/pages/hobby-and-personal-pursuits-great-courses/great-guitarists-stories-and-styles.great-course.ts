@@ -10,7 +10,7 @@ export const greatGuitaristsStoriesAndStyles = {
   unitSlug: "minutes",
   ownLength: 153,
   ownProgress: 153,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

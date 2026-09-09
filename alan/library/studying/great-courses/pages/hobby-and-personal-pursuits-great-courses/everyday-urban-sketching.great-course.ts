@@ -10,7 +10,7 @@ export const everydayUrbanSketching = {
   unitSlug: "minutes",
   ownLength: 719.4,
   ownProgress: 719.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "everyday-urban-sketching",
   externalLink: "https://www.thegreatcoursesplus.com/everyday-urban-sketching",

@@ -9,11 +9,7 @@ export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
   unitSlug: "minutes",
   ownLength: 724.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "black-holes-tides-and-curved-spacetime-understanding-gravity",
   externalLink:

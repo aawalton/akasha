@@ -9,7 +9,7 @@ export const understandingTheNewTestament = {
   unitSlug: "minutes",
   ownLength: 729,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-new-testament",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-new-testament",

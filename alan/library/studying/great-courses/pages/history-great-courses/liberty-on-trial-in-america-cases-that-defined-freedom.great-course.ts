@@ -9,7 +9,7 @@ export const libertyOnTrialInAmericaCasesThatDefinedFreedom = {
   unitSlug: "minutes",
   ownLength: 717,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "liberty-on-trial-in-america-cases-that-defined-freedom",
   externalLink:

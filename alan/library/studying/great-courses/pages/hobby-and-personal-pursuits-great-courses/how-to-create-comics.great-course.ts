@@ -9,7 +9,7 @@ export const howToCreateComics = {
   unitSlug: "minutes",
   ownLength: 310.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-create-comics",
   externalLink: "https://www.thegreatcoursesplus.com/how-to-create-comics",

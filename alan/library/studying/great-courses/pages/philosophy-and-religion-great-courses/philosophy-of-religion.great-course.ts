@@ -9,7 +9,7 @@ export const philosophyOfReligion = {
   unitSlug: "minutes",
   ownLength: 1097.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "philosophy-of-religion",
   externalLink: "https://www.thegreatcoursesplus.com/philosophy-of-religion",

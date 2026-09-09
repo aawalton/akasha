@@ -9,11 +9,7 @@ export const theBigBangAndBeyondExploringTheEarlyUniverse = {
   unitSlug: "minutes",
   ownLength: 372,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-big-bang-and-beyond-exploring-the-early-universe",
   externalLink:

@@ -10,7 +10,7 @@ export const pilotLectureDoComputersUnderstandEnglish = {
   unitSlug: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "do-computers-understand-english",
   externalLink: "https://www.thegreatcoursesplus.com/do-computers-understand-english",

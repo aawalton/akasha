@@ -10,7 +10,7 @@ export const kingArthurHistoryAndLegend = {
   unitSlug: "minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "king-arthur-history-and-legend",
   externalLink: "https://www.thegreatcoursesplus.com/king-arthur-history-and-legend",

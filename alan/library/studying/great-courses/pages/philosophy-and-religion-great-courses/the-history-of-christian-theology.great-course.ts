@@ -9,7 +9,7 @@ export const theHistoryOfChristianTheology = {
   unitSlug: "minutes",
   ownLength: 1132.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-history-of-christian-theology",
   externalLink: "https://www.thegreatcoursesplus.com/the-history-of-christian-theology",

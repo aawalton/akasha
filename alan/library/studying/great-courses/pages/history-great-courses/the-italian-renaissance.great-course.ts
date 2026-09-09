@@ -9,7 +9,7 @@ export const theItalianRenaissance = {
   unitSlug: "minutes",
   ownLength: 1091.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-italian-renaissance",
   externalLink: "https://www.thegreatcoursesplus.com/the-italian-renaissance",

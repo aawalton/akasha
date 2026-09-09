@@ -10,7 +10,7 @@ export const goingToTheDevilTheImpeachmentOf1868 = {
   unitSlug: "minutes",
   ownLength: 60,
   ownProgress: 60,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "going-to-the-devil-the-impeachment-of-1868",
   externalLink: "https://www.thegreatcoursesplus.com/going-to-the-devil-the-impeachment-of-1868",

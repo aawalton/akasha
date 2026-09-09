@@ -10,7 +10,7 @@ export const pilotLectureTheTimuridEmpire = {
   unitSlug: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-the-timurid-empire",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-timurid-empire",

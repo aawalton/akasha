@@ -10,7 +10,7 @@ export const greatAncientCivilizationsOfAsiaMinor = {
   unitSlug: "minutes",
   ownLength: 720,
   ownProgress: 720,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "great-ancient-civilizations-of-asia-minor",
   externalLink: "https://www.thegreatcoursesplus.com/great-ancient-civilizations-of-asia-minor",

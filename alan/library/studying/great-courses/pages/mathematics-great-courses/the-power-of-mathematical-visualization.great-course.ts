@@ -9,7 +9,7 @@ export const thePowerOfMathematicalVisualization = {
   unitSlug: "minutes",
   ownLength: 741.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-power-of-mathematical-visualization",
   externalLink: "https://www.thegreatcoursesplus.com/the-power-of-mathematical-visualization",

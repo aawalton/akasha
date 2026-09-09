@@ -10,7 +10,7 @@ export const patternmakingBasicsTheBodiceSloper = {
   unitSlug: "minutes",
   ownLength: 306,
   ownProgress: 306,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "patternmaking-basics-the-bodice-sloper",
   externalLink: "https://www.thegreatcoursesplus.com/patternmaking-basics-the-bodice-sloper",

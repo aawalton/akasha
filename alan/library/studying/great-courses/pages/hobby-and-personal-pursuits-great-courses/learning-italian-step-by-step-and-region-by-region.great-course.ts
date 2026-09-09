@@ -10,7 +10,7 @@ export const learningItalianStepByStepAndRegionByRegion = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "travel-and-culture-great-courses",

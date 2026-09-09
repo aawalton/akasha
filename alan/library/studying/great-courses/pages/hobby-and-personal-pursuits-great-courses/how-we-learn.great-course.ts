@@ -9,7 +9,7 @@ export const howWeLearn = {
   unitSlug: "minutes",
   ownLength: 702.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

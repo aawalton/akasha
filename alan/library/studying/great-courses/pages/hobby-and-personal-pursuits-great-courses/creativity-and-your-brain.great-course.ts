@@ -9,7 +9,7 @@ export const creativityAndYourBrain = {
   unitSlug: "minutes",
   ownLength: 599.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

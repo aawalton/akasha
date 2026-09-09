@@ -9,7 +9,7 @@ export const theoriesOfKnowledgeHowToThinkAboutWhatYouKnow = {
   unitSlug: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "professional-growth-great-courses",

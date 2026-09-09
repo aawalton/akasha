@@ -10,7 +10,7 @@ export const searchingForTheHistoricalJesus = {
   unitSlug: "minutes",
   ownLength: 324.6,
   ownProgress: 324.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "travel-and-culture-great-courses",

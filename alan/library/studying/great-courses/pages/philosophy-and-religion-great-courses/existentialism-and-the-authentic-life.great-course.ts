@@ -9,7 +9,7 @@ export const existentialismAndTheAuthenticLife = {
   unitSlug: "minutes",
   ownLength: 717.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "existentialism-and-the-authentic-life",
   externalLink: "https://www.thegreatcoursesplus.com/existentialism-and-the-authentic-life",

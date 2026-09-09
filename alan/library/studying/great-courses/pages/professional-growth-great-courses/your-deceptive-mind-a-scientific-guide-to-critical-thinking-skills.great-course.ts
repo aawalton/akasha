@@ -9,7 +9,7 @@ export const yourDeceptiveMindAScientificGuideToCriticalThinkingSkills = {
   unitSlug: "minutes",
   ownLength: 765,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

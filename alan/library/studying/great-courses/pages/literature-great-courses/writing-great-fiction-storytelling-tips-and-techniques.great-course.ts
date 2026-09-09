@@ -9,7 +9,7 @@ export const writingGreatFictionStorytellingTipsAndTechniques = {
   unitSlug: "minutes",
   ownLength: 737.4,
   ownProgress: 61.45,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "writing-great-fiction-storytelling-tips-and-techniques",
   externalLink:

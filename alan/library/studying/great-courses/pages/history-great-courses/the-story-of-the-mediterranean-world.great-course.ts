@@ -9,7 +9,7 @@ export const theStoryOfTheMediterraneanWorld = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-story-of-the-mediterranean-world",
   externalLink: "https://plus.thegreatcourses.com/the-story-of-the-mediterranean-world",

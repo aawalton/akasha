@@ -9,7 +9,7 @@ export const symphoniesOfBeethoven = {
   unitSlug: "minutes",
   ownLength: 1460.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "symphonies-of-beethoven",
   externalLink: "https://www.thegreatcoursesplus.com/symphonies-of-beethoven",

@@ -9,7 +9,7 @@ export const meaningOfLifePerspectivesFromTheWorldSGreatIntellectualTradi = {
   unitSlug: "minutes",
   ownLength: 1120.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",

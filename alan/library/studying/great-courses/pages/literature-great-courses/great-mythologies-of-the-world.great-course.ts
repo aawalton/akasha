@@ -9,7 +9,7 @@ export const greatMythologiesOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 1905.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "great-mythologies-of-the-world",
   externalLink: "https://www.thegreatcoursesplus.com/great-mythologies-of-the-world",

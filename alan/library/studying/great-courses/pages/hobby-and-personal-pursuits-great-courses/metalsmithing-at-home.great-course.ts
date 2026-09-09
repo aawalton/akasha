@@ -10,7 +10,7 @@ export const metalsmithingAtHome = {
   unitSlug: "minutes",
   ownLength: 404.4,
   ownProgress: 404.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "metalsmithing-at-home",
   externalLink: "https://www.thegreatcoursesplus.com/metalsmithing-at-home",

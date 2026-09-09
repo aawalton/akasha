@@ -10,7 +10,7 @@ export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   unitSlug: "minutes",
   ownLength: 145.8,
   ownProgress: 145.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "giftable-projects-zippered-bags-purse-organizer",
   externalLink:

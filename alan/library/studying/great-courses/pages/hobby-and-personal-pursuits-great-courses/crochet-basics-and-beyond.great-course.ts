@@ -10,7 +10,7 @@ export const crochetBasicsAndBeyond = {
   unitSlug: "minutes",
   ownLength: 209.4,
   ownProgress: 209.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "crochet-basics-and-beyond",
   externalLink: "https://www.thegreatcoursesplus.com/crochet-basics-and-beyond",

@@ -9,7 +9,7 @@ export const theHistoricalJesus = {
   unitSlug: "minutes",
   ownLength: 733.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-historical-jesus",
   externalLink: "https://www.thegreatcoursesplus.com/the-historical-jesus",

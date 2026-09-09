@@ -9,7 +9,7 @@ export const worldWarIiUpCloseAndPersonal = {
   unitSlug: "minutes",
   ownLength: 693,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "world-war-ii-up-close-and-personal",
   externalLink: "https://www.thegreatcoursesplus.com/world-war-ii-up-close-and-personal",

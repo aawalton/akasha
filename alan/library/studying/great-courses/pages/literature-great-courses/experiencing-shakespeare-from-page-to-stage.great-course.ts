@@ -9,7 +9,7 @@ export const experiencingShakespeareFromPageToStage = {
   unitSlug: "minutes",
   ownLength: 309.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "experiencing-shakespeare-from-page-to-stage",
   externalLink: "https://www.thegreatcoursesplus.com/experiencing-shakespeare-from-page-to-stage",

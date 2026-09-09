@@ -9,7 +9,7 @@ export const searchingForPeopleAndPlacesOfTheBible = {
   unitSlug: "minutes",
   ownLength: 480,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "searching-for-people-and-places-of-the-bible",
   externalLink: "https://www.thegreatcoursesplus.com/searching-for-people-and-places-of-the-bible",

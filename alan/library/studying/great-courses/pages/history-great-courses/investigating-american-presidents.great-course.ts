@@ -9,7 +9,7 @@ export const investigatingAmericanPresidents = {
   unitSlug: "minutes",
   ownLength: 413.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "investigating-american-presidents",
   externalLink: "https://www.thegreatcoursesplus.com/investigating-american-presidents",

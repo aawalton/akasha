@@ -9,7 +9,7 @@ export const proveItTheArtOfMathematicalArgument = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "prove-it-the-art-of-mathematical-argument",
   externalLink: "https://www.thegreatcoursesplus.com/prove-it-the-art-of-mathematical-argument",

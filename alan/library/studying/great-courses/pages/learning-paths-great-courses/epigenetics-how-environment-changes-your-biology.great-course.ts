@@ -9,11 +9,7 @@ export const epigeneticsHowEnvironmentChangesYourBiology = {
   unitSlug: "minutes",
   ownLength: 371.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "epigenetics-how-environment-changes-your-biology",
   externalLink:

@@ -10,7 +10,7 @@ export const aBrandCalledYou = {
   unitSlug: "minutes",
   ownLength: 287.4,
   ownProgress: 287.4,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "a-brand-called-you",
   externalLink: "https://www.thegreatcoursesplus.com/a-brand-called-you",

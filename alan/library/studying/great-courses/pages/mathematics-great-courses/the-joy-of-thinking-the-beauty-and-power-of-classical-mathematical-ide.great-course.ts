@@ -9,7 +9,7 @@ export const theJoyOfThinkingTheBeautyAndPowerOfClassicalMathematicalIde = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ideas",
   externalLink:

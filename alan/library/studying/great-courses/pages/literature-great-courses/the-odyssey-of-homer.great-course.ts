@@ -9,7 +9,7 @@ export const theOdysseyOfHomer = {
   unitSlug: "minutes",
   ownLength: 366,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-odyssey-of-homer",
   externalLink: "https://www.thegreatcoursesplus.com/the-odyssey-of-homer",

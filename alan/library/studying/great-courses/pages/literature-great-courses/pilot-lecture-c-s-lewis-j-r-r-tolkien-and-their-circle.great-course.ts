@@ -10,7 +10,7 @@ export const pilotLectureCSLewisJRRTolkienAndTheirCircle = {
   unitSlug: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-c-s-lewis-j-r-r-tolkien-and-their-circle",
   externalLink:

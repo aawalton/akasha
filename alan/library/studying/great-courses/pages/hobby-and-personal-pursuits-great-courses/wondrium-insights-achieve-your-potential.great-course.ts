@@ -9,7 +9,7 @@ export const wondriumInsightsAchieveYourPotential = {
   unitSlug: "minutes",
   ownLength: 199.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

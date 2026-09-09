@@ -10,7 +10,7 @@ export const woodturningBasicsSevenHandyKitchenItems = {
   unitSlug: "minutes",
   ownLength: 222,
   ownProgress: 222,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "woodturning-basics-seven-handy-kitchen-items",
   externalLink: "https://www.thegreatcoursesplus.com/woodturning-basics-seven-handy-kitchen-items",

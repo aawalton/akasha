@@ -10,7 +10,7 @@ export const boostingYourEmotionalIntelligence = {
   unitSlug: "minutes",
   ownLength: 773.4,
   ownProgress: 773.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

@@ -10,7 +10,7 @@ export const knitFasterWithContinentalKnitting = {
   unitSlug: "minutes",
   ownLength: 149.4,
   ownProgress: 149.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "knit-faster-with-continental-knitting",
   externalLink: "https://www.thegreatcoursesplus.com/knit-faster-with-continental-knitting",

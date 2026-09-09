@@ -9,7 +9,7 @@ export const theVikings = {
   unitSlug: "minutes",
   ownLength: 1108.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-vikings",
   externalLink: "https://www.thegreatcoursesplus.com/the-vikings",

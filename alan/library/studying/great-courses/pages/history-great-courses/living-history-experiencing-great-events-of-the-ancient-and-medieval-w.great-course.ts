@@ -10,7 +10,7 @@ export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
   unitSlug: "minutes",
   ownLength: 761.4,
   ownProgress: 761.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "living-history-experiencing-great-events-of-the-ancient-and-medieval-worlds",
   externalLink:

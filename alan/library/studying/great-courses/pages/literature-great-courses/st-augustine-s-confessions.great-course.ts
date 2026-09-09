@@ -9,7 +9,7 @@ export const stAugustineSConfessions = {
   unitSlug: "minutes",
   ownLength: 729.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

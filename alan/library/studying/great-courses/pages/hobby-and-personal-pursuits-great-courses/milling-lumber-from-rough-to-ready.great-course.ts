@@ -10,7 +10,7 @@ export const millingLumberFromRoughToReady = {
   unitSlug: "minutes",
   ownLength: 91.8,
   ownProgress: 91.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "milling-lumber-from-rough-to-ready",
   externalLink: "https://www.thegreatcoursesplus.com/milling-lumber-from-rough-to-ready",

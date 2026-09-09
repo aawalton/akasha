@@ -10,7 +10,7 @@ export const womenOfHistory = {
   unitSlug: "minutes",
   ownLength: 39,
   ownProgress: 39,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "women-of-history",
   externalLink: "https://www.thegreatcoursesplus.com/women-of-history",

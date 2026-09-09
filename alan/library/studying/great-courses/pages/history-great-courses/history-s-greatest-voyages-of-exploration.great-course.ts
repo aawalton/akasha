@@ -10,7 +10,7 @@ export const historySGreatestVoyagesOfExploration = {
   unitSlug: "minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "historys-greatest-voyages-of-exploration",
   externalLink: "https://www.thegreatcoursesplus.com/historys-greatest-voyages-of-exploration",

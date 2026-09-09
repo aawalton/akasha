@@ -10,7 +10,7 @@ export const finishItBordersBackingBindingAndBeyond = {
   unitSlug: "minutes",
   ownLength: 171.6,
   ownProgress: 171.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "finish-it-borders-backing-binding-beyond",
   externalLink: "https://www.thegreatcoursesplus.com/finish-it-borders-backing-binding-beyond",

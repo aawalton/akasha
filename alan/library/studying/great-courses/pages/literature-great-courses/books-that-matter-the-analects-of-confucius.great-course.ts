@@ -9,7 +9,7 @@ export const booksThatMatterTheAnalectsOfConfucius = {
   unitSlug: "minutes",
   ownLength: 718.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

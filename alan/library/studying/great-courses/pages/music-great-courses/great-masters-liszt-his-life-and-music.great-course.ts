@@ -9,7 +9,7 @@ export const greatMastersLisztHisLifeAndMusic = {
   unitSlug: "minutes",
   ownLength: 372.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "great-masters-liszt-his-life-and-music",
   externalLink: "https://www.thegreatcoursesplus.com/great-masters-liszt-his-life-and-music",

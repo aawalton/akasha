@@ -10,7 +10,7 @@ export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   unitSlug: "minutes",
   ownLength: 782.4,
   ownProgress: 782.4,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "banned-books-burned-books-forbidden-literary-works",
   externalLink:

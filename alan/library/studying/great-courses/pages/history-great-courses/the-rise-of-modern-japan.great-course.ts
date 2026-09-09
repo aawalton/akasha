@@ -10,7 +10,7 @@ export const theRiseOfModernJapan = {
   unitSlug: "minutes",
   ownLength: 353.4,
   ownProgress: 353.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-rise-of-modern-japan",
   externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-modern-japan",

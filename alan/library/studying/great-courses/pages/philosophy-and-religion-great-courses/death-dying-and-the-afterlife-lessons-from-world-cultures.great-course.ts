@@ -9,7 +9,7 @@ export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
   unitSlug: "minutes",
   ownLength: 753.6,
   ownProgress: 31.4,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "death-dying-and-the-afterlife-lessons-from-world-cultures",
   externalLink:

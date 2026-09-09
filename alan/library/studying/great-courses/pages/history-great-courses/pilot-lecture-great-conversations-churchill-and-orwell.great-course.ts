@@ -10,7 +10,7 @@ export const pilotLectureGreatConversationsChurchillAndOrwell = {
   unitSlug: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-great-conversations-churchill-and-orwell",
   externalLink:

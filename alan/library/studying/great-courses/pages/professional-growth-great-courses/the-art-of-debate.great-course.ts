@@ -9,7 +9,7 @@ export const theArtOfDebate = {
   unitSlug: "minutes",
   ownLength: 709.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "the-art-of-debate",
   externalLink: "https://www.thegreatcoursesplus.com/the-art-of-debate",

@@ -10,7 +10,7 @@ export const theRemarkableScienceOfAncientAstronomy = {
   unitSlug: "minutes",
   ownLength: 715.8,
   ownProgress: 715.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-remarkable-science-of-ancient-astronomy",
   externalLink: "https://www.thegreatcoursesplus.com/the-remarkable-science-of-ancient-astronomy",

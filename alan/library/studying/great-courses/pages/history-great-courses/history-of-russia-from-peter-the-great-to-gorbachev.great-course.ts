@@ -9,7 +9,7 @@ export const historyOfRussiaFromPeterTheGreatToGorbachev = {
   unitSlug: "minutes",
   ownLength: 1114.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "history-of-russia-from-peter-the-great-to-gorbachev",
   externalLink:

@@ -10,7 +10,7 @@ export const historyOfAncientEgypt = {
   unitSlug: "minutes",
   ownLength: 1450.8,
   ownProgress: 1450.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "history-of-ancient-egypt",
   externalLink: "https://www.thegreatcoursesplus.com/history-of-ancient-egypt",

@@ -9,7 +9,7 @@ export const warriorsQueensAndIntellectuals36GreatWomenBefore1400 = {
   unitSlug: "minutes",
   ownLength: 1078.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "warriors-queens-and-intellectuals-36-great-women-before-1400",
   externalLink:

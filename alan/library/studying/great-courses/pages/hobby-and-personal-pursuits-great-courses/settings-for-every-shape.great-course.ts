@@ -10,7 +10,7 @@ export const settingsForEveryShape = {
   unitSlug: "minutes",
   ownLength: 133.8,
   ownProgress: 133.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "settings-for-every-shape",
   externalLink: "https://www.thegreatcoursesplus.com/settings-for-every-shape",

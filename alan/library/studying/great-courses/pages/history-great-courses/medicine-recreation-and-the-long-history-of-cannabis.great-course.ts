@@ -9,7 +9,7 @@ export const medicineRecreationAndTheLongHistoryOfCannabis = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "medicine-recreation-and-the-long-history-of-cannabis",
   externalLink:

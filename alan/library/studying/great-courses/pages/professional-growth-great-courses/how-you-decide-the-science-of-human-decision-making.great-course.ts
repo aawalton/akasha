@@ -9,7 +9,7 @@ export const howYouDecideTheScienceOfHumanDecisionMaking = {
   unitSlug: "minutes",
   ownLength: 715.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

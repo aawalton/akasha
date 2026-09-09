@@ -10,7 +10,7 @@ export const pilotLectureCatherineTheGreat = {
   unitSlug: "minutes",
   ownLength: 23.4,
   ownProgress: 23.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-catherine-the-great",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-catherine-the-great",

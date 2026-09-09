@@ -9,7 +9,7 @@ export const theGreatRevolutionsOfModernHistory = {
   unitSlug: "minutes",
   ownLength: 768,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-revolutions-of-modern-history",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-revolutions-of-modern-history",

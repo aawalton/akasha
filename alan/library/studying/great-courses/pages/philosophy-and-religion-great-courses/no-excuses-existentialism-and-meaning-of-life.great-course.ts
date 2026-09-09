@@ -9,7 +9,7 @@ export const noExcusesExistentialismAndMeaningOfLife = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "no-excuses-existentialism-and-meaning-of-life",
   externalLink: "https://www.thegreatcoursesplus.com/no-excuses-existentialism-and-meaning-of-life",

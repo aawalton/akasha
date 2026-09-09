@@ -9,7 +9,7 @@ export const utopiaAndTerrorInThe20thCentury = {
   unitSlug: "minutes",
   ownLength: 746.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "utopia-and-terror-in-the-20th-century",
   externalLink: "https://www.thegreatcoursesplus.com/utopia-and-terror-in-the-20th-century",

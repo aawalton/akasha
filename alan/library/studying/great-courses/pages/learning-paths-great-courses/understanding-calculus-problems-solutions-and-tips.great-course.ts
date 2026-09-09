@@ -9,7 +9,7 @@ export const understandingCalculusProblemsSolutionsAndTips = {
   unitSlug: "minutes",
   ownLength: 1111.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "mathematics-great-courses",

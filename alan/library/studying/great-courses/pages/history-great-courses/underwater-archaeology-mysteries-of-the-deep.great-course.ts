@@ -9,7 +9,7 @@ export const underwaterArchaeologyMysteriesOfTheDeep = {
   unitSlug: "minutes",
   ownLength: 347.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "underwater-archaeology-mysteries-of-the-deep",
   externalLink: "https://www.thegreatcoursesplus.com/underwater-archaeology-mysteries-of-the-deep",

@@ -10,7 +10,7 @@ export const thePaganWorldAncientReligionsBeforeChristianity = {
   unitSlug: "minutes",
   ownLength: 754.8,
   ownProgress: 754.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "learning-paths-great-courses",

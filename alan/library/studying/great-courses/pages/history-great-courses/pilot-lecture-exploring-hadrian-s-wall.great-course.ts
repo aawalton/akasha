@@ -10,7 +10,7 @@ export const pilotLectureExploringHadrianSWall = {
   unitSlug: "minutes",
   ownLength: 24.6,
   ownProgress: 24.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-exploring-hadrian-s-wall",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-exploring-hadrian-s-wall",

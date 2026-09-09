@@ -10,7 +10,7 @@ export const professionalYarnDyeingAtHome = {
   unitSlug: "minutes",
   ownLength: 105.6,
   ownProgress: 105.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "professional-yarn-dyeing-at-home",
   externalLink: "https://www.thegreatcoursesplus.com/professional-yarn-dyeing-at-home",

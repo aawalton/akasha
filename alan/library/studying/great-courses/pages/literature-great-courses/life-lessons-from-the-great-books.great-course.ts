@@ -9,7 +9,7 @@ export const lifeLessonsFromTheGreatBooks = {
   unitSlug: "minutes",
   ownLength: 1091.4,
   ownProgress: 272.85,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

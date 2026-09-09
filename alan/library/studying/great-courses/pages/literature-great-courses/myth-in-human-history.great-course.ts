@@ -9,7 +9,7 @@ export const mythInHumanHistory = {
   unitSlug: "minutes",
   ownLength: 1101,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "myth-in-human-history",
   externalLink: "https://www.thegreatcoursesplus.com/myth-in-human-history",

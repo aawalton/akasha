@@ -9,7 +9,7 @@ export const theApocalypseControversiesAndMeaningInWesternHistory = {
   unitSlug: "minutes",
   ownLength: 744,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

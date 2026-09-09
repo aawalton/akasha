@@ -10,7 +10,7 @@ export const pilotLectureHistoryOfRace = {
   unitSlug: "minutes",
   ownLength: 37.8,
   ownProgress: 37.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "history-of-race",
   externalLink: "https://www.thegreatcoursesplus.com/history-of-race",

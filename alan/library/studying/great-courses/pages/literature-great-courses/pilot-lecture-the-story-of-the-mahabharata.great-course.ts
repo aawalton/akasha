@@ -10,7 +10,7 @@ export const pilotLectureTheStoryOfTheMahabharata = {
   unitSlug: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-the-story-of-mahabharata",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-story-of-mahabharata",

@@ -9,7 +9,7 @@ export const outdoorFundamentalsEverythingYouNeedToKnowToStaySafe = {
   unitSlug: "minutes",
   ownLength: 670.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "outdoor-fundamentals-everything-you-need-to-know-to-stay-safe",
   externalLink:

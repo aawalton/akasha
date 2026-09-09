@@ -9,7 +9,7 @@ export const bachAndTheHighBaroque = {
   unitSlug: "minutes",
   ownLength: 1499.4,
   ownProgress: 468.5625,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "bach-and-the-high-baroque",
   externalLink: "https://www.thegreatcoursesplus.com/bach-and-the-high-baroque",

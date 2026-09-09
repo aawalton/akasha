@@ -10,7 +10,7 @@ export const johnLewisWitnessToHistory = {
   unitSlug: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "john-lewis-witness-to-history",
   externalLink: "https://www.thegreatcoursesplus.com/john-lewis-witness-to-history",

@@ -9,7 +9,7 @@ export const nativePeoplesOfNorthAmerica = {
   unitSlug: "minutes",
   ownLength: 767.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "native-peoples-of-north-america",
   externalLink: "https://www.thegreatcoursesplus.com/native-peoples-of-north-america",

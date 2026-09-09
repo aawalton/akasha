@@ -9,7 +9,7 @@ export const integratingPhotoshopAndLightroom = {
   unitSlug: "minutes",
   ownLength: 87,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "integrating-photoshop-and-lightroom",
   externalLink: "https://www.thegreatcoursesplus.com/integrating-photoshop-and-lightroom",

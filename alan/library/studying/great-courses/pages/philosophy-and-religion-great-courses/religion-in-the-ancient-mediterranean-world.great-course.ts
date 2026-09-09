@@ -9,7 +9,7 @@ export const religionInTheAncientMediterraneanWorld = {
   unitSlug: "minutes",
   ownLength: 1468.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "religion-in-the-ancient-mediterranean-world",
   externalLink: "https://www.thegreatcoursesplus.com/religion-in-the-ancient-mediterranean-world",

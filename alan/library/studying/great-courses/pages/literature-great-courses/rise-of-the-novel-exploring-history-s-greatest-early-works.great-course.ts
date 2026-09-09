@@ -9,7 +9,7 @@ export const riseOfTheNovelExploringHistorySGreatestEarlyWorks = {
   unitSlug: "minutes",
   ownLength: 735,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "rise-of-the-novel-eploring-historys-greatest-early-works",
   externalLink:

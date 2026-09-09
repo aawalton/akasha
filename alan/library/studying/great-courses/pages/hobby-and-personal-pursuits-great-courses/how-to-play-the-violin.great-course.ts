@@ -9,7 +9,7 @@ export const howToPlayTheViolin = {
   unitSlug: "minutes",
   ownLength: 337.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "music-great-courses",

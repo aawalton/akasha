@@ -9,7 +9,7 @@ export const theScientificWonderOfBirds = {
   unitSlug: "minutes",
   ownLength: 327.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

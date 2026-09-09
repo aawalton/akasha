@@ -9,7 +9,7 @@ export const understandingTheDarkSideOfHumanNature = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-dark-side-of-human-nature",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-dark-side-of-human-nature",

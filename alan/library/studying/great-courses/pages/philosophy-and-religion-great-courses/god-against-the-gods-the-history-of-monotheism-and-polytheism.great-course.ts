@@ -9,7 +9,7 @@ export const godAgainstTheGodsTheHistoryOfMonotheismAndPolytheism = {
   unitSlug: "minutes",
   ownLength: 414.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "god-against-the-gods-the-history-of-monotheism-and-polytheism",
   externalLink:

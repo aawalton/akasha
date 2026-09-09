@@ -9,7 +9,7 @@ export const howWinstonChurchillChangedTheWorld = {
   unitSlug: "minutes",
   ownLength: 706.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "how-winston-churchill-changed-the-world",
   externalLink: "https://www.thegreatcoursesplus.com/how-winston-churchill-changed-the-world",

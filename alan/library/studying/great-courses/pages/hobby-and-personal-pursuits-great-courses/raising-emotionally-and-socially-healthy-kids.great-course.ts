@@ -9,7 +9,7 @@ export const raisingEmotionallyAndSociallyHealthyKids = {
   unitSlug: "minutes",
   ownLength: 368.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "science-great-courses",

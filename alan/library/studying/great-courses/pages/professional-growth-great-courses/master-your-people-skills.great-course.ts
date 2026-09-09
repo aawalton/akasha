@@ -9,7 +9,7 @@ export const masterYourPeopleSkills = {
   unitSlug: "minutes",
   ownLength: 1375.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "master-your-people-skills",
   externalLink: "https://www.thegreatcoursesplus.com/master-your-people-skills",

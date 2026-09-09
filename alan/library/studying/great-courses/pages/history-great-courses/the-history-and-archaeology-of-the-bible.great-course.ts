@@ -10,7 +10,7 @@ export const theHistoryAndArchaeologyOfTheBible = {
   unitSlug: "minutes",
   ownLength: 670.8,
   ownProgress: 670.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

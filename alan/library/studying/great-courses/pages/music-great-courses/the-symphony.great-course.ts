@@ -9,7 +9,7 @@ export const theSymphony = {
   unitSlug: "minutes",
   ownLength: 1090.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "the-symphony",
   externalLink: "https://www.thegreatcoursesplus.com/the-symphony",

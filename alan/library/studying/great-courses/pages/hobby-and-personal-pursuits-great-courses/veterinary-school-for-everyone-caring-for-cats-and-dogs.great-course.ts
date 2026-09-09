@@ -9,7 +9,7 @@ export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   unitSlug: "minutes",
   ownLength: 684,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
   externalLink:

@@ -9,7 +9,7 @@ export const theFallAndRiseOfChina = {
   unitSlug: "minutes",
   ownLength: 1445.4,
   ownProgress: 60.225,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-fall-and-rise-of-china",
   externalLink: "https://www.thegreatcoursesplus.com/the-fall-and-rise-of-china",

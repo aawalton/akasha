@@ -10,7 +10,7 @@ export const pilotLectureDidDavidWriteThePsalms = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-did-david-write-the-psalms",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-did-david-write-the-psalms",

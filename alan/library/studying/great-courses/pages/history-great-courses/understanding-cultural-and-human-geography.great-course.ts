@@ -9,7 +9,7 @@ export const understandingCulturalAndHumanGeography = {
   unitSlug: "minutes",
   ownLength: 733.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-cultural-and-human-geography",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-cultural-and-human-geography",

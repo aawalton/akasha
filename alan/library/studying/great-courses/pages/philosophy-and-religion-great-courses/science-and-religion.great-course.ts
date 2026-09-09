@@ -9,7 +9,7 @@ export const scienceAndReligion = {
   unitSlug: "minutes",
   ownLength: 374.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "science-great-courses",

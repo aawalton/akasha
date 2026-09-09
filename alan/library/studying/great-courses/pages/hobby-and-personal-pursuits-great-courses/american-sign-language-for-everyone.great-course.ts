@@ -10,7 +10,7 @@ export const americanSignLanguageForEveryone = {
   unitSlug: "minutes",
   ownLength: 692.4,
   ownProgress: 692.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "american-sign-language-for-everyone",
   externalLink: "https://www.thegreatcoursesplus.com/american-sign-language-for-everyone",

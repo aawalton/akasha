@@ -9,7 +9,7 @@ export const musicTheoryTheFoundationOfGreatMusic = {
   unitSlug: "minutes",
   ownLength: 449.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "music-theory-the-foundation-of-great-music",
   externalLink: "https://www.thegreatcoursesplus.com/music-theory-the-foundation-of-great-music",

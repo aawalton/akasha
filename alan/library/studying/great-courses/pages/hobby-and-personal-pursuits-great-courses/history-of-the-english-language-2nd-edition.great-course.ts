@@ -10,7 +10,7 @@ export const historyOfTheEnglishLanguage2ndEdition = {
   unitSlug: "minutes",
   ownLength: 1101,
   ownProgress: 1101,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "literature-great-courses",

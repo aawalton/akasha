@@ -10,7 +10,7 @@ export const howConversationWorks6LessonsForBetterCommunication = {
   unitSlug: "minutes",
   ownLength: 190.2,
   ownProgress: 190.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

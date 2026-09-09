@@ -10,7 +10,7 @@ export const howToRaiseLifelongLearners = {
   unitSlug: "minutes",
   ownLength: 165,
   ownProgress: 165,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

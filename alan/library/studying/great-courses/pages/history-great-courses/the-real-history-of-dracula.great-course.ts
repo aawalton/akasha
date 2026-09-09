@@ -9,7 +9,7 @@ export const theRealHistoryOfDracula = {
   unitSlug: "minutes",
   ownLength: 270,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-real-history-of-dracula",
   externalLink: "https://www.thegreatcoursesplus.com/the-real-history-of-dracula",

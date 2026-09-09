@@ -10,7 +10,7 @@ export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   unitSlug: "minutes",
   ownLength: 193.8,
   ownProgress: 193.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "underneath-it-all-guide-to-inferfacings-linings-and-facings",
   externalLink:

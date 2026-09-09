@@ -9,7 +9,7 @@ export const theInklingsCSLewisJRRTolkienAndTheirCircle = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-inklings-c-s-lewis-j-r-r-tolkien-and-their-circle",
   externalLink:

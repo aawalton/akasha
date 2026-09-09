@@ -9,7 +9,7 @@ export const greatMastersTchaikovskyHisLifeAndMusic = {
   unitSlug: "minutes",
   ownLength: 367.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "great-masters-tchaikovskyhis-life-and-music",
   externalLink: "https://www.thegreatcoursesplus.com/great-masters-tchaikovskyhis-life-and-music",

@@ -10,7 +10,7 @@ export const understandingJapanACulturalHistory = {
   unitSlug: "minutes",
   ownLength: 726.6,
   ownProgress: 726.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-japan-a-cultural-history",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-japan-a-cultural-history",

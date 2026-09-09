@@ -9,7 +9,7 @@ export const theBigQuestionsOfPhilosophy = {
   unitSlug: "minutes",
   ownLength: 1154.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-big-questions-of-philosophy",
   externalLink: "https://www.thegreatcoursesplus.com/the-big-questions-of-philosophy",

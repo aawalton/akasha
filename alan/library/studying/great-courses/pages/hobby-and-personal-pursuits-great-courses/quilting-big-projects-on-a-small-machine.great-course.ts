@@ -10,7 +10,7 @@ export const quiltingBigProjectsOnASmallMachine = {
   unitSlug: "minutes",
   ownLength: 262.2,
   ownProgress: 262.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "quilting-big-projects-on-a-small-machine",
   externalLink: "https://www.thegreatcoursesplus.com/quilting-big-projects-on-a-small-machine",

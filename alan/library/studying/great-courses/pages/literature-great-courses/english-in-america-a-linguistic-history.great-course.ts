@@ -10,7 +10,7 @@ export const englishInAmericaALinguisticHistory = {
   unitSlug: "minutes",
   ownLength: 356.4,
   ownProgress: 356.4,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "english-in-america-a-linguistic-history",
   externalLink: "https://www.thegreatcoursesplus.com/english-in-america-a-linguistic-history",

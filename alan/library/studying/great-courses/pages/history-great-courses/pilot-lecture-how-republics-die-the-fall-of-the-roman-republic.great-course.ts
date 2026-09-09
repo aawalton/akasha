@@ -10,7 +10,7 @@ export const pilotLectureHowRepublicsDieTheFallOfTheRomanRepublic = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-how-republics-die-the-fall-of-the-roman-republic",
   externalLink:

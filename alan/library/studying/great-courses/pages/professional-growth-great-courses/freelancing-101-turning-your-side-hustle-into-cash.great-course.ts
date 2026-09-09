@@ -10,7 +10,7 @@ export const freelancing101TurningYourSideHustleIntoCash = {
   unitSlug: "minutes",
   ownLength: 126,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "freelancing-101-turning-your-side-hustle-into-cash",
   externalLink:

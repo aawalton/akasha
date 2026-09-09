@@ -9,7 +9,7 @@ export const pilotLectureHowToThinkLikeAGeneralColinPowell = {
   unitSlug: "minutes",
   ownLength: 1,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-how-to-think-like-a-general-colin-powell",
   externalLink:

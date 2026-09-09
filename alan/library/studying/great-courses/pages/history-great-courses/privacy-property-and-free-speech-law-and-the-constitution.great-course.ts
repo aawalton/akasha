@@ -9,7 +9,7 @@ export const privacyPropertyAndFreeSpeechLawAndTheConstitution = {
   unitSlug: "minutes",
   ownLength: 737.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -9,7 +9,7 @@ export const theBookOfGenesis = {
   unitSlug: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-book-of-genesis",
   externalLink: "https://www.thegreatcoursesplus.com/the-book-of-genesis",

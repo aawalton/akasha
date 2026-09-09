@@ -9,7 +9,7 @@ export const thePhilosopherSToolkitHowToBeTheMostRationalPersonInAnyRo = {
   unitSlug: "minutes",
   ownLength: 724.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "professional-growth-great-courses",

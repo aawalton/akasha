@@ -10,7 +10,7 @@ export const pilotLectureTheFallOfConstantinopleAWorldOnItsLastDay = {
   unitSlug: "minutes",
   ownLength: 27.6,
   ownProgress: 27.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-fall-of-constantinople-a-world-on-its-last-day",
   externalLink:

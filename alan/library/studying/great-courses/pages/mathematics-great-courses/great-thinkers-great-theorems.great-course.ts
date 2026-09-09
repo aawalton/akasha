@@ -9,7 +9,7 @@ export const greatThinkersGreatTheorems = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "great-thinkers-great-theorems",
   externalLink: "https://www.thegreatcoursesplus.com/great-thinkers-great-theorems",

@@ -10,7 +10,7 @@ export const pilotLectureThePirateWarsOf1718 = {
   unitSlug: "minutes",
   ownLength: 33.6,
   ownProgress: 33.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-pirate-wars-of-1718",
   externalLink: "https://www.thegreatcoursesplus.com/the-pirate-wars-of-1718",

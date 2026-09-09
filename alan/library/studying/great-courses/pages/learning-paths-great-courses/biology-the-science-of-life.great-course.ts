@@ -9,11 +9,7 @@ export const biologyTheScienceOfLife = {
   unitSlug: "minutes",
   ownLength: 2181,
   ownProgress: 242.333333,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "biology-the-science-of-life",
   externalLink: "https://www.thegreatcoursesplus.com/biology-the-science-of-life",

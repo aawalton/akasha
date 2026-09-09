@@ -10,7 +10,7 @@ export const beethovenSPianoSonatas = {
   unitSlug: "minutes",
   ownLength: 1098,
   ownProgress: 1098,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "beethovens-piano-sonatas",
   externalLink: "https://www.thegreatcoursesplus.com/beethovens-piano-sonatas",

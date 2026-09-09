@@ -9,7 +9,7 @@ export const geometryAnInteractiveJourneyToMastery = {
   unitSlug: "minutes",
   ownLength: 1098.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "mathematics-great-courses",

@@ -9,11 +9,7 @@ export const understandingDisordersOfTheBrain = {
   unitSlug: "minutes",
   ownLength: 696.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-disorders-of-the-brain",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-disorders-of-the-brain",

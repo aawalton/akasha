@@ -9,7 +9,7 @@ export const visualLiteracySkillsHowToSee = {
   unitSlug: "minutes",
   ownLength: 589.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "visual-literacy-skills-how-to-see",
   externalLink: "https://www.thegreatcoursesplus.com/visual-literacy-skills-how-to-see",

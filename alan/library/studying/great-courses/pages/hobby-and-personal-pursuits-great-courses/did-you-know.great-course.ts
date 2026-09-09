@@ -10,7 +10,7 @@ export const didYouKnow = {
   unitSlug: "minutes",
   ownLength: 129,
   ownProgress: 129,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "did-you-know",
   externalLink: "https://www.thegreatcoursesplus.com/did-you-know",

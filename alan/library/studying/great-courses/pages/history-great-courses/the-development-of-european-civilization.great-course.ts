@@ -9,7 +9,7 @@ export const theDevelopmentOfEuropeanCivilization = {
   unitSlug: "minutes",
   ownLength: 1472.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-development-of-european-civilization",
   externalLink: "https://www.thegreatcoursesplus.com/the-development-of-european-civilization",

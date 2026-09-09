@@ -10,7 +10,7 @@ export const greek101LearningAnAncientLanguage = {
   unitSlug: "minutes",
   ownLength: 1110,
   ownProgress: 1110,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

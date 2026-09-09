@@ -9,11 +9,7 @@ export const experiencingHubbleExploringTheMilkyWay = {
   unitSlug: "minutes",
   ownLength: 355.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "learning-paths-great-courses",
-    "science-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "eperiencing-hubble-eploring-the-milky-way",
   externalLink: "https://www.thegreatcoursesplus.com/eperiencing-hubble-eploring-the-milky-way",

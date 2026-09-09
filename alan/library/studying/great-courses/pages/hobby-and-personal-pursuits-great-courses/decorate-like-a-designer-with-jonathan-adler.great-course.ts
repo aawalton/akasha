@@ -9,7 +9,7 @@ export const decorateLikeADesignerWithJonathanAdler = {
   unitSlug: "minutes",
   ownLength: 352.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "decorate-like-a-designer-with-jonathan-adler",
   externalLink: "https://www.thegreatcoursesplus.com/decorate-like-a-designer-with-jonathan-adler",

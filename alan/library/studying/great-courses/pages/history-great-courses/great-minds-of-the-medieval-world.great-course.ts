@@ -10,7 +10,7 @@ export const greatMindsOfTheMedievalWorld = {
   unitSlug: "minutes",
   ownLength: 722.4,
   ownProgress: 722.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "learning-paths-great-courses",

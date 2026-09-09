@@ -9,7 +9,7 @@ export const writingYourStory = {
   unitSlug: "minutes",
   ownLength: 319.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "writing-your-story",
   externalLink: "https://www.thegreatcoursesplus.com/writing-your-story",

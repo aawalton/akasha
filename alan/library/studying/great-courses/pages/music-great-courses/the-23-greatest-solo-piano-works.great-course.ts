@@ -9,7 +9,7 @@ export const the23GreatestSoloPianoWorks = {
   unitSlug: "minutes",
   ownLength: 1169.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "the-23-greatest-solo-piano-works",
   externalLink: "https://www.thegreatcoursesplus.com/the-23-greatest-solo-piano-works",

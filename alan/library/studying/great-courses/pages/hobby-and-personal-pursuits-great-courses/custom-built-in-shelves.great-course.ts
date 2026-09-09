@@ -10,7 +10,7 @@ export const customBuiltInShelves = {
   unitSlug: "minutes",
   ownLength: 84.6,
   ownProgress: 84.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "custom-built-in-shelves",
   externalLink: "https://www.thegreatcoursesplus.com/custom-built-in-shelves",

@@ -10,7 +10,7 @@ export const lostWorldsOfSouthAmerica = {
   unitSlug: "minutes",
   ownLength: 714,
   ownProgress: 714,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

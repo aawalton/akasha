@@ -9,7 +9,7 @@ export const learnInAWeekend = {
   unitSlug: "minutes",
   ownLength: 305.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "learn-in-a-weekend",
   externalLink: "https://www.thegreatcoursesplus.com/learn-in-a-weekend",

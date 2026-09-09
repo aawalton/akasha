@@ -9,7 +9,7 @@ export const theGreatDebateAdvocatesAndOpponentsOfTheAmericanConstitution = {
   unitSlug: "minutes",
   ownLength: 378.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-debate-advocates-and-opponents-of-the-american-constitution",
   externalLink:

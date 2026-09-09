@@ -9,7 +9,7 @@ export const lifeLessonsFromTheGreatMyths = {
   unitSlug: "minutes",
   ownLength: 1100.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "life-lessons-from-the-great-myths",
   externalLink: "https://www.thegreatcoursesplus.com/life-lessons-from-the-great-myths",

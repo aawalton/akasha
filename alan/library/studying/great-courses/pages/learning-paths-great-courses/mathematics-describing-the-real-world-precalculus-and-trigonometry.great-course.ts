@@ -9,7 +9,7 @@ export const mathematicsDescribingTheRealWorldPrecalculusAndTrigonometry = {
   unitSlug: "minutes",
   ownLength: 1122,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "mathematics-great-courses",

@@ -9,7 +9,7 @@ export const theRealHistoryOfPirates = {
   unitSlug: "minutes",
   ownLength: 658.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-real-history-of-pirates",
   externalLink: "https://www.thegreatcoursesplus.com/the-real-history-of-pirates",

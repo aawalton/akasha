@@ -9,7 +9,7 @@ export const womenJournalistsOf911TheirStories = {
   unitSlug: "minutes",
   ownLength: 325.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "women-journalists-of-9-11-their-stories",
   externalLink: "https://www.thegreatcoursesplus.com/women-journalists-of-9-11-their-stories",

@@ -9,7 +9,7 @@ export const exploringTheRootsOfReligion = {
   unitSlug: "minutes",
   ownLength: 1098.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "exploring-the-roots-of-religion",
   externalLink: "https://www.thegreatcoursesplus.com/exploring-the-roots-of-religion",

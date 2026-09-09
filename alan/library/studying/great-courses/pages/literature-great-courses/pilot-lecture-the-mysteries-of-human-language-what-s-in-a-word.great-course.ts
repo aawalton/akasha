@@ -10,7 +10,7 @@ export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   unitSlug: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
   externalLink:

@@ -10,7 +10,7 @@ export const handheldRouterTechniquesAndTips = {
   unitSlug: "minutes",
   ownLength: 205.2,
   ownProgress: 205.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "handheld-router-techniques-and-tips",
   externalLink: "https://www.thegreatcoursesplus.com/handheld-router-techniques-and-tips",

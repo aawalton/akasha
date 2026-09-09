@@ -9,11 +9,7 @@ export const theRomanEmpireFromAugustusToTheFallOfRome = {
   unitSlug: "minutes",
   ownLength: 772.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "the-roman-empire-from-augustus-to-the-fall-of-rome",
   externalLink:

@@ -10,7 +10,7 @@ export const knitSocksTwoAtATime = {
   unitSlug: "minutes",
   ownLength: 126,
   ownProgress: 126,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "knit-socks-two-at-a-time",
   externalLink: "https://www.thegreatcoursesplus.com/knit-socks-two-at-a-time",

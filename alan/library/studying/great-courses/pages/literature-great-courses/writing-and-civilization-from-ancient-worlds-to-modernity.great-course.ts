@@ -9,7 +9,7 @@ export const writingAndCivilizationFromAncientWorldsToModernity = {
   unitSlug: "minutes",
   ownLength: 728.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "writing-and-civilization-from-ancient-worlds-to-modernity",
   externalLink:

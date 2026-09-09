@@ -9,7 +9,7 @@ export const theClassicalLegacyAncientGreeceAndRome = {
   unitSlug: "minutes",
   ownLength: 1,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-classical-legacy-ancient-greece-and-rome-3143",
   externalLink:

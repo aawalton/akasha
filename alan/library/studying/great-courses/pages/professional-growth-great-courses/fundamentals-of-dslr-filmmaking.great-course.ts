@@ -9,7 +9,7 @@ export const fundamentalsOfDslrFilmmaking = {
   unitSlug: "minutes",
   ownLength: 838.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "fundamentals-of-dslr-filmmaking",
   externalLink: "https://www.thegreatcoursesplus.com/fundamentals-of-dslr-filmmaking",

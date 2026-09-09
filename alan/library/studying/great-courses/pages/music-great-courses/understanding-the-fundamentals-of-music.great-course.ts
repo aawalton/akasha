@@ -9,7 +9,7 @@ export const understandingTheFundamentalsOfMusic = {
   unitSlug: "minutes",
   ownLength: 730.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-fundamentals-of-music",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-fundamentals-of-music",

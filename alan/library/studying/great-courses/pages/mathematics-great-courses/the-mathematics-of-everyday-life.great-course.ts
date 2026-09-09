@@ -9,7 +9,7 @@ export const theMathematicsOfEverydayLife = {
   unitSlug: "minutes",
   ownLength: 348,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-mathematics-of-everyday-life",
   externalLink: "https://www.thegreatcoursesplus.com/the-mathematics-of-everyday-life",

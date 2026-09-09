@@ -10,7 +10,7 @@ export const stackedStitchesKnittingInWildColor = {
   unitSlug: "minutes",
   ownLength: 136.8,
   ownProgress: 136.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "stacked-stitches-knitting-in-wild-color",
   externalLink: "https://www.thegreatcoursesplus.com/stacked-stitches-knitting-in-wild-color",

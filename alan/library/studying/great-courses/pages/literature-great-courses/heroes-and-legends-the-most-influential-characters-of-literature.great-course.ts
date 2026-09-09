@@ -9,7 +9,7 @@ export const heroesAndLegendsTheMostInfluentialCharactersOfLiterature = {
   unitSlug: "minutes",
   ownLength: 753,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "heroes-and-legends-the-most-influential-characters-of-literature",
   externalLink:

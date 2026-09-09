@@ -9,7 +9,7 @@ export const brainMythsExplodedLessonsFromNeuroscience = {
   unitSlug: "minutes",
   ownLength: 723,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

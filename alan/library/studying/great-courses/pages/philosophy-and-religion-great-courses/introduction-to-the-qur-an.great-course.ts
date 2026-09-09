@@ -9,7 +9,7 @@ export const introductionToTheQurAn = {
   unitSlug: "minutes",
   ownLength: 353.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "introduction-to-the-quran",
   externalLink: "https://www.thegreatcoursesplus.com/introduction-to-the-quran",

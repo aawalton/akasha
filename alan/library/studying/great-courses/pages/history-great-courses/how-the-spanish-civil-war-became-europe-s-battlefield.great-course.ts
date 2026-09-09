@@ -9,7 +9,7 @@ export const howTheSpanishCivilWarBecameEuropeSBattlefield = {
   unitSlug: "minutes",
   ownLength: 704.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "how-the-spanish-civil-war-became-europe-s-battlefield",
   externalLink:

@@ -10,7 +10,7 @@ export const howTheMediciShapedTheRenaissance = {
   unitSlug: "minutes",
   ownLength: 366.6,
   ownProgress: 366.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "how-the-medici-shaped-the-renaissance",
   externalLink: "https://www.thegreatcoursesplus.com/how-the-medici-shaped-the-renaissance",

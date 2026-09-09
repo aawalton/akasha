@@ -10,7 +10,7 @@ export const cutToItStrategiesForSmarterQuilting = {
   unitSlug: "minutes",
   ownLength: 196.8,
   ownProgress: 196.8,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "cut-to-it-strategies-for-smarter-quilting",
   externalLink: "https://www.thegreatcoursesplus.com/cut-to-it-strategies-for-smarter-quilting",

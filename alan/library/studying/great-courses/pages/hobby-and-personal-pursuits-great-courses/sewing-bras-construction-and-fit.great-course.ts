@@ -10,7 +10,7 @@ export const sewingBrasConstructionAndFit = {
   unitSlug: "minutes",
   ownLength: 223.2,
   ownProgress: 223.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "sewing-bras-construction-fit",
   externalLink: "https://www.thegreatcoursesplus.com/sewing-bras-construction-fit",

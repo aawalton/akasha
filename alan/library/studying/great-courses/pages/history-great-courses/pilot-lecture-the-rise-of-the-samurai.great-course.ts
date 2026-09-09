@@ -10,7 +10,7 @@ export const pilotLectureTheRiseOfTheSamurai = {
   unitSlug: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-rise-of-the-samurai",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-rise-of-the-samurai",

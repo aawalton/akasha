@@ -9,7 +9,7 @@ export const theIndustrialRevolution = {
   unitSlug: "minutes",
   ownLength: 1100.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-industrial-revolution",
   externalLink: "https://www.thegreatcoursesplus.com/the-industrial-revolution",

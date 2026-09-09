@@ -9,7 +9,7 @@ export const theModernIntellectualTraditionFromDescartesToDerrida = {
   unitSlug: "minutes",
   ownLength: 1130.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",

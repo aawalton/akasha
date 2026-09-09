@@ -9,7 +9,7 @@ export const turningPointsInMiddleEasternHistory = {
   unitSlug: "minutes",
   ownLength: 1099.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "turning-points-in-middle-eastern-history",
   externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-middle-eastern-history",

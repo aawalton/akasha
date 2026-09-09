@@ -10,7 +10,7 @@ export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
   unitSlug: "minutes",
   ownLength: 715.2,
   ownProgress: 715.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

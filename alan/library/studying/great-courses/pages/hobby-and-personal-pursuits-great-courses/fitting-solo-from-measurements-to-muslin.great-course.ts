@@ -10,7 +10,7 @@ export const fittingSoloFromMeasurementsToMuslin = {
   unitSlug: "minutes",
   ownLength: 141.6,
   ownProgress: 141.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "fitting-solo-from-measurements-to-muslin",
   externalLink: "https://www.thegreatcoursesplus.com/fitting-solo-from-measurements-to-muslin",

@@ -9,7 +9,7 @@ export const howTheWorldLearnsComparativeEducationalSystems = {
   unitSlug: "minutes",
   ownLength: 741,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

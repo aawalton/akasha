@@ -9,7 +9,7 @@ export const theGreatQuestionsOfPhilosophyAndPhysics = {
   unitSlug: "minutes",
   ownLength: 368.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "science-great-courses",

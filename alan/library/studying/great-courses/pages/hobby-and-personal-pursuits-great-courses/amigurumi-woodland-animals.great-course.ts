@@ -10,7 +10,7 @@ export const amigurumiWoodlandAnimals = {
   unitSlug: "minutes",
   ownLength: 287.4,
   ownProgress: 287.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "amigurumi-woodland-animals",
   externalLink: "https://www.thegreatcoursesplus.com/amigurumi-woodland-animals",

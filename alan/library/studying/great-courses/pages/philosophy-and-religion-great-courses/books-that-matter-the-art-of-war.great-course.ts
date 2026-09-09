@@ -9,7 +9,7 @@ export const booksThatMatterTheArtOfWar = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "books-that-matter-the-art-of-war",
   externalLink: "https://plus.thegreatcourses.com/books-that-matter-the-art-of-war",

@@ -9,7 +9,7 @@ export const theGreekAndPersianWars = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-greek-and-persian-wars",
   externalLink: "https://www.thegreatcoursesplus.com/the-greek-and-persian-wars",

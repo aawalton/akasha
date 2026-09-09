@@ -10,7 +10,7 @@ export const adobeLightroomClassicCcTheCompleteGuide = {
   unitSlug: "minutes",
   ownLength: 1429.2,
   ownProgress: 1429.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

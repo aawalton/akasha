@@ -10,7 +10,7 @@ export const biblicalWisdomLiterature = {
   unitSlug: "minutes",
   ownLength: 1113,
   ownProgress: 1113,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "philosophy-and-religion-great-courses",

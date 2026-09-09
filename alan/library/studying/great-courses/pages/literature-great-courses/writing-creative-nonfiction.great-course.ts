@@ -9,7 +9,7 @@ export const writingCreativeNonfiction = {
   unitSlug: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

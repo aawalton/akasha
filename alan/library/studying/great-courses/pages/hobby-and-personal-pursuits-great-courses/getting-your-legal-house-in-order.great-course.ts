@@ -9,7 +9,7 @@ export const gettingYourLegalHouseInOrder = {
   unitSlug: "minutes",
   ownLength: 567.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "professional-growth-great-courses",

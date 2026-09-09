@@ -9,7 +9,7 @@ export const understandingLinguisticsTheScienceOfLanguage = {
   unitSlug: "minutes",
   ownLength: 1085.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-linguistics-the-science-of-language",
   externalLink:

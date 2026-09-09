@@ -10,7 +10,7 @@ export const theArtOfVideoStorytelling = {
   unitSlug: "minutes",
   ownLength: 304.2,
   ownProgress: 304.2,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "the-art-of-video-storytelling",
   externalLink: "https://www.thegreatcoursesplus.com/the-art-of-video-storytelling",

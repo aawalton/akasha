@@ -9,7 +9,7 @@ export const whyYouAreWhoYouAreInvestigationsIntoHumanPersonality = {
   unitSlug: "minutes",
   ownLength: 777.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "learning-paths-great-courses",

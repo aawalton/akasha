@@ -10,7 +10,7 @@ export const peoplesAndCulturesOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

@@ -9,7 +9,7 @@ export const williamShakespeareComediesHistoriesAndTragedies = {
   unitSlug: "minutes",
   ownLength: 1093.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "william-shakespeare-comedies-histories-and-tragedies",
   externalLink:

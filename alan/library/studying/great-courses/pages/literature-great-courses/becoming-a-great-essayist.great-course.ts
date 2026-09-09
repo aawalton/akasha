@@ -10,7 +10,7 @@ export const becomingAGreatEssayist = {
   unitSlug: "minutes",
   ownLength: 744.6,
   ownProgress: 744.6,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "becoming-a-great-essayist",
   externalLink: "https://www.thegreatcoursesplus.com/becoming-a-great-essayist",

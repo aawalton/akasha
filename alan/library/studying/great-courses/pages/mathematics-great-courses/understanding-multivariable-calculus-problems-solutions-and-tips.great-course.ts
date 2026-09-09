@@ -9,7 +9,7 @@ export const understandingMultivariableCalculusProblemsSolutionsAndTips = {
   unitSlug: "minutes",
   ownLength: 1103.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-multivariable-calculus-problems-solutions-and-tips",
   externalLink:

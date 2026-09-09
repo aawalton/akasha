@@ -10,7 +10,7 @@ export const customsOfTheWorldUsingCulturalIntelligenceToAdaptWhereverYou = {
   unitSlug: "minutes",
   ownLength: 718.2,
   ownProgress: 718.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "travel-and-culture-great-courses",

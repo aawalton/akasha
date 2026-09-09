@@ -10,7 +10,7 @@ export const historySGreatMilitaryBlundersAndTheLessonsTheyTeach = {
   unitSlug: "minutes",
   ownLength: 735,
   ownProgress: 735,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "historys-great-military-blunders-and-the-lessons-they-teach",
   externalLink:

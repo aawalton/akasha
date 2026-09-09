@@ -10,7 +10,7 @@ export const pilotLectureGuideToTinkeringElectricityAndBasicCircuits = {
   unitSlug: "minutes",
   ownLength: 18.6,
   ownProgress: 18.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-tinkering-electricity-and-basic-circuits",
   externalLink:

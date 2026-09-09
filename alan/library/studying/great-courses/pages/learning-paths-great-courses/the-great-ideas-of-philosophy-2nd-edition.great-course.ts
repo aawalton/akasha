@@ -9,7 +9,7 @@ export const theGreatIdeasOfPhilosophy2ndEdition = {
   unitSlug: "minutes",
   ownLength: 1813.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",

@@ -9,7 +9,7 @@ export const danteSDivineComedy = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "dantes-divine-comedy",
   externalLink: "https://www.thegreatcoursesplus.com/dantes-divine-comedy",

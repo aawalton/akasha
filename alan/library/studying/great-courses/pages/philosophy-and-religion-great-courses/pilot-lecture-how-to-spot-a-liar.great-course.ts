@@ -9,7 +9,7 @@ export const pilotLectureHowToSpotALiar = {
   unitSlug: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-how-to-spot-a-liar",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-to-spot-a-liar",

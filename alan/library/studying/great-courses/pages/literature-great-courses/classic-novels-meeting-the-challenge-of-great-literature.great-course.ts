@@ -9,7 +9,7 @@ export const classicNovelsMeetingTheChallengeOfGreatLiterature = {
   unitSlug: "minutes",
   ownLength: 1128.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "classic-novels-meeting-the-challenge-of-great-literature",
   externalLink:

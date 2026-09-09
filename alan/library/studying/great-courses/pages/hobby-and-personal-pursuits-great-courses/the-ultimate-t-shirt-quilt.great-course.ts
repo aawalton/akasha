@@ -10,7 +10,7 @@ export const theUltimateTShirtQuilt = {
   unitSlug: "minutes",
   ownLength: 147.6,
   ownProgress: 147.6,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "the-ultimate-t-shirt-quilt",
   externalLink: "https://www.thegreatcoursesplus.com/the-ultimate-t-shirt-quilt",

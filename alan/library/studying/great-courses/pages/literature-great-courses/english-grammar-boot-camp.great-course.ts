@@ -10,7 +10,7 @@ export const englishGrammarBootCamp = {
   unitSlug: "minutes",
   ownLength: 753,
   ownProgress: 753,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

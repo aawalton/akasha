@@ -10,7 +10,7 @@ export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
   unitSlug: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "hacking-american-elections-why-were-vulnerable-and-how-we-can-stop-it",
   externalLink:

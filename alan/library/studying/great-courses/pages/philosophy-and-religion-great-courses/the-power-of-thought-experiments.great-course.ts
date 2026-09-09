@@ -9,7 +9,7 @@ export const thePowerOfThoughtExperiments = {
   unitSlug: "minutes",
   ownLength: 714,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-power-of-thought-experiments",
   externalLink: "https://www.thegreatcoursesplus.com/the-power-of-thought-experiments",

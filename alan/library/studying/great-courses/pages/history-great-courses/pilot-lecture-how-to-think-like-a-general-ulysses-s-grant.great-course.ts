@@ -10,7 +10,7 @@ export const pilotLectureHowToThinkLikeAGeneralUlyssesSGrant = {
   unitSlug: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-how-to-think-like-a-general-ulysses-s-grant",
   externalLink:

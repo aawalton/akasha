@@ -9,7 +9,7 @@ export const greatMindsOfTheWesternIntellectualTradition3rdEdition = {
   unitSlug: "minutes",
   ownLength: 84,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "great-minds-of-the-western-intellectual-tradition-3rd-edition",
   externalLink:

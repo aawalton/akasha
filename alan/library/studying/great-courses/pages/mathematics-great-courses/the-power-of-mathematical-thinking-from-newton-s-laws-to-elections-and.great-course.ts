@@ -9,7 +9,7 @@ export const thePowerOfMathematicalThinkingFromNewtonSLawsToElectionsAnd = {
   unitSlug: "minutes",
   ownLength: 760.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-power-of-mathematical-thinking-from-newton-s-laws-to-elections-and-the-economy",
   externalLink:

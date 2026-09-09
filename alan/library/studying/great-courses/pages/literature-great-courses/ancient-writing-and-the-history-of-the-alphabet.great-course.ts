@@ -10,7 +10,7 @@ export const ancientWritingAndTheHistoryOfTheAlphabet = {
   unitSlug: "minutes",
   ownLength: 381,
   ownProgress: 381,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "ancient-writing-and-the-history-of-the-alphabet",
   externalLink:

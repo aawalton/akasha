@@ -9,7 +9,7 @@ export const lighting101 = {
   unitSlug: "minutes",
   ownLength: 533.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "lighting-101",
   externalLink: "https://www.thegreatcoursesplus.com/lighting-101",

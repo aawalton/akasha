@@ -10,7 +10,7 @@ export const pilotLectureEvenTutankhamunGotTheBlues = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-even-tutankhamun-got-the-blues",
   externalLink:

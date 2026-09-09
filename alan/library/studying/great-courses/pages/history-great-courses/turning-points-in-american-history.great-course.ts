@@ -9,7 +9,7 @@ export const turningPointsInAmericanHistory = {
   unitSlug: "minutes",
   ownLength: 1465.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "turning-points-in-american-history",
   externalLink: "https://www.thegreatcoursesplus.com/turning-points-in-american-history",

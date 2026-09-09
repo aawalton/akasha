@@ -10,7 +10,7 @@ export const storiesAboutGreatStorytellers = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 24,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "stories-about-great-storytellers",
   externalLink: "https://www.thegreatcoursesplus.com/stories-about-great-storytellers",

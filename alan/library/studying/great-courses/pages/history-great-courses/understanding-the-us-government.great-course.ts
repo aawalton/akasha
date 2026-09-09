@@ -9,7 +9,7 @@ export const understandingTheUsGovernment = {
   unitSlug: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-us-government",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-us-government",

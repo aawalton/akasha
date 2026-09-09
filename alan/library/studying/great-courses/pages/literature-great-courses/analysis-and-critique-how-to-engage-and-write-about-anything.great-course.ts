@@ -10,7 +10,7 @@ export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
   unitSlug: "minutes",
   ownLength: 712.8,
   ownProgress: 712.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

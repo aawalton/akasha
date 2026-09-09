@@ -9,7 +9,7 @@ export const understandingHumanEmotions = {
   unitSlug: "minutes",
   ownLength: 318,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-human-emotions",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-human-emotions",

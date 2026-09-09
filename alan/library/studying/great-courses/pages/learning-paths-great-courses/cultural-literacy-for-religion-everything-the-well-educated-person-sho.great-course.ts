@@ -9,7 +9,7 @@ export const culturalLiteracyForReligionEverythingTheWellEducatedPersonSho = {
   unitSlug: "minutes",
   ownLength: 744,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",

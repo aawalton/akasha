@@ -9,7 +9,7 @@ export const storytellingAndTheHumanCondition = {
   unitSlug: "minutes",
   ownLength: 380.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "storytelling-and-the-human-condition",
   externalLink: "https://www.thegreatcoursesplus.com/storytelling-and-the-human-condition",

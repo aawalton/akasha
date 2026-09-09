@@ -10,7 +10,7 @@ export const pilotLectureCharacterAnalysisForActors = {
   unitSlug: "minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-character-analysis-for-actors",
   externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-character-analysis-for-actors",

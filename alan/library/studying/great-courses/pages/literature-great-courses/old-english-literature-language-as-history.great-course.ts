@@ -9,7 +9,7 @@ export const oldEnglishLiteratureLanguageAsHistory = {
   unitSlug: "minutes",
   ownLength: 760.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "old-english-literature-language-as-history",
   externalLink: "https://www.thegreatcoursesplus.com/old-english-literature-language-as-history",

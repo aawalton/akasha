@@ -9,7 +9,7 @@ export const theQueenOfTheSciencesAHistoryOfMathematics = {
   unitSlug: "minutes",
   ownLength: 736.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-queen-of-the-sciences-a-history-of-mathematics",
   externalLink:

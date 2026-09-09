@@ -9,7 +9,7 @@ export const livingTheFrenchRevolutionAndTheAgeOfNapoleon = {
   unitSlug: "minutes",
   ownLength: 1489.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "living-the-french-revolution-and-the-age-of-napoleon",
   externalLink:

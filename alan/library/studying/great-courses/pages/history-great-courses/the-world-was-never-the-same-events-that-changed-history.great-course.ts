@@ -9,7 +9,7 @@ export const theWorldWasNeverTheSameEventsThatChangedHistory = {
   unitSlug: "minutes",
   ownLength: 1092,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-world-was-never-the-same-events-that-changed-history",
   externalLink:

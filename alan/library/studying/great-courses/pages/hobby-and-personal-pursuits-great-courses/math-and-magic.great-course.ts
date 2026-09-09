@@ -10,7 +10,7 @@ export const mathAndMagic = {
   unitSlug: "minutes",
   ownLength: 388.2,
   ownProgress: 388.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "hobby-and-personal-pursuits-great-courses",
     "mathematics-great-courses",

@@ -9,7 +9,7 @@ export const buildingGreatSentencesExploringTheWriterSCraft = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "building-great-sentences-exploring-the-writers-craft",
   externalLink:

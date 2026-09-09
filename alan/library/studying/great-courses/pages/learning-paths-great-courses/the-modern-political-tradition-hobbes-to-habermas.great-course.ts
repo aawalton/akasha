@@ -9,7 +9,7 @@ export const theModernPoliticalTraditionHobbesToHabermas = {
   unitSlug: "minutes",
   ownLength: 1123.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",

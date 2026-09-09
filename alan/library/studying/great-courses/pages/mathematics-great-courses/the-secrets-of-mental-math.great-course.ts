@@ -9,7 +9,7 @@ export const theSecretsOfMentalMath = {
   unitSlug: "minutes",
   ownLength: 403.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "mathematics-great-courses",
     "professional-growth-great-courses",

@@ -10,7 +10,7 @@ export const pilotLectureHajjAndUmrahPilgrimageToMecca = {
   unitSlug: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-hajj-and-umrah-pilgrimage-to-mecca",
   externalLink:

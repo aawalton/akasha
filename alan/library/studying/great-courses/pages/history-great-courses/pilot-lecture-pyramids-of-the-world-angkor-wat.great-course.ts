@@ -10,7 +10,7 @@ export const pilotLecturePyramidsOfTheWorldAngkorWat = {
   unitSlug: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-pyramids-of-the-world-angkor-wat",
   externalLink:

@@ -9,7 +9,7 @@ export const theAgencyAHistoryOfTheCia = {
   unitSlug: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-agency-a-history-of-the-cia",
   externalLink: "https://www.thegreatcoursesplus.com/the-agency-a-history-of-the-cia",

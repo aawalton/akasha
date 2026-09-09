@@ -9,7 +9,7 @@ export const trueCrimeDecodingTheEvidence = {
   unitSlug: "minutes",
   ownLength: 206.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "true-crime-decoding-the-evidence",
   externalLink: "https://www.thegreatcoursesplus.com/true-crime-decoding-the-evidence",

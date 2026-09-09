@@ -9,7 +9,7 @@ export const theRiseOfCommunismFromMarxToLenin = {
   unitSlug: "minutes",
   ownLength: 335.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-rise-of-communism-from-mar-to-lenin",
   externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-communism-from-mar-to-lenin",

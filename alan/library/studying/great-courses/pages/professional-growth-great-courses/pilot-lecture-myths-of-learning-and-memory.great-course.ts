@@ -10,7 +10,7 @@ export const pilotLectureMythsOfLearningAndMemory = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "professional-growth-great-courses",
     "science-great-courses",

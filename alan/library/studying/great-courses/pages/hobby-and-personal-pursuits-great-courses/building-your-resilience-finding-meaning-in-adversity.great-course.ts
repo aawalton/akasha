@@ -9,7 +9,7 @@ export const buildingYourResilienceFindingMeaningInAdversity = {
   unitSlug: "minutes",
   ownLength: 771.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "building-your-resilience-finding-meaning-in-adversity",
   externalLink:

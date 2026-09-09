@@ -10,7 +10,7 @@ export const pilotLectureGreatCastlesOfEuropeCaernarfonCastle = {
   unitSlug: "minutes",
   ownLength: 30,
   ownProgress: 30,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

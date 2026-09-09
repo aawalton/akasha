@@ -9,7 +9,7 @@ export const howMusicAndMathematicsRelate = {
   unitSlug: "minutes",
   ownLength: 563.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "how-music-and-mathematics-relate",
   externalLink: "https://www.thegreatcoursesplus.com/how-music-and-mathematics-relate",

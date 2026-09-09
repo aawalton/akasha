@@ -9,7 +9,7 @@ export const theCatholicChurchAHistory = {
   unitSlug: "minutes",
   ownLength: 1145.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-catholic-church-a-history",
   externalLink: "https://www.thegreatcoursesplus.com/the-catholic-church-a-history",

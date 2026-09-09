@@ -9,7 +9,7 @@ export const theVikingAgeNewPerspectivesOnHistoryAndCulture = {
   unitSlug: "minutes",
   ownLength: 402,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-viking-age-new-perspectives-on-history-and-culture",
   externalLink:

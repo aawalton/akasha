@@ -9,7 +9,7 @@ export const theGreatTrialsOfWorldHistoryAndTheLessonsTheyTeachUs = {
   unitSlug: "minutes",
   ownLength: 748.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

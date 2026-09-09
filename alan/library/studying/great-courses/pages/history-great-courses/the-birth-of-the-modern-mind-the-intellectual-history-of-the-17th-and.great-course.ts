@@ -9,7 +9,7 @@ export const theBirthOfTheModernMindTheIntellectualHistoryOfThe17thAnd = {
   unitSlug: "minutes",
   ownLength: 754.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "philosophy-and-religion-great-courses",

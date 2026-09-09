@@ -9,7 +9,7 @@ export const theArtOfNegotiatingTheBestDeal = {
   unitSlug: "minutes",
   ownLength: 777,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "the-art-of-negotiating-the-best-deal",
   externalLink: "https://www.thegreatcoursesplus.com/the-art-of-negotiating-the-best-deal",

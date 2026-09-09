@@ -9,7 +9,7 @@ export const theStoryOfMedievalEnglandFromKingArthurToTheTudorConquest = {
   unitSlug: "minutes",
   ownLength: 1147.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
   externalLink:

@@ -9,7 +9,7 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   unitSlug: "minutes",
   ownLength: 745.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
   externalLink:

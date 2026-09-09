@@ -9,7 +9,7 @@ export const theSkepticSGuideToAmericanHistory = {
   unitSlug: "minutes",
   ownLength: 723.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-skeptics-guide-to-american-history",
   externalLink: "https://www.thegreatcoursesplus.com/the-skeptics-guide-to-american-history",

@@ -9,7 +9,7 @@ export const buildingLoveThatLasts = {
   unitSlug: "minutes",
   ownLength: 352.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "building-love-that-lasts",
   externalLink: "https://www.thegreatcoursesplus.com/building-love-that-lasts",

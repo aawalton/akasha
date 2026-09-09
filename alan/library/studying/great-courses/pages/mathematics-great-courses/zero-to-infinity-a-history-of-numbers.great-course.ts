@@ -9,7 +9,7 @@ export const zeroToInfinityAHistoryOfNumbers = {
   unitSlug: "minutes",
   ownLength: 725.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollections: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "zero-to-infinity-a-history-of-numbers",
   externalLink: "https://www.thegreatcoursesplus.com/zero-to-infinity-a-history-of-numbers",

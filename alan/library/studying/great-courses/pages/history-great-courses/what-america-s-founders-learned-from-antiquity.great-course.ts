@@ -9,7 +9,7 @@ export const whatAmericaSFoundersLearnedFromAntiquity = {
   unitSlug: "minutes",
   ownLength: 781.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "what-america-s-founders-learned-from-antiquity",
   externalLink:

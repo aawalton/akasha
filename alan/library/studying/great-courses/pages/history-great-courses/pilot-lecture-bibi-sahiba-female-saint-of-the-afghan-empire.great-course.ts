@@ -10,7 +10,7 @@ export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
   unitSlug: "minutes",
   ownLength: 24.6,
   ownProgress: 24.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-history-of-persia",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-history-of-persia",

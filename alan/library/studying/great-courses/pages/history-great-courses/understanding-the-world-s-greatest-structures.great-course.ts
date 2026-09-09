@@ -10,7 +10,7 @@ export const understandingTheWorldSGreatestStructures = {
   unitSlug: "minutes",
   ownLength: 765.6,
   ownProgress: 765.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "science-great-courses",

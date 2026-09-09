@@ -10,7 +10,7 @@ export const theCelticWorld = {
   unitSlug: "minutes",
   ownLength: 775.8,
   ownProgress: 775.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "the-celtic-world",
   externalLink: "https://www.thegreatcoursesplus.com/the-celtic-world",

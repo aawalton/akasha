@@ -10,11 +10,7 @@ export const theAmericanCivilWar = {
   unitSlug: "minutes",
   ownLength: 1461,
   ownProgress: 1461,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "the-american-civil-war",
   externalLink: "https://www.thegreatcoursesplus.com/the-american-civil-war",

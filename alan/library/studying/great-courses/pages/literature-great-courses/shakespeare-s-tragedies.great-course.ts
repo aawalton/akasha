@@ -9,7 +9,7 @@ export const shakespeareSTragedies = {
   unitSlug: "minutes",
   ownLength: 831,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollections: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "shakespeares-tragedies",
   externalLink: "https://www.thegreatcoursesplus.com/shakespeares-tragedies",
