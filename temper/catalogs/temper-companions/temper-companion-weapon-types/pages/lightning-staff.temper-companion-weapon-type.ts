@@ -3,6 +3,7 @@ import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.
 export const lightningStaff = {
   id: "01a05fcd-ea6e-7b52-b906-d4451b8632b4",
   pageTypeSlug: "temper-companion-weapon-type",
+  type: "temper-companion-weapon-type",
   slug: "lightning-staff",
   key: "lightning-staff",
   title: "Lightning Staff",

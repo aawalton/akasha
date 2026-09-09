@@ -3,6 +3,7 @@ import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.ts"
 export const minorHeroism = {
   id: "01a05fc5-f6bf-71b4-b0dd-0dbdd3005761",
   pageTypeSlug: "temper-buff-minor",
+  type: "temper-buff-minor",
   slug: "minor-heroism",
   title: "Minor Heroism",
   key: "minor-heroism",

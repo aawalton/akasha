@@ -3,6 +3,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companio
 export const equipTypeEquipTypeChest = {
   id: "01a05fcf-5921-7009-aca7-ead2183028ce",
   pageTypeSlug: "temper-eso-companion-equipment-constant",
+  type: "temper-eso-companion-equipment-constant",
   slug: "equip-type-equip-type-chest",
   key: "equip-type:EQUIP_TYPE_CHEST",
   title: "Equip Type Chest",

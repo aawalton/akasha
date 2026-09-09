@@ -3,6 +3,7 @@ import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.
 export const fortitudeVitalityVanishHealthRestore = {
   id: "019e21f6-4057-77bd-b738-57be814e3db3",
   pageTypeSlug: "temper-potion-crafted",
+  type: "temper-potion-crafted",
   slug: "fortitude-vitality-vanish-health-restore",
   title: "Essence of Health",
   key: "fortitude-vitality-vanish-health-restore",

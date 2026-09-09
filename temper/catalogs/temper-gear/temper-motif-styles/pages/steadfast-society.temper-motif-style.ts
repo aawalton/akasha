@@ -3,6 +3,7 @@ import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 export const steadfastSociety = {
   id: "019e5a46-c49e-7955-94d7-8542f8d1c913",
   pageTypeSlug: "temper-motif-style",
+  type: "temper-motif-style",
   slug: "steadfast-society",
   title: "Steadfast Society",
   collectionIndex: 97,

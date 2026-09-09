@@ -3,6 +3,7 @@ import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.
 export const dagger = {
   id: "01a05fcd-ea6d-75c8-a65a-8f83fbbdd731",
   pageTypeSlug: "temper-companion-weapon-type",
+  type: "temper-companion-weapon-type",
   slug: "dagger",
   key: "dagger",
   title: "Dagger",

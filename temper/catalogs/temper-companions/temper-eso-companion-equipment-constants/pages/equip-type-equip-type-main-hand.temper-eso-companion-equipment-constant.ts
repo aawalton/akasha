@@ -3,6 +3,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companio
 export const equipTypeEquipTypeMainHand = {
   id: "01a05fcf-5922-77d8-9b73-0aeb4fece089",
   pageTypeSlug: "temper-eso-companion-equipment-constant",
+  type: "temper-eso-companion-equipment-constant",
   slug: "equip-type-equip-type-main-hand",
   key: "equip-type:EQUIP_TYPE_MAIN_HAND",
   title: "Equip Type Main Hand",

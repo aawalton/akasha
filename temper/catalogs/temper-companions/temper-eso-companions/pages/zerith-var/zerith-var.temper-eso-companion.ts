@@ -3,6 +3,7 @@ import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts
 export const zerithVar = {
   id: "01a05fcf-5921-7f8a-abd6-ebccbdc3b4f3",
   pageTypeSlug: "temper-eso-companion",
+  type: "temper-eso-companion",
   slug: "zerith-var",
   key: "zerith-var",
   title: "Zerith-var",

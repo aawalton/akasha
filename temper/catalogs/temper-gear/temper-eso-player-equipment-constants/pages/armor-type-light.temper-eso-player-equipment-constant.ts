@@ -3,6 +3,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equi
 export const armorTypeLight = {
   id: "01a05fd7-41be-70af-b9f9-1b340931d8db",
   pageTypeSlug: "temper-eso-player-equipment-constant",
+  type: "temper-eso-player-equipment-constant",
   slug: "armor-type-light",
   title: "Armor Type Light",
   key: "armor-type:light",

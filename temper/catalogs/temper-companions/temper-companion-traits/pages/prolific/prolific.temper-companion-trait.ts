@@ -3,6 +3,7 @@ import type { TemperCompanionTrait } from "../../temper-companion-trait.page-typ
 export const prolific = {
   id: "01a05fce-c4b0-7db1-b613-848e703bbfc8",
   pageTypeSlug: "temper-companion-trait",
+  type: "temper-companion-trait",
   slug: "prolific",
   key: "prolific",
   title: "Prolific",

@@ -3,6 +3,7 @@ import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equi
 export const weaponTypeAxe = {
   id: "01a05fd7-41c2-78ee-88b6-35ed73659e10",
   pageTypeSlug: "temper-eso-player-equipment-constant",
+  type: "temper-eso-player-equipment-constant",
   slug: "weapon-type-axe",
   title: "Weapon Type Axe",
   key: "weapon-type:axe",

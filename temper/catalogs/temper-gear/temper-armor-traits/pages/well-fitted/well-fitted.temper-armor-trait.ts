@@ -3,6 +3,7 @@ import type { TemperArmorTrait } from "../../temper-armor-trait.page-type.ts"
 export const wellFitted = {
   id: "01a05fb2-1bd1-73f9-bcca-bd39fc693315",
   pageTypeSlug: "temper-armor-trait",
+  type: "temper-armor-trait",
   slug: "well-fitted",
   title: "Well-Fitted",
   key: "well-fitted",

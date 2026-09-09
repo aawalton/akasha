@@ -3,6 +3,7 @@ import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.ts"
 export const goldCoastSwiftSurvivorElixir = {
   id: "019e21f5-753d-725c-8f3f-3f7153cf80d8",
   pageTypeSlug: "temper-potion-crown",
+  type: "temper-potion-crown",
   slug: "gold-coast-swift-survivor-elixir",
   title: "Gold Coast Swift Survivor Elixir",
   key: "gold-coast-swift-survivor-elixir",

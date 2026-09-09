@@ -3,6 +3,7 @@ import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts
 export const vitality = {
   id: "019e21f7-0f7b-7a1e-9c4d-3e7027222d9e",
   pageTypeSlug: "temper-poison-effect",
+  type: "temper-poison-effect",
   slug: "vitality",
   title: "Vitality",
   key: "vitality",

@@ -3,6 +3,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companio
 export const qualityEsoToCompanion5 = {
   id: "01a05fcf-5927-79cf-925e-4c84b744ffdb",
   pageTypeSlug: "temper-eso-companion-equipment-constant",
+  type: "temper-eso-companion-equipment-constant",
   slug: "quality-eso-to-companion-5",
   key: "quality-eso-to-companion:5",
   title: "ESO Quality 5 → Legendary",

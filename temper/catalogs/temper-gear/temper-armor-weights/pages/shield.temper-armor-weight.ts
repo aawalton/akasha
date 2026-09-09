@@ -3,6 +3,7 @@ import type { TemperArmorWeight } from "../temper-armor-weight.page-type.ts"
 export const shield = {
   id: "01a05fd5-4dd2-7ee6-b974-17ec1acd050b",
   pageTypeSlug: "temper-armor-weight",
+  type: "temper-armor-weight",
   slug: "shield",
   title: "Shield",
   key: "shield",

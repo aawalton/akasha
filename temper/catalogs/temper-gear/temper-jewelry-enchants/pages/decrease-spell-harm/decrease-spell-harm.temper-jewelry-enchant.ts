@@ -3,6 +3,7 @@ import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-typ
 export const decreaseSpellHarm = {
   id: "019e5c85-d95c-73c8-bb14-91cea6c435c1",
   pageTypeSlug: "temper-jewelry-enchant",
+  type: "temper-jewelry-enchant",
   slug: "decrease-spell-harm",
   title: "Decrease Spell Harm",
   key: "decrease-spell-harm",

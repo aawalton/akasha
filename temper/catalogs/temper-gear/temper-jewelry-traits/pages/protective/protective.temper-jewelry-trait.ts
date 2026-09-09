@@ -3,6 +3,7 @@ import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts
 export const protective = {
   id: "019e5b97-6d92-72c7-9fd1-340ac0828a70",
   pageTypeSlug: "temper-jewelry-trait",
+  type: "temper-jewelry-trait",
   slug: "protective",
   title: "Protective",
   key: "protective",

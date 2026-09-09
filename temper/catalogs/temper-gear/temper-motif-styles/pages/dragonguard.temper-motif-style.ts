@@ -3,6 +3,7 @@ import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
 export const dragonguard = {
   id: "019e5a46-c435-7d61-bc07-42819a4a8e63",
   pageTypeSlug: "temper-motif-style",
+  type: "temper-motif-style",
   slug: "dragonguard",
   title: "Dragonguard",
   collectionIndex: 62,

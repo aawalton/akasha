@@ -3,6 +3,7 @@ import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.
 export const essenceOfPotentMagicka = {
   id: "019e21f5-bdbd-7ca7-89e1-21136cfa219e",
   pageTypeSlug: "temper-potion-dropped",
+  type: "temper-potion-dropped",
   slug: "essence-of-potent-magicka",
   title: "Essence of Potent Magicka",
   key: "essence-of-potent-magicka",

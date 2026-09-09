@@ -3,6 +3,7 @@ import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.
 export const greatsword = {
   id: "01a05fcd-ea6e-7bb6-9628-5a72f8697fa5",
   pageTypeSlug: "temper-companion-weapon-type",
+  type: "temper-companion-weapon-type",
   slug: "greatsword",
   key: "greatsword",
   title: "Greatsword",

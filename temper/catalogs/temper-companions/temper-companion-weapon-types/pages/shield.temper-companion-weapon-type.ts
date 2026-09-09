@@ -3,6 +3,7 @@ import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.
 export const shield = {
   id: "01a05fcd-ea70-706d-82b2-f64fc815bb91",
   pageTypeSlug: "temper-companion-weapon-type",
+  type: "temper-companion-weapon-type",
   slug: "shield",
   key: "shield",
   title: "Shield",

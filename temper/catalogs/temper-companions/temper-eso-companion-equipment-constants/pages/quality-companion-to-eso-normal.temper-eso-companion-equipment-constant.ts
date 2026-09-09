@@ -3,6 +3,7 @@ import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companio
 export const qualityCompanionToEsoNormal = {
   id: "01a05fcf-5925-705f-a347-83440934041b",
   pageTypeSlug: "temper-eso-companion-equipment-constant",
+  type: "temper-eso-companion-equipment-constant",
   slug: "quality-companion-to-eso-normal",
   key: "quality-companion-to-eso:normal",
   title: "Normal → ESO 1",

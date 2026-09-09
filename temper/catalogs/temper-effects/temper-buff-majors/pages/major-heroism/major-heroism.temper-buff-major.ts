@@ -3,6 +3,7 @@ import type { TemperBuffMajor } from "../../temper-buff-major.page-type.ts"
 export const majorHeroism = {
   id: "01a05fc5-f6ba-7967-abdb-a41f265522f0",
   pageTypeSlug: "temper-buff-major",
+  type: "temper-buff-major",
   slug: "major-heroism",
   title: "Major Heroism",
   key: "major-heroism",

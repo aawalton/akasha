@@ -3,6 +3,7 @@ import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts
 export const azandar = {
   id: "01a05fcf-591d-727b-bcd4-81688875cb62",
   pageTypeSlug: "temper-eso-companion",
+  type: "temper-eso-companion",
   slug: "azandar",
   key: "azandar",
   title: "Azandar",

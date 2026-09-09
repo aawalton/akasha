@@ -3,6 +3,7 @@ import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.
 export const essenceOfPotentHealth = {
   id: "019e21f5-bdbb-7636-8558-66688ccc4cf1",
   pageTypeSlug: "temper-potion-dropped",
+  type: "temper-potion-dropped",
   slug: "essence-of-potent-health",
   title: "Essence of Potent Health",
   key: "essence-of-potent-health",

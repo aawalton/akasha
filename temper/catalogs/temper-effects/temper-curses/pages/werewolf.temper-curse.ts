@@ -3,6 +3,7 @@ import type { TemperCurse } from "../temper-curse.page-type.ts"
 export const werewolf = {
   id: "01a05fc5-c92d-7adc-ad4b-ae6284705bc9",
   pageTypeSlug: "temper-curse",
+  type: "temper-curse",
   slug: "werewolf",
   title: "Werewolf",
   key: "werewolf",

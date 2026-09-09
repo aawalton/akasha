@@ -3,6 +3,7 @@ import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.
 export const iceStaff = {
   id: "01a05fcd-ea71-71e9-9633-bee687d43205",
   pageTypeSlug: "temper-companion-weapon-role",
+  type: "temper-companion-weapon-role",
   slug: "ice-staff",
   key: "ice-staff",
   title: "Ice Staff",

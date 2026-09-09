@@ -3,6 +3,7 @@ import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-typ
 export const frostResist = {
   id: "019e5c85-d953-7c74-99c6-3940984cf7de",
   pageTypeSlug: "temper-jewelry-enchant",
+  type: "temper-jewelry-enchant",
   slug: "frost-resist",
   title: "Frost Resist",
   key: "frost-resist",

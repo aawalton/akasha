@@ -3,6 +3,7 @@ import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts
 export const sharpAsNight = {
   id: "01a05fcf-5920-7af5-a91a-352df51376f6",
   pageTypeSlug: "temper-eso-companion",
+  type: "temper-eso-companion",
   slug: "sharp-as-night",
   key: "sharp-as-night",
   title: "Sharp-as-Night",

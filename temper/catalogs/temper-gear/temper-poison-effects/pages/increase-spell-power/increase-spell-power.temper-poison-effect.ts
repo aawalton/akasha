@@ -3,6 +3,7 @@ import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts
 export const increaseSpellPower = {
   id: "019e21f7-0f6a-707f-a5ba-ef91f94d2cac",
   pageTypeSlug: "temper-poison-effect",
+  type: "temper-poison-effect",
   slug: "increase-spell-power",
   title: "Increase Spell Power",
   key: "increase-spell-power",

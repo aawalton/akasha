@@ -3,6 +3,7 @@ import type { TemperBuffMajor } from "../../temper-buff-major.page-type.ts"
 export const majorFortitude = {
   id: "01a05fc5-f6b9-7b48-829b-343e32458dad",
   pageTypeSlug: "temper-buff-major",
+  type: "temper-buff-major",
   slug: "major-fortitude",
   title: "Major Fortitude",
   key: "major-fortitude",

@@ -3,6 +3,7 @@ import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.
 export const brutalityEnduranceExpeditionStaminaRestore = {
   id: "019e21f6-4055-70c3-bd32-673eadc5dbe7",
   pageTypeSlug: "temper-potion-crafted",
+  type: "temper-potion-crafted",
   slug: "brutality-endurance-expedition-stamina-restore",
   title: "Essence of Weapon Power",
   key: "brutality-endurance-expedition-stamina-restore",

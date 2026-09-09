@@ -3,6 +3,7 @@ import type { TemperCompanionTrait } from "../../temper-companion-trait.page-typ
 export const aggressive = {
   id: "01a05fce-c4ae-76d4-b0f2-55ebd7f2e20e",
   pageTypeSlug: "temper-companion-trait",
+  type: "temper-companion-trait",
   slug: "aggressive",
   key: "aggressive",
   title: "Aggressive",

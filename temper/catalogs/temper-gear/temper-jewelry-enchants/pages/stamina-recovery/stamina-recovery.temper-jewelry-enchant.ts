@@ -3,6 +3,7 @@ import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-typ
 export const staminaRecovery = {
   id: "019e5c85-d946-7a55-8269-7417f599aa31",
   pageTypeSlug: "temper-jewelry-enchant",
+  type: "temper-jewelry-enchant",
   slug: "stamina-recovery",
   title: "Stamina Recovery",
   key: "stamina-recovery",

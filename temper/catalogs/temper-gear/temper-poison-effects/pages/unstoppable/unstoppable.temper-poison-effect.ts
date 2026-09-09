@@ -3,6 +3,7 @@ import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts
 export const unstoppable = {
   id: "019e21f7-0f72-7e85-a744-be091c685ded",
   pageTypeSlug: "temper-poison-effect",
+  type: "temper-poison-effect",
   slug: "unstoppable",
   title: "Unstoppable",
   key: "unstoppable",

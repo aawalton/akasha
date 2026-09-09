@@ -3,6 +3,7 @@ import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-typ
 export const flameResist = {
   id: "019e5c85-d952-75c2-8e1c-23698b58c47c",
   pageTypeSlug: "temper-jewelry-enchant",
+  type: "temper-jewelry-enchant",
   slug: "flame-resist",
   title: "Flame Resist",
   key: "flame-resist",

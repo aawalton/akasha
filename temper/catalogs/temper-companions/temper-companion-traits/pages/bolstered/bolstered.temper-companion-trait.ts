@@ -3,6 +3,7 @@ import type { TemperCompanionTrait } from "../../temper-companion-trait.page-typ
 export const bolstered = {
   id: "01a05fce-c4af-7566-b544-fc48ca193628",
   pageTypeSlug: "temper-companion-trait",
+  type: "temper-companion-trait",
   slug: "bolstered",
   key: "bolstered",
   title: "Bolstered",
