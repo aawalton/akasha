@@ -6,7 +6,6 @@ import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
 
 const KEY = "initiative"
 
-// The assignment, under the key the old readers ask it by.
 const ASSIGNMENT_KEY = "domain-slug"
 
 export const INITIATIVE_SLUG_KEY = "initiative-slug"
@@ -19,10 +18,6 @@ export interface InitiativePlace {
   readonly relPath: string
   readonly pageTypeSlug: string
 }
-
-// An initiative is a page standing in akasha, found through the index rather than by walking, and a
-// slug is unique among the pages of its page type. So a slug reaches one initiative or none, and
-// there is no spelling to take apart and no ambiguity to refuse.
 
 export function initiativesIn(root: string): ReadonlyMap<string, string> {
   return new Map(initiativesDrawn(root).map((one) => [one.slug, one.path]))
@@ -38,10 +33,6 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   return { relPath: at, pageTypeSlug: KEY }
 }
 
-// A seat's initiative is the assignment it states, under the page type that initiative stands as.
-// An assignment naming another type is no initiative, and a bare slug names a domain. The old
-// `initiative-slug` stood beside the assignment saying the same thing, and no seat ever stated it,
-// so the sweep that read it swept nothing.
 export function initiativeOf(agent: string): InitiativeRecord | null {
   const stated = pageTextOf(agent, ASSIGNMENT_KEY)
   if (stated === null) return null
