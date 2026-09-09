@@ -1151,6 +1151,14 @@
     "temper/lib-gps": {
       "name": "@akasha/temper-lib-gps",
     },
+    "temper/lib-histoire": {
+      "name": "@akasha/temper-lib-histoire",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "temper/lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
     },
@@ -1330,14 +1338,6 @@
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
-    },
-    "temper/temper-lib-histoire": {
-      "name": "@akasha/temper-lib-histoire",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/temper-lib-scrollable-menu": {
       "name": "@akasha/temper-lib-scrollable-menu",
@@ -1657,7 +1657,7 @@
 
     "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/lib-gps"],
 
-    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/temper-lib-histoire"],
+    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/lib-histoire"],
 
     "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:temper/lib-main-menu"],
 
