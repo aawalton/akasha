@@ -1,4 +1,4 @@
-import type { ShoppingPlan } from "akasha/temper/temper-shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { z } from "zod"
 
 interface ProgressEvent {

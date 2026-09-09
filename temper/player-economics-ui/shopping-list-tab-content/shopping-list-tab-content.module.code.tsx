@@ -26,12 +26,12 @@ import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/ca
 import { Progress } from "@akasha/design-primitives/progress-bar"
 import { Text } from "@akasha/design-primitives/text-body"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import { PricingRegionNote } from "akasha/temper/temper-player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,
   needToShoppingKey,
-} from "akasha/temper/temper-shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
-import { isShoppingSettings } from "akasha/temper/temper-shopping/shopping-settings/shopping-settings.module.code.ts"
+} from "akasha/temper/shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
+import { isShoppingSettings } from "akasha/temper/shopping/shopping-settings/shopping-settings.module.code.ts"
+import { PricingRegionNote } from "akasha/temper/temper-player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"

@@ -1,4 +1,4 @@
-import type { ShoppingPlan } from "akasha/temper/temper-shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { z } from "zod"
 import type { OptimizerState } from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { shoppingPlanSchema } from "../shopping-plan-schema/shopping-plan-schema.module.code.ts"

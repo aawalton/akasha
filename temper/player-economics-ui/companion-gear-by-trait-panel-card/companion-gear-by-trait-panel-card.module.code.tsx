@@ -5,6 +5,7 @@ import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { needToShoppingKey } from "akasha/temper/shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { companionEquipmentQualities } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
 import {
@@ -16,7 +17,6 @@ import {
   type CompanionGearNeed,
   type GearNeededGroup,
 } from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
-import { needToShoppingKey } from "akasha/temper/temper-shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { useMemo, useState } from "react"
