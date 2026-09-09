@@ -7,7 +7,6 @@ export const commandSystem = {
   definition: "what an agent runs by name",
   manifest: "json",
   parts: [
-    "module/answer-bytes",
     "page-type/command",
     "module/calling",
     "module/command-answering",
