@@ -1,6 +1,6 @@
 import type { FileProperty } from "../file-properties/file-property.page-type.ts"
+import type { FileName } from "../file-properties/properties/file-name.text-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { FileName } from "./properties/file-name.text-property.ts"
 
 export type NamedFileProperty = FileProperty & {
   fileName: FileName
@@ -12,7 +12,6 @@ export const namedFileProperty = {
   slug: "named-file-property",
   definition: "a page property held in a file whose name is stated",
   pluralSlug: "named-file-properties",
-  partSlugs: ["text-property/file-name"],
   extendsSlug: ["page-type/file-property"],
   properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
   invariants: [
