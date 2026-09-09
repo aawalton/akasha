@@ -14,13 +14,13 @@ export const amyDayModel = {
       statement:
         "Everything measured about one of Alan's days sits on one `day` page under `alan/track/days/pages`.",
       workingMemory:
-        "The type is `day` and every page is slugged `day-YYYY-MM-DD` under `alan/track/days/pages`, 250 of them, one for each date with data. Nothing in the day model is named for a waking now. A day begins when its first sleep block starting or running past six the previous evening began, derived on every read, and a day finding no such sleep opens at six the previous evening. What is left is `eso-day`, which still has the health samples and the listens.",
+        "The type is `day` and every page is slugged `day-YYYY-MM-DD` under `alan/track/days/pages`. `eso-day` is no longer a page type: its 253 row files sit beside the day page of the same date, byte for byte, and the six-in-the-morning ESO boundary remains only as the rule saying which date a reading is filed under. What is left is `email-entry`, 20 pages of one day each, holding one number apiece.",
     },
     {
       statement:
-        "Every health sample and listen filed under an ESO day is filed under the day Alan woke into.",
+        "Points and calories on a day page are counted over the window the day model derives.",
       workingMemory:
-        "The day folder is a shard rather than a claim: `sample-selecting` sweeps a day either side of the range asked for and filters on each sample's own instant, so refiling changes no answer. The boundary now moves whenever Alan retitles a Rest block as Sleep, so a day key written onto a row is wrong from that moment. Amy has recommended dropping the refiling and deriving the day a sample falls in, and Alan has not yet ruled.",
+        "45 of 250 days hold different session-row counts under `getEsoDayWindow` than under `spannedWindow`, so points and calories on one day page are counted over different days. `session-points-compute.module.code.ts:103,107`, `task-completions.module.code.ts:120` and `topic-words.module.code.ts:64` take the first; `active-calories.module.code.ts:30` takes the second. Held back because mending it recomputes points already stored on day pages, which Alan watches.",
     },
   ],
 } as const satisfies Initiative
