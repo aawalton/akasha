@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAddonLibraryTypes = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-addon-library-types",
   definition: "the types a compiler reads for the libraries an Elder Scrolls Online addon calls",
-  manifest: "json",
   parts: [
     "type-declaration/arkadius-trade-tools",
     "type-declaration/bui",
@@ -62,4 +61,4 @@ export const temperAddonLibraryTypes = {
     "type-declaration/temper-keybinder-global",
     "type-declaration/temper-catalog-global",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

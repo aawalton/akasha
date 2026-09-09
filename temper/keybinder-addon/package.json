@@ -21,6 +21,5 @@
     "./keybinder-entry": "./keybinder-entry/keybinder-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-library-types": "workspace:*"
   }
 }

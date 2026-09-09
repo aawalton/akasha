@@ -56,7 +56,6 @@
     "./lib-histoire-controls": "./lib-histoire-controls/lib-histoire-controls.type-declaration.d.ts"
   },
   "dependencies": {
-    "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/temper-addon-library-types": "workspace:*"
+    "@akasha/temper-eso-types": "workspace:*"
   }
 }

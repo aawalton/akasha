@@ -11,6 +11,5 @@
     "./datamining-entry": "./datamining-entry/datamining-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-library-types": "workspace:*"
   }
 }

@@ -160,7 +160,6 @@
     "./combat-ui-window": "./combat-ui-window/combat-ui-window.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

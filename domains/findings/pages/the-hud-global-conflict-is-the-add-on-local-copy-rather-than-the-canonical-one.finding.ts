@@ -5,7 +5,7 @@ export const theHudGlobalConflictIsTheAddOnLocalCopyRatherThanTheCanonicalOne = 
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-hud-global-conflict-is-the-add-on-local-copy-rather-than-the-canonical-one",
-  domain: "workspace-package/temper-addon-library-types",
+  domain: "domain/temper-addon-library-types",
   claim:
     "The `TemperHud` TS2403 is drawn by an add-on-local `declare global` narrower than the canonical one, and the legacy add-on misses it only because its own tsconfig omits `temper-addon-library-types`. A recreation cannot omit it: the synthesized settings inject that package unconditionally. The mend is to drop the local copy, and no call site changes.",
   evidence:

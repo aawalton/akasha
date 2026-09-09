@@ -21,7 +21,6 @@
     "./selector-entry": "./selector-entry/selector-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*"
   }
 }
