@@ -1117,6 +1117,12 @@
     "temper/lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
+    "temper/lib-character-knowledge": {
+      "name": "@akasha/temper-lib-character-knowledge",
+      "dependencies": {
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "temper/lib-chat-message": {
       "name": "@akasha/temper-lib-chat-message",
     },
@@ -1324,12 +1330,6 @@
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
-    },
-    "temper/temper-lib-character-knowledge": {
-      "name": "@akasha/temper-lib-character-knowledge",
-      "dependencies": {
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/temper-lib-histoire": {
       "name": "@akasha/temper-lib-histoire",
@@ -1643,7 +1643,7 @@
 
     "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:temper/temper-lib-async"],
 
-    "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/temper-lib-character-knowledge"],
+    "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/lib-character-knowledge"],
 
     "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:temper/lib-chat-message"],
 
