@@ -11,10 +11,12 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's widgets load.",
       workingMemory:
-        'The tiles draw `RefusedView` ("Sign in"), which `alanwalton-widget-feed.ios-component.swift.swift:132` reaches on an empty keychain read and `:140` on a 401. `DeviceSecretReader.read()` answers nothing both for no keychain item and for two (`alanwalton-device-secret-reader...swift:20-27`). No device secret page has landed since 2026-09-07, so signing out and in again minted nothing while the tailnet was down. Signing in now is the first thing to try. The serving pod does not carry HEAD.\n',
+        'TestFlight build 208 (`c2aba127`) puts a word under "Sign in" naming which keychain case refused the tile: `no key`, `2 keys`, `key err <n>` or `key ok`. `DeviceSecretReader.read()` answers nothing both for no keychain item and for two, so that word is what separates them. The pod now carries the access query naming `person` rather than `personSlug`. Alan reads the word off any tile next.\n',
     },
     {
       statement: "Alan's app fills his password in from 1Password.",
+      workingMemory:
+        'The form is already right: a real `<form>`, `type="password"`, `autoComplete="current-password"` (`auth-page-content.module.code.tsx:128-164`). Missing is the pairing iOS matches a credential on: the app entitlements declare no `com.apple.developer.associated-domains`, and no `apple-app-site-association` is served. The webview also runs under `capacitor://localhost`, no https origin. Past both, `alanwalton-keyboard-accessory-suppressor` nils `inputAccessoryView`, taking away the AutoFill bar.\n',
     },
     {
       statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
