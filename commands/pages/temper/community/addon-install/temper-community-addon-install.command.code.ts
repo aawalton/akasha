@@ -2,8 +2,8 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
-import { installNamedAddon } from "@akasha/temper-community-addons/install-named-addon"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { installNamedAddon } from "akasha/temper/community-addons/install-named-addon/install-named-addon.module.code.ts"
 import {
   namesIn,
   valuesOf,

@@ -2,17 +2,20 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
-import { downloadAndInstall } from "@akasha/temper-community-addons/addon-download"
+import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { downloadAndInstall } from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
 import {
   distinctUids,
   type PlannedAddon,
   planUpdates,
   selectTargets,
   unknownOnlyDirs,
-} from "@akasha/temper-community-addons/addon-update-plan"
-import { fetchCatalog, fetchFileDetails } from "@akasha/temper-community-addons/esoui-catalog"
-import { readInstalledAddons } from "@akasha/temper-community-addons/installed-addons"
-import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+} from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
+import {
+  fetchCatalog,
+  fetchFileDetails,
+} from "akasha/temper/community-addons/esoui-catalog/esoui-catalog.module.code.ts"
+import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1

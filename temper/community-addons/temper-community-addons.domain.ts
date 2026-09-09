@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCommunityAddons = {
   id: "01a06069-b78d-7c82-89e1-869e95dd5dc4",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-community-addons",
   definition: "addons other people wrote, fetched from ESOUI and kept current",
-  manifest: "json",
   parts: [
     "module/addon-update-plan",
     "module/esoui-catalog",
@@ -28,4 +27,4 @@ export const temperCommunityAddons = {
       statement: "An installed addon states its version in the manifest the game reads.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
