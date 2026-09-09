@@ -5,6 +5,7 @@ export const check = {
   pageTypeSlug: "workspace-package",
   slug: "check",
   definition: "how a change is judged against what must be true of it",
+  pluralSlug: "checks",
   manifest: "json",
   parts: [
     "module/body-not-utf8",
