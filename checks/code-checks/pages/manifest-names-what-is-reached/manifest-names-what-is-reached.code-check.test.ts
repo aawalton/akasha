@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Change } from "@akasha/pages/change"
 import {
   creditedIn,
   declaringIn,
@@ -8,12 +9,25 @@ import {
   type Reach,
   reachFrom,
   reachIn,
+  rootedIn,
   styleReachIn,
   typesFor,
   typesTargetOf,
   unnamedIn,
   unreachedIn,
 } from "./manifest-names-what-is-reached.code-check.code.ts"
+
+const ROOT_MANIFEST = "package.json"
+
+function rooting(text: string | null): Change {
+  const bytes = text === null ? null : new TextEncoder().encode(text)
+  return {
+    root: "/probe",
+    changed: [ROOT_MANIFEST],
+    before: () => null,
+    after: (path) => (path === ROOT_MANIFEST ? bytes : null),
+  }
+}
 
 const FOLDER = "akasha/one-system"
 
@@ -159,6 +173,19 @@ test("a package reached and not named is refused, naming the package and the man
 test("a reach at a package the akasha folder itself holds is let through", () => {
   const held = named({ name: "@akasha/one" })
   expect(unnamedIn(held, new Set(["@akasha/two"]), reaching("@akasha/two"))).toEqual([])
+})
+
+test("the name the root's own manifest states is a package the akasha folder has", () => {
+  expect(rootedIn(rooting('{ "name": "probe" }\n'), ROOT_MANIFEST)).toBe("probe")
+})
+
+test("a root manifest with no body names no package", () => {
+  expect(rootedIn(rooting(null), ROOT_MANIFEST)).toBe(null)
+})
+
+test("the root is reached without any manifest naming the root", () => {
+  const held = named({ name: "@akasha/one" })
+  expect(unnamedIn(held, new Set(["probe"]), reaching("probe"))).toEqual([])
 })
 
 test("a package reached is named by the `@types` package standing for it", () => {

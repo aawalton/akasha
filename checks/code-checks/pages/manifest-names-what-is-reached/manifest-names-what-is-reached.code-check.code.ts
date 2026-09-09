@@ -18,6 +18,7 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   type Manifest,
+  manifestNamed,
   manifestsIn,
   packagePagesIn,
 } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
@@ -191,6 +192,11 @@ export function declaringIn(folder: string, at: string, text: string): Named | n
   }
 }
 
+export function rootedIn(change: Change, at: string): string | null {
+  const text = textIn(change, at)
+  return text === null ? null : calledIn(text)
+}
+
 export function ownerOf(folders: readonly string[], path: string): string | null {
   let found: string | null = null
   for (const one of folders) {
@@ -321,6 +327,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const folders = packages.map((one) => one.folder)
   const byName = new Map(packages.map((one) => [one.called, one]))
   const names = new Set(byName.keys())
+  const rooted = rootedIn(change, manifestNamed(shadow))
+  if (rooted !== null) names.add(rooted)
   const byFolder = new Map(packages.map((one) => [one.folder, one]))
   const carried = new Map(packages.map((one) => [one.at, one]))
   const byTool = byToolOver(shadow)

@@ -85,6 +85,14 @@ export const manifestNamesWhatIsReached = {
     },
     {
       invariantKind: "departure",
+      statement: "The name the root's own manifest states is a package the akasha folder has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root is reached without any manifest naming the root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dependency naming a package the akasha folder itself has is let through.",
     },
     {

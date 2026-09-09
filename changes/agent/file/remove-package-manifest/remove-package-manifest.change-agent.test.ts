@@ -330,8 +330,7 @@ const NEAR_BODY = `{
 const NEAR_WANTED = `{
   "name": "@probe/near",
   "dependencies": {
-    "zod": "^4.3.6",
-    "probe": "workspace:*"
+    "zod": "^4.3.6"
   }
 }
 `
@@ -349,7 +348,7 @@ export const near = two
 const FAR_BODY = `{
   "name": "@probe/far",
   "dependencies": {
-    "probe": "workspace:*",
+    "yaml": "^2.8.1",
     "${LONE}": "workspace:*"
   }
 }
@@ -358,7 +357,7 @@ const FAR_BODY = `{
 const FAR_WANTED = `{
   "name": "@probe/far",
   "dependencies": {
-    "probe": "workspace:*"
+    "yaml": "^2.8.1"
   }
 }
 `
@@ -461,11 +460,8 @@ test("a manifest naming a package folded into the root drops that entry", () => 
   expect(rootFolded().get(FAR_MANIFEST)).toBe(FAR_WANTED)
 })
 
-test("a manifest holding a body this fold respells names the root instead", () => {
+test("a manifest names the root nowhere, the root being reached without being named", () => {
   expect(rootFolded().get(NEAR_MANIFEST)).toBe(NEAR_WANTED)
-})
-
-test("a manifest naming the root already is left as that manifest states it", () => {
   expect(rootFolded().get(FAR_MANIFEST)).toBe(FAR_WANTED)
 })
 

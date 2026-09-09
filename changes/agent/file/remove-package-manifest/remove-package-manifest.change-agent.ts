@@ -45,15 +45,7 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest holding a body this fold respells names the root instead.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A manifest naming the root already is left as that manifest states it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The manifest holding a body is the nearest above it but the manifest going.",
+      statement: "A manifest names the root nowhere, the root being reached without being named.",
     },
     {
       invariantKind: "departure",

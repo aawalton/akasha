@@ -88,7 +88,7 @@ function nameReasonsIn(text: string, matching: Matching): readonly string[] {
   return said === null ? [] : [said]
 }
 
-function manifestNamed(shadow: Shadow): string {
+export function manifestNamed(shadow: Shadow): string {
   const said = shadow.index.fileKeysAt().get(MANIFEST)
   if (said === undefined || said === null) throw new Error(NO_MANIFEST)
   return said
