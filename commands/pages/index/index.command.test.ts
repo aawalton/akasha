@@ -39,6 +39,8 @@ const B_ID = "01a04de1-2000-7000-8000-000000000003"
 
 const ROOT_ID = "01a04de1-2000-7000-8000-000000000004"
 
+const WORKTREE_ID = "01a04de1-2000-7000-8000-000000000005"
+
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
@@ -62,7 +64,7 @@ function typed(
     id: `01a04de1-2000-7000-8000-0000000000${last}`,
     pageTypeSlug: "page-type",
     slug,
-    extendsSlug: above,
+    extends: above,
     properties,
   })
 }
@@ -75,7 +77,7 @@ const PAGES: Readonly<Record<string, string>> = {
     id: TYPE_ID,
     pageTypeSlug: "page-type",
     slug: "domain",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   }),
   "text-property.page-type.ts": bodyOf(textProperty),
   "id.text-property.ts": bodyOf(idPage),
@@ -190,7 +192,8 @@ test("an index already saying what the pages say is reported as differing in not
 test("a worktree differing from HEAD is built over rather than refused", () => {
   const root = repoAt()
   seeded(root)
-  writeFileSync(join(root, "b.domain.ts"), bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "b" }))
+  const body = bodyOf({ id: WORKTREE_ID, pageTypeSlug: "domain", slug: "b" })
+  writeFileSync(join(root, "b.domain.ts"), body)
   const answer = index(["refresh"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(listedFiledIn(root, "domain", "b")).toBe(true)
