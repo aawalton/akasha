@@ -205,7 +205,7 @@ test("a page type is judged when the change carries a property it declares", () 
     { pagePropertySlug: "number-property/held", required: false, many: false },
   ])
   pageFiled(root, TWO, at)
-  edging(root, THREE, "page-property-slug", TWO, at)
+  edging(root, THREE, "page-property", TWO, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
   )
@@ -222,7 +222,7 @@ test("a page type under a judged page type is judged as well", () => {
   typed(root, "under", "over")
   pageFiled(root, "id-over", over)
   pageFiled(root, "id-under", under)
-  edging(root, THREE, "page-property-slug", "id-over", over)
+  edging(root, THREE, "page-property", "id-over", over)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
   )
@@ -292,7 +292,7 @@ test("a record property is judged when the change carries a field it declares", 
     { pagePropertySlug: "number-property/held", required: false, many: false },
   ])
   pageFiled(root, TWO, at)
-  edging(root, THREE, "page-property-slug", TWO, at)
+  edging(root, THREE, "page-property", TWO, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
   )
