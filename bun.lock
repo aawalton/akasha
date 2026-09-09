@@ -1141,6 +1141,9 @@
     "temper/lib-notification": {
       "name": "@akasha/temper-lib-notification",
     },
+    "temper/lib-price": {
+      "name": "@akasha/temper-lib-price",
+    },
     "temper/lib-shifter-box": {
       "name": "@akasha/temper-lib-shifter-box",
     },
@@ -1332,9 +1335,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
       },
-    },
-    "temper/temper-lib-price": {
-      "name": "@akasha/temper-lib-price",
     },
     "temper/temper-lib-saved-vars": {
       "name": "@akasha/temper-lib-saved-vars",
@@ -1671,7 +1671,7 @@
 
     "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:temper/lib-notification"],
 
-    "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:temper/temper-lib-price"],
+    "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:temper/lib-price"],
 
     "@akasha/temper-lib-saved-vars": ["@akasha/temper-lib-saved-vars@workspace:temper/temper-lib-saved-vars"],
 
