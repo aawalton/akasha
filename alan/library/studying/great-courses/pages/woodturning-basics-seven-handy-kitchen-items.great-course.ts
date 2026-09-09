@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const woodturningBasicsSevenHandyKitchenItems = {
   id: "019db533-f39e-7555-abe3-5e5fbd3209b7",

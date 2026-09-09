@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theMathematicsOfGamesAndPuzzlesFromCardsToSudoku = {
   id: "019db533-f3a0-7673-9676-670784b3a5bc",

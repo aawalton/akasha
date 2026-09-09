@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theArtOfStorytellingFromParentsToProfessionals = {
   id: "019db533-f39e-780a-9c80-0061c6d367cd",

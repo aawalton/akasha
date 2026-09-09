@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theUltimateTShirtQuilt = {
   id: "019db533-f39e-745d-b564-7b4cfa93d604",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   id: "019db533-f39e-767c-b154-cbee1524d1dd",
