@@ -8,7 +8,7 @@ export const justAddMana0161Book3Blooper = {
   story: "just-add-mana",
   position: 161,
   ownLength: 711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3644296/book-3-blooper",

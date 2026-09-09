@@ -9,7 +9,7 @@ export const justAddMana0006Chapter6AncientArtifactsPt1 = {
   position: 6,
   ownLength: 3029,
   ownProgress: 3029,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:47:43.537Z",
   publishedAt: "2025-07-17",
   externalLink:

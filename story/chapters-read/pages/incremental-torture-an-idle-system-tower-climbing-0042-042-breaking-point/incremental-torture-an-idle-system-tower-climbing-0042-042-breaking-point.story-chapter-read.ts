@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0042042BreakingPoint = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 42,
   ownLength: 2190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1639625/042-breaking-point",

@@ -9,7 +9,7 @@ export const justAddMana008686Book2Chapter34ReturnToForm = {
   position: 86,
   ownLength: 3015,
   ownProgress: 3015,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:35.002Z",
   publishedAt: "2026-01-13",
   externalLink:

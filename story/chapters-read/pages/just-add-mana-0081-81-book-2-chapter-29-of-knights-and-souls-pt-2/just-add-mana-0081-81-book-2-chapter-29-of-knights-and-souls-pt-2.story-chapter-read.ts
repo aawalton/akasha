@@ -9,7 +9,7 @@ export const justAddMana008181Book2Chapter29OfKnightsAndSoulsPt2 = {
   position: 81,
   ownLength: 3699,
   ownProgress: 3699,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:25.163Z",
   publishedAt: "2026-01-01",
   externalLink:

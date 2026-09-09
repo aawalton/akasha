@@ -9,7 +9,7 @@ export const justAddMana0013Chapter13IntroductionToTheStandardArrayPt3 = {
   position: 13,
   ownLength: 3761,
   ownProgress: 3761,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:47:57.746Z",
   publishedAt: "2025-07-29",
   externalLink:

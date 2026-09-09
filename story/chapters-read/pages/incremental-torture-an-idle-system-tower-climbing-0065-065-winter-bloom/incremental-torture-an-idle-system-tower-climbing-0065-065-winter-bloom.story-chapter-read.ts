@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0065065WinterBloom = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 65,
   ownLength: 2249,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1703093/065-winter-bloom",

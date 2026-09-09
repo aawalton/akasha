@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0054054Defiance = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 54,
   ownLength: 2127,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1673790/054-defiance",

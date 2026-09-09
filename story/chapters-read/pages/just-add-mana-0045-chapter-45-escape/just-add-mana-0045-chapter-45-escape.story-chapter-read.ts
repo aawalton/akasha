@@ -9,7 +9,7 @@ export const justAddMana0045Chapter45Escape = {
   position: 45,
   ownLength: 3379,
   ownProgress: 3379,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:06.887Z",
   publishedAt: "2025-10-09",
   externalLink:

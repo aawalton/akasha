@@ -8,7 +8,7 @@ export const justAddMana0167162Book4Chapter6DivineDomain = {
   story: "just-add-mana",
   position: 167,
   ownLength: 3629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3706505/162-book-4-chapter-6-divine-domain",

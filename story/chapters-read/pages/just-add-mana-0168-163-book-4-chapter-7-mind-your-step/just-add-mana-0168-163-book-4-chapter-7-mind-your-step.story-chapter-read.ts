@@ -8,7 +8,7 @@ export const justAddMana0168163Book4Chapter7MindYourStep = {
   story: "just-add-mana",
   position: 168,
   ownLength: 3314,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3714969/163-book-4-chapter-7-mind-your-step",

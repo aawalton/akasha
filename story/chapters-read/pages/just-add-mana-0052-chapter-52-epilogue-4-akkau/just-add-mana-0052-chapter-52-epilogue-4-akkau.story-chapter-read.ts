@@ -9,7 +9,7 @@ export const justAddMana0052Chapter52Epilogue4Akkau = {
   position: 52,
   ownLength: 2019,
   ownProgress: 2019,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:21.898Z",
   publishedAt: "2025-10-25",
   externalLink:

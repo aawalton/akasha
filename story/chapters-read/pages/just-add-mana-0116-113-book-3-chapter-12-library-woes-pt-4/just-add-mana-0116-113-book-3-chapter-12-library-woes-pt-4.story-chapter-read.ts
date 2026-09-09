@@ -8,7 +8,7 @@ export const justAddMana0116113Book3Chapter12LibraryWoesPt4 = {
   story: "just-add-mana",
   position: 116,
   ownLength: 3306,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3187745/113-book-3-chapter-12--library-woes-pt-4",

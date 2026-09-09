@@ -9,7 +9,7 @@ export const justAddMana0031Chapter31Recovery = {
   position: 31,
   ownLength: 3946,
   ownProgress: 3946,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:36.786Z",
   publishedAt: "2025-09-06",
   externalLink:

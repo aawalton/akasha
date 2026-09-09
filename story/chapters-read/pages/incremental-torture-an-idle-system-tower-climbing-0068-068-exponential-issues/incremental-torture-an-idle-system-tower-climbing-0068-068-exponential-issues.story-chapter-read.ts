@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0068068ExponentialIssues
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 68,
   ownLength: 2354,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1712320/068-exponential-issues",

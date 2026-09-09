@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0067067OathsAndOffices =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 67,
   ownLength: 1961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1709538/067-oaths-and-offices",

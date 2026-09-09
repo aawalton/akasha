@@ -9,7 +9,7 @@ export const justAddMana0049Chapter49Epilogue1Cale = {
   position: 49,
   ownLength: 2025,
   ownProgress: 2025,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:15.273Z",
   publishedAt: "2025-10-18",
   externalLink:

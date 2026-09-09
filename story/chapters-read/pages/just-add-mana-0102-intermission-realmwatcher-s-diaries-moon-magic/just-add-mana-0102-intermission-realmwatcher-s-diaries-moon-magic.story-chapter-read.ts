@@ -9,7 +9,7 @@ export const justAddMana0102IntermissionRealmwatcherSDiariesMoonMagic = {
   position: 102,
   ownLength: 1153,
   ownProgress: 1153,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:09.245Z",
   publishedAt: "2026-02-19",
   externalLink:

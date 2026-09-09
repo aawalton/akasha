@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0020020ClashOfTheTitans 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 20,
   ownLength: 2217,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1601988/020-clash-of-the-titans",

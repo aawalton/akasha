@@ -9,7 +9,7 @@ export const justAddMana009494Book2Chapter42RedSymphonyPt3 = {
   position: 94,
   ownLength: 3368,
   ownProgress: 3368,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:52.572Z",
   publishedAt: "2026-01-31",
   externalLink:

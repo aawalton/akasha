@@ -9,7 +9,7 @@ export const justAddMana007373Book2Chapter21EyeOfTheStormPt1 = {
   position: 73,
   ownLength: 3390,
   ownProgress: 3390,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:08.488Z",
   publishedAt: "2025-12-13",
   externalLink:

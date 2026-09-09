@@ -9,7 +9,7 @@ export const justAddMana006666Book2Chapter14Storms = {
   position: 66,
   ownLength: 3201,
   ownProgress: 3201,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:53.433Z",
   publishedAt: "2025-11-27",
   externalLink:

@@ -9,7 +9,7 @@ export const justAddMana0038Chapter38StatusUpdate = {
   position: 38,
   ownLength: 3960,
   ownProgress: 3960,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:52.086Z",
   publishedAt: "2025-09-25",
   externalLink:

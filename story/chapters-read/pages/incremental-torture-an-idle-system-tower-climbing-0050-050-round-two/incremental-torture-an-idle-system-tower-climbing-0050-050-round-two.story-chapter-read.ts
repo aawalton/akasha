@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0050050RoundTwo = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 50,
   ownLength: 2270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1662002/050-round-two",

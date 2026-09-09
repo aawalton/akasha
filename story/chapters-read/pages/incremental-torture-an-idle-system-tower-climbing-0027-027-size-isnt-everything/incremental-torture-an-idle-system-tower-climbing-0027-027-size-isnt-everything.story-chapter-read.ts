@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0027027SizeIsntEverythin
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 27,
   ownLength: 2156,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1613021/027-size-isnt-everything",

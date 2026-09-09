@@ -8,7 +8,7 @@ export const justAddMana0169164Book4Chapter8StateOfTheRealms = {
   story: "just-add-mana",
   position: 169,
   ownLength: 3292,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3724342/164-book-4-chapter-8-state-of-the-realms",

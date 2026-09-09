@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0008ChapterEightTurfWar = {
   story: "labyrinth-of-the-mad-god",
   position: 8,
   ownLength: 1798,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334042/chapter-eight-turf-war",

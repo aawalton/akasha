@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0002ChapterTwoWelcomeToTheSystem = {
   story: "labyrinth-of-the-mad-god",
   position: 2,
   ownLength: 1614,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330741/chapter-two-welcome-to-the-system",

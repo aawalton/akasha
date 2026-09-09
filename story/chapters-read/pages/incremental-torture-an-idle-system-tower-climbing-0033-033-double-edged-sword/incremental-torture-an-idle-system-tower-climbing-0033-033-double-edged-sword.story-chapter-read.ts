@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0033033DoubleEdgedSword 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 33,
   ownLength: 2242,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1623034/033-double-edged-sword",

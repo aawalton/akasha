@@ -9,7 +9,7 @@ export const justAddMana005555Book2Chapter3SwordAndSorceryPt3 = {
   position: 55,
   ownLength: 3562,
   ownProgress: 3562,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:28.282Z",
   publishedAt: "2025-11-01",
   externalLink:

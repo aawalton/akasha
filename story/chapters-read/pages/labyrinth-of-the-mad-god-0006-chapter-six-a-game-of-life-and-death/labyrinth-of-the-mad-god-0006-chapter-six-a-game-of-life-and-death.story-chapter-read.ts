@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   story: "labyrinth-of-the-mad-god",
   position: 6,
   ownLength: 1839,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331821/chapter-six-a-game-of-life-and-death",

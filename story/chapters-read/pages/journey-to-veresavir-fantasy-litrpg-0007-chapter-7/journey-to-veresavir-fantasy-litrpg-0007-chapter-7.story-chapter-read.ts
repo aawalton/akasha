@@ -8,7 +8,7 @@ export const journeyToVeresavirFantasyLitrpg0007Chapter7 = {
   story: "journey-to-veresavir-fantasy-litrpg",
   position: 7,
   ownLength: 4865,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-25",
   externalLink:
     "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704107/chapter-7",

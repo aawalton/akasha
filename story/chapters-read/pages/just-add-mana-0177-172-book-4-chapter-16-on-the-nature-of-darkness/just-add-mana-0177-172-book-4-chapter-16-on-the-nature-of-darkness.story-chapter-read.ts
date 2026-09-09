@@ -8,7 +8,7 @@ export const justAddMana0177172Book4Chapter16OnTheNatureOfDarkness = {
   story: "just-add-mana",
   position: 177,
   ownLength: 3173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3808748/172-book-4-chapter-16-on-the-nature-of-darkness",

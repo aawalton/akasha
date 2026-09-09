@@ -8,7 +8,7 @@ export const justAddMana0158155Book3Chapter54Endings = {
   story: "just-add-mana",
   position: 158,
   ownLength: 4149,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3612276/155-book-3-chapter-54-endings",

@@ -9,7 +9,7 @@ export const justAddMana0016Chapter16AlinaTheLunchladyArchdemonOfShelves = {
   position: 16,
   ownLength: 5046,
   ownProgress: 5046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:04.097Z",
   publishedAt: "2025-08-02",
   externalLink:

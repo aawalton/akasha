@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0009009AMatterOfScale = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 9,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-06",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1583146/009-a-matter-of-scale",

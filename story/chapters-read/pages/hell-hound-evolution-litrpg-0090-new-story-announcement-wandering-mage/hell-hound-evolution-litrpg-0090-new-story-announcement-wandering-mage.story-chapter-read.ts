@@ -6,7 +6,7 @@ export const hellHoundEvolutionLitrpg0090NewStoryAnnouncementWanderingMage = {
   slug: "hell-hound-evolution-litrpg-0090-new-story-announcement-wandering-mage",
   position: 90,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3934487",
   source: "royal-road",
   title: "New Story Announcement! - Wandering Mage",

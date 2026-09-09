@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0028028ErnestTheLionhear
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 28,
   ownLength: 2267,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1614202/028-ernest-the-lionheart",

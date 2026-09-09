@@ -9,7 +9,7 @@ export const justAddMana008989Book2Chapter37Homecoming = {
   position: 89,
   ownLength: 3575,
   ownProgress: 3575,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:40.943Z",
   publishedAt: "2026-01-20",
   externalLink:

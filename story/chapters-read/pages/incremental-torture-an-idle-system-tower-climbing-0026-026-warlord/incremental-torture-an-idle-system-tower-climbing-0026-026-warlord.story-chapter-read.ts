@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0026026Warlord = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 26,
   ownLength: 2198,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-26",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1611564/026-warlord",

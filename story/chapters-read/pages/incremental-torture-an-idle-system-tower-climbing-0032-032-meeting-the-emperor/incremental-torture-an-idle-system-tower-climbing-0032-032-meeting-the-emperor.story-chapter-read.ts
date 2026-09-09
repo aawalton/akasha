@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0032032MeetingTheEmperor
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 32,
   ownLength: 2066,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1621348/032-meeting-the-emperor",

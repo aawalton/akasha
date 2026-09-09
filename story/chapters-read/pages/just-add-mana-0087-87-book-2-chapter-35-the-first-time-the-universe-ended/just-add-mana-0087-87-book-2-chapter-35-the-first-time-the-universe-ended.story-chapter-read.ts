@@ -9,7 +9,7 @@ export const justAddMana008787Book2Chapter35TheFirstTimeTheUniverseEnded = {
   position: 87,
   ownLength: 4023,
   ownProgress: 4023,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:36.892Z",
   publishedAt: "2026-01-15",
   externalLink:

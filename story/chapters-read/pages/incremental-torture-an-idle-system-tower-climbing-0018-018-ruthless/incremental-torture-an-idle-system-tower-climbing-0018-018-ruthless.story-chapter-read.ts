@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0018018Ruthless = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 18,
   ownLength: 2372,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1599267/018-ruthless",

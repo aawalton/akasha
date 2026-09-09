@@ -9,7 +9,7 @@ export const justAddMana005858Book2Chapter6Alchemy101Pt1 = {
   position: 58,
   ownLength: 2465,
   ownProgress: 2465,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:35.536Z",
   publishedAt: "2025-11-08",
   externalLink:

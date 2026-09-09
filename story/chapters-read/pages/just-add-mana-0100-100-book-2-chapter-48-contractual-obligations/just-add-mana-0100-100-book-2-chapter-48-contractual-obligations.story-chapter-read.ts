@@ -9,7 +9,7 @@ export const justAddMana0100100Book2Chapter48ContractualObligations = {
   position: 100,
   ownLength: 3562,
   ownProgress: 3562,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:05.188Z",
   publishedAt: "2026-02-14",
   externalLink:

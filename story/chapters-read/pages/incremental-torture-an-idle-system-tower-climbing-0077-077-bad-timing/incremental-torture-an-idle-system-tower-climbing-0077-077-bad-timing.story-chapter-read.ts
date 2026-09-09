@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0077077BadTiming = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 77,
   ownLength: 1994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1739223/077-bad-timing",

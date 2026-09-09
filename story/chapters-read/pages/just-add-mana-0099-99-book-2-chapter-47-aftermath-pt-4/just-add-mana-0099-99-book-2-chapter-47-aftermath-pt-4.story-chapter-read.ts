@@ -9,7 +9,7 @@ export const justAddMana009999Book2Chapter47AftermathPt4 = {
   position: 99,
   ownLength: 3161,
   ownProgress: 3161,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:03.064Z",
   publishedAt: "2026-02-12",
   externalLink:

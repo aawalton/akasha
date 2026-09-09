@@ -9,7 +9,7 @@ export const justAddMana0106103Book3Chapter2DungeonDelving = {
   position: 106,
   ownLength: 3333,
   ownProgress: 3333,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:17.638Z",
   publishedAt: "2026-02-28",
   externalLink:

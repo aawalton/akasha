@@ -8,7 +8,7 @@ export const justAddMana0130127Book3Chapter26BitterFocusPt6 = {
   story: "just-add-mana",
   position: 130,
   ownLength: 3813,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3317337/127-book-3-chapter-26-bitter-focus-pt-6",

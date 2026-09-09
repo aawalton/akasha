@@ -8,7 +8,7 @@ export const justAddMana0119116Book3Chapter15NeverAgain = {
   story: "just-add-mana",
   position: 119,
   ownLength: 2894,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-31",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3214363/116-book-3-chapter-15-never-again",

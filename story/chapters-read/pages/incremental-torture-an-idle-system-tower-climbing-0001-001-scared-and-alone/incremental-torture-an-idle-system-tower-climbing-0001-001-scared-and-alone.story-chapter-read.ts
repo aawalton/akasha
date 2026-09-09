@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0001001ScaredAndAlone = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 1,
   ownLength: 2266,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1555189/001-scared-and-alone",

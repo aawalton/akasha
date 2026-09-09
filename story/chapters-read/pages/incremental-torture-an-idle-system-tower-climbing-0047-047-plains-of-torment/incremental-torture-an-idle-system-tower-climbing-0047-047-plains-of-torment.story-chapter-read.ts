@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0047047PlainsOfTorment =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 47,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1650206/047-plains-of-torment",

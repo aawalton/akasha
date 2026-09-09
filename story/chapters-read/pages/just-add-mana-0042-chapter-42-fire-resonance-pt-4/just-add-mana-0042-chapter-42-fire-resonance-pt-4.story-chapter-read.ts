@@ -9,7 +9,7 @@ export const justAddMana0042Chapter42FireResonancePt4 = {
   position: 42,
   ownLength: 3933,
   ownProgress: 3933,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:00.358Z",
   publishedAt: "2025-10-02",
   externalLink:

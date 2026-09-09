@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0066066Founders = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 66,
   ownLength: 2091,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1705615/066-founders",

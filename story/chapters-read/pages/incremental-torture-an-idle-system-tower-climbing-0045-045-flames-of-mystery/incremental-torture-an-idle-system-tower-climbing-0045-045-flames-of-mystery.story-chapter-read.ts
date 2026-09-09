@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0045045FlamesOfMystery =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 45,
   ownLength: 2175,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1647453/045-flames-of-mystery",

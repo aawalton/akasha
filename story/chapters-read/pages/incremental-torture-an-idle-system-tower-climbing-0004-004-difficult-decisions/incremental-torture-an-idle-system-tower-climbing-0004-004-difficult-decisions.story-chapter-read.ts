@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0004004DifficultDecision
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 4,
   ownLength: 2076,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1569820/004-difficult-decisions",

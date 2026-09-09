@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0019019SouthernCharm = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 19,
   ownLength: 2163,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1600769/019-southern-charm",

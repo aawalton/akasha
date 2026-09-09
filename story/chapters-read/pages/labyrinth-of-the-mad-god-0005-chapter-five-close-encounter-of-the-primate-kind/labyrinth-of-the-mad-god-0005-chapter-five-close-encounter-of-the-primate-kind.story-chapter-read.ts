@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0005ChapterFiveCloseEncounterOfThePrimateKind =
   story: "labyrinth-of-the-mad-god",
   position: 5,
   ownLength: 1599,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331137/chapter-five-close-encounter-of-the-primate-kind",

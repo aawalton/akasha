@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0078078RegainingGround =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 78,
   ownLength: 2066,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1745679/078-regaining-ground",

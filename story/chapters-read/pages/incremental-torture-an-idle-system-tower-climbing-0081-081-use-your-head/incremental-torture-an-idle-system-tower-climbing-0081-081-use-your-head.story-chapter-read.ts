@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0081081UseYourHead = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 81,
   ownLength: 1629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1769372/081-use-your-head",

@@ -9,7 +9,7 @@ export const justAddMana0030Chapter30AClassAct = {
   position: 30,
   ownLength: 4450,
   ownProgress: 4450,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:34.692Z",
   publishedAt: "2025-09-04",
   externalLink:

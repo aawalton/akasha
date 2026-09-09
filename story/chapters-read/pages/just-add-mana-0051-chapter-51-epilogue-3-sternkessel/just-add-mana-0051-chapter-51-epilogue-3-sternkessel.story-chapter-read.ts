@@ -9,7 +9,7 @@ export const justAddMana0051Chapter51Epilogue3Sternkessel = {
   position: 51,
   ownLength: 2543,
   ownProgress: 2543,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:19.481Z",
   publishedAt: "2025-10-23",
   externalLink:

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0003ChapterThreeIntegration = {
   story: "labyrinth-of-the-mad-god",
   position: 3,
   ownLength: 2319,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330805/chapter-three-integration",

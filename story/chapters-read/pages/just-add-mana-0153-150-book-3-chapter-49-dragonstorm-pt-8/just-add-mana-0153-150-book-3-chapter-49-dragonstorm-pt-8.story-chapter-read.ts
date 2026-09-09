@@ -8,7 +8,7 @@ export const justAddMana0153150Book3Chapter49DragonstormPt8 = {
   story: "just-add-mana",
   position: 153,
   ownLength: 3267,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3556720/150-book-3-chapter-49-dragonstorm-pt-8",

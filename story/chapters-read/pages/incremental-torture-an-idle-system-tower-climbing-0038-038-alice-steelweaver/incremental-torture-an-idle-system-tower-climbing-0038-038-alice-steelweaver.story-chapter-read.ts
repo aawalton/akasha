@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0038038AliceSteelweaver 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 38,
   ownLength: 2218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1630483/038-alice-steelweaver",

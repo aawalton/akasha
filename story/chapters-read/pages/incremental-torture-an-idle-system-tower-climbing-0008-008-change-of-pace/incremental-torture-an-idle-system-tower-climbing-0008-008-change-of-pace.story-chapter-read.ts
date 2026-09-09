@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0008008ChangeOfPace = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 8,
   ownLength: 2044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1581552/008-change-of-pace",

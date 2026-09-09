@@ -8,7 +8,7 @@ export const justAddMana0159BookChapterFirstReincarnation = {
   story: "just-add-mana",
   position: 159,
   ownLength: 883,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3621916/book-chapter-first-reincarnation",

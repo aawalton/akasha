@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0009ChapterNineKingOfTheBeasts = {
   story: "labyrinth-of-the-mad-god",
   position: 9,
   ownLength: 1782,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1334912/chapter-nine-king-of-the-beasts",

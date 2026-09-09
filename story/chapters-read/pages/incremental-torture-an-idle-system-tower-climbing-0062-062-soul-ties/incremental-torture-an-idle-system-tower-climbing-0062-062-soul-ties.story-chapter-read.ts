@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0062062SoulTies = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 62,
   ownLength: 1934,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1694990/062-soul-ties",

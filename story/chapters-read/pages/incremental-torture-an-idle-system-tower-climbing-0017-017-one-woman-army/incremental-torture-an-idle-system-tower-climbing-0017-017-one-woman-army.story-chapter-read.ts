@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0017017OneWomanArmy = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 17,
   ownLength: 2246,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1596077/017-one-woman-army",

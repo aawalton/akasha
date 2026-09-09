@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0004ChapterFourTutorialTheSearingIsle = {
   story: "labyrinth-of-the-mad-god",
   position: 4,
   ownLength: 2971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331023/chapter-four-tutorial-the-searing-isle",

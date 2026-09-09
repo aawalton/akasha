@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0015015WelcomeToTheParty
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 15,
   ownLength: 2331,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1593361/015-welcome-to-the-party",

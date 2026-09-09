@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0061061CreativeTechnique
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 61,
   ownLength: 2085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1693650/061-creative-technique",

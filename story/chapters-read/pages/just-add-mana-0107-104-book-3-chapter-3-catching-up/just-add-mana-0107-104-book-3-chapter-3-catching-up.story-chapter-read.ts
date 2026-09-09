@@ -9,7 +9,7 @@ export const justAddMana0107104Book3Chapter3CatchingUp = {
   position: 107,
   ownLength: 3383,
   ownProgress: 2375,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3111867/104-book-3-chapter-3-catching-up",

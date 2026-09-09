@@ -9,7 +9,7 @@ export const justAddMana0001Chapter1ManaOverload = {
   position: 1,
   ownLength: 4170,
   ownProgress: 4170,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:47:33.159Z",
   publishedAt: "2025-07-17",
   externalLink:

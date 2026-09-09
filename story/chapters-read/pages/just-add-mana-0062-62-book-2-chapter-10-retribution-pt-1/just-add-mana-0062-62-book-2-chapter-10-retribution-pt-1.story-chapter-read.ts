@@ -9,7 +9,7 @@ export const justAddMana006262Book2Chapter10RetributionPt1 = {
   position: 62,
   ownLength: 3582,
   ownProgress: 3582,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:44.102Z",
   publishedAt: "2025-11-18",
   externalLink:

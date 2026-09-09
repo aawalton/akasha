@@ -8,7 +8,7 @@ export const justAddMana0141138Book3Chapter37AlchemyLessons = {
   story: "just-add-mana",
   position: 141,
   ownLength: 2783,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3427573/138-book-3-chapter-37-alchemy-lessons",

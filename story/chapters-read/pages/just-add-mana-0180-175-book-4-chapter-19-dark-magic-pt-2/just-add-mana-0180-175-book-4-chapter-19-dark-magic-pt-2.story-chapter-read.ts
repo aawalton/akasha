@@ -8,7 +8,7 @@ export const justAddMana0180175Book4Chapter19DarkMagicPt2 = {
   story: "just-add-mana",
   position: 180,
   ownLength: 2863,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3838901/175-book-4-chapter-19-dark-magic-pt-2",

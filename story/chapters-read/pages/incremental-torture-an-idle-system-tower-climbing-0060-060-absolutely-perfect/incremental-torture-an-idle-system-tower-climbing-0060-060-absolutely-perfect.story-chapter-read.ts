@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0060060AbsolutelyPerfect
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 60,
   ownLength: 2085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1692421/060-absolutely-perfect",

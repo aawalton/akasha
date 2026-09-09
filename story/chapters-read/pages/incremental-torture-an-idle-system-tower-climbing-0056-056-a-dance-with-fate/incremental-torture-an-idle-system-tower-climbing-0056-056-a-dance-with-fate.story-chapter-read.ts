@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0056056ADanceWithFate = 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 56,
   ownLength: 2292,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1680492/056-a-dance-with-fate",

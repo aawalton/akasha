@@ -9,7 +9,7 @@ export const justAddMana0020Chapter20GhostsInTheDarkPt3 = {
   position: 20,
   ownLength: 2894,
   ownProgress: 2894,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:12.676Z",
   publishedAt: "2025-08-12",
   externalLink:

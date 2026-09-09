@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0025025ClamberingUpward 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 25,
   ownLength: 2125,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1610175/025-clambering-upward",

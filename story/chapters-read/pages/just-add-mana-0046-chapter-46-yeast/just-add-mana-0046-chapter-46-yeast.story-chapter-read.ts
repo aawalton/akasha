@@ -9,7 +9,7 @@ export const justAddMana0046Chapter46Yeast = {
   position: 46,
   ownLength: 3368,
   ownProgress: 3368,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:09.163Z",
   publishedAt: "2025-10-11",
   externalLink:

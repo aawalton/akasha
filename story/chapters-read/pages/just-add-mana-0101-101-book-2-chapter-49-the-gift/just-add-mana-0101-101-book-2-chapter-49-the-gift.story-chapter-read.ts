@@ -9,7 +9,7 @@ export const justAddMana0101101Book2Chapter49TheGift = {
   position: 101,
   ownLength: 1910,
   ownProgress: 1910,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:07.288Z",
   publishedAt: "2026-02-17",
   externalLink:

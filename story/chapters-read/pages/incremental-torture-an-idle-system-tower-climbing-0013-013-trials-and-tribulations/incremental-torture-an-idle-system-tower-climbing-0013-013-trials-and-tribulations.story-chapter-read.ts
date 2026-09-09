@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0013013TrialsAndTribulat
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 13,
   ownLength: 2104,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-11",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1590296/013-trials-and-tribulations",

@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0040040DescentIntoHell =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 40,
   ownLength: 2194,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1637000/040-descent-into-hell",

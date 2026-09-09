@@ -9,7 +9,7 @@ export const justAddMana0037Chapter37LeviathanSBlessing = {
   position: 37,
   ownLength: 3684,
   ownProgress: 3684,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:49.990Z",
   publishedAt: "2025-09-20",
   externalLink:

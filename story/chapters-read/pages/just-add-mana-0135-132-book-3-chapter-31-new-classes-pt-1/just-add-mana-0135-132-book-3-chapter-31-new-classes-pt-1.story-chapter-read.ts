@@ -8,7 +8,7 @@ export const justAddMana0135132Book3Chapter31NewClassesPt1 = {
   story: "just-add-mana",
   position: 135,
   ownLength: 3121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3366599/132-book-3-chapter-31-new-classes-pt-1",

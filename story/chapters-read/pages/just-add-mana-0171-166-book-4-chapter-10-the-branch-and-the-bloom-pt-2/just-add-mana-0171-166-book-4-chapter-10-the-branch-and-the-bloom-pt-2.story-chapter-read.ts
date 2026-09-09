@@ -8,7 +8,7 @@ export const justAddMana0171166Book4Chapter10TheBranchAndTheBloomPt2 = {
   story: "just-add-mana",
   position: 171,
   ownLength: 3446,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3746251/166-book-4-chapter-10-the-branch-and-the-bloom",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0007ChapterSevenFightOrFlight = {
   story: "labyrinth-of-the-mad-god",
   position: 7,
   ownLength: 3468,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1331875/chapter-seven-fight-or-flight",

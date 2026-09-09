@@ -9,7 +9,7 @@ export const justAddMana0017Chapter17TheBestLaidPlans = {
   position: 17,
   ownLength: 3297,
   ownProgress: 3297,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:06.267Z",
   publishedAt: "2025-08-05",
   externalLink:

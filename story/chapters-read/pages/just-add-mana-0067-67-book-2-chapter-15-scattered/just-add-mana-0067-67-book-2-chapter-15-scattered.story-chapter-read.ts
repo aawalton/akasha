@@ -9,7 +9,7 @@ export const justAddMana006767Book2Chapter15Scattered = {
   position: 67,
   ownLength: 4213,
   ownProgress: 4213,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:55.241Z",
   publishedAt: "2025-11-29",
   externalLink:

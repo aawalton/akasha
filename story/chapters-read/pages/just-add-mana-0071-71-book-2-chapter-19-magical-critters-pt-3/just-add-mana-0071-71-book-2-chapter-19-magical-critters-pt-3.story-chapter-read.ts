@@ -9,7 +9,7 @@ export const justAddMana007171Book2Chapter19MagicalCrittersPt3 = {
   position: 71,
   ownLength: 3211,
   ownProgress: 3211,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:04.401Z",
   publishedAt: "2025-12-09",
   externalLink:

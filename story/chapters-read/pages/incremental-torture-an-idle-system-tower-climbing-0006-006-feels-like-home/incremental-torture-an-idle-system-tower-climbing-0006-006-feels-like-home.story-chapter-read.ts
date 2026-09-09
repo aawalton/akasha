@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0006006FeelsLikeHome = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 6,
   ownLength: 2165,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1578728/006-feels-like-home",

@@ -8,7 +8,7 @@ export const justAddMana0162157Book4Chapter1OverpoweredMagicDuelPt1 = {
   story: "just-add-mana",
   position: 162,
   ownLength: 3617,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3653266/157-book-4-chapter-1-overpowered-magic-duel-pt",

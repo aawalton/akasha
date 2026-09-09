@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0003003TheChallengerAwai
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 3,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1563825/003-the-challenger-awaits",

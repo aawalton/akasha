@@ -8,7 +8,7 @@ export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   story: "just-add-mana",
   position: 178,
   ownLength: 4020,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3817601/173-book-4-chapter-17-ripples-in-brightscale",

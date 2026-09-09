@@ -9,7 +9,7 @@ export const justAddMana0104IntermissionRealmwatcherSDiariesFishingMagic = {
   position: 104,
   ownLength: 1122,
   ownProgress: 1122,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:13.299Z",
   publishedAt: "2026-02-24",
   externalLink:

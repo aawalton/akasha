@@ -9,7 +9,7 @@ export const justAddMana0027Chapter27MagicalGeographyPt5 = {
   position: 27,
   ownLength: 3715,
   ownProgress: 3715,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:28.477Z",
   publishedAt: "2025-08-28",
   externalLink:

@@ -9,7 +9,7 @@ export const justAddMana0003Chapter3TheArtOfAttunementPt2 = {
   position: 3,
   ownLength: 3611,
   ownProgress: 3611,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:47:37.291Z",
   publishedAt: "2025-07-17",
   externalLink:

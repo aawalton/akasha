@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0005005FirstSkill = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 5,
   ownLength: 2161,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1572181/005-first-skill",

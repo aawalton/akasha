@@ -9,7 +9,7 @@ export const justAddMana009393Book2Chapter41AcademicRevelations = {
   position: 93,
   ownLength: 3912,
   ownProgress: 3912,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:50.595Z",
   publishedAt: "2026-01-29",
   externalLink:

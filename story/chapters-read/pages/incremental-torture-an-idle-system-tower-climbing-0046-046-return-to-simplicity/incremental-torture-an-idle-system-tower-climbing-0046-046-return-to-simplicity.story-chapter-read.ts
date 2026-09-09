@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0046046ReturnToSimplicit
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 46,
   ownLength: 2152,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1648677/046-return-to-simplicity",

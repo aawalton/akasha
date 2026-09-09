@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0010ChapterTenBloodAndWater = {
   story: "labyrinth-of-the-mad-god",
   position: 10,
   ownLength: 1545,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1335819/chapter-ten-blood-and-water",

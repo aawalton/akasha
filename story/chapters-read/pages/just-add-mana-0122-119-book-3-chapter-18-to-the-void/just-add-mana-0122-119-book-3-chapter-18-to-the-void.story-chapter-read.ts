@@ -8,7 +8,7 @@ export const justAddMana0122119Book3Chapter18ToTheVoid = {
   story: "just-add-mana",
   position: 122,
   ownLength: 3265,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3243440/119-book-3-chapter-18-to-the-void",

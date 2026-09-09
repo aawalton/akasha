@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0071071CarnageAndCavedwe
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 71,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1721069/071-carnage-and-cavedwellers",

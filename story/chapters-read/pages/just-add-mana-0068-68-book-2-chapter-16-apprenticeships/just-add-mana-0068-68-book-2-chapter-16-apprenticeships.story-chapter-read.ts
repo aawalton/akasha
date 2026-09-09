@@ -9,7 +9,7 @@ export const justAddMana006868Book2Chapter16Apprenticeships = {
   position: 68,
   ownLength: 3787,
   ownProgress: 3787,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:57.769Z",
   publishedAt: "2025-12-02",
   externalLink:

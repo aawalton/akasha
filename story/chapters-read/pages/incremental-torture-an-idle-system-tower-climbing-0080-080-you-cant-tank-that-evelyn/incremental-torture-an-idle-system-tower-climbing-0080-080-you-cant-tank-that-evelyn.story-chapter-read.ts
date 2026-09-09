@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0080080YouCantTankThatEv
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 80,
   ownLength: 1601,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1759515/080-you-cant-tank-that-evelyn",

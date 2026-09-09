@@ -6,7 +6,7 @@ export const hellHoundEvolutionLitrpg0091Chapter166 = {
   slug: "hell-hound-evolution-litrpg-0091-chapter-166",
   position: 91,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3935992",
   source: "royal-road",
   title: "Chapter 166",

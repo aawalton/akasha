@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0001ChapterOnePreludeToTheApocalypse = {
   story: "labyrinth-of-the-mad-god",
   position: 1,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330268/chapter-one-prelude-to-the-apocalypse",

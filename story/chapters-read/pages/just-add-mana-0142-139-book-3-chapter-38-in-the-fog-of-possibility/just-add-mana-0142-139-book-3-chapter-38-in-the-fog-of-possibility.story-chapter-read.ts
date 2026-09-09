@@ -8,7 +8,7 @@ export const justAddMana0142139Book3Chapter38InTheFogOfPossibility = {
   story: "just-add-mana",
   position: 142,
   ownLength: 3446,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3436042/139-book-3-chapter-38-in-the-fog-of-possibility",

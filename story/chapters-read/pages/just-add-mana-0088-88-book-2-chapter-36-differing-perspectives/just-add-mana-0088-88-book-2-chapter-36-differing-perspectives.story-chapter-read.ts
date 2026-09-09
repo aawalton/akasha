@@ -9,7 +9,7 @@ export const justAddMana008888Book2Chapter36DifferingPerspectives = {
   position: 88,
   ownLength: 2768,
   ownProgress: 2768,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:39.010Z",
   publishedAt: "2026-01-17",
   externalLink:

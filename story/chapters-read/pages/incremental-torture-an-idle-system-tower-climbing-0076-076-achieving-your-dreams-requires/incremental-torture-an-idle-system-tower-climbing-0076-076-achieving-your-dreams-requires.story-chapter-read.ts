@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0076076AchievingYourDrea
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 76,
   ownLength: 2006,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1738028/076-achieving-your-dreams-requires-dedication",

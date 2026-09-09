@@ -9,7 +9,7 @@ export const justAddMana009090Book2Chapter38TempleOfVitality = {
   position: 90,
   ownLength: 4167,
   ownProgress: 4167,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:44.450Z",
   publishedAt: "2026-01-22",
   externalLink:

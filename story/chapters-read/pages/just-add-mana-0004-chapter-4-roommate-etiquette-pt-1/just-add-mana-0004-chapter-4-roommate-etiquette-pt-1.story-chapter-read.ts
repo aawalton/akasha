@@ -9,7 +9,7 @@ export const justAddMana0004Chapter4RoommateEtiquettePt1 = {
   position: 4,
   ownLength: 3681,
   ownProgress: 3681,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:47:39.471Z",
   publishedAt: "2025-07-17",
   externalLink:

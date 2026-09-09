@@ -7,7 +7,7 @@ export const justAddMana0187182Book4Chapter26TheBlackVaultPt3 = {
   story: "story-read/just-add-mana",
   position: 187,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3916007",
   source: "royal-road",
   title: "182 — Book 4, Chapter 26 — The Black Vault, Pt 3",

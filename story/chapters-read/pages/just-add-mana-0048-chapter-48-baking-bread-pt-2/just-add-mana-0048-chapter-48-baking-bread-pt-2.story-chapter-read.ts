@@ -9,7 +9,7 @@ export const justAddMana0048Chapter48BakingBreadPt2 = {
   position: 48,
   ownLength: 2900,
   ownProgress: 2900,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:13.177Z",
   publishedAt: "2025-10-16",
   externalLink:

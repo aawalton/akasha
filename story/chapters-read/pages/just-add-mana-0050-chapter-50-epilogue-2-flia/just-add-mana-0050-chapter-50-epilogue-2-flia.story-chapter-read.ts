@@ -9,7 +9,7 @@ export const justAddMana0050Chapter50Epilogue2Flia = {
   position: 50,
   ownLength: 1856,
   ownProgress: 1856,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:49:17.385Z",
   publishedAt: "2025-10-21",
   externalLink:

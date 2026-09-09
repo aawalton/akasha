@@ -8,7 +8,7 @@ export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   story: "just-add-mana",
   position: 144,
   ownLength: 3141,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3460349/141-book-3-chapter-40-blood-of-extinction",

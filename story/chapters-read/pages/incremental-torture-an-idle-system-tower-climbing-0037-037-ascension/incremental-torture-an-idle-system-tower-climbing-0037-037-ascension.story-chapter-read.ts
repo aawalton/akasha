@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0037037Ascension = {
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 37,
   ownLength: 2219,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1629264/037-ascension",

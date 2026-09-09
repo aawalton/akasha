@@ -9,7 +9,7 @@ export const justAddMana0035Chapter35ADragonSPlightPt2 = {
   position: 35,
   ownLength: 3834,
   ownProgress: 3834,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:48:45.593Z",
   publishedAt: "2025-09-16",
   externalLink:

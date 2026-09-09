@@ -9,7 +9,7 @@ export const justAddMana0105102Book3Chapter1NoblesseOblige = {
   position: 105,
   ownLength: 4069,
   ownProgress: 4069,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:15.763Z",
   publishedAt: "2026-02-26",
   externalLink:

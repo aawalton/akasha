@@ -9,7 +9,7 @@ export const justAddMana007979Book2Chapter27AngusOfTheGoldenSands = {
   position: 79,
   ownLength: 4914,
   ownProgress: 4914,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:21.108Z",
   publishedAt: "2025-12-27",
   externalLink:

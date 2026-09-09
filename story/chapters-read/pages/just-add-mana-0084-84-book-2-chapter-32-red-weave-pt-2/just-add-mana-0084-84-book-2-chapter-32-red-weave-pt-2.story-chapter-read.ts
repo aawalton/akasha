@@ -9,7 +9,7 @@ export const justAddMana008484Book2Chapter32RedWeavePt2 = {
   position: 84,
   ownLength: 3718,
   ownProgress: 3718,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:50:31.106Z",
   publishedAt: "2026-01-08",
   externalLink:

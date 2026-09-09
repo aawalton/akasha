@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0014AnInterludeWithNickAndBanditBookOneRecap = 
   story: "labyrinth-of-the-mad-god",
   position: 14,
   ownLength: 1436,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1504351/an-interlude-with-nick-and-bandit-book-one-recap",

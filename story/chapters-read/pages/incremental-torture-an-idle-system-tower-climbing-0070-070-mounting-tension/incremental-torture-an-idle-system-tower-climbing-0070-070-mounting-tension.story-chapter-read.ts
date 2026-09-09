@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0070070MountingTension =
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 70,
   ownLength: 1992,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1718776/070-mounting-tension",

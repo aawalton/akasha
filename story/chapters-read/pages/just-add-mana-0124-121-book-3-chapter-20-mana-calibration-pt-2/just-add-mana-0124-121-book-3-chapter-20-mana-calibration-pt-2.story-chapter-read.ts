@@ -8,7 +8,7 @@ export const justAddMana0124121Book3Chapter20ManaCalibrationPt2 = {
   story: "just-add-mana",
   position: 124,
   ownLength: 3247,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-11",
   externalLink:
     "https://www.royalroad.com/fiction/125163/just-add-mana/chapter/3260418/121-book-3-chapter-20-mana-calibration-pt-2",

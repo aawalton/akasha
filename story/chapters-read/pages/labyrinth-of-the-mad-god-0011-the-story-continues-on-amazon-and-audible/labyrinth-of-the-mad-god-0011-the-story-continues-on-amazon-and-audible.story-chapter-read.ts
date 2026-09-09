@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0011TheStoryContinuesOnAmazonAndAudible = {
   story: "labyrinth-of-the-mad-god",
   position: 11,
   ownLength: 238,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1330851/the-story-continues-on-amazon-and-audible",

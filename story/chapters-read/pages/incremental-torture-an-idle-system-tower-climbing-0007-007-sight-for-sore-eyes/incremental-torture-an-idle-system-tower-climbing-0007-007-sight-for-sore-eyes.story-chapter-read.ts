@@ -8,7 +8,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0007007SightForSoreEyes 
   story: "incremental-torture-an-idle-system-tower-climbing",
   position: 7,
   ownLength: 2236,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-04",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1580248/007-sight-for-sore-eyes",
