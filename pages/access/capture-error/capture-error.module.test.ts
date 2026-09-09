@@ -74,7 +74,13 @@ test("a capture asks what is filed and then writes, in that order", async () => 
   await captureError(
     A_REPORT,
     "someone <someone@alanwalton.com>",
-    answering([{ rows: [] }, { commit: "abc", wrote: ["a"], took: [] }], sent),
+    answering(
+      [
+        { rows: [], n: 0 },
+        { commit: "abc", wrote: ["a"], took: [] },
+      ],
+      sent
+    ),
     noNap
   )
   expect(sent.map((one) => one.at.split("/").pop())).toEqual(["ask", "write"])
@@ -85,7 +91,13 @@ test("a capture hands its page over as values rather than as a body", async () =
   await captureError(
     A_REPORT,
     "someone <someone@alanwalton.com>",
-    answering([{ rows: [] }, { commit: "abc", wrote: ["a"], took: [] }], sent),
+    answering(
+      [
+        { rows: [], n: 0 },
+        { commit: "abc", wrote: ["a"], took: [] },
+      ],
+      sent
+    ),
     noNap
   )
   const written = sent[1]?.body as { pages?: readonly { slug?: string }[]; puts?: unknown }
@@ -110,7 +122,7 @@ test("a write the pages refuse is thrown rather than answered", async () => {
   const thrown = captureError(
     A_REPORT,
     "someone <someone@alanwalton.com>",
-    answering([{ rows: [] }, { refused: "a write says what it is for" }], sent),
+    answering([{ rows: [], n: 0 }, { refused: "a write says what it is for" }], sent),
     noNap
   )
   await expect(thrown).rejects.toThrow("a write says what it is for")
@@ -120,7 +132,13 @@ test("a write that landed no commit is answered rather than refused", async () =
   const said = await captureError(
     A_REPORT,
     "someone <someone@alanwalton.com>",
-    answering([{ rows: [] }, { commit: null, wrote: ["a"], took: [] }], []),
+    answering(
+      [
+        { rows: [], n: 0 },
+        { commit: null, wrote: ["a"], took: [] },
+      ],
+      []
+    ),
     noNap
   )
   expect(said.commit).toBeNull()
