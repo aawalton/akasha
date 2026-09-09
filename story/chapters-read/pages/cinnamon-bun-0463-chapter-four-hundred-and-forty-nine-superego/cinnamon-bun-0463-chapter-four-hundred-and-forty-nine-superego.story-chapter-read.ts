@@ -5,7 +5,7 @@ export const cinnamonBun0463ChapterFourHundredAndFortyNineSuperego = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0463-chapter-four-hundred-and-forty-nine-superego",
   title: "Chapter Four Hundred and Forty-Nine - Superego",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 463,
   ownLength: 1529,
   unitSlug: "words",

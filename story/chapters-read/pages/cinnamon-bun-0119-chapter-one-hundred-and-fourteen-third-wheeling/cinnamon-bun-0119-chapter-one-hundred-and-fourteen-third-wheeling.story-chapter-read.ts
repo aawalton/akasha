@@ -5,7 +5,7 @@ export const cinnamonBun0119ChapterOneHundredAndFourteenThirdWheeling = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0119-chapter-one-hundred-and-fourteen-third-wheeling",
   title: "Chapter One Hundred and Fourteen - Third Wheeling",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 119,
   ownLength: 2049,
   unitSlug: "words",

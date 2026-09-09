@@ -5,7 +5,7 @@ export const cinnamonBun0227ChapterTwoHundredAndNineteenGuilt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0227-chapter-two-hundred-and-nineteen-guilt",
   title: "Chapter Two Hundred and Nineteen - Guilt",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 227,
   ownLength: 2162,
   unitSlug: "words",

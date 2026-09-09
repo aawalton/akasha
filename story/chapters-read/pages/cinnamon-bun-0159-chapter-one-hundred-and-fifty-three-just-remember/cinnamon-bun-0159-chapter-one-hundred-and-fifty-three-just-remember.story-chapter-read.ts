@@ -5,7 +5,7 @@ export const cinnamonBun0159ChapterOneHundredAndFiftyThreeJustRemember = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0159-chapter-one-hundred-and-fifty-three-just-remember",
   title: "Chapter One Hundred and Fifty-Three - Just Remember: Everything is Illegal",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 159,
   ownLength: 2023,
   unitSlug: "words",

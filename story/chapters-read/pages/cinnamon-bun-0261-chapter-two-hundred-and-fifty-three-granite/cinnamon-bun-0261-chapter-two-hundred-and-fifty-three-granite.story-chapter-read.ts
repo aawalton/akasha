@@ -5,7 +5,7 @@ export const cinnamonBun0261ChapterTwoHundredAndFiftyThreeGranite = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0261-chapter-two-hundred-and-fifty-three-granite",
   title: "Chapter Two Hundred and Fifty-Three - Granite Springs Calls For Aid",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 261,
   ownLength: 1982,
   unitSlug: "words",

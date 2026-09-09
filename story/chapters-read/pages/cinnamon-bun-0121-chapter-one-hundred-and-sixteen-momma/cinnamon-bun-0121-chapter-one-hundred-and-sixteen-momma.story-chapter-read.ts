@@ -5,7 +5,7 @@ export const cinnamonBun0121ChapterOneHundredAndSixteenMomma = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0121-chapter-one-hundred-and-sixteen-momma",
   title: "Chapter One Hundred and Sixteen - Momma",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 121,
   ownLength: 1961,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0405ChapterThreeHundredAndNinetyThreeFirst = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0405-chapter-three-hundred-and-ninety-three-first",
   title: "Chapter Three Hundred and Ninety-Three - First-Person Platformer",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 405,
   ownLength: 2028,
   unitSlug: "words",

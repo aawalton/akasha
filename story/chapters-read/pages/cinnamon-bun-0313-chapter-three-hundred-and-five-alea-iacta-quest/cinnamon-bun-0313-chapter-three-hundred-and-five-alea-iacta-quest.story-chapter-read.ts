@@ -5,7 +5,7 @@ export const cinnamonBun0313ChapterThreeHundredAndFiveAleaIactaQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0313-chapter-three-hundred-and-five-alea-iacta-quest",
   title: "Chapter Three Hundred and Five - Alea Iacta Quest",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 313,
   ownLength: 1916,
   unitSlug: "words",

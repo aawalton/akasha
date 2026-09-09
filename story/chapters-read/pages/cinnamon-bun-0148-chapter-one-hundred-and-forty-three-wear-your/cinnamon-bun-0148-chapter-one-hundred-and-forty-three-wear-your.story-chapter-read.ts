@@ -5,7 +5,7 @@ export const cinnamonBun0148ChapterOneHundredAndFortyThreeWearYour = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0148-chapter-one-hundred-and-forty-three-wear-your",
   title: "Chapter One Hundred and Forty-Three - Wear Your Sunshine on Your Ship",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 148,
   ownLength: 1973,
   unitSlug: "words",

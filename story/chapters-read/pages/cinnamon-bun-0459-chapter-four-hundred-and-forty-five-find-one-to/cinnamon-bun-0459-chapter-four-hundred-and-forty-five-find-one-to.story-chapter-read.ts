@@ -5,7 +5,7 @@ export const cinnamonBun0459ChapterFourHundredAndFortyFiveFindOneTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0459-chapter-four-hundred-and-forty-five-find-one-to",
   title: "Chapter Four Hundred and Forty-Five - Find One to Find Another",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 459,
   ownLength: 1493,
   unitSlug: "words",

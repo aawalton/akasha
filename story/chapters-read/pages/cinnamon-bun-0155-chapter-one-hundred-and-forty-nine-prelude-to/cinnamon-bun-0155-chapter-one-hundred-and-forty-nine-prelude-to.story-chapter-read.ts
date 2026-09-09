@@ -5,7 +5,7 @@ export const cinnamonBun0155ChapterOneHundredAndFortyNinePreludeTo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0155-chapter-one-hundred-and-forty-nine-prelude-to",
   title: "Chapter One Hundred and Forty-Nine - Prelude to Disaster",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 155,
   ownLength: 1975,
   unitSlug: "words",
