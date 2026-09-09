@@ -27,9 +27,6 @@ function listing(root: string, asked: Named): readonly { readonly path: string }
   }
 }
 
-// A CALLER NAMES A PAGE AND A KEY RATHER THAN A PATH. The service asks nobody for a credential and
-// every pod in the cluster reaches it, so a road taking a path would hand the whole tree to all of
-// them; a page type, a slug and a declared key reach only what a page type already says is a file.
 export function filing(root: string, asked: Named): Filed {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
