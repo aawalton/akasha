@@ -26,12 +26,12 @@ import {
   companionWeaponSlots,
 } from "@akasha/temper-companions-core/companion-weapon-slots"
 import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
+import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   getQualityClassName,
   getQualityVariant,
-} from "@akasha/temper-companions-ui/companion-quality-rules"
-import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/temper/temper-companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "../companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"

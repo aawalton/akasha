@@ -52,7 +52,6 @@
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-characters-equipment-ui": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1343,19 +1342,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/temper-companions-ui": {
-      "name": "@akasha/temper-companions-ui",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-ui": "workspace:*",
-        "@akasha/temper-build-metadata": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "temper/temper-crafting-addon": {
       "name": "@akasha/temper-crafting-addon",
       "dependencies": {
@@ -1597,7 +1583,6 @@
         "@akasha/temper-characters-equipment-ui": "workspace:*",
         "@akasha/temper-characters-stats": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1850,8 +1835,6 @@
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/temper-companions-addon"],
 
     "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:temper/temper-companions-core"],
-
-    "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:temper/temper-companions-ui"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 

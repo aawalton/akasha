@@ -19,7 +19,7 @@ import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-w
 import {
   getQualityClassName,
   getQualityVariant,
-} from "@akasha/temper-companions-ui/companion-quality-rules"
+} from "akasha/temper/temper-companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 

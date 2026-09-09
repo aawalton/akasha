@@ -14,10 +14,10 @@ import {
   mapBaseRolesToDisplayRoles,
 } from "@akasha/temper-companions-core/companion-leaderboard"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { useAllCompanionList } from "@akasha/temper-companions-ui/use-companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { useAllCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompanionsBuildBrowseTab } from "../companions-build-browse-tab/companions-build-browse-tab.module.code.tsx"
 import type { FilterValues } from "../companions-filter-types/companions-filter-types.module.code.ts"

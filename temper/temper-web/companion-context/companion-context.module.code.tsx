@@ -9,13 +9,13 @@ import {
   type CompanionVisibility,
   toVisibility,
 } from "@akasha/temper-companions-core/companion-types"
-import { useCompanion as useCompanionZero } from "@akasha/temper-companions-ui/use-companions"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { useCompanion as useCompanionZero } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { type ReactNode, useCallback, useReducer } from "react"
 import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "../companion-actions/companion-actions.module.code.ts"
