@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const karma = {
   id: "019e4ae1-f89b-7b62-aadd-4da7871d1198",

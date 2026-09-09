@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const mini = {
   id: "019e4af0-3970-7730-a38f-07140cc8ccfc",

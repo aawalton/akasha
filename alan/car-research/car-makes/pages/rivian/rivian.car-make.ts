@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const rivian = {
   id: "019e4af4-379f-7d6d-8be5-b1b2cdbfee1d",

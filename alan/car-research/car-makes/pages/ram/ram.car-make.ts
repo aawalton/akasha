@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const ram = {
   id: "019e4af5-7cc6-7874-a6a2-f46879ad1a61",

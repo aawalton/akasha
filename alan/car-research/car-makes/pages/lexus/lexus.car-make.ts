@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const lexus = {
   id: "019e4ae5-bf97-7876-a806-b410a038b353",

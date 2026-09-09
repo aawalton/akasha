@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const lotus = {
   id: "019e4aeb-f909-7f7f-a0ca-8e893a3e1c38",

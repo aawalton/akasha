@@ -1,30 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.ts"
-import type { ChargingNetworkAccess } from "./properties/charging-network-access.text-property.ts"
-import type { Country } from "./properties/country.text-property.ts"
-import type { DrmPolicy } from "./properties/drm-policy.text-property.ts"
-import type { ElectrificationStrategy } from "./properties/electrification-strategy.text-property.ts"
-import type { FoundingYear } from "./properties/founding-year.number-property.ts"
-import type { KillSwitchPolicy } from "./properties/kill-switch-policy.text-property.ts"
-import type { NacsAdoption } from "./properties/nacs-adoption.text-property.ts"
-import type { ParentCorporation } from "./properties/parent-corporation.text-property.ts"
-import type { ReliabilityNotes } from "./properties/reliability-notes.text-property.ts"
-import type { Trims } from "./properties/trims.file-property.ts"
-
-export type CarMake = Car & {
-  title: Title
-  chargingNetworkAccess: ChargingNetworkAccess
-  country: Country
-  drmPolicy: DrmPolicy
-  electrificationStrategy: ElectrificationStrategy
-  foundingYear: FoundingYear
-  killSwitchPolicy: KillSwitchPolicy
-  nacsAdoption: NacsAdoption
-  parentCorporation: ParentCorporation
-  reliabilityNotes: ReliabilityNotes
-  trims?: Trims
-}
 
 export const carMake = {
   id: "01a0659e-e27a-7b1f-bb44-5601b4fc9699",
@@ -64,4 +38,5 @@ export const carMake = {
       statement: "A make names no model that make builds.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

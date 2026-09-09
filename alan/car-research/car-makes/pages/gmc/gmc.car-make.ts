@@ -1,4 +1,4 @@
-import type { CarMake } from "../../car-make.page-type.ts"
+import type { CarMake } from "../../car-make.page-type.types.ts"
 
 export const gmc = {
   id: "019e4ade-dff6-708e-9c18-da675a011163",
