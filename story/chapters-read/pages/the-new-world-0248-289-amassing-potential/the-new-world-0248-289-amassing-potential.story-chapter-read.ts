@@ -5,7 +5,7 @@ export const theNewWorld0248289AmassingPotential = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0248-289-amassing-potential",
   title: "289 Amassing Potential",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 248,
   ownLength: 4054,
   unitSlug: "words",

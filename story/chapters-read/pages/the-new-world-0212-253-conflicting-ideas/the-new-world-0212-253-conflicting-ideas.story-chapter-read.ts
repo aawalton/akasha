@@ -5,7 +5,7 @@ export const theNewWorld0212253ConflictingIdeas = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0212-253-conflicting-ideas",
   title: "253 Conflicting Ideas",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 212,
   ownLength: 2889,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0351391NormalcySMight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0351-391-normalcy-s-might",
   title: "391 Normalcy's Might",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 351,
   ownLength: 2517,
   unitSlug: "words",

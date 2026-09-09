@@ -5,7 +5,7 @@ export const theNewWorld0417457TheMysteriesOfMana = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0417-457-the-mysteries-of-mana",
   title: "457 The Mysteries of Mana",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 417,
   ownLength: 2714,
   unitSlug: "words",

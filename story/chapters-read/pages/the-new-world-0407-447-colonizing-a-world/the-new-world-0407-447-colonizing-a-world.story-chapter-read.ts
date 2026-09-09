@@ -5,7 +5,7 @@ export const theNewWorld0407447ColonizingAWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0407-447-colonizing-a-world",
   title: "447 Colonizing a World",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 407,
   ownLength: 6242,
   unitSlug: "words",

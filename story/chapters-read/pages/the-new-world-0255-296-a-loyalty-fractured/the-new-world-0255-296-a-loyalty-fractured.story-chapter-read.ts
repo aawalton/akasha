@@ -5,7 +5,7 @@ export const theNewWorld0255296ALoyaltyFractured = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0255-296-a-loyalty-fractured",
   title: "296 A Loyalty, Fractured",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 255,
   ownLength: 4213,
   unitSlug: "words",

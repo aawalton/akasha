@@ -5,7 +5,7 @@ export const theNewWorld0193234Kaboom = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0193-234-kaboom",
   title: "234 Kaboom",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 193,
   ownLength: 2818,
   unitSlug: "words",

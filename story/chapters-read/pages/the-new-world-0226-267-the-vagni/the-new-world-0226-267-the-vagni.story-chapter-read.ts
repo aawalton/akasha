@@ -5,7 +5,7 @@ export const theNewWorld0226267TheVagni = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0226-267-the-vagni",
   title: "267 The Vagni",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 226,
   ownLength: 7571,
   unitSlug: "words",

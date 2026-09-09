@@ -5,7 +5,7 @@ export const theNewWorld0396436ToForgeForAnEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0396-436-to-forge-for-an-empire",
   title: "436 To Forge for an Empire",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 396,
   ownLength: 5078,
   unitSlug: "words",

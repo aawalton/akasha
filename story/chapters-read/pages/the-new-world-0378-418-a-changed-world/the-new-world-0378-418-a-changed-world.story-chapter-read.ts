@@ -5,7 +5,7 @@ export const theNewWorld0378418AChangedWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0378-418-a-changed-world",
   title: "418 A Changed World",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 378,
   ownLength: 3930,
   unitSlug: "words",

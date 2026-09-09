@@ -5,7 +5,7 @@ export const theNewWorld0235276KnowThyEnemy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0235-276-know-thy-enemy",
   title: "276 Know Thy Enemy",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 235,
   ownLength: 4091,
   unitSlug: "words",

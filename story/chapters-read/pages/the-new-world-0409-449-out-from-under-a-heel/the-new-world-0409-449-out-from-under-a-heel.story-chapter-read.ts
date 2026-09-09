@@ -5,7 +5,7 @@ export const theNewWorld0409449OutFromUnderAHeel = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0409-449-out-from-under-a-heel",
   title: "449 Out From Under a Heel",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 409,
   ownLength: 9191,
   unitSlug: "words",

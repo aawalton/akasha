@@ -5,7 +5,7 @@ export const theNewWorld0291332NotAGameOfChance = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0291-332-not-a-game-of-chance",
   title: "332 Not A Game of Chance",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 291,
   ownLength: 4012,
   unitSlug: "words",

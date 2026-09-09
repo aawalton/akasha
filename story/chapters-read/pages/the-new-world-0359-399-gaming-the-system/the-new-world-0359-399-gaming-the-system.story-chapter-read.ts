@@ -5,7 +5,7 @@ export const theNewWorld0359399GamingTheSystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0359-399-gaming-the-system",
   title: "399 Gaming the System",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 359,
   ownLength: 3236,
   unitSlug: "words",

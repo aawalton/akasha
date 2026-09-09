@@ -5,7 +5,7 @@ export const theNewWorld0306347SetUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0306-347-set-up",
   title: "347 Set Up",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 306,
   ownLength: 5011,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0383423ABrokenFacade = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0383-423-a-broken-facade",
   title: "423 A Broken Facade",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 383,
   ownLength: 4140,
   unitSlug: "words",

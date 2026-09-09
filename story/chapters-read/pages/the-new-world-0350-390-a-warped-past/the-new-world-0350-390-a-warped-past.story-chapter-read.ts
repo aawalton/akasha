@@ -5,7 +5,7 @@ export const theNewWorld0350390AWarpedPast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0350-390-a-warped-past",
   title: "390 A Warped Past",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 350,
   ownLength: 5334,
   unitSlug: "words",

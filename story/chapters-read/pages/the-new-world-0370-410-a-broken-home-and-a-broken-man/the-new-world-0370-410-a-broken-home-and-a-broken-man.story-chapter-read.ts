@@ -5,7 +5,7 @@ export const theNewWorld0370410ABrokenHomeAndABrokenMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0370-410-a-broken-home-and-a-broken-man",
   title: "410 A Broken Home and a Broken Man",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 370,
   ownLength: 2957,
   unitSlug: "words",

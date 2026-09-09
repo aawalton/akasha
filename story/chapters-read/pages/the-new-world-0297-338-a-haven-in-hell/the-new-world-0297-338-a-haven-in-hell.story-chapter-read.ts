@@ -5,7 +5,7 @@ export const theNewWorld0297338AHavenInHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0297-338-a-haven-in-hell",
   title: "338 A Haven in Hell",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 297,
   ownLength: 2742,
   unitSlug: "words",

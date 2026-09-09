@@ -5,7 +5,7 @@ export const theNewWorld0174215OutOfFireAndIntoHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0174-215-out-of-fire-and-into-hell",
   title: "215 Out of Fire and Into Hell",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 174,
   ownLength: 2472,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0326367AnEmptyPurgatory = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0326-367-an-empty-purgatory",
   title: "367 An Empty Purgatory",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 326,
   ownLength: 5414,
   unitSlug: "words",

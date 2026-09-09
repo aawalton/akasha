@@ -5,7 +5,7 @@ export const theNewWorld0245286ASourceOfWealth = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0245-286-a-source-of-wealth",
   title: "286 A Source of Wealth",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 245,
   ownLength: 6578,
   unitSlug: "words",

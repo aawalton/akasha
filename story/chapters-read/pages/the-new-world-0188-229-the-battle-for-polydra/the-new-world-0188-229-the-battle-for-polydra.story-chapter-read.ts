@@ -5,7 +5,7 @@ export const theNewWorld0188229TheBattleForPolydra = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0188-229-the-battle-for-polydra",
   title: "229 The Battle for Polydra",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 188,
   ownLength: 6686,
   unitSlug: "words",

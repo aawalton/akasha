@@ -5,7 +5,7 @@ export const theNewWorld0283324InTheGrime = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0283-324-in-the-grime",
   title: "324 In the Grime",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 283,
   ownLength: 3198,
   unitSlug: "words",

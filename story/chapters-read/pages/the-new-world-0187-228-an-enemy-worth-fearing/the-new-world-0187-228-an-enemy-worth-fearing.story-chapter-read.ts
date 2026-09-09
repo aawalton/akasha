@@ -5,7 +5,7 @@ export const theNewWorld0187228AnEnemyWorthFearing = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0187-228-an-enemy-worth-fearing",
   title: "228 An Enemy Worth Fearing",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 187,
   ownLength: 3145,
   unitSlug: "words",

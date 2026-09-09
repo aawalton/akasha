@@ -5,7 +5,7 @@ export const theNewWorld0332373AnEmpireSFallAndRise = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0332-373-an-empire-s-fall-and-rise",
   title: "373 An Empire's Fall and Rise",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 332,
   ownLength: 2452,
   unitSlug: "words",

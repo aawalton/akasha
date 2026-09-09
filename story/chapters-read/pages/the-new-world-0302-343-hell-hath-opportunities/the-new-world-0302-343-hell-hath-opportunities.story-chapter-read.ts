@@ -5,7 +5,7 @@ export const theNewWorld0302343HellHathOpportunities = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0302-343-hell-hath-opportunities",
   title: "343 Hell Hath Opportunities",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 302,
   ownLength: 3651,
   unitSlug: "words",

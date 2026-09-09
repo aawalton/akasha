@@ -5,7 +5,7 @@ export const theNewWorld0156197UnderDarkWaters = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0156-197-under-dark-waters",
   title: "197 Under Dark Waters",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 156,
   ownLength: 3054,
   unitSlug: "words",

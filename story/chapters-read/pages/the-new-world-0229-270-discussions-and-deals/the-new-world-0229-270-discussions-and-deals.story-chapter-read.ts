@@ -5,7 +5,7 @@ export const theNewWorld0229270DiscussionsAndDeals = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0229-270-discussions-and-deals",
   title: "270 Discussions and Deals",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 229,
   ownLength: 6431,
   unitSlug: "words",

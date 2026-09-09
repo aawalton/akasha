@@ -5,7 +5,7 @@ export const theNewWorld0321362UncoveredProgress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0321-362-uncovered-progress",
   title: "362 Uncovered Progress",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 321,
   ownLength: 2224,
   unitSlug: "words",

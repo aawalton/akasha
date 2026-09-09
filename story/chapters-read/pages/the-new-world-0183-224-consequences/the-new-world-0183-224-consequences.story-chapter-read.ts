@@ -5,7 +5,7 @@ export const theNewWorld0183224Consequences = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0183-224-consequences",
   title: "224 Consequences",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 183,
   ownLength: 3859,
   unitSlug: "words",

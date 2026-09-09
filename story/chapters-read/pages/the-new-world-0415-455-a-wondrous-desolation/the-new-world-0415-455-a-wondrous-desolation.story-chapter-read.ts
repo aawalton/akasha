@@ -5,7 +5,7 @@ export const theNewWorld0415455AWondrousDesolation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0415-455-a-wondrous-desolation",
   title: "455 A Wondrous Desolation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 415,
   ownLength: 4695,
   unitSlug: "words",

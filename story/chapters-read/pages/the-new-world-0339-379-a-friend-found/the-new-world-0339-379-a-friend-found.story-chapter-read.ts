@@ -5,7 +5,7 @@ export const theNewWorld0339379AFriendFound = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0339-379-a-friend-found",
   title: "379 A Friend Found",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 339,
   ownLength: 1865,
   unitSlug: "words",

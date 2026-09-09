@@ -5,7 +5,7 @@ export const theNewWorld0369409MemoriesOfBrokenGlass = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0369-409-memories-of-broken-glass",
   title: "409 Memories Of Broken Glass",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 369,
   ownLength: 4245,
   unitSlug: "words",

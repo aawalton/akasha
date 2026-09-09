@@ -5,7 +5,7 @@ export const theNewWorld0336377Relived = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0336-377-relived",
   title: "377 Relived",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 336,
   ownLength: 3102,
   unitSlug: "words",

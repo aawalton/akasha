@@ -5,7 +5,7 @@ export const theNewWorld0416456TheBestAndBrightestAmongUs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0416-456-the-best-and-brightest-among-us",
   title: "456 The Best and Brightest Among Us",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 416,
   ownLength: 6990,
   unitSlug: "words",

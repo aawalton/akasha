@@ -5,7 +5,7 @@ export const theNewWorld0341381AnotherAntecedence = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0341-381-another-antecedence",
   title: "381 Another Antecedence",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 341,
   ownLength: 2727,
   unitSlug: "words",

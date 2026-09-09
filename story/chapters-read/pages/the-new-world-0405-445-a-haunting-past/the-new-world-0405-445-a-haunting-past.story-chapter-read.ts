@@ -5,7 +5,7 @@ export const theNewWorld0405445AHauntingPast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0405-445-a-haunting-past",
   title: "445 A Haunting Past",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 405,
   ownLength: 6018,
   unitSlug: "words",

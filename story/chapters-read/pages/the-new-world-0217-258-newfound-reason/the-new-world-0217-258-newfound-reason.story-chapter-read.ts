@@ -5,7 +5,7 @@ export const theNewWorld0217258NewfoundReason = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0217-258-newfound-reason",
   title: "258 Newfound Reason",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 217,
   ownLength: 3741,
   unitSlug: "words",

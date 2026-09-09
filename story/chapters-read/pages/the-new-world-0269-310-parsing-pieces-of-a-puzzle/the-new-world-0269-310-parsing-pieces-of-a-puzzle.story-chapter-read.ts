@@ -5,7 +5,7 @@ export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0269-310-parsing-pieces-of-a-puzzle",
   title: "310 Parsing Pieces of a Puzzle",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 269,
   ownLength: 2205,
   unitSlug: "words",

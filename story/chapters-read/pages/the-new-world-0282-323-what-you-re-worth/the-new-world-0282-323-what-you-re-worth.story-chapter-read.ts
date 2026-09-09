@@ -5,7 +5,7 @@ export const theNewWorld0282323WhatYouReWorth = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0282-323-what-you-re-worth",
   title: "323 What You're Worth",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 282,
   ownLength: 3141,
   unitSlug: "words",

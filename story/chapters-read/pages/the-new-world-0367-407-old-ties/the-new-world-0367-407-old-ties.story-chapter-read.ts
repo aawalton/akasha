@@ -5,7 +5,7 @@ export const theNewWorld0367407OldTies = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0367-407-old-ties",
   title: "407 Old Ties",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 367,
   ownLength: 2424,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0165206MeetingAnOldFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0165-206-meeting-an-old-friend",
   title: "206 Meeting an Old Friend",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 165,
   ownLength: 3206,
   unitSlug: "words",

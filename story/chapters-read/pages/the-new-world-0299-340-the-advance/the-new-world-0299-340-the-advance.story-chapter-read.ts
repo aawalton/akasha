@@ -5,7 +5,7 @@ export const theNewWorld0299340TheAdvance = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0299-340-the-advance",
   title: "340 The Advance",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 299,
   ownLength: 3553,
   unitSlug: "words",

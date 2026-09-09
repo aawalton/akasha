@@ -5,7 +5,7 @@ export const theNewWorld0309350UntimelyAssaults = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0309-350-untimely-assaults",
   title: "350 Untimely Assaults",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 309,
   ownLength: 3312,
   unitSlug: "words",

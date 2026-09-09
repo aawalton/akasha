@@ -5,7 +5,7 @@ export const theNewWorld0272313AncientAndVenerable = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0272-313-ancient-and-venerable",
   title: "313 Ancient and Venerable",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 272,
   ownLength: 3107,
   unitSlug: "words",

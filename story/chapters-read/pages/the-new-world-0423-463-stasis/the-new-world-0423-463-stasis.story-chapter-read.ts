@@ -5,7 +5,7 @@ export const theNewWorld0423463Stasis = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0423-463-stasis",
   title: "463 Stasis",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 423,
   ownLength: 4852,
   unitSlug: "words",

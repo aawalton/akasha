@@ -5,7 +5,7 @@ export const theNewWorld0419459ToConquerOneSDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0419-459-to-conquer-one-s-darkness",
   title: "459 To conquer One's Darkness",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 419,
   ownLength: 2605,
   unitSlug: "words",

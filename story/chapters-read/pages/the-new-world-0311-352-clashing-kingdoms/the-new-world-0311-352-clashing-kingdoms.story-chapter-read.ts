@@ -5,7 +5,7 @@ export const theNewWorld0311352ClashingKingdoms = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0311-352-clashing-kingdoms",
   title: "352 Clashing Kingdoms",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 311,
   ownLength: 3302,
   unitSlug: "words",

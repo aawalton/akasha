@@ -5,7 +5,7 @@ export const theNewWorld0404444RitualsAndCultures = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0404-444-rituals-and-cultures",
   title: "444 Rituals and Cultures",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 404,
   ownLength: 7243,
   unitSlug: "words",

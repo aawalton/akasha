@@ -5,7 +5,7 @@ export const theNewWorld0208249Reasoning = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0208-249-reasoning",
   title: "249 Reasoning",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 208,
   ownLength: 3923,
   unitSlug: "words",

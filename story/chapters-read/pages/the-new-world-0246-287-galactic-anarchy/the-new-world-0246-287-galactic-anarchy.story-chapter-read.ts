@@ -5,7 +5,7 @@ export const theNewWorld0246287GalacticAnarchy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0246-287-galactic-anarchy",
   title: "287 Galactic Anarchy",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 246,
   ownLength: 5481,
   unitSlug: "words",

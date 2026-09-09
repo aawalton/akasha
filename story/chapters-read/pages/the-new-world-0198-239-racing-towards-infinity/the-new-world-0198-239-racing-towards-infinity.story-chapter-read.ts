@@ -5,7 +5,7 @@ export const theNewWorld0198239RacingTowardsInfinity = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0198-239-racing-towards-infinity",
   title: "239 Racing Towards Infinity",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 198,
   ownLength: 2555,
   unitSlug: "words",

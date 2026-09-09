@@ -5,7 +5,7 @@ export const theNewWorld0160201MoreThanOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0160-201-more-than-one",
   title: "201 More Than One",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 160,
   ownLength: 3827,
   unitSlug: "words",

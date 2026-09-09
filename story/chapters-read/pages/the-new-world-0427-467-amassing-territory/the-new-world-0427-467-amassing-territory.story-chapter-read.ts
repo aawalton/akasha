@@ -5,7 +5,7 @@ export const theNewWorld0427467AmassingTerritory = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0427-467-amassing-territory",
   title: "467 Amassing Territory",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 427,
   ownLength: 5083,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0428468ThePastPresentAndFuture = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0428-468-the-past-present-and-future",
   title: "468 The Past, Present, and Future",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 428,
   ownLength: 6395,
   unitSlug: "words",

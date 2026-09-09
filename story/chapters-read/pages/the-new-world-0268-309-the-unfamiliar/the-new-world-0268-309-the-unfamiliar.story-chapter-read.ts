@@ -5,7 +5,7 @@ export const theNewWorld0268309TheUnfamiliar = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0268-309-the-unfamiliar",
   title: "309 The Unfamiliar",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 268,
   ownLength: 4973,
   unitSlug: "words",

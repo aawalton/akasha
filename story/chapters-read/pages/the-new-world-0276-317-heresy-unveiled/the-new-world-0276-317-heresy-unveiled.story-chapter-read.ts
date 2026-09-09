@@ -5,7 +5,7 @@ export const theNewWorld0276317HeresyUnveiled = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0276-317-heresy-unveiled",
   title: "317 Heresy Unveiled",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 276,
   ownLength: 3296,
   unitSlug: "words",

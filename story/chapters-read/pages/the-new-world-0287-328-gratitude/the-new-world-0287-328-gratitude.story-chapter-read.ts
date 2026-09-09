@@ -5,7 +5,7 @@ export const theNewWorld0287328Gratitude = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0287-328-gratitude",
   title: "328 Gratitude",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 287,
   ownLength: 3652,
   unitSlug: "words",

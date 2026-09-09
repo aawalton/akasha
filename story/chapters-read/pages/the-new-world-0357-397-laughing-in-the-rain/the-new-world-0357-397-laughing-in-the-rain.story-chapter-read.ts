@@ -5,7 +5,7 @@ export const theNewWorld0357397LaughingInTheRain = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0357-397-laughing-in-the-rain",
   title: "397 Laughing in the Rain",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 357,
   ownLength: 5749,
   unitSlug: "words",

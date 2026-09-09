@@ -5,7 +5,7 @@ export const theNewWorld0173214WhatIsToCome = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0173-214-what-is-to-come",
   title: "214 What Is to Come",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 173,
   ownLength: 2669,
   unitSlug: "words",

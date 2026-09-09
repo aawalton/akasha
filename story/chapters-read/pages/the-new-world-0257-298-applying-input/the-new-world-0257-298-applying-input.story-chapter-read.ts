@@ -5,7 +5,7 @@ export const theNewWorld0257298ApplyingInput = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0257-298-applying-input",
   title: "298 Applying Input",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 257,
   ownLength: 6585,
   unitSlug: "words",

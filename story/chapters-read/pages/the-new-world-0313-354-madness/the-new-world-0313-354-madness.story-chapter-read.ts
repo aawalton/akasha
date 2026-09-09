@@ -5,7 +5,7 @@ export const theNewWorld0313354Madness = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0313-354-madness",
   title: "354 Madness",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 313,
   ownLength: 3498,
   unitSlug: "words",

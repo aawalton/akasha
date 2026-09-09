@@ -5,7 +5,7 @@ export const theNewWorld0189230TheSilencesBetween = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0189-230-the-silences-between",
   title: "230 The Silences Between",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 189,
   ownLength: 4235,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0353393TheWeightOfWorlds = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0353-393-the-weight-of-worlds",
   title: "393 The Weight of Worlds",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 353,
   ownLength: 3636,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0256297AChangeOfPace = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0256-297-a-change-of-pace",
   title: "297 A Change of Pace",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 256,
   ownLength: 5423,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0206247ObolisNovas = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0206-247-obolis-novas",
   title: "247 Obolis Novas",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 206,
   ownLength: 2921,
   unitSlug: "words",

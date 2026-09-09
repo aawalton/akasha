@@ -5,7 +5,7 @@ export const theNewWorld0182223HisOwnWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0182-223-his-own-way",
   title: "223 His Own Way",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 182,
   ownLength: 3540,
   unitSlug: "words",

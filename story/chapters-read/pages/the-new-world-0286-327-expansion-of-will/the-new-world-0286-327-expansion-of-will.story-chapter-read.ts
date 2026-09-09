@@ -5,7 +5,7 @@ export const theNewWorld0286327ExpansionOfWill = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0286-327-expansion-of-will",
   title: "327  Expansion of Will",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 286,
   ownLength: 2868,
   unitSlug: "words",

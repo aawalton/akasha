@@ -5,7 +5,7 @@ export const theNewWorld0337378AHopefulDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0337-378-a-hopeful-death",
   title: "378 A Hopeful Death",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 337,
   ownLength: 2800,
   unitSlug: "words",

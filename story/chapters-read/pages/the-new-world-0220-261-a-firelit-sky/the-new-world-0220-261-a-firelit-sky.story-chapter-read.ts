@@ -5,7 +5,7 @@ export const theNewWorld0220261AFirelitSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0220-261-a-firelit-sky",
   title: "261 A Firelit Sky",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 220,
   ownLength: 5652,
   unitSlug: "words",

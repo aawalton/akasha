@@ -5,7 +5,7 @@ export const theNewWorld0222263AnAdjustment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0222-263-an-adjustment",
   title: "263 An Adjustment",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 222,
   ownLength: 4157,
   unitSlug: "words",

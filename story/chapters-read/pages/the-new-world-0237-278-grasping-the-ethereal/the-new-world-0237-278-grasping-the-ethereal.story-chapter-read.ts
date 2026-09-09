@@ -5,7 +5,7 @@ export const theNewWorld0237278GraspingTheEthereal = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0237-278-grasping-the-ethereal",
   title: "278 Grasping the Ethereal",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 237,
   ownLength: 4346,
   unitSlug: "words",

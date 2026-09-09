@@ -5,7 +5,7 @@ export const theNewWorld0270311ACleverBug = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0270-311-a-clever-bug",
   title: "311 A Clever Bug",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 270,
   ownLength: 2891,
   unitSlug: "words",

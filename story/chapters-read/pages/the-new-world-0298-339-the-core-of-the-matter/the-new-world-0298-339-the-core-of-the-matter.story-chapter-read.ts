@@ -5,7 +5,7 @@ export const theNewWorld0298339TheCoreOfTheMatter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0298-339-the-core-of-the-matter",
   title: "339 The Core of the Matter",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 298,
   ownLength: 3326,
   unitSlug: "words",

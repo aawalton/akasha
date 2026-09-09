@@ -5,7 +5,7 @@ export const theNewWorld0224265TheNextStep = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0224-265-the-next-step",
   title: "265 The Next Step",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 224,
   ownLength: 4025,
   unitSlug: "words",

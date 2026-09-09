@@ -5,7 +5,7 @@ export const theNewWorld0368408AnotherTimeInAnotherLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0368-408-another-time-in-another-life",
   title: "408 Another Time In Another Life",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 368,
   ownLength: 4627,
   unitSlug: "words",

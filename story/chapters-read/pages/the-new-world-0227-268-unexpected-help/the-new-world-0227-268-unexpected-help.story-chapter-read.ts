@@ -5,7 +5,7 @@ export const theNewWorld0227268UnexpectedHelp = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0227-268-unexpected-help",
   title: "268 Unexpected Help",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 227,
   ownLength: 2468,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0280321ExpandingAnEmpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0280-321-expanding-an-empire",
   title: "321 Expanding an Empire",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 280,
   ownLength: 2901,
   unitSlug: "words",

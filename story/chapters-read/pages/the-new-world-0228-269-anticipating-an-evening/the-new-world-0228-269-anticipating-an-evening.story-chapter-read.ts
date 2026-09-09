@@ -5,7 +5,7 @@ export const theNewWorld0228269AnticipatingAnEvening = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0228-269-anticipating-an-evening",
   title: "269 Anticipating an Evening",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 228,
   ownLength: 8045,
   unitSlug: "words",

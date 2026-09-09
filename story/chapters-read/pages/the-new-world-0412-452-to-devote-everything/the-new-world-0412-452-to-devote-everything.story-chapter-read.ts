@@ -5,7 +5,7 @@ export const theNewWorld0412452ToDevoteEverything = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0412-452-to-devote-everything",
   title: "452  To Devote Everything",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 412,
   ownLength: 9389,
   unitSlug: "words",

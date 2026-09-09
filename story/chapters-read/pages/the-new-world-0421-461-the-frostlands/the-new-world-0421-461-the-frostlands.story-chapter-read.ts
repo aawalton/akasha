@@ -5,7 +5,7 @@ export const theNewWorld0421461TheFrostlands = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0421-461-the-frostlands",
   title: "461 The Frostlands",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 421,
   ownLength: 4668,
   unitSlug: "words",

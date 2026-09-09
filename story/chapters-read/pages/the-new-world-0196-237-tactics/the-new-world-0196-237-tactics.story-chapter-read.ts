@@ -5,7 +5,7 @@ export const theNewWorld0196237Tactics = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0196-237-tactics",
   title: "237 Tactics",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 196,
   ownLength: 2427,
   unitSlug: "words",

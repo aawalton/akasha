@@ -5,7 +5,7 @@ export const theNewWorld0153194AnotherRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0153-194-another-realm",
   title: "194 Another Realm",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 153,
   ownLength: 2596,
   unitSlug: "words",

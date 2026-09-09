@@ -5,7 +5,7 @@ export const theNewWorld0288329Rulers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0288-329-rulers",
   title: "329 Rulers",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 288,
   ownLength: 2453,
   unitSlug: "words",

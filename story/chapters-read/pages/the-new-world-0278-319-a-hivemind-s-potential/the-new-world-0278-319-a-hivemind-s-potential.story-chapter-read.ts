@@ -5,7 +5,7 @@ export const theNewWorld0278319AHivemindSPotential = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0278-319-a-hivemind-s-potential",
   title: "319 A Hivemind's Potential",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 278,
   ownLength: 2546,
   unitSlug: "words",

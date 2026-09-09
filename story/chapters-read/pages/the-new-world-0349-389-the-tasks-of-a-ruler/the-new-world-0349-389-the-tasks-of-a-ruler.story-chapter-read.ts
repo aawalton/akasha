@@ -5,7 +5,7 @@ export const theNewWorld0349389TheTasksOfARuler = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0349-389-the-tasks-of-a-ruler",
   title: "389 The Tasks of a Ruler",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 349,
   ownLength: 3556,
   unitSlug: "words",

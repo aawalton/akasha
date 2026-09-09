@@ -5,7 +5,7 @@ export const theNewWorld0163204DownARabbitHole = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0163-204-down-a-rabbit-hole",
   title: "204 Down A Rabbit Hole",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 163,
   ownLength: 2802,
   unitSlug: "words",

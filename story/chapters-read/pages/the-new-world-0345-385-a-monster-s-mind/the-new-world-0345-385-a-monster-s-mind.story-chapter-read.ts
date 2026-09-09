@@ -5,7 +5,7 @@ export const theNewWorld0345385AMonsterSMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0345-385-a-monster-s-mind",
   title: "385 A Monster's Mind",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 345,
   ownLength: 2868,
   unitSlug: "words",

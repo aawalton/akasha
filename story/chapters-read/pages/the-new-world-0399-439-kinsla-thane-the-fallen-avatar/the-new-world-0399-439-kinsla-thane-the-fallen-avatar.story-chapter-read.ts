@@ -5,7 +5,7 @@ export const theNewWorld0399439KinslaThaneTheFallenAvatar = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0399-439-kinsla-thane-the-fallen-avatar",
   title: "439 Kinsla Thane, the Fallen Avatar",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 399,
   ownLength: 3850,
   unitSlug: "words",

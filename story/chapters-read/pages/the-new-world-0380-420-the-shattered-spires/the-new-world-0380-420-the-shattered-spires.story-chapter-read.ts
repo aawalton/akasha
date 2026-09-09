@@ -5,7 +5,7 @@ export const theNewWorld0380420TheShatteredSpires = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0380-420-the-shattered-spires",
   title: "420 The Shattered Spires",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 380,
   ownLength: 4264,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0178219AWiderWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0178-219-a-wider-world",
   title: "219 A Wider World",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 178,
   ownLength: 4182,
   unitSlug: "words",

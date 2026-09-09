@@ -5,7 +5,7 @@ export const theNewWorld0244285ANewWorldSWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0244-285-a-new-world-s-ways",
   title: "285 A New World's Ways",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 244,
   ownLength: 5787,
   unitSlug: "words",

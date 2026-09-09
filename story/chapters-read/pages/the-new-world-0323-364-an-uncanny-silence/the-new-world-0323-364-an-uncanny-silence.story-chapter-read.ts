@@ -5,7 +5,7 @@ export const theNewWorld0323364AnUncannySilence = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0323-364-an-uncanny-silence",
   title: "364 An Uncanny Silence",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 323,
   ownLength: 2019,
   unitSlug: "words",

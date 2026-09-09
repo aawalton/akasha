@@ -5,7 +5,7 @@ export const theNewWorld0295336TheDeathOfAMind = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0295-336-the-death-of-a-mind",
   title: "336 The Death of a Mind",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 295,
   ownLength: 7491,
   unitSlug: "words",

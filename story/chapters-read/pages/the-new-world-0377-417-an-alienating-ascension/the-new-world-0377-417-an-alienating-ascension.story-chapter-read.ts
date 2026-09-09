@@ -5,7 +5,7 @@ export const theNewWorld0377417AnAlienatingAscension = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0377-417-an-alienating-ascension",
   title: "417 An Alienating Ascension",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 377,
   ownLength: 5387,
   unitSlug: "words",

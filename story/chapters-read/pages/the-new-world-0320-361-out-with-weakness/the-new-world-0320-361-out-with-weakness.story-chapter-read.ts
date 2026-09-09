@@ -5,7 +5,7 @@ export const theNewWorld0320361OutWithWeakness = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0320-361-out-with-weakness",
   title: "361 Out With Weakness",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 320,
   ownLength: 4594,
   unitSlug: "words",

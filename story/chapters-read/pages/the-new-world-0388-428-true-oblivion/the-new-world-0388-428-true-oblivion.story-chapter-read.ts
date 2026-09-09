@@ -5,7 +5,7 @@ export const theNewWorld0388428TrueOblivion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0388-428-true-oblivion",
   title: "428 True Oblivion",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 388,
   ownLength: 3230,
   unitSlug: "words",

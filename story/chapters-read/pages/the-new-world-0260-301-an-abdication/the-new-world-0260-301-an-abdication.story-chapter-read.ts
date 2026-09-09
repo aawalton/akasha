@@ -5,7 +5,7 @@ export const theNewWorld0260301AnAbdication = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0260-301-an-abdication",
   title: "301 An Abdication",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 260,
   ownLength: 5934,
   unitSlug: "words",

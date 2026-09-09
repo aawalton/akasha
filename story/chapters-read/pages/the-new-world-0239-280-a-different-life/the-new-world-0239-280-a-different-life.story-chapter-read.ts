@@ -5,7 +5,7 @@ export const theNewWorld0239280ADifferentLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0239-280-a-different-life",
   title: "280 A Different Life",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 239,
   ownLength: 6965,
   unitSlug: "words",

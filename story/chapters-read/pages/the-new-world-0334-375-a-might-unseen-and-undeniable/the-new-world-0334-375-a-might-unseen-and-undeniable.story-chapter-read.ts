@@ -5,7 +5,7 @@ export const theNewWorld0334375AMightUnseenAndUndeniable = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0334-375-a-might-unseen-and-undeniable",
   title: "375 A Might Unseen and Undeniable",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 334,
   ownLength: 1866,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0274315ARapidReversal = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0274-315-a-rapid-reversal",
   title: "315 A Rapid Reversal",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 274,
   ownLength: 2769,
   unitSlug: "words",

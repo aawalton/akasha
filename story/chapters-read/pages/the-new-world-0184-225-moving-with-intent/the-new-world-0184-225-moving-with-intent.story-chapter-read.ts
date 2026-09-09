@@ -5,7 +5,7 @@ export const theNewWorld0184225MovingWithIntent = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0184-225-moving-with-intent",
   title: "225 Moving with Intent",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 184,
   ownLength: 3734,
   unitSlug: "words",

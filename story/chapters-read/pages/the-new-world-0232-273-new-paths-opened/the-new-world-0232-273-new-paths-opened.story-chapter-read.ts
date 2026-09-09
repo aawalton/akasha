@@ -5,7 +5,7 @@ export const theNewWorld0232273NewPathsOpened = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0232-273-new-paths-opened",
   title: "273 New Paths Opened",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 232,
   ownLength: 7541,
   unitSlug: "words",

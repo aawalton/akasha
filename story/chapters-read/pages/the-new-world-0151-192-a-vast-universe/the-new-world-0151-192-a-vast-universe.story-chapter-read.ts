@@ -5,7 +5,7 @@ export const theNewWorld0151192AVastUniverse = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0151-192-a-vast-universe",
   title: "192 A Vast Universe",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 151,
   ownLength: 4819,
   unitSlug: "words",

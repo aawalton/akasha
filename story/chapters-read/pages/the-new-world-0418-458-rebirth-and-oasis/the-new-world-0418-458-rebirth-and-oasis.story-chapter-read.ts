@@ -5,7 +5,7 @@ export const theNewWorld0418458RebirthAndOasis = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0418-458-rebirth-and-oasis",
   title: "458 Rebirth and Oasis",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 418,
   ownLength: 2367,
   unitSlug: "words",

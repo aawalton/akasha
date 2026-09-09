@@ -5,7 +5,7 @@ export const theNewWorld0360400TeraSReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0360-400-tera-s-return",
   title: "400 Tera's Return",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 360,
   ownLength: 4270,
   unitSlug: "words",

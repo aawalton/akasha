@@ -5,7 +5,7 @@ export const theNewWorld0301342WhatBumpsInTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0301-342-what-bumps-in-the-night",
   title: "342 What Bumps in the Night",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 301,
   ownLength: 3688,
   unitSlug: "words",

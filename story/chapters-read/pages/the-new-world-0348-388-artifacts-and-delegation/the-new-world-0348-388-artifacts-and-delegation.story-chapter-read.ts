@@ -5,7 +5,7 @@ export const theNewWorld0348388ArtifactsAndDelegation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0348-388-artifacts-and-delegation",
   title: "388 Artifacts and Delegation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 348,
   ownLength: 3774,
   unitSlug: "words",

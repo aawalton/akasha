@@ -5,7 +5,7 @@ export const theNewWorld0285326APrimordialPlayground = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0285-326-a-primordial-playground",
   title: "326 A Primordial Playground",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 285,
   ownLength: 2965,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0275316ClosureAndLessons = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0275-316-closure-and-lessons",
   title: "316 Closure and Lessons",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 275,
   ownLength: 2504,
   unitSlug: "words",

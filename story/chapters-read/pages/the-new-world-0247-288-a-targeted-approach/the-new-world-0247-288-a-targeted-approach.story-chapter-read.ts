@@ -5,7 +5,7 @@ export const theNewWorld0247288ATargetedApproach = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0247-288-a-targeted-approach",
   title: "288 A Targeted Approach",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 247,
   ownLength: 7355,
   unitSlug: "words",

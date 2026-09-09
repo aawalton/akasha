@@ -5,7 +5,7 @@ export const theNewWorld0180221TheLearningProcess = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0180-221-the-learning-process",
   title: "221 The Learning Process",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 180,
   ownLength: 6157,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0152193AConflictOfInterests = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0152-193-a-conflict-of-interests",
   title: "193 A Conflict of Interests",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 152,
   ownLength: 2622,
   unitSlug: "words",

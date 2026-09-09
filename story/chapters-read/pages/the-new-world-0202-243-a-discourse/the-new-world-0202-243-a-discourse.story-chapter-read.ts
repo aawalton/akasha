@@ -5,7 +5,7 @@ export const theNewWorld0202243ADiscourse = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0202-243-a-discourse",
   title: "243 A Discourse",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 202,
   ownLength: 3642,
   unitSlug: "words",

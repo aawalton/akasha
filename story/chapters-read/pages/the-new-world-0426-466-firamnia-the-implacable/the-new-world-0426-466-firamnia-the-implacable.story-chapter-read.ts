@@ -5,7 +5,7 @@ export const theNewWorld0426466FiramniaTheImplacable = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0426-466-firamnia-the-implacable",
   title: "466 Firamnia, the Implacable",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 426,
   ownLength: 5947,
   unitSlug: "words",

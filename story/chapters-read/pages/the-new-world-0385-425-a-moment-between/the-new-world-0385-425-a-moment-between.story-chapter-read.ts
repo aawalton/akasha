@@ -5,7 +5,7 @@ export const theNewWorld0385425AMomentBetween = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0385-425-a-moment-between",
   title: "425 A Moment Between",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 385,
   ownLength: 2979,
   unitSlug: "words",

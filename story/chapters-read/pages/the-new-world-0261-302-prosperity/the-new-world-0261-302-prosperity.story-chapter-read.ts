@@ -5,7 +5,7 @@ export const theNewWorld0261302Prosperity = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0261-302-prosperity",
   title: "302 Prosperity",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 261,
   ownLength: 3499,
   unitSlug: "words",

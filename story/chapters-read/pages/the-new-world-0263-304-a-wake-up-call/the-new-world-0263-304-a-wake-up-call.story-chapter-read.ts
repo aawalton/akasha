@@ -5,7 +5,7 @@ export const theNewWorld0263304AWakeUpCall = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0263-304-a-wake-up-call",
   title: "304 A Wake Up Call",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 263,
   ownLength: 5456,
   unitSlug: "words",

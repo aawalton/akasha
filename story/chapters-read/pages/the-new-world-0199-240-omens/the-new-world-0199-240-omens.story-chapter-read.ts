@@ -5,7 +5,7 @@ export const theNewWorld0199240Omens = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0199-240-omens",
   title: "240 Omens",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 199,
   ownLength: 4346,
   unitSlug: "words",

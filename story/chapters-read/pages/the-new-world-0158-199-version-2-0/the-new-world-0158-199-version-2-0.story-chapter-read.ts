@@ -5,7 +5,7 @@ export const theNewWorld0158199Version20 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0158-199-version-2-0",
   title: "199 Version 2.0",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 158,
   ownLength: 4907,
   unitSlug: "words",

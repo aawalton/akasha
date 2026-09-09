@@ -5,7 +5,7 @@ export const theNewWorld0318359AmassingArmadas = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0318-359-amassing-armadas",
   title: "359 Amassing Armadas",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 318,
   ownLength: 4065,
   unitSlug: "words",

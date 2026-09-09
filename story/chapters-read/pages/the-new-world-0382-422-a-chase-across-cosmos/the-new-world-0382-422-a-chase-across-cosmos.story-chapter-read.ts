@@ -5,7 +5,7 @@ export const theNewWorld0382422AChaseAcrossCosmos = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0382-422-a-chase-across-cosmos",
   title: "422 A Chase Across Cosmos",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 382,
   ownLength: 5415,
   unitSlug: "words",

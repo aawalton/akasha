@@ -5,7 +5,7 @@ export const theNewWorld0221262TheLastDays = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0221-262-the-last-days",
   title: "262 The Last Days",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 221,
   ownLength: 6363,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0214255Multifaceted = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0214-255-multifaceted",
   title: "255 Multifaceted",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 214,
   ownLength: 2065,
   unitSlug: "words",

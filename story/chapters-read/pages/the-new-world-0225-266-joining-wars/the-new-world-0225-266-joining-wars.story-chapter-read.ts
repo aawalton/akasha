@@ -5,7 +5,7 @@ export const theNewWorld0225266JoiningWars = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0225-266-joining-wars",
   title: "266 Joining Wars",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 225,
   ownLength: 5268,
   unitSlug: "words",

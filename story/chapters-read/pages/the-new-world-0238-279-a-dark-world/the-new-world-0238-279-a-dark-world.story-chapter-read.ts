@@ -5,7 +5,7 @@ export const theNewWorld0238279ADarkWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0238-279-a-dark-world",
   title: "279 A Dark World",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 238,
   ownLength: 4778,
   unitSlug: "words",
