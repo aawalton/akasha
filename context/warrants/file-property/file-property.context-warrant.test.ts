@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
 import { blobIdOf, recordRead } from "../../../commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   knowingIn,
   unreadIn,

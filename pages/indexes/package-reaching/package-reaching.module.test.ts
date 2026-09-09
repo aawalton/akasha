@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing as wrote } from "@akasha/command-system/scratching/testing"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing as wrote } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { reading } from "../../value/page-value.module.test-fixtures.ts"
 import { readingIn } from "../reading/index-reading.module.code.ts"
 import {

@@ -3,11 +3,11 @@ import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Ran } from "@akasha/code/code-tests"
 import { RUNNING } from "@akasha/code/code-tests"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled, pathFiled, repoAt } from "@akasha/indexes/testing"
 import { shadowAsked, shadowAt } from "@akasha/pages/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { typingUnder } from "@akasha/testing-system/declaring"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   change,
   gone,

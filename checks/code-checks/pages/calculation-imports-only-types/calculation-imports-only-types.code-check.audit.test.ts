@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { pathFiled } from "@akasha/indexes/testing"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { calculationImportsOnlyTypes } from "./calculation-imports-only-types.code-check.audit.code.ts"
 
 const scratch = scratchWorld()

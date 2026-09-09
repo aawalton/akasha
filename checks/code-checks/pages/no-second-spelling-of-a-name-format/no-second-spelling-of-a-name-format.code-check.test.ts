@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   carrying,
   claiming,

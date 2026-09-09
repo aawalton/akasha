@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonInstall } from "./temper-addon-install.command.code.ts"
 
 const scratch = scratchWorld()

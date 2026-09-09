@@ -1,8 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { generatedAt } from "@akasha/indexes/property-carrying"
 import {
   idFiled,
@@ -12,6 +10,8 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Value } from "@akasha/pages/page-value"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"
 
 const scratch = scratchWorld()

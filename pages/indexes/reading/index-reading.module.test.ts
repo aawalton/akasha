@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
 import {
   everyOfType,

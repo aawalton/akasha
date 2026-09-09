@@ -17,8 +17,8 @@ import type {
   Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   carriesLock,
   installedIn,

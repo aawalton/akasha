@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
 
 const scratch = scratchWorld()

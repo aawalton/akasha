@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { idFiled, listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { shadowFor } from "@akasha/pages/shadow"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

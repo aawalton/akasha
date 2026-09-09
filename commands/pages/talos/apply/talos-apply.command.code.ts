@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { buildNodePatch } from "@akasha/talos/build-patch"
 import { buildSchematic } from "@akasha/talos/build-schematic"
 import { buildNodeVolumes } from "@akasha/talos/build-volumes"
@@ -15,6 +14,7 @@ import { decryptToTmp } from "@akasha/talos/sops"
 import { runTalosctl } from "@akasha/talos/talosctl"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
 export const NODE = "--node"
 

@@ -1,9 +1,9 @@
 import { createHash } from "node:crypto"
 import { cp, mkdtemp, readdir, rm, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import extract from "extract-zip"
+import { SCRATCH_AT } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import type { FileDetails } from "../esoui-catalog/esoui-catalog.module.code.ts"
 
 export type InstallResult = {

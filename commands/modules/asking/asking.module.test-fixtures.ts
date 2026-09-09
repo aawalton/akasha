@@ -9,7 +9,6 @@ import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/m
 import { put } from "@akasha/testing-system/putting"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { folding } from "../apply-running/apply-running.module.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
@@ -18,6 +17,7 @@ import { landedMechanically } from "../mechanical-landing/mechanical-landing.mod
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { type Asked, landingAsked, wroteAndTook } from "./asking.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"

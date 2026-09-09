@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, listedTakenFrom, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { declaring, landing, NO_BYTES } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

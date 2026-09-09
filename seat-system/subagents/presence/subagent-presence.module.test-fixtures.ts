@@ -1,11 +1,14 @@
 import { cpSync, existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { keptAt, scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
+import {
+  keptAt,
+  scratchWorld,
+} from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 export function landingNaming(named: string[]): Landing {

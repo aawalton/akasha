@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   listedFiled,
   pageFiled,
@@ -9,6 +8,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { carriedFor, computedInto, gatheredFor, kindsFor } from "./kinds-gathering.module.code.ts"
 
 const scratch = scratchWorld()

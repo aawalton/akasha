@@ -1,6 +1,5 @@
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Child, Reading } from "@akasha/indexes/shape"
@@ -8,6 +7,7 @@ import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/ind
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { valueAt } from "@akasha/pages/page-value"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   type Fields,
   type Given,

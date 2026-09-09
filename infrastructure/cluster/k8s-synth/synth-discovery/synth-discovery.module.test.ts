@@ -1,7 +1,7 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { valueAlsoFiled } from "@akasha/indexes/testing"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   appliedManifestPaths,
   discoverSynthFiles,

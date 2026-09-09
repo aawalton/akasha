@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Given } from "../../../commands/modules/calling/calling.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   BODY_FILING,
   COMPOSING,

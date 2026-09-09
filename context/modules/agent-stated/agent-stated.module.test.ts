@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { seatListed } from "../warranting/warranting.module.test-fixtures.ts"
 import { slugStated, typeStated } from "./agent-stated.module.code.ts"
 

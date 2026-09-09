@@ -1,7 +1,7 @@
 import { afterAll, beforeEach, expect, test } from "bun:test"
 import { realpathSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
 import {
   dropRelayed,

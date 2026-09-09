@@ -1,7 +1,7 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   alreadyRunning,
   BATCH,

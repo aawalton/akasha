@@ -1,6 +1,6 @@
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { linesFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"
 

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { pagesIn } from "@akasha/seat-system/subagent-census"
 import { entry } from "../../../../seat-system/seat-proc-liveness/seat-proc-liveness.module.test-fixtures.ts"
+import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,

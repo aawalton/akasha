@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { put, there } from "@akasha/testing-system/putting"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   clearedOff,
   clearedUnder,

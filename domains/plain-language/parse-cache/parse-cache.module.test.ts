@@ -1,7 +1,7 @@
 import { afterAll, afterEach, expect, test } from "bun:test"
 import { appendFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import type { ParsedSentence } from "../dependency-graph/dependency-graph.module.code.ts"
 import { keyFor, makeParseCacheAt } from "./parse-cache.module.code.ts"
 

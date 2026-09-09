@@ -1,11 +1,11 @@
 import { statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { z } from "zod"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   ACCOUNT_DECLARED,
   bodiesIn,

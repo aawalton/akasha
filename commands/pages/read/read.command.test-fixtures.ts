@@ -8,10 +8,10 @@ import {
   realAt,
   SEEDED_AT,
 } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import type { Reading } from "../../modules/reading/reading.module.code.ts"
 import { blobIdOf, partly, readingIn } from "../../modules/reading/reading.module.code.ts"
+import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
 import { numbered } from "./long-body/long-body.module.code.ts"
 import {
   ANSWER_CEILING,

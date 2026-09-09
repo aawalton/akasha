@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   addressFor,
   assignedKinds,

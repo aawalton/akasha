@@ -1,7 +1,7 @@
 import { afterAll, describe, expect, test } from "bun:test"
 import { readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   CREDENTIAL_FILE_NAME,

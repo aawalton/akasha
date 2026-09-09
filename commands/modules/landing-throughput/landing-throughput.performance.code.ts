@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 
 const LANES = 40
 

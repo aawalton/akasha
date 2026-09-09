@@ -1,7 +1,7 @@
 import { afterAll, beforeEach, expect, test } from "bun:test"
 import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../../../commands/modules/scratching/scratching.module.code.ts"
 import { followState, readState, stateAt } from "./state-reading.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"

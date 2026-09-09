@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { put } from "@akasha/testing-system/putting"
-import { scratchWorld } from "../../../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { linesOf, windowIn } from "../../checks/check-measuring/check-measuring.module.code.ts"
 import {
   agoOf,

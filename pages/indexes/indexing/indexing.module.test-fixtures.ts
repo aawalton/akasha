@@ -1,12 +1,15 @@
 import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { keptAt, scratchWorld } from "@akasha/command-system/scratching"
 import { said as git } from "@akasha/git/git-running"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { declaringUnder } from "@akasha/testing-system/declaring"
+import {
+  keptAt,
+  scratchWorld,
+} from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { readingAt } from "../surface/index-surface.module.code.ts"
 import { indexingAt, rebuiltWhole, settlingOver } from "./indexing.module.code.ts"
 

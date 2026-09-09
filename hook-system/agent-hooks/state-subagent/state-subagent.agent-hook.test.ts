@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import { SEAT_NAMED } from "../../../commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"
 
 const SEAT = "01a05844-6e60-7000-b54c-4b14559df70b"

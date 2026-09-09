@@ -1,7 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing as wrote } from "@akasha/command-system/scratching/testing"
 import {
   idFiled,
   listedAlsoFiled,
@@ -11,6 +9,8 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing as wrote } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const A = "akasha/t/a.note.ts"
 

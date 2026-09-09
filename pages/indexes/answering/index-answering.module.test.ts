@@ -1,5 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   carriedIn,
@@ -9,6 +8,7 @@ import {
   sourceIn,
 } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { fileKeysAt, pageTypesIn, schemaAt } from "../entries/index-entries.module.code.ts"
 import { carryingOf, declaringOf } from "../property-carrying/property-carrying.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"

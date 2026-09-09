@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages/change"
 import { shadowAsked } from "@akasha/pages/shadow"
 import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, gone, proposing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

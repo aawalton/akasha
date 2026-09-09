@@ -1,9 +1,9 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { SCRATCH_AT } from "../../../../../../command-system/scratching/scratching.module.code.ts"
 import { mistaking } from "../../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
 import { filing } from "../../../../../modules/mechanical-filing/mechanical-filing.module.code.ts"
+import { SCRATCH_AT } from "../../../../../modules/scratching/scratching.module.code.ts"
 import type { ActivityDifficulty } from "../../amend/session-leveling/session-leveling.module.code.ts"
 import {
   activitiesIn,

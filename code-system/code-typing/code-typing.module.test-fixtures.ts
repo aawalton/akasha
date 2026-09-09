@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import type { Placing, Reading, Typing } from "./code-typing.module.code.ts"
 import { insideOf, placingOver, readingOf, typingOver } from "./code-typing.module.code.ts"
 

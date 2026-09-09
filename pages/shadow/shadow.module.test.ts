@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { everyValue, readingIn } from "@akasha/indexes"
 import { keepingIn } from "@akasha/indexes/indexing"
 import {
@@ -15,6 +14,7 @@ import {
 import type { Reading } from "@akasha/indexes/shape"
 import { everythingRead, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import { put, there } from "@akasha/testing-system/putting"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { valueAt } from "../value/page-value.module.code.ts"
 import { type Cast, NOT_WORKED_OUT, shadowFor } from "./shadow.module.code.ts"

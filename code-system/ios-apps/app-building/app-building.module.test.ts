@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled } from "@akasha/indexes/testing"
 import { AKASHA, rootsNamed } from "@akasha/pages/checkout-roots"
 import type { Roots } from "@akasha/pages/markdown-page-at"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,

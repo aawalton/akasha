@@ -15,9 +15,9 @@ import {
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { textProperty } from "@akasha/pages/text-property"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Given } from "../../modules/calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../modules/cli/cli.module.code.ts"
+import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
 import { classed, index, readIn } from "./index.command.code.ts"
 import { index as indexCommand } from "./index.command.ts"
 

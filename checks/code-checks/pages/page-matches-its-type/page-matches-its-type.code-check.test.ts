@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { nothingFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Formatting, matchingIn } from "@akasha/pages/name-format/format-reaching"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
 import { shadowFor } from "@akasha/pages/shadow"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

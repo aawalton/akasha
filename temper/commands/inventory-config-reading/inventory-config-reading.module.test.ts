@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { DataError } from "@akasha/errors-core/exit-code"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,
   parseTemperInventoryConfig,

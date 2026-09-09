@@ -1,6 +1,5 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { screenshot } from "@akasha/mobile-cli/appium-client"
 import {
   driving,
@@ -14,6 +13,7 @@ import {
   told,
 } from "../../../../modules/answering/command-answering.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { SCRATCH_AT } from "../../../../modules/scratching/scratching.module.code.ts"
 
 const OUT = "--out"
 

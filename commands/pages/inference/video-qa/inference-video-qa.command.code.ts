@@ -1,6 +1,5 @@
 import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { join } from "node:path"
-import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import {
   buildFrameExtractArgs,
@@ -34,6 +33,7 @@ import {
   told,
 } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"
 
 const VIDEO = "--video"
 

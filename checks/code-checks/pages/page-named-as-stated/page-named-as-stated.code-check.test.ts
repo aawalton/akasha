@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
 import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, declaring, landing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

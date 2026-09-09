@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import {
@@ -10,6 +8,8 @@ import {
   readingIn,
   recordRead,
 } from "../../../commands/modules/reading/reading.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentIdOf,
   asking,

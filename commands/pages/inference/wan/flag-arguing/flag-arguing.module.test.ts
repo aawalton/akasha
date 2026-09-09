@@ -2,7 +2,7 @@ import { afterAll, describe, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import {
   heldOnce,
   numberIn,

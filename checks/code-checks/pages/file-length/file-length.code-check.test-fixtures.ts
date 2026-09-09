@@ -1,4 +1,3 @@
-import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   idFiled,
   listedFiled,
@@ -7,6 +6,7 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Value } from "@akasha/pages/page-value"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()
 

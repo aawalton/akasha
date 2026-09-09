@@ -1,9 +1,9 @@
 import { join } from "node:path"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
 import { declaringUnder } from "@akasha/testing-system/declaring"
+import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "../../utils/run/running/running.module.code.ts"
 import { standingSubagentsOf } from "./subagent-page.module.code.ts"
 

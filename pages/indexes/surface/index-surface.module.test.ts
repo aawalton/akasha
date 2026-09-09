@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { put } from "@akasha/testing-system/putting"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { beneath, overlaidOn, readingAt } from "./index-surface.module.code.ts"
 
 const scratch = scratchWorld()

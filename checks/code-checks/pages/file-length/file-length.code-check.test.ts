@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { shadowAt } from "@akasha/pages/shadow"
 import { bodiesIn } from "@akasha/testing-system/bodying"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
   CEILING,

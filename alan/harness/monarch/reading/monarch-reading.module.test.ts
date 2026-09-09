@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { readingKept } from "../../../../readouts/reading/readout-reading.module.code.ts"
 import { READOUT_PAGE, takeReading } from "./monarch-reading.module.code.ts"
 

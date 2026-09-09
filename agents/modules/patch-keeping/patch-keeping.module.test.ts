@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "./patch-keeping.module.code.ts"
 
 const SEAT = "akasha/seat-system/seats/pages/dalla.seat.ts"

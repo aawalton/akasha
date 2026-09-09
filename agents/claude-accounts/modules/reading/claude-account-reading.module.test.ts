@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import type { Child, Reading } from "@akasha/indexes/shape"
 import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   accountBesideIn,
   accountPathIn,

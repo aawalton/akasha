@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonResolve } from "./temper-addon-resolve.command.code.ts"
 
 const scratch = scratchWorld()

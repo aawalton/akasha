@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Change } from "@akasha/pages/change"
 import { shadowAt, shadowFor } from "@akasha/pages/shadow"
 import { put, there } from "@akasha/testing-system/putting"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { schemaFiled } from "../reading/index-reading.module.test-fixtures.ts"
 import { indexIn } from "../surface/index-surface.module.code.ts"
 import {

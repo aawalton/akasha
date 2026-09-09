@@ -13,7 +13,7 @@ import type { Value } from "@akasha/pages/page-value"
 import { textProperty } from "@akasha/pages/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils/run/running"
-import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Drafted, FileEdit, Landed, Refused } from "./landing.module.code.ts"
 import { baseOf, landing, rowsFrom } from "./landing.module.code.ts"
 

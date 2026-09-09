@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
+import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { pageInHistory, subagentPageInHistory } from "./subagent-page-history.module.code.ts"
 
 const AT = "seat-system/subagents/pages/akasha-a38f63805f9b94edf.subagent.ts"

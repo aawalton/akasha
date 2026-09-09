@@ -3,8 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./scratching": "./scratching/scratching.module.code.ts",
-    "./scratching/testing": "./scratching/scratching.module.test-fixtures.ts"
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",
