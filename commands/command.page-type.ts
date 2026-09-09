@@ -78,6 +78,7 @@ export const command = {
     "module/change-costing",
     "module/apply-running",
     "module/warrant-owing",
+    "module/namespace-listing",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",
