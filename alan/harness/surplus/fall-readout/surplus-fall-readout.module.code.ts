@@ -7,7 +7,7 @@ import { sleepIn } from "@akasha/readouts/upkeep-sleep"
 import { surplusIn } from "@akasha/readouts/upkeep-surplus"
 import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { onTheWorkstation } from "../../notifications/push-device-tokens/push-device-tokens.module.code.ts"
-import { isTierColor, type Rung } from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
+import { isTierColor, type Rung } from "../fall-tier/surplus-fall-tier.module.code.ts"
 
 export const SLEEP_HOURS_KEY = "sleep-hours"
 

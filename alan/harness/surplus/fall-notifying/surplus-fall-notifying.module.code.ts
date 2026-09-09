@@ -9,7 +9,7 @@ import {
   TICK_CEILING_MS,
   TICK_MS,
   WORKER_NAME,
-} from "../surplus-fall-ticking/surplus-fall-ticking.module.code.ts"
+} from "../fall-ticking/surplus-fall-ticking.module.code.ts"
 
 async function main(): Promise<void> {
   const ac = stopsOnSignal()

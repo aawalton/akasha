@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { TIER_ORDER } from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
+import { TIER_ORDER } from "../fall-tier/surplus-fall-tier.module.code.ts"
 import {
   fallBody,
   isWorse,

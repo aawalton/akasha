@@ -9,14 +9,14 @@ import {
   readReading,
   readSleepHours,
   resolveOneReadout,
-} from "../surplus-fall-readout/surplus-fall-readout.module.code.ts"
+} from "../fall-readout/surplus-fall-readout.module.code.ts"
 import {
   decideFall,
   isTierColor,
   TIER_ORDER,
   type TierColor,
   tierAt,
-} from "../surplus-fall-tier/surplus-fall-tier.module.code.ts"
+} from "../fall-tier/surplus-fall-tier.module.code.ts"
 
 export const WORKER_NAME = "surplus-fall-notifier"
 
