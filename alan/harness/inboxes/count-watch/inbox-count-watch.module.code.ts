@@ -16,8 +16,8 @@ import { followFolders } from "@akasha/service/file-following"
 import {
   pollTaskCounts,
   type TaskCounts,
-} from "../inbox-count-polling/inbox-count-polling.module.code.ts"
-import { persistInboxCounts } from "../inbox-count-writing/inbox-count-writing.module.code.ts"
+} from "../count-polling/inbox-count-polling.module.code.ts"
+import { persistInboxCounts } from "../count-writing/inbox-count-writing.module.code.ts"
 import { tasksPage, temperTasksPage } from "../reading/inbox-reading.module.code.ts"
 
 export const SETTLE_MS = 250

@@ -2,7 +2,7 @@ import { operationalError } from "@akasha/errors-core/exit-code"
 import {
   type PollAndPersistSummary,
   pollAndPersist,
-} from "../inbox-count-tick/inbox-count-tick.module.code.ts"
+} from "../count-tick/inbox-count-tick.module.code.ts"
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2)

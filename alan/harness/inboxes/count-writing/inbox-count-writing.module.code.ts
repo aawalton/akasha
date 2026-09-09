@@ -12,7 +12,7 @@ import {
   COUNT_ATTR,
   INBOX_KEYS,
   type InboxKey,
-} from "../inbox-keys/inbox-keys.module.code.ts"
+} from "../keys/inbox-keys.module.code.ts"
 
 export const INBOX_WRITER = "inbox-tracking"
 

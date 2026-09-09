@@ -4,7 +4,7 @@ import { makeGmailClient } from "@akasha/google-email/client"
 import { INBOX_LABEL, listMessages } from "@akasha/google-email/messages"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
-import type { InboxKey } from "../inbox-keys/inbox-keys.module.code.ts"
+import type { InboxKey } from "../keys/inbox-keys.module.code.ts"
 
 const EMAIL_MAX = 100
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
