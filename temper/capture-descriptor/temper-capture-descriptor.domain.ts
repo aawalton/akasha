@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCaptureDescriptor = {
   id: "01a06053-3638-7139-bd21-390fdc77e0f0",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-capture-descriptor",
   definition: "the shape an add-on's captured state takes where the game saves it",
-  manifest: "json",
   parts: ["module/descriptor"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperCaptureDescriptor = {
       statement: "Nothing here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

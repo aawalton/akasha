@@ -1280,9 +1280,6 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
-    "temper/capture-descriptor": {
-      "name": "@akasha/temper-capture-descriptor",
-    },
     "temper/capture-errors": {
       "name": "@akasha/temper-capture-errors",
     },
@@ -1314,7 +1311,6 @@
       "name": "@akasha/temper-capture-writer",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-capture-descriptor": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -2494,8 +2490,6 @@
     "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/capture-datamining"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
-
-    "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:temper/capture-descriptor"],
 
     "@akasha/temper-capture-errors": ["@akasha/temper-capture-errors@workspace:temper/capture-errors"],
 

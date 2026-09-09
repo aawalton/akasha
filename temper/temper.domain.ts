@@ -46,7 +46,7 @@ export const temper = {
     "eso-addon/temper-lib-table-functions",
     "workspace-package/temper-saved-variables",
     "workspace-package/temper-settings-panel",
-    "workspace-package/temper-capture-descriptor",
+    "domain/temper-capture-descriptor",
     "eso-addon/temper-lib-alchemy-station",
     "workspace-package/temper-lua-runner",
     "eso-addon/temper-lib-notification",
