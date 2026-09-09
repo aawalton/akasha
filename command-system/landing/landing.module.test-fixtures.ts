@@ -214,7 +214,7 @@ function typed(
     id: `01a04e11-0000-7000-8000-0000000000${said}`,
     pageTypeSlug: "page-type",
     slug,
-    extendsSlug: above,
+    extends: above,
     properties,
   }
   return `export const held = ${JSON.stringify(value)}\n`
