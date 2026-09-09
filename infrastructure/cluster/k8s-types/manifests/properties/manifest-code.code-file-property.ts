@@ -1,10 +1,10 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { CodeFileProperty } from "@akasha/pages/code-file-property"
 
 export type ManifestCode = "ts"
 
 export const manifestCode = {
   id: "01a06da1-b338-79a7-bbb9-a0ac5a5a7170",
-  pageTypeSlug: "file-property",
+  pageTypeSlug: "code-file-property",
   slug: "manifest-code",
   propertySlug: "code",
   definition: "the code a manifest is",
@@ -22,4 +22,4 @@ export const manifestCode = {
       statement: "This code builds resources rather than applying those resources.",
     },
   ],
-} as const satisfies FileProperty
+} as const satisfies CodeFileProperty
