@@ -8,7 +8,7 @@ export const theNewWorld001255TheMightOfProgress = {
   story: "the-new-world",
   position: 12,
   ownLength: 2391,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167010/55-the-might-of-progress",

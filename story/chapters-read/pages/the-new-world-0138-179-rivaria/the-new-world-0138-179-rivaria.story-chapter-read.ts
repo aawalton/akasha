@@ -8,7 +8,7 @@ export const theNewWorld0138179Rivaria = {
   story: "the-new-world",
   position: 138,
   ownLength: 4010,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327052/179-rivaria",
   externalId: "327052",

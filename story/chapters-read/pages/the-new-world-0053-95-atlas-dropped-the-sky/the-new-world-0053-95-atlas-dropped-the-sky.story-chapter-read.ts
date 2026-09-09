@@ -8,7 +8,7 @@ export const theNewWorld005395AtlasDroppedTheSky = {
   story: "the-new-world",
   position: 53,
   ownLength: 3800,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/186045/95-atlas-dropped-the-sky",

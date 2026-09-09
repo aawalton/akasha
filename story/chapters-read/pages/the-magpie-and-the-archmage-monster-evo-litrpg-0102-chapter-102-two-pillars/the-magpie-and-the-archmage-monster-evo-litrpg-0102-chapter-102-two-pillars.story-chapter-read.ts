@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0102Chapter102TwoPillars = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 102,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3198686/chapter-102-two-pillars",

@@ -8,7 +8,7 @@ export const theNewWorld0098139TurningTheTide = {
   story: "the-new-world",
   position: 98,
   ownLength: 3544,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239812/139-turning-the-tide",

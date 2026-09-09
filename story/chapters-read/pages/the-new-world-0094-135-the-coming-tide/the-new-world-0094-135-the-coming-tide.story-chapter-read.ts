@@ -8,7 +8,7 @@ export const theNewWorld0094135TheComingTide = {
   story: "the-new-world",
   position: 94,
   ownLength: 3413,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/234614/135-the-coming-tide",

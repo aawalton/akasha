@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0116Chapter116BeneathTheWave
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 116,
   ownLength: 2042,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3331851/chapter-116-beneath-the-waves",

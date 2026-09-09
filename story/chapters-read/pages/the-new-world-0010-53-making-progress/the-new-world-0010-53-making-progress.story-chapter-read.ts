@@ -8,7 +8,7 @@ export const theNewWorld001053MakingProgress = {
   story: "the-new-world",
   position: 10,
   ownLength: 3957,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/165801/53-making-progress",

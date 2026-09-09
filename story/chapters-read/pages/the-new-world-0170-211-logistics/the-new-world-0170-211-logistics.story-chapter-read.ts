@@ -8,7 +8,7 @@ export const theNewWorld0170211Logistics = {
   story: "the-new-world",
   position: 170,
   ownLength: 4059,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/374615/211-logistics",

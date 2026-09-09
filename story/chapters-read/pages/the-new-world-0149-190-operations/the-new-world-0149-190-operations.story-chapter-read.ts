@@ -8,7 +8,7 @@ export const theNewWorld0149190Operations = {
   story: "the-new-world",
   position: 149,
   ownLength: 3144,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342737/190-operations",

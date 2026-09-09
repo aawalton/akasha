@@ -8,7 +8,7 @@ export const theNewWorld0186227Retaliation = {
   story: "the-new-world",
   position: 186,
   ownLength: 4547,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408072/227-retaliation",

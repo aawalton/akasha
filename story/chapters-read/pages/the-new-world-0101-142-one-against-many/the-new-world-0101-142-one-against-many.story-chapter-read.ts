@@ -8,7 +8,7 @@ export const theNewWorld0101142OneAgainstMany = {
   story: "the-new-world",
   position: 101,
   ownLength: 4311,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/283328/142-one-against-many",

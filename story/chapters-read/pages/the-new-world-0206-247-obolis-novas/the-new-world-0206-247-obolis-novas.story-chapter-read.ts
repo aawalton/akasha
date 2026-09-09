@@ -8,7 +8,7 @@ export const theNewWorld0206247ObolisNovas = {
   story: "the-new-world",
   position: 206,
   ownLength: 2921,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/454247/247-obolis-novas",

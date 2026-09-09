@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0167Chapter167ItsMyLife = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 167,
   ownLength: 2213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3856958/chapter-167-its-my-life",

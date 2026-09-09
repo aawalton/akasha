@@ -8,7 +8,7 @@ export const theNewWorld005496TheDash = {
   story: "the-new-world",
   position: 54,
   ownLength: 2195,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/187374/96-the-dash",
   externalId: "187374",

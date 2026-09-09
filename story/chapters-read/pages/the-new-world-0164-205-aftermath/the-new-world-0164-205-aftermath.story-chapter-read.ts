@@ -8,7 +8,7 @@ export const theNewWorld0164205Aftermath = {
   story: "the-new-world",
   position: 164,
   ownLength: 2821,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363444/205-aftermath",

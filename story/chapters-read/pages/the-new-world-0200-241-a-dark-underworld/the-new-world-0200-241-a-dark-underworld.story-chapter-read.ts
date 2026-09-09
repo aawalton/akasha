@@ -8,7 +8,7 @@ export const theNewWorld0200241ADarkUnderworld = {
   story: "the-new-world",
   position: 200,
   ownLength: 2061,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/431632/241-a-dark-underworld",

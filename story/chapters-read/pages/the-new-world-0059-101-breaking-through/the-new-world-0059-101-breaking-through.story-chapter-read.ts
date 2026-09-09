@@ -8,7 +8,7 @@ export const theNewWorld0059101BreakingThrough = {
   story: "the-new-world",
   position: 59,
   ownLength: 3720,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/198237/101-breaking-through",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0146Chapter146YouTookTheWron
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 146,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3669539/chapter-146-you-took-the-wrong-gem",

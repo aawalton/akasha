@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0139Chapter139YouveGotToBeKi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 139,
   ownLength: 2021,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3573117/chapter-139-youve-got-to-be-kidding-me",

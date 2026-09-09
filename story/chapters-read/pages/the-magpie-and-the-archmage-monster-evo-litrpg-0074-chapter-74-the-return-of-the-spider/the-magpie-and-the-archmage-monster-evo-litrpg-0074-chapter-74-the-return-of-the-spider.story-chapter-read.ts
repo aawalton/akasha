@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0074Chapter74TheReturnOfTheS
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 74,
   ownLength: 2113,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2963524/chapter-74-the-return-of-the-spider",

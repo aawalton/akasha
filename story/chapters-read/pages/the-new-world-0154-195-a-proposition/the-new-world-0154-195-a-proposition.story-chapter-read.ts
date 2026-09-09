@@ -8,7 +8,7 @@ export const theNewWorld0154195AProposition = {
   story: "the-new-world",
   position: 154,
   ownLength: 3834,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346727/195-a-proposition",

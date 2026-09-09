@@ -8,7 +8,7 @@ export const theNewWorld0245286ASourceOfWealth = {
   story: "the-new-world",
   position: 245,
   ownLength: 6578,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/626779/286-a-source-of-wealth",

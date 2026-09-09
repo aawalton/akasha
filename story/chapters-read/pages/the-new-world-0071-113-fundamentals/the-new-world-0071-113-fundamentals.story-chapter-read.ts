@@ -8,7 +8,7 @@ export const theNewWorld0071113Fundamentals = {
   story: "the-new-world",
   position: 71,
   ownLength: 2962,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/209240/113-fundamentals",

@@ -8,7 +8,7 @@ export const theNewWorld002164FinalCallToAction = {
   story: "the-new-world",
   position: 21,
   ownLength: 3283,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169881/64-final-call-to-action",

@@ -8,7 +8,7 @@ export const theNewWorld0220261AFirelitSky = {
   story: "the-new-world",
   position: 220,
   ownLength: 5652,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/506450/261-a-firelit-sky",

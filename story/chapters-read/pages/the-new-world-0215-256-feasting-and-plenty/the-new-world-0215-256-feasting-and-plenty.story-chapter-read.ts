@@ -8,7 +8,7 @@ export const theNewWorld0215256FeastingAndPlenty = {
   story: "the-new-world",
   position: 215,
   ownLength: 2993,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/497987/256-feasting-and-plenty",

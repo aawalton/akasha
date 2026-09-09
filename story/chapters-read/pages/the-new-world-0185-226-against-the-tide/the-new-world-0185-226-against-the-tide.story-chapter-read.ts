@@ -8,7 +8,7 @@ export const theNewWorld0185226AgainstTheTide = {
   story: "the-new-world",
   position: 185,
   ownLength: 2541,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/406788/226-against-the-tide",

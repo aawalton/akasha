@@ -8,7 +8,7 @@ export const theNewWorld0229270DiscussionsAndDeals = {
   story: "the-new-world",
   position: 229,
   ownLength: 6431,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/558989/270-discussions-and-deals",

@@ -8,7 +8,7 @@ export const theNewWorld0235276KnowThyEnemy = {
   story: "the-new-world",
   position: 235,
   ownLength: 4091,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/578918/276-know-thy-enemy",

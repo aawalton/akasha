@@ -8,7 +8,7 @@ export const theNewWorld0242283ThePushAndPullOfWar = {
   story: "the-new-world",
   position: 242,
   ownLength: 6911,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/596241/283-the-push-and-pull-of-war",

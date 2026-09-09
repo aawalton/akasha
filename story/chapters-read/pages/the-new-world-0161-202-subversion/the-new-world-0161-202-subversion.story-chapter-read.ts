@@ -8,7 +8,7 @@ export const theNewWorld0161202Subversion = {
   story: "the-new-world",
   position: 161,
   ownLength: 1581,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/358936/202-subversion",

@@ -8,7 +8,7 @@ export const theNewWorld0189230TheSilencesBetween = {
   story: "the-new-world",
   position: 189,
   ownLength: 4235,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/410575/230-the-silences-between",

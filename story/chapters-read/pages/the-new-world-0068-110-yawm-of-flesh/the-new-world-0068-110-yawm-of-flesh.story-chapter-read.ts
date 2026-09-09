@@ -8,7 +8,7 @@ export const theNewWorld0068110YawmOfFlesh = {
   story: "the-new-world",
   position: 68,
   ownLength: 6648,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207180/110-yawm-of-flesh",

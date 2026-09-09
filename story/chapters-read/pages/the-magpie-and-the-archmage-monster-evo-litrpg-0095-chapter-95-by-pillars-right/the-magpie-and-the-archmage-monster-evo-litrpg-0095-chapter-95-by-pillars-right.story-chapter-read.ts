@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0095Chapter95ByPillarsRight 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 95,
   ownLength: 1907,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3139288/chapter-95-by-pillars-right",

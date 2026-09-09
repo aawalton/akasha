@@ -8,7 +8,7 @@ export const theNewWorld0122163ADarkPlan = {
   story: "the-new-world",
   position: 122,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306929/163-a-dark-plan",

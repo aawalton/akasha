@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0082Chapter82FogOfAbylport =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 82,
   ownLength: 2173,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3027786/chapter-82-fog-of-abylport",

@@ -8,7 +8,7 @@ export const theNewWorld0118159Surprise = {
   story: "the-new-world",
   position: 118,
   ownLength: 2636,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305129/159-surprise",
   externalId: "305129",

@@ -8,7 +8,7 @@ export const theNewWorld0158199Version20 = {
   story: "the-new-world",
   position: 158,
   ownLength: 4907,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/350690/199-version-20",

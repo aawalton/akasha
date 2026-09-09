@@ -8,7 +8,7 @@ export const theNewWorld0241282BeastsOfBurden = {
   story: "the-new-world",
   position: 241,
   ownLength: 5891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/594265/282-beasts-of-burden",

@@ -8,7 +8,7 @@ export const theNewWorld003174CorruptedRuin = {
   story: "the-new-world",
   position: 31,
   ownLength: 4920,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173375/74-corrupted-ruin",

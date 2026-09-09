@@ -8,7 +8,7 @@ export const theNewWorld0145186Countdown = {
   story: "the-new-world",
   position: 145,
   ownLength: 4213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337406/186-countdown",

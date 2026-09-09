@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0126Chapter126ThePerfectDist
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 126,
   ownLength: 2127,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3430427/chapter-126-the-perfect-distraction",

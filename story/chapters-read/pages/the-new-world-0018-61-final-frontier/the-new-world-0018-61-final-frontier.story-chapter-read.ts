@@ -8,7 +8,7 @@ export const theNewWorld001861FinalFrontier = {
   story: "the-new-world",
   position: 18,
   ownLength: 5451,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169037/61-final-frontier",

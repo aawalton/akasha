@@ -8,7 +8,7 @@ export const theNewWorld002972LastNight = {
   story: "the-new-world",
   position: 29,
   ownLength: 5408,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172827/72-last-night",

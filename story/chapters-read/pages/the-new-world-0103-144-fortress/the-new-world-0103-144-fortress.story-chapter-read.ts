@@ -8,7 +8,7 @@ export const theNewWorld0103144Fortress = {
   story: "the-new-world",
   position: 103,
   ownLength: 4790,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/289588/144-fortress",
   externalId: "289588",

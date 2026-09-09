@@ -8,7 +8,7 @@ export const theNewWorld0152193AConflictOfInterests = {
   story: "the-new-world",
   position: 152,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345997/193-a-conflict-of-interests",

@@ -8,7 +8,7 @@ export const theNewWorld0080122Amara = {
   story: "the-new-world",
   position: 80,
   ownLength: 1698,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216953/122-amara",
   externalId: "216953",

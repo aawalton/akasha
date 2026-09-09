@@ -8,7 +8,7 @@ export const theNewWorld0081RpgAnalysisDaniel2 = {
   story: "the-new-world",
   position: 81,
   ownLength: 1665,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218398/rpg-analysis-daniel-2",

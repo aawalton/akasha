@@ -8,7 +8,7 @@ export const theNewWorld004588HideAndSeek = {
   story: "the-new-world",
   position: 45,
   ownLength: 2810,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179927/88-hide-and-seek",

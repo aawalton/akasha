@@ -8,7 +8,7 @@ export const theNewWorld0209250MentalWarfare = {
   story: "the-new-world",
   position: 209,
   ownLength: 2077,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/471980/250-mental-warfare",

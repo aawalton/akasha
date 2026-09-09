@@ -8,7 +8,7 @@ export const theNewWorld0222263AnAdjustment = {
   story: "the-new-world",
   position: 222,
   ownLength: 4157,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/512328/263-an-adjustment",

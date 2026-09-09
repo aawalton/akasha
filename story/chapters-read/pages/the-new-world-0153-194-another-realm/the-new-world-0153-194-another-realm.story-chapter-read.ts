@@ -8,7 +8,7 @@ export const theNewWorld0153194AnotherRealm = {
   story: "the-new-world",
   position: 153,
   ownLength: 2596,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/346347/194-another-realm",

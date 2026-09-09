@@ -8,7 +8,7 @@ export const theNewWorld0176217AShatteredGod = {
   story: "the-new-world",
   position: 176,
   ownLength: 6311,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/382300/217-a-shattered-god",

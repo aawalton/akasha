@@ -8,7 +8,7 @@ export const theNewWorld0114155Hiding = {
   story: "the-new-world",
   position: 114,
   ownLength: 3783,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302311/155-hiding",
   externalId: "302311",

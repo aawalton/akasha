@@ -8,7 +8,7 @@ export const theNewWorld003477Groundwork = {
   story: "the-new-world",
   position: 34,
   ownLength: 5371,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174715/77-groundwork",

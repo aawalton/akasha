@@ -8,7 +8,7 @@ export const theNewWorld0183224Consequences = {
   story: "the-new-world",
   position: 183,
   ownLength: 3859,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/400267/224-consequences",

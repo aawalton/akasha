@@ -8,7 +8,7 @@ export const theNewWorld0058100AnUnstoppableForce = {
   story: "the-new-world",
   position: 58,
   ownLength: 2122,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/194331/100-an-unstoppable-force",

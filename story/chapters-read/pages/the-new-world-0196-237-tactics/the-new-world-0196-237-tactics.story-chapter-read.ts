@@ -8,7 +8,7 @@ export const theNewWorld0196237Tactics = {
   story: "the-new-world",
   position: 196,
   ownLength: 2427,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/423710/237-tactics",
   externalId: "423710",

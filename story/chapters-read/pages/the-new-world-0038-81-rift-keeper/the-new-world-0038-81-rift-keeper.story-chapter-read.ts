@@ -8,7 +8,7 @@ export const theNewWorld003881RiftKeeper = {
   story: "the-new-world",
   position: 38,
   ownLength: 5143,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/177060/81-rift-keeper",

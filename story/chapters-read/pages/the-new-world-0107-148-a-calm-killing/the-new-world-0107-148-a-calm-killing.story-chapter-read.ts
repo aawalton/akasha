@@ -8,7 +8,7 @@ export const theNewWorld0107148ACalmKilling = {
   story: "the-new-world",
   position: 107,
   ownLength: 4499,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300522/148-a-calm-killing",

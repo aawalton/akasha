@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0079Chapter79NewEvolution = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 79,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3003755/chapter-79-new-evolution",

@@ -8,7 +8,7 @@ export const theNewWorld0219260ABloodyCompromise = {
   story: "the-new-world",
   position: 219,
   ownLength: 2385,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/503819/260-a-bloody-compromise",

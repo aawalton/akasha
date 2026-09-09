@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0125Chapter125TheMagpiesWarn
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 125,
   ownLength: 2251,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3421291/chapter-125-the-magpies-warning",

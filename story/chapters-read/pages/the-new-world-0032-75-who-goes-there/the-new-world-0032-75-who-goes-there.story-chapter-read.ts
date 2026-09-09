@@ -8,7 +8,7 @@ export const theNewWorld003275WhoGoesThere = {
   story: "the-new-world",
   position: 32,
   ownLength: 3520,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/174198/75-who-goes-there",

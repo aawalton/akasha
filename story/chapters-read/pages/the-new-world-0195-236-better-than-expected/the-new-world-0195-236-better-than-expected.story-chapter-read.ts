@@ -8,7 +8,7 @@ export const theNewWorld0195236BetterThanExpected = {
   story: "the-new-world",
   position: 195,
   ownLength: 6996,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418455/236-better-than-expected",

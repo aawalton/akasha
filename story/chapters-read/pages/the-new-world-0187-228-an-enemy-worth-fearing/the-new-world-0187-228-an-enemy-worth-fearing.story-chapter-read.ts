@@ -8,7 +8,7 @@ export const theNewWorld0187228AnEnemyWorthFearing = {
   story: "the-new-world",
   position: 187,
   ownLength: 3145,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/408756/228-an-enemy-worth-fearing",

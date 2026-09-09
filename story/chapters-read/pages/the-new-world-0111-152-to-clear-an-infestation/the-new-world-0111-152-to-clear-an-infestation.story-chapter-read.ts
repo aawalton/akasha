@@ -8,7 +8,7 @@ export const theNewWorld0111152ToClearAnInfestation = {
   story: "the-new-world",
   position: 111,
   ownLength: 2406,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301542/152-to-clear-an-infestation",

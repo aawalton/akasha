@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0087Chapter87IslandOfCorrupt
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 87,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3073410/chapter-87-island-of-corruption",

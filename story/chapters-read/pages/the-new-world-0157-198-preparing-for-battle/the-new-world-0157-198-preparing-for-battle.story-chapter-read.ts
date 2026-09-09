@@ -8,7 +8,7 @@ export const theNewWorld0157198PreparingForBattle = {
   story: "the-new-world",
   position: 157,
   ownLength: 7871,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348918/198-preparing-for-battle",

@@ -8,7 +8,7 @@ export const theNewWorld0060102Respite = {
   story: "the-new-world",
   position: 60,
   ownLength: 4307,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/200414/102-respite",
   externalId: "200414",

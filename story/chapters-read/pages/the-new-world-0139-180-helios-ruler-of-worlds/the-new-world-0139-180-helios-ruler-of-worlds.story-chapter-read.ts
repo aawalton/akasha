@@ -8,7 +8,7 @@ export const theNewWorld0139180HeliosRulerOfWorlds = {
   story: "the-new-world",
   position: 139,
   ownLength: 4352,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/327755/180-helios-ruler-of-worlds",

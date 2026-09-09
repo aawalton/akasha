@@ -8,7 +8,7 @@ export const theNewWorld0083124Almost = {
   story: "the-new-world",
   position: 83,
   ownLength: 1674,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/219544/124-almost",
   externalId: "219544",

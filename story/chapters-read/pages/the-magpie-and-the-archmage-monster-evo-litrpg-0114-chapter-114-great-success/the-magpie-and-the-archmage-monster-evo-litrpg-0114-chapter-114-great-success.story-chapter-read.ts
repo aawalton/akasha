@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0114Chapter114GreatSuccess =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 114,
   ownLength: 2142,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3311970/chapter-114-great-success",

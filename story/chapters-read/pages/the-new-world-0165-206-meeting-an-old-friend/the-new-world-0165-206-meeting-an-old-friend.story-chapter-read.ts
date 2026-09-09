@@ -8,7 +8,7 @@ export const theNewWorld0165206MeetingAnOldFriend = {
   story: "the-new-world",
   position: 165,
   ownLength: 3206,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/363794/206-meeting-an-old-friend",

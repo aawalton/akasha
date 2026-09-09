@@ -8,7 +8,7 @@ export const theNewWorld0078120EyesOfOld = {
   story: "the-new-world",
   position: 78,
   ownLength: 3900,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/215326/120-eyes-of-old",

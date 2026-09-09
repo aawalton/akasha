@@ -8,7 +8,7 @@ export const theNewWorld0150191AFeverPitch = {
   story: "the-new-world",
   position: 150,
   ownLength: 5257,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/342965/191-a-fever-pitch",

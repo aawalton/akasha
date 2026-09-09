@@ -8,7 +8,7 @@ export const theNewWorld001760BloodArts = {
   story: "the-new-world",
   position: 17,
   ownLength: 2372,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168736/60-blood-arts",

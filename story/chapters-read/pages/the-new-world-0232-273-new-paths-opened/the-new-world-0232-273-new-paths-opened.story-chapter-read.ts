@@ -8,7 +8,7 @@ export const theNewWorld0232273NewPathsOpened = {
   story: "the-new-world",
   position: 232,
   ownLength: 7541,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/566403/273-new-paths-opened",

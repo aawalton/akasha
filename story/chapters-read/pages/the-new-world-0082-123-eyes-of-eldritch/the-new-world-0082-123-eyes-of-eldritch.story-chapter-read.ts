@@ -8,7 +8,7 @@ export const theNewWorld0082123EyesOfEldritch = {
   story: "the-new-world",
   position: 82,
   ownLength: 1551,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/218400/123-eyes-of-eldritch",

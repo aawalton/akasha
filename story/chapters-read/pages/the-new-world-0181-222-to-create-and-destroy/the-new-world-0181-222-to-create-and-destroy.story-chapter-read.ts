@@ -8,7 +8,7 @@ export const theNewWorld0181222ToCreateAndDestroy = {
   story: "the-new-world",
   position: 181,
   ownLength: 9061,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/393214/222-to-create-and-destroy",

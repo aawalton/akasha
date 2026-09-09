@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0132Chapter132HisWorstMistak
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 132,
   ownLength: 1746,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3495111/chapter-132-his-worst-mistake",

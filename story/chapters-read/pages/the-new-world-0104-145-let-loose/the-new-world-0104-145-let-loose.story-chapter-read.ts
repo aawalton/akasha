@@ -8,7 +8,7 @@ export const theNewWorld0104145LetLoose = {
   story: "the-new-world",
   position: 104,
   ownLength: 3858,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/293903/145-let-loose",

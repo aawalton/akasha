@@ -8,7 +8,7 @@ export const theNewWorld0096137TheyComeAtNight = {
   story: "the-new-world",
   position: 96,
   ownLength: 2593,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/237264/137-they-come-at-night",

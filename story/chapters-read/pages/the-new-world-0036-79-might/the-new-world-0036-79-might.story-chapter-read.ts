@@ -8,7 +8,7 @@ export const theNewWorld003679Might = {
   story: "the-new-world",
   position: 36,
   ownLength: 3463,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175888/79-might",
   externalId: "175888",

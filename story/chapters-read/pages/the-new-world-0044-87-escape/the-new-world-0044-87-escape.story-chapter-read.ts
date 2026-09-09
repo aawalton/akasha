@@ -8,7 +8,7 @@ export const theNewWorld004487Escape = {
   story: "the-new-world",
   position: 44,
   ownLength: 2578,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179406/87-escape",
   externalId: "179406",

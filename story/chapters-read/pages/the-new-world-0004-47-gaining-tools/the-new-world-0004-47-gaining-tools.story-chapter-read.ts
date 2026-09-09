@@ -8,7 +8,7 @@ export const theNewWorld000447GainingTools = {
   story: "the-new-world",
   position: 4,
   ownLength: 3837,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/161315/47-gaining-tools",

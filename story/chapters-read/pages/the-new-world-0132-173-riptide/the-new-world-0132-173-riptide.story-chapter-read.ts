@@ -8,7 +8,7 @@ export const theNewWorld0132173Riptide = {
   story: "the-new-world",
   position: 132,
   ownLength: 4560,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321695/173-riptide",
   externalId: "321695",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0138Chapter138PlayingWithFir
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 138,
   ownLength: 2009,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3559796/chapter-138-playing-with-fire",

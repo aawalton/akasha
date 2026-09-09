@@ -8,7 +8,7 @@ export const theNewWorld0221262TheLastDays = {
   story: "the-new-world",
   position: 221,
   ownLength: 6363,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/508526/262-the-last-days",

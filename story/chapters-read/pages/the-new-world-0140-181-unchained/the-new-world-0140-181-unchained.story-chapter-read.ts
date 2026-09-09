@@ -8,7 +8,7 @@ export const theNewWorld0140181Unchained = {
   story: "the-new-world",
   position: 140,
   ownLength: 2847,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/329783/181-unchained",

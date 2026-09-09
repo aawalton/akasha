@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0108Chapter108ThatsForTheBir
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 108,
   ownLength: 2304,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3254718/chapter-108-thats-for-the-birds",

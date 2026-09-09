@@ -8,7 +8,7 @@ export const theNewWorld0093134Anticipation = {
   story: "the-new-world",
   position: 93,
   ownLength: 2258,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/233261/134-anticipation",

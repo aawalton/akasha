@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0159Chapter159ACrackInTheCag
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 159,
   ownLength: 2154,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3793926/chapter-159-a-crack-in-the-cage",

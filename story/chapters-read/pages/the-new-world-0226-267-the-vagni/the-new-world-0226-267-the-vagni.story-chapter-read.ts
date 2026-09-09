@@ -8,7 +8,7 @@ export const theNewWorld0226267TheVagni = {
   story: "the-new-world",
   position: 226,
   ownLength: 7571,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/549444/267-the-vagni",

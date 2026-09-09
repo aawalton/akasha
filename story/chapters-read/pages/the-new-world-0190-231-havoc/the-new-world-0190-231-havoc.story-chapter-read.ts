@@ -8,7 +8,7 @@ export const theNewWorld0190231Havoc = {
   story: "the-new-world",
   position: 190,
   ownLength: 3872,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/412669/231-havoc",
   externalId: "412669",

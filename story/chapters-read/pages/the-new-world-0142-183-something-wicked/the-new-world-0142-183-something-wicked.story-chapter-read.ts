@@ -8,7 +8,7 @@ export const theNewWorld0142183SomethingWicked = {
   story: "the-new-world",
   position: 142,
   ownLength: 2114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/331904/183-something-wicked",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0141Chapter141BrokenSeal = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 141,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3592616/chapter-141-broken-seal",

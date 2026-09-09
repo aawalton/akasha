@@ -8,7 +8,7 @@ export const theNewWorld0130171PiecesOfAPuzzle = {
   story: "the-new-world",
   position: 130,
   ownLength: 4120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/318747/171-pieces-of-a-puzzle",

@@ -8,7 +8,7 @@ export const theNewWorld0075117Leverage = {
   story: "the-new-world",
   position: 75,
   ownLength: 2300,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213061/117-leverage",
   externalId: "213061",

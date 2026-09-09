@@ -8,7 +8,7 @@ export const theNewWorld0137178ASteadyMarch = {
   story: "the-new-world",
   position: 137,
   ownLength: 3247,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/326690/178-a-steady-march",

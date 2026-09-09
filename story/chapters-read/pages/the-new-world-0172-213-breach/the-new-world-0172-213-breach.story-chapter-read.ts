@@ -8,7 +8,7 @@ export const theNewWorld0172213Breach = {
   story: "the-new-world",
   position: 172,
   ownLength: 4810,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/376439/213-breach",
   externalId: "376439",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0109Chapter109DaintyBeasties
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 109,
   ownLength: 1908,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3266614/chapter-109-dainty-beasties",

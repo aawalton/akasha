@@ -8,7 +8,7 @@ export const theNewWorld0180221TheLearningProcess = {
   story: "the-new-world",
   position: 180,
   ownLength: 6157,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/392040/221-the-learning-process",

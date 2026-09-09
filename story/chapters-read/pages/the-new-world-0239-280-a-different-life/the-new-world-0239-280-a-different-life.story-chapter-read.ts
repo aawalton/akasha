@@ -8,7 +8,7 @@ export const theNewWorld0239280ADifferentLife = {
   story: "the-new-world",
   position: 239,
   ownLength: 6965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/590331/280-a-different-life",

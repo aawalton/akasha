@@ -8,7 +8,7 @@ export const theNewWorld0063105Betrayal = {
   story: "the-new-world",
   position: 63,
   ownLength: 3122,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/202853/105-betrayal",
   externalId: "202853",

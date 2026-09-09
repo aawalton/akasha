@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0090Chapter90APerfectImitati
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 90,
   ownLength: 2090,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3097312/chapter-90-a-perfect-imitation",

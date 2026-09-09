@@ -8,7 +8,7 @@ export const theNewWorld0077119WatchfulWaiting = {
   story: "the-new-world",
   position: 77,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/214091/119-watchful-waiting",

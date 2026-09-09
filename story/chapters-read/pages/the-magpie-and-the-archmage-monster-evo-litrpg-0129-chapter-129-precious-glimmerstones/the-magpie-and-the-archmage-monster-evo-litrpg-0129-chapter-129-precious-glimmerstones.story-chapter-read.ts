@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0129Chapter129PreciousGlimme
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 129,
   ownLength: 2081,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3463376/chapter-129-precious-glimmerstones",

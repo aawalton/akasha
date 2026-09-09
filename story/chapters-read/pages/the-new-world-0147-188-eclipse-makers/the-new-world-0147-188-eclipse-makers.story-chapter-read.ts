@@ -8,7 +8,7 @@ export const theNewWorld0147188EclipseMakers = {
   story: "the-new-world",
   position: 147,
   ownLength: 2903,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/338636/188-eclipse-makers",

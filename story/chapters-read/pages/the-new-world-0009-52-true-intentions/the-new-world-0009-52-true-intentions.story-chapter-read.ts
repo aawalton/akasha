@@ -8,7 +8,7 @@ export const theNewWorld000952TrueIntentions = {
   story: "the-new-world",
   position: 9,
   ownLength: 4299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164972/52-true-intentions",

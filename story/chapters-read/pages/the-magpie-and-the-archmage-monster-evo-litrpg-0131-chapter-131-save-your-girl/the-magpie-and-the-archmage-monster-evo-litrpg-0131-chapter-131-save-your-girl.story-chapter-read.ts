@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0131Chapter131SaveYourGirl =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 131,
   ownLength: 2080,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3486004/chapter-131-save-your-girl",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0084Chapter84ThePillarOfAzur
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 84,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3049204/chapter-84-the-pillar-of-azure-helm",

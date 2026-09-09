@@ -8,7 +8,7 @@ export const theNewWorld0227268UnexpectedHelp = {
   story: "the-new-world",
   position: 227,
   ownLength: 2468,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/551637/268-unexpected-help",

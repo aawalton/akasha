@@ -8,7 +8,7 @@ export const theNewWorld0163204DownARabbitHole = {
   story: "the-new-world",
   position: 163,
   ownLength: 2802,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/361818/204-down-a-rabbit-hole",

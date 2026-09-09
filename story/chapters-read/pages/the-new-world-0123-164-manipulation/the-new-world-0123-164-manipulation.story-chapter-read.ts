@@ -8,7 +8,7 @@ export const theNewWorld0123164Manipulation = {
   story: "the-new-world",
   position: 123,
   ownLength: 2201,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/307493/164-manipulation",

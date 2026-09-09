@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0103Chapter103NeedForShinies
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 103,
   ownLength: 2080,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3209224/chapter-103-need-for-shinies",

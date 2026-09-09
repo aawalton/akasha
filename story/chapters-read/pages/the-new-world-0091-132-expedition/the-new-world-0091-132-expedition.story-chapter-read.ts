@@ -8,7 +8,7 @@ export const theNewWorld0091132Expedition = {
   story: "the-new-world",
   position: 91,
   ownLength: 2919,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/230492/132-expedition",

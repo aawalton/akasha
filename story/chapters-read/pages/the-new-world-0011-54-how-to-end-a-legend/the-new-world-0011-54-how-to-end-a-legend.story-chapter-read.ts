@@ -8,7 +8,7 @@ export const theNewWorld001154HowToEndALegend = {
   story: "the-new-world",
   position: 11,
   ownLength: 4215,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/166253/54-how-to-end-a-legend",

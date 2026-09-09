@@ -8,7 +8,7 @@ export const theNewWorld0119160TheMightOfAGialgathen = {
   story: "the-new-world",
   position: 119,
   ownLength: 1430,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305484/160-the-might-of-a-gialgathen",

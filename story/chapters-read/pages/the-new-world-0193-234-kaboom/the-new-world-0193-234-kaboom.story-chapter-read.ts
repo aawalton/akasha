@@ -8,7 +8,7 @@ export const theNewWorld0193234Kaboom = {
   story: "the-new-world",
   position: 193,
   ownLength: 2818,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/417718/234-kaboom",
   externalId: "417718",

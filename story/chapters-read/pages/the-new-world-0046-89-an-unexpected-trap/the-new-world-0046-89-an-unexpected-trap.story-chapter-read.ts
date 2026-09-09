@@ -8,7 +8,7 @@ export const theNewWorld004689AnUnexpectedTrap = {
   story: "the-new-world",
   position: 46,
   ownLength: 3842,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/180403/89-an-unexpected-trap",

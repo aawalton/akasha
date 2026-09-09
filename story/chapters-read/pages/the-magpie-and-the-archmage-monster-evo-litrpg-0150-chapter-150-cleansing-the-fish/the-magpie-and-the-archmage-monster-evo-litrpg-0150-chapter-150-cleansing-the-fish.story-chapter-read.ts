@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0150Chapter150CleansingTheFi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 150,
   ownLength: 1954,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3709415/chapter-150-cleansing-the-fish",

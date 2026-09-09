@@ -8,7 +8,7 @@ export const theNewWorld004386TheFinalPiece = {
   story: "the-new-world",
   position: 43,
   ownLength: 2119,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/179187/86-the-final-piece",

@@ -8,7 +8,7 @@ export const theNewWorld004891TheFinalRift = {
   story: "the-new-world",
   position: 48,
   ownLength: 3437,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/183826/91-the-final-rift",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0072Chapter72FeathersAndFrac
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 72,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2947830/chapter-72-feathers-and-fractures",

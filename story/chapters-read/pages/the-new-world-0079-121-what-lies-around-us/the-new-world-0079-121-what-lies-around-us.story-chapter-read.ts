@@ -8,7 +8,7 @@ export const theNewWorld0079121WhatLiesAroundUs = {
   story: "the-new-world",
   position: 79,
   ownLength: 3867,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/216378/121-what-lies-around-us",

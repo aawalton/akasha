@@ -8,7 +8,7 @@ export const theNewWorld0191232TheMindsOfMany = {
   story: "the-new-world",
   position: 191,
   ownLength: 2566,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/414796/232-the-minds-of-many",

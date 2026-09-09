@@ -8,7 +8,7 @@ export const theNewWorld0061103ToPlan = {
   story: "the-new-world",
   position: 61,
   ownLength: 4994,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/200850/103-to-plan",
   externalId: "200850",

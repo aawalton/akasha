@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0151Chapter151SafetySharksAn
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 151,
   ownLength: 2433,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3717852/chapter-151-safety-sharks-and-shinies",

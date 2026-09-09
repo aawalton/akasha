@@ -8,7 +8,7 @@ export const theNewWorld0133174ComingTogether = {
   story: "the-new-world",
   position: 133,
   ownLength: 3587,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322574/174-coming-together",

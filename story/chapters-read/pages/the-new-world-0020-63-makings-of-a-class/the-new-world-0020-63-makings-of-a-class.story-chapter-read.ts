@@ -8,7 +8,7 @@ export const theNewWorld002063MakingsOfAClass = {
   story: "the-new-world",
   position: 20,
   ownLength: 4710,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169390/63-makings-of-a-class",

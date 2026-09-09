@@ -8,7 +8,7 @@ export const theNewWorld000649ReapingRewards = {
   story: "the-new-world",
   position: 6,
   ownLength: 3508,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/163196/49-reaping-rewards",

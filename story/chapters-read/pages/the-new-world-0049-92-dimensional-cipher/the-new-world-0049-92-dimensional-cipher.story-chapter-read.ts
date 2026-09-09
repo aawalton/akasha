@@ -8,7 +8,7 @@ export const theNewWorld004992DimensionalCipher = {
   story: "the-new-world",
   position: 49,
   ownLength: 3620,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/184799/92-dimensional-cipher",

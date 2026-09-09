@@ -8,7 +8,7 @@ export const theNewWorld0174215OutOfFireAndIntoHell = {
   story: "the-new-world",
   position: 174,
   ownLength: 2472,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/380196/215-out-of-fire-and-into-hell",

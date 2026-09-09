@@ -8,7 +8,7 @@ export const theNewWorld0240281WielderOfMonsters = {
   story: "the-new-world",
   position: 240,
   ownLength: 5365,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/592614/281-wielder-of-monsters",

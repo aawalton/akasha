@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0161Chapter161Curse = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 161,
   ownLength: 2163,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3811779/chapter-161-curse",

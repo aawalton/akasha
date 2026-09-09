@@ -8,7 +8,7 @@ export const theNewWorld003578NotAsItSeems = {
   story: "the-new-world",
   position: 35,
   ownLength: 3137,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/175483/78-not-as-it-seems",

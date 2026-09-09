@@ -8,7 +8,7 @@ export const theNewWorld0188229TheBattleForPolydra = {
   story: "the-new-world",
   position: 188,
   ownLength: 6686,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/409955/229-the-battle-for-polydra",

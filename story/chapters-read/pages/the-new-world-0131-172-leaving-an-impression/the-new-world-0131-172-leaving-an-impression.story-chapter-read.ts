@@ -8,7 +8,7 @@ export const theNewWorld0131172LeavingAnImpression = {
   story: "the-new-world",
   position: 131,
   ownLength: 3053,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/321048/172-leaving-an-impression",

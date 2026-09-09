@@ -8,7 +8,7 @@ export const theNewWorld0207248AnImperialOverture = {
   story: "the-new-world",
   position: 207,
   ownLength: 4495,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/458415/248-an-imperial-overture",

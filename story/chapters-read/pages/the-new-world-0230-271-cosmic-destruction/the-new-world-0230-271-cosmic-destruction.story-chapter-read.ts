@@ -8,7 +8,7 @@ export const theNewWorld0230271CosmicDestruction = {
   story: "the-new-world",
   position: 230,
   ownLength: 7125,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/560863/271-cosmic-destruction",

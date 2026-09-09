@@ -8,7 +8,7 @@ export const theNewWorld0089130HunterOfMany = {
   story: "the-new-world",
   position: 89,
   ownLength: 2913,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/226884/130-hunter-of-many",

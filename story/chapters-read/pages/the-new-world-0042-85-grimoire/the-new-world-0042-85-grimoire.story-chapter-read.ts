@@ -8,7 +8,7 @@ export const theNewWorld004285Grimoire = {
   story: "the-new-world",
   position: 42,
   ownLength: 3440,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178756/85-grimoire",
   externalId: "178756",

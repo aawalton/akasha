@@ -8,7 +8,7 @@ export const theNewWorld0202243ADiscourse = {
   story: "the-new-world",
   position: 202,
   ownLength: 3642,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/449073/243-a-discourse",

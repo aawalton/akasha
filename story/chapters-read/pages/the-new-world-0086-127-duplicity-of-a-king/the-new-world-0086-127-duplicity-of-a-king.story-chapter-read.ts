@@ -8,7 +8,7 @@ export const theNewWorld0086127DuplicityOfAKing = {
   story: "the-new-world",
   position: 86,
   ownLength: 3661,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/222566/127-duplicity-of-a-king",

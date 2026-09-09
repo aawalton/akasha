@@ -8,7 +8,7 @@ export const theNewWorld005194InTheFleshPart1 = {
   story: "the-new-world",
   position: 51,
   ownLength: 3659,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185449/94-in-the-fleshpart-1",

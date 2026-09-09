@@ -8,7 +8,7 @@ export const theNewWorld003073WhatLiesBeyond = {
   story: "the-new-world",
   position: 30,
   ownLength: 4979,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/173228/73-what-lies-beyond",

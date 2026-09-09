@@ -8,7 +8,7 @@ export const theNewWorld0066108NewHope = {
   story: "the-new-world",
   position: 66,
   ownLength: 3896,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205738/108-new-hope",
   externalId: "205738",

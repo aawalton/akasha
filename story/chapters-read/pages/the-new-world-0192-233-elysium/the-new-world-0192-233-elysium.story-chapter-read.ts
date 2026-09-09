@@ -8,7 +8,7 @@ export const theNewWorld0192233Elysium = {
   story: "the-new-world",
   position: 192,
   ownLength: 3503,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/416721/233-elysium",
   externalId: "416721",

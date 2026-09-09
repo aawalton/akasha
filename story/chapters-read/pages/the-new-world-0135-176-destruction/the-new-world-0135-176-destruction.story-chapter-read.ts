@@ -8,7 +8,7 @@ export const theNewWorld0135176Destruction = {
   story: "the-new-world",
   position: 135,
   ownLength: 2133,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/323335/176-destruction",

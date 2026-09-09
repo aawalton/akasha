@@ -8,7 +8,7 @@ export const theNewWorld0128169WeavingThreads = {
   story: "the-new-world",
   position: 128,
   ownLength: 3070,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/316366/169-weaving-threads",

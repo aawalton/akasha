@@ -8,7 +8,7 @@ export const theNewWorld000851MonstersOfTheDeep = {
   story: "the-new-world",
   position: 8,
   ownLength: 3054,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/164412/51-monsters-of-the-deep",

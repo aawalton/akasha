@@ -8,7 +8,7 @@ export const theNewWorld0203244ToTheForefront = {
   story: "the-new-world",
   position: 203,
   ownLength: 3361,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/450756/244-to-the-forefront",

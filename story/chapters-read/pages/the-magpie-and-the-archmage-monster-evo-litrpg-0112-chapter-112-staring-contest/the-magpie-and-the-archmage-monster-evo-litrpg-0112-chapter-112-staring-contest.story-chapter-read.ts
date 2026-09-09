@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0112Chapter112StaringContest
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 112,
   ownLength: 2137,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3295196/chapter-112-staring-contest",

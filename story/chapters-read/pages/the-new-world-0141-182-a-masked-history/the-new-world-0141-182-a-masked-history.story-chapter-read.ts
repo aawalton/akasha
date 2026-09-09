@@ -8,7 +8,7 @@ export const theNewWorld0141182AMaskedHistory = {
   story: "the-new-world",
   position: 141,
   ownLength: 4290,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/330016/182-a-masked-history",

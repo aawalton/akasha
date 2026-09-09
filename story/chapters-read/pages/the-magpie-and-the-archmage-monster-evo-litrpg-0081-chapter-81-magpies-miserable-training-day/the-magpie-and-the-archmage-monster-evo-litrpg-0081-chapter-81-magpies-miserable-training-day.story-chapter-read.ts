@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0081Chapter81MagpiesMiserabl
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 81,
   ownLength: 2254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3017504/chapter-81-magpies-miserable-training-day",

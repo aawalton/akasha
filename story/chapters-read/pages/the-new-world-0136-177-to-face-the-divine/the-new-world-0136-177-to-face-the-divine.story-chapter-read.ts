@@ -8,7 +8,7 @@ export const theNewWorld0136177ToFaceTheDivine = {
   story: "the-new-world",
   position: 136,
   ownLength: 2420,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/325594/177-to-face-the-divine",

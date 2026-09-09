@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0158Chapter158TheMemoriesShe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 158,
   ownLength: 2200,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3785766/chapter-158-the-memories-she-buried",

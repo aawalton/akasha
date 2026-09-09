@@ -8,7 +8,7 @@ export const theNewWorld0167208Ripples = {
   story: "the-new-world",
   position: 167,
   ownLength: 3105,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/366389/208-ripples",
   externalId: "366389",

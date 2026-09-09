@@ -8,7 +8,7 @@ export const theNewWorld0151192AVastUniverse = {
   story: "the-new-world",
   position: 151,
   ownLength: 4819,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/345712/192-a-vast-universe",

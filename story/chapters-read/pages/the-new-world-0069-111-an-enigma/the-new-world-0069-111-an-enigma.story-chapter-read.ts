@@ -8,7 +8,7 @@ export const theNewWorld0069111AnEnigma = {
   story: "the-new-world",
   position: 69,
   ownLength: 2539,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/207785/111-an-enigma",

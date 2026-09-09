@@ -8,7 +8,7 @@ export const theNewWorld005093Hectic = {
   story: "the-new-world",
   position: 50,
   ownLength: 2965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/185072/93-hectic",
   externalId: "185072",

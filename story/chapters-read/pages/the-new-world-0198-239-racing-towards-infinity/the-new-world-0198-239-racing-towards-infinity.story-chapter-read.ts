@@ -8,7 +8,7 @@ export const theNewWorld0198239RacingTowardsInfinity = {
   story: "the-new-world",
   position: 198,
   ownLength: 2555,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/427403/239-racing-towards-infinity",

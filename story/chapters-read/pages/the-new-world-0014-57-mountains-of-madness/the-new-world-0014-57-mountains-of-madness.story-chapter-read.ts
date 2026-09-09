@@ -8,7 +8,7 @@ export const theNewWorld001457MountainsOfMadness = {
   story: "the-new-world",
   position: 14,
   ownLength: 5128,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167481/57-mountains-of-madness",

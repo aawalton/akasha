@@ -8,7 +8,7 @@ export const theNewWorld005597CataclysmComes = {
   story: "the-new-world",
   position: 55,
   ownLength: 4422,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/188029/97-cataclysm-comes",

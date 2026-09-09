@@ -8,7 +8,7 @@ export const theNewWorld0197238BrimstoneAndSteel = {
   story: "the-new-world",
   position: 197,
   ownLength: 2985,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/425977/238-brimstone-and-steel",

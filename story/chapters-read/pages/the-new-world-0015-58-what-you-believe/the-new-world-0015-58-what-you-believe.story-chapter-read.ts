@@ -8,7 +8,7 @@ export const theNewWorld001558WhatYouBelieve = {
   story: "the-new-world",
   position: 15,
   ownLength: 3108,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167840/58-what-you-believe",

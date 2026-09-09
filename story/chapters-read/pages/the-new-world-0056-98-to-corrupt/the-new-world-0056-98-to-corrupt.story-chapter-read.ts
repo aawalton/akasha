@@ -8,7 +8,7 @@ export const theNewWorld005698ToCorrupt = {
   story: "the-new-world",
   position: 56,
   ownLength: 2337,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/192025/98-to-corrupt",

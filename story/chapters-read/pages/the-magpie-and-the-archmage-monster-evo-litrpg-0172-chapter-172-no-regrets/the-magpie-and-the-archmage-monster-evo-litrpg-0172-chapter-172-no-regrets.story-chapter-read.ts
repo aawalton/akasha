@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0172Chapter172NoRegrets = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 172,
   ownLength: 2160,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3898939/chapter-172-no-regrets",

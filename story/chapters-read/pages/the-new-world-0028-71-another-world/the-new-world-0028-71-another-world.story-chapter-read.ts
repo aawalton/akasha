@@ -8,7 +8,7 @@ export const theNewWorld002871AnotherWorld = {
   story: "the-new-world",
   position: 28,
   ownLength: 3618,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172659/71-another-world",

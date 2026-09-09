@@ -8,7 +8,7 @@ export const theNewWorld004184FinalizingDetails = {
   story: "the-new-world",
   position: 41,
   ownLength: 2822,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/178529/84-finalizing-details",

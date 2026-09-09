@@ -8,7 +8,7 @@ export const theNewWorld0238279ADarkWorld = {
   story: "the-new-world",
   position: 238,
   ownLength: 4778,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/587485/279-a-dark-world",

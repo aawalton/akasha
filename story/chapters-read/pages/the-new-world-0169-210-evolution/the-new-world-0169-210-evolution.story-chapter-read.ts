@@ -8,7 +8,7 @@ export const theNewWorld0169210Evolution = {
   story: "the-new-world",
   position: 169,
   ownLength: 6058,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/369802/210-evolution",

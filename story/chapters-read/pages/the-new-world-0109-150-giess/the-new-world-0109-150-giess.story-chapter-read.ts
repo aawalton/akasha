@@ -8,7 +8,7 @@ export const theNewWorld0109150Giess = {
   story: "the-new-world",
   position: 109,
   ownLength: 3891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301036/150-giess",
   externalId: "301036",

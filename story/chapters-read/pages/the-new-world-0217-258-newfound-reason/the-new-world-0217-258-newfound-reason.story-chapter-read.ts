@@ -8,7 +8,7 @@ export const theNewWorld0217258NewfoundReason = {
   story: "the-new-world",
   position: 217,
   ownLength: 3741,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/501988/258-newfound-reason",

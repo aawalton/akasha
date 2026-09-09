@@ -8,7 +8,7 @@ export const theNewWorld0092133TheComingTempest = {
   story: "the-new-world",
   position: 92,
   ownLength: 1383,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/231667/133-the-coming-tempest",

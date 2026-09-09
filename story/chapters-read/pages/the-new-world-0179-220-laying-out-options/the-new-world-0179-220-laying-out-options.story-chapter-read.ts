@@ -8,7 +8,7 @@ export const theNewWorld0179220LayingOutOptions = {
   story: "the-new-world",
   position: 179,
   ownLength: 5120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/390550/220-laying-out-options",

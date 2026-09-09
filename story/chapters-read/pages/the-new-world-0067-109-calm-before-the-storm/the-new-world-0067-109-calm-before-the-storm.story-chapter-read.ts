@@ -8,7 +8,7 @@ export const theNewWorld0067109CalmBeforeTheStorm = {
   story: "the-new-world",
   position: 67,
   ownLength: 3410,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/206873/109-calm-before-the-storm",

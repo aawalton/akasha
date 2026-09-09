@@ -8,7 +8,7 @@ export const theNewWorld003780WhatFollows = {
   story: "the-new-world",
   position: 37,
   ownLength: 4482,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/176689/80-what-follows",

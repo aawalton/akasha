@@ -8,7 +8,7 @@ export const theNewWorld0184225MovingWithIntent = {
   story: "the-new-world",
   position: 184,
   ownLength: 3734,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/404719/225-moving-with-intent",

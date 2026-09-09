@@ -8,7 +8,7 @@ export const theNewWorld002770Order = {
   story: "the-new-world",
   position: 27,
   ownLength: 3821,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/172186/70-order",
   externalId: "172186",

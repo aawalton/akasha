@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0098Chapter98BeneathSeabloom
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 98,
   ownLength: 2119,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3164674/chapter-98-beneath-seabloom-island",

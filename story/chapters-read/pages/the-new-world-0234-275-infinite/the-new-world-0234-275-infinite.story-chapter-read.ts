@@ -8,7 +8,7 @@ export const theNewWorld0234275Infinite = {
   story: "the-new-world",
   position: 234,
   ownLength: 10118,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/577389/275-infinite",
   externalId: "577389",

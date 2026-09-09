@@ -8,7 +8,7 @@ export const theNewWorld0168209SendingAMessage = {
   story: "the-new-world",
   position: 168,
   ownLength: 1411,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/367843/209-sending-a-message",

@@ -8,7 +8,7 @@ export const theNewWorld0095136TheSoundOfThunder = {
   story: "the-new-world",
   position: 95,
   ownLength: 2911,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/236599/136-the-sound-of-thunder",

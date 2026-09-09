@@ -8,7 +8,7 @@ export const theNewWorld0110151Icosah = {
   story: "the-new-world",
   position: 110,
   ownLength: 3681,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/301295/151-icosah",
   externalId: "301295",

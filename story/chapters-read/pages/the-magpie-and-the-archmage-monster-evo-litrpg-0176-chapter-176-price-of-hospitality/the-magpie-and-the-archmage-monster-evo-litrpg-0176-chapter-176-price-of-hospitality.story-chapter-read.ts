@@ -6,7 +6,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0176Chapter176PriceOfHospita
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0176-chapter-176-price-of-hospitality",
   position: 176,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3933172",
   source: "royal-road",
   title: "Chapter 176 – Price of Hospitality",

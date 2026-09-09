@@ -8,7 +8,7 @@ export const theNewWorld0129170ANightmare = {
   story: "the-new-world",
   position: 129,
   ownLength: 3177,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/317036/170-a-nightmare",

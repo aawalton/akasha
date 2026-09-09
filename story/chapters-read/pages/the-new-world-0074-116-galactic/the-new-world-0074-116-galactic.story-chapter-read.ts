@@ -8,7 +8,7 @@ export const theNewWorld0074116Galactic = {
   story: "the-new-world",
   position: 74,
   ownLength: 2421,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/212295/116-galactic",
   externalId: "212295",

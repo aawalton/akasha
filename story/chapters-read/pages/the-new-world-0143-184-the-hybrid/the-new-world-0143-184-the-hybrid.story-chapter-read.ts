@@ -8,7 +8,7 @@ export const theNewWorld0143184TheHybrid = {
   story: "the-new-world",
   position: 143,
   ownLength: 3410,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/334161/184-the-hybrid",

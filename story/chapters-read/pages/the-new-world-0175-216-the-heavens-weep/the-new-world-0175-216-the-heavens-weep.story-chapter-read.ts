@@ -8,7 +8,7 @@ export const theNewWorld0175216TheHeavensWeep = {
   story: "the-new-world",
   position: 175,
   ownLength: 2254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/381635/216-the-heavens-weep",

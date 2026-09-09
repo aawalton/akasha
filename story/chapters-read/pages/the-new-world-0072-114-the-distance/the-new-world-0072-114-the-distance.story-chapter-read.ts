@@ -8,7 +8,7 @@ export const theNewWorld0072114TheDistance = {
   story: "the-new-world",
   position: 72,
   ownLength: 5364,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/210601/114-the-distance",

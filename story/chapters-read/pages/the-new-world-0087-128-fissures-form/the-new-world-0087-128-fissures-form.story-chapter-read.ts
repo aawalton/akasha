@@ -8,7 +8,7 @@ export const theNewWorld0087128FissuresForm = {
   story: "the-new-world",
   position: 87,
   ownLength: 1197,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/224167/128-fissures-form",

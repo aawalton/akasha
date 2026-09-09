@@ -8,7 +8,7 @@ export const theNewWorld000548Unleashed = {
   story: "the-new-world",
   position: 5,
   ownLength: 4112,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/162676/48-unleashed",
   externalId: "162676",

@@ -8,7 +8,7 @@ export const theNewWorld0224265TheNextStep = {
   story: "the-new-world",
   position: 224,
   ownLength: 4025,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/516535/265-the-next-step",

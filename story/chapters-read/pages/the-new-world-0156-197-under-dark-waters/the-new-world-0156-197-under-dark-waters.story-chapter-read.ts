@@ -8,7 +8,7 @@ export const theNewWorld0156197UnderDarkWaters = {
   story: "the-new-world",
   position: 156,
   ownLength: 3054,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/348606/197-under-dark-waters",

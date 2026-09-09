@@ -8,7 +8,7 @@ export const theNewWorld0199240Omens = {
   story: "the-new-world",
   position: 199,
   ownLength: 4346,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/429666/240-omens",
   externalId: "429666",

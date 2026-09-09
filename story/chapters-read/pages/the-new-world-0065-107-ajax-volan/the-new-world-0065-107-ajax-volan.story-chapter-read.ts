@@ -8,7 +8,7 @@ export const theNewWorld0065107AjaxVolan = {
   story: "the-new-world",
   position: 65,
   ownLength: 4153,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/205020/107-ajax-volan",

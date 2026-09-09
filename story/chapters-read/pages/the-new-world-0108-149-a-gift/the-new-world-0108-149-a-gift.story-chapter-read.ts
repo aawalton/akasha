@@ -8,7 +8,7 @@ export const theNewWorld0108149AGift = {
   story: "the-new-world",
   position: 108,
   ownLength: 2784,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300770/149-a-gift",
   externalId: "300770",

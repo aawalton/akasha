@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0128Chapter128SuspicionAndSi
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 128,
   ownLength: 2193,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3452071/chapter-128-suspicion-and-silence",

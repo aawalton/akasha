@@ -8,7 +8,7 @@ export const theNewWorld0100141HisDesign = {
   story: "the-new-world",
   position: 100,
   ownLength: 3232,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/282481/141-his-design",

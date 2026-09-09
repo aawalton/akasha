@@ -8,7 +8,7 @@ export const theNewWorld001962NotAlone = {
   story: "the-new-world",
   position: 19,
   ownLength: 2991,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/169237/62-not-alone",
   externalId: "169237",

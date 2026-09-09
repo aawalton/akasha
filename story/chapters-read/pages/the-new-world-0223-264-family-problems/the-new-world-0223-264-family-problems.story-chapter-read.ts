@@ -8,7 +8,7 @@ export const theNewWorld0223264FamilyProblems = {
   story: "the-new-world",
   position: 223,
   ownLength: 6861,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/515079/264-family-problems",

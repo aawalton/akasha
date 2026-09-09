@@ -8,7 +8,7 @@ export const theNewWorld0243284AmassingMany = {
   story: "the-new-world",
   position: 243,
   ownLength: 5116,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/600968/284-amassing-many",

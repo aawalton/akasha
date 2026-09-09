@@ -8,7 +8,7 @@ export const theNewWorld0097138ProdigyOfWar = {
   story: "the-new-world",
   position: 97,
   ownLength: 2748,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/239485/138-prodigy-of-war",

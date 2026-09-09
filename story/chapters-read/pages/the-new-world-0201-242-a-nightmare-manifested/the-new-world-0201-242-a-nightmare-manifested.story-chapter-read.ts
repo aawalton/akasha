@@ -8,7 +8,7 @@ export const theNewWorld0201242ANightmareManifested = {
   story: "the-new-world",
   position: 201,
   ownLength: 3294,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/434200/242-a-nightmare-manifested",

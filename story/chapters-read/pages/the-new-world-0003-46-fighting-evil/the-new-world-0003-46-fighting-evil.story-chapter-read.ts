@@ -8,7 +8,7 @@ export const theNewWorld000346FightingEvil = {
   story: "the-new-world",
   position: 3,
   ownLength: 3124,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/160733/46-fighting-evil",

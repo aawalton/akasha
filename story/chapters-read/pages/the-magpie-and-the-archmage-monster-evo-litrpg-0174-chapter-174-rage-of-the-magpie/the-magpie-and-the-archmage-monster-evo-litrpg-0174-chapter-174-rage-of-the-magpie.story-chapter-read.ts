@@ -7,7 +7,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0174Chapter174RageOfTheMagpi
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 174,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3914718",
   source: "royal-road",
   title: "Chapter 174 – Rage of the Magpie",

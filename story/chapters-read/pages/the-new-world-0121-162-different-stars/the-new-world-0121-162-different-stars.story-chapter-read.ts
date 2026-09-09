@@ -8,7 +8,7 @@ export const theNewWorld0121162DifferentStars = {
   story: "the-new-world",
   position: 121,
   ownLength: 4064,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/306579/162-different-stars",

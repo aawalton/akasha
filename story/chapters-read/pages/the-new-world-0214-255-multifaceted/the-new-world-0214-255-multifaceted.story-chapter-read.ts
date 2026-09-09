@@ -8,7 +8,7 @@ export const theNewWorld0214255Multifaceted = {
   story: "the-new-world",
   position: 214,
   ownLength: 2065,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/495821/255-multifaceted",

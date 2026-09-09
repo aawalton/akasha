@@ -7,7 +7,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0175Chapter175InTheColony = 
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 175,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3923514",
   source: "royal-road",
   title: "Chapter 175 – In the Colony",

@@ -8,7 +8,7 @@ export const theNewWorld0125166Yildraza = {
   story: "the-new-world",
   position: 125,
   ownLength: 2961,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/311509/166-yildraza",
   externalId: "311509",

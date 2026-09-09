@@ -8,7 +8,7 @@ export const theNewWorld0134175EyeOfTheStorm = {
   story: "the-new-world",
   position: 134,
   ownLength: 2378,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/322879/175-eye-of-the-storm",

@@ -8,7 +8,7 @@ export const theNewWorld0106147Disillusion = {
   story: "the-new-world",
   position: 106,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/300284/147-disillusion",

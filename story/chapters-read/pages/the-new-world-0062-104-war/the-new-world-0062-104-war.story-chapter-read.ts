@@ -8,7 +8,7 @@ export const theNewWorld0062104War = {
   story: "the-new-world",
   position: 62,
   ownLength: 2942,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/201373/104-war",
   externalId: "201373",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0156Chapter156Waiting = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 156,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3771679/chapter-156-waiting",

@@ -8,7 +8,7 @@ export const theNewWorld0231272CracksInConfidence = {
   story: "the-new-world",
   position: 231,
   ownLength: 6262,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/564603/272-cracks-in-confidence",

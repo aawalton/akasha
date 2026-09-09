@@ -8,7 +8,7 @@ export const theNewWorld0146187Exposed = {
   story: "the-new-world",
   position: 146,
   ownLength: 4114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/337692/187-exposed",
   externalId: "337692",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0157Chapter157BirdBehindBars
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 157,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3780612/chapter-157-bird-behind-bars",

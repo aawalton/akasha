@@ -8,7 +8,7 @@ export const theNewWorld0113154TheEmpire = {
   story: "the-new-world",
   position: 113,
   ownLength: 2020,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302052/154-the-empire",

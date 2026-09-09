@@ -8,7 +8,7 @@ export const theNewWorld0127168PrestigeAndProminence = {
   story: "the-new-world",
   position: 127,
   ownLength: 3384,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/314487/168-prestige-and-prominence",

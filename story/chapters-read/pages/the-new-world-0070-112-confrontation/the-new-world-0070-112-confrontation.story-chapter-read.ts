@@ -8,7 +8,7 @@ export const theNewWorld0070112Confrontation = {
   story: "the-new-world",
   position: 70,
   ownLength: 5003,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/208983/112-confrontation",

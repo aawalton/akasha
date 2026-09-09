@@ -8,7 +8,7 @@ export const theNewWorld0171212Fallout = {
   story: "the-new-world",
   position: 171,
   ownLength: 3146,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/375854/212-fallout",
   externalId: "375854",

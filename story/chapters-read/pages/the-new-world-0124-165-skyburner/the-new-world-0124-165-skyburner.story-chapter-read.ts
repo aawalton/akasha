@@ -8,7 +8,7 @@ export const theNewWorld0124165Skyburner = {
   story: "the-new-world",
   position: 124,
   ownLength: 2715,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/309276/165-skyburner",

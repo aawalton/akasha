@@ -8,7 +8,7 @@ export const theNewWorld001356GuardiansOfYawm = {
   story: "the-new-world",
   position: 13,
   ownLength: 3720,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/167480/56-guardians-of-yawm",

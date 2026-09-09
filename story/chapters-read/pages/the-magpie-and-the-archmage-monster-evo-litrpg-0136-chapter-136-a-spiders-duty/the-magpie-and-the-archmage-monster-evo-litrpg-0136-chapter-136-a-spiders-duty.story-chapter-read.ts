@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0136Chapter136ASpidersDuty =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 136,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3540869/chapter-136-a-spiders-duty",

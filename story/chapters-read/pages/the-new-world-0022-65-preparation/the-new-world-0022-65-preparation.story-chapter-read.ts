@@ -8,7 +8,7 @@ export const theNewWorld002265Preparation = {
   story: "the-new-world",
   position: 22,
   ownLength: 4146,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/170093/65-preparation",

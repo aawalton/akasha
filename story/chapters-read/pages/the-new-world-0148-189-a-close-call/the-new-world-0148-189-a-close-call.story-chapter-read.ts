@@ -8,7 +8,7 @@ export const theNewWorld0148189ACloseCall = {
   story: "the-new-world",
   position: 148,
   ownLength: 3764,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/339273/189-a-close-call",

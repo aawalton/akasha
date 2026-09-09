@@ -7,7 +7,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0173Chapter173MasterOfDistra
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 173,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3909956",
   source: "royal-road",
   title: "Chapter 173 – Master of Distraction",

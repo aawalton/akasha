@@ -8,7 +8,7 @@ export const theNewWorld0120161ANightToRemember = {
   story: "the-new-world",
   position: 120,
   ownLength: 3187,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/305737/161-a-night-to-remember",

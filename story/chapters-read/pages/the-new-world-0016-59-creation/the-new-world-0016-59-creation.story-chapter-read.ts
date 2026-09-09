@@ -8,7 +8,7 @@ export const theNewWorld001659Creation = {
   story: "the-new-world",
   position: 16,
   ownLength: 4956,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/168410/59-creation",
   externalId: "168410",

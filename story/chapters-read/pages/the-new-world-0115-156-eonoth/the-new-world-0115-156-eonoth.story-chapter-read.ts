@@ -8,7 +8,7 @@ export const theNewWorld0115156Eonoth = {
   story: "the-new-world",
   position: 115,
   ownLength: 3281,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/302874/156-eonoth",
   externalId: "302874",

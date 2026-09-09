@@ -8,7 +8,7 @@ export const theNewWorld0210251GeneralUnderstanding = {
   story: "the-new-world",
   position: 210,
   ownLength: 3763,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/481019/251-general-understanding",

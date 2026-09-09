@@ -8,7 +8,7 @@ export const theNewWorld0213254QuicklyIntoTheNight = {
   story: "the-new-world",
   position: 213,
   ownLength: 3778,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/494491/254-quickly-into-the-night",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0118Chapter118GuestsOfThalas
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 118,
   ownLength: 2140,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3352002/chapter-118-guests-of-thalasarra",

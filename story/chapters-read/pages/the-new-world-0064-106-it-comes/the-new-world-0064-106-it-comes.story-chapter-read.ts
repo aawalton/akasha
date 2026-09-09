@@ -8,7 +8,7 @@ export const theNewWorld0064106ItComes = {
   story: "the-new-world",
   position: 64,
   ownLength: 2798,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/204040/106-it-comes",
   externalId: "204040",

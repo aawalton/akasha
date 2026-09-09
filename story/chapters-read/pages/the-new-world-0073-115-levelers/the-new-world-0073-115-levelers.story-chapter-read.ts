@@ -8,7 +8,7 @@ export const theNewWorld0073115Levelers = {
   story: "the-new-world",
   position: 73,
   ownLength: 4549,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world/chapter/211398/115-levelers",
   externalId: "211398",

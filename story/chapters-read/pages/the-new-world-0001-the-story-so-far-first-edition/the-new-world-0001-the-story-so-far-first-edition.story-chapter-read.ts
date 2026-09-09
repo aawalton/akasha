@@ -8,7 +8,7 @@ export const theNewWorld0001TheStorySoFarFirstEdition = {
   story: "the-new-world",
   position: 1,
   ownLength: 2548,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/155785/the-story-so-far-first-edition",

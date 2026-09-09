@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0123Chapter123TheMostTerrify
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 123,
   ownLength: 2337,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/3398024/chapter-123-the-most-terrifying-shiny",

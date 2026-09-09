@@ -8,7 +8,7 @@ export const theNewWorld0194235Upbringing = {
   story: "the-new-world",
   position: 194,
   ownLength: 5743,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/418074/235-upbringing",

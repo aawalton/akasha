@@ -8,7 +8,7 @@ export const theNewWorld0076118DeepWater = {
   story: "the-new-world",
   position: 76,
   ownLength: 2669,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/12024/the-new-world/chapter/213301/118-deep-water",
