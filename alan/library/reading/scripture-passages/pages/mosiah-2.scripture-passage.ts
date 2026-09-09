@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const mosiah2 = {
   id: "019f0976-df04-7857-bfbf-bc6e39a8101e",
