@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Person } from "../../../seat-system/seats/properties/person.relation-property.ts"
-import type { Notifications } from "./properties/notifications.page-property-entry.ts"
-
-export type NotificationFeed = Page & {
-  person: Person
-  notifications: Notifications
-}
 
 export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",
@@ -49,4 +41,5 @@ export const notificationFeed = {
       statement: "The feeds are pages under this type rather than markdown.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
