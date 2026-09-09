@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const mlxAudioServices = {
   id: "01a0685d-4b35-7003-8698-253abd8dbd8d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mlx-audio-services",
   definition: "the speech and audio services one mlx-audio server provisions",
   code: "ts",

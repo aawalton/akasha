@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const zimageExploreWorker = {
   id: "01a06815-9efd-702c-97c4-1d8fa5c36f48",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zimage-explore-worker",
   definition: "a queue of prompt files rendered as each one arrives",
   code: "ts",

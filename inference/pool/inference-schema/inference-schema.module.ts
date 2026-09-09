@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inferenceSchema = {
   id: "01a0685d-4b35-7000-a89c-fa9904f3e21d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inference-schema",
   definition: "what a declared inference host, service and managed environment hold",
   code: "ts",

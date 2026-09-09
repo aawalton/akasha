@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const hookAnswer = {
   id: "01a04e16-d380-7001-96b2-4990b06a9094",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hook-answer",
   definition: "what a hook reads from the harness and says back to it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const oauthCallback = {
   id: "01a05bdc-e25c-702d-a46a-b2274662cd6d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "oauth-callback",
   definition: "the redirect URI and code a consent callback URL carries",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const voiceCloneClient = {
   id: "01a0682d-8ef5-7007-9aeb-17efab6f532f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "voice-clone-client",
   definition: "what a voice-clone request carries to the speech service",
   code: "ts",

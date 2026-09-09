@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const zimageGraph = {
   id: "01a06815-9efd-702a-9285-e03b1d269cbb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zimage-graph",
   definition: "the graph turning a prompt into an image",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const gmailMessages = {
   id: "01a05c0e-372f-7750-8af3-82f43929d034",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gmail-messages",
   definition: "mail listed, read, sent, relabelled, archived and trashed",
   code: "ts",

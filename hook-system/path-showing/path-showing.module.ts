@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pathShowing = {
   id: "01a04f6a-0db6-72c2-9b05-8e1a84ed9649",
   pageTypeSlug: "module",
+  type: "module",
   slug: "path-showing",
   definition: "a path named for a reader at the root",
   code: "ts",

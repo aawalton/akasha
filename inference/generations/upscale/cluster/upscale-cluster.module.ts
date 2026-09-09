@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const upscaleCluster = {
   id: "01a0685d-4b35-7018-b4c3-09ff288b2bf1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "upscale-cluster",
   definition: "upscaling one image on a cluster GPU by running a job and reading the object back",
   code: "ts",

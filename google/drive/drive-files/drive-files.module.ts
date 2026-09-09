@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const driveFiles = {
   id: "01a05bec-fc0c-717a-b732-43f42f2c02fb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "drive-files",
   definition: "a Drive file found by id or by URL, and its bytes fetched",
   code: "ts",

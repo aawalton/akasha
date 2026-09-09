@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const gmailSchema = {
   id: "01a05c0e-372f-7384-9024-babc64ceccf2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gmail-schema",
   definition: "the shapes Gmail answers in, and what is taken out of them",
   code: "ts",

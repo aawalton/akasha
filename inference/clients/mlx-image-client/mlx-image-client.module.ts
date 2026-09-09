@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const mlxImageClient = {
   id: "01a0682d-8ef5-7002-bb72-c45901a73f64",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mlx-image-client",
   definition: "an image asked of the MLX image service from a prompt",
   code: "ts",

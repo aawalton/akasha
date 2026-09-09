@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const emailCommandHelp = {
   id: "01a065a1-0caf-7000-9d20-1632cb9401b2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "email-command-help",
   definition: "the flags and environment variables an email command declares to its help",
   code: "ts",

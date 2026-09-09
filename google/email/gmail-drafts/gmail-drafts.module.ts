@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const gmailDrafts = {
   id: "01a05c0e-3730-79a1-884f-5caf37ea35cf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gmail-drafts",
   definition: "a mail written and kept unsent",
   code: "ts",

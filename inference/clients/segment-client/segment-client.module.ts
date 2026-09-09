@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const segmentClient = {
   id: "01a0682d-8ef5-7005-81a3-8cc746c8acbf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "segment-client",
   definition: "an image's foreground parted from its background by the rembg service",
   code: "ts",

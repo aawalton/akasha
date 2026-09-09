@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const graphClosure = {
   id: "01a06949-b281-77a7-a26f-52612d6b3af0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "graph-closure",
   definition: "everything reachable from some starting points by following successors",
   code: "ts",

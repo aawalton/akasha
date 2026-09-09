@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const driveCredentials = {
   id: "01a05bec-fc0a-7cf5-922c-10500a6552cc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "drive-credentials",
   definition: "the scope and the refresh token a Drive client is built with",
   code: "ts",

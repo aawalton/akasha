@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inferenceReconcile = {
   id: "01a0685d-4b35-700c-9b4c-80e9256ed4e8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inference-reconcile",
   definition: "bringing what is on an inference host to what this repository declares",
   code: "ts",

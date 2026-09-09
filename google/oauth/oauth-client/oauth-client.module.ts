@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const oauthClient = {
   id: "01a06d16-f135-7230-acd8-d3d66ea08433",
   pageTypeSlug: "module",
+  type: "module",
   slug: "oauth-client",
   definition: "the Google OAuth client built out of the OAuth2 the caller hands in",
   code: "ts",

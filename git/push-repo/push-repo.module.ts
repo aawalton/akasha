@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pushRepo = {
   id: "01a06977-65e5-7e5f-8bc6-bd63299bc924",
   pageTypeSlug: "module",
+  type: "module",
   slug: "push-repo",
   definition: "a repository's commits carried to its remote by a program nothing waits on",
   code: "ts",

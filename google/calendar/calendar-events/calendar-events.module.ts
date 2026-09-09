@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const calendarEvents = {
   id: "01a05c02-c735-7c7d-b0df-e9fdf86fe475",
   pageTypeSlug: "module",
+  type: "module",
   slug: "calendar-events",
   definition: "the calendar operations one event is put through",
   code: "ts",

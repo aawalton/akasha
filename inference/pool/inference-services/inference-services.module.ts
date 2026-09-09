@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inferenceServices = {
   id: "01a0685d-4b35-7004-84e3-d0c0ff89734f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inference-services",
   definition: "every inference service declared for the machines outside the cluster",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hook-judging",
   definition: "a hook's judgement asked the way a test asks it, from the root it is in",
   code: "ts",

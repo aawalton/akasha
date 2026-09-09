@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inferenceAnswering = {
   id: "01a0685e-fd50-756a-85ea-473b887d050f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inference-answering",
   definition:
     "the words an inference command was called with, read, and the service those words reach",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const emailCommandReading = {
   id: "01a06810-cf11-7676-b503-15195a7cff5b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "email-command-reading",
   definition: "what an email command reads off its arguments, and the shape it answers in",
   code: "ts",

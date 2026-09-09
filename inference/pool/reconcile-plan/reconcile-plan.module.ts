@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const reconcilePlan = {
   id: "01a0685d-4b35-7009-a74b-6d64dd6c2f08",
   pageTypeSlug: "module",
+  type: "module",
   slug: "reconcile-plan",
   definition: "what is on a host set against what is declared, read as apply, skip or prune",
   code: "ts",

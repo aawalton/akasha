@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const copAdmin = {
   id: "01a0685d-4b35-700b-a3ee-538f05dcbe5d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cop-admin",
   definition: "asking the traffic cop which service is resident and telling it to swap",
   code: "ts",

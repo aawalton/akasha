@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const serviceHash = {
   id: "01a0685d-4b35-7005-a6aa-76a9e30cc3fe",
   pageTypeSlug: "module",
+  type: "module",
   slug: "service-hash",
   definition: "one hash folding a service's source files together with what it is told to run",
   code: "ts",

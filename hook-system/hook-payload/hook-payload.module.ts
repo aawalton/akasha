@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hook-payload",
   definition: "a hook payload as the agent sends one, made so a test can hand it to a hook",
   code: "ts",

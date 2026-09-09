@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const treeSha = {
   id: "01a06816-2f10-79f0-a96f-ee6577f1c3a8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "tree-sha",
   definition: "the object name of the tree a commit holds",
   code: "ts",
