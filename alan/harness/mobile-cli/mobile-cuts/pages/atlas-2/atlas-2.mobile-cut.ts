@@ -5,7 +5,7 @@ export const atlas2 = {
   pageTypeSlug: "mobile-cut",
   slug: "atlas-2",
   title: "atlas cut build 2",
-  appSlug: "atlas",
+  app: "atlas",
   buildNumber: 2,
   mainSha: "2ee5df1158f0c175e3b3c7492e30b23fa62173cc",
   shellSha: "2ee5df1158f0c175e3b3c7492e30b23fa62173cc",

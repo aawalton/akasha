@@ -5,7 +5,7 @@ export const alanwaltonAttributeStoplights = {
   pageTypeSlug: "readout-widget",
   slug: "alanwalton-attribute-stoplights",
   definition: "the tile on Alan's phone showing what each of his attributes earned today",
-  appSlug: "alanwalton",
+  app: "alanwalton",
   componentSlug: "alanwalton-attribute-stoplights-widget",
   kind: "AttributeStoplightsWidget",
   families: ["small"],

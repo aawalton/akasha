@@ -2,7 +2,7 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { GroupSlugs } from "../properties/group-slugs.relation-property.ts"
 import type { Place } from "../properties/place.number-property.ts"
-import type { AppSlug } from "./properties/app-slug.relation-property.ts"
+import type { App } from "./properties/app.relation-property.ts"
 import type { Caption } from "./properties/caption.text-property.ts"
 import type { ComponentSlug } from "./properties/component-slug.relation-property.ts"
 import type { Families } from "./properties/families.text-property.ts"
@@ -15,7 +15,7 @@ import type { Opens } from "./properties/opens.text-property.ts"
 import type { Taps } from "./properties/taps.number-property.ts"
 
 export type ReadoutWidget = Domain & {
-  appSlug: AppSlug
+  app: App
   componentSlug: ComponentSlug
   kind: Kind
   families: Families
@@ -49,7 +49,7 @@ export const readoutWidget = {
     "readout-widget/smilingjenny-surplus",
     "instant-property/last-tapped-at",
     "number-property/taps",
-    "relation-property/app-slug",
+    "relation-property/app",
     "relation-property/component-slug",
     "text-property/caption",
     "text-property/families",
@@ -61,7 +61,7 @@ export const readoutWidget = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/app", required: true, many: false },
     { pagePropertySlug: "relation-property/component-slug", required: true, many: false },
     { pagePropertySlug: "text-property/kind", required: true, many: false },
     { pagePropertySlug: "text-property/families", required: true, many: true, maxCount: null },

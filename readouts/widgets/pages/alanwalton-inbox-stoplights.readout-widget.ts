@@ -5,7 +5,7 @@ export const alanwaltonInboxStoplights = {
   pageTypeSlug: "readout-widget",
   slug: "alanwalton-inbox-stoplights",
   definition: "the tile on Alan's phone showing how much waits in each of his inboxes",
-  appSlug: "alanwalton",
+  app: "alanwalton",
   componentSlug: "alanwalton-inbox-stoplights-widget",
   kind: "InboxStoplightsWidget",
   families: ["small"],

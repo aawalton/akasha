@@ -10,7 +10,7 @@ export const widgetsUse = {
   viewPlace: 0,
   layout: "table",
   viewSorts: [{ key: "taps", descending: true }],
-  visibleProperties: ["taps", "last-tapped-at", "gallery-name", "app-slug", "place", "opens"],
+  visibleProperties: ["taps", "last-tapped-at", "gallery-name", "app", "place", "opens"],
   alwaysShowProperties: ["taps", "last-tapped-at"],
   hiddenPropertiesOrder: [
     "definition",

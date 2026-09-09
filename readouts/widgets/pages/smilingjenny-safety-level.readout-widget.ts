@@ -5,7 +5,7 @@ export const smilingjennySafetyLevel = {
   pageTypeSlug: "readout-widget",
   slug: "smilingjenny-safety-level",
   definition: "the tile on Jenny's phone showing how safe things are where Alan is",
-  appSlug: "smilingjenny",
+  app: "smilingjenny",
   componentSlug: "smilingjenny-safety-level-widget",
   kind: "SafetyLevelWidget",
   families: ["small"],
