@@ -62,6 +62,9 @@ export type Changes = {
   "change-mechanical-file-content/remove-type-member": Parameters<
     typeof import("../../../mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
+  "change-mechanical-file-content/rename-entry-key": Parameters<
+    typeof import("../../../mechanical/file-content/rename/rename-entry-key/rename-entry-key.change-mechanical-file-content.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/rename-export": Parameters<
     typeof import("../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts")["runChange"]
   >[1]

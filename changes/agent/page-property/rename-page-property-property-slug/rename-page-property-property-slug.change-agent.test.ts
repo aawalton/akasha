@@ -367,3 +367,88 @@ test("an argument this change was handed no value for is refused by the key", as
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`to` names what this change is handed/)
 })
+
+const RENAME_ENTRY_KEY = "change-mechanical-file-content/rename-entry-key"
+
+const ENTRY_AT = "akasha/months/transactions.page-property-entry.ts"
+
+const MONTH_AT = "akasha/months/one.month.ts"
+
+const ROWS_AT = "akasha/months/one.month.transactions.jsonl"
+
+const BY_A_SHAPE: readonly Declaring[] = [
+  { slug: "transactions", kind: "page-property-entry", id: "transactions-id", path: ENTRY_AT },
+]
+
+const BY_A_MONTH: readonly Declaring[] = [
+  { slug: "month", kind: "page-type", id: "month-id", path: "akasha/month.page-type.ts" },
+]
+
+const ENTRY_VALUES: Readonly<Record<string, Value>> = {
+  ...VALUES,
+  "page-property-entry/transactions": {
+    id: "transactions-id",
+    pageTypeSlug: "page-property-entry",
+    slug: "transactions",
+    propertySlug: "transactions",
+  },
+  "month/one": { id: "month-one", pageTypeSlug: "month", slug: "one", transactions: "jsonl" },
+}
+
+function worldOfEntries(reaching: Reaching): World {
+  return {
+    ...worldOf({ [ROWS_AT]: '{"id":"a","code":"ts"}\n' }),
+    index: {
+      pageByPath: (at: string) => {
+        const named = (at.split("/").pop() ?? "").split(".")
+        return ENTRY_VALUES[`${named[1]}/${named[0]}`] ?? null
+      },
+      declaringOf: (id: string) => (id === "transactions-id" ? BY_A_MONTH : BY_A_SHAPE),
+      kindsUnder: (slug: string) => new Set([slug]),
+      valuesByPath: (slug: string) =>
+        new Map(
+          slug === "month"
+            ? ([[MONTH_AT, ENTRY_VALUES["month/one"]]] as readonly (readonly [string, Value])[])
+            : []
+        ),
+    } as never,
+    reaching,
+  }
+}
+
+test("an entry shape declaring the property has the key spelled anew beside each page", async () => {
+  const reached: Reached[] = []
+
+  const said = await renamePagePropertyPropertySlug(worldOfEntries(watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(givenAt(reached, RENAME_ENTRY_KEY)).toEqual({ at: ROWS_AT, was: "code", now: "codeFile" })
+})
+
+test("a run handed a count spells no key anew in a file of entries", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldOfEntries(watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+    most: 1,
+  })
+
+  expect(reached.map((one) => one.at)).not.toContain(RENAME_ENTRY_KEY)
+})
+
+test("one file of entries refused refuses the whole change", async () => {
+  const world = worldOfEntries((over, at, given) =>
+    at === RENAME_ENTRY_KEY
+      ? Promise.resolve(refusing("that key is spelled otherwise"))
+      : watching([])(over, at, given)
+  )
+
+  const said = await renamePagePropertyPropertySlug(world, { at: CODE_AT, to: "code-file" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(`\`${ROWS_AT}\` is refused, and that key is spelled otherwise`)
+})

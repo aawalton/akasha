@@ -26,6 +26,20 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "An entry shape declaring the property has the key spelled anew in every entry beside a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages whose entries are written are the pages of every page type with that shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file the entries of one page run to is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page stating no value under that key is passed over rather than refused.",
     },
     {
@@ -48,6 +62,10 @@ export const renamePagePropertyPropertySlug = {
     {
       invariantKind: "departure",
       statement: "A run handed a count spells no signature anew.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed a count spells no key anew in a file of entries.",
     },
     {
       invariantKind: "departure",

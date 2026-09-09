@@ -1,5 +1,6 @@
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+import { partsOf } from "@akasha/pages/page-file-parts"
 import {
   gathered,
   missing,
@@ -21,6 +22,8 @@ const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 
 const RENAME_SIGNATURE = "change-mechanical-file-content/rename-property-signature"
 
+const RENAME_ENTRY_KEY = "change-mechanical-file-content/rename-entry-key"
+
 const MOVE_FILE_CODE = "change-mechanical/move-file-code"
 
 const PROPERTY_SLUG = "propertySlug"
@@ -30,6 +33,8 @@ const ID = "id"
 const FILE_PROPERTY = "file-property"
 
 const RECORD_PROPERTY = "record-property"
+
+const ENTRY_PROPERTY = "page-property-entry"
 
 const PAGE_TYPE = "page-type"
 
@@ -120,6 +125,38 @@ function spelledIn(world: World, types: readonly string[], one: Spelling): Spell
   return { carrying, moving }
 }
 
+type Declared = {
+  readonly slug: string
+  readonly kind: string
+  readonly id: string
+  readonly path: string
+}
+
+function filedUnder(world: World, shape: Declared): readonly string[] {
+  const value = pageIn(world, shape.path)
+  const slug = value === null ? null : value[PROPERTY_SLUG]
+  if (typeof slug !== "string") return []
+  const key = exportedAs(slug)
+  const found: string[] = []
+  const seen = new Set<string>()
+  const holds = (at: string): boolean => world.textOf(at) !== null
+  for (const one of world.index.declaringOf(shape.id)) {
+    if (one.kind !== PAGE_TYPE) continue
+    for (const kind of world.index.kindsUnder(one.slug)) {
+      for (const [path, held] of world.index.valuesByPath(kind)) {
+        if (seen.has(path)) continue
+        seen.add(path)
+        const ending = held[key]
+        if (typeof ending !== "string") continue
+        for (const at of partsOf(path, slug, ending, holds)) {
+          if (holds(at)) found.push(at)
+        }
+      }
+    }
+  }
+  return found
+}
+
 export async function renamePagePropertyPropertySlug(
   world: World,
   given: RenamePagePropertyPropertySlugAsked
@@ -134,10 +171,12 @@ export async function renamePagePropertyPropertySlug(
     )
   }
   const types = declared.filter((one) => one.kind === PAGE_TYPE)
+  const shapes = declared.filter((one) => one.kind === ENTRY_PROPERTY)
   const key = exportedAs(read.was)
   const now = exportedAs(given.to)
   const most = given.most ?? null
   const whole = !read.states && most === null
+  const entries = most === null ? shapes.flatMap((one) => filedUnder(world, one)) : []
   const held = spelledIn(
     world,
     types.map((one) => one.slug),
@@ -176,6 +215,10 @@ export async function renamePagePropertyPropertySlug(
     const of = `${typedAs(one.slug)}.${key}`
     const why = await reaching(RENAME_SIGNATURE, { at: one.path, of, to: now })
     if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
+  }
+  for (const at of entries) {
+    const why = await reaching(RENAME_ENTRY_KEY, { at, was: key, now })
+    if (why !== null) return refusing(`\`${at}\` is refused, and ${why}`)
   }
   for (const one of held.moving) {
     const why = await reaching(MOVE_FILE_CODE, one)

@@ -14,6 +14,7 @@ export const changeMechanicalFileContentRename = {
     "change-mechanical-file-content/rename-page-slug",
     "change-mechanical-file-content/rename-property-signature",
     "change-mechanical-file-content/rename-page-addresses",
+    "change-mechanical-file-content/rename-entry-key",
   ],
   invariants: [
     {
