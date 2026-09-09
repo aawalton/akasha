@@ -7,4 +7,5 @@ export const day20260514 = {
   title: "@date:2026-05-14",
   date: "2026-05-14",
   completedTasks: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day

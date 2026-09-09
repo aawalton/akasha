@@ -8,6 +8,7 @@ import {
   appendedOnto,
   askingFor,
   capturing,
+  changesFor,
   filedIn,
   jsonOf,
   type Ledger,
@@ -32,8 +33,8 @@ import {
   LEDGER,
   landingTelling,
   ledgerPage,
-  NEW_DAY,
   NONE,
+  PROBE_DAY,
   PROBE_PLAYS,
   pathsOf,
   playOf,
@@ -266,7 +267,7 @@ test("a listen appended to a day already filed keeps every row and property that
   expect(now.split("\n").length).toBe(was.split("\n").length + 1)
   const page = bodyAt(changes, `${FILED_DAY}.ts`)
   expect(page).toContain('listens: "jsonl"')
-  expect(page).toContain('healthSamples: "jsonl"')
+  expect(page).toContain('sessions: "jsonl"')
 })
 
 test("a heard track appended keeps every track the ledger already named", () => {
@@ -275,10 +276,17 @@ test("a heard track appended keeps every track the ledger already named", () => 
   expect(now.startsWith(readFileSync(join(ROOT, beside), "utf8"))).toBe(true)
 })
 
-test("a day with no page of its own gets one written beside the day it names", () => {
+test("a listen lands beside the page the day it names already has", () => {
   const paths = pathsOf(changesOver("2026-09-02T12:00:00.000Z"))
-  expect(paths).toContain(`${NEW_DAY}.ts`)
-  expect(paths).toContain(`${NEW_DAY}.listens.jsonl`)
+  expect(paths).toContain(`${PROBE_DAY}.ts`)
+  expect(paths).toContain(`${PROBE_DAY}.listens.jsonl`)
+})
+
+test("a day with no page of its own is refused rather than given one", () => {
+  const planned = plannedOver([playOf("t1", "2030-01-01T12:00:00.000Z", "One", "Alpha")], LEDGER)
+  const changes = changesFor(ROOT, ledgerPage(), planned)
+  if (!("refused" in changes)) throw new Error("a day with no page of its own was not refused")
+  expect(changes.refused).toContain("2030-01-01")
 })
 
 test("every change named is the change writing whatever kind of path it is handed", () => {
@@ -309,7 +317,7 @@ test("what was filed is said as rows or as JSON", () => {
   expect(JSON.parse(jsonOf(planned))).toMatchObject({
     recorded: 1,
     firstListens: 1,
-    esoDays: ["2026-08-21"],
+    days: ["2026-08-21"],
     primed: false,
   })
 })
@@ -326,7 +334,7 @@ test("what capture files is named to the landing at the change writing any path"
   expect(answer.refusals).toEqual([])
   expect(answer.code).toBe(0)
   expect(message).toContain("listen(s) over")
-  expect(pathsOf(asked)).toContain(`${NEW_DAY}.listens.jsonl`)
+  expect(pathsOf(asked)).toContain(`${PROBE_DAY}.listens.jsonl`)
   expect(asked.map((one) => one.at)).toEqual(asked.map(() => WRITE))
 })
 

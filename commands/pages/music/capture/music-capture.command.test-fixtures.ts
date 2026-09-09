@@ -17,11 +17,11 @@ import {
 
 export const ROOT = rootOf(process.cwd())
 
-const DAYS = "alan/track/daily/eso-days/pages"
+const DAYS = "alan/track/days/pages"
 
-export const FILED_DAY = `${DAYS}/2026-08-21/eso-day-2026-08-21.eso-day`
+export const FILED_DAY = `${DAYS}/2026-08-21/day-2026-08-21.day`
 
-export const NEW_DAY = `${DAYS}/2026-09-02/eso-day-2026-09-02.eso-day`
+export const PROBE_DAY = `${DAYS}/2026-09-02/day-2026-09-02.day`
 
 export const FILED_PLAY_KEY = "4epeNxtHy14CVAP1rePJCs@2026-08-21T12:31:13.556Z"
 

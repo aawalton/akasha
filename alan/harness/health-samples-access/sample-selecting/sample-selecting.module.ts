@@ -9,7 +9,7 @@ export const sampleSelecting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is read off the rows kept beside the ESO day the reading began in.",
+      statement: "A reading is read off the rows kept beside the day page it was filed under.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's page sits alone in a folder named for that day's date.",
+      statement: "A day's folder is named for that day's date alone.",
     },
     {
       invariantKind: "departure",

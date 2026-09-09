@@ -30,7 +30,7 @@ const DATA = 2
 
 const OPERATIONAL = 3
 
-const ESO_DAY = "eso-day"
+const DAY = "day"
 
 const HEARD_MUSIC = "heard-music"
 
@@ -281,7 +281,7 @@ export function filedIn(root: string): Filed | { readonly refused: string } {
   }
   const playKeys = new Set<string>()
   let newestPlayedAt: string | null = null
-  for (const day of valuesOfType(root, ESO_DAY)) {
+  for (const day of valuesOfType(root, DAY)) {
     if (day.value[LISTENS] !== JSONL) continue
     const held = entriesAt(root, day.path, LISTENS, JSONL)
     if ("refused" in held) return held
@@ -327,11 +327,15 @@ function appendedBeside(
 
 function dayValuesIn(root: string): ReadonlyMap<string, Value> {
   const held = new Map<string, Value>()
-  for (const one of valuesOfType(root, ESO_DAY)) {
+  for (const one of valuesOfType(root, DAY)) {
     const slug = textIn(one.value, "slug")
     if (slug !== null) held.set(slug, one.value)
   }
   return held
+}
+
+function unfiled(day: string): string {
+  return `no \`${DAY}\` page is filed for ${day}, so a listen has nothing to land beside`
 }
 
 export function changesFor(
@@ -347,19 +351,13 @@ export function changesFor(
   }
   const days = dayValuesIn(root)
   for (const day of [...planned.listens.keys()].sort()) {
-    const slug = `${ESO_DAY}-${day}`
+    const slug = `${DAY}-${day}`
     const was = days.get(slug)
+    if (was === undefined) return { refused: unfiled(day) }
     const composed = composedFor(root, {
-      pageTypeSlug: ESO_DAY,
+      pageTypeSlug: DAY,
       slug,
-      values: {
-        title: `@${ESO_DAY}:${day}`,
-        esoDay: day,
-        ...(was ?? {}),
-        pageTypeSlug: ESO_DAY,
-        slug,
-        [LISTENS]: JSONL,
-      },
+      values: { ...was, [LISTENS]: JSONL },
     })
     if ("refused" in composed) return composed
     changes.push(bodied(composed.put.path, composed.put.content))
@@ -372,7 +370,7 @@ export function changesFor(
 
 export function messageFor(planned: Planned): string {
   const days = planned.listens.size
-  return `file ${planned.recorded} listen(s) over ${days} ESO day(s) and ${planned.heard.length} heard track(s)`
+  return `file ${planned.recorded} listen(s) over ${days} day(s) and ${planned.heard.length} heard track(s)`
 }
 
 export function rowsOf(planned: Planned): readonly string[] {
@@ -383,7 +381,7 @@ export function rowsOf(planned: Planned): readonly string[] {
     `first-listens\t${planned.firstListens}`,
     `new-music-minutes\t${planned.newMusicMinutes}`,
     `heard-tracks\t${planned.heard.length}`,
-    `eso-days\t${planned.listens.size}`,
+    `days\t${planned.listens.size}`,
   ]
   if (planned.skippedUnidentified > 0) rows.push(`unidentified\t${planned.skippedUnidentified}`)
   if (planned.primed) rows.push("primed\tno play was filed before this run, so it scores none")
@@ -398,7 +396,7 @@ export function jsonOf(planned: Planned): string {
     firstListens: planned.firstListens,
     newMusicMinutes: planned.newMusicMinutes,
     heardTracks: planned.heard.length,
-    esoDays: [...planned.listens.keys()].sort(),
+    days: [...planned.listens.keys()].sort(),
     skippedUnidentified: planned.skippedUnidentified,
     primed: planned.primed,
   })

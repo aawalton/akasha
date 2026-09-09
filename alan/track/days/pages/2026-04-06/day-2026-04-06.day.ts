@@ -6,4 +6,5 @@ export const day20260406 = {
   slug: "day-2026-04-06",
   title: "@date:2026-04-06",
   date: "2026-04-06",
+  healthSamples: "jsonl",
 } as const satisfies Day

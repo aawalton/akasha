@@ -14,4 +14,5 @@ export const day20260615 = {
   faithPoints: 535.5602,
   lovePoints: 1.0556,
   completedTasks: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day

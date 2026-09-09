@@ -4,13 +4,13 @@ export const sampleUpsert = {
   id: "01a05bc7-9129-7006-bbd4-12ab615a3223",
   pageTypeSlug: "module",
   slug: "sample-upsert",
-  definition: "health readings landed on the ESO day each began in",
+  definition: "health readings landed on the day page for the ESO day each began in",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading lands on the rows beside the ESO day its stretch began in.",
+      statement: "A reading lands on the rows beside the day page for the ESO day it began in.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,7 @@ export const sampleUpsert = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the ESO day page the rows sit beside.",
+      statement: "Nothing here writes the day page the rows sit beside.",
     },
     {
       invariantKind: "departure",

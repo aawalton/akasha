@@ -23,4 +23,5 @@ export const day20260619 = {
   completionSnapshot: 428282,
   sessions: "jsonl",
   completedTasks: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day

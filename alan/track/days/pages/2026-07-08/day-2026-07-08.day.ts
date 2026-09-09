@@ -29,4 +29,5 @@ export const day20260708 = {
   inboxCalendar: 2,
   inboxCalendarClearedToday: false,
   sessions: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day

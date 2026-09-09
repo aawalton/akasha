@@ -27,4 +27,5 @@ export const day20260801 = {
   inboxTexts: 2,
   inboxTextsClearedToday: true,
   sessions: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day

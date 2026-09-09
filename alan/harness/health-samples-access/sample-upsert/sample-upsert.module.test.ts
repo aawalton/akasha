@@ -9,8 +9,7 @@ import {
   type WritingFor,
 } from "./sample-upsert.module.code.ts"
 
-const AT =
-  "akasha/alan/track/daily/eso-days/pages/2026-01-01/eso-day-2026-01-01.eso-day.health-samples.jsonl"
+const AT = "akasha/alan/track/days/pages/2026-01-01/day-2026-01-01.day.health-samples.jsonl"
 
 const ARRIVED = "2026-01-01T12:00:00.000Z"
 

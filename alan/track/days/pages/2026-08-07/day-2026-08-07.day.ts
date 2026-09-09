@@ -28,4 +28,6 @@ export const day20260807 = {
   inboxTexts: 0,
   inboxTextsClearedToday: true,
   sessions: "jsonl",
+  healthSamples: "jsonl",
+  listens: "jsonl",
 } as const satisfies Day

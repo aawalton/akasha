@@ -10,4 +10,5 @@ export const day20260602 = {
   safetyLevel: "2",
   wealthPoints: 6.75,
   completedTasks: "jsonl",
+  healthSamples: "jsonl",
 } as const satisfies Day
