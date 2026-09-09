@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const questionStatus = {
   id: "01a06823-89b2-7004-b653-99f4dc058a5c",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "question-status",
   propertySlug: "status",
   definition: "whether a question is still waiting on Alan, and how it stopped waiting",

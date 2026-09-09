@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const connectionActivitySafety = {
   id: "01a0658e-c30e-73bb-985f-a37f0c4401b7",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "connection-activity-safety",
   propertySlug: "connection-activity-safety",
   definition: "the safety level he has to be at to get anything from it",

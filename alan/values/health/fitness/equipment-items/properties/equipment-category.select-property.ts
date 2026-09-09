@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const equipmentCategory = {
   id: "01a06865-7f45-7967-91d8-74b7b421ef60",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "equipment-category",
   propertySlug: "category",
   definition: "the sort of kit a piece is",

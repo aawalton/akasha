@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const relationshipTopicStatus = {
   id: "01a0658a-170f-750d-b59c-4ea32072c422",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "relationship-topic-status",
   propertySlug: "relationship-topic-status",
   definition: "how far a relationship topic has been taken",

@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const focus = {
   id: "01a0657a-e62d-7b35-94f4-44d27343d54f",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "focus",
   propertySlug: "focus",
   definition: "what the day trains",

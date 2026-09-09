@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const server = {
   id: "01a06e4f-b738-785a-b942-ef91c66319dc",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "server",
   propertySlug: "server",
   definition: "the megaserver a player's account trades on",

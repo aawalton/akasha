@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const anchorKind = {
   id: "01a0685e-ef8a-7ceb-bfd2-7d9fbc7e3246",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "anchor-kind",
   propertySlug: "kind",
   definition: "how an anchor places what it dates",

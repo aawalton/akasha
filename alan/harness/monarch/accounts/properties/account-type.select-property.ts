@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const accountType = {
   id: "01a0680a-1a00-7004-8e19-5b2c7d4e1105",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "account-type",
   propertySlug: "account-type",
   definition: "the sort of balance an account holds",

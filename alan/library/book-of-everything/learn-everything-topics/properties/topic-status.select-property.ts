@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const topicStatus = {
   id: "01a0659f-93da-700e-8f73-3b64e5c806d5",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "topic-status",
   propertySlug: "status",
   definition: "whether a topic is unopened, live or resting",

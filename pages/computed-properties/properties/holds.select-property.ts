@@ -3,6 +3,7 @@ import type { SelectProperty } from "../../select-properties/select-property.pag
 export const holds = {
   id: "01a06952-7a5c-7bad-8818-9124b8845f75",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "holds",
   propertySlug: "holds",
   definition: "the kind of value a calculation works out",

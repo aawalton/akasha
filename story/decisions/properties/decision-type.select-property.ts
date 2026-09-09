@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const decisionType = {
   id: "01a06577-f385-717f-8a5c-553d37a77bab",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "decision-type",
   propertySlug: "decision-type",
   definition: "what a decision settled",

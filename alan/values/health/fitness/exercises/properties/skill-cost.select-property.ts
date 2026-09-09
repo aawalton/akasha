@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const skillCost = {
   id: "01a0657e-2bc0-70b8-9883-2ec311b92460",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "skill-cost",
   propertySlug: "skill-cost",
   definition: "how much attention the movement takes to perform safely",

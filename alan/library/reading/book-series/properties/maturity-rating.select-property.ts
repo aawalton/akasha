@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const maturityRating = {
   id: "01a06598-222b-7001-a964-8dd2fc87d5bc",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "maturity-rating",
   propertySlug: "maturity-rating",
   definition: "how grown-up the provider says a series is",

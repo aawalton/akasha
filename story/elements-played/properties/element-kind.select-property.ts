@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const elementKind = {
   id: "01a06828-cb97-7ee3-9578-4a81ad1884a6",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "element-kind",
   propertySlug: "element-kind",
   definition: "whether an element wants or only tends",

@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const publicationStatus = {
   id: "01a06554-d8bd-750b-95f4-3b810f2c4875",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "publication-status",
   propertySlug: "publication-status",
   definition: "how far the source has got with putting a collection out",

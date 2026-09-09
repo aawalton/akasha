@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const identityStatementRank = {
   id: "01a0658a-739f-7e10-8159-f1a28e4d3724",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "identity-statement-rank",
   propertySlug: "identity-statement-rank",
   definition: "how hard this statement is to hold",

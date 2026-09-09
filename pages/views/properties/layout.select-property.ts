@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const layout = {
   id: "01a0680d-4d00-7003-9c58-7b4e2a6d4104",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "layout",
   propertySlug: "layout",
   definition: "the arrangement a view draws its pages in",

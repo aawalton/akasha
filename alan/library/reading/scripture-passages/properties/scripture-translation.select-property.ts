@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const scriptureTranslation = {
   id: "01a0658d-fe50-7004-9783-8442718557a7",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "scripture-translation",
   propertySlug: "translation",
   definition: "the rendering of scripture a passage is read from",

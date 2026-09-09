@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const connectionActivityModelBasis = {
   id: "01a0658e-c30e-7f33-9570-3b9eca01266e",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "connection-activity-model-basis",
   propertySlug: "connection-activity-model-basis",
   definition: "the calibration the ratings were set against",

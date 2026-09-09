@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const resolution = {
   id: "01a0673c-8e0e-7009-834e-edf6c52bf5fb",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "resolution",
   propertySlug: "resolution",
   definition: "how a game settles what an action comes to",

@@ -3,6 +3,7 @@ import type { SelectProperty } from "@akasha/pages/select-property"
 export const proofStatus = {
   id: "01a0657f-5da8-72f1-8408-a6f70813c9f3",
   pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "proof-status",
   propertySlug: "proof-status",
   definition: "how far an attempt has been taken",
