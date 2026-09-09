@@ -36,7 +36,6 @@
     "./shell-media-src": "./shell-media-src/shell-media-src.module.code.ts",
     "./status-bar-sync": "./status-bar-sync/status-bar-sync.module.code.tsx",
     "./use-is-online": "./use-is-online/use-is-online.module.code.ts",
-    "./use-mark-notification-read": "./use-mark-notification-read/use-mark-notification-read.module.code.ts",
     "./use-media-variants": "./use-media-variants/use-media-variants.module.code.ts",
     "./use-next-unread": "./use-next-unread/use-next-unread.module.code.ts"
   },

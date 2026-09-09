@@ -149,7 +149,6 @@ export const alanWeb = {
     "module/universal-title-bar",
     "module/use-idle-actions",
     "module/use-is-online",
-    "module/use-mark-notification-read",
     "module/use-mark-read-on-end",
     "module/use-media-variants",
     "module/use-next-unread",
