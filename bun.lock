@@ -378,15 +378,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/library/book-of-everything": {
-      "name": "@akasha/book-of-everything",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-      },
-    },
     "alan/library/reading": {
       "name": "@akasha/reading",
       "dependencies": {
@@ -2484,8 +2475,6 @@
     "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/auth-proxy"],
 
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/backup-retention"],
-
-    "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:alan/library/book-of-everything"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 

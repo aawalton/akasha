@@ -1,11 +1,15 @@
+import type { Answer, Given } from "@akasha/command-system/calling"
+import { refused } from "@akasha/command-system/calling"
 import {
   drawsFromSeed,
   type Leaf,
   selectWithoutReplacement,
-} from "@akasha/book-of-everything/seeded-draw"
-import { leavesOf, type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
-import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
+} from "akasha/alan/library/book-of-everything/seeded-draw/seeded-draw.module.code.ts"
+import {
+  leavesOf,
+  type Topic,
+  topicTreeIn,
+} from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
 
 const INPUT = 1
 

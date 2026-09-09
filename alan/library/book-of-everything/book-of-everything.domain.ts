@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const bookOfEverything = {
   id: "01a06584-9bf3-7008-b597-8cc5e6e6c3e6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "book-of-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
-  manifest: "json",
   parts: [
     "page-type/learn-everything-topic",
     "page-type/mastery-level",
@@ -43,4 +42,4 @@ export const bookOfEverything = {
       statement: "How far Alan has mastered each part of the map is kept with the part.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

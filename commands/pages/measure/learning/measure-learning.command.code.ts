@@ -1,6 +1,10 @@
-import { everyTopic, type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
+import {
+  everyTopic,
+  type Topic,
+  topicTreeIn,
+} from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
 
 const INPUT = 1
 
