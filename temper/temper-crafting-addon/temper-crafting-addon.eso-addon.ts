@@ -8,7 +8,7 @@ export const temperCraftingAddon = {
   manifest: "json",
   addonManifest: "json",
   bindings: "xml",
-  bundleEntrySlug: "crafting-entry",
+  bundleEntry: "crafting-entry",
   partSlugs: [
     "module/craft-account-init",
     "module/craft-blueprint-furnisher",

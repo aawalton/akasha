@@ -7,7 +7,7 @@ export const temperLibAddonMenuOrderListBox = {
   definition: "a LibAddonMenu-2.0 widget with a list a player puts into an order by hand",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "module/order-list-box-entry",
+  bundleEntry: "module/order-list-box-entry",
   partSlugs: [
     "module/order-list-box-build",
     "module/order-list-box-casts",

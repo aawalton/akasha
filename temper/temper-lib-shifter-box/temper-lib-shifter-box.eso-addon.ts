@@ -7,7 +7,7 @@ export const temperLibShifterBox = {
   definition: "two side-by-side lists an addon shifts entries between",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "shifter-main",
+  bundleEntry: "shifter-main",
   partSlugs: [
     "module/shifter-types",
     "module/shifter-casts",

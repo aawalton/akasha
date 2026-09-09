@@ -8,7 +8,7 @@ export const temperLibMediaProvider = {
   manifest: "json",
   addonManifest: "json",
   siblingManifest: "json",
-  bundleEntrySlug: "media-main",
+  bundleEntry: "media-main",
   partSlugs: [
     "eso-interface/media-console-backupfont-jp",
     "eso-interface/media-console-backupfont-zh",

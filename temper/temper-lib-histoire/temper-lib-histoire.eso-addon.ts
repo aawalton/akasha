@@ -7,7 +7,7 @@ export const temperLibHistoire = {
   definition: "the guild history the game drops kept for other add-ons to read",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "histoire-main",
+  bundleEntry: "histoire-main",
   partSlugs: [
     "module/histoire-types",
     "module/histoire-casts",

@@ -7,7 +7,7 @@ export const temperInterfaceAddon = {
   definition: "the add-on holding the interface tweaks that no other add-on has a home for",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "module/interface-entry",
+  bundleEntry: "module/interface-entry",
   bindings: "xml",
   interfaceSlugs: ["eso-interface/fcocs-virtuals"],
   partSlugs: [

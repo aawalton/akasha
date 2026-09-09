@@ -8,7 +8,7 @@ export const temperLibExtendedJournal = {
   manifest: "json",
   addonManifest: "json",
   bindings: "xml",
-  bundleEntrySlug: "journal-main",
+  bundleEntry: "journal-main",
   partSlugs: [
     "module/journal-shape",
     "module/journal-casts",

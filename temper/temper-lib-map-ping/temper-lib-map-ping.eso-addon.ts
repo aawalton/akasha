@@ -7,7 +7,7 @@ export const temperLibMapPing = {
   definition: "the game's map ping functions wrapped in one place every addon reaches",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "map-ping-main",
+  bundleEntry: "map-ping-main",
   partSlugs: [
     "module/map-ping-api",
     "module/map-ping-casts",

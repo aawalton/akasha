@@ -9,7 +9,7 @@ export const temperCollectionsAddon = {
   manifest: "json",
   addonManifest: "json",
   bindings: "xml",
-  bundleEntrySlug: "collections-addon-entry",
+  bundleEntry: "collections-addon-entry",
   partSlugs: [
     "eso-interface/item-browser-layout",
     "eso-interface/lorebooks-report-layout",

@@ -7,7 +7,7 @@ export const temperCompanionsAddon = {
   definition: "the add-on a player reads a companion's gear and skills from and aims at a build",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "companions-entry",
+  bundleEntry: "companions-entry",
   bindings: "xml",
   gitIgnore: "gitignore",
   luaModuleSlugs: ["lua-module/companions-config"],

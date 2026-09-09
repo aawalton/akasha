@@ -8,7 +8,7 @@ export const temperCharactersAddon = {
     "the add-on reading each character's completion out of the game and showing what is left to do",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "characters-entry",
+  bundleEntry: "characters-entry",
   bindings: "xml",
   luaModuleSlugs: ["lua-module/characters-config-global"],
   partSlugs: [

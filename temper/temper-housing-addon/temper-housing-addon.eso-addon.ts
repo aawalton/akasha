@@ -7,7 +7,7 @@ export const temperHousingAddon = {
   definition: "the add-on for travelling to a house, whether a friend's, your own or a shared one",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "housing-entry",
+  bundleEntry: "housing-entry",
   bindings: "xml",
   partSlugs: [
     "module/housing-addon-names",

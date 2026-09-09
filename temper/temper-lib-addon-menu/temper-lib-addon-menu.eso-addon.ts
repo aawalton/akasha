@@ -7,7 +7,7 @@ export const temperLibAddonMenu = {
   definition: "the settings panel other add-ons declare their options to",
   manifest: "json",
   addonManifest: "json",
-  bundleEntrySlug: "module/addon-menu-entry-point",
+  bundleEntry: "module/addon-menu-entry-point",
   partSlugs: [
     "module/addon-menu-addon-list",
     "module/addon-menu-casts",
