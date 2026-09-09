@@ -37,7 +37,7 @@ export const alanHarness = {
     "domain/geo-io",
     "domain/web-static-assets",
     "domain/web-security-headers",
-    "workspace-package/web-page-answers",
+    "domain/web-page-answers",
     "domain/workspace-paths",
     "domain/web-build-version",
     "domain/recurrence",

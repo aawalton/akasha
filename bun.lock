@@ -38,6 +38,7 @@
         "@akasha/spotify": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
+        "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
@@ -285,15 +286,6 @@
       "name": "@akasha/voice-core",
       "dependencies": {
         "zod": "^4.3.6",
-      },
-    },
-    "alan/harness/web-page-answers": {
-      "name": "@akasha/web-page-answers",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/supabase-rr": "workspace:*",
-        "lucide-react": "^0.576.0",
       },
     },
     "alan/music/choosing": {
@@ -966,7 +958,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-page-answers": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -1990,7 +1981,6 @@
         "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/web-page-answers": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
         "isbot": "^5.1.36",
@@ -2438,8 +2428,6 @@
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
-
-    "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 

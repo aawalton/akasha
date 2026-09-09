@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const webPageAnswers = {
   id: "01a0655a-b2a8-78a3-9dec-43e67b15bf10",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "web-page-answers",
   definition: "what a browser asking a site about pages and nav icons is answered with",
-  manifest: "json",
   parts: [
     "module/answer-page-types",
     "module/answer-page-write",
@@ -28,4 +27,4 @@ export const webPageAnswers = {
       statement: "The three answers reaching a service-role client sit behind a `.server` folder.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

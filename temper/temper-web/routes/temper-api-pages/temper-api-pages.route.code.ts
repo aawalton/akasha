@@ -1,4 +1,4 @@
-import { answerPages } from "@akasha/web-page-answers/answer-pages"
+import { answerPages } from "akasha/alan/harness/web-page-answers/.server/answer-pages/answer-pages.module.code.ts"
 
 export async function loader({
   request,

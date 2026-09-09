@@ -66,7 +66,6 @@
     "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/web-page-answers": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "class-variance-authority": "^0.7.1",
     "isbot": "^5.1.36",
