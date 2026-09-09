@@ -95,6 +95,10 @@ export const renamePagePropertyPropertySlug = {
         "The pages whose records are written are the pages of every page type declaring that record.",
     },
     {
+      invariantKind: "gap",
+      statement: "A value a page keeps beside the page rather than in it has its key spelled anew.",
+    },
+    {
       invariantKind: "departure",
       statement: "The key the records sit under is the one the record's page states.",
     },
