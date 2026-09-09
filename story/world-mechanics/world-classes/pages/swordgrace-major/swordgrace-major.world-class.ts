@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const swordgraceMajor = {
   id: "01a06586-0a61-71ab-bf4a-ba51ab8d5530",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "swordgrace-major",
   title: "Swordgrace Major",
   world: "the-wandering-inn",
