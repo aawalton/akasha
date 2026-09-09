@@ -65,7 +65,6 @@
     "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
-    "@akasha/temper-capture-host": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",

@@ -1,9 +1,9 @@
-import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
 } from "@akasha/temper-capture-shapes/lore-library-catalog"
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 
 export const loreLibraryBookSchema = z

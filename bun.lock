@@ -44,7 +44,6 @@
         "@akasha/temper-build-hash": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
@@ -1072,12 +1071,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
       },
     },
-    "temper/capture-host": {
-      "name": "@akasha/temper-capture-host",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "temper/capture-sales-addon": {
       "name": "@akasha/temper-capture-sales-addon",
       "dependencies": {
@@ -1133,7 +1126,6 @@
     "temper/completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1519,7 +1511,6 @@
       "name": "@akasha/temper-items-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
@@ -1970,8 +1961,6 @@
     "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/build-support"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
-
-    "@akasha/temper-capture-host": ["@akasha/temper-capture-host@workspace:temper/capture-host"],
 
     "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
 

@@ -1,5 +1,5 @@
-import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
 import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 
 const achievementCatalogEntrySchema = z

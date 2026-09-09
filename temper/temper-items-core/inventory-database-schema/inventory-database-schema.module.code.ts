@@ -1,4 +1,4 @@
-import { assertSchemaMatchesPayload } from "@akasha/temper-capture-host/assert-schema-matches-payload"
+import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
 import type { InventoryDatabase } from "../inventory-types/inventory-types.module.code.ts"
 
