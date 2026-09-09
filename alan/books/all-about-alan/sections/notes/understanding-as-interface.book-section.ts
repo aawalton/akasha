@@ -7,6 +7,6 @@ export const understandingAsInterface = {
   title: "Understanding as interface",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

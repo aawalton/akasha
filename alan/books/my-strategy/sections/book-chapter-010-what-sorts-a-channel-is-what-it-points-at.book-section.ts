@@ -8,6 +8,6 @@ export const bookChapter010WhatSortsAChannelIsWhatItPointsAt = {
   sectionOf: "my-strategy",
   position: 10,
   partOfCollections: ["my-strategy"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

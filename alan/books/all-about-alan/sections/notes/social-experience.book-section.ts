@@ -9,6 +9,6 @@ export const socialExperience = {
   description:
     "Social experience — fatigue, eye contact, masking, conversation depth, expression-reading, communication style, group size, empathy.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

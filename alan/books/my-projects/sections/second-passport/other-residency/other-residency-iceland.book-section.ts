@@ -8,6 +8,6 @@ export const otherResidencyIceland = {
   sectionOf: "book-section/second-passport/other-residency",
   description: "Iceland residency paths (May 2026 snapshot).",
   partOfCollections: ["book-section/second-passport/other-residency"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

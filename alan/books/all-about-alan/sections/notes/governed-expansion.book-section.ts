@@ -7,6 +7,6 @@ export const governedExpansion = {
   title: "The Level-5 tell and governed expansion",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

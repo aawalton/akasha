@@ -9,6 +9,6 @@ export const cost = {
   description:
     "Total cost stack — PV + battery + service panel + EV chargers, pre-ITC and post-ITC, three demand scenarios. ITC status uncertainty called out.",
   partOfCollections: ["book-section/solar-power/sizing"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

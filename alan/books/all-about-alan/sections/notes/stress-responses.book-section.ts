@@ -9,6 +9,6 @@ export const stressResponses = {
   description:
     "Stress responses — meltdown and shutdown as symptom labels, the five sympathetic/parasympathetic modes (fight, flight, freeze, fawn, flop) as causes, and integration with the safety scale.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

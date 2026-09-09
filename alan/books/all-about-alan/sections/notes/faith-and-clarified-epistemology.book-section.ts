@@ -7,6 +7,6 @@ export const faithAndClarifiedEpistemology = {
   title: "Faith and the clarified epistemology",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

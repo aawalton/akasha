@@ -7,6 +7,6 @@ export const ballroomDerivedBodyControl = {
   title: "Ballroom-derived body control",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

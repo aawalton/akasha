@@ -9,6 +9,6 @@ export const euCitizenshipBelgium = {
   description:
     "All paths to Belgian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
   partOfCollections: ["book-section/second-passport/eu-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

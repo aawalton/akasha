@@ -9,6 +9,6 @@ export const nonHabituation = {
   description:
     "Non-habituation — autism mechanism root; sensory habituation that doesn't happen, and the costs that follow.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

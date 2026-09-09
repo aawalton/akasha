@@ -9,6 +9,6 @@ export const sequence = {
   description:
     "Recommended project sequence for a 1970s 6000 sq ft Provo house — audit, retrofit, post-retrofit verification, then parallel heat pump and PV.",
   partOfCollections: ["book-section/solar-power/envelope"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

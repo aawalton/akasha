@@ -7,5 +7,5 @@ export const allAboutAlan = {
   title: "All About Alan",
   description:
     "This is the orientation an `/abby` interviewer loads before the first question. Its job is narrow and specific: surface the **unusual, easy-to-miss things** about Alan — the places where a normal-person prior would mislead you — so you don't open cold and don't spend the session re-deriving the architecture.",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies AlanBook

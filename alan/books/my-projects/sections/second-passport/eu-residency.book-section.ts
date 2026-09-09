@@ -9,6 +9,6 @@ export const euResidency = {
   description:
     "The routes to residency in a European Union member country, one section for each country and a summary reading across them all. Residency is the step most citizenship routes are counted from, so the clock a country runs on begins here rather than at the citizenship section.",
   partOfCollections: ["book-section/my-projects/second-passport"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

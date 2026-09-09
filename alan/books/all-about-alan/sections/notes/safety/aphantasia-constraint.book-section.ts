@@ -7,6 +7,6 @@ export const aphantasiaConstraint = {
   title: "Safety — the aphantasia constraint on intervention design",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,6 +9,6 @@ export const activityBudgeting = {
   description:
     "Activity budgeting — the operating rule for which activities are free, tolerable, intolerable, and initiate-able as a function of current Safety state and baseline.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

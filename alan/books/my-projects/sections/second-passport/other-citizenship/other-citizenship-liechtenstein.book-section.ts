@@ -8,6 +8,6 @@ export const otherCitizenshipLiechtenstein = {
   sectionOf: "book-section/second-passport/other-citizenship",
   description: "Liechtenstein citizenship paths (May 2026 snapshot).",
   partOfCollections: ["book-section/second-passport/other-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

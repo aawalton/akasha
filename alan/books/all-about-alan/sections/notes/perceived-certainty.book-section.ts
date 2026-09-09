@@ -9,6 +9,6 @@ export const perceivedCertainty = {
   description:
     "Perceived-certainty gap — the asymmetry between Alan's actual confidence in a claim and the confidence listeners project onto his flat-assertion phrasing, with mechanism, scope, cost, and mitigation.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

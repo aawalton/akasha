@@ -8,6 +8,6 @@ export const bookChapter009TheBoundaryIsAReachabilityQuestion = {
   sectionOf: "my-strategy",
   position: 9,
   partOfCollections: ["my-strategy"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

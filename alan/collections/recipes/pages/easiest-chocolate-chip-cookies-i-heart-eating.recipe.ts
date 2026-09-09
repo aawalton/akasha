@@ -9,6 +9,6 @@ export const easiestChocolateChipCookiesIHeartEating = {
   position: 0,
   ownLength: 6250,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies Recipe

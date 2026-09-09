@@ -8,6 +8,6 @@ export const bookChapter007Stability = {
   sectionOf: "my-strategy",
   position: 7,
   partOfCollections: ["my-strategy"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

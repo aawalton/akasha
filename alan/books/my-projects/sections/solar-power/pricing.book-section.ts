@@ -9,6 +9,6 @@ export const pricing = {
   description:
     "Rooftop solar pricing — component breakdown, levers, and cost-curve history for residential US (with Utah context).",
   partOfCollections: ["book-section/my-projects/solar-power"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

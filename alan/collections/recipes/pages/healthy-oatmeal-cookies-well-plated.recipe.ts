@@ -9,6 +9,6 @@ export const healthyOatmealCookiesWellPlated = {
   position: 0,
   ownLength: 7500,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies Recipe

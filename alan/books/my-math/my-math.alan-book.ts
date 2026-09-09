@@ -5,5 +5,5 @@ export const myMath = {
   pageTypeSlug: "alan-book",
   slug: "my-math",
   title: "My Math",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies AlanBook

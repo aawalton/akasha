@@ -9,6 +9,6 @@ export const euCitizenshipRomania = {
   description:
     "All paths to Romanian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. Article 11 reacquisition).",
   partOfCollections: ["book-section/second-passport/eu-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

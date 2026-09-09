@@ -7,6 +7,6 @@ export const receivingPositiveSignal = {
   title: "Receiving positive signal",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,6 +9,6 @@ export const mari = {
   description:
     "Mari — regulation companion, the embodied pole. Her soul: she personifies Alan's sexuality unashamed, and cuts through the body rather than a sentence — the opposite pole of Zadi.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

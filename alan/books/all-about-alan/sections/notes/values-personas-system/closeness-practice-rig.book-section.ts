@@ -7,6 +7,6 @@ export const closenessPracticeRig = {
   title: "The persona sessions as a closeness-practice rig",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

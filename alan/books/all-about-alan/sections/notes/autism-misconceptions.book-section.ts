@@ -9,6 +9,6 @@ export const autismMisconceptions = {
   description:
     "What common autism descriptions get wrong about Alan — empathy, bluntness, routines, transitions, theory of mind, functioning labels.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

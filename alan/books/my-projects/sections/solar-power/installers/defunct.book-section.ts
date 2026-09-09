@@ -8,6 +8,6 @@ export const defunct = {
   sectionOf: "book-section/solar-power/installers",
   description: "Defunct, exited, or red-flagged solar installers — do not contract.",
   partOfCollections: ["book-section/solar-power/installers"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

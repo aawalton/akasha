@@ -7,6 +7,6 @@ export const arrowsInQuiver = {
   title: "Arrows in quiver",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

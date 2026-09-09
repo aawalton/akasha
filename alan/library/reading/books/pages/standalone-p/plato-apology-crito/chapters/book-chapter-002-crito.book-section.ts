@@ -10,6 +10,6 @@ export const bookChapter002Crito = {
   ownLength: 5341,
   position: 2,
   partOfCollections: ["plato-apology-crito"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

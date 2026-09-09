@@ -9,6 +9,6 @@ export const otherCitizenshipUk = {
   description:
     "UK citizenship paths (May 2026 snapshot). For residency paths, see ../residency/uk.md.",
   partOfCollections: ["book-section/second-passport/other-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

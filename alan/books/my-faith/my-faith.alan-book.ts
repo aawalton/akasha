@@ -6,5 +6,5 @@ export const myFaith = {
   slug: "my-faith",
   title: "My Faith",
   description: "This is the orientation the `/talia`",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies AlanBook

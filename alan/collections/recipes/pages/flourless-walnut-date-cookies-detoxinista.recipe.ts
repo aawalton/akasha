@@ -9,6 +9,6 @@ export const flourlessWalnutDateCookiesDetoxinista = {
   position: 0,
   ownLength: 8750,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies Recipe

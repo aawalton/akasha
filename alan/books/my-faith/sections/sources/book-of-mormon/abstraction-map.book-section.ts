@@ -7,6 +7,6 @@ export const abstractionMap = {
   title: "Domain abstraction map — The Book of Mormon (Layer 1)",
   sectionOf: "my-faith",
   partOfCollections: ["my-faith"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

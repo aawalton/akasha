@@ -9,6 +9,6 @@ export const empathyAlexithymiaParadox = {
   description:
     "Empathy + alexithymia paradox — increased in-moment empathy alongside total emotional alexithymia; resolved via in-moment perception vs. recall/imagination.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

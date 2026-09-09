@@ -9,6 +9,6 @@ export const skilledStream = {
   description:
     "Australia skilled-migration residency paths: points-tested 189/190/491, employer-sponsored 482 (SID)/186/494, and the National Innovation Visa 858 (May 2026 snapshot).",
   partOfCollections: ["book-section/other-residency/other-residency-australia"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

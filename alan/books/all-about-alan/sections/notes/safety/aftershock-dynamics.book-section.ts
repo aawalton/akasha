@@ -7,6 +7,6 @@ export const aftershockDynamics = {
   title: "Safety — aftershock dynamics after exposure damage",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

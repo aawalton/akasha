@@ -8,6 +8,6 @@ export const adhdAsNeurotype = {
   sectionOf: "all-about-alan",
   description: "ADHD as a neurotype — Alan's working definition in his own terms.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

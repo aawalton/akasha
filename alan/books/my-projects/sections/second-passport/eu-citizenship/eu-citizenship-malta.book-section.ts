@@ -9,6 +9,6 @@ export const euCitizenshipMalta = {
   description:
     "All paths to Maltese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (especially post-ECJ-ruling MEIN status).",
   partOfCollections: ["book-section/second-passport/eu-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

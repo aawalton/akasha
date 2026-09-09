@@ -8,6 +8,6 @@ export const bookChapter001TwoChannels = {
   sectionOf: "my-strategy",
   position: 1,
   partOfCollections: ["my-strategy"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

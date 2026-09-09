@@ -9,6 +9,6 @@ export const assessment = {
   description:
     "Assessment options for the envelope — blower door, IR thermography, Manual J, BPI / RESNET audits — with current pricing and what each one resolves.",
   partOfCollections: ["book-section/solar-power/envelope"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

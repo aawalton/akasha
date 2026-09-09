@@ -7,6 +7,6 @@ export const theHierarchy = {
   title: "The hierarchy, and the index on the word",
   sectionOf: "my-math",
   partOfCollections: ["my-math"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

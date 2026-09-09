@@ -8,6 +8,6 @@ export const bookChapter001LegibleNumbers = {
   sectionOf: "my-math",
   position: 1,
   partOfCollections: ["my-math"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

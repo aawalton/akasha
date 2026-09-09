@@ -9,6 +9,6 @@ export const topology = {
   description:
     "Inverter topology (microinverter vs string + optimizers vs hybrid string + battery) and service-panel decision (200 A + SPAN vs 400 A) for the 49 kWp + 40 kWh planning case.",
   partOfCollections: ["book-section/solar-power/sizing"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

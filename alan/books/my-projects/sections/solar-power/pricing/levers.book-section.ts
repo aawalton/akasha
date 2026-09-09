@@ -8,6 +8,6 @@ export const levers = {
   sectionOf: "book-section/solar-power/pricing",
   description: "Levers that move residential solar price up or down for a specific quote.",
   partOfCollections: ["book-section/solar-power/pricing"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,6 +9,6 @@ export const thermoregulation = {
   description:
     "Body-temperature regulation — internal temperature tracks the safety level rather than ambient, with directional inversion (hot at high safety, cold at low) and an output-side production failure.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

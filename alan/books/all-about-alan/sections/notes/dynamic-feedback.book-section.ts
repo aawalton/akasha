@@ -8,6 +8,6 @@ export const dynamicFeedback = {
   sectionOf: "all-about-alan",
   description: "Dynamic feedback loop between stress-capacity surplus and safety level.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

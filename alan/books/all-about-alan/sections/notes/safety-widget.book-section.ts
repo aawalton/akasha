@@ -7,6 +7,6 @@ export const safetyWidget = {
   title: "The safety widget",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

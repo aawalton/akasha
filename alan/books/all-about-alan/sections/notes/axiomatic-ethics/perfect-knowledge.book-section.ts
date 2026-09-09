@@ -7,6 +7,6 @@ export const perfectKnowledge = {
   title: "Perfect knowledge — the two oracles, the tick, and scale-freedom",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

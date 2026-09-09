@@ -9,6 +9,6 @@ export const suicidalIdeation = {
   description:
     "Suicidal ideation — the lifelong arc, the age-7 first episode stopped by my own epistemic rigor, and survivors' stories (real and fictional) as the outside input that buys one more day.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

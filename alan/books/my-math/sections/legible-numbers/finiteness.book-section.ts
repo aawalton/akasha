@@ -7,6 +7,6 @@ export const finiteness = {
   title: "The legible set is finite, and almost every real is illegible",
   sectionOf: "my-math",
   partOfCollections: ["my-math"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

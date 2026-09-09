@@ -9,6 +9,6 @@ export const euResidencyFinland = {
   description:
     "Finland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/finland.md.",
   partOfCollections: ["book-section/second-passport/eu-residency"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

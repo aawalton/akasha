@@ -9,6 +9,6 @@ export const autismBurnout = {
   description:
     "Autistic burnout — Alan's 18-year compound decline (sustained ~50% deficit between stressors and recovery), the catastrophic low, and the current recovery trajectory.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

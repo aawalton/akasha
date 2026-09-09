@@ -9,6 +9,6 @@ export const aphantasiaMechanism = {
   description:
     "Aphantasia mechanism — three-stage Perception/Encoding/Recall model, with Alan's Recall stage broken.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

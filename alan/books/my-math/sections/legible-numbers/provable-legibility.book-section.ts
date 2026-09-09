@@ -7,6 +7,6 @@ export const provableLegibility = {
   title: "Provable legibility",
   sectionOf: "my-math",
   partOfCollections: ["my-math"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

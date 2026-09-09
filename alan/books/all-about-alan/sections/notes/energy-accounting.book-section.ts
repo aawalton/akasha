@@ -8,6 +8,6 @@ export const energyAccounting = {
   sectionOf: "all-about-alan",
   description: "Energy-accounting practice — 10+ years of minute-level resource tracking.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,6 +8,6 @@ export const bookChapter008WhenCodeRunsThroughTheCodeRepo = {
   sectionOf: "my-strategy",
   position: 8,
   partOfCollections: ["my-strategy"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

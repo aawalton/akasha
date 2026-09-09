@@ -7,6 +7,6 @@ export const dryRunEvidence = {
   title: "Exp-4 harness — dry-run evidence (agent-verified, no Alan)",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

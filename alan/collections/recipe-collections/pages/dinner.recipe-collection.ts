@@ -9,6 +9,6 @@ export const dinner = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-applicable",
 } as const satisfies RecipeCollection

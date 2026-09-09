@@ -7,6 +7,6 @@ export const beingUnderstood = {
   title: "Being understood — the alignment ladder and the accepted gap",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

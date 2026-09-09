@@ -9,6 +9,6 @@ export const studentGraduate = {
   description:
     "Australia student/graduate residency bridges: student visa 500 and Temporary Graduate 485, with the 2024 Genuine-Student and cap changes (May 2026 snapshot).",
   partOfCollections: ["book-section/other-residency/other-residency-australia"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

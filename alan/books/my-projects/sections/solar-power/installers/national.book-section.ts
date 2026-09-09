@@ -8,6 +8,6 @@ export const national = {
   sectionOf: "book-section/solar-power/installers",
   description: "National multi-state solar installers with Utah / Provo presence.",
   partOfCollections: ["book-section/solar-power/installers"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

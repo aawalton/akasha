@@ -7,5 +7,5 @@ export const bookOfEverything = {
   title: "Book of Everything",
   description:
     "<!-- Where his model thins — the edge located by the probe that set D. Becomes next session's bites. -->",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies AlanBook

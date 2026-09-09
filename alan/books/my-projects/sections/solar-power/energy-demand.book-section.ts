@@ -9,6 +9,6 @@ export const energyDemand = {
   description:
     "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
   partOfCollections: ["book-section/my-projects/solar-power"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

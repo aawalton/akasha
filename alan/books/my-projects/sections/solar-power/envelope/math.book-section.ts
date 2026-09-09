@@ -9,6 +9,6 @@ export const math = {
   description:
     "Heating-load-reduction math — retrofit % → kWh/yr saved → PV kWp removed → dollars. Compares envelope-first, solar-first, and parallel orderings.",
   partOfCollections: ["book-section/solar-power/envelope"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

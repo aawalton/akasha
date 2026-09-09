@@ -9,6 +9,6 @@ export const sizing = {
   description:
     "Annual net-zero sizing math for the solar power project — PV, battery, inverter, service panel, roof area, and cost stack with one planning-case recommendation.",
   partOfCollections: ["book-section/my-projects/solar-power"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

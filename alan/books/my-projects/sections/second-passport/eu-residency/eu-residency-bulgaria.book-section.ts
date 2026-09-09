@@ -9,6 +9,6 @@ export const euResidencyBulgaria = {
   description:
     "Bulgaria residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/bulgaria.md.",
   partOfCollections: ["book-section/second-passport/eu-residency"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

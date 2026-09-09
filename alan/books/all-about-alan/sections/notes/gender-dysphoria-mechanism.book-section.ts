@@ -7,6 +7,6 @@ export const genderDysphoriaMechanism = {
   title: "Alan's model of gender",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

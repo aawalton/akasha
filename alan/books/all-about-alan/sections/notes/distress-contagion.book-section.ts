@@ -7,6 +7,6 @@ export const distressContagion = {
   title: "Distress contagion — a conditioned threat forecast",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

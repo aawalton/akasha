@@ -9,6 +9,6 @@ export const totals = {
   description:
     "Aggregate annual energy demand, monthly distribution table, peak demand stack, service-panel sizing implications for the all-electric Provo home.",
   partOfCollections: ["book-section/solar-power/energy-demand"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,6 +9,6 @@ export const subSystems = {
   description:
     "Concrete sub-systems already named — index of promoted dedicated files plus deferred threads. All starter sub-systems have been promoted.",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

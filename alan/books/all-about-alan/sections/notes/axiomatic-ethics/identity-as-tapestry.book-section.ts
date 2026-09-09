@@ -7,6 +7,6 @@ export const identityAsTapestry = {
   title: "Identity, duty, and partiality",
   sectionOf: "all-about-alan",
   partOfCollections: ["all-about-alan"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,6 +9,6 @@ export const euCitizenshipItaly = {
   description:
     "All paths to Italian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. post-Tajani-decree jure sanguinis state).",
   partOfCollections: ["book-section/second-passport/eu-citizenship"],
-  unitSlug: "words",
+  unit: "words",
   chapterText: "md",
 } as const satisfies BookSection
