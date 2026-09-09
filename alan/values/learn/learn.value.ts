@@ -8,7 +8,7 @@ export const learn = {
   label: "Learn",
   description:
     "Learn represents my progress towards understanding truth in all domains of knowledge.",
-  colorSlug: "green",
+  color: "green",
   place: 4,
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",

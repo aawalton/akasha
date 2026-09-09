@@ -8,7 +8,7 @@ export const love = {
   label: "Love",
   description:
     "Love represents my relationships, with the highest priority being my relationships with myself, my spouse, and my kids.",
-  colorSlug: "red",
+  color: "red",
   place: 2,
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",

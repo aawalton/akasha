@@ -10,12 +10,12 @@ import type { QuerySlug } from "../../readouts/properties/query-slug.text-proper
 import type { Enabled } from "../../readouts/properties/readout-enabled.boolean-property.ts"
 import type { ScaleSlug } from "../../readouts/properties/scale-slug.relation-property.ts"
 import type { Unit } from "../../readouts/properties/unit.text-property.ts"
-import type { ValueColorSlug } from "./properties/value-color-slug.relation-property.ts"
+import type { ValueColor } from "./properties/value-color.relation-property.ts"
 
 export type Value = Domain & {
   label: Label
   description?: Description
-  colorSlug?: ValueColorSlug
+  color?: ValueColor
   place: Place
   unit?: Unit
   scaleSlug?: ScaleSlug
@@ -33,7 +33,7 @@ export const value = {
   definition: "what a person is spending their life on",
   pluralSlug: "values",
   partSlugs: [
-    "relation-property/value-color-slug",
+    "relation-property/value-color",
     "value/faith",
     "value/fun",
     "value/health",
@@ -44,7 +44,7 @@ export const value = {
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "text-property/label", required: true, many: false },
-    { pagePropertySlug: "relation-property/value-color-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/value-color", required: false, many: false },
     { pagePropertySlug: "number-property/place", required: true, many: false },
     { pagePropertySlug: "text-property/unit", required: false, many: false },
     { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },

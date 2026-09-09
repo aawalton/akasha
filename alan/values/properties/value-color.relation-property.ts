@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type ValueColorSlug = Slug
+export type ValueColor = Slug
 
-export const valueColorSlug = {
+export const valueColor = {
   id: "01a06d7a-e9f7-7f1b-b0c4-15f3742e8352",
   pageTypeSlug: "relation-property",
-  slug: "value-color-slug",
-  propertySlug: "color-slug",
+  slug: "value-color",
+  propertySlug: "color",
   definition: "the color a value is always drawn in",
   targetPageTypeSlug: "page-type/color",
   invariants: [

@@ -8,7 +8,7 @@ export const fun = {
   label: "Fun",
   description:
     "Fun represents my time spent being creative and playful, doing things because they are interesting and not for any higher instrumental purpose.",
-  colorSlug: "yellow",
+  color: "yellow",
   place: 5,
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",

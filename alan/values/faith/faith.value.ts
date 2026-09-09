@@ -8,7 +8,7 @@ export const faith = {
   label: "Faith",
   description:
     "Faith represents my developing understanding of myself and my alignment with the identities I have chosen.",
-  colorSlug: "purple",
+  color: "purple",
   place: 1,
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",

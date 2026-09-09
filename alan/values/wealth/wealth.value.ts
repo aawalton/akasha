@@ -8,7 +8,7 @@ export const wealth = {
   label: "Wealth",
   description:
     "Wealth represents my ability to exist independent from the constraints of the world, including freedom of time, freedom of attention, freedom of location, and freedom of action.",
-  colorSlug: "orange",
+  color: "orange",
   place: 6,
   unit: "green day units",
   scaleSlug: "readout-scale/green-day-units",
