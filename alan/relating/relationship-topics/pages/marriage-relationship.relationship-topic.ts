@@ -5,7 +5,7 @@ export const marriageRelationship = {
   pageTypeSlug: "relationship-topic",
   slug: "marriage-relationship",
   title: "Marriage Relationship",
-  relationshipTopicPersonSlugs: ["jenny"],
+  relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

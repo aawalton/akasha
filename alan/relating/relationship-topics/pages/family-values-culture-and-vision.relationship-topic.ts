@@ -5,7 +5,7 @@ export const familyValuesCultureAndVision = {
   pageTypeSlug: "relationship-topic",
   slug: "family-values-culture-and-vision",
   title: "Family Values, Culture, And Vision",
-  relationshipTopicPersonSlugs: ["jenny"],
+  relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

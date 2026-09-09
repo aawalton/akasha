@@ -6,7 +6,7 @@ export const gifts = {
   slug: "gifts",
   title: "Gifts",
   relationshipTopicParentSlug: "being-intentional",
-  relationshipTopicPersonSlugs: ["jenny"],
+  relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

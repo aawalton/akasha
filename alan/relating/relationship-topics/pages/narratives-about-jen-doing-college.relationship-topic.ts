@@ -6,7 +6,7 @@ export const narrativesAboutJenDoingCollege = {
   slug: "narratives-about-jen-doing-college",
   title: "Narratives About Jen Doing College",
   relationshipTopicParentSlug: "narratives",
-  relationshipTopicPersonSlugs: ["jenny"],
+  relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

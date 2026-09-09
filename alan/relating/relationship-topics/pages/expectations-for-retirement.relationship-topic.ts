@@ -6,7 +6,7 @@ export const expectationsForRetirement = {
   slug: "expectations-for-retirement",
   title: "Expectations For Retirement",
   relationshipTopicParentSlug: "expectations-for-2026",
-  relationshipTopicPersonSlugs: ["jenny"],
+  relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic
