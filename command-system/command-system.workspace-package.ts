@@ -32,7 +32,6 @@ export const commandSystem = {
     "module/folder-clearing",
     "module/argument-reading",
     "module/body-merging",
-    "module/patching",
     "module/drafting",
     "module/applying",
     "module/mechanical-landing",

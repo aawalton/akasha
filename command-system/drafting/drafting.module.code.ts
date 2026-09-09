@@ -3,6 +3,14 @@ import { join } from "node:path"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import {
+  blobsIn,
+  bodyOf,
+  type Change,
+  dropBlobs,
+  keepBlobs,
+  patchOf,
+} from "../../commands/modules/patching/patching.module.code.ts"
+import {
   clashing,
   markedAway,
   mergedOnto,
@@ -12,14 +20,6 @@ import type { Kind } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
-import {
-  blobsIn,
-  bodyOf,
-  type Change,
-  dropBlobs,
-  keepBlobs,
-  patchOf,
-} from "../patching/patching.module.code.ts"
 
 const NO_PAGE = "a path that is no page keeps no patch"
 
