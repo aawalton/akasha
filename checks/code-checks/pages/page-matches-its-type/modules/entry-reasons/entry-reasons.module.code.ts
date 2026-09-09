@@ -7,10 +7,8 @@ import type { Shadow } from "@akasha/pages/shadow"
 
 const FORMAT = "nameFormat"
 
-const FORMAT_WAS = "nameFormatSlug"
-
 export function formatOf(page: Value): string | null {
-  return textAt(page, FORMAT) ?? textAt(page, FORMAT_WAS)
+  return textAt(page, FORMAT)
 }
 
 const ID = "id"
