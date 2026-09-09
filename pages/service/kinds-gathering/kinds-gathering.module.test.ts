@@ -38,7 +38,7 @@ function typed(
   properties: readonly Declaring[]
 ): undefined {
   filed(root, "page-type", slug, {
-    extendsSlug: above.map((one) => `page-type/${one}`),
+    extends: above.map((one) => `page-type/${one}`),
     properties,
   })
 }
