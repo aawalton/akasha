@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const personaReading = {
   id: "01a06949-b280-754e-ac40-fe17b061a1af",
   pageTypeSlug: "module",
+  type: "module",
   slug: "persona-reading",
   definition:
     "persona pages read back as who she is, with her portrait file and her last message time",

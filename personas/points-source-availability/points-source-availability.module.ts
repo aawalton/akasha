@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const pointsSourceAvailability = {
   id: "01a05b70-a58c-7bba-b4c0-2402fda0261b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "points-source-availability",
   definition: "whether a persona's points may be written given the source she declares",
   code: "ts",

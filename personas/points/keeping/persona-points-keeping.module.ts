@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const personaPointsKeeping = {
   id: "01a082e4-93b8-7fa1-acc9-1b958af98ee5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "persona-points-keeping",
   definition: "the points a persona has earned, kept beside her own page",
   code: "ts",

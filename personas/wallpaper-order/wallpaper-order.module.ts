@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const wallpaperOrder = {
   id: "01a07868-3fef-7b0d-b721-c2f6bf21f5cf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "wallpaper-order",
   definition: "the order personas are tried in when a wallpaper is picked",
   code: "ts",

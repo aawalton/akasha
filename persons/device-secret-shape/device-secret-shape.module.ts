@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const deviceSecretShape = {
   id: "01a05d42-bbca-790f-b10c-1d1b1caed1c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "device-secret-shape",
   definition: "how a device secret is written, and how anything else is told from it",
   code: "ts",

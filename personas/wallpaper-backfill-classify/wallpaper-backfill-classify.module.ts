@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const wallpaperBackfillClassify = {
   id: "01a05b70-a58d-7bfd-877a-45b85a85d661",
   pageTypeSlug: "module",
+  type: "module",
   slug: "wallpaper-backfill-classify",
   definition: "whether a delivered wallpaper's source image can still be pointed at",
   code: "ts",

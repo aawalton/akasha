@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const renderPrompt = {
   id: "01a05b70-a58d-7a82-b208-fbcd6f5976f9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "render-prompt",
   definition: "the prompt text a persona's image is re-rendered from",
   code: "ts",

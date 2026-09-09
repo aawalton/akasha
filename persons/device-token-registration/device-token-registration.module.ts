@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const deviceTokenRegistration = {
   id: "01a05c96-89f5-741d-a9a3-65ffde3552f4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "device-token-registration",
   definition:
     "the push token a device is reached at, kept against whoever has it and read back to reach them",

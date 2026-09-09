@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const personaTargets = {
   id: "01a0657d-a75e-7009-bc7f-b3d878fd5671",
   pageTypeSlug: "module",
+  type: "module",
   slug: "persona-targets",
   definition: "each persona akasha holds, beside the rules by which a message starts her seat",
   code: "ts",

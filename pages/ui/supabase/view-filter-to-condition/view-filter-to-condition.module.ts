@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const viewFilterToCondition = {
   id: "01a05cb4-fefa-7c31-bb93-bd8f415d9342",
   pageTypeSlug: "module",
+  type: "module",
   slug: "view-filter-to-condition",
   definition: "the query condition a view's filters come to",
   code: "ts",
