@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   story: "the-calamitous-bob-stubbed",
   position: 67,
   ownLength: 7749,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1466500/chapter-147-oh-neriad-i-cant-change",

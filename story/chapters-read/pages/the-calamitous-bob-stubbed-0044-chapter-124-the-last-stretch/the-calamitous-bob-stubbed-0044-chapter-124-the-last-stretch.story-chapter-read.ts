@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0044Chapter124TheLastStretch = {
   story: "the-calamitous-bob-stubbed",
   position: 44,
   ownLength: 5923,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1262799/chapter-124-the-last-stretch",

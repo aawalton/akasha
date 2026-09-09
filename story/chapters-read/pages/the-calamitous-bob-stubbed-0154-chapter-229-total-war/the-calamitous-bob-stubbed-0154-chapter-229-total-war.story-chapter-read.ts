@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0154Chapter229TotalWar = {
   story: "the-calamitous-bob-stubbed",
   position: 154,
   ownLength: 6299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2743118/chapter-229-total-war",

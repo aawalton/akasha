@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0101Chapter179HermitKingdom = {
   story: "the-calamitous-bob-stubbed",
   position: 101,
   ownLength: 5730,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1845739/chapter-179-hermit-kingdom",

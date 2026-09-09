@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   story: "the-calamitous-bob-stubbed",
   position: 157,
   ownLength: 5389,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2751190/chapter-232-plain-of-the-gods",

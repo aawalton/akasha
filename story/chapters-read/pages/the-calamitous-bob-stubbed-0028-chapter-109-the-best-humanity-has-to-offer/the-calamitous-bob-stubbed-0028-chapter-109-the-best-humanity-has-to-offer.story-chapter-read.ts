@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0028Chapter109TheBestHumanityHasToOffer = {
   story: "the-calamitous-bob-stubbed",
   position: 28,
   ownLength: 4560,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1133953/chapter-109-the-best-humanity-has-to-offer",

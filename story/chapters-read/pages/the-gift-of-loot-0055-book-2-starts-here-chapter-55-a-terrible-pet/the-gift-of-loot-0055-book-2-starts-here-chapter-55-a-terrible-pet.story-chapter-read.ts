@@ -8,7 +8,7 @@ export const theGiftOfLoot0055Book2StartsHereChapter55ATerriblePet = {
   story: "the-gift-of-loot",
   position: 55,
   ownLength: 2336,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3672148/book-2-starts-here-chapter-55-a-terrible-pet",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0006Chapter87Gone = {
   story: "the-calamitous-bob-stubbed",
   position: 6,
   ownLength: 4465,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/984930/chapter-87-gone",

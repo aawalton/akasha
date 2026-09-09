@@ -8,7 +8,7 @@ export const theGiftOfLoot0047Chapter47HealThyself = {
   story: "the-gift-of-loot",
   position: 47,
   ownLength: 3684,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3595193/chapter-47-heal-thyself",

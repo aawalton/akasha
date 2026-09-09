@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0134Chapter209TheLongNight = {
   story: "the-calamitous-bob-stubbed",
   position: 134,
   ownLength: 6683,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2335623/chapter-209-the-long-night",

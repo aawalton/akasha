@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0153Chapter228ParamBurning = {
   story: "the-calamitous-bob-stubbed",
   position: 153,
   ownLength: 6665,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2739901/chapter-228-param-burning",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0016Chapter97Merls = {
   story: "the-calamitous-bob-stubbed",
   position: 16,
   ownLength: 5894,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1048890/chapter-97-merls",

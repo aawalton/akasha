@@ -8,7 +8,7 @@ export const theGiftOfLoot0051Chapter51ShoppingSpree = {
   story: "the-gift-of-loot",
   position: 51,
   ownLength: 3926,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3640633/chapter-51-shopping-spree",

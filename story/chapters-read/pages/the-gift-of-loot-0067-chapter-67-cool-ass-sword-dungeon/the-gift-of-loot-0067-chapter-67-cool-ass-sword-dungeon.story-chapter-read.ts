@@ -8,7 +8,7 @@ export const theGiftOfLoot0067Chapter67CoolAssSwordDungeon = {
   story: "the-gift-of-loot",
   position: 67,
   ownLength: 2874,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3796427/chapter-67-cool-ass-sword-dungeon",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0150Chapter225TheTricksterRun = {
   story: "the-calamitous-bob-stubbed",
   position: 150,
   ownLength: 5849,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2684111/chapter-225-the-trickster-run",

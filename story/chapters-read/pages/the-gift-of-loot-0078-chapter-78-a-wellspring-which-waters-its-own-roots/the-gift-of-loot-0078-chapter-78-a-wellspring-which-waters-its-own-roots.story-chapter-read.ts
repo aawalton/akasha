@@ -7,7 +7,7 @@ export const theGiftOfLoot0078Chapter78AWellspringWhichWatersItsOwnRoots = {
   story: "story-read/the-gift-of-loot",
   position: 78,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926026",
   source: "royal-road",
   title: "Chapter 78: A Wellspring Which Waters Its Own Roots",

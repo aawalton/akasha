@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0059Chapter139Ascending = {
   story: "the-calamitous-bob-stubbed",
   position: 59,
   ownLength: 5962,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1387144/chapter-139-ascending",

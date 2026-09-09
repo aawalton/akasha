@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0050Chapter130Conscripted = {
   story: "the-calamitous-bob-stubbed",
   position: 50,
   ownLength: 4787,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1306814/chapter-130-conscripted",

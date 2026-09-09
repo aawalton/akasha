@@ -8,7 +8,7 @@ export const theGiftOfLoot0036Chapter36AnEasyDungeonDive = {
   story: "the-gift-of-loot",
   position: 36,
   ownLength: 3715,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3479267/chapter-36-an-easy-dungeon-dive",

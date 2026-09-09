@@ -7,7 +7,7 @@ export const theGiftOfLoot0077Chapter77ARealSecondChance = {
   story: "story-read/the-gift-of-loot",
   position: 77,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3912180",
   source: "royal-road",
   title: "Chapter 77: A Real Second Chance",

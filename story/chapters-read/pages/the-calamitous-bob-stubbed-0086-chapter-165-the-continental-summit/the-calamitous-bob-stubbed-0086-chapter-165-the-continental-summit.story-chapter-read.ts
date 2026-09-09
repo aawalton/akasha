@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0086Chapter165TheContinentalSummit = {
   story: "the-calamitous-bob-stubbed",
   position: 86,
   ownLength: 6056,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1639845/chapter-165-the-continental-summit",

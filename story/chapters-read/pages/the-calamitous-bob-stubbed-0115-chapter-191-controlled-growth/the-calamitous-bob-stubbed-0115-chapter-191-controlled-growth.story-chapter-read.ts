@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0115Chapter191ControlledGrowth = {
   story: "the-calamitous-bob-stubbed",
   position: 115,
   ownLength: 5301,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2040566/chapter-191-controlled-growth",

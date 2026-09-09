@@ -8,7 +8,7 @@ export const theGiftOfLoot0056Chapter56AboutThoseClasses = {
   story: "the-gift-of-loot",
   position: 56,
   ownLength: 2204,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3681380/chapter-56-about-those-classes",

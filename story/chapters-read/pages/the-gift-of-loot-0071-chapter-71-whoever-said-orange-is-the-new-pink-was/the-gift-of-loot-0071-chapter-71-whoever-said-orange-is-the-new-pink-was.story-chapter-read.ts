@@ -8,7 +8,7 @@ export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   story: "the-gift-of-loot",
   position: 71,
   ownLength: 3847,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3844389/chapter-71-whoever-said-orange-is-the-new-pink",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0124ChapterNonCanonCannonVampire = {
   story: "the-calamitous-bob-stubbed",
   position: 124,
   ownLength: 1347,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2166297/chapter-non-canon-cannon-vampire",

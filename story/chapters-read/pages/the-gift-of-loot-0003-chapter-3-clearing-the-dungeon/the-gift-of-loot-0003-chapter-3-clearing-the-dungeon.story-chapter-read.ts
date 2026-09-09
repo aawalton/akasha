@@ -8,7 +8,7 @@ export const theGiftOfLoot0003Chapter3ClearingTheDungeon = {
   story: "the-gift-of-loot",
   position: 3,
   ownLength: 2602,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3227799/chapter-3-clearing-the-dungeon",

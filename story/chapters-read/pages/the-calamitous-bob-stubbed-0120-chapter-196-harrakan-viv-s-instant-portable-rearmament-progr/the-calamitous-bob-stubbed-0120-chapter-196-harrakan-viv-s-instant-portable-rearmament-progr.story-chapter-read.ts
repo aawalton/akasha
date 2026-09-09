@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRea
   story: "the-calamitous-bob-stubbed",
   position: 120,
   ownLength: 5551,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2113781/chapter-196-harrakan-vivs-instant-portable-rearmament",

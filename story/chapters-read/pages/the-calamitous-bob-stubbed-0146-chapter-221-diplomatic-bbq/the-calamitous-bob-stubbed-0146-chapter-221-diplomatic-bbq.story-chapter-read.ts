@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0146Chapter221DiplomaticBbq = {
   story: "the-calamitous-bob-stubbed",
   position: 146,
   ownLength: 4558,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2612287/chapter-221-diplomatic-bbq",

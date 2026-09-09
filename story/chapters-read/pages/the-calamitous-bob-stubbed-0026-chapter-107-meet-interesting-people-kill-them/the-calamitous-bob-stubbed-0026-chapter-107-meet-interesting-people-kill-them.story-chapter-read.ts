@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem 
   story: "the-calamitous-bob-stubbed",
   position: 26,
   ownLength: 6293,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1121985/chapter-107-meet-interesting-people-kill-them",

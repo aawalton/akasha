@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
   story: "the-calamitous-bob-stubbed",
   position: 15,
   ownLength: 5177,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1043964/chapter-96-isekai-day-zero",

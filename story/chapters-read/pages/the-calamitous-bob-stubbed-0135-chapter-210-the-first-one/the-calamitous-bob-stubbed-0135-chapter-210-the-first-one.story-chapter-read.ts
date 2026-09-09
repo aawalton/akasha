@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0135Chapter210TheFirstOne = {
   story: "the-calamitous-bob-stubbed",
   position: 135,
   ownLength: 5199,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2353869/chapter-210-the-first-one",

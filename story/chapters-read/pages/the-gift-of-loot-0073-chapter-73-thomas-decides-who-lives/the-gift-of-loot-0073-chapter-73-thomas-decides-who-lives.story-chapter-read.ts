@@ -8,7 +8,7 @@ export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   story: "the-gift-of-loot",
   position: 73,
   ownLength: 2995,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3868400/chapter-73-thomas-decides-who-lives",

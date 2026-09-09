@@ -8,7 +8,7 @@ export const theGiftOfLoot0031Chapter31BearMarketBehavior = {
   story: "the-gift-of-loot",
   position: 31,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3438009/chapter-31-bear-market-behavior",

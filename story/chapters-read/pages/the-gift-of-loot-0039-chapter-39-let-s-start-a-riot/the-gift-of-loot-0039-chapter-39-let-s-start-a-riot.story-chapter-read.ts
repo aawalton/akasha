@@ -8,7 +8,7 @@ export const theGiftOfLoot0039Chapter39LetSStartARiot = {
   story: "the-gift-of-loot",
   position: 39,
   ownLength: 3595,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3510488/chapter-39-lets-start-a-riot",

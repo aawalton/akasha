@@ -8,7 +8,7 @@ export const theGiftOfLoot0059Chapter59HailMary = {
   story: "the-gift-of-loot",
   position: 59,
   ownLength: 2211,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3711806/chapter-59-hail-mary",

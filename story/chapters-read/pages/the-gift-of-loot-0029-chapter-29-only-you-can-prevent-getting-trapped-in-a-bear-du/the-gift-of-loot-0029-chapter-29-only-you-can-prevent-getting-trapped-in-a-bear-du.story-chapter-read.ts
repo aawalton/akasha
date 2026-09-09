@@ -8,7 +8,7 @@ export const theGiftOfLoot0029Chapter29OnlyYouCanPreventGettingTrappedInABearDu 
   story: "the-gift-of-loot",
   position: 29,
   ownLength: 2784,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3419934/chapter-29-only-you-can-prevent-getting-trapped",

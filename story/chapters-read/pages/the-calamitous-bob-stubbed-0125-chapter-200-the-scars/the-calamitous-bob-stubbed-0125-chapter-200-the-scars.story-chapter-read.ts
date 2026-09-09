@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0125Chapter200TheScars = {
   story: "the-calamitous-bob-stubbed",
   position: 125,
   ownLength: 3528,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2176190/chapter-200-the-scars",

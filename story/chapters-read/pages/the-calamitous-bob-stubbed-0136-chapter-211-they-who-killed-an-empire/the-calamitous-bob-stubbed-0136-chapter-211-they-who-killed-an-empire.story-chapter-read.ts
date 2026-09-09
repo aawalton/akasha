@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0136Chapter211TheyWhoKilledAnEmpire = {
   story: "the-calamitous-bob-stubbed",
   position: 136,
   ownLength: 8019,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2371961/chapter-211-they-who-killed-an-empire",

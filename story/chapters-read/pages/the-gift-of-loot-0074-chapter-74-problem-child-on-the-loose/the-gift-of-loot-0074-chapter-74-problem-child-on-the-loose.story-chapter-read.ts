@@ -8,7 +8,7 @@ export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   story: "the-gift-of-loot",
   position: 74,
   ownLength: 3162,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3877841/chapter-74-problem-child-on-the-loose",

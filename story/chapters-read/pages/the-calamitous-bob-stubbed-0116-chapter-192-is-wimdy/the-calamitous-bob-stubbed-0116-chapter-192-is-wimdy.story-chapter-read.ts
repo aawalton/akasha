@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0116Chapter192IsWimdy = {
   story: "the-calamitous-bob-stubbed",
   position: 116,
   ownLength: 5254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2053654/chapter-192-is-wimdy",

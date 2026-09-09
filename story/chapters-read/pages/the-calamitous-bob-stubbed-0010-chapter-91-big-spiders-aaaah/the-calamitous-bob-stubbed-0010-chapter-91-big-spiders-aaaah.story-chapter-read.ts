@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0010Chapter91BigSpidersAaaah = {
   story: "the-calamitous-bob-stubbed",
   position: 10,
   ownLength: 5366,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1005307/chapter-91-big-spiders-aaaah",

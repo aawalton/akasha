@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0105Chapter183Crumbling = {
   story: "the-calamitous-bob-stubbed",
   position: 105,
   ownLength: 8041,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1893923/chapter-183-crumbling",

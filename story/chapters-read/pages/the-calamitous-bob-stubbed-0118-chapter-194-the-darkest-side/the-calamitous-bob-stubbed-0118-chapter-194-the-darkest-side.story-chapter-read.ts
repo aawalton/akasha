@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0118Chapter194TheDarkestSide = {
   story: "the-calamitous-bob-stubbed",
   position: 118,
   ownLength: 6758,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2081196/chapter-194-the-darkest-side",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildre
   story: "the-calamitous-bob-stubbed",
   position: 84,
   ownLength: 5037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1622043/chapter-163-the-city-of-overpowered-manchildren",

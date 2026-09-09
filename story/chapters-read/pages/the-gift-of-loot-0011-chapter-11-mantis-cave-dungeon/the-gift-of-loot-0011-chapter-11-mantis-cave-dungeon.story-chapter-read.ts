@@ -8,7 +8,7 @@ export const theGiftOfLoot0011Chapter11MantisCaveDungeon = {
   story: "the-gift-of-loot",
   position: 11,
   ownLength: 2412,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3274326/chapter-11-mantis-cave-dungeon",

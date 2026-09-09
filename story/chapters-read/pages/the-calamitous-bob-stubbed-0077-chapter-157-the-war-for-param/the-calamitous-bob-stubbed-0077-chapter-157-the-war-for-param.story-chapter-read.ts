@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0077Chapter157TheWarForParam = {
   story: "the-calamitous-bob-stubbed",
   position: 77,
   ownLength: 5945,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1564195/chapter-157-the-war-for-param",

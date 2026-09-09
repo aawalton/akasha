@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0113Chapter190RecruitmentDriveBy = {
   story: "the-calamitous-bob-stubbed",
   position: 113,
   ownLength: 6055,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2027815/chapter-190-recruitment-drive-by",

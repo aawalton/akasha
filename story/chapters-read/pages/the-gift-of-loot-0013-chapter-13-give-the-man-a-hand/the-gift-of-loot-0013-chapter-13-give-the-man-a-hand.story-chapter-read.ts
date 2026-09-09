@@ -8,7 +8,7 @@ export const theGiftOfLoot0013Chapter13GiveTheManAHand = {
   story: "the-gift-of-loot",
   position: 13,
   ownLength: 2229,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3291572/chapter-13-give-the-man-a-hand",

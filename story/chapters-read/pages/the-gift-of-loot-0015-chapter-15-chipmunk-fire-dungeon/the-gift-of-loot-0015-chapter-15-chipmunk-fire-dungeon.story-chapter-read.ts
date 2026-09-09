@@ -8,7 +8,7 @@ export const theGiftOfLoot0015Chapter15ChipmunkFireDungeon = {
   story: "the-gift-of-loot",
   position: 15,
   ownLength: 3487,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3363515/chapter-15-chipmunk-fire-dungeon",

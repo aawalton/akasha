@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0147Chapter222SettingTheBoard = {
   story: "the-calamitous-bob-stubbed",
   position: 147,
   ownLength: 5574,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2629963/chapter-222-setting-the-board",

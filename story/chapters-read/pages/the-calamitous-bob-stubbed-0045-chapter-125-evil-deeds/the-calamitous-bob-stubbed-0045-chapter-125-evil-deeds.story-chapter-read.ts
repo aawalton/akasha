@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0045Chapter125EvilDeeds = {
   story: "the-calamitous-bob-stubbed",
   position: 45,
   ownLength: 4563,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1269977/chapter-125-evil-deeds",

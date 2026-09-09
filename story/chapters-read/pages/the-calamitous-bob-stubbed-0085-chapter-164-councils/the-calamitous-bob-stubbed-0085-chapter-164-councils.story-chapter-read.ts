@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0085Chapter164Councils = {
   story: "the-calamitous-bob-stubbed",
   position: 85,
   ownLength: 6305,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1631164/chapter-164-councils",

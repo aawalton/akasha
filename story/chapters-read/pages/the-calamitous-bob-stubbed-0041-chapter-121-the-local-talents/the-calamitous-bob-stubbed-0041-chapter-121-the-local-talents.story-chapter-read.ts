@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0041Chapter121TheLocalTalents = {
   story: "the-calamitous-bob-stubbed",
   position: 41,
   ownLength: 5786,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1240024/chapter-121-the-local-talents",

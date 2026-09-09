@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0005Chapter86LooseEnds = {
   story: "the-calamitous-bob-stubbed",
   position: 5,
   ownLength: 5102,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/979976/chapter-86-loose-ends",

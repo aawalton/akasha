@@ -8,7 +8,7 @@ export const theGiftOfLoot0064Chapter64TheGiftOfSenses = {
   story: "the-gift-of-loot",
   position: 64,
   ownLength: 3604,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3764563/chapter-64-the-gift-of-senses",

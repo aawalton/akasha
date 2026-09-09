@@ -8,7 +8,7 @@ export const theGiftOfLoot0026Chapter26TrainingMontage = {
   story: "the-gift-of-loot",
   position: 26,
   ownLength: 3492,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3404089/chapter-26-training-montage",

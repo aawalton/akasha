@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0046Chapter126Montage = {
   story: "the-calamitous-bob-stubbed",
   position: 46,
   ownLength: 4955,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1276824/chapter-126-montage",

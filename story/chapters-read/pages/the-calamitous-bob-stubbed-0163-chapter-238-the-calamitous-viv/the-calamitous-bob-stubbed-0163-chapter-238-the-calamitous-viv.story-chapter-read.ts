@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0163Chapter238TheCalamitousViv = {
   story: "the-calamitous-bob-stubbed",
   position: 163,
   ownLength: 6666,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2767888/chapter-238-the-calamitous-viv",

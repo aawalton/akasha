@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0040Chapter120FallCleaning = {
   story: "the-calamitous-bob-stubbed",
   position: 40,
   ownLength: 5231,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1232890/chapter-120-fall-cleaning",

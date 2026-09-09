@@ -8,7 +8,7 @@ export const theGiftOfLoot0044Chapter44HealingTank = {
   story: "the-gift-of-loot",
   position: 44,
   ownLength: 3665,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3562412/chapter-44-healing-tank",

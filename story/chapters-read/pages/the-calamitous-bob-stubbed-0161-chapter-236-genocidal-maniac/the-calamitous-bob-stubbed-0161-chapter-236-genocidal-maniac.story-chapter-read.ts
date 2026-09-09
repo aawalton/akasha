@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0161Chapter236GenocidalManiac = {
   story: "the-calamitous-bob-stubbed",
   position: 161,
   ownLength: 7412,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2762957/chapter-236-genocidal-maniac",

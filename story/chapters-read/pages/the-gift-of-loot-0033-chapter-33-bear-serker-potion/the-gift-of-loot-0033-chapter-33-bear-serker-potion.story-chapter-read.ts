@@ -8,7 +8,7 @@ export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   story: "the-gift-of-loot",
   position: 33,
   ownLength: 2793,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3446007/chapter-33-bear-serker-potion",

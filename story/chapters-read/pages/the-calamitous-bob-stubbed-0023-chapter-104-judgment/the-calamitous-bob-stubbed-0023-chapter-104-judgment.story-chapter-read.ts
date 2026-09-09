@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0023Chapter104Judgment = {
   story: "the-calamitous-bob-stubbed",
   position: 23,
   ownLength: 5130,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1104864/chapter-104-judgment",

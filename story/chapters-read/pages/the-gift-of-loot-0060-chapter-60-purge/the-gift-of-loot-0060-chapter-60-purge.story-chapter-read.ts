@@ -8,7 +8,7 @@ export const theGiftOfLoot0060Chapter60Purge = {
   story: "the-gift-of-loot",
   position: 60,
   ownLength: 3309,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3720757/chapter-60-purge",

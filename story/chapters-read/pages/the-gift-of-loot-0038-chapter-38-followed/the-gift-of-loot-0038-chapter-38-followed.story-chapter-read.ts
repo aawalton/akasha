@@ -8,7 +8,7 @@ export const theGiftOfLoot0038Chapter38Followed = {
   story: "the-gift-of-loot",
   position: 38,
   ownLength: 3387,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3497576/chapter-38-followed",

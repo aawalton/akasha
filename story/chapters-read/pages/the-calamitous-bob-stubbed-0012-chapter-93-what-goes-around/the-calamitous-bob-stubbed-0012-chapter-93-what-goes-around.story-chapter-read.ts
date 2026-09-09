@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0012Chapter93WhatGoesAround = {
   story: "the-calamitous-bob-stubbed",
   position: 12,
   ownLength: 6713,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1021236/chapter-93-what-goes-around",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0151Chapter226TheNightOfFire = {
   story: "the-calamitous-bob-stubbed",
   position: 151,
   ownLength: 4282,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2701468/chapter-226-the-night-of-fire",

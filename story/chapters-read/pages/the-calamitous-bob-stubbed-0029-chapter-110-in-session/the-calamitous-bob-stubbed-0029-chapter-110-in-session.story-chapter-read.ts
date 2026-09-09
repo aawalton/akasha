@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0029Chapter110InSession = {
   story: "the-calamitous-bob-stubbed",
   position: 29,
   ownLength: 5142,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1140568/chapter-110-in-session",

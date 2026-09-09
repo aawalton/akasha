@@ -8,7 +8,7 @@ export const theGiftOfLoot0049Chapter49TheHardSell = {
   story: "the-gift-of-loot",
   position: 49,
   ownLength: 4121,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3618165/chapter-49-the-hard-sell",

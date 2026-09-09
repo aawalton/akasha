@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0104Chapter182SandCastle = {
   story: "the-calamitous-bob-stubbed",
   position: 104,
   ownLength: 6331,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1879460/chapter-182-sand-castle",

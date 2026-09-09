@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0031Chapter112TheGirlWithTheDragon = {
   story: "the-calamitous-bob-stubbed",
   position: 31,
   ownLength: 4904,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1153471/chapter-112-the-girl-with-the-dragon",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0012Chapter12LootingTheMantisQueen = {
   story: "the-gift-of-loot",
   position: 12,
   ownLength: 3070,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3278664/chapter-12-looting-the-mantis-queen",

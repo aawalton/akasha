@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0049Chapter129TheFindOutMoment = {
   story: "the-calamitous-bob-stubbed",
   position: 49,
   ownLength: 4349,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1299634/chapter-129-the-find-out-moment",

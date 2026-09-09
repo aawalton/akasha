@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0096Chapter174Theomachia = {
   story: "the-calamitous-bob-stubbed",
   position: 96,
   ownLength: 5419,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1782058/chapter-174-theomachia",

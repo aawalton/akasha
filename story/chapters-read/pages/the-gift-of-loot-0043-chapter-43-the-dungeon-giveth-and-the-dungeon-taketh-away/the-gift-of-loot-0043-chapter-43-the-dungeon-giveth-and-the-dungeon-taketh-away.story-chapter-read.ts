@@ -8,7 +8,7 @@ export const theGiftOfLoot0043Chapter43TheDungeonGivethAndTheDungeonTakethAway =
   story: "the-gift-of-loot",
   position: 43,
   ownLength: 3127,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3553195/chapter-43-the-dungeon-giveth-and-the-dungeon",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0020Chapter101Shipping = {
   story: "the-calamitous-bob-stubbed",
   position: 20,
   ownLength: 5354,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1086677/chapter-101-shipping",

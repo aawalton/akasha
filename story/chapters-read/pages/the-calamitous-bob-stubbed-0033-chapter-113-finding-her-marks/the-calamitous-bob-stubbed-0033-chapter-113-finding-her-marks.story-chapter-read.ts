@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0033Chapter113FindingHerMarks = {
   story: "the-calamitous-bob-stubbed",
   position: 33,
   ownLength: 5673,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1161423/chapter-113-finding-her-marks",

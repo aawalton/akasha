@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0035Chapter115Draconic = {
   story: "the-calamitous-bob-stubbed",
   position: 35,
   ownLength: 6059,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1187869/chapter-115-draconic",

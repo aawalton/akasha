@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0143Chapter218ItSAliens = {
   story: "the-calamitous-bob-stubbed",
   position: 143,
   ownLength: 5321,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2558280/chapter-218-its-aliens",

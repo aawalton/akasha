@@ -8,7 +8,7 @@ export const theGiftOfLoot0048Chapter48TheBurden = {
   story: "the-gift-of-loot",
   position: 48,
   ownLength: 3101,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3608456/chapter-48-the-burden",

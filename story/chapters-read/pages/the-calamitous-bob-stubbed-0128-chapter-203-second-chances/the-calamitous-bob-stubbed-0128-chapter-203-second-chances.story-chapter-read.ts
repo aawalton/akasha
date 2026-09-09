@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0128Chapter203SecondChances = {
   story: "the-calamitous-bob-stubbed",
   position: 128,
   ownLength: 6503,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2231652/chapter-203-second-chances",

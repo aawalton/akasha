@@ -8,7 +8,7 @@ export const theGiftOfLoot0037Chapter37LeadOnALevel3Dungeon = {
   story: "the-gift-of-loot",
   position: 37,
   ownLength: 2046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3488485/chapter-37-lead-on-a-level-3-dungeon",

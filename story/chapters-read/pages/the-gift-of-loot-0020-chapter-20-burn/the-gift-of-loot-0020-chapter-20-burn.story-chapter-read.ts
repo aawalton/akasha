@@ -8,7 +8,7 @@ export const theGiftOfLoot0020Chapter20Burn = {
   story: "the-gift-of-loot",
   position: 20,
   ownLength: 1510,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3383071/chapter-20-burn",

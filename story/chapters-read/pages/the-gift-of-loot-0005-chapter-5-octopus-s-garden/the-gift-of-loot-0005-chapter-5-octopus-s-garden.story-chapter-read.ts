@@ -8,7 +8,7 @@ export const theGiftOfLoot0005Chapter5OctopusSGarden = {
   story: "the-gift-of-loot",
   position: 5,
   ownLength: 3179,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3235466/chapter-5-octopuss-garden",

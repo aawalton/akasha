@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0038Chapter118Examination = {
   story: "the-calamitous-bob-stubbed",
   position: 38,
   ownLength: 5473,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1218004/chapter-118-examination",

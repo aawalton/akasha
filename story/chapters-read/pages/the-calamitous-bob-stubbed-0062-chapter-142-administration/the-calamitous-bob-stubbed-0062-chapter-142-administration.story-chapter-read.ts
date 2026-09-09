@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0062Chapter142Administration = {
   story: "the-calamitous-bob-stubbed",
   position: 62,
   ownLength: 6175,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1412693/chapter-142-administration",

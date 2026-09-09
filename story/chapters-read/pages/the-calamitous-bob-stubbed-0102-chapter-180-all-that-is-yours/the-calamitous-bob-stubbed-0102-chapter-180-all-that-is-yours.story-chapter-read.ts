@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0102Chapter180AllThatIsYours = {
   story: "the-calamitous-bob-stubbed",
   position: 102,
   ownLength: 6037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1856842/chapter-180-all-that-is-yours",

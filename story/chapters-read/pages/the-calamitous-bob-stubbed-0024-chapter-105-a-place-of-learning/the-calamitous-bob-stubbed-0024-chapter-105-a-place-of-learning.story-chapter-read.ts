@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0024Chapter105APlaceOfLearning = {
   story: "the-calamitous-bob-stubbed",
   position: 24,
   ownLength: 5111,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1110273/chapter-105-a-place-of-learning",

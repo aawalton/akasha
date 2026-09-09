@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0013Chapter94GreenEdge = {
   story: "the-calamitous-bob-stubbed",
   position: 13,
   ownLength: 6322,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1026043/chapter-94-green-edge",

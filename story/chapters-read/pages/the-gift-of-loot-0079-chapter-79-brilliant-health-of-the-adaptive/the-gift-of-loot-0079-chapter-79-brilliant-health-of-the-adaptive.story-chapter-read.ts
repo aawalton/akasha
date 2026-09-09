@@ -6,7 +6,7 @@ export const theGiftOfLoot0079Chapter79BrilliantHealthOfTheAdaptive = {
   slug: "the-gift-of-loot-0079-chapter-79-brilliant-health-of-the-adaptive",
   position: 79,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3935518",
   source: "royal-road",
   title: "Chapter 79: Brilliant Health of the Adaptive Wellspring",

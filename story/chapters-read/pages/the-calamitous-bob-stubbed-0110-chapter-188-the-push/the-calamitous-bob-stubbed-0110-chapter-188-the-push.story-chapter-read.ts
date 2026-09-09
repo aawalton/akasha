@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0110Chapter188ThePush = {
   story: "the-calamitous-bob-stubbed",
   position: 110,
   ownLength: 6326,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004345/chapter-188-the-push",

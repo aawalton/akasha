@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0014Chapter95TheFateOfEnoria = {
   story: "the-calamitous-bob-stubbed",
   position: 14,
   ownLength: 6770,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1031830/chapter-95-the-fate-of-enoria",

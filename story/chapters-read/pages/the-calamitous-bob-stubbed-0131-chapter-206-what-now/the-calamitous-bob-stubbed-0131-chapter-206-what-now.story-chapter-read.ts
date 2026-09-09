@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0131Chapter206WhatNow = {
   story: "the-calamitous-bob-stubbed",
   position: 131,
   ownLength: 5241,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2284050/chapter-206-what-now",

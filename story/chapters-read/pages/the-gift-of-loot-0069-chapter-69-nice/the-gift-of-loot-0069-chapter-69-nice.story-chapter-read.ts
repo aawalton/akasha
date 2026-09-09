@@ -8,7 +8,7 @@ export const theGiftOfLoot0069Chapter69Nice = {
   story: "the-gift-of-loot",
   position: 69,
   ownLength: 3814,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3826562/chapter-69-nice",

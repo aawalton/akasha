@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0164NewspapersExtractsFromTheHarrakanGazette
   story: "the-calamitous-bob-stubbed",
   position: 164,
   ownLength: 908,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2771768/newspapers-extracts-from-the-harrakan-gazette",

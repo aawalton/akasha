@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0027Chapter108Inducted = {
   story: "the-calamitous-bob-stubbed",
   position: 27,
   ownLength: 4836,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1127713/chapter-108-inducted",

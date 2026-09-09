@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0025Chapter106MakingAnEntranceExamination = 
   story: "the-calamitous-bob-stubbed",
   position: 25,
   ownLength: 5829,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1116061/chapter-106-making-an-entrance-examination",

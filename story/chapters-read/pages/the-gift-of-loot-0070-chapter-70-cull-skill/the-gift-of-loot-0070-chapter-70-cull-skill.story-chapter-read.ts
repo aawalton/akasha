@@ -8,7 +8,7 @@ export const theGiftOfLoot0070Chapter70CullSkill = {
   story: "the-gift-of-loot",
   position: 70,
   ownLength: 2670,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3835360/chapter-70-cull-skill",

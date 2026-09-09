@@ -8,7 +8,7 @@ export const theGiftOfLoot0028Chapter28UnloadingTheGoods = {
   story: "the-gift-of-loot",
   position: 28,
   ownLength: 2640,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3415949/chapter-28-unloading-the-goods",

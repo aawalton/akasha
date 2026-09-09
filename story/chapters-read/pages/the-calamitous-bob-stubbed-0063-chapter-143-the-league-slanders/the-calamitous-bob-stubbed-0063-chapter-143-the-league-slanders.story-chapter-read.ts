@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0063Chapter143TheLeagueSlanders = {
   story: "the-calamitous-bob-stubbed",
   position: 63,
   ownLength: 5235,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1420445/chapter-143-the-league-slanders",

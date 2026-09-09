@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0109Chapter187KingsAndBeasts = {
   story: "the-calamitous-bob-stubbed",
   position: 109,
   ownLength: 5254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1946463/chapter-187-kings-and-beasts",

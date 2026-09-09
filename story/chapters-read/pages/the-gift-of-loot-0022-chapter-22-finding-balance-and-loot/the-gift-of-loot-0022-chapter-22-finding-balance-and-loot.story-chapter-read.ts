@@ -8,7 +8,7 @@ export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   story: "the-gift-of-loot",
   position: 22,
   ownLength: 3098,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3387112/chapter-22-finding-balance-and-loot",

@@ -8,7 +8,7 @@ export const theGiftOfLoot0050Chapter50BuyingAlliesDonTComeCheap = {
   story: "the-gift-of-loot",
   position: 50,
   ownLength: 2330,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3627953/chapter-50-buying-allies-dont-come-cheap",

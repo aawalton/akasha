@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0053Chapter133TheDamnTournamentArc = {
   story: "the-calamitous-bob-stubbed",
   position: 53,
   ownLength: 6310,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1329375/chapter-133-the-damn-tournament-arc",

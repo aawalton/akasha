@@ -8,7 +8,7 @@ export const theGiftOfLoot0042Chapter42AThirstySword = {
   story: "the-gift-of-loot",
   position: 42,
   ownLength: 2471,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3543686/chapter-42-a-thirsty-sword",

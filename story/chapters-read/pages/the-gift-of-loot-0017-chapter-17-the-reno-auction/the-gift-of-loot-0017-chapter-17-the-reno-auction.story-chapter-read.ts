@@ -8,7 +8,7 @@ export const theGiftOfLoot0017Chapter17TheRenoAuction = {
   story: "the-gift-of-loot",
   position: 17,
   ownLength: 3984,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3372253/chapter-17-the-reno-auction",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0068Chapter148HarrakIsBack = {
   story: "the-calamitous-bob-stubbed",
   position: 68,
   ownLength: 7144,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1474858/chapter-148-harrak-is-back",

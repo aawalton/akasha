@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0156Chapter231TheSlayer = {
   story: "the-calamitous-bob-stubbed",
   position: 156,
   ownLength: 4158,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2748135/chapter-231-the-slayer",

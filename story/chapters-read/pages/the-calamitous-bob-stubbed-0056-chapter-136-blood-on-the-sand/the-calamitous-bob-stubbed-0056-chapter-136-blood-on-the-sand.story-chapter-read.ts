@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0056Chapter136BloodOnTheSand = {
   story: "the-calamitous-bob-stubbed",
   position: 56,
   ownLength: 7170,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1350897/chapter-136-blood-on-the-sand",

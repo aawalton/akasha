@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0082Chapter161Fraudzilla = {
   story: "the-calamitous-bob-stubbed",
   position: 82,
   ownLength: 5487,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1602548/chapter-161-fraudzilla",

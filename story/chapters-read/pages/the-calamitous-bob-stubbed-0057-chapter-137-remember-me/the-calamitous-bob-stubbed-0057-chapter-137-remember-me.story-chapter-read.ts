@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0057Chapter137RememberMe = {
   story: "the-calamitous-bob-stubbed",
   position: 57,
   ownLength: 6474,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1372841/chapter-137-remember-me",

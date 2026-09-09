@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0081Chapter160MightOfAContinent = {
   story: "the-calamitous-bob-stubbed",
   position: 81,
   ownLength: 7438,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1592417/chapter-160-might-of-a-continent",

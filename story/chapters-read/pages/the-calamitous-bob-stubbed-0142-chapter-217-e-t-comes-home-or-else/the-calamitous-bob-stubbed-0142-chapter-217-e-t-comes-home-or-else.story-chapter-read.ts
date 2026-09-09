@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0142Chapter217ETComesHomeOrElse = {
   story: "the-calamitous-bob-stubbed",
   position: 142,
   ownLength: 6903,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2465660/chapter-217-et-comes-home-or-else",

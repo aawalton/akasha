@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0039Chapter119TheFetchQuest = {
   story: "the-calamitous-bob-stubbed",
   position: 39,
   ownLength: 5789,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1226457/chapter-119-the-fetch-quest",

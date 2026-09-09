@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0133Chapter208DiveBombingWithFriends = {
   story: "the-calamitous-bob-stubbed",
   position: 133,
   ownLength: 4570,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2317642/chapter-208-dive-bombing-with-friends",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0032MeanwhileTheSidekicks = {
   story: "the-calamitous-bob-stubbed",
   position: 32,
   ownLength: 1087,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1154416/meanwhile-the-sidekicks",

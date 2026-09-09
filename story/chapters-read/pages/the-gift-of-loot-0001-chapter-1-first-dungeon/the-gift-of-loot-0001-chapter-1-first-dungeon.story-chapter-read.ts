@@ -8,7 +8,7 @@ export const theGiftOfLoot0001Chapter1FirstDungeon = {
   story: "the-gift-of-loot",
   position: 1,
   ownLength: 2149,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3219287/chapter-1-first-dungeon",

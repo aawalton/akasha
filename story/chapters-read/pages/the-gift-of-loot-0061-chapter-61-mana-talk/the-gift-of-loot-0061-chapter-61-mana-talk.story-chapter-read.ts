@@ -8,7 +8,7 @@ export const theGiftOfLoot0061Chapter61ManaTalk = {
   story: "the-gift-of-loot",
   position: 61,
   ownLength: 3820,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3733696/chapter-61-mana-talk",

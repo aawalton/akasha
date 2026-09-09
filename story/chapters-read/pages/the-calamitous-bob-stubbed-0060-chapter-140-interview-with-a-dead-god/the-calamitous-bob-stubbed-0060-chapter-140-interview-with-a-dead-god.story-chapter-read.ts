@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0060Chapter140InterviewWithADeadGod = {
   story: "the-calamitous-bob-stubbed",
   position: 60,
   ownLength: 5610,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1395372/chapter-140-interview-with-a-dead-god",

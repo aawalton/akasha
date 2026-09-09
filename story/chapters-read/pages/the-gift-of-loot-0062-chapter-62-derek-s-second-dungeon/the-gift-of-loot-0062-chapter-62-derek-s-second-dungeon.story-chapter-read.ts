@@ -8,7 +8,7 @@ export const theGiftOfLoot0062Chapter62DerekSSecondDungeon = {
   story: "the-gift-of-loot",
   position: 62,
   ownLength: 3161,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3742666/chapter-62-dereks-second-dungeon",

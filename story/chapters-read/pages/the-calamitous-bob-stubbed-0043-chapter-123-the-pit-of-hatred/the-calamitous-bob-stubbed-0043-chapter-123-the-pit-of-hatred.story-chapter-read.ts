@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0043Chapter123ThePitOfHatred = {
   story: "the-calamitous-bob-stubbed",
   position: 43,
   ownLength: 6114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1255501/chapter-123-the-pit-of-hatred",

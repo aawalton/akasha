@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0011Chapter92Besieged = {
   story: "the-calamitous-bob-stubbed",
   position: 11,
   ownLength: 6344,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1016034/chapter-92-besieged",

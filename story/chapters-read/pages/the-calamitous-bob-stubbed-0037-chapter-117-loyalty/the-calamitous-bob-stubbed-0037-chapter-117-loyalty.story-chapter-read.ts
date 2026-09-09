@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0037Chapter117Loyalty = {
   story: "the-calamitous-bob-stubbed",
   position: 37,
   ownLength: 5782,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1210610/chapter-117-loyalty",

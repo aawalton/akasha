@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0088Chapter166TheVote = {
   story: "the-calamitous-bob-stubbed",
   position: 88,
   ownLength: 6600,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1658434/chapter-166-the-vote",

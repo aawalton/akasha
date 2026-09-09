@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0034Chapter114Busy = {
   story: "the-calamitous-bob-stubbed",
   position: 34,
   ownLength: 3903,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1169658/chapter-114-busy",

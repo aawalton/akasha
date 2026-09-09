@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0042Chapter122RemnantsOfABygoneAge = {
   story: "the-calamitous-bob-stubbed",
   position: 42,
   ownLength: 6877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1248095/chapter-122-remnants-of-a-bygone-age",

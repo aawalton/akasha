@@ -8,7 +8,7 @@ export const theGiftOfLoot0027Chapter27SchwarzeneggerCouldNever = {
   story: "the-gift-of-loot",
   position: 27,
   ownLength: 2887,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3407802/chapter-27-schwarzenegger-could-never",

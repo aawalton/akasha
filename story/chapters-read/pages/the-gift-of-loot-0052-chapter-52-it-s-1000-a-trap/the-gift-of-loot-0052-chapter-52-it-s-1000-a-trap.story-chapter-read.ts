@@ -8,7 +8,7 @@ export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   story: "the-gift-of-loot",
   position: 52,
   ownLength: 3749,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3649675/chapter-52-its-1000-a-trap",

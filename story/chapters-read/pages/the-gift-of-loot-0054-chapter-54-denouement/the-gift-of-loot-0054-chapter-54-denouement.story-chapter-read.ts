@@ -8,7 +8,7 @@ export const theGiftOfLoot0054Chapter54Denouement = {
   story: "the-gift-of-loot",
   position: 54,
   ownLength: 480,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3667164/chapter-54-denouement",

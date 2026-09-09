@@ -8,7 +8,7 @@ export const theGiftOfLoot0076Chapter76WarCouncil = {
   story: "the-gift-of-loot",
   position: 76,
   ownLength: 2563,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3901218/chapter-76-war-council",

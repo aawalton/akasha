@@ -8,7 +8,7 @@ export const theGiftOfLoot0023Chapter23BossFight = {
   story: "the-gift-of-loot",
   position: 23,
   ownLength: 3554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3391343/chapter-23-boss-fight",

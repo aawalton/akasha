@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0111CalamitousAnnouncementReadThisOrDonTComp
   story: "the-calamitous-bob-stubbed",
   position: 111,
   ownLength: 260,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2004348/calamitous-announcement-read-this-or-dont-complain",

@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0087AnnouncementAnotherBookOut = {
   story: "the-calamitous-bob-stubbed",
   position: 87,
   ownLength: 154,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1649065/announcement-another-book-out",

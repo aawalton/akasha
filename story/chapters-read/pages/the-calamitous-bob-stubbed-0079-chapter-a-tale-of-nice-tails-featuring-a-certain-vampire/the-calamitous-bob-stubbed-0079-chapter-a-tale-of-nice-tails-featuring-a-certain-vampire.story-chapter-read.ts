@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0079ChapterATaleOfNiceTailsFeaturingACertain
   story: "the-calamitous-bob-stubbed",
   position: 79,
   ownLength: 8723,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1575605/chapter-a-tale-of-nice-tails-featuring-a-certain",

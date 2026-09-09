@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0144Chapter219MercySPrerequisite = {
   story: "the-calamitous-bob-stubbed",
   position: 144,
   ownLength: 5281,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2576709/chapter-219-mercys-prerequisite",

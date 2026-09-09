@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0132Chapter207PickingBones = {
   story: "the-calamitous-bob-stubbed",
   position: 132,
   ownLength: 7471,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/2300701/chapter-207-picking-bones",

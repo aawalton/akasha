@@ -8,7 +8,7 @@ export const theGiftOfLoot0035Chapter35ThatConcludesThisGrizzlyAffair = {
   story: "the-gift-of-loot",
   position: 35,
   ownLength: 3790,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3465930/chapter-35-that-concludes-this-grizzly-affair",

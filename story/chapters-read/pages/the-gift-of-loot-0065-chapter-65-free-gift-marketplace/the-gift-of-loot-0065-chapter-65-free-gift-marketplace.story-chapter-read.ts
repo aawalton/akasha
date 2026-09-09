@@ -8,7 +8,7 @@ export const theGiftOfLoot0065Chapter65FreeGiftMarketplace = {
   story: "the-gift-of-loot",
   position: 65,
   ownLength: 3391,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3774089/chapter-65-free-gift-marketplace",

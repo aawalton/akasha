@@ -8,7 +8,7 @@ export const theGiftOfLoot0007Chapter7ItSAShark = {
   story: "the-gift-of-loot",
   position: 7,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3244231/chapter-7-its-a-shark",

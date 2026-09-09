@@ -8,7 +8,7 @@ export const theGiftOfLoot0024Chapter24CheeseTheHellOutOfTheDungeon = {
   story: "the-gift-of-loot",
   position: 24,
   ownLength: 2176,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3395583/chapter-24-cheese-the-hell-out-of-the-dungeon",

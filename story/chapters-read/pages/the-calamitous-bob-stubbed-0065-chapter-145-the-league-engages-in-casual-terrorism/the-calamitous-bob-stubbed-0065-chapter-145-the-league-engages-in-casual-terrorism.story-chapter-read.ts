@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0065Chapter145TheLeagueEngagesInCasualTerror
   story: "the-calamitous-bob-stubbed",
   position: 65,
   ownLength: 6039,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/1436482/chapter-145-the-league-engages-in-casual-terrorism",

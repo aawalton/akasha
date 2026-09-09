@@ -8,7 +8,7 @@ export const theGiftOfLoot0066Chapter66EnergyVampire = {
   story: "the-gift-of-loot",
   position: 66,
   ownLength: 3046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160377/the-gift-of-loot/chapter/3783266/chapter-66-energy-vampire",
