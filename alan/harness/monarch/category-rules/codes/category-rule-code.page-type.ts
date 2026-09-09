@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CategoryRule } from "../category-rule.page-type.ts"
+import type { CategoryRule } from "../category-rule.page-type.types.ts"
 
 export type CategoryRuleCode = CategoryRule
 

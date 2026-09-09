@@ -1,18 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { TransactionCategory } from "../months/properties/transaction-category.relation-property.ts"
-import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"
-import type { Matches } from "./properties/matches.record-property.ts"
-import type { RuleNote } from "./properties/rule-note.text-property.ts"
-
-export type CategoryRule = Page & {
-  title: Title
-  matches: Matches
-  category?: TransactionCategory
-  ruleNote?: RuleNote
-  counterpartWithinDays?: CounterpartWithinDays
-}
 
 export const categoryRule = {
   id: "01a0680c-3c00-7007-a659-3e8d1c4f3108",
@@ -98,4 +84,5 @@ export const categoryRule = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType
