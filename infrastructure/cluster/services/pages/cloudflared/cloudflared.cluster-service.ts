@@ -13,5 +13,5 @@ export const cloudflared = {
   containerPort: 2000,
   config: "yaml",
   manifestSlug: "cloudflared",
-  secretSlugs: ["secret/cloudflared-creds-credentials-json"],
+  secrets: ["secret/cloudflared-creds-credentials-json"],
 } as const satisfies ClusterService

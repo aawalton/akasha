@@ -2,13 +2,13 @@ import type { Slug } from "@akasha/pages/page/slug"
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type SecretSlugs = List<Slug>
+export type Secrets = List<Slug>
 
-export const secretSlugs = {
+export const secrets = {
   id: "01a081fd-c5ac-72ac-acff-a780301c30e4",
   pageTypeSlug: "relation-property",
-  slug: "secret-slugs",
-  propertySlug: "secret-slugs",
+  slug: "secrets",
+  propertySlug: "secrets",
   definition: "a secret a workload reads",
   targetPageTypeSlug: "page-type/secret",
   invariants: [

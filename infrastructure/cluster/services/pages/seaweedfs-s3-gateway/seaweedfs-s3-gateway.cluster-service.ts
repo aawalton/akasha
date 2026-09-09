@@ -12,5 +12,5 @@ export const seaweedfsS3Gateway = {
   replicas: 1,
   containerPort: 8333,
   manifestSlug: "seaweedfs-s3-gateway",
-  secretSlugs: ["secret/seaweedfs-creds-s3-config"],
+  secrets: ["secret/seaweedfs-creds-s3-config"],
 } as const satisfies ClusterService

@@ -12,7 +12,7 @@ export const supabaseRealtime = {
   replicas: 1,
   containerPort: 4000,
   manifestSlug: "supabase-realtime",
-  secretSlugs: [
+  secrets: [
     "secret/realtime-secrets-database-url",
     "secret/realtime-secrets-db-enc-key",
     "secret/realtime-secrets-api-jwt-secret",

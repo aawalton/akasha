@@ -12,7 +12,7 @@ export const alanwaltonAtlas = {
   replicas: 1,
   containerPort: 3000,
   manifestSlug: "alanwalton-atlas",
-  secretSlugs: [
+  secrets: [
     "secret/alanwalton-secrets-admin-user-id",
     "secret/alanwalton-secrets-cron-secret",
     "secret/alanwalton-secrets-geoapify-api-key",

@@ -12,8 +12,5 @@ export const postgrest = {
   replicas: 2,
   containerPort: 3000,
   manifestSlug: "postgrest",
-  secretSlugs: [
-    "secret/postgrest-secrets-database-url",
-    "secret/postgrest-secrets-pgrst-jwt-secret",
-  ],
+  secrets: ["secret/postgrest-secrets-database-url", "secret/postgrest-secrets-pgrst-jwt-secret"],
 } as const satisfies ClusterService

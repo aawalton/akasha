@@ -9,7 +9,7 @@ import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
 import type { ResourceName } from "./properties/resource-name.text-property.ts"
-import type { SecretSlugs } from "./properties/secret-slugs.relation-property.ts"
+import type { Secrets } from "./properties/secrets.relation-property.ts"
 
 export type ClusterService = Service & {
   resourceKind: ResourceKind
@@ -21,7 +21,7 @@ export type ClusterService = Service & {
   schedule?: ClusterServiceSchedule
   config?: ClusterServiceConfig
   manifestSlug: ManifestSlug
-  secretSlugs?: SecretSlugs
+  secrets?: Secrets
 }
 
 export const clusterService = {
@@ -101,7 +101,7 @@ export const clusterService = {
     "text-property/resource-kind",
     "text-property/resource-name",
     "text-property/cluster-service-schedule",
-    "relation-property/secret-slugs",
+    "relation-property/secrets",
   ],
   properties: [
     { pagePropertySlug: "text-property/resource-kind", required: true, many: false },
@@ -114,7 +114,7 @@ export const clusterService = {
     { pagePropertySlug: "relation-property/manifest-slug", required: true, many: false },
     { pagePropertySlug: "file-property/cluster-service-config", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/secret-slugs",
+      pagePropertySlug: "relation-property/secrets",
       required: false,
       many: true,
       maxCount: null,
