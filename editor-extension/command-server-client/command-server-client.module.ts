@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const commandServerClient = {
   id: "01a064ea-f958-7000-98c8-4e49f2868f5f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "command-server-client",
   definition: "the ask written to a held-open bun process and the answer or refusal the ask meets",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const agentTreePanel = {
   id: "01a0686b-bfe9-7a38-b901-76035639ad29",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-tree-panel",
   definition: "the fleet Alan watches, read from the file the service writes, and acted on",
   code: "ts",

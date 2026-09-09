@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const agentTreeState = {
   id: "01a0686b-bfe9-705b-a5cc-ec57c2a1d63b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-tree-state",
   definition:
     "the output channel, forest, column memory, seat terminals and seat tabs one panel has",

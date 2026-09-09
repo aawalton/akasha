@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const columnMemory = {
   id: "01a0686b-bfe9-77a5-a194-b6afcc2c2693",
   pageTypeSlug: "module",
+  type: "module",
   slug: "column-memory",
   definition: "the editor column each seat was last seen in, kept across windows and restarts",
   code: "ts",

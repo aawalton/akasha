@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const columnSampling = {
   id: "01a0686b-bfe9-7eea-9240-9c8c57aeb34f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "column-sampling",
   definition: "one sweep of this window's terminals, recorded as an observation and remembered",
   code: "ts",
