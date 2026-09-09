@@ -14,19 +14,6 @@ export const astraGeneratedTypes = {
   ],
   intents: [
     {
-      statement: "A page type states the code that writes its type.",
-    },
-    {
-      statement: "A page type has its type in a file that code writes.",
-      workingMemory:
-        "`file-property/types` was the module's until this initiative renamed it `module-types`, so the slug is free. The file sits beside the page as that page's `types` section.\n",
-    },
-    {
-      statement: "A type is written again before the checks judge the change that turned it.",
-      workingMemory:
-        "`command-system/change-preparing` runs six generators between the rebase and the gate. A landing that generated a file hands the gate no prepared change, so the change is built again from the edits generation left and the checks judge those too. Each generator gates itself with a hand-written `couldTurn` reading the paths the change has, because the pages an answer rests on are worked out from the code rather than recorded as the code runs.\n",
-    },
-    {
       statement: "One written type has a page type's stored keys and its calculations.",
       workingMemory:
         "`file-property/worked` holds the calculations alone today, written on every apply by `command-system/worked-typing`. The new file replaces it rather than sitting beside it.\n",
@@ -39,7 +26,7 @@ export const astraGeneratedTypes = {
     {
       statement: "No page type's type is written by hand.",
       workingMemory:
-        "Of 473 page types, 390 declare nothing many-valued and are ready as they are. Thirty-seven spell a many-valued property as an array of that property's own type, and those need the list carried into the property before a written type can say what the hand-written one said. The rest already carry it. A page type is turned on one at a time by stating the types property, so a page type that is not ready is left alone.\n",
+        "`change-agent/add-page-type-types` turns one page type over in one landing: it states the key, moves the hand-written type beside the page, repoints importers, and the generator writes that file again before the checks judge it. Sixty-four are turned over. It refuses a page type whose type spells a key as a list of another type, naming the key; thirty-seven spell one that way. Ten more wait on property pages whose exported type is named for the property slug.\n",
     },
     {
       statement: "A page property states the code that writes its type.",
