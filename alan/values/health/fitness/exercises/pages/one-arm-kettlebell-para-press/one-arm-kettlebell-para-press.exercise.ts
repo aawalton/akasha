@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmKettlebellParaPress = {
   id: "019ebc77-b589-797e-b788-ec9647672dbb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-kettlebell-para-press",
   title: "One-Arm Kettlebell Para Press",
   exerciseCategory: "strength",

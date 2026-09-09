@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingHamstringAndCalfStretch = {
   id: "019ebc78-88d1-7034-81cd-76e3892816cb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-hamstring-and-calf-stretch",
   title: "Standing Hamstring and Calf Stretch",
   exerciseCategory: "stretching",

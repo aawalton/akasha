@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingLowPulleyDeltoidRaise = {
   id: "019ebc78-8a97-7aff-ac87-bc25be1a8037",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-low-pulley-deltoid-raise",
   title: "Standing Low-Pulley Deltoid Raise",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const platformHamstringSlides = {
   id: "019ebc77-c1ea-7d59-882a-b5c9f0e3836a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "platform-hamstring-slides",
   title: "Platform Hamstring Slides",
   exerciseCategory: "strength",

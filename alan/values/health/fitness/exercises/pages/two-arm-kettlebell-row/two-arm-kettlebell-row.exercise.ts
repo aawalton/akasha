@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const twoArmKettlebellRow = {
   id: "019ebc78-ae9c-7d2f-b767-9da309967e1f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "two-arm-kettlebell-row",
   title: "Two-Arm Kettlebell Row",
   exerciseCategory: "strength",

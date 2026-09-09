@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const worldsGreatestStretch = {
   id: "019ebc78-c200-7120-8d31-bb685b629d65",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "worlds-greatest-stretch",
   title: "World's Greatest Stretch",
   exerciseCategory: "stretching",

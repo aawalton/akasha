@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const torsoRotation = {
   id: "019ebc78-aac7-7795-aa3c-e0c14970a013",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "torso-rotation",
   title: "Torso Rotation",
   exerciseCategory: "stretching",

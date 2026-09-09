@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedBarbellMilitaryPress = {
   id: "019ebc78-5372-73f1-8193-9671e6331b2d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-barbell-military-press",
   title: "Seated Barbell Military Press",
   exerciseCategory: "strength",

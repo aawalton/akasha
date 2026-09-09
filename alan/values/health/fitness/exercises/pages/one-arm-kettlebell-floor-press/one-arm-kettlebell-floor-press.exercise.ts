@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmKettlebellFloorPress = {
   id: "019ebc77-b4cd-7bd7-b2df-d4b5f199371b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-kettlebell-floor-press",
   title: "One-Arm Kettlebell Floor Press",
   exerciseCategory: "strength",

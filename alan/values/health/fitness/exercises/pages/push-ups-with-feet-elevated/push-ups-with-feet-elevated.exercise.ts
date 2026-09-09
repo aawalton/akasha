@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const pushUpsWithFeetElevated = {
   id: "019ebc77-c737-7080-a702-0c4a1fc5b49a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "push-ups-with-feet-elevated",
   title: "Push-Ups With Feet Elevated",
   exerciseCategory: "strength",

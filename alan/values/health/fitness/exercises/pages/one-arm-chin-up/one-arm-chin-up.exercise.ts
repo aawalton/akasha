@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmChinUp = {
   id: "019ebc77-b957-79fd-ac93-6d8735e368c2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-chin-up",
   title: "One Arm Chin-Up",
   exerciseCategory: "strength",

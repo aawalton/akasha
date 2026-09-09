@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const vBarPullup = {
   id: "019ebc78-b3dc-7a1d-bd26-de190a0a5a0e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "v-bar-pullup",
   title: "V-Bar Pullup",
   exerciseCategory: "strength",

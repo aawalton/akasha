@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const windSprints = {
   id: "019ebc78-c185-7374-9874-b615475b88dd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wind-sprints",
   title: "Wind Sprints",
   exerciseCategory: "strength",

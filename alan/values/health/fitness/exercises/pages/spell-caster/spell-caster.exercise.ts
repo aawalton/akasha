@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const spellCaster = {
   id: "019ebc78-7d41-7444-b592-6c41302334f0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "spell-caster",
   title: "Spell Caster",
   exerciseCategory: "strength",

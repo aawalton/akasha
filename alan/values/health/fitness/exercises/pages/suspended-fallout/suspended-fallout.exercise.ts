@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const suspendedFallout = {
   id: "019ebc78-a782-78d7-acff-ab3f703fefd1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "suspended-fallout",
   title: "Suspended Fallout",
   exerciseCategory: "strength",

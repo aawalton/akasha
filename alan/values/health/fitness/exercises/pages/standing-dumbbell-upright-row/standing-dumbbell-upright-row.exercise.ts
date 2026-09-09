@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingDumbbellUprightRow = {
   id: "019ebc78-85bf-77c2-8da8-e2fee6e3dc41",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-dumbbell-upright-row",
   title: "Standing Dumbbell Upright Row",
   exerciseCategory: "strength",

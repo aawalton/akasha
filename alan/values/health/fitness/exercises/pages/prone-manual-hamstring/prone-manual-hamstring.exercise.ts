@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const proneManualHamstring = {
   id: "019ebc77-c58a-7713-8f5a-9881bb9cbfa6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "prone-manual-hamstring",
   title: "Prone Manual Hamstring",
   exerciseCategory: "strength",

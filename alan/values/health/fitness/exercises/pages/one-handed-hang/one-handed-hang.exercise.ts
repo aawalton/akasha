@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneHandedHang = {
   id: "019ebc77-bb4d-7307-a677-071820c15f79",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-handed-hang",
   title: "One Handed Hang",
   exerciseCategory: "stretching",

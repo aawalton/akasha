@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneHalfLocust = {
   id: "019ebc77-bb11-78b3-929e-1c6473370f45",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-half-locust",
   title: "One Half Locust",
   exerciseCategory: "stretching",

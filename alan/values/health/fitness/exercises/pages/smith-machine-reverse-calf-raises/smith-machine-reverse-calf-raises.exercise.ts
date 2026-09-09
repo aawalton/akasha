@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineReverseCalfRaises = {
   id: "019ebc78-6eb9-7540-8d31-6e67b3513b0a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-reverse-calf-raises",
   title: "Smith Machine Reverse Calf Raises",
   exerciseCategory: "strength",

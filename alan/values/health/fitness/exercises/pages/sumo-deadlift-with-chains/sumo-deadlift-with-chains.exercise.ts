@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sumoDeadliftWithChains = {
   id: "019ebc78-a629-7869-b099-fe6b022641ed",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "sumo-deadlift-with-chains",
   title: "Sumo Deadlift with Chains",
   exerciseCategory: "powerlifting",

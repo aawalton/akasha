@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const romanianDeadliftFromDeficit = {
   id: "019ebc77-d19b-79c2-b8fd-adf3a32ddb65",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "romanian-deadlift-from-deficit",
   title: "Romanian Deadlift from Deficit",
   exerciseCategory: "olympic-weightlifting",

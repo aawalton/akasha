@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const pyramid = {
   id: "019ebc77-c8ef-7e5a-b5cc-ea201e8b72d3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "pyramid",
   title: "Pyramid",
   exerciseCategory: "stretching",

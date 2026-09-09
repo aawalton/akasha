@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const stepUpWithKneeRaise = {
   id: "019ebc78-a2cd-71ee-b673-c9627cbd5d18",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "step-up-with-knee-raise",
   title: "Step-up with Knee Raise",
   exerciseCategory: "strength",

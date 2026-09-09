@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const overheadCableCurl = {
   id: "019ebc77-bc7f-7fe7-ba45-fcc6c6adcc27",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "overhead-cable-curl",
   title: "Overhead Cable Curl",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedHeadHarnessNeckResistance = {
   id: "019ebc78-5c6e-7311-9159-c6b162efc5e9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-head-harness-neck-resistance",
   title: "Seated Head Harness Neck Resistance",
   exerciseCategory: "strength",

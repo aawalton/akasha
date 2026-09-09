@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedBarbellTwist = {
   id: "019ebc78-53ae-72d2-9cd8-1da4747e1f62",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-barbell-twist",
   title: "Seated Barbell Twist",
   exerciseCategory: "strength",

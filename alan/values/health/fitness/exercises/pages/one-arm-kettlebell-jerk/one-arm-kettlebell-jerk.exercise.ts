@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmKettlebellJerk = {
   id: "019ebc77-b509-7d22-8aa5-850e4b446962",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-kettlebell-jerk",
   title: "One-Arm Kettlebell Jerk",
   exerciseCategory: "strength",

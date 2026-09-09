@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingBradfordPress = {
   id: "019ebc78-82f8-79bc-903b-8b74f33478d8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-bradford-press",
   title: "Standing Bradford Press",
   exerciseCategory: "strength",

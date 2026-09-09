@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneLeggedCableKickback = {
   id: "019ebc77-b8da-7537-b9a3-c276f58d88dd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-legged-cable-kickback",
   title: "One-Legged Cable Kickback",
   exerciseCategory: "strength",

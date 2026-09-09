@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedOneArmDumbbellPalmsUpWristCurl = {
   id: "019ebc78-5db3-7a32-8d88-41681220f4bc",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-one-arm-dumbbell-palms-up-wrist-curl",
   title: "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const palmsDownDumbbellWristCurlOverABench = {
   id: "019ebc77-be7e-7091-a12b-407494725e48",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "palms-down-dumbbell-wrist-curl-over-a-bench",
   title: "Palms-Down Dumbbell Wrist Curl Over A Bench",
   exerciseCategory: "strength",

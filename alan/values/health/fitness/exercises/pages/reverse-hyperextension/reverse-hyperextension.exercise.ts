@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseHyperextension = {
   id: "019ebc77-ceae-7c55-b9d0-2da357452094",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-hyperextension",
   title: "Reverse Hyperextension",
   exerciseCategory: "strength",

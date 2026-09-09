@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingTowelTricepsExtension = {
   id: "019ebc78-a1e4-7c87-8c93-f1052fc74901",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-towel-triceps-extension",
   title: "Standing Towel Triceps Extension",
   exerciseCategory: "strength",

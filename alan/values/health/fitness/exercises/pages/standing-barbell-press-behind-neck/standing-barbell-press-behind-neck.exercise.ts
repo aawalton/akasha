@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingBarbellPressBehindNeck = {
   id: "019ebc78-81b7-7224-a646-1638f2bd6a6c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-barbell-press-behind-neck",
   title: "Standing Barbell Press Behind Neck",
   exerciseCategory: "strength",

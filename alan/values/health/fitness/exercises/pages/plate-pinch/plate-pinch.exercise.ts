@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const platePinch = {
   id: "019ebc77-c16b-7ebd-a407-daa7e13aadf1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "plate-pinch",
   title: "Plate Pinch",
   exerciseCategory: "strength",

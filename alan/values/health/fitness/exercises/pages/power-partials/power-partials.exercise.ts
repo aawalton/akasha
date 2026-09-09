@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const powerPartials = {
   id: "019ebc77-c3da-76fd-bd2f-561a46c8bcb9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "power-partials",
   title: "Power Partials",
   exerciseCategory: "strength",

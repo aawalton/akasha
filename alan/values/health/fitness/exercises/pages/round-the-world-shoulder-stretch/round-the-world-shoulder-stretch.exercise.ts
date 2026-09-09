@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const roundTheWorldShoulderStretch = {
   id: "019ebc77-d2e2-7309-baff-8c3ecb5986b3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "round-the-world-shoulder-stretch",
   title: "Round The World Shoulder Stretch",
   exerciseCategory: "stretching",

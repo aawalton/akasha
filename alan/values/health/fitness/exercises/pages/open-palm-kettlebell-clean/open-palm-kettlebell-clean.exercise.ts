@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const openPalmKettlebellClean = {
   id: "019ebc77-bc02-73b0-8cd4-ca9300a7077e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "open-palm-kettlebell-clean",
   title: "Open Palm Kettlebell Clean",
   exerciseCategory: "strength",

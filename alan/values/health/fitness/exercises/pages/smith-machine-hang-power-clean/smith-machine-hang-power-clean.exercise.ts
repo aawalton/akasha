@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineHangPowerClean = {
   id: "019ebc78-6cee-7f11-86cb-83a10d9cfb3a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-hang-power-clean",
   title: "Smith Machine Hang Power Clean",
   exerciseCategory: "strength",

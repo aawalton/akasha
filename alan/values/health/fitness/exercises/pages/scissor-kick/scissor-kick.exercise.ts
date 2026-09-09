@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const scissorKick = {
   id: "019ebc77-d4b2-7965-ac19-9efa692a29ea",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "scissor-kick",
   title: "Scissor Kick",
   exerciseCategory: "stretching",

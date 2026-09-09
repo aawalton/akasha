@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const singleArmLinearJammer = {
   id: "019ebc78-651c-7e5b-a597-8ccfab2f946f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "single-arm-linear-jammer",
   title: "Single-Arm Linear Jammer",
   exerciseCategory: "strength",

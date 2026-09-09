@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseBandBenchPress = {
   id: "019ebc77-cb51-7105-a134-6b9e009e1108",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-band-bench-press",
   title: "Reverse Band Bench Press",
   exerciseCategory: "powerlifting",

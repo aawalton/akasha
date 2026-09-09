@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const quadStretch = {
   id: "019ebc77-c929-737e-ac0c-1684638cddd4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "quad-stretch",
   title: "Quad Stretch",
   exerciseCategory: "stretching",

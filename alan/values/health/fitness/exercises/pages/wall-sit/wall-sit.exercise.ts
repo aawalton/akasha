@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wallSit = {
   id: "019efbfe-eadb-7eee-9280-975810ea4813",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wall-sit",
   title: "Wall Sit",
   exerciseCategory: "strength",

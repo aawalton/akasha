@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineBehindTheBackShrug = {
   id: "019ebc78-6b62-70af-8226-bb6e141bb1e7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-behind-the-back-shrug",
   title: "Smith Machine Behind the Back Shrug",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const narrowStanceLegPress = {
   id: "019ebc77-b0db-714e-8502-1a2613cb36ee",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "narrow-stance-leg-press",
   title: "Narrow Stance Leg Press",
   exerciseCategory: "strength",

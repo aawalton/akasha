@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedSideLateralRaise = {
   id: "019ebc78-5f3b-7164-a52b-78dbdefa722f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-side-lateral-raise",
   title: "Seated Side Lateral Raise",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseGripBentOverRows = {
   id: "019ebc77-ce22-71c6-9514-52bbe75ef395",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-grip-bent-over-rows",
   title: "Reverse Grip Bent-Over Rows",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideToSideChins = {
   id: "019ebc78-641a-7ac7-8b12-56be86615061",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-to-side-chins",
   title: "Side To Side Chins",
   exerciseCategory: "strength",

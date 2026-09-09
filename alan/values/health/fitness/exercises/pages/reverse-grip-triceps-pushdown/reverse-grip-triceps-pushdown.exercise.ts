@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseGripTricepsPushdown = {
   id: "019ebc77-ce72-763c-9d6e-348a1ad3dc5d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-grip-triceps-pushdown",
   title: "Reverse Grip Triceps Pushdown",
   exerciseCategory: "strength",

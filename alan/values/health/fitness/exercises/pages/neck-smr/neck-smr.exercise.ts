@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const neckSmr = {
   id: "019ebc77-b190-7f7d-9051-ff904827e9f0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "neck-smr",
   title: "Neck-SMR",
   exerciseCategory: "stretching",

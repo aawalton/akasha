@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const suspendedRow = {
   id: "019ebc78-a84a-7d19-ae49-0f6a81659ef6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "suspended-row",
   title: "Suspended Row",
   exerciseCategory: "strength",

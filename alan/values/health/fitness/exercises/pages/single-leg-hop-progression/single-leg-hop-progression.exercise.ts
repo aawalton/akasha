@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const singleLegHopProgression = {
   id: "019ebc78-6623-772a-8563-782289d4363a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "single-leg-hop-progression",
   title: "Single-Leg Hop Progression",
   exerciseCategory: "plyometrics",

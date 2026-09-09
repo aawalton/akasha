@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedTwoArmPalmsUpLowPulleyWristCurl = {
   id: "019ebc78-5fc2-78e7-b16e-08a6a5d9e463",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-two-arm-palms-up-low-pulley-wrist-curl",
   title: "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
   exerciseCategory: "strength",

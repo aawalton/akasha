@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithInclineShoulderRaise = {
   id: "019ebc78-6b23-7488-adbe-b33f9b21d68f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-incline-shoulder-raise",
   title: "Smith Incline Shoulder Raise",
   exerciseCategory: "strength",

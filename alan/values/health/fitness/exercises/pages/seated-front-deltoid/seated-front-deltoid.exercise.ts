@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedFrontDeltoid = {
   id: "019ebc78-5819-7479-934f-2d770e1e26e0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-front-deltoid",
   title: "Seated Front Deltoid",
   exerciseCategory: "stretching",

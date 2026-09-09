@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const ropeJumping = {
   id: "019ebc77-d25d-7dd1-a226-290cb7e54d01",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "rope-jumping",
   title: "Rope Jumping",
   exerciseCategory: "cardio",

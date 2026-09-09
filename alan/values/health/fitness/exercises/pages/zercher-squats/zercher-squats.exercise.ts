@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const zercherSquats = {
   id: "019ebc78-c37d-7fb7-92fd-3a6555107872",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "zercher-squats",
   title: "Zercher Squats",
   exerciseCategory: "strength",

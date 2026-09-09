@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const upperBackLegGrab = {
   id: "019ebc78-af23-7eaa-84c5-5644a1990bfd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "upper-back-leg-grab",
   title: "Upper Back-Leg Grab",
   exerciseCategory: "stretching",

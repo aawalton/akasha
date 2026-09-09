@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wristRotationsWithStraightBar = {
   id: "019ebc78-c2f3-7386-9d50-23f7cac5682a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wrist-rotations-with-straight-bar",
   title: "Wrist Rotations with Straight Bar",
   exerciseCategory: "strength",

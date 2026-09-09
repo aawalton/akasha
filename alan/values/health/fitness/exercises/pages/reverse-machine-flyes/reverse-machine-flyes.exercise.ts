@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseMachineFlyes = {
   id: "019ebc77-ceea-7f52-afcb-be584aad9e6b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-machine-flyes",
   title: "Reverse Machine Flyes",
   exerciseCategory: "strength",

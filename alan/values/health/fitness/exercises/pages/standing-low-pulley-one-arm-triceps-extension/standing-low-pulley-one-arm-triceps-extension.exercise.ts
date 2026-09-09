@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingLowPulleyOneArmTricepsExtension = {
   id: "019ebc78-8ad6-71c6-a914-8673947e3b1f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-low-pulley-one-arm-triceps-extension",
   title: "Standing Low-Pulley One-Arm Triceps Extension",
   exerciseCategory: "strength",

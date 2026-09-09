@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingHipFlexors = {
   id: "019ebc78-8958-74cf-b70d-dbd265fdead8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-hip-flexors",
   title: "Standing Hip Flexors",
   exerciseCategory: "stretching",

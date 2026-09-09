@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const piriformisSmr = {
   id: "019ebc77-c0eb-7a1a-bf33-46bae63712f4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "piriformis-smr",
   title: "Piriformis-SMR",
   exerciseCategory: "stretching",

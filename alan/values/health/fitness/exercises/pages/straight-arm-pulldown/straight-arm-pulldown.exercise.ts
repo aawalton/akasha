@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const straightArmPulldown = {
   id: "019ebc78-a4a8-7189-8879-0d3af3bd790e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "straight-arm-pulldown",
   title: "Straight-Arm Pulldown",
   exerciseCategory: "strength",

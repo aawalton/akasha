@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingInnerBicepsCurl = {
   id: "019ebc78-89a1-70b7-9f43-45f09920480e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-inner-biceps-curl",
   title: "Standing Inner-Biceps Curl",
   exerciseCategory: "strength",

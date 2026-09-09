@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideLyingFloorStretch = {
   id: "019ebc78-61b1-7154-acdb-8106fbce0cb8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-lying-floor-stretch",
   title: "Side-Lying Floor Stretch",
   exerciseCategory: "stretching",

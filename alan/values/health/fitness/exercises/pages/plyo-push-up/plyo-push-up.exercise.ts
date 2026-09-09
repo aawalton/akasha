@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const plyoPushUp = {
   id: "019ebc77-c2a1-7d55-9ec1-a94a10cd6fd5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "plyo-push-up",
   title: "Plyo Push-up",
   exerciseCategory: "plyometrics",

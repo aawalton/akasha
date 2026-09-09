@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const powerClean = {
   id: "019ebc77-c31e-7f80-a447-bff2038a19de",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "power-clean",
   title: "Power Clean",
   exerciseCategory: "strength",

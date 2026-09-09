@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const peronealsSmr = {
   id: "019ebc77-bff8-7680-a81a-e0e2431a4544",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "peroneals-smr",
   title: "Peroneals-SMR",
   exerciseCategory: "stretching",

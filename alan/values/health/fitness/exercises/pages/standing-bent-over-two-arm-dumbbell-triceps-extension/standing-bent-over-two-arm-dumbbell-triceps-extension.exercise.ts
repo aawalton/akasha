@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingBentOverTwoArmDumbbellTricepsExtension = {
   id: "019ebc78-8232-7623-8b54-9365ec6f7647",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-bent-over-two-arm-dumbbell-triceps-extension",
   title: "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",

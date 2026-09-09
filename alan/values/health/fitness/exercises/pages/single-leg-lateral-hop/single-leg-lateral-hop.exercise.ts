@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const singleLegLateralHop = {
   id: "019ebc78-6668-7eba-a769-b4206322dc3a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "single-leg-lateral-hop",
   title: "Single-Leg Lateral Hop",
   exerciseCategory: "plyometrics",

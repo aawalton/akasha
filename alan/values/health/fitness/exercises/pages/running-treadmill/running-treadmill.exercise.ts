@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const runningTreadmill = {
   id: "019ebc77-d3b9-7893-85ac-22034c0e9c88",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "running-treadmill",
   title: "Running, Treadmill",
   exerciseCategory: "cardio",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const spiderCurl = {
   id: "019ebc78-7dba-7cf3-b1f6-98707de696c8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "spider-curl",
   title: "Spider Curl",
   exerciseCategory: "strength",

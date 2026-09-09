@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingOneArmCableCurl = {
   id: "019ebc78-9f17-7c1c-aad9-bd4e889e823a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-one-arm-cable-curl",
   title: "Standing One-Arm Cable Curl",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmOverheadKettlebellSquats = {
   id: "019ebc77-b828-70d8-8cda-8009551c0bae",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-overhead-kettlebell-squats",
   title: "One-Arm Overhead Kettlebell Squats",
   exerciseCategory: "strength",

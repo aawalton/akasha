@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseCableCurl = {
   id: "019ebc77-cd34-7d01-8ac8-9f31d5db525e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-cable-curl",
   title: "Reverse Cable Curl",
   exerciseCategory: "strength",

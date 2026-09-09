@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const prowlerSprint = {
   id: "019ebc77-c5c5-7f83-a4e4-4de91f5d10c1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "prowler-sprint",
   title: "Prowler Sprint",
   exerciseCategory: "cardio",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const starJump = {
   id: "019ebc78-a283-76c1-b411-85ef22ff41cb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "star-jump",
   title: "Star Jump",
   exerciseCategory: "plyometrics",

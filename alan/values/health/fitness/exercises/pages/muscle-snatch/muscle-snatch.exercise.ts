@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const muscleSnatch = {
   id: "019ebc77-adc8-763d-ac16-c0addf1a4f45",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "muscle-snatch",
   title: "Muscle Snatch",
   exerciseCategory: "olympic-weightlifting",

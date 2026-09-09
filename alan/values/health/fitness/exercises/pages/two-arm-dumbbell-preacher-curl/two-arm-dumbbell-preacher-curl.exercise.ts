@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const twoArmDumbbellPreacherCurl = {
   id: "019ebc78-ad91-7f3c-b6ba-ff7e74438cd5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "two-arm-dumbbell-preacher-curl",
   title: "Two-Arm Dumbbell Preacher Curl",
   exerciseCategory: "strength",

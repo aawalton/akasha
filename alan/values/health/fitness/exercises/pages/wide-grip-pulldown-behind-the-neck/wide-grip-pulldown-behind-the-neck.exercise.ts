@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wideGripPulldownBehindTheNeck = {
   id: "019ebc78-b89f-72fb-8e07-02c0902baeab",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wide-grip-pulldown-behind-the-neck",
   title: "Wide-Grip Pulldown Behind The Neck",
   exerciseCategory: "strength",

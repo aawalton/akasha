@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const rowingStationary = {
   id: "019ebc77-d334-7120-9e10-e07b93b85b41",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "rowing-stationary",
   title: "Rowing, Stationary",
   exerciseCategory: "cardio",

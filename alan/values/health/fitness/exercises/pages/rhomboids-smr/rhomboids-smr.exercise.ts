@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const rhomboidsSmr = {
   id: "019ebc77-cf9e-74b9-84ea-fc53ab5317ba",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "rhomboids-smr",
   title: "Rhomboids-SMR",
   exerciseCategory: "stretching",

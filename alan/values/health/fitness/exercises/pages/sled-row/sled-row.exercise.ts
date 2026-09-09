@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sledRow = {
   id: "019ebc78-6aa4-7ecd-badc-4bf64899b9a0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "sled-row",
   title: "Sled Row",
   exerciseCategory: "strength",

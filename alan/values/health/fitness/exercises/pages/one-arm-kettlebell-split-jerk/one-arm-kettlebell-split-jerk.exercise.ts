@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmKettlebellSplitJerk = {
   id: "019ebc77-b68a-780d-808e-cccb800c6e87",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-kettlebell-split-jerk",
   title: "One-Arm Kettlebell Split Jerk",
   exerciseCategory: "strength",

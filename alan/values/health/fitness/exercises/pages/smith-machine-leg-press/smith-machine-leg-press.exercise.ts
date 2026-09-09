@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineLegPress = {
   id: "019ebc78-6dba-7640-9607-932111c2a0a9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-leg-press",
   title: "Smith Machine Leg Press",
   exerciseCategory: "strength",

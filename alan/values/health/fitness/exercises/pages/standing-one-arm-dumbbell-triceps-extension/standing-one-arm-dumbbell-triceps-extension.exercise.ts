@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingOneArmDumbbellTricepsExtension = {
   id: "019ebc78-9f98-78bd-919e-b2c7aed10795",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-one-arm-dumbbell-triceps-extension",
   title: "Standing One-Arm Dumbbell Triceps Extension",
   exerciseCategory: "strength",

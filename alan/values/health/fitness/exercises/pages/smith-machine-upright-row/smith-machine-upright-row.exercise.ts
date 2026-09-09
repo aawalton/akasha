@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineUprightRow = {
   id: "019ebc78-6f74-7a54-8d41-966b7b46a0e0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-upright-row",
   title: "Smith Machine Upright Row",
   exerciseCategory: "strength",

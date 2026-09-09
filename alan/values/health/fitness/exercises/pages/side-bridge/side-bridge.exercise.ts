@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideBridge = {
   id: "019ebc78-61f1-7569-92a5-f0695297fd32",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-bridge",
   title: "Side Bridge",
   exerciseCategory: "strength",

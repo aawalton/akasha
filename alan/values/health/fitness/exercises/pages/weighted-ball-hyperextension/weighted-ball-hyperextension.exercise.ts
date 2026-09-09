@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const weightedBallHyperextension = {
   id: "019ebc78-b50f-78a4-b525-12cc716845bc",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "weighted-ball-hyperextension",
   title: "Weighted Ball Hyperextension",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const squatWithBands = {
   id: "019ebc78-8001-79fe-99bf-703476adf018",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "squat-with-bands",
   title: "Squat with Bands",
   exerciseCategory: "powerlifting",

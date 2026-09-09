@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedLegCurl = {
   id: "019ebc78-5cae-7ba2-a158-912f50780126",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-leg-curl",
   title: "Seated Leg Curl",
   exerciseCategory: "strength",

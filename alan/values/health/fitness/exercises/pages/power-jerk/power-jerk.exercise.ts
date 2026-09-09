@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const powerJerk = {
   id: "019ebc77-c39d-7705-9ea5-3edea1f92b3d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "power-jerk",
   title: "Power Jerk",
   exerciseCategory: "olympic-weightlifting",

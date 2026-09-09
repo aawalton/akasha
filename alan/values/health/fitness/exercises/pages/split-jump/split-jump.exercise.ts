@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const splitJump = {
   id: "019ebc78-7ebe-78a0-a3a8-dae1230db910",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "split-jump",
   title: "Split Jump",
   exerciseCategory: "plyometrics",

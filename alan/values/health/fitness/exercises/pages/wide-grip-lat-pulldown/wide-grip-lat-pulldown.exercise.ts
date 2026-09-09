@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wideGripLatPulldown = {
   id: "019ebc78-b85f-73fd-aecc-cbba825105ee",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wide-grip-lat-pulldown",
   title: "Wide-Grip Lat Pulldown",
   exerciseCategory: "strength",

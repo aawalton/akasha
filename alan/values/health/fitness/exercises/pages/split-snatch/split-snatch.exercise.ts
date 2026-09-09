@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const splitSnatch = {
   id: "019ebc78-7efc-7a42-a2bb-86de506add51",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "split-snatch",
   title: "Split Snatch",
   exerciseCategory: "olympic-weightlifting",

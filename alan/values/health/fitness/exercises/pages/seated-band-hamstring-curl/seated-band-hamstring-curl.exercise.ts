@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedBandHamstringCurl = {
   id: "019ebc77-d5fa-738b-87d9-acfaed9a1bf7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-band-hamstring-curl",
   title: "Seated Band Hamstring Curl",
   exerciseCategory: "strength",

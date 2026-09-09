@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseCrunch = {
   id: "019ebc77-cd71-7d2b-a1c4-61d73bf62515",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-crunch",
   title: "Reverse Crunch",
   exerciseCategory: "strength",

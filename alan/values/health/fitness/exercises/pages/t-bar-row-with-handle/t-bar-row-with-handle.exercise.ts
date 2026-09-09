@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tBarRowWithHandle = {
   id: "019ebc78-a90e-7844-863f-0a09917d3f22",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "t-bar-row-with-handle",
   title: "T-Bar Row with Handle",
   exerciseCategory: "strength",

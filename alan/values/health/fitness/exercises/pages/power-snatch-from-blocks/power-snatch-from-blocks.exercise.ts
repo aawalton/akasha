@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const powerSnatchFromBlocks = {
   id: "019ebc77-c453-7539-af52-fa87a2a772f7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "power-snatch-from-blocks",
   title: "Power Snatch from Blocks",
   exerciseCategory: "olympic-weightlifting",

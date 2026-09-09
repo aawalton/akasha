@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const singleLegHighBoxSquat = {
   id: "019ebc78-65e5-7732-8d1c-9e603d8e7455",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "single-leg-high-box-squat",
   title: "Single-Leg High Box Squat",
   exerciseCategory: "strength",

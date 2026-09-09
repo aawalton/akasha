@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wideGripBarbellBenchPress = {
   id: "019ebc78-b7a6-7a41-b648-d7f56bdb8619",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wide-grip-barbell-bench-press",
   title: "Wide-Grip Barbell Bench Press",
   exerciseCategory: "strength",

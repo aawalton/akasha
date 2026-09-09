@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingPalmsUpBarbellBehindTheBackWristCurl = {
   id: "019ebc78-a097-7777-9c86-c65605d57d9a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-palms-up-barbell-behind-the-back-wrist-curl",
   title: "Standing Palms-Up Barbell Behind The Back Wrist Curl",
   exerciseCategory: "strength",

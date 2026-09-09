@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingLateralStretch = {
   id: "019ebc78-89de-739c-977f-8556ff996b76",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-lateral-stretch",
   title: "Standing Lateral Stretch",
   exerciseCategory: "stretching",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedDumbbellPalmsDownWristCurl = {
   id: "019ebc78-56d6-7109-a6d9-60e2c986cd0a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-dumbbell-palms-down-wrist-curl",
   title: "Seated Dumbbell Palms-Down Wrist Curl",
   exerciseCategory: "strength",

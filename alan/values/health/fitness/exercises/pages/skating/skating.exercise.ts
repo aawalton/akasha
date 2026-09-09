@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const skating = {
   id: "019ebc78-6913-7efa-8656-a623aa145feb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "skating",
   title: "Skating",
   exerciseCategory: "cardio",

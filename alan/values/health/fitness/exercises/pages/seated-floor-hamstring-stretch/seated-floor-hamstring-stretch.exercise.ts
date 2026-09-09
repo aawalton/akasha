@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedFloorHamstringStretch = {
   id: "019ebc78-57cb-7b40-8846-9cb9d097df93",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-floor-hamstring-stretch",
   title: "Seated Floor Hamstring Stretch",
   exerciseCategory: "stretching",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingSoleusAndAchillesStretch = {
   id: "019ebc78-a160-7641-bbc7-d74d722df1f3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-soleus-and-achilles-stretch",
   title: "Standing Soleus And Achilles Stretch",
   exerciseCategory: "stretching",

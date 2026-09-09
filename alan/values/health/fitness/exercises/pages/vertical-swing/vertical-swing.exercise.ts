@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const verticalSwing = {
   id: "019ebc78-b41e-75cc-9d4e-e1075d358857",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "vertical-swing",
   title: "Vertical Swing",
   exerciseCategory: "plyometrics",

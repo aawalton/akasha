@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingPelvicTilt = {
   id: "019ebc78-a0d6-725f-84a6-f9923e43b07d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-pelvic-tilt",
   title: "Standing Pelvic Tilt",
   exerciseCategory: "stretching",

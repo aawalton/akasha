@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedTricepsPress = {
   id: "019ebc78-5f81-73a5-b460-999f154c90b1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-triceps-press",
   title: "Seated Triceps Press",
   exerciseCategory: "strength",

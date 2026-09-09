@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedOverheadStretch = {
   id: "019ebc78-5e52-7fc7-8b55-677ec92c6aad",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-overhead-stretch",
   title: "Seated Overhead Stretch",
   exerciseCategory: "stretching",

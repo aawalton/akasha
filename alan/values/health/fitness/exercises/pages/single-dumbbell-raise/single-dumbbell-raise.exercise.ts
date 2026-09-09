@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const singleDumbbellRaise = {
   id: "019ebc78-6728-7124-beb1-1a9389814abb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "single-dumbbell-raise",
   title: "Single Dumbbell Raise",
   exerciseCategory: "strength",

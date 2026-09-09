@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const pinPresses = {
   id: "019ebc77-c0aa-7c71-9f04-68f82e4d210f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "pin-presses",
   title: "Pin Presses",
   exerciseCategory: "powerlifting",

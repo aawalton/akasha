@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const medicineBallScoopThrow = {
   id: "019ebc77-9b6e-758b-a7ec-f9c3da79baa6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "medicine-ball-scoop-throw",
   title: "Medicine Ball Scoop Throw",
   exerciseCategory: "plyometrics",

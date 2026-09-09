@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const otisUp = {
   id: "019ebc77-bc42-7f2c-9e8a-4ab3400e5f9d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "otis-up",
   title: "Otis-Up",
   exerciseCategory: "strength",

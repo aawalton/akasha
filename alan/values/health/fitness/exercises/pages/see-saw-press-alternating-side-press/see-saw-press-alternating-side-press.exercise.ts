@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seeSawPressAlternatingSidePress = {
   id: "019ebc78-6002-7275-b4b0-ebc9d1293f52",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "see-saw-press-alternating-side-press",
   title: "See-Saw Press (Alternating Side Press)",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sledReverseFlye = {
   id: "019ebc78-6a5e-7dda-b208-83578dad8743",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "sled-reverse-flye",
   title: "Sled Reverse Flye",
   exerciseCategory: "strength",

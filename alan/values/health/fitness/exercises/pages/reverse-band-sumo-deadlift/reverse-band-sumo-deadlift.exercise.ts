@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const reverseBandSumoDeadlift = {
   id: "019ebc77-cc63-79f7-b4e7-9a17815e8c60",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "reverse-band-sumo-deadlift",
   title: "Reverse Band Sumo Deadlift",
   exerciseCategory: "powerlifting",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const pushups = {
   id: "019ebc77-c86e-78c2-a1ae-4c8251bbbab6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "pushups",
   title: "Pushups",
   exerciseCategory: "strength",

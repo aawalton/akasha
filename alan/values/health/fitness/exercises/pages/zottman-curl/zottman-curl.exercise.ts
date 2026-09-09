@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const zottmanCurl = {
   id: "019ebc78-c3bf-71f5-bfc5-3d0bbf81ba3c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "zottman-curl",
   title: "Zottman Curl",
   exerciseCategory: "strength",

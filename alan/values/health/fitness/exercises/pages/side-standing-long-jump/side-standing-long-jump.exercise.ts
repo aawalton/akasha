@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideStandingLongJump = {
   id: "019ebc78-63e0-7199-9d27-3cd5c98f72e1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-standing-long-jump",
   title: "Side Standing Long Jump",
   exerciseCategory: "plyometrics",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingGastrocnemiusCalfStretch = {
   id: "019ebc78-8843-7365-b7ab-d64bfad32786",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-gastrocnemius-calf-stretch",
   title: "Standing Gastrocnemius Calf Stretch",
   exerciseCategory: "stretching",

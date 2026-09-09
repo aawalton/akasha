@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const toeTouchers = {
   id: "019ebc78-aa8e-76fa-8473-8f668fbe4e45",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "toe-touchers",
   title: "Toe Touchers",
   exerciseCategory: "stretching",

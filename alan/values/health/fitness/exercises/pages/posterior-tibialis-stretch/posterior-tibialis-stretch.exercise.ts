@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const posteriorTibialisStretch = {
   id: "019ebc77-c2e3-7244-8d6c-fa5f0d428a3c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "posterior-tibialis-stretch",
   title: "Posterior Tibialis Stretch",
   exerciseCategory: "stretching",

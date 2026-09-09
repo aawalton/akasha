@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const obliqueCrunches = {
   id: "019ebc77-b20c-7920-a835-defef1ce4009",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "oblique-crunches",
   title: "Oblique Crunches",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideLateralsToFrontRaise = {
   id: "019ebc78-62e4-7ada-a3ea-7e94c9020e68",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-laterals-to-front-raise",
   title: "Side Laterals to Front Raise",
   exerciseCategory: "strength",

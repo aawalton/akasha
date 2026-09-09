@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedOneArmCablePulleyRows = {
   id: "019ebc78-5dee-7fa2-873a-b80282940ffb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-one-arm-cable-pulley-rows",
   title: "Seated One-arm Cable Pulley Rows",
   exerciseCategory: "strength",

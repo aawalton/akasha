@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const uprightCableRow = {
   id: "019ebc78-b2c1-7b92-a6cd-fe7679726432",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "upright-cable-row",
   title: "Upright Cable Row",
   exerciseCategory: "strength",

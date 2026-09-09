@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const rackPulls = {
   id: "019ebc77-ca58-7dc5-baab-3866e71ef61b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "rack-pulls",
   title: "Rack Pulls",
   exerciseCategory: "powerlifting",

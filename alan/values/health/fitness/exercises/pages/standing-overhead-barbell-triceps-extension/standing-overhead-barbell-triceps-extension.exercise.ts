@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingOverheadBarbellTricepsExtension = {
   id: "019ebc78-9fd4-7f61-8212-859f44ea0199",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-overhead-barbell-triceps-extension",
   title: "Standing Overhead Barbell Triceps Extension",
   exerciseCategory: "strength",

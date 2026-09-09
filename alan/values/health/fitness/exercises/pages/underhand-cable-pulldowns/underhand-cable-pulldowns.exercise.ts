@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const underhandCablePulldowns = {
   id: "019ebc78-aee3-7d9c-ba50-850bc3c9e0d9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "underhand-cable-pulldowns",
   title: "Underhand Cable Pulldowns",
   exerciseCategory: "strength",

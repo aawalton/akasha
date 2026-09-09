@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const pallofPressWithRotation = {
   id: "019ebc77-be40-7a50-a5c9-de8bc6fc3e9e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "pallof-press-with-rotation",
   title: "Pallof Press With Rotation",
   exerciseCategory: "strength",

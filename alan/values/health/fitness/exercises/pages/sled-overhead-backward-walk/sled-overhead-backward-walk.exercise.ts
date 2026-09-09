@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sledOverheadBackwardWalk = {
   id: "019ebc78-6996-7024-81fa-072609c95555",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "sled-overhead-backward-walk",
   title: "Sled Overhead Backward Walk",
   exerciseCategory: "strength",

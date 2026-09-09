@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingRopeCrunch = {
   id: "019ebc78-a11f-7800-9cf9-c87c545314b3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-rope-crunch",
   title: "Standing Rope Crunch",
   exerciseCategory: "strength",

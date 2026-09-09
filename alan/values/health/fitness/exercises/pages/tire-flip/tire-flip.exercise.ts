@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tireFlip = {
   id: "019ebc78-aa50-7399-9e6e-4ff4e504087f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "tire-flip",
   title: "Tire Flip",
   exerciseCategory: "strongman",

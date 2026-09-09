@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingCableWoodChop = {
   id: "019ebc78-83ba-739f-80f8-91a6ed166c67",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-cable-wood-chop",
   title: "Standing Cable Wood Chop",
   exerciseCategory: "strength",

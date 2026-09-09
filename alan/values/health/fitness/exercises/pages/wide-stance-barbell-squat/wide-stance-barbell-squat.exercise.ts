@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wideStanceBarbellSquat = {
   id: "019ebc78-c100-7d28-b2e1-570ae6f0aa51",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wide-stance-barbell-squat",
   title: "Wide Stance Barbell Squat",
   exerciseCategory: "strength",

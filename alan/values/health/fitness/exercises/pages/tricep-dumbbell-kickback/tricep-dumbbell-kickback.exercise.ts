@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tricepDumbbellKickback = {
   id: "019ebc78-ab79-7e19-9592-027d0182b5e7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "tricep-dumbbell-kickback",
   title: "Tricep Dumbbell Kickback",
   exerciseCategory: "strength",

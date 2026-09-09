@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingBarbellCalfRaise = {
   id: "019ebc78-8177-7614-bcc5-af3985ec2df0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-barbell-calf-raise",
   title: "Standing Barbell Calf Raise",
   exerciseCategory: "strength",

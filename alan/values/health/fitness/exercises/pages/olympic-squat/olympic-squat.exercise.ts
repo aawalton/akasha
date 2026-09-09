@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const olympicSquat = {
   id: "019ebc77-b287-7e9f-b2e5-07ecb711d848",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "olympic-squat",
   title: "Olympic Squat",
   exerciseCategory: "olympic-weightlifting",

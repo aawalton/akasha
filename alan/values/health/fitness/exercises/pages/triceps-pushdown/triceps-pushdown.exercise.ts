@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tricepsPushdown = {
   id: "019ebc78-ac3c-766f-8307-61167a68abba",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "triceps-pushdown",
   title: "Triceps Pushdown",
   exerciseCategory: "strength",

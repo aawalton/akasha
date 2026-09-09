@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const straightBarBenchMidRows = {
   id: "019ebc78-a4e5-7807-a5f3-8ee48f72494f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "straight-bar-bench-mid-rows",
   title: "Straight Bar Bench Mid Rows",
   exerciseCategory: "strength",

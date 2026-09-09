@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedGlute = {
   id: "019ebc78-585d-7501-ba48-fb391609d0ff",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-glute",
   title: "Seated Glute",
   exerciseCategory: "stretching",

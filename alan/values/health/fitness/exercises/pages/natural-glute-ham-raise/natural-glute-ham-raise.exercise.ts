@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const naturalGluteHamRaise = {
   id: "019ebc77-b156-70e9-bbc3-edc19063b8ab",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "natural-glute-ham-raise",
   title: "Natural Glute Ham Raise",
   exerciseCategory: "strength",

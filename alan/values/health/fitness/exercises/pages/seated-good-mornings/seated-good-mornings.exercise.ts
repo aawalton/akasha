@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedGoodMornings = {
   id: "019ebc78-5b70-7526-969b-74de866214a2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-good-mornings",
   title: "Seated Good Mornings",
   exerciseCategory: "powerlifting",

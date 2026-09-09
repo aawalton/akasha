@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingTwoArmOverheadThrow = {
   id: "019ebc78-a225-7e30-ab6a-e08ca19cd63b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-two-arm-overhead-throw",
   title: "Standing Two-Arm Overhead Throw",
   exerciseCategory: "plyometrics",

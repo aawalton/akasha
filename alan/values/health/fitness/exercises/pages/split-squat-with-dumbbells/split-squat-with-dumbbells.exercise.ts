@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const splitSquatWithDumbbells = {
   id: "019ebc78-7f4e-7297-95fe-5257c67f037a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "split-squat-with-dumbbells",
   title: "Split Squat with Dumbbells",
   exerciseCategory: "strength",

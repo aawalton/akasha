@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingMilitaryPress = {
   id: "019ebc78-8b14-7a5d-98f0-0cbf66c2dbd3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-military-press",
   title: "Standing Military Press",
   exerciseCategory: "strength",

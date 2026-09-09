@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const shoulderPressWithBands = {
   id: "019ebc78-60f0-7098-af12-1c8ce388e20c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "shoulder-press-with-bands",
   title: "Shoulder Press - With Bands",
   exerciseCategory: "strength",

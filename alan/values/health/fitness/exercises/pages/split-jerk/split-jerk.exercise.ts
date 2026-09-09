@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const splitJerk = {
   id: "019ebc78-7e80-7a14-972e-ef170de78750",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "split-jerk",
   title: "Split Jerk",
   exerciseCategory: "olympic-weightlifting",

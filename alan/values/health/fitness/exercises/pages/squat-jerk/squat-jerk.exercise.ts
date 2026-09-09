@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const squatJerk = {
   id: "019ebc78-7fc9-7697-956c-36bbe5b60e60",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "squat-jerk",
   title: "Squat Jerk",
   exerciseCategory: "strength",

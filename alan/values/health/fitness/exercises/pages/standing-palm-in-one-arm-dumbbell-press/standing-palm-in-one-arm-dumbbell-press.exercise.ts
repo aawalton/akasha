@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingPalmInOneArmDumbbellPress = {
   id: "019ebc78-a013-7514-b6bc-6dda13ddbeda",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-palm-in-one-arm-dumbbell-press",
   title: "Standing Palm-In One-Arm Dumbbell Press",
   exerciseCategory: "strength",

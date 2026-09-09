@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const straightRaisesOnInclineBench = {
   id: "019ebc78-a522-7884-b8fa-b785b0de48a1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "straight-raises-on-incline-bench",
   title: "Straight Raises on Incline Bench",
   exerciseCategory: "strength",

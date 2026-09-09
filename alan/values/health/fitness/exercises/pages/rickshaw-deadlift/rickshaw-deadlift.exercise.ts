@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const rickshawDeadlift = {
   id: "019ebc77-d01e-7ffa-badf-560c050a35a0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "rickshaw-deadlift",
   title: "Rickshaw Deadlift",
   exerciseCategory: "strongman",

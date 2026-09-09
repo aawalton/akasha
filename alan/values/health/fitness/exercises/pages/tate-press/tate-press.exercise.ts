@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tatePress = {
   id: "019ebc78-a950-79ee-93f2-54f59222234f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "tate-press",
   title: "Tate Press",
   exerciseCategory: "strength",

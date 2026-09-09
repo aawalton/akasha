@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const seatedCableRows = {
   id: "019ebc78-54ea-7e41-83bc-c7579ad6c143",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "seated-cable-rows",
   title: "Seated Cable Rows",
   exerciseCategory: "strength",

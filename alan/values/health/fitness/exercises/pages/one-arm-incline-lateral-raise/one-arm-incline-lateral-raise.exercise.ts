@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmInclineLateralRaise = {
   id: "019ebc77-b40c-79f5-9311-2d19171fd49b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-incline-lateral-raise",
   title: "One-Arm Incline Lateral Raise",
   exerciseCategory: "strength",

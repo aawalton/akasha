@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const smithMachineCloseGripBenchPress = {
   id: "019ebc78-6c67-72eb-bee1-56bb4f1294e0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "smith-machine-close-grip-bench-press",
   title: "Smith Machine Close-Grip Bench Press",
   exerciseCategory: "strength",

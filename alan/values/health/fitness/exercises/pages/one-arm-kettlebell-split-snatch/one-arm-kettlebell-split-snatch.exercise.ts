@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const oneArmKettlebellSplitSnatch = {
   id: "019ebc77-b6cd-71f9-b798-534e9d1eba79",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "one-arm-kettlebell-split-snatch",
   title: "One-Arm Kettlebell Split Snatch",
   exerciseCategory: "strength",

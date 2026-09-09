@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const strideJumpCrossover = {
   id: "019ebc78-a565-7423-b10c-f812221c569b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "stride-jump-crossover",
   title: "Stride Jump Crossover",
   exerciseCategory: "plyometrics",

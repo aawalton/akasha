@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const weightedCrunches = {
   id: "019ebc78-b639-7b4c-9d5f-31528e8a086e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "weighted-crunches",
   title: "Weighted Crunches",
   exerciseCategory: "strength",

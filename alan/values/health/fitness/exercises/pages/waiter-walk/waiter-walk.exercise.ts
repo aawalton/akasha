@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const waiterWalk = {
   id: "019f9756-dcfc-7e43-971c-5ad4fd9130ae",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "waiter-walk",
   title: "Waiter Walk",
   exerciseCategory: "strength",

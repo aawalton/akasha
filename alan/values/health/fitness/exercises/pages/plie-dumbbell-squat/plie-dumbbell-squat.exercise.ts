@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const plieDumbbellSquat = {
   id: "019ebc77-c22a-75fa-830c-7c7ccdb5a076",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "plie-dumbbell-squat",
   title: "Plie Dumbbell Squat",
   exerciseCategory: "strength",

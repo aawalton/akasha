@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const stepMill = {
   id: "019ebc78-a310-7217-a4ca-1a4855cc6e82",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "step-mill",
   title: "Step Mill",
   exerciseCategory: "cardio",

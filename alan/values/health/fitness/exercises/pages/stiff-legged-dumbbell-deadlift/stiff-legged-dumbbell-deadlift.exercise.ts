@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const stiffLeggedDumbbellDeadlift = {
   id: "019ebc78-a395-7aac-b9df-5cc74b97a2c1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "stiff-legged-dumbbell-deadlift",
   title: "Stiff-Legged Dumbbell Deadlift",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingBicepsStretch = {
   id: "019ebc78-82b5-7ff6-8f84-2f3db20a60ba",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-biceps-stretch",
   title: "Standing Biceps Stretch",
   exerciseCategory: "stretching",

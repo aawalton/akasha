@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const tuckCrunch = {
   id: "019ebc78-ad50-719f-89bb-72aabcc1d002",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "tuck-crunch",
   title: "Tuck Crunch",
   exerciseCategory: "strength",

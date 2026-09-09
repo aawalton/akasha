@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const neckPress = {
   id: "019ebc77-b1cf-7d0c-8a6a-c39dcdfb9aa5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "neck-press",
   title: "Neck Press",
   exerciseCategory: "strength",

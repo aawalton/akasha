@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sledOverheadTricepsExtension = {
   id: "019ebc78-69d2-7bfe-981d-1d3782e64f7c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "sled-overhead-triceps-extension",
   title: "Sled Overhead Triceps Extension",
   exerciseCategory: "strength",

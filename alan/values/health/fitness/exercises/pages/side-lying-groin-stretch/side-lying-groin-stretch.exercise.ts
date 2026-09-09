@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const sideLyingGroinStretch = {
   id: "019ebc78-6361-711d-b3e4-c7971e36dcb6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "side-lying-groin-stretch",
   title: "Side Lying Groin Stretch",
   exerciseCategory: "stretching",

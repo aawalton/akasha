@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const standingCalfRaiseBodyweight = {
   id: "019ee5fe-9a46-7c8b-8fa3-37e443f9ffd6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "standing-calf-raise-bodyweight",
   title: "Standing Calf Raise (Bodyweight)",
   exerciseCategory: "strength",

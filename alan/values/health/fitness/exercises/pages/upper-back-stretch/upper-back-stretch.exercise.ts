@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const upperBackStretch = {
   id: "019ebc78-af60-7ee4-a837-1e57b72b4033",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "upper-back-stretch",
   title: "Upper Back Stretch",
   exerciseCategory: "stretching",

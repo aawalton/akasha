@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const uprightBarbellRow = {
   id: "019ebc78-afa4-7d75-891f-49e0c73170ea",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "upright-barbell-row",
   title: "Upright Barbell Row",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const wristCircles = {
   id: "019ebc78-c270-70dd-8361-1eaf91edd9f0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "wrist-circles",
   title: "Wrist Circles",
   exerciseCategory: "stretching",

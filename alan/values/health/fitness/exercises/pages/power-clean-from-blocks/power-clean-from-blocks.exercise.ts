@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const powerCleanFromBlocks = {
   id: "019ebc77-c35e-7ade-a5fa-72ab7833b27b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "power-clean-from-blocks",
   title: "Power Clean from Blocks",
   exerciseCategory: "olympic-weightlifting",
