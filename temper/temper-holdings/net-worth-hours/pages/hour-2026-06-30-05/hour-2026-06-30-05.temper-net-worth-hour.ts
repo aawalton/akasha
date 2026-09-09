@@ -3,6 +3,7 @@ import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.t
 export const hour2026063005 = {
   id: "01a06009-48cb-77a0-be23-9b24290c7fc2",
   pageTypeSlug: "temper-net-worth-hour",
+  type: "temper-net-worth-hour",
   slug: "hour-2026-06-30-05",
   title: "2026-06-30 05:00 UTC",
   snapshots: "jsonl",
