@@ -7,7 +7,7 @@ export const grace5a895ca7 = {
   title: "Grace",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "grace",
-  personaSlug: "grace",
+  persona: "grace",
   cover: "/api/image/019f324d-7395-7630-adc6-91bdb59d2d63",
   coverImageId: "019f324d-7395-7630-adc6-91bdb59d2d63",
   stars: 0,

@@ -7,7 +7,7 @@ export const sophia5a895ca7 = {
   title: "Sophia",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "sophia",
-  personaSlug: "sophia",
+  persona: "sophia",
   cover: "/api/image/019f15db-88ef-7c23-9843-6d8408ac0952",
   coverImageId: "019f15db-88ef-7c23-9843-6d8408ac0952",
   stars: 0,

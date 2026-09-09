@@ -7,7 +7,7 @@ export const aura5a895ca7 = {
   title: "Aura",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "aura",
-  personaSlug: "aura",
+  persona: "aura",
   cover: "/api/image/019eece5-9d3d-7970-9ac9-e2fdb832b12b",
   coverImageId: "019eece5-9d3d-7970-9ac9-e2fdb832b12b",
   stars: 0,

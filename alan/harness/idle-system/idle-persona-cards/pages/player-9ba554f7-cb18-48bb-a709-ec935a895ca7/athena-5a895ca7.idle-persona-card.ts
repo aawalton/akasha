@@ -7,7 +7,7 @@ export const athena5a895ca7 = {
   title: "Athena",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "athena",
-  personaSlug: "athena",
+  persona: "athena",
   cover: "/api/image/019f2330-25c9-770c-894f-fd4ac497997c",
   coverImageId: "019f2330-25c9-770c-894f-fd4ac497997c",
   stars: 0,

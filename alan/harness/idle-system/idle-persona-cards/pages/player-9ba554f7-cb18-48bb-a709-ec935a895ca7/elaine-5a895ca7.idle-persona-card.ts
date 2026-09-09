@@ -7,7 +7,7 @@ export const elaine5a895ca7 = {
   title: "Elaine",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "elaine",
-  personaSlug: "elaine",
+  persona: "elaine",
   cover: "/api/image/019f06b8-fe92-78a3-894f-3a621399893c",
   coverImageId: "019f06b8-fe92-78a3-894f-3a621399893c",
   stars: 0,

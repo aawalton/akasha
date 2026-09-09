@@ -7,7 +7,7 @@ export const aranya5a895ca7 = {
   title: "Aranya",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "aranya",
-  personaSlug: "aranya",
+  persona: "aranya",
   cover: "/api/image/019f324d-7aa1-7228-8422-6e7a1891a175",
   coverImageId: "019f324d-7aa1-7228-8422-6e7a1891a175",
   stars: 0,

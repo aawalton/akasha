@@ -7,7 +7,7 @@ export const vera5a895ca7 = {
   title: "Vera",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "vera",
-  personaSlug: "vera",
+  persona: "vera",
   cover: "/api/image/019f324d-9073-7de7-8610-467a75d8224f",
   coverImageId: "019f324d-9073-7de7-8610-467a75d8224f",
   stars: 0,

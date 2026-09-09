@@ -7,7 +7,7 @@ export const aelwyn5a895ca7 = {
   title: "Aelwyn",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "aelwyn",
-  personaSlug: "aelwyn",
+  persona: "aelwyn",
   cover: "/api/image/019eece9-989b-7488-a014-8bc136d60e31",
   coverImageId: "019eece9-989b-7488-a014-8bc136d60e31",
   stars: 0,

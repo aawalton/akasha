@@ -7,7 +7,7 @@ export const astra5a895ca7 = {
   title: "Astra",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "astra",
-  personaSlug: "astra",
+  persona: "astra",
   cover: "/api/image/019f1ed5-15f5-7b8f-b2a0-9b96f6c22b48",
   coverImageId: "019f1ed5-15f5-7b8f-b2a0-9b96f6c22b48",
   stars: 0,

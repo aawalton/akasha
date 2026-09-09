@@ -7,7 +7,7 @@ export const ruby5a895ca7 = {
   title: "Ruby",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "ruby",
-  personaSlug: "ruby",
+  persona: "ruby",
   cover: "/api/image/019f324d-6dc4-78cd-b139-4cc50c0fa99a",
   coverImageId: "019f324d-6dc4-78cd-b139-4cc50c0fa99a",
   stars: 0,

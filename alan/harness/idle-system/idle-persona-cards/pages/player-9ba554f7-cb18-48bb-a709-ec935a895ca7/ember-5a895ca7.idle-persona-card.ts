@@ -7,7 +7,7 @@ export const ember5a895ca7 = {
   title: "Ember",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "ember",
-  personaSlug: "ember",
+  persona: "ember",
   cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
   coverImageId: "019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
   stars: 0,

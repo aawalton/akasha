@@ -7,7 +7,7 @@ export const eppie5a895ca7 = {
   title: "Eppie",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "eppie",
-  personaSlug: "eppie",
+  persona: "eppie",
   cover: "/api/image/019f01cb-f56d-70c5-a57e-7353c0e1eecf",
   coverImageId: "019f01cb-f56d-70c5-a57e-7353c0e1eecf",
   stars: 0,

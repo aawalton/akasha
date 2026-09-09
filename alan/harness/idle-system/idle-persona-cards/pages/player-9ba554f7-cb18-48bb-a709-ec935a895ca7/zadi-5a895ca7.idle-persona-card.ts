@@ -7,7 +7,7 @@ export const zadi5a895ca7 = {
   title: "Zadi",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "zadi",
-  personaSlug: "zadi",
+  persona: "zadi",
   cover: "/api/image/019f06e7-41d1-7774-b4dc-e89227d1f6fd",
   coverImageId: "019f06e7-41d1-7774-b4dc-e89227d1f6fd",
   stars: 0,

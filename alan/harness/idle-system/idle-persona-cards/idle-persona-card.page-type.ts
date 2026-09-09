@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { CardPersonaSlug } from "./properties/card-persona-slug.relation-property.ts"
+import type { CardPersona } from "./properties/card-persona.relation-property.ts"
 import type { CardRank } from "./properties/card-rank.number-property.ts"
 import type { CardSlug } from "./properties/card-slug.text-property.ts"
 import type { CoverImageId } from "./properties/cover-image-id.text-property.ts"
@@ -26,7 +26,7 @@ export type IdlePersonaCard = Page & {
   lockState: LockState
   lockEligible: LockEligible
   specializeLocked: SpecializeLocked
-  personaSlug?: CardPersonaSlug
+  persona?: CardPersona
   coverImageId?: CoverImageId
   images?: Images
   seatIndex?: SeatIndex
@@ -47,7 +47,7 @@ export const idlePersonaCard = {
     "number-property/seat-index",
     "number-property/stars",
     "number-property/train-cost",
-    "relation-property/card-persona-slug",
+    "relation-property/card-persona",
     "select-property/lock-state",
     "text-property/card-slug",
     "text-property/cover-image-id",
@@ -65,7 +65,7 @@ export const idlePersonaCard = {
     { pagePropertySlug: "select-property/lock-state", required: true, many: false },
     { pagePropertySlug: "boolean-property/lock-eligible", required: true, many: false },
     { pagePropertySlug: "boolean-property/specialize-locked", required: true, many: false },
-    { pagePropertySlug: "relation-property/card-persona-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/card-persona", required: false, many: false },
     { pagePropertySlug: "text-property/cover-image-id", required: false, many: false },
     { pagePropertySlug: "text-property/images", required: false, many: true, maxCount: null },
     { pagePropertySlug: "number-property/seat-index", required: false, many: false },

@@ -7,7 +7,7 @@ export const dalla5a895ca7 = {
   title: "Dalla",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "dalla",
-  personaSlug: "dalla",
+  persona: "dalla",
   cover: "/api/image/019f324d-764c-7076-8d2b-730b5d6107fb",
   coverImageId: "019f324d-764c-7076-8d2b-730b5d6107fb",
   stars: 0,

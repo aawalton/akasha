@@ -7,7 +7,7 @@ export const elin5a895ca7 = {
   title: "Elin",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "elin",
-  personaSlug: "elin",
+  persona: "elin",
   cover: "/api/image/019f324d-8dba-7bb3-b2d9-63a7ddb1217d",
   coverImageId: "019f324d-8dba-7bb3-b2d9-63a7ddb1217d",
   stars: 0,

@@ -7,7 +7,7 @@ export const ali5a895ca7 = {
   title: "Ali",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "ali",
-  personaSlug: "ali",
+  persona: "ali",
   cover: "/api/image/019f051b-ac03-702e-80ba-da3b9157048c",
   coverImageId: "019f051b-ac03-702e-80ba-da3b9157048c",
   stars: 0,

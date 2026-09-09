@@ -7,7 +7,7 @@ export const rhia5a895ca7 = {
   title: "Rhia",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "rhia",
-  personaSlug: "rhia",
+  persona: "rhia",
   cover: "/api/image/019f324d-8981-7157-8ef3-573341fe3aa2",
   coverImageId: "019f324d-8981-7157-8ef3-573341fe3aa2",
   stars: 0,

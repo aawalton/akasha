@@ -7,7 +7,7 @@ export const zeli5a895ca7 = {
   title: "Zeli",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "zeli",
-  personaSlug: "zeli",
+  persona: "zeli",
   cover: "/api/image/019f324d-4713-7ea6-b619-3bede52875f4",
   coverImageId: "019f324d-4713-7ea6-b619-3bede52875f4",
   stars: 0,

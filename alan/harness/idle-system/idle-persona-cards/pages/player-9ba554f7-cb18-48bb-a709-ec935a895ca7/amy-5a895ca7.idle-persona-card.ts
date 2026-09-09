@@ -7,7 +7,7 @@ export const amy5a895ca7 = {
   title: "Amy",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "amy",
-  personaSlug: "amy",
+  persona: "amy",
   cover: "/api/image/019f012e-009a-70eb-b987-6d5a8871430d",
   coverImageId: "019f012e-009a-70eb-b987-6d5a8871430d",
   stars: 0,

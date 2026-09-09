@@ -7,7 +7,7 @@ export const talia5a895ca7 = {
   title: "Talia",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "talia",
-  personaSlug: "talia",
+  persona: "talia",
   cover: "/api/image/019f324d-5f4c-710a-bf15-ba79beaf2bef",
   coverImageId: "019f324d-5f4c-710a-bf15-ba79beaf2bef",
   stars: 0,

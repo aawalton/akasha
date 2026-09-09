@@ -7,7 +7,7 @@ export const nova5a895ca7 = {
   title: "Nova",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "nova",
-  personaSlug: "nova",
+  persona: "nova",
   cover: "/api/image/019f324d-5c9a-7d06-94de-a89ac07159b5",
   coverImageId: "019f324d-5c9a-7d06-94de-a89ac07159b5",
   stars: 0,

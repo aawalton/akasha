@@ -7,7 +7,7 @@ export const selah5a895ca7 = {
   title: "Selah",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "selah",
-  personaSlug: "selah",
+  persona: "selah",
   cover: "/api/image/019f324d-657c-7667-ae9c-a4d0e2557563",
   coverImageId: "019f324d-657c-7667-ae9c-a4d0e2557563",
   stars: 0,

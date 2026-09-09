@@ -7,7 +7,7 @@ export const natalie5a895ca7 = {
   title: "Natalie",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "natalie",
-  personaSlug: "natalie",
+  persona: "natalie",
   cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
   coverImageId: "019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
   stars: 0,

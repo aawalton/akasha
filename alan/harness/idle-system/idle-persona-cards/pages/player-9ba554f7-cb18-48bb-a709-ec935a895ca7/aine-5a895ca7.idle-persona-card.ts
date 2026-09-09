@@ -7,7 +7,7 @@ export const aine5a895ca7 = {
   title: "Aine",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "aine",
-  personaSlug: "aine",
+  persona: "aine",
   cover: "/api/image/019f324d-3c27-74ae-ac6b-ce2a58b3395c",
   stars: 0,
   ratePerSec: 123.3,

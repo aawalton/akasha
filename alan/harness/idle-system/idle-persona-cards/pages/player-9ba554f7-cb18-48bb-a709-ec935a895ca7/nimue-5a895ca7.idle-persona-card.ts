@@ -7,7 +7,7 @@ export const nimue5a895ca7 = {
   title: "Nimue",
   playerId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   cardSlug: "nimue",
-  personaSlug: "nimue",
+  persona: "nimue",
   cover: "/api/image/019f324d-4bc0-7720-b287-22c138e704ef",
   coverImageId: "019f324d-4bc0-7720-b287-22c138e704ef",
   stars: 0,
