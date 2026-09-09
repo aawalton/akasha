@@ -13,7 +13,7 @@ import {
   seatTurnStateOf,
 } from "@akasha/seat-system/seat-turn-state"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { readIn } from "../../../modules/no-word-reading/no-word-reading.module.code.ts"
+import { readIn } from "./no-word-reading/no-word-reading.module.code.ts"
 
 export type ForestSeat = ForestRow & {
   readonly state: SeatTurnState
