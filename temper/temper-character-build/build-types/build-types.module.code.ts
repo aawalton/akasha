@@ -1,4 +1,3 @@
-import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import type { SkillId } from "@akasha/temper-character-skills/character-skills"
 import type { ScribedSkill } from "@akasha/temper-character-skills/scribed-skill-types"
 import type { AllianceId } from "@akasha/temper-character-sources/alliances"
@@ -16,6 +15,7 @@ import type { RaceId } from "@akasha/temper-races/races"
 import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { PotionId } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import type { ChampionPointId } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 
 export interface CharacterState {
   id: BuildId

@@ -1,4 +1,4 @@
-import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
+import { championPoints } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 export function generateChampionPointMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

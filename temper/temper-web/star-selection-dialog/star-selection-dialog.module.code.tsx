@@ -1,12 +1,12 @@
 "use client"
 
+import { capitalize } from "@akasha/utils/narrow/capitalize"
+import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import {
   type ChampionPointId,
   type ChampionPointSource,
   championPoints,
-} from "@akasha/temper-champion-points/champion-point-source"
-import { capitalize } from "@akasha/utils/narrow/capitalize"
-import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
+} from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
 import type { FilterableSelectDialogConfig } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

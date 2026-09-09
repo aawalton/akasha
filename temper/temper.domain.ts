@@ -72,7 +72,7 @@ export const temper = {
     "domain/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",
     "domain/temper-capture-host",
-    "workspace-package/temper-champion-points",
+    "domain/temper-champion-points",
     "domain/temper-classes",
     "domain/temper-alchemy",
     "workspace-package/temper-completion",

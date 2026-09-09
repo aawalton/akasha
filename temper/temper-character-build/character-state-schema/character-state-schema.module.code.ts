@@ -1,4 +1,3 @@
-import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import { scribedSkills } from "@akasha/temper-character-skills/scribed-skills"
 import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
@@ -32,6 +31,7 @@ import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { poisons } from "akasha/temper/temper-alchemy/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import { championPoints } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 import * as z from "zod"
 
 const qualityOptionSchema = z.enum(equipmentQualities.ids).optional()

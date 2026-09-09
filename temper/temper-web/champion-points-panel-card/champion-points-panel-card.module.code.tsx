@@ -1,5 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { MAX_CHAMPION_POINTS } from "@akasha/temper-champion-points/champion-point-source"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
@@ -10,6 +9,7 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
+import { MAX_CHAMPION_POINTS } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 
 interface ChampionPointsPanelCardProps {
   id?: AccountCardId

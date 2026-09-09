@@ -83,7 +83,6 @@
   },
   "dependencies": {
     "@akasha/temper-character-skills": "workspace:*",
-    "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",

@@ -1,4 +1,3 @@
-import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import { getSkillLineCategory } from "@akasha/temper-character-skills/passive-queries"
 import { type ScribedSkillId, scribedSkills } from "@akasha/temper-character-skills/scribed-skills"
@@ -31,6 +30,7 @@ import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { poisons } from "akasha/temper/temper-alchemy/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import { championPoints } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

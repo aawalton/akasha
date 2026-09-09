@@ -1,4 +1,3 @@
-import { championPoints } from "@akasha/temper-champion-points/champion-point-source"
 import { skills } from "@akasha/temper-character-skills/character-skills"
 import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import { alliances } from "@akasha/temper-character-sources/alliances"
@@ -23,6 +22,7 @@ import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-
 import { passiveSkillIds } from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import { championPoints } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {
