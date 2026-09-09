@@ -57,7 +57,6 @@ export const commandSystem = {
     "module/command-walking",
     "module/change-arguing",
     "module/change-running",
-    "module/change-preparing",
     "module/path-moving",
     "module/command-stopping",
     "performance/landing-throughput",

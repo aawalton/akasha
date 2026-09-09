@@ -5,9 +5,12 @@ import type { Judging } from "@akasha/checks/judging"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils/fs/missing"
+import {
+  preparing,
+  sequenced,
+} from "../../commands/modules/change-preparing/change-preparing.module.code.ts"
 import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { preparing, sequenced } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
