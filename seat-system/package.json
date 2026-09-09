@@ -152,7 +152,7 @@
     "./supervisor-clear-rebind-wire": "./supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts",
     "./supervisor-config": "./supervising/supervisor-config/supervisor-config.module.code.ts",
     "./supervisor-console": "./supervising/supervisor-console/supervisor-console.module.code.ts",
-    "./supervisor-credentials": "./supervising/supervisor-credentials/supervisor-credentials.module.code.ts",
+    "./supervisor-credentials": "./seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts",
     "./supervisor-decide-payload": "./supervising/supervisor-decide-payload/supervisor-decide-payload.module.code.ts",
     "./supervisor-decide-rule-inputs": "./supervising/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts",
     "./supervisor-decide-rules": "./supervising/supervisor-decide-rules/supervisor-decide-rules.module.code.ts",

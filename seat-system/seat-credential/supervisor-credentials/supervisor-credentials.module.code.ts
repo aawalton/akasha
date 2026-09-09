@@ -14,6 +14,12 @@ import {
   spawnOrAdoptOAuthProxy,
 } from "../../oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
+  configDirForAccount,
+  LOG,
+} from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
+import { guardTick } from "../../supervising/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { writePacingSnapshot } from "../../supervising/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
+import {
   isAccountTerminal,
   markAccountTerminal,
 } from "../account-terminal/account-terminal.module.code.ts"
@@ -21,9 +27,6 @@ import {
   reportOAuthRecovered,
   reportTerminalOAuthError,
 } from "../oauth-health-lines/oauth-health-lines.module.code.ts"
-import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
-import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import { writePacingSnapshot } from "../supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 export async function runCredentialPullTick(args: {
   account: string

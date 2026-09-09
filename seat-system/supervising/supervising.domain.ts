@@ -6,7 +6,6 @@ export const supervising = {
   slug: "supervising",
   definition: "the supervisor keeping an agent alive in its seat",
   parts: [
-    "module/account-terminal",
     "module/agent-hook-registration",
     "module/mcp-disable-reconcile",
     "module/mcp-registry",
@@ -20,7 +19,6 @@ export const supervising = {
     "module/memory-reaper-read",
     "module/memory-reaper-tick",
     "module/memory-reaping",
-    "module/oauth-health-lines",
     "module/seat-supervisor-claim",
     "module/supervisor",
     "module/supervisor-account-config",
@@ -45,7 +43,6 @@ export const supervising = {
     "module/supervisor-clear-rebind-wire",
     "module/supervisor-config",
     "module/supervisor-console",
-    "module/supervisor-credentials",
     "module/supervisor-decide-payload",
     "module/supervisor-decide-rule-inputs",
     "module/supervisor-decide-rules",
