@@ -71,7 +71,8 @@ export async function deviceTokensFor(
   const asked = await askingFor(
     {
       pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
-      keys: ["token", "iosApp", "person", "personSlug"],
+      where: { person: { is: person } },
+      keys: ["token", "iosApp"],
     },
     fetcher,
     naps
@@ -84,7 +85,6 @@ export async function deviceTokensFor(
   }
   const tokens: DeviceTokenReached[] = []
   for (const row of asked.rows) {
-    if ((row.person ?? row.personSlug) !== person) continue
     const token = row.token
     const app = row.iosApp
     if (typeof token !== "string" || token === "") continue
@@ -132,7 +132,7 @@ export async function registerDeviceToken(
           values: {
             pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
             slug,
-            personSlug: person,
+            person,
             iosApp: named,
             token: args.deviceTokenRegistration,
             lastSeenAt: new Date().toISOString(),
