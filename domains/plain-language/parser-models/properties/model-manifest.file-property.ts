@@ -8,6 +8,7 @@ export const modelManifest = {
   slug: "model-manifest",
   propertySlug: "model-manifest",
   definition: "what a trained parser says about itself",
+  generated: true,
   invariants: [
     {
       invariantKind: "departure",
