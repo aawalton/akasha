@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const canCompanionEquip = {
   id: "01a07209-6b4f-74b1-9165-e9b395509920",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "can-companion-equip",
   title: "Can Companion Equip",
   key: "canCompanionEquip",

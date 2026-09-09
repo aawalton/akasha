@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const minValue = {
   id: "01a07209-6b52-7b71-b676-74e1a6ecc1f3",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "min-value",
   title: "Min Value",
   key: "minValue",

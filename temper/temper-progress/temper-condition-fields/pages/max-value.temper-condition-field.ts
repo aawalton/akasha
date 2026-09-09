@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const maxValue = {
   id: "01a07209-6b52-733e-bd26-b8536d049bb5",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "max-value",
   title: "Max Value",
   key: "maxValue",

@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const requiredSkillLines = {
   id: "01a07209-6b53-7de9-aa98-47c3e31b5c4e",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "required-skill-lines",
   title: "Required Skill Lines",
   key: "requiredSkillLines",

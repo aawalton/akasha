@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersSkillPointsGeneral = {
   id: "01a05fcb-e4c3-7601-aaf2-b72002614294",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-skill-points-general",
   title: "General",
   nodeId: "general",

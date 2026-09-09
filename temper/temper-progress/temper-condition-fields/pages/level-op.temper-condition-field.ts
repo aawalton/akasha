@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const levelOp = {
   id: "01a07209-6b51-7d3a-8a59-0486cf4064e2",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "level-op",
   title: "Level Comparison",
   key: "levelOp",

@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const accountItemSets = {
   id: "01a05fcb-e4bc-784c-9677-29f648053336",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "account-item-sets",
   title: "Item Sets",
   nodeId: "item-sets",

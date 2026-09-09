@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const marketValue = {
   id: "01a07209-6b51-7fca-8a11-730a4bc2f40d",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "market-value",
   title: "Market Value",
   key: "marketValue",

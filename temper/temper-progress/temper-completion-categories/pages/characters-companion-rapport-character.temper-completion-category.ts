@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersCompanionRapportCharacter = {
   id: "01a05fcb-e4bf-7cec-b3f1-35b9c65a87e1",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-companion-rapport-character",
   title: "Companion Rapport",
   nodeId: "companion-rapport-character",

@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const allStocked = {
   id: "01a07209-6b4e-7e7e-ab26-44d84361ab3e",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "all-stocked",
   title: "All Stocked",
   key: "allStocked",

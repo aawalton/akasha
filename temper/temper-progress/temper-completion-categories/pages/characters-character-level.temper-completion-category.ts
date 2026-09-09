@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersCharacterLevel = {
   id: "01a05fcb-e4bf-75f8-9ce6-d8a53df9e316",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-character-level",
   title: "Character Level",
   nodeId: "character-level",

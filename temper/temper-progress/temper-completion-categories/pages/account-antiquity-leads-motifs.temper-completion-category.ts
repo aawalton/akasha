@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const accountAntiquityLeadsMotifs = {
   id: "01a05fcb-e4ba-721f-9414-4a38ccc4ce92",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "account-antiquity-leads-motifs",
   title: "Antiquity Leads — Motifs",
   nodeId: "antiquity-leads-motifs",

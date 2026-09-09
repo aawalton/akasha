@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersZoneCompletion = {
   id: "01a05fcb-e4c5-712f-90d1-8591a26ad11e",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-zone-completion",
   title: "Zone Completion",
   nodeId: "zone-completion",

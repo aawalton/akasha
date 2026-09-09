@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vineduskTraining = {
   id: "019e6226-011e-7cc1-b196-68a140695845",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vinedusk-training",
   title: "Vinedusk Training",
   key: "vinedusk-training",

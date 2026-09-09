@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const accountAccountRecipes = {
   id: "01a05fcb-e4b8-73f1-b46c-d250ff50d3ce",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "account-account-recipes",
   title: "Crafting Recipes",
   nodeId: "account-recipes",

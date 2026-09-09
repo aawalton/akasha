@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const requiredCurseState = {
   id: "01a07209-6b53-7d1e-90db-963d1b258cd6",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "required-curse-state",
   title: "Required Curse State",
   key: "requiredCurseState",

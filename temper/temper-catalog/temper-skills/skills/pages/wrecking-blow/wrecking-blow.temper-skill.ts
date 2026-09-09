@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const wreckingBlow = {
   id: "019e6226-0121-73bd-8049-08599be7448c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "wrecking-blow",
   title: "Wrecking Blow",
   key: "wrecking-blow",

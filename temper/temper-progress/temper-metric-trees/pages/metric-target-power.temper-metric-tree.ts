@@ -3,6 +3,7 @@ import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 export const metricTargetPower = {
   id: "019e2fcd-5a95-705a-b585-a173259cf87e",
   pageTypeSlug: "temper-metric-tree",
+  type: "temper-metric-tree",
   slug: "metric-target-power",
   title: "Target Power",
   nodeId: "target-power",

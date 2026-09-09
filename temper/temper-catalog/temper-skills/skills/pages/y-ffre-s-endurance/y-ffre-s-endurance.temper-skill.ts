@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const yFfreSEndurance = {
   id: "019e6f53-aa09-7744-9877-d0d66c08cd19",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "y-ffre-s-endurance",
   title: "Y'ffre's Endurance",
   key: "y-ffre-s-endurance",

@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersSkillPointsGroupdungeons = {
   id: "01a05fcb-e4c4-7ef7-8fbf-aeeb7f4b69d1",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-skill-points-groupdungeons",
   title: "Group Dungeons",
   nodeId: "groupDungeons",

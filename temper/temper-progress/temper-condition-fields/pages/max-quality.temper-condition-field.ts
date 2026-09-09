@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const maxQuality = {
   id: "01a07209-6b52-7d21-881a-8dfea4e1e1ac",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "max-quality",
   title: "Max Quality",
   key: "maxQuality",

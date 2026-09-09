@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const merchantValueOp = {
   id: "01a07209-6b52-7581-b013-23e4163221ab",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "merchant-value-op",
   title: "Merchant Value Comparison",
   key: "merchantValueOp",

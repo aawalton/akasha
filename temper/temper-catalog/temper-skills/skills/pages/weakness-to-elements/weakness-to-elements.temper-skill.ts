@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const weaknessToElements = {
   id: "019e6f53-a9dd-7aaa-804e-25e64ca348eb",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "weakness-to-elements",
   title: "Weakness to Elements",
   key: "weakness-to-elements",

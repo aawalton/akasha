@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const canOpen = {
   id: "01a07209-6b50-72dd-a9b2-44554e1af2e7",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "can-open",
   title: "Can Open",
   key: "canOpen",

@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const canResearch = {
   id: "01a07209-6b50-7646-9a92-24244b55870e",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "can-research",
   title: "Can Research",
   key: "canResearch",

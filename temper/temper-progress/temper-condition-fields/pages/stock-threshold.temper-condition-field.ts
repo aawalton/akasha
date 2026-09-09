@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const stockThreshold = {
   id: "01a07209-6b53-7b82-a04a-06279f6e58f0",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "stock-threshold",
   title: "Stock Threshold",
   key: "stockThreshold",

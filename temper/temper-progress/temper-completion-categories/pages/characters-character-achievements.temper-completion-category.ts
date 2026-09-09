@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersCharacterAchievements = {
   id: "01a05fcb-e4be-7eac-a655-11822b021472",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-character-achievements",
   title: "Achievements",
   nodeId: "character-achievements",

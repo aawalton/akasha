@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const crafted = {
   id: "01a07209-6b50-780b-b032-058e683cef20",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "crafted",
   title: "Crafted",
   key: "crafted",

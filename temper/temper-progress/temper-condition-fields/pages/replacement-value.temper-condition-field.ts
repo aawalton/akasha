@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const replacementValue = {
   id: "01a07209-6b53-7c76-ac1d-e3beb5bc0786",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "replacement-value",
   title: "Replacement Value",
   key: "replacementValue",

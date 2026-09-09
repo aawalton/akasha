@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const canLevelMorphs = {
   id: "01a07209-6b50-714b-a5c1-cce39abe7406",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "can-level-morphs",
   title: "Can Level Morphs",
   key: "canLevelMorphs",

@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const charactersScribingKnowledge = {
   id: "01a05fcb-e4c3-7e3f-9205-bd53e4ba0784",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "characters-scribing-knowledge",
   title: "Skill Scribing",
   nodeId: "scribing-knowledge",

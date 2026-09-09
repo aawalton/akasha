@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const wildGuardian85990 = {
   id: "019e6f53-a9f1-76e0-987a-392c33bf0160",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "wild-guardian-85990",
   title: "Wild Guardian",
   key: "wild-guardian-85990",

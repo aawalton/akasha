@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const canGiveMaxRewards = {
   id: "01a07209-6b50-7e30-b768-87e61fc9590e",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "can-give-max-rewards",
   title: "Can Give Max Rewards",
   key: "canGiveMaxRewards",

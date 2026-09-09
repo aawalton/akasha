@@ -3,6 +3,7 @@ import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 export const metricPlayerEffectiveLevel = {
   id: "019e2fcd-5ac4-706c-82e6-df145309463e",
   pageTypeSlug: "temper-metric-tree",
+  type: "temper-metric-tree",
   slug: "metric-player-effective-level",
   title: "Player Effective Level",
   nodeId: "player-effective-level",

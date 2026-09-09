@@ -3,6 +3,7 @@ import type { TemperCompletionCategory } from "../temper-completion-category.pag
 export const accountAccountScribingKnowledgeScripts = {
   id: "01a05fcb-e4b9-7572-b65e-de8eeea84eaa",
   pageTypeSlug: "temper-completion-category",
+  type: "temper-completion-category",
   slug: "account-account-scribing-knowledge-scripts",
   title: "Scripts",
   nodeId: "scripts",

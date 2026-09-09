@@ -3,6 +3,7 @@ import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
 export const metricHealingEffectiveSelfPower = {
   id: "019e2fcd-5a61-7189-908d-45583abcc2bc",
   pageTypeSlug: "temper-metric-tree",
+  type: "temper-metric-tree",
   slug: "metric-healing-effective-self-power",
   title: "Healing Effective Self Power",
   nodeId: "healing-effective-self-power",

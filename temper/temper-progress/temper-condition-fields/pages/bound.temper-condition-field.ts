@@ -3,6 +3,7 @@ import type { TemperConditionField } from "../temper-condition-field.page-type.t
 export const bound = {
   id: "01a07209-6b4f-744d-b9df-baed60794cad",
   pageTypeSlug: "temper-condition-field",
+  type: "temper-condition-field",
   slug: "bound",
   title: "Bound",
   key: "bound",
