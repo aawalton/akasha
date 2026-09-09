@@ -35,9 +35,15 @@ export default [
   route("api/categorization", "routes/categorization/categorization.route.code.ts"),
   route("api/readout-relay", "routes/readout-relay/readout-relay.route.code.ts"),
   route("api/widget-tap", "routes/widget-tap/widget-tap.route.code.ts"),
-  route("api/sms/webhook", "routes/api.sms.webhook.ts"),
+  route(
+    "api/sms/webhook",
+    "routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"
+  ),
   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
-  route("api/spotify/callback", "routes/api.spotify.callback.ts"),
+  route(
+    "api/spotify/callback",
+    "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
+  ),
   route("api/page-types", "routes/alan-web-api-page-types/alan-web-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
   route("api/page-write", "routes/alan-web-api-page-write/alan-web-api-page-write.route.code.ts"),

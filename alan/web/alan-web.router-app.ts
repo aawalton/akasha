@@ -198,5 +198,7 @@ export const alanWeb = {
     "route/alan-web-api-errors",
     "route/alan-web-api-load",
     "route/alan-web-api-media-token",
+    "route/alan-web-api-spotify-callback",
+    "route/alan-web-api-sms-webhook",
   ],
 } as const satisfies RouterApp

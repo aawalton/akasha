@@ -1,6 +1,4 @@
-import type { Route } from "./+types/api.spotify.callback"
-
-export function loader({ request }: Route.LoaderArgs): Response {
+export function loader({ request }: { request: Request }): Response {
   const url = new URL(request.url)
   const code = url.searchParams.get("code")
   const error = url.searchParams.get("error")
