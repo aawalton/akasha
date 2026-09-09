@@ -140,6 +140,15 @@ export const renamePagePropertyPropertySlug = {
     {
       invariantKind: "departure",
       statement:
+        "A property no page type, record or entry shape declares is refused rather than answered empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run spelling the key anew on no page is refused rather than answered as done.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Each change this one composes is reached through the runner rather than by an import.",
     },
     {

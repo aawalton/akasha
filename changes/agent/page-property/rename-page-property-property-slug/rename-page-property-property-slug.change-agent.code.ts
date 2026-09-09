@@ -50,6 +50,17 @@ const MOST = "most"
 
 const WAS = "was"
 
+const DECLARED_BY_NONE =
+  "is declared by no page type, no record property and no entry shape, so no page carries its key" +
+  " — `akasha index refresh` where the index is behind the pages"
+
+function spelledNothing(at: string, key: string, now: string): string {
+  return (
+    `\`${at}\` reached no page carrying \`${key}\`, so nothing was spelled anew` +
+    ` — every page carries \`${now}\` already, or the index is behind the pages`
+  )
+}
+
 export type RenamePagePropertyPropertySlugAsked = {
   readonly at: string
   readonly to: string
@@ -184,6 +195,7 @@ export async function renamePagePropertyPropertySlug(
   const read = readingOf(world, given)
   if (typeof read === "string") return refusing(read)
   const declared = world.index.declaringOf(read.id)
+  if (declared.length === 0) return refusing(`\`${given.at}\` ${DECLARED_BY_NONE}`)
   const types = declared.filter((one) => one.kind === PAGE_TYPE)
   const shapes = declared.filter((one) => one.kind === ENTRY_PROPERTY)
   const records = declared.filter((one) => one.kind === RECORD_PROPERTY)
@@ -251,6 +263,7 @@ export async function renamePagePropertyPropertySlug(
     const why = await reaching(MOVE_FILE_CODE, one)
     if (why !== null) return refusing(`\`${one.from}\` is refused, and ${why}`)
   }
+  if (!whole && answers.length === 0) return refusing(spelledNothing(given.at, key, now))
   return gathered(answers)
 }
 
