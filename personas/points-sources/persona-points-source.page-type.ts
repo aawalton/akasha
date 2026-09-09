@@ -7,10 +7,10 @@ import type { PointsSourcePathPrefix } from "./properties/points-source-path-pre
 import type { PointsSourcePointField } from "./properties/points-source-point-field.text-property.ts"
 import type { PointsSourceReadings } from "./properties/points-source-readings.text-property.ts"
 import type { PointsSourceWeightField } from "./properties/points-source-weight-field.text-property.ts"
-import type { SourcePersonaSlug } from "./properties/source-persona-slug.relation-property.ts"
+import type { SourcePersona } from "./properties/source-persona.relation-property.ts"
 
 export type PersonaPointsSource = Domain & {
-  personaSlug: SourcePersonaSlug
+  persona: SourcePersona
   kind: PointsSourceKind
   marker?: PointsSourceMarker
   aggregate?: PointsSourceAggregate
@@ -28,7 +28,7 @@ export const personaPointsSource = {
   pluralSlug: "persona-points-sources",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
-    "relation-property/source-persona-slug",
+    "relation-property/source-persona",
     "text-property/points-source-kind",
     "text-property/points-source-marker",
     "text-property/points-source-aggregate",
@@ -38,7 +38,7 @@ export const personaPointsSource = {
     "text-property/points-source-readings",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/source-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/source-persona", required: true, many: false },
     { pagePropertySlug: "text-property/points-source-kind", required: true, many: false },
     { pagePropertySlug: "text-property/points-source-marker", required: false, many: false },
     { pagePropertySlug: "text-property/points-source-aggregate", required: false, many: false },
