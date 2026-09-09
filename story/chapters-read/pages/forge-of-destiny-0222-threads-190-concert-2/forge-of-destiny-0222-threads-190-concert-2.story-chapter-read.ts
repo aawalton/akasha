@@ -5,7 +5,7 @@ export const forgeOfDestiny0222Threads190Concert2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0222-threads-190-concert-2",
   title: "Threads 190 Concert 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 222,
   ownLength: 2242,
   unitSlug: "words",

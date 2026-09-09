@@ -5,7 +5,7 @@ export const forgeOfDestiny0145Threads120WindThief2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0145-threads-120-wind-thief-2",
   title: "Threads 120 Wind Thief 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 145,
   ownLength: 2294,
   unitSlug: "words",

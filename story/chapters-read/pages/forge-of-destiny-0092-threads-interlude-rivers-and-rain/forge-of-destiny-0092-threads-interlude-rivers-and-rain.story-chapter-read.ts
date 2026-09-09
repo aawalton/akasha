@@ -5,7 +5,7 @@ export const forgeOfDestiny0092ThreadsInterludeRiversAndRain = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0092-threads-interlude-rivers-and-rain",
   title: "Threads Interlude Rivers and Rain",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 92,
   ownLength: 989,
   unitSlug: "words",

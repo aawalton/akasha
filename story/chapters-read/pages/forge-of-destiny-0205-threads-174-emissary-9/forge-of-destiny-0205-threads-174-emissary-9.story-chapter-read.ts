@@ -5,7 +5,7 @@ export const forgeOfDestiny0205Threads174Emissary9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0205-threads-174-emissary-9",
   title: "Threads 174 Emissary 9",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 205,
   ownLength: 1457,
   unitSlug: "words",

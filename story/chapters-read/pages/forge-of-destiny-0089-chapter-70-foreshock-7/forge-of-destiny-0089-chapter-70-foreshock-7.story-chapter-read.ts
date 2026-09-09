@@ -5,7 +5,7 @@ export const forgeOfDestiny0089Chapter70Foreshock7 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0089-chapter-70-foreshock-7",
   title: "Chapter 70: Foreshock 7",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 89,
   ownLength: 3003,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0316Threads278SeaOfDreams2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0316-threads-278-sea-of-dreams-2",
   title: "Threads 278-Sea of Dreams 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 316,
   ownLength: 1784,
   unitSlug: "words",

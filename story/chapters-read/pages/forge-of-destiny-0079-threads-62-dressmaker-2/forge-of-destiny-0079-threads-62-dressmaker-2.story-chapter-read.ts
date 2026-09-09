@@ -5,7 +5,7 @@ export const forgeOfDestiny0079Threads62Dressmaker2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0079-threads-62-dressmaker-2",
   title: "Threads 62 Dressmaker 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 79,
   ownLength: 2047,
   unitSlug: "words",

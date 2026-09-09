@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0121ChapterOneHundredEighteenThroughT
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0121-chapter-one-hundred-eighteen-through-the-gates",
   title: "Chapter One Hundred Eighteen: Through the Gates",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 121,
   ownLength: 2587,
   unitSlug: "words",

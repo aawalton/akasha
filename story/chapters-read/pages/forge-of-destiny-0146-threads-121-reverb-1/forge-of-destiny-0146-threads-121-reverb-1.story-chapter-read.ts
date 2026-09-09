@@ -5,7 +5,7 @@ export const forgeOfDestiny0146Threads121Reverb1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0146-threads-121-reverb-1",
   title: "Threads 121-Reverb 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 146,
   ownLength: 1680,
   unitSlug: "words",

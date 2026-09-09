@@ -5,7 +5,7 @@ export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0023-bonus-xiangmen-the-heavenly-pillar",
   title: "Bonus: Xiangmen, the Heavenly Pillar",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 23,
   ownLength: 963,
   unitSlug: "words",

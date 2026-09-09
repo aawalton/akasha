@@ -5,7 +5,7 @@ export const forgeOfDestiny0148InterludeWelcomeToTheJungle = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0148-interlude-welcome-to-the-jungle",
   title: "Interlude: Welcome to the Jungle",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 148,
   ownLength: 3352,
   unitSlug: "words",

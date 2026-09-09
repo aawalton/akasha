@@ -5,7 +5,7 @@ export const forgeOfDestiny0235ThreadsInterludeTheWhiteBladeDevil = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0235-threads-interlude-the-white-blade-devil",
   title: "Threads Interlude: The White Blade Devil",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 235,
   ownLength: 1849,
   unitSlug: "words",

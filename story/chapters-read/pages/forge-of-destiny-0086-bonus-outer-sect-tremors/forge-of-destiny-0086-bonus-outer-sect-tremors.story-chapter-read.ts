@@ -5,7 +5,7 @@ export const forgeOfDestiny0086BonusOuterSectTremors = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0086-bonus-outer-sect-tremors",
   title: "Bonus: Outer Sect Tremors",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 86,
   ownLength: 1601,
   unitSlug: "words",

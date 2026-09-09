@@ -4,7 +4,7 @@ export const fleshEaterDemonEvolutionLitrpg0124Chapter121Unraveling = {
   id: "01a077e4-4cee-78e1-9600-755dc52fa87e",
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0124-chapter-121-unraveling",
-  storySlug: "story-read/flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   position: 124,
   publishedAt: "2026-09-06",
   unitSlug: "words",

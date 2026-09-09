@@ -5,7 +5,7 @@ export const forgeOfDestiny0047BonusSnakeAndSpider1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0047-bonus-snake-and-spider-1",
   title: "Bonus: Snake and Spider 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 47,
   ownLength: 2171,
   unitSlug: "words",

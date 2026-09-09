@@ -5,7 +5,7 @@ export const forgeOfDestiny0040BonusMacabre = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0040-bonus-macabre",
   title: "Bonus: Macabre",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 40,
   ownLength: 1161,
   unitSlug: "words",

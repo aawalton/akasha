@@ -5,7 +5,7 @@ export const forgeOfDestiny0298Threads260Yonder1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0298-threads-260-yonder-1",
   title: "Threads 260-Yonder 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 298,
   ownLength: 1711,
   unitSlug: "words",

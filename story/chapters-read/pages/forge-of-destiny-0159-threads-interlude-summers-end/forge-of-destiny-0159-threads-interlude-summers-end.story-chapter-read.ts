@@ -5,7 +5,7 @@ export const forgeOfDestiny0159ThreadsInterludeSummersEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0159-threads-interlude-summers-end",
   title: "Threads Interlude: Summer's End",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 159,
   ownLength: 2359,
   unitSlug: "words",

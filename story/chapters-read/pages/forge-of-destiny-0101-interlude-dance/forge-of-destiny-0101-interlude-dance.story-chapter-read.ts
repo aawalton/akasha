@@ -5,7 +5,7 @@ export const forgeOfDestiny0101InterludeDance = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0101-interlude-dance",
   title: "Interlude: Dance",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 101,
   ownLength: 1188,
   unitSlug: "words",

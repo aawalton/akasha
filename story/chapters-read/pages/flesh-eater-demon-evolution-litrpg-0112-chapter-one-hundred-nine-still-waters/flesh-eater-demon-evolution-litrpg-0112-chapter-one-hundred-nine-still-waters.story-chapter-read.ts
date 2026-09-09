@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0112ChapterOneHundredNineStillWaters 
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0112-chapter-one-hundred-nine-still-waters",
   title: "Chapter One Hundred Nine: Still Waters",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 112,
   ownLength: 2743,
   unitSlug: "words",

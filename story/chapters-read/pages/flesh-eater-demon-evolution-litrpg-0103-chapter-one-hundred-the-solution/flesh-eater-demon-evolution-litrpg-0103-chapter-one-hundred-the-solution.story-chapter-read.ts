@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0103ChapterOneHundredTheSolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0103-chapter-one-hundred-the-solution",
   title: "Chapter One Hundred: The Solution",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 103,
   ownLength: 2283,
   unitSlug: "words",

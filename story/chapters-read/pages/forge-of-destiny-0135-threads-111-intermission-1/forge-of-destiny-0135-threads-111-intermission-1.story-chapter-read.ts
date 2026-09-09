@@ -5,7 +5,7 @@ export const forgeOfDestiny0135Threads111Intermission1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0135-threads-111-intermission-1",
   title: "Threads 111-Intermission 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 135,
   ownLength: 2878,
   unitSlug: "words",

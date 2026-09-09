@@ -5,7 +5,7 @@ export const forgeOfDestiny0074Threads58BaoQian2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0074-threads-58-bao-qian-2",
   title: "Threads 58-Bao Qian 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 74,
   ownLength: 2262,
   unitSlug: "words",

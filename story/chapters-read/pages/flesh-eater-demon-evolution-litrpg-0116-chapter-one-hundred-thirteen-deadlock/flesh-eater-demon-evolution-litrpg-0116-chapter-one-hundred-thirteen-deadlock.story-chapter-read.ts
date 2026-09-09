@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0116ChapterOneHundredThirteenDeadlock
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0116-chapter-one-hundred-thirteen-deadlock",
   title: "Chapter One Hundred Thirteen: Deadlock",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 116,
   ownLength: 2395,
   unitSlug: "words",

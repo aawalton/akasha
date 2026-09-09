@@ -10,7 +10,7 @@ export const fleshEaterDemonEvolutionLitrpg0125Chapter122Clues = {
   externalId: "3933381",
   source: "royal-road",
   title: "Chapter 122: Clues",
-  storySlug: "story-read/flesh-eater-demon-evolution-litrpg",
+  story: "story-read/flesh-eater-demon-evolution-litrpg",
   ownLength: 2364,
   externalLink:
     "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3933381/chapter-122-clues",

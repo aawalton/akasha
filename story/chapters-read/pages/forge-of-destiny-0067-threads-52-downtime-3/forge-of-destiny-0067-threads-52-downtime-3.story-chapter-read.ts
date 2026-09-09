@@ -5,7 +5,7 @@ export const forgeOfDestiny0067Threads52Downtime3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0067-threads-52-downtime-3",
   title: "Threads 52-Downtime 3",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 67,
   ownLength: 2848,
   unitSlug: "words",

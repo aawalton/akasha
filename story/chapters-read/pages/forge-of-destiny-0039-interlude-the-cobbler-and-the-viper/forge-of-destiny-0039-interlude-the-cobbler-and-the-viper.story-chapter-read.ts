@@ -5,7 +5,7 @@ export const forgeOfDestiny0039InterludeTheCobblerAndTheViper = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0039-interlude-the-cobbler-and-the-viper",
   title: "Interlude: The Cobbler and the Viper",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 39,
   ownLength: 1716,
   unitSlug: "words",

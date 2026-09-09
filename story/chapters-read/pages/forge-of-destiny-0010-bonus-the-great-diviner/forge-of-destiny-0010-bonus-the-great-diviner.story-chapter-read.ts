@@ -5,7 +5,7 @@ export const forgeOfDestiny0010BonusTheGreatDiviner = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0010-bonus-the-great-diviner",
   title: "Bonus: The Great Diviner",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 10,
   ownLength: 1020,
   unitSlug: "words",

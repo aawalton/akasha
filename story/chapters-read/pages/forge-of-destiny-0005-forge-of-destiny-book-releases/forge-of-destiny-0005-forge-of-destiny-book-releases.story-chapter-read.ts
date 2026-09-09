@@ -5,7 +5,7 @@ export const forgeOfDestiny0005ForgeOfDestinyBookReleases = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0005-forge-of-destiny-book-releases",
   title: "Forge of Destiny Book Releases",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 5,
   ownLength: 107,
   unitSlug: "words",

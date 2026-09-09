@@ -5,7 +5,7 @@ export const forgeOfDestiny0237Threads204OpeningDay2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0237-threads-204-opening-day-2",
   title: "Threads 204-Opening Day 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 237,
   ownLength: 2265,
   unitSlug: "words",

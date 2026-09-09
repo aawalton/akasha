@@ -5,7 +5,7 @@ export const forgeOfDestiny0155128Convergence6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0155-128-convergence-6",
   title: "128-Convergence 6",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 155,
   ownLength: 2500,
   unitSlug: "words",
