@@ -1,5 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { AgentHook } from "../agent-hook.page-type.ts"
 
 export const inferenceHook = {
   id: "01a00688-389f-7000-ba53-42d361243e1c",
@@ -15,6 +14,5 @@ export const inferenceHook = {
       statement: "Every inference hook is lagging.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
-
-export type InferenceHook = AgentHook
