@@ -51,7 +51,6 @@
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-catalog-side-file": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
@@ -1275,14 +1274,6 @@
         "@akasha/temper-game-catalog-capture-addon": "workspace:*",
       },
     },
-    "temper/catalog-host": {
-      "name": "@akasha/temper-catalog-host",
-      "dependencies": {
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/catalog-side-file": {
       "name": "@akasha/temper-catalog-side-file",
       "dependencies": {
@@ -2088,7 +2079,6 @@
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-build": "workspace:*",
         "@akasha/temper-companion-codec": "workspace:*",
@@ -2429,8 +2419,6 @@
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/temper-catalog-core"],
-
-    "@akasha/temper-catalog-host": ["@akasha/temper-catalog-host@workspace:temper/catalog-host"],
 
     "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:temper/catalog-side-file"],
 

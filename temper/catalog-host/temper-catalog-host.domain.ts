@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCatalogHost = {
   id: "01a06084-d41a-7744-abe5-6e332b80d93e",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-catalog-host",
   definition: "what the catalog addon saved, read back as one summary for each account",
-  manifest: "json",
   parts: ["module/saved-variables-reader"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperCatalogHost = {
       statement: "Nothing here opens a file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

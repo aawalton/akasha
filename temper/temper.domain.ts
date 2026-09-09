@@ -76,7 +76,7 @@ export const temper = {
     "workspace-package/temper-classes",
     "workspace-package/temper-alchemy",
     "workspace-package/temper-completion",
-    "workspace-package/temper-catalog-host",
+    "domain/temper-catalog-host",
     "domain/temper-game-catalog-capture-host",
     "domain/temper-capture-datamining",
     "workspace-package/temper-capture-errors",
