@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0470357IiGlimpse3400894 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0470-357-ii-glimpse-3400894",
   title: "357 (II) Glimpse",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 470,
   ownLength: 1897,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0420317IToBearACurseI3181368 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0420-317-i-to-bear-a-curse-i-3181368",
   title: "317 (I) To Bear a Curse [I]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 420,
   ownLength: 3114,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0444276IiUnseenUnheardUnknownI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0444-276-ii-unseen-unheard-unknown-i",
   title: "276 (II) Unseen, Unheard, Unknown [I]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 444,
   ownLength: 0,
   unitSlug: "words",

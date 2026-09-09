@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0362234ICoping = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0362-234-i-coping",
   title: "234 (I) Coping",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 362,
   ownLength: 0,
   unitSlug: "words",
