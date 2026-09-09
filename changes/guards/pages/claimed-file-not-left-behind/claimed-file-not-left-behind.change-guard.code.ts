@@ -4,11 +4,8 @@ import {
   holdsAfter,
   takingIn,
   unreadable,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+} from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 

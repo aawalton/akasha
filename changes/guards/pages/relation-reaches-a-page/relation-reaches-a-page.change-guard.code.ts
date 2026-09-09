@@ -1,13 +1,7 @@
 import { eachTarget, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { pageNamed } from "@akasha/pages/page-file-name"
-import {
-  unreadable,
-  writtenIn,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 function danglingAt(given: Guarding, known: Shaped, path: string): string | null {
   const value = given.shadow.pageOf(path)

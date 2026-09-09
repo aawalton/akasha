@@ -1,13 +1,7 @@
 import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
 import { identityOf } from "@akasha/pages/page-type-properties"
-import {
-  unreadable,
-  writtenIn,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const PAGE_PROPERTY = "page-property"
 

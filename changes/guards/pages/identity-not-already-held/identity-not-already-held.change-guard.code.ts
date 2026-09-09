@@ -1,13 +1,7 @@
 import { pageNamed } from "@akasha/pages/page-file-name"
 import { textAt } from "@akasha/pages/page-value"
-import {
-  unreadable,
-  writtenIn,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const PAGE = "page"
 

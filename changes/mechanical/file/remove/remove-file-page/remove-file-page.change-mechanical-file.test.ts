@@ -22,8 +22,6 @@ import {
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { Guard } from "../../../../modules/change-guarding/change-guarding.module.types.ts"
 import {
   bodiesIn,
   type Reaching,
@@ -31,6 +29,8 @@ import {
   worldAt,
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { guardedBy } from "../../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard } from "../../../../modules/guarding/change-guarding.module.types.ts"
 import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical.code.ts"

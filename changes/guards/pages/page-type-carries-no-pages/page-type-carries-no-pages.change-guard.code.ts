@@ -1,12 +1,6 @@
 import { partedIn } from "@akasha/pages/page-file-name"
-import {
-  takingIn,
-  unreadable,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { takingIn, unreadable } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const PAGE_TYPE = "page-type"
 

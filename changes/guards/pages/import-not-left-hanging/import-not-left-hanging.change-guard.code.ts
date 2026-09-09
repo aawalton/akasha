@@ -3,11 +3,8 @@ import {
   holdsAfter,
   judgingOver,
   takingIn,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+} from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 function hangingIn(given: Guarding, gone: readonly string[]): string | null {
   for (const path of gone) {

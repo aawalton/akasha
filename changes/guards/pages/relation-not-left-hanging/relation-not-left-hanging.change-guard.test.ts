@@ -13,15 +13,9 @@ import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  guardedBy,
-  NOT_READ,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import {
-  heldAt,
-  tookAway,
-} from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
+import { heldAt, tookAway } from "../../../modules/guarding/change-guarding.module.test-fixtures.ts"
 import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)

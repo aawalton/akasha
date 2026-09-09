@@ -12,16 +12,13 @@ import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  guardedBy,
-  NOT_READ,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
 import {
   carriedOff,
   heldAt,
   tookAway,
-} from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/guarding/change-guarding.module.test-fixtures.ts"
 import { importNotLeftHanging } from "./import-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)

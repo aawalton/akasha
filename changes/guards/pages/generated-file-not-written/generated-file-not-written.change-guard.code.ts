@@ -1,8 +1,5 @@
 import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const BY_HAND = "a generated file is written by the thing that generates it rather than by hand"
 

@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
 import { pluralSlugNotAlreadyHeld } from "./plural-slug-not-already-held.change-guard.code.ts"
 
 afterAll(scratch.sweep)

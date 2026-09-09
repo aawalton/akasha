@@ -13,11 +13,8 @@ import type {
   Answer,
   FileChange,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  guardedBy,
-  NOT_READ,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
 import { pageTypeCarriesNoPages } from "./page-type-carries-no-pages.change-guard.code.ts"
 
 afterAll(scratch.sweep)

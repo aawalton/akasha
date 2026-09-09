@@ -1,13 +1,7 @@
 import { extname } from "node:path"
 import { landingOf, placedIn } from "@akasha/code/code-specifier"
-import {
-  holdsAfter,
-  writtenIn,
-} from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { holdsAfter, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 const CODE = new Set([".ts", ".tsx"])
 

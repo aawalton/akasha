@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { HELD_PAGE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import type { Guard } from "../../modules/change-guarding/change-guarding.module.types.ts"
 import {
   addedTo,
   isLedger,
@@ -10,6 +9,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import type { Guard } from "../../modules/guarding/change-guarding.module.types.ts"
 import { codeAt, partsOf, ranBy, sittingAt, targetRefusal } from "./change-loading.module.code.ts"
 
 afterAll(scratch.sweep)

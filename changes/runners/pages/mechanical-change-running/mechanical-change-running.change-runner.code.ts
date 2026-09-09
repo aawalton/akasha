@@ -9,7 +9,6 @@ import { NO_GATE } from "../../../../commands/modules/gate-building/gate-buildin
 import { generatedFileNotWritten } from "../../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
 import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import {
   ledgerAt,
   reach,
@@ -17,6 +16,7 @@ import {
   worldBefore,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
+import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
 import { guardsOver, runAt } from "../../change-loading/change-loading.module.code.ts"
 import type { Changes } from "./mechanical-change-running.change-runner.addressed.ts"
 

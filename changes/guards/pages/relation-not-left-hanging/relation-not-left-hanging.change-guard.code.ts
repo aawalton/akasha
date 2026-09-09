@@ -1,11 +1,8 @@
 import type { Named } from "@akasha/indexes"
 import type { Known } from "@akasha/indexes/reaching"
 import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
-import { judging } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type {
-  Guard,
-  Guarding,
-} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import { judging } from "../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
 function hangingOn(path: string, namer: Named): string {
   const names = `\`${namer.path}\` names \`${path}\` as its \`${namer.propertySlug}\``
