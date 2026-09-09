@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0270Chapter87BattleRoyale = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0270-chapter-87-battle-royale",
   title: "Chapter 87: Battle Royale",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 270,
   ownLength: 1818,
   unitSlug: "words",

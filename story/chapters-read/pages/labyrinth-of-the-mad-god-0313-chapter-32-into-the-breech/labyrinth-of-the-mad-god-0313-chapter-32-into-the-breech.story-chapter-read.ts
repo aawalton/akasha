@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0313Chapter32IntoTheBreech = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0313-chapter-32-into-the-breech",
   title: "Chapter 32: Into the Breech",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 313,
   ownLength: 2468,
   unitSlug: "words",

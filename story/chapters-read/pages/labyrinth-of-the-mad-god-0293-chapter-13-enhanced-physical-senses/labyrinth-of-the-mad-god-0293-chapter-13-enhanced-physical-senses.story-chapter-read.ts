@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0293Chapter13EnhancedPhysicalSenses = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0293-chapter-13-enhanced-physical-senses",
   title: "Chapter 13: Enhanced Physical Senses",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 293,
   ownLength: 1848,
   unitSlug: "words",

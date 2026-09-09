@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0321Chapter40AmbushersAmbushed = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0321-chapter-40-ambushers-ambushed",
   title: "Chapter 40: Ambushers Ambushed",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 321,
   ownLength: 1972,
   unitSlug: "words",

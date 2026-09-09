@@ -5,7 +5,7 @@ export const levelingUpTheWorld0033744TheBattleApprentice = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0033-744-the-battle-apprentice",
   title: "744. The Battle Apprentice",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 33,
   ownLength: 2202,
   ownProgress: 2202,

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0332Chapter51EnterTheBlackWind = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0332-chapter-51-enter-the-black-wind",
   title: "Chapter 51: Enter the Black Wind",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 332,
   ownLength: 2088,
   unitSlug: "words",

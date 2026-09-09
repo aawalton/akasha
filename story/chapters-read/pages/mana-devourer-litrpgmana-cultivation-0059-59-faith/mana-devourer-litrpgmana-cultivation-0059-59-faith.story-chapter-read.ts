@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation005959Faith = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0059-59-faith",
   title: "59. Faith",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 59,
   ownLength: 3011,
   unitSlug: "words",

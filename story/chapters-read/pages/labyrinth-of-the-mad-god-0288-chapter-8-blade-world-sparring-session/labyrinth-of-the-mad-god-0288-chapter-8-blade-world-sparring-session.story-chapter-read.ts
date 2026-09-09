@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0288-chapter-8-blade-world-sparring-session",
   title: "Chapter 8: Blade World Sparring Session",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 288,
   ownLength: 1723,
   unitSlug: "words",

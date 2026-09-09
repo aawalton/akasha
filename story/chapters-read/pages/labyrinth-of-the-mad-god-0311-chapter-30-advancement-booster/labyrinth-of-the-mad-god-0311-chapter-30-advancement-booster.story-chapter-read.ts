@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0311Chapter30AdvancementBooster = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0311-chapter-30-advancement-booster",
   title: "Chapter 30: Advancement Booster",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 311,
   ownLength: 1989,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0317Chapter36WhichWayShouldWeGo = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0317-chapter-36-which-way-should-we-go",
   title: "Chapter 36: Which Way Should We Go?",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 317,
   ownLength: 1539,
   unitSlug: "words",

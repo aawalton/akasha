@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0304Chapter23DevinsQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0304-chapter-23-devins-quest",
   title: "Chapter 23: Devin’s Quest",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 304,
   ownLength: 3224,
   unitSlug: "words",

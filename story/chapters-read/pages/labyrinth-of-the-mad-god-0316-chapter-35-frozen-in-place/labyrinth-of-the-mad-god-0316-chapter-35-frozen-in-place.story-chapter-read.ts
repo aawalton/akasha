@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0316Chapter35FrozenInPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0316-chapter-35-frozen-in-place",
   title: "Chapter 35: Frozen In Place",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 316,
   ownLength: 2062,
   unitSlug: "words",

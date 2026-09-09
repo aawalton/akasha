@@ -4,7 +4,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007272Loop2Part26 = {
   id: "01a07252-32ee-7f92-a497-76849f78b54b",
   pageTypeSlug: "story-chapter-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0072-72-loop-2-part-26",
-  storySlug: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
+  story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
   position: 72,
   publishedAt: "2026-09-05",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0318Chapter37BuildingAGlobalSociety1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0318-chapter-37-building-a-global-society-1",
   title: "Chapter 37: Building a Global Society 1",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 318,
   ownLength: 2565,
   unitSlug: "words",

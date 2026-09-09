@@ -5,7 +5,7 @@ export const librarySystemResetOverdueBookFourStubbed0007StartOfBookTwoChapter57
   pageTypeSlug: "story-chapter-read",
   slug: "library-system-reset-overdue-book-four-stubbed-0007-start-of-book-two-chapter-57-calm-waters",
   title: "[Start of Book Two] Chapter 57: Calm Waters",
-  storySlug: "library-system-reset-overdue-book-four-stubbed",
+  story: "library-system-reset-overdue-book-four-stubbed",
   position: 7,
   ownLength: 2830,
   unitSlug: "words",

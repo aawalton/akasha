@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00088FrostMastery = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0008-8-frost-mastery",
   title: "8. Frost Mastery",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 8,
   ownLength: 3872,
   unitSlug: "words",

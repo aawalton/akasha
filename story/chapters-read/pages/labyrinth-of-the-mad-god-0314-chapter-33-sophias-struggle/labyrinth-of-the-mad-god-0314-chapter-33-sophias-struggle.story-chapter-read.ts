@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0314Chapter33SophiasStruggle = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0314-chapter-33-sophias-struggle",
   title: "Chapter 33: Sophia’s Struggle",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 314,
   ownLength: 1484,
   unitSlug: "words",

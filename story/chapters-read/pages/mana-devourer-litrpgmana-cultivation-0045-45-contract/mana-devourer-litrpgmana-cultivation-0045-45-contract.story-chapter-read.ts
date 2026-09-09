@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation004545Contract = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0045-45-contract",
   title: "45. Contract",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 45,
   ownLength: 2926,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00077TomatoSoup = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0007-7-tomato-soup",
   title: "7. Tomato Soup",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 7,
   ownLength: 2512,
   unitSlug: "words",

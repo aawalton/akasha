@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0320Chapter39StealthVersusStealth = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0320-chapter-39-stealth-versus-stealth",
   title: "Chapter 39: Stealth Versus Stealth",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 320,
   ownLength: 1693,
   unitSlug: "words",

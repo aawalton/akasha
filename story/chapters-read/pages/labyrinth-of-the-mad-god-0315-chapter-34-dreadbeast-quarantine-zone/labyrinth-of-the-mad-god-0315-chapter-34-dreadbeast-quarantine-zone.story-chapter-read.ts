@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0315Chapter34DreadbeastQuarantineZone = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0315-chapter-34-dreadbeast-quarantine-zone",
   title: "Chapter 34: Dreadbeast Quarantine Zone",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 315,
   ownLength: 1991,
   unitSlug: "words",

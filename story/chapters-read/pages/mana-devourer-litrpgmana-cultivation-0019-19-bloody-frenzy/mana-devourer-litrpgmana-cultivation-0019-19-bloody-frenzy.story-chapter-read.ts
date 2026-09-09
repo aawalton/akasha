@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation001919BloodyFrenzy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0019-19-bloody-frenzy",
   title: "19. Bloody Frenzy",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 19,
   ownLength: 3037,
   unitSlug: "words",

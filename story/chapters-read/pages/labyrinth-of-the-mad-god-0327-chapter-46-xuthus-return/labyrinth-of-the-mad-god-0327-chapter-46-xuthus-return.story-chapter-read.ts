@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0327Chapter46XuthusReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0327-chapter-46-xuthus-return",
   title: "Chapter 46: Xuthu’s Return",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 327,
   ownLength: 2134,
   unitSlug: "words",

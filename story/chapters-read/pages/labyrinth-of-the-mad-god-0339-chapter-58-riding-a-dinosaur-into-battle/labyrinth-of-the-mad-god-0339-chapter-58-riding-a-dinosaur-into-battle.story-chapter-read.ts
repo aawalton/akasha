@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0339Chapter58RidingADinosaurIntoBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0339-chapter-58-riding-a-dinosaur-into-battle",
   title: "Chapter 58: Riding a Dinosaur into Battle",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 339,
   ownLength: 2166,
   unitSlug: "words",

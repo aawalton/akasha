@@ -10,7 +10,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007474Loop2Part28 = {
   externalId: "3934558",
   source: "royal-road",
   title: "74 Loop 2, Part 28",
-  storySlug: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
+  story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
   ownLength: 1827,
   externalLink:
     "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3934558/74-loop-2-part-28",

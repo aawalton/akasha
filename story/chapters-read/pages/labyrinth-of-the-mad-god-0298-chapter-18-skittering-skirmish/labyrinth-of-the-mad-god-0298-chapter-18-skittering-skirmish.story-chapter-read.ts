@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0298Chapter18SkitteringSkirmish = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0298-chapter-18-skittering-skirmish",
   title: "Chapter 18: Skittering Skirmish",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 298,
   ownLength: 2687,
   unitSlug: "words",

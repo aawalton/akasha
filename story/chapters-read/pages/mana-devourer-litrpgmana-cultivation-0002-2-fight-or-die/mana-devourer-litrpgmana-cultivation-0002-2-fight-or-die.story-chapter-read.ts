@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00022FightOrDie = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0002-2-fight-or-die",
   title: "2. Fight or Die",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 2,
   ownLength: 2378,
   unitSlug: "words",

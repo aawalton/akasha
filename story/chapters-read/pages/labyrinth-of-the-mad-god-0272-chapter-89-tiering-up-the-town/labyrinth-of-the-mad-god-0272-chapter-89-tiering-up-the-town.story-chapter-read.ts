@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0272Chapter89TieringUpTheTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0272-chapter-89-tiering-up-the-town",
   title: "Chapter 89: Tiering Up the Town",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 272,
   ownLength: 2083,
   unitSlug: "words",

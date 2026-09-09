@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0331-chapter-50-the-devouring-blade",
   title: "Chapter 50: The Devouring Blade",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 331,
   ownLength: 1664,
   unitSlug: "words",

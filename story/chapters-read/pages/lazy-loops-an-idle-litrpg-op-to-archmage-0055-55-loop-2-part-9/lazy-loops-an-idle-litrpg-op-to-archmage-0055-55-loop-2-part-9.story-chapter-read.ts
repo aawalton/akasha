@@ -5,7 +5,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage005555Loop2Part9 = {
   pageTypeSlug: "story-chapter-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0055-55-loop-2-part-9",
   title: "55 Loop 2, Part 9",
-  storySlug: "lazy-loops-an-idle-litrpg-op-to-archmage",
+  story: "lazy-loops-an-idle-litrpg-op-to-archmage",
   position: 55,
   ownLength: 2023,
   unitSlug: "words",

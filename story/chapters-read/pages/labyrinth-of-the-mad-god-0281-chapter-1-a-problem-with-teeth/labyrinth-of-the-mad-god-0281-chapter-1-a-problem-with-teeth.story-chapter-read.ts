@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0281Chapter1AProblemWithTeeth = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0281-chapter-1-a-problem-with-teeth",
   title: "Chapter 1: A Problem with Teeth",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 281,
   ownLength: 2396,
   unitSlug: "words",

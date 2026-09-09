@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0283Chapter3FirstDayInTheMaze = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0283-chapter-3-first-day-in-the-maze",
   title: "Chapter 3: First Day in the Maze",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 283,
   ownLength: 2502,
   unitSlug: "words",

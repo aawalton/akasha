@@ -5,7 +5,7 @@ export const levelingUpTheWorld0030652TasteOfMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0030-652-taste-of-magic",
   title: "652. Taste of Magic",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 30,
   ownLength: 2060,
   ownProgress: 2060,

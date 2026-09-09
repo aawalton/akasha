@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation001313WeaponForging = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0013-13-weapon-forging",
   title: "13. Weapon Forging",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 13,
   ownLength: 3703,
   unitSlug: "words",

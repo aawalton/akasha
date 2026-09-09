@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0296Chapter16DangerAheadAboveAndBelow = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0296-chapter-16-danger-ahead-above-and-below",
   title: "Chapter 16: Danger Ahead, Above, and Below",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 296,
   ownLength: 2094,
   unitSlug: "words",

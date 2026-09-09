@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0324Chapter43ConceptualClues = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0324-chapter-43-conceptual-clues",
   title: "Chapter 43: Conceptual Clues",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 324,
   ownLength: 1650,
   unitSlug: "words",

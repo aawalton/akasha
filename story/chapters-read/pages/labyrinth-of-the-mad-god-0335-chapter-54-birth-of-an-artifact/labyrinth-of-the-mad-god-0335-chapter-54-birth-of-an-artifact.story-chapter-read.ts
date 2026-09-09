@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0335Chapter54BirthOfAnArtifact = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0335-chapter-54-birth-of-an-artifact",
   title: "Chapter 54: Birth of an Artifact",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 335,
   ownLength: 1474,
   unitSlug: "words",

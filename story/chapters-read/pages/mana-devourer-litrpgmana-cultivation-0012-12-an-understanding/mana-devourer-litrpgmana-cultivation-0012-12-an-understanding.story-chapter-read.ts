@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation001212AnUnderstanding = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0012-12-an-understanding",
   title: "12.  An Understanding",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 12,
   ownLength: 3742,
   unitSlug: "words",

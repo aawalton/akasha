@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0274Chapter91TeamEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0274-chapter-91-team-earth",
   title: "Chapter 91: Team Earth",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 274,
   ownLength: 2264,
   unitSlug: "words",

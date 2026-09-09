@@ -5,7 +5,7 @@ export const levelingUpTheWorld0026560JirohSRequest = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0026-560-jiroh-s-request",
   title: "560. Jiroh's Request",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 26,
   ownLength: 2030,
   ownProgress: 2030,

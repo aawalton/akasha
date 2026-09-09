@@ -6,7 +6,7 @@ export const markOfTheFool0019AnotherFoolKindleLaunchAndAnotherHealthUpdateIAmBe
   slug: "mark-of-the-fool-0019-another-fool-kindle-launch-and-another-health-update-i-am-be",
   title:
     "Another Fool Kindle Launch and Another Health Update + I Am Become Death Update + Comic Update!",
-  storySlug: "story-read/mark-of-the-fool",
+  story: "story-read/mark-of-the-fool",
   position: 19,
   ownLength: 398,
   unitSlug: "words",

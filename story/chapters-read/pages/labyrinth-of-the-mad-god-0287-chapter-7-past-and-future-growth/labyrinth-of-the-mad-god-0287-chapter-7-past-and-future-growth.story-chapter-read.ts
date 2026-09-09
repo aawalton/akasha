@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0287Chapter7PastAndFutureGrowth = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0287-chapter-7-past-and-future-growth",
   title: "Chapter 7: Past and Future Growth",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 287,
   ownLength: 2880,
   unitSlug: "words",

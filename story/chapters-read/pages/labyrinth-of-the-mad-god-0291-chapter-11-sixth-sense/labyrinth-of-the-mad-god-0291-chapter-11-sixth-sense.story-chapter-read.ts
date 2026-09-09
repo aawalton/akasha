@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0291Chapter11SixthSense = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0291-chapter-11-sixth-sense",
   title: "Chapter 11: Sixth Sense",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 291,
   ownLength: 1973,
   unitSlug: "words",

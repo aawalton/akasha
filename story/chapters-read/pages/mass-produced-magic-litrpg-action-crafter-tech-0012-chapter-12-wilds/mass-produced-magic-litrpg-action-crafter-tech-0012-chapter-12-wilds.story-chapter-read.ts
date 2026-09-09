@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0012Chapter12Wilds = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0012-chapter-12-wilds",
   title: "Chapter 12 – Wilds",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 12,
   ownLength: 2325,
   unitSlug: "words",

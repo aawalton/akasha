@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0273Chapter90PlacingThePortal = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0273-chapter-90-placing-the-portal",
   title: "Chapter 90: Placing the Portal",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 273,
   ownLength: 2092,
   unitSlug: "words",

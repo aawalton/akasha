@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0289Chapter9AbilityAdvancementSkillTrainingAnd 
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0289-chapter-9-ability-advancement-skill-training-and",
   title: "Chapter 9: Ability Advancement, Skill Training, and Trial Preparation",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 289,
   ownLength: 2174,
   unitSlug: "words",

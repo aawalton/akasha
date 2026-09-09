@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation002424TwoGiantProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0024-24-two-giant-problems",
   title: "24. Two Giant Problems",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 24,
   ownLength: 3133,
   unitSlug: "words",

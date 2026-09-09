@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0279EpilogueWrathOfTheMadGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0279-epilogue-wrath-of-the-mad-god",
   title: "Epilogue: Wrath of the Mad God",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 279,
   ownLength: 1849,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0307Chapter26LightShieldAndWand = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0307-chapter-26-light-shield-and-wand",
   title: "Chapter 26: Light Shield and Wand",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 307,
   ownLength: 1943,
   unitSlug: "words",

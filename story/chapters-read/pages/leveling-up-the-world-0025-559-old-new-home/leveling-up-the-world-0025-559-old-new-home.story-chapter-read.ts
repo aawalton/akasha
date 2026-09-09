@@ -5,7 +5,7 @@ export const levelingUpTheWorld0025559OldNewHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0025-559-old-new-home",
   title: "559. Old New Home",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 25,
   ownLength: 2197,
   ownProgress: 2197,

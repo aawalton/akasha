@@ -5,7 +5,7 @@ export const markOfTheFool0008GrandAnnouncementPaperbackAudiobookAndEBook = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0008-grand-announcement-paperback-audiobook-and-e-book",
   title: "Grand Announcement: Paperback, Audiobook and E-book!",
-  storySlug: "story-read/mark-of-the-fool",
+  story: "story-read/mark-of-the-fool",
   position: 8,
   ownLength: 287,
   ownProgress: 206,

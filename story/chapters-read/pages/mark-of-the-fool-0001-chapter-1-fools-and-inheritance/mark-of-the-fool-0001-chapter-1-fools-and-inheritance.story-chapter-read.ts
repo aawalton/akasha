@@ -5,7 +5,7 @@ export const markOfTheFool0001Chapter1FoolsAndInheritance = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0001-chapter-1-fools-and-inheritance",
   title: "Chapter 1: Fools and Inheritance",
-  storySlug: "story-read/mark-of-the-fool",
+  story: "story-read/mark-of-the-fool",
   position: 1,
   ownLength: 2240,
   ownProgress: 2240,

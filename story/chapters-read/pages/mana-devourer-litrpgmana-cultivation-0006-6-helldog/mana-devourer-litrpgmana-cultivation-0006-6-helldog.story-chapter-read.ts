@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00066Helldog = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0006-6-helldog",
   title: "6. Helldog",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 6,
   ownLength: 3813,
   unitSlug: "words",

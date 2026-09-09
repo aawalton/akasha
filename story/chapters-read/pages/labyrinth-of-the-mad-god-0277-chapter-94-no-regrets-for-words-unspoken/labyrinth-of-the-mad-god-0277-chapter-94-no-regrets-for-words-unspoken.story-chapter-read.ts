@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0277Chapter94NoRegretsForWordsUnspoken = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0277-chapter-94-no-regrets-for-words-unspoken",
   title: "Chapter 94: No Regrets for Words Unspoken",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 277,
   ownLength: 2136,
   unitSlug: "words",

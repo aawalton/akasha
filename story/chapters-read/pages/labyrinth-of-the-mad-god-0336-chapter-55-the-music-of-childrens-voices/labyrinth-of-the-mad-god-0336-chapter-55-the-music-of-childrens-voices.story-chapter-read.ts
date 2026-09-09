@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0336-chapter-55-the-music-of-childrens-voices",
   title: "Chapter 55: The Music of Children’s Voices",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 336,
   ownLength: 1408,
   unitSlug: "words",

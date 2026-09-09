@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0334Chapter53GaiasCallAndAThreeWayWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0334-chapter-53-gaias-call-and-a-three-way-war",
   title: "Chapter 53: Gaia’s Call and a Three-Way War",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 334,
   ownLength: 2503,
   unitSlug: "words",

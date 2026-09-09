@@ -5,7 +5,7 @@ export const levelingUpTheWorld0043ANewDifferentSeriesGrandArcana = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0043-a-new-different-series-grand-arcana",
   title: "A New (Different) Series: Grand Arcana",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 43,
   ownLength: 225,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0269Chapter86EmergencyQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0269-chapter-86-emergency-quest",
   title: "Chapter 86: Emergency Quest",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 269,
   ownLength: 1811,
   unitSlug: "words",

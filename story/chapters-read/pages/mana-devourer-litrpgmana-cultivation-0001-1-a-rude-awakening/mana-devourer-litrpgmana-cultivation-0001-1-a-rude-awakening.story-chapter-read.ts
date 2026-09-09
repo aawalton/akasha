@@ -5,7 +5,7 @@ export const manaDevourerLitrpgmanaCultivation00011ARudeAwakening = {
   pageTypeSlug: "story-chapter-read",
   slug: "mana-devourer-litrpgmana-cultivation-0001-1-a-rude-awakening",
   title: "1. A Rude Awakening",
-  storySlug: "mana-devourer-litrpgmana-cultivation",
+  story: "mana-devourer-litrpgmana-cultivation",
   position: 1,
   ownLength: 4446,
   unitSlug: "words",

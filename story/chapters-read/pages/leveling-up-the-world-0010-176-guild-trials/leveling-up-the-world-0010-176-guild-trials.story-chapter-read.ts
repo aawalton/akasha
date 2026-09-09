@@ -5,7 +5,7 @@ export const levelingUpTheWorld0010176GuildTrials = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0010-176-guild-trials",
   title: "176. Guild Trials",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 10,
   ownLength: 2236,
   ownProgress: 2236,

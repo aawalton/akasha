@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0297Chapter17CityOfMonsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0297-chapter-17-city-of-monsters",
   title: "Chapter 17: City of Monsters",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 297,
   ownLength: 2617,
   unitSlug: "words",

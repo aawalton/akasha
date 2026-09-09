@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0333Chapter52APlanCenturiesInTheMaking = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0333-chapter-52-a-plan-centuries-in-the-making",
   title: "Chapter 52: A Plan Centuries in the Making",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 333,
   ownLength: 1478,
   unitSlug: "words",

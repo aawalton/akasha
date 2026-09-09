@@ -5,7 +5,7 @@ export const levelingUpTheWorld0023472NewAwakeningTrial = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0023-472-new-awakening-trial",
   title: "472. New Awakening Trial",
-  storySlug: "story-read/leveling-up-the-world",
+  story: "story-read/leveling-up-the-world",
   position: 23,
   ownLength: 2112,
   ownProgress: 2112,

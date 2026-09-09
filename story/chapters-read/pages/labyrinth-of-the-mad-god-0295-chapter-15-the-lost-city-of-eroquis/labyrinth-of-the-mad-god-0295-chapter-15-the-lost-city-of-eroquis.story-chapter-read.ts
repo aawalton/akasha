@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0295Chapter15TheLostCityOfEroquis = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0295-chapter-15-the-lost-city-of-eroquis",
   title: "Chapter 15: The Lost City of Eroquis",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 295,
   ownLength: 1796,
   unitSlug: "words",

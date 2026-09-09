@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0010Chapter10WheresTheTutor
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0010-chapter-10-wheres-the-tutorial-pt8",
   title: "Chapter 10 – Where’s the tutorial? – Pt8",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 10,
   ownLength: 2262,
   unitSlug: "words",

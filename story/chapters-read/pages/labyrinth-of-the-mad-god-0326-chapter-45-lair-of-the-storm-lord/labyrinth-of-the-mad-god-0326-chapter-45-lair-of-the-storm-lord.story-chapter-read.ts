@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0326Chapter45LairOfTheStormLord = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0326-chapter-45-lair-of-the-storm-lord",
   title: "Chapter 45: Lair of the Storm Lord",
-  storySlug: "labyrinth-of-the-mad-god",
+  story: "labyrinth-of-the-mad-god",
   position: 326,
   ownLength: 2797,
   unitSlug: "words",
