@@ -1,5 +1,5 @@
 import type { RecordProperty } from "@akasha/pages/record-property"
-import type { Coefficient } from "../../../../characters/character-skill-activations/properties/coefficient.number-property.ts"
+import type { Coefficient } from "../../../../characters/skill-activations/properties/coefficient.number-property.ts"
 import type { MetricId } from "../../../../temper-catalog/things/properties/metric-id.text-property.ts"
 import type { CoefficientType } from "./coefficient-type.text-property.ts"
 import type { FormulaKind } from "./formula-kind.text-property.ts"
