@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0139177IiTerrifyI2721394 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 139,
   ownLength: 2412,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2721394/177-ii-terrify-i",

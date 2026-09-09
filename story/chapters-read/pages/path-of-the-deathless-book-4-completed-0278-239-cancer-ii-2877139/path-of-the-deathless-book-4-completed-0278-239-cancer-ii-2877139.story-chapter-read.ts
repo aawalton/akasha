@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0278239CancerIi2877139 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 278,
   ownLength: 4326,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2877139/239-cancer-ii",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0291246IiBackstoryIi2891223 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 291,
   ownLength: 1953,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2891223/246-ii-backstory-ii",

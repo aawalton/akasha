@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0272236IDietaryIi2868429 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 272,
   ownLength: 2730,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2868429/236-i-dietary-ii",

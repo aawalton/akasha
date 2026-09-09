@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0238220IiSlipgate2819457 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 238,
   ownLength: 2803,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2819457/220-ii-slipgate",

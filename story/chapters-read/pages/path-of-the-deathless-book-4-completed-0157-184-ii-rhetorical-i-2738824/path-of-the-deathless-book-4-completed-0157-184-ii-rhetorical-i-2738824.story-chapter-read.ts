@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0157184IiRhetoricalI2738824 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 157,
   ownLength: 3654,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2738824/184-ii-rhetorical-i",

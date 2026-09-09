@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0280240IiVengeanceI2877649 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 280,
   ownLength: 2558,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2877649/240-ii-vengeance-i",

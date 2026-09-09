@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0195200INeathI2775832 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 195,
   ownLength: 2937,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2775832/200-i-neath-i",

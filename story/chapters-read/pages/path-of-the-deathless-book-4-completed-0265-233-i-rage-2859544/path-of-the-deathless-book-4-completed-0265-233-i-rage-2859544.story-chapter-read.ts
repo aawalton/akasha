@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0265233IRage2859544 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 265,
   ownLength: 2873,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2859544/233-i-rage",

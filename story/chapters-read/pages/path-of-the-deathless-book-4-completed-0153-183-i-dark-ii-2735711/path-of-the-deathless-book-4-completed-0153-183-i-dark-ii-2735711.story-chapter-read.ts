@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0153183IDarkIi2735711 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 153,
   ownLength: 4004,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2735711/183-i-dark-ii",

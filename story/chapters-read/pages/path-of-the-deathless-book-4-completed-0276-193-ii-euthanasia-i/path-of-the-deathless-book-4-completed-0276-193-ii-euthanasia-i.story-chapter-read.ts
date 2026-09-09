@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0276193IiEuthanasiaI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 276,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2761916/193-ii-euthanasia-i",

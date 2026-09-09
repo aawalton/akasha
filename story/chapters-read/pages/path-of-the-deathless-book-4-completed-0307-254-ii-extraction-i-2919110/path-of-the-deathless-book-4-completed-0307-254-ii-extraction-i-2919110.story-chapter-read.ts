@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0307254IiExtractionI2919110 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 307,
   ownLength: 2526,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2919110/254-ii-extraction-i",

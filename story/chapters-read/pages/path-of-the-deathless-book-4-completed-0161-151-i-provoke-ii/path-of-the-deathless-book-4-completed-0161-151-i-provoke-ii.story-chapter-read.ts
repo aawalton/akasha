@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0161151IProvokeIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 161,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2656223/151-i-provoke-ii",

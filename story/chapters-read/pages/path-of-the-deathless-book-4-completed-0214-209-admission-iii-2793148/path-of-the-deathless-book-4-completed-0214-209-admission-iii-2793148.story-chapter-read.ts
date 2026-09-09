@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0214209AdmissionIii2793148 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 214,
   ownLength: 4491,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2793148/209-admission-iii",

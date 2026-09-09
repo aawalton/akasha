@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0184194IiiEuthanasiaIiBook4End27646
   story: "path-of-the-deathless-book-4-completed",
   position: 184,
   ownLength: 3233,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2764611/194-iii-euthanasia-ii-book-4-end",

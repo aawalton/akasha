@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0143179ICouncilwoman2726396 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 143,
   ownLength: 2987,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2726396/179-i-councilwoman",

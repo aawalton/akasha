@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0165153IUnexpected = {
   story: "path-of-the-deathless-book-4-completed",
   position: 165,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2659143/153-i-unexpected",

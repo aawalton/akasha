@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0272192IWhores = {
   story: "path-of-the-deathless-book-4-completed",
   position: 272,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2758503/192-i-whores",

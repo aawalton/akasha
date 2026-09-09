@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0137176IiDecisions2720759 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 137,
   ownLength: 4312,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2720759/176-ii-decisions",

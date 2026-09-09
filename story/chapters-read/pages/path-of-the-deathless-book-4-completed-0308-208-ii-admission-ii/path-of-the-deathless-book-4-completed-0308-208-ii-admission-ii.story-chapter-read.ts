@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0308208IiAdmissionIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 308,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2792893/208-ii-admission-ii",

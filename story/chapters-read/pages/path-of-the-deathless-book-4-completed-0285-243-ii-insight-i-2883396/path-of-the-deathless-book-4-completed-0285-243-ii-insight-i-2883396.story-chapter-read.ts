@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0285243IiInsightI2883396 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 285,
   ownLength: 3015,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2883396/243-ii-insight-i",

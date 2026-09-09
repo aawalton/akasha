@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0189197IMorselIi2769970 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 189,
   ownLength: 3037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2769970/197-i-morsel-ii",

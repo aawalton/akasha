@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0236219IiHeartbreak2816524 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 236,
   ownLength: 2512,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2816524/219-ii-heartbreak",
