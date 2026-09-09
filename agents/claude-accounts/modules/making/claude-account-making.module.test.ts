@@ -6,7 +6,6 @@ const ROOT = "/nowhere"
 
 const ID = "01a06400-0000-7000-8000-000000000000"
 
-// Every door throws, so a refusal that reads back as a refusal proves the index was never asked.
 const UNREAD: Reading = {
   holds: () => {
     throw new Error("the index was read")
@@ -145,7 +144,6 @@ describe("madeIn", () => {
     await expect(
       madeIn(ROOT, { slug: "C1", email: "nope", aliasIndex: 0 }, UNCALLED, UNREAD)
     ).resolves.toBeDefined()
-    // Every door of this reading throws, and the make answers rather than letting one out.
     await expect(
       madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, UNCALLED, UNREAD)
     ).resolves.toBeDefined()
