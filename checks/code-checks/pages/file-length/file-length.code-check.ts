@@ -7,6 +7,7 @@ export const fileLength = {
   definition: "the check refusing a file whose body is over the byte ceiling its kind is held to",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

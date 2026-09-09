@@ -1,7 +1,9 @@
 import {
   type Carried,
   heldBeside,
+  type Kinded,
   type Naming,
+  namingUnder,
   sectionHeld,
   slugsWhere,
 } from "@akasha/indexes/property-carrying"
@@ -38,8 +40,6 @@ const TEXT = "txt"
 
 const WHOLE_PROSE = "prose"
 
-const FILE_PROPERTY = "file-property"
-
 const RUNS = "runsFileLength"
 
 const TEST_RELIEF =
@@ -59,12 +59,18 @@ export function heldOff(value: Value): boolean {
   return value[RUNS] === false
 }
 
+function kindedIn(shadow: Shadow): Kinded {
+  return {
+    kindsUnder: (of) => shadow.index.kindsUnder(of),
+    everyOfType: (kind) => shadow.index.everyOfType(kind),
+    valueAt: (path) => shadow.pageOf(path),
+  }
+}
+
 function namingIn(shadow: Shadow): readonly Naming[] {
   const found = NAMING.get(shadow)
   if (found !== undefined) return found
-  const made = shadow.index
-    .everyOfType(FILE_PROPERTY)
-    .map((listed) => ({ path: listed.path, value: shadow.pageOf(listed.path) }))
+  const made = namingUnder(kindedIn(shadow))
   NAMING.set(shadow, made)
   return made
 }
@@ -72,14 +78,7 @@ function namingIn(shadow: Shadow): readonly Naming[] {
 function sectionsOff(shadow: Shadow): ReadonlySet<string> {
   const found = HELD_OFF.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(
-    {
-      kindsUnder: (of) => shadow.index.kindsUnder(of),
-      everyOfType: (kind) => shadow.index.everyOfType(kind),
-      valueAt: (path) => shadow.pageOf(path),
-    },
-    heldOff
-  )
+  const made = slugsWhere(kindedIn(shadow), heldOff)
   HELD_OFF.set(shadow, made)
   return made
 }

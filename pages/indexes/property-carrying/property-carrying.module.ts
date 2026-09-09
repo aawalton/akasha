@@ -79,6 +79,10 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
+      statement: "Every kind under a file property is read here, rather than that one kind.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Whether the file at a path is generated is answered here rather than by each caller.",
     },

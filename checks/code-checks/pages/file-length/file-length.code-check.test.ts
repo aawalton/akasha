@@ -1,15 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import {
-  idFiled,
-  listedFiled,
-  relationFiled,
-  schemaFiled,
-  valueAlsoFiled,
-} from "@akasha/indexes/testing"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import type { Value } from "@akasha/pages/page-value"
 import { shadowAt } from "@akasha/pages/shadow"
 import { bodiesIn } from "@akasha/testing-system/bodying"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -23,6 +14,14 @@ import {
   reasonsIn,
   WHOLE_PROSE_CEILING,
 } from "./file-length.code-check.code.ts"
+import {
+  ELSEWHERE,
+  LOCKFILE,
+  letOff,
+  SKETCHBOOK,
+  scratch,
+  seeded,
+} from "./file-length.code-check.test-fixtures.ts"
 
 const ROOT = "/repo"
 
@@ -204,102 +203,7 @@ test("the widest prose ceiling is wider than markup and narrower than an entry f
   expect(WHOLE_PROSE_CEILING).toBeLessThan(ENTRY_CEILING)
 })
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-const LOCKFILE = "bun.lock"
-
-const PROPERTY_AT = "akasha/lockfile.file-property.ts"
-
-const PROPERTY_ID = "01a06d55-0000-7000-8000-00000000000a"
-
-const TYPE_AT = "akasha/workspace.page-type.ts"
-
-const TYPE_ID = "01a06d55-0000-7000-8000-00000000000b"
-
-const OWNER_AT = "one.workspace.ts"
-
-const OWNER_ID = "01a06d55-0000-7000-8000-00000000000c"
-
-const ELSEWHERE = "node_modules/one/bun.lock"
-
-const FILE_PROPERTY = "file-property"
-
-const PAGE_TYPE = "page-type"
-
-const DRAFTED = "drafted-file-property"
-
-const STEM = "01a06d55-0000-7000-8000-0000000000"
-
-const ABOVE: readonly (readonly [string, string])[] = [
-  [FILE_PROPERTY, "page-type/page-property"],
-  [DRAFTED, `page-type/${FILE_PROPERTY}`],
-]
-
-const CARRIED: readonly Value[] = [
-  { pageTypeSlug: FILE_PROPERTY, slug: "patch", propertySlug: "patch", runsFileLength: false },
-  { pageTypeSlug: FILE_PROPERTY, slug: "notes", propertySlug: "notes" },
-  { pageTypeSlug: DRAFTED, slug: "sketch", propertySlug: "sketch", runsFileLength: false },
-]
-
-function alsoSeeded(root: string): undefined {
-  let held = 20
-  const filing = (kind: string, slug: string, path: string, value: Value): undefined => {
-    const id = `${STEM}${held}`
-    held += 1
-    listedFiled(root, kind, slug, [{ path, id }])
-    idFiled(root, id, [{ path, id }])
-    valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
-  }
-  for (const [slug, above] of ABOVE) {
-    const value = { pageTypeSlug: PAGE_TYPE, slug, extendsSlug: [above] }
-    filing(PAGE_TYPE, slug, `akasha/${slug}.page-type.ts`, value)
-  }
-  for (const value of CARRIED) {
-    const kind = String(value["pageTypeSlug"])
-    const slug = String(value["slug"])
-    filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
-  }
-}
-
-function seeded(value: Value): string {
-  const root = scratch.rootFor("akasha-file-length-")
-  listedFiled(root, FILE_PROPERTY, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
-  idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
-  schemaFiled(root, FILE_PROPERTY, "lockfile", [
-    {
-      pageTypeSlug: FILE_PROPERTY,
-      targetPageTypeSlug: null,
-      unique: null,
-      slug: "lockfile",
-      propertySlug: "lockfile",
-      fileName: LOCKFILE,
-    },
-  ])
-  valueAlsoFiled(root, FILE_PROPERTY, [
-    {
-      path: PROPERTY_AT,
-      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value },
-    },
-  ])
-  listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
-  valueAlsoFiled(root, "page-type", [
-    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: "page-type", slug: "workspace" } },
-  ])
-  idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
-  listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
-  valueAlsoFiled(root, "workspace", [
-    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: "workspace", slug: "one" } },
-  ])
-  relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
-  alsoSeeded(root)
-  return root
-}
-
-function letOff(): string {
-  return seeded({ fileName: LOCKFILE, runsFileLength: false })
-}
 
 test("a property saying false is the one this check lets off", () => {
   expect(heldOff({ runsFileLength: false, fileName: LOCKFILE })).toBe(true)
@@ -315,6 +219,10 @@ test("a property saying true is judged", () => {
 
 test("a file beside the page carrying the property saying false is let off the ceiling", () => {
   expect(exemptIn(LOCKFILE, shadowAt(letOff()))).toBe(true)
+})
+
+test("a file named by a property of a kind under file-property is let off just the same", () => {
+  expect(exemptIn(SKETCHBOOK, shadowAt(letOff()))).toBe(true)
 })
 
 test("a file of that name in another folder is held to the ceiling", () => {

@@ -171,10 +171,9 @@ function kindedIn(given: string | Reading): Kinded {
 
 export function generatedAt(given: string | Reading, path: string): boolean {
   try {
-    if (sectionHeld(path, slugsWhere(kindedIn(given), generates))) return true
-    return heldBeside(path, valuesOfType(given, FILE_PROPERTY), generates, (named) =>
-      carryingOf(given, named)
-    )
+    const kinded = kindedIn(given)
+    if (sectionHeld(path, slugsWhere(kinded, generates))) return true
+    return heldBeside(path, namingUnder(kinded), generates, (named) => carryingOf(given, named))
   } catch {
     return false
   }
@@ -198,6 +197,16 @@ export function slugsWhere(given: Kinded, wanted: (value: Value) => boolean): Re
     }
   }
   return made
+}
+
+export function namingUnder(given: Kinded): readonly Naming[] {
+  const found: Naming[] = []
+  for (const kind of given.kindsUnder(FILE_PROPERTY)) {
+    for (const listed of given.everyOfType(kind)) {
+      found.push({ path: listed.path, value: given.valueAt(listed.path) })
+    }
+  }
+  return found
 }
 
 export function sectionHeld(path: string, slugs: ReadonlySet<string>): boolean {
