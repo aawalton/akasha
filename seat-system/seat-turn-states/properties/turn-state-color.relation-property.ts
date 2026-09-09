@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type TurnStateColorSlug = Slug
+export type TurnStateColor = Slug
 
-export const turnStateColorSlug = {
+export const turnStateColor = {
   id: "01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba",
   pageTypeSlug: "relation-property",
-  slug: "turn-state-color-slug",
-  propertySlug: "color-slug",
+  slug: "turn-state-color",
+  propertySlug: "color",
   definition: "the color a seat in this turn state is drawn in",
   targetPageTypeSlug: "page-type/color",
   invariants: [

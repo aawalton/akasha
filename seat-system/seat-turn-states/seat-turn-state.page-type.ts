@@ -1,9 +1,9 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { TurnStateColorSlug } from "./properties/turn-state-color-slug.relation-property.ts"
+import type { TurnStateColor } from "./properties/turn-state-color.relation-property.ts"
 
 export type SeatTurnState = Domain & {
-  colorSlug: TurnStateColorSlug
+  color: TurnStateColor
 }
 
 export const seatTurnState = {
@@ -14,13 +14,13 @@ export const seatTurnState = {
   pluralSlug: "seat-turn-states",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
-    "relation-property/turn-state-color-slug",
+    "relation-property/turn-state-color",
     "seat-turn-state/idle",
     "seat-turn-state/stopped",
     "seat-turn-state/working",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/turn-state-color-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/turn-state-color", required: true, many: false },
   ],
   invariants: [
     {

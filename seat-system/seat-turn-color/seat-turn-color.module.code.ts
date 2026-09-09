@@ -5,7 +5,7 @@ import type { SeatTurnState } from "../seat-turn-state/seat-turn-state.module.co
 
 const PAGE_TYPE = "seat-turn-state"
 
-const COLOR_KEY = "color-slug"
+const COLOR_KEY = "color"
 
 export function pageOfState(akasha: string, state: SeatTurnState): string | null {
   return listedAt(akasha, PAGE_TYPE, state)[0]?.path ?? null

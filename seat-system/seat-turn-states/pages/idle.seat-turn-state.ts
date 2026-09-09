@@ -6,5 +6,5 @@ export const idle = {
   slug: "idle",
   definition: "an agent between turns",
   partSlugs: ["seat-turn-state/idle-pending", "seat-turn-state/ready"],
-  colorSlug: "yellow",
+  color: "yellow",
 } as const satisfies SeatTurnState

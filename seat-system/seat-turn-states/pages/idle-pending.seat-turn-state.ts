@@ -5,7 +5,7 @@ export const idlePending = {
   pageTypeSlug: "seat-turn-state",
   slug: "idle-pending",
   definition: "a turn start the agent arranged is still to come",
-  colorSlug: "blue",
+  color: "blue",
   invariants: [
     {
       invariantKind: "absence",
