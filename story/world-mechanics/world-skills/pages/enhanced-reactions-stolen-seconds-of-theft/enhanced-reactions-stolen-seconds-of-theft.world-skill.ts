@@ -5,6 +5,6 @@ export const enhancedReactionsStolenSecondsOfTheft = {
   pageTypeSlug: "world-skill",
   slug: "enhanced-reactions-stolen-seconds-of-theft",
   title: "Enhanced Reactions: Stolen Seconds of Theft",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

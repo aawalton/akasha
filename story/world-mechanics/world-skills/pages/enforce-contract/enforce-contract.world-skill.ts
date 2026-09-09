@@ -5,6 +5,6 @@ export const enforceContract = {
   pageTypeSlug: "world-skill",
   slug: "enforce-contract",
   title: "Enforce Contract",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const defySolecismDaily = {
   pageTypeSlug: "world-skill",
   slug: "defy-solecism-daily",
   title: "Defy Solecism (Daily)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const fleshPatch = {
   pageTypeSlug: "world-skill",
   slug: "flesh-patch",
   title: "Flesh Patch",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

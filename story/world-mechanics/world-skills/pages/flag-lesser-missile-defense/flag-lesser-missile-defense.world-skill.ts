@@ -5,5 +5,5 @@ export const flagLesserMissileDefense = {
   pageTypeSlug: "world-skill",
   slug: "flag-lesser-missile-defense",
   title: "Flag: Lesser Missile Defense",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

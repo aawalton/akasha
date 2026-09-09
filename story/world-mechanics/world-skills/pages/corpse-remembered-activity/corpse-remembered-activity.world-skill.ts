@@ -5,6 +5,6 @@ export const corpseRememberedActivity = {
   pageTypeSlug: "world-skill",
   slug: "corpse-remembered-activity",
   title: "Corpse: Remembered Activity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

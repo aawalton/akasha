@@ -5,6 +5,6 @@ export const dataSearchMoass = {
   pageTypeSlug: "world-skill",
   slug: "data-search-moass",
   title: "Data Search: Moass",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

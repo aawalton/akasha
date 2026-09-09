@@ -5,6 +5,6 @@ export const ferociousCommand = {
   pageTypeSlug: "world-skill",
   slug: "ferocious-command",
   title: "Ferocious Command",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

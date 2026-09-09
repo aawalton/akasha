@@ -5,6 +5,6 @@ export const fixedSpell = {
   pageTypeSlug: "world-skill",
   slug: "fixed-spell",
   title: "Fixed Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

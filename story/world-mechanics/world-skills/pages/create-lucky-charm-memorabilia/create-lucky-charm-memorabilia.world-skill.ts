@@ -5,5 +5,5 @@ export const createLuckyCharmMemorabilia = {
   pageTypeSlug: "world-skill",
   slug: "create-lucky-charm-memorabilia",
   title: "Create Lucky Charm (Memorabilia)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

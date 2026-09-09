@@ -5,6 +5,6 @@ export const defyMyFateDaily = {
   pageTypeSlug: "world-skill",
   slug: "defy-my-fate-daily",
   title: "Defy My Fate (Daily)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

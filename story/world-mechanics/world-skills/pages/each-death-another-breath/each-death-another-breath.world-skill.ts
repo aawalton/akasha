@@ -5,6 +5,6 @@ export const eachDeathAnotherBreath = {
   pageTypeSlug: "world-skill",
   slug: "each-death-another-breath",
   title: "Each Death, Another Breath",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

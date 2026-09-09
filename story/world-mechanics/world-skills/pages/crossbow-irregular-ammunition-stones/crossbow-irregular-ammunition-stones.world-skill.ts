@@ -5,6 +5,6 @@ export const crossbowIrregularAmmunitionStones = {
   pageTypeSlug: "world-skill",
   slug: "crossbow-irregular-ammunition-stones",
   title: "Crossbow: Irregular Ammunition (Stones)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

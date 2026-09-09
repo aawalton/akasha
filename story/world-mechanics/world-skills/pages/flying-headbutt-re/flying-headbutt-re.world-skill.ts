@@ -5,5 +5,5 @@ export const flyingHeadbuttRe = {
   pageTypeSlug: "world-skill",
   slug: "flying-headbutt-re",
   title: "Flying Headbutt Re",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

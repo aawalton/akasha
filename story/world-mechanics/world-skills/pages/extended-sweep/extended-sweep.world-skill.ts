@@ -5,6 +5,6 @@ export const extendedSweep = {
   pageTypeSlug: "world-skill",
   slug: "extended-sweep",
   title: "Extended Sweep",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

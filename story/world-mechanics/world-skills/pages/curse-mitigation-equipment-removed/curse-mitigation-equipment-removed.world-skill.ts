@@ -5,6 +5,6 @@ export const curseMitigationEquipmentRemoved = {
   pageTypeSlug: "world-skill",
   slug: "curse-mitigation-equipment-removed",
   title: "Skill – Curse Mitigation (Equipment) Removed…",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

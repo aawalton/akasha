@@ -5,6 +5,6 @@ export const dramasense = {
   pageTypeSlug: "world-skill",
   slug: "dramasense",
   title: "Dramasense",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

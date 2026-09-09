@@ -5,6 +5,6 @@ export const flashParry = {
   pageTypeSlug: "world-skill",
   slug: "flash-parry",
   title: "Flash Parry",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

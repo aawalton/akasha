@@ -5,6 +5,6 @@ export const establishBond = {
   pageTypeSlug: "world-skill",
   slug: "establish-bond",
   title: "Establish Bond",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

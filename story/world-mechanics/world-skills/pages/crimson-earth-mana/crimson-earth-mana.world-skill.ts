@@ -5,6 +5,6 @@ export const crimsonEarthMana = {
   pageTypeSlug: "world-skill",
   slug: "crimson-earth-mana",
   title: "Crimson Earth Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

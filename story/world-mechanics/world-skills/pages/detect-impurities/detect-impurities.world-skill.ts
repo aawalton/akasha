@@ -5,6 +5,6 @@ export const detectImpurities = {
   pageTypeSlug: "world-skill",
   slug: "detect-impurities",
   title: "Detect Impurities",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

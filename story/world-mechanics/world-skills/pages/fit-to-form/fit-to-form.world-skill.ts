@@ -5,6 +5,6 @@ export const fitToForm = {
   pageTypeSlug: "world-skill",
   slug: "fit-to-form",
   title: "Fit to Form",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

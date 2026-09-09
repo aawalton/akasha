@@ -5,6 +5,6 @@ export const detectVoid = {
   pageTypeSlug: "world-skill",
   slug: "detect-void",
   title: "Detect Void",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

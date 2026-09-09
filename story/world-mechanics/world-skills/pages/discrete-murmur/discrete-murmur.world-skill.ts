@@ -5,6 +5,6 @@ export const discreteMurmur = {
   pageTypeSlug: "world-skill",
   slug: "discrete-murmur",
   title: "Discrete Murmur",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

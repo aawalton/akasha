@@ -5,6 +5,6 @@ export const daggerArtGrinOfTheVortex = {
   pageTypeSlug: "world-skill",
   slug: "dagger-art-grin-of-the-vortex",
   title: "Dagger Art: Grin of the Vortex",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

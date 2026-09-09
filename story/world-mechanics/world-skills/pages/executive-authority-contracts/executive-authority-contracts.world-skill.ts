@@ -5,6 +5,6 @@ export const executiveAuthorityContracts = {
   pageTypeSlug: "world-skill",
   slug: "executive-authority-contracts",
   title: "Executive Authority: Contracts",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

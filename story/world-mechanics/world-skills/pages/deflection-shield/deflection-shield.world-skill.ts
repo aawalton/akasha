@@ -5,6 +5,6 @@ export const deflectionShield = {
   pageTypeSlug: "world-skill",
   slug: "deflection-shield",
   title: "Deflection Shield",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

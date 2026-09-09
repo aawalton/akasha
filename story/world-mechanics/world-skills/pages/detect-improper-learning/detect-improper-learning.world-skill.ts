@@ -5,6 +5,6 @@ export const detectImproperLearning = {
   pageTypeSlug: "world-skill",
   slug: "detect-improper-learning",
   title: "Detect Improper Learning",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const flurryStrikes = {
   pageTypeSlug: "world-skill",
   slug: "flurry-strikes",
   title: "Flurry Strikes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

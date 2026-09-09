@@ -5,6 +5,6 @@ export const designateCharitableWork = {
   pageTypeSlug: "world-skill",
   slug: "designate-charitable-work",
   title: "Designate Charitable Work",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

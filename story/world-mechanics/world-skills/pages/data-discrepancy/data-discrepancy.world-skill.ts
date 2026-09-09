@@ -5,6 +5,6 @@ export const dataDiscrepancy = {
   pageTypeSlug: "world-skill",
   slug: "data-discrepancy",
   title: "Data Discrepancy",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

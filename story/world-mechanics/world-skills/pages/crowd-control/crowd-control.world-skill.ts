@@ -5,6 +5,6 @@ export const crowdControl = {
   pageTypeSlug: "world-skill",
   slug: "crowd-control",
   title: "Crowd Control",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const deployMassLandmines = {
   pageTypeSlug: "world-skill",
   slug: "deploy-mass-landmines",
   title: "Deploy Mass Landmines",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const darkAura = {
   pageTypeSlug: "world-skill",
   slug: "dark-aura",
   title: "Dark Aura",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["aura-of-midnight"],
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const deflectProjectileAlly = {
   pageTypeSlug: "world-skill",
   slug: "deflect-projectile-ally",
   title: "Deflect Projectile (Ally)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const createCloudParalysisDust = {
   pageTypeSlug: "world-skill",
   slug: "create-cloud-paralysis-dust",
   title: "Create Cloud: Paralysis Dust",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

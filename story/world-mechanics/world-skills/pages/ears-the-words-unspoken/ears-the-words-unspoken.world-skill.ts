@@ -5,6 +5,6 @@ export const earsTheWordsUnspoken = {
   pageTypeSlug: "world-skill",
   slug: "ears-the-words-unspoken",
   title: "Ears: The Words Unspoken",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

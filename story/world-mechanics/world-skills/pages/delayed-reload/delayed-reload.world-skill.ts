@@ -5,6 +5,6 @@ export const delayedReload = {
   pageTypeSlug: "world-skill",
   slug: "delayed-reload",
   title: "Delayed Reload",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

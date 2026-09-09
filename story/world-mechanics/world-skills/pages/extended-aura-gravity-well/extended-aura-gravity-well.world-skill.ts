@@ -5,6 +5,6 @@ export const extendedAuraGravityWell = {
   pageTypeSlug: "world-skill",
   slug: "extended-aura-gravity-well",
   title: "Extended Aura: Gravity Well",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

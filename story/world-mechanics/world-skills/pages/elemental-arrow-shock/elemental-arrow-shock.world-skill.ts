@@ -5,6 +5,6 @@ export const elementalArrowShock = {
   pageTypeSlug: "world-skill",
   slug: "elemental-arrow-shock",
   title: "Elemental Arrow: Shock",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const emergencySmokescreen = {
   pageTypeSlug: "world-skill",
   slug: "emergency-smokescreen",
   title: "Emergency Smokescreen",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

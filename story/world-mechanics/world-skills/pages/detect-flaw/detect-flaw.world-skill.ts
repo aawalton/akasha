@@ -5,6 +5,6 @@ export const detectFlaw = {
   pageTypeSlug: "world-skill",
   slug: "detect-flaw",
   title: "Detect Flaw",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const exhaustiveMemory = {
   pageTypeSlug: "world-skill",
   slug: "exhaustive-memory",
   title: "Exhaustive Memory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

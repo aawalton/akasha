@@ -5,6 +5,6 @@ export const echoCompetencyMusic = {
   pageTypeSlug: "world-skill",
   slug: "echo-competency-music",
   title: "Echo Competency: Music",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const disguiseOfMundanityItem = {
   pageTypeSlug: "world-skill",
   slug: "disguise-of-mundanity-item",
   title: "Disguise of Mundanity (Item)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const ejectPatron = {
   pageTypeSlug: "world-skill",
   slug: "eject-patron",
   title: "Eject Patron",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

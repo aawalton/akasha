@@ -5,6 +5,6 @@ export const feelNoCurrent = {
   pageTypeSlug: "world-skill",
   slug: "feel-no-current",
   title: "Feel No Current",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

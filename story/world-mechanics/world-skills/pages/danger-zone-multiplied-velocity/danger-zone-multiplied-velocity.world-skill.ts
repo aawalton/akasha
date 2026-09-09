@@ -5,6 +5,6 @@ export const dangerZoneMultipliedVelocity = {
   pageTypeSlug: "world-skill",
   slug: "danger-zone-multiplied-velocity",
   title: "Danger Zone: Multiplied Velocity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

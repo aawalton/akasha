@@ -5,6 +5,6 @@ export const doubledCollectionAnts = {
   pageTypeSlug: "world-skill",
   slug: "doubled-collection-ants",
   title: "Doubled Collection (Ants)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

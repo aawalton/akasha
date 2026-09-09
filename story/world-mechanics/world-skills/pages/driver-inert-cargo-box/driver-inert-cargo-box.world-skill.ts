@@ -5,5 +5,5 @@ export const driverInertCargoBox = {
   pageTypeSlug: "world-skill",
   slug: "driver-inert-cargo-box",
   title: "Driver – Inert Cargo (Box)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

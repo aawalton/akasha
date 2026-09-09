@@ -5,6 +5,6 @@ export const estateCollectTaxesCrops = {
   pageTypeSlug: "world-skill",
   slug: "estate-collect-taxes-crops",
   title: "Estate: Collect Taxes (Crops)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const enigmaticClueSpellcraft = {
   pageTypeSlug: "world-skill",
   slug: "enigmatic-clue-spellcraft",
   title: "Enigmatic Clue: Spellcraft",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

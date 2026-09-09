@@ -5,6 +5,6 @@ export const digestibleOrder = {
   pageTypeSlug: "world-skill",
   slug: "digestible-order",
   title: "Digestible Order",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

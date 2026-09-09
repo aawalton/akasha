@@ -5,6 +5,6 @@ export const efficientRun = {
   pageTypeSlug: "world-skill",
   slug: "efficient-run",
   title: "Efficient Run",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

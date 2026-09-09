@@ -5,6 +5,6 @@ export const deepenedMagicalCrystals = {
   pageTypeSlug: "world-skill",
   slug: "deepened-magical-crystals",
   title: "Deepened Magical Crystals",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

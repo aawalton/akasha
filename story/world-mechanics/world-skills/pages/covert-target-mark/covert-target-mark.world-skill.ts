@@ -5,6 +5,6 @@ export const covertTargetMark = {
   pageTypeSlug: "world-skill",
   slug: "covert-target-mark",
   title: "Covert Target Mark",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

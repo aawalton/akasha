@@ -5,6 +5,6 @@ export const cutTheTailSaveTheBody = {
   pageTypeSlug: "world-skill",
   slug: "cut-the-tail-save-the-body",
   title: "Cut the Tail, Save the Body",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

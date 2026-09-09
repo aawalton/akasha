@@ -5,6 +5,6 @@ export const curvingBladesBloodTorrent = {
   pageTypeSlug: "world-skill",
   slug: "curving-blades-blood-torrent",
   title: "Curving Blades, Blood Torrent",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

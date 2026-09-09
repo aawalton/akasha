@@ -5,6 +5,6 @@ export const distantScan = {
   pageTypeSlug: "world-skill",
   slug: "distant-scan",
   title: "Distant Scan",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const flight110MaxSpeed = {
   pageTypeSlug: "world-skill",
   slug: "flight-110-max-speed",
   title: "Flight: 110% Max Speed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

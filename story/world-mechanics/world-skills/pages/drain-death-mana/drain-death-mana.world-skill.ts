@@ -5,6 +5,6 @@ export const drainDeathMana = {
   pageTypeSlug: "world-skill",
   slug: "drain-death-mana",
   title: "Drain Death Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

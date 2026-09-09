@@ -5,5 +5,5 @@ export const employee = {
   pageTypeSlug: "world-skill",
   slug: "employee",
   title: "Employee",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

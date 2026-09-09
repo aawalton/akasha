@@ -5,6 +5,6 @@ export const crossCut = {
   pageTypeSlug: "world-skill",
   slug: "cross-cut",
   title: "Cross Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

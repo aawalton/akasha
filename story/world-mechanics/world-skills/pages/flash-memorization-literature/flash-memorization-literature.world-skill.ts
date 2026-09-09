@@ -5,6 +5,6 @@ export const flashMemorizationLiterature = {
   pageTypeSlug: "world-skill",
   slug: "flash-memorization-literature",
   title: "Flash Memorization: Literature",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const expandedBlastSpiderwebPattern = {
   pageTypeSlug: "world-skill",
   slug: "expanded-blast-spiderweb-pattern",
   title: "Expanded Blast: Spiderweb Pattern",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

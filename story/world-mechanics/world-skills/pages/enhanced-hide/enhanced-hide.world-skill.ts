@@ -5,6 +5,6 @@ export const enhancedHide = {
   pageTypeSlug: "world-skill",
   slug: "enhanced-hide",
   title: "Enhanced Hide",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

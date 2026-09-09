@@ -5,6 +5,6 @@ export const earmarkedFundsRecompensation = {
   pageTypeSlug: "world-skill",
   slug: "earmarked-funds-recompensation",
   title: "Earmarked Funds – Recompensation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

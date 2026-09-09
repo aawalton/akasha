@@ -5,7 +5,7 @@ export const flashStep = {
   pageTypeSlug: "world-skill",
   slug: "flash-step",
   title: "Flash Step",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["flash-steps"],
   evolvesFromSlugs: ["quick-step"],
   references: "jsonl",

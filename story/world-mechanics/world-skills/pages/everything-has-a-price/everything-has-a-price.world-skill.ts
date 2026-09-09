@@ -5,7 +5,7 @@ export const everythingHasAPrice = {
   pageTypeSlug: "world-skill",
   slug: "everything-has-a-price",
   title: "Everything Has a Price",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Everything Has A Price"],
   references: "jsonl",
 } as const satisfies WorldSkill

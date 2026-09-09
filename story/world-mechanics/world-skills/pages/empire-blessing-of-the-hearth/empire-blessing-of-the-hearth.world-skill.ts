@@ -5,6 +5,6 @@ export const empireBlessingOfTheHearth = {
   pageTypeSlug: "world-skill",
   slug: "empire-blessing-of-the-hearth",
   title: "Empire: Blessing of the Hearth",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

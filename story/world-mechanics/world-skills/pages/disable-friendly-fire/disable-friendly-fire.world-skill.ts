@@ -5,6 +5,6 @@ export const disableFriendlyFire = {
   pageTypeSlug: "world-skill",
   slug: "disable-friendly-fire",
   title: "Disable Friendly Fire",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

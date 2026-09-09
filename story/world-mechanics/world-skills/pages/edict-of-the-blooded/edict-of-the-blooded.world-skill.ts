@@ -5,6 +5,6 @@ export const edictOfTheBlooded = {
   pageTypeSlug: "world-skill",
   slug: "edict-of-the-blooded",
   title: "Edict of the Blooded",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

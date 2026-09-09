@@ -5,6 +5,6 @@ export const epochalEarthworksRise = {
   pageTypeSlug: "world-skill",
   slug: "epochal-earthworks-rise",
   title: "Epochal Earthworks Rise",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

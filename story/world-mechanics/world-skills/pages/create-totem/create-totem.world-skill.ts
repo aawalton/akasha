@@ -5,6 +5,6 @@ export const createTotem = {
   pageTypeSlug: "world-skill",
   slug: "create-totem",
   title: "Create Totem",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const divineIntuitionWeak = {
   pageTypeSlug: "world-skill",
   slug: "divine-intuition-weak",
   title: "Divine Intuition (Weak)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

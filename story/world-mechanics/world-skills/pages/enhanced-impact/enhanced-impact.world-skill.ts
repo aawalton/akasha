@@ -5,6 +5,6 @@ export const enhancedImpact = {
   pageTypeSlug: "world-skill",
   slug: "enhanced-impact",
   title: "Enhanced Impact",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

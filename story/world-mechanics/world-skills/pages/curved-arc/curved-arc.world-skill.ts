@@ -5,6 +5,6 @@ export const curvedArc = {
   pageTypeSlug: "world-skill",
   slug: "curved-arc",
   title: "Curved Arc",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const doorFourfoldReinforcement = {
   pageTypeSlug: "world-skill",
   slug: "door-fourfold-reinforcement",
   title: "Door: Fourfold Reinforcement",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

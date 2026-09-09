@@ -5,6 +5,6 @@ export const estateForagerSBounty = {
   pageTypeSlug: "world-skill",
   slug: "estate-forager-s-bounty",
   title: "Estate: Forager’s Bounty",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

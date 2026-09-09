@@ -5,6 +5,6 @@ export const flutterRun = {
   pageTypeSlug: "world-skill",
   slug: "flutter-run",
   title: "Flutter Run",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

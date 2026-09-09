@@ -5,6 +5,6 @@ export const disadvantagedRenegotiation = {
   pageTypeSlug: "world-skill",
   slug: "disadvantaged-renegotiation",
   title: "Disadvantaged Renegotiation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

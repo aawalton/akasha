@@ -5,6 +5,6 @@ export const deferDamageSkateboard = {
   pageTypeSlug: "world-skill",
   slug: "defer-damage-skateboard",
   title: "Defer Damage: Skateboard",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

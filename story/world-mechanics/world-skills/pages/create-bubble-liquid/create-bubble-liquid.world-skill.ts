@@ -5,6 +5,6 @@ export const createBubbleLiquid = {
   pageTypeSlug: "world-skill",
   slug: "create-bubble-liquid",
   title: "Create Bubble Liquid",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

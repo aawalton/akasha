@@ -5,6 +5,6 @@ export const detectFlawExtendedRange = {
   pageTypeSlug: "world-skill",
   slug: "detect-flaw-extended-range",
   title: "Detect Flaw: Extended Range",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

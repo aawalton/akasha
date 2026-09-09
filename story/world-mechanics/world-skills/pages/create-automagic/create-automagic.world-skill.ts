@@ -5,5 +5,5 @@ export const createAutomagic = {
   pageTypeSlug: "world-skill",
   slug: "create-automagic",
   title: "Create Automagic",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

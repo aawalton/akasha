@@ -5,6 +5,6 @@ export const downloadBasicFamiliarity = {
   pageTypeSlug: "world-skill",
   slug: "download-basic-familiarity",
   title: "Download Basic Familiarity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

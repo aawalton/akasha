@@ -5,6 +5,6 @@ export const flaskDirectionalForce = {
   pageTypeSlug: "world-skill",
   slug: "flask-directional-force",
   title: "Flask: Directional Force",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

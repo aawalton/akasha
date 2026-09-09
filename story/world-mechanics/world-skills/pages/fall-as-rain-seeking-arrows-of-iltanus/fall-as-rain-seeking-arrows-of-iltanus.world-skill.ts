@@ -5,6 +5,6 @@ export const fallAsRainSeekingArrowsOfIltanus = {
   pageTypeSlug: "world-skill",
   slug: "fall-as-rain-seeking-arrows-of-iltanus",
   title: "Fall As Rain, Seeking Arrows of Iltanus",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

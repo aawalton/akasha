@@ -5,6 +5,6 @@ export const enhancedStrengthThrowing = {
   pageTypeSlug: "world-skill",
   slug: "enhanced-strength-throwing",
   title: "Enhanced Strength: Throwing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

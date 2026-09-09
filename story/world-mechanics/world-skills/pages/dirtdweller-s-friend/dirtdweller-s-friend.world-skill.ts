@@ -5,5 +5,5 @@ export const dirtdwellerSFriend = {
   pageTypeSlug: "world-skill",
   slug: "dirtdweller-s-friend",
   title: "Dirtdweller’s Friend",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

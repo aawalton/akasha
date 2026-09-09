@@ -5,6 +5,6 @@ export const explosiveReposition = {
   pageTypeSlug: "world-skill",
   slug: "explosive-reposition",
   title: "Explosive Reposition",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

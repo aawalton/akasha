@@ -5,6 +5,6 @@ export const explorerSArtBarrierOfCuts = {
   pageTypeSlug: "world-skill",
   slug: "explorer-s-art-barrier-of-cuts",
   title: "Explorer’s Art: Barrier of Cuts",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

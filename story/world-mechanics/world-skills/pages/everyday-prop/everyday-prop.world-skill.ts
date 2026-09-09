@@ -5,6 +5,6 @@ export const everydayProp = {
   pageTypeSlug: "world-skill",
   slug: "everyday-prop",
   title: "Everyday Prop",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

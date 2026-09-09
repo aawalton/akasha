@@ -5,6 +5,6 @@ export const flameSalamanderSSkin = {
   pageTypeSlug: "world-skill",
   slug: "flame-salamander-s-skin",
   title: "Flame Salamander’s Skin",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

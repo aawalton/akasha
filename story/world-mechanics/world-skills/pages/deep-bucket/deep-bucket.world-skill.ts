@@ -5,6 +5,6 @@ export const deepBucket = {
   pageTypeSlug: "world-skill",
   slug: "deep-bucket",
   title: "Deep Bucket",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
