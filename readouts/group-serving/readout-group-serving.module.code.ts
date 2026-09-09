@@ -74,7 +74,7 @@ export function stoplightWith(
 ): Stoplight | null {
   const slug = stated(row.slug)
   const label = stated(row.label)
-  const scaleSlug = stated(row.scaleSlug)
+  const scaleSlug = stated(row.scale) ?? stated(row.scaleSlug)
   if (slug === undefined || label === undefined || scaleSlug === undefined) return null
 
   const wireKey = stated(row.wireKey)
@@ -109,7 +109,7 @@ export async function stoplightOf(
   wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = relayedReading
 ): Promise<Stoplight | null> {
-  const scaleSlug = stated(row.scaleSlug)
+  const scaleSlug = stated(row.scale) ?? stated(row.scaleSlug)
   if (scaleSlug === undefined) return null
   const reading = readingHeld(row)
   const rungs = reading.held === "fresh" ? await rungsOf(scaleSlug) : []
