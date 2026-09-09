@@ -8,7 +8,7 @@ export const defianceOfTheFall0018Chapter1343WeaknessShift = {
   story: "story-read/defiance-of-the-fall",
   position: 18,
   ownLength: 3239,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2398360/chapter-1343-weakness-shift",

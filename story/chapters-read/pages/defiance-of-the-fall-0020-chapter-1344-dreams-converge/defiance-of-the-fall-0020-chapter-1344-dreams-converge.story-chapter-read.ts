@@ -8,7 +8,7 @@ export const defianceOfTheFall0020Chapter1344DreamsConverge = {
   story: "story-read/defiance-of-the-fall",
   position: 20,
   ownLength: 2991,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2539332/chapter-1344-dreams-converge",

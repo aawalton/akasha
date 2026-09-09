@@ -8,7 +8,7 @@ export const defianceOfTheFall0058Chapter1381Idiche = {
   story: "story-read/defiance-of-the-fall",
   position: 58,
   ownLength: 3462,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2786716/chapter-1381-idiche",

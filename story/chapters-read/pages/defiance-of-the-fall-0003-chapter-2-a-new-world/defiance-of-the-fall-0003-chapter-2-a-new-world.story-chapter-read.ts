@@ -8,7 +8,7 @@ export const defianceOfTheFall0003Chapter2ANewWorld = {
   story: "story-read/defiance-of-the-fall",
   position: 3,
   ownLength: 1502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359138/chapter-2-a-new-world",

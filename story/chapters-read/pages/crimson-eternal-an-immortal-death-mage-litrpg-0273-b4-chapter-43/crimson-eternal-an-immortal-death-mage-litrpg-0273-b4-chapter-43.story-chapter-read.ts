@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0273B4Chapter43 = {
   position: 273,
   ownLength: 1746,
   ownProgress: 1746,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:15:02.150Z",
   publishedAt: "2025-04-26",
   externalLink:

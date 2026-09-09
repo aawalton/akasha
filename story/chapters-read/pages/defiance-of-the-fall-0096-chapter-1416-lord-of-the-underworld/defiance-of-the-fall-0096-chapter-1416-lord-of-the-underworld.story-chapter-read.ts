@@ -8,7 +8,7 @@ export const defianceOfTheFall0096Chapter1416LordOfTheUnderworld = {
   story: "story-read/defiance-of-the-fall",
   position: 96,
   ownLength: 3261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-31",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3215343/chapter-1416-lord-of-the-underworld",

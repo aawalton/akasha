@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0293B4Intermission4 = {
   position: 293,
   ownLength: 1048,
   ownProgress: 1048,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:15:46.175Z",
   publishedAt: "2025-07-29",
   externalLink:

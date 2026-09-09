@@ -8,7 +8,7 @@ export const defianceOfTheFall0025Chapter1349NewNeighbor = {
   story: "story-read/defiance-of-the-fall",
   position: 25,
   ownLength: 3466,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2576389/chapter-1349-new-neighbor",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0039Chapter1363TheConfusionWillPass = {
   story: "story-read/defiance-of-the-fall",
   position: 39,
   ownLength: 3034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2658903/chapter-1363-the-confusion-will-pass",

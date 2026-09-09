@@ -8,7 +8,7 @@ export const defianceOfTheFall0022Chapter1346Impasse = {
   story: "story-read/defiance-of-the-fall",
   position: 22,
   ownLength: 3134,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2553255/chapter-1346-impasse",

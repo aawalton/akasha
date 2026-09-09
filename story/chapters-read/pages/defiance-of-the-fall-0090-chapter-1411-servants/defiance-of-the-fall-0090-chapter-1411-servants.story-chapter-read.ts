@@ -8,7 +8,7 @@ export const defianceOfTheFall0090Chapter1411Servants = {
   story: "story-read/defiance-of-the-fall",
   position: 90,
   ownLength: 3348,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3170297/chapter-1411-servants",

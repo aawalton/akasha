@@ -8,7 +8,7 @@ export const defianceOfTheFall0023Chapter1347ChanceAndFate = {
   story: "story-read/defiance-of-the-fall",
   position: 23,
   ownLength: 2699,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2558689/chapter-1347-chance-and-fate",

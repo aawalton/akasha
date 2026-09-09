@@ -8,7 +8,7 @@ export const defianceOfTheFall0073Chapter1395RiversAndMoons = {
   story: "story-read/defiance-of-the-fall",
   position: 73,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2933316/chapter-1395-rivers-and-moons",

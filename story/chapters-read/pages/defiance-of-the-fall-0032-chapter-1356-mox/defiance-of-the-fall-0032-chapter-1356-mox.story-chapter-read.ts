@@ -8,7 +8,7 @@ export const defianceOfTheFall0032Chapter1356Mox = {
   story: "story-read/defiance-of-the-fall",
   position: 32,
   ownLength: 3508,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-21",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2618007/chapter-1356-mox",

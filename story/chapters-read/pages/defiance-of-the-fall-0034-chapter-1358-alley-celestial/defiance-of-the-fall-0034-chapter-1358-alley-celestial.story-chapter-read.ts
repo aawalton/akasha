@@ -8,7 +8,7 @@ export const defianceOfTheFall0034Chapter1358AlleyCelestial = {
   story: "story-read/defiance-of-the-fall",
   position: 34,
   ownLength: 2624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2628574/chapter-1358-alley-celestial",

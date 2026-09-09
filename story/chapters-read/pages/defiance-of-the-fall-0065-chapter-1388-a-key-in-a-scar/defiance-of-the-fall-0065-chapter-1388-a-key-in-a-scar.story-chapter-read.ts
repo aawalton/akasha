@@ -8,7 +8,7 @@ export const defianceOfTheFall0065Chapter1388AKeyInAScar = {
   story: "story-read/defiance-of-the-fall",
   position: 65,
   ownLength: 3046,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2833560/chapter-1388-a-key-in-a-scar",

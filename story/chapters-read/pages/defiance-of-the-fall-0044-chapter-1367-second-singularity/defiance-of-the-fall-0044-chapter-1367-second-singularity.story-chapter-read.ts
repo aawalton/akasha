@@ -8,7 +8,7 @@ export const defianceOfTheFall0044Chapter1367SecondSingularity = {
   story: "story-read/defiance-of-the-fall",
   position: 44,
   ownLength: 2971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-19",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2688990/chapter-1367-second-singularity",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0082Chapter1403Betrayal = {
   story: "story-read/defiance-of-the-fall",
   position: 82,
   ownLength: 3191,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2991936/chapter-1403-betrayal",

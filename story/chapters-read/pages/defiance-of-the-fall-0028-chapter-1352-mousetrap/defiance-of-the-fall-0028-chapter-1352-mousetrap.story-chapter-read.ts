@@ -8,7 +8,7 @@ export const defianceOfTheFall0028Chapter1352Mousetrap = {
   story: "story-read/defiance-of-the-fall",
   position: 28,
   ownLength: 3257,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2593200/chapter-1352-mousetrap",

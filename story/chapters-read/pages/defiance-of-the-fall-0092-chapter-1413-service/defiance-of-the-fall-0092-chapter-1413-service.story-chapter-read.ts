@@ -8,7 +8,7 @@ export const defianceOfTheFall0092Chapter1413Service = {
   story: "story-read/defiance-of-the-fall",
   position: 92,
   ownLength: 3360,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3189167/chapter-1413-service",

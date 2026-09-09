@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0335B5CrossoverArt = {
   position: 335,
   ownLength: 69,
   ownProgress: 69,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:17:11.268Z",
   publishedAt: "2026-02-19",
   externalLink:

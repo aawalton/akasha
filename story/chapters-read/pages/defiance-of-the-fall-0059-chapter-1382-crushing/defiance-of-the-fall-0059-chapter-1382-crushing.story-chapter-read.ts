@@ -8,7 +8,7 @@ export const defianceOfTheFall0059Chapter1382Crushing = {
   story: "story-read/defiance-of-the-fall",
   position: 59,
   ownLength: 2882,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2792760/chapter-1382-crushing",

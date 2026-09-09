@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0304B5StoryArtAndNewYearsArt
   position: 304,
   ownLength: 164,
   ownProgress: 164,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:16:09.338Z",
   publishedAt: "2025-09-10",
   externalLink:

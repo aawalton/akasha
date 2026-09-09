@@ -8,7 +8,7 @@ export const defianceOfTheFall0089Chapter1410EmergentPool = {
   story: "story-read/defiance-of-the-fall",
   position: 89,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3163202/chapter-1410-emergent-pool",

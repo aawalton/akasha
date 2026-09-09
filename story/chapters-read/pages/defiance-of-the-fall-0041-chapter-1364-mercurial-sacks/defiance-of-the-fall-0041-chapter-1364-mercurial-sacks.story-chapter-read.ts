@@ -8,7 +8,7 @@ export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   story: "story-read/defiance-of-the-fall",
   position: 41,
   ownLength: 2841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2672167/chapter-1364-mercurial-sacks",

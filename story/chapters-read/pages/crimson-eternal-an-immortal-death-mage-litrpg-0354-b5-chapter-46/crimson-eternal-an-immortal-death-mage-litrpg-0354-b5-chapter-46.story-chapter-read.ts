@@ -8,7 +8,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0354B5Chapter46 = {
   story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 354,
   ownLength: 1365,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg/chapter/3641124/b5-chapter-46",

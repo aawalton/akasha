@@ -8,7 +8,7 @@ export const defianceOfTheFall0007Chapter6BornForCarnage = {
   story: "story-read/defiance-of-the-fall",
   position: 7,
   ownLength: 1633,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359379/chapter-6-born-for-carnage",

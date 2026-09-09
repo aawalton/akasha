@@ -8,7 +8,7 @@ export const defianceOfTheFall0035Chapter1359Besieged = {
   story: "story-read/defiance-of-the-fall",
   position: 35,
   ownLength: 2977,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2635945/chapter-1359-besieged",

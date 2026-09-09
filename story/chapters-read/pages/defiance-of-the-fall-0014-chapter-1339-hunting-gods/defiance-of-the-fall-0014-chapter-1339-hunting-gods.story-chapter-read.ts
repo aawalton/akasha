@@ -8,7 +8,7 @@ export const defianceOfTheFall0014Chapter1339HuntingGods = {
   story: "story-read/defiance-of-the-fall",
   position: 14,
   ownLength: 3232,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2366755/chapter-1339-hunting-gods",

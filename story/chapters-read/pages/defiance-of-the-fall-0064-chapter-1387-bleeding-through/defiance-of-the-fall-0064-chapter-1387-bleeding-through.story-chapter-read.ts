@@ -8,7 +8,7 @@ export const defianceOfTheFall0064Chapter1387BleedingThrough = {
   story: "story-read/defiance-of-the-fall",
   position: 64,
   ownLength: 3270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2827790/chapter-1387-bleeding-through",

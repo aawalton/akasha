@@ -8,7 +8,7 @@ export const defianceOfTheFall0054Chapter1377Archipelago = {
   story: "story-read/defiance-of-the-fall",
   position: 54,
   ownLength: 3358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-14",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2759699/chapter-1377-archipelago",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0031Chapter1355Naruk = {
   story: "story-read/defiance-of-the-fall",
   position: 31,
   ownLength: 3321,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2610765/chapter-1355-naruk",

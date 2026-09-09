@@ -8,7 +8,7 @@ export const defianceOfTheFall0046Chapter1369Conscripted = {
   story: "story-read/defiance-of-the-fall",
   position: 46,
   ownLength: 3287,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2699355/chapter-1369-conscripted",

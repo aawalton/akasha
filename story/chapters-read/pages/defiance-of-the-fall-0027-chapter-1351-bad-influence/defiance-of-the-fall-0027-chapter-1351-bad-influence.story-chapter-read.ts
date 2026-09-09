@@ -8,7 +8,7 @@ export const defianceOfTheFall0027Chapter1351BadInfluence = {
   story: "story-read/defiance-of-the-fall",
   position: 27,
   ownLength: 3156,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2587946/chapter-1351-bad-influence",

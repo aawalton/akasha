@@ -8,7 +8,7 @@ export const deathHealer0056Chapter55 = {
   story: "death-healer",
   position: 56,
   ownLength: 2077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-07",
   externalLink: "https://www.royalroad.com/fiction/115399/death-healer/chapter/2500281/chapter-55",
   externalId: "2500281",

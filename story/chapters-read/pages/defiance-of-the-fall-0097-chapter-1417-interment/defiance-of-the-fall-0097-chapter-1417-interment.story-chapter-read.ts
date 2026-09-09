@@ -8,7 +8,7 @@ export const defianceOfTheFall0097Chapter1417Interment = {
   story: "story-read/defiance-of-the-fall",
   position: 97,
   ownLength: 3349,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3227976/chapter-1417-interment",

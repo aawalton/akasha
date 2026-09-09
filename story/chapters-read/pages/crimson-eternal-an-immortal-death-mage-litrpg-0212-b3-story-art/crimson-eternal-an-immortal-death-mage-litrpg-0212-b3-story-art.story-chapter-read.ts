@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0212B3StoryArt = {
   position: 212,
   ownLength: 185,
   ownProgress: 185,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:12:56.528Z",
   publishedAt: "2024-10-02",
   externalLink:

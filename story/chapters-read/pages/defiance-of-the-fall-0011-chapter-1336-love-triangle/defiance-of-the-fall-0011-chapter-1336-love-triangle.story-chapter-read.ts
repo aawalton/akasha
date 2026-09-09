@@ -8,7 +8,7 @@ export const defianceOfTheFall0011Chapter1336LoveTriangle = {
   story: "story-read/defiance-of-the-fall",
   position: 11,
   ownLength: 2907,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2349119/chapter-1336-love-triangle",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
   story: "story-read/defiance-of-the-fall",
   position: 87,
   ownLength: 2989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3130476/chapter-1408-history-repeating-itself",

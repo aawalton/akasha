@@ -8,7 +8,7 @@ export const defianceOfTheFall0078Chapter1400BloodAndMoonlight = {
   story: "story-read/defiance-of-the-fall",
   position: 78,
   ownLength: 3082,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-22",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2968792/chapter-1400-blood-and-moonlight",

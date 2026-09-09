@@ -8,7 +8,7 @@ export const defianceOfTheFall0055Chapter1378ExplorersGuild = {
   story: "story-read/defiance-of-the-fall",
   position: 55,
   ownLength: 3043,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2766637/chapter-1378-explorers-guild",

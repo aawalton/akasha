@@ -8,7 +8,7 @@ export const defianceOfTheFall0079Chapter1401Immortal = {
   story: "story-read/defiance-of-the-fall",
   position: 79,
   ownLength: 2962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-25",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2978535/chapter-1401-immortal",

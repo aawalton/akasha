@@ -8,7 +8,7 @@ export const defianceOfTheFall0016Chapter1341OpeningCeremony = {
   story: "story-read/defiance-of-the-fall",
   position: 16,
   ownLength: 3081,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2385189/chapter-1341-opening-ceremony",

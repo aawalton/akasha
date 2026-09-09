@@ -8,7 +8,7 @@ export const defianceOfTheFall0067Chapter1390ThePressureOfAWorld = {
   story: "story-read/defiance-of-the-fall",
   position: 67,
   ownLength: 3149,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-15",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2850502/chapter-1390-the-pressure-of-a-world",

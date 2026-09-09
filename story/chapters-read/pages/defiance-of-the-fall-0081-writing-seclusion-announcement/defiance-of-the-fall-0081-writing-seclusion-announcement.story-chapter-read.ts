@@ -8,7 +8,7 @@ export const defianceOfTheFall0081WritingSeclusionAnnouncement = {
   story: "story-read/defiance-of-the-fall",
   position: 81,
   ownLength: 290,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2989113/writing-seclusion-announcement",

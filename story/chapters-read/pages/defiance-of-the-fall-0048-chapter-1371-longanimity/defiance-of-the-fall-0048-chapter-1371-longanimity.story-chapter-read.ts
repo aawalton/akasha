@@ -8,7 +8,7 @@ export const defianceOfTheFall0048Chapter1371Longanimity = {
   story: "story-read/defiance-of-the-fall",
   position: 48,
   ownLength: 3118,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2712292/chapter-1371-longanimity",

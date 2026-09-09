@@ -8,7 +8,7 @@ export const defianceOfTheFall0040NoChapterToday = {
   story: "story-read/defiance-of-the-fall",
   position: 40,
   ownLength: 84,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2663905/no-chapter-today",

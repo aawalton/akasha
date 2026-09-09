@@ -8,7 +8,7 @@ export const defianceOfTheFall0099Chapter1419CompassFactory = {
   story: "story-read/defiance-of-the-fall",
   position: 99,
   ownLength: 2880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3244514/chapter-1419-compass-factory",

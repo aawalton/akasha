@@ -8,7 +8,7 @@ export const defianceOfTheFall0068Chapter1391Fateseizer = {
   story: "story-read/defiance-of-the-fall",
   position: 68,
   ownLength: 3088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2853850/chapter-1391-fateseizer",

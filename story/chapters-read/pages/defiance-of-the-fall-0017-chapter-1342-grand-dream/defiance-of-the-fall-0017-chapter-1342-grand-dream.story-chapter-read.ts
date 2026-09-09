@@ -8,7 +8,7 @@ export const defianceOfTheFall0017Chapter1342GrandDream = {
   story: "story-read/defiance-of-the-fall",
   position: 17,
   ownLength: 3227,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2390514/chapter-1342-grand-dream",

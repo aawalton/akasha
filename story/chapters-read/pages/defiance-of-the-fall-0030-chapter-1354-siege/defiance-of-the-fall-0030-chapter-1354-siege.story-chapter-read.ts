@@ -8,7 +8,7 @@ export const defianceOfTheFall0030Chapter1354Siege = {
   story: "story-read/defiance-of-the-fall",
   position: 30,
   ownLength: 3174,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2605585/chapter-1354-siege",

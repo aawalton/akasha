@@ -8,7 +8,7 @@ export const defianceOfTheFall0056Chapter1379MiracleLodge = {
   story: "story-read/defiance-of-the-fall",
   position: 56,
   ownLength: 3083,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2772575/chapter-1379-miracle-lodge",

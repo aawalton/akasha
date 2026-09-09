@@ -8,7 +8,7 @@ export const defianceOfTheFall0069Chapter1392Taint = {
   story: "story-read/defiance-of-the-fall",
   position: 69,
   ownLength: 3330,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2859707/chapter-1392-taint",

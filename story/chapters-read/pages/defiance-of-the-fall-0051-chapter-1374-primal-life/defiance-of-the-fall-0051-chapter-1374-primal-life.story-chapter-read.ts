@@ -8,7 +8,7 @@ export const defianceOfTheFall0051Chapter1374PrimalLife = {
   story: "story-read/defiance-of-the-fall",
   position: 51,
   ownLength: 3039,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-06",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2738461/chapter-1374-primal-life",

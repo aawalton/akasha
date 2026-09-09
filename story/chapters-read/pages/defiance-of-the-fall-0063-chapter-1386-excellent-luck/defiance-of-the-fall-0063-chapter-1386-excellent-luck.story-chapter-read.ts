@@ -8,7 +8,7 @@ export const defianceOfTheFall0063Chapter1386ExcellentLuck = {
   story: "story-read/defiance-of-the-fall",
   position: 63,
   ownLength: 3013,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2819088/chapter-1386-excellent-luck",

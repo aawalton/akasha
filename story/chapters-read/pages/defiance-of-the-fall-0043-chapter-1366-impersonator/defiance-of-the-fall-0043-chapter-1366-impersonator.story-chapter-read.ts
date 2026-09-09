@@ -8,7 +8,7 @@ export const defianceOfTheFall0043Chapter1366Impersonator = {
   story: "story-read/defiance-of-the-fall",
   position: 43,
   ownLength: 2759,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2681474/chapter-1366-impersonator",

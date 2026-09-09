@@ -8,7 +8,7 @@ export const defianceOfTheFall0075Chapter1397Attention = {
   story: "story-read/defiance-of-the-fall",
   position: 75,
   ownLength: 3003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-15",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2946608/chapter-1397-attention",

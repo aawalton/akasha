@@ -8,7 +8,7 @@ export const defianceOfTheFall0074Chapter1396RiverCrossing = {
   story: "story-read/defiance-of-the-fall",
   position: 74,
   ownLength: 3019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-13",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2939831/chapter-1396-river-crossing",

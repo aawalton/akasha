@@ -8,7 +8,7 @@ export const defianceOfTheFall0080Chapter1402InexorableFate = {
   story: "story-read/defiance-of-the-fall",
   position: 80,
   ownLength: 2943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-27",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2985268/chapter-1402-inexorable-fate",

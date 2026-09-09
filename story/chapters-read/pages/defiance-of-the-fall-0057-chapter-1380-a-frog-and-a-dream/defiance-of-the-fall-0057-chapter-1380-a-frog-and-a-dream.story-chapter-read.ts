@@ -8,7 +8,7 @@ export const defianceOfTheFall0057Chapter1380AFrogAndADream = {
   story: "story-read/defiance-of-the-fall",
   position: 57,
   ownLength: 3374,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2778319/chapter-1380-a-frog-and-a-dream",

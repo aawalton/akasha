@@ -8,7 +8,7 @@ export const defianceOfTheFall0001PrologueWelcomeToTheMultiVerse = {
   story: "story-read/defiance-of-the-fall",
   position: 1,
   ownLength: 1230,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359118/prologue-welcome-to-the-multi-verse",

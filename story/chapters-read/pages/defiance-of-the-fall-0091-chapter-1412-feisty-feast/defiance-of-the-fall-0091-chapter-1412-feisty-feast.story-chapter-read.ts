@@ -8,7 +8,7 @@ export const defianceOfTheFall0091Chapter1412FeistyFeast = {
   story: "story-read/defiance-of-the-fall",
   position: 91,
   ownLength: 3005,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3181252/chapter-1412-feisty-feast",

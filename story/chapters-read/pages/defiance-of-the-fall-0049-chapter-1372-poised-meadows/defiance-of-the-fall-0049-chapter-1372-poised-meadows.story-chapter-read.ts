@@ -8,7 +8,7 @@ export const defianceOfTheFall0049Chapter1372PoisedMeadows = {
   story: "story-read/defiance-of-the-fall",
   position: 49,
   ownLength: 3126,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2717610/chapter-1372-poised-meadows",

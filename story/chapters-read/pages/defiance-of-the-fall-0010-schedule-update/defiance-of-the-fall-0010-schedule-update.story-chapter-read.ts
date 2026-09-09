@@ -8,7 +8,7 @@ export const defianceOfTheFall0010ScheduleUpdate = {
   story: "story-read/defiance-of-the-fall",
   position: 10,
   ownLength: 283,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/1601459/schedule-update",

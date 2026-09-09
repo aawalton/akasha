@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0251B4Qanda = {
   position: 251,
   ownLength: 82,
   ownProgress: 82,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:14:16.850Z",
   publishedAt: "2025-01-27",
   externalLink:

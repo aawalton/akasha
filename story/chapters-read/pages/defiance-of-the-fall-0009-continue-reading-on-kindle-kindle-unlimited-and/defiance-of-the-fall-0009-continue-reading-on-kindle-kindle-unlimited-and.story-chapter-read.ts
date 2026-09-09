@@ -8,7 +8,7 @@ export const defianceOfTheFall0009ContinueReadingOnKindleKindleUnlimitedAnd = {
   story: "story-read/defiance-of-the-fall",
   position: 9,
   ownLength: 144,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/685135/continue-reading-on-kindle-kindle-unlimited-and",

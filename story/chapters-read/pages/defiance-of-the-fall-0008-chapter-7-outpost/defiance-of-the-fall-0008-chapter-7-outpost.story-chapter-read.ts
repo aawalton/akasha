@@ -8,7 +8,7 @@ export const defianceOfTheFall0008Chapter7Outpost = {
   story: "story-read/defiance-of-the-fall",
   position: 8,
   ownLength: 1533,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/359476/chapter-7-outpost",

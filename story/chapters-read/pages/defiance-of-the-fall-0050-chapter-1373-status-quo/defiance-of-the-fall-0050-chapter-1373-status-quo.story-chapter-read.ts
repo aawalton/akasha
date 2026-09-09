@@ -8,7 +8,7 @@ export const defianceOfTheFall0050Chapter1373StatusQuo = {
   story: "story-read/defiance-of-the-fall",
   position: 50,
   ownLength: 3160,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-02",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2726770/chapter-1373-status-quo",

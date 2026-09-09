@@ -8,7 +8,7 @@ export const defianceOfTheFall0095Chapter1415TheLastRayOfHope = {
   story: "story-read/defiance-of-the-fall",
   position: 95,
   ownLength: 2969,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3207704/chapter-1415-the-last-ray-of-hope",

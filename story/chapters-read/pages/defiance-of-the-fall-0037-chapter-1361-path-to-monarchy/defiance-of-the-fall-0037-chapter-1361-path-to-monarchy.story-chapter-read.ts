@@ -8,7 +8,7 @@ export const defianceOfTheFall0037Chapter1361PathToMonarchy = {
   story: "story-read/defiance-of-the-fall",
   position: 37,
   ownLength: 3088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2646395/chapter-1361-path-to-monarchy",

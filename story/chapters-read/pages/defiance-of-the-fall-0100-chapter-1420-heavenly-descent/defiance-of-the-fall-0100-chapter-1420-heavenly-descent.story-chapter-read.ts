@@ -8,7 +8,7 @@ export const defianceOfTheFall0100Chapter1420HeavenlyDescent = {
   story: "story-read/defiance-of-the-fall",
   position: 100,
   ownLength: 2743,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3252960/chapter-1420-heavenly-descent",

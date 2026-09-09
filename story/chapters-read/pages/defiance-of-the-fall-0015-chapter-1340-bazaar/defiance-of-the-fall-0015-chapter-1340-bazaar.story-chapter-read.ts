@@ -8,7 +8,7 @@ export const defianceOfTheFall0015Chapter1340Bazaar = {
   story: "story-read/defiance-of-the-fall",
   position: 15,
   ownLength: 3109,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2381321/chapter-1340-bazaar",

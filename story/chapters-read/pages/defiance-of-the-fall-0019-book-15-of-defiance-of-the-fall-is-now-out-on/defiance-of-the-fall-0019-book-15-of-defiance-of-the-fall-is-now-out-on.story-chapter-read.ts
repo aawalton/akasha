@@ -8,7 +8,7 @@ export const defianceOfTheFall0019Book15OfDefianceOfTheFallIsNowOutOn = {
   story: "story-read/defiance-of-the-fall",
   position: 19,
   ownLength: 179,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2439892/book-15-of-defiance-of-the-fall-is-now-out-on",

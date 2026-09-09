@@ -8,7 +8,7 @@ export const defianceOfTheFall0085Chapter1406Rebirth = {
   story: "story-read/defiance-of-the-fall",
   position: 85,
   ownLength: 2945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3112752/chapter-1406-rebirth",

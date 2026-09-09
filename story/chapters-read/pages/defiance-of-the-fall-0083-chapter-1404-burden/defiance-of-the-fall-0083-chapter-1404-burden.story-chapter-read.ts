@@ -8,7 +8,7 @@ export const defianceOfTheFall0083Chapter1404Burden = {
   story: "story-read/defiance-of-the-fall",
   position: 83,
   ownLength: 2973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3002275/chapter-1404-burden",

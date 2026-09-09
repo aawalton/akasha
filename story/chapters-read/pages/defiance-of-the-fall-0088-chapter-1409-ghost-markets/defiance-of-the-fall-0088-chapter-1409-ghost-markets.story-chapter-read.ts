@@ -8,7 +8,7 @@ export const defianceOfTheFall0088Chapter1409GhostMarkets = {
   story: "story-read/defiance-of-the-fall",
   position: 88,
   ownLength: 3314,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3155424/chapter-1409-ghost-markets",

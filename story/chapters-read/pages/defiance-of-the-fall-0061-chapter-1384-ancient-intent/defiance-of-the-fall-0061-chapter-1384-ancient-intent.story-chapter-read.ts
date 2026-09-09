@@ -8,7 +8,7 @@ export const defianceOfTheFall0061Chapter1384AncientIntent = {
   story: "story-read/defiance-of-the-fall",
   position: 61,
   ownLength: 2855,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2806938/chapter-1384-ancient-intent",

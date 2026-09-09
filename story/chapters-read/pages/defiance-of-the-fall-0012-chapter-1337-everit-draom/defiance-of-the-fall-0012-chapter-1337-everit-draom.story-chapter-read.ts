@@ -8,7 +8,7 @@ export const defianceOfTheFall0012Chapter1337EveritDraom = {
   story: "story-read/defiance-of-the-fall",
   position: 12,
   ownLength: 3077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2354399/chapter-1337-everit-draom",

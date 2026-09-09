@@ -8,7 +8,7 @@ export const defianceOfTheFall0024Chapter1348Whitfall = {
   story: "story-read/defiance-of-the-fall",
   position: 24,
   ownLength: 2768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2569098/chapter-1348-whitfall",

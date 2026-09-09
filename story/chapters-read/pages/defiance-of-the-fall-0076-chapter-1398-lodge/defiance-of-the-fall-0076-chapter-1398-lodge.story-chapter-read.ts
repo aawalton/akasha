@@ -8,7 +8,7 @@ export const defianceOfTheFall0076Chapter1398Lodge = {
   story: "story-read/defiance-of-the-fall",
   position: 76,
   ownLength: 3044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2955651/chapter-1398-lodge",

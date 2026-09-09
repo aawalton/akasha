@@ -8,7 +8,7 @@ export const defianceOfTheFall0072Chapter1394OverturningDestiny = {
   story: "story-read/defiance-of-the-fall",
   position: 72,
   ownLength: 2905,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-06",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/2918010/chapter-1394-overturning-destiny",
