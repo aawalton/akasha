@@ -5,7 +5,7 @@ export const temperEffects = {
   pageTypeSlug: "domain",
   slug: "temper-effects",
   definition: "what is put on a character for a while, for good or ill",
-  pluralSlug: "temper-effectss",
+  pluralSlug: "temper-effects",
   parts: [
     "page-type/temper-buff-major",
     "page-type/temper-buff-minor",
