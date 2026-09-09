@@ -130,15 +130,17 @@ test("a rule this change introduces is judged by the body the change carries", (
   ])
 })
 
-test("a change rewriting a rule's code is refused rather than judged by the body before it", () => {
+test("a change rewriting a rule's code is judged by the body the change carries", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
-  expect(() => rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))).toThrow(
-    /body no path on disk holds/
-  )
+  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))
+  expect(rules).toHaveLength(1)
+  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
+    "line 1: the body the change carries — `probe`",
+  ])
 })
 
-test("a rule whose code the change carries nowhere is refused as a rewrite is", () => {
+test("a rule whose code no change carries and no disk holds is refused", () => {
   const root = scratch.rootFor("akasha-syntax-rule-")
   ruleFiled(root)
   expect(() => rulesIn(root, nowhereOnDisk(root))).toThrow(/body no path on disk holds/)

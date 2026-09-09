@@ -32,9 +32,8 @@ export type Rule = {
 
 type Running = (...given: readonly unknown[]) => undefined
 
-export function introducedIn(change: Change | null, path: string): string | null {
+export function carriedIn(change: Change | null, path: string): string | null {
   if (change === null) return null
-  if (change.before(path) !== null) return null
   return textOf(change.after(path))
 }
 
@@ -82,7 +81,7 @@ export function rulesIn(
     const codePath = shadow.codeAt(beside)
     let mod: Record<string, unknown>
     if (codePath === null) {
-      const carried = introducedIn(change, beside)
+      const carried = carriedIn(change, beside)
       if (carried === null) {
         throw new Error(
           `${one.path} is a syntax rule, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`

@@ -24,12 +24,15 @@ export const noRefusedSyntax = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change rewriting a rule's code is refused rather than judged by the body before the change.",
+      statement: "A rule whose code the change carries is judged by the body the change carries.",
     },
     {
-      invariantKind: "departure",
-      statement: "A rule this change introduces is judged by the body the change has.",
+      invariantKind: "absence",
+      statement: "No rule is judged by the body that rule had before the change.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A rule body the change carries is run before anyone has read that body.",
     },
     {
       invariantKind: "departure",
