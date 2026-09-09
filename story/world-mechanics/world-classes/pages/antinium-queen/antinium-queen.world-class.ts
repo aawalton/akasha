@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const antiniumQueen = {
   id: "01a0657e-01a8-77f4-aab1-bcde45aeed15",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "antinium-queen",
   title: "Antinium Queen",
   world: "the-wandering-inn",

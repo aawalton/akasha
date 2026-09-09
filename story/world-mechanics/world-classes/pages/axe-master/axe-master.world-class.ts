@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const axeMaster = {
   id: "01a0657e-1336-7224-8cb1-a43bf58823c4",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "axe-master",
   title: "Axe Master",
   world: "the-wandering-inn",
