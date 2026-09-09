@@ -1,5 +1,6 @@
 import { basename, dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
+import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
@@ -204,9 +205,20 @@ function repointedAt(text: string, at: string, given: Asked): Passage | null {
   return null
 }
 
+function facingIn(world: World): Facing {
+  return {
+    kindsUnder: (of) => world.index.kindsUnder(of),
+    everyOfType: (kind) => world.index.everyOfType(kind),
+    valueAt: (path) => world.index.pageByPath(path),
+    carryingOf: (named) => world.index.carryingOf(named),
+  }
+}
+
 function repointedIn(world: World, given: Asked): { readonly found: readonly Passage[] } | Refused {
   const found: Passage[] = []
+  const facing = facingIn(world)
   for (const at of world.index.importersOf(given.from)) {
+    if (generatedIn(facing, at)) continue
     const held = world.textOf(at)
     if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
     const one = repointedAt(held, at, given)

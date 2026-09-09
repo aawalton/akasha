@@ -53,6 +53,10 @@ export const moveCodeExport = {
       invariantKind: "absence",
       statement: "Nothing here writes a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A generated body naming that type is left to the thing that writes it.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical
