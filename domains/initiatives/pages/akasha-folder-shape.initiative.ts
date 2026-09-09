@@ -16,12 +16,12 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "Opens-with wants a folder move alone: `namingOver:330` is `strippedOf(pluralSlug ?? slug, names above)`, the name the page gives its folder rather than the page's own slug. `move-folder` rewrites relative imports only — it leaves a package's `exports` map naming a path where no file is, and refuses at draft where a generated file imports the folder. The largest remaining class is a folder holding many pages of one type, which is `pages-of-one-type`, disabled and Alan's.\n",
+        "374 folders refused: 225 hold many pages, 55 hold no page, 31 have an undeclared subfolder, 30 open with the name above, 24 hold a child that is no domain, 8 are misnamed. The answer to the first is dissolving the grouping folder rather than a new shape: `watching/seasons/pages` holds 702 flat files and is clean. A narrowed audit cuts at 28000 bytes and writes refusals to stderr, so a per-area count is a lower bound.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "Eleven shapes are enabled; `shape-loading:36` skips a disabled one before its code loads. Two promise a subfolder no shape then judges — `sections-of-the-book-above:35` and `a-page-with-its-parts:43` — since the page type above states every subfolder is a folder of its own. `holdingOver` answers nothing for a folder holding two unpaired pages, so four shapes refuse it saying it holds none. `pages-of-one-type` opens on `files.length === 0`, which is how it takes a folder with no page.\n",
+        "Alan has refused enabling `pages-of-one-type`, so a folder changes rather than the check. The check runs on no phase: patch, worktree, deploy and audit are all false, so a refusal shows only when the check is called by name. Five private name registries must agree and nothing ties them: the check's `HELD_FOLDERS` and the four shapes' own lists.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
