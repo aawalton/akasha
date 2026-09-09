@@ -16,11 +16,7 @@ const PERSONA = "persona"
 
 const CHAMPIONED = "championed-domain"
 
-const CHAMPIONED_WAS = "championed-domain-slug"
-
 const CHAMPIONS = "championedDomain"
-
-const CHAMPIONS_WAS = "championedDomainSlug"
 
 const ID = "id"
 
@@ -86,7 +82,7 @@ function couldBeChampioned(
   }
   const wanted = new Set<string>()
   for (const one of personas) {
-    const named = textAt(one.value, CHAMPIONS) ?? textAt(one.value, CHAMPIONS_WAS)
+    const named = textAt(one.value, CHAMPIONS)
     if (named === null) continue
     if (named.includes("/")) {
       if (addresses.has(named)) wanted.add(named)
@@ -133,7 +129,7 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     if (address === undefined) continue
     const above = parentsOf.get(address) ?? []
     const champions = championed.has(address)
-      ? [...idsNaming(reading, one.id, CHAMPIONED), ...idsNaming(reading, one.id, CHAMPIONED_WAS)]
+      ? [...idsNaming(reading, one.id, CHAMPIONED)]
           .map((id) => personaBy.get(id))
           .filter((slug): slug is string => slug !== undefined)
           .sort()

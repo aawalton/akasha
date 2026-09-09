@@ -18,7 +18,7 @@ const KIND = "01a04e9f-1111-7000-8000-00000000000d"
 
 const HER = "01a04e9f-1111-7000-8000-00000000000e"
 
-const CHAMPIONED = "championed-domain-slug"
+const CHAMPIONED = "championed-domain"
 
 const scratch = scratchWorld()
 
@@ -30,9 +30,6 @@ function pageAt(root: string, path: string, body: string): undefined {
   writeFileSync(at, body)
 }
 
-// The pages of a page type are read out of the value index, one line for each page carrying that
-// page's whole value, so that is where a test puts them and their parts both. The identity index
-// answers which page carries one slug, which is a narrower question than this panel asks.
 function filing(
   root: string,
   kind: string,
@@ -44,7 +41,6 @@ function filing(
   valueAlsoFiled(root, kind, [{ path, value: { id, slug, ...value } }])
 }
 
-// A page type says what it extends in its body rather than in the index, so the descent opens it.
 function typing(root: string, slug: string, id: string, above: string): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
@@ -121,7 +117,7 @@ test("a page under two parents sits under none", () => {
 test("a domain a persona names by address answers with that persona", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(root, "domain", "one", ONE)
-  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
+  filing(root, "persona", "athena", HER, { championedDomain: "domain/one" })
   champions(root, ONE, HER)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
 })
@@ -129,7 +125,7 @@ test("a domain a persona names by address answers with that persona", () => {
 test("a domain a persona names by a bare slug answers with that persona", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(root, "domain", "one", ONE)
-  filing(root, "persona", "athena", HER, { championedDomainSlug: "one" })
+  filing(root, "persona", "athena", HER, { championedDomain: "one" })
   champions(root, ONE, HER)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
 })
@@ -138,7 +134,7 @@ test("a domain no persona names answers with no champion", () => {
   const root = scratch.rootFor("akasha-domains-")
   filing(root, "domain", "one", ONE)
   filing(root, "domain", "two", TWO)
-  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
+  filing(root, "persona", "athena", HER, { championedDomain: "domain/one" })
   champions(root, ONE, HER)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
 })
