@@ -25,8 +25,17 @@ export const dayOpening = {
       statement: "Nothing here reads a sleep block.",
     },
     {
+      invariantKind: "departure",
+      statement: "A window that refuses and a window that falls back to the ESO day are two calls.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller counting a figure a day page stores takes the window that refuses.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A day that will not parse answers a window at the epoch rather than refusing.",
+      statement:
+        "A day that will not parse answers a window at the epoch to the caller taking the other call.",
     },
   ],
   test: "ts",

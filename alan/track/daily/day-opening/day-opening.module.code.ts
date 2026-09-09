@@ -1,13 +1,20 @@
 import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
-import { dayAfter, dayBefore, spannedWindowIn } from "@akasha/health-samples-day/opening-window"
+import {
+  type DayWindow,
+  dayAfter,
+  dayBefore,
+  type Refused,
+  spannedWindowIn,
+} from "@akasha/health-samples-day/opening-window"
 import { AKASHA, rootFor } from "@akasha/pages/checkout-roots"
 import type { Roots } from "@akasha/pages/markdown-page-at"
 
-export function openedDayWindow(
-  roots: Roots,
-  dayStr: string
-): { readonly from: string; readonly to: string } {
-  const spanned = spannedWindowIn(rootFor(roots, AKASHA), dayStr)
+export function openedWindowOn(roots: Roots, dayStr: string): DayWindow | Refused {
+  return spannedWindowIn(rootFor(roots, AKASHA), dayStr)
+}
+
+export function openedDayWindow(roots: Roots, dayStr: string): DayWindow {
+  const spanned = openedWindowOn(roots, dayStr)
   if (!("refused" in spanned)) return spanned
   const window = getEsoDayWindow(dayStr)
   return { from: window.start.toISOString(), to: window.end.toISOString() }
