@@ -45,10 +45,14 @@ const TITLE = "title"
 
 const SLUG = "slug"
 
+const PAGE_TYPE = "type"
+
+const WAS_PAGE_TYPE = "pageTypeSlug"
+
 export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
-    const said = held[from]
+    const said = from === WAS_PAGE_TYPE ? (held[PAGE_TYPE] ?? held[from]) : held[from]
     if (said !== undefined && said !== null && said !== "") values[key] = said
   }
   const slug = values[SLUG]

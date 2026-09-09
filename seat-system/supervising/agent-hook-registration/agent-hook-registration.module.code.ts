@@ -41,7 +41,7 @@ function pageAt(root: string, path: string): Record<string, unknown> {
   for (const value of Object.values(mod)) {
     if (value === null || typeof value !== "object" || Array.isArray(value)) continue
     const said = value as Record<string, unknown>
-    if (said["pageTypeSlug"] === PAGE_TYPE) return said
+    if ((said["type"] ?? said["pageTypeSlug"]) === PAGE_TYPE) return said
   }
   throw new Error(`${path} is an agent hook page and answers to no page a reader can register`)
 }

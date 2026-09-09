@@ -22,7 +22,7 @@ function heldIn(root: string): readonly DomainRead[] {
       }
       if (value === null) continue
       const slug = textAt(value, "slug")
-      const pageTypeSlug = textAt(value, "pageTypeSlug")
+      const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
       if (slug === null || pageTypeSlug === null) continue
       found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
     }
