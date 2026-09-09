@@ -21,7 +21,6 @@ export interface ClaimedRedeliveryDecision {
   readonly skipped: readonly ClaimedSkip[]
 }
 
-/** The reason to hold a candidate back, or null where it is released. */
 function skipReasonFor(
   candidate: ClaimedCandidate,
   processStartedAtMs: number
