@@ -5,13 +5,13 @@ import {
   UDID_SAID,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,
   refusedBy,
   told,
-} from "../../../../modules/command-answering/command-answering.module.code.ts"
+} from "../../../../modules/answering/command-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 
 const VALUED = [UDID_SAID]
 

@@ -14,12 +14,12 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,
   told,
-} from "../../../modules/command-answering/command-answering.module.code.ts"
+} from "../../../modules/answering/command-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 
 const PROMPT = "--prompt"
 

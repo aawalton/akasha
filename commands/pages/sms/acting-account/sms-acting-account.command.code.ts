@@ -4,11 +4,8 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+import { refusedBy, told } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  refusedBy,
-  told,
-} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const SURFACE = "--surface-file"
 

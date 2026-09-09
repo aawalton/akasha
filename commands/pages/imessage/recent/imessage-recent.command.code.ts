@@ -15,12 +15,12 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
-import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,
   refusedBy,
-} from "../../../modules/command-answering/command-answering.module.code.ts"
+} from "../../../modules/answering/command-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 
 const VALUED = [LIMIT_SAID, CONTACT_SAID]
 

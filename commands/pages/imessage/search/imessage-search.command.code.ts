@@ -16,11 +16,8 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { answering, refusedBy } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  answering,
-  refusedBy,
-} from "../../../modules/command-answering/command-answering.module.code.ts"
 import {
   filing,
   wordFilling,
