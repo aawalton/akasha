@@ -6,7 +6,7 @@ export const beingAnInventorNotACoder = {
   slug: "being-an-inventor-not-a-coder",
   title: "Being An Inventor Not A Coder",
   definition: "what I actually am, against the trade I was raised into",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: [
     "the-code-in-my-family",
     "how-i-came-out-of-computer-science",

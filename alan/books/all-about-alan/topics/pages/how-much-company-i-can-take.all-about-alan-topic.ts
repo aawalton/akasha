@@ -6,7 +6,7 @@ export const howMuchCompanyICanTake = {
   slug: "how-much-company-i-can-take",
   title: "How Much Company I Can Take",
   definition: "the dose of people that pays without crashing the thing that makes it affordable",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: [
     "being-known",
     "waiting-until-i-can-afford-people",

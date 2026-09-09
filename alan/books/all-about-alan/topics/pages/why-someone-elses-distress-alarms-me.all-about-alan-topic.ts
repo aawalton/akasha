@@ -6,7 +6,7 @@ export const whySomeoneElsesDistressAlarmsMe = {
   slug: "why-someone-elses-distress-alarms-me",
   title: "Why Someone Else's Distress Alarms Me",
   definition: "what fires in me when someone near me is hurting, and what it is actually about",
-  parentSlugs: ["when-she-is-in-pain"],
+  parents: ["when-she-is-in-pain"],
   relatedSlugs: ["what-criticism-does-to-me", "which-lever-reaches-a-response"],
   settled:
     "Her distress fires mine at once, and it is not her feeling arriving in me.\n\nIt is a forecast about my own next minutes: this cue has come before my own pain often enough.\n\nSo I go still and regulate rather than move toward her, which is not what she needs.\n\nIt carries nothing about her. No why, no cause, no what would help.\n\nCalm months lower what I expect from her and leave the reflex at her cues untouched.",

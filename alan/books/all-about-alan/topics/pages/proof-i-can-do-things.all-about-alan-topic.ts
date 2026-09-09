@@ -6,7 +6,7 @@ export const proofICanDoThings = {
   slug: "proof-i-can-do-things",
   title: "Proof I Can Do Things",
   definition: "the safety I get from evidence that I am capable",
-  parentSlugs: ["safety-bar"],
+  parents: ["safety-bar"],
   settled:
     "It comes from pointing at something I actually did, never from feeling better about it.",
 } as const satisfies AllAboutAlanTopic

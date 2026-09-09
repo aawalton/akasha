@@ -7,6 +7,6 @@ export const havingNoMargin = {
   title: "Having No Margin",
   definition:
     "living with almost no slack, so a surprise costs far more than it looks like it should",
-  parentSlugs: ["how-i-get-anything-done"],
+  parents: ["how-i-get-anything-done"],
   settled: "Turning to something else is easy. Paying for something I had not budgeted is not.",
 } as const satisfies AllAboutAlanTopic

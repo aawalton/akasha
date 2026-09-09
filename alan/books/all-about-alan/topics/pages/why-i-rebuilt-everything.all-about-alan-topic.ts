@@ -6,7 +6,7 @@ export const whyIRebuiltEverything = {
   slug: "why-i-rebuilt-everything",
   title: "Why I Rebuilt Everything",
   definition: "what a better model did to the system I already had",
-  parentSlugs: ["the-scaffolding-i-built"],
+  parents: ["the-scaffolding-i-built"],
   relatedSlugs: [
     "why-i-keep-my-data-in-files",
     "how-i-watch-my-agents",

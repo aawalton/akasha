@@ -6,7 +6,7 @@ export const howIKeepUrgencyOut = {
   slug: "how-i-keep-urgency-out",
   title: "How I Keep Urgency Out",
   definition: "taking urgency out of my surroundings instead of trying to resist it",
-  parentSlugs: ["what-pulls-me-into-doing-something"],
+  parents: ["what-pulls-me-into-doing-something"],
   settled:
     "Urgency reaches me through the channel I cannot catch in the moment, so it has to be gone before it fires.\n\nMy goals carry a finish line and no clock, because a deadline I set myself is still a deadline.\n\nNo phone, and no attention on the time of day.",
 } as const satisfies AllAboutAlanTopic

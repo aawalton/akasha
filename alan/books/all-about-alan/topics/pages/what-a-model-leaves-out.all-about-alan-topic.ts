@@ -6,7 +6,7 @@ export const whatAModelLeavesOut = {
   slug: "what-a-model-leaves-out",
   title: "What A Model Leaves Out",
   definition: "what every model costs to be usable, and where I think the value actually sits",
-  parentSlugs: ["how-i-know-things"],
+  parents: ["how-i-know-things"],
   relatedSlugs: ["what-i-think-truth-is"],
   settled:
     "All models are false, because they simplify out nuance for intelligibility.\n\nI find the nuance is where the gold is.",

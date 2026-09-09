@@ -6,6 +6,6 @@ export const whatLimitsMe = {
   slug: "what-limits-me",
   title: "What Limits Me",
   definition: "the one resource holding everything else up",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
   settled: "It is one at a time, and which one it is changes as I recover.",
 } as const satisfies AllAboutAlanTopic

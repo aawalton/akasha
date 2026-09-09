@@ -6,7 +6,7 @@ export const whatRepetitionEncodes = {
   slug: "what-repetition-encodes",
   title: "What Repetition Encodes",
   definition: "doing a thing again and again changes what it costs me next time",
-  parentSlugs: ["what-an-activity-costs-me"],
+  parents: ["what-an-activity-costs-me"],
   settled:
     "How safe I am while it encodes decides whether it encodes as cheaper or as something to avoid, so getting good at a thing and being hurt by a thing run on one mechanism.\n\nRehearsing it offline counts as repetition.",
 } as const satisfies AllAboutAlanTopic

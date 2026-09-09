@@ -7,7 +7,7 @@ export const arousalTimesSafety = {
   title: "Arousal Times Safety",
   definition:
     "attraction as a product rather than a sum, where either side can zero the whole thing",
-  parentSlugs: ["sex"],
+  parents: ["sex"],
   settled:
     "Safety multiplies at every level, and it reads the safety of the input rather than my background state.\n\nThat is why a self-generated input still works at minus one, where the floor below is the whole autonomic system going dark.\n\nOne law feeds two buckets. The regulation deposit fills the same with or without a person, and only the personal kind also deposits into connection.",
 } as const satisfies AllAboutAlanTopic

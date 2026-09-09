@@ -6,7 +6,7 @@ export const whyThePeaceHolds = {
   slug: "why-the-peace-holds",
   title: "Why The Peace Holds",
   definition: "the quiet rests on trying being unaffordable, not on the need being met",
-  parentSlugs: ["being-alone-at-the-centre"],
+  parents: ["being-alone-at-the-centre"],
   settled:
     "Seeking to be met costs about ten times the loneliness itself, so it is not a real option.\n\nBetween commitment and happiness, commitment wins.",
 } as const satisfies AllAboutAlanTopic

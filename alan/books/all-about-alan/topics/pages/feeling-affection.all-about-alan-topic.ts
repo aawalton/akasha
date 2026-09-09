@@ -6,6 +6,6 @@ export const feelingAffection = {
   slug: "feeling-affection",
   title: "Feeling Affection",
   definition: "the signal is there and it runs too quiet to notice",
-  parentSlugs: ["working-out-what-love-is"],
+  parents: ["working-out-what-love-is"],
   settled: "It needs amplifying rather than defining.",
 } as const satisfies AllAboutAlanTopic

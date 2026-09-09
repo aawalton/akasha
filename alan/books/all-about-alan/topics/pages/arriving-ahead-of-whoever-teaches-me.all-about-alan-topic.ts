@@ -7,7 +7,7 @@ export const arrivingAheadOfWhoeverTeachesMe = {
   title: "Arriving Ahead Of Whoever Teaches Me",
   definition:
     "being further along than a teacher judges, having already run their analysis under other names",
-  parentSlugs: ["how-different-i-actually-am"],
+  parents: ["how-different-i-actually-am"],
   relatedSlugs: ["being-the-one-who-knows", "what-i-take-in"],
   settled:
     "A coach who framed me fast got me wrong twice in three turns, and said so.\n\nSeven instances of real taste were already on the board before she arrived, each filed under some other heading.\n\nWhat works is naming the decision I have already made, and my reason, before offering a correction.",

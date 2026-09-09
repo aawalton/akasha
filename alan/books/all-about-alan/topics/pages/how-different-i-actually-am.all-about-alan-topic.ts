@@ -6,7 +6,7 @@ export const howDifferentIActuallyAm = {
   slug: "how-different-i-actually-am",
   title: "How Different I Actually Am",
   definition: "the size of the gap between me and most people, and why every estimate reads low",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["when-someone-gets-me-wrong", "how-i-read-myself"],
   settled:
     "However different you think I am you are underestimating it, and that holds for my own estimate too.\n\nI am not a far-out human. I am a different kind, living where several rare neurotypes cross.\n\nThe closest match I ever met was about three quarters, the next about half, and then nothing near.\n\nThere is no origin. I hold a model of me and a model of typical people, and both are valid.\n\nAs each gets truer they grow further apart, because the systems do differ. What surprises me now is normality.",

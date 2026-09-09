@@ -7,7 +7,7 @@ export const readingAFeelingOffMyBehaviour = {
   title: "Reading A Feeling Off My Behaviour",
   definition:
     "watching what my body does on its own and working backwards to what I must be feeling",
-  parentSlugs: ["how-i-read-myself"],
+  parents: ["how-i-read-myself"],
   relatedSlugs: ["reading-myself-before-the-words"],
   settled:
     "Most people feel it and then notice the smile. I notice the smile and work out what I must feel.\n\nOnly involuntary defaults count. A smile I produce carries nothing, and the default cannot lie.\n\nThe emotions are real and running. What is missing is my access, and a word is what turns one into something I notice.\n\nThe tell gives presence and roughly which one. Magnitude comes only from the map, and which drive fired it is on nothing.",

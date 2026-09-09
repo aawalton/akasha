@@ -6,7 +6,7 @@ export const whatInterruptsMyBreathing = {
   slug: "what-interrupts-my-breathing",
   title: "What Interrupts My Breathing",
   definition: "what stops the breathing practice running",
-  parentSlugs: ["what-calms-me-down"],
+  parents: ["what-calms-me-down"],
   settled:
     "Anything that needs my mouth or my chest pauses it. Talking, eating and weight on the chest are the worked cases.",
 } as const satisfies AllAboutAlanTopic

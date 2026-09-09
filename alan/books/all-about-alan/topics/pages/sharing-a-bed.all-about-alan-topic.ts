@@ -6,7 +6,7 @@ export const sharingABed = {
   slug: "sharing-a-bed",
   title: "Sharing A Bed",
   definition: "sleeping next to Jen, and what chasing sleep has cost that",
-  parentSlugs: ["sleep", "living-with-jen"],
+  parents: ["sleep", "living-with-jen"],
   relatedSlugs: ["sex"],
   settled:
     "I moved out of the shared bedroom to get the sleep, and that split most nights into two places in two blocks.\n\nJen and I are running an experiment of me back in the bedroom, under a rule that if the sun is down I do not sleep anywhere else.\n\nIn a shared room I isolate my own sensory night: earbuds with white noise, the Nuropod, and a cooling eye mask.\n\nI almost always fall asleep two to four hours before Jen does.",

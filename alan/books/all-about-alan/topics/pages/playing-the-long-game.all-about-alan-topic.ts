@@ -7,7 +7,7 @@ export const playingTheLongGame = {
   title: "Playing The Long Game",
   definition:
     "starting slower than everyone else and ending higher, and picking games long enough for that",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["how-a-skill-gets-into-me"],
   settled:
     "I do not break even against other people until about five thousand goes at a thing.\n\nBelow that they look permanently better. Past it their slope flattens and mine keeps climbing.\n\nIt is a different curve rather than a delayed one, so late bloomer undersells it.\n\nTen years spent learning how to learn is what made twenty years of building the harness possible.\n\nPicking my battles holds, but the test is how long the horizon runs, not what I love.",

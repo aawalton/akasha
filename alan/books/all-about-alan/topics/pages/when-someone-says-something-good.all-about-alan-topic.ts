@@ -6,7 +6,7 @@ export const whenSomeoneSaysSomethingGood = {
   slug: "when-someone-says-something-good",
   title: "When Someone Says Something Good",
   definition: "why praise so rarely lands on me, and what it takes when it does",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["being-met", "why-i-have-to-be-perfect", "safety-bar"],
   settled:
     "I have had appreciation in large amounts and I am not sure I have ever received any of it.\n\nPraise has to be true, meant, valuable and not incidental, all at once as it is said. Criticism needs one of two.\n\nThe check happens at delivery. It does not have to agree with a verdict I already hold.\n\nWhat passes the true test is an undisputable specific I already hold, rather than a global verdict I would take on faith.",

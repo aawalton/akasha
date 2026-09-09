@@ -6,6 +6,6 @@ export const staminaBar = {
   slug: "stamina-bar",
   title: "Stamina Bar",
   definition: "what my body has left to move with",
-  parentSlugs: ["resource-bars"],
+  parents: ["resource-bars"],
   relatedSlugs: ["mana-bar"],
 } as const satisfies AllAboutAlanTopic

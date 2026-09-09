@@ -6,7 +6,7 @@ export const thePlansIOverBuild = {
   slug: "the-plans-i-over-build",
   title: "The Plans I Over-Build",
   definition: "written plans far past what anyone needs, standing in for planning I cannot hold",
-  parentSlugs: ["how-i-get-anything-done"],
+  parents: ["how-i-get-anything-done"],
   settled:
     "Without them I would lose objects, files and threads daily.\n\nThe habit is old enough that it reads as a strength from outside, and it read that way to me too.",
 } as const satisfies AllAboutAlanTopic

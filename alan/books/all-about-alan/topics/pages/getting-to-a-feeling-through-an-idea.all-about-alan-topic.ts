@@ -7,7 +7,7 @@ export const gettingToAFeelingThroughAnIdea = {
   title: "Getting To A Feeling Through An Idea",
   definition:
     "the one direction that still works, from something I have understood to something I feel",
-  parentSlugs: ["the-feeling-i-cannot-get-at"],
+  parents: ["the-feeling-i-cannot-get-at"],
   relatedSlugs: ["letting-a-feeling-in-through-a-story", "how-understanding-arrives"],
   settled:
     "It comes rare and strong at once, which fits a gate that filters out everything not built past some threshold and passes the rest whole.",

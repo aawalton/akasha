@@ -6,7 +6,7 @@ export const howIFallAsleep = {
   slug: "how-i-fall-asleep",
   title: "How I Fall Asleep",
   definition: "what happens between getting into bed and being asleep",
-  parentSlugs: ["sleep"],
+  parents: ["sleep"],
   settled:
     "It is either about ten minutes or about three hours, with nothing in between.\n\nThe usual sleep-hygiene levers do not move it. What I have left does.\n\nI ride a low-grade focal anchor, a count or a book, until it gives out. The breakdown is the reading that diffuse mode has arrived.",
 } as const satisfies AllAboutAlanTopic

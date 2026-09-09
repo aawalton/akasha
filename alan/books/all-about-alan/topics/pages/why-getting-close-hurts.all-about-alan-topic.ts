@@ -6,7 +6,7 @@ export const whyGettingCloseHurts = {
   slug: "why-getting-close-hurts",
   title: "Why Getting Close Hurts",
   definition: "why the people I have loved longest are the least safe for me to be near",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: [
     "what-my-love-is-built-out-of",
     "being-alone-on-purpose",

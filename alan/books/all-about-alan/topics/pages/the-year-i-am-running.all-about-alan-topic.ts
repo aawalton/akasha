@@ -6,7 +6,7 @@ export const theYearIAmRunning = {
   slug: "the-year-i-am-running",
   title: "The Year I Am Running",
   definition: "holding the reversible position until the one thing that can decide it arrives",
-  parentSlugs: ["whether-i-stay"],
+  parents: ["whether-i-stay"],
   settled:
     "No irreversible change until a full year passes with no rise in my base safety floor, run at full effort.\n\nThe floor is the metric rather than the crest, because a crest can feel like hope without moving anything.\n\nA floor falling toward the hard line is the override firing, not a reason to wait.\n\nFaith enters through the floor like everything else, so it never needed a gate of its own.\n\nWork on the marriage is inside what the rule measures, since it lowers the running cost.",
 } as const satisfies AllAboutAlanTopic

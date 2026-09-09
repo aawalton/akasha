@@ -6,7 +6,7 @@ export const defaultingToTooMuchProtection = {
   slug: "defaulting-to-too-much-protection",
   title: "Defaulting To Too Much Protection",
   definition: "starting at the protective extreme and easing off from there",
-  parentSlugs: ["what-my-senses-cost-me"],
+  parents: ["what-my-senses-cost-me"],
   settled:
     "Being under-protected costs me much more than being over-protected, which is what makes the extreme the right default.\n\nIt holds for sound and for clothes. Full cancelling by default, tight by default, relief downward when I need it.\n\nThe relief is partial. The deepest layer keeps running.\n\nThe weighted blanket is the negative case, left off by default because its cost shape is not asymmetric.",
 } as const satisfies AllAboutAlanTopic

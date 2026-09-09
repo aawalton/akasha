@@ -6,7 +6,7 @@ export const whatShortensMyNights = {
   slug: "what-shortens-my-nights",
   title: "What Shortens My Nights",
   definition: "what cuts a night short",
-  parentSlugs: ["sleep"],
+  parents: ["sleep"],
   settled:
     "Stress takes the end of the night and the medication takes the start, so a short night says which one did it.",
 } as const satisfies AllAboutAlanTopic

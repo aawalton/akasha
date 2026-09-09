@@ -6,7 +6,7 @@ export const whenSheIsInPain = {
   slug: "when-she-is-in-pain",
   title: "When She Is In Pain",
   definition: "what happens in me when she is hurting, and what I can do with it",
-  parentSlugs: ["working-out-what-love-is"],
+  parents: ["working-out-what-love-is"],
   settled:
     "The alarm fires instantly and carries nothing about what she needs.\n\nAcknowledging and validating compiled. Empathy did not.",
 } as const satisfies AllAboutAlanTopic

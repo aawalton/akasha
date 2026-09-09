@@ -6,7 +6,7 @@ export const thePicturesAtTheEdgeOfSleep = {
   slug: "the-pictures-at-the-edge-of-sleep",
   title: "The Pictures At The Edge Of Sleep",
   definition: "the fragments I see as I go under, the one time anything close to picturing happens",
-  parentSlugs: ["sleep"],
+  parents: ["sleep"],
   settled:
     "The gate is a dimmer rather than a switch, and the channels fade in while I am still awake enough to notice.\n\nI know I am falling asleep when I start seeing things.\n\nThe sliver of control I get is over what the picture means, not over how vivid it is.\n\nI get the seeing or the steering, never both. Steering pulls me back toward waking and surrendering sinks me.",
 } as const satisfies AllAboutAlanTopic

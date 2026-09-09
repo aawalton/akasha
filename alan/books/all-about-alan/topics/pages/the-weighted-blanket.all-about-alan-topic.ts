@@ -6,7 +6,7 @@ export const theWeightedBlanket = {
   slug: "the-weighted-blanket",
   title: "The Weighted Blanket",
   definition: "the blanket I put on when a night is going badly",
-  parentSlugs: ["sleep"],
+  parents: ["sleep"],
   settled:
     "Off by default. I reach for it on a bad night rather than keeping it on the bed.\n\nComfortable on the legs, where on the chest it blocks my breathing.\n\nIt works by stilling me and drawing heat off, so it helps when I am too hot rather than when I am cold.",
 } as const satisfies AllAboutAlanTopic

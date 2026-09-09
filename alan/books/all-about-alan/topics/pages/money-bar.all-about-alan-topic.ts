@@ -6,5 +6,5 @@ export const moneyBar = {
   slug: "money-bar",
   title: "Money Bar",
   definition: "how much money I have",
-  parentSlugs: ["resource-bars"],
+  parents: ["resource-bars"],
 } as const satisfies AllAboutAlanTopic

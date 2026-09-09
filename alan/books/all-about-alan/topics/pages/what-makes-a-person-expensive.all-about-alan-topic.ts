@@ -6,7 +6,7 @@ export const whatMakesAPersonExpensive = {
   slug: "what-makes-a-person-expensive",
   title: "What Makes A Person Expensive",
   definition: "what drives the difficulty I rate time with a particular person at",
-  parentSlugs: ["how-much-company-i-can-take"],
+  parents: ["how-much-company-i-can-take"],
   relatedSlugs: [
     "why-i-overspend-on-the-marriage",
     "why-getting-close-hurts",

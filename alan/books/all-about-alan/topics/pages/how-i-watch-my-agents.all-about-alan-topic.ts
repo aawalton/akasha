@@ -6,7 +6,7 @@ export const howIWatchMyAgents = {
   slug: "how-i-watch-my-agents",
   title: "How I Watch My Agents",
   definition: "how I keep eight to twelve going at once and notice which one wants me",
-  parentSlugs: ["how-my-attention-works"],
+  parents: ["how-my-attention-works"],
   relatedSlugs: ["how-stimulated-i-am"],
   settled:
     "Motion pulls my eye, and then I notice the still window next to it.\n\nBoredom is what moves me between them, and a free slot turns it into another project.\n\nTwelve is how many windows stay legible on half my screen, and that is the whole ceiling.\n\nWork that does not need to talk to me goes below the glass and reaches me through a manager.",

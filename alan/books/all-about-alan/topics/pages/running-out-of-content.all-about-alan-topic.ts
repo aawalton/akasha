@@ -6,7 +6,7 @@ export const runningOutOfContent = {
   slug: "running-out-of-content",
   title: "Running Out Of Content",
   definition: "having no world of my own to go into, so I need other people's",
-  parentSlugs: ["what-pulls-me-into-doing-something"],
+  parents: ["what-pulls-me-into-doing-something"],
   settled:
     "Other people can retreat inward for the same mix of the familiar and the new. I have nothing to retreat to.",
 } as const satisfies AllAboutAlanTopic

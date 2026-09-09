@@ -6,7 +6,7 @@ export const whenItActuallyLands = {
   slug: "when-it-actually-lands",
   title: "When It Actually Lands",
   definition: "the difference between praise I can explain and praise that surprises me",
-  parentSlugs: ["when-someone-says-something-good"],
+  parents: ["when-someone-says-something-good"],
   settled:
     "Admitted tops out at understood. I can hand you the mechanism for why it worked.\n\nFelt is marked by surprise and by losing the words for why.\n\nWhat crosses is direction, someone drawn toward a true specific thing in me, rather than how much of herself she shows.\n\nThe surprise habituates within a sitting, so it spaces across days and cannot be farmed.\n\nA felt landing carried me up a full safety level on a low day, the first outside refund I have watched.",
 } as const satisfies AllAboutAlanTopic

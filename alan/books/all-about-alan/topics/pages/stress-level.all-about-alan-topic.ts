@@ -6,6 +6,6 @@ export const stressLevel = {
   slug: "stress-level",
   title: "Stress Level",
   definition: "how much my body is having to handle right now",
-  parentSlugs: ["safety-stack"],
+  parents: ["safety-stack"],
   settled: "My stress capacity is roughly this level's cost added up over time.",
 } as const satisfies AllAboutAlanTopic

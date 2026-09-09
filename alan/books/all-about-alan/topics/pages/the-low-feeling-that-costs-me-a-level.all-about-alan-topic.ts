@@ -7,7 +7,7 @@ export const theLowFeelingThatCostsMeALevel = {
   title: "The Low Feeling That Costs Me A Level",
   definition:
     "the down feeling that is often just how it is in there, and what it does to my numbers",
-  parentSlugs: ["safety-level"],
+  parents: ["safety-level"],
   relatedSlugs: ["where-safety-has-got-to", "what-my-record-gives-me-back"],
   settled:
     "Feeling down is often just what it feels like in there.\n\nIt acts as a minus one or minus two modifier to my safety level.\n\nIf my level is high enough it is not a problem. If it is low enough I do not even start.\n\nWhen I am on the margin, it matters.\n\nOn 27 August 2026 I was at two to three against a rebuild at difficulty three, which is that band.",

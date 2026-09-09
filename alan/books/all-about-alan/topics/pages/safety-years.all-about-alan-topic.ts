@@ -6,6 +6,6 @@ export const safetyYears = {
   slug: "safety-years",
   title: "Safety Years",
   definition: "how much safe time I have behind me",
-  parentSlugs: ["safety-stack"],
+  parents: ["safety-stack"],
   settled: "It is my average safety level multiplied by years, so a year at level one is one.",
 } as const satisfies AllAboutAlanTopic

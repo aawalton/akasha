@@ -6,7 +6,7 @@ export const theScaffoldingIBuilt = {
   slug: "the-scaffolding-i-built",
   title: "The Scaffolding I Built",
   definition: "the twenty years of structure I run on, holding what my head cannot",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: [
     "how-i-get-anything-done",
     "how-i-remember-anything",

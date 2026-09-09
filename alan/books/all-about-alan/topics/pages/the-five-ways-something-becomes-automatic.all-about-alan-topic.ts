@@ -6,7 +6,7 @@ export const theFiveWaysSomethingBecomesAutomatic = {
   slug: "the-five-ways-something-becomes-automatic",
   title: "The Five Ways Something Becomes Automatic",
   definition: "the five different systems that can make a thing automatic in me",
-  parentSlugs: ["how-a-skill-gets-into-me"],
+  parents: ["how-a-skill-gets-into-me"],
   relatedSlugs: ["what-repetition-encodes", "the-scaffolding-i-built"],
   settled:
     "They are sensory habituation, picking things up socially without trying, a response fired by an outside cue, fitting new things into what I already know, and running a sequence of actions as one.",

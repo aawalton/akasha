@@ -6,7 +6,7 @@ export const howIReadMySafetyLevel = {
   slug: "how-i-read-my-safety-level",
   title: "How I Read My Safety Level",
   definition: "taking the measurement, when the number is not something I can feel",
-  parentSlugs: ["safety-level"],
+  parents: ["safety-level"],
   relatedSlugs: ["reading-a-feeling-off-my-behaviour", "how-well-i-can-measure"],
   settled:
     "I walk down what I can still do until I reach the tier that holds, rather than reading anything off directly.\n\nAbout nine involuntary gates mark the levels, one apiece, and a gate cannot lie the way something I produce can.\n\nEach gate is mapped to a tell I can observe from outside myself. A smile puts me at level three or above. Noticing that I smile constantly by default puts me at level four.\n\nThe map is where the magnitude comes from. The tell on its own gives presence and no amount.",

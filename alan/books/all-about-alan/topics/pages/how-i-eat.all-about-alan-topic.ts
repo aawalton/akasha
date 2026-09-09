@@ -6,7 +6,7 @@ export const howIEat = {
   slug: "how-i-eat",
   title: "How I Eat",
   definition: "food as fuel, and why that costs me nothing",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["what-comes-with-it", "how-i-get-anything-done"],
   settled:
     "Enjoyment runs at about a tenth of other people's, so eating functionally is close to neutral for me.\n\nMy favourite flavours are hot and cold. Temperature and texture matter more to me than taste.\n\nAversion is conceptual rather than sensory, and an eat-healthier frame manufactures it out of nothing.\n\nNothing bores me, so a food leaves only by going wrong or by being forgotten.\n\nEvery shop, I buy one new thing to try, against the long contraction.",

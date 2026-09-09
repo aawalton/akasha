@@ -6,5 +6,5 @@ export const theShapeBehindTheTwoLines = {
   slug: "the-shape-behind-the-two-lines",
   title: "The Shape Behind The Two Lines",
   definition: "the pattern Abby read under both lines, and how much of it is mine",
-  parentSlugs: ["what-happens-when-something-gets-cheap"],
+  parents: ["what-happens-when-something-gets-cheap"],
 } as const satisfies AllAboutAlanTopic

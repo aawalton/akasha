@@ -6,7 +6,7 @@ export const whichLeverReachesAResponse = {
   slug: "which-lever-reaches-a-response",
   title: "Which Lever Reaches A Response",
   definition: "the two kinds of learned response in me, and which remedy fits which",
-  parentSlugs: ["nothing-i-do-starts-with-a-decision"],
+  parents: ["nothing-i-do-starts-with-a-decision"],
   relatedSlugs: ["what-criticism-does-to-me", "digging-up-an-old-belief"],
   settled:
     "One kind runs through a belief. Rewrite the belief and the behaviour changes on the next go.\n\nThe other fires before any thought loads, so understanding it does nothing at all.\n\nA won argument does not switch off a rule running below it. Five of mine still fire.\n\nNo framework moves me until it yields a concrete use that lands in my map.\n\nFor the below-thought kind I expand only on a surplus and re-ask whether it is safe now, holding dangerous provisionally true.",

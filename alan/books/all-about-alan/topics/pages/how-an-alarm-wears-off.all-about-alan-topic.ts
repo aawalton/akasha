@@ -6,7 +6,7 @@ export const howAnAlarmWearsOff = {
   slug: "how-an-alarm-wears-off",
   title: "How An Alarm Wears Off",
   definition: "how a fear my body has learned either fades or gets confirmed",
-  parentSlugs: ["safety-bar"],
+  parents: ["safety-bar"],
   settled:
     "A bad thing landing below my safety line proves the alarm wrong. Above it, it proves the alarm right.\n\nOne band is catastrophic whatever my level, and no level I could reach clears it.",
 } as const satisfies AllAboutAlanTopic

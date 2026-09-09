@@ -6,7 +6,7 @@ export const keepingMyWord = {
   slug: "keeping-my-word",
   title: "Keeping My Word",
   definition: "why a commitment of mine never fails without my saying so first",
-  parentSlugs: ["why-i-have-to-be-perfect"],
+  parents: ["why-i-have-to-be-perfect"],
   settled:
     "Failing is allowed if it is spoken. The silence is the part that is off the table.\n\nThe currency of failure is stress capacity rather than worth. This is accounting under scarcity, not an honour code.\n\nIt is a governor of the same family as taking no deadlines and refusing responsibility.",
 } as const satisfies AllAboutAlanTopic

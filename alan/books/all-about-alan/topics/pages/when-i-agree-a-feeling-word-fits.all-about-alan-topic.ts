@@ -6,7 +6,7 @@ export const whenIAgreeAFeelingWordFits = {
   slug: "when-i-agree-a-feeling-word-fits",
   title: "When I Agree A Feeling Word Fits",
   definition: "saying yes, that is the word, and what that yes is actually running on",
-  parentSlugs: ["reading-a-feeling-off-my-behaviour"],
+  parents: ["reading-a-feeling-off-my-behaviour"],
   relatedSlugs: ["the-feelings-i-can-name", "the-feeling-i-cannot-get-at"],
   settled:
     "It can be reading a live tell, or matching a definition with nothing under it. Both come out of me as the same yes.\n\nWhen my safety is low I treat the felt sensor as noise.",

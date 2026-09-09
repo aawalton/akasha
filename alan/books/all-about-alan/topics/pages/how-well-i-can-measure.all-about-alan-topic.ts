@@ -6,6 +6,6 @@ export const howWellICanMeasure = {
   slug: "how-well-i-can-measure",
   title: "How Well I Can Measure",
   definition: "how sharply I can read one of my own resources",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
   settled: "The ladder runs from not knowing a resource exists up to a real number.",
 } as const satisfies AllAboutAlanTopic

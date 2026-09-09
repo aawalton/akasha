@@ -6,7 +6,7 @@ export const theModesIRunIn = {
   slug: "the-modes-i-run-in",
   title: "The Modes I Run In",
   definition: "the different ways I can run, and what each of them costs to hold",
-  parentSlugs: ["how-i-get-anything-done"],
+  parents: ["how-i-get-anything-done"],
   relatedSlugs: ["how-much-of-me-is-machine", "the-scaffolding-i-built"],
   settled: "Robot mode is one of them: a state I drop into rather than a way of describing me.",
 } as const satisfies AllAboutAlanTopic

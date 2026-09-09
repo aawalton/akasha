@@ -6,7 +6,7 @@ export const smallBitesOfManyThings = {
   slug: "small-bites-of-many-things",
   title: "Small Bites Of Many Things",
   definition: "a little of each thing in turn, rather than one thing through to the end",
-  parentSlugs: ["how-i-get-anything-done"],
+  parents: ["how-i-get-anything-done"],
   settled:
     "Within one thing it stays the same and across the rotation it is always new, so both channels stay lit.\n\nAs long as each bite is over some floor, finishing is guaranteed, so there is nothing to estimate before starting.\n\nComing back after a year feels much like coming back after a day, because only the concept was ever kept.\n\nThe set I am working through cannot live in my head, so it lives in the harness.",
 } as const satisfies AllAboutAlanTopic

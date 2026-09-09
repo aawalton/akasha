@@ -6,7 +6,7 @@ export const afterSomethingAlarmsMe = {
   slug: "after-something-alarms-me",
   title: "After Something Alarms Me",
   definition: "what happens to my safety in the days after something frightens me",
-  parentSlugs: ["safety-bar"],
+  parents: ["safety-bar"],
   settled:
     "It drops hard, comes most of the way back, and leaves about a week of being easily startled.",
 } as const satisfies AllAboutAlanTopic

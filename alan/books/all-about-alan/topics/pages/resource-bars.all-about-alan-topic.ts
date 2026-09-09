@@ -6,5 +6,5 @@ export const resourceBars = {
   slug: "resource-bars",
   title: "Resource Bars",
   definition: "how much I have of each thing I run on",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
 } as const satisfies AllAboutAlanTopic

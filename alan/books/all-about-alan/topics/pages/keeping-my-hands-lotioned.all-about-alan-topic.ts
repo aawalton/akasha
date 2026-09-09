@@ -6,7 +6,7 @@ export const keepingMyHandsLotioned = {
   slug: "keeping-my-hands-lotioned",
   title: "Keeping My Hands Lotioned",
   definition: "holding a layer on my hands and putting it back whenever it comes off",
-  parentSlugs: ["what-my-senses-cost-me"],
+  parents: ["what-my-senses-cost-me"],
   settled:
     "Dry skin costs me even when I am touching nothing, so the layer is maintained rather than reached for.\n\nEvery handwash strips it, and I put it back about five minutes later, once the skin is dry enough to hold it.\n\nBottles in more than a dozen places, all the same brand.",
 } as const satisfies AllAboutAlanTopic

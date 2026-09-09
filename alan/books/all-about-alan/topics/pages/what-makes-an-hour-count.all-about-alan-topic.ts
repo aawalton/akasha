@@ -6,7 +6,7 @@ export const whatMakesAnHourCount = {
   slug: "what-makes-an-hour-count",
   title: "What Makes An Hour Count",
   definition: "how much a clock hour with someone actually pays down, and what decides it",
-  parentSlugs: ["how-far-behind-i-am-on-people"],
+  parents: ["how-far-behind-i-am-on-people"],
   relatedSlugs: ["how-much-being-known-i-need"],
   settled:
     "Fourteen factors, scored on the person, the engagement, the channel, the fidelity and the safety.\n\nThey multiply rather than add, so there is no tolerance for a weak link: one factor near zero flattens the whole hour.\n\nA deep in-person conversation held at low safety pays almost nothing, which is what the lived shape looks like.\n\nThe score is set against one reference, a deep one-to-one conversation in person with a safe woman.\n\nThe numbers live with the scored interactions rather than here.",

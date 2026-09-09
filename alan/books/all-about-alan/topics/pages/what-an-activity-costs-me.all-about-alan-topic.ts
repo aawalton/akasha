@@ -6,7 +6,7 @@ export const whatAnActivityCostsMe = {
   slug: "what-an-activity-costs-me",
   title: "What An Activity Costs Me",
   definition: "what doing a particular thing takes out of me",
-  parentSlugs: ["health-bar"],
+  parents: ["health-bar"],
   relatedSlugs: ["what-the-pod-does-to-the-price"],
   settled:
     "The price is set by how far above my safety level the thing sits.\n\nAn hour one rung above my safety level costs me two capacity hours, so I start paying a cost where I normally would not.",

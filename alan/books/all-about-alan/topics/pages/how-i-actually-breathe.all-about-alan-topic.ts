@@ -6,7 +6,7 @@ export const howIActuallyBreathe = {
   slug: "how-i-actually-breathe",
   title: "How I Actually Breathe",
   definition: "the breathing practice I run underneath everything else",
-  parentSlugs: ["what-calms-me-down"],
+  parents: ["what-calms-me-down"],
   settled:
     "Four counts in and twelve out, most of my waking day.\n\nThe counting is what makes it meditative rather than only slow.",
 } as const satisfies AllAboutAlanTopic

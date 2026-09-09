@@ -6,6 +6,6 @@ export const stressCapacity = {
   slug: "stress-capacity",
   title: "Stress Capacity",
   definition: "how much my body has left to handle what comes",
-  parentSlugs: ["safety-stack"],
+  parents: ["safety-stack"],
   relatedSlugs: ["health-bar"],
 } as const satisfies AllAboutAlanTopic

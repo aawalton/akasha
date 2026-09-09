@@ -6,7 +6,7 @@ export const notReadingCodeAnyMore = {
   slug: "not-reading-code-any-more",
   title: "Not Reading Code Any More",
   definition: "what I read now that I do not read code",
-  parentSlugs: ["being-an-inventor-not-a-coder"],
+  parents: ["being-an-inventor-not-a-coder"],
   relatedSlugs: ["when-my-docs-are-my-code"],
   settled:
     "I do not think I have read code at all in 2026.\n\nI read docs, because that is where human intervention is most necessary, especially with the domain system.",

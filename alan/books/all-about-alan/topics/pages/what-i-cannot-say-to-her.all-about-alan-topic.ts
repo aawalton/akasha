@@ -7,7 +7,7 @@ export const whatICannotSayToHer = {
   title: "What I Cannot Say To Her",
   definition:
     "her stability and her feeling loved both need my silence, and being met needs me to speak",
-  parentSlugs: ["being-alone-at-the-centre"],
+  parents: ["being-alone-at-the-centre"],
   relatedSlugs: [
     "the-person-i-could-relax-around",
     "why-i-keep-hard-truths-back",

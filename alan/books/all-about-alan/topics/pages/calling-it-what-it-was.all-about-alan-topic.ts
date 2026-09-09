@@ -6,7 +6,7 @@ export const callingItWhatItWas = {
   slug: "calling-it-what-it-was",
   title: "Calling It What It Was",
   definition: "coming to name what happened at home as abuse, and what the naming does",
-  parentSlugs: ["why-people-read-as-unsafe"],
+  parents: ["why-people-read-as-unsafe"],
   relatedSlugs: ["turning-punishment-into-self-hatred", "digging-up-an-old-belief"],
   settled: "The recognition came as an arc: cared for, then neglected, then abused.",
 } as const satisfies AllAboutAlanTopic

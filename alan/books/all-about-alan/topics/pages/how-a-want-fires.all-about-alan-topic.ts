@@ -6,7 +6,7 @@ export const howAWantFires = {
   slug: "how-a-want-fires",
   title: "How A Want Fires",
   definition: "seeing a gap between how something is and how it should be, and wanting to close it",
-  parentSlugs: ["what-pulls-me-into-doing-something"],
+  parents: ["what-pulls-me-into-doing-something"],
   relatedSlugs: ["not-wanting-to-is-the-gauge", "self-improvement"],
   settled:
     "I do not author a want. I see something, a gap opens against what it should be, and the want is that pull.\n\nThe only place I can act is upstream, on what I let myself see. Most of how I arrange my surroundings is that.\n\nInside the guardrails I do what I want; wanting nothing routes to rest.\n\nSome are given and fire as desire or irritation: hunger, loneliness, needless complexity. Others I wrote in.\n\nNearly all the written ones serve something else. Improving myself is the one I want for itself.",

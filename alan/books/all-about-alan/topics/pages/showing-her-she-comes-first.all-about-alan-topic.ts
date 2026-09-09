@@ -6,7 +6,7 @@ export const showingHerSheComesFirst = {
   slug: "showing-her-she-comes-first",
   title: "Showing Her She Comes First",
   definition: "she is ranked first and it does not show, so I say the trade out loud",
-  parentSlugs: ["living-with-jen"],
+  parents: ["living-with-jen"],
   settled:
     "The ranking is built and declared. What was missing is a price on the trades I actually make.",
 } as const satisfies AllAboutAlanTopic

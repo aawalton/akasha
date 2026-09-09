@@ -6,7 +6,7 @@ export const howAHardTalkWithJenGetsSafer = {
   slug: "how-a-hard-talk-with-jen-gets-safer",
   title: "How A Hard Talk With Jen Gets Safer",
   definition: "timing a hard conversation so my body learns it is survivable",
-  parentSlugs: ["living-with-jen"],
+  parents: ["living-with-jen"],
   relatedSlugs: ["how-an-alarm-wears-off", "what-comes-back-into-reach-as-i-climb"],
   settled:
     "The alarm is to her, not to criticism in general, so it cannot be practised on anybody easier.\n\nI start one only when I have the reserve to stay steady while she is not. My steadiness is the anchor.\n\nHeld steady, a trigger can fire without the talk tipping, and that is what re-teaches my body.\n\nRepeated enough, my steadiness lowers hers, and the loop that normally amplifies runs backwards.\n\nIt is not textbook exposure. What I fear is also my partner in it, and she cannot hold still on command.",

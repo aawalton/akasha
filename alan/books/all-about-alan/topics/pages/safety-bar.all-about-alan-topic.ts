@@ -6,6 +6,6 @@ export const safetyBar = {
   slug: "safety-bar",
   title: "Safety Bar",
   definition: "the calm my body can hold",
-  parentSlugs: ["resource-bars"],
+  parents: ["resource-bars"],
   relatedSlugs: ["safety-level"],
 } as const satisfies AllAboutAlanTopic

@@ -6,7 +6,7 @@ export const gettingConnectionAnotherWay = {
   slug: "getting-connection-another-way",
   title: "Getting Connection Another Way",
   definition: "whether the need for connection can come off the sexual vehicle",
-  parentSlugs: ["sex"],
+  parents: ["sex"],
   settled:
     "Arousal is not sexual arousal, attraction is not connection, and sexual arousal is not having sex.",
 } as const satisfies AllAboutAlanTopic

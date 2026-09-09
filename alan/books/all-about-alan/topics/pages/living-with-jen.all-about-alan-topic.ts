@@ -6,5 +6,5 @@ export const livingWithJen = {
   slug: "living-with-jen",
   title: "Living With Jen",
   definition: "being married to Jen, and what sharing a house asks of each of us",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
 } as const satisfies AllAboutAlanTopic

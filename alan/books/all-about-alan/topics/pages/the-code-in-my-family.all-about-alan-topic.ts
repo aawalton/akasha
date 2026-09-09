@@ -6,7 +6,7 @@ export const theCodeInMyFamily = {
   slug: "the-code-in-my-family",
   title: "The Code In My Family",
   definition: "the three generations of programmers I come from",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["the-years-with-my-parents", "being-an-inventor-not-a-coder"],
   settled:
     'I am third generation in code.\n\nMy grandfather was a programmer before "computer science" was coined as a term. He started with vacuum tubes in the air force.\n\nHe introduced Daniel Ritchie to the team working on B.\n\nMy mother was a programmer my entire childhood.\n\nAbout eighty per cent of my extended family on that side ended up in computer science.',

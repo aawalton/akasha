@@ -7,7 +7,7 @@ export const trustingAPersonNotAnInstitution = {
   title: "Trusting A Person Not An Institution",
   definition:
     "leaning on one practitioner rather than on an institution, and what that trades away",
-  parentSlugs: ["which-organisations-i-trust"],
+  parents: ["which-organisations-i-trust"],
   relatedSlugs: ["how-i-grade-an-organisation", "when-a-company-changes-hands"],
   settled:
     "The local ones I rely on are individual people: my doctor, the children's dentist, the garage.\n\nAn institution holds the standard when its people change. A person carries it himself and takes it with him.",

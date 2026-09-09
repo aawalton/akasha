@@ -6,7 +6,7 @@ export const whatUnderstandingCannotReach = {
   slug: "what-understanding-cannot-reach",
   title: "What Understanding Cannot Reach",
   definition: "understanding is the only way I grow, so where it stops is where I stop",
-  parentSlugs: ["self-improvement"],
+  parents: ["self-improvement"],
   relatedSlugs: ["how-understanding-arrives", "being-alone-at-the-centre"],
   settled:
     "The channels most people grow through are sealed for me: felt shifts, intuition below words, an episode teaching me something over again.",

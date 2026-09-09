@@ -6,7 +6,7 @@ export const howIPractiseMyFaith = {
   slug: "how-i-practise-my-faith",
   title: "How I Practise My Faith",
   definition: "prayer, worship, ordinances and attendance, as things I actually do",
-  parentSlugs: ["my-faith"],
+  parents: ["my-faith"],
   settled:
     "Church is a judgment setting with survival stakes, and the judgment there always runs through people rather than through a felt God.",
 } as const satisfies AllAboutAlanTopic

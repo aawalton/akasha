@@ -6,7 +6,7 @@ export const howIKeepSoundDown = {
   slug: "how-i-keep-sound-down",
   title: "How I Keep Sound Down",
   definition: "the quiet office, the earbuds, and the noise I put over the top",
-  parentSlugs: ["what-my-senses-cost-me"],
+  parents: ["what-my-senses-cost-me"],
   settled:
     "Full cancelling is the default, and I pull one earbud out when I need to hear.\n\nThe earbuds hurt after a while, so the office carries the hours they cannot.\n\nPencils and chalk cost me whatever the volume, and cancelling helps least with exactly those.",
 } as const satisfies AllAboutAlanTopic

@@ -6,7 +6,7 @@ export const recoveryCostsWhatItRestores = {
   slug: "recovery-costs-what-it-restores",
   title: "Recovery Costs What It Restores",
   definition: "what recovering from something costs me",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
   settled:
     "The moves that rebuild a resource also spend it, so being low can put them out of reach.",
 } as const satisfies AllAboutAlanTopic

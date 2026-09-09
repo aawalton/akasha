@@ -6,7 +6,7 @@ export const whyIOverspendOnTheMarriage = {
   slug: "why-i-overspend-on-the-marriage",
   title: "Why I Overspend On The Marriage",
   definition: "why I keep paying above the affordable line for time with Jen",
-  parentSlugs: ["the-marriage-lever-i-cannot-read"],
+  parents: ["the-marriage-lever-i-cannot-read"],
   relatedSlugs: [
     "the-budget-i-run-my-days-on",
     "blank-check-mode-and-recovery-mode",

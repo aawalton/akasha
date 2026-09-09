@@ -2,14 +2,14 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { TopicParentSlugs } from "./properties/topic-parent-slugs.relation-property.ts"
+import type { TopicParents } from "./properties/topic-parents.relation-property.ts"
 import type { TopicRelatedSlugs } from "./properties/topic-related-slugs.relation-property.ts"
 import type { TopicSettled } from "./properties/topic-settled.text-property.ts"
 
 export type AllAboutAlanTopic = Page & {
   title: Title
   definition: Definition
-  parentSlugs?: TopicParentSlugs
+  parents?: TopicParents
   relatedSlugs?: TopicRelatedSlugs
   settled?: TopicSettled
 }
@@ -22,7 +22,7 @@ export const allAboutAlanTopic = {
   pluralSlug: "all-about-alan-topics",
   extendsSlug: ["page-type/page"],
   partSlugs: [
-    "relation-property/topic-parent-slugs",
+    "relation-property/topic-parents",
     "relation-property/topic-related-slugs",
     "text-property/topic-settled",
   ],
@@ -30,7 +30,7 @@ export const allAboutAlanTopic = {
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/topic-parent-slugs",
+      pagePropertySlug: "relation-property/topic-parents",
       required: false,
       many: true,
       maxCount: null,

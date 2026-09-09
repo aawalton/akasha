@@ -6,6 +6,6 @@ export const whatILetMyselfTakeOn = {
   slug: "what-i-let-myself-take-on",
   title: "What I Let Myself Take On",
   definition: "what I will and will not agree to do",
-  parentSlugs: ["safety-bar"],
+  parents: ["safety-bar"],
   settled: "Below my safety line a thing is free, at it bearable, above it off the table.",
 } as const satisfies AllAboutAlanTopic

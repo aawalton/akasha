@@ -6,6 +6,6 @@ export const theCompanyYears = {
   slug: "the-company-years",
   title: "The Company Years",
   definition: "the years at the company, which I have called a special kind of hell",
-  parentSlugs: ["the-chapters-of-my-life"],
+  parents: ["the-chapters-of-my-life"],
   relatedSlugs: ["why-i-stopped-working", "what-i-let-myself-take-on"],
 } as const satisfies AllAboutAlanTopic

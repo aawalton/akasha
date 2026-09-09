@@ -6,7 +6,7 @@ export const havingAdhd = {
   slug: "having-adhd",
   title: "Having ADHD",
   definition: "the ADHD half of how I am built, what it costs and what it gives",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["how-my-attention-works", "how-i-get-anything-done"],
   settled:
     "It is how I am built rather than something wrong with me, and I would not take a pill against it.\n\nThe heart of it is executive function, and I get a double dose because autism brings its own.\n\nIts social face is milder than autism's, and it has real treatments where autism has almost none.\n\nMilder socially is not milder. Left unmanaged it is sharply disabling for the one who has it.",

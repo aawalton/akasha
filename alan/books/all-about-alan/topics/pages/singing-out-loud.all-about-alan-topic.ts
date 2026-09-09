@@ -6,7 +6,7 @@ export const singingOutLoud = {
   slug: "singing-out-loud",
   title: "Singing Out Loud",
   definition: "what it takes for me to sing, and the mark left on it",
-  parentSlugs: ["why-making-things-hurts"],
+  parents: ["why-making-things-hurts"],
   relatedSlugs: ["where-i-stand-like-a-woman-does", "how-safety-climbs"],
   settled:
     "Singing along to a warm woman's voice hands my own body the all-clear, with nobody else in the room.\n\nThe floor under it is feeling, not being heard. Below safety four what makes me sing is offline.\n\nI can still sing as work down there. Work does not need the feeling and play does.\n\nBeing seen is a separate charge on top. Once, at six, I sang anonymously outdoors for hours.\n\nJen criticised my voice once, three years in, and only someone I can neither escape nor deny could.",

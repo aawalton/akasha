@@ -6,7 +6,7 @@ export const whatIDoNotHaveToFight = {
   slug: "what-i-do-not-have-to-fight",
   title: "What I Do Not Have To Fight",
   definition: "letting most of it through so I can afford the part that matters",
-  parentSlugs: ["how-i-get-anything-done"],
+  parents: ["how-i-get-anything-done"],
   settled:
     "Letting an impulse pass costs nothing. Fighting every one of them empties the budget before the harmful one arrives.\n\nIf I do not want to, I cannot. A thing done late is cheaper than a thing forced.",
 } as const satisfies AllAboutAlanTopic

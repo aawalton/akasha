@@ -6,7 +6,7 @@ export const whenWeNeedOppositeThings = {
   slug: "when-we-need-opposite-things",
   title: "When We Need Opposite Things",
   definition: "one room set the way she needs it and against the way I do",
-  parentSlugs: ["living-with-jen"],
+  parents: ["living-with-jen"],
   settled:
     "Light steadies her and drains me. I defer to her by default and override only when I am really not doing well.\n\nThe cost is paid the whole time the arrangement runs, not once when we set it.",
 } as const satisfies AllAboutAlanTopic

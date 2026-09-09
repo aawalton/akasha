@@ -6,7 +6,7 @@ export const howASongReachesMe = {
   slug: "how-a-song-reaches-me",
   title: "How A Song Reaches Me",
   definition: "music as the one thing that gets a feeling to the surface, and how it gets in",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["letting-a-feeling-in-through-a-story", "being-known"],
   settled:
     "Aphantasia leaves me no emotional recall, so a song is the one channel that surfaces feeling.\n\nIt reaches me through what a song is about, not its sound. Unpacking the meaning is the listening.\n\nThen it breaks the surface: I sing along and have to stop because I am crying.\n\nIt is strongest read aloud with someone, my reading first and then the layer I missed.\n\nSinging where anyone can hear me is exposure rather than pleasure, above my usual line.",

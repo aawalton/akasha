@@ -6,6 +6,6 @@ export const whatIHaveStoppedTreatingAsCompulsory = {
   slug: "what-i-have-stopped-treating-as-compulsory",
   title: "What I Have Stopped Treating As Compulsory",
   definition: "moving something out of the things I have no choice about, and what else could move",
-  parentSlugs: ["what-i-let-myself-take-on"],
+  parents: ["what-i-let-myself-take-on"],
   settled: "A church calling is the one I have actually moved.",
 } as const satisfies AllAboutAlanTopic

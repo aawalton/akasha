@@ -6,7 +6,7 @@ export const beingKnown = {
   slug: "being-known",
   title: "Being Known",
   definition: "what it takes for someone to have an accurate model of me, and why so few can",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
   relatedSlugs: ["being-met", "being-alone-at-the-centre", "why-getting-close-hurts"],
   settled:
     "It needs someone who can and someone who will, and neither implies the other.\n\nCheap needs a near-twin who can use themselves as the model. Expensive needs someone willing to build one from scratch.\n\nAlmost all of mine runs through Jen, so there is no easier relationship to practise on.\n\nThe recipe is someone asking about me out of real interest with no defensiveness, and every ingredient lives in them.\n\nIt has happened by accident and never yet on purpose.",

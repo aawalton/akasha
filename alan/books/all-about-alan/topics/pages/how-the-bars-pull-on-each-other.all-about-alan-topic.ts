@@ -6,6 +6,6 @@ export const howTheBarsPullOnEachOther = {
   slug: "how-the-bars-pull-on-each-other",
   title: "How The Bars Pull On Each Other",
   definition: "what being low on one resource does to the others",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
   settled: "Being low on one lowers the ceiling on another rather than only spending it.",
 } as const satisfies AllAboutAlanTopic

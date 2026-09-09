@@ -6,7 +6,7 @@ export const tightClothes = {
   slug: "tight-clothes",
   title: "Tight Clothes",
   definition: "tight everything, so I know where my body is and stop noticing fabric",
-  parentSlugs: ["what-my-senses-cost-me"],
+  parents: ["what-my-senses-cost-me"],
   settled:
     "Tight is the default day and night, and on a low day I swap the outer layers to loose.\n\nIt never stops working, though I stop noticing it.",
 } as const satisfies AllAboutAlanTopic

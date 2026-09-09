@@ -6,5 +6,5 @@ export const howIDecide = {
   slug: "how-i-decide",
   title: "How I Decide",
   definition: "how I pick what to do, and what stops me picking badly",
-  parentSlugs: ["alan"],
+  parents: ["alan"],
 } as const satisfies AllAboutAlanTopic

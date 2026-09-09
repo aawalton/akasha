@@ -6,7 +6,7 @@ export const howStimulatedIAm = {
   slug: "how-stimulated-i-am",
   title: "How Stimulated I Am",
   definition: "how wound up or how flat I am, which I keep in a band by hand",
-  parentSlugs: ["resources"],
+  parents: ["resources"],
   relatedSlugs: ["what-calms-me-down", "how-i-watch-my-agents", "how-warm-i-run"],
   settled:
     "Nothing levels it for me, so I run the loop by hand: a reading, then a knob.\n\nThe knobs are the game, the music and the room light.\n\nWandering focus says I am out of band, and how the wandering feels says which way.\n\nCold means I am overstimulated and hot means I am understimulated.\n\nMy safety level sets how wide the band is, and it is still narrow.",

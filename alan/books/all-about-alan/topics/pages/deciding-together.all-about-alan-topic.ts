@@ -6,7 +6,7 @@ export const decidingTogether = {
   slug: "deciding-together",
   title: "Deciding Together",
   definition: "the part of deciding I handed over, and what taking it back would cost",
-  parentSlugs: ["living-with-jen"],
+  parents: ["living-with-jen"],
   settled:
     "I gave up joint governance rather than build the skill it needed, and revising that needs the very skill it avoided.\n\nChanges to the arrangement wait for eighty percent of days at level five or above.",
 } as const satisfies AllAboutAlanTopic

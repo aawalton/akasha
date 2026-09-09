@@ -6,7 +6,7 @@ export const howFarBackIExpectToCome = {
   slug: "how-far-back-i-expect-to-come",
   title: "How Far Back I Expect To Come",
   definition: "the shape of my recovery, and how little of it I can see ahead",
-  parentSlugs: ["the-two-decades-i-came-through"],
+  parents: ["the-two-decades-i-came-through"],
   relatedSlugs: ["how-safety-climbs", "what-i-cannot-play-forward"],
   settled:
     "Sixteen months into an expected three to five years, and that figure comes from other autists rather than from me.\n\nI can see the next half step and no further, and only once I am close to it.\n\nSo whether the climb holds its rate, levels off or softens shows up one half step at a time.\n\nWhat moved the curve was not the naming but the better things to try that the naming made findable.\n\nProgramming came back the moment safety crossed into being able to work, and it stuck at once.",

@@ -6,7 +6,7 @@ export const whatTheGraphIsMadeOf = {
   slug: "what-the-graph-is-made-of",
   title: "What The Graph Is Made Of",
   definition: "the parts of the graph system, and where each is derived from",
-  parentSlugs: ["the-graph-i-built-to-run-my-checks"],
+  parents: ["the-graph-i-built-to-run-my-checks"],
   settled:
     "It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.\n\nParts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places.",
 } as const satisfies AllAboutAlanTopic

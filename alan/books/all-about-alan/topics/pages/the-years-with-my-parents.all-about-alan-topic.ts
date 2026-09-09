@@ -7,7 +7,7 @@ export const theYearsWithMyParents = {
   title: "The Years With My Parents",
   definition:
     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
-  parentSlugs: ["the-chapters-of-my-life"],
+  parents: ["the-chapters-of-my-life"],
   relatedSlugs: [
     "what-the-book-of-me-is-for",
     "why-getting-close-hurts",

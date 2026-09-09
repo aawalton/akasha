@@ -6,7 +6,7 @@ export const howIKeepLightDown = {
   slug: "how-i-keep-light-down",
   title: "How I Keep Light Down",
   definition: "sunglasses in the sun, lights off indoors, screens dimmed to the hour",
-  parentSlugs: ["what-my-senses-cost-me"],
+  parents: ["what-my-senses-cost-me"],
   settled:
     "The cost is a drain on my capacity rather than pain, and the squinting comes after it.\n\nThe indoor lever is on or off. Nothing I have dims.",
 } as const satisfies AllAboutAlanTopic
