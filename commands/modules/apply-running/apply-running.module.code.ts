@@ -19,7 +19,7 @@ import { bodiesFrom } from "../edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../piping/piping.module.code.ts"
 import { allowedAgain, MEASURED_ALLOWED } from "../stopping/command-stopping.module.code.ts"
 
-const CHANGED: Running = { checks: false, writerOwesReading: false, readersOweReading: true }
+const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
 const MEASURED_NAME = "akasha change apply"
 
