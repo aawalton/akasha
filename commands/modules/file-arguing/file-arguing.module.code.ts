@@ -9,6 +9,7 @@ import {
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import {
   CONTENT_FILE,
   FILE_PATH,
@@ -18,8 +19,7 @@ import {
   messageIn,
   REMOVE,
   unknownIn,
-} from "../command-flags/command-flags.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+} from "../flags/command-flags.module.code.ts"
 import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { markingIn, pipedIn, RUNS_SAID } from "../piping/piping.module.code.ts"
