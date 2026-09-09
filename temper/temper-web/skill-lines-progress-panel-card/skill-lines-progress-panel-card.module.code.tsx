@@ -1,10 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,
@@ -26,6 +20,12 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 interface SkillLinesProgressPanelCardProps {
   id?: CharacterCardId

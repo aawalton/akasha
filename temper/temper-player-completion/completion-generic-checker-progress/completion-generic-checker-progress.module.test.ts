@@ -3,7 +3,7 @@ import type {
   CharacterCompletion,
   SkillPointProgress,
 } from "@akasha/temper-completion/completion-progress"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "../skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "../skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { resolveGenericCheckerProgress } from "./completion-generic-checker-progress.module.code.ts"

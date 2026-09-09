@@ -10,7 +10,6 @@ import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { poisons } from "akasha/temper/temper-alchemy/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
@@ -33,6 +32,7 @@ import { equipmentQualities } from "../../equipment-kinds/equipment-qualities/eq
 import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import { jewelryTypes } from "../../equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
 import { races } from "../../races/races/races.module.code.ts"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 const qualityOptionSchema = z.enum(equipmentQualities.ids).optional()
 const enchantmentQualitySchema = z

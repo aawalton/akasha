@@ -2,7 +2,6 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "@akasha/temper-completion/completion-progress"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
@@ -11,6 +10,7 @@ import {
 import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

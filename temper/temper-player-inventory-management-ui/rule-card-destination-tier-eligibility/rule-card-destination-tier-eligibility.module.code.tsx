@@ -16,13 +16,13 @@ import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { ReactNode } from "react"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list
   .filter((sl) => sl.esoSkillLineId > 0)

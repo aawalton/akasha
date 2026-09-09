@@ -1,5 +1,5 @@
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 function hasAnyKey(record: Record<string, unknown>): boolean {

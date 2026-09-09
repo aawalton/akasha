@@ -1,4 +1,4 @@
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CharacterSkillMorphProgress } from "../morph-progress-types/morph-progress-types.module.code.ts"
 import {
   morphableSkillLineIds,

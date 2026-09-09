@@ -1,5 +1,5 @@
-import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import { z } from "zod"
+import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

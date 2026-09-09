@@ -10,7 +10,6 @@ import {
 } from "@akasha/design-primitives/dialog"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { type FocusScriptId, focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/temper-character-skills/scribed-skills/scribed-skills.module.code.ts"
 import {
@@ -20,6 +19,7 @@ import {
 } from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { ArrowLeft } from "lucide-react"
 import { useState } from "react"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 type SelectionStep = "grimoire" | "focus-script"
 

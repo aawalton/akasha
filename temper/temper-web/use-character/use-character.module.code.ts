@@ -1,9 +1,9 @@
 "use client"
 
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useCallback, useContext } from "react"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CharacterAction } from "../character-actions/character-actions.module.code.ts"
 import {
   CharacterDispatchContext,

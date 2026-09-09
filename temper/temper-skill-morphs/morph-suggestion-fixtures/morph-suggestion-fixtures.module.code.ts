@@ -1,4 +1,4 @@
-import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { morphableSkillsByLine } from "../morphable-skills/morphable-skills.module.code.ts"
 import type {
   ExpectedMorphableSkillForSuggestion,

@@ -1,7 +1,7 @@
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   CHARACTER_ACTIONS,
   type CharacterAction,

@@ -1,5 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
@@ -12,6 +11,10 @@ import {
   withActivityCategories,
 } from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import type { SubclassingSkillMorphProgressResult } from "akasha/temper/temper-skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  skillLines,
+} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 const MAX_VARIANT_RANK = 4
 

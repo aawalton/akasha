@@ -1,6 +1,6 @@
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import type { SkillTypeId } from "@akasha/temper-skill-kinds/skill-types"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 export type SkillStatus = "supported" | "partially-supported" | "unsupported"
 

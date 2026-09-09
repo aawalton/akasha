@@ -1,5 +1,5 @@
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { Skill } from "../character-skills/character-skills.module.code.ts"
 
 export function filterSkillsForBar(

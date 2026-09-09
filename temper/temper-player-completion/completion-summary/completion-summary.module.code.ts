@@ -1,9 +1,3 @@
-import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
-import {
-  getSkillLineIdsForClass,
-  type SkillLineId,
-  skillLines,
-} from "@akasha/temper-skill-lines/skill-lines"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
@@ -14,6 +8,12 @@ import {
   buildMorphRankMap,
   getSkillLineMorphContribution,
 } from "akasha/temper/temper-skill-morphs/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
+import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
+import {
+  getSkillLineIdsForClass,
+  type SkillLineId,
+  skillLines,
+} from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CharacterAchievementProgressResult } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
 import type {

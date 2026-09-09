@@ -1,10 +1,10 @@
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { useState } from "react"
 import {
   type SkillLineCategoryId,
   skillLineCategories,
   skillLineCategoriesSorted,
-} from "@akasha/temper-skill-lines/skill-line-category-data"
-import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { useState } from "react"
+} from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 
 export const PASSIVE_CATEGORY_FILTER_ITEMS: BadgeToggleGroupItem[] = skillLineCategoriesSorted
   .filter((c) => c.id !== "none" && c.id !== "companion")

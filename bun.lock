@@ -1194,6 +1194,12 @@
     "temper/settings-panel": {
       "name": "@akasha/temper-settings-panel",
     },
+    "temper/skill-lines": {
+      "name": "@akasha/temper-skill-lines",
+      "dependencies": {
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/temper-addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
@@ -1339,12 +1345,6 @@
       "name": "@akasha/temper-skill-kinds",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-skill-lines": {
-      "name": "@akasha/temper-skill-lines",
-      "dependencies": {
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1705,7 +1705,7 @@
 
     "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/temper-skill-kinds"],
 
-    "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:temper/temper-skill-lines"],
+    "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:temper/skill-lines"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 

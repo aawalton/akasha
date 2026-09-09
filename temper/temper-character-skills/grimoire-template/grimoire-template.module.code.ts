@@ -2,7 +2,7 @@ import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { AffixScriptId } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import type { SignatureScriptId } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 export interface SignatureVariantTemplate {
   scriptId: SignatureScriptId

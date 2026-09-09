@@ -1,6 +1,5 @@
 import { keysOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type {
   Skill,
@@ -14,6 +13,7 @@ import {
   organizeSkills,
 } from "akasha/temper/temper-skill-morphs/skill-organization/skill-organization.module.code.ts"
 import { useMemo, useState } from "react"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { BarType } from "../skills-types/skills-types.module.code.ts"
 
 interface UseSkillBarsOptions {

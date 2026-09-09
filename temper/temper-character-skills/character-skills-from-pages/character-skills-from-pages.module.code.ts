@@ -1,5 +1,5 @@
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
+import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { SkillTemplate } from "../character-skill-template/character-skill-template.module.code.ts"
 import { CHARACTER_SKILLS_00 } from "../character-skills-00/character-skills-00.module.code.ts"
 import { CHARACTER_SKILLS_01 } from "../character-skills-01/character-skills-01.module.code.ts"
