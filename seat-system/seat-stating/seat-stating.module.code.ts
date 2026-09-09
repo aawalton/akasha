@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt, readingIn, slugsOfType, typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -17,7 +18,11 @@ const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
 const PUT = "change-mechanical-file/add-file"
 
-const TAKE = "change-mechanical-file/remove-file"
+const TAKE = "change-mechanical-file/remove-file-page"
+
+const TAKE_FILE = "change-mechanical-file/remove-file"
+
+const UNFILED = "names no page, so no page is taken away"
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -152,15 +157,33 @@ export async function statedSeat(
   return { kind: "wrote" }
 }
 
-export async function tookSeat(root: string, seatName: string, why: string): Promise<Stating> {
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
+export function wrongIn(landed: Awaited<ReturnType<Landing>>): readonly string[] {
+  return "refusals" in landed ? landed.refusals : landed.wrong
+}
+
+export function unfiled(wrong: readonly string[]): boolean {
+  return wrong.length === 1 && wrong[0]?.includes(UNFILED) === true
+}
+
+export async function tookSeat(
+  root: string,
+  seatName: string,
+  why: string,
+  landing: Landing = runMechanicalChange
+): Promise<Stating> {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
-  const landed = await runMechanicalChange(
-    root,
-    [{ at: TAKE, given: { at: page } }],
-    `${seatName} stopped, ${why}, so its page goes`
-  )
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return { kind: "refused", said: wrong.join("; ") }
+  const message = `${seatName} stopped, ${why}, so its page goes`
+  const wrong = wrongIn(await landing(root, [{ at: TAKE, given: { at: page } }], message))
+  if (wrong.length === 0) return { kind: "took" }
+  if (!unfiled(wrong)) return { kind: "refused", said: wrong.join("; ") }
+  const left = wrongIn(await landing(root, [{ at: TAKE_FILE, given: { at: page } }], message))
+  if (left.length > 0) return { kind: "refused", said: left.join("; ") }
   return { kind: "took" }
 }

@@ -1,13 +1,18 @@
 import { expect, test } from "bun:test"
 import { rootOf } from "@akasha/command-system/rooting"
+import { scratchWorld } from "@akasha/command-system/scratching"
+import { writing } from "@akasha/command-system/scratching/testing"
 import {
   addressFor,
   assignedKinds,
   assignmentAddressOf,
   assignmentStatedIn,
+  type Landing,
   personNamed,
   type SeatStated,
   seatBody,
+  tookSeat,
+  unfiled,
 } from "./seat-stating.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
@@ -160,4 +165,86 @@ test("the kinds an assignment is looked for under open with the preferred order"
 test("every kind an assignment is looked for under is named once", () => {
   const kinds = assignedKinds(ROOT)
   expect(new Set(kinds).size).toBe(kinds.length)
+})
+
+const STOPPED = "athena"
+
+const PAGE_AT = `seat-system/seats/pages/${STOPPED}.seat.ts`
+
+const PAGE_BODY = "export const athena = {} as const\n"
+
+const TAKE_PAGE = "change-mechanical-file/remove-file-page"
+
+const TAKE_FILE = "change-mechanical-file/remove-file"
+
+const UNFILED_SAID = `\`${PAGE_AT}\` names no page, so no page is taken away`
+
+const HELD_LOCK = "another landing has held the lock"
+
+function landingSaying(answers: readonly (readonly string[])[]): {
+  readonly landing: Landing
+  readonly named: readonly string[]
+} {
+  const named: string[] = []
+  let asked = 0
+  const landing: Landing = (_root, changes, _message) => {
+    named.push(changes.map((one) => one.at).join(","))
+    const said = answers[asked] ?? []
+    asked += 1
+    return Promise.resolve({ refusals: [...said] })
+  }
+  return { landing, named }
+}
+
+async function stopping(
+  answers: readonly (readonly string[])[],
+  name: string = STOPPED
+): Promise<{ readonly said: unknown; readonly named: readonly string[] }> {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("seat-stating-")
+    writing(root, PAGE_AT, PAGE_BODY)
+    const run = landingSaying(answers)
+    const said = await tookSeat(root, name, "deliberate", run.landing)
+    return { said, named: run.named }
+  } finally {
+    world.sweep()
+  }
+}
+
+test("a seat that stopped has its page taken away with the files beside that page", async () => {
+  const ran = await stopping([[]])
+  expect(ran.said).toEqual({ kind: "took" })
+  expect(ran.named).toEqual([TAKE_PAGE])
+})
+
+test("a path the index files no page at has its page alone taken away", async () => {
+  const ran = await stopping([[UNFILED_SAID], []])
+  expect(ran.said).toEqual({ kind: "took" })
+  expect(ran.named).toEqual([TAKE_PAGE, TAKE_FILE])
+})
+
+test("a refusal that is not that one takes no page away and is answered as a refusal", async () => {
+  const ran = await stopping([[HELD_LOCK], []])
+  expect(ran.said).toEqual({ kind: "refused", said: HELD_LOCK })
+  expect(ran.named).toEqual([TAKE_PAGE])
+})
+
+test("a page alone refused after that one refusal is answered as a refusal", async () => {
+  const ran = await stopping([[UNFILED_SAID], [HELD_LOCK]])
+  expect(ran.said).toEqual({ kind: "refused", said: HELD_LOCK })
+  expect(ran.named).toEqual([TAKE_PAGE, TAKE_FILE])
+})
+
+test("a seat whose page is not there names no change", async () => {
+  const ran = await stopping([[]], "nobody-sits-here")
+  expect(ran.said).toEqual({ kind: "unchanged" })
+  expect(ran.named).toEqual([])
+})
+
+test("the page alone is taken away after that one refusal and no other", () => {
+  expect(unfiled([UNFILED_SAID])).toBe(true)
+  expect(unfiled([UNFILED_SAID, HELD_LOCK])).toBe(false)
+  expect(unfiled([HELD_LOCK])).toBe(false)
+  expect(unfiled([])).toBe(false)
 })

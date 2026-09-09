@@ -86,7 +86,20 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat that stopped has its page taken away by the change removing a file.",
+      statement: "A seat that stopped has its page taken away with the files beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the index files no page at has its page alone taken away, as nothing beside it is claimed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That one refusal is the only refusal the page alone is taken away after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
     },
     {
       invariantKind: "absence",
