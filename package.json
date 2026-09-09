@@ -13,7 +13,6 @@
     "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",
-    "@akasha/k8s-synth": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/spotify": "workspace:*",

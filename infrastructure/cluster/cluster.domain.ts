@@ -11,7 +11,7 @@ export const cluster = {
     "page-type/cluster-service",
     "domain/cluster-provisioning",
     "domain/cluster-api",
-    "workspace-package/k8s-synth",
+    "domain/k8s-synth",
     "domain/k8s-types",
   ],
   invariants: [

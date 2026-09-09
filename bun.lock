@@ -24,7 +24,6 @@
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
-        "@akasha/k8s-synth": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -472,7 +471,6 @@
       "name": "@akasha/checks",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
@@ -796,19 +794,10 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/cluster/k8s-synth": {
-      "name": "@akasha/k8s-synth",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/cluster/manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/k8s-synth": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -2345,8 +2334,6 @@
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:inference/pool"],
 
     "@akasha/inference-runs": ["@akasha/inference-runs@workspace:inference/runs"],
-
-    "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/cluster/k8s-synth"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
 

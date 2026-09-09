@@ -19,7 +19,6 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
-    "@akasha/k8s-synth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/utils": "workspace:*",
     "typescript": "5.9.3",

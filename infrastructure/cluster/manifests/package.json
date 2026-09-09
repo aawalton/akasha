@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/k8s-synth": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/seat-system": "workspace:*",
     "@akasha/utils": "workspace:*",
