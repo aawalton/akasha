@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e07 = {
     "The second Squad Jam is about to take place. This time, Karen’s friend Miyu Shinohara will participate as well. She converts her character from another VRMMORPG and starts Gun Gale Online as Fukaziroh. LLENN takes her to go buy weapons...",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-05-27",
   episodeType: "standard",

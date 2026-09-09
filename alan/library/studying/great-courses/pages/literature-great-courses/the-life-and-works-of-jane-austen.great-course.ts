@@ -6,7 +6,7 @@ export const theLifeAndWorksOfJaneAusten = {
   slug: "the-life-and-works-of-jane-austen",
   title: "The Life and Works of Jane Austen",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 703.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

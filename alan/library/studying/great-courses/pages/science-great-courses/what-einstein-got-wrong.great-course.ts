@@ -6,7 +6,7 @@ export const whatEinsteinGotWrong = {
   slug: "what-einstein-got-wrong",
   title: "What Einstein Got Wrong",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 345.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

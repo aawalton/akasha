@@ -6,7 +6,7 @@ export const howYouDecideTheScienceOfHumanDecisionMaking = {
   slug: "how-you-decide-the-science-of-human-decision-making",
   title: "How You Decide: The Science of Human Decision Making",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 715.2,
   ownProgress: 0,
   partOfCollections: [

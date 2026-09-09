@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e02 = {
     "Karen Kohiruimaki’s college life in Tokyo hasn’t been as she had hoped, due to her insecurity about her height. She comes across Gun Gale Online and, as LLENN, she becomes known as a “player killer.” But then, another female player aims a gun at her…",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-04-15",
   episodeType: "standard",

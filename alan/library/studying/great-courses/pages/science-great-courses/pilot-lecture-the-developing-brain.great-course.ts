@@ -7,7 +7,7 @@ export const pilotLectureTheDevelopingBrain = {
   title: "Pilot Lecture: The Developing Brain",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: ["all-great-courses", "science-great-courses"],

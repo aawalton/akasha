@@ -6,7 +6,7 @@ export const theHistoricalJesus = {
   slug: "the-historical-jesus",
   title: "The Historical Jesus",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 733.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

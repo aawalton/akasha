@@ -9,7 +9,7 @@ export const swordArtOnlineS01e02 = {
     "It’s been one month since the players have been locked in the game.  2000 people have died; the first floor hasn’t been cleared yet.",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-07-15",
   episodeType: "standard",

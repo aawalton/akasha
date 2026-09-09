@@ -6,7 +6,7 @@ export const nuclearPhysicsExplained = {
   slug: "nuclear-physics-explained",
   title: "Nuclear Physics Explained",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

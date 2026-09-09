@@ -9,7 +9,7 @@ export const swordArtOnlineS02e18 = {
     "In an upcoming update of ALO, Floors 21-30 of New Aincrad will be unlocked. Asuna, Kirito and Yui revisit their dream of once again living together in their log cabin on Floor 22.",
   position: 18,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-11-08",
   episodeType: "standard",

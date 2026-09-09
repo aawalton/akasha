@@ -6,7 +6,7 @@ export const theArtOfNegotiatingTheBestDeal = {
   slug: "the-art-of-negotiating-the-best-deal",
   title: "The Art of Negotiating the Best Deal",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

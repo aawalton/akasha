@@ -7,7 +7,7 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   title: "Wonders of the National Parks: A Geology of North America",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1128,
   ownProgress: 1128,
   partOfCollections: [

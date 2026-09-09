@@ -6,7 +6,7 @@ export const theBigQuestionsOfPhilosophy = {
   slug: "the-big-questions-of-philosophy",
   title: "The Big Questions of Philosophy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1154.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

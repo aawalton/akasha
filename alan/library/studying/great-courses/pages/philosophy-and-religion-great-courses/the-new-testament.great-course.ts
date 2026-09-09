@@ -6,7 +6,7 @@ export const theNewTestament = {
   slug: "the-new-testament",
   title: "The New Testament",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

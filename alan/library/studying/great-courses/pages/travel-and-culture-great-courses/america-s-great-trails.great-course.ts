@@ -7,7 +7,7 @@ export const americaSGreatTrails = {
   title: "America’s Great Trails",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 161.4,
   ownProgress: 161.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

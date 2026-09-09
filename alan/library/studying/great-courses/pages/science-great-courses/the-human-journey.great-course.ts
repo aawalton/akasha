@@ -6,7 +6,7 @@ export const theHumanJourney = {
   slug: "the-human-journey",
   title: "The Human Journey",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 369.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

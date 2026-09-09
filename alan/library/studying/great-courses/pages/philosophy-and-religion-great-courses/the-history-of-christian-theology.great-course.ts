@@ -6,7 +6,7 @@ export const theHistoryOfChristianTheology = {
   slug: "the-history-of-christian-theology",
   title: "The History of Christian Theology",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1132.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

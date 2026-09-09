@@ -6,7 +6,7 @@ export const theSurprisingLivesOfChristianSaints = {
   slug: "the-surprising-lives-of-christian-saints",
   title: "The Surprising Lives of Christian Saints",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 707.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

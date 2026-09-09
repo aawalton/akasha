@@ -6,7 +6,7 @@ export const theoriesOfKnowledgeHowToThinkAboutWhatYouKnow = {
   slug: "theories-of-knowledge-how-to-think-about-what-you-know",
   title: "Theories of Knowledge: How to Think about What You Know",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: [

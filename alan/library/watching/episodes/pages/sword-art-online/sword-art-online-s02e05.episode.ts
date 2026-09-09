@@ -9,7 +9,7 @@ export const swordArtOnlineS02e05 = {
     "To register for BoB, Kirito starts entering the required information into a terminal, but is astounded to see that the form includes columns for his real-world name and address. He is temporarily torn when he realizes that without this info, he won't be eligible for the top prizes...",
   position: 5,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-08-02",
   episodeType: "standard",

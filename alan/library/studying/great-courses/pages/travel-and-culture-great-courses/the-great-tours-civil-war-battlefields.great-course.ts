@@ -7,7 +7,7 @@ export const theGreatToursCivilWarBattlefields = {
   title: "The Great Tours: Civil War Battlefields",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 453,
   ownProgress: 453,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

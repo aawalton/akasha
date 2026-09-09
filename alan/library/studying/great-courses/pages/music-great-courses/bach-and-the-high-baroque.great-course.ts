@@ -6,7 +6,7 @@ export const bachAndTheHighBaroque = {
   slug: "bach-and-the-high-baroque",
   title: "Bach and the High Baroque",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1499.4,
   ownProgress: 468.5625,
   partOfCollections: ["all-great-courses", "music-great-courses"],

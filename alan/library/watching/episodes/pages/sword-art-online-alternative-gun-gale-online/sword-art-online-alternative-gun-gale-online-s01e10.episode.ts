@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e10 = {
     "LLENN receives some unexpected help during her battle in the dome that results in a change of tactics as she continues towards team PM4. M is surprised to see team SHINC approaching, and Pitohui learns that her ruthlessness can have consequences.",
   position: 10,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-06-17",
   episodeType: "standard",

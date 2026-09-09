@@ -6,7 +6,7 @@ export const trailsOfEvidenceHowForensicScienceWorks = {
   slug: "trails-of-evidence-how-forensic-science-works",
   title: "Trails of Evidence: How Forensic Science Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1114.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

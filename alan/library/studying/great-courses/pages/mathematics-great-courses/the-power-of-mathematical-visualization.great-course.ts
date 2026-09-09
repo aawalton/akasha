@@ -6,7 +6,7 @@ export const thePowerOfMathematicalVisualization = {
   slug: "the-power-of-mathematical-visualization",
   title: "The Power of Mathematical Visualization",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 741.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

@@ -7,7 +7,7 @@ export const solvingForZero = {
   title: "Solving for Zero",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 68.4,
   ownProgress: 68.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],

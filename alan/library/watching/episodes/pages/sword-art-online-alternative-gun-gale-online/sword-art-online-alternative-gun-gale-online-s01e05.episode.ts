@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e05 = {
     "An hour and 15 minutes have passed since Squad Jam began and only two teams remain. LLENN and M are one of them, but when M has an unexpected breakdown, LLENN heads for the last battle alone.",
   position: 5,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-05-06",
   episodeType: "standard",

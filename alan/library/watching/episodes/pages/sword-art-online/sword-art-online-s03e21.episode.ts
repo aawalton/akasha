@@ -9,7 +9,7 @@ export const swordArtOnlineS03e21 = {
     "Standing in Kirito and Alice's way is Eugeo, who's undergone the Synthesis Ritual and become an Integrity Knight. Kirito is rattled, until Alice admonishes him into resolving to fight Eugeo with everything he's got.",
   position: 21,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-10",
   episodeType: "standard",

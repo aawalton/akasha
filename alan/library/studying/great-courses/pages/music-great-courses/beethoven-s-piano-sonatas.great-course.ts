@@ -7,7 +7,7 @@ export const beethovenSPianoSonatas = {
   title: "Beethoven's Piano Sonatas",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1098,
   ownProgress: 1098,
   partOfCollections: ["all-great-courses", "music-great-courses"],

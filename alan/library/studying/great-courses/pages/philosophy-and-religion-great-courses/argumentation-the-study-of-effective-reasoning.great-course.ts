@@ -7,7 +7,7 @@ export const argumentationTheStudyOfEffectiveReasoning = {
   title: "Argumentation: The Study of Effective Reasoning",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: [

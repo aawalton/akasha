@@ -9,7 +9,7 @@ export const swordArtOnlineS01e08 = {
     "After 2 years, people have got used to living in SAO, with a dwindling front line it might just be up to Kirito and Asuna to continue the charge.",
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-08-26",
   episodeType: "standard",

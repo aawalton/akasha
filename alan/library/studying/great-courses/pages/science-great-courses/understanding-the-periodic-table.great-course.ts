@@ -6,7 +6,7 @@ export const understandingThePeriodicTable = {
   slug: "understanding-the-periodic-table",
   title: "Understanding the Periodic Table",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 742.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

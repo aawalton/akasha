@@ -6,7 +6,7 @@ export const lifeInTheWorldSOceans = {
   slug: "life-in-the-world-s-oceans",
   title: "Life in the World's Oceans",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 970.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

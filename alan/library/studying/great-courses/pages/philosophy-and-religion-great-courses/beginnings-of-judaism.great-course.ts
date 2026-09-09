@@ -6,7 +6,7 @@ export const beginningsOfJudaism = {
   slug: "beginnings-of-judaism",
   title: "Beginnings of Judaism",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 246.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

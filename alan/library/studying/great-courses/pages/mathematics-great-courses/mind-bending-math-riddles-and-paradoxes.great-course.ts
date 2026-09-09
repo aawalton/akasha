@@ -6,7 +6,7 @@ export const mindBendingMathRiddlesAndParadoxes = {
   slug: "mind-bending-math-riddles-and-paradoxes",
   title: "Mind-Bending Math: Riddles and Paradoxes",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

@@ -7,7 +7,7 @@ export const theGreatToursAfricanSafari = {
   title: "The Great Tours: African Safari",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 740.4,
   ownProgress: 740.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

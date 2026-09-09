@@ -6,7 +6,7 @@ export const theOdysseyOfHomer = {
   slug: "the-odyssey-of-homer",
   title: "The Odyssey of Homer",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 366,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

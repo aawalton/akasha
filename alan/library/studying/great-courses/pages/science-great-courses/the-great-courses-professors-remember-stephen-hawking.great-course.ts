@@ -7,7 +7,7 @@ export const theGreatCoursesProfessorsRememberStephenHawking = {
   title: "The Great Courses Professors Remember Stephen Hawking",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12,
   ownProgress: 12,
   partOfCollections: ["all-great-courses", "science-great-courses"],

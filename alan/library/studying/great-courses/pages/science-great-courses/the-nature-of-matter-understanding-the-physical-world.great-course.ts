@@ -6,7 +6,7 @@ export const theNatureOfMatterUnderstandingThePhysicalWorld = {
   slug: "the-nature-of-matter-understanding-the-physical-world",
   title: "The Nature of Matter: Understanding the Physical World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const pilotLectureUnderstandingHumanEmotions = {
   slug: "pilot-lecture-understanding-human-emotions",
   title: "Pilot Lecture: Understanding Human Emotions",
   status: "archived",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

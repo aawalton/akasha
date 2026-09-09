@@ -6,7 +6,7 @@ export const darkMatterDarkEnergyTheDarkSideOfTheUniverse = {
   slug: "dark-matter-dark-energy-the-dark-side-of-the-universe",
   title: "Dark Matter, Dark Energy: The Dark Side of the Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const shockingPsychologicalStudiesAndTheLessonsTheyTeach = {
   slug: "shocking-psychological-studies-and-the-lessons-they-teach",
   title: "Shocking Psychological Studies and the Lessons They Teach",
   status: "completed",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 184.2,
   ownProgress: 184.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

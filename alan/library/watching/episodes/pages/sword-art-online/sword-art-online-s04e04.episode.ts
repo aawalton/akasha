@@ -9,7 +9,7 @@ export const swordArtOnlineS04e04 = {
     "Shasta, commander of the Dark Territory's dark knights, had intended to use Administrator's death as a chance for peace with the Human Empire. But his plans are thwarted by Emperor Vecta's return to the land of darkness.",
   position: 4,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-11-03",
   episodeType: "standard",

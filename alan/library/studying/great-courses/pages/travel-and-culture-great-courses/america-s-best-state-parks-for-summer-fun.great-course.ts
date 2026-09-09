@@ -7,7 +7,7 @@ export const americaSBestStateParksForSummerFun = {
   title: "America’s Best State Parks for Summer Fun",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 10.2,
   ownProgress: 10.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

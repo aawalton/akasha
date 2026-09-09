@@ -9,7 +9,7 @@ export const swordArtOnlineS04e13 = {
     "Sinon has logged in with the super-account of Solus, the Sun Goddess and rescues Asuna and the others at the last minute. Meanwhile, Leafa logs in with the super-account of Terraria, the Earth Goddess, and descends to the Underworld.",
   position: 13,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-07-12",
   episodeType: "standard",

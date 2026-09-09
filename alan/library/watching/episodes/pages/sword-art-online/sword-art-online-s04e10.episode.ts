@@ -9,7 +9,7 @@ export const swordArtOnlineS04e10 = {
     "Asuna has logged into the Underworld using the superuser account of Stacia, the Goddess of Creation. After she descends, she is reunited with Kirito, thanks to Ronie and Tiese. But soon Alice arrives, leading to a precarious situation!",
   position: 10,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-12-15",
   episodeType: "standard",

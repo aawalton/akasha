@@ -6,7 +6,7 @@ export const theBotanistSEyeIdentifyingThePlantsAroundYou = {
   slug: "the-botanist-s-eye-identifying-the-plants-around-you",
   title: "The Botanist's Eye: Identifying the Plants around You",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS01e17 = {
     "As Kirito learns about the game from Leafa and the hatred between the races, Asuna learns the truth of her role from the Fairy King.",
   position: 17,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-10-28",
   episodeType: "standard",

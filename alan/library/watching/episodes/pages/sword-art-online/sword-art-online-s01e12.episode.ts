@@ -9,7 +9,7 @@ export const swordArtOnlineS01e12 = {
     "Yulier, second in command, of the Liberation Army has approached Kirito and Asuna for help saving her friend and her guild.",
   position: 12,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-09-23",
   episodeType: "standard",

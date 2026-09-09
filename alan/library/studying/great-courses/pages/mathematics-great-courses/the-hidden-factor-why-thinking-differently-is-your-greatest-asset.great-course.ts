@@ -6,7 +6,7 @@ export const theHiddenFactorWhyThinkingDifferentlyIsYourGreatestAsset = {
   slug: "the-hidden-factor-why-thinking-differently-is-your-greatest-asset",
   title: "The Hidden Factor: Why Thinking Differently Is Your Greatest Asset",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 718.8,
   ownProgress: 0,
   partOfCollections: [

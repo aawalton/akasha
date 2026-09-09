@@ -8,7 +8,7 @@ export const swordArtOnlineS01e06 = {
   description: "Kirito has figured out the how and now he has to figure out the why.",
   position: 6,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-08-12",
   episodeType: "standard",

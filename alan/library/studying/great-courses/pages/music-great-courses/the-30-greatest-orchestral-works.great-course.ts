@@ -6,7 +6,7 @@ export const the30GreatestOrchestralWorks = {
   slug: "the-30-greatest-orchestral-works",
   title: "The 30 Greatest Orchestral Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1491,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e10 = {
     "LLENN decides to participate in the game to battle Eva of SHINC with all her might. To clear the game, a player must destroy all seven NPCs or take back the gas bombs they stole. LLENN and LPFM members head to the location where the enemy awaits. They encounter SHINC along the way. As they're about to attack, ZEMAL attacks them first. ZEMAL's attack proved too much as their \"backpack style ammunition carriage system\" allowed them to fire rapidly without any breaks, leaving LLENN and LPFM clueless on how to counterattack.",
   position: 10,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-12-07",
   episodeType: "standard",

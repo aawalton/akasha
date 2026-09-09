@@ -6,7 +6,7 @@ export const theScienceOfExtremeWeather = {
   slug: "the-science-of-extreme-weather",
   title: "The Science of Extreme Weather",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 778.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

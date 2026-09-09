@@ -9,7 +9,7 @@ export const onePiece = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "paused",
   rank: "B",
   publishedAt: "1999-10-20",

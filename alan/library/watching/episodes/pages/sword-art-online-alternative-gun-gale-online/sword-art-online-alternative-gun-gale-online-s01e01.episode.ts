@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e01 = {
     "Squad Jam is a battle royale that pits teams against each other. LLENN, a female player clad in pink, has teamed up with M, a burly man and talented sniper. At the beginning of the tournament, LLENN scouts ahead, but then an enemy team closes in…",
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-04-08",
   episodeType: "standard",

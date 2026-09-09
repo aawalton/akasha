@@ -6,7 +6,7 @@ export const greatThinkersGreatTheorems = {
   slug: "great-thinkers-great-theorems",
   title: "Great Thinkers, Great Theorems",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

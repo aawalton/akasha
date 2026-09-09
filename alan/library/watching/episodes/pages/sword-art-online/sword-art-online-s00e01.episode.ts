@@ -9,7 +9,7 @@ export const swordArtOnlineS00e01 = {
     "A mock talk show anchored by Kirito and Asuna featuring some highlights of episodes 1 and 2 and having Klein as a special guest, with life counsel section held by Kirito and trivia sections held by Yui.",
   position: 1,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2012-10-24",
   episodeType: "standard",

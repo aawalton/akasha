@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e01 = {
     "Three months after LLENN won second place in the team battle, “Second Squad Jam” (SJ2), “Third Squad Jam” (SJ3), was announced. Soon after, news broke out that Pitohui, M, Fukaziroh, and LLENN formed “LPFM,” considered the strongest team in the game. Clarence is obsessed with LLENN, and Shirley ignites her fighting spirit to kill Pitohui. All members of SHINC hope to take revenge as they lost to LLENN in SJ1. A heated battle surpassing SJ2 is about to begin…!",
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-10-05",
   episodeType: "standard",

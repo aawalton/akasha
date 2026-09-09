@@ -6,7 +6,7 @@ export const greatMusicOfThe20thCentury = {
   slug: "great-music-of-the-20th-century",
   title: "Great Music of the 20th Century",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1091.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

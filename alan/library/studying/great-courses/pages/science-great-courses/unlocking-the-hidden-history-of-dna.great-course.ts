@@ -6,7 +6,7 @@ export const unlockingTheHiddenHistoryOfDna = {
   slug: "unlocking-the-hidden-history-of-dna",
   title: "Unlocking the Hidden History of DNA",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 383.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const lifeInOurUniverse = {
   slug: "life-in-our-universe",
   title: "Life in Our Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 728.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

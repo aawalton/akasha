@@ -6,7 +6,7 @@ export const concertMasterworks = {
   slug: "concert-masterworks",
   title: "Concert Masterworks",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1479.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS02e12 = {
     "BoB nears its end, and the only surviving players are Kirito, Sinon, and Dark Wind, the second place winner of the last tournament.  Since Death Gun may have multiple partners, and Dark Wind may be in danger as well, Kirito decides to defeat him first.  He acts as a decoy while Sinon snipes the enemy.  Kirito's trust in her pays off as her bullet strikes true, and he finally faces off with Death Gun.",
   position: 12,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-09-20",
   episodeType: "standard",

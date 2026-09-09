@@ -6,7 +6,7 @@ export const howToSurviveInSpace = {
   slug: "how-to-survive-in-space",
   title: "How to Survive in Space",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 351,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

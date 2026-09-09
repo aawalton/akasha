@@ -6,7 +6,7 @@ export const theTriumphOfChristianity = {
   slug: "the-triumph-of-christianity",
   title: "The Triumph of Christianity",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 681.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

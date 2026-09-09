@@ -7,7 +7,7 @@ export const travelsWithDarleySeason1 = {
   title: "Travels with Darley – Season 1",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 321,
   ownProgress: 321,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

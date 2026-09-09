@@ -6,7 +6,7 @@ export const chemistryAndOurUniverseHowItAllWorks = {
   slug: "chemistry-and-our-universe-how-it-all-works",
   title: "Chemistry and Our Universe: How It All Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1818,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

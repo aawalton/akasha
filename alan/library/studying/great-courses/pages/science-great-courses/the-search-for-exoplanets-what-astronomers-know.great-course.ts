@@ -6,7 +6,7 @@ export const theSearchForExoplanetsWhatAstronomersKnow = {
   slug: "the-search-for-exoplanets-what-astronomers-know",
   title: "The Search for Exoplanets: What Astronomers Know",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

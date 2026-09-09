@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e08 = {
     "The second Squad Jam has begun. LLENN and Fukaziroh’s starting point is the most northwestern area on the map. LLENN looks for Pitohui and M, but their location is far, far away. LLENN and Fukaziroh begin their advance towards Pito’s team, PM4.",
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-06-03",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const scienceInThe20thCentury = {
   slug: "science-in-the-20th-century",
   title: "Science in the 20th Century",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1095,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

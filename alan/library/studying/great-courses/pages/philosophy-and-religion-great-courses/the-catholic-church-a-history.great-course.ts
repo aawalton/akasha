@@ -6,7 +6,7 @@ export const theCatholicChurchAHistory = {
   slug: "the-catholic-church-a-history",
   title: "The Catholic Church: A History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1145.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

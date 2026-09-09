@@ -6,7 +6,7 @@ export const solvingForZeroTheSearchForClimateInnovation = {
   slug: "solving-for-zero-the-search-for-climate-innovation",
   title: "Solving for Zero: The Search for Climate Innovation",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 289.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

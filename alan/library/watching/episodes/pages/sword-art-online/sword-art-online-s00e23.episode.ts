@@ -8,7 +8,7 @@ export const swordArtOnlineS00e23 = {
   description: "Recap of the first 18 episodes of Alicization.",
   position: 23,
   ownLength: 24,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2019-02-17",
   episodeType: "standard",

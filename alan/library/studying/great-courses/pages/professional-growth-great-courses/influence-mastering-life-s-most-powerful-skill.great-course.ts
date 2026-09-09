@@ -6,7 +6,7 @@ export const influenceMasteringLifeSMostPowerfulSkill = {
   slug: "influence-mastering-life-s-most-powerful-skill",
   title: "Influence: Mastering Life's Most Powerful Skill",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

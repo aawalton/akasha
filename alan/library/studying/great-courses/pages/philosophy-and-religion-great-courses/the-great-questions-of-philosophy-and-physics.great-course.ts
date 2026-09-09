@@ -6,7 +6,7 @@ export const theGreatQuestionsOfPhilosophyAndPhysics = {
   slug: "the-great-questions-of-philosophy-and-physics",
   title: "The Great Questions of Philosophy and Physics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 368.4,
   ownProgress: 0,
   partOfCollections: [

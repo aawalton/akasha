@@ -7,7 +7,7 @@ export const theWorldSGreatestGeologicalWonders = {
   title: "The World's Greatest Geological Wonders",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,
   partOfCollections: [

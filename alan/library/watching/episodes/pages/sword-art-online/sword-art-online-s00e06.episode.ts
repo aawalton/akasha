@@ -9,7 +9,7 @@ export const swordArtOnlineS00e06 = {
     'The show received major overhaul due to ALO arc, with Leafa replaced Asuna as main anchor, and a new section "Slot Talk" replacing Klein\'s Life Counsel. There was no guest for this episode and it highlighted episode 15 and 16.',
   position: 6,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2013-03-27",
   episodeType: "standard",

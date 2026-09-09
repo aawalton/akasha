@@ -6,7 +6,7 @@ export const theSecretLifeOfWordsEnglishWordsAndTheirOrigins = {
   slug: "the-secret-life-of-words-english-words-and-their-origins",
   title: "The Secret Life of Words: English Words and Their Origins",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1101.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

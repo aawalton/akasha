@@ -6,7 +6,7 @@ export const theWorldSMostFascinatingGeologicEvents = {
   slug: "the-world-s-most-fascinating-geologic-events",
   title: "The World's Most Fascinating Geologic Events",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

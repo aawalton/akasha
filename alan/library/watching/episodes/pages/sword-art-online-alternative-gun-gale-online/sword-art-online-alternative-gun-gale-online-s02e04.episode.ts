@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e04 = {
     "Clarence and Shirley defeat and destroy the allied team. KKHC is wiped out after the two kill each other in a fierce battle. Meanwhile, LPFM rides a truck inside a freight car and calmly heads over to UNKNOWN as if going through a deserted field.",
   position: 4,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-10-26",
   episodeType: "standard",

@@ -9,7 +9,7 @@ export const swordArtOnlineS03e22 = {
     "On the top floor of the Central Cathedral, Kirito, Eugeo, and Alice finally face Administrator. But Chudelkin uses the sacred arts to transform himself into a giant clown and attacks.",
   position: 22,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-17",
   episodeType: "standard",

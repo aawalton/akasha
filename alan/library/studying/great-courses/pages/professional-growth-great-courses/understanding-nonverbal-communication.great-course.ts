@@ -6,7 +6,7 @@ export const understandingNonverbalCommunication = {
   slug: "understanding-nonverbal-communication",
   title: "Understanding Nonverbal Communication",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 370.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

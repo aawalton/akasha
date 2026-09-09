@@ -6,7 +6,7 @@ export const introductionToNanotechnologyTheNewScienceOfSmall = {
   slug: "introduction-to-nanotechnology-the-new-science-of-small",
   title: "Introduction to Nanotechnology: The New Science of Small",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS04e14 = {
     "Despite its modest size, the Human Empire Army and Asuna valiantly battle the wave of American players surging towards them. But they’re hopelessly outnumbered, and the Human Empire soldiers start to fall one after another.",
   position: 14,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-07-19",
   episodeType: "standard",

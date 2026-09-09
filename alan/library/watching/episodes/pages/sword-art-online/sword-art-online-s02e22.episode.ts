@@ -9,7 +9,7 @@ export const swordArtOnlineS02e22 = {
     "A few days have passed since Yuuki suddenly disappeared from in front of Asuna, and she still hasn’t logged in to ALO. Later, Asuna meets Kazuto on the school roof, where he hands her a note and tells her Yuuki might be at the location written on it.",
   position: 22,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-12-06",
   episodeType: "standard",

@@ -7,7 +7,7 @@ export const metropolisExaminedGermanExpressionismInFilm = {
   title: "Metropolis Examined: German Expressionism in Film",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 7.2,
   ownProgress: 7.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

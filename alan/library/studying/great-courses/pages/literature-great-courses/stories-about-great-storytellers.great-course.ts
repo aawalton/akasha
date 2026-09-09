@@ -7,7 +7,7 @@ export const storiesAboutGreatStorytellers = {
   title: "Stories about Great Storytellers",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 24,
   ownProgress: 24,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

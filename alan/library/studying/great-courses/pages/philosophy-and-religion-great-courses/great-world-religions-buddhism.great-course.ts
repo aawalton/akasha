@@ -6,7 +6,7 @@ export const greatWorldReligionsBuddhism = {
   slug: "great-world-religions-buddhism",
   title: "Great World Religions: Buddhism",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 371.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

@@ -6,7 +6,7 @@ export const superstringTheoryTheDnaOfReality = {
   slug: "superstring-theory-the-dna-of-reality",
   title: "Superstring Theory: The DNA of Reality",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 730.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const examiningTheBigQuestionsOfTime = {
   slug: "examining-the-big-questions-of-time",
   title: "Examining the Big Questions of Time",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 316.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

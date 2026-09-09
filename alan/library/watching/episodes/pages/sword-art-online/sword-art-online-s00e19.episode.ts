@@ -8,7 +8,7 @@ export const swordArtOnlineS00e19 = {
   description: "This edition highlights 18, 19, and 20.",
   position: 19,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2015-04-22",
   episodeType: "standard",

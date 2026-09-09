@@ -6,7 +6,7 @@ export const thinkLikeAStoicAncientWisdomForTodaySWorld = {
   slug: "think-like-a-stoic-ancient-wisdom-for-today-s-world",
   title: "Think like a Stoic: Ancient Wisdom for Today's World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 669,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

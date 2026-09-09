@@ -6,7 +6,7 @@ export const masteringStagePresenceHowToPresentToAnyAudience = {
   slug: "mastering-stage-presence-how-to-present-to-any-audience",
   title: "Mastering Stage Presence: How to Present to Any Audience",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 731.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

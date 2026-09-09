@@ -8,7 +8,7 @@ export const swordArtOnlineS01e14 = {
   description: "Game over.",
   position: 14,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-10-07",
   episodeType: "standard",

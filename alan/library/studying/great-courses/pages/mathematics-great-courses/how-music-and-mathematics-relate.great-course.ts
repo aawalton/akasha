@@ -6,7 +6,7 @@ export const howMusicAndMathematicsRelate = {
   slug: "how-music-and-mathematics-relate",
   title: "How Music and Mathematics Relate",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 563.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses", "music-great-courses"],

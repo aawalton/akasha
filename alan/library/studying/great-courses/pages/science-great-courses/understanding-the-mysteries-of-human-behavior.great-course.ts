@@ -6,7 +6,7 @@ export const understandingTheMysteriesOfHumanBehavior = {
   slug: "understanding-the-mysteries-of-human-behavior",
   title: "Understanding the Mysteries of Human Behavior",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 731.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

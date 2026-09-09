@@ -7,7 +7,7 @@ export const storiesOfAmericaSNationalParks = {
   title: "Stories of America’s National Parks",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 355.2,
   ownProgress: 355.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

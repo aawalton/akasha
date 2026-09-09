@@ -9,7 +9,7 @@ export const swordArtOnlineS00e12 = {
     "Recap episode of Episodes 1-14 (Phantom Bullet arc) of Season 2, also known as Episode 14.5. Narrated by Sinon.",
   position: 12,
   ownLength: 24,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2014-10-11",
   episodeType: "standard",

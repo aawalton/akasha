@@ -9,7 +9,7 @@ export const swordArtOnlineS03e14 = {
     "After being entrusted with the fate of the world by the Cardinal, Kirito and Eugeo head to the top floor of the Central Cathedral. On the way, they find their confiscated swords among a vast pile of weapons in an arsenal, only to be greeted with a hail of arrows by the Integrity Knight, Deusolbert Synthesis Seven.",
   position: 14,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-01-13",
   episodeType: "standard",

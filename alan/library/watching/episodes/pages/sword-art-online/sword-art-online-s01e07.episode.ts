@@ -8,7 +8,7 @@ export const swordArtOnlineS01e07 = {
   description: "A trip to get a new sword leaves Kirito battling a dragon and his fears.",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-08-19",
   episodeType: "standard",

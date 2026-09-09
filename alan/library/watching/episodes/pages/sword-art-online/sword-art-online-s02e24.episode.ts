@@ -9,7 +9,7 @@ export const swordArtOnlineS02e24 = {
     "Getting to experience the outside world, Yuuki’s days are more satisfactory than ever before. In ALO, the players have a barbecue and end up on a quest. In the real world, Asuna and the girls take a trip to Kyoto. One day, Asuna receives an email…",
   position: 24,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-12-20",
   episodeType: "finale",

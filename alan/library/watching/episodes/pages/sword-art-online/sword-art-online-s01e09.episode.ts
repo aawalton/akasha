@@ -9,7 +9,7 @@ export const swordArtOnlineS01e09 = {
     "To save a group of players and Asuna from a Boss character, Kirito is forced to play his trump card.",
   position: 9,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-09-02",
   episodeType: "standard",

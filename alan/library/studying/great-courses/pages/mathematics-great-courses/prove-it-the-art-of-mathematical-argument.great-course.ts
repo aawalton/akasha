@@ -6,7 +6,7 @@ export const proveItTheArtOfMathematicalArgument = {
   slug: "prove-it-the-art-of-mathematical-argument",
   title: "Prove It: The Art of Mathematical Argument",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

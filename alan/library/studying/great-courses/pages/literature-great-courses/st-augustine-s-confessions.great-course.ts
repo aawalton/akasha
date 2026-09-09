@@ -6,7 +6,7 @@ export const stAugustineSConfessions = {
   slug: "st-augustine-s-confessions",
   title: "St. Augustine's Confessions",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729.6,
   ownProgress: 0,
   partOfCollections: [

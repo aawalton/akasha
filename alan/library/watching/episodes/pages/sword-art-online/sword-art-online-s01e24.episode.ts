@@ -9,7 +9,7 @@ export const swordArtOnlineS01e24 = {
     "Kirito, Asuna, and Yui are finally together again, but the locks placed on Asuna are unbreakable.  Before they have a chance to come up with a plan, the fairy king makes his grand entrance.",
   position: 24,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-12-16",
   episodeType: "standard",

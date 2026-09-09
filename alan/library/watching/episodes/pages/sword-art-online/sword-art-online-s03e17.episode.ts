@@ -9,7 +9,7 @@ export const swordArtOnlineS03e17 = {
     "When Kirito and Alice both unleash the Perfect Weapon Control art in the Cloudtop Garden, the impact rips a hole into the seemingly impregnable Central Cathedral wall, which sends them both flying outside.",
   position: 17,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-02-03",
   episodeType: "standard",

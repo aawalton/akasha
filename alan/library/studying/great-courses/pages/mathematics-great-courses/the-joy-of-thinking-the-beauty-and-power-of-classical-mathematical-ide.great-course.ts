@@ -6,7 +6,7 @@ export const theJoyOfThinkingTheBeautyAndPowerOfClassicalMathematicalIde = {
   slug: "the-joy-of-thinking-the-beauty-and-power-of-classical-mathematical-ide",
   title: "The Joy of Thinking: The Beauty and Power of Classical Mathematical Ideas",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

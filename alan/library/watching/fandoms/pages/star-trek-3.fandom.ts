@@ -9,7 +9,7 @@ export const starTrek3 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "paused",
   rank: "A",
   lastSyncedAt: "2025-10-01",

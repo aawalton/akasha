@@ -9,7 +9,7 @@ export const swordArtOnlineS03e11 = {
     "Kirito and Eugeo are now considered criminals for having violated the Taboo Index and are thrown into the underground prison in the Central Cathedral. Meanwhile, on the Ocean Turtle in the real world, Asuna is watching over Kazuto as he's being treated.",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-12-16",
   episodeType: "standard",

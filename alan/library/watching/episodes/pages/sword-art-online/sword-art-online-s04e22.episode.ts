@@ -9,7 +9,7 @@ export const swordArtOnlineS04e22 = {
     "The “Rath Attack Incident,” masterminded by the American National Security Agency, is over. Now head of the newly formed Oceanic Resource Exploration & Research Institution, Rinko unveils Alice to the world as an authentic artificial general intelligence.",
   position: 22,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-09-13",
   episodeType: "standard",

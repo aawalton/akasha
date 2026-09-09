@@ -9,7 +9,7 @@ export const swordArtOnlineS04e11 = {
     "Asuna has created a bottomless chasm. The dark knights and the pugilists attempt to cross over to the other side, where the Human Empire Army waits. Meanwhile, Critter releases an announcement about a limited-time beta test for a bizarre new VRMMO.",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-12-22",
   episodeType: "standard",

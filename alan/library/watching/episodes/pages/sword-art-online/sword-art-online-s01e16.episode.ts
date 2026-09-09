@@ -9,7 +9,7 @@ export const swordArtOnlineS01e16 = {
     "A new MMO allows users to fly and encourages player killing. Kirito has joined this new game in search of Asuna and is pleasantly surprised with what he finds.",
   position: 16,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-10-21",
   episodeType: "standard",

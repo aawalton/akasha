@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00e01 = {
     "Recap episode of first 5 episodes of Sword Art Online Alternative: Gun Gale Online, scenario written by Keiichi Shigusawa. Pitohui and M will look back on the past episodes.",
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s00"],
   publishedAt: "2018-05-13",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const theFutureOfSpaceExploration = {
   slug: "the-future-of-space-exploration",
   title: "The Future of Space Exploration",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 337.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

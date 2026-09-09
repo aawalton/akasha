@@ -7,7 +7,7 @@ export const theGreatToursIceland = {
   title: "The Great Tours: Iceland",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 564.6,
   ownProgress: 564.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

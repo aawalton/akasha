@@ -9,7 +9,7 @@ export const swordArtOnlineS02e02 = {
     "Armed with a large sniper rifle, Hecate II, the young girl Sinon is making a name for herself as the No. 1 sniper in GGO. When her squadron ambushes another squadron, she succeeds in taking out her first target. But when she takes aim at her second target, a robed “Behemoth,” he dodges the bullet.",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-07-12",
   episodeType: "standard",

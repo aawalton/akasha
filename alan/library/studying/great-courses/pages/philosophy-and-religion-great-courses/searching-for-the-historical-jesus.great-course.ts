@@ -7,7 +7,7 @@ export const searchingForTheHistoricalJesus = {
   title: "Searching for the Historical Jesus",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 324.6,
   ownProgress: 324.6,
   partOfCollections: [

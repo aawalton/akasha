@@ -9,7 +9,7 @@ export const swordArtOnlineS03e20 = {
     "Kirito and Alice reach the communal bath on the nintieth floor. There, they find the Integrity Knight Commander, Bercouli, who's been turned to stone by Chudelkin. Alice breaks down in tears upon seeing her mentor's tragic plight, but then...",
   position: 20,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-03",
   episodeType: "standard",

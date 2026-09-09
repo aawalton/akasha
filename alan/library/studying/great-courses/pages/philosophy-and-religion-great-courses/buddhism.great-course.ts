@@ -6,7 +6,7 @@ export const buddhism = {
   slug: "buddhism",
   title: "Buddhism",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 746.4,
   ownProgress: 62.2,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

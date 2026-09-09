@@ -6,7 +6,7 @@ export const thermodynamicsFourLawsThatMoveTheUniverse = {
   slug: "thermodynamics-four-laws-that-move-the-universe",
   title: "Thermodynamics: Four Laws That Move the Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 756,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

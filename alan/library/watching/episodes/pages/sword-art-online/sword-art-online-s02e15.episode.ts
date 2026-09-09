@@ -9,7 +9,7 @@ export const swordArtOnlineS02e15 = {
     "It's reported that the Holy Sword Excalibur has been discovered inside ALO. Hearing the news, Kirito and Leafa decide to take possession of Excalibur before other players get to it first.",
   position: 15,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-10-18",
   episodeType: "standard",

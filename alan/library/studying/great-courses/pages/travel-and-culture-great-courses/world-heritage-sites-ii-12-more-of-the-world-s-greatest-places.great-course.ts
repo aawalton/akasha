@@ -7,7 +7,7 @@ export const worldHeritageSitesIi12MoreOfTheWorldSGreatestPlaces = {
   title: "World Heritage Sites II: 12 More of the World’s Greatest Places",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 366,
   ownProgress: 366,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

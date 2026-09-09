@@ -6,7 +6,7 @@ export const theHiddenPowerOfMicrobes = {
   slug: "the-hidden-power-of-microbes",
   title: "The Hidden Power of Microbes",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 626.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

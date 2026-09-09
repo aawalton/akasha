@@ -9,7 +9,7 @@ export const swordArtOnlineS04e23 = {
     "Rinko informs Kazuto that Alice is missing. He’s about to rush to the Rath Roppongi branch when the doorbell rings. In a panic, Kazuto throws open the door, only to find a deliveryman there with a huge cardboard box.",
   position: 23,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-09-20",
   episodeType: "finale",

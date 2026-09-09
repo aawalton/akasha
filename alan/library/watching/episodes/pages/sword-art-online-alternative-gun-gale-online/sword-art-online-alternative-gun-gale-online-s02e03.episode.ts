@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e03 = {
     "LPFM managed to defeat many members of the allied enemy team, but the island continued to sink, drastically decreasing the physical space they could move around in. LLENN and her comrades avoid areas near the sea and whip up a plan to cut across the northeast section of the island where members of the allied team have gathered. Clarence joins the allied team at this time. She suggests splitting the team into smaller groups of two people and launching waves of attacks against LPFM. However, immediately after they launch this plan, she betrays her teammates and attacks them. In addition, Shirley, who left the KKHC to fight alone, begins joining in on the attacks against the allied team!",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-10-19",
   episodeType: "standard",

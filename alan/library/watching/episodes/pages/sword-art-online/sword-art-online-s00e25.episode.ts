@@ -8,7 +8,7 @@ export const swordArtOnlineS00e25 = {
   description: "This episode is a recap of Sword Art Online: Alicization - War of Underworld.",
   position: 25,
   ownLength: 24,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2020-07-05",
   episodeType: "standard",

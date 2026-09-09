@@ -6,7 +6,7 @@ export const greatIdeasOfClassicalPhysics = {
   slug: "great-ideas-of-classical-physics",
   title: "Great Ideas of Classical Physics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 735,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

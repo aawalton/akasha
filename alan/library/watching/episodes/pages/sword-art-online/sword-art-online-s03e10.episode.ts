@@ -9,7 +9,7 @@ export const swordArtOnlineS03e10 = {
     "Ronie and Tiese are late getting to the dorm. Kirito rushes out in search of them, but no sooner has he gone than Frenica appears. She tells Eugeo about how she's suffered at Humbert's hands, and that Tiese and Ronie went to confront him about it.",
   position: 10,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-12-09",
   episodeType: "standard",

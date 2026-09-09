@@ -6,7 +6,7 @@ export const riseOfTheNovelExploringHistorySGreatestEarlyWorks = {
   slug: "rise-of-the-novel-exploring-history-s-greatest-early-works",
   title: "Rise of the Novel: Exploring History’s Greatest Early Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 735,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

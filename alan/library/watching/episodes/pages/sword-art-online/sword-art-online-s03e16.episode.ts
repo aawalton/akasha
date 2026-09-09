@@ -9,7 +9,7 @@ export const swordArtOnlineS03e16 = {
     "Though riddled with wounds, Kirito manages to activate his Perfect Weapon Control art. Continuing on their way to the top floor of the Central Cathedral, Kirito and Eugeo find themselves standing before a strange-looking floating platform.",
   position: 16,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-01-27",
   episodeType: "standard",

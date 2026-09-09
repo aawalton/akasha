@@ -6,7 +6,7 @@ export const musicAsAMirrorOfHistory = {
   slug: "music-as-a-mirror-of-history",
   title: "Music as a Mirror of History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1102.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

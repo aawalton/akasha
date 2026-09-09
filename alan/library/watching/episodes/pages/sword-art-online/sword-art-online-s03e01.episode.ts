@@ -9,7 +9,7 @@ export const swordArtOnlineS03e01 = {
     "Kirito, along with his childhood friend, Eugeo, has been tasked with cutting down a colossal tree called the Gigas Cedar. They’re swinging their ax when their friend Alice arrives with lunch. As they eat, the three friends decide to go to a fabled cave.",
   position: 1,
   ownLength: 47,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-10-07",
   episodeType: "standard",

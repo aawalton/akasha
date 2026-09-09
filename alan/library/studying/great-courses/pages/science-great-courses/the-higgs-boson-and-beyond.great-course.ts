@@ -6,7 +6,7 @@ export const theHiggsBosonAndBeyond = {
   slug: "the-higgs-boson-and-beyond",
   title: "The Higgs Boson and Beyond",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 382.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

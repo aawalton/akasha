@@ -6,7 +6,7 @@ export const rediscoveringTheAgeOfDinosaurs = {
   slug: "rediscovering-the-age-of-dinosaurs",
   title: "Rediscovering the Age of Dinosaurs",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 610.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

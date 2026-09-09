@@ -7,7 +7,7 @@ export const aNewHistoryOfLife = {
   title: "A New History of Life",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1069.2,
   ownProgress: 1069.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e09 = {
     "A month has passed since the fierce SJ3 battles. Karen returns to Hokkaido and tells Miyu she can’t decide whether to continue playing GGO. However, Miyu figures out that Karen's actually concerned about the pure rivalry with Elza and Saki.",
   position: 9,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-11-30",
   episodeType: "standard",

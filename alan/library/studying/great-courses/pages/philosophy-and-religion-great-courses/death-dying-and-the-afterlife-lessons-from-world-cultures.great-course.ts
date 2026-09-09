@@ -6,7 +6,7 @@ export const deathDyingAndTheAfterlifeLessonsFromWorldCultures = {
   slug: "death-dying-and-the-afterlife-lessons-from-world-cultures",
   title: "Death, Dying, and the Afterlife: Lessons from World Cultures",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753.6,
   ownProgress: 31.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

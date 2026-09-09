@@ -9,7 +9,7 @@ export const swordArtOnlineS02e01 = {
     "A year has passed since SAO was cleared. Summoned by Kikuoka of the Virtual Division at the Ministry of Internal Affairs and Communications, Kazuto learns of a series of bizarre murders linked to the popular VR game, Gun Gale Online (GGO), the only game in Japan played by pros.",
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-07-05",
   episodeType: "standard",

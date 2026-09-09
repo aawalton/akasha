@@ -6,7 +6,7 @@ export const greatMastersMahlerHisLifeAndMusic = {
   slug: "great-masters-mahler-his-life-and-music",
   title: "Great Masters: Mahler—His Life and Music",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 364.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

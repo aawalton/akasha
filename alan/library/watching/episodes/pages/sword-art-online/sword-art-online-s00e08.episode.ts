@@ -9,7 +9,7 @@ export const swordArtOnlineS00e08 = {
     "This edition highlights 20, 21, and 22 with Sakuya and Alicia murdering Kirito. In addition, Kirito was locked in a coffin by Alica at the end of this episode.",
   position: 8,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2013-05-22",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const masteringTheFundamentalsOfMathematics = {
   slug: "mastering-the-fundamentals-of-mathematics",
   title: "Mastering the Fundamentals of Mathematics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 750.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

@@ -6,7 +6,7 @@ export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   slug: "masters-of-greek-thought-plato-socrates-and-aristotle",
   title: "Masters of Greek Thought: Plato, Socrates, and Aristotle",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1095,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

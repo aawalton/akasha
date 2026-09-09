@@ -6,7 +6,7 @@ export const robotics = {
   slug: "robotics",
   title: "Robotics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 762.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

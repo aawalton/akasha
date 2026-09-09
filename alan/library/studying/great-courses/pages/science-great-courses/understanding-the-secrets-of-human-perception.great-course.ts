@@ -6,7 +6,7 @@ export const understandingTheSecretsOfHumanPerception = {
   slug: "understanding-the-secrets-of-human-perception",
   title: "Understanding the Secrets of Human Perception",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

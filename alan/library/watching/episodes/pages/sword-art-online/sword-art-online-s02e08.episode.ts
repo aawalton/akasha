@@ -9,7 +9,7 @@ export const swordArtOnlineS02e08 = {
     "Kirito decides that Death Gun and the man in the cape will be appearing in BoB.  He uses the remaining time to exchange information with Sinon and find out more about the contestants.  Sinon sees how strange he was acting during the qualifier and asks him what happened.  She learns that he is a SAO survivor.  The main BoB tournament begins and 30 players are dropped in a 10km wide field.",
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-08-23",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const brainMythsExplodedLessonsFromNeuroscience = {
   slug: "brain-myths-exploded-lessons-from-neuroscience",
   title: "Brain Myths Exploded: Lessons from Neuroscience",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const experiencingJamesWebbTheInvisibleUniverseRevealed = {
   slug: "experiencing-james-webb-the-invisible-universe-revealed",
   title: "Experiencing James Webb: The Invisible Universe Revealed",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS03e06 = {
     "Asuna infiltrates Rath, the research lab in the Ocean Turtle, where she relentlessly grills Kikuoka about Kazuto's whereabouts. Kikuoka reveals that behind the development of the Soul Translator is a mind-blowing objective of epic scale.",
   position: 6,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-11-11",
   episodeType: "standard",

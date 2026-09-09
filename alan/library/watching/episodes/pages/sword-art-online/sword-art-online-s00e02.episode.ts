@@ -9,7 +9,7 @@ export const swordArtOnlineS00e02 = {
     "The talk show continues, with Klein replaced Kirito as life counsel host, featuring highlights of episodes 3, 4, and 5 with Silica as the special guest.",
   position: 2,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2012-12-03",
   episodeType: "standard",

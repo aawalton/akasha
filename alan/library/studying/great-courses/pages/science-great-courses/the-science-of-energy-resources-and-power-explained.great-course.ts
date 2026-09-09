@@ -6,7 +6,7 @@ export const theScienceOfEnergyResourcesAndPowerExplained = {
   slug: "the-science-of-energy-resources-and-power-explained",
   title: "The Science of Energy: Resources and Power Explained",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 807.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

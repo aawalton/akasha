@@ -9,7 +9,7 @@ export const swordArtOnlineS04e18 = {
     "Sinon manages to severely damage Gabriel, but her strength has been sapped. Leafa collapses after wiping out the American players. And Asuna, her situation now hopeless, gazes at Kirito. But the Black Swordsman continues to wander through his dreams.",
   position: 18,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-16",
   episodeType: "standard",

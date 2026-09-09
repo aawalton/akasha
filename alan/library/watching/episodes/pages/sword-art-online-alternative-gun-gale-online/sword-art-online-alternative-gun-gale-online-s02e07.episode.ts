@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e07 = {
     "By Pitohui's orders, the luxury cruise ship continued sailing without stopping its leak, but it began sinking into the water as a result. After a fierce battle, LPFM manages to annihilate SHINC. Meanwhile, Pitohui's trap wipes out MMTM.",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-11-16",
   episodeType: "standard",

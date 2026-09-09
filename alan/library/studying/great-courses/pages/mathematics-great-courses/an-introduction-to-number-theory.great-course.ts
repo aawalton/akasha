@@ -7,7 +7,7 @@ export const anIntroductionToNumberTheory = {
   title: "An Introduction to Number Theory",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

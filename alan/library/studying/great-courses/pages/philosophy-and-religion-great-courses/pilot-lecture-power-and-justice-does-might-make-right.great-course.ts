@@ -7,7 +7,7 @@ export const pilotLecturePowerAndJusticeDoesMightMakeRight = {
   title: "Pilot Lecture: Power and Justice—Does Might Make Right?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

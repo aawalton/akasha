@@ -6,7 +6,7 @@ export const understandingTheUniverseAnIntroductionToAstronomy2ndEdition = {
   slug: "understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
   title: "Understanding the Universe: An Introduction to Astronomy, 2nd Edition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 3000,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

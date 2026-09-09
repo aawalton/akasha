@@ -9,7 +9,7 @@ export const swordArtOnlineS01e11 = {
     "The newly married couple is enjoying their time away from the front lines.  But a new guest will take them all the way back to the beginning.",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-09-16",
   episodeType: "standard",

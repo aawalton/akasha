@@ -6,7 +6,7 @@ export const whyInsectsMatterEarthSMostEssentialSpecies = {
   slug: "why-insects-matter-earth-s-most-essential-species",
   title: "Why Insects Matter: Earth’s Most Essential Species",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 732,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

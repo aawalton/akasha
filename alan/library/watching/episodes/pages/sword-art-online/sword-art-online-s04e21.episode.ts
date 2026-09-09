@@ -9,7 +9,7 @@ export const swordArtOnlineS04e21 = {
     "The maximum-acceleration phase has begun. Alice successfully logs out of the Underworld, but Kirito doesn’t make it in time. In the real world, Higa and Kikuoka rush to shut down the STL, in order to disable the maximum-acceleration phase, but…",
   position: 21,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-09-06",
   episodeType: "standard",

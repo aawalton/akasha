@@ -6,7 +6,7 @@ export const philosophyOfReligion = {
   slug: "philosophy-of-religion",
   title: "Philosophy of Religion",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1097.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

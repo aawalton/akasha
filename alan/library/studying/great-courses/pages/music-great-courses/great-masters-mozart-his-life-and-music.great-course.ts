@@ -6,7 +6,7 @@ export const greatMastersMozartHisLifeAndMusic = {
   slug: "great-masters-mozart-his-life-and-music",
   title: "Great Masters: Mozart—His Life and Music",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 369,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS03e04 = {
     "Kirito and Eugeo realize Selka has taken off to the End Mountains alone, and decide to chase after her. As they enter the cave, they encounter goblins, presumably from the Dark Territory, and must engage in a battle.",
   position: 4,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-10-28",
   episodeType: "standard",

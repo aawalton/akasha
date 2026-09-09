@@ -7,7 +7,7 @@ export const nationalGeographicPolarExplorations = {
   title: "National Geographic Polar Explorations",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 669.6,
   ownProgress: 669.6,
   partOfCollections: [

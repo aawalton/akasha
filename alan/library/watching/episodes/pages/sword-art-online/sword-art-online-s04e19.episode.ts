@@ -9,7 +9,7 @@ export const swordArtOnlineS04e19 = {
     "Escaping his nightmares, Kirito regains consciousness at last. With the Night-Sky Blade in his right hand and the broken Blue Rose Sword in his left, he faces off against Vassago, armed with the Mate-Chopper, now enormous in size.",
   position: 19,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-23",
   episodeType: "standard",

@@ -8,7 +8,7 @@ export const swordArtOnlineS01e25 = {
   description: "Kirigaya Kazuto has beaten death twice but there is one more thing he must do.",
   position: 25,
   ownLength: 25,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-12-23",
   episodeType: "finale",

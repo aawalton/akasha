@@ -9,7 +9,7 @@ export const swordArtOnlineS04e15 = {
     "Bercouli pursues Vecta, who’s abducted Alice. After a long, vicious battle, Bercouli unleashes his secret sword skill, Uragiri, and finally defeats Vecta, despite having sustained severe injuries himself.",
   position: 15,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-07-26",
   episodeType: "standard",

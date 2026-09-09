@@ -6,7 +6,7 @@ export const theSecretsOfMentalMath = {
   slug: "the-secrets-of-mental-math",
   title: "The Secrets of Mental Math",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 403.8,
   ownProgress: 0,
   partOfCollections: [

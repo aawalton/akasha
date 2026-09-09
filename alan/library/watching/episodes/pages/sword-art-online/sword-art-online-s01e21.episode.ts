@@ -9,7 +9,7 @@ export const swordArtOnlineS01e21 = {
     "While Asuna continues her attempt to escape, another woman in Kirito’s life tries to make sense of her emotions.",
   position: 21,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-11-25",
   episodeType: "standard",

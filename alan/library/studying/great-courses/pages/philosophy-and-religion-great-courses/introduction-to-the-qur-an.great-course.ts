@@ -6,7 +6,7 @@ export const introductionToTheQurAn = {
   slug: "introduction-to-the-qur-an",
   title: "Introduction to the Qur’an",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 353.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

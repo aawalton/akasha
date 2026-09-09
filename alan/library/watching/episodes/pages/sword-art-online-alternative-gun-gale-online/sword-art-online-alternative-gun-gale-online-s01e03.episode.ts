@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e03 = {
     "Squad Jam will be held on Gun Gale Online's Japanese server. LLENN wants to participate, but her favorite artist has a concert the same day. But when she can't get a ticket, she joins the tournament. She and her new partner, M head for the battlefield.",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-04-22",
   episodeType: "standard",

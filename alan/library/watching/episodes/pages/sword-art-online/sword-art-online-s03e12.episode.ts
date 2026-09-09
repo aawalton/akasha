@@ -9,7 +9,7 @@ export const swordArtOnlineS03e12 = {
     "Kirito and Eugeo escape from their cell, only to find their way blocked by Eldrie Synthesis Thirty-One, under orders from Alice to lie in wait for them. Kirito and Eugeo struggle against him until Eugeo realizes that he's seen Eldrie somewhere before.",
   position: 12,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-12-23",
   episodeType: "standard",

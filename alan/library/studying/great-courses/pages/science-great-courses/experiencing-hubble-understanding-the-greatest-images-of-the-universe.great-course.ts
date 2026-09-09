@@ -6,7 +6,7 @@ export const experiencingHubbleUnderstandingTheGreatestImagesOfTheUniverse = {
   slug: "experiencing-hubble-understanding-the-greatest-images-of-the-universe",
   title: "Experiencing Hubble: Understanding the Greatest Images of the Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 370.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

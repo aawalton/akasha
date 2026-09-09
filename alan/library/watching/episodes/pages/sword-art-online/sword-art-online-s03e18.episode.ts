@@ -9,7 +9,7 @@ export const swordArtOnlineS03e18 = {
     "Eugeo reaches the ninetieth floor of the Central Cathedral, which turns out to be a vast bathing area. The perplexed Eugeo encounters Bercouli Synthesis One soaking in the bath. Meanwhile, Kirito and Alice are still climbing the Central Cathedral wall.",
   position: 18,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-02-10",
   episodeType: "standard",

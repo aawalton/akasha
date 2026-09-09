@@ -7,7 +7,7 @@ export const pilotLectureTheHaitianRevolution = {
   title: "Pilot Lecture: The Haitian Revolution",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

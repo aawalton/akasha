@@ -6,7 +6,7 @@ export const theQueenOfTheSciencesAHistoryOfMathematics = {
   slug: "the-queen-of-the-sciences-a-history-of-mathematics",
   title: "The Queen of the Sciences: A History of Mathematics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

@@ -6,7 +6,7 @@ export const theSecretsOfGreatMysteryAndSuspenseFiction = {
   slug: "the-secrets-of-great-mystery-and-suspense-fiction",
   title: "The Secrets of Great Mystery and Suspense Fiction",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1138.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

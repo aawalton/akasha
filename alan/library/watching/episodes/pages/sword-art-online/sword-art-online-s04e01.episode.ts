@@ -9,7 +9,7 @@ export const swordArtOnlineS04e01 = {
     "Six months have passed since the fierce battle against Administrator. Alice has brought Kirito to her childhood home, Rulid Village, where they live peacefully. Gazing out at the world that she saved with Kirito, Alice reflects on all that’s happened.",
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-10-13",
   episodeType: "standard",

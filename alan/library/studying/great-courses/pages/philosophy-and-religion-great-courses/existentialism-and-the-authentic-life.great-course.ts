@@ -6,7 +6,7 @@ export const existentialismAndTheAuthenticLife = {
   slug: "existentialism-and-the-authentic-life",
   title: "Existentialism and the Authentic Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 717.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

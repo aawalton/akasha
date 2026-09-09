@@ -6,7 +6,7 @@ export const yourDeceptiveMindAScientificGuideToCriticalThinkingSkills = {
   slug: "your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 765,
   ownProgress: 0,
   partOfCollections: [

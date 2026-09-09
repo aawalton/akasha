@@ -6,7 +6,7 @@ export const understandingComplexity = {
   slug: "understanding-complexity",
   title: "Understanding Complexity",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 387.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

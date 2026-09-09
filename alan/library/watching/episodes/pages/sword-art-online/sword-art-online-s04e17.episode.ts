@@ -9,7 +9,7 @@ export const swordArtOnlineS04e17 = {
     "Asuna and the others succumb to Vassago and the Chinese/Korean players. Discovering the catatonic Kirito, Vassago kicks his wheelchair over. Enraged, Klein lunges at Vassago, only to be pinned down by enemy players. Just then, someone unexpected appears.",
   position: 17,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-09",
   episodeType: "standard",

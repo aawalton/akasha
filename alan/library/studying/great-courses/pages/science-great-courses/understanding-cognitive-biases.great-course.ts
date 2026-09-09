@@ -6,7 +6,7 @@ export const understandingCognitiveBiases = {
   slug: "understanding-cognitive-biases",
   title: "Understanding Cognitive Biases",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 647.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

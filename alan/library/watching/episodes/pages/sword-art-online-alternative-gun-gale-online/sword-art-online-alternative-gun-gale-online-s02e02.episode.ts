@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e02 = {
     "SJ3 has finally begun. The battlefield is located on an island surrounded by the sea. The word \"UNKNOWN\" is written on a small hill in the middle of the island. \"Is this 'UNKNOWN' the 'special rule' for this battle?\"",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-10-12",
   episodeType: "standard",

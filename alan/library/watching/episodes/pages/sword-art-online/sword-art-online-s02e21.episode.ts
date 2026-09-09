@@ -9,7 +9,7 @@ export const swordArtOnlineS02e21 = {
     "Asuna and the Sleeping Knights’ attempt to defeat the boss on Floor 27 has been observed by a guild specializing in boss raids. Now 20 of its members block the boss room.  With Kirito stalling the rest of the guild, can Asuna and the others break through?",
   position: 21,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-11-29",
   episodeType: "standard",

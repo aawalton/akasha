@@ -6,7 +6,7 @@ export const zoologyUnderstandingTheAnimalWorld = {
   slug: "zoology-understanding-the-animal-world",
   title: "Zoology: Understanding the Animal World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const creationStoriesOfTheAncientWorld = {
   title: "Creation Stories of the Ancient World",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 300,
   ownProgress: 300,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

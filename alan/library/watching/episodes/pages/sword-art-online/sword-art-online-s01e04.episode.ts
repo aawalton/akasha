@@ -9,7 +9,7 @@ export const swordArtOnlineS01e04 = {
     "Silca is known as Dragon Tamer Silca, but after leaving her group she is caught and her pet, Pina paid the ultimate price.  Before she is killed, Kirito saves her and offers her a choice.",
   position: 4,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-07-29",
   episodeType: "standard",

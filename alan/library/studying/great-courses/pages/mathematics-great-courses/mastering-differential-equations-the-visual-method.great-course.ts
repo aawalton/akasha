@@ -6,7 +6,7 @@ export const masteringDifferentialEquationsTheVisualMethod = {
   slug: "mastering-differential-equations-the-visual-method",
   title: "Mastering Differential Equations: The Visual Method",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

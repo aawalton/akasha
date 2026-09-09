@@ -9,7 +9,7 @@ export const swordArtOnlineS04e16 = {
     "The traitor inside Rath turns out to be a researcher named Yanai. When Higa attempts to restore Kirito, Yanai tries to thwart the operation by holding him at gunpoint. Meanwhile, in the Underworld, Sinon confronts Gabriel, who has logged back in.",
   position: 16,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-02",
   episodeType: "standard",

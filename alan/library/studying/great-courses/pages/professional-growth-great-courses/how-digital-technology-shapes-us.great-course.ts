@@ -6,7 +6,7 @@ export const howDigitalTechnologyShapesUs = {
   slug: "how-digital-technology-shapes-us",
   title: "How Digital Technology Shapes Us",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 643.2,
   ownProgress: 0,
   partOfCollections: [

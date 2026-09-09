@@ -6,7 +6,7 @@ export const howToListenToAndUnderstandGreatMusic3rdEdition = {
   slug: "how-to-listen-to-and-understand-great-music-3rd-edition",
   title: "How to Listen to and Understand Great Music, 3rd Edition",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 2190,
   ownProgress: 91.25,
   partOfCollections: ["all-great-courses", "music-great-courses"],

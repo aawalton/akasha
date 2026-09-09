@@ -6,7 +6,7 @@ export const greatScientificIdeasThatChangedTheWorld = {
   slug: "great-scientific-ideas-that-changed-the-world",
   title: "Great Scientific Ideas That Changed the World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1150.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

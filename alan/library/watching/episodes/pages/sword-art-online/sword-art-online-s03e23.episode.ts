@@ -9,7 +9,7 @@ export const swordArtOnlineS03e23 = {
     "Cardinal appears on the top floor of Central Cathedral for a showdown with her bitter foe of the last two hundred years. She moves to achieve her objective of deleting Administrator, only to see the fallen sword golem rise up again.",
   position: 23,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-24",
   episodeType: "standard",

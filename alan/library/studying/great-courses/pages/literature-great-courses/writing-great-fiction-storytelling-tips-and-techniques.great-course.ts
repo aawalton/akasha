@@ -6,7 +6,7 @@ export const writingGreatFictionStorytellingTipsAndTechniques = {
   slug: "writing-great-fiction-storytelling-tips-and-techniques",
   title: "Writing Great Fiction: Storytelling Tips and Techniques",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 737.4,
   ownProgress: 61.45,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

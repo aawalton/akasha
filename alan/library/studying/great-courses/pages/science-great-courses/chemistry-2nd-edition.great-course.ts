@@ -6,7 +6,7 @@ export const chemistry2ndEdition = {
   slug: "chemistry-2nd-edition",
   title: "Chemistry, 2nd Edition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1092.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

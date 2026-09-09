@@ -7,7 +7,7 @@ export const pilotLectureHajjAndUmrahPilgrimageToMecca = {
   title: "Pilot Lecture: Hajj and Umrah - Pilgrimage to Mecca",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

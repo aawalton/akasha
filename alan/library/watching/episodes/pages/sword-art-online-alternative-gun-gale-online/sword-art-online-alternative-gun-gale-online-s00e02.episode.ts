@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00e02 = {
     'To commemorate the broadcast of the second season, we will be releasing episode 12.5. Please enjoy the narration by Eva, Sophie, and Tanya, as well as the ending song "Replica".',
   position: 2,
   ownLength: 24,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s00"],
   publishedAt: "2024-09-27",
   episodeType: "standard",

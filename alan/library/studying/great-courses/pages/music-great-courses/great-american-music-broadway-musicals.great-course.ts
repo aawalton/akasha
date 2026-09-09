@@ -6,7 +6,7 @@ export const greatAmericanMusicBroadwayMusicals = {
   slug: "great-american-music-broadway-musicals",
   title: "Great American Music: Broadway Musicals",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 16,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

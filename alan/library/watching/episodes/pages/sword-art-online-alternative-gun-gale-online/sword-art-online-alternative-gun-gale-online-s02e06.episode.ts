@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e06 = {
     "LLENN and her comrades head to the center of the island, where they find the luxury cruise ship. As the island continues to sink, they must get on board. However, they can’t carelessly approach the vessel as BTRY awaits them onboard.",
   position: 6,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-11-09",
   episodeType: "standard",

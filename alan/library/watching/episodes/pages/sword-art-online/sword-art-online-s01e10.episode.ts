@@ -9,7 +9,7 @@ export const swordArtOnlineS01e10 = {
     "Kirito has agreed to a duel with the head of the Blood Alliance Knights.  If Kirito wins, Asuna is free to leave the Knights and if he loses…",
   position: 10,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-09-09",
   episodeType: "standard",

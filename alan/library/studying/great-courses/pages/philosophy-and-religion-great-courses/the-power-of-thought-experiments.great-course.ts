@@ -6,7 +6,7 @@ export const thePowerOfThoughtExperiments = {
   slug: "the-power-of-thought-experiments",
   title: "The Power of Thought Experiments",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 714,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

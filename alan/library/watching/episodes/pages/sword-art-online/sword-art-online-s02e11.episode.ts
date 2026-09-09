@@ -9,7 +9,7 @@ export const swordArtOnlineS02e11 = {
     "After escaping from Death Gun, Kirito and Sinon lay low in a desert cave. There, Kirito speculates on how Death Gun murdered other players. In doing so, he hits upon a certain terrifying possibility.",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-09-13",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const plantScienceAnIntroductionToBotany = {
   slug: "plant-science-an-introduction-to-botany",
   title: "Plant Science: An Introduction to Botany",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

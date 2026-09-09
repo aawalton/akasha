@@ -9,7 +9,7 @@ export const swordArtOnlineS03e03 = {
     "Kirito makes up his mind to journey to Centoria. Since he'll need Eugeo's help, he also decides to fell the Gigas Cedar. Meanwhile, Alice's little sister, Selka is worried about Eugeo, and opens up to Kirito about her concerns.",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-10-21",
   episodeType: "standard",

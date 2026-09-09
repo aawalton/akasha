@@ -9,7 +9,7 @@ export const swordArtOnlineS00e03 = {
     "This edition feature the highlights of episodes 6, 7, and 8 with Lisbeth as the special guest.",
   position: 3,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2012-12-26",
   episodeType: "standard",

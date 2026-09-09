@@ -6,7 +6,7 @@ export const myFavoriteUniverse = {
   slug: "my-favorite-universe",
   title: "My Favorite Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 388.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

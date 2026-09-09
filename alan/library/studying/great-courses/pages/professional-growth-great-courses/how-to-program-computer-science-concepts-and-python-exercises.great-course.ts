@@ -6,7 +6,7 @@ export const howToProgramComputerScienceConceptsAndPythonExercises = {
   slug: "how-to-program-computer-science-concepts-and-python-exercises",
   title: "How to Program: Computer Science Concepts and Python Exercises",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 761.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

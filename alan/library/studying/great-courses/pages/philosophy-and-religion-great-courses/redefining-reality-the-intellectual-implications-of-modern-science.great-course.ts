@@ -6,7 +6,7 @@ export const redefiningRealityTheIntellectualImplicationsOfModernScience = {
   slug: "redefining-reality-the-intellectual-implications-of-modern-science",
   title: "Redefining Reality: The Intellectual Implications of Modern Science",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1089.6,
   ownProgress: 0,
   partOfCollections: [

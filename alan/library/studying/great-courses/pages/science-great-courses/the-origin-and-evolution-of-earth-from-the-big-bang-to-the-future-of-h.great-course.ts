@@ -6,7 +6,7 @@ export const theOriginAndEvolutionOfEarthFromTheBigBangToTheFutureOfH = {
   slug: "the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-h",
   title: "The Origin and Evolution of Earth: From the Big Bang to the Future of Human Existence",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1521,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

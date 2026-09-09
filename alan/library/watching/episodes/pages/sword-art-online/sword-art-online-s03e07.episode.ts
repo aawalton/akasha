@@ -9,7 +9,7 @@ export const swordArtOnlineS03e07 = {
     "Two years have gone by since Kirito and Eugeo left Rulid Village. In the capital city, Centoria, both boys have attained their goal of being admitted to the North Centoria Imperial Swordcraft Academy.",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-11-18",
   episodeType: "standard",

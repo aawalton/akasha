@@ -6,7 +6,7 @@ export const everydayEngineeringUnderstandingTheMarvelsOfDailyLife = {
   slug: "everyday-engineering-understanding-the-marvels-of-daily-life",
   title: "Everyday Engineering: Understanding the Marvels of Daily Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1132.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

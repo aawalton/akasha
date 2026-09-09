@@ -7,7 +7,7 @@ export const theWondersOfAmericaSStateParks = {
   title: "The Wonders of America's State Parks",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 634.8,
   ownProgress: 634.8,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

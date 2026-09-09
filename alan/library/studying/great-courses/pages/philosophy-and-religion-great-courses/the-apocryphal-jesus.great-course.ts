@@ -6,7 +6,7 @@ export const theApocryphalJesus = {
   slug: "the-apocryphal-jesus",
   title: "The Apocryphal Jesus",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

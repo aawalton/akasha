@@ -6,7 +6,7 @@ export const williamShakespeareComediesHistoriesAndTragedies = {
   slug: "william-shakespeare-comedies-histories-and-tragedies",
   title: "William Shakespeare: Comedies, Histories, and Tragedies",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1093.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

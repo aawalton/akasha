@@ -6,7 +6,7 @@ export const theShapeOfNature = {
   slug: "the-shape-of-nature",
   title: "The Shape of Nature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1119.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const unsolvedMedicalMysteriesExplainingTheUnexplainable = {
   slug: "unsolved-medical-mysteries-explaining-the-unexplainable",
   title: "Unsolved Medical Mysteries: Explaining the Unexplainable",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 355.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

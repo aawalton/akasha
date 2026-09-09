@@ -7,7 +7,7 @@ export const theHistoryOfChristmasConcertMusic = {
   title: "The History of Christmas Concert Music",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 42,
   ownProgress: 42,
   partOfCollections: ["all-great-courses", "music-great-courses"],

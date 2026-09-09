@@ -9,7 +9,7 @@ export const swordArtOnlineS01e13 = {
     "While enjoying a fishing tournment Kirito receieves an urgent e-mail from the leader of the guild requesting their return.",
   position: 13,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-09-30",
   episodeType: "standard",

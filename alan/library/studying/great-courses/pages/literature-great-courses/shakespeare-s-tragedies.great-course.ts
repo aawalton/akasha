@@ -6,7 +6,7 @@ export const shakespeareSTragedies = {
   slug: "shakespeare-s-tragedies",
   title: "Shakespeare's Tragedies",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 831,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

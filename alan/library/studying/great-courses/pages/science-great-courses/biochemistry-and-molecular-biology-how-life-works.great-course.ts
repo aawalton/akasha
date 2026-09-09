@@ -6,7 +6,7 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
   slug: "biochemistry-and-molecular-biology-how-life-works",
   title: "Biochemistry and Molecular Biology: How Life Works",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1106.4,
   ownProgress: 61.466667,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS04e03 = {
     "The mysterious group that attacked the Ocean Turtle turns out to be a secret unit under orders from the U.S. National Security Agency. And its leader, Gabriel, has battled Kirito and Sinon before.",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-10-27",
   episodeType: "standard",

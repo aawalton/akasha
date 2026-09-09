@@ -7,7 +7,7 @@ export const bobKristSOffTheBeatenPath = {
   title: "Bob Krist’s Off the Beaten Path",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 232.2,
   ownProgress: 232.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

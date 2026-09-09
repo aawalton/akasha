@@ -9,7 +9,7 @@ export const swordArtOnlineS04e02 = {
     "A force from the Dark Territory is attacking Rulid Village. Though she’d lost her purpose in battle, in order to fight for her family, and for the people that Kirito and Eugeo tried to protect, Alice takes up the Osmanthus Blade once again!",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-10-20",
   episodeType: "standard",

@@ -7,7 +7,7 @@ export const pilotLectureATourOfTokyoSGinzaDistrict = {
   title: "Pilot Lecture: A Tour of Tokyo’s Ginza District",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

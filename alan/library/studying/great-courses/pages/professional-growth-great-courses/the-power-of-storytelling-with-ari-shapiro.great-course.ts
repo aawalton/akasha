@@ -6,7 +6,7 @@ export const thePowerOfStorytellingWithAriShapiro = {
   slug: "the-power-of-storytelling-with-ari-shapiro",
   title: "The Power of Storytelling with Ari Shapiro",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 379.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

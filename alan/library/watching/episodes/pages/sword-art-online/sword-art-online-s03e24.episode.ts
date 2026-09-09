@@ -9,7 +9,7 @@ export const swordArtOnlineS03e24 = {
     "Carrying the hopes of Cardinal, Eugeo, and Alice in his heart, Kirito stands yet again and visualizes the Black Swordsman, the top player who cleared SAO. For the sake of everyone he’s encountered in this world, Kirito, faces off with Administrator.",
   position: 24,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-31",
   episodeType: "finale",

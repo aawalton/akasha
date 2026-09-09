@@ -6,7 +6,7 @@ export const physicsAndOurUniverse = {
   slug: "physics-and-our-universe",
   title: "Physics and Our Universe",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1830.6,
   ownProgress: 91.53,
   partOfCollections: ["all-great-courses", "mathematics-great-courses", "science-great-courses"],

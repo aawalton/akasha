@@ -9,7 +9,7 @@ export const swordArtOnlineS03e09 = {
     "Now an Elite Disciple along with Kirito, Eugeo struggles with the question of what he should infuse in his sword so he can become stronger. When he's taunted by First-Seat Elite Disciple Raios and Second-Seat Humbert, Eugeo decides to accept Humbert's request for a duel.",
   position: 9,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-12-02",
   episodeType: "standard",

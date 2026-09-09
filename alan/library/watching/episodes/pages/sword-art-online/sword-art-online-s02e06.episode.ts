@@ -9,7 +9,7 @@ export const swordArtOnlineS02e06 = {
     "A man in a beat-up cloak watches Kirito fight his first battle and demands to know if he's \"the real thing\".  The man has the tattoo of Laughing Coffin, a murderer's guild that existed within SAO.  He tells Kirito that he'll kill him someday, and vanishes.",
   position: 6,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-08-09",
   episodeType: "standard",

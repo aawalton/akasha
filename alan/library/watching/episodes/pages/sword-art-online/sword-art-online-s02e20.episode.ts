@@ -9,7 +9,7 @@ export const swordArtOnlineS02e20 = {
     "Asuna is asked to help the guild “Sleeping Knights,” which has decided to disband soon due to the members’ circumstances. Before they do, they want to defeat a Floor Boss with only their party.",
   position: 20,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-11-22",
   episodeType: "standard",

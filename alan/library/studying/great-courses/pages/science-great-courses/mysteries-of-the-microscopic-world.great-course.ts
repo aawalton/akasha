@@ -6,7 +6,7 @@ export const mysteriesOfTheMicroscopicWorld = {
   slug: "mysteries-of-the-microscopic-world",
   title: "Mysteries of the Microscopic World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 712.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

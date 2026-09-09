@@ -6,7 +6,7 @@ export const greatPianoWorksExplained = {
   slug: "great-piano-works-explained",
   title: "Great Piano Works Explained",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 795,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

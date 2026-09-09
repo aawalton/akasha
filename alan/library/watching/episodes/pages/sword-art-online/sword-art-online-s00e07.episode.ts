@@ -9,7 +9,7 @@ export const swordArtOnlineS00e07 = {
     "This edition highlights 17, 18, and 19 with Yui once again the special guest. Oberon substituted Yui as trivia guide in this episode.",
   position: 7,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2013-04-24",
   episodeType: "standard",

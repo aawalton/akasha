@@ -6,7 +6,7 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   slug: "philosophy-of-mind-brains-consciousness-and-thinking-machines",
   title: "Philosophy of Mind: Brains, Consciousness, and Thinking Machines",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 745.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

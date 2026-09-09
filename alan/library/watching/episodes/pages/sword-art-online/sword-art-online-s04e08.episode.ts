@@ -9,7 +9,7 @@ export const swordArtOnlineS04e08 = {
     'The powerful formal art unleashed by the Integrity Knight Alice inflicts severe casualties on the forces of darkness. Alice encounters an enemy survivor and learns that Emperor Vecta\'s objective is to find the "Priestess of Light."',
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-12-01",
   episodeType: "standard",

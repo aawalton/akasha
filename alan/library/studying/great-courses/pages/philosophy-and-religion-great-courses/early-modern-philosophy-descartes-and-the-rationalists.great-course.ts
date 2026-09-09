@@ -6,7 +6,7 @@ export const earlyModernPhilosophyDescartesAndTheRationalists = {
   slug: "early-modern-philosophy-descartes-and-the-rationalists",
   title: "Early Modern Philosophy: Descartes and the Rationalists",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 375.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS00e04 = {
     "This edition highlights episode 9, 10, and 11 with Yui as the special guest. Heathcliff substitutes Yui as trivia guide in this episode.",
   position: 4,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2013-01-23",
   episodeType: "standard",

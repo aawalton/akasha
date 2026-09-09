@@ -9,7 +9,7 @@ export const swordArtOnlineS00e05 = {
     "This edition highlights episode 12, 13, and 14 with Heathcliff as the special guest.",
   position: 5,
   ownLength: 12,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2013-02-27",
   episodeType: "standard",

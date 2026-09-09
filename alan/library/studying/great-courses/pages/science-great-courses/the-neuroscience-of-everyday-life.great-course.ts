@@ -6,7 +6,7 @@ export const theNeuroscienceOfEverydayLife = {
   slug: "the-neuroscience-of-everyday-life",
   title: "The Neuroscience of Everyday Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1081.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

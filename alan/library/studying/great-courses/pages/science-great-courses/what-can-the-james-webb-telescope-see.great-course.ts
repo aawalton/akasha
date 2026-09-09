@@ -7,7 +7,7 @@ export const whatCanTheJamesWebbTelescopeSee = {
   title: "What Can the James Webb Telescope See?",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 47.4,
   ownProgress: 47.4,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const theJoyOfMathematics = {
   slug: "the-joy-of-mathematics",
   title: "The Joy of Mathematics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

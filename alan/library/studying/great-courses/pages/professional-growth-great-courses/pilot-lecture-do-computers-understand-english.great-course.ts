@@ -7,7 +7,7 @@ export const pilotLectureDoComputersUnderstandEnglish = {
   title: "Pilot Lecture: Do Computers Understand English?",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

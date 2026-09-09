@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e12 = {
     "At last, it’s the finale of the Second Squad Jam. LLENN and Pitohui’s one-on-one combat has begun. How will their fight end? Who will win the Second Squad Jam? And will LLENN be able to save Pitohui’s life?",
   position: 12,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-07-01",
   episodeType: "finale",

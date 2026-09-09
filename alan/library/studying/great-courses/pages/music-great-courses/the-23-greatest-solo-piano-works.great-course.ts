@@ -6,7 +6,7 @@ export const the23GreatestSoloPianoWorks = {
   slug: "the-23-greatest-solo-piano-works",
   title: "The 23 Greatest Solo Piano Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1169.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

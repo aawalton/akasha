@@ -6,7 +6,7 @@ export const searchingForPeopleAndPlacesOfTheBible = {
   slug: "searching-for-people-and-places-of-the-bible",
   title: "Searching for People and Places of the Bible",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 480,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

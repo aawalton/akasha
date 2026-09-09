@@ -7,7 +7,7 @@ export const theGreatToursIrelandAndNorthernIreland = {
   title: "The Great Tours: Ireland and Northern Ireland",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753.6,
   ownProgress: 753.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

@@ -6,7 +6,7 @@ export const theArtOfTeachingBestPracticesFromAMasterEducator = {
   slug: "the-art-of-teaching-best-practices-from-a-master-educator",
   title: "The Art of Teaching: Best Practices from a Master Educator",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738.6,
   ownProgress: 0,
   partOfCollections: [

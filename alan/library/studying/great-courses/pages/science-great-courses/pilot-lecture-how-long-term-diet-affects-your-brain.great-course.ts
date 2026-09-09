@@ -7,7 +7,7 @@ export const pilotLectureHowLongTermDietAffectsYourBrain = {
   title: "Pilot Lecture: How Long-Term Diet Affects Your Brain",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

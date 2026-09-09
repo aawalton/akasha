@@ -7,7 +7,7 @@ export const pilotLectureHowToUseProbabilityToWinGamesOfStrategy = {
   title: "Pilot Lecture: How to Use Probability to Win Games of Strategy",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

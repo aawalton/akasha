@@ -9,7 +9,7 @@ export const swordArtOnlineS00e11 = {
     "Blu-ray/DVD extra with Suguha, Asuna and Kirito commenting on Sword Art Online: Extra Edition. Also stars Yui.",
   position: 11,
   ownLength: 13,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2014-04-23",
   episodeType: "standard",

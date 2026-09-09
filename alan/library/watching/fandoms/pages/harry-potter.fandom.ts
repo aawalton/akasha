@@ -9,7 +9,7 @@ export const harryPotter = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "paused",
   rank: "B",
 } as const satisfies Fandom

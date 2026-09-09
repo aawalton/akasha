@@ -7,7 +7,7 @@ export const theGreatToursWashingtonDc = {
   title: "The Great Tours: Washington DC",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 994.2,
   ownProgress: 994.2,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS03e19 = {
     "Seeing Alice’s reaction when he mentioned the name Selka, Kirito decides to tell her the truth about the Integrity Knights. Meanwhile, after being knocked unconscious during his battle with Bercouli, Eugeo awakes on the top floor of the cathedral.",
   position: 19,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-02-24",
   episodeType: "standard",

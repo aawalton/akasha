@@ -6,7 +6,7 @@ export const integratingPhotoshopAndLightroom = {
   slug: "integrating-photoshop-and-lightroom",
   title: "Integrating Photoshop and Lightroom",
   status: "archived",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 87,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

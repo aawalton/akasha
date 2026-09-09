@@ -6,7 +6,7 @@ export const howTheWorldLearnsComparativeEducationalSystems = {
   slug: "how-the-world-learns-comparative-educational-systems",
   title: "How the World Learns: Comparative Educational Systems",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 741,
   ownProgress: 0,
   partOfCollections: [

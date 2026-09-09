@@ -6,7 +6,7 @@ export const howTheEarthWorks = {
   slug: "how-the-earth-works",
   title: "How the Earth Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1481.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

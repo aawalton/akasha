@@ -6,7 +6,7 @@ export const quantumMechanicsThePhysicsOfTheMicroscopicWorld = {
   slug: "quantum-mechanics-the-physics-of-the-microscopic-world",
   title: "Quantum Mechanics: The Physics of the Microscopic World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

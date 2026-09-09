@@ -9,7 +9,7 @@ export const swordArtOnlineS01e01 = {
     'It\'s launch day for one of the most highly-anticipated video games of all time. Join the character "Kirito" as he begins his journey in the virtual world of Sword Art Online.',
   position: 1,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-07-08",
   episodeType: "standard",

@@ -9,7 +9,7 @@ export const swordArtOnlineS01e05 = {
     "A player has been killed inside a safe zone and not by the known means.  Asuna and Krito take it upon themselves to find out how and why this is happening.",
   position: 5,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-08-05",
   episodeType: "standard",

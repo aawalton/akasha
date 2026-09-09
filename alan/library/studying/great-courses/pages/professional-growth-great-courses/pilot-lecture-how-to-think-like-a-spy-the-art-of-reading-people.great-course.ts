@@ -7,7 +7,7 @@ export const pilotLectureHowToThinkLikeASpyTheArtOfReadingPeople = {
   title: "Pilot Lecture: How to Think like a Spy: The Art of Reading People",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

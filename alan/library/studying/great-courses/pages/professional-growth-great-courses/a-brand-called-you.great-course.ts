@@ -7,7 +7,7 @@ export const aBrandCalledYou = {
   title: "A Brand Called You",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 287.4,
   ownProgress: 287.4,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

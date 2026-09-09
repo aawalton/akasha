@@ -6,7 +6,7 @@ export const understandingTheScienceForTomorrowMythAndReality = {
   slug: "understanding-the-science-for-tomorrow-myth-and-reality",
   title: "Understanding the Science for Tomorrow: Myth and Reality",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 713.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

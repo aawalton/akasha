@@ -6,7 +6,7 @@ export const theoryOfEvolutionAHistoryOfControversy = {
   slug: "theory-of-evolution-a-history-of-controversy",
   title: "Theory of Evolution: A History of Controversy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS04e12 = {
     "Due to Gabriel's scheme, U.S. players were given black knight accounts, and are now continuously logging in to the Underworld. They begin mercilessly slaughtering soldiers from both the Human Empire Army and the Dark Territory Army.",
   position: 12,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-12-29",
   episodeType: "mid-season",

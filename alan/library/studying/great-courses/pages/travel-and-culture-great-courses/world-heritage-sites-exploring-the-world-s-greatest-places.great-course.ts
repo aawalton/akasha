@@ -7,7 +7,7 @@ export const worldHeritageSitesExploringTheWorldSGreatestPlaces = {
   title: "World Heritage Sites: Exploring the World’s Greatest Places",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 714.6,
   ownProgress: 714.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

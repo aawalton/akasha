@@ -9,7 +9,7 @@ export const swordArtOnlineS01e20 = {
     "Kirito and Leafa have made it to the meeting and Kirito’s bluff as an ambassador has been called out.  If he can survive in a fight against the Salamanders General Eugene, his plan to prevent a war might work.",
   position: 20,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-11-18",
   episodeType: "standard",

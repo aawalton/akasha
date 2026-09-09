@@ -6,7 +6,7 @@ export const mathematicalBrainTeasersAndLogicPuzzles = {
   slug: "mathematical-brain-teasers-and-logic-puzzles",
   title: "Mathematical Brain Teasers and Logic Puzzles",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 309,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "mathematics-great-courses"],

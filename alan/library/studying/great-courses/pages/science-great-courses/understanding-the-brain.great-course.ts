@@ -6,7 +6,7 @@ export const understandingTheBrain = {
   slug: "understanding-the-brain",
   title: "Understanding the Brain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1122,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

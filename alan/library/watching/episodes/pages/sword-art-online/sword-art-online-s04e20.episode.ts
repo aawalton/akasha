@@ -9,7 +9,7 @@ export const swordArtOnlineS04e20 = {
     "Alice and Asuna head to the World’s End Altar as Kirito confronts Gabriel. Unless he can defeat Gabriel and return to the real world before the maximum-acceleration phase begins, Kirito will have to spend the next 200 years in the Underworld.",
   position: 20,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-30",
   episodeType: "standard",

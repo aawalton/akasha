@@ -9,7 +9,7 @@ export const swordArtOnlineS03e05 = {
     "In the real world, Kazuto Kirigaya lies unconscious. At Kikuoka’s request, Kazuto is moved to a well-equipped hospital, but when Asuna and Suguha try to visit, they’re turned away. Suspicious, Asuna and the others split up to find out more about Rath.",
   position: 5,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-11-04",
   episodeType: "standard",

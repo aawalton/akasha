@@ -6,7 +6,7 @@ export const theLifeAndDeathOfStars = {
   slug: "the-life-and-death-of-stars",
   title: "The Life and Death of Stars",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 715.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

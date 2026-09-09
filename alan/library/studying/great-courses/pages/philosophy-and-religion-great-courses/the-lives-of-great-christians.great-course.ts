@@ -6,7 +6,7 @@ export const theLivesOfGreatChristians = {
   slug: "the-lives-of-great-christians",
   title: "The Lives of Great Christians",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

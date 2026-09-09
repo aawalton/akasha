@@ -6,7 +6,7 @@ export const pilotLectureHowToSpotALiar = {
   slug: "pilot-lecture-how-to-spot-a-liar",
   title: "Pilot Lecture: How to Spot a Liar",
   status: "completed",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

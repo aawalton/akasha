@@ -7,7 +7,7 @@ export const pilotLectureHowDoWeMakeAiMoreIntelligent = {
   title: "Pilot Lecture: How Do We Make AI More Intelligent?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

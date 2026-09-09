@@ -9,7 +9,7 @@ export const swordArtOnlineS02e03 = {
     "In real life, the player Sinon is a high school student named Shino Asada. On her way home from school, she’s dragged into an alley by delinquent girls. Their leader, Endo, tries to extort money from Shino, but she bravely refuses.",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-07-19",
   episodeType: "standard",

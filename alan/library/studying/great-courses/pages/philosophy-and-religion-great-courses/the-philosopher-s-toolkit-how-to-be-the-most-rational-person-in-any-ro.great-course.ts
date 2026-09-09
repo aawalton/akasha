@@ -6,7 +6,7 @@ export const thePhilosopherSToolkitHowToBeTheMostRationalPersonInAnyRo = {
   slug: "the-philosopher-s-toolkit-how-to-be-the-most-rational-person-in-any-ro",
   title: "The Philosopher's Toolkit: How to Be the Most Rational Person in Any Room",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 724.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const virtualVenice = {
   title: "Virtual Venice",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 39.6,
   ownProgress: 39.6,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

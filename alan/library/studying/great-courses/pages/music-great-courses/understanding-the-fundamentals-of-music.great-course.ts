@@ -6,7 +6,7 @@ export const understandingTheFundamentalsOfMusic = {
   slug: "understanding-the-fundamentals-of-music",
   title: "Understanding the Fundamentals of Music",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 730.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

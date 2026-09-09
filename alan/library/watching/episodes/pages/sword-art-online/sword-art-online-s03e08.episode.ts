@@ -9,7 +9,7 @@ export const swordArtOnlineS03e08 = {
     "Kirito finds himself in a duel against the Elite Disciple Volo Levantein, using real swords. As the curious crowd looks on, Kirito is encouraged by Sortiliena, and the duel begins.",
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-11-25",
   episodeType: "standard",

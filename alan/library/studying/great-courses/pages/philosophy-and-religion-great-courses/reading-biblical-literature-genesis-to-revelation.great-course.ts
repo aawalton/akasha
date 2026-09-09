@@ -6,7 +6,7 @@ export const readingBiblicalLiteratureGenesisToRevelation = {
   slug: "reading-biblical-literature-genesis-to-revelation",
   title: "Reading Biblical Literature: Genesis to Revelation",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1111.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

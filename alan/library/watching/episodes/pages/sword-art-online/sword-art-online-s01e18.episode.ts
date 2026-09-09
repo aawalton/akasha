@@ -9,7 +9,7 @@ export const swordArtOnlineS01e18 = {
     "Leafa is making enemies leaving her area and group to team up with Kirito. On their way to neutral Territory, they speak more of the rules and areas of the ALO.",
   position: 18,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-11-04",
   episodeType: "standard",

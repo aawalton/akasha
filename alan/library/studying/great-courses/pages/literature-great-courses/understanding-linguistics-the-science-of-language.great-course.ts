@@ -6,7 +6,7 @@ export const understandingLinguisticsTheScienceOfLanguage = {
   slug: "understanding-linguistics-the-science-of-language",
   title: "Understanding Linguistics: The Science of Language",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1085.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

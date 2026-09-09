@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e11 = {
     "NPCs barricade themselves in a castle and easily wipe out MMTM and SHINC with power beyond anybody's imagination. ZEMAL subsequently tries to enter the castle with a sign that says, \"We’re not your enemy; let us into the castle!\" They fail as Pitohui sabotages them. LPFM's drone, considered the jewel in their operations, gets shot down by NPC attacks. Pitohui suggests everyone from the other teams cooperate in a coordinated attack. They attack the castle with T-S, ZEMAL, MMTM, and SHINC!",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-12-14",
   episodeType: "standard",

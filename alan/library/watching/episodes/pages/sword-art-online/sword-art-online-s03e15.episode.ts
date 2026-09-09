@@ -9,7 +9,7 @@ export const swordArtOnlineS03e15 = {
     "Kirito and Eugeo are on their way up the stairs of the Central Cathedral when they encounter two girls named Linel and Fizel. As they stand, wondering what two children are doing there, they let their guard down and...",
   position: 15,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-01-20",
   episodeType: "standard",

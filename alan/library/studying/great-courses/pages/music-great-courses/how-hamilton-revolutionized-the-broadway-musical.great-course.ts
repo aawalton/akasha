@@ -7,7 +7,7 @@ export const howHamiltonRevolutionizedTheBroadwayMusical = {
   title: "How Hamilton Revolutionized the Broadway Musical",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12.6,
   ownProgress: 12.6,
   partOfCollections: ["all-great-courses", "music-great-courses"],

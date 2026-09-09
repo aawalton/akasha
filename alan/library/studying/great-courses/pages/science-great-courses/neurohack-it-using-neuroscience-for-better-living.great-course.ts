@@ -6,7 +6,7 @@ export const neurohackItUsingNeuroscienceForBetterLiving = {
   slug: "neurohack-it-using-neuroscience-for-better-living",
   title: "Neurohack It: Using Neuroscience for Better Living",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

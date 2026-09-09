@@ -6,7 +6,7 @@ export const lighting101 = {
   slug: "lighting-101",
   title: "Lighting 101",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 533.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

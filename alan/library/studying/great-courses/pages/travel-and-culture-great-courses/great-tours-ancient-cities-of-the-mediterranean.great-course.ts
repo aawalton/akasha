@@ -7,7 +7,7 @@ export const greatToursAncientCitiesOfTheMediterranean = {
   title: "Great Tours: Ancient Cities of the Mediterranean",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 701.4,
   ownProgress: 701.4,
   partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],

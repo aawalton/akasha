@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e04 = {
     "Almost one hour has passed since the team battle royale, Squad Jam, began. LLENN and M are still going strong on the battlefield. Being in a favorable situation, LLENN lowers her guard, which is when an enemy team launches a surprise attack.",
   position: 4,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-04-29",
   episodeType: "standard",

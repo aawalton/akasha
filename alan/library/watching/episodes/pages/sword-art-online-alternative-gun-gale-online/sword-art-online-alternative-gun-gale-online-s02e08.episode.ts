@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e08 = {
     'It turns out the true "betrayer" from LPFM was LLENN. Pitohui lied, saying she was the betrayer to fight LLENN with all her power. LLENN becomes outraged as she learns the truth and declares she wants to defeat Pitohui.',
   position: 8,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-11-23",
   episodeType: "standard",

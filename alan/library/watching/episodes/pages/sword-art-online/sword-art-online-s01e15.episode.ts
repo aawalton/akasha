@@ -9,7 +9,7 @@ export const swordArtOnlineS01e15 = {
     "Kirigaya is adjusting to his life outside of the game, but he hasn't forgotten about Asuna. A recent visit to her in the hospital, he meets Sugou Nobuyuki.",
   position: 15,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-10-14",
   episodeType: "standard",

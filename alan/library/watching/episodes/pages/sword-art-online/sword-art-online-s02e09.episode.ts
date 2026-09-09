@@ -9,7 +9,7 @@ export const swordArtOnlineS02e09 = {
     "The man in the cape shoots Pale Rider and he is eliminated despite the fact that he has HP remaining.  The man says that he is Death Gun, and declares that he will bring true death.  Asuna and her friends are watching a live stream of BoB and realize that Death Gun is one of the leaders of Laughing Coffin.",
   position: 9,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-08-30",
   episodeType: "standard",

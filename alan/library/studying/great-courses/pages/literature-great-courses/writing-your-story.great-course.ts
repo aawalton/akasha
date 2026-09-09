@@ -6,7 +6,7 @@ export const writingYourStory = {
   slug: "writing-your-story",
   title: "Writing Your Story",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 319.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

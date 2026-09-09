@@ -6,7 +6,7 @@ export const thePowerOfBodyLanguage = {
   slug: "the-power-of-body-language",
   title: "The Power of Body Language",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 931.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],

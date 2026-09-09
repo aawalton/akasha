@@ -9,7 +9,7 @@ export const swordArtOnlineS03e02 = {
     "Kirito wakes up to find himself inside a mysterious world evoking a fantasy game. His memory fuzzy, he tries to log out, but is unable to return to the real world. After wandering aimlessly, he finds himself underneath a colossal tree.",
   position: 2,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2018-10-14",
   episodeType: "standard",

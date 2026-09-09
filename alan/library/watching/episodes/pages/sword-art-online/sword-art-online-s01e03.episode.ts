@@ -9,7 +9,7 @@ export const swordArtOnlineS01e03 = {
     "Kirito has finally joined a guild made up of close friends in reality.  Everything is going well until a tragic accident changes Kirito completely.",
   position: 3,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-07-22",
   episodeType: "standard",

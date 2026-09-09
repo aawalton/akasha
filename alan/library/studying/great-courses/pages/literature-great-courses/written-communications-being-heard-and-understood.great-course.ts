@@ -6,7 +6,7 @@ export const writtenCommunicationsBeingHeardAndUnderstood = {
   slug: "written-communications-being-heard-and-understood",
   title: "Written Communications: Being Heard and Understood",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 383.4,
   ownProgress: 0,
   partOfCollections: [

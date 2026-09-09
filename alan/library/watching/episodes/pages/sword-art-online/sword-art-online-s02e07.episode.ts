@@ -9,7 +9,7 @@ export const swordArtOnlineS02e07 = {
     "The man in the ragged cloak is an SAO survivor, and he might also be a player Kirito fought with to the death... This thought consumes Kirito, and his anguish is palpable - to the point that it worries Suguha.",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-08-16",
   episodeType: "standard",

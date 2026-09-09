@@ -7,7 +7,7 @@ export const booksThatMatterTheCityOfGod = {
   title: "Books That Matter: The City of God",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 766.8,
   ownProgress: 766.8,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

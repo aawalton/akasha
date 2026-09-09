@@ -6,7 +6,7 @@ export const greatWorldReligionsIslam = {
   slug: "great-world-religions-islam",
   title: "Great World Religions: Islam",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 367.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

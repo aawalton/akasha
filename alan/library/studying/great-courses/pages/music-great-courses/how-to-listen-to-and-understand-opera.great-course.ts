@@ -6,7 +6,7 @@ export const howToListenToAndUnderstandOpera = {
   slug: "how-to-listen-to-and-understand-opera",
   title: "How to Listen to and Understand Opera",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1464.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "music-great-courses"],

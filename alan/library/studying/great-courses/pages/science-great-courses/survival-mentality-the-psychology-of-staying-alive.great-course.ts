@@ -6,7 +6,7 @@ export const survivalMentalityThePsychologyOfStayingAlive = {
   slug: "survival-mentality-the-psychology-of-staying-alive",
   title: "Survival Mentality: The Psychology of Staying Alive",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 360.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "science-great-courses"],

@@ -9,7 +9,7 @@ export const swordArtOnlineS00e24 = {
     "Recap of Sword Art Online: Alicization, aired one week before Sword Art Online: Alicization - War of Underworld.",
   position: 24,
   ownLength: 24,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s00"],
   publishedAt: "2019-10-06",
   episodeType: "standard",

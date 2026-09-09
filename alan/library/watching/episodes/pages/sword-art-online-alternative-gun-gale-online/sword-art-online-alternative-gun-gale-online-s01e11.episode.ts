@@ -9,7 +9,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS01e11 = {
     "The climax of the second Squad Jam begins. With the defeated rival team members and the audience watching, the confrontation between Llenn, Pitohui and M starts.",
   position: 11,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-alternative-gun-gale-online-s01"],
   publishedAt: "2018-06-24",
   episodeType: "standard",

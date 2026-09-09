@@ -9,7 +9,7 @@ export const swordArtOnlineS02e19 = {
     "Hearing rumors about a brilliant player known as Zekken, Asuna decides to mount a challenge. But when Asuna logs out, she is told by her mother to take an exam to transfer into an academically oriented high school.",
   position: 19,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-11-15",
   episodeType: "standard",

@@ -6,7 +6,7 @@ export const sciPhiScienceFictionAsPhilosophy = {
   slug: "sci-phi-science-fiction-as-philosophy",
   title: "Sci-Phi: Science Fiction as Philosophy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 823.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "philosophy-and-religion-great-courses"],

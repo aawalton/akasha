@@ -7,7 +7,7 @@ export const pilotLectureTheRiseOfNewtonianPhysics = {
   title: "Pilot Lecture: The Rise of Newtonian Physics",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 22.2,
   ownProgress: 22.2,
   partOfCollections: ["all-great-courses", "science-great-courses"],

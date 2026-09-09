@@ -9,7 +9,7 @@ export const swordArtOnlineS04e07 = {
     "Integrity Knight Renly Synthesis Twenty-Seven, in battle for the first time, flees his position, allowing goblins from the forces of darkness to infiltrate to the tent where Kirito is.",
   position: 7,
   ownLength: 23,
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2019-11-24",
   episodeType: "standard",

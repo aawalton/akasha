@@ -6,7 +6,7 @@ export const fundamentalsOfDslrFilmmaking = {
   slug: "fundamentals-of-dslr-filmmaking",
   title: "Fundamentals of DSLR Filmmaking",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 838.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "professional-growth-great-courses"],
