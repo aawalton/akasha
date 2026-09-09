@@ -578,7 +578,7 @@
         "vite": "^8.0.3",
       },
     },
-    "browser/browser-commands": {
+    "browser/commands": {
       "name": "@akasha/browser-commands",
       "dependencies": {
         "@akasha/browser-test-harness": "workspace:*",
@@ -2945,7 +2945,7 @@
 
     "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:alan/library/book-of-everything/commands"],
 
-    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:browser/browser-commands"],
+    "@akasha/browser-commands": ["@akasha/browser-commands@workspace:browser/commands"],
 
     "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:browser/launch-env"],
 

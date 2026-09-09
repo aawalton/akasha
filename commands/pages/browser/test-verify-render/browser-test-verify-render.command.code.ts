@@ -23,7 +23,7 @@ import {
   countIn,
   missingOf,
   wordsIn,
-} from "../../../../browser/browser-commands/browser-command-arguing/browser-command-arguing.module.code.ts"
+} from "../../../../browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
 import {
   classifyExpectedText,
   decideDiscriminatingSignal,
@@ -31,7 +31,7 @@ import {
   planRenderSettleWait,
   planTitleSettleWait,
   planVerifyRenderSession,
-} from "../../../../browser/browser-commands/verify-render-plan/verify-render-plan.module.code.ts"
+} from "../../../../browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
 
 const URL_SAID = "--url"
 
