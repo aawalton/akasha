@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0209Chapter27ABondUnlikeAnyOther = {
   id: "01a06731-ad75-7008-9825-b2451d4f2fd4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0209-chapter-27-a-bond-unlike-any-other",
   title: "Chapter 27: A Bond Unlike Any Other",
   story: "labyrinth-of-the-mad-god",

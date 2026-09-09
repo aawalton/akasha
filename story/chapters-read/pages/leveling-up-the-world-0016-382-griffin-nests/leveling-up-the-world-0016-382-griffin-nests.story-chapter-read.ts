@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0016382GriffinNests = {
   id: "01a06731-ae8e-7001-bb24-c21919f03089",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0016-382-griffin-nests",
   title: "382. Griffin Nests",
   story: "story-read/leveling-up-the-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0304Chapter23DevinsQuest = {
   id: "01a06731-ad88-7001-96c4-3e2b2bc52919",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0304-chapter-23-devins-quest",
   title: "Chapter 23: Devin’s Quest",
   story: "labyrinth-of-the-mad-god",

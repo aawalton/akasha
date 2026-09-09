@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0044Chapter15SpecimenRefinement = {
   id: "01a0672c-eb70-700c-88ad-8c364ad69f56",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0044-chapter-15-specimen-refinement",
   title: "Chapter 15: Specimen Refinement",
   story: "labyrinth-of-the-mad-god",

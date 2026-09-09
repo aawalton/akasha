@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   id: "01a06731-ad8d-7007-ab7c-574df97c9dfd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0336-chapter-55-the-music-of-childrens-voices",
   title: "Chapter 55: The Music of Children’s Voices",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0053Chapter22IntermissionSophiaAndDevin = {
   id: "01a0672c-eb70-7015-8d59-c9bcdfd3ab0a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0053-chapter-22-intermission-sophia-and-devin",
   title: "Chapter 22: Intermission: Sophia and Devin",
   story: "labyrinth-of-the-mad-god",

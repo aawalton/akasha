@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0117Chapter76RapidProgress = {
   id: "01a0672c-eb75-7011-9f64-fa357571c8d4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0117-chapter-76-rapid-progress",
   title: "Chapter 76: Rapid Progress",
   story: "labyrinth-of-the-mad-god",

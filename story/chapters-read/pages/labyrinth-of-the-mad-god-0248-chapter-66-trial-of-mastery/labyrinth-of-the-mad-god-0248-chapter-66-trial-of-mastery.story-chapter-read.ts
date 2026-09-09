@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0248Chapter66TrialOfMastery = {
   id: "01a06731-ad7c-7006-8b98-d8e161ede8c7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0248-chapter-66-trial-of-mastery",
   title: "Chapter 66: Trial of Mastery",
   story: "labyrinth-of-the-mad-god",

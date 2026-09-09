@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0008174OldComplications = {
   id: "01a06731-ae8a-7001-ab86-bf96cee281f3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0008-174-old-complications",
   title: "174. Old Complications",
   story: "story-read/leveling-up-the-world",

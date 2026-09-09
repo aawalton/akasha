@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0104ConceptArt1955064 = {
   id: "01a0672c-eb75-7004-b8c1-22bc363055c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0104-concept-art-1955064",
   title: "Concept Art",
   story: "labyrinth-of-the-mad-god",

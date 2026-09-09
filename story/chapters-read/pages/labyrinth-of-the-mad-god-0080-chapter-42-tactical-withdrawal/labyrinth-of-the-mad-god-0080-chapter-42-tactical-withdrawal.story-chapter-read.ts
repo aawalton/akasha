@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   id: "01a0672c-eb72-7002-892d-5c556ec99b85",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0080-chapter-42-tactical-withdrawal",
   title: "Chapter 42: Tactical Withdrawal",
   story: "labyrinth-of-the-mad-god",

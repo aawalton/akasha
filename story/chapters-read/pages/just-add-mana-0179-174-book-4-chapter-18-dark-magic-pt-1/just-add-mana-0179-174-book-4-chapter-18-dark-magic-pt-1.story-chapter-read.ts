@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0179174Book4Chapter18DarkMagicPt1 = {
   id: "01a06731-ae84-7000-89b2-337ef5bb0929",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0179-174-book-4-chapter-18-dark-magic-pt-1",
   title: "174 — Book 4, Chapter 18 — Dark Magic, Pt 1",
   story: "just-add-mana",

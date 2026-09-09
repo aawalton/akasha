@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0149Chapter108AFamiliarVoice = {
   id: "01a06731-ad63-700b-b197-de0abab4d215",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0149-chapter-108-a-familiar-voice",
   title: "Chapter 108: A Familiar Voice",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   id: "01a06731-ad7b-7000-9b19-53700e8279ba",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0238-chapter-55-killing-intent",
   title: "Chapter 55: Killing Intent",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0162Chapter121MenVersusMachine = {
   id: "01a06731-ad64-700a-9146-ed9fa02d728d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0162-chapter-121-men-versus-machine",
   title: "Chapter 121: Men versus Machine",
   story: "labyrinth-of-the-mad-god",

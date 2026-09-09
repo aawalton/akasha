@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0310Chapter29Skywalker = {
   id: "01a06731-ad89-7005-90b2-a60bad5a31c3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0310-chapter-29-skywalker",
   title: "Chapter 29: Skywalker",
   story: "labyrinth-of-the-mad-god",

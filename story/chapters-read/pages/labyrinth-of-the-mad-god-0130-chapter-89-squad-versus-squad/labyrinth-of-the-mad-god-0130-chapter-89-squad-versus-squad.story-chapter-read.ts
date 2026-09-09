@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
   id: "01a0672c-eb76-700a-9435-f9aaaad90a75",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0130-chapter-89-squad-versus-squad",
   title: "Chapter 89: Squad versus Squad",
   story: "labyrinth-of-the-mad-god",

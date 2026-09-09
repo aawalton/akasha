@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0090Chapter51KeepAway = {
   id: "01a0672c-eb72-700c-94dc-3428ea88be3d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0090-chapter-51-keep-away",
   title: "Chapter 51: Keep Away",
   story: "labyrinth-of-the-mad-god",

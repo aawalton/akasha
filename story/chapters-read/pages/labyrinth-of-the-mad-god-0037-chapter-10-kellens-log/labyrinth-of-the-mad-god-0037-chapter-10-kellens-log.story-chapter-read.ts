@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0037Chapter10KellensLog = {
   id: "01a0672c-eb70-7005-9c5e-533b431b6ace",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0037-chapter-10-kellens-log",
   title: "Chapter 10: Kellen’s Log",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   id: "01a06731-ad85-7000-bed6-9916021a738a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0288-chapter-8-blade-world-sparring-session",
   title: "Chapter 8: Blade World Sparring Session",
   story: "labyrinth-of-the-mad-god",

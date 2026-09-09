@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   id: "01a06731-ae83-7000-b27e-459fa3cc6847",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0178-173-book-4-chapter-17-ripples-in-brightscale",
   title: "173 — Book 4, Chapter 17 — Ripples in Brightscale",
   story: "just-add-mana",

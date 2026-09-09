@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0231Chapter48YesterdaysEnemyIsTomorrowsFriend = {
   id: "01a06731-ad79-7009-ba18-95d30da8ee8c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0231-chapter-48-yesterdays-enemy-is-tomorrows-friend",
   title: "Chapter 48: Yesterday’s Enemy is Tomorrow’s Friend",
   story: "labyrinth-of-the-mad-god",

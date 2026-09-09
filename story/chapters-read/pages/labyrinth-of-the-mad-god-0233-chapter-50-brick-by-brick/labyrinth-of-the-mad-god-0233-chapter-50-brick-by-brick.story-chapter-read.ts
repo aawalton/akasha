@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0233Chapter50BrickByBrick = {
   id: "01a06731-ad7a-7000-a20e-85ca11b29a60",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0233-chapter-50-brick-by-brick",
   title: "Chapter 50: Brick by Brick",
   story: "labyrinth-of-the-mad-god",

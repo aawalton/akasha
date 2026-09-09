@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0172Chapter131RareAtLast = {
   id: "01a06731-ad67-7000-9498-87b890233065",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0172-chapter-131-rare-at-last",
   title: "Chapter 131: Rare at Last",
   story: "labyrinth-of-the-mad-god",

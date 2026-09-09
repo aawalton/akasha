@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   id: "01a06731-ad82-7003-8136-5506f336bde6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0284-chapter-4-blood-soaked-brawl",
   title: "Chapter 4: Blood-Soaked Brawl",
   story: "labyrinth-of-the-mad-god",

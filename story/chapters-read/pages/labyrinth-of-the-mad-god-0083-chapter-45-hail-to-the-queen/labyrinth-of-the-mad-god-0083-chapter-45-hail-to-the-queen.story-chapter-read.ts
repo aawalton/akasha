@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0083Chapter45HailToTheQueen = {
   id: "01a0672c-eb72-7005-96b8-843e911e5a47",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0083-chapter-45-hail-to-the-queen",
   title: "Chapter 45: Hail to the Queen",
   story: "labyrinth-of-the-mad-god",

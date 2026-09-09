@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0333Chapter52APlanCenturiesInTheMaking = {
   id: "01a06731-ad8d-7004-8157-5e2d4909bb3a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0333-chapter-52-a-plan-centuries-in-the-making",
   title: "Chapter 52: A Plan Centuries in the Making",
   story: "labyrinth-of-the-mad-god",

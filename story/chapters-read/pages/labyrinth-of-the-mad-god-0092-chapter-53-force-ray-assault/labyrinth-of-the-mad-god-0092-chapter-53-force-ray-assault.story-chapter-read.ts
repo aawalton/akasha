@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0092Chapter53ForceRayAssault = {
   id: "01a0672c-eb72-700e-ada8-b97b5642723e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0092-chapter-53-force-ray-assault",
   title: "Chapter 53: Force Ray Assault",
   story: "labyrinth-of-the-mad-god",

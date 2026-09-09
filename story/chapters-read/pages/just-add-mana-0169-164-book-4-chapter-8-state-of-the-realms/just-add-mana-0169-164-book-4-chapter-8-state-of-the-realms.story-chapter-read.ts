@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0169164Book4Chapter8StateOfTheRealms = {
   id: "01a06731-ae75-7000-9a09-e2dbe727afd2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0169-164-book-4-chapter-8-state-of-the-realms",
   title: "164 — Book 4, Chapter 8 — State of the Realms",
   story: "just-add-mana",

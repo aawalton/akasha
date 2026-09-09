@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0201Chapter19CharismaConundrum = {
   id: "01a06731-ad75-7000-a0e3-46b7a218592b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0201-chapter-19-charisma-conundrum",
   title: "Chapter 19: Charisma Conundrum",
   story: "labyrinth-of-the-mad-god",

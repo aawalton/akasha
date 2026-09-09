@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0139Chapter98HiddenUpgradeUnlocked = {
   id: "01a06731-ad63-7001-be7c-111b249598a8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0139-chapter-98-hidden-upgrade-unlocked",
   title: "Chapter 98: Hidden Upgrade Unlocked",
   story: "labyrinth-of-the-mad-god",

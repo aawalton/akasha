@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0190Chapter8MagicArmorAndArcaneShield = {
   id: "01a06731-ad73-7001-9037-b54109f854d4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0190-chapter-8-magic-armor-and-arcane-shield",
   title: "Chapter 8: Magic Armor and Arcane Shield",
   story: "labyrinth-of-the-mad-god",

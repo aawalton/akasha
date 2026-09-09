@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0240Chapter5758DesertRose = {
   id: "01a06731-ad7b-7002-aedd-ad89787d3512",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0240-chapter-57-58-desert-rose",
   title: "Chapter 57 & 58: Desert Rose",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0158155Book3Chapter54Endings = {
   id: "01a06731-ae66-7000-a46e-3dc6e7a0d326",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0158-155-book-3-chapter-54-endings",
   title: "155 — Book 3, Chapter 54 — Endings",
   story: "just-add-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0220MajorAnnouncement = {
   id: "01a06731-ad77-7002-9420-dc47e0e17e64",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0220-major-announcement",
   title: "Major Announcement!",
   story: "labyrinth-of-the-mad-god",

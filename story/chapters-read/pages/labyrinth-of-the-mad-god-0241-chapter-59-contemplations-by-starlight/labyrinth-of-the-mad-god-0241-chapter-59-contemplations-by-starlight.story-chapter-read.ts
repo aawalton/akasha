@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0241Chapter59ContemplationsByStarlight = {
   id: "01a06731-ad7b-7003-bc6f-06ebe5637252",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0241-chapter-59-contemplations-by-starlight",
   title: "Chapter 59: Contemplations by Starlight",
   story: "labyrinth-of-the-mad-god",

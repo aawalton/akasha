@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0160Chapter119TheSkyIsFalling = {
   id: "01a06731-ad64-7008-b1f4-c8b8d336d2bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0160-chapter-119-the-sky-is-falling",
   title: "Chapter 119: The Sky is Falling",
   story: "labyrinth-of-the-mad-god",

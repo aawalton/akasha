@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0161Book3Blooper = {
   id: "01a06731-ae68-7002-82a4-8f932745429d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0161-book-3-blooper",
   title: "Book 3 Blooper",
   story: "just-add-mana",

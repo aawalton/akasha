@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0034745EffectsOfTheCurse = {
   id: "01a06731-ae8f-7007-a0f1-a00f2265312f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0034-745-effects-of-the-curse",
   title: "745. Effects of the Curse",
   story: "story-read/leveling-up-the-world",

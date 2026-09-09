@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0314Chapter33SophiasStruggle = {
   id: "01a06731-ad89-7009-8320-6a43d30cbca4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0314-chapter-33-sophias-struggle",
   title: "Chapter 33: Sophia’s Struggle",
   story: "labyrinth-of-the-mad-god",

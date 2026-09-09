@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0188183Book4Chapter27TheBlackVaultPt4 = {
   id: "01a081aa-8086-7a09-8f2a-1c60d3985b74",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0188-183-book-4-chapter-27-the-black-vault-pt-4",
   story: "story-read/just-add-mana",
   position: 188,

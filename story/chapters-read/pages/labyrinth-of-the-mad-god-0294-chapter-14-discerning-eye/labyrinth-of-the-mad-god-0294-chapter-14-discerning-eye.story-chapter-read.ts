@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   id: "01a06731-ad85-7006-968d-5ef3f1e22986",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0294-chapter-14-discerning-eye",
   title: "Chapter 14: Discerning Eye",
   story: "labyrinth-of-the-mad-god",

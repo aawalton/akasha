@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   id: "01a06731-ad75-7006-a5e9-a1e833f4749e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0207-chapter-25-free-from-gravitys-embrace",
   title: "Chapter 25: Free from Gravity’s Embrace",
   story: "labyrinth-of-the-mad-god",

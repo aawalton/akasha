@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0095Chapter56FrostRimedClimax = {
   id: "01a0672c-eb72-7011-8e6e-c87df4813fcd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0095-chapter-56-frost-rimed-climax",
   title: "Chapter 56: Frost-Rimed Climax",
   story: "labyrinth-of-the-mad-god",

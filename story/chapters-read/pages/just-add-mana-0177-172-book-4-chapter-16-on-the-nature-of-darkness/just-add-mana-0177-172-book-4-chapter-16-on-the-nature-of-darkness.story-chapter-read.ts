@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0177172Book4Chapter16OnTheNatureOfDarkness = {
   id: "01a06731-ae81-7000-9676-82121fa6a938",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0177-172-book-4-chapter-16-on-the-nature-of-darkness",
   title: "172 — Book 4, Chapter 16 — On the Nature of Darkness",
   story: "just-add-mana",

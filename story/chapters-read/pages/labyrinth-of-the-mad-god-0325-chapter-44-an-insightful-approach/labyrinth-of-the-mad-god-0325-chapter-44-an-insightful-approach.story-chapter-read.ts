@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0325Chapter44AnInsightfulApproach = {
   id: "01a06731-ad8b-7006-985c-a9f05e5086ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0325-chapter-44-an-insightful-approach",
   title: "Chapter 44: An Insightful Approach",
   story: "labyrinth-of-the-mad-god",

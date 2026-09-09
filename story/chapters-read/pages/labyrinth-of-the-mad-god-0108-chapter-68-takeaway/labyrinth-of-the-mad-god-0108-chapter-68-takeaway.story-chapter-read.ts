@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0108Chapter68Takeaway = {
   id: "01a0672c-eb75-7008-bfd3-deffc35ed3e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0108-chapter-68-takeaway",
   title: "Chapter 68: Takeaway",
   story: "labyrinth-of-the-mad-god",

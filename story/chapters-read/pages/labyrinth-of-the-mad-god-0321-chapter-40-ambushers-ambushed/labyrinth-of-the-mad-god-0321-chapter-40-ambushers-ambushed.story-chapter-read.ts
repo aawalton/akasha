@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0321Chapter40AmbushersAmbushed = {
   id: "01a06731-ad8b-7002-b3bc-caa9e332c8b3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0321-chapter-40-ambushers-ambushed",
   title: "Chapter 40: Ambushers Ambushed",
   story: "labyrinth-of-the-mad-god",

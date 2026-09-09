@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0006ChapterSixAGameOfLifeAndDeath = {
   id: "01a0672c-eb6d-700b-a154-def993d79e58",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0006-chapter-six-a-game-of-life-and-death",
   title: "Chapter Six: A Game of Life and Death",
   story: "labyrinth-of-the-mad-god",

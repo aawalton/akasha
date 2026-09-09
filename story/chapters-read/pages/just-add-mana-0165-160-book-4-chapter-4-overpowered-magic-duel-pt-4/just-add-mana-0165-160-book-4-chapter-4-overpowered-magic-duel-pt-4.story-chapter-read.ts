@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0165160Book4Chapter4OverpoweredMagicDuelPt4 = {
   id: "01a06731-ae6d-7000-8d34-323473909aea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0165-160-book-4-chapter-4-overpowered-magic-duel-pt-4",
   title: "160 — Book 4, Chapter 4 — Overpowered Magic Duel, Pt 4",
   story: "just-add-mana",

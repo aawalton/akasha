@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0217Chapter35MeetTheTeam = {
   id: "01a06731-ad76-7002-b805-8158aeea67c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0217-chapter-35-meet-the-team",
   title: "Chapter 35: Meet the Team",
   story: "labyrinth-of-the-mad-god",

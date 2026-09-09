@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0171166Book4Chapter10TheBranchAndTheBloomPt2 = {
   id: "01a06731-ae78-7000-9582-a1b894ece773",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0171-166-book-4-chapter-10-the-branch-and-the-bloom-pt-2",
   title: "166 — Book 4, Chapter 10 — The Branch and the Bloom, Pt 2",
   story: "just-add-mana",

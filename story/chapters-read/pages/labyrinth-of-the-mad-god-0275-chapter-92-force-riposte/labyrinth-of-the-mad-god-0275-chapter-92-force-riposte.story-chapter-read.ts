@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0275Chapter92ForceRiposte = {
   id: "01a06731-ad7f-7008-b8e4-24ef4bcd80fd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0275-chapter-92-force-riposte",
   title: "Chapter 92: Force Riposte",
   story: "labyrinth-of-the-mad-god",

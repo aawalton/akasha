@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0035746LeaderlessNerosal = {
   id: "01a06731-ae8f-7008-ade2-1a5ba785ed6a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0035-746-leaderless-nerosal",
   title: "746. Leaderless Nerosal",
   story: "story-read/leveling-up-the-world",

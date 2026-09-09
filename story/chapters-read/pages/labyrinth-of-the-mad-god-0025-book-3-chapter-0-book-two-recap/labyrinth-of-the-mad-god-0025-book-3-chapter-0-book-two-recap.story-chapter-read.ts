@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0025Book3Chapter0BookTwoRecap = {
   id: "01a0672c-eb6e-7011-8824-adeeb031abda",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0025-book-3-chapter-0-book-two-recap",
   title: "Book 3 Chapter 0: Book Two Recap",
   story: "labyrinth-of-the-mad-god",

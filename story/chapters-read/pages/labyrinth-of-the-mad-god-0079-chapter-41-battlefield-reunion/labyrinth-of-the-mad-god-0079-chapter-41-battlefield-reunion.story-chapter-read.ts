@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0079Chapter41BattlefieldReunion = {
   id: "01a0672c-eb72-7001-bd06-faf9a0af6cd9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0079-chapter-41-battlefield-reunion",
   title: "Chapter 41: Battlefield Reunion",
   story: "labyrinth-of-the-mad-god",

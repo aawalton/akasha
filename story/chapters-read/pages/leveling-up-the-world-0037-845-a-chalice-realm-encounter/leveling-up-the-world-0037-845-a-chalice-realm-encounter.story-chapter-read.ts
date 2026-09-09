@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   id: "01a06731-ae8f-700a-be59-b71704690b99",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0037-845-a-chalice-realm-encounter",
   title: "845. A Chalice Realm Encounter",
   story: "story-read/leveling-up-the-world",

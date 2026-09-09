@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0128Chapter87PreliminaryAssassination = {
   id: "01a0672c-eb76-7008-8cb2-dcfcce9b731d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0128-chapter-87-preliminary-assassination",
   title: "Chapter 87: Preliminary Assassination",
   story: "labyrinth-of-the-mad-god",

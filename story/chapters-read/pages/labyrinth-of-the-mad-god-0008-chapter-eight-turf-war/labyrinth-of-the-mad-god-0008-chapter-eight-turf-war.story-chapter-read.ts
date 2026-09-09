@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0008ChapterEightTurfWar = {
   id: "01a0672c-eb6e-7000-a406-8477c51e02af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0008-chapter-eight-turf-war",
   title: "Chapter Eight: Turf War",
   story: "labyrinth-of-the-mad-god",

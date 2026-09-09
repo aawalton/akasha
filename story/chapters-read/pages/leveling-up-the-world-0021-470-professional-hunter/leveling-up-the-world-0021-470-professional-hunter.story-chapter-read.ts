@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0021470ProfessionalHunter = {
   id: "01a06731-ae8e-7006-807e-7fbf62adac10",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0021-470-professional-hunter",
   title: "470. Professional Hunter",
   story: "story-read/leveling-up-the-world",

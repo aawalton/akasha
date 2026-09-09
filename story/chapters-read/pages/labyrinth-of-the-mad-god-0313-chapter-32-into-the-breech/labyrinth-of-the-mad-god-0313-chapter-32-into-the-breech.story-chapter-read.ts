@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0313Chapter32IntoTheBreech = {
   id: "01a06731-ad89-7008-a718-43fba90f05d8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0313-chapter-32-into-the-breech",
   title: "Chapter 32: Into the Breech",
   story: "labyrinth-of-the-mad-god",

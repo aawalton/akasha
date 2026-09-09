@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0174Chapter133ItOnlyGetsHarderFromHere = {
   id: "01a06731-ad69-7000-b23d-aa72e1d5a360",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0174-chapter-133-it-only-gets-harder-from-here",
   title: "Chapter 133: It Only Gets Harder from Here",
   story: "labyrinth-of-the-mad-god",

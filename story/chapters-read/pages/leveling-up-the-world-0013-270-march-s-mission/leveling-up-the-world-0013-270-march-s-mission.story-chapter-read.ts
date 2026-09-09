@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0013270MarchSMission = {
   id: "01a06731-ae8b-7004-826c-78a7b79ce4bd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0013-270-march-s-mission",
   title: "270. March's Mission",
   story: "story-read/leveling-up-the-world",

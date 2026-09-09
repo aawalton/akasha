@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0039Chapter11AForkInTheRoad = {
   id: "01a0672c-eb70-7007-94ef-4e996d404fe9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0039-chapter-11-a-fork-in-the-road",
   title: "Chapter 11: A Fork in the Road",
   story: "labyrinth-of-the-mad-god",

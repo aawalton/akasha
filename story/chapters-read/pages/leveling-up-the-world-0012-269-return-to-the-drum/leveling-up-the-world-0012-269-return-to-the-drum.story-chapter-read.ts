@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0012269ReturnToTheDrum = {
   id: "01a06731-ae8b-7003-a75c-2c01beea4ff6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0012-269-return-to-the-drum",
   title: "269. Return to the Drum",
   story: "story-read/leveling-up-the-world",

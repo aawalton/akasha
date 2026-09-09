@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0178Chapter137StarlitShowdown = {
   id: "01a06731-ad6d-7001-a498-3626f6fa079b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0178-chapter-137-starlit-showdown",
   title: "Chapter 137: Starlit Showdown",
   story: "labyrinth-of-the-mad-god",

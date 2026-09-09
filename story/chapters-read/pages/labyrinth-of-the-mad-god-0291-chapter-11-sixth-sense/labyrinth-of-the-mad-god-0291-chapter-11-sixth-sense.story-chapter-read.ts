@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0291Chapter11SixthSense = {
   id: "01a06731-ad85-7003-b739-b39891cb6ead",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0291-chapter-11-sixth-sense",
   title: "Chapter 11: Sixth Sense",
   story: "labyrinth-of-the-mad-god",

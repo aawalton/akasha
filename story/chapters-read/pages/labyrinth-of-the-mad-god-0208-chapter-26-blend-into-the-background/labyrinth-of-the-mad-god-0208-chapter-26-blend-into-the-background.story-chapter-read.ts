@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0208Chapter26BlendIntoTheBackground = {
   id: "01a06731-ad75-7007-9ada-467646387307",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0208-chapter-26-blend-into-the-background",
   title: "Chapter 26: Blend into the Background",
   story: "labyrinth-of-the-mad-god",

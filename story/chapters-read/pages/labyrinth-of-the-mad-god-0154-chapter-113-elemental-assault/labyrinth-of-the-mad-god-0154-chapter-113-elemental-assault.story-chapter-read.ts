@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0154Chapter113ElementalAssault = {
   id: "01a06731-ad64-7002-b27f-22d623b771e9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0154-chapter-113-elemental-assault",
   title: "Chapter 113: Elemental Assault",
   story: "labyrinth-of-the-mad-god",

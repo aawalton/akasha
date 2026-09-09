@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0005ChapterFiveCloseEncounterOfThePrimateKind = {
   id: "01a0672c-eb6d-700a-82bc-a7e633b83397",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0005-chapter-five-close-encounter-of-the-primate-kind",
   title: "Chapter Five: Close Encounter of the Primate Kind",
   story: "labyrinth-of-the-mad-god",

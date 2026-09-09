@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0129Chapter88NoMercy = {
   id: "01a0672c-eb76-7009-84ab-66d22a6808ad",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0129-chapter-88-no-mercy",
   title: "Chapter 88: No Mercy",
   story: "labyrinth-of-the-mad-god",

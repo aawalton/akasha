@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0249Chapter67SoilAndStone = {
   id: "01a06731-ad7c-7007-9550-7b37da9c4b19",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0249-chapter-67-soil-and-stone",
   title: "Chapter 67: Soil and Stone",
   story: "labyrinth-of-the-mad-god",

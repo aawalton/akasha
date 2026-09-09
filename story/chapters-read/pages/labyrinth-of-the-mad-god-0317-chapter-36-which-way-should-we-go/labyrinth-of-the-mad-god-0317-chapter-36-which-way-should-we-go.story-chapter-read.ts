@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0317Chapter36WhichWayShouldWeGo = {
   id: "01a06731-ad89-700c-b069-c9d7332c9a05",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0317-chapter-36-which-way-should-we-go",
   title: "Chapter 36: Which Way Should We Go?",
   story: "labyrinth-of-the-mad-god",

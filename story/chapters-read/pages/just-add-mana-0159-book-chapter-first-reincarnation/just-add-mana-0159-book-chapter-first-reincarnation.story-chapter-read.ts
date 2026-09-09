@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0159BookChapterFirstReincarnation = {
   id: "01a06731-ae68-7000-bf3a-5725d93d8db0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0159-book-chapter-first-reincarnation",
   title: "??? — Book ?, Chapter ?? — First Reincarnation",
   story: "just-add-mana",

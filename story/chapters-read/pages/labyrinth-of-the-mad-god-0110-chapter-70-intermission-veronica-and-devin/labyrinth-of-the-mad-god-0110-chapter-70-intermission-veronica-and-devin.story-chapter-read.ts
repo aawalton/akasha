@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0110Chapter70IntermissionVeronicaAndDevin = {
   id: "01a0672c-eb75-700a-aa7d-44d57dc8dec5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0110-chapter-70-intermission-veronica-and-devin",
   title: "Chapter 70: Intermission: Veronica and Devin",
   story: "labyrinth-of-the-mad-god",

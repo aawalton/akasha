@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0226Chapter43PierceAndPeel = {
   id: "01a06731-ad79-7004-b9be-c2db8df69247",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0226-chapter-43-pierce-and-peel",
   title: "Chapter 43: Pierce and Peel",
   story: "labyrinth-of-the-mad-god",

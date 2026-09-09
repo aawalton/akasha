@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0276Chapter93Revenge = {
   id: "01a06731-ad7f-7009-8dd0-d490849c4467",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0276-chapter-93-revenge",
   title: "Chapter 93: Revenge",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0229Chapter46AurorasDawn = {
   id: "01a06731-ad79-7007-b9be-c17c9e98b21e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0229-chapter-46-auroras-dawn",
   title: "Chapter 46: Aurora’s Dawn",
   story: "labyrinth-of-the-mad-god",

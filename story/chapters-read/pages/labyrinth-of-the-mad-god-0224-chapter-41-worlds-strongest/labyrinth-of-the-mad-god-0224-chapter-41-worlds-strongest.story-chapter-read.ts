@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0224Chapter41WorldsStrongest = {
   id: "01a06731-ad79-7002-a106-9015f4839d47",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0224-chapter-41-worlds-strongest",
   title: "Chapter 41: World’s Strongest",
   story: "labyrinth-of-the-mad-god",

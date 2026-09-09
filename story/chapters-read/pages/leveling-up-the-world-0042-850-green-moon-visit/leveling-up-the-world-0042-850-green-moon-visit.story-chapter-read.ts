@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0042850GreenMoonVisit = {
   id: "01a06731-ae8f-700f-bd1a-930f5a75cfc3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0042-850-green-moon-visit",
   title: "850. Green Moon Visit",
   story: "story-read/leveling-up-the-world",

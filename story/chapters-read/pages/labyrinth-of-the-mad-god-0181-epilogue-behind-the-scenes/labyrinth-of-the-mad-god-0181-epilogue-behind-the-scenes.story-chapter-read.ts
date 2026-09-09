@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0181EpilogueBehindTheScenes = {
   id: "01a06731-ad6f-7000-8bd8-25fee086fc47",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0181-epilogue-behind-the-scenes",
   title: "Epilogue: Behind the Scenes",
   story: "labyrinth-of-the-mad-god",

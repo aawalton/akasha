@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0211Chapter29BonusQuest = {
   id: "01a06731-ad75-700a-b12c-2238f93ace72",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0211-chapter-29-bonus-quest",
   title: "Chapter 29: Bonus Quest",
   story: "labyrinth-of-the-mad-god",

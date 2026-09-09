@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0030652TasteOfMagic = {
   id: "01a06731-ae8f-7003-bb63-e0aef33eeef4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0030-652-taste-of-magic",
   title: "652. Taste of Magic",
   story: "story-read/leveling-up-the-world",

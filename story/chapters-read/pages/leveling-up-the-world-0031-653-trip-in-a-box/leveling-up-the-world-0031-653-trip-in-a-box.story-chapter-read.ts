@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0031653TripInABox = {
   id: "01a06731-ae8f-7004-863b-372077c525e2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0031-653-trip-in-a-box",
   title: "653. Trip in a Box",
   story: "story-read/leveling-up-the-world",

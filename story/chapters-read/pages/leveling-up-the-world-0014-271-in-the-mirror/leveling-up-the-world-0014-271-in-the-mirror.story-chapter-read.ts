@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0014271InTheMirror = {
   id: "01a06731-ae8b-7005-b9e2-b7d28d8f3139",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0014-271-in-the-mirror",
   title: "271. In the Mirror",
   story: "story-read/leveling-up-the-world",

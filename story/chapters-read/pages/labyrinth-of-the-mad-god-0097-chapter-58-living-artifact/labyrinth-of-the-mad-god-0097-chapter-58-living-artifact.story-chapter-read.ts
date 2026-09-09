@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0097Chapter58LivingArtifact = {
   id: "01a0672c-eb72-7013-b290-2a62f97287e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0097-chapter-58-living-artifact",
   title: "Chapter 58: Living Artifact",
   story: "labyrinth-of-the-mad-god",

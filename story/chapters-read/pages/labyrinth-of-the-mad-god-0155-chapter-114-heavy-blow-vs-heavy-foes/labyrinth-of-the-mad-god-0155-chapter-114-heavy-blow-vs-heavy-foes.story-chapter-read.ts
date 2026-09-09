@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0155Chapter114HeavyBlowVsHeavyFoes = {
   id: "01a06731-ad64-7003-b767-e5d21ecb4866",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0155-chapter-114-heavy-blow-vs-heavy-foes",
   title: "Chapter 114: Heavy Blow vs Heavy Foes",
   story: "labyrinth-of-the-mad-god",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const levelingUpTheWorld0043ANewDifferentSeriesGrandArcana = {
   id: "01a06731-ae90-7000-9583-8173e7dc0b60",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "leveling-up-the-world-0043-a-new-different-series-grand-arcana",
   title: "A New (Different) Series: Grand Arcana",
   story: "story-read/leveling-up-the-world",

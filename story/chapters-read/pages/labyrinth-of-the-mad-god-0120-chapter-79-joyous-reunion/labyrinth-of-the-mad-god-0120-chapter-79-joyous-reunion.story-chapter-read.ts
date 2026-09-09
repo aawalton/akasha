@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0120Chapter79JoyousReunion = {
   id: "01a0672c-eb76-7000-a8e1-e43686f1ab64",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0120-chapter-79-joyous-reunion",
   title: "Chapter 79: Joyous Reunion",
   story: "labyrinth-of-the-mad-god",

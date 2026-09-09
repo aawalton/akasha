@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0334Chapter53GaiasCallAndAThreeWayWar = {
   id: "01a06731-ad8d-7005-9f7d-61e3a2db7e87",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0334-chapter-53-gaias-call-and-a-three-way-war",
   title: "Chapter 53: Gaia’s Call and a Three-Way War",
   story: "labyrinth-of-the-mad-god",

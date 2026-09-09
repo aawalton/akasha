@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0106Chapter66Kiki = {
   id: "01a0672c-eb75-7006-87f1-4bca0a78e04b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0106-chapter-66-kiki",
   title: "Chapter 66: Kiki",
   story: "labyrinth-of-the-mad-god",

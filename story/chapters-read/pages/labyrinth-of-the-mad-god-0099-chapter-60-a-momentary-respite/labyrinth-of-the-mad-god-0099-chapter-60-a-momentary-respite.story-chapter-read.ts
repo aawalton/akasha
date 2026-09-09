@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0099Chapter60AMomentaryRespite = {
   id: "01a0672c-eb73-7000-805f-47b5216f5e88",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0099-chapter-60-a-momentary-respite",
   title: "Chapter 60: A Momentary Respite",
   story: "labyrinth-of-the-mad-god",

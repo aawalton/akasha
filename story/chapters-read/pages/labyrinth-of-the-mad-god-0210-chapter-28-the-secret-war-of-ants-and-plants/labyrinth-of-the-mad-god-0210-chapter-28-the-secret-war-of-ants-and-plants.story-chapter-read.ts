@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   id: "01a06731-ad75-7009-984b-322776560566",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0210-chapter-28-the-secret-war-of-ants-and-plants",
   title: "Chapter 28: The Secret War of Ants and Plants",
   story: "labyrinth-of-the-mad-god",

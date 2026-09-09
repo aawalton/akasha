@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0298Chapter18SkitteringSkirmish = {
   id: "01a06731-ad86-7003-b895-f9dacbac58f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0298-chapter-18-skittering-skirmish",
   title: "Chapter 18: Skittering Skirmish",
   story: "labyrinth-of-the-mad-god",

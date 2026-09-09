@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const labyrinthOfTheMadGod0340Chapter59OneSidedBeatdown = {
   id: "01a06731-ad8f-7001-b0df-ccc714698a4e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0340-chapter-59-one-sided-beatdown",
   title: "Chapter 59: One-Sided Beatdown",
   story: "labyrinth-of-the-mad-god",

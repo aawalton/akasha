@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const lazyLoopsAnIdleLitrpgOpToArchmage001111Loop0Part11 = {
   id: "01a06731-b0d7-7008-a9a4-4cc273fa9886",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "lazy-loops-an-idle-litrpg-op-to-archmage-0011-11-loop-0-part-11",
   title: "11 Loop 0, Part 11",
   story: "lazy-loops-an-idle-litrpg-op-to-archmage",
