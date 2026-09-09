@@ -27,4 +27,5 @@ export const day20260821 = {
   sessions: "jsonl",
   healthSamples: "jsonl",
   listens: "jsonl",
+  lowestEmailInboxCount: 0,
 } as const satisfies Day

@@ -23,4 +23,5 @@ export const day20260828 = {
   inboxTexts: 3,
   inboxTextsClearedToday: false,
   sessions: "jsonl",
+  lowestEmailInboxCount: 0,
 } as const satisfies Day

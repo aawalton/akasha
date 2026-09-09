@@ -25,6 +25,7 @@ import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { Listens } from "./properties/listens.page-property-entry.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
+import type { LowestEmailInboxCount } from "./properties/lowest-email-inbox-count.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
 import type { PersonaMessages } from "./properties/persona-messages.record-property.ts"
@@ -80,6 +81,7 @@ export type Day = Page & {
   personaMessages?: PersonaMessages
   healthSamples?: HealthSamples
   listens?: Listens
+  lowestEmailInboxCount?: LowestEmailInboxCount
 }
 
 export const day = {
@@ -154,6 +156,7 @@ export const day = {
     "text-property/version",
     "page-property-entry/health-samples",
     "page-property-entry/listens",
+    "number-property/lowest-email-inbox-count",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
@@ -237,6 +240,7 @@ export const day = {
     { pagePropertySlug: "computed-property/surplus-hours", required: false, many: false },
     { pagePropertySlug: "page-property-entry/health-samples", required: false, many: false },
     { pagePropertySlug: "page-property-entry/listens", required: false, many: false },
+    { pagePropertySlug: "number-property/lowest-email-inbox-count", required: false, many: false },
   ],
   worked: "ts",
   invariants: [
