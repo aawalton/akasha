@@ -1,12 +1,12 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import {
   DAILY_WRIT_COUNT,
   type DailyWritJournalScan,
   deriveWritCrafted,
   nextDailyWritReconcile,
-} from "@akasha/temper-player-completion-state/completion-daily-writs-state"
-import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+} from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import {
   isDailyCraftingQuest,
   isDailyCraftingWritQuest,

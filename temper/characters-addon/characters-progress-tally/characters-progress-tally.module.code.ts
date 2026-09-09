@@ -1,4 +1,4 @@
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 
 export function tallyDone<Entry>(
   entries: Record<number, Entry>,

@@ -1,9 +1,9 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import {
   saveSkillMorphProgress,
   updateAccountSkillMorphProgress,
   updateSkillMorphProgress,
 } from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { captureAndSaveCharacterStats } from "../characters-player-stats/characters-player-stats.module.code.ts"
 import {
   updateAccountSkillLineProgress,

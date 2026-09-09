@@ -1,4 +1,4 @@
-import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export function taskHasCard(task: TaskData, cardId: string): boolean {
   return task.completionCardId === cardId

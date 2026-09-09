@@ -1,5 +1,5 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import {
   initializeTabs,
   refreshActivePanel,

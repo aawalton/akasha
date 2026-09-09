@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/temper-player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/temper-player-completion/companion-rapport/companion-rapport.module.code.ts"
 import { ALL_COMPANION_IDS } from "../../companions-addon/companions-id-map/companions-id-map.module.code.ts"

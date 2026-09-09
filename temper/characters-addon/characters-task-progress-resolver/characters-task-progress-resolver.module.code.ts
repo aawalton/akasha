@@ -1,12 +1,12 @@
+import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import {
   getSavedVariables,
   type SavedCharacterEntry,
   type TaskData,
-} from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
-import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
-import type { AccountCompletion } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+} from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/temper-player-completion/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import { getCompletionOverridesForCharacter } from "../characters-config/characters-config.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"

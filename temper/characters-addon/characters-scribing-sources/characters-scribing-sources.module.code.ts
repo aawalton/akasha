@@ -1,5 +1,5 @@
-import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { SCRIBING_SOURCES } from "../characters-scribing-source-table/characters-scribing-source-table.module.code.ts"
 
 export type ScriptType = "focus" | "signature" | "affix"

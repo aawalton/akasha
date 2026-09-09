@@ -1,6 +1,6 @@
-import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
 import { SKILL_LINE_MAX_RANK } from "akasha/temper/characters-capture-addon/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+import type { SavedCharacterEntry } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import { resolveSkillPointItemProgress } from "akasha/temper/temper-player-completion/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
 
 const SKILL_RANK_SORT_WEIGHT = 10_000_000

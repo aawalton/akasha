@@ -1,6 +1,6 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectBagSize } from "../characters-bag-size/characters-bag-size.module.code.ts"
 import { collectCadwell } from "../characters-cadwell/characters-cadwell.module.code.ts"

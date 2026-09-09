@@ -1,4 +1,4 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { saveAchievementProgress } from "../characters-achievements/characters-achievements.module.code.ts"
 import {
   refreshAllAntiquityLore,

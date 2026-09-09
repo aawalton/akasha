@@ -1,4 +1,4 @@
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 
 export function collectGrandMasterStations(craftSkill: number): undefined {
   const account = getSavedVariables().account

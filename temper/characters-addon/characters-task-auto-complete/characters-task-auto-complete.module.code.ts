@@ -1,15 +1,15 @@
-import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
-import type {
-  SavedVariablesData,
-  TaskData,
-} from "@akasha/temper-player-completion-state/completion-saved-variables"
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
 import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import {
   getEsoDayStringFromSec,
   getEsoResetTimestampSec,
 } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+import { ADDON_NAME } from "akasha/temper/player-completion-state/completion-addon-constants/completion-addon-constants.module.code.ts"
+import type {
+  SavedVariablesData,
+  TaskData,
+} from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import {
   hasNoAntiquityLeadMatching,
   isActionableLead,

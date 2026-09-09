@@ -1,4 +1,4 @@
-import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSkillMorphEnrichment } from "../skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 
 export function countEnrichmentSlots(task: TaskData): { equipped: number; available: number } {

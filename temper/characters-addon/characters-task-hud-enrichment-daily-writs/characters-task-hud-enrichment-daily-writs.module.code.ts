@@ -1,9 +1,9 @@
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import {
   DAILY_WRIT_CRAFT_TYPES,
   type DailyWritProfessionState,
   resolveDailyWritProfessionState,
-} from "@akasha/temper-player-completion-state/completion-daily-writs-state"
-import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
+} from "akasha/temper/player-completion-state/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import {
   reconcileDailyWritStates,

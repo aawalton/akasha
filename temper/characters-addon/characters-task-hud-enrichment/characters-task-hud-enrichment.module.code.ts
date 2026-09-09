@@ -1,6 +1,6 @@
-import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
+import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
+import type { TaskProgress } from "akasha/temper/player-completion-state/completion-task-progress/completion-task-progress.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,

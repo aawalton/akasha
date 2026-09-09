@@ -38,7 +38,6 @@
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -976,7 +975,6 @@
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
         "@akasha/temper-companions-addon": "workspace:*",
-        "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1154,12 +1152,6 @@
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
-    "temper/player-completion-state": {
-      "name": "@akasha/temper-player-completion-state",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/quests-addon": {
@@ -1474,8 +1466,6 @@
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 
     "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/navigation-addon"],
-
-    "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/player-completion-state"],
 
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
 

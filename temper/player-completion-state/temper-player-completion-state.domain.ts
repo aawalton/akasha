@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperPlayerCompletionState = {
   id: "01a06253-d28f-7000-8979-abef0ff69650",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-player-completion-state",
   definition: "the completion addon's saved table and the shapes read out of it",
-  manifest: "json",
   parts: [
     "module/completion-addon-constants",
     "module/completion-daily-writs-state",
@@ -18,11 +17,11 @@ export const temperPlayerCompletionState = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The saved table of the completion addon is declared in one package.",
+      statement: "The saved table of the completion addon is declared in one folder.",
     },
     {
       invariantKind: "departure",
-      statement: "An addon reading that table depends on this package rather than on an addon.",
+      statement: "An addon reading that table reaches this folder rather than an addon.",
     },
     {
       invariantKind: "departure",
@@ -33,4 +32,4 @@ export const temperPlayerCompletionState = {
       statement: "Nothing here reads the game's own numbers into akasha ids.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

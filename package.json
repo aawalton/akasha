@@ -62,7 +62,6 @@
     "@akasha/talos": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
-    "@akasha/temper-player-completion-state": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/design-forms": "workspace:*",

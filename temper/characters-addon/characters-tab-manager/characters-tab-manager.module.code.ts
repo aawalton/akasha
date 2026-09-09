@@ -1,9 +1,9 @@
-import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
 } from "akasha/design/tokens/text-color/text-color.module.code.ts"
+import { getSavedVariables } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { createPlaceholderPanel } from "../characters-placeholder-panel/characters-placeholder-panel.module.code.ts"
 
 export interface TabControl extends Control {
