@@ -195,5 +195,6 @@ export const alanWeb = {
     "route/alan-web-sign-out",
     "route/alan-web-idle",
     "route/alan-web-design",
+    "route/alan-web-api-errors",
   ],
 } as const satisfies RouterApp
