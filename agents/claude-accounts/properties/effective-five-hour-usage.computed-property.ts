@@ -5,6 +5,7 @@ export type EffectiveFiveHourUsage = number
 export const effectiveFiveHourUsage = {
   id: "01a07659-1795-7ecf-b6af-a6a32cda7a73",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "effective-five-hour-usage",
   propertySlug: "effective-five-hour-usage",
   definition:

@@ -5,6 +5,7 @@ export type EffectiveSevenDayUsage = number
 export const effectiveSevenDayUsage = {
   id: "01a07659-1796-79b2-9c53-f9a3eb5ed248",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "effective-seven-day-usage",
   propertySlug: "effective-seven-day-usage",
   definition:

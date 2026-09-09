@@ -5,6 +5,7 @@ export type SetVolume = number
 export const setVolume = {
   id: "01a077cb-d5b9-767f-8668-3cf04e5756fc",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "set-volume",
   propertySlug: "set-volume",
   definition: "the weight one set of work moved, in pounds",

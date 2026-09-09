@@ -5,6 +5,7 @@ export type StrengthVolume = number
 export const strengthVolume = {
   id: "01a077d1-f967-7eef-a0ce-7139eaa1b54d",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "strength-volume",
   propertySlug: "strength-volume",
   definition: "the weight Alan moved on one day, in pounds",

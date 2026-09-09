@@ -5,6 +5,7 @@ export type FaithLevel = number
 export const faithLevel = {
   id: "01a07211-0e16-72be-89cf-abcacd834c99",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "faith-level",
   propertySlug: "faith-level",
   definition: "which of the four rungs the day's faith points reached",

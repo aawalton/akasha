@@ -5,6 +5,7 @@ export type ProjectHours = number
 export const projectHours = {
   id: "01a079c7-08a2-7126-a95c-29853fc8e604",
   pageTypeSlug: "computed-property",
+  type: "computed-property",
   slug: "project-hours",
   propertySlug: "project-hours",
   definition: "the hours Alan spent on projects, added up from the day's own stretches",
