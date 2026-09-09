@@ -79,7 +79,18 @@
     "@akasha/inference-runs": "workspace:*",
     "@akasha/mobile-cli": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "@akasha/pages-service": "workspace:*"
+    "@akasha/pages-service": "workspace:*",
+    "@akasha/pages-access": "workspace:*",
+    "@akasha/temper-build-deploy-checks": "workspace:*",
+    "@akasha/temper-upstream-data": "workspace:*",
+    "@akasha/pages-query": "workspace:*",
+    "@akasha/temper-completion": "workspace:*",
+    "@akasha/temper-inventory-automation": "workspace:*",
+    "@akasha/temper-items-rules-core": "workspace:*",
+    "@akasha/temper-items-rules-eval": "workspace:*",
+    "@akasha/temper-items-rules-matcher": "workspace:*",
+    "@akasha/temper-items-rules-routing": "workspace:*",
+    "@akasha/temper-items-rules-routing-core": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

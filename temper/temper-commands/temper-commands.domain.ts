@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCommands = {
   id: "01a06034-110a-750a-9400-ded12725f5e1",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-commands",
   definition: "what an agent runs by name over temper",
-  manifest: "json",
   parts: [
     "module/inventory-characters-reading",
     "module/inventory-config-reading",
@@ -49,4 +48,4 @@ export const temperCommands = {
       statement: "The temper code a command here works over is in akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

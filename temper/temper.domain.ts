@@ -34,7 +34,7 @@ export const temper = {
     "workspace-package/temper-watcher",
     "workspace-package/temper-inventory-automation",
     "rust-crate/watcher-tray",
-    "workspace-package/temper-commands",
+    "domain/temper-commands",
     "workspace-package/temper-dungeons",
     "workspace-package/temper-dungeon-champions",
     "workspace-package/temper-explain",
