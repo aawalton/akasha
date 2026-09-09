@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const euCitizenshipLuxembourg = {
   id: "01a06594-c688-700c-bc0c-08dde15112df",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "eu-citizenship-luxembourg",
   title: "Luxembourgish Citizenship Paths (May 2026)",
   sectionOf: "book-section/second-passport/eu-citizenship",

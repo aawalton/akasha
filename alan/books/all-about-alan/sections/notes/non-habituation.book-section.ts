@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const nonHabituation = {
   id: "01a06594-c67b-7010-9732-c0d900bf1927",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "non-habituation",
   title: "Mechanism root: non-habituation",
   sectionOf: "all-about-alan",

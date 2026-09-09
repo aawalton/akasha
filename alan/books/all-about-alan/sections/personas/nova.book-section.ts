@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const nova = {
   id: "01a06594-c687-7006-9b6f-5824fa9e4e56",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "nova",
   title: "Nova",
   sectionOf: "all-about-alan",

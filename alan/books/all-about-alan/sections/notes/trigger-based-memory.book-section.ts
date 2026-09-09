@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const triggerBasedMemory = {
   id: "01a06594-c685-700a-98a5-13eb6b786d38",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "trigger-based-memory",
   title: "Trigger-based memory",
   sectionOf: "all-about-alan",

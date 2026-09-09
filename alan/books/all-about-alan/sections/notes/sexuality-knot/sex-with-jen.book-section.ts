@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const sexWithJen = {
   id: "01a06594-c683-7011-8e49-5f523380a909",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "sex-with-jen",
   title: "Sex with Jen",
   sectionOf: "all-about-alan",

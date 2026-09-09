@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const euCitizenshipMalta = {
   id: "01a06594-c688-700d-8b7d-c6b504c5b380",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "eu-citizenship-malta",
   title: "Maltese Citizenship Paths (May 2026)",
   sectionOf: "book-section/second-passport/eu-citizenship",

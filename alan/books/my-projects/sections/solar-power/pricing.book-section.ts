@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const pricing = {
   id: "01a06594-c68e-7004-8c32-5c397a0ecb16",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "pricing",
   title: "Rooftop Solar Pricing",
   sectionOf: "book-section/my-projects/solar-power",

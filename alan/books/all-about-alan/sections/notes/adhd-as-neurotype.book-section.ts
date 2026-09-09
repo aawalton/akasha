@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const adhdAsNeurotype = {
   id: "01a06594-c674-7007-b64f-8ce57de16121",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "adhd-as-neurotype",
   title: "ADHD as neurotype (working definition)",
   sectionOf: "all-about-alan",

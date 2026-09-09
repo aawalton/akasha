@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const stressResponses = {
   id: "01a06594-c684-7013-8dcd-56f4febef04b",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "stress-responses",
   title: "Stress responses",
   sectionOf: "all-about-alan",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const distressContagion = {
   id: "01a06594-c677-7011-826f-c28188edfffa",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "distress-contagion",
   title: "Distress contagion — a conditioned threat forecast",
   sectionOf: "all-about-alan",

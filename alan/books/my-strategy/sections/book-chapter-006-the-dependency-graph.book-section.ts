@@ -3,6 +3,7 @@ import type { BookSection } from "../../../library/reading/book-chapters/book-se
 export const bookChapter006TheDependencyGraph = {
   id: "01a06594-c68f-7006-aec2-1519277b41ee",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "book-chapter-006-the-dependency-graph",
   title: "The dependency graph",
   sectionOf: "my-strategy",

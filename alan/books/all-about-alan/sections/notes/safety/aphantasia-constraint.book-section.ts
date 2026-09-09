@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const aphantasiaConstraint = {
   id: "01a06594-c67e-7001-b9f9-775f31ca7746",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "aphantasia-constraint",
   title: "Safety — the aphantasia constraint on intervention design",
   sectionOf: "all-about-alan",

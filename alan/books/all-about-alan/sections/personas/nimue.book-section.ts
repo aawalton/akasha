@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const nimue = {
   id: "01a06594-c687-7005-9207-1dc4969ed1b2",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "nimue",
   title: "Nimue",
   sectionOf: "all-about-alan",

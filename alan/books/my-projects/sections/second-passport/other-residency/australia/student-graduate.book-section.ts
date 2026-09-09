@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../../library/reading/book-chapter
 export const studentGraduate = {
   id: "01a06594-c68b-7013-af5b-09b49888b92b",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "student-graduate",
   title: "Student Graduate",
   sectionOf: "book-section/other-residency/other-residency-australia",

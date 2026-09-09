@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const ballroomDerivedBodyControl = {
   id: "01a06594-c675-700f-9482-4aa5d4ffa555",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "ballroom-derived-body-control",
   title: "Ballroom-derived body control",
   sectionOf: "all-about-alan",

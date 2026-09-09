@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const nonDiscretionaryReclassification = {
   id: "01a06594-c67b-700f-b148-53cff72cd9e1",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "non-discretionary-reclassification",
   title: "Non-discretionary reclassification",
   sectionOf: "all-about-alan",

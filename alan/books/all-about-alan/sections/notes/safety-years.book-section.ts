@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const safetyYears = {
   id: "01a06594-c682-7001-85a0-d75c796d8c3b",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "safety-years",
   title: "Safety Years",
   sectionOf: "all-about-alan",

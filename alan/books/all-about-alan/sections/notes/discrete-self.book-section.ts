@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const discreteSelf = {
   id: "01a06594-c677-700f-a810-305f138cd48c",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "discrete-self",
   title: "The discrete self",
   sectionOf: "all-about-alan",

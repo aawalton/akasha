@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const autismMisconceptions = {
   id: "01a06594-c675-7007-af4b-78f71ea519f5",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "autism-misconceptions",
   title: "What common autism descriptions get wrong about Alan",
   sectionOf: "all-about-alan",

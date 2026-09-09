@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const totalRetail = {
   id: "01a06594-c68e-7003-8dca-ddfdf606eb5f",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "total-retail",
   title: "Total Retail $/W",
   sectionOf: "book-section/solar-power/pricing",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const recoveryRates = {
   id: "01a06594-c67c-700d-b45c-73bcd8c73a88",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "recovery-rates",
   title: "Recovery rates",
   sectionOf: "all-about-alan",

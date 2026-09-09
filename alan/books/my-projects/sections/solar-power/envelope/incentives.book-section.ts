@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const incentives = {
   id: "01a06594-c68d-700e-8510-f9f4dc8ee80a",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "incentives",
   title: "Incentives and Utah Contractors",
   sectionOf: "book-section/solar-power/envelope",

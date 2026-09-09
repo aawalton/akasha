@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const revelationAsExposure = {
   id: "01a06594-c67c-7011-a502-2efff251843b",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "revelation-as-exposure",
   title: "Revelation as exposure",
   sectionOf: "all-about-alan",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const traumaEncoding = {
   id: "01a06594-c685-7009-aebe-df3a18c0c686",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "trauma-encoding",
   title: "Traumatic nervous-system encoding",
   sectionOf: "all-about-alan",

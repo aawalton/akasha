@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const battery = {
   id: "01a06594-c68e-7006-942e-d347a34aa85e",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "battery",
   title: "Battery Sizing",
   sectionOf: "book-section/solar-power/sizing",

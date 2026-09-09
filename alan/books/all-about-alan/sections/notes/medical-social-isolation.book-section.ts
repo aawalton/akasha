@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const medicalSocialIsolation = {
   id: "01a06594-c67b-7005-89cd-f098e3f70066",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "medical-social-isolation",
   title: "Medical social isolation",
   sectionOf: "all-about-alan",

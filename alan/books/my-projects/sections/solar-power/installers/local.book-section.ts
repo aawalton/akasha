@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const local = {
   id: "01a06594-c68d-7014-9386-9dc43e23e31d",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "local",
   title: "Local Utah Installers",
   sectionOf: "book-section/solar-power/installers",

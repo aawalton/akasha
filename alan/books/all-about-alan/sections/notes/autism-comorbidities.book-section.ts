@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const autismComorbidities = {
   id: "01a06594-c675-7005-8973-13173525b71d",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "autism-comorbidities",
   title: "Autism comorbidities",
   sectionOf: "all-about-alan",

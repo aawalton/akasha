@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const externalHolderRelationships = {
   id: "01a06594-c679-7006-ad41-fb5163e34da9",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "external-holder-relationships",
   title: "Relationships held from the outside",
   sectionOf: "all-about-alan",

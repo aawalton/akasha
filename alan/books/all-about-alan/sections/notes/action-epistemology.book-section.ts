@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const actionEpistemology = {
   id: "01a06594-c674-7005-a8ed-657f74660753",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "action-epistemology",
   title: "Action as the epistemic engine",
   sectionOf: "all-about-alan",

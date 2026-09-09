@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const thermoregulation = {
   id: "01a06594-c685-7003-86ad-13a169700e75",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "thermoregulation",
   title: "Thermoregulation",
   sectionOf: "all-about-alan",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const femininityAsSafetySignal = {
   id: "01a06594-c679-700c-9e3c-04e6f4fedd29",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "femininity-as-safety-signal",
   title: "Femininity as a Safety-raising signal",
   sectionOf: "all-about-alan",

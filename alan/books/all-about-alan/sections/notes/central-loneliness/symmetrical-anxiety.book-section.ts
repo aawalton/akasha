@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const symmetricalAnxiety = {
   id: "01a06594-c676-7007-a73c-642f250bbdd4",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "symmetrical-anxiety",
   title: "The symmetrical anxiety",
   sectionOf: "all-about-alan",

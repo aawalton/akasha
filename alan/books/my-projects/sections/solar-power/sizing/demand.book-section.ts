@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const demand = {
   id: "01a06594-c68e-7008-8829-59a74d13b6e1",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "demand",
   title: "Revised Annual Demand (Iteration 2)",
   sectionOf: "book-section/solar-power/sizing",

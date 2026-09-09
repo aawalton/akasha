@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const responsibilityMode = {
   id: "01a06594-c67c-7010-9dde-28ffbedb9700",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "responsibility-mode",
   title: "Responsibility Mode",
   sectionOf: "all-about-alan",

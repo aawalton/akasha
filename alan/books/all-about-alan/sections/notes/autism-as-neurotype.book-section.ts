@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const autismAsNeurotype = {
   id: "01a06594-c675-7003-91cf-ffd9b4bb8cc6",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "autism-as-neurotype",
   title: "Autism as neurotype (working definition)",
   sectionOf: "all-about-alan",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const faithAsObjectOfReason = {
   id: "01a06594-c679-7008-8be1-ff8c032debb5",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "faith-as-object-of-reason",
   title: "Faith as an object of reason",
   sectionOf: "all-about-alan",

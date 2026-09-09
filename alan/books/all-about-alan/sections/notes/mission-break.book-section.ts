@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const missionBreak = {
   id: "01a06594-c67b-7008-b871-43f8136ae0c8",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "mission-break",
   title: "The mission break",
   sectionOf: "all-about-alan",

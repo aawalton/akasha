@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const euResidencySweden = {
   id: "01a06594-c68a-700c-a1c4-94572ff6c59e",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "eu-residency-sweden",
   title: "Sweden",
   sectionOf: "book-section/second-passport/eu-residency",

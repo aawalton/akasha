@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const employmentCessation = {
   id: "01a06594-c678-7002-8fe4-14db949ab0df",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "employment-cessation",
   title: "Employment cessation",
   sectionOf: "all-about-alan",

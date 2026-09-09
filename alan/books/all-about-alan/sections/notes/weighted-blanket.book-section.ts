@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const weightedBlanket = {
   id: "01a06594-c686-7005-90b6-dce81da056fc",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "weighted-blanket",
   title: "Weighted blanket",
   sectionOf: "all-about-alan",

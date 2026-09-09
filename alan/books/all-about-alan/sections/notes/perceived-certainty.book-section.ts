@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const perceivedCertainty = {
   id: "01a06594-c67b-7014-a6b9-ba7717089902",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "perceived-certainty",
   title: "Perceived certainty gap",
   sectionOf: "all-about-alan",

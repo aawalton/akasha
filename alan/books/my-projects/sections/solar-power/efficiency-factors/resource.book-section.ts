@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const resource = {
   id: "01a06594-c68d-7002-82b7-c6c949575efb",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "resource",
   title: "Solar Resource at Provo",
   sectionOf: "book-section/solar-power/efficiency-factors",

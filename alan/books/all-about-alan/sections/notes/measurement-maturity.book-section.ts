@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const measurementMaturity = {
   id: "01a06594-c67b-7004-a6ee-e884c28ae200",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "measurement-maturity",
   title: "Measurement maturity",
   sectionOf: "all-about-alan",

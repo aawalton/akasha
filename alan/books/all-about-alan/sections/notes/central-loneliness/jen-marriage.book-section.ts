@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const jenMarriage = {
   id: "01a06594-c676-7003-a220-80dbfc3f9cbe",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "jen-marriage",
   title: "The marriage conflict mechanics",
   sectionOf: "all-about-alan",

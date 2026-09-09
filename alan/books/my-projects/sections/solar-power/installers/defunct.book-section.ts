@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const defunct = {
   id: "01a06594-c68d-7013-8f76-e8e1a587791a",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "defunct",
   title: "Defunct / Red-Flag Operators",
   sectionOf: "book-section/solar-power/installers",

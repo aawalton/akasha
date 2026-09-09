@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const connectionEfficacyModel = {
   id: "01a06594-c677-7002-9077-3aa8340269c0",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "connection-efficacy-model",
   title: "Connection efficacy model",
   sectionOf: "all-about-alan",

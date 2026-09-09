@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../../library/reading/book-chapter
 export const familyStream = {
   id: "01a06594-c68b-700f-8e82-f7182a126e4d",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "family-stream",
   title: "Family Stream",
   sectionOf: "book-section/other-residency/other-residency-australia",

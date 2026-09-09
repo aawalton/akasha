@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const dilemmasAndOpenQuestions = {
   id: "01a06594-c675-700a-b209-cb630f20a485",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
   sectionOf: "all-about-alan",

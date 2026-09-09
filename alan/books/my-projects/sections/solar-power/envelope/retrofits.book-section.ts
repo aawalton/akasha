@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const retrofits = {
   id: "01a06594-c68d-7010-a5b4-7dfb20d24956",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "retrofits",
   title: "Retrofit Packages — Leverage Ranking",
   sectionOf: "book-section/solar-power/envelope",

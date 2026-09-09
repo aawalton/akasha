@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const conceptualReallocation = {
   id: "01a06594-c676-7014-9794-8775e6e1bc04",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "conceptual-reallocation",
   title: "Conceptual reallocation (advantage)",
   sectionOf: "all-about-alan",

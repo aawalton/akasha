@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const arrowsInQuiver = {
   id: "01a06594-c674-7011-bbef-b6c2b348017a",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "arrows-in-quiver",
   title: "Arrows in quiver",
   sectionOf: "all-about-alan",

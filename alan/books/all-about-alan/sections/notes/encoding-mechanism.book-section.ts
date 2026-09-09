@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const encodingMechanism = {
   id: "01a06594-c679-7000-9e70-9037a1e4b979",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "encoding-mechanism",
   title: "Encoding mechanism",
   sectionOf: "all-about-alan",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const pornographyAndMasturbation = {
   id: "01a06594-c683-700d-ac6c-d0e009c33124",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "pornography-and-masturbation",
   title: "Pornography and masturbation",
   sectionOf: "all-about-alan",

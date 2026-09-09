@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const rankingCriterion = {
   id: "01a06594-c67c-7008-9fc3-7aaf79d67a80",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "ranking-criterion",
   title: "Ranking criterion",
   sectionOf: "all-about-alan",

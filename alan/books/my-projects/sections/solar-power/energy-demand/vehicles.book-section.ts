@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../library/reading/book-chapters/b
 export const vehicles = {
   id: "01a06594-c68d-7009-a047-54f198e92b0a",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "vehicles",
   title: "Two Electric Vehicles",
   sectionOf: "book-section/solar-power/energy-demand",

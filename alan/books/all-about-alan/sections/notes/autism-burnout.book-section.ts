@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../library/reading/book-chapters/book
 export const autismBurnout = {
   id: "01a06594-c675-7004-89a8-d7de239bf423",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "autism-burnout",
   title: "Autistic burnout",
   sectionOf: "all-about-alan",

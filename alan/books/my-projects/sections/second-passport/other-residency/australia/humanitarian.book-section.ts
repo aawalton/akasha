@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../../library/reading/book-chapter
 export const humanitarian = {
   id: "01a06594-c68b-7010-a103-737405ac933e",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "humanitarian",
   title: "Humanitarian",
   sectionOf: "book-section/other-residency/other-residency-australia",

@@ -3,6 +3,7 @@ import type { BookSection } from "../../../../../../library/reading/book-chapter
 export const specialCategory = {
   id: "01a06594-c68b-7012-a169-8a5c0f88db74",
   pageTypeSlug: "book-section",
+  type: "book-section",
   slug: "special-category",
   title: "Special Category",
   sectionOf: "book-section/other-residency/other-residency-australia",
