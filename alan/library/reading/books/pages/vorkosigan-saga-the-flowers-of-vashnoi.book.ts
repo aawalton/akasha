@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const vorkosiganSagaTheFlowersOfVashnoi = {
   id: "019db533-f39a-7a86-a1a7-4a1a9d90f6b1",

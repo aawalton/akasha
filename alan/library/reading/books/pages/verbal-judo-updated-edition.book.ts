@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const verbalJudoUpdatedEdition = {
   id: "019db533-f39d-7f35-b8de-e6a0e4495120",

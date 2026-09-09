@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const yourBestBrainTheScienceOfBrainImprovement = {
   id: "019db533-f39d-7e37-93e2-a77414ec4f52",

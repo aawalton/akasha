@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const voidknightAscension2 = {
   id: "019db533-f38a-74af-a302-7436fdebc243",
