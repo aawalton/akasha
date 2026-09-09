@@ -78,7 +78,7 @@ export const temper = {
     "workspace-package/temper-completion",
     "workspace-package/temper-catalog-host",
     "domain/temper-game-catalog-capture-host",
-    "workspace-package/temper-capture-datamining",
+    "domain/temper-capture-datamining",
     "workspace-package/temper-capture-errors",
     "domain/temper-capture-sales",
     "workspace-package/temper-races",

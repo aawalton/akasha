@@ -1,4 +1,7 @@
-import type { MinedItemEntry, SetBonus } from "@akasha/temper-capture-datamining/datamining-payload"
+import type {
+  MinedItemEntry,
+  SetBonus,
+} from "akasha/temper/capture-datamining/datamining-payload/datamining-payload.module.code.ts"
 import {
   ADDON_NAME,
   AUTO_START_DELAY,

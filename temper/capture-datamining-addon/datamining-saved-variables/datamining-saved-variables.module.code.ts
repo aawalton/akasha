@@ -1,4 +1,4 @@
-import type { DataMiningPayload } from "@akasha/temper-capture-datamining/datamining-payload"
+import type { DataMiningPayload } from "akasha/temper/capture-datamining/datamining-payload/datamining-payload.module.code.ts"
 
 let accessor: ((this: void) => DataMiningPayload) | undefined
 

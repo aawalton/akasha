@@ -1,7 +1,7 @@
 import "../datamining-public-api/datamining-public-api.module.code.ts"
 
-import { DATAMINING_CAPTURE_DESCRIPTOR } from "@akasha/temper-capture-datamining/datamining-descriptor"
 import { defineCaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
+import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-datamining/datamining-descriptor/datamining-descriptor.module.code.ts"
 import {
   ADDON_NAME,
   AUTO_START_DELAY,

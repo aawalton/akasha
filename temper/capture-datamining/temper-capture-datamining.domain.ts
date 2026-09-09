@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCaptureDatamining = {
   id: "01a0608a-15b0-78f6-8e8e-282460347005",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-capture-datamining",
   definition: "the shape a sweep of every item and quest id writes where the game saves it",
-  manifest: "json",
   parts: ["module/datamining-payload", "module/datamining-descriptor"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperCaptureDatamining = {
       statement: "Nothing here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

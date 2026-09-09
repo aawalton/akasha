@@ -48,7 +48,6 @@
         "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
-        "@akasha/temper-capture-datamining": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
@@ -1223,15 +1222,11 @@
         "@akasha/temper-formula-framework": "workspace:*",
       },
     },
-    "temper/capture-datamining": {
-      "name": "@akasha/temper-capture-datamining",
-    },
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-capture-datamining": "workspace:*",
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
@@ -2416,8 +2411,6 @@
     "@akasha/temper-build-metadata": ["@akasha/temper-build-metadata@workspace:temper/build-metadata"],
 
     "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/build-support"],
-
-    "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/capture-datamining"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 
