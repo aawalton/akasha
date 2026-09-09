@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const netweaver = {
   id: "01a0657e-0234-73ba-8fb3-085123642f08",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "netweaver",
   title: "Netweaver",
   world: "the-wandering-inn",

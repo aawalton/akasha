@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const relickeeperHeiress = {
   id: "01a0657e-0245-774d-886d-cf1b60ece5fa",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "relickeeper-heiress",
   title: "Relickeeper Heiress",
   world: "the-wandering-inn",

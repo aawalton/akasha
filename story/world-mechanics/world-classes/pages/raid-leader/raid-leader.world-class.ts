@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const raidLeader = {
   id: "01a06586-0a1c-7b16-bf97-fcf745be8a4e",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "raid-leader",
   title: "Raid Leader",
   world: "the-wandering-inn",
