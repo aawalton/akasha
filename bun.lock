@@ -37,7 +37,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -971,11 +970,7 @@
       "name": "@akasha/temper-catalog-addon",
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
       },
-    },
-    "temper/catalog-core": {
-      "name": "@akasha/temper-catalog-core",
     },
     "temper/characters-addon": {
       "name": "@akasha/temper-characters-addon",
@@ -1395,8 +1390,6 @@
     "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
 
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
-
-    "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/catalog-core"],
 
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/characters-addon"],
 

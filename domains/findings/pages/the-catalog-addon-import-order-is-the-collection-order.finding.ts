@@ -5,7 +5,7 @@ export const theCatalogAddonImportOrderIsTheCollectionOrder = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-catalog-addon-import-order-is-the-collection-order",
-  domain: "workspace-package/temper-catalog-core",
+  domain: "domain/temper-catalog-core",
   claim:
     "The order of the nineteen side-effect imports in `temper/catalog-addon/src/main.ts` is the order every game catalog is collected in. A repoint that groups those imports by package, or any tool that sorts them, changes the collection order and nothing fails. The teardown of the ten collector packages rewrites fifteen of the nineteen, so this is a live hazard rather than a distant one.",
   evidence:

@@ -14,7 +14,6 @@
     "./catalog-entry": "./catalog-entry/catalog-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-catalog-core": "workspace:*"
+    "@akasha/temper-addon-library-types": "workspace:*"
   }
 }

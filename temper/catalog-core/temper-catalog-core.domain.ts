@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCatalogCore = {
   id: "01a06071-0c7a-7792-ab3e-69213b5eaf92",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-catalog-core",
   definition: "the shape a capture of the game's reference data takes, and the walk that fills it",
-  manifest: "json",
   parts: [
     "module/catalog-payload",
     "module/catalog-descriptor",
@@ -25,11 +24,11 @@ export const temperCatalogCore = {
     },
     {
       invariantKind: "departure",
-      statement: "Each catalog domain's collector lives in a package apart from this package.",
+      statement: "Each catalog domain's collector lives in a folder apart from this folder.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
