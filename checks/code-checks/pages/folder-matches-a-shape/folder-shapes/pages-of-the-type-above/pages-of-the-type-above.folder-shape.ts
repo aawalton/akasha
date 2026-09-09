@@ -45,5 +45,9 @@ export const pagesOfTheTypeAbove = {
       invariantKind: "departure",
       statement: "A folder named `pages` above which no page type sits is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file that is neither a page nor a file beside a page is refused.",
+    },
   ],
 } as const satisfies FolderShape
