@@ -3,9 +3,9 @@ import "@akasha/temper-eso-types/eso-functions-06"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
 
-import { HUD_SCENE_CATALOG } from "@akasha/temper-hud-components/hud-scene-catalog"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   computeHidePlan,
   indexInventoryById,

@@ -1,4 +1,4 @@
-import type { HideMechanism } from "@akasha/temper-hud-components/hud-component-record"
+import type { HideMechanism } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 
 export interface HideRegistration {
   id: string

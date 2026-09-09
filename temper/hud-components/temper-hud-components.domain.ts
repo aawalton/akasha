@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperHudComponents = {
   id: "01a060a4-fa38-742d-9517-977730401b38",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-hud-components",
   definition: "the parts of the game's HUD, each with the way the game hides that part",
-  manifest: "json",
   parts: [
     "module/hud-scene-source",
     "module/hud-component-record",
@@ -38,4 +37,4 @@ export const temperHudComponents = {
       statement: "No game function is called here.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

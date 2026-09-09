@@ -1,4 +1,4 @@
-import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-component-record"
+import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import type {
   HidePlanEntry,
   HideRegistration,

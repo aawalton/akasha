@@ -7,10 +7,10 @@ import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
 import { esouiDir } from "@akasha/temper-eso-paths/eso-paths"
-import type { HudComponentRecord } from "@akasha/temper-hud-components/hud-component-record"
-import { HUD_SCENE_CATALOG_SCHEMA } from "@akasha/temper-hud-components/hud-component-record"
-import { buildCatalog } from "@akasha/temper-hud-components/hud-scene-parse"
-import { HUD_SCENE_SOURCE } from "@akasha/temper-hud-components/hud-scene-source"
+import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
+import { HUD_SCENE_CATALOG_SCHEMA } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
+import { buildCatalog } from "akasha/temper/hud-components/hud-scene-parse/hud-scene-parse.module.code.ts"
+import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/hud-scene-source/hud-scene-source.module.code.ts"
 import {
   saidFor,
   saidShort,

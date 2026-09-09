@@ -3,7 +3,7 @@ import "@akasha/temper-eso-types/eso-events"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
 
-import { HUD_SCENE_CATALOG } from "@akasha/temper-hud-components/hud-scene-catalog"
+import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
 import {
   createHideRegistry,
   type HideRegistry,
