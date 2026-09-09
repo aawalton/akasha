@@ -42,5 +42,10 @@ export const aDomainWithItsParts = {
       invariantKind: "departure",
       statement: "A subfolder with no page the domain declares is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subfolder with a second page that is no workspace package of the first is the folder of no part.",
+    },
   ],
 } as const satisfies FolderShape

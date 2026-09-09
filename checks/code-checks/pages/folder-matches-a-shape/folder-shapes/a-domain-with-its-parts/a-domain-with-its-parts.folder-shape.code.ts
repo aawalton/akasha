@@ -40,7 +40,7 @@ export function aDomainWithItsParts(standing: Standing): readonly string[] {
   })
   if (stray.length > 0) {
     said.push(
-      `${stray.length} subfolders are no part \`${page.slug}\` declares: ${saidInside(standing.folder, stray)}`
+      `${stray.length} subfolders are the folder of no part \`${page.slug}\` declares: ${saidInside(standing.folder, stray)}`
     )
   }
   return said
