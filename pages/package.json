@@ -101,7 +101,6 @@
   "dependencies": {
     "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
-    "@akasha/command-system": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

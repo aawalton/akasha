@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/command-system": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",

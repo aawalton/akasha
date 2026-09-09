@@ -270,7 +270,6 @@
     "@akasha/agents": "workspace:*",
     "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*",
-    "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

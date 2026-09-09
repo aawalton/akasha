@@ -8,7 +8,6 @@
         "@akasha/changes": "workspace:*",
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -329,7 +328,6 @@
       "name": "@akasha/changes",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -622,7 +620,6 @@
       "dependencies": {
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -822,7 +819,6 @@
         "@akasha/agents": "workspace:*",
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
