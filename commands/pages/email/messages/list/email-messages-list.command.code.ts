@@ -9,7 +9,7 @@ import {
   type Read,
   readTaking,
   refusing,
-} from "../../../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
+} from "../../../../../google/email/email-command-reading/email-command-reading.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 
 const QUERY = "--query"
