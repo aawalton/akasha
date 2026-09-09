@@ -5,7 +5,7 @@ export const melodyOfMana0141Chapter128DistortionsAndDances = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0141-chapter-128-distortions-and-dances",
   title: "Chapter 128 Distortions and Dances",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 141,
   ownLength: 2170,
   ownProgress: 2170,

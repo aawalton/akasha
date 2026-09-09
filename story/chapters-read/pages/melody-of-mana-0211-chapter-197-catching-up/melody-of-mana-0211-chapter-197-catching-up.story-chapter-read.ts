@@ -5,7 +5,7 @@ export const melodyOfMana0211Chapter197CatchingUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0211-chapter-197-catching-up",
   title: "Chapter 197 Catching Up",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 211,
   ownLength: 1712,
   ownProgress: 1712,

@@ -5,7 +5,7 @@ export const melodyOfMana0105Chapter93ThoseWhoShowUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0105-chapter-93-those-who-show-up",
   title: "Chapter 93 Those Who Show Up",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 105,
   ownLength: 1782,
   ownProgress: 1782,

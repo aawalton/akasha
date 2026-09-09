@@ -5,7 +5,7 @@ export const melodyOfMana0279Chapter265Interloper = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0279-chapter-265-interloper",
   title: "Chapter 265 Interloper",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 279,
   ownLength: 1453,
   ownProgress: 1453,

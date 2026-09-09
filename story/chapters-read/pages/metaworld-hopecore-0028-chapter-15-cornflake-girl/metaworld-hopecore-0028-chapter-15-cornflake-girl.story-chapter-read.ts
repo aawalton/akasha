@@ -5,7 +5,7 @@ export const metaworldHopecore0028Chapter15CornflakeGirl = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0028-chapter-15-cornflake-girl",
   title: "CHAPTER 15 - Cornflake Girl",
-  partOfCollectionSlugs: ["metaworld-hopecore"],
+  storySlug: "metaworld-hopecore",
   position: 28,
   ownLength: 2180,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0224Chapter210OutOfTheCell = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0224-chapter-210-out-of-the-cell",
   title: "Chapter 210 Out of the Cell",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 224,
   ownLength: 1941,
   ownProgress: 1941,

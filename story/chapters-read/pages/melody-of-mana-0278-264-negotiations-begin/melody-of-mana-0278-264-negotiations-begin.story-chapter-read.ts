@@ -5,7 +5,7 @@ export const melodyOfMana0278264NegotiationsBegin = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0278-264-negotiations-begin",
   title: "264 Negotiations Begin",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 278,
   ownLength: 1296,
   ownProgress: 1296,

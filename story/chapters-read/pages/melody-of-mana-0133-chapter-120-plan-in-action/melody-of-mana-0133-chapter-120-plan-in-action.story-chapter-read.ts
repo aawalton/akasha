@@ -5,7 +5,7 @@ export const melodyOfMana0133Chapter120PlanInAction = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0133-chapter-120-plan-in-action",
   title: "Chapter 120 Plan in Action",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 133,
   ownLength: 2295,
   ownProgress: 2295,

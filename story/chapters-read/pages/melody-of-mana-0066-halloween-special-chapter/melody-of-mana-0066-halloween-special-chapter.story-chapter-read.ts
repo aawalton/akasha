@@ -5,7 +5,7 @@ export const melodyOfMana0066HalloweenSpecialChapter = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0066-halloween-special-chapter",
   title: "Halloween Special Chapter",
-  partOfCollectionSlugs: ["story-read/melody-of-mana"],
+  storySlug: "story-read/melody-of-mana",
   position: 66,
   ownLength: 2084,
   ownProgress: 2084,
