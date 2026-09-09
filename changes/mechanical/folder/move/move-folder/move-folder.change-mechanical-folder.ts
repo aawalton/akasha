@@ -88,6 +88,19 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A folder the index files as a page's own, holding a file under the folder moved, refuses the move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a folder is taken away before the move rather than carried or emptied here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file this change carries none of is taken away by this change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder moved under itself is refused.",
     },
     {

@@ -286,5 +286,18 @@ export const changeShadow = {
         "A folder the index files as a page's own is left out of the paths a folder answers.",
     },
     { invariantKind: "departure", statement: "Every file that folder has is left out with it." },
+    {
+      invariantKind: "departure",
+      statement:
+        "A world answers which folders under a folder are left out beside the paths that folder answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder left out holding no file is left out of that answer too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those folders are read from the tree rather than from the answers gathered.",
+    },
   ],
 } as const satisfies Module

@@ -48,6 +48,7 @@ export type World = {
   readonly textOf: (path: string) => string | null
   readonly bodyOf: BodyOf
   readonly under: (folder: string) => readonly string[]
+  readonly unentered?: (folder: string) => readonly string[]
   readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
@@ -60,6 +61,19 @@ function treeUnder(root: string, folder: string, index: Answering): readonly str
   return walkedUnder(at, () => true, entering)
     .map((one) => relative(root, one))
     .sort()
+}
+
+export function treeUnentered(root: string, folder: string, index: Answering): readonly string[] {
+  const at = join(root, folder)
+  if (!existsSync(at)) return []
+  const found: string[] = []
+  const entering = (path: string): boolean => {
+    if (index.listedByPath(relative(root, path)).length === 0) return true
+    if (walkedUnder(path, () => true).length > 0) found.push(relative(root, path))
+    return false
+  }
+  walkedUnder(at, () => false, entering)
+  return [...found].sort()
 }
 
 function beneath(folder: string, path: string): boolean {
@@ -153,6 +167,7 @@ export function worldAt(
     textOf,
     bodyOf,
     under: (folder) => treeUnder(root, folder, index),
+    unentered: (folder) => treeUnentered(root, folder, index),
     base: bodyOf,
     over: NOTHING_OVER,
     reaching,
@@ -173,6 +188,7 @@ export function worldOver(world: World, said: Answer): World {
     },
     bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
     under: (folder) => underOver(world.under(folder), said, folder),
+    unentered: world.unentered,
     base: world.base,
     over,
     reaching: world.reaching,
@@ -219,6 +235,7 @@ export function worldBefore(world: World): World {
     textOf: narrowed(bodyOf),
     bodyOf,
     under: world.under,
+    unentered: world.unentered,
     base: kept.base,
     over: kept.over,
     reaching: world.reaching,
@@ -300,6 +317,7 @@ export function ledgerAt(
       return held === undefined ? kept.base(path) : held
     },
     under: (folder) => underOver(treeUnder(root, folder, asked()), kept.over, folder),
+    unentered: (folder) => treeUnentered(root, folder, asked()),
   }
 }
 

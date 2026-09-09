@@ -49,6 +49,15 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (given.from === given.to) {
     return refusing(`\`${given.to}\` is the folder those files sit under`)
   }
+  const left = world.unentered?.(given.from) ?? []
+  if (left.length > 0) {
+    const named = left.map((one) => `\`${one}\``).join(", ")
+    const holds = left.length === 1 ? "holds" : "hold"
+    return refusing(
+      `${named} ${holds} a file no move carries, so \`${given.from}\` is left holding it` +
+        ` — take it away before the move`
+    )
+  }
   const under = underneath(world, given.from)
   if (under.length === 0) {
     return refusing(`\`${given.from}\` holds no file, so nothing is carried`)

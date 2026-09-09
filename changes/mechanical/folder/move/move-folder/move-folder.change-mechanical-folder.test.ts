@@ -3,6 +3,7 @@ import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/index
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
+  treeUnentered,
   type World,
   worldAt,
 } from "../../../../modules/shadow/change-shadow.module.code.ts"
@@ -24,6 +25,8 @@ const BETA_CODE = `${FROM}/beta.module.code.ts`
 const GAMMA_CODE = `${FROM}/deep/gamma.module.code.ts`
 
 const OUTER_CODE = "akasha/five/outer.module.code.ts"
+
+const CLAIMS = "01a04a4a-0002-7000-8000-000000000001"
 
 const pageBody = (slug: string, id: string): string =>
   pageOf({
@@ -172,6 +175,34 @@ test("a folder holding no file is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/holds no file/)
+})
+
+test("a folder the index claims under the folder that moves is refused rather than left behind", async () => {
+  const root = indexedRepo(HELD)
+  const claimed = `${FROM}/.react-router`
+  put(root, `${claimed}/types/routes.ts`, "export const routes = 1\n")
+  const world = worldIn(root)
+  const face = {
+    ...world.index,
+    listedByPath: (path: string) =>
+      path === claimed ? [{ path: `${FROM}/alpha.module.ts`, id: CLAIMS }] : [],
+  }
+  const said = await runChange(
+    { ...world, unentered: (folder: string) => treeUnentered(root, folder, face) },
+    { from: FROM, to: INTO }
+  )
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(claimed)
+})
+
+test("a folder the index claims nothing of is carried rather than refused", async () => {
+  const root = indexedRepo(HELD)
+  put(root, `${FROM}/.react-router/types/routes.ts`, "export const routes = 1\n")
+  const said = await runChange(worldIn(root), { from: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${INTO}/.react-router/types/routes.ts`)
 })
 
 test("the folder the files already sit under is refused", async () => {
