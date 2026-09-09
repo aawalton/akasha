@@ -1,4 +1,4 @@
-import type { QuestStatus } from "@akasha/story-engine-core/quest-schema"
+import type { QuestStatus } from "akasha/story/engine/core/quest-schema/quest-schema.module.code.ts"
 import type { ClientQuest } from "../client-session/client-session.module.code.ts"
 
 const STATUS_LABEL: Record<QuestStatus, string> = {

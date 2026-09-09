@@ -4,8 +4,8 @@ import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { formatPlayerChoiceAction } from "@akasha/story-engine-core/choice-action"
-import type { SystemChoice } from "@akasha/story-engine-core/system-window-schema"
+import { formatPlayerChoiceAction } from "akasha/story/engine/core/choice-action/choice-action.module.code.ts"
+import type { SystemChoice } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import { type ReactNode, useState } from "react"
 
 export type PlayerActionInput = {

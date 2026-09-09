@@ -1,4 +1,4 @@
-import { parseProseIntoRawSegments } from "@akasha/story-engine-core/prose-segments"
+import { parseProseIntoRawSegments } from "akasha/story/engine/core/prose-segments/prose-segments.module.code.ts"
 import type { ClientBeat } from "../client-session/client-session.module.code.ts"
 import type {
   ClientProseSegment,

@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { GameDisplayModules } from "@akasha/story-engine-core/game-schema"
-import { GameStateSchema } from "@akasha/story-engine-core/state-schema"
+import type { GameDisplayModules } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
+import { GameStateSchema } from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
 import {
   assertEnvelopeMatchesModules,
   composeSessionEnvelope,

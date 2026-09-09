@@ -1,4 +1,7 @@
-import { type GameState, GameStateSchema } from "@akasha/story-engine-core/state-schema"
+import {
+  type GameState,
+  GameStateSchema,
+} from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
 
 export interface AwenStatePageFields {
   readonly turn: unknown

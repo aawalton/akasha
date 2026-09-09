@@ -5,11 +5,17 @@ import {
   BeatSchema,
   renderSystemMechanics,
   SystemMechanicsSchema,
-} from "@akasha/story-engine-core/beat-schema"
-import { QuestSchema } from "@akasha/story-engine-core/quest-schema"
-import { DEFAULT_REVEAL_KEYS, narrowRevealed } from "@akasha/story-engine-core/revealed"
-import { type GameState, HudSchema } from "@akasha/story-engine-core/state-schema"
-import { SystemWindowSchema } from "@akasha/story-engine-core/system-window-schema"
+} from "akasha/story/engine/core/beat-schema/beat-schema.module.code.ts"
+import { QuestSchema } from "akasha/story/engine/core/quest-schema/quest-schema.module.code.ts"
+import {
+  DEFAULT_REVEAL_KEYS,
+  narrowRevealed,
+} from "akasha/story/engine/core/revealed/revealed.module.code.ts"
+import {
+  type GameState,
+  HudSchema,
+} from "akasha/story/engine/core/state-schema/state-schema.module.code.ts"
+import { SystemWindowSchema } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import { z } from "zod"
 import type { ClientStoryChapter } from "../client-story-session/client-story-session.module.code.ts"
 

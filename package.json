@@ -47,7 +47,6 @@
     "@akasha/pages-service": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-query": "workspace:*",
-    "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",

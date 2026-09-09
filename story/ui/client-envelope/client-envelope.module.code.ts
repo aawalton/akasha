@@ -1,6 +1,9 @@
 import { frameConfigSchema } from "@akasha/pages-core/schema/detail-config"
-import { ACTION_BAR_MESSAGE_KINDS } from "@akasha/story-engine-core/action-bar-message"
-import { GameAlertsSchema, GameDisplayModulesSchema } from "@akasha/story-engine-core/game-schema"
+import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/action-bar-message/action-bar-message.module.code.ts"
+import {
+  GameAlertsSchema,
+  GameDisplayModulesSchema,
+} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import { z } from "zod"
 import {
   ClientBeatSchema,

@@ -29,7 +29,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
-        "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
@@ -236,7 +235,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/persons": "workspace:*",
-        "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -888,14 +886,6 @@
         "vite": "^8.0.3",
       },
     },
-    "story/engine/core": {
-      "name": "@akasha/story-engine-core",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/antiquities-addon": {
       "name": "@akasha/temper-antiquities-addon",
     },
@@ -1242,8 +1232,6 @@
     "@akasha/service": ["@akasha/service@workspace:services"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:alan/harness/supabase-auth"],
 

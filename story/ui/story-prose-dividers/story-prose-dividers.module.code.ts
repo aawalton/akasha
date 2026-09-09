@@ -1,7 +1,7 @@
 import type {
   ChapterProsePastTurns,
   ChapterProseTitles,
-} from "@akasha/story-engine-core/game-schema"
+} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import type { ClientStoryTurn } from "../client-story-session/client-story-session.module.code.ts"
 
 export interface ProseRow {

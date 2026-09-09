@@ -4,7 +4,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
-import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
+import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
 import {
   CHAPTER_PAGE_TYPE,
   chapterPageSlug,

@@ -1,13 +1,13 @@
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   ItemAward,
   QuestWindow,
   StatusAssessment,
   SystemWindow,
   TalentActivation,
-} from "@akasha/story-engine-core/system-window-schema"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,

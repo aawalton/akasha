@@ -1,6 +1,9 @@
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import type { PoolBarColor, PoolPresentation } from "@akasha/story-engine-core/game-schema"
+import type {
+  PoolBarColor,
+  PoolPresentation,
+} from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
 import type { ClientHud } from "../client-session/client-session.module.code.ts"
 import { computePoolBars, type PoolBar } from "../pool-bars/pool-bars.module.code.ts"
 

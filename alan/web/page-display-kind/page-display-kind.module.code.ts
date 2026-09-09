@@ -1,4 +1,4 @@
-import { selectGameRenderMode } from "@akasha/story-engine-core/game-engine"
+import { selectGameRenderMode } from "akasha/story/engine/core/game-engine/game-engine.module.code.ts"
 
 export type PageDisplayKind = "idle" | "chess" | "chess-review" | "persona" | "generic"
 

@@ -1,7 +1,10 @@
 import { buildPageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { ChapterProseHistory } from "@akasha/story-engine-core/game-schema"
-import { isPublishedTurnStatus, TurnStatusSchema } from "@akasha/story-engine-core/turn-schema"
+import type { ChapterProseHistory } from "akasha/story/engine/core/game-schema/game-schema.module.code.ts"
+import {
+  isPublishedTurnStatus,
+  TurnStatusSchema,
+} from "akasha/story/engine/core/turn-schema/turn-schema.module.code.ts"
 import { z } from "zod"
 import type {
   ClientStoryChapter,
