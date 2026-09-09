@@ -241,5 +241,9 @@ export const commandServer = {
       invariantKind: "constraint",
       statement: "Stdin closes when the caller dies.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command that throws while running is refused by name rather than answered.",
+    },
   ],
 } as const satisfies Module
