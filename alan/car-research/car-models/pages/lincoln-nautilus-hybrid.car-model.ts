@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const lincolnNautilusHybrid = {
   id: "019e4ae9-ae7a-715b-a45f-e606975ae29c",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "lincoln-nautilus-hybrid",
   title: "Nautilus Hybrid",
   bodyStyle: "suv",

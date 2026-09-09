@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const volvoEc40 = {
   id: "019e4afc-bb8f-73f0-86a5-93bac97cc7ed",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "volvo-ec40",
   title: "EC40",
   bodyStyle: "crossover",

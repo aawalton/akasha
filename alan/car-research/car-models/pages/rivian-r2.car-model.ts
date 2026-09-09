@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const rivianR2 = {
   id: "019e4afb-b2ac-70ee-abc4-e1b11fcae768",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "rivian-r2",
   title: "R2",
   bodyStyle: "suv",

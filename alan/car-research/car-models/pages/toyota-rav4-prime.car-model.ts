@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaRav4Prime = {
   id: "019e4b01-98f8-7c4e-81c1-ba76b91a1c81",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-rav4-prime",
   title: "RAV4 Prime",
   bodyStyle: "suv",

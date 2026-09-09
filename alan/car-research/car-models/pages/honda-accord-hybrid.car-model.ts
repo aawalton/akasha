@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hondaAccordHybrid = {
   id: "019e4ae0-ffdb-7974-ada4-218c94c57ea6",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "honda-accord-hybrid",
   title: "Accord Hybrid",
   bodyStyle: "sedan",

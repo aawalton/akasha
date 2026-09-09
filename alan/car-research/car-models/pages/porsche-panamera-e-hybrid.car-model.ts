@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const porschePanameraEHybrid = {
   id: "019e4afb-2cf9-7095-a82d-14a1a8b01526",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "porsche-panamera-e-hybrid",
   title: "Panamera E-Hybrid",
   bodyStyle: "sedan",

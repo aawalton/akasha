@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const bmwXm = {
   id: "019e4ad7-dbf9-7aad-8b49-4df3bf9b6da1",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "bmw-xm",
   title: "XM",
   bodyStyle: "suv",

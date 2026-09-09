@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const acuraRsx = {
   id: "019e4ad7-959c-7437-8d43-662acfd2ac1b",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "acura-rsx",
   title: "RSX",
   bodyStyle: "crossover",

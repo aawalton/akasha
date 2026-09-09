@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const bentleyBentaygaHybrid = {
   id: "019e4ad6-a173-7544-a821-a7152035acce",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "bentley-bentayga-hybrid",
   title: "Bentayga Hybrid",
   bodyStyle: "suv",

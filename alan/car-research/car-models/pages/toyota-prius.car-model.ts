@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaPrius = {
   id: "019e4afb-ee2c-7949-847e-c38d1e348acb",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-prius",
   title: "Prius",
   bodyStyle: "hatchback",

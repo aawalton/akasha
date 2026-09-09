@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const gmcSierraEv = {
   id: "019e4adf-4907-7d92-878e-de1cbdc2ac8c",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "gmc-sierra-ev",
   title: "Sierra EV",
   bodyStyle: "truck",

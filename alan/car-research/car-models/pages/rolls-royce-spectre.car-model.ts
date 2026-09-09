@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const rollsRoyceSpectre = {
   id: "019e4af6-936e-7771-a0f7-83b9c12e1b5c",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "rolls-royce-spectre",
   title: "Spectre",
   bodyStyle: "coupe",

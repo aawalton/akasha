@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const mercedesBenzAmgGt63SEPerformance = {
   id: "019e4af1-63c3-7105-abba-47ed18ba2a41",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "mercedes-benz-amg-gt-63-s-e-performance",
   title: "AMG GT 63 S E Performance",
   bodyStyle: "coupe",

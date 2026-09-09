@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const subaruTrailseeker = {
   id: "019e4af7-7a50-7a0e-a33f-f98582953a66",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "subaru-trailseeker",
   title: "Trailseeker",
   bodyStyle: "suv",

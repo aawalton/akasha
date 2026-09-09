@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const genesisGv60 = {
   id: "019e4adc-e002-7df5-a5e2-914568a52d42",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "genesis-gv60",
   title: "GV60",
   bodyStyle: "crossover",

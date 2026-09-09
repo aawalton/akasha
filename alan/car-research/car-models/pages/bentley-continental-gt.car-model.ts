@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const bentleyContinentalGt = {
   id: "019e4ad6-c7af-7c25-9b6b-3752af27454e",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "bentley-continental-gt",
   title: "Continental GT",
   bodyStyle: "coupe",

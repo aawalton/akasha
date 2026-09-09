@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const chevroletBlazerEv = {
   id: "019e4ad9-f757-7dd6-bf90-ac49fc7ea3d7",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "chevrolet-blazer-ev",
   title: "Blazer EV",
   bodyStyle: "suv",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const nissanAriya = {
   id: "019e4af1-ef3a-72df-882d-1d17228be21b",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "nissan-ariya",
   title: "Ariya",
   bodyStyle: "crossover",

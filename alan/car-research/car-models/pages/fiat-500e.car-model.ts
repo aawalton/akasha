@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const fiat500e = {
   id: "019e4ada-4be3-714d-99ea-fd86ac0a5771",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "fiat-500e",
   title: "500e",
   bodyStyle: "hatchback",

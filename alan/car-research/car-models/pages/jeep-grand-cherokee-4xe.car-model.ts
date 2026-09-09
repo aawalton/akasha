@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const jeepGrandCherokee4xe = {
   id: "019e4ae6-2b29-709c-936e-93dc91188239",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "jeep-grand-cherokee-4xe",
   title: "Grand Cherokee 4xe",
   bodyStyle: "suv",

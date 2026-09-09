@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const ferrari296Speciale = {
   id: "019e4ada-1e17-7db3-80e6-8ec62ffc775c",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "ferrari-296-speciale",
   title: "296 Speciale",
   bodyStyle: "coupe",

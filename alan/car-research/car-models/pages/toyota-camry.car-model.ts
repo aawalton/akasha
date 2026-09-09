@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaCamry = {
   id: "019e4b02-bcc7-7538-a410-1dc6654880b1",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-camry",
   title: "Camry",
   bodyStyle: "sedan",

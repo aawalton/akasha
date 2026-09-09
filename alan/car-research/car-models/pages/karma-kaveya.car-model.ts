@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const karmaKaveya = {
   id: "019e4ae2-72df-76cb-af6c-3caba52a931b",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "karma-kaveya",
   title: "Kaveya",
   bodyStyle: "coupe",

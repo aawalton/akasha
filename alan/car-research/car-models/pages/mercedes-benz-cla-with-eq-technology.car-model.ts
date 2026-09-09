@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const mercedesBenzClaWithEqTechnology = {
   id: "019e4af0-706d-7c80-8e93-27a2ec5047cf",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "mercedes-benz-cla-with-eq-technology",
   title: "CLA with EQ Technology",
   bodyStyle: "sedan",

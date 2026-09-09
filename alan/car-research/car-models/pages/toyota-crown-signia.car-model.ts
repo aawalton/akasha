@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaCrownSignia = {
   id: "019e4b06-203a-7e92-a02b-e0d179aa0187",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-crown-signia",
   title: "Crown Signia",
   bodyStyle: "wagon",

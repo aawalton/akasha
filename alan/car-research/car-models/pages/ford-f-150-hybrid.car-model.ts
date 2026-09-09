@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const fordF150Hybrid = {
   id: "019e4add-c908-790e-9e4f-de0f677466a1",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "ford-f-150-hybrid",
   title: "F-150 Hybrid",
   bodyStyle: "truck",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const porscheMacanElectric = {
   id: "019e4af6-5086-70b7-869c-bd64cdbcd527",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "porsche-macan-electric",
   title: "Macan Electric",
   bodyStyle: "suv",

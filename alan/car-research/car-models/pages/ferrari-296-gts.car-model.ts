@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const ferrari296Gts = {
   id: "019e4ad9-f670-7351-96b8-db519f6fb31d",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "ferrari-296-gts",
   title: "296 GTS",
   bodyStyle: "convertible",

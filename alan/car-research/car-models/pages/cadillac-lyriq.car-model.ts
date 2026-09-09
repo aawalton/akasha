@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const cadillacLyriq = {
   id: "019e4ad6-9c56-7ee2-9258-a2b41e21c36d",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "cadillac-lyriq",
   title: "Lyriq",
   bodyStyle: "suv",

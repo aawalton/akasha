@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hondaPrologue = {
   id: "019e4ae0-990e-7b6c-b12a-bde8bc919122",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "honda-prologue",
   title: "Prologue",
   bodyStyle: "suv",

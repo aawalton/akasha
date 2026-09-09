@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const teslaCybertruck = {
   id: "019e4af8-3e13-72ad-991b-760723f4d8ee",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "tesla-cybertruck",
   title: "Cybertruck",
   bodyStyle: "truck",

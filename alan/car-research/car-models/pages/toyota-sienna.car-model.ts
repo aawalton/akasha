@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaSienna = {
   id: "019e4b0d-bdb1-7fd2-b4fa-37739cc206ef",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-sienna",
   title: "Sienna",
   bodyStyle: "minivan",

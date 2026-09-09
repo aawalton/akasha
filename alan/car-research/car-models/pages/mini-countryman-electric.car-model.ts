@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const miniCountrymanElectric = {
   id: "019e4af1-aeca-76bd-87f4-d7e08af70bdf",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "mini-countryman-electric",
   title: "Countryman Electric",
   bodyStyle: "suv",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const bentleyContinentalGtc = {
   id: "019e4ad6-e705-7c58-8a9c-3426568faa5c",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "bentley-continental-gtc",
   title: "Continental GTC",
   bodyStyle: "convertible",

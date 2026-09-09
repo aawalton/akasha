@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const jeepRecon = {
   id: "019e4ae8-22dd-7928-bc28-7e869a1d0aa7",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "jeep-recon",
   title: "Recon",
   bodyStyle: "suv",

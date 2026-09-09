@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const audiQ6ETron = {
   id: "019e4adb-7d03-75bb-90a1-0023761c8f80",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "audi-q6-e-tron",
   title: "Q6 e-tron",
   bodyStyle: "suv",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hyundaiPalisadeHybrid = {
   id: "019e4ae2-220f-7097-b8c0-5e07c5c81167",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "hyundai-palisade-hybrid",
   title: "Palisade Hybrid",
   bodyStyle: "suv",

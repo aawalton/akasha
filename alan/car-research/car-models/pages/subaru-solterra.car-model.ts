@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const subaruSolterra = {
   id: "019e4af6-e98d-70c2-b736-0db8df942a2e",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "subaru-solterra",
   title: "Solterra",
   bodyStyle: "suv",

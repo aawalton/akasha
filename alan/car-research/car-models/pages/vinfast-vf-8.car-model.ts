@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const vinfastVf8 = {
   id: "019e4afa-9d10-7aff-a560-4efa4fa37a32",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "vinfast-vf-8",
   title: "VF 8",
   bodyStyle: "suv",

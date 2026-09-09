@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaTundraHybrid = {
   id: "019e4b0c-9eea-76f4-b99f-55d27ed7b152",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-tundra-hybrid",
   title: "Tundra Hybrid",
   bodyStyle: "truck",

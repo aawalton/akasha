@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const subaruCrosstrekHybrid = {
   id: "019e4af7-41c8-7ca5-92a6-cb014763c3a9",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "subaru-crosstrek-hybrid",
   title: "Crosstrek Hybrid",
   bodyStyle: "crossover",

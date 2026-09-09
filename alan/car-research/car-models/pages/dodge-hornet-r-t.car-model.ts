@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const dodgeHornetRT = {
   id: "019e4ad9-6230-74f4-9fb9-7e0bd351ec95",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "dodge-hornet-r-t",
   title: "Hornet R/T",
   bodyStyle: "suv",

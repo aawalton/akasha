@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const astonMartinValhalla = {
   id: "019e4ad5-57ec-77c6-ac3c-2c5a6631c010",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "aston-martin-valhalla",
   title: "Valhalla",
   bodyStyle: "coupe",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const volvoS60 = {
   id: "019e4afd-a071-7549-9837-ffbbd45c5c98",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "volvo-s60",
   title: "S60",
   bodyStyle: "sedan",

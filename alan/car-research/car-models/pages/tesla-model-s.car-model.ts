@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const teslaModelS = {
   id: "019e4af7-ef70-76fc-8960-c3d0d36e8b9d",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "tesla-model-s",
   title: "Model S",
   bodyStyle: "sedan",

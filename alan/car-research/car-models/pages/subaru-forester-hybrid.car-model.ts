@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const subaruForesterHybrid = {
   id: "019e4af7-1aa0-7dd7-bc98-8298d899a443",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "subaru-forester-hybrid",
   title: "Forester Hybrid",
   bodyStyle: "suv",

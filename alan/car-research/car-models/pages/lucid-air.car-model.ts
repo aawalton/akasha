@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const lucidAir = {
   id: "019e4aea-664e-71a7-aca9-ebe03ab1a1df",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "lucid-air",
   title: "Air",
   bodyStyle: "sedan",

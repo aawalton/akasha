@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const maseratiGrecale = {
   id: "019e4aed-9810-7c15-a622-074668824a6a",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "maserati-grecale",
   title: "Grecale",
   bodyStyle: "suv",

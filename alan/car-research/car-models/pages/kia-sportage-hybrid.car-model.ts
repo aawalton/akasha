@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const kiaSportageHybrid = {
   id: "019e4aea-b0be-7a27-9050-65594a4b5371",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "kia-sportage-hybrid",
   title: "Sportage Hybrid",
   bodyStyle: "suv",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const chevroletEquinoxEv = {
   id: "019e4ad6-8813-754f-8443-586b0ffef6f2",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "chevrolet-equinox-ev",
   title: "Equinox EV",
   bodyStyle: "suv",

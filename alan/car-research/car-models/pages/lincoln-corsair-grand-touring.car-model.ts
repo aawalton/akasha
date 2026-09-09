@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const lincolnCorsairGrandTouring = {
   id: "019e4ae7-f96a-7918-a0ec-669777b70576",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "lincoln-corsair-grand-touring",
   title: "Corsair Grand Touring",
   bodyStyle: "suv",

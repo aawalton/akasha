@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const mercedesBenzSClassPlugInHybrid = {
   id: "019e4af0-fcd1-78ca-8e3c-bc5fe6d7131d",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "mercedes-benz-s-class-plug-in-hybrid",
   title: "S-Class Plug-in Hybrid",
   bodyStyle: "sedan",

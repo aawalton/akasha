@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hyundaiTucsonPlugInHybrid = {
   id: "019e4ae1-b0e0-79f4-a91f-462031182f78",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "hyundai-tucson-plug-in-hybrid",
   title: "Tucson Plug-in Hybrid",
   bodyStyle: "suv",

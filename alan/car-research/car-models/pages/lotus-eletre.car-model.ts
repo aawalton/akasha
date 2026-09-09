@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const lotusEletre = {
   id: "019e4aec-4045-73c9-ab8f-614a6347be1a",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "lotus-eletre",
   title: "Eletre",
   bodyStyle: "suv",

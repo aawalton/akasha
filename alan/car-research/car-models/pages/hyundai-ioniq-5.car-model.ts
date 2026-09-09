@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hyundaiIoniq5 = {
   id: "019e4ae0-e3d1-7879-9b4a-4e72ccdc724d",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "hyundai-ioniq-5",
   title: "Ioniq 5",
   bodyStyle: "crossover",

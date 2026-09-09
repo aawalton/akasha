@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaBz4x = {
   id: "019e4af8-4b39-7080-ad78-59d7ba37a30e",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-bz4x",
   title: "bZ4X",
   bodyStyle: "suv",

@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hondaCrVHybrid = {
   id: "019e4ae1-2ad2-7700-bf46-152f3156b09a",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "honda-cr-v-hybrid",
   title: "CR-V Hybrid",
   bodyStyle: "suv",

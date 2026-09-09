@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const kiaNiroPlugInHybrid = {
   id: "019e4ae9-f859-77e4-a54c-ea3587952088",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "kia-niro-plug-in-hybrid",
   title: "Niro Plug-in Hybrid",
   bodyStyle: "crossover",

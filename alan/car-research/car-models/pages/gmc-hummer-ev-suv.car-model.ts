@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const gmcHummerEvSuv = {
   id: "019e4adf-2b77-71f8-8fbd-54b2f5bb85f0",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "gmc-hummer-ev-suv",
   title: "Hummer EV SUV",
   bodyStyle: "suv",

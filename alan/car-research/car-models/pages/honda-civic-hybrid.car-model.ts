@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hondaCivicHybrid = {
   id: "019e4ae0-d255-76ae-bbe8-4b9f192d0897",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "honda-civic-hybrid",
   title: "Civic Hybrid",
   bodyStyle: "sedan",

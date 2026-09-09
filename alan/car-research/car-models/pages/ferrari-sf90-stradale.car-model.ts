@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const ferrariSf90Stradale = {
   id: "019e4ada-63f9-7f2e-b989-27e17af1c554",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "ferrari-sf90-stradale",
   title: "SF90 Stradale",
   bodyStyle: "coupe",

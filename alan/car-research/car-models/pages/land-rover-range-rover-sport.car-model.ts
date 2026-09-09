@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const landRoverRangeRoverSport = {
   id: "019e4ae7-3199-7eaf-8782-2e0555abff23",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "land-rover-range-rover-sport",
   title: "Range Rover Sport",
   bodyStyle: "suv",

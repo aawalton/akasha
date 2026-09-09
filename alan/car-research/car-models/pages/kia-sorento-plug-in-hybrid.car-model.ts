@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const kiaSorentoPlugInHybrid = {
   id: "019e4aed-b697-718f-8c8b-699e7ab2e305",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "kia-sorento-plug-in-hybrid",
   title: "Sorento Plug-in Hybrid",
   bodyStyle: "suv",

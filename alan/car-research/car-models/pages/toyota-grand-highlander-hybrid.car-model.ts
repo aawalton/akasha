@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const toyotaGrandHighlanderHybrid = {
   id: "019e4b0a-67ba-7856-a7e5-e8d8e7eb661b",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "toyota-grand-highlander-hybrid",
   title: "Grand Highlander Hybrid",
   bodyStyle: "suv",

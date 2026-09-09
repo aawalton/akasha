@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const cadillacEscaladeIql = {
   id: "019e4ad7-08b7-743f-9c1e-7615016c8d7b",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "cadillac-escalade-iql",
   title: "Escalade IQL",
   bodyStyle: "suv",

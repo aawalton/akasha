@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const hyundaiKonaElectric = {
   id: "019e4ae1-7979-7178-9c55-41f259951440",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "hyundai-kona-electric",
   title: "Kona Electric",
   bodyStyle: "crossover",

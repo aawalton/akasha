@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const mercedesBenzEqb = {
   id: "019e4af0-340a-7e03-a7b4-2bdfe83c5ee7",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "mercedes-benz-eqb",
   title: "EQB",
   bodyStyle: "suv",

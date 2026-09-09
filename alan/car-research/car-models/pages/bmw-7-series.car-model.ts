@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const bmw7Series = {
   id: "019e4ad7-b132-7645-91eb-251721eb13a9",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "bmw-7-series",
   title: "7 Series",
   bodyStyle: "sedan",

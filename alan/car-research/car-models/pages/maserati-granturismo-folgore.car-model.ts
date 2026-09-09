@@ -3,6 +3,7 @@ import type { CarModel } from "../car-model.page-type.ts"
 export const maseratiGranturismoFolgore = {
   id: "019e4aed-113e-7211-ae2d-e5edbe3554a8",
   pageTypeSlug: "car-model",
+  type: "car-model",
   slug: "maserati-granturismo-folgore",
   title: "GranTurismo Folgore",
   bodyStyle: "coupe",
