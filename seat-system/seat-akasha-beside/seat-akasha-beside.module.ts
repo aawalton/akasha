@@ -41,5 +41,10 @@ export const seatAkashaBeside = {
       statement:
         "An empty text beside a seat is answered as no value rather than as an empty value.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The mode a seat is running in is written beside that seat on the beat its process key is written.",
+    },
   ],
 } as const satisfies Module
