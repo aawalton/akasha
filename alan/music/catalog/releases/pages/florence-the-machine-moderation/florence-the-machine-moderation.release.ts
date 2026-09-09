@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineModeration = {
   id: "01a0676a-d724-707e-8dd8-7e4074df23c1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-moderation",
   title: "Moderation",
   partOfCollections: ["florence-the-machine"],

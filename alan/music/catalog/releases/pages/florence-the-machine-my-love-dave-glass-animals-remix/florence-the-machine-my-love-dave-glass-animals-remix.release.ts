@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineMyLoveDaveGlassAnimalsRemix = {
   id: "01a0676a-d725-7030-9dd8-8c0f314c0703",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-my-love-dave-glass-animals-remix",
   title: "My Love (Dave Glass Animals Remix)",
   partOfCollections: ["florence-the-machine"],

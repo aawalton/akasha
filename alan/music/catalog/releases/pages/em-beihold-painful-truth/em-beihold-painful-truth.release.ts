@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdPainfulTruth = {
   id: "01a0676a-d726-7058-a970-e5a2986b0e34",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-painful-truth",
   title: "Painful Truth",
   partOfCollections: ["em-beihold"],

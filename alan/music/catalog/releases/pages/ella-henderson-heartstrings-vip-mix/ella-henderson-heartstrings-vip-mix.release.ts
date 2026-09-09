@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonHeartstringsVipMix = {
   id: "01a0676a-d720-7010-a7d1-8f3c2e3cc78f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-heartstrings-vip-mix",
   title: "Heartstrings (VIP Mix)",
   partOfCollections: ["ella-henderson"],

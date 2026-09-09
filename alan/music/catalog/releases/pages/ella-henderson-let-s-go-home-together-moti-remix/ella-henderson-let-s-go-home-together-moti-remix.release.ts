@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonLetSGoHomeTogetherMotiRemix = {
   id: "01a0676a-d723-701b-96f9-35040eb12ba9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-let-s-go-home-together-moti-remix",
   title: "Let’s Go Home Together (MOTi Remix)",
   partOfCollections: ["ella-henderson"],

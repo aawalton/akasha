@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineHeavenIsHereIdlesRemix = {
   id: "01a0676a-d720-7022-8d9a-af6f85c63433",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-heaven-is-here-idles-remix",
   title: "Heaven Is Here (IDLES Remix)",
   partOfCollections: ["florence-the-machine"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonFilthyRich = {
   id: "01a0676a-d71d-7075-8560-9b4ed5ef1c5d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-filthy-rich",
   title: "Filthy Rich",
   partOfCollections: ["ella-henderson"],

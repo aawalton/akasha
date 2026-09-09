@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const especiallyForYouEfyEfy1999ASeasonForCourage = {
   id: "01a0676a-d71c-7054-8911-07623d98f3dd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "especially-for-you-efy-efy-1999-a-season-for-courage",
   title: "Efy 1999 - A Season for Courage",
   partOfCollections: ["especially-for-you-efy"],

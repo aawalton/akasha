@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineNoLightNoLightRemixes = {
   id: "01a0676a-d725-7064-b961-daa862167f11",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-no-light-no-light-remixes",
   title: "No Light, No Light (Remixes)",
   partOfCollections: ["florence-the-machine"],

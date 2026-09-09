@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiStereo = {
   id: "01a0676a-d72a-701e-83a3-6c79d933cc75",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-stereo",
   title: "Stereo",
   partOfCollections: ["emei"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonLetSGoHomeTogether = {
   id: "01a0676a-d723-7011-bc70-0bce97b29df1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-let-s-go-home-together",
   title: "Let’s Go Home Together",
   partOfCollections: ["ella-henderson"],

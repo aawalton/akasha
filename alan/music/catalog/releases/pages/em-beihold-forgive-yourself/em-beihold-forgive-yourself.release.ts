@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdForgiveYourself = {
   id: "01a0676a-d71e-702d-b3cd-76f0838a9bdf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-forgive-yourself",
   title: "Forgive Yourself",
   partOfCollections: ["em-beihold"],

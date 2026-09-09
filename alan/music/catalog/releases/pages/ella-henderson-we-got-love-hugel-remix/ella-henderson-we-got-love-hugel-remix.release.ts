@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonWeGotLoveHugelRemix = {
   id: "01a0676a-d730-7032-a630-241d5529962a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-we-got-love-hugel-remix",
   title: "We Got Love (HUGEL Remix)",
   partOfCollections: ["ella-henderson"],

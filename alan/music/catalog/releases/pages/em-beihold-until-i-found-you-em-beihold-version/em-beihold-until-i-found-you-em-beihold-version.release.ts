@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   id: "01a0676a-d72f-7053-acf1-cf18eea9501b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-until-i-found-you-em-beihold-version",
   title: "Until I Found You (Em Beihold Version)",
   partOfCollections: ["em-beihold"],

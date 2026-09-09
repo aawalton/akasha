@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonAlibiFeatRudimentalJoelCorryRemix = {
   id: "01a0676a-d716-7009-a7e4-464df51d1a24",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-alibi-feat-rudimental-joel-corry-remix",
   title: "Alibi (feat. Rudimental) [Joel Corry Remix]",
   partOfCollections: ["ella-henderson"],

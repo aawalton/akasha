@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonReactTeedeeRemix = {
   id: "01a0676a-d727-704d-b672-331d2418c95b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-react-teedee-remix",
   title: "REACT (TeeDee Remix)",
   partOfCollections: ["ella-henderson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonWeGotLoveAcoustic = {
   id: "01a0676a-d730-7031-8c58-cf3210a98d12",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-we-got-love-acoustic",
   title: "We Got Love (Acoustic)",
   partOfCollections: ["ella-henderson"],

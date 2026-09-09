@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHenderson21ReasonsFeatEllaHendersonLussoRemix = {
   id: "01a0676a-d715-7000-986b-a6dff025db3c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-lusso-remix",
   title: "21 Reasons (feat. Ella Henderson) [LUSSO Remix]",
   partOfCollections: ["ella-henderson"],

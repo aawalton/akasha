@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ItHappenedAtTheWorldSFair2 = {
   id: "01a0676a-d722-7006-9450-f5f4a665300b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-it-happened-at-the-world-s-fair-2",
   title: "It Happened at the World's Fair",
   partOfCollections: ["elvis-presley-2"],

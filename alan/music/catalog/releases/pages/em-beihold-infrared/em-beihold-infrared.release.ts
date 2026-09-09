@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdInfrared = {
   id: "01a0676a-d721-7073-b502-a4598616b640",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-infrared",
   title: "Infrared",
   partOfCollections: ["em-beihold"],

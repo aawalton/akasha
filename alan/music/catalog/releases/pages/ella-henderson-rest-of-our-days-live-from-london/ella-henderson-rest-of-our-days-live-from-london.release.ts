@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonRestOfOurDaysLiveFromLondon = {
   id: "01a0676a-d727-706e-a121-cf8899cdcd28",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-rest-of-our-days-live-from-london",
   title: "Rest Of Our Days (Live From London)",
   partOfCollections: ["ella-henderson"],

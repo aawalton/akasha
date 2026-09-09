@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineDelilahRadioEdit = {
   id: "01a0676a-d71c-7007-82c6-e244ba9f4311",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-delilah-radio-edit",
   title: "Delilah (Radio Edit)",
   partOfCollections: ["florence-the-machine"],

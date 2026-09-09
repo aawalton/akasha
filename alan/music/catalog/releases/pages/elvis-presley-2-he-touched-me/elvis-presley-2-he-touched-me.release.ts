@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2HeTouchedMe = {
   id: "01a0676a-d720-7006-9562-59d46154adba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-he-touched-me",
   title: "He Touched Me",
   partOfCollections: ["elvis-presley-2"],

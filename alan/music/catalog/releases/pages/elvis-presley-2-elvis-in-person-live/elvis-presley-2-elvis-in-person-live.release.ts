@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisInPersonLive = {
   id: "01a0676a-d71c-7076-8850-293fd932e6d5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-in-person-live",
   title: "Elvis In Person (Live)",
   partOfCollections: ["elvis-presley-2"],

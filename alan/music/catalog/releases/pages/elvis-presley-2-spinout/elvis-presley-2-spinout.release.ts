@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2Spinout = {
   id: "01a0676a-d729-707c-aa48-c320bfdad582",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-spinout",
   title: "Spinout",
   partOfCollections: ["elvis-presley-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdTooPrecious = {
   id: "01a0676a-d72f-7014-a4db-abc21de5ac0d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-too-precious",
   title: "Too Precious",
   partOfCollections: ["em-beihold"],

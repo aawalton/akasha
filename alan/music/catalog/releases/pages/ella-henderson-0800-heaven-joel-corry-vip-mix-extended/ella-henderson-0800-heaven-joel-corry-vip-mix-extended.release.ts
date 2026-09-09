@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHenderson0800HeavenJoelCorryVipMixExtended = {
   id: "01a0676a-d714-7003-9c3d-8c38eb805d22",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-0800-heaven-joel-corry-vip-mix-extended",
   title: "0800 HEAVEN (Joel Corry VIP Mix) [Extended]",
   partOfCollections: ["ella-henderson"],

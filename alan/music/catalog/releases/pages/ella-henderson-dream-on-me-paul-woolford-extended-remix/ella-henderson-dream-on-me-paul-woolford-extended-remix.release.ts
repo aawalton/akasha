@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonDreamOnMePaulWoolfordExtendedRemix = {
   id: "01a0676a-d71c-7032-8c80-ef6cda9fd81d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-dream-on-me-paul-woolford-extended-remix",
   title: "Dream On Me (Paul Woolford Extended Remix)",
   partOfCollections: ["ella-henderson"],

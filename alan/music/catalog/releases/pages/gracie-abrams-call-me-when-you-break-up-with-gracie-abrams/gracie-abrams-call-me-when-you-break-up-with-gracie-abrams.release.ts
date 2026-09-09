@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
   id: "01a0676a-d719-7053-a2ef-96559b8e1efe",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-call-me-when-you-break-up-with-gracie-abrams",
   title: "Call Me When You Break Up (with Gracie Abrams)",
   partOfCollections: ["gracie-abrams"],

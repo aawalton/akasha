@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaShepherdMoons = {
   id: "01a0676a-d728-7072-be25-5a8b86a60331",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-shepherd-moons",
   title: "Shepherd Moons",
   partOfCollections: ["enya"],

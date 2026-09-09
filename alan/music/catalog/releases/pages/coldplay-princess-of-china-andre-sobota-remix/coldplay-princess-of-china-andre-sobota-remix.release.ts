@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayPrincessOfChinaAndreSobotaRemix = {
   id: "01a0676a-d727-701f-9b0c-fbb98aebddc5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-princess-of-china-andre-sobota-remix",
   title: "Princess of China (Andre Sobota Remix)",
   partOfCollections: ["coldplay"],

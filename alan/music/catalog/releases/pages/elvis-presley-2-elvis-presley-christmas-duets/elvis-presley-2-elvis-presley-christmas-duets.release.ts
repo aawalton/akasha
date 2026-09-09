@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisPresleyChristmasDuets = {
   id: "01a0676a-d71d-7004-97fc-84b7a3d7bb87",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-presley-christmas-duets",
   title: "Elvis Presley Christmas Duets",
   partOfCollections: ["elvis-presley-2"],

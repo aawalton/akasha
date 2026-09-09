@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaAmarantine = {
   id: "01a0676a-d716-7038-9347-59388ece1bfc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-amarantine",
   title: "Amarantine",
   partOfCollections: ["enya"],

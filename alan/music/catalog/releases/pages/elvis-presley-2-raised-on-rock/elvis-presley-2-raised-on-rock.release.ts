@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2RaisedOnRock = {
   id: "01a0676a-d727-7048-8efa-d1810189e670",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-raised-on-rock",
   title: "Raised On Rock",
   partOfCollections: ["elvis-presley-2"],

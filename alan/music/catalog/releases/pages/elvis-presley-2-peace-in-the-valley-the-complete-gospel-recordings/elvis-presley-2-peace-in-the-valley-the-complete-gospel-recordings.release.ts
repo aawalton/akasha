@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
   id: "01a0676a-d726-7066-adbc-9c07869af525",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-peace-in-the-valley-the-complete-gospel-recordings",
   title: "Peace In The Valley - The Complete Gospel Recordings",
   partOfCollections: ["elvis-presley-2"],

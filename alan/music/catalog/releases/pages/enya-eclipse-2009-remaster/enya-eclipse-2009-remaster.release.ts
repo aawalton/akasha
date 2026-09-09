@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaEclipse2009Remaster = {
   id: "01a0676a-d71c-704f-a404-d2cd0867e87f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-eclipse-2009-remaster",
   title: "Eclipse (2009 Remaster)",
   partOfCollections: ["enya"],

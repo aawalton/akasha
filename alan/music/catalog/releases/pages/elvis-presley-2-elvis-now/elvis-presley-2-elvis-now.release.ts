@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisNow = {
   id: "01a0676a-d71d-7001-900a-b4c08090d0ea",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-now",
   title: "Elvis Now",
   partOfCollections: ["elvis-presley-2"],

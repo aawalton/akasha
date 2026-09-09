@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const girlInRedTwoQueensInAKingSizedBed = {
   id: "01a0676a-d72f-7029-8e25-4ad8fe4e9c7f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "girl-in-red-two-queens-in-a-king-sized-bed",
   title: "two queens in a king sized bed",
   partOfCollections: ["girl-in-red"],

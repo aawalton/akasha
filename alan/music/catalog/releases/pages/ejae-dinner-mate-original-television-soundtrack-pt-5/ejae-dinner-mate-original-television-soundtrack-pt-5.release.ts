@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   id: "01a0676a-d71c-7013-a8cb-30ffeea9340f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ejae-dinner-mate-original-television-soundtrack-pt-5",
   title: "DINNER MATE (Original Television Soundtrack) Pt.5",
   partOfCollections: ["ejae"],

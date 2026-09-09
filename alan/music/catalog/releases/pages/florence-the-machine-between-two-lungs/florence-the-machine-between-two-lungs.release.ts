@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineBetweenTwoLungs = {
   id: "01a0676a-d718-7052-85a9-f40284b4d043",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-between-two-lungs",
   title: "Between Two Lungs",
   partOfCollections: ["florence-the-machine"],

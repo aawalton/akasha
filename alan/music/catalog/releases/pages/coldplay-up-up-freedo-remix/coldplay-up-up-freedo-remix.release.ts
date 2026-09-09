@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayUpUpFreedoRemix = {
   id: "01a0676a-d72f-7056-9e81-190e97c77ef8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-up-up-freedo-remix",
   title: "Up&Up (Freedo Remix)",
   partOfCollections: ["coldplay"],

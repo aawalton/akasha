@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineDanceFeverCompleteEdition = {
   id: "01a0676a-d71b-7055-b668-2b15e178dc6e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-dance-fever-complete-edition",
   title: "Dance Fever (Complete Edition)",
   partOfCollections: ["florence-the-machine"],

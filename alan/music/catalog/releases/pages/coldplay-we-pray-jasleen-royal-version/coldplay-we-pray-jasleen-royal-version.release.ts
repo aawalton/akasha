@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayWePrayJasleenRoyalVersion = {
   id: "01a0676a-d730-7037-815e-943b18ea6c8a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-we-pray-jasleen-royal-version",
   title: "WE PRAY (Jasleen Royal Version)",
   partOfCollections: ["coldplay"],

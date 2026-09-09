@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayProspektSMarch = {
   id: "01a0676a-d727-7028-bb81-89e5bde8c1fc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-prospekt-s-march",
   title: "Prospekt's March",
   partOfCollections: ["coldplay"],

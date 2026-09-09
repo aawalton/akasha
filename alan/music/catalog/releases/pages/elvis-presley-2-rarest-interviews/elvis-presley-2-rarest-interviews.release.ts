@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2RarestInterviews = {
   id: "01a0676a-d727-7049-a846-3dc722be987b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-rarest-interviews",
   title: "Rarest Interviews",
   partOfCollections: ["elvis-presley-2"],

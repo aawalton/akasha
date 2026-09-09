@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2LetSBeFriendsExpandedEdition = {
   id: "01a0676a-d723-700f-be42-bd8fcd2b0778",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-let-s-be-friends-expanded-edition",
   title: "Let's Be Friends (Expanded Edition)",
   partOfCollections: ["elvis-presley-2"],

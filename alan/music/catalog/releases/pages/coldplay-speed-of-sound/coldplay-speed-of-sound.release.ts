@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplaySpeedOfSound = {
   id: "01a0676a-d729-7079-9f14-39997794818f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-speed-of-sound",
   title: "Speed of Sound",
   partOfCollections: ["coldplay"],

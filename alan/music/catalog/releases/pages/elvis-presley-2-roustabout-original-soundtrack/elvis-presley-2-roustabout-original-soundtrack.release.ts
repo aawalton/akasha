@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2RoustaboutOriginalSoundtrack = {
   id: "01a0676a-d728-7024-9bc2-ff3f2c7db7d7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-roustabout-original-soundtrack",
   title: "Roustabout (Original Soundtrack)",
   partOfCollections: ["elvis-presley-2"],

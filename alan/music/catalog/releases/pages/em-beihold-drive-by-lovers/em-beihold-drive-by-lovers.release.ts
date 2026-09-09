@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdDriveByLovers = {
   id: "01a0676a-d71c-703a-9082-33ecb610152b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-drive-by-lovers",
   title: "Drive by Lovers",
   partOfCollections: ["em-beihold"],

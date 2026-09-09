@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemix = {
   id: "01a0676a-d714-7029-8538-dfcb90fddcd9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-alle-farben-remix",
   title: "21 Reasons (feat. Ella Henderson) [Alle Farben Remix]",
   partOfCollections: ["ella-henderson"],

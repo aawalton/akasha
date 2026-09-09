@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineLightOfLove = {
   id: "01a0676a-d723-702e-9f36-92cafbd4b58c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-light-of-love",
   title: "Light Of Love",
   partOfCollections: ["florence-the-machine"],

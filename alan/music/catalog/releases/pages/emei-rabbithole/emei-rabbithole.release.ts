@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiRabbithole = {
   id: "01a0676a-d727-703d-9216-ea902e739103",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-rabbithole",
   title: "RABBITHOLE",
   partOfCollections: ["emei"],

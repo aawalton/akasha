@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const girlInRedSummerDepression = {
   id: "01a0676a-d72a-7040-8ca0-aad7a6006cec",
   pageTypeSlug: "release",
+  type: "release",
   slug: "girl-in-red-summer-depression",
   title: "summer depression",
   partOfCollections: ["girl-in-red"],

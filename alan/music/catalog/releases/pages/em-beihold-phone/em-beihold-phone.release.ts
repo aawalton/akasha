@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdPhone = {
   id: "01a0676a-d726-7075-81ed-791914d0ba26",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-phone",
   title: "Phone",
   partOfCollections: ["em-beihold"],

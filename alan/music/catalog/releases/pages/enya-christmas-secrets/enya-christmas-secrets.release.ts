@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaChristmasSecrets = {
   id: "01a0676a-d71a-7040-aba7-b1a9a97f514b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-christmas-secrets",
   title: "Christmas Secrets",
   partOfCollections: ["enya"],

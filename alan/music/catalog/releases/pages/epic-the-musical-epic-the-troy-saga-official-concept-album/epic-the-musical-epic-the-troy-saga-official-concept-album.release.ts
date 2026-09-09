@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const epicTheMusicalEpicTheTroySagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-701d-9c34-2c1b852c9bb9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "epic-the-musical-epic-the-troy-saga-official-concept-album",
   title: "EPIC: The Troy Saga (Official Concept Album)",
   partOfCollections: ["epic-the-musical"],

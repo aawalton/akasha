@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaShoreRyanEnyaRyanMayItBeArrMSheeran = {
   id: "01a0676a-d728-7075-973a-413a92e36cd5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-shore-ryan-enya-ryan-may-it-be-arr-m-sheeran",
   title: "Shore, Ryan, Enya, Ryan: May it be (Arr. M. Sheeran)",
   partOfCollections: ["enya"],

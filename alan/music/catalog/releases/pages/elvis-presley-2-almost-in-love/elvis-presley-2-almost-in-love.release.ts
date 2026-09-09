@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2AlmostInLove = {
   id: "01a0676a-d716-702d-ae3e-92823b29bdd7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-almost-in-love",
   title: "Almost in Love",
   partOfCollections: ["elvis-presley-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayMyloXyloto = {
   id: "01a0676a-d725-703d-a587-84a390040170",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-mylo-xyloto",
   title: "Mylo Xyloto",
   partOfCollections: ["coldplay"],

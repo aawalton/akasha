@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHenderson21ReasonsFeatEllaHendersonExtended = {
   id: "01a0676a-d714-702c-b1e0-8d278c1a46e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-extended",
   title: "21 Reasons (feat. Ella Henderson) [Extended]",
   partOfCollections: ["ella-henderson"],

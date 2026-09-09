@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiTrustIssues = {
   id: "01a0676a-d72f-7021-8e72-6c790b4eadc3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-trust-issues",
   title: "Trust Issues",
   partOfCollections: ["emei"],

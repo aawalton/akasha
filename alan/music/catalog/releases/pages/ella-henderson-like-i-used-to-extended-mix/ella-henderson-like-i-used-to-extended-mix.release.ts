@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonLikeIUsedToExtendedMix = {
   id: "01a0676a-d723-7033-8422-3cd9912902c7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-like-i-used-to-extended-mix",
   title: "Like I Used To (Extended Mix)",
   partOfCollections: ["ella-henderson"],

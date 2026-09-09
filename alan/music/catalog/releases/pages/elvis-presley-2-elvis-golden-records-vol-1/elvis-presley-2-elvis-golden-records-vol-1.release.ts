@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisGoldenRecordsVol1 = {
   id: "01a0676a-d71c-7073-ad2d-98d74e88f71d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-golden-records-vol-1",
   title: "Elvis' Golden Records (Vol. 1)",
   partOfCollections: ["elvis-presley-2"],

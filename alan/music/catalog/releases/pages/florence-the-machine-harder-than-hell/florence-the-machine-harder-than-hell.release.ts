@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineHarderThanHell = {
   id: "01a0676a-d71f-704e-bdbb-f9198f153d91",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-harder-than-hell",
   title: "Harder Than Hell",
   partOfCollections: ["florence-the-machine"],

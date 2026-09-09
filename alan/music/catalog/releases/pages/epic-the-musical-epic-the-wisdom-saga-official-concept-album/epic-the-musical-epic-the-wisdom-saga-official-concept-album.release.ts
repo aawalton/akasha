@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const epicTheMusicalEpicTheWisdomSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-7020-a5df-51ef0bb2898e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "epic-the-musical-epic-the-wisdom-saga-official-concept-album",
   title: "EPIC: The Wisdom Saga (Official Concept Album)",
   partOfCollections: ["epic-the-musical"],

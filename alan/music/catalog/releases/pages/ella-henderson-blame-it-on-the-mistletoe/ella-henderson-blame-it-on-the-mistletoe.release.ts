@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonBlameItOnTheMistletoe = {
   id: "01a0676a-d719-7014-8d05-f2811175bc1e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-blame-it-on-the-mistletoe",
   title: "Blame It On The Mistletoe",
   partOfCollections: ["ella-henderson"],

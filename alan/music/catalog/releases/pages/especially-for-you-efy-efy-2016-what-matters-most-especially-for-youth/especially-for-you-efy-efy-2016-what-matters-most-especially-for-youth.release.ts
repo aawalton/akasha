@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const especiallyForYouEfyEfy2016WhatMattersMostEspeciallyForYouth = {
   id: "01a0676a-d71c-705d-84c7-56ef9ea8939a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "especially-for-you-efy-efy-2016-what-matters-most-especially-for-youth",
   title: "Efy 2016 What Matters Most (Especially for Youth)",
   partOfCollections: ["especially-for-you-efy"],

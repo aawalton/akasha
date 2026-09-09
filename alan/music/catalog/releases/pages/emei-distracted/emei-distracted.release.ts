@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiDistracted = {
   id: "01a0676a-d71c-7015-994f-0024a278a7cc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-distracted",
   title: "Distracted",
   partOfCollections: ["emei"],

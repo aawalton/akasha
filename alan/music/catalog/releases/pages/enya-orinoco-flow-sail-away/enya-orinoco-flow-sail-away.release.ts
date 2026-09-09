@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaOrinocoFlowSailAway = {
   id: "01a0676a-d726-704b-8507-72f11cfdc601",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-orinoco-flow-sail-away",
   title: "Orinoco Flow (Sail Away)",
   partOfCollections: ["enya"],

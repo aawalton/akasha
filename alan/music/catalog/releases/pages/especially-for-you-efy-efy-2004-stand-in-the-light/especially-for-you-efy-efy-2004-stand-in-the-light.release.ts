@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const especiallyForYouEfyEfy2004StandInTheLight = {
   id: "01a0676a-d71c-7058-aa0f-deb791136a7e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "especially-for-you-efy-efy-2004-stand-in-the-light",
   title: "Efy 2004 - Stand in the Light",
   partOfCollections: ["especially-for-you-efy"],

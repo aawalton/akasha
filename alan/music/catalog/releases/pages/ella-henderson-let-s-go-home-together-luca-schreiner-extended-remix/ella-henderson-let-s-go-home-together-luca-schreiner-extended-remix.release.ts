@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonLetSGoHomeTogetherLucaSchreinerExtendedRemix = {
   id: "01a0676a-d723-7014-bc65-62f3836c6fd0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-let-s-go-home-together-luca-schreiner-extended-remix",
   title: "Let’s Go Home Together (Luca Schreiner Extended Remix)",
   partOfCollections: ["ella-henderson"],

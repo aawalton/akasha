@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const especiallyForYouEfyEfy2006TheGreatestGift = {
   id: "01a0676a-d71c-7059-b63f-0695149ba82f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "especially-for-you-efy-efy-2006-the-greatest-gift",
   title: "Efy 2006 - The Greatest Gift",
   partOfCollections: ["especially-for-you-efy"],

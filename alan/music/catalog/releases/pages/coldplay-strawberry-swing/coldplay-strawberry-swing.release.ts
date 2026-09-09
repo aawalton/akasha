@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayStrawberrySwing = {
   id: "01a0676a-d72a-702d-b629-28f0123d6160",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-strawberry-swing",
   title: "Strawberry Swing",
   partOfCollections: ["coldplay"],

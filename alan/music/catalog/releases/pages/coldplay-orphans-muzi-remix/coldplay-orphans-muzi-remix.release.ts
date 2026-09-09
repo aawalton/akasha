@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayOrphansMuziRemix = {
   id: "01a0676a-d726-704e-ae98-919188f7e9d5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-orphans-muzi-remix",
   title: "Orphans (Muzi Remix)",
   partOfCollections: ["coldplay"],

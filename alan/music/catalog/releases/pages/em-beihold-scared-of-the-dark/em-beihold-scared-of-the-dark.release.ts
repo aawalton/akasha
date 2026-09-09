@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdScaredOfTheDark = {
   id: "01a0676a-d728-7053-be58-9a1dc2977884",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-scared-of-the-dark",
   title: "Scared of the Dark",
   partOfCollections: ["em-beihold"],

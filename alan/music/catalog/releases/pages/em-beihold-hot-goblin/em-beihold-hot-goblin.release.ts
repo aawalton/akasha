@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdHotGoblin = {
   id: "01a0676a-d720-7060-9007-602f2dc69cd5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",
   partOfCollections: ["em-beihold"],

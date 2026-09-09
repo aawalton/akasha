@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonAlibiLiveAcousticVersion = {
   id: "01a0676a-d716-7010-87ae-dea7b8f418b3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-alibi-live-acoustic-version",
   title: "Alibi (Live Acoustic Version)",
   partOfCollections: ["ella-henderson"],

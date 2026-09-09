@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonUnderTheSunWithAlokLucaSchreinerRemix = {
   id: "01a0676a-d72f-703b-85a7-73a65d3a4009",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-under-the-sun-with-alok-luca-schreiner-remix",
   title: "Under The Sun (with Alok) [Luca Schreiner Remix]",
   partOfCollections: ["ella-henderson"],

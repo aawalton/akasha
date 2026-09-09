@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayTheBlueRoom = {
   id: "01a0676a-d72c-7033-9c91-604351eaf60f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-the-blue-room",
   title: "The Blue Room",
   partOfCollections: ["coldplay"],

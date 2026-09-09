@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineUnderHeavenOverHell = {
   id: "01a0676a-d72f-7032-b383-1a46fd1c0b9e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-under-heaven-over-hell",
   title: "Under Heaven Over Hell",
   partOfCollections: ["florence-the-machine"],

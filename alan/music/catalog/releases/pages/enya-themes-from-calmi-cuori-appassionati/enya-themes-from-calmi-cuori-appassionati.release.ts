@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaThemesFromCalmiCuoriAppassionati = {
   id: "01a0676a-d72e-7022-9224-21da55c9e165",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-themes-from-calmi-cuori-appassionati",
   title: 'Themes From "Calmi Cuori Appassionati"',
   partOfCollections: ["enya"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2FromTheVaults60s = {
   id: "01a0676a-d71e-703d-a927-0f93f6e0fc98",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-from-the-vaults-60s",
   title: "From The Vaults -'60s",
   partOfCollections: ["elvis-presley-2"],

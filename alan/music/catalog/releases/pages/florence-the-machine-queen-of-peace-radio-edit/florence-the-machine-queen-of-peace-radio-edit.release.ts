@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineQueenOfPeaceRadioEdit = {
   id: "01a0676a-d727-7039-950e-15d467d82204",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-queen-of-peace-radio-edit",
   title: "Queen Of Peace (Radio Edit)",
   partOfCollections: ["florence-the-machine"],

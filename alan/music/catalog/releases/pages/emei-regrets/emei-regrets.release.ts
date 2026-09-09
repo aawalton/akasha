@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiRegrets = {
   id: "01a0676a-d727-7061-af04-ced7663cd0c4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-regrets",
   title: "Regrets",
   partOfCollections: ["emei"],

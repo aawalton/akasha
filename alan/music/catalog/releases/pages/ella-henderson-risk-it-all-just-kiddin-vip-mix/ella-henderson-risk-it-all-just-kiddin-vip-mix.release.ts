@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonRiskItAllJustKiddinVipMix = {
   id: "01a0676a-d728-7010-ab2f-1be3b873bb10",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-risk-it-all-just-kiddin-vip-mix",
   title: "Risk It All (Just Kiddin VIP Mix)",
   partOfCollections: ["ella-henderson"],

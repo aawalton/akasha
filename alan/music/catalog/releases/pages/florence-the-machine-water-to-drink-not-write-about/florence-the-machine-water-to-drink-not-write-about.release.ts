@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   id: "01a0676a-d730-701b-ab4b-7577f5fcf0e7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-water-to-drink-not-write-about",
   title: "Water To Drink Not Write About",
   partOfCollections: ["florence-the-machine"],

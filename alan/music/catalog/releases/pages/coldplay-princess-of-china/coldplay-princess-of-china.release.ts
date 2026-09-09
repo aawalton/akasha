@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayPrincessOfChina = {
   id: "01a0676a-d727-701e-aa72-ae6d29d74fc6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-princess-of-china",
   title: "Princess of China",
   partOfCollections: ["coldplay"],

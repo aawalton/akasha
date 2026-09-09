@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaDarkSkyIslandDeluxe = {
   id: "01a0676a-d71b-7069-93f8-187cbc6b8436",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-dark-sky-island-deluxe",
   title: "Dark Sky Island (Deluxe)",
   partOfCollections: ["enya"],

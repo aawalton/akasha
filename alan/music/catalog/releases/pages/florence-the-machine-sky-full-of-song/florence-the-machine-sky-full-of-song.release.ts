@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineSkyFullOfSong = {
   id: "01a0676a-d729-701d-a997-ae6deb053899",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-sky-full-of-song",
   title: "Sky Full Of Song",
   partOfCollections: ["florence-the-machine"],

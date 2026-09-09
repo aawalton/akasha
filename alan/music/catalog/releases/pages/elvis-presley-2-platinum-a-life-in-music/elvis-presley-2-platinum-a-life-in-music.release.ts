@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2PlatinumALifeInMusic = {
   id: "01a0676a-d726-7082-9df3-6f092bab8091",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-platinum-a-life-in-music",
   title: "Platinum - A Life In Music",
   partOfCollections: ["elvis-presley-2"],

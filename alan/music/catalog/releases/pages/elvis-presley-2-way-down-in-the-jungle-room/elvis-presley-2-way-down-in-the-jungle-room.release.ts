@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2WayDownInTheJungleRoom = {
   id: "01a0676a-d730-7026-bd7a-74fdb0fe185e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-way-down-in-the-jungle-room",
   title: "Way Down in the Jungle Room",
   partOfCollections: ["elvis-presley-2"],

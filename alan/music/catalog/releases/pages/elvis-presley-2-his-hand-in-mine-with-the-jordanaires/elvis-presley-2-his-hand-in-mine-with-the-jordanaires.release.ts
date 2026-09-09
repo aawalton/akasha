@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2HisHandInMineWithTheJordanaires = {
   id: "01a0676a-d720-7042-9f11-b41ee2a261ec",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-his-hand-in-mine-with-the-jordanaires",
   title: "His Hand in Mine (With the Jordanaires)",
   partOfCollections: ["elvis-presley-2"],

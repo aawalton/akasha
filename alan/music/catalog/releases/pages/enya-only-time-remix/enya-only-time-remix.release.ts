@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaOnlyTimeRemix = {
   id: "01a0676a-d726-703b-b49e-b6f822518d26",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-only-time-remix",
   title: "Only Time (Remix)",
   partOfCollections: ["enya"],

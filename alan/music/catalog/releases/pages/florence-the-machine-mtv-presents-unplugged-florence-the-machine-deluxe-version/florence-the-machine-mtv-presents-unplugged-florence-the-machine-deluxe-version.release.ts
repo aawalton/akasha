@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersion = {
   id: "01a0676a-d725-7015-b40a-c4177dfb9c0c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-mtv-presents-unplugged-florence-the-machine-deluxe-version",
   title: "MTV Presents Unplugged: Florence + The Machine (Deluxe Version)",
   partOfCollections: ["florence-the-machine"],

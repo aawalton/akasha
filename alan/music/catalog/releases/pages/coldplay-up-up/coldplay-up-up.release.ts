@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayUpUp = {
   id: "01a0676a-d72f-7055-aeac-61973012f953",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-up-up",
   title: "Up&Up",
   partOfCollections: ["coldplay"],

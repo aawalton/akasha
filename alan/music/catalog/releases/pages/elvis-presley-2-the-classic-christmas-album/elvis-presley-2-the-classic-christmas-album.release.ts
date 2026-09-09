@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2TheClassicChristmasAlbum = {
   id: "01a0676a-d72c-7041-9412-947616c6c553",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-the-classic-christmas-album",
   title: "The Classic Christmas Album",
   partOfCollections: ["elvis-presley-2"],

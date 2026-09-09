@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2BossaNovaBabyTheUltimateElvisPresleyPartyAlbum = {
   id: "01a0676a-d719-7026-b583-08a74eaf5564",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-bossa-nova-baby-the-ultimate-elvis-presley-party-album",
   title: "Bossa Nova Baby: The Ultimate Elvis Presley Party Album",
   partOfCollections: ["elvis-presley-2"],

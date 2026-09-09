@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonHurricaneAcousticVersion = {
   id: "01a0676a-d720-7076-be1d-316d49382a1d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-hurricane-acoustic-version",
   title: "Hurricane (Acoustic Version)",
   partOfCollections: ["ella-henderson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdHouseOnAHillFeatEmBeihold = {
   id: "01a0676a-d720-7067-a259-3a4e8eb41aaa",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-house-on-a-hill-feat-em-beihold",
   title: "House on a Hill (feat. Em Beihold)",
   partOfCollections: ["em-beihold"],

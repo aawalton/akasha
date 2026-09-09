@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaADayWithoutRain = {
   id: "01a0676a-d715-7021-9dde-65dc7acc3eba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-a-day-without-rain",
   title: "A Day Without Rain",
   partOfCollections: ["enya"],

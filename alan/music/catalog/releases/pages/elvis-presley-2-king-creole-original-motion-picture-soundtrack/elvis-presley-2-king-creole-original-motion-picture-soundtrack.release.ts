@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d722-7046-82f5-20396386def1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-king-creole-original-motion-picture-soundtrack",
   title: "King Creole (Original Motion Picture Soundtrack)",
   partOfCollections: ["elvis-presley-2"],

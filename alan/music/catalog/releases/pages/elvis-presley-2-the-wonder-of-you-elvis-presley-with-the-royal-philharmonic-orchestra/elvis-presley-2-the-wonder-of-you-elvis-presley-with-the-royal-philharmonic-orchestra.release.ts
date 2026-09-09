@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrchestra = {
   id: "01a0676a-d72e-7021-a254-7479c9b98c40",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-the-wonder-of-you-elvis-presley-with-the-royal-philharmonic-orchestra",
   title: "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
   partOfCollections: ["elvis-presley-2"],

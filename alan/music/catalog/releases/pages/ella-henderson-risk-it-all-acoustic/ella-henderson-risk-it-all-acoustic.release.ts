@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonRiskItAllAcoustic = {
   id: "01a0676a-d728-700f-83b9-a4fc6cc8aa74",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-risk-it-all-acoustic",
   title: "Risk It All (Acoustic)",
   partOfCollections: ["ella-henderson"],

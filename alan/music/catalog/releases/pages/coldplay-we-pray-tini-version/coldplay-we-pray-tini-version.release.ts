@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayWePrayTiniVersion = {
   id: "01a0676a-d730-7038-b89c-8f1017c2b61a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-we-pray-tini-version",
   title: "WE PRAY (TINI Version)",
   partOfCollections: ["coldplay"],

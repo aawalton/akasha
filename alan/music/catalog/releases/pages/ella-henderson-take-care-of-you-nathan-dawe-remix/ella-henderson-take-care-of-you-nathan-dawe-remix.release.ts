@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonTakeCareOfYouNathanDaweRemix = {
   id: "01a0676a-d72b-7010-b064-264e1682a59c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-take-care-of-you-nathan-dawe-remix",
   title: "Take Care of You (Nathan Dawe Remix)",
   partOfCollections: ["ella-henderson"],

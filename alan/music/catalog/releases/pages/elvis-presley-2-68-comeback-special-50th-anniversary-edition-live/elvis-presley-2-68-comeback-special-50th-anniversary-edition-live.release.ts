@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley268ComebackSpecial50thAnniversaryEditionLive = {
   id: "01a0676a-d715-7011-ba43-ff2dd9ce4196",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-68-comeback-special-50th-anniversary-edition-live",
   title: "'68 Comeback Special (50th Anniversary Edition) [Live]",
   partOfCollections: ["elvis-presley-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonAllForYouWithEllaHenderson = {
   id: "01a0676a-d716-7018-9dce-b8407b820f0f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-all-for-you-with-ella-henderson",
   title: "All For You (with Ella Henderson)",
   partOfCollections: ["ella-henderson"],

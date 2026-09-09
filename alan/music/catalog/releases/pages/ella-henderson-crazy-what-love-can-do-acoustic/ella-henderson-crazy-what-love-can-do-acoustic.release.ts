@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonCrazyWhatLoveCanDoAcoustic = {
   id: "01a0676a-d71b-7034-b358-de08ea47017e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-crazy-what-love-can-do-acoustic",
   title: "Crazy What Love Can Do (Acoustic)",
   partOfCollections: ["ella-henderson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdCityOfAngelsGasparNarbyRemix = {
   id: "01a0676a-d71a-7052-9739-d950822edfb4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-city-of-angels-gaspar-narby-remix",
   title: "City of Angels (Gaspar Narby Remix)",
   partOfCollections: ["em-beihold"],

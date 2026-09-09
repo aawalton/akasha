@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayVivaLaVida = {
   id: "01a0676a-d730-7006-81dd-10822633be69",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-viva-la-vida",
   title: "Viva La Vida",
   partOfCollections: ["coldplay"],

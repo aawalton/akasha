@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonAlibiFeatRudimental = {
   id: "01a0676a-d716-7006-a396-b90e207cf872",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-alibi-feat-rudimental",
   title: "Alibi (feat. Rudimental)",
   partOfCollections: ["ella-henderson"],

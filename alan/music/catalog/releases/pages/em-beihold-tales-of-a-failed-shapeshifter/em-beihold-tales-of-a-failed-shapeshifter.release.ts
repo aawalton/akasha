@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdTalesOfAFailedShapeshifter = {
   id: "01a0676a-d72b-701c-afba-a2005f8fc8cb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-tales-of-a-failed-shapeshifter",
   title: "Tales of a Failed Shapeshifter",
   partOfCollections: ["em-beihold"],

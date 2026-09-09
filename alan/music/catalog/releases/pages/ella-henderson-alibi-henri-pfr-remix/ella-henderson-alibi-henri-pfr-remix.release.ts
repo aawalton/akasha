@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonAlibiHenriPfrRemix = {
   id: "01a0676a-d716-700f-92a0-071c966d5c69",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-alibi-henri-pfr-remix",
   title: "Alibi (Henri PFR Remix)",
   partOfCollections: ["ella-henderson"],

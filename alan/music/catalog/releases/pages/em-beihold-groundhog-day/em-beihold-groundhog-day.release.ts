@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdGroundhogDay = {
   id: "01a0676a-d71f-7032-baa4-38f5c28d555f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-groundhog-day",
   title: "Groundhog Day",
   partOfCollections: ["em-beihold"],

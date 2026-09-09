@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   id: "01a0676a-d72b-700c-9f8e-141029c59493",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-symphony-of-lungs-bbc-proms-at-the-royal-albert-hall",
   title: "Symphony of Lungs - BBC Proms at the Royal Albert Hall",
   partOfCollections: ["florence-the-machine"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
   id: "01a0676a-d71d-7008-b0f5-6b69bb89d4f7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-sings-the-wonderful-world-of-christmas",
   title: "Elvis Sings the Wonderful World of Christmas",
   partOfCollections: ["elvis-presley-2"],

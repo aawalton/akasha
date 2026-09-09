@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdPedestal = {
   id: "01a0676a-d726-706a-8bbf-100004e11a77",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-pedestal",
   title: "Pedestal",
   partOfCollections: ["em-beihold"],

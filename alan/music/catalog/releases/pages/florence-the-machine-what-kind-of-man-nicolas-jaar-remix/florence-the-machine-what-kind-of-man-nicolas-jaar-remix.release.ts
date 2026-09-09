@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   id: "01a0676a-d730-7049-abbf-eacb5dec8e00",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-what-kind-of-man-nicolas-jaar-remix",
   title: "What Kind Of Man (Nicolas Jaar Remix)",
   partOfCollections: ["florence-the-machine"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonRiskItAllKcLightsExtendedRemix = {
   id: "01a0676a-d728-7011-8c79-e95e189cc087",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-risk-it-all-kc-lights-extended-remix",
   title: "Risk It All (KC Lights Extended Remix)",
   partOfCollections: ["ella-henderson"],

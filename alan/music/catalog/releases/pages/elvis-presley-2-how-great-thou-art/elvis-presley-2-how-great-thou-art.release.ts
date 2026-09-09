@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2HowGreatThouArt = {
   id: "01a0676a-d720-706f-8ffa-02a4b6a03082",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-how-great-thou-art",
   title: "How Great Thou Art",
   partOfCollections: ["elvis-presley-2"],

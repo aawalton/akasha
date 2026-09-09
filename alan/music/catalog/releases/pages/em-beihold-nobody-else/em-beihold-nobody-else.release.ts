@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdNobodyElse = {
   id: "01a0676a-d725-706d-b82e-ab1f2c1b6254",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-nobody-else",
   title: "Nobody Else",
   partOfCollections: ["em-beihold"],

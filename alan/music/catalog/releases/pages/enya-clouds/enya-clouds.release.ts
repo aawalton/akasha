@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaClouds = {
   id: "01a0676a-d71b-7004-a012-7aa7bda7d75f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-clouds",
   title: "Clouds",
   partOfCollections: ["enya"],

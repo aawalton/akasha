@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonBraveAcoustic = {
   id: "01a0676a-d719-702f-84e0-afd8002fa284",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-brave-acoustic",
   title: "Brave (Acoustic)",
   partOfCollections: ["ella-henderson"],

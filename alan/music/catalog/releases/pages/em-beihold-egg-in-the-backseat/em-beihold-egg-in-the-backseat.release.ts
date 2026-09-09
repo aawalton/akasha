@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdEggInTheBackseat = {
   id: "01a0676a-d71c-7060-8732-bfbaad3e437b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
   partOfCollections: ["em-beihold"],

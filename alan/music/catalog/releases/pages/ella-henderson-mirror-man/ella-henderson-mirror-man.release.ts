@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonMirrorMan = {
   id: "01a0676a-d724-7072-b6a4-7802976bfe29",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-mirror-man",
   title: "Mirror Man",
   partOfCollections: ["ella-henderson"],

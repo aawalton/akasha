@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdRollerCoastersMakeMeSad = {
   id: "01a0676a-d728-701a-a0c5-d1a413f247db",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-roller-coasters-make-me-sad",
   title: "Roller Coasters Make Me Sad",
   partOfCollections: ["em-beihold"],

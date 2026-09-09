@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonOnSeComprendSansParlerLetSGoHomeTogether = {
   id: "01a0676a-d726-7026-81bf-ce525a5f2199",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-on-se-comprend-sans-parler-let-s-go-home-together",
   title: "On se comprend sans parler (Let's Go Home Together)",
   partOfCollections: ["ella-henderson"],

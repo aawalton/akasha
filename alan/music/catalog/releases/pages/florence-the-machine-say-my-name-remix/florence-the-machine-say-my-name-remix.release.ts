@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineSayMyNameRemix = {
   id: "01a0676a-d728-704d-a974-8f3ce83c9592",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-say-my-name-remix",
   title: "Say My Name (Remix)",
   partOfCollections: ["florence-the-machine"],

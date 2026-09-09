@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonUglyMadismRemix = {
   id: "01a0676a-d72f-702b-a671-c7f689bf5df8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-ugly-madism-remix",
   title: "Ugly (Madism Remix)",
   partOfCollections: ["ella-henderson"],

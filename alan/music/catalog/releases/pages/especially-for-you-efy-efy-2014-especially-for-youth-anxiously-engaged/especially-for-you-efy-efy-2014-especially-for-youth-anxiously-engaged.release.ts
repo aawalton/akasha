@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const especiallyForYouEfyEfy2014EspeciallyForYouthAnxiouslyEngaged = {
   id: "01a0676a-d71c-705b-96cf-a45fc14ee5d7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "especially-for-you-efy-efy-2014-especially-for-youth-anxiously-engaged",
   title: "Efy 2014 Especially for Youth - Anxiously Engaged",
   partOfCollections: ["especially-for-you-efy"],

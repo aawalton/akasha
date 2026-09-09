@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaWildChild = {
   id: "01a0676a-d731-701c-8d56-cbb73bbbaa26",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-wild-child",
   title: "Wild Child",
   partOfCollections: ["enya"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonUnderTheSunWithAlok = {
   id: "01a0676a-d72f-7037-a999-b7034c26a408",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-under-the-sun-with-alok",
   title: "Under The Sun (with Alok)",
   partOfCollections: ["ella-henderson"],

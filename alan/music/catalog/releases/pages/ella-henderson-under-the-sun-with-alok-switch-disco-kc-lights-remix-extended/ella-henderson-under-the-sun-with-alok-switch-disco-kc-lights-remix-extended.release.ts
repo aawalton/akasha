@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemixExtended = {
   id: "01a0676a-d72f-7039-9d18-9262c09cbeb0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-under-the-sun-with-alok-switch-disco-kc-lights-remix-extended",
   title: "Under The Sun (with Alok & Switch Disco) [KC Lights Remix; Extended]",
   partOfCollections: ["ella-henderson"],

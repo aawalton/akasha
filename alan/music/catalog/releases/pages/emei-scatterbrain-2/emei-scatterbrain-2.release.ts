@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiScatterbrain2 = {
   id: "01a0676a-d728-7055-ba1a-e4c793838da7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-scatterbrain-2",
   title: "Scatterbrain",
   partOfCollections: ["emei"],

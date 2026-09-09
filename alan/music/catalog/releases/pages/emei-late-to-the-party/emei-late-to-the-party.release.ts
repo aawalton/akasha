@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emeiLateToTheParty = {
   id: "01a0676a-d722-705f-8786-cdb9e10427e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "emei-late-to-the-party",
   title: "Late to the Party",
   partOfCollections: ["emei"],

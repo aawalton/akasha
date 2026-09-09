@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ElvisAsRecordedAtMadisonSquareGardenLive = {
   id: "01a0676a-d71c-7068-8150-b94c3569f974",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-elvis-as-recorded-at-madison-square-garden-live",
   title: "Elvis: As Recorded at Madison Square Garden (Live)",
   partOfCollections: ["elvis-presley-2"],

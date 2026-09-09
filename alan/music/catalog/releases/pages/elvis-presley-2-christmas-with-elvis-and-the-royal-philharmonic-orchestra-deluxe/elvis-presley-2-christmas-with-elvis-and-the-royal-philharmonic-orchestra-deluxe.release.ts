@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2ChristmasWithElvisAndTheRoyalPhilharmonicOrchestraDeluxe = {
   id: "01a0676a-d71a-7048-b176-a77308b36aed",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-christmas-with-elvis-and-the-royal-philharmonic-orchestra-deluxe",
   title: "Christmas with Elvis and the Royal Philharmonic Orchestra (Deluxe)",
   partOfCollections: ["elvis-presley-2"],

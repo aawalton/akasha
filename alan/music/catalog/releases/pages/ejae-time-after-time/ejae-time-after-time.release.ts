@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ejaeTimeAfterTime = {
   id: "01a0676a-d72e-7043-95ef-062096156c2e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ejae-time-after-time",
   title: "Time After Time",
   partOfCollections: ["ejae"],

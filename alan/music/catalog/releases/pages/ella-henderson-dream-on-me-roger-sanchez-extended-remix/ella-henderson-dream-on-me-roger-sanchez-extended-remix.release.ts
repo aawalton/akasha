@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonDreamOnMeRogerSanchezExtendedRemix = {
   id: "01a0676a-d71c-7034-b60e-575a8ccb1553",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-dream-on-me-roger-sanchez-extended-remix",
   title: "Dream On Me (Roger Sanchez Extended Remix)",
   partOfCollections: ["ella-henderson"],

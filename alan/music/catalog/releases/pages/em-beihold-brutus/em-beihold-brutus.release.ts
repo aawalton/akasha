@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdBrutus = {
   id: "01a0676a-d719-703f-9f3c-56382bf0982a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-brutus",
   title: "Brutus",
   partOfCollections: ["em-beihold"],

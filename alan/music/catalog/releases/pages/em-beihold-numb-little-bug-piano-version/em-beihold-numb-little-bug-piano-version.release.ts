@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const emBeiholdNumbLittleBugPianoVersion = {
   id: "01a0676a-d726-7007-bf44-0a76aa027a06",
   pageTypeSlug: "release",
+  type: "release",
   slug: "em-beihold-numb-little-bug-piano-version",
   title: "Numb Little Bug (Piano Version)",
   partOfCollections: ["em-beihold"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const enyaWatermark2009Remaster = {
   id: "01a0676a-d730-7022-895d-4f3ec07994e2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "enya-watermark-2009-remaster",
   title: "Watermark (2009 Remaster)",
   partOfCollections: ["enya"],

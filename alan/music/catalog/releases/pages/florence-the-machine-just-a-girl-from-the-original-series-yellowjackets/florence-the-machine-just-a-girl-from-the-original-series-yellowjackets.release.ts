@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   id: "01a0676a-d722-702f-8321-d70a329618b3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "florence-the-machine-just-a-girl-from-the-original-series-yellowjackets",
   title: "Just A Girl (From The Original Series “Yellowjackets”)",
   partOfCollections: ["florence-the-machine"],

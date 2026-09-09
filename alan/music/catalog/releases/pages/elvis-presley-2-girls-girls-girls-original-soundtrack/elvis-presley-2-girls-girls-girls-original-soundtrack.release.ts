@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2GirlsGirlsGirlsOriginalSoundtrack = {
   id: "01a0676a-d71e-706a-932d-5a8763abdf5d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-girls-girls-girls-original-soundtrack",
   title: "Girls! Girls! Girls! (Original Soundtrack)",
   partOfCollections: ["elvis-presley-2"],

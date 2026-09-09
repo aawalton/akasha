@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonHoldMeCloseFeatEllaHendersonTheRemixes = {
   id: "01a0676a-d720-7047-b751-d03158c1e6f0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-hold-me-close-feat-ella-henderson-the-remixes",
   title: "Hold Me Close (feat. Ella Henderson) [The Remixes]",
   partOfCollections: ["ella-henderson"],

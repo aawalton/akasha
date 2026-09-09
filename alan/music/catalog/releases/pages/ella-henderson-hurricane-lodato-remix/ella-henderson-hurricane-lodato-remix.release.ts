@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonHurricaneLodatoRemix = {
   id: "01a0676a-d720-7077-a56c-3e6f0c120d35",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-hurricane-lodato-remix",
   title: "Hurricane (LODATO Remix)",
   partOfCollections: ["ella-henderson"],

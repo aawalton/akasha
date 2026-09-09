@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2WalkAMileInMyShoesTheEssential70sMasters = {
   id: "01a0676a-d730-7010-b9ce-d7eb0adc6f3c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-walk-a-mile-in-my-shoes-the-essential-70s-masters",
   title: "Walk a Mile in My Shoes: The Essential '70s Masters",
   partOfCollections: ["elvis-presley-2"],

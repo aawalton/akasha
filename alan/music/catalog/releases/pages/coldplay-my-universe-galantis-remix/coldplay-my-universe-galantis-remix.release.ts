@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const coldplayMyUniverseGalantisRemix = {
   id: "01a0676a-d725-703a-970e-b591f48bcbd3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "coldplay-my-universe-galantis-remix",
   title: "My Universe (Galantis Remix)",
   partOfCollections: ["coldplay"],

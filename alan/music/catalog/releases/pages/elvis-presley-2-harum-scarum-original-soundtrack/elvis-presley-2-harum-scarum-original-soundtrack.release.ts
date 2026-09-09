@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const elvisPresley2HarumScarumOriginalSoundtrack = {
   id: "01a0676a-d71f-7059-bec0-221de228e5a2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "elvis-presley-2-harum-scarum-original-soundtrack",
   title: "Harum Scarum (Original Soundtrack)",
   partOfCollections: ["elvis-presley-2"],

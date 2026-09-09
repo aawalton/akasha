@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ellaHendersonDreamOnMeStripped = {
   id: "01a0676a-d71c-7036-86e5-f7ddb1c83b18",
   pageTypeSlug: "release",
+  type: "release",
   slug: "ella-henderson-dream-on-me-stripped",
   title: "Dream On Me (Stripped)",
   partOfCollections: ["ella-henderson"],
