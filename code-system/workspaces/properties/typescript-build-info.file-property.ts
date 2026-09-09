@@ -1,10 +1,10 @@
-import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type TypescriptBuildInfo = "tsbuildinfo"
 
 export const typescriptBuildInfo = {
   id: "01a06dd5-7342-74de-8e60-7a85c3deef6e",
-  pageTypeSlug: "named-file-property",
+  pageTypeSlug: "file-property",
   slug: "typescript-build-info",
   propertySlug: "typescript-build-info",
   definition: "what TypeScript already worked out about this tree, kept between runs",
@@ -40,4 +40,4 @@ export const typescriptBuildInfo = {
       statement: "This file has no record of the files a change reached.",
     },
   ],
-} as const satisfies NamedFileProperty
+} as const satisfies FileProperty

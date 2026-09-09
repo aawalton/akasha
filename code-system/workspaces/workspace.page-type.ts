@@ -1,16 +1,16 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { BiomeConfig } from "./properties/biome-config.named-file-property.ts"
-import type { BunConfig } from "./properties/bun-config.named-file-property.ts"
-import type { DockerIgnore } from "./properties/docker-ignore.named-file-property.ts"
+import type { BiomeConfig } from "./properties/biome-config.file-property.ts"
+import type { BunConfig } from "./properties/bun-config.file-property.ts"
+import type { DockerIgnore } from "./properties/docker-ignore.file-property.ts"
 import type { Lockfile } from "./properties/lockfile.file-property.ts"
 import type { PackageDirectory } from "./properties/package-directory.build-folder-property.ts"
-import type { SecretsConfig } from "./properties/secrets-config.named-file-property.ts"
-import type { TypescriptBaseConfig } from "./properties/typescript-base-config.named-file-property.ts"
-import type { TypescriptBuildInfo } from "./properties/typescript-build-info.named-file-property.ts"
-import type { TypescriptConfig } from "./properties/typescript-config.named-file-property.ts"
-import type { WorkspaceGitIgnore } from "./properties/workspace-git-ignore.named-file-property.ts"
-import type { WorkspaceManifest } from "./properties/workspace-manifest.named-file-property.ts"
+import type { SecretsConfig } from "./properties/secrets-config.file-property.ts"
+import type { TypescriptBaseConfig } from "./properties/typescript-base-config.file-property.ts"
+import type { TypescriptBuildInfo } from "./properties/typescript-build-info.file-property.ts"
+import type { TypescriptConfig } from "./properties/typescript-config.file-property.ts"
+import type { WorkspaceGitIgnore } from "./properties/workspace-git-ignore.file-property.ts"
+import type { WorkspaceManifest } from "./properties/workspace-manifest.file-property.ts"
 
 export type Workspace = Domain & {
   workspaceManifest: WorkspaceManifest
@@ -33,35 +33,35 @@ export const workspace = {
   definition: "the tree a package manager installs every package in at once",
   pluralSlug: "workspaces",
   partSlugs: [
-    "named-file-property/biome-config",
-    "named-file-property/bun-config",
-    "named-file-property/docker-ignore",
+    "file-property/biome-config",
+    "file-property/bun-config",
+    "file-property/docker-ignore",
     "file-property/lockfile",
-    "named-file-property/secrets-config",
-    "named-file-property/typescript-base-config",
-    "named-file-property/typescript-build-info",
-    "named-file-property/typescript-config",
-    "named-file-property/workspace-git-ignore",
-    "named-file-property/workspace-manifest",
+    "file-property/secrets-config",
+    "file-property/typescript-base-config",
+    "file-property/typescript-build-info",
+    "file-property/typescript-config",
+    "file-property/workspace-git-ignore",
+    "file-property/workspace-manifest",
     "build-folder-property/package-directory",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "named-file-property/workspace-manifest", required: true, many: false },
+    { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
     { pagePropertySlug: "file-property/lockfile", required: true, many: false },
-    { pagePropertySlug: "named-file-property/biome-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/bun-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/docker-ignore", required: true, many: false },
-    { pagePropertySlug: "named-file-property/secrets-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/typescript-base-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/typescript-config", required: true, many: false },
+    { pagePropertySlug: "file-property/biome-config", required: true, many: false },
+    { pagePropertySlug: "file-property/bun-config", required: true, many: false },
+    { pagePropertySlug: "file-property/docker-ignore", required: true, many: false },
+    { pagePropertySlug: "file-property/secrets-config", required: true, many: false },
+    { pagePropertySlug: "file-property/typescript-base-config", required: true, many: false },
+    { pagePropertySlug: "file-property/typescript-config", required: true, many: false },
     {
-      pagePropertySlug: "named-file-property/typescript-build-info",
+      pagePropertySlug: "file-property/typescript-build-info",
       required: false,
       many: false,
       uncommitted: true,
     },
-    { pagePropertySlug: "named-file-property/workspace-git-ignore", required: true, many: false },
+    { pagePropertySlug: "file-property/workspace-git-ignore", required: true, many: false },
     { pagePropertySlug: "build-folder-property/package-directory", required: false, many: false },
   ],
   invariants: [

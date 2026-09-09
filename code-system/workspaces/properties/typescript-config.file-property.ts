@@ -1,12 +1,12 @@
-import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type TypescriptConfig = "json"
 
 export const typescriptConfig = {
   id: "01a06cd1-f990-7065-9e10-bb918f87956c",
-  pageTypeSlug: "named-file-property",
+  pageTypeSlug: "file-property",
   slug: "typescript-config",
   propertySlug: "typescript-config",
   definition: "the TypeScript settings this tree is judged under",
   fileName: "tsconfig.json",
-} as const satisfies NamedFileProperty
+} as const satisfies FileProperty
