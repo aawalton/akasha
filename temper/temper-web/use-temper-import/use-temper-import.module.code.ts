@@ -10,13 +10,13 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
-import { parseSavedVariablesContent } from "@akasha/temper-completion-import/completion-saved-variables-parser"
 import { classifyCompletionImport } from "@akasha/temper-player-completion/completion-import-outcome"
 import {
   mergeAccountCompletionForward,
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "@akasha/temper-player-completion/completion-merge-forward"
+import { parseSavedVariablesContent } from "akasha/temper/completion-import/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { ImportResult } from "../import-result/import-result.module.code.ts"
 

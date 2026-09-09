@@ -1487,15 +1487,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/completion-import": {
-      "name": "@akasha/temper-completion-import",
-      "dependencies": {
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/dungeons": {
       "name": "@akasha/temper-dungeons",
     },
@@ -2260,7 +2251,6 @@
         "@akasha/temper-companion-codec": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-completion-import": "workspace:*",
         "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
@@ -2313,7 +2303,6 @@
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-completion-import": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -2691,8 +2680,6 @@
     "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:temper/temper-companions-ui"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
-
-    "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/completion-import"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
 

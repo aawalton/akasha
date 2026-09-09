@@ -79,7 +79,6 @@
     "@akasha/temper-companion-codec": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
-    "@akasha/temper-completion-import": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",

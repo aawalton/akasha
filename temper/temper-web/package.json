@@ -50,7 +50,6 @@
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-companions-ui": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
-    "@akasha/temper-completion-import": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
