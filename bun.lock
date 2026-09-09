@@ -1116,6 +1116,9 @@
     "temper/lib-gps": {
       "name": "@akasha/temper-lib-gps",
     },
+    "temper/lib-main-menu": {
+      "name": "@akasha/temper-lib-main-menu",
+    },
     "temper/lib-map-data": {
       "name": "@akasha/temper-lib-map-data",
     },
@@ -1313,9 +1316,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
       },
-    },
-    "temper/temper-lib-main-menu": {
-      "name": "@akasha/temper-lib-main-menu",
     },
     "temper/temper-lib-price": {
       "name": "@akasha/temper-lib-price",
@@ -1659,7 +1659,7 @@
 
     "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/temper-lib-histoire"],
 
-    "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:temper/temper-lib-main-menu"],
+    "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:temper/lib-main-menu"],
 
     "@akasha/temper-lib-map-data": ["@akasha/temper-lib-map-data@workspace:temper/lib-map-data"],
 
