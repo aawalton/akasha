@@ -4,7 +4,7 @@ export const fileSize = {
   id: "01a08182-0997-7171-8a4f-afaacaf31310",
   pageTypeSlug: "module",
   slug: "file-size",
-  definition: "how many bytes a file holds, and none where no file is there",
+  definition: "how many bytes a file has, and none where no file is there",
   code: "ts",
   test: "ts",
   invariants: [

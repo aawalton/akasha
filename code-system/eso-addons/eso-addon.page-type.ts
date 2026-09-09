@@ -73,11 +73,11 @@ export const esoAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "The modules an addon holds are compiled from TypeScript to Lua before a build.",
+      statement: "The modules an addon has are compiled from TypeScript to Lua before a build.",
     },
     {
       invariantKind: "departure",
-      statement: "One module an addon holds is where the transpiler starts the Lua bundle.",
+      statement: "One module an addon has is where the transpiler starts the Lua bundle.",
     },
     {
       invariantKind: "departure",

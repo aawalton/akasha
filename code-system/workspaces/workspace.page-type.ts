@@ -91,7 +91,7 @@ export const workspace = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the workspace root holds is claimed by a property here.",
+      statement: "Every file the workspace root has is claimed by a property here.",
     },
   ],
 } as const satisfies PageType

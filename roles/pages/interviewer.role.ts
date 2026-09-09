@@ -29,7 +29,7 @@ export const interviewer = {
     {
       directiveKind: "rule",
       name: "Read Before Asking",
-      act: "Read what the book holds on a subject before putting a question on that subject to the person.",
+      act: "Read what the book has on a subject before putting a question on that subject to the person.",
       warrant:
         "A question the book already answers buys nothing and spends the scarcest thing an interview has.",
       aids: [

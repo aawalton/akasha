@@ -30,7 +30,7 @@ export const idleSave = {
     {
       invariantKind: "gap",
       statement:
-        "The state a save holds and that save's player are properties this type does not yet declare.",
+        "The state a save has and that save's player are properties this type does not yet declare.",
     },
   ],
 } as const satisfies PageType

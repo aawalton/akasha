@@ -33,7 +33,7 @@ export const watcherTaskRolling = {
     {
       invariantKind: "departure",
       statement:
-        "The roster is every character the account holds rather than the characters lately played.",
+        "The roster is every character the account has rather than the characters lately played.",
     },
     {
       invariantKind: "departure",

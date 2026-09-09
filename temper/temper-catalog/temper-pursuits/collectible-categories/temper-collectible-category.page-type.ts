@@ -35,7 +35,7 @@ export const temperCollectibleCategory = {
     },
     {
       invariantKind: "departure",
-      statement: "A collectible a category holds is a line of the file beside the page.",
+      statement: "A collectible a category has is a line of the file beside the page.",
     },
   ],
 } as const satisfies PageType

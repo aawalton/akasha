@@ -17,7 +17,7 @@ export const trackingField = {
     },
     {
       invariantKind: "departure",
-      statement: "Each value a field holds is one observation.",
+      statement: "Each value a field has is one observation.",
     },
     {
       invariantKind: "gap",
