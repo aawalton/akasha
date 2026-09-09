@@ -5,6 +5,6 @@ export const servantsOfTheCrownInvisibility = {
   pageTypeSlug: "world-skill",
   slug: "servants-of-the-crown-invisibility",
   title: "Servants of the Crown: Invisibility",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

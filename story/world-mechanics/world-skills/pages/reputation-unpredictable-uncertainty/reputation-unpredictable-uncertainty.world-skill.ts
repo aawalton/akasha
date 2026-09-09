@@ -5,6 +5,6 @@ export const reputationUnpredictableUncertainty = {
   pageTypeSlug: "world-skill",
   slug: "reputation-unpredictable-uncertainty",
   title: "Reputation: Unpredictable Uncertainty",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

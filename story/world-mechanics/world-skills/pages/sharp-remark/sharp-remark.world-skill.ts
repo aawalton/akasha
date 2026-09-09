@@ -5,6 +5,6 @@ export const sharpRemark = {
   pageTypeSlug: "world-skill",
   slug: "sharp-remark",
   title: "Sharp Remark",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

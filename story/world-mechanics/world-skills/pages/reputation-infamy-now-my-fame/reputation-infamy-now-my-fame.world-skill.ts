@@ -5,6 +5,6 @@ export const reputationInfamyNowMyFame = {
   pageTypeSlug: "world-skill",
   slug: "reputation-infamy-now-my-fame",
   title: "Reputation: Infamy, Now My Fame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

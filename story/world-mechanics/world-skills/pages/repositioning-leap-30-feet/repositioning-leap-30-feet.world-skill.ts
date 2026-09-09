@@ -5,6 +5,6 @@ export const repositioningLeap30Feet = {
   pageTypeSlug: "world-skill",
   slug: "repositioning-leap-30-feet",
   title: "Repositioning Leap (30 Feet)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const rearwardCut = {
   pageTypeSlug: "world-skill",
   slug: "rearward-cut",
   title: "Rearward Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

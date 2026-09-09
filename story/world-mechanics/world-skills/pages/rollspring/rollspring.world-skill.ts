@@ -5,6 +5,6 @@ export const rollspring = {
   pageTypeSlug: "world-skill",
   slug: "rollspring",
   title: "Rollspring",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

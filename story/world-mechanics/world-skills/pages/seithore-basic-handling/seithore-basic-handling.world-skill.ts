@@ -5,6 +5,6 @@ export const seithoreBasicHandling = {
   pageTypeSlug: "world-skill",
   slug: "seithore-basic-handling",
   title: "Seithore Basic Handling",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

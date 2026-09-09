@@ -5,5 +5,5 @@ export const reviveGolemsAutonomousWeekly = {
   pageTypeSlug: "world-skill",
   slug: "revive-golems-autonomous-weekly",
   title: "Revive Golems (Autonomous, Weekly)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

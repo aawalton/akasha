@@ -5,6 +5,6 @@ export const potions148Efficiency = {
   pageTypeSlug: "world-skill",
   slug: "potions-148-efficiency",
   title: "Potions: 148% Efficiency",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

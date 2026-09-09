@@ -5,6 +5,6 @@ export const skillDetectPoisonRestored = {
   pageTypeSlug: "world-skill",
   slug: "skill-detect-poison-restored",
   title: "Skill – Detect Poison restored.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

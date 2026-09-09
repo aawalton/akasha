@@ -5,6 +5,6 @@ export const prayerCourageBeyondMeasure = {
   pageTypeSlug: "world-skill",
   slug: "prayer-courage-beyond-measure",
   title: "Prayer: Courage Beyond Measure",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const powerJump = {
   pageTypeSlug: "world-skill",
   slug: "power-jump",
   title: "Power Jump",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

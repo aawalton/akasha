@@ -5,6 +5,6 @@ export const sightSignificantThreats = {
   pageTypeSlug: "world-skill",
   slug: "sight-significant-threats",
   title: "Sight: Significant Threats",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

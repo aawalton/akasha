@@ -5,6 +5,6 @@ export const remoteManagement = {
   pageTypeSlug: "world-skill",
   slug: "remote-management",
   title: "Remote Management",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

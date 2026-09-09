@@ -5,5 +5,5 @@ export const recipeParasytebaneBrew = {
   pageTypeSlug: "world-skill",
   slug: "recipe-parasytebane-brew",
   title: "Recipe: Parasytebane Brew",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const preparedStrategyFourMightyCleave = {
   pageTypeSlug: "world-skill",
   slug: "prepared-strategy-four-mighty-cleave",
   title: "Prepared Strategy Four: Mighty Cleave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

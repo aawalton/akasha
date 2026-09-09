@@ -5,6 +5,6 @@ export const razorfangs = {
   pageTypeSlug: "world-skill",
   slug: "razorfangs",
   title: "Razorfangs",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

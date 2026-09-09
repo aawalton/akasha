@@ -5,6 +5,6 @@ export const relentlessReloading = {
   pageTypeSlug: "world-skill",
   slug: "relentless-reloading",
   title: "Relentless Reloading",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

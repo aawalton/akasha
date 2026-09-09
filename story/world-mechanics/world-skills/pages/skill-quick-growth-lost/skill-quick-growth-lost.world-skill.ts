@@ -5,6 +5,6 @@ export const skillQuickGrowthLost = {
   pageTypeSlug: "world-skill",
   slug: "skill-quick-growth-lost",
   title: "Skill – Quick Growth Lost.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

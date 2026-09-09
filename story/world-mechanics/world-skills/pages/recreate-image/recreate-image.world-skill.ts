@@ -5,6 +5,6 @@ export const recreateImage = {
   pageTypeSlug: "world-skill",
   slug: "recreate-image",
   title: "Recreate Image",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const reducedRecoil = {
   pageTypeSlug: "world-skill",
   slug: "reduced-recoil",
   title: "Reduced Recoil",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const schoolCountlessKeysSkillLockingSlash = {
   pageTypeSlug: "world-skill",
   slug: "school-countless-keys-skill-locking-slash",
   title: "School — Countless Keys: Skill-locking Slash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

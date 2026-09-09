@@ -5,6 +5,6 @@ export const purityCheck = {
   pageTypeSlug: "world-skill",
   slug: "purity-check",
   title: "Purity Check",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

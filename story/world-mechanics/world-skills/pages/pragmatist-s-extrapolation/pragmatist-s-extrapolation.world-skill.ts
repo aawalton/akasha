@@ -5,6 +5,6 @@ export const pragmatistSExtrapolation = {
   pageTypeSlug: "world-skill",
   slug: "pragmatist-s-extrapolation",
   title: "Pragmatist’s Extrapolation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

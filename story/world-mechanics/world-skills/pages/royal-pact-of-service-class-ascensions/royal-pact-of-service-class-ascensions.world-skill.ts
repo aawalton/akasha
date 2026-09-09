@@ -5,6 +5,6 @@ export const royalPactOfServiceClassAscensions = {
   pageTypeSlug: "world-skill",
   slug: "royal-pact-of-service-class-ascensions",
   title: "Royal Pact of Service: Class Ascensions",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const retryMistake = {
   pageTypeSlug: "world-skill",
   slug: "retry-mistake",
   title: "Retry Mistake",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

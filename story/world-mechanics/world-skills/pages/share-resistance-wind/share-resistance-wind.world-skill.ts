@@ -5,6 +5,6 @@ export const shareResistanceWind = {
   pageTypeSlug: "world-skill",
   slug: "share-resistance-wind",
   title: "Share Resistance: Wind",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

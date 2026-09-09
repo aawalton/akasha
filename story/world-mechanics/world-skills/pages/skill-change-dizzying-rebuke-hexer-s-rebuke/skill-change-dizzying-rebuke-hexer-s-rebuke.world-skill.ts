@@ -5,6 +5,6 @@ export const skillChangeDizzyingRebukeHexerSRebuke = {
   pageTypeSlug: "world-skill",
   slug: "skill-change-dizzying-rebuke-hexer-s-rebuke",
   title: "Skill Change: Dizzying Rebuke → Hexer’s Rebuke!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

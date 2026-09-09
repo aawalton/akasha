@@ -5,6 +5,6 @@ export const retractLine = {
   pageTypeSlug: "world-skill",
   slug: "retract-line",
   title: "Retract Line",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

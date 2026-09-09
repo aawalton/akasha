@@ -5,6 +5,6 @@ export const preparedStrategyThreeFireballVolley = {
   pageTypeSlug: "world-skill",
   slug: "prepared-strategy-three-fireball-volley",
   title: "Prepared Strategy Three: Fireball Volley",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

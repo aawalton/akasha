@@ -5,6 +5,6 @@ export const rejoinThread = {
   pageTypeSlug: "world-skill",
   slug: "rejoin-thread",
   title: "Rejoin Thread",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

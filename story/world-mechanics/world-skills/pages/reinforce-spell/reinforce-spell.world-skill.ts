@@ -5,6 +5,6 @@ export const reinforceSpell = {
   pageTypeSlug: "world-skill",
   slug: "reinforce-spell",
   title: "Reinforce Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

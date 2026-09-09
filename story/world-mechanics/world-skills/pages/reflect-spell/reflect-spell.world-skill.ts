@@ -5,6 +5,6 @@ export const reflectSpell = {
   pageTypeSlug: "world-skill",
   slug: "reflect-spell",
   title: "Reflect Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

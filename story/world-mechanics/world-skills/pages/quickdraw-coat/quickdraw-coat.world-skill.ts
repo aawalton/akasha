@@ -5,6 +5,6 @@ export const quickdrawCoat = {
   pageTypeSlug: "world-skill",
   slug: "quickdraw-coat",
   title: "Quickdraw Coat",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

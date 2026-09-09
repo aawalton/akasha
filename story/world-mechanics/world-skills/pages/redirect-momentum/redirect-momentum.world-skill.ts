@@ -5,6 +5,6 @@ export const redirectMomentum = {
   pageTypeSlug: "world-skill",
   slug: "redirect-momentum",
   title: "Redirect Momentum",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

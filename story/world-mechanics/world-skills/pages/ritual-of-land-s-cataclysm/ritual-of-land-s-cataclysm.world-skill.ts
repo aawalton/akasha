@@ -5,6 +5,6 @@ export const ritualOfLandSCataclysm = {
   pageTypeSlug: "world-skill",
   slug: "ritual-of-land-s-cataclysm",
   title: "Ritual of Land’s Cataclysm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

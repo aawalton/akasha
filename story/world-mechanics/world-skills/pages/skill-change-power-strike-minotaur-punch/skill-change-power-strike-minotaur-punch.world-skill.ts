@@ -5,6 +5,6 @@ export const skillChangePowerStrikeMinotaurPunch = {
   pageTypeSlug: "world-skill",
   slug: "skill-change-power-strike-minotaur-punch",
   title: "Skill Change – Power Strike → Minotaur Punch!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

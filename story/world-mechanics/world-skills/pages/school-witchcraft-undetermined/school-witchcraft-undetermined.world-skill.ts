@@ -5,6 +5,6 @@ export const schoolWitchcraftUndetermined = {
   pageTypeSlug: "world-skill",
   slug: "school-witchcraft-undetermined",
   title: "School: Witchcraft (Undetermined)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

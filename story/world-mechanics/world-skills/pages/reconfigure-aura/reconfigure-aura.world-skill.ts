@@ -5,6 +5,6 @@ export const reconfigureAura = {
   pageTypeSlug: "world-skill",
   slug: "reconfigure-aura",
   title: "Reconfigure Aura",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

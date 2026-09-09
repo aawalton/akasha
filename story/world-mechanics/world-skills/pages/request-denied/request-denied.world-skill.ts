@@ -5,6 +5,6 @@ export const requestDenied = {
   pageTypeSlug: "world-skill",
   slug: "request-denied",
   title: "Request Denied",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

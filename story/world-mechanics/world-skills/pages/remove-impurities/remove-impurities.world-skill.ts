@@ -5,6 +5,6 @@ export const removeImpurities = {
   pageTypeSlug: "world-skill",
   slug: "remove-impurities",
   title: "Remove Impurities",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

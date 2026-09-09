@@ -5,6 +5,6 @@ export const rapidDisassembly = {
   pageTypeSlug: "world-skill",
   slug: "rapid-disassembly",
   title: "Rapid Disassembly",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

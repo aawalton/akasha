@@ -5,6 +5,6 @@ export const scatterDash = {
   pageTypeSlug: "world-skill",
   slug: "scatter-dash",
   title: "Scatter Dash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

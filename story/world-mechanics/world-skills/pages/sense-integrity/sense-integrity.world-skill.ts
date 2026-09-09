@@ -5,6 +5,6 @@ export const senseIntegrity = {
   pageTypeSlug: "world-skill",
   slug: "sense-integrity",
   title: "Sense Integrity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

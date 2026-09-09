@@ -5,6 +5,6 @@ export const reverseDecision = {
   pageTypeSlug: "world-skill",
   slug: "reverse-decision",
   title: "Reverse Decision",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

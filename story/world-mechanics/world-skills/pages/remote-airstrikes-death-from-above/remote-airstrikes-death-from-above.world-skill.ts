@@ -5,6 +5,6 @@ export const remoteAirstrikesDeathFromAbove = {
   pageTypeSlug: "world-skill",
   slug: "remote-airstrikes-death-from-above",
   title: "Remote Airstrikes: Death From Above",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

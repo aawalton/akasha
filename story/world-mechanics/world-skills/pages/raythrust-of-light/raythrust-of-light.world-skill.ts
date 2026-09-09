@@ -5,6 +5,6 @@ export const raythrustOfLight = {
   pageTypeSlug: "world-skill",
   slug: "raythrust-of-light",
   title: "Raythrust of Light",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

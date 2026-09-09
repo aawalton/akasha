@@ -5,6 +5,6 @@ export const readerSTemporaryCopy = {
   pageTypeSlug: "world-skill",
   slug: "reader-s-temporary-copy",
   title: "Reader’s Temporary Copy",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

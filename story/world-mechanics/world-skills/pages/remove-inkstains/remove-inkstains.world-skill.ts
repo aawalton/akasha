@@ -5,6 +5,6 @@ export const removeInkstains = {
   pageTypeSlug: "world-skill",
   slug: "remove-inkstains",
   title: "Remove Inkstains",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

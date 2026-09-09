@@ -5,6 +5,6 @@ export const readBetweenTheLines = {
   pageTypeSlug: "world-skill",
   slug: "read-between-the-lines",
   title: "Read Between the Lines",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

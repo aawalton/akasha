@@ -5,5 +5,5 @@ export const recallMyGreatestHour = {
   pageTypeSlug: "world-skill",
   slug: "recall-my-greatest-hour",
   title: "Recall My Greatest Hour",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

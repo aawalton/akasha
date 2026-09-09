@@ -5,6 +5,6 @@ export const retainHeat = {
   pageTypeSlug: "world-skill",
   slug: "retain-heat",
   title: "Retain Heat",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

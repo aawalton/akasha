@@ -5,6 +5,6 @@ export const skillArrowsCombinedWeightOfOurWrath = {
   pageTypeSlug: "world-skill",
   slug: "skill-arrows-combined-weight-of-our-wrath",
   title: "Skill – Arrows: Combined Weight of Our Wrath",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

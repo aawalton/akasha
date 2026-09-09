@@ -5,6 +5,6 @@ export const redirectArrows = {
   pageTypeSlug: "world-skill",
   slug: "redirect-arrows",
   title: "Redirect Arrows",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

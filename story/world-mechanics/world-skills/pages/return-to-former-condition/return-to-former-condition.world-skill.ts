@@ -5,6 +5,6 @@ export const returnToFormerCondition = {
   pageTypeSlug: "world-skill",
   slug: "return-to-former-condition",
   title: "Return to Former Condition",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

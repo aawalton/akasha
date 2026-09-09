@@ -5,6 +5,6 @@ export const shipInstantaneousReload = {
   pageTypeSlug: "world-skill",
   slug: "ship-instantaneous-reload",
   title: "Ship: Instantaneous Reload",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

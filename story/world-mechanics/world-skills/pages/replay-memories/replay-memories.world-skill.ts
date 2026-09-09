@@ -5,6 +5,6 @@ export const replayMemories = {
   pageTypeSlug: "world-skill",
   slug: "replay-memories",
   title: "Replay Memories",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

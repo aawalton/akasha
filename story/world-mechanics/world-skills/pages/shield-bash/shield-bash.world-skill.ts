@@ -5,6 +5,6 @@ export const shieldBash = {
   pageTypeSlug: "world-skill",
   slug: "shield-bash",
   title: "Shield Bash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const skillChangePowerStrikeMirageCut = {
   pageTypeSlug: "world-skill",
   slug: "skill-change-power-strike-mirage-cut",
   title: "Skill Change – Power Strike → Mirage Cut!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

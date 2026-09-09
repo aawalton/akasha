@@ -5,6 +5,6 @@ export const removeEffect = {
   pageTypeSlug: "world-skill",
   slug: "remove-effect",
   title: "Remove Effect",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

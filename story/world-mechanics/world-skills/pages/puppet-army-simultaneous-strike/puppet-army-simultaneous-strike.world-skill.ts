@@ -5,6 +5,6 @@ export const puppetArmySimultaneousStrike = {
   pageTypeSlug: "world-skill",
   slug: "puppet-army-simultaneous-strike",
   title: "Puppet Army: Simultaneous Strike!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

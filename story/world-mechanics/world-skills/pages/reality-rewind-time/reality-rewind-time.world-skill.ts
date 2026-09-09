@@ -5,6 +5,6 @@ export const realityRewindTime = {
   pageTypeSlug: "world-skill",
   slug: "reality-rewind-time",
   title: "Reality: Rewind Time",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

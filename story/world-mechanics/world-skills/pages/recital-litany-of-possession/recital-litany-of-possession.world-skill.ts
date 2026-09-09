@@ -5,6 +5,6 @@ export const recitalLitanyOfPossession = {
   pageTypeSlug: "world-skill",
   slug: "recital-litany-of-possession",
   title: "Recital: Litany of Possession",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

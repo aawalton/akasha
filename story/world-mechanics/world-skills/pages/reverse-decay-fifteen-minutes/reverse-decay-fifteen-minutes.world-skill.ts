@@ -5,6 +5,6 @@ export const reverseDecayFifteenMinutes = {
   pageTypeSlug: "world-skill",
   slug: "reverse-decay-fifteen-minutes",
   title: "Reverse Decay: Fifteen Minutes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

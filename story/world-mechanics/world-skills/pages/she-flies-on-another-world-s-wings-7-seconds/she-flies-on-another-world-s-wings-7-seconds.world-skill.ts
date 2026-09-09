@@ -5,7 +5,7 @@ export const sheFliesOnAnotherWorldSWings7Seconds = {
   pageTypeSlug: "world-skill",
   slug: "she-flies-on-another-world-s-wings-7-seconds",
   title: "She Flies on Another World’s Wings (7 Seconds)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["she-flies-on-another-world-s-wings-5-seconds"],
   references: "jsonl",
 } as const satisfies WorldSkill

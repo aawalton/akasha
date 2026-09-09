@@ -5,6 +5,6 @@ export const senseTemperature = {
   pageTypeSlug: "world-skill",
   slug: "sense-temperature",
   title: "Sense Temperature",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

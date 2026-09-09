@@ -5,6 +5,6 @@ export const skillChangeKeenEyesEagleEyes = {
   pageTypeSlug: "world-skill",
   slug: "skill-change-keen-eyes-eagle-eyes",
   title: "Skill Change – Keen Eyes → Eagle Eyes!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

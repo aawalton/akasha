@@ -5,6 +5,6 @@ export const royalWillTheWeightOfTreasuries = {
   pageTypeSlug: "world-skill",
   slug: "royal-will-the-weight-of-treasuries",
   title: "Royal Will: The Weight of Treasuries",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

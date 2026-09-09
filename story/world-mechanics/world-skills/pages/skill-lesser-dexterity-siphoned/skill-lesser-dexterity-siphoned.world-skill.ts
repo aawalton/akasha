@@ -5,6 +5,6 @@ export const skillLesserDexteritySiphoned = {
   pageTypeSlug: "world-skill",
   slug: "skill-lesser-dexterity-siphoned",
   title: "Skill – Lesser Dexterity siphoned.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

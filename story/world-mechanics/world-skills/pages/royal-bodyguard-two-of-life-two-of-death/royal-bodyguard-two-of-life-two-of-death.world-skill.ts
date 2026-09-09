@@ -5,6 +5,6 @@ export const royalBodyguardTwoOfLifeTwoOfDeath = {
   pageTypeSlug: "world-skill",
   slug: "royal-bodyguard-two-of-life-two-of-death",
   title: "Royal Bodyguard: Two of Life, Two of Death",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

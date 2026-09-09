@@ -5,7 +5,7 @@ export const seeItMyWay = {
   pageTypeSlug: "world-skill",
   slug: "see-it-my-way",
   title: "See it My Way",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["See It My Way"],
   references: "jsonl",
 } as const satisfies WorldSkill

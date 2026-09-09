@@ -5,6 +5,6 @@ export const reverseAnalysis = {
   pageTypeSlug: "world-skill",
   slug: "reverse-analysis",
   title: "Reverse Analysis",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const restedFedAppreciatedAndPaidMyWorkersSurpassedMundanity = {
   pageTypeSlug: "world-skill",
   slug: "rested-fed-appreciated-and-paid-my-workers-surpassed-mundanity",
   title: "Rested, Fed, Appreciated and Paid, My Workers Surpassed Mundanity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

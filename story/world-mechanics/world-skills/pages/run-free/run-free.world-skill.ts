@@ -5,6 +5,6 @@ export const runFree = {
   pageTypeSlug: "world-skill",
   slug: "run-free",
   title: "Run Free",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

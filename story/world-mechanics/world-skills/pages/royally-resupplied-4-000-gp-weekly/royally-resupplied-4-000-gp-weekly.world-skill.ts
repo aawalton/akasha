@@ -5,6 +5,6 @@ export const royallyResupplied4000GpWeekly = {
   pageTypeSlug: "world-skill",
   slug: "royally-resupplied-4-000-gp-weekly",
   title: "Royally Resupplied (4,000 gp*, weekly)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

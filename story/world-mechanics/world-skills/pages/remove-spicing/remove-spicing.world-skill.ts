@@ -5,6 +5,6 @@ export const removeSpicing = {
   pageTypeSlug: "world-skill",
   slug: "remove-spicing",
   title: "Remove Spicing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

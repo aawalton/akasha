@@ -5,6 +5,6 @@ export const silverIllusionWhirlwindOfBlades = {
   pageTypeSlug: "world-skill",
   slug: "silver-illusion-whirlwind-of-blades",
   title: "Silver Illusion: Whirlwind of Blades",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

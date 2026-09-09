@@ -5,6 +5,6 @@ export const raiseTheBannerHoldWithSwordAndSpell = {
   pageTypeSlug: "world-skill",
   slug: "raise-the-banner-hold-with-sword-and-spell",
   title: "Raise the Banner: Hold, with Sword and Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

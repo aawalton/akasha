@@ -5,6 +5,6 @@ export const siphonTime = {
   pageTypeSlug: "world-skill",
   slug: "siphon-time",
   title: "Siphon Time",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const preparedSignal = {
   pageTypeSlug: "world-skill",
   slug: "prepared-signal",
   title: "Prepared Signal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["plotter-s-network"],
   references: "jsonl",
 } as const satisfies WorldSkill

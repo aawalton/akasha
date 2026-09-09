@@ -5,6 +5,6 @@ export const rightAngleTurn = {
   pageTypeSlug: "world-skill",
   slug: "right-angle-turn",
   title: "Right-Angle Turn",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

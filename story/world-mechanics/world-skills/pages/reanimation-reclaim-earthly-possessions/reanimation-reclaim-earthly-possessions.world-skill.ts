@@ -5,6 +5,6 @@ export const reanimationReclaimEarthlyPossessions = {
   pageTypeSlug: "world-skill",
   slug: "reanimation-reclaim-earthly-possessions",
   title: "Reanimation: Reclaim Earthly Possessions",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

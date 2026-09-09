@@ -5,6 +5,6 @@ export const productivitySpike = {
   pageTypeSlug: "world-skill",
   slug: "productivity-spike",
   title: "Productivity Spike",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

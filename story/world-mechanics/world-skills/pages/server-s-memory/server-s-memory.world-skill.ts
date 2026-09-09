@@ -5,6 +5,6 @@ export const serverSMemory = {
   pageTypeSlug: "world-skill",
   slug: "server-s-memory",
   title: "Server’s Memory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

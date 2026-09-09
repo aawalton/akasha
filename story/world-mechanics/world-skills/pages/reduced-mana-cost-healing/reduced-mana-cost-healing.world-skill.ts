@@ -5,6 +5,6 @@ export const reducedManaCostHealing = {
   pageTypeSlug: "world-skill",
   slug: "reduced-mana-cost-healing",
   title: "Reduced Mana Cost: Healing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

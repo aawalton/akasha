@@ -5,6 +5,6 @@ export const razorSlash = {
   pageTypeSlug: "world-skill",
   slug: "razor-slash",
   title: "Razor Slash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

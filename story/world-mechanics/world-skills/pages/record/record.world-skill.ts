@@ -5,5 +5,5 @@ export const record = {
   pageTypeSlug: "world-skill",
   slug: "record",
   title: "Record",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

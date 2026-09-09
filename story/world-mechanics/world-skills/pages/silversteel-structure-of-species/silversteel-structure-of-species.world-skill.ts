@@ -5,6 +5,6 @@ export const silversteelStructureOfSpecies = {
   pageTypeSlug: "world-skill",
   slug: "silversteel-structure-of-species",
   title: "Silversteel: Structure of Species",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

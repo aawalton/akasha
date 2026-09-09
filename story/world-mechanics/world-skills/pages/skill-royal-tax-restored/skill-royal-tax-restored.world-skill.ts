@@ -5,6 +5,6 @@ export const skillRoyalTaxRestored = {
   pageTypeSlug: "world-skill",
   slug: "skill-royal-tax-restored",
   title: "Skill – Royal Tax restored.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

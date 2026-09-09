@@ -5,6 +5,6 @@ export const sleepStorage = {
   pageTypeSlug: "world-skill",
   slug: "sleep-storage",
   title: "Sleep Storage",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

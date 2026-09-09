@@ -5,7 +5,7 @@ export const silverstakeSpreadshot = {
   pageTypeSlug: "world-skill",
   slug: "silverstake-spreadshot",
   title: "Silverstake Spreadshot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["keen-shot"],
   references: "jsonl",
 } as const satisfies WorldSkill

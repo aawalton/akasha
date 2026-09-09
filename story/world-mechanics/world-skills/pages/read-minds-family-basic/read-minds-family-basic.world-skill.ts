@@ -5,6 +5,6 @@ export const readMindsFamilyBasic = {
   pageTypeSlug: "world-skill",
   slug: "read-minds-family-basic",
   title: "Read Minds: Family (Basic)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

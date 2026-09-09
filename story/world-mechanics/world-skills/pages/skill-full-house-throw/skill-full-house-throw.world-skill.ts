@@ -5,6 +5,6 @@ export const skillFullHouseThrow = {
   pageTypeSlug: "world-skill",
   slug: "skill-full-house-throw",
   title: "Skill – Full House Throw",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

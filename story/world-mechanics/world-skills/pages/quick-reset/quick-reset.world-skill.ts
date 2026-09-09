@@ -5,6 +5,6 @@ export const quickReset = {
   pageTypeSlug: "world-skill",
   slug: "quick-reset",
   title: "Quick Reset",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

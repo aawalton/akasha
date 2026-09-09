@@ -5,6 +5,6 @@ export const skillChangeKeenShotSilverstakeSpreadshot = {
   pageTypeSlug: "world-skill",
   slug: "skill-change-keen-shot-silverstake-spreadshot",
   title: "Skill Change – Keen Shot → Silverstake Spreadshot!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

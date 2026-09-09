@@ -5,6 +5,6 @@ export const reflectionStave = {
   pageTypeSlug: "world-skill",
   slug: "reflection-stave",
   title: "Reflection Stave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

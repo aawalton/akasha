@@ -5,6 +5,6 @@ export const rememberMyDefiningMoment = {
   pageTypeSlug: "world-skill",
   slug: "remember-my-defining-moment",
   title: "Remember: My Defining Moment",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

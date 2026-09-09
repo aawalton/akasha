@@ -5,6 +5,6 @@ export const serendipitousInterventionRomance = {
   pageTypeSlug: "world-skill",
   slug: "serendipitous-intervention-romance",
   title: "Serendipitous Intervention (Romance)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
