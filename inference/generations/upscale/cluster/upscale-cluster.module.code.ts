@@ -10,7 +10,7 @@ import {
   buildUpscaleServingJob,
   UPSCALE_SERVING_BUCKET,
   UPSCALE_SERVING_NAMESPACE,
-} from "../upscale-serving-job/upscale-serving-job.module.code.ts"
+} from "../serving-job/upscale-serving-job.module.code.ts"
 
 const JOB_WAIT_TIMEOUT_MS = 31 * 60_000
 const JOB_POLL_MS = 5_000
