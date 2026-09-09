@@ -1,7 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type ModelTestOutcome = Domain
 
 export const modelTestOutcome = {
   id: "01a05905-af36-7e9e-b4a3-99f20936dd14",
@@ -32,4 +29,5 @@ export const modelTestOutcome = {
       statement: "An outcome is the finding a reader made rather than the answer the model gave.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

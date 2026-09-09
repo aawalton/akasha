@@ -1,4 +1,4 @@
-import type { ModelTestOutcome } from "../model-test-outcome.page-type.ts"
+import type { ModelTestOutcome } from "../model-test-outcome.page-type.types.ts"
 
 export const positiveTruthy = {
   id: "01a05905-af3a-7d10-864d-cdafae5669cc",

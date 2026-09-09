@@ -1,4 +1,4 @@
-import type { ModelTestOutcome } from "../model-test-outcome.page-type.ts"
+import type { ModelTestOutcome } from "../model-test-outcome.page-type.types.ts"
 
 export const negativeFalse = {
   id: "01a05905-af40-7665-8856-0c886ca80720",
