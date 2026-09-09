@@ -75,10 +75,6 @@ export const openingWindow = {
       statement: "A spanned window refuses only a day that will not parse.",
     },
     {
-      invariantKind: "departure",
-      statement: "Which of the two a day was is answered here rather than by each figure's writer.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here asks for a page type but the day's own.",
     },

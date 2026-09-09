@@ -8,7 +8,6 @@ import {
   openingInstantFromBlocks,
   openingWindowIn,
   sleepBlocksOn,
-  spannedFromDayBoundaryIn,
   spannedWindowIn,
 } from "./opening-window.module.code.ts"
 
@@ -205,21 +204,4 @@ test("a day the index names no page for refuses", () => {
 test("what is no day at all refuses", () => {
   const root = worldFiled("akasha-wake-noday-")
   expect(refusalIn(openingWindowIn(root, "not-a-day"))).toContain("is no day")
-})
-
-test("a day whose sleep is recorded on both ends was not spanned from the boundary", () => {
-  const root = worldFiled("akasha-wake-spanned-false-")
-  expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(false)
-})
-
-test("a day with no recorded opening was spanned from the boundary", () => {
-  const root = worldFiled("akasha-wake-spanned-true-")
-  dayFiled(root, SLEPT, null)
-  expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(true)
-})
-
-test("a day whose next day has no recorded opening was spanned from the boundary at one end", () => {
-  const root = worldFiled("akasha-wake-spanned-end-")
-  dayFiled(root, NEXT, null)
-  expect(spannedFromDayBoundaryIn(root, SLEPT)).toBe(true)
 })

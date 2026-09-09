@@ -166,11 +166,3 @@ export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refus
 export function spannedWindow(dayStr: string): DayWindow | Refused {
   return spannedWindowIn(akashaRoot(), dayStr)
 }
-
-export function spannedFromDayBoundaryIn(root: string, dayStr: string): boolean {
-  return "refused" in openingWindowIn(root, dayStr)
-}
-
-export function spannedFromDayBoundary(dayStr: string): boolean {
-  return spannedFromDayBoundaryIn(akashaRoot(), dayStr)
-}
