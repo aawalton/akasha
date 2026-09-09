@@ -17,7 +17,7 @@ export default [
   route("sms", "routes/alan-web-sms/alan-web-sms.route.code.tsx"),
   route("sign-in", "routes/alan-web-sign-in/alan-web-sign-in.route.code.tsx"),
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
-  route("sign-out", "routes/sign-out.ts"),
+  route("sign-out", "routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"),
   route("idle", "routes/idle.ts"),
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
@@ -38,9 +38,9 @@ export default [
   route("api/sms/webhook", "routes/api.sms.webhook.ts"),
   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
   route("api/spotify/callback", "routes/api.spotify.callback.ts"),
-  route("api/page-types", "routes/api.page-types.ts"),
+  route("api/page-types", "routes/alan-web-api-page-types/alan-web-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
-  route("api/page-write", "routes/api.page-write.ts"),
+  route("api/page-write", "routes/alan-web-api-page-write/alan-web-api-page-write.route.code.ts"),
   route(
     "api/nav-icon/:idSuffix",
     "routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"

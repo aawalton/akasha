@@ -190,5 +190,8 @@ export const alanWeb = {
     "route/alan-web-terms",
     "route/alan-web-principles",
     "route/alan-web-sms",
+    "route/alan-web-api-page-types",
+    "route/alan-web-api-page-write",
+    "route/alan-web-sign-out",
   ],
 } as const satisfies RouterApp
