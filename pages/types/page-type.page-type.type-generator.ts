@@ -1,6 +1,6 @@
 import { dirname, relative } from "node:path"
+import type { Adding } from "@akasha/changes/change-answer/types"
 import type { Schema } from "@akasha/indexes/shape"
-import type { FileEdit } from "../../commands/modules/landing/landing.module.code.ts"
 import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../shadow/shadow.module.code.ts"
@@ -139,10 +139,9 @@ export function bodyFor(
   return `${lines.join("\n")}\n`
 }
 
-export function generateTypes(_root: string, shadow: Shadow): readonly FileEdit[] {
-  const written: FileEdit[] = []
+export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
+  const written: Adding[] = []
   const resolving = resolvingIn(shadow)
-  const bytes = new TextEncoder()
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
     if (value === null || value[SECTION] !== HOLDS) continue
@@ -152,7 +151,11 @@ export function generateTypes(_root: string, shadow: Shadow): readonly FileEdit[
     if (at === null) continue
     const parents = parentsFor(shadow, value)
     const keys = keysFor(shadow, value, resolving)
-    written.push({ path: at, body: bytes.encode(bodyFor(listed.path, slug, parents, keys)) })
+    written.push({
+      kind: "add",
+      path: at,
+      content: bodyFor(listed.path, slug, parents, keys),
+    })
   }
   return written
 }

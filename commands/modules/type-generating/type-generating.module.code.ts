@@ -10,7 +10,8 @@ import type {
   Adding,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
+
+const BYTES = new TextEncoder()
 
 const PAGE_TYPE = "page-type"
 
@@ -28,7 +29,7 @@ const GENERATES = "generateTypes"
 
 const loadFrom = createRequire(import.meta.url)
 
-export type Generating = (root: string, shadow: Shadow) => readonly FileEdit[]
+export type Generating = (root: string, shadow: Shadow) => readonly Adding[]
 
 export type Reached = { readonly generating: Generating } | { readonly missing: string }
 
@@ -57,7 +58,7 @@ export function generatingIn(root: string, at: string): Reached {
   return { generating: named as Generating }
 }
 
-type Answered = { readonly written: readonly FileEdit[] } | { readonly missing: string }
+type Answered = { readonly written: readonly Adding[] } | { readonly missing: string }
 
 function writtenBy(generating: Generating, root: string, shadow: Shadow): Answered {
   try {
@@ -103,8 +104,8 @@ export function typedOver(
       continue
     }
     for (const one of answered.written) {
-      if (one.body === null) continue
-      const now = decoder.decode(formattedBody(change.root, one.path, one.body).body)
+      const body = BYTES.encode(one.content)
+      const now = decoder.decode(formattedBody(change.root, one.path, body).body)
       const was = textOf(change.after(one.path))
       if (was === now) continue
       edits.push(

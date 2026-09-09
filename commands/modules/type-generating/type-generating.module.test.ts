@@ -60,7 +60,7 @@ test("a page type stating no type generator has no generator run for it", () => 
 
 test("a page type stating a type generator has that generator's edits answered", () => {
   const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    generating: () => [{ path: OWN, body: BYTES.encode("export type PageType = {}\n") }],
+    generating: () => [{ kind: "add", path: OWN, content: "export type PageType = {}\n" }],
   }))
   expect(said.edits).toEqual([{ kind: "add", path: OWN, content: "export type PageType = {}\n" }])
 })
@@ -68,8 +68,8 @@ test("a page type stating a type generator has that generator's edits answered",
 test("a page type is among the pages its own generator writes for", () => {
   const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
     generating: () => [
-      { path: OWN, body: BYTES.encode("export type PageType = {}\n") },
-      { path: OTHER, body: BYTES.encode("export type Module = {}\n") },
+      { kind: "add", path: OWN, content: "export type PageType = {}\n" },
+      { kind: "add", path: OTHER, content: "export type Module = {}\n" },
     ],
   }))
   expect(said.edits.map((one) => one.path)).toEqual([OWN, OTHER])
@@ -99,7 +99,7 @@ test("a generator that breaks is said rather than thrown", () => {
 test("a body equal to what is already at that path is left out", () => {
   const body = "export type PageType = {}\n"
   const said = typedOver(changeOver(new Map([[OWN, body]])), shadowOf(only(STATED)), () => ({
-    generating: () => [{ path: OWN, body: BYTES.encode(body) }],
+    generating: () => [{ kind: "add", path: OWN, content: body }],
   }))
   expect(said.edits).toEqual([])
   expect(said.said).toEqual([])
@@ -109,7 +109,9 @@ test("a body other than what is already at that path is answered as a replacemen
   const said = typedOver(
     changeOver(new Map([[OWN, "export type PageType = { was: true }\n"]])),
     shadowOf(only(STATED)),
-    () => ({ generating: () => [{ path: OWN, body: BYTES.encode("export type PageType = {}\n") }] })
+    () => ({
+      generating: () => [{ kind: "add", path: OWN, content: "export type PageType = {}\n" }],
+    })
   )
   expect(said.edits).toEqual([
     {
