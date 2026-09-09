@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0294Chapter303LisasVisit = {
   story: "mythrans-master-of-all-continued-completed",
   position: 294,
   ownLength: 5075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147745/chapter-303-lisas-visit",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0230Chapter241TheGiftThatKeeps
   story: "mythrans-master-of-all-continued-completed",
   position: 230,
   ownLength: 3494,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133359/chapter-241-the-gift-that-keeps-on-givin",

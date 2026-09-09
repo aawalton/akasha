@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0331Chapter338WalinCounty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 331,
   ownLength: 3760,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156986/chapter-338-walin-county",

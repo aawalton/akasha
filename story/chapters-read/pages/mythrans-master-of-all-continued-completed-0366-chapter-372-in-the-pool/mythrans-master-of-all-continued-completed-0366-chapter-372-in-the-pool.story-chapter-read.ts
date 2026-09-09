@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0366Chapter372InThePool = {
   story: "mythrans-master-of-all-continued-completed",
   position: 366,
   ownLength: 3417,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164843/chapter-372-in-the-pool",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0196Chapter208PreppedAndReady 
   story: "mythrans-master-of-all-continued-completed",
   position: 196,
   ownLength: 3441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126612/chapter-208-prepped-and-ready",

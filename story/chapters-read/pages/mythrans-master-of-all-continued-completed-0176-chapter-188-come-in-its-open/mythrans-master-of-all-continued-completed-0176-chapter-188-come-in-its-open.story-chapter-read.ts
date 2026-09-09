@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0176Chapter188ComeInItsOpen = 
   story: "mythrans-master-of-all-continued-completed",
   position: 176,
   ownLength: 4753,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122144/chapter-188-come-in-its-open",

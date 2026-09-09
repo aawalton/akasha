@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0435Chapter437Offers = {
   story: "mythrans-master-of-all-continued-completed",
   position: 435,
   ownLength: 4094,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177281/chapter-437-offers",

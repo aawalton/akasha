@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0424Chapter427Kamikaze = {
   story: "mythrans-master-of-all-continued-completed",
   position: 424,
   ownLength: 3228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175401/chapter-427-kamikaze",

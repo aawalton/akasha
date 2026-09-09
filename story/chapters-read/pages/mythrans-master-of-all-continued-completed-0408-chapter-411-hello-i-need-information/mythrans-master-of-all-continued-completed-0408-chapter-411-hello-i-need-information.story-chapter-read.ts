@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0408Chapter411HelloINeedInform
   story: "mythrans-master-of-all-continued-completed",
   position: 408,
   ownLength: 3402,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172010/chapter-411-hello-i-need-information",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0446Chapter447ASolution = {
   story: "mythrans-master-of-all-continued-completed",
   position: 446,
   ownLength: 3167,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179403/chapter-447-a-solution",

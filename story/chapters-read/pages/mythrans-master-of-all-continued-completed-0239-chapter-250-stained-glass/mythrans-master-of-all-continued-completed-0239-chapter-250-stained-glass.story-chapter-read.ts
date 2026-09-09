@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0239Chapter250StainedGlass = {
   story: "mythrans-master-of-all-continued-completed",
   position: 239,
   ownLength: 3576,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135232/chapter-250-stained-glass",

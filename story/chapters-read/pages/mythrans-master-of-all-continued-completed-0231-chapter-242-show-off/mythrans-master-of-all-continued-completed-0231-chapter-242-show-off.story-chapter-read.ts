@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0231Chapter242ShowOff = {
   story: "mythrans-master-of-all-continued-completed",
   position: 231,
   ownLength: 3351,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133566/chapter-242-show-off",

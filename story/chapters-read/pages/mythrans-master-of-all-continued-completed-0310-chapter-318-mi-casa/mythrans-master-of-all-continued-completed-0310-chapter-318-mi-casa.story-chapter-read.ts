@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0310Chapter318MiCasa = {
   story: "mythrans-master-of-all-continued-completed",
   position: 310,
   ownLength: 3310,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/151022/chapter-318-mi-casa",

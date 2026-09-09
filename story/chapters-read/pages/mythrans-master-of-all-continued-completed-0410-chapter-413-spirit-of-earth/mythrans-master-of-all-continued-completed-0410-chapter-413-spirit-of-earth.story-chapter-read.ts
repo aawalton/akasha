@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0410Chapter413SpiritOfEarth = 
   story: "mythrans-master-of-all-continued-completed",
   position: 410,
   ownLength: 3736,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172457/chapter-413-spirit-of-earth",

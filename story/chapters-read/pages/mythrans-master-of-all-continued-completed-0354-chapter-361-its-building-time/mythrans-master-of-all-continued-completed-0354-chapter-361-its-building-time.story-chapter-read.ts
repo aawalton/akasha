@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0354Chapter361ItsBuildingTime 
   story: "mythrans-master-of-all-continued-completed",
   position: 354,
   ownLength: 5075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162931/chapter-361-its-building-time",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0361Chapter368AGoodDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 361,
   ownLength: 5162,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164054/chapter-368-a-good-day",

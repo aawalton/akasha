@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0374Chapter380PartyQuest = {
   story: "mythrans-master-of-all-continued-completed",
   position: 374,
   ownLength: 3345,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167075/chapter-380-party-quest",

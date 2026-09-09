@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0413Chapter416WorkingThingsOut
   story: "mythrans-master-of-all-continued-completed",
   position: 413,
   ownLength: 3956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173089/chapter-416-working-things-out",

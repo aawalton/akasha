@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0248Chapter259SheLikesIt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 248,
   ownLength: 3239,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137773/chapter-259-she-likes-it",

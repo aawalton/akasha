@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0130Chapter145PickedUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 130,
   ownLength: 4561,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112452/chapter-145-picked-up",

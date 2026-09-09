@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0332Chapter339CanWeBuildIt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 332,
   ownLength: 4086,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/157207/chapter-339-can-we-build-it",

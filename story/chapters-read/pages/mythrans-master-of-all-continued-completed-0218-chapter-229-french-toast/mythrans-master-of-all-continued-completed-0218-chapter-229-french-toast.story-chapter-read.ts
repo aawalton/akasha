@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0218Chapter229FrenchToast = {
   story: "mythrans-master-of-all-continued-completed",
   position: 218,
   ownLength: 3498,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130797/chapter-229-french-toast",

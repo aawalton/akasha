@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0151Chapter165ForThePeople = {
   story: "mythrans-master-of-all-continued-completed",
   position: 151,
   ownLength: 2995,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117806/chapter-165-for-the-people",

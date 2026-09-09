@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0228Chapter239FillHerUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 228,
   ownLength: 3112,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/132938/chapter-239-fill-her-up",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0253Chapter263ToGiveIsToGet = 
   story: "mythrans-master-of-all-continued-completed",
   position: 253,
   ownLength: 3545,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138501/chapter-263-to-give-is-to-get",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0111Chapter126ALittleTooMuch =
   story: "mythrans-master-of-all-continued-completed",
   position: 111,
   ownLength: 4947,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109480/chapter-126-a-little-too-much",

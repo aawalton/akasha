@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0376Chapter382TheHunt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 376,
   ownLength: 3611,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167087/chapter-382-the-hunt",

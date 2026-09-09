@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0241Chapter252AnInquiry = {
   story: "mythrans-master-of-all-continued-completed",
   position: 241,
   ownLength: 2995,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135589/chapter-252-an-inquiry",

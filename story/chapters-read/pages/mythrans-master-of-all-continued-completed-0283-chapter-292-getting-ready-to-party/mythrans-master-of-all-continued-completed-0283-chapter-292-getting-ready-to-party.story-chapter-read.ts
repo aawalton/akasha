@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0283Chapter292GettingReadyToPa
   story: "mythrans-master-of-all-continued-completed",
   position: 283,
   ownLength: 4469,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145055/chapter-292-getting-ready-to-party",

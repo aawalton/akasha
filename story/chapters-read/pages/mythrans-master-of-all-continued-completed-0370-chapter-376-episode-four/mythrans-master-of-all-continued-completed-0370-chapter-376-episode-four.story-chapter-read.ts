@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0370Chapter376EpisodeFour = {
   story: "mythrans-master-of-all-continued-completed",
   position: 370,
   ownLength: 3207,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165664/chapter-376-episode-four",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0386Chapter391DealWithIt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 386,
   ownLength: 3380,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168658/chapter-391-deal-with-it",

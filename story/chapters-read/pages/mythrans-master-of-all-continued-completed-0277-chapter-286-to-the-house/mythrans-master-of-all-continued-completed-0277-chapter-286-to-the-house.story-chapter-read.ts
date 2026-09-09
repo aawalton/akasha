@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0277Chapter286ToTheHouse = {
   story: "mythrans-master-of-all-continued-completed",
   position: 277,
   ownLength: 3278,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143573/chapter-286-to-the-house",

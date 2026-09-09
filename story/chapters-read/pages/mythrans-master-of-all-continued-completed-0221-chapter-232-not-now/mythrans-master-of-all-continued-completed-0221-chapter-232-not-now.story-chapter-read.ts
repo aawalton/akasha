@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0221Chapter232NotNow = {
   story: "mythrans-master-of-all-continued-completed",
   position: 221,
   ownLength: 3520,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131481/chapter-232-not-now",

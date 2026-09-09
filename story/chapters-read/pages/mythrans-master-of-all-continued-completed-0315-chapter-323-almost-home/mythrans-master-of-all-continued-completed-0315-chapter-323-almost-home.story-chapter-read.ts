@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0315Chapter323AlmostHome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 315,
   ownLength: 3818,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153477/chapter-323-almost-home",

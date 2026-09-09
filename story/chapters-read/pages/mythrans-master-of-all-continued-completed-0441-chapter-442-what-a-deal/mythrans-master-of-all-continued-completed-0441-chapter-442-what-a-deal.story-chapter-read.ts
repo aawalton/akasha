@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0441Chapter442WhatADeal = {
   story: "mythrans-master-of-all-continued-completed",
   position: 441,
   ownLength: 3535,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178360/chapter-442-what-a-deal",

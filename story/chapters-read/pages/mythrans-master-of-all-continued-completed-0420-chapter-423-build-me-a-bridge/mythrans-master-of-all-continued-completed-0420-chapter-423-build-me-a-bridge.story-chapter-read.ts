@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0420Chapter423BuildMeABridge =
   story: "mythrans-master-of-all-continued-completed",
   position: 420,
   ownLength: 3671,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174590/chapter-423-build-me-a-bridge",

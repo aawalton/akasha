@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0380Chapter386RoyalConsort = {
   story: "mythrans-master-of-all-continued-completed",
   position: 380,
   ownLength: 3973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167518/chapter-386-royal-consort",

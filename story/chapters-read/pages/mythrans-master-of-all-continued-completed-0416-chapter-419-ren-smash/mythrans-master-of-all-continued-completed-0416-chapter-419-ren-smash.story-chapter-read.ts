@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0416Chapter419RenSmash = {
   story: "mythrans-master-of-all-continued-completed",
   position: 416,
   ownLength: 3927,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174128/chapter-419-ren-smash",

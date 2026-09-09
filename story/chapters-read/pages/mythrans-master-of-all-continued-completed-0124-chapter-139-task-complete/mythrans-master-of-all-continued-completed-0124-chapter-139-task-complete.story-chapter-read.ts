@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0124Chapter139TaskComplete = {
   story: "mythrans-master-of-all-continued-completed",
   position: 124,
   ownLength: 4945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111514/chapter-139-task-complete",

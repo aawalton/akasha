@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0142Chapter156YouDidnt = {
   story: "mythrans-master-of-all-continued-completed",
   position: 142,
   ownLength: 4182,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115984/chapter-156-you-didnt",

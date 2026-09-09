@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0209Chapter221OutOfProportions
   story: "mythrans-master-of-all-continued-completed",
   position: 209,
   ownLength: 3122,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129215/chapter-221-out-of-proportions",

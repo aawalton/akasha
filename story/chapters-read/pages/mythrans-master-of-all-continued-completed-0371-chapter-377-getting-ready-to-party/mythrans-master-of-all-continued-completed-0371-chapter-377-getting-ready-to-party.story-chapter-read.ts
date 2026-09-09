@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0371Chapter377GettingReadyToPa
   story: "mythrans-master-of-all-continued-completed",
   position: 371,
   ownLength: 3677,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165904/chapter-377-getting-ready-to-party",

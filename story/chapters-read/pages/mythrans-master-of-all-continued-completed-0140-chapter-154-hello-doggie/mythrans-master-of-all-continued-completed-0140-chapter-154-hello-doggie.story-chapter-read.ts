@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0140Chapter154HelloDoggie = {
   story: "mythrans-master-of-all-continued-completed",
   position: 140,
   ownLength: 4093,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115616/chapter-154-hello-doggie",

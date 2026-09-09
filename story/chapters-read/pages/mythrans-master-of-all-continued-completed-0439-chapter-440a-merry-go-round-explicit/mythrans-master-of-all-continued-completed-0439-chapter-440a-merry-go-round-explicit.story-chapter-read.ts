@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0439Chapter440aMerryGoRoundExp
   story: "mythrans-master-of-all-continued-completed",
   position: 439,
   ownLength: 5245,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178176/chapter-440a-merry-go-round-explicit",

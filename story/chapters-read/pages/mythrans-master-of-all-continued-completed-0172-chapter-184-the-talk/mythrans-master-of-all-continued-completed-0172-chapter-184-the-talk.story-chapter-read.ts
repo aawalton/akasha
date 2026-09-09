@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0172Chapter184TheTalk = {
   story: "mythrans-master-of-all-continued-completed",
   position: 172,
   ownLength: 4614,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/121354/chapter-184-the-talk",

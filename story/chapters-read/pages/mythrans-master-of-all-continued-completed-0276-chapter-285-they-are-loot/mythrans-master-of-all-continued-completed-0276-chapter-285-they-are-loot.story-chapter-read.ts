@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0276Chapter285TheyAreLoot = {
   story: "mythrans-master-of-all-continued-completed",
   position: 276,
   ownLength: 3928,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/143359/chapter-285-they-are-loot",

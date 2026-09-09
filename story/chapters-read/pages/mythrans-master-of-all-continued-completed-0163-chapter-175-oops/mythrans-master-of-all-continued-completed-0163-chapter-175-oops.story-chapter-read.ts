@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0163Chapter175Oops = {
   story: "mythrans-master-of-all-continued-completed",
   position: 163,
   ownLength: 3583,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119611/chapter-175-oops",

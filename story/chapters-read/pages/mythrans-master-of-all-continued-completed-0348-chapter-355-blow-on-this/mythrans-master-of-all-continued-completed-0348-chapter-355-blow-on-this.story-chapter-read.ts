@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0348Chapter355BlowOnThis = {
   story: "mythrans-master-of-all-continued-completed",
   position: 348,
   ownLength: 3621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160567/chapter-355-blow-on-this",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0349Chapter356ChangeCanBeGood 
   story: "mythrans-master-of-all-continued-completed",
   position: 349,
   ownLength: 3767,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160759/chapter-356-change-can-be-good",

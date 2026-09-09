@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0296Chapter305GettingBackToIt 
   story: "mythrans-master-of-all-continued-completed",
   position: 296,
   ownLength: 4227,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148164/chapter-305-getting-back-to-it",

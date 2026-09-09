@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0418Chapter421CuddleMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 418,
   ownLength: 3481,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174222/chapter-421-cuddle-me",

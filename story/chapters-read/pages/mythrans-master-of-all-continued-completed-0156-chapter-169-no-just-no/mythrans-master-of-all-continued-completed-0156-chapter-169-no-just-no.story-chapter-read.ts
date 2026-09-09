@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0156Chapter169NoJustNo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 156,
   ownLength: 3405,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118596/chapter-169-no-just-no",

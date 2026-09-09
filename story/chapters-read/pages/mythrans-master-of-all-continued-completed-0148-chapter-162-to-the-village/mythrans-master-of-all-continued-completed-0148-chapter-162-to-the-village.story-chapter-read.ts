@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0148Chapter162ToTheVillage = {
   story: "mythrans-master-of-all-continued-completed",
   position: 148,
   ownLength: 2994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117247/chapter-162-to-the-village",

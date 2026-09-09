@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0431Chapter434HereIAm = {
   story: "mythrans-master-of-all-continued-completed",
   position: 431,
   ownLength: 3977,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176739/chapter-434-here-i-am",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0164Chapter176OnHisWayToTheMin
   story: "mythrans-master-of-all-continued-completed",
   position: 164,
   ownLength: 4656,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119811/chapter-176-on-his-way-to-the-mines",

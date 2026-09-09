@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0200Chapter212GiantRepercussio
   story: "mythrans-master-of-all-continued-completed",
   position: 200,
   ownLength: 2715,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127547/chapter-212-giant-repercussions",

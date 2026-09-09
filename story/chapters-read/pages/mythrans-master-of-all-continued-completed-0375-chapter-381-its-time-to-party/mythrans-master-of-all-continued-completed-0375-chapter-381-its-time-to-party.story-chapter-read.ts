@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0375Chapter381ItsTimeToParty =
   story: "mythrans-master-of-all-continued-completed",
   position: 375,
   ownLength: 3418,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167081/chapter-381-its-time-to-party",

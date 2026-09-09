@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0192Chapter204PoorBonnie = {
   story: "mythrans-master-of-all-continued-completed",
   position: 192,
   ownLength: 3700,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/125883/chapter-204-poor-bonnie",

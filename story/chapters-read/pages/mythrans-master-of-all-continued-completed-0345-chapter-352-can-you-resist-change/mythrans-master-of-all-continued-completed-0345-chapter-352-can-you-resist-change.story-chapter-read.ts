@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0345Chapter352CanYouResistChan
   story: "mythrans-master-of-all-continued-completed",
   position: 345,
   ownLength: 3645,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159911/chapter-352-can-you-resist-change",

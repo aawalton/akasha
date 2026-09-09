@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0206Chapter218OhForLootsSake =
   story: "mythrans-master-of-all-continued-completed",
   position: 206,
   ownLength: 5968,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128594/chapter-218-oh-for-loots-sake",

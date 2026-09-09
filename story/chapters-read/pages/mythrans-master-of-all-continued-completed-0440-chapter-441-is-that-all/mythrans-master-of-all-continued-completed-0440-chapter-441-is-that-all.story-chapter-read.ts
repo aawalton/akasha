@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0440Chapter441IsThatAll = {
   story: "mythrans-master-of-all-continued-completed",
   position: 440,
   ownLength: 3023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178177/chapter-441-is-that-all",

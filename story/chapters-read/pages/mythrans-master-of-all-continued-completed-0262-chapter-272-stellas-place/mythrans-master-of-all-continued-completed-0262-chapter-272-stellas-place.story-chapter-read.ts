@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0262Chapter272StellasPlace = {
   story: "mythrans-master-of-all-continued-completed",
   position: 262,
   ownLength: 3462,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140278/chapter-272-stellas-place",

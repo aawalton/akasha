@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0442Chapter443NotKidStuff = {
   story: "mythrans-master-of-all-continued-completed",
   position: 442,
   ownLength: 3400,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178564/chapter-443-not-kid-stuff",

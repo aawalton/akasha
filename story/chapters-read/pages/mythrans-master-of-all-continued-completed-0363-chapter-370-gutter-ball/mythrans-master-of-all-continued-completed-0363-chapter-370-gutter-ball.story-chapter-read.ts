@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0363Chapter370GutterBall = {
   story: "mythrans-master-of-all-continued-completed",
   position: 363,
   ownLength: 4042,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/164429/chapter-370-gutter-ball",

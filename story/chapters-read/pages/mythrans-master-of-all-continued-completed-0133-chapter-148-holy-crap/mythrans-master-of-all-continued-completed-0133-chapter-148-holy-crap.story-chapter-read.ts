@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0133Chapter148HolyCrap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 133,
   ownLength: 3190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/114346/chapter-148-holy-crap",

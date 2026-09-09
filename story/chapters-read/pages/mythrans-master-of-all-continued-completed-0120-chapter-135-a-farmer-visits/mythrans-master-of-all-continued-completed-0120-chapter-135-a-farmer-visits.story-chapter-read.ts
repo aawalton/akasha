@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0120Chapter135AFarmerVisits = 
   story: "mythrans-master-of-all-continued-completed",
   position: 120,
   ownLength: 4368,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110840/chapter-135-a-farmer-visits",

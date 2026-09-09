@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0429Chapter432YouveGotTheTouch
   story: "mythrans-master-of-all-continued-completed",
   position: 429,
   ownLength: 3909,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176354/chapter-432-youve-got-the-touch",

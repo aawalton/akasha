@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0234Chapter245StudioTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 234,
   ownLength: 3464,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134172/chapter-245-studio-time",

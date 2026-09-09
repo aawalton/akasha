@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0317Chapter325InAuroraAgain = 
   story: "mythrans-master-of-all-continued-completed",
   position: 317,
   ownLength: 3789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/153976/chapter-325-in-aurora-again",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0324Chapter332PurrFectTiming =
   story: "mythrans-master-of-all-continued-completed",
   position: 324,
   ownLength: 3607,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/155568/chapter-332-purr-fect-timing",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0299Chapter308TheShipPartTwo =
   story: "mythrans-master-of-all-continued-completed",
   position: 299,
   ownLength: 3278,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/148828/chapter-308-the-ship-part-two",

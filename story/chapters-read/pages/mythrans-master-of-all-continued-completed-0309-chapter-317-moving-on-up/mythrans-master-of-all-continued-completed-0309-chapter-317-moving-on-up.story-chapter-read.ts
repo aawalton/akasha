@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0309Chapter317MovingOnUp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 309,
   ownLength: 3451,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150836/chapter-317-moving-on-up",

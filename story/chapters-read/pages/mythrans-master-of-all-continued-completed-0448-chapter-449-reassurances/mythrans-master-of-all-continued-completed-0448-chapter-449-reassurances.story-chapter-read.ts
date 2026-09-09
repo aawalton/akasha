@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0448Chapter449Reassurances = {
   story: "mythrans-master-of-all-continued-completed",
   position: 448,
   ownLength: 3229,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179810/chapter-449-reassurances",

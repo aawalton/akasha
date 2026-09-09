@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0415Chapter418LetsGoThisWay = 
   story: "mythrans-master-of-all-continued-completed",
   position: 415,
   ownLength: 3489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/173454/chapter-418-lets-go-this-way",

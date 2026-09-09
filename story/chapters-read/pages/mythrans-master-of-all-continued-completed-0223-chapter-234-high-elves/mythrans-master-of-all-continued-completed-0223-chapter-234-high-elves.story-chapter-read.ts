@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0223Chapter234HighElves = {
   story: "mythrans-master-of-all-continued-completed",
   position: 223,
   ownLength: 3111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/131926/chapter-234-high-elves",

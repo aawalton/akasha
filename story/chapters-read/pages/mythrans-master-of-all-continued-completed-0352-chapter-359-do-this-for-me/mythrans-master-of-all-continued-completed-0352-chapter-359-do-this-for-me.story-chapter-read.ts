@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0352Chapter359DoThisForMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 352,
   ownLength: 3626,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162532/chapter-359-do-this-for-me",

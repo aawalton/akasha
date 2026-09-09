@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0344Chapter351ComfortingWords 
   story: "mythrans-master-of-all-continued-completed",
   position: 344,
   ownLength: 3534,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159702/chapter-351-comforting-words",

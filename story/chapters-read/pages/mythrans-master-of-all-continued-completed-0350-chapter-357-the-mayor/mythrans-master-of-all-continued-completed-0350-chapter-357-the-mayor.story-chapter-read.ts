@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0350Chapter357TheMayor = {
   story: "mythrans-master-of-all-continued-completed",
   position: 350,
   ownLength: 3261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160952/chapter-357-the-mayor",

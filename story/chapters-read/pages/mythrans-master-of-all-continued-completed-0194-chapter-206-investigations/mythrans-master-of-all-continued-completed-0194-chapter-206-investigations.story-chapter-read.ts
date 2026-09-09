@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0194Chapter206Investigations =
   story: "mythrans-master-of-all-continued-completed",
   position: 194,
   ownLength: 6867,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126245/chapter-206-investigations",

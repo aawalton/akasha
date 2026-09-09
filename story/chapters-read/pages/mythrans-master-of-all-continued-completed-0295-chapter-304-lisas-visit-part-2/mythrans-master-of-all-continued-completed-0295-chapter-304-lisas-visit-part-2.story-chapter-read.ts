@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0295Chapter304LisasVisitPart2 
   story: "mythrans-master-of-all-continued-completed",
   position: 295,
   ownLength: 3893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147961/chapter-304-lisas-visit-part-2",

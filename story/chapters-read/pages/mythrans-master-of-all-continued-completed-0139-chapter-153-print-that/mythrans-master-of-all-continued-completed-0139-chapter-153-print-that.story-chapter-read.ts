@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0139Chapter153PrintThat = {
   story: "mythrans-master-of-all-continued-completed",
   position: 139,
   ownLength: 4973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115380/chapter-153-print-that",

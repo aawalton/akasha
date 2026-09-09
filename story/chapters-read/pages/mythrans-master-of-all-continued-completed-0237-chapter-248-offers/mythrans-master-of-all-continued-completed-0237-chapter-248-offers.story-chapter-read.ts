@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0237Chapter248Offers = {
   story: "mythrans-master-of-all-continued-completed",
   position: 237,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134841/chapter-248-offers",

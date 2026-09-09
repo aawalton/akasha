@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0245Chapter256Episode3 = {
   story: "mythrans-master-of-all-continued-completed",
   position: 245,
   ownLength: 4825,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137194/chapter-256-episode-3",

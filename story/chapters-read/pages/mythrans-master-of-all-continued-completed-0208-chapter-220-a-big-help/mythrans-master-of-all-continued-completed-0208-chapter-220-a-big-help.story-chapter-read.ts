@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0208Chapter220ABigHelp = {
   story: "mythrans-master-of-all-continued-completed",
   position: 208,
   ownLength: 3890,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129004/chapter-220-a-big-help",

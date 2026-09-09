@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0422Chapter425Homemaker = {
   story: "mythrans-master-of-all-continued-completed",
   position: 422,
   ownLength: 3345,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174995/chapter-425-homemaker",

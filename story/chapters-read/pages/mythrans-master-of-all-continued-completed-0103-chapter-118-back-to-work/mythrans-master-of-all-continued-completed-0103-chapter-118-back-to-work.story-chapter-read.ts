@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0103Chapter118BackToWork = {
   story: "mythrans-master-of-all-continued-completed",
   position: 103,
   ownLength: 4641,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108141/chapter-118-back-to-work",

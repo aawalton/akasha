@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0215Chapter227EpisodeTwo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 215,
   ownLength: 2454,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130408/chapter-227-episode-two",

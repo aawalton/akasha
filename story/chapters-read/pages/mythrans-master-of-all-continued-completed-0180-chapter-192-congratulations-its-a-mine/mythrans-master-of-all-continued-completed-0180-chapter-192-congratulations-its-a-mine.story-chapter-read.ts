@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0180Chapter192CongratulationsI
   story: "mythrans-master-of-all-continued-completed",
   position: 180,
   ownLength: 3503,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122910/chapter-192-congratulations-its-a-mine",

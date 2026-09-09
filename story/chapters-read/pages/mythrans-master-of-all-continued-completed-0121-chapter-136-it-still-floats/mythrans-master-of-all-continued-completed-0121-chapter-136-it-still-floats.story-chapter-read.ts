@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0121Chapter136ItStillFloats = 
   story: "mythrans-master-of-all-continued-completed",
   position: 121,
   ownLength: 6646,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111021/chapter-136-it-still-floats",

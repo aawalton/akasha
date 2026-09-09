@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0426Chapter429Discovery = {
   story: "mythrans-master-of-all-continued-completed",
   position: 426,
   ownLength: 3261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/175811/chapter-429-discovery",

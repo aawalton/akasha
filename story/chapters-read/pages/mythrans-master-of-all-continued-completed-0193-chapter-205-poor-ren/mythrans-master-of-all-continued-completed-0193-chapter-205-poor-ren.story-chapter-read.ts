@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0193Chapter205PoorRen = {
   story: "mythrans-master-of-all-continued-completed",
   position: 193,
   ownLength: 2708,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126068/chapter-205-poor-ren",

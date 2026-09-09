@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0451Chapter451ABeaconOfLight =
   story: "mythrans-master-of-all-continued-completed",
   position: 451,
   ownLength: 3206,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/180173/chapter-451-a-beacon-of-light",

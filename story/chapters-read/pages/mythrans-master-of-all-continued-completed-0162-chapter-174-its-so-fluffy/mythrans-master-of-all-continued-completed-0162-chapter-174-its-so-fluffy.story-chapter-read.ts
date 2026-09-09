@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0162Chapter174ItsSoFluffy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 162,
   ownLength: 5407,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/119431/chapter-174-its-so-fluffy",

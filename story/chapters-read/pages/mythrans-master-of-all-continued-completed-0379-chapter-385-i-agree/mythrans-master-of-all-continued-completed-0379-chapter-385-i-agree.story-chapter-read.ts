@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0379Chapter385IAgree = {
   story: "mythrans-master-of-all-continued-completed",
   position: 379,
   ownLength: 3810,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167345/chapter-385-i-agree",

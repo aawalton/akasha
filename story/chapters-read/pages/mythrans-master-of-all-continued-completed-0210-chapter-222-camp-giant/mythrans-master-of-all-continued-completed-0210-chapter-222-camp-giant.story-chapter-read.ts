@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0210Chapter222CampGiant = {
   story: "mythrans-master-of-all-continued-completed",
   position: 210,
   ownLength: 3774,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/129431/chapter-222-camp-giant",

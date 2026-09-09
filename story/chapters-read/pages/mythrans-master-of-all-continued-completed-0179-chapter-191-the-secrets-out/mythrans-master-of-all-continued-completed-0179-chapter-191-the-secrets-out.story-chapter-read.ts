@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0179Chapter191TheSecretsOut = 
   story: "mythrans-master-of-all-continued-completed",
   position: 179,
   ownLength: 3498,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/122697/chapter-191-the-secrets-out",

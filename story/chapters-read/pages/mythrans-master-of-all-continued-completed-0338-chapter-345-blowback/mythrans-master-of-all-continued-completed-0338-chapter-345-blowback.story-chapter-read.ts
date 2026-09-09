@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0338Chapter345Blowback = {
   story: "mythrans-master-of-all-continued-completed",
   position: 338,
   ownLength: 3458,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158454/chapter-345-blowback",

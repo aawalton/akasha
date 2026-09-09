@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0235Chapter246Searching = {
   story: "mythrans-master-of-all-continued-completed",
   position: 235,
   ownLength: 4073,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/134377/chapter-246-searching",

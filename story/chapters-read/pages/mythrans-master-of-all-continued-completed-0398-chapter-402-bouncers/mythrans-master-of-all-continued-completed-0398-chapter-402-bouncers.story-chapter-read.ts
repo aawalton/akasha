@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0398Chapter402Bouncers = {
   story: "mythrans-master-of-all-continued-completed",
   position: 398,
   ownLength: 3251,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170426/chapter-402-bouncers",

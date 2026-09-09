@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0358Chapter365NoHoldsBarred = 
   story: "mythrans-master-of-all-continued-completed",
   position: 358,
   ownLength: 3348,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163570/chapter-365-no-holds-barred",

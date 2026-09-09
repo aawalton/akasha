@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0436Chapter438Unbelievable = {
   story: "mythrans-master-of-all-continued-completed",
   position: 436,
   ownLength: 3277,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177532/chapter-438-unbelievable",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0233Chapter244StellaSaysPlay =
   story: "mythrans-master-of-all-continued-completed",
   position: 233,
   ownLength: 3605,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133982/chapter-244-stella-says-play",

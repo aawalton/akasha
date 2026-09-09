@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0187Chapter199IDidItAgain = {
   story: "mythrans-master-of-all-continued-completed",
   position: 187,
   ownLength: 5600,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/124239/chapter-199-i-did-it-again",

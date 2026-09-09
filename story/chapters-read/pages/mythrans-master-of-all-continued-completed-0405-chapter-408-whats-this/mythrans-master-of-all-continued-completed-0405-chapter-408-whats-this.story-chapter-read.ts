@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0405Chapter408WhatsThis = {
   story: "mythrans-master-of-all-continued-completed",
   position: 405,
   ownLength: 2843,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171434/chapter-408-whats-this",

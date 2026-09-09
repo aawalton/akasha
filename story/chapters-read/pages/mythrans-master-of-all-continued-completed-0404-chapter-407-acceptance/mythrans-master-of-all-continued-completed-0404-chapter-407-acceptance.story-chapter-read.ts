@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0404Chapter407Acceptance = {
   story: "mythrans-master-of-all-continued-completed",
   position: 404,
   ownLength: 3185,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/171432/chapter-407-acceptance",

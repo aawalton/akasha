@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0285Chapter294Issues = {
   story: "mythrans-master-of-all-continued-completed",
   position: 285,
   ownLength: 3007,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/145469/chapter-294-issues",

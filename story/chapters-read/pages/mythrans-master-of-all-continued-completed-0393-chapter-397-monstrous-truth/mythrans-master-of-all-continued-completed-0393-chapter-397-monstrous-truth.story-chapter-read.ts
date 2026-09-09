@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0393Chapter397MonstrousTruth =
   story: "mythrans-master-of-all-continued-completed",
   position: 393,
   ownLength: 3429,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169654/chapter-397-monstrous-truth",

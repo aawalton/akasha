@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0409Chapter412IMetAnotherOne =
   story: "mythrans-master-of-all-continued-completed",
   position: 409,
   ownLength: 3730,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/172209/chapter-412-i-met-another-one",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0378Chapter384HaveADrink = {
   story: "mythrans-master-of-all-continued-completed",
   position: 378,
   ownLength: 3323,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167176/chapter-384-have-a-drink",

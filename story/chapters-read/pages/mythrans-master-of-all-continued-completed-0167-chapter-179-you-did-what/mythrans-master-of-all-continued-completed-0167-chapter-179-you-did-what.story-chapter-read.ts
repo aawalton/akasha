@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0167Chapter179YouDidWhat = {
   story: "mythrans-master-of-all-continued-completed",
   position: 167,
   ownLength: 5313,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/120387/chapter-179-you-did-what",

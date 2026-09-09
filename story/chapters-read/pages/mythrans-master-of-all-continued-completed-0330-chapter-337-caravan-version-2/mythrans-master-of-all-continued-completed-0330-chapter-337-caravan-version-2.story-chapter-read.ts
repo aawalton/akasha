@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0330Chapter337CaravanVersion2 
   story: "mythrans-master-of-all-continued-completed",
   position: 330,
   ownLength: 3921,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156767/chapter-337-caravan-version-2",

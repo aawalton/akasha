@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0449Chapter450MovingDayPartOne
   story: "mythrans-master-of-all-continued-completed",
   position: 449,
   ownLength: 3800,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179992/chapter-450-moving-day-part-one",

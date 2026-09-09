@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0269Chapter278TroubleWithEreka
   story: "mythrans-master-of-all-continued-completed",
   position: 269,
   ownLength: 3600,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/141909/chapter-278-trouble-with-ereka",

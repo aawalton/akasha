@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0182Chapter194Attacked = {
   story: "mythrans-master-of-all-continued-completed",
   position: 182,
   ownLength: 4209,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123302/chapter-194-attacked",

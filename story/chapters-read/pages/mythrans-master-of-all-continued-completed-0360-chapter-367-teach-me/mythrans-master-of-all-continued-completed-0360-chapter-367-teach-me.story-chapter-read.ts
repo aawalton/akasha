@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0360Chapter367TeachMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 360,
   ownLength: 5136,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163837/chapter-367-teach-me",

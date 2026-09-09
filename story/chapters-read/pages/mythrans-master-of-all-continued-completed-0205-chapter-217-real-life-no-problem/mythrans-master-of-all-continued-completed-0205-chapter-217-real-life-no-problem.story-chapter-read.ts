@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0205Chapter217RealLifeNoProble
   story: "mythrans-master-of-all-continued-completed",
   position: 205,
   ownLength: 5119,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128449/chapter-217-real-life-no-problem",

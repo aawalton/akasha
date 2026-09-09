@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0150Chapter164RememberMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 150,
   ownLength: 4207,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117642/chapter-164-remember-me",

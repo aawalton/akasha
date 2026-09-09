@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0339Chapter346ThatWasQuick = {
   story: "mythrans-master-of-all-continued-completed",
   position: 339,
   ownLength: 3641,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158656/chapter-346-that-was-quick",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0328Chapter335IllTryThat = {
   story: "mythrans-master-of-all-continued-completed",
   position: 328,
   ownLength: 3739,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156208/chapter-335-ill-try-that",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0306Chapter315RoomToMove = {
   story: "mythrans-master-of-all-continued-completed",
   position: 306,
   ownLength: 3291,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150249/chapter-315-room-to-move",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0304Chapter313WhatsNext = {
   story: "mythrans-master-of-all-continued-completed",
   position: 304,
   ownLength: 3625,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/149869/chapter-313-whats-next",

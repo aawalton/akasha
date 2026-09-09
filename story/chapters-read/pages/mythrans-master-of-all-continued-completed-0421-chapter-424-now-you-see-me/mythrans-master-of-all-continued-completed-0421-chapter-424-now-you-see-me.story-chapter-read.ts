@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0421Chapter424NowYouSeeMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 421,
   ownLength: 3368,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/174753/chapter-424-now-you-see-me",

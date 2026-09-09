@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0109Chapter124Caught = {
   story: "mythrans-master-of-all-continued-completed",
   position: 109,
   ownLength: 4853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109078/chapter-124-caught",

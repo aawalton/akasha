@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0261Chapter271ThisIsTeepo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 261,
   ownLength: 3419,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/140075/chapter-271-this-is-teepo",

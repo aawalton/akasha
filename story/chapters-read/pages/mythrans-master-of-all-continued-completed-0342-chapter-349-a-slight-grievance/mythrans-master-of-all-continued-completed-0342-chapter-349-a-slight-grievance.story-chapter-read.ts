@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0342Chapter349ASlightGrievance
   story: "mythrans-master-of-all-continued-completed",
   position: 342,
   ownLength: 3769,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/159272/chapter-349-a-slight-grievance",

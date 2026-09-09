@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0238Chapter249WindowDressing =
   story: "mythrans-master-of-all-continued-completed",
   position: 238,
   ownLength: 3921,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/135048/chapter-249-window-dressing",

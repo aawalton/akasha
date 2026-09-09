@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0247Chapter258ATreatForYou = {
   story: "mythrans-master-of-all-continued-completed",
   position: 247,
   ownLength: 3742,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/137592/chapter-258-a-treat-for-you",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0280Chapter289WaterPlay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 280,
   ownLength: 5924,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/144347/chapter-289-water-play",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0401Chapter404AGoodTalk = {
   story: "mythrans-master-of-all-continued-completed",
   position: 401,
   ownLength: 3543,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170796/chapter-404-a-good-talk",

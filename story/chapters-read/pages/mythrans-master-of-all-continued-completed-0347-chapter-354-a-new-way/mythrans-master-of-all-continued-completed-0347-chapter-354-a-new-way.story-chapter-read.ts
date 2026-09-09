@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0347Chapter354ANewWay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 347,
   ownLength: 3909,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/160338/chapter-354-a-new-way",

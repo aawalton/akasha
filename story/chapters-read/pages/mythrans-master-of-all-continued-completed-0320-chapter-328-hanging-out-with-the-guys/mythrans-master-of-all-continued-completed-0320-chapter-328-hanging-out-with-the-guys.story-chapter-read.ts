@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0320Chapter328HangingOutWithTh
   story: "mythrans-master-of-all-continued-completed",
   position: 320,
   ownLength: 3743,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/154714/chapter-328-hanging-out-with-the-guys",

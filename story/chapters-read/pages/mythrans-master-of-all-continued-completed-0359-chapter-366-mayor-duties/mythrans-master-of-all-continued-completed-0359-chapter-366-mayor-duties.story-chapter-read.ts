@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0359Chapter366MayorDuties = {
   story: "mythrans-master-of-all-continued-completed",
   position: 359,
   ownLength: 3516,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/163665/chapter-366-mayor-duties",

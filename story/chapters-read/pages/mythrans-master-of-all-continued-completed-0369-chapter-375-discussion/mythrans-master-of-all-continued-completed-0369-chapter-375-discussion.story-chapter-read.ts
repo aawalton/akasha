@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0369Chapter375Discussion = {
   story: "mythrans-master-of-all-continued-completed",
   position: 369,
   ownLength: 3137,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/165480/chapter-375-discussion",

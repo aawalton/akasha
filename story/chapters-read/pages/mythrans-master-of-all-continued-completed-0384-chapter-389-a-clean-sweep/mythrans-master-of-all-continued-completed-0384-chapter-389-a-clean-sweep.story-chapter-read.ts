@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0384Chapter389ACleanSweep = {
   story: "mythrans-master-of-all-continued-completed",
   position: 384,
   ownLength: 3402,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/168192/chapter-389-a-clean-sweep",

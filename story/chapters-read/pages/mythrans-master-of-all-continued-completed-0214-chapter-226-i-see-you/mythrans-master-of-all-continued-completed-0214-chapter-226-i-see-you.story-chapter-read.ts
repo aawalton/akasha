@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0214Chapter226ISeeYou = {
   story: "mythrans-master-of-all-continued-completed",
   position: 214,
   ownLength: 4017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130189/chapter-226-i-see-you",

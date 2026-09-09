@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0389Chapter393QuestComplete = 
   story: "mythrans-master-of-all-continued-completed",
   position: 389,
   ownLength: 3658,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169034/chapter-393-quest-complete",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0137Chapter152FinishTheDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 137,
   ownLength: 3261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115123/chapter-152-finish-the-day",

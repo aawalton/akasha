@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0432Chapter435TheOneThatYouLov
   story: "mythrans-master-of-all-continued-completed",
   position: 432,
   ownLength: 3649,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176907/chapter-435-the-one-that-you-love",

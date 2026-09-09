@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0199Chapter211IJustWantToTalk 
   story: "mythrans-master-of-all-continued-completed",
   position: 199,
   ownLength: 5185,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127350/chapter-211-i-just-want-to-talk",

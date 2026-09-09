@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0106Chapter121BuildingShelves 
   story: "mythrans-master-of-all-continued-completed",
   position: 106,
   ownLength: 4714,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108621/chapter-121-building-shelves",

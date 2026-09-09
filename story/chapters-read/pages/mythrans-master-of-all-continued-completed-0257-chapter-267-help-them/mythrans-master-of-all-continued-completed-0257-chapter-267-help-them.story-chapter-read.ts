@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0257Chapter267HelpThem = {
   story: "mythrans-master-of-all-continued-completed",
   position: 257,
   ownLength: 3583,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/139346/chapter-267-help-them",

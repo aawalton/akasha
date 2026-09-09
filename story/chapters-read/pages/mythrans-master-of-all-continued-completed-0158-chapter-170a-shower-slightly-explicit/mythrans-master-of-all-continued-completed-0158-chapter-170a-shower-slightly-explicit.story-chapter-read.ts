@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0158Chapter170aShowerSlightlyE
   story: "mythrans-master-of-all-continued-completed",
   position: 158,
   ownLength: 1822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118799/chapter-170a-shower-slightly-explicit",

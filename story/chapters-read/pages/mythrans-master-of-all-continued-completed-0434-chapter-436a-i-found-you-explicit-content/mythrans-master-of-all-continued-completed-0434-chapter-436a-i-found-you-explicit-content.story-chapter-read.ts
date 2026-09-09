@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0434Chapter436aIFoundYouExplic
   story: "mythrans-master-of-all-continued-completed",
   position: 434,
   ownLength: 3955,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/177280/chapter-436a-i-found-you-explicit-content",

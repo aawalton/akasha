@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0203Chapter215ThePitTrap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 203,
   ownLength: 3549,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/128102/chapter-215-the-pit-trap",

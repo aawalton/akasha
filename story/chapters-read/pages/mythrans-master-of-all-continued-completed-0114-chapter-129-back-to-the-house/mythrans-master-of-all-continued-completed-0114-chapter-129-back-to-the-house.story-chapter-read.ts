@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0114Chapter129BackToTheHouse =
   story: "mythrans-master-of-all-continued-completed",
   position: 114,
   ownLength: 2766,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109821/chapter-129-back-to-the-house",

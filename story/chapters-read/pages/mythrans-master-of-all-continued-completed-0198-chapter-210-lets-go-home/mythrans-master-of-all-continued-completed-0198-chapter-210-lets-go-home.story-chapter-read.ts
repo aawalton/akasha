@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0198Chapter210LetsGoHome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 198,
   ownLength: 3142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/126966/chapter-210-lets-go-home",

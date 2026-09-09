@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0229Chapter240IntoTheDark = {
   story: "mythrans-master-of-all-continued-completed",
   position: 229,
   ownLength: 3704,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133162/chapter-240-into-the-dark",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0447Chapter448LightShinesNotSo
   story: "mythrans-master-of-all-continued-completed",
   position: 447,
   ownLength: 3337,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/179601/chapter-448-light-shines-not-so-brightly",

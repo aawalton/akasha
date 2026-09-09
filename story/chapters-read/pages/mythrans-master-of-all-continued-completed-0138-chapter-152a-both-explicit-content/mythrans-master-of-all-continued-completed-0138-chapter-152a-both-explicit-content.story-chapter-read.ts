@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0138Chapter152aBothExplicitCon
   story: "mythrans-master-of-all-continued-completed",
   position: 138,
   ownLength: 2924,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/115379/chapter-152a-both-explicit-content",

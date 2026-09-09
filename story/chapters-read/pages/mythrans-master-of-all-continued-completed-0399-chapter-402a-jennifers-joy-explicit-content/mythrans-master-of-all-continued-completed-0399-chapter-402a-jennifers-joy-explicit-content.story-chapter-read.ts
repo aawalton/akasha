@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0399Chapter402aJennifersJoyExp
   story: "mythrans-master-of-all-continued-completed",
   position: 399,
   ownLength: 3538,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/170686/chapter-402a-jennifers-joy-explicit-content",

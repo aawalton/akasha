@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0272Chapter281AssaultOnCastleB
   story: "mythrans-master-of-all-continued-completed",
   position: 272,
   ownLength: 3902,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142510/chapter-281-assault-on-castle-black",

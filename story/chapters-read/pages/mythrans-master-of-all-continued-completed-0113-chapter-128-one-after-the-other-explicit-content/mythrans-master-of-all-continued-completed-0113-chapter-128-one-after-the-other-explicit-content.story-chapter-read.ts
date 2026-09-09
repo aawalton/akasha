@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0113Chapter128OneAfterTheOther
   story: "mythrans-master-of-all-continued-completed",
   position: 113,
   ownLength: 8429,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/109820/chapter-128-one-after-the-other-explicit",

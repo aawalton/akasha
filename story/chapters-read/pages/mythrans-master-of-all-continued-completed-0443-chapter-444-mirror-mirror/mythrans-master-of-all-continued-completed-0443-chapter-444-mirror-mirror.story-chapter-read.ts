@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0443Chapter444MirrorMirror = {
   story: "mythrans-master-of-all-continued-completed",
   position: 443,
   ownLength: 4290,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/178791/chapter-444-mirror-mirror",

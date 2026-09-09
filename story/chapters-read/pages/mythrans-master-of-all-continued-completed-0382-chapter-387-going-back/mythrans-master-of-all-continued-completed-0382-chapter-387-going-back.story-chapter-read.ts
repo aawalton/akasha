@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0382Chapter387GoingBack = {
   story: "mythrans-master-of-all-continued-completed",
   position: 382,
   ownLength: 3218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167677/chapter-387-going-back",

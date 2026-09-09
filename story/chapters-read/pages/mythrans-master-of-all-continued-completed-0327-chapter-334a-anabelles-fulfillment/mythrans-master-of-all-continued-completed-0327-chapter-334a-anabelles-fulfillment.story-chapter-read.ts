@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0327Chapter334aAnabellesFulfil
   story: "mythrans-master-of-all-continued-completed",
   position: 327,
   ownLength: 1795,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/156207/chapter-334a-anabelles-fulfillment",

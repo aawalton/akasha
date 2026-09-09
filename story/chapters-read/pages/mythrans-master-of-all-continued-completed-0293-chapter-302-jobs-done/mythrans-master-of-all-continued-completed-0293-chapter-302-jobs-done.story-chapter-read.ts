@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0293Chapter302JobsDone = {
   story: "mythrans-master-of-all-continued-completed",
   position: 293,
   ownLength: 3445,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/147144/chapter-302-jobs-done",

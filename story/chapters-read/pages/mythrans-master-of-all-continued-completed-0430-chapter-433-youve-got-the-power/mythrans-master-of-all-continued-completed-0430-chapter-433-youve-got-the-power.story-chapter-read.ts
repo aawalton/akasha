@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0430Chapter433YouveGotThePower
   story: "mythrans-master-of-all-continued-completed",
   position: 430,
   ownLength: 3276,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/176553/chapter-433-youve-got-the-power",

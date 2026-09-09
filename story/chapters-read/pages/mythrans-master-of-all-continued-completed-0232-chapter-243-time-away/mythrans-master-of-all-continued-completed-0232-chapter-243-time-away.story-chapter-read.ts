@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0232Chapter243TimeAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 232,
   ownLength: 3290,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/133774/chapter-243-time-away",

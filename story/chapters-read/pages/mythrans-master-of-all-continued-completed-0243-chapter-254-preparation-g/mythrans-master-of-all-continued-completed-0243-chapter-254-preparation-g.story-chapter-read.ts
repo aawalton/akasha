@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0243Chapter254PreparationG = {
   story: "mythrans-master-of-all-continued-completed",
   position: 243,
   ownLength: 4298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/136766/chapter-254-preparation-g",

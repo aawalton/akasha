@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0391Chapter395TakeANap = {
   story: "mythrans-master-of-all-continued-completed",
   position: 391,
   ownLength: 3373,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/169419/chapter-395-take-a-nap",

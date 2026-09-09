@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0128Chapter143SendInTheTroops 
   story: "mythrans-master-of-all-continued-completed",
   position: 128,
   ownLength: 4091,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/112144/chapter-143-send-in-the-troops",

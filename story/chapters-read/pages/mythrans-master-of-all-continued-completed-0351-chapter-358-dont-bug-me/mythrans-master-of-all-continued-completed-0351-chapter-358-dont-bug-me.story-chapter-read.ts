@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0351Chapter358DontBugMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 351,
   ownLength: 3971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/162336/chapter-358-dont-bug-me",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0336Chapter343ToTheCapital = {
   story: "mythrans-master-of-all-continued-completed",
   position: 336,
   ownLength: 3632,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/158018/chapter-343-to-the-capital",

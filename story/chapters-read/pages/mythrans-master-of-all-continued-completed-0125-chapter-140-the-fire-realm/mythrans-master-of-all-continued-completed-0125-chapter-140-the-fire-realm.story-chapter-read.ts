@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0125Chapter140TheFireRealm = {
   story: "mythrans-master-of-all-continued-completed",
   position: 125,
   ownLength: 6516,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/111696/chapter-140-the-fire-realm",

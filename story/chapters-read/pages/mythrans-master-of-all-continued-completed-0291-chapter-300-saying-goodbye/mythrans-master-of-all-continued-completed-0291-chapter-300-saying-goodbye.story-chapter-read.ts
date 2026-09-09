@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0291Chapter300SayingGoodbye = 
   story: "mythrans-master-of-all-continued-completed",
   position: 291,
   ownLength: 3023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/146701/chapter-300-saying-goodbye",

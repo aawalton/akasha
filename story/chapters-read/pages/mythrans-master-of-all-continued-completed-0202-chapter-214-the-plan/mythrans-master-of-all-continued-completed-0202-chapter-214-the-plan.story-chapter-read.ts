@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0202Chapter214ThePlan = {
   story: "mythrans-master-of-all-continued-completed",
   position: 202,
   ownLength: 3070,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/127930/chapter-214-the-plan",

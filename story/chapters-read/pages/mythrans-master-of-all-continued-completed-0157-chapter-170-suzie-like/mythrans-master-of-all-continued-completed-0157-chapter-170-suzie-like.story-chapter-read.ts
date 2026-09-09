@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0157Chapter170SuzieLike = {
   story: "mythrans-master-of-all-continued-completed",
   position: 157,
   ownLength: 2820,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118797/chapter-170-suzie-like",

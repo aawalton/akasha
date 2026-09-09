@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0273Chapter282HardFought = {
   story: "mythrans-master-of-all-continued-completed",
   position: 273,
   ownLength: 3275,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/142735/chapter-282-hard-fought",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0255Chapter265GrindingAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 255,
   ownLength: 3268,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/138946/chapter-265-grinding-away",

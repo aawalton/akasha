@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0373Chapter379ClintsRanchAgain
   story: "mythrans-master-of-all-continued-completed",
   position: 373,
   ownLength: 3898,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/167066/chapter-379-clints-ranch-again",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0308Chapter316HereWeAre = {
   story: "mythrans-master-of-all-continued-completed",
   position: 308,
   ownLength: 4347,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/150614/chapter-316-here-we-are",

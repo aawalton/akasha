@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0183Chapter195MakingPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 183,
   ownLength: 4168,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/123495/chapter-195-making-plans",

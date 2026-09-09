@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0154Chapter167FoundThem = {
   story: "mythrans-master-of-all-continued-completed",
   position: 154,
   ownLength: 4019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/118183/chapter-167-found-them",

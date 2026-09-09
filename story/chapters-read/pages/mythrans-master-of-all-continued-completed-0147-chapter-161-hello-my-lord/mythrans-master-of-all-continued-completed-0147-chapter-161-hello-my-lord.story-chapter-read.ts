@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0147Chapter161HelloMyLord = {
   story: "mythrans-master-of-all-continued-completed",
   position: 147,
   ownLength: 2942,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/117005/chapter-161-hello-my-lord",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0216Chapter227aAlmostExplicitC
   story: "mythrans-master-of-all-continued-completed",
   position: 216,
   ownLength: 2846,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/130409/chapter-227a-almost-explicit-content",

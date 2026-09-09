@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0119Chapter134AndTheWinnerIs =
   story: "mythrans-master-of-all-continued-completed",
   position: 119,
   ownLength: 4124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-01-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/110674/chapter-134-and-the-winner-is",
