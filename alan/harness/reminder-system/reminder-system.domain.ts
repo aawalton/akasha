@@ -7,7 +7,6 @@ export const reminderSystem = {
   definition: "what is sent to somebody at the times it names",
   parts: [
     "module/due-reminder-sending",
-    "module/reminder-sending",
     "page-type/reminder",
     "workstation-service/send-due-reminders",
   ],
