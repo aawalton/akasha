@@ -7,8 +7,6 @@ export const service = {
   definition: "what the system runs without being asked each time",
   manifest: "json",
   parts: [
-    "module/secret-placing",
-    "module/secret-saying",
     "module/tick-sleeping",
     "page-type/service",
     "page-type/workstation-service",
