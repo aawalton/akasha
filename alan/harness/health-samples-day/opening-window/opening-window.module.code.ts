@@ -146,10 +146,6 @@ export function openingWindowIn(root: string, dayStr: string): DayWindow | Refus
   return { from: from.toISOString(), to: to.toISOString() }
 }
 
-export function getOpeningWindow(dayStr: string): DayWindow | Refused {
-  return openingWindowIn(akashaRoot(), dayStr)
-}
-
 export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
   const eso = getEsoDayWindow(dayStr)
   if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {
