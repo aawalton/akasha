@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000686AFoolishPursuit 
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 6,
   ownLength: 1130,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1634297/86-a-foolish-pursuit",

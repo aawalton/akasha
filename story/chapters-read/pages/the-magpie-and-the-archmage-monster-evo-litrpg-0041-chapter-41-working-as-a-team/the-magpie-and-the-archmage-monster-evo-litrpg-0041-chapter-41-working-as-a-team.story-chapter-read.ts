@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0041Chapter41WorkingAsATeam 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 41,
   ownLength: 1817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2713474/chapter-41-working-as-a-team",

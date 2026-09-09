@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0043Chapter43Fractures = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 43,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2727620/chapter-43-fractures",

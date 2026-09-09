@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0030Chapter30SatyrLake = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 30,
   ownLength: 1985,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2650486/chapter-30-satyr-lake",

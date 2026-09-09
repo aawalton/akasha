@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0066Chapter66TheUnyieldingBa
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 66,
   ownLength: 1967,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2900571/chapter-66-the-unyielding-badger",

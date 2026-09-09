@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0058Chapter58BleedingEarsBur
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 58,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2828870/chapter-58-bleeding-ears-burning-wings",

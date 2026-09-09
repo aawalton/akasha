@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0006Chapter6HunterAndPrey = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 6,
   ownLength: 2138,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525581/chapter-6-hunter-and-prey",

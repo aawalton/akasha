@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0725EpilogueClarityAndNewProject = {
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 725,
   ownLength: 150,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/3769787/epilogue-clarity-and-new-project",

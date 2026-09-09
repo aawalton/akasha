@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0028Chapter28Artifact = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 28,
   ownLength: 2087,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2637022/chapter-28-artifact",

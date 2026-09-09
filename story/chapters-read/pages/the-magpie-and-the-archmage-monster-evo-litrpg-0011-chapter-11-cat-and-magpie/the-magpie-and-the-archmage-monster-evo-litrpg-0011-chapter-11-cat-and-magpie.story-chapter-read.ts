@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0011Chapter11CatAndMagpie = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 11,
   ownLength: 2209,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2532460/chapter-11-cat-and-magpie",

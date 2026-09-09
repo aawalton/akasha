@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0062Chapter62BullyingTheSyst
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 62,
   ownLength: 2104,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2855231/chapter-62-bullying-the-system",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0002Chapter2MagpieWithASyste
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 2,
   ownLength: 2195,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525510/chapter-2-magpie-with-a-system",

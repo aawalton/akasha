@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0012Book3FromMay1stFin
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 12,
   ownLength: 379,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/2096874/book-3-from-may-1st-final-cover-reveal",

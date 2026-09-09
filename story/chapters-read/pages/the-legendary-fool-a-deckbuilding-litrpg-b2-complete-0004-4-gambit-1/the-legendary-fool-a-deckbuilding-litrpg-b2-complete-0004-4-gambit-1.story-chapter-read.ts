@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00044Gambit1 = {
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 4,
   ownLength: 1035,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1042356/4-gambit-1",

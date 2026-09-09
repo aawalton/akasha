@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0044Chapter44OfficialGuildMe
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 44,
   ownLength: 2260,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2733758/chapter-44-official-guild-members",

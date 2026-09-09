@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0005Chapter5Thief = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 5,
   ownLength: 2160,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525569/chapter-5-thief",

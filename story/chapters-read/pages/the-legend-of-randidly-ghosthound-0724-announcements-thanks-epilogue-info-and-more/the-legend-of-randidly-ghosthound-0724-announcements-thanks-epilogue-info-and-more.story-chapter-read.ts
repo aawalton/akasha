@@ -8,7 +8,7 @@ export const theLegendOfRandidlyGhosthound0724AnnouncementsThanksEpilogueInfoAnd
   story: "story-read/the-legend-of-randidly-ghosthound",
   position: 724,
   ownLength: 679,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound/chapter/1831720/announcements-thanks-epilogue-info-and-more",

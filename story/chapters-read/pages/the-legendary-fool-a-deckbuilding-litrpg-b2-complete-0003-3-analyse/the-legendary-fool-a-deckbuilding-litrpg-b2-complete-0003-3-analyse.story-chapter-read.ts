@@ -8,7 +8,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00033Analyse = {
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 3,
   ownLength: 1051,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete/chapter/1041967/3-analyse",

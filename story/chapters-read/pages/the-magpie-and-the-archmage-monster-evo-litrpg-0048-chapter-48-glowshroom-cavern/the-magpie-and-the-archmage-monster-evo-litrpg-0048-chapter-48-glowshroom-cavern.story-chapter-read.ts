@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0048Chapter48GlowshroomCaver
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 48,
   ownLength: 2065,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2762692/chapter-48-glowshroom-cavern",

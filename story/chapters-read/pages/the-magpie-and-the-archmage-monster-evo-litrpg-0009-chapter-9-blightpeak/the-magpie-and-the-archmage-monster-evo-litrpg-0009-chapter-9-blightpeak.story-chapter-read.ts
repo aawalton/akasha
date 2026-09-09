@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0009Chapter9Blightpeak = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 9,
   ownLength: 2181,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525609/chapter-9-blightpeak",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0034Chapter34MagicTraining =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 34,
   ownLength: 2168,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2672280/chapter-34-magic-training",

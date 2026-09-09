@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0033Chapter33WaterNymph = {
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 33,
   ownLength: 2300,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2667765/chapter-33-water-nymph",

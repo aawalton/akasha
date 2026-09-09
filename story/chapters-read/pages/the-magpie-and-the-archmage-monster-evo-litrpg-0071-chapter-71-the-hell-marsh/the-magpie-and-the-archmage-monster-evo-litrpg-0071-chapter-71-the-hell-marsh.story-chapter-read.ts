@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 71,
   ownLength: 2072,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2941282/chapter-71-the-hell-marsh",

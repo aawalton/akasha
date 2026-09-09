@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0007Chapter7MoreThanAMagpie 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 7,
   ownLength: 2137,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525592/chapter-7-more-than-a-magpie",

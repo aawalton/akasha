@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0003Chapter3SweetShinyGlimme
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 3,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2525542/chapter-3-sweet-shiny-glimmerstone",

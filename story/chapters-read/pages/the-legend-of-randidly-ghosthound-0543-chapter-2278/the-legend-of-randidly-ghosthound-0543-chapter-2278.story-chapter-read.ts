@@ -9,7 +9,7 @@ export const theLegendOfRandidlyGhosthound0543Chapter2278 = {
   position: 543,
   ownLength: 2230,
   ownProgress: 2230,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T21:59:42.082Z",
   publishedAt: "2023-11-13",
   externalLink:

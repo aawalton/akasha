@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0040Chapter40CyeneDungeon = 
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 40,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2707937/chapter-40-cyene-dungeon",

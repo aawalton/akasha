@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0038Chapter38AdventurersGuil
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 38,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2695392/chapter-38-adventurers-guild",

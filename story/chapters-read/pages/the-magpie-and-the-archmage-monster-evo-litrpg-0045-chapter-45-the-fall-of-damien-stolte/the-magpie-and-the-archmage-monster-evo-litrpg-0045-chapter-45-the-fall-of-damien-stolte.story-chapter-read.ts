@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0045Chapter45TheFallOfDamien
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 45,
   ownLength: 2093,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2742627/chapter-45-the-fall-of-damien-stolte",

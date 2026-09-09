@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0022Chapter22DraconoidVsBird
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 22,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2601339/chapter-22-draconoid-vs-bird",

@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0061Chapter61TheCorruptedDee
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 61,
   ownLength: 2096,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2849010/chapter-61-the-corrupted-deer",

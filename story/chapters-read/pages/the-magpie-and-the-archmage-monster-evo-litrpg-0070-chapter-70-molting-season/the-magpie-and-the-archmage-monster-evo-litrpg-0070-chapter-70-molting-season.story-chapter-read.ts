@@ -8,7 +8,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0070Chapter70MoltingSeason =
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 70,
   ownLength: 2094,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-book-2-complete/chapter/2934576/chapter-70-molting-season",
