@@ -12,7 +12,7 @@ export const attributeIntelligence = {
   place: 5,
   scaleSlug: "attribute-points",
   attributeSlug: "intelligence",
-  groupSlugs: ["attributes"],
+  groups: ["attributes"],
   wireKey: "intelligence",
   invariants: [
     {

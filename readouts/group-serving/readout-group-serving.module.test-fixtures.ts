@@ -17,7 +17,7 @@ export const READOUT_ROW = {
   place: 1,
   scaleSlug: SCALE,
   wireKey: "safety",
-  groupSlugs: [GROUP],
+  groups: [GROUP],
 }
 
 export const OTHER_ROW = {
@@ -26,7 +26,7 @@ export const OTHER_ROW = {
   place: 2,
   scaleSlug: SCALE,
   wireKey: "surplus",
-  groupSlugs: [GROUP],
+  groups: [GROUP],
 }
 
 export const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
@@ -117,11 +117,12 @@ export async function readoutsNaming(root: string, group: string): Promise<reado
     if (relative.includes("node_modules")) continue
     const loaded = (await import(join(root, relative))) as Record<
       string,
-      { slug?: string; groupSlugs?: readonly string[] } | undefined
+      { slug?: string; groups?: readonly string[]; groupSlugs?: readonly string[] } | undefined
     >
     for (const one of Object.values(loaded)) {
       if (one?.slug === undefined) continue
-      if (one.groupSlugs?.includes(group) === true) named.push(one.slug)
+      const naming = one.groups ?? one.groupSlugs
+      if (naming?.includes(group) === true) named.push(one.slug)
     }
   }
   return named.sort()

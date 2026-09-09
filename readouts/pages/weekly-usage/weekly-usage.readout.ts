@@ -11,7 +11,7 @@ export const weeklyUsage = {
   place: 1,
   drawnAs: "number",
   colorFrom: "weekly-ends",
-  groupSlugs: ["claude-usage"],
+  groups: ["claude-usage"],
   wireKey: "weekly-usage",
   querySlug: "claude-accounts-mean-weekly-used",
   invariants: [

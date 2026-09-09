@@ -20,7 +20,7 @@ export const widgetsUse = {
     "feed",
     "component",
     "gallery-description",
-    "group-slugs",
+    "groups",
     "created-at",
     "updated-at",
     "seq",

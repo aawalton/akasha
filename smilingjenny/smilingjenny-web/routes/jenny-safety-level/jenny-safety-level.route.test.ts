@@ -20,7 +20,7 @@ const READOUT_ROW = {
   place: 1,
   scaleSlug: "safety-level",
   wireKey: GROUP,
-  groupSlugs: [GROUP],
+  groups: [GROUP],
 }
 
 const SCALE_ROW = { slug: "safety-level", redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }

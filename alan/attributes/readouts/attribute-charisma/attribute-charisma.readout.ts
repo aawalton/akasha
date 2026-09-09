@@ -12,7 +12,7 @@ export const attributeCharisma = {
   place: 6,
   scaleSlug: "attribute-points",
   attributeSlug: "charisma",
-  groupSlugs: ["attributes"],
+  groups: ["attributes"],
   wireKey: "charisma",
   invariants: [
     {

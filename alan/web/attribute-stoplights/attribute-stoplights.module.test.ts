@@ -25,7 +25,7 @@ const READOUT_ROWS = [
     place: 1,
     scaleSlug: "attribute-points",
     wireKey: "strength",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "attribute-endurance",
@@ -34,7 +34,7 @@ const READOUT_ROWS = [
     place: 2,
     scaleSlug: "attribute-points",
     wireKey: "endurance",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "attribute-constitution",
@@ -43,7 +43,7 @@ const READOUT_ROWS = [
     place: 3,
     scaleSlug: "attribute-points",
     wireKey: "constitution",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "attribute-wisdom",
@@ -52,7 +52,7 @@ const READOUT_ROWS = [
     place: 4,
     scaleSlug: "attribute-points",
     wireKey: "wisdom",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "attribute-intelligence",
@@ -61,7 +61,7 @@ const READOUT_ROWS = [
     place: 5,
     scaleSlug: "attribute-points",
     wireKey: "intelligence",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "attribute-charisma",
@@ -70,7 +70,7 @@ const READOUT_ROWS = [
     place: 6,
     scaleSlug: "attribute-points",
     wireKey: "charisma",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
 ]
 

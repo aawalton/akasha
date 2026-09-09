@@ -12,7 +12,7 @@ export const inboxesTemperTasks = {
   place: 3,
   scaleSlug: "daily-inbox",
   earnedKey: "inbox-temper-tasks-cleared-today",
-  groupSlugs: ["inboxes"],
+  groups: ["inboxes"],
   wireKey: "temperTasks",
   querySlug: "inbox-readings-on-day",
   queryKey: "inbox-temper-tasks",

@@ -13,6 +13,6 @@ export const alanwaltonInboxStoplights = {
   galleryName: "Inboxes",
   galleryDescription: "Your three inbox stoplights, at a glance.",
   opens: "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights",
-  groupSlugs: ["inboxes"],
+  groups: ["inboxes"],
   place: 3,
 } as const satisfies ReadoutWidget

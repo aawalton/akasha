@@ -5,7 +5,7 @@ import type { ColorFrom } from "./properties/color-from.relation-property.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
 import type { DrawnAs } from "./properties/drawn-as.text-property.ts"
 import type { EarnedKey } from "./properties/earned-key.text-property.ts"
-import type { GroupSlugs } from "./properties/group-slugs.relation-property.ts"
+import type { Groups } from "./properties/groups.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
 import type { LastValue } from "./properties/last-value.number-property.ts"
 import type { LastValueAt } from "./properties/last-value-at.instant-property.ts"
@@ -31,7 +31,7 @@ export type Readout = Module & {
   colorFrom?: ColorFrom
   earnedKey?: EarnedKey
   attributeSlug?: AttributeSlug
-  groupSlugs?: GroupSlugs
+  groups?: Groups
   noneLeftWords?: NoneLeftWords
   noneLeftEmoji?: NoneLeftEmoji
   wireKey: WireKey
@@ -57,7 +57,7 @@ export const readout = {
     "number-property/place",
     "relation-property/attribute-slug",
     "relation-property/color-from",
-    "relation-property/group-slugs",
+    "relation-property/groups",
     "relation-property/read-live-from",
     "relation-property/scale-slug",
     "text-property/color-slug",
@@ -89,7 +89,7 @@ export const readout = {
     { pagePropertySlug: "text-property/earned-key", required: false, many: false },
     { pagePropertySlug: "relation-property/attribute-slug", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/group-slugs",
+      pagePropertySlug: "relation-property/groups",
       required: false,
       many: true,
       maxCount: null,

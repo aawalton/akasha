@@ -12,7 +12,7 @@ export const attributeConstitution = {
   place: 3,
   scaleSlug: "attribute-points",
   attributeSlug: "constitution",
-  groupSlugs: ["attributes"],
+  groups: ["attributes"],
   wireKey: "constitution",
   invariants: [
     {

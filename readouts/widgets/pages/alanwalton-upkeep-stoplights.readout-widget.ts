@@ -14,6 +14,6 @@ export const alanwaltonUpkeepStoplights = {
   galleryDescription: "Your four upkeep stoplights, at a glance.",
   opens:
     "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-upkeep-stoplights",
-  groupSlugs: ["upkeep"],
+  groups: ["upkeep"],
   place: 6,
 } as const satisfies ReadoutWidget

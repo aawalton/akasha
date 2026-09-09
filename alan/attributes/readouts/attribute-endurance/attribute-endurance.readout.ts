@@ -12,7 +12,7 @@ export const attributeEndurance = {
   place: 2,
   scaleSlug: "attribute-points",
   attributeSlug: "endurance",
-  groupSlugs: ["attributes"],
+  groups: ["attributes"],
   wireKey: "endurance",
   invariants: [
     {

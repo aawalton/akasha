@@ -14,6 +14,6 @@ export const alanwaltonClaudeUsage = {
   galleryName: "Claude Usage",
   galleryDescription: "Claude account usage and when capacity comes back.",
   opens: "capacitor://localhost/nav/claude-accounts-d93b211a#widget=alanwalton-claude-usage",
-  groupSlugs: ["claude-usage"],
+  groups: ["claude-usage"],
   place: 2,
 } as const satisfies ReadoutWidget

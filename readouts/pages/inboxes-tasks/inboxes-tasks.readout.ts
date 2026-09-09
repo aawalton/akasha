@@ -12,7 +12,7 @@ export const inboxesTasks = {
   place: 2,
   scaleSlug: "daily-inbox",
   earnedKey: "inbox-tasks-cleared-today",
-  groupSlugs: ["inboxes"],
+  groups: ["inboxes"],
   wireKey: "tasks",
   querySlug: "inbox-readings-on-day",
   queryKey: "inbox-tasks",

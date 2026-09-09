@@ -11,7 +11,7 @@ export const upkeepSurplus = {
   unit: "hours",
   place: 2,
   scaleSlug: "surplus-hours",
-  groupSlugs: ["upkeep", "surplus"],
+  groups: ["upkeep", "surplus"],
   wireKey: "surplus",
   invariants: [
     {

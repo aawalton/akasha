@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { GroupSlugs } from "../properties/group-slugs.relation-property.ts"
+import type { Groups } from "../properties/groups.relation-property.ts"
 import type { Place } from "../properties/place.number-property.ts"
 import type { App } from "./properties/app.relation-property.ts"
 import type { Caption } from "./properties/caption.text-property.ts"
@@ -24,7 +24,7 @@ export type ReadoutWidget = Domain & {
   galleryName: GalleryName
   galleryDescription: GalleryDescription
   opens?: Opens
-  groupSlugs: GroupSlugs
+  groups: Groups
   place: Place
   taps?: Taps
   lastTappedAt?: LastTappedAt
@@ -71,7 +71,7 @@ export const readoutWidget = {
     { pagePropertySlug: "text-property/gallery-description", required: true, many: false },
     { pagePropertySlug: "text-property/opens", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/group-slugs",
+      pagePropertySlug: "relation-property/groups",
       required: true,
       many: true,
       maxCount: null,

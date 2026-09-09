@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Description } from "../../pages/properties/description.text-property.ts"
-import type { GroupSlugs } from "../../readouts/properties/group-slugs.relation-property.ts"
+import type { Groups } from "../../readouts/properties/groups.relation-property.ts"
 import type { Label } from "../../readouts/properties/label.text-property.ts"
 import type { Place } from "../../readouts/properties/place.number-property.ts"
 import type { QueryArgument } from "../../readouts/properties/query-argument.text-property.ts"
@@ -19,7 +19,7 @@ export type Value = Domain & {
   place: Place
   unit?: Unit
   scaleSlug?: ScaleSlug
-  groupSlugs?: GroupSlugs
+  groups?: Groups
   querySlug?: QuerySlug
   queryKey?: QueryKey
   queryArgument?: QueryArgument
@@ -49,7 +49,7 @@ export const value = {
     { pagePropertySlug: "text-property/unit", required: false, many: false },
     { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/group-slugs",
+      pagePropertySlug: "relation-property/groups",
       required: false,
       many: true,
       maxCount: null,

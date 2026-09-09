@@ -14,6 +14,6 @@ export const alanwaltonAttributeStoplights = {
   galleryDescription: "Your six attribute stoplights, at a glance.",
   opens:
     "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights",
-  groupSlugs: ["attributes"],
+  groups: ["attributes"],
   place: 11,
 } as const satisfies ReadoutWidget

@@ -14,6 +14,6 @@ export const smilingjennyCategorize = {
   galleryDescription:
     "How many of the past year's transactions Monarch is waiting to have reviewed.",
   opens: "capacitor://monarch-relay#widget=smilingjenny-categorize",
-  groupSlugs: ["categorization"],
+  groups: ["categorization"],
   place: 1,
 } as const satisfies ReadoutWidget

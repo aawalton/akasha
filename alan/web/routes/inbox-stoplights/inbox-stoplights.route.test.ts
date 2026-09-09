@@ -29,7 +29,7 @@ const READOUT_ROWS = [
     place: 1,
     scaleSlug: "lowest-inbox-count",
     wireKey: "email",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "inboxes-tasks",
@@ -38,7 +38,7 @@ const READOUT_ROWS = [
     place: 2,
     scaleSlug: "daily-inbox",
     wireKey: "tasks",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
   {
     slug: "inboxes-temper-tasks",
@@ -47,7 +47,7 @@ const READOUT_ROWS = [
     place: 3,
     scaleSlug: "daily-inbox",
     wireKey: "temperTasks",
-    groupSlugs: [GROUP],
+    groups: [GROUP],
   },
 ]
 

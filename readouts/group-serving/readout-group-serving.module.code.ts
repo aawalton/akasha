@@ -137,7 +137,7 @@ export async function stoplightsInGroup(
 ): Promise<readonly Stoplight[]> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
-    where: { groupSlugs: { has: groupSlug } },
+    where: { groups: { has: groupSlug } },
   })
   if ("refused" in asked) return []
 

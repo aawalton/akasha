@@ -10,7 +10,7 @@ export const monarchUnreviewedTransactions = {
   unit: "transactions",
   place: 1,
   scaleSlug: "backlog-count",
-  groupSlugs: ["categorization"],
+  groups: ["categorization"],
   noneLeftWords: "All reviewed!",
   noneLeftEmoji: "🎉",
   wireKey: "unreviewed",

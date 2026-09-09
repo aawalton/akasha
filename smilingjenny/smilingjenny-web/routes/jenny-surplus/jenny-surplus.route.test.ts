@@ -23,7 +23,7 @@ const READOUT_ROW = {
   place: 2,
   scaleSlug: "surplus-hours",
   wireKey: GROUP,
-  groupSlugs: [GROUP],
+  groups: [GROUP],
 }
 
 const SCALE_ROW = {

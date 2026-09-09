@@ -11,7 +11,7 @@ export const upkeepSleep = {
   unit: "hours",
   place: 6,
   scaleSlug: "sleep-hours",
-  groupSlugs: ["upkeep"],
+  groups: ["upkeep"],
   wireKey: "sleep",
   invariants: [
     {

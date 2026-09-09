@@ -69,7 +69,7 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   const rows = await rowsOf(
     {
       pageTypeSlug: READOUT_PAGE_TYPE_SLUG,
-      where: { groupSlugs: { has: groupSlug } },
+      where: { groups: { has: groupSlug } },
     },
     `resolveOneReadout: the readouts of the group \`${groupSlug}\` went unread, so what is being watched is unknown`
   )
