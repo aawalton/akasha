@@ -28,7 +28,6 @@ import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 export type FileEdit = {
   readonly path: string
   readonly body: Uint8Array | null
-  readonly moved?: boolean
   readonly readersOweReading?: boolean
 }
 

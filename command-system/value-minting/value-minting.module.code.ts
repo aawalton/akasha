@@ -90,7 +90,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
   const filled: Filled[] = []
   for (const one of changes) {
     const body = one.body
-    if (body === null || one.moved === true) {
+    if (body === null) {
       held.push(one)
       continue
     }
@@ -113,7 +113,7 @@ function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
 function couldTurn(change: Change, changes: readonly FileEdit[]): boolean {
   for (const one of changes) {
     const body = one.body
-    if (body === null || one.moved === true) continue
+    if (body === null) continue
     const said = partedIn(one.path)
     if (said === null) continue
     if (said.sections.length > 0) {
@@ -139,10 +139,7 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
   for (const one of entried.changes) {
     const body = one.body
     const leftAlone =
-      body === null ||
-      one.moved === true ||
-      !pageNamed(one.path, pageTypes) ||
-      change.before(one.path) !== null
+      body === null || !pageNamed(one.path, pageTypes) || change.before(one.path) !== null
     if (leftAlone) {
       held.push(one)
       continue

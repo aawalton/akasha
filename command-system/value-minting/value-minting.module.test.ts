@@ -156,13 +156,6 @@ test("a page carrying the value already keeps the one it carries", () => {
   expect(textOf(said.changes)).toBe(body)
 })
 
-test("a body moved from another path is left as it is", () => {
-  const root = rooted("uuid-v7")
-  const said = mintingOnto(root, [{ ...carrying(BODY), moved: true }])
-  expect(said.filled).toEqual([])
-  expect(textOf(said.changes)).toBe(BODY)
-})
-
 test("a path naming no page takes no value", () => {
   const root = rooted("uuid-v7")
   const said = mintingOnto(root, [{ path: "akasha/one.ts", body: new TextEncoder().encode(BODY) }])
