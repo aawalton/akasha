@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0004Chapter3BattleTactics = {
   id: "01a06591-3c69-7eba-9c14-192e50838d5f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0004-chapter-3-battle-tactics",
   title: "Chapter 3 - Battle Tactics",
   story: "story-read/defiance-of-the-fall",

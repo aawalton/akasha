@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0223223Control = {
   id: "01a06731-afa8-7001-b902-8a141775f8e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0223-223-control",
   title: "223: Control",
   story: "delve",

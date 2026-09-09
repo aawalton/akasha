@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter26IDidnTAgreeToThis = {
   id: "01a06731-ae80-7003-98e3-954182c649b7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0026-chapter-26-i-didn-t-agree-to-this",
   title: "Chapter 26 - I Didn’t Agree To This",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0028Chapter28PassiveEnhancement = {
   id: "01a06731-af0f-7013-a6d8-84a3f71549b0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0028-chapter-28-passive-enhancement",
   title: "Chapter 28: Passive Enhancement",
   story: "delver-dungeon-diving-and-magic-litrpg",

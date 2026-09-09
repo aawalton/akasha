@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0035Chapter35MageSJournal = {
   id: "01a06731-af10-7004-9934-47bd16c11471",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0035-chapter-35-mage-s-journal",
   title: "Chapter 35: Mage's Journal",
   story: "delver-dungeon-diving-and-magic-litrpg",

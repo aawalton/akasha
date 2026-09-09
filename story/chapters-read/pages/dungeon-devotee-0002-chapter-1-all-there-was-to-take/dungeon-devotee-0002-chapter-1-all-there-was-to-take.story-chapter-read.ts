@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0002Chapter1AllThereWasToTake = {
   id: "01a06731-b0e0-7000-adb1-e905153c3889",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0002-chapter-1-all-there-was-to-take",
   title: "Chapter 1: All There Was to Take",
   story: "dungeon-devotee",

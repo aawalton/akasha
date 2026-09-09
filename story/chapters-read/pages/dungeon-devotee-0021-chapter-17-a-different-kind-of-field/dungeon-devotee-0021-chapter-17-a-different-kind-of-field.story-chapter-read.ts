@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0021Chapter17ADifferentKindOfField = {
   id: "01a06731-b101-7000-8d73-1f8e41956bb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0021-chapter-17-a-different-kind-of-field",
   title: "Chapter 17: A Different Kind of Field",
   story: "dungeon-devotee",

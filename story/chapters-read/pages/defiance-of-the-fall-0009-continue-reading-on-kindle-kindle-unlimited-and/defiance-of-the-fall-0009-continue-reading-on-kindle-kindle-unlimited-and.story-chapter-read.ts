@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0009ContinueReadingOnKindleKindleUnlimitedAnd = {
   id: "01a06591-3c69-7347-89c4-ecbe6635ebac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0009-continue-reading-on-kindle-kindle-unlimited-and",
   title: "Continue reading on Kindle, Kindle Unlimited, and Audible",
   story: "story-read/defiance-of-the-fall",

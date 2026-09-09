@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0060Chapter1383EternalGlory = {
   id: "01a06591-3c73-7b02-8c58-b1f77ffcef3d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0060-chapter-1383-eternal-glory",
   title: "Chapter 1,383 - Eternal Glory",
   story: "story-read/defiance-of-the-fall",

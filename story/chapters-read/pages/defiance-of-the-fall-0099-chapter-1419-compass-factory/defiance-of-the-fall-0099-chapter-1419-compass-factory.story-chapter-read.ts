@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0099Chapter1419CompassFactory = {
   id: "01a06731-ada1-7000-ba89-8eaa119d3002",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0099-chapter-1419-compass-factory",
   title: "Chapter 1,419 - Compass Factory",
   story: "story-read/defiance-of-the-fall",

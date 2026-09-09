@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0001PrologueWelcomeToTheMultiVerse = {
   id: "01a06591-3c69-7bed-8440-3fb49cd52e36",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0001-prologue-welcome-to-the-multi-verse",
   title: "Prologue - Welcome to the Multi-Verse",
   story: "story-read/defiance-of-the-fall",

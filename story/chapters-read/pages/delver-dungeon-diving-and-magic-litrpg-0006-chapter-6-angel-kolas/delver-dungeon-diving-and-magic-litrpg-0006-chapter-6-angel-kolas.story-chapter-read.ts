@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0006Chapter6AngelKolas = {
   id: "01a06731-af0e-7015-8b75-79472e63bf01",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0006-chapter-6-angel-kolas",
   title: "Chapter 6: Angel Kolas",
   story: "delver-dungeon-diving-and-magic-litrpg",

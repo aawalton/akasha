@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0030Chapter29Maps = {
   id: "01a06731-ae84-7000-b693-1a402e7d0e9b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0030-chapter-29-maps",
   title: "Chapter 29 - Maps",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

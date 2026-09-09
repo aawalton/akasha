@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0016Chapter16PromisesKept = {
   id: "01a06731-af0f-7007-aff4-58d127f9f788",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0016-chapter-16-promises-kept",
   title: "Chapter 16: Promises Kept",
   story: "delver-dungeon-diving-and-magic-litrpg",

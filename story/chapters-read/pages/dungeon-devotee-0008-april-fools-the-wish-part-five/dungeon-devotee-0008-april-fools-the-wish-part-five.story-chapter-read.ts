@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   id: "01a06731-b0e8-7000-932a-5d676570f1df",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0008-april-fools-the-wish-part-five",
   title: "April Fools - The Wish: Part Five",
   story: "dungeon-devotee",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0036Chapter36ManaAlignment = {
   id: "01a06731-af10-7005-a823-c9120a38ee11",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0036-chapter-36-mana-alignment",
   title: "Chapter 36: Mana Alignment",
   story: "delver-dungeon-diving-and-magic-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = {
   id: "01a06731-ae7e-7000-92ec-8e841d969c44",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0022-chapter-22-autonomy",
   title: "Chapter 22 - Autonomy",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

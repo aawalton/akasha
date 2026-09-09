@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0010Chapter10FrontierCity = {
   id: "01a06731-af0f-7001-ad30-0506da470fc6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0010-chapter-10-frontier-city",
   title: "Chapter 10: Frontier City",
   story: "delver-dungeon-diving-and-magic-litrpg",

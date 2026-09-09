@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0044Chapter42CrisisManagement = {
   id: "01a06731-ae8d-7000-94f4-d36f5b941a82",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0044-chapter-42-crisis-management",
   title: "Chapter 42 - Crisis Management",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0032Chapter1356Mox = {
   id: "01a06591-3c6e-7c26-98e0-13db3a5098f0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0032-chapter-1356-mox",
   title: "Chapter 1,356 - Mox",
   story: "story-read/defiance-of-the-fall",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0094ReadTheDefianceOfTheFallWebtoonNow = {
   id: "01a06731-ad9d-7000-939c-7807acf46aff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0094-read-the-defiance-of-the-fall-webtoon-now",
   title: "Read the Defiance of the Fall Webtoon now!",
   story: "story-read/defiance-of-the-fall",

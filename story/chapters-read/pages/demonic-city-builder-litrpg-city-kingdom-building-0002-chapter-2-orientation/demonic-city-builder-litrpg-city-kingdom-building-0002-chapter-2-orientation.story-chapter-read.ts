@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0002Chapter2Orientation = {
   id: "01a06731-ae70-7001-b40b-518a38d5a6b1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0002-chapter-2-orientation",
   title: "Chapter 2 - Orientation",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

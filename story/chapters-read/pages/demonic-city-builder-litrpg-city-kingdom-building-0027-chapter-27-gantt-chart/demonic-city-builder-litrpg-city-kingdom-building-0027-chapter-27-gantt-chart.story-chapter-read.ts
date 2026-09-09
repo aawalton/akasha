@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter27GanttChart = {
   id: "01a06731-ae80-7004-9385-8c164929493e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0027-chapter-27-gantt-chart",
   title: "Chapter 27 - Gantt Chart",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

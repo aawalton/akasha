@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0031Chapter31TheyAllFall = {
   id: "01a06731-af10-7000-b5e0-9d33cf87aa96",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0031-chapter-31-they-all-fall",
   title: "Chapter 31: They All Fall",
   story: "delver-dungeon-diving-and-magic-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter62OperationShakeout = {
   id: "01a06731-ae80-7001-9af5-6bc5a28197bd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0024-chapter-62-operation-shakeout",
   title: "Chapter 62 - Operation Shakeout",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0042Chapter40TheWardens = {
   id: "01a06731-ae8b-7000-bb49-0e134560bd58",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0042-chapter-40-the-wardens",
   title: "Chapter 40 - The Wardens",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

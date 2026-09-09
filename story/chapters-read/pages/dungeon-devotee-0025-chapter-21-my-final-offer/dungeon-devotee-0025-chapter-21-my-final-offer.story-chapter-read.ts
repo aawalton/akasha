@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0025Chapter21MyFinalOffer = {
   id: "01a06731-b108-7000-b82a-ec65b0e90bdc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0025-chapter-21-my-final-offer",
   title: "Chapter 21: My Final Offer",
   story: "dungeon-devotee",

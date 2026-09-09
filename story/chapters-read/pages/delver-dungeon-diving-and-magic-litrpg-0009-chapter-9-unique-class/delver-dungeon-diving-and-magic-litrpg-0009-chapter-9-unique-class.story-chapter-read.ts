@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0009Chapter9UniqueClass = {
   id: "01a06731-af0f-7000-ab82-4af5024816c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0009-chapter-9-unique-class",
   title: "Chapter 9: Unique Class",
   story: "delver-dungeon-diving-and-magic-litrpg",

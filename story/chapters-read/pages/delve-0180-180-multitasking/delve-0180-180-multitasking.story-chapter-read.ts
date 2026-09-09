@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0180180Multitasking = {
   id: "01a06731-af6e-7000-a990-a87b88c84726",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0180-180-multitasking",
   title: "180: Multitasking",
   story: "delve",

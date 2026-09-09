@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0013Chapter11AFieldOfBladesAndBlood = {
   id: "01a06731-b0ef-7000-a50b-d9ee85e57779",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0013-chapter-11-a-field-of-blades-and-blood",
   title: "Chapter 11: A Field of Blades and Blood",
   story: "dungeon-devotee",

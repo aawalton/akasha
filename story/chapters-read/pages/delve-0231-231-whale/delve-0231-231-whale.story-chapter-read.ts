@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0231231Whale = {
   id: "01a06731-afb1-7000-a166-ffb9887d08aa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0231-231-whale",
   title: "231: Whale",
   story: "delve",

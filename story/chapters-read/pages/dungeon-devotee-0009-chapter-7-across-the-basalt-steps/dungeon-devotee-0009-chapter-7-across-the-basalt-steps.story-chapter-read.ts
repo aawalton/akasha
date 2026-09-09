@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0009Chapter7AcrossTheBasaltSteps = {
   id: "01a06731-b0e8-7001-a826-5ad45f69b692",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0009-chapter-7-across-the-basalt-steps",
   title: "Chapter 7: Across the Basalt Steps",
   story: "dungeon-devotee",

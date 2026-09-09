@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0051Chapter1374PrimalLife = {
   id: "01a06591-3c71-7e04-89f3-8419c18f3587",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0051-chapter-1374-primal-life",
   title: "Chapter 1,374 - Primal Life",
   story: "story-read/defiance-of-the-fall",

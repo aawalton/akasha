@@ -4,6 +4,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0049Chapter47Spreadsheet
   {
     id: "01a06731-ae90-7001-b71b-edd59096d616",
     pageTypeSlug: "story-chapter-read",
+    type: "story-chapter-read",
     slug: "demonic-city-builder-litrpg-city-kingdom-building-0049-chapter-47-spreadsheets-part-1-announcement",
     title: "Chapter 47 - Spreadsheets - Part 1 + ANNOUNCEMENT FOR BOOK ONE",
     story: "demonic-city-builder-litrpg-city-kingdom-building",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0169169Holdout = {
   id: "01a06731-af4c-7000-915f-4a3d601ed040",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0169-169-holdout",
   title: "169: Holdout",
   story: "delve",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0047Chapter1370WelcomeToTheBorder = {
   id: "01a06591-3c70-79c5-a877-e2a2cbf49213",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0047-chapter-1370-welcome-to-the-border",
   title: "Chapter 1,370 - Welcome to the Border",
   story: "story-read/defiance-of-the-fall",

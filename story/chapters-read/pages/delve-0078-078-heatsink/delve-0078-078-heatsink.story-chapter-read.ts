@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0078078Heatsink = {
   id: "01a06731-ae25-7000-bde4-258f3a51c26d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0078-078-heatsink",
   title: "078: Heatsink",
   story: "delve",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0072072Preemption = {
   id: "01a06731-ae18-7000-8332-42f919f5ed66",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0072-072-preemption",
   title: "072: Preemption",
   story: "delve",

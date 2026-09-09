@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter20CanITalkToTheManager = {
   id: "01a06731-ae79-7003-8bc9-eb2eedd43024",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0020-chapter-20-can-i-talk-to-the-manager",
   title: "Chapter 20 - Can I Talk To The Manager?",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

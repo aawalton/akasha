@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0089Chapter1410EmergentPool = {
   id: "01a06731-ad93-7000-a530-744cf1bb8025",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0089-chapter-1410-emergent-pool",
   title: "Chapter 1,410 - Emergent Pool",
   story: "story-read/defiance-of-the-fall",

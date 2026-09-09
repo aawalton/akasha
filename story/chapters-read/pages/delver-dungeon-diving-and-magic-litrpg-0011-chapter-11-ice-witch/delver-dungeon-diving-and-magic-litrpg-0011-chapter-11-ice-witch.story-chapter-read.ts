@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0011Chapter11IceWitch = {
   id: "01a06731-af0f-7002-b4e9-50bf43338f67",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0011-chapter-11-ice-witch",
   title: "Chapter 11: Ice Witch",
   story: "delver-dungeon-diving-and-magic-litrpg",

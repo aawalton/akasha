@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0024Chapter20ClearTheAir = {
   id: "01a06731-b105-7000-8555-21de72742d5a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0024-chapter-20-clear-the-air",
   title: "Chapter 20: Clear the Air",
   story: "dungeon-devotee",

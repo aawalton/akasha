@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0033Chapter32DueDiligence = {
   id: "01a06731-ae84-7003-b05e-fe75cf832211",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0033-chapter-32-due-diligence",
   title: "Chapter 32 - Due Diligence",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

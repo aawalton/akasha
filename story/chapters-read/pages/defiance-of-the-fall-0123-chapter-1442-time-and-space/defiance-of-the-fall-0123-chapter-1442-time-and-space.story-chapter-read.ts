@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0123Chapter1442TimeAndSpace = {
   id: "01a06731-adb4-7001-aeb6-73e55b243f61",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0123-chapter-1442-time-and-space",
   title: "Chapter 1,442 - Time and Space",
   story: "story-read/defiance-of-the-fall",

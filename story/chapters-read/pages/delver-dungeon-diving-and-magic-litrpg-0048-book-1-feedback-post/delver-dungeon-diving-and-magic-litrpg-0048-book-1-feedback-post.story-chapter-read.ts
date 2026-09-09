@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0048Book1FeedbackPost = {
   id: "01a06731-af10-7011-be61-2cefca0a1434",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0048-book-1-feedback-post",
   title: "Book 1 Feedback Post",
   story: "delver-dungeon-diving-and-magic-litrpg",

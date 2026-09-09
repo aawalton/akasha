@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0039Chapter39StrongholdDeragun = {
   id: "01a06731-af10-7008-975d-f409d48e8d1e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0039-chapter-39-stronghold-deragun",
   title: "Chapter 39: Stronghold Deragun",
   story: "delver-dungeon-diving-and-magic-litrpg",

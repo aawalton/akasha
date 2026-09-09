@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0012Chapter10HintsOfThePastAndInklingsOfTheFuture = {
   id: "01a06731-b0ec-7000-b51f-6a51c167356a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0012-chapter-10-hints-of-the-past-and-inklings-of-the-future",
   title: "Chapter 10: Hints of the Past and Inklings of the Future",
   story: "dungeon-devotee",

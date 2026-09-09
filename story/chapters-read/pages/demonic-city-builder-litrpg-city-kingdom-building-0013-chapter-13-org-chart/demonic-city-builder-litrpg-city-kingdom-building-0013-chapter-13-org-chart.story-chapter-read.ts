@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0013Chapter13OrgChart = {
   id: "01a06731-ae74-7002-8578-6c70d913a492",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0013-chapter-13-org-chart",
   title: "Chapter 13 - Org Chart",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

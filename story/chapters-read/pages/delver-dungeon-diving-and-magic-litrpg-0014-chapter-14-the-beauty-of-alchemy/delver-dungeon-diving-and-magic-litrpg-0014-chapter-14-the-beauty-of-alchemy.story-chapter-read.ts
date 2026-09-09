@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = {
   id: "01a06731-af0f-7005-acf8-261a68c0a34c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0014-chapter-14-the-beauty-of-alchemy",
   title: "Chapter 14: The Beauty Of Alchemy",
   story: "delver-dungeon-diving-and-magic-litrpg",

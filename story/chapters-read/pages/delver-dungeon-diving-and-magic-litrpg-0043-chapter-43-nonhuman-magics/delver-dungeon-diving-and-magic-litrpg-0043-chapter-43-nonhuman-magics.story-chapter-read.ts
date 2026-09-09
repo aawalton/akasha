@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delverDungeonDivingAndMagicLitrpg0043Chapter43NonhumanMagics = {
   id: "01a06731-af10-700c-9531-5c88c707827c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0043-chapter-43-nonhuman-magics",
   title: "Chapter 43: Nonhuman Magics",
   story: "delver-dungeon-diving-and-magic-litrpg",

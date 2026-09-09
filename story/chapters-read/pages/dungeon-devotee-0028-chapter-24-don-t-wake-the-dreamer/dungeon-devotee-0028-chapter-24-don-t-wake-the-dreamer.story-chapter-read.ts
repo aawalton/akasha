@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDevotee0028Chapter24DonTWakeTheDreamer = {
   id: "01a06731-b10d-7000-83fa-2c11cc65419b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-devotee-0028-chapter-24-don-t-wake-the-dreamer",
   title: "Chapter 24: Don’t Wake the Dreamer",
   story: "dungeon-devotee",

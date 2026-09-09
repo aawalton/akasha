@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter18OpenTicket = {
   id: "01a06731-ae78-7000-a5ea-ab4f83bbc004",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0018-chapter-18-open-ticket",
   title: "Chapter 18 - Open Ticket",
   story: "demonic-city-builder-litrpg-city-kingdom-building",

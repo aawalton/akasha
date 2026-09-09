@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const delve0156156Magnet = {
   id: "01a06731-af31-7000-ab4f-360712053a42",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "delve-0156-156-magnet",
   title: "156: Magnet",
   story: "delve",

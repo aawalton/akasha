@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const defianceOfTheFall0087Chapter1408HistoryRepeatingItself = {
   id: "01a06731-ad91-7000-995e-ea9aec1e7986",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "defiance-of-the-fall-0087-chapter-1408-history-repeating-itself",
   title: "Chapter 1,408 - History Repeating Itself",
   story: "story-read/defiance-of-the-fall",
