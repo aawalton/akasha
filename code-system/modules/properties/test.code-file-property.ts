@@ -8,6 +8,7 @@ export const test = {
   slug: "test",
   propertySlug: "test",
   definition: "what proves a page's code",
+  maxCpuSeconds: 5,
   invariants: [
     {
       invariantKind: "departure",

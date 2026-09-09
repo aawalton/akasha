@@ -43,7 +43,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "One test file may spend five processor seconds.",
+      statement: "The seconds one test file may spend are read off the test property's page.",
     },
     {
       invariantKind: "departure",
@@ -113,8 +113,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller naming no ceiling holds each file to the five seconds one file may spend.",
+      statement: "A caller naming no ceiling holds each file to the seconds one file may spend.",
     },
     {
       invariantKind: "departure",

@@ -3,6 +3,7 @@ import { dirname, join, relative } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Said } from "@akasha/utils/run/running"
 import { ran } from "@akasha/utils/run/running"
+import { test as testFile } from "../modules/properties/test.code-file-property.ts"
 import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"
@@ -51,7 +52,7 @@ export const MEASURING = "AKASHA_TESTS_MEASURING"
 
 export const BATCH = 100
 
-export const CEILING = 5
+export const CEILING = testFile.maxCpuSeconds
 
 export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
 
