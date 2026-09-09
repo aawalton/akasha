@@ -5,7 +5,7 @@ export const defianceOfTheFall0069Chapter1392Taint = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0069-chapter-1392-taint",
   title: "Chapter 1,392 - Taint",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 69,
   ownLength: 3330,
   unitSlug: "words",

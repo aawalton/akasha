@@ -5,7 +5,7 @@ export const defianceOfTheFall0046Chapter1369Conscripted = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0046-chapter-1369-conscripted",
   title: "Chapter 1,369 - Conscripted",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 46,
   ownLength: 3287,
   unitSlug: "words",

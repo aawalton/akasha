@@ -5,7 +5,7 @@ export const defianceOfTheFall0097Chapter1417Interment = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0097-chapter-1417-interment",
   title: "Chapter 1,417 - Interment",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 97,
   ownLength: 3349,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0001PrologueWelcomeToTheMultiVerse = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0001-prologue-welcome-to-the-multi-verse",
   title: "Prologue - Welcome to the Multi-Verse",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 1,
   ownLength: 1230,
   unitSlug: "words",

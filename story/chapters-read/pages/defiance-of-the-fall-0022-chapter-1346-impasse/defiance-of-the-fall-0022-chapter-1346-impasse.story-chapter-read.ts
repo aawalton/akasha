@@ -5,7 +5,7 @@ export const defianceOfTheFall0022Chapter1346Impasse = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0022-chapter-1346-impasse",
   title: "Chapter 1,346 - Impasse",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 22,
   ownLength: 3134,
   unitSlug: "words",

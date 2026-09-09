@@ -5,7 +5,7 @@ export const defianceOfTheFall0033Chapter1357FateThroughChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0033-chapter-1357-fate-through-chaos",
   title: "Chapter 1,357 - Fate through Chaos",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 33,
   ownLength: 3129,
   unitSlug: "words",

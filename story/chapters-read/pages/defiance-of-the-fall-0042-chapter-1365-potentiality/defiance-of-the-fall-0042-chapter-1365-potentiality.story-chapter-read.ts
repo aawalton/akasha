@@ -5,7 +5,7 @@ export const defianceOfTheFall0042Chapter1365Potentiality = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0042-chapter-1365-potentiality",
   title: "Chapter 1,365 - Potentiality",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 42,
   ownLength: 3085,
   unitSlug: "words",

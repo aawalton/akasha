@@ -5,7 +5,7 @@ export const defianceOfTheFall0075Chapter1397Attention = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0075-chapter-1397-attention",
   title: "Chapter 1,397 - Attention",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 75,
   ownLength: 3003,
   unitSlug: "words",
