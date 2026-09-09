@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0042Chapter42RegularOlSaint = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 42,
   ownLength: 2153,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3672661/chapter-42-regular-ol-saint",

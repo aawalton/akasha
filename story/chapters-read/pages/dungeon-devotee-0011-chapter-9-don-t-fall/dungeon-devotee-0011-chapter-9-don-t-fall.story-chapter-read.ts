@@ -9,7 +9,7 @@ export const dungeonDevotee0011Chapter9DonTFall = {
   position: 11,
   ownLength: 6181,
   ownProgress: 6181,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:23.160Z",
   publishedAt: "2022-06-01",
   externalLink:

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0048Chapter46Amendments 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 48,
   ownLength: 3274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3704770/chapter-46-amendments",

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0040Chapter38Preparation
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 40,
   ownLength: 3301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3619722/chapter-38-preparations",

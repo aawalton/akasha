@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter56ExtrinsicMo
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 17,
   ownLength: 2946,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3846366/chapter-56-extrinsic-motivation",

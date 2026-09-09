@@ -9,7 +9,7 @@ export const dungeonDevotee0016Chapter14TheUnrealTouchesBack = {
   position: 16,
   ownLength: 6074,
   ownProgress: 6074,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:34.614Z",
   publishedAt: "2022-11-01",
   externalLink:

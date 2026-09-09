@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0054Chapter52DemonOfTheDeep = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 54,
   ownLength: 2324,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3783803/chapter-52-demon-of-the-deep",

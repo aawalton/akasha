@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0047Chapter47CreateStory = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 47,
   ownLength: 2070,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3712284/chapter-47-create-story",

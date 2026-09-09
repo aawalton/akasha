@@ -9,7 +9,7 @@ export const dungeonDevotee0014Chapter12AmongTheCharcoalTrees = {
   position: 14,
   ownLength: 8487,
   ownProgress: 8487,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:29.371Z",
   publishedAt: "2022-09-01",
   externalLink:

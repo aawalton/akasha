@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0043Chapter41InTheNameOf
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 43,
   ownLength: 2871,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3648618/chapter-41-in-the-name-of-science",

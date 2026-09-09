@@ -9,7 +9,7 @@ export const dungeonDevotee0005Chapter4ChasingShadows = {
   position: 5,
   ownLength: 4225,
   ownProgress: 4225,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:11.255Z",
   publishedAt: "2022-02-20",
   externalLink:

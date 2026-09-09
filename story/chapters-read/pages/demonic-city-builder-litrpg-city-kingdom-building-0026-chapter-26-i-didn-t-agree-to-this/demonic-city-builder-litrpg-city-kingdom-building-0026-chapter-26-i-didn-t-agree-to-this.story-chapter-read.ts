@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter26IDidnTAgree
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   ownLength: 2632,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3490483/chapter-26-i-didnt-agree-to-this",

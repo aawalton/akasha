@@ -9,7 +9,7 @@ export const dungeonDevotee0010Chapter8ThroughTheFingersOfTheCrimsonHand = {
   position: 10,
   ownLength: 6043,
   ownProgress: 6043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:21.271Z",
   publishedAt: "2022-05-01",
   externalLink:

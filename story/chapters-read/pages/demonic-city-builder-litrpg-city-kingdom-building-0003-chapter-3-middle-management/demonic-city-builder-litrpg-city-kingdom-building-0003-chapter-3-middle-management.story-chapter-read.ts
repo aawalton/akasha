@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0003Chapter3MiddleManage
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 3,
   ownLength: 2098,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423520/chapter-3-middle-management",

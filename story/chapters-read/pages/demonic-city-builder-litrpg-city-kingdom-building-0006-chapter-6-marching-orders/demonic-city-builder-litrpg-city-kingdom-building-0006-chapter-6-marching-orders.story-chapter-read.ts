@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Chapter6MarchingOrde
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 6,
   ownLength: 1247,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423563/chapter-6-marching-orders",

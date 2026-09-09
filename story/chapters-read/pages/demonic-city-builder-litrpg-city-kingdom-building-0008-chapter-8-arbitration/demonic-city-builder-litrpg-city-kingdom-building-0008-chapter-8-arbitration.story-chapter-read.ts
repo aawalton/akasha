@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0008Chapter8Arbitration 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 8,
   ownLength: 4015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423600/chapter-8-arbitration",

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0024Chapter24Obligations
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 24,
   ownLength: 1952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3476175/chapter-24-obligations",

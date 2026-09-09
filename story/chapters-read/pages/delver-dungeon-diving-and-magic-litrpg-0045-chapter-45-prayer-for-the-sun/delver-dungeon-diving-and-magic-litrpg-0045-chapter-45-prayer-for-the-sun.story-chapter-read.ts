@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0045Chapter45PrayerForTheSun = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 45,
   ownLength: 2493,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3695056/chapter-45-prayer-for-the-sun",

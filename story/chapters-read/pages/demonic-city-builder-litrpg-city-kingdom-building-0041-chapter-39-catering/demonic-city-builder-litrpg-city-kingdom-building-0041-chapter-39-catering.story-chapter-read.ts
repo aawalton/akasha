@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0041Chapter39Catering = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 41,
   ownLength: 2950,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3629733/chapter-39-catering",

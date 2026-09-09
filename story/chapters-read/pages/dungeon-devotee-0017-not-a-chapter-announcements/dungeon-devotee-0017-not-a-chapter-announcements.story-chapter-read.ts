@@ -9,7 +9,7 @@ export const dungeonDevotee0017NotAChapterAnnouncements = {
   position: 17,
   ownLength: 309,
   ownProgress: 309,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:36.620Z",
   publishedAt: "2022-11-26",
   externalLink:

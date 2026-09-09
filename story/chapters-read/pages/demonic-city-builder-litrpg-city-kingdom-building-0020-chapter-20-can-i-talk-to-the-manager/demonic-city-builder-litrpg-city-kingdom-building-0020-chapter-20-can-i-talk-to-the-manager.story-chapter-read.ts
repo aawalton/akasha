@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter20CanITalkToT
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 20,
   ownLength: 2095,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3455262/chapter-20-can-i-talk-to-the-manager",

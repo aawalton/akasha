@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0019Chapter57FireIcePart
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 19,
   ownLength: 2295,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3861535/chapter-57-fire-ice-part-2",

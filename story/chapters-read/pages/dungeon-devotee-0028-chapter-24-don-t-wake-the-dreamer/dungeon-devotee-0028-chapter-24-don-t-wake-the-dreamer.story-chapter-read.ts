@@ -9,7 +9,7 @@ export const dungeonDevotee0028Chapter24DonTWakeTheDreamer = {
   position: 28,
   ownLength: 7944,
   ownProgress: 7944,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:01.087Z",
   publishedAt: "2023-09-01",
   externalLink:

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0050Chapter48HomeOfTheOwls = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 50,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3734196/chapter-48-home-of-the-owls",

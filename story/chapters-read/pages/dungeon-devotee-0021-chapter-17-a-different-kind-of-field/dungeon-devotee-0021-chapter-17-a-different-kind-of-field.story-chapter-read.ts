@@ -9,7 +9,7 @@ export const dungeonDevotee0021Chapter17ADifferentKindOfField = {
   position: 21,
   ownLength: 7544,
   ownProgress: 7544,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:45.373Z",
   publishedAt: "2023-02-01",
   externalLink:

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Book1ReleaseToday = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 6,
   ownLength: 173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3821234/book-1-release-today",

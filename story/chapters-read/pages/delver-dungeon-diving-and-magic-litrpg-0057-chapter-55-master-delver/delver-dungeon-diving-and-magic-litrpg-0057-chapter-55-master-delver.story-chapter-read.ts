@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0057Chapter55MasterDelver = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 57,
   ownLength: 2199,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3851193/chapter-55-master-delver",

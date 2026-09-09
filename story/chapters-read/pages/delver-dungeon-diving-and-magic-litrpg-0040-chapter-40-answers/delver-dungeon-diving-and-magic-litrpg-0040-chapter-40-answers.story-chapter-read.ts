@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0040Chapter40Answers = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 40,
   ownLength: 2208,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3650121/chapter-40-answers",

@@ -9,7 +9,7 @@ export const dungeonDevotee0019InterludeIntoTheDarkness = {
   position: 19,
   ownLength: 2557,
   ownProgress: 2557,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:41.126Z",
   publishedAt: "2022-12-02",
   externalLink:

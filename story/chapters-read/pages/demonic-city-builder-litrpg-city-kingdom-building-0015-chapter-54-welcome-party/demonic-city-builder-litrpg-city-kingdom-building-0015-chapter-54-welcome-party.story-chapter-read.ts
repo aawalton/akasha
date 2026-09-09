@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter54WelcomePart
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 2360,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3828440/chapter-54-welcome-party",

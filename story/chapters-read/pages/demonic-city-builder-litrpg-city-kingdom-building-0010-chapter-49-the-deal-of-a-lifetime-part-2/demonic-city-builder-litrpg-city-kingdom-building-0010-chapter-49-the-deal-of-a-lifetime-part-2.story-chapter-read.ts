@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter49TheDealOfAL
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 10,
   ownLength: 2483,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3775975/chapter-49-the-deal-of-a-lifetime-part-2",

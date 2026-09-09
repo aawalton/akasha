@@ -9,7 +9,7 @@ export const dungeonDevotee0031Chapter27TheLightThatBlinds = {
   position: 31,
   ownLength: 7151,
   ownProgress: 7151,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:07.729Z",
   publishedAt: "2023-12-01",
   externalLink:

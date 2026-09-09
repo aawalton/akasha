@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0046Chapter44Stone = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 46,
   ownLength: 1537,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3683310/chapter-44-stone",

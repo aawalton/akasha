@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter15CostAnalysi
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 1306,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3436598/chapter-15-cost-analysis",

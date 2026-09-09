@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0012Chapter12ReturnOnInv
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 12,
   ownLength: 1705,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423716/chapter-12-return-on-investment",

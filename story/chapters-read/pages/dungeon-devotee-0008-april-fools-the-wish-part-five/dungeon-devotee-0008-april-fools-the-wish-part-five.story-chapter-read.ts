@@ -9,7 +9,7 @@ export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   position: 8,
   ownLength: 1488,
   ownProgress: 1488,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:17.180Z",
   publishedAt: "2022-04-01",
   externalLink:

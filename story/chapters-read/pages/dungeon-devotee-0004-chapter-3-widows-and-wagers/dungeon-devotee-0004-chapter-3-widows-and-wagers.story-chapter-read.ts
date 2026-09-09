@@ -9,7 +9,7 @@ export const dungeonDevotee0004Chapter3WidowsAndWagers = {
   position: 4,
   ownLength: 6345,
   ownProgress: 6345,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:08.958Z",
   publishedAt: "2022-02-19",
   externalLink:

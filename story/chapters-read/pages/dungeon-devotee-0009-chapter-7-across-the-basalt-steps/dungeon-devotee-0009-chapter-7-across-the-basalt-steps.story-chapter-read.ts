@@ -9,7 +9,7 @@ export const dungeonDevotee0009Chapter7AcrossTheBasaltSteps = {
   position: 9,
   ownLength: 6739,
   ownProgress: 6739,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:19.200Z",
   publishedAt: "2022-04-01",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonDevotee0015Chapter13SlingsAndArrows = {
   position: 15,
   ownLength: 7397,
   ownProgress: 7397,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:32.488Z",
   publishedAt: "2022-10-01",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonDevotee0024Chapter20ClearTheAir = {
   position: 24,
   ownLength: 8024,
   ownProgress: 8024,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:51.957Z",
   publishedAt: "2023-05-01",
   externalLink:

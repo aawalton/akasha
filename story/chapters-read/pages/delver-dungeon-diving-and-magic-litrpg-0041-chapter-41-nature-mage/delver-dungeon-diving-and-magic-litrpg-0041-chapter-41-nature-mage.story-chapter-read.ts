@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0041Chapter41NatureMage = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 41,
   ownLength: 2663,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3659312/chapter-41-nature-mage",

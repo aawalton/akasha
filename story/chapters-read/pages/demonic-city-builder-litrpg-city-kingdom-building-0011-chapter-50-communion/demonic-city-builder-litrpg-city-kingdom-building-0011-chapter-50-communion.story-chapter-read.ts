@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0011Chapter50Communion =
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 11,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3785235/chapter-50-communion",

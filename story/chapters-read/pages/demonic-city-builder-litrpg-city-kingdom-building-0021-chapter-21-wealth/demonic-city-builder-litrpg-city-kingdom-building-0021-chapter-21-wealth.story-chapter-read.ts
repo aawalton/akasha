@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0021Chapter21Wealth = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 21,
   ownLength: 2806,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3462059/chapter-21-wealth",

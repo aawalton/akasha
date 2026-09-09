@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter14CapitalExpe
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 14,
   ownLength: 2415,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3432231/chapter-14-capital-expenditure",

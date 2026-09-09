@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter27GanttChart 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 27,
   ownLength: 2395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3499439/chapter-27-gantt-chart",

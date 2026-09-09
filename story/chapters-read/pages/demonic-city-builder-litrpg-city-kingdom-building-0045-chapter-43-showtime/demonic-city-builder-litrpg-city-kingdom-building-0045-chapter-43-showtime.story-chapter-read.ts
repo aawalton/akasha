@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0045Chapter43Showtime = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 45,
   ownLength: 2937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3673958/chapter-43-showtime",

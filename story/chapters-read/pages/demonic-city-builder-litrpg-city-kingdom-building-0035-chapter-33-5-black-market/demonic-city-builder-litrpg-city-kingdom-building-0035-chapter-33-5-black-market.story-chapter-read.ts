@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0035Chapter335BlackMarke
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 35,
   ownLength: 1918,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3567296/chapter-335-black-market",

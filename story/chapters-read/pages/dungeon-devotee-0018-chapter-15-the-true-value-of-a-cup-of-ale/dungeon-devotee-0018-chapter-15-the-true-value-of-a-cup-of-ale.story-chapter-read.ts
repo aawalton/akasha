@@ -9,7 +9,7 @@ export const dungeonDevotee0018Chapter15TheTrueValueOfACupOfAle = {
   position: 18,
   ownLength: 8433,
   ownProgress: 8433,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:38.652Z",
   publishedAt: "2022-12-02",
   externalLink:

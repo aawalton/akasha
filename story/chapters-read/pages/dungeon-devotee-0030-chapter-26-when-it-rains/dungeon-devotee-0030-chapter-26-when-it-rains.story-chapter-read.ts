@@ -9,7 +9,7 @@ export const dungeonDevotee0030Chapter26WhenItRains = {
   position: 30,
   ownLength: 7174,
   ownProgress: 7174,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:05.622Z",
   publishedAt: "2023-11-01",
   externalLink:

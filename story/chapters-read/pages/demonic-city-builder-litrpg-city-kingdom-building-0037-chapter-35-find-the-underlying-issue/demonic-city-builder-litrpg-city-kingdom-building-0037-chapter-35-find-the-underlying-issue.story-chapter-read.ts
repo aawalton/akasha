@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0037Chapter35FindTheUnde
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 37,
   ownLength: 2104,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3587389/chapter-35-find-the-underlying-issue",

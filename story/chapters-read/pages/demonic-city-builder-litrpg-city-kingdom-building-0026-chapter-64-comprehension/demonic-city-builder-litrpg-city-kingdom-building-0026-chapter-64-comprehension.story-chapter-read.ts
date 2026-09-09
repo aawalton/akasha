@@ -7,7 +7,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter64Comprehensi
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3928232",
   source: "royal-road",
   title: "Chapter 64 - Comprehension",

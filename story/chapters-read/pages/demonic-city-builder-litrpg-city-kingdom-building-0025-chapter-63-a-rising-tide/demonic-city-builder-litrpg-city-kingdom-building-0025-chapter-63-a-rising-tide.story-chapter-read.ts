@@ -7,7 +7,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter63ARisingTide
   story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 25,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3912670",
   source: "royal-road",
   title: "Chapter 63 - A Rising Tide",

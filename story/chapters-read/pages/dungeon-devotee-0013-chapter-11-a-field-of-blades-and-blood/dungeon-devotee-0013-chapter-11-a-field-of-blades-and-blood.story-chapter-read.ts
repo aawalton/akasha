@@ -9,7 +9,7 @@ export const dungeonDevotee0013Chapter11AFieldOfBladesAndBlood = {
   position: 13,
   ownLength: 5953,
   ownProgress: 5953,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:27.288Z",
   publishedAt: "2022-08-01",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonDevotee0001Chapter0DeadliestDay = {
   position: 1,
   ownLength: 4676,
   ownProgress: 4676,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:02.146Z",
   publishedAt: "2022-02-12",
   externalLink:

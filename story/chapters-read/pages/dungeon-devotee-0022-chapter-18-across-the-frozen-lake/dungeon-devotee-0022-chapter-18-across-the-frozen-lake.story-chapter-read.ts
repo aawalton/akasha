@@ -9,7 +9,7 @@ export const dungeonDevotee0022Chapter18AcrossTheFrozenLake = {
   position: 22,
   ownLength: 9769,
   ownProgress: 9769,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:47.705Z",
   publishedAt: "2023-03-01",
   externalLink:

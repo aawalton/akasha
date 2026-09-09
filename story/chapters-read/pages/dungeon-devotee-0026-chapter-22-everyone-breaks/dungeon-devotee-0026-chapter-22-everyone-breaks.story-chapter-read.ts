@@ -9,7 +9,7 @@ export const dungeonDevotee0026Chapter22EveryoneBreaks = {
   position: 26,
   ownLength: 7301,
   ownProgress: 7301,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:56.391Z",
   publishedAt: "2023-07-02",
   externalLink:

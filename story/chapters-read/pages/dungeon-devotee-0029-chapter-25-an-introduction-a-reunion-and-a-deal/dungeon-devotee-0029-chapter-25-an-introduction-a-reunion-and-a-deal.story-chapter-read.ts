@@ -9,7 +9,7 @@ export const dungeonDevotee0029Chapter25AnIntroductionAReunionAndADeal = {
   position: 29,
   ownLength: 10738,
   ownProgress: 10738,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:03.547Z",
   publishedAt: "2023-10-02",
   externalLink:

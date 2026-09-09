@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0051Chapter49TalismanRoom = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 51,
   ownLength: 2385,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3747633/chapter-49-talisman-room",

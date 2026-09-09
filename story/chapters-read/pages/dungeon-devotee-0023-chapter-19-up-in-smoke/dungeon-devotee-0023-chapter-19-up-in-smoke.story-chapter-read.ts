@@ -9,7 +9,7 @@ export const dungeonDevotee0023Chapter19UpInSmoke = {
   position: 23,
   ownLength: 6232,
   ownProgress: 6232,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:50.049Z",
   publishedAt: "2023-04-01",
   externalLink:

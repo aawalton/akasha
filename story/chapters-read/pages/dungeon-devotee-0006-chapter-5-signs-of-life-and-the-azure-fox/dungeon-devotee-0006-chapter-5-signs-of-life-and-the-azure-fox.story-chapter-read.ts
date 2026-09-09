@@ -9,7 +9,7 @@ export const dungeonDevotee0006Chapter5SignsOfLifeAndTheAzureFox = {
   position: 6,
   ownLength: 8341,
   ownProgress: 8341,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:13.398Z",
   publishedAt: "2022-02-21",
   externalLink:

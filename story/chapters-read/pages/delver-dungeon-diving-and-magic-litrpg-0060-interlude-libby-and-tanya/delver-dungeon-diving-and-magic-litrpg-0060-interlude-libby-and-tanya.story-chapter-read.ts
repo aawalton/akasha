@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0060InterludeLibbyAndTanya = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 60,
   ownLength: 2123,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3892036/interlude-libby-and-tanya",

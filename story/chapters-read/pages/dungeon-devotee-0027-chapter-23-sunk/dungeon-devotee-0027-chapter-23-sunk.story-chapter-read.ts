@@ -9,7 +9,7 @@ export const dungeonDevotee0027Chapter23Sunk = {
   position: 27,
   ownLength: 9019,
   ownProgress: 9019,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:58.698Z",
   publishedAt: "2023-08-01",
   externalLink:

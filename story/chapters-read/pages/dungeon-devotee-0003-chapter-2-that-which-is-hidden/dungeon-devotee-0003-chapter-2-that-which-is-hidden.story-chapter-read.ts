@@ -9,7 +9,7 @@ export const dungeonDevotee0003Chapter2ThatWhichIsHidden = {
   position: 3,
   ownLength: 6321,
   ownProgress: 6321,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:06.948Z",
   publishedAt: "2022-02-18",
   externalLink:

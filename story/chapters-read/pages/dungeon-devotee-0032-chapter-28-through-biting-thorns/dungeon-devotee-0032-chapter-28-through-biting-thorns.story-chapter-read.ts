@@ -9,7 +9,7 @@ export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   position: 32,
   ownLength: 8708,
   ownProgress: 8625,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-02",
   externalLink:
     "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1463238/chapter-28-through-biting-thorns",

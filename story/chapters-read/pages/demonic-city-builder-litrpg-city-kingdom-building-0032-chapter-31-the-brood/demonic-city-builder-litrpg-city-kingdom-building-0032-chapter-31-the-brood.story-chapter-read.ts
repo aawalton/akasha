@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0032Chapter31TheBrood = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 32,
   ownLength: 2030,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3542402/chapter-31-the-brood",

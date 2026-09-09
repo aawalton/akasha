@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0047Chapter45TheSolari =
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 47,
   ownLength: 3978,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3692197/chapter-45-the-solari",

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0033Chapter32DueDiligenc
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 33,
   ownLength: 2507,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3555080/chapter-32-due-diligence",

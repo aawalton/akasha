@@ -9,7 +9,7 @@ export const dungeonDevotee0025Chapter21MyFinalOffer = {
   position: 25,
   ownLength: 7002,
   ownProgress: 7002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:54.175Z",
   publishedAt: "2023-06-01",
   externalLink:

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0042Chapter40TheWardens 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 42,
   ownLength: 2281,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3642411/chapter-40-the-wardens",

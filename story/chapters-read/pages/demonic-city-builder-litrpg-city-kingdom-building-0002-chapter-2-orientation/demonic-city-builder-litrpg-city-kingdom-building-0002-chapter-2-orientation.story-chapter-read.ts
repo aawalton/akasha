@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0002Chapter2Orientation 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 2,
   ownLength: 2300,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423469/chapter-2-orientation",

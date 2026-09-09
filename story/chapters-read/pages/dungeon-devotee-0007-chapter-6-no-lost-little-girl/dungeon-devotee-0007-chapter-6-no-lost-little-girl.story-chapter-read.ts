@@ -9,7 +9,7 @@ export const dungeonDevotee0007Chapter6NoLostLittleGirl = {
   position: 7,
   ownLength: 8118,
   ownProgress: 8118,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:15.339Z",
   publishedAt: "2022-03-01",
   externalLink:

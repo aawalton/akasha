@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter28NewHires = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 29,
   ownLength: 2344,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3512470/chapter-28-new-hires",

@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter55Branded = {
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 16,
   ownLength: 2686,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3837257/chapter-55-branded",

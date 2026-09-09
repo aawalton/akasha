@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0004Chapter4Customers = 
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 4,
   ownLength: 1333,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423558/chapter-4-customers",

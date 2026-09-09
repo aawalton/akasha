@@ -9,7 +9,7 @@ export const dungeonDevotee0020Chapter16ForIMustScream = {
   position: 20,
   ownLength: 5801,
   ownProgress: 5801,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:39:43.261Z",
   publishedAt: "2023-01-01",
   externalLink:

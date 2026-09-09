@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0046Chapter46AncientSerpent = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 46,
   ownLength: 2100,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3703413/chapter-46-ancient-serpent",

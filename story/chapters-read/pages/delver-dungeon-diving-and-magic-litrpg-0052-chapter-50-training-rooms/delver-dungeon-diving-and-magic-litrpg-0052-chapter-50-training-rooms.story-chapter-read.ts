@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0052Chapter50TrainingRooms = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 52,
   ownLength: 2798,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3752417/chapter-50-training-rooms",

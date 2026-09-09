@@ -8,7 +8,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0012Chapter51Wholesale =
   story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 12,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3798225/chapter-51-wholesale",

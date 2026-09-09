@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0056Chapter54TheDralk = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 56,
   ownLength: 2035,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3814673/chapter-54-the-dralk",

@@ -9,7 +9,7 @@ export const dungeonDevotee0002Chapter1AllThereWasToTake = {
   position: 2,
   ownLength: 4140,
   ownProgress: 4140,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:04.926Z",
   publishedAt: "2022-02-17",
   externalLink:
