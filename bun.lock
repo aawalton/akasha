@@ -1132,6 +1132,9 @@
     "temper/lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
     },
+    "temper/lib-treasure": {
+      "name": "@akasha/temper-lib-treasure",
+    },
     "temper/lib-zone": {
       "name": "@akasha/temper-lib-zone",
     },
@@ -1327,9 +1330,6 @@
     },
     "temper/temper-lib-slash-commander": {
       "name": "@akasha/temper-lib-slash-commander",
-    },
-    "temper/temper-lib-treasure": {
-      "name": "@akasha/temper-lib-treasure",
     },
     "temper/temper-navigation-addon": {
       "name": "@akasha/temper-navigation-addon",
@@ -1699,7 +1699,7 @@
 
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:temper/lib-table-functions"],
 
-    "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/temper-lib-treasure"],
+    "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/lib-treasure"],
 
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 

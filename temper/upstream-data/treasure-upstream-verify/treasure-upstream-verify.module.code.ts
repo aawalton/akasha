@@ -1,10 +1,10 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { BOOK_ID } from "@akasha/temper-lib-treasure/treasure-book-ids"
-import { ICONS } from "@akasha/temper-lib-treasure/treasure-icons"
-import { ALL_DATA } from "@akasha/temper-lib-treasure/treasure-pins-data"
-import type { AllData } from "@akasha/temper-lib-treasure/treasure-types"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
+import { BOOK_ID } from "../../lib-treasure/treasure-book-ids/treasure-book-ids.module.code.ts"
+import { ICONS } from "../../lib-treasure/treasure-icons/treasure-icons.module.code.ts"
+import { ALL_DATA } from "../../lib-treasure/treasure-pins-data/treasure-pins-data.module.code.ts"
+import type { AllData } from "../../lib-treasure/treasure-types/treasure-types.module.code.ts"
 import { isRecord } from "../leaf-dump/leaf-dump.module.code.ts"
 import {
   gathered,
