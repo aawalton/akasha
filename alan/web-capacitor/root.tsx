@@ -37,7 +37,7 @@ import {
   ScrollRestoration,
 } from "react-router"
 import "@akasha/alanwalton-web/capability-registrations"
-import "./alan-web-capacitor-look/alan-web-capacitor-look.stylesheet.styles.css"
+import "./look/alan-web-capacitor-look.stylesheet.styles.css"
 
 configurePagesStoreFetch(apiFetch)
 
