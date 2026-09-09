@@ -3,6 +3,7 @@ import type { Message } from "../message.page-type.ts"
 export const message245e24dcb4e6 = {
   id: "01a06d20-50b2-7000-b4dc-245e24dcb4e6",
   pageTypeSlug: "message",
+  type: "message",
   slug: "message-245e24dcb4e6",
   to: "dalla",
   from: "rule-population-sweep",
