@@ -26,10 +26,10 @@ export const fileProperty = {
   ],
   extends: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "text-property/file-name", required: false, many: false },
-    { pagePropertySlug: "boolean-property/generated", required: false, many: false },
-    { pagePropertySlug: "boolean-property/runs-file-length", required: false, many: false },
-    { pagePropertySlug: "boolean-property/holds-bytes", required: false, many: false },
+    { pageProperty: "text-property/file-name", required: false, many: false },
+    { pageProperty: "boolean-property/generated", required: false, many: false },
+    { pageProperty: "boolean-property/runs-file-length", required: false, many: false },
+    { pageProperty: "boolean-property/holds-bytes", required: false, many: false },
   ],
   invariants: [
     {

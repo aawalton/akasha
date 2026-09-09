@@ -22,14 +22,14 @@ export const storyChapterWritten = {
   runsTabooCheck: false,
   parts: ["relation-property/written-chapter-story"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/written-chapter-story",
+      pageProperty: "relation-property/written-chapter-story",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "number-property/own-length", required: true, many: false },
-    { pagePropertySlug: "file-property/prose", required: true, many: false },
+    { pageProperty: "number-property/own-length", required: true, many: false },
+    { pageProperty: "file-property/prose", required: true, many: false },
   ],
   invariants: [
     {

@@ -15,10 +15,10 @@ export const temperCompanionProgress = {
   extends: ["page-type/temper-character-thing"],
   parts: ["relation-property/companion-roles"],
   properties: [
-    { pagePropertySlug: "text-property/companion-id", required: true, many: false },
-    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pageProperty: "text-property/companion-id", required: true, many: false },
+    { pageProperty: "text-property/account-page", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/companion-roles",
+      pageProperty: "relation-property/companion-roles",
       required: false,
       many: true,
       maxCount: null,

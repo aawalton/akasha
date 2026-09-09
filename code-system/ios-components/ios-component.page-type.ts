@@ -41,7 +41,7 @@ export const iosComponent = {
     "code-file-property/swift",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "code-file-property/swift", required: true, many: false }],
+  properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

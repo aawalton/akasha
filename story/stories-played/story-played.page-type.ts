@@ -21,10 +21,10 @@ export const storyPlayed = {
   runsTabooCheck: false,
   parts: ["file-property/prose", "relation-property/world", "relation-property/world-window"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: false, many: false },
-    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
-    { pagePropertySlug: "file-property/prose", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/world-window", required: false, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

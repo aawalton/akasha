@@ -38,18 +38,18 @@ export const storyRead = {
   },
   parts: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: false, many: false },
-    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
-    { pagePropertySlug: "text-property/source", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/world-window", required: false, many: false },
+    { pageProperty: "text-property/source", required: true, many: false },
     {
-      pagePropertySlug: "text-property/external-tags",
+      pageProperty: "text-property/external-tags",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "select-property/publication-status", required: false, many: false },
-    { pagePropertySlug: "file-property/prose", required: false, many: false },
+    { pageProperty: "select-property/publication-status", required: false, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

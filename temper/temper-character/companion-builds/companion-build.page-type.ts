@@ -23,11 +23,11 @@ export const companionBuild = {
   extends: ["page-type/temper-character-thing"],
   parts: ["select-property/base-roles"],
   properties: [
-    { pagePropertySlug: "text-property/build-hash", required: true, many: false },
-    { pagePropertySlug: "select-property/build-visibility", required: true, many: false },
-    { pagePropertySlug: "text-property/build-correlation-id", required: false, many: false },
-    { pagePropertySlug: "number-property/build-target-count", required: false, many: false },
-    { pagePropertySlug: "select-property/base-roles", required: false, many: true, maxCount: 2 },
+    { pageProperty: "text-property/build-hash", required: true, many: false },
+    { pageProperty: "select-property/build-visibility", required: true, many: false },
+    { pageProperty: "text-property/build-correlation-id", required: false, many: false },
+    { pageProperty: "number-property/build-target-count", required: false, many: false },
+    { pageProperty: "select-property/base-roles", required: false, many: true, maxCount: 2 },
   ],
   invariants: [
     {

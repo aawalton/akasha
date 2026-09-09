@@ -48,13 +48,13 @@ export const readoutScale = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "number-property/black-at", required: false, many: false },
-    { pagePropertySlug: "number-property/red-at", required: false, many: false },
-    { pagePropertySlug: "number-property/orange-at", required: false, many: false },
-    { pagePropertySlug: "number-property/yellow-at", required: false, many: false },
-    { pagePropertySlug: "number-property/green-at", required: false, many: false },
-    { pagePropertySlug: "number-property/blue-at", required: false, many: false },
-    { pagePropertySlug: "text-property/earned-color-slug", required: false, many: false },
+    { pageProperty: "number-property/black-at", required: false, many: false },
+    { pageProperty: "number-property/red-at", required: false, many: false },
+    { pageProperty: "number-property/orange-at", required: false, many: false },
+    { pageProperty: "number-property/yellow-at", required: false, many: false },
+    { pageProperty: "number-property/green-at", required: false, many: false },
+    { pageProperty: "number-property/blue-at", required: false, many: false },
+    { pageProperty: "text-property/earned-color-slug", required: false, many: false },
   ],
   invariants: [
     {

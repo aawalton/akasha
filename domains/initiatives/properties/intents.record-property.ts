@@ -18,12 +18,12 @@ export const intents = {
   definition: "what an initiative is to make so",
   properties: [
     {
-      pagePropertySlug: "standard-agent-english-property/intent-statement",
+      pageProperty: "standard-agent-english-property/intent-statement",
       required: true,
       many: false,
     },
     {
-      pagePropertySlug: "text-property/working-memory",
+      pageProperty: "text-property/working-memory",
       required: false,
       many: false,
     },

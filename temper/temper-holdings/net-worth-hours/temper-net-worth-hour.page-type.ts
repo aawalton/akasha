@@ -20,7 +20,7 @@ export const temperNetWorthHour = {
     "number-property/item-value",
     "page-property-entry/snapshots",
   ],
-  properties: [{ pagePropertySlug: "page-property-entry/snapshots", required: true, many: false }],
+  properties: [{ pageProperty: "page-property-entry/snapshots", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

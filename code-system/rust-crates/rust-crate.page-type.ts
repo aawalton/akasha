@@ -26,15 +26,15 @@ export const rustCrate = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/cargo-manifest", required: true, many: false },
+    { pageProperty: "file-property/cargo-manifest", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/rust-modules",
+      pageProperty: "relation-property/rust-modules",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "code-file-property/cargo-build-script", required: false, many: false },
-    { pagePropertySlug: "file-property/crate-icon", required: false, many: false },
+    { pageProperty: "code-file-property/cargo-build-script", required: false, many: false },
+    { pageProperty: "file-property/crate-icon", required: false, many: false },
   ],
   invariants: [
     {

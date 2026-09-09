@@ -23,15 +23,15 @@ export const temperMetricTree = {
     "text-property/node-type",
   ],
   properties: [
-    { pagePropertySlug: "text-property/node-id", required: true, many: false },
-    { pagePropertySlug: "text-property/node-type", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/node-id", required: true, many: false },
+    { pageProperty: "text-property/node-type", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
     {
-      pagePropertySlug: "boolean-property/include-in-child-aggregates",
+      pageProperty: "boolean-property/include-in-child-aggregates",
       required: false,
       many: false,
     },
-    { pagePropertySlug: "boolean-property/use-accent-color", required: false, many: false },
+    { pageProperty: "boolean-property/use-accent-color", required: false, many: false },
   ],
   invariants: [
     {

@@ -26,7 +26,7 @@ export const changeGuard = {
     "change-guard/folder-not-left-named",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
   ],
   invariants: [
     {

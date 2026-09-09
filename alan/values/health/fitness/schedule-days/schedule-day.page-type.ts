@@ -19,9 +19,9 @@ export const scheduleDay = {
   extends: ["page-type/page"],
   parts: ["select-property/day-of-week", "select-property/focus"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "select-property/day-of-week", required: true, many: false },
-    { pagePropertySlug: "select-property/focus", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "select-property/day-of-week", required: true, many: false },
+    { pageProperty: "select-property/focus", required: true, many: false },
   ],
   invariants: [
     {

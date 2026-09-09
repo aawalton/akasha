@@ -22,7 +22,7 @@ export const agentSettings = {
     "file-property/harness-settings",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/harness-settings", required: true, many: false }],
+  properties: [{ pageProperty: "file-property/harness-settings", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

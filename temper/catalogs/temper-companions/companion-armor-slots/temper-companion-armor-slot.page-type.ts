@@ -11,7 +11,7 @@ export const temperCompanionArmorSlot = {
   pluralSlug: "temper-companion-armor-slots",
   extends: ["page-type/temper-companion-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/equip-type", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/equip-type", required: true, many: false },
   ],
 } as const satisfies PageType

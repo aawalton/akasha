@@ -17,8 +17,8 @@ export const notice = {
   extends: ["page-type/page"],
   parts: ["file-property/notice-text", "text-property/notice-warrant"],
   properties: [
-    { pagePropertySlug: "file-property/notice-text", required: true, many: false },
-    { pagePropertySlug: "text-property/notice-warrant", required: true, many: false },
+    { pageProperty: "file-property/notice-text", required: true, many: false },
+    { pageProperty: "text-property/notice-warrant", required: true, many: false },
   ],
   invariants: [
     {

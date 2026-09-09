@@ -27,13 +27,13 @@ export const show = {
   extends: ["page-type/collection-external"],
   parts: ["calendar-date-property/last-air-date"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/genres", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
-    { pagePropertySlug: "calendar-date-property/last-air-date", required: false, many: false },
-    { pagePropertySlug: "text-property/poster-path", required: false, many: false },
-    { pagePropertySlug: "select-property/production-status", required: false, many: false },
-    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/genres", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/imdb-id", required: false, many: false },
+    { pageProperty: "calendar-date-property/last-air-date", required: false, many: false },
+    { pageProperty: "text-property/poster-path", required: false, many: false },
+    { pageProperty: "select-property/production-status", required: false, many: false },
+    { pageProperty: "number-property/vote-average", required: false, many: false },
   ],
   invariants: [
     {

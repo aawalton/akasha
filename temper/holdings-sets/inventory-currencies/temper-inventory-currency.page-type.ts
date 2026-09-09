@@ -11,7 +11,7 @@ export const temperInventoryCurrency = {
   pluralSlug: "temper-inventory-currencies",
   extends: ["page-type/temper-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
   ],
 } as const satisfies PageType

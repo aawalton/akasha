@@ -29,12 +29,12 @@ export const readoutGroup = {
   extends: ["page-type/domain"],
   properties: [
     {
-      pagePropertySlug: "text-property/sort-order",
+      pageProperty: "text-property/sort-order",
       required: false,
       many: false,
       default: "label",
     },
-    { pagePropertySlug: "boolean-property/figure-off-scale", required: false, many: false },
+    { pageProperty: "boolean-property/figure-off-scale", required: false, many: false },
   ],
   invariants: [
     {

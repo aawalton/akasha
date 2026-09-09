@@ -30,9 +30,9 @@ export const builtImage = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "text-property/image-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/image-folder", required: true, many: false },
-    { pagePropertySlug: "file-property/image-extensions", required: false, many: false },
+    { pageProperty: "text-property/image-kind", required: true, many: false },
+    { pageProperty: "text-property/image-folder", required: true, many: false },
+    { pageProperty: "file-property/image-extensions", required: false, many: false },
   ],
   invariants: [
     {

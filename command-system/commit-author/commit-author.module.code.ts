@@ -24,7 +24,7 @@ export function personaAuthor(persona: string): string | null {
 
 function defaultPersona(): string | null {
   for (const one of seat.properties) {
-    if (slugOf(one.pagePropertySlug) !== PERSONA_SLUG_PROPERTY) continue
+    if (slugOf(one.pageProperty) !== PERSONA_SLUG_PROPERTY) continue
     const value: unknown = "default" in one ? one.default : undefined
     return typeof value === "string" ? value : null
   }

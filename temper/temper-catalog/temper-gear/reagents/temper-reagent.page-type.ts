@@ -15,11 +15,11 @@ export const temperReagent = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["text-property/alchemy-effects"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/icon", required: true, many: false },
-    { pagePropertySlug: "number-property/item-id", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/icon", required: true, many: false },
+    { pageProperty: "number-property/item-id", required: true, many: false },
     {
-      pagePropertySlug: "text-property/alchemy-effects",
+      pageProperty: "text-property/alchemy-effects",
       required: true,
       many: true,
       maxCount: null,

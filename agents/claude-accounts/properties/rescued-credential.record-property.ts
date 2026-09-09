@@ -16,9 +16,9 @@ export const rescuedCredential = {
   propertySlug: "rescued-credential",
   definition: "the rotated pair kept beside a page where no landing had that pair",
   properties: [
-    { pagePropertySlug: "text-property/rescued-access-token", required: true, many: false },
-    { pagePropertySlug: "text-property/rescued-refresh-token", required: true, many: false },
-    { pagePropertySlug: "number-property/rescued-expires-at-ms", required: true, many: false },
+    { pageProperty: "text-property/rescued-access-token", required: true, many: false },
+    { pageProperty: "text-property/rescued-refresh-token", required: true, many: false },
+    { pageProperty: "number-property/rescued-expires-at-ms", required: true, many: false },
   ],
   invariants: [
     {

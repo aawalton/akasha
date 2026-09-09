@@ -28,21 +28,21 @@ export const agent = {
   ],
   properties: [
     {
-      pagePropertySlug: "one-of-property/assignment-slug",
+      pageProperty: "one-of-property/assignment-slug",
       required: true,
       many: false,
       default: "domain/akasha",
     },
-    { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
+    { pageProperty: "relation-property/principal-seat-name", required: false, many: false },
     {
-      pagePropertySlug: "file-property/edits",
+      pageProperty: "file-property/edits",
       required: false,
       many: false,
       uncommitted: true,
       default: "jsonl",
     },
     {
-      pagePropertySlug: "file-property/refusals",
+      pageProperty: "file-property/refusals",
       required: false,
       many: false,
       uncommitted: true,

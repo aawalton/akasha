@@ -13,5 +13,5 @@ export const bookCollection = {
   definition: "a shelf of books Alan keeps together",
   pluralSlug: "book-collections",
   extends: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

@@ -17,8 +17,8 @@ export const parameters = {
   propertySlug: "parameters",
   definition: "the values a query is given, each with the type it takes",
   properties: [
-    { pagePropertySlug: "text-property/parameter-name", required: true, many: false },
-    { pagePropertySlug: "text-property/parameter-type", required: true, many: false },
+    { pageProperty: "text-property/parameter-name", required: true, many: false },
+    { pageProperty: "text-property/parameter-type", required: true, many: false },
   ],
   invariants: [
     {

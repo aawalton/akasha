@@ -9,7 +9,7 @@ export const tierAchievements = {
   propertySlug: "tier-achievements",
   definition: "the achievements a scribing source's tiers are counted by, one to a line",
   properties: [
-    { pagePropertySlug: "text-property/achievement-name", required: true, many: false },
-    { pagePropertySlug: "number-property/achievement-id", required: true, many: false },
+    { pageProperty: "text-property/achievement-name", required: true, many: false },
+    { pageProperty: "number-property/achievement-id", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

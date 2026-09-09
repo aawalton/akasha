@@ -9,10 +9,10 @@ export const achievements = {
   propertySlug: "achievements",
   definition: "the achievements a heading holds, one achievement to a line",
   properties: [
-    { pagePropertySlug: "number-property/eso-achievement-id", required: true, many: false },
-    { pagePropertySlug: "text-property/achievement-name", required: true, many: false },
-    { pagePropertySlug: "number-property/achievement-points", required: true, many: false },
-    { pagePropertySlug: "number-property/total-steps", required: true, many: false },
+    { pageProperty: "number-property/eso-achievement-id", required: true, many: false },
+    { pageProperty: "text-property/achievement-name", required: true, many: false },
+    { pageProperty: "number-property/achievement-points", required: true, many: false },
+    { pageProperty: "number-property/total-steps", required: true, many: false },
   ],
   invariants: [
     {

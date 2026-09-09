@@ -9,10 +9,10 @@ export const characterReadings = {
   propertySlug: "character-readings",
   definition: "how each name a world's text uses is read as a character, one name to a line",
   properties: [
-    { pagePropertySlug: "text-property/reading-slug", required: true, many: false },
-    { pagePropertySlug: "text-property/reading-name", required: true, many: false },
-    { pagePropertySlug: "text-property/reading-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/character-slug", required: false, many: false },
+    { pageProperty: "text-property/reading-slug", required: true, many: false },
+    { pageProperty: "text-property/reading-name", required: true, many: false },
+    { pageProperty: "text-property/reading-kind", required: true, many: false },
+    { pageProperty: "text-property/character-slug", required: false, many: false },
   ],
   invariants: [
     {

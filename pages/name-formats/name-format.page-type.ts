@@ -25,7 +25,7 @@ export const nameFormat = {
   ],
   extends: ["page-type/module"],
   loadedBy: "module/format-reaching",
-  properties: [{ pagePropertySlug: "code-file-property/test", required: true, many: false }],
+  properties: [{ pageProperty: "code-file-property/test", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

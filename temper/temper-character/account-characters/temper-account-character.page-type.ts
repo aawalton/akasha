@@ -23,12 +23,12 @@ export const temperAccountCharacter = {
     "text-property/live-build-id",
   ],
   properties: [
-    { pagePropertySlug: "text-property/eso-character-id", required: true, many: false },
-    { pagePropertySlug: "text-property/account-page", required: true, many: false },
-    { pagePropertySlug: "text-property/first-name", required: false, many: false },
-    { pagePropertySlug: "text-property/live-build-id", required: false, many: false },
+    { pageProperty: "text-property/eso-character-id", required: true, many: false },
+    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "text-property/first-name", required: false, many: false },
+    { pageProperty: "text-property/live-build-id", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/character-roles",
+      pageProperty: "relation-property/character-roles",
       required: false,
       many: true,
       maxCount: null,

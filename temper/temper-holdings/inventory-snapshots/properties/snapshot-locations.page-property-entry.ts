@@ -9,9 +9,9 @@ export const snapshotLocations = {
   propertySlug: "locations",
   definition: "what each bag holder was named and when it was last read, one holder to a line",
   properties: [
-    { pagePropertySlug: "text-property/location-id", required: true, many: false },
-    { pagePropertySlug: "text-property/eso-display-name", required: true, many: false },
-    { pagePropertySlug: "instant-property/last-scanned-at", required: true, many: false },
+    { pageProperty: "text-property/location-id", required: true, many: false },
+    { pageProperty: "text-property/eso-display-name", required: true, many: false },
+    { pageProperty: "instant-property/last-scanned-at", required: true, many: false },
   ],
   invariants: [
     {

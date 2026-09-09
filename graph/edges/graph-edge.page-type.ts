@@ -22,9 +22,9 @@ export const graphEdge = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/index", required: false, many: false },
+    { pageProperty: "relation-property/index", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/attributes",
+      pageProperty: "relation-property/attributes",
       required: false,
       many: true,
       maxCount: null,

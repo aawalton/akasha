@@ -21,12 +21,12 @@ export const telnyxAccount = {
   ],
   properties: [
     {
-      pagePropertySlug: "phone-number-property/telnyx-account-from-number",
+      pageProperty: "phone-number-property/telnyx-account-from-number",
       required: true,
       many: false,
     },
     {
-      pagePropertySlug: "text-property/telnyx-account-api-key",
+      pageProperty: "text-property/telnyx-account-api-key",
       required: false,
       many: false,
       secret: true,

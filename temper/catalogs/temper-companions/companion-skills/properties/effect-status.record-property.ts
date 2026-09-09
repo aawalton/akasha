@@ -18,9 +18,9 @@ export const effectStatus = {
   propertySlug: "status",
   definition: "the status an effect applies, and how long it holds",
   properties: [
-    { pagePropertySlug: "text-property/status-name", required: false, many: false },
-    { pagePropertySlug: "number-property/duration", required: false, many: false },
-    { pagePropertySlug: "number-property/status-magnitude", required: false, many: false },
-    { pagePropertySlug: "number-property/status-distance", required: false, many: false },
+    { pageProperty: "text-property/status-name", required: false, many: false },
+    { pageProperty: "number-property/duration", required: false, many: false },
+    { pageProperty: "number-property/status-magnitude", required: false, many: false },
+    { pageProperty: "number-property/status-distance", required: false, many: false },
   ],
 } as const satisfies RecordProperty

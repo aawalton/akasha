@@ -23,9 +23,9 @@ export const temperDungeon = {
     "text-property/solo-difficulty",
   ],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "relation-property/quest-giver", required: true, many: false },
-    { pagePropertySlug: "number-property/rotation-position", required: true, many: false },
-    { pagePropertySlug: "text-property/solo-difficulty", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "relation-property/quest-giver", required: true, many: false },
+    { pageProperty: "number-property/rotation-position", required: true, many: false },
+    { pageProperty: "text-property/solo-difficulty", required: true, many: false },
   ],
 } as const satisfies PageType

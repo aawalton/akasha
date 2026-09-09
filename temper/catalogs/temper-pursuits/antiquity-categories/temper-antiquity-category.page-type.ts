@@ -24,8 +24,8 @@ export const temperAntiquityCategory = {
     "text-property/antiquity-name",
   ],
   properties: [
-    { pagePropertySlug: "number-property/eso-antiquity-category-id", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/antiquities", required: true, many: false },
+    { pageProperty: "number-property/eso-antiquity-category-id", required: true, many: false },
+    { pageProperty: "page-property-entry/antiquities", required: true, many: false },
   ],
   invariants: [
     {

@@ -14,7 +14,5 @@ export const temperAlliance = {
   pluralSlug: "temper-alliances",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-alliance-id"],
-  properties: [
-    { pagePropertySlug: "number-property/eso-alliance-id", required: true, many: false },
-  ],
+  properties: [{ pageProperty: "number-property/eso-alliance-id", required: true, many: false }],
 } as const satisfies PageType

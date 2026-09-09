@@ -28,11 +28,11 @@ export const lualib = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/code", required: true, many: false },
-    { pagePropertySlug: "code-file-property/lua50-code", required: false, many: false },
-    { pagePropertySlug: "code-file-property/compiled-lua", required: false, many: false },
-    { pagePropertySlug: "text-property/lua-export", required: true, many: false },
-    { pagePropertySlug: "text-property/lua-feature", required: false, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false },
+    { pageProperty: "code-file-property/lua50-code", required: false, many: false },
+    { pageProperty: "code-file-property/compiled-lua", required: false, many: false },
+    { pageProperty: "text-property/lua-export", required: true, many: false },
+    { pageProperty: "text-property/lua-feature", required: false, many: false },
   ],
   invariants: [
     {

@@ -35,18 +35,18 @@ export const heldAddon = {
     "text-property/ti-clean-blocked-reason",
   ],
   properties: [
-    { pagePropertySlug: "text-property/addon-name", required: true, many: false },
-    { pagePropertySlug: "relation-property/eso-addon", required: true, many: false },
-    { pagePropertySlug: "text-property/addon-kind", required: true, many: false },
-    { pagePropertySlug: "number-property/held-by", required: true, many: false },
+    { pageProperty: "text-property/addon-name", required: true, many: false },
+    { pageProperty: "relation-property/eso-addon", required: true, many: false },
+    { pageProperty: "text-property/addon-kind", required: true, many: false },
+    { pageProperty: "number-property/held-by", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/adjacents",
+      pageProperty: "relation-property/adjacents",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "boolean-property/ti-clean", required: false, many: false },
-    { pagePropertySlug: "text-property/ti-clean-blocked-reason", required: false, many: false },
+    { pageProperty: "boolean-property/ti-clean", required: false, many: false },
+    { pageProperty: "text-property/ti-clean-blocked-reason", required: false, many: false },
   ],
   invariants: [
     {

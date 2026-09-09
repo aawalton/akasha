@@ -19,9 +19,9 @@ export const replacementPatterns = {
   propertySlug: "replacement-patterns",
   definition: "each construction a banned term is written in, with the one written in its place",
   properties: [
-    { pagePropertySlug: "relation-property/prose-frame", required: true, many: false },
-    { pagePropertySlug: "text-property/from-pattern", required: true, many: false },
-    { pagePropertySlug: "text-property/to-pattern", required: true, many: false },
+    { pageProperty: "relation-property/prose-frame", required: true, many: false },
+    { pageProperty: "text-property/from-pattern", required: true, many: false },
+    { pageProperty: "text-property/to-pattern", required: true, many: false },
   ],
   invariants: [
     {

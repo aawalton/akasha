@@ -14,5 +14,5 @@ export const esoOptInList = {
   pluralSlug: "eso-opt-in-lists",
   parts: ["file-property/tokens"],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/tokens", required: true, many: false }],
+  properties: [{ pageProperty: "file-property/tokens", required: true, many: false }],
 } as const satisfies PageType

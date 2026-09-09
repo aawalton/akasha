@@ -17,8 +17,8 @@ export const temperCharacterThing = {
   extends: ["page-type/temper-thing"],
   parts: ["file-property/completion", "text-property/target-build-id"],
   properties: [
-    { pagePropertySlug: "file-property/completion", required: false, many: false },
-    { pagePropertySlug: "text-property/target-build-id", required: false, many: false },
+    { pageProperty: "file-property/completion", required: false, many: false },
+    { pageProperty: "text-property/target-build-id", required: false, many: false },
   ],
   invariants: [
     {

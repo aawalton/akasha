@@ -20,6 +20,6 @@ export const changeMechanicalFileContent = {
   ],
   extends: ["page-type/change-mechanical"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
   ],
 } as const satisfies PageType

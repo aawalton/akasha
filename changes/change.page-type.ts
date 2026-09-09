@@ -46,15 +46,15 @@ export const change = {
     "module/key-requiring",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-kind", required: true, many: false },
-    { pagePropertySlug: "relation-property/change-mode", required: true, many: false },
+    { pageProperty: "relation-property/change-kind", required: true, many: false },
+    { pageProperty: "relation-property/change-mode", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-type",
+      pageProperty: "relation-property/change-target-type",
       required: false,
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/change-target-subtype",
+      pageProperty: "relation-property/change-target-subtype",
       required: false,
       many: false,
     },

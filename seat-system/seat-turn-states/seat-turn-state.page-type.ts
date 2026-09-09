@@ -19,9 +19,7 @@ export const seatTurnState = {
     "seat-turn-state/stopped",
     "seat-turn-state/working",
   ],
-  properties: [
-    { pagePropertySlug: "relation-property/turn-state-color", required: true, many: false },
-  ],
+  properties: [{ pageProperty: "relation-property/turn-state-color", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

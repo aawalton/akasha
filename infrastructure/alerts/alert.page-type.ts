@@ -35,14 +35,14 @@ export const alert = {
     "text-property/alert-summary",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
-    { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
-    { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
-    { pagePropertySlug: "relation-property/person", required: false, many: false },
-    { pagePropertySlug: "file-property/alert-runbook", required: false, many: false },
-    { pagePropertySlug: "relation-property/alert-persona", required: false, many: false },
-    { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/alert-domain", required: false, many: false },
+    { pageProperty: "text-property/alert-summary", required: false, many: false },
+    { pageProperty: "relation-property/person", required: false, many: false },
+    { pageProperty: "file-property/alert-runbook", required: false, many: false },
+    { pageProperty: "relation-property/alert-persona", required: false, many: false },
+    { pageProperty: "text-property/alert-role-slug", required: false, many: false },
   ],
   invariants: [
     {

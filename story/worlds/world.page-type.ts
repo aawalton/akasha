@@ -30,9 +30,9 @@ export const world = {
     "text-property/reading-slug",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/character-readings", required: false, many: false },
-    { pagePropertySlug: "page-property-entry/mechanic-readings", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "page-property-entry/character-readings", required: false, many: false },
+    { pageProperty: "page-property-entry/mechanic-readings", required: false, many: false },
   ],
   invariants: [
     {

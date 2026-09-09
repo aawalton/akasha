@@ -17,8 +17,8 @@ export const tabooSenses = {
   propertySlug: "taboo-senses",
   definition: "the senses a taboo term is never written in, each with what is written instead",
   properties: [
-    { pagePropertySlug: "text-property/sense", required: true, many: false },
-    { pagePropertySlug: "text-property/instead", required: true, many: false },
+    { pageProperty: "text-property/sense", required: true, many: false },
+    { pageProperty: "text-property/instead", required: true, many: false },
   ],
   invariants: [
     {

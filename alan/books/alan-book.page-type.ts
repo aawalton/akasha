@@ -13,7 +13,7 @@ export const alanBook = {
   definition: "one book Alan writes",
   pluralSlug: "alan-books",
   extends: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

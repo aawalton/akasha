@@ -20,10 +20,10 @@ export const effectFormula = {
   propertySlug: "formula",
   definition: "how an effect works out the number it has",
   properties: [
-    { pagePropertySlug: "text-property/formula-kind", required: false, many: false },
-    { pagePropertySlug: "text-property/metric-id", required: false, many: false },
-    { pagePropertySlug: "number-property/coefficient", required: false, many: false },
-    { pagePropertySlug: "text-property/coefficient-type", required: false, many: false },
-    { pagePropertySlug: "number-property/formula-percent", required: false, many: false },
+    { pageProperty: "text-property/formula-kind", required: false, many: false },
+    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "number-property/coefficient", required: false, many: false },
+    { pageProperty: "text-property/coefficient-type", required: false, many: false },
+    { pageProperty: "number-property/formula-percent", required: false, many: false },
   ],
 } as const satisfies RecordProperty

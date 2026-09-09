@@ -17,8 +17,8 @@ export const monarchTag = {
   extends: ["page-type/monarch-record"],
   parts: ["number-property/tag-place", "text-property/tag-colour"],
   properties: [
-    { pagePropertySlug: "text-property/tag-colour", required: true, many: false },
-    { pagePropertySlug: "number-property/tag-place", required: true, many: false },
+    { pageProperty: "text-property/tag-colour", required: true, many: false },
+    { pageProperty: "number-property/tag-place", required: true, many: false },
   ],
   invariants: [
     {

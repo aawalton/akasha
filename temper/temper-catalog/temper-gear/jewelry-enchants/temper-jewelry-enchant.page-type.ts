@@ -11,8 +11,8 @@ export const temperJewelryEnchant = {
   pluralSlug: "temper-jewelry-enchants",
   extends: ["page-type/temper-gear-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "text-property/eso-enchant-constant-name", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/eso-enchant-constant-name", required: true, many: false },
   ],
 } as const satisfies PageType

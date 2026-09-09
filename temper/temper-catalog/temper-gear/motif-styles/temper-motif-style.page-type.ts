@@ -23,8 +23,8 @@ export const temperMotifStyle = {
     "text-property/source-description",
   ],
   properties: [
-    { pagePropertySlug: "number-property/collection-index", required: true, many: false },
-    { pagePropertySlug: "text-property/source-description", required: true, many: false },
-    { pagePropertySlug: "text-property/drop-sources", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/collection-index", required: true, many: false },
+    { pageProperty: "text-property/source-description", required: true, many: false },
+    { pageProperty: "text-property/drop-sources", required: false, many: true, maxCount: null },
   ],
 } as const satisfies PageType

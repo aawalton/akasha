@@ -34,25 +34,25 @@ export const fitnessCoachingNote = {
   ],
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "boolean-property/fitness-coaching-note-active",
+      pageProperty: "boolean-property/fitness-coaching-note-active",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, maxCount: null },
-    { pagePropertySlug: "select-property/fitness-coaching-note-kind", required: true, many: false },
+    { pageProperty: "select-property/focus-tags", required: true, many: true, maxCount: null },
+    { pageProperty: "select-property/fitness-coaching-note-kind", required: true, many: false },
     {
-      pagePropertySlug: "calendar-date-property/fitness-coaching-note-date",
+      pageProperty: "calendar-date-property/fitness-coaching-note-date",
       required: false,
       many: false,
     },
     {
-      pagePropertySlug: "number-property/fitness-coaching-note-sort-order",
+      pageProperty: "number-property/fitness-coaching-note-sort-order",
       required: false,
       many: false,
     },
-    { pagePropertySlug: "file-property/says", required: false, many: false },
+    { pageProperty: "file-property/says", required: false, many: false },
   ],
   invariants: [
     {

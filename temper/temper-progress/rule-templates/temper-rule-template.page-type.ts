@@ -11,13 +11,13 @@ export const temperRuleTemplate = {
   pluralSlug: "temper-rule-templates",
   extends: ["page-type/temper-rule"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "text-property/category-id", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "relation-property/action", required: true, many: false },
-    { pagePropertySlug: "boolean-property/active", required: true, many: false },
-    { pagePropertySlug: "relation-property/goal", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "text-property/category-id", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "relation-property/action", required: true, many: false },
+    { pageProperty: "boolean-property/active", required: true, many: false },
+    { pageProperty: "relation-property/goal", required: true, many: false },
   ],
   invariants: [
     {

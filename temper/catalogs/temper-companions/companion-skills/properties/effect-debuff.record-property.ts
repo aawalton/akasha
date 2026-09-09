@@ -18,9 +18,9 @@ export const effectDebuff = {
   propertySlug: "debuff",
   definition: "the harmful effect an effect lays on, and how long it holds",
   properties: [
-    { pagePropertySlug: "text-property/debuff-name", required: false, many: false },
-    { pagePropertySlug: "number-property/duration", required: false, many: false },
-    { pagePropertySlug: "number-property/effect-value", required: false, many: false },
-    { pagePropertySlug: "text-property/value-type", required: false, many: false },
+    { pageProperty: "text-property/debuff-name", required: false, many: false },
+    { pageProperty: "number-property/duration", required: false, many: false },
+    { pageProperty: "number-property/effect-value", required: false, many: false },
+    { pageProperty: "text-property/value-type", required: false, many: false },
   ],
 } as const satisfies RecordProperty

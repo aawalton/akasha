@@ -39,14 +39,14 @@ export const storyElementPlayed = {
     "text-property/wanting",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/played-story", required: true, many: false },
-    { pagePropertySlug: "select-property/element-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/perceiving", required: true, many: false },
-    { pagePropertySlug: "text-property/knowing", required: true, many: false },
-    { pagePropertySlug: "text-property/feeling", required: true, many: false },
-    { pagePropertySlug: "text-property/wanting", required: true, many: false },
-    { pagePropertySlug: "text-property/doing", required: true, many: false },
-    { pagePropertySlug: "file-property/turn-states", required: false, many: false },
+    { pageProperty: "relation-property/played-story", required: true, many: false },
+    { pageProperty: "select-property/element-kind", required: true, many: false },
+    { pageProperty: "text-property/perceiving", required: true, many: false },
+    { pageProperty: "text-property/knowing", required: true, many: false },
+    { pageProperty: "text-property/feeling", required: true, many: false },
+    { pageProperty: "text-property/wanting", required: true, many: false },
+    { pageProperty: "text-property/doing", required: true, many: false },
+    { pageProperty: "file-property/turn-states", required: false, many: false },
   ],
   invariants: [
     {

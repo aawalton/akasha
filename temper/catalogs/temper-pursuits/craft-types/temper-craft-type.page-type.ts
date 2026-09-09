@@ -14,9 +14,7 @@ export const temperCraftType = {
   pluralSlug: "temper-craft-types",
   extends: ["page-type/temper-pursuit-thing"],
   parts: ["number-property/eso-craft-type-id"],
-  properties: [
-    { pagePropertySlug: "number-property/eso-craft-type-id", required: true, many: false },
-  ],
+  properties: [{ pageProperty: "number-property/eso-craft-type-id", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

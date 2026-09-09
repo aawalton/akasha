@@ -21,7 +21,7 @@ export const unit = {
     "unit/words",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "number-property/words", required: true, many: false }],
+  properties: [{ pageProperty: "number-property/words", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

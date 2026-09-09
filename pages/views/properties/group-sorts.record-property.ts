@@ -17,8 +17,8 @@ export const groupSorts = {
   propertySlug: "group-sorts",
   definition: "the keys a view orders its groups by, each with the way it runs",
   properties: [
-    { pagePropertySlug: "text-property/sort-key", required: true, many: false },
-    { pagePropertySlug: "boolean-property/sort-descending", required: true, many: false },
+    { pageProperty: "text-property/sort-key", required: true, many: false },
+    { pageProperty: "boolean-property/sort-descending", required: true, many: false },
   ],
   invariants: [
     {

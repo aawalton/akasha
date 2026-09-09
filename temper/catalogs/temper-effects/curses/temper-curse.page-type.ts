@@ -15,10 +15,10 @@ export const temperCurse = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-curse-ids"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
     {
-      pagePropertySlug: "number-property/eso-curse-ids",
+      pageProperty: "number-property/eso-curse-ids",
       required: false,
       many: true,
       maxCount: null,

@@ -10,7 +10,7 @@ export const temperItemAction = {
   definition: "one thing an item rule does to an item the rule matches",
   pluralSlug: "temper-item-actions",
   extends: ["page-type/temper-progress-thing"],
-  properties: [{ pagePropertySlug: "text-property/description", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/description", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

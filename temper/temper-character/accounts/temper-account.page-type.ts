@@ -17,7 +17,7 @@ export const temperAccount = {
   extends: ["page-type/temper-character-thing"],
   parts: ["text-property/eso-display-name", "text-property/world-name"],
   properties: [
-    { pagePropertySlug: "text-property/eso-display-name", required: false, many: false },
-    { pagePropertySlug: "text-property/world-name", required: false, many: false },
+    { pageProperty: "text-property/eso-display-name", required: false, many: false },
+    { pageProperty: "text-property/world-name", required: false, many: false },
   ],
 } as const satisfies PageType

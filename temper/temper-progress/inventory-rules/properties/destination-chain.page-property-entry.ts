@@ -9,9 +9,9 @@ export const destinationChain = {
   propertySlug: "destination-chain",
   definition: "where a rule puts an item, one leg to a line",
   properties: [
-    { pagePropertySlug: "text-property/destination", required: true, many: false },
-    { pagePropertySlug: "number-property/target-quantity", required: false, many: false },
-    { pagePropertySlug: "text-property/char-eligibility", required: false, many: false },
+    { pageProperty: "text-property/destination", required: true, many: false },
+    { pageProperty: "number-property/target-quantity", required: false, many: false },
+    { pageProperty: "text-property/char-eligibility", required: false, many: false },
   ],
   invariants: [
     {

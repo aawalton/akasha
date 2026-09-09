@@ -23,11 +23,11 @@ export const temperWeaponType = {
     "text-property/eso-weapon-type",
   ],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/enchantment-multiplier", required: true, many: false },
-    { pagePropertySlug: "text-property/eso-weapon-type", required: true, many: false },
-    { pagePropertySlug: "boolean-property/is-two-handed", required: true, many: false },
-    { pagePropertySlug: "number-property/weapon-type-power", required: true, many: false },
-    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/enchantment-multiplier", required: true, many: false },
+    { pageProperty: "text-property/eso-weapon-type", required: true, many: false },
+    { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
+    { pageProperty: "number-property/weapon-type-power", required: true, many: false },
+    { pageProperty: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
 } as const satisfies PageType

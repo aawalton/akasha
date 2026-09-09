@@ -18,10 +18,10 @@ export const turnPending = {
   propertySlug: "turn-pending",
   definition: "what a seat is waiting on before its turn is done",
   properties: [
-    { pagePropertySlug: "boolean-property/compacting", required: true, many: false },
-    { pagePropertySlug: "boolean-property/live-shell", required: true, many: false },
-    { pagePropertySlug: "boolean-property/live-subagent", required: true, many: false },
-    { pagePropertySlug: "boolean-property/send-in-flight", required: true, many: false },
+    { pageProperty: "boolean-property/compacting", required: true, many: false },
+    { pageProperty: "boolean-property/live-shell", required: true, many: false },
+    { pageProperty: "boolean-property/live-subagent", required: true, many: false },
+    { pageProperty: "boolean-property/send-in-flight", required: true, many: false },
   ],
   invariants: [
     {

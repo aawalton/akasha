@@ -28,24 +28,24 @@ export const relationshipTopic = {
     "select-property/relationship-topic-status",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/relationship-topic-parent",
+      pageProperty: "relation-property/relationship-topic-parent",
       required: false,
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/relationship-topic-people",
+      pageProperty: "relation-property/relationship-topic-people",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pagePropertySlug: "select-property/relationship-topic-sensitivity",
+      pageProperty: "select-property/relationship-topic-sensitivity",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "select-property/relationship-topic-status", required: true, many: false },
+    { pageProperty: "select-property/relationship-topic-status", required: true, many: false },
   ],
   invariants: [
     {

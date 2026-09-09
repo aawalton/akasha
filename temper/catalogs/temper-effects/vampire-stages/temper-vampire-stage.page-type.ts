@@ -15,9 +15,9 @@ export const temperVampireStage = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-vampire-stage-id"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-vampire-stage-id", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "number-property/eso-vampire-stage-id", required: true, many: false },
   ],
 } as const satisfies PageType

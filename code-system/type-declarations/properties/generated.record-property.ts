@@ -14,8 +14,8 @@ export const generated = {
   propertySlug: "generated",
   definition: "the command writing a declaration again and the source version it was written from",
   properties: [
-    { pagePropertySlug: "text-property/written-by", required: true, many: false },
-    { pagePropertySlug: "number-property/source-version", required: false, many: false },
+    { pageProperty: "text-property/written-by", required: true, many: false },
+    { pageProperty: "number-property/source-version", required: false, many: false },
   ],
   invariants: [
     {

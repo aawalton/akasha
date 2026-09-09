@@ -25,19 +25,19 @@ export const nestedEffect = {
   propertySlug: "effect",
   definition: "the inner effect a delayed or repeating effect carries",
   properties: [
-    { pagePropertySlug: "text-property/skill-effect-type", required: false, many: false },
-    { pagePropertySlug: "record-property/effect-target", required: false, many: false },
-    { pagePropertySlug: "record-property/effect-formula", required: false, many: false },
-    { pagePropertySlug: "record-property/effect-status", required: false, many: false },
+    { pageProperty: "text-property/skill-effect-type", required: false, many: false },
+    { pageProperty: "record-property/effect-target", required: false, many: false },
+    { pageProperty: "record-property/effect-formula", required: false, many: false },
+    { pageProperty: "record-property/effect-status", required: false, many: false },
     {
-      pagePropertySlug: "record-property/effect-conditions",
+      pageProperty: "record-property/effect-conditions",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "text-property/damage-type", required: false, many: false },
-    { pagePropertySlug: "number-property/duration", required: false, many: false },
-    { pagePropertySlug: "record-property/nested-effect", required: false, many: false },
+    { pageProperty: "text-property/damage-type", required: false, many: false },
+    { pageProperty: "number-property/duration", required: false, many: false },
+    { pageProperty: "record-property/nested-effect", required: false, many: false },
   ],
   invariants: [
     {

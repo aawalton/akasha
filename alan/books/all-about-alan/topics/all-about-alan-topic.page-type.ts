@@ -27,21 +27,21 @@ export const allAboutAlanTopic = {
     "text-property/topic-settled",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/topic-parents",
+      pageProperty: "relation-property/topic-parents",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pagePropertySlug: "relation-property/topic-related",
+      pageProperty: "relation-property/topic-related",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
+    { pageProperty: "text-property/topic-settled", required: false, many: false },
   ],
   invariants: [
     {

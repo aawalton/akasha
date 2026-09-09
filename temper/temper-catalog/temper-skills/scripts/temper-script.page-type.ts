@@ -14,5 +14,5 @@ export const temperScript = {
   pluralSlug: "temper-scripts",
   extends: ["page-type/temper-scribing-thing"],
   parts: ["text-property/slot-type"],
-  properties: [{ pagePropertySlug: "text-property/slot-type", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/slot-type", required: true, many: false }],
 } as const satisfies PageType

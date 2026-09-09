@@ -11,9 +11,9 @@ export const temperCompanionSkillLine = {
   pluralSlug: "temper-companion-skill-lines",
   extends: ["page-type/temper-companion-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/companion-id", required: true, many: false },
-    { pagePropertySlug: "text-property/category", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/companion-id", required: true, many: false },
+    { pageProperty: "text-property/category", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
   ],
 } as const satisfies PageType

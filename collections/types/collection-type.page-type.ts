@@ -21,10 +21,10 @@ export const collectionType = {
   extends: ["page-type/page"],
   parts: ["select-property/collection-type-status"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/unit-slug", required: false, many: false },
-    { pagePropertySlug: "relation-property/unit-window", required: false, many: false },
-    { pagePropertySlug: "select-property/collection-type-status", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/unit-slug", required: false, many: false },
+    { pageProperty: "relation-property/unit-window", required: false, many: false },
+    { pageProperty: "select-property/collection-type-status", required: true, many: false },
   ],
   invariants: [
     {

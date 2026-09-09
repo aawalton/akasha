@@ -30,11 +30,11 @@ export const doctrine = {
     "number-property/doctrine-version",
   ],
   properties: [
-    { pagePropertySlug: "number-property/doctrine-version", required: true, many: false },
-    { pagePropertySlug: "file-property/policies", required: false, many: false },
-    { pagePropertySlug: "file-property/gate-dimensions", required: false, many: false },
-    { pagePropertySlug: "file-property/sheet-template", required: false, many: false },
-    { pagePropertySlug: "file-property/tally-catalog", required: false, many: false },
+    { pageProperty: "number-property/doctrine-version", required: true, many: false },
+    { pageProperty: "file-property/policies", required: false, many: false },
+    { pageProperty: "file-property/gate-dimensions", required: false, many: false },
+    { pageProperty: "file-property/sheet-template", required: false, many: false },
+    { pageProperty: "file-property/tally-catalog", required: false, many: false },
   ],
   invariants: [
     {

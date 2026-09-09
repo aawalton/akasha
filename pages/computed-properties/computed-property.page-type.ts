@@ -23,7 +23,7 @@ export const computedProperty = {
   pluralSlug: "computed-properties",
   extends: ["page-type/module", "page-type/page-property"],
   parts: ["select-property/holds"],
-  properties: [{ pagePropertySlug: "select-property/holds", required: true, many: false }],
+  properties: [{ pageProperty: "select-property/holds", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,8 +9,8 @@ export const conditions = {
   propertySlug: "conditions",
   definition: "what an item must satisfy for a rule to act, one test to a line",
   properties: [
-    { pagePropertySlug: "relation-property/condition-field", required: true, many: false },
-    { pagePropertySlug: "text-property/condition-value", required: true, many: false },
+    { pageProperty: "relation-property/condition-field", required: true, many: false },
+    { pageProperty: "text-property/condition-value", required: true, many: false },
   ],
   invariants: [
     {

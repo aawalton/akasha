@@ -29,11 +29,11 @@ export const temperEsoCompanion = {
     "text-property/subtitle",
   ],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/subtitle", required: false, many: false },
-    { pagePropertySlug: "text-property/alliance", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-companion-id", required: true, many: false },
-    { pagePropertySlug: "text-property/class-passive-id", required: false, many: false },
-    { pagePropertySlug: "page-property-entry/passive-effects", required: false, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/subtitle", required: false, many: false },
+    { pageProperty: "text-property/alliance", required: true, many: false },
+    { pageProperty: "number-property/eso-companion-id", required: true, many: false },
+    { pageProperty: "text-property/class-passive-id", required: false, many: false },
+    { pageProperty: "page-property-entry/passive-effects", required: false, many: false },
   ],
 } as const satisfies PageType

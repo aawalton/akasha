@@ -17,8 +17,8 @@ export const bookSeries = {
   extends: ["page-type/collection-external"],
   parts: ["select-property/maturity-rating"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "select-property/maturity-rating", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "select-property/maturity-rating", required: false, many: false },
   ],
   invariants: [
     {

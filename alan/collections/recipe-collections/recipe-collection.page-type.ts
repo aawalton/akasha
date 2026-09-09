@@ -13,5 +13,5 @@ export const recipeCollection = {
   definition: "a shelf of recipes Alan keeps together",
   pluralSlug: "recipe-collections",
   extends: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

@@ -29,14 +29,14 @@ export const storyBuild = {
   runsTabooCheck: false,
   parts: ["number-property/build-level", "text-property/class-name", "text-property/game-system"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: false, many: false },
-    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
-    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
-    { pagePropertySlug: "number-property/build-level", required: false, many: false },
-    { pagePropertySlug: "text-property/class-name", required: false, many: false },
-    { pagePropertySlug: "text-property/game-system", required: false, many: false },
-    { pagePropertySlug: "file-property/prose", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/world-window", required: false, many: false },
+    { pageProperty: "number-property/chapter-number", required: false, many: false },
+    { pageProperty: "number-property/build-level", required: false, many: false },
+    { pageProperty: "text-property/class-name", required: false, many: false },
+    { pageProperty: "text-property/game-system", required: false, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

@@ -19,9 +19,9 @@ export const finding = {
   parts: ["text-property/claim", "text-property/evidence"],
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "relation-property/page-domain", required: true, many: false },
-    { pagePropertySlug: "text-property/claim", required: true, many: false },
-    { pagePropertySlug: "text-property/evidence", required: true, many: false },
+    { pageProperty: "relation-property/page-domain", required: true, many: false },
+    { pageProperty: "text-property/claim", required: true, many: false },
+    { pageProperty: "text-property/evidence", required: true, many: false },
   ],
   mortal: true,
   invariants: [

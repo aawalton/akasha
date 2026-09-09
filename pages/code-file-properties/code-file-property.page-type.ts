@@ -23,9 +23,9 @@ export const codeFileProperty = {
   ],
   extends: ["page-type/file-property"],
   properties: [
-    { pagePropertySlug: "number-property/max-cpu-seconds", required: false, many: false },
-    { pagePropertySlug: "number-property/max-wall-seconds", required: false, many: false },
-    { pagePropertySlug: "number-property/max-memory-mb", required: false, many: false },
+    { pageProperty: "number-property/max-cpu-seconds", required: false, many: false },
+    { pageProperty: "number-property/max-wall-seconds", required: false, many: false },
+    { pageProperty: "number-property/max-memory-mb", required: false, many: false },
   ],
   invariants: [
     {

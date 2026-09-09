@@ -22,9 +22,7 @@ export const invariantKind = {
     "relation-property/invariant-group",
   ],
   extends: ["page-type/domain"],
-  properties: [
-    { pagePropertySlug: "relation-property/invariant-group", required: true, many: false },
-  ],
+  properties: [{ pageProperty: "relation-property/invariant-group", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

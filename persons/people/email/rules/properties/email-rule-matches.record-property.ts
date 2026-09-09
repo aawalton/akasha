@@ -19,14 +19,14 @@ export const emailRuleMatches = {
   propertySlug: "matches",
   definition: "which mail a rule applies to, each clause with the field tested and how",
   properties: [
-    { pagePropertySlug: "select-property/email-rule-match-field", required: true, many: false },
+    { pageProperty: "select-property/email-rule-match-field", required: true, many: false },
     {
-      pagePropertySlug: "select-property/email-rule-match-comparison",
+      pageProperty: "select-property/email-rule-match-comparison",
       required: true,
       many: false,
     },
     {
-      pagePropertySlug: "text-property/email-rule-match-values",
+      pageProperty: "text-property/email-rule-match-values",
       required: true,
       many: true,
       maxCount: 50,

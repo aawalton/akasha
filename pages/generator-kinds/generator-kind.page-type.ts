@@ -14,7 +14,7 @@ export const generatorKind = {
   pluralSlug: "generator-kinds",
   parts: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "boolean-property/after-checks", required: true, many: false }],
+  properties: [{ pageProperty: "boolean-property/after-checks", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

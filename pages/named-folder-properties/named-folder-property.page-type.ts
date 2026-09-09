@@ -14,7 +14,7 @@ export const namedFolderProperty = {
   pluralSlug: "named-folder-properties",
   parts: ["text-property/folder-name"],
   extends: ["page-type/page-property"],
-  properties: [{ pagePropertySlug: "text-property/folder-name", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/folder-name", required: true, many: false }],
   invariants: [
     {
       invariantKind: "constraint",

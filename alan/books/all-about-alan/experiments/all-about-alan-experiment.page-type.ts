@@ -19,9 +19,9 @@ export const allAboutAlanExperiment = {
   extends: ["page-type/page"],
   parts: ["file-property/line-set"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
-    { pagePropertySlug: "file-property/line-set", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "file-property/line-set", required: false, many: false },
   ],
   invariants: [
     {

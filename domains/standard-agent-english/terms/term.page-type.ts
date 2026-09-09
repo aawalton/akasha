@@ -19,8 +19,8 @@ export const term = {
   parts: ["text-property/spelling", "text-property/variants"],
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "text-property/spelling", required: true, many: false },
-    { pagePropertySlug: "text-property/variants", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/spelling", required: true, many: false },
+    { pageProperty: "text-property/variants", required: false, many: true, maxCount: null },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
   ],
 } as const satisfies PageType

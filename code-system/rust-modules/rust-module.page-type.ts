@@ -17,8 +17,8 @@ export const rustModule = {
   parts: ["code-file-property/rust", "text-property/rust-module-name"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/rust", required: true, many: false },
-    { pagePropertySlug: "text-property/rust-module-name", required: false, many: false },
+    { pageProperty: "code-file-property/rust", required: true, many: false },
+    { pageProperty: "text-property/rust-module-name", required: false, many: false },
   ],
   invariants: [
     {

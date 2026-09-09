@@ -17,8 +17,8 @@ export const pythonModule = {
   parts: ["code-file-property/python", "build-folder-property/bytecode-directory"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/python", required: true, many: false },
-    { pagePropertySlug: "build-folder-property/bytecode-directory", required: false, many: false },
+    { pageProperty: "code-file-property/python", required: true, many: false },
+    { pageProperty: "build-folder-property/bytecode-directory", required: false, many: false },
   ],
   invariants: [
     {

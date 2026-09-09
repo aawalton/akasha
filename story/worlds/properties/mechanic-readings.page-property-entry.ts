@@ -9,10 +9,10 @@ export const mechanicReadings = {
   propertySlug: "mechanic-readings",
   definition: "how each name a world's text uses is read as a mechanic, one name to a line",
   properties: [
-    { pagePropertySlug: "text-property/reading-slug", required: true, many: false },
-    { pagePropertySlug: "text-property/reading-name", required: true, many: false },
-    { pagePropertySlug: "text-property/reading-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/mechanic-slug", required: false, many: false },
+    { pageProperty: "text-property/reading-slug", required: true, many: false },
+    { pageProperty: "text-property/reading-name", required: true, many: false },
+    { pageProperty: "text-property/reading-kind", required: true, many: false },
+    { pageProperty: "text-property/mechanic-slug", required: false, many: false },
   ],
   invariants: [
     {

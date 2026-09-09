@@ -23,9 +23,9 @@ export const route = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/route-code", required: true, many: false },
-    { pagePropertySlug: "code-file-property/route-test", required: false, many: false },
-    { pagePropertySlug: "text-property/url-path", required: false, many: false },
+    { pageProperty: "code-file-property/route-code", required: true, many: false },
+    { pageProperty: "code-file-property/route-test", required: false, many: false },
+    { pageProperty: "text-property/url-path", required: false, many: false },
   ],
   invariants: [
     {

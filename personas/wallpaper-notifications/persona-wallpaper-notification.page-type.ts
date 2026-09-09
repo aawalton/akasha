@@ -19,13 +19,13 @@ export const personaWallpaperNotification = {
   extends: ["page-type/page"],
   parts: ["relation-property/notification-persona"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/notification-persona",
+      pageProperty: "relation-property/notification-persona",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "number-property/relationship-level", required: true, many: false },
+    { pageProperty: "number-property/relationship-level", required: true, many: false },
   ],
   invariants: [
     {

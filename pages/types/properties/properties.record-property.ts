@@ -12,7 +12,7 @@ import type { Uncommitted } from "./uncommitted.boolean-property.ts"
 
 export type Declaration =
   | {
-      pagePropertySlug: PagePropertySlug
+      pageProperty: PagePropertySlug
       required: Required
       many: false
       default?: DefaultValue
@@ -23,7 +23,7 @@ export type Declaration =
       uniqueProperty?: UniqueProperty
     }
   | {
-      pagePropertySlug: PagePropertySlug
+      pageProperty: PagePropertySlug
       required: Required
       many: true
       maxCount: MaxCount | null
@@ -43,16 +43,16 @@ export const properties = {
   propertySlug: "properties",
   definition: "the properties a page type adds, and the inherited properties it narrows",
   properties: [
-    { pagePropertySlug: "relation-property/page-property-slug", required: true, many: false },
-    { pagePropertySlug: "boolean-property/required", required: true, many: false },
-    { pagePropertySlug: "boolean-property/many", required: true, many: false },
-    { pagePropertySlug: "text-property/default-value", required: false, many: false },
-    { pagePropertySlug: "number-property/max-count", required: false, many: false },
-    { pagePropertySlug: "number-property/max-length", required: false, many: false },
-    { pagePropertySlug: "boolean-property/uncommitted", required: false, many: false },
-    { pagePropertySlug: "boolean-property/secret", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique-property", required: false, many: false },
+    { pageProperty: "relation-property/page-property-slug", required: true, many: false },
+    { pageProperty: "boolean-property/required", required: true, many: false },
+    { pageProperty: "boolean-property/many", required: true, many: false },
+    { pageProperty: "text-property/default-value", required: false, many: false },
+    { pageProperty: "number-property/max-count", required: false, many: false },
+    { pageProperty: "number-property/max-length", required: false, many: false },
+    { pageProperty: "boolean-property/uncommitted", required: false, many: false },
+    { pageProperty: "boolean-property/secret", required: false, many: false },
+    { pageProperty: "relation-property/unique", required: false, many: false },
+    { pageProperty: "relation-property/unique-property", required: false, many: false },
   ],
   invariants: [
     {

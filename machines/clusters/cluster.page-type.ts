@@ -15,7 +15,7 @@ export const cluster = {
   parts: ["cluster/main", "text-property/talos-secrets"],
   extends: ["page-type/host"],
   properties: [
-    { pagePropertySlug: "text-property/talos-secrets", required: false, many: false, secret: true },
+    { pageProperty: "text-property/talos-secrets", required: false, many: false, secret: true },
   ],
   invariants: [
     {

@@ -27,12 +27,12 @@ export const personAccess = {
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/person-access-person",
+      pageProperty: "relation-property/person-access-person",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "relation-property/person-access-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/person-access-target", required: true, many: false },
-    { pagePropertySlug: "text-property/person-access-serves", required: false, many: false },
+    { pageProperty: "relation-property/person-access-kind", required: true, many: false },
+    { pageProperty: "text-property/person-access-target", required: true, many: false },
+    { pageProperty: "text-property/person-access-serves", required: false, many: false },
   ],
 } as const satisfies PageType

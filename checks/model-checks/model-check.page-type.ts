@@ -25,13 +25,13 @@ export const modelCheck = {
   extends: ["page-type/domain"],
   properties: [
     {
-      pagePropertySlug: "relation-property/model-tests",
+      pageProperty: "relation-property/model-tests",
       required: true,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "number-property/patch-runs", required: true, many: false },
-    { pagePropertySlug: "number-property/audit-runs", required: true, many: false },
+    { pageProperty: "number-property/patch-runs", required: true, many: false },
+    { pageProperty: "number-property/audit-runs", required: true, many: false },
   ],
   invariants: [
     {

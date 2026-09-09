@@ -18,8 +18,8 @@ export const manifest = {
   extends: ["page-type/domain"],
   allowsTmpPaths: true,
   properties: [
-    { pagePropertySlug: "code-file-property/manifest-code", required: true, many: false },
-    { pagePropertySlug: "build-folder-property/generated-directory", required: false, many: false },
+    { pageProperty: "code-file-property/manifest-code", required: true, many: false },
+    { pageProperty: "build-folder-property/generated-directory", required: false, many: false },
   ],
   invariants: [
     {

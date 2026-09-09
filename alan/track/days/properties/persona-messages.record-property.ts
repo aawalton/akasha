@@ -17,8 +17,8 @@ export const personaMessages = {
   propertySlug: "persona-messages",
   definition: "how many messages each persona was written on a day",
   properties: [
-    { pagePropertySlug: "relation-property/messaged-persona", required: true, many: false },
-    { pagePropertySlug: "number-property/messages-sent", required: true, many: false },
+    { pageProperty: "relation-property/messaged-persona", required: true, many: false },
+    { pageProperty: "number-property/messages-sent", required: true, many: false },
   ],
   invariants: [
     {

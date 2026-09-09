@@ -36,11 +36,11 @@ export const person = {
     "domain/email",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/answered-by", required: true, many: false },
-    { pagePropertySlug: "phone-number-property/phone", required: false, many: false },
-    { pagePropertySlug: "email-address-property/email-address", required: false, many: false },
-    { pagePropertySlug: "text-property/supabase-auth-user-id", required: false, many: false },
-    { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
+    { pageProperty: "relation-property/answered-by", required: true, many: false },
+    { pageProperty: "phone-number-property/phone", required: false, many: false },
+    { pageProperty: "email-address-property/email-address", required: false, many: false },
+    { pageProperty: "text-property/supabase-auth-user-id", required: false, many: false },
+    { pageProperty: "number-property/bodyweight", required: false, many: false },
   ],
   invariants: [
     {

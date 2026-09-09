@@ -23,11 +23,11 @@ export const storyDesignNote = {
   runsTabooCheck: false,
   parts: ["text-property/note-subject"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: false, many: false },
-    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
-    { pagePropertySlug: "text-property/note-subject", required: false, many: false },
-    { pagePropertySlug: "file-property/prose", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/world-window", required: false, many: false },
+    { pageProperty: "text-property/note-subject", required: false, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

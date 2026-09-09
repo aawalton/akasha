@@ -34,18 +34,18 @@ export const equipmentItem = {
     "text-property/equipment-notes",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "select-property/equipment-category", required: true, many: false },
-    { pagePropertySlug: "select-property/equipment-configuration", required: true, many: false },
-    { pagePropertySlug: "boolean-property/equipment-available", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "select-property/equipment-category", required: true, many: false },
+    { pageProperty: "select-property/equipment-configuration", required: true, many: false },
+    { pageProperty: "boolean-property/equipment-available", required: true, many: false },
     {
-      pagePropertySlug: "number-property/equipment-loads",
+      pageProperty: "number-property/equipment-loads",
       required: false,
       many: true,
       maxCount: 20,
     },
-    { pagePropertySlug: "text-property/equipment-notes", required: false, many: false },
-    { pagePropertySlug: "number-property/equipment-sort-order", required: false, many: false },
+    { pageProperty: "text-property/equipment-notes", required: false, many: false },
+    { pageProperty: "number-property/equipment-sort-order", required: false, many: false },
   ],
   invariants: [
     {

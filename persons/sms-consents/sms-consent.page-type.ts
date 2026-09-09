@@ -34,13 +34,13 @@ export const smsConsent = {
     "text-property/sms-consent-user-agent",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "phone-number-property/sms-consent-phone", required: true, many: false },
-    { pagePropertySlug: "boolean-property/sms-consent-consent", required: true, many: false },
-    { pagePropertySlug: "text-property/sms-consent-text-version", required: true, many: false },
-    { pagePropertySlug: "instant-property/sms-consent-submitted-at", required: true, many: false },
-    { pagePropertySlug: "text-property/sms-consent-ip-address", required: false, many: false },
-    { pagePropertySlug: "text-property/sms-consent-user-agent", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "phone-number-property/sms-consent-phone", required: true, many: false },
+    { pageProperty: "boolean-property/sms-consent-consent", required: true, many: false },
+    { pageProperty: "text-property/sms-consent-text-version", required: true, many: false },
+    { pageProperty: "instant-property/sms-consent-submitted-at", required: true, many: false },
+    { pageProperty: "text-property/sms-consent-ip-address", required: false, many: false },
+    { pageProperty: "text-property/sms-consent-user-agent", required: false, many: false },
   ],
   invariants: [
     {

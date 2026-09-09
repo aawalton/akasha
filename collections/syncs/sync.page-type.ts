@@ -16,7 +16,7 @@ export const sync = {
   parts: ["page-property-entry/sync-runs"],
   properties: [
     {
-      pagePropertySlug: "page-property-entry/sync-runs",
+      pageProperty: "page-property-entry/sync-runs",
       required: true,
       many: true,
       maxCount: null,

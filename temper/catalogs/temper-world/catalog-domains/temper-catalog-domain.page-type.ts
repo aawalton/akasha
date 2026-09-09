@@ -31,16 +31,16 @@ export const temperCatalogDomain = {
     "text-property/generator-ran-for-version",
   ],
   properties: [
-    { pagePropertySlug: "text-property/icon", required: true, many: false },
-    { pagePropertySlug: "text-property/api-version", required: true, many: false },
-    { pagePropertySlug: "number-property/manifest-api-version", required: true, many: false },
-    { pagePropertySlug: "instant-property/captured-at", required: true, many: false },
-    { pagePropertySlug: "text-property/generator-ran-for-version", required: true, many: false },
+    { pageProperty: "text-property/icon", required: true, many: false },
+    { pageProperty: "text-property/api-version", required: true, many: false },
+    { pageProperty: "number-property/manifest-api-version", required: true, many: false },
+    { pageProperty: "instant-property/captured-at", required: true, many: false },
+    { pageProperty: "text-property/generator-ran-for-version", required: true, many: false },
     {
-      pagePropertySlug: "number-property/generator-ran-for-manifest-api-version",
+      pageProperty: "number-property/generator-ran-for-manifest-api-version",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "boolean-property/dormant", required: false, many: false },
+    { pageProperty: "boolean-property/dormant", required: false, many: false },
   ],
 } as const satisfies PageType

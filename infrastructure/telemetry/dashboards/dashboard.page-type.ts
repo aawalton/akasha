@@ -14,7 +14,7 @@ export const dashboard = {
   pluralSlug: "dashboards",
   parts: ["file-property/dashboard-layout"],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/dashboard-layout", required: true, many: false }],
+  properties: [{ pageProperty: "file-property/dashboard-layout", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

@@ -25,9 +25,9 @@ export const temperLoreCollection = {
     "text-property/book-name",
   ],
   properties: [
-    { pagePropertySlug: "number-property/eso-lore-category-id", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-collection-index", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/books", required: true, many: false },
+    { pageProperty: "number-property/eso-lore-category-id", required: true, many: false },
+    { pageProperty: "number-property/eso-collection-index", required: true, many: false },
+    { pageProperty: "page-property-entry/books", required: true, many: false },
   ],
   invariants: [
     {

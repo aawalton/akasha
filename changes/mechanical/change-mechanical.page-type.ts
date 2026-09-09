@@ -21,7 +21,7 @@ export const changeMechanical = {
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/guards",
+      pageProperty: "relation-property/guards",
       required: false,
       many: true,
       maxCount: null,

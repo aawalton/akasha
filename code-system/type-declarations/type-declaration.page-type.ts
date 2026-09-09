@@ -22,8 +22,8 @@ export const typeDeclaration = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/ambient-types", required: true, many: false },
-    { pagePropertySlug: "record-property/generated", required: false, many: false },
+    { pageProperty: "file-property/ambient-types", required: true, many: false },
+    { pageProperty: "record-property/generated", required: false, many: false },
   ],
   invariants: [
     {

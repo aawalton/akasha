@@ -19,9 +19,9 @@ export const narrows = {
   propertySlug: "narrows",
   definition: "what a query tests a page against, each with the key tested and how",
   properties: [
-    { pagePropertySlug: "text-property/narrow-key", required: true, many: false },
-    { pagePropertySlug: "text-property/narrow-comparison", required: true, many: false },
-    { pagePropertySlug: "text-property/narrow-values", required: true, many: true, maxCount: 20 },
+    { pageProperty: "text-property/narrow-key", required: true, many: false },
+    { pageProperty: "text-property/narrow-comparison", required: true, many: false },
+    { pageProperty: "text-property/narrow-values", required: true, many: true, maxCount: 20 },
   ],
   invariants: [
     {

@@ -33,10 +33,10 @@ export const vendoredWorkload = {
     "vendored-workload/metrics-server",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/resource-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/namespace", required: true, many: false },
-    { pagePropertySlug: "text-property/resource-name", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/resource-kind", required: true, many: false },
+    { pageProperty: "text-property/namespace", required: true, many: false },
+    { pageProperty: "text-property/resource-name", required: true, many: false },
   ],
   invariants: [
     {

@@ -26,10 +26,10 @@ export const workspacePackage = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/manifest", required: true, many: false },
-    { pagePropertySlug: "code-file-property/tunnel-routes", required: false, many: false },
-    { pagePropertySlug: "file-property/dockerfile-extensions", required: false, many: false },
-    { pagePropertySlug: "text-property/tool-reached", required: false, many: true, maxCount: null },
+    { pageProperty: "file-property/manifest", required: true, many: false },
+    { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
+    { pageProperty: "file-property/dockerfile-extensions", required: false, many: false },
+    { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

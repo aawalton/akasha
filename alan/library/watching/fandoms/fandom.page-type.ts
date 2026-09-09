@@ -13,5 +13,5 @@ export const fandom = {
   definition: "a world Alan follows across its shows and films",
   pluralSlug: "fandoms",
   extends: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

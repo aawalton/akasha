@@ -26,10 +26,10 @@ export const collectionExternal = {
   ],
   extends: ["page-type/collection"],
   properties: [
-    { pagePropertySlug: "text-property/external-id", required: false, many: false },
-    { pagePropertySlug: "url-property/external-link", required: false, many: false },
-    { pagePropertySlug: "text-property/source", required: false, many: false },
-    { pagePropertySlug: "calendar-date-property/last-synced-at", required: false, many: false },
+    { pageProperty: "text-property/external-id", required: false, many: false },
+    { pageProperty: "url-property/external-link", required: false, many: false },
+    { pageProperty: "text-property/source", required: false, many: false },
+    { pageProperty: "calendar-date-property/last-synced-at", required: false, many: false },
   ],
   invariants: [
     {

@@ -36,9 +36,9 @@ export const changeTargetSubtype = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-subtype-parent",
+      pageProperty: "relation-property/change-target-subtype-parent",
       required: false,
       many: false,
     },

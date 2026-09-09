@@ -21,8 +21,8 @@ export const temperCollectibleCategory = {
     "text-property/collectible-name",
   ],
   properties: [
-    { pagePropertySlug: "number-property/eso-category-index", required: false, many: false },
-    { pagePropertySlug: "page-property-entry/collectibles", required: false, many: false },
+    { pageProperty: "number-property/eso-category-index", required: false, many: false },
+    { pageProperty: "page-property-entry/collectibles", required: false, many: false },
   ],
   invariants: [
     {

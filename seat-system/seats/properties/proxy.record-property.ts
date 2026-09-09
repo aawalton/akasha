@@ -12,9 +12,9 @@ export const proxy = {
   propertySlug: "proxy",
   definition: "the proxy a seat reaches its model through",
   properties: [
-    { pagePropertySlug: "process-property/proxy-process", required: true, many: false },
-    { pagePropertySlug: "number-property/proxy-port", required: true, many: false },
-    { pagePropertySlug: "text-property/proxy-version", required: true, many: false },
+    { pageProperty: "process-property/proxy-process", required: true, many: false },
+    { pageProperty: "number-property/proxy-port", required: true, many: false },
+    { pageProperty: "text-property/proxy-version", required: true, many: false },
   ],
   invariants: [
     {

@@ -15,9 +15,9 @@ export const temperResearchLine = {
   extends: ["page-type/temper-pursuit-thing"],
   parts: ["number-property/trait-index", "page-property-entry/traits", "text-property/trait-name"],
   properties: [
-    { pagePropertySlug: "text-property/parent", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/traits", required: true, many: false },
+    { pageProperty: "text-property/parent", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "page-property-entry/traits", required: true, many: false },
   ],
   invariants: [
     {

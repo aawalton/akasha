@@ -9,8 +9,8 @@ export const qualityValues = {
   propertySlug: "quality-values",
   definition: "what a thing is worth at each grade, one grade to a line",
   properties: [
-    { pagePropertySlug: "text-property/quality", required: true, many: false },
-    { pagePropertySlug: "number-property/quality-value", required: true, many: false },
-    { pagePropertySlug: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "text-property/quality", required: true, many: false },
+    { pageProperty: "number-property/quality-value", required: true, many: false },
+    { pageProperty: "text-property/metric-id", required: false, many: false },
   ],
 } as const satisfies PagePropertyEntry

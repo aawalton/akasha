@@ -17,8 +17,8 @@ export const secret = {
   extends: ["page-type/page"],
   parts: ["record-property/placements", "text-property/resource-key", "text-property/secret-value"],
   properties: [
-    { pagePropertySlug: "record-property/placements", required: true, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/secret-value", required: false, many: false, secret: true },
+    { pageProperty: "record-property/placements", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/secret-value", required: false, many: false, secret: true },
   ],
   invariants: [
     {

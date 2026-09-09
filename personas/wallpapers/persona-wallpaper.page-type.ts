@@ -23,10 +23,10 @@ export const personaWallpaper = {
   extends: ["page-type/persona-image"],
   parts: ["text-property/eso-day"],
   properties: [
-    { pagePropertySlug: "number-property/relationship-level", required: false, many: false },
-    { pagePropertySlug: "text-property/stage", required: false, many: false },
-    { pagePropertySlug: "text-property/eso-day", required: false, many: false },
-    { pagePropertySlug: "text-property/value-slug", required: false, many: false },
+    { pageProperty: "number-property/relationship-level", required: false, many: false },
+    { pageProperty: "text-property/stage", required: false, many: false },
+    { pageProperty: "text-property/eso-day", required: false, many: false },
+    { pageProperty: "text-property/value-slug", required: false, many: false },
   ],
   invariants: [
     {

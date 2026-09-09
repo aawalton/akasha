@@ -31,25 +31,25 @@ export const relationshipDeposit = {
     "select-property/relationship-deposit-size",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "calendar-date-property/relationship-deposit-date",
+      pageProperty: "calendar-date-property/relationship-deposit-date",
       required: true,
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/relationship-deposit-persona",
+      pageProperty: "relation-property/relationship-deposit-persona",
       required: true,
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/relationship-deposit-relationship",
+      pageProperty: "relation-property/relationship-deposit-relationship",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "select-property/relationship-deposit-size", required: true, many: false },
+    { pageProperty: "select-property/relationship-deposit-size", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/relationship-deposit-value",
+      pageProperty: "relation-property/relationship-deposit-value",
       required: true,
       many: false,
     },

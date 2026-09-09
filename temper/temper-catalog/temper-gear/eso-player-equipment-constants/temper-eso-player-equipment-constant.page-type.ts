@@ -19,10 +19,10 @@ export const temperEsoPlayerEquipmentConstant = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-num", "text-property/constant-family", "text-property/constant-id"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "text-property/constant-family", required: true, many: false },
-    { pagePropertySlug: "text-property/constant-id", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-num", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/constant-family", required: true, many: false },
+    { pageProperty: "text-property/constant-id", required: true, many: false },
+    { pageProperty: "number-property/eso-num", required: true, many: false },
   ],
 } as const satisfies PageType

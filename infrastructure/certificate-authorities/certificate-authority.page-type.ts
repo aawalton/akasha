@@ -15,7 +15,7 @@ export const certificateAuthority = {
   parts: ["file-property/authority-certificate"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/authority-certificate", required: true, many: false },
+    { pageProperty: "file-property/authority-certificate", required: true, many: false },
   ],
   invariants: [
     {

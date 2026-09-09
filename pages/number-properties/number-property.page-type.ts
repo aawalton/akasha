@@ -14,5 +14,5 @@ export const numberProperty = {
   pluralSlug: "number-properties",
   extends: ["page-type/page-property"],
   parts: ["number-property/max"],
-  properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
+  properties: [{ pageProperty: "number-property/max", required: true, many: false }],
 } as const satisfies PageType

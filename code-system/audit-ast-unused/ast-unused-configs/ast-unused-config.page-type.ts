@@ -17,8 +17,8 @@ export const astUnusedConfig = {
   parts: ["file-property/workspaces", "file-property/curation"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/workspaces", required: false, many: false },
-    { pagePropertySlug: "file-property/curation", required: false, many: false },
+    { pageProperty: "file-property/workspaces", required: false, many: false },
+    { pageProperty: "file-property/curation", required: false, many: false },
   ],
   invariants: [
     {

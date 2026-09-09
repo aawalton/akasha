@@ -15,7 +15,7 @@ export const audhdalanSubscriber = {
   extends: ["page-type/page"],
   parts: ["email-address-property/subscriber-email"],
   properties: [
-    { pagePropertySlug: "email-address-property/subscriber-email", required: true, many: false },
+    { pageProperty: "email-address-property/subscriber-email", required: true, many: false },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const pagePropertyEntry = {
   extends: ["page-type/page-property"],
   parts: ["text-property/rendered-as"],
   properties: [
-    { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/rendered-as", required: false, many: false },
+    { pageProperty: "record-property/properties", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/rendered-as", required: false, many: false },
   ],
   invariants: [
     {

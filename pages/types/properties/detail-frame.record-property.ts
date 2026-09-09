@@ -16,9 +16,9 @@ export const detailFrame = {
   propertySlug: "frame",
   definition: "how the screen around a page's body behaves while the page is read",
   properties: [
-    { pagePropertySlug: "boolean-property/frame-edge-to-edge", required: false, many: false },
-    { pagePropertySlug: "boolean-property/frame-focus-mode", required: false, many: false },
-    { pagePropertySlug: "record-property/frame-auto-scroll", required: false, many: false },
+    { pageProperty: "boolean-property/frame-edge-to-edge", required: false, many: false },
+    { pageProperty: "boolean-property/frame-focus-mode", required: false, many: false },
+    { pageProperty: "record-property/frame-auto-scroll", required: false, many: false },
   ],
   invariants: [
     {

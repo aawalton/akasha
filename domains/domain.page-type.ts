@@ -43,18 +43,18 @@ export const domain = {
   pluralSlug: "domains",
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
-    { pagePropertySlug: "text-property/plural-slug", required: false, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "text-property/plural-slug", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/part-slugs",
+      pageProperty: "relation-property/part-slugs",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "record-property/directives", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "boolean-property/expands", required: false, many: false },
-    { pagePropertySlug: "relation-property/parts", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/expands", required: false, many: false },
+    { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

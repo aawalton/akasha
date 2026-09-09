@@ -39,10 +39,10 @@ export const codeEditorDataInterface = {
     "workstation-service/code-editor-data-watcher",
   ],
   properties: [
-    { pagePropertySlug: "number-property/cooldown-milliseconds", required: true, many: false },
-    { pagePropertySlug: "file-property/ambient-types", required: true, many: false, default: "ts" },
+    { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },
+    { pageProperty: "file-property/ambient-types", required: true, many: false, default: "ts" },
     {
-      pagePropertySlug: "file-property/state",
+      pageProperty: "file-property/state",
       required: false,
       many: false,
       uncommitted: true,

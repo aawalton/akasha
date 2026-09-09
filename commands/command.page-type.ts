@@ -71,12 +71,12 @@ export const command = {
   extends: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
-    { pagePropertySlug: "relation-property/change-kind", required: true, many: false },
-    { pagePropertySlug: "record-property/taking", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/help-notes", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "number-property/timeout", required: false, many: false },
+    { pageProperty: "relation-property/change-kind", required: true, many: false },
+    { pageProperty: "record-property/taking", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/help-notes", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/timeout", required: false, many: false },
     {
-      pagePropertySlug: "file-property/entries",
+      pageProperty: "file-property/entries",
       required: false,
       many: false,
       uncommitted: true,

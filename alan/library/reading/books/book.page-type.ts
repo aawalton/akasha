@@ -34,13 +34,13 @@ export const book = {
     "text-property/publisher",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/isbn", required: false, many: false },
-    { pagePropertySlug: "text-property/isbn13", required: false, many: false },
-    { pagePropertySlug: "text-property/publisher", required: false, many: false },
-    { pagePropertySlug: "number-property/original-publication-year", required: false, many: false },
-    { pagePropertySlug: "number-property/rating", required: false, many: false },
-    { pagePropertySlug: "number-property/page-count", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/isbn", required: false, many: false },
+    { pageProperty: "text-property/isbn13", required: false, many: false },
+    { pageProperty: "text-property/publisher", required: false, many: false },
+    { pageProperty: "number-property/original-publication-year", required: false, many: false },
+    { pageProperty: "number-property/rating", required: false, many: false },
+    { pageProperty: "number-property/page-count", required: false, many: false },
   ],
   invariants: [
     {

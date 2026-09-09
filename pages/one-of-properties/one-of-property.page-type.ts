@@ -16,7 +16,7 @@ export const oneOfProperty = {
   extends: ["page-type/page-property"],
   properties: [
     {
-      pagePropertySlug: "relation-property/members",
+      pageProperty: "relation-property/members",
       required: true,
       many: true,
       maxCount: null,

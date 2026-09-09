@@ -28,9 +28,9 @@ export const changeKind = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
-    { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
-    { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
+    { pageProperty: "boolean-property/runs-checks", required: true, many: false },
+    { pageProperty: "boolean-property/writer-owes-reading", required: true, many: false },
+    { pageProperty: "boolean-property/readers-owe-reading", required: true, many: false },
   ],
   invariants: [
     {

@@ -11,8 +11,8 @@ export const temperCompanionEquipmentQuality = {
   pluralSlug: "temper-companion-equipment-qualities",
   extends: ["page-type/temper-companion-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "boolean-property/available", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "boolean-property/available", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
   ],
 } as const satisfies PageType

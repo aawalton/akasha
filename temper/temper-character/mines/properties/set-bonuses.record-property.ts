@@ -19,8 +19,8 @@ export const setBonuses = {
   propertySlug: "set-bonuses",
   definition: "what a set gives at each number of pieces worn",
   properties: [
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "boolean-property/is-perfected", required: true, many: false },
-    { pagePropertySlug: "number-property/num-required", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "boolean-property/is-perfected", required: true, many: false },
+    { pageProperty: "number-property/num-required", required: true, many: false },
   ],
 } as const satisfies RecordProperty

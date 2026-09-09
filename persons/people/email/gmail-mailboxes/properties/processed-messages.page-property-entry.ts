@@ -14,11 +14,11 @@ export const processedMessages = {
     "text-property/gmail-message-id",
   ],
   properties: [
-    { pagePropertySlug: "number-property/seq", required: true, many: false },
-    { pagePropertySlug: "text-property/slug", required: true, many: false },
-    { pagePropertySlug: "text-property/gmail-decision", required: true, many: false },
-    { pagePropertySlug: "text-property/gmail-message-id", required: true, many: false },
-    { pagePropertySlug: "instant-property/gmail-processed-at", required: true, many: false },
+    { pageProperty: "number-property/seq", required: true, many: false },
+    { pageProperty: "text-property/slug", required: true, many: false },
+    { pageProperty: "text-property/gmail-decision", required: true, many: false },
+    { pageProperty: "text-property/gmail-message-id", required: true, many: false },
+    { pageProperty: "instant-property/gmail-processed-at", required: true, many: false },
   ],
   invariants: [
     {

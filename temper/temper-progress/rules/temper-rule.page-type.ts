@@ -34,12 +34,12 @@ export const temperRule = {
     "text-property/destination",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/action", required: false, many: false },
-    { pagePropertySlug: "boolean-property/active", required: false, many: false },
-    { pagePropertySlug: "relation-property/goal", required: false, many: false },
-    { pagePropertySlug: "page-property-entry/conditions", required: false, many: false },
-    { pagePropertySlug: "text-property/destination", required: false, many: false },
-    { pagePropertySlug: "select-property/stock-scope", required: false, many: false },
+    { pageProperty: "relation-property/action", required: false, many: false },
+    { pageProperty: "boolean-property/active", required: false, many: false },
+    { pageProperty: "relation-property/goal", required: false, many: false },
+    { pageProperty: "page-property-entry/conditions", required: false, many: false },
+    { pageProperty: "text-property/destination", required: false, many: false },
+    { pageProperty: "select-property/stock-scope", required: false, many: false },
   ],
   invariants: [
     {

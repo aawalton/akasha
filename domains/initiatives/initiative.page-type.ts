@@ -31,12 +31,12 @@ export const initiative = {
   ],
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "relation-property/page-domain", required: true, many: false },
-    { pagePropertySlug: "relation-property/initiative-persona", required: true, many: false },
-    { pagePropertySlug: "relation-property/initiative-parent", required: false, many: false },
-    { pagePropertySlug: "record-property/intents", required: false, many: true, maxCount: null },
+    { pageProperty: "relation-property/page-domain", required: true, many: false },
+    { pageProperty: "relation-property/initiative-persona", required: true, many: false },
+    { pageProperty: "relation-property/initiative-parent", required: false, many: false },
+    { pageProperty: "record-property/intents", required: false, many: true, maxCount: null },
     {
-      pagePropertySlug: "standard-agent-english-property/constraints",
+      pageProperty: "standard-agent-english-property/constraints",
       required: false,
       many: true,
       maxCount: 30,

@@ -21,10 +21,10 @@ export const car = {
   extends: ["page-type/page"],
   parts: ["boolean-property/short-list", "text-property/exclusion-reason", "text-property/sources"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "boolean-property/short-list", required: false, many: false },
-    { pagePropertySlug: "text-property/sources", required: false, many: false },
-    { pagePropertySlug: "text-property/exclusion-reason", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "boolean-property/short-list", required: false, many: false },
+    { pageProperty: "text-property/sources", required: false, many: false },
+    { pageProperty: "text-property/exclusion-reason", required: false, many: false },
   ],
   invariants: [
     {

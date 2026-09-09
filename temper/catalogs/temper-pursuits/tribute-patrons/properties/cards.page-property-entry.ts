@@ -9,9 +9,9 @@ export const cards = {
   propertySlug: "cards",
   definition: "the cards a patron hands out, one card to a line",
   properties: [
-    { pagePropertySlug: "number-property/card-index", required: true, many: false },
-    { pagePropertySlug: "text-property/base-card-name", required: true, many: false },
-    { pagePropertySlug: "text-property/upgrade-card-name", required: true, many: false },
+    { pageProperty: "number-property/card-index", required: true, many: false },
+    { pageProperty: "text-property/base-card-name", required: true, many: false },
+    { pageProperty: "text-property/upgrade-card-name", required: true, many: false },
   ],
   invariants: [
     {

@@ -24,10 +24,10 @@ export const ctwAchievement = {
   runsTabooCheck: false,
   parts: ["number-property/threshold", "text-property/metric"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/scope", required: true, many: false },
-    { pagePropertySlug: "text-property/metric", required: true, many: false },
-    { pagePropertySlug: "number-property/threshold", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/scope", required: true, many: false },
+    { pageProperty: "text-property/metric", required: true, many: false },
+    { pageProperty: "number-property/threshold", required: true, many: false },
   ],
   invariants: [
     {

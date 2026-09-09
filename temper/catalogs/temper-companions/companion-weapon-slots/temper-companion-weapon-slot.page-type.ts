@@ -10,5 +10,5 @@ export const temperCompanionWeaponSlot = {
   definition: "a hand a companion has one weapon in",
   pluralSlug: "temper-companion-weapon-slots",
   extends: ["page-type/temper-companion-thing"],
-  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

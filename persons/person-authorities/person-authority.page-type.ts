@@ -24,11 +24,11 @@ export const personAuthority = {
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/person-authority-person",
+      pageProperty: "relation-property/person-authority-person",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "relation-property/person-authority-kind", required: true, many: false },
-    { pagePropertySlug: "text-property/person-authority-target", required: true, many: false },
+    { pageProperty: "relation-property/person-authority-kind", required: true, many: false },
+    { pageProperty: "text-property/person-authority-target", required: true, many: false },
   ],
 } as const satisfies PageType

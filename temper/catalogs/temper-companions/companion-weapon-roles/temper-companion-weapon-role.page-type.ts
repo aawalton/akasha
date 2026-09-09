@@ -23,16 +23,16 @@ export const temperCompanionWeaponRole = {
     "text-property/weapon-skill-line-id",
   ],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/weapon-skill-line-id", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/weapon-skill-line-id", required: true, many: false },
     {
-      pagePropertySlug: "text-property/valid-main-hand-weapon-types",
+      pageProperty: "text-property/valid-main-hand-weapon-types",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pagePropertySlug: "text-property/valid-off-hand-weapon-types",
+      pageProperty: "text-property/valid-off-hand-weapon-types",
       required: false,
       many: true,
       maxCount: null,

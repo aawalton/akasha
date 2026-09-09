@@ -23,10 +23,10 @@ export const temperTributePatron = {
     "text-property/upgrade-card-name",
   ],
   properties: [
-    { pagePropertySlug: "text-property/category", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-patron-id", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-collectible-id", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/cards", required: true, many: false },
+    { pageProperty: "text-property/category", required: true, many: false },
+    { pageProperty: "number-property/eso-patron-id", required: true, many: false },
+    { pageProperty: "number-property/eso-collectible-id", required: true, many: false },
+    { pageProperty: "page-property-entry/cards", required: true, many: false },
   ],
   invariants: [
     {

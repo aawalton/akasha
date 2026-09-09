@@ -19,9 +19,9 @@ export const questionLinks = {
   propertySlug: "links",
   definition: "a way to open what a question is asking about",
   properties: [
-    { pagePropertySlug: "text-property/link-label", required: true, many: false },
-    { pagePropertySlug: "text-property/link-target", required: true, many: false },
-    { pagePropertySlug: "select-property/link-platform", required: true, many: false },
+    { pageProperty: "text-property/link-label", required: true, many: false },
+    { pageProperty: "text-property/link-target", required: true, many: false },
+    { pageProperty: "select-property/link-platform", required: true, many: false },
   ],
   invariants: [
     {

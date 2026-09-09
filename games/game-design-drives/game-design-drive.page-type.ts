@@ -27,5 +27,5 @@ export const gameDesignDrive = {
     "text-property/octalysis-definition",
     "text-property/octalysis-name",
   ],
-  properties: [{ pagePropertySlug: "record-property/octalysis", required: true, many: false }],
+  properties: [{ pageProperty: "record-property/octalysis", required: true, many: false }],
 } as const satisfies PageType

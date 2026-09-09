@@ -22,9 +22,9 @@ export const changeMechanicalFile = {
     "domain/change-mechanical-file-rename",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-subtype",
+      pageProperty: "relation-property/change-target-subtype",
       required: true,
       many: false,
     },

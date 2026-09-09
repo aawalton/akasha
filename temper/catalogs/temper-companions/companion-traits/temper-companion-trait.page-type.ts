@@ -23,9 +23,9 @@ export const temperCompanionTrait = {
     "text-property/trait-effect-type",
   ],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/metric-id", required: false, many: false },
-    { pagePropertySlug: "text-property/trait-effect-type", required: false, many: false },
-    { pagePropertySlug: "boolean-property/is-reduction", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "text-property/trait-effect-type", required: false, many: false },
+    { pageProperty: "boolean-property/is-reduction", required: true, many: false },
   ],
 } as const satisfies PageType

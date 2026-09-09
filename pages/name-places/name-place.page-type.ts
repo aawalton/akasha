@@ -31,7 +31,7 @@ export const namePlace = {
     "name-place/type-identifier",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "relation-property/name-format", required: true, many: false }],
+  properties: [{ pageProperty: "relation-property/name-format", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

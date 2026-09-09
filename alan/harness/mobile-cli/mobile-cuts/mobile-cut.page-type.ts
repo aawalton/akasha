@@ -33,13 +33,13 @@ export const mobileCut = {
     "text-property/shell-sha",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/app", required: true, many: false },
-    { pagePropertySlug: "number-property/build-number", required: true, many: false },
-    { pagePropertySlug: "text-property/main-sha", required: true, many: false },
-    { pagePropertySlug: "text-property/shell-sha", required: false, many: false },
-    { pagePropertySlug: "text-property/build-input-tree-hash", required: false, many: false },
-    { pagePropertySlug: "instant-property/cut-at", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/app", required: true, many: false },
+    { pageProperty: "number-property/build-number", required: true, many: false },
+    { pageProperty: "text-property/main-sha", required: true, many: false },
+    { pageProperty: "text-property/shell-sha", required: false, many: false },
+    { pageProperty: "text-property/build-input-tree-hash", required: false, many: false },
+    { pageProperty: "instant-property/cut-at", required: true, many: false },
   ],
   invariants: [
     {

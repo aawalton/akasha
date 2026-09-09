@@ -35,23 +35,23 @@ export const esoAddon = {
   ],
   extends: ["page-type/workspace-package"],
   properties: [
-    { pagePropertySlug: "file-property/addon-manifest", required: true, many: false },
-    { pagePropertySlug: "relation-property/bundle-entry", required: false, many: false },
-    { pagePropertySlug: "file-property/bindings", required: false, many: false },
+    { pageProperty: "file-property/addon-manifest", required: true, many: false },
+    { pageProperty: "relation-property/bundle-entry", required: false, many: false },
+    { pageProperty: "file-property/bindings", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/eso-interfaces",
+      pageProperty: "relation-property/eso-interfaces",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pagePropertySlug: "relation-property/lua-modules",
+      pageProperty: "relation-property/lua-modules",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "file-property/addon-git-ignore", required: false, many: false },
-    { pagePropertySlug: "file-property/sibling-manifest", required: false, many: false },
+    { pageProperty: "file-property/addon-git-ignore", required: false, many: false },
+    { pageProperty: "file-property/sibling-manifest", required: false, many: false },
   ],
   invariants: [
     {

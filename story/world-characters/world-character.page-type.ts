@@ -32,13 +32,13 @@ export const worldCharacter = {
     "number-property/max-level",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: false, many: false },
-    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
-    { pagePropertySlug: "number-property/max-level", required: false, many: false },
-    { pagePropertySlug: "number-property/event-count", required: false, many: false },
-    { pagePropertySlug: "number-property/first-chapter", required: false, many: false },
-    { pagePropertySlug: "number-property/last-chapter", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/world", required: false, many: false },
+    { pageProperty: "relation-property/world-window", required: false, many: false },
+    { pageProperty: "number-property/max-level", required: false, many: false },
+    { pageProperty: "number-property/event-count", required: false, many: false },
+    { pageProperty: "number-property/first-chapter", required: false, many: false },
+    { pageProperty: "number-property/last-chapter", required: false, many: false },
   ],
   invariants: [
     {

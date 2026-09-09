@@ -11,7 +11,7 @@ export const frameAutoScroll = {
   slug: "frame-auto-scroll",
   propertySlug: "auto-scroll",
   definition: "where a page is carried to on its own rather than by the reader's hand",
-  properties: [{ pagePropertySlug: "text-property/load-scroll", required: false, many: false }],
+  properties: [{ pageProperty: "text-property/load-scroll", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",

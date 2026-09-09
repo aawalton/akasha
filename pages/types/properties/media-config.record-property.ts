@@ -14,8 +14,8 @@ export const mediaConfig = {
   propertySlug: "media-config",
   definition: "how a page type's pages are rendered as audio and as an image",
   properties: [
-    { pagePropertySlug: "record-property/audio-media", required: false, many: false },
-    { pagePropertySlug: "record-property/image-media", required: false, many: false },
+    { pageProperty: "record-property/audio-media", required: false, many: false },
+    { pageProperty: "record-property/image-media", required: false, many: false },
   ],
   invariants: [
     {

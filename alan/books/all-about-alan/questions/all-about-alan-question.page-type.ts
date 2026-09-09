@@ -18,8 +18,8 @@ export const allAboutAlanQuestion = {
   mortal: true,
   parts: ["relation-property/question-topic", "text-property/open-question"],
   properties: [
-    { pagePropertySlug: "relation-property/question-topic", required: true, many: false },
-    { pagePropertySlug: "text-property/open-question", required: true, many: false },
+    { pageProperty: "relation-property/question-topic", required: true, many: false },
+    { pageProperty: "text-property/open-question", required: true, many: false },
   ],
   invariants: [
     {

@@ -32,7 +32,7 @@ export type SeatNaming = {
 
 function startingPersona(): string | null {
   for (const declared of seat.properties) {
-    if (slugOf(declared.pagePropertySlug) !== PERSONA_SLUG_PROPERTY) continue
+    if (slugOf(declared.pageProperty) !== PERSONA_SLUG_PROPERTY) continue
     return "default" in declared ? declared.default : null
   }
   return null

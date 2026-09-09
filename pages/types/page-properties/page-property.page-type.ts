@@ -31,10 +31,10 @@ export const pageProperty = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "text-property/property-slug", required: true, many: false },
-    { pagePropertySlug: "relation-property/generator", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique-property", required: false, many: false },
+    { pageProperty: "text-property/property-slug", required: true, many: false },
+    { pageProperty: "relation-property/generator", required: false, many: false },
+    { pageProperty: "relation-property/unique", required: false, many: false },
+    { pageProperty: "relation-property/unique-property", required: false, many: false },
   ],
   invariants: [
     {

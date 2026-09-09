@@ -15,9 +15,9 @@ export const temperCompletionCategory = {
   extends: ["page-type/temper-progress-thing"],
   parts: ["text-property/tab"],
   properties: [
-    { pagePropertySlug: "text-property/node-id", required: true, many: false },
-    { pagePropertySlug: "text-property/tab", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/node-id", required: true, many: false },
+    { pageProperty: "text-property/tab", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
   ],
   invariants: [
     {

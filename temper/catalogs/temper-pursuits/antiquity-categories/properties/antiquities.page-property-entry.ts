@@ -9,10 +9,10 @@ export const antiquities = {
   propertySlug: "antiquities",
   definition: "the antiquities a category has, one antiquity to a line",
   properties: [
-    { pagePropertySlug: "number-property/eso-antiquity-id", required: true, many: false },
-    { pagePropertySlug: "text-property/antiquity-name", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-antiquity-set-id", required: true, many: false },
-    { pagePropertySlug: "number-property/total-lore-entries", required: true, many: false },
+    { pageProperty: "number-property/eso-antiquity-id", required: true, many: false },
+    { pageProperty: "text-property/antiquity-name", required: true, many: false },
+    { pageProperty: "number-property/eso-antiquity-set-id", required: true, many: false },
+    { pageProperty: "number-property/total-lore-entries", required: true, many: false },
   ],
   invariants: [
     {

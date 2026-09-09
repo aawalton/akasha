@@ -19,13 +19,13 @@ export const locationCollection = {
   extends: ["page-type/page"],
   parts: ["file-property/location-collection-description"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "file-property/location-collection-description",
+      pageProperty: "file-property/location-collection-description",
       required: false,
       many: false,
     },
-    { pagePropertySlug: "text-property/icon", required: false, many: false },
+    { pageProperty: "text-property/icon", required: false, many: false },
   ],
   invariants: [
     {

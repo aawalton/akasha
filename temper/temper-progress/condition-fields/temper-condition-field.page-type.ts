@@ -11,8 +11,8 @@ export const temperConditionField = {
   pluralSlug: "temper-condition-fields",
   extends: ["page-type/temper-progress-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
   ],
   invariants: [
     {

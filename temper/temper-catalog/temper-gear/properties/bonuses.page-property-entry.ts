@@ -9,11 +9,11 @@ export const bonuses = {
   propertySlug: "bonuses",
   definition: "what a set gives at each piece count, one count to a line",
   properties: [
-    { pagePropertySlug: "number-property/bonus-count", required: true, many: false },
-    { pagePropertySlug: "text-property/bonus-status", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pageProperty: "number-property/bonus-count", required: true, many: false },
+    { pageProperty: "text-property/bonus-status", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
     {
-      pagePropertySlug: "record-property/bonus-effects",
+      pageProperty: "record-property/bonus-effects",
       required: false,
       many: true,
       maxCount: null,

@@ -34,17 +34,17 @@ export const appearanceExperiment = {
     "select-property/appearance-verdict",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/experiment-persona", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "relation-property/experiment-persona", required: true, many: false },
     {
-      pagePropertySlug: "calendar-date-property/appearance-experiment-day",
+      pageProperty: "calendar-date-property/appearance-experiment-day",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "select-property/appearance-verdict", required: true, many: false },
-    { pagePropertySlug: "file-property/what-tried", required: true, many: false },
-    { pagePropertySlug: "file-property/eye-read", required: true, many: false },
-    { pagePropertySlug: "file-property/felt-read", required: true, many: false },
+    { pageProperty: "select-property/appearance-verdict", required: true, many: false },
+    { pageProperty: "file-property/what-tried", required: true, many: false },
+    { pageProperty: "file-property/eye-read", required: true, many: false },
+    { pageProperty: "file-property/felt-read", required: true, many: false },
   ],
   invariants: [
     {

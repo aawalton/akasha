@@ -18,10 +18,10 @@ export const turnWorking = {
   propertySlug: "turn-working",
   definition: "whether a seat is mid-turn, the byte read to, and the tasks still running",
   properties: [
-    { pagePropertySlug: "boolean-property/active-turn", required: true, many: false },
-    { pagePropertySlug: "number-property/scanned-to", required: true, many: false },
-    { pagePropertySlug: "text-property/open-shells", required: true, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/open-agents", required: true, many: true, maxCount: null },
+    { pageProperty: "boolean-property/active-turn", required: true, many: false },
+    { pageProperty: "number-property/scanned-to", required: true, many: false },
+    { pageProperty: "text-property/open-shells", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/open-agents", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {

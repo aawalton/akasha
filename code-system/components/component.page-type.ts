@@ -23,10 +23,10 @@ export const component = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/component-code", required: true, many: false },
-    { pagePropertySlug: "code-file-property/component-test", required: false, many: false },
+    { pageProperty: "code-file-property/component-code", required: true, many: false },
+    { pageProperty: "code-file-property/component-test", required: false, many: false },
     {
-      pagePropertySlug: "code-file-property/component-test-fixtures",
+      pageProperty: "code-file-property/component-test-fixtures",
       required: false,
       many: false,
     },

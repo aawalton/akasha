@@ -21,10 +21,10 @@ export const kiBook = {
   extends: ["page-type/ki-collection-template"],
   parts: [],
   properties: [
-    { pagePropertySlug: "text-property/isbn", required: false, many: false },
-    { pagePropertySlug: "text-property/isbn13", required: false, many: false },
-    { pagePropertySlug: "text-property/publisher", required: false, many: false },
-    { pagePropertySlug: "number-property/original-publication-year", required: false, many: false },
+    { pageProperty: "text-property/isbn", required: false, many: false },
+    { pageProperty: "text-property/isbn13", required: false, many: false },
+    { pageProperty: "text-property/publisher", required: false, many: false },
+    { pageProperty: "number-property/original-publication-year", required: false, many: false },
   ],
   invariants: [
     {

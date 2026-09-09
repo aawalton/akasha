@@ -14,6 +14,6 @@ export const standardAgentEnglishNonTermKind = {
   pluralSlug: "standard-agent-english-non-term-kinds",
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
+    { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
   ],
 } as const satisfies PageType

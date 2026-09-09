@@ -9,9 +9,9 @@ export const craftingLevels = {
   propertySlug: "crafting-levels",
   definition: "how far each character has come in each craft, one craft to a line",
   properties: [
-    { pagePropertySlug: "text-property/eso-character-id", required: true, many: false },
-    { pagePropertySlug: "number-property/craft-type-id", required: true, many: false },
-    { pagePropertySlug: "number-property/crafting-level", required: true, many: false },
+    { pageProperty: "text-property/eso-character-id", required: true, many: false },
+    { pageProperty: "number-property/craft-type-id", required: true, many: false },
+    { pageProperty: "number-property/crafting-level", required: true, many: false },
   ],
   invariants: [
     {

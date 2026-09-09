@@ -14,7 +14,7 @@ export const personaAnchorImage = {
   pluralSlug: "persona-anchor-images",
   extends: ["page-type/persona-image"],
   parts: ["text-property/grade"],
-  properties: [{ pagePropertySlug: "text-property/grade", required: false, many: false }],
+  properties: [{ pageProperty: "text-property/grade", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",

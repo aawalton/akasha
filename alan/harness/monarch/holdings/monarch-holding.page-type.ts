@@ -32,12 +32,12 @@ export const monarchHolding = {
     "text-property/ticker",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/account", required: true, many: false },
-    { pagePropertySlug: "text-property/security-name", required: true, many: false },
-    { pagePropertySlug: "text-property/ticker", required: true, many: false },
-    { pagePropertySlug: "number-property/quantity", required: true, many: false },
-    { pagePropertySlug: "number-property/cost-basis", required: true, many: false },
-    { pagePropertySlug: "number-property/holding-value", required: true, many: false },
+    { pageProperty: "relation-property/account", required: true, many: false },
+    { pageProperty: "text-property/security-name", required: true, many: false },
+    { pageProperty: "text-property/ticker", required: true, many: false },
+    { pageProperty: "number-property/quantity", required: true, many: false },
+    { pageProperty: "number-property/cost-basis", required: true, many: false },
+    { pageProperty: "number-property/holding-value", required: true, many: false },
   ],
   invariants: [
     {

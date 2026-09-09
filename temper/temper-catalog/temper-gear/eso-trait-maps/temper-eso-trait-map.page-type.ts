@@ -19,10 +19,10 @@ export const temperEsoTraitMap = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-trait-num", "text-property/trait-family", "text-property/trait-id"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "text-property/trait-family", required: true, many: false },
-    { pagePropertySlug: "text-property/trait-id", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-trait-num", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/trait-family", required: true, many: false },
+    { pageProperty: "text-property/trait-id", required: true, many: false },
+    { pageProperty: "number-property/eso-trait-num", required: true, many: false },
   ],
 } as const satisfies PageType

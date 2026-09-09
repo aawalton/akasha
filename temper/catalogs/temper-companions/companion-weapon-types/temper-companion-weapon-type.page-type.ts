@@ -15,9 +15,9 @@ export const temperCompanionWeaponType = {
   extends: ["page-type/temper-companion-thing"],
   parts: ["boolean-property/is-off-hand-only"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "boolean-property/is-off-hand-only", required: true, many: false },
-    { pagePropertySlug: "boolean-property/is-two-handed", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "boolean-property/is-off-hand-only", required: true, many: false },
+    { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
   ],
 } as const satisfies PageType

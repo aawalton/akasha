@@ -27,12 +27,12 @@ export const characterBuild = {
     "text-property/build-correlation-id",
   ],
   properties: [
-    { pagePropertySlug: "text-property/build-hash", required: true, many: false },
-    { pagePropertySlug: "select-property/build-visibility", required: true, many: false },
-    { pagePropertySlug: "text-property/build-correlation-id", required: false, many: false },
-    { pagePropertySlug: "number-property/build-target-count", required: false, many: false },
+    { pageProperty: "text-property/build-hash", required: true, many: false },
+    { pageProperty: "select-property/build-visibility", required: true, many: false },
+    { pageProperty: "text-property/build-correlation-id", required: false, many: false },
+    { pageProperty: "number-property/build-target-count", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/character-roles",
+      pageProperty: "relation-property/character-roles",
       required: false,
       many: true,
       maxCount: null,

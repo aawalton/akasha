@@ -9,8 +9,8 @@ export const collectibles = {
   propertySlug: "collectibles",
   definition: "the collectibles a category holds, one collectible to a line",
   properties: [
-    { pagePropertySlug: "number-property/eso-collectible-id", required: true, many: false },
-    { pagePropertySlug: "text-property/collectible-name", required: true, many: false },
+    { pageProperty: "number-property/eso-collectible-id", required: true, many: false },
+    { pageProperty: "text-property/collectible-name", required: true, many: false },
   ],
   invariants: [
     {

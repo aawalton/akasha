@@ -9,8 +9,8 @@ export const recipes = {
   propertySlug: "recipes",
   definition: "the recipes a list covers, one recipe to a line",
   properties: [
-    { pagePropertySlug: "number-property/recipe-item-id", required: true, many: false },
-    { pagePropertySlug: "text-property/recipe-name", required: true, many: false },
+    { pageProperty: "number-property/recipe-item-id", required: true, many: false },
+    { pageProperty: "text-property/recipe-name", required: true, many: false },
   ],
   invariants: [
     {

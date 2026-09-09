@@ -20,15 +20,15 @@ export const bookSection = {
   parts: ["file-property/chapter-text", "relation-property/section-of"],
   properties: [
     {
-      pagePropertySlug: "text-property/slug",
+      pageProperty: "text-property/slug",
       required: true,
       many: false,
       unique: "page-property",
       uniqueProperty: "relation-property/section-of",
     },
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "file-property/chapter-text", required: true, many: false },
-    { pagePropertySlug: "relation-property/section-of", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "file-property/chapter-text", required: true, many: false },
+    { pageProperty: "relation-property/section-of", required: true, many: false },
   ],
   invariants: [
     {

@@ -15,8 +15,8 @@ export const collectionHeader = {
   propertySlug: "header",
   definition: "what stands above the pages a page gathers",
   properties: [
-    { pagePropertySlug: "boolean-property/header-show-cover", required: false, many: false },
-    { pagePropertySlug: "text-property/header-fields", required: true, many: true, maxCount: null },
+    { pageProperty: "boolean-property/header-show-cover", required: false, many: false },
+    { pageProperty: "text-property/header-fields", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {

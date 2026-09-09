@@ -31,9 +31,9 @@ export const host = {
     "text-property/login-user",
   ],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/host-address", required: false, many: false },
-    { pagePropertySlug: "text-property/login-user", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/host-address", required: false, many: false },
+    { pageProperty: "text-property/login-user", required: false, many: false },
   ],
   invariants: [
     {

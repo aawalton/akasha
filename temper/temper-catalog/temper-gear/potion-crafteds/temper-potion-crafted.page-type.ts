@@ -15,11 +15,11 @@ export const temperPotionCrafted = {
   extends: ["page-type/temper-gear-thing"],
   parts: ["record-property/recipes", "text-property/reagent-names"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "text-property/icon", required: true, many: false },
-    { pagePropertySlug: "text-property/item-level", required: true, many: false },
-    { pagePropertySlug: "number-property/potion-seconds", required: true, many: false },
-    { pagePropertySlug: "record-property/recipes", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "text-property/icon", required: true, many: false },
+    { pageProperty: "text-property/item-level", required: true, many: false },
+    { pageProperty: "number-property/potion-seconds", required: true, many: false },
+    { pageProperty: "record-property/recipes", required: true, many: true, maxCount: null },
   ],
 } as const satisfies PageType

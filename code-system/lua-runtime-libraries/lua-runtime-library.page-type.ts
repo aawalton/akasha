@@ -17,8 +17,8 @@ export const luaRuntimeLibrary = {
   parts: ["file-property/lua50-config", "file-property/universal-config"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/universal-config", required: true, many: false },
-    { pagePropertySlug: "file-property/lua50-config", required: true, many: false },
+    { pageProperty: "file-property/universal-config", required: true, many: false },
+    { pageProperty: "file-property/lua50-config", required: true, many: false },
   ],
   invariants: [
     {

@@ -9,7 +9,7 @@ export const icons = {
   propertySlug: "icons",
   definition: "the icon each piece of a set is shown with, one piece to a line",
   properties: [
-    { pagePropertySlug: "text-property/icon-slot", required: true, many: false },
-    { pagePropertySlug: "text-property/icon", required: true, many: false },
+    { pageProperty: "text-property/icon-slot", required: true, many: false },
+    { pageProperty: "text-property/icon", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

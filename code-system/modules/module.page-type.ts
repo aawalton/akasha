@@ -26,10 +26,10 @@ export const module = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "code-file-property/code", required: true, many: false },
-    { pagePropertySlug: "file-property/module-types", required: false, many: false },
-    { pagePropertySlug: "code-file-property/test", required: false, many: false },
-    { pagePropertySlug: "code-file-property/test-fixtures", required: false, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false },
+    { pageProperty: "file-property/module-types", required: false, many: false },
+    { pageProperty: "code-file-property/test", required: false, many: false },
+    { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
   ],
   invariants: [
     {

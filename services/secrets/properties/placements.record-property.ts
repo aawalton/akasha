@@ -17,8 +17,8 @@ export const placements = {
   propertySlug: "placements",
   definition: "the resources a secret's value is put into, and the key it sits under in each",
   properties: [
-    { pagePropertySlug: "text-property/resource-name", required: true, many: false },
-    { pagePropertySlug: "text-property/resource-key", required: true, many: false },
+    { pageProperty: "text-property/resource-name", required: true, many: false },
+    { pageProperty: "text-property/resource-key", required: true, many: false },
   ],
   invariants: [
     {

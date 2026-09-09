@@ -16,7 +16,7 @@ export const storyTurnPlayed = {
   pluralSlug: "story-turns-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  properties: [{ pagePropertySlug: "file-property/prose", required: true, many: false }],
+  properties: [{ pageProperty: "file-property/prose", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

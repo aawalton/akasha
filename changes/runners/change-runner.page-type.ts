@@ -23,8 +23,8 @@ export const changeRunner = {
   ],
   extends: ["page-type/module"],
   properties: [
-    { pagePropertySlug: "file-property/addressed", required: true, many: false },
-    { pagePropertySlug: "relation-property/reached", required: true, many: false },
+    { pageProperty: "file-property/addressed", required: true, many: false },
+    { pageProperty: "relation-property/reached", required: true, many: false },
   ],
   invariants: [
     {

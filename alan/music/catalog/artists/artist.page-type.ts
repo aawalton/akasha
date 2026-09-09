@@ -19,8 +19,8 @@ export const artist = {
   extends: ["page-type/collection-external"],
   parts: ["file-property/reaction", "text-property/artist-genre"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "file-property/reaction", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/artist-genre", required: false, many: true, maxCount: null },
+    { pageProperty: "file-property/reaction", required: false, many: false },
   ],
 } as const satisfies PageType

@@ -13,5 +13,5 @@ export const restaurantCollection = {
   definition: "a shelf of restaurants Alan keeps together",
   pluralSlug: "restaurant-collections",
   extends: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

@@ -9,9 +9,9 @@ export const bagSizes = {
   propertySlug: "bag-sizes",
   definition: "how many slots each bag of each holder has, one bag to a line",
   properties: [
-    { pagePropertySlug: "text-property/location-id", required: true, many: false },
-    { pagePropertySlug: "number-property/bag", required: true, many: false },
-    { pagePropertySlug: "number-property/bag-size", required: true, many: false },
+    { pageProperty: "text-property/location-id", required: true, many: false },
+    { pageProperty: "number-property/bag", required: true, many: false },
+    { pageProperty: "number-property/bag-size", required: true, many: false },
   ],
   invariants: [
     {

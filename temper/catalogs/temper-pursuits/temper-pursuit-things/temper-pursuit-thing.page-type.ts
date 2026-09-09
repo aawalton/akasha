@@ -15,7 +15,7 @@ export const temperPursuitThing = {
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-collectible-id"],
   properties: [
-    { pagePropertySlug: "number-property/eso-collectible-id", required: false, many: false },
+    { pageProperty: "number-property/eso-collectible-id", required: false, many: false },
   ],
   invariants: [
     {

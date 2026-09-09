@@ -20,9 +20,9 @@ export const temperAchievementCategory = {
     "page-property-entry/achievements",
   ],
   properties: [
-    { pagePropertySlug: "text-property/category", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/achievements", required: false, many: false },
+    { pageProperty: "text-property/category", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "page-property-entry/achievements", required: false, many: false },
   ],
   invariants: [
     {

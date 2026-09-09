@@ -9,11 +9,11 @@ export const currencies = {
   propertySlug: "currencies",
   definition: "how much of each currency is held, one purse to a line",
   properties: [
-    { pagePropertySlug: "text-property/currency-scope", required: true, many: false },
-    { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
-    { pagePropertySlug: "relation-property/currency-key", required: true, many: false },
-    { pagePropertySlug: "number-property/currency-amount", required: true, many: false },
-    { pagePropertySlug: "instant-property/last-scanned-at", required: false, many: false },
+    { pageProperty: "text-property/currency-scope", required: true, many: false },
+    { pageProperty: "text-property/eso-character-id", required: false, many: false },
+    { pageProperty: "relation-property/currency-key", required: true, many: false },
+    { pageProperty: "number-property/currency-amount", required: true, many: false },
+    { pageProperty: "instant-property/last-scanned-at", required: false, many: false },
   ],
   invariants: [
     {

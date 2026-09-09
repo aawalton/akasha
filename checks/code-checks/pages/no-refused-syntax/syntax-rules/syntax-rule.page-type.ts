@@ -46,7 +46,7 @@ export const syntaxRule = {
   ],
   extends: ["page-type/module"],
   loadedBy: "code-check/no-refused-syntax",
-  properties: [{ pagePropertySlug: "code-file-property/test", required: true, many: false }],
+  properties: [{ pageProperty: "code-file-property/test", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

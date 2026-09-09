@@ -24,14 +24,14 @@ export const tabooTerm = {
   ],
   extends: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "text-property/pattern", required: true, many: false },
+    { pageProperty: "text-property/pattern", required: true, many: false },
     {
-      pagePropertySlug: "record-property/taboo-senses",
+      pageProperty: "record-property/taboo-senses",
       required: true,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "text-property/kept-senses", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/kept-senses", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const color = {
   extends: ["page-type/page"],
   parts: ["text-property/hex"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/hex", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/hex", required: false, many: false },
   ],
   invariants: [
     {

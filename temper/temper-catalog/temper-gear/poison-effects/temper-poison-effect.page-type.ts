@@ -19,9 +19,9 @@ export const temperPoisonEffect = {
   extends: ["page-type/temper-gear-thing"],
   parts: ["boolean-property/is-positive", "number-property/cooldown", "text-property/opposite-id"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/opposite-id", required: true, many: false },
-    { pagePropertySlug: "boolean-property/is-positive", required: false, many: false },
-    { pagePropertySlug: "number-property/cooldown", required: false, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/opposite-id", required: true, many: false },
+    { pageProperty: "boolean-property/is-positive", required: false, many: false },
+    { pageProperty: "number-property/cooldown", required: false, many: false },
   ],
 } as const satisfies PageType

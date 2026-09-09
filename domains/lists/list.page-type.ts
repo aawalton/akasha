@@ -16,7 +16,7 @@ export const list = {
   parts: ["record-property/list-members", "text-property/member-name"],
   properties: [
     {
-      pagePropertySlug: "record-property/list-members",
+      pageProperty: "record-property/list-members",
       required: true,
       many: true,
       maxCount: null,

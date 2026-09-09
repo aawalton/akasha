@@ -17,8 +17,8 @@ export const heardMusic = {
   extends: ["page-type/page"],
   parts: ["page-property-entry/tracks"],
   properties: [
-    { pagePropertySlug: "relation-property/person", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/tracks", required: true, many: false },
+    { pageProperty: "relation-property/person", required: true, many: false },
+    { pageProperty: "page-property-entry/tracks", required: true, many: false },
   ],
   invariants: [
     {

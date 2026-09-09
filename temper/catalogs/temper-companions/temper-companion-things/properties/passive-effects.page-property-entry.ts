@@ -9,7 +9,7 @@ export const passiveEffects = {
   propertySlug: "passive-effects",
   definition: "what a companion's own passive moves, one metric to a line",
   properties: [
-    { pagePropertySlug: "text-property/metric-id", required: true, many: false },
-    { pagePropertySlug: "number-property/effect-value", required: true, many: false },
+    { pageProperty: "text-property/metric-id", required: true, many: false },
+    { pageProperty: "number-property/effect-value", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

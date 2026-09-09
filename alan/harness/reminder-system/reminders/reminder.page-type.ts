@@ -30,12 +30,12 @@ export const reminder = {
     "text-property/reminder-text",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/sent-to", required: true, many: false },
-    { pagePropertySlug: "relation-property/sent-from", required: true, many: false },
-    { pagePropertySlug: "text-property/reminder-schedule", required: true, many: false },
-    { pagePropertySlug: "text-property/reminder-text", required: true, many: false },
+    { pageProperty: "relation-property/sent-to", required: true, many: false },
+    { pageProperty: "relation-property/sent-from", required: true, many: false },
+    { pageProperty: "text-property/reminder-schedule", required: true, many: false },
+    { pageProperty: "text-property/reminder-text", required: true, many: false },
     {
-      pagePropertySlug: "instant-property/next-at",
+      pageProperty: "instant-property/next-at",
       required: false,
       many: false,
       uncommitted: true,

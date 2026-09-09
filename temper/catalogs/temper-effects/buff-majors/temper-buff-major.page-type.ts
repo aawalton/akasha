@@ -11,8 +11,8 @@ export const temperBuffMajor = {
   pluralSlug: "temper-buff-majors",
   extends: ["page-type/temper-catalog-thing"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "page-property-entry/effects", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "page-property-entry/effects", required: true, many: false },
   ],
 } as const satisfies PageType

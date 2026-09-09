@@ -19,10 +19,10 @@ export const monarchRecord = {
   extends: ["page-type/page"],
   parts: ["text-property/monarch-id"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/monarch-id", required: false, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/monarch-id", required: false, many: false },
     {
-      pagePropertySlug: "standard-agent-english-property/definition",
+      pageProperty: "standard-agent-english-property/definition",
       required: false,
       many: false,
     },

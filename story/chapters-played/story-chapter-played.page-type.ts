@@ -22,14 +22,14 @@ export const storyChapterPlayed = {
   runsTabooCheck: false,
   parts: ["relation-property/played-chapter-story"],
   properties: [
-    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pageProperty: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/played-chapter-story",
+      pageProperty: "relation-property/played-chapter-story",
       required: true,
       many: false,
     },
-    { pagePropertySlug: "number-property/own-length", required: true, many: false },
-    { pagePropertySlug: "file-property/prose", required: true, many: false },
+    { pageProperty: "number-property/own-length", required: true, many: false },
+    { pageProperty: "file-property/prose", required: true, many: false },
   ],
   invariants: [
     {

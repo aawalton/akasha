@@ -11,8 +11,8 @@ export const temperRuleGoal = {
   pluralSlug: "temper-rule-goals",
   extends: ["page-type/temper-progress-thing"],
   properties: [
-    { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
   ],
   invariants: [
     {

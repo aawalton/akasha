@@ -32,12 +32,12 @@ export const monarchAccount = {
     "text-property/account-display-name",
   ],
   properties: [
-    { pagePropertySlug: "text-property/account-display-name", required: true, many: false },
-    { pagePropertySlug: "number-property/current-balance", required: true, many: false },
-    { pagePropertySlug: "select-property/account-type", required: true, many: false },
-    { pagePropertySlug: "boolean-property/asset", required: true, many: false },
-    { pagePropertySlug: "boolean-property/account-active", required: true, many: false },
-    { pagePropertySlug: "boolean-property/account-hidden", required: true, many: false },
+    { pageProperty: "text-property/account-display-name", required: true, many: false },
+    { pageProperty: "number-property/current-balance", required: true, many: false },
+    { pageProperty: "select-property/account-type", required: true, many: false },
+    { pageProperty: "boolean-property/asset", required: true, many: false },
+    { pageProperty: "boolean-property/account-active", required: true, many: false },
+    { pageProperty: "boolean-property/account-hidden", required: true, many: false },
   ],
   invariants: [
     {

@@ -16,9 +16,9 @@ export const changeMechanicalFolder = {
   extends: ["page-type/change-mechanical"],
   parts: ["domain/change-mechanical-folder-remove", "domain/change-mechanical-folder-move"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
+    { pageProperty: "relation-property/change-target-type", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-subtype",
+      pageProperty: "relation-property/change-target-subtype",
       required: true,
       many: false,
     },

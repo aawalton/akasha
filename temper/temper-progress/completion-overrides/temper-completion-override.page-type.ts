@@ -17,17 +17,17 @@ export const temperCompletionOverride = {
   extends: ["page-type/temper-progress-thing"],
   parts: ["number-property/floor", "text-property/override-reason"],
   properties: [
-    { pagePropertySlug: "text-property/account-page", required: true, many: false },
-    { pagePropertySlug: "text-property/character", required: true, many: false },
-    { pagePropertySlug: "text-property/completion-card-id", required: true, many: false },
+    { pageProperty: "text-property/account-page", required: true, many: false },
+    { pageProperty: "text-property/character", required: true, many: false },
+    { pageProperty: "text-property/completion-card-id", required: true, many: false },
     {
-      pagePropertySlug: "text-property/completion-item-path",
+      pageProperty: "text-property/completion-item-path",
       required: true,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "number-property/floor", required: true, many: false },
-    { pagePropertySlug: "text-property/override-reason", required: true, many: false },
+    { pageProperty: "number-property/floor", required: true, many: false },
+    { pageProperty: "text-property/override-reason", required: true, many: false },
   ],
   invariants: [
     {

@@ -34,12 +34,12 @@ export const temperGearThing = {
     "text-property/valid-slots",
   ],
   properties: [
-    { pagePropertySlug: "text-property/glyph-name", required: false, many: false },
-    { pagePropertySlug: "text-property/essence-rune", required: false, many: false },
-    { pagePropertySlug: "text-property/eso-enchant-constant-name", required: false, many: false },
-    { pagePropertySlug: "text-property/valid-slots", required: false, many: true, maxCount: null },
-    { pagePropertySlug: "text-property/item-level", required: false, many: false },
-    { pagePropertySlug: "number-property/potion-seconds", required: false, many: false },
+    { pageProperty: "text-property/glyph-name", required: false, many: false },
+    { pageProperty: "text-property/essence-rune", required: false, many: false },
+    { pageProperty: "text-property/eso-enchant-constant-name", required: false, many: false },
+    { pageProperty: "text-property/valid-slots", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/item-level", required: false, many: false },
+    { pageProperty: "number-property/potion-seconds", required: false, many: false },
   ],
   invariants: [
     {

@@ -15,7 +15,7 @@ export const temperActivityCategory = {
   extends: ["page-type/temper-progress-thing"],
   parts: ["text-property/badge-variant"],
   properties: [
-    { pagePropertySlug: "text-property/key", required: true, many: false },
-    { pagePropertySlug: "text-property/badge-variant", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/badge-variant", required: true, many: false },
   ],
 } as const satisfies PageType

@@ -28,8 +28,8 @@ export const masteryLevel = {
     "text-property/mastery-behaviour",
   ],
   properties: [
-    { pagePropertySlug: "number-property/mastery-rank", required: true, many: false },
-    { pagePropertySlug: "text-property/mastery-behaviour", required: true, many: false },
+    { pageProperty: "number-property/mastery-rank", required: true, many: false },
+    { pageProperty: "text-property/mastery-behaviour", required: true, many: false },
   ],
   invariants: [
     {
