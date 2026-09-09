@@ -11,5 +11,5 @@ export const vfifx = {
   ticker: "VFIFX",
   quantity: 361.415,
   costBasis: 21557.31,
-  holdingValue: 24377.44175,
+  holdingValue: 24287.088,
 } as const satisfies MonarchHolding
