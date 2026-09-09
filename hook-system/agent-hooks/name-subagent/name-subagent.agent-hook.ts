@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const nameSubagent = {
   id: "01a04fc3-fa00-7000-bbc9-a79135819969",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "name-subagent",
   definition: "a naming of a subagent by its seat and its own id, carried into the calls it makes",
   code: "ts",

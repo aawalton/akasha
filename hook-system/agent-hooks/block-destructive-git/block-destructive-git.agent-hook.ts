@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const blockDestructiveGit = {
   id: "01a04e16-d380-7002-bd31-c3ca7eb9bdc8",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "block-destructive-git",
   definition: "a refusal of the git calls that destroy work a shared worktree holds",
   code: "ts",

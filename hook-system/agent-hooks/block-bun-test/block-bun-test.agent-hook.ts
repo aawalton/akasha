@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const blockBunTest = {
   id: "01a04eab-d4f8-7000-9dec-eba229399731",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "block-bun-test",
   definition: "a refusal of every bun test call made inside the akasha checkout",
   code: "ts",

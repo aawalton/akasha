@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const blockAkashaShellWrites = {
   id: "01a04ee9-8899-7bf9-a3e7-3322e3b145d7",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "block-akasha-shell-writes",
   definition: "the hook refusing a shell write that lands inside akasha",
   code: "ts",

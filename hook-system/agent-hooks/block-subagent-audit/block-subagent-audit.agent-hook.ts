@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const blockSubagentAudit = {
   id: "01a06906-100c-7bd1-92e8-8157b8483c37",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "block-subagent-audit",
   definition:
     "a refusal of an `akasha audit` a subagent calls, the seat that ran it calling it still",

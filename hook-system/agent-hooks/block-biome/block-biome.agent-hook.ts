@@ -3,6 +3,7 @@ import type { AgentHook } from "../agent-hook.page-type.ts"
 export const blockBiome = {
   id: "01a04edf-d739-7000-8634-f401edc3f875",
   pageTypeSlug: "agent-hook",
+  type: "agent-hook",
   slug: "block-biome",
   definition: "a refusal of the biome calls an agent makes outside the akasha commands",
   code: "ts",
