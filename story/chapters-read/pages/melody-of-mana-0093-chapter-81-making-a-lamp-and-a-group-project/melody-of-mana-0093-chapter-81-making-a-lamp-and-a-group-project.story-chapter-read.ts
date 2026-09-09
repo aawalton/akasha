@@ -9,7 +9,7 @@ export const melodyOfMana0093Chapter81MakingALampAndAGroupProject = {
   position: 93,
   ownLength: 2110,
   ownProgress: 2110,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:24.645Z",
   publishedAt: "2022-01-22",
   externalLink:

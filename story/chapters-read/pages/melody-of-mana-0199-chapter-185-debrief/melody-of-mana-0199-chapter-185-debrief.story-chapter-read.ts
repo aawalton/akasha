@@ -9,7 +9,7 @@ export const melodyOfMana0199Chapter185Debrief = {
   position: 199,
   ownLength: 1664,
   ownProgress: 1664,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:42.191Z",
   publishedAt: "2022-11-05",
   externalLink:

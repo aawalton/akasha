@@ -9,7 +9,7 @@ export const melodyOfMana0061Chapter52ANobleParty = {
   position: 61,
   ownLength: 1974,
   ownProgress: 1974,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:17.810Z",
   publishedAt: "2021-10-15",
   externalLink:

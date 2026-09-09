@@ -8,7 +8,7 @@ export const metaworldHopecore0053Chapter28BlackCat2 = {
   story: "metaworld-hopecore",
   position: 53,
   ownLength: 2256,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374353/chapter-28-black-cat-2",

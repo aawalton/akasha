@@ -9,7 +9,7 @@ export const melodyOfMana0279Chapter265Interloper = {
   position: 279,
   ownLength: 1453,
   ownProgress: 1453,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:28.134Z",
   publishedAt: "2023-09-06",
   externalLink:

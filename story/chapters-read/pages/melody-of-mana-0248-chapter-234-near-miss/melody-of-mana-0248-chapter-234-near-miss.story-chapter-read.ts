@@ -9,7 +9,7 @@ export const melodyOfMana0248Chapter234NearMiss = {
   position: 248,
   ownLength: 1967,
   ownProgress: 1967,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:23.775Z",
   publishedAt: "2023-05-06",
   externalLink:

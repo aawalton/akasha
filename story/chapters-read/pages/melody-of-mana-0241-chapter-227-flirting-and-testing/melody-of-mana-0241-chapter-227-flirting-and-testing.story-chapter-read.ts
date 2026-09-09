@@ -9,7 +9,7 @@ export const melodyOfMana0241Chapter227FlirtingAndTesting = {
   position: 241,
   ownLength: 1535,
   ownProgress: 1535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:09.227Z",
   publishedAt: "2023-04-12",
   externalLink:

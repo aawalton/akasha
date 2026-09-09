@@ -9,7 +9,7 @@ export const melodyOfMana0165Chapter151FirstDaysAtSea = {
   position: 165,
   ownLength: 2038,
   ownProgress: 2038,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:33.133Z",
   publishedAt: "2022-07-05",
   externalLink:

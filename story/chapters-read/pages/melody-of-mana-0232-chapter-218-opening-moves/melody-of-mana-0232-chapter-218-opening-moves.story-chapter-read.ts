@@ -9,7 +9,7 @@ export const melodyOfMana0232Chapter218OpeningMoves = {
   position: 232,
   ownLength: 1673,
   ownProgress: 1673,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:50.665Z",
   publishedAt: "2023-03-11",
   externalLink:

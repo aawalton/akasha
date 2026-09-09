@@ -9,7 +9,7 @@ export const melodyOfMana0065Chapter56ARelaxingBath = {
   position: 65,
   ownLength: 2058,
   ownProgress: 2058,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:26.426Z",
   publishedAt: "2021-10-29",
   externalLink:

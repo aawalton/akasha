@@ -9,7 +9,7 @@ export const melodyOfMana0153Chapter140ReturnToTheDepths = {
   position: 153,
   ownLength: 2434,
   ownProgress: 2434,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:07.861Z",
   publishedAt: "2022-05-28",
   externalLink:

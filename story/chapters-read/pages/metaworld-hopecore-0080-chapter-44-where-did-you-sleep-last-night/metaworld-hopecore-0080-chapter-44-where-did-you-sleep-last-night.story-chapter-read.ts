@@ -8,7 +8,7 @@ export const metaworldHopecore0080Chapter44WhereDidYouSleepLastNight = {
   story: "metaworld-hopecore",
   position: 80,
   ownLength: 3825,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3416769/chapter-44-where-did-you-sleep-last-night",

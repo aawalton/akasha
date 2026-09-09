@@ -9,7 +9,7 @@ export const melodyOfMana0069Chapter59Truce = {
   position: 69,
   ownLength: 2106,
   ownProgress: 2106,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:35.074Z",
   publishedAt: "2021-11-09",
   externalLink:

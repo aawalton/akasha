@@ -9,7 +9,7 @@ export const melodyOfMana0222Chapter208AdmissionsAndAssaults = {
   position: 222,
   ownLength: 2540,
   ownProgress: 2540,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:30.227Z",
   publishedAt: "2023-02-04",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0155Chapter142YearFourBegins = {
   position: 155,
   ownLength: 1648,
   ownProgress: 1648,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:11.975Z",
   publishedAt: "2022-06-03",
   externalLink:

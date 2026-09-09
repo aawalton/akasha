@@ -9,7 +9,7 @@ export const melodyOfMana0176Chapter162ObviousHints = {
   position: 176,
   ownLength: 2023,
   ownProgress: 2023,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:56.098Z",
   publishedAt: "2022-08-17",
   externalLink:

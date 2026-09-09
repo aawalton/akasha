@@ -9,7 +9,7 @@ export const melodyOfMana0202Chapter188EmperorSInterrogation = {
   position: 202,
   ownLength: 2014,
   ownProgress: 2014,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:48.266Z",
   publishedAt: "2022-11-15",
   externalLink:

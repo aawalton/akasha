@@ -9,7 +9,7 @@ export const melodyOfMana0174Chapter160Emissary = {
   position: 174,
   ownLength: 2370,
   ownProgress: 2370,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:51.869Z",
   publishedAt: "2022-08-05",
   externalLink:

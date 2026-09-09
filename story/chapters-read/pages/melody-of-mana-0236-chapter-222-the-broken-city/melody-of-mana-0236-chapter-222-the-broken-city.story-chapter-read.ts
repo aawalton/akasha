@@ -9,7 +9,7 @@ export const melodyOfMana0236Chapter222TheBrokenCity = {
   position: 236,
   ownLength: 1806,
   ownProgress: 1806,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:58.746Z",
   publishedAt: "2023-03-24",
   externalLink:

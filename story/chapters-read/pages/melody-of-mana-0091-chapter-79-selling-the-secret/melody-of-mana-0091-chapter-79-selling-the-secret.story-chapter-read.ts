@@ -9,7 +9,7 @@ export const melodyOfMana0091Chapter79SellingTheSecret = {
   position: 91,
   ownLength: 2047,
   ownProgress: 2047,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:20.656Z",
   publishedAt: "2022-01-15",
   externalLink:

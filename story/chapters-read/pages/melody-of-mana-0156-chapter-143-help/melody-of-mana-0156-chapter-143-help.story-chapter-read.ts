@@ -9,7 +9,7 @@ export const melodyOfMana0156Chapter143Help = {
   position: 156,
   ownLength: 2060,
   ownProgress: 2060,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:14.289Z",
   publishedAt: "2022-06-07",
   externalLink:

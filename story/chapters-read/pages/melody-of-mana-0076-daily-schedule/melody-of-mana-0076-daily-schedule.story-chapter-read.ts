@@ -9,7 +9,7 @@ export const melodyOfMana0076DailySchedule = {
   position: 76,
   ownLength: 303,
   ownProgress: 303,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:49.569Z",
   publishedAt: "2021-12-02",
   externalLink:

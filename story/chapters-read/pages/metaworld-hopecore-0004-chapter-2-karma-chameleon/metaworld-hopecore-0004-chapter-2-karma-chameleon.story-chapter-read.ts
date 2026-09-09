@@ -8,7 +8,7 @@ export const metaworldHopecore0004Chapter2KarmaChameleon = {
   story: "metaworld-hopecore",
   position: 4,
   ownLength: 2636,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364471/chapter-2-karma-chameleon",

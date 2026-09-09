@@ -9,7 +9,7 @@ export const melodyOfMana0293Chapter278SomeLowKeyRacism = {
   position: 293,
   ownLength: 1189,
   ownProgress: 1189,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:57.045Z",
   publishedAt: "2023-10-24",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0291Chapter277Arrival = {
   position: 291,
   ownLength: 1216,
   ownProgress: 1216,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:52.815Z",
   publishedAt: "2023-10-19",
   externalLink:

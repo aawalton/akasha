@@ -9,7 +9,7 @@ export const melodyOfMana0272Chapter258NotALamp = {
   position: 272,
   ownLength: 1680,
   ownProgress: 1680,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:13.245Z",
   publishedAt: "2023-08-11",
   externalLink:

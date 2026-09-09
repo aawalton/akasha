@@ -9,7 +9,7 @@ export const melodyOfMana0282Chapter268Halfway = {
   position: 282,
   ownLength: 1195,
   ownProgress: 1195,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:34.196Z",
   publishedAt: "2023-09-15",
   externalLink:

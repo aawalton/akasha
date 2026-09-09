@@ -9,7 +9,7 @@ export const melodyOfMana0239Chapter225TheManyWastesOfSilversprings = {
   position: 239,
   ownLength: 2333,
   ownProgress: 2333,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:05.222Z",
   publishedAt: "2023-04-05",
   externalLink:

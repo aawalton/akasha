@@ -9,7 +9,7 @@ export const melodyOfMana0229Chapter215RaceToTheMeet = {
   position: 229,
   ownLength: 1450,
   ownProgress: 1450,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:44.415Z",
   publishedAt: "2023-02-28",
   externalLink:

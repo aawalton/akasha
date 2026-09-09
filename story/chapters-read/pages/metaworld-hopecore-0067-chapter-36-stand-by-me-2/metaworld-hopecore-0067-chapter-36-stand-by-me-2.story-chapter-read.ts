@@ -8,7 +8,7 @@ export const metaworldHopecore0067Chapter36StandByMe2 = {
   story: "metaworld-hopecore",
   position: 67,
   ownLength: 2486,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3385163/chapter-36-stand-by-me-2",

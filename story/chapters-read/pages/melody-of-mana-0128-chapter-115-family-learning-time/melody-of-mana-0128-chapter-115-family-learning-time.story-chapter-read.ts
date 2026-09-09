@@ -9,7 +9,7 @@ export const melodyOfMana0128Chapter115FamilyLearningTime = {
   position: 128,
   ownLength: 2124,
   ownProgress: 2124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:47.677Z",
   publishedAt: "2022-04-11",
   externalLink:

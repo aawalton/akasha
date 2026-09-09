@@ -9,7 +9,7 @@ export const melodyOfMana0124Chapter111TeamingUpWithProfessorEtia = {
   position: 124,
   ownLength: 2067,
   ownProgress: 2067,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:23.961Z",
   publishedAt: "2022-04-11",
   externalLink:

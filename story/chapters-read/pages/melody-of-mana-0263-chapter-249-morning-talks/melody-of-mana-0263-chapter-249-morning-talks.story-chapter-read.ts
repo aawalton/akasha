@@ -9,7 +9,7 @@ export const melodyOfMana0263Chapter249MorningTalks = {
   position: 263,
   ownLength: 1411,
   ownProgress: 1411,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:54.359Z",
   publishedAt: "2023-06-28",
   externalLink:

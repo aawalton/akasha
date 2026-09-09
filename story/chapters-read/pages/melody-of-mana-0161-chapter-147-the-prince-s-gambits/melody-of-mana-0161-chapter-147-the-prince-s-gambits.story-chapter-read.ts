@@ -9,7 +9,7 @@ export const melodyOfMana0161Chapter147ThePrinceSGambits = {
   position: 161,
   ownLength: 1393,
   ownProgress: 1393,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:24.686Z",
   publishedAt: "2022-06-22",
   externalLink:

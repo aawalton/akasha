@@ -9,7 +9,7 @@ export const melodyOfMana0311Chapter296ReturnToEratol = {
   position: 311,
   ownLength: 1327,
   ownProgress: 1327,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:33.476Z",
   publishedAt: "2024-01-10",
   externalLink:

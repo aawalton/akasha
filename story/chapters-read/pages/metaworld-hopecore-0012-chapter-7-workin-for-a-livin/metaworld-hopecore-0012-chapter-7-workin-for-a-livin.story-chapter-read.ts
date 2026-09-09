@@ -8,7 +8,7 @@ export const metaworldHopecore0012Chapter7WorkinForALivin = {
   story: "metaworld-hopecore",
   position: 12,
   ownLength: 1785,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364652/chapter-7-workin-for-a-livin",

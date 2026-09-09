@@ -9,7 +9,7 @@ export const melodyOfMana0098Chapter86SkyMetal = {
   position: 98,
   ownLength: 2039,
   ownProgress: 2039,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:34.748Z",
   publishedAt: "2022-02-04",
   externalLink:

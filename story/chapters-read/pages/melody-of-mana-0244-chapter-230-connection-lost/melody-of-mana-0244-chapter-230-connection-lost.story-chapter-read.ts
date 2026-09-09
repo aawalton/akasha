@@ -9,7 +9,7 @@ export const melodyOfMana0244Chapter230ConnectionLost = {
   position: 244,
   ownLength: 1786,
   ownProgress: 1786,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:15.481Z",
   publishedAt: "2023-04-22",
   externalLink:

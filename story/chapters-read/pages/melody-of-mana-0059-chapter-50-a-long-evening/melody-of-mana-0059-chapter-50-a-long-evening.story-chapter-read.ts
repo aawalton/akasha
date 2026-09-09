@@ -9,7 +9,7 @@ export const melodyOfMana0059Chapter50ALongEvening = {
   position: 59,
   ownLength: 2927,
   ownProgress: 2927,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:13.752Z",
   publishedAt: "2021-10-08",
   externalLink:

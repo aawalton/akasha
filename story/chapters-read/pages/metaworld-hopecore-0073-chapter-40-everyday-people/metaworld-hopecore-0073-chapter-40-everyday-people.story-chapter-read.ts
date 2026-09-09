@@ -8,7 +8,7 @@ export const metaworldHopecore0073Chapter40EverydayPeople = {
   story: "metaworld-hopecore",
   position: 73,
   ownLength: 2482,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3398731/chapter-40-everyday-people",

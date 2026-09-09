@@ -8,7 +8,7 @@ export const metaworldHopecore0077Chapter42Heroes2 = {
   story: "metaworld-hopecore",
   position: 77,
   ownLength: 2183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3406268/chapter-42-heroes-2",

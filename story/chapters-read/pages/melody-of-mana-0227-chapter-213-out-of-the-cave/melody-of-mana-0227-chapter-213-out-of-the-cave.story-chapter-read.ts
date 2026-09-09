@@ -9,7 +9,7 @@ export const melodyOfMana0227Chapter213OutOfTheCave = {
   position: 227,
   ownLength: 1685,
   ownProgress: 1685,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:40.515Z",
   publishedAt: "2023-02-22",
   externalLink:

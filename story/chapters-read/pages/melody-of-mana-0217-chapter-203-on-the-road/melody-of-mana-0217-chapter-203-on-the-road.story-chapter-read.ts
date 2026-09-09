@@ -9,7 +9,7 @@ export const melodyOfMana0217Chapter203OnTheRoad = {
   position: 217,
   ownLength: 1724,
   ownProgress: 1724,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:19.685Z",
   publishedAt: "2023-01-18",
   externalLink:

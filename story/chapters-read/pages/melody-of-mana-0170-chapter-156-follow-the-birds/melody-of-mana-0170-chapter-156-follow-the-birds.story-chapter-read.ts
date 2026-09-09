@@ -9,7 +9,7 @@ export const melodyOfMana0170Chapter156FollowTheBirds = {
   position: 170,
   ownLength: 1984,
   ownProgress: 1984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:43.591Z",
   publishedAt: "2022-07-23",
   externalLink:

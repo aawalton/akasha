@@ -9,7 +9,7 @@ export const melodyOfMana0276Chapter262SummitPreparations = {
   position: 276,
   ownLength: 1430,
   ownProgress: 1430,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:21.990Z",
   publishedAt: "2023-08-26",
   externalLink:

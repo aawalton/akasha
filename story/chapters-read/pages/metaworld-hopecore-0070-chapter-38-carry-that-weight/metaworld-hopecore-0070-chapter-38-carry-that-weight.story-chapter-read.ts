@@ -8,7 +8,7 @@ export const metaworldHopecore0070Chapter38CarryThatWeight = {
   story: "metaworld-hopecore",
   position: 70,
   ownLength: 2185,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3393089/chapter-38-carry-that-weight",

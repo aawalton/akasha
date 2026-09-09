@@ -8,7 +8,7 @@ export const metaworldHopecore0043Chapter23KarmaPolice = {
   story: "metaworld-hopecore",
   position: 43,
   ownLength: 2426,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3369824/chapter-23-karma-police",

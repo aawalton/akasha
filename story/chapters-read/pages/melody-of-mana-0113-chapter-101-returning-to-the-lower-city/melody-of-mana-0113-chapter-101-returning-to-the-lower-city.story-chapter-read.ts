@@ -9,7 +9,7 @@ export const melodyOfMana0113Chapter101ReturningToTheLowerCity = {
   position: 113,
   ownLength: 1970,
   ownProgress: 1970,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:02.402Z",
   publishedAt: "2022-04-01",
   externalLink:

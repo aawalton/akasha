@@ -9,7 +9,7 @@ export const melodyOfMana0064Chapter55LightSpyingAndTheWalk = {
   position: 64,
   ownLength: 2505,
   ownProgress: 2505,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:24.258Z",
   publishedAt: "2021-10-26",
   externalLink:

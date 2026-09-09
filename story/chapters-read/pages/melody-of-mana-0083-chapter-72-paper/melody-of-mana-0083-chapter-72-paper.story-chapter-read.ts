@@ -9,7 +9,7 @@ export const melodyOfMana0083Chapter72Paper = {
   position: 83,
   ownLength: 2007,
   ownProgress: 2007,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:04.364Z",
   publishedAt: "2021-12-25",
   externalLink:

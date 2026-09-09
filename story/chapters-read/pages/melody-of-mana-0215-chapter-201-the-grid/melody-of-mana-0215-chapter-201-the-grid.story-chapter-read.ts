@@ -9,7 +9,7 @@ export const melodyOfMana0215Chapter201TheGrid = {
   position: 215,
   ownLength: 1505,
   ownProgress: 1505,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:15.382Z",
   publishedAt: "2023-01-10",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0092Chapter80StarlightAndSilverSpheres = {
   position: 92,
   ownLength: 2037,
   ownProgress: 2037,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:22.748Z",
   publishedAt: "2022-01-18",
   externalLink:

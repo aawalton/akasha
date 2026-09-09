@@ -9,7 +9,7 @@ export const melodyOfMana0207Chapter193AcrossTheIce = {
   position: 207,
   ownLength: 1878,
   ownProgress: 1878,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:58.751Z",
   publishedAt: "2022-12-02",
   externalLink:

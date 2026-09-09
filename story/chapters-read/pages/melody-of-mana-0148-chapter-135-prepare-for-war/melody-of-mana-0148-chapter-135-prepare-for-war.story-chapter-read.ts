@@ -9,7 +9,7 @@ export const melodyOfMana0148Chapter135PrepareForWar = {
   position: 148,
   ownLength: 1990,
   ownProgress: 1990,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:57.434Z",
   publishedAt: "2022-05-11",
   externalLink:

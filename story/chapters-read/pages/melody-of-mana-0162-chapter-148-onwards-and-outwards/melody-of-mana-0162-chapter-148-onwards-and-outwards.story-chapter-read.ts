@@ -9,7 +9,7 @@ export const melodyOfMana0162Chapter148OnwardsAndOutwards = {
   position: 162,
   ownLength: 2650,
   ownProgress: 2650,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:26.762Z",
   publishedAt: "2022-06-25",
   externalLink:

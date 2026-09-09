@@ -8,7 +8,7 @@ export const metaworldHopecore0048Chapter25NotReadyToMakeNice2 = {
   story: "metaworld-hopecore",
   position: 48,
   ownLength: 1984,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372854/chapter-25-not-ready-to-make-nice-2",

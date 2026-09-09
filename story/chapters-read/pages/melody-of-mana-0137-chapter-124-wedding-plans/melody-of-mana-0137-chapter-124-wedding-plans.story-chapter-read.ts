@@ -9,7 +9,7 @@ export const melodyOfMana0137Chapter124WeddingPlans = {
   position: 137,
   ownLength: 2021,
   ownProgress: 2021,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:34.707Z",
   publishedAt: "2022-04-26",
   externalLink:

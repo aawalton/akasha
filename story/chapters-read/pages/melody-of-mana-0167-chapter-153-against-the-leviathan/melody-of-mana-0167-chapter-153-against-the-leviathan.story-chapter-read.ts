@@ -9,7 +9,7 @@ export const melodyOfMana0167Chapter153AgainstTheLeviathan = {
   position: 167,
   ownLength: 2454,
   ownProgress: 2454,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:37.143Z",
   publishedAt: "2022-07-12",
   externalLink:

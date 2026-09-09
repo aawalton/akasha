@@ -9,7 +9,7 @@ export const melodyOfMana0094Chapter82TheJunkyardCopse = {
   position: 94,
   ownLength: 2010,
   ownProgress: 2010,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:26.741Z",
   publishedAt: "2022-01-25",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0152Chapter139ReturnToTheUndercity = {
   position: 152,
   ownLength: 2118,
   ownProgress: 2118,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:05.769Z",
   publishedAt: "2022-05-25",
   externalLink:

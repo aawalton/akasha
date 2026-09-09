@@ -9,7 +9,7 @@ export const melodyOfMana0180Chapter166TheBrokenMan = {
   position: 180,
   ownLength: 1640,
   ownProgress: 1640,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:04.120Z",
   publishedAt: "2022-08-31",
   externalLink:

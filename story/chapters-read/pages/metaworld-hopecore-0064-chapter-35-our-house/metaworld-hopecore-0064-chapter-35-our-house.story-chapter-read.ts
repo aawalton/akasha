@@ -8,7 +8,7 @@ export const metaworldHopecore0064Chapter35OurHouse = {
   story: "metaworld-hopecore",
   position: 64,
   ownLength: 2059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3381653/chapter-35-our-house",

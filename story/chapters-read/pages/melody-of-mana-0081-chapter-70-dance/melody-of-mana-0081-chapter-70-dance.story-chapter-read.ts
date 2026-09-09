@@ -9,7 +9,7 @@ export const melodyOfMana0081Chapter70Dance = {
   position: 81,
   ownLength: 2123,
   ownProgress: 2123,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:00.256Z",
   publishedAt: "2021-12-18",
   externalLink:

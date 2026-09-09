@@ -8,7 +8,7 @@ export const metaworldHopecore0024Chapter13StarryStarryNight = {
   story: "metaworld-hopecore",
   position: 24,
   ownLength: 2975,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368642/chapter-13-starry-starry-night",

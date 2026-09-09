@@ -9,7 +9,7 @@ export const melodyOfMana0088Chapter77AllAcrossTheKingdom = {
   position: 88,
   ownLength: 957,
   ownProgress: 957,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:14.398Z",
   publishedAt: "2022-01-09",
   externalLink:

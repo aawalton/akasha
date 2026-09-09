@@ -9,7 +9,7 @@ export const melodyOfMana0178Chapter164TheSnakeBackHome = {
   position: 178,
   ownLength: 1695,
   ownProgress: 1695,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:00.042Z",
   publishedAt: "2022-08-24",
   externalLink:

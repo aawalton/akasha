@@ -9,7 +9,7 @@ export const melodyOfMana0118Chapter105TheVine = {
   position: 118,
   ownLength: 1954,
   ownProgress: 1954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:12.113Z",
   publishedAt: "2022-04-09",
   externalLink:

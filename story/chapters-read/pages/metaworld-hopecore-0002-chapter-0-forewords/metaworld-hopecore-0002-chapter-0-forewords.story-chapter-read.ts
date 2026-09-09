@@ -8,7 +8,7 @@ export const metaworldHopecore0002Chapter0Forewords = {
   story: "metaworld-hopecore",
   position: 2,
   ownLength: 661,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364264/chapter-0-forewords",

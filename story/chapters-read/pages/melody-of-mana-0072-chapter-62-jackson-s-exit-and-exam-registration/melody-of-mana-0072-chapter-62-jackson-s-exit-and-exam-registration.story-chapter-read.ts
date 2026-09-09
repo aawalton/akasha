@@ -9,7 +9,7 @@ export const melodyOfMana0072Chapter62JacksonSExitAndExamRegistration = {
   position: 72,
   ownLength: 2071,
   ownProgress: 2071,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:41.065Z",
   publishedAt: "2021-11-19",
   externalLink:

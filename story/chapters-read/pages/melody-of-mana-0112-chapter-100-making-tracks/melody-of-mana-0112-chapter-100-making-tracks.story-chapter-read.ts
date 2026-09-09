@@ -9,7 +9,7 @@ export const melodyOfMana0112Chapter100MakingTracks = {
   position: 112,
   ownLength: 2068,
   ownProgress: 2068,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:00.499Z",
   publishedAt: "2022-03-29",
   externalLink:

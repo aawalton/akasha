@@ -9,7 +9,7 @@ export const melodyOfMana0130Chapter117PropagandaAndAnUglyCry = {
   position: 130,
   ownLength: 2031,
   ownProgress: 2031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:52.278Z",
   publishedAt: "2022-04-13",
   externalLink:

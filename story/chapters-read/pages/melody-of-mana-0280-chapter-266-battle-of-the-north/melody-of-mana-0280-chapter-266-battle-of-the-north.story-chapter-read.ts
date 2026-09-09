@@ -9,7 +9,7 @@ export const melodyOfMana0280Chapter266BattleOfTheNorth = {
   position: 280,
   ownLength: 1614,
   ownProgress: 1614,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:30.177Z",
   publishedAt: "2023-09-08",
   externalLink:

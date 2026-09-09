@@ -9,7 +9,7 @@ export const melodyOfMana0068Chapter58TheIrritant = {
   position: 68,
   ownLength: 2266,
   ownProgress: 2266,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:32.978Z",
   publishedAt: "2021-11-05",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0208Chapter194SaunaRuminations = {
   position: 208,
   ownLength: 1625,
   ownProgress: 1625,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:00.758Z",
   publishedAt: "2022-12-07",
   externalLink:

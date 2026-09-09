@@ -9,7 +9,7 @@ export const melodyOfMana0108Chapter96LengtheningShadows = {
   position: 108,
   ownLength: 2112,
   ownProgress: 2112,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:53.314Z",
   publishedAt: "2022-03-15",
   externalLink:

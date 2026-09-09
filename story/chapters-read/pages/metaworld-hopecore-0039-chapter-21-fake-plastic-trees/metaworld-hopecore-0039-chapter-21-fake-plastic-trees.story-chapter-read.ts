@@ -8,7 +8,7 @@ export const metaworldHopecore0039Chapter21FakePlasticTrees = {
   story: "metaworld-hopecore",
   position: 39,
   ownLength: 3071,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368972/chapter-21-fake-plastic-trees",

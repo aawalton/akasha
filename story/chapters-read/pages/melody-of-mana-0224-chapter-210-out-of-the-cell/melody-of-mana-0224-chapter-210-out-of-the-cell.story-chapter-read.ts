@@ -9,7 +9,7 @@ export const melodyOfMana0224Chapter210OutOfTheCell = {
   position: 224,
   ownLength: 1941,
   ownProgress: 1941,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:34.137Z",
   publishedAt: "2023-02-12",
   externalLink:

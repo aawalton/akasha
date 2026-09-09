@@ -9,7 +9,7 @@ export const melodyOfMana0150137PartyTime = {
   position: 150,
   ownLength: 1807,
   ownProgress: 1807,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:01.620Z",
   publishedAt: "2022-05-18",
   externalLink:

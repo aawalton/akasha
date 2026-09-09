@@ -9,7 +9,7 @@ export const melodyOfMana0299Chapter284ShelterInTheStorm = {
   position: 299,
   ownLength: 1551,
   ownProgress: 1551,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:09.056Z",
   publishedAt: "2023-11-15",
   externalLink:

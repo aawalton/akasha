@@ -8,7 +8,7 @@ export const metaworldHopecore0033Chapter18TheGiftOfGiving = {
   story: "metaworld-hopecore",
   position: 33,
   ownLength: 2789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368869/chapter-18-the-gift-of-giving",

@@ -8,7 +8,7 @@ export const metaworldHopecore0016Chapter9BackToSchool = {
   story: "metaworld-hopecore",
   position: 16,
   ownLength: 2430,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364716/chapter-9-back-to-school",

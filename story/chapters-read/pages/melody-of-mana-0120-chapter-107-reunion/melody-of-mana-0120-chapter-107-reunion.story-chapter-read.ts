@@ -9,7 +9,7 @@ export const melodyOfMana0120Chapter107Reunion = {
   position: 120,
   ownLength: 2220,
   ownProgress: 2220,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:16.045Z",
   publishedAt: "2022-04-11",
   externalLink:

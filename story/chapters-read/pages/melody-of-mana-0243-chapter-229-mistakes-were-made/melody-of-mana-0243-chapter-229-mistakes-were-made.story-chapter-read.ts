@@ -9,7 +9,7 @@ export const melodyOfMana0243Chapter229MistakesWereMade = {
   position: 243,
   ownLength: 1800,
   ownProgress: 1800,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:13.362Z",
   publishedAt: "2023-04-19",
   externalLink:

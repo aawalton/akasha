@@ -9,7 +9,7 @@ export const melodyOfMana0315Chapter300UntilNextTime = {
   position: 315,
   ownLength: 1541,
   ownProgress: 1541,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:41.502Z",
   publishedAt: "2024-01-24",
   externalLink:

@@ -8,7 +8,7 @@ export const metaworldHopecore0007Chapter4WhatAWonderfulWorld = {
   story: "metaworld-hopecore",
   position: 7,
   ownLength: 2725,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364561/chapter-4-what-a-wonderful-world",

@@ -9,7 +9,7 @@ export const melodyOfMana0226Chapter212UpTheMountains = {
   position: 226,
   ownLength: 2284,
   ownProgress: 2284,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:38.454Z",
   publishedAt: "2023-02-18",
   externalLink:

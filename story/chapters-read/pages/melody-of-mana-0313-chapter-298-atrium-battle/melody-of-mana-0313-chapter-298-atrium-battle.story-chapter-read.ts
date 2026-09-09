@@ -9,7 +9,7 @@ export const melodyOfMana0313Chapter298AtriumBattle = {
   position: 313,
   ownLength: 1522,
   ownProgress: 1522,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:37.431Z",
   publishedAt: "2024-01-17",
   externalLink:

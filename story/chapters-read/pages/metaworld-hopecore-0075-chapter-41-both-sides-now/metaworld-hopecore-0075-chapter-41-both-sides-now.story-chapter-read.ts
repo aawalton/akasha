@@ -8,7 +8,7 @@ export const metaworldHopecore0075Chapter41BothSidesNow = {
   story: "metaworld-hopecore",
   position: 75,
   ownLength: 2415,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3403139/chapter-41-both-sides-now",

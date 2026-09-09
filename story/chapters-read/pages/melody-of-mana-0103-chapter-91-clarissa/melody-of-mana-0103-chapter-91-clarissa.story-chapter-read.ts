@@ -9,7 +9,7 @@ export const melodyOfMana0103Chapter91Clarissa = {
   position: 103,
   ownLength: 2154,
   ownProgress: 2154,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:43.967Z",
   publishedAt: "2022-02-22",
   externalLink:

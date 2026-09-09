@@ -9,7 +9,7 @@ export const melodyOfMana0286Chapter272Honeymoon = {
   position: 286,
   ownLength: 1588,
   ownProgress: 1588,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:42.568Z",
   publishedAt: "2023-09-30",
   externalLink:

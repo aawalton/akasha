@@ -9,7 +9,7 @@ export const melodyOfMana0259Chapter245Grief = {
   position: 259,
   ownLength: 1587,
   ownProgress: 1587,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:46.066Z",
   publishedAt: "2023-06-14",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0070Chapter60WinterPassing = {
   position: 70,
   ownLength: 1980,
   ownProgress: 1980,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:37.088Z",
   publishedAt: "2021-11-12",
   externalLink:

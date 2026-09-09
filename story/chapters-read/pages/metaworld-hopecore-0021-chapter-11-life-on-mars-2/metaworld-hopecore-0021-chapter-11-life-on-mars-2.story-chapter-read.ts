@@ -8,7 +8,7 @@ export const metaworldHopecore0021Chapter11LifeOnMars2 = {
   story: "metaworld-hopecore",
   position: 21,
   ownLength: 3019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3366451/chapter-11-life-on-mars-2",

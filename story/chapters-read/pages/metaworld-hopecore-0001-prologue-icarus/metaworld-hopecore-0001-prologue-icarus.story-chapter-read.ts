@@ -8,7 +8,7 @@ export const metaworldHopecore0001PrologueIcarus = {
   story: "metaworld-hopecore",
   position: 1,
   ownLength: 362,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364203/prologue-icarus",

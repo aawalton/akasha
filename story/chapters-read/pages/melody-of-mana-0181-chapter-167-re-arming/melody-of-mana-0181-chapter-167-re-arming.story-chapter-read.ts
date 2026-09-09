@@ -9,7 +9,7 @@ export const melodyOfMana0181Chapter167ReArming = {
   position: 181,
   ownLength: 1651,
   ownProgress: 1651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:06.003Z",
   publishedAt: "2022-09-03",
   externalLink:

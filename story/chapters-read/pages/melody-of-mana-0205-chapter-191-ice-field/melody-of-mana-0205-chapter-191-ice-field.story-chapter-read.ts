@@ -9,7 +9,7 @@ export const melodyOfMana0205Chapter191IceField = {
   position: 205,
   ownLength: 1496,
   ownProgress: 1496,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:54.688Z",
   publishedAt: "2022-11-26",
   externalLink:

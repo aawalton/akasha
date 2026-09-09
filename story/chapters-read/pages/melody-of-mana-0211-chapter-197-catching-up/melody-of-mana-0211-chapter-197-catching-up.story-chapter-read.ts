@@ -9,7 +9,7 @@ export const melodyOfMana0211Chapter197CatchingUp = {
   position: 211,
   ownLength: 1712,
   ownProgress: 1712,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:07.037Z",
   publishedAt: "2022-12-21",
   externalLink:

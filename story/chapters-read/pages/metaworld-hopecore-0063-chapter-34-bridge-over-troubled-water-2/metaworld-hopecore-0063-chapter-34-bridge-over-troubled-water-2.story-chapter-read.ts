@@ -8,7 +8,7 @@ export const metaworldHopecore0063Chapter34BridgeOverTroubledWater2 = {
   story: "metaworld-hopecore",
   position: 63,
   ownLength: 2282,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3380271/chapter-34-bridge-over-troubled-water-2",

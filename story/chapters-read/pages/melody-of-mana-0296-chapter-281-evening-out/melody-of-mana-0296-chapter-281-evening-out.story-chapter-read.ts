@@ -9,7 +9,7 @@ export const melodyOfMana0296Chapter281EveningOut = {
   position: 296,
   ownLength: 1271,
   ownProgress: 1271,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:02.808Z",
   publishedAt: "2023-11-04",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0123Chapter110AngryGuardiansAndMyTutor = {
   position: 123,
   ownLength: 2028,
   ownProgress: 2028,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:22.030Z",
   publishedAt: "2022-04-11",
   externalLink:

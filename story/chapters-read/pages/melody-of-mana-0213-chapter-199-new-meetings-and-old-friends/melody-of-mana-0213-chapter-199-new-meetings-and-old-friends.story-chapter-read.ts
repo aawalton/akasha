@@ -9,7 +9,7 @@ export const melodyOfMana0213Chapter199NewMeetingsAndOldFriends = {
   position: 213,
   ownLength: 1687,
   ownProgress: 1687,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:11.118Z",
   publishedAt: "2022-12-31",
   externalLink:

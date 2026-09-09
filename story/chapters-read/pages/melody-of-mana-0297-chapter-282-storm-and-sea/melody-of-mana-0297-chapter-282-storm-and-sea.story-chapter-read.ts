@@ -9,7 +9,7 @@ export const melodyOfMana0297Chapter282StormAndSea = {
   position: 297,
   ownLength: 1627,
   ownProgress: 1627,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:04.863Z",
   publishedAt: "2023-11-08",
   externalLink:

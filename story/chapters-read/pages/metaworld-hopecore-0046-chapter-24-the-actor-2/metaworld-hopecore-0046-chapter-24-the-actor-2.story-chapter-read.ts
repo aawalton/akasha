@@ -8,7 +8,7 @@ export const metaworldHopecore0046Chapter24TheActor2 = {
   story: "metaworld-hopecore",
   position: 46,
   ownLength: 1557,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3372616/chapter-24-the-actor-2",

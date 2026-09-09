@@ -9,7 +9,7 @@ export const melodyOfMana0144Chapter131Breakups = {
   position: 144,
   ownLength: 2641,
   ownProgress: 2641,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:49.375Z",
   publishedAt: "2022-05-04",
   externalLink:

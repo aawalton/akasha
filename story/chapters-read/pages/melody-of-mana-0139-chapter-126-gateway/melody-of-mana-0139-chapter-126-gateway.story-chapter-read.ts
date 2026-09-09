@@ -9,7 +9,7 @@ export const melodyOfMana0139Chapter126Gateway = {
   position: 139,
   ownLength: 2031,
   ownProgress: 2031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:38.875Z",
   publishedAt: "2022-04-30",
   externalLink:

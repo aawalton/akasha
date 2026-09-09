@@ -9,7 +9,7 @@ export const melodyOfMana0216Chapter202CultureShock = {
   position: 216,
   ownLength: 1868,
   ownProgress: 1868,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:17.558Z",
   publishedAt: "2023-01-14",
   externalLink:

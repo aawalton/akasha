@@ -8,7 +8,7 @@ export const metaworldHopecore0056Chapter30StrangeFruit = {
   story: "metaworld-hopecore",
   position: 56,
   ownLength: 3375,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3374655/chapter-30-strange-fruit",

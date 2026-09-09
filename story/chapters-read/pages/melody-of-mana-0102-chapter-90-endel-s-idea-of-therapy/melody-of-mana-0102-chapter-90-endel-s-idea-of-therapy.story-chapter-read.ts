@@ -9,7 +9,7 @@ export const melodyOfMana0102Chapter90EndelSIdeaOfTherapy = {
   position: 102,
   ownLength: 2253,
   ownProgress: 2253,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:41.981Z",
   publishedAt: "2022-02-18",
   externalLink:

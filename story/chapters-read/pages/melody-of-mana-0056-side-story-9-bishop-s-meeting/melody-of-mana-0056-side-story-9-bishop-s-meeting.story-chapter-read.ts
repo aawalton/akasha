@@ -9,7 +9,7 @@ export const melodyOfMana0056SideStory9BishopSMeeting = {
   position: 56,
   ownLength: 986,
   ownProgress: 986,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:07.655Z",
   publishedAt: "2021-09-28",
   externalLink:

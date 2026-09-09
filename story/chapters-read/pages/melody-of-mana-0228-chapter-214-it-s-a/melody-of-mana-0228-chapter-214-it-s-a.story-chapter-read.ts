@@ -9,7 +9,7 @@ export const melodyOfMana0228Chapter214ItSA = {
   position: 228,
   ownLength: 2105,
   ownProgress: 2105,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:42.420Z",
   publishedAt: "2023-02-25",
   externalLink:

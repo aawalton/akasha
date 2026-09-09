@@ -9,7 +9,7 @@ export const melodyOfMana0090Chapter78EmergencyPoliciesAndCoreDiving = {
   position: 90,
   ownLength: 2129,
   ownProgress: 2129,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:18.573Z",
   publishedAt: "2022-01-11",
   externalLink:

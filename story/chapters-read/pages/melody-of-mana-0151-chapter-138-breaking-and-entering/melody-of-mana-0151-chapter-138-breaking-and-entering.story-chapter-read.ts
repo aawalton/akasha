@@ -9,7 +9,7 @@ export const melodyOfMana0151Chapter138BreakingAndEntering = {
   position: 151,
   ownLength: 2214,
   ownProgress: 2214,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:03.606Z",
   publishedAt: "2022-05-20",
   externalLink:

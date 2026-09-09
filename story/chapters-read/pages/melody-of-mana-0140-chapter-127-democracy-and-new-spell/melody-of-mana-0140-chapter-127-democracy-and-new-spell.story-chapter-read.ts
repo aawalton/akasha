@@ -9,7 +9,7 @@ export const melodyOfMana0140Chapter127DemocracyAndNewSpell = {
   position: 140,
   ownLength: 1875,
   ownProgress: 1875,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:40.949Z",
   publishedAt: "2022-05-01",
   externalLink:

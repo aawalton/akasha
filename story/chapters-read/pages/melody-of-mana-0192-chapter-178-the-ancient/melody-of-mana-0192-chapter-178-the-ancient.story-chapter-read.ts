@@ -9,7 +9,7 @@ export const melodyOfMana0192Chapter178TheAncient = {
   position: 192,
   ownLength: 1529,
   ownProgress: 1529,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:27.888Z",
   publishedAt: "2022-10-11",
   externalLink:

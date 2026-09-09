@@ -9,7 +9,7 @@ export const melodyOfMana0075Chapter65Meetings = {
   position: 75,
   ownLength: 2222,
   ownProgress: 2222,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:47.453Z",
   publishedAt: "2021-11-30",
   externalLink:

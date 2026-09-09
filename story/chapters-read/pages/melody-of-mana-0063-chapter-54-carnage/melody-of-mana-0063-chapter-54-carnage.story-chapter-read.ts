@@ -9,7 +9,7 @@ export const melodyOfMana0063Chapter54Carnage = {
   position: 63,
   ownLength: 2245,
   ownProgress: 2245,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:21.869Z",
   publishedAt: "2021-10-22",
   externalLink:

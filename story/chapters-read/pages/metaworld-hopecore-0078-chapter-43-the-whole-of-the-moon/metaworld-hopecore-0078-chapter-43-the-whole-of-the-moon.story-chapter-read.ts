@@ -8,7 +8,7 @@ export const metaworldHopecore0078Chapter43TheWholeOfTheMoon = {
   story: "metaworld-hopecore",
   position: 78,
   ownLength: 3126,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3412600/chapter-43-the-whole-of-the-moon",

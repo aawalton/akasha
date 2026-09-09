@@ -9,7 +9,7 @@ export const melodyOfMana0210Chapter196ANightIn = {
   position: 210,
   ownLength: 1986,
   ownProgress: 1986,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:04.966Z",
   publishedAt: "2022-12-14",
   externalLink:

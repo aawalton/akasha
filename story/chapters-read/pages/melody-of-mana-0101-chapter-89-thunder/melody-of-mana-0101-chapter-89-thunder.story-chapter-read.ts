@@ -9,7 +9,7 @@ export const melodyOfMana0101Chapter89Thunder = {
   position: 101,
   ownLength: 2306,
   ownProgress: 2306,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:40.206Z",
   publishedAt: "2022-02-16",
   externalLink:

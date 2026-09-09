@@ -9,7 +9,7 @@ export const melodyOfMana0277Chapter263ThePriestess = {
   position: 277,
   ownLength: 1374,
   ownProgress: 1374,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:24.083Z",
   publishedAt: "2023-08-30",
   externalLink:

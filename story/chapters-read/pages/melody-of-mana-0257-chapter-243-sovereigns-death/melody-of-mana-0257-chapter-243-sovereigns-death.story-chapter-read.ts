@@ -9,7 +9,7 @@ export const melodyOfMana0257Chapter243SovereignsDeath = {
   position: 257,
   ownLength: 2199,
   ownProgress: 2199,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:41.720Z",
   publishedAt: "2023-06-07",
   externalLink:

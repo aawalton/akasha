@@ -9,7 +9,7 @@ export const melodyOfMana0270Chapter256TheOffice = {
   position: 270,
   ownLength: 1714,
   ownProgress: 1714,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:09.081Z",
   publishedAt: "2023-08-03",
   externalLink:

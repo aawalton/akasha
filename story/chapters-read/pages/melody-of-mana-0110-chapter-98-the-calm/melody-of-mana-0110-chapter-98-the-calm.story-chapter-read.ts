@@ -9,7 +9,7 @@ export const melodyOfMana0110Chapter98TheCalm = {
   position: 110,
   ownLength: 1789,
   ownProgress: 1789,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:56.907Z",
   publishedAt: "2022-03-23",
   externalLink:

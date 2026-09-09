@@ -9,7 +9,7 @@ export const melodyOfMana0191Chapter177TheCrater = {
   position: 191,
   ownLength: 1663,
   ownProgress: 1663,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:25.768Z",
   publishedAt: "2022-10-08",
   externalLink:

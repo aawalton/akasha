@@ -9,7 +9,7 @@ export const melodyOfMana0283Chapter269ReturnToSilversprings = {
   position: 283,
   ownLength: 1714,
   ownProgress: 1714,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:36.309Z",
   publishedAt: "2023-09-20",
   externalLink:

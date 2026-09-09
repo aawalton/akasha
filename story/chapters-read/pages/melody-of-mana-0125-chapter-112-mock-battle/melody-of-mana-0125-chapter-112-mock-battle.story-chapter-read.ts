@@ -9,7 +9,7 @@ export const melodyOfMana0125Chapter112MockBattle = {
   position: 125,
   ownLength: 2094,
   ownProgress: 2094,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:26.101Z",
   publishedAt: "2022-04-11",
   externalLink:

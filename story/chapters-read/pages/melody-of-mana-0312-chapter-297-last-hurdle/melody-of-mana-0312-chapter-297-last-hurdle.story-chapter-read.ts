@@ -9,7 +9,7 @@ export const melodyOfMana0312Chapter297LastHurdle = {
   position: 312,
   ownLength: 1267,
   ownProgress: 1267,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:35.376Z",
   publishedAt: "2024-01-13",
   externalLink:

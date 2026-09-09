@@ -9,7 +9,7 @@ export const melodyOfMana0194Chapter180RuminationsOfTheMonarch = {
   position: 194,
   ownLength: 1613,
   ownProgress: 1613,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:31.984Z",
   publishedAt: "2022-10-19",
   externalLink:

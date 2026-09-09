@@ -9,7 +9,7 @@ export const melodyOfMana0085Chapter74TheDeanSOffice = {
   position: 85,
   ownLength: 2021,
   ownProgress: 2021,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:08.265Z",
   publishedAt: "2021-12-31",
   externalLink:

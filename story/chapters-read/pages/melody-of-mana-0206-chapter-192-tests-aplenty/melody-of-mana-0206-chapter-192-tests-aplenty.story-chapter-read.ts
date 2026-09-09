@@ -9,7 +9,7 @@ export const melodyOfMana0206Chapter192TestsAplenty = {
   position: 206,
   ownLength: 1854,
   ownProgress: 1854,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:56.835Z",
   publishedAt: "2022-11-30",
   externalLink:

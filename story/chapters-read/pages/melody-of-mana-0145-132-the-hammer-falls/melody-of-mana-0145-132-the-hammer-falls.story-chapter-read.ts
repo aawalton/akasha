@@ -9,7 +9,7 @@ export const melodyOfMana0145132TheHammerFalls = {
   position: 145,
   ownLength: 2089,
   ownProgress: 2089,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:51.387Z",
   publishedAt: "2022-05-04",
   externalLink:

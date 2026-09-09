@@ -9,7 +9,7 @@ export const melodyOfMana0117Chapter104QuarrelsAndHelpingOut = {
   position: 117,
   ownLength: 2196,
   ownProgress: 2196,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:10.179Z",
   publishedAt: "2022-04-07",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0135Chapter122DinnerGuests = {
   position: 135,
   ownLength: 1999,
   ownProgress: 1999,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:30.367Z",
   publishedAt: "2022-04-21",
   externalLink:

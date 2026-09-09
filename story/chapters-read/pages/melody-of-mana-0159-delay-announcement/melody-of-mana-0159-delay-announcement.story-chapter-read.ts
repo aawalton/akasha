@@ -9,7 +9,7 @@ export const melodyOfMana0159DelayAnnouncement = {
   position: 159,
   ownLength: 116,
   ownProgress: 116,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:20.579Z",
   publishedAt: "2022-06-18",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0071Chapter61CocktailsAndHangovers = {
   position: 71,
   ownLength: 2058,
   ownProgress: 2058,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:39.047Z",
   publishedAt: "2021-11-16",
   externalLink:

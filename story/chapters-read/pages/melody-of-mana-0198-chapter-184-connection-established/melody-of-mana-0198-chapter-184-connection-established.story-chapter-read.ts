@@ -9,7 +9,7 @@ export const melodyOfMana0198Chapter184ConnectionEstablished = {
   position: 198,
   ownLength: 1737,
   ownProgress: 1737,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:40.162Z",
   publishedAt: "2022-11-01",
   externalLink:

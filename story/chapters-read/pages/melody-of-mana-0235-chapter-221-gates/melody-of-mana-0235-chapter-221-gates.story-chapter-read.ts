@@ -9,7 +9,7 @@ export const melodyOfMana0235Chapter221Gates = {
   position: 235,
   ownLength: 2048,
   ownProgress: 2048,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:56.622Z",
   publishedAt: "2023-03-22",
   externalLink:

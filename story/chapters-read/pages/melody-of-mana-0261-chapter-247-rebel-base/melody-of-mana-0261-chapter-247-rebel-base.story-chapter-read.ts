@@ -9,7 +9,7 @@ export const melodyOfMana0261Chapter247RebelBase = {
   position: 261,
   ownLength: 1664,
   ownProgress: 1664,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:50.174Z",
   publishedAt: "2023-06-21",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0163Chapter149SilverstonePort = {
   position: 163,
   ownLength: 1974,
   ownProgress: 1974,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:28.781Z",
   publishedAt: "2022-06-28",
   externalLink:

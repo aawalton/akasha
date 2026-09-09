@@ -9,7 +9,7 @@ export const melodyOfMana0316Epilogue1 = {
   position: 316,
   ownLength: 956,
   ownProgress: 956,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:43.558Z",
   publishedAt: "2024-01-27",
   externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1496404/epilogue-1",

@@ -9,7 +9,7 @@ export const melodyOfMana0087Chapter76WeatherAndTheDance = {
   position: 87,
   ownLength: 2421,
   ownProgress: 2421,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:12.445Z",
   publishedAt: "2022-01-07",
   externalLink:

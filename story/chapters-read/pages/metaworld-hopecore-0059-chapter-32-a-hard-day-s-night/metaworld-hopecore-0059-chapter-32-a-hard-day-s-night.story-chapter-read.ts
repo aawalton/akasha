@@ -8,7 +8,7 @@ export const metaworldHopecore0059Chapter32AHardDaySNight = {
   story: "metaworld-hopecore",
   position: 59,
   ownLength: 2336,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376682/chapter-32-a-hard-days-night",

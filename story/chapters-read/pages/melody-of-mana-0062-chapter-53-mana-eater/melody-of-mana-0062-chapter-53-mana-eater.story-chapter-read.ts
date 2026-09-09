@@ -9,7 +9,7 @@ export const melodyOfMana0062Chapter53ManaEater = {
   position: 62,
   ownLength: 1833,
   ownProgress: 1833,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:19.788Z",
   publishedAt: "2021-10-19",
   externalLink:

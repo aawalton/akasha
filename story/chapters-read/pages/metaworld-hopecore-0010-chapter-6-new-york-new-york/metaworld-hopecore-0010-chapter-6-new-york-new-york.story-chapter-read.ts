@@ -8,7 +8,7 @@ export const metaworldHopecore0010Chapter6NewYorkNewYork = {
   story: "metaworld-hopecore",
   position: 10,
   ownLength: 2008,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364625/chapter-6-new-york-new-york",

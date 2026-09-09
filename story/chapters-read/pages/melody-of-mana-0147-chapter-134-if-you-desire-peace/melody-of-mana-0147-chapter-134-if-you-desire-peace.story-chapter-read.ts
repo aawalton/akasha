@@ -9,7 +9,7 @@ export const melodyOfMana0147Chapter134IfYouDesirePeace = {
   position: 147,
   ownLength: 3557,
   ownProgress: 3557,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:55.555Z",
   publishedAt: "2022-05-05",
   externalLink:

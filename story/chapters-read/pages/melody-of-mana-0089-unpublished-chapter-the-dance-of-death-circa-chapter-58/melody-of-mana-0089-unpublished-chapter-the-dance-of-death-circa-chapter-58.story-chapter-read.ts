@@ -9,7 +9,7 @@ export const melodyOfMana0089UnpublishedChapterTheDanceOfDeathCircaChapter58 = {
   position: 89,
   ownLength: 2615,
   ownProgress: 2615,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:16.475Z",
   publishedAt: "2022-01-09",
   externalLink:

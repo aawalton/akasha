@@ -9,7 +9,7 @@ export const melodyOfMana0255Chapter241Eclipse = {
   position: 255,
   ownLength: 1659,
   ownProgress: 1659,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:37.832Z",
   publishedAt: "2023-05-30",
   externalLink:

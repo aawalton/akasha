@@ -9,7 +9,7 @@ export const melodyOfMana0234Chapter220FallenCity = {
   position: 234,
   ownLength: 1845,
   ownProgress: 1845,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:54.623Z",
   publishedAt: "2023-03-17",
   externalLink:

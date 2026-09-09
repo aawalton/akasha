@@ -9,7 +9,7 @@ export const melodyOfMana0294Chapter279Museums = {
   position: 294,
   ownLength: 1315,
   ownProgress: 1315,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:58.845Z",
   publishedAt: "2023-10-28",
   externalLink:

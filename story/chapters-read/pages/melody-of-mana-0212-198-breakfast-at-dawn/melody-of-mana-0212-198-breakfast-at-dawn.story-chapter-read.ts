@@ -9,7 +9,7 @@ export const melodyOfMana0212198BreakfastAtDawn = {
   position: 212,
   ownLength: 1277,
   ownProgress: 1277,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:09.056Z",
   publishedAt: "2022-12-28",
   externalLink:

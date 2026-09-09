@@ -9,7 +9,7 @@ export const melodyOfMana0214Chapter200TowardsConvergence = {
   position: 214,
   ownLength: 1247,
   ownProgress: 1247,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:13.271Z",
   publishedAt: "2023-01-06",
   externalLink:

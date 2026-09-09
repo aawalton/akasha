@@ -9,7 +9,7 @@ export const melodyOfMana0193Chapter179ReunitedCompanions = {
   position: 193,
   ownLength: 1720,
   ownProgress: 1720,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:29.967Z",
   publishedAt: "2022-10-14",
   externalLink:

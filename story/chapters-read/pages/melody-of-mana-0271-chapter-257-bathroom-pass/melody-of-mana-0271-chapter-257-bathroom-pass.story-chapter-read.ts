@@ -9,7 +9,7 @@ export const melodyOfMana0271Chapter257BathroomPass = {
   position: 271,
   ownLength: 1386,
   ownProgress: 1386,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:11.244Z",
   publishedAt: "2023-08-08",
   externalLink:

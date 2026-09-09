@@ -9,7 +9,7 @@ export const melodyOfMana0189Chapter175VengeanceSEnd = {
   position: 189,
   ownLength: 2479,
   ownProgress: 2479,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:21.799Z",
   publishedAt: "2022-10-02",
   externalLink:

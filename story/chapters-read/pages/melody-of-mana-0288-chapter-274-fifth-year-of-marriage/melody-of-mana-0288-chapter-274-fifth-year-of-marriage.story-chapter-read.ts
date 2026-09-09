@@ -9,7 +9,7 @@ export const melodyOfMana0288Chapter274FifthYearOfMarriage = {
   position: 288,
   ownLength: 1316,
   ownProgress: 1316,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:46.675Z",
   publishedAt: "2023-10-07",
   externalLink:

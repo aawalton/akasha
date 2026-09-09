@@ -9,7 +9,7 @@ export const melodyOfMana0066HalloweenSpecialChapter = {
   position: 66,
   ownLength: 2084,
   ownProgress: 2084,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:28.664Z",
   publishedAt: "2021-10-31",
   externalLink:

@@ -8,7 +8,7 @@ export const metaworldHopecore0014Chapter8TearsOfAClown = {
   story: "metaworld-hopecore",
   position: 14,
   ownLength: 1791,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364692/chapter-8--tears-of-a-clown",

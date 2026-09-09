@@ -9,7 +9,7 @@ export const melodyOfMana0240Chapter226PokingAround = {
   position: 240,
   ownLength: 1985,
   ownProgress: 1985,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:07.214Z",
   publishedAt: "2023-04-08",
   externalLink:

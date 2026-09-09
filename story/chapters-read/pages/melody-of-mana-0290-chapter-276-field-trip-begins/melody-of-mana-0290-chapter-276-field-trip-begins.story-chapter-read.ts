@@ -9,7 +9,7 @@ export const melodyOfMana0290Chapter276FieldTripBegins = {
   position: 290,
   ownLength: 1266,
   ownProgress: 1266,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:50.921Z",
   publishedAt: "2023-10-14",
   externalLink:

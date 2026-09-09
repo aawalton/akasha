@@ -9,7 +9,7 @@ export const melodyOfMana0267Chapter253NightOff = {
   position: 267,
   ownLength: 1577,
   ownProgress: 1577,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:02.462Z",
   publishedAt: "2023-07-14",
   externalLink:

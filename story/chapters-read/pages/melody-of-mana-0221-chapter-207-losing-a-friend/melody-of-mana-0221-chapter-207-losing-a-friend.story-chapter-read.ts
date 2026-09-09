@@ -9,7 +9,7 @@ export const melodyOfMana0221Chapter207LosingAFriend = {
   position: 221,
   ownLength: 2563,
   ownProgress: 2563,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:28.141Z",
   publishedAt: "2023-02-01",
   externalLink:

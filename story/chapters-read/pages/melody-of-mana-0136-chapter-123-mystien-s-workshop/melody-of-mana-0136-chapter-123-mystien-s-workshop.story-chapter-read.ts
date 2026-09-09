@@ -9,7 +9,7 @@ export const melodyOfMana0136Chapter123MystienSWorkshop = {
   position: 136,
   ownLength: 2023,
   ownProgress: 2023,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:32.583Z",
   publishedAt: "2022-04-21",
   externalLink:

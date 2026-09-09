@@ -9,7 +9,7 @@ export const melodyOfMana0050Chapter43TheExam = {
   position: 50,
   ownLength: 2278,
   ownProgress: 2278,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:55.416Z",
   publishedAt: "2021-09-10",
   externalLink:

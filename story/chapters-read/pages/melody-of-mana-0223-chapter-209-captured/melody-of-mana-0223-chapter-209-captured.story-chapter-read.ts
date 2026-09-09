@@ -9,7 +9,7 @@ export const melodyOfMana0223Chapter209Captured = {
   position: 223,
   ownLength: 1451,
   ownProgress: 1451,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:32.144Z",
   publishedAt: "2023-02-07",
   externalLink:

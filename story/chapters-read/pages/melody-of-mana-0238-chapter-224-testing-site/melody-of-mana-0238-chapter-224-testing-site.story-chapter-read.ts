@@ -9,7 +9,7 @@ export const melodyOfMana0238Chapter224TestingSite = {
   position: 238,
   ownLength: 2022,
   ownProgress: 2022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:03.266Z",
   publishedAt: "2023-04-01",
   externalLink:

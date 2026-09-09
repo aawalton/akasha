@@ -8,7 +8,7 @@ export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   story: "metaworld-hopecore",
   position: 72,
   ownLength: 2820,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3397283/chapter-39-the-sound-of-silence",

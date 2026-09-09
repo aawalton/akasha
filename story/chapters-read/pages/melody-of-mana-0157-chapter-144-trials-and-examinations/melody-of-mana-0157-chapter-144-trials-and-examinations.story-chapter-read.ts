@@ -9,7 +9,7 @@ export const melodyOfMana0157Chapter144TrialsAndExaminations = {
   position: 157,
   ownLength: 2078,
   ownProgress: 2078,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:16.340Z",
   publishedAt: "2022-06-10",
   externalLink:

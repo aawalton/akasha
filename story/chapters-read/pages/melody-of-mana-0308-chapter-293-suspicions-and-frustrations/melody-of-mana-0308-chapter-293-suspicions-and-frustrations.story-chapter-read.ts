@@ -9,7 +9,7 @@ export const melodyOfMana0308Chapter293SuspicionsAndFrustrations = {
   position: 308,
   ownLength: 1310,
   ownProgress: 1310,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:27.614Z",
   publishedAt: "2023-12-16",
   externalLink:

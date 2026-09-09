@@ -9,7 +9,7 @@ export const melodyOfMana0301Chapter286HelloAgain = {
   position: 301,
   ownLength: 1498,
   ownProgress: 1498,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:13.158Z",
   publishedAt: "2023-11-22",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0225Chapter211IntoTheTundra = {
   position: 225,
   ownLength: 2087,
   ownProgress: 2087,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:36.054Z",
   publishedAt: "2023-02-15",
   externalLink:

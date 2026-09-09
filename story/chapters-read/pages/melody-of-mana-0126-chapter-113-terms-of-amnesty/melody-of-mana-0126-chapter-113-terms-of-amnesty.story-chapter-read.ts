@@ -9,7 +9,7 @@ export const melodyOfMana0126Chapter113TermsOfAmnesty = {
   position: 126,
   ownLength: 2400,
   ownProgress: 2400,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:28.269Z",
   publishedAt: "2022-04-11",
   externalLink:

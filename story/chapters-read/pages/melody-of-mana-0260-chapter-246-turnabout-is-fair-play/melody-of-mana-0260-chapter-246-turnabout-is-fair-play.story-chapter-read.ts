@@ -9,7 +9,7 @@ export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
   position: 260,
   ownLength: 1659,
   ownProgress: 1659,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:48.150Z",
   publishedAt: "2023-06-17",
   externalLink:

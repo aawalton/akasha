@@ -9,7 +9,7 @@ export const melodyOfMana0185Chapter171PowerOn = {
   position: 185,
   ownLength: 2171,
   ownProgress: 2171,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:13.956Z",
   publishedAt: "2022-09-16",
   externalLink:

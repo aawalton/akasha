@@ -9,7 +9,7 @@ export const melodyOfMana0172Chapter158IslandInhabitants = {
   position: 172,
   ownLength: 2068,
   ownProgress: 2068,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:47.666Z",
   publishedAt: "2022-07-31",
   externalLink:

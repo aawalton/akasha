@@ -8,7 +8,7 @@ export const metaworldHopecore0038Chapter20SuspiciousMinds2 = {
   story: "metaworld-hopecore",
   position: 38,
   ownLength: 2090,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368920/chapter-20-suspicious-minds-2",

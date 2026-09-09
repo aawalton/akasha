@@ -9,7 +9,7 @@ export const melodyOfMana0107Chapter95EmergencyEquipmentAndPineaSScandalousOutfi
   position: 107,
   ownLength: 2185,
   ownProgress: 2185,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:51.378Z",
   publishedAt: "2022-03-12",
   externalLink:

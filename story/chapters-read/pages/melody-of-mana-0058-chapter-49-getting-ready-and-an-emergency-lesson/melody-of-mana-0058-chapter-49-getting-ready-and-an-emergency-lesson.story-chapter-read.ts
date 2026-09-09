@@ -9,7 +9,7 @@ export const melodyOfMana0058Chapter49GettingReadyAndAnEmergencyLesson = {
   position: 58,
   ownLength: 2060,
   ownProgress: 2060,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:11.766Z",
   publishedAt: "2021-10-05",
   externalLink:

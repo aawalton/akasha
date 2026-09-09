@@ -9,7 +9,7 @@ export const melodyOfMana0141Chapter128DistortionsAndDances = {
   position: 141,
   ownLength: 2170,
   ownProgress: 2170,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:43.073Z",
   publishedAt: "2022-05-03",
   externalLink:

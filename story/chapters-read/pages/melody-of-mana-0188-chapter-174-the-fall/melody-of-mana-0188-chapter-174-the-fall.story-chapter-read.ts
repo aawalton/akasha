@@ -9,7 +9,7 @@ export const melodyOfMana0188Chapter174TheFall = {
   position: 188,
   ownLength: 1532,
   ownProgress: 1532,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:19.828Z",
   publishedAt: "2022-09-28",
   externalLink:

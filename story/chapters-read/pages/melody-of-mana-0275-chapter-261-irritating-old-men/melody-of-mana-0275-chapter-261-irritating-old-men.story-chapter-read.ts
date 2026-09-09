@@ -9,7 +9,7 @@ export const melodyOfMana0275Chapter261IrritatingOldMen = {
   position: 275,
   ownLength: 1305,
   ownProgress: 1305,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:19.573Z",
   publishedAt: "2023-08-23",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0268Chapter254Consultation = {
   position: 268,
   ownLength: 1449,
   ownProgress: 1449,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:04.480Z",
   publishedAt: "2023-07-19",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0057Chapter48EndOfAutumn = {
   position: 57,
   ownLength: 2400,
   ownProgress: 2400,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:09.673Z",
   publishedAt: "2021-10-01",
   externalLink:

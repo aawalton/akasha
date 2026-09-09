@@ -9,7 +9,7 @@ export const melodyOfMana0307Chapter292SubtleAdvice = {
   position: 307,
   ownLength: 1716,
   ownProgress: 1716,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:25.676Z",
   publishedAt: "2023-12-13",
   externalLink:

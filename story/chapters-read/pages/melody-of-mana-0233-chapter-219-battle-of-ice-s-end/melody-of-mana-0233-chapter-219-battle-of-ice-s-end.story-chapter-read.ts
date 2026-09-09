@@ -9,7 +9,7 @@ export const melodyOfMana0233Chapter219BattleOfIceSEnd = {
   position: 233,
   ownLength: 2048,
   ownProgress: 2048,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:52.713Z",
   publishedAt: "2023-03-14",
   externalLink:

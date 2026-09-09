@@ -9,7 +9,7 @@ export const melodyOfMana0055SideStory8FoolSFolly = {
   position: 55,
   ownLength: 1008,
   ownProgress: 1008,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:05.689Z",
   publishedAt: "2021-09-28",
   externalLink:

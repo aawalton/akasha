@@ -9,7 +9,7 @@ export const melodyOfMana0219Chapter205RoadsAndMisdirections = {
   position: 219,
   ownLength: 1785,
   ownProgress: 1785,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:24.335Z",
   publishedAt: "2023-01-25",
   externalLink:

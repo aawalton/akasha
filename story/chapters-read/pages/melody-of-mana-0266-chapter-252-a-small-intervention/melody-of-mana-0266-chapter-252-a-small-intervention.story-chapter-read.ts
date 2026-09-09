@@ -9,7 +9,7 @@ export const melodyOfMana0266Chapter252ASmallIntervention = {
   position: 266,
   ownLength: 1512,
   ownProgress: 1512,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:00.394Z",
   publishedAt: "2023-07-12",
   externalLink:

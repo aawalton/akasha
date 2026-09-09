@@ -9,7 +9,7 @@ export const melodyOfMana0074Chapter64AnnouncementsPartiesAndLetters = {
   position: 74,
   ownLength: 2126,
   ownProgress: 2126,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:45.256Z",
   publishedAt: "2021-11-26",
   externalLink:

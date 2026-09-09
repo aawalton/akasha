@@ -9,7 +9,7 @@ export const melodyOfMana0143Chapter130TheChase = {
   position: 143,
   ownLength: 2101,
   ownProgress: 2101,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:47.296Z",
   publishedAt: "2022-05-04",
   externalLink:

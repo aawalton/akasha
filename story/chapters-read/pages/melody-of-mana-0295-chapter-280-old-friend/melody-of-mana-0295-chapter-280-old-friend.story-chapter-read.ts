@@ -9,7 +9,7 @@ export const melodyOfMana0295Chapter280OldFriend = {
   position: 295,
   ownLength: 1177,
   ownProgress: 1177,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:00.720Z",
   publishedAt: "2023-10-31",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0262Chapter248GoodbyePrincess = {
   position: 262,
   ownLength: 1808,
   ownProgress: 1808,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:52.255Z",
   publishedAt: "2023-06-24",
   externalLink:

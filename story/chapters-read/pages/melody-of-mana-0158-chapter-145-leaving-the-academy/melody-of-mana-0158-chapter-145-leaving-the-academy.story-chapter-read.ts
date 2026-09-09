@@ -9,7 +9,7 @@ export const melodyOfMana0158Chapter145LeavingTheAcademy = {
   position: 158,
   ownLength: 1900,
   ownProgress: 1900,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:18.370Z",
   publishedAt: "2022-06-14",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0309Chapter294SharingAndCaring = {
   position: 309,
   ownLength: 1296,
   ownProgress: 1296,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:29.543Z",
   publishedAt: "2023-12-20",
   externalLink:

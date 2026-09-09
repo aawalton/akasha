@@ -9,7 +9,7 @@ export const melodyOfMana0196Chapter182DeliveringTheNews = {
   position: 196,
   ownLength: 1964,
   ownProgress: 1964,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:36.155Z",
   publishedAt: "2022-10-26",
   externalLink:

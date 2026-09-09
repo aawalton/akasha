@@ -9,7 +9,7 @@ export const melodyOfMana0179Chapter165WaterfallScene = {
   position: 179,
   ownLength: 1697,
   ownProgress: 1697,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:02.036Z",
   publishedAt: "2022-08-26",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0300Chapter285ANewPlan = {
   position: 300,
   ownLength: 1560,
   ownProgress: 1560,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:11.080Z",
   publishedAt: "2023-11-18",
   externalLink:

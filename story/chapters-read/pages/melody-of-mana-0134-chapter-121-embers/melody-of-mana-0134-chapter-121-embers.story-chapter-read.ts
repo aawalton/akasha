@@ -9,7 +9,7 @@ export const melodyOfMana0134Chapter121Embers = {
   position: 134,
   ownLength: 2024,
   ownProgress: 2024,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:37:00.197Z",
   publishedAt: "2022-04-19",
   externalLink:

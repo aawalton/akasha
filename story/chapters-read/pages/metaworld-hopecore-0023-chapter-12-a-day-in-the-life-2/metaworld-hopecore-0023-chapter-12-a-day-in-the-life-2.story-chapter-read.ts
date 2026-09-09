@@ -8,7 +8,7 @@ export const metaworldHopecore0023Chapter12ADayInTheLife2 = {
   story: "metaworld-hopecore",
   position: 23,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368583/chapter-12-a-day-in-the-life-2",

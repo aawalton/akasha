@@ -8,7 +8,7 @@ export const metaworldHopecore0008Chapter5ThreeWoodenCrosses = {
   story: "metaworld-hopecore",
   position: 8,
   ownLength: 1711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364596/chapter-5-three-wooden-crosses",

@@ -9,7 +9,7 @@ export const melodyOfMana0273Chapter259BitOfAChat = {
   position: 273,
   ownLength: 1308,
   ownProgress: 1308,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:15.270Z",
   publishedAt: "2023-08-16",
   externalLink:

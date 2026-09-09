@@ -8,7 +8,7 @@ export const metaworldHopecore0018Chapter10Changes = {
   story: "metaworld-hopecore",
   position: 18,
   ownLength: 3023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3364723/chapter-10-changes",

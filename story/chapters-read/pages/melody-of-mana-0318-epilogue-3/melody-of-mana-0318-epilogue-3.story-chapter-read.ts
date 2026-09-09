@@ -8,7 +8,7 @@ export const melodyOfMana0318Epilogue3 = {
   story: "story-read/melody-of-mana",
   position: 318,
   ownLength: 852,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-30",
   externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana/chapter/1500515/epilogue-3",
   externalId: "1500515",

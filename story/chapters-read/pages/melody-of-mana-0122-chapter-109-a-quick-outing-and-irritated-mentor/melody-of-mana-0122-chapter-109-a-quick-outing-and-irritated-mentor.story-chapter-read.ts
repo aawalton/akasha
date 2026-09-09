@@ -9,7 +9,7 @@ export const melodyOfMana0122Chapter109AQuickOutingAndIrritatedMentor = {
   position: 122,
   ownLength: 2071,
   ownProgress: 2071,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:19.962Z",
   publishedAt: "2022-04-11",
   externalLink:

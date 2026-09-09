@@ -9,7 +9,7 @@ export const melodyOfMana0095Chapter83PainAndInsanity = {
   position: 95,
   ownLength: 2147,
   ownProgress: 2147,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:28.842Z",
   publishedAt: "2022-01-28",
   externalLink:

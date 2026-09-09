@@ -8,7 +8,7 @@ export const metaworldHopecore0058Chapter31IKnowThingsNow2 = {
   story: "metaworld-hopecore",
   position: 58,
   ownLength: 2513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3376618/chapter-31-i-know-things-now-2",

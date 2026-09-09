@@ -8,7 +8,7 @@ export const metaworldHopecore0050Chapter26TheManComesAround2 = {
   story: "metaworld-hopecore",
   position: 50,
   ownLength: 2482,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3373932/chapter-26-the-man-comes-around-2",

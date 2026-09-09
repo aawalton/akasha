@@ -9,7 +9,7 @@ export const melodyOfMana0281Chapter267Cleanup = {
   position: 281,
   ownLength: 1169,
   ownProgress: 1169,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:32.175Z",
   publishedAt: "2023-09-12",
   externalLink:

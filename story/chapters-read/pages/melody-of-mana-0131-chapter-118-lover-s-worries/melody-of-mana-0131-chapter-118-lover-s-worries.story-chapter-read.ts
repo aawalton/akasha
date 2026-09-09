@@ -9,7 +9,7 @@ export const melodyOfMana0131Chapter118LoverSWorries = {
   position: 131,
   ownLength: 2022,
   ownProgress: 2022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:54.243Z",
   publishedAt: "2022-04-14",
   externalLink:

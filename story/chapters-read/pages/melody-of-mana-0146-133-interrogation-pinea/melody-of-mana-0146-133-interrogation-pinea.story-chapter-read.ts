@@ -9,7 +9,7 @@ export const melodyOfMana0146133InterrogationPinea = {
   position: 146,
   ownLength: 1986,
   ownProgress: 1986,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:53.579Z",
   publishedAt: "2022-05-04",
   externalLink:

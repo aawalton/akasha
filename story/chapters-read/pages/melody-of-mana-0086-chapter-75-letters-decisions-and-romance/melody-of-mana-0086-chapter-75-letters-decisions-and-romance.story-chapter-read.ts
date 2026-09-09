@@ -9,7 +9,7 @@ export const melodyOfMana0086Chapter75LettersDecisionsAndRomance = {
   position: 86,
   ownLength: 2047,
   ownProgress: 2047,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:10.371Z",
   publishedAt: "2022-01-04",
   externalLink:

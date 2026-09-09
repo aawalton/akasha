@@ -9,7 +9,7 @@ export const melodyOfMana0096Chapter84HospitalOfTheShield = {
   position: 96,
   ownLength: 2099,
   ownProgress: 2099,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:30.890Z",
   publishedAt: "2022-02-01",
   externalLink:

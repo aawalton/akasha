@@ -9,7 +9,7 @@ export const melodyOfMana0129Chapter116ReturningToTheAcademy = {
   position: 129,
   ownLength: 1846,
   ownProgress: 1846,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:50.188Z",
   publishedAt: "2022-04-12",
   externalLink:

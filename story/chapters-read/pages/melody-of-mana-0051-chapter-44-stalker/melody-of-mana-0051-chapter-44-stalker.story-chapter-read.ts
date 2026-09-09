@@ -9,7 +9,7 @@ export const melodyOfMana0051Chapter44Stalker = {
   position: 51,
   ownLength: 1996,
   ownProgress: 1996,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:57.442Z",
   publishedAt: "2021-09-14",
   externalLink:

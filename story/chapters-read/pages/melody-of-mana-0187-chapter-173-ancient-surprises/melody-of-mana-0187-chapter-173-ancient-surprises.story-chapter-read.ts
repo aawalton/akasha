@@ -9,7 +9,7 @@ export const melodyOfMana0187Chapter173AncientSurprises = {
   position: 187,
   ownLength: 1790,
   ownProgress: 1790,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:17.933Z",
   publishedAt: "2022-09-24",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0203Chapter189ImperialCouple = {
   position: 203,
   ownLength: 1737,
   ownProgress: 1737,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:50.371Z",
   publishedAt: "2022-11-18",
   externalLink:

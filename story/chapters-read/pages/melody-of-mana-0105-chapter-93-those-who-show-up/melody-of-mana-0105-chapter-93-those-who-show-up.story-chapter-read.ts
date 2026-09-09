@@ -9,7 +9,7 @@ export const melodyOfMana0105Chapter93ThoseWhoShowUp = {
   position: 105,
   ownLength: 1782,
   ownProgress: 1782,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:47.674Z",
   publishedAt: "2022-03-05",
   externalLink:

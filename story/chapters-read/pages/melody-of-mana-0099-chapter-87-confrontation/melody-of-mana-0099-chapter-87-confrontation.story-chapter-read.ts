@@ -9,7 +9,7 @@ export const melodyOfMana0099Chapter87Confrontation = {
   position: 99,
   ownLength: 2113,
   ownProgress: 2113,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:36.541Z",
   publishedAt: "2022-02-09",
   externalLink:

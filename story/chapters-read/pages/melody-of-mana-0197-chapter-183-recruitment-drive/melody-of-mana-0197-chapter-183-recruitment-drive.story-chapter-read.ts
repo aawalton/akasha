@@ -9,7 +9,7 @@ export const melodyOfMana0197Chapter183RecruitmentDrive = {
   position: 197,
   ownLength: 1634,
   ownProgress: 1634,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:38.170Z",
   publishedAt: "2022-10-29",
   externalLink:

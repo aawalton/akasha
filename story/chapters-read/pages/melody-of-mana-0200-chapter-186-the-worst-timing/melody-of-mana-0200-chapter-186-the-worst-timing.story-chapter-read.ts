@@ -9,7 +9,7 @@ export const melodyOfMana0200Chapter186TheWorstTiming = {
   position: 200,
   ownLength: 1649,
   ownProgress: 1649,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:44.268Z",
   publishedAt: "2022-11-09",
   externalLink:

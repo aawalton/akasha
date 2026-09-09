@@ -9,7 +9,7 @@ export const melodyOfMana0220206HistoryLesson = {
   position: 220,
   ownLength: 2472,
   ownProgress: 2472,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:26.240Z",
   publishedAt: "2023-01-28",
   externalLink:

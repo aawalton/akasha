@@ -9,7 +9,7 @@ export const melodyOfMana0230Chapter216HotSpringBattle = {
   position: 230,
   ownLength: 2773,
   ownProgress: 2773,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:33:46.562Z",
   publishedAt: "2023-03-04",
   externalLink:

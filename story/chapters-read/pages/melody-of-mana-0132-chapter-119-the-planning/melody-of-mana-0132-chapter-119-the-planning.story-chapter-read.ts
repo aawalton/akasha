@@ -9,7 +9,7 @@ export const melodyOfMana0132Chapter119ThePlanning = {
   position: 132,
   ownLength: 2032,
   ownProgress: 2032,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:56.174Z",
   publishedAt: "2022-04-15",
   externalLink:

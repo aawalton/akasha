@@ -9,7 +9,7 @@ export const melodyOfMana0186Chapter172Golems = {
   position: 186,
   ownLength: 1158,
   ownProgress: 1158,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:16.042Z",
   publishedAt: "2022-09-20",
   externalLink:

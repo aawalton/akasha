@@ -8,7 +8,7 @@ export const metaworldHopecore0032Chapter17TheEntertainer = {
   story: "metaworld-hopecore",
   position: 32,
   ownLength: 3349,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368847/chapter-17-the-entertainer",

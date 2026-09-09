@@ -9,7 +9,7 @@ export const melodyOfMana0278264NegotiationsBegin = {
   position: 278,
   ownLength: 1296,
   ownProgress: 1296,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:35:26.178Z",
   publishedAt: "2023-09-02",
   externalLink:

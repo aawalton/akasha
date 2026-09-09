@@ -9,7 +9,7 @@ export const melodyOfMana0082Chapter71CombatSpellcasting = {
   position: 82,
   ownLength: 2114,
   ownProgress: 2114,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:29:02.395Z",
   publishedAt: "2021-12-21",
   externalLink:

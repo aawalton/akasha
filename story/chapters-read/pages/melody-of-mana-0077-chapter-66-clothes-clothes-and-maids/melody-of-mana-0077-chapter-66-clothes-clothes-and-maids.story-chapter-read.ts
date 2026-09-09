@@ -9,7 +9,7 @@ export const melodyOfMana0077Chapter66ClothesClothesAndMaids = {
   position: 77,
   ownLength: 2498,
   ownProgress: 2498,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:28:51.820Z",
   publishedAt: "2021-12-03",
   externalLink:

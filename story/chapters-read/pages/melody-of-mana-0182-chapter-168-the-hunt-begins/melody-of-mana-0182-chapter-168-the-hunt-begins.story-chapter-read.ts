@@ -9,7 +9,7 @@ export const melodyOfMana0182Chapter168TheHuntBegins = {
   position: 182,
   ownLength: 1599,
   ownProgress: 1599,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:08.043Z",
   publishedAt: "2022-09-06",
   externalLink:

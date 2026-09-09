@@ -9,7 +9,7 @@ export const melodyOfMana0254Chapter240RoyalBall = {
   position: 254,
   ownLength: 1497,
   ownProgress: 1497,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:35.903Z",
   publishedAt: "2023-05-26",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0201Chapter187GardenTalk = {
   position: 201,
   ownLength: 1496,
   ownProgress: 1496,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:32:46.285Z",
   publishedAt: "2022-11-11",
   externalLink:

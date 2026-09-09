@@ -9,7 +9,7 @@ export const melodyOfMana0177Chapter163VariousPerspectives = {
   position: 177,
   ownLength: 1571,
   ownProgress: 1571,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:58.166Z",
   publishedAt: "2022-08-20",
   externalLink:

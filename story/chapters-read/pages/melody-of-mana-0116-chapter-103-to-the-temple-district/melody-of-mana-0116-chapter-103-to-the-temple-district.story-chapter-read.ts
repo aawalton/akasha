@@ -9,7 +9,7 @@ export const melodyOfMana0116Chapter103ToTheTempleDistrict = {
   position: 116,
   ownLength: 2203,
   ownProgress: 2203,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:08.244Z",
   publishedAt: "2022-04-06",
   externalLink:

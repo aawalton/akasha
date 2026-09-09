@@ -9,7 +9,7 @@ export const melodyOfMana0253Chapter239TwilightFalling = {
   position: 253,
   ownLength: 1756,
   ownProgress: 1756,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:34:33.558Z",
   publishedAt: "2023-05-24",
   externalLink:

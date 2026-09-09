@@ -9,7 +9,7 @@ export const melodyOfMana0171Chapter157MakingShore = {
   position: 171,
   ownLength: 2095,
   ownProgress: 2095,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:31:45.584Z",
   publishedAt: "2022-07-26",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0305Chapter290ChildrenChange = {
   position: 305,
   ownLength: 1190,
   ownProgress: 1190,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:21.543Z",
   publishedAt: "2023-12-06",
   externalLink:

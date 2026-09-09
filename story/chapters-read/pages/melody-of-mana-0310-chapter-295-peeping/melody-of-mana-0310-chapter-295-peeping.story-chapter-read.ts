@@ -9,7 +9,7 @@ export const melodyOfMana0310Chapter295Peeping = {
   position: 310,
   ownLength: 1503,
   ownProgress: 1503,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:36:31.452Z",
   publishedAt: "2024-01-05",
   externalLink:

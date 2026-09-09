@@ -8,7 +8,7 @@ export const metaworldHopecore0027Chapter14ThePretender2 = {
   story: "metaworld-hopecore",
   position: 27,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3368692/chapter-14-the-pretender-2",

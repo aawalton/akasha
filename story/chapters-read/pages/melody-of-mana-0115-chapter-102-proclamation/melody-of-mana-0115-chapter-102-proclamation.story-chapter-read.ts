@@ -9,7 +9,7 @@ export const melodyOfMana0115Chapter102Proclamation = {
   position: 115,
   ownLength: 1868,
   ownProgress: 1868,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:30:06.292Z",
   publishedAt: "2022-04-05",
   externalLink:
