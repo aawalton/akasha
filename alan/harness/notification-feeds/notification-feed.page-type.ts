@@ -23,6 +23,8 @@ export const notificationFeed = {
     "text-property/notification-kind",
     "text-property/notification-link",
     "text-property/notification-source",
+    "module/notifying",
+    "module/notification-feed-rows",
   ],
   properties: [
     { pageProperty: "relation-property/person", required: true, many: false },
