@@ -7,7 +7,7 @@ import {
   RULE_SHOW_COLUMNS,
 } from "./inventory-rule-rows.module.code.ts"
 
-const RULE = {
+const RULE: ItemRule = {
   id: "rule-1",
   itemId: 45336,
   itemName: "Rubedite Ore",
@@ -16,7 +16,7 @@ const RULE = {
   locked: false,
   stockQuantity: 200,
   destination: "bank",
-} as unknown as ItemRule
+}
 
 describe("itemRuleRow", () => {
   test("prints the fields the item rule columns name and no others", () => {
