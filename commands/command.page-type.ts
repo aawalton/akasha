@@ -77,6 +77,7 @@ export const command = {
     "module/play-row",
     "module/change-costing",
     "module/apply-running",
+    "module/warrant-owing",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

@@ -35,7 +35,6 @@ export const commandSystem = {
     "module/seat-act-calling",
     "module/command-flags",
     "module/said-pathing",
-    "module/warrant-owing",
     "module/file-arguing",
     "module/mechanical-filing",
     "module/change-acting",

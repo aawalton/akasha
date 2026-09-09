@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given, Kind } from "../calling/calling.module.code.ts"
+import type { Given, Kind } from "../../../command-system/calling/calling.module.code.ts"
 import { unwarrantedIn } from "./warrant-owing.module.code.ts"
 
 const GIVEN: Given = {
