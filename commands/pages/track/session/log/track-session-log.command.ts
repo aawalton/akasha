@@ -53,6 +53,10 @@ export const trackSessionLog = {
     },
     {
       invariantKind: "departure",
+      statement: "The rows a day holds are sorted by when each began.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A wall time this command takes or says is a US Mountain time.",
     },
     {
