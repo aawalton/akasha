@@ -5,7 +5,7 @@ export const libAddonKeybinds = {
   pageTypeSlug: "held-addon",
   slug: "lib-addon-keybinds",
   addonName: "libAddonKeybinds",
-  esoAddonSlug: "temper-lib-addon-keybinds",
+  esoAddon: "temper-lib-addon-keybinds",
   addonKind: "library",
   heldBy: 13231,
   adjacents: ["temper-keybinder"],

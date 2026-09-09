@@ -5,7 +5,7 @@ export const libTreasure = {
   pageTypeSlug: "held-addon",
   slug: "lib-treasure",
   addonName: "LibTreasure",
-  esoAddonSlug: "temper-lib-treasure",
+  esoAddon: "temper-lib-treasure",
   addonKind: "library",
   heldBy: 13233,
   adjacents: ["temper-navigation", "temper-collections"],

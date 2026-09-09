@@ -5,7 +5,7 @@ export const libMapData = {
   pageTypeSlug: "held-addon",
   slug: "lib-map-data",
   addonName: "LibMapData",
-  esoAddonSlug: "temper-lib-map-data",
+  esoAddon: "temper-lib-map-data",
   addonKind: "library",
   heldBy: 13234,
   adjacents: ["temper-navigation", "temper-collections"],

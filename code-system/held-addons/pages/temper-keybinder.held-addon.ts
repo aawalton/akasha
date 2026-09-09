@@ -5,7 +5,7 @@ export const temperKeybinder = {
   pageTypeSlug: "held-addon",
   slug: "temper-keybinder",
   addonName: "TemperKeybinder",
-  esoAddonSlug: "temper-keybinder-addon",
+  esoAddon: "temper-keybinder-addon",
   addonKind: "ported",
   heldBy: 13122,
   adjacents: ["temper-crafting", "temper-navigation", "lib-addon-keybinds"],

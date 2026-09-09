@@ -5,7 +5,7 @@ export const temperCompanions = {
   pageTypeSlug: "held-addon",
   slug: "temper-companions",
   addonName: "TemperCompanions",
-  esoAddonSlug: "temper-companions-addon",
+  esoAddon: "temper-companions-addon",
   addonKind: "native",
   heldBy: 13024,
   adjacents: ["temper-characters"],

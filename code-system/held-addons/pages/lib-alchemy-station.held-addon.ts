@@ -5,7 +5,7 @@ export const libAlchemyStation = {
   pageTypeSlug: "held-addon",
   slug: "lib-alchemy-station",
   addonName: "LibAlchemyStation",
-  esoAddonSlug: "temper-lib-alchemy-station",
+  esoAddon: "temper-lib-alchemy-station",
   addonKind: "library",
   heldBy: 13207,
   adjacents: ["temper-crafting"],

@@ -5,7 +5,7 @@ export const temperCombat = {
   pageTypeSlug: "held-addon",
   slug: "temper-combat",
   addonName: "TemperCombat",
-  esoAddonSlug: "temper-combat-addon",
+  esoAddon: "temper-combat-addon",
   addonKind: "ported",
   heldBy: 14328,
   adjacents: ["lib-addon-menu", "lib-custom-menu", "lib-data-encode", "lib-debug-logger"],

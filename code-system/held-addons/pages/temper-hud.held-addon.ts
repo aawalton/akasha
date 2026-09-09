@@ -5,7 +5,7 @@ export const temperHud = {
   pageTypeSlug: "held-addon",
   slug: "temper-hud",
   addonName: "TemperHud",
-  esoAddonSlug: "temper-hud-addon",
+  esoAddon: "temper-hud-addon",
   addonKind: "native",
   heldBy: 13085,
   adjacents: ["temper-inventory", "temper-interface"],

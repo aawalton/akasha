@@ -5,7 +5,7 @@ export const temperQuests = {
   pageTypeSlug: "held-addon",
   slug: "temper-quests",
   addonName: "TemperQuests",
-  esoAddonSlug: "temper-quests-addon",
+  esoAddon: "temper-quests-addon",
   addonKind: "native",
   heldBy: 15656,
   adjacents: ["temper-characters"],

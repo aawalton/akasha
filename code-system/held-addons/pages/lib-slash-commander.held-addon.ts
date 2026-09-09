@@ -5,7 +5,7 @@ export const libSlashCommander = {
   pageTypeSlug: "held-addon",
   slug: "lib-slash-commander",
   addonName: "LibSlashCommander",
-  esoAddonSlug: "temper-lib-slash-commander",
+  esoAddon: "temper-lib-slash-commander",
   addonKind: "library",
   heldBy: 13228,
   adjacents: ["temper-crafting"],

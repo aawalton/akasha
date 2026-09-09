@@ -5,7 +5,7 @@ export const temperTableFunctions = {
   pageTypeSlug: "held-addon",
   slug: "temper-table-functions",
   addonName: "TemperTableFunctions",
-  esoAddonSlug: "temper-lib-table-functions",
+  esoAddon: "temper-lib-table-functions",
   addonKind: "library",
   heldBy: 13246,
   adjacents: ["temper-characters"],

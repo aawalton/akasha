@@ -5,7 +5,7 @@ export const temperCrafting = {
   pageTypeSlug: "held-addon",
   slug: "temper-crafting",
   addonName: "TemperCrafting",
-  esoAddonSlug: "temper-crafting-addon",
+  esoAddon: "temper-crafting-addon",
   addonKind: "ported",
   heldBy: 14506,
   adjacents: [

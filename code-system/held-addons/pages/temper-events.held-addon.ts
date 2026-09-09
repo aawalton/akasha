@@ -5,7 +5,7 @@ export const temperEvents = {
   pageTypeSlug: "held-addon",
   slug: "temper-events",
   addonName: "TemperEvents",
-  esoAddonSlug: "temper-events-addon",
+  esoAddon: "temper-events-addon",
   addonKind: "ported",
   heldBy: 15144,
   adjacents: ["lib-addon-menu"],

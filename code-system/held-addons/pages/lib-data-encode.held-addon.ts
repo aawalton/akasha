@@ -5,7 +5,7 @@ export const libDataEncode = {
   pageTypeSlug: "held-addon",
   slug: "lib-data-encode",
   addonName: "LibDataEncode",
-  esoAddonSlug: "temper-lib-data-encode",
+  esoAddon: "temper-lib-data-encode",
   addonKind: "library",
   heldBy: 14340,
   adjacents: ["temper-combat"],

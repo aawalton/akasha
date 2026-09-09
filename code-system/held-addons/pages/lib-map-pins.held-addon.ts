@@ -5,7 +5,7 @@ export const libMapPins = {
   pageTypeSlug: "held-addon",
   slug: "lib-map-pins",
   addonName: "LibMapPins-1.0",
-  esoAddonSlug: "temper-lib-map-pins",
+  esoAddon: "temper-lib-map-pins",
   addonKind: "library",
   heldBy: 13198,
   adjacents: ["temper-navigation", "temper-collections"],

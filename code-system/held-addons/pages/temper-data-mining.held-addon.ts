@@ -5,7 +5,7 @@ export const temperDataMining = {
   pageTypeSlug: "held-addon",
   slug: "temper-data-mining",
   addonName: "TemperDataMining",
-  esoAddonSlug: "temper-capture-datamining-addon",
+  esoAddon: "temper-capture-datamining-addon",
   addonKind: "native",
   heldBy: 13035,
   adjacents: ["temper-catalog", "temper-inventory"],

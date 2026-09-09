@@ -62,7 +62,7 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "A page whose `eso-addon-slug` reaches no addon page is passed over.",
+      statement: "A page whose `eso-addon` reaches no addon page is passed over.",
     },
     {
       invariantKind: "absence",

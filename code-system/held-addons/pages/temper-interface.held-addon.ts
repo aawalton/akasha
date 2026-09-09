@@ -5,7 +5,7 @@ export const temperInterface = {
   pageTypeSlug: "held-addon",
   slug: "temper-interface",
   addonName: "TemperInterface",
-  esoAddonSlug: "temper-interface-addon",
+  esoAddon: "temper-interface-addon",
   addonKind: "ported",
   heldBy: 15148,
   adjacents: ["temper-hud", "lib-addon-menu-order-list-box", "lib-shifter-box"],

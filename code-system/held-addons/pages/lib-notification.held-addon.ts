@@ -5,7 +5,7 @@ export const libNotification = {
   pageTypeSlug: "held-addon",
   slug: "lib-notification",
   addonName: "LibNotification",
-  esoAddonSlug: "temper-lib-notification",
+  esoAddon: "temper-lib-notification",
   addonKind: "library",
   heldBy: 13224,
   adjacents: ["temper-navigation", "temper-collections"],

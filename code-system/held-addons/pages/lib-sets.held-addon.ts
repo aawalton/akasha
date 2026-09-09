@@ -5,7 +5,7 @@ export const libSets = {
   pageTypeSlug: "held-addon",
   slug: "lib-sets",
   addonName: "LibSets",
-  esoAddonSlug: "temper-lib-sets",
+  esoAddon: "temper-lib-sets",
   addonKind: "library",
   heldBy: 13244,
   adjacents: ["temper-crafting"],

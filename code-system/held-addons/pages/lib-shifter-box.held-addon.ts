@@ -5,7 +5,7 @@ export const libShifterBox = {
   pageTypeSlug: "held-addon",
   slug: "lib-shifter-box",
   addonName: "LibShifterBox",
-  esoAddonSlug: "temper-lib-shifter-box",
+  esoAddon: "temper-lib-shifter-box",
   addonKind: "library",
   heldBy: 14477,
   adjacents: ["temper-interface"],

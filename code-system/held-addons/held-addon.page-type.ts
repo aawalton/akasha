@@ -3,14 +3,14 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { AddonKind } from "./properties/addon-kind.text-property.ts"
 import type { AddonName } from "./properties/addon-name.text-property.ts"
 import type { Adjacents } from "./properties/adjacents.relation-property.ts"
-import type { EsoAddonSlug } from "./properties/eso-addon-slug.relation-property.ts"
+import type { EsoAddon } from "./properties/eso-addon.relation-property.ts"
 import type { HeldBy } from "./properties/held-by.number-property.ts"
 import type { TiClean } from "./properties/ti-clean.boolean-property.ts"
 import type { TiCleanBlockedReason } from "./properties/ti-clean-blocked-reason.text-property.ts"
 
 export type HeldAddon = Page & {
   addonName: AddonName
-  esoAddonSlug: EsoAddonSlug
+  esoAddon: EsoAddon
   addonKind: AddonKind
   heldBy: HeldBy
   adjacents?: Adjacents
@@ -29,14 +29,14 @@ export const heldAddon = {
     "boolean-property/ti-clean",
     "number-property/held-by",
     "relation-property/adjacents",
-    "relation-property/eso-addon-slug",
+    "relation-property/eso-addon",
     "text-property/addon-kind",
     "text-property/addon-name",
     "text-property/ti-clean-blocked-reason",
   ],
   properties: [
     { pagePropertySlug: "text-property/addon-name", required: true, many: false },
-    { pagePropertySlug: "relation-property/eso-addon-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/eso-addon", required: true, many: false },
     { pagePropertySlug: "text-property/addon-kind", required: true, many: false },
     { pagePropertySlug: "number-property/held-by", required: true, many: false },
     {
