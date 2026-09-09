@@ -1542,6 +1542,12 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/addon-init": {
+      "name": "@akasha/temper-addon-init",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
     "temper/temper-addon-build": {
       "name": "@akasha/temper-addon-build",
       "dependencies": {
@@ -1597,12 +1603,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-addon-init": {
-      "name": "@akasha/temper-addon-init",
-      "dependencies": {
-        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "temper/temper-addon-library-types": {
@@ -3159,7 +3159,7 @@
 
     "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:temper/temper-addon-generators"],
 
-    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/temper-addon-init"],
+    "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/addon-init"],
 
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/temper-addon-library-types"],
 
