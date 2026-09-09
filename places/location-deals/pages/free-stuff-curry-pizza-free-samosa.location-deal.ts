@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffCurryPizzaFreeSamosa = {
   id: "019f322c-a01a-72a8-a38b-b93712780667",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-curry-pizza-free-samosa",
   title: "Curry Pizza — FREE! Samosa!",
   collection: "starving-student-card",

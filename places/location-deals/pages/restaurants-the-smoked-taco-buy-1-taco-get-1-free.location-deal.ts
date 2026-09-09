@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsTheSmokedTacoBuy1TacoGet1Free = {
   id: "019f322c-ab6d-77ad-9bd1-daf63f7f474f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-the-smoked-taco-buy-1-taco-get-1-free",
   title: "The Smoked Taco — Buy 1 Taco, Get 1 FREE!",
   collection: "starving-student-card",

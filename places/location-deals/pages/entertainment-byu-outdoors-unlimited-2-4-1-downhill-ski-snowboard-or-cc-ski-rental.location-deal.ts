@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentByuOutdoorsUnlimited241DownhillSkiSnowboardOrCcSkiRental = {
   id: "019f322c-9cdc-7174-8153-9550383d33ea",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-byu-outdoors-unlimited-2-4-1-downhill-ski-snowboard-or-cc-ski-rental",
   title: "BYU Outdoors Unlimited — 2-4-1! Downhill Ski, Snowboard, or CC Ski Rental!",
   collection: "starving-student-card",

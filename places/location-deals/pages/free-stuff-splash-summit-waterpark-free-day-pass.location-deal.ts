@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffSplashSummitWaterparkFreeDayPass = {
   id: "019f322c-a2dc-728b-a3ea-3d5e62abb70f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-splash-summit-waterpark-free-day-pass",
   title: "Splash Summit Waterpark — FREE! Day Pass!",
   collection: "starving-student-card",

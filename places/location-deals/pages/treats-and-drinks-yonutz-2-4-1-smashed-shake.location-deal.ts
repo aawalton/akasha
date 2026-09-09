@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksYonutz241SmashedShake = {
   id: "019f322c-b2ec-7361-927e-ee4910bc95c0",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-yonutz-2-4-1-smashed-shake",
   title: "Yonutz — 2-4-1! Smashed Shake!",
   collection: "starving-student-card",

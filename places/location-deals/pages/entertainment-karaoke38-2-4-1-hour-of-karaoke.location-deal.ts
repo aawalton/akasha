@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentKaraoke38241HourOfKaraoke = {
   id: "019f322c-9dcb-799b-a8a9-cc0addd51e8d",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-karaoke38-2-4-1-hour-of-karaoke",
   title: "Karaoke38 — 2-4-1! Hour of Karaoke!",
   collection: "starving-student-card",

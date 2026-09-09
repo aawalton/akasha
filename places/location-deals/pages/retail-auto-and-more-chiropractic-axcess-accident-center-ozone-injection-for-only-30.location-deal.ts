@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const retailAutoAndMoreChiropracticAxcessAccidentCenterOzoneInjectionForOnly30 = {
   id: "019f322c-abb6-7541-b69d-85d1561aac52",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "retail-auto-and-more-chiropractic-axcess-accident-center-ozone-injection-for-only-30",
   title: "Chiropractic: Axcess Accident Center — Ozone Injection for Only $30!",
   collection: "starving-student-card",

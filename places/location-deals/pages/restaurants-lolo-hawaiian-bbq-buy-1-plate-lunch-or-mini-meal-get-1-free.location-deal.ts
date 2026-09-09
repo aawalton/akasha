@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsLoloHawaiianBbqBuy1PlateLunchOrMiniMealGet1Free = {
   id: "019f322c-aa26-7992-bffc-068ea867a038",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-lolo-hawaiian-bbq-buy-1-plate-lunch-or-mini-meal-get-1-free",
   title: "LoLo Hawaiian BBQ — Buy 1 Plate Lunch or Mini Meal, Get 1 FREE!",
   collection: "starving-student-card",

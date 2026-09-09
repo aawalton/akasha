@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksCulvers2412ScoopSundaeOrMediumConcreteMixer = {
   id: "019f322c-b0f4-70f2-a744-0961c0c536ba",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-culvers-2-4-1-2-scoop-sundae-or-medium-concrete-mixer",
   title: "Culver's — 2-4-1! 2 Scoop Sundae or Medium Concrete Mixer!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffMilkshakeFactoryFreeAnyChocolateBark = {
   id: "019f322c-a147-7194-9e88-000fbe225af2",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-milkshake-factory-free-any-chocolate-bark",
   title: "MilkShake Factory — FREE! Any Chocolate Bark!",
   collection: "starving-student-card",

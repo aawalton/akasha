@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffRedlineRacingFreeRace = {
   id: "019f322c-a275-78b3-bafd-bac9a104bf64",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-redline-racing-free-race",
   title: "Redline Racing — FREE! Race!",
   collection: "starving-student-card",

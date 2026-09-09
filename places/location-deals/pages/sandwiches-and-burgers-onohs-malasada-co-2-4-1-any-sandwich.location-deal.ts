@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersOnohsMalasadaCo241AnySandwich = {
   id: "019f322c-afd9-71cf-a847-c29b255bc607",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-onohs-malasada-co-2-4-1-any-sandwich",
   title: "Onoh's Malasada Co — 2-4-1! Any Sandwich!",
   collection: "starving-student-card",

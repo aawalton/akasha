@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsHungryHawaiian241Entree = {
   id: "019f322c-a980-73b7-9752-cdc8bbcde080",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-hungry-hawaiian-2-4-1-entree",
   title: "Hungry Hawaiian — 2-4-1! Entree!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffUtahCountryDanceFreeSaturdayAdmission = {
   id: "019f322c-a3b1-7bed-8077-b52bc0fafdb3",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-utah-country-dance-free-saturday-admission",
   title: "Utah Country Dance — FREE! Saturday Admission!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const retailAutoAndMoreByuStudio10305OffAnyNailService = {
   id: "019f322c-ab9e-7f64-93df-46453426ef77",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "retail-auto-and-more-byu-studio-1030-5-off-any-nail-service",
   title: "BYU Studio 1030 — $5 OFF! Any Nail Service!",
   collection: "starving-student-card",

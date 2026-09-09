@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffMcdonaldsFree12OzFrozenDrink = {
   id: "019f322c-a0e8-7ea4-ad06-1955fbc9929e",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-mcdonalds-free-12-oz-frozen-drink",
   title: "McDonald's — FREE! 12 oz Frozen Drink!",
   collection: "starving-student-card",

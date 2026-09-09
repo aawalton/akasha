@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaCurryPizzaBuyALrgPizzaGetOrderOfWingsFree = {
   id: "019f322c-a45f-76e3-9158-1c4f50af5ac4",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-curry-pizza-buy-a-lrg-pizza-get-order-of-wings-free",
   title: "Curry Pizza — Buy a Lrg Pizza, Get Order of Wings FREE!",
   collection: "starving-student-card",

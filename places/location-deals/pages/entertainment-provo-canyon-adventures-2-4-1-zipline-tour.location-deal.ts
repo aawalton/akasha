@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentProvoCanyonAdventures241ZiplineTour = {
   id: "019f322c-9e7e-7e7d-b8a8-fbea7d74998f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-provo-canyon-adventures-2-4-1-zipline-tour",
   title: "Provo Canyon Adventures — 2-4-1! Zipline Tour!",
   collection: "starving-student-card",

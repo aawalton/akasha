@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersMooyahBuyAnyBurgerSandwichOrHotDogGetFriesAndADrinkFree = {
   id: "019f322c-afd4-7eca-9ea6-9329fea22112",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-mooyah-buy-any-burger-sandwich-or-hot-dog-get-fries-and-a-drink-free",
   title: "Mooyah — Buy Any Burger, Sandwich or Hot Dog, Get Fries and a Drink FREE!",
   collection: "starving-student-card",

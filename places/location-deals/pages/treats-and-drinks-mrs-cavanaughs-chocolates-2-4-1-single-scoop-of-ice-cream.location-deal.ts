@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksMrsCavanaughsChocolates241SingleScoopOfIceCream = {
   id: "019f322c-b11f-7b48-ae1c-9ccc1481a15b",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-mrs-cavanaughs-chocolates-2-4-1-single-scoop-of-ice-cream",
   title: "Mrs. Cavanaugh's Chocolates — 2-4-1! Single Scoop of Ice Cream!",
   collection: "starving-student-card",

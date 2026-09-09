@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersIkes241Sandwich = {
   id: "019f322c-af47-7697-ab21-2e3e839d777f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-ikes-2-4-1-sandwich",
   title: "Ike's — 2-4-1! Sandwich!",
   collection: "starving-student-card",

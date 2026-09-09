@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentDreamwalkParkBuy1AdultTicketGetAChildTicketFree = {
   id: "019f322c-9cfa-7804-ad2e-344497fa57d5",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-dreamwalk-park-buy-1-adult-ticket-get-a-child-ticket-free",
   title: "Dreamwalk Park — Buy 1 Adult Ticket, Get a Child Ticket FREE!",
   collection: "starving-student-card",

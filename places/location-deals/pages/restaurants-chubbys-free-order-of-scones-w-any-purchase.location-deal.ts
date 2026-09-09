@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsChubbysFreeOrderOfSconesWAnyPurchase = {
   id: "019f322c-a71e-76ad-a6e2-fc84396ffd62",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-chubbys-free-order-of-scones-w-any-purchase",
   title: "Chubby's — FREE! Order of Scones w/Any Purchase!",
   collection: "starving-student-card",

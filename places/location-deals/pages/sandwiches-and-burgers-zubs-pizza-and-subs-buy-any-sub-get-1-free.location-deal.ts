@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersZubsPizzaAndSubsBuyAnySubGet1Free = {
   id: "019f322c-b082-7279-96e1-a809001fca0a",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-zubs-pizza-and-subs-buy-any-sub-get-1-free",
   title: "Zub's Pizza & Sub's — Buy Any Sub, Get 1 FREE!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaDominos241Pizza = {
   id: "019f322c-a469-74a1-8975-ae093f369f35",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-dominos-2-4-1-pizza",
   title: "Domino's — 2-4-1! Pizza!",
   collection: "starving-student-card",

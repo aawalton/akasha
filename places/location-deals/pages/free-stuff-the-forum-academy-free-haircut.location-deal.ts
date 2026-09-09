@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffTheForumAcademyFreeHaircut = {
   id: "019f322c-a342-7ce9-90c0-8b95cebe1833",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-the-forum-academy-free-haircut",
   title: "The Forum Academy — FREE! Haircut!",
   collection: "starving-student-card",

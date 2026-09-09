@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaPizzaPieCafBuy1BuffetAnd2DrinksGet1BuffetFree = {
   id: "019f322c-a5ef-77c0-8d79-dc67ba4bd708",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-pizza-pie-caf-buy-1-buffet-and-2-drinks-get-1-buffet-free",
   title: "Pizza Pie Café — Buy 1 Buffet and 2 Drinks, Get 1 Buffet FREE!",
   collection: "starving-student-card",

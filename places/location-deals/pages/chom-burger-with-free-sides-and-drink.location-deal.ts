@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const chomBurgerWithFreeSidesAndDrink = {
   id: "019f322c-ad63-7833-ad85-24f07fa0e3f7",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "chom-burger-with-free-sides-and-drink",
   title: "CHOM — Buy 1 Burger, Get Reg Tater Tots, Fries or Sweet Potato Fries & Reg Drink FREE!",
   collection: "starving-student-card",

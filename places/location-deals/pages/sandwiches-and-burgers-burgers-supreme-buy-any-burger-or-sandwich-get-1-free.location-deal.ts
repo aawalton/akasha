@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersBurgersSupremeBuyAnyBurgerOrSandwichGet1Free = {
   id: "019f322c-ad47-765f-a2d1-6c95d84890d0",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-burgers-supreme-buy-any-burger-or-sandwich-get-1-free",
   title: "Burgers Supreme — Buy Any Burger or Sandwich, Get 1 FREE!",
   collection: "starving-student-card",

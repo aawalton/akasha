@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentColorMeMine241StudioFee = {
   id: "019f322c-9cf2-7637-86a1-7ade55462046",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-color-me-mine-2-4-1-studio-fee",
   title: "Color Me Mine — 2-4-1! Studio Fee!",
   collection: "starving-student-card",

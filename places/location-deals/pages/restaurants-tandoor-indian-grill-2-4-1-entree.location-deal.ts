@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsTandoorIndianGrill241Entree = {
   id: "019f322c-ab5d-74cd-a548-58e9f63c8338",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-tandoor-indian-grill-2-4-1-entree",
   title: "Tandoor Indian Grill — 2-4-1! Entree!",
   collection: "starving-student-card",

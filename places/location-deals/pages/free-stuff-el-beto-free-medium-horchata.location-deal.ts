@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffElBetoFreeMediumHorchata = {
   id: "019f322c-a063-7185-b591-e23d98fb366f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-el-beto-free-medium-horchata",
   title: "El Beto — FREE! Medium Horchata!",
   collection: "starving-student-card",

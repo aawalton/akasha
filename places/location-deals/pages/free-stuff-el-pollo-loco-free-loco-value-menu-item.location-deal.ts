@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffElPolloLocoFreeLocoValueMenuItem = {
   id: "019f322c-a06d-7c9e-98ca-cb673c6ffdc0",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-el-pollo-loco-free-loco-value-menu-item",
   title: "El Pollo Loco — FREE! Loco Value Menu Item!",
   collection: "starving-student-card",

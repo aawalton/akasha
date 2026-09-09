@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsDennysKidsEatFreeUpTo2KidsPerPayingAdultAnytime = {
   id: "019f322c-a784-7e7c-a52d-f287616b5002",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-dennys-kids-eat-free-up-to-2-kids-per-paying-adult-anytime",
   title: "Dennys — Kids Eat FREE! Up to 2 Kids Per Paying Adult Anytime!",
   collection: "starving-student-card",

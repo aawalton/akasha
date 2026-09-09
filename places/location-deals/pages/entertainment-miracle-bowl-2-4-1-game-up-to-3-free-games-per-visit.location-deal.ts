@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentMiracleBowl241GameUpTo3FreeGamesPerVisit = {
   id: "019f322c-9e2f-7363-9467-c91ed574ce1c",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-miracle-bowl-2-4-1-game-up-to-3-free-games-per-visit",
   title: "Miracle Bowl — 2-4-1! Game! Up to 3 free games per visit!",
   collection: "starving-student-card",

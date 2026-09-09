@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffTaylorAndrewsAcademyFreeHaircut = {
   id: "019f322c-a33c-7d23-b3ee-c9aaa37644eb",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-taylor-andrews-academy-free-haircut",
   title: "Taylor Andrews Academy — FREE! Haircut!",
   collection: "starving-student-card",

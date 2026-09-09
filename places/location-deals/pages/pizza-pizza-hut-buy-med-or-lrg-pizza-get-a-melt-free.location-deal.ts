@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaPizzaHutBuyMedOrLrgPizzaGetAMeltFree = {
   id: "019f322c-a5df-724e-afc9-ab33b431efd3",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-pizza-hut-buy-med-or-lrg-pizza-get-a-melt-free",
   title: "Pizza Hut — Buy Med or Lrg Pizza, Get a Melt FREE!",
   collection: "starving-student-card",

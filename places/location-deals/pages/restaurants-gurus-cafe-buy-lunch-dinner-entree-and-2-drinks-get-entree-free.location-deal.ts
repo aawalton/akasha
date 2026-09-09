@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsGurusCafeBuyLunchDinnerEntreeAnd2DrinksGetEntreeFree = {
   id: "019f322c-a979-7b32-96b6-ea9eabd35355",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-gurus-cafe-buy-lunch-dinner-entree-and-2-drinks-get-entree-free",
   title: "Gurus Cafe — Buy Lunch/Dinner Entree & 2 Drinks, Get Entree FREE!",
   collection: "starving-student-card",

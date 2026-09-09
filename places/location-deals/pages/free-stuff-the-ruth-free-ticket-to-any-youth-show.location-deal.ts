@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffTheRuthFreeTicketToAnyYouthShow = {
   id: "019f322c-a398-7db2-8ec4-a7cc5e221a10",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-the-ruth-free-ticket-to-any-youth-show",
   title: "The Ruth — FREE! Ticket to Any Youth Show!",
   collection: "starving-student-card",

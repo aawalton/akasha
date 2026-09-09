@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersArbys241BeefNCheddarSandwich = {
   id: "019f322c-acff-7a93-8265-d9f68fb6e274",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-arbys-2-4-1-beef-n-cheddar-sandwich",
   title: "Arby's — 2-4-1! Beef N' Cheddar Sandwich!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsLosHermanosBuy1EntrEAnd2DrinksGetOneEntrEFree = {
   id: "019f322c-aa40-739d-8ce8-8eb2d19358fd",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-los-hermanos-buy-1-entr-e-and-2-drinks-get-one-entr-e-free",
   title: "Los Hermanos — Buy 1 Entrée & 2 Drinks, Get One Entrée FREE!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsYummysKoreanBbqBuy1EntreeAnd2SodasGet1Free = {
   id: "019f322c-ab8b-7b07-9878-d428a1919070",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-yummys-korean-bbq-buy-1-entree-and-2-sodas-get-1-free",
   title: "Yummy's Korean BBQ — Buy 1 Entree and 2 Sodas, Get 1 FREE!",
   collection: "starving-student-card",

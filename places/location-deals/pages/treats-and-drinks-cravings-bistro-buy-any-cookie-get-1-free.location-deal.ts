@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksCravingsBistroBuyAnyCookieGet1Free = {
   id: "019f322c-b0f1-7cee-8aa2-dd912f519e21",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-cravings-bistro-buy-any-cookie-get-1-free",
   title: "Cravings Bistro — Buy Any Cookie, Get 1 FREE!",
   collection: "starving-student-card",

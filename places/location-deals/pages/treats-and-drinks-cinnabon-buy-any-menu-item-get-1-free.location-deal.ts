@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksCinnabonBuyAnyMenuItemGet1Free = {
   id: "019f322c-b0e0-7c01-9889-fe95770f4f88",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-cinnabon-buy-any-menu-item-get-1-free",
   title: "Cinnabon — Buy Any Menu Item, Get 1 FREE!",
   collection: "starving-student-card",

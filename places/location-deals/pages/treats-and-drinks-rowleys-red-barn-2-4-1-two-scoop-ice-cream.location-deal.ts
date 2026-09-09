@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksRowleysRedBarn241TwoScoopIceCream = {
   id: "019f322c-b194-7d7f-8b0f-14406feaebe8",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-rowleys-red-barn-2-4-1-two-scoop-ice-cream",
   title: "Rowley's Red Barn — 2-4-1! Two-Scoop Ice Cream!",
   collection: "starving-student-card",

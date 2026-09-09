@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffTheGreatGreekMediterraneanGrillFreeFetaFry = {
   id: "019f322c-a380-776d-b330-9236fe038930",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-the-great-greek-mediterranean-grill-free-feta-fry",
   title: "The Great Greek Mediterranean Grill — FREE! Feta Fry!",
   collection: "starving-student-card",

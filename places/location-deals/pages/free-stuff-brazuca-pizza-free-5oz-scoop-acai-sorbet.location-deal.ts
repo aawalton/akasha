@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffBrazucaPizzaFree5ozScoopAcaiSorbet = {
   id: "019f322c-9f65-7ee1-b7a8-f5196e99bf00",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-brazuca-pizza-free-5oz-scoop-acai-sorbet",
   title: "Brazuca Pizza — FREE! 5oz Scoop Acai Sorbet!",
   collection: "starving-student-card",

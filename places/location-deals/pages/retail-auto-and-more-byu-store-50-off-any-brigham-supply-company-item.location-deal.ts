@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const retailAutoAndMoreByuStore50OffAnyBrighamSupplyCompanyItem = {
   id: "019f322c-ab92-7ac4-980c-42ef68e8292b",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "retail-auto-and-more-byu-store-50-off-any-brigham-supply-company-item",
   title: "BYU Store — 50% OFF! Any Brigham Supply Company item!",
   collection: "starving-student-card",

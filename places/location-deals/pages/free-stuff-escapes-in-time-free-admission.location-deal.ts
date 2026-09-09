@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffEscapesInTimeFreeAdmission = {
   id: "019f322c-a075-7838-bc2a-bb5bcdfe3f8e",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-escapes-in-time-free-admission",
   title: "Escapes In Time — FREE! Admission!",
   collection: "starving-student-card",

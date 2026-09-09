@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksBahamaBucksBuy1ShavedIceOrSmoothieGet1Free = {
   id: "019f322c-b095-7f10-a06b-36103c9ec31f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-bahama-bucks-buy-1-shaved-ice-or-smoothie-get-1-free",
   title: "Bahama Buck's — Buy 1 Shaved Ice or Smoothie, Get 1 FREE!",
   collection: "starving-student-card",

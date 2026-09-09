@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffCulversFreeScoopOfFrozenCustard = {
   id: "019f322c-a014-7993-ae2d-fb1c47419533",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-culvers-free-scoop-of-frozen-custard",
   title: "Culver's — FREE! Scoop of Frozen Custard!",
   collection: "starving-student-card",

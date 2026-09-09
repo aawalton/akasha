@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksJackInTheBoxBuy1ShakeGet1Free = {
   id: "019f322c-b109-75d0-a7f1-baad22965fde",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-jack-in-the-box-buy-1-shake-get-1-free",
   title: "Jack in the Box — Buy 1 Shake, Get 1 FREE!",
   collection: "starving-student-card",

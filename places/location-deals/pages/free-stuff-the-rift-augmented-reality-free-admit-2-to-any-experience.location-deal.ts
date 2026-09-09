@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffTheRiftAugmentedRealityFreeAdmit2ToAnyExperience = {
   id: "019f322c-a393-7388-9e0d-e137adb274bf",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-the-rift-augmented-reality-free-admit-2-to-any-experience",
   title: "The Rift Augmented Reality — FREE! Admit 2 to Any Experience!",
   collection: "starving-student-card",

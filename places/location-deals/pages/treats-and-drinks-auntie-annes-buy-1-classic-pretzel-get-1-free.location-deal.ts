@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksAuntieAnnesBuy1ClassicPretzelGet1Free = {
   id: "019f322c-b086-789c-b30d-4a65b9e471b6",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-auntie-annes-buy-1-classic-pretzel-get-1-free",
   title: "Auntie Anne's — Buy 1 Classic Pretzel, Get 1 FREE!",
   collection: "starving-student-card",

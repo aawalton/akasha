@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentPeaksIceArena241RegAdmission = {
   id: "019f322c-9e73-7923-b576-d04126d97205",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-peaks-ice-arena-2-4-1-reg-admission",
   title: "Peaks Ice Arena — 2-4-1! Reg Admission!",
   collection: "starving-student-card",

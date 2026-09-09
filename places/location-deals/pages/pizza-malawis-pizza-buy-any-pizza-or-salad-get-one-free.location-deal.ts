@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaMalawisPizzaBuyAnyPizzaOrSaladGetOneFree = {
   id: "019f322c-a4cd-73b2-b082-9e641d953ea1",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-malawis-pizza-buy-any-pizza-or-salad-get-one-free",
   title: "Malawi's Pizza — Buy Any Pizza or Salad, Get One FREE!",
   collection: "starving-student-card",

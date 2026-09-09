@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersMelty241AnyMelt = {
   id: "019f322c-afcb-7196-a48b-8e4ebf1ff5bc",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-melty-2-4-1-any-melt",
   title: "Melty — 2-4-1! Any Melt!",
   collection: "starving-student-card",

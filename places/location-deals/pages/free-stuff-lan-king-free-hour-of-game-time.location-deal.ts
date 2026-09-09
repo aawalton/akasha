@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffLanKingFreeHourOfGameTime = {
   id: "019f322c-a096-713b-b644-e94bfdcf9066",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-lan-king-free-hour-of-game-time",
   title: "LAN King — FREE! Hour of Game Time!",
   collection: "starving-student-card",

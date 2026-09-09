@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaMidiciTheNeapolitanPizzaCompany241AnyGourmetSalad = {
   id: "019f322c-a52a-72f3-8b2c-7723550f130f",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-midici-the-neapolitan-pizza-company-2-4-1-any-gourmet-salad",
   title: "MidiCi The Neapolitan Pizza Company — 2-4-1! Any Gourmet Salad!",
   collection: "starving-student-card",

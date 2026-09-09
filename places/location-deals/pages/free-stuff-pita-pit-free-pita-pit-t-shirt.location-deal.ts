@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffPitaPitFreePitaPitTShirt = {
   id: "019f322c-a20d-74f9-a15f-652e84324456",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-pita-pit-free-pita-pit-t-shirt",
   title: "Pita Pit — FREE! Pita Pit T-Shirt!",
   collection: "starving-student-card",

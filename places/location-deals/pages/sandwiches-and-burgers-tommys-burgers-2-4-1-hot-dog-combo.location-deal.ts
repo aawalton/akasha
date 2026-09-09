@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersTommysBurgers241HotDogCombo = {
   id: "019f322c-b01c-741a-9ef0-a6df14cdcab6",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-tommys-burgers-2-4-1-hot-dog-combo",
   title: "Tommy's Burgers — 2-4-1! Hot Dog Combo!",
   collection: "starving-student-card",

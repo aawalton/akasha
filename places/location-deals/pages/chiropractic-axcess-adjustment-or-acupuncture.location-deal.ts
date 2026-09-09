@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const chiropracticAxcessAdjustmentOrAcupuncture = {
   id: "019f322c-aba1-7952-9569-a3314636e4d1",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "chiropractic-axcess-adjustment-or-acupuncture",
   title:
     "Chiropractic: Axcess Accident Center — Buy 1 Chiropractic Adjustment or Acupuncture Treatment For Only $15!",

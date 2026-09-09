@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const retailAutoAndMoreGOATHaircuts10OffAnyMensHaircut = {
   id: "019f322c-abca-7137-bcad-3c80dc17c440",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "retail-auto-and-more-g-o-a-t-haircuts-10-off-any-mens-haircut",
   title: "G.O.A.T Haircuts — $10 OFF! Any Men's Haircut!",
   collection: "starving-student-card",

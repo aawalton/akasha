@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksDairyQueenBuyABlizzardGet1Free = {
   id: "019f322c-b0f6-7551-b9ec-5633b21d6817",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-dairy-queen-buy-a-blizzard-get-1-free",
   title: "Dairy Queen — Buy a Blizzard, Get 1 FREE!",
   collection: "starving-student-card",

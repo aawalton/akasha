@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsRedFuegoBuy1EntreeGet1EntreeFree = {
   id: "019f322c-aaaa-736c-b18b-b8ed31e96469",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-red-fuego-buy-1-entree-get-1-entree-free",
   title: "Red Fuego — Buy 1 Entree, Get 1 Entree FREE!",
   collection: "starving-student-card",

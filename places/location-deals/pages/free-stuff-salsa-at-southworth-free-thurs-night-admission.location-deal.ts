@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffSalsaAtSouthworthFreeThursNightAdmission = {
   id: "019f322c-a2c0-70cd-8ba2-8efc121b8978",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-salsa-at-southworth-free-thurs-night-admission",
   title: "Salsa at Southworth — FREE! Thurs Night Admission!",
   collection: "starving-student-card",

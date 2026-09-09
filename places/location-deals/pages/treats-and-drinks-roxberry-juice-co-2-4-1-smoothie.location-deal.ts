@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksRoxberryJuiceCo241Smoothie = {
   id: "019f322c-b19e-7303-a5c9-b2f62255cecc",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-roxberry-juice-co-2-4-1-smoothie",
   title: "Roxberry Juice Co. — 2-4-1! Smoothie!",
   collection: "starving-student-card",

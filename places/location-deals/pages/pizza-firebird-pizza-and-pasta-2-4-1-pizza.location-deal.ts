@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const pizzaFirebirdPizzaAndPasta241Pizza = {
   id: "019f322c-a470-7d3e-b66a-bc91761d2488",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "pizza-firebird-pizza-and-pasta-2-4-1-pizza",
   title: "Firebird Pizza & Pasta — 2-4-1! Pizza!",
   collection: "starving-student-card",

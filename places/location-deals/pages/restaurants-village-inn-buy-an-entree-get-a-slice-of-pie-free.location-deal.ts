@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const restaurantsVillageInnBuyAnEntreeGetASliceOfPieFree = {
   id: "019f322c-ab79-7cee-92c0-53eeb8302fec",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "restaurants-village-inn-buy-an-entree-get-a-slice-of-pie-free",
   title: "Village Inn — Buy an Entree, Get a Slice of Pie FREE!",
   collection: "starving-student-card",

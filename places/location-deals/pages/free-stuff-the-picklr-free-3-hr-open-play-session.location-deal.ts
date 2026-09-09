@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffThePicklrFree3HrOpenPlaySession = {
   id: "019f322c-a38a-75b1-a788-40ceaaf0fa06",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-the-picklr-free-3-hr-open-play-session",
   title: "The Picklr — FREE! 3 Hr Open Play Session!",
   collection: "starving-student-card",

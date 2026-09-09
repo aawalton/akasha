@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const entertainmentCoinCrazy50Off1HrOfBowling = {
   id: "019f322c-9ced-7b0b-9f83-94925fdf643c",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "entertainment-coin-crazy-50-off-1-hr-of-bowling",
   title: "Coin Crazy — 50% OFF! 1 Hr of Bowling!",
   collection: "starving-student-card",

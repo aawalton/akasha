@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffNinjaPlaygroundFreeAdmissionToOpenGym = {
   id: "019f322c-a199-79ec-be57-152a4b1a68df",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-ninja-playground-free-admission-to-open-gym",
   title: "Ninja Playground — FREE! Admission to Open Gym!",
   collection: "starving-student-card",

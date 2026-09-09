@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersMooyah241AnyBurgerSandwichOrHotDog = {
   id: "019f322c-afce-7a1b-ab26-ddc85787f169",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-mooyah-2-4-1-any-burger-sandwich-or-hot-dog",
   title: "Mooyah — 2-4-1! Any Burger, Sandwich or Hot Dog!",
   collection: "starving-student-card",

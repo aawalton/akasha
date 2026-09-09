@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const retailAutoAndMoreDurfeyDryCleaners241DryCleanedOrLaunderedItem = {
   id: "019f322c-abbf-7fdc-8c54-2aab86c41bec",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "retail-auto-and-more-durfey-dry-cleaners-2-4-1-dry-cleaned-or-laundered-item",
   title: "Durfey Dry Cleaners — 2-4-1! Dry Cleaned or Laundered Item!",
   collection: "starving-student-card",

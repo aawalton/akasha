@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksRockyMountainChocolateFactoryBuy2CaramelApplesGetA3rdFree = {
   id: "019f322c-b142-77dc-a73a-2644474648cc",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-rocky-mountain-chocolate-factory-buy-2-caramel-apples-get-a-3rd-free",
   title: "Rocky Mountain Chocolate Factory — Buy 2 Caramel Apples, Get a 3rd FREE!",
   collection: "starving-student-card",

@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffJerseyMikesFreeChocolateChipCookie = {
   id: "019f322c-a08f-7228-a29e-03cd2f864dbd",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-jersey-mikes-free-chocolate-chip-cookie",
   title: "Jersey Mikes — FREE! Chocolate Chip Cookie!",
   collection: "starving-student-card",

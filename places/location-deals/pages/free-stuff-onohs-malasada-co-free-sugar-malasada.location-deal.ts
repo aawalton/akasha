@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const freeStuffOnohsMalasadaCoFreeSugarMalasada = {
   id: "019f322c-a1a1-73a1-9de8-7a89b182c799",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "free-stuff-onohs-malasada-co-free-sugar-malasada",
   title: "Onoh's Malasada Co — FREE! Sugar Malasada!",
   collection: "starving-student-card",

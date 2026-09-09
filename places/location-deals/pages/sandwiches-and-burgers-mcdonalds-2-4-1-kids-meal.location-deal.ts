@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersMcdonalds241KidsMeal = {
   id: "019f322c-afbc-7223-a40c-0cb03ae00c3b",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-mcdonalds-2-4-1-kids-meal",
   title: "McDonald's — 2-4-1! Kids Meal!",
   collection: "starving-student-card",

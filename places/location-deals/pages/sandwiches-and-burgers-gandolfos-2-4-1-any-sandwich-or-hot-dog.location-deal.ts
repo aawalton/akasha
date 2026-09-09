@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const sandwichesAndBurgersGandolfos241AnySandwichOrHotDog = {
   id: "019f322c-ae1b-7e97-8fbf-08599ba1ceea",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "sandwiches-and-burgers-gandolfos-2-4-1-any-sandwich-or-hot-dog",
   title: "Gandolfo's — 2-4-1! ANY Sandwich or Hot Dog!",
   collection: "starving-student-card",

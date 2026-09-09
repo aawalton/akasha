@@ -3,6 +3,7 @@ import type { LocationDeal } from "../location-deal.page-type.ts"
 export const treatsAndDrinksNauticalBowls241AnySmoothie = {
   id: "019f322c-b124-7659-ac2e-3affbc4ffc40",
   pageTypeSlug: "location-deal",
+  type: "location-deal",
   slug: "treats-and-drinks-nautical-bowls-2-4-1-any-smoothie",
   title: "Nautical Bowls — 2-4-1! Any Smoothie!",
   collection: "starving-student-card",
