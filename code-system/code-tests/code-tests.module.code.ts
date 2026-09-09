@@ -286,12 +286,8 @@ export function slowIn(
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
 
-export function endedAt(signal: string | null, spent: number, ceiling: number): boolean {
-  return signal !== null && spent > ceiling
-}
-
-export function judgedAs(said: Verdict, over: number, ended: boolean): Verdict {
-  return over > 0 || ended ? "slow" : said
+export function judgedAs(said: Verdict, over: number): Verdict {
+  return over > 0 ? "slow" : said
 }
 
 export function spentOver(
@@ -321,17 +317,14 @@ function ranUnder(
   let output = ""
   let spent = 0
   let many = 0
-  let ended = false
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
       const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch]
-      const bound = CEILING * batch.length
-      const done = runsIn(root, argv, bound, over)
+      const done = runsIn(root, argv, null, over)
       output += `${done.out}${done.err}`
       spent += done.cpuSeconds
       many += batch.length
-      if (endedAt(done.signal, done.cpuSeconds, bound)) ended = true
       if (signal !== null) continue
       if (done.signal !== null) {
         code = done.code
@@ -349,7 +342,7 @@ function ranUnder(
     signal,
     output,
     summary: summaryIn(output),
-    verdict: judgedAs(said, slow.length, ended),
+    verdict: judgedAs(said, slow.length),
     cpuSeconds: spent,
     slow,
   }

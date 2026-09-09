@@ -47,11 +47,11 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch is given the seconds the files that batch has may spend together.",
+      statement: "A batch is held to no ceiling and runs to its own end.",
     },
     {
       invariantKind: "departure",
-      statement: "A batch reaching that budget is ended by the kernel rather than run to its end.",
+      statement: "Only a file past the seconds one file may spend makes a run slow.",
     },
     {
       invariantKind: "departure",
@@ -94,14 +94,6 @@ export const codeTests = {
       invariantKind: "departure",
       statement:
         "The seconds a bounded run answers are the seconds that ceiling was judged against.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A batch the kernel ended at its ceiling is slow rather than a crash.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A batch ended at its ceiling no file on its own reproduces is slow still.",
     },
     {
       invariantKind: "gap",
