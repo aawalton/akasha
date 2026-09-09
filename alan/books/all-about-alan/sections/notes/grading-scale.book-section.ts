@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const gradingScale = {
   id: "01a06594-c67a-7002-8289-094f32f578cf",

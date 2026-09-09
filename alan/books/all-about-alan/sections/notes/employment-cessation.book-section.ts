@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const employmentCessation = {
   id: "01a06594-c678-7002-8fe4-14db949ab0df",

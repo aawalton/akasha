@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const mechanics = {
   id: "01a06594-c676-700f-99f9-392df3e8a981",

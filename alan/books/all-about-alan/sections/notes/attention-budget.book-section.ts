@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const attentionBudget = {
   id: "01a06594-c674-7012-b787-41514cc04020",

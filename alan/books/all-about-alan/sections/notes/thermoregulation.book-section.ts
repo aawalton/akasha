@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const thermoregulation = {
   id: "01a06594-c685-7003-86ad-13a169700e75",

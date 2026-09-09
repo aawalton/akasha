@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const euResidencyHungary = {
   id: "01a06594-c689-7011-97ce-4ea5d56184fc",

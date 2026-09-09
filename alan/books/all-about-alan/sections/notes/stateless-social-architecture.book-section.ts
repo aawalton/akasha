@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const statelessSocialArchitecture = {
   id: "01a06594-c684-700e-a2fc-d3d79932483a",

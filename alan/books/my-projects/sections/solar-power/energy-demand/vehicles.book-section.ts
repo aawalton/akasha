@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const vehicles = {
   id: "01a06594-c68d-7009-a047-54f198e92b0a",

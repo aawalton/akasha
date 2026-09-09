@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const alternativeGatedEndurance = {
   id: "01a06594-c674-700c-8417-e06319ad02a6",

@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const valuesPersonasSystem = {
   id: "01a06594-c685-7011-aff6-ba653e49c0cb",

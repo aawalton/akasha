@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const creativityScarsArchaeology = {
   id: "01a06594-c677-7008-8a6b-7d03ed4d0965",

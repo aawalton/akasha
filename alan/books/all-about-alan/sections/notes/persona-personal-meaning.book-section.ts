@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const personaPersonalMeaning = {
   id: "01a06594-c67c-7001-9df0-66d87e959b3d",

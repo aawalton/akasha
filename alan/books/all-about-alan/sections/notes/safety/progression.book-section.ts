@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const progression = {
   id: "01a06594-c67e-7004-87d6-fc8d7a223020",

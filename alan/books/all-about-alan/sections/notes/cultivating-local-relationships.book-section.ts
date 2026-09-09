@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const cultivatingLocalRelationships = {
   id: "01a06594-c677-700c-b78f-38667baeb8e1",

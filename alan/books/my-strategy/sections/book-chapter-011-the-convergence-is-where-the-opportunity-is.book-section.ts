@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const bookChapter011TheConvergenceIsWhereTheOpportunityIs = {
   id: "01a06594-c68f-700b-ae1a-a74471119a44",

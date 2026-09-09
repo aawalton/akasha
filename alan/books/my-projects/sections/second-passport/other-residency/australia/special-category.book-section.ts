@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const specialCategory = {
   id: "01a06594-c68b-7012-a169-8a5c0f88db74",

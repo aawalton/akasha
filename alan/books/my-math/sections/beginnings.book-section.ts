@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const beginnings = {
   id: "01a06594-c68e-700e-9219-31c312a83692",

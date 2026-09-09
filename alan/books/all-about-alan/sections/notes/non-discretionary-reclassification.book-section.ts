@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const nonDiscretionaryReclassification = {
   id: "01a06594-c67b-700f-b148-53cff72cd9e1",

@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const hypnagogicImagery = {
   id: "01a06594-c67a-700a-8fae-215c80f0ee28",

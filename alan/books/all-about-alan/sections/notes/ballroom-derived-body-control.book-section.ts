@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const ballroomDerivedBodyControl = {
   id: "01a06594-c675-700f-9482-4aa5d4ffa555",

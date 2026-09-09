@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const bridgingVisas = {
   id: "01a06594-c68b-700d-89a0-fef420d3cfbe",

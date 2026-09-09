@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const selfInstrumentation = {
   id: "01a06594-c683-7005-b2fa-0e98d2bfdbca",
