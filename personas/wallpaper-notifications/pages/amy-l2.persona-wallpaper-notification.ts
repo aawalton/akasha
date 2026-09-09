@@ -5,6 +5,6 @@ export const amyL2 = {
   pageTypeSlug: "persona-wallpaper-notification",
   slug: "amy-l2",
   title: "amy L02 wallpaper notified",
-  personaSlug: "amy",
+  persona: "amy",
   relationshipLevel: 2,
 } as const satisfies PersonaWallpaperNotification

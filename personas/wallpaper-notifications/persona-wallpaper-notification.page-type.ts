@@ -2,11 +2,11 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
-import type { NotificationPersonaSlug } from "./properties/notification-persona-slug.relation-property.ts"
+import type { NotificationPersona } from "./properties/notification-persona.relation-property.ts"
 
 export type PersonaWallpaperNotification = Page & {
   title: Title
-  personaSlug: NotificationPersonaSlug
+  persona: NotificationPersona
   relationshipLevel: RelationshipLevel
 }
 
@@ -17,11 +17,11 @@ export const personaWallpaperNotification = {
   definition: "word to Alan that a persona reached a rung and was hung there",
   pluralSlug: "persona-wallpaper-notifications",
   extendsSlug: ["page-type/page"],
-  partSlugs: ["relation-property/notification-persona-slug"],
+  partSlugs: ["relation-property/notification-persona"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/notification-persona-slug",
+      pagePropertySlug: "relation-property/notification-persona",
       required: true,
       many: false,
     },

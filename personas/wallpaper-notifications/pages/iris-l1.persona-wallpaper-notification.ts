@@ -5,6 +5,6 @@ export const irisL1 = {
   pageTypeSlug: "persona-wallpaper-notification",
   slug: "iris-l1",
   title: "iris L01 wallpaper notified",
-  personaSlug: "iris",
+  persona: "iris",
   relationshipLevel: 1,
 } as const satisfies PersonaWallpaperNotification
