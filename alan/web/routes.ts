@@ -47,7 +47,10 @@ export default [
   ),
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
-  route("api/property-option", "routes/api.property-option.ts"),
+  route(
+    "api/property-option",
+    "routes/alan-web-api-property-option/alan-web-api-property-option.route.code.ts"
+  ),
   route("api/media/token", "routes/api.media.token.ts"),
   route(
     "api/media/:pageId/variants",
@@ -77,7 +80,10 @@ export default [
   route("api/load", "routes/api.load.ts"),
   route("api/save", "routes/api.save.ts"),
   route("api/catalog", "routes/alan-web-api-catalog/alan-web-api-catalog.route.code.ts"),
-  route("api/chess/analyze", "routes/api.chess.analyze.ts"),
+  route(
+    "api/chess/analyze",
+    "routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"
+  ),
 
   route("api/push/register", "routes/api.push.register.ts"),
 

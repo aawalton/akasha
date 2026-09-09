@@ -180,5 +180,7 @@ export const alanWeb = {
     "route/alan-web-api-health",
     "route/alan-web-api-live-version",
     "route/alan-web-api-catalog",
+    "route/alan-web-api-chess-analyze",
+    "route/alan-web-api-property-option",
   ],
 } as const satisfies RouterApp
