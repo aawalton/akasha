@@ -11,7 +11,7 @@ import {
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const PACKAGE = "workspace-package"
+const DOMAIN = "domain"
 
 const CHANGE = "change"
 
@@ -253,13 +253,13 @@ export function reasonsIn(at: string, text: string): readonly string[] {
 }
 
 function folderOf(shadow: Shadow, slug: string): string {
-  const one = shadow.index.listedAt(PACKAGE, slug)[0]
-  if (one === undefined) {
-    throw new Error(
-      `the index names no \`${PACKAGE}${PARTED_BY}${slug}\`, so nothing says where a change is made`
-    )
+  for (const kind of shadow.index.kindsUnder(DOMAIN)) {
+    const one = shadow.index.listedAt(kind, slug)[0]
+    if (one !== undefined) return `${dirname(one.path)}${PARTED_BY}`
   }
-  return `${dirname(one.path)}${PARTED_BY}`
+  throw new Error(
+    `the index names \`${slug}\` under no page type below \`${DOMAIN}\`, so nothing says where a change is made`
+  )
 }
 
 function codeNamed(path: string): boolean {

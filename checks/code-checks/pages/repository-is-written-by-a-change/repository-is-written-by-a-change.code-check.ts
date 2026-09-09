@@ -17,7 +17,11 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "departure",
       statement:
-        "The change package and the command system are asked of the index rather than spelled.",
+        "The change machinery and the command system are asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Either is looked for under every page type below `domain`.",
     },
     {
       invariantKind: "departure",
