@@ -9,6 +9,7 @@ export type UrlProperty = PageProperty & {
 export const urlProperty = {
   id: "01a063de-2c60-7000-97f0-b6451df11654",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "url-property",
   definition: "a page property with a web address",
   pluralSlug: "url-properties",

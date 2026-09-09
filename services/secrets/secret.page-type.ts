@@ -11,6 +11,7 @@ export type Secret = Page & {
 export const secret = {
   id: "01a0684a-7d55-7000-bf3d-deee6d805174",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "secret",
   definition: "one secret value under a name of its own",
   pluralSlug: "secrets",

@@ -9,6 +9,7 @@ export type TemperScribingThing = TemperCatalogThing & {
 export const temperScribingThing = {
   id: "01a05fca-cb8c-73ea-beae-bd4ddb3a41f3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-scribing-thing",
   definition: "anything a scribed skill is written out of",
   pluralSlug: "temper-scribing-things",

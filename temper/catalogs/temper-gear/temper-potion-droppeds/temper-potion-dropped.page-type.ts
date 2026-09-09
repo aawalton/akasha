@@ -6,6 +6,7 @@ export type TemperPotionDropped = TemperGearThing
 export const temperPotionDropped = {
   id: "01a05fd1-d435-7e26-b0e7-584020995ebe",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-potion-dropped",
   definition: "a drink found in the world rather than brewed",
   pluralSlug: "temper-potion-droppeds",

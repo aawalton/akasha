@@ -13,6 +13,7 @@ export type TemperSkillLine = TemperCatalogThing & {
 export const temperSkillLine = {
   id: "01a05fca-cb8b-7189-8133-38b9f311342c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-skill-line",
   definition: "a track of skills a character raises together",
   pluralSlug: "temper-skill-lines",

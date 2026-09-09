@@ -15,6 +15,7 @@ export type VendoredWorkload = Service & {
 export const vendoredWorkload = {
   id: "01a068e5-527b-7fd9-b67c-c38bcf39040a",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "vendored-workload",
   definition: "a workload the cluster runs that this repository writes no manifest for",
   pluralSlug: "vendored-workloads",

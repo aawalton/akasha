@@ -13,6 +13,7 @@ export type TemperInventoryChunk = TemperThing & {
 export const temperInventoryChunk = {
   id: "01a05fcb-fd2f-718b-84ca-d9cdeb890706",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-inventory-chunk",
   definition: "one piece of the JSON a reading of an inventory was written as",
   pluralSlug: "temper-inventory-chunks",

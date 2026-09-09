@@ -23,6 +23,7 @@ export type PersonaPointsSource = Domain & {
 export const personaPointsSource = {
   id: "01a00115-e648-7000-badd-cf9b31eda2f3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "persona-points-source",
   definition: "the thing a persona's points are counted from",
   pluralSlug: "persona-points-sources",

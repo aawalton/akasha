@@ -13,6 +13,7 @@ export type TemperEsoPlayerEquipmentConstant = TemperCatalogThing & {
 export const temperEsoPlayerEquipmentConstant = {
   id: "01a05fd1-d431-793b-8b9a-9cc4a07e31be",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-eso-player-equipment-constant",
   definition: "the number the game has for one gear value",
   pluralSlug: "temper-eso-player-equipment-constants",

@@ -13,6 +13,7 @@ export type TemperDungeon = TemperCatalogThing & {
 export const temperDungeon = {
   id: "01a05fc4-7a8e-73b2-936f-9e3b86b17549",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-dungeon",
   definition: "a group instance a party fights through together",
   pluralSlug: "temper-dungeons",

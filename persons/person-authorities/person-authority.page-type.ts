@@ -13,6 +13,7 @@ export type PersonAuthority = Page & {
 export const personAuthority = {
   id: "01a0541e-d4d2-7426-bc38-f122ec60f7ba",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "person-authority",
   definition: "what a person may cause the system to do",
   pluralSlug: "person-authorities",

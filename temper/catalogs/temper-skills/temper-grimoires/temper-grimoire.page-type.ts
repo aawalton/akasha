@@ -15,6 +15,7 @@ export type TemperGrimoire = TemperScribingThing & {
 export const temperGrimoire = {
   id: "01a05fca-cb89-7d99-aa9d-e89e410a0f89",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-grimoire",
   definition: "a book a character scribes a skill from",
   pluralSlug: "temper-grimoires",

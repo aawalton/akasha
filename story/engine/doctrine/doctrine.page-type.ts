@@ -17,6 +17,7 @@ export type Doctrine = Page & {
 export const doctrine = {
   id: "01a0826f-8d12-7268-918c-0b3a3574d5f6",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "doctrine",
   definition: "the rulings a game master runs every game by",
   pluralSlug: "doctrine",

@@ -13,6 +13,7 @@ export type TemperWeaponType = TemperGearThing & {
 export const temperWeaponType = {
   id: "01a05fd1-d442-7b45-8a20-d4ff90ea6255",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-weapon-type",
   definition: "a kind of weapon",
   pluralSlug: "temper-weapon-types",

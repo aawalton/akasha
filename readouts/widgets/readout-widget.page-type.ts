@@ -33,6 +33,7 @@ export type ReadoutWidget = Domain & {
 export const readoutWidget = {
   id: "01a05480-1c86-7e95-b799-63b1c0152f62",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "readout-widget",
   definition: "one tile a person places on a phone",
   pluralSlug: "readout-widgets",

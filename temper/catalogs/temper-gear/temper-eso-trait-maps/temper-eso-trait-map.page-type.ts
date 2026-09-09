@@ -13,6 +13,7 @@ export type TemperEsoTraitMap = TemperCatalogThing & {
 export const temperEsoTraitMap = {
   id: "01a05fd1-d431-71e8-91f5-9767d9744dc3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-eso-trait-map",
   definition: "the number the game has for one trait on one kind of piece",
   pluralSlug: "temper-eso-trait-maps",

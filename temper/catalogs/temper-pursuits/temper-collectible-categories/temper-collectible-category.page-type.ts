@@ -11,6 +11,7 @@ export type TemperCollectibleCategory = TemperPursuitThing & {
 export const temperCollectibleCategory = {
   id: "01a06165-ae0e-7003-b36d-6529ae625fb0",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-collectible-category",
   definition: "a heading the game files a collectible under",
   pluralSlug: "temper-collectible-categories",

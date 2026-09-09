@@ -11,6 +11,7 @@ export type TemperHoldingsThing = TemperThing & {
 export const temperHoldingsThing = {
   id: "01a05fcb-fd2b-77f2-923a-cb5f59585696",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-holdings-thing",
   definition: "a reading of what an account holds",
   pluralSlug: "temper-holdings-things",

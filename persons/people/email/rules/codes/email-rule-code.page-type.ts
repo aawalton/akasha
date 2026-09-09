@@ -15,6 +15,7 @@ export type EmailRuleCode = EmailRule & {
 export const emailRuleCode = {
   id: "01a06828-59d3-7d52-bae3-818debc51db7",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "email-rule-code",
   definition: "an email rule its own clauses carry out",
   pluralSlug: "email-rule-codes",

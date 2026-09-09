@@ -9,6 +9,7 @@ export type TemperAlliance = TemperCatalogThing & {
 export const temperAlliance = {
   id: "01a05fc4-7a8c-7403-bf1d-3fe777a61478",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-alliance",
   definition: "a faction the players of Tamriel are divided among",
   pluralSlug: "temper-alliances",

@@ -21,6 +21,7 @@ export type ReadoutScale = Domain & {
 export const readoutScale = {
   id: "01a05446-e75f-756a-b8d9-4288a350957f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "readout-scale",
   definition: "what turns a reading into a color",
   pluralSlug: "readout-scales",

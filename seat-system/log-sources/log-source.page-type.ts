@@ -6,6 +6,7 @@ export type LogSource = Page
 export const logSource = {
   id: "01a0657c-cb14-7c6f-83df-0d533f4f7821",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "log-source",
   definition: "a stream of console lines the processes behind a seat write",
   pluralSlug: "log-sources",

@@ -19,6 +19,7 @@ export type TemperWatcherEnrolment = TemperProgressThing & {
 export const temperWatcherEnrolment = {
   id: "01a05fd3-4364-713f-be23-5bd09e86ad23",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-watcher-enrolment",
   definition: "one watcher allowed to have a machine's saved game files in",
   pluralSlug: "temper-watcher-enrolments",

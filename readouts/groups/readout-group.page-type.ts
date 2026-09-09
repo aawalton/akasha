@@ -11,6 +11,7 @@ export type ReadoutGroup = Domain & {
 export const readoutGroup = {
   id: "01a05446-e75e-7657-acda-566edc2b182e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "readout-group",
   definition: "the readings drawn together",
   pluralSlug: "readout-groups",

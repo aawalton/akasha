@@ -6,6 +6,7 @@ export type TemperPotionCrown = TemperGearThing
 export const temperPotionCrown = {
   id: "01a05fd1-d434-7ce2-a20b-6926bf033e6f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-potion-crown",
   definition: "a drink bought from the crown store",
   pluralSlug: "temper-potion-crowns",

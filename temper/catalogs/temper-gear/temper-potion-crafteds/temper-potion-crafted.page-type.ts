@@ -9,6 +9,7 @@ export type TemperPotionCrafted = TemperGearThing & {
 export const temperPotionCrafted = {
   id: "01a05fd1-d434-76cd-b1db-563c237e6de6",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-potion-crafted",
   definition: "a drink brewed from reagents",
   pluralSlug: "temper-potion-crafteds",

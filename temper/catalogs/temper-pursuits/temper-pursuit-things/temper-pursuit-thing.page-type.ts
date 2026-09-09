@@ -9,6 +9,7 @@ export type TemperPursuitThing = TemperCatalogThing & {
 export const temperPursuitThing = {
   id: "01a06153-0ea9-7002-8317-f34518274d6f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-pursuit-thing",
   definition: "one node of a catalog the game shows a player's progress against",
   pluralSlug: "temper-pursuit-things",

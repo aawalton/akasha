@@ -6,6 +6,7 @@ export type TemperTargetType = TemperCatalogThing
 export const temperTargetType = {
   id: "01a05fc5-94d2-7f4f-9b3c-6c27e1c09266",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-target-type",
   definition: "who or what an ability is aimed at",
   pluralSlug: "temper-target-types",

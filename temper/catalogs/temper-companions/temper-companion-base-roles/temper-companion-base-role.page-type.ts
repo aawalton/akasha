@@ -15,6 +15,7 @@ export type TemperCompanionBaseRole = TemperCompanionThing & {
 export const temperCompanionBaseRole = {
   id: "01a05fce-1851-7d9f-9f36-f8f9bf8792ea",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-companion-base-role",
   definition: "a part a companion is built to play",
   pluralSlug: "temper-companion-base-roles",

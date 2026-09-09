@@ -15,6 +15,7 @@ export type PersonaImage = Page & {
 export const personaImage = {
   id: "01a0655b-4a9b-7009-9c47-3a4467acc46f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "persona-image",
   definition: "a picture a persona is drawn as",
   pluralSlug: "persona-images",

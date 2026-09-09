@@ -13,6 +13,7 @@ export type TemperLoreCollection = TemperPursuitThing & {
 export const temperLoreCollection = {
   id: "01a06343-f9f7-7005-838d-006a4cec0e4f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-lore-collection",
   definition: "a grouping the game files lore library books under",
   pluralSlug: "temper-lore-collections",

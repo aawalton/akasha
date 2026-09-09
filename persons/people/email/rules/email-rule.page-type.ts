@@ -11,6 +11,7 @@ export type EmailRule = Page & {
 export const emailRule = {
   id: "01a06828-59d3-7486-8463-b59a1768c717",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "email-rule",
   definition: "what to do with some of a person's mail",
   pluralSlug: "email-rules",

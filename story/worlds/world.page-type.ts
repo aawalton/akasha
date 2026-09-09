@@ -15,6 +15,7 @@ export type World = Page & {
 export const world = {
   id: "01a063ce-6216-7000-8f40-f471a7c21987",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "world",
   definition: "a made-up somewhere",
   pluralSlug: "worlds",

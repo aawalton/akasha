@@ -9,6 +9,7 @@ export type RestaurantMenuItem = Collection & {
 export const restaurantMenuItem = {
   id: "01a06807-be66-700d-8bc5-ae2909f1d723",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "restaurant-menu-item",
   definition: "a dish a restaurant serves",
   pluralSlug: "restaurant-menu-items",

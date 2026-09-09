@@ -19,6 +19,7 @@ export type WorldMechanic = Page & {
 export const worldMechanic = {
   id: "01a06558-a991-7f75-b03b-962c2df9e390",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "world-mechanic",
   definition: "one thing a world does the same way every time",
   pluralSlug: "world-mechanics",

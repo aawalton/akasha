@@ -9,6 +9,7 @@ export type TemperVampireStage = TemperCatalogThing & {
 export const temperVampireStage = {
   id: "01a05fc5-94d2-7de5-8850-22656966472e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-vampire-stage",
   definition: "how far a character's vampirism has run",
   pluralSlug: "temper-vampire-stages",

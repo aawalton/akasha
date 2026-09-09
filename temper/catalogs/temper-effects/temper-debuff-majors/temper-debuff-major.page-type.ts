@@ -6,6 +6,7 @@ export type TemperDebuffMajor = TemperCatalogThing
 export const temperDebuffMajor = {
   id: "01a05fc5-94cf-7021-9a7d-21e4794bdc95",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-debuff-major",
   definition: "a harmful effect the game names Major",
   pluralSlug: "temper-debuff-majors",

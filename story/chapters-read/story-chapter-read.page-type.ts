@@ -23,6 +23,7 @@ export type StoryChapterRead = CollectionExternal & {
 export const storyChapterRead = {
   id: "01a06554-d8bd-72ef-8a40-8ab143986c70",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "story-chapter-read",
   definition: "a chapter of a story somebody else wrote",
   pluralSlug: "story-chapters-read",

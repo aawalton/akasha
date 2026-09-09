@@ -11,6 +11,7 @@ export type TemperTributePatron = TemperPursuitThing & {
 export const temperTributePatron = {
   id: "01a06153-0ea9-7008-ab66-7b7e073ebf51",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-tribute-patron",
   definition: "a patron a Tales of Tribute deck is built around",
   pluralSlug: "temper-tribute-patrons",

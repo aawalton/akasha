@@ -29,6 +29,7 @@ export type TemperItemCategoryTree = TemperThing & {
 export const temperItemCategoryTree = {
   id: "01a05fcb-fd33-7e42-b0df-2c021ee52730",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-item-category-tree",
   definition: "a branch of the tree an inventory is sorted into",
   pluralSlug: "temper-item-category-trees",

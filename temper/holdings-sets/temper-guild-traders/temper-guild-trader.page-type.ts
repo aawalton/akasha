@@ -9,6 +9,7 @@ export type TemperGuildTrader = TemperThing & {
 export const temperGuildTrader = {
   id: "01a05fcb-fd2c-7cff-9144-3d6612a42fa5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-guild-trader",
   definition: "a kiosk a guild rents to sell from",
   pluralSlug: "temper-guild-traders",

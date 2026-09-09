@@ -17,6 +17,7 @@ export type Message = Page & {
 export const message = {
   id: "01a06818-107b-7005-8e69-8cefb68f3cdf",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "message",
   definition: "text sent to somebody",
   pluralSlug: "messages",

@@ -6,6 +6,7 @@ export type TemperSkillType = TemperCatalogThing
 export const temperSkillType = {
   id: "01a05fca-cb8c-73c3-984c-28544089d7ee",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-skill-type",
   definition: "the sort of use a skill is put to",
   pluralSlug: "temper-skill-types",

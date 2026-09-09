@@ -6,6 +6,7 @@ export type Service = Domain
 export const service = {
   id: "01a05a3c-caff-7656-b00d-cbde9f3cf324",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "service",
   definition: "a program the system runs on its own",
   pluralSlug: "services",

@@ -11,6 +11,7 @@ export type TemperCharacterSkillActivation = TemperCharacterThing & {
 export const temperCharacterSkillActivation = {
   id: "01a05fcd-f54a-7717-a057-2b49e5aeaa04",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-character-skill-activation",
   definition: "what one slotted skill does each time a character fires it",
   pluralSlug: "temper-character-skill-activations",

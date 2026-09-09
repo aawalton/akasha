@@ -13,6 +13,7 @@ export type TemperSkillPoint = TemperCharacterThing & {
 export const temperSkillPoint = {
   id: "01a05fcd-f559-75c5-bd78-0041c552d484",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-skill-point",
   definition: "one source a character earns skill points from",
   pluralSlug: "temper-skill-points",

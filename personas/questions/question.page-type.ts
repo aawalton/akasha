@@ -25,6 +25,7 @@ export type Question = Page & {
 export const question = {
   id: "01a06823-89b2-7000-9bb7-f118049c3ba7",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "question",
   definition: "something a persona put to Alan that only Alan can settle",
   pluralSlug: "questions",

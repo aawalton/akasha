@@ -19,6 +19,7 @@ export type WorkstationService = Service & {
 export const workstationService = {
   id: "01a05a3f-b42a-754e-af3c-8b30ed9d6ad1",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "workstation-service",
   definition: "a service the workstation runs",
   pluralSlug: "workstation-services",

@@ -47,6 +47,7 @@ export type Readout = Module & {
 export const readout = {
   id: "01a05446-e760-7cb2-848b-4fcfc7ed45d4",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "readout",
   definition: "one reading a person is shown",
   pluralSlug: "readouts",

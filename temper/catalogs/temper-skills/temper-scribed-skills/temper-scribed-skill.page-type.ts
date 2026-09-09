@@ -11,6 +11,7 @@ export type TemperScribedSkill = TemperSkill & {
 export const temperScribedSkill = {
   id: "01a05fca-cb8a-72ce-84c1-1585368027e5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-scribed-skill",
   definition: "a skill written out of a grimoire and its scripts",
   pluralSlug: "temper-scribed-skills",

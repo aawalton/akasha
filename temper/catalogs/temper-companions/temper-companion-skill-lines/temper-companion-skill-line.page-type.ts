@@ -6,6 +6,7 @@ export type TemperCompanionSkillLine = TemperCompanionThing
 export const temperCompanionSkillLine = {
   id: "01a05fce-1854-7d72-872a-0e22ce5c84c5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-companion-skill-line",
   definition: "a group of companion abilities learned together",
   pluralSlug: "temper-companion-skill-lines",

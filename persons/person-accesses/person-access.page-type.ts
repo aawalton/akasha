@@ -15,6 +15,7 @@ export type PersonAccess = Page & {
 export const personAccess = {
   id: "01a0541e-d4d1-7bc6-9050-6d8cc130723f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "person-access",
   definition: "what a person may reach in the system",
   pluralSlug: "person-accesses",

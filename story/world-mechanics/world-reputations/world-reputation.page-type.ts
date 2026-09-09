@@ -6,6 +6,7 @@ export type WorldReputation = WorldMechanic
 export const worldReputation = {
   id: "01a06558-a991-7177-b114-17a075e47791",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "world-reputation",
   definition: "how a people stand toward a character",
   pluralSlug: "world-reputations",

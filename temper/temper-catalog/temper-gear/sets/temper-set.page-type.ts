@@ -17,6 +17,7 @@ export type TemperSet = TemperCatalogThing & {
 export const temperSet = {
   id: "01a05fd1-d441-7c97-bedf-3316d7b4361a",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-set",
   definition: "a run of pieces giving more the more of them are worn",
   pluralSlug: "temper-sets",

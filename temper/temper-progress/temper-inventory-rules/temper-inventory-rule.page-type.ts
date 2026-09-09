@@ -15,6 +15,7 @@ export type TemperInventoryRule = TemperRule & {
 export const temperInventoryRule = {
   id: "01a07283-f299-703a-a255-0c48075885be",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-inventory-rule",
   definition: "a rule a player has in force over what they carry",
   pluralSlug: "temper-inventory-rules",

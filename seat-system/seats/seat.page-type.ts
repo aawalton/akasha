@@ -43,6 +43,7 @@ export type Seat = Agent & {
 export const seat = {
   id: "01a05035-2609-7463-ba49-ccaf20f5c337",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "seat",
   definition: "a place an agent works from",
   pluralSlug: "seats",

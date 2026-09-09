@@ -9,6 +9,7 @@ export type TemperScript = TemperScribingThing & {
 export const temperScript = {
   id: "01a05fca-cb8d-7226-b1b1-e268930470a2",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-script",
   definition: "one of the writings a grimoire is filled in with",
   pluralSlug: "temper-scripts",

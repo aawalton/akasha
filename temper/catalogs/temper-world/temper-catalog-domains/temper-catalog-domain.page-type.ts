@@ -19,6 +19,7 @@ export type TemperCatalogDomain = TemperCatalogThing & {
 export const temperCatalogDomain = {
   id: "01a05fc4-7a8e-7cdd-859d-6e17f19d2d93",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-catalog-domain",
   definition: "one area of the game a capture mirrors",
   pluralSlug: "temper-catalog-domains",

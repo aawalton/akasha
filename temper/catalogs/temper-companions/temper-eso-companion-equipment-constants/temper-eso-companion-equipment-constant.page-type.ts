@@ -15,6 +15,7 @@ export type TemperEsoCompanionEquipmentConstant = TemperCompanionThing & {
 export const temperEsoCompanionEquipmentConstant = {
   id: "01a05fcf-2469-71b2-b9b1-9c8803c95d71",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-eso-companion-equipment-constant",
   definition: "a value The Elder Scrolls Online names for companion equipment",
   pluralSlug: "temper-eso-companion-equipment-constants",

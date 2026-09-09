@@ -9,6 +9,7 @@ export type TemperCompanionJewelrySlot = TemperCompanionThing & {
 export const temperCompanionJewelrySlot = {
   id: "01a05fcd-aecf-75d4-9252-0fa9f6ad750b",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-companion-jewelry-slot",
   definition: "a place a companion wears one piece of jewelry",
   pluralSlug: "temper-companion-jewelry-slots",

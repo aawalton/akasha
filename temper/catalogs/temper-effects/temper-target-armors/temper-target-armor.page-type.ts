@@ -9,6 +9,7 @@ export type TemperTargetArmor = TemperCatalogThing & {
 export const temperTargetArmor = {
   id: "01a05fc5-94d1-784f-81dd-52ce5bc412dd",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-target-armor",
   definition: "a sort of enemy damage is worked out against",
   pluralSlug: "temper-target-armors",

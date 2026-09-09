@@ -19,6 +19,7 @@ export type ClosenessLevel = Domain & {
 export const closenessLevel = {
   id: "01a0540e-5111-7164-acb3-f776b18d8b45",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "closeness-level",
   definition: "one rung of how close a persona is drawn, from public to unveiled",
   pluralSlug: "closeness-levels",

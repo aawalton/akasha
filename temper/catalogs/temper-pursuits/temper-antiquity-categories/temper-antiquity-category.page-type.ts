@@ -11,6 +11,7 @@ export type TemperAntiquityCategory = TemperPursuitThing & {
 export const temperAntiquityCategory = {
   id: "01a06166-503c-7000-a696-166a5a6ce1df",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-antiquity-category",
   definition: "a grouping the game files antiquity lore under",
   pluralSlug: "temper-antiquity-categories",

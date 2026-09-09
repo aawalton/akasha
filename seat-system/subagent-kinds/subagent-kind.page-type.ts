@@ -13,6 +13,7 @@ export type SubagentKind = Domain & {
 export const subagentKind = {
   id: "01a06838-7a9d-7394-97ff-d069ea588410",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "subagent-kind",
   definition: "everything a subagent is, apart from the work it is given",
   pluralSlug: "subagent-kinds",

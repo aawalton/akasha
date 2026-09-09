@@ -15,6 +15,7 @@ export type Subagent = Agent & {
 export const subagent = {
   id: "01a05978-f2e1-78e7-9017-ab14c5c1d79b",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "subagent",
   definition: "an agent a seat runs with the Agent tool",
   pluralSlug: "subagents",

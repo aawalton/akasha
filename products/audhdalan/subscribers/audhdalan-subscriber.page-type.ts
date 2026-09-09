@@ -9,6 +9,7 @@ export type AudhdalanSubscriber = Page & {
 export const audhdalanSubscriber = {
   id: "019e2701-19cb-71d9-a820-bddf28cec176",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "audhdalan-subscriber",
   definition: "someone who asked to hear when Alan publishes",
   pluralSlug: "audhdalan-subscribers",

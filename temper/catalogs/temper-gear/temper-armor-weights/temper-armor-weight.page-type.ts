@@ -11,6 +11,7 @@ export type TemperArmorWeight = TemperCatalogThing & {
 export const temperArmorWeight = {
   id: "01a05fd1-d430-7564-8721-434ab188698f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-armor-weight",
   definition: "how heavy a piece of armor is made",
   pluralSlug: "temper-armor-weights",

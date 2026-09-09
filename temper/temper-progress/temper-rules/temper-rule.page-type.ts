@@ -19,6 +19,7 @@ export type TemperRule = TemperProgressThing & {
 export const temperRule = {
   id: "01a0727a-ee24-78ce-96b2-5cd1e1558110",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-rule",
   definition: "what to do with an item that matches a set of tests",
   pluralSlug: "temper-rules",

@@ -19,6 +19,7 @@ export type WorldCharacter = Page & {
 export const worldCharacter = {
   id: "01a0657a-9ccd-7153-9c9f-c9454abc1a22",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "world-character",
   definition: "somebody a world's story follows",
   pluralSlug: "world-characters",

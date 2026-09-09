@@ -23,6 +23,7 @@ export type StoryElementPlayed = Page & {
 export const storyElementPlayed = {
   id: "01a06828-cb9a-765c-a42b-ad24c065bb9b",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "story-element-played",
   definition: "one thing a story nobody wrote was played out of",
   pluralSlug: "story-elements-played",

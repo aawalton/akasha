@@ -15,6 +15,7 @@ export type DeviceSecret = Page & {
 export const deviceSecret = {
   id: "01a05b39-f50b-77c0-826c-a526838d12ac",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "device-secret",
   definition: "the credential one device presents in place of a session",
   pluralSlug: "device-secrets",

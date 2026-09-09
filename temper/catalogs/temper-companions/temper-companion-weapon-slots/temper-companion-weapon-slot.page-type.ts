@@ -6,6 +6,7 @@ export type TemperCompanionWeaponSlot = TemperCompanionThing
 export const temperCompanionWeaponSlot = {
   id: "01a05fcd-41a9-7114-8636-28bd59dc4a76",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-companion-weapon-slot",
   definition: "a hand a companion has one weapon in",
   pluralSlug: "temper-companion-weapon-slots",

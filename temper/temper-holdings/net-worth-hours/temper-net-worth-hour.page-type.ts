@@ -9,6 +9,7 @@ export type TemperNetWorthHour = TemperHoldingsThing & {
 export const temperNetWorthHour = {
   id: "01a06006-154f-7344-ae3b-0de4c53132dc",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-net-worth-hour",
   definition: "one hour of readings of what an account was worth",
   pluralSlug: "temper-net-worth-hours",

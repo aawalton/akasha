@@ -6,6 +6,7 @@ export type TemperWeaponSlot = TemperCatalogThing
 export const temperWeaponSlot = {
   id: "01a05fd1-d442-7dfe-a4bd-c74ac70298ff",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-weapon-slot",
   definition: "a hand or a bar a weapon is held in",
   pluralSlug: "temper-weapon-slots",

@@ -19,6 +19,7 @@ export type TemperCompanionSkill = TemperCompanionThing & {
 export const temperCompanionSkill = {
   id: "01a05fcf-90fc-73a8-ad6a-e3869228a309",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-companion-skill",
   definition: "an ability a companion slots",
   pluralSlug: "temper-companion-skills",

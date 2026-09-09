@@ -6,6 +6,7 @@ export type TemperJewelryType = TemperGearThing
 export const temperJewelryType = {
   id: "01a05fd1-d433-7778-b5e5-05081a435bde",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-jewelry-type",
   definition: "a kind of jewelry piece",
   pluralSlug: "temper-jewelry-types",

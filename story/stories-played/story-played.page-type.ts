@@ -13,6 +13,7 @@ export type StoryPlayed = Collection & {
 export const storyPlayed = {
   id: "01a06424-329c-7c08-a753-0e0520e2d22c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "story-played",
   definition: "a story nobody wrote",
   pluralSlug: "stories-played",

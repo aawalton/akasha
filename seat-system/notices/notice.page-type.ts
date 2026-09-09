@@ -11,6 +11,7 @@ export type Notice = Page & {
 export const notice = {
   id: "019ffe7f-d49d-7000-ba76-13378b883aa0",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "notice",
   definition: "message text written ahead of time and asked for by name",
   pluralSlug: "notices",

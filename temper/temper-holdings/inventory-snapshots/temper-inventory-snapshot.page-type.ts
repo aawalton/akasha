@@ -33,6 +33,7 @@ export type TemperInventorySnapshot = TemperHoldingsThing & {
 export const temperInventorySnapshot = {
   id: "01a05fcb-fd2d-7480-88fb-8cc035361a6e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-inventory-snapshot",
   definition: "one whole reading of everything an account carries and banks",
   pluralSlug: "temper-inventory-snapshots",

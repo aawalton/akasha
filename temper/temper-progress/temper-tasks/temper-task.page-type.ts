@@ -25,6 +25,7 @@ export type TemperTask = TemperProgressThing & {
 export const temperTask = {
   id: "01a05fd3-435f-7ddd-a951-70e6e3d31e07",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-task",
   definition: "something Alan means to do in the game, once or again and again",
   pluralSlug: "temper-tasks",

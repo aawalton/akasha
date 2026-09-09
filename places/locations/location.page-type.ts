@@ -43,6 +43,7 @@ export type Location = Page & {
 export const location = {
   id: "01a06583-acfb-78cd-80a3-4b5b464dc8ff",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "location",
   definition: "a place on the map somebody kept",
   pluralSlug: "locations",

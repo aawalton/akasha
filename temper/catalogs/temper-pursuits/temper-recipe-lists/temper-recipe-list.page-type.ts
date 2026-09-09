@@ -9,6 +9,7 @@ export type TemperRecipeList = TemperPursuitThing & {
 export const temperRecipeList = {
   id: "01a0626e-c112-7de5-8901-fc3087a26629",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-recipe-list",
   definition: "one list the game groups craftable recipes under",
   pluralSlug: "temper-recipe-lists",

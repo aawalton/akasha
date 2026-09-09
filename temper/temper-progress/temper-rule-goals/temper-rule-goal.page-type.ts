@@ -6,6 +6,7 @@ export type TemperRuleGoal = TemperProgressThing
 export const temperRuleGoal = {
   id: "01a071f5-62e6-7b98-ab84-2e3e9f91b5e3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-rule-goal",
   definition: "what a player is keeping an item for",
   pluralSlug: "temper-rule-goals",

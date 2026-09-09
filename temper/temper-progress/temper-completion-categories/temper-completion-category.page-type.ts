@@ -9,6 +9,7 @@ export type TemperCompletionCategory = TemperProgressThing & {
 export const temperCompletionCategory = {
   id: "01a05fcb-d657-7209-8fac-d33d57fe464e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "temper-completion-category",
   definition: "one node of the tree completion is counted in",
   pluralSlug: "temper-completion-categories",

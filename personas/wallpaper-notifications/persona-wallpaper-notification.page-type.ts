@@ -13,6 +13,7 @@ export type PersonaWallpaperNotification = Page & {
 export const personaWallpaperNotification = {
   id: "01a0655b-4a9b-700d-88c0-5e1a49f13be5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "persona-wallpaper-notification",
   definition: "word to Alan that a persona reached a rung and was hung there",
   pluralSlug: "persona-wallpaper-notifications",
