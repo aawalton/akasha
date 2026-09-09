@@ -44,5 +44,10 @@ export const noDoubleCast = {
       invariantKind: "gap",
       statement: "The two sit apart.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A helper taking `unknown` and asserting a type is a double cast this rule leaves.",
+    },
   ],
 } as const satisfies SyntaxRule
