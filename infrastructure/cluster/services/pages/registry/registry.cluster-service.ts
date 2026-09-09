@@ -11,5 +11,5 @@ export const registry = {
   image: "registry:3.0.0",
   replicas: 1,
   containerPort: 5000,
-  manifestSlug: "registry",
+  manifest: "registry",
 } as const satisfies ClusterService

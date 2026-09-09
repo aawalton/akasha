@@ -11,5 +11,5 @@ export const audhdalanWeb = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestSlug: "audhdalan-web-manifests",
+  manifest: "audhdalan-web-manifests",
 } as const satisfies ClusterService

@@ -11,5 +11,5 @@ export const postgresExporter = {
   image: "prometheuscommunity/postgres-exporter:v0.15.0",
   replicas: 1,
   containerPort: 9187,
-  manifestSlug: "postgres-exporter",
+  manifest: "postgres-exporter",
 } as const satisfies ClusterService

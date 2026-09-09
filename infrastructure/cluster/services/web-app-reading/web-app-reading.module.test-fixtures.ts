@@ -70,7 +70,7 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
   return pageOf(slug, held)
 }
 
-function clusterService(slug: string, at: number, name: string, manifestSlug: string): string {
+function clusterService(slug: string, at: number, name: string, appliedAs: string): string {
   return pageOf(slug, {
     id: `01a05b26-0000-7001-8000-00000000000${at}`,
     pageTypeSlug: "cluster-service",
@@ -82,7 +82,7 @@ function clusterService(slug: string, at: number, name: string, manifestSlug: st
     image: "registry.example/bun:latest",
     replicas: 1,
     containerPort: 3000,
-    manifestSlug,
+    manifest: appliedAs,
   })
 }
 

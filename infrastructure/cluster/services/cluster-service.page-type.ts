@@ -4,7 +4,7 @@ import type { ClusterServiceConfig } from "./properties/cluster-service-config.f
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
 import type { ContainerPort } from "./properties/container-port.number-property.ts"
 import type { Image } from "./properties/image.text-property.ts"
-import type { ManifestSlug } from "./properties/manifest-slug.relation-property.ts"
+import type { Manifest } from "./properties/manifest.relation-property.ts"
 import type { Namespace } from "./properties/namespace.text-property.ts"
 import type { Replicas } from "./properties/replicas.number-property.ts"
 import type { ResourceKind } from "./properties/resource-kind.text-property.ts"
@@ -20,7 +20,7 @@ export type ClusterService = Service & {
   containerPort?: ContainerPort
   schedule?: ClusterServiceSchedule
   config?: ClusterServiceConfig
-  manifestSlug: ManifestSlug
+  manifest: Manifest
   secrets?: Secrets
 }
 
@@ -95,7 +95,7 @@ export const clusterService = {
     "module/workload-deploying",
     "number-property/container-port",
     "number-property/replicas",
-    "relation-property/manifest-slug",
+    "relation-property/manifest",
     "text-property/image",
     "text-property/namespace",
     "text-property/resource-kind",
@@ -111,7 +111,7 @@ export const clusterService = {
     { pagePropertySlug: "number-property/replicas", required: false, many: false },
     { pagePropertySlug: "number-property/container-port", required: false, many: false },
     { pagePropertySlug: "text-property/cluster-service-schedule", required: false, many: false },
-    { pagePropertySlug: "relation-property/manifest-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/manifest", required: true, many: false },
     { pagePropertySlug: "file-property/cluster-service-config", required: false, many: false },
     {
       pagePropertySlug: "relation-property/secrets",

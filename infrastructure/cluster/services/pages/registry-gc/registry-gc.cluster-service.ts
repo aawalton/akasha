@@ -10,5 +10,5 @@ export const registryGc = {
   resourceName: "registry-gc",
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "0 4 * * *",
-  manifestSlug: "registry-gc",
+  manifest: "registry-gc",
 } as const satisfies ClusterService

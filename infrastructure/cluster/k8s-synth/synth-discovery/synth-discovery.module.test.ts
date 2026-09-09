@@ -59,7 +59,7 @@ beforeAll(() => {
       value:
         named === null
           ? { pageTypeSlug: CLUSTER_SERVICE }
-          : { pageTypeSlug: CLUSTER_SERVICE, manifestSlug: named },
+          : { pageTypeSlug: CLUSTER_SERVICE, manifest: named },
     }))
   )
 })

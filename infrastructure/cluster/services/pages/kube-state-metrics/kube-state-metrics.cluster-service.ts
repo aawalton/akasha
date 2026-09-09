@@ -11,5 +11,5 @@ export const kubeStateMetrics = {
   image: "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0",
   replicas: 1,
   containerPort: 8080,
-  manifestSlug: "kube-state-metrics",
+  manifest: "kube-state-metrics",
 } as const satisfies ClusterService

@@ -11,5 +11,5 @@ export const buildkit = {
   image: "moby/buildkit:v0.28.0",
   replicas: 1,
   containerPort: 1234,
-  manifestSlug: "buildkit",
+  manifest: "buildkit",
 } as const satisfies ClusterService

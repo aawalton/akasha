@@ -10,5 +10,5 @@ export const seaweedfsBackupBulk = {
   resourceName: "seaweedfs-backup-bulk",
   image: "rclone/rclone:1.74.3",
   schedule: "40 4 * * *",
-  manifestSlug: "seaweedfs-backup-bulk",
+  manifest: "seaweedfs-backup-bulk",
 } as const satisfies ClusterService

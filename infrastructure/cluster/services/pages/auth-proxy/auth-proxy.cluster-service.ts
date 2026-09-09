@@ -11,5 +11,5 @@ export const authProxy = {
   image: "registry.registry.svc.cluster.local:5000/infra/auth-proxy",
   replicas: 2,
   containerPort: 3080,
-  manifestSlug: "auth-proxy-manifests",
+  manifest: "auth-proxy-manifests",
 } as const satisfies ClusterService

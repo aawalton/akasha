@@ -9,5 +9,5 @@ export const nvidiaDevicePlugin = {
   namespace: "kube-system",
   resourceName: "nvidia-device-plugin-daemonset",
   image: "nvcr.io/nvidia/k8s-device-plugin:v0.14.5",
-  manifestSlug: "nvidia-device-plugin",
+  manifest: "nvidia-device-plugin",
 } as const satisfies ClusterService

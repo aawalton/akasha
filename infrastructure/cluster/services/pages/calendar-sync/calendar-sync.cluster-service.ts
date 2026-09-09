@@ -10,5 +10,5 @@ export const calendarSync = {
   resourceName: "calendar-sync",
   image: "registry.registry.svc.cluster.local:5000/alanwalton/alanwalton-calendar-sync",
   schedule: "40 8 * * *",
-  manifestSlug: "calendar-sync-manifests",
+  manifest: "calendar-sync-manifests",
 } as const satisfies ClusterService

@@ -11,5 +11,5 @@ export const postgresCnpg = {
   image:
     "registry.registry.svc.cluster.local:5000/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1",
   replicas: 2,
-  manifestSlug: "postgres-cnpg",
+  manifest: "postgres-cnpg",
 } as const satisfies ClusterService

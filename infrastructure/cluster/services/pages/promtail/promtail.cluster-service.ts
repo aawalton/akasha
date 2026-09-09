@@ -10,5 +10,5 @@ export const promtail = {
   resourceName: "promtail",
   image: "grafana/promtail:3.1.0",
   containerPort: 3101,
-  manifestSlug: "promtail",
+  manifest: "promtail",
 } as const satisfies ClusterService

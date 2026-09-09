@@ -11,7 +11,7 @@ export const supabaseRealtime = {
   image: "supabase/realtime:v2.86.3",
   replicas: 1,
   containerPort: 4000,
-  manifestSlug: "supabase-realtime",
+  manifest: "supabase-realtime",
   secrets: [
     "secret/realtime-secrets-database-url",
     "secret/realtime-secrets-db-enc-key",

@@ -10,5 +10,5 @@ export const postgresAnnualDump = {
   resourceName: "postgres-annual-dump",
   image: "registry.registry.svc.cluster.local:5000/cluster/postgres-annual-dump:r1",
   schedule: "13 5 1 1 *",
-  manifestSlug: "postgres-annual-dump-manifests",
+  manifest: "postgres-annual-dump-manifests",
 } as const satisfies ClusterService

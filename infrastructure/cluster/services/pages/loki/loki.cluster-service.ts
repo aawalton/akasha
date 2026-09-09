@@ -11,7 +11,7 @@ export const loki = {
   image: "grafana/loki:3.1.0",
   replicas: 1,
   containerPort: 3100,
-  manifestSlug: "loki",
+  manifest: "loki",
   secrets: ["secret/loki-s3-creds-access-key", "secret/loki-s3-creds-secret-key"],
   invariants: [
     {

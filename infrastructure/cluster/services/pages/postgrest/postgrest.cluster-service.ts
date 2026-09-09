@@ -11,6 +11,6 @@ export const postgrest = {
   image: "postgrest/postgrest:v12.2.3",
   replicas: 2,
   containerPort: 3000,
-  manifestSlug: "postgrest",
+  manifest: "postgrest",
   secrets: ["secret/postgrest-secrets-database-url", "secret/postgrest-secrets-pgrst-jwt-secret"],
 } as const satisfies ClusterService

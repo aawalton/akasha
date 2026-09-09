@@ -11,6 +11,6 @@ export const grafana = {
   image: "grafana/grafana:11.2.2",
   replicas: 1,
   containerPort: 3000,
-  manifestSlug: "grafana",
+  manifest: "grafana",
   secrets: ["secret/grafana-secrets-grafana-admin-password", "secret/grafana-ro-password-password"],
 } as const satisfies ClusterService

@@ -11,7 +11,7 @@ export const alanwaltonAtlas = {
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   replicas: 1,
   containerPort: 3000,
-  manifestSlug: "alanwalton-atlas",
+  manifest: "alanwalton-atlas",
   secrets: [
     "secret/alanwalton-secrets-admin-user-id",
     "secret/alanwalton-secrets-cron-secret",
