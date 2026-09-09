@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const singularActsCannotReorganiseATree = {
+  id: "01a0885c-a8a6-757f-9e18-eece49ce9eda",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "singular-acts-cannot-reorganise-a-tree",
+  domain: "workspace-package/change",
+  claim:
+    "Every agent-facing change acts on one page, and `akasha change` runs alone on the command line, so a reorganisation costs one command per page with no way to batch. Flattening the folders under `alan/books` is 436 moves and 732 property restatements, 1168 commands, against 38 acts of which exactly one takes more than one page. A tree cannot be reorganised at the rate its own acts allow.",
+  evidence:
+    "Counted 2026-09-09 against the 31 nested folders under `alan/books/pages/*/sections`, each read rather than assumed.\n\nThe act census: `changes/agent` holds 38 changes. `move-page` takes one `at` and one `to`. `add-property-value` takes one `at`, one `key`, one `value`. `change-page-page-property` takes one page. The only plural one is `rename-pages`, whose body is `path slug` pairs (`changes/agent/file/rename-pages/rename-pages.change-agent.code.ts:20-33`) — it renames slugs and moves nothing. `add-property-to-every-page`, `copy-property-on-every-page` and `move-property-on-every-page` reach every page of a page type, which is the whole of `book-section` across the repository rather than the 140 in one book, and they carry no way to name a subset.\n\nThe arithmetic for this one job. 436 pages sit in those 31 folders. 140 of them, all in `my-projects`, already state `section-of` naming the section their folder is named for, so the folder is a second spelling and flattening is a move plus one added value: 2 commands each, 280. The other 296 state `section-of` naming the book, so the folder is the only record of which section holds them; each needs the move, a `section-of` rewritten and the parent added to `part-of-collections`, or the parent section is left with no parts: 3 commands each, 888. Total 1168.\n\nWhat a plural move alone would fix: 436 of the 1168. The other 732 are property restatements, equally singular, so an act that moves many pages leaves three fifths of the work still one call at a time.\n\nWhy no loop closes it: `akasha change` running alone on the command line is a control rather than a convention, so a shell loop, a script holding the calls, and fanning the calls out across subagents are all the same evasion. The control is not the fault. The fault is that the acts are singular while the work is plural.\n\nNot established: how other reorganisations in this repository were landed, and whether any hit this and stopped. I did not search the history for one.",
+} as const satisfies Finding
