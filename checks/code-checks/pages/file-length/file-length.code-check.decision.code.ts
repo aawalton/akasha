@@ -1,0 +1,119 @@
+import {
+  type Carried,
+  heldBeside,
+  type Kinded,
+  type Naming,
+  namingUnder,
+  sectionHeld,
+  slugsWhere,
+} from "@akasha/indexes/property-carrying"
+import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
+import type { Value } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
+import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
+
+export const CEILING = 15000
+
+export const MARKUP_CEILING = 128 * 1024
+
+export const PROSE_CEILING = 128 * 1024
+
+export const WHOLE_PROSE_CEILING = 512 * 1024
+
+const TEST = "test"
+
+const ENTRIES = "jsonl"
+
+const RECORDS = "json"
+
+const MARKUP = "xml"
+
+const PROSE = "md"
+
+const TEXT = "txt"
+
+const WHOLE_PROSE = "prose"
+
+const RUNS = "runsFileLength"
+
+const TEST_RELIEF =
+  "a module carries one test, and what sets it up sits beside it in `test-fixtures`"
+
+const MARKUP_RELIEF =
+  "an addon names every XML document the game loads, so divide this one at a top-level element"
+
+const PROSE_RELIEF =
+  "nothing joins the parts of a prose file on read, so dividing this one hides all but the first"
+
+const NAMING = new WeakMap<Shadow, readonly Naming[]>()
+
+const HELD_OFF = new WeakMap<Shadow, ReadonlySet<string>>()
+
+export function heldOff(value: Value): boolean {
+  return value[RUNS] === false
+}
+
+function kindedIn(shadow: Shadow): Kinded {
+  return {
+    kindsUnder: (of) => shadow.index.kindsUnder(of),
+    everyOfType: (kind) => shadow.index.everyOfType(kind),
+    valueAt: (path) => shadow.pageOf(path),
+  }
+}
+
+function namingIn(shadow: Shadow): readonly Naming[] {
+  const found = NAMING.get(shadow)
+  if (found !== undefined) return found
+  const made = namingUnder(kindedIn(shadow))
+  NAMING.set(shadow, made)
+  return made
+}
+
+function sectionsOff(shadow: Shadow): ReadonlySet<string> {
+  const found = HELD_OFF.get(shadow)
+  if (found !== undefined) return found
+  const made = slugsWhere(kindedIn(shadow), heldOff, (named) => shadow.index.carryingOf(named))
+  HELD_OFF.set(shadow, made)
+  return made
+}
+
+function sectionOff(path: string, shadow: Shadow): boolean {
+  return sectionHeld(path, sectionsOff(shadow))
+}
+
+export function exemptIn(path: string, shadow: Shadow): boolean {
+  if (sectionOff(path, shadow)) return true
+  const carrying = (named: string): Carried => shadow.index.carryingOf(named)
+  return heldBeside(path, namingIn(shadow), heldOff, carrying)
+}
+
+function ceilingFor(path: string): number {
+  const said = partedIn(path)
+  if (said === null) return CEILING
+  const held = said.held
+  if (held === ENTRIES || held === RECORDS) return ENTRY_CEILING
+  if (held === MARKUP) return MARKUP_CEILING
+  if (held === PROSE || held === TEXT) {
+    return sectionedIn(said)?.propertySlug === WHOLE_PROSE ? WHOLE_PROSE_CEILING : PROSE_CEILING
+  }
+  return CEILING
+}
+
+function reliefFor(path: string): string | null {
+  const said = partedIn(path)
+  if (said === null) return null
+  if (said.held === MARKUP) return MARKUP_RELIEF
+  if (said.held === PROSE || said.held === TEXT) return PROSE_RELIEF
+  if (said.sections.length !== 1 || said.sections[0] !== TEST) return null
+  return textNamed(path) ? TEST_RELIEF : null
+}
+
+export function reasonsIn(path: string, held: number): readonly string[] {
+  const ceiling = ceilingFor(path)
+  if (held <= ceiling) return []
+  const over = ceiling.toLocaleString("en-US")
+  const said = `${held.toLocaleString("en-US")} bytes, over the ${over} byte ceiling`
+  const relief = reliefFor(path)
+  return relief === null ? [said] : [`${said} — ${relief}`]
+}
