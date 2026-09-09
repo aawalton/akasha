@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0021Book6Ch14LotsAndLotsAndLotsOfButterflies = {
   id: "01a06585-ef17-7fde-8d07-dd7177ec8090",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0021-book-6-ch14-lots-and-lots-and-lots-of-butterflies",
   title: "Book 6 Ch14: Lots and Lots and Lots of Butterflies",
   story: "all-the-skills-a-deckbuilding-litrpg",

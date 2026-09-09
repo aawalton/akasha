@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0015AmeliaBook1IsNowOutOnAmazonKuAnd = {
   id: "01a06585-ef23-72b9-a4db-a11513bead4a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0015-amelia-book-1-is-now-out-on-amazon-ku-and",
   title: "Amelia Book 1 is now out on Amazon KU and Audible!",
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

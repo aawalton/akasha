@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0030B6Ch23Negotiations = {
   id: "01a06585-ef18-7e23-9fd6-410ea4ebdcbd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0030-b6-ch23-negotiations",
   title: "B6 Ch23: Negotiations",
   story: "all-the-skills-a-deckbuilding-litrpg",

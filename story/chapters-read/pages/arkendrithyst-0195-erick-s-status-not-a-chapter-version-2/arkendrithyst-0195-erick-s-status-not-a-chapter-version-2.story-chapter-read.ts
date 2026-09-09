@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const arkendrithyst0195ErickSStatusNotAChapterVersion2 = {
   id: "01a06591-38c4-77ba-8ebd-5764438b6f98",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "arkendrithyst-0195-erick-s-status-not-a-chapter-version-2",
   title: "Erick's Status (not a chapter) version 2!",
   story: "arkendrithyst",

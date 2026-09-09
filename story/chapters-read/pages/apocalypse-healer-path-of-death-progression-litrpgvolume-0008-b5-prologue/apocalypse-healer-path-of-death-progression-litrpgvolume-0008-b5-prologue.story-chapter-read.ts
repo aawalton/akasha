@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0008B5Prologue = {
   id: "01a06585-ef26-7b4f-902b-0c5edcc7489c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0008-b5-prologue",
   title: "B5 Prologue",
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",

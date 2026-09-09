@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   id: "01a06585-ef18-7c66-99eb-a352d497ab9c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0027-b6-ch20-rowantree-estate",
   title: "B6 Ch20: Rowantree Estate",
   story: "all-the-skills-a-deckbuilding-litrpg",

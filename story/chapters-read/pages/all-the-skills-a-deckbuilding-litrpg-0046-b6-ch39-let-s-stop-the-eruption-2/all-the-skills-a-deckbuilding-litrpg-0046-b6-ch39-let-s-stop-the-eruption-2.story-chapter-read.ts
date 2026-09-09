@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0046B6Ch39LetSStopTheEruption2 = {
   id: "01a06585-ef21-7283-8d39-9beffdf13d9c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0046-b6-ch39-let-s-stop-the-eruption-2",
   title: "B6 Ch39: Let's Stop The Eruption (2)",
   story: "all-the-skills-a-deckbuilding-litrpg",

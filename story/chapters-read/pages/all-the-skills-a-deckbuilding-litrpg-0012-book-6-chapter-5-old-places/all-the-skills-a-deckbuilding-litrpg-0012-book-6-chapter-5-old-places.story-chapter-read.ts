@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0012Book6Chapter5OldPlaces = {
   id: "01a06585-ef16-700b-b61d-097be204fe30",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0012-book-6-chapter-5-old-places",
   title: "Book 6 Chapter 5: Old Places",
   story: "all-the-skills-a-deckbuilding-litrpg",

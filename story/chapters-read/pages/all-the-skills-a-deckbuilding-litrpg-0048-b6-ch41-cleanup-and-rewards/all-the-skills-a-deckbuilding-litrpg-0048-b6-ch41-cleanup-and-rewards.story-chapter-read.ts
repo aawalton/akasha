@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0048B6Ch41CleanupAndRewards = {
   id: "01a06585-ef22-7971-9390-3fddc264a190",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0048-b6-ch41-cleanup-and-rewards",
   title: "B6 Ch41: Cleanup and Rewards",
   story: "all-the-skills-a-deckbuilding-litrpg",

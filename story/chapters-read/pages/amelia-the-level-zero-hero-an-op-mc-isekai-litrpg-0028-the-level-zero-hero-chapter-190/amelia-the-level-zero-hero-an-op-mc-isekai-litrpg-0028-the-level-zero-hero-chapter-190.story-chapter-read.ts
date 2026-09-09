@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0028TheLevelZeroHeroChapter190 = {
   id: "01a06585-ef24-7332-93f2-2f796d05e60f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0028-the-level-zero-hero-chapter-190",
   title: "The Level Zero Hero Chapter 190",
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

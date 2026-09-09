@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing1441752 = {
   id: "01a08391-e074-738d-9ddd-1f5d45b2425c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0008-publication-and-stubbing-1441752",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 8,

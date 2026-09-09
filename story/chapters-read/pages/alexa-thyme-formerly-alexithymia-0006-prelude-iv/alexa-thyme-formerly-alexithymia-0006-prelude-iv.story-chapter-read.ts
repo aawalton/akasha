@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const alexaThymeFormerlyAlexithymia0006PreludeIv = {
   id: "01a06585-ef14-7c70-b2f6-9c1d40a05dfa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0006-prelude-iv",
   title: "Prelude IV",
   story: "alexa-thyme-formerly-alexithymia",

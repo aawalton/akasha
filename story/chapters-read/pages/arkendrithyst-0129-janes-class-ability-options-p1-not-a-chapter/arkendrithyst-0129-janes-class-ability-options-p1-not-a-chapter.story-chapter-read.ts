@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const arkendrithyst0129JanesClassAbilityOptionsP1NotAChapter = {
   id: "01a08393-1f88-77ff-b648-565c7a3a39bf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "arkendrithyst-0129-janes-class-ability-options-p1-not-a-chapter",
   story: "story-read/arkendrithyst",
   position: 129,

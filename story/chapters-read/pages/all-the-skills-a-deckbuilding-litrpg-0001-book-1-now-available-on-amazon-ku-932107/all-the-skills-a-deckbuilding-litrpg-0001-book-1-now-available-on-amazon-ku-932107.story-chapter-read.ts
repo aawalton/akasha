@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu932107 = {
   id: "01a08391-e3f9-79a4-b403-ee113faff758",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0001-book-1-now-available-on-amazon-ku-932107",
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 1,

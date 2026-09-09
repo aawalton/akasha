@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const allTheSkillsADeckbuildingLitrpg0037B6Ch30SkillGrindEnd = {
   id: "01a06585-ef19-7ecc-af6f-b70bc315733f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0037-b6-ch30-skill-grind-end",
   title: "B6 Ch30: Skill Grind (end)",
   story: "all-the-skills-a-deckbuilding-litrpg",
