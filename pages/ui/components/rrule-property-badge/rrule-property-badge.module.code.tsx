@@ -6,10 +6,10 @@ import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitiv
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
-import { labelRrule } from "@akasha/recurrence/labeling"
-import { parseRecurringText } from "@akasha/recurrence/parsing"
-import { getOccurrenceAtOrAfter } from "@akasha/recurrence/scheduling"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { labelRrule } from "akasha/alan/harness/recurrence/labeling/labeling.module.code.ts"
+import { parseRecurringText } from "akasha/alan/harness/recurrence/parsing/parsing.module.code.ts"
+import { getOccurrenceAtOrAfter } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useId, useState } from "react"
 

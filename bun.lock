@@ -266,13 +266,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/recurrence": {
-      "name": "@akasha/recurrence",
-      "dependencies": {
-        "rrule": "^2.8.1",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
     },
@@ -912,7 +905,6 @@
       "name": "@akasha/pages-core",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
-        "@akasha/recurrence": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2153,7 +2145,6 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-service": "workspace:*",
-        "@akasha/recurrence": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
@@ -2451,8 +2442,6 @@
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
 
     "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
-
-    "@akasha/recurrence": ["@akasha/recurrence@workspace:alan/harness/recurrence"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 

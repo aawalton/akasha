@@ -1,8 +1,8 @@
-import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
 import {
   getEsoDayStr,
   getEsoResetTime,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { advanceRecurrenceDueDate } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
 
 export type CompletionShape = {
   readonly stampKey: string

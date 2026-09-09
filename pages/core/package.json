@@ -69,7 +69,6 @@
   },
   "dependencies": {
     "@akasha/pages-url": "workspace:*",
-    "@akasha/recurrence": "workspace:*",
     "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"
   }

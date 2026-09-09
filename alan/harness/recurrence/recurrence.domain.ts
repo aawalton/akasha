@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const recurrence = {
   id: "01a05c6f-c7c2-7806-b684-baa6549863dc",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
-  manifest: "json",
   parts: ["module/recurrence-shape", "module/parsing", "module/labeling", "module/scheduling"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const recurrence = {
       statement: "The caller states the current time.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

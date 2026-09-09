@@ -40,7 +40,7 @@ export const alanHarness = {
     "workspace-package/web-page-answers",
     "workspace-package/workspace-paths",
     "domain/web-build-version",
-    "workspace-package/recurrence",
+    "domain/recurrence",
     "domain/reminder-system",
     "workspace-package/supabase-auth",
     "workspace-package/supabase-server",
