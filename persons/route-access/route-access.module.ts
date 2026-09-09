@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const routeAccess = {
   id: "01a05afe-7a0f-7405-b894-524372b09614",
   pageTypeSlug: "module",
+  type: "module",
   slug: "route-access",
   definition: "whether the person an account represents may reach a route",
   code: "ts",

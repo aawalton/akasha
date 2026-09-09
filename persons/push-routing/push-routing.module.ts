@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pushRouting = {
   id: "01a05b54-a908-7622-bd8f-8b4a54a24b9c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "push-routing",
   definition: "the path inside the app a push or a deep link opens",
   code: "ts",

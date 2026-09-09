@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const smsConsent = {
   id: "01a05b54-a902-76be-b1e3-8d624a488ea5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sms-consent",
   definition: "what a person agrees to in opting in to text messages",
   code: "ts",
