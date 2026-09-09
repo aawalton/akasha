@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type EmailRuleCodeForwardToSlug = Slug
+export type EmailRuleCodeForwardTo = Slug
 
-export const emailRuleCodeForwardToSlug = {
+export const emailRuleCodeForwardTo = {
   id: "01a06860-54a0-7c31-a1ec-4d13559b970a",
   pageTypeSlug: "relation-property",
-  slug: "email-rule-code-forward-to-slug",
-  propertySlug: "forward-to-slug",
+  slug: "email-rule-code-forward-to",
+  propertySlug: "forward-to",
   definition: "who a piece of mail the rule matches is forwarded to",
   targetPageTypeSlug: "page-type/person",
   invariants: [

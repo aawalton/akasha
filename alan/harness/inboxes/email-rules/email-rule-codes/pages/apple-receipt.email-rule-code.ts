@@ -10,5 +10,5 @@ export const appleReceipt = {
     { field: "subject", comparison: "contains", values: ["your receipt from apple"] },
   ],
   filing: "archive",
-  forwardToSlug: "jenny",
+  forwardTo: "jenny",
 } as const satisfies EmailRuleCode

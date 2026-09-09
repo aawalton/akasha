@@ -10,5 +10,5 @@ export const googleplayOrderReceipt = {
     { field: "subject", comparison: "contains", values: ["your google play order receipt"] },
   ],
   filing: "archive",
-  forwardToSlug: "jenny",
+  forwardTo: "jenny",
 } as const satisfies EmailRuleCode

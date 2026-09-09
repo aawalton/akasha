@@ -3,13 +3,13 @@ import type { EmailRule } from "../email-rule.page-type.ts"
 import type { EmailRuleCodeActions } from "./properties/email-rule-code-actions.select-property.ts"
 import type { EmailRuleCodeDelay } from "./properties/email-rule-code-delay.text-property.ts"
 import type { EmailRuleCodeFiling } from "./properties/email-rule-code-filing.select-property.ts"
-import type { EmailRuleCodeForwardToSlug } from "./properties/email-rule-code-forward-to-slug.relation-property.ts"
+import type { EmailRuleCodeForwardTo } from "./properties/email-rule-code-forward-to.relation-property.ts"
 
 export type EmailRuleCode = EmailRule & {
   filing: EmailRuleCodeFiling
   actions?: readonly EmailRuleCodeActions[]
   delay?: EmailRuleCodeDelay
-  forwardToSlug?: EmailRuleCodeForwardToSlug
+  forwardTo?: EmailRuleCodeForwardTo
 }
 
 export const emailRuleCode = {
@@ -20,7 +20,7 @@ export const emailRuleCode = {
   pluralSlug: "email-rule-codes",
   extendsSlug: ["page-type/email-rule"],
   partSlugs: [
-    "relation-property/email-rule-code-forward-to-slug",
+    "relation-property/email-rule-code-forward-to",
     "select-property/email-rule-code-actions",
     "select-property/email-rule-code-filing",
     "text-property/email-rule-code-delay",
@@ -35,7 +35,7 @@ export const emailRuleCode = {
     },
     { pagePropertySlug: "text-property/email-rule-code-delay", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/email-rule-code-forward-to-slug",
+      pagePropertySlug: "relation-property/email-rule-code-forward-to",
       required: false,
       many: false,
     },
