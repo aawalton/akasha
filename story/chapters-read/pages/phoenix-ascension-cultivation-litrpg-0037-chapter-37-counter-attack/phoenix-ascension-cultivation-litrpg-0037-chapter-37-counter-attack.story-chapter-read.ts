@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0037Chapter37CounterAttack = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0037-chapter-37-counter-attack",
   title: "Chapter 37: Counter-Attack",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 37,
   ownLength: 2507,
   unitSlug: "words",

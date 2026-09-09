@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0484369ACoalitionAgainstTheEndI3470
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0484-369-a-coalition-against-the-end-i-3470994",
   title: "369 A Coalition Against the End [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 484,
   ownLength: 5283,
   unitSlug: "words",

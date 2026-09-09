@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0533331IiHauntedIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0533-331-ii-haunted-ii",
   title: "331 (II) Haunted [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 533,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0529411AShadowOverPietyIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0529-411-a-shadow-over-piety-ii",
   title: "411 A Shadow Over Piety [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 529,
   ownLength: 5026,
   unitSlug: "words",

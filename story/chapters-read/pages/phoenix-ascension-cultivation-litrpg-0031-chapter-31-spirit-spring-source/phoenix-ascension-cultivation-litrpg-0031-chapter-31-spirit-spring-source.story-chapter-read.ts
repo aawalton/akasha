@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0031Chapter31SpiritSpringSource = 
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0031-chapter-31-spirit-spring-source",
   title: "Chapter 31: Spirit Spring Source",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 31,
   ownLength: 2565,
   unitSlug: "words",

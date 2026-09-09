@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0596386ContenderIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0596-386-contender-iii",
   title: "386 Contender [III]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 596,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0558440OverdueEndsBook7End = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0558-440-overdue-ends-book-7-end",
   title: "440 Overdue Ends [Book 7 END]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 558,
   ownLength: 7058,
   unitSlug: "words",

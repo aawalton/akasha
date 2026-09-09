@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0447278ICounterMetamorphosisBook6Be
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0447-278-i-counter-metamorphosis-book-6-beginning",
   title: "278 (I) Counter-Metamorphosis [Book 6 Beginning]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 447,
   ownLength: 0,
   unitSlug: "words",

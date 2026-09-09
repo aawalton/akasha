@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0533415Machinations = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0533-415-machinations",
   title: "415 Machinations",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 533,
   ownLength: 5299,
   unitSlug: "words",

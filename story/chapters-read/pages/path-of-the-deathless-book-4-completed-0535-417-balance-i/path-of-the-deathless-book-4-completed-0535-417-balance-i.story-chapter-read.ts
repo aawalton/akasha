@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0535417BalanceI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0535-417-balance-i",
   title: "417 Balance [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 535,
   ownLength: 7967,
   unitSlug: "words",

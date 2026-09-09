@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0549431SeedsOfEmpireI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0549-431-seeds-of-empire-i",
   title: "431 Seeds of Empire [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 549,
   ownLength: 4924,
   unitSlug: "words",

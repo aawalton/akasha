@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0020Chapter20YouHaveAbsorbedJadeSe
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0020-chapter-20-you-have-absorbed-jade-serpent-core",
   title: "Chapter 20: You have absorbed Jade Serpent Core",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 20,
   ownLength: 3403,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0540338IStolenFlesh = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0540-338-i-stolen-flesh",
   title: "338 (I) Stolen Flesh",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 540,
   ownLength: 0,
   unitSlug: "words",

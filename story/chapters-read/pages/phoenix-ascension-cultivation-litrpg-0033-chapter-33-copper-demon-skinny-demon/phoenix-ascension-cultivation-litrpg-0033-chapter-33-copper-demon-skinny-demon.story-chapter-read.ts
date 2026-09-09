@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0033Chapter33CopperDemonSkinnyDemo
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0033-chapter-33-copper-demon-skinny-demon",
   title: "Chapter 33: Copper Demon; Skinny Demon",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 33,
   ownLength: 2145,
   unitSlug: "words",

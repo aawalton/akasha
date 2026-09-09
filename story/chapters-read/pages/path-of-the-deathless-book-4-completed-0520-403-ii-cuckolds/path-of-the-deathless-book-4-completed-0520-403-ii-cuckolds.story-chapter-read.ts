@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0520403IiCuckolds = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0520-403-ii-cuckolds",
   title: "403 (II) Cuckolds",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 520,
   ownLength: 4187,
   unitSlug: "words",

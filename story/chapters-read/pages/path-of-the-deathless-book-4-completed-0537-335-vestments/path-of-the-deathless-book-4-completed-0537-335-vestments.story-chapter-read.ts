@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0537335Vestments = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0537-335-vestments",
   title: "335 Vestments",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 537,
   ownLength: 0,
   unitSlug: "words",

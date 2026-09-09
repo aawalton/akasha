@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0030Chapter30KoiFish = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0030-chapter-30-koi-fish",
   title: "Chapter 30: Koi Fish",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 30,
   ownLength: 3440,
   unitSlug: "words",

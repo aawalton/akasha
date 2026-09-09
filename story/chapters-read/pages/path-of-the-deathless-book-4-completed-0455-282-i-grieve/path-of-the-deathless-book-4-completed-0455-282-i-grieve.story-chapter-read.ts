@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0455282IGrieve = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0455-282-i-grieve",
   title: "282 (I) Grieve",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 455,
   ownLength: 0,
   unitSlug: "words",

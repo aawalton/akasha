@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0040Chapter40AMothersStrengthI = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0040-chapter-40-a-mothers-strength-i",
   title: "Chapter 40: A Mother's Strength I",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 40,
   ownLength: 2911,
   unitSlug: "words",

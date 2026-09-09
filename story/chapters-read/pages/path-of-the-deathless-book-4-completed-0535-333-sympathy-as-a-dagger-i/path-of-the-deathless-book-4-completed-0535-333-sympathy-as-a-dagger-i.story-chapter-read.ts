@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0535333SympathyAsADaggerI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0535-333-sympathy-as-a-dagger-i",
   title: "333 Sympathy as a Dagger [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 535,
   ownLength: 0,
   unitSlug: "words",

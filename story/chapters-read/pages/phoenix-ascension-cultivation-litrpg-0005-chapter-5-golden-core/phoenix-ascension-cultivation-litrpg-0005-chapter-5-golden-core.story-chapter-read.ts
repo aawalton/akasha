@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0005Chapter5GoldenCore = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0005-chapter-5-golden-core",
   title: "Chapter 5: Golden Core",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 5,
   ownLength: 2643,
   unitSlug: "words",

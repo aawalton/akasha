@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0511396FunTimesAtGatePiety = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0511-396-fun-times-at-gate-piety",
   title: "396 Fun Times at Gate Piety",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 511,
   ownLength: 6525,
   unitSlug: "words",

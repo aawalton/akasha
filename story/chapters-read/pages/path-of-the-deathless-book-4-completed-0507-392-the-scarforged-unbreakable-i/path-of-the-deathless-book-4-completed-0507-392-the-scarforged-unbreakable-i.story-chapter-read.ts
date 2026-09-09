@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0507392TheScarforgedUnbreakableI = 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0507-392-the-scarforged-unbreakable-i",
   title: "392 The Scarforged Unbreakable [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 507,
   ownLength: 6146,
   unitSlug: "words",

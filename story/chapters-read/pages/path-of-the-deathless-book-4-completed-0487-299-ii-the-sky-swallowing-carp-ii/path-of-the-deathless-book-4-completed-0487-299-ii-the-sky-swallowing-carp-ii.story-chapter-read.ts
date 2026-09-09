@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0487299IiTheSkySwallowingCarpIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0487-299-ii-the-sky-swallowing-carp-ii",
   title: "299 (II) The Sky-Swallowing Carp [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 487,
   ownLength: 0,
   unitSlug: "words",

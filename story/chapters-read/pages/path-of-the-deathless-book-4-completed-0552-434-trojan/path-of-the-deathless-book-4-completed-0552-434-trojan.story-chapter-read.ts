@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0552434Trojan = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0552-434-trojan",
   title: "434 Trojan",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 552,
   ownLength: 5182,
   unitSlug: "words",

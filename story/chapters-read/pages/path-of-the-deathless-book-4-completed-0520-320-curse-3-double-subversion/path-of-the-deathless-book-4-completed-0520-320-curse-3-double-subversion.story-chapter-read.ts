@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0520320Curse3DoubleSubversion = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0520-320-curse-3-double-subversion",
   title: "320 Curse 3: Double-Subversion",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 520,
   ownLength: 0,
   unitSlug: "words",

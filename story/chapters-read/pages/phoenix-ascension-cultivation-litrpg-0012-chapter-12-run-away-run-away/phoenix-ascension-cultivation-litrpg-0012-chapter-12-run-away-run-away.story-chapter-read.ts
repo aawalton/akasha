@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0012Chapter12RunAwayRunAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0012-chapter-12-run-away-run-away",
   title: "Chapter 12: Run away, run away!",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 12,
   ownLength: 2610,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const pathOfTheDeathlessBook4Completed0567449LooseEnds = {
   id: "01a07252-32ee-77e5-afa3-b56943c01d36",
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0567-449-loose-ends",
-  storySlug: "story-read/path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 567,
   publishedAt: "2026-09-03",
   unitSlug: "words",

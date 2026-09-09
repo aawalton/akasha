@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0466355CocoonIBook7Beginning3383871
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0466-355-cocoon-i-book-7-beginning-3383871",
   title: "355 Cocoon [I] [Book 7 Beginning]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 466,
   ownLength: 4900,
   unitSlug: "words",

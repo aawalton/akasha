@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0546428DivineReciprocity = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0546-428-divine-reciprocity",
   title: "428 Divine Reciprocity",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 546,
   ownLength: 4845,
   unitSlug: "words",

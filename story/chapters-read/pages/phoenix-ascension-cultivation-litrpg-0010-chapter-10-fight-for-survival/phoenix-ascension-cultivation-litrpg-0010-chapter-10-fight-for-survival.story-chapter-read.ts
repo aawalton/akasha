@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0010Chapter10FightForSurvival = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0010-chapter-10-fight-for-survival",
   title: "Chapter 10: Fight for Survival",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 10,
   ownLength: 3520,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0527409TheOneWhoDecidesIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0527-409-the-one-who-decides-ii",
   title: "409 The One Who Decides [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 527,
   ownLength: 5204,
   unitSlug: "words",

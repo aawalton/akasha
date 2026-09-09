@@ -4,7 +4,7 @@ export const pathOfTheDeathlessBook4Completed0468452GreatPowerPolitics = {
   id: "01a07d0c-912c-7544-916b-4702ffae54af",
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0468-452-great-power-politics",
-  storySlug: "story-read/path-of-the-deathless-book-4-completed",
+  story: "story-read/path-of-the-deathless-book-4-completed",
   position: 468,
   publishedAt: "2026-09-07",
   unitSlug: "words",

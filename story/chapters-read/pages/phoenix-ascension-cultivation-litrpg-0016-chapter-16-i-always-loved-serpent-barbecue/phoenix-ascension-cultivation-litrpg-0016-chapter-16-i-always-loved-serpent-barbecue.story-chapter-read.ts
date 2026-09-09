@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0016Chapter16IAlwaysLovedSerpentBa
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0016-chapter-16-i-always-loved-serpent-barbecue",
   title: "Chapter 16: I always loved serpent barbecue",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 16,
   ownLength: 2249,
   unitSlug: "words",

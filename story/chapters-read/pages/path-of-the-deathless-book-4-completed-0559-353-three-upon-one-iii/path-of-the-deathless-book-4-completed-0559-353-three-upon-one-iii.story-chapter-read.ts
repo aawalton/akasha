@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0559353ThreeUponOneIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0559-353-three-upon-one-iii",
   title: "353 Three Upon One [III]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 559,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0014Chapter14MansGreed = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0014-chapter-14-mans-greed",
   title: "Chapter 14: Man's Greed",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 14,
   ownLength: 2097,
   unitSlug: "words",

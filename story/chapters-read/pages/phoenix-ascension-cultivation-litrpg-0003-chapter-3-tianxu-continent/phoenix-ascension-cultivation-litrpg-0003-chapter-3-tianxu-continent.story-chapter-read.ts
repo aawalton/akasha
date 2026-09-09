@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0003Chapter3TianxuContinent = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0003-chapter-3-tianxu-continent",
   title: "Chapter 3: Tianxu Continent",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 3,
   ownLength: 3015,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0515400Core = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0515-400-core",
   title: "400 Core",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 515,
   ownLength: 5185,
   unitSlug: "words",

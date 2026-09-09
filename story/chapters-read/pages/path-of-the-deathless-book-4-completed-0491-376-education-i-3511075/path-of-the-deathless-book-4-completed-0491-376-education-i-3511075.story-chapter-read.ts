@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0491376EducationI3511075 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0491-376-education-i-3511075",
   title: "376 Education [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 491,
   ownLength: 5548,
   unitSlug: "words",

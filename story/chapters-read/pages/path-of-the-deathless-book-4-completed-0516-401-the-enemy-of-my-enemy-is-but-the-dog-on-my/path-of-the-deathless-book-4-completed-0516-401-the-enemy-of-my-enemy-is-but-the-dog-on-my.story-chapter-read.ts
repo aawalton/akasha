@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0516401TheEnemyOfMyEnemyIsButTheDog
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0516-401-the-enemy-of-my-enemy-is-but-the-dog-on-my",
   title: "401 “The Enemy of My Enemy is but the Dog on My Leash” [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 516,
   ownLength: 5237,
   unitSlug: "words",

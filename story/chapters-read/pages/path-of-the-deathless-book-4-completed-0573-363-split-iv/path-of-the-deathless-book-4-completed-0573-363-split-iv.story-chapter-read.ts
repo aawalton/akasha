@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0573363SplitIv = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0573-363-split-iv",
   title: "363 Split [IV]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 573,
   ownLength: 0,
   unitSlug: "words",

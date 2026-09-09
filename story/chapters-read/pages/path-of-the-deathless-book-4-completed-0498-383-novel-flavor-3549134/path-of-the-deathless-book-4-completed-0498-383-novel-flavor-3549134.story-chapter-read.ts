@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0498383NovelFlavor3549134 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0498-383-novel-flavor-3549134",
   title: "383 Novel Flavor",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 498,
   ownLength: 4920,
   unitSlug: "words",

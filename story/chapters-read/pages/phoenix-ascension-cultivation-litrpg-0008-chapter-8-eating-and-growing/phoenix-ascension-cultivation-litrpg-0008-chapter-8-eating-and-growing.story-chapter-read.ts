@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0008Chapter8EatingAndGrowing = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0008-chapter-8-eating-and-growing",
   title: "Chapter 8: Eating and Growing",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 8,
   ownLength: 1720,
   unitSlug: "words",

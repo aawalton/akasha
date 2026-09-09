@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0457347BrokenThingsI3338188 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0457-347-broken-things-i-3338188",
   title: "347 Broken Things [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 457,
   ownLength: 5935,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0029Chapter29TinyBloodLord = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0029-chapter-29-tiny-blood-lord",
   title: "Chapter 29: Tiny Blood Lord",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 29,
   ownLength: 2137,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0542424KingdomOfTheAllSeeingIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0542-424-kingdom-of-the-all-seeing-ii",
   title: "424 Kingdom of the All-Seeing [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 542,
   ownLength: 5372,
   unitSlug: "words",

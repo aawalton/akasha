@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0542339Backstage = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0542-339-backstage",
   title: "339 Backstage",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 542,
   ownLength: 0,
   unitSlug: "words",

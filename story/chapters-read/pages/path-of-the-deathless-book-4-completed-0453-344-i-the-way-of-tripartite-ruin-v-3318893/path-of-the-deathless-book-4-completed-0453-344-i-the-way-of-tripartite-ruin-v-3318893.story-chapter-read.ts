@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0453344ITheWayOfTripartiteRuinV3318
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0453-344-i-the-way-of-tripartite-ruin-v-3318893",
   title: "344 (I) The Way of Tripartite Ruin [V]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 453,
   ownLength: 3184,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0474359IiTruthIsAWeaponIi3424256 = 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0474-359-ii-truth-is-a-weapon-ii-3424256",
   title: "359 (II) Truth is a Weapon [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 474,
   ownLength: 2170,
   unitSlug: "words",

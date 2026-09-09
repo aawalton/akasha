@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0537419HoundhuntI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0537-419-houndhunt-i",
   title: "419 Houndhunt [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 537,
   ownLength: 6668,
   unitSlug: "words",

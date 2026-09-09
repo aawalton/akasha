@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0525407TheStormThatDreamedIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0525-407-the-storm-that-dreamed-ii",
   title: "407 The Storm that Dreamed [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 525,
   ownLength: 4959,
   unitSlug: "words",

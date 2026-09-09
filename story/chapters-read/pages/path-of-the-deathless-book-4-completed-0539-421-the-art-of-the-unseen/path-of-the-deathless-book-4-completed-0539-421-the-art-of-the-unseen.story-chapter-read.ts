@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0539421TheArtOfTheUnseen = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0539-421-the-art-of-the-unseen",
   title: "421 The Art of the Unseen",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 539,
   ownLength: 5495,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0565447TheDevilsWeGetToKnow = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0565-447-the-devils-we-get-to-know",
   title: "447 The Devils We Get To Know",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 565,
   ownLength: 6407,
   unitSlug: "words",

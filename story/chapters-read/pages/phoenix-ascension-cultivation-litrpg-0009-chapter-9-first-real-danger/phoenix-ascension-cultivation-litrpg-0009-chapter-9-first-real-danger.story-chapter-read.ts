@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0009Chapter9FirstRealDanger = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0009-chapter-9-first-real-danger",
   title: "Chapter 9: First Real Danger",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 9,
   ownLength: 2671,
   unitSlug: "words",

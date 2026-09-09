@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0027Chapter27RewardsAndSurprises =
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0027-chapter-27-rewards-and-surprises",
   title: "Chapter 27: Rewards and Surprises",
-  storySlug: "phoenix-ascension-cultivation-litrpg",
+  story: "phoenix-ascension-cultivation-litrpg",
   position: 27,
   ownLength: 2667,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0548430Immigration = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0548-430-immigration",
   title: "430 Immigration",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 548,
   ownLength: 5791,
   unitSlug: "words",
