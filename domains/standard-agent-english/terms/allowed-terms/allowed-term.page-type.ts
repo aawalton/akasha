@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Term } from "../term.page-type.ts"
-
-export type AllowedTerm = Term
 
 export const allowedTerm = {
   id: "01a081ea-6fce-7964-b581-84f1a80077c6",
@@ -11,4 +8,5 @@ export const allowedTerm = {
   definition: "one term akasha writes",
   pluralSlug: "allowed-terms",
   extends: ["page-type/term"],
+  types: "ts",
 } as const satisfies PageType
