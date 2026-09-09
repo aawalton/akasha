@@ -57,6 +57,8 @@ const PARTS = "parts"
 
 const PART_SLUGS = "partSlugs"
 
+const PART_OF_COLLECTIONS = "partOfCollections"
+
 const PART_OF_COLLECTION_SLUGS = "partOfCollectionSlugs"
 
 const ROOT = ""
@@ -350,7 +352,7 @@ export function partOfOver(index: Answering): (page: Held) => readonly string[] 
     if (page.slug === null || page.pageTypeSlug === null) return []
     const value = index.pageAt(page.pageTypeSlug, page.slug)
     if (value === null) return []
-    return textsAt(value, PART_OF_COLLECTION_SLUGS) ?? []
+    return textsAt(value, PART_OF_COLLECTIONS) ?? textsAt(value, PART_OF_COLLECTION_SLUGS) ?? []
   }
 }
 
