@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/web-security-headers",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./security-headers": "./security-headers/security-headers.module.code.ts"
-  }
-}

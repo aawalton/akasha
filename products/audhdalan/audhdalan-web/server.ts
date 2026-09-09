@@ -1,9 +1,9 @@
 import { join } from "node:path"
+import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
 import {
   type AppCspConfig,
   buildSecurityHeaders,
-} from "@akasha/web-security-headers/security-headers"
-import { htmlCacheControl, serveClientStatic } from "@akasha/web-static-assets/serve-static"
+} from "akasha/alan/harness/web-security-headers/security-headers/security-headers.module.code.ts"
 import { randomId } from "akasha/id-minting/random-id/random-id.module.code.ts"
 import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"

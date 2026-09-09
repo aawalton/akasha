@@ -36,7 +36,7 @@ export const alanHarness = {
     "workspace-package/day",
     "workspace-package/geo-io",
     "workspace-package/web-static-assets",
-    "workspace-package/web-security-headers",
+    "domain/web-security-headers",
     "workspace-package/web-page-answers",
     "workspace-package/workspace-paths",
     "domain/web-build-version",

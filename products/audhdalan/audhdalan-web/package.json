@@ -25,7 +25,6 @@
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
-    "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",
