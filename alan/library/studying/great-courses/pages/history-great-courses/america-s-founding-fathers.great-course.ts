@@ -7,7 +7,7 @@ export const americaSFoundingFathers = {
   title: "America's Founding Fathers",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1079.4,
   ownProgress: 1079.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

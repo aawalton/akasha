@@ -7,7 +7,7 @@ export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
   title: "Books That Matter: The History of the Decline and Fall of the Roman Empire",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
   partOfCollections: [

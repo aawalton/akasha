@@ -6,7 +6,7 @@ export const howTheGreatMigrationChangedAmerica = {
   slug: "how-the-great-migration-changed-america",
   title: "How the Great Migration Changed America",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 344.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

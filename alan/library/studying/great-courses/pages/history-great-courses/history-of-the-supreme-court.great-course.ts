@@ -7,7 +7,7 @@ export const historyOfTheSupremeCourt = {
   title: "History of the Supreme Court",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1089,
   ownProgress: 1089,
   partOfCollections: [

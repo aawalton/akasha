@@ -6,7 +6,7 @@ export const greatAmericanShortStoriesAGuideForWritersAndReaders = {
   slug: "great-american-short-stories-a-guide-for-writers-and-readers",
   title: "Great American Short Stories: A Guide for Writers and Readers",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

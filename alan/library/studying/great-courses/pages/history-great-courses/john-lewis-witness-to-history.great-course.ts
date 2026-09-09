@@ -7,7 +7,7 @@ export const johnLewisWitnessToHistory = {
   title: "John Lewis: Witness to History",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const greatMindsOfTheEasternIntellectualTradition = {
   slug: "great-minds-of-the-eastern-intellectual-tradition",
   title: "Great Minds of the Eastern Intellectual Tradition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1120.8,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const thinkingAboutReligionAndViolence = {
   slug: "thinking-about-religion-and-violence",
   title: "Thinking about Religion and Violence",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: [

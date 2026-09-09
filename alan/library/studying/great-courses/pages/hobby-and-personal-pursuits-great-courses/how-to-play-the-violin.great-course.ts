@@ -6,7 +6,7 @@ export const howToPlayTheViolin = {
   slug: "how-to-play-the-violin",
   title: "How to Play the Violin",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 337.8,
   ownProgress: 0,
   partOfCollections: [

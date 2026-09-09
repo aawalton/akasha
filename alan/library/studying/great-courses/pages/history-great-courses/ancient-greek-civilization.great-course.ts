@@ -7,7 +7,7 @@ export const ancientGreekCivilization = {
   title: "Ancient Greek Civilization",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723,
   ownProgress: 723,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const theSkepticSGuideToAmericanHistory = {
   slug: "the-skeptic-s-guide-to-american-history",
   title: "The Skeptic's Guide to American History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

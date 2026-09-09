@@ -6,7 +6,7 @@ export const worldWarIiThePacificTheater = {
   slug: "world-war-ii-the-pacific-theater",
   title: "World War II: The Pacific Theater",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

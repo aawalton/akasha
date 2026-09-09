@@ -6,7 +6,7 @@ export const biologyTheScienceOfLife = {
   slug: "biology-the-science-of-life",
   title: "Biology: The Science of Life",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 2181,
   ownProgress: 242.333333,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const theGreatToursEnglandScotlandAndWales = {
   title: "The Great Tours: England, Scotland, and Wales",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1076.4,
   ownProgress: 1076.4,
   partOfCollections: [

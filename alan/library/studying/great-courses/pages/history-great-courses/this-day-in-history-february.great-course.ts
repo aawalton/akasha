@@ -7,7 +7,7 @@ export const thisDayInHistoryFebruary = {
   title: "This Day in History: February",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 84,
   ownProgress: 84,
   partOfCollections: ["all-great-courses", "history-great-courses"],

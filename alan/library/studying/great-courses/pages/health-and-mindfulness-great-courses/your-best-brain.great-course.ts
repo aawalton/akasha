@@ -6,7 +6,7 @@ export const yourBestBrain = {
   slug: "your-best-brain",
   title: "Your Best Brain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 770.4,
   ownProgress: 0,
   partOfCollections: [

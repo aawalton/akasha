@@ -7,7 +7,7 @@ export const aHistorianGoesToTheMoviesGladiatorFactVsFiction = {
   title: "A Historian Goes to the Movies: Gladiator Fact vs. Fiction",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 42.6,
   ownProgress: 42.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

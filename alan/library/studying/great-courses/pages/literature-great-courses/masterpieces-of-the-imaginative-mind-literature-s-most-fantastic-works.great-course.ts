@@ -6,7 +6,7 @@ export const masterpiecesOfTheImaginativeMindLiteratureSMostFantasticWorks = {
   slug: "masterpieces-of-the-imaginative-mind-literature-s-most-fantastic-works",
   title: "Masterpieces of the Imaginative Mind: Literature's Most Fantastic Works",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

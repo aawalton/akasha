@@ -7,7 +7,7 @@ export const patternmakingBasicsTheBodiceSloper = {
   title: "Patternmaking Basics: The Bodice Sloper",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 306,
   ownProgress: 306,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

@@ -6,7 +6,7 @@ export const experiencingHubbleExploringTheMilkyWay = {
   slug: "experiencing-hubble-exploring-the-milky-way",
   title: "Experiencing Hubble: Exploring the Milky Way",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 355.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

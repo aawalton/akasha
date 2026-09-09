@@ -6,7 +6,7 @@ export const theLearningBrain = {
   slug: "the-learning-brain",
   title: "The Learning Brain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 752.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

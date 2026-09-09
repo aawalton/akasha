@@ -6,7 +6,7 @@ export const womenJournalistsOf911TheirStories = {
   slug: "women-journalists-of-9-11-their-stories",
   title: "Women Journalists of 9/11: Their Stories",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 325.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

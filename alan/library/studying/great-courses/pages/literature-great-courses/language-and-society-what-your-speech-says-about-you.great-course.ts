@@ -7,7 +7,7 @@ export const languageAndSocietyWhatYourSpeechSaysAboutYou = {
   title: "Language and Society: What Your Speech Says About You",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 715.2,
   ownProgress: 715.2,
   partOfCollections: [

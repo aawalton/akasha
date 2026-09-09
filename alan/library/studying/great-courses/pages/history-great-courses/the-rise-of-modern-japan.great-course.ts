@@ -7,7 +7,7 @@ export const theRiseOfModernJapan = {
   title: "The Rise of Modern Japan",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 353.4,
   ownProgress: 353.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

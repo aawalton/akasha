@@ -7,7 +7,7 @@ export const einsteinSRelativityAndTheQuantumRevolutionModernPhysicsForNo = {
   title:
     "Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists, 2nd Edition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 732,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

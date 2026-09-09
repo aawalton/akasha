@@ -7,7 +7,7 @@ export const pilotLectureGreatCastlesOfEuropeCaernarfonCastle = {
   title: "Pilot Lecture: Great Castles of Europe—Caernarfon Castle",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: [

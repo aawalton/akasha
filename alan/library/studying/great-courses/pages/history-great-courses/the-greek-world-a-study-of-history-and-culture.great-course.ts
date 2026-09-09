@@ -7,7 +7,7 @@ export const theGreekWorldAStudyOfHistoryAndCulture = {
   title: "The Greek World: A Study of History and Culture",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 770.4,
   ownProgress: 770.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

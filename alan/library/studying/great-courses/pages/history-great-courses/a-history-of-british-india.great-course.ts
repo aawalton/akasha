@@ -7,7 +7,7 @@ export const aHistoryOfBritishIndia = {
   title: "A History of British India",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 737.4,
   ownProgress: 737.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

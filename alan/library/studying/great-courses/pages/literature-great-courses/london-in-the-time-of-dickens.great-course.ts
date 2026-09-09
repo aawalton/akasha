@@ -6,7 +6,7 @@ export const londonInTheTimeOfDickens = {
   slug: "london-in-the-time-of-dickens",
   title: "London in the Time of Dickens",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

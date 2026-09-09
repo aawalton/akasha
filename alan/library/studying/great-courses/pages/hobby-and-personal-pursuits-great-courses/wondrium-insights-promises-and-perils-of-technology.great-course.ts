@@ -6,7 +6,7 @@ export const wondriumInsightsPromisesAndPerilsOfTechnology = {
   slug: "wondrium-insights-promises-and-perils-of-technology",
   title: "Wondrium Insights: Promises and Perils of Technology",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 196.2,
   ownProgress: 0,
   partOfCollections: [

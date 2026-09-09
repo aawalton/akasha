@@ -7,7 +7,7 @@ export const englandThe1960sAndTheTriumphOfTheBeatles = {
   title: "England, the 1960s, and the Triumph of the Beatles",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 310.2,
   ownProgress: 310.2,
   partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],

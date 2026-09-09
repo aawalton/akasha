@@ -7,7 +7,7 @@ export const historyOfAncientEgypt = {
   title: "History of Ancient Egypt",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1450.8,
   ownProgress: 1450.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

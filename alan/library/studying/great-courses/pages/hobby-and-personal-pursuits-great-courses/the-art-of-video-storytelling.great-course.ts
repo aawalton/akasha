@@ -7,7 +7,7 @@ export const theArtOfVideoStorytelling = {
   title: "The Art of Video Storytelling",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 304.2,
   ownProgress: 304.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

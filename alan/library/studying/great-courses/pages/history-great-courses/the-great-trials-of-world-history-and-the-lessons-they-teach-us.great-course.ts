@@ -6,7 +6,7 @@ export const theGreatTrialsOfWorldHistoryAndTheLessonsTheyTeachUs = {
   slug: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
   title: "The Great Trials of World History and the Lessons They Teach Us",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 748.8,
   ownProgress: 0,
   partOfCollections: [

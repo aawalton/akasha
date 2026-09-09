@@ -6,7 +6,7 @@ export const theGreatIdeasOfPhilosophy2ndEdition = {
   slug: "the-great-ideas-of-philosophy-2nd-edition",
   title: "The Great Ideas of Philosophy, 2nd Edition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1813.8,
   ownProgress: 0,
   partOfCollections: [

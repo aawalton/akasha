@@ -6,7 +6,7 @@ export const wondriumInsightsAchieveYourPotential = {
   slug: "wondrium-insights-achieve-your-potential",
   title: "Wondrium Insights: Achieve Your Potential",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 199.8,
   ownProgress: 0,
   partOfCollections: [

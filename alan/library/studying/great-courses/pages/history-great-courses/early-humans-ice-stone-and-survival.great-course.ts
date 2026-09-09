@@ -6,7 +6,7 @@ export const earlyHumansIceStoneAndSurvival = {
   slug: "early-humans-ice-stone-and-survival",
   title: "Early Humans: Ice, Stone, and Survival",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 471,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

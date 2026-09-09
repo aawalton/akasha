@@ -6,7 +6,7 @@ export const scientificSecretsForRaisingKidsWhoThrive = {
   slug: "scientific-secrets-for-raising-kids-who-thrive",
   title: "Scientific Secrets for Raising Kids Who Thrive",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 769.2,
   ownProgress: 0,
   partOfCollections: [

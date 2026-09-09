@@ -7,7 +7,7 @@ export const gnosticismFromNagHammadiToTheGospelOfJudas = {
   title: "Gnosticism: From Nag Hammadi to the Gospel of Judas",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 778.2,
   ownProgress: 778.2,
   partOfCollections: [

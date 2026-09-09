@@ -7,7 +7,7 @@ export const livingHistoryExperiencingGreatEventsOfTheAncientAndMedievalW = {
   title: "Living History: Experiencing Great Events of the Ancient and Medieval Worlds",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 761.4,
   ownProgress: 761.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

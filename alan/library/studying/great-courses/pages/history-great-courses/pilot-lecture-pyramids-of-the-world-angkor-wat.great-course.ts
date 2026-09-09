@@ -7,7 +7,7 @@ export const pilotLecturePyramidsOfTheWorldAngkorWat = {
   title: "Pilot Lecture: Pyramids of the World—Angkor Wat",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

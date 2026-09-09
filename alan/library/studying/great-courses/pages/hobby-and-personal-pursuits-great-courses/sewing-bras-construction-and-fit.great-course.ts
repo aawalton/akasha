@@ -7,7 +7,7 @@ export const sewingBrasConstructionAndFit = {
   title: "Sewing Bras: Construction & Fit",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 223.2,
   ownProgress: 223.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

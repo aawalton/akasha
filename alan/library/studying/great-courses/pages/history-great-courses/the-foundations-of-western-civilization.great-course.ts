@@ -6,7 +6,7 @@ export const theFoundationsOfWesternCivilization = {
   slug: "the-foundations-of-western-civilization",
   title: "The Foundations of Western Civilization",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1478.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

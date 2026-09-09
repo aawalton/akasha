@@ -6,7 +6,7 @@ export const imaginingTomorrowSEntertainment = {
   slug: "imagining-tomorrow-s-entertainment",
   title: "Imagining Tomorrow’s Entertainment",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 249,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

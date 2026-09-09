@@ -6,7 +6,7 @@ export const whenEverythingFailsSurvivingAnyDisaster = {
   slug: "when-everything-fails-surviving-any-disaster",
   title: "When Everything Fails: Surviving Any Disaster",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 446.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

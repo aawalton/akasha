@@ -6,7 +6,7 @@ export const conquestOfTheAmericas = {
   slug: "conquest-of-the-americas",
   title: "Conquest of the Americas",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -7,7 +7,7 @@ export const quiltingBigProjectsOnASmallMachine = {
   title: "Quilting Big Projects on a Small Machine",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 262.2,
   ownProgress: 262.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

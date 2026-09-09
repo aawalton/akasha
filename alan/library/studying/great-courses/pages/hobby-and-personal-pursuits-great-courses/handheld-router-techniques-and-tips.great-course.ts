@@ -7,7 +7,7 @@ export const handheldRouterTechniquesAndTips = {
   title: "Handheld Router Techniques and Tips",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 205.2,
   ownProgress: 205.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

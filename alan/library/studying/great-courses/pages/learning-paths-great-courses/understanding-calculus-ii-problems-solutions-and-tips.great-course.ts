@@ -6,7 +6,7 @@ export const understandingCalculusIiProblemsSolutionsAndTips = {
   slug: "understanding-calculus-ii-problems-solutions-and-tips",
   title: "Understanding Calculus II: Problems, Solutions, and Tips",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1118.4,
   ownProgress: 0,
   partOfCollections: [

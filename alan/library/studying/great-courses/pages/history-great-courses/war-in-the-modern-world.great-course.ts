@@ -7,7 +7,7 @@ export const warInTheModernWorld = {
   title: "War in the Modern World",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 680.4,
   ownProgress: 680.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -7,7 +7,7 @@ export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   title: "Pilot Lecture: Ender’s Game: Politics and War in Science Fiction",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const visualLiteracySkillsHowToSee = {
   slug: "visual-literacy-skills-how-to-see",
   title: "Visual Literacy Skills: How to See",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 589.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

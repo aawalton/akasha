@@ -6,7 +6,7 @@ export const confuciusBuddhaJesusAndMuhammad = {
   slug: "confucius-buddha-jesus-and-muhammad",
   title: "Confucius, Buddha, Jesus, and Muhammad",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1140.6,
   ownProgress: 0,
   partOfCollections: [

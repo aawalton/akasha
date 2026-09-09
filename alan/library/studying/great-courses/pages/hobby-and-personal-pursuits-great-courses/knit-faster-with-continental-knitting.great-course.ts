@@ -7,7 +7,7 @@ export const knitFasterWithContinentalKnitting = {
   title: "Knit Faster with Continental Knitting",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 149.4,
   ownProgress: 149.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

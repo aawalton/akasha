@@ -6,7 +6,7 @@ export const theEvidenceForModernPhysicsHowWeKnowWhatWeKnow = {
   slug: "the-evidence-for-modern-physics-how-we-know-what-we-know",
   title: "The Evidence for Modern Physics: How We Know What We Know",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 712.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

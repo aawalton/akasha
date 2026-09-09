@@ -6,7 +6,7 @@ export const overcomeYourOverthinking = {
   slug: "overcome-your-overthinking",
   title: "Overcome Your Overthinking",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 361.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

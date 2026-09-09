@@ -6,7 +6,7 @@ export const forensicHistoryCrimesFraudsAndScandals = {
   slug: "forensic-history-crimes-frauds-and-scandals",
   title: "Forensic History: Crimes, Frauds, and Scandals",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 735.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const howJesusBecameGod = {
   title: "How Jesus Became God",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.8,
   ownProgress: 751.8,
   partOfCollections: [

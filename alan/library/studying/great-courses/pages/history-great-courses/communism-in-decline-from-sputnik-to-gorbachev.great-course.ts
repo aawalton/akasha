@@ -6,7 +6,7 @@ export const communismInDeclineFromSputnikToGorbachev = {
   slug: "communism-in-decline-from-sputnik-to-gorbachev",
   title: "Communism in Decline: From Sputnik to Gorbachev",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 402,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

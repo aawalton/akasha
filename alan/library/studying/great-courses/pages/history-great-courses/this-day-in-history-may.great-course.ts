@@ -7,7 +7,7 @@ export const thisDayInHistoryMay = {
   title: "This Day in History: May",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 81,
   ownProgress: 81,
   partOfCollections: ["all-great-courses", "history-great-courses"],

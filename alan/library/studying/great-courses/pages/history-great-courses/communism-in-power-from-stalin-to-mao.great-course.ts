@@ -6,7 +6,7 @@ export const communismInPowerFromStalinToMao = {
   slug: "communism-in-power-from-stalin-to-mao",
   title: "Communism in Power: From Stalin to Mao",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 354,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const whatScienceKnowsAboutCancer = {
   slug: "what-science-knows-about-cancer",
   title: "What Science Knows about Cancer",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 750,
   ownProgress: 0,
   partOfCollections: [

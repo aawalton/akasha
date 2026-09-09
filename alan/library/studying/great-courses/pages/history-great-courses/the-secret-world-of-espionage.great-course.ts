@@ -6,7 +6,7 @@ export const theSecretWorldOfEspionage = {
   slug: "the-secret-world-of-espionage",
   title: "The Secret World of Espionage",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 269.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

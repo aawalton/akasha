@@ -6,7 +6,7 @@ export const buildingLoveThatLasts = {
   slug: "building-love-that-lasts",
   title: "Building Love That Lasts",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 352.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

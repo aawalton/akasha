@@ -6,7 +6,7 @@ export const howToBecomeASuperstarStudent = {
   slug: "how-to-become-a-superstar-student",
   title: "How to Become a SuperStar Student",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 586.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theBanjoMusicHistoryAndHeritage = {
   slug: "the-banjo-music-history-and-heritage",
   title: "The Banjo: Music, History, and Heritage",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 235.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],

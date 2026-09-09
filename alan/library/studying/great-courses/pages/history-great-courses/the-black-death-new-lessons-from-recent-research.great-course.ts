@@ -7,7 +7,7 @@ export const theBlackDeathNewLessonsFromRecentResearch = {
   title: "The Black Death: New Lessons from Recent Research",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 165.6,
   ownProgress: 165.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

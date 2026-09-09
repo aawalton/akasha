@@ -7,7 +7,7 @@ export const greatAncientCivilizationsOfAsiaMinor = {
   title: "Great Ancient Civilizations of Asia Minor",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 720,
   ownProgress: 720,
   partOfCollections: ["all-great-courses", "history-great-courses"],

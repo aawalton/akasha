@@ -6,7 +6,7 @@ export const classicalArchaeologyOfAncientGreeceAndRome = {
   slug: "classical-archaeology-of-ancient-greece-and-rome",
   title: "Classical Archaeology of Ancient Greece and Rome",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

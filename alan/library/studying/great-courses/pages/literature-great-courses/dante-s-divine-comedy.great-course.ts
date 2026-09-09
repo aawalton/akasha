@@ -6,7 +6,7 @@ export const danteSDivineComedy = {
   slug: "dante-s-divine-comedy",
   title: "Dante's Divine Comedy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

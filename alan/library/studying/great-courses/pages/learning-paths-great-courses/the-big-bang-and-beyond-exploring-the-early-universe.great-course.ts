@@ -6,7 +6,7 @@ export const theBigBangAndBeyondExploringTheEarlyUniverse = {
   slug: "the-big-bang-and-beyond-exploring-the-early-universe",
   title: "The Big Bang and Beyond: Exploring the Early Universe",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

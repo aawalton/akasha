@@ -6,7 +6,7 @@ export const theIrishIdentityIndependenceHistoryAndLiterature = {
   slug: "the-irish-identity-independence-history-and-literature",
   title: "The Irish Identity: Independence, History, and Literature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1124.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],

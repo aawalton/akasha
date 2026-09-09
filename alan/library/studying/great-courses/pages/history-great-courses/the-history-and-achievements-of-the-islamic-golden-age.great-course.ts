@@ -6,7 +6,7 @@ export const theHistoryAndAchievementsOfTheIslamicGoldenAge = {
   slug: "the-history-and-achievements-of-the-islamic-golden-age",
   title: "The History and Achievements of the Islamic Golden Age",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 732,
   ownProgress: 0,
   partOfCollections: [

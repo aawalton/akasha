@@ -6,7 +6,7 @@ export const understandingAndOvercomingFear = {
   slug: "understanding-and-overcoming-fear",
   title: "Understanding and Overcoming Fear",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 696,
   ownProgress: 0,
   partOfCollections: [

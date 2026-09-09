@@ -7,7 +7,7 @@ export const handEmbroidery = {
   title: "Hand Embroidery",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 199.2,
   ownProgress: 199.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

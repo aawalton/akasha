@@ -7,7 +7,7 @@ export const beginnerSergingMachineBasicsAndTechniques = {
   title: "Beginner Serging: Machine Basics and Techniques",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 259.2,
   ownProgress: 259.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

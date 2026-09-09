@@ -6,7 +6,7 @@ export const understandingGeneticsDnaGenesAndTheirRealWorldApplications = {
   slug: "understanding-genetics-dna-genes-and-their-real-world-applications",
   title: "Understanding Genetics: DNA, Genes, and Their Real-World Applications",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729,
   ownProgress: 0,
   partOfCollections: [

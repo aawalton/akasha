@@ -6,7 +6,7 @@ export const theUSAndTheMiddleEast1914To911 = {
   slug: "the-u-s-and-the-middle-east-1914-to-9-11",
   title: "The U.S. and the Middle East: 1914 to 9/11",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

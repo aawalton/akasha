@@ -7,7 +7,7 @@ export const pompeiiDailyLifeInAnAncientRomanCity = {
   title: "Pompeii: Daily Life in an Ancient Roman City",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 705.6,
   ownProgress: 705.6,
   partOfCollections: [

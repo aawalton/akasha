@@ -7,7 +7,7 @@ export const algebraIi = {
   title: "Algebra II",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1120.8,
   ownProgress: 1120.8,
   partOfCollections: [

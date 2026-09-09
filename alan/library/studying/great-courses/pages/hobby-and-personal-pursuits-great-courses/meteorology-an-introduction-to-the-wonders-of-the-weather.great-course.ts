@@ -6,7 +6,7 @@ export const meteorologyAnIntroductionToTheWondersOfTheWeather = {
   slug: "meteorology-an-introduction-to-the-wonders-of-the-weather",
   title: "Meteorology: An Introduction to the Wonders of the Weather",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: [

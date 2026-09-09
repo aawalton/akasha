@@ -7,7 +7,7 @@ export const blackCapitalAfricanAmericansInWashingtonDC = {
   title: "Black Capital: African Americans in Washington, D.C.",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 54,
   ownProgress: 54,
   partOfCollections: ["all-great-courses", "history-great-courses"],

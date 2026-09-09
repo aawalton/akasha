@@ -6,7 +6,7 @@ export const whyYouAreWhoYouAreInvestigationsIntoHumanPersonality = {
   slug: "why-you-are-who-you-are-investigations-into-human-personality",
   title: "Why You Are Who You Are: Investigations into Human Personality",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777.6,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   title: "Game of the Century: How Baseball's All-Star Game Began",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12.6,
   ownProgress: 12.6,
   partOfCollections: [

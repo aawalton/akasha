@@ -7,7 +7,7 @@ export const goingToTheDevilTheImpeachmentOf1868 = {
   title: "Going to the Devil: The Impeachment of 1868",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 60,
   ownProgress: 60,
   partOfCollections: ["all-great-courses", "history-great-courses"],

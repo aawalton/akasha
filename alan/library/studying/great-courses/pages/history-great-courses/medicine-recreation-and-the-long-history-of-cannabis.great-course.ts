@@ -6,7 +6,7 @@ export const medicineRecreationAndTheLongHistoryOfCannabis = {
   slug: "medicine-recreation-and-the-long-history-of-cannabis",
   title: "Medicine, Recreation, and the Long History of Cannabis",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

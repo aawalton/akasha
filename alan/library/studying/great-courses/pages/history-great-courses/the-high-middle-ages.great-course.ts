@@ -6,7 +6,7 @@ export const theHighMiddleAges = {
   slug: "the-high-middle-ages",
   title: "The High Middle Ages",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 743.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

@@ -6,7 +6,7 @@ export const howWinstonChurchillChangedTheWorld = {
   slug: "how-winston-churchill-changed-the-world",
   title: "How Winston Churchill Changed the World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 706.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

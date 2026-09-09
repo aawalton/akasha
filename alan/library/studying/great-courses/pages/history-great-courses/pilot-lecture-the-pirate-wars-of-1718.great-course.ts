@@ -7,7 +7,7 @@ export const pilotLectureThePirateWarsOf1718 = {
   title: "Pilot Lecture: The Pirate Wars of 1718",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 33.6,
   ownProgress: 33.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

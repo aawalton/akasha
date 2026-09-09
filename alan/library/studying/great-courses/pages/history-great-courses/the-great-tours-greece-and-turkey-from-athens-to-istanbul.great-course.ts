@@ -7,7 +7,7 @@ export const theGreatToursGreeceAndTurkeyFromAthensToIstanbul = {
   title: "The Great Tours: Greece and Turkey, from Athens to Istanbul",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 749.4,
   ownProgress: 749.4,
   partOfCollections: [

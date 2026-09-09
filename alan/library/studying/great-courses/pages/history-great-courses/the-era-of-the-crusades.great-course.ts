@@ -6,7 +6,7 @@ export const theEraOfTheCrusades = {
   slug: "the-era-of-the-crusades",
   title: "The Era of the Crusades",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

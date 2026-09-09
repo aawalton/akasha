@@ -6,7 +6,7 @@ export const theMongolEmpire = {
   slug: "the-mongol-empire",
   title: "The Mongol Empire",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

@@ -6,7 +6,7 @@ export const theModernPoliticalTraditionHobbesToHabermas = {
   slug: "the-modern-political-tradition-hobbes-to-habermas",
   title: "The Modern Political Tradition: Hobbes to Habermas",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1123.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const trueCrimeDecodingTheEvidence = {
   slug: "true-crime-decoding-the-evidence",
   title: "True Crime: Decoding the Evidence",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 206.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

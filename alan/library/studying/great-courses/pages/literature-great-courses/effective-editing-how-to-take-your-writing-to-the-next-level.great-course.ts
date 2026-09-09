@@ -6,7 +6,7 @@ export const effectiveEditingHowToTakeYourWritingToTheNextLevel = {
   slug: "effective-editing-how-to-take-your-writing-to-the-next-level",
   title: "Effective Editing: How to Take Your Writing to the Next Level",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 318.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

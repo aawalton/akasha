@@ -7,7 +7,7 @@ export const professionalYarnDyeingAtHome = {
   title: "Professional Yarn Dyeing at Home",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 105.6,
   ownProgress: 105.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

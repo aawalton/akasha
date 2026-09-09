@@ -7,7 +7,7 @@ export const theGreatToursAGuidedTourOfAncientEgypt = {
   title: "The Great Tours: A Guided Tour of Ancient Egypt",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 695.4,
   ownProgress: 695.4,
   partOfCollections: [

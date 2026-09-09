@@ -7,7 +7,7 @@ export const theDecisiveBattlesOfWorldHistory = {
   title: "The Decisive Battles of World History",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1113.6,
   ownProgress: 1113.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

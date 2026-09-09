@@ -7,7 +7,7 @@ export const howToGrowAnythingContainerGardeningTipsAndTechniques = {
   title: "How to Grow Anything: Container Gardening Tips & Techniques",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 185.4,
   ownProgress: 185.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

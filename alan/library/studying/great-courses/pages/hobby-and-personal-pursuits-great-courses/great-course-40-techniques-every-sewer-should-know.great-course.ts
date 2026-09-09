@@ -7,7 +7,7 @@ export const greatCourse40TechniquesEverySewerShouldKnow = {
   title: "40 Techniques Every Sewer Should Know",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 256.2,
   ownProgress: 256.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

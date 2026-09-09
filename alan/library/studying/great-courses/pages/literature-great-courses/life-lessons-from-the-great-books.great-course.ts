@@ -6,7 +6,7 @@ export const lifeLessonsFromTheGreatBooks = {
   slug: "life-lessons-from-the-great-books",
   title: "Life Lessons from the Great Books",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1091.4,
   ownProgress: 272.85,
   partOfCollections: [

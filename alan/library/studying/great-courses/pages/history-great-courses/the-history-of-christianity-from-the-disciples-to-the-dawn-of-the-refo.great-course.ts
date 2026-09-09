@@ -6,7 +6,7 @@ export const theHistoryOfChristianityFromTheDisciplesToTheDawnOfTheRefo = {
   slug: "the-history-of-christianity-from-the-disciples-to-the-dawn-of-the-refo",
   title: "The History of Christianity: From the Disciples to the Dawn of the Reformation",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1071,
   ownProgress: 0,
   partOfCollections: [

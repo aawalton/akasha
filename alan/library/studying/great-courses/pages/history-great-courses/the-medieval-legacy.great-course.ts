@@ -7,7 +7,7 @@ export const theMedievalLegacy = {
   title: "The Medieval Legacy",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1099.2,
   ownProgress: 1099.2,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

@@ -7,7 +7,7 @@ export const africanAmericanHistoryFromEmancipationThroughJimCrow = {
   title: "African American History: From Emancipation through Jim Crow",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 418.8,
   ownProgress: 418.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

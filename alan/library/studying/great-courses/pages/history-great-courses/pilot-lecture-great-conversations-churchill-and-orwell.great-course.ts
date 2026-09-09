@@ -7,7 +7,7 @@ export const pilotLectureGreatConversationsChurchillAndOrwell = {
   title: "Pilot Lecture: Great Conversations: Churchill and Orwell",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const mrLincolnTheLifeOfAbrahamLincoln = {
   slug: "mr-lincoln-the-life-of-abraham-lincoln",
   title: "Mr. Lincoln: The Life of Abraham Lincoln",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 366.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

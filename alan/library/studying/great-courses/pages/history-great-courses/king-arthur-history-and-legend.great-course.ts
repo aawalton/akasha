@@ -7,7 +7,7 @@ export const kingArthurHistoryAndLegend = {
   title: "King Arthur: History and Legend",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],

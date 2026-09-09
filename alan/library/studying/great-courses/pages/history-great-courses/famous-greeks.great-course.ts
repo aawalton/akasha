@@ -7,7 +7,7 @@ export const famousGreeks = {
   title: "Famous Greeks",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

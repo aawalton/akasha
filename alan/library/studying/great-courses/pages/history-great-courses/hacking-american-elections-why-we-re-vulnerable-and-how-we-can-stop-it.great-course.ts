@@ -7,7 +7,7 @@ export const hackingAmericanElectionsWhyWeReVulnerableAndHowWeCanStopIt = {
   title: "Hacking American Elections: Why We’re Vulnerable, and How We Can Stop It",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

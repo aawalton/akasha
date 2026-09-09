@@ -6,7 +6,7 @@ export const raisingEmotionallyAndSociallyHealthyKids = {
   slug: "raising-emotionally-and-socially-healthy-kids",
   title: "Raising Emotionally and Socially Healthy Kids",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 368.4,
   ownProgress: 0,
   partOfCollections: [

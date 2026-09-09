@@ -7,7 +7,7 @@ export const languageAndTheMind = {
   title: "Language and the Mind",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 720.6,
   ownProgress: 720.6,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

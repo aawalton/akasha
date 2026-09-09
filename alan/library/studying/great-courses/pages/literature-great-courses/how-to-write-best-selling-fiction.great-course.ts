@@ -6,7 +6,7 @@ export const howToWriteBestSellingFiction = {
   slug: "how-to-write-best-selling-fiction",
   title: "How to Write Best-Selling Fiction",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 792,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

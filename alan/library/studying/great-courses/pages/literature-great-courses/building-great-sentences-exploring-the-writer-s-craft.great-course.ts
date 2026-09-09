@@ -6,7 +6,7 @@ export const buildingGreatSentencesExploringTheWriterSCraft = {
   slug: "building-great-sentences-exploring-the-writer-s-craft",
   title: "Building Great Sentences: Exploring the Writer's Craft",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

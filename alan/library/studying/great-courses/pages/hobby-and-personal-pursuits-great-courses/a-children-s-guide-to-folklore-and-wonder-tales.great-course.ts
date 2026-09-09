@@ -7,7 +7,7 @@ export const aChildrenSGuideToFolkloreAndWonderTales = {
   title: "A Children's Guide to Folklore and Wonder Tales",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 754.8,
   ownProgress: 754.8,
   partOfCollections: [

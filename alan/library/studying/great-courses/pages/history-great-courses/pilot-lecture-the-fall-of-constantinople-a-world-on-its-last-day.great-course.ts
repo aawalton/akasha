@@ -7,7 +7,7 @@ export const pilotLectureTheFallOfConstantinopleAWorldOnItsLastDay = {
   title: "Pilot Lecture: The Fall of Constantinople—A World on Its Last Day",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 27.6,
   ownProgress: 27.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

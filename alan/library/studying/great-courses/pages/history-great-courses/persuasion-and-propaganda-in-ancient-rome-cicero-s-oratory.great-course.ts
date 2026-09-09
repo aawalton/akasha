@@ -7,7 +7,7 @@ export const persuasionAndPropagandaInAncientRomeCiceroSOratory = {
   title: "Persuasion and Propaganda in Ancient Rome: Cicero's Oratory",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const discoveringYourRootsAnIntroductionToGenealogy = {
   slug: "discovering-your-roots-an-introduction-to-genealogy",
   title: "Discovering Your Roots: An Introduction to Genealogy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 472.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

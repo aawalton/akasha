@@ -6,7 +6,7 @@ export const takingControlOfYourPersonalData = {
   slug: "taking-control-of-your-personal-data",
   title: "Taking Control of Your Personal Data",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 313.8,
   ownProgress: 0,
   partOfCollections: [

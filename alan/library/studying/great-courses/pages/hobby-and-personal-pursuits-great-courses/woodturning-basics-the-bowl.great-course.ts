@@ -7,7 +7,7 @@ export const woodturningBasicsTheBowl = {
   title: "Woodturning Basics: The Bowl",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 157.2,
   ownProgress: 157.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

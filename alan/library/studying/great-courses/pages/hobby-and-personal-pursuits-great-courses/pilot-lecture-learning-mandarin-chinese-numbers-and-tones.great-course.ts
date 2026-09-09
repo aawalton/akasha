@@ -7,7 +7,7 @@ export const pilotLectureLearningMandarinChineseNumbersAndTones = {
   title: "Pilot Lecture: Learning Mandarin Chinese—Numbers and Tones",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: [

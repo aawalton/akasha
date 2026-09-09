@@ -7,7 +7,7 @@ export const boostingYourEmotionalIntelligence = {
   title: "Boosting Your Emotional Intelligence",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 773.4,
   ownProgress: 773.4,
   partOfCollections: [

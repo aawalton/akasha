@@ -7,7 +7,7 @@ export const theCompleteGuideToSmartphonePhotography = {
   title: "The Complete Guide to Smartphone Photography",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 444.6,
   ownProgress: 444.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

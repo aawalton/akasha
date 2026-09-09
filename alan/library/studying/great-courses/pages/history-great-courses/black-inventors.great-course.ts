@@ -7,7 +7,7 @@ export const blackInventors = {
   title: "Black Inventors",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

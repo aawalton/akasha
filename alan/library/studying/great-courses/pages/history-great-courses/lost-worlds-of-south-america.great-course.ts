@@ -7,7 +7,7 @@ export const lostWorldsOfSouthAmerica = {
   title: "Lost Worlds of South America",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 714,
   ownProgress: 714,
   partOfCollections: [

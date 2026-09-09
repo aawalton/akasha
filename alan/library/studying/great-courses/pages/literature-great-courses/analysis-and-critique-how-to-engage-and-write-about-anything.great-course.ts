@@ -7,7 +7,7 @@ export const analysisAndCritiqueHowToEngageAndWriteAboutAnything = {
   title: "Analysis and Critique: How to Engage and Write about Anything",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 712.8,
   ownProgress: 712.8,
   partOfCollections: [

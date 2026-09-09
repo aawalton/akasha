@@ -6,7 +6,7 @@ export const howToGrowAnythingMakeYourTreesAndShrubsThrive = {
   slug: "how-to-grow-anything-make-your-trees-and-shrubs-thrive",
   title: "How to Grow Anything: Make Your Trees and Shrubs Thrive",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 363,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

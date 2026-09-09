@@ -7,7 +7,7 @@ export const foundationsOfEasternCivilization = {
   title: "Foundations of Eastern Civilization",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1407,
   ownProgress: 1407,
   partOfCollections: ["all-great-courses", "history-great-courses"],

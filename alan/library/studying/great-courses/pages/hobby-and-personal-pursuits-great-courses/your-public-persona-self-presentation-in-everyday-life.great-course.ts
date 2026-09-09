@@ -6,7 +6,7 @@ export const yourPublicPersonaSelfPresentationInEverydayLife = {
   slug: "your-public-persona-self-presentation-in-everyday-life",
   title: "Your Public Persona: Self-Presentation in Everyday Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 394.8,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theStoryOfTheMediterraneanWorld = {
   slug: "the-story-of-the-mediterranean-world",
   title: "The Story of the Mediterranean World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -7,7 +7,7 @@ export const americaSLongStruggleAgainstSlavery = {
   title: "America’s Long Struggle against Slavery",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 790.8,
   ownProgress: 790.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

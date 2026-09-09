@@ -7,7 +7,7 @@ export const stackedStitchesKnittingInWildColor = {
   title: "Stacked Stitches: Knitting in Wild Color",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 136.8,
   ownProgress: 136.8,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

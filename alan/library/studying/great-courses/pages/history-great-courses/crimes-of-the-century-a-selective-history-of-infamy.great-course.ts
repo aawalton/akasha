@@ -6,7 +6,7 @@ export const crimesOfTheCenturyASelectiveHistoryOfInfamy = {
   slug: "crimes-of-the-century-a-selective-history-of-infamy",
   title: "Crimes of the Century: A Selective History of Infamy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 333.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

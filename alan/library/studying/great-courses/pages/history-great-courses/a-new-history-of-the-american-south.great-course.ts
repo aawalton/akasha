@@ -7,7 +7,7 @@ export const aNewHistoryOfTheAmericanSouth = {
   title: "A New History of the American South",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 652.8,
   ownProgress: 652.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

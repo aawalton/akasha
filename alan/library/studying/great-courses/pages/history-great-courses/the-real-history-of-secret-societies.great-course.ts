@@ -6,7 +6,7 @@ export const theRealHistoryOfSecretSocieties = {
   slug: "the-real-history-of-secret-societies",
   title: "The Real History of Secret Societies",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 759,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

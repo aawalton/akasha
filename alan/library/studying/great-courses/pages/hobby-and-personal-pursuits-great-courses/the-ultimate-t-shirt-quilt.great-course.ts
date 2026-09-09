@@ -7,7 +7,7 @@ export const theUltimateTShirtQuilt = {
   title: "The Ultimate T-Shirt Quilt",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 147.6,
   ownProgress: 147.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

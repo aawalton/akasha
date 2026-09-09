@@ -6,7 +6,7 @@ export const meaningOfLifePerspectivesFromTheWorldSGreatIntellectualTradi = {
   slug: "meaning-of-life-perspectives-from-the-world-s-great-intellectual-tradi",
   title: "Meaning of Life: Perspectives from the World's Great Intellectual Traditions",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1120.2,
   ownProgress: 0,
   partOfCollections: [

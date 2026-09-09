@@ -6,7 +6,7 @@ export const theNationalGeographicGuideToBirdingInNorthAmerica = {
   slug: "the-national-geographic-guide-to-birding-in-north-america",
   title: "The National Geographic Guide to Birding in North America",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.8,
   ownProgress: 0,
   partOfCollections: [

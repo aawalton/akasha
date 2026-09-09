@@ -7,7 +7,7 @@ export const assessingAmericaSNationalSecurityThreats = {
   title: "Assessing America’s National Security Threats",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 282.6,
   ownProgress: 282.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

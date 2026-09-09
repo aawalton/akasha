@@ -6,7 +6,7 @@ export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
   slug: "how-to-break-the-habit-of-self-doubt-and-build-real-confidence",
   title: "How to Break the Habit of Self-Doubt and Build Real Confidence",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

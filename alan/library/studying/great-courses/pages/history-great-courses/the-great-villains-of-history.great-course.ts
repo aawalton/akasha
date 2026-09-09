@@ -6,7 +6,7 @@ export const theGreatVillainsOfHistory = {
   slug: "the-great-villains-of-history",
   title: "The Great Villains of History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 24,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

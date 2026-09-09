@@ -7,7 +7,7 @@ export const languageFamiliesOfTheWorld = {
   title: "Language Families of the World",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 957,
   ownProgress: 957,
   partOfCollections: [

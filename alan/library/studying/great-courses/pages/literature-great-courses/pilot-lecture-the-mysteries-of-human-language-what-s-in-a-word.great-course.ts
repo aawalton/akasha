@@ -7,7 +7,7 @@ export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   title: "Pilot Lecture: The Mysteries of Human Language—What’s in a Word?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 28.8,
   ownProgress: 28.8,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

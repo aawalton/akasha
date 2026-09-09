@@ -7,7 +7,7 @@ export const biblicalHebrewLearningASacredLanguage = {
   title: "Biblical Hebrew: Learning a Sacred Language",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1241.4,
   ownProgress: 1241.4,
   partOfCollections: [

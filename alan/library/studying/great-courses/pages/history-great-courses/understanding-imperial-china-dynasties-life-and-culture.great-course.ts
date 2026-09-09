@@ -7,7 +7,7 @@ export const understandingImperialChinaDynastiesLifeAndCulture = {
   title: "Understanding Imperial China: Dynasties, Life, and Culture",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753,
   ownProgress: 753,
   partOfCollections: ["all-great-courses", "history-great-courses"],

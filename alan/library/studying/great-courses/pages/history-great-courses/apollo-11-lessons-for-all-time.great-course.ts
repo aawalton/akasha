@@ -7,7 +7,7 @@ export const apollo11LessonsForAllTime = {
   title: "Apollo 11: Lessons for All time",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 72.6,
   ownProgress: 72.6,
   partOfCollections: [

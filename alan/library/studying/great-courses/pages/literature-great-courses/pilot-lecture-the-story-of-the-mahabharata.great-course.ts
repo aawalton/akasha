@@ -7,7 +7,7 @@ export const pilotLectureTheStoryOfTheMahabharata = {
   title: "Pilot Lecture: The Story of the Mahabharata",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

@@ -7,7 +7,7 @@ export const makeYourOwnWireworkFindings = {
   title: "Make Your Own Wirework Findings",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 230.4,
   ownProgress: 230.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

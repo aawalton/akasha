@@ -6,7 +6,7 @@ export const mathematicsDescribingTheRealWorldPrecalculusAndTrigonometry = {
   slug: "mathematics-describing-the-real-world-precalculus-and-trigonometry",
   title: "Mathematics Describing the Real World: Precalculus and Trigonometry",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1122,
   ownProgress: 0,
   partOfCollections: [

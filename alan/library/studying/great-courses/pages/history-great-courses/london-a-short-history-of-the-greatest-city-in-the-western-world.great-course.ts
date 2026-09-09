@@ -6,7 +6,7 @@ export const londonAShortHistoryOfTheGreatestCityInTheWesternWorld = {
   slug: "london-a-short-history-of-the-greatest-city-in-the-western-world",
   title: "London: A Short History of the Greatest City in the Western World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

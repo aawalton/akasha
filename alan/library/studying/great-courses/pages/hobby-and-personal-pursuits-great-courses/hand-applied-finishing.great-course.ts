@@ -7,7 +7,7 @@ export const handAppliedFinishing = {
   title: "Hand-Applied Finishing",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 141.6,
   ownProgress: 141.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

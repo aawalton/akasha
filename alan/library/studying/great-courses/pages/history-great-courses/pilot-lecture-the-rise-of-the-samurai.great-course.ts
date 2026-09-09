@@ -7,7 +7,7 @@ export const pilotLectureTheRiseOfTheSamurai = {
   title: "Pilot Lecture: The Rise of the Samurai",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

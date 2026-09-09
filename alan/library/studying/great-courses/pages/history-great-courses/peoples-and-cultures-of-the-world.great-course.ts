@@ -7,7 +7,7 @@ export const peoplesAndCulturesOfTheWorld = {
   title: "Peoples and Cultures of the World",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 723.6,
   ownProgress: 723.6,
   partOfCollections: [

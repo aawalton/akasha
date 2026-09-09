@@ -6,7 +6,7 @@ export const historyOfRussiaFromPeterTheGreatToGorbachev = {
   slug: "history-of-russia-from-peter-the-great-to-gorbachev",
   title: "History of Russia: From Peter the Great to Gorbachev",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1114.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

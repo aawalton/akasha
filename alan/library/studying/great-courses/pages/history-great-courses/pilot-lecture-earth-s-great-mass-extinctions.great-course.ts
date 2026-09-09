@@ -7,7 +7,7 @@ export const pilotLectureEarthSGreatMassExtinctions = {
   title: "Pilot Lecture: Earth’s Great Mass Extinctions",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -7,7 +7,7 @@ export const crochetInTheRoundBasicsAndBeyond = {
   title: "Crochet in the Round: Basics & Beyond",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 136.2,
   ownProgress: 136.2,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

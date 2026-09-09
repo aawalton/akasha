@@ -6,7 +6,7 @@ export const howTheCrusadesChangedHistory = {
   slug: "how-the-crusades-changed-history",
   title: "How the Crusades Changed History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 686.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

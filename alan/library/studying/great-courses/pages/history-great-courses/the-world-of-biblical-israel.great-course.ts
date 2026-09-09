@@ -7,7 +7,7 @@ export const theWorldOfBiblicalIsrael = {
   title: "The World of Biblical Israel",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738.6,
   ownProgress: 738.6,
   partOfCollections: [

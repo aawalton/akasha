@@ -6,7 +6,7 @@ export const theAgeOfHenryViii = {
   slug: "the-age-of-henry-viii",
   title: "The Age of Henry VIII",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

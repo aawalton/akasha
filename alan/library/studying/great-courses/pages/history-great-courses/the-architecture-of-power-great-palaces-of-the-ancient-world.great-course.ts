@@ -7,7 +7,7 @@ export const theArchitectureOfPowerGreatPalacesOfTheAncientWorld = {
   title: "The Architecture of Power: Great Palaces of the Ancient World",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777,
   ownProgress: 777,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -7,7 +7,7 @@ export const pilotLectureCharacterAnalysisForActors = {
   title: "Pilot Lecture: Character Analysis for Actors",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

@@ -7,7 +7,7 @@ export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   title: "Pilot Lecture: Susan B. Anthony and Suffragist Images",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 26.4,
   ownProgress: 26.4,
   partOfCollections: ["all-great-courses", "history-great-courses"],

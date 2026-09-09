@@ -6,7 +6,7 @@ export const theMysteriousEtruscans = {
   slug: "the-mysterious-etruscans",
   title: "The Mysterious Etruscans",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 759,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

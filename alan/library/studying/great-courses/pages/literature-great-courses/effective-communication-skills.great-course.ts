@@ -6,7 +6,7 @@ export const effectiveCommunicationSkills = {
   slug: "effective-communication-skills",
   title: "Effective Communication Skills",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 712.2,
   ownProgress: 0,
   partOfCollections: [

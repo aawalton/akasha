@@ -6,7 +6,7 @@ export const natureWatchingHowToFindAndObserveWildlife = {
   slug: "nature-watching-how-to-find-and-observe-wildlife",
   title: "Nature Watching: How to Find and Observe Wildlife",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 417.6,
   ownProgress: 0,
   partOfCollections: [

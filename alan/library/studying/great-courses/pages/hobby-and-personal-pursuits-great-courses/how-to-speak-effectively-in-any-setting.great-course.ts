@@ -6,7 +6,7 @@ export const howToSpeakEffectivelyInAnySetting = {
   slug: "how-to-speak-effectively-in-any-setting",
   title: "How to Speak Effectively in Any Setting",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 677.4,
   ownProgress: 0,
   partOfCollections: [

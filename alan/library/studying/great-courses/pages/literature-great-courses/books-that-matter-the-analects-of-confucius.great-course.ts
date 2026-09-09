@@ -6,7 +6,7 @@ export const booksThatMatterTheAnalectsOfConfucius = {
   slug: "books-that-matter-the-analects-of-confucius",
   title: "Books That Matter: The Analects of Confucius",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 718.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const learningJapaneseAGatewayIntoCulture = {
   title: "Learning Japanese: A Gateway into Culture",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1006.2,
   ownProgress: 1006.2,
   partOfCollections: [

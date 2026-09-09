@@ -6,7 +6,7 @@ export const civilLibertiesAndTheBillOfRights = {
   slug: "civil-liberties-and-the-bill-of-rights",
   title: "Civil Liberties and the Bill of Rights",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

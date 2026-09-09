@@ -6,7 +6,7 @@ export const sexInTheMiddleAges = {
   slug: "sex-in-the-middle-ages",
   title: "Sex in the Middle Ages",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 315,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

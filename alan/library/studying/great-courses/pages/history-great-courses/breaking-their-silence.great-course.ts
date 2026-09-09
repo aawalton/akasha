@@ -7,7 +7,7 @@ export const breakingTheirSilence = {
   title: "Breaking Their Silence",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 135.6,
   ownProgress: 135.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],

@@ -6,7 +6,7 @@ export const theGreekAndPersianWars = {
   slug: "the-greek-and-persian-wars",
   title: "The Greek and Persian Wars",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const yearsThatChangedHistory1215 = {
   slug: "years-that-changed-history-1215",
   title: "Years That Changed History: 1215",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const whatDarwinDidnTKnowTheModernScienceOfEvolution = {
   slug: "what-darwin-didn-t-know-the-modern-science-of-evolution",
   title: "What Darwin Didn't Know: The Modern Science of Evolution",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 766.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const ourNightSky = {
   title: "Our Night Sky",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 386.4,
   ownProgress: 386.4,
   partOfCollections: [

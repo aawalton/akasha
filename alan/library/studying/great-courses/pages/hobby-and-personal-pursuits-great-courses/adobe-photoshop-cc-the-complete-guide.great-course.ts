@@ -7,7 +7,7 @@ export const adobePhotoshopCcTheCompleteGuide = {
   title: "Adobe Photoshop CC: The Complete Guide",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1509,
   ownProgress: 1509,
   partOfCollections: [

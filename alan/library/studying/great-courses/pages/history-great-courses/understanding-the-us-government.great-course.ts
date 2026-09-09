@@ -6,7 +6,7 @@ export const understandingTheUsGovernment = {
   slug: "understanding-the-us-government",
   title: "Understanding the US Government",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

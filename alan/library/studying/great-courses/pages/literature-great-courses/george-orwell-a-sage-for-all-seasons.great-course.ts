@@ -7,7 +7,7 @@ export const georgeOrwellASageForAllSeasons = {
   title: "George Orwell: A Sage for All Seasons",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 622.2,
   ownProgress: 622.2,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

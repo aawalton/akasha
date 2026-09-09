@@ -6,7 +6,7 @@ export const theRiseOfCommunismFromMarxToLenin = {
   slug: "the-rise-of-communism-from-marx-to-lenin",
   title: "The Rise of Communism: From Marx to Lenin",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 335.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

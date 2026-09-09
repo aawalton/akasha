@@ -6,7 +6,7 @@ export const theDevelopmentOfEuropeanCivilization = {
   slug: "the-development-of-european-civilization",
   title: "The Development of European Civilization",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1472.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

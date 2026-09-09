@@ -6,7 +6,7 @@ export const theScienceOfGardening = {
   slug: "the-science-of-gardening",
   title: "The Science of Gardening",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 721.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

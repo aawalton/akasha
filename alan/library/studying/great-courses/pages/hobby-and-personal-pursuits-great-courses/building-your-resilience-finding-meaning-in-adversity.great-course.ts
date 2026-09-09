@@ -6,7 +6,7 @@ export const buildingYourResilienceFindingMeaningInAdversity = {
   slug: "building-your-resilience-finding-meaning-in-adversity",
   title: "Building Your Resilience: Finding Meaning in Adversity",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 771.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

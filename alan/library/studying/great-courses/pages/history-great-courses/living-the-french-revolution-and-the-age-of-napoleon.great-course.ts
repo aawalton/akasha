@@ -6,7 +6,7 @@ export const livingTheFrenchRevolutionAndTheAgeOfNapoleon = {
   slug: "living-the-french-revolution-and-the-age-of-napoleon",
   title: "Living the French Revolution and the Age of Napoleon",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1489.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

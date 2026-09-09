@@ -7,7 +7,7 @@ export const archaeologyAnIntroductionToTheWorldSGreatestSites = {
   title: "Archaeology: An Introduction to the World's Greatest Sites",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 772.2,
   ownProgress: 772.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

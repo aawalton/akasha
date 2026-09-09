@@ -6,7 +6,7 @@ export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   slug: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
   title: "Veterinary School for Everyone: Caring for Cats and Dogs",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 684,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

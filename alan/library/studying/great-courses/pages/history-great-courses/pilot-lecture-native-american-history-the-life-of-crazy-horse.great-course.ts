@@ -7,7 +7,7 @@ export const pilotLectureNativeAmericanHistoryTheLifeOfCrazyHorse = {
   title: "Pilot Lecture: Native American History - The Life of Crazy Horse",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 27,
   ownProgress: 27,
   partOfCollections: ["all-great-courses", "history-great-courses"],

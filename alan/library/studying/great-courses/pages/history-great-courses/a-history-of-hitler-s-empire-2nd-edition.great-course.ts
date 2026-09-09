@@ -7,7 +7,7 @@ export const aHistoryOfHitlerSEmpire2ndEdition = {
   title: "A History of Hitler's Empire, 2nd Edition",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 381,
   ownProgress: 381,
   partOfCollections: ["all-great-courses", "history-great-courses"],

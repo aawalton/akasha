@@ -7,7 +7,7 @@ export const unsungHeroesOfWorldWarIiEurope = {
   title: "Unsung Heroes of World War II: Europe",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 358.8,
   ownProgress: 358.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

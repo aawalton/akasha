@@ -7,7 +7,7 @@ export const travelingTheRomanEmpire = {
   title: "Traveling The Roman Empire",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 290.4,
   ownProgress: 290.4,
   partOfCollections: [

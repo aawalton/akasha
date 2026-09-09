@@ -6,7 +6,7 @@ export const historyOfTheBibleTheMakingOfTheNewTestamentCanon = {
   slug: "history-of-the-bible-the-making-of-the-new-testament-canon",
   title: "History of the Bible: The Making of the New Testament Canon",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 369,
   ownProgress: 0,
   partOfCollections: [

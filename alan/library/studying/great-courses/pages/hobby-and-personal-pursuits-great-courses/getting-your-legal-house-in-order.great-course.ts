@@ -6,7 +6,7 @@ export const gettingYourLegalHouseInOrder = {
   slug: "getting-your-legal-house-in-order",
   title: "Getting Your Legal House in Order",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 567.6,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const thisDayInHistoryNovember = {
   title: "This Day in History: November",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 67.8,
   ownProgress: 67.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

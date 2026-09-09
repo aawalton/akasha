@@ -6,7 +6,7 @@ export const culturalLiteracyForReligionEverythingTheWellEducatedPersonSho = {
   slug: "cultural-literacy-for-religion-everything-the-well-educated-person-sho",
   title: "Cultural Literacy for Religion: Everything the Well-Educated Person Should Know",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: [

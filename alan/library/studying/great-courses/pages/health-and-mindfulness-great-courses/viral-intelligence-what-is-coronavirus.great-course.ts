@@ -7,7 +7,7 @@ export const viralIntelligenceWhatIsCoronavirus = {
   title: "Viral Intelligence: What Is Coronavirus?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 18,
   ownProgress: 18,
   partOfCollections: [

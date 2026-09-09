@@ -7,7 +7,7 @@ export const theRealAncientEgypt = {
   title: "The Real Ancient Egypt",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 235.2,
   ownProgress: 235.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

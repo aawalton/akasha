@@ -6,7 +6,7 @@ export const warriorsQueensAndIntellectuals36GreatWomenBefore1400 = {
   slug: "warriors-queens-and-intellectuals-36-great-women-before-1400",
   title: "Warriors, Queens, and Intellectuals: 36 Great Women before 1400",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1078.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

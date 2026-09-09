@@ -7,7 +7,7 @@ export const mathAndMagic = {
   title: "Math and Magic",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 388.2,
   ownProgress: 388.2,
   partOfCollections: [

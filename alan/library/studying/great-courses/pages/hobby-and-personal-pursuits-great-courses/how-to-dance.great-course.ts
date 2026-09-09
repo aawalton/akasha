@@ -7,7 +7,7 @@ export const howToDance = {
   title: "How to Dance",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 477,
   ownProgress: 477,
   partOfCollections: [

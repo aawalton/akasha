@@ -7,7 +7,7 @@ export const theHistoryAndArchaeologyOfTheBible = {
   title: "The History and Archaeology of the Bible",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 670.8,
   ownProgress: 670.8,
   partOfCollections: [

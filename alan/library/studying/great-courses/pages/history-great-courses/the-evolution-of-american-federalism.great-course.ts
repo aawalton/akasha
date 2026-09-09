@@ -6,7 +6,7 @@ export const theEvolutionOfAmericanFederalism = {
   slug: "the-evolution-of-american-federalism",
   title: "The Evolution of American Federalism",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 748.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

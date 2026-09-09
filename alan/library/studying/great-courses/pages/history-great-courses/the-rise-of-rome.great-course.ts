@@ -7,7 +7,7 @@ export const theRiseOfRome = {
   title: "The Rise of Rome",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 733.8,
   ownProgress: 733.8,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

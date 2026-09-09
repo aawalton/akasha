@@ -7,7 +7,7 @@ export const learningSpanishIiHowToUnderstandAndSpeakANewLanguage = {
   title: "Learning Spanish II: How to Understand and Speak a New Language",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1324.8,
   ownProgress: 1324.8,
   partOfCollections: [

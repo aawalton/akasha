@@ -6,7 +6,7 @@ export const understandingTheInventionsThatChangedTheWorld = {
   slug: "understanding-the-inventions-that-changed-the-world",
   title: "Understanding the Inventions That Changed the World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1053.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],

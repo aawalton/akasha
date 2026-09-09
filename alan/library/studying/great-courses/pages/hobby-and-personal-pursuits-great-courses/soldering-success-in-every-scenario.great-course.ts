@@ -7,7 +7,7 @@ export const solderingSuccessInEveryScenario = {
   title: "Soldering Success in Every Scenario",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 111.6,
   ownProgress: 111.6,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

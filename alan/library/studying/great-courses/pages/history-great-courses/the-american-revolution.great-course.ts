@@ -6,7 +6,7 @@ export const theAmericanRevolution = {
   slug: "the-american-revolution",
   title: "The American Revolution",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

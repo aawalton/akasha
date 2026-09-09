@@ -6,7 +6,7 @@ export const whatAmericaSFoundersLearnedFromAntiquity = {
   slug: "what-america-s-founders-learned-from-antiquity",
   title: "What America’s Founders Learned from Antiquity",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 781.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

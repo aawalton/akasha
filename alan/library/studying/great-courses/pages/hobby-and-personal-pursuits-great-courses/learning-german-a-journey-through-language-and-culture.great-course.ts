@@ -7,7 +7,7 @@ export const learningGermanAJourneyThroughLanguageAndCulture = {
   title: "Learning German: A Journey through Language and Culture",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 816,
   ownProgress: 816,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const monstersWithin = {
   title: "Monsters Within ...",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 104.4,
   ownProgress: 104.4,
   partOfCollections: [

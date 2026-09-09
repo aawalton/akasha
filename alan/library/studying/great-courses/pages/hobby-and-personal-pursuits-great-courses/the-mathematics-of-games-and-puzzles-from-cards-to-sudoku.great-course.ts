@@ -6,7 +6,7 @@ export const theMathematicsOfGamesAndPuzzlesFromCardsToSudoku = {
   slug: "the-mathematics-of-games-and-puzzles-from-cards-to-sudoku",
   title: "The Mathematics of Games and Puzzles: From Cards to Sudoku",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 544.2,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theOtherSideOfHistoryDailyLifeInTheAncientWorld = {
   slug: "the-other-side-of-history-daily-life-in-the-ancient-world",
   title: "The Other Side of History: Daily Life in the Ancient World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1465.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

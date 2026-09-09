@@ -7,7 +7,7 @@ export const didYouKnow = {
   title: "Did You Know?",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 129,
   ownProgress: 129,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

@@ -6,7 +6,7 @@ export const doItYourselfEngineering = {
   slug: "do-it-yourself-engineering",
   title: "Do-It-Yourself Engineering",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 794.4,
   ownProgress: 0,
   partOfCollections: [

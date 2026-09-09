@@ -6,7 +6,7 @@ export const theRomanEmpireFromAugustusToTheFallOfRome = {
   slug: "the-roman-empire-from-augustus-to-the-fall-of-rome",
   title: "The Roman Empire: From Augustus to The Fall of Rome",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 772.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

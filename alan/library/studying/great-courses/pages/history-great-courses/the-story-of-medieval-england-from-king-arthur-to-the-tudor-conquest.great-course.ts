@@ -6,7 +6,7 @@ export const theStoryOfMedievalEnglandFromKingArthurToTheTudorConquest = {
   slug: "the-story-of-medieval-england-from-king-arthur-to-the-tudor-conquest",
   title: "The Story of Medieval England: From King Arthur to the Tudor Conquest",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1147.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

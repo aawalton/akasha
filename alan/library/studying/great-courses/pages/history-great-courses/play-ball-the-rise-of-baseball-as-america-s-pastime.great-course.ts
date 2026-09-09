@@ -6,7 +6,7 @@ export const playBallTheRiseOfBaseballAsAmericaSPastime = {
   slug: "play-ball-the-rise-of-baseball-as-america-s-pastime",
   title: "Play Ball! The Rise of Baseball as America’s Pastime",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: [

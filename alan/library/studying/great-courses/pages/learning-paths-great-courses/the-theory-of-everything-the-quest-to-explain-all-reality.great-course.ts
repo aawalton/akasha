@@ -6,7 +6,7 @@ export const theTheoryOfEverythingTheQuestToExplainAllReality = {
   slug: "the-theory-of-everything-the-quest-to-explain-all-reality",
   title: "The Theory of Everything: The Quest to Explain All Reality",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

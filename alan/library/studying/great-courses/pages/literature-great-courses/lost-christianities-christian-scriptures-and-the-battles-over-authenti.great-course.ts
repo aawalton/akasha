@@ -6,7 +6,7 @@ export const lostChristianitiesChristianScripturesAndTheBattlesOverAuthenti = {
   slug: "lost-christianities-christian-scriptures-and-the-battles-over-authenti",
   title: "Lost Christianities: Christian Scriptures and the Battles over Authentication",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: [

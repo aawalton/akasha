@@ -6,7 +6,7 @@ export const victorianBritain = {
   slug: "victorian-britain",
   title: "Victorian Britain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1107,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

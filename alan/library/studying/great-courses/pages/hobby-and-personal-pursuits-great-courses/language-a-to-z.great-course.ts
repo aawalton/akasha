@@ -7,7 +7,7 @@ export const languageAToZ = {
   title: "Language A to Z",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 374.4,
   ownProgress: 374.4,
   partOfCollections: [

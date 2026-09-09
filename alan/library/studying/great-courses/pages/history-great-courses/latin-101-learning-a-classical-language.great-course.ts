@@ -7,7 +7,7 @@ export const latin101LearningAClassicalLanguage = {
   title: "Latin 101: Learning a Classical Language",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1098,
   ownProgress: 1098,
   partOfCollections: [

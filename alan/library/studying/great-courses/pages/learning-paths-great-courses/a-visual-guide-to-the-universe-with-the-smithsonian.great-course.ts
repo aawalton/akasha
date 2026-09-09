@@ -7,7 +7,7 @@ export const aVisualGuideToTheUniverseWithTheSmithsonian = {
   title: "A Visual Guide to the Universe with the Smithsonian",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 546.6,
   ownProgress: 546.6,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const aBriefHistoryOfTheWorld = {
   title: "A Brief History of the World",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1140.6,
   ownProgress: 1140.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

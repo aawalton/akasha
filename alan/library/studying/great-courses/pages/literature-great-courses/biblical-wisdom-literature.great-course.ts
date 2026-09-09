@@ -7,7 +7,7 @@ export const biblicalWisdomLiterature = {
   title: "Biblical Wisdom Literature",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1113,
   ownProgress: 1113,
   partOfCollections: [

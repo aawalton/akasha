@@ -7,7 +7,7 @@ export const americaInTheGildedAgeAndProgressiveEra = {
   title: "America in the Gilded Age and Progressive Era",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729,
   ownProgress: 729,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

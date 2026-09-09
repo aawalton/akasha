@@ -6,7 +6,7 @@ export const decorateLikeADesignerWithJonathanAdler = {
   slug: "decorate-like-a-designer-with-jonathan-adler",
   title: "Decorate like a Designer, with Jonathan Adler",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 352.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

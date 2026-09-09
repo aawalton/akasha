@@ -6,7 +6,7 @@ export const greatAmericanBestsellersTheBooksThatShapedAmerica = {
   slug: "great-american-bestsellers-the-books-that-shaped-america",
   title: "Great American Bestsellers: The Books That Shaped America",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 740.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

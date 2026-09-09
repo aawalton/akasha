@@ -6,7 +6,7 @@ export const classicNovelsMeetingTheChallengeOfGreatLiterature = {
   slug: "classic-novels-meeting-the-challenge-of-great-literature",
   title: "Classic Novels: Meeting the Challenge of Great Literature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1128.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

@@ -7,7 +7,7 @@ export const theVietnamWar = {
   title: "The Vietnam War",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 685.2,
   ownProgress: 685.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

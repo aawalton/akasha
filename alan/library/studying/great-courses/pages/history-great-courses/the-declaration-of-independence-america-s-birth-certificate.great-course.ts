@@ -6,7 +6,7 @@ export const theDeclarationOfIndependenceAmericaSBirthCertificate = {
   slug: "the-declaration-of-independence-america-s-birth-certificate",
   title: "The Declaration of Independence: America’s Birth Certificate",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 12,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

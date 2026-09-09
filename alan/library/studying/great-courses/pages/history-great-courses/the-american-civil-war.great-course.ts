@@ -7,7 +7,7 @@ export const theAmericanCivilWar = {
   title: "The American Civil War",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1461,
   ownProgress: 1461,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

@@ -6,7 +6,7 @@ export const playingGuitarLikeAProLeadSoloAndGroupPerformance = {
   slug: "playing-guitar-like-a-pro-lead-solo-and-group-performance",
   title: "Playing Guitar like a Pro: Lead, Solo, and Group Performance",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 763.2,
   ownProgress: 0,
   partOfCollections: [

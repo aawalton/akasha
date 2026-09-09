@@ -7,7 +7,7 @@ export const jewishIntellectualHistory16thTo20thCentury = {
   title: "Jewish Intellectual History: 16th to 20th Century",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
   partOfCollections: [

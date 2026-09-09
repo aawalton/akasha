@@ -6,7 +6,7 @@ export const classicsOfRussianLiterature = {
   slug: "classics-of-russian-literature",
   title: "Classics of Russian Literature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1085.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],

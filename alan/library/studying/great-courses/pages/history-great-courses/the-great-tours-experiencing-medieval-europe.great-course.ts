@@ -7,7 +7,7 @@ export const theGreatToursExperiencingMedievalEurope = {
   title: "The Great Tours: Experiencing Medieval Europe",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 728.4,
   ownProgress: 728.4,
   partOfCollections: [

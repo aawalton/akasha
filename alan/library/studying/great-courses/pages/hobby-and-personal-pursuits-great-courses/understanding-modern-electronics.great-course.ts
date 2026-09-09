@@ -6,7 +6,7 @@ export const understandingModernElectronics = {
   slug: "understanding-modern-electronics",
   title: "Understanding Modern Electronics",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 879.6,
   ownProgress: 0,
   partOfCollections: [

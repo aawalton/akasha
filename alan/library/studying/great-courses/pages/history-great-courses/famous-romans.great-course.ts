@@ -6,7 +6,7 @@ export const famousRomans = {
   slug: "famous-romans",
   title: "Famous Romans",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

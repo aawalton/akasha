@@ -7,7 +7,7 @@ export const greatGuitaristsStoriesAndStyles = {
   title: "Great Guitarists' Stories and Styles",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 153,
   ownProgress: 153,
   partOfCollections: [

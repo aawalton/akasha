@@ -7,7 +7,7 @@ export const theCelticWorld = {
   title: "The Celtic World",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 775.8,
   ownProgress: 775.8,
   partOfCollections: ["all-great-courses", "history-great-courses"],

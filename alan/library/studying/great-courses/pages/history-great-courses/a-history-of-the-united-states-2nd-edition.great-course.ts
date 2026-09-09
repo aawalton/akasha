@@ -6,7 +6,7 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
   slug: "a-history-of-the-united-states-2nd-edition",
   title: "A History of the United States, 2nd Edition",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 2576.4,
   ownProgress: 1288.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

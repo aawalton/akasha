@@ -7,7 +7,7 @@ export const fairIsleFundamentals = {
   title: "Fair Isle Fundamentals",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 116.4,
   ownProgress: 116.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

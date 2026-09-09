@@ -7,7 +7,7 @@ export const athenianDemocracyAnExperimentForTheAges = {
   title: "Athenian Democracy: An Experiment for the Ages",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777,
   ownProgress: 777,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const theMedievalWorld = {
   slug: "the-medieval-world",
   title: "The Medieval World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1092.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const theModernIntellectualTraditionFromDescartesToDerrida = {
   slug: "the-modern-intellectual-tradition-from-descartes-to-derrida",
   title: "The Modern Intellectual Tradition: From Descartes to Derrida",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1130.4,
   ownProgress: 0,
   partOfCollections: [

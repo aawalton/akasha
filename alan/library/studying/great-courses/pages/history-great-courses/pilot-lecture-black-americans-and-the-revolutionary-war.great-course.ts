@@ -7,7 +7,7 @@ export const pilotLectureBlackAmericansAndTheRevolutionaryWar = {
   title: "Pilot Lecture: Black Americans and the Revolutionary War",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 36,
   ownProgress: 36,
   partOfCollections: ["all-great-courses", "history-great-courses"],

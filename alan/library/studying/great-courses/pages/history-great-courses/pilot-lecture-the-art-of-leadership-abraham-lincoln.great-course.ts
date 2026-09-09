@@ -7,7 +7,7 @@ export const pilotLectureTheArtOfLeadershipAbrahamLincoln = {
   title: "Pilot Lecture: The Art of Leadership—Abraham Lincoln",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

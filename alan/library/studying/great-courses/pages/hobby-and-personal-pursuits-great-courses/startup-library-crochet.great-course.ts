@@ -7,7 +7,7 @@ export const startupLibraryCrochet = {
   title: "Startup Library: Crochet",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 275.4,
   ownProgress: 275.4,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

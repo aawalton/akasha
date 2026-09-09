@@ -6,7 +6,7 @@ export const theAgeOfBenjaminFranklin = {
   slug: "the-age-of-benjamin-franklin",
   title: "The Age of Benjamin Franklin",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 758.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const hannibalTheMilitaryGeniusWhoAlmostConqueredRome = {
   slug: "hannibal-the-military-genius-who-almost-conquered-rome",
   title: "Hannibal: The Military Genius Who Almost Conquered Rome",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 515.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

@@ -7,7 +7,7 @@ export const afterThePlague = {
   title: "After the Plague",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 627.6,
   ownProgress: 627.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

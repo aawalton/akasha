@@ -7,7 +7,7 @@ export const greek101LearningAnAncientLanguage = {
   title: "Greek 101: Learning an Ancient Language",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1110,
   ownProgress: 1110,
   partOfCollections: [

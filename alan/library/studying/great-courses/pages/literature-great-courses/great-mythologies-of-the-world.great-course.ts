@@ -6,7 +6,7 @@ export const greatMythologiesOfTheWorld = {
   slug: "great-mythologies-of-the-world",
   title: "Great Mythologies of the World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1905.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

@@ -7,7 +7,7 @@ export const learningFrenchARendezvousWithFrenchSpeakingCultures = {
   title: "Learning French: A Rendezvous with French-Speaking Cultures",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1324.8,
   ownProgress: 1324.8,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const adobeLightroomClassicCcTheCompleteGuide = {
   title: "Adobe Lightroom Classic CC: The Complete Guide",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1429.2,
   ownProgress: 1429.2,
   partOfCollections: [

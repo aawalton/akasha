@@ -6,7 +6,7 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   slug: "understanding-the-human-body-an-introduction-to-anatomy-and-physiology",
   title: "Understanding the Human Body: An Introduction to Anatomy and Physiology, 2nd Edition",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1453.8,
   ownProgress: 90.8625,
   partOfCollections: [

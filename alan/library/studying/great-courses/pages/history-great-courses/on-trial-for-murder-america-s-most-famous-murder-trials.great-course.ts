@@ -6,7 +6,7 @@ export const onTrialForMurderAmericaSMostFamousMurderTrials = {
   slug: "on-trial-for-murder-america-s-most-famous-murder-trials",
   title: "On Trial for Murder: America’s Most Famous Murder Trials",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 308.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

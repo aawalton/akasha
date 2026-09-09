@@ -6,7 +6,7 @@ export const scienceWarsWhatScientistsKnowAndHowTheyKnowIt = {
   slug: "science-wars-what-scientists-know-and-how-they-know-it",
   title: "Science Wars: What Scientists Know and How They Know It",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 754.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   title: "Wondrium Insights: Finding Strength in Mental Health Struggles",
   status: "completed",
   rank: "A",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 177.6,
   ownProgress: 177.6,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

@@ -6,7 +6,7 @@ export const howTheSpanishCivilWarBecameEuropeSBattlefield = {
   slug: "how-the-spanish-civil-war-became-europe-s-battlefield",
   title: "How the Spanish Civil War Became Europe’s Battlefield",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 704.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

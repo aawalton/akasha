@@ -6,7 +6,7 @@ export const oldEnglishLiteratureLanguageAsHistory = {
   slug: "old-english-literature-language-as-history",
   title: "Old English Literature: Language as History",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 760.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

@@ -6,7 +6,7 @@ export const nativePeoplesOfNorthAmerica = {
   slug: "native-peoples-of-north-america",
   title: "Native Peoples of North America",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 767.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

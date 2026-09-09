@@ -7,7 +7,7 @@ export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   title: "Academy of Hope: Taking On America’s Adult Education Problem",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 39,
   ownProgress: 39,
   partOfCollections: [

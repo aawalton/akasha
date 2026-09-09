@@ -6,7 +6,7 @@ export const theEarlyMiddleAges = {
   slug: "the-early-middle-ages",
   title: "The Early Middle Ages",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 747,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

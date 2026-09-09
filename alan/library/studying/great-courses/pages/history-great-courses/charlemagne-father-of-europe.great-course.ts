@@ -7,7 +7,7 @@ export const charlemagneFatherOfEurope = {
   title: "Charlemagne: Father of Europe",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 387.6,
   ownProgress: 387.6,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

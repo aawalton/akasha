@@ -7,7 +7,7 @@ export const howToPlayPiano = {
   title: "How to Play Piano",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1118.4,
   ownProgress: 1118.4,
   partOfCollections: [

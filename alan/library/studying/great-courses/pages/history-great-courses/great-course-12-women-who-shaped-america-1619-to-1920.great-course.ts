@@ -7,7 +7,7 @@ export const greatCourse12WomenWhoShapedAmerica1619To1920 = {
   title: "12 Women Who Shaped America: 1619 to 1920",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 336.6,
   ownProgress: 336.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

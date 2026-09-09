@@ -6,7 +6,7 @@ export const theBirthOfTheModernMindTheIntellectualHistoryOfThe17thAnd = {
   slug: "the-birth-of-the-modern-mind-the-intellectual-history-of-the-17th-and",
   title: "The Birth of the Modern Mind: The Intellectual History of the 17th and 18th Centuries",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 754.8,
   ownProgress: 0,
   partOfCollections: [

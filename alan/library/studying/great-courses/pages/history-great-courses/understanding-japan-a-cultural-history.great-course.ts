@@ -7,7 +7,7 @@ export const understandingJapanACulturalHistory = {
   title: "Understanding Japan: A Cultural History",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 726.6,
   ownProgress: 726.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

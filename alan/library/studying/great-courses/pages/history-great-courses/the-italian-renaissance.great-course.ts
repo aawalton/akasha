@@ -6,7 +6,7 @@ export const theItalianRenaissance = {
   slug: "the-italian-renaissance",
   title: "The Italian Renaissance",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1091.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

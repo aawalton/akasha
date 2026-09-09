@@ -7,7 +7,7 @@ export const americanIdealsFoundingARepublicOfVirtue = {
   title: 'American Ideals: Founding a "Republic of Virtue"',
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 363.6,
   ownProgress: 363.6,
   partOfCollections: ["all-great-courses", "history-great-courses"],

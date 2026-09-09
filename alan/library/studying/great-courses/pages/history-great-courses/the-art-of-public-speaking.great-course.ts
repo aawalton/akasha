@@ -6,7 +6,7 @@ export const theArtOfPublicSpeaking = {
   slug: "the-art-of-public-speaking",
   title: "The Art of Public Speaking",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 376.2,
   ownProgress: 0,
   partOfCollections: [

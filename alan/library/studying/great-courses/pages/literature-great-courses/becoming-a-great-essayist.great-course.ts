@@ -7,7 +7,7 @@ export const becomingAGreatEssayist = {
   title: "Becoming a Great Essayist",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744.6,
   ownProgress: 744.6,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

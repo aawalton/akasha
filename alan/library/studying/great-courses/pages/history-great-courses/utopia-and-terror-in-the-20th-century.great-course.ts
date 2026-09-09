@@ -6,7 +6,7 @@ export const utopiaAndTerrorInThe20thCentury = {
   slug: "utopia-and-terror-in-the-20th-century",
   title: "Utopia and Terror in the 20th Century",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 746.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses"],

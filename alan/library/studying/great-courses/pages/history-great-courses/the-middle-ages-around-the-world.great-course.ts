@@ -6,7 +6,7 @@ export const theMiddleAgesAroundTheWorld = {
   slug: "the-middle-ages-around-the-world",
   title: "The Middle Ages around the World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

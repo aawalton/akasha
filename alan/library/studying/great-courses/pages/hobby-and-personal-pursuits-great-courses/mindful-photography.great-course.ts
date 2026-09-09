@@ -6,7 +6,7 @@ export const mindfulPhotography = {
   slug: "mindful-photography",
   title: "Mindful Photography",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 348.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],

@@ -7,7 +7,7 @@ export const pilotLectureThinkingAboutIndigenousCulturesOfTheWorld = {
   title: "Pilot Lecture: Thinking about Indigenous Cultures of the World",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 32.4,
   ownProgress: 32.4,
   partOfCollections: [

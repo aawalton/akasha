@@ -6,7 +6,7 @@ export const learningToPlayGuitarChordsScalesAndSolos = {
   slug: "learning-to-play-guitar-chords-scales-and-solos",
   title: "Learning to Play Guitar: Chords, Scales, and Solos",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.2,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const historySGreatestVoyagesOfExploration = {
   title: "History's Greatest Voyages of Exploration",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 724.2,
   ownProgress: 724.2,
   partOfCollections: ["all-great-courses", "history-great-courses"],

@@ -6,7 +6,7 @@ export const theHolyLandRevealed = {
   slug: "the-holy-land-revealed",
   title: "The Holy Land Revealed",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1121.4,
   ownProgress: 0,
   partOfCollections: [

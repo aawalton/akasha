@@ -7,7 +7,7 @@ export const theStoryOfHumanLanguage = {
   title: "The Story of Human Language",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1086,
   ownProgress: 1086,
   partOfCollections: ["all-great-courses", "history-great-courses", "literature-great-courses"],

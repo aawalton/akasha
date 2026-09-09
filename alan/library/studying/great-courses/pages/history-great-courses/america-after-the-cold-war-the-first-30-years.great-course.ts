@@ -7,7 +7,7 @@ export const americaAfterTheColdWarTheFirst30Years = {
   title: "America after the Cold War: The First 30 Years",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 345,
   ownProgress: 345,
   partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],

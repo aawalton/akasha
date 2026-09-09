@@ -6,7 +6,7 @@ export const understandingTheQuantumWorld = {
   slug: "understanding-the-quantum-world",
   title: "Understanding the Quantum World",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 722.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

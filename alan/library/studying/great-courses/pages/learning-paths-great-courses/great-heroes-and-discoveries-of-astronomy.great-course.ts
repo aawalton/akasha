@@ -6,7 +6,7 @@ export const greatHeroesAndDiscoveriesOfAstronomy = {
   slug: "great-heroes-and-discoveries-of-astronomy",
   title: "Great Heroes and Discoveries of Astronomy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 640.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],

@@ -7,7 +7,7 @@ export const ancientWritingAndTheHistoryOfTheAlphabet = {
   title: "Ancient Writing and the History of the Alphabet",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 381,
   ownProgress: 381,
   partOfCollections: ["all-great-courses", "literature-great-courses"],

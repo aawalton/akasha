@@ -7,7 +7,7 @@ export const experiencingAmericaASmithsonianTourThroughAmericanHistory = {
   title: "Experiencing America: A Smithsonian Tour through American History",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 777,
   ownProgress: 777,
   partOfCollections: [

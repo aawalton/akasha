@@ -6,7 +6,7 @@ export const epigeneticsHowEnvironmentChangesYourBiology = {
   slug: "epigenetics-how-environment-changes-your-biology",
   title: "Epigenetics: How Environment Changes Your Biology",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 371.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
