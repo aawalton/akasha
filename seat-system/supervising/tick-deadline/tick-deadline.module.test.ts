@@ -53,6 +53,5 @@ test("a stop asked during a tick ends the wait", async () => {
 test("a tick that answers takes its listener off the signal", async () => {
   const control = new AbortController()
   await withTickDeadline("here", async () => 1, 1000, control.signal)
-  // A listener left behind would still be counted here.
   expect(control.signal.aborted).toBe(false)
 })
