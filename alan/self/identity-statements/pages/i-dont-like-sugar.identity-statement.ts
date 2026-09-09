@@ -7,7 +7,7 @@ export const iDontLikeSugar = {
   title: "I don’t like sugar",
   identityStatementLevel: 0,
   notionId: "2d95cf0bf24a80edb7dffd68af99eeef",
-  parentStatementSlug: "i-am-whole-food-plant-based",
+  parentStatement: "i-am-whole-food-plant-based",
   identityStatementRank: "b-rank",
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],

@@ -8,7 +8,7 @@ export const iCanAndShouldDoThingsILikeThatAreNotNormal = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "2dd5cf0bf24a8009b777f607cc8b9f66",
-  parentStatementSlug: "i-am-profoundly-neurodivergent",
+  parentStatement: "i-am-profoundly-neurodivergent",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],

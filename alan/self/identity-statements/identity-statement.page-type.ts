@@ -9,7 +9,7 @@ import type { IdentityStatementStatus } from "./properties/identity-statement-st
 import type { IdentityStatementTags } from "./properties/identity-statement-tags.text-property.ts"
 import type { IdentityStatementValueSlug } from "./properties/identity-statement-value-slug.relation-property.ts"
 import type { NotionId } from "./properties/notion-id.text-property.ts"
-import type { ParentStatementSlug } from "./properties/parent-statement-slug.relation-property.ts"
+import type { ParentStatement } from "./properties/parent-statement.relation-property.ts"
 import type { ReplacedByStatementSlugs } from "./properties/replaced-by-statement-slugs.relation-property.ts"
 import type { ReplacesStatementSlugs } from "./properties/replaces-statement-slugs.relation-property.ts"
 import type { SubStatementSlugs } from "./properties/sub-statement-slugs.relation-property.ts"
@@ -19,7 +19,7 @@ export type IdentityStatement = Page & {
   about?: About
   identityStatementLevel: IdentityStatementLevel
   notionId: NotionId
-  parentStatementSlug?: ParentStatementSlug
+  parentStatement?: ParentStatement
   identityStatementRank: IdentityStatementRank
   replacedByStatementSlugs?: readonly ReplacedByStatementSlugs[]
   replacesStatementSlugs?: readonly ReplacesStatementSlugs[]
@@ -40,7 +40,7 @@ export const identityStatement = {
   partSlugs: [
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value-slug",
-    "relation-property/parent-statement-slug",
+    "relation-property/parent-statement",
     "relation-property/replaced-by-statement-slugs",
     "relation-property/replaces-statement-slugs",
     "relation-property/sub-statement-slugs",
@@ -55,7 +55,7 @@ export const identityStatement = {
     { pagePropertySlug: "select-property/about", required: false, many: false },
     { pagePropertySlug: "number-property/identity-statement-level", required: true, many: false },
     { pagePropertySlug: "text-property/notion-id", required: true, many: false },
-    { pagePropertySlug: "relation-property/parent-statement-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/parent-statement", required: false, many: false },
     { pagePropertySlug: "select-property/identity-statement-rank", required: true, many: false },
     {
       pagePropertySlug: "relation-property/replaced-by-statement-slugs",

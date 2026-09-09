@@ -8,7 +8,7 @@ export const iAmAnOmniSensoryAndEmotionalAphant = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "93471cf84b5b4945b63f7603ec90878c",
-  parentStatementSlug: "i-am-profoundly-neurodivergent",
+  parentStatement: "i-am-profoundly-neurodivergent",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],

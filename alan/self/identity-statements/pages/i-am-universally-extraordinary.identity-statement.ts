@@ -8,7 +8,7 @@ export const iAmUniversallyExtraordinary = {
   about: "myself",
   identityStatementLevel: 1,
   notionId: "9382ba041c964415a7dc94ca61c2e71f",
-  parentStatementSlug: "i-am-profoundly-neurodivergent",
+  parentStatement: "i-am-profoundly-neurodivergent",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
