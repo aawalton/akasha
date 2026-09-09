@@ -32,16 +32,12 @@ function programPage(programSlug: string): ProgramPage {
 
 export function componentSwiftForProgram(programSlug: string): readonly string[] {
   const page = programPage(programSlug)
-  const said = page as {
-    readonly components?: readonly string[]
-    readonly componentSlugs?: readonly string[]
-  }
-  const named: readonly string[] = said.components ?? said.componentSlugs ?? []
+  const named: readonly string[] = page.components ?? []
   return named.map((one) => {
     if (!one.startsWith(COMPONENT_PREFIX)) {
       throw new InputError(
         `the akasha ios-program page ${page.slug} names a component as ${one}, which does not ` +
-          `begin ${COMPONENT_PREFIX} — a component-slugs value names an ios-component page`
+          `begin ${COMPONENT_PREFIX} — a components value names an ios-component page`
       )
     }
     const slug = one.slice(COMPONENT_PREFIX.length)

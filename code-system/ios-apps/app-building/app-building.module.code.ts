@@ -47,9 +47,7 @@ function pageOf(root: string, typeSlug: string, slug: string): Value | null {
 }
 
 function componentsOf(program: Value): string {
-  const listed = listAt(program, "components")
-  const named = listed.length === 0 ? listAt(program, "componentSlugs") : listed
-  return named
+  return listAt(program, "components")
     .map((one) => slugOf(one.startsWith(COMPONENT) ? one : `${COMPONENT}${one}`))
     .map((slug) => `${slug}/${slug}${SUFFIX}`)
     .join(" ")
