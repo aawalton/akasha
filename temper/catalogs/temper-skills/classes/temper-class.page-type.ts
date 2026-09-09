@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../../temper-catalog/temper-catalog-things/temper-catalog-thing.page-type.ts"
 import type { EsoClassId } from "../properties/eso-class-id.number-property.ts"
 
 export type TemperClass = TemperCatalogThing & {

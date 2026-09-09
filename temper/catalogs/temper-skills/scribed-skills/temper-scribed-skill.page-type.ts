@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
+import type { TemperSkill } from "../../../temper-catalog/temper-skills/skills/temper-skill.page-type.ts"
 import type { FocusScriptId } from "../properties/focus-script-id.text-property.ts"
 import type { GrimoireId } from "../properties/grimoire-id.text-property.ts"
-import type { TemperSkill } from "../skills/temper-skill.page-type.ts"
 
 export type TemperScribedSkill = TemperSkill & {
   focusScriptId: FocusScriptId
