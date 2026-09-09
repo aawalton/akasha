@@ -5,7 +5,7 @@ export const jamesSACorey = {
   pageTypeSlug: "author",
   slug: "james-s-a-corey",
   title: "James S. A. Corey",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

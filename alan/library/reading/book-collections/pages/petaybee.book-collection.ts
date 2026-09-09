@@ -5,7 +5,7 @@ export const petaybee = {
   pageTypeSlug: "book-collection",
   slug: "petaybee",
   title: "Petaybee",
-  partOfCollectionSlugs: ["anne-mccaffrey"],
+  partOfCollections: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

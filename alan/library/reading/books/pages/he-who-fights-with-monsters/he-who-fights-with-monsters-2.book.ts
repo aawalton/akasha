@@ -12,7 +12,7 @@ export const heWhoFightsWithMonsters2 = {
   ownLength: 141000,
   ownProgress: 141000,
   publishedAt: "2021-05-18",
-  partOfCollectionSlugs: ["book-series/he-who-fights-with-monsters"],
+  partOfCollections: ["book-series/he-who-fights-with-monsters"],
   source: "kindle",
   externalId: "B08XVT2FKW",
   externalLink: "https://amazon.com/dp/B08XVT2FKW",

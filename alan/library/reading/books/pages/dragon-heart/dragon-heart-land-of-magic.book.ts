@@ -12,7 +12,7 @@ export const dragonHeartLandOfMagic = {
   ownLength: 147750,
   ownProgress: 147750,
   publishedAt: "2020-05-28",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B085F2WSKD",
   externalLink: "https://amazon.com/dp/B085F2WSKD",

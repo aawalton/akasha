@@ -5,7 +5,7 @@ export const gordonBHinckley = {
   pageTypeSlug: "author",
   slug: "gordon-b-hinckley",
   title: "Gordon B. Hinckley",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

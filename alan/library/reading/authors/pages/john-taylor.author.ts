@@ -5,7 +5,7 @@ export const johnTaylor = {
   pageTypeSlug: "author",
   slug: "john-taylor",
   title: "John Taylor",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

@@ -11,7 +11,7 @@ export const endsOfMagicAntimage = {
   ownLength: 137000,
   ownProgress: 137000,
   publishedAt: "2023-10-10",
-  partOfCollectionSlugs: ["book-series/ends-of-magic"],
+  partOfCollections: ["book-series/ends-of-magic"],
   source: "kindle",
   externalId: "B0CJBL9RXV",
   externalLink: "https://amazon.com/dp/B0CJBL9RXV",

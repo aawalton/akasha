@@ -5,7 +5,7 @@ export const cSLewis = {
   pageTypeSlug: "author",
   slug: "c-s-lewis",
   title: "C. S. Lewis",
-  partOfCollectionSlugs: ["faith-authors"],
+  partOfCollections: ["faith-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

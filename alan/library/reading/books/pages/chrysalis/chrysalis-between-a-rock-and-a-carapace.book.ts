@@ -11,7 +11,7 @@ export const chrysalisBetweenARockAndACarapace = {
   ownLength: 171000,
   ownProgress: 171000,
   publishedAt: "2023-06-20",
-  partOfCollectionSlugs: ["book-series/chrysalis"],
+  partOfCollections: ["book-series/chrysalis"],
   source: "kindle",
   externalId: "B0BQZ8VN57",
   externalLink: "https://amazon.com/dp/B0BQZ8VN57",

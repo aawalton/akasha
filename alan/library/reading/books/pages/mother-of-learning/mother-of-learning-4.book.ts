@@ -12,7 +12,7 @@ export const motherOfLearning4 = {
   ownLength: 150250,
   ownProgress: 150250,
   publishedAt: "2023-04-04",
-  partOfCollectionSlugs: ["book-series/mother-of-learning"],
+  partOfCollections: ["book-series/mother-of-learning"],
   source: "kindle",
   externalId: "B0BWSCYLRQ",
   externalLink: "https://amazon.com/dp/B0BWSCYLRQ",

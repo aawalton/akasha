@@ -5,7 +5,7 @@ export const crystalSinger = {
   pageTypeSlug: "book-collection",
   slug: "crystal-singer",
   title: "Crystal Singer",
-  partOfCollectionSlugs: ["anne-mccaffrey"],
+  partOfCollections: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

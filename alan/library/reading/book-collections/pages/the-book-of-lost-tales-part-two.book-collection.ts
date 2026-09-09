@@ -5,7 +5,7 @@ export const theBookOfLostTalesPartTwo = {
   pageTypeSlug: "book-collection",
   slug: "the-book-of-lost-tales-part-two",
   title: "The Book of Lost Tales, Part Two",
-  partOfCollectionSlugs: ["the-history-of-middle-earth"],
+  partOfCollections: ["the-history-of-middle-earth"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

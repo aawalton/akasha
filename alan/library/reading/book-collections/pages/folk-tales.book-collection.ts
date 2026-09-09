@@ -5,7 +5,7 @@ export const folkTales = {
   pageTypeSlug: "book-collection",
   slug: "folk-tales",
   title: "Folk Tales",
-  partOfCollectionSlugs: ["classics-collections"],
+  partOfCollections: ["classics-collections"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

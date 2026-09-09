@@ -4,7 +4,7 @@ export const dragonsAndDungeons01014 = {
   id: "01a064bd-7cc9-76b9-8186-4dbcce7ade21",
   pageTypeSlug: "story-turn-played",
   slug: "dragons-and-dungeons-01-014",
-  partOfCollectionSlugs: ["story-played/dragons-and-dungeons"],
+  partOfCollections: ["story-played/dragons-and-dungeons"],
   position: 14,
   ownLength: 1479,
   unitSlug: "words",

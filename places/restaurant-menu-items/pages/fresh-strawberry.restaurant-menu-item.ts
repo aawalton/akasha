@@ -5,7 +5,7 @@ export const freshStrawberry = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "fresh-strawberry",
   title: "Fresh Strawberry",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

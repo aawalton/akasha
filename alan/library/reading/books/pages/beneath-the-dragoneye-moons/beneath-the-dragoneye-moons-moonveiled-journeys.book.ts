@@ -11,7 +11,7 @@ export const beneathTheDragoneyeMoonsMoonveiledJourneys = {
   ownLength: 118750,
   ownProgress: 118750,
   publishedAt: "2025-01-20",
-  partOfCollectionSlugs: ["book-series/beneath-the-dragoneye-moons"],
+  partOfCollections: ["book-series/beneath-the-dragoneye-moons"],
   source: "kindle",
   externalId: "B0DTHV26RJ",
   externalLink: "https://amazon.com/dp/B0DTHV26RJ",

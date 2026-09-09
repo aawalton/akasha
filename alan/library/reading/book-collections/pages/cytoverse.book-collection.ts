@@ -5,7 +5,7 @@ export const cytoverse = {
   pageTypeSlug: "book-collection",
   slug: "cytoverse",
   title: "Cytoverse",
-  partOfCollectionSlugs: ["brandon-sanderson-s-non-cosmere-books"],
+  partOfCollections: ["brandon-sanderson-s-non-cosmere-books"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const thePeoplesOfMiddleEarth = {
   pageTypeSlug: "book-collection",
   slug: "the-peoples-of-middle-earth",
   title: "The Peoples of Middle-earth",
-  partOfCollectionSlugs: ["the-history-of-middle-earth"],
+  partOfCollections: ["the-history-of-middle-earth"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

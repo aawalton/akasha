@@ -5,7 +5,7 @@ export const morgothSRing = {
   pageTypeSlug: "book-collection",
   slug: "morgoth-s-ring",
   title: "Morgoth's Ring",
-  partOfCollectionSlugs: ["the-history-of-middle-earth"],
+  partOfCollections: ["the-history-of-middle-earth"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

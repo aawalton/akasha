@@ -11,7 +11,7 @@ export const chrysalisTheAntventureBegins = {
   ownLength: 166000,
   ownProgress: 166000,
   publishedAt: "2022-06-07",
-  partOfCollectionSlugs: ["book-series/chrysalis"],
+  partOfCollections: ["book-series/chrysalis"],
   source: "kindle",
   externalId: "B09T7ZN7NC",
   externalLink: "https://amazon.com/dp/B09T7ZN7NC",

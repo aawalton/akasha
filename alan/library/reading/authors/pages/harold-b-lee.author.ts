@@ -5,7 +5,7 @@ export const haroldBLee = {
   pageTypeSlug: "author",
   slug: "harold-b-lee",
   title: "Harold B. Lee",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

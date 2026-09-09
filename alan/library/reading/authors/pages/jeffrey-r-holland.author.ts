@@ -5,7 +5,7 @@ export const jeffreyRHolland = {
   pageTypeSlug: "author",
   slug: "jeffrey-r-holland",
   title: "Jeffrey R. Holland",
-  partOfCollectionSlugs: ["apostles"],
+  partOfCollections: ["apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

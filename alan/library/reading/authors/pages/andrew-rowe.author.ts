@@ -5,7 +5,7 @@ export const andrewRowe = {
   pageTypeSlug: "author",
   slug: "andrew-rowe",
   title: "Andrew Rowe",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const berenAndLuthien = {
   pageTypeSlug: "book-collection",
   slug: "beren-and-luthien",
   title: "Beren and Lúthien",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-books"],
+  partOfCollections: ["the-lord-of-the-rings-books"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const americaTheLastBestHope = {
   pageTypeSlug: "book-collection",
   slug: "america-the-last-best-hope",
   title: "America: The Last Best Hope",
-  partOfCollectionSlugs: ["histories-2"],
+  partOfCollections: ["histories-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

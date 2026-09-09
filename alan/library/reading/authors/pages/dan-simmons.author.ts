@@ -5,7 +5,7 @@ export const danSimmons = {
   pageTypeSlug: "author",
   slug: "dan-simmons",
   title: "Dan Simmons",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

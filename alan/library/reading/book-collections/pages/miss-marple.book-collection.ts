@@ -5,7 +5,7 @@ export const missMarple = {
   pageTypeSlug: "book-collection",
   slug: "miss-marple",
   title: "Miss Marple",
-  partOfCollectionSlugs: ["agatha-christie"],
+  partOfCollections: ["agatha-christie"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

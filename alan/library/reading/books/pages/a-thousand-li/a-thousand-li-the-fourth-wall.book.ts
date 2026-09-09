@@ -12,7 +12,7 @@ export const aThousandLiTheFourthWall = {
   ownLength: 116750,
   ownProgress: 116750,
   publishedAt: "2025-07-01",
-  partOfCollectionSlugs: ["book-series/a-thousand-li"],
+  partOfCollections: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B0DL6RRVZP",
   externalLink: "https://amazon.com/dp/B0DL6RRVZP",

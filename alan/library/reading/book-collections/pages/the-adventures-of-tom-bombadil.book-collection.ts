@@ -5,7 +5,7 @@ export const theAdventuresOfTomBombadil = {
   pageTypeSlug: "book-collection",
   slug: "the-adventures-of-tom-bombadil",
   title: "The Adventures of Tom Bombadil",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-books"],
+  partOfCollections: ["the-lord-of-the-rings-books"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

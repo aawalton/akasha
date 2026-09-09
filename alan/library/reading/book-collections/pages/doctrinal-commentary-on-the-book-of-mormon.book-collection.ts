@@ -5,7 +5,7 @@ export const doctrinalCommentaryOnTheBookOfMormon = {
   pageTypeSlug: "book-collection",
   slug: "doctrinal-commentary-on-the-book-of-mormon",
   title: "Doctrinal Commentary on the Book of Mormon",
-  partOfCollectionSlugs: ["faith-collections"],
+  partOfCollections: ["faith-collections"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const lowLiciousCheesecakeWithStrawberries = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "low-licious-cheesecake-with-strawberries",
   title: "Low-Licious Cheesecake with Strawberries",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

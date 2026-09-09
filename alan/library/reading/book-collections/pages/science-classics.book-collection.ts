@@ -5,7 +5,7 @@ export const scienceClassics = {
   pageTypeSlug: "book-collection",
   slug: "science-classics",
   title: "Science Classics",
-  partOfCollectionSlugs: ["classics-collections"],
+  partOfCollections: ["classics-collections"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const craigAlanson = {
   pageTypeSlug: "author",
   slug: "craig-alanson",
   title: "Craig Alanson",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -12,7 +12,7 @@ export const aThousandLiTheFourthStage = {
   ownLength: 109750,
   ownProgress: 109750,
   publishedAt: "2024-03-01",
-  partOfCollectionSlugs: ["book-series/a-thousand-li"],
+  partOfCollections: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B0CDBBCJSJ",
   externalLink: "https://amazon.com/dp/B0CDBBCJSJ",

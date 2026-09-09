@@ -5,7 +5,7 @@ export const herculePoirot = {
   pageTypeSlug: "book-collection",
   slug: "hercule-poirot",
   title: "Hercule Poirot",
-  partOfCollectionSlugs: ["agatha-christie"],
+  partOfCollections: ["agatha-christie"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

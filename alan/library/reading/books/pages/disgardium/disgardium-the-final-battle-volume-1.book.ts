@@ -10,7 +10,7 @@ export const disgardiumTheFinalBattleVolume1 = {
   position: 14,
   ownLength: 136250,
   publishedAt: "2025-04-09",
-  partOfCollectionSlugs: ["book-series/disgardium"],
+  partOfCollections: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B0DYKP2KWM",
   externalLink: "https://amazon.com/dp/B0DYKP2KWM",

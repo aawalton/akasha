@@ -5,7 +5,7 @@ export const lemonMeringueCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "lemon-meringue-cheesecake",
   title: "Lemon Meringue Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

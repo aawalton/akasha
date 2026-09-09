@@ -4,7 +4,7 @@ export const theTower00075 = {
   id: "01a064bd-7ccf-7e35-81bb-de52cdfa8e70",
   pageTypeSlug: "story-turn-played",
   slug: "the-tower-00-075",
-  partOfCollectionSlugs: ["story-played/the-tower"],
+  partOfCollections: ["story-played/the-tower"],
   position: 75,
   ownLength: 517,
   unitSlug: "words",

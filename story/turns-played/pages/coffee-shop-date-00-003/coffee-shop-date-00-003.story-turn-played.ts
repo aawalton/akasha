@@ -4,7 +4,7 @@ export const coffeeShopDate00003 = {
   id: "01a0682a-3e1e-7077-9207-f0d175e4aeaf",
   pageTypeSlug: "story-turn-played",
   slug: "coffee-shop-date-00-003",
-  partOfCollectionSlugs: ["coffee-shop-date"],
+  partOfCollections: ["coffee-shop-date"],
   position: 3,
   ownLength: 104,
   unitSlug: "words",

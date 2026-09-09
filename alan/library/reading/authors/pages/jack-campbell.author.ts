@@ -5,7 +5,7 @@ export const jackCampbell = {
   pageTypeSlug: "author",
   slug: "jack-campbell",
   title: "Jack Campbell",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

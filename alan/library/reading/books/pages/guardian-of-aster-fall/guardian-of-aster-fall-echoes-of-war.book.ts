@@ -11,7 +11,7 @@ export const guardianOfAsterFallEchoesOfWar = {
   ownLength: 133000,
   ownProgress: 133000,
   publishedAt: "2023-08-18",
-  partOfCollectionSlugs: ["book-series/guardian-of-aster-fall"],
+  partOfCollections: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0BYVW3ZTJ",
   externalLink: "https://amazon.com/dp/B0BYVW3ZTJ",

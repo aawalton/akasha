@@ -11,7 +11,7 @@ export const dragonHeartPathToTheUnknown = {
   ownLength: 101750,
   ownProgress: 101750,
   publishedAt: "2021-06-17",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B0915D4VSV",
   externalLink: "https://amazon.com/dp/B0915D4VSV",

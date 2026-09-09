@@ -12,7 +12,7 @@ export const markOfTheFool7 = {
   ownLength: 170000,
   ownProgress: 170000,
   publishedAt: "2024-05-15",
-  partOfCollectionSlugs: ["book-series/mark-of-the-fool"],
+  partOfCollections: ["book-series/mark-of-the-fool"],
   source: "kindle",
   externalId: "B0CT9THG99",
   externalLink: "https://amazon.com/dp/B0CT9THG99",

@@ -5,7 +5,7 @@ export const darkOneSeries = {
   pageTypeSlug: "book-collection",
   slug: "dark-one-series",
   title: "Dark One Series",
-  partOfCollectionSlugs: ["brandon-sanderson-s-non-cosmere-books"],
+  partOfCollections: ["brandon-sanderson-s-non-cosmere-books"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

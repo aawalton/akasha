@@ -12,7 +12,7 @@ export const endsOfMagicAdventurer = {
   ownLength: 111500,
   ownProgress: 111500,
   publishedAt: "2024-01-30",
-  partOfCollectionSlugs: ["book-series/ends-of-magic"],
+  partOfCollections: ["book-series/ends-of-magic"],
   source: "kindle",
   externalId: "B0CKF8FS4Q",
   externalLink: "https://amazon.com/dp/B0CKF8FS4Q",

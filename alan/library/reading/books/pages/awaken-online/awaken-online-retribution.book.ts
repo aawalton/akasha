@@ -12,7 +12,7 @@ export const awakenOnlineRetribution = {
   ownLength: 69250,
   ownProgress: 69250,
   publishedAt: "2017-10-31",
-  partOfCollectionSlugs: ["book-series/awaken-online"],
+  partOfCollections: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B076P2TND4",
   externalLink: "https://amazon.com/dp/B076P2TND4",

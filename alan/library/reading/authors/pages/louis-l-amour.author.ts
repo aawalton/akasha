@@ -5,7 +5,7 @@ export const louisLAmour = {
   pageTypeSlug: "author",
   slug: "louis-l-amour",
   title: "Louis L’Amour",
-  partOfCollectionSlugs: ["westerns-authors"],
+  partOfCollections: ["westerns-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

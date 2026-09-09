@@ -5,7 +5,7 @@ export const travelCollection50States = {
   pageTypeSlug: "travel-collection",
   slug: "travel-collection-50-states",
   title: "50 States",
-  partOfCollectionSlugs: ["travel"],
+  partOfCollections: ["travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -12,7 +12,7 @@ export const dragonHeartSeaOfSorrow = {
   ownLength: 118250,
   ownProgress: 118250,
   publishedAt: "2020-03-11",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B082S3HBHV",
   externalLink: "https://amazon.com/dp/B082S3HBHV",

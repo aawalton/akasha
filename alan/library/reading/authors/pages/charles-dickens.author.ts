@@ -5,7 +5,7 @@ export const charlesDickens = {
   pageTypeSlug: "author",
   slug: "charles-dickens",
   title: "Charles Dickens",
-  partOfCollectionSlugs: ["classics-authors"],
+  partOfCollections: ["classics-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

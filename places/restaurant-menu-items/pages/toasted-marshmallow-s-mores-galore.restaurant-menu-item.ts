@@ -5,7 +5,7 @@ export const toastedMarshmallowSMoresGalore = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "toasted-marshmallow-s-mores-galore",
   title: "Toasted Marshmallow S'mores Galore",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

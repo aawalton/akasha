@@ -5,7 +5,7 @@ export const oreoDreamExtremeCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "oreo-dream-extreme-cheesecake",
   title: "Oreo Dream Extreme Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

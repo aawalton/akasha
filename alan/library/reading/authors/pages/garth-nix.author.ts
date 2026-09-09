@@ -5,7 +5,7 @@ export const garthNix = {
   pageTypeSlug: "author",
   slug: "garth-nix",
   title: "Garth Nix",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

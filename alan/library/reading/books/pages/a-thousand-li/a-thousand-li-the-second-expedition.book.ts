@@ -12,7 +12,7 @@ export const aThousandLiTheSecondExpedition = {
   ownLength: 183500,
   ownProgress: 183500,
   publishedAt: "2020-10-01",
-  partOfCollectionSlugs: ["book-series/a-thousand-li"],
+  partOfCollections: ["book-series/a-thousand-li"],
   source: "kindle",
   externalId: "B08HM79XKF",
   externalLink: "https://amazon.com/dp/B08HM79XKF",

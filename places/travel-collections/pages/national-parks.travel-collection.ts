@@ -5,7 +5,7 @@ export const nationalParks = {
   pageTypeSlug: "travel-collection",
   slug: "national-parks",
   title: "National Parks",
-  partOfCollectionSlugs: ["travel"],
+  partOfCollections: ["travel"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

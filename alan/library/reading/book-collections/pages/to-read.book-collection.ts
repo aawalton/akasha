@@ -5,7 +5,7 @@ export const toRead = {
   pageTypeSlug: "book-collection",
   slug: "to-read",
   title: "To Read",
-  partOfCollectionSlugs: ["book-collections"],
+  partOfCollections: ["book-collections"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -10,7 +10,7 @@ export const disgardiumUnity = {
   position: 12,
   ownLength: 135750,
   publishedAt: "2023-05-17",
-  partOfCollectionSlugs: ["book-series/disgardium"],
+  partOfCollections: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B0BZ65MW45",
   externalLink: "https://amazon.com/dp/B0BZ65MW45",

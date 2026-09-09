@@ -5,7 +5,7 @@ export const jeffersonAndHisTime = {
   pageTypeSlug: "book-collection",
   slug: "jefferson-and-his-time",
   title: "Jefferson & His Time",
-  partOfCollectionSlugs: ["histories-2"],
+  partOfCollections: ["histories-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

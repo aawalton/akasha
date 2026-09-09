@@ -5,7 +5,7 @@ export const loisMcmasterBujold = {
   pageTypeSlug: "author",
   slug: "lois-mcmaster-bujold",
   title: "Lois McMaster Bujold",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

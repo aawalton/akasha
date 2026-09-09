@@ -11,7 +11,7 @@ export const azarinthHealer4 = {
   ownLength: 189000,
   ownProgress: 189000,
   publishedAt: "2024-08-29",
-  partOfCollectionSlugs: ["book-series/azarinth-healer"],
+  partOfCollections: ["book-series/azarinth-healer"],
   source: "kindle",
   externalId: "B0DD7T24K2",
   externalLink: "https://amazon.com/dp/B0DD7T24K2",

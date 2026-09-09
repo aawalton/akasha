@@ -13,7 +13,7 @@ export const chaosSeedsForging = {
   ownLength: 129000,
   ownProgress: 129000,
   publishedAt: "2016-01-18",
-  partOfCollectionSlugs: ["book-series/chaos-seeds"],
+  partOfCollections: ["book-series/chaos-seeds"],
   source: "kindle",
   externalId: "B01ATAN9G2",
   externalLink: "https://amazon.com/dp/B01ATAN9G2",

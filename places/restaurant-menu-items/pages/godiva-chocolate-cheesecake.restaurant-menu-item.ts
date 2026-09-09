@@ -5,7 +5,7 @@ export const godivaChocolateCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "godiva-chocolate-cheesecake",
   title: "Godiva Chocolate Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

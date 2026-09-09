@@ -5,7 +5,7 @@ export const thomasSMonson = {
   pageTypeSlug: "author",
   slug: "thomas-s-monson",
   title: "Thomas S. Monson",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

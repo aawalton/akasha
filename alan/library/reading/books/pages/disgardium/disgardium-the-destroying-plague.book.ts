@@ -11,7 +11,7 @@ export const disgardiumTheDestroyingPlague = {
   ownLength: 128750,
   ownProgress: 128750,
   publishedAt: "2020-01-09",
-  partOfCollectionSlugs: ["book-series/disgardium"],
+  partOfCollections: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B07ZPB3BV6",
   externalLink: "https://amazon.com/dp/B07ZPB3BV6",

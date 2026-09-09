@@ -12,7 +12,7 @@ export const endsOfMagicAssassin = {
   ownLength: 99500,
   ownProgress: 99500,
   publishedAt: "2024-05-15",
-  partOfCollectionSlugs: ["book-series/ends-of-magic"],
+  partOfCollections: ["book-series/ends-of-magic"],
   source: "kindle",
   externalId: "B0CTCCKYGQ",
   externalLink: "https://amazon.com/dp/B0CTCCKYGQ",

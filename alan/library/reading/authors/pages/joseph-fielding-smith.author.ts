@@ -5,7 +5,7 @@ export const josephFieldingSmith = {
   pageTypeSlug: "author",
   slug: "joseph-fielding-smith",
   title: "Joseph Fielding Smith",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const wilfordWoodruff = {
   pageTypeSlug: "author",
   slug: "wilford-woodruff",
   title: "Wilford Woodruff",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

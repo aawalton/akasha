@@ -5,7 +5,7 @@ export const planetPirates = {
   pageTypeSlug: "book-collection",
   slug: "planet-pirates",
   title: "Planet Pirates",
-  partOfCollectionSlugs: ["anne-mccaffrey"],
+  partOfCollections: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

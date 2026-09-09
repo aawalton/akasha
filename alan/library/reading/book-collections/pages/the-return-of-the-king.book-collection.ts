@@ -5,7 +5,7 @@ export const theReturnOfTheKing = {
   pageTypeSlug: "book-collection",
   slug: "the-return-of-the-king",
   title: "The Return of the King",
-  partOfCollectionSlugs: ["the-lord-of-the-rings"],
+  partOfCollections: ["the-lord-of-the-rings"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

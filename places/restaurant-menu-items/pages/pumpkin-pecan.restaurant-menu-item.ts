@@ -5,7 +5,7 @@ export const pumpkinPecan = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "pumpkin-pecan",
   title: "Pumpkin Pecan",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

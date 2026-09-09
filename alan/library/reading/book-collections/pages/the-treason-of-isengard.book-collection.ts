@@ -5,7 +5,7 @@ export const theTreasonOfIsengard = {
   pageTypeSlug: "book-collection",
   slug: "the-treason-of-isengard",
   title: "The Treason of Isengard",
-  partOfCollectionSlugs: ["the-history-of-middle-earth"],
+  partOfCollections: ["the-history-of-middle-earth"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

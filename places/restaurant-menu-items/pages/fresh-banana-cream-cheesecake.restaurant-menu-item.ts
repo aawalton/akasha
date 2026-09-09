@@ -5,7 +5,7 @@ export const freshBananaCreamCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "fresh-banana-cream-cheesecake",
   title: "Fresh Banana Cream Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

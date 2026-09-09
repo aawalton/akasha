@@ -5,7 +5,7 @@ export const robertJordan = {
   pageTypeSlug: "author",
   slug: "robert-jordan",
   title: "Robert Jordan",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

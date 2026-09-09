@@ -5,7 +5,7 @@ export const histories = {
   pageTypeSlug: "book-collection",
   slug: "histories",
   title: "Histories",
-  partOfCollectionSlugs: ["the-joseph-smith-papers"],
+  partOfCollections: ["the-joseph-smith-papers"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const talent = {
   pageTypeSlug: "book-collection",
   slug: "talent",
   title: "Talent",
-  partOfCollectionSlugs: ["anne-mccaffrey"],
+  partOfCollections: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

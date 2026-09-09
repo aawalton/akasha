@@ -5,7 +5,7 @@ export const jamesETalmage = {
   pageTypeSlug: "book-collection",
   slug: "james-e-talmage",
   title: "James E. Talmage",
-  partOfCollectionSlugs: ["apostles"],
+  partOfCollections: ["apostles"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

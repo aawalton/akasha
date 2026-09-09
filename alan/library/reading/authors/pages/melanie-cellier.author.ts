@@ -5,7 +5,7 @@ export const melanieCellier = {
   pageTypeSlug: "author",
   slug: "melanie-cellier",
   title: "Melanie Cellier",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

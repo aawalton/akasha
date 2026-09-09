@@ -5,7 +5,7 @@ export const theTwoTowers = {
   pageTypeSlug: "book-collection",
   slug: "the-two-towers",
   title: "The Two Towers",
-  partOfCollectionSlugs: ["the-lord-of-the-rings"],
+  partOfCollections: ["the-lord-of-the-rings"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

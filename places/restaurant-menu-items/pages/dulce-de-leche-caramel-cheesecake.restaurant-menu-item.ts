@@ -5,7 +5,7 @@ export const dulceDeLecheCaramelCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "dulce-de-leche-caramel-cheesecake",
   title: "Dulce de Leche Caramel Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

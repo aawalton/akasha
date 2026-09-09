@@ -11,7 +11,7 @@ export const bushidoOnlineFriendsAndFoes = {
   ownLength: 130000,
   ownProgress: 130000,
   publishedAt: "2018-02-01",
-  partOfCollectionSlugs: ["book-series/bushido-online"],
+  partOfCollections: ["book-series/bushido-online"],
   source: "kindle",
   externalId: "B078TS4XPG",
   externalLink: "https://amazon.com/dp/B078TS4XPG",

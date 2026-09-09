@@ -5,7 +5,7 @@ export const chocolateMousseCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "chocolate-mousse-cheesecake",
   title: "Chocolate Mousse Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

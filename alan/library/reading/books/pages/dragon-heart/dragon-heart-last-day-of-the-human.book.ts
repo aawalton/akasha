@@ -11,7 +11,7 @@ export const dragonHeartLastDayOfTheHuman = {
   position: 20,
   ownLength: 128250,
   publishedAt: "2023-11-16",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B0CBD1FBG1",
   externalLink: "https://amazon.com/dp/B0CBD1FBG1",

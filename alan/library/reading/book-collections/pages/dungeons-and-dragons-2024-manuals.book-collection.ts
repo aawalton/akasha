@@ -5,7 +5,7 @@ export const dungeonsAndDragons2024Manuals = {
   pageTypeSlug: "book-collection",
   slug: "dungeons-and-dragons-2024-manuals",
   title: "Dungeons and Dragons 2024 Manuals",
-  partOfCollectionSlugs: ["dungeons-and-dragons"],
+  partOfCollections: ["dungeons-and-dragons"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

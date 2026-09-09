@@ -5,7 +5,7 @@ export const harryPotterBooks = {
   pageTypeSlug: "book-collection",
   slug: "harry-potter-books",
   title: "Harry Potter Books",
-  partOfCollectionSlugs: ["harry-potter"],
+  partOfCollections: ["harry-potter"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

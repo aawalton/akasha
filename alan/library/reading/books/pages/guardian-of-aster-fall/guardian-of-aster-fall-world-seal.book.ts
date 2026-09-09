@@ -11,7 +11,7 @@ export const guardianOfAsterFallWorldSeal = {
   ownLength: 119500,
   ownProgress: 119500,
   publishedAt: "2024-03-16",
-  partOfCollectionSlugs: ["book-series/guardian-of-aster-fall"],
+  partOfCollections: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B0CG15JTYB",
   externalLink: "https://amazon.com/dp/B0CG15JTYB",

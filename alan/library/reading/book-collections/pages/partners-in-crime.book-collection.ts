@@ -5,7 +5,7 @@ export const partnersInCrime = {
   pageTypeSlug: "book-collection",
   slug: "partners-in-crime",
   title: "Partners in Crime",
-  partOfCollectionSlugs: ["tommy-and-tuppence"],
+  partOfCollections: ["tommy-and-tuppence"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

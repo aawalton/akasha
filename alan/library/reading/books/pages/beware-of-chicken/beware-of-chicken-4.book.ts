@@ -12,7 +12,7 @@ export const bewareOfChicken4 = {
   ownLength: 181000,
   ownProgress: 181000,
   publishedAt: "2024-11-19",
-  partOfCollectionSlugs: ["book-series/beware-of-chicken"],
+  partOfCollections: ["book-series/beware-of-chicken"],
   source: "kindle",
   externalId: "B0CYZSLDJL",
   externalLink: "https://amazon.com/dp/B0CYZSLDJL",

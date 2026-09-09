@@ -5,7 +5,7 @@ export const humanxCommonwealth = {
   pageTypeSlug: "book-collection",
   slug: "humanx-commonwealth",
   title: "Humanx Commonwealth",
-  partOfCollectionSlugs: ["alan-dean-foster"],
+  partOfCollections: ["alan-dean-foster"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

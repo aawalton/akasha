@@ -5,7 +5,7 @@ export const acornaSChildren = {
   pageTypeSlug: "book-collection",
   slug: "acorna-s-children",
   title: "Acorna's Children",
-  partOfCollectionSlugs: ["anne-mccaffrey"],
+  partOfCollections: ["anne-mccaffrey"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

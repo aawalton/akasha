@@ -5,7 +5,7 @@ export const davidWeber = {
   pageTypeSlug: "author",
   slug: "david-weber",
   title: "David Weber",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -11,7 +11,7 @@ export const dungeonCrawlerCarlTheDungeonAnarchistsCookbook = {
   position: 3,
   ownLength: 133500,
   publishedAt: "2021-04-02",
-  partOfCollectionSlugs: ["book-series/dungeon-crawler-carl"],
+  partOfCollections: ["book-series/dungeon-crawler-carl"],
   source: "kindle",
   externalId: "B08V4QSV6W",
   externalLink: "https://amazon.com/dp/B08V4QSV6W",

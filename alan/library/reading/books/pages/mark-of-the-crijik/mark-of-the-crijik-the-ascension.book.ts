@@ -10,7 +10,7 @@ export const markOfTheCrijikTheAscension = {
   position: 5,
   ownLength: 169500,
   publishedAt: "2024-03-06",
-  partOfCollectionSlugs: ["book-series/mark-of-the-crijik"],
+  partOfCollections: ["book-series/mark-of-the-crijik"],
   source: "kindle",
   externalId: "B0CK58ZS4S",
   externalLink: "https://amazon.com/dp/B0CK58ZS4S",

@@ -5,7 +5,7 @@ export const foundingOfTheCommonwealth = {
   pageTypeSlug: "book-collection",
   slug: "founding-of-the-commonwealth",
   title: "Founding of the Commonwealth",
-  partOfCollectionSlugs: ["alan-dean-foster"],
+  partOfCollections: ["alan-dean-foster"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

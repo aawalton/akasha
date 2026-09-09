@@ -5,7 +5,7 @@ export const spencerWKimball = {
   pageTypeSlug: "author",
   slug: "spencer-w-kimball",
   title: "Spencer W. Kimball",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

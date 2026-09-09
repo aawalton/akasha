@@ -5,7 +5,7 @@ export const jamesWhite = {
   pageTypeSlug: "author",
   slug: "james-white",
   title: "James White",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

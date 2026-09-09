@@ -5,7 +5,7 @@ export const terryPratchett = {
   pageTypeSlug: "author",
   slug: "terry-pratchett",
   title: "Terry Pratchett",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

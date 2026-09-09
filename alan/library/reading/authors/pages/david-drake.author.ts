@@ -5,7 +5,7 @@ export const davidDrake = {
   pageTypeSlug: "author",
   slug: "david-drake",
   title: "David Drake",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

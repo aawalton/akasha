@@ -5,7 +5,7 @@ export const teachingsOfJosephFieldingSmith = {
   pageTypeSlug: "book-collection",
   slug: "teachings-of-joseph-fielding-smith",
   title: "Teachings of Joseph Fielding Smith",
-  partOfCollectionSlugs: ["joseph-fielding-smith"],
+  partOfCollections: ["joseph-fielding-smith"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

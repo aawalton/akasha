@@ -10,7 +10,7 @@ export const disgardiumTheDemonicGames = {
   position: 7,
   ownLength: 133750,
   publishedAt: "2021-05-18",
-  partOfCollectionSlugs: ["book-series/disgardium"],
+  partOfCollections: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B08VJK7PY3",
   externalLink: "https://amazon.com/dp/B08VJK7PY3",

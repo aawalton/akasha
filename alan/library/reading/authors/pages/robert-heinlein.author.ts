@@ -5,7 +5,7 @@ export const robertHeinlein = {
   pageTypeSlug: "author",
   slug: "robert-heinlein",
   title: "Robert Heinlein",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -11,7 +11,7 @@ export const bushidoOnlineWarGames = {
   ownLength: 152250,
   ownProgress: 152250,
   publishedAt: "2019-03-03",
-  partOfCollectionSlugs: ["book-series/bushido-online"],
+  partOfCollections: ["book-series/bushido-online"],
   source: "kindle",
   externalId: "B07PCW31GN",
   externalLink: "https://amazon.com/dp/B07PCW31GN",

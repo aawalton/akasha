@@ -12,7 +12,7 @@ export const aTouchOfPowerSense = {
   ownLength: 121500,
   ownProgress: 121500,
   publishedAt: "2025-06-25",
-  partOfCollectionSlugs: ["book-series/a-touch-of-power"],
+  partOfCollections: ["book-series/a-touch-of-power"],
   source: "kindle",
   externalId: "B0FFR6LRG3",
   externalLink: "https://amazon.com/dp/B0FFR6LRG3",

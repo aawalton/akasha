@@ -5,7 +5,7 @@ export const milesVorkosiganNovellas = {
   pageTypeSlug: "book-collection",
   slug: "miles-vorkosigan-novellas",
   title: "Miles Vorkosigan Novellas",
-  partOfCollectionSlugs: ["lois-mcmaster-bujold"],
+  partOfCollections: ["lois-mcmaster-bujold"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

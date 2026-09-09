@@ -5,7 +5,7 @@ export const saints = {
   pageTypeSlug: "book-collection",
   slug: "saints",
   title: "Saints",
-  partOfCollectionSlugs: ["histories-3"],
+  partOfCollections: ["histories-3"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

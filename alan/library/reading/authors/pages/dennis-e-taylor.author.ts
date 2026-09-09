@@ -5,7 +5,7 @@ export const dennisETaylor = {
   pageTypeSlug: "author",
   slug: "dennis-e-taylor",
   title: "Dennis E. Taylor",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

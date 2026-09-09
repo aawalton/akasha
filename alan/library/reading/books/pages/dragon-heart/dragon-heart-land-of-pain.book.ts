@@ -12,7 +12,7 @@ export const dragonHeartLandOfPain = {
   ownLength: 99750,
   ownProgress: 99750,
   publishedAt: "2021-01-07",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B08KY9LH1W",
   externalLink: "https://amazon.com/dp/B08KY9LH1W",

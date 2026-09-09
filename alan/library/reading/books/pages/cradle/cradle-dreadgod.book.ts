@@ -12,7 +12,7 @@ export const cradleDreadgod = {
   ownLength: 121500,
   ownProgress: 121500,
   publishedAt: "2022-07-05",
-  partOfCollectionSlugs: ["book-series/cradle"],
+  partOfCollections: ["book-series/cradle"],
   source: "kindle",
   externalId: "B0B4MY8PN8",
   externalLink: "https://amazon.com/dp/B0B4MY8PN8",

@@ -11,7 +11,7 @@ export const disgardiumApostleOfTheSleepingGods = {
   ownLength: 141250,
   ownProgress: 141250,
   publishedAt: "2019-06-10",
-  partOfCollectionSlugs: ["book-series/disgardium"],
+  partOfCollections: ["book-series/disgardium"],
   source: "kindle",
   externalId: "B07Q15DWNC",
   externalLink: "https://amazon.com/dp/B07Q15DWNC",

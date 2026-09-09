@@ -5,7 +5,7 @@ export const anneMccaffrey = {
   pageTypeSlug: "author",
   slug: "anne-mccaffrey",
   title: "Anne McCaffrey",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

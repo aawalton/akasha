@@ -5,7 +5,7 @@ export const brighamYoung = {
   pageTypeSlug: "author",
   slug: "brigham-young",
   title: "Brigham Young",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

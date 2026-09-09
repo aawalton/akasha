@@ -5,7 +5,7 @@ export const commentaries = {
   pageTypeSlug: "book-collection",
   slug: "commentaries",
   title: "Commentaries",
-  partOfCollectionSlugs: ["history-collections"],
+  partOfCollections: ["history-collections"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

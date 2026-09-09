@@ -12,7 +12,7 @@ export const dragonHeartStoneWill = {
   ownLength: 104500,
   ownProgress: 104500,
   publishedAt: "2019-03-22",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B07NKGQ7RJ",
   externalLink: "https://amazon.com/dp/B07NKGQ7RJ",

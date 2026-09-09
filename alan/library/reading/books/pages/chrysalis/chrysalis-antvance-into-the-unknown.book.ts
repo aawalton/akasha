@@ -11,7 +11,7 @@ export const chrysalisAntvanceIntoTheUnknown = {
   ownLength: 188000,
   ownProgress: 188000,
   publishedAt: "2024-09-11",
-  partOfCollectionSlugs: ["book-series/chrysalis"],
+  partOfCollections: ["book-series/chrysalis"],
   source: "kindle",
   externalId: "B0D94PLGPC",
   externalLink: "https://amazon.com/dp/B0D94PLGPC",

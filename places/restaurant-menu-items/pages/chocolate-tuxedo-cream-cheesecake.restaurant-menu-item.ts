@@ -5,7 +5,7 @@ export const chocolateTuxedoCreamCheesecake = {
   pageTypeSlug: "restaurant-menu-item",
   slug: "chocolate-tuxedo-cream-cheesecake",
   title: "Chocolate Tuxedo Cream Cheesecake",
-  partOfCollectionSlugs: ["cheesecake-factory-cheescakes"],
+  partOfCollections: ["cheesecake-factory-cheescakes"],
   position: 0,
   ownLength: 3750,
   ownProgress: 0,

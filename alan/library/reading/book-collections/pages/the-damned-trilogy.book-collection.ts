@@ -5,7 +5,7 @@ export const theDamnedTrilogy = {
   pageTypeSlug: "book-collection",
   slug: "the-damned-trilogy",
   title: "The Damned Trilogy",
-  partOfCollectionSlugs: ["alan-dean-foster"],
+  partOfCollections: ["alan-dean-foster"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

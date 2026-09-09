@@ -10,7 +10,7 @@ export const hellDifficultyTutorial4 = {
   position: 4,
   ownLength: 180500,
   publishedAt: "2025-03-12",
-  partOfCollectionSlugs: ["book-series/hell-difficulty-tutorial"],
+  partOfCollections: ["book-series/hell-difficulty-tutorial"],
   source: "kindle",
   externalId: "B0DNNHGZ1H",
   externalLink: "https://amazon.com/dp/B0DNNHGZ1H",

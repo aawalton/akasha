@@ -12,7 +12,7 @@ export const alexaThymeSuitingUp = {
   ownLength: 113000,
   ownProgress: 113000,
   publishedAt: "2024-04-27",
-  partOfCollectionSlugs: ["book-series/alexa-thyme"],
+  partOfCollections: ["book-series/alexa-thyme"],
   source: "kindle",
   externalId: "B0D2WPW5PS",
   externalLink: "https://amazon.com/dp/B0D2WPW5PS",

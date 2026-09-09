@@ -5,7 +5,7 @@ export const russellMNelson = {
   pageTypeSlug: "author",
   slug: "russell-m-nelson",
   title: "Russell M. Nelson",
-  partOfCollectionSlugs: ["prophets"],
+  partOfCollections: ["prophets"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

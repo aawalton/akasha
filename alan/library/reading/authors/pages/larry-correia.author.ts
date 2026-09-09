@@ -5,7 +5,7 @@ export const larryCorreia = {
   pageTypeSlug: "author",
   slug: "larry-correia",
   title: "Larry Correia",
-  partOfCollectionSlugs: ["fantasy-authors"],
+  partOfCollections: ["fantasy-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

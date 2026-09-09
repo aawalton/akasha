@@ -5,7 +5,7 @@ export const iainMBanks = {
   pageTypeSlug: "author",
   slug: "iain-m-banks",
   title: "Iain M. Banks",
-  partOfCollectionSlugs: ["science-fiction-authors"],
+  partOfCollections: ["science-fiction-authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

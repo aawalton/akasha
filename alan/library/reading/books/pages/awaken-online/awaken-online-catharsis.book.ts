@@ -12,7 +12,7 @@ export const awakenOnlineCatharsis = {
   ownLength: 131750,
   ownProgress: 131750,
   publishedAt: "2016-07-23",
-  partOfCollectionSlugs: ["book-series/awaken-online"],
+  partOfCollections: ["book-series/awaken-online"],
   source: "kindle",
   externalId: "B01J0E8Z8A",
   externalLink: "https://amazon.com/dp/B01J0E8Z8A",

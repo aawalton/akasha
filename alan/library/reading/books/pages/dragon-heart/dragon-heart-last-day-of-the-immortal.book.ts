@@ -10,7 +10,7 @@ export const dragonHeartLastDayOfTheImmortal = {
   position: 21,
   ownLength: 127000,
   publishedAt: "2024-04-10",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B0CN3W7661",
   externalLink: "https://www.amazon.com/dp/B0CN3W7661",

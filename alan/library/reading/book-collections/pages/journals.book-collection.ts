@@ -5,7 +5,7 @@ export const journals = {
   pageTypeSlug: "book-collection",
   slug: "journals",
   title: "Journals",
-  partOfCollectionSlugs: ["the-joseph-smith-papers"],
+  partOfCollections: ["the-joseph-smith-papers"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

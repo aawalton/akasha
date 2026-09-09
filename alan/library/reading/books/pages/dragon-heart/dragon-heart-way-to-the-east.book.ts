@@ -12,7 +12,7 @@ export const dragonHeartWayToTheEast = {
   ownLength: 104250,
   ownProgress: 104250,
   publishedAt: "2022-12-07",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B0BCK9YB8L",
   externalLink: "https://amazon.com/dp/B0BCK9YB8L",

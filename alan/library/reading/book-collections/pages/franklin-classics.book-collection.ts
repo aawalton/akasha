@@ -5,7 +5,7 @@ export const franklinClassics = {
   pageTypeSlug: "book-collection",
   slug: "franklin-classics",
   title: "Franklin Classics",
-  partOfCollectionSlugs: ["classics-collections"],
+  partOfCollections: ["classics-collections"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

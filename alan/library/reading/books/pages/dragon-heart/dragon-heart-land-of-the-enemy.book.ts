@@ -11,7 +11,7 @@ export const dragonHeartLandOfTheEnemy = {
   ownLength: 90750,
   ownProgress: 90750,
   publishedAt: "2020-10-22",
-  partOfCollectionSlugs: ["book-series/dragon-heart"],
+  partOfCollections: ["book-series/dragon-heart"],
   source: "kindle",
   externalId: "B08F291JJS",
   externalLink: "https://amazon.com/dp/B08F291JJS",

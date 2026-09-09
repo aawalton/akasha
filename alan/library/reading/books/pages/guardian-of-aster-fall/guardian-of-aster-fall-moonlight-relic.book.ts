@@ -12,7 +12,7 @@ export const guardianOfAsterFallMoonlightRelic = {
   ownLength: 111250,
   ownProgress: 111250,
   publishedAt: "2022-06-21",
-  partOfCollectionSlugs: ["book-series/guardian-of-aster-fall"],
+  partOfCollections: ["book-series/guardian-of-aster-fall"],
   source: "kindle",
   externalId: "B09W7BQB41",
   externalLink: "https://amazon.com/dp/B09W7BQB41",
