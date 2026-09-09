@@ -9,7 +9,7 @@ export const arkendrithyst0372AGrandTimelineOfEvents = {
   position: 372,
   ownLength: 2196,
   ownProgress: 2196,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:20:39.955Z",
   publishedAt: "2023-01-22",
   externalLink:

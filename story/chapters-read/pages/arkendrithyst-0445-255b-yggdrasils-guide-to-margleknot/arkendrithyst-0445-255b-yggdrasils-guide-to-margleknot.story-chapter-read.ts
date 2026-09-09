@@ -7,7 +7,7 @@ export const arkendrithyst0445255bYggdrasilsGuideToMargleknot = {
   story: "story-read/arkendrithyst",
   position: 445,
   publishedAt: "2023-10-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1372414",
   source: "royal-road",
   title: "255b, Yggdrasil's Guide to Margleknot",

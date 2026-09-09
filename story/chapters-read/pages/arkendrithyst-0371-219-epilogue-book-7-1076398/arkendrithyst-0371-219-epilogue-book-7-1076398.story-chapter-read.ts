@@ -7,7 +7,7 @@ export const arkendrithyst0371219EpilogueBook71076398 = {
   story: "story-read/arkendrithyst",
   position: 371,
   publishedAt: "2023-01-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1076398",
   source: "royal-road",
   title: "219, Epilogue Book 7",

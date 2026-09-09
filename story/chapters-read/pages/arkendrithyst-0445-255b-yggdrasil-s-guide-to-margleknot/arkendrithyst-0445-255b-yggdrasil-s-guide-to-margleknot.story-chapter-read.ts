@@ -9,7 +9,7 @@ export const arkendrithyst0445255bYggdrasilSGuideToMargleknot = {
   position: 445,
   ownLength: 2177,
   ownProgress: 2177,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:23:33.915Z",
   publishedAt: "2023-10-13",
   externalLink:

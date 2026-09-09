@@ -9,7 +9,7 @@ export const arkendrithyst044025322EndOfBook8 = {
   position: 440,
   ownLength: 8308,
   ownProgress: 8308,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:23:22.752Z",
   publishedAt: "2023-09-13",
   externalLink:

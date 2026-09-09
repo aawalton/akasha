@@ -7,7 +7,7 @@ export const arkendrithyst032219412StartBook7 = {
   story: "story-read/arkendrithyst",
   position: 322,
   publishedAt: "2022-07-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "945977",
   source: "royal-road",
   title: "194, 1/2 - Start Book 7",

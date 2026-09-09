@@ -7,7 +7,7 @@ export const arkendrithyst0372AGrandTimelineOfEvents1093963 = {
   story: "story-read/arkendrithyst",
   position: 372,
   publishedAt: "2023-01-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1093963",
   source: "royal-road",
   title: "A Grand Timeline of Events",

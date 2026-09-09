@@ -7,7 +7,7 @@ export const arkendrithyst032019222EndOfBook6 = {
   story: "story-read/arkendrithyst",
   position: 320,
   publishedAt: "2022-06-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "933444",
   source: "royal-road",
   title: "192, 2/2 End of Book 6",

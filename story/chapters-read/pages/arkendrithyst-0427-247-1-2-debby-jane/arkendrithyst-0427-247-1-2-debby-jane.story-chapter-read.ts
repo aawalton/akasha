@@ -9,7 +9,7 @@ export const arkendrithyst042724712DebbyJane = {
   position: 427,
   ownLength: 12983,
   ownProgress: 12983,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:22:51.001Z",
   publishedAt: "2023-07-30",
   externalLink:
