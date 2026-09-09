@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const locationTraceMayBelongAsDayRows = {
+  id: "01a0683c-2a55-7412-8b3f-833d11e93320",
+  pageTypeSlug: "finding",
+  slug: "location-trace-may-belong-as-day-rows",
+  domain: "domain/track",
+  claim:
+    "`location-trace` and `health-sample` are the same shape, phone readings filed on the day each was taken, and akasha carries them apart. `health-sample` is a `page-property-entry` on `day` with live `.jsonl` sidecars beside each day page. Nothing anywhere carried `location-trace`, so I minted it as a page type to unblock its 16 property definitions. Those 16 may instead belong as the properties of a `location-traces` entry on `day`, which would make the page type a step on the way rather than the destination.",
+  evidence:
+    "`akasha/health-samples-access/sample-rows/sample-rows.module.code.ts:3` sets `ANCHOR_PAGE_TYPE = \"eso-day\"` and names no row page type. `akasha/location-traces-access/trace-rows/trace-rows.module.code.ts:3-7` sets the same anchor plus `ROW_PAGE_TYPE = \"location-trace\"`, and its `rowValuesOf` builds `device-id`, `client-seq`, `captured-at`, `latitude`, `longitude` and eleven more keys that match the 16 files under `pages/page-property-definition/location-trace-*.page-property-definition.md` key for key.\n\n`akasha/alan/tracking/daily/eso-days/eso-day.page-type.ts:29-30` names `page-property-entry/health-samples` and `page-property-entry/listens` and no trace entry. `find akasha -name '*.page-property-entry.ts'` returns 46 files and none is for traces. `find akasha -name '*.jsonl'` returns 238 `.health-samples.jsonl` files and no trace file. The absence of `location-trace` was total rather than a row-carry I read past.\n\nThe finding `nothing-has-ever-kept-a-location-trace` records that `pages/page-property-definition/eso-daily-tracking-location-traces.page-property-definition.md` already declares an entry destination on the ESO day, which is the entry shape rather than the page-type shape.\n\nI landed `akasha/alan/tracking/location-traces/location-trace.page-type.ts` and registered `page-type/location-trace` on `akasha/alan/tracking/tracking.domain.ts`. Its first invariant says a trace stands as a row on the ESO day it was captured in, so the page type states the row shape without holding one.\n\nThe paths above are the paths of the day this was measured. The ESO day page type has gone since, its rows folded onto the day page of the same date, so the entry destination named here is the day page.",
+} as const satisfies Finding
