@@ -13,14 +13,14 @@ import {
   type ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { buildManagementPlan } from "@akasha/temper-items-rules-routing/inventory-management-plan"
-import { applyDestinationCapacityFilter } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,
   createAllRuleAffectedItemsCache,
 } from "akasha/temper/items-rules-matcher/inventory-rule-matcher-cache/inventory-rule-matcher-cache.module.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { buildManagementPlan } from "akasha/temper/temper-items-rules-routing/inventory-management-plan/inventory-management-plan.module.code.ts"
+import { applyDestinationCapacityFilter } from "akasha/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { useMemo, useRef } from "react"
 
 export interface InventoryRulesTabAffectedItems {

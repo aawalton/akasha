@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemsRulesRouting = {
   id: "01a0615a-a1de-7f51-9fb6-fb90ff022184",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-items-rules-routing",
   definition: "a whole management session planned out of the rules and the captured holdings",
-  manifest: "json",
   parts: [
     "module/inventory-management-plan",
     "module/inventory-management-plan-buy",
@@ -31,4 +30,4 @@ export const temperItemsRulesRouting = {
       statement: "No code here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

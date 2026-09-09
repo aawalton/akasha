@@ -61,7 +61,6 @@
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/temper-items-rules-routing": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
@@ -1416,15 +1415,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-items-rules-routing": {
-      "name": "@akasha/temper-items-rules-routing",
-      "dependencies": {
-        "@akasha/temper-items-core": "workspace:*",
-        "@akasha/temper-items-rules-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "fast-check": "^4.5.3",
-      },
-    },
     "temper/temper-lib-addon-menu": {
       "name": "@akasha/temper-lib-addon-menu",
     },
@@ -1856,8 +1846,6 @@
     "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:temper/temper-items-rules-core"],
 
     "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:temper/items-rules-eval"],
-
-    "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:temper/temper-items-rules-routing"],
 
     "@akasha/temper-keybinder-addon": ["@akasha/temper-keybinder-addon@workspace:temper/keybinder-addon"],
 
