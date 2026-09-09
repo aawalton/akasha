@@ -5,7 +5,7 @@ export const godOfTrash0149149EvilLaurent = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0149-149-evil-laurent",
   title: "149. Evil Laurent",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 149,
   ownLength: 2202,
   unitSlug: "words",

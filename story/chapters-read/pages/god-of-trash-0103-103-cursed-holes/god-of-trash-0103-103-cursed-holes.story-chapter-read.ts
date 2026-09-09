@@ -5,7 +5,7 @@ export const godOfTrash0103103CursedHoles = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0103-103-cursed-holes",
   title: "103. Cursed Holes",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 103,
   ownLength: 2393,
   unitSlug: "words",

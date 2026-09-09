@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0001Chapter1StrangeBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0001-chapter-1-strange-business",
   title: "Chapter 1: Strange Business",
-  partOfCollectionSlugs: ["story-read/he-who-fights-with-monsters"],
+  storySlug: "story-read/he-who-fights-with-monsters",
   position: 1,
   ownLength: 2161,
   ownProgress: 2161,

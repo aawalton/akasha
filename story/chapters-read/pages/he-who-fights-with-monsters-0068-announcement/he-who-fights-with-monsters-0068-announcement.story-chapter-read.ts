@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0068Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0068-announcement",
   title: "Announcement",
-  partOfCollectionSlugs: ["story-read/he-who-fights-with-monsters"],
+  storySlug: "story-read/he-who-fights-with-monsters",
   position: 68,
   ownLength: 43,
   unitSlug: "words",

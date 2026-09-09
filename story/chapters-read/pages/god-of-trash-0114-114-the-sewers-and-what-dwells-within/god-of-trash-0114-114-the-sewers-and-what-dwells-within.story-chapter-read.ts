@@ -5,7 +5,7 @@ export const godOfTrash0114114TheSewersAndWhatDwellsWithin = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0114-114-the-sewers-and-what-dwells-within",
   title: "114. The Sewers and What Dwells Within",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 114,
   ownLength: 2583,
   unitSlug: "words",

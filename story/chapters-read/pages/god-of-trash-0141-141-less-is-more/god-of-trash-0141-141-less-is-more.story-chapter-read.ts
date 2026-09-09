@@ -5,7 +5,7 @@ export const godOfTrash0141141LessIsMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0141-141-less-is-more",
   title: "141. Less is More",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 141,
   ownLength: 2068,
   unitSlug: "words",

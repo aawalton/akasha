@@ -5,7 +5,7 @@ export const godOfTrash0169169AdeliseInfernon = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0169-169-adelise-infernon",
   title: "169. Adelise Infernon",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 169,
   ownLength: 1979,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0184184CriminalCores = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0184-184-criminal-cores",
   title: "184. Criminal Cores",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 184,
   ownLength: 1795,
   unitSlug: "words",

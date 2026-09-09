@@ -5,7 +5,7 @@ export const godOfTrash0160160TossingTension = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0160-160-tossing-tension",
   title: "160. Tossing Tension",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 160,
   ownLength: 2025,
   unitSlug: "words",

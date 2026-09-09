@@ -5,7 +5,7 @@ export const godOfTrash0124124EyesFullOfVengeance = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0124-124-eyes-full-of-vengeance",
   title: "124. Eyes Full of Vengeance",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 124,
   ownLength: 2155,
   unitSlug: "words",

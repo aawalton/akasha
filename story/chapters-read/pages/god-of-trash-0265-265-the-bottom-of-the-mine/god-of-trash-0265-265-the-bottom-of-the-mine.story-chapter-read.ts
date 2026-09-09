@@ -5,7 +5,7 @@ export const godOfTrash0265265TheBottomOfTheMine = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0265-265-the-bottom-of-the-mine",
   title: "265. The Bottom of the Mine",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 265,
   ownLength: 2138,
   unitSlug: "words",

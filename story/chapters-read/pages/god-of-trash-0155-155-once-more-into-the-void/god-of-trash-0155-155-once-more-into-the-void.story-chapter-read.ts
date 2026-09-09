@@ -5,7 +5,7 @@ export const godOfTrash0155155OnceMoreIntoTheVoid = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0155-155-once-more-into-the-void",
   title: "155. Once More Into the Void",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 155,
   ownLength: 2081,
   unitSlug: "words",

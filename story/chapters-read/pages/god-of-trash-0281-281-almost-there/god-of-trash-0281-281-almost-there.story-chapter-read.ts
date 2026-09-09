@@ -5,7 +5,7 @@ export const godOfTrash0281281AlmostThere = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0281-281-almost-there",
   title: "281. Almost There",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 281,
   ownLength: 2182,
   unitSlug: "words",

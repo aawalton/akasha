@@ -5,7 +5,7 @@ export const godOfTrash0296296ProcrastinationDestination = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0296-296-procrastination-destination",
   title: "296. Procrastination Destination",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 296,
   ownLength: 1930,
   unitSlug: "words",

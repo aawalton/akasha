@@ -5,7 +5,7 @@ export const godOfTrash0215215TakingOnTheAlliance = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0215-215-taking-on-the-alliance",
   title: "215. Taking On the Alliance",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 215,
   ownLength: 1989,
   unitSlug: "words",

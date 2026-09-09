@@ -5,7 +5,7 @@ export const godOfTrash0273273BecomingNortonTunk = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0273-273-becoming-norton-tunk",
   title: "273. Becoming Norton Tunk",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 273,
   ownLength: 2166,
   unitSlug: "words",

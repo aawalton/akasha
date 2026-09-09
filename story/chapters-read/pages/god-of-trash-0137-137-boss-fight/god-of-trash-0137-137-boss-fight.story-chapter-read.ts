@@ -5,7 +5,7 @@ export const godOfTrash0137137BossFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0137-137-boss-fight",
   title: "137. Boss Fight",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 137,
   ownLength: 2019,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0348348TheMoralRight = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0348-348-the-moral-right",
   title: "348. The Moral Right",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 348,
   ownLength: 1978,
   unitSlug: "words",

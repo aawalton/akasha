@@ -5,7 +5,7 @@ export const godOfTrash0205205LastMinutePrep = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0205-205-last-minute-prep",
   title: "205. Last Minute Prep",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 205,
   ownLength: 2409,
   unitSlug: "words",

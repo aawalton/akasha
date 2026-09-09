@@ -5,7 +5,7 @@ export const godOfTrash0221221IntoTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0221-221-into-town",
   title: "221. Into Town",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 221,
   ownLength: 2163,
   unitSlug: "words",

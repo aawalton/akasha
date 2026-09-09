@@ -5,7 +5,7 @@ export const godOfTrash0271271TheMorningAfter = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0271-271-the-morning-after",
   title: "271. The Morning After",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 271,
   ownLength: 1951,
   unitSlug: "words",
