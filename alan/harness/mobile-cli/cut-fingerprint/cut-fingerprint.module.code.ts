@@ -138,6 +138,7 @@ export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
     `  pageTypeSlug: "${MOBILE_CUT_PAGE_TYPE_SLUG}",`,
+    `  type: "${MOBILE_CUT_PAGE_TYPE_SLUG}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(`${appSlug} cut build ${fp.buildNumber}`)},`,
     `  app: ${JSON.stringify(appSlug)},`,
