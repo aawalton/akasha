@@ -5,7 +5,7 @@ export const noRefusedSyntax = {
   pageTypeSlug: "code-check",
   slug: "no-refused-syntax",
   definition: "the check refusing a source file with a pattern a syntax rule names",
-  partSlugs: ["page-type/syntax-rule"],
+  parts: ["page-type/syntax-rule"],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
