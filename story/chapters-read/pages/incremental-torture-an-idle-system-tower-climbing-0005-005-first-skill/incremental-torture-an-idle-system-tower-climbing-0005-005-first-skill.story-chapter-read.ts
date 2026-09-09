@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0005005FirstSkill = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0005-005-first-skill",
   title: "005: First Skill",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 5,
   ownLength: 2161,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0013013TrialsAndTribulat
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0013-013-trials-and-tribulations",
   title: "013: Trials and Tribulations",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 13,
   ownLength: 2104,
   unitSlug: "words",

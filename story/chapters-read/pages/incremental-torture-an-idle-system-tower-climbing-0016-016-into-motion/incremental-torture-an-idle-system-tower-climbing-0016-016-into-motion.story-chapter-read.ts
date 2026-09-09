@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0016016IntoMotion = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0016-016-into-motion",
   title: "016: Into Motion",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 16,
   ownLength: 2411,
   unitSlug: "words",

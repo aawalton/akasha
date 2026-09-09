@@ -5,7 +5,7 @@ export const justAddMana007272Book2Chapter20MagicalCrittersPt4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0072-72-book-2-chapter-20-magical-critters-pt-4",
   title: "72 — Book 2, Chapter 20 — Magical Critters, Pt 4",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 72,
   ownLength: 3055,
   ownProgress: 3055,

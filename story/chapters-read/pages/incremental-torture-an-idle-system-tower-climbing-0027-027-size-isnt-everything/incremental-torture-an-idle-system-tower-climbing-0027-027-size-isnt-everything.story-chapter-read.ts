@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0027027SizeIsntEverythin
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0027-027-size-isnt-everything",
   title: "027: Size isn't Everything",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 27,
   ownLength: 2156,
   unitSlug: "words",

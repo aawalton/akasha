@@ -5,7 +5,7 @@ export const justAddMana008282Book2Chapter30OfKnightsAndSoulsPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0082-82-book-2-chapter-30-of-knights-and-souls-pt-3",
   title: "82 — Book 2, Chapter 30 — Of Knights and Souls, Pt 3",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 82,
   ownLength: 3943,
   ownProgress: 3943,

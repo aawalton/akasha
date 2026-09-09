@@ -5,7 +5,7 @@ export const justAddMana0052Chapter52Epilogue4Akkau = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0052-chapter-52-epilogue-4-akkau",
   title: "Chapter 52 — Epilogue 4 — Akkau",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 52,
   ownLength: 2019,
   ownProgress: 2019,

@@ -5,7 +5,7 @@ export const justAddMana0035Chapter35ADragonSPlightPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0035-chapter-35-a-dragon-s-plight-pt-2",
   title: "Chapter 35 — A Dragon's Plight, Pt 2",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 35,
   ownLength: 3834,
   ownProgress: 3834,

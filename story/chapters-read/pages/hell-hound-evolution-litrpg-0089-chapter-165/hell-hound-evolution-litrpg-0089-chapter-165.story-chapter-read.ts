@@ -4,7 +4,7 @@ export const hellHoundEvolutionLitrpg0089Chapter165 = {
   id: "01a07d43-cdbc-756b-82e1-e7c340da535c",
   pageTypeSlug: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0089-chapter-165",
-  storySlug: "story-read/hell-hound-evolution-litrpg",
+  story: "story-read/hell-hound-evolution-litrpg",
   position: 89,
   publishedAt: "2026-09-07",
   unitSlug: "words",

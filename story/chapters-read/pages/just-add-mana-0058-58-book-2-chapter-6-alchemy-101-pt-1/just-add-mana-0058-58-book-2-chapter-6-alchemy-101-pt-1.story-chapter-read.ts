@@ -5,7 +5,7 @@ export const justAddMana005858Book2Chapter6Alchemy101Pt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0058-58-book-2-chapter-6-alchemy-101-pt-1",
   title: "58 — Book 2, Chapter 6 — Alchemy 101, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 58,
   ownLength: 2465,
   ownProgress: 2465,

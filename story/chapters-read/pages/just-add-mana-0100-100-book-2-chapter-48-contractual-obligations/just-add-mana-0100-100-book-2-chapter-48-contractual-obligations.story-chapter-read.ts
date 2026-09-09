@@ -5,7 +5,7 @@ export const justAddMana0100100Book2Chapter48ContractualObligations = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0100-100-book-2-chapter-48-contractual-obligations",
   title: "100 — Book 2, Chapter 48 — Contractual Obligations",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 100,
   ownLength: 3562,
   ownProgress: 3562,

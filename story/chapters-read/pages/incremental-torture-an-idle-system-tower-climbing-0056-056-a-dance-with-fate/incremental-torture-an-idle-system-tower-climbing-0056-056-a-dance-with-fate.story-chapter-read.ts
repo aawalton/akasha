@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0056056ADanceWithFate = 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0056-056-a-dance-with-fate",
   title: "056: A Dance with Fate",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 56,
   ownLength: 2292,
   unitSlug: "words",

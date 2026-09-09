@@ -5,7 +5,7 @@ export const justAddMana0010Chapter10AncientArtifactsPt5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0010-chapter-10-ancient-artifacts-pt-5",
   title: "Chapter 10 — Ancient Artifacts, Pt 5",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 10,
   ownLength: 3515,
   ownProgress: 3515,

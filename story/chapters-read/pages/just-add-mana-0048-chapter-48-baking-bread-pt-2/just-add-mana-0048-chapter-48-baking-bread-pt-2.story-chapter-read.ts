@@ -5,7 +5,7 @@ export const justAddMana0048Chapter48BakingBreadPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0048-chapter-48-baking-bread-pt-2",
   title: "Chapter 48 — Baking Bread, Pt 2",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 48,
   ownLength: 2900,
   ownProgress: 2900,

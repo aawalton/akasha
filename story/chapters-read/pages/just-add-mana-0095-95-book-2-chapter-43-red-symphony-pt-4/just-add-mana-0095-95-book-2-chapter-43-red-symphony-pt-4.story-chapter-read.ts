@@ -5,7 +5,7 @@ export const justAddMana009595Book2Chapter43RedSymphonyPt4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0095-95-book-2-chapter-43-red-symphony-pt-4",
   title: "95 — Book 2, Chapter 43 — Red Symphony, Pt 4",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 95,
   ownLength: 3138,
   ownProgress: 3138,

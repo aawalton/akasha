@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0006006FeelsLikeHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0006-006-feels-like-home",
   title: "006: Feels like Home",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 6,
   ownLength: 2165,
   unitSlug: "words",

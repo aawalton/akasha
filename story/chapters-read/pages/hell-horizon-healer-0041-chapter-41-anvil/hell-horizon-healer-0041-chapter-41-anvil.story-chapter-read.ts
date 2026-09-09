@@ -5,7 +5,7 @@ export const hellHorizonHealer0041Chapter41Anvil = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0041-chapter-41-anvil",
   title: "Chapter 41 - Anvil",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 41,
   ownLength: 1694,
   unitSlug: "words",

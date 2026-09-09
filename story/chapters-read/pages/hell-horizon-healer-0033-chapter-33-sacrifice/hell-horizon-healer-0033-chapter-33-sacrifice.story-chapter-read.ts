@@ -5,7 +5,7 @@ export const hellHorizonHealer0033Chapter33Sacrifice = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0033-chapter-33-sacrifice",
   title: "Chapter 33 - Sacrifice",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 33,
   ownLength: 1634,
   unitSlug: "words",

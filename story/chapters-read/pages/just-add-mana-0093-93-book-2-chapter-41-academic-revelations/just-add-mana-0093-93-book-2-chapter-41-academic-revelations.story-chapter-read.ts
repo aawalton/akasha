@@ -5,7 +5,7 @@ export const justAddMana009393Book2Chapter41AcademicRevelations = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0093-93-book-2-chapter-41-academic-revelations",
   title: "93 — Book 2, Chapter 41 — Academic Revelations",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 93,
   ownLength: 3912,
   ownProgress: 3912,

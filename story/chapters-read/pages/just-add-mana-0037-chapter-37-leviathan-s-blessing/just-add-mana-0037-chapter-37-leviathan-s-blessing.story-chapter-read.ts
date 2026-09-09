@@ -5,7 +5,7 @@ export const justAddMana0037Chapter37LeviathanSBlessing = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0037-chapter-37-leviathan-s-blessing",
   title: "Chapter 37 — Leviathan's Blessing",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 37,
   ownLength: 3684,
   ownProgress: 3684,

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0074074AWarOnTwoFronts =
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0074-074-a-war-on-two-fronts",
   title: "074: A War on Two Fronts",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 74,
   ownLength: 2037,
   unitSlug: "words",

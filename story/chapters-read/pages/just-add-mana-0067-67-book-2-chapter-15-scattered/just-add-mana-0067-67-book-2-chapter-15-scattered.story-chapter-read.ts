@@ -5,7 +5,7 @@ export const justAddMana006767Book2Chapter15Scattered = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0067-67-book-2-chapter-15-scattered",
   title: "67 — Book 2, Chapter 15 — Scattered",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 67,
   ownLength: 4213,
   ownProgress: 4213,

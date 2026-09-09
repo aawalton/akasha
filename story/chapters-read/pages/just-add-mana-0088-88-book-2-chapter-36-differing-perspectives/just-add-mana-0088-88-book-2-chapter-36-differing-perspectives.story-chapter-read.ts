@@ -5,7 +5,7 @@ export const justAddMana008888Book2Chapter36DifferingPerspectives = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0088-88-book-2-chapter-36-differing-perspectives",
   title: "88 — Book 2, Chapter 36 — Differing Perspectives",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 88,
   ownLength: 2768,
   ownProgress: 2768,

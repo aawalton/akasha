@@ -5,7 +5,7 @@ export const justAddMana0029Chapter29MagicalGeographyPt7 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0029-chapter-29-magical-geography-pt-7",
   title: "Chapter 29 — Magical Geography, Pt 7",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 29,
   ownLength: 4557,
   ownProgress: 4557,

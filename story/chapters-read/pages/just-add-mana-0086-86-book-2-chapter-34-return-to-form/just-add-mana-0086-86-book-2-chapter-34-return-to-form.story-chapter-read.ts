@@ -5,7 +5,7 @@ export const justAddMana008686Book2Chapter34ReturnToForm = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0086-86-book-2-chapter-34-return-to-form",
   title: "86 — Book 2, Chapter 34 — Return to Form",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 86,
   ownLength: 3015,
   ownProgress: 3015,

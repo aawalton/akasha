@@ -5,7 +5,7 @@ export const journeyToVeresavirFantasyLitrpg0040Chapter40 = {
   pageTypeSlug: "story-chapter-read",
   slug: "journey-to-veresavir-fantasy-litrpg-0040-chapter-40",
   title: "Chapter 40",
-  storySlug: "journey-to-veresavir-fantasy-litrpg",
+  story: "journey-to-veresavir-fantasy-litrpg",
   position: 40,
   ownLength: 2503,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0002002ASickJoke = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0002-002-a-sick-joke",
   title: "002: A Sick Joke",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 2,
   ownLength: 2245,
   unitSlug: "words",

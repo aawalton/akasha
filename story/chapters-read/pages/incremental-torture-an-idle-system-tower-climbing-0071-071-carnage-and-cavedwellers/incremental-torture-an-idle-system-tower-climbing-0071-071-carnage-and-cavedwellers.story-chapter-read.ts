@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0071071CarnageAndCavedwe
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0071-071-carnage-and-cavedwellers",
   title: "071: Carnage and Cavedwellers",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 71,
   ownLength: 2234,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const justAddMana009090Book2Chapter38TempleOfVitality = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0090-90-book-2-chapter-38-temple-of-vitality",
   title: "90 — Book 2, Chapter 38 — Temple of Vitality",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 90,
   ownLength: 4167,
   ownProgress: 4167,

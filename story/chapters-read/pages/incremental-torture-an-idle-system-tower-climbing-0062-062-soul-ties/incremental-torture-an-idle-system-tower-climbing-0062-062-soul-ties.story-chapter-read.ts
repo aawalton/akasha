@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0062062SoulTies = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0062-062-soul-ties",
   title: "062: Soul Ties",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 62,
   ownLength: 1934,
   unitSlug: "words",

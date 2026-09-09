@@ -5,7 +5,7 @@ export const hellHorizonHealer0030Chapter30PushingPastLimits = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0030-chapter-30-pushing-past-limits",
   title: "Chapter 30 - Pushing Past Limits",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 30,
   ownLength: 1118,
   unitSlug: "words",

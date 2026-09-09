@@ -5,7 +5,7 @@ export const justAddMana007474Book2Chapter22EyeOfTheStormPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0074-74-book-2-chapter-22-eye-of-the-storm-pt-2",
   title: "74 — Book 2, Chapter 22 — Eye of the Storm, Pt 2",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 74,
   ownLength: 4409,
   ownProgress: 4409,

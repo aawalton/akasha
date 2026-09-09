@@ -5,7 +5,7 @@ export const justAddMana0017Chapter17TheBestLaidPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0017-chapter-17-the-best-laid-plans",
   title: "Chapter 17 — The Best Laid Plans",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 17,
   ownLength: 3297,
   ownProgress: 3297,

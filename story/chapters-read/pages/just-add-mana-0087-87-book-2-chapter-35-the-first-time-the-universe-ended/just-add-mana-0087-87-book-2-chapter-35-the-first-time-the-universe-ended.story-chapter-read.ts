@@ -5,7 +5,7 @@ export const justAddMana008787Book2Chapter35TheFirstTimeTheUniverseEnded = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0087-87-book-2-chapter-35-the-first-time-the-universe-ended",
   title: "87 — Book 2, Chapter 35 — The First Time the Universe Ended",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 87,
   ownLength: 4023,
   ownProgress: 4023,

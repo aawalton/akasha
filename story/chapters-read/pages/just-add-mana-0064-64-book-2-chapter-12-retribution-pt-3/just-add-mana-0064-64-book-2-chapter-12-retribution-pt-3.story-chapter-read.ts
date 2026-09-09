@@ -5,7 +5,7 @@ export const justAddMana006464Book2Chapter12RetributionPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0064-64-book-2-chapter-12-retribution-pt-3",
   title: "64 — Book 2, Chapter 12 — Retribution, Pt 3",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 64,
   ownLength: 2654,
   ownProgress: 2654,

@@ -5,7 +5,7 @@ export const hellHorizonHealer0037Chapter37TheAdventuresOfHannaAndPom = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0037-chapter-37-the-adventures-of-hanna-and-pom",
   title: "Chapter 37 - The Adventures of Hanna and Pom",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 37,
   ownLength: 1411,
   unitSlug: "words",

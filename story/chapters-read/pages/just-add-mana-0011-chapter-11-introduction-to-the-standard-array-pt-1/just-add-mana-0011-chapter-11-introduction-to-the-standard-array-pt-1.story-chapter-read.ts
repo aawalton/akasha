@@ -5,7 +5,7 @@ export const justAddMana0011Chapter11IntroductionToTheStandardArrayPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0011-chapter-11-introduction-to-the-standard-array-pt-1",
   title: "Chapter 11 — Introduction to the Standard Array, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 11,
   ownLength: 3783,
   ownProgress: 3783,

@@ -5,7 +5,7 @@ export const justAddMana005555Book2Chapter3SwordAndSorceryPt3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0055-55-book-2-chapter-3-sword-and-sorcery-pt-3",
   title: "55 — Book 2, Chapter 3 — Sword and Sorcery, Pt 3",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 55,
   ownLength: 3562,
   ownProgress: 3562,

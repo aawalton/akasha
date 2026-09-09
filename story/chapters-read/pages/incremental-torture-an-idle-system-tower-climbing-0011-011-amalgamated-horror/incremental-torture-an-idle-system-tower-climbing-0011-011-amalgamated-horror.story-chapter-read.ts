@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0011011AmalgamatedHorror
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0011-011-amalgamated-horror",
   title: "011: Amalgamated Horror",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 11,
   ownLength: 2102,
   unitSlug: "words",

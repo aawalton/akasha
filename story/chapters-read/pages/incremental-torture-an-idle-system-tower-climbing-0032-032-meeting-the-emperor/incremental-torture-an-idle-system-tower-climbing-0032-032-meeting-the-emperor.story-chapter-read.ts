@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0032032MeetingTheEmperor
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0032-032-meeting-the-emperor",
   title: "032: Meeting the Emperor",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 32,
   ownLength: 2066,
   unitSlug: "words",

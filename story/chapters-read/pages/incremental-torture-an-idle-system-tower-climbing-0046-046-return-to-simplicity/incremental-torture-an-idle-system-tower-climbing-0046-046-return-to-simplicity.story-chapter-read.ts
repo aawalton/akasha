@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0046046ReturnToSimplicit
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0046-046-return-to-simplicity",
   title: "046: Return to Simplicity",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 46,
   ownLength: 2152,
   unitSlug: "words",

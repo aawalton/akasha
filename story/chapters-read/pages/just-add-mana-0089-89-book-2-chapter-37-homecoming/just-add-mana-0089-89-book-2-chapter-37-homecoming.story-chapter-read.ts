@@ -5,7 +5,7 @@ export const justAddMana008989Book2Chapter37Homecoming = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0089-89-book-2-chapter-37-homecoming",
   title: "89 — Book 2, Chapter 37 — Homecoming",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 89,
   ownLength: 3575,
   ownProgress: 3575,

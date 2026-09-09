@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0012012SteadyProgress = 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0012-012-steady-progress",
   title: "012: Steady Progress",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 12,
   ownLength: 2354,
   unitSlug: "words",

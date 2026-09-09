@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0043043BringingHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0043-043-bringing-hell",
   title: "043: Bringing Hell",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 43,
   ownLength: 2070,
   unitSlug: "words",

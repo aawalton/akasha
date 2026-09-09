@@ -5,7 +5,7 @@ export const justAddMana0016Chapter16AlinaTheLunchladyArchdemonOfShelves = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0016-chapter-16-alina-the-lunchlady-archdemon-of-shelves",
   title: "Chapter 16 — Alina the Lunchlady, Archdemon of Shelves",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 16,
   ownLength: 5046,
   ownProgress: 5046,

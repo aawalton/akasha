@@ -5,7 +5,7 @@ export const justAddMana0004Chapter4RoommateEtiquettePt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0004-chapter-4-roommate-etiquette-pt-1",
   title: "Chapter 4 — Roommate Etiquette, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 4,
   ownLength: 3681,
   ownProgress: 3681,

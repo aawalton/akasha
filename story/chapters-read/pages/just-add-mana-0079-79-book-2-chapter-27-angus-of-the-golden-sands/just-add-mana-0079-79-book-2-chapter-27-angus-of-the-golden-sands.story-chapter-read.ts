@@ -5,7 +5,7 @@ export const justAddMana007979Book2Chapter27AngusOfTheGoldenSands = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0079-79-book-2-chapter-27-angus-of-the-golden-sands",
   title: "79 — Book 2, Chapter 27 — Angus of the Golden Sands",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 79,
   ownLength: 4914,
   ownProgress: 4914,

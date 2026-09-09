@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0009009AMatterOfScale = 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0009-009-a-matter-of-scale",
   title: "009: A Matter of Scale",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 9,
   ownLength: 2158,
   unitSlug: "words",

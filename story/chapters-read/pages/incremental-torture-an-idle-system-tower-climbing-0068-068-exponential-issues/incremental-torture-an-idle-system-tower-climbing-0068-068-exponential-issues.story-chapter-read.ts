@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0068068ExponentialIssues
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0068-068-exponential-issues",
   title: "068: Exponential Issues",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 68,
   ownLength: 2354,
   unitSlug: "words",

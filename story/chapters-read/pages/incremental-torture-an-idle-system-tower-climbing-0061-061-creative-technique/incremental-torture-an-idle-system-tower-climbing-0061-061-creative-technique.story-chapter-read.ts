@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0061061CreativeTechnique
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0061-061-creative-technique",
   title: "061: Creative Technique",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 61,
   ownLength: 2085,
   unitSlug: "words",

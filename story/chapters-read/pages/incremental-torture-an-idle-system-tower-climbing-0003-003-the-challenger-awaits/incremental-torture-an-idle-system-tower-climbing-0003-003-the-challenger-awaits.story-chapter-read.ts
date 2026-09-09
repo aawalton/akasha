@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0003003TheChallengerAwai
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0003-003-the-challenger-awaits",
   title: "003: The Challenger Awaits",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 3,
   ownLength: 2075,
   unitSlug: "words",

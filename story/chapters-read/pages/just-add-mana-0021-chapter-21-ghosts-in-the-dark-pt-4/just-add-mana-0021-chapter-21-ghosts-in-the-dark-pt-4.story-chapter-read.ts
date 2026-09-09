@@ -5,7 +5,7 @@ export const justAddMana0021Chapter21GhostsInTheDarkPt4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0021-chapter-21-ghosts-in-the-dark-pt-4",
   title: "Chapter 21 — Ghosts in the Dark, Pt 4",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 21,
   ownLength: 3210,
   ownProgress: 3210,

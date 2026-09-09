@@ -5,7 +5,7 @@ export const hellHorizonHealer0032Chapter32WhatIsNormal = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0032-chapter-32-what-is-normal",
   title: "Chapter 32 - What is Normal?",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 32,
   ownLength: 1395,
   unitSlug: "words",

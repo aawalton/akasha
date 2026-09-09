@@ -5,7 +5,7 @@ export const justAddMana0050Chapter50Epilogue2Flia = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0050-chapter-50-epilogue-2-flia",
   title: "Chapter 50 — Epilogue 2 — Flia",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 50,
   ownLength: 1856,
   ownProgress: 1856,

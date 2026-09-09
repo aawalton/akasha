@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0079079AnchorOfTheWorld 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0079-079-anchor-of-the-world",
   title: "079: Anchor of the World",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 79,
   ownLength: 1979,
   unitSlug: "words",

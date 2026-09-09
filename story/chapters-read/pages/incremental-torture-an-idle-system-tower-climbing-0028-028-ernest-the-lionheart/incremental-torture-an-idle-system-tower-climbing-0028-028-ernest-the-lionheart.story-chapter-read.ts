@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0028028ErnestTheLionhear
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0028-028-ernest-the-lionheart",
   title: "028: Ernest the Lionheart",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 28,
   ownLength: 2267,
   unitSlug: "words",

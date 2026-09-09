@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0034034RunningTheGauntle
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0034-034-running-the-gauntlet",
   title: "034: Running the Gauntlet",
-  storySlug: "incremental-torture-an-idle-system-tower-climbing",
+  story: "incremental-torture-an-idle-system-tower-climbing",
   position: 34,
   ownLength: 2163,
   unitSlug: "words",

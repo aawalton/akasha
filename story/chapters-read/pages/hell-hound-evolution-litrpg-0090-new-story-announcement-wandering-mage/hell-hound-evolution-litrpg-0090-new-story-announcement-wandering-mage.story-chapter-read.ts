@@ -10,7 +10,7 @@ export const hellHoundEvolutionLitrpg0090NewStoryAnnouncementWanderingMage = {
   externalId: "3934487",
   source: "royal-road",
   title: "New Story Announcement! - Wandering Mage",
-  storySlug: "story-read/hell-hound-evolution-litrpg",
+  story: "story-read/hell-hound-evolution-litrpg",
   ownLength: 264,
   externalLink:
     "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3934487/new-story-announcement-wandering-mage",

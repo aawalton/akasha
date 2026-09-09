@@ -5,7 +5,7 @@ export const justAddMana0002Chapter2TheArtOfAttunementPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0002-chapter-2-the-art-of-attunement-pt-1",
   title: "Chapter 2 — The Art of Attunement, Pt 1",
-  storySlug: "just-add-mana",
+  story: "just-add-mana",
   position: 2,
   ownLength: 2731,
   ownProgress: 2731,
