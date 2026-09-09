@@ -29,7 +29,6 @@
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/named-for": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
     "@akasha/pages-service": "workspace:*",

@@ -1,6 +1,6 @@
 import { parsedAs } from "@akasha/code/code-source"
 import type { Named } from "@akasha/indexes"
-import { STEM_CEILING } from "@akasha/named-for/page-stem"
+import { STEM_CEILING } from "@akasha/pages/naming/named-for/page-stem"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"

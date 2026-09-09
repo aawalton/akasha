@@ -5,7 +5,7 @@ export const naming = {
   pageTypeSlug: "domain",
   slug: "naming",
   definition: "how one idea's name is chosen",
-  parts: ["workspace-package/named-for"],
+  parts: ["domain/named-for"],
   invariants: [
     {
       invariantKind: "departure",

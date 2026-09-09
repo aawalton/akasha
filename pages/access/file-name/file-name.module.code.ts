@@ -1,4 +1,9 @@
-import { filledBy, type HeldAt, holesIn, unfilledIn } from "@akasha/named-for/name-rule"
+import {
+  filledBy,
+  type HeldAt,
+  holesIn,
+  unfilledIn,
+} from "@akasha/pages/naming/named-for/name-rule"
 import type { PageWhere } from "@akasha/pages-core/page-types"
 import { camelizeKey, SETTLED_BY_ROW } from "../file-rows/file-rows.module.code.ts"
 import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"

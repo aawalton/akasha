@@ -908,7 +908,6 @@
       "name": "@akasha/pages-access",
       "dependencies": {
         "@akasha/file-page-identity": "workspace:*",
-        "@akasha/named-for": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-service": "workspace:*",
@@ -932,9 +931,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
-    },
-    "pages/naming/named-for": {
-      "name": "@akasha/named-for",
     },
     "pages/query": {
       "name": "@akasha/pages-query",
@@ -2435,8 +2431,6 @@
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
 
     "@akasha/music-choosing": ["@akasha/music-choosing@workspace:alan/music/choosing"],
-
-    "@akasha/named-for": ["@akasha/named-for@workspace:pages/naming/named-for"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
 

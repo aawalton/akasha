@@ -94,7 +94,9 @@
     "./shadow": "./shadow/shadow.module.code.ts",
     "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
     "./text-property": "./text-properties/text-property.page-type.ts",
-    "./url-property": "./url-properties/url-property.page-type.ts"
+    "./url-property": "./url-properties/url-property.page-type.ts",
+    "./naming/named-for/page-stem": "./naming/named-for/page-stem/page-stem.module.code.ts",
+    "./naming/named-for/name-rule": "./naming/named-for/name-rule/name-rule.module.code.ts"
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",
