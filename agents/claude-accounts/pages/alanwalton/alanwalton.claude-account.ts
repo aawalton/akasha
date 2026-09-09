@@ -3,6 +3,7 @@ import type { ClaudeAccount } from "../../claude-account.page-type.ts"
 export const alanwalton = {
   id: "019db533-f3b2-7818-830b-b9063ba57490",
   pageTypeSlug: "claude-account",
+  type: "claude-account",
   slug: "alanwalton",
   accountUuid: "978ace2d-4458-4ade-ad9e-400764d37813",
   email: "alan@alanwalton.com",

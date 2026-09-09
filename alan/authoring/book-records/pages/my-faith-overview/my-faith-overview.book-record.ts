@@ -3,6 +3,7 @@ import type { BookRecord } from "../../book-record.page-type.ts"
 export const myFaithOverview = {
   id: "01a0657d-b91d-7700-9743-d8bc7786ff26",
   pageTypeSlug: "book-record",
+  type: "book-record",
   slug: "my-faith-overview",
   title: "My Faith — Overview",
   definition: "the shape and the method of the My Faith book",

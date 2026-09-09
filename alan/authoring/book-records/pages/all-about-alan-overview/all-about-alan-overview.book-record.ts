@@ -3,6 +3,7 @@ import type { BookRecord } from "../../book-record.page-type.ts"
 export const allAboutAlanOverview = {
   id: "01a0657d-b91d-7600-a17e-e29618171ec3",
   pageTypeSlug: "book-record",
+  type: "book-record",
   slug: "all-about-alan-overview",
   title: "All About Alan — Overview",
   definition: "the distillation of who Alan is that an interview opens on",

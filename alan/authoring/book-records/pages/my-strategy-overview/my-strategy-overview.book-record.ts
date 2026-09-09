@@ -3,6 +3,7 @@ import type { BookRecord } from "../../book-record.page-type.ts"
 export const myStrategyOverview = {
   id: "01a0657d-b91d-7800-a4d9-2f8c96c8c093",
   pageTypeSlug: "book-record",
+  type: "book-record",
   slug: "my-strategy-overview",
   title: "My Strategy — Orientation",
   definition: "what is settled and what is open in My Strategy",
