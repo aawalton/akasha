@@ -5,7 +5,7 @@ export const catGirlEvolution0095945ANewLifeSallyInterlude1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0095-945-a-new-life-sally-interlude-1",
   title: "94.5 - A New Life (Sally Interlude 1)",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 95,
   ownLength: 2514,
   unitSlug: "words",

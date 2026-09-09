@@ -5,7 +5,7 @@ export const catGirlEvolution006666TheFieldBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0066-66-the-field-boss",
   title: "66 - The Field Boss",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 66,
   ownLength: 3060,
   unitSlug: "words",

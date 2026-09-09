@@ -5,7 +5,7 @@ export const catGirlEvolution0120118HauntedHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0120-118-haunted-house",
   title: "118 - Haunted House",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 120,
   ownLength: 2250,
   unitSlug: "words",

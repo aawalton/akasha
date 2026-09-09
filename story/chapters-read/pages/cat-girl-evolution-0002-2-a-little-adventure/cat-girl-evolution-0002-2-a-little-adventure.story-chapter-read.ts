@@ -5,7 +5,7 @@ export const catGirlEvolution00022ALittleAdventure = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0002-2-a-little-adventure",
   title: "2 - A Little Adventure",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 2,
   ownLength: 2158,
   unitSlug: "words",

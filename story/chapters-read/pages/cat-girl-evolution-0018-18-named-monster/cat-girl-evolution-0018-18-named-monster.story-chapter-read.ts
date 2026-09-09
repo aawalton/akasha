@@ -5,7 +5,7 @@ export const catGirlEvolution001818NamedMonster = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0018-18-named-monster",
   title: "18 - Named Monster",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 18,
   ownLength: 3469,
   unitSlug: "words",

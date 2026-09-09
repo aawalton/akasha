@@ -5,7 +5,7 @@ export const catGirlEvolution0107105IveGotMyEyeOnYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0107-105-ive-got-my-eye-on-you",
   title: "105 - I've Got My Eye On You",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 107,
   ownLength: 2192,
   unitSlug: "words",

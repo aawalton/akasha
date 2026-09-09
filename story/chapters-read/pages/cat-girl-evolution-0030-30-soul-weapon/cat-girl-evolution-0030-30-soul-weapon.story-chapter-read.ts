@@ -5,7 +5,7 @@ export const catGirlEvolution003030SoulWeapon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0030-30-soul-weapon",
   title: "30 - Soul Weapon",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 30,
   ownLength: 3427,
   unitSlug: "words",

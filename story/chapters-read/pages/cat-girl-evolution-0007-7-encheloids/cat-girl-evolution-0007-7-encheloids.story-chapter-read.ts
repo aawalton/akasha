@@ -5,7 +5,7 @@ export const catGirlEvolution00077Encheloids = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0007-7-encheloids",
   title: "7 - Encheloids",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 7,
   ownLength: 2470,
   unitSlug: "words",

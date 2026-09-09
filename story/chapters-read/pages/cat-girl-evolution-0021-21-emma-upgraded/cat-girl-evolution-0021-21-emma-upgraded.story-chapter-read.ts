@@ -5,7 +5,7 @@ export const catGirlEvolution002121EmmaUpgraded = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0021-21-emma-upgraded",
   title: "21 - Emma Upgraded",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 21,
   ownLength: 2607,
   unitSlug: "words",

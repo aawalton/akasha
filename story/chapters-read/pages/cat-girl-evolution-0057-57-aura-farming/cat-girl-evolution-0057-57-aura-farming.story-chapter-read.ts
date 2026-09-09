@@ -5,7 +5,7 @@ export const catGirlEvolution005757AuraFarming = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0057-57-aura-farming",
   title: "57 - Aura Farming",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 57,
   ownLength: 2019,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0110108DungeonFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0110-108-dungeon-friend",
   title: "108 - Dungeon Friend",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 110,
   ownLength: 2108,
   unitSlug: "words",

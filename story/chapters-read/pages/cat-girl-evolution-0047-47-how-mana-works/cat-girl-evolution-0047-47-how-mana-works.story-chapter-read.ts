@@ -5,7 +5,7 @@ export const catGirlEvolution004747HowManaWorks = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0047-47-how-mana-works",
   title: "47 - How Mana Works",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 47,
   ownLength: 2878,
   unitSlug: "words",

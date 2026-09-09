@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009898InquisitiveMinds = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0098-98-inquisitive-minds",
   title: "98: Inquisitive Minds",
-  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 98,
   ownLength: 1864,
   unitSlug: "words",

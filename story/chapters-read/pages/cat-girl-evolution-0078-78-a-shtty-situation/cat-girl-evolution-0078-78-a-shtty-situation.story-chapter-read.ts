@@ -5,7 +5,7 @@ export const catGirlEvolution007878AShttySituation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0078-78-a-shtty-situation",
   title: "78 - A Sh*tty Situation",
-  partOfCollectionSlugs: ["cat-girl-evolution"],
+  storySlug: "cat-girl-evolution",
   position: 78,
   ownLength: 2890,
   unitSlug: "words",
