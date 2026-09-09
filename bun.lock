@@ -1629,6 +1629,17 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/characters-capture-addon": {
+      "name": "@akasha/temper-characters-capture-addon",
+      "dependencies": {
+        "@akasha/temper-bit-codec": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/characters-equipment-ui": {
       "name": "@akasha/temper-characters-equipment-ui",
       "dependencies": {
@@ -2173,17 +2184,6 @@
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-skill-point-finder": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-characters-capture-addon": {
-      "name": "@akasha/temper-characters-capture-addon",
-      "dependencies": {
-        "@akasha/temper-bit-codec": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-capture-writer": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -3097,7 +3097,7 @@
 
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/temper-characters-addon"],
 
-    "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:temper/temper-characters-capture-addon"],
+    "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:temper/characters-capture-addon"],
 
     "@akasha/temper-characters-character-ui": ["@akasha/temper-characters-character-ui@workspace:temper/temper-characters-character-ui"],
 
