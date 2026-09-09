@@ -10,6 +10,7 @@ export const relationWeights = {
   definition: "the trained graph saying what one word is to the word it hangs off",
   generated: true,
   runsFileLength: false,
+  holdsBytes: true,
   invariants: [
     {
       invariantKind: "departure",
