@@ -38,5 +38,9 @@ export const alanWebCapacitor = {
       invariantKind: "gap",
       statement: "A module reaching a node builtin fails the client build rather than the phone.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "The server entry here runs once at build time rather than on a request.",
+    },
   ],
 } as const satisfies RouterApp

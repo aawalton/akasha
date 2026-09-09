@@ -44,26 +44,6 @@ interface AppShellProps {
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
-/**
- * Signing out happens in the browser, never as a form POST to `/sign-out`.
- *
- * This shell is shared: `@akasha/alanwalton-web-capacitor` reaches it through this package's
- * manifest and ships this same footer inside the native WebView. That build is `ssr: false`
- * and its route table (`akasha/alan/web-capacitor/routes.ts`) has no `/sign-out` entry, so a
- * native `<form method="POST" action="/sign-out">` had no action to reach and no server
- * behind it either — Capacitor answers
- * `capacitor://localhost` from bundled static files. The tap became a whole-document navigation
- * to `capacitor://localhost/sign-out` (recorded from a real device in
- * `pages/error/34940cc43ed78824.error.md`), which left the session sitting in localStorage and
- * re-booted the app signed in. That is why the menu kept offering "Sign Out".
- *
- * The client call works in both auth modes: `capacitor-local` keeps the session in
- * localStorage, `cookie-ssr` in cookies, and `signOut()` clears whichever is in play. It also
- * mirrors how sign-in already works (`routes/sign-in.tsx` calls `signInWithPassword`).
- *
- * Where the person lands is decided by `AuthProvider`'s `onAuthStateChange`, which is the one
- * place that reacts to a session ending — token expiry reaches it too, not just this button.
- */
 function AuthFooter({ user }: { user: { id: string } | null }) {
   const { effectiveIsCollapsed } = useSidebarState()
   const [signingOut, setSigningOut] = useState(false)
