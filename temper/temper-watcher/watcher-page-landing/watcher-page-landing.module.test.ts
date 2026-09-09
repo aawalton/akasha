@@ -30,7 +30,7 @@ import {
 
 const HOURS = "temper/temper-holdings/net-worth-hours/pages"
 
-const TASKS = "temper/temper-progress/tasks/pages"
+const TASKS = "temper/temper-progress/temper-tasks/pages"
 
 test("the writer is the name and address every landing was already committing under", () => {
   expect(PAGE_LANDING_WRITER).toBe("temper watcher <watcher@alanwalton.com>")
@@ -72,10 +72,10 @@ test("a page path and the jsonl path beside it are the paths the landings alread
     "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
-    "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
+    "temper/temper-progress/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
   )
   expect(rowsPathIn(TASKS, "hireling-mails", "temper-task", "progress")).toBe(
-    "temper/temper-progress/tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
+    "temper/temper-progress/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
   )
 })
 

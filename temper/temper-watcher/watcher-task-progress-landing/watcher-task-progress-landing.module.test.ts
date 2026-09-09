@@ -2,10 +2,11 @@ import { expect, test } from "bun:test"
 import { bodyOfRows } from "../watcher-task-progress/watcher-task-progress.module.code.ts"
 import { completionIn, putsFor, rosterFrom } from "./watcher-task-progress-landing.module.code.ts"
 
-const PAGE_PATH = "temper/temper-progress/tasks/pages/crafting-writs/crafting-writs.temper-task.ts"
+const PAGE_PATH =
+  "temper/temper-progress/temper-tasks/pages/crafting-writs/crafting-writs.temper-task.ts"
 
 const ROWS_PATH =
-  "temper/temper-progress/tasks/pages/crafting-writs/crafting-writs.temper-task.progress.jsonl"
+  "temper/temper-progress/temper-tasks/pages/crafting-writs/crafting-writs.temper-task.progress.jsonl"
 
 const PAGE = `import type { TemperTask } from "../../temper-task.page-type.ts"
 
