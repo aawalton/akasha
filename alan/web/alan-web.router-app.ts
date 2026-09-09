@@ -204,5 +204,7 @@ export const alanWeb = {
     "route/alan-web-landing",
     "route/alan-web-page-listing",
     "route/alan-web-page-detail",
+    "route/alan-web-api-save",
+    "route/alan-web-api-push-register",
   ],
 } as const satisfies RouterApp

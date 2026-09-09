@@ -2,17 +2,16 @@ import { bankAccrual, normalizeGameState, withLatches } from "@akasha/idle-syste
 import { applyDerivedMechanics } from "@akasha/idle-system/deriving"
 import { applyDraw } from "@akasha/idle-system/draw"
 import { parseIdleSave } from "@akasha/idle-system/save"
-import { resolveDrawContext } from "../.server/gacha-draw-context/gacha-draw-context.module.code.ts"
-import { reprojectUserCardsSafely } from "../.server/idle-card-projecting/idle-card-projecting.module.code.ts"
-import { resolveIdleSaveContext } from "../.server/idle-save-context/idle-save-context.module.code.ts"
-import { loadSave, upsertSave } from "../.server/idle-saves/idle-saves.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import { drawIntentSchema } from "../idle-actions/idle-actions.module.code.ts"
-import type { Route } from "./+types/api.save"
+import { resolveDrawContext } from "../../.server/gacha-draw-context/gacha-draw-context.module.code.ts"
+import { reprojectUserCardsSafely } from "../../.server/idle-card-projecting/idle-card-projecting.module.code.ts"
+import { resolveIdleSaveContext } from "../../.server/idle-save-context/idle-save-context.module.code.ts"
+import { loadSave, upsertSave } from "../../.server/idle-saves/idle-saves.module.code.ts"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { drawIntentSchema } from "../../idle-actions/idle-actions.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: capacitorCorsHeaders(request, CORS_METHODS) })
   }
@@ -22,7 +21,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   )
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method !== "POST") {
     return Response.json({ error: "method not allowed" }, { status: 405, headers: cors })

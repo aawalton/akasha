@@ -90,14 +90,17 @@ export default [
   ),
   route("api/media/:pageId/:medium", "routes/alan-web-api-media/alan-web-api-media.route.code.ts"),
   route("api/load", "routes/alan-web-api-load/alan-web-api-load.route.code.ts"),
-  route("api/save", "routes/api.save.ts"),
+  route("api/save", "routes/alan-web-api-save/alan-web-api-save.route.code.ts"),
   route("api/catalog", "routes/alan-web-api-catalog/alan-web-api-catalog.route.code.ts"),
   route(
     "api/chess/analyze",
     "routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"
   ),
 
-  route("api/push/register", "routes/api.push.register.ts"),
+  route(
+    "api/push/register",
+    "routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"
+  ),
 
   route(
     "api/device-secret/admission",
