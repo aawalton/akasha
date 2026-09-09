@@ -1,15 +1,10 @@
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { SCRATCH_AT } from "../../../command-system/scratching/scratching.module.code.ts"
-import {
-  besideArgv,
-  type Landing,
-  pathUnder,
-} from "../../pages/track/session/file/day-landing/day-landing.module.code.ts"
-import { mistaking } from "../asking/asking.module.code.ts"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { filing } from "../mechanical-filing/mechanical-filing.module.code.ts"
-import type { ActivityDifficulty } from "../session-leveling/session-leveling.module.code.ts"
+import { SCRATCH_AT } from "../../../../../../command-system/scratching/scratching.module.code.ts"
+import { mistaking } from "../../../../../modules/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
+import { filing } from "../../../../../modules/mechanical-filing/mechanical-filing.module.code.ts"
+import type { ActivityDifficulty } from "../../../../../modules/session-leveling/session-leveling.module.code.ts"
 import {
   activitiesIn,
   BARE,
@@ -25,8 +20,13 @@ import {
   relationshipsIn,
   saidFor,
   VALUED,
-} from "../session-rows/session-rows.module.code.ts"
-import { dayBefore, sleeping, wokeInto } from "../waking/waking.module.code.ts"
+} from "../../../../../modules/session-rows/session-rows.module.code.ts"
+import { dayBefore, sleeping, wokeInto } from "../../../../../modules/waking/waking.module.code.ts"
+import {
+  besideArgv,
+  type Landing,
+  pathUnder,
+} from "../../file/day-landing/day-landing.module.code.ts"
 
 export type Standing = {
   readonly day: string

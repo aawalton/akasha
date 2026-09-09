@@ -3,12 +3,6 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
-  landed,
-  standingFor,
-  taggingFor,
-  telling,
-} from "../../../../modules/session-acting/session-acting.module.code.ts"
-import {
   difficultyForTitle,
   readDifficulty,
   readSafety,
@@ -25,6 +19,12 @@ import {
   taggedFor,
   taggingOf,
 } from "../../../../modules/session-rows/session-rows.module.code.ts"
+import {
+  landed,
+  standingFor,
+  taggingFor,
+  telling,
+} from "../open/session-acting/session-acting.module.code.ts"
 
 const LINE = /^(\S+)\s+(.+?)(?:\s+s(-?[\d.]+)d([\d.]+))?$/
 

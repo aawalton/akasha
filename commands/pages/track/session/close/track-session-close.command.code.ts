@@ -1,13 +1,6 @@
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
-  endingIn,
-  landed,
-  standingFor,
-  taggingFor,
-  telling,
-} from "../../../../modules/session-acting/session-acting.module.code.ts"
-import {
   AT,
   DRY_RUN,
   faultsIn,
@@ -15,6 +8,13 @@ import {
   sayingFor,
   shownOf,
 } from "../../../../modules/session-rows/session-rows.module.code.ts"
+import {
+  endingIn,
+  landed,
+  standingFor,
+  taggingFor,
+  telling,
+} from "../open/session-acting/session-acting.module.code.ts"
 
 export async function trackSessionClose(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
