@@ -23,5 +23,14 @@ export const mediaPage = {
       statement:
         "This module's test puts its mocks up in `beforeAll` and takes them down in `afterAll`.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "This module's test mocks the object store, so no reader here reaches a store over the network.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reader handed no object store answers rather than refusing.",
+    },
   ],
 } as const satisfies Module

@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, expect, mock, test } from "bun:test"
+import * as objectStore from "@akasha/object-store/seaweedfs-store"
 import * as pagesGet from "@akasha/pages-access/get"
 import * as calling from "@akasha/pages-service/calling"
 import * as authServer from "@akasha/supabase-rr/auth-server"
@@ -6,6 +7,7 @@ import * as authServer from "@akasha/supabase-rr/auth-server"
 const REAL_PAGES_GET = { ...pagesGet }
 const REAL_CALLING = { ...calling }
 const REAL_AUTH_SERVER = { ...authServer }
+const REAL_OBJECT_STORE = { ...objectStore }
 
 const PAGE_ID = "019db5f4-063c-710f-a432-4c822d31915a"
 
@@ -47,6 +49,11 @@ const AUTH_SERVER_MOCK = () => ({
   resolveRequestUser: async () => ({ user: { id: "alan" }, headers: new Headers() }),
 })
 
+const OBJECT_STORE_MOCK = () => ({
+  ...REAL_OBJECT_STORE,
+  seaweedFSObjectStoreFromEnv: () => null,
+})
+
 const PAGES_GET_MOCK = () => ({
   ...REAL_PAGES_GET,
   getPage: async (args: { pageTypeSlug: string; where: readonly { key: string; eq: string }[] }) =>
@@ -66,6 +73,7 @@ beforeAll(async () => {
   mock.module("@akasha/pages-service/calling", CALLING_MOCK)
   mock.module("@akasha/supabase-rr/auth-server", AUTH_SERVER_MOCK)
   mock.module("@akasha/pages-access/get", PAGES_GET_MOCK)
+  mock.module("@akasha/object-store/seaweedfs-store", OBJECT_STORE_MOCK)
   const config = await import("@akasha/pages-access/page-type-config")
   fileMediaPageTypeSlugs = config.getMediaPageTypeSlugs
   fileMediaConfig = (slug: string) => config.getMediaConfig({ pageTypeSlug: slug })
@@ -87,6 +95,7 @@ afterAll(() => {
   mock.module("@akasha/pages-service/calling", () => REAL_CALLING)
   mock.module("@akasha/supabase-rr/auth-server", () => REAL_AUTH_SERVER)
   mock.module("@akasha/pages-access/get", () => REAL_PAGES_GET)
+  mock.module("@akasha/object-store/seaweedfs-store", () => REAL_OBJECT_STORE)
 })
 
 async function said(run: () => Promise<Response>): Promise<string> {
