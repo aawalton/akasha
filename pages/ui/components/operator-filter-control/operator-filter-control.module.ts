@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const operatorFilterControl = {
   id: "01a06205-4f3b-7006-beaf-dd6eb25b3f5d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "operator-filter-control",
   definition: "The control choosing a filter's operator and the value that operator needs.",
   code: "tsx",
