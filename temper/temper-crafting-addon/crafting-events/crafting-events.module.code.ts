@@ -180,8 +180,8 @@ export function onAddOnLoaded(this: void): undefined {
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton2, "OnMouseDown", runeExtractionTabShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton3, "OnMouseDown", runeRecipeTabShow)
 
-  const settingsPanel = registerSettings()
-  TEMPER_CRAFTING_API.LAM = settingsPanel
+  STATE.settingsPanel = registerSettings()
+  TEMPER_CRAFTING_API.LAM = STATE.settingsPanel
 
   scrollText()
   tooltipHandler()

@@ -63,6 +63,7 @@ export interface TemperCraftingState {
   ItemLinkCache: Record<number, Record<number, string>>
   previewType: Record<string, number>
   selectedControl: Control | undefined
+  settingsPanel: Control | undefined
   Style: StyleApi | undefined
   styleNames: StyleNameRow[]
   Chat: ChatProxy
@@ -130,6 +131,7 @@ export const STATE: TemperCraftingState = {
     [Loc.previewType[3]]: 4,
   },
   selectedControl: undefined,
+  settingsPanel: undefined,
   Style: undefined,
   styleNames: [],
   Chat: {
