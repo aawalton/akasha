@@ -8,6 +8,7 @@ const WEB_APP_SUFFIX = ".web-app.ts"
 const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"
 const MANIFEST_SUFFIX = ".manifest.ts"
 const MANIFEST_CODE_SUFFIX = ".manifest.code.ts"
+const CLUSTER_SERVICES = "clusterServices"
 const CLUSTER_SERVICE_SLUGS = "clusterServiceSlugs"
 const SOURCE_DIRECTORY = "sourceDirectory"
 const BUILD_COMMAND = "buildCommand"
@@ -150,7 +151,8 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${pagePath} states no ${wanting.join(" and no ")}, so a deploy of \`${slug}\` would rest on what no page says`,
     }
   }
-  const serviceSlugs = textsAt(stated, CLUSTER_SERVICE_SLUGS) ?? []
+  const serviceSlugs =
+    textsAt(stated, CLUSTER_SERVICES) ?? textsAt(stated, CLUSTER_SERVICE_SLUGS) ?? []
   if (serviceSlugs.length === 0) {
     return {
       refused: `${pagePath} names no cluster service, so nothing says what the cluster runs for \`${slug}\``,
