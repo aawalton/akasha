@@ -5,8 +5,8 @@ import type { Answer as Said } from "@akasha/changes/change-answer/types"
 import { bytesOf } from "@akasha/changes/change-shadow"
 import { bodyIn } from "@akasha/changes/edits-keeping"
 import { formattedBody } from "@akasha/code/code-format"
-import type { Bodies, Body } from "../../commands/modules/drafting/drafting.module.code.ts"
-import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
+import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const BYTES = new TextEncoder()
 

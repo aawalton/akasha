@@ -99,6 +99,7 @@ export const command = {
     "module/gate-building",
     "module/mechanical-landing",
     "module/path-moving",
+    "module/edits-landing",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

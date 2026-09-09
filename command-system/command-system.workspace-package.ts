@@ -24,7 +24,6 @@ export const commandSystem = {
     "module/scratching",
     "module/applying",
     "module/seat-act-calling",
-    "module/edits-landing",
     "performance/landing-throughput",
   ],
   invariants: [

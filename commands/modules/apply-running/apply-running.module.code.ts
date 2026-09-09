@@ -10,7 +10,6 @@ import {
 } from "../../../command-system/applying/applying.module.code.ts"
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { bodiesFrom } from "../../../command-system/edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { writtenPathsIn } from "../address-mapping/address-mapping.module.code.ts"
 import {
@@ -22,6 +21,7 @@ import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.modul
 import { noPageSaid } from "../change-running/change-running.module.code.ts"
 import { allowedAgain, MEASURED_ALLOWED } from "../command-stopping/command-stopping.module.code.ts"
 import { type Rebased, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
+import { bodiesFrom } from "../edits-landing/edits-landing.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 

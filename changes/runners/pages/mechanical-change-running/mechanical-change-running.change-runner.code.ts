@@ -1,7 +1,7 @@
 import { type Applied, applied } from "@akasha/command-system/applying"
-import { bodiesFrom } from "@akasha/command-system/edits-landing"
 import { baseOf, type Refused } from "@akasha/command-system/landing"
 import type { Running } from "../../../../commands/modules/drafting/drafting.module.code.ts"
+import { bodiesFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "../../../../commands/modules/gate-building/gate-building.module.code.ts"
 import { generatedFileNotWritten } from "../../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
 import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
