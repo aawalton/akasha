@@ -71,8 +71,7 @@ export async function deviceTokensFor(
   const asked = await askingFor(
     {
       pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
-      where: { personSlug: { is: person } },
-      keys: ["token", "iosApp"],
+      keys: ["token", "iosApp", "person", "personSlug"],
     },
     fetcher,
     naps
@@ -85,6 +84,7 @@ export async function deviceTokensFor(
   }
   const tokens: DeviceTokenReached[] = []
   for (const row of asked.rows) {
+    if ((row.person ?? row.personSlug) !== person) continue
     const token = row.token
     const app = row.iosApp
     if (typeof token !== "string" || token === "") continue
