@@ -70,6 +70,12 @@ export const optionDeclarations: CommandLineOption[] = [
     choices: Object.values(LuaTarget),
   },
   {
+    name: "noEmitLua",
+    description:
+      "Write no Lua. Where this is unstated, `noEmit` says whether Lua is written, so a compile emitting no JavaScript states this as false.",
+    type: "boolean",
+  },
+  {
     name: "noImplicitGlobalVariables",
     description:
       'Specify to prevent implicitly turning "normal" variants into global variables in the transpiled output.',

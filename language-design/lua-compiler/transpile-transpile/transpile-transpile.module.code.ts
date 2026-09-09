@@ -45,6 +45,8 @@ export function getProgramTranspileResult(
 
   const options = program.getCompilerOptions()
 
+  const writesNoLua = options.noEmitLua ?? options.noEmit === true
+
   if (options.verbose === true) {
     console.log("Parsing project settings")
   }
@@ -130,7 +132,7 @@ export function getProgramTranspileResult(
 
     performance.endSection("transpile")
 
-    if (!options.noEmit && !options.emitDeclarationOnly) {
+    if (!writesNoLua && !options.emitDeclarationOnly) {
       performance.startSection("print")
       if (options.verbose === true) {
         console.log(`Printing ${sourceFile.fileName}`)
@@ -209,7 +211,7 @@ export function getProgramTranspileResult(
 
   options.noEmit = oldNoEmit
 
-  if (options.noEmit || (options.noEmitOnError && diagnostics.length > 0)) {
+  if (writesNoLua || (options.noEmitOnError && diagnostics.length > 0)) {
     transpiledFiles = []
   }
 

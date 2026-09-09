@@ -27,6 +27,7 @@ export interface LuaCompilerOptions {
   luaTarget?: LuaTarget
   luaLibImport?: LuaLibImportKind
   luaPlugins?: ReadonlyArray<LuaPluginImport | InMemoryLuaPlugin>
+  noEmitLua?: boolean
   noImplicitGlobalVariables?: boolean
   noImplicitSelf?: boolean
   noResolvePaths?: readonly string[]
