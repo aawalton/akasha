@@ -5,6 +5,6 @@ export const reaper = {
   pageTypeSlug: "world-class",
   slug: "reaper",
   title: "Reaper",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

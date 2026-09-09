@@ -5,6 +5,6 @@ export const pikeExpert = {
   pageTypeSlug: "world-class",
   slug: "pike-expert",
   title: "Pike Expert",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

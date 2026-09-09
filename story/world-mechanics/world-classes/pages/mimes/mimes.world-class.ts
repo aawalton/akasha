@@ -5,6 +5,6 @@ export const mimes = {
   pageTypeSlug: "world-class",
   slug: "mimes",
   title: "Mimes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

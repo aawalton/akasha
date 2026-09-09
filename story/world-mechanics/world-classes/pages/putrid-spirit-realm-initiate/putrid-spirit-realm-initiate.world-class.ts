@@ -5,6 +5,6 @@ export const putridSpiritRealmInitiate = {
   pageTypeSlug: "world-class",
   slug: "putrid-spirit-realm-initiate",
   title: "Putrid Spirit Realm Initiate",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

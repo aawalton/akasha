@@ -5,6 +5,6 @@ export const regionalAdministrator = {
   pageTypeSlug: "world-class",
   slug: "regional-administrator",
   title: "Regional Administrator",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,7 +5,7 @@ export const necromancer = {
   pageTypeSlug: "world-class",
   slug: "necromancer",
   title: "Necromancer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["necromancers"],
   evolvesToSlugs: ["ossific-necromancer"],
   references: "jsonl",

@@ -5,7 +5,7 @@ export const sandMage = {
   pageTypeSlug: "world-class",
   slug: "sand-mage",
   title: "Sand Mage",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["sand-mages"],
   evolvesToSlugs: ["bloodglass-mage"],
   references: "jsonl",

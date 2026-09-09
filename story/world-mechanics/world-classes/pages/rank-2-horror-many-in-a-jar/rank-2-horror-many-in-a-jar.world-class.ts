@@ -5,6 +5,6 @@ export const rank2HorrorManyInAJar = {
   pageTypeSlug: "world-class",
   slug: "rank-2-horror-many-in-a-jar",
   title: "Rank 2 Horror – Many in a Jar.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

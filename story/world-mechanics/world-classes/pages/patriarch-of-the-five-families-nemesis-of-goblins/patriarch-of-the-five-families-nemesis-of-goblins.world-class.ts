@@ -5,6 +5,6 @@ export const patriarchOfTheFiveFamiliesNemesisOfGoblins = {
   pageTypeSlug: "world-class",
   slug: "patriarch-of-the-five-families-nemesis-of-goblins",
   title: "Patriarch of the Five Families, Nemesis of Goblins",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

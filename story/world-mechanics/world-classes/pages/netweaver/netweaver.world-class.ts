@@ -5,6 +5,6 @@ export const netweaver = {
   pageTypeSlug: "world-class",
   slug: "netweaver",
   title: "Netweaver",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

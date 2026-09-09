@@ -5,6 +5,6 @@ export const relicGuardian = {
   pageTypeSlug: "world-class",
   slug: "relic-guardian",
   title: "Relic Guardian",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,6 +5,6 @@ export const racdelbearShapechanger = {
   pageTypeSlug: "world-class",
   slug: "racdelbear-shapechanger",
   title: "Racdelbear Shapechanger",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

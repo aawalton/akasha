@@ -5,7 +5,7 @@ export const plotter = {
   pageTypeSlug: "world-class",
   slug: "plotter",
   title: "Plotter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["chaos-schemer"],
   references: "jsonl",
 } as const satisfies WorldClass
