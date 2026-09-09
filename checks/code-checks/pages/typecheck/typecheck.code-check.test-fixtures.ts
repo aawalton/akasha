@@ -221,7 +221,7 @@ export function declaring(): string {
       id: TYPE_ID,
       pageTypeSlug: PAGE_TYPE,
       slug: HELD_TYPE,
-      loadedBySlug: `${MODULE}/${HELD_LOADER}`,
+      loadedBy: `${MODULE}/${HELD_LOADER}`,
     }),
     [HELD_LOADER_AT]: bodied({
       id: LOADER_ID,

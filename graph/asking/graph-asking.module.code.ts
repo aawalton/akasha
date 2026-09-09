@@ -12,8 +12,6 @@ const RELATION = "relation"
 
 const LOADED_BY = "loaded-by"
 
-const LOADED_BY_WAS = "loaded-by-slug"
-
 const INDEX = "index"
 
 const INDEX_NAME = "name"
@@ -152,7 +150,7 @@ function relationsInto(
         to: one.path,
         attrs: { [attribute]: named.propertySlug },
       })
-      if (named.propertySlug !== LOADED_BY && named.propertySlug !== LOADED_BY_WAS) continue
+      if (named.propertySlug !== LOADED_BY) continue
       found.push(...loadedFrom(index, named, one.path, asking, attribute))
     }
   }
