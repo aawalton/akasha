@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0026Chapter26TheFeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0026-chapter-26-the-feast",
   title: "Chapter 26 – The Feast",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 26,
   ownLength: 2121,
   unitSlug: "words",

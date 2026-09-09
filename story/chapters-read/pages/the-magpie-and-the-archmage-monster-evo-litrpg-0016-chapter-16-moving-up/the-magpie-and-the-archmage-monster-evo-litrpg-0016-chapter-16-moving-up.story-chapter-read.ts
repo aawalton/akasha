@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0016Chapter16MovingUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0016-chapter-16-moving-up",
   title: "Chapter 16 – Moving Up",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 16,
   ownLength: 2166,
   unitSlug: "words",

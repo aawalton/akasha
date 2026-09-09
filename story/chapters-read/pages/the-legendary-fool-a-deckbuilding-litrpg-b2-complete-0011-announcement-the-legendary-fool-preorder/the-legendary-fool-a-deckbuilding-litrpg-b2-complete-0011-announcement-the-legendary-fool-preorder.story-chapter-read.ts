@@ -6,7 +6,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0011AnnouncementTheLeg
     pageTypeSlug: "story-chapter-read",
     slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0011-announcement-the-legendary-fool-preorder",
     title: "Announcement: The Legendary Fool Preorder",
-    partOfCollectionSlugs: ["the-legendary-fool-a-deckbuilding-litrpg-b2-complete"],
+    storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
     position: 11,
     ownLength: 470,
     unitSlug: "words",

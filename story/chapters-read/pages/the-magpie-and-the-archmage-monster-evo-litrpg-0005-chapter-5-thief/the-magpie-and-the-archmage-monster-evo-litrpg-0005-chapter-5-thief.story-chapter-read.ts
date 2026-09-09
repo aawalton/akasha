@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0005Chapter5Thief = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0005-chapter-5-thief",
   title: "Chapter 5 – Thief",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 5,
   ownLength: 2160,
   unitSlug: "words",

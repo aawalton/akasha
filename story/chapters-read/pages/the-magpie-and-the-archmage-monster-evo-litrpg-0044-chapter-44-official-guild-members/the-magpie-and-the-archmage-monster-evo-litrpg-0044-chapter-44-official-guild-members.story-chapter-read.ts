@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0044Chapter44OfficialGuildMe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0044-chapter-44-official-guild-members",
   title: "Chapter 44 – Official Guild Members",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 44,
   ownLength: 2260,
   unitSlug: "words",
