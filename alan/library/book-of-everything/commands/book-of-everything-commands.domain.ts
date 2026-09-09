@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const bookOfEverythingCommands = {
   id: "01a06862-5a9b-71d6-99e3-546a60266903",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "book-of-everything-commands",
   definition: "what an agent runs by name over how far Ali and Alan have got through the book",
-  manifest: "json",
   parts: [],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const bookOfEverythingCommands = {
       statement: "A topic is named by its slug rather than by a path.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

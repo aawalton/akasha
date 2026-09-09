@@ -354,15 +354,6 @@
     "alan/library/book-of-everything": {
       "name": "@akasha/book-of-everything",
       "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-      },
-    },
-    "alan/library/book-of-everything/commands": {
-      "name": "@akasha/book-of-everything-commands",
-      "dependencies": {
-        "@akasha/book-of-everything": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -2722,8 +2713,6 @@
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/backup-retention"],
 
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:alan/library/book-of-everything"],
-
-    "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:alan/library/book-of-everything/commands"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 

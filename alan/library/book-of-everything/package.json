@@ -9,6 +9,7 @@
   "dependencies": {
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-service": "workspace:*"
+    "@akasha/pages-service": "workspace:*",
+    "@akasha/command-system": "workspace:*"
   }
 }
