@@ -17,11 +17,31 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "The workspace root is no package to fold into.",
+      statement: "The root is the package folded into where no other package is above.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder sitting under no other package is refused.",
+      statement: "A folder under no package at all is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root's own manifest is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold into the root adds no way in, the root naming every file already.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier folded into the root names the file that specifier reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in naming the package itself is folded into the root too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest naming a package folded into the root drops that entry.",
     },
     {
       invariantKind: "departure",

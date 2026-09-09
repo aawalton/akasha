@@ -264,3 +264,142 @@ test("a call stating no path is refused by that key", () => {
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`at` names what this change is handed, and the arguments hold no `at`")
 })
+
+const ROOT_MANIFEST = "package.json"
+
+const LONE = "@probe/lone"
+
+const LONE_MANIFEST = "akasha/lone/package.json"
+
+const NEAR_MANIFEST = "akasha/near/package.json"
+
+const USER_CODE = "akasha/user/user.module.code.ts"
+
+const idTo = (one: string): string => `01a0830a-0005-7000-8000-00000000000${one}`
+
+const ROOT_BODY = `{
+  "name": "probe",
+  "exports": {
+    "./*": "./*"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
+`
+
+const ROOT_WANTED = `{
+  "name": "probe",
+  "exports": {
+    "./*": "./*"
+  },
+  "dependencies": {
+    "zod": "^4.3.6",
+    "yaml": "^2.8.1"
+  }
+}
+`
+
+const LONE_BODY = `{
+  "name": "${LONE}",
+  "exports": {
+    ".": "./lone.ts",
+    "./two": "./two/two.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}
+`
+
+const NEAR_BODY = `{
+  "name": "@probe/near",
+  "dependencies": {
+    "${LONE}": "workspace:*",
+    "zod": "^4.3.6"
+  }
+}
+`
+
+const NEAR_WANTED = `{
+  "name": "@probe/near",
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
+`
+
+const USER_BODY = `import { lone } from "${LONE}"
+import { two } from "${LONE}/two"
+
+export const user = [lone, two]
+`
+
+const USER_WANTED = `import { lone } from "probe/akasha/lone/lone.ts"
+import { two } from "probe/akasha/lone/two/two.ts"
+
+export const user = [lone, two]
+`
+
+const ROOTED: Readonly<Record<string, string>> = {
+  [ROOT_MANIFEST]: ROOT_BODY,
+  "akasha/lone/lone.workspace-package.ts": pageOf({
+    id: idTo("0"),
+    pageTypeSlug: "workspace-package",
+    slug: "lone",
+    manifest: "json",
+  }),
+  [LONE_MANIFEST]: LONE_BODY,
+  "akasha/lone/lone.ts": "export const lone = 1\n",
+  "akasha/lone/two/two.ts": "export const two = 2\n",
+  "akasha/near/near.workspace-package.ts": pageOf({
+    id: idTo("1"),
+    pageTypeSlug: "workspace-package",
+    slug: "near",
+    manifest: "json",
+  }),
+  [NEAR_MANIFEST]: NEAR_BODY,
+  "akasha/user/user.module.ts": pageOf({
+    id: idTo("2"),
+    pageTypeSlug: "module",
+    slug: "user",
+    code: "ts",
+  }),
+  [USER_CODE]: USER_BODY,
+}
+
+function rootWorld(): World {
+  const root = indexedRepo({ ...SPEAKING, ...ROOTED })
+  return worldAt(root, textIn(root))
+}
+
+function rootFolded(): ReadonlyMap<string, string | null> {
+  const over = rootWorld()
+  const said = removePackageManifest(over, { at: LONE_MANIFEST })
+  expect(said.refused).toBe(null)
+  return bodiesIn(said, over.base)
+}
+
+test("the root is the package folded into where no other package is above", () => {
+  expect(rootFolded().get(LONE_MANIFEST)).toBe(null)
+})
+
+test("a fold into the root adds no way in, the root naming every file already", () => {
+  expect(rootFolded().get(ROOT_MANIFEST)).toBe(ROOT_WANTED)
+})
+
+test("a specifier folded into the root names the file that specifier reached", () => {
+  expect(rootFolded().get(USER_CODE)).toBe(USER_WANTED)
+})
+
+test("a manifest naming a package folded into the root drops that entry", () => {
+  expect(rootFolded().get(NEAR_MANIFEST)).toBe(NEAR_WANTED)
+})
+
+test("the root's own manifest is refused", () => {
+  const said = removePackageManifest(rootWorld(), { at: ROOT_MANIFEST })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`${ROOT_MANIFEST}\` sits under no other package, so no package is folded`
+  )
+})
