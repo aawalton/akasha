@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0165OneHundredSixtyThreeThePrimarySYoungestChild = {
   id: "01a06730-4ece-7dda-8e5b-e9871bed8224",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0165-one-hundred-sixty-three-the-primary-s-youngest-child",
   title: "ONE HUNDRED SIXTY-THREE: The Primary's Youngest Child",
   story: "super-supportive",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0092Chapter670TanyaTheNotSoEvil = {
   id: "01a06730-4fbd-7349-924f-bbb665c2d866",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0092-chapter-670-tanya-the-not-so-evil",
   title: "Chapter 670: Tanya the Not-So-Evil",
   story: "system-change-system-universe",

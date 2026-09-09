@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0021Chapter601ContributorsAndSereph = {
   id: "01a06730-4fb9-79d9-a890-f6723a597a69",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0021-chapter-601-contributors-and-sereph",
   title: "Chapter 601: Contributors and Sereph",
   story: "system-change-system-universe",

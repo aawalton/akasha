@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sylASlimeMonsterEvolutionLitrpg0097Chapter395GolemTide = {
   id: "01a06730-4e22-72a1-98aa-886676fd707c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0097-chapter-395-golem-tide",
   title: "Chapter 395 : Golem Tide",
   story: "syl-a-slime-monster-evolution-litrpg",

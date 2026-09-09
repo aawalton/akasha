@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0027Chapter606SystemWatcher = {
   id: "01a06730-4fb9-73db-97ff-a97fa10567f7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0027-chapter-606-system-watcher",
   title: "Chapter 606: System Watcher",
   story: "system-change-system-universe",

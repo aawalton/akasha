@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0037Chapter36ThePathOfNoMind = {
   id: "01a06730-4ded-79b1-9433-0475e216b1f0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0037-chapter-36-the-path-of-no-mind",
   title: "Chapter 36: The Path of No-Mind",
   story: "system-girl-system-mc-world-hopping-comedy",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sylASlimeMonsterEvolutionLitrpg0069ChapterIvIRAprilFools = {
   id: "01a06730-4e1f-7ece-b520-4ca6389725b1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0069-chapter-iv-i-r-april-fools",
   title: "Chapter IV - I - R [April Fools]",
   story: "syl-a-slime-monster-evolution-litrpg",

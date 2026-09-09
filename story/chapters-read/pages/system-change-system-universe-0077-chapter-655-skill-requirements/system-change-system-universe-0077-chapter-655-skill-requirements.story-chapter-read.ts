@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   id: "01a06730-4fbc-77ec-872c-fd5ce33c338b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0077-chapter-655-skill-requirements",
   title: "Chapter 655: Skill Requirements",
   story: "system-change-system-universe",

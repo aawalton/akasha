@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0117OneHundredSixteenTwinkleTwinkleGokoratch = {
   id: "01a06730-4e8c-7c79-833d-90ae40e1c5bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0117-one-hundred-sixteen-twinkle-twinkle-gokoratch",
   title: "ONE HUNDRED SIXTEEN: Twinkle, Twinkle, Gokoratch",
   story: "super-supportive",

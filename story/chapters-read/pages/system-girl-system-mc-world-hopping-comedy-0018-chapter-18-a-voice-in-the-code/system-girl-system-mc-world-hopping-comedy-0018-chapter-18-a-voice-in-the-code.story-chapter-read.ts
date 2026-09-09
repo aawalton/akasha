@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = {
   id: "01a06730-4dec-73af-adf8-da00578cc79f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0018-chapter-18-a-voice-in-the-code",
   title: "Chapter 18: A Voice in the Code",
   story: "system-girl-system-mc-world-hopping-comedy",

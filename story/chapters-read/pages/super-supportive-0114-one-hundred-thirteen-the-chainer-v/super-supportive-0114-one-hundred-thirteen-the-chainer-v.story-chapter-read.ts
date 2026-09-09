@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0114OneHundredThirteenTheChainerV = {
   id: "01a06730-4e85-72dd-a642-3f3b7cc42f88",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0114-one-hundred-thirteen-the-chainer-v",
   title: "ONE HUNDRED THIRTEEN: The Chainer, V",
   story: "super-supportive",

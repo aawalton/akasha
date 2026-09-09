@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0033Chapter612Dorian = {
   id: "01a06730-4fba-7fa0-98f0-212f7e2860b7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0033-chapter-612-dorian",
   title: "Chapter 612: Dorian",
   story: "system-change-system-universe",

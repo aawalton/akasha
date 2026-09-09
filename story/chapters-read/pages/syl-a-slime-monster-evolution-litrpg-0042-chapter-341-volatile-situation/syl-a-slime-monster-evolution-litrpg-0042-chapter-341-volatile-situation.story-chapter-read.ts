@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sylASlimeMonsterEvolutionLitrpg0042Chapter341VolatileSituation = {
   id: "01a06730-4e1b-7e9e-96b2-880e0a9f75da",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0042-chapter-341-volatile-situation",
   title: "Chapter 341 : Volatile Situation",
   story: "syl-a-slime-monster-evolution-litrpg",

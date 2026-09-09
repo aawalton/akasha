@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   id: "01a06730-4fb9-76fd-80ca-1198e0c27995",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0025-chapter-604-marrick-s-dilemma",
   title: "Chapter 604: Marrick’s Dilemma",
   story: "system-change-system-universe",

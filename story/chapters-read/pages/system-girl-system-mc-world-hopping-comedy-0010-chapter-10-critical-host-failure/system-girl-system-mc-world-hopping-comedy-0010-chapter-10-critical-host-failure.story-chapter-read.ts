@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0010Chapter10CriticalHostFailure = {
   id: "01a06730-4deb-7eb8-8a95-cf4d4e86fc59",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0010-chapter-10-critical-host-failure",
   title: "Chapter 10: Critical Host Failure",
   story: "system-girl-system-mc-world-hopping-comedy",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
   id: "01a06730-4edd-71ef-8edf-3eea77442624",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0180-one-hundred-seventy-eight-the-elder-s-croak",
   title: "ONE HUNDRED SEVENTY-EIGHT: The Elder's Croak",
   story: "super-supportive",

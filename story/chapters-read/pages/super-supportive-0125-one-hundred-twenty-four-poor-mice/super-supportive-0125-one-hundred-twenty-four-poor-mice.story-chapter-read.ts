@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0125OneHundredTwentyFourPoorMice = {
   id: "01a06730-4e9b-79ff-ac15-4a7315f0b797",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0125-one-hundred-twenty-four-poor-mice",
   title: "ONE HUNDRED TWENTY-FOUR: Poor Mice",
   story: "super-supportive",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0173OneHundredSeventyOneEventPlanningIsnTHard = {
   id: "01a06730-4ed6-7ba8-899c-f1cbe14e31b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0173-one-hundred-seventy-one-event-planning-isn-t-hard",
   title: "ONE HUNDRED SEVENTY-ONE:  Event Planning Isn't Hard",
   story: "super-supportive",

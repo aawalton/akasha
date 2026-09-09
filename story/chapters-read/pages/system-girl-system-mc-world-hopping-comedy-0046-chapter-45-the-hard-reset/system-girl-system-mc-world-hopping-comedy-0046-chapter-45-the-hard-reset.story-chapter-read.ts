@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0046Chapter45TheHardReset = {
   id: "01a06730-4dee-7bfd-a34a-b061ef71041e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0046-chapter-45-the-hard-reset",
   title: "Chapter 45: The Hard Reset",
   story: "system-girl-system-mc-world-hopping-comedy",

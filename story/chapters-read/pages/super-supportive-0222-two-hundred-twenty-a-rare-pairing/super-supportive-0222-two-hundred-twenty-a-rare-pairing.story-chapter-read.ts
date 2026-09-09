@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0222TwoHundredTwentyARarePairing = {
   id: "01a06730-4efe-744e-b4be-4c8ad9c14536",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0222-two-hundred-twenty-a-rare-pairing",
   title: "TWO HUNDRED TWENTY: A Rare Pairing",
   story: "super-supportive",

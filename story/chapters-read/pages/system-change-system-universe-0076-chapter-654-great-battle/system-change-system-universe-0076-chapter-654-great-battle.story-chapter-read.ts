@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0076Chapter654GreatBattle = {
   id: "01a06730-4fbc-7d4a-b4c8-b30d491046dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0076-chapter-654-great-battle",
   title: "Chapter 654: Great Battle!",
   story: "system-change-system-universe",

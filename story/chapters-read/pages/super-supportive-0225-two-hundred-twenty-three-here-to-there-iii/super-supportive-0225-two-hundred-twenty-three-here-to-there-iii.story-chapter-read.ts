@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0225TwoHundredTwentyThreeHereToThereIii = {
   id: "01a06730-4f00-7216-af0f-5146b7ab1d66",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0225-two-hundred-twenty-three-here-to-there-iii",
   title: "TWO HUNDRED TWENTY-THREE: Here-to-There III",
   story: "super-supportive",

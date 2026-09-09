@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
   id: "01a06730-4fba-7f0d-944f-f7262f07cd4c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0044-chapter-622-final-piece",
   title: "Chapter 622: Final Piece",
   story: "system-change-system-universe",

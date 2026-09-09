@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0033Chapter32TheSilentOrchestra = {
   id: "01a06730-4ded-76af-b813-d22dce469ff8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0033-chapter-32-the-silent-orchestra",
   title: "Chapter 32: The Silent Orchestra",
   story: "system-girl-system-mc-world-hopping-comedy",

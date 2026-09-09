@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sylASlimeMonsterEvolutionLitrpg0028Chapter327StepsSkillsPoints = {
   id: "01a06730-4e1a-7b4f-a4db-0f63acdb2098",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0028-chapter-327-steps-skills-points",
   title: "Chapter 327 : Steps, Skills, Points",
   story: "syl-a-slime-monster-evolution-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0250TwoHundredFortyEightTheLucky57 = {
   id: "01a06730-4f0d-7a3e-b9b3-92e4a2beff65",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0250-two-hundred-forty-eight-the-lucky-57",
   title: "TWO HUNDRED FORTY-EIGHT: The Lucky 57",
   story: "super-supportive",

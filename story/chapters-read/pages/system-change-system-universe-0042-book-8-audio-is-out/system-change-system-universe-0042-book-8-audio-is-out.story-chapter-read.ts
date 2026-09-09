@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemChangeSystemUniverse0042Book8AudioIsOut = {
   id: "01a06730-4fba-7f33-9aca-a401862ebee2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-change-system-universe-0042-book-8-audio-is-out",
   title: "Book 8 Audio is Out!",
   story: "system-change-system-universe",

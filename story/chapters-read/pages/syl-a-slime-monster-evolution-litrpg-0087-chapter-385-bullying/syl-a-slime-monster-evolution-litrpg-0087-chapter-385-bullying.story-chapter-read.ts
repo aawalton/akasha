@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const sylASlimeMonsterEvolutionLitrpg0087Chapter385Bullying = {
   id: "01a06730-4e21-73d4-9326-1a9081d612df",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0087-chapter-385-bullying",
   title: "Chapter 385 : Bullying",
   story: "syl-a-slime-monster-evolution-litrpg",

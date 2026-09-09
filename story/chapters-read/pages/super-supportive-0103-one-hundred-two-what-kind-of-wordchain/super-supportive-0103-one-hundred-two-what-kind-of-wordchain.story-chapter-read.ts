@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0103OneHundredTwoWhatKindOfWordchain = {
   id: "01a06730-4e64-7038-a3ee-f79ce3ac48f9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0103-one-hundred-two-what-kind-of-wordchain",
   title: "ONE HUNDRED TWO: What kind of wordchain?",
   story: "super-supportive",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0285TwoHundredEightyThreeThunder = {
   id: "01a06730-4f22-7594-85ab-8d295ec9fe74",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0285-two-hundred-eighty-three-thunder",
   title: "TWO HUNDRED EIGHTY-THREE: Thunder",
   story: "super-supportive",

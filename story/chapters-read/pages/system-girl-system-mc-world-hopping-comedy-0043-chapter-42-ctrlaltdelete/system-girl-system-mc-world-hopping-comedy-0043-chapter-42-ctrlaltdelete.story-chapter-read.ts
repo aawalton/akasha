@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0043Chapter42Ctrlaltdelete = {
   id: "01a06730-4dee-7e17-9b60-c883633f6ece",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0043-chapter-42-ctrlaltdelete",
   title: "Chapter 42: Ctrl+Alt+Delete",
   story: "system-girl-system-mc-world-hopping-comedy",
