@@ -1,19 +1,3 @@
-// What this pins that nothing else does: that a wrong address under `/api/` is answered as a wrong
-// address. On 2026-09-02 Alan's health Shortcut posted to `/api/health-samples` — the ingest route
-// is `/api/tracking/health-samples` — and the page catch-all `:pageTypeSlug/:pageHrefParam` matched
-// it as page type `api`. That route declares no `action`, so React Router raised its own error
-// before any module of ours ran and the answer was 500. Three investigations went at the site
-// instead of at the address.
-//
-// So the tests below read the real `app/routes.ts`, resolve a path against it exactly as the server
-// does, and then load the file that the config itself names. Nothing here hardcodes which module
-// answers: delete the `api/*` line from `routes.ts` and the first test reports `page-detail.tsx`,
-// the second finds no `action` where it needs one, and both fail.
-//
-// The route inventory test is the other half. A splat that swallowed a real `api/...` route, or a
-// page path, would be a worse defect than the one being fixed, so every declared route is resolved
-// and has to come back to the file that declares it.
-
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { matchRoutes } from "react-router"
@@ -23,7 +7,6 @@ type Entry = { path?: string; index?: boolean; file: string; children?: readonly
 
 const APP_DIR = join(import.meta.dir, "..", "..")
 
-/** The file the real route config gives a URL, resolved the way the server resolves it. */
 function resolvedFile(url: string): string | null {
   const matched = matchRoutes(routes as never, url)
   if (!matched || matched.length === 0) return null
@@ -32,10 +15,9 @@ function resolvedFile(url: string): string | null {
   return (leaf.route as never as { file: string }).file
 }
 
-/** Every route the config declares, as a (path, file) pair, layouts flattened away. */
 function declaredRoutes(): readonly { path: string; file: string }[] {
   const found: { path: string; file: string }[] = []
-  const walk = (entries: readonly Entry[], prefix: string): void => {
+  const walk = (entries: readonly Entry[], prefix: string): undefined => {
     for (const entry of entries) {
       const here =
         entry.path === undefined ? prefix : `${prefix}/${entry.path}`.replace(/\/+/g, "/")
@@ -48,7 +30,6 @@ function declaredRoutes(): readonly { path: string; file: string }[] {
   return found
 }
 
-/** A concrete URL for a declared path, with every `:param` and `*` filled in. */
 const concrete = (path: string): string =>
   path.replace(/:[A-Za-z0-9_$-]+/g, "probe").replace(/\*/g, "probe") || "/"
 
@@ -70,8 +51,6 @@ test("the module the config names for a wrong api address declares an action", a
     action?: (args: { request: Request }) => Response
     loader?: (args: { request: Request }) => Response
   }
-  // The 500 came from a matched route declaring no `action`, so this is the assertion that would
-  // have failed on 2026-09-02.
   expect(typeof answering.action).toBe("function")
   expect(typeof answering.loader).toBe("function")
 })
@@ -114,7 +93,6 @@ test("the 404 body never names the route the caller was reaching for", async () 
     request: new Request("https://alanwalton.com/api/health-samples", { method: "POST" }),
   })
   const body = JSON.stringify(await posted.json())
-  // A wrong address fails plainly rather than being redirected or quietly accepted.
   expect(body).not.toContain("tracking")
   expect(posted.headers.get("Location")).toBeNull()
 })
