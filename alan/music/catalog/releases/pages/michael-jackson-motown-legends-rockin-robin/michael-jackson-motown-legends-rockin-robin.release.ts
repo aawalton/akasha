@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonMotownLegendsRockinRobin = {
   id: "01a0676a-d725-700c-b141-271511224794",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-motown-legends-rockin-robin",
   title: "Motown Legends: Rockin' Robin",
   partOfCollections: ["michael-jackson"],

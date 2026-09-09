@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonMusicAndMe = {
   id: "01a0676a-d725-7019-822f-1971d310dfe3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-music-and-me",
   title: "Music and Me",
   partOfCollections: ["michael-jackson"],

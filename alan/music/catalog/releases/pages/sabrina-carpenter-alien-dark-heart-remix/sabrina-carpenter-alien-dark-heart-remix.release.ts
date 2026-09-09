@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterAlienDarkHeartRemix = {
   id: "01a0676a-d716-7013-aa60-05512b58ba04",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-alien-dark-heart-remix",
   title: "Alien (Dark Heart Remix)",
   partOfCollections: ["sabrina-carpenter"],

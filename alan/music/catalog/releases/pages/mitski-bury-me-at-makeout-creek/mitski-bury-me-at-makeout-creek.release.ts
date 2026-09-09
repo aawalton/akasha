@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const mitskiBuryMeAtMakeoutCreek = {
   id: "01a0676a-d719-7046-8add-f1f5cd27162d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "mitski-bury-me-at-makeout-creek",
   title: "Bury Me At Makeout Creek",
   partOfCollections: ["mitski"],

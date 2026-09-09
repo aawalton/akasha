@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nsync2GreatestHits = {
   id: "01a0676a-d71f-702a-bcfe-96031fac8f4c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nsync-2-greatest-hits",
   title: "Greatest Hits",
   partOfCollections: ["nsync-2"],

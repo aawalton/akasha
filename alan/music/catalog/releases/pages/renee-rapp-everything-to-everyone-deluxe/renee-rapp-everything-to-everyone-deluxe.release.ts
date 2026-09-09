@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const reneeRappEverythingToEveryoneDeluxe = {
   id: "01a0676a-d71d-7043-b998-baac6bd2fe6e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "renee-rapp-everything-to-everyone-deluxe",
   title: "Everything To Everyone (Deluxe)",
   partOfCollections: ["renee-rapp"],

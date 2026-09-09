@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaSpotifySessions = {
   id: "01a0676a-d729-707f-aea6-feec2a042cf2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-spotify-sessions",
   title: "Spotify Sessions",
   partOfCollections: ["sia"],

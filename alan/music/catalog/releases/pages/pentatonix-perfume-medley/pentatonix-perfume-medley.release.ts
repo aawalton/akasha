@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixPerfumeMedley = {
   id: "01a0676a-d726-7071-b7b6-122edde328eb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-perfume-medley",
   title: "Perfume Medley",
   partOfCollections: ["pentatonix"],

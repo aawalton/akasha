@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonXscapeTrackByTrackCommentary = {
   id: "01a0676a-d731-7044-9933-558248f4cee1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-xscape-track-by-track-commentary",
   title: "XSCAPE - Track by Track Commentary",
   partOfCollections: ["michael-jackson"],

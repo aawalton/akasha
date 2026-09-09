@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   id: "01a0676a-d728-7040-b5e8-1017c89d59a2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-satisfied-feat-miguel-queen-latifah-from-the-hamilton-mixtape",
   title: "Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]",
   partOfCollections: ["sia"],

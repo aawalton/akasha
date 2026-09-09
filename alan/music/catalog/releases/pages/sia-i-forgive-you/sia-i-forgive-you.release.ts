@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaIForgiveYou = {
   id: "01a0676a-d721-7018-b2c8-466b04b304e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",
   partOfCollections: ["sia"],

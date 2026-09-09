@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterStandOutFromHowToBuildABetterBoy = {
   id: "01a0676a-d72a-700f-920e-28936f70c6de",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-stand-out-from-how-to-build-a-better-boy",
   title: 'Stand Out (From "How to Build a Better Boy")',
   partOfCollections: ["sabrina-carpenter"],

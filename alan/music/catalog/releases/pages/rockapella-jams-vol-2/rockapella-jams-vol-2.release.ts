@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const rockapellaJamsVol2 = {
   id: "01a0676a-d722-701f-8fbb-0cb57f51a2da",
   pageTypeSlug: "release",
+  type: "release",
   slug: "rockapella-jams-vol-2",
   title: "Jams, Vol. 2",
   partOfCollections: ["rockapella"],

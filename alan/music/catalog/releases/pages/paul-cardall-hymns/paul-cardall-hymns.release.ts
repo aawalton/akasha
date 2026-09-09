@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallHymns = {
   id: "01a0676a-d720-7080-abe5-7456f0f7ed0b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-hymns",
   title: "Hymns",
   partOfCollections: ["paul-cardall"],

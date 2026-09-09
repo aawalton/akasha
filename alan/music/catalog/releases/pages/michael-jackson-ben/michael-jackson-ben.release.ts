@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonBen = {
   id: "01a0676a-d718-703f-9525-6c361ecc26f0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-ben",
   title: "Ben",
   partOfCollections: ["michael-jackson"],

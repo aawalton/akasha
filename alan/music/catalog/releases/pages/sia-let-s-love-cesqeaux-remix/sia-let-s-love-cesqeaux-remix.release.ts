@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaLetSLoveCesqeauxRemix = {
   id: "01a0676a-d723-701e-8873-270014a243ed",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-let-s-love-cesqeaux-remix",
   title: "Let's Love (Cesqeaux Remix)",
   partOfCollections: ["sia"],

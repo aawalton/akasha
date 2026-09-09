@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaUnstoppable = {
   id: "01a0676a-d72f-7049-8659-64ede34cf822",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-unstoppable",
   title: "Unstoppable",
   partOfCollections: ["sia"],

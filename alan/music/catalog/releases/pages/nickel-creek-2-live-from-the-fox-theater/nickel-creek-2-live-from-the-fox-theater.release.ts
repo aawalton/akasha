@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nickelCreek2LiveFromTheFoxTheater = {
   id: "01a0676a-d723-704e-ad9c-e7ea38a1d00b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nickel-creek-2-live-from-the-fox-theater",
   title: "Live from the Fox Theater",
   partOfCollections: ["nickel-creek-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaLadyCroissantLive = {
   id: "01a0676a-d722-7057-a8e3-13b3fece95c7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-lady-croissant-live",
   title: "Lady Croissant (Live)",
   partOfCollections: ["sia"],

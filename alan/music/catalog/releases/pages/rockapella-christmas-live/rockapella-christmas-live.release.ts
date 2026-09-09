@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const rockapellaChristmasLive = {
   id: "01a0676a-d71a-703f-aa4c-3716fe97e388",
   pageTypeSlug: "release",
+  type: "release",
   slug: "rockapella-christmas-live",
   title: "Christmas Live",
   partOfCollections: ["rockapella"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaFloatingThroughSpace = {
   id: "01a0676a-d71e-7013-a28e-ebee2dbe61ac",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
   partOfCollections: ["sia"],

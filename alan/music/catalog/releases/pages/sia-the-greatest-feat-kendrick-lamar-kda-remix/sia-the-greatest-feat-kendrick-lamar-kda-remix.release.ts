@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaTheGreatestFeatKendrickLamarKdaRemix = {
   id: "01a0676a-d72d-7018-a54b-5396db84ce0a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-the-greatest-feat-kendrick-lamar-kda-remix",
   title: "The Greatest (feat. Kendrick Lamar) [KDA Remix]",
   partOfCollections: ["sia"],

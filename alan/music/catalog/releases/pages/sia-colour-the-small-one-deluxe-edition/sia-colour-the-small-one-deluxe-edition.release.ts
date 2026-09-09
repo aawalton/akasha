@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaColourTheSmallOneDeluxeEdition = {
   id: "01a0676a-d71b-7013-9ea4-5875d729b119",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-colour-the-small-one-deluxe-edition",
   title: "Colour The Small One (Deluxe Edition)",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nsync2TheWinterAlbum = {
   id: "01a0676a-d72e-701d-ae59-b30bc1086b61",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nsync-2-the-winter-album",
   title: "The Winter Album",
   partOfCollections: ["nsync-2"],

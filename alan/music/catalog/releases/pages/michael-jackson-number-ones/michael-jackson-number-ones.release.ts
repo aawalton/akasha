@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonNumberOnes = {
   id: "01a0676a-d726-700a-ab6d-ccf1e4103867",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-number-ones",
   title: "Number Ones",
   partOfCollections: ["michael-jackson"],

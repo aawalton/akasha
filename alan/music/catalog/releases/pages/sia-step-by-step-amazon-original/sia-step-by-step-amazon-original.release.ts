@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaStepByStepAmazonOriginal = {
   id: "01a0676a-d72a-701d-bdb8-cd1ddd895a9a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-step-by-step-amazon-original",
   title: "Step By Step (Amazon Original)",
   partOfCollections: ["sia"],

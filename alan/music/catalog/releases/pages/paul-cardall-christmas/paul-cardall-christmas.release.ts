@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallChristmas = {
   id: "01a0676a-d71a-7032-b30b-2d28b1096a81",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-christmas",
   title: "Christmas",
   partOfCollections: ["paul-cardall"],

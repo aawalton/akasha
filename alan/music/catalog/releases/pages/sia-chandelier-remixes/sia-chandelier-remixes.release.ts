@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaChandelierRemixes = {
   id: "01a0676a-d71a-7015-b5e7-1cbf33085c53",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-chandelier-remixes",
   title: "Chandelier (Remixes)",
   partOfCollections: ["sia"],

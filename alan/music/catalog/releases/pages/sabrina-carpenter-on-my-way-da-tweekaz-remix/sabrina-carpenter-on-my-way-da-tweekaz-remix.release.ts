@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterOnMyWayDaTweekazRemix = {
   id: "01a0676a-d726-7025-ae7f-f4a780422aa0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-on-my-way-da-tweekaz-remix",
   title: "On My Way (Da Tweekaz Remix)",
   partOfCollections: ["sabrina-carpenter"],

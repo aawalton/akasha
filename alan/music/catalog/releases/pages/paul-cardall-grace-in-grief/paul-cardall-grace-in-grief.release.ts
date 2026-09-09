@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallGraceInGrief = {
   id: "01a0676a-d71f-7024-ad14-8ae101b64cb5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-grace-in-grief",
   title: "Grace in Grief",
   partOfCollections: ["paul-cardall"],

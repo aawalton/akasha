@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonBadRemastered = {
   id: "01a0676a-d718-700d-b108-42d5d9451676",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-bad-remastered",
   title: "Bad (Remastered)",
   partOfCollections: ["michael-jackson"],

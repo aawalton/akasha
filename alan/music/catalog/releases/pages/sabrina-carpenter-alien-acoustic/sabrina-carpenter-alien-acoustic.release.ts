@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterAlienAcoustic = {
   id: "01a0676a-d716-7012-a532-d460dbb5bfbc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-alien-acoustic",
   title: "Alien (Acoustic)",
   partOfCollections: ["sabrina-carpenter"],

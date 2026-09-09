@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaBeautifulPeopleThembaRemix = {
   id: "01a0676a-d718-7030-be43-8cd86fc037e2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-beautiful-people-themba-remix",
   title: "Beautiful People (THEMBA Remix)",
   partOfCollections: ["sia"],

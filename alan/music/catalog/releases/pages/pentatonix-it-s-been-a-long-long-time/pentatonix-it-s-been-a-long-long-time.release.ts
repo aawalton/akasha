@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixItSBeenALongLongTime = {
   id: "01a0676a-d722-700b-87a7-7962eb3c2b20",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-it-s-been-a-long-long-time",
   title: "It's Been A Long, Long Time",
   partOfCollections: ["pentatonix"],

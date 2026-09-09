@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
   id: "01a0676a-d71f-705f-9956-932f980d8dd3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
   partOfCollections: ["phoebe-bridgers"],

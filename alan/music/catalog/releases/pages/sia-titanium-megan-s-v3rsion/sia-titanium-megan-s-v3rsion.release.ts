@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaTitaniumMeganSV3rsion = {
   id: "01a0676a-d72e-7045-942d-c91f541466a0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-titanium-megan-s-v3rsion",
   title: "Titanium (Megan's V3rsion)",
   partOfCollections: ["sia"],

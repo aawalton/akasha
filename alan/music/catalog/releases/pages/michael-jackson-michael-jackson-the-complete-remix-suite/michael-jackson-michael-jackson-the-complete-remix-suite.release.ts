@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   id: "01a0676a-d724-705b-96f2-bc38ebb171d0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-michael-jackson-the-complete-remix-suite",
   title: "Michael Jackson: The Complete Remix Suite",
   partOfCollections: ["michael-jackson"],

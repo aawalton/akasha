@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixWeNeedALittleChristmas = {
   id: "01a0676a-d730-7034-99d5-d25c81319d87",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-we-need-a-little-christmas",
   title: "We Need A Little Christmas",
   partOfCollections: ["pentatonix"],

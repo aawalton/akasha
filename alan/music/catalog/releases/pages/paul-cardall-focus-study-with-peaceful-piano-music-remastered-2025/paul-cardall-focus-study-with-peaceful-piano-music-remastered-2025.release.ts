@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   id: "01a0676a-d71e-701a-9354-645e15fa6600",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-focus-study-with-peaceful-piano-music-remastered-2025",
   title: "Focus & Study with Peaceful Piano Music (Remastered 2025)",
   partOfCollections: ["paul-cardall"],

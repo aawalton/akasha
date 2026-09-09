@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterFirstLoveRemixes = {
   id: "01a0676a-d71e-7004-a4d3-9312fa3b645f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-first-love-remixes",
   title: "First Love (Remixes)",
   partOfCollections: ["sabrina-carpenter"],

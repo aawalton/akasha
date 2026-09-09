@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaCheapThrillsRemixFeatNickyJam = {
   id: "01a0676a-d71a-7024-8a35-ef66ba1df958",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-cheap-thrills-remix-feat-nicky-jam",
   title: "Cheap Thrills Remix (feat. Nicky Jam)",
   partOfCollections: ["sia"],

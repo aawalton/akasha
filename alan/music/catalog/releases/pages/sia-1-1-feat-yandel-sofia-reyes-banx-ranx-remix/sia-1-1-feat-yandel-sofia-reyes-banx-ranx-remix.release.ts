@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sia11FeatYandelSofiaReyesBanxRanxRemix = {
   id: "01a0676a-d714-700b-b2c8-471311e8e9ca",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-1-1-feat-yandel-sofia-reyes-banx-ranx-remix",
   title: "1+1 (feat. Yandel & Sofía Reyes) [Banx & Ranx Remix]",
   partOfCollections: ["sia"],

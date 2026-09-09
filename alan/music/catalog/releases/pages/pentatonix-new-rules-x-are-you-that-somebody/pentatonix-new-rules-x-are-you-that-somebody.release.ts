@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixNewRulesXAreYouThatSomebody = {
   id: "01a0676a-d725-7055-bb35-efd89f754851",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-new-rules-x-are-you-that-somebody",
   title: "New Rules x Are You That Somebody?",
   partOfCollections: ["pentatonix"],

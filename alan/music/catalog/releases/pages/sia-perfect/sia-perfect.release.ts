@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaPerfect = {
   id: "01a0676a-d726-706d-899f-345a02e1d3c8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-perfect",
   title: "Perfect",
   partOfCollections: ["sia"],

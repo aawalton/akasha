@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixAuldLangSyne = {
   id: "01a0676a-d717-7040-b704-fa50c06c6ba0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-auld-lang-syne",
   title: "Auld Lang Syne",
   partOfCollections: ["pentatonix"],

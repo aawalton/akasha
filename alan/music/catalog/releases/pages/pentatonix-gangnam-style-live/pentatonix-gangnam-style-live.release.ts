@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixGangnamStyleLive = {
   id: "01a0676a-d71e-704d-ba8d-69d3d915c104",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-gangnam-style-live",
   title: "Gangnam Style (Live)",
   partOfCollections: ["pentatonix"],

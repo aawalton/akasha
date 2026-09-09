@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichaelJackson = {
   id: "01a0676a-d714-7023-b257-73a64cadfc8f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-20th-century-masters-the-millennium-collection-best-of-michael-jackson",
   title: "20th Century Masters: The Millennium Collection: Best of Michael Jackson",
   partOfCollections: ["michael-jackson"],

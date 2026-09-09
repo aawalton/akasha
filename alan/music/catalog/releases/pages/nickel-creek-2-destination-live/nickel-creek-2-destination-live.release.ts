@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nickelCreek2DestinationLive = {
   id: "01a0676a-d71c-700c-ace0-858b850e1401",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nickel-creek-2-destination-live",
   title: "Destination (Live)",
   partOfCollections: ["nickel-creek-2"],

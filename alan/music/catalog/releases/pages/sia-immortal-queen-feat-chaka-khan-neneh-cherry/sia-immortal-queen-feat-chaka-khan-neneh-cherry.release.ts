@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaImmortalQueenFeatChakaKhanNenehCherry = {
   id: "01a0676a-d721-7060-99b1-0e581b26b48f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-neneh-cherry",
   title: "Immortal Queen (feat. Chaka Khan & Neneh Cherry)",
   partOfCollections: ["sia"],

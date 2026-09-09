@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaImmortalQueenFeatChakaKhanDebbieHarry = {
   id: "01a0676a-d721-705e-a4fc-a7049f34e347",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-debbie-harry",
   title: "Immortal Queen (feat. Chaka Khan & Debbie Harry)",
   partOfCollections: ["sia"],

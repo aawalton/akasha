@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallASacredChristmasPianoCollection = {
   id: "01a0676a-d715-703e-b639-0d04f13d7b0d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-a-sacred-christmas-piano-collection",
   title: "A Sacred Christmas | Piano Collection",
   partOfCollections: ["paul-cardall"],

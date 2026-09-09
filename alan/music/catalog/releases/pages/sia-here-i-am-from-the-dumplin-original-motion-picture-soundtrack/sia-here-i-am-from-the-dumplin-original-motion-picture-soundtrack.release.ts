@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d720-7030-9a8d-31451240c56a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-here-i-am-from-the-dumplin-original-motion-picture-soundtrack",
   title: "Here I Am (from the Dumplin' Original Motion Picture Soundtrack)",
   partOfCollections: ["sia"],

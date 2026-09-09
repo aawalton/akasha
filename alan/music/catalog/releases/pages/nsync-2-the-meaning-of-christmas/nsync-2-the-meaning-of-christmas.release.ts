@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nsync2TheMeaningOfChristmas = {
   id: "01a0676a-d72d-7040-9ade-47b3c5e4bb5e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nsync-2-the-meaning-of-christmas",
   title: "The Meaning Of Christmas",
   partOfCollections: ["nsync-2"],

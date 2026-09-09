@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersStrangerInTheAlps = {
   id: "01a0676a-d72a-7029-af89-2ce1a6bb1b7f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-stranger-in-the-alps",
   title: "Stranger in the Alps",
   partOfCollections: ["phoebe-bridgers"],

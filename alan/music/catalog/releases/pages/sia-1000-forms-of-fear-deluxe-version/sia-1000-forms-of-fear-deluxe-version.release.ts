@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sia1000FormsOfFearDeluxeVersion = {
   id: "01a0676a-d714-7010-90f4-9b7fb18878c0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-1000-forms-of-fear-deluxe-version",
   title: "1000 Forms Of Fear (Deluxe Version)",
   partOfCollections: ["sia"],

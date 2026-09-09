@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   id: "01a0676a-d723-700e-91de-2821b4e3cb47",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
   title: "Let Me Move You (From the Netflix film Work It)",
   partOfCollections: ["sabrina-carpenter"],

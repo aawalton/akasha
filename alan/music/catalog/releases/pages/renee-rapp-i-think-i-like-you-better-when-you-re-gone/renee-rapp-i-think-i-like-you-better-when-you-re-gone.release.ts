@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
   id: "01a0676a-d721-7040-81f8-62fa04644bc4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "renee-rapp-i-think-i-like-you-better-when-you-re-gone",
   title: "I Think I Like You Better When You’re Gone",
   partOfCollections: ["renee-rapp"],

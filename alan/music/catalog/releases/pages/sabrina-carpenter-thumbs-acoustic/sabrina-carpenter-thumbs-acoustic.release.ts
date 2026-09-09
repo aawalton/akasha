@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterThumbsAcoustic = {
   id: "01a0676a-d72e-703b-84d8-6fc2182122a9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-thumbs-acoustic",
   title: "Thumbs (Acoustic)",
   partOfCollections: ["sabrina-carpenter"],

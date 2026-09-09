@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallTheLookingGlass = {
   id: "01a0676a-d72d-7035-a618-716eb603f071",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-the-looking-glass",
   title: "The Looking Glass",
   partOfCollections: ["paul-cardall"],

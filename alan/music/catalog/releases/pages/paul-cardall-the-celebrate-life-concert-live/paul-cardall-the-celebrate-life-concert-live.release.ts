@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallTheCelebrateLifeConcertLive = {
   id: "01a0676a-d72c-703b-a5ed-5ab521a92bc7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-the-celebrate-life-concert-live",
   title: "The Celebrate Life Concert (Live)",
   partOfCollections: ["paul-cardall"],

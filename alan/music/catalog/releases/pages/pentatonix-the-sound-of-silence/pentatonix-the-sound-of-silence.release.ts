@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixTheSoundOfSilence = {
   id: "01a0676a-d72e-700f-83fc-e0a3f8421d21",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-the-sound-of-silence",
   title: "The Sound of Silence",
   partOfCollections: ["pentatonix"],

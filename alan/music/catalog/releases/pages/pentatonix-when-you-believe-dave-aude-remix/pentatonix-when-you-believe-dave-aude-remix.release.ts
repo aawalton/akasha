@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixWhenYouBelieveDaveAudeRemix = {
   id: "01a0676a-d731-7002-96ef-a7b5037d11c3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-when-you-believe-dave-aude-remix",
   title: "When You Believe (Dave Audé Remix)",
   partOfCollections: ["pentatonix"],

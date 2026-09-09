@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallScarboroughFair = {
   id: "01a0676a-d728-7051-843f-2c249df0b190",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-scarborough-fair",
   title: "Scarborough Fair",
   partOfCollections: ["paul-cardall"],

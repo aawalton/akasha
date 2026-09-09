@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   id: "01a0676a-d71b-7041-a3e7-1d7bfc81fbc6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-cruisin-for-a-bruisin-inspired-by-teen-beach-movie",
   title: "Cruisin' for a Bruisin' (Inspired by \"Teen Beach Movie\")",
   partOfCollections: ["pentatonix"],

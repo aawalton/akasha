@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterEmailsICanTSendFwd = {
   id: "01a0676a-d71d-700a-82c6-22cb7a1ed89c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-emails-i-can-t-send-fwd",
   title: "emails i can’t send fwd:",
   partOfCollections: ["sabrina-carpenter"],

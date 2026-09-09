@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaGimmeLoveArminVanBuurenRemix = {
   id: "01a0676a-d71e-705f-a8b3-ab2f1ae7f613",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-gimme-love-armin-van-buuren-remix",
   title: "Gimme Love (Armin van Buuren Remix)",
   partOfCollections: ["sia"],

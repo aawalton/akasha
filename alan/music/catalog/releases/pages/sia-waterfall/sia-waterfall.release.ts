@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaWaterfall = {
   id: "01a0676a-d730-701e-b807-a0018a47ea49",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-waterfall",
   title: "Waterfall",
   partOfCollections: ["sia"],

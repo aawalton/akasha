@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterSpotifySingles = {
   id: "01a0676a-d72a-7005-abe9-b96f1df8dd60",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-spotify-singles",
   title: "Spotify Singles",
   partOfCollections: ["sabrina-carpenter"],

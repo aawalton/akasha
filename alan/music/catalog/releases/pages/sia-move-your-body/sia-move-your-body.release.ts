@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaMoveYourBody = {
   id: "01a0676a-d725-700e-9763-5358d75cb9ce",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-move-your-body",
   title: "Move Your Body",
   partOfCollections: ["sia"],

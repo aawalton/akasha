@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaBeautifulPeopleAfrojackAmelRemix = {
   id: "01a0676a-d718-7028-95e9-85c9b1b1fa89",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-beautiful-people-afrojack-amel-remix",
   title: "Beautiful People (AFROJACK & Amél Remix)",
   partOfCollections: ["sia"],

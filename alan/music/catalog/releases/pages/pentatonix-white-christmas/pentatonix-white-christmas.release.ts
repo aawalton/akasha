@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixWhiteChristmas = {
   id: "01a0676a-d731-7011-be60-5749840c8bc2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-white-christmas",
   title: "White Christmas",
   partOfCollections: ["pentatonix"],

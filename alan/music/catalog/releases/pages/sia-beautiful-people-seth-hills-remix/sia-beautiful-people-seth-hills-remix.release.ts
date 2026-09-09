@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaBeautifulPeopleSethHillsRemix = {
   id: "01a0676a-d718-702f-9736-10defc231be8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-beautiful-people-seth-hills-remix",
   title: "Beautiful People (Seth Hills Remix)",
   partOfCollections: ["sia"],

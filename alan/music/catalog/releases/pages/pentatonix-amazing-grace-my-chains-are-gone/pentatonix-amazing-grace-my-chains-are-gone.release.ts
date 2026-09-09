@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixAmazingGraceMyChainsAreGone = {
   id: "01a0676a-d717-7000-a8e7-8aefa4f0c9ec",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-amazing-grace-my-chains-are-gone",
   title: "Amazing Grace (My Chains Are Gone)",
   partOfCollections: ["pentatonix"],

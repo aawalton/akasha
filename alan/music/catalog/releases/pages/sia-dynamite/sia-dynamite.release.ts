@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaDynamite = {
   id: "01a0676a-d71c-7045-9ffd-66d72835af66",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-dynamite",
   title: "Dynamite",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nsync2YoTeVoyAAmarThisIPromiseYou = {
   id: "01a0676a-d732-7000-9c63-a315b899aa7c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nsync-2-yo-te-voy-a-amar-this-i-promise-you",
   title: "Yo Te Voy A Amar (This I Promise You)",
   partOfCollections: ["nsync-2"],

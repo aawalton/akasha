@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaRemixes1 = {
   id: "01a0676a-d727-7066-9797-d09266a58b44",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-remixes-1",
   title: "Remixes 1",
   partOfCollections: ["sia"],

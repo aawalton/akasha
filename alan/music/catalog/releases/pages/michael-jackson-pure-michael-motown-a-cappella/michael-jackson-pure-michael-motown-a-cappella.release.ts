@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonPureMichaelMotownACappella = {
   id: "01a0676a-d727-7034-a64b-11963678b2ab",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-pure-michael-motown-a-cappella",
   title: "Pure Michael: Motown A Cappella",
   partOfCollections: ["michael-jackson"],

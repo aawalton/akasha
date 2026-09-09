@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   id: "01a0676a-d71e-7018-b5b5-acdb6190da35",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-fly-me-to-the-moon-inspired-by-final-fantasy-xiv",
   title: "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
   partOfCollections: ["sia"],

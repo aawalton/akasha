@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaMtgDaSiaAngelByTheWings = {
   id: "01a0676a-d725-7013-a75d-e11de1d907c5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-mtg-da-sia-angel-by-the-wings",
   title: "MTG DA SIA - ANGEL BY THE WINGS",
   partOfCollections: ["sia"],

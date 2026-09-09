@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallAscensusChristiAPianoRhapsody = {
   id: "01a0676a-d717-7037-afe8-b19dad66132a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-ascensus-christi-a-piano-rhapsody",
   title: "Ascensus Christi: A Piano Rhapsody",
   partOfCollections: ["paul-cardall"],

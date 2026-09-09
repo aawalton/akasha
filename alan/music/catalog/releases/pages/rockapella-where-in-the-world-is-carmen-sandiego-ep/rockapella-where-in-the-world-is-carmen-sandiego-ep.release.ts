@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   id: "01a0676a-d731-700c-97fb-330e1185a251",
   pageTypeSlug: "release",
+  type: "release",
   slug: "rockapella-where-in-the-world-is-carmen-sandiego-ep",
   title: "Where in the World Is Carmen Sandiego EP",
   partOfCollections: ["rockapella"],

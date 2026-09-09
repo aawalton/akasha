@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   id: "01a0676a-d71e-7014-9048-81faac76bbaf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-floating-through-space-feat-david-guetta-hex-sia-in-space-mix",
   title: "Floating Through Space (feat. David Guetta) [Hex & Sia In Space Mix]",
   partOfCollections: ["sia"],

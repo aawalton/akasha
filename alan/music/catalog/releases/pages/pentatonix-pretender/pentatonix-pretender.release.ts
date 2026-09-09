@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixPretender = {
   id: "01a0676a-d727-7018-b25c-524f2da2001f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-pretender",
   title: "Pretender",
   partOfCollections: ["pentatonix"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaTogether = {
   id: "01a0676a-d72f-700c-aa4e-5312a86b877b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-together",
   title: "Together",
   partOfCollections: ["sia"],

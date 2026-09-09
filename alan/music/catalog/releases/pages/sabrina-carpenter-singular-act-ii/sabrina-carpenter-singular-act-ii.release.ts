@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterSingularActIi = {
   id: "01a0676a-d729-7010-b962-585d181191af",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-singular-act-ii",
   title: "Singular Act II",
   partOfCollections: ["sabrina-carpenter"],

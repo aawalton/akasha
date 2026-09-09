@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallDecemberPianoStringEnsemble = {
   id: "01a0676a-d71c-7000-ac3a-8f3b7656e086",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-december-piano-string-ensemble",
   title: "December (Piano & String Ensemble)",
   partOfCollections: ["paul-cardall"],

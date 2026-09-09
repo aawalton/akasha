@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaHeyBoyTheRemixes = {
   id: "01a0676a-d720-7036-b0c5-7ea37aee0c20",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-hey-boy-the-remixes",
   title: "Hey Boy (The Remixes)",
   partOfCollections: ["sia"],

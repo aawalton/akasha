@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterShortNSweet = {
   id: "01a0676a-d728-7076-a1a1-a625cb4fd82e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-short-n-sweet",
   title: "Short n' Sweet",
   partOfCollections: ["sabrina-carpenter"],

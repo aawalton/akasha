@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const rockapellaRockAroundTheClockTellMeSomethingGood = {
   id: "01a0676a-d728-7017-b409-41d179e4bf21",
   pageTypeSlug: "release",
+  type: "release",
   slug: "rockapella-rock-around-the-clock-tell-me-something-good",
   title: "Rock Around the Clock / Tell Me Something Good",
   partOfCollections: ["rockapella"],

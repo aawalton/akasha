@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   id: "01a0676a-d723-701f-8693-5d295986fd5e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-let-s-love-david-guetta-morten-future-rave-remix",
   title: "Let's Love (David Guetta & MORTEN Future Rave Remix)",
   partOfCollections: ["sia"],

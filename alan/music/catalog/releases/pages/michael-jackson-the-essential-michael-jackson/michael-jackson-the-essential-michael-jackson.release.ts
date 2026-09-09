@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonTheEssentialMichaelJackson = {
   id: "01a0676a-d72d-700a-8d82-3257ee6a7dee",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-the-essential-michael-jackson",
   title: "The Essential Michael Jackson",
   partOfCollections: ["michael-jackson"],

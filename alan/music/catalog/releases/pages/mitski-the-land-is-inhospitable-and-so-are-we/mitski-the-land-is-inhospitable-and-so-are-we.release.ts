@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const mitskiTheLandIsInhospitableAndSoAreWe = {
   id: "01a0676a-d72d-7030-a5b3-7e11050c1d09",
   pageTypeSlug: "release",
+  type: "release",
   slug: "mitski-the-land-is-inhospitable-and-so-are-we",
   title: "The Land Is Inhospitable and So Are We",
   partOfCollections: ["mitski"],

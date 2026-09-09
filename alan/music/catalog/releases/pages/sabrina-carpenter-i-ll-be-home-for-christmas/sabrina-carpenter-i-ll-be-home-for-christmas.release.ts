@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterILlBeHomeForChristmas = {
   id: "01a0676a-d721-7029-b61e-08bf3dea1442",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-i-ll-be-home-for-christmas",
   title: "I'll Be Home For Christmas",
   partOfCollections: ["sabrina-carpenter"],

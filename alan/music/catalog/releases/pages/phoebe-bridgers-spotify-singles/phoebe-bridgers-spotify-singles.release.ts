@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersSpotifySingles = {
   id: "01a0676a-d72a-700b-89ba-68bd0cbbb1b6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-spotify-singles",
   title: "Spotify Singles",
   partOfCollections: ["phoebe-bridgers"],

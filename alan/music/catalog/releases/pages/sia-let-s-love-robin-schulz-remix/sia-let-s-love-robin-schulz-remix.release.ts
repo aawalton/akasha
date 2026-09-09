@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaLetSLoveRobinSchulzRemix = {
   id: "01a0676a-d723-7020-946e-2c470ba075d7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-let-s-love-robin-schulz-remix",
   title: "Let's Love (Robin Schulz Remix)",
   partOfCollections: ["sia"],

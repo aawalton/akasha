@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaCheapThrills = {
   id: "01a0676a-d71a-7022-b971-a591c58d5e09",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-cheap-thrills",
   title: "Cheap Thrills",
   partOfCollections: ["sia"],

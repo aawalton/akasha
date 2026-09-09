@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const mitskiLaurelHell = {
   id: "01a0676a-d722-7061-91fc-f73558473a10",
   pageTypeSlug: "release",
+  type: "release",
   slug: "mitski-laurel-hell",
   title: "Laurel Hell",
   partOfCollections: ["mitski"],

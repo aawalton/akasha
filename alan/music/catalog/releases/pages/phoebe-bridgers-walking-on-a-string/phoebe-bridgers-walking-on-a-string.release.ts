@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersWalkingOnAString = {
   id: "01a0676a-d730-7015-8b13-cf190b44e823",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-walking-on-a-string",
   title: "Walking on a String",
   partOfCollections: ["phoebe-bridgers"],

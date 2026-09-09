@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaBeautifulPeopleDODRemix = {
   id: "01a0676a-d718-702a-a9f6-1c2ff406cdd3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-beautiful-people-d-o-d-remix",
   title: "Beautiful People (D.O.D Remix)",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonThrillerSteveAokiMidnightHourRemix = {
   id: "01a0676a-d72e-7037-a54d-f317a89e541c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-thriller-steve-aoki-midnight-hour-remix",
   title: "Thriller (Steve Aoki Midnight Hour Remix)",
   partOfCollections: ["michael-jackson"],

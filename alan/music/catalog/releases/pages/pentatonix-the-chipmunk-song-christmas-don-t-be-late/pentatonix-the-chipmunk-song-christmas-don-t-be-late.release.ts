@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   id: "01a0676a-d72c-703e-84d9-8354e8986eae",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-the-chipmunk-song-christmas-don-t-be-late",
   title: "The Chipmunk Song (Christmas Don't Be Late)",
   partOfCollections: ["pentatonix"],

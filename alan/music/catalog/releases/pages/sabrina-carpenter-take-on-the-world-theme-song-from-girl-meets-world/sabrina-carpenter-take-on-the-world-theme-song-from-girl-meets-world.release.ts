@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   id: "01a0676a-d72b-7019-8438-addbf476c889",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",
   title: 'Take On the World (Theme Song From "Girl Meets World")',
   partOfCollections: ["sabrina-carpenter"],

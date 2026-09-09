@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixHallelujah = {
   id: "01a0676a-d71f-703a-9739-02208bc67f89",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-hallelujah",
   title: "Hallelujah",
   partOfCollections: ["pentatonix"],

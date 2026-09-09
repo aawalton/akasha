@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaGimmeLoveReasonableWomanVersion = {
   id: "01a0676a-d71e-7060-b847-a46ee6117e09",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-gimme-love-reasonable-woman-version",
   title: "Gimme Love (Reasonable Woman Version)",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const mitskiLush = {
   id: "01a0676a-d724-701a-b3a0-fdeead56bcc0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "mitski-lush",
   title: "Lush",
   partOfCollections: ["mitski"],

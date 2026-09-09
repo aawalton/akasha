@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaChandelierPianoVersion = {
   id: "01a0676a-d71a-7014-92e9-5428884e0280",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-chandelier-piano-version",
   title: "Chandelier (Piano Version)",
   partOfCollections: ["sia"],

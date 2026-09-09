@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   id: "01a0676a-d720-702a-bd2b-96bc9b64f7c3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-hello-world-the-motown-solo-collection",
   title: "Hello World - The Motown Solo Collection",
   partOfCollections: ["michael-jackson"],

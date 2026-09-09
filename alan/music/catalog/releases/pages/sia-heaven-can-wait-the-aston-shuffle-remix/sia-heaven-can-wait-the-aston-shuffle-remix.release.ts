@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaHeavenCanWaitTheAstonShuffleRemix = {
   id: "01a0676a-d720-701f-8add-3d7a13b6467c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-heaven-can-wait-the-aston-shuffle-remix",
   title: "Heaven Can Wait (The Aston Shuffle Remix)",
   partOfCollections: ["sia"],

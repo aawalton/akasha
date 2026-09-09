@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaIfTheEarthIsSpinningJamesHurrKarstenSollorsRemix = {
   id: "01a0676a-d721-7054-b4b8-31bf3588f7f1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-if-the-earth-is-spinning-james-hurr-karsten-sollors-remix",
   title: "If the Earth is Spinning (James Hurr & Karsten Sollors Remix)",
   partOfCollections: ["sia"],

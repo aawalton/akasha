@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallLivingForEden = {
   id: "01a0676a-d723-7057-841e-e58386e1e932",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-living-for-eden",
   title: "Living For Eden",
   partOfCollections: ["paul-cardall"],

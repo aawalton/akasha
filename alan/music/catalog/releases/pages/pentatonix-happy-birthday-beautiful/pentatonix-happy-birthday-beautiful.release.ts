@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixHappyBirthdayBeautiful = {
   id: "01a0676a-d71f-704a-a617-24bbd8cf7563",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-happy-birthday-beautiful",
   title: "Happy Birthday Beautiful",
   partOfCollections: ["pentatonix"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixPrayersForThisWorld = {
   id: "01a0676a-d727-7014-b878-e26b35287db7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-prayers-for-this-world",
   title: "Prayers For This World",
   partOfCollections: ["pentatonix"],

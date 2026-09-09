@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterEmailsICanTSend = {
   id: "01a0676a-d71d-7009-9d0a-88191bd19a7b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-emails-i-can-t-send",
   title: "emails i can't send",
   partOfCollections: ["sabrina-carpenter"],

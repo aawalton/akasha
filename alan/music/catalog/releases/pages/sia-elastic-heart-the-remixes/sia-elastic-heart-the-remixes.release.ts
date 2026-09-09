@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaElasticHeartTheRemixes = {
   id: "01a0676a-d71c-7062-9726-baf9c0dcb4fa",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-elastic-heart-the-remixes",
   title: "Elastic Heart (The Remixes)",
   partOfCollections: ["sia"],

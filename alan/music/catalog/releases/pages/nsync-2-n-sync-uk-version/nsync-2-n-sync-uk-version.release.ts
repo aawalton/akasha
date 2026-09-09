@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const nsync2NSyncUkVersion = {
   id: "01a0676a-d725-703f-855c-121c9e7c4edd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "nsync-2-n-sync-uk-version",
   title: "'N Sync UK Version",
   partOfCollections: ["nsync-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonBad25thAnniversary = {
   id: "01a0676a-d718-7003-8e4e-09762a543d95",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-bad-25th-anniversary",
   title: "Bad 25th Anniversary",
   partOfCollections: ["michael-jackson"],

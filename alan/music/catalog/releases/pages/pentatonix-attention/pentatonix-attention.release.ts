@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixAttention = {
   id: "01a0676a-d717-703e-afbb-ce1c6978b9c2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-attention",
   title: "Attention",
   partOfCollections: ["pentatonix"],

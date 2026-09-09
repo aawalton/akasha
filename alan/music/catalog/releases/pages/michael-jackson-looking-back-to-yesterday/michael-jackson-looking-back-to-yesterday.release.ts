@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const michaelJacksonLookingBackToYesterday = {
   id: "01a0676a-d723-7062-8605-8b785b2c9d68",
   pageTypeSlug: "release",
+  type: "release",
   slug: "michael-jackson-looking-back-to-yesterday",
   title: "Looking Back To Yesterday",
   partOfCollections: ["michael-jackson"],

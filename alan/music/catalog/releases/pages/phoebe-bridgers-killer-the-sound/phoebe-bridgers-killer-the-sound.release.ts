@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersKillerTheSound = {
   id: "01a0676a-d722-7043-8064-2f718c8b7016",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-killer-the-sound",
   title: "Killer + The Sound",
   partOfCollections: ["phoebe-bridgers"],

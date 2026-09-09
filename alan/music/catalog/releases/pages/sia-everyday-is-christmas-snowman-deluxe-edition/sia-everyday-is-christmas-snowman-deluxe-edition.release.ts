@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaEverydayIsChristmasSnowmanDeluxeEdition = {
   id: "01a0676a-d71d-7039-ba03-52cc7bc64def",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition",
   title: "Everyday Is Christmas (Snowman Deluxe Edition)",
   partOfCollections: ["sia"],

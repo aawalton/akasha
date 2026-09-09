@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaImmortalQueenFeatChakaKhanBiancaCosta = {
   id: "01a0676a-d721-705d-9e9c-5dece1138765",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-bianca-costa",
   title: "Immortal Queen (feat. Chaka Khan & Bianca Costa)",
   partOfCollections: ["sia"],

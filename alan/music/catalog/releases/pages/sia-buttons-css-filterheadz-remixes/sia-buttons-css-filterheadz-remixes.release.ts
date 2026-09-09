@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaButtonsCssFilterheadzRemixes = {
   id: "01a0676a-d719-704b-9c7d-7f3e4842a53d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-buttons-css-filterheadz-remixes",
   title: "Buttons (CSS & Filterheadz Remixes)",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersStrangerInTheAlpsDeluxeEdition = {
   id: "01a0676a-d72a-702a-bae8-b10cb509324d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-stranger-in-the-alps-deluxe-edition",
   title: "Stranger in the Alps (Deluxe Edition)",
   partOfCollections: ["phoebe-bridgers"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaHassHassLofiRemix = {
   id: "01a0676a-d71f-705b-8752-6dd2fd4e4c0a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-hass-hass-lofi-remix",
   title: "Hass Hass (Lofi Remix)",
   partOfCollections: ["sia"],

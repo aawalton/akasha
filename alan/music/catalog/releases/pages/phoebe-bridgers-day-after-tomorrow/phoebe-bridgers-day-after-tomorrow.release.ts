@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const phoebeBridgersDayAfterTomorrow = {
   id: "01a0676a-d71b-706c-ae42-16b9572602c0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "phoebe-bridgers-day-after-tomorrow",
   title: "Day After Tomorrow",
   partOfCollections: ["phoebe-bridgers"],

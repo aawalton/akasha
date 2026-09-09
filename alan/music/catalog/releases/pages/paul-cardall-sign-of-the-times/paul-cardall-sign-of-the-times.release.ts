@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallSignOfTheTimes = {
   id: "01a0676a-d729-7007-8a00-6a2bb1582225",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-sign-of-the-times",
   title: "Sign of the Times",
   partOfCollections: ["paul-cardall"],

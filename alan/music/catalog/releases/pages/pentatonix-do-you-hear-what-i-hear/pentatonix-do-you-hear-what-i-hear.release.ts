@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixDoYouHearWhatIHear = {
   id: "01a0676a-d71c-701b-872d-32588f9dfd6d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-do-you-hear-what-i-hear",
   title: "Do You Hear What I Hear?",
   partOfCollections: ["pentatonix"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaOriginalFromDolittle = {
   id: "01a0676a-d726-7047-855b-7f2f94e1796d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-original-from-dolittle",
   title: "Original (from Dolittle)",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const pentatonixComeAlong = {
   id: "01a0676a-d71b-7014-aea7-4c074e55dc08",
   pageTypeSlug: "release",
+  type: "release",
   slug: "pentatonix-come-along",
   title: "Come Along",
   partOfCollections: ["pentatonix"],

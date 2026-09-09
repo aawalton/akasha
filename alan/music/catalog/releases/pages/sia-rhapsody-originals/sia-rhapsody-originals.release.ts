@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaRhapsodyOriginals = {
   id: "01a0676a-d728-7002-82dc-00f3dd3f4152",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-rhapsody-originals",
   title: "Rhapsody Originals",
   partOfCollections: ["sia"],

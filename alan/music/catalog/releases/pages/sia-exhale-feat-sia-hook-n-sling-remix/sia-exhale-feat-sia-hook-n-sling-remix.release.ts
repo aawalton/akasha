@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaExhaleFeatSiaHookNSlingRemix = {
   id: "01a0676a-d71d-704b-b9cd-1c887e4df01f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-exhale-feat-sia-hook-n-sling-remix",
   title: "EXHALE (feat. Sia) [Hook N Sling Remix]",
   partOfCollections: ["sia"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const rockapellaHowBoutNow = {
   id: "01a0676a-d720-706c-90f7-f6527b9a2e01",
   pageTypeSlug: "release",
+  type: "release",
   slug: "rockapella-how-bout-now",
   title: "How Bout Now?",
   partOfCollections: ["rockapella"],

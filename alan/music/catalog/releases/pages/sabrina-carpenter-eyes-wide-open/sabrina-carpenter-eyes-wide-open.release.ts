@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sabrinaCarpenterEyesWideOpen = {
   id: "01a0676a-d71d-705b-95bd-a17767768530",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sabrina-carpenter-eyes-wide-open",
   title: "Eyes Wide Open",
   partOfCollections: ["sabrina-carpenter"],

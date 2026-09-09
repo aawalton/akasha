@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallAllISeeIsSnow = {
   id: "01a0676a-d716-701d-8413-6cf77f32ee94",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-all-i-see-is-snow",
   title: "All I See Is Snow",
   partOfCollections: ["paul-cardall"],

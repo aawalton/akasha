@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const siaRidingOnMyBikeFromAtHomeWithTheKids = {
   id: "01a0676a-d728-7006-9109-1e5f7ec4964f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sia-riding-on-my-bike-from-at-home-with-the-kids",
   title: "Riding On My Bike (from “At home with the kids”)",
   partOfCollections: ["sia"],

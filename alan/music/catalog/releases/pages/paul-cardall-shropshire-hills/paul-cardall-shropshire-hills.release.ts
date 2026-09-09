@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const paulCardallShropshireHills = {
   id: "01a0676a-d728-707d-bb73-acdad60eba5f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "paul-cardall-shropshire-hills",
   title: "Shropshire Hills",
   partOfCollections: ["paul-cardall"],
