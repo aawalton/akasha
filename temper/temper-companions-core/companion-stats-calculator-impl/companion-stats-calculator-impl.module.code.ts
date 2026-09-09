@@ -1,6 +1,6 @@
-import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { calculateRatingSurplus } from "@akasha/temper-formula-framework/rating-chance"
 import { topologicalSort } from "@akasha/temper-formula-framework/topological-sort"
+import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import {
   type CompanionEffectSource,
   extractArmorSources,

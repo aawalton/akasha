@@ -1,5 +1,5 @@
-import { characterRoles } from "@akasha/temper-character-sources/character-roles"
 import { z } from "zod"
+import { characterRoles } from "../../character-sources/character-roles/character-roles.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

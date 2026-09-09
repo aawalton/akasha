@@ -1,4 +1,4 @@
-import { createMundusSource } from "@akasha/temper-character-sources/mundus-source"
+import { createMundusSource } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export const extractMundus: PipelineStage = (build, context) => {

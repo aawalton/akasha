@@ -3,8 +3,6 @@
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import type { FoodOrDrinkId } from "@akasha/temper-character-sources/food-or-drink-source"
-import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   type PotionId,
@@ -12,6 +10,8 @@ import {
 } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import { Info } from "lucide-react"
 import { useState } from "react"
+import type { FoodOrDrinkId } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import type { MundusId } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
 import { FilterableSelectTrigger } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import {
   FoodDrinkSelectDialog,

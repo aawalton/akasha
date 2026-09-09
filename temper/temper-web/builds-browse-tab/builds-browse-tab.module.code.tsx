@@ -11,10 +11,10 @@ import {
 } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { getRoleName } from "@akasha/temper-character-sources/character-roles"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"
+import { getRoleName } from "../../character-sources/character-roles/character-roles.module.code.ts"
 import { CharacterListCardWithHandle } from "../character-list-card-with-handle/character-list-card-with-handle.module.code.tsx"
 import {
   type FilterValues,

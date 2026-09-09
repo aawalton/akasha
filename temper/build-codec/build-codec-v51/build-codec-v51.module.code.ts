@@ -9,11 +9,11 @@ import {
   makeBitWriter,
   writeBits,
 } from "@akasha/temper-build-hash/build-hash-bit-writer"
-import type { RoleId } from "@akasha/temper-character-sources/character-roles"
-import type { TargetArmorId } from "@akasha/temper-character-sources/target-armors"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { RoleId } from "../../character-sources/character-roles/character-roles.module.code.ts"
+import type { TargetArmorId } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   AFFIX_SCRIPT_BITS,

@@ -1,8 +1,3 @@
-import { alliances } from "@akasha/temper-character-sources/alliances"
-import { curses } from "@akasha/temper-character-sources/curses"
-import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
-import { mundus } from "@akasha/temper-character-sources/mundus-source"
-import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
@@ -22,6 +17,11 @@ import { companions } from "akasha/temper/temper-companions-core/companions/comp
 import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { alliances } from "../../character-sources/alliances/alliances.module.code.ts"
+import { curses } from "../../character-sources/curses/curses.module.code.ts"
+import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { mundus } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
+import { vampireStages } from "../../character-sources/vampire-stages/vampire-stages.module.code.ts"
 import { races } from "../../races/races/races.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {

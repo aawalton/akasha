@@ -10,13 +10,13 @@ import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { CharacterBuildMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import {
-  type RoleId,
-  characterRoles as roles,
-} from "@akasha/temper-character-sources/character-roles"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import type { CharacterVisibility } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useMemo } from "react"
+import {
+  type RoleId,
+  characterRoles as roles,
+} from "../../character-sources/character-roles/character-roles.module.code.ts"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 

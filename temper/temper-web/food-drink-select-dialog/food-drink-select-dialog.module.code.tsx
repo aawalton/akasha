@@ -1,14 +1,14 @@
 "use client"
 
-import {
-  type FoodOrDrinkId,
-  type FoodOrDrinkSource,
-  foodOrDrink,
-} from "@akasha/temper-character-sources/food-or-drink-source"
 import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import { convertIconPathToUrl } from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { useMemo } from "react"
+import {
+  type FoodOrDrinkId,
+  type FoodOrDrinkSource,
+  foodOrDrink,
+} from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,

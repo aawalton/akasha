@@ -1,4 +1,4 @@
-import { alliances } from "@akasha/temper-character-sources/alliances"
+import { alliances } from "../../character-sources/alliances/alliances.module.code.ts"
 
 export function generateAllianceMappings(): string {
   const indexEntries: string[] = []

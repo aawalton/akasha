@@ -1,5 +1,5 @@
-import { curses } from "@akasha/temper-character-sources/curses"
-import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
+import { curses } from "../../character-sources/curses/curses.module.code.ts"
+import { vampireStages } from "../../character-sources/vampire-stages/vampire-stages.module.code.ts"
 export function generateCurseMappings(): string {
   const curseEntries: string[] = []
   for (const curse of curses.list) {

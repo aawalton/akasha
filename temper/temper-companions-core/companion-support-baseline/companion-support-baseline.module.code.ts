@@ -1,4 +1,4 @@
-import { targetArmor } from "@akasha/temper-character-sources/target-armors"
+import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import {
   COMPANION_METRIC_IDS,
   type CompanionMetricId,

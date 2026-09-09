@@ -1,4 +1,4 @@
-import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
+import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 export function generateFoodMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

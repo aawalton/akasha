@@ -11,8 +11,11 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import { type AllianceId, alliances } from "@akasha/temper-character-sources/alliances"
-import type { EsoPlusId } from "@akasha/temper-character-sources/eso-plus-source"
+import {
+  type AllianceId,
+  alliances,
+} from "../../character-sources/alliances/alliances.module.code.ts"
+import type { EsoPlusId } from "../../character-sources/eso-plus-source/eso-plus-source.module.code.ts"
 
 interface OtherPanelCardProps {
   alliance: AllianceId
