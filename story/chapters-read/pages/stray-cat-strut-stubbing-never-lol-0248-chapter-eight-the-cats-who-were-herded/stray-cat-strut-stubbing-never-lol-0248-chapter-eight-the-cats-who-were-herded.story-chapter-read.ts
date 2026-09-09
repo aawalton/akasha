@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0248ChapterEightTheCatsWhoWereHerded =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 248,
   ownLength: 1483,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/845383/chapter-eight-the-cats-who-were-herded",

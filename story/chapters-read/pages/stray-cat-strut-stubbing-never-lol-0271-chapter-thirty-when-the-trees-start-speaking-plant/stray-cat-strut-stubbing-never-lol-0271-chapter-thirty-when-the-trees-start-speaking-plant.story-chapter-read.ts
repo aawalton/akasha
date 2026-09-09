@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0271ChapterThirtyWhenTheTreesStartSpea
   story: "stray-cat-strut-stubbing-never-lol",
   position: 271,
   ownLength: 1471,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/886948/chapter-thirty-when-the-trees-start-speaking-plant",

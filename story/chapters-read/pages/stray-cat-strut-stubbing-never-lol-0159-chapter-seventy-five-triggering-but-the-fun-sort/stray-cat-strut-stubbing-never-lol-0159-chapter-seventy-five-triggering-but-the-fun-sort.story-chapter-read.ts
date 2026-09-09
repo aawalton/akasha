@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0159ChapterSeventyFiveTriggeringButThe
   story: "stray-cat-strut-stubbing-never-lol",
   position: 159,
   ownLength: 1439,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/696508/chapter-seventy-five-triggering-but-the-fun-sort",

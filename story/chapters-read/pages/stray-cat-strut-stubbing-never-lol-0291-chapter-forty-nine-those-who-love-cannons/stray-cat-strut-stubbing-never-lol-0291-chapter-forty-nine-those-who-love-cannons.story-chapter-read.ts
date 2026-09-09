@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0291ChapterFortyNineThoseWhoLoveCannon
   story: "stray-cat-strut-stubbing-never-lol",
   position: 291,
   ownLength: 1497,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/928330/chapter-forty-nine-those-who-love-cannons",

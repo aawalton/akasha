@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0109ChapterTwentySevenSometimesAGirlJu
   story: "stray-cat-strut-stubbing-never-lol",
   position: 109,
   ownLength: 1492,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/628144/chapter-twenty-seven-sometimes-a-girl-just-wants",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0101ChapterNineteenLogOff = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 101,
   ownLength: 1350,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/614519/chapter-nineteen-log-off",

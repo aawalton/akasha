@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0198ChapterThirtyOneSayingHelloToTheGo
   story: "stray-cat-strut-stubbing-never-lol",
   position: 198,
   ownLength: 1524,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747330/chapter-thirty-one-saying-hello-to-the-good-doctor",

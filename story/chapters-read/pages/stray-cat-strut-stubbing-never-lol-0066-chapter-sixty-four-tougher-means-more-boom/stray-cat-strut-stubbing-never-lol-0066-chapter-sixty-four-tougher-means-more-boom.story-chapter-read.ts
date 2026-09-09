@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0066ChapterSixtyFourTougherMeansMoreBo
   story: "stray-cat-strut-stubbing-never-lol",
   position: 66,
   ownLength: 1522,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/565401/chapter-sixty-four-tougher-means-more-boom",

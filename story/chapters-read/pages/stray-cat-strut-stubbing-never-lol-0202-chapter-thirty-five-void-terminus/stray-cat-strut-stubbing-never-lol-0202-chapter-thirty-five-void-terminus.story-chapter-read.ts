@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0202ChapterThirtyFiveVoidTerminus = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 202,
   ownLength: 1431,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/754249/chapter-thirty-five-void-terminus",

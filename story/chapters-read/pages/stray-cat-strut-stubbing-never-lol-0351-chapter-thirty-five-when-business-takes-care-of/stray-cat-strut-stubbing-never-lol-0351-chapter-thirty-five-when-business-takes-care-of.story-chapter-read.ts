@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0351ChapterThirtyFiveWhenBusinessTakes
   story: "stray-cat-strut-stubbing-never-lol",
   position: 351,
   ownLength: 1532,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1080246/chapter-thirty-five-when-business-takes-care-of",

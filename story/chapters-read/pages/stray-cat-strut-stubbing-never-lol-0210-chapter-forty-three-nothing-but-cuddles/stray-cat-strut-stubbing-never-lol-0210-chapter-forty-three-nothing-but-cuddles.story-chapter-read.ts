@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0210ChapterFortyThreeNothingButCuddles
   story: "stray-cat-strut-stubbing-never-lol",
   position: 210,
   ownLength: 1411,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/768666/chapter-forty-three-nothing-but-cuddles",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0231ChapterSixtyThreeAVeryNiceAndCivil
   story: "stray-cat-strut-stubbing-never-lol",
   position: 231,
   ownLength: 1441,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/818300/chapter-sixty-three-a-very-nice-and-civil-discussion",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0128ChapterFortySixImpeccableMathemati
   story: "stray-cat-strut-stubbing-never-lol",
   position: 128,
   ownLength: 1543,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/659602/chapter-forty-six-impeccable-mathematics",

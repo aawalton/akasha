@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0185ChapterEighteenFlushPrime = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 185,
   ownLength: 1460,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/724449/chapter-eighteen-flush-prime",

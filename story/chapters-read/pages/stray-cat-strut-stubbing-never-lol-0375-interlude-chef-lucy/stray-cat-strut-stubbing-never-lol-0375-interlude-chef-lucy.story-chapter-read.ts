@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0375InterludeChefLucy = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 375,
   ownLength: 1693,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1154434/interlude-chef-lucy",

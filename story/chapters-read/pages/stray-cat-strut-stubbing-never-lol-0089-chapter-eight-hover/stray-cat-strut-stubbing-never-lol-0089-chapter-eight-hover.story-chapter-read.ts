@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0089ChapterEightHover = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 89,
   ownLength: 1544,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/591655/chapter-eight-hover",

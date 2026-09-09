@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0382ChapterSixtyThreeMechcatularNyanze
   story: "stray-cat-strut-stubbing-never-lol",
   position: 382,
   ownLength: 1615,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1192786/chapter-sixty-three-mechcatular-nyanzerfaust-activate",

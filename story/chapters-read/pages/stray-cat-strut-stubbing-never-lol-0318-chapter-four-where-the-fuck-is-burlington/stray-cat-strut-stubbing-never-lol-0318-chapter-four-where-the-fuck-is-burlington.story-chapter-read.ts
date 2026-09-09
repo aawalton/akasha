@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0318ChapterFourWhereTheFuckIsBurlingto
   story: "stray-cat-strut-stubbing-never-lol",
   position: 318,
   ownLength: 1557,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/994963/chapter-four-where-the-fuck-is-burlington",

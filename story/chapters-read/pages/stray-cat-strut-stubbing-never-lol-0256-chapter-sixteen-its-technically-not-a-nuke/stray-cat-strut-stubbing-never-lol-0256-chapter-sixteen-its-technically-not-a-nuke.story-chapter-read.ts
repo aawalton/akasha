@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0256ChapterSixteenItsTechnicallyNotANu
   story: "stray-cat-strut-stubbing-never-lol",
   position: 256,
   ownLength: 1540,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/855171/chapter-sixteen-its-technically-not-a-nuke",

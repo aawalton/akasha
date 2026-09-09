@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0178ChapterElevenPlayingWithGomorrahsF
   story: "stray-cat-strut-stubbing-never-lol",
   position: 178,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/718001/chapter-eleven-playing-with-gomorrahs-franny",

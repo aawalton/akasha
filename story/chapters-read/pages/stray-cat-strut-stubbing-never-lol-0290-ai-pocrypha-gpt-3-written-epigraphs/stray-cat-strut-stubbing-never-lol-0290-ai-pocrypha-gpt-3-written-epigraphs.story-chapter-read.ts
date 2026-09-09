@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0290AiPocryphaGpt3WrittenEpigraphs = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 290,
   ownLength: 1308,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/927773/ai-pocrypha-gpt-3-written-epigraphs",

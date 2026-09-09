@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0269ChapterTwentyEightWhatNewtonsGoodF
   story: "stray-cat-strut-stubbing-never-lol",
   position: 269,
   ownLength: 1511,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/881273/chapter-twenty-eight-what-newtons-good-for",

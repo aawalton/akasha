@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0394ChapterTwoLikeARaccoonToATrashbag 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 394,
   ownLength: 1580,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1224750/chapter-two-like-a-raccoon-to-a-trashbag",

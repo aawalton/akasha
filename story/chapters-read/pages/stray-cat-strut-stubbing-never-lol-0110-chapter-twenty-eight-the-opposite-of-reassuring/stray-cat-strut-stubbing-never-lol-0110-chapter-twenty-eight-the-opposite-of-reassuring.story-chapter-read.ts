@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0110ChapterTwentyEightTheOppositeOfRea
   story: "stray-cat-strut-stubbing-never-lol",
   position: 110,
   ownLength: 1424,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/629313/chapter-twenty-eight-the-opposite-of-reassuring",

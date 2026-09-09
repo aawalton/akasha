@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0175ChapterEightTheBarAtTheBottomOfThe
   story: "stray-cat-strut-stubbing-never-lol",
   position: 175,
   ownLength: 1518,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/716186/chapter-eight-the-bar-at-the-bottom-of-the-city",

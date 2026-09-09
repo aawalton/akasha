@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0149ChapterSixtySixTanksAndSoldiersAnd
   story: "stray-cat-strut-stubbing-never-lol",
   position: 149,
   ownLength: 1522,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688619/chapter-sixty-six-tanks-and-soldiers-and-guns",

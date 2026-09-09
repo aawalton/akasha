@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0372ChapterFiftyFourAllThatWealthIsGoo
   story: "stray-cat-strut-stubbing-never-lol",
   position: 372,
   ownLength: 1475,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1144335/chapter-fifty-four-all-that-wealth-is-good-for",

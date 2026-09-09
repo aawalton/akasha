@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0148ChapterSixtyFivePoliticsAccordingT
   story: "stray-cat-strut-stubbing-never-lol",
   position: 148,
   ownLength: 1439,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/688146/chapter-sixty-five-politics-according-to-cat",

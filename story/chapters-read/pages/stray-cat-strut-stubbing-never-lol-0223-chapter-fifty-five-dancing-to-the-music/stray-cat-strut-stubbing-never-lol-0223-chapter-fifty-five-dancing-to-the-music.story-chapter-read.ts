@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0223ChapterFiftyFiveDancingToTheMusic 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 223,
   ownLength: 1533,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/784487/chapter-fifty-five-dancing-to-the-music",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0267ChapterTwentySixBreachLoadCharge =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 267,
   ownLength: 1500,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/876076/chapter-twenty-six-breach-load-charge",

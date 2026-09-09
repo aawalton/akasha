@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0294ChapterFiftyOneGothicPublicRelatio
   story: "stray-cat-strut-stubbing-never-lol",
   position: 294,
   ownLength: 1539,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/932756/chapter-fifty-one-gothic-public-relations",

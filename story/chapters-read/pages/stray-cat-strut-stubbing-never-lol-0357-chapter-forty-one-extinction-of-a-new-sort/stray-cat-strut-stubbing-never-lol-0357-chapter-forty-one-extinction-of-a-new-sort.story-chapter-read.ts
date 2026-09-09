@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0357ChapterFortyOneExtinctionOfANewSor
   story: "stray-cat-strut-stubbing-never-lol",
   position: 357,
   ownLength: 1490,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1098041/chapter-forty-one-extinction-of-a-new-sort",

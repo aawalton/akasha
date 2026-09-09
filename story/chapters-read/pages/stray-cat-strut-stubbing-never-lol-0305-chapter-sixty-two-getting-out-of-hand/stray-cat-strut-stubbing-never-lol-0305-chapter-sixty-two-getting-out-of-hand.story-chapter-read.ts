@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0305ChapterSixtyTwoGettingOutOfHand = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 305,
   ownLength: 1584,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/957003/chapter-sixty-two-getting-out-of-hand",

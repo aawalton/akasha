@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0385ChapterSixtyFiveTRexVsGiantMechaCa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 385,
   ownLength: 1473,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1198610/chapter-sixty-five-t-rex-vs-giant-mecha-cat",

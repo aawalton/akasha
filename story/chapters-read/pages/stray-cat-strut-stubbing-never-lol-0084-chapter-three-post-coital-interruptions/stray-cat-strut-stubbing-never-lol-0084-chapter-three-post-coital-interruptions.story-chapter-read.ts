@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0084ChapterThreePostCoitalInterruption
   story: "stray-cat-strut-stubbing-never-lol",
   position: 84,
   ownLength: 1525,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/587288/chapter-three-post-coital-interruptions",

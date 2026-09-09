@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0169ChapterTwoBecauseBeingABamfIsEasie
   story: "stray-cat-strut-stubbing-never-lol",
   position: 169,
   ownLength: 1569,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/709441/chapter-two-because-being-a-bamf-is-easier-in",

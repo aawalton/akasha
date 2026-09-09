@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0205ChapterThirtyEightTheRatAndTheHung
   story: "stray-cat-strut-stubbing-never-lol",
   position: 205,
   ownLength: 1427,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/759388/chapter-thirty-eight-the-rat-and-the-hungry-tiger",

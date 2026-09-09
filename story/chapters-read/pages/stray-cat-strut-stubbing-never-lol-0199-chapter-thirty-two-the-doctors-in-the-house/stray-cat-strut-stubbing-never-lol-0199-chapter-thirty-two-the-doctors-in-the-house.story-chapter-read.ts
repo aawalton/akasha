@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0199ChapterThirtyTwoTheDoctorsInTheHou
   story: "stray-cat-strut-stubbing-never-lol",
   position: 199,
   ownLength: 1559,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/747837/chapter-thirty-two-the-doctors-in-the-house",

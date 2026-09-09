@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0180ChapterThirteenWhatOldPeopleSay = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 180,
   ownLength: 1503,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/719743/chapter-thirteen-what-old-people-say",

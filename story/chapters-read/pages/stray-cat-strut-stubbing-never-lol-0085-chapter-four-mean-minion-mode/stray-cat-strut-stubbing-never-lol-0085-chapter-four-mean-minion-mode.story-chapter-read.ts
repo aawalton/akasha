@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0085ChapterFourMeanMinionMode = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 85,
   ownLength: 1573,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/587860/chapter-four-mean-minion-mode",

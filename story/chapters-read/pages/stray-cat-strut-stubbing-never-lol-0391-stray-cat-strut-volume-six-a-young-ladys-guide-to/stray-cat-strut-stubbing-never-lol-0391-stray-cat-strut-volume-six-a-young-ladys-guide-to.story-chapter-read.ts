@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0391StrayCatStrutVolumeSixAYoungLadysG
   story: "stray-cat-strut-stubbing-never-lol",
   position: 391,
   ownLength: 155,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1216454/stray-cat-strut-volume-six-a-young-ladys-guide",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0265ChapterTwentyFiveDinnerIsServedAnd
   story: "stray-cat-strut-stubbing-never-lol",
   position: 265,
   ownLength: 1501,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/875215/chapter-twenty-five-dinner-is-served-and-its-you",

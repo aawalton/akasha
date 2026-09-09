@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0325ChapterElevenIronSpines = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 325,
   ownLength: 1458,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1014226/chapter-eleven-iron-spines",
