@@ -7,11 +7,6 @@ import { descriptionOf, type Subject } from "../transaction/monarch-transaction.
 
 const TYPE = "monarch-merchant"
 
-/**
- * The merchant vocabulary is one `monarch-merchant` page per merchant, its title the value and
- * its `merchantPatterns` the runs of the bank's own words naming it. It used to be one markdown
- * body under a `# Vocabulary` heading, which is why `parseVocabulary` is no longer called here.
- */
 function vocabulary(): readonly VocabularyEntry[] {
   const folder = join(AKASHA, MERCHANT_FOLDER)
   const names = readdirSync(folder)
