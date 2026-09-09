@@ -96,6 +96,14 @@ export const propertyCarrying = {
       statement: "An index that cannot answer that is a file that is not generated.",
     },
     {
+      invariantKind: "departure",
+      statement: "That question is answered from an index face as well as from a root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A face answering it carries the readers a root's answer reaches.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page body is read.",
     },

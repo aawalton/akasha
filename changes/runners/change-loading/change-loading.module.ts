@@ -43,6 +43,14 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "A guard every change is held to runs beside the guards that change names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change naming no guard runs the guards every change is held to.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer already refused runs no guard.",
     },
     {

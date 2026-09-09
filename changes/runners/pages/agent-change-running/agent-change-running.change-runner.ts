@@ -22,6 +22,11 @@ export const agentChangeRunning = {
       statement: "The change is loaded and run by the module both runners reach.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A change to a generated file's content is refused whatever guards the change names.",
+    },
+    {
       invariantKind: "absence",
       statement: "No change is imported here.",
     },

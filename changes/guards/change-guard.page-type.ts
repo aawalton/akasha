@@ -25,6 +25,7 @@ export const changeGuard = {
     "change-guard/field-key-not-carried-twice",
     "change-guard/folder-not-left-named",
     "change-guard/slug-names-one-property",
+    "change-guard/generated-file-not-written",
   ],
   properties: [
     { pageProperty: "relation-property/change-target-type", required: true, many: false },

@@ -176,6 +176,19 @@ export function generatedAt(given: string | Reading, path: string): boolean {
   }
 }
 
+export type Facing = Kinded & {
+  readonly carryingOf: (named: string) => Carried
+}
+
+export function generatedIn(given: Facing, path: string): boolean {
+  try {
+    if (sectionHeld(path, slugsWhere(given, generates))) return true
+    return heldBeside(path, namingUnder(given), generates, (named) => given.carryingOf(named))
+  } catch {
+    return false
+  }
+}
+
 export type Kinded = {
   readonly kindsUnder: (of: string) => Iterable<string>
   readonly everyOfType: (kind: string) => Iterable<{ readonly path: string }>

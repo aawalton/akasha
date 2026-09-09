@@ -44,6 +44,11 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A change to a generated file's content is refused whatever guards the changes name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The world a guard judges is read before the first change in the fold runs.",
     },
     {

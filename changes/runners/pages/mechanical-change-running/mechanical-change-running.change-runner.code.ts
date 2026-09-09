@@ -3,6 +3,7 @@ import type { Running } from "@akasha/command-system/drafting"
 import { bodiesFrom } from "@akasha/command-system/edits-landing"
 import { NO_GATE } from "@akasha/command-system/gate-building"
 import { baseOf, type Refused } from "@akasha/command-system/landing"
+import { generatedFileNotWritten } from "../../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
 import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
@@ -38,7 +39,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
   }
   const said = gathered(answers)
   if (said.refused !== null) return said
-  return guardedBy(seen, said, guardsOver(world, []), before)
+  return guardedBy(seen, said, guardsOver(world, [generatedFileNotWritten]), before)
 }
 
 export type Writing = {
