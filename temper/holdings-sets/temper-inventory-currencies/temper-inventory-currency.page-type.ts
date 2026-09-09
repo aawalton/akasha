@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperThing } from "../../things/temper-thing.page-type.ts"
+import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
 
 export type TemperInventoryCurrency = TemperThing
 

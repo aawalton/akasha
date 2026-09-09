@@ -1,4 +1,4 @@
-import type { TemperThing } from "../../things/temper-thing.page-type.ts"
+import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
 import type { Available } from "./properties/available.boolean-property.ts"
 import type { Effect } from "./properties/effect.text-property.ts"
 import type { Effects } from "./properties/effects.page-property-entry.ts"

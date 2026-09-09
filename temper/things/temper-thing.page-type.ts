@@ -1,26 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { AccountPage } from "./properties/account-page.text-property.ts"
-import type { Category } from "./properties/category.text-property.ts"
-import type { CategoryId } from "./properties/category-id.text-property.ts"
-import type { CompanionId } from "./properties/companion-id.text-property.ts"
-import type { DisplayOrder } from "./properties/display-order.number-property.ts"
-import type { EsoCharacterId } from "./properties/eso-character-id.text-property.ts"
-import type { Icon } from "./properties/icon.text-property.ts"
-import type { Key } from "./properties/key.text-property.ts"
-import type { Parent } from "./properties/parent.text-property.ts"
-
-export type TemperThing = Page & {
-  key?: Key
-  icon?: Icon
-  displayOrder?: DisplayOrder
-  accountPage?: AccountPage
-  category?: Category
-  categoryId?: CategoryId
-  companionId?: CompanionId
-  esoCharacterId?: EsoCharacterId
-  parent?: Parent
-}
 
 export const temperThing = {
   id: "01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3",
@@ -61,4 +39,5 @@ export const temperThing = {
         "Every page type temper carries extends temper-thing or a page type extending temper-thing.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
