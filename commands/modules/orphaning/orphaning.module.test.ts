@@ -4,9 +4,9 @@ import { join } from "node:path"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
 import { bytesOf } from "@akasha/testing-system/bodying"
-import type { Landed, Refused } from "../landing/landing.module.code.ts"
-import { landing } from "../landing/landing.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
+import type { Landed, Refused } from "../../../command-system/landing/landing.module.code.ts"
+import { landing } from "../../../command-system/landing/landing.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { TOGETHER } from "./orphaning.module.code.ts"
 
 const scratch = scratchWorld()

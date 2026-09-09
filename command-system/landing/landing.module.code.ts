@@ -12,6 +12,11 @@ import {
   clearedUnder,
   isFolder,
 } from "../../commands/modules/folder-clearing/folder-clearing.module.code.ts"
+import {
+  absentAfter,
+  orphaningIn,
+  orphaningSaid,
+} from "../../commands/modules/orphaning/orphaning.module.code.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
@@ -20,7 +25,6 @@ import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
-import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
