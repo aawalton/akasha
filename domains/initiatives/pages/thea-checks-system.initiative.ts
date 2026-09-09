@@ -8,6 +8,28 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
+      statement: "named-file-property is gone, the name it stated now optional on file-property.",
+      workingMemory:
+        "38 pages are named-file-property, each stating the fileName required there. That property moves to file-properties/properties and becomes optional. The fileName is also what hides those 38 from the index, whose besides rule at pages/indexes/entries/index-entries.module.code.ts:53 matches the slug file-property exactly. Taking the second slug out before code-file-property arrives is what makes the widening after it safe. named-folder-property and its folderName are the parallel and stay.",
+    },
+    {
+      statement:
+        "code-file-property extends file-property, and the index finds it by what it extends.",
+      workingMemory:
+        "besides at pages/indexes/entries/index-entries.module.code.ts:53 matches file-property and page-property-entry exactly, never reading extendsSlug, and is called at 67, 109 and 189. Unwidened, a code-file-property page stating no fileName never enters the beside-file map, so page-property-has-its-file asks for nothing and file-has-its-page reports every .code.ts as claimed by no page. The finding a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends is answered here.",
+    },
+    {
+      statement: "Every code file property is a code-file-property.",
+      workingMemory:
+        "A code file property is one whose file something runs, Alan's call, against the wider reading of anything written in a programming language. Clear: code, test, test-fixtures, component-code, component-test, route-code, route-test, lua, compiled-lua, lua50-code, python, rust, swift, javascript, shell, main, server, server-entry, web-entry, manifest-code. Left plain are the ones read rather than run: types, ambient-types, styles, markup, every config and manifest. 151 file property pages in all.",
+    },
+    {
+      statement:
+        "A code file property states the cpu, wall and memory a run of its file may spend.",
+      workingMemory:
+        'The guard to generalise is CEILING = 5 in code-system/code-tests/code-tests.module.code.ts, held by the page invariant "One test file may spend five processor seconds." — that 5 belongs on test. checks/modules/run-cost holds the other scale, bands fast lagging slow painful torture eternal in milliseconds, and no code-check names a band. A check is loaded rather than run as a file, code-check naming loadedBySlug module/checking, so these three bound what is spawned.',
+    },
+    {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
         "Split off the patch sequence, which ends at turning a check on at patch. The cost over the whole repository is judged here. runsOnAudit is false on every check by Alan's call, an audit being asked for one check at a time. file-has-its-page over the whole tree read 120804 paths, 4.15s wall and 1.74GB peak added, but that count is the change's size rather than the check's own. file-length reads it in 1.9s but peaks 2.8GB. It cannot reach audit until no tracked file is unclaimed.",
