@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
 
 export const abstractionMap = {
   id: "01a06594-c68e-700d-b690-848031a7a0ed",
