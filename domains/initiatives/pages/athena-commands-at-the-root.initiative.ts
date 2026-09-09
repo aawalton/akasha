@@ -26,7 +26,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
       workingMemory:
-        "All 42 namespaces are nested under `commands/pages/`, each folder with its namespace page and its commands, to three levels. 34 folders sit at the top: 17 namespaces and 17 commands under no namespace. The 37 of 215 command pages outside `commands/` are left, one reached by a package alias, and `nest-commands` is kept until they are in. The two track tests had failed unseen since 4e0e4b61b3 landed them through the changes, over a scratch repository with no index.",
+        "At 53722f2c92 all 220 command pages sit under `commands/pages/`, 208 inside their namespace's folder, to three levels, across 47 namespaces. The other 12 have no namespace and sit at the top, each named among the command page type's parts, so each has a parent. Whether those 12 want namespaces is Alan's. `nest-commands` has nothing outside left to pull in. The two track tests had failed unseen since 4e0e4b61b3 landed them, over a scratch repository with no index.",
     },
     {
       statement:
