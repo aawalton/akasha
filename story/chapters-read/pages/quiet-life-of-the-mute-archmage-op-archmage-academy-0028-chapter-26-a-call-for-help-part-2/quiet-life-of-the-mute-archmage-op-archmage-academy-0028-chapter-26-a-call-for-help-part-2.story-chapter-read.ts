@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0028Chapter26ACallForHelpPart2 = {
   id: "01a06730-4ddb-71e6-88a7-72f19e34c7f7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0028-chapter-26-a-call-for-help-part-2",
   title: "Chapter 26: A Call For Help (Part 2)",
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",

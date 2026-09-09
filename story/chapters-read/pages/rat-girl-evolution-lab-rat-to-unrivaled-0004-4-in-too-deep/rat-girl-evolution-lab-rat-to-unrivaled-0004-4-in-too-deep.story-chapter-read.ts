@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled00044InTooDeep = {
   id: "01a06730-4dce-7f36-99ff-e6071c4adbff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0004-4-in-too-deep",
   title: "4: In Too Deep",
   story: "rat-girl-evolution-lab-rat-to-unrivaled",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0013Chapter13MothersVoice = {
   id: "01a06730-4de3-7757-a06a-48c80d03111c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0013-chapter-13-mothers-voice",
   title: "Chapter 13: Mother's Voice",
   story: "phoenix-ascension-cultivation-litrpg",

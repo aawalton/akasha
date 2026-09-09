@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0133Chapter133BladeOfTheElements = {
   id: "01a06730-4e00-74f3-8c59-da5233caf814",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0133-chapter-133-blade-of-the-elements",
   title: "Chapter 133: Blade of the Elements",
   story: "phoenix-ascension-cultivation-litrpg",

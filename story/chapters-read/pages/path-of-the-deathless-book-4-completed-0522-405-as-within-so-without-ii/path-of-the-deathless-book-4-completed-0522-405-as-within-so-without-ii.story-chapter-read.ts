@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0522405AsWithinSoWithoutIi = {
   id: "01a06730-4eda-722b-9d6f-91fef3647e92",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0522-405-as-within-so-without-ii",
   title: "405 As Within, So Without [II]",
   story: "path-of-the-deathless-book-4-completed",

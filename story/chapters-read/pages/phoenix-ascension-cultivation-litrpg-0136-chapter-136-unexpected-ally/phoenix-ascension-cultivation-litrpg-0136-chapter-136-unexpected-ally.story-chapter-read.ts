@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0136Chapter136UnexpectedAlly = {
   id: "01a06730-4e00-7dca-a8a8-f9f12d6fc791",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0136-chapter-136-unexpected-ally",
   title: "Chapter 136: Unexpected Ally?",
   story: "phoenix-ascension-cultivation-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0090Chapter90FoundationEstablishment = {
   id: "01a06730-4df3-7fb1-87c2-2bafd721f0c4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0090-chapter-90-foundation-establishment",
   title: "Chapter 90: Foundation Establishment",
   story: "phoenix-ascension-cultivation-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0147Chapter147CleaningTheDantian = {
   id: "01a06730-4e01-72bd-adfe-7119aa4f614c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0147-chapter-147-cleaning-the-dantian",
   title: "Chapter 147: Cleaning the Dantian",
   story: "phoenix-ascension-cultivation-litrpg",

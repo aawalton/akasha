@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled00066ANewAwakening = {
   id: "01a06730-4dce-728c-908d-3c77a77b1513",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0006-6-a-new-awakening",
   title: "6: A New Awakening",
   story: "rat-girl-evolution-lab-rat-to-unrivaled",

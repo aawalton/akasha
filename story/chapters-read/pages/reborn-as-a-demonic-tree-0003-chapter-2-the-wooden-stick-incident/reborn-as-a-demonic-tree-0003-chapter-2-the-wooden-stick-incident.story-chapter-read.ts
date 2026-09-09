@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0003Chapter2TheWoodenStickIncident = {
   id: "01a06730-4dc4-7a9d-80f9-76427f8f0691",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0003-chapter-2-the-wooden-stick-incident",
   title: "Chapter 2: The Wooden Stick Incident",
   story: "story-read/reborn-as-a-demonic-tree",

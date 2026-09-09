@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0074Chapter74AGlint = {
   id: "01a06730-4df2-7f67-bc05-8cb2a0ef31af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0074-chapter-74-a-glint",
   title: "Chapter 74: A glint",
   story: "phoenix-ascension-cultivation-litrpg",

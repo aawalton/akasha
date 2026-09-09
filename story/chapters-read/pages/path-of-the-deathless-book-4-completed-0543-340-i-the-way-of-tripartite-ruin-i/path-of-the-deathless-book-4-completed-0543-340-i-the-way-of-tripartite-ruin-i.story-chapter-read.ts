@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0543340ITheWayOfTripartiteRuinI = {
   id: "01a06730-4ee7-7345-91b3-99cfb38cdf22",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0543-340-i-the-way-of-tripartite-ruin-i",
   title: "340 (I)  The Way of Tripartite Ruin [I]",
   story: "path-of-the-deathless-book-4-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0008Chapter8EatingAndGrowing = {
   id: "01a06730-4de2-7a35-a539-40b0ac840efb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0008-chapter-8-eating-and-growing",
   title: "Chapter 8: Eating and Growing",
   story: "phoenix-ascension-cultivation-litrpg",

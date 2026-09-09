@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold = {
   id: "01a06730-4de3-7a1e-9bf7-9127b2465d80",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0011-chapter-11-fortune-favors-the-bold",
   title: "Chapter 11: Fortune Favors the Bold",
   story: "phoenix-ascension-cultivation-litrpg",

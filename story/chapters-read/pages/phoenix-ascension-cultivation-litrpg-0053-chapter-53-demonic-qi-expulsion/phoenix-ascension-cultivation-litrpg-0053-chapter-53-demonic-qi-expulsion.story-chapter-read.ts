@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = {
   id: "01a06730-4dee-782b-9b95-66b8c7d1b967",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0053-chapter-53-demonic-qi-expulsion",
   title: "Chapter 53: Demonic Qi Expulsion",
   story: "phoenix-ascension-cultivation-litrpg",

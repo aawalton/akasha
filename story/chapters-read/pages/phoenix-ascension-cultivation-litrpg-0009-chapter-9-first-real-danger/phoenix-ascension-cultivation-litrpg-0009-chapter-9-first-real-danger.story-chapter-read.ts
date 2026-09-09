@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0009Chapter9FirstRealDanger = {
   id: "01a06730-4de2-7fe8-ac7b-f653a80ec624",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0009-chapter-9-first-real-danger",
   title: "Chapter 9: First Real Danger",
   story: "phoenix-ascension-cultivation-litrpg",

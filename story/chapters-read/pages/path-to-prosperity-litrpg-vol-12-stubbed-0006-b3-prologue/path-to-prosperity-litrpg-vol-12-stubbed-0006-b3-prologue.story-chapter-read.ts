@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathToProsperityLitrpgVol12Stubbed0006B3Prologue = {
   id: "01a06730-4dc7-7210-848c-ce1f936ba89e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0006-b3-prologue",
   title: "B3 Prologue",
   story: "path-to-prosperity-litrpg-vol-12-stubbed",

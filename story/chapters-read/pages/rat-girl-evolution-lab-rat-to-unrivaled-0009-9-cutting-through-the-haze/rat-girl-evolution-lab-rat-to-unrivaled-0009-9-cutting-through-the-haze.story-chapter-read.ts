@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled00099CuttingThroughTheHaze = {
   id: "01a06730-4dcf-7c65-afed-a407f0e38abc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0009-9-cutting-through-the-haze",
   title: "9: Cutting Through the Haze",
   story: "rat-girl-evolution-lab-rat-to-unrivaled",

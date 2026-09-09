@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0020Chapter20YouHaveAbsorbedJadeSerpentCore = {
   id: "01a06730-4de4-7de6-9256-768dcccb1b08",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0020-chapter-20-you-have-absorbed-jade-serpent-core",
   title: "Chapter 20: You have absorbed Jade Serpent Core",
   story: "phoenix-ascension-cultivation-litrpg",

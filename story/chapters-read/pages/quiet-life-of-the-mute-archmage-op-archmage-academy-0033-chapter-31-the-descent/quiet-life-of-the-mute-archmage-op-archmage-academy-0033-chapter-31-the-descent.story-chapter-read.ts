@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0033Chapter31TheDescent = {
   id: "01a06730-4ddd-79ef-ad58-099237c9a206",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0033-chapter-31-the-descent",
   title: "Chapter 31: The Descent",
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",

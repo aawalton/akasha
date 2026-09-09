@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0517402ITheEnemyOfMyEnemyIsButTheDogOnMy = {
   id: "01a06730-4ed3-7453-9dcc-e4f728bbbce7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0517-402-i-the-enemy-of-my-enemy-is-but-the-dog-on-my",
   title: "402 (I) “The Enemy of My Enemy is but the Dog on My Leash” [II]",
   story: "path-of-the-deathless-book-4-completed",

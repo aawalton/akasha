@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0167Chapter167SpecialReaperTechnique = {
   id: "01a06730-4e04-76e9-a658-4cf15e5345a9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0167-chapter-167-special-reaper-technique",
   title: "Chapter 167: Special Reaper Technique",
   story: "phoenix-ascension-cultivation-litrpg",

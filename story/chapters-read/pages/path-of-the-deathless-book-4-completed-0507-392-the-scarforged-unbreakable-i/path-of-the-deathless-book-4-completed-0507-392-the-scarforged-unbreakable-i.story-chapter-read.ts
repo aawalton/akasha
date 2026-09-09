@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0507392TheScarforgedUnbreakableI = {
   id: "01a06730-4ecb-7c99-a0ef-528264999873",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0507-392-the-scarforged-unbreakable-i",
   title: "392 The Scarforged Unbreakable [I]",
   story: "path-of-the-deathless-book-4-completed",

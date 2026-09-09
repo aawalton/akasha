@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0003Chapter3TianxuContinent = {
   id: "01a06730-4de1-7c13-9be6-28b82687a431",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0003-chapter-3-tianxu-continent",
   title: "Chapter 3: Tianxu Continent",
   story: "phoenix-ascension-cultivation-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0494379ThisSharedMomentOfFlavorAndMonologueIi = {
   id: "01a06730-4ebc-777f-936c-2355368dd387",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0494-379-this-shared-moment-of-flavor-and-monologue-ii",
   title: "379 This Shared Moment of Flavor and Monologue [II]",
   story: "path-of-the-deathless-book-4-completed",

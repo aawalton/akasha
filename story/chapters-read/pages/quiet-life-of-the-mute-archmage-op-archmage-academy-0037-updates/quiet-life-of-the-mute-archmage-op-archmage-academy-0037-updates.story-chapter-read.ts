@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0037Updates = {
   id: "01a06730-4ddf-76c2-b230-94a243911052",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0037-updates",
   title: "Updates...",
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = {
   id: "01a06730-4dc7-72bf-899b-82fa2e2eb1b9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-to-prosperity-litrpg-vol-12-stubbed-0001-b1-chapter-1-worst-morning-ever",
   title: "B1 Chapter 1 - Worst Morning Ever",
   story: "path-to-prosperity-litrpg-vol-12-stubbed",

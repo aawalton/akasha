@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0538420HoundhuntIi = {
   id: "01a06730-4ee5-7b73-9763-3f5f316750dd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0538-420-houndhunt-ii",
   title: "420 Houndhunt [II]",
   story: "path-of-the-deathless-book-4-completed",

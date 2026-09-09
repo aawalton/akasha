@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0580370ACoalitionAgainstTheEndIi = {
   id: "01a06730-4efc-7ba0-8211-7e3db857008f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0580-370-a-coalition-against-the-end-ii",
   title: "370 A Coalition Against the End [II]",
   story: "path-of-the-deathless-book-4-completed",

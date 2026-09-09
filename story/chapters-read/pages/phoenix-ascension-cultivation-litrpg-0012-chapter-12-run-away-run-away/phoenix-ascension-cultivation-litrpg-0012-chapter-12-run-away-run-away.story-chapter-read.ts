@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0012Chapter12RunAwayRunAway = {
   id: "01a06730-4de3-7557-8328-90ef1345d1ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0012-chapter-12-run-away-run-away",
   title: "Chapter 12: Run away, run away!",
   story: "phoenix-ascension-cultivation-litrpg",

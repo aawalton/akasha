@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const rebornAsADemonicTree0001ArtChapter = {
   id: "01a06730-4dc4-74b6-843c-72ada87798e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0001-art-chapter",
   title: "Art Chapter",
   story: "story-read/reborn-as-a-demonic-tree",

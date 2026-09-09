@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0035Chapter35IWillNeverGiveUp = {
   id: "01a06730-4de7-7494-96a8-1cd8d3f1f9d3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0035-chapter-35-i-will-never-give-up",
   title: "Chapter 35: I will never give up!",
   story: "phoenix-ascension-cultivation-litrpg",

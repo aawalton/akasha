@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled00022TheOuterOuterWorld = {
   id: "01a06730-4dcc-76a7-a4cf-7abf2d5342d8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0002-2-the-outer-outer-world",
   title: "2: The Outer-Outer-World",
   story: "rat-girl-evolution-lab-rat-to-unrivaled",

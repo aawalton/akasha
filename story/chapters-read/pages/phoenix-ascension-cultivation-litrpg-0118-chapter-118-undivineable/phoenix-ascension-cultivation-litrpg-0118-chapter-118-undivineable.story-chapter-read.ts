@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0118Chapter118Undivineable = {
   id: "01a06730-4dfd-7904-888b-6f80c37099dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0118-chapter-118-undivineable",
   title: "Chapter 118: Undivineable",
   story: "phoenix-ascension-cultivation-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0597387SparringPartnerI = {
   id: "01a06730-4efd-7f30-a98f-2dce06d6b05b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0597-387-sparring-partner-i",
   title: "387 Sparring Partner [I]",
   story: "path-of-the-deathless-book-4-completed",

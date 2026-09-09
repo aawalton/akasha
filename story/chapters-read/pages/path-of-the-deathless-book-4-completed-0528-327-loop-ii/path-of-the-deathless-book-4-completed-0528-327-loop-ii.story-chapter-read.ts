@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0528327LoopIi = {
   id: "01a06730-4edd-786f-9ff0-2c15c3fb0c92",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0528-327-loop-ii",
   title: "327 Loop [II]",
   story: "path-of-the-deathless-book-4-completed",

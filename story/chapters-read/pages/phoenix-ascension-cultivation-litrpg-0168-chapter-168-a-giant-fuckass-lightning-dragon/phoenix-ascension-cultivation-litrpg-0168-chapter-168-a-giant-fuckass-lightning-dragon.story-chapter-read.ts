@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightningDragon = {
   id: "01a06730-4e04-7a9b-87b6-a5adea5e4a7b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0168-chapter-168-a-giant-fuckass-lightning-dragon",
   title: "Chapter 168: A giant fuckass Lightning Dragon.",
   story: "phoenix-ascension-cultivation-litrpg",

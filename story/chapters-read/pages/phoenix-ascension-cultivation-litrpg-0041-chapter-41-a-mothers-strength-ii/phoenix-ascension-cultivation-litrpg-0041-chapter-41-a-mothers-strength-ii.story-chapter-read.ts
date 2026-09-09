@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0041Chapter41AMothersStrengthIi = {
   id: "01a06730-4dea-73d1-bf1c-b3850b6d5372",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0041-chapter-41-a-mothers-strength-ii",
   title: "Chapter 41: A Mother's Strength II",
   story: "phoenix-ascension-cultivation-litrpg",

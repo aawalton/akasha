@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0115Chapter115LastStand = {
   id: "01a06730-4dfd-7099-9617-9c0f6326e60e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0115-chapter-115-last-stand",
   title: "Chapter 115: Last Stand",
   story: "phoenix-ascension-cultivation-litrpg",

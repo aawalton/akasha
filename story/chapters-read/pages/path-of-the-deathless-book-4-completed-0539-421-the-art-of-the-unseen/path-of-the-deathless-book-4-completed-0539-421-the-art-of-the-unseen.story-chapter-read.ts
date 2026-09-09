@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0539421TheArtOfTheUnseen = {
   id: "01a06730-4ee5-785b-b94e-85fb8ffa71d9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0539-421-the-art-of-the-unseen",
   title: "421 The Art of the Unseen",
   story: "path-of-the-deathless-book-4-completed",

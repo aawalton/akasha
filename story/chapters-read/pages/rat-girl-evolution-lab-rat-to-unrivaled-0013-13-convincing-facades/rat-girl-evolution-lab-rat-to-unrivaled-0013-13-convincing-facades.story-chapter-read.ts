@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ratGirlEvolutionLabRatToUnrivaled001313ConvincingFacades = {
   id: "01a06730-4dcf-71e3-bbb3-b2fe62a7f378",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "rat-girl-evolution-lab-rat-to-unrivaled-0013-13-convincing-facades",
   title: "13: Convincing Facades",
   story: "rat-girl-evolution-lab-rat-to-unrivaled",

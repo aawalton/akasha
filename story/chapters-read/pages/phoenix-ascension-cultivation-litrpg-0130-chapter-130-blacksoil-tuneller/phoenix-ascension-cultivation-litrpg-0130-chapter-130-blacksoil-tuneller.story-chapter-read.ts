@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0130Chapter130BlacksoilTuneller = {
   id: "01a06730-4dff-7eae-a83b-751975d40d27",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0130-chapter-130-blacksoil-tuneller",
   title: "Chapter 130: Blacksoil Tuneller",
   story: "phoenix-ascension-cultivation-litrpg",

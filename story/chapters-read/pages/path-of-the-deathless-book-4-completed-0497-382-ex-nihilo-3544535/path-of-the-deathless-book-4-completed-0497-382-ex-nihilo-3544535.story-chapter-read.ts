@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0497382ExNihilo3544535 = {
   id: "01a06730-4ebe-7bc3-930a-063f1dcb403e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0497-382-ex-nihilo-3544535",
   title: "382 Ex Nihilo",
   story: "path-of-the-deathless-book-4-completed",

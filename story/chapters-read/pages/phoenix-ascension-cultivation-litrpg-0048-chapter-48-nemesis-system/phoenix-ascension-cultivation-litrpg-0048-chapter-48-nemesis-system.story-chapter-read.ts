@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const phoenixAscensionCultivationLitrpg0048Chapter48NemesisSystem = {
   id: "01a06730-4ded-737f-9c8d-6fe0b26736c5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0048-chapter-48-nemesis-system",
   title: "Chapter 48: Nemesis System",
   story: "phoenix-ascension-cultivation-litrpg",

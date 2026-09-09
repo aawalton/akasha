@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0472358IiTruthIsAWeaponI3415411 = {
   id: "01a06730-4ea8-79da-8593-4d282fb7cd72",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0472-358-ii-truth-is-a-weapon-i-3415411",
   title: "358 (II) Truth is a Weapon [I]",
   story: "path-of-the-deathless-book-4-completed",
