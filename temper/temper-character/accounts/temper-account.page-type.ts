@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.ts"
 import type { EsoDisplayName } from "./properties/eso-display-name.text-property.ts"
 import type { WorldName } from "./properties/world-name.text-property.ts"
 

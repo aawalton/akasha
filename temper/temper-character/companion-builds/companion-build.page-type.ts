@@ -3,7 +3,7 @@ import type { BuildHash } from "../build-versions/properties/build-hash.text-pro
 import type { BuildCorrelationId } from "../character-builds/properties/build-correlation-id.text-property.ts"
 import type { BuildTargetCount } from "../character-builds/properties/build-target-count.number-property.ts"
 import type { BuildVisibility } from "../character-builds/properties/build-visibility.select-property.ts"
-import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.ts"
 import type { BaseRole } from "./properties/base-roles.select-property.ts"
 
 export type CompanionBuild = TemperCharacterThing & {

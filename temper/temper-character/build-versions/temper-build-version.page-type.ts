@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.ts"
 import type { Build } from "./properties/build.text-property.ts"
 import type { BuildHash } from "./properties/build-hash.text-property.ts"
 import type { CheckpointName } from "./properties/checkpoint-name.text-property.ts"
