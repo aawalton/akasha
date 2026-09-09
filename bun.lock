@@ -1382,7 +1382,6 @@
       "name": "@akasha/temper-collections-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-lorebooks": "workspace:*",
       },
     },
     "temper/community-addons": {
@@ -1606,14 +1605,6 @@
     },
     "temper/lib-zone": {
       "name": "@akasha/temper-lib-zone",
-    },
-    "temper/lorebooks": {
-      "name": "@akasha/temper-lorebooks",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/lua-runner": {
       "name": "@akasha/temper-lua-runner",
@@ -2660,8 +2651,6 @@
     "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/temper-lib-treasure"],
 
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
-
-    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:temper/lorebooks"],
 
     "@akasha/temper-lua-runner": ["@akasha/temper-lua-runner@workspace:temper/lua-runner"],
 

@@ -10,7 +10,6 @@
     "./collections-addon-entry": "./collections-addon-entry/collections-addon-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-addon-init": "workspace:*",
-    "@akasha/temper-lorebooks": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*"
   }
 }

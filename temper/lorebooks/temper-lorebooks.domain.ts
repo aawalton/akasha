@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperLorebooks = {
   id: "01a06176-9c44-7c00-8a3b-7cf902e62430",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-lorebooks",
   definition:
     "the lore books of Tamriel, drawn where a player must go to read one they have not read",
-  manifest: "json",
   parts: [
     "module/lorebooks-book-data",
     "module/lorebooks-book-data-00",
@@ -187,4 +186,4 @@ export const temperLorebooks = {
       statement: "Akasha names 4328 of the 4773 book titles this table has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

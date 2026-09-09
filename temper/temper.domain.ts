@@ -9,7 +9,7 @@ export const temper = {
   parts: [
     "eso-addon/temper-crafting-addon",
     "workspace-package/temper-character-build",
-    "workspace-package/temper-lorebooks",
+    "domain/temper-lorebooks",
     "workspace-package/temper-characters-equipment",
     "workspace-package/temper-characters-equipment-ui",
     "workspace-package/temper-characters-stats",
