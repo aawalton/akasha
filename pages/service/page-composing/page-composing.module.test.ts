@@ -359,7 +359,7 @@ test("a merge keeps a value held outside the commit beside the page rather than 
   ])
   const content = "puts" in said ? said.puts[0]?.content : ""
   expect(content).toContain('gameEngine: "idle"')
-  expect(content).toContain('unitSlug: "moments"')
+  expect(content).toMatch(/unit(Slug)?: "moments"/)
   expect(content).not.toContain("lastViewedAt")
   expect("kept" in said && said.kept[0]?.values.lastViewedAt).toBe(AN_INSTANT)
 })

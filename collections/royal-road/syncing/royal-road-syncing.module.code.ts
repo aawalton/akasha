@@ -208,7 +208,7 @@ export function filedChapter(
     [STORY]: `${OPENS_WITH}${story.slug}`,
     position,
     ownLength: wordCount,
-    unitSlug: WORDS,
+    unit: WORDS,
     externalLink: royalRoadUrl(chapter.url),
     externalId: chapter.id,
     source: SOURCE,

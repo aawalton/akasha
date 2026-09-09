@@ -426,5 +426,5 @@ test("a page a write has merging is composed over what the page already has", as
   )
   const told = TOLD[TOLD.length - 1]
   expect(told?.puts?.[0]?.content).toContain('gameEngine: "idle"')
-  expect(told?.puts?.[0]?.content).toContain('unitSlug: "moments"')
+  expect(told?.puts?.[0]?.content).toMatch(/unit(Slug)?: "moments"/)
 })

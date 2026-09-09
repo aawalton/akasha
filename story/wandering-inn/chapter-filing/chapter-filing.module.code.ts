@@ -91,7 +91,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
     story: STORY_ADDRESS,
     position: chapter.position,
     ownLength: countChapterWords(chapter.text),
-    unitSlug: WORDS,
+    unit: WORDS,
     externalLink: chapter.url,
     prose: TXT,
   }
