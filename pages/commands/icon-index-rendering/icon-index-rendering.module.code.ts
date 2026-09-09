@@ -137,12 +137,14 @@ export function idFor(root: string, slug: string): string {
 }
 
 export function pageBody(root: string, slug: string, definition: string): string {
+  const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_TYPE))
   return `${[
     'import type { Module } from "@akasha/code/module"',
     "",
     `export const ${kebabToCamel(slug)} = {`,
     `  id: ${JSON.stringify(idFor(root, slug))},`,
-    `  pageTypeSlug: ${JSON.stringify(typeSlugOf(root, MODULE_TYPE))},`,
+    `  pageTypeSlug: ${typeSlug},`,
+    `  type: ${typeSlug},`,
     `  slug: ${JSON.stringify(slug)},`,
     `  definition: ${JSON.stringify(definition)},`,
     '  code: "ts",',
