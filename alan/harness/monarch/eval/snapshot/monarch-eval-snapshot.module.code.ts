@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
-import type { PageFile } from "../files/monarch-files.module.code.ts"
+import type { PageFile } from "../../files/monarch-files.module.code.ts"
 import {
   ACCOUNT_FOLDER,
   AKASHA,
@@ -16,7 +16,7 @@ import {
   sidecarOf,
   TAG_FOLDER,
   tagPages,
-} from "../files/monarch-files.module.code.ts"
+} from "../../files/monarch-files.module.code.ts"
 
 export type Digest = Readonly<Record<string, string>>
 

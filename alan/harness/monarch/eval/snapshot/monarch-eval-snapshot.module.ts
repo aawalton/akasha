@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
 
 export const monarchEvalSnapshot = {
   id: "01a06863-264d-7e8e-895d-7274b1dbf33c",
