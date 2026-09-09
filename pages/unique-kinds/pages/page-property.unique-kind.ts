@@ -8,7 +8,7 @@ export const pageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The property scoping the value is named under `uniquePropertySlug`.",
+      statement: "The property scoping the value is named under `uniqueProperty`.",
     },
     {
       invariantKind: "departure",

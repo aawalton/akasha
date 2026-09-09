@@ -3,13 +3,13 @@ import type { PageType } from "../page-type.page-type.ts"
 import type { Generator } from "./properties/generator.relation-property.ts"
 import type { PropertySlug } from "./properties/property-slug.text-property.ts"
 import type { Unique } from "./properties/unique.relation-property.ts"
-import type { UniquePropertySlug } from "./properties/unique-property-slug.relation-property.ts"
+import type { UniqueProperty } from "./properties/unique-property.relation-property.ts"
 
 export type PageProperty = Domain & {
   propertySlug: PropertySlug
   generator?: Generator
   unique?: Unique
-  uniquePropertySlug?: UniquePropertySlug
+  uniqueProperty?: UniqueProperty
 }
 
 export type List<T> = readonly T[]
@@ -26,7 +26,7 @@ export const pageProperty = {
     "number-property/max-length",
     "relation-property/generator",
     "relation-property/unique",
-    "relation-property/unique-property-slug",
+    "relation-property/unique-property",
     "text-property/property-slug",
   ],
   extendsSlug: ["page-type/domain"],
@@ -34,7 +34,7 @@ export const pageProperty = {
     { pagePropertySlug: "text-property/property-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/generator", required: false, many: false },
     { pagePropertySlug: "relation-property/unique", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique-property-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/unique-property", required: false, many: false },
   ],
   invariants: [
     {

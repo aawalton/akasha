@@ -24,7 +24,7 @@ export const bookSection = {
       required: true,
       many: false,
       unique: "page-property",
-      uniquePropertySlug: "relation-property/section-of",
+      uniqueProperty: "relation-property/section-of",
     },
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "file-property/chapter-text", required: true, many: false },

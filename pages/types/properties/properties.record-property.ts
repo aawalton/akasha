@@ -3,7 +3,7 @@ import type { List } from "../page-properties/page-property.page-type.ts"
 import type { MaxCount } from "../page-properties/properties/max-count.number-property.ts"
 import type { MaxLength } from "../page-properties/properties/max-length.number-property.ts"
 import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
-import type { UniquePropertySlug } from "../page-properties/properties/unique-property-slug.relation-property.ts"
+import type { UniqueProperty } from "../page-properties/properties/unique-property.relation-property.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
@@ -20,7 +20,7 @@ export type Declaration =
       uncommitted?: Uncommitted
       secret?: Secret
       unique?: Unique
-      uniquePropertySlug?: UniquePropertySlug
+      uniqueProperty?: UniqueProperty
     }
   | {
       pagePropertySlug: PagePropertySlug
@@ -31,7 +31,7 @@ export type Declaration =
       uncommitted?: Uncommitted
       secret?: Secret
       unique?: Unique
-      uniquePropertySlug?: UniquePropertySlug
+      uniqueProperty?: UniqueProperty
     }
 
 export type Properties = List<Declaration>
@@ -52,7 +52,7 @@ export const properties = {
     { pagePropertySlug: "boolean-property/uncommitted", required: false, many: false },
     { pagePropertySlug: "boolean-property/secret", required: false, many: false },
     { pagePropertySlug: "relation-property/unique", required: false, many: false },
-    { pagePropertySlug: "relation-property/unique-property-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/unique-property", required: false, many: false },
   ],
   invariants: [
     {

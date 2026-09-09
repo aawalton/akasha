@@ -1,12 +1,12 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
 
-export type UniquePropertySlug = string
+export type UniqueProperty = string
 
-export const uniquePropertySlug = {
+export const uniqueProperty = {
   id: "01a07c96-3272-7d36-9394-051287145f2a",
   pageTypeSlug: "relation-property",
-  slug: "unique-property-slug",
-  propertySlug: "unique-property-slug",
+  slug: "unique-property",
+  propertySlug: "unique-property",
   definition: "the property whose value a unique value is unique within",
   targetPageTypeSlug: "page-type/page-property",
   invariants: [
