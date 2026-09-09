@@ -13,7 +13,7 @@ export const markdownPageName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name carrying no page type names no page.",
+      statement: "A name with no page type names no page.",
     },
     {
       invariantKind: "departure",

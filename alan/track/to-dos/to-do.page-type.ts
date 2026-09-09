@@ -81,7 +81,7 @@ export const toDo = {
     },
     {
       invariantKind: "departure",
-      statement: "A to-do carrying no difficulty earns nothing.",
+      statement: "A to-do with no difficulty earns nothing.",
     },
     {
       invariantKind: "departure",

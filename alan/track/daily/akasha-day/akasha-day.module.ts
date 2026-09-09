@@ -66,7 +66,7 @@ export const akashaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "That declaration lands in the commit carrying the rows.",
+      statement: "That declaration lands in the commit with the rows.",
     },
     {
       invariantKind: "departure",

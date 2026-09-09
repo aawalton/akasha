@@ -13,7 +13,7 @@ export const equipmentSignatureCompiler = {
     },
     {
       invariantKind: "departure",
-      statement: "A shield is read as an off-hand carrying an armor trait.",
+      statement: "A shield is read as an off-hand with an armor trait.",
     },
     {
       invariantKind: "departure",

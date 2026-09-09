@@ -22,7 +22,7 @@ export const commandDeclaring = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag carrying no value names no value label.",
+      statement: "A flag with no value names no value label.",
     },
     {
       invariantKind: "departure",

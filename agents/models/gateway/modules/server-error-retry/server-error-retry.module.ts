@@ -38,7 +38,7 @@ export const serverErrorRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "A response the classifier does not match resolves carrying its own body.",
+      statement: "A response the classifier does not match resolves with its own body.",
     },
     {
       invariantKind: "departure",

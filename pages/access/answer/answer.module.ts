@@ -28,12 +28,12 @@ export const answer = {
     },
     {
       invariantKind: "departure",
-      statement: "A question the pages refuse is answered 503 carrying the refusal's own words.",
+      statement: "A question the pages refuse is answered 503 with the refusal's own words.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A listing whose roster will not read is answered 501 carrying the reason that roster went unread.",
+        "A listing whose roster will not read is answered 501 with the reason that roster went unread.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "A roster that will not read is answered 503 carrying the reason that roster went unread.",
+        "A roster that will not read is answered 503 with the reason that roster went unread.",
     },
     {
       invariantKind: "departure",

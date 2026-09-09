@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "A story chapter names its story with one property of its own.",
       workingMemory:
-        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug has the story name as a prefix, which `story.domain.ts` has as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfCollectionSlugs` and retargets to the new property. The collections edge stays beside it, carrying a different fact.",
+        "All 13607 chapters name exactly one parent today, so nothing is lost by binding one. A chapter's slug has the story name as a prefix, which `story.domain.ts` has as an invariant, and that invariant goes once the scope binds. `sequence` groups on `partOfCollectionSlugs` and retargets to the new property. The collections edge stays beside it, with a different fact.",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",

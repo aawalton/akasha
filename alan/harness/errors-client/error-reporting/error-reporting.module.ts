@@ -4,7 +4,7 @@ export const errorReporting = {
   id: "01a05c89-6034-7244-b9d2-6f9242df9ca4",
   pageTypeSlug: "module",
   slug: "error-reporting",
-  definition: "a browser error posted to the sink, carrying the page it was seen on",
+  definition: "a browser error posted to the sink, with the page it was seen on",
   code: "ts",
   invariants: [
     {

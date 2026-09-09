@@ -26,7 +26,7 @@ export const completionAchievementProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A character heading merges into the account heading carrying the same title.",
+      statement: "A character heading merges into the account heading with the same title.",
     },
     {
       invariantKind: "departure",

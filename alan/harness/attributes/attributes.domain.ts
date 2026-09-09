@@ -53,7 +53,7 @@ export const attributes = {
     {
       invariantKind: "departure",
       statement:
-        "A relay with many readings is given longer to run than a relay carrying a single reading.",
+        "A relay with many readings is given longer to run than a relay with a single reading.",
     },
     {
       invariantKind: "departure",

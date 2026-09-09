@@ -4,8 +4,7 @@ export const searchValueFilter = {
   id: "01a0613a-e0b2-7f07-844d-be1021d78a93",
   pageTypeSlug: "module",
   slug: "search-value-filter",
-  definition:
-    "the item value, narrowed by a range from 0 to 1000000 carrying a comparison operator",
+  definition: "the item value, narrowed by a range from 0 to 1000000 with a comparison operator",
   code: "ts",
   invariants: [
     {

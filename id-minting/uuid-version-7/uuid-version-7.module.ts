@@ -4,7 +4,7 @@ export const uuidVersion7 = {
   id: "01a07be9-0fe1-7ffb-9765-633921d012dd",
   pageTypeSlug: "module",
   slug: "uuid-version-7",
-  definition: "a uuid carrying the moment that uuid was made",
+  definition: "a uuid with the moment that uuid was made",
   code: "ts",
   test: "ts",
   invariants: [

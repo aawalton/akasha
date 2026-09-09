@@ -15,7 +15,7 @@ export const questionClosedAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A closed question carrying no such instant closed at an hour nobody wrote down.",
+      statement: "A closed question with no such instant closed at an hour nobody wrote down.",
     },
   ],
 } as const satisfies InstantProperty

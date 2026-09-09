@@ -43,7 +43,7 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's own session raises this event carrying the name of its seat.",
+      statement: "A subagent's own session raises this event with the name of its seat.",
     },
     {
       invariantKind: "departure",

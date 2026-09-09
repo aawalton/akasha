@@ -71,7 +71,7 @@ export const temperHousingAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A visit card travels as an ordinary chat line carrying an agreed key word.",
+      statement: "A visit card travels as an ordinary chat line with an agreed key word.",
     },
     {
       invariantKind: "departure",

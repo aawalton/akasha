@@ -49,7 +49,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A key mistyped is caught here by the page type carrying no property under it.",
+      statement: "A key mistyped is caught here by the page type with no property under it.",
     },
     {
       invariantKind: "departure",

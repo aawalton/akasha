@@ -22,7 +22,7 @@ export const watcherSyncStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A source carrying no capture instant reports no staleness.",
+      statement: "A source with no capture instant reports no staleness.",
     },
     {
       invariantKind: "departure",

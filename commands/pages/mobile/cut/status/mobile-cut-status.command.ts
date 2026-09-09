@@ -30,7 +30,7 @@ export const mobileCutStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A last cut carrying no build-input hash leaves a cut owed.",
+      statement: "A last cut with no build-input hash leaves a cut owed.",
     },
     {
       invariantKind: "departure",

@@ -29,7 +29,7 @@ export const aceStepClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A task that succeeded carrying no result payload is at fault rather than empty.",
+      statement: "A task that succeeded with no result payload is at fault rather than empty.",
     },
     {
       invariantKind: "departure",

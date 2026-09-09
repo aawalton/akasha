@@ -19,8 +19,7 @@ export const accountWalk = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An account with no fresh token is forwarded carrying whatever token the client sent.",
+      statement: "An account with no fresh token is forwarded with whatever token the client sent.",
     },
     {
       invariantKind: "departure",

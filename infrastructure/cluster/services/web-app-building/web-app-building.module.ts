@@ -22,7 +22,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A sha carrying anything other than forty hexadecimal digits is no sha.",
+      statement: "A sha with anything other than forty hexadecimal digits is no sha.",
     },
     {
       invariantKind: "departure",

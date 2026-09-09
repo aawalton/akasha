@@ -4,7 +4,7 @@ export const clusterFetch = {
   id: "01a068d4-d2aa-7902-bb36-12d037d7ac6b",
   pageTypeSlug: "module",
   slug: "cluster-fetch",
-  definition: "one call to the cluster's API server, carrying the credential the environment holds",
+  definition: "one call to the cluster's API server, with the credential the environment holds",
   code: "ts",
   invariants: [
     {

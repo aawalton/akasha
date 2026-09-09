@@ -98,7 +98,7 @@ export const readoutGroupServing = {
     {
       invariantKind: "departure",
       statement:
-        "A stoplight carrying no figure names whether no reading was taken or the reading was too old.",
+        "A stoplight with no figure names whether no reading was taken or the reading was too old.",
     },
     {
       invariantKind: "departure",

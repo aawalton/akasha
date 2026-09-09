@@ -23,7 +23,7 @@ export const commandServerClient = {
     },
     {
       invariantKind: "constraint",
-      statement: "An ask carrying no `verb:` key is thrown away by the server without a refusal.",
+      statement: "An ask with no `verb:` key is thrown away by the server without a refusal.",
     },
     {
       invariantKind: "departure",
