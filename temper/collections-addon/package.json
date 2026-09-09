@@ -12,7 +12,6 @@
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-lorebooks": "workspace:*",
-    "@akasha/temper-lost-treasure": "workspace:*",
     "@akasha/temper-skyshards": "workspace:*"
   }
 }

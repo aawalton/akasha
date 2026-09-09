@@ -111,7 +111,7 @@ export const temper = {
     "workspace-package/temper-items-rules-eval",
     "workspace-package/temper-items-filters-core",
     "workspace-package/temper-items-filters-addon",
-    "workspace-package/temper-lost-treasure",
+    "domain/temper-lost-treasure",
     "workspace-package/temper-items-rules-routing-core",
     "workspace-package/temper-items-rules-matcher",
     "eso-addon/temper-events-addon",

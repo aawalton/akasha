@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperLostTreasure = {
   id: "01a06141-8003-755d-8ec8-3764b298f7ef",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-lost-treasure",
   definition:
     "the buried treasure a map or a survey report points to, drawn where the player must dig",
-  manifest: "json",
   parts: [
     "module/lost-treasure-ui-strings",
     "module/lost-treasure-constants",
@@ -45,4 +44,4 @@ export const temperLostTreasure = {
         "A dig site the add-on does not know is gathered from the player rather than shipped.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
