@@ -43,6 +43,16 @@ export const monarchEvalScore = {
       statement: "Rows the agent was confident and wrong about are shown with their reasons.",
     },
     {
+      invariantKind: "stopgap",
+      statement:
+        "The run file is taken as its type through `unknown` rather than read field by field.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "No single assertion carries an untyped object to an interface declaring no index signature.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches a model.",
     },
