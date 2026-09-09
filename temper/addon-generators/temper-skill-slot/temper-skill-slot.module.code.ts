@@ -1,5 +1,5 @@
-import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { z } from "zod"
+import { skillSlots } from "../../skill-kinds/skill-slots/skill-slots.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

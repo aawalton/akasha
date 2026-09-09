@@ -1,5 +1,5 @@
-import { skillBars } from "@akasha/temper-skill-kinds/skill-bars"
 import { z } from "zod"
+import { skillBars } from "../../skill-kinds/skill-bars/skill-bars.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

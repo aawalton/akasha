@@ -1,9 +1,9 @@
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   DamageType,
   EffectCondition,
   TargetType,
-} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { CompanionSkillTemplate } from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type {
   CompanionEffect,

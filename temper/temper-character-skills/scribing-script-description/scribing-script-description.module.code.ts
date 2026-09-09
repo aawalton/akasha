@@ -1,7 +1,7 @@
 import { getFromPartialRecord } from "@akasha/temper-formula-framework/record-parts"
-import type { AffixScriptId } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
-import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import type { SignatureScriptId } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
+import type { AffixScriptId } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { SignatureScriptId } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import type {
   AffixVariantTemplate,
   SignatureVariantTemplate,

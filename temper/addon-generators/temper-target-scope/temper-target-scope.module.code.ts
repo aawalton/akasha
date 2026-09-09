@@ -1,5 +1,5 @@
-import { targetScopes } from "@akasha/temper-skill-kinds/target-scopes"
 import { z } from "zod"
+import { targetScopes } from "../../skill-kinds/target-scopes/target-scopes.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

@@ -1,6 +1,3 @@
-import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
-import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { passiveSkillIds } from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
@@ -23,6 +20,9 @@ import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-o
 import { mundus } from "../../character-sources/mundus-source/mundus-source.module.code.ts"
 import { vampireStages } from "../../character-sources/vampire-stages/vampire-stages.module.code.ts"
 import { races } from "../../races/races/races.module.code.ts"
+import { affixScripts } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import { focusScripts } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { signatureScripts } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

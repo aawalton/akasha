@@ -1,5 +1,5 @@
-import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { ScribedSkillTemplate } from "../scribed-skill-template/scribed-skill-template.module.code.ts"
 import { SCRIBED_SKILLS_00 } from "../scribed-skills-00/scribed-skills-00.module.code.ts"
 import { SCRIBED_SKILLS_01 } from "../scribed-skills-01/scribed-skills-01.module.code.ts"

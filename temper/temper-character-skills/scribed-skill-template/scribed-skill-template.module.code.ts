@@ -1,5 +1,5 @@
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
+import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SkillTemplate } from "../character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireId } from "../scribing-grimoires/scribing-grimoires.module.code.ts"
 

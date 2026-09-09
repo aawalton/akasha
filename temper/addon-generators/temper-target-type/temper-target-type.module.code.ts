@@ -1,5 +1,5 @@
-import { targetTypes } from "@akasha/temper-skill-kinds/target-types"
 import { z } from "zod"
+import { targetTypes } from "../../skill-kinds/target-types/target-types.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

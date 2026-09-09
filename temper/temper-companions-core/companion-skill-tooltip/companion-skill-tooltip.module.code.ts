@@ -1,4 +1,4 @@
-import type { Targeting } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
+import type { Targeting } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import {
   computeAugmentedDurations,
   formatDuration,

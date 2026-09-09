@@ -1,5 +1,5 @@
-import { statusEffectTypes } from "@akasha/temper-skill-kinds/status-effect-types"
 import { z } from "zod"
+import { statusEffectTypes } from "../../skill-kinds/status-effect-types/status-effect-types.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

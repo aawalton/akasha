@@ -1,4 +1,4 @@
-import type { TargetType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
+import type { TargetType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import { extractFormulaComponents } from "../companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import {
   getSkillCastTime,

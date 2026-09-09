@@ -1,5 +1,5 @@
-import { specialEffectTypes } from "@akasha/temper-skill-kinds/special-effect-types"
 import { z } from "zod"
+import { specialEffectTypes } from "../../skill-kinds/special-effect-types/special-effect-types.module.code.ts"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 

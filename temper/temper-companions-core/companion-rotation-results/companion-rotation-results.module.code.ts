@@ -1,4 +1,4 @@
-import type { DamageType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
+import type { DamageType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import { extractFormulaComponents } from "../companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import { calculateLightAttackDamage } from "../companion-light-attack/companion-light-attack.module.code.ts"
 import { classifyHealingTarget } from "../companion-rotation-state/companion-rotation-state.module.code.ts"

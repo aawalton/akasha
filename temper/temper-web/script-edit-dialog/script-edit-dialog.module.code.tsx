@@ -17,12 +17,6 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import { type AffixScriptId, affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
-import { type FocusScriptId, focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import {
-  type SignatureScriptId,
-  signatureScripts,
-} from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,
@@ -30,6 +24,18 @@ import {
 } from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { getCombinedScriptDescription } from "akasha/temper/temper-character-skills/scribing-script-description/scribing-script-description.module.code.ts"
 import { useMemo } from "react"
+import {
+  type AffixScriptId,
+  affixScripts,
+} from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import {
+  type FocusScriptId,
+  focusScripts,
+} from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import {
+  type SignatureScriptId,
+  signatureScripts,
+} from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import type { PendingScriptEdits } from "../skills-types/skills-types.module.code.ts"
 
 interface ScriptEditDialogProps {

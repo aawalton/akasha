@@ -1,7 +1,7 @@
-import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
-import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
-import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { grimoires } from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { affixScripts } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
+import { focusScripts } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import { signatureScripts } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"
 import type {

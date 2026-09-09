@@ -8,11 +8,11 @@ import type {
   SpecialEffectType,
   StatusEffect,
   Targeting,
-} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
+} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
-} from "@akasha/temper-skill-kinds/skill-buff-debuff-types"
+} from "../../skill-kinds/skill-buff-debuff-types/skill-buff-debuff-types.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionValueFormula } from "../companion-value-formula/companion-value-formula.module.code.ts"
 

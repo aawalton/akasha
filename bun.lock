@@ -1204,6 +1204,13 @@
     "temper/settings-panel": {
       "name": "@akasha/temper-settings-panel",
     },
+    "temper/skill-kinds": {
+      "name": "@akasha/temper-skill-kinds",
+      "dependencies": {
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/skill-lines": {
       "name": "@akasha/temper-skill-lines",
       "dependencies": {
@@ -1339,13 +1346,6 @@
       "name": "@akasha/temper-lib-sets",
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
-    "temper/temper-skill-kinds": {
-      "name": "@akasha/temper-skill-kinds",
-      "dependencies": {
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/temper-web": {
@@ -1703,7 +1703,7 @@
 
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:temper/settings-panel"],
 
-    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/temper-skill-kinds"],
+    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/skill-kinds"],
 
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:temper/skill-lines"],
 

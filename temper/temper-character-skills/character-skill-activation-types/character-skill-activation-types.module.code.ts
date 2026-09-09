@@ -1,5 +1,5 @@
-import type { DamageType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import type { SkillValueFormula } from "@akasha/temper-skill-kinds/skill-value-formulas"
+import type { DamageType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import type { SkillValueFormula } from "../../skill-kinds/skill-value-formulas/skill-value-formulas.module.code.ts"
 
 export type CharacterEffectType = "damage" | "heal" | "shield"
 

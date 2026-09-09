@@ -1,4 +1,4 @@
-import type { EffectCondition as EffectConditionType } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
+import type { EffectCondition as EffectConditionType } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { CompanionEffect } from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionSkillLineId } from "../skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 

@@ -1,8 +1,8 @@
+import { targetArmor as targetArmorData } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import type {
   DamageType,
   EffectCondition,
-} from "@akasha/temper-skill-kinds/skill-activation-effect-types"
-import { targetArmor as targetArmorData } from "../../character-sources/target-armors/target-armors.module.code.ts"
+} from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { CompanionSkillId } from "../companion-skills/companion-skills.module.code.ts"
 
 export interface HealthSamples {
