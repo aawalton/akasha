@@ -26,7 +26,7 @@ export const astraGeneratedTypes = {
         "`command-system/change-preparing` runs five generators between the rebase and the gate, and answers the change as no change to judge over once a generated file is added. Each generator gates itself with a hand-written `couldTurn` reading the paths the change has, because the pages an answer rests on are worked out from the code rather than recorded as the code runs.\n",
     },
     {
-      statement: "One written type holds a page type's stored keys and its calculations.",
+      statement: "One written type has a page type's stored keys and its calculations.",
       workingMemory:
         "`file-property/worked` holds the calculations alone today, written on every apply by `command-system/worked-typing`. The new file replaces it rather than sitting beside it.\n",
     },

@@ -21,7 +21,7 @@ export const indexEntries = {
     {
       invariantKind: "departure",
       statement:
-        "A property whose page type extends a file property is held in a file as that property is.",
+        "A property whose page type extends a file property is in a file as that property is.",
     },
     {
       invariantKind: "departure",

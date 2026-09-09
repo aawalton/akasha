@@ -9,7 +9,7 @@ export const aranyaOnePackage = {
   parent: "initiative/akasha-folder-shape",
   intents: [
     {
-      statement: "The root manifest names every file reached from outside the folder holding it.",
+      statement: "The root manifest names every file reached from outside the folder with it.",
       workingMemory:
         "The root manifest states no `exports` today, and the 279 non-root manifests are what make every `@akasha/…` name resolve. Node resolves a package's own name against that package's own exports map, so one map on the root keeps those names working. It is there before anything dissolves, or the names go dark.",
     },
