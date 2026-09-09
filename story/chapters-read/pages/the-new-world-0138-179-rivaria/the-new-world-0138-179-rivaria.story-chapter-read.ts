@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0138179Rivaria = {
   id: "01a06730-4e7b-7635-92aa-cda76635174a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0138-179-rivaria",
   title: "179 Rivaria",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld005395AtlasDroppedTheSky = {
   id: "01a06730-4e4f-7e68-b489-21124d5f8dd2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0053-95-atlas-dropped-the-sky",
   title: "95 Atlas Dropped the Sky",
   story: "the-new-world",

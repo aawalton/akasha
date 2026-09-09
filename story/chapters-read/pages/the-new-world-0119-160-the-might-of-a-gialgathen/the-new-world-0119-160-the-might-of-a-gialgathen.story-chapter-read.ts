@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0119160TheMightOfAGialgathen = {
   id: "01a06730-4e72-712d-8e8b-215c878fa0f1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0119-160-the-might-of-a-gialgathen",
   title: "160 The Might of a Gialgathen",
   story: "the-new-world",

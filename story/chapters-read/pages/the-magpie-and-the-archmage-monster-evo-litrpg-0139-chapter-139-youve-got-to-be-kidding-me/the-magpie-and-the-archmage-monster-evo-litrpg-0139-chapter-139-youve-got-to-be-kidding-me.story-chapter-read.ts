@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0139Chapter139YouveGotToBeKiddingMe = {
   id: "01a06730-4fe2-733a-9171-85f497708aa1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0139-chapter-139-youve-got-to-be-kidding-me",
   title: "Chapter 139 – You've Got to be Kidding Me",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

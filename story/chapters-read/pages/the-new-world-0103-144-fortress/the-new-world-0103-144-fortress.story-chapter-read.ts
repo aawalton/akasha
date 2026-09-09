@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0103144Fortress = {
   id: "01a06730-4e66-7974-873c-2e78fc67da08",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0103-144-fortress",
   title: "144 Fortress",
   story: "the-new-world",

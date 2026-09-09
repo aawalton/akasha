@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0021Chapter21PeakOfTheMountain = {
   id: "01a06730-4fde-7bb1-9793-2b70735cdceb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0021-chapter-21-peak-of-the-mountain",
   title: "Chapter 21 – Peak of the Mountain",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

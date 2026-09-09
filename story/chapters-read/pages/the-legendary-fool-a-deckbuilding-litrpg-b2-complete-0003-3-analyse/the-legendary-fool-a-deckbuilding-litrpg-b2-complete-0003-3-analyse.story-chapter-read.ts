@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete00033Analyse = {
   id: "01a06730-4e2b-764f-9ecd-d5e39d929172",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0003-3-analyse",
   title: "3: Analyse",
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

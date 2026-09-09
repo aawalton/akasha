@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld003174CorruptedRuin = {
   id: "01a06730-4e44-77c2-a038-e183db621f70",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0031-74-corrupted-ruin",
   title: "74 Corrupted Ruin",
   story: "the-new-world",

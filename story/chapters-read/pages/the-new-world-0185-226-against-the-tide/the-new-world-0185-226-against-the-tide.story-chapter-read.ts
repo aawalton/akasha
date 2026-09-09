@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0185226AgainstTheTide = {
   id: "01a06730-4e92-7645-9f12-50b6fda8786a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0185-226-against-the-tide",
   title: "226 Against the Tide",
   story: "the-new-world",

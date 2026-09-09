@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld004992DimensionalCipher = {
   id: "01a06730-4e4d-702d-a055-769a4c5a431e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0049-92-dimensional-cipher",
   title: "92 Dimensional Cipher",
   story: "the-new-world",

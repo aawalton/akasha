@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0100Chapter100TheLimitsOfHealing = {
   id: "01a06730-4fe1-78d8-93f7-3f7f4d94a6ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0100-chapter-100-the-limits-of-healing",
   title: "Chapter 100 – The Limits of Healing",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0092133TheComingTempest = {
   id: "01a06730-4e61-7ed6-b220-a91cdf0a88af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0092-133-the-coming-tempest",
   title: "133 The Coming Tempest",
   story: "the-new-world",

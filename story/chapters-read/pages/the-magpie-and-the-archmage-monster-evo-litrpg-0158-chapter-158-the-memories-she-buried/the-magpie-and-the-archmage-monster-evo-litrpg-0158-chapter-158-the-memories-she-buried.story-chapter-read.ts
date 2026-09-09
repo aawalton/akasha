@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0158Chapter158TheMemoriesSheBuried = {
   id: "01a06730-4fe3-7096-aa9a-c352702f562f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0158-chapter-158-the-memories-she-buried",
   title: "Chapter 158 – The Memories She Buried",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

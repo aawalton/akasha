@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld002568TastingDeception = {
   id: "01a06730-4e40-7a5d-8389-24fd64c55230",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0025-68-tasting-deception",
   title: "68 Tasting Deception",
   story: "the-new-world",

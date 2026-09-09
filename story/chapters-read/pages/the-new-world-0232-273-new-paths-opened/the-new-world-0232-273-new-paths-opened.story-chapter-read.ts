@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0232273NewPathsOpened = {
   id: "01a06730-4ea5-7792-a017-7e29ad1cc40b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0232-273-new-paths-opened",
   title: "273 New Paths Opened",
   story: "the-new-world",

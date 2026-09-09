@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld002366TeachingTheMaster = {
   id: "01a06730-4e3f-7f01-bee6-274eabec5301",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0023-66-teaching-the-master",
   title: "66 Teaching the Master",
   story: "the-new-world",

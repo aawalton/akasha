@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0213254QuicklyIntoTheNight = {
   id: "01a06730-4e9b-756d-a488-3ddc2c24410a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0213-254-quickly-into-the-night",
   title: "254 Quickly Into the Night",
   story: "the-new-world",

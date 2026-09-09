@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0176Chapter176PriceOfHospitality = {
   id: "01a084fe-1d93-7843-a468-262d9098ffb8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0176-chapter-176-price-of-hospitality",
   position: 176,
   publishedAt: "2026-09-09",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld004588HideAndSeek = {
   id: "01a06730-4e4a-7a57-91b0-997f32bbea8a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0045-88-hide-and-seek",
   title: "88 Hide and Seek",
   story: "the-new-world",

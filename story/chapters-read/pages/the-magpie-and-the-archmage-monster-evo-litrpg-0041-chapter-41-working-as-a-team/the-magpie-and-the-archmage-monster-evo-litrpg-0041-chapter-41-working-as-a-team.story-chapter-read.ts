@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0041Chapter41WorkingAsATeam = {
   id: "01a06730-4fdf-7ae9-90e2-810166fc97f6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0041-chapter-41-working-as-a-team",
   title: "Chapter 41 – Working as a Team",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

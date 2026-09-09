@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0228269AnticipatingAnEvening = {
   id: "01a06730-4ea3-747c-b092-24ea808a499e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0228-269-anticipating-an-evening",
   title: "269 Anticipating an Evening",
   story: "the-new-world",

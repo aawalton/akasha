@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0108Chapter108ThatsForTheBirds = {
   id: "01a06730-4fe1-77c4-a75c-fc3b0af77f46",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0108-chapter-108-thats-for-the-birds",
   title: "Chapter 108 – That's for the Birds",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

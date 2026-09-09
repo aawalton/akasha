@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0252293TheSiegeOfSaphigia = {
   id: "01a06730-4eb4-73cb-b3f1-27da6adeb73a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0252-293-the-siege-of-saphigia",
   title: "293 The siege of Saphigia",
   story: "the-new-world",

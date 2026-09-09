@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0219260ABloodyCompromise = {
   id: "01a06730-4e9d-7cdc-b671-7de75b0a0011",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0219-260-a-bloody-compromise",
   title: "260 A Bloody Compromise",
   story: "the-new-world",

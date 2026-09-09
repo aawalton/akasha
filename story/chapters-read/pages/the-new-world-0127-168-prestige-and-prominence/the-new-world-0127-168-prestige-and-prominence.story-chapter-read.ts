@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0127168PrestigeAndProminence = {
   id: "01a06730-4e75-75b8-9fa5-2fe9594029a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0127-168-prestige-and-prominence",
   title: "168 Prestige and Prominence",
   story: "the-new-world",

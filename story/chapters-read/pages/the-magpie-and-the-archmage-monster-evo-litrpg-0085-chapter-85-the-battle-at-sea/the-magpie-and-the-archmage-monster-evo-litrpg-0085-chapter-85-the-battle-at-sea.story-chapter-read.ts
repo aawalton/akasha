@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0085Chapter85TheBattleAtSea = {
   id: "01a06730-4fe0-705e-a09c-cc507926e5c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0085-chapter-85-the-battle-at-sea",
   title: "Chapter 85 – The Battle at Sea",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

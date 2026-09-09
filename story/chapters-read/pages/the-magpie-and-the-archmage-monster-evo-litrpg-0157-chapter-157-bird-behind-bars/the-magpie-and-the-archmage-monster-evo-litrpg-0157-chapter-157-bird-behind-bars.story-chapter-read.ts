@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0157Chapter157BirdBehindBars = {
   id: "01a06730-4fe3-7b20-aac7-35559394f168",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0157-chapter-157-bird-behind-bars",
   title: "Chapter 157 – Bird Behind Bars",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

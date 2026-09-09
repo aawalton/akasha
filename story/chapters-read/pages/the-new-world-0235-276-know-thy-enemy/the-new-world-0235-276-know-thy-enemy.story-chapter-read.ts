@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0235276KnowThyEnemy = {
   id: "01a06730-4ea9-7f05-8abf-67a4097f28e9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0235-276-know-thy-enemy",
   title: "276 Know Thy Enemy",
   story: "the-new-world",

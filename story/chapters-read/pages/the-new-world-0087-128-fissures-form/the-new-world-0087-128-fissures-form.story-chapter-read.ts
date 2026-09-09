@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0087128FissuresForm = {
   id: "01a06730-4e5f-729a-b266-2b10dd415cb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0087-128-fissures-form",
   title: "128 Fissures Form",
   story: "the-new-world",

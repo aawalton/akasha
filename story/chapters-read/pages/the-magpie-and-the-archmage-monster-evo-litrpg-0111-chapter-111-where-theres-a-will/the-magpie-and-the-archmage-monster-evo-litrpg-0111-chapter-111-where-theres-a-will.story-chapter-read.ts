@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0111Chapter111WhereTheresAWill = {
   id: "01a06730-4fe1-7dab-a8cd-669fc73af76c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0111-chapter-111-where-theres-a-will",
   title: "Chapter 111 – Where There's A Will",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

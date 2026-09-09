@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0162203IntoOblivion = {
   id: "01a06730-4e85-7aa2-9b23-1a50d977c1d7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0162-203-into-oblivion",
   title: "203 Into Oblivion",
   story: "the-new-world",

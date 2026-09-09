@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0163204DownARabbitHole = {
   id: "01a06730-4e86-72ba-9440-acf943fa125a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0163-204-down-a-rabbit-hole",
   title: "204 Down A Rabbit Hole",
   story: "the-new-world",

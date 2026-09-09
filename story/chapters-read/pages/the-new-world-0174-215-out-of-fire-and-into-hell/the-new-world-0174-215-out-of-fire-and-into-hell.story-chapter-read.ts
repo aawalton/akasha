@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0174215OutOfFireAndIntoHell = {
   id: "01a06730-4e8a-744f-9e32-7611abaf4275",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0174-215-out-of-fire-and-into-hell",
   title: "215 Out of Fire and Into Hell",
   story: "the-new-world",

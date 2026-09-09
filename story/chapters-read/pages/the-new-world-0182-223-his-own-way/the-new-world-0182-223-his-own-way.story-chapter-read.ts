@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0182223HisOwnWay = {
   id: "01a06730-4e90-72a2-8b33-9218845fe27c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0182-223-his-own-way",
   title: "223 His Own Way",
   story: "the-new-world",

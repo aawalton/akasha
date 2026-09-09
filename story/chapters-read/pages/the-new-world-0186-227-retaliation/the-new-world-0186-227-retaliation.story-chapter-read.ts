@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0186227Retaliation = {
   id: "01a06730-4e92-731a-98c2-63c3bbc9175b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0186-227-retaliation",
   title: "227 Retaliation",
   story: "the-new-world",

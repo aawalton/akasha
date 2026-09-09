@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0030Chapter30SatyrLake = {
   id: "01a06730-4fde-723c-9bf5-f5b2b4ed7616",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0030-chapter-30-satyr-lake",
   title: "Chapter 30 – Satyr Lake",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

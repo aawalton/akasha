@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0138Chapter138PlayingWithFire = {
   id: "01a06730-4fe2-767b-b41d-2fb8f4eb637d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0138-chapter-138-playing-with-fire",
   title: "Chapter 138 – Playing with Fire",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

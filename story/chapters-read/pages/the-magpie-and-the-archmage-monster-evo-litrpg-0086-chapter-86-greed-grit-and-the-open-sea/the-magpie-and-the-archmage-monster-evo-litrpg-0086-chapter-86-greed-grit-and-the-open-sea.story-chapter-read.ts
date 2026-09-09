@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0086Chapter86GreedGritAndTheOpenSea = {
   id: "01a06730-4fe0-7095-90ba-a1fb364152ce",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0086-chapter-86-greed-grit-and-the-open-sea",
   title: "Chapter 86 – Greed, Grit, and the Open Sea",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

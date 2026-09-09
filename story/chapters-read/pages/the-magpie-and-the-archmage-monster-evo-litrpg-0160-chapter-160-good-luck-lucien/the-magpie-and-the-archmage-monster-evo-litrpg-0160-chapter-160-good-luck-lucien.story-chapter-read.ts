@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0160Chapter160GoodLuckLucien = {
   id: "01a06730-4fe4-782d-b10b-0147adae0f04",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0160-chapter-160-good-luck-lucien",
   title: "Chapter 160 – Good Luck, Lucien",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

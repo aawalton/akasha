@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0013Chapter13MyShiny = {
   id: "01a06730-4fde-76f6-b833-5800e35268f8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0013-chapter-13-my-shiny",
   title: "Chapter 13 – My Shiny",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

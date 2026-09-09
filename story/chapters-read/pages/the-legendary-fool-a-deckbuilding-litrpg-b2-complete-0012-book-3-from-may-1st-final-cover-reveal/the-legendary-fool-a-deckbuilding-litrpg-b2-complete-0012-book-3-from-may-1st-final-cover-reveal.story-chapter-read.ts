@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete0012Book3FromMay1stFinalCoverReveal = {
   id: "01a06730-4e2b-7aa2-90c0-f442d71ce483",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0012-book-3-from-may-1st-final-cover-reveal",
   title: "Book 3 from May 1st + FINAL COVER REVEAL",
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

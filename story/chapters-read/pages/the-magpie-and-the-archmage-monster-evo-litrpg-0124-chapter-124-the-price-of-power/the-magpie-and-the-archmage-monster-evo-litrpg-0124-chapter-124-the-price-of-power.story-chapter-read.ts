@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0124Chapter124ThePriceOfPower = {
   id: "01a06730-4fe2-7bb8-8d2c-7878ed9b48f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0124-chapter-124-the-price-of-power",
   title: "Chapter 124 – The Price of Power",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld001356GuardiansOfYawm = {
   id: "01a06730-4e35-7ee0-987a-7888f1c11a8f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0013-56-guardians-of-yawm",
   title: "56 Guardians of Yawm",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0105Chapter105GiantsDontFallQuietly = {
   id: "01a06730-4fe1-75d9-b232-c579d573d8a3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0105-chapter-105-giants-dont-fall-quietly",
   title: "Chapter 105 – Giants Don't Fall Quietly",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

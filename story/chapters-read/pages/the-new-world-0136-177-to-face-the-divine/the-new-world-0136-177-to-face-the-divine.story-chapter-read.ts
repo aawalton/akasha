@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0136177ToFaceTheDivine = {
   id: "01a06730-4e79-7c37-8186-b40976edf785",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0136-177-to-face-the-divine",
   title: "177 To Face the Divine",
   story: "the-new-world",

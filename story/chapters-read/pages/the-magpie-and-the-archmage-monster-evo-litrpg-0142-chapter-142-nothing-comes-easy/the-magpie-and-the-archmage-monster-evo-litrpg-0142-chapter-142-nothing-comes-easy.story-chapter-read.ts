@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0142Chapter142NothingComesEasy = {
   id: "01a06730-4fe3-7077-b72a-416540353228",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0142-chapter-142-nothing-comes-easy",
   title: "Chapter 142 – Nothing Comes Easy",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

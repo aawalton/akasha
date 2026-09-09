@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0037Chapter37InsideCyene = {
   id: "01a06730-4fdf-7325-8ee0-b795fa876c53",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0037-chapter-37-inside-cyene",
   title: "Chapter 37 – Inside Cyene",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

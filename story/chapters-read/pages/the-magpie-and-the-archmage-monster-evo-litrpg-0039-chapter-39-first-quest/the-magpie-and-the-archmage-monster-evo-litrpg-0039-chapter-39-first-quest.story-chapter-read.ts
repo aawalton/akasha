@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0039Chapter39FirstQuest = {
   id: "01a06730-4fdf-76a4-8ebe-79cfb0a0bcc6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0039-chapter-39-first-quest",
   title: "Chapter 39 – First Quest",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

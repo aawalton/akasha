@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0060Chapter60ClatterInTheDark = {
   id: "01a06730-4fdf-7e18-819d-62214b2e5048",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0060-chapter-60-clatter-in-the-dark",
   title: "Chapter 60 – Clatter in the Dark",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

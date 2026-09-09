@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0264305AGalaxyUnexplored = {
   id: "01a06730-4ebb-74de-8faa-4bc802dcc91e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0264-305-a-galaxy-unexplored",
   title: "305 A Galaxy Unexplored",
   story: "the-new-world",

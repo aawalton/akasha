@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0052Chapter52CostOfRescue = {
   id: "01a06730-4fdf-70f0-a9f7-dee7fa203eec",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0052-chapter-52-cost-of-rescue",
   title: "Chapter 52 – Cost of Rescue",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

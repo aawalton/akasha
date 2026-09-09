@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0146Chapter146YouTookTheWrongGem = {
   id: "01a06730-4fe3-797b-b1cb-d726dcbd0a8a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0146-chapter-146-you-took-the-wrong-gem",
   title: "Chapter 146 – You Took the Wrong Gem",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

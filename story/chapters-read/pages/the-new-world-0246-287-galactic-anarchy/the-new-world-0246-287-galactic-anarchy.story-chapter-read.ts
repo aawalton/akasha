@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0246287GalacticAnarchy = {
   id: "01a06730-4eaf-7eab-a198-0b82d33b24df",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0246-287-galactic-anarchy",
   title: "287 Galactic Anarchy",
   story: "the-new-world",

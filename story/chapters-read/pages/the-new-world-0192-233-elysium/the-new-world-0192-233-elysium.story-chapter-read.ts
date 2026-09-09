@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0192233Elysium = {
   id: "01a06730-4e94-7fe1-9aad-f58c725bfb3a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0192-233-elysium",
   title: "233 Elysium",
   story: "the-new-world",

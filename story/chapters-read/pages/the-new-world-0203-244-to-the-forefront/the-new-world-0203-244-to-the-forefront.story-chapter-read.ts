@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0203244ToTheForefront = {
   id: "01a06730-4e98-766e-a582-82fa9bafad00",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0203-244-to-the-forefront",
   title: "244 To the Forefront",
   story: "the-new-world",

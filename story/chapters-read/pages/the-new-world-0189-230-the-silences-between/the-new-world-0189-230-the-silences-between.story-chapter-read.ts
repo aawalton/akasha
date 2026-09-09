@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0189230TheSilencesBetween = {
   id: "01a06730-4e93-717c-8c33-93582b9d4c60",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0189-230-the-silences-between",
   title: "230 The Silences Between",
   story: "the-new-world",

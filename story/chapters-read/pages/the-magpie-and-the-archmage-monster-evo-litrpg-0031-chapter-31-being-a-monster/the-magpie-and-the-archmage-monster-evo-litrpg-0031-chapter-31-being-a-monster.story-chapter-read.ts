@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0031Chapter31BeingAMonster = {
   id: "01a06730-4fde-7101-872d-8b4e9474056e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0031-chapter-31-being-a-monster",
   title: "Chapter 31 – Being a Monster",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

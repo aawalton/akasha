@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0136Chapter136ASpidersDuty = {
   id: "01a06730-4fe2-7617-9529-2adb9d547d11",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0136-chapter-136-a-spiders-duty",
   title: "Chapter 136 – A Spider's Duty",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

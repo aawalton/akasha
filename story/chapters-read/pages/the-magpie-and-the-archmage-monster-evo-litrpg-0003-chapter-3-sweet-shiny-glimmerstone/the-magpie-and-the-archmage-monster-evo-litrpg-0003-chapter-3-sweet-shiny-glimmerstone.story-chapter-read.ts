@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0003Chapter3SweetShinyGlimmerstone = {
   id: "01a06730-4fdd-733a-9831-b7fd41b08261",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0003-chapter-3-sweet-shiny-glimmerstone",
   title: "Chapter 3 – Sweet, Shiny Glimmerstone",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

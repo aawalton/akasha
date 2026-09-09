@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0070Chapter70MoltingSeason = {
   id: "01a06730-4fe0-77f2-983e-37c68c23ac14",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0070-chapter-70-molting-season",
   title: "Chapter 70 – Molting Season",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0097Chapter97PermissionToLeave = {
   id: "01a06730-4fe1-7eed-b4ec-f5cd30538e3a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0097-chapter-97-permission-to-leave",
   title: "Chapter 97 – Permission to Leave",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0156197UnderDarkWaters = {
   id: "01a06730-4e82-77ac-a7b2-d305930cb8ae",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0156-197-under-dark-waters",
   title: "197 Under Dark Waters",
   story: "the-new-world",

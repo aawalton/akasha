@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0071Chapter71TheHellMarsh = {
   id: "01a06730-4fe0-7959-a310-b1fa268ad83e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0071-chapter-71-the-hell-marsh",
   title: "Chapter 71 – The Hell Marsh",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0173Chapter173MasterOfDistraction = {
   id: "01a07252-32f0-72ca-9381-75e19d75d27b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0173-chapter-173-master-of-distraction",
   story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 173,

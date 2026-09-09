@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0025Chapter25PeckTherapy = {
   id: "01a06730-4fde-763d-860e-3dedcfa1d2dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0025-chapter-25-peck-therapy",
   title: "Chapter 25 – Peck Therapy",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

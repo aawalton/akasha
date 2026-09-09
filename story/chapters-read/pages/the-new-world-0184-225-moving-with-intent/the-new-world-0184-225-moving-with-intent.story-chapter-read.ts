@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0184225MovingWithIntent = {
   id: "01a06730-4e92-7655-981e-019f47c8990f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0184-225-moving-with-intent",
   title: "225 Moving with Intent",
   story: "the-new-world",

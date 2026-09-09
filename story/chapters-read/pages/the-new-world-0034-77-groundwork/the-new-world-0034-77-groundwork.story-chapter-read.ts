@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld003477Groundwork = {
   id: "01a06730-4e46-7e57-81f3-3642f8d1dc9b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0034-77-groundwork",
   title: "77 Groundwork",
   story: "the-new-world",

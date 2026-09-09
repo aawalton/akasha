@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0077Chapter77WakeUpDummy = {
   id: "01a06730-4fe0-707e-be1b-43ca154f12b2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0077-chapter-77-wake-up-dummy",
   title: "Chapter 77 – Wake Up, Dummy",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

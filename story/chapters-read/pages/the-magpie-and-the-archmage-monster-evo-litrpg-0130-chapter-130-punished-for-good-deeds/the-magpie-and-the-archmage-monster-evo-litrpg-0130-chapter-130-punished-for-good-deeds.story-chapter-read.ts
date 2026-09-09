@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0130Chapter130PunishedForGoodDeeds = {
   id: "01a06730-4fe2-7dbd-b7ab-9a6a63bf7ad3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0130-chapter-130-punished-for-good-deeds",
   title: "Chapter 130 – Punished for Good Deeds",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

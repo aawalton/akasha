@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0051Chapter51MissingMagpie = {
   id: "01a06730-4fdf-7728-a57c-9e1c2af5050c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0051-chapter-51-missing-magpie",
   title: "Chapter 51 – Missing Magpie",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0145186Countdown = {
   id: "01a06730-4e7d-7f2f-a338-95e6cc98671f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0145-186-countdown",
   title: "186 Countdown",
   story: "the-new-world",

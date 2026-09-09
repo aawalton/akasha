@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0181222ToCreateAndDestroy = {
   id: "01a06730-4e90-7c56-889e-799268309aff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0181-222-to-create-and-destroy",
   title: "222 To Create and Destroy",
   story: "the-new-world",

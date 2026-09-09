@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0164Chapter164EyeOfTheWyvern = {
   id: "01a06730-4fe4-7f2e-8926-96391c2a2789",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0164-chapter-164-eye-of-the-wyvern",
   title: "Chapter 164 – Eye of The Wyvern",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0072Chapter72FeathersAndFractures = {
   id: "01a06730-4fe0-7a10-bf3d-210dc6756ed2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0072-chapter-72-feathers-and-fractures",
   title: "Chapter 72 – Feathers and Fractures",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

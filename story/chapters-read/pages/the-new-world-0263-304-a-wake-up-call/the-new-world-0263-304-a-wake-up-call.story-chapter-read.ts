@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0263304AWakeUpCall = {
   id: "01a06730-4eba-738d-983f-ecc5b2a2912e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0263-304-a-wake-up-call",
   title: "304 A Wake Up Call",
   story: "the-new-world",

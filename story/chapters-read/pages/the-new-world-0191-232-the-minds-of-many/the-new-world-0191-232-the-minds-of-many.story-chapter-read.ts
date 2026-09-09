@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0191232TheMindsOfMany = {
   id: "01a06730-4e94-7d9c-ab28-a589e48deb1f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0191-232-the-minds-of-many",
   title: "232 The Minds of Many",
   story: "the-new-world",

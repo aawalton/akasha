@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0237278GraspingTheEthereal = {
   id: "01a06730-4eaa-73cc-a993-bb97a465e4ef",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0237-278-grasping-the-ethereal",
   title: "278 Grasping the Ethereal",
   story: "the-new-world",

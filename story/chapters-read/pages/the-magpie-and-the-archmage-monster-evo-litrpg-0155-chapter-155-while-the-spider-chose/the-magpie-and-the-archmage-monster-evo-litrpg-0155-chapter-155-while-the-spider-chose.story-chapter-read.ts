@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0155Chapter155WhileTheSpiderChose = {
   id: "01a06730-4fe3-76bc-b13c-d5e75fe0895e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0155-chapter-155-while-the-spider-chose",
   title: "Chapter 155 – While the Spider Chose",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

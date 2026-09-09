@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld004386TheFinalPiece = {
   id: "01a06730-4e4a-7331-a41f-5c7224713121",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0043-86-the-final-piece",
   title: "86 The Final Piece",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld001255TheMightOfProgress = {
   id: "01a06730-4e34-76bb-ba8d-30457aa7e4fc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0012-55-the-might-of-progress",
   title: "55 The Might of Progress",
   story: "the-new-world",

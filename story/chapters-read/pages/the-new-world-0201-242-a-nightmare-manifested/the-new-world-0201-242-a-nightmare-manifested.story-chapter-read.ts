@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0201242ANightmareManifested = {
   id: "01a06730-4e97-718b-a5a5-90374afe3b27",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0201-242-a-nightmare-manifested",
   title: "242 A Nightmare, Manifested",
   story: "the-new-world",

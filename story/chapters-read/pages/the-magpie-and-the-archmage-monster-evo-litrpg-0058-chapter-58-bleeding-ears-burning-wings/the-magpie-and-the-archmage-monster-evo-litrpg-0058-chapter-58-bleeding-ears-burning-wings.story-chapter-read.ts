@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0058Chapter58BleedingEarsBurningWings = {
   id: "01a06730-4fdf-7078-812d-15aeeac9712a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0058-chapter-58-bleeding-ears-burning-wings",
   title: "Chapter 58 – Bleeding Ears, Burning Wings",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

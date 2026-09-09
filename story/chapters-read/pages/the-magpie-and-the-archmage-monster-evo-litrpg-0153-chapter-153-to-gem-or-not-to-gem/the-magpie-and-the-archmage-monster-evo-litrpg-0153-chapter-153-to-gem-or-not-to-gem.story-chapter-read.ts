@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0153Chapter153ToGemOrNotToGem = {
   id: "01a06730-4fe3-740f-b256-727db4a9efa6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0153-chapter-153-to-gem-or-not-to-gem",
   title: "Chapter 153 – To Gem or Not to Gem",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0029Chapter29GoodbyeSunvale = {
   id: "01a06730-4fde-71d5-a37d-7f017102ba22",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0029-chapter-29-goodbye-sunvale",
   title: "Chapter 29 – Goodbye, Sunvale",
   story: "the-magpie-and-the-archmage-monster-evo-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0068110YawmOfFlesh = {
   id: "01a06730-4e57-7ec9-b9a3-1cbbf69d07fb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0068-110-yawm-of-flesh",
   title: "110 Yawm of Flesh",
   story: "the-new-world",

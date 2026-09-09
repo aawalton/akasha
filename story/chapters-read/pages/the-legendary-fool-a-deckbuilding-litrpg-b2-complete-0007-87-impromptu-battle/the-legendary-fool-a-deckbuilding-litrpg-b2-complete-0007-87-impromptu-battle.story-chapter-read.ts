@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000787ImpromptuBattle = {
   id: "01a06730-4e2b-7974-9d5b-87636bf94b73",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0007-87-impromptu-battle",
   title: "87: Impromptu Battle",
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",

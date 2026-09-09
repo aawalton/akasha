@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0243284AmassingMany = {
   id: "01a06730-4ead-7100-aab0-cc50f5a2b34f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0243-284-amassing-many",
   title: "284 Amassing Many",
   story: "the-new-world",

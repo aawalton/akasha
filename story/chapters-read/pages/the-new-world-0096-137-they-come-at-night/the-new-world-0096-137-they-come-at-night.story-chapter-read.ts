@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0096137TheyComeAtNight = {
   id: "01a06730-4e62-740d-af6e-c52278712ae0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0096-137-they-come-at-night",
   title: "137 They Come at Night",
   story: "the-new-world",

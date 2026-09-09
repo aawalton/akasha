@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000686AFoolishPursuit = {
   id: "01a06730-4e2b-75b0-8342-09c0f9526ff6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0006-86-a-foolish-pursuit",
   title: "86: A foolish pursuit",
   story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
