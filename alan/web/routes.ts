@@ -107,9 +107,15 @@ export default [
     "routes/device-secret-admission/device-secret-admission.route.code.ts"
   ),
   route("api/device-secret/mint", "routes/api.device-secret.mint.ts"),
-  route("api/device-secret/revoke", "routes/api.device-secret.revoke.ts"),
+  route(
+    "api/device-secret/revoke",
+    "routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"
+  ),
 
-  route("api/tracking/health-samples", "routes/api.tracking.health-samples.ts"),
+  route(
+    "api/tracking/health-samples",
+    "routes/alan-web-api-tracking-health-samples/alan-web-api-tracking-health-samples.route.code.ts"
+  ),
 
   route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
 ] satisfies RouteConfig

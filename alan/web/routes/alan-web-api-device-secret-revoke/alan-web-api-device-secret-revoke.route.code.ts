@@ -1,12 +1,11 @@
 import { revokeDeviceSecretSchema } from "@akasha/persons/device-secret-body"
-import { revokeDeviceSecret } from "../.server/device-secret-context/device-secret-context.module.code.ts"
-import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import type { Route } from "./+types/api.device-secret.revoke"
+import { revokeDeviceSecret } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
+import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })
@@ -14,7 +13,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   return Response.json({ ok: false, error: "Method not allowed" }, { status: 405, headers: cors })
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   const ctx = await resolveDeviceTokenContext(request)
   if (!ctx.authenticated) {

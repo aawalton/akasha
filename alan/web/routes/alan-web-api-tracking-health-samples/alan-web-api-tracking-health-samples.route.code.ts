@@ -1,9 +1,8 @@
 import type { HealthSample } from "@akasha/health-samples-access/sample-shape"
 import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
 import { healthSamplesIngestSchema } from "@akasha/persons/health-samples-body"
-import { resolveDeviceSecretContext } from "../.server/device-secret-context/device-secret-context.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import type { Route } from "./+types/api.tracking.health-samples"
+import { resolveDeviceSecretContext } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 const CORS_ALLOW_HEADERS = "Authorization, Content-Type, X-Device-Secret"
@@ -11,7 +10,7 @@ const CORS_ALLOW_HEADERS = "Authorization, Content-Type, X-Device-Secret"
 const corsFor = (request: Request): Record<string, string> =>
   capacitorCorsHeaders(request, CORS_METHODS, { allowHeaders: CORS_ALLOW_HEADERS })
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = corsFor(request)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })
@@ -19,7 +18,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   return Response.json({ ok: false, error: "Method not allowed" }, { status: 405, headers: cors })
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = corsFor(request)
   const headers = () => withCors(new Headers(), cors)
 

@@ -206,5 +206,7 @@ export const alanWeb = {
     "route/alan-web-page-detail",
     "route/alan-web-api-save",
     "route/alan-web-api-push-register",
+    "route/alan-web-api-device-secret-revoke",
+    "route/alan-web-api-tracking-health-samples",
   ],
 } as const satisfies RouterApp
