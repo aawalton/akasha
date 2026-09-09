@@ -5,6 +5,5 @@ export const smilingjenny = {
   pageTypeSlug: "domain",
   slug: "smilingjenny",
   definition: "what Jenny is shown and asked of her own day",
-  pluralSlug: "smilingjennies",
   parts: ["router-app/smilingjenny-web"],
 } as const satisfies Domain
