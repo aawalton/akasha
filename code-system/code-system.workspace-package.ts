@@ -56,6 +56,7 @@ export const codeSystem = {
     "module/value-inserting",
     "module/test-overlay",
     "page-type/lualib",
+    "page-type/performance",
   ],
   directives: [
     {
