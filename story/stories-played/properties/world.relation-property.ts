@@ -7,7 +7,7 @@ export const world = {
   id: "01a06424-329c-7149-a41a-d7dec22745d0",
   pageTypeSlug: "relation-property",
   slug: "world",
-  propertySlug: "world-slug",
+  propertySlug: "world",
   definition: "the world something is of",
   targetPageType: "page-type/world",
 } as const satisfies RelationProperty

@@ -6,7 +6,6 @@ import type { World } from "../stories-played/properties/world.relation-property
 
 export type StoryWritten = Collection & {
   title: Title
-  worldSlug?: World
   world?: World
   prose?: Prose
 }
@@ -22,7 +21,6 @@ export const storyWritten = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "relation-property/world-window", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
   invariants: [

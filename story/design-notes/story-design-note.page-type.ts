@@ -7,7 +7,6 @@ import type { NoteSubject } from "./properties/note-subject.text-property.ts"
 
 export type StoryDesignNote = Page & {
   title: Title
-  worldSlug?: World
   world?: World
   subject?: NoteSubject
   prose?: Prose
@@ -25,7 +24,6 @@ export const storyDesignNote = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "relation-property/world-window", required: false, many: false },
     { pageProperty: "text-property/note-subject", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],

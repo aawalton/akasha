@@ -9,7 +9,6 @@ import type { MaxLevel } from "./properties/max-level.number-property.ts"
 
 export type WorldCharacter = Page & {
   title: Title
-  worldSlug?: World
   world?: World
   maxLevel?: MaxLevel
   eventCount?: EventCount
@@ -34,7 +33,6 @@ export const worldCharacter = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
-    { pageProperty: "relation-property/world-window", required: false, many: false },
     { pageProperty: "number-property/max-level", required: false, many: false },
     { pageProperty: "number-property/event-count", required: false, many: false },
     { pageProperty: "number-property/first-chapter", required: false, many: false },
