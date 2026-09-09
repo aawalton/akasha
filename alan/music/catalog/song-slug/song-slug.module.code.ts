@@ -1,3 +1,5 @@
+import { STEM_CEILING } from "@akasha/named-for/page-stem"
+
 const FALLBACK_NAME = "untitled"
 
 const COLLISION_CEILING = 1000
@@ -16,12 +18,23 @@ export function slugifyName(name: string): string {
   return slug === "" ? FALLBACK_NAME : slug
 }
 
+export function shortenedToWords(whole: string, ceiling: number): string {
+  if (whole.length <= ceiling) return whole
+  const words = whole.split("-")
+  let out = words[0] ?? ""
+  for (const word of words.slice(1)) {
+    if (out.length + 1 + word.length > ceiling) break
+    out = `${out}-${word}`
+  }
+  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
+}
+
 export function artistSlugOf(name: string): string {
-  return slugifyName(name)
+  return shortenedToWords(slugifyName(name), STEM_CEILING)
 }
 
 export function songSlugBase(artistSlug: string, title: string): string {
-  return `${artistSlug}-${slugifyName(title)}`
+  return shortenedToWords(`${artistSlug}-${slugifyName(title)}`, STEM_CEILING)
 }
 
 export function mintSongSlug(
@@ -32,7 +45,8 @@ export function mintSongSlug(
   const base = songSlugBase(artistSlug, title)
   if (!taken.has(base)) return base
   for (let nth = 2; nth <= COLLISION_CEILING; nth += 1) {
-    const candidate = `${base}-${nth}`
+    const numbered = `-${nth}`
+    const candidate = `${shortenedToWords(base, STEM_CEILING - numbered.length)}${numbered}`
     if (!taken.has(candidate)) return candidate
   }
   throw new Error(

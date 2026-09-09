@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   artistSlugOf,
   mintSongSlug,
+  shortenedToWords,
   slugifyName,
   songNamesFrom,
   songSlugBase,
@@ -51,9 +52,29 @@ describe("artistSlugOf", () => {
   })
 })
 
+describe("shortenedToWords", () => {
+  test("leaves a name already inside the length alone", () => {
+    expect(shortenedToWords("queen-bohemian-rhapsody", 100)).toBe("queen-bohemian-rhapsody")
+  })
+
+  test("drops whole words rather than parting one", () => {
+    expect(shortenedToWords("queen-bohemian-rhapsody", 16)).toBe("queen-bohemian")
+  })
+
+  test("parts a first word that fills the length on its own", () => {
+    expect(shortenedToWords("supercalifragilistic", 8)).toBe("supercal")
+  })
+})
+
 describe("songSlugBase", () => {
   test("is the artist slug followed by the slugged title", () => {
     expect(songSlugBase("queen", "Bohemian Rhapsody")).toBe("queen-bohemian-rhapsody")
+  })
+
+  test("holds a title that would otherwise run past the length", () => {
+    const base = songSlugBase("queen", "word ".repeat(60))
+    expect(base.length).toBeLessThanOrEqual(100)
+    expect(base.startsWith("queen-word")).toBe(true)
   })
 
   test("is the artist slug followed by untitled when the title slugs to nothing", () => {
@@ -89,6 +110,21 @@ describe("mintSongSlug", () => {
     const taken = new Set(["queen-one"])
     for (let nth = 2; nth <= 1000; nth += 1) taken.add(`queen-one-${nth}`)
     expect(() => mintSongSlug("queen", "One", taken)).toThrow(/1000 songs are already filed/)
+  })
+
+  test("holds a long artist and title inside a hundred characters", () => {
+    const minted = mintSongSlug("the-".repeat(20), "A Very Long Title ".repeat(20), new Set())
+    expect(minted.length).toBeLessThanOrEqual(100)
+  })
+
+  test("holds a numbered slug inside a hundred characters too", () => {
+    const artist = "a-really-rather-long-band-name-that-goes-on"
+    const title = "A Really Rather Long Song Title That Also Goes On And On And On"
+    const base = songSlugBase(artist, title)
+    const minted = mintSongSlug(artist, title, new Set([base]))
+    expect(base.length).toBeLessThanOrEqual(100)
+    expect(minted.length).toBeLessThanOrEqual(100)
+    expect(minted).not.toBe(base)
   })
 })
 

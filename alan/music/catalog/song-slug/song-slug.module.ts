@@ -33,6 +33,23 @@ export const songSlug = {
       statement: "A slug has no dash at either end.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A slug runs to the hundred characters a page's slug holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name past that length is shortened to whole words rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name whose first word fills the length on its own is shortened mid-word.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A colliding slug's number is fitted inside that length rather than added past it.",
+    },
+    {
       invariantKind: "departure",
       statement: "A colliding slug is the base followed by a number.",
     },
