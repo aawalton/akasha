@@ -1,4 +1,4 @@
-import { merchantOf } from "../merchant/monarch-merchant-naming.module.code.ts"
+import { merchantOf } from "../merchant-naming/monarch-merchant-naming.module.code.ts"
 import type { AmountClause } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
 import { amountClauseMatches } from "../rule-amounts/monarch-rule-amounts.module.code.ts"
 import type { DateClauses } from "../rule-dates/monarch-rule-dates.module.code.ts"
