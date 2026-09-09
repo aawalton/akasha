@@ -18,7 +18,6 @@ export const commandSystem = {
     "module/asking",
     "module/commit-reading",
     "module/committing",
-    "module/differing",
     "module/during-call",
     "module/fault-saying",
     "module/gate-building",

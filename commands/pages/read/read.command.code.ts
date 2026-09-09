@@ -4,7 +4,6 @@ import { warrantedIn } from "@akasha/context/warranting"
 import { akashaSeatPathForCaller } from "@akasha/seat-system/seat-akasha-beside"
 import { bytesAt, textOf } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { bodyRead, differenceOf } from "../../../command-system/differing/differing.module.code.ts"
 import {
   blobIdOf,
   type Discard,
@@ -15,6 +14,7 @@ import {
   readingIn,
   recordRead,
 } from "../../../command-system/reading/reading.module.code.ts"
+import { bodyRead, differenceOf } from "../../modules/differing/differing.module.code.ts"
 import type { Run } from "./long-body/long-body.module.code.ts"
 import {
   countLines,
