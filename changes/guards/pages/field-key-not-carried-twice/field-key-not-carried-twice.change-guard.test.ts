@@ -32,7 +32,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     id: idOf("d"),
     pageTypeSlug: "page-type",
     slug: "record-property",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
     properties: [],
   }),
   "akasha/other-note.relation-property.ts": bodyOf({
@@ -40,7 +40,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     pageTypeSlug: "relation-property",
     slug: "other-note",
     propertySlug: "note",
-    targetPageTypeSlug: "module",
+    targetPageType: "module",
   }),
 }
 
@@ -65,7 +65,7 @@ function propertyOf(): string {
     pageTypeSlug: "relation-property",
     slug: "made",
     propertySlug: "note",
-    targetPageTypeSlug: "module",
+    targetPageType: "module",
   })
 }
 
@@ -118,7 +118,7 @@ test("a page type carrying one key twice is judged by nothing", () => {
     id: idOf("f"),
     pageTypeSlug: "page-type",
     slug: "pair",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     properties: declaring([NOTE, OTHER]),
   })
 
