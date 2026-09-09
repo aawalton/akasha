@@ -15,7 +15,7 @@ const DOMAIN = "domain"
 
 const CHANGE = "change"
 
-const COMMAND_SYSTEM = "command-system"
+const COMMAND = "command"
 
 const ROOT_MODULES = new Set(["checkout-roots", "code-root"])
 
@@ -270,7 +270,7 @@ function codeNamed(path: string): boolean {
 
 export function outsideBy(shadow: Shadow): (path: string) => boolean {
   const changes = folderOf(shadow, CHANGE)
-  const commands = folderOf(shadow, COMMAND_SYSTEM)
+  const commands = folderOf(shadow, COMMAND)
   return (path) => codeNamed(path) && !path.startsWith(changes) && !path.startsWith(commands)
 }
 
