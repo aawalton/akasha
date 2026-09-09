@@ -35,6 +35,10 @@ test("a row missing a count is passed over", () => {
   expect(countedIn([{ personaSlug: "amy" }])).toEqual([])
 })
 
+test("a row naming its persona under either spelling of the key is read all the same", () => {
+  expect(countedIn([{ persona: "aura", sent: 4 }])).toEqual([{ personaSlug: "aura", sent: 4 }])
+})
+
 test("a persona counted that day reads back her count", () => {
   expect(sentIn(TWO, "amy")).toBe(9)
 })

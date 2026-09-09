@@ -5,6 +5,8 @@ import { dayNameOf } from "../day-place/day-place.module.code.ts"
 
 const PERSONA_MESSAGES = "personaMessages"
 
+const PERSONA = "persona"
+
 const PERSONA_SLUG = "personaSlug"
 
 const SENT = "sent"
@@ -17,7 +19,7 @@ export function countedIn(held: unknown): readonly Counted[] {
   for (const one of held) {
     if (typeof one !== "object" || one === null) continue
     const row = one as Readonly<Record<string, unknown>>
-    const slug = row[PERSONA_SLUG]
+    const slug = row[PERSONA] ?? row[PERSONA_SLUG]
     const sent = row[SENT]
     if (typeof slug !== "string" || slug === "" || typeof sent !== "number") continue
     found.push({ personaSlug: slug, sent })
