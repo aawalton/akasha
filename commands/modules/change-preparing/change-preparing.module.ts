@@ -101,6 +101,15 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "That change is built from the rows rather than from the bodies handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body leaving the base commit's body unchanged is no row and is judged by nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change has the paths a move renames as well as the paths an edit writes.",
     },
     {

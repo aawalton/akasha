@@ -36,12 +36,6 @@ export type FileEdit = {
   readonly body: Uint8Array | null
 }
 
-export type Proposed = {
-  readonly base: string
-  readonly edits: readonly FileEdit[]
-  readonly moves?: readonly FileMove[]
-}
-
 export type Landed = {
   readonly base: string
   readonly commit: string | null
@@ -113,24 +107,31 @@ export function baseOf(root: string): string {
   return gitIn(root, ["rev-parse", "HEAD"]).trim()
 }
 
-export function changeOf(root: string, proposed: Proposed): Change {
-  const moves = proposed.moves ?? []
+export function changeOf(root: string, base: string, changes: readonly FileChange[]): Change {
   const held = new Map<string, Uint8Array | null>()
-  for (const one of moves) held.set(one.from, null)
-  for (const one of proposed.edits) held.set(one.path, one.body)
-  const came = new Map(moves.map((one) => [one.to, one.from]))
+  const came = new Map<string, string>()
+  for (const one of changes) {
+    if (one.kind !== "move") continue
+    held.set(one.pathFrom, null)
+    came.set(one.pathTo, one.pathFrom)
+  }
+  for (const one of changes) {
+    if (one.kind === "move") continue
+    const body = bodiedOf(one)
+    held.set(body.path, body.body)
+  }
   const read = new Map<string, Uint8Array | null>()
   const based = (path: string): Uint8Array | null => {
     const found = read.get(path)
     if (found !== undefined) return found
     if (read.has(path)) return null
-    const body = bodyAt(root, proposed.base, path)
+    const body = bodyAt(root, base, path)
     read.set(path, body)
     return body
   }
   return {
     root,
-    changed: [...new Set([...held.keys(), ...came.keys()])].sort(),
+    changed: [...new Set(changes.flatMap(pathsOf))].sort(),
     before: based,
     after: (path) => {
       const said = held.get(path)
@@ -383,8 +384,7 @@ export async function landing(
   }
   const judgedAt = baseOf(root)
   const { edits, moves } = splitIn(changes)
-  const change =
-    over !== null && moves.length === 0 ? over : changeOf(root, { base: judgedAt, edits, moves })
+  const change = over !== null && moves.length === 0 ? over : changeOf(root, judgedAt, changes)
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, moves))
   if (orphaned.length > 0) {

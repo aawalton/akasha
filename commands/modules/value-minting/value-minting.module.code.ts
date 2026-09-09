@@ -7,7 +7,10 @@ import { heldIn, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
-import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import type {
+  FileChange,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
@@ -53,6 +56,14 @@ function rowsFor(was: readonly FileEdit[], now: readonly FileEdit[]): readonly R
   return rows
 }
 
+function rowsOf(changes: readonly FileEdit[]): readonly FileChange[] {
+  return changes.map((one) =>
+    one.body === null
+      ? { kind: "remove", path: one.path }
+      : { kind: "add", path: one.path, content: new TextDecoder().decode(one.body) }
+  )
+}
+
 export function mintedFor(kind: string, slug: string): string {
   if (kind === UUID_V7) return JSON.stringify(uuidVersion7())
   throw new Error(
@@ -72,7 +83,7 @@ export function earlyIn(
   root: string,
   changes: readonly FileEdit[]
 ): ReadonlyMap<string, Generated> {
-  const cast = shadowFor(changeOf(root, { base: baseOf(root), edits: changes }))
+  const cast = shadowFor(changeOf(root, baseOf(root), rowsOf(changes)))
   if ("refused" in cast) return new Map()
   return earlyOf(cast.shadow)
 }
@@ -149,7 +160,7 @@ function couldTurn(change: Change, changes: readonly FileEdit[]): boolean {
 }
 
 export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
-  const change = changeOf(root, { base: baseOf(root), edits: changes })
+  const change = changeOf(root, baseOf(root), rowsOf(changes))
   if (!couldTurn(change, changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING_MINTED

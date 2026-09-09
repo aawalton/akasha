@@ -77,7 +77,6 @@ export function sequenced(
 export type Prepared = {
   readonly formatting: Formatting
   readonly authored: readonly FileEdit[]
-  readonly bodied: readonly FileEdit[]
   readonly changes: readonly FileChange[]
   readonly said: readonly string[]
   readonly over: Change | null
@@ -94,8 +93,16 @@ export function preparing(
   const authored = foldedOver(changes, bodiedFrom(formatting.edits))
   const unexportable = unexportableIn(authored)
   if (unexportable.length > 0) return { refusals: unexportable }
+  const stated = rowsFrom(root, base, authored)
+  if ("why" in stated) return { refusals: [stated.why] }
+  const moved: readonly Moving[] = moves.map((one) => ({
+    kind: "move",
+    pathFrom: one.from,
+    pathTo: one.to,
+  }))
+  const rows = [...moved, ...stated.rows]
   const locking = lockingFor(root, base, authored, moves)
-  const change = changeOf(root, { base, edits: authored, moves })
+  const change = changeOf(root, base, rows)
   const worked = workedFor(change)
   const mapped = mappedFor(change)
   const stepped = steppedFor(change)
@@ -109,18 +116,10 @@ export function preparing(
     ...globbed.edits,
     ...typed.edits,
   ]
-  const stated = rowsFrom(root, base, authored)
-  if ("why" in stated) return { refusals: [stated.why] }
-  const moved: readonly Moving[] = moves.map((one) => ({
-    kind: "move",
-    pathFrom: one.from,
-    pathTo: one.to,
-  }))
   return {
     formatting,
     authored,
-    bodied: added.length === 0 ? authored : [...authored, ...bodiedFrom(added)],
-    changes: [...moved, ...stated.rows, ...added],
+    changes: [...rows, ...added],
     said: [
       ...locking.said,
       ...worked.said,

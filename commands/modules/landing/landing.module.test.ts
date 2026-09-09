@@ -58,10 +58,9 @@ afterAll(scratch.sweep)
 test("a body the change does not touch is read from the base commit, not the working tree", () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   writeFileSync(join(root, "two.txt"), "dirty in the worktree")
-  const change = changeOf(root, {
-    base: baseOf(root),
-    edits: [{ path: "one.txt", body: bytes("proposed") }],
-  })
+  const change = changeOf(root, baseOf(root), [
+    { kind: "add", path: "one.txt", content: "proposed" },
+  ])
   const said = change.after("two.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("committed")
   readingEnded()
@@ -69,10 +68,9 @@ test("a body the change does not touch is read from the base commit, not the wor
 
 test("a body the change touches is read as the change would leave it", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const change = changeOf(root, {
-    base: baseOf(root),
-    edits: [{ path: "one.txt", body: bytes("proposed") }],
-  })
+  const change = changeOf(root, baseOf(root), [
+    { kind: "add", path: "one.txt", content: "proposed" },
+  ])
   const said = change.after("one.txt")
   expect(said === null ? "" : new TextDecoder().decode(said)).toBe("proposed")
   readingEnded()
@@ -80,20 +78,16 @@ test("a body the change touches is read as the change would leave it", () => {
 
 test("a body the change takes away reads as gone rather than as what was there", () => {
   const root = repoWith({ "one.txt": "committed" })
-  const change = changeOf(root, {
-    base: baseOf(root),
-    edits: [{ path: "one.txt", body: null }],
-  })
+  const change = changeOf(root, baseOf(root), [{ kind: "remove", path: "one.txt" }])
   expect(change.after("one.txt")).toBeNull()
   readingEnded()
 })
 
 test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for byte", () => {
   const root = repoWith({ "nul.bin": NUL, "broken.bin": BROKEN })
-  const change = changeOf(root, {
-    base: baseOf(root),
-    edits: [{ path: "one.txt", body: bytes("proposed") }],
-  })
+  const change = changeOf(root, baseOf(root), [
+    { kind: "add", path: "one.txt", content: "proposed" },
+  ])
   expect(change.after("nul.bin")).toEqual(NUL)
   expect(change.after("broken.bin")).toEqual(BROKEN)
   readingEnded()

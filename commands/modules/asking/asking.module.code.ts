@@ -155,15 +155,13 @@ export function counted(many: number, one: string): string {
 
 async function reporting(
   root: string,
-  asked: Asked,
   gate: Judging,
   aside: readonly string[],
   over: Change | null,
   rows: readonly FileChange[]
 ): Promise<Answer> {
   const paths = pathsOf(rows)
-  const change =
-    over ?? changeOf(root, { base: baseOf(root), edits: asked.changes, moves: asked.moves ?? [] })
+  const change = over ?? changeOf(root, baseOf(root), rows)
   const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
@@ -277,15 +275,14 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     ...formattedSaid(formatting.formatted),
     ...prepared.said,
   ]
-  const held: Asked = { ...asked, changes: prepared.bodied }
+  const held: Asked = { ...asked, changes: prepared.authored }
   const bypass = bypassIn(given, held)
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
   const gate = bypass === null && "gate" in built ? built.gate : NO_GATE
   held.reaching?.()
-  if (held.dryRun)
-    return await reporting(given.root, held, gate, aside, prepared.over, prepared.changes)
+  if (held.dryRun) return await reporting(given.root, gate, aside, prepared.over, prepared.changes)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, prepared.authored)
   if (held.draft === true) {

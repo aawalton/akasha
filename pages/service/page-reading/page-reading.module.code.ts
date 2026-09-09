@@ -108,7 +108,7 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
       if (withheld !== null) return { refused: withheld }
     }
     const at = baseOf(given.root)
-    const change = changeOf(given.root, { base: at, edits: [] })
+    const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({ path: one, content: textOf(change.before(one)) }))
     return { at, bodies, unplaced: placed.unplaced }
   } catch (thrown) {
