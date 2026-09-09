@@ -2,7 +2,9 @@ import type { World } from "../change-shadow/change-shadow.module.code.ts"
 
 const SUBTYPE = "change-target-subtype"
 
-const PARENT = "parentSlug"
+const PARENT = "parent"
+
+const PARENT_SLUG = "parentSlug"
 
 export function slugIn(address: string): string {
   return address.slice(address.indexOf("/") + 1)
@@ -15,7 +17,9 @@ export function narrows(world: World, kind: string, of: string): boolean {
     if (held === of) return true
     seen.add(held)
     const value = world.index.pageAt(SUBTYPE, held)
-    const named = value === null ? null : value[PARENT]
+    if (value === null) return false
+    const above = value[PARENT]
+    const named = typeof above === "string" ? above : value[PARENT_SLUG]
     held = typeof named === "string" ? slugIn(named) : null
   }
   return false
