@@ -1,10 +1,6 @@
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Outcome } from "@akasha/seat-system/gated-write"
 import { LOG } from "@akasha/seat-system/supervisor-config"
-import {
-  getCurrentAgentIdForSelfHeal,
-  getCurrentSessionIdForSelfHeal,
-} from "@akasha/seat-system/supervisor-self-heal-state"
 import { ran } from "@akasha/utils/run/running"
 import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
 import { runningModeIn } from "../../seat-modes/seat-modes.module.code.ts"
@@ -18,6 +14,10 @@ import { composedNameOf } from "../../seat-rename/seat-rename.module.code.ts"
 import { clearRotated } from "../../seat-rotated-session/seat-rotated-session.module.code.ts"
 import { keepSession } from "../../seat-session/seat-session.module.code.ts"
 import { keepTranscript } from "../../seat-transcript-path/seat-transcript-path.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  getCurrentSessionIdForSelfHeal,
+} from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 const BEAT = new URL("../../seat-page-beat/seat-page-beat.module.code.ts", import.meta.url).pathname
 

@@ -18,7 +18,6 @@ import { armForceExitTimer } from "@akasha/seat-system/supervisor-lifecycle"
 import { resolveMcpConfig } from "@akasha/seat-system/supervisor-mcp"
 import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import { isPendingReExec } from "@akasha/seat-system/supervisor-self-heal-state"
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
@@ -27,6 +26,7 @@ import { materializeSpawnSettings } from "@akasha/seat-system/supervisor-spawn-s
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
 import { buildInteractiveCLIArgs } from "../../claude-launch-args/claude-launch-args.module.code.ts"
+import { isPendingReExec } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type {
   InteractiveOpts,
   InteractiveSessionBoot,

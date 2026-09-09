@@ -6,11 +6,6 @@ import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
 import { configDirForAccount, LOG } from "@akasha/seat-system/supervisor-config"
 import { buildCredentialSubsystem } from "@akasha/seat-system/supervisor-credentials"
 import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
-import {
-  parseSupervisorHandoffEnv,
-  resolveProxyOwnerAgentId,
-  SUPERVISOR_HANDOFF_ENV_KEYS,
-} from "@akasha/seat-system/supervisor-handoff-env"
 import { startPerAgentMonitors } from "@akasha/seat-system/supervisor-monitors-wire"
 import { installProxyVersionSubsystem } from "@akasha/seat-system/supervisor-proxy-version"
 import {
@@ -18,7 +13,6 @@ import {
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
 } from "@akasha/seat-system/supervisor-seat-defaults"
-import { setProxyOwnerAgentIdForSelfHeal } from "@akasha/seat-system/supervisor-self-heal-state"
 import { createAgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
 import {
   setInheritedClaude,
@@ -26,6 +20,12 @@ import {
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils/narrow/shape"
+import {
+  parseSupervisorHandoffEnv,
+  resolveProxyOwnerAgentId,
+  SUPERVISOR_HANDOFF_ENV_KEYS,
+} from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import { setProxyOwnerAgentIdForSelfHeal } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { toolRestrictions } from "../../tool-access/tool-access.module.code.ts"
 import type {
   InteractiveBootArgs,

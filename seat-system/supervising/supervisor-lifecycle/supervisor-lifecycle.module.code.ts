@@ -3,14 +3,6 @@ import { LOG } from "@akasha/seat-system/supervisor-config"
 import { takeSeatPage } from "@akasha/seat-system/supervisor-heartbeat-beat"
 import { shouldWriteTerminalStoppedStatus } from "@akasha/seat-system/supervisor-lifecycle-death-write"
 import { teardownProxyVersionSubscription } from "@akasha/seat-system/supervisor-proxy-version"
-import { attemptInPlaceReExec } from "@akasha/seat-system/supervisor-reexec"
-import { resolveReExecArgv } from "@akasha/seat-system/supervisor-self-heal"
-import {
-  getCurrentAgentIdForSelfHeal,
-  isPendingReExec,
-  SUPERVISOR_SCRIPT,
-  teardownVersionSubscription,
-} from "@akasha/seat-system/supervisor-self-heal-state"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,
@@ -23,6 +15,14 @@ import {
   setShuttingDown,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils/narrow/shape"
+import { attemptInPlaceReExec } from "../../self-healing/supervisor-reexec/supervisor-reexec.module.code.ts"
+import { resolveReExecArgv } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  isPendingReExec,
+  SUPERVISOR_SCRIPT,
+  teardownVersionSubscription,
+} from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 const SHUTDOWN_FORCE_EXIT_MS = 10_000
 const SHUTDOWN_SIGKILL_BACKSTOP_MS = 1_500

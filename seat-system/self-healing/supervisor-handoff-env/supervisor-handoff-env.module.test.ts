@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPid } from "../supervisor-exec/supervisor-exec.module.code.ts"
+import { asPid } from "../../supervising/supervisor-exec/supervisor-exec.module.code.ts"
 import {
   buildHandoffEnv,
   CLAUDE_ACCOUNT_ENV,

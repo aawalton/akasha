@@ -180,6 +180,7 @@ export const seatSystem = {
     "domain/terminal-shell",
     "domain/recipient-resolving",
     "domain/supervising",
+    "domain/self-healing",
   ],
   invariants: [
     {

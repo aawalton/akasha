@@ -7,7 +7,7 @@ import {
   askRestartNotice,
   type RestartNoticePlan,
 } from "@akasha/seat-system/supervisor-resume-asks"
-import { isPendingReExec } from "@akasha/seat-system/supervisor-self-heal-state"
+import { isPendingReExec } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 type LoopDirective = "continue" | "break"
 

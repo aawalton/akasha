@@ -1,6 +1,9 @@
 import type { AskDecide } from "@akasha/seat-system/supervisor-resume-asks"
 import { shape } from "@akasha/utils/narrow/shape"
-import { askRule, type RuleAnswer } from "../supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
+import {
+  askRule,
+  type RuleAnswer,
+} from "../../supervising/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 
 const RULE = "selfHealJitterRule"
 

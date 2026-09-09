@@ -1,4 +1,4 @@
-import { asPid, type Pid } from "../supervisor-exec/supervisor-exec.module.code.ts"
+import { asPid, type Pid } from "../../supervising/supervisor-exec/supervisor-exec.module.code.ts"
 
 export type SupervisorHandoff = {
   claude: {

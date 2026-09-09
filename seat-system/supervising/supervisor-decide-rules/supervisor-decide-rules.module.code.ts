@@ -14,11 +14,11 @@ import {
   type ProxyAdoptionInput,
 } from "@akasha/seat-system/supervisor-proxy-adoption-decide"
 import { decideProxyLiveness } from "@akasha/seat-system/supervisor-proxy-liveness-decide"
+import { fail } from "../../command-failing/command-failing.module.code.ts"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
-} from "@akasha/seat-system/supervisor-self-heal-jitter-decide"
-import { fail } from "../../command-failing/command-failing.module.code.ts"
+} from "../../self-healing/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,

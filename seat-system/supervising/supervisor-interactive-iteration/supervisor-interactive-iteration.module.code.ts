@@ -13,10 +13,6 @@ import {
 import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
 import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "@akasha/seat-system/supervisor-self-heal-state"
 import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
 import { sessionProjectDir } from "@akasha/seat-system/supervisor-session-project-dir"
 import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
@@ -29,6 +25,10 @@ import {
   releaseMessageClaim,
 } from "../../messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
 import { redeliveryHoldoff } from "../../messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
   InteractiveOpts,

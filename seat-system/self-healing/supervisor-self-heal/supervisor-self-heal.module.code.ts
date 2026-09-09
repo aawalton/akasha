@@ -1,7 +1,13 @@
-import { ORIGINAL_ARGV, selfHealState } from "@akasha/seat-system/supervisor-self-heal-state"
 import { shape } from "@akasha/utils/narrow/shape"
-import { buildReExecArgv } from "../supervisor-args/supervisor-args.module.code.ts"
-import { LOG, REPO_ROOT } from "../supervisor-config/supervisor-config.module.code.ts"
+import { buildReExecArgv } from "../../supervising/supervisor-args/supervisor-args.module.code.ts"
+import {
+  LOG,
+  REPO_ROOT,
+} from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
+import {
+  ORIGINAL_ARGV,
+  selfHealState,
+} from "../supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 export function resolveReExecArgv(): readonly string[] {
   const agentId = selfHealState.currentAgentIdForSelfHeal

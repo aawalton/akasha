@@ -5,6 +5,7 @@ import {
   buildClaudeArgv,
   refuseMissingCwd,
 } from "../../claude-launch-args/claude-launch-args.module.code.ts"
+import type { SupervisorHandoff } from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {
@@ -20,7 +21,6 @@ import {
   signalPid,
   waitForPidExit,
 } from "../supervisor-exec/supervisor-exec.module.code.ts"
-import type { SupervisorHandoff } from "../supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 
 export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
   if (!isProcessAlive(pid)) {
