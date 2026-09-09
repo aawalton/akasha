@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const aFileSetComposedFromManifestsLosesFilesWithNoWordWhenAManifestGoes = {
+  id: "01a08839-8041-7365-ae38-0994ef0bb9d2",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "a-file-set-composed-from-manifests-loses-files-with-no-word-when-a-manifest-goes",
+  domain: "workspace-package/change",
+  claim:
+    "A program that composes the file set it compiles from package manifests loses files without a word when a manifest goes. The act respells every importer, so every value import still resolves and every check passes; what falls out is the ambient declarations, which nothing imports and nothing names. The loss shows only in a build no landing runs, so the fold lands green and the breakage is found some commits later by whoever runs that build by hand.",
+  evidence:
+    "`addon-compiler-config.module.code.ts` composed each addon's `include` list from that addon's manifest: `workspaceDependenciesIn` read the workspace dependencies, `reachedPackageDirs` walked them to the end through the `node_modules` links, and the settings took `**/*.d.ts` from every folder reached. A fold takes the manifest away, so the folder left the list, so its declarations left the compile.\n\nSix folds did this: `temper-dungeon-champions`, `temper-lorebooks`, `temper-lost-treasure`, `temper-skill-point-finder`, `temper-item-browser` and `temper-skyshards`. Two addons broke. `akasha temper addon typecheck` gave 135 errors on TemperCharacters, every one of them `TS2304: Cannot find name 'USPF_GUI_...'`, naming globals declared in `temper/skill-point-finder/skill-point-finder-controls/skill-point-finder-controls.type-declaration.d.ts`. TemperCollections had lost the other five folders. Every landing in between was clean, and the run stops at the first addon that fails, so the second was not visible until the first was mended.\n\nNothing on a landing runs that build. `compilerConfigPathFor` is reached from `temper-addon-build`, `temper-addon-typecheck` and `addon-load-order`, and each of the three is a command a person runs.\n\nThe mend was to stop asking the manifests. Every temper folder holding no addon page now hands its `**/*.type-declaration.d.ts` to every addon, which is what one package leaves: no dependency edge is left to read, and an addon folder still keeps its own declarations to itself. All 48 addons typecheck at 0 errors after it.\n\nThe shape is not special to this build. Wherever a program reads `package.json` to decide which files it reads, folding takes files away from it, and no check sees the difference.",
+} as const satisfies Finding

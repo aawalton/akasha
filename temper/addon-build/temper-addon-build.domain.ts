@@ -46,6 +46,10 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "gap",
+      statement: "No landing runs the addon typecheck.",
+    },
+    {
+      invariantKind: "gap",
       statement:
         "Every Temper addon is exercised against a real ESO client with nobody at a keyboard.",
     },
