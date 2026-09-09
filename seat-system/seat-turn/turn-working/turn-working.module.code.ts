@@ -66,14 +66,6 @@ export function anyLiveSubagent(working: TurnWorking): boolean {
   return (working.openAgents ?? []).length > 0
 }
 
-// WHAT A CLIENT WAS RUNNING GOES WITH THE CLIENT. A subagent and a background command both run
-// inside the client whose transcript this reads, so a client that has been replaced took every one
-// of them with it. The notice that would close such a task is written by the client that ran it, so
-// a client replaced while a task was out never writes one.
-//
-// Read from the transcript alone that task never closes. The record starting it keeps its place in
-// the transcript and no later record ever names it, so the seat goes on reading as one waiting on
-// work nobody is doing. A seat between turns is told apart from a busy one by exactly that reading.
 export function withNothingOpen(working: TurnWorking): TurnWorking {
   return { ...working, openShells: [], openAgents: [] }
 }
