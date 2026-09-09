@@ -30,6 +30,10 @@ export const renamePropertySignature = {
     },
     {
       invariantKind: "departure",
+      statement: "A type that is a union or an intersection states every property its parts state.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file declaring no type at all is refused.",
     },
     {

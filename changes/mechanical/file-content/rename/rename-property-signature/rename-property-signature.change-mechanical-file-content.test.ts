@@ -1,7 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "@akasha/indexes/indexing/testing"
+import ts from "typescript"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePropertySignature } from "./rename-property-signature.change-mechanical-file-content.code.ts"
+import {
+  literalsIn,
+  renamePropertySignature,
+} from "./rename-property-signature.change-mechanical-file-content.code.ts"
+
+function aliasIn(said: string): ts.TypeNode {
+  const source = ts.createSourceFile("held.ts", said, ts.ScriptTarget.Latest, true)
+  const held = source.statements[0]
+  if (held === undefined || !ts.isTypeAliasDeclaration(held)) throw new Error(`no alias in ${said}`)
+  return held.type
+}
 
 afterAll(scratch.sweep)
 
@@ -36,4 +47,16 @@ test("the name it already carries is refused", () => {
 
 test("an index that cannot answer refuses rather than narrowing the reach", () => {
   expect(whyOf(CODE, "Held.one", "two")).toContain("so none were repointed")
+})
+
+test("a union of type literals is read as every literal in it", () => {
+  expect(literalsIn(aliasIn("type Held = { one: string } | { one: number }\n"))).toHaveLength(2)
+})
+
+test("an intersection of type literals is read as every literal in it", () => {
+  expect(literalsIn(aliasIn("type Held = { one: string } & { two: number }\n"))).toHaveLength(2)
+})
+
+test("a type that is neither a literal nor a shape of them is read as no literal", () => {
+  expect(literalsIn(aliasIn("type Held = string\n"))).toEqual([])
 })

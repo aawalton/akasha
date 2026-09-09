@@ -48,9 +48,11 @@ function addressIn(of: string): Addressed | null {
   return { type, property }
 }
 
-function literalsIn(node: ts.TypeNode): readonly ts.TypeLiteralNode[] {
+export function literalsIn(node: ts.TypeNode): readonly ts.TypeLiteralNode[] {
   if (ts.isTypeLiteralNode(node)) return [node]
-  if (ts.isIntersectionTypeNode(node)) return node.types.flatMap(literalsIn)
+  if (ts.isIntersectionTypeNode(node) || ts.isUnionTypeNode(node)) {
+    return node.types.flatMap(literalsIn)
+  }
   if (ts.isParenthesizedTypeNode(node)) return literalsIn(node.type)
   return []
 }
