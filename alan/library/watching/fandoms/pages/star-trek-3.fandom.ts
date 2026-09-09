@@ -5,7 +5,7 @@ export const starTrek3 = {
   pageTypeSlug: "fandom",
   slug: "star-trek-3",
   title: "Star Trek",
-  partOfCollectionSlugs: ["science-fiction-fandoms"],
+  partOfCollections: ["science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

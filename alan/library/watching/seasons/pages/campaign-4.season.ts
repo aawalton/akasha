@@ -5,7 +5,7 @@ export const campaign4 = {
   pageTypeSlug: "season",
   slug: "campaign-4",
   title: "Campaign 4",
-  partOfCollectionSlugs: ["critical-role"],
+  partOfCollections: ["critical-role"],
   position: 4,
   ownLength: 960,
   ownProgress: 0,

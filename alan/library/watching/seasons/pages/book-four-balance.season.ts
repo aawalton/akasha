@@ -5,7 +5,7 @@ export const bookFourBalance = {
   pageTypeSlug: "season",
   slug: "book-four-balance",
   title: "Book Four: Balance",
-  partOfCollectionSlugs: ["the-legend-of-korra"],
+  partOfCollections: ["the-legend-of-korra"],
   position: 4,
   ownLength: 298.8,
   ownProgress: 0,

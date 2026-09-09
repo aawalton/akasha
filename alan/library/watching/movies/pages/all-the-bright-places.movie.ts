@@ -5,7 +5,7 @@ export const allTheBrightPlaces = {
   pageTypeSlug: "movie",
   slug: "all-the-bright-places",
   title: "All the Bright Places",
-  partOfCollectionSlugs: ["watch-with-jen"],
+  partOfCollections: ["watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -10,7 +10,7 @@ export const theWondersOfAmericaSStateParks = {
   unitSlug: "minutes",
   ownLength: 634.8,
   ownProgress: 634.8,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "the-wonders-of-americas-state-parks",
   externalLink: "https://www.thegreatcoursesplus.com/the-wonders-of-americas-state-parks",

@@ -10,7 +10,7 @@ export const worldHeritageSitesIi12MoreOfTheWorldSGreatestPlaces = {
   unitSlug: "minutes",
   ownLength: 366,
   ownProgress: 366,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "world-heritage-sites-ii-12-more-of-the-world-s-greatest-places",
   externalLink:

@@ -9,7 +9,7 @@ export const impossiblePhysicsBeyondTheEdge = {
   unitSlug: "minutes",
   ownLength: 726,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "impossible-physics-beyond-the-edge",
   externalLink: "https://www.thegreatcoursesplus.com/impossible-physics-beyond-the-edge",

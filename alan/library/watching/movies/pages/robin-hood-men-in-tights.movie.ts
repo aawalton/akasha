@@ -5,7 +5,7 @@ export const robinHoodMenInTights = {
   pageTypeSlug: "movie",
   slug: "robin-hood-men-in-tights",
   title: "Robin Hood: Men in Tights",
-  partOfCollectionSlugs: ["cultural-literacy"],
+  partOfCollections: ["cultural-literacy"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

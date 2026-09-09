@@ -9,7 +9,7 @@ export const theScienceOfEnergyResourcesAndPowerExplained = {
   unitSlug: "minutes",
   ownLength: 807.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-science-of-energy-resources-and-power-explained",
   externalLink:

@@ -5,7 +5,7 @@ export const campaign2TheMightyNein = {
   pageTypeSlug: "season",
   slug: "campaign-2-the-mighty-nein",
   title: "Campaign 2: The Mighty Nein",
-  partOfCollectionSlugs: ["critical-role"],
+  partOfCollections: ["critical-role"],
   position: 2,
   ownLength: 33973.8,
   ownProgress: 0,

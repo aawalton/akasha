@@ -9,7 +9,7 @@ export const biologicalAnthropologyAnEvolutionaryPerspective = {
   unitSlug: "minutes",
   ownLength: 726,
   ownProgress: 60.5,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "biological-anthropology-an-evolutionary-perspective",
   externalLink:

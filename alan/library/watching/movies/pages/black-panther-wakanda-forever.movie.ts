@@ -5,7 +5,7 @@ export const blackPantherWakandaForever = {
   pageTypeSlug: "movie",
   slug: "black-panther-wakanda-forever",
   title: "Black Panther: Wakanda Forever",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 39,
   ownLength: 0,
   ownProgress: 0,

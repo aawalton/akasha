@@ -5,7 +5,7 @@ export const spiderManNoWayHome = {
   pageTypeSlug: "movie",
   slug: "spider-man-no-way-home",
   title: "Spider-Man: No Way Home",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 27,
   ownLength: 0,
   ownProgress: 0,

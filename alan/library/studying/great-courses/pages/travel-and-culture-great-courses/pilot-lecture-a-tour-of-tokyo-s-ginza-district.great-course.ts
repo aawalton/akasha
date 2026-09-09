@@ -10,7 +10,7 @@ export const pilotLectureATourOfTokyoSGinzaDistrict = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-a-tour-of-tokyo-s-ginza-district",
   externalLink:

@@ -5,7 +5,7 @@ export const battlestarGalacticaMiniseries = {
   pageTypeSlug: "season",
   slug: "battlestar-galactica-miniseries",
   title: "Battlestar Galactica Miniseries",
-  partOfCollectionSlugs: ["battlestar-galactica-2004"],
+  partOfCollections: ["battlestar-galactica-2004"],
   position: 1,
   ownLength: 184.8,
   ownProgress: 0,

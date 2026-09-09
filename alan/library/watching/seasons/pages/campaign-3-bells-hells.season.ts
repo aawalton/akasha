@@ -5,7 +5,7 @@ export const campaign3BellsHells = {
   pageTypeSlug: "season",
   slug: "campaign-3-bells-hells",
   title: "Campaign 3: Bells Hells",
-  partOfCollectionSlugs: ["critical-role"],
+  partOfCollections: ["critical-role"],
   position: 3,
   ownLength: 30499.8,
   ownProgress: 0,

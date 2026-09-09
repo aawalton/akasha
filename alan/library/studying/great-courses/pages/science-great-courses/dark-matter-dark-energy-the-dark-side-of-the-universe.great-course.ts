@@ -9,7 +9,7 @@ export const darkMatterDarkEnergyTheDarkSideOfTheUniverse = {
   unitSlug: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "dark-matter-dark-energy-the-dark-side-of-the-universe",
   externalLink:

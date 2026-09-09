@@ -5,7 +5,7 @@ export const piratesOfTheCaribbeanDeadMenTellNoTales = {
   pageTypeSlug: "movie",
   slug: "pirates-of-the-caribbean-dead-men-tell-no-tales",
   title: "Pirates of the Caribbean: Dead Men Tell No Tales",
-  partOfCollectionSlugs: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["pirates-of-the-caribbean-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

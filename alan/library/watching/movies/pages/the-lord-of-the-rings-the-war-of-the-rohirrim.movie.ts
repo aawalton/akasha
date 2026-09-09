@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheWarOfTheRohirrim = {
   pageTypeSlug: "movie",
   slug: "the-lord-of-the-rings-the-war-of-the-rohirrim",
   title: "The Lord of the Rings: The War of the Rohirrim",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["the-lord-of-the-rings-shows"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

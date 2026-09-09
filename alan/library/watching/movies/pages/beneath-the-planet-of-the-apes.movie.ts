@@ -5,7 +5,7 @@ export const beneathThePlanetOfTheApes = {
   pageTypeSlug: "movie",
   slug: "beneath-the-planet-of-the-apes",
   title: "Beneath the Planet of the Apes",
-  partOfCollectionSlugs: ["planet-of-the-apes-2"],
+  partOfCollections: ["planet-of-the-apes-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

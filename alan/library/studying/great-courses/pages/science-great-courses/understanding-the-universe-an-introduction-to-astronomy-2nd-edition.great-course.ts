@@ -9,7 +9,7 @@ export const understandingTheUniverseAnIntroductionToAstronomy2ndEdition = {
   unitSlug: "minutes",
   ownLength: 3000,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-universe-an-introduction-to-astronomy-2nd-edition",
   externalLink:

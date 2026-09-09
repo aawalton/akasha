@@ -9,7 +9,7 @@ export const mindBlowingScienceSeason1 = {
   unitSlug: "minutes",
   ownLength: 247.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "mind-blowing-science",
   externalLink: "https://www.thegreatcoursesplus.com/mind-blowing-science",

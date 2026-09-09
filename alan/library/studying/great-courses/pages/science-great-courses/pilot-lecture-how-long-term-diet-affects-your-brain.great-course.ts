@@ -10,7 +10,7 @@ export const pilotLectureHowLongTermDietAffectsYourBrain = {
   unitSlug: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-how-long-term-diet-affects-your-brain",
   externalLink:

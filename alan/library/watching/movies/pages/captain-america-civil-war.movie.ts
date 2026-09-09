@@ -5,7 +5,7 @@ export const captainAmericaCivilWar = {
   pageTypeSlug: "movie",
   slug: "captain-america-civil-war",
   title: "Captain America: Civil War",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

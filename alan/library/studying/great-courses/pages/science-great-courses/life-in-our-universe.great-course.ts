@@ -9,7 +9,7 @@ export const lifeInOurUniverse = {
   unitSlug: "minutes",
   ownLength: 728.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "life-in-our-universe",
   externalLink: "https://www.thegreatcoursesplus.com/life-in-our-universe",

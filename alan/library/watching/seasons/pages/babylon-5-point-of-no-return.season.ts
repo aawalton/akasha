@@ -5,7 +5,7 @@ export const babylon5PointOfNoReturn = {
   pageTypeSlug: "season",
   slug: "babylon-5-point-of-no-return",
   title: "Babylon 5 Point of No Return",
-  partOfCollectionSlugs: ["babylon-5"],
+  partOfCollections: ["babylon-5"],
   position: 3,
   ownLength: 990,
   ownProgress: 0,

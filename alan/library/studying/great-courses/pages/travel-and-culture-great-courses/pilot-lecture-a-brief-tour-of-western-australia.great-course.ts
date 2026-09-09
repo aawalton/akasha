@@ -10,7 +10,7 @@ export const pilotLectureABriefTourOfWesternAustralia = {
   unitSlug: "minutes",
   ownLength: 28.2,
   ownProgress: 28.2,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-a-brief-tour-of-western-australia",
   externalLink:

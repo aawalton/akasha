@@ -10,7 +10,7 @@ export const pilotLectureHowDoWeMakeAiMoreIntelligent = {
   unitSlug: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-how-do-we-make-ai-more-intelligent",
   externalLink:

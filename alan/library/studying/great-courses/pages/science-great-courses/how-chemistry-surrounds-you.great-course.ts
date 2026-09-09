@@ -9,7 +9,7 @@ export const howChemistrySurroundsYou = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "how-chemistry-surrounds-you",
   externalLink: "https://plus.thegreatcourses.com/how-chemistry-surrounds-you",

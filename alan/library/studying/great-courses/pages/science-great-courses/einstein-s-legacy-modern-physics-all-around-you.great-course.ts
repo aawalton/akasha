@@ -9,7 +9,7 @@ export const einsteinSLegacyModernPhysicsAllAroundYou = {
   unitSlug: "minutes",
   ownLength: 292.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "einstein-s-legacy-modern-physics-all-around-you",
   externalLink:

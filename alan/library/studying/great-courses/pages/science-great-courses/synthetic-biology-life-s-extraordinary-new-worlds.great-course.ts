@@ -9,7 +9,7 @@ export const syntheticBiologyLifeSExtraordinaryNewWorlds = {
   unitSlug: "minutes",
   ownLength: 538.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "synthetic-biology-life-s-extraordinary-new-worlds",
   externalLink:

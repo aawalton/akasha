@@ -9,7 +9,7 @@ export const theHumanJourney = {
   unitSlug: "minutes",
   ownLength: 369.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-human-journey",
   externalLink: "https://www.thegreatcoursesplus.com/the-human-journey",

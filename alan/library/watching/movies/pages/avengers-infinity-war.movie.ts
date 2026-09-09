@@ -5,7 +5,7 @@ export const avengersInfinityWar = {
   pageTypeSlug: "movie",
   slug: "avengers-infinity-war",
   title: "Avengers: Infinity War",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

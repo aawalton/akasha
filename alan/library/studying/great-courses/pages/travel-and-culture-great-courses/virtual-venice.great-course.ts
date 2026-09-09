@@ -10,7 +10,7 @@ export const virtualVenice = {
   unitSlug: "minutes",
   ownLength: 39.6,
   ownProgress: 39.6,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "virtual-venice",
   externalLink: "https://www.thegreatcoursesplus.com/virtual-venice",

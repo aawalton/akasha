@@ -10,7 +10,7 @@ export const americaSGreatTrails = {
   unitSlug: "minutes",
   ownLength: 161.4,
   ownProgress: 161.4,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "america-s-great-trails",
   externalLink: "https://www.thegreatcoursesplus.com/america-s-great-trails",

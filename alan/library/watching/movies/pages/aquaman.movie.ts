@@ -5,7 +5,7 @@ export const aquaman = {
   pageTypeSlug: "movie",
   slug: "aquaman",
   title: "Aquaman",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

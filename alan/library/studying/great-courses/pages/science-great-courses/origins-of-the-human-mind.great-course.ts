@@ -9,7 +9,7 @@ export const originsOfTheHumanMind = {
   unitSlug: "minutes",
   ownLength: 743.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "origins-of-the-human-mind",
   externalLink: "https://www.thegreatcoursesplus.com/origins-of-the-human-mind",

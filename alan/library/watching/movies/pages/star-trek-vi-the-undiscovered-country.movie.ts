@@ -5,7 +5,7 @@ export const starTrekViTheUndiscoveredCountry = {
   pageTypeSlug: "movie",
   slug: "star-trek-vi-the-undiscovered-country",
   title: "Star Trek VI: The Undiscovered Country",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

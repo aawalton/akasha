@@ -5,7 +5,7 @@ export const theWheelOfTime2 = {
   pageTypeSlug: "fandom",
   slug: "the-wheel-of-time-2",
   title: "The Wheel of Time",
-  partOfCollectionSlugs: ["fantasy-fandoms"],
+  partOfCollections: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

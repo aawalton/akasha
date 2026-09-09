@@ -9,7 +9,7 @@ export const understandingTheBrain = {
   unitSlug: "minutes",
   ownLength: 1122,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-brain",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-brain",

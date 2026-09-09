@@ -9,7 +9,7 @@ export const psychologyOfHumanBehavior = {
   unitSlug: "minutes",
   ownLength: 1111.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "psychology-of-human-behavior",
   externalLink: "https://www.thegreatcoursesplus.com/psychology-of-human-behavior",

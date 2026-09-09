@@ -5,7 +5,7 @@ export const criminalMindsSeason17EvolutionSeason2 = {
   pageTypeSlug: "season",
   slug: "criminal-minds-season-17-evolution-season-2",
   title: "Criminal Minds Season 17: Evolution Season 2",
-  partOfCollectionSlugs: ["criminal-minds"],
+  partOfCollections: ["criminal-minds"],
   position: 17,
   ownLength: 529,
   ownProgress: 0,

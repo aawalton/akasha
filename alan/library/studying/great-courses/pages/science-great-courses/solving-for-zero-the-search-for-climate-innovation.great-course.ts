@@ -9,7 +9,7 @@ export const solvingForZeroTheSearchForClimateInnovation = {
   unitSlug: "minutes",
   ownLength: 289.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "solving-for-zero-the-search-for-climate-innovation",
   externalLink:

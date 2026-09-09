@@ -5,7 +5,7 @@ export const battlestarGalacticaSeason1 = {
   pageTypeSlug: "season",
   slug: "battlestar-galactica-season-1",
   title: "Battlestar Galactica Season 1",
-  partOfCollectionSlugs: ["battlestar-galactica-1978"],
+  partOfCollections: ["battlestar-galactica-1978"],
   position: 1,
   ownLength: 1120.8,
   ownProgress: 0,

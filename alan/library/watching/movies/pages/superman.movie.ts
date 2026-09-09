@@ -5,7 +5,7 @@ export const superman = {
   pageTypeSlug: "movie",
   slug: "superman",
   title: "Superman",
-  partOfCollectionSlugs: ["dc-universe"],
+  partOfCollections: ["dc-universe"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

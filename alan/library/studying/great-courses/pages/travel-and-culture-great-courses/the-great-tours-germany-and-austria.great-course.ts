@@ -10,7 +10,7 @@ export const theGreatToursGermanyAndAustria = {
   unitSlug: "minutes",
   ownLength: 699.6,
   ownProgress: 699.6,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-tours-germany-and-austria",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-germany-and-austria",

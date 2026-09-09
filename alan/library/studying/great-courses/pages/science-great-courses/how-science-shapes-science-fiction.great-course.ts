@@ -9,7 +9,7 @@ export const howScienceShapesScienceFiction = {
   unitSlug: "minutes",
   ownLength: 706.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "how-science-shapes-science-fiction",
   externalLink: "https://www.thegreatcoursesplus.com/how-science-shapes-science-fiction",

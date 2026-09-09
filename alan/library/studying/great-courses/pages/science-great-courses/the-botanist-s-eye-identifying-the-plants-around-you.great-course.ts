@@ -9,7 +9,7 @@ export const theBotanistSEyeIdentifyingThePlantsAroundYou = {
   unitSlug: "minutes",
   ownLength: 693.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-botanist-s-eye-identifying-the-plants-around-you",
   externalLink:

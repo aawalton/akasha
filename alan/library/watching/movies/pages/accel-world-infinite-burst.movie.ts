@@ -5,7 +5,7 @@ export const accelWorldInfiniteBurst = {
   pageTypeSlug: "movie",
   slug: "accel-world-infinite-burst",
   title: "Accel World: Infinite Burst",
-  partOfCollectionSlugs: ["accel-world"],
+  partOfCollections: ["accel-world"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const theWorldSMostFascinatingGeologicEvents = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-world-s-most-fascinating-geologic-events",
   externalLink: "https://plus.thegreatcourses.com/the-world-s-most-fascinating-geologic-events",

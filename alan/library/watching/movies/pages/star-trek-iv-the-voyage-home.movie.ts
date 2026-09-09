@@ -5,7 +5,7 @@ export const starTrekIvTheVoyageHome = {
   pageTypeSlug: "movie",
   slug: "star-trek-iv-the-voyage-home",
   title: "Star Trek IV: The Voyage Home",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

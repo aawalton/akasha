@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheTwoTowers = {
   pageTypeSlug: "movie",
   slug: "the-lord-of-the-rings-the-two-towers",
   title: "The Lord of the Rings: The Two Towers",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["the-lord-of-the-rings-shows"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

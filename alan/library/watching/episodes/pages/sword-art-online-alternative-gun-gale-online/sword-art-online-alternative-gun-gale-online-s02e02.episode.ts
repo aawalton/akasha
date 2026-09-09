@@ -10,7 +10,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02e02 = {
   position: 2,
   ownLength: 23,
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["sword-art-online-alternative-gun-gale-online-s02"],
+  partOfCollections: ["sword-art-online-alternative-gun-gale-online-s02"],
   publishedAt: "2024-10-12",
   episodeType: "standard",
   stillPath: "/Rz4IrpxeWu7hZ6BIJEB4fknD3X.jpg",

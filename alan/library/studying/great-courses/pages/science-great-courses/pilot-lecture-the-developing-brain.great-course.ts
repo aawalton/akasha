@@ -10,7 +10,7 @@ export const pilotLectureTheDevelopingBrain = {
   unitSlug: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-the-developing-brain",
   externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-the-developing-brain",

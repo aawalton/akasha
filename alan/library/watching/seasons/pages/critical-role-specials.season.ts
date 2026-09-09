@@ -5,7 +5,7 @@ export const criticalRoleSpecials = {
   pageTypeSlug: "season",
   slug: "critical-role-specials",
   title: "Critical Role Specials",
-  partOfCollectionSlugs: ["critical-role"],
+  partOfCollections: ["critical-role"],
   position: 0,
   ownLength: 24866.2,
   ownProgress: 0,

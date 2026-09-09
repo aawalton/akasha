@@ -10,7 +10,7 @@ export const pilotLectureWhatWeKnowAndDonTKnowAboutTheBigBang = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-what-we-know-and-dont-know-about-the-big-bang",
   externalLink:

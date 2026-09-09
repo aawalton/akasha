@@ -9,7 +9,7 @@ export const warpingRealityInsideThePsychologyOfCults = {
   unitSlug: "minutes",
   ownLength: 374.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "warping-reality-inside-the-psychology-of-cults",
   externalLink:

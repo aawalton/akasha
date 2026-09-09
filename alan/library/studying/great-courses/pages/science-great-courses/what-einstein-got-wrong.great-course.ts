@@ -9,7 +9,7 @@ export const whatEinsteinGotWrong = {
   unitSlug: "minutes",
   ownLength: 345.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "what-einstein-got-wrong",
   externalLink: "https://www.thegreatcoursesplus.com/what-einstein-got-wrong",

@@ -10,7 +10,7 @@ export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   unitSlug: "minutes",
   ownLength: 225,
   ownProgress: 225,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "12-revolutionary-discoveries-that-could-change-everything",
   externalLink:

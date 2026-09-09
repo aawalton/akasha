@@ -5,7 +5,7 @@ export const bookThreeFire = {
   pageTypeSlug: "season",
   slug: "book-three-fire",
   title: "Book Three: Fire",
-  partOfCollectionSlugs: ["avatar-the-last-airbender"],
+  partOfCollections: ["avatar-the-last-airbender"],
   position: 3,
   ownLength: 511.8,
   ownProgress: 0,

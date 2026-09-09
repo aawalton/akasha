@@ -5,7 +5,7 @@ export const harryPotterAndTheChamberOfSecrets = {
   pageTypeSlug: "movie",
   slug: "harry-potter-and-the-chamber-of-secrets",
   title: "Harry Potter and the Chamber of Secrets",
-  partOfCollectionSlugs: ["harry-potter-movie-series"],
+  partOfCollections: ["harry-potter-movie-series"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

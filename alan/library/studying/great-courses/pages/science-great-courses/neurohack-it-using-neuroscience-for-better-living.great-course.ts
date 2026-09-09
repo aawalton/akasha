@@ -9,7 +9,7 @@ export const neurohackItUsingNeuroscienceForBetterLiving = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "neurohack-it-using-neuroscience-for-better-living",
   externalLink:

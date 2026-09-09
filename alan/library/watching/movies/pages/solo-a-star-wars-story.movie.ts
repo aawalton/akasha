@@ -5,7 +5,7 @@ export const soloAStarWarsStory = {
   pageTypeSlug: "movie",
   slug: "solo-a-star-wars-story",
   title: "Solo: A Star Wars Story",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

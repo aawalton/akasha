@@ -10,7 +10,7 @@ export const solvingForZero = {
   unitSlug: "minutes",
   ownLength: 68.4,
   ownProgress: 68.4,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "solving-for-zero",
   externalLink: "https://www.thegreatcoursesplus.com/solving-for-zero",

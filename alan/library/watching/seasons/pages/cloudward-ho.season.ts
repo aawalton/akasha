@@ -5,7 +5,7 @@ export const cloudwardHo = {
   pageTypeSlug: "season",
   slug: "cloudward-ho",
   title: "Cloudward, Ho!",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 26,
   ownLength: 2578.2,
   ownProgress: 0,

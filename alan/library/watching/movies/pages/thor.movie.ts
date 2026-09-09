@@ -5,7 +5,7 @@ export const thor = {
   pageTypeSlug: "movie",
   slug: "thor",
   title: "Thor",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

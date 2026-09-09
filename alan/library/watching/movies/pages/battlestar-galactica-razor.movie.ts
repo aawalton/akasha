@@ -5,7 +5,7 @@ export const battlestarGalacticaRazor = {
   pageTypeSlug: "movie",
   slug: "battlestar-galactica-razor",
   title: "Battlestar Galactica: Razor",
-  partOfCollectionSlugs: ["battlestar-galactica"],
+  partOfCollections: ["battlestar-galactica"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

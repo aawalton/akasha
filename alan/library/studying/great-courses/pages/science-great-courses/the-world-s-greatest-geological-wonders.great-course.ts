@@ -10,7 +10,7 @@ export const theWorldSGreatestGeologicalWonders = {
   unitSlug: "minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "science-great-courses",
     "travel-and-culture-great-courses",

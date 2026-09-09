@@ -9,7 +9,7 @@ export const understandingTheMysteriesOfHumanBehavior = {
   unitSlug: "minutes",
   ownLength: 731.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-mysteries-of-human-behavior",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-mysteries-of-human-behavior",

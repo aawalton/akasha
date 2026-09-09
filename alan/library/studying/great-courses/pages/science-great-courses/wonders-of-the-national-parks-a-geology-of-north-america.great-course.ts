@@ -10,7 +10,7 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   unitSlug: "minutes",
   ownLength: 1128,
   ownProgress: 1128,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "science-great-courses",
     "travel-and-culture-great-courses",

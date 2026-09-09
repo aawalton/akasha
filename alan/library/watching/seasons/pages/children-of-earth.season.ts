@@ -5,7 +5,7 @@ export const childrenOfEarth = {
   pageTypeSlug: "season",
   slug: "children-of-earth",
   title: "Children of Earth",
-  partOfCollectionSlugs: ["torchwood"],
+  partOfCollections: ["torchwood"],
   position: 3,
   ownLength: 291,
   ownProgress: 0,

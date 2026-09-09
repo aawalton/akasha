@@ -5,7 +5,7 @@ export const harryPotter = {
   pageTypeSlug: "fandom",
   slug: "harry-potter",
   title: "Harry Potter",
-  partOfCollectionSlugs: ["fantasy-fandoms"],
+  partOfCollections: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -10,7 +10,7 @@ export const pilotLectureTheGeneticsOfCancer = {
   unitSlug: "minutes",
   ownLength: 30,
   ownProgress: 30,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-genetics-of-cancer",
   externalLink: "https://www.thegreatcoursesplus.com/the-genetics-of-cancer",

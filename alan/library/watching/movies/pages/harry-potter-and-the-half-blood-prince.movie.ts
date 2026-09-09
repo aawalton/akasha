@@ -5,7 +5,7 @@ export const harryPotterAndTheHalfBloodPrince = {
   pageTypeSlug: "movie",
   slug: "harry-potter-and-the-half-blood-prince",
   title: "Harry Potter and the Half-Blood Prince",
-  partOfCollectionSlugs: ["harry-potter-movie-series"],
+  partOfCollections: ["harry-potter-movie-series"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

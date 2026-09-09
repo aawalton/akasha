@@ -9,7 +9,7 @@ export const understandingTheMarvelsOfMedievalTechnology = {
   unitSlug: "minutes",
   ownLength: 812.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-marvels-of-medieval-technology",
   externalLink:

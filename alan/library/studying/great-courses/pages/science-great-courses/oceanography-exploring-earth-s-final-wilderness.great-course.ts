@@ -9,7 +9,7 @@ export const oceanographyExploringEarthSFinalWilderness = {
   unitSlug: "minutes",
   ownLength: 1158.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "oceanography-exploring-earths-final-wilderness",
   externalLink:

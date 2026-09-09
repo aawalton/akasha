@@ -10,7 +10,7 @@ export const beingHumanLifeLessonsFromTheFrontiersOfScience = {
   unitSlug: "minutes",
   ownLength: 356.4,
   ownProgress: 356.4,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "being-human-life-lessons-from-the-frontiers-of-science",
   externalLink:

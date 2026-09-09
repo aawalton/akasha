@@ -5,7 +5,7 @@ export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight2 = {
   pageTypeSlug: "movie",
   slug: "sword-art-online-the-movie-progressive-scherzo-of-deep-night-2",
   title: "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
-  partOfCollectionSlugs: ["sword-art-online-shows"],
+  partOfCollections: ["sword-art-online-shows"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

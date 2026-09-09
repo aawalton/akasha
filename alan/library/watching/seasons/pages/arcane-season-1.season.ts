@@ -5,7 +5,7 @@ export const arcaneSeason1 = {
   pageTypeSlug: "season",
   slug: "arcane-season-1",
   title: "Arcane Season 1",
-  partOfCollectionSlugs: ["arcane"],
+  partOfCollections: ["arcane"],
   position: 1,
   ownLength: 379.2,
   ownProgress: 379.2,

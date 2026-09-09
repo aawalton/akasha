@@ -5,7 +5,7 @@ export const inTheBeginning = {
   pageTypeSlug: "movie",
   slug: "in-the-beginning",
   title: "In the Beginning",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

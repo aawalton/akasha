@@ -5,7 +5,7 @@ export const antManAndTheWasp = {
   pageTypeSlug: "movie",
   slug: "ant-man-and-the-wasp",
   title: "Ant-Man and the Wasp",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const theFutureOfSpaceExploration = {
   unitSlug: "minutes",
   ownLength: 337.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-future-of-space-exploration",
   externalLink: "https://www.thegreatcoursesplus.com/the-future-of-space-exploration",

@@ -5,7 +5,7 @@ export const thorRagnarok = {
   pageTypeSlug: "movie",
   slug: "thor-ragnarok",
   title: "Thor: Ragnarok",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

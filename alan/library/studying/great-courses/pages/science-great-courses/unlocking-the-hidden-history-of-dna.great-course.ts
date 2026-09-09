@@ -9,7 +9,7 @@ export const unlockingTheHiddenHistoryOfDna = {
   unitSlug: "minutes",
   ownLength: 383.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "unlocking-the-hidden-history-of-dna",
   externalLink: "https://www.thegreatcoursesplus.com/unlocking-the-hidden-history-of-dna",

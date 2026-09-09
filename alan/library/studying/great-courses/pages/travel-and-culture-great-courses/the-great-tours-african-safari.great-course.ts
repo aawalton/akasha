@@ -10,7 +10,7 @@ export const theGreatToursAfricanSafari = {
   unitSlug: "minutes",
   ownLength: 740.4,
   ownProgress: 740.4,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-tours-african-safari",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-african-safari",

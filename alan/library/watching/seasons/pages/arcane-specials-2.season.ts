@@ -5,7 +5,7 @@ export const arcaneSpecials2 = {
   pageTypeSlug: "season",
   slug: "arcane-specials-2",
   title: "Arcane Specials",
-  partOfCollectionSlugs: ["arcane"],
+  partOfCollections: ["arcane"],
   position: 0,
   ownLength: 121.8,
   ownProgress: 0,

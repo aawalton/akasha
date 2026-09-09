@@ -10,7 +10,7 @@ export const metropolisExaminedGermanExpressionismInFilm = {
   unitSlug: "minutes",
   ownLength: 7.2,
   ownProgress: 7.2,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "metropolis-examined-german-expressionism-in-film",
   externalLink:

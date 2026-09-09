@@ -5,7 +5,7 @@ export const ahsokaSpecials = {
   pageTypeSlug: "season",
   slug: "ahsoka-specials",
   title: "Ahsoka Specials",
-  partOfCollectionSlugs: ["ahsoka"],
+  partOfCollections: ["ahsoka"],
   position: 0,
   ownLength: 46.8,
   ownProgress: 0,

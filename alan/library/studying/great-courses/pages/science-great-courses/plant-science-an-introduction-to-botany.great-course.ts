@@ -9,7 +9,7 @@ export const plantScienceAnIntroductionToBotany = {
   unitSlug: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plant-science-an-introduction-to-botany",
   externalLink: "https://www.thegreatcoursesplus.com/plant-science-an-introduction-to-botany",

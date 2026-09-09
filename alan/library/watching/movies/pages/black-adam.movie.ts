@@ -5,7 +5,7 @@ export const blackAdam = {
   pageTypeSlug: "movie",
   slug: "black-adam",
   title: "Black Adam",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

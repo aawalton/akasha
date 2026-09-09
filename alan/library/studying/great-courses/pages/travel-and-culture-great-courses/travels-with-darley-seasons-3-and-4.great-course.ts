@@ -10,7 +10,7 @@ export const travelsWithDarleySeasons3And4 = {
   unitSlug: "minutes",
   ownLength: 668.4,
   ownProgress: 668.4,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "travels-with-darley-seasons-3-4",
   externalLink: "https://www.thegreatcoursesplus.com/travels-with-darley-seasons-3-4",

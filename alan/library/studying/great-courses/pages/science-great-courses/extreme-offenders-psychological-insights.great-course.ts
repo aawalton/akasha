@@ -9,7 +9,7 @@ export const extremeOffendersPsychologicalInsights = {
   unitSlug: "minutes",
   ownLength: 428.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "extreme-offenders-psychological-insights",
   externalLink: "https://www.thegreatcoursesplus.com/extreme-offenders-psychological-insights",

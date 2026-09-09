@@ -9,7 +9,7 @@ export const enBuscaDeCeroEmisionesDeCarbono = {
   unitSlug: "minutes",
   ownLength: 1,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "en-busca-de-cero-emisiones-de-carbono",
   externalLink: "https://plus.thegreatcourses.com/en-busca-de-cero-emisiones-de-carbono",

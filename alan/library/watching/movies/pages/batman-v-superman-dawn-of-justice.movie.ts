@@ -5,7 +5,7 @@ export const batmanVSupermanDawnOfJustice = {
   pageTypeSlug: "movie",
   slug: "batman-v-superman-dawn-of-justice",
   title: "Batman v Superman: Dawn of Justice",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

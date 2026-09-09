@@ -10,7 +10,7 @@ export const storiesOfAmericaSNationalParks = {
   unitSlug: "minutes",
   ownLength: 355.2,
   ownProgress: 355.2,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "stories-of-america-s-national-parks",
   externalLink: "https://www.thegreatcoursesplus.com/stories-of-america-s-national-parks",

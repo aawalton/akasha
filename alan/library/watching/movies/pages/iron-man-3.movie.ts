@@ -5,7 +5,7 @@ export const ironMan3 = {
   pageTypeSlug: "movie",
   slug: "iron-man-3",
   title: "Iron Man 3",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

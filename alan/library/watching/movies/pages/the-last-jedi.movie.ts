@@ -5,7 +5,7 @@ export const theLastJedi = {
   pageTypeSlug: "movie",
   slug: "the-last-jedi",
   title: "The Last Jedi",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

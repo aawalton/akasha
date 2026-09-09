@@ -9,7 +9,7 @@ export const practicalGeology = {
   unitSlug: "minutes",
   ownLength: 756.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "practical-geology",
   externalLink: "https://www.thegreatcoursesplus.com/practical-geology",

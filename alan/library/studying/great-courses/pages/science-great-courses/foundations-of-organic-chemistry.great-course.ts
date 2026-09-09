@@ -9,7 +9,7 @@ export const foundationsOfOrganicChemistry = {
   unitSlug: "minutes",
   ownLength: 1105.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "foundations-of-organic-chemistry",
   externalLink: "https://www.thegreatcoursesplus.com/foundations-of-organic-chemistry",

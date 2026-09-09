@@ -9,7 +9,7 @@ export const howWeMoveTheGrossAnatomyOfMotion = {
   unitSlug: "minutes",
   ownLength: 754.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "how-we-move-the-gross-anatomy-of-motion",
   externalLink: "https://www.thegreatcoursesplus.com/how-we-move-the-gross-anatomy-of-motion",

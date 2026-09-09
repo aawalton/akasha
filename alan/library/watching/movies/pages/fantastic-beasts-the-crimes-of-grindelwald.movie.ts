@@ -5,7 +5,7 @@ export const fantasticBeastsTheCrimesOfGrindelwald = {
   pageTypeSlug: "movie",
   slug: "fantastic-beasts-the-crimes-of-grindelwald",
   title: "Fantastic Beasts: The Crimes of Grindelwald",
-  partOfCollectionSlugs: ["fantastic-beasts-movie-series"],
+  partOfCollections: ["fantastic-beasts-movie-series"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

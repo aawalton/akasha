@@ -10,7 +10,7 @@ export const swordArtOnlineS04e16 = {
   position: 16,
   ownLength: 23,
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["sword-art-online-s04"],
+  partOfCollections: ["sword-art-online-s04"],
   publishedAt: "2020-08-02",
   episodeType: "standard",
   stillPath: "/q6baJ9R5GwEnLLxoX1dC7pITrFC.jpg",

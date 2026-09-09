@@ -5,7 +5,7 @@ export const captainAmericaTheWinterSoldier = {
   pageTypeSlug: "movie",
   slug: "captain-america-the-winter-soldier",
   title: "Captain America: The Winter Soldier",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

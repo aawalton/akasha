@@ -5,7 +5,7 @@ export const piratesOfTheCaribbeanTheCurseOfTheBlackPearl = {
   pageTypeSlug: "movie",
   slug: "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
   title: "Pirates of the Caribbean: The Curse of the Black Pearl",
-  partOfCollectionSlugs: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["pirates-of-the-caribbean-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

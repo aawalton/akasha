@@ -10,7 +10,7 @@ export const bobKristSOffTheBeatenPath = {
   unitSlug: "minutes",
   ownLength: 232.2,
   ownProgress: 232.2,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "bob-krist-s-off-the-beaten-path",
   externalLink: "https://www.thegreatcoursesplus.com/bob-krist-s-off-the-beaten-path",

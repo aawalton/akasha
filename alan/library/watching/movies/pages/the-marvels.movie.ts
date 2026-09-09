@@ -5,7 +5,7 @@ export const theMarvels = {
   pageTypeSlug: "movie",
   slug: "the-marvels",
   title: "The Marvels",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 45,
   ownLength: 0,
   ownProgress: 0,

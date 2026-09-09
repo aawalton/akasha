@@ -9,7 +9,7 @@ export const survivalMentalityThePsychologyOfStayingAlive = {
   unitSlug: "minutes",
   ownLength: 360.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "survival-mentality-the-psychology-of-staying-alive",
   externalLink:

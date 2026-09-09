@@ -10,7 +10,7 @@ export const swordArtOnlineS01e24 = {
   position: 24,
   ownLength: 23,
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["sword-art-online-s01"],
+  partOfCollections: ["sword-art-online-s01"],
   publishedAt: "2012-12-16",
   episodeType: "standard",
   stillPath: "/3hdDhZFnQ524Tjs5ehiyrDzXJjA.jpg",

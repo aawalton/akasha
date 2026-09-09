@@ -9,7 +9,7 @@ export const theIntelligentBrain = {
   unitSlug: "minutes",
   ownLength: 526.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-intelligent-brain",
   externalLink: "https://www.thegreatcoursesplus.com/the-intelligent-brain",

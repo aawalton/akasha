@@ -5,7 +5,7 @@ export const marvelTelevision = {
   pageTypeSlug: "fandom",
   slug: "marvel-television",
   title: "Marvel Television",
-  partOfCollectionSlugs: ["superhero-fandoms"],
+  partOfCollections: ["superhero-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

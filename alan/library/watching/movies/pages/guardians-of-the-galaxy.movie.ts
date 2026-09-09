@@ -5,7 +5,7 @@ export const guardiansOfTheGalaxy = {
   pageTypeSlug: "movie",
   slug: "guardians-of-the-galaxy",
   title: "Guardians of the Galaxy",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

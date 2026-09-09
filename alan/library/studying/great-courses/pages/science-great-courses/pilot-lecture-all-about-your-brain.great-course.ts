@@ -10,7 +10,7 @@ export const pilotLectureAllAboutYourBrain = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-all-about-your-brain",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-all-about-your-brain",

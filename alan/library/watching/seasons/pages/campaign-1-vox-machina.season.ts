@@ -5,7 +5,7 @@ export const campaign1VoxMachina = {
   pageTypeSlug: "season",
   slug: "campaign-1-vox-machina",
   title: "Campaign 1: Vox Machina",
-  partOfCollectionSlugs: ["critical-role"],
+  partOfCollections: ["critical-role"],
   position: 1,
   ownLength: 27067.2,
   ownProgress: 0,

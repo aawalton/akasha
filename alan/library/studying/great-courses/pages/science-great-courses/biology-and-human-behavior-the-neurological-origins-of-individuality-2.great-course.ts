@@ -9,7 +9,7 @@ export const biologyAndHumanBehaviorTheNeurologicalOriginsOfIndividuality2 = {
   unitSlug: "minutes",
   ownLength: 731.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "biology-and-human-behavior-the-neurological-origins-of-individuality-2nd-edition",
   externalLink:

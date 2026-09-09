@@ -5,7 +5,7 @@ export const thirdspace = {
   pageTypeSlug: "movie",
   slug: "thirdspace",
   title: "Thirdspace",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

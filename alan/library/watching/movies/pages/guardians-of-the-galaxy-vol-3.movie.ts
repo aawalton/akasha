@@ -5,7 +5,7 @@ export const guardiansOfTheGalaxyVol3 = {
   pageTypeSlug: "movie",
   slug: "guardians-of-the-galaxy-vol-3",
   title: "Guardians of the Galaxy Vol. 3",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 43,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const dungeonsAndDragons = {
   pageTypeSlug: "fandom",
   slug: "dungeons-and-dragons",
   title: "Dungeons and Dragons",
-  partOfCollectionSlugs: ["fantasy-fandoms"],
+  partOfCollections: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

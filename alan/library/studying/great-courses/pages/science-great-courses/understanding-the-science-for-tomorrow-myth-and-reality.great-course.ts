@@ -9,7 +9,7 @@ export const understandingTheScienceForTomorrowMythAndReality = {
   unitSlug: "minutes",
   ownLength: 713.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-science-for-tomorrow-myth-and-reality",
   externalLink:

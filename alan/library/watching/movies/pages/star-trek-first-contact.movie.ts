@@ -5,7 +5,7 @@ export const starTrekFirstContact = {
   pageTypeSlug: "movie",
   slug: "star-trek-first-contact",
   title: "Star Trek: First Contact",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 13,
   ownLength: 0,
   ownProgress: 0,

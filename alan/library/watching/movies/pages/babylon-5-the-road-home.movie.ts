@@ -5,7 +5,7 @@ export const babylon5TheRoadHome = {
   pageTypeSlug: "movie",
   slug: "babylon-5-the-road-home",
   title: "Babylon 5: The Road Home",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

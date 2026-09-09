@@ -9,7 +9,7 @@ export const rediscoveringTheAgeOfDinosaurs = {
   unitSlug: "minutes",
   ownLength: 610.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "rediscovering-the-age-of-dinosaurs",
   externalLink: "https://www.thegreatcoursesplus.com/rediscovering-the-age-of-dinosaurs",

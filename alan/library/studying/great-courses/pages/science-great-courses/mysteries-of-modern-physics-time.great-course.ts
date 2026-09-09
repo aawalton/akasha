@@ -9,7 +9,7 @@ export const mysteriesOfModernPhysicsTime = {
   unitSlug: "minutes",
   ownLength: 738,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "mysteries-of-modern-physics-time",
   externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-modern-physics-time",

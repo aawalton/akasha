@@ -10,7 +10,7 @@ export const pilotLectureTheRiseOfNewtonianPhysics = {
   unitSlug: "minutes",
   ownLength: 22.2,
   ownProgress: 22.2,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-the-rise-of-newtonian-physics",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-rise-of-newtonian-physics",

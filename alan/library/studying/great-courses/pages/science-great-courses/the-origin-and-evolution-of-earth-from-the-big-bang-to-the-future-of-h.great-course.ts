@@ -9,7 +9,7 @@ export const theOriginAndEvolutionOfEarthFromTheBigBangToTheFutureOfH = {
   unitSlug: "minutes",
   ownLength: 1521,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId:
     "the-origin-and-evolution-of-earth-from-the-big-bang-to-the-future-of-human-existence",

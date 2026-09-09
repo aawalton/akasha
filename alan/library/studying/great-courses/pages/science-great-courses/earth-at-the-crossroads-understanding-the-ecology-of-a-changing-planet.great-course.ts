@@ -9,7 +9,7 @@ export const earthAtTheCrossroadsUnderstandingTheEcologyOfAChangingPlanet = {
   unitSlug: "minutes",
   ownLength: 1112.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "earth-at-the-crossroads-understanding-the-ecology-of-a-changing-planet",
   externalLink:

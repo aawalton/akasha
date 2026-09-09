@@ -5,7 +5,7 @@ export const theLegendOfTheRangersToLiveAndDieInStarlight = {
   pageTypeSlug: "movie",
   slug: "the-legend-of-the-rangers-to-live-and-die-in-starlight",
   title: "The Legend of the Rangers: To Live and Die in Starlight",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

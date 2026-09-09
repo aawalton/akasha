@@ -10,7 +10,7 @@ export const discoveringWestAfricaGhanaSenegalCameroon = {
   unitSlug: "minutes",
   ownLength: 247.8,
   ownProgress: 247.8,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "discovering-west-africa-ghana-senegal-cameroon",
   externalLink:

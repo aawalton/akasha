@@ -10,7 +10,7 @@ export const nationalGeographicPolarExplorations = {
   unitSlug: "minutes",
   ownLength: 669.6,
   ownProgress: 669.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "science-great-courses",
     "travel-and-culture-great-courses",

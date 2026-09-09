@@ -5,7 +5,7 @@ export const spiderManFarFromHome = {
   pageTypeSlug: "movie",
   slug: "spider-man-far-from-home",
   title: "Spider-Man: Far From Home",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

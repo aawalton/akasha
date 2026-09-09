@@ -5,7 +5,7 @@ export const theEmpireStrikesBack = {
   pageTypeSlug: "movie",
   slug: "the-empire-strikes-back",
   title: "The Empire Strikes Back",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

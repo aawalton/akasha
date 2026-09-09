@@ -5,7 +5,7 @@ export const blackMirrorSeason2 = {
   pageTypeSlug: "season",
   slug: "black-mirror-season-2",
   title: "Black Mirror Season 2",
-  partOfCollectionSlugs: ["black-mirror"],
+  partOfCollections: ["black-mirror"],
   position: 2,
   ownLength: 133.8,
   ownProgress: 0,

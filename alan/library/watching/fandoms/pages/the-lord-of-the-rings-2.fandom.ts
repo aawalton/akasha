@@ -5,7 +5,7 @@ export const theLordOfTheRings2 = {
   pageTypeSlug: "fandom",
   slug: "the-lord-of-the-rings-2",
   title: "The Lord of The Rings",
-  partOfCollectionSlugs: ["fantasy-fandoms"],
+  partOfCollections: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

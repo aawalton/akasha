@@ -9,7 +9,7 @@ export const understandingTheSecretsOfHumanPerception = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-secrets-of-human-perception",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-secrets-of-human-perception",

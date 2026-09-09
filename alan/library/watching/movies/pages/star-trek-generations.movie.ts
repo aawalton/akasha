@@ -5,7 +5,7 @@ export const starTrekGenerations = {
   pageTypeSlug: "movie",
   slug: "star-trek-generations",
   title: "Star Trek: Generations",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

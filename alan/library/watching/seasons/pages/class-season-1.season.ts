@@ -5,7 +5,7 @@ export const classSeason1 = {
   pageTypeSlug: "season",
   slug: "class-season-1",
   title: "Class Season 1",
-  partOfCollectionSlugs: ["show-class"],
+  partOfCollections: ["show-class"],
   position: 1,
   ownLength: 363,
   ownProgress: 0,

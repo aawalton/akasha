@@ -5,7 +5,7 @@ export const starWars = {
   pageTypeSlug: "movie",
   slug: "star-wars",
   title: "Star Wars",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

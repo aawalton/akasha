@@ -9,7 +9,7 @@ export const natureOfEarthAnIntroductionToGeology = {
   unitSlug: "minutes",
   ownLength: 1087.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "nature-of-earth-an-introduction-to-geology",
   externalLink: "https://www.thegreatcoursesplus.com/nature-of-earth-an-introduction-to-geology",

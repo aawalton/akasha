@@ -9,7 +9,7 @@ export const fieldGuideToNorthAmericanWildlife = {
   unitSlug: "minutes",
   ownLength: 335.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "field-guide-to-north-american-wildlife",
   externalLink: "https://www.thegreatcoursesplus.com/field-guide-to-north-american-wildlife",

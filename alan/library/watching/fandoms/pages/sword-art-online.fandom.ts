@@ -5,7 +5,7 @@ export const swordArtOnline = {
   pageTypeSlug: "fandom",
   slug: "sword-art-online",
   title: "Sword Art Online",
-  partOfCollectionSlugs: ["anime-fandoms"],
+  partOfCollections: ["anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

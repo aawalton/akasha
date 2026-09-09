@@ -9,7 +9,7 @@ export const howMemoryWorksAndWhyYourBrainRemembersWrong = {
   unitSlug: "minutes",
   ownLength: 350.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "how-memory-works-and-why-your-brain-remembers-wrong",
   externalLink:

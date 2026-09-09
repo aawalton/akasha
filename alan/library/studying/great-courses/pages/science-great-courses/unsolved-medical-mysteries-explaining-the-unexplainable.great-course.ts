@@ -9,7 +9,7 @@ export const unsolvedMedicalMysteriesExplainingTheUnexplainable = {
   unitSlug: "minutes",
   ownLength: 355.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "unsolved-medical-mysteries-explaining-the-unexplainable",
   externalLink:

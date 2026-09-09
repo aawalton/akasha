@@ -10,7 +10,7 @@ export const notoriousLondonACityTour = {
   unitSlug: "minutes",
   ownLength: 361.8,
   ownProgress: 361.8,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "notorious-london-a-city-tour",
   externalLink: "https://www.thegreatcoursesplus.com/notorious-london-a-city-tour",

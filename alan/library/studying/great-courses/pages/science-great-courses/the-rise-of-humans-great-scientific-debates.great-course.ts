@@ -9,7 +9,7 @@ export const theRiseOfHumansGreatScientificDebates = {
   unitSlug: "minutes",
   ownLength: 776.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-rise-of-humans-great-scientific-debates",
   externalLink: "https://www.thegreatcoursesplus.com/the-rise-of-humans-great-scientific-debates",

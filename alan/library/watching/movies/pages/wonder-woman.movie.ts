@@ -5,7 +5,7 @@ export const wonderWoman = {
   pageTypeSlug: "movie",
   slug: "wonder-woman",
   title: "Wonder Woman",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

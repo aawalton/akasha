@@ -10,7 +10,7 @@ export const swordArtOnlineS02e21 = {
   position: 21,
   ownLength: 23,
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["sword-art-online-s02"],
+  partOfCollections: ["sword-art-online-s02"],
   publishedAt: "2014-11-29",
   episodeType: "standard",
   stillPath: "/ifdlJmiQmUelFhTDvl56ur4QpyP.jpg",

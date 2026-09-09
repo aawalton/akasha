@@ -5,7 +5,7 @@ export const theXFiles1998 = {
   pageTypeSlug: "movie",
   slug: "the-x-files-1998",
   title: "The X Files (1998)",
-  partOfCollectionSlugs: ["x-files"],
+  partOfCollections: ["x-files"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const shockingPsychologicalStudiesAndTheLessonsTheyTeach = {
   unitSlug: "minutes",
   ownLength: 184.2,
   ownProgress: 184.2,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "shocking-psychological-studies-and-the-lessons-they-teach",
   externalLink:

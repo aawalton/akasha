@@ -5,7 +5,7 @@ export const piratesOfTheCaribbeanAtWorldSEnd = {
   pageTypeSlug: "movie",
   slug: "pirates-of-the-caribbean-at-world-s-end",
   title: "Pirates of the Caribbean: At World's End",
-  partOfCollectionSlugs: ["pirates-of-the-caribbean-2"],
+  partOfCollections: ["pirates-of-the-caribbean-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

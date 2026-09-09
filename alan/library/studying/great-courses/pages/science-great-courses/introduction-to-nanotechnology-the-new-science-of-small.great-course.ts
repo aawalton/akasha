@@ -9,7 +9,7 @@ export const introductionToNanotechnologyTheNewScienceOfSmall = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "introduction-to-nanotechnology-the-new-science-of-small",
   externalLink:

@@ -10,7 +10,7 @@ export const theGreatToursIceland = {
   unitSlug: "minutes",
   ownLength: 564.6,
   ownProgress: 564.6,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-tours-iceland",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-iceland",

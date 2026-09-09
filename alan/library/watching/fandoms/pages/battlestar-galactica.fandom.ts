@@ -5,7 +5,7 @@ export const battlestarGalactica = {
   pageTypeSlug: "fandom",
   slug: "battlestar-galactica",
   title: "Battlestar Galactica",
-  partOfCollectionSlugs: ["science-fiction-fandoms"],
+  partOfCollections: ["science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const babylon5WheelOfFire = {
   pageTypeSlug: "season",
   slug: "babylon-5-wheel-of-fire",
   title: "Babylon 5 Wheel of Fire",
-  partOfCollectionSlugs: ["babylon-5"],
+  partOfCollections: ["babylon-5"],
   position: 5,
   ownLength: 990,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const introductionToPaleontology = {
   unitSlug: "minutes",
   ownLength: 754.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "introduction-to-paleontology",
   externalLink: "https://www.thegreatcoursesplus.com/introduction-to-paleontology",

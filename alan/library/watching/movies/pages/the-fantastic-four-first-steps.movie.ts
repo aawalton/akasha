@@ -5,7 +5,7 @@ export const theFantasticFourFirstSteps = {
   pageTypeSlug: "movie",
   slug: "the-fantastic-four-first-steps",
   title: "The Fantastic Four: First Steps",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 57,
   ownLength: 0,
   ownProgress: 0,

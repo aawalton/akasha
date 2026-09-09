@@ -5,7 +5,7 @@ export const theFlash = {
   pageTypeSlug: "movie",
   slug: "the-flash",
   title: "The Flash",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

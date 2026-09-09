@@ -5,7 +5,7 @@ export const doctorWho1996 = {
   pageTypeSlug: "movie",
   slug: "doctor-who-1996",
   title: "Doctor Who (1996)",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

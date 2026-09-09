@@ -9,7 +9,7 @@ export const howTheEarthWorks = {
   unitSlug: "minutes",
   ownLength: 1481.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "how-the-earth-works",
   externalLink: "https://www.thegreatcoursesplus.com/how-the-earth-works",

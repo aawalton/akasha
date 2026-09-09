@@ -5,7 +5,7 @@ export const dcExtendedUniverse = {
   pageTypeSlug: "fandom",
   slug: "dc-extended-universe",
   title: "DC Extended Universe",
-  partOfCollectionSlugs: ["superhero-fandoms"],
+  partOfCollections: ["superhero-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

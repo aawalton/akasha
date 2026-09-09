@@ -5,7 +5,7 @@ export const babylon5NoSurrenderNoRetreat = {
   pageTypeSlug: "season",
   slug: "babylon-5-no-surrender-no-retreat",
   title: "Babylon 5 No Surrender, No Retreat",
-  partOfCollectionSlugs: ["babylon-5"],
+  partOfCollections: ["babylon-5"],
   position: 4,
   ownLength: 990,
   ownProgress: 0,

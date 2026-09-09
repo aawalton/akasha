@@ -10,7 +10,7 @@ export const swordArtOnlineS03e24 = {
   position: 24,
   ownLength: 23,
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["sword-art-online-s03"],
+  partOfCollections: ["sword-art-online-s03"],
   publishedAt: "2019-03-31",
   episodeType: "finale",
   stillPath: "/3na4mgCr70jClF70lGEaG9xcYZz.jpg",

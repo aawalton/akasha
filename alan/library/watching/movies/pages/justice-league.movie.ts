@@ -5,7 +5,7 @@ export const justiceLeague = {
   pageTypeSlug: "movie",
   slug: "justice-league",
   title: "Justice League",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

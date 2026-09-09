@@ -9,7 +9,7 @@ export const humanPrehistoryAndTheFirstCivilizations = {
   unitSlug: "minutes",
   ownLength: 1087.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "human-prehistory-and-the-first-civilizations",
   externalLink: "https://www.thegreatcoursesplus.com/human-prehistory-and-the-first-civilizations",

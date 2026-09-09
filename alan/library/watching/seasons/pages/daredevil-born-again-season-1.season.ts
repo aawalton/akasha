@@ -5,7 +5,7 @@ export const daredevilBornAgainSeason1 = {
   pageTypeSlug: "season",
   slug: "daredevil-born-again-season-1",
   title: "Daredevil: Born Again Season 1",
-  partOfCollectionSlugs: ["daredevil-born-again"],
+  partOfCollections: ["daredevil-born-again"],
   position: 1,
   ownLength: 454.8,
   ownProgress: 0,

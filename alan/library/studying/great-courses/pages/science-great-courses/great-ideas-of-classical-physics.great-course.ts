@@ -9,7 +9,7 @@ export const greatIdeasOfClassicalPhysics = {
   unitSlug: "minutes",
   ownLength: 735,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "great-ideas-of-classical-physics",
   externalLink: "https://www.thegreatcoursesplus.com/great-ideas-of-classical-physics",

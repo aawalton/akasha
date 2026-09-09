@@ -6,9 +6,7 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited = {
   slug: "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited",
   title:
     "Bogus Skill «Fruitmaster» ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ Season 1",
-  partOfCollectionSlugs: [
-    "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-2",
-  ],
+  partOfCollections: ["bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-2"],
   position: 1,
   ownLength: 288,
   ownProgress: 288,

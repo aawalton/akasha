@@ -5,7 +5,7 @@ export const attackOfTheClones = {
   pageTypeSlug: "movie",
   slug: "attack-of-the-clones",
   title: "Attack of the Clones",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

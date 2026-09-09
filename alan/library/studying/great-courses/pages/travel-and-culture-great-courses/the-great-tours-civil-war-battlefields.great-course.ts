@@ -10,7 +10,7 @@ export const theGreatToursCivilWarBattlefields = {
   unitSlug: "minutes",
   ownLength: 453,
   ownProgress: 453,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-tours-civil-war-battlefields",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-civil-war-battlefields",

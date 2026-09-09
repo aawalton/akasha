@@ -9,7 +9,7 @@ export const biochemistryAndMolecularBiologyHowLifeWorks = {
   unitSlug: "minutes",
   ownLength: 1106.4,
   ownProgress: 61.466667,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "biochemistry-and-molecular-biology-how-life-works",
   externalLink:

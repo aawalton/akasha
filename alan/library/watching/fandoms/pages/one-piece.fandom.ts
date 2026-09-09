@@ -5,7 +5,7 @@ export const onePiece = {
   pageTypeSlug: "fandom",
   slug: "one-piece",
   title: "One Piece",
-  partOfCollectionSlugs: ["anime-fandoms"],
+  partOfCollections: ["anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

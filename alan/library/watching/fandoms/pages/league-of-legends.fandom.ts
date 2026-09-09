@@ -5,7 +5,7 @@ export const leagueOfLegends = {
   pageTypeSlug: "fandom",
   slug: "league-of-legends",
   title: "League of Legends",
-  partOfCollectionSlugs: ["fantasy-fandoms"],
+  partOfCollections: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const doctorWhoSeason21 = {
   pageTypeSlug: "season",
   slug: "doctor-who-season-21",
   title: "Doctor Who Season 21",
-  partOfCollectionSlugs: ["doctor-who-1963-1989"],
+  partOfCollections: ["doctor-who-1963-1989"],
   position: 21,
   ownLength: 642,
   ownProgress: 0,

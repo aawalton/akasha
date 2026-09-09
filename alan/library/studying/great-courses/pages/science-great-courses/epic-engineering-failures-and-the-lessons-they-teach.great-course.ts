@@ -9,7 +9,7 @@ export const epicEngineeringFailuresAndTheLessonsTheyTeach = {
   unitSlug: "minutes",
   ownLength: 924,
   ownProgress: 177.692308,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "epic-engineering-failures-and-the-lessons-they-teach",
   externalLink:

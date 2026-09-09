@@ -9,7 +9,7 @@ export const theHiddenPowerOfMicrobes = {
   unitSlug: "minutes",
   ownLength: 626.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-hidden-power-of-microbes",
   externalLink: "https://www.thegreatcoursesplus.com/the-hidden-power-of-microbes",

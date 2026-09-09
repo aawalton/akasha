@@ -10,7 +10,7 @@ export const greatToursAncientCitiesOfTheMediterranean = {
   unitSlug: "minutes",
   ownLength: 701.4,
   ownProgress: 701.4,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "great-tours-ancient-cities-of-the-mediterranean",
   externalLink:

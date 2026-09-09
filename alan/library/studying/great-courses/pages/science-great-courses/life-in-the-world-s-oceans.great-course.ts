@@ -9,7 +9,7 @@ export const lifeInTheWorldSOceans = {
   unitSlug: "minutes",
   ownLength: 970.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "life-in-the-worlds-oceans",
   externalLink: "https://www.thegreatcoursesplus.com/life-in-the-worlds-oceans",

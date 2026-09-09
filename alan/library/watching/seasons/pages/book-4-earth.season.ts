@@ -5,7 +5,7 @@ export const book4Earth = {
   pageTypeSlug: "season",
   slug: "book-4-earth",
   title: "Book 4: Earth",
-  partOfCollectionSlugs: ["the-dragon-prince"],
+  partOfCollections: ["the-dragon-prince"],
   position: 4,
   ownLength: 253.2,
   ownProgress: 0,

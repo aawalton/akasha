@@ -5,7 +5,7 @@ export const theForceAwakens = {
   pageTypeSlug: "movie",
   slug: "the-force-awakens",
   title: "The Force Awakens",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

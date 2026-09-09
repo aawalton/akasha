@@ -5,7 +5,7 @@ export const battlestarGalacticaBloodAndChrome = {
   pageTypeSlug: "movie",
   slug: "battlestar-galactica-blood-and-chrome",
   title: "Battlestar Galactica: Blood & Chrome",
-  partOfCollectionSlugs: ["battlestar-galactica"],
+  partOfCollections: ["battlestar-galactica"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

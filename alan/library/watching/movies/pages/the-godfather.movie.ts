@@ -5,7 +5,7 @@ export const theGodfather = {
   pageTypeSlug: "movie",
   slug: "the-godfather",
   title: "The Godfather",
-  partOfCollectionSlugs: ["the-godfather-2"],
+  partOfCollections: ["the-godfather-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

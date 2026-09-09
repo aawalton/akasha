@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheReturnOfTheKing = {
   pageTypeSlug: "movie",
   slug: "the-lord-of-the-rings-the-return-of-the-king",
   title: "The Lord of the Rings: The Return of the King",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-shows"],
+  partOfCollections: ["the-lord-of-the-rings-shows"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

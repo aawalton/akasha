@@ -9,7 +9,7 @@ export const trailsOfEvidenceHowForensicScienceWorks = {
   unitSlug: "minutes",
   ownLength: 1114.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "course-on-forensic-science-how-to-solve-real-crime-scenes",
   externalLink:

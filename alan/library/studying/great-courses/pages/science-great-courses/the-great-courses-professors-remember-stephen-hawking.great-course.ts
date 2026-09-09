@@ -10,7 +10,7 @@ export const theGreatCoursesProfessorsRememberStephenHawking = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 12,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-courses-professors-remember-stephen-hawking",
   externalLink:

@@ -5,7 +5,7 @@ export const babylon52 = {
   pageTypeSlug: "fandom",
   slug: "babylon-5-2",
   title: "Babylon 5",
-  partOfCollectionSlugs: ["science-fiction-shows"],
+  partOfCollections: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

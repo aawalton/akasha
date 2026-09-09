@@ -5,7 +5,7 @@ export const frierenBeyondJourneySEnd = {
   pageTypeSlug: "fandom",
   slug: "frieren-beyond-journey-s-end",
   title: "Frieren: Beyond Journey's End",
-  partOfCollectionSlugs: ["anime-fandoms"],
+  partOfCollections: ["anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

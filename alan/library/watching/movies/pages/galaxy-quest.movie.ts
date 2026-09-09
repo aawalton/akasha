@@ -5,7 +5,7 @@ export const galaxyQuest = {
   pageTypeSlug: "movie",
   slug: "galaxy-quest",
   title: "Galaxy Quest",
-  partOfCollectionSlugs: ["science-fiction-shows"],
+  partOfCollections: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const book2Sky = {
   pageTypeSlug: "season",
   slug: "book-2-sky",
   title: "Book 2: Sky",
-  partOfCollectionSlugs: ["the-dragon-prince"],
+  partOfCollections: ["the-dragon-prince"],
   position: 2,
   ownLength: 241.2,
   ownProgress: 0,

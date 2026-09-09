@@ -5,7 +5,7 @@ export const theRiverOfSouls = {
   pageTypeSlug: "movie",
   slug: "the-river-of-souls",
   title: "The River of Souls",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

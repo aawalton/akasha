@@ -5,7 +5,7 @@ export const birdsOfPrey = {
   pageTypeSlug: "movie",
   slug: "birds-of-prey",
   title: "Birds of Prey",
-  partOfCollectionSlugs: ["dc-extended-universe"],
+  partOfCollections: ["dc-extended-universe"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

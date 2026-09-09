@@ -9,7 +9,7 @@ export const examiningTheBigQuestionsOfTime = {
   unitSlug: "minutes",
   ownLength: 316.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "examining-the-big-questions-of-time",
   externalLink: "https://www.thegreatcoursesplus.com/examining-the-big-questions-of-time",

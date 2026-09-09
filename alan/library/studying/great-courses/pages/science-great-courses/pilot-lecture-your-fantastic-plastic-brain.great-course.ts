@@ -10,7 +10,7 @@ export const pilotLectureYourFantasticPlasticBrain = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-your-fantastic-plastic-brain",
   externalLink: "https://www.thegreatcoursesplus.com/plus-pilots-your-fantastic-plastic-brain",

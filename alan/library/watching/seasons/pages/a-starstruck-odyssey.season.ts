@@ -5,7 +5,7 @@ export const aStarstruckOdyssey = {
   pageTypeSlug: "season",
   slug: "a-starstruck-odyssey",
   title: "A Starstruck Odyssey",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 13,
   ownLength: 2391,
   ownProgress: 0,

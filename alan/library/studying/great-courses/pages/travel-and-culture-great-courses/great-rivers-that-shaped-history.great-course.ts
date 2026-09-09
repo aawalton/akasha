@@ -9,7 +9,7 @@ export const greatRiversThatShapedHistory = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollections: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "great-rivers-that-shaped-history",
   externalLink: "https://plus.thegreatcourses.com/great-rivers-that-shaped-history",

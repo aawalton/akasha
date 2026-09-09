@@ -9,7 +9,7 @@ export const chemistryAndOurUniverseHowItAllWorks = {
   unitSlug: "minutes",
   ownLength: 1818,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "chemistry-and-our-universe-how-it-all-works",
   externalLink: "https://www.thegreatcoursesplus.com/chemistry-and-our-universe-how-it-all-works",

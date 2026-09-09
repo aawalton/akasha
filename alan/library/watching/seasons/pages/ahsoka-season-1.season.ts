@@ -5,7 +5,7 @@ export const ahsokaSeason1 = {
   pageTypeSlug: "season",
   slug: "ahsoka-season-1",
   title: "Ahsoka Season 1",
-  partOfCollectionSlugs: ["ahsoka"],
+  partOfCollections: ["ahsoka"],
   position: 1,
   ownLength: 375,
   ownProgress: 0,

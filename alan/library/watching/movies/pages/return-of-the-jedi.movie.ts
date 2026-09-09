@@ -5,7 +5,7 @@ export const returnOfTheJedi = {
   pageTypeSlug: "movie",
   slug: "return-of-the-jedi",
   title: "Return of the Jedi",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

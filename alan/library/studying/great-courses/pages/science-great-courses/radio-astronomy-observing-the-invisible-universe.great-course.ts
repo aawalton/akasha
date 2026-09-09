@@ -9,7 +9,7 @@ export const radioAstronomyObservingTheInvisibleUniverse = {
   unitSlug: "minutes",
   ownLength: 761.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "radio-astronomy-observing-the-invisible-universe",
   externalLink:

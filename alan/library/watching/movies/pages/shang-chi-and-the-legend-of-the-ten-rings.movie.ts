@@ -5,7 +5,7 @@ export const shangChiAndTheLegendOfTheTenRings = {
   pageTypeSlug: "movie",
   slug: "shang-chi-and-the-legend-of-the-ten-rings",
   title: "Shang-Chi and the Legend of the Ten Rings",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 25,
   ownLength: 0,
   ownProgress: 0,

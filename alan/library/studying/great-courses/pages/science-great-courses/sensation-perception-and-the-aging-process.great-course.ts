@@ -9,7 +9,7 @@ export const sensationPerceptionAndTheAgingProcess = {
   unitSlug: "minutes",
   ownLength: 729.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "sensation-perception-and-the-aging-process",
   externalLink: "https://www.thegreatcoursesplus.com/sensation-perception-and-the-aging-process",
