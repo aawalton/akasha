@@ -10,7 +10,6 @@ export const commandSystem = {
     "page-type/command",
     "module/calling",
     "module/command-answering",
-    "module/command-filling",
     "module/command-declaring",
     "module/landing",
     "module/asking",

@@ -104,6 +104,7 @@ export const command = {
     "module/parse-args",
     "module/answer-bytes",
     "module/piping",
+    "module/command-filling",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

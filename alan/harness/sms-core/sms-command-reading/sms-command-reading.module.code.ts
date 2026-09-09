@@ -1,8 +1,11 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
-import { type Filing, filing } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import {
+  type Filing,
+  filing,
+} from "../../../../commands/modules/command-filling/command-filling.module.code.ts"
 import { inputIn, type Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
 
 export const JSON_SAID = "--json"

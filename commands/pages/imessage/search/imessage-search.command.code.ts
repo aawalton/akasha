@@ -1,6 +1,5 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { answering, refusedBy } from "@akasha/command-system/command-answering"
-import { filing, wordFilling } from "@akasha/command-system/command-filling"
 import { buildSearchSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
@@ -19,6 +18,10 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import {
+  filing,
+  wordFilling,
+} from "../../../modules/command-filling/command-filling.module.code.ts"
 
 const QUERY = filing("--query")
 

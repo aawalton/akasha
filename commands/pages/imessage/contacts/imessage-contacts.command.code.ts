@@ -1,6 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, asJson, refusedBy, told } from "@akasha/command-system/command-answering"
-import { wordFilling } from "@akasha/command-system/command-filling"
 import {
   JSON_SAID,
   type Reading,
@@ -8,6 +7,7 @@ import {
 } from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import { searchContacts } from "../../../../alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import { wordFilling } from "../../../modules/command-filling/command-filling.module.code.ts"
 
 const QUERY = "--query"
 

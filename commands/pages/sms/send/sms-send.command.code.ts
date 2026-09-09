@@ -6,7 +6,6 @@ import {
   refusedBy,
   told,
 } from "@akasha/command-system/command-answering"
-import { wordFilling } from "@akasha/command-system/command-filling"
 import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   JSON_SAID,
@@ -19,6 +18,7 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "../../../../alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+import { wordFilling } from "../../../modules/command-filling/command-filling.module.code.ts"
 
 const TO = "--to"
 
