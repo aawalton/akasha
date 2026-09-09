@@ -21,17 +21,12 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`landedMechanically` is its own module at `command-system/mechanical-landing`, and its one caller is `subagent-presence:110`; deleting it drops the folder, the export entry and the part slug. What blocked this was the cost of that caller's test file, and the cost is gone — every run now reaches one server per process, and the file spends 3.6 processor seconds where it spent 10.9. Nothing here waits on a ceiling any more.",
+        "Three roads land on tracked files outside `runChange`. `landedMechanically` at `command-system/mechanical-landing` has one production caller, `subagent-presence:110`, and moving it is no repoint: `runMechanicalChange` takes named change askings rather than raw bodies and reaches `applying`, where no id is minted. `notification-feed-rows:73` appends a tracked jsonl through `page-entry-queue:47`. `restore.command:207` writes bodies and the git index.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "`landedMechanically` lands straight onto the tree at its one remaining call site, `subagent-presence`. Every other program reaches `applied` through `runMechanicalChange`, and `change-apply` reaches `applying` through `apply-running`. Those two entries into `applying.module.code.ts` are the one path that works a patch out and applies it. The patch stays inside the landing rather than being kept.",
-    },
-    {
-      statement: "A draft survives between commands in the store an agent's page declares.",
-      workingMemory:
-        "`drafting` writes and commits `<agent page>.patch.diff`, which no page declares, and reads it back in a later process. It is the last holder of that store: `command-system/drafting/drafting.module.code.ts` imports `dropPatch`, `keepPatch`, `keptPatch`, `patchAt` and `patchIn` from `@akasha/agents/patch-keeping` across fourteen call sites. Nothing in `subagent-presence` reads a patch. The declared successor is there: `edits-keeping`, `edits-landing`, `subagent-handed`.",
+        "`landedMechanically` lands raw bodies straight onto the tree at `subagent-presence:110`, through `landingAsked`. Two roads work a patch out first and reach `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program. Two more write tracked files with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
     },
   ],
   constraints: [
