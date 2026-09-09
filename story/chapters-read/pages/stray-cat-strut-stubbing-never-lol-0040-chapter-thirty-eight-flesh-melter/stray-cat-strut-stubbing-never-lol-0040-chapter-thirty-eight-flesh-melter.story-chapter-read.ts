@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0040ChapterThirtyEightFleshMelter = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0040-chapter-thirty-eight-flesh-melter",
   title: "Chapter Thirty-Eight - Flesh Melter",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 40,
   ownLength: 1048,
   unitSlug: "words",

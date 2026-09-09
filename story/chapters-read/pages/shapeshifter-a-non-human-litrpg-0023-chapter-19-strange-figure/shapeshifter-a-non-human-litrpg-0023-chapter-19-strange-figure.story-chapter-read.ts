@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0023Chapter19StrangeFigure = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0023-chapter-19-strange-figure",
   title: "Chapter 19: Strange Figure",
-  partOfCollectionSlugs: ["shapeshifter-a-non-human-litrpg"],
+  storySlug: "shapeshifter-a-non-human-litrpg",
   position: 23,
   ownLength: 1950,
   unitSlug: "words",

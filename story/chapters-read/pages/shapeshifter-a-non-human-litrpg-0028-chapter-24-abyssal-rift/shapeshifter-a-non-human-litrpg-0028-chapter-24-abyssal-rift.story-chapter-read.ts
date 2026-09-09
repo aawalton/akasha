@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0028Chapter24AbyssalRift = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0028-chapter-24-abyssal-rift",
   title: "Chapter 24: Abyssal Rift",
-  partOfCollectionSlugs: ["shapeshifter-a-non-human-litrpg"],
+  storySlug: "shapeshifter-a-non-human-litrpg",
   position: 28,
   ownLength: 1720,
   unitSlug: "words",
