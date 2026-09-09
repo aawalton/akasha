@@ -1,6 +1,6 @@
 import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
-import { InventoryPageContent } from "@akasha/temper-player-inventory-management-ui/inventory-page-content"
+import { InventoryPageContent } from "akasha/temper/temper-player-inventory-management-ui/inventory-page-content/inventory-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"

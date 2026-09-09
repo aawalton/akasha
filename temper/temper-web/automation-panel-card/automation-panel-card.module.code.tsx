@@ -4,7 +4,7 @@ import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { useAutomationSettings } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
+import { useAutomationSettings } from "akasha/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { AutomationSelect } from "../automation-select/automation-select.module.code.tsx"
 
 interface CharacterAutomationPanelCardProps {

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperPlayerInventoryManagementUi = {
   id: "01a0636c-5da1-77be-aadf-aea8caa7006f",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-player-inventory-management-ui",
   definition: "the pages a browser manages one player's inventory from",
-  manifest: "json",
   parts: [
     "module/action-filter-cascades",
     "module/action-filter-utils",
@@ -119,10 +118,4 @@ export const temperPlayerInventoryManagementUi = {
     "module/use-rule-matcher-context",
     "module/value-explanation-dialog",
   ],
-  invariants: [
-    {
-      invariantKind: "constraint",
-      statement: "Every way into this package is named rather than reached through a wildcard.",
-    },
-  ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

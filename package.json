@@ -76,7 +76,6 @@
     "@akasha/temper-companions-ui": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-player-completion-ui": "workspace:*",
-    "@akasha/temper-player-inventory-management-ui": "workspace:*",
     "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
@@ -104,7 +103,10 @@
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-addon-init": "workspace:*",
-    "@akasha/temper-build-hash": "workspace:*"
+    "@akasha/temper-build-hash": "workspace:*",
+    "@akasha/design-forms": "workspace:*",
+    "@akasha/temper-characters-equipment-ui": "workspace:*",
+    "sonner": "^2.0.7"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

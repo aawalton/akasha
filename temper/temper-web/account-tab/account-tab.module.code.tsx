@@ -14,8 +14,8 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import type { ProfileMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { useCraftBagAccess } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import { useCraftBagAccess } from "akasha/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 import {
   type CraftBagAccessValue,
