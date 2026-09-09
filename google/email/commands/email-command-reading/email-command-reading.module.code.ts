@@ -156,10 +156,7 @@ export function readTaking(argv: readonly string[], taking: Taking): Read {
     refusals.push(`this names \`${flag}\`${how}, and nothing said it`)
   }
   const either = taking.either
-  if (
-    either !== undefined &&
-    either.every((flag) => one[flag] === undefined && (many[flag] ?? []).length === 0)
-  ) {
+  if (either?.every((flag) => one[flag] === undefined && (many[flag] ?? []).length === 0)) {
     refusals.push(`this names ${spelled(either)} or both, and nothing said either`)
   }
   for (const flag of taking.numbered ?? []) {

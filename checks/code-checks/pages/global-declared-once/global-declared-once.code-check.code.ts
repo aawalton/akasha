@@ -152,7 +152,7 @@ function carryingIn(change: Change): boolean {
   for (const path of change.changed) {
     if (!compiled(path)) continue
     const text = textIn(change, path)
-    if (text !== null && text.includes(SPELT)) return true
+    if (text?.includes(SPELT)) return true
   }
   return false
 }
