@@ -3,6 +3,7 @@ import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 export const elementalExplosion = {
   id: "01a05fce-2956-7d68-a22a-9f1a48952793",
   pageTypeSlug: "temper-grimoire",
+  type: "temper-grimoire",
   slug: "elemental-explosion",
   title: "Elemental Explosion",
   key: "elemental-explosion",

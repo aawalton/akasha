@@ -3,6 +3,7 @@ import type { TemperAntiquityCategory } from "../../temper-antiquity-category.pa
 export const stormhaven = {
   id: "01a06166-503c-7002-bfdf-b869e0d37205",
   pageTypeSlug: "temper-antiquity-category",
+  type: "temper-antiquity-category",
   slug: "stormhaven",
   title: "Stormhaven",
   esoAntiquityCategoryId: 3,

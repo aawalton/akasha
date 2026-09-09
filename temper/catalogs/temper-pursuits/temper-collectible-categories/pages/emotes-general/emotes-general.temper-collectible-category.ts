@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const emotesGeneral = {
   id: "01a06165-9167-7004-b5c7-db973a1dd3e3",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "emotes-general",
   title: "General",
   parent: "emotes",

@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const shadowfenLore = {
   id: "01a06343-f9fa-7036-a892-140907340882",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "shadowfen-lore",
   title: "Shadowfen Lore",
   esoLoreCategoryId: 1,

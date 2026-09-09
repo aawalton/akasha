@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../temper-collectible-category.p
 export const housing = {
   id: "01a06165-9169-7001-9aa6-9cd7669514f7",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "housing",
   title: "Housing",
   esoCategoryIndex: 5,

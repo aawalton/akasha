@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const grahtwoodLore = {
   id: "01a06343-f9fa-7119-bb9f-9cbfdfbc74bd",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "grahtwood-lore",
   title: "Grahtwood Lore",
   esoLoreCategoryId: 1,

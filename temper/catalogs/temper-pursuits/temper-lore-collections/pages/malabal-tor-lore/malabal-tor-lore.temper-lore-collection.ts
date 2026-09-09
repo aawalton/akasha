@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const malabalTorLore = {
   id: "01a06343-f9fa-70e2-ac1c-ccd90510810e",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "malabal-tor-lore",
   title: "Malabal Tor Lore",
   esoLoreCategoryId: 1,

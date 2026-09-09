@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const appearanceMinorAdornments = {
   id: "01a06165-9165-7002-b15b-709136cdbf8c",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "appearance-minor-adornments",
   title: "Minor Adornments",
   parent: "appearance",

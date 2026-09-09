@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const poetryAndSong = {
   id: "01a06343-f9fa-70c1-b215-a36990c43090",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "poetry-and-song",
   title: "Poetry and Song",
   esoLoreCategoryId: 1,

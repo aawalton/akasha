@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedTrampleDiseaseDamage = {
   id: "019e6471-15d5-7012-8647-c544504cde54",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-trample-disease-damage",
   title: "Pestilent Trample",
   key: "scribed-trample-disease-damage",

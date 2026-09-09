@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterMurkmireGeneral = {
   id: "01a06168-7252-700e-b935-d1c010ff35c1",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-murkmire-general",
   title: "General",
   category: "character",

@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedShieldThrowKnockback = {
   id: "019e6471-15b5-77bb-b55e-7dc36b952f33",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-shield-throw-knockback",
   title: "Repelling Throw",
   key: "scribed-shield-throw-knockback",

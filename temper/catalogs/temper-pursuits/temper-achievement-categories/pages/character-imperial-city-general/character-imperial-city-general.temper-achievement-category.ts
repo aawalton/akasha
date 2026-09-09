@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterImperialCityGeneral = {
   id: "01a06168-7252-7019-995e-4ab4d14c14be",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-imperial-city-general",
   title: "General",
   category: "character",

@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsOnyxIndrik = {
   id: "01a06165-9168-7004-8ce4-7a295a33978f",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-onyx-indrik",
   title: "Onyx Indrik",
   parent: "fragments",

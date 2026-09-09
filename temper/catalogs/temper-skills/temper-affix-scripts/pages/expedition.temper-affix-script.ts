@@ -3,6 +3,7 @@ import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
 export const expedition = {
   id: "01a05fce-2948-7301-9d08-5ff9ce505756",
   pageTypeSlug: "temper-affix-script",
+  type: "temper-affix-script",
   slug: "expedition",
   title: "Expedition",
   key: "expedition",

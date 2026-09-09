@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedTorchbearerFrostDamage = {
   id: "019e6471-15cf-762c-a2cb-b3a2210b379d",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-torchbearer-frost-damage",
   title: "Chilling Torch",
   key: "scribed-torchbearer-frost-damage",

@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountPlayerVsPlayerBattlegrounds = {
   id: "01a06168-7247-7007-9238-47e1443b4864",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-player-vs-player-battlegrounds",
   title: "Battlegrounds",
   category: "account",

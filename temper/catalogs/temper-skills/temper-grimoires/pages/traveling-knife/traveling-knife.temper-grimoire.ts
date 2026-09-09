@@ -3,6 +3,7 @@ import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 export const travelingKnife = {
   id: "01a05fce-2958-7007-a7ea-a087ca479f02",
   pageTypeSlug: "temper-grimoire",
+  type: "temper-grimoire",
   slug: "traveling-knife",
   title: "Traveling Knife",
   key: "traveling-knife",

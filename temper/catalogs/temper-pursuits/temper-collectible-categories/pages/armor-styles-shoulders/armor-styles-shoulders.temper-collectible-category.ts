@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const armorStylesShoulders = {
   id: "01a06165-9166-7003-9b22-b97e6b857baf",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "armor-styles-shoulders",
   title: "Shoulders",
   parent: "armor-styles",

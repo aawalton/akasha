@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterQuestsMainQuest = {
   id: "01a06168-7251-7012-9245-8ea8727ade83",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-quests-main-quest",
   title: "Main Quest",
   category: "character",

@@ -3,6 +3,7 @@ import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
 export const lifesteal = {
   id: "01a05fce-294a-75c2-8a78-abc3f5175db6",
   pageTypeSlug: "temper-affix-script",
+  type: "temper-affix-script",
   slug: "lifesteal",
   title: "Lifesteal",
   key: "lifesteal",

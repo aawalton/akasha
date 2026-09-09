@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountSolsticeSiegeCamps = {
   id: "01a06168-724d-700f-ba08-526d1c26529e",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-solstice-siege-camps",
   title: "Siege Camps",
   category: "account",

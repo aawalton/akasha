@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountTrialsHallsOfFabrication = {
   id: "01a06168-724a-7016-977a-63be18b74f3a",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-trials-halls-of-fabrication",
   title: "Halls of Fabrication",
   category: "account",

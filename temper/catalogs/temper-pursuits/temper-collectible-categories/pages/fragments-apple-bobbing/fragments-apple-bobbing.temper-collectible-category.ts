@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsAppleBobbing = {
   id: "01a06165-9167-7009-a385-accfaf1697ea",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-apple-bobbing",
   title: "Apple-Bobbing",
   parent: "fragments",

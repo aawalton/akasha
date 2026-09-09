@@ -3,6 +3,7 @@ import type { TemperAntiquityCategory } from "../../temper-antiquity-category.pa
 export const glenumbra = {
   id: "01a06166-503c-7001-8fbd-af63de3dc835",
   pageTypeSlug: "temper-antiquity-category",
+  type: "temper-antiquity-category",
   slug: "glenumbra",
   title: "Glenumbra",
   esoAntiquityCategoryId: 2,

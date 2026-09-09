@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterDragonholdGeneral = {
   id: "01a06168-7252-700b-ae72-f504c2001c25",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-dragonhold-general",
   title: "General",
   category: "character",

@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const appearanceHeadMarkings = {
   id: "01a06165-9165-7000-ad21-8162f1fa5f64",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "appearance-head-markings",
   title: "Head Markings",
   parent: "appearance",

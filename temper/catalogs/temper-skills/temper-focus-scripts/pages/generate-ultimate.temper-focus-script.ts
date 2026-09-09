@@ -3,6 +3,7 @@ import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
 export const generateUltimate = {
   id: "01a05fce-2951-7cb5-82dc-13ae1c16d943",
   pageTypeSlug: "temper-focus-script",
+  type: "temper-focus-script",
   slug: "generate-ultimate",
   title: "Generate Ultimate",
   key: "generate-ultimate",

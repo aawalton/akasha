@@ -3,6 +3,7 @@ import type { TemperAntiquityCategory } from "../../temper-antiquity-category.pa
 export const southernElsweyr = {
   id: "01a06166-503d-7010-aa92-ff507c9b50d6",
   pageTypeSlug: "temper-antiquity-category",
+  type: "temper-antiquity-category",
   slug: "southern-elsweyr",
   title: "Southern Elsweyr",
   esoAntiquityCategoryId: 36,

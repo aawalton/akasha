@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const mountsIndriks = {
   id: "01a06165-9169-7012-9290-ee7619d682ee",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "mounts-indriks",
   title: "Indriks",
   parent: "mounts",

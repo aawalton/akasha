@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsWoodenGraveStakeMemento = {
   id: "01a06165-9168-701a-a674-3613834517b0",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-wooden-grave-stake-memento",
   title: "Wooden Grave-Stake Memento",
   parent: "fragments",

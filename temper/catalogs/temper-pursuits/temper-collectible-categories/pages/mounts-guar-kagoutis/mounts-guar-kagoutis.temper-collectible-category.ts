@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const mountsGuarKagoutis = {
   id: "01a06165-9169-7010-90ad-5c9091ef7a71",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "mounts-guar-kagoutis",
   title: "Guar & Kagoutis",
   parent: "mounts",

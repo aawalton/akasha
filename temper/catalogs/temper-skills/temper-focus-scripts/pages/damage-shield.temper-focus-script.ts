@@ -3,6 +3,7 @@ import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
 export const damageShield = {
   id: "01a05fce-2950-7294-a929-69490108f2d0",
   pageTypeSlug: "temper-focus-script",
+  type: "temper-focus-script",
   slug: "damage-shield",
   title: "Damage Shield",
   key: "damage-shield",

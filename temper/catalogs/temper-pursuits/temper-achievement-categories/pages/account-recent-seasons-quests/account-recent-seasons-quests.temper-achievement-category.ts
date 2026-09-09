@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountRecentSeasonsQuests = {
   id: "01a06168-7246-7003-83fb-23b95d1546d6",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-recent-seasons-quests",
   title: "Quests",
   category: "account",

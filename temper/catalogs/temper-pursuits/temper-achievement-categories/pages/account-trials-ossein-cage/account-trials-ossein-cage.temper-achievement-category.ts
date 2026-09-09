@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountTrialsOsseinCage = {
   id: "01a06168-724b-7004-9bdd-b58b320d63b1",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-trials-ossein-cage",
   title: "Ossein Cage",
   category: "account",

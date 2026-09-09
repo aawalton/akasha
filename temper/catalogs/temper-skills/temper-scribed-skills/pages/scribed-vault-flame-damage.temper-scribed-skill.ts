@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedVaultFlameDamage = {
   id: "019e6471-15ee-7a37-b038-957bc4b4bb8b",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-vault-flame-damage",
   title: "Fiery Vault",
   key: "scribed-vault-flame-damage",

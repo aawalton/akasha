@@ -3,6 +3,7 @@ import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
 export const intellectAndEndurance = {
   id: "01a05fce-2949-72ab-aa5f-f1124d51dc9a",
   pageTypeSlug: "temper-affix-script",
+  type: "temper-affix-script",
   slug: "intellect-and-endurance",
   title: "Intellect and Endurance",
   key: "intellect-and-endurance",

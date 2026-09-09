@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountTrialsKynesAegis = {
   id: "01a06168-724b-7001-9191-a53f5c73a643",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-trials-kynes-aegis",
   title: "Kyne's Aegis",
   category: "account",

@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountTrialsHelRaCitadel = {
   id: "01a06168-724b-7000-b210-312f77c7dc68",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-trials-hel-ra-citadel",
   title: "Hel Ra Citadel",
   category: "account",

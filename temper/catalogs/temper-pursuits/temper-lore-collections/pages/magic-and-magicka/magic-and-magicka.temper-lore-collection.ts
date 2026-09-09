@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const magicAndMagicka = {
   id: "01a06343-f9fa-70a0-9229-2208e9020b0a",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "magic-and-magicka",
   title: "Magic and Magicka",
   esoLoreCategoryId: 1,

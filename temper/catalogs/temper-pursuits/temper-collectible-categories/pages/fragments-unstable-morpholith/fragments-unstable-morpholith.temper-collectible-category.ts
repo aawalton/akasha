@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsUnstableMorpholith = {
   id: "01a06165-9168-7017-ab03-d2b427522536",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-unstable-morpholith",
   title: "Unstable Morpholith",
   parent: "fragments",

@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedSoulBurstBleedDamage = {
   id: "019e6471-15c3-728c-ac1a-d6f516d0a109",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-soul-burst-bleed-damage",
   title: "Bloody Burst",
   key: "scribed-soul-burst-bleed-damage",

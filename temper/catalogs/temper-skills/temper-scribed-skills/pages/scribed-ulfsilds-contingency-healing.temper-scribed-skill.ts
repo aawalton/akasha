@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedUlfsildsContingencyHealing = {
   id: "019e6471-15e8-7187-aec1-1eefbdceea36",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-healing",
   title: "Healing Contingency",
   key: "scribed-ulfsilds-contingency-healing",

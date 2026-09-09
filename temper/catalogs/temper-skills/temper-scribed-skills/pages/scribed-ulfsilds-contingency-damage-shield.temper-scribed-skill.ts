@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedUlfsildsContingencyDamageShield = {
   id: "019e6471-15e5-7491-b86f-978f1f230426",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-damage-shield",
   title: "Warding Contingency",
   key: "scribed-ulfsilds-contingency-damage-shield",

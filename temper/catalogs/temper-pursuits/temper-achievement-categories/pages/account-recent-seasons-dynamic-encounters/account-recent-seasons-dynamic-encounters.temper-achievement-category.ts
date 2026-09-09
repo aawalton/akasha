@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountRecentSeasonsDynamicEncounters = {
   id: "01a06168-7246-7004-891a-9ac49265eade",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-recent-seasons-dynamic-encounters",
   title: "Dynamic Encounters",
   category: "account",

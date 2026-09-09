@@ -3,6 +3,7 @@ import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
 export const brittle = {
   id: "01a05fce-2945-7848-a8b9-10d16b7215f6",
   pageTypeSlug: "temper-affix-script",
+  type: "temper-affix-script",
   slug: "brittle",
   title: "Brittle",
   key: "brittle",

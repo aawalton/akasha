@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const nonCombatPetsExotic = {
   id: "01a06165-916a-700c-8260-c4e511ae3051",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "non-combat-pets-exotic",
   title: "Exotic",
   parent: "non-combat-pets",

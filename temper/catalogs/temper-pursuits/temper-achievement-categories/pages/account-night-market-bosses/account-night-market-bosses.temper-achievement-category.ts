@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountNightMarketBosses = {
   id: "01a06168-724c-700d-81f7-5fa7e719d5e1",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-night-market-bosses",
   title: "Bosses",
   category: "account",

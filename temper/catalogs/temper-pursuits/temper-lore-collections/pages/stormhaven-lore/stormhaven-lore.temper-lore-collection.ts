@@ -3,6 +3,7 @@ import type { TemperLoreCollection } from "../../temper-lore-collection.page-typ
 export const stormhavenLore = {
   id: "01a06343-f9fa-700a-9a28-10e210aff1a2",
   pageTypeSlug: "temper-lore-collection",
+  type: "temper-lore-collection",
   slug: "stormhaven-lore",
   title: "Stormhaven Lore",
   esoLoreCategoryId: 1,

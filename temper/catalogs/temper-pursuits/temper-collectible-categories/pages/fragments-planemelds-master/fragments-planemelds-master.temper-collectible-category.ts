@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsPlanemeldsMaster = {
   id: "01a06165-9168-7008-a71c-6696c2b03016",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-planemelds-master",
   title: "Planemeld's Master",
   parent: "fragments",

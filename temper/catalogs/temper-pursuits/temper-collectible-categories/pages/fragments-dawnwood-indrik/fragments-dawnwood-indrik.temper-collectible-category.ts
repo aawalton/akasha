@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsDawnwoodIndrik = {
   id: "01a06165-9167-700f-8703-c14188dc5c9a",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-dawnwood-indrik",
   title: "Dawnwood Indrik",
   parent: "fragments",

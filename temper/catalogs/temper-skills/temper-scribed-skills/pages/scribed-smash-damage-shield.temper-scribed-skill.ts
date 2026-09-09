@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedSmashDamageShield = {
   id: "019e6471-15bb-7e37-aadc-caf02c2a60d8",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-smash-damage-shield",
   title: "Warding Smash",
   key: "scribed-smash-damage-shield",

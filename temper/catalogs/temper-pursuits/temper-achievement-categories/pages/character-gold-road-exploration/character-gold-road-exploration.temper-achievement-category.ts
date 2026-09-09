@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterGoldRoadExploration = {
   id: "01a06168-7251-7016-bf6f-fed40e292ff7",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-gold-road-exploration",
   title: "Exploration",
   category: "character",

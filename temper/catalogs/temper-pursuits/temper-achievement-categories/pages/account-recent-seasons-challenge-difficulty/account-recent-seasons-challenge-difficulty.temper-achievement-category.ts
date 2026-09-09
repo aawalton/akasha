@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const accountRecentSeasonsChallengeDifficulty = {
   id: "01a06168-7246-7001-b822-e2ce3fb5245a",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "account-recent-seasons-challenge-difficulty",
   title: "Challenge Difficulty",
   category: "account",

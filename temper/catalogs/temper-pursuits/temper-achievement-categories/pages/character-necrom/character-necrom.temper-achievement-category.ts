@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterNecrom = {
   id: "01a06168-7251-7017-a7fb-1133ef496a7c",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-necrom",
   title: "Necrom",
   category: "character",

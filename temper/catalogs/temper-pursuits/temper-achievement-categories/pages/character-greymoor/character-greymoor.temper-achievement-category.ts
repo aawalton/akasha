@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterGreymoor = {
   id: "01a06168-7251-701d-a386-e8eeec46d8b4",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-greymoor",
   title: "Greymoor",
   category: "character",

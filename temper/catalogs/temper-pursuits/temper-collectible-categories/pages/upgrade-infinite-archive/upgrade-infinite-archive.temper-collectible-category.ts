@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const upgradeInfiniteArchive = {
   id: "01a06165-916a-701b-a353-849f25665e22",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "upgrade-infinite-archive",
   title: "Infinite Archive",
   parent: "upgrade",

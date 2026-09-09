@@ -3,6 +3,7 @@ import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
 export const magickasteal = {
   id: "01a05fce-294a-7250-92a8-756e497c0709",
   pageTypeSlug: "temper-affix-script",
+  type: "temper-affix-script",
   slug: "magickasteal",
   title: "Magickasteal",
   key: "magickasteal",

@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterElsweyrGeneral = {
   id: "01a06168-7252-7002-8814-ef498077280a",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-elsweyr-general",
   title: "General",
   category: "character",

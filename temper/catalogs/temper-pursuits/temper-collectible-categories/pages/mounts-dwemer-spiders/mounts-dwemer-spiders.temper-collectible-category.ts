@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const mountsDwemerSpiders = {
   id: "01a06165-9169-700e-bc03-12f9abcb73d1",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "mounts-dwemer-spiders",
   title: "Dwemer Spiders",
   parent: "mounts",

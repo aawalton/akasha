@@ -3,6 +3,7 @@ import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
 export const knockback = {
   id: "01a05fce-2952-71bf-87d4-98db92079013",
   pageTypeSlug: "temper-focus-script",
+  type: "temper-focus-script",
   slug: "knockback",
   title: "Knockback",
   key: "knockback",

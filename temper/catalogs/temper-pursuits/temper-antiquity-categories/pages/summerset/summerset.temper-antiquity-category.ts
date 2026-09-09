@@ -3,6 +3,7 @@ import type { TemperAntiquityCategory } from "../../temper-antiquity-category.pa
 export const summerset = {
   id: "01a06166-503d-700d-b98e-6badccf86652",
   pageTypeSlug: "temper-antiquity-category",
+  type: "temper-antiquity-category",
   slug: "summerset",
   title: "Summerset",
   esoAntiquityCategoryId: 33,

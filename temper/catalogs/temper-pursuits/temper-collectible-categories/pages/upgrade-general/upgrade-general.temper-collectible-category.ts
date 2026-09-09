@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const upgradeGeneral = {
   id: "01a06165-916a-701a-80ce-96350a79394a",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "upgrade-general",
   title: "General",
   parent: "upgrade",

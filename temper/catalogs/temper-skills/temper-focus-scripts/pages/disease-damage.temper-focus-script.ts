@@ -3,6 +3,7 @@ import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
 export const diseaseDamage = {
   id: "01a05fce-2950-77c6-882a-0d144ddbe6bd",
   pageTypeSlug: "temper-focus-script",
+  type: "temper-focus-script",
   slug: "disease-damage",
   title: "Disease Damage",
   key: "disease-damage",

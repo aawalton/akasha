@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const appearanceBodyMarkings = {
   id: "01a06165-9164-7003-aec9-cca47505ba13",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "appearance-body-markings",
   title: "Body Markings",
   parent: "appearance",

@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedSmashHealing = {
   id: "019e6471-15bc-7c56-8837-3ad046c333b7",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-smash-healing",
   title: "Healing Smash",
   key: "scribed-smash-healing",

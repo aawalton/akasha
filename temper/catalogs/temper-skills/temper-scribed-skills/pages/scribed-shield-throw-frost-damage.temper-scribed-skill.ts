@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedShieldThrowFrostDamage = {
   id: "019e6471-15b3-78b3-8b93-79ca196a7080",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-shield-throw-frost-damage",
   title: "Chilling Throw",
   key: "scribed-shield-throw-frost-damage",

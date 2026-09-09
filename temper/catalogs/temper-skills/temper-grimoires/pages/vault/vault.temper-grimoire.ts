@@ -3,6 +3,7 @@ import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 export const vault = {
   id: "01a05fce-2959-739f-879f-e1dc43900386",
   pageTypeSlug: "temper-grimoire",
+  type: "temper-grimoire",
   slug: "vault",
   title: "Vault",
   key: "vault",

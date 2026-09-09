@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterClockworkCity = {
   id: "01a06168-7252-700f-a4df-2fbcf0fc2e97",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-clockwork-city",
   title: "Clockwork City",
   category: "character",

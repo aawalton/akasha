@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../temper-collectible-category.p
 export const tools = {
   id: "01a06165-916a-7015-a6fc-e6fa457c498a",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "tools",
   title: "Tools",
   esoCategoryIndex: 10,

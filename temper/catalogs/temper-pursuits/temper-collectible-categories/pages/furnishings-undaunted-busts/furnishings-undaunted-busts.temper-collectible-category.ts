@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const furnishingsUndauntedBusts = {
   id: "01a06165-9168-701f-8818-ddb87aabc647",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "furnishings-undaunted-busts",
   title: "Undaunted Busts",
   parent: "furnishings",

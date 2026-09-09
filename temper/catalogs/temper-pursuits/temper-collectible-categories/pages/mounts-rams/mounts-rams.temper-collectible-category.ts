@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const mountsRams = {
   id: "01a06165-916a-7000-8014-eb1ef20e60c2",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "mounts-rams",
   title: "Rams",
   parent: "mounts",

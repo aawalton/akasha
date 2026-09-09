@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedUlfsildsContingencyImmobilize = {
   id: "019e6471-15e8-7ffd-b9dc-cb84443835ba",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-ulfsilds-contingency-immobilize",
   title: "Binding Contingency",
   key: "scribed-ulfsilds-contingency-immobilize",

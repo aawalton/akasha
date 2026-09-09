@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterOrsinium = {
   id: "01a06168-7252-7015-9991-d186dfc9c8da",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-orsinium",
   title: "Orsinium",
   category: "character",

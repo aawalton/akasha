@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedBannerBearerShockDamage = {
   id: "019e6471-15a0-7bcb-b4de-3195f0ff0fd4",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-banner-bearer-shock-damage",
   title: "Shocking Banner",
   key: "scribed-banner-bearer-shock-damage",

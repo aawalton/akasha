@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedBannerBearerMagicDamage = {
   id: "019e6471-1597-7bbe-bd05-657fd2905a91",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-banner-bearer-magic-damage",
   title: "Magical Banner",
   key: "scribed-banner-bearer-magic-damage",

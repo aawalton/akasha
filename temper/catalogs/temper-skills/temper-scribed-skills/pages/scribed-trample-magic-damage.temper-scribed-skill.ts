@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedTrampleMagicDamage = {
   id: "019e6471-15d8-7c0e-902b-942f9adc9ad6",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-trample-magic-damage",
   title: "Magical Trample",
   key: "scribed-trample-magic-damage",

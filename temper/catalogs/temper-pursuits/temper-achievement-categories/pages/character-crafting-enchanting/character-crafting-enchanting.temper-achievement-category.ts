@@ -3,6 +3,7 @@ import type { TemperAchievementCategory } from "../../temper-achievement-categor
 export const characterCraftingEnchanting = {
   id: "01a06168-7251-700c-92f6-67f57c33fc66",
   pageTypeSlug: "temper-achievement-category",
+  type: "temper-achievement-category",
   slug: "character-crafting-enchanting",
   title: "Enchanting",
   category: "character",

@@ -3,6 +3,7 @@ import type { TemperCollectibleCategory } from "../../temper-collectible-categor
 export const fragmentsHavenOfTheFiveCompanions = {
   id: "01a06165-9167-7014-be98-6c874d409160",
   pageTypeSlug: "temper-collectible-category",
+  type: "temper-collectible-category",
   slug: "fragments-haven-of-the-five-companions",
   title: "Haven of the Five Companions",
   parent: "fragments",

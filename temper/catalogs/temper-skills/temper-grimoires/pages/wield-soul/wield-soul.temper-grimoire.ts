@@ -3,6 +3,7 @@ import type { TemperGrimoire } from "../../temper-grimoire.page-type.ts"
 export const wieldSoul = {
   id: "01a05fce-2959-7331-ba75-a2bd0c58545a",
   pageTypeSlug: "temper-grimoire",
+  type: "temper-grimoire",
   slug: "wield-soul",
   title: "Wield Soul",
   key: "wield-soul",
