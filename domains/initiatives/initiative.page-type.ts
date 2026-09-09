@@ -23,7 +23,7 @@ export const initiative = {
   partSlugs: [
     "record-property/intents",
     "relation-property/initiative-persona-slug",
-    "relation-property/initiative-slug",
+    "relation-property/initiative",
     "relation-property/parent-slug",
     "standard-agent-english-property/constraints",
     "standard-agent-english-property/intent-statement",
