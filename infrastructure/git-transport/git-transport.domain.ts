@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const gitTransport = {
   id: "01a06816-2f11-7be3-9bd7-706fac3996ff",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "git-transport",
   definition: "the repositories this system keeps, served over the network",
-  manifest: "json",
   parts: [
     "manifest/git-transport-janitor",
     "manifest/git-transport-manifests",
@@ -57,4 +56,4 @@ export const gitTransport = {
       statement: "The workload runs this code out of the source cache rather than an image layer.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

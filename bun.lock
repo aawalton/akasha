@@ -1128,15 +1128,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/git-transport": {
-      "name": "@akasha/git-transport",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/storage/object-store": {
       "name": "@akasha/object-store",
       "dependencies": {
@@ -2965,8 +2956,6 @@
     "@akasha/geo-io": ["@akasha/geo-io@workspace:alan/harness/geo-io"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
-
-    "@akasha/git-transport": ["@akasha/git-transport@workspace:infrastructure/git-transport"],
 
     "@akasha/google-calendar": ["@akasha/google-calendar@workspace:google/calendar"],
 
