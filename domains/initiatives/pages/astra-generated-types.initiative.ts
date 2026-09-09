@@ -48,7 +48,7 @@ export const astraGeneratedTypes = {
     {
       statement: "A page property's written type says everything its hand-written type said.",
       workingMemory:
-        "Nothing in page data says a file property's held extension: the code property holds ts or tsx and the worked property holds ts. A named file property states its file name but not its extension, so the property whose file is named ca.crt holds pem. A relation's type collapses to a slug and never names the type the relation reaches. Fifteen text properties carry a hand-written union that a select property's own invariants call no select property.\n",
+        "A written type names a property's type rather than restating it, so an extension the data leaves out and a relation that collapses to a slug bar nothing. Naming bars it. Of 1773 property pages, 1743 export the type named for the page's slug and 30 do not: 23 are named for the property slug, 7 for neither. Forty export an element type as well, and in every one the property's own type is the one named for the slug.\n",
     },
     {
       statement: "No page property's type is written by hand.",
