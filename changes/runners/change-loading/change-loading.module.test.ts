@@ -229,6 +229,25 @@ test("a change acting on a file of any kind runs a path of every kind", () => {
   expect(targetRefusal(world, ADDRESS, { at: PAGE_TYPE_AT })).toBeNull()
 })
 
+test("a change acting on a file of any kind asks the index for no path's kind", () => {
+  const world = judging("change-target-subtype/file")
+  let asked = 0
+  const over: World = {
+    ...world,
+    index: {
+      ...world.index,
+      pageTypesIn: () => {
+        asked += 1
+        return PAGE_TYPES
+      },
+    },
+  }
+
+  expect(targetRefusal(over, ADDRESS, { at: PLAIN })).toBeNull()
+  expect(targetRefusal(over, ADDRESS, { at: AT })).toBeNull()
+  expect(asked).toBe(0)
+})
+
 test("the subtype a change judges a path against is worked out once over one world", () => {
   const world = judging("change-target-subtype/file-page")
   let asked = 0
