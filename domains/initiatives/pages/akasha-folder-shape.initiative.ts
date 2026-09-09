@@ -28,7 +28,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation value lands that akasha cannot key to one page.",
       workingMemory:
-        "`identifier-names-one-page` now runs on a patch, on the worktree, at deploy and at audit, and the whole tree judges clean over 122262 files. What remains: `add-page-property` and `remove-page-property` name no `guards`, so the mechanical path a bulk migration takes writes a relation value that no guard reads.",
+        "`identifier-names-one-page` judges one page per key rather than whether a name reaches a page, so its clean 122262 says nothing here. `relation-resolves` is the reading and is `runsOnAudit: false`, so no tree-wide one exists; last 2026-09-08T19:17Z, 120541 paths, 0 refusals, 2254 commits back. `relation-reaches-a-page` refuses over every relation on the page written, and `move-property-on-every-page` reaches `add-page-property`, so it judges a 250-page batch whole. Land it once that reads clean.",
     },
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
