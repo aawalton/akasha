@@ -32,7 +32,6 @@
     "@googleapis/calendar": "^15.0.0",
     "@googleapis/drive": "^20.2.0",
     "@googleapis/gmail": "^17.0.0",
-    "@akasha/wan": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@supabase/supabase-js": "^2.104.0",
     "@vscode/ripgrep": "^1.18.0",

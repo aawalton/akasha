@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const wan = {
   id: "01a06815-9efd-7028-bfc6-b3c3933ac08c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "wan",
   definition: "video made from a still image by the Wan diffusion model",
-  manifest: "json",
   parts: [
     "container-recipe/wan-image",
     "module/wan-backbone",
@@ -28,4 +27,4 @@ export const wan = {
       statement: "The two experts split one sampling run at the step halfway through.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

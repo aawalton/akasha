@@ -41,7 +41,6 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/inference-clients": "workspace:*",
     "@akasha/inference-runs": "workspace:*",
-    "@akasha/utils": "workspace:*",
-    "@akasha/wan": "workspace:*"
+    "@akasha/utils": "workspace:*"
   }
 }

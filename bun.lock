@@ -95,7 +95,6 @@
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/temper-upstream-data": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/wan": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -528,7 +527,6 @@
         "@akasha/inference-runs": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/wan": "workspace:*",
       },
     },
     "context": {
@@ -736,15 +734,6 @@
     },
     "inference/comfy": {
       "name": "@akasha/comfy",
-    },
-    "inference/generations/wan": {
-      "name": "@akasha/wan",
-      "dependencies": {
-        "@akasha/comfy": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "inference/pool": {
       "name": "@akasha/inference-pool",
@@ -2485,8 +2474,6 @@
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
-
-    "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
 
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
 

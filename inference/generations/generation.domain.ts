@@ -11,7 +11,7 @@ export const generation = {
     "page-type/generation-log",
     "page-type/image",
     "domain/upscale",
-    "workspace-package/wan",
+    "domain/wan",
     "domain/zimage",
   ],
   invariants: [

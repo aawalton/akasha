@@ -10,16 +10,16 @@ import {
   WAN_FPS,
   WAN_FULL_STEPS,
   WAN_LIGHTNING_STEPS,
-} from "@akasha/wan/wan-backbone"
-import type { ExtendDirection } from "@akasha/wan/wan-extend-graph"
+} from "akasha/inference/generations/wan/backbone/wan-backbone.module.code.ts"
+import type { ExtendDirection } from "akasha/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
 import {
   buildExtendGraph,
   computeSkipFirstFrames,
   resolveComfyInputName,
   snapToVaeLength,
-} from "@akasha/wan/wan-extend-graph"
-import { buildI2vGraph } from "@akasha/wan/wan-i2v-graph"
-import { parseSizeOrNull } from "@akasha/wan/wan-size"
+} from "akasha/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
+import { buildI2vGraph } from "akasha/inference/generations/wan/i2v-graph/wan-i2v-graph.module.code.ts"
+import { parseSizeOrNull } from "akasha/inference/generations/wan/size/wan-size.module.code.ts"
 import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../command-system/fault-saying/fault-saying.module.code.ts"
