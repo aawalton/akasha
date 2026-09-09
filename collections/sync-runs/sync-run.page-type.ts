@@ -1,28 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { CreatedCount } from "./properties/created-count.number-property.ts"
-import type { DurationMs } from "./properties/duration-ms.number-property.ts"
-import type { FailedCount } from "./properties/failed-count.number-property.ts"
-import type { RunCompletedAt } from "./properties/run-completed-at.instant-property.ts"
-import type { RunErrorMessage } from "./properties/run-error-message.text-property.ts"
-import type { RunSeq } from "./properties/run-seq.number-property.ts"
-import type { RunStartedAt } from "./properties/run-started-at.instant-property.ts"
-import type { RunStatus } from "./properties/run-status.select-property.ts"
-import type { SkippedCount } from "./properties/skipped-count.number-property.ts"
-import type { UpdatedCount } from "./properties/updated-count.number-property.ts"
-
-export type SyncRun = Page & {
-  runSeq?: RunSeq
-  runStartedAt: RunStartedAt
-  runCompletedAt?: RunCompletedAt
-  durationMs?: DurationMs
-  runStatus: RunStatus
-  createdCount?: CreatedCount
-  updatedCount?: UpdatedCount
-  skippedCount?: SkippedCount
-  failedCount?: FailedCount
-  runErrorMessage?: RunErrorMessage
-}
 
 export const syncRun = {
   id: "01a06835-e289-706f-b82b-cc895c8f24bf",
@@ -71,4 +47,5 @@ export const syncRun = {
       statement: "The runs beside a sync are that sync's entries rather than pages of their own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
