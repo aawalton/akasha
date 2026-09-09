@@ -1,7 +1,7 @@
 import type { PageCondition } from "@akasha/pages-core/page-types"
 import { pad2 } from "../image-name/image-name.module.code.ts"
 import {
-  personaSlugCondition,
+  personaCondition,
   relationshipLevelMatchCondition,
 } from "../page-conditions/persona-page-conditions.module.code.ts"
 
@@ -19,7 +19,7 @@ export interface WallpaperImageRecordInput {
 
 export interface WallpaperImageSet {
   readonly title: string
-  readonly personaSlug: string
+  readonly persona: string
   readonly relationshipLevel: number
   readonly stage: string
   readonly esoDay: string
@@ -34,10 +34,10 @@ export interface WallpaperImageRecord {
 
 export function buildWallpaperImageRecord(input: WallpaperImageRecordInput): WallpaperImageRecord {
   return {
-    where: [personaSlugCondition(input.personaSlug), relationshipLevelMatchCondition(input.level)],
+    where: [personaCondition(input.personaSlug), relationshipLevelMatchCondition(input.level)],
     set: {
       title: `${input.personaTitle} — wallpaper L${pad2(input.level)} (${input.stage})`,
-      personaSlug: input.personaSlug,
+      persona: input.personaSlug,
       relationshipLevel: input.level,
       stage: input.stage,
       esoDay: input.esoDay,

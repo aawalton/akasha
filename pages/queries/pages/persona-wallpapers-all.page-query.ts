@@ -5,5 +5,5 @@ export const personaWallpapersAll = {
   pageTypeSlug: "page-query",
   slug: "persona-wallpapers-all",
   asksOfSlug: "persona-wallpaper",
-  keys: ["personaSlug", "imagePath", "imageRoot", "relationshipLevel", "esoDay", "stage"],
+  keys: ["persona", "imagePath", "imageRoot", "relationshipLevel", "esoDay", "stage"],
 } as const satisfies PageQuery

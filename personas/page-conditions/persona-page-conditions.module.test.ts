@@ -1,17 +1,12 @@
 import { describe, expect, test } from "bun:test"
 import {
-  personaSlugCondition,
+  personaCondition,
   relationshipLevelMatchCondition,
 } from "./persona-page-conditions.module.code.ts"
 
-describe("personaSlugCondition", () => {
+describe("personaCondition", () => {
   test("matches the persona by her slug", () => {
-    expect(personaSlugCondition("aria")).toEqual({
-      or: [
-        { key: "persona", eq: "aria" },
-        { key: "personaSlug", eq: "aria" },
-      ],
-    })
+    expect(personaCondition("aria")).toEqual({ key: "persona", eq: "aria" })
   })
 })
 

@@ -1,12 +1,7 @@
 import type { PageCondition } from "@akasha/pages-core/page-types"
 
-export function personaSlugCondition(personaSlug: string): PageCondition {
-  return {
-    or: [
-      { key: "persona", eq: personaSlug },
-      { key: "personaSlug", eq: personaSlug },
-    ],
-  }
+export function personaCondition(persona: string): PageCondition {
+  return { key: "persona", eq: persona }
 }
 
 export function relationshipLevelMatchCondition(level: number): PageCondition {
