@@ -997,6 +997,8 @@
       "dependencies": {
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/utils": "workspace:*",
       },
     },
     "pages/access": {
@@ -1010,15 +1012,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "pages/commands": {
-      "name": "@akasha/page-commands",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "pages/core": {
@@ -2780,8 +2773,6 @@
     "@akasha/named-for": ["@akasha/named-for@workspace:pages/naming/named-for"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
-
-    "@akasha/page-commands": ["@akasha/page-commands@workspace:pages/commands"],
 
     "@akasha/pages": ["@akasha/pages@workspace:pages"],
 

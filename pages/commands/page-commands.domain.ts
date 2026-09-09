@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const pageCommands = {
   id: "01a06812-3ce8-79c7-b7c0-ca183f330ca5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "page-commands",
   definition: "what an agent runs by name over the pages themselves",
-  manifest: "json",
   parts: ["module/icon-index-rendering", "module/page-secret-acting"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const pageCommands = {
       statement: "A command here acts on a page's files rather than on the values a page states.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
