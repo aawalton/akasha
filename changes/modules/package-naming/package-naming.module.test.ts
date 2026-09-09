@@ -1,6 +1,19 @@
 import { expect, test } from "bun:test"
 import type { Splice } from "../change-answer/change-answer.module.types.ts"
-import { aliasIn, nameFor, spelledAnew } from "./package-naming.module.code.ts"
+import { aliasIn, nameFor, spelledAnew, spelledByNaming } from "./package-naming.module.code.ts"
+
+const NAMING = new Map([
+  ["@akasha/code", "akasha/code-system/code-system.workspace-package.ts"],
+  ["@akasha/code/code-source", "akasha/code-system/code-source/code-source.module.code.ts"],
+])
+
+const BY_NAMING = [
+  'import { one } from "akasha/code-system/code-system.workspace-package.ts"',
+  'import { two } from "akasha/code-system/code-source/code-source.module.code.ts"',
+  'import { three } from "@akasha/codex"',
+  'const said = "@akasha/code"',
+  "",
+].join("\n")
 
 const AT = "one/held.module.code.ts"
 
@@ -78,4 +91,12 @@ test("a string naming no module is left as that string is", () => {
 
 test("a body naming the package nowhere is respelled nowhere", () => {
   expect(spelledAnew(AT, 'import { one } from "@akasha/pages"\n', WAS, TO)).toEqual([])
+})
+
+test("a naming handed in spells each specifier anew on its own rather than by prefix", () => {
+  expect(spelledInto(BODY, spelledByNaming(AT, BODY, NAMING))).toBe(BY_NAMING)
+})
+
+test("a specifier the naming handed in does not name is left as that specifier is", () => {
+  expect(spelledByNaming(AT, 'import { one } from "@akasha/codex"\n', NAMING)).toEqual([])
 })

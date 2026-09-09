@@ -51,6 +51,14 @@ export const packageNaming = {
       statement: "A string naming no module is left as that string is.",
     },
     {
+      invariantKind: "departure",
+      statement: "A naming handed in spells each specifier anew on its own rather than by prefix.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier the naming handed in does not name is left as that specifier is.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the disk or the index.",
     },

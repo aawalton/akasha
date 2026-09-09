@@ -37,3 +37,17 @@ export function spelledAnew(at: string, text: string, was: string, to: string): 
   }
   return found
 }
+
+export function spelledByNaming(
+  at: string,
+  text: string,
+  naming: ReadonlyMap<string, string>
+): readonly Splice[] {
+  const found: Splice[] = []
+  for (const one of placedIn(at, text)) {
+    const next = naming.get(one.text)
+    if (next === undefined) continue
+    found.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
+  }
+  return found
+}
