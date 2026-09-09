@@ -14,7 +14,7 @@ export default [
   route("contact", "routes/alan-web-contact/alan-web-contact.route.code.tsx"),
   route("terms", "routes/alan-web-terms/alan-web-terms.route.code.tsx"),
   route("privacy", "routes/alan-web-privacy/alan-web-privacy.route.code.tsx"),
-  route("sms", "routes/sms.tsx"),
+  route("sms", "routes/alan-web-sms/alan-web-sms.route.code.tsx"),
   route("sign-in", "routes/alan-web-sign-in/alan-web-sign-in.route.code.tsx"),
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
   route("sign-out", "routes/sign-out.ts"),
