@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const abraham = {
   id: "01a06808-34d9-7015-ad36-5ca49321055c",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "abraham",
   title: "Abraham",
   partOfCollections: ["pearl-of-great-price"],

@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const jarom = {
   id: "01a06808-34da-7005-bc43-6f79900ed71f",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "jarom",
   title: "Jarom",
   partOfCollections: ["book-of-mormon"],

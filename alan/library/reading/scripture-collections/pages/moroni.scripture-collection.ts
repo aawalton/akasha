@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const moroni = {
   id: "01a06808-34da-7018-969c-17d3b28dc0fe",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "moroni",
   title: "Moroni",
   partOfCollections: ["book-of-mormon"],

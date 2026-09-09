@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const joshua = {
   id: "01a06808-34da-700d-a0ee-8f3f8962418b",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "joshua",
   title: "Joshua",
   partOfCollections: ["old-testament"],

@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const proverbs = {
   id: "01a06808-34da-7026-847e-ce6b4f79188e",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "proverbs",
   title: "Proverbs",
   partOfCollections: ["old-testament"],

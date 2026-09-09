@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const philippians = {
   id: "01a06808-34da-7025-b8ef-3e8523900dfe",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "philippians",
   title: "Philippians",
   partOfCollections: ["new-testament"],

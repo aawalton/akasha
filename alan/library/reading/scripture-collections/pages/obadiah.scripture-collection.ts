@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const obadiah = {
   id: "01a06808-34da-701f-a36e-8d92085c59c3",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "obadiah",
   title: "Obadiah",
   partOfCollections: ["old-testament"],

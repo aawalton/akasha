@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const scriptureCollection1Chronicles = {
   id: "01a06808-34d9-7000-b2b3-6aca38dc87f3",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "scripture-collection-1-chronicles",
   title: "1 Chronicles",
   partOfCollections: ["old-testament"],

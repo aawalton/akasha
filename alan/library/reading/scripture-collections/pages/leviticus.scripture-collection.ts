@@ -3,6 +3,7 @@ import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
 export const leviticus = {
   id: "01a06808-34da-7011-b4d2-294b1f776be4",
   pageTypeSlug: "scripture-collection",
+  type: "scripture-collection",
   slug: "leviticus",
   title: "Leviticus",
   partOfCollections: ["old-testament"],
