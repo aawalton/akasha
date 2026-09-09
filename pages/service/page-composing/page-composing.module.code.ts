@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { listedAt } from "@akasha/indexes"
 import { ENTRY_PROPERTY, filePropertiesAt } from "@akasha/indexes/entries"
+import { STEM_CEILING } from "@akasha/named-for/page-stem"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages/page-body"
 import { partsOver } from "@akasha/pages/page-entry-writing"
@@ -139,6 +140,15 @@ function shownAs(held: string): string {
   return `${held.length} characters opening \`${held.slice(0, SHOWN).replace(RUN_OF_SPACE, " ")}\``
 }
 
+export function slugRefused(slug: string): string | null {
+  if (slug.length <= STEM_CEILING) return null
+  return (
+    `this names a page whose slug is ${shownAs(slug)}, past the ${STEM_CEILING} characters a ` +
+    `page's slug holds. A name minted from text is shortened where it is minted, because only ` +
+    `what minted it knows which words may go.`
+  )
+}
+
 function offAName(held: string): boolean {
   for (let at = 0; at < held.length; at += 1) {
     if ((held.codePointAt(at) ?? NAME_TAKES) < NAME_TAKES) return true
@@ -176,6 +186,8 @@ export function endingRefused(
 }
 
 export function composedFor(root: string, named: Naming): Composed {
+  const tooLong = slugRefused(named.slug)
+  if (tooLong !== null) return { refused: tooLong }
   const typed = listedAt(root, PAGE_TYPE, named.pageTypeSlug)
   const typeAt = typed.length === 1 ? typed[0]?.path : undefined
   if (typeAt === undefined) {

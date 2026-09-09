@@ -9,6 +9,7 @@ import {
   folderFor,
   orderedIn,
   pathFor,
+  slugRefused,
 } from "./page-composing.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..", "..")
@@ -368,6 +369,41 @@ test("a merge into a page the index does not hold composes that page as a new on
   const said = foldedFor(ROOT, [{ ...DEFINER, slug: "held-one", merge: true }])
   expect("puts" in said && said.puts[0]?.path).toBe("roles/pages/held-one.role.ts")
   expect("puts" in said && said.puts[0]?.content).not.toContain("id:")
+})
+
+const AT_THE_LENGTH = `held-${"a".repeat(95)}`
+
+const PAST_THE_LENGTH = `held-${"a".repeat(96)}`
+
+test("a slug inside the length a page's slug holds is no refusal", () => {
+  expect(slugRefused("held-one")).toBeNull()
+  expect(AT_THE_LENGTH.length).toBe(100)
+  expect(slugRefused(AT_THE_LENGTH)).toBeNull()
+})
+
+test("a slug at the length a page's slug holds composes", () => {
+  const said = foldedFor(ROOT, [{ ...DEFINER, slug: AT_THE_LENGTH }])
+  expect("refused" in said).toBe(false)
+  expect("puts" in said && said.puts[0]?.path).toBe(`roles/pages/${AT_THE_LENGTH}.role.ts`)
+})
+
+test("a slug one character past that length is refused", () => {
+  expect(PAST_THE_LENGTH.length).toBe(101)
+  const said = slugRefused(PAST_THE_LENGTH)
+  expect(said).toContain("101 characters")
+  expect(said).toContain("100 characters a page's slug holds")
+})
+
+test("a page whose slug runs past that length composes into nothing", () => {
+  const said = foldedFor(ROOT, [{ ...DEFINER, slug: PAST_THE_LENGTH }])
+  expect("refused" in said && said.refused).toContain("101 characters")
+})
+
+test("a slug past the length is refused before its page type is looked for", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "no-such-type", slug: PAST_THE_LENGTH, values: {} },
+  ])
+  expect("refused" in said && said.refused).toContain("101 characters")
 })
 
 test("a merge is refused for a key the page type declares no property for", () => {

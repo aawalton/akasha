@@ -101,6 +101,18 @@ export const pageComposing = {
       statement: "A page has the slug the caller named.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A slug past the hundred characters a page's slug holds is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That slug is refused before the page type it names is looked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug past that length is refused rather than shortened.",
+    },
+    {
       invariantKind: "departure",
       statement: "A page the index already has keeps the identity the page has.",
     },
