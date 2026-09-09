@@ -10,7 +10,7 @@ export const identifierNamesOnePage = {
   runsOnPatch: true,
   runsOnWorktree: true,
   runsOnDeploy: true,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
