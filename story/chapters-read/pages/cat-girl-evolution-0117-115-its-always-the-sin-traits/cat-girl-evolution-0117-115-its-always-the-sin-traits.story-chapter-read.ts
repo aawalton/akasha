@@ -8,7 +8,7 @@ export const catGirlEvolution0117115ItsAlwaysTheSinTraits = {
   story: "cat-girl-evolution",
   position: 117,
   ownLength: 2541,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3284129/115-its-always-the-sin-traits",

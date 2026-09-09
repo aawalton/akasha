@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0028162ConvictionOfAGiantess = {
   position: 28,
   ownLength: 3452,
   ownProgress: 3452,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:34.043Z",
   publishedAt: "2026-01-10",
   externalLink:

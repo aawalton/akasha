@@ -8,7 +8,7 @@ export const catGirlEvolution0158155MeatPies = {
   story: "cat-girl-evolution",
   position: 158,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3875662/155-meat-pies",

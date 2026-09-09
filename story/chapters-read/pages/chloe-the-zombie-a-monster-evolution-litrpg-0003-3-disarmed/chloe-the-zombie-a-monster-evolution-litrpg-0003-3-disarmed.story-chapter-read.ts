@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00033Disarmed = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 3,
   ownLength: 2452,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525508/3-disarmed",

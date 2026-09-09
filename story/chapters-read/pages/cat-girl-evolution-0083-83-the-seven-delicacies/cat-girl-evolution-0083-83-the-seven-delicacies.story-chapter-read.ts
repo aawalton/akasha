@@ -8,7 +8,7 @@ export const catGirlEvolution008383TheSevenDelicacies = {
   story: "cat-girl-evolution",
   position: 83,
   ownLength: 2331,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3000872/83-the-seven-delicacies",

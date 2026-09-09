@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0026NotAChapterB4EpubAvailableOnPatreonFor8MoreHo
   story: "story-read/bunny-girl-evolution",
   position: 26,
   ownLength: 117,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3789484/not-a-chapter-b4-epub-available-on-patreon-for",

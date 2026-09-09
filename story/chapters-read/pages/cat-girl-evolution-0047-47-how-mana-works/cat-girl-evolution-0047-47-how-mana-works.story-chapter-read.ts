@@ -8,7 +8,7 @@ export const catGirlEvolution004747HowManaWorks = {
   story: "cat-girl-evolution",
   position: 47,
   ownLength: 2878,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-09",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2745177/47-how-mana-works",

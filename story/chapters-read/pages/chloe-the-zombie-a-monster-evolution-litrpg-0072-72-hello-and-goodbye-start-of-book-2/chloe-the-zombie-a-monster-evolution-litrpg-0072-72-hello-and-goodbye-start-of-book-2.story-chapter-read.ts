@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBo
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 72,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2774786/72-hello-and-goodbye-start-of-book-2",

@@ -8,7 +8,7 @@ export const catGirlEvolution003333ClassUpgrade = {
   story: "cat-girl-evolution",
   position: 33,
   ownLength: 3488,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2660089/33-class-upgrade",

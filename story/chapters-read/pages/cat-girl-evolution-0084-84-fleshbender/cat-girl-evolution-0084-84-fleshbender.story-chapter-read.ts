@@ -8,7 +8,7 @@ export const catGirlEvolution008484Fleshbender = {
   story: "cat-girl-evolution",
   position: 84,
   ownLength: 2895,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3010928/84-fleshbender",

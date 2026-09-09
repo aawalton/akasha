@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0022156TypesOfNatureMagic = {
   position: 22,
   ownLength: 3264,
   ownProgress: 3264,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:22.387Z",
   publishedAt: "2025-12-20",
   externalLink:

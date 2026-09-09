@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007171SurpriseReunionEndOfBook
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 71,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2768855/71-surprise-reunion-end-of-book-1",

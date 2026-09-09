@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003131TheInstructor = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 31,
   ownLength: 2364,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-15",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2602307/31-the-instructor",

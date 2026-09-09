@@ -8,7 +8,7 @@ export const catGirlEvolution0157154PeopleWatcher = {
   story: "cat-girl-evolution",
   position: 157,
   ownLength: 2540,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3866367/154-people-watcher",

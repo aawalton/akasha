@@ -8,7 +8,7 @@ export const catGirlEvolution008787DemonQueenYona = {
   story: "cat-girl-evolution",
   position: 87,
   ownLength: 2300,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-11",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3035367/87-demon-queen-yona",

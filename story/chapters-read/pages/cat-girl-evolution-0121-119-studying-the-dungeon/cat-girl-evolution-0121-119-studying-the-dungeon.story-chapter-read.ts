@@ -8,7 +8,7 @@ export const catGirlEvolution0121119StudyingTheDungeon = {
   story: "cat-girl-evolution",
   position: 121,
   ownLength: 2434,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3323595/119-studying-the-dungeon",

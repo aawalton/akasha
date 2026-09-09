@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009191WisdomOfASage = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 91,
   ownLength: 2077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2876425/91-wisdom-of-a-sage",

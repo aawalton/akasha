@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0035169PreliminaryDungeonCompetitionTeam = {
   position: 35,
   ownLength: 3933,
   ownProgress: 3933,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:47.425Z",
   publishedAt: "2026-02-03",
   externalLink:

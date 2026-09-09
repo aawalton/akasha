@@ -8,7 +8,7 @@ export const catGirlEvolution003434SpecialFlavor = {
   story: "cat-girl-evolution",
   position: 34,
   ownLength: 3104,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2665162/34-special-flavor",

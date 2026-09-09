@@ -8,7 +8,7 @@ export const catGirlEvolution004646NewMinionsAcquired = {
   story: "cat-girl-evolution",
   position: 46,
   ownLength: 2394,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2739609/46-new-minions-acquired",

@@ -8,7 +8,7 @@ export const catGirlEvolution001818NamedMonster = {
   story: "cat-girl-evolution",
   position: 18,
   ownLength: 3469,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2569650/18-named-monster",

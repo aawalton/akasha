@@ -8,7 +8,7 @@ export const catGirlEvolution006060GirlsNight = {
   story: "cat-girl-evolution",
   position: 60,
   ownLength: 2359,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2834843/60-girls-night",

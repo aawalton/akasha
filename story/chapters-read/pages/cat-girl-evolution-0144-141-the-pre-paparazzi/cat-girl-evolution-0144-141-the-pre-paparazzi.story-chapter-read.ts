@@ -8,7 +8,7 @@ export const catGirlEvolution0144141ThePrePaparazzi = {
   story: "cat-girl-evolution",
   position: 144,
   ownLength: 2464,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3709523/141-the-pre-paparazzi",

@@ -8,7 +8,7 @@ export const catGirlEvolution005757AuraFarming = {
   story: "cat-girl-evolution",
   position: 57,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-03",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2814306/57-aura-farming",

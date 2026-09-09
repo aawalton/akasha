@@ -8,7 +8,7 @@ export const catGirlEvolution00044Abby = {
   story: "cat-girl-evolution",
   position: 4,
   ownLength: 2247,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525509/4-abby",

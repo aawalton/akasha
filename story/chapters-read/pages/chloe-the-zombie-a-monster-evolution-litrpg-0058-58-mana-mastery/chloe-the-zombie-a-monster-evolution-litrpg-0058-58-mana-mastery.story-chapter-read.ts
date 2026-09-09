@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005858ManaMastery = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 58,
   ownLength: 2106,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2706208/58-mana-mastery",

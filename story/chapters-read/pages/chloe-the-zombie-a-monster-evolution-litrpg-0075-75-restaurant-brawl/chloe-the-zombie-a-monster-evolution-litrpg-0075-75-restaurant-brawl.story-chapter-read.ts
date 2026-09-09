@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007575RestaurantBrawl = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 75,
   ownLength: 1916,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-24",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2788805/75-restaurant-brawl",

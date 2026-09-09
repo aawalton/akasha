@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0061193GloopAndShirtFriends = {
   story: "story-read/bunny-girl-evolution",
   position: 61,
   ownLength: 3920,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3327941/193-gloop-and-shirt-friends",

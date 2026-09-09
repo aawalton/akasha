@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002727ExplosivePower = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 27,
   ownLength: 2303,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2587412/27-explosive-power",

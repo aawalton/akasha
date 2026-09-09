@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001313GreenBits = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 13,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2536137/13-green-bits",

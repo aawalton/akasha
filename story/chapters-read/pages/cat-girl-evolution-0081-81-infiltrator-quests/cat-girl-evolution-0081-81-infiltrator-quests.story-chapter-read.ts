@@ -8,7 +8,7 @@ export const catGirlEvolution008181InfiltratorQuests = {
   story: "cat-girl-evolution",
   position: 81,
   ownLength: 2641,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2990015/81-infiltrator-quests",

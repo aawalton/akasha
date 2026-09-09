@@ -8,7 +8,7 @@ export const catGirlEvolution0116114ToldYouSo = {
   story: "cat-girl-evolution",
   position: 116,
   ownLength: 2378,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3275718/114-told-you-so",

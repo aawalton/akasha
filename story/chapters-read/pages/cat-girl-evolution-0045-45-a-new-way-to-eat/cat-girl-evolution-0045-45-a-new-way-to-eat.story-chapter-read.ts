@@ -8,7 +8,7 @@ export const catGirlEvolution004545ANewWayToEat = {
   story: "cat-girl-evolution",
   position: 45,
   ownLength: 3030,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2733747/45-a-new-way-to-eat",

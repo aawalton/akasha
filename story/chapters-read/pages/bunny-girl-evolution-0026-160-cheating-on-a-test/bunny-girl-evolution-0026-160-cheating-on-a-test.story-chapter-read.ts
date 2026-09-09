@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0026160CheatingOnATest = {
   position: 26,
   ownLength: 3757,
   ownProgress: 3757,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:30.177Z",
   publishedAt: "2026-01-03",
   externalLink:

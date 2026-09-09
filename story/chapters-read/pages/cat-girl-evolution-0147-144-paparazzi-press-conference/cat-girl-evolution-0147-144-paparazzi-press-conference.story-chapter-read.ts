@@ -8,7 +8,7 @@ export const catGirlEvolution0147144PaparazziPressConference = {
   story: "cat-girl-evolution",
   position: 147,
   ownLength: 2537,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3740398/144-paparazzi-press-conference",

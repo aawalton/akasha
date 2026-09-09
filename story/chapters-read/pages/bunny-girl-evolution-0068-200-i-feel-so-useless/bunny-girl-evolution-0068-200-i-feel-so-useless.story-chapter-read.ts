@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0068200IFeelSoUseless = {
   story: "story-read/bunny-girl-evolution",
   position: 68,
   ownLength: 3920,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3435155/200-i-feel-so-useless",

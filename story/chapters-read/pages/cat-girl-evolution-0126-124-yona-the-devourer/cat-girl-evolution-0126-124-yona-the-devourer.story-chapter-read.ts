@@ -8,7 +8,7 @@ export const catGirlEvolution0126124YonaTheDevourer = {
   story: "cat-girl-evolution",
   position: 126,
   ownLength: 2656,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3369558/124-yona-the-devourer",

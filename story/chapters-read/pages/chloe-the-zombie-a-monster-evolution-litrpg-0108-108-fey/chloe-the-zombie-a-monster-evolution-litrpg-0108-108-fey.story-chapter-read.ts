@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0108108Fey = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 108,
   ownLength: 1826,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-02",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3004978/108-fey",

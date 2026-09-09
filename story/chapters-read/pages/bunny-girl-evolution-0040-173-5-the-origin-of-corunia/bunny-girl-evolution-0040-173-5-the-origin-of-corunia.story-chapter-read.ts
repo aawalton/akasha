@@ -9,7 +9,7 @@ export const bunnyGirlEvolution00401735TheOriginOfCorunia = {
   position: 40,
   ownLength: 1089,
   ownProgress: 1089,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:57.094Z",
   publishedAt: "2026-02-21",
   externalLink:

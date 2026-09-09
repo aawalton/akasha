@@ -8,7 +8,7 @@ export const catGirlEvolution0108106Hypothetically = {
   story: "cat-girl-evolution",
   position: 108,
   ownLength: 2728,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3208075/106-hypothetically",

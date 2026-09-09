@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006060Anger = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 60,
   ownLength: 2076,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2714310/60-anger",

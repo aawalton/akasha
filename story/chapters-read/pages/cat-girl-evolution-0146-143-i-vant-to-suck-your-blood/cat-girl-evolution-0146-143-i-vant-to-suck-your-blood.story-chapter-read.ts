@@ -8,7 +8,7 @@ export const catGirlEvolution0146143IVantToSuckYourBlood = {
   story: "cat-girl-evolution",
   position: 146,
   ownLength: 3135,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3731286/143-i-vant-to-suck-your-blood",

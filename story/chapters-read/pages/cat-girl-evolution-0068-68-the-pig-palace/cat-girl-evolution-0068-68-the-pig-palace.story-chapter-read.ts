@@ -8,7 +8,7 @@ export const catGirlEvolution006868ThePigPalace = {
   story: "cat-girl-evolution",
   position: 68,
   ownLength: 2840,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2886700/68-the-pig-palace",

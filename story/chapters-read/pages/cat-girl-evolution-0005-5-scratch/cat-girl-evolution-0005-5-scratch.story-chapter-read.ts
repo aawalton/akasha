@@ -8,7 +8,7 @@ export const catGirlEvolution00055Scratch = {
   story: "cat-girl-evolution",
   position: 5,
   ownLength: 1793,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525538/5-scratch",

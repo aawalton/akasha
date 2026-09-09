@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0037171SophieInTheDungeon = {
   position: 37,
   ownLength: 3419,
   ownProgress: 3419,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:51.280Z",
   publishedAt: "2026-02-10",
   externalLink:

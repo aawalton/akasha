@@ -8,7 +8,7 @@ export const catGirlEvolution0150147SpaceFrogs = {
   story: "cat-girl-evolution",
   position: 150,
   ownLength: 2437,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3794040/147-space-frogs",

@@ -8,7 +8,7 @@ export const catGirlEvolution0113111OperationGetAdopted = {
   story: "cat-girl-evolution",
   position: 113,
   ownLength: 2674,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3246656/111-operation-get-adopted",

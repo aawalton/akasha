@@ -7,7 +7,7 @@ export const bunnyGirlEvolution0033221EliseGetsANewRoommate = {
   story: "story-read/bunny-girl-evolution",
   position: 33,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3914677",
   source: "royal-road",
   title: "221 - Elise Gets a New Roommate",

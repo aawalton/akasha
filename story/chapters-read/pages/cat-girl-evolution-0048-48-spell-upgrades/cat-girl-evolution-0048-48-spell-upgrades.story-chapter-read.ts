@@ -8,7 +8,7 @@ export const catGirlEvolution004848SpellUpgrades = {
   story: "cat-girl-evolution",
   position: 48,
   ownLength: 1984,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-12",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2753836/48-spell-upgrades",

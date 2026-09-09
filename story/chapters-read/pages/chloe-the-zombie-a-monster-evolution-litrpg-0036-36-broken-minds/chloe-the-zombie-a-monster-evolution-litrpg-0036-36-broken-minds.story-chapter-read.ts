@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003636BrokenMinds = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 36,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-22",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2620153/36-broken-minds",

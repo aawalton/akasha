@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0045178TheMysteriousRedHerring = {
   story: "story-read/bunny-girl-evolution",
   position: 45,
   ownLength: 3538,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3128846/178-the-mysterious-red-herring",

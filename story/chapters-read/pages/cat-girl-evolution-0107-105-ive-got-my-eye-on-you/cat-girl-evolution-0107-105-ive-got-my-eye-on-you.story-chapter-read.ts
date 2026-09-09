@@ -8,7 +8,7 @@ export const catGirlEvolution0107105IveGotMyEyeOnYou = {
   story: "cat-girl-evolution",
   position: 107,
   ownLength: 2192,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3202657/105-ive-got-my-eye-on-you",

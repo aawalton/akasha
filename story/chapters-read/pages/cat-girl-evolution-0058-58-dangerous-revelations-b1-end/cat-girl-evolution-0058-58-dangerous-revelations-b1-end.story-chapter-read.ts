@@ -8,7 +8,7 @@ export const catGirlEvolution005858DangerousRevelationsB1End = {
   story: "cat-girl-evolution",
   position: 58,
   ownLength: 2593,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-05",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2820331/58-dangerous-revelations-b1-end",

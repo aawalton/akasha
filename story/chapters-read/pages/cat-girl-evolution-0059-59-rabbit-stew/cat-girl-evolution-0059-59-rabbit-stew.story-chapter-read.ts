@@ -8,7 +8,7 @@ export const catGirlEvolution005959RabbitStew = {
   story: "cat-girl-evolution",
   position: 59,
   ownLength: 2104,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2826414/59-rabbit-stew",

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009090TheTrialsOfChloeIii = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 90,
   ownLength: 1956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-22",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2870139/90-the-trials-of-chloe-iii",

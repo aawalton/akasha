@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0067199GatheringOfOldFriends = {
   story: "story-read/bunny-girl-evolution",
   position: 67,
   ownLength: 3003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3417245/199-gathering-of-old-friends",

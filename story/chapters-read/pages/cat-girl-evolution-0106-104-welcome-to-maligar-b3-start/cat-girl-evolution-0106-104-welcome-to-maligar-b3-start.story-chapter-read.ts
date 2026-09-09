@@ -8,7 +8,7 @@ export const catGirlEvolution0106104WelcomeToMaligarB3Start = {
   story: "cat-girl-evolution",
   position: 106,
   ownLength: 2586,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3194934/104-welcome-to-maligar-b3-start",

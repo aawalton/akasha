@@ -8,7 +8,7 @@ export const catGirlEvolution003232Lauren = {
   story: "cat-girl-evolution",
   position: 32,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-05",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2652720/32-lauren",

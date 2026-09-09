@@ -8,7 +8,7 @@ export const catGirlEvolution004242CookingLesson = {
   story: "cat-girl-evolution",
   position: 42,
   ownLength: 2617,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2713467/42-cooking-lesson",

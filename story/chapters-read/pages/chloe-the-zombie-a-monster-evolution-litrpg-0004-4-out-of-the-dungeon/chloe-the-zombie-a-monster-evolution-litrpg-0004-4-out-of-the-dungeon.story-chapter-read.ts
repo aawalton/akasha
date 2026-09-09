@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00044OutOfTheDungeon = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 4,
   ownLength: 1822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525515/4-out-of-the-dungeon",

@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0043176SuperFunTripsBegin = {
   position: 43,
   ownLength: 3844,
   ownProgress: 3844,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:04:02.778Z",
   publishedAt: "2026-02-28",
   externalLink:

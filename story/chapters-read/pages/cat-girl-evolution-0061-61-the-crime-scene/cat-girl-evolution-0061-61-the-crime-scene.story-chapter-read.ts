@@ -8,7 +8,7 @@ export const catGirlEvolution006161TheCrimeScene = {
   story: "cat-girl-evolution",
   position: 61,
   ownLength: 2579,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-12",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2840716/61-the-crime-scene",

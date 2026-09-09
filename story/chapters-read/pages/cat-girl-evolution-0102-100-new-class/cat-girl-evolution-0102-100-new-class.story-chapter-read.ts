@@ -8,7 +8,7 @@ export const catGirlEvolution0102100NewClass = {
   story: "cat-girl-evolution",
   position: 102,
   ownLength: 2653,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3168353/100-new-class",

@@ -8,7 +8,7 @@ export const catGirlEvolution006767DungeonRewards = {
   story: "cat-girl-evolution",
   position: 67,
   ownLength: 2561,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2881087/67-dungeon-rewards",

@@ -8,7 +8,7 @@ export const catGirlEvolution0155152HeistPrep = {
   story: "cat-girl-evolution",
   position: 155,
   ownLength: 2958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3842087/152-heist-prep",

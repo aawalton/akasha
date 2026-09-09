@@ -8,7 +8,7 @@ export const catGirlEvolution008282Cecilia = {
   story: "cat-girl-evolution",
   position: 82,
   ownLength: 2987,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-30",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2993689/82-cecilia",

@@ -8,7 +8,7 @@ export const catGirlEvolution0123121YonaTheGenius = {
   story: "cat-girl-evolution",
   position: 123,
   ownLength: 2289,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3339778/121-yona-the-genius",

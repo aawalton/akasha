@@ -8,7 +8,7 @@ export const catGirlEvolution009191Winter1 = {
   story: "cat-girl-evolution",
   position: 91,
   ownLength: 2013,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-20",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3073391/91-winter-1",

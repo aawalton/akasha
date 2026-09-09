@@ -8,7 +8,7 @@ export const catGirlEvolution006565ANewDungeonType = {
   story: "cat-girl-evolution",
   position: 65,
   ownLength: 3002,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-21",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2866564/65-a-new-dungeon-type",

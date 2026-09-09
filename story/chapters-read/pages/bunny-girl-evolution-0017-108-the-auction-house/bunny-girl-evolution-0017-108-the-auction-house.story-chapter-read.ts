@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0017108TheAuctionHouse = {
   position: 17,
   ownLength: 2708,
   ownProgress: 2708,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:12.556Z",
   publishedAt: "2025-06-21",
   externalLink:

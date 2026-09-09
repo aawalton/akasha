@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0071202IMImmuneToHandcuffs = {
   story: "story-read/bunny-girl-evolution",
   position: 71,
   ownLength: 3253,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3597787/202-im-immune-to-handcuffs",

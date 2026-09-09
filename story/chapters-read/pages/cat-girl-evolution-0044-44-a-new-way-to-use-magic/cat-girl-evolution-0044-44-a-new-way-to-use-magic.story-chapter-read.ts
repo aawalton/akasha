@@ -8,7 +8,7 @@ export const catGirlEvolution004444ANewWayToUseMagic = {
   story: "cat-girl-evolution",
   position: 44,
   ownLength: 2442,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-02",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2724967/44-a-new-way-to-use-magic",

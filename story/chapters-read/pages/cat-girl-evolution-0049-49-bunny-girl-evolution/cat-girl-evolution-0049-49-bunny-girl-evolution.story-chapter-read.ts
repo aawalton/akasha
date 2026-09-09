@@ -8,7 +8,7 @@ export const catGirlEvolution004949BunnyGirlEvolution = {
   story: "cat-girl-evolution",
   position: 49,
   ownLength: 2592,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-14",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2759511/49-bunny-girl-evolution",

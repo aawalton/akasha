@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0066198SuperSecretSecretParty = {
   story: "story-read/bunny-girl-evolution",
   position: 66,
   ownLength: 3286,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3402655/198-super-secret-secret-party",

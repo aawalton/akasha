@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004343YnettTheWhiteWitch = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 43,
   ownLength: 2242,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2643659/43-ynett-the-white-witch",

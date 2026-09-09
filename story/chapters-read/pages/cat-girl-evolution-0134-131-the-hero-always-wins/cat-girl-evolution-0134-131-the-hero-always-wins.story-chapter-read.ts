@@ -8,7 +8,7 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   story: "cat-girl-evolution",
   position: 134,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3582982/131-the-hero-always-wins",

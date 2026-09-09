@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0060192FriendsHelpEachOther = {
   story: "story-read/bunny-girl-evolution",
   position: 60,
   ownLength: 3192,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3316383/192-friends-help-each-other",

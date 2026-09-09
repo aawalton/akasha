@@ -8,7 +8,7 @@ export const catGirlEvolution007373ProfessionUpgrade = {
   story: "cat-girl-evolution",
   position: 73,
   ownLength: 2281,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2925640/73-profession-upgrade",

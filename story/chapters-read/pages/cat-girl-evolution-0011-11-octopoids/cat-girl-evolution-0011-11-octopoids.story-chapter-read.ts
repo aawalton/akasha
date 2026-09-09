@@ -8,7 +8,7 @@ export const catGirlEvolution001111Octopoids = {
   story: "cat-girl-evolution",
   position: 11,
   ownLength: 2407,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2529399/11-octopoids",

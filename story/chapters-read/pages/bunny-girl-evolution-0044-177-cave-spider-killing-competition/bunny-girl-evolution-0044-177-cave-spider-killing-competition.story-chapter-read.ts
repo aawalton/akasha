@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   position: 44,
   ownLength: 3244,
   ownProgress: 419,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3110914/177-cave-spider-killing-competition",

@@ -8,7 +8,7 @@ export const catGirlEvolution008585GuildInvestigator = {
   story: "cat-girl-evolution",
   position: 85,
   ownLength: 3142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-06",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3017485/85-guild-investigator",

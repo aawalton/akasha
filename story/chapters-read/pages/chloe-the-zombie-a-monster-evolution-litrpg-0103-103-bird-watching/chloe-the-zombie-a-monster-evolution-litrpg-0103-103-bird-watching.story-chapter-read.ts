@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0103103BirdWatching = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 103,
   ownLength: 1998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2964518/103-bird-watching",

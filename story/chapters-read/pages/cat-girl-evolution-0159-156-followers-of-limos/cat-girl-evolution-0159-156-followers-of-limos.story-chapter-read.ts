@@ -8,7 +8,7 @@ export const catGirlEvolution0159156FollowersOfLimos = {
   story: "cat-girl-evolution",
   position: 159,
   ownLength: 1758,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3888755/156-followers-of-limos",

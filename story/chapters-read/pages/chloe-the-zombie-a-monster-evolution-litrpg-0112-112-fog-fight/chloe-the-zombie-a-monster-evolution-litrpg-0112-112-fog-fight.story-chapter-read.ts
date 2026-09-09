@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0112112FogFight = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 112,
   ownLength: 1902,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-11",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3036604/112-fog-fight",

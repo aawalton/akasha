@@ -8,7 +8,7 @@ export const catGirlEvolution0160157ChildrenOfLimos = {
   story: "cat-girl-evolution",
   position: 160,
   ownLength: 1680,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3899067/157-children-of-limos",

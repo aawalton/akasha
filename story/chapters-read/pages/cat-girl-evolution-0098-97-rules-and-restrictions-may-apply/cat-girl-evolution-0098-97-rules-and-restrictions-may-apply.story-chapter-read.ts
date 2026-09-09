@@ -8,7 +8,7 @@ export const catGirlEvolution009897RulesAndRestrictionsMayApply = {
   story: "cat-girl-evolution",
   position: 98,
   ownLength: 2914,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3125819/97-rules-and-restrictions-may-apply",

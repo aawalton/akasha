@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008686Remnants = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 86,
   ownLength: 1890,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2847264/86-remnants",

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0032220AnIntroductionToSpellConstructs = {
   story: "story-read/bunny-girl-evolution",
   position: 32,
   ownLength: 2777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3894268/220-an-introduction-to-spell-constructs",

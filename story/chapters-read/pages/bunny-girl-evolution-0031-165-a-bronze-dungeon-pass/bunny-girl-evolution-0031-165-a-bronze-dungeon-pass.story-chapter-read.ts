@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0031165ABronzeDungeonPass = {
   position: 31,
   ownLength: 3040,
   ownProgress: 3040,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:39.716Z",
   publishedAt: "2026-01-20",
   externalLink:

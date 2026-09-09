@@ -8,7 +8,7 @@ export const catGirlEvolution004040LizardDungeon = {
   story: "cat-girl-evolution",
   position: 40,
   ownLength: 2898,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2700508/40-lizard-dungeon",

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005656OddBehavior = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 56,
   ownLength: 1969,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2696429/56-odd-behavior",

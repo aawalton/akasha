@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002424CaveTerror = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 24,
   ownLength: 1944,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2573912/24-cave-terror",

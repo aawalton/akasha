@@ -8,7 +8,7 @@ export const catGirlEvolution0119117GrowthThroughDevouring = {
   story: "cat-girl-evolution",
   position: 119,
   ownLength: 3430,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3303710/117-growth-through-devouring",

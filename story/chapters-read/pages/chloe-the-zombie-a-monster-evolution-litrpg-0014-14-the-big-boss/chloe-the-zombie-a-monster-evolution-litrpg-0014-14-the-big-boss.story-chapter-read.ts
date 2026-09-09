@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001414TheBigBoss = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 14,
   ownLength: 2117,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2538820/14-the-big-boss",

@@ -8,7 +8,7 @@ export const catGirlEvolution0125123EscapingTheLabyrinth = {
   story: "cat-girl-evolution",
   position: 125,
   ownLength: 2102,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3361215/123-escaping-the-labyrinth",

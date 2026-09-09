@@ -8,7 +8,7 @@ export const catGirlEvolution0130128GluttonyWantsJoakim = {
   story: "cat-girl-evolution",
   position: 130,
   ownLength: 2364,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3412565/128-gluttony-wants-joakim",

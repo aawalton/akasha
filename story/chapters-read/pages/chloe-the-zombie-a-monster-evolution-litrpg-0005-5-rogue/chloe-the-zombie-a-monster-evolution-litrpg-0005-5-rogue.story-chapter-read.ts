@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00055Rogue = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 5,
   ownLength: 2362,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525527/5-rogue",

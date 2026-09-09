@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001616TimeOfPeace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 16,
   ownLength: 2191,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2546692/16-time-of-peace",

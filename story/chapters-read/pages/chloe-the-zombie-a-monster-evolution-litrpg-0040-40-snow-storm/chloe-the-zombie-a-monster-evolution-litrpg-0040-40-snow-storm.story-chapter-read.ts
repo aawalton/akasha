@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004040SnowStorm = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 40,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2630760/40-snow-storm",

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009393TheBestReward = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 93,
   ownLength: 1803,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-29",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2890010/93-the-best-reward",

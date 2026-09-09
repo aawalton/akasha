@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009292ThreeHeadedMenace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 92,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-26",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2882018/92-three-headed-menace",

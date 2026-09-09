@@ -8,7 +8,7 @@ export const catGirlEvolution0112110NotAPlague = {
   story: "cat-girl-evolution",
   position: 112,
   ownLength: 2492,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-06",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3237685/110-not-a-plague",

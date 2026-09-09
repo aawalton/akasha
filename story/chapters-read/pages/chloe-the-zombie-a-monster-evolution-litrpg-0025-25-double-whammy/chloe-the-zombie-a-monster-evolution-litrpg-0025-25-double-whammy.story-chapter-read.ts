@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002525DoubleWhammy = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 25,
   ownLength: 2006,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2576650/25-double-whammy",

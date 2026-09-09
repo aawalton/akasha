@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0018109FreedomFunFey = {
   position: 18,
   ownLength: 3118,
   ownProgress: 3118,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:14.601Z",
   publishedAt: "2025-06-24",
   externalLink:

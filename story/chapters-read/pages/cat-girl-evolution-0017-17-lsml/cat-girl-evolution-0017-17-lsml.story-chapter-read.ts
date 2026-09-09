@@ -8,7 +8,7 @@ export const catGirlEvolution001717Lsml = {
   story: "cat-girl-evolution",
   position: 17,
   ownLength: 2259,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2559486/17-lsml",

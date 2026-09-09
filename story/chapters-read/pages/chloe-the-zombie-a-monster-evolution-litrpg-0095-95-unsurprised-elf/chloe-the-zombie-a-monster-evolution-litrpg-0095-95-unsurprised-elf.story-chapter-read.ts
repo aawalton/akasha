@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009595UnsurprisedElf = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 95,
   ownLength: 1986,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-02",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2905284/95-unsurprised-elf",

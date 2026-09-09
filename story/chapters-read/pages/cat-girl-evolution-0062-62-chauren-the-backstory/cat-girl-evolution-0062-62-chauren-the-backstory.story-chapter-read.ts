@@ -8,7 +8,7 @@ export const catGirlEvolution006262ChaurenTheBackstory = {
   story: "cat-girl-evolution",
   position: 62,
   ownLength: 2758,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2846439/62-chauren-the-backstory",

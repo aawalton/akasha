@@ -8,7 +8,7 @@ export const catGirlEvolution006666TheFieldBoss = {
   story: "cat-girl-evolution",
   position: 66,
   ownLength: 3060,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2875445/66-the-field-boss",

@@ -8,7 +8,7 @@ export const catGirlEvolution0128126Catfight = {
   story: "cat-girl-evolution",
   position: 128,
   ownLength: 2300,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3389475/126-catfight",

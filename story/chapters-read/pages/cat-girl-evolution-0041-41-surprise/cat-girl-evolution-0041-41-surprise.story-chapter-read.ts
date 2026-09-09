@@ -8,7 +8,7 @@ export const catGirlEvolution004141Surprise = {
   story: "cat-girl-evolution",
   position: 41,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2705498/41-surprise",

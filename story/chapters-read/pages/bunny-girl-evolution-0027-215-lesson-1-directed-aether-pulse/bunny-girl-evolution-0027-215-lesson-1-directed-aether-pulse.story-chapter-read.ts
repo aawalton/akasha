@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0027215Lesson1DirectedAetherPulse = {
   story: "story-read/bunny-girl-evolution",
   position: 27,
   ownLength: 2913,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3816620/215-lesson-1-directed-aether-pulse",

@@ -8,7 +8,7 @@ export const catGirlEvolution003636TearfulReunion = {
   story: "cat-girl-evolution",
   position: 36,
   ownLength: 2904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-15",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2677705/36-tearful-reunion",

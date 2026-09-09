@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002929TrialAndError = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 29,
   ownLength: 2411,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2592633/29-trial-and-error",

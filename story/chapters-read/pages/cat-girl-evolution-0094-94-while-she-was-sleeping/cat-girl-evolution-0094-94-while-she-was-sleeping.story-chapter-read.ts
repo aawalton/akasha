@@ -8,7 +8,7 @@ export const catGirlEvolution009494WhileSheWasSleeping = {
   story: "cat-girl-evolution",
   position: 94,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-27",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3097233/94-while-she-was-sleeping",

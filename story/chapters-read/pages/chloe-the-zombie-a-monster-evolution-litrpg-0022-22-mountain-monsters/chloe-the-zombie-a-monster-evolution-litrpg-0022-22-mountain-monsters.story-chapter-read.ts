@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002222MountainMonsters = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 22,
   ownLength: 2298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2568379/22-mountain-monsters",

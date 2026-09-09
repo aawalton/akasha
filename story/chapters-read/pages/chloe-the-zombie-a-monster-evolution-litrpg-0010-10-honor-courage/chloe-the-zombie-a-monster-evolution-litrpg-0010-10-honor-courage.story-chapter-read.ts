@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001010HonorCourage = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 10,
   ownLength: 1806,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2528114/10-honor-courage",

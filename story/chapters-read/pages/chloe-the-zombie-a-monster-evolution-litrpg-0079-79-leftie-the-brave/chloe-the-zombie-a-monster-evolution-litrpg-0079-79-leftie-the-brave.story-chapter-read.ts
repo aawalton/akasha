@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007979LeftieTheBrave = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 79,
   ownLength: 2061,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2809048/79-leftie-the-brave",

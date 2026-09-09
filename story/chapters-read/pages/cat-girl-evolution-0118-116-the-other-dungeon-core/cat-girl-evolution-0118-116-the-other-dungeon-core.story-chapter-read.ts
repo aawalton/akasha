@@ -8,7 +8,7 @@ export const catGirlEvolution0118116TheOtherDungeonCore = {
   story: "cat-girl-evolution",
   position: 118,
   ownLength: 2380,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3295276/116-the-other-dungeon-core",

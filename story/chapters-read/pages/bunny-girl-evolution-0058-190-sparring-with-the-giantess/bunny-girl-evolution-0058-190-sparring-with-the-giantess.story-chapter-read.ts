@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0058190SparringWithTheGiantess = {
   story: "story-read/bunny-girl-evolution",
   position: 58,
   ownLength: 3303,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3288502/190-sparring-with-the-giantess",

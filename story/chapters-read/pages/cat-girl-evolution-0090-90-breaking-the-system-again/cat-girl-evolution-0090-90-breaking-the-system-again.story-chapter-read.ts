@@ -8,7 +8,7 @@ export const catGirlEvolution009090BreakingTheSystemAgain = {
   story: "cat-girl-evolution",
   position: 90,
   ownLength: 2638,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3066977/90-breaking-the-system-again",

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004545HeadlongRush = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 45,
   ownLength: 2101,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2649031/45-headlong-rush",

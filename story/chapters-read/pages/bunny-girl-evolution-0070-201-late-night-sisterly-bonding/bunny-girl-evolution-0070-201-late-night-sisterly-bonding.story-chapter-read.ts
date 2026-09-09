@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0070201LateNightSisterlyBonding = {
   story: "story-read/bunny-girl-evolution",
   position: 70,
   ownLength: 3886,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3578384/201-late-night-sisterly-bonding",

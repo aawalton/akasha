@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006666Sewers = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 66,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-09",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2745882/66-sewers",

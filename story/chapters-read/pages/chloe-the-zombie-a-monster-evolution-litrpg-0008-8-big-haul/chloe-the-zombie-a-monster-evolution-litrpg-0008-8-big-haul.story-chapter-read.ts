@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00088BigHaul = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 8,
   ownLength: 2190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2525565/8-big-haul",

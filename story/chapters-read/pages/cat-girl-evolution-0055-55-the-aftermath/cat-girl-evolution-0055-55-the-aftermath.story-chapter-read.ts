@@ -8,7 +8,7 @@ export const catGirlEvolution005555TheAftermath = {
   story: "cat-girl-evolution",
   position: 55,
   ownLength: 3825,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-27",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2796948/55-the-aftermath",

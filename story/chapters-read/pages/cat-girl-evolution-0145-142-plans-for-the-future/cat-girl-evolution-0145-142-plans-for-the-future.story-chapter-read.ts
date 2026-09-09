@@ -8,7 +8,7 @@ export const catGirlEvolution0145142PlansForTheFuture = {
   story: "cat-girl-evolution",
   position: 145,
   ownLength: 2965,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3717945/142-plans-for-the-future",

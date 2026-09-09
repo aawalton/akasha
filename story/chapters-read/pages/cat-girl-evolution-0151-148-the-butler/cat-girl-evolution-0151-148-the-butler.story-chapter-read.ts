@@ -8,7 +8,7 @@ export const catGirlEvolution0151148TheButler = {
   story: "cat-girl-evolution",
   position: 151,
   ownLength: 2823,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3803046/148-the-butler",

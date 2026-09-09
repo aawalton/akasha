@@ -8,7 +8,7 @@ export const catGirlEvolution003939SuddenQuest = {
   story: "cat-girl-evolution",
   position: 39,
   ownLength: 1925,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2695447/39-sudden-quest",

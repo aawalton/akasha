@@ -8,7 +8,7 @@ export const catGirlEvolution0141138WereHavingSoftTacosLater = {
   story: "cat-girl-evolution",
   position: 141,
   ownLength: 2873,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3678986/138-were-having-soft-tacos-later",

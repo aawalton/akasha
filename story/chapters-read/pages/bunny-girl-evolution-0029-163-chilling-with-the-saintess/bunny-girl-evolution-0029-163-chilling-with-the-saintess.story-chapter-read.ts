@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0029163ChillingWithTheSaintess = {
   position: 29,
   ownLength: 3412,
   ownProgress: 3412,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:35.842Z",
   publishedAt: "2026-01-13",
   externalLink:

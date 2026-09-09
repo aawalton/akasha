@@ -8,7 +8,7 @@ export const catGirlEvolution003131PrincessYonaTheChosenOne = {
   story: "cat-girl-evolution",
   position: 31,
   ownLength: 2414,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2647650/31-princess-yona-the-chosen-one",

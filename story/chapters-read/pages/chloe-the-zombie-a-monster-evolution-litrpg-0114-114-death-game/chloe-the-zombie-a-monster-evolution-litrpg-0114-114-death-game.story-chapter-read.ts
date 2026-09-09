@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0114114DeathGame = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 114,
   ownLength: 1662,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-16",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3059623/114-death-game",

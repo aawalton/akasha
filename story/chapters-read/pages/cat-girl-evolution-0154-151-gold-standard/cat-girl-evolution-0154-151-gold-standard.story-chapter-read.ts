@@ -8,7 +8,7 @@ export const catGirlEvolution0154151GoldStandard = {
   story: "cat-girl-evolution",
   position: 154,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3833228/151-gold-standard",

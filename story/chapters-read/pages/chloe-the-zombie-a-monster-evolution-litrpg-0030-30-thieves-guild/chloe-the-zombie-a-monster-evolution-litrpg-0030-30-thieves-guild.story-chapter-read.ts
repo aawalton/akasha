@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003030ThievesGuild = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 30,
   ownLength: 2349,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-12",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2595157/30-thieves-guild",

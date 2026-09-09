@@ -8,7 +8,7 @@ export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   story: "cat-girl-evolution",
   position: 133,
   ownLength: 783,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3535253/not-a-chapter-schedule-update-other-news",

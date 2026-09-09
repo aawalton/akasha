@@ -8,7 +8,7 @@ export const catGirlEvolution0135132BecauseImTheChosenOne = {
   story: "cat-girl-evolution",
   position: 135,
   ownLength: 2756,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3592732/132-because-im-the-chosen-one",

@@ -8,7 +8,7 @@ export const catGirlEvolution007979AnnieAreYouOkay = {
   story: "cat-girl-evolution",
   position: 79,
   ownLength: 2266,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2970265/79-annie-are-you-okay",

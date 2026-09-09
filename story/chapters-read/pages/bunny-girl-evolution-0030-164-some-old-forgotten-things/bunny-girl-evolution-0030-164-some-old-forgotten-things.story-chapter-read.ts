@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0030164SomeOldForgottenThings = {
   position: 30,
   ownLength: 2811,
   ownProgress: 2811,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:37.787Z",
   publishedAt: "2026-01-17",
   externalLink:

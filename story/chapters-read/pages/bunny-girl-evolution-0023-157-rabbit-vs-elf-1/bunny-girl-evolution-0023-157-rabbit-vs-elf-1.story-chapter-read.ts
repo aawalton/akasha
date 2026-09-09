@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0023157RabbitVsElf1 = {
   position: 23,
   ownLength: 3507,
   ownProgress: 3507,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:24.305Z",
   publishedAt: "2025-12-23",
   externalLink:

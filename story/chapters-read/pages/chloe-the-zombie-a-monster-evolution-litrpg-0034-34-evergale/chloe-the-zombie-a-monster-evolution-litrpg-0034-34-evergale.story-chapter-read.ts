@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003434Evergale = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 34,
   ownLength: 2077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2610213/34-evergale",

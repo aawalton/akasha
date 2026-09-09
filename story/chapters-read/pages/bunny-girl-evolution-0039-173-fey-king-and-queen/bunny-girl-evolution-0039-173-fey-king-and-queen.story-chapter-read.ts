@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0039173FeyKingAndQueen = {
   position: 39,
   ownLength: 3318,
   ownProgress: 3318,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:55.159Z",
   publishedAt: "2026-02-17",
   externalLink:

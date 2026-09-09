@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004747Disappear = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 47,
   ownLength: 2495,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2658415/47-disappear",

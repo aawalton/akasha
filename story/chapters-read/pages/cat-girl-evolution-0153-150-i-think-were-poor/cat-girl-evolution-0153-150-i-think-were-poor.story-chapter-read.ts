@@ -8,7 +8,7 @@ export const catGirlEvolution0153150IThinkWerePoor = {
   story: "cat-girl-evolution",
   position: 153,
   ownLength: 2172,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3824294/150-i-think-were-poor",

@@ -8,7 +8,7 @@ export const catGirlEvolution007676FoundTheCow = {
   story: "cat-girl-evolution",
   position: 76,
   ownLength: 2370,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-16",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2947820/76-found-the-cow",

@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0065197AGameOfSecrets = {
   story: "story-read/bunny-girl-evolution",
   position: 65,
   ownLength: 2972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3385421/197-a-game-of-secrets",

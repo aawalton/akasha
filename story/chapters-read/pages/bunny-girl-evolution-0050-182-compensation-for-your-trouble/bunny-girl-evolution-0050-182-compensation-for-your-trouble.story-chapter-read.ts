@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0050182CompensationForYourTrouble = {
   story: "story-read/bunny-girl-evolution",
   position: 50,
   ownLength: 3183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3191130/182-compensation-for-your-trouble",

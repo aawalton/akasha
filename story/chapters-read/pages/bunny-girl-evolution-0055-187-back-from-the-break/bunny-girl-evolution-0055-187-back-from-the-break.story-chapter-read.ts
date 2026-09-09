@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0055187BackFromTheBreak = {
   story: "story-read/bunny-girl-evolution",
   position: 55,
   ownLength: 3958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3242253/187-back-from-the-break",

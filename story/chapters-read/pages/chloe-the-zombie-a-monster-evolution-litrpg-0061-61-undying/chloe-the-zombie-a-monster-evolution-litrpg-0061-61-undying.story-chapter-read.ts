@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006161Undying = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 61,
   ownLength: 2018,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2719843/61-undying",

@@ -8,7 +8,7 @@ export const catGirlEvolution0111109TheSecondFloor = {
   story: "cat-girl-evolution",
   position: 111,
   ownLength: 2700,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3225458/109-the-second-floor",

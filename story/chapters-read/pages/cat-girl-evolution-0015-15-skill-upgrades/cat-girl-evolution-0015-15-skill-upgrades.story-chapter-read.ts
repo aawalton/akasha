@@ -8,7 +8,7 @@ export const catGirlEvolution001515SkillUpgrades = {
   story: "cat-girl-evolution",
   position: 15,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2548131/15-skill-upgrades",

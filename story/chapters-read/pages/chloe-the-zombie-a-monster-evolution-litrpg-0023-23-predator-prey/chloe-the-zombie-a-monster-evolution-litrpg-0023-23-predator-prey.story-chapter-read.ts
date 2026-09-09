@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002323PredatorPrey = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 23,
   ownLength: 2295,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2571267/23-predator-prey",

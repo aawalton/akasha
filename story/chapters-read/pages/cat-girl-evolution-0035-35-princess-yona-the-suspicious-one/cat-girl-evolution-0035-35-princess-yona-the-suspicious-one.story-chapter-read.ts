@@ -8,7 +8,7 @@ export const catGirlEvolution003535PrincessYonaTheSuspiciousOne = {
   story: "cat-girl-evolution",
   position: 35,
   ownLength: 2600,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-12",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2670099/35-princess-yona-the-suspicious-one",

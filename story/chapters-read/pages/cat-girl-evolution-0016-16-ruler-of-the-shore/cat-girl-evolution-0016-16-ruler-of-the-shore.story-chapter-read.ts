@@ -8,7 +8,7 @@ export const catGirlEvolution001616RulerOfTheShore = {
   story: "cat-girl-evolution",
   position: 16,
   ownLength: 2211,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2554304/16-ruler-of-the-shore",

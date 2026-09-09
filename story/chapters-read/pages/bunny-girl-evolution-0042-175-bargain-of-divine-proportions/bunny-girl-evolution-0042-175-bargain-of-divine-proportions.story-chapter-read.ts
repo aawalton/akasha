@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0042175BargainOfDivineProportions = {
   position: 42,
   ownLength: 3537,
   ownProgress: 3537,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:04:00.834Z",
   publishedAt: "2026-02-24",
   externalLink:

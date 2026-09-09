@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004242IceBreaker = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 42,
   ownLength: 2478,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2640681/42-ice-breaker",

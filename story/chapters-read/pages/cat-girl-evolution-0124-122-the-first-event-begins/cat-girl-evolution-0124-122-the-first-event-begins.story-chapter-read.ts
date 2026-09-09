@@ -8,7 +8,7 @@ export const catGirlEvolution0124122TheFirstEventBegins = {
   story: "cat-girl-evolution",
   position: 124,
   ownLength: 2386,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3352146/122-the-first-event-begins",

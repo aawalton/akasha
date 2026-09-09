@@ -8,7 +8,7 @@ export const catGirlEvolution010099AGiftFromTheDungeon = {
   story: "cat-girl-evolution",
   position: 100,
   ownLength: 3071,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3142731/99-a-gift-from-the-dungeon",

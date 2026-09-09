@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0053185TheGoodOldDays = {
   story: "story-read/bunny-girl-evolution",
   position: 53,
   ownLength: 3095,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3217162/185-the-good-old-days",

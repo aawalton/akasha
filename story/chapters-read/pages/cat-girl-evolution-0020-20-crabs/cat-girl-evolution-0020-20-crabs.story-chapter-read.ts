@@ -8,7 +8,7 @@ export const catGirlEvolution002020Crabs = {
   story: "cat-girl-evolution",
   position: 20,
   ownLength: 2198,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2581068/20-crabs",

@@ -8,7 +8,7 @@ export const catGirlEvolution0149146WelcomeToDryadil = {
   story: "cat-girl-evolution",
   position: 149,
   ownLength: 2264,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3762207/146-welcome-to-dryadil",

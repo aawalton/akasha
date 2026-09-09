@@ -8,7 +8,7 @@ export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   story: "cat-girl-evolution",
   position: 10,
   ownLength: 2524,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525620/10-a-strange-but-fortuitous-encounter",

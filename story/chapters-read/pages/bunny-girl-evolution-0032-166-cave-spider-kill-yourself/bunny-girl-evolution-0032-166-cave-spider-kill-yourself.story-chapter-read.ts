@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0032166CaveSpiderKillYourself = {
   position: 32,
   ownLength: 3528,
   ownProgress: 3528,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:41.648Z",
   publishedAt: "2026-01-24",
   externalLink:

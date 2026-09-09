@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0036170InTheDungeonTogether = {
   position: 36,
   ownLength: 2863,
   ownProgress: 2863,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:49.353Z",
   publishedAt: "2026-02-07",
   externalLink:

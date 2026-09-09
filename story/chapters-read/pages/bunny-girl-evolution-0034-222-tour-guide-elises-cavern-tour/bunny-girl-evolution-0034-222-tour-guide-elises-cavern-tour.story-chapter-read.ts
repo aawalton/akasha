@@ -7,7 +7,7 @@ export const bunnyGirlEvolution0034222TourGuideElisesCavernTour = {
   story: "story-read/bunny-girl-evolution",
   position: 34,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3928777",
   source: "royal-road",
   title: "222 - Tour Guide Elise's Cavern Tour",

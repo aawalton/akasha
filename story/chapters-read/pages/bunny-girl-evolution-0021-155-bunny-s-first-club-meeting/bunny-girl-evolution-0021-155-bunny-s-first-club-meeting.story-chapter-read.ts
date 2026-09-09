@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0021155BunnySFirstClubMeeting = {
   position: 21,
   ownLength: 2937,
   ownProgress: 2937,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:20.471Z",
   publishedAt: "2025-12-16",
   externalLink:

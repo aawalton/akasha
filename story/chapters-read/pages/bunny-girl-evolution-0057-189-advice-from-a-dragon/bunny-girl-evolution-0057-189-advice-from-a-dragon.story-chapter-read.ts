@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0057189AdviceFromADragon = {
   story: "story-read/bunny-girl-evolution",
   position: 57,
   ownLength: 3654,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-14",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3271403/189-advice-from-a-dragon",

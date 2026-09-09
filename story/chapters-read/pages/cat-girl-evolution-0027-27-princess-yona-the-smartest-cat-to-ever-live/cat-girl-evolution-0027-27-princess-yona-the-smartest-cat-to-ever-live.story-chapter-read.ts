@@ -8,7 +8,7 @@ export const catGirlEvolution002727PrincessYonaTheSmartestCatToEverLive = {
   story: "cat-girl-evolution",
   position: 27,
   ownLength: 2403,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2624408/27-princess-yona-the-smartest-cat-to-ever-live",

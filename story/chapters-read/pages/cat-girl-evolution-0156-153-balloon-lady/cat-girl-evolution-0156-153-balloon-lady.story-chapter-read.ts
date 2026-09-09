@@ -8,7 +8,7 @@ export const catGirlEvolution0156153BalloonLady = {
   story: "cat-girl-evolution",
   position: 156,
   ownLength: 2982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3857080/153-balloon-lady",

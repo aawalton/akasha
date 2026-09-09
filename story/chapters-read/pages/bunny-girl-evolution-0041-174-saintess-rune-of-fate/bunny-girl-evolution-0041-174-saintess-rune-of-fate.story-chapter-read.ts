@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0041174SaintessRuneOfFate = {
   position: 41,
   ownLength: 3538,
   ownProgress: 3538,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:58.913Z",
   publishedAt: "2026-02-21",
   externalLink:

@@ -8,7 +8,7 @@ export const catGirlEvolution0148145WheelOfTraits = {
   story: "cat-girl-evolution",
   position: 148,
   ownLength: 2296,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3749499/145-wheel-of-traits",

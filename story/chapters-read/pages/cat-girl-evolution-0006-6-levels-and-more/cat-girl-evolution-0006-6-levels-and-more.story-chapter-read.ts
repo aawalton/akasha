@@ -8,7 +8,7 @@ export const catGirlEvolution00066LevelsAndMore = {
   story: "cat-girl-evolution",
   position: 6,
   ownLength: 1924,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2525552/6-levels-and-more",

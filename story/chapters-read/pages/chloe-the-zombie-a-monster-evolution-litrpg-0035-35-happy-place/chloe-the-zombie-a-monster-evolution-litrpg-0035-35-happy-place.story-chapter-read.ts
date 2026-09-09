@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003535HappyPlace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 35,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-19",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2612890/35-happy-place",

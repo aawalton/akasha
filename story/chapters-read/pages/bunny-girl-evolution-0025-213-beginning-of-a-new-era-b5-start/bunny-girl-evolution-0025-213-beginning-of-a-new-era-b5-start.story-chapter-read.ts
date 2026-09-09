@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0025213BeginningOfANewEraB5Start = {
   story: "story-read/bunny-girl-evolution",
   position: 25,
   ownLength: 3111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3785767/213-beginning-of-a-new-era-b5-start",

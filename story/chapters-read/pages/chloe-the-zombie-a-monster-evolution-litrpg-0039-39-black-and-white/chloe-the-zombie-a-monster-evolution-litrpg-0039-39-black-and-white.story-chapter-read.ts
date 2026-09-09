@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg003939BlackAndWhite = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 39,
   ownLength: 2491,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2628162/39-black-and-white",

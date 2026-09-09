@@ -8,7 +8,7 @@ export const catGirlEvolution005656ScallopTime = {
   story: "cat-girl-evolution",
   position: 56,
   ownLength: 2662,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2805107/56-scallop-time",

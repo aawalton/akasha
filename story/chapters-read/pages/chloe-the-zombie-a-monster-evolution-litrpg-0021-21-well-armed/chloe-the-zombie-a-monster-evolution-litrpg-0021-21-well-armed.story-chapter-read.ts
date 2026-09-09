@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002121WellArmed = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 21,
   ownLength: 1747,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2565610/21-well-armed",

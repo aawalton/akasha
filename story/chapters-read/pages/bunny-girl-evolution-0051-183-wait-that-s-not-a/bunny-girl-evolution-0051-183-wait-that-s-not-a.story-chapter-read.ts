@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0051183WaitThatSNotA = {
   story: "story-read/bunny-girl-evolution",
   position: 51,
   ownLength: 4306,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution-book-4-stubbing-august-8/chapter/3198667/183-wait-thats-not-a",

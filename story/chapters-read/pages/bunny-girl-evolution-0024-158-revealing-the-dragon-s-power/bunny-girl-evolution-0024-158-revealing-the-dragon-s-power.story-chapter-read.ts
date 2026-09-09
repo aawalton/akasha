@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0024158RevealingTheDragonSPower = {
   position: 24,
   ownLength: 3201,
   ownProgress: 3201,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:26.219Z",
   publishedAt: "2025-12-27",
   externalLink:

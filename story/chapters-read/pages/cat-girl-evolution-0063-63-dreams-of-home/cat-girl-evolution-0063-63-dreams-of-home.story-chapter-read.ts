@@ -8,7 +8,7 @@ export const catGirlEvolution006363DreamsOfHome = {
   story: "cat-girl-evolution",
   position: 63,
   ownLength: 2147,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2855220/63-dreams-of-home",

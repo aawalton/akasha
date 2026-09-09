@@ -8,7 +8,7 @@ export const catGirlEvolution002929PerfectDisguise = {
   story: "cat-girl-evolution",
   position: 29,
   ownLength: 2607,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2634838/29-perfect-disguise",

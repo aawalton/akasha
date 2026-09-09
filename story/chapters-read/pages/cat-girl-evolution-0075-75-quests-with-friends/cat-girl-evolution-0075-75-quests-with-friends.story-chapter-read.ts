@@ -8,7 +8,7 @@ export const catGirlEvolution007575QuestsWithFriends = {
   story: "cat-girl-evolution",
   position: 75,
   ownLength: 2146,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2941271/75-quests-with-friends",

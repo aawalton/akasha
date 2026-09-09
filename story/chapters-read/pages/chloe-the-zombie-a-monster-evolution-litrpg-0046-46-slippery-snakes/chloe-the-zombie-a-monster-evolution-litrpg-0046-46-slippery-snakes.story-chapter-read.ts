@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004646SlipperySnakes = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 46,
   ownLength: 3117,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-06",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2655915/46-slippery-snakes",

@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0027161TheSaintessIsHere = {
   position: 27,
   ownLength: 3462,
   ownProgress: 3462,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:32.247Z",
   publishedAt: "2026-01-06",
   externalLink:

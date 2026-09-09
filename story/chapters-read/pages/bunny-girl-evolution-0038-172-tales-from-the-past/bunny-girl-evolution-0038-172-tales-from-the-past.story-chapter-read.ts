@@ -9,7 +9,7 @@ export const bunnyGirlEvolution0038172TalesFromThePast = {
   position: 38,
   ownLength: 3572,
   ownProgress: 3572,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:03:53.230Z",
   publishedAt: "2026-02-14",
   externalLink:

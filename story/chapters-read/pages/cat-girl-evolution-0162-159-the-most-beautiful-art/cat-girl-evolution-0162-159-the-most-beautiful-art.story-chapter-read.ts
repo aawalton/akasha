@@ -7,7 +7,7 @@ export const catGirlEvolution0162159TheMostBeautifulArt = {
   story: "story-read/cat-girl-evolution",
   position: 162,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3923643",
   source: "royal-road",
   title: "159 - The Most Beautiful Art",

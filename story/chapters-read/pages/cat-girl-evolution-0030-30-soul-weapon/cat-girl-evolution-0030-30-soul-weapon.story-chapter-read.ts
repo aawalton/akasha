@@ -8,7 +8,7 @@ export const catGirlEvolution003030SoulWeapon = {
   story: "cat-girl-evolution",
   position: 30,
   ownLength: 3427,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2642447/30-soul-weapon",

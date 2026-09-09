@@ -8,7 +8,7 @@ export const catGirlEvolution006969SecretNegotiations = {
   story: "cat-girl-evolution",
   position: 69,
   ownLength: 2547,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-31",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/2894743/69-secret-negotiations",

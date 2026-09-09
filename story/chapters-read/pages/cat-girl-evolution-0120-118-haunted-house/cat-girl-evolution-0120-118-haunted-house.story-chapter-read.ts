@@ -8,7 +8,7 @@ export const catGirlEvolution0120118HauntedHouse = {
   story: "cat-girl-evolution",
   position: 120,
   ownLength: 2250,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/129180/cat-girl-evolution-book-1-complete/chapter/3312072/118-haunted-house",

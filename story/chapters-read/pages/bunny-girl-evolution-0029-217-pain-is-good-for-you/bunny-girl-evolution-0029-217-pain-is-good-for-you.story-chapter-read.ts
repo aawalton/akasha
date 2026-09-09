@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0029217PainIsGoodForYou = {
   story: "story-read/bunny-girl-evolution",
   position: 29,
   ownLength: 2574,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/90435/bunny-girl-evolution/chapter/3846924/217-pain-is-good-for-you",

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005353HorsingAround = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 53,
   ownLength: 3109,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/2683664/53-horsing-around",
