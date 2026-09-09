@@ -2,9 +2,9 @@ import { expect, test } from "bun:test"
 import { noSeat, personaIn, type Seated } from "./seat-messaged.command.code.ts"
 
 const SEATS: readonly Seated[] = [
-  { slug: "amy", personaSlug: "amy" },
-  { slug: "ops", personaSlug: "sophia" },
-  { slug: "spare", personaSlug: "" },
+  { slug: "amy", persona: "amy" },
+  { slug: "ops", persona: "sophia" },
+  { slug: "spare", persona: "" },
 ]
 
 test("a seat answers the persona that seat states", () => {

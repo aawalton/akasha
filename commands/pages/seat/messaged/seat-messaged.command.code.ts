@@ -11,29 +11,29 @@ const SEAT = "seat"
 
 export type Seated = {
   readonly slug: string
-  readonly personaSlug: string
+  readonly persona: string
 }
 
 export function seatedIn(root: string): readonly Seated[] {
   const asked = asking(root, {
     pageTypeSlug: SEAT,
-    keys: ["slug", "personaSlug"],
+    keys: ["slug", "persona"],
   } as never)
   if ("refused" in asked) throw new Error(asked.refused)
   const held: Seated[] = []
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
     const slug = one["slug"]
-    const persona = one["personaSlug"]
+    const persona = one["persona"]
     if (typeof slug !== "string" || typeof persona !== "string") continue
-    held.push({ slug, personaSlug: persona })
+    held.push({ slug, persona })
   }
   return held
 }
 
 export function personaIn(seats: readonly Seated[], name: string): string | null {
   for (const one of seats) {
-    if (one.slug === name && one.personaSlug !== "") return one.personaSlug
+    if (one.slug === name && one.persona !== "") return one.persona
   }
   return null
 }
