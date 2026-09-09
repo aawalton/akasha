@@ -13,6 +13,23 @@ export const topicWords = {
     },
     {
       invariantKind: "departure",
+      statement: "Today is the day Alan's sleep opened rather than the ESO day this moment is in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A day's window opens when Alan's sleep opened it and closes when the next day did.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day whose window refuses raises rather than counting over a span made up here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here counts a day over the six-in-the-morning ESO boundary.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every word a commit added is counted.",
     },
     {

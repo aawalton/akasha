@@ -6,8 +6,9 @@ import {
 
 export async function rollupHealthTaskPointsForDay(
   dayStr: string
-): Promise<{ taskPoints: number; outcome: WriteOutcome }> {
+): Promise<{ taskPoints: number | null; outcome: WriteOutcome | "uncounted" }> {
   const taskPoints = await loadDayHealthTaskPoints(dayStr)
+  if (taskPoints === null) return { taskPoints: null, outcome: "uncounted" }
   const outcome = await writeTaskPoints(dayStr, taskPoints)
   return { taskPoints, outcome }
 }

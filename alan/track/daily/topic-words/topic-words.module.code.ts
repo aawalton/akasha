@@ -1,6 +1,7 @@
-import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { runGit } from "@akasha/git/git-answering"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import type { Roots } from "@akasha/pages/markdown-page-at"
+import { openedDayOf, openedWindowOn } from "../day-opening/day-opening.module.code.ts"
 import {
   type WriteOutcome,
   writeIntelligenceTopics,
@@ -28,10 +29,6 @@ export type DayTopics = {
   shas: readonly string[]
 }
 
-function repoRoot(): string {
-  return rootFor(resolveRoots(), AKASHA)
-}
-
 export function wordsIn(text: string): number {
   let count = 0
   for (const token of text.split(/\s+/)) if (token !== "") count += 1
@@ -57,27 +54,27 @@ export function wordsAddedInDiff(diff: string): number {
 }
 
 export async function commitsOn(
-  root: string,
+  roots: Roots,
   dayStr: string,
   pathspec: string
 ): Promise<readonly string[]> {
-  const { start, end } = getEsoDayWindow(dayStr)
-  if (start.getTime() === 0 || end.getTime() === 0) {
-    throw new Error(`\`${dayStr}\` names no day, so the commits landing on it cannot be asked for`)
+  const window = openedWindowOn(roots, dayStr)
+  if ("refused" in window) {
+    throw new Error(`the commits landing on ${dayStr} cannot be asked for: ${window.refused}`)
   }
-  const last = new Date(end.getTime() - 1000)
+  const last = new Date(Date.parse(window.to) - 1000)
   const asked = await runGit(
     [
       "log",
       "--no-merges",
       "--format=%H",
-      `--since=${start.toISOString()}`,
+      `--since=${window.from}`,
       `--until=${last.toISOString()}`,
       "HEAD",
       "--",
       pathspec,
     ],
-    root
+    rootFor(roots, AKASHA)
   )
   if (!asked.ok) {
     throw new Error(`the commits on ${dayStr} did not come back: ${asked.stderr}`)
@@ -101,11 +98,12 @@ export async function wordsAddedInCommit(
 }
 
 export async function countWordsForDay(
-  root: string,
+  roots: Roots,
   dayStr: string,
   pathspec: string
 ): Promise<DayWords> {
-  const shas = await commitsOn(root, dayStr, pathspec)
+  const shas = await commitsOn(roots, dayStr, pathspec)
+  const root = rootFor(roots, AKASHA)
   let words = 0
   for (const sha of shas) {
     words += await wordsAddedInCommit(root, sha, pathspec)
@@ -149,11 +147,12 @@ export async function topicsUpdatedInCommit(
 }
 
 export async function countTopicsForDay(
-  root: string,
+  roots: Roots,
   dayStr: string,
   pathspec: string
 ): Promise<DayTopics> {
-  const shas = await commitsOn(root, dayStr, pathspec)
+  const shas = await commitsOn(roots, dayStr, pathspec)
+  const root = rootFor(roots, AKASHA)
   const found = new Set<string>()
   for (const sha of shas) {
     for (const topic of await topicsUpdatedInCommit(root, sha, pathspec)) found.add(topic)
@@ -174,7 +173,7 @@ export async function rollupWisdomWordsForDay(
   dayStr: string
 ): Promise<{ wisdomWords: number; shas: readonly string[]; outcome: WriteOutcome }> {
   refuseBeforeStart(dayStr, "wisdom words")
-  const { words, shas } = await countWordsForDay(repoRoot(), dayStr, WISDOM_PATHSPEC)
+  const { words, shas } = await countWordsForDay(resolveRoots(), dayStr, WISDOM_PATHSPEC)
   const outcome = await writeWisdomWords(dayStr, words)
   return { wisdomWords: words, shas, outcome }
 }
@@ -183,23 +182,23 @@ export async function rollupIntelligenceTopicsForDay(
   dayStr: string
 ): Promise<{ intelligenceTopics: number; shas: readonly string[]; outcome: WriteOutcome }> {
   refuseBeforeStart(dayStr, "intelligence topics")
-  const { topics, shas } = await countTopicsForDay(repoRoot(), dayStr, INTELLIGENCE_PATHSPEC)
+  const { topics, shas } = await countTopicsForDay(resolveRoots(), dayStr, INTELLIGENCE_PATHSPEC)
   const outcome = await writeIntelligenceTopics(dayStr, topics)
   return { intelligenceTopics: topics, shas, outcome }
 }
 
-export function countWisdomWordsForDay(root: string, dayStr: string): Promise<DayWords> {
-  return countWordsForDay(root, dayStr, WISDOM_PATHSPEC)
+export function countWisdomWordsForDay(roots: Roots, dayStr: string): Promise<DayWords> {
+  return countWordsForDay(roots, dayStr, WISDOM_PATHSPEC)
 }
 
-export function countIntelligenceTopicsForDay(root: string, dayStr: string): Promise<DayTopics> {
-  return countTopicsForDay(root, dayStr, INTELLIGENCE_PATHSPEC)
+export function countIntelligenceTopicsForDay(roots: Roots, dayStr: string): Promise<DayTopics> {
+  return countTopicsForDay(roots, dayStr, INTELLIGENCE_PATHSPEC)
 }
 
 type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
 
 if (import.meta.main) {
-  const day = getEsoDayStr(new Date())
+  const day = openedDayOf(resolveRoots(), new Date())
   const landings: readonly Landing[] = [
     ["wisdom words", () => rollupWisdomWordsForDay(day)],
     ["intelligence topics", () => rollupIntelligenceTopicsForDay(day)],

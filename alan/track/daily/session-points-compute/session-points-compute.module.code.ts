@@ -1,6 +1,7 @@
-import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
+import type { Roots } from "@akasha/pages/markdown-page-at"
 import { z } from "zod"
 import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
+import { openedDayOf, openedWindowOn } from "../day-opening/day-opening.module.code.ts"
 import { numberOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 export const PersonaSessionRowSchema = z
@@ -94,17 +95,23 @@ export function sumSessionPointsForWindow(
 }
 
 export function discoverActiveSessionDays(
+  roots: Roots,
   rows: readonly Readonly<Record<string, ReadonlyJSONValue>>[],
   pointsPropId: string
 ): readonly string[] {
   const candidateDays = new Set<string>()
   for (const row of rows) {
     const t = sessionStartTime(row)
-    if (t !== undefined) candidateDays.add(getEsoDayStr(t))
+    if (t !== undefined) candidateDays.add(openedDayOf(roots, t))
   }
   const active: string[] = []
   for (const dayStr of candidateDays) {
-    const sum = sumSessionPointsForWindow(rows, pointsPropId, getEsoDayWindow(dayStr))
+    const window = openedWindowOn(roots, dayStr)
+    if ("refused" in window) continue
+    const sum = sumSessionPointsForWindow(rows, pointsPropId, {
+      start: new Date(window.from),
+      end: new Date(window.to),
+    })
     if (sum > 0) active.push(dayStr)
   }
   return active.sort()

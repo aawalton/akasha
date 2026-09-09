@@ -1,7 +1,7 @@
-import { getEsoDayWindow } from "@akasha/day/eso-day"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
 import { completedTasksInSpan } from "../day-completions/day-completions.module.code.ts"
+import { openedWindowOn } from "../day-opening/day-opening.module.code.ts"
 import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const TO_DO_PAGE_TYPE_SLUG = "to-do"
@@ -116,13 +116,17 @@ function toDosAsked(): readonly Readonly<Record<string, unknown>>[] {
   return asked.rows
 }
 
-export async function loadDayHealthTaskPoints(dayStr: string): Promise<number> {
-  const window = getEsoDayWindow(dayStr)
-  const startIso = window.start.toISOString()
-  const endIso = window.end.toISOString()
+export async function loadDayHealthTaskPoints(dayStr: string): Promise<number | null> {
+  const window = openedWindowOn(resolveRoots(), dayStr)
+  if ("refused" in window) {
+    process.stderr.write(`no health task points for ${dayStr}: ${window.refused}\n`)
+    return null
+  }
+  const startIso = window.from
+  const endIso = window.to
 
   const toDos = toDosAsked()
-  const finished = completedTasksInSpan(window.start, window.end)
+  const finished = completedTasksInSpan(new Date(startIso), new Date(endIso))
 
   return computeHealthTaskPointsForWindow(
     {
