@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const hebrews2 = {
   id: "01a06804-11ad-704c-a61f-37444ceb25d3",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "hebrews-2",
   title: "Hebrews 2",
   book: "Hebrews",

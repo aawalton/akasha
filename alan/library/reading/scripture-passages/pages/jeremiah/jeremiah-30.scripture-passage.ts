@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const jeremiah30 = {
   id: "01a06804-11ae-7018-8133-fd3df3f8c143",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "jeremiah-30",
   title: "Jeremiah 30",
   book: "Jeremiah",

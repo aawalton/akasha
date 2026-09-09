@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const joshua5 = {
   id: "01a06804-11ae-7090-a544-7313202d9ee7",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "joshua-5",
   title: "Joshua 5",
   book: "Joshua",

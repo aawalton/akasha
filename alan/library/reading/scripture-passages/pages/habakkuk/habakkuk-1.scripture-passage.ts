@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const habakkuk1 = {
   id: "01a06804-11ad-7042-a1ca-78f773c51f9e",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "habakkuk-1",
   title: "Habakkuk 1",
   book: "Habakkuk",

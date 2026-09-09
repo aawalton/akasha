@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const galatians5 = {
   id: "01a06804-11ad-700e-9740-d4bf97efc617",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "galatians-5",
   title: "Galatians 5",
   book: "Galatians",

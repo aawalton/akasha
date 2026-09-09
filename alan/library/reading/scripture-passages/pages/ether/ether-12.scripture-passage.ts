@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const ether12 = {
   id: "019f0977-5b3e-7914-9688-d1595b513969",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "ether-12",
   title: "Ether 12",
   book: "Ether",

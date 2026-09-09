@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const judges19 = {
   id: "01a06804-11ae-70a0-a45b-f0650b010d82",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "judges-19",
   title: "Judges 19",
   book: "Judges",

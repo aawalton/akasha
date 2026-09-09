@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const isaiah12 = {
   id: "01a06804-11ad-7065-b862-2fb8c4ee5e04",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "isaiah-12",
   title: "Isaiah 12",
   book: "Isaiah",

@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const genesis34 = {
   id: "01a06804-11ad-702b-9c5f-17e729c93de4",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "genesis-34",
   title: "Genesis 34",
   book: "Genesis",

@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const lamentations1 = {
   id: "01a06804-11ae-70ab-be92-d48358775dd5",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "lamentations-1",
   title: "Lamentations 1",
   book: "Lamentations",

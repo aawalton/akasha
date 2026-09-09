@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const ezekiel4 = {
   id: "01a06804-11ac-7060-a37c-0941da9c9a54",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "ezekiel-4",
   title: "Ezekiel 4",
   book: "Ezekiel",
