@@ -5,7 +5,7 @@ export const theWanderingInn0408InterludeTheHangoverAfter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0408-interlude-the-hangover-after",
   title: "Interlude - The Hangover After",
-  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
+  storySlug: "story-read/the-wandering-inn",
   position: 408,
   ownLength: 4420,
   ownProgress: 4420,
