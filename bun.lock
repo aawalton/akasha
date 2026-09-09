@@ -37,7 +37,6 @@
         "@akasha/spotify": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-data": "workspace:*",
@@ -291,12 +290,6 @@
       "dependencies": {
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
-      },
-    },
-    "alan/harness/supabase-client": {
-      "name": "@akasha/supabase-client",
-      "dependencies": {
-        "@supabase/supabase-js": "^2.104.0",
       },
     },
     "alan/harness/supabase-rr": {
@@ -2757,8 +2750,6 @@
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:alan/harness/supabase-auth"],
-
-    "@akasha/supabase-client": ["@akasha/supabase-client@workspace:alan/harness/supabase-client"],
 
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
 

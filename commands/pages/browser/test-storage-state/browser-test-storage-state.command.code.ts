@@ -5,11 +5,11 @@ import { refusedBy } from "@akasha/command-system/command-answering"
 import { playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
-import { createClient } from "@akasha/supabase-client/user-client"
 import {
   DEFAULT_THROWAWAY_EMAIL,
   ensureThrowawayUser,
 } from "@akasha/supabase-server/throwaway-user"
+import { createClient } from "akasha/alan/harness/supabase-client/user-client/user-client.module.code.ts"
 import { readBrowserTestEnv } from "akasha/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/browser/test-harness/harness-launch/harness-launch.module.code.ts"
 import { wordsIn } from "../../../../browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
