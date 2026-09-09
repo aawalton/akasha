@@ -25,7 +25,7 @@ test("the command reached through a bound name and a join is refused", () => {
 })
 
 test("the dispatcher run as an argument is left to the rule refusing every run", () => {
-  const text = 'Bun.spawnSync([bun, "akasha/command-system/cli/cli.module.code.ts"])\n'
+  const text = 'Bun.spawnSync([bun, "cli/cli.module.code.ts"])\n'
   expect(noAkashaCommandFromCode(parsed(text))).toEqual([])
 })
 
