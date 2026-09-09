@@ -10,12 +10,9 @@ import {
   REMOVE,
   valuesOf,
 } from "../../../../command-system/command-flags/command-flags.module.code.ts"
-import {
-  builtIn,
-  VALUED,
-} from "../../../../command-system/file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
 import { pathAt } from "../../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { builtIn, VALUED } from "../../../modules/file-arguing/file-arguing.module.code.ts"
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 

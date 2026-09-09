@@ -26,7 +26,6 @@
     "./during-call": "./during-call/during-call.module.code.ts",
     "./edits-landing": "./edits-landing/edits-landing.module.code.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
-    "./file-arguing": "./file-arguing/file-arguing.module.code.ts",
     "./landing": "./landing/landing.module.code.ts",
     "./landing/testing": "./landing/landing.module.test-fixtures.ts",
     "./path-moving": "./path-moving/path-moving.module.code.ts",

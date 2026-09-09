@@ -8,9 +8,9 @@ import {
   answering,
   type Given,
 } from "../../../command-system/calling/calling.module.code.ts"
-import { builtIn } from "../../../command-system/file-arguing/file-arguing.module.code.ts"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
+import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

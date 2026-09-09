@@ -33,7 +33,6 @@ export const commandSystem = {
     "module/seat-act-calling",
     "module/command-flags",
     "module/said-pathing",
-    "module/file-arguing",
     "module/change-acting",
     "module/edits-landing",
     "module/change-arguing",

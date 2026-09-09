@@ -1,11 +1,18 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages/page-beside"
-import { defaultMessage } from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
-import { unrestatedIn } from "../../commands/modules/restating/restating.module.code.ts"
-import { unwarrantedIn } from "../../commands/modules/warrant-owing/warrant-owing.module.code.ts"
-import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
-import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
+import {
+  BREAK_GLASS,
+  bytesAt,
+  mistaking,
+  textOf,
+  troubling,
+} from "../../../command-system/asking/asking.module.code.ts"
+import {
+  type Answer,
+  type Given,
+  kindNamed,
+} from "../../../command-system/calling/calling.module.code.ts"
 import {
   CONTENT_FILE,
   FILE_PATH,
@@ -15,13 +22,20 @@ import {
   messageIn,
   REMOVE,
   unknownIn,
-} from "../command-flags/command-flags.module.code.ts"
-import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
-import { markingIn, pipedIn, RUNS_SAID } from "../piping/piping.module.code.ts"
-import { barredIn, offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
+} from "../../../command-system/command-flags/command-flags.module.code.ts"
+import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
+import { markingIn, pipedIn, RUNS_SAID } from "../../../command-system/piping/piping.module.code.ts"
+import {
+  barredIn,
+  offRepo,
+  pathAt,
+} from "../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
+import { unrestatedIn } from "../restating/restating.module.code.ts"
+import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
 
 export const RESTATED = "--restated"
 
