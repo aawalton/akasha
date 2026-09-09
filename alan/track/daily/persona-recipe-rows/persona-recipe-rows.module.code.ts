@@ -16,6 +16,8 @@ const SOURCE_KEYS = {
   weightField: "pointsSourceWeightField",
 } as const
 
+const PERSONA_KEY = "persona"
+
 const PERSONA_SLUG_KEY = "personaSlug"
 
 export const PERSONA_ASKING: Query = {
@@ -26,7 +28,7 @@ export const PERSONA_ASKING: Query = {
 
 export const POINTS_SOURCE_ASKING: Query = {
   pageTypeSlug: POINTS_SOURCE_PAGE_TYPE_SLUG,
-  keys: [PERSONA_SLUG_KEY, ...Object.keys(SOURCE_KEYS)],
+  keys: [PERSONA_KEY, PERSONA_SLUG_KEY, ...Object.keys(SOURCE_KEYS)],
   sortBy: "slug",
 }
 
@@ -36,7 +38,7 @@ function everyRowIn(what: string, asked: Asked): readonly Row[] {
 }
 
 function personaSlugIn(row: Row): string {
-  const named = textOf(row[PERSONA_SLUG_KEY])
+  const named = textOf(row[PERSONA_KEY]) ?? textOf(row[PERSONA_SLUG_KEY])
   if (named === undefined || named === "") {
     const slug = textOf(row.slug) ?? "a source with no slug"
     throw new Error(
