@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0698ChapterSeventyOneThisActionWillHav
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0698-chapter-seventy-one-this-action-will-have",
   title: "Chapter Seventy-One - This Action Will Have Consequences",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 698,
   ownLength: 1483,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0709ChapterEightyOnePopGoesThePatella 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0709-chapter-eighty-one-pop-goes-the-patella",
   title: "Chapter Eighty-One - Pop Goes the Patella",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 709,
   ownLength: 1564,
   unitSlug: "words",

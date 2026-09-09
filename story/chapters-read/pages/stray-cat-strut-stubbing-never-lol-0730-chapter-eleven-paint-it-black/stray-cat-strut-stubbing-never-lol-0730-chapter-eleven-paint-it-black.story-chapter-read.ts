@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0730ChapterElevenPaintItBlack = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0730-chapter-eleven-paint-it-black",
   title: "Chapter Eleven - Paint It Black",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 730,
   ownLength: 1408,
   unitSlug: "words",

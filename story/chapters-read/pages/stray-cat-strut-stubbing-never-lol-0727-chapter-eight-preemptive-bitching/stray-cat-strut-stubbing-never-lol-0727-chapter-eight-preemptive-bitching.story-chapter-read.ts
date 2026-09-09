@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0727-chapter-eight-preemptive-bitching",
   title: "Chapter Eight - Preemptive Bitching",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 727,
   ownLength: 1487,
   unitSlug: "words",

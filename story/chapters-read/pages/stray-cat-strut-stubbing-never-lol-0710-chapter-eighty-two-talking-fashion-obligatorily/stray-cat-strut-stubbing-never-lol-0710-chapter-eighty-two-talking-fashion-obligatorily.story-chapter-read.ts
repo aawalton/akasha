@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0710ChapterEightyTwoTalkingFashionObli
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0710-chapter-eighty-two-talking-fashion-obligatorily",
   title: "Chapter Eighty-Two - Talking Fashion, Obligatorily",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 710,
   ownLength: 1482,
   unitSlug: "words",

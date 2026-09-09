@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0670StrayCatStrutCrossoverFanficContes
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0670-stray-cat-strut-crossover-fanfic-contest",
   title: "Stray Cat Strut - Crossover Fanfic Contest!",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 670,
   ownLength: 236,
   unitSlug: "words",

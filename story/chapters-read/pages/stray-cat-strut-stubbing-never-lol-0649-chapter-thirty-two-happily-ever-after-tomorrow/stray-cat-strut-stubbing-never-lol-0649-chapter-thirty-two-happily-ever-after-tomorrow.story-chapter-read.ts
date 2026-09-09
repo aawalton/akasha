@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0649ChapterThirtyTwoHappilyEverAfterTo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0649-chapter-thirty-two-happily-ever-after-tomorrow",
   title: "Chapter Thirty-Two - Happily Ever After Tomorrow",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 649,
   ownLength: 1487,
   unitSlug: "words",

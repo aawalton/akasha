@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0678ChapterFiftyFiveACutAboveMiddleMan
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0678-chapter-fifty-five-a-cut-above-middle-management",
   title: "Chapter Fifty-Five - A Cut Above Middle Management",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 678,
   ownLength: 1467,
   unitSlug: "words",

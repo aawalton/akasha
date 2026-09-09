@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0427ChapterThirtyOneTheSkinnyLowdown =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0427-chapter-thirty-one-the-skinny-lowdown",
   title: "Chapter Thirty-One - The Skinny Lowdown",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 427,
   ownLength: 1492,
   unitSlug: "words",

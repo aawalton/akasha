@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0692ChapterSixtySixKilotonnageForDummi
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0692-chapter-sixty-six-kilotonnage-for-dummies",
   title: "Chapter Sixty-Six - Kilotonnage for Dummies",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 692,
   ownLength: 1579,
   unitSlug: "words",

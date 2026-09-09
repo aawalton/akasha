@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0470SideStoryPollTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0470-side-story-poll-two",
   title: "Side Story Poll Two!",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 470,
   ownLength: 282,
   unitSlug: "words",
