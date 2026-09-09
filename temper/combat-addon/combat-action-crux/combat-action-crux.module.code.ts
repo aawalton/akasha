@@ -1,0 +1,45 @@
+import { isCruxConsumerIcon } from "../combat-action-crux-stacks/combat-action-crux-stacks.module.code.ts"
+import { STATE } from "../combat-action-queue/combat-action-queue.module.code.ts"
+import {
+  buildActionFromSlot,
+  getActiveHotbarCategory,
+  readSlotAbility,
+} from "../combat-action-slots/combat-action-slots.module.code.ts"
+import { saveAction } from "../combat-action-store/combat-action-store.module.code.ts"
+
+const FIRST_ABILITY_SLOT = 3
+const LAST_ABILITY_SLOT = 8
+
+const FAKE_ACTION_SN = -1
+
+export function ensureCruxActions(now: number): undefined {
+  const activeHotbar = getActiveHotbarCategory()
+  const hotbars: number[] = [activeHotbar]
+  for (const hotbar of [HOTBAR_CATEGORY_PRIMARY, HOTBAR_CATEGORY_BACKUP]) {
+    if (hotbar !== activeHotbar) {
+      hotbars.push(hotbar)
+    }
+  }
+
+  for (const hotbarCategory of hotbars) {
+    for (let slotNum = FIRST_ABILITY_SLOT; slotNum <= LAST_ABILITY_SLOT; slotNum++) {
+      const ability = readSlotAbility(slotNum, hotbarCategory)
+      if (ability === undefined) {
+        continue
+      }
+      if (!isCruxConsumerIcon(ability.icon)) {
+        continue
+      }
+      if (STATE.idActionMap.get(ability.id) !== undefined) {
+        continue
+      }
+      const action = buildActionFromSlot(slotNum, hotbarCategory, FAKE_ACTION_SN, now)
+      if (action === undefined) {
+        continue
+      }
+      action.fake = true
+      saveAction(action)
+    }
+  }
+  return undefined
+}
