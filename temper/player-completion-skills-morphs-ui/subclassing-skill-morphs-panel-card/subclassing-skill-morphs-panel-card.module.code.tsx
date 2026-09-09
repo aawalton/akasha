@@ -10,8 +10,8 @@ import {
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import type { SubclassingSkillMorphProgressResult } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { SubclassingSkillMorphProgressResult } from "akasha/temper/temper-skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 const MAX_VARIANT_RANK = 4
 

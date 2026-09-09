@@ -1,5 +1,5 @@
 import type { AccountCompletion } from "@akasha/temper-completion/completion-progress"
-import { transformSubclassingSkillMorphProgress } from "@akasha/temper-skill-morphs/subclassing-morph-progress"
+import { transformSubclassingSkillMorphProgress } from "akasha/temper/temper-skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import {
   transformAccountRecipeUnion,
   transformAccountScribingUnion,

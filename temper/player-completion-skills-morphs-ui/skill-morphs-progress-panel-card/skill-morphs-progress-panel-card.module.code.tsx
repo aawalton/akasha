@@ -16,13 +16,13 @@ import {
   type SkillLineId,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type {
   CharacterSkillMorphProgress,
   MorphableSkillDetail,
-} from "@akasha/temper-skill-morphs/morph-progress-types"
-import { morphableSkillLineIds } from "@akasha/temper-skill-morphs/morphable-skills"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+} from "akasha/temper/temper-skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import { morphableSkillLineIds } from "akasha/temper/temper-skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

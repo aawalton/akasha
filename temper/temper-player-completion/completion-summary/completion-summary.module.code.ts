@@ -4,16 +4,16 @@ import {
   type SkillLineId,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
-import type { CharacterSkillMorphProgress } from "@akasha/temper-skill-morphs/morph-progress-types"
-import {
-  buildMorphRankMap,
-  getSkillLineMorphContribution,
-} from "@akasha/temper-skill-morphs/skill-line-morph-totals"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/temper-character-skills/passive-queries/passive-queries.module.code.ts"
+import type { CharacterSkillMorphProgress } from "akasha/temper/temper-skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  buildMorphRankMap,
+  getSkillLineMorphContribution,
+} from "akasha/temper/temper-skill-morphs/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"
 import type { CharacterAchievementProgressResult } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
 import type {

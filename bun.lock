@@ -63,7 +63,6 @@
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
@@ -1295,7 +1294,6 @@
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1390,7 +1388,6 @@
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/utils": "workspace:*",
         "fast-check": "^4.5.3",
       },
@@ -1429,13 +1426,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-skill-morphs": {
-      "name": "@akasha/temper-skill-morphs",
-      "dependencies": {
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-web": {
       "name": "@akasha/temper-web",
       "version": "0.1.0",
@@ -1471,7 +1461,6 @@
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -1811,8 +1800,6 @@
     "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/temper-skill-kinds"],
 
     "@akasha/temper-skill-lines": ["@akasha/temper-skill-lines@workspace:temper/temper-skill-lines"],
-
-    "@akasha/temper-skill-morphs": ["@akasha/temper-skill-morphs@workspace:temper/temper-skill-morphs"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 

@@ -89,7 +89,6 @@
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
-    "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/utils": "workspace:*",
     "fast-check": "^4.5.3"
   }

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSkillMorphs = {
   id: "01a061c7-0738-7e24-b2fa-36e9b8781b9c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-skill-morphs",
   definition: "a character's progress through the skills that morph",
-  manifest: "json",
   parts: [
     "module/morph-progress-types",
     "module/applicable-eso-skill-lines",
@@ -40,4 +39,4 @@ export const temperSkillMorphs = {
       statement: "A skill line the character cannot use is left out of the totals.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

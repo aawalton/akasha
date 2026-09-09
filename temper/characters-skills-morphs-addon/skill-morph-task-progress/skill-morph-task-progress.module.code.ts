@@ -1,17 +1,17 @@
 import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
-import { computeApplicableEsoSkillLineIds } from "@akasha/temper-skill-morphs/applicable-eso-skill-lines"
-import {
-  computeCharacterMorphProgressByEsoId,
-  type ExpectedMorphableSkill,
-} from "@akasha/temper-skill-morphs/character-morph-progress-eso"
-import { resolveSkillMorphProgressByPath } from "@akasha/temper-skill-morphs/skill-morph-progress-paths"
 import {
   BASE_APPLICABLE_ESO_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
 } from "akasha/temper/characters-capture-addon/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+import { computeApplicableEsoSkillLineIds } from "akasha/temper/temper-skill-morphs/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
+import {
+  computeCharacterMorphProgressByEsoId,
+  type ExpectedMorphableSkill,
+} from "akasha/temper/temper-skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { resolveSkillMorphProgressByPath } from "akasha/temper/temper-skill-morphs/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {
   const set = new Set<number>()

@@ -7,11 +7,11 @@ import {
 } from "@akasha/design-primitives/collapsible"
 import { Command, CommandGroup, CommandInput, CommandList } from "@akasha/design-primitives/command"
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@akasha/design-primitives/dialog"
-import type { CategoryData } from "@akasha/temper-skill-morphs/skill-organization"
 import {
   type SkillId,
   skills,
 } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import type { CategoryData } from "akasha/temper/temper-skill-morphs/skill-organization/skill-organization.module.code.ts"
 import { Check, ChevronRight, ChevronsDown, ChevronsUp } from "lucide-react"
 import { useState } from "react"
 import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"

@@ -1,9 +1,3 @@
-import { computeApplicableEsoSkillLineIds } from "@akasha/temper-skill-morphs/applicable-eso-skill-lines"
-import {
-  computeCharacterMorphProgressByEsoId,
-  type ExpectedMorphableSkill,
-  type MorphSkillLineProgressMap,
-} from "@akasha/temper-skill-morphs/character-morph-progress-eso"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import {
   BASE_APPLICABLE_ESO_LINE_IDS,
@@ -11,6 +5,12 @@ import {
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
 } from "akasha/temper/characters-capture-addon/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/characters-capture-addon/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+import { computeApplicableEsoSkillLineIds } from "akasha/temper/temper-skill-morphs/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
+import {
+  computeCharacterMorphProgressByEsoId,
+  type ExpectedMorphableSkill,
+  type MorphSkillLineProgressMap,
+} from "akasha/temper/temper-skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {

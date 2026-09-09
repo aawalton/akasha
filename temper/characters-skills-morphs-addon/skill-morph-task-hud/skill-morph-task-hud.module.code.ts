@@ -3,12 +3,6 @@ import {
   getSavedVariables,
   type TaskData,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { ExpectedMorphableSkill } from "@akasha/temper-skill-morphs/character-morph-progress-eso"
-import {
-  type MorphSuggestionEntry,
-  pickRelevantSkillLineIds,
-  selectMorphSuggestions,
-} from "@akasha/temper-skill-morphs/select-morph-suggestions"
 import {
   ALL_CLASS_ESO_SKILL_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
@@ -18,6 +12,12 @@ import {
   MORPHABLE_SKILLS_PER_LINE,
   SKILL_LINE_DISPLAY_ORDER,
 } from "akasha/temper/characters-capture-addon/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+import type { ExpectedMorphableSkill } from "akasha/temper/temper-skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import {
+  type MorphSuggestionEntry,
+  pickRelevantSkillLineIds,
+  selectMorphSuggestions,
+} from "akasha/temper/temper-skill-morphs/select-morph-suggestions/select-morph-suggestions.module.code.ts"
 
 export type SkillMorphEnrichmentEntry = MorphSuggestionEntry
 
