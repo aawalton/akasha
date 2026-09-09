@@ -11,6 +11,7 @@ import {
   foldersTouchedBy,
   type Holds,
   heldFolder,
+  holdingOver,
   namesFiling,
   namingFolderOf,
   type Paged,
@@ -340,6 +341,26 @@ test("that shape still refuses a section the index cannot reach by path", () => 
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("stray.book-section.ts")
   expect(said[0]).toContain("`my-strategy`")
+})
+
+const HOLDER_AT = `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`
+
+const HOLDER: Value = {
+  pageTypeSlug: "book-section",
+  slug: "beginnings",
+  pluralSlug: "beginnings-parts",
+  parts: ["book-section/two"],
+}
+
+test("the page in a folder is read by its path, so a scoped page states its plural and parts", () => {
+  const holds = holdingOver(
+    { pageByPath: (asked) => (asked === HOLDER_AT ? HOLDER : null) },
+    { at: () => [HOLDER_AT], foldersIn: () => [] },
+    SECTION_TYPES,
+    SECTION_FILES
+  )
+  expect(holds(MY_STRATEGY_SECTIONS).names).toEqual(["beginnings", "beginnings-parts"])
+  expect([...holds(MY_STRATEGY_SECTIONS).declared]).toEqual(["book-section/two"])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {

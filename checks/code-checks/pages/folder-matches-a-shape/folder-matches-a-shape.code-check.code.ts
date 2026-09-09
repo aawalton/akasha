@@ -61,6 +61,8 @@ const PART_OF_COLLECTIONS = "partOfCollections"
 
 const ROOT = ""
 
+export type Paged = Pick<Answering, "pageByPath">
+
 export function edgesOf(
   root: string,
   path: string,
@@ -276,9 +278,9 @@ export function pairedIn(pages: readonly Held[]): readonly Held[] {
   return []
 }
 
-function declaredBy(index: Answering, page: Held | undefined): readonly string[] {
-  if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
-  const value = index.pageAt(page.pageTypeSlug, page.slug)
+function declaredBy(index: Paged, page: Held | undefined): readonly string[] {
+  if (page === undefined) return []
+  const value = index.pageByPath(page.path)
   return value === null ? [] : (textsAt(value, PARTS) ?? textsAt(value, PART_SLUGS) ?? [])
 }
 
@@ -288,7 +290,7 @@ function identityOf(page: Held | undefined): readonly string[] {
 }
 
 export function holdingOver(
-  index: Answering,
+  index: Paged,
   grouped: Grouped,
   pageTypes: ReadonlySet<string>,
   fileProperties: ReadonlySet<string>
@@ -306,7 +308,7 @@ export function holdingOver(
     const page = paired[0]
     let made = NOTHING
     if (page !== undefined && page.slug !== null && page.pageTypeSlug !== null) {
-      const value = index.pageAt(page.pageTypeSlug, page.slug)
+      const value = index.pageByPath(page.path)
       const plural = value === null ? null : textAt(value, PLURAL_SLUG)
       made = {
         names: plural === null ? [page.slug] : [page.slug, plural],
@@ -330,8 +332,6 @@ export function namingOver(holds: Holds): (folder: string) => string | null {
     return strippedOf(wants, holds(namingFolderOf(folder, holds)).names)
   }
 }
-
-export type Paged = Pick<Answering, "pageByPath">
 
 export function partsOver(
   index: Paged,

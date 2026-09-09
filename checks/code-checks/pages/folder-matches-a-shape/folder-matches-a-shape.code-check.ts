@@ -155,5 +155,9 @@ export const folderMatchesAShape = {
       invariantKind: "absence",
       statement: "Audit judges every folder.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page this check has in hand is read from the index by that page's path.",
+    },
   ],
 } as const satisfies CodeCheck
