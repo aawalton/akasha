@@ -5,6 +5,7 @@ export type Enabled = boolean
 export const enabled = {
   id: "01a05a3f-b42c-74ff-9a06-c83e54d1ff04",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "enabled",
   propertySlug: "enabled",
   definition: "whether a service is to be running",

@@ -5,6 +5,7 @@ export type Descending = boolean
 export const descending = {
   id: "01a063ee-2a3b-7203-b639-871e40a95aca",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "descending",
   propertySlug: "descending",
   definition: "whether a query orders its answer from greatest to least",

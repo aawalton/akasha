@@ -5,6 +5,7 @@ export type HoldsBytes = boolean
 export const holdsBytes = {
   id: "01a0783e-bc03-787d-b886-e4476954adbe",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "holds-bytes",
   propertySlug: "holds-bytes",
   definition: "whether the files a property has are bytes rather than text",

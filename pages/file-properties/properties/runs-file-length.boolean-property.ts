@@ -5,6 +5,7 @@ export type RunsFileLength = boolean
 export const runsFileLength = {
   id: "01a06cd9-428f-7ffc-bd74-e4f412d578cd",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "runs-file-length",
   propertySlug: "runs-file-length",
   definition: "whether the byte ceiling is judged over the files a property has",

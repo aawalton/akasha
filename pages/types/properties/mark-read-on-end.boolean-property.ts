@@ -5,6 +5,7 @@ export type MarkReadOnEnd = boolean
 export const markReadOnEnd = {
   id: "01a0683a-620a-702a-911f-7f996e1b3876",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "mark-read-on-end",
   propertySlug: "mark-read-on-end",
   definition: "whether coming to the end of a page records that page as read",

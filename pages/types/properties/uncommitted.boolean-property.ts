@@ -5,6 +5,7 @@ export type Uncommitted = boolean
 export const uncommitted = {
   id: "01a04fc4-b988-7afd-89a2-9c87b0274410",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "uncommitted",
   propertySlug: "uncommitted",
   definition: "whether the value a page has for this property stands outside the commit",

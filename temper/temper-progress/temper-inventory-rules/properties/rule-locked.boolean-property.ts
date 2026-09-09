@@ -5,6 +5,7 @@ export type RuleLocked = boolean
 export const ruleLocked = {
   id: "01a07283-f293-7fc7-9ed8-4c01ff4038fd",
   pageTypeSlug: "boolean-property",
+  type: "boolean-property",
   slug: "rule-locked",
   propertySlug: "locked",
   definition: "whether a rule is held back from being edited or deleted",
