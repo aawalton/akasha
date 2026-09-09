@@ -5,6 +5,7 @@ export type Bodyweight = number
 export const bodyweight = {
   id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "bodyweight",
   propertySlug: "bodyweight",
   definition: "what a body weighs, in pounds",

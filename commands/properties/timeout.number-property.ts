@@ -5,6 +5,7 @@ export type Timeout = number
 export const timeout = {
   id: "01a0820f-feb2-79e4-8435-06a161f3c6ab",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "timeout",
   propertySlug: "timeout",
   definition: "how many seconds a command may run before the call is stopped",

@@ -5,6 +5,7 @@ export type AliasIndex = number
 export const aliasIndex = {
   id: "01a054d8-1d39-7b15-a48d-62c2122c274b",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "alias-index",
   propertySlug: "alias-index",
   definition: "the number in the shell alias that opens Claude on this account",

@@ -5,6 +5,7 @@ export type Limit = number
 export const limit = {
   id: "01a063ee-2a3b-79d6-872a-49aaca6ffdf1",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "limit",
   propertySlug: "limit",
   definition: "the most pages a query answers with",

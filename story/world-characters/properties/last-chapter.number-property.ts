@@ -5,6 +5,7 @@ export type LastChapter = number
 export const lastChapter = {
   id: "01a0657a-9ccd-7629-800d-515631354a44",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "last-chapter",
   propertySlug: "last-chapter",
   definition: "the number of the latest chapter a page draws on",

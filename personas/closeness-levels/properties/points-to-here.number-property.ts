@@ -5,6 +5,7 @@ export type PointsToHere = number
 export const pointsToHere = {
   id: "01a0541b-6a82-72e4-a9db-75b5573cc8ee",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "points-to-here",
   propertySlug: "points-to-here",
   definition: "how many points it takes to reach this rung",

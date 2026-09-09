@@ -5,6 +5,7 @@ export type GpuScore = number
 export const gpuScore = {
   id: "01a0658c-329a-780e-b6f1-9356bce1f913",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "gpu-score",
   propertySlug: "gpu-score",
   definition: "how the graphics card benchmarks",

@@ -5,6 +5,7 @@ export type Count = number
 export const errorCount = {
   id: "01a05f3f-e3e0-79b8-92d7-8141ecd449e9",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "error-count",
   propertySlug: "count",
   definition: "how many times one error has been met",

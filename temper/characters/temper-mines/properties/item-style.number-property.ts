@@ -5,6 +5,7 @@ export type ItemStyle = number
 export const itemStyle = {
   id: "01a05fcd-f551-7d3e-b2da-c159378bc326",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "item-style",
   propertySlug: "style",
   definition: "the cultural style an item is made in",

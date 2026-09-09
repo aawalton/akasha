@@ -5,6 +5,7 @@ export type UnitWords = number
 export const unitWords = {
   id: "01a06959-98a7-7ec0-bc21-02de65c2abf5",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "unit-words",
   propertySlug: "unit-words",
   definition: "how many words one of the collection's unit is worth",

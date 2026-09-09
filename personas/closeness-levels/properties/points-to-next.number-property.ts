@@ -5,6 +5,7 @@ export type PointsToNext = number
 export const pointsToNext = {
   id: "01a0541b-6a83-7beb-9eb1-d13e2108d749",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "points-to-next",
   propertySlug: "points-to-next",
   definition: "how many more points the rung after this one takes",

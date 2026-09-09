@@ -5,6 +5,7 @@ export type AutoCompactWindow = number
 export const autoCompactWindow = {
   id: "01a0687a-3d99-7951-ba5c-41a586269d17",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "auto-compact-window",
   propertySlug: "auto-compact-window",
   definition: "the token count a seat's agent is compacted at",

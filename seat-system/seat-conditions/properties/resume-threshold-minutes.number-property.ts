@@ -5,6 +5,7 @@ export type ResumeThresholdMinutes = number
 export const resumeThresholdMinutes = {
   id: "01a0687a-3d9d-7635-aea8-41e35f78143b",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "resume-threshold-minutes",
   propertySlug: "resume-threshold-minutes",
   definition: "how long a seat's session sits idle before starting it offers the resume menu",

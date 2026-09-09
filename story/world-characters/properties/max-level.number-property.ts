@@ -5,6 +5,7 @@ export type MaxLevel = number
 export const maxLevel = {
   id: "01a0657a-9ccc-799d-b3da-5f74e280345a",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "max-level",
   propertySlug: "max-level",
   definition: "the highest level a story ever gives a character",

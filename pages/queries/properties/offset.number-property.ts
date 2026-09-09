@@ -5,6 +5,7 @@ export type Offset = number
 export const offset = {
   id: "01a063ee-2a3b-7073-8d29-bb272e29d222",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "offset",
   propertySlug: "offset",
   definition: "how many pages a query passes over before it answers",

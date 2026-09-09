@@ -5,6 +5,7 @@ export type PartsLengthInWords = number
 export const partsLengthInWords = {
   id: "01a06959-98a7-7ab5-991b-44150f978745",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "parts-length-in-words",
   propertySlug: "parts-length-in-words",
   definition: "how much there is to work through in the collections this one holds, in words",

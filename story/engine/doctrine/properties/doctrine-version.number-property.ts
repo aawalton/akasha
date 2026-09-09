@@ -5,6 +5,7 @@ export type DoctrineVersion = number
 export const doctrineVersion = {
   id: "01a06590-c57a-7735-8352-d549372de788",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "doctrine-version",
   propertySlug: "doctrine-version",
   definition: "which revision of the doctrine a pack carries",

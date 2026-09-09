@@ -5,6 +5,7 @@ export type Rating = number
 export const rating = {
   id: "01a06741-dd0f-7004-9b9b-26579c448c7b",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "rating",
   propertySlug: "rating",
   definition: "what Alan scored a book out of ten",

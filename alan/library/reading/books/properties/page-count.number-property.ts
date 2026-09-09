@@ -5,6 +5,7 @@ export type PageCount = number
 export const pageCount = {
   id: "01a06741-dd0f-7005-b740-1e4345152777",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "page-count",
   propertySlug: "page-count",
   definition: "how many pages an edition runs to",

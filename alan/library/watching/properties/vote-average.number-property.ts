@@ -5,6 +5,7 @@ export type VoteAverage = number
 export const voteAverage = {
   id: "01a06599-ee09-700a-8a23-63fc2cc72b2f",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "vote-average",
   propertySlug: "vote-average",
   definition: "how the provider's voters scored a collection out of ten",

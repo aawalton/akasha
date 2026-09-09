@@ -5,6 +5,7 @@ export type MessagesSent = number
 export const messagesSent = {
   id: "01a082db-9816-7ab2-b6ed-8a897a78de90",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "messages-sent",
   propertySlug: "sent",
   definition: "how many messages Alan wrote to one persona on one day",

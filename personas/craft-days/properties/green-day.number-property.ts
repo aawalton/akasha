@@ -5,6 +5,7 @@ export type GreenDay = number
 export const greenDay = {
   id: "01a0655b-4a9b-7008-9a0b-56117a559064",
   pageTypeSlug: "number-property",
+  type: "number-property",
   slug: "green-day",
   propertySlug: "green-day",
   definition: "the rung of the green day scale the craft reached on a day",
