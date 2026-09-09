@@ -29,21 +29,16 @@ const STATED: Readonly<Record<string, string>> = {
   id: "id",
   slug: "slug",
   "page-type-slug": "pageTypeSlug",
-  "persona-slug": "personaSlug",
+  "persona-slug": "persona",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
-  "person-slug": "personSlug",
+  "person-slug": "person",
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
   "on-call": "onCall",
   "registration-account": "registrationAccount",
   "transcript-path": "transcriptPath",
   "claude-code-session-uuid": "claudeCodeSessionUuid",
-}
-
-const ALSO: Readonly<Record<string, string>> = {
-  "persona-slug": "persona",
-  "person-slug": "person",
 }
 
 const TITLE = "title"
@@ -53,8 +48,7 @@ const SLUG = "slug"
 export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
-    const also = ALSO[key]
-    const said = held[from] ?? (also === undefined ? undefined : held[also])
+    const said = held[from]
     if (said !== undefined && said !== null && said !== "") values[key] = said
   }
   const slug = values[SLUG]
