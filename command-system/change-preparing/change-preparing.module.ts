@@ -32,6 +32,15 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
+        "The edits run as the caller asked, then the formatting, then what a generator wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No body a generator wrote is formatted here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "Formatting a body leaves every other thing the change says about that path unchanged.",
     },
     {

@@ -1,4 +1,5 @@
 import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
+import { textIn } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
@@ -13,7 +14,7 @@ import { typesFor } from "../type-generating/type-generating.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
-  readonly changes: readonly FileEdit[]
+  readonly edits: readonly Replacing[]
   readonly formatted: readonly string[]
 }
 
@@ -27,27 +28,23 @@ export function formattingIn(
   changes: readonly FileEdit[],
   already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Formatting {
-  const held: FileEdit[] = []
+  const edits: Replacing[] = []
   const formatted: string[] = []
   for (const one of changes) {
-    if (one.body === null) {
-      held.push(one)
-      continue
-    }
+    if (one.body === null) continue
     const was = already.get(one.path)
-    if (was !== undefined && sameAs(was, one.body)) {
-      held.push(one)
-      continue
-    }
+    if (was !== undefined && sameAs(was, one.body)) continue
     const said = formattedBody(root, one.path, one.body)
-    if (!said.changed) {
-      held.push(one)
-      continue
-    }
-    held.push({ ...one, body: said.body })
+    if (!said.changed) continue
+    edits.push({
+      kind: "replace",
+      path: one.path,
+      contentFrom: textIn(one.body),
+      contentTo: textIn(said.body),
+    })
     formatted.push(one.path)
   }
-  return { changes: held, formatted }
+  return { edits, formatted }
 }
 
 const BYTES = new TextEncoder()
@@ -59,8 +56,15 @@ function bodiedFrom(rows: readonly (Adding | Replacing)[]): readonly FileEdit[] 
   }))
 }
 
+function foldedOver(...runs: readonly (readonly FileEdit[])[]): readonly FileEdit[] {
+  const held = new Map<string, FileEdit>()
+  for (const run of runs) for (const one of run) held.set(one.path, one)
+  return [...held.values()]
+}
+
 export type Prepared = {
   readonly formatting: Formatting
+  readonly authored: readonly FileEdit[]
   readonly changes: readonly FileEdit[]
   readonly said: readonly string[]
   readonly over: Change | null
@@ -74,10 +78,11 @@ export function preparing(
   already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes, already)
-  const unexportable = unexportableIn(formatting.changes)
+  const authored = foldedOver(changes, bodiedFrom(formatting.edits))
+  const unexportable = unexportableIn(authored)
   if (unexportable.length > 0) return { refusals: unexportable }
-  const locking = lockingFor(root, base, formatting.changes, moves)
-  const change = changeOf(root, { base, edits: formatting.changes, moves })
+  const locking = lockingFor(root, base, authored, moves)
+  const change = changeOf(root, { base, edits: authored, moves })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
   const stepped = steppedFor(change)
@@ -93,7 +98,8 @@ export function preparing(
   ]
   return {
     formatting,
-    changes: added.length === 0 ? formatting.changes : [...formatting.changes, ...added],
+    authored,
+    changes: added.length === 0 ? authored : [...authored, ...added],
     said: [
       ...locking.said,
       ...worked.said,

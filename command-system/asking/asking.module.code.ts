@@ -279,7 +279,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   held.reaching?.()
   if (held.dryRun) return await reporting(given.root, held, gate, aside, prepared.over)
   const message = messageWith(held, bypass, broken)
-  const asRead = asReadIn(given, formatting.changes)
+  const asRead = asReadIn(given, prepared.authored)
   if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
   let said: Landed | Refused
   try {
@@ -311,7 +311,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     held.readings ?? [],
     NO_OWING
   )
-  recordLanded(given, formatting.changes)
+  recordLanded(given, prepared.authored)
   const put = installingIn(given.root, held.changes, held.moves ?? [])
   return {
     report: reported(counted, said, {
