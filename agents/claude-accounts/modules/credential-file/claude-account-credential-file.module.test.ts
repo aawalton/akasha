@@ -1,7 +1,7 @@
-import { describe, expect, test } from "bun:test"
-import { mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, describe, expect, test } from "bun:test"
+import { readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   CREDENTIAL_FILE_NAME,
@@ -11,8 +11,12 @@ import {
   fileChanged,
 } from "./claude-account-credential-file.module.code.ts"
 
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
 function whereverIn(): string {
-  return mkdtempSync(join(tmpdir(), "credential-file-"))
+  return scratch.rootFor("credential-file-")
 }
 
 function fileWritten(dir: string, body: string): string {
@@ -165,7 +169,6 @@ describe("credentialFileWritten", () => {
   test("a written file is readable by the owner and by nobody else", () => {
     const dir = whereverIn()
     credentialFileWritten(dir, credentialOf())
-    // biome-ignore lint/suspicious/noBitwiseOperators: a file mode is read bit by bit
     expect(statSync(join(dir, CREDENTIAL_FILE_NAME)).mode & 0o777).toBe(0o600)
   })
 
