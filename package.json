@@ -127,7 +127,8 @@
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/ssh-access": "workspace:*",
-    "@akasha/temper-capture-shapes": "workspace:*"
+    "@akasha/temper-capture-shapes": "workspace:*",
+    "@akasha/pages-core": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

@@ -30,6 +30,7 @@
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
@@ -337,14 +338,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/library/reading": {
-      "name": "@akasha/reading",
-      "dependencies": {
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-query": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/music/choosing": {
       "name": "@akasha/music-choosing",
       "dependencies": {
@@ -387,7 +380,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/personas": "workspace:*",
         "@akasha/persons": "workspace:*",
-        "@akasha/reading": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -2457,8 +2449,6 @@
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
-
-    "@akasha/reading": ["@akasha/reading@workspace:alan/library/reading"],
 
     "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
 

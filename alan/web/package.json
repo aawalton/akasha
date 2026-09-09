@@ -61,7 +61,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/persons": "workspace:*",
     "@akasha/personas": "workspace:*",
-    "@akasha/reading": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

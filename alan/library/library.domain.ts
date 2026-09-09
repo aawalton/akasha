@@ -8,7 +8,7 @@ export const library = {
   parts: [
     "domain/studying",
     "domain/watching",
-    "workspace-package/reading",
+    "domain/reading",
     "domain/book-of-everything",
     "domain/book-of-everything-commands",
     "domain/learn-everything",
