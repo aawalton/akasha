@@ -51,7 +51,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1239,12 +1238,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/races": {
-      "name": "@akasha/temper-races",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/saved-variables": {
       "name": "@akasha/temper-saved-variables",
       "dependencies": {
@@ -1356,7 +1349,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
@@ -1670,8 +1662,6 @@
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/player-completion-state"],
 
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
-
-    "@akasha/temper-races": ["@akasha/temper-races@workspace:temper/races"],
 
     "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:temper/saved-variables"],
 

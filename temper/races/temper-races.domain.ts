@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperRaces = {
   id: "01a0608a-c133-7d7f-96d5-f0070cf3a77a",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-races",
   definition: "the playable races an Elder Scrolls Online character is born into",
-  manifest: "json",
   parts: ["module/races", "module/race-icon-url"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperRaces = {
       statement: "A race is reached by its own id rather than by the race id the game has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

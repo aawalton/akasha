@@ -80,7 +80,7 @@ export const temper = {
     "domain/temper-capture-datamining",
     "domain/temper-capture-errors",
     "domain/temper-capture-sales",
-    "workspace-package/temper-races",
+    "domain/temper-races",
     "workspace-package/temper-skill-lines",
     "domain/temper-quests-trace",
     "workspace-package/temper-trading-pricing",

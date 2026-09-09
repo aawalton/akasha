@@ -37,7 +37,6 @@
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
-    "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
