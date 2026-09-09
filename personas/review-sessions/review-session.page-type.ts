@@ -4,11 +4,11 @@ import type { Date as ReviewedOn } from "../../alan/track/days/properties/date.t
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { ReviewSessionNotes } from "./properties/review-session-notes.file-property.ts"
-import type { SessionPersonaSlug } from "./properties/session-persona-slug.relation-property.ts"
+import type { SessionPersona } from "./properties/session-persona.relation-property.ts"
 
 export type ReviewSession = Page & {
   title: Title
-  personaSlug: SessionPersonaSlug
+  persona: SessionPersona
   date: ReviewedOn
   notes: ReviewSessionNotes
   icon?: Icon
@@ -21,10 +21,10 @@ export const reviewSession = {
   definition: "one pass a persona made over the part of Alan's life she watches",
   pluralSlug: "review-sessions",
   extendsSlug: ["page-type/page"],
-  partSlugs: ["file-property/review-session-notes", "relation-property/session-persona-slug"],
+  partSlugs: ["file-property/review-session-notes", "relation-property/session-persona"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/session-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/session-persona", required: true, many: false },
     { pagePropertySlug: "text-property/date", required: true, many: false },
     { pagePropertySlug: "file-property/review-session-notes", required: true, many: false },
     { pagePropertySlug: "text-property/icon", required: false, many: false },

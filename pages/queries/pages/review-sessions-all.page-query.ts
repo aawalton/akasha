@@ -5,5 +5,5 @@ export const reviewSessionsAll = {
   pageTypeSlug: "page-query",
   slug: "review-sessions-all",
   asksOfSlug: "review-session",
-  keys: ["personaSlug", "date"],
+  keys: ["persona", "date"],
 } as const satisfies PageQuery
