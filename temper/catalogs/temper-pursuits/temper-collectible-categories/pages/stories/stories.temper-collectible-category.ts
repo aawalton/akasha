@@ -1,4 +1,4 @@
-import type { TemperCollectibleCategory } from "../temper-collectible-category.page-type.ts"
+import type { TemperCollectibleCategory } from "../../temper-collectible-category.page-type.ts"
 
 export const stories = {
   id: "01a06165-916a-7012-86c9-7d146a74abb6",
