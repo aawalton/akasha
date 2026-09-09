@@ -5,5 +5,5 @@ export const masterPlumberOfDistantStacks = {
   pageTypeSlug: "world-class",
   slug: "master-plumber-of-distant-stacks",
   title: "Master Plumber of Distant Stacks",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

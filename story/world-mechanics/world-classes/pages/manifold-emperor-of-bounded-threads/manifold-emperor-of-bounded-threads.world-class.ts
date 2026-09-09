@@ -5,6 +5,6 @@ export const manifoldEmperorOfBoundedThreads = {
   pageTypeSlug: "world-class",
   slug: "manifold-emperor-of-bounded-threads",
   title: "Manifold Emperor of Bounded Threads",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,7 +5,7 @@ export const leader = {
   pageTypeSlug: "world-class",
   slug: "leader",
   title: "Leader",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["leaders"],
   evolvesToSlugs: ["chieftain"],
   references: "jsonl",

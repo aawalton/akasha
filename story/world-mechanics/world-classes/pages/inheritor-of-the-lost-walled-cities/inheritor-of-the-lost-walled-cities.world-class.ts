@@ -5,5 +5,5 @@ export const inheritorOfTheLostWalledCities = {
   pageTypeSlug: "world-class",
   slug: "inheritor-of-the-lost-walled-cities",
   title: "Inheritor of the Lost Walled Cities",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

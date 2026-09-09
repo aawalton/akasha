@@ -5,6 +5,6 @@ export const hostOfParties = {
   pageTypeSlug: "world-class",
   slug: "host-of-parties",
   title: "Host of Parties",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

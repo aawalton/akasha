@@ -5,7 +5,7 @@ export const liar = {
   pageTypeSlug: "world-class",
   slug: "liar",
   title: "Liar",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["liars"],
   evolvesToSlugs: ["amazing-liar"],
   references: "jsonl",

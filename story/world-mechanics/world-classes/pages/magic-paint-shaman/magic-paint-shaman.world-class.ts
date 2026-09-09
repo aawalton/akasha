@@ -5,6 +5,6 @@ export const magicPaintShaman = {
   pageTypeSlug: "world-class",
   slug: "magic-paint-shaman",
   title: "Magic Paint Shaman",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["shaman-of-the-old-ways"],
 } as const satisfies WorldClass

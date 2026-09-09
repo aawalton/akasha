@@ -5,6 +5,6 @@ export const knifeEdgeSlicer = {
   pageTypeSlug: "world-class",
   slug: "knife-edge-slicer",
   title: "Knife-edge Slicer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass
