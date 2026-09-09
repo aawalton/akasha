@@ -46,6 +46,7 @@ export const page = {
     "page-type/rank-property",
     "page-type/page-property-entry",
     "page-type/file-property",
+    "page-type/code-file-property",
     "page-type/phone-number-property",
     "page-type/email-address-property",
     "page-type/process-property",
