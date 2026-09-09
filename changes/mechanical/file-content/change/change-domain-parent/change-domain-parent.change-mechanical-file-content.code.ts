@@ -15,9 +15,7 @@ const ONE = 1
 
 const PAGE = "page"
 
-const PARTS = "partSlugs"
-
-const PART_SLUGS = "part-slugs"
+const PARTS = "parts"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical-file-content/remove-property-value"
 
@@ -41,7 +39,7 @@ export function foundIn(known: Shaped, named: string, key: string): Found {
 }
 
 export function parentOf(world: World, known: Shaped, of: Placed, named: string): Found {
-  const namers = world.index.idsNaming(of.id, PART_SLUGS)
+  const namers = world.index.idsNaming(of.id, PARTS)
   const first = namers[0]
   if (first === undefined) {
     return {

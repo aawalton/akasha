@@ -39,14 +39,14 @@ const PARENT: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  partSlugs: ["module/imessage-host", "command/imessage-contacts"],
+  parts: ["module/imessage-host", "command/imessage-contacts"],
 }
 
 const BARE: Value = {
   id: PACKAGE,
   pageTypeSlug: "workspace-package",
   slug: "imessage",
-  partSlugs: ["module/imessage-host"],
+  parts: ["module/imessage-host"],
 }
 
 const EMPTY: Value = {
@@ -125,12 +125,12 @@ test("both mechanical changes are handed the parts key and the spelling that was
 
   expect(kept[0]?.given).toEqual({
     at: HELD,
-    key: "partSlugs",
+    key: "parts",
     value: "command/imessage-contacts",
   })
   expect(kept[1]?.given).toEqual({
     at: UNDER,
-    key: "partSlugs",
+    key: "parts",
     value: "command/imessage-contacts",
   })
 })
@@ -147,7 +147,7 @@ test("a parent stating no parts gains the list rather than being refused", async
   expect(kept.map((one) => one.at)).toEqual([REMOVES, PUTS])
   expect(kept[1]?.given).toEqual({
     at: UNDER,
-    key: "partSlugs",
+    key: "parts",
     value: `["command/imessage-contacts"]`,
   })
 })
