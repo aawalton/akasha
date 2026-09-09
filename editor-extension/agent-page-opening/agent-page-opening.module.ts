@@ -9,7 +9,7 @@ export const agentPageOpening = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The command is offered on every row and refuses the rows holding no page.",
+      statement: "The command is offered on every row and refuses the rows with no page.",
     },
     {
       invariantKind: "departure",

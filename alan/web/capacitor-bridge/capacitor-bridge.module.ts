@@ -34,7 +34,7 @@ export const capacitorBridge = {
     },
     {
       invariantKind: "departure",
-      statement: "A shell holding no presentation never decides the held secret is bad.",
+      statement: "A shell with no presentation never decides the held secret is bad.",
     },
   ],
 } as const satisfies Module

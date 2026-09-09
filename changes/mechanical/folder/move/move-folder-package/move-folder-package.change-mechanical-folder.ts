@@ -38,7 +38,7 @@ export const moveFolderPackage = {
     },
     {
       invariantKind: "departure",
-      statement: "The slug is restated over a world holding every file that moved.",
+      statement: "The slug is restated over a world with every file that moved.",
     },
     {
       invariantKind: "absence",

@@ -34,7 +34,7 @@ export const modelGatewaySwap = {
     },
     {
       invariantKind: "departure",
-      statement: "The gateway is respawned on the port the gateway already held.",
+      statement: "The gateway is respawned on the port the gateway already had.",
     },
     {
       invariantKind: "departure",

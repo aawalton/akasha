@@ -23,7 +23,7 @@ export const stateCompacting = {
     },
     {
       invariantKind: "departure",
-      statement: "A field this hook does not write keeps the value that field already held.",
+      statement: "A field this hook does not write keeps the value that field already had.",
     },
     {
       invariantKind: "departure",

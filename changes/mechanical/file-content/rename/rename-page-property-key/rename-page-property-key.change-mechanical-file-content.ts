@@ -17,7 +17,7 @@ export const renamePagePropertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "The key keeps the place it held among the object's keys.",
+      statement: "The key keeps the place it had among the object's keys.",
     },
     {
       invariantKind: "departure",

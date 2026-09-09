@@ -5,6 +5,6 @@ export const swiftMaskedSource = {
   pageTypeSlug: "module",
   slug: "swift-masked-source",
   definition:
-    "the Swift source with comments and string interiors blanked, and the literals it held",
+    "the Swift source with comments and string interiors blanked, and the literals it had",
   code: "ts",
 } as const satisfies Module

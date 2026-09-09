@@ -93,7 +93,7 @@ export const applyRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A row reaching an apply was warranted against the record its writer held.",
+      statement: "A row reaching an apply was warranted against the record its writer had.",
     },
     {
       invariantKind: "departure",

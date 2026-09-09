@@ -217,7 +217,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A check holding no run the choice reached is not answered.",
+      statement: "A check with no run the choice reached is not answered.",
     },
     {
       invariantKind: "absence",

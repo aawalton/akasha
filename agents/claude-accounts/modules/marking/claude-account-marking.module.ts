@@ -40,7 +40,7 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "A mark holding no value to write leaves the page unchanged.",
+      statement: "A mark with no value to write leaves the page unchanged.",
     },
     {
       invariantKind: "departure",

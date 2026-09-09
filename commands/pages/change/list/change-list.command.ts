@@ -55,7 +55,7 @@ export const changeList = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent holding no edits for this agent is said rather than refused.",
+      statement: "A subagent with no edits for this agent is said rather than refused.",
     },
     {
       invariantKind: "departure",

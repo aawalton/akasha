@@ -25,7 +25,7 @@ export const claimedFileNotLeftBehind = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the page claims holding a body after the answer refuses that answer.",
+      statement: "A file the page claims with a body after the answer refuses that answer.",
     },
     {
       invariantKind: "departure",

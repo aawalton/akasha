@@ -38,7 +38,7 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming an agent already above that row is drawn holding nothing.",
+      statement: "A row naming an agent already above that row is drawn with nothing.",
     },
     {
       invariantKind: "departure",

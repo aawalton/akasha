@@ -51,7 +51,7 @@ export const retry = {
     },
     {
       invariantKind: "departure",
-      statement: "A TypeError message holding `instanceof` is not a transient transport error.",
+      statement: "A TypeError message with `instanceof` is not a transient transport error.",
     },
     {
       invariantKind: "departure",

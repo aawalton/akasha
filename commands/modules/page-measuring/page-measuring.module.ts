@@ -60,7 +60,7 @@ export const pageMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkout holding no index throws rather than counting no page.",
+      statement: "A checkout with no index throws rather than counting no page.",
     },
     {
       invariantKind: "absence",

@@ -67,7 +67,7 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot with no end beside no log file is left holding nothing.",
+      statement: "A slot with no end beside no log file is left with nothing.",
     },
     {
       invariantKind: "departure",

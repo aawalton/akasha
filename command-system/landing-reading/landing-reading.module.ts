@@ -87,7 +87,7 @@ export const landingReading = {
     {
       invariantKind: "departure",
       statement:
-        "A landing leaves the agent that landed holding a reading of every body that landing wrote.",
+        "A landing leaves the agent that landed with a reading of every body that landing wrote.",
     },
     {
       invariantKind: "absence",

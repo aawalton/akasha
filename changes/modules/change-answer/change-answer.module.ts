@@ -125,11 +125,11 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An add onto a path holding a body is refused.",
+      statement: "An add onto a path with a body is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A move onto a path holding a body is refused.",
+      statement: "A move onto a path with a body is refused.",
     },
     {
       invariantKind: "departure",

@@ -105,7 +105,7 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent begins holding no reading its seat holds.",
+      statement: "A subagent begins with no reading its seat holds.",
     },
     {
       invariantKind: "departure",

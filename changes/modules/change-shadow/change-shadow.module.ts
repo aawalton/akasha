@@ -48,11 +48,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "The path a move lands at held no body before that move.",
+      statement: "The path a move lands at had no body before that move.",
     },
     {
       invariantKind: "departure",
-      statement: "An edit stating no body leaves that path holding nothing after the change.",
+      statement: "An edit stating no body leaves that path with nothing after the change.",
     },
     {
       invariantKind: "departure",
@@ -256,11 +256,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "An edit that will not replay throws rather than being read as an answer holding no edit.",
+        "An edit that will not replay throws rather than being read as an answer with no edit.",
     },
     {
       invariantKind: "departure",
-      statement: "A ledger an edit refused has the edits that ledger held before.",
+      statement: "A ledger an edit refused has the edits that ledger had before.",
     },
     {
       invariantKind: "departure",
@@ -272,7 +272,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit is read as coming from a path the ledger already left holding nothing.",
+      statement: "An edit is read as coming from a path the ledger already left with nothing.",
     },
     {
       invariantKind: "departure",

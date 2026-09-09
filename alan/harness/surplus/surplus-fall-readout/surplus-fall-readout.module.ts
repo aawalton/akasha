@@ -20,7 +20,7 @@ export const surplusFallReadout = {
     {
       invariantKind: "gap",
       statement:
-        "A markdown readouts tree once held a second population of readout pages free to disagree.",
+        "A markdown readouts tree once had a second population of readout pages free to disagree.",
     },
     {
       invariantKind: "departure",

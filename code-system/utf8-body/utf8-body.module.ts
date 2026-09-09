@@ -17,7 +17,7 @@ export const utf8Body = {
     },
     {
       invariantKind: "departure",
-      statement: "Bytes holding a zero byte spell no text.",
+      statement: "Bytes with a zero byte spell no text.",
     },
     {
       invariantKind: "constraint",

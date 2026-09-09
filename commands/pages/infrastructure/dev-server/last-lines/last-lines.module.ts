@@ -22,7 +22,7 @@ export const lastLines = {
     {
       invariantKind: "departure",
       statement:
-        "A file holding fewer lines than the caller asked for answers with every line the file has.",
+        "A file with fewer lines than the caller asked for answers with every line the file has.",
     },
     {
       invariantKind: "absence",
