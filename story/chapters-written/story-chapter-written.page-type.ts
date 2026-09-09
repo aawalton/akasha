@@ -7,7 +7,7 @@ import type { WrittenChapterStorySlug } from "./properties/written-chapter-story
 
 export type StoryChapterWritten = Collection & {
   title: Title
-  storySlug?: WrittenChapterStorySlug
+  storySlug: WrittenChapterStorySlug
   ownLength: OwnLength
   prose: Prose
 }
@@ -25,7 +25,7 @@ export const storyChapterWritten = {
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
       pagePropertySlug: "relation-property/written-chapter-story-slug",
-      required: false,
+      required: true,
       many: false,
     },
     { pagePropertySlug: "number-property/own-length", required: true, many: false },

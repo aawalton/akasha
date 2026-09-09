@@ -185,7 +185,7 @@ async function chapterRowsPartOf(
   for (const shape of partOfShapes(storyType, slug)) {
     const rows = await askRows({
       "page-type": chapterType,
-      where: { partOfCollectionSlugs: { has: shape } },
+      where: { storySlug: { is: shape } },
       keys: CHAPTER_KEYS,
       "sort-by": "position",
       limit: ASK_LIMIT,
@@ -231,13 +231,13 @@ export async function loadLitrpgCatalog(): Promise<LitrpgCatalog> {
     }
     const chapterRows = await askRows({
       "page-type": chapterType,
-      keys: [...CHAPTER_KEYS, "partOfCollectionSlugs"],
+      keys: [...CHAPTER_KEYS, "storySlug"],
       limit: ASK_LIMIT,
     })
     for (const values of chapterRows) {
-      const said = values.partOfCollectionSlugs
-      const partOf = Array.isArray(said) ? String(said[0] ?? "") : String(said ?? "")
-      const storyId = idBySlug.get(partOf) ?? ""
+      const said = values.storySlug
+      const named = Array.isArray(said) ? String(said[0] ?? "") : String(said ?? "")
+      const storyId = idBySlug.get(named) ?? ""
       chapters.push(rowToLitrpgChapter(chapterRecordOf(values, storyId, chapterType)))
     }
   }

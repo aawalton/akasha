@@ -7,7 +7,7 @@ import type { PlayedChapterStorySlug } from "./properties/played-chapter-story-s
 
 export type StoryChapterPlayed = Collection & {
   title: Title
-  storySlug?: PlayedChapterStorySlug
+  storySlug: PlayedChapterStorySlug
   ownLength: OwnLength
   prose: Prose
 }
@@ -25,7 +25,7 @@ export const storyChapterPlayed = {
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
       pagePropertySlug: "relation-property/played-chapter-story-slug",
-      required: false,
+      required: true,
       many: false,
     },
     { pagePropertySlug: "number-property/own-length", required: true, many: false },
