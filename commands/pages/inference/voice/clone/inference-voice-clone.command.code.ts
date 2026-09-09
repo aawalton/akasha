@@ -10,9 +10,9 @@ import {
   buildSpeechRequestBody,
   copPriorityHeaders,
 } from "@akasha/inference-clients/voice-clone-client"
-import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { scpUpload } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {
   calledAs,
   countAt,

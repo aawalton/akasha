@@ -4,8 +4,8 @@ import { answering, refusedBy, told } from "@akasha/command-system/command-answe
 import { runMusic } from "@akasha/inference-clients/ace-step-client"
 import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
-import { buildInferenceRunRecord } from "@akasha/inference-runs/inference-run-record"
-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {
   calledAs,
   countAt,

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const inferenceRun = {
   id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "inference-run",
   definition: "the record kept of every run a model was asked for and of what that run made",
-  manifest: "json",
   parts: [
     "module/generation-log",
     "module/inference-command-line",
@@ -41,4 +40,4 @@ export const inferenceRun = {
       statement: "Nothing here knows which host a service is on.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

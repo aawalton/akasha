@@ -13,8 +13,14 @@ import {
   selectFrameIndices,
   toPngDataUrl,
 } from "@akasha/inference-clients/mlx-vlm-client"
-import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
-import { finishInferenceRun, startInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import {
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import {
+  finishInferenceRun,
+  startInferenceRun,
+} from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {
   calledAs,
   countAt,

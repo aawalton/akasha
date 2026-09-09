@@ -4,10 +4,13 @@ import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import { runClusterUpscale } from "akasha/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
+import {
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {
   aloneIn,
   calledAs,

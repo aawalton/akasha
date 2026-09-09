@@ -8,8 +8,11 @@ import {
   transcodeImage,
 } from "@akasha/inference-clients/gemini-image-client"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
+import {
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {
   calledAs,
   countAt,

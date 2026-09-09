@@ -11,7 +11,7 @@ export const inference = {
     "workspace-package/inference-clients",
     "domain/inference-commands",
     "domain/inference-pool",
-    "workspace-package/inference-run",
+    "domain/inference-run",
     "domain/voice-inference",
   ],
   invariants: [

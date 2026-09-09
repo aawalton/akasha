@@ -3,8 +3,6 @@ import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
 import { drawSeed } from "@akasha/inference-clients/inference-seed"
-import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
-import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,
@@ -20,6 +18,11 @@ import {
 } from "akasha/inference/generations/wan/extend-graph/wan-extend-graph.module.code.ts"
 import { buildI2vGraph } from "akasha/inference/generations/wan/i2v-graph/wan-i2v-graph.module.code.ts"
 import { parseSizeOrNull } from "akasha/inference/generations/wan/size/wan-size.module.code.ts"
+import {
+  buildInferenceRunRecord,
+  sha256Hex,
+} from "akasha/inference/runs/record/inference-run-record.module.code.ts"
+import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../command-system/fault-saying/fault-saying.module.code.ts"
