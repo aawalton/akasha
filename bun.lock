@@ -1484,6 +1484,15 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/antiquities-addon": {
+      "name": "@akasha/temper-antiquities-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
+      },
+    },
     "temper/bit-codec": {
       "name": "@akasha/temper-bit-codec",
       "dependencies": {
@@ -1899,6 +1908,9 @@
     "temper/lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
     },
+    "temper/lib-zone": {
+      "name": "@akasha/temper-lib-zone",
+    },
     "temper/lost-treasure": {
       "name": "@akasha/temper-lost-treasure",
       "dependencies": {
@@ -2077,15 +2089,6 @@
       "name": "@akasha/temper-alchemy",
       "dependencies": {
         "@akasha/temper-formula-framework": "workspace:*",
-      },
-    },
-    "temper/temper-antiquities-addon": {
-      "name": "@akasha/temper-antiquities-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
       },
     },
     "temper/temper-build-deploy-checks": {
@@ -2467,9 +2470,6 @@
     },
     "temper/temper-lib-treasure": {
       "name": "@akasha/temper-lib-treasure",
-    },
-    "temper/temper-lib-zone": {
-      "name": "@akasha/temper-lib-zone",
     },
     "temper/temper-lorebooks": {
       "name": "@akasha/temper-lorebooks",
@@ -3043,7 +3043,7 @@
 
     "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:temper/temper-alchemy"],
 
-    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/temper-antiquities-addon"],
+    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 
     "@akasha/temper-bit-codec": ["@akasha/temper-bit-codec@workspace:temper/bit-codec"],
 
@@ -3249,7 +3249,7 @@
 
     "@akasha/temper-lib-treasure": ["@akasha/temper-lib-treasure@workspace:temper/temper-lib-treasure"],
 
-    "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/temper-lib-zone"],
+    "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 
     "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:temper/temper-lorebooks"],
 
