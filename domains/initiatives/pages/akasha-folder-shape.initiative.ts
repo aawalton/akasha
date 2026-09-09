@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`--check folder-matches-a-shape` forces a check that runs at no audit and takes many `--file-path` at once. A subagent is refused the audit, so the seat gathers and hands them over. Narrowing does not confine the answer, so dedupe on the path before the dash. `oneLine` at `audit.command.code.ts:169` holds a reason to 240 characters, so only the first shape reason survives; landing calls it nowhere, so a refused apply carries the whole reason. Opens-with is answered before any shape is asked.\n",
+        "Opens-with wants a folder move alone: `namingOver:330` is `strippedOf(pluralSlug ?? slug, names above)`, the name the page gives its folder rather than the page's own slug. `move-folder` rewrites relative imports only — it leaves a package's `exports` map naming a path where no file is, and refuses at draft where a generated file imports the folder. The largest remaining class is a folder holding many pages of one type, which is `pages-of-one-type`, disabled and Alan's.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
