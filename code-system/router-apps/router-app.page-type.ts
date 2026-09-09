@@ -11,7 +11,7 @@ import type { RouteTable } from "./properties/route-table.file-property.ts"
 import type { RouteTypesDirectory } from "./properties/route-types-directory.build-folder-property.ts"
 import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.file-property.ts"
 import type { RouterConfig } from "./properties/router-config.file-property.ts"
-import type { Server } from "./properties/server.file-property.ts"
+import type { Server } from "./properties/server.code-file-property.ts"
 import type { ServerEntry } from "./properties/server-entry.file-property.ts"
 import type { SidebarBoot } from "./properties/sidebar-boot.file-property.ts"
 import type { SiteIcon } from "./properties/site-icon.file-property.ts"
@@ -53,7 +53,7 @@ export const routerApp = {
     "file-property/route-table",
     "file-property/router-app-git-ignore",
     "file-property/router-config",
-    "file-property/server",
+    "code-file-property/server",
     "file-property/server-entry",
     "file-property/sidebar-boot",
     "file-property/site-icon",
@@ -73,7 +73,7 @@ export const routerApp = {
     { pagePropertySlug: "file-property/compile-config", required: false, many: false },
     { pagePropertySlug: "file-property/app-layout", required: false, many: false },
     { pagePropertySlug: "file-property/vite-config", required: false, many: false },
-    { pagePropertySlug: "file-property/server", required: false, many: false },
+    { pagePropertySlug: "code-file-property/server", required: false, many: false },
     { pagePropertySlug: "file-property/addon-bundle-image", required: false, many: false },
     { pagePropertySlug: "file-property/sidebar-boot", required: false, many: false },
     { pagePropertySlug: "file-property/placeholder-image", required: false, many: false },
