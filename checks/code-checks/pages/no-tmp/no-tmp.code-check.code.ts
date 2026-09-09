@@ -16,7 +16,9 @@ const IN_TMP = /^\/tmp(\/|$)/
 
 const PAGE_TYPE = "page-type"
 
-const TYPE_SLUG = "pageTypeSlug"
+const TYPE = "type"
+
+const WAS_TYPE_SLUG = "pageTypeSlug"
 
 const ALLOWS = "allowsTmpPaths"
 
@@ -95,7 +97,7 @@ function allowedIn(path: string, shadow: Shadow): boolean {
   if (listed === undefined) return false
   const page = shadow.pageOf(listed.path)
   if (page === null) return false
-  const slug = textAt(page, TYPE_SLUG)
+  const slug = textAt(page, TYPE) ?? textAt(page, WAS_TYPE_SLUG)
   if (slug === null) return false
   return shadow.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true
 }

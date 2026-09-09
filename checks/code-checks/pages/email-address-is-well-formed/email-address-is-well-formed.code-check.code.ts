@@ -8,7 +8,9 @@ import { carriedBy } from "../relation-resolves/relation-resolves.code-check.cod
 
 const ADDRESS = "email-address-property"
 
-const KIND = "pageTypeSlug"
+const KIND = "type"
+
+const WAS_KIND = "pageTypeSlug"
 
 const AT = "@"
 
@@ -67,7 +69,7 @@ export function keyingIn(under: ReadonlySet<string>, shadow: Shadow): Keying {
 }
 
 export function reasonsIn(path: string, value: Value, keying: Keying): readonly Judged[] {
-  const kind = textAt(value, KIND)
+  const kind = textAt(value, KIND) ?? textAt(value, WAS_KIND)
   if (kind === null) return []
   const said: Judged[] = []
   for (const one of keying(kind)) {

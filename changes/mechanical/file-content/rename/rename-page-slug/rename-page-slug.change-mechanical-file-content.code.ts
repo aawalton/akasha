@@ -40,6 +40,8 @@ const TYPED = ".ts"
 
 const SLUG = "slug"
 
+const PAGE_TYPE = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const PLURAL_SLUG = "pluralSlug"
@@ -128,7 +130,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   const source = parsedAs(given.at, text)
   const said = statedIn(source)
   const slug = said.get(SLUG)
-  const pageType = said.get(PAGE_TYPE_SLUG)
+  const pageType = said.get(PAGE_TYPE) ?? said.get(PAGE_TYPE_SLUG)
   const id = said.get(ID)
   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
   if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)

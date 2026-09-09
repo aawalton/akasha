@@ -163,7 +163,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       judged.push({ path, reason: unloadable(loaded.failed) })
       continue
     }
-    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) {
       judged.push({ path, reason: STATES_NO_PAGE_TYPE })
       continue

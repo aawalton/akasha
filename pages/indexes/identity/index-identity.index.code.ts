@@ -63,7 +63,7 @@ export function filedIn(
 ): readonly Filed[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
-  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   const held: Filed[] = []
   for (const [propertySlug, one] of identifying(pageTypeSlug)) {

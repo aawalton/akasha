@@ -58,7 +58,7 @@ export function pagesElsewhere(
 function typesNamed(values: readonly Value[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of values) {
-    if (textAt(one, "pageTypeSlug") !== PAGE_TYPE) continue
+    if ((textAt(one, "type") ?? textAt(one, "pageTypeSlug")) !== PAGE_TYPE) continue
     const slug = textAt(one, "slug")
     if (slug !== null) found.add(slug)
   }

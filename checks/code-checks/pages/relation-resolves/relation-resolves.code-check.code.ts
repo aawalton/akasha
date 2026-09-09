@@ -119,7 +119,7 @@ export function danglingIn(
   known: Shaped,
   mortal: Mortality
 ): readonly Judged[] {
-  const own = textAt(value, "pageTypeSlug")
+  const own = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (own !== null && mortal.stated(own)) return []
   const said: Judged[] = []
   const seen = new Set<string>()

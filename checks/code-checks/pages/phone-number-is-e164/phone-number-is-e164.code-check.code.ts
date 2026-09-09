@@ -86,7 +86,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     if (!pageNamed(path, pageTypes)) continue
     const value = shadow.pageOf(path)
     if (value === null) continue
-    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     if (pageTypeSlug === null) continue
     const keyed = keyedBy(pageTypeSlug)
     if (keyed.size === 0) continue

@@ -15,7 +15,9 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const SLUG = "slug"
 
-const PAGE_TYPE_SLUG = "pageTypeSlug"
+const PAGE_TYPE = "type"
+
+const WAS_PAGE_TYPE_SLUG = "pageTypeSlug"
 
 type Said = {
   readonly slug: string
@@ -35,13 +37,16 @@ function textOf(node: ts.Expression | undefined): string | null {
 
 function statedIn(node: ts.ObjectLiteralExpression): Said | null {
   let slug: string | null = null
-  let pageTypeSlug: string | null = null
+  let stated: string | null = null
+  let wasStated: string | null = null
   for (const one of node.properties) {
     if (!ts.isPropertyAssignment(one)) continue
     const key = ts.isIdentifier(one.name) || ts.isStringLiteral(one.name) ? one.name.text : null
     if (key === SLUG) slug = textOf(one.initializer)
-    if (key === PAGE_TYPE_SLUG) pageTypeSlug = textOf(one.initializer)
+    if (key === PAGE_TYPE) stated = textOf(one.initializer)
+    if (key === WAS_PAGE_TYPE_SLUG) wasStated = textOf(one.initializer)
   }
+  const pageTypeSlug = stated ?? wasStated
   if (slug === null || pageTypeSlug === null) return null
   return { slug, pageTypeSlug }
 }

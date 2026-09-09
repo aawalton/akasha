@@ -12,7 +12,9 @@ const PAGE_PROPERTY = "page-property"
 
 const DECLARED = "properties"
 
-const KIND = "pageTypeSlug"
+const KIND = "type"
+
+const WAS_KIND = "pageTypeSlug"
 
 const SLUG = "slug"
 
@@ -78,7 +80,7 @@ export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly 
   const properties = shadow.index.kindsUnder(PAGE_PROPERTY)
   const found = new Map<string, Held>()
   for (const one of carried) {
-    const kind = textAt(one.value, KIND)
+    const kind = textAt(one.value, KIND) ?? textAt(one.value, WAS_KIND)
     const slug = textAt(one.value, SLUG)
     if (kind === null || slug === null) continue
     if (under.has(kind)) taking(found, { slug, kind, path: one.path, descends: true })
@@ -87,7 +89,7 @@ export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly 
     }
   }
   for (const one of carried) {
-    const kind = textAt(one.value, KIND)
+    const kind = textAt(one.value, KIND) ?? textAt(one.value, WAS_KIND)
     const id = textAt(one.value, ID)
     if (kind === null || id === null || !properties.has(kind)) continue
     for (const said of shadow.index.declaringOf(id)) {
