@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const theShapingOfMiddleEarth = {
   id: "01a06808-148f-7030-80ab-dad071276e0b",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "the-shaping-of-middle-earth",
   title: "The Shaping of Middle-earth",
   partOfCollections: ["the-history-of-middle-earth"],

@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const bruceRMcconkie = {
   id: "01a06808-148e-700e-9ed9-e6f80856bceb",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "bruce-r-mcconkie",
   title: "Bruce R. McConkie",
   partOfCollections: ["apostles"],

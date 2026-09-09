@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const theChildrenOfHurin = {
   id: "01a06808-148f-7019-a11e-86edce2c119c",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "the-children-of-hurin",
   title: "The Children of Húrin",
   partOfCollections: ["the-lord-of-the-rings-books"],

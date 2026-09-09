@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const twinsOfPetaybee = {
   id: "01a06808-148f-703a-8283-3db637f3a349",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "twins-of-petaybee",
   title: "Twins of Petaybee",
   partOfCollections: ["anne-mccaffrey"],

@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const teachingsOfTheLatterDayProphetsSeries = {
   id: "01a06808-148f-7016-b602-2e01b72a30f3",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "teachings-of-the-latter-day-prophets-series",
   title: "Teachings of the Latter-day Prophets Series",
   partOfCollections: ["faith-collections"],

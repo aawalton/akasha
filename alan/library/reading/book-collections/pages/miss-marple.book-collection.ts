@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const missMarple = {
   id: "01a06808-148f-7004-8028-26c494edea6a",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "miss-marple",
   title: "Miss Marple",
   partOfCollections: ["agatha-christie"],

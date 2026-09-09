@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const crystalSinger = {
   id: "01a06808-148e-7014-b195-e0cc3f7ef599",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "crystal-singer",
   title: "Crystal Singer",
   partOfCollections: ["anne-mccaffrey"],

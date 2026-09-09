@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const theSilmarillion = {
   id: "01a06808-148f-7031-9c8e-d2682eebe32b",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "the-silmarillion",
   title: "The Silmarillion",
   partOfCollections: ["the-lord-of-the-rings-books"],

@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const nonesuchDickens = {
   id: "01a06808-148f-7006-88b5-460c3b420aa5",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "nonesuch-dickens",
   title: "Nonesuch Dickens",
   partOfCollections: ["classics-collections"],

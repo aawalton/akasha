@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const acorna = {
   id: "01a06808-148d-7000-8fd3-6c5914c2df3e",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "acorna",
   title: "Acorna",
   partOfCollections: ["anne-mccaffrey"],

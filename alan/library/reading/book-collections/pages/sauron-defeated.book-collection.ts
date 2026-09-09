@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const sauronDefeated = {
   id: "01a06808-148f-700e-b5a9-17f26075e10a",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "sauron-defeated",
   title: "Sauron Defeated",
   partOfCollections: ["the-history-of-middle-earth"],

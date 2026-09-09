@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const towerAndHive = {
   id: "01a06808-148f-7039-9ea6-a05b3f78898d",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "tower-and-hive",
   title: "Tower and Hive",
   partOfCollections: ["anne-mccaffrey"],

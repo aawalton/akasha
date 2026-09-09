@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const discoursesOfPresidentGordonBHinckley = {
   id: "01a06808-148e-7019-8b7a-c04424d4acc3",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "discourses-of-president-gordon-b-hinckley",
   title: "Discourses of President Gordon B. Hinckley",
   partOfCollections: ["gordon-b-hinckley"],

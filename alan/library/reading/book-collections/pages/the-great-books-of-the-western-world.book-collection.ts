@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const theGreatBooksOfTheWesternWorld = {
   id: "01a06808-148f-7024-9864-399d329a44be",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "the-great-books-of-the-western-world",
   title: "The Great Books of the Western World",
   partOfCollections: ["classics-collections"],

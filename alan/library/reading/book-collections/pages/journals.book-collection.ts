@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const journals = {
   id: "01a06808-148f-7002-bed8-df1398659b65",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "journals",
   title: "Journals",
   partOfCollections: ["the-joseph-smith-papers"],

@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const unfinishedTalesOfNumenorAndMiddleEarth = {
   id: "01a06808-148f-703b-8341-acb5a7274256",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "unfinished-tales-of-numenor-and-middle-earth",
   title: "Unfinished Tales of Númenor and Middle-earth",
   partOfCollections: ["the-lord-of-the-rings-books"],

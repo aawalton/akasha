@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const theSecondWorldWar = {
   id: "01a06808-148f-702f-a067-53ad9c185fc5",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "the-second-world-war",
   title: "The Second World War",
   partOfCollections: ["histories-2"],

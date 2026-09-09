@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const teachingsOfJosephFieldingSmith = {
   id: "01a06808-148f-7015-9895-a12daee963db",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "teachings-of-joseph-fielding-smith",
   title: "Teachings of Joseph Fielding Smith",
   partOfCollections: ["joseph-fielding-smith"],

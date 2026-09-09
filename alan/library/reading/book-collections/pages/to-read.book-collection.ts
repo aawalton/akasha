@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const toRead = {
   id: "01a06808-148f-7037-b509-e773689b474e",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "to-read",
   title: "To Read",
   partOfCollections: ["book-collections"],

@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const historyCollections = {
   id: "01a06808-148e-702a-9e72-e4221d101cde",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "history-collections",
   title: "History Collections",
   partOfCollections: ["book-collections"],

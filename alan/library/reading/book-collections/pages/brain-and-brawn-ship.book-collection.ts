@@ -3,6 +3,7 @@ import type { BookCollection } from "../book-collection.page-type.ts"
 export const brainAndBrawnShip = {
   id: "01a06808-148e-7009-8596-d4b5153081b8",
   pageTypeSlug: "book-collection",
+  type: "book-collection",
   slug: "brain-and-brawn-ship",
   title: "Brain & Brawn Ship",
   partOfCollections: ["anne-mccaffrey"],
