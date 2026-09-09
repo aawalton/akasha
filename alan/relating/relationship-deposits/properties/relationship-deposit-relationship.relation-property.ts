@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type RelationshipDepositRelationshipSlug = Slug
+export type RelationshipDepositRelationship = Slug
 
-export const relationshipDepositRelationshipSlug = {
+export const relationshipDepositRelationship = {
   id: "01a0658d-16bc-7f4b-9f6a-084d08b2ce0b",
   pageTypeSlug: "relation-property",
-  slug: "relationship-deposit-relationship-slug",
-  propertySlug: "relationship-deposit-relationship-slug",
+  slug: "relationship-deposit-relationship",
+  propertySlug: "relationship-deposit-relationship",
   definition: "the person it was put into",
   targetPageTypeSlug: "page-type/relationship",
 } as const satisfies RelationProperty

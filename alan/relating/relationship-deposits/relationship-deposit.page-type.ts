@@ -3,7 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { RelationshipDepositDate } from "./properties/relationship-deposit-date.calendar-date-property.ts"
 import type { RelationshipDepositPersona } from "./properties/relationship-deposit-persona.relation-property.ts"
-import type { RelationshipDepositRelationshipSlug } from "./properties/relationship-deposit-relationship-slug.relation-property.ts"
+import type { RelationshipDepositRelationship } from "./properties/relationship-deposit-relationship.relation-property.ts"
 import type { RelationshipDepositSize } from "./properties/relationship-deposit-size.select-property.ts"
 import type { RelationshipDepositValueSlug } from "./properties/relationship-deposit-value-slug.relation-property.ts"
 
@@ -11,7 +11,7 @@ export type RelationshipDeposit = Page & {
   title: Title
   relationshipDepositDate: RelationshipDepositDate
   relationshipDepositPersona: RelationshipDepositPersona
-  relationshipDepositRelationshipSlug: RelationshipDepositRelationshipSlug
+  relationshipDepositRelationship: RelationshipDepositRelationship
   relationshipDepositSize: RelationshipDepositSize
   relationshipDepositValueSlug: RelationshipDepositValueSlug
 }
@@ -26,7 +26,7 @@ export const relationshipDeposit = {
   partSlugs: [
     "calendar-date-property/relationship-deposit-date",
     "relation-property/relationship-deposit-persona",
-    "relation-property/relationship-deposit-relationship-slug",
+    "relation-property/relationship-deposit-relationship",
     "relation-property/relationship-deposit-value-slug",
     "select-property/relationship-deposit-size",
   ],
@@ -43,7 +43,7 @@ export const relationshipDeposit = {
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/relationship-deposit-relationship-slug",
+      pagePropertySlug: "relation-property/relationship-deposit-relationship",
       required: true,
       many: false,
     },

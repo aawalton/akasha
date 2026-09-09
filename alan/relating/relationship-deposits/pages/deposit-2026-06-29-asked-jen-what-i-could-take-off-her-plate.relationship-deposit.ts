@@ -7,7 +7,7 @@ export const deposit20260629AskedJenWhatICouldTakeOffHerPlate = {
   title: "Deposit — 2026-06-29 — asked Jen what I could take off her plate",
   relationshipDepositDate: "2026-06-29",
   relationshipDepositPersona: "ruby",
-  relationshipDepositRelationshipSlug: "jennifer-walton",
+  relationshipDepositRelationship: "jennifer-walton",
   relationshipDepositSize: "medium",
   relationshipDepositValueSlug: "love",
 } as const satisfies RelationshipDeposit
