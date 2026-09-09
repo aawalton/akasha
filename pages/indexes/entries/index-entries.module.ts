@@ -20,6 +20,11 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property whose page type extends a file property is held in a file as that property is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which properties are entry shapes is answered here rather than by the caller.",
     },
     {

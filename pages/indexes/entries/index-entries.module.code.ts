@@ -52,13 +52,45 @@ export const FILE_PROPERTY = "file-property"
 
 export const ENTRY_PROPERTY = "page-property-entry"
 
-function besides(pageTypeSlug: string | null): boolean {
-  return pageTypeSlug === FILE_PROPERTY || pageTypeSlug === ENTRY_PROPERTY
+type Beside = (pageTypeSlug: string | null) => boolean
+
+function aboveIn(types: ReadonlyMap<string, Value>): ReadonlyMap<string, readonly string[]> {
+  const found = new Map<string, readonly string[]>()
+  for (const [slug, value] of types) {
+    const up = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
+    if (up.length > 0) found.set(slug, up)
+  }
+  return found
+}
+
+function besidesIn(above: ReadonlyMap<string, readonly string[]>): Beside {
+  const held = new Map<string, boolean>()
+  const reaches = (slug: string, walked: Set<string>): boolean => {
+    if (slug === FILE_PROPERTY || slug === ENTRY_PROPERTY) return true
+    if (walked.has(slug)) return false
+    walked.add(slug)
+    return (above.get(slug) ?? []).some((one) => reaches(one, walked))
+  }
+  return (pageTypeSlug) => {
+    if (pageTypeSlug === null) return false
+    const found = held.get(pageTypeSlug)
+    if (found !== undefined) return found
+    const said = reaches(pageTypeSlug, new Set<string>())
+    held.set(pageTypeSlug, said)
+    return said
+  }
+}
+
+function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
+  const among = typeSlugsIn(given)
+  return typesAmong(typeValuesIn(given, among), among)
 }
 
 export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
+  const held = [...values]
+  const beside = besidesIn(aboveIn(typesAmong(held)))
   const found = new Map<string, string | null>()
-  for (const value of values) {
+  for (const value of held) {
     const key = textAt(value, "propertySlug")
     if (key === null) continue
     const fileName = textAt(value, "fileName")
@@ -66,7 +98,7 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
       found.set(key, fileName)
       continue
     }
-    if (besides(textAt(value, "pageTypeSlug"))) found.set(key, null)
+    if (beside(textAt(value, "pageTypeSlug"))) found.set(key, null)
   }
   return found
 }
@@ -105,10 +137,11 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
 
 export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {
   return answered(given, "", "which keys any page type holds in a file", (reading) => {
+    const beside = besidesIn(aboveIn(typesIn(reading)))
     const found = new Map<string, string | null>()
     for (const held of schemaAt(reading).values()) {
       if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
-      else if (besides(held.pageTypeSlug)) found.set(held.propertySlug, null)
+      else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
     }
     return found
   })
@@ -159,11 +192,8 @@ function carriedBy(
   types: ReadonlyMap<string, Value>
 ): Carrying {
   const bare = bareAmong(properties)
-  const above = new Map<string, readonly string[]>()
-  for (const [slug, value] of types) {
-    const up = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
-    if (up.length > 0) above.set(slug, up)
-  }
+  const above = aboveIn(types)
+  const beside = besidesIn(above)
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
   const foldered = new Map<string, ReadonlyMap<string, string>>()
@@ -188,7 +218,7 @@ function carriedBy(
         if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
           folders.set(hit.propertySlug, hit.folderName)
         }
-        if (hit.fileName === null && !besides(hit.pageTypeSlug)) continue
+        if (hit.fileName === null && !beside(hit.pageTypeSlug)) continue
         if (held.has(hit.propertySlug)) continue
         held.set(hit.propertySlug, hit.fileName)
         if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
@@ -215,9 +245,8 @@ function carryingOver(given: string | Reading, left: Iterable<Value>): Carrying 
   const held = [...left]
   const properties = new Map(filedAmong(given))
   for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
-  const among = typeSlugsIn(given)
-  const types = new Map(typesAmong(typeValuesIn(given, among), among))
-  for (const [slug, value] of typesAmong(held, among)) types.set(slug, value)
+  const types = new Map(typesIn(given))
+  for (const [slug, value] of typesAmong(held, typeSlugsIn(given))) types.set(slug, value)
   return carriedBy(properties, types)
 }
 

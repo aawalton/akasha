@@ -162,6 +162,30 @@ test("a stated file name holds a property in a file whatever page type the prope
   expect([...fileKeysAt(readingAt(index))]).toEqual([["manifest", "package.json"]])
 })
 
+const EXTENDING = [
+  {
+    id: "1",
+    pageTypeSlug: "page-type",
+    slug: "code-file-property",
+    extendsSlug: ["page-type/file-property"],
+  },
+  { id: "2", pageTypeSlug: "code-file-property", slug: "lua", propertySlug: "lua" },
+  {
+    id: "3",
+    pageTypeSlug: "page-type",
+    slug: "lua-module",
+    properties: [{ pagePropertySlug: "code-file-property/lua" }],
+  },
+]
+
+test("a property whose page type extends a file property is held in a file, naming no file", () => {
+  expect([...fileKeysIn(EXTENDING)]).toEqual([["lua", null]])
+})
+
+test("a page type declaring such a property holds that property in a file too", () => {
+  expect([...(filePropertiesIn(EXTENDING).get("lua-module") ?? [])]).toEqual([["lua", null]])
+})
+
 test("a file property is answered under the page type declaring it and under no other", () => {
   const said = filePropertiesIn(SHARED_NAME)
 
