@@ -3,6 +3,7 @@ import type { NameFormat } from "../../name-format.page-type.ts"
 export const upperCamelCase = {
   id: "01a04eba-7459-7eca-8601-1a20dbb5a53c",
   pageTypeSlug: "name-format",
+  type: "name-format",
   slug: "upper-camel-case",
   definition: "a name format joining words with nothing between, every word starting capital",
   code: "ts",

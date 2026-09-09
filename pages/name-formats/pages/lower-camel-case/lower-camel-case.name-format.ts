@@ -3,6 +3,7 @@ import type { NameFormat } from "../../name-format.page-type.ts"
 export const lowerCamelCase = {
   id: "01a04eba-7459-7514-a7a9-88538edfa887",
   pageTypeSlug: "name-format",
+  type: "name-format",
   slug: "lower-camel-case",
   definition:
     "a name format joining words with nothing between, every word but the first starting capital",
