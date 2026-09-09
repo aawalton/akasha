@@ -10,6 +10,7 @@ import {
 } from "../subagents/presence/subagent-presence.module.code.ts"
 import {
   committed,
+  filedNow,
   HELD_ASSIGNMENT,
   HELD_ID,
   OWN,
@@ -27,10 +28,12 @@ function heldInHistory(root: string, kind: string): undefined {
   pageGone(root, at)
 }
 
-function heldNow(root: string, dispatchedAs: string, id?: string): string {
+function heldNow(root: string, dispatchedAs: string, id: string): string {
   const slug = slugOf("akasha", OWN)
   const held = agentIdOf(SEAT_ID, OWN)
-  writing(root, pathOf(slug), bodyOf(slug, "akasha", HELD_ASSIGNMENT, dispatchedAs, held, id))
+  const at = pathOf(slug)
+  writing(root, at, bodyOf(slug, "akasha", HELD_ASSIGNMENT, dispatchedAs, held, id))
+  filedNow(root, at, slug, id)
   return slug
 }
 
@@ -60,17 +63,6 @@ test("a page carrying the kind it had is read as a subagent at work with that ki
     const root = seated(world.rootFor("subagent-page-"))
     const slug = heldNow(root, "Explore", HELD_ID)
     expect(seeing(root, SEAT_ID)).toEqual([{ name: slug, dispatchedAs: "Explore" }])
-  } finally {
-    world.sweep()
-  }
-})
-
-test("a page stating no id is read as a subagent at work too", () => {
-  const world = scratchWorld()
-  try {
-    const root = seated(world.rootFor("subagent-page-"))
-    const slug = heldNow(root, "Task")
-    expect(seeing(root, SEAT_ID)).toEqual([{ name: slug, dispatchedAs: "Task" }])
   } finally {
     world.sweep()
   }

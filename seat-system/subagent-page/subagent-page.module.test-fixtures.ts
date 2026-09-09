@@ -1,7 +1,10 @@
+import { join } from "node:path"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
+import { valueAt } from "@akasha/pages/page-value"
 import { declaringUnder } from "@akasha/testing-system/declaring"
+import { said as outOf } from "../../utils/run/running/running.module.code.ts"
 import { standingSubagentsOf } from "./subagent-page.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -22,10 +25,6 @@ const REPO_AT = "infrastructure/repos/pages/akasha-repo.repo.ts"
 
 const REPO_BODY = "export const akashaRepo = 1\n"
 
-// THE SEAT PAGE SITS AT THE ROOT RATHER THAN UNDER THE TREE THE INDEX IS REBUILT FROM, because a
-// page found by id is a seat only where its path is under `seat-system/seats/pages`, and akasha's
-// own checkout has no folder above that. The declaring pages keep their tree, which is what the
-// rebuild reads and what a landing is judged against.
 export function seated(root: string): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
@@ -57,6 +56,13 @@ export function seated(root: string): string {
   return root
 }
 
+export function filedNow(root: string, at: string, slug: string, id: string): undefined {
+  const value = valueAt(join(root, at), root)
+  if (value === null) return
+  listedFiled(root, "subagent", slug, [{ path: at, id }])
+  valueAlsoFiled(root, "subagent", [{ path: at, value }])
+}
+
 export function committed(root: string, why: string): undefined {
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", why])
@@ -72,19 +78,12 @@ export interface Seen {
   readonly dispatchedAs: string
 }
 
-// THE READING IS TAKEN IN A PROCESS OF ITS OWN. `standingSubagentsOf` asks which repositories are
-// cloned here and holds the answer for the life of the process, so a test root it is pointed at
-// has to be named before anything asks. That is what `AKASHA_ROOT` does, and a fresh process is
-// what makes the naming reach the first question rather than the second.
 export function seeing(root: string, agentId: string): readonly Seen[] {
-  const proc = Bun.spawnSync([process.execPath, import.meta.path, agentId], {
+  const out = outOf([process.execPath, import.meta.path, agentId], {
     env: { ...process.env, AKASHA_ROOT: root },
-    stdout: "pipe",
-    stderr: "pipe",
-  })
-  const said = proc.stdout.toString().trim()
-  if (said === "") throw new Error(`the reading said nothing — ${proc.stderr.toString()}`)
-  return JSON.parse(said) as readonly Seen[]
+  }).trim()
+  if (out === "") throw new Error("the reading said nothing")
+  return JSON.parse(out) as readonly Seen[]
 }
 
 if (import.meta.main) {
