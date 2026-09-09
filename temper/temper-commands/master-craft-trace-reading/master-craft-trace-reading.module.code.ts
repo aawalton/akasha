@@ -1,4 +1,4 @@
-import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 import { readInventoryDiagnostic } from "../inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"
 

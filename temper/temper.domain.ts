@@ -43,7 +43,7 @@ export const temper = {
     "domain/temper-eso-paths",
     "domain/temper-eso-typings",
     "eso-addon/temper-lib-table-functions",
-    "workspace-package/temper-saved-variables",
+    "domain/temper-saved-variables",
     "workspace-package/temper-settings-panel",
     "domain/temper-capture-descriptor",
     "eso-addon/temper-lib-alchemy-station",

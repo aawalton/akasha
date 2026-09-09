@@ -1,7 +1,7 @@
-import { savedVariablesRootSchema as captureRootSchema } from "@akasha/temper-saved-variables/account-wide"
-import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
 import type { ErrorsPayload } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import { savedVariablesRootSchema as captureRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
 import { z } from "zod"
 
 export const errorEntrySchema = z

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSavedVariables = {
   id: "01a06053-3633-77f0-8acd-df36807c5f6c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-saved-variables",
   definition: "the Lua file the game writes an add-on's own state into",
-  manifest: "json",
   parts: ["module/lua-parser", "module/lua-serializer", "module/account-wide", "module/lua-array"],
   invariants: [
     {
@@ -31,4 +30,4 @@ export const temperSavedVariables = {
         "The game writes a saved-variables file on a reload or a quit rather than as an addon acts.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

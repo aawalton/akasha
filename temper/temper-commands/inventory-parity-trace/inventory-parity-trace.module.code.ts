@@ -1,7 +1,7 @@
 import { DataError } from "@akasha/errors-core/exit-code"
-import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
-import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 const FILE_NAME = "TemperInventory.lua"

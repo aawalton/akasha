@@ -16,7 +16,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@googleapis/calendar": "^15.0.0",
     "@googleapis/drive": "^20.2.0",

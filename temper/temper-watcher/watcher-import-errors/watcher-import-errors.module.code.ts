@@ -1,4 +1,3 @@
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,
@@ -13,6 +12,7 @@ import {
   gatherTriage,
   readDeployedBuildId,
 } from "akasha/temper/errors-triage/errors-triage-gather/errors-triage-gather.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import {
   loadErrorCursor,
   saveErrorCursor,

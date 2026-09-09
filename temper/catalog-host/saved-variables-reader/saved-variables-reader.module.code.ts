@@ -1,5 +1,5 @@
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 export const SAVED_VARIABLES_TOP_LEVEL = "TemperCatalog_SavedVariables"

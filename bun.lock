@@ -45,7 +45,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
@@ -1225,13 +1224,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/saved-variables": {
-      "name": "@akasha/temper-saved-variables",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/selector-addon": {
       "name": "@akasha/temper-selector-addon",
       "dependencies": {
@@ -1597,8 +1589,6 @@
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/player-completion-state"],
 
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
-
-    "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:temper/saved-variables"],
 
     "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
 

@@ -1,9 +1,9 @@
 import { DataError } from "@akasha/errors-core/exit-code"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { RULE_CONSTANT_KEYS } from "@akasha/temper-items-rules-core/rule-constants"
-import { savedVariablesRootSchema } from "@akasha/temper-saved-variables/account-wide"
-import { luaArrayOrEmpty } from "@akasha/temper-saved-variables/lua-array"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
+import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { luaArrayOrEmpty } from "akasha/temper/saved-variables/lua-array/lua-array.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { z } from "zod"
 
 export interface CompiledRule {

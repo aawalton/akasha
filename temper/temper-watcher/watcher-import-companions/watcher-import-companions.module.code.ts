@@ -1,11 +1,11 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { companionRoles } from "akasha/temper/temper-companions-core/companion-roles/companion-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
