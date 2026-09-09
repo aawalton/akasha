@@ -3,11 +3,11 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { CargoBuildScript } from "./properties/cargo-build-script.named-file-property.ts"
 import type { CargoManifest } from "./properties/cargo-manifest.named-file-property.ts"
 import type { CrateIcon } from "./properties/crate-icon.file-property.ts"
-import type { RustModuleSlugs } from "./properties/rust-module-slugs.relation-property.ts"
+import type { RustModules } from "./properties/rust-modules.relation-property.ts"
 
 export type RustCrate = Domain & {
   cargoManifest: CargoManifest
-  moduleSlugs?: RustModuleSlugs
+  modules?: RustModules
   cargoBuildScript?: CargoBuildScript
   icon?: CrateIcon
 }
@@ -22,13 +22,13 @@ export const rustCrate = {
     "file-property/crate-icon",
     "named-file-property/cargo-build-script",
     "named-file-property/cargo-manifest",
-    "relation-property/rust-module-slugs",
+    "relation-property/rust-modules",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "named-file-property/cargo-manifest", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/rust-module-slugs",
+      pagePropertySlug: "relation-property/rust-modules",
       required: false,
       many: true,
       maxCount: null,

@@ -2,13 +2,13 @@ import type { Slug } from "@akasha/pages/page/slug"
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type RustModuleSlugs = List<Slug>
+export type RustModules = List<Slug>
 
-export const rustModuleSlugs = {
+export const rustModules = {
   id: "01a0602d-6ad1-75bd-afd3-a951482bc17a",
   pageTypeSlug: "relation-property",
-  slug: "rust-module-slugs",
-  propertySlug: "module-slugs",
+  slug: "rust-modules",
+  propertySlug: "modules",
   definition: "the modules a crate compiles",
   targetPageTypeSlug: "page-type/rust-module",
 } as const satisfies RelationProperty

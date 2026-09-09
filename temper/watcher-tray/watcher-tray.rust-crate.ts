@@ -8,7 +8,7 @@ export const watcherTray = {
   cargoManifest: "toml",
   cargoBuildScript: "rs",
   icon: "json",
-  moduleSlugs: [
+  modules: [
     "rust-module/watcher-tray-installer",
     "rust-module/watcher-tray-logger",
     "rust-module/watcher-tray-main",
