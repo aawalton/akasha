@@ -8,7 +8,7 @@ export const godOfTrash0340340TakingCareOfBusiness = {
   story: "god-of-trash",
   position: 340,
   ownLength: 2022,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3712374/340-taking-care-of-business",

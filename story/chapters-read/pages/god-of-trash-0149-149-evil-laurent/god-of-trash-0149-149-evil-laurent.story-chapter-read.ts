@@ -8,7 +8,7 @@ export const godOfTrash0149149EvilLaurent = {
   story: "god-of-trash",
   position: 149,
   ownLength: 2202,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2487284/149-evil-laurent",

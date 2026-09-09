@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0058Chapter991ThisOfferKindOfSucks = {
   story: "story-read/he-who-fights-with-monsters",
   position: 58,
   ownLength: 2501,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3159799/chapter-991-this-offer-kind-of-sucks",

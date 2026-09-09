@@ -8,7 +8,7 @@ export const godOfTrash0189189Misunderstandings = {
   story: "god-of-trash",
   position: 189,
   ownLength: 1860,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2608327/189-misunderstandings",

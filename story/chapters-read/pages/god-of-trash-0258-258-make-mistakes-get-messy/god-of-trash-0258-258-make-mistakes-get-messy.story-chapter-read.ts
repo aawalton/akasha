@@ -8,7 +8,7 @@ export const godOfTrash0258258MakeMistakesGetMessy = {
   story: "god-of-trash",
   position: 258,
   ownLength: 2078,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2921359/258-make-mistakes-get-messy",

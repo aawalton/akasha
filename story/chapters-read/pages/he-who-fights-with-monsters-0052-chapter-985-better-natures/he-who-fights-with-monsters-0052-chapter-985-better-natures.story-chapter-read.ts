@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0052Chapter985BetterNatures = {
   position: 52,
   ownLength: 2608,
   ownProgress: 2608,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:40.501Z",
   publishedAt: "2026-02-23",
   externalLink:

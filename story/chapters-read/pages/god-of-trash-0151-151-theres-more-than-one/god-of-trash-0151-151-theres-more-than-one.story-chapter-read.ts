@@ -8,7 +8,7 @@ export const godOfTrash0151151TheresMoreThanOne = {
   story: "god-of-trash",
   position: 151,
   ownLength: 1960,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2492273/151-theres-more-than-one",

@@ -8,7 +8,7 @@ export const godOfTrash0143143TheCreativeApplicationOfForce = {
   story: "god-of-trash",
   position: 143,
   ownLength: 2394,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2471172/143-the-creative-application-of-force",

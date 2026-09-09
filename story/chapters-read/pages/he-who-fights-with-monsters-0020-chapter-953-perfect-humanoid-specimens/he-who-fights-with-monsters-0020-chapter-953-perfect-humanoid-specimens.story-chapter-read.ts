@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0020Chapter953PerfectHumanoidSpecimens = {
   position: 20,
   ownLength: 2673,
   ownProgress: 2673,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:28.419Z",
   publishedAt: "2025-01-22",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash0264264TheDarkOfTheEarth = {
   story: "god-of-trash",
   position: 264,
   ownLength: 1920,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2965727/264-the-dark-of-the-earth",

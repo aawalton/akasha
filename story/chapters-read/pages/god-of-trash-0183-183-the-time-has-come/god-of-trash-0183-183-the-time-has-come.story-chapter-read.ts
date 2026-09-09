@@ -8,7 +8,7 @@ export const godOfTrash0183183TheTimeHasCome = {
   story: "god-of-trash",
   position: 183,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2593263/183-the-time-has-come",

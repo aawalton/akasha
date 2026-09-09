@@ -8,7 +8,7 @@ export const godOfTrash0275275IThinkIveBeenRevealed = {
   story: "god-of-trash",
   position: 275,
   ownLength: 2185,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-16",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3060847/275-i-think-ive-been-revealed",

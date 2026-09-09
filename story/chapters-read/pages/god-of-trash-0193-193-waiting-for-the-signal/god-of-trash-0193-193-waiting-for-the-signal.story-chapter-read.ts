@@ -8,7 +8,7 @@ export const godOfTrash0193193WaitingForTheSignal = {
   story: "god-of-trash",
   position: 193,
   ownLength: 1467,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2618187/193-waiting-for-the-signal",

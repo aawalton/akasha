@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0001Chapter1AscensionAndReincarnati
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 1,
   ownLength: 2514,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3502636/chapter-1-ascension-and-reincarnation",

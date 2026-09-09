@@ -8,7 +8,7 @@ export const godOfTrash0227227BigUhOhEnergy = {
   story: "god-of-trash",
   position: 227,
   ownLength: 1955,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2720890/227-big-uh-oh-energy",

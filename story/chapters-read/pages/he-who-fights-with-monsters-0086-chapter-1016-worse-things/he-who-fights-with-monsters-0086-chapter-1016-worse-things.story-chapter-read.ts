@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0086Chapter1016WorseThings = {
   story: "story-read/he-who-fights-with-monsters",
   position: 86,
   ownLength: 2422,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892845/chapter-1016-worse-things",

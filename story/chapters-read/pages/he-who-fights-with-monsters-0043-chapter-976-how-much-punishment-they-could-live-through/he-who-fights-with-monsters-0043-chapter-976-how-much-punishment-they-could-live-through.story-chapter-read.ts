@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0043Chapter976HowMuchPunishmentTheyCouldLive
   position: 43,
   ownLength: 3442,
   ownProgress: 3442,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:20.958Z",
   publishedAt: "2026-02-02",
   externalLink:

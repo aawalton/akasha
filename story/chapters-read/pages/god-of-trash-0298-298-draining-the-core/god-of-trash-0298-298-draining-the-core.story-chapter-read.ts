@@ -8,7 +8,7 @@ export const godOfTrash0298298DrainingTheCore = {
   story: "god-of-trash",
   position: 298,
   ownLength: 1615,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3257680/298-draining-the-core",

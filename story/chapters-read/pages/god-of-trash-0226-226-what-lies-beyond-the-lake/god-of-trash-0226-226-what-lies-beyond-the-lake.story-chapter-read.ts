@@ -8,7 +8,7 @@ export const godOfTrash0226226WhatLiesBeyondTheLake = {
   story: "god-of-trash",
   position: 226,
   ownLength: 2574,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2717712/226-what-lies-beyond-the-lake",

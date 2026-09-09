@@ -8,7 +8,7 @@ export const godOfTrash0130130HomewardBound = {
   story: "god-of-trash",
   position: 130,
   ownLength: 2982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2435319/130-homeward-bound",

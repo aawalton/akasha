@@ -8,7 +8,7 @@ export const godOfTrash0173173BackOnTheGrind = {
   story: "god-of-trash",
   position: 173,
   ownLength: 2216,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2566549/173-back-on-the-grind",

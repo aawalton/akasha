@@ -8,7 +8,7 @@ export const godOfTrash0338338DisposalSquad = {
   story: "god-of-trash",
   position: 338,
   ownLength: 1895,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3690875/338-disposal-squad",

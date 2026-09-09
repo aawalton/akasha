@@ -8,7 +8,7 @@ export const godOfTrash0271271TheMorningAfter = {
   story: "god-of-trash",
   position: 271,
   ownLength: 1951,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-06",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3020130/271-the-morning-after",

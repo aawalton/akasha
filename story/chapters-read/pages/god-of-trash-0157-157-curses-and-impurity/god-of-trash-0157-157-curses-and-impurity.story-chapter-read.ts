@@ -8,7 +8,7 @@ export const godOfTrash0157157CursesAndImpurity = {
   story: "god-of-trash",
   position: 157,
   ownLength: 3296,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2507776/157-curses-and-impurity",

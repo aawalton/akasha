@@ -8,7 +8,7 @@ export const godOfTrash0316316ImGoingToBeatUpYourGrandpa = {
   story: "god-of-trash",
   position: 316,
   ownLength: 1919,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3454997/316-im-going-to-beat-up-your-grandpa",

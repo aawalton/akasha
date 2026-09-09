@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0005Chapter5Wizard = {
   position: 5,
   ownLength: 1735,
   ownProgress: 1735,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:03:56.354Z",
   publishedAt: "2019-07-30",
   externalLink:

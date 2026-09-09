@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0045Chapter978ImplicationsForYourWork = {
   position: 45,
   ownLength: 2231,
   ownProgress: 2231,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:25.463Z",
   publishedAt: "2026-02-06",
   externalLink:

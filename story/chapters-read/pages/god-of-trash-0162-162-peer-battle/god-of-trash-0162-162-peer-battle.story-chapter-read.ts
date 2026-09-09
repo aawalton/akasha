@@ -8,7 +8,7 @@ export const godOfTrash0162162PeerBattle = {
   story: "god-of-trash",
   position: 162,
   ownLength: 2001,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2536809/162-peer-battle",

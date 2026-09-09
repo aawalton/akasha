@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0082RemainingBook13ChaptersBeingReleased = {
   story: "story-read/he-who-fights-with-monsters",
   position: 82,
   ownLength: 313,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3861473/remaining-book-13-chapters-being-released-september",

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0033Chapter966ACulturalExperience = {
   position: 33,
   ownLength: 2232,
   ownProgress: 2232,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:59.924Z",
   publishedAt: "2025-02-21",
   externalLink:

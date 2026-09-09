@@ -8,7 +8,7 @@ export const godOfTrash0236236FollowingTheTrails = {
   story: "god-of-trash",
   position: 236,
   ownLength: 2298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2769966/236-following-the-trails",

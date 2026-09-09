@@ -8,7 +8,7 @@ export const godOfTrash0166166CampingAndGlamping = {
   story: "god-of-trash",
   position: 166,
   ownLength: 2314,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2547724/166-camping-and-glamping",

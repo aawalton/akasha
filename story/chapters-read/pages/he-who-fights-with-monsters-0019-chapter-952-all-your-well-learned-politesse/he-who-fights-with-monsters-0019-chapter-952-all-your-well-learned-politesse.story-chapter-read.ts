@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0019Chapter952AllYourWellLearnedPolitesse = 
   position: 19,
   ownLength: 2142,
   ownProgress: 2142,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:26.320Z",
   publishedAt: "2025-01-20",
   externalLink:

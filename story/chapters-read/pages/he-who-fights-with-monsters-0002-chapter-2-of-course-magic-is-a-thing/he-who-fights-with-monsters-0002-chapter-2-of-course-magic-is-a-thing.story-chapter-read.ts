@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0002Chapter2OfCourseMagicIsAThing = {
   position: 2,
   ownLength: 1638,
   ownProgress: 1638,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:03:50.380Z",
   publishedAt: "2019-07-29",
   externalLink:

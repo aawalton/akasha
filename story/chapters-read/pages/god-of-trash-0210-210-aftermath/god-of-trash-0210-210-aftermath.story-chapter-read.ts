@@ -8,7 +8,7 @@ export const godOfTrash0210210Aftermath = {
   story: "god-of-trash",
   position: 210,
   ownLength: 2009,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2661767/210-aftermath",

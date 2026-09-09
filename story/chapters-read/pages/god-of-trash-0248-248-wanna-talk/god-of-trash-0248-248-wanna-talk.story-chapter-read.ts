@@ -8,7 +8,7 @@ export const godOfTrash0248248WannaTalk = {
   story: "god-of-trash",
   position: 248,
   ownLength: 1707,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-15",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2851094/248-wanna-talk",

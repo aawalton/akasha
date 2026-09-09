@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0007Chapter7HumanDad = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 7,
   ownLength: 1872,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3620247/chapter-7-human-dad",

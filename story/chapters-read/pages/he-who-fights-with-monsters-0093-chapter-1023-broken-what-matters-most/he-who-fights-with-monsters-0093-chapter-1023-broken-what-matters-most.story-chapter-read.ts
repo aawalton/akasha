@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0093Chapter1023BrokenWhatMattersMost = {
   story: "story-read/he-who-fights-with-monsters",
   position: 93,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892853/chapter-1023-broken-what-matters-most",

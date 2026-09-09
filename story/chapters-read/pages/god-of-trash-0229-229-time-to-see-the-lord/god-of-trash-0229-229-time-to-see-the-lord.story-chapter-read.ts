@@ -8,7 +8,7 @@ export const godOfTrash0229229TimeToSeeTheLord = {
   story: "god-of-trash",
   position: 229,
   ownLength: 1975,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2726640/229-time-to-see-the-lord",

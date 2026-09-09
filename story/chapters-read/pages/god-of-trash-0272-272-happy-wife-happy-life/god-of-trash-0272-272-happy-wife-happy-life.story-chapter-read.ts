@@ -8,7 +8,7 @@ export const godOfTrash0272272HappyWifeHappyLife = {
   story: "god-of-trash",
   position: 272,
   ownLength: 1980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3030121/272-happy-wife-happy-life",

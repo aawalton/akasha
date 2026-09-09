@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0014Chapter14GroundLevel = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 14,
   ownLength: 1917,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3669848/chapter-14-ground-level",

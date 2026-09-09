@@ -8,7 +8,7 @@ export const godOfTrash0354354IfYouEncounterResistanceYoureGoingThe = {
   story: "god-of-trash",
   position: 354,
   ownLength: 2180,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3860447/354-if-you-encounter-resistance-youre-going-the",

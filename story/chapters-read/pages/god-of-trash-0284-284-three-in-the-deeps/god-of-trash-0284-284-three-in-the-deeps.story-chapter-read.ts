@@ -8,7 +8,7 @@ export const godOfTrash0284284ThreeInTheDeeps = {
   story: "god-of-trash",
   position: 284,
   ownLength: 2002,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3134327/284-three-in-the-deeps",

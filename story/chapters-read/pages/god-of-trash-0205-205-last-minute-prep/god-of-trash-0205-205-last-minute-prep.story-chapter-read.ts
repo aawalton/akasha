@@ -8,7 +8,7 @@ export const godOfTrash0205205LastMinutePrep = {
   story: "god-of-trash",
   position: 205,
   ownLength: 2409,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2649509/205-last-minute-prep",

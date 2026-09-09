@@ -8,7 +8,7 @@ export const godOfTrash0277277SubtleAndLessSubtle = {
   story: "god-of-trash",
   position: 277,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3075803/277-subtle-and-less-subtle",

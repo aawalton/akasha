@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0064Chapter997TheManWhoFoughtTheMonsters = {
   story: "story-read/he-who-fights-with-monsters",
   position: 64,
   ownLength: 2803,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3212262/chapter-997-the-man-who-fought-the-monsters",

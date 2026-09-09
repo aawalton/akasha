@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAka
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 15,
   ownLength: 1782,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674315/chapter-15-corpse-filled-reality-akashas-pov",

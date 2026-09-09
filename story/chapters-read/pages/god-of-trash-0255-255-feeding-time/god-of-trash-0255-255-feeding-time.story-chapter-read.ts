@@ -8,7 +8,7 @@ export const godOfTrash0255255FeedingTime = {
   story: "god-of-trash",
   position: 255,
   ownLength: 2154,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-31",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2896661/255-feeding-time",

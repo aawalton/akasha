@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0049Chapter982TheStuffOfFaithAndMadness = {
   position: 49,
   ownLength: 2245,
   ownProgress: 2245,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:34.080Z",
   publishedAt: "2026-02-16",
   externalLink:

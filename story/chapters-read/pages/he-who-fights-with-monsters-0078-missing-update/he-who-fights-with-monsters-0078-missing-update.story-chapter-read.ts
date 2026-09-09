@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0078MissingUpdate = {
   story: "story-read/he-who-fights-with-monsters",
   position: 78,
   ownLength: 15,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3574461/missing-update",

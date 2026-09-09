@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0029Chapter962IKnowWhatYouAre = {
   position: 29,
   ownLength: 2916,
   ownProgress: 2916,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:47.495Z",
   publishedAt: "2025-02-12",
   externalLink:

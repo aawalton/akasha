@@ -8,7 +8,7 @@ export const godOfTrash0161161AreYouACriminal = {
   story: "god-of-trash",
   position: 161,
   ownLength: 2206,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2534279/161-are-you-a-criminal",

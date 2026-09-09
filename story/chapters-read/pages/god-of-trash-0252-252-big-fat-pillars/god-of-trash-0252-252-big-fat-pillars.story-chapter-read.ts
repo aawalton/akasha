@@ -8,7 +8,7 @@ export const godOfTrash0252252BigFatPillars = {
   story: "god-of-trash",
   position: 252,
   ownLength: 2118,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2877401/252-big-fat-pillars",

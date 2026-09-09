@@ -8,7 +8,7 @@ export const godOfTrash0126126DumpsterFire = {
   story: "god-of-trash",
   position: 126,
   ownLength: 2302,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2425029/126-dumpster-fire",

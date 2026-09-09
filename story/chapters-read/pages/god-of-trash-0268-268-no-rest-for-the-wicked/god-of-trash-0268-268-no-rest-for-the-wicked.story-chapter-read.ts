@@ -8,7 +8,7 @@ export const godOfTrash0268268NoRestForTheWicked = {
   story: "god-of-trash",
   position: 268,
   ownLength: 2061,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2992356/268-no-rest-for-the-wicked",

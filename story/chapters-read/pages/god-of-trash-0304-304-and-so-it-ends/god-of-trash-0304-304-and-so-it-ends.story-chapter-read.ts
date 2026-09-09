@@ -8,7 +8,7 @@ export const godOfTrash0304304AndSoItEnds = {
   story: "god-of-trash",
   position: 304,
   ownLength: 2082,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3314568/304-and-so-it-ends",

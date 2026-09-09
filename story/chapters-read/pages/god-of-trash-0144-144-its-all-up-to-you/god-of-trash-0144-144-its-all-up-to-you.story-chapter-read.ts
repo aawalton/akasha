@@ -8,7 +8,7 @@ export const godOfTrash0144144ItsAllUpToYou = {
   story: "god-of-trash",
   position: 144,
   ownLength: 2030,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2473838/144-its-all-up-to-you",

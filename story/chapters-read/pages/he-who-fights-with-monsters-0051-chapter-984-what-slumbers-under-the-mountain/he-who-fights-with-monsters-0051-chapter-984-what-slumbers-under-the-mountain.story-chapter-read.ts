@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0051Chapter984WhatSlumbersUnderTheMountain =
   position: 51,
   ownLength: 2292,
   ownProgress: 2292,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:38.374Z",
   publishedAt: "2026-02-20",
   externalLink:

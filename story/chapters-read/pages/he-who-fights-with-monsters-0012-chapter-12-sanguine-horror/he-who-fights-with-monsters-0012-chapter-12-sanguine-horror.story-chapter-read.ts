@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0012Chapter12SanguineHorror = {
   position: 12,
   ownLength: 1643,
   ownProgress: 1643,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:10.947Z",
   publishedAt: "2019-08-01",
   externalLink:

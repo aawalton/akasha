@@ -8,7 +8,7 @@ export const godOfTrash0251251MadeOfFilth = {
   story: "god-of-trash",
   position: 251,
   ownLength: 1958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2871268/251-made-of-filth",

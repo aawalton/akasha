@@ -8,7 +8,7 @@ export const godOfTrash0172172WhoAreYou = {
   story: "god-of-trash",
   position: 172,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2563549/172-who-are-you",

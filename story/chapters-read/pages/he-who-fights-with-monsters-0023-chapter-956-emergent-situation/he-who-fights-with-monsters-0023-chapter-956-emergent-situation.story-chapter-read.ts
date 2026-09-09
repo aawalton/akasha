@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0023Chapter956EmergentSituation = {
   position: 23,
   ownLength: 2421,
   ownProgress: 2421,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:35.006Z",
   publishedAt: "2025-01-29",
   externalLink:

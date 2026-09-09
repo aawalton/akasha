@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0050Chapter983SomethingWorse = {
   position: 50,
   ownLength: 2534,
   ownProgress: 2534,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:36.272Z",
   publishedAt: "2026-02-18",
   externalLink:

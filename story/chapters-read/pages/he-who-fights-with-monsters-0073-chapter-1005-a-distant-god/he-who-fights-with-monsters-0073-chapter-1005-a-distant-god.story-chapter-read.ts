@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0073Chapter1005ADistantGod = {
   story: "story-read/he-who-fights-with-monsters",
   position: 73,
   ownLength: 2742,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3521812/chapter-1005-a-distant-god",

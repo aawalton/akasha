@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0009Chapter9ThePillarOfLight = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 9,
   ownLength: 1717,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3626895/chapter-9-the-pillar-of-light",

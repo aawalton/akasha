@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0013Chapter13ThisIsThePartWhereWeStepBack = 
   position: 13,
   ownLength: 2400,
   ownProgress: 2400,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:13.167Z",
   publishedAt: "2019-08-02",
   externalLink:

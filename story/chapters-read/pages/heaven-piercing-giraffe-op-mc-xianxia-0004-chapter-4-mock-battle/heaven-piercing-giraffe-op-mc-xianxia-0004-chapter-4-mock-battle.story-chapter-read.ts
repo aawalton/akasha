@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 4,
   ownLength: 1908,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3596713/chapter-4-mock-battle",

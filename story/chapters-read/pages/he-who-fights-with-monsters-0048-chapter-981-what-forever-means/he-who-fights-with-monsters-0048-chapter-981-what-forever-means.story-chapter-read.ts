@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0048Chapter981WhatForeverMeans = {
   position: 48,
   ownLength: 2717,
   ownProgress: 2717,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:31.955Z",
   publishedAt: "2026-02-13",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash0196196TheAssaultBegins = {
   story: "god-of-trash",
   position: 196,
   ownLength: 1634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2626263/196-the-assault-begins",

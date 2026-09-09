@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0036Chapter969GoodLord = {
   position: 36,
   ownLength: 2535,
   ownProgress: 2535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:06.509Z",
   publishedAt: "2025-03-07",
   externalLink:

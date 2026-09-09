@@ -8,7 +8,7 @@ export const godOfTrash0182182WhyreWeAllWearingMasksAnyways = {
   story: "god-of-trash",
   position: 182,
   ownLength: 2788,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2590798/182-whyre-we-all-wearing-masks-anyways",

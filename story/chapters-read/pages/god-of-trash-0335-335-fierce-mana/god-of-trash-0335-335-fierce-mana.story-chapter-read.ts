@@ -8,7 +8,7 @@ export const godOfTrash0335335FierceMana = {
   story: "god-of-trash",
   position: 335,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3659456/335-fierce-mana",

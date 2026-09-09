@@ -8,7 +8,7 @@ export const godOfTrash0337337WhatsBehindDoorNumberOne = {
   story: "god-of-trash",
   position: 337,
   ownLength: 1858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3682043/337-whats-behind-door-number-one",

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   position: 35,
   ownLength: 2751,
   ownProgress: 2751,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:04.370Z",
   publishedAt: "2025-03-05",
   externalLink:

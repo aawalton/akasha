@@ -8,7 +8,7 @@ export const godOfTrash0346346WhatsWithTheseGuys = {
   story: "god-of-trash",
   position: 346,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3774734/346-whats-with-these-guys",

@@ -8,7 +8,7 @@ export const godOfTrash0326326ExperimentationSensation = {
   story: "god-of-trash",
   position: 326,
   ownLength: 1859,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3563127/326-experimentation-sensation",

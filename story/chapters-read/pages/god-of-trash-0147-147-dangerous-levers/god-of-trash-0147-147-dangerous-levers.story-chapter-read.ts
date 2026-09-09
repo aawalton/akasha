@@ -8,7 +8,7 @@ export const godOfTrash0147147DangerousLevers = {
   story: "god-of-trash",
   position: 147,
   ownLength: 1699,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2482043/147-dangerous-levers",

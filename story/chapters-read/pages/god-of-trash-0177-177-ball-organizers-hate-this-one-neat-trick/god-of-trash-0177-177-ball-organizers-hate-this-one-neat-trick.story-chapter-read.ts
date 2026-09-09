@@ -8,7 +8,7 @@ export const godOfTrash0177177BallOrganizersHateThisOneNeatTrick = {
   story: "god-of-trash",
   position: 177,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2577495/177-ball-organizers-hate-this-one-neat-trick",

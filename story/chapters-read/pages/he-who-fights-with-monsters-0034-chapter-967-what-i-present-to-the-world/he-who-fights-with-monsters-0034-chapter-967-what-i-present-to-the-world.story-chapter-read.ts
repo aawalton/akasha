@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0034Chapter967WhatIPresentToTheWorld = {
   position: 34,
   ownLength: 2897,
   ownProgress: 2897,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:01.975Z",
   publishedAt: "2025-03-03",
   externalLink:

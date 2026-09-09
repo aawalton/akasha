@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0039Chapter972LittleUmbrellas = {
   position: 39,
   ownLength: 2166,
   ownProgress: 2166,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:12.848Z",
   publishedAt: "2025-03-14",
   externalLink:

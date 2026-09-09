@@ -8,7 +8,7 @@ export const godOfTrash0296296ProcrastinationDestination = {
   story: "god-of-trash",
   position: 296,
   ownLength: 1930,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3241371/296-procrastination-destination",

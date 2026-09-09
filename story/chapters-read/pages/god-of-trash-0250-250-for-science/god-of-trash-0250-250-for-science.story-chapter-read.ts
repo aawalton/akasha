@@ -8,7 +8,7 @@ export const godOfTrash0250250ForScience = {
   story: "god-of-trash",
   position: 250,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2863001/250-for-science",

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0004Chapter4CannibalsAndSpelunking = {
   position: 4,
   ownLength: 1651,
   ownProgress: 1651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:03:54.361Z",
   publishedAt: "2019-07-30",
   externalLink:

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0059Chapter992BattleOfThePlants = {
   story: "story-read/he-who-fights-with-monsters",
   position: 59,
   ownLength: 2457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3167219/chapter-992-battle-of-the-plants",

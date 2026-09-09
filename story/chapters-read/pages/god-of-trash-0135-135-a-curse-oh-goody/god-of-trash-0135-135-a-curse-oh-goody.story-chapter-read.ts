@@ -8,7 +8,7 @@ export const godOfTrash0135135ACurseOhGoody = {
   story: "god-of-trash",
   position: 135,
   ownLength: 2373,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2449727/135-a-curse-oh-goody",

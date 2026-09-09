@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0015Announcement = {
   position: 15,
   ownLength: 38,
   ownProgress: 38,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:17.354Z",
   publishedAt: "2024-11-02",
   externalLink:

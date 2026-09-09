@@ -8,7 +8,7 @@ export const godOfTrash0287287PullingAllTheThreadsAtOnce = {
   story: "god-of-trash",
   position: 287,
   ownLength: 2052,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3159452/287-pulling-all-the-threads-at-once",

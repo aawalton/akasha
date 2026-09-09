@@ -8,7 +8,7 @@ export const godOfTrash0314314MenInviteYouToTheirPrivateQuartersFor = {
   story: "god-of-trash",
   position: 314,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3433429/314-men-invite-you-to-their-private-quarters-for",

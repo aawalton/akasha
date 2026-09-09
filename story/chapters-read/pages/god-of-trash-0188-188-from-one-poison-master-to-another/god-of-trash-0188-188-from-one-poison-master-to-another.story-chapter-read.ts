@@ -8,7 +8,7 @@ export const godOfTrash0188188FromOnePoisonMasterToAnother = {
   story: "god-of-trash",
   position: 188,
   ownLength: 2107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2605611/188-from-one-poison-master-to-another",

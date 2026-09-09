@@ -8,7 +8,7 @@ export const godOfTrash0320320TrainingPicksYou = {
   story: "god-of-trash",
   position: 320,
   ownLength: 2032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3498191/320-training-picks-you",

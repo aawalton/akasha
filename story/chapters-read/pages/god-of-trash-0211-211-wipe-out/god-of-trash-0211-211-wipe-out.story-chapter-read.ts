@@ -8,7 +8,7 @@ export const godOfTrash0211211WipeOut = {
   story: "god-of-trash",
   position: 211,
   ownLength: 2436,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2664218/211-wipe-out",

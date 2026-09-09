@@ -8,7 +8,7 @@ export const godOfTrash0124124EyesFullOfVengeance = {
   story: "god-of-trash",
   position: 124,
   ownLength: 2155,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2419588/124-eyes-full-of-vengeance",

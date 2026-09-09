@@ -8,7 +8,7 @@ export const godOfTrash0125125KillingFarm = {
   story: "god-of-trash",
   position: 125,
   ownLength: 2211,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2422390/125-killing-farm",

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0021Chapter954Misgivings = {
   position: 21,
   ownLength: 2127,
   ownProgress: 2127,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:30.396Z",
   publishedAt: "2025-01-24",
   externalLink:

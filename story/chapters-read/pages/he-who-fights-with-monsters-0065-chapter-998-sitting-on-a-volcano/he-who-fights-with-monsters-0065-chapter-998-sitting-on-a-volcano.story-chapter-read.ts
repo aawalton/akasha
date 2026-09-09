@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
   story: "story-read/he-who-fights-with-monsters",
   position: 65,
   ownLength: 2582,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3220123/chapter-998-sitting-on-a-volcano",

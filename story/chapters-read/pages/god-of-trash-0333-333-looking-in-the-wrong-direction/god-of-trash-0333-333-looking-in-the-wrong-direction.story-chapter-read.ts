@@ -8,7 +8,7 @@ export const godOfTrash0333333LookingInTheWrongDirection = {
   story: "god-of-trash",
   position: 333,
   ownLength: 1848,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3641617/333-looking-in-the-wrong-direction",

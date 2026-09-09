@@ -8,7 +8,7 @@ export const godOfTrash0122122CraftingFries = {
   story: "god-of-trash",
   position: 122,
   ownLength: 1642,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2414288/122-crafting-fries",

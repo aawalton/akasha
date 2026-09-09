@@ -8,7 +8,7 @@ export const godOfTrash0139139WaterSyndicateVsTheSnackShack = {
   story: "god-of-trash",
   position: 139,
   ownLength: 2332,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2460484/139-water-syndicate-vs-the-snack-shack",

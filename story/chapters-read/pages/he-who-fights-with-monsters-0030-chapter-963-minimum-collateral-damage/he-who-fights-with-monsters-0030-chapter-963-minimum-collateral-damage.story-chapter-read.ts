@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   position: 30,
   ownLength: 2597,
   ownProgress: 2597,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:49.553Z",
   publishedAt: "2025-02-14",
   externalLink:

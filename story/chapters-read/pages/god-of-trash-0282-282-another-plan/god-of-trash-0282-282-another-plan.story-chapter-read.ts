@@ -8,7 +8,7 @@ export const godOfTrash0282282AnotherPlan = {
   story: "god-of-trash",
   position: 282,
   ownLength: 2211,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3117032/282-another-plan",

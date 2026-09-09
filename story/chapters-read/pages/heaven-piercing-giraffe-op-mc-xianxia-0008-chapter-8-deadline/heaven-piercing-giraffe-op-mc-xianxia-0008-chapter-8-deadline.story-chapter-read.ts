@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0008Chapter8Deadline = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 8,
   ownLength: 1988,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3625935/chapter-8-deadline",

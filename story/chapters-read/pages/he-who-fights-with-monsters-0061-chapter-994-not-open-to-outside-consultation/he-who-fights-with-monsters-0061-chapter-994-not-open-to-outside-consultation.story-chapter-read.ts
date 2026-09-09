@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0061Chapter994NotOpenToOutsideConsultation =
   story: "story-read/he-who-fights-with-monsters",
   position: 61,
   ownLength: 3169,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3185589/chapter-994-not-open-to-outside-consultation",

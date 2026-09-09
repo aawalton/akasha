@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0044Chapter977GettingComplicatedFast = {
   position: 44,
   ownLength: 2895,
   ownProgress: 2895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:23.248Z",
   publishedAt: "2026-02-04",
   externalLink:

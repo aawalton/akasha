@@ -8,7 +8,7 @@ export const godOfTrash0207207BlackShip = {
   story: "god-of-trash",
   position: 207,
   ownLength: 2177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2653962/207-black-ship",

@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0026Chapter959WithoutConsequences = {
   position: 26,
   ownLength: 2902,
   ownProgress: 2902,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:41.149Z",
   publishedAt: "2025-02-05",
   externalLink:

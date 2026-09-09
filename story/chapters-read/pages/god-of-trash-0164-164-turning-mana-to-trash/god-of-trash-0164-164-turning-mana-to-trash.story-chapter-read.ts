@@ -8,7 +8,7 @@ export const godOfTrash0164164TurningManaToTrash = {
   story: "god-of-trash",
   position: 164,
   ownLength: 1974,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2542097/164-turning-mana-to-trash",

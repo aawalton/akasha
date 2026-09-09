@@ -8,7 +8,7 @@ export const godOfTrash0355355CastleInTheSky = {
   story: "god-of-trash",
   position: 355,
   ownLength: 2263,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3869030/355-castle-in-the-sky",

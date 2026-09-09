@@ -8,7 +8,7 @@ export const godOfTrash0223223MickiesHut = {
   story: "god-of-trash",
   position: 223,
   ownLength: 2183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2710288/223-mickies-hut",

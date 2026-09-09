@@ -8,7 +8,7 @@ export const godOfTrash0321321YouThinkYouCanLeave = {
   story: "god-of-trash",
   position: 321,
   ownLength: 1929,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3511614/321-you-think-you-can-leave",

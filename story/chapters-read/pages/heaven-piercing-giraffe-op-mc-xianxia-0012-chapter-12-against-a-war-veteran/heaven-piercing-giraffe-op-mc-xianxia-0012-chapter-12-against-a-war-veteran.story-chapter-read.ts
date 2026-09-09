@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0012Chapter12AgainstAWarVeteran = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 12,
   ownLength: 1720,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3646023/chapter-12-against-a-war-veteran",

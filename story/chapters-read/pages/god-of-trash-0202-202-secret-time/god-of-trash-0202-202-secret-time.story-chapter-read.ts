@@ -8,7 +8,7 @@ export const godOfTrash0202202SecretTime = {
   story: "god-of-trash",
   position: 202,
   ownLength: 1764,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2639458/202-secret-time",

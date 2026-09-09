@@ -8,7 +8,7 @@ export const godOfTrash0141141LessIsMore = {
   story: "god-of-trash",
   position: 141,
   ownLength: 2068,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2466716/141-less-is-more",

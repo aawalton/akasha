@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0014BooksAvailableOnKindleKindleUnlimitedAnd
   position: 14,
   ownLength: 118,
   ownProgress: 118,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:15.267Z",
   publishedAt: "2021-02-15",
   externalLink:

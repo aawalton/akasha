@@ -8,7 +8,7 @@ export const godOfTrash0191191CriminalsCleared = {
   story: "god-of-trash",
   position: 191,
   ownLength: 1853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2613635/191-criminals-cleared",

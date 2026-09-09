@@ -8,7 +8,7 @@ export const godOfTrash0220220ItsATrap = {
   story: "god-of-trash",
   position: 220,
   ownLength: 2272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2702256/220-its-a-trap",

@@ -8,7 +8,7 @@ export const godOfTrash0201201TouchingMeTouchingYou = {
   story: "god-of-trash",
   position: 201,
   ownLength: 1820,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2638798/201-touching-me-touching-you",

@@ -8,7 +8,7 @@ export const godOfTrash0351351BabyImAFirework = {
   story: "god-of-trash",
   position: 351,
   ownLength: 2177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3827112/351-baby-im-a-firework",

@@ -8,7 +8,7 @@ export const godOfTrash0232232IntoTheGreatFrozenNorth = {
   story: "god-of-trash",
   position: 232,
   ownLength: 1953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2741583/232-into-the-great-frozen-north",

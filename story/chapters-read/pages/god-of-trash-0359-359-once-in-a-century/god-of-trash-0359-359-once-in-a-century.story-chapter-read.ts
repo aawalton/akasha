@@ -7,7 +7,7 @@ export const godOfTrash0359359OnceInACentury = {
   story: "story-read/god-of-trash",
   position: 359,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3912817",
   source: "royal-road",
   title: "359. Once in a Century",

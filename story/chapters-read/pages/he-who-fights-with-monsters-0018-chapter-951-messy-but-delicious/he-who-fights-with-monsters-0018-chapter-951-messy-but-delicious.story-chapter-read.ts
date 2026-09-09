@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0018Chapter951MessyButDelicious = {
   position: 18,
   ownLength: 2763,
   ownProgress: 2763,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:23.740Z",
   publishedAt: "2025-01-17",
   externalLink:

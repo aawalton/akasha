@@ -8,7 +8,7 @@ export const godOfTrash0322322AChapterAboutDiggingAHole = {
   story: "god-of-trash",
   position: 322,
   ownLength: 2399,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3521153/322-a-chapter-about-digging-a-hole",

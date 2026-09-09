@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0047Chapter980TheOnlyCureIsDeath = {
   position: 47,
   ownLength: 2549,
   ownProgress: 2549,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:29.843Z",
   publishedAt: "2026-02-11",
   externalLink:

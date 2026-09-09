@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0053Chapter986TheDeathsWeFailedToPrevent = {
   position: 53,
   ownLength: 2850,
   ownProgress: 2850,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:42.909Z",
   publishedAt: "2026-02-25",
   externalLink:

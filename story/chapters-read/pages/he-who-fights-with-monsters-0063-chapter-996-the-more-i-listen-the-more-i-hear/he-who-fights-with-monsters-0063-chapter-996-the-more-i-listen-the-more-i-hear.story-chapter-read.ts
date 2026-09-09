@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0063Chapter996TheMoreIListenTheMoreIHear = {
   story: "story-read/he-who-fights-with-monsters",
   position: 63,
   ownLength: 2785,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3201518/chapter-996-the-more-i-listen-the-more-i-hear",

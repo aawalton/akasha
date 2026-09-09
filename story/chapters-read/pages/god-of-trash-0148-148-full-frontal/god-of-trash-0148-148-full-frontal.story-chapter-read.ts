@@ -8,7 +8,7 @@ export const godOfTrash0148148FullFrontal = {
   story: "god-of-trash",
   position: 148,
   ownLength: 2446,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2484923/148-full-frontal",

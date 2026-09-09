@@ -8,7 +8,7 @@ export const godOfTrash0242242GettingAway = {
   story: "god-of-trash",
   position: 242,
   ownLength: 1997,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2810487/242-getting-away",

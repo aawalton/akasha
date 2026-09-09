@@ -8,7 +8,7 @@ export const godOfTrash0178178Offloading = {
   story: "god-of-trash",
   position: 178,
   ownLength: 1941,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-06",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2580154/178-offloading",

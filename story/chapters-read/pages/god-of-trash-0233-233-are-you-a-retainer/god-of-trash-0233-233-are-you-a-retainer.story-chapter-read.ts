@@ -8,7 +8,7 @@ export const godOfTrash0233233AreYouARetainer = {
   story: "god-of-trash",
   position: 233,
   ownLength: 2256,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2749813/233-are-you-a-retainer",

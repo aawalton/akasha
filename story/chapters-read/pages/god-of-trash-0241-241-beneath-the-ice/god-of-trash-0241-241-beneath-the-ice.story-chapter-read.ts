@@ -8,7 +8,7 @@ export const godOfTrash0241241BeneathTheIce = {
   story: "god-of-trash",
   position: 241,
   ownLength: 2221,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2801669/241-beneath-the-ice",

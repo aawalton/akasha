@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0016Chapter950APersonTheOtherUsedToKnow = {
   position: 16,
   ownLength: 2963,
   ownProgress: 2963,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:19.653Z",
   publishedAt: "2025-01-15",
   externalLink:

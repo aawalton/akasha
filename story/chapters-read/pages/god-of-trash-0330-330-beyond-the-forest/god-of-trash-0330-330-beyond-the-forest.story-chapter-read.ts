@@ -8,7 +8,7 @@ export const godOfTrash0330330BeyondTheForest = {
   story: "god-of-trash",
   position: 330,
   ownLength: 2185,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3609130/330-beyond-the-forest",

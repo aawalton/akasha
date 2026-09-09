@@ -8,7 +8,7 @@ export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   story: "god-of-trash",
   position: 327,
   ownLength: 1851,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3576626/327-pain-is-growth-growth-is-pain",

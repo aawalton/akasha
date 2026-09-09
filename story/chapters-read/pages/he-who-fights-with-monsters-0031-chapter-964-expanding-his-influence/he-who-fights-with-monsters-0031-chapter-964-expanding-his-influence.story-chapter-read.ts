@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0031Chapter964ExpandingHisInfluence = {
   position: 31,
   ownLength: 2193,
   ownProgress: 2193,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:51.719Z",
   publishedAt: "2025-02-17",
   externalLink:

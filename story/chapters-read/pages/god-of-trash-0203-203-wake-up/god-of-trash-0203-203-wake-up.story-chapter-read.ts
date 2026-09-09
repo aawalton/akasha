@@ -8,7 +8,7 @@ export const godOfTrash0203203WakeUp = {
   story: "god-of-trash",
   position: 203,
   ownLength: 2218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2644206/203-wake-up",

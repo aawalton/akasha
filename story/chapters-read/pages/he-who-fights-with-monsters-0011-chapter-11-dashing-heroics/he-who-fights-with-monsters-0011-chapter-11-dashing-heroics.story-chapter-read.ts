@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0011Chapter11DashingHeroics = {
   position: 11,
   ownLength: 2049,
   ownProgress: 2049,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:08.847Z",
   publishedAt: "2019-08-01",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash0305305ASmallFavor = {
   story: "god-of-trash",
   position: 305,
   ownLength: 2676,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3318548/305-a-small-favor",

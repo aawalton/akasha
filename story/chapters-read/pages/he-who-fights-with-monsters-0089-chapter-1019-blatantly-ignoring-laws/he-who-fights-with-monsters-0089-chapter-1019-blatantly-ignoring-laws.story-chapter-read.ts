@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0089Chapter1019BlatantlyIgnoringLaws = {
   story: "story-read/he-who-fights-with-monsters",
   position: 89,
   ownLength: 2258,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892848/chapter-1019-blatantly-ignoring-laws",

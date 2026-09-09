@@ -8,7 +8,7 @@ export const godOfTrash0261261Undoing = {
   story: "god-of-trash",
   position: 261,
   ownLength: 1778,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2943529/261-undoing",

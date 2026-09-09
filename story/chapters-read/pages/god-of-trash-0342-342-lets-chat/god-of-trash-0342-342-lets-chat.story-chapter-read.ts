@@ -8,7 +8,7 @@ export const godOfTrash0342342LetsChat = {
   story: "god-of-trash",
   position: 342,
   ownLength: 2299,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3734315/342-lets-chat",

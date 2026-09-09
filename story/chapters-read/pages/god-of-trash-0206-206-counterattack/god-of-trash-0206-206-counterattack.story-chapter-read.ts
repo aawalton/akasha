@@ -8,7 +8,7 @@ export const godOfTrash0206206Counterattack = {
   story: "god-of-trash",
   position: 206,
   ownLength: 2052,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2651803/206-counterattack",

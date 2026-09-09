@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0002Chapter2ActLikeADecentHumanLess
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 2,
   ownLength: 2586,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3582852/chapter-2-act-like-a-decent-human-lessons",

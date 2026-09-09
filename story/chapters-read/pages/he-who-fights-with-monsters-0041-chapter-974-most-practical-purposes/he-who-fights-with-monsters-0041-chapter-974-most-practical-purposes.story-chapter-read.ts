@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0041Chapter974MostPracticalPurposes = {
   position: 41,
   ownLength: 2236,
   ownProgress: 2236,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:16.830Z",
   publishedAt: "2025-03-19",
   externalLink:

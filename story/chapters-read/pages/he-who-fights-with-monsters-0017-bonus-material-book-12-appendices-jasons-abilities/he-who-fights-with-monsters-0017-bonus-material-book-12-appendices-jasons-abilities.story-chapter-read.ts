@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0017BonusMaterialBook12AppendicesJasonsAbili
   position: 17,
   ownLength: 1750,
   ownProgress: 1750,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:21.772Z",
   publishedAt: "2025-01-16",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash0323323DownInTheDepths = {
   story: "god-of-trash",
   position: 323,
   ownLength: 1770,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3530932/323-down-in-the-depths",

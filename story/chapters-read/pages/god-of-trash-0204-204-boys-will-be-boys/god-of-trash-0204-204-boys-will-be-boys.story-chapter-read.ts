@@ -8,7 +8,7 @@ export const godOfTrash0204204BoysWillBeBoys = {
   story: "god-of-trash",
   position: 204,
   ownLength: 1930,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2646638/204-boys-will-be-boys",

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0068Announcement = {
   story: "story-read/he-who-fights-with-monsters",
   position: 68,
   ownLength: 43,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3270315/announcement",

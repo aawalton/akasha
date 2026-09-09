@@ -8,7 +8,7 @@ export const godOfTrash0317317ThingsAtTheBackOfTheRefrigeratorAre = {
   story: "god-of-trash",
   position: 317,
   ownLength: 2411,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3466641/317-things-at-the-back-of-the-refrigerator-are",

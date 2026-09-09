@@ -8,7 +8,7 @@ export const godOfTrash0235235ToTheTavern = {
   story: "god-of-trash",
   position: 235,
   ownLength: 2176,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-14",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2761538/235-to-the-tavern",

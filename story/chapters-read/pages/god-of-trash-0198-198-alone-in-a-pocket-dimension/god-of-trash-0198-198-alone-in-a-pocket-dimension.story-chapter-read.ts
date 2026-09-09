@@ -8,7 +8,7 @@ export const godOfTrash0198198AloneInAPocketDimension = {
   story: "god-of-trash",
   position: 198,
   ownLength: 2146,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2631640/198-alone-in-a-pocket-dimension",

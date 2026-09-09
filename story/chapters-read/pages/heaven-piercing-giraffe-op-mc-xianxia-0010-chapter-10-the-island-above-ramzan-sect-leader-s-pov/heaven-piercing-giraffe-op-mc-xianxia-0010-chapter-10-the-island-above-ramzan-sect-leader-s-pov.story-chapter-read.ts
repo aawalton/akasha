@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0010Chapter10TheIslandAboveRamzanSe
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 10,
   ownLength: 1810,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3628988/chapter-10-the-island-above-ramzan-sect-leaders",

@@ -8,7 +8,7 @@ export const godOfTrash0217217AQuietExit = {
   story: "god-of-trash",
   position: 217,
   ownLength: 1988,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2694564/217-a-quiet-exit",

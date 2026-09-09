@@ -7,7 +7,7 @@ export const godOfTrash0360360OutAndAbout = {
   story: "story-read/god-of-trash",
   position: 360,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926766",
   source: "royal-road",
   title: "360. Out and About",

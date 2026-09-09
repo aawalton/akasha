@@ -8,7 +8,7 @@ export const godOfTrash0334334ChannelingAnExpert = {
   story: "god-of-trash",
   position: 334,
   ownLength: 2260,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3650202/334-channeling-an-expert",

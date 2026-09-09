@@ -8,7 +8,7 @@ export const godOfTrash0309309OceanCore = {
   story: "god-of-trash",
   position: 309,
   ownLength: 1969,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3383841/309-ocean-core",

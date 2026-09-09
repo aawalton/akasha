@@ -8,7 +8,7 @@ export const godOfTrash0136136NoCursesOnlyDealers = {
   story: "god-of-trash",
   position: 136,
   ownLength: 2472,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2452209/136-no-curses-only-dealers",

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0070Chapter1002TheOneWhoGetsToDecide = {
   story: "story-read/he-who-fights-with-monsters",
   position: 70,
   ownLength: 3113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3489833/chapter-1002-the-one-who-gets-to-decide",

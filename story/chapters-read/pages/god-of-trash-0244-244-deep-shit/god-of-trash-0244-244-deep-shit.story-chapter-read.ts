@@ -8,7 +8,7 @@ export const godOfTrash0244244DeepShit = {
   story: "god-of-trash",
   position: 244,
   ownLength: 1798,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2821895/244-deep-shit",

@@ -8,7 +8,7 @@ export const godOfTrash0185185SearchingTheBrothel = {
   story: "god-of-trash",
   position: 185,
   ownLength: 2123,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-13",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2598158/185-searching-the-brothel",

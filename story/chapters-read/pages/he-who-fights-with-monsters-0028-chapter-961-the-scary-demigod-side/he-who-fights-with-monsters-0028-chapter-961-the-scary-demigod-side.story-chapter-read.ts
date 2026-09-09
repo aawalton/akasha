@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0028Chapter961TheScaryDemigodSide = {
   position: 28,
   ownLength: 2415,
   ownProgress: 2415,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:45.546Z",
   publishedAt: "2025-02-10",
   externalLink:

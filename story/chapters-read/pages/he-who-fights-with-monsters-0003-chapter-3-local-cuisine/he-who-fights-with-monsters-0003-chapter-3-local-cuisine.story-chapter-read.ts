@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0003Chapter3LocalCuisine = {
   position: 3,
   ownLength: 1566,
   ownProgress: 1566,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:03:52.476Z",
   publishedAt: "2019-07-29",
   externalLink:

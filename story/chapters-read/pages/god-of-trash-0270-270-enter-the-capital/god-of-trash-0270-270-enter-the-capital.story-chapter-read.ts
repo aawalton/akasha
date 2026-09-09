@@ -8,7 +8,7 @@ export const godOfTrash0270270EnterTheCapital = {
   story: "god-of-trash",
   position: 270,
   ownLength: 1867,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3013116/270-enter-the-capital",

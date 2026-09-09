@@ -8,7 +8,7 @@ export const godOfTrash0257257HomeSweetPalace = {
   story: "god-of-trash",
   position: 257,
   ownLength: 1890,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2915099/257-home-sweet-palace",

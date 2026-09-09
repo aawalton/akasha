@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0027Chapter960WhatItWillDoToItself = {
   position: 27,
   ownLength: 2377,
   ownProgress: 2377,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:43.475Z",
   publishedAt: "2025-02-07",
   externalLink:

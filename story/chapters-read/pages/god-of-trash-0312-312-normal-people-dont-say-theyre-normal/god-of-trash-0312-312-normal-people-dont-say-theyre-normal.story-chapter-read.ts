@@ -8,7 +8,7 @@ export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   story: "god-of-trash",
   position: 312,
   ownLength: 2154,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3415559/312-normal-people-dont-say-theyre-normal",

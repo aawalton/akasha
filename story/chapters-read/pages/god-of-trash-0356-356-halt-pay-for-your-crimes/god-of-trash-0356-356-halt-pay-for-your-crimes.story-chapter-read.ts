@@ -8,7 +8,7 @@ export const godOfTrash0356356HaltPayForYourCrimes = {
   story: "god-of-trash",
   position: 356,
   ownLength: 2096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3878559/356-halt-pay-for-your-crimes",

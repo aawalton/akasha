@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0088Chapter1018IDontNeedHope = {
   story: "story-read/he-who-fights-with-monsters",
   position: 88,
   ownLength: 2108,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892847/chapter-1018-i-dont-need-hope",

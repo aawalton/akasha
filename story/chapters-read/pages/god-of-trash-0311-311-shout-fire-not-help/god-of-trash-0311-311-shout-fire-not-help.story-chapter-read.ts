@@ -8,7 +8,7 @@ export const godOfTrash0311311ShoutFireNotHelp = {
   story: "god-of-trash",
   position: 311,
   ownLength: 2070,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3400908/311-shout-fire-not-help",

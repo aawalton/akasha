@@ -8,7 +8,7 @@ export const godOfTrash0174174CrashingABallForFunAndProfit = {
   story: "god-of-trash",
   position: 174,
   ownLength: 2127,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2569133/174-crashing-a-ball-for-fun-and-profit",

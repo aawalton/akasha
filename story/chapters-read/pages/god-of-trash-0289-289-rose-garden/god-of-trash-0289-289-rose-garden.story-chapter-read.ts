@@ -8,7 +8,7 @@ export const godOfTrash0289289RoseGarden = {
   story: "god-of-trash",
   position: 289,
   ownLength: 2390,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3174630/289-rose-garden",

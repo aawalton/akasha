@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0056Chapter989AManFoughtMonsters = {
   position: 56,
   ownLength: 2721,
   ownProgress: 2721,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:49.390Z",
   publishedAt: "2026-03-04",
   externalLink:

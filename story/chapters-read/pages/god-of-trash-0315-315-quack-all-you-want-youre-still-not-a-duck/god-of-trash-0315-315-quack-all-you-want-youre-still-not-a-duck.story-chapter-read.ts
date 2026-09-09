@@ -8,7 +8,7 @@ export const godOfTrash0315315QuackAllYouWantYoureStillNotADuck = {
   story: "god-of-trash",
   position: 315,
   ownLength: 3170,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3445651/315-quack-all-you-want-youre-still-not-a-duck",

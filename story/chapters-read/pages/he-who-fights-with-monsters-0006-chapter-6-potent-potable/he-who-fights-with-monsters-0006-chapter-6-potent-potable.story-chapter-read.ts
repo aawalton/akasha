@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0006Chapter6PotentPotable = {
   position: 6,
   ownLength: 1421,
   ownProgress: 1421,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:03:58.708Z",
   publishedAt: "2019-07-30",
   externalLink:

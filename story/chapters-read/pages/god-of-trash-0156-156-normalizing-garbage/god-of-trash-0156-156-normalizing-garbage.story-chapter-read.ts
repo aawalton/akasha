@@ -8,7 +8,7 @@ export const godOfTrash0156156NormalizingGarbage = {
   story: "god-of-trash",
   position: 156,
   ownLength: 2220,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2505442/156-normalizing-garbage",

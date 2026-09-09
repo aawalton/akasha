@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0076Chapter1008ASufficientSpectacle = {
   story: "story-read/he-who-fights-with-monsters",
   position: 76,
   ownLength: 2976,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3554406/chapter-1008-a-sufficient-spectacle",

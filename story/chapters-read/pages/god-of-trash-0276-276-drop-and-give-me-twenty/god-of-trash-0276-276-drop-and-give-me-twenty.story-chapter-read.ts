@@ -8,7 +8,7 @@ export const godOfTrash0276276DropAndGiveMeTwenty = {
   story: "god-of-trash",
   position: 276,
   ownLength: 2179,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3069243/276-drop-and-give-me-twenty",

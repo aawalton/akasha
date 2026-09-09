@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0009Chapter9Escape = {
   position: 9,
   ownLength: 2263,
   ownProgress: 2263,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:04.723Z",
   publishedAt: "2019-07-31",
   externalLink:

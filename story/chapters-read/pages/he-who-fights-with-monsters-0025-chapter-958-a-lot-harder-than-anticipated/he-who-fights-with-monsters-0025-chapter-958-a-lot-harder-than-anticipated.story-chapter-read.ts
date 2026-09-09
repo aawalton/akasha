@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0025Chapter958ALotHarderThanAnticipated = {
   position: 25,
   ownLength: 3035,
   ownProgress: 3035,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:39.180Z",
   publishedAt: "2025-02-03",
   externalLink:

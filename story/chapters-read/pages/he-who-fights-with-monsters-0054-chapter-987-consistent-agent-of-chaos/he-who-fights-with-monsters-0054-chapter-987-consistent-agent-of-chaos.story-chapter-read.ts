@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0054Chapter987ConsistentAgentOfChaos = {
   position: 54,
   ownLength: 2475,
   ownProgress: 2475,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:45.085Z",
   publishedAt: "2026-02-27",
   externalLink:

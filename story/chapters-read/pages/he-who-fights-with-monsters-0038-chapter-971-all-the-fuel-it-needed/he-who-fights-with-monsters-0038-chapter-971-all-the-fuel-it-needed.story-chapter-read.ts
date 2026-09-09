@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0038Chapter971AllTheFuelItNeeded = {
   position: 38,
   ownLength: 2466,
   ownProgress: 2466,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:10.707Z",
   publishedAt: "2025-03-12",
   externalLink:

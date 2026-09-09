@@ -8,7 +8,7 @@ export const godOfTrash0195195ArrivalAtTheHeap = {
   story: "god-of-trash",
   position: 195,
   ownLength: 1941,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2623488/195-arrival-at-the-heap",

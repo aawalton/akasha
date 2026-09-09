@@ -8,7 +8,7 @@ export const godOfTrash0221221IntoTown = {
   story: "god-of-trash",
   position: 221,
   ownLength: 2163,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2704698/221-into-town",

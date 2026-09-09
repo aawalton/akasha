@@ -8,7 +8,7 @@ export const godOfTrash0155155OnceMoreIntoTheVoid = {
   story: "god-of-trash",
   position: 155,
   ownLength: 2081,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2502992/155-once-more-into-the-void",

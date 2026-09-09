@@ -8,7 +8,7 @@ export const godOfTrash0353353AFantasticIdea = {
   story: "god-of-trash",
   position: 353,
   ownLength: 2125,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3843314/353-a-fantastic-idea",

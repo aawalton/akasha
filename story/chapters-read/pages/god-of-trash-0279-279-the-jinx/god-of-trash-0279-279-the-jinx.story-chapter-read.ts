@@ -8,7 +8,7 @@ export const godOfTrash0279279TheJinx = {
   story: "god-of-trash",
   position: 279,
   ownLength: 2112,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3092458/279-the-jinx",

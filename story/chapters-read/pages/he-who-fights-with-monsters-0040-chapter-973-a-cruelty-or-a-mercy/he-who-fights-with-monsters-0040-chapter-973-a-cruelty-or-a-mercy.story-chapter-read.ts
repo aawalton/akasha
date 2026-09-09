@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0040Chapter973ACrueltyOrAMercy = {
   position: 40,
   ownLength: 2779,
   ownProgress: 2779,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:14.867Z",
   publishedAt: "2025-03-17",
   externalLink:

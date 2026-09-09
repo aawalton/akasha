@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0032Chapter965ThisIsKindOfHowTeamBiscuitOper
   position: 32,
   ownLength: 3411,
   ownProgress: 3411,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:53.783Z",
   publishedAt: "2025-02-19",
   externalLink:

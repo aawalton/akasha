@@ -8,7 +8,7 @@ export const godOfTrash0186186MagicalEngineering = {
   story: "god-of-trash",
   position: 186,
   ownLength: 2400,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-14",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2600448/186-magical-engineering",

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0092Chapter1022WhileWeHaveTheChance = {
   story: "story-read/he-who-fights-with-monsters",
   position: 92,
   ownLength: 2867,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892852/chapter-1022-while-we-have-the-chance",

@@ -8,7 +8,7 @@ export const godOfTrash0216216YouveRealized = {
   story: "god-of-trash",
   position: 216,
   ownLength: 2043,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2692010/216-youve-realized",

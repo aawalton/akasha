@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0072Chapter1004SchedulingYourCallousDumping 
   story: "story-read/he-who-fights-with-monsters",
   position: 72,
   ownLength: 2109,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3511677/chapter-1004-scheduling-your-callous-dumping",

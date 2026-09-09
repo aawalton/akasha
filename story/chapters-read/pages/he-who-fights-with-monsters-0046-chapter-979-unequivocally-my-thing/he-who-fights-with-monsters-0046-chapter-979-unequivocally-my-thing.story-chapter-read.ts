@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0046Chapter979UnequivocallyMyThing = {
   position: 46,
   ownLength: 2651,
   ownProgress: 2651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:27.650Z",
   publishedAt: "2026-02-09",
   externalLink:

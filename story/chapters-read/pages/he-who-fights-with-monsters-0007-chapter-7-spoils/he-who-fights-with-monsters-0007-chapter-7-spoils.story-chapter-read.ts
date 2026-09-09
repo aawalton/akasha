@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0007Chapter7Spoils = {
   position: 7,
   ownLength: 1770,
   ownProgress: 1770,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:00.623Z",
   publishedAt: "2019-07-31",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash0208208SheMeansMe = {
   story: "god-of-trash",
   position: 208,
   ownLength: 2660,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2658954/208-she-means-me",

@@ -8,7 +8,7 @@ export const godOfTrash0167167TheMoment = {
   story: "god-of-trash",
   position: 167,
   ownLength: 2513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2550261/167-the-moment",

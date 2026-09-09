@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0010Chapter10TheEvilPitOfEvil = {
   position: 10,
   ownLength: 1905,
   ownProgress: 1905,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:06.783Z",
   publishedAt: "2019-08-01",
   externalLink:

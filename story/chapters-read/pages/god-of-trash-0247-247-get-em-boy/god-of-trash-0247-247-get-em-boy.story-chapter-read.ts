@@ -8,7 +8,7 @@ export const godOfTrash0247247GetEmBoy = {
   story: "god-of-trash",
   position: 247,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-12",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2842749/247-get-em-boy",

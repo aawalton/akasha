@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0075Chapter1007ThatWillKeepThemDead = {
   story: "story-read/he-who-fights-with-monsters",
   position: 75,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3544992/chapter-1007-that-will-keep-them-dead",

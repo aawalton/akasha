@@ -8,7 +8,7 @@ export const godOfTrash0350350InvestigationStation = {
   story: "god-of-trash",
   position: 350,
   ownLength: 1998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3814763/350-investigation-station",

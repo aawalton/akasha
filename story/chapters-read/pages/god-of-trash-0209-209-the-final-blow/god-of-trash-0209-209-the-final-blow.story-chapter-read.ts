@@ -8,7 +8,7 @@ export const godOfTrash0209209TheFinalBlow = {
   story: "god-of-trash",
   position: 209,
   ownLength: 1639,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2659145/209-the-final-blow",

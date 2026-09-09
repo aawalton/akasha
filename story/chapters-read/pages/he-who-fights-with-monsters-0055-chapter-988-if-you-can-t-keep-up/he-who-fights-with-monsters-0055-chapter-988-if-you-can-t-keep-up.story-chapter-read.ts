@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0055Chapter988IfYouCanTKeepUp = {
   position: 55,
   ownLength: 2486,
   ownProgress: 2486,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:47.284Z",
   publishedAt: "2026-03-02",
   externalLink:

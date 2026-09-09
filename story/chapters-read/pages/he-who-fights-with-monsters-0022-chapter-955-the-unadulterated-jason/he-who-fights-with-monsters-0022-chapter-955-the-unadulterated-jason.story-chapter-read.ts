@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0022Chapter955TheUnadulteratedJason = {
   position: 22,
   ownLength: 2828,
   ownProgress: 2828,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:32.678Z",
   publishedAt: "2025-01-27",
   externalLink:

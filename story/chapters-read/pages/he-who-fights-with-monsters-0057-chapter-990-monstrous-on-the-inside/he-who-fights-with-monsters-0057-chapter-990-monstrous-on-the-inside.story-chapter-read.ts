@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0057Chapter990MonstrousOnTheInside = {
   position: 57,
   ownLength: 2099,
   ownProgress: 269,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-06",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3124477/chapter-990-monstrous-on-the-inside",

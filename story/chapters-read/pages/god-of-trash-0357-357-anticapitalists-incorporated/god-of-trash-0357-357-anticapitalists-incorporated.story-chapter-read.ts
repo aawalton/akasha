@@ -8,7 +8,7 @@ export const godOfTrash0357357AnticapitalistsIncorporated = {
   story: "god-of-trash",
   position: 357,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3885325/357-anticapitalists-incorporated",

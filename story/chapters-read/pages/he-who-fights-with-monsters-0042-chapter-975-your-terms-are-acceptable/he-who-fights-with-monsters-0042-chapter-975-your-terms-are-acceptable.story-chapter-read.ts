@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0042Chapter975YourTermsAreAcceptable = {
   position: 42,
   ownLength: 2722,
   ownProgress: 2722,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:05:18.860Z",
   publishedAt: "2025-03-21",
   externalLink:

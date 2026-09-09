@@ -8,7 +8,7 @@ export const godOfTrash0225225BelieveItOrNot = {
   story: "god-of-trash",
   position: 225,
   ownLength: 1879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2715156/225-believe-it-or-not",

@@ -8,7 +8,7 @@ export const godOfTrash0168168CampBattling = {
   story: "god-of-trash",
   position: 168,
   ownLength: 2329,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2553383/168-camp-battling",

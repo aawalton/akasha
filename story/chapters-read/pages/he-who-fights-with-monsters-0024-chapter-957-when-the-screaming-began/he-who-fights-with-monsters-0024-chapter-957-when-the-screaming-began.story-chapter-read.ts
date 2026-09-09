@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0024Chapter957WhenTheScreamingBegan = {
   position: 24,
   ownLength: 2128,
   ownProgress: 2128,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:37.140Z",
   publishedAt: "2025-01-31",
   externalLink:

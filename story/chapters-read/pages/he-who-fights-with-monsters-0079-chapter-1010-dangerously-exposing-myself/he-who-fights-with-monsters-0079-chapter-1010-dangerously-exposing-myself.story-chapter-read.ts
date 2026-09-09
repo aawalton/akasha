@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0079Chapter1010DangerouslyExposingMyself = {
   story: "story-read/he-who-fights-with-monsters",
   position: 79,
   ownLength: 2710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3586663/chapter-1010-dangerously-exposing-myself",

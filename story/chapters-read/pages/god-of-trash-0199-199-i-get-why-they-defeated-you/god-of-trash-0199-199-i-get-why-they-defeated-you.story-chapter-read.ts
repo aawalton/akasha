@@ -8,7 +8,7 @@ export const godOfTrash0199199IGetWhyTheyDefeatedYou = {
   story: "god-of-trash",
   position: 199,
   ownLength: 1826,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2633998/199-i-get-why-they-defeated-you",

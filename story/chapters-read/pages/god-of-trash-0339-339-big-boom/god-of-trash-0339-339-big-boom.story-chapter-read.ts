@@ -8,7 +8,7 @@ export const godOfTrash0339339BigBoom = {
   story: "god-of-trash",
   position: 339,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3703523/339-big-boom",

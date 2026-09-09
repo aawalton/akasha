@@ -8,7 +8,7 @@ export const godOfTrash0190190RushingIntoDanger = {
   story: "god-of-trash",
   position: 190,
   ownLength: 1903,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2610934/190-rushing-into-danger",

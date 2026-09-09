@@ -8,7 +8,7 @@ export const godOfTrash0254254TheHunger = {
   story: "god-of-trash",
   position: 254,
   ownLength: 1900,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2890959/254-the-hunger",

@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0062Chapter995Symposium = {
   story: "story-read/he-who-fights-with-monsters",
   position: 62,
   ownLength: 3000,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3193835/chapter-995-symposium",

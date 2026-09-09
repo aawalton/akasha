@@ -8,7 +8,7 @@ export const godOfTrash0303303TheFinalBattle = {
   story: "god-of-trash",
   position: 303,
   ownLength: 2281,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3306416/303-the-final-battle",

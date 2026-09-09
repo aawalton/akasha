@@ -8,7 +8,7 @@ export const godOfTrash0256256ACompleteJoke = {
   story: "god-of-trash",
   position: 256,
   ownLength: 2033,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2906379/256-a-complete-joke",

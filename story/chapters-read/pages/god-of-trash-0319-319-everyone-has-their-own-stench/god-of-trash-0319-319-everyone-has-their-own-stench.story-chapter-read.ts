@@ -8,7 +8,7 @@ export const godOfTrash0319319EveryoneHasTheirOwnStench = {
   story: "god-of-trash",
   position: 319,
   ownLength: 3203,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3489064/319-everyone-has-their-own-stench",

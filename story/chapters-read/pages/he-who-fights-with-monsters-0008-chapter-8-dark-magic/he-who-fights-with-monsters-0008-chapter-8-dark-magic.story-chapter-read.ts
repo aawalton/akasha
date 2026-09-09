@@ -9,7 +9,7 @@ export const heWhoFightsWithMonsters0008Chapter8DarkMagic = {
   position: 8,
   ownLength: 1938,
   ownProgress: 1938,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:04:02.824Z",
   publishedAt: "2019-07-31",
   externalLink:

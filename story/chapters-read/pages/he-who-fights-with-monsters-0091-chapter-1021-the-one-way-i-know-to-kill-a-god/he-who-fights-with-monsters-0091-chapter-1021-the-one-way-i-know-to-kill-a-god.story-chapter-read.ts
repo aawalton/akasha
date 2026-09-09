@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0091Chapter1021TheOneWayIKnowToKillAGod = {
   story: "story-read/he-who-fights-with-monsters",
   position: 91,
   ownLength: 2897,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3892850/chapter-1021-the-one-way-i-know-to-kill-a-god",
