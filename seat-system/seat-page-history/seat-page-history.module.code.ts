@@ -8,18 +8,8 @@ import {
 import { DECLARATIONS, type Declaration } from "../seat-attributes/seat-attributes.module.code.ts"
 import { initiativeStemOf } from "../seat-initiative/seat-initiative.module.code.ts"
 
-// WHAT A SEAT SAID BEFORE ITS PAGE WENT, READ FROM AKASHA AND NOWHERE ELSE. Every reader here asked
-// akasha first and fell through to the old store behind it, walking `agent/seat` in git to find a
-// path, opening bodies to index them by id, and parsing frontmatter out of each. That store is
-// drained, so the fallback answered nothing it had not already been answered — and for a seat
-// opened since the write moved it had never answered anything at all.
-
 const IN_ITS_OWN_FIELD: readonly Declaration[] = ["initiative", "on-call"]
 
-// THE START MODE AND THE ACCOUNT ARE CARRIED, because akasha will not compose a page without them.
-// This answered a seat's attributes alone while the old page was what a seat had to satisfy, and a
-// seat recovered from it composed to nothing whatever else it recovered. The old page never stated
-// a start mode at all, so nothing here could have carried one until akasha's history was read.
 export interface StatedFromHistory {
   readonly commit: string
   readonly set: Partial<Record<Declaration, string>>
@@ -38,11 +28,6 @@ function textField(frontmatter: Record<string, unknown>, key: string): string | 
   return null
 }
 
-// AN ATTRIBUTE IS A SLUG AND A PAGE CARRIES AN ADDRESS. Both stores write the assignment under the
-// page type that holds it, and what an attribute takes is the slug alone — so an address handed
-// back as one is addressed a second time, finds nothing standing under its whole spelling, and
-// falls back to naming a domain. That is how a seat assigned a workspace package recovers as though
-// it were assigned a domain of the same name.
 function bareSlug(said: string | null): string | null {
   return said === null ? null : said.slice(said.lastIndexOf("/") + 1)
 }
@@ -52,12 +37,6 @@ export interface PageInHistory {
   readonly frontmatter: Record<string, unknown>
 }
 
-// AKASHA'S HISTORY IS ASKED FIRST, because it is the one still being written. The old pages stopped
-// changing when the write moved, so what they hold is whatever a seat last said before that, and a
-// seat that has stated anything since would be answered with the older truth.
-//
-// They are still read behind it. Every seat that stood before the move has a body only there, and a
-// seat too old to have ever had a page in akasha is answered from the store that did hold it.
 export function pageFromHistory(seatName: string, roots: Roots): PageInHistory | null {
   const inAkasha = akashaSeatNamedInHistory(seatName, rootFor(roots, AKASHA))
   if (inAkasha !== null) return { commit: inAkasha.commit, frontmatter: inAkasha.values }
@@ -78,13 +57,6 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
   return {
     commit,
     set,
-    // THE ADDRESS IS CARRIED WHOLE AS WELL AS STRIPPED. An attribute takes the slug alone, so `set`
-    // gets the stripped one and always will. The seat page is the only place the page type an
-    // assignment names is written down, and a stop takes that page away — so a start read the slug
-    // back and had to guess the page type, and a slug two page types carry is guessed wrong.
-    // `akasha-migration` is a domain and an initiative both: a seat assigned the initiative came
-    // back assigned the domain every time it stopped, and the intent and the constraints the
-    // initiative carries went with it. This is what the page said, for the writer to keep.
     assignment: textField(frontmatter, "domain-slug"),
     principal:
       textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
@@ -113,13 +85,6 @@ export function frontmatterFromHistory(
   return null
 }
 
-const FIELD_LOOKBACK = 50
-
-// AKASHA IS ASKED FIRST, AS IT IS FOR A NAME AND FOR A WHOLE FRONTMATTER. This was the one reader
-// here that never learned to, so it answered out of the old store alone: a seat that never held an
-// old page — every seat opened since the write moved — was told its session and its parent were
-// gone the moment its own page was. Committing `claude-code-session-uuid` buys a resume after a
-// stop, and reading it from a store nothing writes any more spends nothing.
 export function fieldFromHistory(agentId: string, roots: Roots, key: string): string | null {
   const inAkasha = akashaSeatInHistory(agentId, rootFor(roots, AKASHA))
   if (inAkasha !== null) {
