@@ -1,4 +1,4 @@
-import type { SearchItem } from "@akasha/spotify/search"
+import type { SearchItem } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { z } from "zod"
 
 const artistRefSchema = z.object({ name: z.string() }).passthrough()

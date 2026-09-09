@@ -1,8 +1,15 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import type { TimeRange } from "@akasha/spotify/personalization"
-import { getTopArtists, getTopTracks, TIME_RANGES } from "@akasha/spotify/personalization"
-import { getCurrentlyPlaying, getRecentlyPlayed } from "@akasha/spotify/player"
+import type { TimeRange } from "akasha/alan/music/spotify/personalization/spotify-personalization.module.code.ts"
+import {
+  getTopArtists,
+  getTopTracks,
+  TIME_RANGES,
+} from "akasha/alan/music/spotify/personalization/spotify-personalization.module.code.ts"
+import {
+  getCurrentlyPlaying,
+  getRecentlyPlayed,
+} from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 
 const INPUT = 1
 

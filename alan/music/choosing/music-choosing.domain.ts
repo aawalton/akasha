@@ -14,7 +14,7 @@ export const musicChoosing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Spotify is reached only through `@akasha/spotify`.",
+      statement: "Spotify is reached only through the `spotify` domain.",
     },
     {
       invariantKind: "absence",

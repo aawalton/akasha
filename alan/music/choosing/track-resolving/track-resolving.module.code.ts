@@ -1,7 +1,10 @@
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
-import { getDevices, getPlaybackState } from "@akasha/spotify/player"
-import { search } from "@akasha/spotify/search"
 import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import {
+  getDevices,
+  getPlaybackState,
+} from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import { z } from "zod"
 import { selectCandidates } from "../track-candidate/track-candidate.module.code.ts"
 

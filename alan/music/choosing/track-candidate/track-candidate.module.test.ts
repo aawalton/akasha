@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { SearchItem } from "@akasha/spotify/search"
+import type { SearchItem } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import {
   matchesArtist,
   selectCandidates,

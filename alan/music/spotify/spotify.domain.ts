@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const spotify = {
   id: "01a06261-dc1d-7000-8f39-acf6360f39b5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "spotify",
   definition: "Alan's Spotify account reached over the Web API",
-  manifest: "json",
   parts: [
     "module/spotify-credentials",
     "module/spotify-fetching",
@@ -60,4 +59,4 @@ export const spotify = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

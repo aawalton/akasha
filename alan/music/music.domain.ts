@@ -11,7 +11,7 @@ export const music = {
     "domain/music-listening",
     "domain/music-choosing",
     "domain/music-commands",
-    "workspace-package/spotify",
+    "domain/spotify",
   ],
   invariants: [
     {

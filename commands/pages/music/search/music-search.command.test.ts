@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import type { SearchParams, SearchResponse } from "@akasha/spotify/search"
-import { searchResponseSchema } from "@akasha/spotify/search"
+import type {
+  SearchParams,
+  SearchResponse,
+} from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+import { searchResponseSchema } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 import type { Finding } from "./music-search.command.code.ts"
 import { searchWith, toldIn } from "./music-search.command.code.ts"
 

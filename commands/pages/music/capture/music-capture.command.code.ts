@@ -10,7 +10,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor } from "@akasha/pages-service/composing"
-import { getRecentlyPlayed } from "@akasha/spotify/player"
+import { getRecentlyPlayed } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { textAt } from "../../../modules/asking/asking.module.code.ts"
 import {
   buildPlayRow,

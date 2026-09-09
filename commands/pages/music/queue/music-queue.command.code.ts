@@ -1,12 +1,15 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { InputError, isCliError } from "@akasha/errors-core/exit-code"
-import { addToQueue, startResumePlayback } from "@akasha/spotify/player"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import {
   resolveDeviceId,
   resolveQueryToTrack,
 } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+import {
+  addToQueue,
+  startResumePlayback,
+} from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import type { Read, Starting } from "../play/music-play.command.code.ts"
 import {
   ARTIST,

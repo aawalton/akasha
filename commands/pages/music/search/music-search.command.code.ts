@@ -1,9 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import type { SearchParams, SearchResponse } from "@akasha/spotify/search"
-import { search } from "@akasha/spotify/search"
 import type { TrackCandidate } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
 import { selectCandidates } from "akasha/alan/music/choosing/track-candidate/track-candidate.module.code.ts"
+import type {
+  SearchParams,
+  SearchResponse,
+} from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
+import { search } from "akasha/alan/music/spotify/search/spotify-search.module.code.ts"
 
 const INPUT = 1
 
