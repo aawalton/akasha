@@ -1,5 +1,5 @@
-import type { Candidate } from "../../eval-population/monarch-eval-population.module.code.ts"
 import { array, num, object, str } from "../../shape/monarch-shape.module.code.ts"
+import type { Candidate } from "../population/monarch-eval-population.module.code.ts"
 
 export const MODEL = "sonnet"
 export const BATCH = 10

@@ -2,8 +2,8 @@
 
 import type { Proposal } from "../eval/agent/monarch-eval-agent.module.code.ts"
 import { BATCH, MODEL, offerable, runBatch } from "../eval/agent/monarch-eval-agent.module.code.ts"
-import type { Candidate, Pool } from "../eval-population/monarch-eval-population.module.code.ts"
-import { draw, population, STRATA } from "../eval-population/monarch-eval-population.module.code.ts"
+import type { Candidate, Pool } from "../eval/population/monarch-eval-population.module.code.ts"
+import { draw, population, STRATA } from "../eval/population/monarch-eval-population.module.code.ts"
 import type { Digest } from "../eval-snapshot/monarch-eval-snapshot.module.code.ts"
 import { digest, moved } from "../eval-snapshot/monarch-eval-snapshot.module.code.ts"
 import { readHistory } from "../history/monarch-history.module.code.ts"

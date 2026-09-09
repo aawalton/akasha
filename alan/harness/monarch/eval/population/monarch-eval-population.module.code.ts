@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
-import type { HistoryRow } from "../history/monarch-history.module.code.ts"
-import type { Rule } from "../rules/monarch-rules.module.code.ts"
-import { decide, fires, neighbourhoods } from "../rules/monarch-rules.module.code.ts"
-import { answered } from "../transaction/monarch-transaction.module.code.ts"
+import type { HistoryRow } from "../../history/monarch-history.module.code.ts"
+import type { Rule } from "../../rules/monarch-rules.module.code.ts"
+import { decide, fires, neighbourhoods } from "../../rules/monarch-rules.module.code.ts"
+import { answered } from "../../transaction/monarch-transaction.module.code.ts"
 
 export type Stratum = "PAYEE" | "FLOW" | "ENVELOPE-PERSON" | "ENVELOPE-OCCASION"
 
