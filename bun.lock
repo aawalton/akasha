@@ -1770,6 +1770,17 @@
     "temper/explain": {
       "name": "@akasha/temper-explain",
     },
+    "temper/game-catalog-capture-addon": {
+      "name": "@akasha/temper-game-catalog-capture-addon",
+      "dependencies": {
+        "@akasha/temper-capture-shapes": "workspace:*",
+        "@akasha/temper-capture-writer": "workspace:*",
+        "@akasha/temper-catalog-core": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-narrow": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/game-catalog-capture-host": {
       "name": "@akasha/temper-game-catalog-capture-host",
       "dependencies": {
@@ -1813,6 +1824,17 @@
         "@akasha/temper-hud-window": "workspace:*",
         "@akasha/temper-items-filters-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
+      },
+    },
+    "temper/items-filters-core": {
+      "name": "@akasha/temper-items-filters-core",
+      "dependencies": {
+        "@akasha/temper-companions-core": "workspace:*",
+        "@akasha/temper-equipment": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+        "@akasha/utils": "workspace:*",
       },
     },
     "temper/items-rules-eval": {
@@ -2339,17 +2361,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-game-catalog-capture-addon": {
-      "name": "@akasha/temper-game-catalog-capture-addon",
-      "dependencies": {
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-capture-writer": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-narrow": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
@@ -2416,17 +2427,6 @@
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "temper/temper-items-filters-core": {
-      "name": "@akasha/temper-items-filters-core",
-      "dependencies": {
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/temper-items-core": "workspace:*",
-        "@akasha/temper-items-rules-core": "workspace:*",
-        "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/temper-items-rules-core": {
@@ -3193,7 +3193,7 @@
 
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
 
-    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:temper/temper-game-catalog-capture-addon"],
+    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:temper/game-catalog-capture-addon"],
 
     "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:temper/game-catalog-capture-host"],
 
@@ -3217,7 +3217,7 @@
 
     "@akasha/temper-items-filters-addon": ["@akasha/temper-items-filters-addon@workspace:temper/items-filters-addon"],
 
-    "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:temper/temper-items-filters-core"],
+    "@akasha/temper-items-filters-core": ["@akasha/temper-items-filters-core@workspace:temper/items-filters-core"],
 
     "@akasha/temper-items-rules-core": ["@akasha/temper-items-rules-core@workspace:temper/temper-items-rules-core"],
 
