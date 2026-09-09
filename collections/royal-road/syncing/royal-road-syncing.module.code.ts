@@ -21,6 +21,7 @@ const RESTATE = "change-mechanical-file/add-if-not-present-file"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
+const STORY = "story"
 const STORY_SLUG = "storySlug"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
@@ -151,7 +152,7 @@ export function chapterIdIn(row: Row): string | null {
 export function heldChapters(): Held {
   const asked = asking(ROOT, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", "externalId", "externalLink", STORY_SLUG],
+    keys: ["slug", "externalId", "externalLink", STORY, STORY_SLUG],
   })
   if ("refused" in asked) {
     throw new SyncRefused(
@@ -172,7 +173,7 @@ export function heldChapters(): Held {
     if (slug !== null) slugs.add(slug)
     const id = chapterIdIn(row)
     if (id === null) continue
-    const story = storySlugOf(row[STORY_SLUG])
+    const story = storySlugOf(row[STORY] ?? row[STORY_SLUG])
     if (story === null) continue
     const ids = idsByStory.get(story) ?? new Set<string>()
     ids.add(id)
@@ -204,7 +205,7 @@ export function filedChapter(
     pageTypeSlug: CHAPTER_PAGE_TYPE,
     slug,
     title: chapter.title,
-    [STORY_SLUG]: `${OPENS_WITH}${story.slug}`,
+    [STORY]: `${OPENS_WITH}${story.slug}`,
     position,
     ownLength: wordCount,
     unitSlug: WORDS,

@@ -43,22 +43,26 @@ export function assertStoryExists(): undefined {
   }
 }
 
+const STORY_KEYS = ["story", "storySlug"] as const
+
 export function filedChapterLinks(): ReadonlySet<string> {
-  const asked = asking(akashaRoot(), {
-    pageTypeSlug: CHAPTER_PAGE_TYPE,
-    where: { storySlug: { is: STORY_ADDRESS } },
-    keys: ["externalLink"],
-  })
-  if ("refused" in asked) {
-    throw new FilingRefused(
-      `the chapters already filed could not be read, so every chapter the table of contents ` +
-        `names would read as new and be filed a second time: ${asked.refused}`
-    )
-  }
   const links = new Set<string>()
-  for (const row of asked.rows) {
-    const link = row["externalLink"]
-    if (typeof link === "string" && link !== "") links.add(link)
+  for (const key of STORY_KEYS) {
+    const asked = asking(akashaRoot(), {
+      pageTypeSlug: CHAPTER_PAGE_TYPE,
+      where: { [key]: { is: STORY_ADDRESS } },
+      keys: ["externalLink"],
+    })
+    if ("refused" in asked) {
+      throw new FilingRefused(
+        `the chapters already filed could not be read, so every chapter the table of contents ` +
+          `names would read as new and be filed a second time: ${asked.refused}`
+      )
+    }
+    for (const row of asked.rows) {
+      const link = row["externalLink"]
+      if (typeof link === "string" && link !== "") links.add(link)
+    }
   }
   if (links.size === 0) {
     throw new FilingRefused(
@@ -84,7 +88,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
     slug,
     title: chapter.title,
-    storySlug: STORY_ADDRESS,
+    story: STORY_ADDRESS,
     position: chapter.position,
     ownLength: countChapterWords(chapter.text),
     unitSlug: WORDS,
