@@ -67,8 +67,9 @@ export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSon
 function songsByArtist(catalog: Catalog): Map<string, CatalogSong[]> {
   const byArtist = new Map<string, CatalogSong[]>()
   for (const song of catalog.songs) {
-    const held = byArtist.get(song.artistSlug)
-    if (held === undefined) byArtist.set(song.artistSlug, [song])
+    const named = song.artistSlug ?? ""
+    const held = byArtist.get(named)
+    if (held === undefined) byArtist.set(named, [song])
     else held.push(song)
   }
   return byArtist
