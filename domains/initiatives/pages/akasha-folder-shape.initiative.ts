@@ -8,16 +8,6 @@ export const akashaFolderShape = {
   personaSlug: "akasha",
   intents: [
     {
-      statement: "Every relation value in akasha is a page address of one of the three kinds.",
-      workingMemory:
-        "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
-    },
-    {
-      statement: "No relation value lands that akasha cannot key to one page.",
-      workingMemory:
-        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. A mechanical change is judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
-    },
-    {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
         "121 relation properties, and 90 are named `<x>-slug` or `<x>-slugs`. The types say it too: `PartOfCollectionSlugs = List<Slug>`. Every one of those names goes false as its value becomes an address. One property at a time rather than one landing: a mechanical change is judged by no check. `page-type-slug` and `part-of-collection-slugs` reach the most pages, so they go last, once a small one has shown what the rename costs.",
@@ -36,6 +26,16 @@ export const akashaFolderShape = {
       statement: "A check determines whether a folder should be a workspace package.",
       workingMemory:
         "Nothing states this today, so it is decided case by case. Alan's default: a folder unless there is a reason to make it a package, and a reason is a name the outside must reach. `agents` earns its manifest, reached by 18 subpaths from 37 import sites across `seat-system` and `command-system`. The workspace-package page already has the rule Earn The Manifest.",
+    },
+    {
+      statement: "No relation value lands that akasha cannot key to one page.",
+      workingMemory:
+        "`identifier-names-one-page` now runs on a patch, on the worktree, at deploy and at audit, and the whole tree judges clean over 122262 files. What remains: `add-page-property` and `remove-page-property` name no `guardSlugs`, so the mechanical path a bulk migration takes writes a relation value that no guard reads.",
+    },
+    {
+      statement: "Every relation value in akasha is a page address of one of the three kinds.",
+      workingMemory:
+        "27651 entries over 26133 pages: 21756 bare across 510 values, 5895 qualified, 0 dangling. The declaring property's target page type settles every ambiguous value but `profile`. Count by parsing arrays, not lines: 16 values sit only in multi-entry arrays. Beyond relations, 2563 of the 2601 `pagePropertySlug` values are bare, and `shapedIn`'s search across page types answers them; `4eb997e9` took it out and emptied 443 of 453 page types, unfiling all 914 unique keys in silence. It goes last.",
     },
   ],
   constraints: [
