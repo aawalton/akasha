@@ -30,6 +30,10 @@ const RELATIVE = "acl:relcl"
 
 const PARTICIPLE = "acl"
 
+const ADVERBIAL = "advcl"
+
+const ROOT = "root"
+
 const TO = "to"
 
 const OBJECT_FRAME = "object"
@@ -293,7 +297,13 @@ function thingConjoined(sentence: DepSentence, token: DepToken): boolean {
   return above !== undefined && THINGS.has(above.upos)
 }
 
+function actingAhead(token: DepToken): boolean {
+  return token.deprel === ADVERBIAL && token.id < token.head
+}
+
 function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
+  if (token.deprel === ROOT) return null
+  if (actingAhead(token)) return null
   if (underAPreposition(sentence, token)) return null
   if (adverbBefore(sentence, token)) return null
   if (clauseBeside(sentence, token)) return null

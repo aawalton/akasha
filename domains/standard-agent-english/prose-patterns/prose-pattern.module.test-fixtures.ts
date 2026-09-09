@@ -407,6 +407,22 @@ export const A_TERMINAL_HOLDING_KEYS: readonly Row[] = [
   ["keys", "NOUN", 5, "obj"],
 ]
 
+export const HOLDING_A_REQUEST_TO_COLLECT: readonly Row[] = [
+  ["holding", "VERB", 0, "root"],
+  ["a", "DET", 3, "det"],
+  ["request", "NOUN", 1, "obj"],
+  ["to", "PART", 5, "mark"],
+  ["collect", "VERB", 3, "acl"],
+]
+
+export const HOLDING_THE_INTENT_IS_LEFT: readonly Row[] = [
+  ["Holding", "VERB", 5, "advcl"],
+  ["the", "DET", 3, "det"],
+  ["intent", "NOUN", 1, "obj"],
+  ["is", "AUX", 5, "aux:pass"],
+  ["left", "VERB", 0, "root"],
+]
+
 export const A_RECORD_HOLDS_BETWEEN_ROUNDS: readonly Row[] = [
   ["a", "DET", 2, "det"],
   ["record", "NOUN", 0, "root"],

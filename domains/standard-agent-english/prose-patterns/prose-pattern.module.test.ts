@@ -22,6 +22,8 @@ import {
   HELD_IN_PLAN_RATHER_DROPPED,
   HOLD,
   HOLDING_A_MODULE_TO_RUNTIME_STATES,
+  HOLDING_A_REQUEST_TO_COLLECT,
+  HOLDING_THE_INTENT_IS_LEFT,
   IT_HELD_OR_WOULD_HOLD,
   LEDGER_HOLDS_EDITS,
   NAMES_A_PATH_RATHER_THAN_HOLDING,
@@ -199,6 +201,14 @@ test("a fronted word joined to another word is left alone", () => {
 
 test("a word the parser gave two objects is left alone", () => {
   expect(foundIn(sentenceOf(ROW_HELD_DROPS_THE_ID), HELD)).toEqual([])
+})
+
+test("a participle heading its own sentence is left alone", () => {
+  expect(foundIn(sentenceOf(HOLDING_A_REQUEST_TO_COLLECT), HOLD)).toEqual([])
+})
+
+test("a participle before the clause it hangs on is left alone", () => {
+  expect(foundIn(sentenceOf(HOLDING_THE_INTENT_IS_LEFT), HOLD)).toEqual([])
 })
 
 test("a gerund the parser hung elsewhere is found as a participle", () => {

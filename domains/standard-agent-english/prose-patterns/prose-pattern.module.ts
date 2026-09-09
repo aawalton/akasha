@@ -173,5 +173,14 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A participle the parser joined to a thing describes no thing.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A participle heading its own sentence names an act, so it describes no thing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A participle before the clause it hangs on names an act, so it describes no thing.",
+    },
   ],
 } as const satisfies Module
