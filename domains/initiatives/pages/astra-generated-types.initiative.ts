@@ -60,5 +60,10 @@ export const astraGeneratedTypes = {
       workingMemory:
         "Five generators ride `change-preparing`: the manifest lockfile, worked types, the change address map, spacing steps and source globs. The rest run from commands by hand. Four path heuristics disagree about what counts as generated, and the one machine-readable marker, `record-property/generated`, reaches type declarations alone.\n",
     },
+    {
+      statement: "A calculation's return type is written from the kind its property states.",
+      workingMemory:
+        "The kind is stated twice: `holds` on the computed property page, and the second type argument of the `Work<Page, Held>` its code file exports. `Held` is free, so the compiler compares nothing and a disagreement lands. Only a reader catches it, at `pages/computing/page-computing.module.code.ts:91-103`. Of 33 calculations, 25 hold number and 8 hold text, so the kinds in use are the two a wrong return type would transpose. A check comparing the two files was weighed and not built.\n",
+    },
   ],
 } as const satisfies Initiative
