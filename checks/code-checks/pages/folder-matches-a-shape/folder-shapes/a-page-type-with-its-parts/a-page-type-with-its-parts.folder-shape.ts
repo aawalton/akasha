@@ -79,7 +79,7 @@ export const aPageTypeWithItsParts = {
     {
       invariantKind: "departure",
       statement:
-        "A subfolder with a second page that is no workspace package of the first is the folder of no part.",
+        "A subfolder with a second page that is no workspace package or domain of the first is no part.",
     },
     {
       invariantKind: "departure",
