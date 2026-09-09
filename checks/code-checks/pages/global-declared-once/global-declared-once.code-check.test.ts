@@ -47,7 +47,7 @@ const APART = "declare const OTHER: string\n"
 
 const AMBIENT = "ambient-types"
 
-const DECLARES = "page-property-slug"
+const DECLARES = "page-property"
 
 const FILE_PROPERTY = "file-property"
 
