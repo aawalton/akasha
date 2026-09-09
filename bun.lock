@@ -584,14 +584,6 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "collections/great-courses": {
-      "name": "@akasha/great-courses",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/pages-query": "workspace:*",
-        "jsdom": "^28.1.0",
-      },
-    },
     "collections/royal-road": {
       "name": "@akasha/royal-road",
       "dependencies": {
@@ -2691,8 +2683,6 @@
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:google/oauth"],
 
     "@akasha/graph": ["@akasha/graph@workspace:graph"],
-
-    "@akasha/great-courses": ["@akasha/great-courses@workspace:collections/great-courses"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 

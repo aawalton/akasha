@@ -4,7 +4,7 @@ export const greatCoursesNamesAPageTypeTheStoreDoesNotHold = {
   id: "01a06580-196a-7002-8a36-8ba9c3e2935e",
   pageTypeSlug: "finding",
   slug: "great-courses-names-a-page-type-the-store-does-not-hold",
-  domain: "workspace-package/great-courses",
+  domain: "domain/great-courses",
   claim:
     "The Great Courses sync completes no step. Every read it makes names `great-courses-collection` or `great-course`, and the store holds neither page type, so the first read is refused 400 before the thirty-day gate is ever computed. That gate is unreadable rather than shut, which fails differently. Writing is severed too: nothing renders either page type's body out of the keys `createCourse` and `updateRootParentLastSyncedAt` build, so no course has become a page and `lastSyncedAt` has not moved.",
   evidence:

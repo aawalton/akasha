@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const greatCourses = {
   id: "01a06579-f3d9-7008-be12-f37f13da607b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "great-courses",
   definition: "the Great Courses catalogue, brought into the page store as a page for each course",
-  manifest: "json",
   parts: [
     "module/catalogue-syncing",
     "module/course-types",
@@ -43,4 +42,4 @@ export const greatCourses = {
       statement: "The workload running the sync is outside akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
