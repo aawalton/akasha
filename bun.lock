@@ -54,6 +54,7 @@
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-characters-capture-addon": "workspace:*",
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
         "@akasha/temper-community-addons": "workspace:*",
@@ -79,6 +80,7 @@
         "@akasha/temper-lua-runner": "workspace:*",
         "@akasha/temper-narrow": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
+        "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-player-inventory-management-ui": "workspace:*",
         "@akasha/temper-player-profile": "workspace:*",
@@ -1293,16 +1295,6 @@
         "react": "^18 || ^19",
       },
     },
-    "temper/characters-skills-morphs-addon": {
-      "name": "@akasha/temper-characters-skills-morphs-addon",
-      "dependencies": {
-        "@akasha/temper-characters-capture-addon": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/classes": {
       "name": "@akasha/temper-classes",
       "dependencies": {
@@ -1698,7 +1690,6 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
         "@akasha/temper-characters-capture-addon": "workspace:*",
-        "@akasha/temper-characters-skills-morphs-addon": "workspace:*",
         "@akasha/temper-companions-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-dungeons": "workspace:*",
@@ -2428,8 +2419,6 @@
     "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:temper/temper-characters-equipment"],
 
     "@akasha/temper-characters-equipment-ui": ["@akasha/temper-characters-equipment-ui@workspace:temper/characters-equipment-ui"],
-
-    "@akasha/temper-characters-skills-morphs-addon": ["@akasha/temper-characters-skills-morphs-addon@workspace:temper/characters-skills-morphs-addon"],
 
     "@akasha/temper-characters-stats": ["@akasha/temper-characters-stats@workspace:temper/temper-characters-stats"],
 

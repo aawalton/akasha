@@ -1,8 +1,8 @@
-import { stripMorphVariantFields } from "@akasha/temper-characters-skills-morphs-addon/skill-morph-strip"
 import type { SkillLineProgress } from "@akasha/temper-completion/completion-progress"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import type { SavedVariablesData } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import { stripMorphVariantFields } from "akasha/temper/characters-skills-morphs-addon/skill-morph-strip/skill-morph-strip.module.code.ts"
 import { collectAchievements } from "../characters-achievements/characters-achievements.module.code.ts"
 
 export interface Migration {

@@ -1,4 +1,3 @@
-import { resolveSkillMorphs } from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-progress"
 import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
 import { getEsoDayStringFromSec } from "@akasha/temper-dungeons/eso-reset"
 import { applyCompletionOverrides } from "@akasha/temper-player-completion/apply-completion-overrides"
@@ -8,6 +7,7 @@ import {
   type TaskData,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import { resolveSkillMorphs } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"
 import { getCompletionOverridesForCharacter } from "../characters-config/characters-config.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 import {

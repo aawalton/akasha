@@ -1,10 +1,10 @@
-import {
-  saveAccountSkillMorphProgress,
-  saveSkillMorphProgress,
-} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-tracking"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import { collectMotifKnowledge } from "@akasha/temper-player-completion-state/completion-motif-knowledge"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import {
+  saveAccountSkillMorphProgress,
+  saveSkillMorphProgress,
+} from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { collectAchievements } from "../characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { refreshAllAntiquityLore } from "../characters-antiquity-lore/characters-antiquity-lore.module.code.ts"

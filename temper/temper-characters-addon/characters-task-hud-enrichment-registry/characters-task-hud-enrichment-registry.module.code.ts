@@ -1,10 +1,10 @@
-import {
-  getSkillMorphEnrichment,
-  isSkillMorphTask,
-} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-task-hud"
 import { MAX_COMPANION_RAPPORT } from "@akasha/temper-player-completion/companion-rapport"
 import type { DailyWritProfessionState } from "@akasha/temper-player-completion-state/completion-daily-writs-state"
 import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import {
+  getSkillMorphEnrichment,
+  isSkillMorphTask,
+} from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
 import { formatProgressCount } from "../characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getScribingGuildDailyFallback,

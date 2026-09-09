@@ -121,7 +121,9 @@
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/pages-core": "workspace:*",
-    "@akasha/object-store": "workspace:*"
+    "@akasha/object-store": "workspace:*",
+    "@akasha/temper-characters-capture-addon": "workspace:*",
+    "@akasha/temper-player-completion-state": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

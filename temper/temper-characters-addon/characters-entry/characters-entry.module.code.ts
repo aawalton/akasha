@@ -2,10 +2,6 @@ import "../characters-public-api/characters-public-api.module.code.ts"
 
 import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"
 import { finishPerfTrace, startPerfTrace } from "@akasha/temper-capture-perf/perf-trace"
-import {
-  saveAccountSkillMorphProgress,
-  saveSkillMorphProgress,
-} from "@akasha/temper-characters-skills-morphs-addon/skill-morph-tracking"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import { collectMotifKnowledge } from "@akasha/temper-player-completion-state/completion-motif-knowledge"
 import {
@@ -13,6 +9,10 @@ import {
   initializeSavedVariables,
   pruneDeletedCharacters,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import {
+  saveAccountSkillMorphProgress,
+  saveSkillMorphProgress,
+} from "akasha/temper/characters-skills-morphs-addon/skill-morph-tracking/skill-morph-tracking.module.code.ts"
 import { initializeSkillPointFinder } from "akasha/temper/skill-point-finder/skill-point-finder-init/skill-point-finder-init.module.code.ts"
 import { collectAchievements } from "../characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
