@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureHowLongTermDietAffectsYourBrain = {
   id: "019db533-f39f-7214-a570-55d966e9f830",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-how-long-term-diet-affects-your-brain",
   title: "Pilot Lecture: How Long-Term Diet Affects Your Brain",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const syntheticBiologyLifeSExtraordinaryNewWorlds = {
   id: "019db533-f39f-71ea-9358-edb54b604307",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "synthetic-biology-life-s-extraordinary-new-worlds",
   title: "Synthetic Biology: Life’s Extraordinary New Worlds",
   status: "not-started",

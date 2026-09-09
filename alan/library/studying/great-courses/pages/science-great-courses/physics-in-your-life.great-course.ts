@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const physicsInYourLife = {
   id: "019db533-f39f-7229-ac4f-ed5da009df44",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "physics-in-your-life",
   title: "Physics in Your Life",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingThePeriodicTable = {
   id: "019db533-f39f-709f-9e5e-2624fd586058",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-periodic-table",
   title: "Understanding the Periodic Table",
   status: "not-started",

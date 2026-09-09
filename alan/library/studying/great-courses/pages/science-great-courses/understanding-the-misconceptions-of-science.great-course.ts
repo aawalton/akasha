@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheMisconceptionsOfScience = {
   id: "019db533-f39e-7db7-88c5-b9686ece4870",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-misconceptions-of-science",
   title: "Understanding the Misconceptions of Science",
   status: "not-started",

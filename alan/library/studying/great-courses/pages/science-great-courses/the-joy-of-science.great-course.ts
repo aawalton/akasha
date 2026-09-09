@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theJoyOfScience = {
   id: "019db533-f39f-7234-b625-f4dca7670ea1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-joy-of-science",
   title: "The Joy of Science",
   status: "not-started",

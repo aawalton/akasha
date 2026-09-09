@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const nationalGeographicPolarExplorations = {
   id: "019db533-f39f-74c3-94a7-e1920a323c37",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "national-geographic-polar-explorations",
   title: "National Geographic Polar Explorations",
   status: "completed",

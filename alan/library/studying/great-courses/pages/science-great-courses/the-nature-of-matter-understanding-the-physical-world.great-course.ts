@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theNatureOfMatterUnderstandingThePhysicalWorld = {
   id: "019db533-f39e-7e19-91bc-b964614f1a17",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-nature-of-matter-understanding-the-physical-world",
   title: "The Nature of Matter: Understanding the Physical World",
   status: "not-started",

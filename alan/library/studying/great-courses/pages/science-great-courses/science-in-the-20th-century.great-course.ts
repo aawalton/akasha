@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const scienceInThe20thCentury = {
   id: "019db533-f39e-7ece-bc77-fc95c2fb0db5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "science-in-the-20th-century",
   title: "Science in the 20th Century",
   status: "not-started",

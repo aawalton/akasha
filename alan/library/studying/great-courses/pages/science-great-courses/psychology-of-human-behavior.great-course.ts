@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const psychologyOfHumanBehavior = {
   id: "019db533-f39e-7e79-a344-4ed8c66ffce8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "psychology-of-human-behavior",
   title: "Psychology of Human Behavior",
   status: "not-started",

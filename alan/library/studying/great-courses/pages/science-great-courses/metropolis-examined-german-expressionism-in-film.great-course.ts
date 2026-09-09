@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const metropolisExaminedGermanExpressionismInFilm = {
   id: "019db533-f39e-7fd2-be62-6446963a3bf9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "metropolis-examined-german-expressionism-in-film",
   title: "Metropolis Examined: German Expressionism in Film",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mindBlowingScienceSeason2 = {
   id: "019db533-f39f-720a-b77c-1d3406aef85a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mind-blowing-science-season-2",
   title: "Mind-Blowing Science: Season 2",
   status: "not-started",

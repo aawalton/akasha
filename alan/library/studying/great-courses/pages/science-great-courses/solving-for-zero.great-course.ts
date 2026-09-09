@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const solvingForZero = {
   id: "019db533-f39f-723f-a769-b67d61071362",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "solving-for-zero",
   title: "Solving for Zero",
   status: "completed",

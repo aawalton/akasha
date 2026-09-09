@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const robotics = {
   id: "019db533-f39e-7ee3-9d3e-123f426b8373",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "robotics",
   title: "Robotics",
   status: "not-started",

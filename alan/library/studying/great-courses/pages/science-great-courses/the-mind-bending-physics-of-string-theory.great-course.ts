@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theMindBendingPhysicsOfStringTheory = {
   id: "019db533-f39e-7bde-915b-719933b648db",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-mind-bending-physics-of-string-theory",
   title: "The Mind-Bending Physics of String Theory",
   status: "not-started",

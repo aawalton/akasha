@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const solvingForZeroTheSearchForClimateInnovation = {
   id: "019db533-f39f-7114-a562-aa8e8fd79973",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "solving-for-zero-the-search-for-climate-innovation",
   title: "Solving for Zero: The Search for Climate Innovation",
   status: "not-started",

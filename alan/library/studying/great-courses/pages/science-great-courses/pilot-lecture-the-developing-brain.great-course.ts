@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheDevelopingBrain = {
   id: "019db533-f39e-7e99-a8cf-5172f57562cf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-developing-brain",
   title: "Pilot Lecture: The Developing Brain",
   status: "completed",

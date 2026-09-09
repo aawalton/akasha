@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const shockingPsychologicalStudiesAndTheLessonsTheyTeach = {
   id: "019db533-f39e-7dbf-8f0f-8a1da16b278b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "shocking-psychological-studies-and-the-lessons-they-teach",
   title: "Shocking Psychological Studies and the Lessons They Teach",
   status: "completed",

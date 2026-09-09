@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheGeneticsOfCancer = {
   id: "019db533-f39f-71ff-a29c-f7b1715431e1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-genetics-of-cancer",
   title: "Pilot Lecture: The Genetics of Cancer",
   status: "completed",

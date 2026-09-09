@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const natureOfEarthAnIntroductionToGeology = {
   id: "019db533-f39e-7c54-a276-342ceeb5f794",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "nature-of-earth-an-introduction-to-geology",
   title: "Nature of Earth: An Introduction to Geology",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHumanJourney = {
   id: "019db533-f39f-7174-af48-d870995467fe",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-human-journey",
   title: "The Human Journey",
   status: "not-started",

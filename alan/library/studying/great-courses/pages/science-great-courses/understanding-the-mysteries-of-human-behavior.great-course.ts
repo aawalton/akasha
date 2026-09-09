@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheMysteriesOfHumanBehavior = {
   id: "019db533-f39f-706a-a60a-c63e70126164",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-mysteries-of-human-behavior",
   title: "Understanding the Mysteries of Human Behavior",
   status: "not-started",

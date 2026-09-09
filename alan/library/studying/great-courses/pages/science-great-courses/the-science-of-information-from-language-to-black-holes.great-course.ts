@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theScienceOfInformationFromLanguageToBlackHoles = {
   id: "019db533-f39e-7ba9-87dc-2a3beacf94dc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-science-of-information-from-language-to-black-holes",
   title: "The Science of Information: From Language to Black Holes",
   status: "not-started",

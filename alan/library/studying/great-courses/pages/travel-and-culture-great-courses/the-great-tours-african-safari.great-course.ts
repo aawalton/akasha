@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursAfricanSafari = {
   id: "019db533-f39f-744f-8f4b-7065af9f6721",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-african-safari",
   title: "The Great Tours: African Safari",
   status: "completed",

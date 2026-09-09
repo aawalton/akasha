@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theScienceOfFlight = {
   id: "019db533-f39e-7b68-950f-e1ae936f3d50",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-science-of-flight",
   title: "The Science of Flight",
   status: "not-started",

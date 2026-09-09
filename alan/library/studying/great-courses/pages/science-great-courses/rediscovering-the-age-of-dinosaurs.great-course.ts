@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const rediscoveringTheAgeOfDinosaurs = {
   id: "019db533-f39e-7eae-963b-b2ffe7c16f50",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "rediscovering-the-age-of-dinosaurs",
   title: "Rediscovering the Age of Dinosaurs",
   status: "not-started",

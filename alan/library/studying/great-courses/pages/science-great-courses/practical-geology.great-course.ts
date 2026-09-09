@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const practicalGeology = {
   id: "019db533-f39e-7f2d-b10b-c8339fceaa3e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "practical-geology",
   title: "Practical Geology",
   status: "not-started",

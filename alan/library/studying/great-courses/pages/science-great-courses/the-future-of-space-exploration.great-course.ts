@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theFutureOfSpaceExploration = {
   id: "019db533-f39e-7dd7-8c64-a45ddb58d774",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-future-of-space-exploration",
   title: "The Future of Space Exploration",
   status: "not-started",

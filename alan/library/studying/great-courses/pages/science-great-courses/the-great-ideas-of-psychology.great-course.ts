@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatIdeasOfPsychology = {
   id: "019db533-f39f-721f-8e05-b3783a3d744c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-ideas-of-psychology",
   title: "The Great Ideas of Psychology",
   status: "not-started",

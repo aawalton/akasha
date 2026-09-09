@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theInexplicableUniverseUnsolvedMysteries = {
   id: "019db533-f39e-7de5-8ed5-825db47d943c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-inexplicable-universe-unsolved-mysteries",
   title: "The Inexplicable Universe: Unsolved Mysteries",
   status: "not-started",

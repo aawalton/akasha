@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const sensationPerceptionAndTheAgingProcess = {
   id: "019db533-f39e-7d66-823e-6497e25ca74e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "sensation-perception-and-the-aging-process",
   title: "Sensation, Perception, and the Aging Process",
   status: "not-started",

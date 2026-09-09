@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const unlockingTheHiddenHistoryOfDna = {
   id: "019db533-f39e-7e23-b2cf-fff52c2f4272",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "unlocking-the-hidden-history-of-dna",
   title: "Unlocking the Hidden History of DNA",
   status: "not-started",

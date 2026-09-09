@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const originsOfTheHumanMind = {
   id: "019db533-f39f-7011-ae84-765c07145673",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "origins-of-the-human-mind",
   title: "Origins of the Human Mind",
   status: "not-started",

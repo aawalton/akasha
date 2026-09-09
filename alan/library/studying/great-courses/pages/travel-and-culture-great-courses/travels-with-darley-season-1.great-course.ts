@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const travelsWithDarleySeason1 = {
   id: "019db533-f39f-71ca-87ba-7fb83c620292",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "travels-with-darley-season-1",
   title: "Travels with Darley – Season 1",
   status: "completed",

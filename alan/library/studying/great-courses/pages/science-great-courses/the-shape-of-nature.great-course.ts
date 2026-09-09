@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theShapeOfNature = {
   id: "019db533-f39e-7b80-9058-57783f520c5e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-shape-of-nature",
   title: "The Shape of Nature",
   status: "not-started",

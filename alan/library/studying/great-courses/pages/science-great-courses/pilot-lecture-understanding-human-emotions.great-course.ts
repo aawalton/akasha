@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureUnderstandingHumanEmotions = {
   id: "019db533-f39f-7254-bc58-85a412173cd4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-understanding-human-emotions",
   title: "Pilot Lecture: Understanding Human Emotions",
   status: "archived",

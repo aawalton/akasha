@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theoryOfEvolutionAHistoryOfControversy = {
   id: "019db533-f39e-7bb8-a877-1e8c8eba7cca",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "theory-of-evolution-a-history-of-controversy",
   title: "Theory of Evolution: A History of Controversy",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thermodynamicsFourLawsThatMoveTheUniverse = {
   id: "019db533-f39f-7189-9999-88e498fdb31f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "thermodynamics-four-laws-that-move-the-universe",
   title: "Thermodynamics: Four Laws That Move the Universe",
   status: "not-started",

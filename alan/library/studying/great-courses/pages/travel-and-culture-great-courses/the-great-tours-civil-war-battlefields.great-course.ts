@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatToursCivilWarBattlefields = {
   id: "019db533-f39f-73db-bbf0-09bc8f9f7ee0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-tours-civil-war-battlefields",
   title: "The Great Tours: Civil War Battlefields",
   status: "completed",
