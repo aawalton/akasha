@@ -56,8 +56,8 @@ const NESTED = {
   properties: [{ pagePropertySlug: "record-property/nested", required: false, many: false }],
 }
 
-function typed(slug: string, properties: readonly Value[], extendsSlug: readonly string[] = []) {
-  return { pageTypeSlug: "page-type", slug, extendsSlug, properties }
+function typed(slug: string, properties: readonly Value[], above: readonly string[] = []) {
+  return { pageTypeSlug: "page-type", slug, extends: above, properties }
 }
 
 const HELD: readonly Value[] = [DEFINITION, STATEMENT, NAME, KIND, INVARIANTS, NESTED]
