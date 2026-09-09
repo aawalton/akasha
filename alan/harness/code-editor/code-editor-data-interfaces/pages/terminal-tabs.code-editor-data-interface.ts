@@ -1,4 +1,4 @@
-import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
+import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.types.ts"
 
 export const terminalTabs = {
   id: "01a07235-8d0b-7801-8413-863a7895f0da",

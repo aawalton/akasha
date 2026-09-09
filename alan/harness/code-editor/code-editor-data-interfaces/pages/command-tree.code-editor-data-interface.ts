@@ -1,4 +1,4 @@
-import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
+import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.types.ts"
 
 export const commandTree = {
   id: "01a07c93-52fe-76f9-9bea-127c9f9d5ad8",

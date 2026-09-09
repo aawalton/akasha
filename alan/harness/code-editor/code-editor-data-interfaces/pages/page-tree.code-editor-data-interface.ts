@@ -1,4 +1,4 @@
-import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
+import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.types.ts"
 
 export const pageTree = {
   id: "01a07235-8d08-79f6-a007-a888a88ea6c6",

@@ -1,14 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { AmbientTypes } from "../../../../code-system/type-declarations/properties/ambient-types.file-property.ts"
-import type { CooldownMilliseconds } from "./properties/cooldown-milliseconds.number-property.ts"
-import type { State } from "./properties/state.file-property.ts"
-
-export type CodeEditorDataInterface = Domain & {
-  cooldownMilliseconds: CooldownMilliseconds
-  d: AmbientTypes
-  state?: State
-}
 
 export const codeEditorDataInterface = {
   id: "01a07235-8d02-729e-880d-47af61f83714",
@@ -82,4 +72,5 @@ export const codeEditorDataInterface = {
       statement: "When the file last changed is the time the file was last written.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
+import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.types.ts"
 
 export const agentTree = {
   id: "01a07235-8d06-77ec-aa88-9d85e01587d8",
