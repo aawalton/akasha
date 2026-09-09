@@ -8,11 +8,10 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
-      statement: "The new system has every check of the old system that still applies.",
+      statement: "The old system has no check of its own.",
       workingMemory:
-        "No cluster-check is left. The last, checksum-annotation-substitution, went rather than ported: workload-deploying already refuses a checksum/* value that is not a 32-to-64 hex digest, before anything is applied, catching all 13 placeholder spellings the tree writes. The old check looked instead for a sed site elsewhere in the same package, and no sed site is left anywhere. 36 orphan modules are left under cluster-checks, their sweep still unanswered.",
+        "What is left of the old system is scaffolding rather than checks: no page of type cluster-check remains. checks/cluster-checks holds the page type, 11 properties nothing outside names, 32 module pages the page type alone names, and 34 code bodies of which 2 are unpaged. One live import leaves the folder: no-unparsed-boundary-read takes CHECK_EXEMPT_DIRS, two strings, from repo-scope. checks/package.json exports three subpaths nobody imports.",
     },
-    { statement: "The old system has no check of its own." },
     { statement: "No finding is filed on checks-system or any part beneath it." },
     { statement: "No gap invariant is written on checks-system or any part beneath it." },
     {
@@ -60,6 +59,7 @@ export const theaChecksSystem = {
       workingMemory:
         "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. supabaseClientEnvDefine still inlines four process.env.NEXT_PUBLIC_* keys no client read uses, and throws unless two are set, so six vite builds require two dead variables. Dropping the Next names is held: seven route files with the build sha and the pmtiles url are claimed by no page.",
     },
+    { statement: "A check looks for unused code and passes." },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
