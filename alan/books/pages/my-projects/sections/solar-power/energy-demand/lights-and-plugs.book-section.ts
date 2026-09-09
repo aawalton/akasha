@@ -9,7 +9,7 @@ export const lightsAndPlugs = {
   sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Lighting, non-gaming plug loads, networking, outdoor lighting, garage, and pool/hot-tub/home-lab flag-loads — annual kWh and what pushes them up or down.",
-  partOfCollections: ["book-section/solar-power/energy-demand"],
+  partOfCollections: ["book-section/solar-power/energy-demand", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

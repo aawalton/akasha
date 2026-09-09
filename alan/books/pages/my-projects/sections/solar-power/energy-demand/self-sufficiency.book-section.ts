@@ -9,7 +9,7 @@ export const selfSufficiency = {
   sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Self-sufficiency analysis — battery autonomy math, winter shortfall problem, generator vs oversize-PV tradeoff, load-shedding hierarchy for the Provo all-electric home.",
-  partOfCollections: ["book-section/solar-power/energy-demand"],
+  partOfCollections: ["book-section/solar-power/energy-demand", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

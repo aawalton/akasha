@@ -9,7 +9,7 @@ export const orientation = {
   sectionOf: "book-section/solar-power/efficiency-factors",
   description:
     "Plane-of-array (POA) irradiance — converting GHI to what actually hits the panel. Tilt, azimuth, and combined derate tables for Provo.",
-  partOfCollections: ["book-section/solar-power/efficiency-factors"],
+  partOfCollections: ["book-section/solar-power/efficiency-factors", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,7 +9,7 @@ export const euCitizenshipItaly = {
   sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Italian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. post-Tajani-decree jure sanguinis state).",
-  partOfCollections: ["book-section/second-passport/eu-citizenship"],
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,7 +9,7 @@ export const hvac = {
   sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Heat pump space heating and cooling demand for a 6000 sq ft Provo home — heat-loss math, COP-vs-outdoor-temp integration, well-insulated vs. existing-house cases.",
-  partOfCollections: ["book-section/solar-power/energy-demand"],
+  partOfCollections: ["book-section/solar-power/energy-demand", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

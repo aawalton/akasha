@@ -9,7 +9,7 @@ export const euCitizenship = {
   sectionOf: "book-section/my-projects/second-passport",
   description:
     "The routes to citizenship of a European Union member country, one section for each country and a summary reading across them all. Each country section says what the routes ask for, how long each route runs, whether the country permits a second citizenship, and where the backlog sits.",
-  partOfCollections: ["book-section/my-projects/second-passport"],
+  partOfCollections: ["book-section/my-projects/second-passport", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

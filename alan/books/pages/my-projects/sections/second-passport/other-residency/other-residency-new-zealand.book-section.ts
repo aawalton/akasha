@@ -8,7 +8,7 @@ export const otherResidencyNewZealand = {
   title: "New Zealand",
   sectionOf: "book-section/second-passport/other-residency",
   description: "New Zealand residency paths (May 2026 snapshot).",
-  partOfCollections: ["book-section/second-passport/other-residency"],
+  partOfCollections: ["book-section/second-passport/other-residency", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

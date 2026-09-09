@@ -9,7 +9,7 @@ export const euCitizenshipEstonia = {
   sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Estonian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (with the birthright-by-blood nuance), and current backlogs per path.",
-  partOfCollections: ["book-section/second-passport/eu-citizenship"],
+  partOfCollections: ["book-section/second-passport/eu-citizenship", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

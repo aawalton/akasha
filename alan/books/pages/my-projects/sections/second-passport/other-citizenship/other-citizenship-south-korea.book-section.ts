@@ -8,7 +8,7 @@ export const otherCitizenshipSouthKorea = {
   title: "South Korea",
   sectionOf: "book-section/second-passport/other-citizenship",
   description: "South Korea citizenship paths (May 2026 snapshot).",
-  partOfCollections: ["book-section/second-passport/other-citizenship"],
+  partOfCollections: ["book-section/second-passport/other-citizenship", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

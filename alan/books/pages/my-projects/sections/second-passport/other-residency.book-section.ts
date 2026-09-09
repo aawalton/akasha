@@ -9,7 +9,7 @@ export const otherResidency = {
   sectionOf: "book-section/my-projects/second-passport",
   description:
     "The routes to residency in a country outside the European Union, one section for each country and a summary reading across them all. Australia carries a folder of its own, its visa streams being numerous enough to want a section each.",
-  partOfCollections: ["book-section/my-projects/second-passport"],
+  partOfCollections: ["book-section/my-projects/second-passport", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

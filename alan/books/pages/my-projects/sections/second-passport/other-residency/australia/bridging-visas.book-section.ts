@@ -9,7 +9,7 @@ export const bridgingVisas = {
   sectionOf: "book-section/other-residency/other-residency-australia",
   description:
     "Australia bridging visas BVA–BVE: status-maintenance visas that hold lawful status while a substantive decision is pending (May 2026 snapshot).",
-  partOfCollections: ["book-section/other-residency/other-residency-australia"],
+  partOfCollections: ["book-section/other-residency/other-residency-australia", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

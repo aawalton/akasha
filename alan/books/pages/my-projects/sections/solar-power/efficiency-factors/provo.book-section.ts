@@ -9,7 +9,7 @@ export const provo = {
   sectionOf: "book-section/solar-power/efficiency-factors",
   description:
     "Provo-specific anchor numbers — best-case specific yield, sensitivity ranges for roof orientation, and the inputs to plug into PVWatts.",
-  partOfCollections: ["book-section/solar-power/efficiency-factors"],
+  partOfCollections: ["book-section/solar-power/efficiency-factors", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

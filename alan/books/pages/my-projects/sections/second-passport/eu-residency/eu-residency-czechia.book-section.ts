@@ -9,7 +9,7 @@ export const euResidencyCzechia = {
   sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Czechia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/czechia.md.",
-  partOfCollections: ["book-section/second-passport/eu-residency"],
+  partOfCollections: ["book-section/second-passport/eu-residency", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

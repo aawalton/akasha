@@ -9,7 +9,7 @@ export const costCurve = {
   sectionOf: "book-section/solar-power/pricing",
   description:
     "Cost-curve history for residential solar — total retail, modules, inverters, batteries, soft costs.",
-  partOfCollections: ["book-section/solar-power/pricing"],
+  partOfCollections: ["book-section/solar-power/pricing", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,7 +9,7 @@ export const otherResidencyAustralia = {
   sectionOf: "book-section/second-passport/other-residency",
   description:
     "Australia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/australia.md.",
-  partOfCollections: ["book-section/second-passport/other-residency"],
+  partOfCollections: ["book-section/second-passport/other-residency", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

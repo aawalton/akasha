@@ -9,7 +9,7 @@ export const customerGeneration = {
   sectionOf: "book-section/my-projects/solar-power",
   description:
     "Provo Power net-metering / customer-generation program — compensation mechanism, system size cap, annual reset, interconnection. Plus federal ITC status check.",
-  partOfCollections: ["book-section/my-projects/solar-power"],
+  partOfCollections: ["book-section/my-projects/solar-power", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

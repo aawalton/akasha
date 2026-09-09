@@ -9,7 +9,7 @@ export const demand = {
   sectionOf: "book-section/solar-power/sizing",
   description:
     "Iteration-2 revised annual demand — flag-loads removed, low-end EV miles applied, home lab folded into the 12 PCs, inference upside flagged.",
-  partOfCollections: ["book-section/solar-power/sizing"],
+  partOfCollections: ["book-section/solar-power/sizing", "my-projects"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection
