@@ -95,7 +95,7 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
     merchant: t.merchant?.name ?? null,
     accountName: maps.accountNames.get(t.account.id) ?? t.account.name,
     account: accountSlug,
-    categorySlug: t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
+    category: t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
     tags: t.tags.flatMap((tag) => {
       const slug = maps.tags.get(tag.id)
       return slug === undefined ? [] : [slug]
@@ -153,15 +153,15 @@ function carried(before: TransactionLine, arriving: TransactionLine): Transactio
   const order = before.amazonOrderNumber
   if (order !== undefined) held.amazonOrderNumber = order
 
-  const was = before.categorySlug
+  const was = before.category
   const source = before.categorySource
   const by = before.categoryDecidedBy
-  const landing = arriving.categorySlug
+  const landing = arriving.category
   const ours = source !== undefined && source !== ARRIVED_FROM_MONARCH
 
   if (landing === was || (ours && landing !== was)) {
-    if (was !== undefined) held.categorySlug = was
-    else delete held.categorySlug
+    if (was !== undefined) held.category = was
+    else delete held.category
     if (source !== undefined) held.categorySource = source
     if (by !== undefined) held.categoryDecidedBy = by
   } else if (landing !== undefined) {
@@ -193,14 +193,14 @@ export function merged(
     if (before === undefined) {
       kept.set(
         id,
-        line.categorySlug === undefined
+        line.category === undefined
           ? line
           : ({ ...line, categorySource: ARRIVED_FROM_MONARCH } as TransactionLine)
       )
       continue
     }
     const after = carried(before, line)
-    if (before.categorySlug !== line.categorySlug && after.categorySlug === before.categorySlug) {
+    if (before.category !== line.category && after.category === before.category) {
       held.push(`${id} (${String(before.categorySource)})`)
     }
     kept.set(id, after)
@@ -218,7 +218,7 @@ const ENTRY_KEYS = [
   "merchant",
   "accountName",
   "account",
-  "categorySlug",
+  "category",
   "statementLine",
   "transactionNote",
   "categorySource",

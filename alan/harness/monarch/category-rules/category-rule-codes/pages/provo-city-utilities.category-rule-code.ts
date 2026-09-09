@@ -9,5 +9,5 @@ export const provoCityUtilities = {
     { key: "merchant", comparison: "is", values: ["provo city utilities"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "utilities",
+  category: "utilities",
 } as const satisfies CategoryRuleCode

@@ -19,7 +19,7 @@ export interface HistoryRow {
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>): HistoryRow {
-  const category = line.categorySlug ?? null
+  const category = line.category ?? null
   return {
     monarchId: line.monarchId,
     date: line.transactionDay,

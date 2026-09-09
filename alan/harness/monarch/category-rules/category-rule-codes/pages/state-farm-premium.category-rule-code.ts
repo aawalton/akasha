@@ -9,5 +9,5 @@ export const stateFarmPremium = {
     { key: "merchant", comparison: "is", values: ["state farm"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "financial",
+  category: "financial",
 } as const satisfies CategoryRuleCode

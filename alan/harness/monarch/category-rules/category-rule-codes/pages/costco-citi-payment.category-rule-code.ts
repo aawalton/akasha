@@ -10,6 +10,6 @@ export const costcoCitiPayment = {
     { key: "account", comparison: "is", values: ["1425"] },
     { key: "sign", comparison: "is", values: ["positive"] },
   ],
-  categorySlug: "transfer",
+  category: "transfer",
   counterpartWithinDays: 7,
 } as const satisfies CategoryRuleCode

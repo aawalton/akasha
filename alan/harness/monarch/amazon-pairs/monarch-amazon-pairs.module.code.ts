@@ -72,14 +72,14 @@ export function divergentPairs(rows: readonly PairRow[]): readonly Divergence[] 
 export async function pairedRows(): Promise<readonly PairRow[]> {
   const titles = await categoryTitles()
   const held: PairRow[] = []
-  for (const line of await readAllTransactions()) {
-    const orderNumber = line.amazonOrderNumber
+  for (const row of await readAllTransactions()) {
+    const orderNumber = row.amazonOrderNumber
     if (orderNumber === undefined || orderNumber === "") continue
-    const slug = line.categorySlug
+    const slug = row.category
     held.push({
-      monarchId: line.monarchId,
-      date: line.transactionDay.slice(0, 10),
-      amountCents: Math.round(line.amount * 100),
+      monarchId: row.monarchId,
+      date: row.transactionDay.slice(0, 10),
+      amountCents: Math.round(row.amount * 100),
       category: slug === undefined ? null : (titles.get(slug) ?? slug),
       orderNumber,
     })

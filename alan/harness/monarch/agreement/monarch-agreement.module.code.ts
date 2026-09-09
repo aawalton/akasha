@@ -47,9 +47,9 @@ async function mirrorCounts(): Promise<{
   const lines = await readAllTransactions()
   return {
     transactions: lines.length,
-    needsReview: lines.filter((line) => line.needsReview === true).length,
-    uncategorized: lines.filter((line) => {
-      const slug = line.categorySlug
+    needsReview: lines.filter((row) => row.needsReview === true).length,
+    uncategorized: lines.filter((row) => {
+      const slug = row.category
       return slug === undefined || slug === uncategorized.slug
     }).length,
   }

@@ -10,6 +10,6 @@ export const royalRoadAlan = {
     { key: "sign", comparison: "is", values: ["negative"] },
     { key: "month", comparison: "is", values: ["july"] },
   ],
-  categorySlug: "alans-spending",
+  category: "alans-spending",
   ruleNote: "Royal Road annual subscription — Alan's",
 } as const satisfies CategoryRuleCode

@@ -41,7 +41,7 @@ function has(text: string, part: string): boolean {
 }
 
 function rowOf(line: TransactionLine, titles: ReadonlyMap<string, string>, from: string): Row {
-  const slug = line.categorySlug
+  const slug = line.category
   return {
     monarchId: line.monarchId,
     date: line.transactionDay,
@@ -87,8 +87,8 @@ export function matches(row: Row, filter: Filter): boolean {
 function ordered(rows: readonly Row[], newestFirst: boolean): readonly Row[] {
   const sign = newestFirst ? -1 : 1
   return [...rows].sort(
-    (one, other) =>
-      sign * (one.date.localeCompare(other.date) || one.monarchId.localeCompare(other.monarchId))
+    (row, other) =>
+      sign * (row.date.localeCompare(other.date) || row.monarchId.localeCompare(other.monarchId))
   )
 }
 
@@ -123,7 +123,7 @@ export function show(row: Row): string {
   )
 }
 
-function print(label: string, rows: readonly Row[], matched: number): void {
+function print(label: string, rows: readonly Row[], matched: number): undefined {
   console.log(`${label} — ${matched} matched, ${rows.length} shown`)
   if (rows.length < matched) {
     console.log("  MORE STAND THAN ARE SHOWN. Narrow the lookup or raise --limit; a count taken")
@@ -178,7 +178,7 @@ async function merchant(text: string, limit: number): Promise<void> {
   console.log(`merchant or statement containing ${JSON.stringify(text)}`)
   console.log("  standing categories, by how many rows carry each:")
   if (tally.size === 0) console.log("    nothing")
-  for (const [key, rows] of [...tally.entries()].sort((one, other) => other[1] - one[1])) {
+  for (const [key, rows] of [...tally.entries()].sort((first, second) => second[1] - first[1])) {
     const [category = "", trusted = "false"] = key.split("\t")
     const mark = trusted === "true" ? "trusted" : "untrusted"
     console.log(`    ${rows} × ${category} (${mark})`)

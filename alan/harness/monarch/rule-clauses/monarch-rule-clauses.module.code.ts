@@ -16,7 +16,7 @@ import {
   MATCH_KEYS,
 } from "../rules/monarch-rules.module.code.ts"
 
-function checkedNote(rule: Rule): void {
+function checkedNote(rule: Rule): undefined {
   if (rule.note === null) return
   if (rule.note.trim() === "") {
     throw new Error(`rule "${rule.name}" carries an empty note, which writes a blank over nothing`)
@@ -65,11 +65,10 @@ export function checkedRule(rule: Rule): Rule {
   return rule
 }
 
-/** What a rule page states, before any of it is weighed. */
 export interface StatedRule {
   readonly name: string
   readonly matches: readonly Match[]
-  readonly categorySlug: string | null
+  readonly category: string | null
   readonly ruleNote: string | null
   readonly counterpartWithinDays: number | null
 }
@@ -105,12 +104,6 @@ function knownComparison(at: string, key: MatchKey, comparison: unknown): MatchC
   return comparison as MatchComparison
 }
 
-/**
- * Read a page's `matches` list into the clauses `clausesMatch` weighs a transaction against.
- *
- * Nothing here skips a clause it does not understand. A clause read by nothing would leave the
- * rule running wider than the page says, which is the failure this refuses to make quietly.
- */
 export function statedMatches(at: string, held: unknown): readonly Match[] {
   if (!Array.isArray(held)) {
     throw new Error(`${at}: \`matches\` is no list, so nothing says what this rule tests`)
@@ -206,12 +199,6 @@ function counterpartOf(at: string, stated: number | null) {
   return { withinDays: stated }
 }
 
-/**
- * Turn what one rule page states into a checked rule.
- *
- * A page naming no category reserves the transaction for a person, which is what the page type's
- * own invariant says a rule naming none does.
- */
 export function ruleFromMatches(at: string, stated: StatedRule, outcome: Outcome): Rule {
   const matches = stated.matches
   if (matches.length === 0) {

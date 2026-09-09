@@ -61,7 +61,7 @@ const SOURCES: readonly DecidedSource[] = [
 
 export async function categorySlugByMonarchId(categoryMonarchId: string): Promise<string> {
   const found = (await categoryPages()).filter(
-    (page) => keyOf(page, "monarchId") === categoryMonarchId
+    (one) => keyOf(one, "monarchId") === categoryMonarchId
   )
   if (found.length !== 1) {
     throw new Error(
@@ -96,12 +96,12 @@ export async function setCategory(
   await postCategory(auth, transactionMonarchId, categoryMonarchId)
   await setTransactionTags(auth, transactionMonarchId, withAiTag(before.tags))
 
-  const patch = { categorySlug, ...recorded }
+  const patch = { category: categorySlug, ...recorded }
   const touched = await patchTransactionLines(
     new Map([[transactionMonarchId, patch]]),
     `monarch: transaction ${transactionMonarchId} categorized as ${categorySlug}`
   )
-  if (touched.length === 0 && placed.line.categorySlug !== categorySlug) {
+  if (touched.length === 0 && placed.line.category !== categorySlug) {
     throw new Error(
       `Monarch took the category for transaction ${transactionMonarchId} and no month file ` +
         "moved, so the two now disagree until the next sync"

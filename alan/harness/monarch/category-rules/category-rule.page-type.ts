@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { CategorySlug } from "../monarch-months/properties/category-slug.relation-property.ts"
+import type { Category } from "../monarch-months/properties/category.relation-property.ts"
 import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"
 import type { Matches } from "./properties/matches.record-property.ts"
 import type { RuleNote } from "./properties/rule-note.text-property.ts"
@@ -9,7 +9,7 @@ import type { RuleNote } from "./properties/rule-note.text-property.ts"
 export type CategoryRule = Page & {
   title: Title
   matches: Matches
-  categorySlug?: CategorySlug
+  category?: Category
   ruleNote?: RuleNote
   counterpartWithinDays?: CounterpartWithinDays
 }
@@ -24,7 +24,7 @@ export const categoryRule = {
   partSlugs: [
     "number-property/counterpart-within-days",
     "record-property/matches",
-    "relation-property/category-slug",
+    "relation-property/category",
     "select-property/match-comparison",
     "select-property/match-key",
     "text-property/match-values",
@@ -33,7 +33,7 @@ export const categoryRule = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "record-property/matches", required: true, many: true, maxCount: 10 },
-    { pagePropertySlug: "relation-property/category-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/category", required: false, many: false },
     { pagePropertySlug: "text-property/rule-note", required: false, many: false },
     { pagePropertySlug: "number-property/counterpart-within-days", required: false, many: false },
   ],

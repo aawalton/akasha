@@ -9,5 +9,5 @@ export const edgemontAutoService = {
     { key: "merchant", comparison: "is", values: ["edgemont auto"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "transportation",
+  category: "transportation",
 } as const satisfies CategoryRuleCode

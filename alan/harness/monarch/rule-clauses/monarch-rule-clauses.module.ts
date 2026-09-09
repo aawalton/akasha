@@ -52,5 +52,9 @@ export const monarchRuleClauses = {
       invariantKind: "departure",
       statement: "A pairing window that is not a whole count of days is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A stated rule is what a rule page says before any of that is weighed.",
+    },
   ],
 } as const satisfies Module

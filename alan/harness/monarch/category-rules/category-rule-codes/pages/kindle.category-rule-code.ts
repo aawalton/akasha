@@ -9,6 +9,6 @@ export const kindle = {
     { key: "merchant", comparison: "is", values: ["digital purchase"] },
     { key: "amount", comparison: "is", values: ["-12.88"] },
   ],
-  categorySlug: "shopping",
+  category: "shopping",
   ruleNote: "Kindle subscription",
 } as const satisfies CategoryRuleCode

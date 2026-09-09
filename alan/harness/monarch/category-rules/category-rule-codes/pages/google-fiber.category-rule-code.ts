@@ -9,5 +9,5 @@ export const googleFiber = {
     { key: "merchant", comparison: "is", values: ["google fiber"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "utilities",
+  category: "utilities",
 } as const satisfies CategoryRuleCode

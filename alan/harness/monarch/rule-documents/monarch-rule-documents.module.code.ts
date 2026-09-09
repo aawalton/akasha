@@ -100,7 +100,7 @@ function rulePages(): readonly RulePage[] {
 }
 
 function outcomeOf(page: RulePage, categories: ReadonlyMap<string, string>): Outcome {
-  const slug = textOf(page, "categorySlug")
+  const slug = textOf(page, "category")
   if (slug === null) return { kind: "reserve" }
   if (!categories.has(slug)) {
     throw new Error(
@@ -147,7 +147,7 @@ export async function loadCategoryRules(): Promise<RuleSet> {
         {
           name: page.slug,
           matches,
-          categorySlug: textOf(page, "categorySlug"),
+          category: textOf(page, "category"),
           ruleNote: textOf(page, "ruleNote"),
           counterpartWithinDays: countOf(page, "counterpartWithinDays"),
         },

@@ -9,6 +9,6 @@ export const ninthEastDental = {
     { key: "merchant", comparison: "is", values: ["ninth east dental"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "medical",
+  category: "medical",
   ruleNote: "Ninth East Dental",
 } as const satisfies CategoryRuleCode

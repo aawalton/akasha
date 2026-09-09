@@ -10,5 +10,5 @@ export const crunchyroll = {
     { key: "sign", comparison: "is", values: ["negative"] },
     { key: "date", comparison: "on-or-after", values: ["2026-08-08"] },
   ],
-  categorySlug: "shopping",
+  category: "shopping",
 } as const satisfies CategoryRuleCode

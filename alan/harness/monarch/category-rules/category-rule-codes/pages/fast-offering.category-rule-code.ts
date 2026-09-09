@@ -9,5 +9,5 @@ export const fastOffering = {
     { key: "merchant", comparison: "is", values: ["fast offering"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "fast-offering",
+  category: "fast-offering",
 } as const satisfies CategoryRuleCode

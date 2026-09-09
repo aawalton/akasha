@@ -10,5 +10,5 @@ export const spotify = {
     { key: "sign", comparison: "is", values: ["negative"] },
     { key: "date", comparison: "on-or-after", values: ["2025-08-08"] },
   ],
-  categorySlug: "alans-spending",
+  category: "alans-spending",
 } as const satisfies CategoryRuleCode

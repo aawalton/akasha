@@ -40,7 +40,7 @@ export async function audibleCharges(): Promise<readonly Charge[]> {
     if ((line.merchant ?? "") === MERCHANT) continue
     if (!names(line.merchant) && !names(line.statementLine) && !names(line.transactionNote))
       continue
-    const slug = line.categorySlug
+    const slug = line.category
     held.push({
       monarchId: line.monarchId,
       date: line.transactionDay,

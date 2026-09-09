@@ -9,6 +9,6 @@ export const grandviewFamilyMedicine = {
     { key: "merchant", comparison: "is", values: ["grandview family medicine"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "medical",
+  category: "medical",
   ruleNote: "Grandview Family Medicine",
 } as const satisfies CategoryRuleCode

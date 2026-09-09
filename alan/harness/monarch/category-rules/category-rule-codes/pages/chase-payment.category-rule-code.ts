@@ -10,6 +10,6 @@ export const chasePayment = {
     { key: "account", comparison: "is", values: ["7882"] },
     { key: "sign", comparison: "is", values: ["positive"] },
   ],
-  categorySlug: "transfer",
+  category: "transfer",
   counterpartWithinDays: 7,
 } as const satisfies CategoryRuleCode

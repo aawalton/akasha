@@ -16,7 +16,7 @@ export const transactions = {
     { pagePropertySlug: "text-property/merchant", required: true, many: false },
     { pagePropertySlug: "text-property/account-name", required: true, many: false },
     { pagePropertySlug: "relation-property/account", required: true, many: false },
-    { pagePropertySlug: "relation-property/category-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/category", required: true, many: false },
     { pagePropertySlug: "text-property/statement-line", required: false, many: false },
     { pagePropertySlug: "text-property/transaction-note", required: false, many: false },
     { pagePropertySlug: "select-property/category-source", required: false, many: false },

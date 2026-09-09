@@ -10,5 +10,5 @@ export const momsFixedExpenses = {
     { key: "account", comparison: "is", values: ["Personal Profile"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "ann-rent-assistance",
+  category: "ann-rent-assistance",
 } as const satisfies CategoryRuleCode

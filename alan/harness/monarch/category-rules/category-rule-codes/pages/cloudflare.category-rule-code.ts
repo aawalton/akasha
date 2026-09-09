@@ -9,5 +9,5 @@ export const cloudflare = {
     { key: "merchant", comparison: "is", values: ["cloudflare"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "alans-spending",
+  category: "alans-spending",
 } as const satisfies CategoryRuleCode

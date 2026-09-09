@@ -9,6 +9,6 @@ export const amazonMusic = {
     { key: "merchant", comparison: "is", values: ["digital purchase"] },
     { key: "amount", comparison: "is", values: ["-18.26"] },
   ],
-  categorySlug: "shopping",
+  category: "shopping",
   ruleNote: "Amazon Music subscription",
 } as const satisfies CategoryRuleCode

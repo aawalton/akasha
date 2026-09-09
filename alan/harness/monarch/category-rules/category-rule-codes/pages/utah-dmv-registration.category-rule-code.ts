@@ -9,5 +9,5 @@ export const utahDmvRegistration = {
     { key: "merchant", comparison: "is", values: ["utah dmv"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "transportation",
+  category: "transportation",
 } as const satisfies CategoryRuleCode

@@ -9,5 +9,5 @@ export const intermountainHealthcare = {
     { key: "merchant", comparison: "is", values: ["intermountain"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "medical",
+  category: "medical",
 } as const satisfies CategoryRuleCode

@@ -9,5 +9,5 @@ export const midlandNationalPremium = {
     { key: "merchant", comparison: "is", values: ["midland national"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  categorySlug: "financial",
+  category: "financial",
 } as const satisfies CategoryRuleCode
