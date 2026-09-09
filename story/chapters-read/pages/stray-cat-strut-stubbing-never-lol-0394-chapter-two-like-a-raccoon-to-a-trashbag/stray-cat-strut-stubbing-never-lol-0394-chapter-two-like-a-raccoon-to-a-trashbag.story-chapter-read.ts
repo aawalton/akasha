@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0394ChapterTwoLikeARaccoonToATrashbag 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0394-chapter-two-like-a-raccoon-to-a-trashbag",
   title: "Chapter Two - Like a Raccoon to a Trashbag",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 394,
   ownLength: 1580,
   unitSlug: "words",

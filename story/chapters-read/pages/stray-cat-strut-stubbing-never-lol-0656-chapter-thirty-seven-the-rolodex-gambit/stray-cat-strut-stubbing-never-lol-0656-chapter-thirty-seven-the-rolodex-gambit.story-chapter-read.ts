@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0656ChapterThirtySevenTheRolodexGambit
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0656-chapter-thirty-seven-the-rolodex-gambit",
   title: "Chapter Thirty-Seven - The Rolodex Gambit",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 656,
   ownLength: 1494,
   unitSlug: "words",

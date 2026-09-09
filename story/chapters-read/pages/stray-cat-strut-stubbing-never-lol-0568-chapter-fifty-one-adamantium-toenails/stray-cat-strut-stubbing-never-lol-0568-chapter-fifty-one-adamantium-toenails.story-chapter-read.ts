@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0568ChapterFiftyOneAdamantiumToenails 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0568-chapter-fifty-one-adamantium-toenails",
   title: "Chapter Fifty-One - Adamantium Toenails",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 568,
   ownLength: 1470,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0658ChapterThirtyNineTrashPandaWoes = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0658-chapter-thirty-nine-trash-panda-woes",
   title: "Chapter Thirty-Nine - Trash Panda Woes",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 658,
   ownLength: 1439,
   unitSlug: "words",

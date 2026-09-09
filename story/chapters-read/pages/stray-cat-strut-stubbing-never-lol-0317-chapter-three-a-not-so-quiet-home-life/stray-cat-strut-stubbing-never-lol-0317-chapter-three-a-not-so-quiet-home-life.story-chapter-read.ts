@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0317ChapterThreeANotSoQuietHomeLife = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0317-chapter-three-a-not-so-quiet-home-life",
   title: "Chapter Three - A Not So Quiet Home Life",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 317,
   ownLength: 1496,
   unitSlug: "words",

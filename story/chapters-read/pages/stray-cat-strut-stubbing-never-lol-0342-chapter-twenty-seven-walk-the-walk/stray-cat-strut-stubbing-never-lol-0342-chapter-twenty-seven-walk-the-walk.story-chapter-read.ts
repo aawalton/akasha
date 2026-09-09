@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0342ChapterTwentySevenWalkTheWalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0342-chapter-twenty-seven-walk-the-walk",
   title: "Chapter Twenty-Seven - Walk the Walk",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 342,
   ownLength: 1475,
   unitSlug: "words",

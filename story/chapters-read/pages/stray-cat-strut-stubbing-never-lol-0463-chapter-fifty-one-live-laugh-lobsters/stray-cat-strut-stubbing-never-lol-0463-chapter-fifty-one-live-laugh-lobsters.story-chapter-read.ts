@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0463ChapterFiftyOneLiveLaughLobsters =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0463-chapter-fifty-one-live-laugh-lobsters",
   title: "Chapter Fifty-One - Live Laugh Lobsters",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 463,
   ownLength: 1470,
   unitSlug: "words",

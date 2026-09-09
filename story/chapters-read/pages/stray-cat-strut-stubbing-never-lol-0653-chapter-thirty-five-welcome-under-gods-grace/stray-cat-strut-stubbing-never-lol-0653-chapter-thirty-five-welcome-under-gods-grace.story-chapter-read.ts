@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0653ChapterThirtyFiveWelcomeUnderGodsG
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0653-chapter-thirty-five-welcome-under-gods-grace",
   title: "Chapter Thirty-Five - Welcome Under God's Grace",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 653,
   ownLength: 1548,
   unitSlug: "words",

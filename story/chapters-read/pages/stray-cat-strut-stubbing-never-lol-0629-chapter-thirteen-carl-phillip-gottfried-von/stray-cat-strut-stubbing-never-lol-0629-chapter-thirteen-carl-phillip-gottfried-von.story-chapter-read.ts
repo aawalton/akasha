@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0629ChapterThirteenCarlPhillipGottfrie
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0629-chapter-thirteen-carl-phillip-gottfried-von",
   title: "Chapter Thirteen - Carl Phillip Gottfried von Clauswitz",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 629,
   ownLength: 1502,
   unitSlug: "words",

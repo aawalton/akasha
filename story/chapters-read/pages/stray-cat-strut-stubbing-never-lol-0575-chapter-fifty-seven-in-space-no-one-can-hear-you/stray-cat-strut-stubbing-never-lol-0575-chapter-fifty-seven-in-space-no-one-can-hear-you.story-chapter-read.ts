@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0575ChapterFiftySevenInSpaceNoOneCanHe
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0575-chapter-fifty-seven-in-space-no-one-can-hear-you",
   title: "Chapter Fifty-Seven - In Space No One Can Hear You Buzz",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 575,
   ownLength: 1445,
   unitSlug: "words",

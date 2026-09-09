@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0638ChapterTwoWeeksBattleRoyaleIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0638-chapter-two-weeks-battle-royale-ii",
   title: "Chapter ??? - Two Weeks Battle Royale II",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 638,
   ownLength: 979,
   unitSlug: "words",

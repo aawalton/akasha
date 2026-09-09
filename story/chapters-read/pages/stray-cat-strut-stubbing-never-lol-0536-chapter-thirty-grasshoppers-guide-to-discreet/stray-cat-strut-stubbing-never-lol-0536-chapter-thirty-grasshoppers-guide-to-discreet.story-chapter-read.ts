@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0536ChapterThirtyGrasshoppersGuideToDi
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0536-chapter-thirty-grasshoppers-guide-to-discreet",
   title: "Chapter Thirty - Grasshopper's Guide to Discreet Destruction",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 536,
   ownLength: 1492,
   unitSlug: "words",

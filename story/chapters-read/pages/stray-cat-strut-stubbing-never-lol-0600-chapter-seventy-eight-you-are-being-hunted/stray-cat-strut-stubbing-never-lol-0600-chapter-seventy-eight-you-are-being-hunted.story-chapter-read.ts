@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0600ChapterSeventyEightYouAreBeingHunt
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0600-chapter-seventy-eight-you-are-being-hunted",
   title: "Chapter Seventy-Eight - You Are Being Hunted",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 600,
   ownLength: 1460,
   unitSlug: "words",

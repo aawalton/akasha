@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0598ChapterSeventySixAGiggleAndARocket
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0598-chapter-seventy-six-a-giggle-and-a-rocket",
   title: "Chapter Seventy-Six - A Giggle and a Rocket",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 598,
   ownLength: 1548,
   unitSlug: "words",

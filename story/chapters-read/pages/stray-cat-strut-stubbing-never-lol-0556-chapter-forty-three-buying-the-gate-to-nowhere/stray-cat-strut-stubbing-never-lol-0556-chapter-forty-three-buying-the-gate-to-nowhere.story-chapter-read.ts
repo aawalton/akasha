@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0556ChapterFortyThreeBuyingTheGateToNo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0556-chapter-forty-three-buying-the-gate-to-nowhere",
   title: "Chapter Forty-Three - Buying the Gate to Nowhere",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 556,
   ownLength: 1433,
   unitSlug: "words",

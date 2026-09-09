@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0641ChapterTwentyFourInTheNameOfTheMoo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0641-chapter-twenty-four-in-the-name-of-the-moon",
   title: "Chapter Twenty-Four - In the Name of the Moon!",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 641,
   ownLength: 1500,
   unitSlug: "words",

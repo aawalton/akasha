@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0506ChapterNineGottaKillEmAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0506-chapter-nine-gotta-kill-em-all",
   title: "Chapter Nine - Gotta Kill 'Em All",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 506,
   ownLength: 1534,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0630ChapterFourteenUnexpectedFallout =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0630-chapter-fourteen-unexpected-fallout",
   title: "Chapter Fourteen - Unexpected Fallout",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 630,
   ownLength: 1591,
   unitSlug: "words",

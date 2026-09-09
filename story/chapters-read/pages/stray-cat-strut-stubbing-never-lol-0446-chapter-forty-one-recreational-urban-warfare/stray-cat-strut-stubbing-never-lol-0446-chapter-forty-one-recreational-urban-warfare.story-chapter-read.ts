@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0446ChapterFortyOneRecreationalUrbanWa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0446-chapter-forty-one-recreational-urban-warfare",
   title: "Chapter Forty-One - Recreational Urban Warfare",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 446,
   ownLength: 1468,
   unitSlug: "words",

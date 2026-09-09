@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0416ChapterTwentyTwoDressForStress = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0416-chapter-twenty-two-dress-for-stress",
   title: "Chapter Twenty-Two - Dress for Stress",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 416,
   ownLength: 1514,
   unitSlug: "words",

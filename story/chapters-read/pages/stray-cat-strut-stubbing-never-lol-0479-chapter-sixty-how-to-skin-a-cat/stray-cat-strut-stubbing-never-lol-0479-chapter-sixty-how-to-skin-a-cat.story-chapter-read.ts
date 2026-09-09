@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0479ChapterSixtyHowToSkinACat = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0479-chapter-sixty-how-to-skin-a-cat",
   title: "Chapter Sixty - How To Skin A Cat",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 479,
   ownLength: 1479,
   unitSlug: "words",

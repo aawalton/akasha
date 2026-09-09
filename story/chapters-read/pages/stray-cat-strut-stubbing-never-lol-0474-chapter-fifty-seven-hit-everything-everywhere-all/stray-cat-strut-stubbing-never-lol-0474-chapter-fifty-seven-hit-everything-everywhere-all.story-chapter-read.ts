@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0474ChapterFiftySevenHitEverythingEver
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0474-chapter-fifty-seven-hit-everything-everywhere-all",
   title: "Chapter Fifty-Seven - Hit Everything, Everywhere, All At Once",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 474,
   ownLength: 1452,
   unitSlug: "words",

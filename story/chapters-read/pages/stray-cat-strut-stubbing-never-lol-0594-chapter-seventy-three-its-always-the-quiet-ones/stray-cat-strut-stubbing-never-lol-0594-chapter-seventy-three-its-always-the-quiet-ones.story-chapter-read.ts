@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0594ChapterSeventyThreeItsAlwaysTheQui
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0594-chapter-seventy-three-its-always-the-quiet-ones",
   title: "Chapter Seventy-Three - It's Always The Quiet Ones",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 594,
   ownLength: 1492,
   unitSlug: "words",

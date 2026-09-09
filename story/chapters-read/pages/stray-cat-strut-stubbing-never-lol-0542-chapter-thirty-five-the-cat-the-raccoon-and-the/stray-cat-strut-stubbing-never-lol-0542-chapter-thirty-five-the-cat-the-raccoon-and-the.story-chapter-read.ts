@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0542ChapterThirtyFiveTheCatTheRaccoonA
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0542-chapter-thirty-five-the-cat-the-raccoon-and-the",
   title: "Chapter Thirty-Five - The Cat, the Raccoon, and the Cowboy",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 542,
   ownLength: 1402,
   unitSlug: "words",

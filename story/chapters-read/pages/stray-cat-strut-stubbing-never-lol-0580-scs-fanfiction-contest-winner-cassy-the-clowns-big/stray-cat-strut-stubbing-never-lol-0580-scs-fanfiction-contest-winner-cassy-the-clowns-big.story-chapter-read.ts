@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0580ScsFanfictionContestWinnerCassyThe
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0580-scs-fanfiction-contest-winner-cassy-the-clowns-big",
   title: "SCS Fanfiction Contest Winner: Cassy the Clowns Big Top Bonanza, by FullAutoAlice",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 580,
   ownLength: 1752,
   unitSlug: "words",

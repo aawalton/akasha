@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0601ChapterSeventyNineMoreThanTheMachi
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0601-chapter-seventy-nine-more-than-the-machine",
   title: "Chapter Seventy-Nine - More Than the Machine",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 601,
   ownLength: 1797,
   unitSlug: "words",

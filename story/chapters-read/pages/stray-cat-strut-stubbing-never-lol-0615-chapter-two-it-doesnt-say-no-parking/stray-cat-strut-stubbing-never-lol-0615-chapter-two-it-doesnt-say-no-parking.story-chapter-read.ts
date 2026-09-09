@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0615ChapterTwoItDoesntSayNoParking = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0615-chapter-two-it-doesnt-say-no-parking",
   title: "Chapter Two - It Doesn't Say No Parking",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 615,
   ownLength: 1520,
   unitSlug: "words",

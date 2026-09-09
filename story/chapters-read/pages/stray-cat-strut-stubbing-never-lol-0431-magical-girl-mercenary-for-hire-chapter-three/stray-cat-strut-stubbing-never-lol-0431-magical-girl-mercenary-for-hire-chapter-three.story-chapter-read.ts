@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0431MagicalGirlMercenaryForHireChapter
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0431-magical-girl-mercenary-for-hire-chapter-three",
   title: "Magical Girl Mercenary for Hire - Chapter Three",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 431,
   ownLength: 1432,
   unitSlug: "words",

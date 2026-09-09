@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0625ChapterNineSweetSchemesAreMadeOfTh
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0625-chapter-nine-sweet-schemes-are-made-of-this",
   title: "Chapter Nine - Sweet Schemes Are Made of This",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 625,
   ownLength: 1451,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0450SomnusDeusExChapterTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0450-somnus-deus-ex-chapter-two",
   title: "Somnus Deus Ex - Chapter Two",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 450,
   ownLength: 1486,
   unitSlug: "words",

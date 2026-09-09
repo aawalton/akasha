@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0471ChapterFiftyFiveIMeantToDoThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0471-chapter-fifty-five-i-meant-to-do-that",
   title: "Chapter Fifty-Five - I Meant To Do That",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 471,
   ownLength: 1437,
   unitSlug: "words",

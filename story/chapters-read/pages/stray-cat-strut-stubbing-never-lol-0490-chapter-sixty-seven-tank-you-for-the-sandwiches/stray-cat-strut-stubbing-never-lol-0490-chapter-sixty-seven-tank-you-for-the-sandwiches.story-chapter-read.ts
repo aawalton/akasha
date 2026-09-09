@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0490ChapterSixtySevenTankYouForTheSand
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0490-chapter-sixty-seven-tank-you-for-the-sandwiches",
   title: "Chapter Sixty-Seven - Tank You (For The Sandwiches)",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 490,
   ownLength: 1561,
   unitSlug: "words",

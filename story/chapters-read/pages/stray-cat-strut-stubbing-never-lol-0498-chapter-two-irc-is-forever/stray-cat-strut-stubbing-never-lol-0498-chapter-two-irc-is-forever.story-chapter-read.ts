@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0498ChapterTwoIrcIsForever = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0498-chapter-two-irc-is-forever",
   title: "Chapter Two - IRC Is Forever",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 498,
   ownLength: 1493,
   unitSlug: "words",

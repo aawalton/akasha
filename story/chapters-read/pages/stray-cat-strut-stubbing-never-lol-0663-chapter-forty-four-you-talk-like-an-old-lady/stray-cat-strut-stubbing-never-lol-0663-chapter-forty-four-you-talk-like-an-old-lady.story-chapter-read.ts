@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0663ChapterFortyFourYouTalkLikeAnOldLa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0663-chapter-forty-four-you-talk-like-an-old-lady",
   title: "Chapter Forty-Four - You Talk Like an Old Lady",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 663,
   ownLength: 1538,
   unitSlug: "words",

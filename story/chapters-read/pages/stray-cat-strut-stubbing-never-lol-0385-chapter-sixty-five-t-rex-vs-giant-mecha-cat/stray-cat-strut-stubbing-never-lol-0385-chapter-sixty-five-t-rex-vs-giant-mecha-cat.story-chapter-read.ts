@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0385ChapterSixtyFiveTRexVsGiantMechaCa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0385-chapter-sixty-five-t-rex-vs-giant-mecha-cat",
   title: "Chapter Sixty-Five - T-Rex Vs Giant Mecha Cat",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 385,
   ownLength: 1473,
   unitSlug: "words",

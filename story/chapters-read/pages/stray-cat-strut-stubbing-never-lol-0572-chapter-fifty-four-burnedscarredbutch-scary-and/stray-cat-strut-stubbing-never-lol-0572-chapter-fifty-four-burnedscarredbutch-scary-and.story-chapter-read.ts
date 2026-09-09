@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0572ChapterFiftyFourBurnedscarredbutch
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0572-chapter-fifty-four-burnedscarredbutch-scary-and",
   title: "Chapter Fifty-Four - Burned/Scarred/Butch, Scary, and Notorious",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 572,
   ownLength: 1542,
   unitSlug: "words",

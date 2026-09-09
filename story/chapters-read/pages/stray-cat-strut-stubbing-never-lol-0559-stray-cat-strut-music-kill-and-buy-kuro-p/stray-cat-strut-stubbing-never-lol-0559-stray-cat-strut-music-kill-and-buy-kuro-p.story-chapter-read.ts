@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0559StrayCatStrutMusicKillAndBuyKuroP 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0559-stray-cat-strut-music-kill-and-buy-kuro-p",
   title: "Stray Cat Strut Music! - Kill and Buy [Kuro-P]",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 559,
   ownLength: 52,
   unitSlug: "words",

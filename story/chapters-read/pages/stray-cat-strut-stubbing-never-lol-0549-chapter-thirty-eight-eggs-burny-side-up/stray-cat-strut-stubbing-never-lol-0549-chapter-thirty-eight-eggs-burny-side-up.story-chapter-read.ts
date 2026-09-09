@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0549ChapterThirtyEightEggsBurnySideUp 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0549-chapter-thirty-eight-eggs-burny-side-up",
   title: "Chapter Thirty-Eight - Eggs Burny Side Up",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 549,
   ownLength: 1531,
   unitSlug: "words",

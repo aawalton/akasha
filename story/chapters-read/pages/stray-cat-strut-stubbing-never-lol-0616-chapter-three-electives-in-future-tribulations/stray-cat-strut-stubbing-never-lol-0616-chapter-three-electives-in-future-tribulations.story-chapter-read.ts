@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0616ChapterThreeElectivesInFutureTribu
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0616-chapter-three-electives-in-future-tribulations",
   title: "Chapter Three - Electives in Future Tribulations",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 616,
   ownLength: 1478,
   unitSlug: "words",

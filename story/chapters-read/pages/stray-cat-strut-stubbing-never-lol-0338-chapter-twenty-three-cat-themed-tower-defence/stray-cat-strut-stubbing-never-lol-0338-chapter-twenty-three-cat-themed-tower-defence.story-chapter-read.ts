@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0338ChapterTwentyThreeCatThemedTowerDe
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0338-chapter-twenty-three-cat-themed-tower-defence",
   title: "Chapter Twenty-Three - Cat Themed Tower Defence",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 338,
   ownLength: 1478,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0538ChapterThirtyTwoThisOneTimeInBible
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0538-chapter-thirty-two-this-one-time-in-bible-club",
   title: "Chapter Thirty-Two - This One Time, In Bible Club",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 538,
   ownLength: 1463,
   unitSlug: "words",

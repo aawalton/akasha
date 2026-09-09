@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0576ChapterFiftyEightKnightTakesMoon =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0576-chapter-fifty-eight-knight-takes-moon",
   title: "Chapter Fifty-Eight - Knight Takes Moon",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 576,
   ownLength: 1454,
   unitSlug: "words",

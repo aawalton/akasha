@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0508ChapterTenRainbowsOfDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0508-chapter-ten-rainbows-of-death",
   title: "Chapter Ten - Rainbows of Death",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 508,
   ownLength: 1487,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0365ChapterFortyEightATimeForExplanati
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0365-chapter-forty-eight-a-time-for-explanations",
   title: "Chapter Forty-Eight - A Time for Explanations",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 365,
   ownLength: 1590,
   unitSlug: "words",

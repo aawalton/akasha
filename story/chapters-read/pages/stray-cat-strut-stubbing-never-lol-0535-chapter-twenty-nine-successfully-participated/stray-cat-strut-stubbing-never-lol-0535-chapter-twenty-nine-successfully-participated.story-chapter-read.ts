@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0535ChapterTwentyNineSuccessfullyParti
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0535-chapter-twenty-nine-successfully-participated",
   title: "Chapter Twenty-Nine - Successfully Participated",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 535,
   ownLength: 1442,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0582InterludeStayAtHomePrManagergf = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0582-interlude-stay-at-home-pr-managergf",
   title: "Interlude - Stay At Home PR Manager/GF",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 582,
   ownLength: 1448,
   unitSlug: "words",

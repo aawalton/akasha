@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0424ChapterTwentyNineUnConventIonalInt
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0424-chapter-twenty-nine-un-convent-ional-interior",
   title: "Chapter Twenty-Nine - Un-convent-ional Interior Design",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 424,
   ownLength: 1526,
   unitSlug: "words",

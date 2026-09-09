@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0442ChapterThirtyEightBooBoosAndBodyBa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0442-chapter-thirty-eight-boo-boos-and-body-bags",
   title: "Chapter Thirty-Eight - Boo-Boos and Body Bags",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 442,
   ownLength: 1543,
   unitSlug: "words",

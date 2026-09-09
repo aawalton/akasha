@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0586ChapterSixtySixPointsArePreciousBu
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0586-chapter-sixty-six-points-are-precious-but",
   title: "Chapter Sixty-Six - Points Are Precious, But Explosions Are Priceless",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 586,
   ownLength: 1610,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0588ChapterSixtySevenTheQuicheOfCommit
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0588-chapter-sixty-seven-the-quiche-of-commitment",
   title: "Chapter Sixty-Seven - The Quiche of Commitment",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 588,
   ownLength: 1769,
   unitSlug: "words",

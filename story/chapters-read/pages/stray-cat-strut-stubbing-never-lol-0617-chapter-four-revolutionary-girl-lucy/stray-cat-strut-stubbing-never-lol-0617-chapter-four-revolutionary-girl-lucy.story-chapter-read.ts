@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0617ChapterFourRevolutionaryGirlLucy =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0617-chapter-four-revolutionary-girl-lucy",
   title: "Chapter Four - Revolutionary Girl Lucy",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 617,
   ownLength: 1547,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0637ChapterTwentyOneBabysittingTheNuke
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0637-chapter-twenty-one-babysitting-the-nukes",
   title: "Chapter Twenty-One - Babysitting the Nukes",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 637,
   ownLength: 1507,
   unitSlug: "words",

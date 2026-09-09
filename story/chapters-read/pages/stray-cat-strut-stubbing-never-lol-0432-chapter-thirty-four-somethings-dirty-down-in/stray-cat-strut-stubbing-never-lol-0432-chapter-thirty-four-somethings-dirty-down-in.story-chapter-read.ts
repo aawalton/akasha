@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0432ChapterThirtyFourSomethingsDirtyDo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0432-chapter-thirty-four-somethings-dirty-down-in",
   title: "Chapter Thirty-Four - Something's Dirty Down In CleanTown",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 432,
   ownLength: 1527,
   unitSlug: "words",

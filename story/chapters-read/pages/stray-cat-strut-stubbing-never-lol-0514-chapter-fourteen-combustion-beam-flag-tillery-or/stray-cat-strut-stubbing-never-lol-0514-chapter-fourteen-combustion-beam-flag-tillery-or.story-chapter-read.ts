@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0514ChapterFourteenCombustionBeamFlagT
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0514-chapter-fourteen-combustion-beam-flag-tillery-or",
   title: "Chapter Fourteen - Combustion Beam Flag-tillery OR; Flying Disco Balls of Death",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 514,
   ownLength: 1491,
   unitSlug: "words",

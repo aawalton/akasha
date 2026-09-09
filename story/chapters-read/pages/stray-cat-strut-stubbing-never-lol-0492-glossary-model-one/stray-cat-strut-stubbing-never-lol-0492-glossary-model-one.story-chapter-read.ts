@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0492GlossaryModelOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0492-glossary-model-one",
   title: "Glossary: Model One​",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 492,
   ownLength: 1202,
   unitSlug: "words",

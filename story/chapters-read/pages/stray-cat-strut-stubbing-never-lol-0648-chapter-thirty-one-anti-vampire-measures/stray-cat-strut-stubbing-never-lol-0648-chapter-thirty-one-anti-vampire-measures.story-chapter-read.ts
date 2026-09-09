@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0648ChapterThirtyOneAntiVampireMeasure
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0648-chapter-thirty-one-anti-vampire-measures",
   title: "Chapter Thirty-One - Anti-Vampire Measures",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 648,
   ownLength: 1527,
   unitSlug: "words",

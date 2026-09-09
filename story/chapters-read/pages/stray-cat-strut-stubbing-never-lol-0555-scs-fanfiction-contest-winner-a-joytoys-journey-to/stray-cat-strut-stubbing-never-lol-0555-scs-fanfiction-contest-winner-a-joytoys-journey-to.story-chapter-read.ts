@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0555ScsFanfictionContestWinnerAJoytoys
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0555-scs-fanfiction-contest-winner-a-joytoys-journey-to",
   title: "SCS Fanfiction Contest Winner: A Joytoy's Journey to become a Hive-Queen By PhyonesArc!",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 555,
   ownLength: 7050,
   unitSlug: "words",

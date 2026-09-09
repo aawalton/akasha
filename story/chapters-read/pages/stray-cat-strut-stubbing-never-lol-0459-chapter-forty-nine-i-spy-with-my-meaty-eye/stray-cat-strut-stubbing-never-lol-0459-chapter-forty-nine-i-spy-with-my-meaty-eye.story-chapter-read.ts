@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0459ChapterFortyNineISpyWithMyMeatyEye
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0459-chapter-forty-nine-i-spy-with-my-meaty-eye",
   title: "Chapter Forty-Nine - I Spy with my Meaty Eye",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 459,
   ownLength: 1487,
   unitSlug: "words",

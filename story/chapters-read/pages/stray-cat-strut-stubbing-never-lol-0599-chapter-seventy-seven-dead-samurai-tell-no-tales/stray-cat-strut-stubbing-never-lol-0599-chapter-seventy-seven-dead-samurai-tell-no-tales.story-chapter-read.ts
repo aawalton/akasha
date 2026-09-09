@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0599ChapterSeventySevenDeadSamuraiTell
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0599-chapter-seventy-seven-dead-samurai-tell-no-tales",
   title: "Chapter Seventy-Seven - Dead Samurai Tell No Tales",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 599,
   ownLength: 1484,
   unitSlug: "words",

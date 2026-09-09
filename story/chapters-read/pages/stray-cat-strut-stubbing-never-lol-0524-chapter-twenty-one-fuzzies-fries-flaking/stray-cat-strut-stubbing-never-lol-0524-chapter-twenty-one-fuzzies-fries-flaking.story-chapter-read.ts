@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0524ChapterTwentyOneFuzziesFriesFlakin
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0524-chapter-twenty-one-fuzzies-fries-flaking",
   title: "Chapter Twenty-One - Fuzzies, Fries, Flaking",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 524,
   ownLength: 1447,
   unitSlug: "words",

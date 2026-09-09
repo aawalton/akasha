@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0530ChapterTwentySixEvenInDeathIServeM
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0530-chapter-twenty-six-even-in-death-i-serve-my-waifus",
   title: "Chapter Twenty-Six - Even In Death I Serve My Waifus",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 530,
   ownLength: 1486,
   unitSlug: "words",

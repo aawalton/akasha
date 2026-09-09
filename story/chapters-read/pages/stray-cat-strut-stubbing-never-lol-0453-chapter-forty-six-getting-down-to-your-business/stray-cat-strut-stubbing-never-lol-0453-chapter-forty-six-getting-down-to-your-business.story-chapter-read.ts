@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0453ChapterFortySixGettingDownToYourBu
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0453-chapter-forty-six-getting-down-to-your-business",
   title: "Chapter Forty-Six - Getting Down To Your Business",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 453,
   ownLength: 1477,
   unitSlug: "words",

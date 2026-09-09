@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0348ChapterThirtyThreeMinorImprovement
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0348-chapter-thirty-three-minor-improvements",
   title: "Chapter Thirty-Three - Minor Improvements",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 348,
   ownLength: 1466,
   unitSlug: "words",

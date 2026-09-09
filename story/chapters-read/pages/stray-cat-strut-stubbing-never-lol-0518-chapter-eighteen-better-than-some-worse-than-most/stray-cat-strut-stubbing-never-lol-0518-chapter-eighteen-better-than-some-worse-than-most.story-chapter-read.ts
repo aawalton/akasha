@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0518ChapterEighteenBetterThanSomeWorse
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0518-chapter-eighteen-better-than-some-worse-than-most",
   title: "Chapter Eighteen - Better Than Some, Worse Than Most",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 518,
   ownLength: 1514,
   unitSlug: "words",

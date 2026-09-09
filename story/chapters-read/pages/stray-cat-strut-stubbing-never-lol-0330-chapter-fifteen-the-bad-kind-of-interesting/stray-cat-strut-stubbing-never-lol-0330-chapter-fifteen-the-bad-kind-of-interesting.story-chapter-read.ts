@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0330ChapterFifteenTheBadKindOfInterest
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0330-chapter-fifteen-the-bad-kind-of-interesting",
   title: "Chapter Fifteen - The Bad Kind of Interesting",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 330,
   ownLength: 1486,
   unitSlug: "words",

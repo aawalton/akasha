@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0589ChapterSixtyEightLateLockedAndLoad
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0589-chapter-sixty-eight-late-locked-and-loaded",
   title: "Chapter Sixty-Eight - Late, Locked, and Loaded",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 589,
   ownLength: 1451,
   unitSlug: "words",

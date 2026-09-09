@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0451ChapterFortyFourJamAndDrains = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0451-chapter-forty-four-jam-and-drains",
   title: "Chapter Forty-Four - Jam and Drains",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 451,
   ownLength: 1557,
   unitSlug: "words",

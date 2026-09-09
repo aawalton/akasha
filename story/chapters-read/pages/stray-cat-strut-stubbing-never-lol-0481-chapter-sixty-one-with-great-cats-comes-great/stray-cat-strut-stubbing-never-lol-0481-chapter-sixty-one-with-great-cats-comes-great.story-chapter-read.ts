@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0481ChapterSixtyOneWithGreatCatsComesG
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0481-chapter-sixty-one-with-great-cats-comes-great",
   title: "Chapter Sixty-One - With Great Cats Comes Great Responsibility",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 481,
   ownLength: 1508,
   unitSlug: "words",

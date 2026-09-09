@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0608ACyberNewYear = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0608-a-cyber-new-year",
   title: "A Cyber New Year",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 608,
   ownLength: 2225,
   unitSlug: "words",

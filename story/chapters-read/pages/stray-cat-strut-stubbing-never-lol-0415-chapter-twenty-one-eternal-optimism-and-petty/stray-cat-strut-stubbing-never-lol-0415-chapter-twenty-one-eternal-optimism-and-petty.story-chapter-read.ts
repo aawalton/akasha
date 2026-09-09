@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0415ChapterTwentyOneEternalOptimismAnd
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0415-chapter-twenty-one-eternal-optimism-and-petty",
   title: "Chapter Twenty-One - Eternal Optimism and Petty Spite",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 415,
   ownLength: 1495,
   unitSlug: "words",

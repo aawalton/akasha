@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0417ChapterTwentyThreeFreeAndCompulsor
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0417-chapter-twenty-three-free-and-compulsory",
   title: "Chapter Twenty-Three - Free and Compulsory",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 417,
   ownLength: 1556,
   unitSlug: "words",

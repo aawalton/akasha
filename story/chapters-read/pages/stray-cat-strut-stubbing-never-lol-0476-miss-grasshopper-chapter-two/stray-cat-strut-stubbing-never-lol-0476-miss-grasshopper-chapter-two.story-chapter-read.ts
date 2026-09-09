@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0476MissGrasshopperChapterTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0476-miss-grasshopper-chapter-two",
   title: "Miss Grasshopper - Chapter Two",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 476,
   ownLength: 1441,
   unitSlug: "words",

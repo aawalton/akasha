@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0486ChapterSixtyFiveYourAverageRolepla
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0486-chapter-sixty-five-your-average-roleplaying-group",
   title: "Chapter Sixty-Five - Your Average Roleplaying Group",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 486,
   ownLength: 1469,
   unitSlug: "words",

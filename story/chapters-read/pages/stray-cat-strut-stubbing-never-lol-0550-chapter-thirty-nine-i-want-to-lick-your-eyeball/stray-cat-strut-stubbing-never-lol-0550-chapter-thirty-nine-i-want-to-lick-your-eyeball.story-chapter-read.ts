@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0550ChapterThirtyNineIWantToLickYourEy
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0550-chapter-thirty-nine-i-want-to-lick-your-eyeball",
   title: "Chapter Thirty-Nine - I Want to Lick Your Eyeball",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 550,
   ownLength: 1457,
   unitSlug: "words",

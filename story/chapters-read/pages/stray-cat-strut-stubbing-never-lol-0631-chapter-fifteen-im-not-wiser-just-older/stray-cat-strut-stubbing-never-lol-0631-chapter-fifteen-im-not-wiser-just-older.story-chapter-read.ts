@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0631ChapterFifteenImNotWiserJustOlder 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0631-chapter-fifteen-im-not-wiser-just-older",
   title: "Chapter Fifteen - I'm Not Wiser, Just Older",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 631,
   ownLength: 1564,
   unitSlug: "words",

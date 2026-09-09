@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0419ChapterTwentyFiveCottagecoreSamura
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0419-chapter-twenty-five-cottagecore-samurai-power",
   title: "Chapter Twenty-Five - Cottagecore Samurai Power-Couple",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 419,
   ownLength: 1497,
   unitSlug: "words",

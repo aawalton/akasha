@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0372ChapterFiftyFourAllThatWealthIsGoo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0372-chapter-fifty-four-all-that-wealth-is-good-for",
   title: "Chapter Fifty-Four - All That Wealth is Good For",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 372,
   ownLength: 1475,
   unitSlug: "words",

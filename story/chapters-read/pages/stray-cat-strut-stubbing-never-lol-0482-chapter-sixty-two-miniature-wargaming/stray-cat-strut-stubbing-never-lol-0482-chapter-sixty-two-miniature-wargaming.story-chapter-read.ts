@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0482ChapterSixtyTwoMiniatureWargaming 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0482-chapter-sixty-two-miniature-wargaming",
   title: "Chapter Sixty-Two - Miniature Wargaming",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 482,
   ownLength: 1511,
   unitSlug: "words",

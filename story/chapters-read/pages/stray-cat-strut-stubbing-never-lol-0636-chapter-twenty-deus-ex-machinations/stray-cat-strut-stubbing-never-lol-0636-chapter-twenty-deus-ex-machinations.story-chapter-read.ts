@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0636ChapterTwentyDeusExMachinations = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0636-chapter-twenty-deus-ex-machinations",
   title: "Chapter Twenty - Deus Ex Machinations",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 636,
   ownLength: 1462,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0664ChapterFortyFive576460752303424000
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0664-chapter-forty-five-57646075230342400000",
   title: "Chapter Forty-Five - 57,646,075,230,342,400,000",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 664,
   ownLength: 1626,
   unitSlug: "words",

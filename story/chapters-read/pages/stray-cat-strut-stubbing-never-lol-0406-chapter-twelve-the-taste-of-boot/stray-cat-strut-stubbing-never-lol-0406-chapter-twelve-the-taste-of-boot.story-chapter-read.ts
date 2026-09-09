@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0406ChapterTwelveTheTasteOfBoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0406-chapter-twelve-the-taste-of-boot",
   title: "Chapter Twelve - The Taste of Boot",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 406,
   ownLength: 1459,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0577ChapterFiftyNineTheFullStopDoesNot
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0577-chapter-fifty-nine-the-full-stop-does-not-stop",
   title: "Chapter Fifty-Nine - The Full Stop Does Not Stop",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 577,
   ownLength: 1485,
   unitSlug: "words",

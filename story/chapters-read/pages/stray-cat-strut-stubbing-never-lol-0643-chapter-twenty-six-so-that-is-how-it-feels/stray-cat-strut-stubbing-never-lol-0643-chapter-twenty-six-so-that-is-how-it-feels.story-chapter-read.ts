@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0643ChapterTwentySixSoThatIsHowItFeels
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0643-chapter-twenty-six-so-that-is-how-it-feels",
   title: "Chapter Twenty-Six - So That Is How It Feels",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 643,
   ownLength: 1499,
   unitSlug: "words",

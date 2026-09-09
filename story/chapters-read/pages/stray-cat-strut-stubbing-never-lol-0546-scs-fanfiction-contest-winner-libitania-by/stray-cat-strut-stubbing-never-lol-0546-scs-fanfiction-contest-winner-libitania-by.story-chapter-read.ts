@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0546ScsFanfictionContestWinnerLibitani
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0546-scs-fanfiction-contest-winner-libitania-by",
   title: "SCS Fanfiction Contest Winner: Libitania, by NiameScrawls",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 546,
   ownLength: 1740,
   unitSlug: "words",
