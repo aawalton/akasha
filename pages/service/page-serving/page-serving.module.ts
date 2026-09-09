@@ -54,7 +54,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A read carrying neither a path nor a page is refused.",
+      statement: "A read with neither a path nor a page is refused.",
     },
     {
       invariantKind: "departure",
@@ -78,15 +78,15 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A write may carry pages rather than bodies.",
+      statement: "A write may have pages rather than bodies.",
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries names its page type.",
+      statement: "A page a write has names its page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries names its slug.",
+      statement: "A page a write has names its slug.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +94,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries may say whether that page merges.",
+      statement: "A page a write has may say whether that page merges.",
     },
     {
       invariantKind: "departure",
@@ -110,11 +110,11 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries states nothing more.",
+      statement: "A page a write has states nothing more.",
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries is composed into a body before the write is handed on.",
+      statement: "A page a write has is composed into a body before the write is handed on.",
     },
     {
       invariantKind: "departure",

@@ -278,7 +278,7 @@ test("an answer to a read names the commit its bodies were read at", async () =>
   expect(held.at).toBe(gitIn(root, ["rev-parse", "HEAD"]).trim())
 })
 
-test("a read carrying neither a path nor a page is refused", async () => {
+test("a read with neither a path nor a page is refused", async () => {
   const root = repoWith("one")
   const answered = await answering(over(root), asking({}, READ_AT))
   expect(answered.status).toBe(400)
@@ -346,7 +346,7 @@ function writing(body: Record<string, unknown>): Request {
   return asking({ writer: "Amy <amy@alanwalton.com>", message: "a message", ...body }, WRITE_AT)
 }
 
-test("a write may carry pages rather than bodies", async () => {
+test("a write may have pages rather than bodies", async () => {
   const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
   expect(answered.status).toBe(200)
   const told = TOLD[TOLD.length - 1]
@@ -383,7 +383,7 @@ test("a write carrying no page is handed on as it arrived", () => {
   expect(foldedInto(asked, [], [])).toBe(asked)
 })
 
-test("a page a write carries may say whether it merges", () => {
+test("a page a write has may say whether it merges", () => {
   const read = writeIn({
     writer: "Amy <amy@alanwalton.com>",
     message: "a message",
@@ -401,7 +401,7 @@ test("a page saying it merges as neither true nor false is refused", () => {
   expect("refused" in read && read.refused).toContain("merge")
 })
 
-test("a page saying nothing about merging carries no merge", () => {
+test("a page saying nothing about merging has no merge", () => {
   const read = writeIn({
     writer: "Amy <amy@alanwalton.com>",
     message: "a message",
@@ -410,7 +410,7 @@ test("a page saying nothing about merging carries no merge", () => {
   expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
 })
 
-test("a page a write carries merging is composed over what the page already carries", async () => {
+test("a page a write has merging is composed over what the page already has", async () => {
   await answering(
     GIVEN,
     writing({
