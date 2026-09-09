@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0030Chapter30Warband = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0030-chapter-30-warband",
   title: "Chapter 30: Warband",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 30,
   ownLength: 4703,
   ownProgress: 4703,

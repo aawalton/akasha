@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0096Chapter95GuildDrama = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0096-chapter-95-guild-drama",
   title: "Chapter 95: Guild Drama",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 96,
   ownLength: 3553,
   ownProgress: 3553,

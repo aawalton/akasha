@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0052Chapter52BoneSpitterDrone = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0052-chapter-52-bone-spitter-drone",
   title: "Chapter 52: Bone Spitter Drone",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 52,
   ownLength: 4617,
   ownProgress: 4617,

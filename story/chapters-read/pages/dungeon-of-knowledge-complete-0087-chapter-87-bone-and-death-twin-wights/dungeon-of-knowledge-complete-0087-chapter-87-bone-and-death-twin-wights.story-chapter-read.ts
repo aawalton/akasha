@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0087Chapter87BoneAndDeathTwinWights = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0087-chapter-87-bone-and-death-twin-wights",
   title: "Chapter 87: Bone and Death: Twin Wights",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 87,
   ownLength: 3338,
   ownProgress: 3338,
