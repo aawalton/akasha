@@ -292,7 +292,7 @@ function parseNextWeekday(input: string, refAnchor: Date): ParsedDate | null {
 export function parseDateExpression(
   input: string,
   referenceDate?: Date,
-  parseRecurring?: (input: string) => ParsedDate | null
+  parseRecurring?: (said: string) => ParsedDate | null
 ): ParsedDate | null {
   const trimmed = input.trim()
   if (trimmed === "") return null
