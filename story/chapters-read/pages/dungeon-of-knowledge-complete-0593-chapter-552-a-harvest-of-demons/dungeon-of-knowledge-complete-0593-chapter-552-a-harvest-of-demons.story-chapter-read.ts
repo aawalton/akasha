@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0593Chapter552AHarvestOfDemons = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0593-chapter-552-a-harvest-of-demons",
   title: "Chapter 552: A Harvest of Demons",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 593,
   ownLength: 3549,
   ownProgress: 3549,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0475Chapter438TheGrandSuppressionArray = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0475-chapter-438-the-grand-suppression-array",
   title: "Chapter 438: The Grand Suppression Array",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 475,
   ownLength: 3600,
   ownProgress: 3600,

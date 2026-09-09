@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0458Chapter421MaalgarothSDemise = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0458-chapter-421-maalgaroth-s-demise",
   title: "Chapter 421: Maalgaroth’s Demise",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 458,
   ownLength: 2588,
   ownProgress: 2588,

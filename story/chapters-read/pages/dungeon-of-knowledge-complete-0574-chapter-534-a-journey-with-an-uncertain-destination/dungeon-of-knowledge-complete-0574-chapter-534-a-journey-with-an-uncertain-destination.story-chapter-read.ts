@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0574Chapter534AJourneyWithAnUncertainDest
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0574-chapter-534-a-journey-with-an-uncertain-destination",
   title: "Chapter 534: A Journey with an Uncertain Destination",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 574,
   ownLength: 6210,
   ownProgress: 6210,

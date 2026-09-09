@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0546-chapter-506-eternal-reverie",
   title: "Chapter 506: Eternal Reverie",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 546,
   ownLength: 5883,
   ownProgress: 5883,

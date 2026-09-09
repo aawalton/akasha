@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0516Chapter478AMightyDemonSlayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0516-chapter-478-a-mighty-demon-slayer",
   title: "Chapter 478: A Mighty Demon Slayer",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 516,
   ownLength: 3989,
   ownProgress: 3989,

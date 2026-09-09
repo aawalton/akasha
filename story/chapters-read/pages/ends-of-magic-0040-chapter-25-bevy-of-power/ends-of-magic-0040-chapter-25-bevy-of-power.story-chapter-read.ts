@@ -5,7 +5,7 @@ export const endsOfMagic0040Chapter25BevyOfPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0040-chapter-25-bevy-of-power",
   title: "Chapter 25: Bevy of Power",
-  storySlug: "story-read/ends-of-magic",
+  story: "story-read/ends-of-magic",
   position: 40,
   ownLength: 2719,
   ownProgress: 2719,

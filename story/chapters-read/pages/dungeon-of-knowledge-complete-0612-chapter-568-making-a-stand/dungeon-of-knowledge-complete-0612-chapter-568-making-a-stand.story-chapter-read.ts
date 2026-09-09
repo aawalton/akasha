@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0612Chapter568MakingAStand = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0612-chapter-568-making-a-stand",
   title: "Chapter 568: Making a Stand",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 612,
   ownLength: 6419,
   unitSlug: "words",

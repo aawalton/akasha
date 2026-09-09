@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0548Chapter508CatAndMouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0548-chapter-508-cat-and-mouse",
   title: "Chapter 508: Cat and Mouse",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 548,
   ownLength: 2882,
   ownProgress: 2882,

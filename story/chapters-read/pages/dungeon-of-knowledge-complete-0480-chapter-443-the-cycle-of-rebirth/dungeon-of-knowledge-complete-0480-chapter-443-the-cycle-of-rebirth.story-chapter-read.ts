@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0480Chapter443TheCycleOfRebirth = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0480-chapter-443-the-cycle-of-rebirth",
   title: "Chapter 443: The Cycle of Rebirth",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 480,
   ownLength: 4299,
   ownProgress: 4299,

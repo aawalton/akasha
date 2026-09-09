@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0572Chapter532TheCorruptionOfTheWell = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0572-chapter-532-the-corruption-of-the-well",
   title: "Chapter 532: The Corruption of the Well",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 572,
   ownLength: 4583,
   ownProgress: 4583,

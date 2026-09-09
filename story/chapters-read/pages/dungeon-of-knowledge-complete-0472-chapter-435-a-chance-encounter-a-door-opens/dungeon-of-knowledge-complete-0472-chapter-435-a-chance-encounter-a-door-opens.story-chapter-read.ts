@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0472Chapter435AChanceEncounterADoorOpens 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0472-chapter-435-a-chance-encounter-a-door-opens",
   title: "Chapter 435: A Chance Encounter, A Door Opens",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 472,
   ownLength: 3150,
   ownProgress: 3150,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0442Chapter405AProbingAttack = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0442-chapter-405-a-probing-attack",
   title: "Chapter 405: A Probing Attack ",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 442,
   ownLength: 3317,
   ownProgress: 3317,

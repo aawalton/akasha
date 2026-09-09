@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0435Chapter398ScionOfAzryet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0435-chapter-398-scion-of-azryet",
   title: "Chapter 398: Scion of Azryet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 435,
   ownLength: 3388,
   ownProgress: 3388,

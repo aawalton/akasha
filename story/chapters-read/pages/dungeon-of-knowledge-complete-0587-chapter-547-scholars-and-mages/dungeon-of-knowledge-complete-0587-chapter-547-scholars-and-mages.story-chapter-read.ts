@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0587Chapter547ScholarsAndMages = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0587-chapter-547-scholars-and-mages",
   title: "Chapter 547: Scholars and Mages",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 587,
   ownLength: 8065,
   ownProgress: 8065,

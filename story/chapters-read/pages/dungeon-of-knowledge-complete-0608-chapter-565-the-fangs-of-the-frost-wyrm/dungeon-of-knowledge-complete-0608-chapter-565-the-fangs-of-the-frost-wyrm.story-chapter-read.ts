@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0608Chapter565TheFangsOfTheFrostWyrm = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0608-chapter-565-the-fangs-of-the-frost-wyrm",
   title: "Chapter 565: The Fangs of the Frost Wyrm",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 608,
   ownLength: 2978,
   unitSlug: "words",

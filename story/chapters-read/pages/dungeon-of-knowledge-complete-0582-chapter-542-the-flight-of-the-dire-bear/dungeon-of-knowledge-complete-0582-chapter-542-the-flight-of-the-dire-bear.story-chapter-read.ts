@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0582Chapter542TheFlightOfTheDireBear = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0582-chapter-542-the-flight-of-the-dire-bear",
   title: "Chapter 542: The Flight of the Dire Bear",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 582,
   ownLength: 3997,
   ownProgress: 3997,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0580Chapter540Blackwell = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0580-chapter-540-blackwell",
   title: "Chapter 540: Blackwell",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 580,
   ownLength: 4893,
   ownProgress: 4893,

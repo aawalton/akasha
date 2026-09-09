@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0524-chapter-485-5-mato-status-sheet-tree-form",
   title: "Chapter 485.5: Mato - Status Sheet (Tree Form)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 524,
   ownLength: 984,
   ownProgress: 984,

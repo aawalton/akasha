@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0460Chapter423ReturnToTheBloomingRot = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0460-chapter-423-return-to-the-blooming-rot",
   title: "Chapter 423: Return to the Blooming Rot",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 460,
   ownLength: 2085,
   ownProgress: 2085,

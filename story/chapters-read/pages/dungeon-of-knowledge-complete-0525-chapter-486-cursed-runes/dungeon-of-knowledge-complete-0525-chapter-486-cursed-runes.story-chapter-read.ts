@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0525Chapter486CursedRunes = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0525-chapter-486-cursed-runes",
   title: "Chapter 486: Cursed Runes",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 525,
   ownLength: 2224,
   ownProgress: 2224,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0605Chapter562TheLichSArmy = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0605-chapter-562-the-lich-s-army",
   title: "Chapter 562: The Lich’s Army",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 605,
   ownLength: 5563,
   unitSlug: "words",

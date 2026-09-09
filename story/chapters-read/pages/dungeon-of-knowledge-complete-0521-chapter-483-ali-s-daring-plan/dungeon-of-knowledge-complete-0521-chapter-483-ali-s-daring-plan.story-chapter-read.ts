@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0521Chapter483AliSDaringPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0521-chapter-483-ali-s-daring-plan",
   title: "Chapter 483: Ali’s Daring Plan",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 521,
   ownLength: 2298,
   ownProgress: 2298,

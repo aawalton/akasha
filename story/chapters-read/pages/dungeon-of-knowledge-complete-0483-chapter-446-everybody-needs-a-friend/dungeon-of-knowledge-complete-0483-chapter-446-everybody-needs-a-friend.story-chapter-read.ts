@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0483Chapter446EverybodyNeedsAFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0483-chapter-446-everybody-needs-a-friend",
   title: "Chapter 446: Everybody Needs a Friend",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 483,
   ownLength: 2454,
   ownProgress: 2454,

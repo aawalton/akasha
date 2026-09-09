@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0497Chapter460ZulkoraRift = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0497-chapter-460-zulkora-rift",
   title: "Chapter 460: Zulkora Rift",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 497,
   ownLength: 1740,
   ownProgress: 1740,

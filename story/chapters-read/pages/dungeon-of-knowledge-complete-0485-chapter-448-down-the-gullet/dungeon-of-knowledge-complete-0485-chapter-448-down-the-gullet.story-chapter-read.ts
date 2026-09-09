@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0485Chapter448DownTheGullet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0485-chapter-448-down-the-gullet",
   title: "Chapter 448: Down The Gullet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 485,
   ownLength: 2972,
   ownProgress: 2972,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0445Chapter408XammathAndTheEye = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0445-chapter-408-xammath-and-the-eye",
   title: "Chapter 408: Xammath and the Eye",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 445,
   ownLength: 3653,
   ownProgress: 3653,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0532Chapter493FrozenStormArmor = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0532-chapter-493-frozen-storm-armor",
   title: "Chapter 493: Frozen Storm Armor",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 532,
   ownLength: 3590,
   ownProgress: 3590,

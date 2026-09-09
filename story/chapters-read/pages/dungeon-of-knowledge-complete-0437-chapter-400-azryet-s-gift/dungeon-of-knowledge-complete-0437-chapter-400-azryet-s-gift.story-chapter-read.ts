@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0437Chapter400AzryetSGift = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0437-chapter-400-azryet-s-gift",
   title: "Chapter 400: Azryet’s Gift",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 437,
   ownLength: 2284,
   ownProgress: 2284,

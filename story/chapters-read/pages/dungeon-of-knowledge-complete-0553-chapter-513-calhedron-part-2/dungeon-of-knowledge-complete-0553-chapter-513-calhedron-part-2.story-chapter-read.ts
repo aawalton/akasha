@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0553Chapter513CalhedronPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0553-chapter-513-calhedron-part-2",
   title: "Chapter 513: Calhedron (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 553,
   ownLength: 2158,
   ownProgress: 2158,

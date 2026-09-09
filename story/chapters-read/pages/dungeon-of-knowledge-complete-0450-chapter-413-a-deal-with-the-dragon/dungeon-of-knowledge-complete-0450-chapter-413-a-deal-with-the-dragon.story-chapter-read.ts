@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0450Chapter413ADealWithTheDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0450-chapter-413-a-deal-with-the-dragon",
   title: "Chapter 413: A Deal with the Dragon",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 450,
   ownLength: 3832,
   ownProgress: 3832,

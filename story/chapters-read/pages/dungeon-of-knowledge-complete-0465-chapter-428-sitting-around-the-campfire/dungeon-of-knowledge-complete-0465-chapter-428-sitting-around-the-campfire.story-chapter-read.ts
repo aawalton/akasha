@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0465Chapter428SittingAroundTheCampfire = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0465-chapter-428-sitting-around-the-campfire",
   title: "Chapter 428: Sitting Around the Campfire",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 465,
   ownLength: 2974,
   ownProgress: 2974,

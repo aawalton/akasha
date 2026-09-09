@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0610Chapter5665MalikaStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0610-chapter-566-5-malika-status-sheet",
   title: "Chapter 566.5: Malika – Status Sheet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 610,
   ownLength: 1428,
   unitSlug: "words",

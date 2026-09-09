@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0496Chapter459VisitingTheShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0496-chapter-459-visiting-the-shrine",
   title: "Chapter 459: Visiting the Shrine",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 496,
   ownLength: 2039,
   ownProgress: 2039,

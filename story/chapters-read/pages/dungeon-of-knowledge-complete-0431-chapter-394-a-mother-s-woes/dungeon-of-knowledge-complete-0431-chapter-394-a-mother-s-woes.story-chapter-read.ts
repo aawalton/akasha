@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0431Chapter394AMotherSWoes = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0431-chapter-394-a-mother-s-woes",
   title: "Chapter 394: A Mother’s Woes",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 431,
   ownLength: 2256,
   ownProgress: 2256,

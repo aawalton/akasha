@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0504Chapter467RockDragonOoze = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0504-chapter-467-rock-dragon-ooze",
   title: "Chapter 467: Rock, Dragon, Ooze",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 504,
   ownLength: 1761,
   ownProgress: 1761,

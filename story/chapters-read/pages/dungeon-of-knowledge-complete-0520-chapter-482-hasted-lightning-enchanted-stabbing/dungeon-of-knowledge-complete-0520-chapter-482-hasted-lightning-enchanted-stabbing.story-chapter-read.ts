@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0520Chapter482HastedLightningEnchantedSta
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0520-chapter-482-hasted-lightning-enchanted-stabbing",
   title: "Chapter 482: Hasted, Lightning-Enchanted Stabbing",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 520,
   ownLength: 3148,
   ownProgress: 3148,

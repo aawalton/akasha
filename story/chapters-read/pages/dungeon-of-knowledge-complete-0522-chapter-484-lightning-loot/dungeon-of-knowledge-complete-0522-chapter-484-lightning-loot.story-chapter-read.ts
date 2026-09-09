@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0522Chapter484LightningLoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0522-chapter-484-lightning-loot",
   title: "Chapter 484: Lightning Loot",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 522,
   ownLength: 2676,
   ownProgress: 2676,

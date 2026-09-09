@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0584Chapter544TheWellOfDivinity = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0584-chapter-544-the-well-of-divinity",
   title: "Chapter 544: The Well of Divinity",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 584,
   ownLength: 5258,
   ownProgress: 5258,

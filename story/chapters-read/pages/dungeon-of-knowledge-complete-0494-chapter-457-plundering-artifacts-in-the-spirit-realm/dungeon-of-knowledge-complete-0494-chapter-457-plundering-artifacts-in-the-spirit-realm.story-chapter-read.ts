@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0494Chapter457PlunderingArtifactsInTheSpi
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0494-chapter-457-plundering-artifacts-in-the-spirit-realm",
   title: "Chapter 457: Plundering Artifacts in the Spirit Realm",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 494,
   ownLength: 2929,
   ownProgress: 2929,

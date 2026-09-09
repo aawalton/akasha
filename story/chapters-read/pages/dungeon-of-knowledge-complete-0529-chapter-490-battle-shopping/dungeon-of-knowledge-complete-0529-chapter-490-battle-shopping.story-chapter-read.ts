@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0529Chapter490BattleShopping = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0529-chapter-490-battle-shopping",
   title: "Chapter 490: Battle Shopping",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 529,
   ownLength: 5481,
   ownProgress: 5481,

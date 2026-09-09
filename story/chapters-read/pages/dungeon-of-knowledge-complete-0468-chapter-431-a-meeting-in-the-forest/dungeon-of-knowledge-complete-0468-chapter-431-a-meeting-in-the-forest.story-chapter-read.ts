@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0468Chapter431AMeetingInTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0468-chapter-431-a-meeting-in-the-forest",
   title: "Chapter 431: A Meeting In The Forest ",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 468,
   ownLength: 2715,
   ownProgress: 2715,

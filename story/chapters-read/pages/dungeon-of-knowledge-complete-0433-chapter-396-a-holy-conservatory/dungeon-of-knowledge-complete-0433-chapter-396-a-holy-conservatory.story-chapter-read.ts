@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0433Chapter396AHolyConservatory = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0433-chapter-396-a-holy-conservatory",
   title: "Chapter 396: A Holy Conservatory",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 433,
   ownLength: 2761,
   ownProgress: 2761,

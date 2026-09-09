@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0614Chapter570AegisAndAuthority = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0614-chapter-570-aegis-and-authority",
   title: "Chapter 570: Aegis and Authority",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 614,
   ownLength: 2677,
   unitSlug: "words",

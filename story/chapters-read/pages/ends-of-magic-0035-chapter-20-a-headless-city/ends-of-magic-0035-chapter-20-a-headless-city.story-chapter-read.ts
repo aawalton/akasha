@@ -5,7 +5,7 @@ export const endsOfMagic0035Chapter20AHeadlessCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0035-chapter-20-a-headless-city",
   title: "Chapter 20: A Headless City",
-  storySlug: "story-read/ends-of-magic",
+  story: "story-read/ends-of-magic",
   position: 35,
   ownLength: 2588,
   ownProgress: 2588,

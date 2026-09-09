@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0478Chapter441ARingInTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0478-chapter-441-a-ring-in-the-forest",
   title: "Chapter 441: A Ring in the Forest",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 478,
   ownLength: 1564,
   ownProgress: 1564,

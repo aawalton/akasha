@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0414Chapter377CraftingResources = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0414-chapter-377-crafting-resources",
   title: "Chapter 377: Crafting Resources",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 414,
   ownLength: 3009,
   ownProgress: 3009,

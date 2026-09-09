@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0600Chapter558ThirdTierBalance = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0600-chapter-558-third-tier-balance",
   title: "Chapter 558: Third Tier Balance",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 600,
   ownLength: 2320,
   unitSlug: "words",

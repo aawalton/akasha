@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0601Chapter5585MatoStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0601-chapter-558-5-mato-status-sheet",
   title: "Chapter 558.5 Mato – Status Sheet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 601,
   ownLength: 1861,
   unitSlug: "words",

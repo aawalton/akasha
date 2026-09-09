@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0626Chapter582TheLichSPhylactery = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0626-chapter-582-the-lich-s-phylactery",
   title: "Chapter 582: The Lich’s Phylactery",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 626,
   ownLength: 4803,
   unitSlug: "words",

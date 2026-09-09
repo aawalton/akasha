@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0579Chapter539DalMohra = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0579-chapter-539-dal-mohra",
   title: "Chapter 539: Dal’mohra",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 579,
   ownLength: 3734,
   ownProgress: 3734,

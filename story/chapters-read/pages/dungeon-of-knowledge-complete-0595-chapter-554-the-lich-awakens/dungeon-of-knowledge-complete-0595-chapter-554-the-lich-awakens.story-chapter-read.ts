@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0595Chapter554TheLichAwakens = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0595-chapter-554-the-lich-awakens",
   title: "Chapter 554: The Lich Awakens",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 595,
   ownLength: 4418,
   ownProgress: 4418,

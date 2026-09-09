@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0425Chapter388Evacuation = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0425-chapter-388-evacuation",
   title: "Chapter 388: Evacuation",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 425,
   ownLength: 2834,
   ownProgress: 2834,

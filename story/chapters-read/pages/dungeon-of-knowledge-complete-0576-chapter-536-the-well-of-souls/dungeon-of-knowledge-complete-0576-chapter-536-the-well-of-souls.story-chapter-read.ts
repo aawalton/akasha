@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0576Chapter536TheWellOfSouls = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0576-chapter-536-the-well-of-souls",
   title: "Chapter 536: The Well of Souls",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 576,
   ownLength: 3110,
   ownProgress: 3110,

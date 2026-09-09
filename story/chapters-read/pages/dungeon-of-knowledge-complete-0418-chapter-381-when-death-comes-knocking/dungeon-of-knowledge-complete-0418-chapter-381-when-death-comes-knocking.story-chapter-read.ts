@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0418Chapter381WhenDeathComesKnocking = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0418-chapter-381-when-death-comes-knocking",
   title: "Chapter 381: When Death Comes Knocking",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 418,
   ownLength: 3391,
   ownProgress: 3391,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0417Chapter380TheManaEater = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0417-chapter-380-the-mana-eater",
   title: "Chapter 380: The Mana Eater",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 417,
   ownLength: 3259,
   ownProgress: 3259,

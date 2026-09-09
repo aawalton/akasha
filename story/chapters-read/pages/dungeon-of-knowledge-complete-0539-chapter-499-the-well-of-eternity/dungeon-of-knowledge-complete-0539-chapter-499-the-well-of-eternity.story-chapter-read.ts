@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0539Chapter499TheWellOfEternity = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0539-chapter-499-the-well-of-eternity",
   title: "Chapter 499: The Well of Eternity",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 539,
   ownLength: 4965,
   ownProgress: 4965,

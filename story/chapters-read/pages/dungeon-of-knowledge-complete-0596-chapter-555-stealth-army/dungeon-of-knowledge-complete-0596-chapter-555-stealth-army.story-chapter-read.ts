@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0596Chapter555StealthArmy = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0596-chapter-555-stealth-army",
   title: "Chapter 555: Stealth Army",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 596,
   ownLength: 3419,
   ownProgress: 3419,

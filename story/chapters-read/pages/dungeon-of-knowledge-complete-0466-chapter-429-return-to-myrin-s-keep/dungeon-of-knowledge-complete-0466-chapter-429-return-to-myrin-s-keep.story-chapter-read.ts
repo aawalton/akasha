@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0466Chapter429ReturnToMyrinSKeep = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0466-chapter-429-return-to-myrin-s-keep",
   title: "Chapter 429: Return to Myrin’s Keep",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 466,
   ownLength: 2719,
   ownProgress: 2719,

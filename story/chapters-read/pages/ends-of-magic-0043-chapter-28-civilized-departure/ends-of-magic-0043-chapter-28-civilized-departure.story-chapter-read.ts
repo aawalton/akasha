@@ -5,7 +5,7 @@ export const endsOfMagic0043Chapter28CivilizedDeparture = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0043-chapter-28-civilized-departure",
   title: "Chapter 28: Civilized Departure",
-  storySlug: "story-read/ends-of-magic",
+  story: "story-read/ends-of-magic",
   position: 43,
   ownLength: 2912,
   ownProgress: 2912,

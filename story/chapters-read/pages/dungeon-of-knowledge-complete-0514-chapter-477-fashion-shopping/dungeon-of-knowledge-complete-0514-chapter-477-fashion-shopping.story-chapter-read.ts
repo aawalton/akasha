@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0514Chapter477FashionShopping = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0514-chapter-477-fashion-shopping",
   title: "Chapter 477: Fashion Shopping",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 514,
   ownLength: 2136,
   ownProgress: 2136,

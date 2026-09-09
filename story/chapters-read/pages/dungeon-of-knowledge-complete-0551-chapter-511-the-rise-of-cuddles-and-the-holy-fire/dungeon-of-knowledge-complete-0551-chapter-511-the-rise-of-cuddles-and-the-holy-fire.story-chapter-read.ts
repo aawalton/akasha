@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0551Chapter511TheRiseOfCuddlesAndTheHolyF
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0551-chapter-511-the-rise-of-cuddles-and-the-holy-fire",
   title: "Chapter 511: The Rise of Cuddles and the Holy Fire",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 551,
   ownLength: 3722,
   ownProgress: 3722,

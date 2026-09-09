@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0581Chapter541CelestialRelicOfABygoneAge 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0581-chapter-541-celestial-relic-of-a-bygone-age",
   title: "Chapter 541: Celestial Relic of a Bygone Age",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 581,
   ownLength: 4535,
   ownProgress: 4535,

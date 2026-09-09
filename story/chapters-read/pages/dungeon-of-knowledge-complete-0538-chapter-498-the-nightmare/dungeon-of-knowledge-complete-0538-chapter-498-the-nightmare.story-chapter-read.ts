@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0538Chapter498TheNightmare = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0538-chapter-498-the-nightmare",
   title: "Chapter 498: The Nightmare",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 538,
   ownLength: 3639,
   ownProgress: 3639,

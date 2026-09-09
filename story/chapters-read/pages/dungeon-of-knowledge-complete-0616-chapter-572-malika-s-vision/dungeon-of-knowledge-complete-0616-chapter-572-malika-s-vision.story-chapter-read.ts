@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0616Chapter572MalikaSVision = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0616-chapter-572-malika-s-vision",
   title: "Chapter 572: Malika’s Vision",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 616,
   ownLength: 2406,
   unitSlug: "words",

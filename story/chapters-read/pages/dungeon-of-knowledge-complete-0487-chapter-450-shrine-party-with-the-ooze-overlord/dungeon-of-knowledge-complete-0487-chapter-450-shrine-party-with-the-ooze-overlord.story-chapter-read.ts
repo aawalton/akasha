@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0487Chapter450ShrinePartyWithTheOozeOverl
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0487-chapter-450-shrine-party-with-the-ooze-overlord",
   title: "Chapter 450: Shrine Party with the Ooze Overlord",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 487,
   ownLength: 2331,
   ownProgress: 2331,

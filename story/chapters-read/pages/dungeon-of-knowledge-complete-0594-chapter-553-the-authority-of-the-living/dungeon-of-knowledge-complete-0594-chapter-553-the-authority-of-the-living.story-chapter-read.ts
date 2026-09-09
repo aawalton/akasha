@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0594Chapter553TheAuthorityOfTheLiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0594-chapter-553-the-authority-of-the-living",
   title: "Chapter 553: The Authority of the Living",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 594,
   ownLength: 3246,
   ownProgress: 3246,

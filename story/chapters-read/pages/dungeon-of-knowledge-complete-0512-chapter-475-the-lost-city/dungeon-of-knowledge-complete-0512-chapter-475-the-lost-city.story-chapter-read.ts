@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0512Chapter475TheLostCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0512-chapter-475-the-lost-city",
   title: "Chapter 475: The Lost City",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 512,
   ownLength: 3494,
   ownProgress: 3494,

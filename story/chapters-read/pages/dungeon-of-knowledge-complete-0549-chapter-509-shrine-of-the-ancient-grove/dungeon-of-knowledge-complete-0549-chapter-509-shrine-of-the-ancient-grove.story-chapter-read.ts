@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0549Chapter509ShrineOfTheAncientGrove = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0549-chapter-509-shrine-of-the-ancient-grove",
   title: "Chapter 509: Shrine of the Ancient Grove",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 549,
   ownLength: 6044,
   ownProgress: 6044,

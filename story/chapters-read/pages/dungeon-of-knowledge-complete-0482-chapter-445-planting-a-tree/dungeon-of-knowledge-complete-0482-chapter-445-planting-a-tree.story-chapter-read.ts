@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0482Chapter445PlantingATree = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0482-chapter-445-planting-a-tree",
   title: "Chapter 445: Planting a Tree",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 482,
   ownLength: 2362,
   ownProgress: 2362,

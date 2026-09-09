@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0484Chapter447ObsidianSandwyrm = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0484-chapter-447-obsidian-sandwyrm",
   title: "Chapter 447: Obsidian Sandwyrm",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 484,
   ownLength: 2326,
   ownProgress: 2326,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0419Chapter382HeRidesUponAPaleHorse = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0419-chapter-382-he-rides-upon-a-pale-horse",
   title: "Chapter 382: He Rides Upon a Pale Horse",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 419,
   ownLength: 3957,
   ownProgress: 3957,

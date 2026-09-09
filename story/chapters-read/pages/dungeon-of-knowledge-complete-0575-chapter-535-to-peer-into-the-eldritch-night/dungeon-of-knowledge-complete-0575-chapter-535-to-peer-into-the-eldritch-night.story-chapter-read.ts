@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0575Chapter535ToPeerIntoTheEldritchNight 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0575-chapter-535-to-peer-into-the-eldritch-night",
   title: "Chapter 535: To Peer into the Eldritch Night",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 575,
   ownLength: 2549,
   ownProgress: 2549,

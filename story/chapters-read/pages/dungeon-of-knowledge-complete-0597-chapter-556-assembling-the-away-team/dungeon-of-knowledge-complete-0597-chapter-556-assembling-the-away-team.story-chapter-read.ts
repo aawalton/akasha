@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0597Chapter556AssemblingTheAwayTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0597-chapter-556-assembling-the-away-team",
   title: "Chapter 556: Assembling the Away Team",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 597,
   ownLength: 5041,
   ownProgress: 5041,

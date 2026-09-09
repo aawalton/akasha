@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0429Chapter392CloseEncounterOfTheDemonicK
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0429-chapter-392-close-encounter-of-the-demonic-kind",
   title: "Chapter 392: Close Encounter of the Demonic Kind",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 429,
   ownLength: 2700,
   ownProgress: 2700,

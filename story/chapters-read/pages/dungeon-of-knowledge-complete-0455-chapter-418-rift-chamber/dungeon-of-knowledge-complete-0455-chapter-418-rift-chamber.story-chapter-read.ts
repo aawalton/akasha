@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0455Chapter418RiftChamber = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0455-chapter-418-rift-chamber",
   title: "Chapter 418: Rift Chamber",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 455,
   ownLength: 2879,
   ownProgress: 2879,

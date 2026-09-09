@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0454Chapter417WielderOfTheSacredFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0454-chapter-417-wielder-of-the-sacred-flame",
   title: "Chapter 417: Wielder of the Sacred Flame",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 454,
   ownLength: 3843,
   ownProgress: 3843,

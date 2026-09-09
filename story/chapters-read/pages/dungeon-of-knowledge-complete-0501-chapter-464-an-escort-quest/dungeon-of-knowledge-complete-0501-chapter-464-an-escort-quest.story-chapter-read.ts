@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0501Chapter464AnEscortQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0501-chapter-464-an-escort-quest",
   title: "Chapter 464: An Escort Quest",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 501,
   ownLength: 2984,
   ownProgress: 2984,

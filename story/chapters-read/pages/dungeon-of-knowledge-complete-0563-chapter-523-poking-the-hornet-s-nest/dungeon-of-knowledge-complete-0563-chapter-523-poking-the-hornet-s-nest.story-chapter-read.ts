@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0563Chapter523PokingTheHornetSNest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0563-chapter-523-poking-the-hornet-s-nest",
   title: "Chapter 523: Poking the Hornet’s Nest",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 563,
   ownLength: 3425,
   ownProgress: 3425,

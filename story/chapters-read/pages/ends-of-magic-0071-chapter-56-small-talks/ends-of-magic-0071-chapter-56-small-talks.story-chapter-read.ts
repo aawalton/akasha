@@ -5,7 +5,7 @@ export const endsOfMagic0071Chapter56SmallTalks = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0071-chapter-56-small-talks",
   title: "Chapter 56: Small Talks",
-  storySlug: "story-read/ends-of-magic",
+  story: "story-read/ends-of-magic",
   position: 71,
   ownLength: 2960,
   ownProgress: 2960,

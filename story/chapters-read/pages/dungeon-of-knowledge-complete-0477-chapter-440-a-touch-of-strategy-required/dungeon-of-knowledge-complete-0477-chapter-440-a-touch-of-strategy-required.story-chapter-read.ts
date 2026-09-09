@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0477Chapter440ATouchOfStrategyRequired = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0477-chapter-440-a-touch-of-strategy-required",
   title: "Chapter 440: A Touch of Strategy Required",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 477,
   ownLength: 2200,
   ownProgress: 2200,

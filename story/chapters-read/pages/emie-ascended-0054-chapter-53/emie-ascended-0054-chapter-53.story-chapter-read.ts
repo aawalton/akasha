@@ -5,7 +5,7 @@ export const emieAscended0054Chapter53 = {
   pageTypeSlug: "story-chapter-read",
   slug: "emie-ascended-0054-chapter-53",
   title: "Chapter 53",
-  storySlug: "emie-ascended",
+  story: "emie-ascended",
   position: 54,
   ownLength: 2477,
   unitSlug: "words",

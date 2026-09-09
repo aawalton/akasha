@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0415Chapter378ATattooForNaia = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0415-chapter-378-a-tattoo-for-naia",
   title: "Chapter 378: A Tattoo for Naia",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 415,
   ownLength: 3316,
   ownProgress: 3316,

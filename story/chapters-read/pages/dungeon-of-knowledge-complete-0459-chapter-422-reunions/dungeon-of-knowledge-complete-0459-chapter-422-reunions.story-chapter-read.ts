@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0459Chapter422Reunions = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0459-chapter-422-reunions",
   title: "Chapter 422: Reunions",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 459,
   ownLength: 2819,
   ownProgress: 2819,

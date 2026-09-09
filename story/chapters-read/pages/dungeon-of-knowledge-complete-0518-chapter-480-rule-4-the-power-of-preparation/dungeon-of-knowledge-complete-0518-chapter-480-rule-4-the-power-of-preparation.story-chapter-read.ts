@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0518Chapter480Rule4ThePowerOfPreparation 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0518-chapter-480-rule-4-the-power-of-preparation",
   title: "Chapter 480: Rule 4, The Power of Preparation.",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 518,
   ownLength: 4185,
   ownProgress: 4185,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0557Chapter517ABoldStrategicManeuver = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0557-chapter-517-a-bold-strategic-maneuver",
   title: "Chapter 517: A Bold Strategic Maneuver",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 557,
   ownLength: 3442,
   ownProgress: 3442,

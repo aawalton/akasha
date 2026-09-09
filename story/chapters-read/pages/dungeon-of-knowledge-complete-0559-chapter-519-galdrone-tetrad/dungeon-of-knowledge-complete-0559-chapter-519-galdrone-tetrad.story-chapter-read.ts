@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0559Chapter519GaldroneTetrad = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0559-chapter-519-galdrone-tetrad",
   title: "Chapter 519: Galdrone Tetrad",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 559,
   ownLength: 3725,
   ownProgress: 3725,

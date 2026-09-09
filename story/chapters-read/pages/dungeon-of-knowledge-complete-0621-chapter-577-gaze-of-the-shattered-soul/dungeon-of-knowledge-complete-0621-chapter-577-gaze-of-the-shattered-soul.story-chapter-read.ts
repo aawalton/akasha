@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0621Chapter577GazeOfTheShatteredSoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0621-chapter-577-gaze-of-the-shattered-soul",
   title: "Chapter 577: Gaze of the Shattered Soul",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 621,
   ownLength: 2189,
   unitSlug: "words",

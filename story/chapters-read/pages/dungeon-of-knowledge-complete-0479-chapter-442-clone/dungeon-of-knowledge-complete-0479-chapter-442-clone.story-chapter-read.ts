@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0479Chapter442Clone = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0479-chapter-442-clone",
   title: "Chapter 442: Clone",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 479,
   ownLength: 3606,
   ownProgress: 3606,

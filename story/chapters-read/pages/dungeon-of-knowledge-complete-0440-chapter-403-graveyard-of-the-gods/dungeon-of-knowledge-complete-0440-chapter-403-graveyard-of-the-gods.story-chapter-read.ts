@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0440Chapter403GraveyardOfTheGods = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0440-chapter-403-graveyard-of-the-gods",
   title: "Chapter 403: Graveyard of the Gods",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 440,
   ownLength: 2576,
   ownProgress: 2576,

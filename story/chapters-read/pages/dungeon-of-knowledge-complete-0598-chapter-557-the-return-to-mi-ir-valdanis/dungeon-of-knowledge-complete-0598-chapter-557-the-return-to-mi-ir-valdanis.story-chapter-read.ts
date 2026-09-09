@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0598Chapter557TheReturnToMiIrValdanis = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0598-chapter-557-the-return-to-mi-ir-valdanis",
   title: "Chapter 557: The Return to Mi’ir Valdanis",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 598,
   ownLength: 3899,
   ownProgress: 3899,

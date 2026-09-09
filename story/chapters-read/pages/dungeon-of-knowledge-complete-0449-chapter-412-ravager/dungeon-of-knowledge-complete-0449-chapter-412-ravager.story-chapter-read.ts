@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0449Chapter412Ravager = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0449-chapter-412-ravager",
   title: "Chapter 412: Ravager",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 449,
   ownLength: 3319,
   ownProgress: 3319,

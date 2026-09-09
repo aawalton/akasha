@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0606-chapter-563-the-lair-of-the-dracolich",
   title: "Chapter 563: The Lair of the Dracolich",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 606,
   ownLength: 3621,
   unitSlug: "words",

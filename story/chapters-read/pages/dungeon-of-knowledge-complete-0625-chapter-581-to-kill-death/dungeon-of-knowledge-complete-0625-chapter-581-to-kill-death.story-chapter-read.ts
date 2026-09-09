@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0625-chapter-581-to-kill-death",
   title: "Chapter 581: To Kill Death",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 625,
   ownLength: 3532,
   unitSlug: "words",

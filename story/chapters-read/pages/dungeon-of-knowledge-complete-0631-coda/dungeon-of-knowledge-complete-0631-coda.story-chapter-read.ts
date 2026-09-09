@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0631Coda = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0631-coda",
   title: "Coda",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 631,
   ownLength: 2092,
   unitSlug: "words",

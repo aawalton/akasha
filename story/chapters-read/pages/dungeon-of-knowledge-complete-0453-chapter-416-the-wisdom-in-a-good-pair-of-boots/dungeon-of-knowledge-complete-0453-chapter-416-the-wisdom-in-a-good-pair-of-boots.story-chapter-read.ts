@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0453Chapter416TheWisdomInAGoodPairOfBoots
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0453-chapter-416-the-wisdom-in-a-good-pair-of-boots",
   title: "Chapter 416: The Wisdom in a Good Pair of Boots",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 453,
   ownLength: 2114,
   ownProgress: 2114,

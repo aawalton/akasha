@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0509Chapter472MalikaSPrayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0509-chapter-472-malika-s-prayer",
   title: "Chapter 472: Malika’s Prayer",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 509,
   ownLength: 4307,
   ownProgress: 4307,

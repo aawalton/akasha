@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0527Chapter488TheDevastator = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0527-chapter-488-the-devastator",
   title: "Chapter 488: The Devastator",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 527,
   ownLength: 2409,
   ownProgress: 2409,

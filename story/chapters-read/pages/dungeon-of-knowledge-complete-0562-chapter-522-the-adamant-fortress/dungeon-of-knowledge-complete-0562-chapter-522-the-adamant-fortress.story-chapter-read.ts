@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0562Chapter522TheAdamantFortress = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0562-chapter-522-the-adamant-fortress",
   title: "Chapter 522: The Adamant Fortress",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 562,
   ownLength: 2799,
   ownProgress: 2799,

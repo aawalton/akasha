@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0534Chapter4945HaverronStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0534-chapter-494-5-haverron-status-sheet",
   title: "Chapter 494.5: Haverron - Status Sheet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 534,
   ownLength: 852,
   ownProgress: 852,

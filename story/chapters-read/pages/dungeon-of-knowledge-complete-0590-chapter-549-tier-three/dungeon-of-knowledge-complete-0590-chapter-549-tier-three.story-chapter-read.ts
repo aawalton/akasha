@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0590Chapter549TierThree = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0590-chapter-549-tier-three",
   title: "Chapter 549: Tier Three",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 590,
   ownLength: 5079,
   ownProgress: 5079,
