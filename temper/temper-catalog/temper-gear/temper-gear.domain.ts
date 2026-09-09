@@ -5,7 +5,7 @@ export const temperGear = {
   pageTypeSlug: "domain",
   slug: "temper-gear",
   definition: "what a character wears, wields and makes",
-  pluralSlug: "temper-gears",
+  pluralSlug: "temper-gear",
   parts: [
     "page-type/temper-armor-enchant",
     "page-type/temper-armor-slot",
