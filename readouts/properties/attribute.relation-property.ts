@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type AttributeSlug = Slug
+export type Attribute = Slug
 
-export const attributeSlug = {
+export const attribute = {
   id: "01a081ef-0b0a-7889-962d-2e766b9aedee",
   pageTypeSlug: "relation-property",
-  slug: "attribute-slug",
-  propertySlug: "attribute-slug",
+  slug: "attribute",
+  propertySlug: "attribute",
   definition: "the attribute whose points a reading counts",
   targetPageTypeSlug: "page-type/attribute",
   invariants: [

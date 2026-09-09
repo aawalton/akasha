@@ -41,14 +41,14 @@ export function drawnIn(root: string): readonly Drawn[] {
   const found: Drawn[] = []
   const asked = asking(root, {
     pageTypeSlug: READOUT,
-    keys: ["slug", "label", "place", "groups", "attributeSlug"],
+    keys: ["slug", "label", "place", "groups", "attribute"],
   } as never)
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
     const groups = one["groups"]
     if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
-    const attributeSlug = String(one["attributeSlug"] ?? "")
+    const attributeSlug = String(one["attribute"] ?? "")
     if (attributeSlug === "") continue
     const label = String(one["label"] ?? one["slug"] ?? "")
     const place = typeof one["place"] === "number" ? one["place"] : 0

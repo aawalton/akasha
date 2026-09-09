@@ -14,18 +14,18 @@ const PAGE_AT = "held/attribute-pages/constitution.attribute.ts"
 
 function rootMade(): string {
   const root = mkdtempSync(join(HOLD, "attribute-constitution-"))
-  const slug = attributeConstitution.attributeSlug
+  const slug = attributeConstitution.attribute
   listedFiled(root, ATTRIBUTE, slug, [{ path: PAGE_AT, id: `held-${slug}` }])
   return root
 }
 
 test("this readout names the attribute whose points it shows", () => {
-  expect(attributeConstitution.attributeSlug).toBe("constitution")
+  expect(attributeConstitution.attribute).toBe("constitution")
 })
 
 test("the reading is the points that attribute earned today", () => {
   const root = rootMade()
-  keepPointsToday(root, attributeConstitution.attributeSlug, 3.05)
+  keepPointsToday(root, attributeConstitution.attribute, 3.05)
   expect(constitutionShown(root)).toBe(3.05)
 })
 

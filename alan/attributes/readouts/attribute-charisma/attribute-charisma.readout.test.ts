@@ -14,18 +14,18 @@ const PAGE_AT = "held/attribute-pages/charisma.attribute.ts"
 
 function rootMade(): string {
   const root = mkdtempSync(join(HOLD, "attribute-charisma-"))
-  const slug = attributeCharisma.attributeSlug
+  const slug = attributeCharisma.attribute
   listedFiled(root, ATTRIBUTE, slug, [{ path: PAGE_AT, id: `held-${slug}` }])
   return root
 }
 
 test("this readout names the attribute whose points it shows", () => {
-  expect(attributeCharisma.attributeSlug).toBe("charisma")
+  expect(attributeCharisma.attribute).toBe("charisma")
 })
 
 test("the reading is the points that attribute earned today", () => {
   const root = rootMade()
-  keepPointsToday(root, attributeCharisma.attributeSlug, 3.5)
+  keepPointsToday(root, attributeCharisma.attribute, 3.5)
   expect(charismaShown(root)).toBe(3.5)
 })
 

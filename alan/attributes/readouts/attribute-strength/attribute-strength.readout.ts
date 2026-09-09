@@ -11,7 +11,7 @@ export const attributeStrength = {
   unit: "points",
   place: 1,
   scaleSlug: "attribute-points",
-  attributeSlug: "strength",
+  attribute: "strength",
   groups: ["attributes"],
   wireKey: "strength",
   invariants: [

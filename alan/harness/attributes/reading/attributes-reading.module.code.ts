@@ -97,12 +97,12 @@ async function constitutionOf(now: Date): Promise<number> {
 }
 
 export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
-  [STRENGTH_PAGE]: attributeStrength.attributeSlug,
-  [ENDURANCE_PAGE]: attributeEndurance.attributeSlug,
-  [CONSTITUTION_PAGE]: attributeConstitution.attributeSlug,
-  [WISDOM_PAGE]: attributeWisdom.attributeSlug,
-  [INTELLIGENCE_PAGE]: attributeIntelligence.attributeSlug,
-  [CHARISMA_PAGE]: attributeCharisma.attributeSlug,
+  [STRENGTH_PAGE]: attributeStrength.attribute,
+  [ENDURANCE_PAGE]: attributeEndurance.attribute,
+  [CONSTITUTION_PAGE]: attributeConstitution.attribute,
+  [WISDOM_PAGE]: attributeWisdom.attribute,
+  [INTELLIGENCE_PAGE]: attributeIntelligence.attribute,
+  [CHARISMA_PAGE]: attributeCharisma.attribute,
 }
 
 const OFF_THE_DAY = [
