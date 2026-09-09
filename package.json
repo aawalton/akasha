@@ -109,7 +109,6 @@
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
-    "@akasha/temper-characters-capture-addon": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-skill-morphs-access": "workspace:*",
@@ -117,7 +116,8 @@
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-items-filters-core": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
-    "@akasha/pages-ui": "workspace:*"
+    "@akasha/pages-ui": "workspace:*",
+    "@akasha/temper-capture-writer": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

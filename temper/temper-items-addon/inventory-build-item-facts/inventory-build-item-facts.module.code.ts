@@ -1,7 +1,7 @@
-import { parsePotionData } from "@akasha/temper-characters-capture-addon/character-capture-potion-map"
 import { locationConditionFromKeyAndBag } from "@akasha/temper-items-core/location-condition"
 import { resolvePotionRestoreMetricIds } from "@akasha/temper-items-rules-core/potion-restore-resolve"
 import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import { parsePotionData } from "akasha/temper/characters-capture-addon/character-capture-potion-map/character-capture-potion-map.module.code.ts"
 import {
   findItemInInventory,
   isItemLinkCraftedSafe,

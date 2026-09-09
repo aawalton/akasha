@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCharactersCaptureAddon = {
   id: "01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-characters-capture-addon",
   definition: "what the game answers about the character playing now, read out as a build hash",
-  manifest: "json",
   parts: [
     "module/character-capture-alliance-map",
     "module/character-capture-base-ability",
@@ -69,4 +68,4 @@ export const temperCharactersCaptureAddon = {
       statement: "Nothing here reads a build hash back.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

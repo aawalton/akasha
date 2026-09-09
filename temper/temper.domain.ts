@@ -15,7 +15,7 @@ export const temper = {
     "workspace-package/temper-characters-stats",
     "eso-addon/temper-companions-addon",
     "eso-addon/temper-housing-addon",
-    "workspace-package/temper-characters-capture-addon",
+    "domain/temper-characters-capture-addon",
     "domain/temper-characters-skills-morphs-addon",
     "domain/temper-skill-point-finder",
     "eso-addon/temper-capture-sales-addon",
