@@ -5,6 +5,6 @@ export const learnByExample = {
   pageTypeSlug: "world-skill",
   slug: "learn-by-example",
   title: "Learn by Example",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

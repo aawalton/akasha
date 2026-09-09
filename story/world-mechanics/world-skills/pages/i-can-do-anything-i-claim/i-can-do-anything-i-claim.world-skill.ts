@@ -5,6 +5,6 @@ export const iCanDoAnythingIClaim = {
   pageTypeSlug: "world-skill",
   slug: "i-can-do-anything-i-claim",
   title: "I Can Do Anything I Claim",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

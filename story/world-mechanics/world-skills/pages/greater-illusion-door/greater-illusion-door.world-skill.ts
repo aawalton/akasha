@@ -5,6 +5,6 @@ export const greaterIllusionDoor = {
   pageTypeSlug: "world-skill",
   slug: "greater-illusion-door",
   title: "Greater Illusion (Door)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

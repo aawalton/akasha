@@ -5,6 +5,6 @@ export const freeRefillScentedSoapOfTaima = {
   pageTypeSlug: "world-skill",
   slug: "free-refill-scented-soap-of-taima",
   title: "Free Refill: Scented Soap of Taima",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

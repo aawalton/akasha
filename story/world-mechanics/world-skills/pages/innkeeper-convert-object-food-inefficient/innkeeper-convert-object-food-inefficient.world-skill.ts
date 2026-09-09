@@ -5,5 +5,5 @@ export const innkeeperConvertObjectFoodInefficient = {
   pageTypeSlug: "world-skill",
   slug: "innkeeper-convert-object-food-inefficient",
   title: "Innkeeper – Convert Object: Food (Inefficient)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

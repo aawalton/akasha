@@ -5,6 +5,6 @@ export const infidelityUnchecked = {
   pageTypeSlug: "world-skill",
   slug: "infidelity-unchecked",
   title: "Infidelity Unchecked",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

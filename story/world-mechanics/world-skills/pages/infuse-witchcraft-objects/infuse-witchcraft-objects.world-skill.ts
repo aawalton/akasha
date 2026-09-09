@@ -5,6 +5,6 @@ export const infuseWitchcraftObjects = {
   pageTypeSlug: "world-skill",
   slug: "infuse-witchcraft-objects",
   title: "Infuse Witchcraft: Objects",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

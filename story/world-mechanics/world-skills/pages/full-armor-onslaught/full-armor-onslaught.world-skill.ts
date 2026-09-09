@@ -5,7 +5,7 @@ export const fullArmorOnslaught = {
   pageTypeSlug: "world-skill",
   slug: "full-armor-onslaught",
   title: "Full Armor Onslaught",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["armored-blow"],
   references: "jsonl",
 } as const satisfies WorldSkill

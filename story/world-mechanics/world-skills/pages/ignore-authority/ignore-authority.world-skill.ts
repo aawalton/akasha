@@ -5,6 +5,6 @@ export const ignoreAuthority = {
   pageTypeSlug: "world-skill",
   slug: "ignore-authority",
   title: "Ignore Authority",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

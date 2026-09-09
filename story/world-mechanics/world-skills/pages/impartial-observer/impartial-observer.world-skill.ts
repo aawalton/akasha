@@ -5,6 +5,6 @@ export const impartialObserver = {
   pageTypeSlug: "world-skill",
   slug: "impartial-observer",
   title: "Impartial Observer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

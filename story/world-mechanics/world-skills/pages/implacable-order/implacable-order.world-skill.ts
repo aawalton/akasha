@@ -5,6 +5,6 @@ export const implacableOrder = {
   pageTypeSlug: "world-skill",
   slug: "implacable-order",
   title: "Implacable Order",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

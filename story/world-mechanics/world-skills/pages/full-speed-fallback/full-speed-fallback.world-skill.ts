@@ -5,6 +5,6 @@ export const fullSpeedFallback = {
   pageTypeSlug: "world-skill",
   slug: "full-speed-fallback",
   title: "Full-Speed Fallback",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const furOfTheFortressForm = {
   pageTypeSlug: "world-skill",
   slug: "fur-of-the-fortress-form",
   title: "Fur of the Fortress form",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

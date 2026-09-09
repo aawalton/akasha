@@ -5,6 +5,6 @@ export const innExpandedBoundaries = {
   pageTypeSlug: "world-skill",
   slug: "inn-expanded-boundaries",
   title: "Inn: Expanded Boundaries",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

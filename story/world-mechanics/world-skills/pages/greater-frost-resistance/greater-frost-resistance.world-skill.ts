@@ -5,7 +5,7 @@ export const greaterFrostResistance = {
   pageTypeSlug: "world-skill",
   slug: "greater-frost-resistance",
   title: "Greater Frost Resistance",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["lesser-frost-resistance"],
   references: "jsonl",
 } as const satisfies WorldSkill

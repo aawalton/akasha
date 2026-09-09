@@ -5,6 +5,6 @@ export const heatsense = {
   pageTypeSlug: "world-skill",
   slug: "heatsense",
   title: "Heatsense",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

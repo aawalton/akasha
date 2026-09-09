@@ -5,6 +5,6 @@ export const goldenYieldMasterHelm = {
   pageTypeSlug: "world-skill",
   slug: "golden-yield-master-helm",
   title: "Golden Yield: Master Helm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

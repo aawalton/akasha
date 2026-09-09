@@ -5,6 +5,6 @@ export const instantNap = {
   pageTypeSlug: "world-skill",
   slug: "instant-nap",
   title: "Instant Nap",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

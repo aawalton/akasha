@@ -5,6 +5,6 @@ export const formSquadMyCompanionsAreWithMe = {
   pageTypeSlug: "world-skill",
   slug: "form-squad-my-companions-are-with-me",
   title: "Form Squad: My Companions Are With Me",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

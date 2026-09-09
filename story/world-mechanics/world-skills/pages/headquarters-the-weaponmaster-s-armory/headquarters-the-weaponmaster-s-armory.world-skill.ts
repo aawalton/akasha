@@ -5,6 +5,6 @@ export const headquartersTheWeaponmasterSArmory = {
   pageTypeSlug: "world-skill",
   slug: "headquarters-the-weaponmaster-s-armory",
   title: "Headquarters: The Weaponmaster’s Armory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

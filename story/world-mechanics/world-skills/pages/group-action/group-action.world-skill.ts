@@ -5,6 +5,6 @@ export const groupAction = {
   pageTypeSlug: "world-skill",
   slug: "group-action",
   title: "Group Action",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

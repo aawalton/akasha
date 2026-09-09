@@ -5,6 +5,6 @@ export const informationDumpIlvriss = {
   pageTypeSlug: "world-skill",
   slug: "information-dump-ilvriss",
   title: "Information Dump: Ilvriss",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

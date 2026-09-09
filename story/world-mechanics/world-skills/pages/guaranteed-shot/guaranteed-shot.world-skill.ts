@@ -5,6 +5,6 @@ export const guaranteedShot = {
   pageTypeSlug: "world-skill",
   slug: "guaranteed-shot",
   title: "Guaranteed Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

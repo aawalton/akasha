@@ -5,6 +5,6 @@ export const kingdomQuickenedBreedingAnimals = {
   pageTypeSlug: "world-skill",
   slug: "kingdom-quickened-breeding-animals",
   title: "Kingdom: Quickened Breeding (Animals)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

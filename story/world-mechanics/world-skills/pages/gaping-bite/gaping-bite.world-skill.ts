@@ -5,6 +5,6 @@ export const gapingBite = {
   pageTypeSlug: "world-skill",
   slug: "gaping-bite",
   title: "Gaping Bite",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

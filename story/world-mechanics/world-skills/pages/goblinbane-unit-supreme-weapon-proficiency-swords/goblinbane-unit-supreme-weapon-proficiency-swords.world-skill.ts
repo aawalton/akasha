@@ -5,6 +5,6 @@ export const goblinbaneUnitSupremeWeaponProficiencySwords = {
   pageTypeSlug: "world-skill",
   slug: "goblinbane-unit-supreme-weapon-proficiency-swords",
   title: "Goblinbane Unit — Supreme Weapon Proficiency: Swords",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const identifyTrueNameDaily = {
   pageTypeSlug: "world-skill",
   slug: "identify-true-name-daily",
   title: "Identify True Name (Daily)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

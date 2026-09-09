@@ -5,6 +5,6 @@ export const incredibleAdhesive = {
   pageTypeSlug: "world-skill",
   slug: "incredible-adhesive",
   title: "Incredible Adhesive",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

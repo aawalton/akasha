@@ -5,6 +5,6 @@ export const innEmployeeBenefitsLegendaryHealingSlimeEggletsOfHappiness = {
   pageTypeSlug: "world-skill",
   slug: "inn-employee-benefits-legendary-healing-slime-egglets-of-happiness",
   title: "Inn: Employee Benefits — (Legendary Healing Slime) Egglets of Happiness",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

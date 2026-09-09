@@ -5,6 +5,6 @@ export const increasedWarmthEmber = {
   pageTypeSlug: "world-skill",
   slug: "increased-warmth-ember",
   title: "Increased Warmth: Ember",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

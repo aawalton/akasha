@@ -5,6 +5,6 @@ export const gazeOfTransparency = {
   pageTypeSlug: "world-skill",
   slug: "gaze-of-transparency",
   title: "Gaze of Transparency",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

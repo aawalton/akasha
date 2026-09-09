@@ -5,5 +5,5 @@ export const freeUpgradePlumbing = {
   pageTypeSlug: "world-skill",
   slug: "free-upgrade-plumbing",
   title: "Free Upgrade (Plumbing)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

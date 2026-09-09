@@ -5,6 +5,6 @@ export const glossaryOfSaliiGalam = {
   pageTypeSlug: "world-skill",
   slug: "glossary-of-salii-galam",
   title: "Glossary of Salii: Galam",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const highlightForageables = {
   pageTypeSlug: "world-skill",
   slug: "highlight-forageables",
   title: "Highlight Forageables",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

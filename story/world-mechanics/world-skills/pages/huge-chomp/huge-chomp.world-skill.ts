@@ -5,6 +5,6 @@ export const hugeChomp = {
   pageTypeSlug: "world-skill",
   slug: "huge-chomp",
   title: "Huge Chomp",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["yawning-bite"],
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const groundElectricity = {
   pageTypeSlug: "world-skill",
   slug: "ground-electricity",
   title: "Ground Electricity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

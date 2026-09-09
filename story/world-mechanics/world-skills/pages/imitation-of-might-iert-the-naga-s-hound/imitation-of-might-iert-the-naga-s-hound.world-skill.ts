@@ -5,6 +5,6 @@ export const imitationOfMightIertTheNagaSHound = {
   pageTypeSlug: "world-skill",
   slug: "imitation-of-might-iert-the-naga-s-hound",
   title: "Imitation of Might: Iert, The Naga’s Hound",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

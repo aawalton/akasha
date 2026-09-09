@@ -5,6 +5,6 @@ export const iGrewWithEveryBite = {
   pageTypeSlug: "world-skill",
   slug: "i-grew-with-every-bite",
   title: "I Grew With Every Bite",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

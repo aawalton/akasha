@@ -5,6 +5,6 @@ export const hexOfMalignedAim = {
   pageTypeSlug: "world-skill",
   slug: "hex-of-maligned-aim",
   title: "Hex of Maligned Aim",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

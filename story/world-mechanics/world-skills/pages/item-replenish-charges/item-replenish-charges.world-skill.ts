@@ -5,6 +5,6 @@ export const itemReplenishCharges = {
   pageTypeSlug: "world-skill",
   slug: "item-replenish-charges",
   title: "Item: Replenish Charges",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

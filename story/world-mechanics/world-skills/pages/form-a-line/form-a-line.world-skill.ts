@@ -5,6 +5,6 @@ export const formALine = {
   pageTypeSlug: "world-skill",
   slug: "form-a-line",
   title: "Form a Line",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

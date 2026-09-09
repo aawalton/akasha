@@ -5,6 +5,6 @@ export const heScratchedOnlyThread = {
   pageTypeSlug: "world-skill",
   slug: "he-scratched-only-thread",
   title: "He Scratched Only Thread",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

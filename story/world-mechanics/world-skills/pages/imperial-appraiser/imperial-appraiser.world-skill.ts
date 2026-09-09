@@ -5,6 +5,6 @@ export const imperialAppraiser = {
   pageTypeSlug: "world-skill",
   slug: "imperial-appraiser",
   title: "Imperial Appraiser",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

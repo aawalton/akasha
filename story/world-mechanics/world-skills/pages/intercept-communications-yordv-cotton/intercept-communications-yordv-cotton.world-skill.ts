@@ -5,6 +5,6 @@ export const interceptCommunicationsYordvCotton = {
   pageTypeSlug: "world-skill",
   slug: "intercept-communications-yordv-cotton",
   title: "Intercept Communications: Yordv Cotton",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

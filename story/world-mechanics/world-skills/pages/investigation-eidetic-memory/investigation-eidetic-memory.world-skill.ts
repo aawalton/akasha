@@ -5,6 +5,6 @@ export const investigationEideticMemory = {
   pageTypeSlug: "world-skill",
   slug: "investigation-eidetic-memory",
   title: "Investigation: Eidetic Memory",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const identifyPerpetrator = {
   pageTypeSlug: "world-skill",
   slug: "identify-perpetrator",
   title: "Identify Perpetrator",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

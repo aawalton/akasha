@@ -5,6 +5,6 @@ export const increasedVelocityEarthMagic = {
   pageTypeSlug: "world-skill",
   slug: "increased-velocity-earth-magic",
   title: "Increased Velocity: Earth Magic",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

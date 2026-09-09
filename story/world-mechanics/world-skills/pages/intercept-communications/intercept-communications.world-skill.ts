@@ -5,6 +5,6 @@ export const interceptCommunications = {
   pageTypeSlug: "world-skill",
   slug: "intercept-communications",
   title: "Intercept Communications",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

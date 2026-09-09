@@ -5,6 +5,6 @@ export const ignoreRestrictionsMagnoliaSFees = {
   pageTypeSlug: "world-skill",
   slug: "ignore-restrictions-magnolia-s-fees",
   title: "Ignore Restrictions: Magnolia’s Fees",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const fullPowerBlow = {
   pageTypeSlug: "world-skill",
   slug: "full-power-blow",
   title: "Full Power Blow",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

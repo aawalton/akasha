@@ -5,6 +5,6 @@ export const ironshell = {
   pageTypeSlug: "world-skill",
   slug: "ironshell",
   title: "Ironshell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

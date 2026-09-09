@@ -5,6 +5,6 @@ export const hatTrickMinorArcana = {
   pageTypeSlug: "world-skill",
   slug: "hat-trick-minor-arcana",
   title: "Hat Trick (Minor Arcana)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

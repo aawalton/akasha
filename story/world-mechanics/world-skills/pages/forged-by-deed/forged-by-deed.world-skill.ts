@@ -5,6 +5,6 @@ export const forgedByDeed = {
   pageTypeSlug: "world-skill",
   slug: "forged-by-deed",
   title: "Forged By Deed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

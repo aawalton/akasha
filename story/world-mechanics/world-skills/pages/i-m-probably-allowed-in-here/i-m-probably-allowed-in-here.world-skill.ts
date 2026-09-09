@@ -5,6 +5,6 @@ export const iMProbablyAllowedInHere = {
   pageTypeSlug: "world-skill",
   slug: "i-m-probably-allowed-in-here",
   title: "I’m (Probably) Allowed in Here",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

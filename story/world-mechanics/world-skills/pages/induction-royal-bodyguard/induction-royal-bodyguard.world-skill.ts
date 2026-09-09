@@ -5,6 +5,6 @@ export const inductionRoyalBodyguard = {
   pageTypeSlug: "world-skill",
   slug: "induction-royal-bodyguard",
   title: "Induction: Royal Bodyguard",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

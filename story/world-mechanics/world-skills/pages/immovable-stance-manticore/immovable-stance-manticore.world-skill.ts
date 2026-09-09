@@ -5,6 +5,6 @@ export const immovableStanceManticore = {
   pageTypeSlug: "world-skill",
   slug: "immovable-stance-manticore",
   title: "Immovable Stance: Manticore",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

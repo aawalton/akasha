@@ -5,6 +5,6 @@ export const itemLocusOfConnection = {
   pageTypeSlug: "world-skill",
   slug: "item-locus-of-connection",
   title: "Item: Locus of Connection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

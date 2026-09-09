@@ -5,6 +5,6 @@ export const ignoredInsult = {
   pageTypeSlug: "world-skill",
   slug: "ignored-insult",
   title: "Ignored Insult",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

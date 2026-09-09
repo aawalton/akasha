@@ -5,6 +5,6 @@ export const formationAnchorsOfLead = {
   pageTypeSlug: "world-skill",
   slug: "formation-anchors-of-lead",
   title: "Formation: Anchors of Lead",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

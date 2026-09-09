@@ -5,6 +5,6 @@ export const forcedRemoval = {
   pageTypeSlug: "world-skill",
   slug: "forced-removal",
   title: "Forced Removal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

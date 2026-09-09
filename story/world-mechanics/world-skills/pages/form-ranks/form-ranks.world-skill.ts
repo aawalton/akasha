@@ -5,6 +5,6 @@ export const formRanks = {
   pageTypeSlug: "world-skill",
   slug: "form-ranks",
   title: "Form Ranks",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

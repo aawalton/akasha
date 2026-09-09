@@ -5,6 +5,6 @@ export const indirectHex = {
   pageTypeSlug: "world-skill",
   slug: "indirect-hex",
   title: "Indirect Hex",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

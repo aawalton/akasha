@@ -5,5 +5,5 @@ export const imperialAuraTrueManipulation = {
   pageTypeSlug: "world-skill",
   slug: "imperial-aura-true-manipulation",
   title: "Imperial Aura: True Manipulation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const fromMindAccurateSketch = {
   pageTypeSlug: "world-skill",
   slug: "from-mind-accurate-sketch",
   title: "From Mind, Accurate Sketch",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

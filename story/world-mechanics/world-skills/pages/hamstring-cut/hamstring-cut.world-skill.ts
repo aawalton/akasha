@@ -5,6 +5,6 @@ export const hamstringCut = {
   pageTypeSlug: "world-skill",
   slug: "hamstring-cut",
   title: "Hamstring Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

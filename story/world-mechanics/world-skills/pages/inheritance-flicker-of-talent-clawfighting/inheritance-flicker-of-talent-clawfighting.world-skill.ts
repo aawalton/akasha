@@ -5,6 +5,6 @@ export const inheritanceFlickerOfTalentClawfighting = {
   pageTypeSlug: "world-skill",
   slug: "inheritance-flicker-of-talent-clawfighting",
   title: "Inheritance: Flicker of Talent (Clawfighting)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

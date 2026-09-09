@@ -5,6 +5,6 @@ export const inspectionGoldCollected = {
   pageTypeSlug: "world-skill",
   slug: "inspection-gold-collected",
   title: "Inspection: Gold Collected",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

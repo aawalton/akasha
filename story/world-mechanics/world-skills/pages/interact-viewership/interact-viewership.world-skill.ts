@@ -5,6 +5,6 @@ export const interactViewership = {
   pageTypeSlug: "world-skill",
   slug: "interact-viewership",
   title: "Interact: Viewership",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

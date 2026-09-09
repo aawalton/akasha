@@ -5,6 +5,6 @@ export const immediateReply = {
   pageTypeSlug: "world-skill",
   slug: "immediate-reply",
   title: "Immediate Reply",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

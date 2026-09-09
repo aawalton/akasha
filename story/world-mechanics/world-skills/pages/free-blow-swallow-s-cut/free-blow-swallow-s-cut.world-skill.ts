@@ -5,6 +5,6 @@ export const freeBlowSwallowSCut = {
   pageTypeSlug: "world-skill",
   slug: "free-blow-swallow-s-cut",
   title: "Free Blow: Swallow’s Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

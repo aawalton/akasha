@@ -5,6 +5,6 @@ export const interceptMissive = {
   pageTypeSlug: "world-skill",
   slug: "intercept-missive",
   title: "Intercept Missive",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

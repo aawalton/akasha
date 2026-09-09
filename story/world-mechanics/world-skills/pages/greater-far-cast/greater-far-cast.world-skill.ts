@@ -5,6 +5,6 @@ export const greaterFarCast = {
   pageTypeSlug: "world-skill",
   slug: "greater-far-cast",
   title: "Greater Far Cast",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

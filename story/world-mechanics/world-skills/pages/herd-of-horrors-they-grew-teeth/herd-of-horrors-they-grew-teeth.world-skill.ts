@@ -5,6 +5,6 @@ export const herdOfHorrorsTheyGrewTeeth = {
   pageTypeSlug: "world-skill",
   slug: "herd-of-horrors-they-grew-teeth",
   title: "Herd of Horrors: They Grew Teeth",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

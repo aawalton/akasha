@@ -5,5 +5,5 @@ export const ifIKeepTalkingYouLlSeeItMyWay = {
   pageTypeSlug: "world-skill",
   slug: "if-i-keep-talking-you-ll-see-it-my-way",
   title: "If I Keep Talking You’ll See It My Way",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

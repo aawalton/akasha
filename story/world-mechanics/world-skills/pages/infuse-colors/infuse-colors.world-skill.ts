@@ -5,6 +5,6 @@ export const infuseColors = {
   pageTypeSlug: "world-skill",
   slug: "infuse-colors",
   title: "Infuse Colors",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

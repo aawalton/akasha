@@ -5,6 +5,6 @@ export const instantaneousRedirection = {
   pageTypeSlug: "world-skill",
   slug: "instantaneous-redirection",
   title: "Instantaneous Redirection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

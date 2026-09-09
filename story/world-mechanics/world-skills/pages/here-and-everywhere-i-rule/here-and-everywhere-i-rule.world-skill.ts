@@ -5,6 +5,6 @@ export const hereAndEverywhereIRule = {
   pageTypeSlug: "world-skill",
   slug: "here-and-everywhere-i-rule",
   title: "Here, And Everywhere I Rule",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

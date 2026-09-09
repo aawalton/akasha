@@ -5,6 +5,6 @@ export const healerSIntuitionBasic = {
   pageTypeSlug: "world-skill",
   slug: "healer-s-intuition-basic",
   title: "Healer’s Intuition (Basic)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

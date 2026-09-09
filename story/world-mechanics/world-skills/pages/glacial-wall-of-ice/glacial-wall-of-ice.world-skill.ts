@@ -5,6 +5,6 @@ export const glacialWallOfIce = {
   pageTypeSlug: "world-skill",
   slug: "glacial-wall-of-ice",
   title: "Glacial Wall of Ice",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const investigationFiveSensesMaximized = {
   pageTypeSlug: "world-skill",
   slug: "investigation-five-senses-maximized",
   title: "Investigation: Five Senses Maximized",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

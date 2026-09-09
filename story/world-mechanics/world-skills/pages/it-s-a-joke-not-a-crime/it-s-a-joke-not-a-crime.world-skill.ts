@@ -5,6 +5,6 @@ export const itSAJokeNotACrime = {
   pageTypeSlug: "world-skill",
   slug: "it-s-a-joke-not-a-crime",
   title: "It’s a Joke, Not a Crime",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

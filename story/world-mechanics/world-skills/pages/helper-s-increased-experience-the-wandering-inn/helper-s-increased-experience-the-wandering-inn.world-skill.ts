@@ -5,5 +5,5 @@ export const helperSIncreasedExperienceTheWanderingInn = {
   pageTypeSlug: "world-skill",
   slug: "helper-s-increased-experience-the-wandering-inn",
   title: "Helper’s Increased Experience (The Wandering Inn)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

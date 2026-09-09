@@ -5,6 +5,6 @@ export const friendsPrimalAwakening = {
   pageTypeSlug: "world-skill",
   slug: "friends-primal-awakening",
   title: "Friends: Primal Awakening",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

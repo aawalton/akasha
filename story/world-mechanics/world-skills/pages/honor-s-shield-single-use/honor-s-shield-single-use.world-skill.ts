@@ -5,6 +5,6 @@ export const honorSShieldSingleUse = {
   pageTypeSlug: "world-skill",
   slug: "honor-s-shield-single-use",
   title: "Honor’s Shield – Single Use",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
