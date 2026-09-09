@@ -134,6 +134,16 @@
       }
     },
     {
+      "includes": ["temper/**"],
+      "linter": {
+        "rules": {
+          "nursery": {
+            "noShadow": "off"
+          }
+        }
+      }
+    },
+    {
       "includes": ["pages/core/**"],
       "linter": {
         "rules": {
