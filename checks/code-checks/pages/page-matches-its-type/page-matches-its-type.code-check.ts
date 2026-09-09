@@ -5,7 +5,7 @@ export const pageMatchesItsType = {
   pageTypeSlug: "code-check",
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
-  partSlugs: ["module/entry-reasons"],
+  parts: ["module/entry-reasons"],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
