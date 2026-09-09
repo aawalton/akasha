@@ -7,7 +7,7 @@ export const arkendrithyst0505284Epilogue2GeorgeGetsASystem1669855 = {
   story: "story-read/arkendrithyst",
   position: 505,
   publishedAt: "2024-06-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1669855",
   source: "royal-road",
   title: "284 - Epilogue 2, George gets a System",

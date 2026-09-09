@@ -9,7 +9,7 @@ export const bewareOfChicken0021V4c13SiblingsInFailure = {
   position: 21,
   ownLength: 2875,
   ownProgress: 2875,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:03.057Z",
   publishedAt: "2023-06-07",
   externalLink:

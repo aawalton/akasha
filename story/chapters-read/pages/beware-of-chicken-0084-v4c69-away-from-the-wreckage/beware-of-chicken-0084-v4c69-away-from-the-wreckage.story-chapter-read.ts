@@ -9,7 +9,7 @@ export const bewareOfChicken0084V4c69AwayFromTheWreckage = {
   position: 84,
   ownLength: 2863,
   ownProgress: 2863,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:19.561Z",
   publishedAt: "2023-12-14",
   externalLink:

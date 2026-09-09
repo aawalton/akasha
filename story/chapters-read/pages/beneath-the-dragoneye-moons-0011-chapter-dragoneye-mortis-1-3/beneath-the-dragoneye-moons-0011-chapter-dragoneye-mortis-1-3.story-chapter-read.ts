@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0011ChapterDragoneyeMortis13 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 11,
   ownLength: 1880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/734766/chapter-dragoneye-mortis-13",

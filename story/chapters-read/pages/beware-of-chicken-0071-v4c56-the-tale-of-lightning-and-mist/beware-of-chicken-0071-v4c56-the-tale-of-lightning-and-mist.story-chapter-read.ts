@@ -9,7 +9,7 @@ export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist = {
   position: 71,
   ownLength: 4885,
   ownProgress: 4885,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:51.168Z",
   publishedAt: "2023-11-04",
   externalLink:

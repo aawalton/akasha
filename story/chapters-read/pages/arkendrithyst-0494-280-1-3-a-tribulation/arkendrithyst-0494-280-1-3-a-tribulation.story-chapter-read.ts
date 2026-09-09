@@ -9,7 +9,7 @@ export const arkendrithyst049428013ATribulation = {
   position: 494,
   ownLength: 7247,
   ownProgress: 7247,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:25:32.088Z",
   publishedAt: "2024-04-20",
   externalLink:

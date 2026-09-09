@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0016ChapterMeanwhileTheSidekicks = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 16,
   ownLength: 914,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1154408/chapter-meanwhile-the-sidekicks",

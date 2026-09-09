@@ -7,7 +7,7 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi656181 = {
   story: "story-read/azarinth-healer",
   position: 6,
   publishedAt: "2021-04-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "656181",
   source: "royal-road",
   title: "The Union of Dubious Dames II",

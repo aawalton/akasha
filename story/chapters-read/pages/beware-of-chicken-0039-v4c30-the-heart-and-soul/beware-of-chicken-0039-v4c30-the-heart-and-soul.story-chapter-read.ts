@@ -9,7 +9,7 @@ export const bewareOfChicken0039V4c30TheHeartAndSoul = {
   position: 39,
   ownLength: 1885,
   ownProgress: 1885,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:41.192Z",
   publishedAt: "2023-08-02",
   externalLink:

@@ -7,7 +7,7 @@ export const bewareOfChicken0090V4c74ToTheNorth1492805 = {
   story: "story-read/beware-of-chicken",
   position: 90,
   publishedAt: "2024-01-24",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1492805",
   source: "royal-road",
   title: "v4c74: To the North",

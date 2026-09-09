@@ -9,7 +9,7 @@ export const bewareOfChicken0067V4c52TheGrandMarshal = {
   position: 67,
   ownLength: 2277,
   ownProgress: 2277,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:41.767Z",
   publishedAt: "2023-10-26",
   externalLink:

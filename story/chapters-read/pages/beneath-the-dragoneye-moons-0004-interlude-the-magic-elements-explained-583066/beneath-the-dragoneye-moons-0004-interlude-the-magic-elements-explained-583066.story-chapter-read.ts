@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0004InterludeTheMagicElementsExplained58306
   story: "story-read/beneath-the-dragoneye-moons",
   position: 4,
   publishedAt: "2020-11-11",
-  unitSlug: "words",
+  unit: "words",
   externalId: "583066",
   source: "royal-road",
   title: "Interlude - The Magic Elements Explained!",

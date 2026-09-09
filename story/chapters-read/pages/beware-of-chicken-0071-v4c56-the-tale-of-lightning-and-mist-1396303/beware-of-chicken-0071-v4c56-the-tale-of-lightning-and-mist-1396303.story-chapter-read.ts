@@ -7,7 +7,7 @@ export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist1396303 = {
   story: "story-read/beware-of-chicken",
   position: 71,
   publishedAt: "2023-11-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1396303",
   source: "royal-road",
   title: "v4c56: The Tale of Lightning and Mist",

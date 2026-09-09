@@ -7,7 +7,7 @@ export const bewareOfChicken0015V4c9AFarmersSon = {
   story: "story-read/beware-of-chicken",
   position: 15,
   publishedAt: "2023-05-21",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1219827",
   source: "royal-road",
   title: "v4c9: A Farmer's Son",

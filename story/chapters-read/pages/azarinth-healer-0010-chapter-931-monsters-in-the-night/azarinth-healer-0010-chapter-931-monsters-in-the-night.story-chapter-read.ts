@@ -8,7 +8,7 @@ export const azarinthHealer0010Chapter931MonstersInTheNight = {
   story: "story-read/azarinth-healer",
   position: 10,
   ownLength: 2709,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1186510/chapter-931-monsters-in-the-night",

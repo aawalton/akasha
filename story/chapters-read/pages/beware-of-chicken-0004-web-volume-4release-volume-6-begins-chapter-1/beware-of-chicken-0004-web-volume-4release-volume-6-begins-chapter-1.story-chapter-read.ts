@@ -7,7 +7,7 @@ export const bewareOfChicken0004WebVolume4releaseVolume6BeginsChapter1 = {
   story: "story-read/beware-of-chicken",
   position: 4,
   publishedAt: "2023-04-17",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1183665",
   source: "royal-road",
   title: "WEB Volume 4/Release Volume 6 Begins: Chapter 1: Breakout, into the World",

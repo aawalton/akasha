@@ -7,7 +7,7 @@ export const bewareOfChicken0026V4c18LeaderOfTheNextGeneration1257104 = {
   story: "story-read/beware-of-chicken",
   position: 26,
   publishedAt: "2023-06-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1257104",
   source: "royal-road",
   title: "v4c18: Leader of the Next Generation",

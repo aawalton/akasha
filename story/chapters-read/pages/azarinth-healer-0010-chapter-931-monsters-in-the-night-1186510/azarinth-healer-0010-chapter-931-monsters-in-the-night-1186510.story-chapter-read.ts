@@ -7,7 +7,7 @@ export const azarinthHealer0010Chapter931MonstersInTheNight1186510 = {
   story: "story-read/azarinth-healer",
   position: 10,
   publishedAt: "2023-04-20",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1186510",
   source: "royal-road",
   title: "Chapter 931 Monsters in the night",

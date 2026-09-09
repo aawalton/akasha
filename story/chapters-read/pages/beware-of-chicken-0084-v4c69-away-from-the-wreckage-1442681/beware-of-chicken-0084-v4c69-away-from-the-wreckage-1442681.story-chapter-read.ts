@@ -7,7 +7,7 @@ export const bewareOfChicken0084V4c69AwayFromTheWreckage1442681 = {
   story: "story-read/beware-of-chicken",
   position: 84,
   publishedAt: "2023-12-14",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1442681",
   source: "royal-road",
   title: "v4c69: Away from the Wreckage",

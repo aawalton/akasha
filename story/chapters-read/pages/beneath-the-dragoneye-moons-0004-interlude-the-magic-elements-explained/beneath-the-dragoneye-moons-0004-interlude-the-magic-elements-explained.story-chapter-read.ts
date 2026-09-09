@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0004InterludeTheMagicElementsExplained = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 4,
   ownLength: 1392,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-11",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/583066/interlude-the-magic-elements-explained",

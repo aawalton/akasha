@@ -9,7 +9,7 @@ export const bewareOfChicken0037V4c28TheCapacityForIndependance = {
   position: 37,
   ownLength: 2549,
   ownProgress: 2549,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:37.140Z",
   publishedAt: "2023-07-29",
   externalLink:

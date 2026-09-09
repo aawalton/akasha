@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0001ImageGallery749352 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 1,
   publishedAt: "2021-09-12",
-  unitSlug: "words",
+  unit: "words",
   externalId: "749352",
   source: "royal-road",
   title: "Image Gallery!",

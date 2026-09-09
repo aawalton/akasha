@@ -8,7 +8,7 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic = {
   story: "story-read/azarinth-healer",
   position: 1,
   ownLength: 2487,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-02",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198097/chapter-1-boring-introduction-where-is-the-magic",

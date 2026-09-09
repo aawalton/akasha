@@ -7,7 +7,7 @@ export const azarinthHealer0021HeyAllBook5OfAzarinthHealerIsOutTodayOn = {
   story: "story-read/azarinth-healer",
   position: 21,
   publishedAt: "2025-04-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2241843",
   source: "royal-road",
   title: "Hey all! Book 5 of Azarinth Healer is out today on Audible, Kindle Unlimited, and ebook.",

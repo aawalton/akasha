@@ -9,7 +9,7 @@ export const bewareOfChicken0074V4c59Escalate = {
   position: 74,
   ownLength: 2358,
   ownProgress: 2358,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:57.537Z",
   publishedAt: "2023-11-13",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0053V4c40TheInquisition = {
   position: 53,
   ownLength: 2087,
   ownProgress: 2087,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:12.078Z",
   publishedAt: "2023-09-11",
   externalLink:

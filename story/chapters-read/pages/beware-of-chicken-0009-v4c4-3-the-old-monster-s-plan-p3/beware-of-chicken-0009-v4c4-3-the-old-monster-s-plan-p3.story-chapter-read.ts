@@ -9,7 +9,7 @@ export const bewareOfChicken0009V4c43TheOldMonsterSPlanP3 = {
   position: 9,
   ownLength: 2739,
   ownProgress: 2739,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:36.761Z",
   publishedAt: "2023-04-30",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0095V4c78ReapingAHarvest = {
   position: 95,
   ownLength: 2339,
   ownProgress: 2339,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:42.673Z",
   publishedAt: "2024-02-07",
   externalLink:

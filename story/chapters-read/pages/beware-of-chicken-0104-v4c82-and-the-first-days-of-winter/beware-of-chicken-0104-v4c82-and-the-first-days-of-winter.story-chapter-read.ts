@@ -9,7 +9,7 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter = {
   position: 104,
   ownLength: 2535,
   ownProgress: 2535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:03.588Z",
   publishedAt: "2024-03-10",
   externalLink:

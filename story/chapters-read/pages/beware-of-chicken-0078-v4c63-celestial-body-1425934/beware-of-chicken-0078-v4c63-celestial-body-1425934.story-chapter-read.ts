@@ -7,7 +7,7 @@ export const bewareOfChicken0078V4c63CelestialBody1425934 = {
   story: "story-read/beware-of-chicken",
   position: 78,
   publishedAt: "2023-11-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1425934",
   source: "royal-road",
   title: "v4c63: Celestial Body",

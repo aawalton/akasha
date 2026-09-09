@@ -7,7 +7,7 @@ export const bewareOfChicken0107V5c2TheStrongestTechnique1639444 = {
   story: "story-read/beware-of-chicken",
   position: 107,
   publishedAt: "2024-05-17",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1639444",
   source: "royal-road",
   title: "v5c2: The Strongest Technique",

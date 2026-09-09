@@ -9,7 +9,7 @@ export const bewareOfChicken0047V4c35TheGrassSeaCastleCrashers = {
   position: 47,
   ownLength: 3748,
   ownProgress: 3748,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:58.476Z",
   publishedAt: "2023-08-28",
   externalLink:

@@ -7,7 +7,7 @@ export const azarinthHealer0020Chapter936TheNextSteps2240984 = {
   story: "story-read/azarinth-healer",
   position: 20,
   publishedAt: "2025-04-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2240984",
   source: "royal-road",
   title: "Chapter 936 The next steps",

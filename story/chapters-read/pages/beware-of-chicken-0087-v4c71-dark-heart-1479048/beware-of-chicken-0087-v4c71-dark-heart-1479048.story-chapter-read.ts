@@ -7,7 +7,7 @@ export const bewareOfChicken0087V4c71DarkHeart1479048 = {
   story: "story-read/beware-of-chicken",
   position: 87,
   publishedAt: "2024-01-16",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1479048",
   source: "royal-road",
   title: "v4c71: Dark Heart",

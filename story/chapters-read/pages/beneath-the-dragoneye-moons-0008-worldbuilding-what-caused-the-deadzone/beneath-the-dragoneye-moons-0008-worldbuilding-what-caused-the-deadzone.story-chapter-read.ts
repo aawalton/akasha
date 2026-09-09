@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,
   ownLength: 411,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/731474/worldbuilding-what-caused-the-deadzone",

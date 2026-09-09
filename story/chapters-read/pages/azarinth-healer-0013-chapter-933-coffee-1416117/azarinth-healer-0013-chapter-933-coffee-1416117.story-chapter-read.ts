@@ -7,7 +7,7 @@ export const azarinthHealer0013Chapter933Coffee1416117 = {
   story: "story-read/azarinth-healer",
   position: 13,
   publishedAt: "2023-11-20",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1416117",
   source: "royal-road",
   title: "Chapter 933 Coffee",

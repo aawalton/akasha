@@ -7,7 +7,7 @@ export const azarinthHealer0018AzarinthHealerBook4OutOnKindleebook = {
   story: "story-read/azarinth-healer",
   position: 18,
   publishedAt: "2024-08-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1779528",
   source: "royal-road",
   title: "Azarinth Healer - Book 4 out on Kindle/ebook",

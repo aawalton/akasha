@@ -9,7 +9,7 @@ export const arkendrithyst0497281ATransition = {
   position: 497,
   ownLength: 8047,
   ownProgress: 8047,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:25:38.596Z",
   publishedAt: "2024-04-20",
   externalLink:

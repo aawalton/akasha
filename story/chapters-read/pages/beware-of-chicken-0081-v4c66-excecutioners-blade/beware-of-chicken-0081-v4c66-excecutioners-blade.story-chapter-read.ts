@@ -7,7 +7,7 @@ export const bewareOfChicken0081V4c66ExcecutionersBlade = {
   story: "story-read/beware-of-chicken",
   position: 81,
   publishedAt: "2023-12-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1433996",
   source: "royal-road",
   title: "v4c66: Excecutioner's Blade",

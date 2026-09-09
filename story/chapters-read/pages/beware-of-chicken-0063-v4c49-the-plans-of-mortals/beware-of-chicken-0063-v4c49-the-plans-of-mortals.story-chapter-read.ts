@@ -9,7 +9,7 @@ export const bewareOfChicken0063V4c49ThePlansOfMortals = {
   position: 63,
   ownLength: 2000,
   ownProgress: 2000,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:33.188Z",
   publishedAt: "2023-10-17",
   externalLink:

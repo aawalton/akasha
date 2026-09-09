@@ -9,7 +9,7 @@ export const bewareOfChicken0045V4c33TheTyrantOrTheGuardianPart2 = {
   position: 45,
   ownLength: 2861,
   ownProgress: 2861,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:53.979Z",
   publishedAt: "2023-08-22",
   externalLink:

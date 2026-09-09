@@ -7,7 +7,7 @@ export const bewareOfChicken0057V4c44APickledPrank1354736 = {
   story: "story-read/beware-of-chicken",
   position: 57,
   publishedAt: "2023-09-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1354736",
   source: "royal-road",
   title: "v4c44: A Pickled Prank",

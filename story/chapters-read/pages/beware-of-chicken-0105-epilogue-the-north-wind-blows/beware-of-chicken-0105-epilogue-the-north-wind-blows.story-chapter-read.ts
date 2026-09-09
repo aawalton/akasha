@@ -9,7 +9,7 @@ export const bewareOfChicken0105EpilogueTheNorthWindBlows = {
   position: 105,
   ownLength: 3385,
   ownProgress: 3385,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:05.681Z",
   publishedAt: "2024-03-12",
   externalLink:

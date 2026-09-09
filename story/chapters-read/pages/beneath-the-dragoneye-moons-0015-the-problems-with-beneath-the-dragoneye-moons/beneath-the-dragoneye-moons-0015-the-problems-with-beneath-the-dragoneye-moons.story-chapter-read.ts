@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0015TheProblemsWithBeneathTheDragoneyeMoons
   story: "story-read/beneath-the-dragoneye-moons",
   position: 15,
   ownLength: 1395,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/941664/the-problems-with-beneath-the-dragoneye-moons",

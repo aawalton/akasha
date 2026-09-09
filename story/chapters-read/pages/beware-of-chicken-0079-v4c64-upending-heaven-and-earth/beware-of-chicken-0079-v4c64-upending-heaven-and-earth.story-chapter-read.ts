@@ -9,7 +9,7 @@ export const bewareOfChicken0079V4c64UpendingHeavenAndEarth = {
   position: 79,
   ownLength: 1962,
   ownProgress: 1962,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:08.173Z",
   publishedAt: "2023-12-02",
   externalLink:

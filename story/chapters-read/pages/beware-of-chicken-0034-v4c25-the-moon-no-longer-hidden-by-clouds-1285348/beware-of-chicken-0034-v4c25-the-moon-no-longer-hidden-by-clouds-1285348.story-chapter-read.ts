@@ -7,7 +7,7 @@ export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds1285348 = {
   story: "story-read/beware-of-chicken",
   position: 34,
   publishedAt: "2023-07-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1285348",
   source: "royal-road",
   title: "v4c25: The Moon, no Longer Hidden By Clouds",

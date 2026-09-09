@@ -9,7 +9,7 @@ export const bewareOfChicken0004WebVolume4ReleaseVolume6BeginsChapter1BreakoutIn
   position: 4,
   ownLength: 3155,
   ownProgress: 3155,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:26.455Z",
   publishedAt: "2023-04-17",
   externalLink:

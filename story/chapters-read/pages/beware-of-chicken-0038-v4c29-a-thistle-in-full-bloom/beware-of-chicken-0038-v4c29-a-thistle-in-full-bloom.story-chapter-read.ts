@@ -9,7 +9,7 @@ export const bewareOfChicken0038V4c29AThistleInFullBloom = {
   position: 38,
   ownLength: 1776,
   ownProgress: 1776,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:39.152Z",
   publishedAt: "2023-07-31",
   externalLink:

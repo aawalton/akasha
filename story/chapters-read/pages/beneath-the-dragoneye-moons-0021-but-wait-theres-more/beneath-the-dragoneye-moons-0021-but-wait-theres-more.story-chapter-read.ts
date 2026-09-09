@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0021ButWaitTheresMore = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 21,
   publishedAt: "2025-08-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2546951",
   source: "royal-road",
   title: "But wait! There's MORE",

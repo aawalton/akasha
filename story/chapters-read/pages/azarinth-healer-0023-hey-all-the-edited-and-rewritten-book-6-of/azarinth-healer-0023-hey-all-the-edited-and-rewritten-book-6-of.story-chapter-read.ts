@@ -7,7 +7,7 @@ export const azarinthHealer0023HeyAllTheEditedAndRewrittenBook6Of = {
   story: "story-read/azarinth-healer",
   position: 23,
   publishedAt: "2026-02-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3012772",
   source: "royal-road",
   title:

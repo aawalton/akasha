@@ -7,7 +7,7 @@ export const bewareOfChicken0098InterludeInheritanceOfRaggedLeaves1528881 = {
   story: "story-read/beware-of-chicken",
   position: 98,
   publishedAt: "2024-02-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1528881",
   source: "royal-road",
   title: "Interlude: Inheritance of Ragged Leaves",

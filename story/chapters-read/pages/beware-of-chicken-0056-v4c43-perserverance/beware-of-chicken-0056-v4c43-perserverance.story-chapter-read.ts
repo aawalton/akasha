@@ -9,7 +9,7 @@ export const bewareOfChicken0056V4c43Perserverance = {
   position: 56,
   ownLength: 3723,
   ownProgress: 3723,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:18.218Z",
   publishedAt: "2023-09-23",
   externalLink:

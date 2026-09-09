@@ -7,7 +7,7 @@ export const bewareOfChicken0010V4c5AcrossTheFace1200675 = {
   story: "story-read/beware-of-chicken",
   position: 10,
   publishedAt: "2023-05-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1200675",
   source: "royal-road",
   title: "v4c5: Across the Face",

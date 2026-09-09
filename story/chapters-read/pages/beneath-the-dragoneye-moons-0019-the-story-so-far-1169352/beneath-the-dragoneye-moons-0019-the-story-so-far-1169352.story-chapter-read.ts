@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0019TheStorySoFar1169352 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 19,
   publishedAt: "2023-04-14",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1169352",
   source: "royal-road",
   title: "The story so far",

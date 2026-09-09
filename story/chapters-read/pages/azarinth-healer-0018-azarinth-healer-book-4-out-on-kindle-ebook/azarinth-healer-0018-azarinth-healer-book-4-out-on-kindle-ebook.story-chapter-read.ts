@@ -8,7 +8,7 @@ export const azarinthHealer0018AzarinthHealerBook4OutOnKindleEbook = {
   story: "story-read/azarinth-healer",
   position: 18,
   ownLength: 3,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1779528/azarinth-healer-book-4-out-on-kindleebook",

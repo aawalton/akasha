@@ -9,7 +9,7 @@ export const bewareOfChicken0023V4c15TheArtOfTheDeal = {
   position: 23,
   ownLength: 1529,
   ownProgress: 1529,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:07.428Z",
   publishedAt: "2023-06-12",
   externalLink:

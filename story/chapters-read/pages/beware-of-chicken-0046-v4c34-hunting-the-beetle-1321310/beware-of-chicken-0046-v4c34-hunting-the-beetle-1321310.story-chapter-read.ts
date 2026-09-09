@@ -7,7 +7,7 @@ export const bewareOfChicken0046V4c34HuntingTheBeetle1321310 = {
   story: "story-read/beware-of-chicken",
   position: 46,
   publishedAt: "2023-08-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1321310",
   source: "royal-road",
   title: "v4c34: Hunting the Beetle",

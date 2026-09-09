@@ -7,7 +7,7 @@ export const bewareOfChicken0047V4c35TheGrassSeaCastleCrashers1324390 = {
   story: "story-read/beware-of-chicken",
   position: 47,
   publishedAt: "2023-08-28",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1324390",
   source: "royal-road",
   title: "v4c35: The Grass Sea Castle Crashers",

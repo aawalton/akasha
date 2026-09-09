@@ -9,7 +9,7 @@ export const bewareOfChicken0069V4c54CrabsInABucket = {
   position: 69,
   ownLength: 2514,
   ownProgress: 2514,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:46.067Z",
   publishedAt: "2023-10-31",
   externalLink:

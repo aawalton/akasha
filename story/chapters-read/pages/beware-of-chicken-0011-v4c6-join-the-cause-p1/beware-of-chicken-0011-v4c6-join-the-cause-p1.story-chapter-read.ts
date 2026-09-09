@@ -9,7 +9,7 @@ export const bewareOfChicken0011V4c6JoinTheCauseP1 = {
   position: 11,
   ownLength: 2411,
   ownProgress: 2411,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:41.076Z",
   publishedAt: "2023-05-05",
   externalLink:

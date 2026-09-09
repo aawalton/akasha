@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 18,
   ownLength: 258,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-15",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1374936/btdem-crossover-artwork",

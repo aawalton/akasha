@@ -7,7 +7,7 @@ export const bewareOfChicken0002Chapter2RiceFarming101614571 = {
   story: "story-read/beware-of-chicken",
   position: 2,
   publishedAt: "2021-01-14",
-  unitSlug: "words",
+  unit: "words",
   externalId: "614571",
   source: "royal-road",
   title: "Chapter 2: Rice Farming 101",

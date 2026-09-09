@@ -9,7 +9,7 @@ export const bewareOfChicken0035V4c26TheMountaineerAndTheCraftsman = {
   position: 35,
   ownLength: 2850,
   ownProgress: 2850,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:32.777Z",
   publishedAt: "2023-07-24",
   externalLink:

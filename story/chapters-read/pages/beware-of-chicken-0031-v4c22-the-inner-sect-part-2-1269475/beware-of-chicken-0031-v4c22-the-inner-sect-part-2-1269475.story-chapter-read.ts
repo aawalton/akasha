@@ -7,7 +7,7 @@ export const bewareOfChicken0031V4c22TheInnerSectPart21269475 = {
   story: "story-read/beware-of-chicken",
   position: 31,
   publishedAt: "2023-07-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1269475",
   source: "royal-road",
   title: "v4c22: The Inner Sect part 2",

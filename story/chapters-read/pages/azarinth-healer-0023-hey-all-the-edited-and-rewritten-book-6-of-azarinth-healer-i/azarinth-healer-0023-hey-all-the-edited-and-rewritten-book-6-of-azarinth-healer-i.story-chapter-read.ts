@@ -9,7 +9,7 @@ export const azarinthHealer0023HeyAllTheEditedAndRewrittenBook6OfAzarinthHealerI
   story: "story-read/azarinth-healer",
   position: 23,
   ownLength: 111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3012772/hey-all-the-edited-and-rewritten-book-6-of-azarinth",

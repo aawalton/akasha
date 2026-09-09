@@ -7,7 +7,7 @@ export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon1347406 = {
   story: "story-read/beware-of-chicken",
   position: 54,
   publishedAt: "2023-09-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1347406",
   source: "royal-road",
   title: "v4c41: The Rumbling on the Horizon",

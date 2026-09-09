@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork1374936 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 18,
   publishedAt: "2023-10-15",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1374936",
   source: "royal-road",
   title: "BTDEM Crossover Artwork!",

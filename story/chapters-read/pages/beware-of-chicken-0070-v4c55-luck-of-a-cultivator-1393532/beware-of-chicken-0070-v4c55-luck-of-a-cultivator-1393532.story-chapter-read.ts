@@ -7,7 +7,7 @@ export const bewareOfChicken0070V4c55LuckOfACultivator1393532 = {
   story: "story-read/beware-of-chicken",
   position: 70,
   publishedAt: "2023-11-02",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1393532",
   source: "royal-road",
   title: "v4c55: Luck of a Cultivator",

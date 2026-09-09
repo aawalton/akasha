@@ -9,7 +9,7 @@ export const bewareOfChicken0066V4c51ThoseWhoCanBeReforged = {
   position: 66,
   ownLength: 1798,
   ownProgress: 1798,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:39.672Z",
   publishedAt: "2023-10-24",
   externalLink:

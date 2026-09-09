@@ -7,7 +7,7 @@ export const azarinthHealer0016NotAChapterUpdateOnTheStoryserialized = {
   story: "story-read/azarinth-healer",
   position: 16,
   publishedAt: "2023-12-31",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1460641",
   source: "royal-road",
   title: "Not a chapter - Update on the story/serialized version",

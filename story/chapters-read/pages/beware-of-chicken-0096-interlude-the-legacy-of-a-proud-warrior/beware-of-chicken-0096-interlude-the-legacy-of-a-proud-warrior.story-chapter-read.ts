@@ -9,7 +9,7 @@ export const bewareOfChicken0096InterludeTheLegacyOfAProudWarrior = {
   position: 96,
   ownLength: 1919,
   ownProgress: 1919,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:44.630Z",
   publishedAt: "2024-02-09",
   externalLink:

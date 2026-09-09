@@ -7,7 +7,7 @@ export const bewareOfChicken0103V4c812LastDaysOfFallPart2 = {
   story: "story-read/beware-of-chicken",
   position: 103,
   publishedAt: "2024-03-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1544681",
   source: "royal-road",
   title: "v4c81.2: Last Days of Fall part 2",

@@ -9,7 +9,7 @@ export const bewareOfChicken0098InterludeInheritanceOfRaggedLeaves = {
   position: 98,
   ownLength: 1565,
   ownProgress: 1565,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:50.488Z",
   publishedAt: "2024-02-23",
   externalLink:

@@ -7,7 +7,7 @@ export const bewareOfChicken0032V4c23Noticed1272349 = {
   story: "story-read/beware-of-chicken",
   position: 32,
   publishedAt: "2023-07-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1272349",
   source: "royal-road",
   title: "v4c23: Noticed",

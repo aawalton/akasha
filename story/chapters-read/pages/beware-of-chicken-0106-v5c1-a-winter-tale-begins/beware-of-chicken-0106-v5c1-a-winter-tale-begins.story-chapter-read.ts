@@ -9,7 +9,7 @@ export const bewareOfChicken0106V5c1AWinterTaleBegins = {
   position: 106,
   ownLength: 2810,
   ownProgress: 2810,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:07.662Z",
   publishedAt: "2024-05-14",
   externalLink:

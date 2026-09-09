@@ -7,7 +7,7 @@ export const bewareOfChicken0068V4c53HealingIsAJourney1388990 = {
   story: "story-read/beware-of-chicken",
   position: 68,
   publishedAt: "2023-10-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1388990",
   source: "royal-road",
   title: "v4c53: Healing is a Journey",

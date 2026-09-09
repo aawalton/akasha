@@ -9,7 +9,7 @@ export const bewareOfChicken0087V4c71DarkHeart = {
   position: 87,
   ownLength: 2900,
   ownProgress: 2900,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:26.013Z",
   publishedAt: "2024-01-16",
   externalLink:

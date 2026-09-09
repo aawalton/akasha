@@ -9,7 +9,7 @@ export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
   position: 97,
   ownLength: 1985,
   ownProgress: 1985,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:46.625Z",
   publishedAt: "2024-02-20",
   externalLink:

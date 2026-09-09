@@ -7,7 +7,7 @@ export const bewareOfChicken0076V4c61APowerfulCharm1421464 = {
   story: "story-read/beware-of-chicken",
   position: 76,
   publishedAt: "2023-11-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1421464",
   source: "royal-road",
   title: "v4c61: A Powerful Charm",

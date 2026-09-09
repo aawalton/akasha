@@ -7,7 +7,7 @@ export const bewareOfChicken0044V4c33TheTyrantOrTheGuardianPart11309703 = {
   story: "story-read/beware-of-chicken",
   position: 44,
   publishedAt: "2023-08-14",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1309703",
   source: "royal-road",
   title: "v4c33: The Tyrant or the Guardian part 1",

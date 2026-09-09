@@ -9,7 +9,7 @@ export const bewareOfChicken0033V4c24TheFoxTrap = {
   position: 33,
   ownLength: 1890,
   ownProgress: 1890,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:28.492Z",
   publishedAt: "2023-07-18",
   externalLink:

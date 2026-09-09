@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0014ChapterTheWish1 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 14,
   ownLength: 2309,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/875405/chapter-the-wish-1",

@@ -8,7 +8,7 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyToVeresavirCheck
   story: "story-read/azarinth-healer",
   position: 22,
   ownLength: 131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-25",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2704677/my-new-story-is-out-on-royalroad-journey-to-veresavir",

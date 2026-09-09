@@ -7,7 +7,7 @@ export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask1486686 = {
   story: "story-read/beware-of-chicken",
   position: 88,
   publishedAt: "2024-01-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1486686",
   source: "royal-road",
   title: "v4c72: Relfections and One Last Task",

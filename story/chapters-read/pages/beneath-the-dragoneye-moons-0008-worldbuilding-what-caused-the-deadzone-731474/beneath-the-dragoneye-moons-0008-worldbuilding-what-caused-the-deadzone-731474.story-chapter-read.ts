@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone73147
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,
   publishedAt: "2021-08-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "731474",
   source: "royal-road",
   title: "Worldbuilding - What caused the deadzone?",

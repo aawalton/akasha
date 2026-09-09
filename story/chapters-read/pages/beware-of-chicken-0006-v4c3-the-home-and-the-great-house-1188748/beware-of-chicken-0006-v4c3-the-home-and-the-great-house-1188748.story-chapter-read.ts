@@ -7,7 +7,7 @@ export const bewareOfChicken0006V4c3TheHomeAndTheGreatHouse1188748 = {
   story: "story-read/beware-of-chicken",
   position: 6,
   publishedAt: "2023-04-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1188748",
   source: "royal-road",
   title: "v4c3: The Home, and The Great House",

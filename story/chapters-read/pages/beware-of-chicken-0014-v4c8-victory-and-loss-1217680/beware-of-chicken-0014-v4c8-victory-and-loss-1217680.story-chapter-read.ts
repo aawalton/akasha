@@ -7,7 +7,7 @@ export const bewareOfChicken0014V4c8VictoryAndLoss1217680 = {
   story: "story-read/beware-of-chicken",
   position: 14,
   publishedAt: "2023-05-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1217680",
   source: "royal-road",
   title: "v4c8: Victory and Loss",

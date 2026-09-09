@@ -8,7 +8,7 @@ export const azarinthHealer0017Chapter935Legend = {
   story: "story-read/azarinth-healer",
   position: 17,
   ownLength: 3789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1779187/chapter-935-legend",

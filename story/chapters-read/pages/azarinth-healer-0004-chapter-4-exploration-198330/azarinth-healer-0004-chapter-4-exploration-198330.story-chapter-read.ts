@@ -7,7 +7,7 @@ export const azarinthHealer0004Chapter4Exploration198330 = {
   story: "story-read/azarinth-healer",
   position: 4,
   publishedAt: "2018-03-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "198330",
   source: "royal-road",
   title: "Chapter 4 Exploration",

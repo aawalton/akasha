@@ -9,7 +9,7 @@ export const arkendrithyst0504283Epilogue1AReturn = {
   position: 504,
   ownLength: 17578,
   ownProgress: 17578,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:25:54.505Z",
   publishedAt: "2024-05-26",
   externalLink:

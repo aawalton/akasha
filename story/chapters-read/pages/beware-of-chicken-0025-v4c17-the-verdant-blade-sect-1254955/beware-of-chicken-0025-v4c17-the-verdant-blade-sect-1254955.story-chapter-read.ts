@@ -7,7 +7,7 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect1254955 = {
   story: "story-read/beware-of-chicken",
   position: 25,
   publishedAt: "2023-06-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1254955",
   source: "royal-road",
   title: "v4c17: The Verdant Blade Sect",

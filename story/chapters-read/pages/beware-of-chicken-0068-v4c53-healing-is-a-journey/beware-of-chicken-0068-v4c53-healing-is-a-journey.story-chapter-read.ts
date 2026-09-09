@@ -9,7 +9,7 @@ export const bewareOfChicken0068V4c53HealingIsAJourney = {
   position: 68,
   ownLength: 1865,
   ownProgress: 1865,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:43.879Z",
   publishedAt: "2023-10-29",
   externalLink:

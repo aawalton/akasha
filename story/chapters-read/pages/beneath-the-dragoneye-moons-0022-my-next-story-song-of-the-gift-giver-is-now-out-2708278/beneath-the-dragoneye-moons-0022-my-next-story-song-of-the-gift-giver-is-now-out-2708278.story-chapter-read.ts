@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut27
   story: "story-read/beneath-the-dragoneye-moons",
   position: 22,
   publishedAt: "2025-10-27",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2708278",
   source: "royal-road",
   title: "My next story, Song of the Gift-Giver, is now out!",

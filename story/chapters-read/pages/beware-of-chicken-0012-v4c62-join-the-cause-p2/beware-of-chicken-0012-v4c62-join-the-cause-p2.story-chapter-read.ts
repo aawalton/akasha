@@ -7,7 +7,7 @@ export const bewareOfChicken0012V4c62JoinTheCauseP2 = {
   story: "story-read/beware-of-chicken",
   position: 12,
   publishedAt: "2023-05-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1206014",
   source: "royal-road",
   title: "v4c6.2: Join the Cause p2",

@@ -9,7 +9,7 @@ export const bewareOfChicken0062V4c48TheChildrenOfTianlan = {
   position: 62,
   ownLength: 3029,
   ownProgress: 3029,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:30.607Z",
   publishedAt: "2023-10-08",
   externalLink:

@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0002Dedication = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 117,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/765885/dedication",

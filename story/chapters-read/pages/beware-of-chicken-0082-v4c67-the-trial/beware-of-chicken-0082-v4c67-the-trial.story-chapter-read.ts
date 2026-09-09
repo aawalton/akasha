@@ -9,7 +9,7 @@ export const bewareOfChicken0082V4c67TheTrial = {
   position: 82,
   ownLength: 2323,
   ownProgress: 2323,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:14.451Z",
   publishedAt: "2023-12-08",
   externalLink:

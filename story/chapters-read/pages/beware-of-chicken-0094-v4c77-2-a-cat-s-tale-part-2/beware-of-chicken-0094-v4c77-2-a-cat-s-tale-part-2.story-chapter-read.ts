@@ -9,7 +9,7 @@ export const bewareOfChicken0094V4c772ACatSTalePart2 = {
   position: 94,
   ownLength: 1961,
   ownProgress: 1961,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:40.558Z",
   publishedAt: "2024-02-04",
   externalLink:

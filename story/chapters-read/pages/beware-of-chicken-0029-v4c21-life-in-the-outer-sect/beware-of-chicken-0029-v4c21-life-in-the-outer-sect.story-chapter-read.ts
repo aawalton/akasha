@@ -9,7 +9,7 @@ export const bewareOfChicken0029V4c21LifeInTheOuterSect = {
   position: 29,
   ownLength: 2955,
   ownProgress: 2955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:19.996Z",
   publishedAt: "2023-07-02",
   externalLink:

@@ -7,7 +7,7 @@ export const bewareOfChicken0094V4c772ACatsTalePart2 = {
   story: "story-read/beware-of-chicken",
   position: 94,
   publishedAt: "2024-02-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1505901",
   source: "royal-road",
   title: "v4c77.2: A Cat's Tale Part 2",

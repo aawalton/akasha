@@ -9,7 +9,7 @@ export const bewareOfChicken0016V4c10Boundaries = {
   position: 16,
   ownLength: 1753,
   ownProgress: 1753,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:52.127Z",
   publishedAt: "2023-05-23",
   externalLink:

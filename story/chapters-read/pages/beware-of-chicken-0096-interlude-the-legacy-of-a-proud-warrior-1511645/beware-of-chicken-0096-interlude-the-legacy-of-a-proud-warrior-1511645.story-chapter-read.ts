@@ -7,7 +7,7 @@ export const bewareOfChicken0096InterludeTheLegacyOfAProudWarrior1511645 = {
   story: "story-read/beware-of-chicken",
   position: 96,
   publishedAt: "2024-02-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1511645",
   source: "royal-road",
   title: "Interlude: The Legacy of a Proud Warrior",

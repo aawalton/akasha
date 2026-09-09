@@ -9,7 +9,7 @@ export const bewareOfChicken0103V4c812LastDaysOfFallPart2 = {
   position: 103,
   ownLength: 2035,
   ownProgress: 2035,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:01.370Z",
   publishedAt: "2024-03-07",
   externalLink:

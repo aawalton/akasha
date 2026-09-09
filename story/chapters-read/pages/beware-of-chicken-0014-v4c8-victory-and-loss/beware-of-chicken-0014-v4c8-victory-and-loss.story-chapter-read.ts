@@ -9,7 +9,7 @@ export const bewareOfChicken0014V4c8VictoryAndLoss = {
   position: 14,
   ownLength: 2839,
   ownProgress: 2839,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:48.051Z",
   publishedAt: "2023-05-19",
   externalLink:

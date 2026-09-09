@@ -7,7 +7,7 @@ export const bewareOfChicken0036V4c27TheLifeBefore1289463 = {
   story: "story-read/beware-of-chicken",
   position: 36,
   publishedAt: "2023-07-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1289463",
   source: "royal-road",
   title: "v4c27: The Life Before",

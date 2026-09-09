@@ -7,7 +7,7 @@ export const bewareOfChicken0061V4c47ArrivalAtThePeaks1364979 = {
   story: "story-read/beware-of-chicken",
   position: 61,
   publishedAt: "2023-10-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1364979",
   source: "royal-road",
   title: "v4c47: Arrival at the Peaks",

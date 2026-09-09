@@ -7,7 +7,7 @@ export const azarinthHealer0019AzarinthBook4IsOutOnAudibleToday1917942 = {
   story: "story-read/azarinth-healer",
   position: 19,
   publishedAt: "2024-11-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1917942",
   source: "royal-road",
   title: "Azarinth Book 4 is out on audible today!",

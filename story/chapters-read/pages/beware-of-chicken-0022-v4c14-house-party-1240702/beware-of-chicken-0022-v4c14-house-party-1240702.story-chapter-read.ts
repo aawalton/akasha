@@ -7,7 +7,7 @@ export const bewareOfChicken0022V4c14HouseParty1240702 = {
   story: "story-read/beware-of-chicken",
   position: 22,
   publishedAt: "2023-06-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1240702",
   source: "royal-road",
   title: "v4c14: House Party",

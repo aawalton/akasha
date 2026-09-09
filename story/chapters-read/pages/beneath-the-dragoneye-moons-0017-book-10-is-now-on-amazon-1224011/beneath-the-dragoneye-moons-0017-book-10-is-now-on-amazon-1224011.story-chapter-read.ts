@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon1224011 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 17,
   publishedAt: "2023-05-24",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1224011",
   source: "royal-road",
   title: "Book 10 is now on Amazon!",

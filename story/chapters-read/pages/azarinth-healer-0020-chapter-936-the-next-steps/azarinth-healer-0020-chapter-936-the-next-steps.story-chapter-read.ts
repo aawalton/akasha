@@ -8,7 +8,7 @@ export const azarinthHealer0020Chapter936TheNextSteps = {
   story: "story-read/azarinth-healer",
   position: 20,
   ownLength: 3208,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2240984/chapter-936-the-next-steps",

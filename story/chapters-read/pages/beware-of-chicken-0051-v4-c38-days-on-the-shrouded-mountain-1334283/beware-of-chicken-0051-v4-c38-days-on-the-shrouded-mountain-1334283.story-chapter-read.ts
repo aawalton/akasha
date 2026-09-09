@@ -7,7 +7,7 @@ export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain1334283 = {
   story: "story-read/beware-of-chicken",
   position: 51,
   publishedAt: "2023-09-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1334283",
   source: "royal-road",
   title: "v4 c38: Days on the Shrouded Mountain",

@@ -9,7 +9,7 @@ export const bewareOfChicken0077V4c62TheTournamentArcCurse = {
   position: 77,
   ownLength: 2175,
   ownProgress: 2175,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:03.959Z",
   publishedAt: "2023-11-27",
   externalLink:

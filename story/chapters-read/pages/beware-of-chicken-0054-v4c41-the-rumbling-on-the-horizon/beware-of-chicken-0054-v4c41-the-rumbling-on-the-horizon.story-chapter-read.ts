@@ -9,7 +9,7 @@ export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon = {
   position: 54,
   ownLength: 2428,
   ownProgress: 2428,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:14.168Z",
   publishedAt: "2023-09-19",
   externalLink:

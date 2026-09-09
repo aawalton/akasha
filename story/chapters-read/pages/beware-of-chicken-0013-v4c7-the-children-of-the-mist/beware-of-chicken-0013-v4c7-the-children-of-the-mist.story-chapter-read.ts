@@ -9,7 +9,7 @@ export const bewareOfChicken0013V4c7TheChildrenOfTheMist = {
   position: 13,
   ownLength: 2406,
   ownProgress: 2406,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:45.990Z",
   publishedAt: "2023-05-16",
   externalLink:

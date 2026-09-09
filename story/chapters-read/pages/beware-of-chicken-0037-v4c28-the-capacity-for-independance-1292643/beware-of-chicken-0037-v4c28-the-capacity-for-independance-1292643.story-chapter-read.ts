@@ -7,7 +7,7 @@ export const bewareOfChicken0037V4c28TheCapacityForIndependance1292643 = {
   story: "story-read/beware-of-chicken",
   position: 37,
   publishedAt: "2023-07-29",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1292643",
   source: "royal-road",
   title: "v4c28: The Capacity for Independance",

@@ -7,7 +7,7 @@ export const azarinthHealer0009Chapter930Shelter1149664 = {
   story: "story-read/azarinth-healer",
   position: 9,
   publishedAt: "2023-03-27",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1149664",
   source: "royal-road",
   title: "Chapter 930 Shelter",

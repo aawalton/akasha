@@ -9,7 +9,7 @@ export const bewareOfChicken0058V4c45SteamBoy = {
   position: 58,
   ownLength: 2954,
   ownProgress: 2954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:22.361Z",
   publishedAt: "2023-09-29",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0043V4c322TheScribeSReturnP2 = {
   position: 43,
   ownLength: 2185,
   ownProgress: 2185,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:49.386Z",
   publishedAt: "2023-08-12",
   externalLink:

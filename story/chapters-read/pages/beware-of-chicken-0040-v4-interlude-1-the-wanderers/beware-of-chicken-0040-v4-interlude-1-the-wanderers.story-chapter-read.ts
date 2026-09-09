@@ -9,7 +9,7 @@ export const bewareOfChicken0040V4Interlude1TheWanderers = {
   position: 40,
   ownLength: 1850,
   ownProgress: 1850,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:43.123Z",
   publishedAt: "2023-08-04",
   externalLink:

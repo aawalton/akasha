@@ -7,7 +7,7 @@ export const arkendrithyst049428013ATribulation = {
   story: "story-read/arkendrithyst",
   position: 494,
   publishedAt: "2024-04-20",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1603932",
   source: "royal-road",
   title: "280, 1/3, A Tribulation",

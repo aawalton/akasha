@@ -9,7 +9,7 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple = {
   position: 17,
   ownLength: 3907,
   ownProgress: 3907,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:54.179Z",
   publishedAt: "2023-05-25",
   externalLink:

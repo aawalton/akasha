@@ -8,7 +8,7 @@ export const azarinthHealer0009Chapter930Shelter = {
   story: "story-read/azarinth-healer",
   position: 9,
   ownLength: 3232,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1149664/chapter-930-shelter",

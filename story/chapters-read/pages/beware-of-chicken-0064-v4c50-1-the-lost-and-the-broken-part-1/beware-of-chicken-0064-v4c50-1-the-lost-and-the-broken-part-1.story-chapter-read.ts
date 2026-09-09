@@ -9,7 +9,7 @@ export const bewareOfChicken0064V4c501TheLostAndTheBrokenPart1 = {
   position: 64,
   ownLength: 2253,
   ownProgress: 2253,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:35.382Z",
   publishedAt: "2023-10-18",
   externalLink:

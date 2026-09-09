@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0010ChapterDragoneyeMortis12 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 10,
   publishedAt: "2021-08-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "733090",
   source: "royal-road",
   title: "Chapter ??? - Dragoneye Mortis 1.2",

@@ -7,7 +7,7 @@ export const bewareOfChicken0099V4c79StrengthOfPurpouse1532292 = {
   story: "story-read/beware-of-chicken",
   position: 99,
   publishedAt: "2024-02-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1532292",
   source: "royal-road",
   title: "v4c79: Strength of Purpouse",

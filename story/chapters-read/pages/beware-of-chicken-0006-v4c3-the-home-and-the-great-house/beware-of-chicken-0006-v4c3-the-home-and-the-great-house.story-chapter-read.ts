@@ -9,7 +9,7 @@ export const bewareOfChicken0006V4c3TheHomeAndTheGreatHouse = {
   position: 6,
   ownLength: 2304,
   ownProgress: 2304,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:30.349Z",
   publishedAt: "2023-04-22",
   externalLink:

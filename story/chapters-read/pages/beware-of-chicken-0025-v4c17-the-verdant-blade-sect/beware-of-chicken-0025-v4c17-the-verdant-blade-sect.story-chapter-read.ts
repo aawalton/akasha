@@ -9,7 +9,7 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect = {
   position: 25,
   ownLength: 3361,
   ownProgress: 3361,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:11.565Z",
   publishedAt: "2023-06-23",
   externalLink:

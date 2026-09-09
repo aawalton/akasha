@@ -9,7 +9,7 @@ export const bewareOfChicken0027V4c19ThePlansOfMen = {
   position: 27,
   ownLength: 2044,
   ownProgress: 2044,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:15.665Z",
   publishedAt: "2023-06-28",
   externalLink:

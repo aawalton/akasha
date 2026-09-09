@@ -9,7 +9,7 @@ export const bewareOfChicken0041V4c31FullCircle = {
   position: 41,
   ownLength: 1776,
   ownProgress: 1776,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:45.169Z",
   publishedAt: "2023-08-07",
   externalLink:

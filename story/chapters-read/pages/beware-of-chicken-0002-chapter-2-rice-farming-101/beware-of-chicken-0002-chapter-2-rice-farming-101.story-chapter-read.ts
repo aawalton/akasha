@@ -9,7 +9,7 @@ export const bewareOfChicken0002Chapter2RiceFarming101 = {
   position: 2,
   ownLength: 1288,
   ownProgress: 1288,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:22.512Z",
   publishedAt: "2021-01-14",
   externalLink:

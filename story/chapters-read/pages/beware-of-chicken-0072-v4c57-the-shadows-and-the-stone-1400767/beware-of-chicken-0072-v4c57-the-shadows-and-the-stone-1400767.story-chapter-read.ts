@@ -7,7 +7,7 @@ export const bewareOfChicken0072V4c57TheShadowsAndTheStone1400767 = {
   story: "story-read/beware-of-chicken",
   position: 72,
   publishedAt: "2023-11-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1400767",
   source: "royal-road",
   title: "v4c57: The Shadows and the Stone",

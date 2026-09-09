@@ -9,7 +9,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrde
   story: "story-read/azarinth-healer",
   position: 24,
   ownLength: 84,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/3149032/announcing-new-hardcover-for-book-1-available",

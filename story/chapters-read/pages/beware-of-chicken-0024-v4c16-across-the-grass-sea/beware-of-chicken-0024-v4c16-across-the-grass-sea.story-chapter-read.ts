@@ -9,7 +9,7 @@ export const bewareOfChicken0024V4c16AcrossTheGrassSea = {
   position: 24,
   ownLength: 1667,
   ownProgress: 1667,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:09.403Z",
   publishedAt: "2023-06-20",
   externalLink:

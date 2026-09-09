@@ -7,7 +7,7 @@ export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon614658 = {
   story: "story-read/beware-of-chicken",
   position: 3,
   publishedAt: "2021-01-14",
-  unitSlug: "words",
+  unit: "words",
   externalId: "614658",
   source: "royal-road",
   title: "Chapter 3: Beneath the Crescent Moon",

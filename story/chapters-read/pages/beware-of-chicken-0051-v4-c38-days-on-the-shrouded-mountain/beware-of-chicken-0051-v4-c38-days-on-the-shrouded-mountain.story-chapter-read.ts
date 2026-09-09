@@ -9,7 +9,7 @@ export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain = {
   position: 51,
   ownLength: 3013,
   ownProgress: 3013,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:07.727Z",
   publishedAt: "2023-09-06",
   externalLink:

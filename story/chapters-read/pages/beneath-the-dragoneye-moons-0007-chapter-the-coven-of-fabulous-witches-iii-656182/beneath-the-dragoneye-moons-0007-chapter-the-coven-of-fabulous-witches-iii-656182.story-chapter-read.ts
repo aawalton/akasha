@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0007ChapterTheCovenOfFabulousWitchesIii6561
   story: "story-read/beneath-the-dragoneye-moons",
   position: 7,
   publishedAt: "2021-04-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "656182",
   source: "royal-road",
   title: "Chapter ???? – The Coven of Fabulous Witches III",

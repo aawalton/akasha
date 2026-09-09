@@ -7,7 +7,7 @@ export const bewareOfChicken0048InterludeGettingTheGangTogether1327745 = {
   story: "story-read/beware-of-chicken",
   position: 48,
   publishedAt: "2023-08-31",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1327745",
   source: "royal-road",
   title: "Interlude: Getting the Gang Together",

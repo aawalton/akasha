@@ -9,7 +9,7 @@ export const bewareOfChicken0015V4c9AFarmerSSon = {
   position: 15,
   ownLength: 2304,
   ownProgress: 2304,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:49.973Z",
   publishedAt: "2023-05-21",
   externalLink:

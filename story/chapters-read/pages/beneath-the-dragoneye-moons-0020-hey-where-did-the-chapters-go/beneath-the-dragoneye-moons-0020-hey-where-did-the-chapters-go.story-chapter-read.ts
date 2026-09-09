@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 20,
   ownLength: 80,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-22",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1094165/hey-where-did-the-chapters-go",

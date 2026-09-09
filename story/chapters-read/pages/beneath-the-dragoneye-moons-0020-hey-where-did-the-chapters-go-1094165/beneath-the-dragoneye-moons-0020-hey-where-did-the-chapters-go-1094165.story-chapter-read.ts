@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo1094165 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 20,
   publishedAt: "2023-01-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1094165",
   source: "royal-road",
   title: "Hey! Where did the chapters go?",

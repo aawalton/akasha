@@ -9,7 +9,7 @@ export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon = {
   position: 3,
   ownLength: 1461,
   ownProgress: 1461,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:24.493Z",
   publishedAt: "2021-01-14",
   externalLink:

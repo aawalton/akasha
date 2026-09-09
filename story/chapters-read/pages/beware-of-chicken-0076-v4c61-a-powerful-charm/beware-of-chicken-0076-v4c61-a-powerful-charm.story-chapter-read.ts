@@ -9,7 +9,7 @@ export const bewareOfChicken0076V4c61APowerfulCharm = {
   position: 76,
   ownLength: 2324,
   ownProgress: 2324,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:01.548Z",
   publishedAt: "2023-11-25",
   externalLink:

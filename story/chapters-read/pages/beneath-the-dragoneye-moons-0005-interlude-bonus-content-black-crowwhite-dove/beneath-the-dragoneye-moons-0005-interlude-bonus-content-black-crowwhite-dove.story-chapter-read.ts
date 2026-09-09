@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowwhiteDove
   story: "story-read/beneath-the-dragoneye-moons",
   position: 5,
   publishedAt: "2021-02-28",
-  unitSlug: "words",
+  unit: "words",
   externalId: "639242",
   source: "royal-road",
   title: "Interlude - Bonus Content - Black Crow//White Dove",

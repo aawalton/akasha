@@ -8,7 +8,7 @@ export const azarinthHealer0003Chapter3GlowingMoss = {
   story: "story-read/azarinth-healer",
   position: 3,
   ownLength: 3544,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-02",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198179/chapter-3-glowing-moss",

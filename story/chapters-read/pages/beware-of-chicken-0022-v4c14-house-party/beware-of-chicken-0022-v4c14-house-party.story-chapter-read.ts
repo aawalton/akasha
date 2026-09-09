@@ -9,7 +9,7 @@ export const bewareOfChicken0022V4c14HouseParty = {
   position: 22,
   ownLength: 2303,
   ownProgress: 2303,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:05.152Z",
   publishedAt: "2023-06-10",
   externalLink:

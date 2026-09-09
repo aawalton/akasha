@@ -7,7 +7,7 @@ export const bewareOfChicken0085V4c70Aftermath11445639 = {
   story: "story-read/beware-of-chicken",
   position: 85,
   publishedAt: "2023-12-17",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1445639",
   source: "royal-road",
   title: "v4c70: Aftermath 1",

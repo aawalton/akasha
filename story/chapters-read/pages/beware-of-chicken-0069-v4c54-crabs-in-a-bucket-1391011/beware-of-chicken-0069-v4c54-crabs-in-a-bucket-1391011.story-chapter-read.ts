@@ -7,7 +7,7 @@ export const bewareOfChicken0069V4c54CrabsInABucket1391011 = {
   story: "story-read/beware-of-chicken",
   position: 69,
   publishedAt: "2023-10-31",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1391011",
   source: "royal-road",
   title: "v4c54: Crabs in a Bucket",

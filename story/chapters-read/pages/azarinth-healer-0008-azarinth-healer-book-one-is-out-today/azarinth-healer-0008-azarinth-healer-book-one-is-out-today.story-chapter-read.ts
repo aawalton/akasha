@@ -8,7 +8,7 @@ export const azarinthHealer0008AzarinthHealerBookOneIsOutToday = {
   story: "story-read/azarinth-healer",
   position: 8,
   ownLength: 146,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today",

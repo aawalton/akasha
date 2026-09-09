@@ -7,7 +7,7 @@ export const bewareOfChicken0040V4Interlude1TheWanderers1299143 = {
   story: "story-read/beware-of-chicken",
   position: 40,
   publishedAt: "2023-08-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1299143",
   source: "royal-road",
   title: "v4 Interlude 1: The Wanderers",

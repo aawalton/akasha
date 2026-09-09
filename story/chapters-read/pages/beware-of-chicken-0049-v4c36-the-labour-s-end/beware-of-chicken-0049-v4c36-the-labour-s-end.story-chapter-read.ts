@@ -9,7 +9,7 @@ export const bewareOfChicken0049V4c36TheLabourSEnd = {
   position: 49,
   ownLength: 2671,
   ownProgress: 2671,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:02.860Z",
   publishedAt: "2023-09-02",
   externalLink:

@@ -7,7 +7,7 @@ export const bewareOfChicken0080V4c65TheWheelUnending1431457 = {
   story: "story-read/beware-of-chicken",
   position: 80,
   publishedAt: "2023-12-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1431457",
   source: "royal-road",
   title: "v4c65: The Wheel Unending",

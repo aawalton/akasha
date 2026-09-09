@@ -9,7 +9,7 @@ export const bewareOfChicken0010V4c5AcrossTheFace = {
   position: 10,
   ownLength: 2182,
   ownProgress: 2182,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:38.917Z",
   publishedAt: "2023-05-03",
   externalLink:

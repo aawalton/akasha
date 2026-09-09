@@ -7,7 +7,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableFor = {
   story: "story-read/azarinth-healer",
   position: 24,
   publishedAt: "2026-03-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3149032",
   source: "royal-road",
   title:

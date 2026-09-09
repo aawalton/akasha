@@ -8,7 +8,7 @@ export const azarinthHealer0002Chapter2GenericWolvesWhoWouldVeGuessed = {
   story: "story-read/azarinth-healer",
   position: 2,
   ownLength: 3491,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-02",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/198148/chapter-2-generic-wolves-who-wouldve-guessed",

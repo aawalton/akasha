@@ -9,7 +9,7 @@ export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds = {
   position: 34,
   ownLength: 2552,
   ownProgress: 2552,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:30.590Z",
   publishedAt: "2023-07-22",
   externalLink:

@@ -9,7 +9,7 @@ export const bewareOfChicken0046V4c34HuntingTheBeetle = {
   position: 46,
   ownLength: 3158,
   ownProgress: 3158,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:56.213Z",
   publishedAt: "2023-08-25",
   externalLink:

@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0015TheProblemsWithBeneathTheDragoneyeMoons
   story: "story-read/beneath-the-dragoneye-moons",
   position: 15,
   publishedAt: "2022-07-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "941664",
   source: "royal-road",
   title: "The problems with Beneath the Dragoneye Moons",

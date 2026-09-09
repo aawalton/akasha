@@ -9,7 +9,7 @@ export const arkendrithyst0505284Epilogue2GeorgeGetsASystem = {
   position: 505,
   ownLength: 20640,
   ownProgress: 20640,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:25:57.078Z",
   publishedAt: "2024-06-09",
   externalLink:

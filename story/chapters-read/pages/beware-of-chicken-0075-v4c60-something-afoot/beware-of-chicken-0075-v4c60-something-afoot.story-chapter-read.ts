@@ -9,7 +9,7 @@ export const bewareOfChicken0075V4c60SomethingAfoot = {
   position: 75,
   ownLength: 1760,
   ownProgress: 1760,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:59.570Z",
   publishedAt: "2023-11-21",
   externalLink:

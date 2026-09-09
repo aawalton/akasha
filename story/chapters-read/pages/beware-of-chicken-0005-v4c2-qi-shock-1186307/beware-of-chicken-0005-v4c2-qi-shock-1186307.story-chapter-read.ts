@@ -7,7 +7,7 @@ export const bewareOfChicken0005V4c2QiShock1186307 = {
   story: "story-read/beware-of-chicken",
   position: 5,
   publishedAt: "2023-04-20",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1186307",
   source: "royal-road",
   title: "v4c2: Qi Shock",

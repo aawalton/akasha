@@ -9,7 +9,7 @@ export const bewareOfChicken0070V4c55LuckOfACultivator = {
   position: 70,
   ownLength: 1755,
   ownProgress: 1755,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:49.132Z",
   publishedAt: "2023-11-02",
   externalLink:

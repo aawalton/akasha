@@ -9,7 +9,7 @@ export const bewareOfChicken0088V4c72RelfectionsAndOneLastTask = {
   position: 88,
   ownLength: 2138,
   ownProgress: 2138,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:28.246Z",
   publishedAt: "2024-01-19",
   externalLink:

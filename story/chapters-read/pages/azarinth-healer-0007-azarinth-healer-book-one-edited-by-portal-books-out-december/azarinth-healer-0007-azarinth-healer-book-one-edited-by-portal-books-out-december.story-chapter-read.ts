@@ -8,7 +8,7 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooksOutDecemb
   story: "story-read/azarinth-healer",
   position: 7,
   ownLength: 309,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-08",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books",

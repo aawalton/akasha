@@ -9,7 +9,7 @@ export const bewareOfChicken0100V4c80TheWheelKeepsTurning = {
   position: 100,
   ownLength: 1635,
   ownProgress: 1635,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:54.617Z",
   publishedAt: "2024-02-28",
   externalLink:

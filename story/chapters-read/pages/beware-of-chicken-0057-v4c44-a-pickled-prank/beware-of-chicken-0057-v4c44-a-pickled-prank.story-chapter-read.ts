@@ -9,7 +9,7 @@ export const bewareOfChicken0057V4c44APickledPrank = {
   position: 57,
   ownLength: 2283,
   ownProgress: 2283,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:20.270Z",
   publishedAt: "2023-09-26",
   externalLink:

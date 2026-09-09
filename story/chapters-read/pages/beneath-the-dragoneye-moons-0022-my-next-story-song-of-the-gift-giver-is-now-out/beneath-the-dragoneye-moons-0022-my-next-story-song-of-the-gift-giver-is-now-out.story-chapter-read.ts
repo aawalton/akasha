@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut =
   story: "story-read/beneath-the-dragoneye-moons",
   position: 22,
   ownLength: 123,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/2708278/my-next-story-song-of-the-gift-giver-is-now-out",

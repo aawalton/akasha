@@ -9,7 +9,7 @@ export const bewareOfChicken0055V4c42FortyYearsAndFortyMore = {
   position: 55,
   ownLength: 1645,
   ownProgress: 1645,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:16.146Z",
   publishedAt: "2023-09-21",
   externalLink:

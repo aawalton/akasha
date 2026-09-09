@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0021ButWaitThereSMore = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 21,
   ownLength: 146,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/2546951/but-wait-theres-more",

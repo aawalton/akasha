@@ -7,7 +7,7 @@ export const azarinthHealer0022MyNewStoryIsOutOnRoyalroadJourneyTo = {
   story: "story-read/azarinth-healer",
   position: 22,
   publishedAt: "2025-10-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2704677",
   source: "royal-road",
   title: "My new story is out on Royalroad - Journey to Veresavir, check it out if you like!",

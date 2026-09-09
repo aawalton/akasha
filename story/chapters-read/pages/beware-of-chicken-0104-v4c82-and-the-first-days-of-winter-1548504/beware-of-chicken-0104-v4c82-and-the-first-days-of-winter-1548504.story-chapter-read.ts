@@ -7,7 +7,7 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter1548504 = {
   story: "story-read/beware-of-chicken",
   position: 104,
   publishedAt: "2024-03-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1548504",
   source: "royal-road",
   title: "V4c82: And the First Days of Winter",

@@ -9,7 +9,7 @@ export const bewareOfChicken0020V4c123InductionPart3 = {
   position: 20,
   ownLength: 2064,
   ownProgress: 2064,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:00.630Z",
   publishedAt: "2023-06-04",
   externalLink:

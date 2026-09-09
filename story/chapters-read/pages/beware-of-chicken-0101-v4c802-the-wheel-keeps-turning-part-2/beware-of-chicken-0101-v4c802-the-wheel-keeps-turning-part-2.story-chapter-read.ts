@@ -7,7 +7,7 @@ export const bewareOfChicken0101V4c802TheWheelKeepsTurningPart2 = {
   story: "story-read/beware-of-chicken",
   position: 101,
   publishedAt: "2024-03-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1537350",
   source: "royal-road",
   title: "v4c80.2: The Wheel Keeps Turning Part 2",

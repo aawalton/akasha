@@ -9,7 +9,7 @@ export const bewareOfChicken0026V4c18LeaderOfTheNextGeneration = {
   position: 26,
   ownLength: 2192,
   ownProgress: 2192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:13.592Z",
   publishedAt: "2023-06-25",
   externalLink:

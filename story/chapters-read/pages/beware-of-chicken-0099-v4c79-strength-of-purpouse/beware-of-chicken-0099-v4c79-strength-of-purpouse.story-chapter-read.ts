@@ -9,7 +9,7 @@ export const bewareOfChicken0099V4c79StrengthOfPurpouse = {
   position: 99,
   ownLength: 2145,
   ownProgress: 2145,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:52.577Z",
   publishedAt: "2024-02-26",
   externalLink:

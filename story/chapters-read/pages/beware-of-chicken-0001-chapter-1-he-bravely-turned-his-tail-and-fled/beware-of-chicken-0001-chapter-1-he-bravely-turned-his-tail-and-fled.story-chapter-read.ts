@@ -9,7 +9,7 @@ export const bewareOfChicken0001Chapter1HeBravelyTurnedHisTailAndFled = {
   position: 1,
   ownLength: 2107,
   ownProgress: 2107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:51:19.654Z",
   publishedAt: "2021-01-14",
   externalLink:

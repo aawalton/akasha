@@ -7,7 +7,7 @@ export const azarinthHealer0002Chapter2GenericWolvesWhoWouldveGuessed = {
   story: "story-read/azarinth-healer",
   position: 2,
   publishedAt: "2018-03-02",
-  unitSlug: "words",
+  unit: "words",
   externalId: "198148",
   source: "royal-road",
   title: "Chapter 2 Generic wolves - who would've guessed",

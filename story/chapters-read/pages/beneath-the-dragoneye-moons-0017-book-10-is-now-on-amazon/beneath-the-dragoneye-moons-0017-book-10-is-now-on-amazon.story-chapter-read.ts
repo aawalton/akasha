@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 17,
   ownLength: 65,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1224011/book-10-is-now-on-amazon",

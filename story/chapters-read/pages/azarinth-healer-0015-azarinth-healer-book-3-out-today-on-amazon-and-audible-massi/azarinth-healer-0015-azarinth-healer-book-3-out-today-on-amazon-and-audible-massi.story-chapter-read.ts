@@ -9,7 +9,7 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMass
   story: "story-read/azarinth-healer",
   position: 15,
   ownLength: 607,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439950/azarinth-healer-book-3-out-today-on-amazon-and",

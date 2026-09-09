@@ -9,7 +9,7 @@ export const bewareOfChicken0081V4c66ExcecutionerSBlade = {
   position: 81,
   ownLength: 1413,
   ownProgress: 1413,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:12.370Z",
   publishedAt: "2023-12-06",
   externalLink:

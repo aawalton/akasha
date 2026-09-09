@@ -9,7 +9,7 @@ export const bewareOfChicken0107V5c2TheStrongestTechnique = {
   position: 107,
   ownLength: 2294,
   ownProgress: 2294,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:55:09.668Z",
   publishedAt: "2024-05-17",
   externalLink:

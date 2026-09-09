@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoons0014ChapterTheWish1875405 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 14,
   publishedAt: "2022-04-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "875405",
   source: "royal-road",
   title: "Chapter ??? - The Wish 1",

@@ -9,7 +9,7 @@ export const bewareOfChicken0078V4c63CelestialBody = {
   position: 78,
   ownLength: 2959,
   ownProgress: 2959,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:54:06.123Z",
   publishedAt: "2023-11-29",
   externalLink:

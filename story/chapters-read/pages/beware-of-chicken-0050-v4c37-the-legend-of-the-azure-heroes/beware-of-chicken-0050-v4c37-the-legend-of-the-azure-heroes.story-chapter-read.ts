@@ -9,7 +9,7 @@ export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes = {
   position: 50,
   ownLength: 2904,
   ownProgress: 2904,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:05.089Z",
   publishedAt: "2023-09-04",
   externalLink:

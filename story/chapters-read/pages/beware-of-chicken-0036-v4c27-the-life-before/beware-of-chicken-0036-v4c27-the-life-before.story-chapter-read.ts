@@ -9,7 +9,7 @@ export const bewareOfChicken0036V4c27TheLifeBefore = {
   position: 36,
   ownLength: 2896,
   ownProgress: 2896,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:52:34.997Z",
   publishedAt: "2023-07-26",
   externalLink:

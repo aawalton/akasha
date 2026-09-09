@@ -7,7 +7,7 @@ export const bewareOfChicken0077V4c62TheTournamentArcCurse1423620 = {
   story: "story-read/beware-of-chicken",
   position: 77,
   publishedAt: "2023-11-27",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1423620",
   source: "royal-road",
   title: "v4c62: The Tournament Arc Curse",

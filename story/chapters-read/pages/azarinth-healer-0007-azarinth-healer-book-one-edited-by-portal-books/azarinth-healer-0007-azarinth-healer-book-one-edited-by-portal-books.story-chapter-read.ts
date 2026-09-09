@@ -7,7 +7,7 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooks = {
   story: "story-read/azarinth-healer",
   position: 7,
   publishedAt: "2022-11-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1035092",
   source: "royal-road",
   title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st",

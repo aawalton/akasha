@@ -9,7 +9,7 @@ export const bewareOfChicken0061V4c47ArrivalAtThePeaks = {
   position: 61,
   ownLength: 2003,
   ownProgress: 2003,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T18:53:28.492Z",
   publishedAt: "2023-10-05",
   externalLink:

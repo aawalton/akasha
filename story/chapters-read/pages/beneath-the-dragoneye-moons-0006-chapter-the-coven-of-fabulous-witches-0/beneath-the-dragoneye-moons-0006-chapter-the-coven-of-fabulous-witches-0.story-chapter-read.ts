@@ -8,7 +8,7 @@ export const beneathTheDragoneyeMoons0006ChapterTheCovenOfFabulousWitches0 = {
   story: "story-read/beneath-the-dragoneye-moons",
   position: 6,
   ownLength: 254,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656177/chapter-the-coven-of-fabulous-witches-0",

@@ -7,7 +7,7 @@ export const bewareOfChicken0023V4c15TheArtOfTheDeal1242650 = {
   story: "story-read/beware-of-chicken",
   position: 23,
   publishedAt: "2023-06-12",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1242650",
   source: "royal-road",
   title: "v4c15: The Art of the Deal",
