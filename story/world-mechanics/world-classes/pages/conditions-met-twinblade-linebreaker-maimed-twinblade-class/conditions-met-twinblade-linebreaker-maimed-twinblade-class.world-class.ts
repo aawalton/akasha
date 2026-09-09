@@ -5,6 +5,6 @@ export const conditionsMetTwinbladeLinebreakerMaimedTwinbladeClass = {
   pageTypeSlug: "world-class",
   slug: "conditions-met-twinblade-linebreaker-maimed-twinblade-class",
   title: "Conditions Met: Twinblade Linebreaker → Maimed Twinblade Class.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

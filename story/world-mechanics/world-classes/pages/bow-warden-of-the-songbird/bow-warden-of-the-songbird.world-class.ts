@@ -5,7 +5,7 @@ export const bowWardenOfTheSongbird = {
   pageTypeSlug: "world-class",
   slug: "bow-warden-of-the-songbird",
   title: "Bow-Warden of the Songbird",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["bird-hunter"],
   evolvesToSlugs: ["bow-singer-queen-of-the-free-antinium"],
   references: "jsonl",

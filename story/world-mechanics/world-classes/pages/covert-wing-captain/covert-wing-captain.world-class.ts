@@ -5,7 +5,7 @@ export const covertWingCaptain = {
   pageTypeSlug: "world-class",
   slug: "covert-wing-captain",
   title: "Covert Wing Captain",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["sister-of-the-unforgotten"],
   references: "jsonl",
 } as const satisfies WorldClass

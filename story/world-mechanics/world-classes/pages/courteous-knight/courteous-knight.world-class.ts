@@ -5,7 +5,7 @@ export const courteousKnight = {
   pageTypeSlug: "world-class",
   slug: "courteous-knight",
   title: "Courteous Knight",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["courteous-mugger"],
   evolvesToSlugs: ["knight-of-honor-s-ember"],
   references: "jsonl",

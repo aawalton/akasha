@@ -5,7 +5,7 @@ export const bridgeOfTheMartialWorld = {
   pageTypeSlug: "world-class",
   slug: "bridge-of-the-martial-world",
   title: "Bridge of the Martial World",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["strongest-of-the-martial-age"],
   references: "jsonl",
 } as const satisfies WorldClass

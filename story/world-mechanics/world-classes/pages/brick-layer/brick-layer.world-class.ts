@@ -5,6 +5,6 @@ export const brickLayer = {
   pageTypeSlug: "world-class",
   slug: "brick-layer",
   title: "Brick Layer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

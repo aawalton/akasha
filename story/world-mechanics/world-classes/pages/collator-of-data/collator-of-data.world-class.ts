@@ -5,6 +5,6 @@ export const collatorOfData = {
   pageTypeSlug: "world-class",
   slug: "collator-of-data",
   title: "Collator of Data",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

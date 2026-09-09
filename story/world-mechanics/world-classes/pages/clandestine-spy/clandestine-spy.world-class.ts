@@ -5,6 +5,6 @@ export const clandestineSpy = {
   pageTypeSlug: "world-class",
   slug: "clandestine-spy",
   title: "Clandestine Spy",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["spy-of-the-captured-moment"],
 } as const satisfies WorldClass

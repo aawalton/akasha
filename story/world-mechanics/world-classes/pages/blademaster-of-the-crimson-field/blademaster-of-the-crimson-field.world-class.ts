@@ -5,6 +5,6 @@ export const blademasterOfTheCrimsonField = {
   pageTypeSlug: "world-class",
   slug: "blademaster-of-the-crimson-field",
   title: "Blademaster of the Crimson Field",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["blademaster-the-path-of-legends"],
 } as const satisfies WorldClass

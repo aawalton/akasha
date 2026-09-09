@@ -5,7 +5,7 @@ export const bountyHunter = {
   pageTypeSlug: "world-class",
   slug: "bounty-hunter",
   title: "Bounty Hunter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["bounty-hunters"],
   references: "jsonl",
 } as const satisfies WorldClass

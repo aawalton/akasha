@@ -5,6 +5,6 @@ export const classChangeStreetwiseGuardswomanSmokebreathDetective = {
   pageTypeSlug: "world-class",
   slug: "class-change-streetwise-guardswoman-smokebreath-detective",
   title: "Class Change: Streetwise Guardswoman → Smokebreath Detective!",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

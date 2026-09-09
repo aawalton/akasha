@@ -5,5 +5,5 @@ export const darkKnight = {
   pageTypeSlug: "world-class",
   slug: "dark-knight",
   title: "Dark Knight",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

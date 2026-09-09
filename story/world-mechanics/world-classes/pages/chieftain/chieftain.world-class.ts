@@ -5,7 +5,7 @@ export const chieftain = {
   pageTypeSlug: "world-class",
   slug: "chieftain",
   title: "Chieftain",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["chieftains"],
   evolvesFromSlugs: ["leader"],
   references: "jsonl",

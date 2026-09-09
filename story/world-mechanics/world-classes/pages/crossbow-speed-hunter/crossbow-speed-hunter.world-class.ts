@@ -5,6 +5,6 @@ export const crossbowSpeedHunter = {
   pageTypeSlug: "world-class",
   slug: "crossbow-speed-hunter",
   title: "Crossbow Speed Hunter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["vampire-hunter"],
 } as const satisfies WorldClass

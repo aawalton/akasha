@@ -5,7 +5,7 @@ export const combinedArmsCommander = {
   pageTypeSlug: "world-class",
   slug: "combined-arms-commander",
   title: "Combined-Arms Commander",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Combined Arms Commander"],
   evolvesFromSlugs: ["foreign-commander"],
   references: "jsonl",

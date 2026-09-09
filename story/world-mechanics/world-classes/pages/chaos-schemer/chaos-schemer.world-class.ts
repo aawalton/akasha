@@ -5,7 +5,7 @@ export const chaosSchemer = {
   pageTypeSlug: "world-class",
   slug: "chaos-schemer",
   title: "Chaos Schemer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["plotter"],
   references: "jsonl",
 } as const satisfies WorldClass
