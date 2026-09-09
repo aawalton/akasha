@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0102Chapter777ASilentAcknowledgment = {
   id: "01a06731-ad82-700d-9e07-ae83545aace8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0102-chapter-777-a-silent-acknowledgment",
   title: "Chapter 777 - A silent acknowledgment",
   story: "story-read/hell-difficulty-tutorial",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0340340TakingCareOfBusiness = {
   id: "01a06731-ae05-7007-be88-3da88a73d19d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0340-340-taking-care-of-business",
   title: "340. Taking Care of Business",
   story: "god-of-trash",

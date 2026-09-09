@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0002Chapter2ActLikeADecentHumanLessons = {
   id: "01a06731-b11c-7001-b591-7b478c9cb58b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0002-chapter-2-act-like-a-decent-human-lessons",
   title: "Chapter 2: Act Like a Decent Human Lessons",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

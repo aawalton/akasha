@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0020Chapter953PerfectHumanoidSpecimens = {
   id: "01a06731-adc1-7001-ad1d-1ff2b1448f55",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0020-chapter-953-perfect-humanoid-specimens",
   title: "Chapter 953: Perfect Humanoid Specimens",
   story: "story-read/he-who-fights-with-monsters",

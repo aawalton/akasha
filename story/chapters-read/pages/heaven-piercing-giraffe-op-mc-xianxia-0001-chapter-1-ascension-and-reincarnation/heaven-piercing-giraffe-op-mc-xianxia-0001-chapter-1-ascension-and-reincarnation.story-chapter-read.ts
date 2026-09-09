@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0001Chapter1AscensionAndReincarnation = {
   id: "01a06731-b11c-7000-add8-a76d47164fdf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0001-chapter-1-ascension-and-reincarnation",
   title: "Chapter 1: Ascension and Reincarnation",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

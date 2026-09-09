@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   id: "01a06731-b11d-7000-b425-553828717d17",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0004-chapter-4-mock-battle",
   title: "Chapter 4: Mock Battle",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

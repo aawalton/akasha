@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0047Chapter980TheOnlyCureIsDeath = {
   id: "01a06731-add8-7000-a01f-0f670ccc0d81",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0047-chapter-980-the-only-cure-is-death",
   title: "Chapter 980: The Only Cure is Death",
   story: "story-read/he-who-fights-with-monsters",

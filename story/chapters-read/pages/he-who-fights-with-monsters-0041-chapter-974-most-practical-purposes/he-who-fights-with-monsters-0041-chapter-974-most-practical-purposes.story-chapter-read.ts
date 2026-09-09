@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0041Chapter974MostPracticalPurposes = {
   id: "01a06731-add2-7000-ac63-57ff7a4b610d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0041-chapter-974-most-practical-purposes",
   title: "Chapter 974: Most Practical Purposes",
   story: "story-read/he-who-fights-with-monsters",

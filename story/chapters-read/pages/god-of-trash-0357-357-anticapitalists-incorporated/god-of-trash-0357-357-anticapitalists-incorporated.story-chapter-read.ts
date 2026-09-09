@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0357357AnticapitalistsIncorporated = {
   id: "01a06731-ae06-700e-a3ae-1c893f4cefda",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0357-357-anticapitalists-incorporated",
   title: "357. Anticapitalists Incorporated",
   story: "god-of-trash",

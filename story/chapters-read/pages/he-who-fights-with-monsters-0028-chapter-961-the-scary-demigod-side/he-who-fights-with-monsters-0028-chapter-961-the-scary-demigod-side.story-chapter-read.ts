@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0028Chapter961TheScaryDemigodSide = {
   id: "01a06731-adc6-7001-a523-d8e1b3bec76c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0028-chapter-961-the-scary-demigod-side",
   title: "Chapter 961: The Scary Demigod Side",
   story: "story-read/he-who-fights-with-monsters",

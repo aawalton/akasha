@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0014BooksAvailableOnKindleKindleUnlimitedAndAudible = {
   id: "01a06731-adbd-7008-9a2c-d5a962810676",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0014-books-available-on-kindle-kindle-unlimited-and-audible",
   title: "Books available on Kindle, Kindle Unlimited and Audible",
   story: "story-read/he-who-fights-with-monsters",

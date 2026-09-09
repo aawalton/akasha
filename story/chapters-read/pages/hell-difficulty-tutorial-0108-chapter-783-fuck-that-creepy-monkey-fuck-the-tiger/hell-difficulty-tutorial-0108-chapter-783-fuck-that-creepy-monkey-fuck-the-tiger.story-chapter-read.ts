@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0108Chapter783FuckThatCreepyMonkeyFuckTheTiger = {
   id: "01a06731-ad83-7003-85d1-bc9ac86a7784",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0108-chapter-783-fuck-that-creepy-monkey-fuck-the-tiger",
   title: "Chapter 783 - Fuck that creepy monkey, fuck the tiger, fuck Skippy",
   story: "story-read/hell-difficulty-tutorial",

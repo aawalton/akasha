@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0032Chapter965ThisIsKindOfHowTeamBiscuitOperates = {
   id: "01a06731-adc9-7000-8206-a8d070470fb1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0032-chapter-965-this-is-kind-of-how-team-biscuit-operates",
   title: "Chapter 965: This Is Kind of How Team Biscuit Operates",
   story: "story-read/he-who-fights-with-monsters",

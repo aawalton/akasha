@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0287287PullingAllTheThreadsAtOnce = {
   id: "01a06731-adfc-7004-a5ac-be4d2fd86e86",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0287-287-pulling-all-the-threads-at-once",
   title: "287. Pulling All the Threads at Once",
   story: "god-of-trash",

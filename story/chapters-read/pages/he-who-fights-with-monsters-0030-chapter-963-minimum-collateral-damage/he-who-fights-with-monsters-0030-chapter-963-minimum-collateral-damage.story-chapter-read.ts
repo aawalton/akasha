@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   id: "01a06731-adc7-7000-8171-a94f0052a899",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0030-chapter-963-minimum-collateral-damage",
   title: "Chapter 963: Minimum Collateral Damage",
   story: "story-read/he-who-fights-with-monsters",

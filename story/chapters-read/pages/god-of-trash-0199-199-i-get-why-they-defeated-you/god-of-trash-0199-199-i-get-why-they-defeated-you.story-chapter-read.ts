@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0199199IGetWhyTheyDefeatedYou = {
   id: "01a0672c-edcd-700b-89dd-c0823212e5bf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0199-199-i-get-why-they-defeated-you",
   title: "199. I Get Why They Defeated You",
   story: "god-of-trash",

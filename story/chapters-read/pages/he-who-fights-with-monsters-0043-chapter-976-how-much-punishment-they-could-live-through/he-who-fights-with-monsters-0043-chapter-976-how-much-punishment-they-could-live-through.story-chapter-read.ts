@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0043Chapter976HowMuchPunishmentTheyCouldLiveThrough = {
   id: "01a06731-add4-7000-b583-c2f51126d3f1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0043-chapter-976-how-much-punishment-they-could-live-through",
   title: "Chapter 976: How Much Punishment They Could Live Through",
   story: "story-read/he-who-fights-with-monsters",

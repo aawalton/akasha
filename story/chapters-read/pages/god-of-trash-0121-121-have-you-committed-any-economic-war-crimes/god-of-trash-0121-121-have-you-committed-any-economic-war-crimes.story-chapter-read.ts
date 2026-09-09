@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0121121HaveYouCommittedAnyEconomicWarCrimes = {
   id: "01a0672c-edc8-7008-9cfa-dea657a529d0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0121-121-have-you-committed-any-economic-war-crimes",
   title: "121. Have You Committed Any Economic War Crimes Today?",
   story: "god-of-trash",

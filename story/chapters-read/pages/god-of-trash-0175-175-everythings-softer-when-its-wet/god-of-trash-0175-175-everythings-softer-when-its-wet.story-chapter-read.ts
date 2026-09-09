@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0175175EverythingsSofterWhenItsWet = {
   id: "01a0672c-edcc-7004-be4d-0e9dd94f9b0c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0175-175-everythings-softer-when-its-wet",
   title: "175. Everything's Softer When It's Wet",
   story: "god-of-trash",

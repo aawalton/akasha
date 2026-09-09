@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0022Chapter697ManFromTheEarth = {
   id: "01a06731-ad6c-7014-989f-49f8b2378440",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0022-chapter-697-man-from-the-earth",
   title: "Chapter 697 - Man from the Earth",
   story: "story-read/hell-difficulty-tutorial",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0117Chapter792AdjustingTheObjective = {
   id: "01a06731-ad86-7001-908f-df85a1548b4b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0117-chapter-792-adjusting-the-objective",
   title: "Chapter 792 - Adjusting the objective",
   story: "story-read/hell-difficulty-tutorial",

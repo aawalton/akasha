@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0006Chapter6TheOneWhoDevouredHalfOfTheHeavens = {
   id: "01a06731-b11d-7002-8300-826ae9386c83",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0006-chapter-6-the-one-who-devoured-half-of-the-heavens",
   title: "Chapter 6: The One Who Devoured Half of the Heavens",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

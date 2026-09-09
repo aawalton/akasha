@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0017BonusMaterialBook12AppendicesJasonsAbilities = {
   id: "01a06731-adbf-7000-ba8b-7b54ba02b9ad",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0017-bonus-material-book-12-appendices-jasons-abilities",
   title: "Bonus Material: Book 12 Appendices, Jasons Abilities",
   story: "story-read/he-who-fights-with-monsters",

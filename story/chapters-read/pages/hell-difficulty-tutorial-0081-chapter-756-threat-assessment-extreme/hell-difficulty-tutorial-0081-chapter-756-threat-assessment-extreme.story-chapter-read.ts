@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0081Chapter756ThreatAssessmentExtreme = {
   id: "01a06731-ad7f-7000-9121-404882a23bdc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0081-chapter-756-threat-assessment-extreme",
   title: "Chapter 756 - Threat Assessment: Extreme",
   story: "story-read/hell-difficulty-tutorial",

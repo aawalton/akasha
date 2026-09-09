@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0077Chapter752ItAlmostMakesSense = {
   id: "01a06731-ad7c-7000-975a-0549194c0c9d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0077-chapter-752-it-almost-makes-sense",
   title: "Chapter 752 - It almost makes sense",
   story: "story-read/hell-difficulty-tutorial",

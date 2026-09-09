@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0088Chapter1018IDontNeedHope = {
   id: "01a06731-ae00-7000-ba71-738645869934",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0088-chapter-1018-i-dont-need-hope",
   title: "Chapter 1018: I Don’t Need Hope",
   story: "story-read/he-who-fights-with-monsters",

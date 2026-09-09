@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0013Chapter13ThisIsThePartWhereWeStepBack = {
   id: "01a06731-adbd-7007-a191-36fa590ccc97",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0013-chapter-13-this-is-the-part-where-we-step-back",
   title: "Chapter 13: This is the Part Where We Step Back",
   story: "story-read/he-who-fights-with-monsters",

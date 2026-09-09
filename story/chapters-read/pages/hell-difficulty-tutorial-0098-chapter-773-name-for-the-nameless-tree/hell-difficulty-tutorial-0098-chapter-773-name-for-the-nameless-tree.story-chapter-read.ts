@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0098Chapter773NameForTheNamelessTree = {
   id: "01a06731-ad82-7009-a7b8-d08a7a7f4c5c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0098-chapter-773-name-for-the-nameless-tree",
   title: "Chapter 773 - Name for the Nameless Tree",
   story: "story-read/hell-difficulty-tutorial",

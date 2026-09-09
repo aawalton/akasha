@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0053Chapter986TheDeathsWeFailedToPrevent = {
   id: "01a06731-addf-7000-9465-6644a7b1f5ad",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0053-chapter-986-the-deaths-we-failed-to-prevent",
   title: "Chapter 986: The Deaths We Failed to Prevent",
   story: "story-read/he-who-fights-with-monsters",

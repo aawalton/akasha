@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunishmentGodOf = {
   id: "01a06731-b11d-7011-8978-dba48d565ee5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0021-chapter-21-the-heavens-divine-punishment-god-of",
   title: "Chapter 21: The Heavens' Divine Punishment (God of Beasts' POV)",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

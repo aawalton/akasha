@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader = {
   id: "01a06731-ade9-7001-aaac-bce55bdc8155",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0067-chapter-1000-cosmic-tyrant-warlord-cult-leader",
   title: "Chapter 1000: Cosmic Tyrant Warlord Cult Leader",
   story: "story-read/he-who-fights-with-monsters",

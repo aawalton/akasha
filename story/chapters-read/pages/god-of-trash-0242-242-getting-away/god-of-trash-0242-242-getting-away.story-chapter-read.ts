@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0242242GettingAway = {
   id: "01a06731-adf8-7005-9a2b-e74854375f21",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0242-242-getting-away",
   title: "242. Getting Away",
   story: "god-of-trash",

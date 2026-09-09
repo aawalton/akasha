@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0274274CantFindABetterMan = {
   id: "01a06731-adfb-7001-a25d-1328f82b52a5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0274-274-cant-find-a-better-man",
   title: "274. (Can't Find) A Better Man",
   story: "god-of-trash",

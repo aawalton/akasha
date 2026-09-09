@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   id: "01a06731-ae01-7001-a44a-e1a37b975557",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0312-312-normal-people-dont-say-theyre-normal",
   title: "312. Normal People Don't Say They're Normal",
   story: "god-of-trash",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = {
   id: "01a06731-b11d-7010-9870-54d107eab0f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0020-chapter-20-creatures-of-the-abyss",
   title: "Chapter 20: Creatures of the Abyss",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

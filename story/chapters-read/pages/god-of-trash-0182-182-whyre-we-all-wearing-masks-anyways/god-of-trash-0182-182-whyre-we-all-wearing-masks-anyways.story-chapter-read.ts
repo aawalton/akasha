@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0182182WhyreWeAllWearingMasksAnyways = {
   id: "01a0672c-edcc-700b-bcd8-a562a840ec37",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0182-182-whyre-we-all-wearing-masks-anyways",
   title: "182. Why're We All Wearing Masks, Anyways?",
   story: "god-of-trash",

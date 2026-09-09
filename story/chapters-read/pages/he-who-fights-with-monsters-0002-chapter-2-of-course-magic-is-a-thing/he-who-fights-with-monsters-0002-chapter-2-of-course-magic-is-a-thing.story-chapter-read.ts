@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0002Chapter2OfCourseMagicIsAThing = {
   id: "01a06731-adbb-7001-b94d-d2a98daafeb7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0002-chapter-2-of-course-magic-is-a-thing",
   title: "Chapter 2: Of Course Magic is a Thing",
   story: "story-read/he-who-fights-with-monsters",

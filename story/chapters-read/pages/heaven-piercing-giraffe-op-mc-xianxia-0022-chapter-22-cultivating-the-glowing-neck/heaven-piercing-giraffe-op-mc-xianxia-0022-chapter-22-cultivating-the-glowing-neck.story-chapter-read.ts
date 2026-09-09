@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0022Chapter22CultivatingTheGlowingNeck = {
   id: "01a06731-b11d-7012-8a14-33a93840aa4e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0022-chapter-22-cultivating-the-glowing-neck",
   title: "Chapter 22: Cultivating the Glowing Neck",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

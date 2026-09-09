@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0315315QuackAllYouWantYoureStillNotADuck = {
   id: "01a06731-ae01-7004-aedf-76fbab1e5967",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0315-315-quack-all-you-want-youre-still-not-a-duck",
   title: "315. Quack All You Want, You're Still Not a Duck",
   story: "god-of-trash",

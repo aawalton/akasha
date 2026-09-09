@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0055Chapter730FeralAnimal = {
   id: "01a06731-ad72-700d-8d9d-f5ccce0c1000",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0055-chapter-730-feral-animal",
   title: "Chapter 730 - Feral animal",
   story: "story-read/hell-difficulty-tutorial",

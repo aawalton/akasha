@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0144144ItsAllUpToYou = {
   id: "01a0672c-edca-700a-a0e4-7246dd33962d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0144-144-its-all-up-to-you",
   title: "144. It's All Up To You",
   story: "god-of-trash",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0264264TheDarkOfTheEarth = {
   id: "01a06731-adfa-7005-a896-94512d06237d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0264-264-the-dark-of-the-earth",
   title: "264. The Dark of the Earth",
   story: "god-of-trash",

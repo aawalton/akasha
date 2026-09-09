@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   id: "01a06731-ae04-7001-b85e-7782257e1381",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0327-327-pain-is-growth-growth-is-pain",
   title: "327. Pain is Growth. Growth is Pain",
   story: "god-of-trash",

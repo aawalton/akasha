@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
   id: "01a06731-ad80-7000-9741-b0fe930f3379",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0086-chapter-761-eight-gold-coins",
   title: "Chapter 761 - Eight gold coins",
   story: "story-read/hell-difficulty-tutorial",

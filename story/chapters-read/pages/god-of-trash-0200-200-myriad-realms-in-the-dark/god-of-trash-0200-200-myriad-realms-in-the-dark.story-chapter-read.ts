@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0200200MyriadRealmsInTheDark = {
   id: "01a06731-adf2-7000-bc4a-513e8cf81140",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0200-200-myriad-realms-in-the-dark",
   title: "200. Myriad Realms in the Dark",
   story: "god-of-trash",

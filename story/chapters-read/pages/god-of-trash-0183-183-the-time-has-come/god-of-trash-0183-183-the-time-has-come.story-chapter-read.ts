@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0183183TheTimeHasCome = {
   id: "01a0672c-edcc-700c-bf93-57468ccabe33",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0183-183-the-time-has-come",
   title: "183. The Time Has Come",
   story: "god-of-trash",

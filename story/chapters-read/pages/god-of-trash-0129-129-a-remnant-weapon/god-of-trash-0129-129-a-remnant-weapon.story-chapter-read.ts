@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0129129ARemnantWeapon = {
   id: "01a0672c-edc9-7005-86e9-0faaf10073e4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0129-129-a-remnant-weapon",
   title: "129. A Remnant Weapon",
   story: "god-of-trash",

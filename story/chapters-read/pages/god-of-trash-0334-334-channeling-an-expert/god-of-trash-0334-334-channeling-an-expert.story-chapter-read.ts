@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0334334ChannelingAnExpert = {
   id: "01a06731-ae05-7001-b7f7-b31dd3bc58a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0334-334-channeling-an-expert",
   title: "334. Channeling an Expert",
   story: "god-of-trash",

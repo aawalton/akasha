@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0048Chapter981WhatForeverMeans = {
   id: "01a06731-add9-7000-a90c-715c4815d9d2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0048-chapter-981-what-forever-means",
   title: "Chapter 981: What Forever Means",
   story: "story-read/he-who-fights-with-monsters",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0181181TheBallBegins = {
   id: "01a0672c-edcc-700a-9f3f-f2248636a3f8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0181-181-the-ball-begins",
   title: "181. The Ball Begins",
   story: "god-of-trash",

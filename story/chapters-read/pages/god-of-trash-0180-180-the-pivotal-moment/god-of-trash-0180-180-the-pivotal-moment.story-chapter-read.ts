@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0180180ThePivotalMoment = {
   id: "01a0672c-edcc-7009-91d9-b0425a75fb82",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0180-180-the-pivotal-moment",
   title: "180. The Pivotal Moment",
   story: "god-of-trash",

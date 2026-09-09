@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0156156NormalizingGarbage = {
   id: "01a0672c-edcb-7001-981d-75ecba15c80f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0156-156-normalizing-garbage",
   title: "156. Normalizing Garbage",
   story: "god-of-trash",

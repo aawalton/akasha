@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0051Chapter984WhatSlumbersUnderTheMountain = {
   id: "01a06731-addc-7000-ba66-79410d55b8c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0051-chapter-984-what-slumbers-under-the-mountain",
   title: "Chapter 984: What Slumbers Under the Mountain",
   story: "story-read/he-who-fights-with-monsters",

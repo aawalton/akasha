@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0232232IntoTheGreatFrozenNorth = {
   id: "01a06731-adf5-7005-8c15-88581fdff784",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0232-232-into-the-great-frozen-north",
   title: "232. Into the Great Frozen North",
   story: "god-of-trash",

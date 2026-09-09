@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0337337WhatsBehindDoorNumberOne = {
   id: "01a06731-ae05-7004-ac0a-5e5f6b8b780b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0337-337-whats-behind-door-number-one",
   title: "337. What's Behind Door Number One?",
   story: "god-of-trash",

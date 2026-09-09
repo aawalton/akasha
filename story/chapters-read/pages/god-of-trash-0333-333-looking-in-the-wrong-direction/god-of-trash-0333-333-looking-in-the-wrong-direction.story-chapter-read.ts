@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0333333LookingInTheWrongDirection = {
   id: "01a06731-ae05-7000-acf8-3d18122add74",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0333-333-looking-in-the-wrong-direction",
   title: "333. Looking in the Wrong Direction",
   story: "god-of-trash",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0018Chapter951MessyButDelicious = {
   id: "01a06731-adbf-7001-bfc8-c719c02a437f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0018-chapter-951-messy-but-delicious",
   title: "Chapter 951: Messy but Delicious",
   story: "story-read/he-who-fights-with-monsters",

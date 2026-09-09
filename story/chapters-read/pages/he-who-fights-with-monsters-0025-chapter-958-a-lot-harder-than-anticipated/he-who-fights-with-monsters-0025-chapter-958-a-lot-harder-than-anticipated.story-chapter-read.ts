@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heWhoFightsWithMonsters0025Chapter958ALotHarderThanAnticipated = {
   id: "01a06731-adc4-7002-870c-f07e4931677d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0025-chapter-958-a-lot-harder-than-anticipated",
   title: "Chapter 958: A Lot Harder Than Anticipated",
   story: "story-read/he-who-fights-with-monsters",

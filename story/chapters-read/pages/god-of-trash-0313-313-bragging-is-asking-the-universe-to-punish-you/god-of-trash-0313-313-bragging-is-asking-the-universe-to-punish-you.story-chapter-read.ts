@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0313313BraggingIsAskingTheUniverseToPunishYou = {
   id: "01a06731-ae01-7002-a61f-6692ee7bf495",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0313-313-bragging-is-asking-the-universe-to-punish-you",
   title: "313. Bragging is Asking the Universe to Punish You",
   story: "god-of-trash",

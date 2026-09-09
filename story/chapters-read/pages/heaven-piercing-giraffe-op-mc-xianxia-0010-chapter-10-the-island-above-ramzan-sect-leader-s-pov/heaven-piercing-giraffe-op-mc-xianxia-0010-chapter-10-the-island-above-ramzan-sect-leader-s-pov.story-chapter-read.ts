@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const heavenPiercingGiraffeOpMcXianxia0010Chapter10TheIslandAboveRamzanSectLeaderSPov = {
   id: "01a06731-b11d-7006-96d1-26a4ff1a4ce9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0010-chapter-10-the-island-above-ramzan-sect-leader-s-pov",
   title: "Chapter 10: The Island Above (Ramzan Sect Leader's POV)",
   story: "heaven-piercing-giraffe-op-mc-xianxia",

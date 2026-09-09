@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0169169AdeliseInfernon = {
   id: "01a0672c-edcb-700e-b3a7-ea9cfe4a75e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0169-169-adelise-infernon",
   title: "169. Adelise Infernon",
   story: "god-of-trash",
