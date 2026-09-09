@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatResumeDriver = {
   id: "01a0686d-9d5e-7016-8168-21e6a3ddfd3a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-resume-driver",
   definition: "the five things that put a resuming seat back to work",
   code: "ts",

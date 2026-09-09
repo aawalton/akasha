@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatSessionRename = {
   id: "01a0687e-534d-7000-bad8-47a890a18ce1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-session-rename",
   definition: "the tmux session a renamed seat sits in, moved to the seat's new name",
   code: "ts",

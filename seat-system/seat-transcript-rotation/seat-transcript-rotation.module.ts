@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatTranscriptRotation = {
   id: "01a071f5-4e4d-79a8-aff6-911818ba3e7e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-transcript-rotation",
   definition: "the transcript a seat should be read from where a clear superseded the one it names",
   code: "ts",

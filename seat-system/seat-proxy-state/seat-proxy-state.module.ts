@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatProxyState = {
   id: "01a06949-b281-74be-8e33-ceb172d49567",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-proxy-state",
   definition: "the oauth proxy a seat holds, written beside the seat and read back from akasha",
   code: "ts",

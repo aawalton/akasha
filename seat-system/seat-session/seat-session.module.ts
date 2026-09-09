@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatSession = {
   id: "01a06949-b281-709f-96f4-45790933cf1e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-session",
   definition: "the claude session a seat is bound to, read off its page or its history",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatPending = {
   id: "01a0657f-4492-7003-914d-556c08c04bef",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-pending",
   definition: "the four verdicts a seat's pendency is read as, and what decides between them",
   code: "ts",

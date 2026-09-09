@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatRevivePlacementDecide = {
   id: "01a0686d-9d5e-700c-bfab-34cefcdacc41",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-revive-placement-decide",
   definition: "whether a seat comes back up where it was standing or comes back headless",
   code: "ts",

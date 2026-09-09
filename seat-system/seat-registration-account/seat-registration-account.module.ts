@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatRegistrationAccount = {
   id: "01a06949-b281-7f25-beab-a1bc8f5ade76",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-registration-account",
   definition: "the account a seat is enrolled under, read from its page and shown as one line",
   code: "ts",

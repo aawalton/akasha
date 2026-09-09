@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatStating = {
   id: "01a05dc3-4f16-7000-b46d-ca7a113c86a8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-stating",
   definition: "the page written for a seat out of what it states",
   code: "ts",

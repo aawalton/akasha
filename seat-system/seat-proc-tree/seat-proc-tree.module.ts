@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatProcTree = {
   id: "01a0686d-9d5e-700a-b949-3878b576dfa8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-proc-tree",
   definition:
     "an agent's processes: which child is the main one, and which whole trees it has outlived",

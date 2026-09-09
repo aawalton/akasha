@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatResume = {
   id: "01a069cb-0380-75c8-b903-b90fa293edf7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-resume",
   definition: "a seat put back on the session it was bound to, live or stopped",
   code: "ts",

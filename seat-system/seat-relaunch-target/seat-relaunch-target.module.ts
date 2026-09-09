@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatRelaunchTarget = {
   id: "01a0686d-9d5e-7010-afb5-aba89bff0cd0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-relaunch-target",
   definition: "the name, account, presence and session a seat is stood back up from",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatRoleOnCall = {
   id: "01a0766c-11c7-79de-aa16-8aafc180ce58",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-role-on-call",
   definition: "which roles are on call, read from what the role pages carry",
   code: "ts",

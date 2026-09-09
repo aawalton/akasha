@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatUsage = {
   id: "01a0687b-3c96-7000-be32-deed725bb134",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-usage",
   definition: "the model a seat is on and how much of its context window is spent",
   code: "ts",

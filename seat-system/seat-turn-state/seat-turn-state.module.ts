@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatTurnState = {
   id: "01a0695a-d2ea-7c13-b182-16f7c69f5587",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-turn-state",
   definition:
     "a seat read as working, idle, waiting or stopped, from the records kept and the process named",
