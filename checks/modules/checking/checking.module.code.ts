@@ -7,7 +7,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
-import { closing, costOf, opening, recordCost } from "../check-cost/check-cost.module.code.ts"
+import { closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
 import type { AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 

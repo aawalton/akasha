@@ -3,7 +3,7 @@ import { join, resolve } from "node:path"
 import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
-import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
+import { costRecorded, opening } from "../../checks/modules/cost/check-cost.module.code.ts"
 import {
   type Held,
   listingOf,

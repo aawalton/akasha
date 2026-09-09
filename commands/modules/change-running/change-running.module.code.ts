@@ -5,11 +5,11 @@ import type { FileChange, Answer as Said } from "@akasha/changes/change-answer/t
 import { type Loaded, ranBy, runAt } from "@akasha/changes/change-loading"
 import { addedTo, ledgerAt, type World, worldAt } from "@akasha/changes/change-shadow"
 import { bodyIn, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
-import { costRecorded, opening } from "@akasha/checks/check-cost"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
+import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {

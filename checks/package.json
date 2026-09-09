@@ -6,7 +6,7 @@
     "./audit-reading": "./modules/audit-reading/audit-reading.module.code.ts",
     "./body-not-utf8": "./modules/body-not-utf8/body-not-utf8.module.code.ts",
     "./change-walking": "./modules/change-walking/change-walking.module.code.ts",
-    "./check-cost": "./modules/check-cost/check-cost.module.code.ts",
+    "./check-cost": "./modules/cost/check-cost.module.code.ts",
     "./checking": "./modules/checking/checking.module.code.ts",
     "./entries": "./code-checks/properties/entries.file-property.ts",
     "./judging": "./modules/judging/judging.module.code.ts",
