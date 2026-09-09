@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const shieldbearerRunner = {
   id: "01a0657e-0254-7f81-bead-7c838f16952f",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "shieldbearer-runner",
   title: "Shieldbearer Runner",
   world: "the-wandering-inn",
