@@ -1,6 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import { CHECK_EXEMPT_DIRS } from "../../../cluster-checks/modules/repo-scope/repo-scope.module.code.ts"
 import { judgingEach, TEXTS } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export type BoundaryKind =
@@ -44,6 +43,8 @@ const APPROVED_HELPER_PATTERN = /^parse[A-Z][A-Za-z0-9_]*$/
 const DECLARATIONS_ENDING = ".d.ts"
 
 const GENERATED_ENDINGS = [".generated.ts", ".generated.tsx"]
+
+const EXEMPT_DIRS: ReadonlySet<string> = new Set(["__fixtures__", "generated"])
 
 const SNIPPET_AT_MOST = 120
 
@@ -371,7 +372,7 @@ export function isExempt(at: string): boolean {
     if (at.endsWith(ending)) return true
   }
   for (const segment of at.split("/")) {
-    if (CHECK_EXEMPT_DIRS.has(segment)) return true
+    if (EXEMPT_DIRS.has(segment)) return true
   }
   return false
 }
