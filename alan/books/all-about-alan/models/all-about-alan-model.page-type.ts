@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Simulation } from "./properties/simulation.code-file-property.ts"
-
-export type AllAboutAlanModel = Page & {
-  title: Title
-  definition: Definition
-  simulation?: Simulation
-}
 
 export const allAboutAlanModel = {
   id: "01a0657f-a729-72ba-94d1-7b8ccb90a8e4",
@@ -34,4 +24,5 @@ export const allAboutAlanModel = {
       statement: "A topic citing a number cites the model the number came from.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
