@@ -12,7 +12,31 @@ export const landing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change is a base commit and the bodies the change would leave.",
+      statement: "A change is a base commit and the rows the change states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One array carries every row, whether that row writes, takes away or moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body a row leaves is worked out here rather than handed in beside the row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change stating no row is done rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a change writes nothing, commits nothing and takes no hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows a caller's bodies make are worked out here against a base commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling no text makes no row, and the caller is told which body.",
     },
     {
       invariantKind: "departure",
