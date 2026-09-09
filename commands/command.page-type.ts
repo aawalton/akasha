@@ -95,6 +95,7 @@ export const command = {
     "module/namespace-listing",
     "module/refusals-keeping",
     "module/value-minting",
+    "module/drafting",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

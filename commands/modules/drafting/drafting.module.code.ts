@@ -2,15 +2,16 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import type { Kind } from "../../../command-system/calling/calling.module.code.ts"
 import {
   clashing,
   markedAway,
   mergedOnto,
   sameBody,
-} from "../../commands/modules/body-merging/body-merging.module.code.ts"
-import { bodyAt } from "../../commands/modules/commit-reading/commit-reading.module.code.ts"
-import { committed } from "../../commands/modules/committing/committing.module.code.ts"
-import { holding } from "../../commands/modules/holding/holding.module.code.ts"
+} from "../body-merging/body-merging.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import { committed } from "../committing/committing.module.code.ts"
+import { holding } from "../holding/holding.module.code.ts"
 import {
   blobsIn,
   bodyOf,
@@ -18,8 +19,7 @@ import {
   dropBlobs,
   keepBlobs,
   patchOf,
-} from "../../commands/modules/patching/patching.module.code.ts"
-import type { Kind } from "../calling/calling.module.code.ts"
+} from "../patching/patching.module.code.ts"
 
 const NO_PAGE = "a path that is no page keeps no patch"
 

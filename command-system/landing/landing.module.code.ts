@@ -19,6 +19,7 @@ import {
   committed,
   whileIndexFrees,
 } from "../../commands/modules/committing/committing.module.code.ts"
+import type { Bodies } from "../../commands/modules/drafting/drafting.module.code.ts"
 import {
   clearedOff,
   clearedUnder,
@@ -34,7 +35,6 @@ import {
   outsideRoot,
   writesOutside,
 } from "../../commands/modules/said-pathing/said-pathing.module.code.ts"
-import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
