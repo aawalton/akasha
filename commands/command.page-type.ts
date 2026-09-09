@@ -54,6 +54,7 @@ export const command = {
     "namespace/model-gateway",
     "namespace/temper",
     "module/cli",
+    "module/spacing-stepping",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
