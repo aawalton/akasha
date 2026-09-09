@@ -7,7 +7,7 @@ export const aura = {
   personaSlug: "aura",
   assignmentSlug: "initiative/aura-harness-drive",
   role: "definer",
-  person: "alan",
+  personSlug: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
