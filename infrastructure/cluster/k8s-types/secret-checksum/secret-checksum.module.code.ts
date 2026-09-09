@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
 import { ran } from "@akasha/utils/run/running"
 
 export function secretChecksum(namespace: string, secret: string, keys: readonly string[]): string {
-  const jsonpath = keys.map((key) => `{.data.${key}}`).join("")
+  const jsonpath = keys.map((key) => `{.data.${key.replaceAll(".", "\\.")}}`).join("")
   const done = ran([
     "kubectl",
     "get",
