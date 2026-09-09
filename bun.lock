@@ -1031,6 +1031,16 @@
         "@akasha/temper-addon-init": "workspace:*",
       },
     },
+    "temper/companions-addon": {
+      "name": "@akasha/temper-companions-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
@@ -1269,16 +1279,6 @@
     },
     "temper/temper-combat-addon": {
       "name": "@akasha/temper-combat-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-companions-addon": {
-      "name": "@akasha/temper-companions-addon",
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -1601,7 +1601,7 @@
 
     "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/temper-combat-addon"],
 
-    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/temper-companions-addon"],
+    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/companions-addon"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 
