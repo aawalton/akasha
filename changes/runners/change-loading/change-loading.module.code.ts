@@ -10,6 +10,7 @@ import { narrows, slugIn } from "../../modules/target-narrowing/target-narrowing
 
 const CODE = "code"
 const TS = "ts"
+const GUARDS = "guards"
 const GUARD_SLUGS = "guardSlugs"
 const RUN_CHANGE = "runChange"
 const RUN_GUARD = "runGuard"
@@ -50,7 +51,9 @@ export function guardSlugsIn(world: World, address: string): readonly string[] {
   const parts = partsOf(address)
   if (parts === null) return []
   const value = world.index.pageAt(parts[0], parts[1])
-  const named = value === null ? null : value[GUARD_SLUGS]
+  if (value === null) return []
+  const held = value[GUARDS]
+  const named = Array.isArray(held) ? held : value[GUARD_SLUGS]
   return Array.isArray(named) ? named.filter((one) => typeof one === "string") : []
 }
 
