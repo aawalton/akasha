@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { SecretPage } from "../secret-placing/secret-placing.module.code.ts"
+import type { SecretPage } from "../placing/secret-placing.module.code.ts"
 import { flagValue, flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
 
 function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {

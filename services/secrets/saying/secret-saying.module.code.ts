@@ -5,7 +5,7 @@ import {
   type SecretPage,
   secretPages,
   secretValueOf,
-} from "../secret-placing/secret-placing.module.code.ts"
+} from "../placing/secret-placing.module.code.ts"
 
 const PREFIX = "[secret-saying]"
 

@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs"
 import { parseEnv } from "node:util"
-import { valuesFor } from "../../secrets/secret-saying/secret-saying.module.code.ts"
+import { valuesFor } from "../../secrets/saying/secret-saying.module.code.ts"
 import { lookupApp } from "../dev-server-stating/dev-server-stating.module.code.ts"
 
 const NEXT_PUBLIC_COPY_PAIRS: ReadonlyArray<readonly [string, string]> = [
