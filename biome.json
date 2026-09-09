@@ -176,6 +176,8 @@
         "temper/lorebooks/lorebooks-book-data*/**",
         "temper/lorebooks/lorebooks-library-data*/**",
         "temper/lorebooks/lorebooks-shalidor-locations*/**",
+        "temper/lib-treasure/**",
+        "temper/navigation-addon/**",
         "temper/temper-lib-treasure/**",
         "temper/temper-navigation-addon/**"
       ],
