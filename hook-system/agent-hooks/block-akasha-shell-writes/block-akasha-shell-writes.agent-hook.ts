@@ -7,6 +7,7 @@ export const blockAkashaShellWrites = {
   definition: "the hook refusing a shell write that lands inside akasha",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   runsAt: ["PreToolUse"],
   overTools: ["Bash"],
   invariants: [

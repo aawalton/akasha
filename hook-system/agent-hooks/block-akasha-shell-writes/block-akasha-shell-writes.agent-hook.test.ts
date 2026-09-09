@@ -1,10 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
-import { scratchWorld } from "@akasha/command-system/scratching"
 import { indexNamed } from "@akasha/indexes"
-import { ran } from "@akasha/utils/run/running"
 import {
   editsInPlace,
   landingsIn,
@@ -16,6 +12,7 @@ import {
   redirectsIn,
   refusalFor,
 } from "./block-akasha-shell-writes.agent-hook.code.ts"
+import { scratch, WORLD } from "./block-akasha-shell-writes.agent-hook.test-fixtures.ts"
 
 const ROOT = rootOf(import.meta.path)
 
@@ -320,24 +317,7 @@ test("a call past a heredoc delimiter is another call", () => {
   ).toBeNull()
 })
 
-const scratch = scratchWorld()
-
 afterAll(scratch.sweep)
-
-function worldAt(): string {
-  const root = realpathSync(scratch.rootFor("block-akasha-shell-writes-"))
-  mkdirSync(join(root, "graph"), { recursive: true })
-  writeFileSync(join(root, "graph", "held.domain.ts"), "held\n")
-  mkdirSync(join(root, "node_modules", "@akasha"), { recursive: true })
-  writeFileSync(join(root, ".gitignore"), "node_modules/\n")
-  symlinkSync("../../graph", join(root, "node_modules", "@akasha", "graph-system"))
-  symlinkSync("graph", join(root, "graph-link"))
-  symlinkSync(indexNamed(), join(root, "index-link"))
-  ran(["git", "init", "-q", root])
-  return root
-}
-
-const WORLD = worldAt()
 
 function saidThere(command: string): string | null {
   return refusalFor(command, WORLD, WORLD)
