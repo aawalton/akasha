@@ -5,7 +5,7 @@ export const profile = {
   pageTypeSlug: "learn-everything-topic",
   slug: "profile",
   node: "Everything",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
 } as const satisfies LearnEverythingTopic

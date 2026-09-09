@@ -5,7 +5,7 @@ export const learnEverythingTopic03MotionPictures = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-motion-pictures",
   node: "Art › Particular Arts › Motion Pictures",
-  masteryLevelSlug: "mastery-level/expert",
+  masteryLevel: "mastery-level/expert",
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

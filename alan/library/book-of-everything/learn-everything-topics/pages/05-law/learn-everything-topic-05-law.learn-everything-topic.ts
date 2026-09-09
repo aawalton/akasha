@@ -5,7 +5,7 @@ export const learnEverythingTopic05Law = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-law",
   node: "Human Society › Law",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-human-society"],

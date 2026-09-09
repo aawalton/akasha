@@ -5,7 +5,7 @@ export const learnEverythingTopic10TheBranchesOfKnowledge = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-10-the-branches-of-knowledge",
   node: "The Branches of Knowledge",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

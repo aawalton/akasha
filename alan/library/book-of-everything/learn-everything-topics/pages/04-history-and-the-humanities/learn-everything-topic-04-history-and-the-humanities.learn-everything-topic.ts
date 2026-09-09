@@ -5,7 +5,7 @@ export const learnEverythingTopic04HistoryAndTheHumanities = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-history-and-the-humanities",
   node: "The Branches of Knowledge › History and The Humanities",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],

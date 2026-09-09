@@ -5,7 +5,7 @@ export const learnEverythingTopic03ChemicalReactions = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-chemical-reactions",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Reactions",
-  masteryLevelSlug: "mastery-level/scholar",
+  masteryLevel: "mastery-level/scholar",
   scoredOn: "2026-09-06",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

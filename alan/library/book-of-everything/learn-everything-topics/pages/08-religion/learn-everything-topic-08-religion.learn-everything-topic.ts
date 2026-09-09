@@ -5,7 +5,7 @@ export const learnEverythingTopic08Religion = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-08-religion",
   node: "Religion",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

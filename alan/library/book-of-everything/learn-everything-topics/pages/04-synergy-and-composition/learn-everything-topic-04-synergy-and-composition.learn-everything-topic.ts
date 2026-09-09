@@ -5,7 +5,7 @@ export const learnEverythingTopic04SynergyAndComposition = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-synergy-and-composition",
   node: "Art › Particular Arts › Game Design › Synergy and Composition",
-  masteryLevelSlug: "mastery-level/student",
+  masteryLevel: "mastery-level/student",
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

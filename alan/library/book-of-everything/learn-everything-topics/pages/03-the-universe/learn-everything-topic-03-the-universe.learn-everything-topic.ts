@@ -5,7 +5,7 @@ export const learnEverythingTopic03TheUniverse = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-universe",
   node: "Matter and Energy › The Universe",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-matter-and-energy"],

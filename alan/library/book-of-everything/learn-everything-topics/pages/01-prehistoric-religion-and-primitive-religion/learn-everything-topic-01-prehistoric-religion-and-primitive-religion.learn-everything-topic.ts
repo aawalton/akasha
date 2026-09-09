@@ -5,7 +5,7 @@ export const learnEverythingTopic01PrehistoricReligionAndPrimitiveReligion = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-prehistoric-religion-and-primitive-religion",
   node: "Religion › Particular Religions › Prehistoric Religion and Primitive Religion",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

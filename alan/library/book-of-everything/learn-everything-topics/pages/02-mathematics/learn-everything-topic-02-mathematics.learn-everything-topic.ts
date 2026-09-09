@@ -5,7 +5,7 @@ export const learnEverythingTopic02Mathematics = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-mathematics",
   node: "The Branches of Knowledge › Mathematics",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],

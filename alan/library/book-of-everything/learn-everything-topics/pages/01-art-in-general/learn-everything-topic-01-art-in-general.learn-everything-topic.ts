@@ -5,7 +5,7 @@ export const learnEverythingTopic01ArtInGeneral = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-art-in-general",
   node: "Art › Art in General",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-06-art"],

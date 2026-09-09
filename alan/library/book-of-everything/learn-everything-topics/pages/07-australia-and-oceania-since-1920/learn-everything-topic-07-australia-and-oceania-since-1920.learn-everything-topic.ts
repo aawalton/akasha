@@ -5,7 +5,7 @@ export const learnEverythingTopic07AustraliaAndOceaniaSince1920 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-07-australia-and-oceania-since-1920",
   node: "The History of Mankind › The World Since 1920 › Australia and Oceania Since 1920",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],

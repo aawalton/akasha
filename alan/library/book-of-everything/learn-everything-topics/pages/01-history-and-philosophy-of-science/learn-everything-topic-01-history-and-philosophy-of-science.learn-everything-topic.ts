@@ -5,7 +5,7 @@ export const learnEverythingTopic01HistoryAndPhilosophyOfScience = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-history-and-philosophy-of-science",
   node: "The Branches of Knowledge › Science › History and Philosophy of Science",
-  masteryLevelSlug: "mastery-level/novice",
+  masteryLevel: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-science"],
