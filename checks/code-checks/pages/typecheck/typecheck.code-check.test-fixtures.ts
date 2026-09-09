@@ -1,7 +1,6 @@
 import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { importEdge } from "@akasha/graph/import-edge"
 import { importIn } from "@akasha/indexes/import"
 import { indexImport } from "@akasha/indexes/import/page"
 import {
@@ -13,6 +12,7 @@ import {
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { put, there } from "@akasha/testing-system/putting"
+import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 

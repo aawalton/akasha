@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const graph = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
-  manifest: "json",
   parts: [
     "page-type/graph-node",
     "page-type/graph-edge",
@@ -79,4 +78,4 @@ export const graph = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

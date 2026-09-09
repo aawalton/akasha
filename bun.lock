@@ -775,12 +775,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "graph": {
-      "name": "@akasha/graph",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-      },
-    },
     "hook-system": {
       "name": "@akasha/hook-system",
     },
@@ -2423,8 +2417,6 @@
     "@akasha/google-email": ["@akasha/google-email@workspace:google/email"],
 
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:google/oauth"],
-
-    "@akasha/graph": ["@akasha/graph@workspace:graph"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 
