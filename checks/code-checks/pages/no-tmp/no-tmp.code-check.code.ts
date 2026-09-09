@@ -97,6 +97,7 @@ function allowedIn(path: string, shadow: Shadow): boolean {
   if (listed === undefined) return false
   const page = shadow.pageOf(listed.path)
   if (page === null) return false
+  if (page[ALLOWS] === true) return true
   const slug = textAt(page, TYPE) ?? textAt(page, WAS_TYPE_SLUG)
   if (slug === null) return false
   return shadow.index.pageAt(PAGE_TYPE, slug)?.[ALLOWS] === true

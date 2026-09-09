@@ -35,6 +35,10 @@ export const noTmp = {
     },
     {
       invariantKind: "departure",
+      statement: "A page says the same of its own paths, and what the page says is read first.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file whose page type says so is passed over.",
     },
     {

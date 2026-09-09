@@ -1,5 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { AllowsTmpPaths } from "akasha/pages/types/properties/allows-tmp-paths.boolean-property.ts"
 import type { Code } from "./properties/code.code-file-property.ts"
 import type { ModuleTypes } from "./properties/module-types.file-property.ts"
 import type { Test } from "./properties/test.code-file-property.ts"
@@ -10,6 +11,7 @@ export type Module = Domain & {
   types?: ModuleTypes
   test?: Test
   testFixtures?: TestFixtures
+  allowsTmpPaths?: AllowsTmpPaths
 }
 
 export const module = {
@@ -30,6 +32,7 @@ export const module = {
     { pageProperty: "file-property/module-types", required: false, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
+    { pageProperty: "boolean-property/allows-tmp-paths", required: false, many: false },
   ],
   invariants: [
     {
@@ -55,6 +58,10 @@ export const module = {
     {
       invariantKind: "departure",
       statement: "A module's test fixtures are a page property of their own beside its test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A module composing what a container runs says its paths are that container's.",
     },
   ],
 } as const satisfies PageType
