@@ -5,6 +5,6 @@ export const fleshshapers = {
   pageTypeSlug: "world-class",
   slug: "fleshshapers",
   title: "Fleshshapers",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

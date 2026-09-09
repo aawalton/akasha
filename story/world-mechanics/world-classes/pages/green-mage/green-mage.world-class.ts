@@ -5,7 +5,7 @@ export const greenMage = {
   pageTypeSlug: "world-class",
   slug: "green-mage",
   title: "Green Mage",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["green-mages"],
   evolvesToSlugs: ["bloodearth-mage"],
   references: "jsonl",

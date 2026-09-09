@@ -5,6 +5,6 @@ export const ghosttouchedRunaway = {
   pageTypeSlug: "world-class",
   slug: "ghosttouched-runaway",
   title: "Ghosttouched Runaway",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["brave-helmswoman"],
 } as const satisfies WorldClass

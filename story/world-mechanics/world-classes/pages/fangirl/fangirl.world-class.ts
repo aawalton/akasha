@@ -5,5 +5,5 @@ export const fangirl = {
   pageTypeSlug: "world-class",
   slug: "fangirl",
   title: "Fangirl",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldClass

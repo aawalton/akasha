@@ -5,7 +5,7 @@ export const explorer = {
   pageTypeSlug: "world-class",
   slug: "explorer",
   title: "Explorer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["explorers"],
   references: "jsonl",
 } as const satisfies WorldClass

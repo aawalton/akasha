@@ -5,7 +5,7 @@ export const general = {
   pageTypeSlug: "world-class",
   slug: "general",
   title: "General",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["generals"],
   evolvesFromSlugs: ["warrior"],
   references: "jsonl",

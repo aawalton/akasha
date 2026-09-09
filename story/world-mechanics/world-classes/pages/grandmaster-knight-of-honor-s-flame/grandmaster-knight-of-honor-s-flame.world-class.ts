@@ -5,6 +5,6 @@ export const grandmasterKnightOfHonorSFlame = {
   pageTypeSlug: "world-class",
   slug: "grandmaster-knight-of-honor-s-flame",
   title: "Grandmaster Knight of Honor’s Flame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

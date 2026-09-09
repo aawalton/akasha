@@ -5,7 +5,7 @@ export const gossip = {
   pageTypeSlug: "world-class",
   slug: "gossip",
   title: "Gossip",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["gossips"],
   evolvesToSlugs: ["honest-reporter"],
   references: "jsonl",

@@ -5,6 +5,6 @@ export const explorerClassCancelled = {
   pageTypeSlug: "world-class",
   slug: "explorer-class-cancelled",
   title: "Explorer class cancelled.",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

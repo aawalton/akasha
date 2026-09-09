@@ -5,7 +5,7 @@ export const healer = {
   pageTypeSlug: "world-class",
   slug: "healer",
   title: "Healer",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["healers"],
   evolvesToSlugs: ["headstrong-healer"],
   references: "jsonl",
