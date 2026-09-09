@@ -31,7 +31,7 @@ export const temper = {
     "domain/temper-holdings",
     "domain/temper-progress",
     "page-type/temper-thing",
-    "workspace-package/temper-watcher",
+    "domain/temper-watcher",
     "domain/temper-inventory-automation",
     "rust-crate/watcher-tray",
     "domain/temper-commands",

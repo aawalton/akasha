@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperWatcher = {
   id: "01a06039-9c87-70d4-a728-02d7341ee89e",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-watcher",
   definition: "what carries what Alan did in the game across to the web",
-  manifest: "json",
   parts: [
     "module/watcher-paths",
     "module/watcher-daemon",
@@ -92,4 +91,4 @@ export const temperWatcher = {
       statement: "The watcher reaches every page over pages-service rather than over the checkout.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

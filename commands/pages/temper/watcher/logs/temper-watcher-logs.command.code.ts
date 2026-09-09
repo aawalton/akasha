@@ -2,10 +2,13 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
-import type { LogSource, WatcherLogLine } from "@akasha/temper-watcher/watcher-log-line"
-import { parseWatcherLine } from "@akasha/temper-watcher/watcher-log-line"
-import { mergeNewestFirst } from "@akasha/temper-watcher/watcher-log-merging"
-import { watcherLogDir } from "@akasha/temper-watcher/watcher-paths"
+import type {
+  LogSource,
+  WatcherLogLine,
+} from "akasha/temper/temper-watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import { parseWatcherLine } from "akasha/temper/temper-watcher/watcher-log-line/watcher-log-line.module.code.ts"
+import { mergeNewestFirst } from "akasha/temper/temper-watcher/watcher-log-merging/watcher-log-merging.module.code.ts"
+import { watcherLogDir } from "akasha/temper/temper-watcher/watcher-paths/watcher-paths.module.code.ts"
 
 const INPUT = 1
 const DATA = 2

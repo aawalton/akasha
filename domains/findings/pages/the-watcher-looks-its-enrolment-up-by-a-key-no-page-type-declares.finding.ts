@@ -4,7 +4,7 @@ export const theWatcherLooksItsEnrolmentUpByAKeyNoPageTypeDeclares = {
   id: "01a063c4-be37-72b1-bd7d-20d3ba3e8b2b",
   pageTypeSlug: "finding",
   slug: "the-watcher-looks-its-enrolment-up-by-a-key-no-page-type-declares",
-  domain: "workspace-package/temper-watcher",
+  domain: "domain/temper-watcher",
   claim:
     "The legacy watcher looks its enrolment page up by `accountUserId`, and no page type in the enrolment's chain declares that key. The chain declares `accountPage`. The lookup matches nothing on every run, so the watcher logs that the account has no enrolment page and no run outcome is ever recorded. The akasha twin finds the enrolment by the account the enrolment names, so at cutover run outcomes begin to be recorded rather than to regress.",
   evidence:

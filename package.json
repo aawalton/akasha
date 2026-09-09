@@ -29,7 +29,6 @@
     "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/temper-quests-trace": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
-    "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@googleapis/calendar": "^15.0.0",
     "@googleapis/drive": "^20.2.0",
@@ -121,7 +120,9 @@
     "@akasha/temper-characters-capture-addon": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
-    "@akasha/temper-skill-morphs-access": "workspace:*"
+    "@akasha/temper-skill-morphs-access": "workspace:*",
+    "@akasha/temper-capture-errors": "workspace:*",
+    "@akasha/temper-character-build": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",
