@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperGameCatalogCaptureAddon = {
   id: "01a060e2-3185-7405-a79e-40fe38c8220f",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-game-catalog-capture-addon",
   definition:
     "the collectors reading the game's reference catalogs into an add-on's saved variables",
-  manifest: "json",
   parts: [
     "module/achievement-catalog-capture",
     "module/antiquity-lore-catalog-capture",
@@ -58,4 +57,4 @@ export const temperGameCatalogCaptureAddon = {
       statement: "Nothing here reads the player's progress.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

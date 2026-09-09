@@ -1085,7 +1085,6 @@
       "dependencies": {
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-game-catalog-capture-addon": "workspace:*",
       },
     },
     "temper/characters-equipment-ui": {
@@ -1139,15 +1138,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
-      },
-    },
-    "temper/game-catalog-capture-addon": {
-      "name": "@akasha/temper-game-catalog-capture-addon",
-      "dependencies": {
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/housing-addon": {
@@ -2003,8 +1993,6 @@
     "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/events-addon"],
 
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
-
-    "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:temper/game-catalog-capture-addon"],
 
     "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
 

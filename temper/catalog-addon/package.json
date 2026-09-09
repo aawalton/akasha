@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-catalog-core": "workspace:*",
-    "@akasha/temper-game-catalog-capture-addon": "workspace:*"
+    "@akasha/temper-catalog-core": "workspace:*"
   }
 }
