@@ -2,7 +2,7 @@ import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-rea
 import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import type { BitWriterState } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { writeBits } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
-import type { ChampionPointId } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import {
   CHAMPION_POINT_BITS,

@@ -6,7 +6,7 @@ import {
   type ChampionPointId,
   type ChampionPointSource,
   championPoints,
-} from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+} from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
 import type { FilterableSelectDialogConfig } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

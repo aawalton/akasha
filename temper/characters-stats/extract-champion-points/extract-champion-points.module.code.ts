@@ -1,7 +1,7 @@
 import {
   type ChampionPointSource,
   championPoints,
-} from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+} from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export function getCPSkillDisplayName(championPointId: string): string {
