@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic08Islam = {
   id: "01a065a7-0857-7007-b5fb-1d65e8d2ecb0",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-08-islam",
   node: "Religion › Particular Religions › Islam",
   masteryLevel: "mastery-level/novice",

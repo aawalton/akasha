@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03ClassificationOfLivingThings = {
   id: "01a065a7-0854-7007-9073-63648f68e86a",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-classification-of-living-things",
   node: "Life on Earth › The Nature and Diversity of Life › Classification of Living Things",
   masteryLevel: "mastery-level/novice",

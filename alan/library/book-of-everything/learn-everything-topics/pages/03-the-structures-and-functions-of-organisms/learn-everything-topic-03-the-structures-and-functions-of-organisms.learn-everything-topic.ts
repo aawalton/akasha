@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03TheStructuresAndFunctionsOfOrganisms = {
   id: "01a065a7-0854-700c-afb7-df1590fe439b",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-structures-and-functions-of-organisms",
   node: "Life on Earth › The Structures and Functions of Organisms",
   masteryLevel: "mastery-level/novice",

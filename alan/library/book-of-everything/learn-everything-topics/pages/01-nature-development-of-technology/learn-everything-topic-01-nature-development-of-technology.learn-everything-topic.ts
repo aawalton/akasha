@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01NatureDevelopmentOfTechnology = {
   id: "01a065a7-0856-7019-ad93-13c9b5b1ea3f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-nature-development-of-technology",
   node: "Technology › Nature & Development of Technology",
   masteryLevel: "mastery-level/novice",

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic05Macroeconomics = {
   id: "01a065a7-0855-7027-b7e9-9addb9e19097",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-05-macroeconomics",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Macroeconomics",
   masteryLevel: "mastery-level/novice",

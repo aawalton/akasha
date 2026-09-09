@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const profile = {
   id: "01a065a7-085b-701e-8335-c90f8b9e72d8",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "profile",
   node: "Everything",
   masteryLevel: "mastery-level/novice",

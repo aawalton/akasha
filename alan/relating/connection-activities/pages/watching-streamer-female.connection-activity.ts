@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const watchingStreamerFemale = {
   id: "019e9369-dc46-73aa-88a3-8ab9d3d33971",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "watching-streamer-female",
   title: "Watching streamer — female",
   connectionActivityAttn: 1,

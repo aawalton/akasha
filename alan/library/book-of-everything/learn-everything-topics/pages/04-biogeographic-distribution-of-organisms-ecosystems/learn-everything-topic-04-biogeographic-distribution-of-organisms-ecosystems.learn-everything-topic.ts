@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic04BiogeographicDistributionOfOrganismsEcosystems = {
   id: "01a065a7-0855-7004-a120-c79ccaee89db",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-04-biogeographic-distribution-of-organisms-ecosystems",
   node: "Life on Earth › The Biosphere › Biogeographic Distribution of Organisms: Ecosystems",
   masteryLevel: "mastery-level/novice",

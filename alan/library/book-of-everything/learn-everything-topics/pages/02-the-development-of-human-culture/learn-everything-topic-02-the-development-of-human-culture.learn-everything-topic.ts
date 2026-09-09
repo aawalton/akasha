@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02TheDevelopmentOfHumanCulture = {
   id: "01a065a7-0855-701a-86c9-504224d23e0f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-development-of-human-culture",
   node: "Human Society › Social Groups: Ethnic groups and Cultures › The Development of Human Culture",
   masteryLevel: "mastery-level/scholar",

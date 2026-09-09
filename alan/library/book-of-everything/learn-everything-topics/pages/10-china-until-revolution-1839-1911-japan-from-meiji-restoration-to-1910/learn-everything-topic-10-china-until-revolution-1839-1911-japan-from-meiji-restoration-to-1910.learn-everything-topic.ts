@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic10ChinaUntilRevolution18391911JapanFromMeijiRestorationTo1910 = {
   id: "01a065a7-085a-7016-b7d5-e54be26e8689",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910",
   node: "The History of Mankind › The Modern World to 1920 › China until Revolution 1839–1911, Japan from Meiji Restoration to 1910",
   masteryLevel: "mastery-level/novice",

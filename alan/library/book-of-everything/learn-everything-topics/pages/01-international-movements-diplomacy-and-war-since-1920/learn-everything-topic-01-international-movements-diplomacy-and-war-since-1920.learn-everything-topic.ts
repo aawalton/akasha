@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01InternationalMovementsDiplomacyAndWarSince1920 = {
   id: "01a065a7-085a-7019-a40e-b3758ebeaf7a",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-international-movements-diplomacy-and-war-since-1920",
   node: "The History of Mankind › The World Since 1920 › International Movements, Diplomacy and War Since 1920",
   masteryLevel: "mastery-level/novice",

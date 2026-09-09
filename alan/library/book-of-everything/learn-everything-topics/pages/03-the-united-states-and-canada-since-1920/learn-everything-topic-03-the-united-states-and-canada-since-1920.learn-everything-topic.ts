@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03TheUnitedStatesAndCanadaSince1920 = {
   id: "01a065a7-085a-701b-bd78-003c6ae09797",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-united-states-and-canada-since-1920",
   node: "The History of Mankind › The World Since 1920 › The United States and Canada Since 1920",
   masteryLevel: "mastery-level/novice",

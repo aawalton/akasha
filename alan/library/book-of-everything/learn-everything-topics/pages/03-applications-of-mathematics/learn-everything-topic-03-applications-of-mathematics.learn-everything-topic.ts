@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03ApplicationsOfMathematics = {
   id: "01a065a7-085b-7007-8b53-a2ba99a68ea8",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-applications-of-mathematics",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics",
   masteryLevel: "mastery-level/scholar",

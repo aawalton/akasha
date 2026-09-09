@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const brentLoriMeisinger = {
   id: "019db533-f384-7d65-a68a-8c177f4dcf90",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "brent-lori-meisinger",
   title: "Brent + Lori Meisinger",
   relationshipCommitment: 3,

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02DormantMechanicsAndContentCadence = {
   id: "01a065a7-0856-7012-9beb-f4a11d58d4b8",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-dormant-mechanics-and-content-cadence",
   node: "Art › Particular Arts › Game Design › Dormant Mechanics and Content Cadence",
   masteryLevel: "mastery-level/scholar",

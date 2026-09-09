@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const venmoOtherSign = {
   id: "01a0655b-fcdb-7006-bb68-0673fa1a2d33",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "venmo-other-sign",
   title: "Venmo other sign",
   matches: [

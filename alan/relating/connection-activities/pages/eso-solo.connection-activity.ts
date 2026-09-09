@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const esoSolo = {
   id: "019e931f-67a6-7b5d-b46d-9edc5725a1f3",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "eso-solo",
   title: "ESO solo",
   connectionActivityAttn: 1,

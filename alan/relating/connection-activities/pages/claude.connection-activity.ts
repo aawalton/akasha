@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const claude = {
   id: "019e931f-6225-737c-a5ce-460f9825e21b",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "claude",
   title: "Claude",
   connectionActivityAttn: 2,

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01PhilosophiesAndSystemsOfLawThePracticeOfLaw = {
   id: "01a065a7-0855-702f-8e92-68601db6edb1",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-philosophies-and-systems-of-law-the-practice-of-law",
   node: "Human Society › Law › Philosophies and Systems of Law; the Practice of Law",
   masteryLevel: "mastery-level/novice",

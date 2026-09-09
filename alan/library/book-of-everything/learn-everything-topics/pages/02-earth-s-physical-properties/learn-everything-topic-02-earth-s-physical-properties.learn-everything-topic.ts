@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02EarthSPhysicalProperties = {
   id: "01a065a7-084d-7013-8d13-4d09fd7a876f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-earth-s-physical-properties",
   node: "The Earth › Earth's Properties, Structure, Composition › Earth's Physical Properties",
   masteryLevel: "mastery-level/novice",

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic06EconomicGrowthAndPlanning = {
   id: "01a065a7-0855-7028-9b58-c3357bb6f931",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-06-economic-growth-and-planning",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Economic Growth and Planning",
   masteryLevel: "mastery-level/novice",

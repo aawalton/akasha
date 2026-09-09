@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic04MineralsAndRocks = {
   id: "01a065a7-084d-7015-91a0-974ad227f605",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-04-minerals-and-rocks",
   node: "The Earth › Earth's Properties, Structure, Composition › Minerals and Rocks",
   masteryLevel: "mastery-level/novice",

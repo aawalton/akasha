@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01HistoryOfPhilosophy = {
   id: "01a065a7-085b-7019-9c67-8551590b2647",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-history-of-philosophy",
   node: "The Branches of Knowledge › Philosophy › History of Philosophy",
   masteryLevel: "mastery-level/novice",

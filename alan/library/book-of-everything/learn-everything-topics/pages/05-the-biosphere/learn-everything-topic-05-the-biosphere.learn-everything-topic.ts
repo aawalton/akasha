@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic05TheBiosphere = {
   id: "01a065a7-0855-7000-86b1-fdf80fc20410",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-05-the-biosphere",
   node: "Life on Earth › The Biosphere",
   masteryLevel: "mastery-level/novice",

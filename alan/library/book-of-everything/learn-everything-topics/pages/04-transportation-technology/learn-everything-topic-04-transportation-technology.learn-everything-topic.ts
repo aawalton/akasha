@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic04TransportationTechnology = {
   id: "01a065a7-0856-7027-8fff-f35c3e1a76a4",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-04-transportation-technology",
   node: "Technology › Fields of Technology › Transportation Technology",
   masteryLevel: "mastery-level/novice",

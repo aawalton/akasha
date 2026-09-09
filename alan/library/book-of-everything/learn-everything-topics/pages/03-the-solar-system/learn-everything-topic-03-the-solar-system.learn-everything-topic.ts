@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03TheSolarSystem = {
   id: "01a065a7-084d-700f-bf89-d7c1c558d29e",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-solar-system",
   node: "Matter and Energy › The Universe › The Solar System",
   masteryLevel: "mastery-level/novice",

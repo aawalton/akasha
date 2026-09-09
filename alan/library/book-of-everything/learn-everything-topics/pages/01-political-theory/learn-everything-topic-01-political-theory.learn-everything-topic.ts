@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01PoliticalTheory = {
   id: "01a065a7-0855-702a-b71b-8ee6e8e3b275",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-political-theory",
   node: "Human Society › Politics and Government › Political Theory",
   masteryLevel: "mastery-level/scholar",

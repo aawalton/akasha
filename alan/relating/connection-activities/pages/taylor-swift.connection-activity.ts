@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const taylorSwift = {
   id: "019e931f-6388-78d2-b93f-f722013503c3",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "taylor-swift",
   title: "Taylor Swift",
   connectionActivityAttn: 1,

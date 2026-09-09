@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic05SouthernAfricaTo1885 = {
   id: "01a065a7-085a-7002-adfe-ba94dc9ed192",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-05-southern-africa-to-1885",
   node: "The History of Mankind › Sub-Saharan Africa to 1885 › Southern Africa to 1885",
   masteryLevel: "mastery-level/novice",

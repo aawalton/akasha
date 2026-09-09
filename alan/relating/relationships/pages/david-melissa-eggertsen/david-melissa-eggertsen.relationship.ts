@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const davidMelissaEggertsen = {
   id: "019db533-f382-75d6-aa77-372d69ba27c3",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "david-melissa-eggertsen",
   title: "David + Melissa Eggertsen",
   relationshipCommitment: 5,

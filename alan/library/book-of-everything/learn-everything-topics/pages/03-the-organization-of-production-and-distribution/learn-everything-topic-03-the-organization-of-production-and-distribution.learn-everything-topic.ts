@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03TheOrganizationOfProductionAndDistribution = {
   id: "01a065a7-0855-7025-9299-d2f61f66f04c",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-the-organization-of-production-and-distribution",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › The Organization of Production and Distribution",
   masteryLevel: "mastery-level/novice",

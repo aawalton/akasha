@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const dennisKarenDeLaCorte = {
   id: "019db533-f382-78ec-a89f-a3bb14b6b4a0",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "dennis-karen-de-la-corte",
   title: "Dennis + Karen De La Corte",
   relationshipCommitment: 4,

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic05TechnologyOfIndustrialProductionProcesses = {
   id: "01a065a7-0856-7022-8585-f4bc90eb5e18",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-05-technology-of-industrial-production-processes",
   node: "Technology › Elements of Technology › Technology of Industrial Production Processes",
   masteryLevel: "mastery-level/novice",

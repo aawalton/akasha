@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02EducationAroundTheWorld = {
   id: "01a065a7-0855-7034-b364-ddf48a10933a",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-education-around-the-world",
   node: "Human Society › Education › Education Around the World",
   masteryLevel: "mastery-level/novice",

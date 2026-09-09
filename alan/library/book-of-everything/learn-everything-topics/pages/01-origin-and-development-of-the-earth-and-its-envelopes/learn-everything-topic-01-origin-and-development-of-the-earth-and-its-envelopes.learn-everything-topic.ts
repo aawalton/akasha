@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes = {
   id: "01a065a7-0854-7000-8807-15b63455116d",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes",
   node: "The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes",
   masteryLevel: "mastery-level/scholar",

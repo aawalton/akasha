@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01HumanEvolution = {
   id: "01a065a7-0855-7008-addd-079184664c1f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-human-evolution",
   node: "Human Life › The Development of Human Life › Human Evolution",
   masteryLevel: "mastery-level/novice",

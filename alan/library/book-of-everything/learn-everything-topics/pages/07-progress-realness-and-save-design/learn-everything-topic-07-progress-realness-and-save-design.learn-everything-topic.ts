@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic07ProgressRealnessAndSaveDesign = {
   id: "01a065a7-0856-7017-9c62-aefb969ad8f5",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-07-progress-realness-and-save-design",
   node: "Art › Particular Arts › Game Design › Progress Realness and Save Design",
   masteryLevel: "mastery-level/scholar",

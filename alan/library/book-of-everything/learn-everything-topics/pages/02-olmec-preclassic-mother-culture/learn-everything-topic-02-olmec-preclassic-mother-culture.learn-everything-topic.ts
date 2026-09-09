@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02OlmecPreclassicMotherCulture = {
   id: "01a065a7-085a-7007-a752-228f9fdac293",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-olmec-preclassic-mother-culture",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Olmec: Preclassic Mother Culture",
   masteryLevel: "mastery-level/novice",

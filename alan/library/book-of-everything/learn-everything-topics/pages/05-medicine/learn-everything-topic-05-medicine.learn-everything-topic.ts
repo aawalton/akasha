@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic05Medicine = {
   id: "01a065a7-085b-7012-9555-fb82d0fc5852",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-05-medicine",
   node: "The Branches of Knowledge › Science › Medicine",
   masteryLevel: "mastery-level/novice",

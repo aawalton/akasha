@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02TheInterpretationOfTheGeologicRecord = {
   id: "01a065a7-0854-7001-97cd-c31cd57ae2c5",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-interpretation-of-the-geologic-record",
   node: "The Earth › Earth's History › The Interpretation of the Geologic Record",
   masteryLevel: "mastery-level/novice",

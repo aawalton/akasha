@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const chrisMccarthy = {
   id: "019db533-f382-79cf-a10d-2aec4dd2feac",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "chris-mccarthy",
   title: "Chris Mccarthy",
   relationshipCommitment: 2,

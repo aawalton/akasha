@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03CoordinationOfVitalProcessesRegulationAndIntegration = {
   id: "01a065a7-0854-700f-9d14-4e12d9959df4",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration",
   node: "Life on Earth › The Structures and Functions of Organisms › Coordination of Vital Processes: Regulation and Integration",
   masteryLevel: "mastery-level/novice",

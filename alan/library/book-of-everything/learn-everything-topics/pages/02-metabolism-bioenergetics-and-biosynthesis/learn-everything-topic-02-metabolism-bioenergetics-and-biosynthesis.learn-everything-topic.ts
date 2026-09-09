@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02MetabolismBioenergeticsAndBiosynthesis = {
   id: "01a065a7-0854-700a-b459-de61d8ebd82f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-metabolism-bioenergetics-and-biosynthesis",
   node: "Life on Earth › The Molecular Basis of Life › Metabolism: Bioenergetics and Biosynthesis",
   masteryLevel: "mastery-level/novice",

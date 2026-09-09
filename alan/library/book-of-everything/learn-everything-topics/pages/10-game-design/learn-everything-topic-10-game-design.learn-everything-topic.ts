@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic10GameDesign = {
   id: "01a065a7-0856-7010-921e-6dccfd88bdad",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-10-game-design",
   node: "Art › Particular Arts › Game Design",
   masteryLevel: "mastery-level/scholar",

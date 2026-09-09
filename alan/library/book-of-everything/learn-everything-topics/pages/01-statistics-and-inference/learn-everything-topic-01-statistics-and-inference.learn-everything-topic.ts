@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01StatisticsAndInference = {
   id: "01a065a7-085b-7008-8c63-c8794e4c2268",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-statistics-and-inference",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Statistics and Inference",
   masteryLevel: "mastery-level/novice",

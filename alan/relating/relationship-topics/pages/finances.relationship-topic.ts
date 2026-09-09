@@ -3,6 +3,7 @@ import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
 export const finances = {
   id: "019db533-f382-7221-9a5c-9d607d917eb6",
   pageTypeSlug: "relationship-topic",
+  type: "relationship-topic",
   slug: "finances",
   title: "Finances",
   relationshipTopicParent: "coordinate-on-family-projects",

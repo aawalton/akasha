@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01ChinaToTheBeginningOfTheLateTAngAd755 = {
   id: "01a065a7-0857-701c-af29-8883bc6474a4",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-china-to-the-beginning-of-the-late-t-ang-ad-755",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › China to the Beginning of the Late T'ang AD 755",
   masteryLevel: "mastery-level/novice",

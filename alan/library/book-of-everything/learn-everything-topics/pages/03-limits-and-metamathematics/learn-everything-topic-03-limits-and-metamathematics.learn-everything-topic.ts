@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03LimitsAndMetamathematics = {
   id: "01a065a7-085b-7005-aed7-e747528d875b",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-limits-and-metamathematics",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Limits and Metamathematics",
   masteryLevel: "mastery-level/novice",

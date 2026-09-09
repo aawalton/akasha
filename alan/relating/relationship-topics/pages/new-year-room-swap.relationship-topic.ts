@@ -3,6 +3,7 @@ import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
 export const newYearRoomSwap = {
   id: "019db533-f382-72ea-93b1-08843586d660",
   pageTypeSlug: "relationship-topic",
+  type: "relationship-topic",
   slug: "new-year-room-swap",
   title: "New Year Room Swap",
   relationshipTopicParent: "coordinate-on-family-projects",

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic08TechnologyOfEarthAndSpaceExploration = {
   id: "01a065a7-0856-702b-983b-bd9739f3ffbc",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-08-technology-of-earth-and-space-exploration",
   node: "Technology › Fields of Technology › Technology of Earth and Space Exploration",
   masteryLevel: "mastery-level/novice",

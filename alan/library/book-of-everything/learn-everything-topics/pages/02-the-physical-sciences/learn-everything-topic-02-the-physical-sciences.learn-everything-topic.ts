@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02ThePhysicalSciences = {
   id: "01a065a7-085b-700f-8fee-998458d3ae3e",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-physical-sciences",
   node: "The Branches of Knowledge › Science › The Physical Sciences",
   masteryLevel: "mastery-level/novice",

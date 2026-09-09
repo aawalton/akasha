@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02EuropeSince1920 = {
   id: "01a065a7-085a-701a-b833-f4ab7b4f728e",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-europe-since-1920",
   node: "The History of Mankind › The World Since 1920 › Europe Since 1920",
   masteryLevel: "mastery-level/novice",

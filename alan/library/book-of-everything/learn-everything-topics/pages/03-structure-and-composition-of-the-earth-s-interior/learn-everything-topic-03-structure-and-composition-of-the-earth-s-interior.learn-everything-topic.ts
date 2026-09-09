@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03StructureAndCompositionOfTheEarthSInterior = {
   id: "01a065a7-084d-7014-8878-c18608f36bc9",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior",
   node: "The Earth › Earth's Properties, Structure, Composition › Structure and Composition of the Earth's Interior",
   masteryLevel: "mastery-level/scholar",

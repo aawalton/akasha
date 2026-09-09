@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const therapistFemaleVideoCall = {
   id: "019e936c-173c-7c20-bfd1-6c935faf577d",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "therapist-female-video-call",
   title: "Therapist — female, video call",
   connectionActivityAttn: 2,

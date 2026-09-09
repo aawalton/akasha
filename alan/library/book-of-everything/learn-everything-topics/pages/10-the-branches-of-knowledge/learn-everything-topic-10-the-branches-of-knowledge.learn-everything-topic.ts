@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic10TheBranchesOfKnowledge = {
   id: "01a065a7-085a-7021-90e6-1a4f9a222b5b",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-10-the-branches-of-knowledge",
   node: "The Branches of Knowledge",
   masteryLevel: "mastery-level/novice",

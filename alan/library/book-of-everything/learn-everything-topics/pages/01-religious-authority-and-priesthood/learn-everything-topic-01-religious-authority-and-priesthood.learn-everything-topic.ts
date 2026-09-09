@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01ReligiousAuthorityAndPriesthood = {
   id: "01a065a7-0856-7030-929c-2264cdd181b7",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-religious-authority-and-priesthood",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Religious Authority and Priesthood",
   masteryLevel: "mastery-level/novice",

@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic03Pilgrimage = {
   id: "01a065a7-0856-7032-aa57-62d185e10b6c",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-03-pilgrimage",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Pilgrimage",
   masteryLevel: "mastery-level/novice",

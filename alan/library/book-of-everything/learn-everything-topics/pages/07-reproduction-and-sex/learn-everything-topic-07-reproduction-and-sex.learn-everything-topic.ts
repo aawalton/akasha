@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic07ReproductionAndSex = {
   id: "01a065a7-0854-7013-9154-8109897b9c7f",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-07-reproduction-and-sex",
   node: "Life on Earth › The Structures and Functions of Organisms › Reproduction and Sex",
   masteryLevel: "mastery-level/novice",

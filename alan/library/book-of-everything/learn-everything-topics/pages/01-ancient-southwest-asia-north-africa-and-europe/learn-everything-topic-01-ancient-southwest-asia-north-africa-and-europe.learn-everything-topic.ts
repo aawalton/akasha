@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic01AncientSouthwestAsiaNorthAfricaAndEurope = {
   id: "01a065a7-0857-700a-b849-80afd7a2a60c",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe",
   masteryLevel: "mastery-level/novice",

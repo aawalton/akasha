@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic06Judaism = {
   id: "01a065a7-0857-7005-a483-e3b70eddad99",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-06-judaism",
   node: "Religion › Particular Religions › Judaism",
   masteryLevel: "mastery-level/novice",

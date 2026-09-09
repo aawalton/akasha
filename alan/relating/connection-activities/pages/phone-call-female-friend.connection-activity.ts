@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const phoneCallFemaleFriend = {
   id: "019e931f-5b41-798c-9f65-e341c3f6d89f",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "phone-call-female-friend",
   title: "Phone call — female friend",
   connectionActivityAttn: 1.75,

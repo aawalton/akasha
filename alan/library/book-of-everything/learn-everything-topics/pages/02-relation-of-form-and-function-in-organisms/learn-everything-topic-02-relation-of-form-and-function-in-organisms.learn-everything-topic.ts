@@ -3,6 +3,7 @@ import type { LearnEverythingTopic } from "../../learn-everything-topic.page-typ
 export const learnEverythingTopic02RelationOfFormAndFunctionInOrganisms = {
   id: "01a065a7-0854-700e-be97-09d70fcc3877",
   pageTypeSlug: "learn-everything-topic",
+  type: "learn-everything-topic",
   slug: "learn-everything-topic-02-relation-of-form-and-function-in-organisms",
   node: "Life on Earth › The Structures and Functions of Organisms › Relation of Form and Function in Organisms",
   masteryLevel: "mastery-level/novice",

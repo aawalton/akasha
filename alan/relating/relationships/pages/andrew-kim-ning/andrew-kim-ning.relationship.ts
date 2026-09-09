@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const andrewKimNing = {
   id: "019db533-f384-7da0-b58a-5f096bc75afc",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "andrew-kim-ning",
   title: "Andrew + Kim Ning",
   relationshipCommitment: 3,

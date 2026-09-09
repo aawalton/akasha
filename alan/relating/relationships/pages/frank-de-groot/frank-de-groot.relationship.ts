@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const frankDeGroot = {
   id: "019db533-f384-7a54-bbd4-15cdc8345397",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "frank-de-groot",
   title: "Frank De Groot",
   relationshipCurrentCircle: "acquaintances",

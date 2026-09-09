@@ -3,6 +3,7 @@ import type { ConnectionActivity } from "../connection-activity.page-type.ts"
 export const doubleDate = {
   id: "019e931f-5cab-7238-b817-3a969f30ed66",
   pageTypeSlug: "connection-activity",
+  type: "connection-activity",
   slug: "double-date",
   title: "Double date",
   connectionActivityAttn: 1.25,
