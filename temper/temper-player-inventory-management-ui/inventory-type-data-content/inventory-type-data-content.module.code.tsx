@@ -22,8 +22,8 @@ import {
   groupInventoryByType,
 } from "@akasha/temper-items-core/inventory-grouping"
 import { partitionUnmanagedGuildBanks } from "@akasha/temper-items-core/inventory-guild-bank-filter"
-import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { lookupCurrencyConversionRates } from "@akasha/temper-trading-pricing/currency-price-lookup"
+import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { Package, Search } from "lucide-react"
 import { useMemo } from "react"
 import { useInventory, usePriceExtract } from "../hooks-inventory/hooks-inventory.module.code.ts"

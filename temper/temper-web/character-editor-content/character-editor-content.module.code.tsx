@@ -16,8 +16,8 @@ import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-me
 import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
-import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,

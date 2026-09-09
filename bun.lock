@@ -81,7 +81,6 @@
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-player-inventory-management-ui": "workspace:*",
-        "@akasha/temper-player-profile": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
@@ -1398,18 +1397,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/player-profile": {
-      "name": "@akasha/temper-player-profile",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-ui": "workspace:*",
-        "@akasha/temper-build-metadata": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "temper/quests-addon": {
       "name": "@akasha/temper-quests-addon",
       "dependencies": {
@@ -1805,7 +1792,6 @@
         "@akasha/temper-items-rules-routing": "workspace:*",
         "@akasha/temper-items-rules-routing-core": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
-        "@akasha/temper-player-profile": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1897,7 +1883,6 @@
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-player-inventory-management-ui": "workspace:*",
-        "@akasha/temper-player-profile": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -2303,8 +2288,6 @@
     "@akasha/temper-player-completion-ui": ["@akasha/temper-player-completion-ui@workspace:temper/temper-player-completion-ui"],
 
     "@akasha/temper-player-inventory-management-ui": ["@akasha/temper-player-inventory-management-ui@workspace:temper/temper-player-inventory-management-ui"],
-
-    "@akasha/temper-player-profile": ["@akasha/temper-player-profile@workspace:temper/player-profile"],
 
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
 

@@ -22,9 +22,9 @@ import {
   resolvePricingRegion,
   resolvePricingRegionNote,
 } from "@akasha/temper-player-inventory-management-ui/pricing-region"
-import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
+import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { useMemo } from "react"
 import {
   type BlendedPriceKey,

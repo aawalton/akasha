@@ -1,10 +1,9 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperPlayerProfile = {
   id: "01a06354-4b4a-7d43-a987-292baabd8135",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-player-profile",
   definition: "the handle and platform settings one player is known by",
-  manifest: "json",
   parts: ["module/use-player"],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

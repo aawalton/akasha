@@ -150,7 +150,7 @@ export const temper = {
     "eso-addon/temper-characters-addon",
     "eso-addon/temper-capture-datamining-addon",
     "eso-addon/temper-quests-addon",
-    "workspace-package/temper-player-profile",
+    "domain/temper-player-profile",
     "domain/temper-characters-character-ui",
     "workspace-package/temper-companions-ui",
     "workspace-package/temper-player-inventory-management-ui",

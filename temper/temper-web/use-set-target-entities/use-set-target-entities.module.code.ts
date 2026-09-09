@@ -11,8 +11,8 @@ import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
-import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { races } from "@akasha/temper-races/races"
+import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
