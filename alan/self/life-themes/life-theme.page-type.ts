@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { EndDate } from "./properties/end-date.calendar-date-property.ts"
-import type { LifeThemeParentSlug } from "./properties/life-theme-parent-slug.relation-property.ts"
+import type { LifeThemeParent } from "./properties/life-theme-parent.relation-property.ts"
 import type { LifeThemeStatus } from "./properties/life-theme-status.select-property.ts"
 import type { LifeThemeValueSlug } from "./properties/life-theme-value-slug.relation-property.ts"
 import type { StartDate } from "./properties/start-date.calendar-date-property.ts"
@@ -10,7 +10,7 @@ import type { StartDate } from "./properties/start-date.calendar-date-property.t
 export type LifeTheme = Page & {
   title: Title
   endDate?: EndDate
-  lifeThemeParentSlug?: LifeThemeParentSlug
+  lifeThemeParent?: LifeThemeParent
   startDate?: StartDate
   lifeThemeStatus: LifeThemeStatus
   lifeThemeValueSlug: LifeThemeValueSlug
@@ -26,14 +26,14 @@ export const lifeTheme = {
   partSlugs: [
     "calendar-date-property/end-date",
     "calendar-date-property/start-date",
-    "relation-property/life-theme-parent-slug",
+    "relation-property/life-theme-parent",
     "relation-property/life-theme-value-slug",
     "select-property/life-theme-status",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "calendar-date-property/end-date", required: false, many: false },
-    { pagePropertySlug: "relation-property/life-theme-parent-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/life-theme-parent", required: false, many: false },
     { pagePropertySlug: "calendar-date-property/start-date", required: false, many: false },
     { pagePropertySlug: "select-property/life-theme-status", required: true, many: false },
     { pagePropertySlug: "relation-property/life-theme-value-slug", required: true, many: false },
