@@ -3,7 +3,7 @@ import {
   COMPONENT_PRUNE,
   PRUNE_NAMESPACE,
   pruneSessionsCronJobYaml,
-} from "../seaweedfs-prune-manifests/seaweedfs-prune-manifests.module.code.ts"
+} from "../prune-manifests/seaweedfs-prune-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
