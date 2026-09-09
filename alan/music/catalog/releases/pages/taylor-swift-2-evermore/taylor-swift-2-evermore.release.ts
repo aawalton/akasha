@@ -9,7 +9,7 @@ export const taylorSwift2Evermore = {
   position: 0,
   ownLength: 60.7535,
   ownProgress: 60.7535,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-11",
   externalId: "2Xoteh7uEpea4TohMxjtaq",

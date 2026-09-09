@@ -9,7 +9,7 @@ export const tomLehrerSongsByTomLehrer = {
   position: 0,
   ownLength: 23.3066,
   ownProgress: 23.3066,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1953-01-01",
   externalId: "7fo5hBz1iEfafufshl2X5y",

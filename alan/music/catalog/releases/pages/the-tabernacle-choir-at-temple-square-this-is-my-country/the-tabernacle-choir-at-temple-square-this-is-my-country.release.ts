@@ -10,7 +10,7 @@ export const theTabernacleChoirAtTempleSquareThisIsMyCountry = {
   position: 0,
   ownLength: 56.6606,
   ownProgress: 56.6606,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1962-01-01",
   externalId: "4CFPl1dwLMUbqZRh4TCee7",

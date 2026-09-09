@@ -9,7 +9,7 @@ export const taylorSwift2FortnightFeatPostMaloneBlondIshRemix = {
   position: 0,
   ownLength: 7.4324,
   ownProgress: 7.4324,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-22",
   externalId: "1agEHpWnELaZHWzcbGDCpu",

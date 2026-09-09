@@ -9,7 +9,7 @@ export const siaUnstoppableSpedUp = {
   position: 0,
   ownLength: 3.295833,
   ownProgress: 3.295833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-27",
   externalId: "6j7tZ4XuGr81dfaoAvNRdA",

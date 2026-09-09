@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquare100YearsCelebratingACenturyOfRecord
   position: 0,
   ownLength: 135.914967,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-06-15",
   externalId: "6RtntjH8642XPZ7lXcOnSn",

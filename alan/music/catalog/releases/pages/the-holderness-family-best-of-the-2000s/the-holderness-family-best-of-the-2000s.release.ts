@@ -9,7 +9,7 @@ export const theHoldernessFamilyBestOfThe2000s = {
   position: 0,
   ownLength: 20.612767,
   ownProgress: 20.612767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-06",
   externalId: "4kvDpznALdCW8YzJ5gFlHc",

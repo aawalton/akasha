@@ -9,7 +9,7 @@ export const siaNoNewFriendsRemixes = {
   position: 0,
   ownLength: 6.9191,
   ownProgress: 6.9191,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-16",
   externalId: "32xFYr17qgtcvVsDqVZHf7",

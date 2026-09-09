@@ -9,7 +9,7 @@ export const siaHeyBoyTheRemixes = {
   position: 0,
   ownLength: 12.028667,
   ownProgress: 12.028667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-22",
   externalId: "2Rzazh4w70Hx1HU9CEREbZ",

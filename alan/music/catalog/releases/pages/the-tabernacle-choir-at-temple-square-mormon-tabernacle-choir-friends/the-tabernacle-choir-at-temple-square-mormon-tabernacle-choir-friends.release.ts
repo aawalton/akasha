@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareMormonTabernacleChoirFriends = {
   position: 0,
   ownLength: 38.7426,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-12",
   externalId: "1n2Ohu6OnPSxBeuuvwRRgI",

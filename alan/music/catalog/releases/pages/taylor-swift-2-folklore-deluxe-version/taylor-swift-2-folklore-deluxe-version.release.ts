@@ -9,7 +9,7 @@ export const taylorSwift2FolkloreDeluxeVersion = {
   position: 0,
   ownLength: 67.139933,
   ownProgress: 67.139933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-18",
   externalId: "1pzvBxYgT6OVwJLtHkrdQK",

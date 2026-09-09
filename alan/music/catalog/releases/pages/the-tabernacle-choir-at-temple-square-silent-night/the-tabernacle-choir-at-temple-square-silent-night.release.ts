@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSilentNight = {
   position: 0,
   ownLength: 4.626217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-28",
   externalId: "0nCwOhoJacDgRqVK2BYScl",

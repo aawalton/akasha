@@ -9,7 +9,7 @@ export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios
   position: 0,
   ownLength: 9.969167,
   ownProgress: 9.969167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-18",
   externalId: "4qgs0gHJBgycj5SKqafFOB",

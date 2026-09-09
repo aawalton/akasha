@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiemOp45 = {
   position: 0,
   ownLength: 68.82595,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-09-01",
   externalId: "0rB5SYhB3zx9KDFRyKgFi9",

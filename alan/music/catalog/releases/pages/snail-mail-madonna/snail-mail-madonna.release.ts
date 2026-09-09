@@ -9,7 +9,7 @@ export const snailMailMadonna = {
   position: 0,
   ownLength: 9.182217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-27",
   externalId: "0Hi9hqNHvmk7hUPjrAQu0V",

@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareOnceUponAChristmas = {
   position: 0,
   ownLength: 71.653733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-09-01",
   externalId: "1ApytyVReugEH8AxWPahjE",

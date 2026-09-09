@@ -9,7 +9,7 @@ export const taylorSwift2Reputation = {
   position: 0,
   ownLength: 55.755,
   ownProgress: 55.755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-10",
   externalId: "6DEjYFkNZh67HP7R9PSZvv",

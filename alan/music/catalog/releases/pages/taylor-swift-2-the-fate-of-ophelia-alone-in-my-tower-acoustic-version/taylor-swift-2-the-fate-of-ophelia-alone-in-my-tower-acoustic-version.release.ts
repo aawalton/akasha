@@ -9,7 +9,7 @@ export const taylorSwift2TheFateOfOpheliaAloneInMyTowerAcousticVersion = {
   position: 0,
   ownLength: 7.531483,
   ownProgress: 7.531483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-31",
   externalId: "60pPcuYWCIAdcErvx2TLGB",

@@ -9,7 +9,7 @@ export const siaLabrinthSiaDiploPresentLsd = {
   position: 0,
   ownLength: 30.776367,
   ownProgress: 30.776367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-12",
   externalId: "0ujHQ5WCLuKJQXOqXpGtpf",

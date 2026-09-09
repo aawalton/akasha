@@ -9,7 +9,7 @@ export const siaOneMillionBullets = {
   position: 0,
   ownLength: 4.182883,
   ownProgress: 4.182883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-27",
   externalId: "5e3NhKpTMuFHXozhaWfxDw",

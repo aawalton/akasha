@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareGreaterLoveACelebrationOfEaster = {
   position: 0,
   ownLength: 36.110583,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-18",
   externalId: "0KuaPsE3zocRDe1WDm4LHz",

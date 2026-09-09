@@ -9,7 +9,7 @@ export const thePianoGuys3LetItSnowWinterWonderland = {
   position: 0,
   ownLength: 3.403833,
   ownProgress: 3.403833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-10",
   externalId: "2fp9hFtrXdaUuLLzjwN311",

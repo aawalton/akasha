@@ -9,7 +9,7 @@ export const thePianoGuys3DonTYouWorryChildInstrumental = {
   position: 0,
   ownLength: 4.05,
   ownProgress: 4.05,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-07-30",
   externalId: "48yKxFKvUmuBx99afSoJi0",

@@ -9,7 +9,7 @@ export const taylorSwift2DelicateSawyrAndRyanTedderMix = {
   position: 0,
   ownLength: 3.07135,
   ownProgress: 3.07135,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-25",
   externalId: "7HEXQkjBNiZilJcTWXwLOA",

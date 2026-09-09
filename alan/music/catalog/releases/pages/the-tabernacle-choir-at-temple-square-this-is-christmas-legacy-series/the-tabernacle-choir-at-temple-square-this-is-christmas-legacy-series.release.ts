@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareThisIsChristmasLegacySeries = {
   position: 0,
   ownLength: 58.07525,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-10-18",
   externalId: "2swBzEImwQ5FyJf3uTTyV4",

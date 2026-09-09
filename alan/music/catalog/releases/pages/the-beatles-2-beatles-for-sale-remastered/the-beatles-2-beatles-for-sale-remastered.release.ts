@@ -9,7 +9,7 @@ export const theBeatles2BeatlesForSaleRemastered = {
   position: 0,
   ownLength: 33.78615,
   ownProgress: 33.78615,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1964-12-04",
   externalId: "1vANZV20H5B4Fk6yf7Ot9a",

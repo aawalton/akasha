@@ -9,7 +9,7 @@ export const siaHassHass = {
   position: 0,
   ownLength: 2.550267,
   ownProgress: 2.550267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-26",
   externalId: "7F8VISoJUWFEY57b66QZxC",

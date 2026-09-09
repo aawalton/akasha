@@ -10,7 +10,7 @@ export const theTabernacleChoirAtTempleSquareRockOfAges30FavoriteHymns = {
   position: 0,
   ownLength: 74.579833,
   ownProgress: 74.579833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1960-01-01",
   externalId: "235O9JdWj2FxUFXdjl22lo",

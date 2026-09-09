@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHandelSMessiah = {
   position: 0,
   ownLength: 143.17355,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-04",
   externalId: "3WXiU3Xvz8QrNMM9SsHOjq",

@@ -9,7 +9,7 @@ export const vinnyMarchiDidnTComeAllThisWay = {
   position: 0,
   ownLength: 2.5641,
   ownProgress: 2.5641,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-12-20",

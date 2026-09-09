@@ -9,7 +9,7 @@ export const taylorSwift2TheMoreFearlessTaylorSVersionChapter = {
   position: 0,
   ownLength: 19.666967,
   ownProgress: 19.666967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalId: "6MMVrrxnNgGKg04ze1Pemw",

@@ -9,7 +9,7 @@ export const theBeatles2HelpRemastered = {
   position: 0,
   ownLength: 33.917017,
   ownProgress: 33.917017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1965-08-06",
   externalId: "0PT5m6hwPRrpBwIHVnvbFX",

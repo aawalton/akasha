@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareChristmasWithTheChoirAndOrchestraVo
   position: 0,
   ownLength: 67.431917,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-15",
   externalId: "52iODMaecPeef2NOgrVZ9c",

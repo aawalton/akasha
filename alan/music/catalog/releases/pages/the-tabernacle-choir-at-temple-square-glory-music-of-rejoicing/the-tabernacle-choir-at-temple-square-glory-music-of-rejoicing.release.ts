@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareGloryMusicOfRejoicing = {
   position: 0,
   ownLength: 65.4579,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-01-10",
   externalId: "49bMQg9v1dR2NDnAz8hfsV",

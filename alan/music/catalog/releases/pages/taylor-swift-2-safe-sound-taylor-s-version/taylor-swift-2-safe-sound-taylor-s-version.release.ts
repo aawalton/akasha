@@ -9,7 +9,7 @@ export const taylorSwift2SafeSoundTaylorSVersion = {
   position: 0,
   ownLength: 3.994467,
   ownProgress: 3.994467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalId: "4eZKjfeKPSwd6NYsmlKjuR",

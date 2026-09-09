@@ -9,7 +9,7 @@ export const snailMailPristine = {
   position: 0,
   ownLength: 4.922217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "D",
   publishedAt: "2018-03-21",

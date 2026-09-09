@@ -9,7 +9,7 @@ export const snailMailHabit = {
   position: 0,
   ownLength: 30.096833,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "D",
   publishedAt: "2016-07-12",

@@ -9,7 +9,7 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsody = {
   position: 0,
   ownLength: 3.89735,
   ownProgress: 3.89735,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-26",
   externalId: "1F1IX4M5peq9lduLhUriXu",

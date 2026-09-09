@@ -9,7 +9,7 @@ export const thePianoGuys3FollowYou = {
   position: 0,
   ownLength: 3.186,
   ownProgress: 3.186,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-08",
   externalId: "6FDAocsqnW4LJ7rrXQjBBA",

@@ -9,7 +9,7 @@ export const theBeatles2PleasePleaseMeRemastered = {
   position: 0,
   ownLength: 32.521933,
   ownProgress: 32.521933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1963-03-22",
   externalId: "3KzAvEXcqJKBF97HrXwlgf",

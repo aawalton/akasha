@@ -9,7 +9,7 @@ export const thePianoGuys3AllAloneOnChristmas = {
   position: 0,
   ownLength: 4.4,
   ownProgress: 4.4,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
   externalId: "5EcpnZGAYJ1w8s68bKQK00",

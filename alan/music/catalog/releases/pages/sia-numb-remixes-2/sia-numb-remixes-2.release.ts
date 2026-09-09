@@ -9,7 +9,7 @@ export const siaNumbRemixes2 = {
   position: 0,
   ownLength: 15.406883,
   ownProgress: 15.406883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-07-15",
   externalId: "4sWLp70CtgtwDgj4aiigQV",

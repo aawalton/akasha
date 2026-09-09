@@ -9,7 +9,7 @@ export const thePianoGuys3Unstoppable2 = {
   position: 0,
   ownLength: 53.75405,
   ownProgress: 53.75405,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-10",
   externalId: "2kQsYMSQb75r661xu2NcBF",

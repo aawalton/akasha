@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareAnvilChorusFavoriteOperaChoruses202
   position: 0,
   ownLength: 49.208183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1967-12-26",
   externalId: "4UrNlquTYE4jjDN5t2pBeA",

@@ -9,7 +9,7 @@ export const taylorSwift2FearlessTaylorSVersion = {
   position: 0,
   ownLength: 106.5415,
   ownProgress: 106.5415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalId: "4hDok0OAJd57SGIT8xuWJH",

@@ -9,7 +9,7 @@ export const theBeatles2Anthology2 = {
   position: 0,
   ownLength: 128.0369,
   ownProgress: 128.0369,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1996-03-18",
   externalId: "3Lf8VA23cMAl5imbABTZoo",

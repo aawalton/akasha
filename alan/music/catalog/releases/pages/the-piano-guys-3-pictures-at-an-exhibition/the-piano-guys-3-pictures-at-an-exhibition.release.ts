@@ -9,7 +9,7 @@ export const thePianoGuys3PicturesAtAnExhibition = {
   position: 0,
   ownLength: 4.004167,
   ownProgress: 4.004167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
   externalId: "4AHhW9QiXILmC8lMwClxUn",

@@ -9,7 +9,7 @@ export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
   position: 0,
   ownLength: 3.109467,
   ownProgress: 3.109467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-13",
   externalId: "0zXNw8iyZ3lDZ1jCJpKL1V",

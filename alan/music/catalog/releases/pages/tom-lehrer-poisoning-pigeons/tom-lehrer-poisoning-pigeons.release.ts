@@ -9,7 +9,7 @@ export const tomLehrerPoisoningPigeons = {
   position: 0,
   ownLength: 3.812667,
   ownProgress: 3.812667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-15",
   externalId: "6tqoRyGMckiFr29paYmhmL",

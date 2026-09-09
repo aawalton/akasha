@@ -9,7 +9,7 @@ export const taylorSwift2OpaliteElyOaksRemix = {
   position: 0,
   ownLength: 3.437417,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-19",
   externalId: "72hPyRss6soJeGQLEek1qr",

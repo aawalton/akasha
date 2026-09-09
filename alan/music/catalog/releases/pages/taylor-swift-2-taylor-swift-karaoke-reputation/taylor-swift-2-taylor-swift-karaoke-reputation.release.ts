@@ -9,7 +9,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputation = {
   position: 0,
   ownLength: 55.665233,
   ownProgress: 55.665233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-09",
   externalId: "1MHuZZrGT36cXLxAQ5cLP3",

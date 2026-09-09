@@ -9,7 +9,7 @@ export const siaSomersault = {
   position: 0,
   ownLength: 15.677767,
   ownProgress: 15.677767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2007-06-20",
   externalId: "2Gzi1MVApjmZw3FpNjDHAQ",

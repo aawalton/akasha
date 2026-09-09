@@ -9,7 +9,7 @@ export const siaIMStillHere = {
   position: 0,
   ownLength: 4.031833,
   ownProgress: 4.031833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-12",
   externalId: "61rbnX1w8qupnV0CyNH1Or",

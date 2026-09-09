@@ -9,7 +9,7 @@ export const siaGeniusBanxRanxRemixes = {
   position: 0,
   ownLength: 6.205333,
   ownProgress: 6.205333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-06",
   externalId: "1Xo1BbCbbXo9RkrjFFgGyH",

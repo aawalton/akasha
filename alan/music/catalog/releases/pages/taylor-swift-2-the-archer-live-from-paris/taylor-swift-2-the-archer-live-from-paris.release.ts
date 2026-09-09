@@ -9,7 +9,7 @@ export const taylorSwift2TheArcherLiveFromParis = {
   position: 0,
   ownLength: 3.516,
   ownProgress: 3.516,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
   externalId: "2A1msASmUbUdaZyeOxpbAD",

@@ -9,7 +9,7 @@ export const taylorSwift2AntiHeroFeatBleachers = {
   position: 0,
   ownLength: 7.15145,
   ownProgress: 7.15145,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-08",
   externalId: "18DEtVsRVQ4rxqnOIAPwRB",

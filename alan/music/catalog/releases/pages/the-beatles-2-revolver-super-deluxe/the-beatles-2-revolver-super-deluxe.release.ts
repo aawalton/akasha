@@ -9,7 +9,7 @@ export const theBeatles2RevolverSuperDeluxe = {
   position: 0,
   ownLength: 162.292317,
   ownProgress: 162.292317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-28",
   externalId: "7C221PnWhYGv8Tc0xSbfdc",

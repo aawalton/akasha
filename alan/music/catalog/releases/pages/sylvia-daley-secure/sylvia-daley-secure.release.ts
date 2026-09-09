@@ -9,7 +9,7 @@ export const sylviaDaleySecure = {
   position: 0,
   ownLength: 8.599633,
   ownProgress: 8.599633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-07-25",

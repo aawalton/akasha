@@ -9,7 +9,7 @@ export const taylorSwift2ChristmasTreeFarmOldTimeyVersion = {
   position: 0,
   ownLength: 3.8776,
   ownProgress: 3.8776,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-22",
   externalId: "5f4rbgZJhYp4hgswKri00b",

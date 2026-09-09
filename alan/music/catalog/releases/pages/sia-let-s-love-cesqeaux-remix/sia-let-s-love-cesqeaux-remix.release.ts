@@ -9,7 +9,7 @@ export const siaLetSLoveCesqeauxRemix = {
   position: 0,
   ownLength: 7.433333,
   ownProgress: 7.433333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-30",
   externalId: "3HDqvoFE42A8Z8Hg8nC9FC",

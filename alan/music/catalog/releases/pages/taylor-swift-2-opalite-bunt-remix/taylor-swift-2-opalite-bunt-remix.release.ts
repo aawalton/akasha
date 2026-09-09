@@ -9,7 +9,7 @@ export const taylorSwift2OpaliteBuntRemix = {
   position: 0,
   ownLength: 3.5461,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-19",
   externalId: "5oO9uwBHZAawqYnmPpVUUi",

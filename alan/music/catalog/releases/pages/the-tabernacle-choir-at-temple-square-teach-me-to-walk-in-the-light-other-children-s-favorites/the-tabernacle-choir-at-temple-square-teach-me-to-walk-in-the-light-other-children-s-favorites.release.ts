@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTeachMeToWalkInTheLightOtherChildre
   position: 0,
   ownLength: 58.365267,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-26",
   externalId: "5KQXPfVI7NkJUtjDkVKf76",

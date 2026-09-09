@@ -9,7 +9,7 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   position: 0,
   ownLength: 2.6088,
   ownProgress: 2.6088,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-13",
   externalId: "4UIFInb5vNhPohy27DyMDo",

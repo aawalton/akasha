@@ -9,7 +9,7 @@ export const siaTogetherF9Remixes = {
   position: 0,
   ownLength: 14.583017,
   ownProgress: 14.583017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
   externalId: "6PdvaA2LDIPEdlaSPFUyEg",

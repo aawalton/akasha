@@ -9,7 +9,7 @@ export const siaHeliumSiaVsDavidGuettaAfrojack = {
   position: 0,
   ownLength: 3.9562,
   ownProgress: 3.9562,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-25",
   externalId: "0daLYYl9X1oTURdFNjRf1I",

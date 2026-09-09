@@ -9,7 +9,7 @@ export const snailMailEasyThing = {
   position: 0,
   ownLength: 2.718217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-13",
   externalId: "1IMObMG6eLRwu6ZVTkACWa",

@@ -9,7 +9,7 @@ export const siaStepByStepAmazonOriginal = {
   position: 0,
   ownLength: 4.155717,
   ownProgress: 4.155717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-21",
   externalId: "6BiJg12jXySG2hIFOnSjSV",

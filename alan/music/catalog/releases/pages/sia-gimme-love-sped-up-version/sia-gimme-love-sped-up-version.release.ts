@@ -9,7 +9,7 @@ export const siaGimmeLoveSpedUpVersion = {
   position: 0,
   ownLength: 2.582333,
   ownProgress: 2.582333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-01",
   externalId: "2nfcNzckHUiViMcWQ1Fdqw",

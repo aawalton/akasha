@@ -9,7 +9,7 @@ export const taylorSwift2ThisLoveTaylorSVersion = {
   position: 0,
   ownLength: 7.842217,
   ownProgress: 7.842217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-06",
   externalId: "3In1CblWZswwun5MhOa10y",

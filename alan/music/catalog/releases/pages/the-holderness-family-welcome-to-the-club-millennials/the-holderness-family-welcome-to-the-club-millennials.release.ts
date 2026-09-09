@@ -9,7 +9,7 @@ export const theHoldernessFamilyWelcomeToTheClubMillennials = {
   position: 0,
   ownLength: 2.648417,
   ownProgress: 2.648417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-13",
   externalId: "17RHu5RX4zG6gzMfM5Huve",

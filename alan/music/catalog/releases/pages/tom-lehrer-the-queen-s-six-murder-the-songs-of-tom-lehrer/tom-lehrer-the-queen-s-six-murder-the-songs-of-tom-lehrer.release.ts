@@ -9,7 +9,7 @@ export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
   position: 0,
   ownLength: 35.009483,
   ownProgress: 35.009483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
   externalId: "5u7imuWzkTRmWJaidea8aw",

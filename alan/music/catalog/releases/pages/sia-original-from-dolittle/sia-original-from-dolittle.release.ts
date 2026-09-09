@@ -9,7 +9,7 @@ export const siaOriginalFromDolittle = {
   position: 0,
   ownLength: 3.561117,
   ownProgress: 3.561117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-01-10",
   externalId: "00CTugKcgZzpPJKpmeNdDS",

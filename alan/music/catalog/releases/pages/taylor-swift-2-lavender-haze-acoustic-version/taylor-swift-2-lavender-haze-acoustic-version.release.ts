@@ -9,7 +9,7 @@ export const taylorSwift2LavenderHazeAcousticVersion = {
   position: 0,
   ownLength: 2.90625,
   ownProgress: 2.90625,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-31",
   externalId: "6eKdbTio5viiwJ5FE5J8wU",

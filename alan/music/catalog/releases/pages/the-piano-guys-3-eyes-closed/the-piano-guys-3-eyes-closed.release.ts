@@ -9,7 +9,7 @@ export const thePianoGuys3EyesClosed = {
   position: 0,
   ownLength: 4.0759,
   ownProgress: 4.0759,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-15",
   externalId: "1zQMETG90H8xjGo4lpnDf8",

@@ -9,7 +9,7 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
   position: 0,
   ownLength: 3.950367,
   ownProgress: 3.950367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalId: "6IZm7NfvWyXp952VF36Z5F",

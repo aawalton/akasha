@@ -9,7 +9,7 @@ export const thePianoGuys3Yesterday = {
   position: 0,
   ownLength: 3.471867,
   ownProgress: 3.471867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-03",
   externalId: "3Opqmwpp1496mkDJ3bsELB",

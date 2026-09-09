@@ -9,7 +9,7 @@ export const thePianoGuys3EyeOfTheTiger = {
   position: 0,
   ownLength: 4.046083,
   ownProgress: 4.046083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-01",
   externalId: "6eh2tjjOIwkNAWSWfLRysq",

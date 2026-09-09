@@ -9,7 +9,7 @@ export const taylorSwift2TheLakesOriginalVersion = {
   position: 0,
   ownLength: 3.786717,
   ownProgress: 3.786717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-24",
   externalId: "40cMfQDrBCDmOaWZuNEmKq",

@@ -9,7 +9,7 @@ export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   position: 0,
   ownLength: 19.119083,
   ownProgress: 19.119083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-12-02",
   externalId: "7vzYp7FrKnTRoktBYsx9SF",

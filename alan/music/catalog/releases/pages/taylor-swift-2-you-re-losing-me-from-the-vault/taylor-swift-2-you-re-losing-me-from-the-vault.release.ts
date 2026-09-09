@@ -9,7 +9,7 @@ export const taylorSwift2YouReLosingMeFromTheVault = {
   position: 0,
   ownLength: 4.630517,
   ownProgress: 4.630517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-29",
   externalId: "5q3jthpn2h59P7pe2gmAl7",

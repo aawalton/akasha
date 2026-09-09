@@ -9,7 +9,7 @@ export const thePianoGuys3SomeoneYouLoved = {
   position: 0,
   ownLength: 3.385767,
   ownProgress: 3.385767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
   externalId: "6ueqbqheTXOv1vkf0KUWZT",

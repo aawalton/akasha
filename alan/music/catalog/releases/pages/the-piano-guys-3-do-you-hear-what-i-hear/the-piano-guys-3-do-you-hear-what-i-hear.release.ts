@@ -9,7 +9,7 @@ export const thePianoGuys3DoYouHearWhatIHear = {
   position: 0,
   ownLength: 3.33695,
   ownProgress: 3.33695,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-16",
   externalId: "1hWJzHY1qH128xdlDI6liK",

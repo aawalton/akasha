@@ -9,7 +9,7 @@ export const theBeatles2TheBeatles196719702023Edition = {
   position: 0,
   ownLength: 134.719783,
   ownProgress: 134.719783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-10",
   externalId: "2AlPRfYeskAMxhJS00xjeP",

@@ -9,7 +9,7 @@ export const siaSpotifySessions = {
   position: 0,
   ownLength: 28.819967,
   ownProgress: 28.819967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-04-13",
   externalId: "2fBKreCrztEPXW5bUIgBTf",

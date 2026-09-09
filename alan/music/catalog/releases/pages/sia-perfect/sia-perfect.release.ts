@@ -9,7 +9,7 @@ export const siaPerfect = {
   position: 0,
   ownLength: 11.063833,
   ownProgress: 11.063833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-05",
   externalId: "4EgafMzPEdYTKsNuCiCfFg",

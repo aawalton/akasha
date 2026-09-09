@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheWonderOfChristmas = {
   position: 0,
   ownLength: 58.931017,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2006-09-26",
   externalId: "0lTP8ql2dFuLxvPuDUcUUv",

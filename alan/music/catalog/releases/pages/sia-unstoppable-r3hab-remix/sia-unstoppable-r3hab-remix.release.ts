@@ -9,7 +9,7 @@ export const siaUnstoppableR3habRemix = {
   position: 0,
   ownLength: 2.705867,
   ownProgress: 2.705867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-08",
   externalId: "3qWCIK0fqmaaSTLoqoWsaz",

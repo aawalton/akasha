@@ -9,7 +9,7 @@ export const taylorSwift21989 = {
   position: 0,
   ownLength: 48.797733,
   ownProgress: 48.797733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-10-27",
   externalId: "2QJmrSgbdM35R67eoGQo4j",

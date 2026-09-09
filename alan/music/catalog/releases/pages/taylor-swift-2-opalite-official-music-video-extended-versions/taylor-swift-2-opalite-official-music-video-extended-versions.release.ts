@@ -9,7 +9,7 @@ export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   position: 0,
   ownLength: 26.51725,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-13",
   externalId: "0VBjFJFcHhu7QDocog6D3s",

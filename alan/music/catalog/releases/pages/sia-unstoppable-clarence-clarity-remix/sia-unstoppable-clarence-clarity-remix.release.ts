@@ -9,7 +9,7 @@ export const siaUnstoppableClarenceClarityRemix = {
   position: 0,
   ownLength: 3.796567,
   ownProgress: 3.796567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
   externalId: "6Se0Auz6TJwAsSdAgI3QhR",

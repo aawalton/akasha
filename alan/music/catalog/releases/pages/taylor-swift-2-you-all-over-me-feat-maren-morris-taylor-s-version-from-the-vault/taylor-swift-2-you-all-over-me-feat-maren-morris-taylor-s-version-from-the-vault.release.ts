@@ -9,7 +9,7 @@ export const taylorSwift2YouAllOverMeFeatMarenMorrisTaylorSVersionFromTheVault =
   position: 0,
   ownLength: 3.68065,
   ownProgress: 3.68065,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-26",
   externalId: "5xd9LleY1wqsgKVTwLoXYI",

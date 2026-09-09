@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareKeepChristmasWithYou = {
   position: 0,
   ownLength: 74.057667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-10-15",
   externalId: "3dImkgZM8gGIzdBIiv2PDK",

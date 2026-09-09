@@ -10,7 +10,7 @@ export const theTabernacleChoirAtTempleSquareStarsAndStripesForever = {
   position: 0,
   ownLength: 66.240983,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1973-01-01",
   externalId: "5bHqlwvXgzeQ2nEFnwDGUg",

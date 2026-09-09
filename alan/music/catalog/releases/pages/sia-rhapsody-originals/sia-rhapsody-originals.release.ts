@@ -9,7 +9,7 @@ export const siaRhapsodyOriginals = {
   position: 0,
   ownLength: 17.0742,
   ownProgress: 17.0742,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "1vSGerCBuSzmif0ye8pMhj",

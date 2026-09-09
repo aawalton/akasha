@@ -9,7 +9,7 @@ export const taylorSwift2Opalite = {
   position: 0,
   ownLength: 7.968233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
   externalId: "3evV0p6SkiOZFt1rtWRco9",

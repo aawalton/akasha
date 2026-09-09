@@ -9,7 +9,7 @@ export const siaSomePeopleHaveRealProblems = {
   position: 0,
   ownLength: 61.1288,
   ownProgress: 61.1288,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "6jwrliQ4758qVYMtdgQtZt",

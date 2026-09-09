@@ -9,7 +9,7 @@ export const theBeatles2LetItBeSuperDeluxe = {
   position: 0,
   ownLength: 164.79795,
   ownProgress: 164.79795,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-15",
   externalId: "1BdxbYp1FaNejpDgtDo25V",

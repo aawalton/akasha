@@ -9,7 +9,7 @@ export const taylorSwift2LoveStoryPopMix = {
   position: 0,
   ownLength: 3.894217,
   ownProgress: 3.894217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-07",
   externalId: "1iab5rfjNpGhoPlFzPyp4k",

@@ -9,7 +9,7 @@ export const snailMailBenFranklin = {
   position: 0,
   ownLength: 6.298883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-13",
   externalId: "2VfCI8EO1rfuGF0VmcM57O",

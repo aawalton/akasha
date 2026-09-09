@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTreeOfLifeSacredMusicOfMackWilberg 
   position: 0,
   ownLength: 79.395917,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-05-04",
   externalId: "2FMb0OexzgNq9gDWQS1AOZ",

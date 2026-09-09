@@ -9,7 +9,7 @@ export const siaReaper = {
   position: 0,
   ownLength: 3.64155,
   ownProgress: 3.64155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-07",
   externalId: "4cZvCzmaSXgx42AMO222Nu",

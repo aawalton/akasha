@@ -9,7 +9,7 @@ export const siaManchildTokimonstaRemix = {
   position: 0,
   ownLength: 6.250317,
   ownProgress: 6.250317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-01",
   externalId: "52328WXPKDhZVhSeCsl91E",

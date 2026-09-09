@@ -9,7 +9,7 @@ export const thePianoGuys3Limitless = {
   position: 0,
   ownLength: 55.02105,
   ownProgress: 55.02105,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-09",
   externalId: "4PPZ216h9xlTOsjXPUMlPw",

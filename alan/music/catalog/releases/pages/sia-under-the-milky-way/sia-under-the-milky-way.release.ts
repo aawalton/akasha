@@ -9,7 +9,7 @@ export const siaUnderTheMilkyWay = {
   position: 0,
   ownLength: 3.58155,
   ownProgress: 3.58155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-26",
   externalId: "1qmlkgO15eRvbMI6ohZSy8",

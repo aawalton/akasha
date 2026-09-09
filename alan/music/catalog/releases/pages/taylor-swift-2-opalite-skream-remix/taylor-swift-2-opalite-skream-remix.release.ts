@@ -9,7 +9,7 @@ export const taylorSwift2OpaliteSkreamRemix = {
   position: 0,
   ownLength: 3.92355,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-19",
   externalId: "6WNAGQ9MfrSyOFbMc66pCz",

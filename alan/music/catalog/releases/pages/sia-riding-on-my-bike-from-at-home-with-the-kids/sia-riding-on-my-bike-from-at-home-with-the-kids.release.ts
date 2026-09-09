@@ -9,7 +9,7 @@ export const siaRidingOnMyBikeFromAtHomeWithTheKids = {
   position: 0,
   ownLength: 1.784,
   ownProgress: 1.784,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-21",
   externalId: "68CycIbYcixJDbzd5xyeku",

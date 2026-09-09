@@ -9,7 +9,7 @@ export const siaTitaniumMeganSV3rsion = {
   position: 0,
   ownLength: 4.054433,
   ownProgress: 4.054433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-09",
   externalId: "1nFSFPGbTNi9mIRvOwspc9",

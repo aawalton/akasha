@@ -10,7 +10,7 @@ export const theLordOfTheRingsMusicTheReturnOfTheKingTheCompleteRecordings = {
   position: 3,
   ownLength: 229.664817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-11-24",
   externalId: "2Re6RMBEfD8iv1HMxLMdzI",

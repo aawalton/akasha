@@ -9,7 +9,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008 = {
   position: 0,
   ownLength: 27.92925,
   ownProgress: 27.92925,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-28",
   externalId: "1ycoesYxIFymXWebfmz828",

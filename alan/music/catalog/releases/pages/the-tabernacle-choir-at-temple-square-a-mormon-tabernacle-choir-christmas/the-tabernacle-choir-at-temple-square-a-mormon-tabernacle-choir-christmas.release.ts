@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareAMormonTabernacleChoirChristmas = {
   position: 0,
   ownLength: 56.76525,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2000-01-01",
   externalId: "3v6jXDo3CUADRsawSfGXXa",

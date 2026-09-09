@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareThisIsTheChrist = {
   position: 0,
   ownLength: 65.9299,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-06-07",
   externalId: "7EQX3QP17o9g0srZLaSVN3",

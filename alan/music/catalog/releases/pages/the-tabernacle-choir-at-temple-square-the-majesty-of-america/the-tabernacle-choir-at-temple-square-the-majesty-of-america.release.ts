@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheMajestyOfAmerica = {
   position: 0,
   ownLength: 86.796267,
   ownProgress: 86.796267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1961-01-01",
   externalId: "72KHu8f74g2q6pkMSjsG73",

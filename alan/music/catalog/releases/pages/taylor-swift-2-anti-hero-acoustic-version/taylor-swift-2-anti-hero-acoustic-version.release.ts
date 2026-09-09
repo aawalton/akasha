@@ -9,7 +9,7 @@ export const taylorSwift2AntiHeroAcousticVersion = {
   position: 0,
   ownLength: 3.27455,
   ownProgress: 3.27455,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-25",
   externalId: "5vgWXUueeEU2labRz6TlNv",

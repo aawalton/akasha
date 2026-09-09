@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHymnsOfFaithLegacySeries = {
   position: 0,
   ownLength: 59.319033,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1991-09-01",
   externalId: "79lnBwBQU4PI2vj7dzekyd",

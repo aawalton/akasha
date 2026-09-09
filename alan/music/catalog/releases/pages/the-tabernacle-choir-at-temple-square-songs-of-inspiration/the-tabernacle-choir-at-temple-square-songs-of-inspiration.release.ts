@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSongsOfInspiration = {
   position: 0,
   ownLength: 58.580617,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1989-01-01",
   externalId: "2OWysc8K9BFyUgKNRvyXjP",

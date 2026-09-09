@@ -9,7 +9,7 @@ export const theBeatles2GetBackRooftopPerformance = {
   position: 0,
   ownLength: 38.534167,
   ownProgress: 38.534167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
   externalId: "6emgUTDksZyhhWmtjM9FCs",

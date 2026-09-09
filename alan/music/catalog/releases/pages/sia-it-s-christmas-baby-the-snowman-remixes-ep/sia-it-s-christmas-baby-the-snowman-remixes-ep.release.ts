@@ -9,7 +9,7 @@ export const siaItSChristmasBabyTheSnowmanRemixesEp = {
   position: 0,
   ownLength: 14.1104,
   ownProgress: 14.1104,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
   externalId: "5InDNvtWWOUeH5khdHBFnb",

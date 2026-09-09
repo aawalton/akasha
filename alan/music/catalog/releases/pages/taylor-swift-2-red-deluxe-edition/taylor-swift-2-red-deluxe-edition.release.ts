@@ -9,7 +9,7 @@ export const taylorSwift2RedDeluxeEdition = {
   position: 0,
   ownLength: 90.217667,
   ownProgress: 90.217667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-10-22",
   externalId: "1KlU96Hw9nlvqpBPlSqcTV",

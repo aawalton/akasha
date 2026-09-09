@@ -9,7 +9,7 @@ export const taylorSwift2AllTooWell10MinuteVersionTheShortFilm = {
   position: 0,
   ownLength: 11.4337,
   ownProgress: 11.4337,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-11",
   externalId: "2O1NYIBQCUobrL97A2Unk8",

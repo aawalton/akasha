@@ -9,7 +9,7 @@ export const taylorSwift2Willow90STrendRemix = {
   position: 0,
   ownLength: 3.751767,
   ownProgress: 3.751767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-14",
   externalId: "5C41iVpK8HXCe3qlLL3I38",

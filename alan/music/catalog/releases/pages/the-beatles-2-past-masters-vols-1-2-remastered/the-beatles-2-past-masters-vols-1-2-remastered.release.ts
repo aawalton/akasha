@@ -9,7 +9,7 @@ export const theBeatles2PastMastersVols12Remastered = {
   position: 0,
   ownLength: 93.462717,
   ownProgress: 93.462717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1988-03-07",
   externalId: "3GmCXW10kLxmZrEY0JpRlw",

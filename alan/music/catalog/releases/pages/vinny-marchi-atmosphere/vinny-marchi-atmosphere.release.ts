@@ -9,7 +9,7 @@ export const vinnyMarchiAtmosphere = {
   position: 0,
   ownLength: 3.415183,
   ownProgress: 3.415183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-04",

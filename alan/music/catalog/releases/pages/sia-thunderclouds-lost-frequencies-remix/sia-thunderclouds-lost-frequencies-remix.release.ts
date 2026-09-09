@@ -9,7 +9,7 @@ export const siaThundercloudsLostFrequenciesRemix = {
   position: 0,
   ownLength: 3.308217,
   ownProgress: 3.308217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-26",
   externalId: "3ZCUD4V3CptIsIByS3QL8q",

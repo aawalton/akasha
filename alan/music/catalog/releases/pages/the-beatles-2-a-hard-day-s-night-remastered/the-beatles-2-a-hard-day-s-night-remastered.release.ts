@@ -9,7 +9,7 @@ export const theBeatles2AHardDaySNightRemastered = {
   position: 0,
   ownLength: 30.194817,
   ownProgress: 30.194817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1964-07-10",
   externalId: "6wCttLq0ADzkPgtRnUihLV",

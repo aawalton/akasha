@@ -9,7 +9,7 @@ export const theBeatles2TheBeatles19621966Remastered = {
   position: 0,
   ownLength: 62.73295,
   ownProgress: 62.73295,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1973-04-01",
   externalId: "6126O4XLYAfzU3961ziahP",

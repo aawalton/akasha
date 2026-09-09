@@ -9,7 +9,7 @@ export const taylorSwift2ICanDoItWithABrokenHeart = {
   position: 0,
   ownLength: 7.2668,
   ownProgress: 7.2668,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-16",
   externalId: "3yVqF1TOg60hk9ehgMj3na",

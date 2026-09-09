@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSongsFromAmericaSHeartland = {
   position: 0,
   ownLength: 61.343683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1990-01-01",
   externalId: "0jeyoTaeDhQo4Vei8XOngA",

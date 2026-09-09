@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareOComeLittleChildren = {
   position: 0,
   ownLength: 79.513683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-10-06",
   externalId: "0YSMUqjzBs5cRXQA56dYN5",

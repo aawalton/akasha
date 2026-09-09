@@ -9,7 +9,7 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
   position: 0,
   ownLength: 3.633333,
   ownProgress: 3.633333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-13",
   externalId: "79KdrBJ8WgikPcPZH5KUNL",

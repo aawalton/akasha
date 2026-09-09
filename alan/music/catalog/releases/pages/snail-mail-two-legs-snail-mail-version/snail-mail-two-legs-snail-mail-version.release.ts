@@ -9,7 +9,7 @@ export const snailMailTwoLegsSnailMailVersion = {
   position: 0,
   ownLength: 4.206733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-23",
   externalId: "3RmEXZXd4bdfVB2WMnc9IX",

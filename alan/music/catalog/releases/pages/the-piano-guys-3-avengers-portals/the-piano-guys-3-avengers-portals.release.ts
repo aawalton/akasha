@@ -9,7 +9,7 @@ export const thePianoGuys3AvengersPortals = {
   position: 0,
   ownLength: 2.95,
   ownProgress: 2.95,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
   externalId: "3XF9a3HI2K79TQsGtAjDPc",

@@ -9,7 +9,7 @@ export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 4.544117,
   ownProgress: 4.544117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-14",
   externalId: "0Azr6asv0PO6raP0Di8DoI",

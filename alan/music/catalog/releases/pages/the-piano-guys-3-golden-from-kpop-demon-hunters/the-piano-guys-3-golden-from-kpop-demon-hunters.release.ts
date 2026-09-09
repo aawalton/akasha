@@ -9,7 +9,7 @@ export const thePianoGuys3GoldenFromKpopDemonHunters = {
   position: 0,
   ownLength: 3.25145,
   ownProgress: 3.25145,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-03",
   externalId: "3gkmPBZ0QBV38LkAjmFhl5",

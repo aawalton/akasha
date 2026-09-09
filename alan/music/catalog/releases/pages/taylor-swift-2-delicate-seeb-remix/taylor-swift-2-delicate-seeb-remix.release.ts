@@ -9,7 +9,7 @@ export const taylorSwift2DelicateSeebRemix = {
   position: 0,
   ownLength: 2.88775,
   ownProgress: 2.88775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-08",
   externalId: "7gU675c7KZ54MzEcL1O3px",

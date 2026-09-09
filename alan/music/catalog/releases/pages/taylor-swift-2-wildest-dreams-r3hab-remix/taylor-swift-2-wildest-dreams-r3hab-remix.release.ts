@@ -9,7 +9,7 @@ export const taylorSwift2WildestDreamsR3habRemix = {
   position: 0,
   ownLength: 3.301767,
   ownProgress: 3.301767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
   externalId: "4vkDxA22dFzObjOY1nnXPk",

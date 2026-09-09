@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheMostWonderfulTimeOfTheYear = {
   position: 0,
   ownLength: 69.0886,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-08-24",
   externalId: "4o830jkHRYBGJEeRPOgbcW",

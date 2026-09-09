@@ -9,7 +9,7 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
   position: 0,
   ownLength: 3.503983,
   ownProgress: 3.503983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-14",
   externalId: "1o1nGRSY4e3ixTYjD36GYS",

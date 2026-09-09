@@ -9,7 +9,7 @@ export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
   position: 0,
   ownLength: 50.3904,
   ownProgress: 50.3904,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
   externalId: "6Ov3BKM3fPEW1V6DtjQQar",

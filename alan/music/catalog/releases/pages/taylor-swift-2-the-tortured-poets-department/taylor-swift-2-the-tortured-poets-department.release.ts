@@ -9,7 +9,7 @@ export const taylorSwift2TheTorturedPoetsDepartment = {
   position: 0,
   ownLength: 65.26175,
   ownProgress: 65.26175,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-18",
   externalId: "1Mo4aZ8pdj6L1jx8zSwJnt",

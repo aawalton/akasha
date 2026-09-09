@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareRozsaThreeChoralSuites = {
   position: 0,
   ownLength: 61.34675,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2005-04-26",
   externalId: "398279pIWdbtvH4itYAc7L",

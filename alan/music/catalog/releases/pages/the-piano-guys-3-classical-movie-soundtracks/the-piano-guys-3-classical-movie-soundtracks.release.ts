@@ -9,7 +9,7 @@ export const thePianoGuys3ClassicalMovieSoundtracks = {
   position: 0,
   ownLength: 40.67505,
   ownProgress: 40.67505,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-19",
   externalId: "0wShLZqfVszY7hoGyM55WU",

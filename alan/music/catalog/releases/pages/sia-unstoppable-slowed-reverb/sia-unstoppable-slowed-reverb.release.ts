@@ -9,7 +9,7 @@ export const siaUnstoppableSlowedReverb = {
   position: 0,
   ownLength: 4.2125,
   ownProgress: 4.2125,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-26",
   externalId: "6EU7M6V56X2zp4LHlpHESC",

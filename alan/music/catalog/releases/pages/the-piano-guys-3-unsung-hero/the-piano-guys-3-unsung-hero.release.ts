@@ -9,7 +9,7 @@ export const thePianoGuys3UnsungHero = {
   position: 0,
   ownLength: 8.8363,
   ownProgress: 8.8363,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-28",
   externalId: "6l0aWPFshYJEZBSrvpDc5b",

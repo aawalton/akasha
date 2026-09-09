@@ -9,7 +9,7 @@ export const siaGimmeLoveSofianePamartRemix = {
   position: 0,
   ownLength: 13.307933,
   ownProgress: 13.307933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-17",
   externalId: "1pD0juD4fXUUIDsgGt9xrI",

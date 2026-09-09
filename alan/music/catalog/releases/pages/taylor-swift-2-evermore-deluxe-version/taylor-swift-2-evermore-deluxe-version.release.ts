@@ -9,7 +9,7 @@ export const taylorSwift2EvermoreDeluxeVersion = {
   position: 0,
   ownLength: 69.081267,
   ownProgress: 69.081267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-07",
   externalId: "6AORtDjduMM3bupSWzbTSG",

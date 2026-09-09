@@ -9,7 +9,7 @@ export const theHoldernessFamilyIMAdulting = {
   position: 0,
   ownLength: 2.700617,
   ownProgress: 2.700617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-29",
   externalId: "2mPDw6UcLtbdcYhLuTUDay",

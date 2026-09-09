@@ -9,7 +9,7 @@ export const taylorSwift2Ronan = {
   position: 0,
   ownLength: 4.421767,
   ownProgress: 4.421767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-08",
   externalId: "4T5606j6qpkQrWlwbKPLOp",

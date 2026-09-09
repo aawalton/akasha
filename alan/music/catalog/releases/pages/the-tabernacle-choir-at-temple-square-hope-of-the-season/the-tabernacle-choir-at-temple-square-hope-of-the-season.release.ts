@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHopeOfTheSeason = {
   position: 0,
   ownLength: 58.262133,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-10-24",
   externalId: "3j6F2DOHA3rdOfh19Hbun1",

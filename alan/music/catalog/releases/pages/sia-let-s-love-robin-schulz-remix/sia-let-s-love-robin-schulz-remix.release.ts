@@ -9,7 +9,7 @@ export const siaLetSLoveRobinSchulzRemix = {
   position: 0,
   ownLength: 7.091367,
   ownProgress: 7.091367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
   externalId: "0juTrTwj325hZKbkTSxhWl",

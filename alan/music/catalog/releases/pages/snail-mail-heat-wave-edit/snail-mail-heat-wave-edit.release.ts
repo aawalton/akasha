@@ -9,7 +9,7 @@ export const snailMailHeatWaveEdit = {
   position: 0,
   ownLength: 4.574833,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-04-26",
   externalId: "4nOZ4HWtYXyH5ITPhtgYYn",

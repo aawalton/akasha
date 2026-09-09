@@ -9,7 +9,7 @@ export const siaWhereIBelongRemixes2 = {
   position: 0,
   ownLength: 12.118883,
   ownProgress: 12.118883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-07-15",
   externalId: "2i9E6NcxrtUiVYD618dwhD",

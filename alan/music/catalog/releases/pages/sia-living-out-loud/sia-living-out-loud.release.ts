@@ -9,7 +9,7 @@ export const siaLivingOutLoud = {
   position: 0,
   ownLength: 3.9906,
   ownProgress: 3.9906,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
   externalId: "0t7EBnbzVx0Ekhi6PHsyrh",

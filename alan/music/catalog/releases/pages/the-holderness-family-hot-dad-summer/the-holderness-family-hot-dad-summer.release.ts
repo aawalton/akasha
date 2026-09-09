@@ -9,7 +9,7 @@ export const theHoldernessFamilyHotDadSummer = {
   position: 0,
   ownLength: 2.9035,
   ownProgress: 2.9035,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-01",
   externalId: "3hLu8UFdpJF80hhA90GAls",

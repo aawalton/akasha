@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareBestLovedAmericanFolkSongs = {
   position: 0,
   ownLength: 42.859267,
   ownProgress: 42.859267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1966-08-16",
   externalId: "0wSCGEsqHqTSChM7tyMsIZ",

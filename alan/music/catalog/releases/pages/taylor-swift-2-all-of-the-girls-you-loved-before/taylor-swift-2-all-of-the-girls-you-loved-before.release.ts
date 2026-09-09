@@ -9,7 +9,7 @@ export const taylorSwift2AllOfTheGirlsYouLovedBefore = {
   position: 0,
   ownLength: 3.690117,
   ownProgress: 3.690117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
   externalId: "1Uauz6ql2dIPvIOH4JiuhD",

@@ -9,7 +9,7 @@ export const thePianoGuys3Perfect = {
   position: 0,
   ownLength: 5.179967,
   ownProgress: 5.179967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-21",
   externalId: "34MK1MIhRB9evwfomSyMig",

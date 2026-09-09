@@ -9,7 +9,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersion = {
   position: 0,
   ownLength: 50.7555,
   ownProgress: 50.7555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-10-02",

@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareTheUltimateChristmasCollection = {
   position: 0,
   ownLength: 75.196733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-10-21",
   externalId: "5g2ub82DwveINAUReAvrho",

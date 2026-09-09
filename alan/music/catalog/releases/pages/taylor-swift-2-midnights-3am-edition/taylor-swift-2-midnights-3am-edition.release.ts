@@ -9,7 +9,7 @@ export const taylorSwift2Midnights3amEdition = {
   position: 0,
   ownLength: 69.487733,
   ownProgress: 69.487733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-22",
   externalId: "3lS1y25WAhcqJDATJK70Mq",

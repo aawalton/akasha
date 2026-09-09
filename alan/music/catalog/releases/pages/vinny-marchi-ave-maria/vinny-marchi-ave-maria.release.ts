@@ -9,7 +9,7 @@ export const vinnyMarchiAveMaria = {
   position: 0,
   ownLength: 3.9335,
   ownProgress: 3.9335,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-28",
   externalId: "2bRNaudGi0yWnya0j80HG5",

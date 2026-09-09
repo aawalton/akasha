@@ -9,7 +9,7 @@ export const thePianoGuys3LoveMeLikeIAm = {
   position: 0,
   ownLength: 7.7111,
   ownProgress: 7.7111,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-24",
   externalId: "7v728oCxcPTk0T41T23V1D",

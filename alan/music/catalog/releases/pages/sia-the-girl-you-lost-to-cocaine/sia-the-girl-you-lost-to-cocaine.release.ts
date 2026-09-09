@@ -9,7 +9,7 @@ export const siaTheGirlYouLostToCocaine = {
   position: 0,
   ownLength: 45.43285,
   ownProgress: 45.43285,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "0psPpltnZMSDnU67ma2hID",

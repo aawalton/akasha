@@ -9,7 +9,7 @@ export const siaImmortalQueenFeatChakaKhanDebbieHarry = {
   position: 0,
   ownLength: 3.5761,
   ownProgress: 3.5761,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-30",
   externalId: "6DTDpU2pW8MJgUHLPvNoNi",

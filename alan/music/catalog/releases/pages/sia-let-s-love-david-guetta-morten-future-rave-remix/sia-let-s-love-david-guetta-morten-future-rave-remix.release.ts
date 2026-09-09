@@ -9,7 +9,7 @@ export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   position: 0,
   ownLength: 8.380783,
   ownProgress: 8.380783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-23",
   externalId: "5ycDNsggvTkFJsxkPu6Vzr",

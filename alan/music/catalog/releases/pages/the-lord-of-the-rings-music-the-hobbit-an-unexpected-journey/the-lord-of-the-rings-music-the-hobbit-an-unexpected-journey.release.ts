@@ -9,7 +9,7 @@ export const theLordOfTheRingsMusicTheHobbitAnUnexpectedJourney = {
   position: 4,
   ownLength: 127.696383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-11",
   externalId: "6v6VCAaPl3G08OeNhuk6za",

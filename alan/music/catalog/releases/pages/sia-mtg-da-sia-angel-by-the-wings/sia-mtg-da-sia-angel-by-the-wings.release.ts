@@ -9,7 +9,7 @@ export const siaMtgDaSiaAngelByTheWings = {
   position: 0,
   ownLength: 2.053117,
   ownProgress: 2.053117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-20",
   externalId: "7KYLDnvpL3yGcLLxRYgFfu",

@@ -9,7 +9,7 @@ export const thePianoGuys3TheSnowQueenMoldau = {
   position: 0,
   ownLength: 4.925,
   ownProgress: 4.925,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-06",
   externalId: "6aigfcdnKVotNXERI2tkcZ",

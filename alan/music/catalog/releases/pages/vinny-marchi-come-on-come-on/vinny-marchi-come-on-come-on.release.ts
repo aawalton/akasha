@@ -9,7 +9,7 @@ export const vinnyMarchiComeOnComeOn = {
   position: 0,
   ownLength: 2.482083,
   ownProgress: 2.482083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-21",
   externalId: "3aXnOVCu2V9V20oVmwWWs2",

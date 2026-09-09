@@ -9,7 +9,7 @@ export const thePianoGuys3MusicBoxDancer = {
   position: 0,
   ownLength: 2.716267,
   ownProgress: 2.716267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
   externalId: "5JfMSWjO3ZcPh1L1DiiwWp",

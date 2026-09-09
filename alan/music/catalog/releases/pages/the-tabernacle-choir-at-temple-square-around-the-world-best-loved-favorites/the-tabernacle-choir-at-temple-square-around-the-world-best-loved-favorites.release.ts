@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareAroundTheWorldBestLovedFavorites = 
   position: 0,
   ownLength: 73.962283,
   ownProgress: 73.962283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1963-01-01",
   externalId: "4pwEZyVZKole1lQhLgKJKZ",

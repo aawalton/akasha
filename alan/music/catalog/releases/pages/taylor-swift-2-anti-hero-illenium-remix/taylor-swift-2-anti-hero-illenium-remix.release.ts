@@ -9,7 +9,7 @@ export const taylorSwift2AntiHeroIlleniumRemix = {
   position: 0,
   ownLength: 4.466,
   ownProgress: 4.466,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-18",
   externalId: "20wq0dFrgEhhulGXqnb4A6",

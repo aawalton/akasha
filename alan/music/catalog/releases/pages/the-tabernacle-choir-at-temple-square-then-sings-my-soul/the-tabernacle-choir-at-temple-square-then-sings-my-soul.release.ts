@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareThenSingsMySoul = {
   position: 0,
   ownLength: 76.71345,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2006-05-26",
   externalId: "2rmyPvhWNErX3WXli6cSbV",

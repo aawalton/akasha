@@ -9,7 +9,7 @@ export const siaManchild = {
   position: 0,
   ownLength: 3.296667,
   ownProgress: 3.296667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-28",
   externalId: "4T3bAELPl0l8HhqKMp7Z8I",

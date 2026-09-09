@@ -9,7 +9,7 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   position: 0,
   ownLength: 4.7717,
   ownProgress: 4.7717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-03-05",
   externalId: "6Bt10tFZyIkjWebcrReBMC",

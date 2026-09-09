@@ -9,7 +9,7 @@ export const taylorSwift2Lover = {
   position: 0,
   ownLength: 61.85635,
   ownProgress: 61.85635,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
   externalId: "1NAmidJlEaVgA3MpcPFYGq",

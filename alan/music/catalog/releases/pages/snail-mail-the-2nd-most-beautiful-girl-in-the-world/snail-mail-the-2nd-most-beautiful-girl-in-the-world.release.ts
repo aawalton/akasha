@@ -9,7 +9,7 @@ export const snailMailThe2ndMostBeautifulGirlInTheWorld = {
   position: 0,
   ownLength: 2.224433,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-06-23",
   externalId: "4YixIuvYEJY1bKBFcCRzgN",

@@ -9,7 +9,7 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandRemastered = {
   position: 0,
   ownLength: 39.920567,
   ownProgress: 39.920567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1967-06-01",
   externalId: "6QaVfG1pHYl1z15ZxkvVDW",

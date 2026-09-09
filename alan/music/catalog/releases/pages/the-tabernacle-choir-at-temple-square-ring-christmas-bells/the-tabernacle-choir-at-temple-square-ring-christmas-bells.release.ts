@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareRingChristmasBells = {
   position: 0,
   ownLength: 71.61525,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-08-31",
   externalId: "1sF4Plow4HwcETACur3CD3",

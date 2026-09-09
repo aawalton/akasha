@@ -9,7 +9,7 @@ export const theBeatles2Love = {
   position: 0,
   ownLength: 86.901183,
   ownProgress: 86.901183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-11-17",
   externalId: "1Ye7yrA7vAlQnoooj8yDXb",

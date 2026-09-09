@@ -9,7 +9,7 @@ export const siaSnowmanSpedUpVersion = {
   position: 0,
   ownLength: 2.292967,
   ownProgress: 2.292967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-07",
   externalId: "4ZGx4gR1GCT5i5zOHsRX6T",

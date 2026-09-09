@@ -9,7 +9,7 @@ export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemix = {
   position: 0,
   ownLength: 10.136517,
   ownProgress: 10.136517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-06",
   externalId: "1Ed98OfVXz3CiJcupzuLTo",

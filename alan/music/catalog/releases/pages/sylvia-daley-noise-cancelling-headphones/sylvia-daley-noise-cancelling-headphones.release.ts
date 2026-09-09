@@ -9,7 +9,7 @@ export const sylviaDaleyNoiseCancellingHeadphones = {
   position: 0,
   ownLength: 2.9577,
   ownProgress: 2.9577,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-04-02",

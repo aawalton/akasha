@@ -9,7 +9,7 @@ export const taylorSwift2TheMoreRedTaylorSVersionChapter = {
   position: 0,
   ownLength: 28.996567,
   ownProgress: 28.996567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalId: "1qEs8XpGGduMUF7jfAs5l3",

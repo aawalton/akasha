@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies = {
   position: 0,
   ownLength: 67.523033,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-06",
   externalId: "2KjH0jHwyXlV9mis5mcfJf",

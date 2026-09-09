@@ -9,7 +9,7 @@ export const taylorSwift2SpeakNowWorldTourLive = {
   position: 0,
   ownLength: 79.232317,
   ownProgress: 79.232317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-10-25",
   externalId: "6fyR4wBPwLHKcRtxgd4sGh",

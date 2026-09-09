@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareWinterMorning = {
   position: 0,
   ownLength: 28.6893,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-18",
   externalId: "6ZsYYeyBnM93AI6SKREsvB",

@@ -9,7 +9,7 @@ export const siaNeverGiveUpFromLionSoundtrack = {
   position: 0,
   ownLength: 3.699767,
   ownProgress: 3.699767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-18",
   externalId: "3pOA3oohNOrloauSH9rd8n",

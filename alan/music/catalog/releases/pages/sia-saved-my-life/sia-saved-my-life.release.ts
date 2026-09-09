@@ -9,7 +9,7 @@ export const siaSavedMyLife = {
   position: 0,
   ownLength: 3.925517,
   ownProgress: 3.925517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-02",
   externalId: "1kKYFo3YmUCRmT1tUj31wp",

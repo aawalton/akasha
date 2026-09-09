@@ -9,7 +9,7 @@ export const theBeatles2OnAirLiveAtTheBbcVol2 = {
   position: 0,
   ownLength: 130.4089,
   ownProgress: 130.4089,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-11",
   externalId: "4On0Hf7VJC1jz5gXY2cU8p",

@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareComeThouFountOfEveryBlessing = {
   position: 0,
   ownLength: 75.966567,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-03-24",
   externalId: "5KBh51ANKKCou1u1QEQaC3",

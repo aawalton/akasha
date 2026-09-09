@@ -9,7 +9,7 @@ export const taylorSwift2LavenderHazeRemixes = {
   position: 0,
   ownLength: 16.87275,
   ownProgress: 16.87275,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-03",
   externalId: "5LyzI39gkePgpHz38bEQIr",

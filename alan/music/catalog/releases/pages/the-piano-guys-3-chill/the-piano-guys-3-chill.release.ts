@@ -9,7 +9,7 @@ export const thePianoGuys3Chill = {
   position: 0,
   ownLength: 49.04045,
   ownProgress: 49.04045,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-22",
   externalId: "7iCG2ULUgJYAuR5FrTyOcW",

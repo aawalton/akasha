@@ -9,7 +9,7 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
   position: 0,
   ownLength: 100.151217,
   ownProgress: 100.151217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1967-06-01",
   externalId: "6b7ycwe2rxq6FkaupNuGoS",

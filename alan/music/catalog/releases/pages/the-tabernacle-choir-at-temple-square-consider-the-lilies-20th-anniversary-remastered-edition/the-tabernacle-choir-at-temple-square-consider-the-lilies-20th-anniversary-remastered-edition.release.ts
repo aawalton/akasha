@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies20thAnniversaryRem
   position: 0,
   ownLength: 67.527467,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-05",
   externalId: "6KwkY5vBBknN8Kl7cPGx8J",

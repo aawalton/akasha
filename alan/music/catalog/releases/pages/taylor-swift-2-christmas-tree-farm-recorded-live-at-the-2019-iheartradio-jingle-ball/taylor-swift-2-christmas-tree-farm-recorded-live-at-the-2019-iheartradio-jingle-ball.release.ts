@@ -9,7 +9,7 @@ export const taylorSwift2ChristmasTreeFarmRecordedLiveAtThe2019IheartradioJingle
   position: 0,
   ownLength: 4.2311,
   ownProgress: 4.2311,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-19",
   externalId: "5lIglDJlPaEoqVl2hhi3O0",

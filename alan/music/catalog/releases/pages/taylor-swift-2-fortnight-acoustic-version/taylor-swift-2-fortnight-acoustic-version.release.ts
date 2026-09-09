@@ -9,7 +9,7 @@ export const taylorSwift2FortnightAcousticVersion = {
   position: 0,
   ownLength: 10.870583,
   ownProgress: 10.870583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-09",
   externalId: "5IYMYmX28qpI6OEnQhdazX",

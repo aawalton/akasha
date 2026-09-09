@@ -9,7 +9,7 @@ export const vinnyMarchiBigBadWolf = {
   position: 0,
   ownLength: 2.352533,
   ownProgress: 2.352533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-26",

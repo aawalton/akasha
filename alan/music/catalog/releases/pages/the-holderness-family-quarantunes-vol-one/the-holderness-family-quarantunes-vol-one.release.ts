@@ -9,7 +9,7 @@ export const theHoldernessFamilyQuarantunesVolOne = {
   position: 0,
   ownLength: 46.5096,
   ownProgress: 46.5096,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
   externalId: "0LiTRvhnM2a2AN1f3zrXEX",

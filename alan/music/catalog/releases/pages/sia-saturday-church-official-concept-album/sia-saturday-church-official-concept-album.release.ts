@@ -9,7 +9,7 @@ export const siaSaturdayChurchOfficialConceptAlbum = {
   position: 0,
   ownLength: 58.446217,
   ownProgress: 58.446217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-22",
   externalId: "5MUbWieT5aVx5oVtrSgHxG",

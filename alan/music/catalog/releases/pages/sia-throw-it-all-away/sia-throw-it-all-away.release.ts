@@ -9,7 +9,7 @@ export const siaThrowItAllAway = {
   position: 0,
   ownLength: 4.026,
   ownProgress: 4.026,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-04-28",
   externalId: "0KjafXlMpv87ZpMrxv8qrE",

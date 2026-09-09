@@ -9,7 +9,7 @@ export const vinnyMarchiCaptainPlatonic = {
   position: 0,
   ownLength: 2.0246,
   ownProgress: 2.0246,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-04-26",

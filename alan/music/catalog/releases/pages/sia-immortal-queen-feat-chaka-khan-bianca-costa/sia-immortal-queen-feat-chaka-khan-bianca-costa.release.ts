@@ -9,7 +9,7 @@ export const siaImmortalQueenFeatChakaKhanBiancaCosta = {
   position: 0,
   ownLength: 3.36265,
   ownProgress: 3.36265,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
   externalId: "04TeOM7SKW4d0Th4bd0KDq",

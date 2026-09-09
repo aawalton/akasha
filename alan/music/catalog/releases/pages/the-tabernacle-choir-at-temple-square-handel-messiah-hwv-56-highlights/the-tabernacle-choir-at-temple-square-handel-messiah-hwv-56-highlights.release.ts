@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHandelMessiahHwv56Highlights = {
   position: 0,
   ownLength: 61.21795,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-04",
   externalId: "4xbcA9EWpDGYVWJEMswizm",

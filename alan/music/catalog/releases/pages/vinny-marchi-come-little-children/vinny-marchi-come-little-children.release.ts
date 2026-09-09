@@ -9,7 +9,7 @@ export const vinnyMarchiComeLittleChildren = {
   position: 0,
   ownLength: 2.57475,
   ownProgress: 2.57475,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-09-18",

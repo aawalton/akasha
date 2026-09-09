@@ -10,7 +10,7 @@ export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   position: 5,
   ownLength: 129.532117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-12-10",
   externalId: "3MCUHjDo3wSm2QuLh1Fyrf",

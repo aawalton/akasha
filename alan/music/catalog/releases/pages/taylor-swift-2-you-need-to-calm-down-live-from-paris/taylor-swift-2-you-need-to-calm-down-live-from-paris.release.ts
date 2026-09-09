@@ -9,7 +9,7 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParis = {
   position: 0,
   ownLength: 3.399333,
   ownProgress: 3.399333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
   externalId: "1w1zVWd1JmsqAgfCw117Ra",

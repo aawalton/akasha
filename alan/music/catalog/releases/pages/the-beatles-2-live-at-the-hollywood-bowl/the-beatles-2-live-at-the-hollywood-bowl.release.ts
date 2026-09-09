@@ -9,7 +9,7 @@ export const theBeatles2LiveAtTheHollywoodBowl = {
   position: 0,
   ownLength: 43.582117,
   ownProgress: 43.582117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-09-09",
   externalId: "0n9SWDBEftKwq09B01Pwzw",

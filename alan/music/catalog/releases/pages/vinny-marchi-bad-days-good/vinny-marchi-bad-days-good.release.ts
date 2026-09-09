@@ -9,7 +9,7 @@ export const vinnyMarchiBadDaysGood = {
   position: 0,
   ownLength: 2.65,
   ownProgress: 2.65,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-03",

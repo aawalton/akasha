@@ -9,7 +9,7 @@ export const vinnyMarchiBewareOfTheSiren = {
   position: 0,
   ownLength: 2.946867,
   ownProgress: 2.946867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-06-22",

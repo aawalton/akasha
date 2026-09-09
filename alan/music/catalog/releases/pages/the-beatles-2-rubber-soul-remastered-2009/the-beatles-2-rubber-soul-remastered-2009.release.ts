@@ -9,7 +9,7 @@ export const theBeatles2RubberSoulRemastered2009 = {
   position: 0,
   ownLength: 35.538817,
   ownProgress: 35.538817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1965-12-03",
   externalId: "50o7kf2wLwVmOTVYJOTplm",

@@ -9,7 +9,7 @@ export const theBeatles2RevolverRemastered = {
   position: 0,
   ownLength: 34.765933,
   ownProgress: 34.765933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1966-08-05",
   externalId: "3PRoXYsngSwjEQWR5PsHWR",

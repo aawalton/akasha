@@ -9,7 +9,7 @@ export const thePianoGuys3GoldenHour = {
   position: 0,
   ownLength: 2.64285,
   ownProgress: 2.64285,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
   externalId: "54UrEWWtZyZLVN3BWZHSwL",

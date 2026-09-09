@@ -9,7 +9,7 @@ export const siaGimmeChristmasSleepSoundscape = {
   position: 0,
   ownLength: 49.996283,
   ownProgress: 49.996283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-10",
   externalId: "0ynrXCnhZnaP0B7Kt2BW7B",

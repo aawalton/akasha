@@ -9,7 +9,7 @@ export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   position: 0,
   ownLength: 10.627933,
   ownProgress: 10.627933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-15",
   externalId: "4DKjALtZlfNn9v4SCu3vtI",

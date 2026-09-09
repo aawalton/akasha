@@ -9,7 +9,7 @@ export const theHoldernessFamilyBestOfThe80s = {
   position: 0,
   ownLength: 28.46215,
   ownProgress: 28.46215,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-28",
   externalId: "5ciGBaY02IkpnpPJdzR6cc",

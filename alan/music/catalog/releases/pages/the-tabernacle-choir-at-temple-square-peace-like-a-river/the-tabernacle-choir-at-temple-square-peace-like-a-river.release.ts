@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquarePeaceLikeARiver = {
   position: 0,
   ownLength: 68.775217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-03-09",
   externalId: "1uil2IubtOh7tE0x1iq8oV",

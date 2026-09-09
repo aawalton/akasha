@@ -9,7 +9,7 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   position: 0,
   ownLength: 7.5102,
   ownProgress: 7.5102,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-21",
   externalId: "6d8IUfMwq7HGCnR2efXjdm",

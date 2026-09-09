@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHallelujahChorusTheGreatHandelChoru
   position: 0,
   ownLength: 47.715033,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-04-04",
   externalId: "2vz9Ay4HDnE4Zo7JkNVUu6",

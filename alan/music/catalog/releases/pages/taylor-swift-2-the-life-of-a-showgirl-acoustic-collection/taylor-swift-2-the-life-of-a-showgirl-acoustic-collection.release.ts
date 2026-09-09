@@ -9,7 +9,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   position: 0,
   ownLength: 68.979233,
   ownProgress: 68.979233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
   externalId: "6QNMhoV8V0u7cFuhhUBOn7",

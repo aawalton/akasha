@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareHallelujahGreatChoralClassics = {
   position: 0,
   ownLength: 50.975233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1990-01-01",
   externalId: "7do4OCt3fHqYpWylH8JBDN",

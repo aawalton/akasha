@@ -9,7 +9,7 @@ export const theBeatles2HelterSkelterSecondVersionTake17 = {
   position: 0,
   ownLength: 8.094433,
   ownProgress: 8.094433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-19",
   externalId: "3LgOIvd2pEdCbxqmpqQktL",

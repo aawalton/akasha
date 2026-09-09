@@ -9,7 +9,7 @@ export const tomLehrerAnEveningWastedWithTomLehrer = {
   position: 0,
   ownLength: 42.406617,
   ownProgress: 42.406617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1959-02-01",
   externalId: "5bJZc75sFbRq2cwDsrbWTK",

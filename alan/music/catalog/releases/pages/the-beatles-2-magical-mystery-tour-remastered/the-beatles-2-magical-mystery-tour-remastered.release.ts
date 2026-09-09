@@ -9,7 +9,7 @@ export const theBeatles2MagicalMysteryTourRemastered = {
   position: 0,
   ownLength: 36.547033,
   ownProgress: 36.547033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1967-11-27",
   externalId: "2BtE7qm1qzM80p9vLSiXkj",

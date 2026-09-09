@@ -9,7 +9,7 @@ export const siaYouVeChanged = {
   position: 0,
   ownLength: 3.186433,
   ownProgress: 3.186433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-09-24",
   externalId: "4ktb3nnXOGXNNnvWyjhhaq",

@@ -9,7 +9,7 @@ export const siaGimmeChristmas = {
   position: 0,
   ownLength: 18.955083,
   ownProgress: 18.955083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-01",
   externalId: "7ohxk0aNpEgt1t2cMRkxcX",

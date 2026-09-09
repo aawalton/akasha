@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSpiritOfAmerica = {
   position: 0,
   ownLength: 69.7639,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-06-24",
   externalId: "4mmW4SodAaTIoggY1EfqtH",

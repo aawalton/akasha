@@ -9,7 +9,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylist = {
   position: 0,
   ownLength: 186.266467,
   ownProgress: 186.266467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-09",
   externalId: "1MPAXuTVL2Ej5x0JHiSPq8",

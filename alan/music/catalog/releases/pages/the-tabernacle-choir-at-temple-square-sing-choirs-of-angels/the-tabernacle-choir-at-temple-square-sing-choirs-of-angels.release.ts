@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSingChoirsOfAngels = {
   position: 0,
   ownLength: 56.78435,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-09-14",
   externalId: "25CqOTYEvPqFhaU3f1klLq",

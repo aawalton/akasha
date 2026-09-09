@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareSeasonOfLight = {
   position: 0,
   ownLength: 56.078133,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-27",
   externalId: "0nECS4iEBmV2zbbrgIMGv4",

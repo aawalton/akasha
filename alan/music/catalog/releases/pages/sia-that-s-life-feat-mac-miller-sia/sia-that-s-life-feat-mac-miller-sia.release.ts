@@ -9,7 +9,7 @@ export const siaThatSLifeFeatMacMillerSia = {
   position: 0,
   ownLength: 3.373167,
   ownProgress: 3.373167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-20",
   externalId: "1a7behQFUiQ9iHjSJxiZXE",

@@ -9,7 +9,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   position: 0,
   ownLength: 134.704517,
   ownProgress: 134.704517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-25",
   externalId: "0PZ7lAru5FDFHuirTkWe9Z",

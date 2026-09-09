@@ -9,7 +9,7 @@ export const taylorSwift2WillowTheWitchCollection = {
   position: 0,
   ownLength: 13.7174,
   ownProgress: 13.7174,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-16",
   externalId: "6WzAiEDGTU7KmEyGwLpBXB",

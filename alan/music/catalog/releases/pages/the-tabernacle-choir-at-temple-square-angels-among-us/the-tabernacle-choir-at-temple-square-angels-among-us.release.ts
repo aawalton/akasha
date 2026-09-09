@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquareAngelsAmongUs = {
   position: 0,
   ownLength: 74.3981,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-18",
   externalId: "79rvWXhkXby4BMxFR0tp2g",

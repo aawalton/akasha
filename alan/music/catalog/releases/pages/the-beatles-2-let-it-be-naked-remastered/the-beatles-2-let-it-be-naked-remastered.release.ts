@@ -9,7 +9,7 @@ export const theBeatles2LetItBeNakedRemastered = {
   position: 0,
   ownLength: 35.082217,
   ownProgress: 35.082217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalId: "4KYcffwC5HgjJLdpQU9SjC",

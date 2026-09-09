@@ -9,7 +9,7 @@ export const siaHeyBoy = {
   position: 0,
   ownLength: 14.714383,
   ownProgress: 14.714383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-19",
   externalId: "3khsmnYmmsMJ0IMW8OvLKF",

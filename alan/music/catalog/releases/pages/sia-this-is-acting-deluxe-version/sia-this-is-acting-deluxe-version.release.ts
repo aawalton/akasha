@@ -9,7 +9,7 @@ export const siaThisIsActingDeluxeVersion = {
   position: 0,
   ownLength: 74.323433,
   ownProgress: 74.323433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-21",
   externalId: "2eV6DIPDnGl1idcjww6xyX",

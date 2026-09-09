@@ -9,7 +9,7 @@ export const theBeatles2YellowSubmarineSongtrack = {
   position: 0,
   ownLength: 45.641483,
   ownProgress: 45.641483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-09-13",
   externalId: "0XRZpF083HqgygM0v1hQyE",

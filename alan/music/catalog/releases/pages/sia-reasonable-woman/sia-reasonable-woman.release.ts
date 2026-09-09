@@ -9,7 +9,7 @@ export const siaReasonableWoman = {
   position: 0,
   ownLength: 52.8199,
   ownProgress: 52.8199,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-03",
   externalId: "2JYsCq8rOuQXkwv9BtJEa8",

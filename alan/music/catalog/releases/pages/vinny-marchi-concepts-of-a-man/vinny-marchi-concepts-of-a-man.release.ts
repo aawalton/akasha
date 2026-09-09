@@ -9,7 +9,7 @@ export const vinnyMarchiConceptsOfAMan = {
   position: 0,
   ownLength: 1.208367,
   ownProgress: 1.208367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-11-08",

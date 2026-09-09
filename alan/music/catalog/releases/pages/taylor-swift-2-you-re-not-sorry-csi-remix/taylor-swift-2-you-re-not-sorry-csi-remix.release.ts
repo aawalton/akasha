@@ -9,7 +9,7 @@ export const taylorSwift2YouReNotSorryCsiRemix = {
   position: 0,
   ownLength: 4.374,
   ownProgress: 4.374,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-07",
   externalId: "5sZIjREu3s225wwqJkgsYV",

@@ -9,7 +9,7 @@ export const taylorSwift2ReadyForItBloodpopRemix = {
   position: 0,
   ownLength: 3.158467,
   ownProgress: 3.158467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
   externalId: "45fMDoh9dhhQicddIZzhKM",

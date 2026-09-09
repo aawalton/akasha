@@ -9,7 +9,7 @@ export const thePianoGuys3Mistletoe = {
   position: 0,
   ownLength: 4.781333,
   ownProgress: 4.781333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
   externalId: "4tPB4mfJ6h6Pkvw33HLlA8",

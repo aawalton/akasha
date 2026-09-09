@@ -9,7 +9,7 @@ export const siaIForgiveYouRemixes = {
   position: 0,
   ownLength: 26.497733,
   ownProgress: 26.497733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
   externalId: "57aBdbmYeOzOdKpVM1FihB",

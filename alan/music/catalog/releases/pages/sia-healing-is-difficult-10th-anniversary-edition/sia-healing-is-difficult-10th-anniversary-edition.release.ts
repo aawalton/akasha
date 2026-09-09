@@ -9,7 +9,7 @@ export const siaHealingIsDifficult10thAnniversaryEdition = {
   position: 0,
   ownLength: 57.098833,
   ownProgress: 57.098833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
   externalId: "0v1UhTkwjhmUYOFotlws6c",

@@ -9,7 +9,7 @@ export const theTabernacleChoirAtTempleSquare20GreatBachHandelChoruses = {
   position: 0,
   ownLength: 69.443867,
   ownProgress: 69.443867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1959-01-01",
   externalId: "3sCGPUj7X9ht9uMLYjCZAr",

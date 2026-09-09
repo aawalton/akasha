@@ -9,7 +9,7 @@ export const taylorSwift2DaylightLiveFromParis = {
   position: 0,
   ownLength: 4.372,
   ownProgress: 4.372,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-17",
   externalId: "2apcAEM6coXOMnHitrpRDk",

@@ -9,7 +9,7 @@ export const taylorSwift2WillowLonelyWitchVersion = {
   position: 0,
   ownLength: 3.57755,
   ownProgress: 3.57755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-15",
   externalId: "77wvNMSdOowJgpJx1kcKqc",

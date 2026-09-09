@@ -9,7 +9,7 @@ export const taylorSwift2SweeterThanFiction = {
   position: 0,
   ownLength: 3.960667,
   ownProgress: 3.960667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-21",
   externalId: "11e4xCXllbvk8pWc1cCas1",

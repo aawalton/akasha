@@ -9,7 +9,7 @@ export const theBeatles2YellowSubmarineRemastered = {
   position: 0,
   ownLength: 39.718817,
   ownProgress: 39.718817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1969-01-17",
   externalId: "1gKZ5A1ndFqbcrWtW85cCy",

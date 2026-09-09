@@ -9,7 +9,7 @@ export const taylorSwift2WillowMoonlitWitchVersion = {
   position: 0,
   ownLength: 3.4811,
   ownProgress: 3.4811,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-16",
   externalId: "5rZ2dHO8pco3A7cYToyvR0",
