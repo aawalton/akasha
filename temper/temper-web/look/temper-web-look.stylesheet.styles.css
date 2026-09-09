@@ -14,8 +14,8 @@
 @source "../../../pages/ui/**/*.{ts,tsx}";
 @source "../../characters-equipment-ui/**/*.{ts,tsx}";
 @source "../../player-completion-skills-morphs-ui/**/*.{ts,tsx}";
+@source "../../player-economics-ui/**/*.{ts,tsx}";
 @source "../../temper-player-completion-ui/**/*.{ts,tsx}";
-@source "../../temper-player-economics-ui/**/*.{ts,tsx}";
 @source "../../temper-player-inventory-management-ui/**/*.{ts,tsx}";
 
 [data-label].enclosing {
