@@ -5,6 +5,6 @@ export const telepath = {
   pageTypeSlug: "world-class",
   slug: "telepath",
   title: "Telepath",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

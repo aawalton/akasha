@@ -5,7 +5,7 @@ export const spearmaster = {
   pageTypeSlug: "world-class",
   slug: "spearmaster",
   title: "Spearmaster",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["spearmasters"],
   evolvesToSlugs: ["spearmaster-the-spear-of-silence"],
   references: "jsonl",

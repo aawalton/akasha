@@ -5,7 +5,7 @@ export const steelTempest = {
   pageTypeSlug: "world-class",
   slug: "steel-tempest",
   title: "Steel Tempest",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["steelforged-whirlwind"],
   references: "jsonl",
 } as const satisfies WorldClass

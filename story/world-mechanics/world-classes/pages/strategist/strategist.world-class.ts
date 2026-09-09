@@ -5,7 +5,7 @@ export const strategist = {
   pageTypeSlug: "world-class",
   slug: "strategist",
   title: "Strategist",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["strategists"],
   evolvesToSlugs: ["eleleu-strategos"],
   references: "jsonl",

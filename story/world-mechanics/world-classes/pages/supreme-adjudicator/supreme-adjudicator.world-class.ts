@@ -5,6 +5,6 @@ export const supremeAdjudicator = {
   pageTypeSlug: "world-class",
   slug: "supreme-adjudicator",
   title: "Supreme Adjudicator",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

@@ -5,7 +5,7 @@ export const tactician = {
   pageTypeSlug: "world-class",
   slug: "tactician",
   title: "Tactician",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["tacticians"],
   evolvesToSlugs: ["strategist-of-sympathy"],
   references: "jsonl",

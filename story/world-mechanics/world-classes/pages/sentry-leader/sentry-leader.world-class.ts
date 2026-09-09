@@ -5,6 +5,6 @@ export const sentryLeader = {
   pageTypeSlug: "world-class",
   slug: "sentry-leader",
   title: "Sentry Leader",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldClass

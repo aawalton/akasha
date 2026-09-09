@@ -5,7 +5,7 @@ export const strongestMartialArtistOfPomle = {
   pageTypeSlug: "world-class",
   slug: "strongest-martial-artist-of-pomle",
   title: "Strongest Martial Artist of Pomle",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["magicbane-superior-martial-artist", "superior-martial-artist"],
   references: "jsonl",
 } as const satisfies WorldClass
