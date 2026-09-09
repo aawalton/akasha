@@ -8,12 +8,25 @@ export const dayOpening = {
   code: "ts",
   invariants: [
     {
-      invariantKind: "gap",
-      statement: "The blocks a day held are answered empty rather than read.",
+      invariantKind: "departure",
+      statement:
+        "The moment a day opened is read from the opening window rather than worked out here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An instant before its ESO day opened counts to the day before.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An instant at or after the next day's opening counts to the day after.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a sleep block.",
     },
     {
       invariantKind: "gap",
-      statement: "A day with no block read opens at the ESO day's own opening.",
+      statement: "A day that will not parse answers a window at the epoch rather than refusing.",
     },
   ],
 } as const satisfies Module
