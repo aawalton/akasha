@@ -5,7 +5,7 @@ export const bewareOfChicken0336V7c83HeavenBeforeHell = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0336-v7c83-heaven-before-hell",
   title: "v7c83: Heaven Before Hell",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 336,
   ownLength: 3723,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0169V5c62TheHeavensConverge = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0169-v5c62-the-heavens-converge",
   title: "v5c62: The Heavens Converge",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 169,
   ownLength: 2138,
   ownProgress: 2138,

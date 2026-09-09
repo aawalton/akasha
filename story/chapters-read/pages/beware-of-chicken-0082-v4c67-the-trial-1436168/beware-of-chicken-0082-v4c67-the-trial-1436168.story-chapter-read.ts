@@ -4,7 +4,7 @@ export const bewareOfChicken0082V4c67TheTrial1436168 = {
   id: "01a08397-0400-77c4-9a9f-e6fc3afee8d2",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0082-v4c67-the-trial-1436168",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 82,
   publishedAt: "2023-12-08",
   unitSlug: "words",

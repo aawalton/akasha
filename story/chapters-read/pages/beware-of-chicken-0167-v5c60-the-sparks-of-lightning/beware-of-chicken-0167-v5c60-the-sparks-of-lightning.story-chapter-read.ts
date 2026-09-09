@@ -5,7 +5,7 @@ export const bewareOfChicken0167V5c60TheSparksOfLightning = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0167-v5c60-the-sparks-of-lightning",
   title: "v5c60: The Sparks of Lightning",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 167,
   ownLength: 2455,
   ownProgress: 2455,

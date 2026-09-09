@@ -5,7 +5,7 @@ export const bewareOfChicken0218V6c30Countdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0218-v6c30-countdown",
   title: "v6c30: Countdown",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 218,
   ownLength: 2711,
   ownProgress: 2711,

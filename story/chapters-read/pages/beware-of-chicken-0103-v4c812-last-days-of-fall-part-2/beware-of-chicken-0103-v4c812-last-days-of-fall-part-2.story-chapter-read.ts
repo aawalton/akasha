@@ -4,7 +4,7 @@ export const bewareOfChicken0103V4c812LastDaysOfFallPart2 = {
   id: "01a08397-16b5-73e1-aedf-a9cf55f23148",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0103-v4c812-last-days-of-fall-part-2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 103,
   publishedAt: "2024-03-07",
   unitSlug: "words",

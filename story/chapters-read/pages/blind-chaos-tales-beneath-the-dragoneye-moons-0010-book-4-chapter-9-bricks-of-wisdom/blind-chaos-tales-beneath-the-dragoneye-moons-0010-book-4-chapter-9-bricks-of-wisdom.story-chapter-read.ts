@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0010Book4Chapter9BricksOfWis
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0010-book-4-chapter-9-bricks-of-wisdom",
   title: "Book 4 - Chapter 9 - Bricks of Wisdom",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 10,
   ownLength: 7404,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const bewareOfChicken0072V4c57TheShadowsAndTheStone1400767 = {
   id: "01a08396-c91f-7ab3-93e1-2c6499752217",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0072-v4c57-the-shadows-and-the-stone-1400767",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 72,
   publishedAt: "2023-11-08",
   unitSlug: "words",

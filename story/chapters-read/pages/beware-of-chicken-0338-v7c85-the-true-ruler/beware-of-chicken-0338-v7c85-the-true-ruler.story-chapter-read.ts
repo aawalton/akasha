@@ -5,7 +5,7 @@ export const bewareOfChicken0338V7c85TheTrueRuler = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0338-v7c85-the-true-ruler",
   title: "v7c85: The True Ruler",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 338,
   ownLength: 3226,
   unitSlug: "words",

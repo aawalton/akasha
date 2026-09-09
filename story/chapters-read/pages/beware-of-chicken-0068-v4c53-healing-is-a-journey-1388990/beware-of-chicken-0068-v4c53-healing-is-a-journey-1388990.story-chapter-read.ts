@@ -4,7 +4,7 @@ export const bewareOfChicken0068V4c53HealingIsAJourney1388990 = {
   id: "01a08396-c566-793a-ac1f-41ea4a32a256",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0068-v4c53-healing-is-a-journey-1388990",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 68,
   publishedAt: "2023-10-29",
   unitSlug: "words",

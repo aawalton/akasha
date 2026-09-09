@@ -4,7 +4,7 @@ export const bewareOfChicken0104V4c82AndTheFirstDaysOfWinter1548504 = {
   id: "01a08397-179c-7184-9b98-aad06516f010",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0104-v4c82-and-the-first-days-of-winter-1548504",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 104,
   publishedAt: "2024-03-10",
   unitSlug: "words",

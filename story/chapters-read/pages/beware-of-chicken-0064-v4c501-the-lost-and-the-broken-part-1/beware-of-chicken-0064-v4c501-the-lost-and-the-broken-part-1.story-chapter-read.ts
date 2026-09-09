@@ -4,7 +4,7 @@ export const bewareOfChicken0064V4c501TheLostAndTheBrokenPart1 = {
   id: "01a08396-c1bc-7e6a-b7e6-67b3e58cadbc",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0064-v4c501-the-lost-and-the-broken-part-1",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 64,
   publishedAt: "2023-10-18",
   unitSlug: "words",

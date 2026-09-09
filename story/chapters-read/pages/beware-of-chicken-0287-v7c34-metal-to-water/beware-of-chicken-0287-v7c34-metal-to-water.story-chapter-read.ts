@@ -5,7 +5,7 @@ export const bewareOfChicken0287V7c34MetalToWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0287-v7c34-metal-to-water",
   title: "v7c34: Metal to Water",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 287,
   ownLength: 2456,
   ownProgress: 619,

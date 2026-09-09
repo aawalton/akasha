@@ -5,7 +5,7 @@ export const bewareOfChicken0301V7c48WaterEarthFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0301-v7c48-water-earth-fire",
   title: "v7c48: Water, Earth, Fire",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 301,
   ownLength: 3499,
   unitSlug: "words",

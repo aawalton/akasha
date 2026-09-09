@@ -4,7 +4,7 @@ export const bewareOfChicken0060InterludeTensionInTheGrassSea1362932 = {
   id: "01a08396-be2b-7c43-b77c-b0c623520639",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0060-interlude-tension-in-the-grass-sea-1362932",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 60,
   publishedAt: "2023-10-03",
   unitSlug: "words",

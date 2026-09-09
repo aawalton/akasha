@@ -4,7 +4,7 @@ export const bewareOfChicken0078V4c63CelestialBody1425934 = {
   id: "01a08396-cea9-74fe-a537-7700948a38c5",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0078-v4c63-celestial-body-1425934",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 78,
   publishedAt: "2023-11-29",
   unitSlug: "words",

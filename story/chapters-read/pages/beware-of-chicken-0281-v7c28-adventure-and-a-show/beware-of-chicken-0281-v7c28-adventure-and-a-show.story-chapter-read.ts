@@ -5,7 +5,7 @@ export const bewareOfChicken0281V7c28AdventureAndAShow = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0281-v7c28-adventure-and-a-show",
   title: "v7c28: Adventure and a Show",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 281,
   ownLength: 3262,
   ownProgress: 3262,

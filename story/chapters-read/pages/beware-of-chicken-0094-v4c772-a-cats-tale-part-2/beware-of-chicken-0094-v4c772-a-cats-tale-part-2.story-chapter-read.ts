@@ -4,7 +4,7 @@ export const bewareOfChicken0094V4c772ACatsTalePart2 = {
   id: "01a08397-0e98-7fe7-87a4-13e16ea2e006",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0094-v4c772-a-cats-tale-part-2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 94,
   publishedAt: "2024-02-04",
   unitSlug: "words",

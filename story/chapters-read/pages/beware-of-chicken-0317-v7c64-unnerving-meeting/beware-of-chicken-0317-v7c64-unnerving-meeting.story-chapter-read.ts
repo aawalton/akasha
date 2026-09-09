@@ -5,7 +5,7 @@ export const bewareOfChicken0317V7c64UnnervingMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0317-v7c64-unnerving-meeting",
   title: "v7c64: Unnerving Meeting",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 317,
   ownLength: 2148,
   unitSlug: "words",

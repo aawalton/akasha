@@ -5,7 +5,7 @@ export const bewareOfChicken0105EpilogueTheNorthWindBlows = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0105-epilogue-the-north-wind-blows",
   title: "Epilogue: The North Wind Blows",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 105,
   ownLength: 3385,
   ownProgress: 3385,

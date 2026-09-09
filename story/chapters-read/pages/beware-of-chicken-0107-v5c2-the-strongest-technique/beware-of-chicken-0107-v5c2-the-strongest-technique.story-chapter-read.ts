@@ -5,7 +5,7 @@ export const bewareOfChicken0107V5c2TheStrongestTechnique = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0107-v5c2-the-strongest-technique",
   title: "v5c2: The Strongest Technique",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 107,
   ownLength: 2294,
   ownProgress: 2294,

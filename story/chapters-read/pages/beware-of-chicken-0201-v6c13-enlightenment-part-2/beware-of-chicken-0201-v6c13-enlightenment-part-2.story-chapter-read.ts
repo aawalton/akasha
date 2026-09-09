@@ -5,7 +5,7 @@ export const bewareOfChicken0201V6c13EnlightenmentPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0201-v6c13-enlightenment-part-2",
   title: "v6c13: Enlightenment Part 2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 201,
   ownLength: 1943,
   ownProgress: 1943,

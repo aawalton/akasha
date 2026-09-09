@@ -4,7 +4,7 @@ export const bewareOfChicken0101V4c802TheWheelKeepsTurningPart2 = {
   id: "01a08397-14e5-7dba-ac1f-4d361bb8cdc8",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0101-v4c802-the-wheel-keeps-turning-part-2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 101,
   publishedAt: "2024-03-01",
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const bewareOfChicken0090V4c74ToTheNorth1492805 = {
   id: "01a08397-0afd-785f-b420-1151eb6b4cef",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0090-v4c74-to-the-north-1492805",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 90,
   publishedAt: "2024-01-24",
   unitSlug: "words",

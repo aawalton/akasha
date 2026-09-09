@@ -5,7 +5,7 @@ export const bewareOfChicken0168V5c61ShenheSOath = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0168-v5c61-shenhe-s-oath",
   title: "v5c61: Shenhe's Oath",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 168,
   ownLength: 2074,
   ownProgress: 2074,

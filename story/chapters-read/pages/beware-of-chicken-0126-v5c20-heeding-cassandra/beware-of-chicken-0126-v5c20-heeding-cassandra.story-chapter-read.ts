@@ -5,7 +5,7 @@ export const bewareOfChicken0126V5c20HeedingCassandra = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0126-v5c20-heeding-cassandra",
   title: "v5c20: Heeding Cassandra",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 126,
   ownLength: 2426,
   ownProgress: 2426,

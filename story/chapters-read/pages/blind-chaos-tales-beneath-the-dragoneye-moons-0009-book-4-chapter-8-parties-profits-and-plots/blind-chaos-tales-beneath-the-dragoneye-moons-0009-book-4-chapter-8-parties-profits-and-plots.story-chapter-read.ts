@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0009Book4Chapter8PartiesProf
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0009-book-4-chapter-8-parties-profits-and-plots",
   title: "Book 4 - Chapter 8 - Parties, Profits, and Plots",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 9,
   ownLength: 6102,
   unitSlug: "words",

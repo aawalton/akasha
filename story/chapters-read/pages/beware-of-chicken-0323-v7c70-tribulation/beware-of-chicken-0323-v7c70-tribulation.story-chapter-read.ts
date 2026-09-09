@@ -5,7 +5,7 @@ export const bewareOfChicken0323V7c70Tribulation = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0323-v7c70-tribulation",
   title: "v7c70: Tribulation",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 323,
   ownLength: 2601,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const bewareOfChicken0073V4c58AboutTime1403312 = {
   id: "01a08396-ca09-7ca1-a08d-7a43d14b4387",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0073-v4c58-about-time-1403312",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 73,
   publishedAt: "2023-11-10",
   unitSlug: "words",

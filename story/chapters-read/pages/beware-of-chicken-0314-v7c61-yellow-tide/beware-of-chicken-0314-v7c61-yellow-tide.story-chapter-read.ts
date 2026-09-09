@@ -5,7 +5,7 @@ export const bewareOfChicken0314V7c61YellowTide = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0314-v7c61-yellow-tide",
   title: "v7c61: Yellow Tide",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 314,
   ownLength: 2882,
   unitSlug: "words",

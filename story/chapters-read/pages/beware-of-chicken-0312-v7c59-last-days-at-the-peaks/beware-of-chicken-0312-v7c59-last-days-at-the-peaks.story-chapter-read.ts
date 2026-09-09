@@ -5,7 +5,7 @@ export const bewareOfChicken0312V7c59LastDaysAtThePeaks = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0312-v7c59-last-days-at-the-peaks",
   title: "v7c59: Last Days at the Peaks",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 312,
   ownLength: 3265,
   unitSlug: "words",

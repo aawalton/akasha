@@ -5,7 +5,7 @@ export const bewareOfChicken0261V7c8PartyFormation = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0261-v7c8-party-formation",
   title: "v7c8: Party Formation",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 261,
   ownLength: 2749,
   ownProgress: 2749,

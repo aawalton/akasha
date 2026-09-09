@@ -4,7 +4,7 @@ export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist1396303 = {
   id: "01a08396-c82c-7999-8efb-fbe9e2fda613",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0071-v4c56-the-tale-of-lightning-and-mist-1396303",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 71,
   publishedAt: "2023-11-04",
   unitSlug: "words",

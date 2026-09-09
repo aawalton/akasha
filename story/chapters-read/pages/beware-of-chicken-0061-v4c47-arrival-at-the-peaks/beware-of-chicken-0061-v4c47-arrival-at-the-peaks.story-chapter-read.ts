@@ -5,7 +5,7 @@ export const bewareOfChicken0061V4c47ArrivalAtThePeaks = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0061-v4c47-arrival-at-the-peaks",
   title: "v4c47: Arrival at the Peaks",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 61,
   ownLength: 2003,
   ownProgress: 2003,

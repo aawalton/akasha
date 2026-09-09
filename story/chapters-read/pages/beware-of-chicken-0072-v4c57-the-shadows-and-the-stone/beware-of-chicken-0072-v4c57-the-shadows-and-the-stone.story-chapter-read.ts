@@ -5,7 +5,7 @@ export const bewareOfChicken0072V4c57TheShadowsAndTheStone = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0072-v4c57-the-shadows-and-the-stone",
   title: "v4c57: The Shadows and the Stone",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 72,
   ownLength: 1720,
   ownProgress: 1720,

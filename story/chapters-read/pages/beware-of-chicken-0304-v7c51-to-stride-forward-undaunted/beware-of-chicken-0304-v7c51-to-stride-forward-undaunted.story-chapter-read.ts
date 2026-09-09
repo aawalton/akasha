@@ -5,7 +5,7 @@ export const bewareOfChicken0304V7c51ToStrideForwardUndaunted = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0304-v7c51-to-stride-forward-undaunted",
   title: "v7c51: To Stride Forward, Undaunted",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 304,
   ownLength: 2389,
   unitSlug: "words",

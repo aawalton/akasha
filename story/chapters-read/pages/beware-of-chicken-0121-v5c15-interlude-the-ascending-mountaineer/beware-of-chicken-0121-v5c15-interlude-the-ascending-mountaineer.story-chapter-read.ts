@@ -5,7 +5,7 @@ export const bewareOfChicken0121V5c15InterludeTheAscendingMountaineer = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0121-v5c15-interlude-the-ascending-mountaineer",
   title: "v5c15: Interlude: The Ascending Mountaineer",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 121,
   ownLength: 2352,
   ownProgress: 2352,

@@ -5,7 +5,7 @@ export const bewareOfChicken0203V6c15NotEveryDepartureIsHeavenSShaking = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0203-v6c15-not-every-departure-is-heaven-s-shaking",
   title: "v6c15: Not Every Departure is Heaven's Shaking",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 203,
   ownLength: 1981,
   ownProgress: 1981,

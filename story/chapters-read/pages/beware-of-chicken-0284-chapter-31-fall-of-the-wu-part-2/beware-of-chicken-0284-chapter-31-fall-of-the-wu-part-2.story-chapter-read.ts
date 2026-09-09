@@ -5,7 +5,7 @@ export const bewareOfChicken0284Chapter31FallOfTheWuPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0284-chapter-31-fall-of-the-wu-part-2",
   title: "Chapter 31: Fall of the Wu part 2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 284,
   ownLength: 2668,
   ownProgress: 2668,

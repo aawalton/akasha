@@ -4,7 +4,7 @@ export const bewareOfChicken0067V4c52TheGrandMarshal1385977 = {
   id: "01a08396-c47b-7d3b-90aa-db44e644368a",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0067-v4c52-the-grand-marshal-1385977",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 67,
   publishedAt: "2023-10-26",
   unitSlug: "words",

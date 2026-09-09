@@ -4,7 +4,7 @@ export const bewareOfChicken0080V4c65TheWheelUnending1431457 = {
   id: "01a08397-023b-7300-ba41-2e4b97404927",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0080-v4c65-the-wheel-unending-1431457",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 80,
   publishedAt: "2023-12-04",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0299V7c46TheDuelingPeaksGala = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0299-v7c46-the-dueling-peaks-gala",
   title: "v7c46: The Dueling Peaks Gala",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 299,
   ownLength: 2364,
   unitSlug: "words",

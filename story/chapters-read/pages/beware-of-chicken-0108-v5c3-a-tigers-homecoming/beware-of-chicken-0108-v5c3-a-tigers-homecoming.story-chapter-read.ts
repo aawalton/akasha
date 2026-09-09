@@ -4,7 +4,7 @@ export const bewareOfChicken0108V5c3ATigersHomecoming = {
   id: "01a08397-1b3a-7f36-ac36-0c2ad3629692",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0108-v5c3-a-tigers-homecoming",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 108,
   publishedAt: "2024-05-18",
   unitSlug: "words",

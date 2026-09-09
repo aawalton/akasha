@@ -5,7 +5,7 @@ export const bewareOfChicken0120V5c142TrainingMontagePart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0120-v5c14-2-training-montage-part-2",
   title: "v5c14.2: Training Montage Part 2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 120,
   ownLength: 1665,
   ownProgress: 1665,

@@ -4,7 +4,7 @@ export const bewareOfChicken0061V4c47ArrivalAtThePeaks1364979 = {
   id: "01a08396-bf12-714e-839f-276fa62ae86e",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0061-v4c47-arrival-at-the-peaks-1364979",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 61,
   publishedAt: "2023-10-05",
   unitSlug: "words",

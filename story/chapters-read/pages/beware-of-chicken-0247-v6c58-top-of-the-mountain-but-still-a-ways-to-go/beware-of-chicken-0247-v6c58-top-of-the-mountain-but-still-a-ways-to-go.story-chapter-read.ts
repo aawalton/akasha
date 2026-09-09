@@ -5,7 +5,7 @@ export const bewareOfChicken0247V6c58TopOfTheMountainButStillAWaysToGo = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0247-v6c58-top-of-the-mountain-but-still-a-ways-to-go",
   title: "v6c58: Top of the Mountain, But Still a Ways to Go",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 247,
   ownLength: 2697,
   ownProgress: 2697,
