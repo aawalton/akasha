@@ -1,7 +1,5 @@
 const SCALAR = /^([a-z][a-z0-9-]*): ?(.*)$/
 
-// A body reads as whole lines, so a caller naming a passage that ends mid-line says so on the
-// opening line, the closing fence being a line of its own either way.
 const OPENS = /^([a-z][a-z0-9-]*) (\S+)( no-newline)?$/
 
 export type Given = Readonly<Record<string, string>>

@@ -24,7 +24,6 @@ export const commandSystem = {
     "module/rooting",
     "module/scratching",
     "module/value-minting",
-    "module/argument-reading",
     "module/drafting",
     "module/applying",
     "module/mechanical-landing",
