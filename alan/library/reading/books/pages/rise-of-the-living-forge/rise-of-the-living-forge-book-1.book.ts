@@ -7,7 +7,7 @@ export const riseOfTheLivingForgeBook1 = {
   title: "Rise of the Living Forge",
   status: "completed",
   author: "Rudi Volti",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 194250,
   ownProgress: 194250,

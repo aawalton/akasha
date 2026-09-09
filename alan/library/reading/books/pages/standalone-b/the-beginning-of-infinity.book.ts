@@ -7,7 +7,7 @@ export const theBeginningOfInfinity = {
   title: "The Beginning of Infinity",
   status: "not-started",
   author: "David Deutsch",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 114750,
 } as const satisfies Book

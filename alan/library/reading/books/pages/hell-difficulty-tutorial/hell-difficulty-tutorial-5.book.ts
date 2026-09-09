@@ -6,7 +6,7 @@ export const hellDifficultyTutorial5 = {
   slug: "hell-difficulty-tutorial-5",
   title: "Hell Difficulty Tutorial 5",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 169500,
   publishedAt: "2025-07-02",

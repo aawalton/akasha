@@ -7,6 +7,6 @@ export const administrativeRecords = {
   title: "Administrative Records",
   status: "not-started",
   author: "Asaph Young Chun, Michael D. Larsen",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
 } as const satisfies Book

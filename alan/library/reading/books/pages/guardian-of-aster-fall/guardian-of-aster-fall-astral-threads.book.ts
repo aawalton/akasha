@@ -6,7 +6,7 @@ export const guardianOfAsterFallAstralThreads = {
   slug: "guardian-of-aster-fall-astral-threads",
   title: "Guardian of Aster Fall: Astral Threads",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 132250,
   ownProgress: 132250,

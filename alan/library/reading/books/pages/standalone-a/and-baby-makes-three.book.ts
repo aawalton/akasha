@@ -7,7 +7,7 @@ export const andBabyMakesThree = {
   title: "And Baby Makes Three",
   status: "not-started",
   author: "Rebecca Winters, Christine Sparks",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 114750,
   publishedAt: "2017-05-23",
 } as const satisfies Book

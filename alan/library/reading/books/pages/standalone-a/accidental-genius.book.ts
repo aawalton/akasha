@@ -7,6 +7,6 @@ export const accidentalGenius = {
   title: "Accidental Genius",
   status: "not-started",
   author: "Marshall Fine",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 66750,
 } as const satisfies Book

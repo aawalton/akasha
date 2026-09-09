@@ -6,7 +6,7 @@ export const worldTreeTrilogy = {
   slug: "world-tree-trilogy",
   title: "World-Tree Trilogy",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07PGLH5GW",
   externalLink: "https://www.amazon.com/dp/B07PGLH5GW",

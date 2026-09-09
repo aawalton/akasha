@@ -6,7 +6,7 @@ export const unknownSeries22 = {
   slug: "unknown-series-22",
   title: "Unknown Series",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0947MNPH3",
   externalLink: "https://www.amazon.com/The-Heartfire-Healer-Series/dp/B0947MNPH3",

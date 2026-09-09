@@ -8,7 +8,7 @@ export const actionableGamification = {
   status: "completed",
   rank: "A",
   author: "Yu-kai Chou",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 123750,
   ownProgress: 123750,

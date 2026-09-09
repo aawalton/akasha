@@ -6,7 +6,7 @@ export const markOfTheCrijikKoshimaAcademy = {
   slug: "mark-of-the-crijik-koshima-academy",
   title: "Mark of the Crijik: Koshima Academy",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 160500,
   publishedAt: "2023-01-31",

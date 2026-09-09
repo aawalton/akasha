@@ -6,7 +6,7 @@ export const markOfTheCrijikTheAscension = {
   slug: "mark-of-the-crijik-the-ascension",
   title: "Mark of the Crijik: The Ascension",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 169500,
   publishedAt: "2024-03-06",

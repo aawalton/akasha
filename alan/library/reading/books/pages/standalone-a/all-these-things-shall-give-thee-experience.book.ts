@@ -8,7 +8,7 @@ export const allTheseThingsShallGiveTheeExperience = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 32000,
   ownProgress: 32000,

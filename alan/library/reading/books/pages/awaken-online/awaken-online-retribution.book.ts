@@ -7,7 +7,7 @@ export const awakenOnlineRetribution = {
   title: "Awaken Online: Retribution",
   status: "completed",
   author: "Travis Bagwell",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 69250,
   ownProgress: 69250,

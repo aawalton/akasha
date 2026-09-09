@@ -7,7 +7,7 @@ export const awakenOnlineApathy = {
   title: "Awaken Online: Apathy",
   status: "completed",
   author: "Travis Bagwell",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 85500,
   ownProgress: 85500,

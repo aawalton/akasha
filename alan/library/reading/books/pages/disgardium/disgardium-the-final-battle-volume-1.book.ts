@@ -6,7 +6,7 @@ export const disgardiumTheFinalBattleVolume1 = {
   slug: "disgardium-the-final-battle-volume-1",
   title: "Disgardium: The Final Battle Volume 1",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 136250,
   publishedAt: "2025-04-09",

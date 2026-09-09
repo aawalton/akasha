@@ -7,7 +7,7 @@ export const cradleUnderlord = {
   title: "Cradle: Underlord",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 100000,
   ownProgress: 100000,

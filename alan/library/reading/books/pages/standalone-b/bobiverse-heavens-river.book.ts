@@ -7,7 +7,7 @@ export const bobiverseHeavensRiver = {
   title: "Bobiverse: Heaven's River",
   status: "not-started",
   author: "Dennis E. Taylor",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 160000,
   source: "kindle",

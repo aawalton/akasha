@@ -6,7 +6,7 @@ export const disgardiumClearThreat = {
   slug: "disgardium-clear-threat",
   title: "Disgardium: Clear Threat",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 137750,
   publishedAt: "2022-02-25",

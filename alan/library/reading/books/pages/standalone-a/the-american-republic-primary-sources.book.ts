@@ -7,7 +7,7 @@ export const theAmericanRepublicPrimarySources = {
   title: "The American Republic: Primary Sources",
   status: "paused",
   author: "Bruce Frohnen",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 180250,
   ownProgress: 2000,

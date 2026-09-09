@@ -7,7 +7,7 @@ export const book1LifestealBook1 = {
   title: "1% Lifesteal",
   status: "not-started",
   author: "Edward Cuthbert Butler",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 151000,
   publishedAt: "2025-03-18",

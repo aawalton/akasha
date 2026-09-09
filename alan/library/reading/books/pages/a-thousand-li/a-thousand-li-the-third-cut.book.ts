@@ -7,7 +7,7 @@ export const aThousandLiTheThirdCut = {
   title: "A Thousand Li: The Third Cut",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 115250,
   ownProgress: 115250,

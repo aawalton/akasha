@@ -6,7 +6,7 @@ export const artoriansArchivesAlgorithm = {
   slug: "artorians-archives-algorithm",
   title: "Artorian's Archives: Algorithm",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 108000,
   publishedAt: "2021-04-28",

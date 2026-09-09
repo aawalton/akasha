@@ -7,7 +7,7 @@ export const levelingUpTheWorldBook1 = {
   title: "Leveling Up The World",
   status: "completed",
   author: "Booker T. Washington",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 123000,
   ownProgress: 123000,

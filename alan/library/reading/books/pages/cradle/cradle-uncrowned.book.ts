@@ -7,7 +7,7 @@ export const cradleUncrowned = {
   title: "Cradle: Uncrowned",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 94000,
   ownProgress: 94000,

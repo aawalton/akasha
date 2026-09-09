@@ -7,7 +7,7 @@ export const annalsOfAmericaVolume8 = {
   title: "Annals of America Volume 8",
   status: "not-started",
   author: "WILLIAM BENTON",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 126250,
 } as const satisfies Book

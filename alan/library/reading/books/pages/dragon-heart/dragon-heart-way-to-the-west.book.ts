@@ -7,7 +7,7 @@ export const dragonHeartWayToTheWest = {
   title: "Dragon Heart: Way To The West",
   status: "completed",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 106500,
   ownProgress: 106500,

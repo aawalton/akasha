@@ -8,7 +8,7 @@ export const autobiographyOfBenjaminFranklin = {
   status: "completed",
   rank: "A",
   author: "Benjamin Franklin, D. Brown",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 68000,
   ownProgress: 68000,

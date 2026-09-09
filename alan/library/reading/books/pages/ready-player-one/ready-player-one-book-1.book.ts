@@ -7,7 +7,7 @@ export const readyPlayerOneBook1 = {
   title: "Ready Player One",
   status: "not-started",
   author: "Ernest Cline",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 96750,
   publishedAt: "2011-08-16",

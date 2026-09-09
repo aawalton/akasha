@@ -7,7 +7,7 @@ export const heWhoFightsWithMonsters6 = {
   title: "He Who Fights with Monsters 6",
   status: "completed",
   author: "Shirtaloon",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 128000,
   ownProgress: 128000,

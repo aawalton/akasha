@@ -7,7 +7,7 @@ export const aTouchOfPowerAdapt = {
   title: "A Touch of Power: Adapt",
   status: "completed",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 134000,
   ownProgress: 134000,

@@ -6,7 +6,7 @@ export const guardianOfAsterFallPathOfStars = {
   slug: "guardian-of-aster-fall-path-of-stars",
   title: "Guardian of Aster Fall: Path of Stars",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 134250,
   ownProgress: 134250,

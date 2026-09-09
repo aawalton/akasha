@@ -7,7 +7,7 @@ export const theBadGuysOnAThroneOfLies = {
   title: "The Bad Guys: On a Throne of Lies",
   status: "not-started",
   author: "SuperSummary",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 108750,
   publishedAt: "2023-07-22",

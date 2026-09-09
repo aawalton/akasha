@@ -6,7 +6,7 @@ export const awakenOnlineTarotInferno = {
   slug: "awaken-online-tarot-inferno",
   title: "Awaken Online: Tarot: Inferno",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 157500,
   ownProgress: 157500,

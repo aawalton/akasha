@@ -6,7 +6,7 @@ export const disgardiumGloryToTheDominion = {
   slug: "disgardium-glory-to-the-dominion",
   title: "Disgardium: Glory to the Dominion!",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 126750,
   publishedAt: "2021-11-04",

@@ -6,7 +6,7 @@ export const unknownSeries17 = {
   slug: "unknown-series-17",
   title: "Unknown Series",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BL6VBW4G",
   externalLink: "https://www.amazon.com/Shattered-Legacy/dp/B0BL6VBW4G",

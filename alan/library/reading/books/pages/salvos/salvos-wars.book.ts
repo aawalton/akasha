@@ -7,7 +7,7 @@ export const salvosWars = {
   title: "Salvos: Wars",
   status: "not-started",
   author: "Kimberly Brubaker Bradley",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 110250,
   publishedAt: "2024-11-15",

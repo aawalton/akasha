@@ -7,7 +7,7 @@ export const salvosSacrifices = {
   title: "Salvos: Sacrifices",
   status: "not-started",
   author: "Keith Jones",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 72750,
   publishedAt: "2025-05-02",

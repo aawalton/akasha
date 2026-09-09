@@ -7,6 +7,6 @@ export const catAmongThePigeons = {
   title: "Cat Among the Pigeons",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 28,
 } as const satisfies Book

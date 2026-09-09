@@ -7,6 +7,6 @@ export const atBertramsHotel = {
   title: "At Bertram's Hotel",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
 } as const satisfies Book

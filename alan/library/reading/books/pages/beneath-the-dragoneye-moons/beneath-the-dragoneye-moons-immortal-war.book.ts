@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsImmortalWar = {
   title: "Beneath the Dragoneye Moons: Immortal War",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 118500,
   ownProgress: 118500,

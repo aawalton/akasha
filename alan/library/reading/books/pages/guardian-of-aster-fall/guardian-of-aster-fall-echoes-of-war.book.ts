@@ -6,7 +6,7 @@ export const guardianOfAsterFallEchoesOfWar = {
   slug: "guardian-of-aster-fall-echoes-of-war",
   title: "Guardian of Aster Fall: Echoes of War",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 133000,
   ownProgress: 133000,

@@ -6,7 +6,7 @@ export const artoriansArchivesArchitect = {
   slug: "artorians-archives-architect",
   title: "Artorian's Archives: Architect",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 118250,
   publishedAt: "2023-11-15",

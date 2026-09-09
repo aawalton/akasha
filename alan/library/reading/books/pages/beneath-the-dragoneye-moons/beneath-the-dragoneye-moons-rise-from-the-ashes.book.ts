@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsRiseFromTheAshes = {
   slug: "beneath-the-dragoneye-moons-rise-from-the-ashes",
   title: "Beneath the Dragoneye Moons: Rise from the Ashes",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 147000,
   ownProgress: 147000,

@@ -6,7 +6,7 @@ export const breakerOfHorizonsBook1 = {
   slug: "breaker-of-horizons-book-1",
   title: "Breaker of Horizons",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 171000,
   publishedAt: "2022-10-18",

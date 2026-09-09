@@ -6,7 +6,7 @@ export const theBadGuysScampsAndScoundrels = {
   slug: "the-bad-guys-scamps-and-scoundrels",
   title: "The Bad Guys: Scamps & Scoundrels",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 114250,
   ownProgress: 114250,

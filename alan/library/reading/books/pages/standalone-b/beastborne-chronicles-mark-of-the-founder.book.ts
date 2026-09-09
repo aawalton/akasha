@@ -6,7 +6,7 @@ export const beastborneChroniclesMarkOfTheFounder = {
   slug: "beastborne-chronicles-mark-of-the-founder",
   title: "Beastborne Chronicles: Mark of the Founder",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 288500,
   ownProgress: 288500,

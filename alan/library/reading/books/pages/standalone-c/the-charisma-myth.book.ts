@@ -7,6 +7,6 @@ export const theCharismaMyth = {
   title: "The Charisma Myth",
   status: "not-started",
   author: "Olivia Fox Cabane, Olivia Cabane, Lisa Cordileone",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 124950,
 } as const satisfies Book

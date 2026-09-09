@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsUnderAshenSkies = {
   title: "Beneath the Dragoneye Moons: Under Ashen Skies",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 134750,
   ownProgress: 134750,

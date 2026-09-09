@@ -6,7 +6,7 @@ export const riseOfTheDevourerDragonsHeart = {
   slug: "rise-of-the-devourer-dragons-heart",
   title: "Rise of the Devourer: Dragon's Heart",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 102000,
   publishedAt: "2025-07-23",

@@ -8,7 +8,7 @@ export const allTheSkills5 = {
   status: "completed",
   author:
     "Jan Hirshberg, Carl Bereiter, Marlene Scardamalia, Ann Brown, Valerie Anderson, Joseph Campione, Walter Kintsch",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 136000,
   ownProgress: 136000,

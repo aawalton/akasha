@@ -7,6 +7,6 @@ export const attached = {
   title: "Attached",
   status: "not-started",
   author: "Amir Levine",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 107550,
 } as const satisfies Book

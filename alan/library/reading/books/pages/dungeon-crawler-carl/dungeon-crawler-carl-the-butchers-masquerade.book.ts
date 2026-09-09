@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlTheButchersMasquerade = {
   title: "Dungeon Crawler Carl: The Butcher's Masquerade",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 183000,
   publishedAt: "2022-02-28",

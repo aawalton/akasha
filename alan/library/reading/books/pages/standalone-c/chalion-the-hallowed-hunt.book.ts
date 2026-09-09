@@ -6,7 +6,7 @@ export const chalionTheHallowedHunt = {
   slug: "chalion-the-hallowed-hunt",
   title: "Chalion: The Hallowed Hunt",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 112000,
   source: "kindle",

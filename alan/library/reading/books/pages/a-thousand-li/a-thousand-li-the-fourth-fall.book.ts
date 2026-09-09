@@ -7,7 +7,7 @@ export const aThousandLiTheFourthFall = {
   title: "A Thousand Li: the Fourth Fall",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 119250,
   ownProgress: 119250,

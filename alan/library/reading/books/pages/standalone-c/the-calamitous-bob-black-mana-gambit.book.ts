@@ -6,7 +6,7 @@ export const theCalamitousBobBlackManaGambit = {
   slug: "the-calamitous-bob-black-mana-gambit",
   title: "The Calamitous Bob: Black Mana Gambit",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 96000,
   ownProgress: 96000,

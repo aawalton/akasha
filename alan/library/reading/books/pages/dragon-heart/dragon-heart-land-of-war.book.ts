@@ -7,7 +7,7 @@ export const dragonHeartLandOfWar = {
   title: "Dragon Heart: Land of War",
   status: "completed",
   author: "SuperSummary",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 147250,
   ownProgress: 147250,

@@ -7,7 +7,7 @@ export const bunnyGirlEvolutionBook1 = {
   title: "Bunny Girl Evolution",
   status: "completed",
   author: "Ann H. Coulter",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 157000,
   ownProgress: 157000,

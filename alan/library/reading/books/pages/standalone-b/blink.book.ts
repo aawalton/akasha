@@ -7,6 +7,6 @@ export const blink = {
   title: "Blink",
   status: "not-started",
   author: "Malcolm Gladwell",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 115950,
 } as const satisfies Book

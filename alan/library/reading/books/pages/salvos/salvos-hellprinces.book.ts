@@ -6,7 +6,7 @@ export const salvosHellprinces = {
   slug: "salvos-hellprinces",
   title: "Salvos: Hellprinces",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 191750,
   publishedAt: "2023-02-01",

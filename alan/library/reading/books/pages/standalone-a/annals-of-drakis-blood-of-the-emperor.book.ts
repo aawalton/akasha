@@ -7,7 +7,7 @@ export const annalsOfDrakisBloodOfTheEmperor = {
   title: "Annals of Drakis: Blood of the Emperor",
   status: "not-started",
   author: "Tracy Hickman",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 76000,
   publishedAt: "2012-07-31",

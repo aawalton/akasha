@@ -7,7 +7,7 @@ export const guardianOfAsterFallBattlefieldReclaimer = {
   title: "Guardian of Aster Fall: Battlefield Reclaimer",
   status: "completed",
   author: "David North",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 134250,
   ownProgress: 134250,

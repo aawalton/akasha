@@ -6,7 +6,7 @@ export const beastborneChroniclesTowerOfBlight = {
   slug: "beastborne-chronicles-tower-of-blight",
   title: "Beastborne Chronicles: Tower of Blight",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 144500,
   ownProgress: 144500,

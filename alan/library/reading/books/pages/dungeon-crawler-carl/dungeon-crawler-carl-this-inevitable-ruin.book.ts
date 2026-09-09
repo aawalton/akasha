@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlThisInevitableRuin = {
   title: "Dungeon Crawler Carl: This Inevitable Ruin",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 181000,
   publishedAt: "2024-11-11",

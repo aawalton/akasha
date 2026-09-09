@@ -7,6 +7,6 @@ export const curtainPoirotsLastCase = {
   title: "Curtain: Poirot's Last Case",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 33,
 } as const satisfies Book

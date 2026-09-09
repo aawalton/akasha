@@ -6,7 +6,7 @@ export const awakenOnlineTarotEmber = {
   slug: "awaken-online-tarot-ember",
   title: "Awaken Online: Tarot: Ember",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 111750,
   ownProgress: 111750,

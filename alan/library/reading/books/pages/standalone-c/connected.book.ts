@@ -7,6 +7,6 @@ export const connected = {
   title: "Connected",
   status: "not-started",
   author: "Neil Alexander Campbell, Lawrence G. Mitchell, Jane B. Reece",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 157950,
 } as const satisfies Book

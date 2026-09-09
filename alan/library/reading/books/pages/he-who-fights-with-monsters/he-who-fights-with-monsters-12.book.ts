@@ -7,7 +7,7 @@ export const heWhoFightsWithMonsters12 = {
   title: "He Who Fights with Monsters 12",
   status: "completed",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 143000,
   ownProgress: 143000,

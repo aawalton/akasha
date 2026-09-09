@@ -7,7 +7,7 @@ export const azarinthHealerBook1 = {
   title: "Azarinth Healer",
   status: "completed",
   author: "Rhaegar",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 177000,
   ownProgress: 177000,

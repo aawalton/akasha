@@ -7,7 +7,7 @@ export const cradleGhostwater = {
   title: "Cradle: Ghostwater",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 76250,
   ownProgress: 76250,

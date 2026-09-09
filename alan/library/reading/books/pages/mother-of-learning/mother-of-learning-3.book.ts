@@ -7,7 +7,7 @@ export const motherOfLearning3 = {
   title: "Mother of Learning 3",
   status: "completed",
   author: "James McBride",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 185750,
   ownProgress: 185750,

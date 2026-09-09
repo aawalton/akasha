@@ -7,7 +7,7 @@ export const levelingUpTheWorld6 = {
   title: "Leveling Up The World 6",
   status: "completed",
   author: "Houghton Mifflin Harcourt Staff",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 184500,
   ownProgress: 184500,

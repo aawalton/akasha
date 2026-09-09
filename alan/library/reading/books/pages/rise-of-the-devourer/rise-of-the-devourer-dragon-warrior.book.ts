@@ -6,7 +6,7 @@ export const riseOfTheDevourerDragonWarrior = {
   slug: "rise-of-the-devourer-dragon-warrior",
   title: "Rise of the Devourer: Dragon Warrior",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 110750,
   publishedAt: "2024-07-03",

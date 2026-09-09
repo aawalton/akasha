@@ -7,7 +7,7 @@ export const cinnamonBunBook1 = {
   title: "Cinnamon Bun",
   status: "not-started",
   author: "Ravens Dagger",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 106000,
   publishedAt: "2020-06-28",

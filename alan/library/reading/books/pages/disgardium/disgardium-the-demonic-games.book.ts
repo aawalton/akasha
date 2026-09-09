@@ -6,7 +6,7 @@ export const disgardiumTheDemonicGames = {
   slug: "disgardium-the-demonic-games",
   title: "Disgardium: The Demonic Games",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 133750,
   publishedAt: "2021-05-18",

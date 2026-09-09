@@ -6,7 +6,7 @@ export const artoriansArchivesAmore = {
   slug: "artorians-archives-amore",
   title: "Artorian's Archives: Amore",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 19,
   ownLength: 114000,
   publishedAt: "2024-10-23",

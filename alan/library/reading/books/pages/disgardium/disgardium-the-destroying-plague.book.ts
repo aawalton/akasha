@@ -6,7 +6,7 @@ export const disgardiumTheDestroyingPlague = {
   slug: "disgardium-the-destroying-plague",
   title: "Disgardium: The Destroying Plague",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 128750,
   ownProgress: 128750,

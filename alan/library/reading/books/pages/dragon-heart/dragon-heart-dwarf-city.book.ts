@@ -6,7 +6,7 @@ export const dragonHeartDwarfCity = {
   slug: "dragon-heart-dwarf-city",
   title: "Dragon Heart: Dwarf City",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 102250,
   ownProgress: 102250,

@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsBeyondTheWall = {
   slug: "beneath-the-dragoneye-moons-beyond-the-wall",
   title: "Beneath the Dragoneye Moons: Beyond the Wall",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 155500,
   ownProgress: 155500,

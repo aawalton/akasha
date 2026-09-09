@@ -6,7 +6,7 @@ export const sagewoodRestoreTheFarm = {
   slug: "sagewood-restore-the-farm",
   title: "Sagewood: Restore the Farm",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 100500,
   publishedAt: "2024-06-05",

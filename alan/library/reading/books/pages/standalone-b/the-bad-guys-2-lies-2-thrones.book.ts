@@ -6,7 +6,7 @@ export const theBadGuys2Lies2Thrones = {
   slug: "the-bad-guys-2-lies-2-thrones",
   title: "The Bad Guys: 2 Lies, 2 Thrones",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 99500,
   publishedAt: "2024-04-21",

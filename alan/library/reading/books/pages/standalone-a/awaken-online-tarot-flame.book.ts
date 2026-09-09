@@ -7,7 +7,7 @@ export const awakenOnlineTarotFlame = {
   title: "Awaken Online: Tarot: Flame",
   status: "completed",
   author: "Travis Bagwell",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 151000,
   ownProgress: 151000,

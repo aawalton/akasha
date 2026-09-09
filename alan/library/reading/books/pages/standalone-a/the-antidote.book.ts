@@ -7,6 +7,6 @@ export const theAntidote = {
   title: "The Antidote",
   status: "not-started",
   author: "Oliver Burkeman, Martín Rodríguez-Courel Ginzo",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 93300,
 } as const satisfies Book

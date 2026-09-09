@@ -6,7 +6,7 @@ export const theCalamitousBobInKazar = {
   slug: "the-calamitous-bob-in-kazar",
   title: "The Calamitous Bob: In Kazar",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 90000,
   ownProgress: 90000,

@@ -6,7 +6,7 @@ export const riseOfTheLivingForge4 = {
   slug: "rise-of-the-living-forge-4",
   title: "Rise of the Living Forge 4",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 162000,
   publishedAt: "2025-10-15",

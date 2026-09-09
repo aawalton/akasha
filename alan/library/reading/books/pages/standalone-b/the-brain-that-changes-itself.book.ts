@@ -7,6 +7,6 @@ export const theBrainThatChangesItself = {
   title: "The Brain That Changes Itself",
   status: "not-started",
   author: "Norman Doidge",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 171000,
 } as const satisfies Book

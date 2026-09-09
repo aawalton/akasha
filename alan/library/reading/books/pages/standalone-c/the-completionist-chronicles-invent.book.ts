@@ -6,7 +6,7 @@ export const theCompletionistChroniclesInvent = {
   slug: "the-completionist-chronicles-invent",
   title: "The Completionist Chronicles: Invent",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 94500,
   publishedAt: "2022-09-16",

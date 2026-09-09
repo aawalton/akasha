@@ -6,7 +6,7 @@ export const defianceOfTheFall14 = {
   slug: "defiance-of-the-fall-14",
   title: "Defiance of the Fall 14",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 146000,
   ownProgress: 146000,

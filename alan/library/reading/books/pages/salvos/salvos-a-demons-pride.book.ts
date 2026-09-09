@@ -6,7 +6,7 @@ export const salvosADemonsPride = {
   slug: "salvos-a-demons-pride",
   title: "Salvos: A Demon's Pride",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 173250,
   publishedAt: "2021-04-12",

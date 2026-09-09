@@ -7,7 +7,7 @@ export const aTouchOfPowerSense = {
   title: "A Touch of Power: Sense",
   status: "completed",
   author: "Robert A. Baron",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 121500,
   ownProgress: 121500,

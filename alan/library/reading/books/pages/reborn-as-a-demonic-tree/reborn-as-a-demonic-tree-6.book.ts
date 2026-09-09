@@ -6,7 +6,7 @@ export const rebornAsADemonicTree6 = {
   slug: "reborn-as-a-demonic-tree-6",
   title: "Reborn as a Demonic Tree 6",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 106000,
   ownProgress: 106000,

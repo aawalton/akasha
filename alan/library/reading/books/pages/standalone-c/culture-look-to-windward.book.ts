@@ -7,7 +7,7 @@ export const cultureLookToWindward = {
   title: "Culture: Look to Windward",
   status: "not-started",
   author: "Iain Banks",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 104250,
   source: "kindle",

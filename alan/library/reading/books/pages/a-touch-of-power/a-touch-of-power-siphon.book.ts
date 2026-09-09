@@ -6,7 +6,7 @@ export const aTouchOfPowerSiphon = {
   slug: "a-touch-of-power-siphon",
   title: "A Touch of Power: Siphon",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 83500,
   ownProgress: 83500,

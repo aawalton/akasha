@@ -7,7 +7,7 @@ export const allTheSkills = {
   title: "All The Skills",
   status: "completed",
   author: "Elizabeth Letcavage",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 129000,
   ownProgress: 129000,

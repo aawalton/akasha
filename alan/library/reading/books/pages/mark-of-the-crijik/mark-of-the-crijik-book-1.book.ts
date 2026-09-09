@@ -6,7 +6,7 @@ export const markOfTheCrijikBook1 = {
   slug: "mark-of-the-crijik-book-1",
   title: "Mark of the Crijik",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 104500,
   publishedAt: "2022-11-01",

@@ -6,7 +6,7 @@ export const bornInTheApocalypseJericho = {
   slug: "born-in-the-apocalypse-jericho",
   title: "Born in the Apocalypse: Jericho",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 45250,
   publishedAt: "2017-04-18",

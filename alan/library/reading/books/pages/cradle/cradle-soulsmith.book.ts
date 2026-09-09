@@ -7,7 +7,7 @@ export const cradleSoulsmith = {
   title: "Cradle: Soulsmith",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 70500,
   ownProgress: 70500,

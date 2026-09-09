@@ -6,7 +6,7 @@ export const guardianOfAsterFallHighArtificer = {
   slug: "guardian-of-aster-fall-high-artificer",
   title: "Guardian of Aster Fall: High Artificer",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 134000,
   ownProgress: 134000,

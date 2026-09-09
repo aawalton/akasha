@@ -6,7 +6,7 @@ export const beastborneChroniclesVoracious = {
   slug: "beastborne-chronicles-voracious",
   title: "Beastborne Chronicles: Voracious",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 150000,
   ownProgress: 150000,

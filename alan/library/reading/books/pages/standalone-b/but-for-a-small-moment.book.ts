@@ -8,7 +8,7 @@ export const butForASmallMoment = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 33250,
   ownProgress: 33250,

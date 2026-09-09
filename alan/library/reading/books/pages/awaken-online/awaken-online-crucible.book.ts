@@ -6,7 +6,7 @@ export const awakenOnlineCrucible = {
   slug: "awaken-online-crucible",
   title: "Awaken Online: Crucible",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 228000,
   publishedAt: "2026-03-01",

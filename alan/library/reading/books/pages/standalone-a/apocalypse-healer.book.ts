@@ -7,7 +7,7 @@ export const apocalypseHealer = {
   title: "Apocalypse Healer",
   status: "not-started",
   author: "Shaun David Hutchinson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 131500,
   publishedAt: "2025-04-15",

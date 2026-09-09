@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsThePhoenixPeaks = {
   title: "Beneath the Dragoneye Moons: The Phoenix Peaks",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 141500,
   ownProgress: 141500,

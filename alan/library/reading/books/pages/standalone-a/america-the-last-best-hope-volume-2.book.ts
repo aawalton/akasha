@@ -7,7 +7,7 @@ export const americaTheLastBestHopeVolume2 = {
   title: "America: The Last Best Hope Volume 2",
   status: "not-started",
   author: "William J. Bennett",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 133250,
 } as const satisfies Book

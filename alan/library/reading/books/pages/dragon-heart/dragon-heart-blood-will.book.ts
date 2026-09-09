@@ -7,7 +7,7 @@ export const dragonHeartBloodWill = {
   title: "Dragon Heart: Blood Will",
   status: "completed",
   author: "SuperSummary",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 80250,
   ownProgress: 80250,

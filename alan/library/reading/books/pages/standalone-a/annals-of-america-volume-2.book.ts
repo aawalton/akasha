@@ -7,7 +7,7 @@ export const annalsOfAmericaVolume2 = {
   title: "Annals of America Volume 2",
   status: "paused",
   author: "Mortimer J. (editor) Adler",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 154750,
   ownProgress: 25750,

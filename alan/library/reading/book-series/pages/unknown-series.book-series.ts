@@ -7,7 +7,7 @@ export const unknownSeries = {
   title: "Unknown Series",
   status: "following",
   rank: "A",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   maturityRating: "PG",
   source: "kindle",

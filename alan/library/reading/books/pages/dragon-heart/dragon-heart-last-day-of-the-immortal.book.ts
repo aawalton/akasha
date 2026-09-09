@@ -6,7 +6,7 @@ export const dragonHeartLastDayOfTheImmortal = {
   slug: "dragon-heart-last-day-of-the-immortal",
   title: "Dragon Heart: Last Day Of The Immortal",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 21,
   ownLength: 127000,
   publishedAt: "2024-04-10",

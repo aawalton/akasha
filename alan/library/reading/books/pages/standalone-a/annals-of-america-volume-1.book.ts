@@ -8,7 +8,7 @@ export const annalsOfAmericaVolume1 = {
   status: "completed",
   rank: "C",
   author: "WILLIAM BENTON",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 131500,
   ownProgress: 131500,

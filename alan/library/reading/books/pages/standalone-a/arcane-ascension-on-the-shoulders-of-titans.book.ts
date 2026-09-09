@@ -6,7 +6,7 @@ export const arcaneAscensionOnTheShouldersOfTitans = {
   slug: "arcane-ascension-on-the-shoulders-of-titans",
   title: "Arcane Ascension: On the Shoulders of Titans",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 185500,
   ownProgress: 185500,

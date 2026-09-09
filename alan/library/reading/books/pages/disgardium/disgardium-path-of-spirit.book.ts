@@ -6,7 +6,7 @@ export const disgardiumPathOfSpirit = {
   slug: "disgardium-path-of-spirit",
   title: "Disgardium: Path of Spirit",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 128750,
   publishedAt: "2021-02-17",

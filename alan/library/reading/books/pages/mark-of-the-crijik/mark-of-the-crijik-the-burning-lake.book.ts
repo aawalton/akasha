@@ -6,7 +6,7 @@ export const markOfTheCrijikTheBurningLake = {
   slug: "mark-of-the-crijik-the-burning-lake",
   title: "Mark of the Crijik: The Burning Lake",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 113500,
   publishedAt: "2023-10-04",

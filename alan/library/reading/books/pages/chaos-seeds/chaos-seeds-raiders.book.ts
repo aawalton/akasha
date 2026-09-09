@@ -7,7 +7,7 @@ export const chaosSeedsRaiders = {
   title: "Chaos Seeds: Raiders",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 127500,
   ownProgress: 127500,

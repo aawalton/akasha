@@ -7,7 +7,7 @@ export const theAlloyOfLaw = {
   title: "The Alloy of Law",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 77750,
   source: "kindle",

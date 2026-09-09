@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsMoonfall = {
   slug: "beneath-the-dragoneye-moons-moonfall",
   title: "Beneath the Dragoneye Moons: Moonfall",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 69750,
   ownProgress: 69750,

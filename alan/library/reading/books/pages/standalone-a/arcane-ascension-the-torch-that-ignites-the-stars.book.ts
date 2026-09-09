@@ -6,7 +6,7 @@ export const arcaneAscensionTheTorchThatIgnitesTheStars = {
   slug: "arcane-ascension-the-torch-that-ignites-the-stars",
   title: "Arcane Ascension: The Torch that Ignites the Stars",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 141000,
   ownProgress: 141000,

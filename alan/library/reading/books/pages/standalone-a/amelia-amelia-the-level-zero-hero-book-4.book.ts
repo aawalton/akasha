@@ -6,7 +6,7 @@ export const ameliaAmeliaTheLevelZeroHeroBook4 = {
   slug: "amelia-amelia-the-level-zero-hero-book-4",
   title: "Amelia: Amelia the Level Zero Hero Book 4",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 113750,
   publishedAt: "2024-08-30",

@@ -6,7 +6,7 @@ export const riseOfTheDevourerAbyssalRift = {
   slug: "rise-of-the-devourer-abyssal-rift",
   title: "Rise of the Devourer: Abyssal Rift",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 142000,
   publishedAt: "2024-01-24",

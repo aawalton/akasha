@@ -6,7 +6,7 @@ export const disgardiumApostleOfTheSleepingGods = {
   slug: "disgardium-apostle-of-the-sleeping-gods",
   title: "Disgardium: Apostle of the Sleeping Gods",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 141250,
   ownProgress: 141250,

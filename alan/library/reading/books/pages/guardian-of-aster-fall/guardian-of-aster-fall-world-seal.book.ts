@@ -6,7 +6,7 @@ export const guardianOfAsterFallWorldSeal = {
   slug: "guardian-of-aster-fall-world-seal",
   title: "Guardian of Aster Fall: World Seal",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 119500,
   ownProgress: 119500,

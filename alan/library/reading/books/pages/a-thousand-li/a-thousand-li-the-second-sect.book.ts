@@ -7,7 +7,7 @@ export const aThousandLiTheSecondSect = {
   title: "A Thousand Li: The Second Sect",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 100750,
   ownProgress: 100750,

@@ -7,7 +7,7 @@ export const markOfTheFool3 = {
   title: "Mark of the Fool 3",
   status: "completed",
   author: "Jim Butcher, Mark Powers, Chase Conley, Tyler Walpole, James Marsters",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 181500,
   ownProgress: 181500,

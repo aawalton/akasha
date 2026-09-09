@@ -7,7 +7,7 @@ export const ameliaAmeliaTheLevelZeroHeroBook2 = {
   title: "Amelia: Amelia The Level Zero Hero Book 2",
   status: "not-started",
   author: "V.A Lewis",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 147500,
   publishedAt: "2023-07-16",

@@ -8,7 +8,7 @@ export const chaosSeedsFounding = {
   status: "completed",
   rank: "B",
   author: "Aleron Kong",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 73750,
   ownProgress: 73750,

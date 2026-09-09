@@ -6,7 +6,7 @@ export const chrysalisUppingTheAnte = {
   slug: "chrysalis-upping-the-ante",
   title: "Chrysalis: Upping the Ante",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 177000,
   ownProgress: 177000,

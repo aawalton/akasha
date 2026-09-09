@@ -6,7 +6,7 @@ export const unknownSeries9 = {
   slug: "unknown-series-9",
   title: "Unknown Series",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07JX4TF1Y",
   externalLink: "https://www.amazon.com/dp/B07JX4TF1Y",

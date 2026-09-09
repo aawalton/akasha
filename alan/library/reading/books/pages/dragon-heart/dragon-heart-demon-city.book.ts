@@ -7,7 +7,7 @@ export const dragonHeartDemonCity = {
   title: "Dragon Heart: Demon City",
   status: "completed",
   author: "Edgar Allan Poe",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 111000,
   ownProgress: 111000,

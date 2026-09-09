@@ -6,7 +6,7 @@ export const chrysalisTheAntventureBegins = {
   slug: "chrysalis-the-antventure-begins",
   title: "Chrysalis: The Antventure Begins",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 166000,
   ownProgress: 166000,

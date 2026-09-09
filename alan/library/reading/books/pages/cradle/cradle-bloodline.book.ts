@@ -7,7 +7,7 @@ export const cradleBloodline = {
   title: "Cradle: Bloodline",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 500000,
   ownProgress: 500000,

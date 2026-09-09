@@ -7,7 +7,7 @@ export const cradleReaper = {
   title: "Cradle: Reaper",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 110500,
   ownProgress: 110500,

@@ -7,7 +7,7 @@ export const hellDifficultyTutorialBook1 = {
   title: "Hell Difficulty Tutorial",
   status: "not-started",
   author: "Cerim, Karassawa, Der-Shing Helmer",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 154500,
   publishedAt: "2024-05-14",

@@ -7,7 +7,7 @@ export const americaTheLastBestHopeVolume1 = {
   title: "America: The Last Best Hope Volume 1",
   status: "not-started",
   author: "HOLT MCDOUGAL",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 131250,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const theChecklistManifesto = {
   title: "The Checklist Manifesto",
   status: "not-started",
   author: "Atul Gawande",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 92250,
 } as const satisfies Book

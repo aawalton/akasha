@@ -6,7 +6,7 @@ export const salvosThePlaguelands = {
   slug: "salvos-the-plaguelands",
   title: "Salvos: The Plaguelands",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 180750,
   publishedAt: "2021-08-01",

@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlCarlsDoomsdayScenario = {
   title: "Dungeon Crawler Carl: Carl's Doomsday Scenario",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 91000,
   publishedAt: "2021-01-06",

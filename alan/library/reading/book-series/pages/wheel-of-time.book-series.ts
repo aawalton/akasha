@@ -7,7 +7,7 @@ export const wheelOfTime = {
   title: "Wheel of Time",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   maturityRating: "PG-13",
   source: "kindle",
   externalId: "B07F7MLR2R",

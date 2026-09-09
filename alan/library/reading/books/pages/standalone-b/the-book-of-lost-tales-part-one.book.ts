@@ -7,7 +7,7 @@ export const theBookOfLostTalesPartOne = {
   title: "The Book of Lost Tales, Part One",
   status: "not-started",
   author: "J.R.R. Tolkien",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   publishedAt: "1983-01-01",
 } as const satisfies Book

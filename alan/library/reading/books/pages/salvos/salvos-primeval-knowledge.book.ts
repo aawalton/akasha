@@ -6,7 +6,7 @@ export const salvosPrimevalKnowledge = {
   slug: "salvos-primeval-knowledge",
   title: "Salvos: Primeval Knowledge",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 197750,
   publishedAt: "2021-12-02",

@@ -6,7 +6,7 @@ export const salvosTheChildMonster = {
   slug: "salvos-the-child-monster",
   title: "Salvos: The Child Monster",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 114000,
   publishedAt: "2024-04-02",

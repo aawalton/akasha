@@ -6,7 +6,7 @@ export const theBadGuysWarOfThePosers = {
   slug: "the-bad-guys-war-of-the-posers",
   title: "The Bad Guys: War of the Posers",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 114500,
   ownProgress: 114500,

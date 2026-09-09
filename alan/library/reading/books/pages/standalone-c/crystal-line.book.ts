@@ -7,5 +7,5 @@ export const crystalLine = {
   title: "Crystal Line",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies Book

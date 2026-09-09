@@ -6,7 +6,7 @@ export const arcaneAscensionSufficientlyAdvancedMagic = {
   slug: "arcane-ascension-sufficiently-advanced-magic",
   title: "Arcane Ascension: Sufficiently Advanced Magic",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 156250,
   ownProgress: 156250,

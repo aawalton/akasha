@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsReturnToRemus = {
   slug: "beneath-the-dragoneye-moons-return-to-remus",
   title: "Beneath the Dragoneye Moons: Return to Remus",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 121500,
   ownProgress: 121500,

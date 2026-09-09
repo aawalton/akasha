@@ -7,6 +7,6 @@ export const theArtOfThinkingClearly = {
   title: "The Art of Thinking Clearly",
   status: "not-started",
   author: "Rolf Dobelli, Rolf Dobelli",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 117300,
 } as const satisfies Book

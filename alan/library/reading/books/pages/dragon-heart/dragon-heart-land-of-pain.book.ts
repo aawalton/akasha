@@ -7,7 +7,7 @@ export const dragonHeartLandOfPain = {
   title: "Dragon Heart: Land of Pain",
   status: "completed",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 99750,
   ownProgress: 99750,

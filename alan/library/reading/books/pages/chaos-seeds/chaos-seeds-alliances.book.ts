@@ -7,7 +7,7 @@ export const chaosSeedsAlliances = {
   title: "Chaos Seeds: Alliances",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 160250,
   ownProgress: 160250,

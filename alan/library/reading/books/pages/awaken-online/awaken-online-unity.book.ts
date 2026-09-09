@@ -7,7 +7,7 @@ export const awakenOnlineUnity = {
   title: "Awaken Online: Unity",
   status: "completed",
   author: "Travis Bagwell",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 90250,
   ownProgress: 90250,

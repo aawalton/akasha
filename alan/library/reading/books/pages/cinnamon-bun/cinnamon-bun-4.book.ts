@@ -6,7 +6,7 @@ export const cinnamonBun4 = {
   slug: "cinnamon-bun-4",
   title: "Cinnamon Bun 4",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 78000,
   publishedAt: "2022-12-20",

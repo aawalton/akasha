@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlTheGateOfTheFeralGods = {
   title: "Dungeon Crawler Carl: The Gate of the Feral Gods",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 146500,
   publishedAt: "2021-07-01",

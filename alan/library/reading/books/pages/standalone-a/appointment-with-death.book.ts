@@ -7,6 +7,6 @@ export const appointmentWithDeath = {
   title: "Appointment with Death",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
 } as const satisfies Book

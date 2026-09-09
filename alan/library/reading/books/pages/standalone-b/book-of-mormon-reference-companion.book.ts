@@ -7,7 +7,7 @@ export const bookOfMormonReferenceCompanion = {
   title: "Book of Mormon Reference Companion",
   status: "paused",
   author: "Dennis L. Largey",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 207000,
   ownProgress: 24000,

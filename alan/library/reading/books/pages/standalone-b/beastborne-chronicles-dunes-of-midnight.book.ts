@@ -6,7 +6,7 @@ export const beastborneChroniclesDunesOfMidnight = {
   slug: "beastborne-chronicles-dunes-of-midnight",
   title: "Beastborne Chronicles: Dunes of Midnight",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 148750,
   ownProgress: 148750,

@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsTheGladiatorGauntlet = {
   title: "Beneath the Dragoneye Moons: The Gladiator Gauntlet",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 104750,
   ownProgress: 104750,

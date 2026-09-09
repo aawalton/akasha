@@ -6,7 +6,7 @@ export const sagewoodAWayHome = {
   slug: "sagewood-a-way-home",
   title: "Sagewood: A Way Home",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 96000,
   publishedAt: "2024-12-04",

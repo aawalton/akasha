@@ -6,7 +6,7 @@ export const disgardiumOutOfPlay = {
   slug: "disgardium-out-of-play",
   title: "Disgardium: Out of Play",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 137750,
   publishedAt: "2022-07-27",

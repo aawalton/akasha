@@ -7,7 +7,7 @@ export const bobiverseAllTheseWorlds = {
   title: "Bobiverse: All These Worlds",
   status: "not-started",
   author: "Dennis E. Taylor",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 70500,
   source: "kindle",

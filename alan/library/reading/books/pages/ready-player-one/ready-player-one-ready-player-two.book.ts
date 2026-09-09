@@ -7,7 +7,7 @@ export const readyPlayerOneReadyPlayerTwo = {
   title: "Ready Player One: Ready Player Two",
   status: "not-started",
   author: "Ernest Cline",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 91750,
   publishedAt: "2020-11-24",

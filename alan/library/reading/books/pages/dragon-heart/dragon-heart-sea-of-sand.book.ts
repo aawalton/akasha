@@ -7,7 +7,7 @@ export const dragonHeartSeaOfSand = {
   title: "Dragon Heart: Sea of Sand",
   status: "completed",
   author: "George R. R. Martin",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 73500,
   ownProgress: 73500,

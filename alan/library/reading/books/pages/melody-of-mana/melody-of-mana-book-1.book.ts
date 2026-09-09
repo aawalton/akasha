@@ -7,7 +7,7 @@ export const melodyOfManaBook1 = {
   title: "Melody of Mana",
   status: "completed",
   author: "Wandering Agent",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 87250,
   ownProgress: 87250,

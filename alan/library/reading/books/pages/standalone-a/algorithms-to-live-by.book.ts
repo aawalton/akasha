@@ -7,6 +7,6 @@ export const algorithmsToLiveBy = {
   title: "Algorithms to Live By",
   status: "not-started",
   author: "Brian Christian, Tom Griffiths, Brian Christian",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 177450,
 } as const satisfies Book

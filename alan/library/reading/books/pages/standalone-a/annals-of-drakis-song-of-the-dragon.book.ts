@@ -7,7 +7,7 @@ export const annalsOfDrakisSongOfTheDragon = {
   title: "Annals of Drakis: Song of the Dragon",
   status: "not-started",
   author: "Tracy Hickman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 116500,
   source: "kindle",
   externalId: "B0057Z1U5C",

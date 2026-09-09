@@ -7,6 +7,6 @@ export const theCoddlingOfTheAmericanMind = {
   title: "The Coddling of the American Mind",
   status: "not-started",
   author: "Greg Lukianoff, Jonathan Haidt",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 151500,
 } as const satisfies Book

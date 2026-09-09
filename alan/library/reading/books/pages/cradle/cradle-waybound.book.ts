@@ -7,7 +7,7 @@ export const cradleWaybound = {
   title: "Cradle: Waybound",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 129500,
   ownProgress: 129500,

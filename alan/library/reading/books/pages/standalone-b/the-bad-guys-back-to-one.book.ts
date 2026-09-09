@@ -7,7 +7,7 @@ export const theBadGuysBackToOne = {
   title: "The Bad Guys: Back to One",
   status: "not-started",
   author: "Graham Moore",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 93000,
   publishedAt: "2021-09-11",

@@ -6,7 +6,7 @@ export const arcaneAscensionWhenWizardsFollowFools = {
   slug: "arcane-ascension-when-wizards-follow-fools",
   title: "Arcane Ascension: When Wizards Follow Fools",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 135000,
   publishedAt: "2024-09-12",

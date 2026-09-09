@@ -7,7 +7,7 @@ export const dragonHeartLandOfDemons = {
   title: "Dragon Heart: Land of Demons",
   status: "completed",
   author: "Robert Baker Girdlestone",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 114500,
   ownProgress: 114500,

@@ -7,7 +7,7 @@ export const rebornAsADemonicTreeBook1 = {
   title: "Reborn as a Demonic Tree",
   status: "completed",
   author: "XKarnation, Goldcrab, Der-Shing Helmer",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 154500,
   ownProgress: 154500,

@@ -6,7 +6,7 @@ export const artoriansArchivesAsgard = {
   slug: "artorians-archives-asgard",
   title: "Artorian's Archives: Asgard",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 112750,
   publishedAt: "2021-12-08",

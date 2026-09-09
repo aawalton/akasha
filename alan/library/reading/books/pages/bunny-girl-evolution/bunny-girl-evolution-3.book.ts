@@ -6,7 +6,7 @@ export const bunnyGirlEvolution3 = {
   slug: "bunny-girl-evolution-3",
   title: "Bunny Girl Evolution 3",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 135750,
   ownProgress: 135750,

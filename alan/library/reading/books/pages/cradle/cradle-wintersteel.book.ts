@@ -7,7 +7,7 @@ export const cradleWintersteel = {
   title: "Cradle: Wintersteel",
   status: "completed",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 130500,
   ownProgress: 130500,

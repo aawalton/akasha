@@ -7,7 +7,7 @@ export const chaosSeedsCatacombs = {
   title: "Chaos Seeds: Catacombs",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 92000,
   ownProgress: 92000,

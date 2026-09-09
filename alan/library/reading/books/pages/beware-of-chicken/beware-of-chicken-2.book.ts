@@ -7,7 +7,7 @@ export const bewareOfChicken2 = {
   title: "Beware of Chicken 2",
   status: "completed",
   author: "Casualfarmer",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 131250,
   ownProgress: 131250,

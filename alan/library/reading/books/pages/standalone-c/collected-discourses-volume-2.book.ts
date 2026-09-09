@@ -7,7 +7,7 @@ export const collectedDiscoursesVolume2 = {
   title: "Collected Discourses Volume 2",
   status: "not-started",
   author: "Arthur Conan Doyle",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 96500,
 } as const satisfies Book

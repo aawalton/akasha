@@ -7,7 +7,7 @@ export const commentariesOnTheLawsOfEnglandVolume4 = {
   title: "Commentaries on the Laws of England Volume 4",
   status: "not-started",
   author: "Sir William Blackstone",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 109000,
 } as const satisfies Book

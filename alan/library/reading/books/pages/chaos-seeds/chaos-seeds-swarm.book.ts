@@ -7,7 +7,7 @@ export const chaosSeedsSwarm = {
   title: "Chaos Seeds: Swarm",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 200250,
   ownProgress: 200250,

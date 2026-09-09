@@ -7,7 +7,7 @@ export const cultureConsiderPhlebas = {
   title: "Culture: Consider Phlebas",
   status: "not-started",
   author: "Iain Banks",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 136250,
   source: "kindle",
   externalId: "B0013TX6FI",

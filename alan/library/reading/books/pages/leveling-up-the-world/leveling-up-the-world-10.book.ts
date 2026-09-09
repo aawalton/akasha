@@ -7,7 +7,7 @@ export const levelingUpTheWorld10 = {
   title: "Leveling Up The World 10",
   status: "completed",
   author: "Jonathan Swift",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 190500,
   ownProgress: 190500,

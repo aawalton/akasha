@@ -6,7 +6,7 @@ export const bookboundBunnyBooksBookboundBunny1 = {
   slug: "bookbound-bunny-books-bookbound-bunny-1",
   title: "Bookbound Bunny Books: Bookbound Bunny 1",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 234750,
   publishedAt: "2025-11-17",
   source: "kindle",

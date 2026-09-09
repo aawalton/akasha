@@ -8,7 +8,7 @@ export const theBeginningOfInfinity2 = {
   status: "completed",
   rank: "S",
   author: "David Deutsch",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 300000,
   ownProgress: 300000,
 } as const satisfies Book

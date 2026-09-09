@@ -7,7 +7,7 @@ export const cultureSurfaceDetail = {
   title: "Culture: Surface Detail",
   status: "not-started",
   author: "Iain Banks",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 156250,
   source: "kindle",

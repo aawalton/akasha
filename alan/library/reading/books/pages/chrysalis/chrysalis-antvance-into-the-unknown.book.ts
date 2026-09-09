@@ -6,7 +6,7 @@ export const chrysalisAntvanceIntoTheUnknown = {
   slug: "chrysalis-antvance-into-the-unknown",
   title: "Chrysalis: Antvance into the Unknown",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 188000,
   ownProgress: 188000,

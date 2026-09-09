@@ -6,7 +6,7 @@ export const annalsOfAmericaVolume9 = {
   slug: "annals-of-america-volume-9",
   title: "Annals of America Volume 9",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 159750,
 } as const satisfies Book

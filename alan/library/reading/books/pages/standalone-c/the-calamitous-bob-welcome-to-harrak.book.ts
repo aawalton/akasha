@@ -6,7 +6,7 @@ export const theCalamitousBobWelcomeToHarrak = {
   slug: "the-calamitous-bob-welcome-to-harrak",
   title: "The Calamitous Bob: Welcome to Harrak",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 91750,
   ownProgress: 91750,

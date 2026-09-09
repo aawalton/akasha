@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsOathboundHealer = {
   title: "Beneath the Dragoneye Moons: Oathbound Healer",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 114750,
   ownProgress: 114750,

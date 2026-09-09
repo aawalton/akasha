@@ -6,7 +6,7 @@ export const sagewoodRestoreTheBalance = {
   slug: "sagewood-restore-the-balance",
   title: "Sagewood: Restore the Balance",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 83000,
   publishedAt: "2025-04-23",

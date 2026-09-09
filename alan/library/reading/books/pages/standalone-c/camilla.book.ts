@@ -7,7 +7,7 @@ export const camilla = {
   title: "Camilla",
   status: "not-started",
   author: "Jane Aiken Hodge",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 52750,
 } as const satisfies Book

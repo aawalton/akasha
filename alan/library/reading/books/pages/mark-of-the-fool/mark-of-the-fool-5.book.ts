@@ -7,7 +7,7 @@ export const markOfTheFool5 = {
   title: "Mark of the Fool 5",
   status: "completed",
   author: "Mark Twain",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 143000,
   ownProgress: 143000,

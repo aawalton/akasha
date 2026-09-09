@@ -6,7 +6,7 @@ export const theBadGuysHighGloom = {
   slug: "the-bad-guys-high-gloom",
   title: "The Bad Guys: High Gloom",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 121000,
   ownProgress: 121000,

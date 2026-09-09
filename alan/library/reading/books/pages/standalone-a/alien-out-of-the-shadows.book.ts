@@ -7,7 +7,7 @@ export const alienOutOfTheShadows = {
   title: "Alien: Out of the Shadows",
   status: "not-started",
   author: "Tim Lebbon",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 84750,
   source: "kindle",
   externalId: "B00DXKJ5TQ",

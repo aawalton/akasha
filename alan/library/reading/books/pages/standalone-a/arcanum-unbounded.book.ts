@@ -7,7 +7,7 @@ export const arcanumUnbounded = {
   title: "Arcanum Unbounded",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 167750,
   source: "kindle",

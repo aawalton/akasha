@@ -6,7 +6,7 @@ export const somniaOnlineDissonance = {
   slug: "somnia-online-dissonance",
   title: "Somnia Online: Dissonance",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 88500,
   ownProgress: 88500,

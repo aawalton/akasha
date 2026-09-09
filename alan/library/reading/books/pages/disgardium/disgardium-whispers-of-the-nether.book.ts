@@ -6,7 +6,7 @@ export const disgardiumWhispersOfTheNether = {
   slug: "disgardium-whispers-of-the-nether",
   title: "Disgardium: Whispers of the Nether",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 123750,
   publishedAt: "2024-07-16",

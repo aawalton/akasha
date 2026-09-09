@@ -6,7 +6,7 @@ export const artoriansArchivesAnnex = {
   slug: "artorians-archives-annex",
   title: "Artorian's Archives: Annex",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 98750,
   ownProgress: 98750,

@@ -7,7 +7,7 @@ export const alteredRealmsAscension = {
   title: "Altered Realms: Ascension",
   status: "not-started",
   author: "B. F. Rockriver",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 139250,
   publishedAt: "2020-04-28",

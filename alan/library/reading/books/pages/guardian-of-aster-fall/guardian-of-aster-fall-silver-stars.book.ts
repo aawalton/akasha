@@ -6,7 +6,7 @@ export const guardianOfAsterFallSilverStars = {
   slug: "guardian-of-aster-fall-silver-stars",
   title: "Guardian of Aster Fall: Silver Stars",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 117500,
   ownProgress: 117500,

@@ -6,7 +6,7 @@ export const artoriansArchivesAmerica = {
   slug: "artorians-archives-america",
   title: "Artorian's Archives: America",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 18,
   ownLength: 116000,
   publishedAt: "2024-05-29",

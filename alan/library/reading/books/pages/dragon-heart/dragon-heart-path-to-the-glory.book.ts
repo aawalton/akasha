@@ -6,7 +6,7 @@ export const dragonHeartPathToTheGlory = {
   slug: "dragon-heart-path-to-the-glory",
   title: "Dragon Heart: Path to the Glory",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 95250,
   ownProgress: 95250,

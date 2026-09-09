@@ -7,7 +7,7 @@ export const bornInTheApocalypse = {
   title: "Born in the Apocalypse",
   status: "not-started",
   author: "Joseph Talluto",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 53500,
   publishedAt: "2016-03-20",

@@ -7,7 +7,7 @@ export const beneathTheDragoneyeMoonsMandateOfHeaven = {
   title: "Beneath the Dragoneye Moons: Mandate of Heaven",
   status: "completed",
   author: "Selkie Myth",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 204250,
   ownProgress: 204250,

@@ -7,7 +7,7 @@ export const cultureInversions = {
   title: "Culture: Inversions",
   status: "not-started",
   author: "Jennifer Andrews, Arnold E. Davidson, Priscilla Walton",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 96250,
   source: "kindle",

@@ -7,7 +7,7 @@ export const endsOfMagicAspirant = {
   title: "Ends of Magic: Aspirant",
   status: "completed",
   author: "Chad Corrie",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 132500,
   ownProgress: 132500,

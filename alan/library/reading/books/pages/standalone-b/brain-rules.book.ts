@@ -7,6 +7,6 @@ export const brainRules = {
   title: "Brain Rules",
   status: "not-started",
   author: "John Medina",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 115050,
 } as const satisfies Book

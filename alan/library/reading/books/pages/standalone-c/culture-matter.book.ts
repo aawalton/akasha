@@ -7,7 +7,7 @@ export const cultureMatter = {
   title: "Culture: Matter",
   status: "not-started",
   author: "Lawrence E. Harrison, Samuel P. Huntington",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 155000,
   source: "kindle",

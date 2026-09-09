@@ -6,7 +6,7 @@ export const melodyOfMana3 = {
   slug: "melody-of-mana-3",
   title: "Melody of Mana 3",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 59250,
   ownProgress: 59250,

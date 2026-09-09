@@ -8,7 +8,7 @@ export const abundance = {
   status: "completed",
   rank: "A",
   author: "John Green",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 108450,
   ownProgress: 108450,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const artoriansArchivesAccords = {
   slug: "artorians-archives-accords",
   title: "Artorian's Archives: Accords",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 90000,
   publishedAt: "2022-07-20",

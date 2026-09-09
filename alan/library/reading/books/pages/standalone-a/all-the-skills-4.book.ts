@@ -7,7 +7,7 @@ export const allTheSkills4 = {
   title: "All The Skills 4",
   status: "completed",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 140250,
   ownProgress: 140250,

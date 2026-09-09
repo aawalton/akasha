@@ -6,7 +6,7 @@ export const alexaThymeBlackMass = {
   slug: "alexa-thyme-black-mass",
   title: "Alexa Thyme: Black Mass",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 145000,
   ownProgress: 145000,

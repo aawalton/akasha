@@ -7,6 +7,6 @@ export const theAutisticBrain = {
   title: "The Autistic Brain",
   status: "not-started",
   author: "Temple Grandin, Richard Panek",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 121950,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const roadToMastery2 = {
   title: "Road to Mastery 2",
   status: "completed",
   author: "James Allen",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 199000,
   ownProgress: 199000,

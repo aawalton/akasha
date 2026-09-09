@@ -7,7 +7,7 @@ export const markOfTheFoolBook1 = {
   title: "Mark of the Fool",
   status: "completed",
   author: "J.M. Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 174500,
   ownProgress: 174500,

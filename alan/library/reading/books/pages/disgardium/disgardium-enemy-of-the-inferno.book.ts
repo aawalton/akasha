@@ -6,7 +6,7 @@ export const disgardiumEnemyOfTheInferno = {
   slug: "disgardium-enemy-of-the-inferno",
   title: "Disgardium: Enemy of the Inferno",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 116750,
   publishedAt: "2021-08-09",

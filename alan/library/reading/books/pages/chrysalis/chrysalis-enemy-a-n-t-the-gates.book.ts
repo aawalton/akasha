@@ -6,7 +6,7 @@ export const chrysalisEnemyANTTheGates = {
   slug: "chrysalis-enemy-a-n-t-the-gates",
   title: "Chrysalis: Enemy A(n)t the Gates",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 165500,
   ownProgress: 165500,

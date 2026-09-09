@@ -7,6 +7,6 @@ export const cardsOnTheTable = {
   title: "Cards on the Table",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
 } as const satisfies Book

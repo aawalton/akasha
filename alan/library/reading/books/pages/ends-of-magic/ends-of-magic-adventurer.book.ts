@@ -7,7 +7,7 @@ export const endsOfMagicAdventurer = {
   title: "Ends of Magic: Adventurer",
   status: "completed",
   author: "Mark Twain",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 111500,
   ownProgress: 111500,

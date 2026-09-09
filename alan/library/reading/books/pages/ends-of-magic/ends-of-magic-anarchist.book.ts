@@ -6,7 +6,7 @@ export const endsOfMagicAnarchist = {
   slug: "ends-of-magic-anarchist",
   title: "Ends of Magic: Anarchist",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 91000,
   ownProgress: 91000,

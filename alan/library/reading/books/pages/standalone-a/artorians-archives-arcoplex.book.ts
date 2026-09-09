@@ -6,7 +6,7 @@ export const artoriansArchivesArcoplex = {
   slug: "artorians-archives-arcoplex",
   title: "Artorian's Archives: Arcoplex",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 122500,
   publishedAt: "2023-04-12",

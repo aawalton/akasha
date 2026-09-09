@@ -6,7 +6,7 @@ export const arcaneAscensionABriefHistoryOfChronomancy = {
   slug: "arcane-ascension-a-brief-history-of-chronomancy",
   title: "Arcane Ascension: A Brief History of Chronomancy",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 112250,
   publishedAt: "2025-04-02",

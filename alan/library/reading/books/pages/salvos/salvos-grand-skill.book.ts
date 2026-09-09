@@ -6,7 +6,7 @@ export const salvosGrandSkill = {
   slug: "salvos-grand-skill",
   title: "Salvos: Grand Skill",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 132000,
   publishedAt: "2022-06-02",

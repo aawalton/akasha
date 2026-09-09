@@ -7,7 +7,7 @@ export const aThousandLiTheSecondStorm = {
   title: "A Thousand Li: The Second Storm",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 87500,
   ownProgress: 87500,

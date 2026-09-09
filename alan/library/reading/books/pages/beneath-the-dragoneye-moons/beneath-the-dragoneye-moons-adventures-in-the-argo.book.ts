@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoonsAdventuresInTheArgo = {
   slug: "beneath-the-dragoneye-moons-adventures-in-the-argo",
   title: "Beneath the Dragoneye Moons: Adventures in the Argo",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 157750,
   ownProgress: 157750,

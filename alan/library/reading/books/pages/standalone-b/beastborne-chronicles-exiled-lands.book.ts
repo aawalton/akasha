@@ -6,7 +6,7 @@ export const beastborneChroniclesExiledLands = {
   slug: "beastborne-chronicles-exiled-lands",
   title: "Beastborne Chronicles: Exiled Lands",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 333500,
   ownProgress: 333500,

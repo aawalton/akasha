@@ -6,7 +6,7 @@ export const sagewoodIntoTheCaves = {
   slug: "sagewood-into-the-caves",
   title: "Sagewood: Into the Caves",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 99000,
   publishedAt: "2024-09-04",

@@ -6,7 +6,7 @@ export const theBadGuysTrickOfTheNight = {
   slug: "the-bad-guys-trick-of-the-night",
   title: "The Bad Guys: Trick Of The Night",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 88000,
   publishedAt: "2022-01-29",

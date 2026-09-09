@@ -6,7 +6,7 @@ export const beastborneChroniclesCrucible = {
   slug: "beastborne-chronicles-crucible",
   title: "Beastborne Chronicles: Crucible",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 215500,
   ownProgress: 215500,

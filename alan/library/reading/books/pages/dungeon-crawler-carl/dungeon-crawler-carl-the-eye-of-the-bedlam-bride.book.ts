@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlTheEyeOfTheBedlamBride = {
   title: "Dungeon Crawler Carl: The Eye of the Bedlam Bride",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 173500,
   publishedAt: "2023-07-02",

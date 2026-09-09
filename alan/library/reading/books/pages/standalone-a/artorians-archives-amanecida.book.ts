@@ -6,7 +6,7 @@ export const artoriansArchivesAmanecida = {
   slug: "artorians-archives-amanecida",
   title: "Artorian's Archives: Amanecida",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 121000,
   publishedAt: "2023-07-12",

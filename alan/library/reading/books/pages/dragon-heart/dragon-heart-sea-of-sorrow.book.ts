@@ -7,7 +7,7 @@ export const dragonHeartSeaOfSorrow = {
   title: "Dragon Heart: Sea of Sorrow",
   status: "completed",
   author: "Christopher Paolini",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 118250,
   ownProgress: 118250,

@@ -7,7 +7,7 @@ export const alienSeaOfSorrows = {
   title: "Alien: Sea of Sorrows",
   status: "not-started",
   author: "James A. Moore",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 85750,
   source: "kindle",

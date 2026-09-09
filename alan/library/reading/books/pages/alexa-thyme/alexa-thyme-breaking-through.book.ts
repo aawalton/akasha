@@ -7,7 +7,7 @@ export const alexaThymeBreakingThrough = {
   title: "Alexa Thyme: Breaking Through",
   status: "completed",
   author: "Lykanthropy",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 101250,
   ownProgress: 101250,

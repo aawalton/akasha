@@ -7,7 +7,7 @@ export const bobiverseWeAreLegion = {
   title: "Bobiverse: We Are Legion",
   status: "not-started",
   author: "Dennis E. Taylor",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 95750,
   source: "kindle",
   externalId: "B01LWAESYQ",

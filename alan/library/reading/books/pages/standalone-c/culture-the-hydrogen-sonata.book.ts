@@ -7,7 +7,7 @@ export const cultureTheHydrogenSonata = {
   title: "Culture: The Hydrogen Sonata",
   status: "not-started",
   author: "Iain Banks",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 129500,
   source: "kindle",

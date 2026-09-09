@@ -7,7 +7,7 @@ export const aThousandLiTheFirstWar = {
   title: "A Thousand Li: the First War",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 74750,
   ownProgress: 74750,

@@ -8,7 +8,7 @@ export const andThereWasLight = {
   status: "completed",
   rank: "B",
   author: "Jon Meacham",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 78000,
   ownProgress: 78000,

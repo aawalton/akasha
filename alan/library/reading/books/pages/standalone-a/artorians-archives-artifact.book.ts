@@ -6,7 +6,7 @@ export const artoriansArchivesArtifact = {
   slug: "artorians-archives-artifact",
   title: "Artorian's Archives: Artifact",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 104500,
   publishedAt: "2021-06-30",

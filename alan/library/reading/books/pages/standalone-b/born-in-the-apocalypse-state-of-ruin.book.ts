@@ -6,7 +6,7 @@ export const bornInTheApocalypseStateOfRuin = {
   slug: "born-in-the-apocalypse-state-of-ruin",
   title: "Born in the Apocalypse: State Of Ruin",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 40750,
   publishedAt: "2016-09-16",

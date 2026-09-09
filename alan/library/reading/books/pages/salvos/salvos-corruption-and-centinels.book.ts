@@ -6,7 +6,7 @@ export const salvosCorruptionAndCentinels = {
   slug: "salvos-corruption-and-centinels",
   title: "Salvos: Corruption and Centinels",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 101750,
   publishedAt: "2022-03-02",

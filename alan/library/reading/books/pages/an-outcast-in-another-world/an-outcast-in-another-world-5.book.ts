@@ -7,7 +7,7 @@ export const anOutcastInAnotherWorld5 = {
   title: "An Outcast In Another World 5",
   status: "completed",
   author: "Roger Portal",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 182500,
   ownProgress: 182500,

@@ -6,7 +6,7 @@ export const arcaneAscensionTheSilenceOfUnworthyGods = {
   slug: "arcane-ascension-the-silence-of-unworthy-gods",
   title: "Arcane Ascension: The Silence of Unworthy Gods",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 157500,
   publishedAt: "2022-10-01",

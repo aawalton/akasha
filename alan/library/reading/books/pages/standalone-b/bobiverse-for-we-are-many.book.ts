@@ -7,7 +7,7 @@ export const bobiverseForWeAreMany = {
   title: "Bobiverse: For We Are Many",
   status: "not-started",
   author: "Dennis E. Taylor",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 80250,
   source: "kindle",

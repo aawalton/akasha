@@ -7,7 +7,7 @@ export const candide = {
   title: "Candide",
   status: "not-started",
   author: "Voltaire",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 32750,
 } as const satisfies Book

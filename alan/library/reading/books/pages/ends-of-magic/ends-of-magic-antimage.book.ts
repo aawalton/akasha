@@ -6,7 +6,7 @@ export const endsOfMagicAntimage = {
   slug: "ends-of-magic-antimage",
   title: "Ends of Magic: Antimage",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 137000,
   ownProgress: 137000,

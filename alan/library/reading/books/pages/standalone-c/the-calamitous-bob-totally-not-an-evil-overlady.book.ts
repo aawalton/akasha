@@ -6,7 +6,7 @@ export const theCalamitousBobTotallyNotAnEvilOverlady = {
   slug: "the-calamitous-bob-totally-not-an-evil-overlady",
   title: "The Calamitous Bob: (Totally not an) EVIL OVERLADY",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 134250,
   ownProgress: 134250,

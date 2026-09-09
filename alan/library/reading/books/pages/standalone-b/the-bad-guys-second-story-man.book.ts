@@ -7,7 +7,7 @@ export const theBadGuysSecondStoryMan = {
   title: "The Bad Guys: Second Story Man",
   status: "completed",
   author: "R. V. Cassill, Margaret Atwood, R Cassill",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 95500,
   ownProgress: 95500,

@@ -7,7 +7,7 @@ export const dragonHeartWayToTheNorth = {
   title: "Dragon Heart: Way To The North",
   status: "not-started",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 19,
   ownLength: 118500,
   publishedAt: "2023-07-12",

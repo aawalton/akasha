@@ -6,7 +6,7 @@ export const theCalamitousBobDisasterClasses = {
   slug: "the-calamitous-bob-disaster-classes",
   title: "The Calamitous Bob: Disaster Classes",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 129750,
   ownProgress: 129750,

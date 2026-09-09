@@ -7,7 +7,7 @@ export const theBodyKeepsTheScore = {
   title: "The Body Keeps the Score",
   status: "completed",
   author: "Bessel van der Kolk",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 243750,
   ownProgress: 243750,
 } as const satisfies Book

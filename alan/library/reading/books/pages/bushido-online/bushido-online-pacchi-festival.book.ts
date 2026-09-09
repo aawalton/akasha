@@ -6,7 +6,7 @@ export const bushidoOnlinePacchiFestival = {
   slug: "bushido-online-pacchi-festival",
   title: "Bushido Online: Pacchi Festival",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 108000,
   ownProgress: 108000,

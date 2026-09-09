@@ -7,7 +7,7 @@ export const alienRiverOfPain = {
   title: "Alien: River of Pain",
   status: "not-started",
   author: "Christopher Golden",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 84250,
   source: "kindle",

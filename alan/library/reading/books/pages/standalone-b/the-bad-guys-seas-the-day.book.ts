@@ -7,7 +7,7 @@ export const theBadGuysSeasTheDay = {
   title: "The Bad Guys: Seas the Day",
   status: "completed",
   author: "SuperSummary",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 106500,
   ownProgress: 106500,

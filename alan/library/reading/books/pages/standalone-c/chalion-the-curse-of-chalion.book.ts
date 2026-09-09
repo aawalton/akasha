@@ -7,7 +7,7 @@ export const chalionTheCurseOfChalion = {
   title: "Chalion: The Curse of Chalion",
   status: "not-started",
   author: "Lois McMaster Bujold",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 128000,
   source: "kindle",
   externalId: "B000FC11AQ",

@@ -6,7 +6,7 @@ export const chrysalisBetweenARockAndACarapace = {
   slug: "chrysalis-between-a-rock-and-a-carapace",
   title: "Chrysalis: Between a Rock and a Carapace",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 171000,
   ownProgress: 171000,

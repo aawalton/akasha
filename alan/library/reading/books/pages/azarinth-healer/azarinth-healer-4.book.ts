@@ -6,7 +6,7 @@ export const azarinthHealer4 = {
   slug: "azarinth-healer-4",
   title: "Azarinth Healer 4",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 189000,
   ownProgress: 189000,

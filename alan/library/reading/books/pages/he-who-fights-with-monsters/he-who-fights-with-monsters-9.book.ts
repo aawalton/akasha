@@ -7,7 +7,7 @@ export const heWhoFightsWithMonsters9 = {
   title: "He Who Fights with Monsters 9",
   status: "completed",
   author: "Shirtaloon, Travis Deverell",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 165500,
   ownProgress: 165500,

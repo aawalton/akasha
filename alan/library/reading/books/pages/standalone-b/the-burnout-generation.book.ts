@@ -7,6 +7,6 @@ export const theBurnoutGeneration = {
   title: "The Burnout Generation",
   status: "not-started",
   author: "Anne Helen Petersen",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 78750,
 } as const satisfies Book

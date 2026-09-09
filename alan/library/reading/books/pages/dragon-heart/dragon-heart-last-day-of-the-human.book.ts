@@ -7,7 +7,7 @@ export const dragonHeartLastDayOfTheHuman = {
   title: "Dragon Heart: Last Day Of The Human",
   status: "not-started",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 20,
   ownLength: 128250,
   publishedAt: "2023-11-16",

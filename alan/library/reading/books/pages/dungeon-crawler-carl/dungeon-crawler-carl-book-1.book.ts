@@ -7,7 +7,7 @@ export const dungeonCrawlerCarlBook1 = {
   title: "Dungeon Crawler Carl",
   status: "not-started",
   author: "Matt Dinniman",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 111500,
   publishedAt: "2020-10-02",

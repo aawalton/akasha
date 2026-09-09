@@ -6,7 +6,7 @@ export const theBadGuysDarktownFunk = {
   slug: "the-bad-guys-darktown-funk",
   title: "The Bad Guys: Darktown Funk",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 98750,
   publishedAt: "2022-07-01",

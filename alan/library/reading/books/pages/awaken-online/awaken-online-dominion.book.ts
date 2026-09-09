@@ -7,7 +7,7 @@ export const awakenOnlineDominion = {
   title: "Awaken Online: Dominion",
   status: "completed",
   author: "Travis Bagwell",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 200250,
   ownProgress: 200250,

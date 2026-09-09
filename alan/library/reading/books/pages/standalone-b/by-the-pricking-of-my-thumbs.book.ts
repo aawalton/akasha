@@ -7,6 +7,6 @@ export const byThePrickingOfMyThumbs = {
   title: "By the Pricking of My Thumbs",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
 } as const satisfies Book

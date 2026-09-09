@@ -7,7 +7,7 @@ export const theBadGuysSkullAndThrones = {
   title: "The Bad Guys: Skull and Thrones",
   status: "completed",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 104000,
   ownProgress: 104000,

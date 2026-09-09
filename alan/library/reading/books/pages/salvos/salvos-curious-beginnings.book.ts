@@ -6,7 +6,7 @@ export const salvosCuriousBeginnings = {
   slug: "salvos-curious-beginnings",
   title: "Salvos: Curious Beginnings",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 102500,
   publishedAt: "2021-01-12",

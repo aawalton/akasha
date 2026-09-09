@@ -6,7 +6,7 @@ export const unknownSeries20 = {
   slug: "unknown-series-20",
   title: "Unknown Series",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07SHW8NRV",
   externalLink: "https://www.amazon.com/The-Alchemic-Weaponeer/dp/B07SHW8NRV",

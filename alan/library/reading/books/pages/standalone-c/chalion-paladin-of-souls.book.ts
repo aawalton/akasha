@@ -6,7 +6,7 @@ export const chalionPaladinOfSouls = {
   slug: "chalion-paladin-of-souls",
   title: "Chalion: Paladin of Souls",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 124000,
   source: "kindle",
