@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "374 folders refused: 225 hold many pages, 55 hold no page, 31 have an undeclared subfolder, 30 open with the name above, 24 hold a child that is no domain, 8 are misnamed. The answer to the first is dissolving the grouping folder rather than a new shape: `watching/seasons/pages` holds 702 flat files and is clean. A narrowed audit cuts at 28000 bytes and writes refusals to stderr, so a per-area count is a lower bound.\n",
+        "374 folders were refused at the start of this intent and 127 are now. 59 hold many pages, 35 hold no page, 22 have an undeclared subfolder, 6 hold a child that is no domain, 4 are misnamed. The answer to the first is dissolving the grouping folder rather than a new shape: `watching/seasons/pages` holds 702 flat files and is clean. A narrowed audit cuts at 28000 bytes and writes refusals to stderr, so a per-area count is a lower bound.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
