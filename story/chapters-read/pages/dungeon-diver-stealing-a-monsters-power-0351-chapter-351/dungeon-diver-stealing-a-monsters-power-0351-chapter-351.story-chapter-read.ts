@@ -9,7 +9,7 @@ export const dungeonDiverStealingAMonstersPower0351Chapter351 = {
   position: 351,
   ownLength: 1809,
   ownProgress: 1809,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:46:06.170Z",
   publishedAt: "2024-01-04",
   externalLink:
