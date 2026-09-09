@@ -37,5 +37,50 @@ export const importReachesAFile = {
       invariantKind: "departure",
       statement: "A body under no TypeScript name is judged by nothing here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A landing carrying no extension is looked for under `.ts`, `.tsx` and `.d.ts`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing with no body is looked for again under the roots `rootDirs` names.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those roots are read from the nearest `tsconfig.json` at or above the importing file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root is resolved against the folder its `tsconfig.json` is in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The longest root the landing is under is the root taken off the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is left of the landing is looked for under each of the other roots.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A `tsconfig.json` that will not parse names no root.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No `tsconfig.json` an `extends` names is read here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Neither `paths` nor `baseUrl` is read here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A specifier `paths` or `baseUrl` resolves is judged.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A root inherited through `extends` is read.",
+    },
   ],
 } as const satisfies ChangeGuard

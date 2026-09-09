@@ -52,6 +52,13 @@ export function holdsAfter(given: Guarding, path: string): boolean {
   return held.get(path) !== null
 }
 
+export function textAfter(given: Guarding, path: string): string | null {
+  const held = replayed(given.said, given.before.bodyOf)
+  if ("refused" in held || !held.has(path)) return given.before.textOf(path)
+  const body = held.get(path)
+  return typeof body === "string" ? body : null
+}
+
 export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   const held = replayed(given.said, given.before.bodyOf)

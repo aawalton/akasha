@@ -73,6 +73,15 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The text a path holds after the answer is read here beside whether it has a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path holding a body that is not text holds no text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path a move leaves behind is no path taken away.",
     },
     {

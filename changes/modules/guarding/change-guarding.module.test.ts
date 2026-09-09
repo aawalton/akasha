@@ -9,7 +9,7 @@ import {
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { refusing, stating } from "../change-answer/change-answer.module.code.ts"
 import { type World, worldAt, worldOver } from "../change-shadow/change-shadow.module.code.ts"
-import { guardedBy, takingIn } from "./change-guarding.module.code.ts"
+import { guardedBy, takingIn, textAfter } from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"
 
 afterAll(scratch.sweep)
@@ -85,6 +85,21 @@ test("an answer the world already holds is judged rather than refused", () => {
   const ledger = addedTo(ledgerAt(root, textIn(root)), said)
 
   expect(guardedBy(ledger, said, [counting([], null)]).refused).toBe(null)
+})
+
+test("the text a path holds after the answer is read here", () => {
+  const root = indexedRepo()
+  const found: (string | null)[] = []
+  const reading: Guard = (given) => {
+    found.push(textAfter(given, AT))
+    found.push(textAfter(given, HELD_CODE))
+    found.push(textAfter(given, "akasha/one/nowhere.ts"))
+    return null
+  }
+
+  guardedBy(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }]), [reading])
+
+  expect(found).toEqual(["held\n", "export const kept = 1\n", null])
 })
 
 test("the paths an answer takes away are read here, and a path a move leaves is not one", () => {
