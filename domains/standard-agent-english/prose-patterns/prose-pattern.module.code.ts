@@ -283,7 +283,12 @@ function acting(token: DepToken): boolean {
   return token.upos === VERB || (token.upos === NOUN && token.deprel === RELATIVE)
 }
 
+function objectsDoubled(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, OBJECT).length > 1
+}
+
 function leftAlone(sentence: DepSentence, token: DepToken): boolean {
+  if (objectsDoubled(sentence, token)) return true
   if (particled(sentence, token)) return true
   if (personHeld(sentence, token)) return true
   if (boundTo(sentence, token)) return true

@@ -489,6 +489,21 @@ test("a word whose object is a question is left alone", () => {
   expect(foundIn(said, HOLD)).toEqual([])
 })
 
+test("a word the parser gave two objects is left alone", () => {
+  const said = sentenceOf([
+    ["An", "DET", 3, "det"],
+    ["effect", "NOUN", 3, "compound"],
+    ["row", "NOUN", 4, "nsubj"],
+    ["held", "VERB", 0, "root"],
+    ["whole", "ADJ", 6, "amod"],
+    ["drops", "NOUN", 4, "obj"],
+    ["the", "DET", 8, "det"],
+    ["id", "NOUN", 4, "obj"],
+  ])
+
+  expect(foundIn(said, HELD)).toEqual([])
+})
+
 test("a word bound to something by a directed preposition is left alone", () => {
   const said = sentenceOf([
     ["a", "DET", 2, "det"],
