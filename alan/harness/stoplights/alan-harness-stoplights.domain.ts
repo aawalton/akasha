@@ -6,7 +6,6 @@ export const alanHarnessStoplights = {
   type: "domain",
   slug: "alan-harness-stoplights",
   definition: "how Alan knows what to do next",
-  parts: ["module/attribute-stoplights"],
   invariants: [
     {
       invariantKind: "gap",
