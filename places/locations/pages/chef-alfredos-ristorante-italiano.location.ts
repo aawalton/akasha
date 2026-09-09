@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chefAlfredosRistoranteItaliano = {
   id: "019f1b49-5648-7e06-beb6-bdeb565be35a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chef-alfredos-ristorante-italiano",
   title: "Chef Alfredo's Ristorante Italiano",
   latitude: 37.0892734,

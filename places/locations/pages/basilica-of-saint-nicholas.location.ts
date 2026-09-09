@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const basilicaOfSaintNicholas = {
   id: "019f1b49-5555-78e2-9af5-172b0494c583",
   pageTypeSlug: "location",
+  type: "location",
   slug: "basilica-of-saint-nicholas",
   title: "Basilica of Saint Nicholas",
   latitude: 52.6333574,

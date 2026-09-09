@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dairyQueenVineyard = {
   id: "019f322c-9479-793e-9537-0efc16f930c8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dairy-queen-vineyard",
   title: "Dairy Queen (Vineyard)",
   address: "Vineyard, UT",

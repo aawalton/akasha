@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gelateriaArtigianaleLaCorona = {
   id: "019f1b49-53c0-7234-9fed-7fad968dbec4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gelateria-artigianale-la-corona",
   title: 'Gelateria Artigianale "La Corona"',
   latitude: 43.13203,

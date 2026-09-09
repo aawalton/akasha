@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const carminesItalianRestaurant = {
   id: "019f1aec-0d26-706b-94b7-7b152050aaaa",
   pageTypeSlug: "location",
+  type: "location",
   slug: "carmines-italian-restaurant",
   title: "Carmine's Italian Restaurant",
   latitude: 30.0330651,

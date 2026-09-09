@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const charlesDeGaulleAirport = {
   id: "019f1b49-5435-7a79-9631-e7dbb159fb1a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "charles-de-gaulle-airport",
   title: "Charles de Gaulle Airport",
   latitude: 49.0092286,

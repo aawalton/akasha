@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chomUtahCounty = {
   id: "019f322c-92c3-7ffd-9730-18e856fae7f5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chom-utah-county",
   title: "CHOM (Utah County)",
   address: "Utah County, UT",

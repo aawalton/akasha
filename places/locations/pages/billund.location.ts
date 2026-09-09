@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const billund = {
   id: "019f1aec-0d93-7ebc-8b08-888705f74487",
   pageTypeSlug: "location",
+  type: "location",
   slug: "billund",
   title: "Billund",
   latitude: 55.7247018,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const calleDelleOstreghe2442 = {
   id: "019f1aec-0e19-7095-82cc-ed9121bded8e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "calle-delle-ostreghe-2442",
   title: "Calle delle Ostreghe, 2442",
   latitude: 45.4325447,

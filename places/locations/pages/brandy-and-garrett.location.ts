@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const brandyAndGarrett = {
   id: "019f1aec-0f4e-7440-8c6d-65953bf382de",
   pageTypeSlug: "location",
+  type: "location",
   slug: "brandy-and-garrett",
   title: "Brandy and Garrett",
   latitude: 39.713369799999995,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const backerWalf = {
   id: "019f1aec-0d4d-7c8d-b118-c0beab085770",
   pageTypeSlug: "location",
+  type: "location",
   slug: "backer-walf",
   title: "Bäcker Walf",
   latitude: 52.4286257,

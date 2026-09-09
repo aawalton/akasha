@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dublinCastle = {
   id: "019f1aec-0d63-70be-983a-2f23bc8ce575",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dublin-castle",
   title: "Dublin Castle",
   latitude: 53.3426623,

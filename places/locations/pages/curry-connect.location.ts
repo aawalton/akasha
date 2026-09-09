@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const curryConnect = {
   id: "019f1aec-0ce9-795e-9711-0bc5ebcbc041",
   pageTypeSlug: "location",
+  type: "location",
   slug: "curry-connect",
   title: "Curry Connect",
   latitude: 40.5822402,

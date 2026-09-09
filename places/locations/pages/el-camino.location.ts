@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const elCamino = {
   id: "019f1aec-0ca5-73b6-a4c8-bbbdc0700e4e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "el-camino",
   title: "El Camino",
   latitude: 47.6505296,

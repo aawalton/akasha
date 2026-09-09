@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const berlinSchonefeldAirport = {
   id: "019f1b49-52fc-7329-8a83-604fc779bc49",
   pageTypeSlug: "location",
+  type: "location",
   slug: "berlin-schonefeld-airport",
   title: "Berlin Schönefeld Airport",
   latitude: 52.38,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const alohaStadiumSwapMeet = {
   id: "019f1b49-52ba-7532-bbc5-18808a4f80e3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "aloha-stadium-swap-meet",
   title: "Aloha Stadium Swap Meet",
   latitude: 21.3716203,

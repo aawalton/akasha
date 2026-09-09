@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const costcoWholesale = {
   id: "019f1b49-52bd-7241-a24e-97852339d2ae",
   pageTypeSlug: "location",
+  type: "location",
   slug: "costco-wholesale",
   title: "Costco Wholesale",
   latitude: 21.392327,

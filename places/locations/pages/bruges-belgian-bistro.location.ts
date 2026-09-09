@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const brugesBelgianBistro = {
   id: "019f1b49-54c3-7c05-a307-e5f82142cce9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bruges-belgian-bistro",
   title: "Bruges Belgian Bistro",
   latitude: 40.7856,

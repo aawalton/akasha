@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const haleiwa = {
   id: "019f1b49-52aa-782c-bba7-ac6b4f94d607",
   pageTypeSlug: "location",
+  type: "location",
   slug: "haleiwa",
   title: "Haleiwa",
   latitude: 21.586206,

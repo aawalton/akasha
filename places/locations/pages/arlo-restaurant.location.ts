@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const arloRestaurant = {
   id: "019f1aec-0d12-7151-a123-6506e7066a88",
   pageTypeSlug: "location",
+  type: "location",
   slug: "arlo-restaurant",
   title: "Arlo Restaurant",
   latitude: 45.4155785,

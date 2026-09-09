@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fatDaddysPizzeria = {
   id: "019f1aec-0fc9-7f88-8203-79357591a24d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fat-daddys-pizzeria",
   title: "Fat Daddy's Pizzeria",
   address: "223 W Center St, Provo, UT 84601, United States",

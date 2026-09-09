@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const clasRopesCourseUtahCounty = {
   id: "019f322c-9338-79f5-a4f8-7df11dcb69d1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "clas-ropes-course-utah-county",
   title: "CLAS Ropes Course (Utah County)",
   address: "Utah County, UT",

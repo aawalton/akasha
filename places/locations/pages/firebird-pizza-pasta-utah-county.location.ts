@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const firebirdPizzaPastaUtahCounty = {
   id: "019f322c-95de-7003-b15e-80ceb5258801",
   pageTypeSlug: "location",
+  type: "location",
   slug: "firebird-pizza-pasta-utah-county",
   title: "Firebird Pizza & Pasta (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bruderGrimmHaus = {
   id: "019f1b49-5635-77e2-8371-2f9347f06332",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bruder-grimm-haus",
   title: "Brüder-Grimm-Haus",
   latitude: 50.1106444,

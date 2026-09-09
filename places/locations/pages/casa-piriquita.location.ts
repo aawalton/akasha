@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const casaPiriquita = {
   id: "019f1aec-0eb8-7c6a-9bad-5fe330d38d1e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "casa-piriquita",
   title: "Casa Piriquita",
   latitude: 38.796708,

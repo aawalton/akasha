@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bohemianBrewery = {
   id: "019f1aec-0ccf-7fcd-921f-a789860a8454",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bohemian-brewery",
   title: "Bohemian Brewery",
   latitude: 40.6205445,

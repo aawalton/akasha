@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const golStaveChurch = {
   id: "019f1b49-572f-7a55-ac2d-9b3b72741dba",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gol-stave-church",
   title: "Gol Stave Church",
   latitude: 46.6051977,

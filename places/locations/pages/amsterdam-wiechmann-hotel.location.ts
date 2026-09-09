@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const amsterdamWiechmannHotel = {
   id: "019f1aec-0e29-7068-9202-6915fe9b73ad",
   pageTypeSlug: "location",
+  type: "location",
   slug: "amsterdam-wiechmann-hotel",
   title: "Amsterdam Wiechmann Hotel",
   latitude: 52.3690026,

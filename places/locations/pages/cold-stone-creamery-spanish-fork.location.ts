@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const coldStoneCreamerySpanishFork = {
   id: "019f322c-93e9-71af-9d8e-45f32f2426de",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cold-stone-creamery-spanish-fork",
   title: "Cold Stone Creamery (Spanish Fork)",
   address: "Spanish Fork, UT",

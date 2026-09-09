@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const catermaranTour = {
   id: "019f1aec-0f37-74e0-84f0-cbcd94781b8f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "catermaran-tour",
   title: "Catermaran tour",
   address: "1009 Ala Moana Blvd, Honolulu, HI 96813, USA",

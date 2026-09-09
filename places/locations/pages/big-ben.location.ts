@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bigBen = {
   id: "019f1aec-0e7e-784e-b527-0fdb440b112c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "big-ben",
   title: "Big Ben",
   latitude: 51.5007042,

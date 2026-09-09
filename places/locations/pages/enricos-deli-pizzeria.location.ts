@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const enricosDeliPizzeria = {
   id: "019f1b49-5140-7ecc-90c1-d7a32407dbc2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "enricos-deli-pizzeria",
   title: "Enrico's Deli & Pizzeria",
   latitude: 40.6505509,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const buffaloWildWingsLehi = {
   id: "019f322c-91be-7c88-8634-cdf8a74788be",
   pageTypeSlug: "location",
+  type: "location",
   slug: "buffalo-wild-wings-lehi",
   title: "Buffalo Wild Wings (Lehi)",
   address: "Lehi, UT",

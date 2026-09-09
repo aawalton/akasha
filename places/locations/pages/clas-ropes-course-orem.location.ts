@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const clasRopesCourseOrem = {
   id: "019f322c-9330-79b1-bbb5-fda0a94815b7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "clas-ropes-course-orem",
   title: "CLAS Ropes Course (Orem)",
   address: "Orem, UT",

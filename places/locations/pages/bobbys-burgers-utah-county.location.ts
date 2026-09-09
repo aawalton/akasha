@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bobbysBurgersUtahCounty = {
   id: "019f322c-91ab-7b4e-bf09-5d1e2256c078",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bobbys-burgers-utah-county",
   title: "Bobbys Burgers (Utah County)",
   address: "Utah County, UT",

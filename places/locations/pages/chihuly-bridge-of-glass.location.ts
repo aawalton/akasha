@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chihulyBridgeOfGlass = {
   id: "019f1aec-0cae-7187-a764-bdc120a9fd65",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chihuly-bridge-of-glass",
   title: "Chihuly Bridge of Glass",
   latitude: 47.2455969,

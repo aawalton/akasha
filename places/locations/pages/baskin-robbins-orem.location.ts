@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const baskinRobbinsOrem = {
   id: "019f322c-91a7-7d2d-8748-06f960d85411",
   pageTypeSlug: "location",
+  type: "location",
   slug: "baskin-robbins-orem",
   title: "Baskin Robbins (Orem)",
   address: "Orem, UT",

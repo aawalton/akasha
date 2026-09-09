@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cheekwoodEstateAndGardens = {
   id: "019f1b49-548e-7b5a-9cd0-08f66ac238f5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cheekwood-estate-and-gardens",
   title: "Cheekwood: Estate and Gardens",
   latitude: 36.1622767,

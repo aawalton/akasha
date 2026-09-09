@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dam = {
   id: "019f1aec-0e30-7e2c-a1df-00b2c8eeac1d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dam",
   title: "Dam",
   latitude: 52.3731162,

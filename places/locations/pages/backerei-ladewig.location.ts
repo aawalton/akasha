@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const backereiLadewig = {
   id: "019f1b49-52eb-7e19-a123-e2a3ce5d6348",
   pageTypeSlug: "location",
+  type: "location",
   slug: "backerei-ladewig",
   title: "Bäckerei Ladewig",
   latitude: 52.5121757,

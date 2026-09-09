@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bastei = {
   id: "019f1aec-0d4b-7592-8afc-5f81ff53ef7e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bastei",
   title: "Bastei",
   latitude: 52.5985385,

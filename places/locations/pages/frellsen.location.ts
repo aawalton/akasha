@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const frellsen = {
   id: "019f1aec-0d77-7d80-a0bd-a7335bf475eb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "frellsen",
   title: "Frellsen",
   latitude: 55.7698829,

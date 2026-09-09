@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const greenChileHouse = {
   id: "019f1b49-51b7-76ca-9bd3-87dfd983235d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "green-chile-house",
   title: "Green Chile House",
   latitude: 22.4712803,

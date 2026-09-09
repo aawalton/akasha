@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const alhambra = {
   id: "019f1aec-0d75-76e5-a91a-33ab7a523d1a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "alhambra",
   title: "Alhambra",
   latitude: 40.4018448,

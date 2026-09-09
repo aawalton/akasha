@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const eclairFrenchPastry = {
   id: "019f1aec-0d38-74e0-a40b-a1a93144c346",
   pageTypeSlug: "location",
+  type: "location",
   slug: "eclair-french-pastry",
   title: "Eclair French Pastry",
   address: "7948 S 1300 E, Sandy, UT 84094, United States",

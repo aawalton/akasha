@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hiresBigH = {
   id: "019f1aec-0cfa-7428-8fc0-2afc0e64de8b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hires-big-h",
   title: "Hires Big H",
   latitude: 40.7600895,

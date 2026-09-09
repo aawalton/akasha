@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const classySmilesUtahCounty = {
   id: "019f322c-9391-7453-9619-966a73cf594c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "classy-smiles-utah-county",
   title: "Classy Smiles (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const deBlauweHollander = {
   id: "019f1aec-0e23-7d84-8a9c-b22e7ef7aa0f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "de-blauwe-hollander",
   title: "De Blauwe Hollander",
   latitude: 52.3635484,

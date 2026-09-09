@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const danielKInouyeInternationalAirport = {
   id: "019f1b49-52d5-7b1e-ad96-31b2ec346abd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "daniel-k-inouye-international-airport",
   title: "Daniel K. Inouye International Airport",
   latitude: 21.3337782,

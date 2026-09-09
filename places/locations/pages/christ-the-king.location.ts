@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const christTheKing = {
   id: "019f1b49-56df-7899-96ee-bf549693cbcc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "christ-the-king",
   title: "Christ The King",
   latitude: 38.740771,

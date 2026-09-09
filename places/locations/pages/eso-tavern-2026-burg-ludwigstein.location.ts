@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const esoTavern2026BurgLudwigstein = {
   id: "019f37a9-8480-7a8f-bb43-7370aa9331ed",
   pageTypeSlug: "location",
+  type: "location",
   slug: "eso-tavern-2026-burg-ludwigstein",
   title: "ESO Tavern 2026 — Burg Ludwigstein",
   collection: "europe-trip-2026",

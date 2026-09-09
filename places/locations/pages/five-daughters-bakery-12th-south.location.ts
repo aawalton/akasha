@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fiveDaughtersBakery12thSouth = {
   id: "019f1aec-0de2-7be1-9c4d-9c593d74d94c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "five-daughters-bakery-12th-south",
   title: "Five Daughters Bakery 12th South",
   latitude: 36.1514567,

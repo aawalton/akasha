@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const battleOfBritainBunker = {
   id: "019f1aec-0cfd-7cdc-8e90-4cdfe8a0685b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "battle-of-britain-bunker",
   title: "Battle of Britain Bunker",
   latitude: 51.54048,

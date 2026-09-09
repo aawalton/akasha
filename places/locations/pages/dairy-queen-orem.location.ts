@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dairyQueenOrem = {
   id: "019f322c-9472-71d1-9da2-1c13fcc0b96a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dairy-queen-orem",
   title: "Dairy Queen (Orem)",
   address: "Orem, UT",

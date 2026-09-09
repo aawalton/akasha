@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const batalhaMonastery = {
   id: "019f1b49-56b9-7e7a-bae9-f2c8c27202bc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "batalha-monastery",
   title: "Batalha Monastery",
   latitude: 38.7264199,

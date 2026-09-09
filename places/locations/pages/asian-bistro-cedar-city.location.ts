@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const asianBistroCedarCity = {
   id: "019f1aec-0e9e-7e6c-bd34-03ed353c198f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "asian-bistro-cedar-city",
   title: "Asian Bistro | Cedar City",
   latitude: 37.6533934,

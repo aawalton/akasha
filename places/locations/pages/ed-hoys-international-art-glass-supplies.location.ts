@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const edHoysInternationalArtGlassSupplies = {
   id: "019f1b49-56b7-7503-b20e-81b7e6d3176c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "ed-hoys-international-art-glass-supplies",
   title: "Ed Hoy's International Art Glass & Supplies",
   latitude: 42.682319,

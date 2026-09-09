@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const frederiksborgCastle = {
   id: "019f1aec-0d96-7546-9995-d83fefdb16b4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "frederiksborg-castle",
   title: "Frederiksborg Castle",
   latitude: 55.9277451,

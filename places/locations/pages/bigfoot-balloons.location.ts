@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bigfootBalloons = {
   id: "019f1b49-54c2-759a-8ab9-563e1f201f7a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bigfoot-balloons",
   title: "Bigfoot Balloons",
   latitude: 37.766952,

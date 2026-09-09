@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const firebirdsWoodFiredGrill = {
   id: "019f1aec-0f00-7b38-929b-33b85133d895",
   pageTypeSlug: "location",
+  type: "location",
   slug: "firebirds-wood-fired-grill",
   title: "Firebirds Wood Fired Grill",
   latitude: 30.2556356,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const auntBeas = {
   id: "019f1aec-0f56-72fb-81df-225e938f650e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "aunt-beas",
   title: "Aunt Bea’s",
   address: "1196 E 8320 S, Sandy, UT 84094, United States",

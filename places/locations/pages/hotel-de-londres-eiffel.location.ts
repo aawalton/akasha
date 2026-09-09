@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hotelDeLondresEiffel = {
   id: "019f1b49-5447-759e-b235-ffd25bd9d78c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hotel-de-londres-eiffel",
   title: "Hôtel de Londres Eiffel",
   latitude: 48.8576325,

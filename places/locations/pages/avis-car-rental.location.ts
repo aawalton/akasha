@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const avisCarRental = {
   id: "019f1aec-0f04-7886-a7fe-bf162b183c13",
   pageTypeSlug: "location",
+  type: "location",
   slug: "avis-car-rental",
   title: "Avis Car Rental",
   latitude: 25.7726887,

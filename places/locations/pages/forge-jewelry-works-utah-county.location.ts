@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const forgeJewelryWorksUtahCounty = {
   id: "019f322c-95ee-7c2c-81bf-0348e97066f0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "forge-jewelry-works-utah-county",
   title: "FORGE Jewelry Works (Utah County)",
   address: "Utah County, UT",

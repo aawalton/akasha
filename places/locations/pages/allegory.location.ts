@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const allegory = {
   id: "019f1b49-566b-7492-8d13-a0c3f2095e4e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "allegory",
   title: "Allegory",
   latitude: 38.9027885,

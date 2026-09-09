@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const craftSuppliesUsa = {
   id: "019f1aec-0cbe-7874-a9f8-18c0dd42f376",
   pageTypeSlug: "location",
+  type: "location",
   slug: "craft-supplies-usa",
   title: "Craft Supplies USA",
   latitude: 41.6783247,

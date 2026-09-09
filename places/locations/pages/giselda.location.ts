@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const giselda = {
   id: "019f1aec-0d9a-70b9-9272-4a9db40d8ab2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "giselda",
   title: "Giselda",
   latitude: 41.9089197,

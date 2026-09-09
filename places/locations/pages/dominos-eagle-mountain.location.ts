@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dominosEagleMountain = {
   id: "019f322c-94af-7adc-983a-2932c2fe1e59",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dominos-eagle-mountain",
   title: "Domino's (Eagle Mountain)",
   address: "Eagle Mountain, UT",

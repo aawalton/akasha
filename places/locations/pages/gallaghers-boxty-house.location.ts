@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gallaghersBoxtyHouse = {
   id: "019f1b49-5318-7aa5-8d01-167570758d91",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gallaghers-boxty-house",
   title: "Gallaghers Boxty House",
   latitude: 53.3456973,

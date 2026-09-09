@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const berlinerFernsehturm = {
   id: "019f1aec-0d5c-770b-b9d0-32ee5cd5d925",
   pageTypeSlug: "location",
+  type: "location",
   slug: "berliner-fernsehturm",
   title: "Berliner Fernsehturm",
   latitude: 52.5208279,

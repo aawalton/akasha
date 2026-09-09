@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const conditoriLaGlace = {
   id: "019f1aec-0d98-7b90-a796-dd50d5c09204",
   pageTypeSlug: "location",
+  type: "location",
   slug: "conditori-la-glace",
   title: "Conditori La Glace",
   latitude: 55.6785929,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const backNineGolfUtahCounty = {
   id: "019f322c-918e-72d8-822f-db7abc452424",
   pageTypeSlug: "location",
+  type: "location",
   slug: "back-nine-golf-utah-county",
   title: "Back Nine Golf (Utah County)",
   address: "Utah County, UT",

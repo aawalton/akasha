@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const elianeFrenchBakery = {
   id: "019f1aec-0fc0-7c4e-8e92-0aa76b3f666b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "eliane-french-bakery",
   title: "Eliane French Bakery",
   address: "139 S State St #7, Lindon, UT 84042, United States",

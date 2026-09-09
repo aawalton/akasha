@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const asianCafeChinese = {
   id: "019f1aec-103f-78e0-9bdc-123913c0d743",
   pageTypeSlug: "location",
+  type: "location",
   slug: "asian-cafe-chinese",
   title: "ASIAN CAFE | Chinese",
   address: "3535 N Ranches Pkwy F, Eagle Mountain, UT 84005, United States",

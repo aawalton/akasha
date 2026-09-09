@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chiropracticAxcessAccidentCenterUtahCounty = {
   id: "019f322c-92bd-7cd7-b445-8f79c5eca81a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chiropractic-axcess-accident-center-utah-county",
   title: "Chiropractic: Axcess Accident Center (Utah County)",
   address: "Utah County, UT",

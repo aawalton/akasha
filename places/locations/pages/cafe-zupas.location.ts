@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cafeZupas = {
   id: "019f1aec-0f84-7a6c-8ca3-67db40f26d22",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cafe-zupas",
   title: "Café Zupas",
   address: "55 State St, Orem, UT 84058, United States",

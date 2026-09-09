@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const folkehusetAbsalon = {
   id: "019f1aec-0d83-7f18-877d-8d5b35808004",
   pageTypeSlug: "location",
+  type: "location",
   slug: "folkehuset-absalon",
   title: "Folkehuset Absalon",
   latitude: 55.6653188,

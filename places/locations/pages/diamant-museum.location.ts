@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const diamantMuseum = {
   id: "019f1b49-5548-75c1-8446-f07a9ec90e97",
   pageTypeSlug: "location",
+  type: "location",
   slug: "diamant-museum",
   title: "Diamant Museum",
   latitude: 52.3594104,

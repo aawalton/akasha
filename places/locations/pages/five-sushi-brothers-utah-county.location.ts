@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fiveSushiBrothersUtahCounty = {
   id: "019f322c-95e6-7af8-b0c8-2871745af2f0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "five-sushi-brothers-utah-county",
   title: "Five Sushi Brothers (Utah County)",
   address: "Utah County, UT",

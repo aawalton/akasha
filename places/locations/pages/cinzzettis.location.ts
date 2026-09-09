@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cinzzettis = {
   id: "019f1aec-1020-732f-b2da-5117cb53d6e6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cinzzettis",
   title: "Cinzzetti's",
   address: "281 W 104th Ave, Northglenn, CO 80234, United States",

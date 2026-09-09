@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hamachiSushiBarLehi = {
   id: "019f1aec-0cde-79c0-b0bd-e73c589d13f9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hamachi-sushi-bar-lehi",
   title: "Hamachi Sushi Bar Lehi",
   latitude: 40.4298772,

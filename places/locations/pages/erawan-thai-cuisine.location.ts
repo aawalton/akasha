@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const erawanThaiCuisine = {
   id: "019f1aec-0e9a-7c51-930d-55435329b187",
   pageTypeSlug: "location",
+  type: "location",
   slug: "erawan-thai-cuisine",
   title: "Erawan | Thai Cuisine",
   latitude: 37.6563783,

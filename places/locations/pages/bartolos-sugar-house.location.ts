@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bartolosSugarHouse = {
   id: "019f1b49-51ab-7cce-9635-85d3a731a4a3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bartolos-sugar-house",
   title: "Bartolo's Sugar House",
   latitude: 40.7252968,

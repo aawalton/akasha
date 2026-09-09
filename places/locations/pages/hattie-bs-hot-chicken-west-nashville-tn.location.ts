@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hattieBsHotChickenWestNashvilleTn = {
   id: "019f1b49-546b-71c5-8578-1a2108ebd421",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hattie-bs-hot-chicken-west-nashville-tn",
   title: "Hattie B's Hot Chicken - West Nashville, TN",
   latitude: 36.1603359,

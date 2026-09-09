@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bartolosParkCity = {
   id: "019f1aec-0cf9-70eb-a5cb-665e55cd43bb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bartolos-park-city",
   title: "Bartolo's Park City",
   latitude: 40.7216253,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bajaBorderTours = {
   id: "019f1b49-529e-71a4-a621-f530ded773d4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "baja-border-tours",
   title: "Baja Border Tours",
   latitude: 31.644157,

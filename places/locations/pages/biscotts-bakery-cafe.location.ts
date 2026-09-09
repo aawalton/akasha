@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const biscottsBakeryCafe = {
   id: "019f1aec-0f98-7238-b03b-4d689f8a7a5c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "biscotts-bakery-cafe",
   title: "Biscotts Bakery & Café",
   address: "1098 UT-151 #110, South Jordan, UT 84095, United States",

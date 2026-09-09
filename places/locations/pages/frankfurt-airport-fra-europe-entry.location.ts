@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const frankfurtAirportFraEuropeEntry = {
   id: "019f37a9-67d8-7994-8f02-5b305de72fd6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "frankfurt-airport-fra-europe-entry",
   title: "Frankfurt Airport (FRA) — Europe entry",
   collection: "europe-trip-2026",

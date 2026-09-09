@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const byuBowlingGamesCenterUtahCounty = {
   id: "019f322c-9200-7bce-8bf9-a5b032097b0e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "byu-bowling-games-center-utah-county",
   title: "BYU Bowling & Games Center (Utah County)",
   address: "Utah County, UT",

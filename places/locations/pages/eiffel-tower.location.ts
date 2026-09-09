@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const eiffelTower = {
   id: "019f197c-4b5c-7c8a-8056-927458dcfb86",
   pageTypeSlug: "location",
+  type: "location",
   slug: "eiffel-tower",
   title: "Eiffel Tower",
   address: "Eiffel Tower, 5 Avenue Anatole France, 75007 Paris, France",

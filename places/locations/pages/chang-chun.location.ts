@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const changChun = {
   id: "019f1aec-1045-70ee-bb7c-665119966edd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chang-chun",
   title: "Chang Chun",
   address: "51 S Main St, Salt Lake City, UT 84144, United States",

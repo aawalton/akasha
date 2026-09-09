@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const barcelonetaBeach = {
   id: "019f1aec-0e6a-756d-a5ed-dfc90add5dca",
   pageTypeSlug: "location",
+  type: "location",
   slug: "barceloneta-beach",
   title: "Barceloneta Beach",
   latitude: 41.3793285,

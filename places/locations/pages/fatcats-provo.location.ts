@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fatcatsProvo = {
   id: "019f322c-9598-78c4-865e-0e1a37cbc017",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fatcats-provo",
   title: "FatCats (Provo)",
   address: "Provo, UT",

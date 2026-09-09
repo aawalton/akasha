@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const botanicalGardenAndBotanicalMuseum = {
   id: "019f1b49-5303-7a1c-b313-5c97da3b32fe",
   pageTypeSlug: "location",
+  type: "location",
   slug: "botanical-garden-and-botanical-museum",
   title: "Botanical Garden and Botanical Museum",
   latitude: 52.4574,

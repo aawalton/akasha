@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fremontTroll = {
   id: "019f1aec-0c8b-7db6-9ebf-edd10d092055",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fremont-troll",
   title: "Fremont Troll",
   latitude: 47.6510483,

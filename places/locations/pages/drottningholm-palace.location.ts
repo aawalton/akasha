@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const drottningholmPalace = {
   id: "019f1aec-0e0e-76ce-99ad-b4ee035a2aaa",
   pageTypeSlug: "location",
+  type: "location",
   slug: "drottningholm-palace",
   title: "Drottningholm Palace",
   latitude: 59.3216277,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const brothersCrepesCafe = {
   id: "019f1b49-542d-77f4-8cd1-43cf1ce336f6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "brothers-crepes-cafe",
   title: "Brother’s Crêpes & Café",
   latitude: 48.8440234,

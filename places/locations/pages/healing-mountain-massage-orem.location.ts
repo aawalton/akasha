@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const healingMountainMassageOrem = {
   id: "019f322c-96ce-7892-a8b0-422646e59409",
   pageTypeSlug: "location",
+  type: "location",
   slug: "healing-mountain-massage-orem",
   title: "Healing Mountain Massage (Orem)",
   address: "Orem, UT",

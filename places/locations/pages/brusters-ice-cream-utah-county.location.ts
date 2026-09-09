@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const brustersIceCreamUtahCounty = {
   id: "019f322c-91b7-7518-9335-1078a755088e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "brusters-ice-cream-utah-county",
   title: "Bruster's Ice Cream (Utah County)",
   address: "Utah County, UT",

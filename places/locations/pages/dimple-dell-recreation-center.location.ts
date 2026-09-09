@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dimpleDellRecreationCenter = {
   id: "019f1aec-0cbf-7bbd-9432-7e866b01ad7c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dimple-dell-recreation-center",
   title: "Dimple Dell Recreation Center",
   latitude: 40.5503621,

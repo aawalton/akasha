@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cottonwoodHeightsCafe = {
   id: "019f1b49-54bb-7a80-a249-871ea51808a3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cottonwood-heights-cafe",
   title: "Cottonwood Heights Cafe",
   latitude: 40.618873,

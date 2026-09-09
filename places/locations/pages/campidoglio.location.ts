@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const campidoglio = {
   id: "019f1aec-0db3-7f9f-aa59-165f7ee44a5a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "campidoglio",
   title: "Campidoglio",
   latitude: 41.8925778,

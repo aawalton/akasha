@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bubbakoosBurritosUtahCounty = {
   id: "019f322c-91bb-71a7-8e89-39c2bd944cf7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bubbakoos-burritos-utah-county",
   title: "Bubbakoo's Burritos (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dreamwalkParkUtahCounty = {
   id: "019f322c-94cd-725f-a0cc-c5ee83ec4f57",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dreamwalk-park-utah-county",
   title: "Dreamwalk Park (Utah County)",
   address: "Utah County, UT",

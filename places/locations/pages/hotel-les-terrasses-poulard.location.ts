@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hotelLesTerrassesPoulard = {
   id: "019f1aec-0f1d-72c3-a2a8-df7566ad7a31",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hotel-les-terrasses-poulard",
   title: "Hôtel Les Terrasses Poulard",
   latitude: 48.6361955,

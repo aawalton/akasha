@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cocaColaLondonEye = {
   id: "019f1b49-55e3-73ae-8302-f54e747b23cf",
   pageTypeSlug: "location",
+  type: "location",
   slug: "coca-cola-london-eye",
   title: "Coca-Cola London Eye",
   latitude: 51.5074456,

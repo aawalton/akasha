@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const foxRentACarDenver = {
   id: "019f1aec-0ffd-77eb-b7e1-92ab55b9c304",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fox-rent-a-car-denver",
   title: "Fox Rent A Car Denver",
   address: "24558 E 75th Ave, Denver, CO 80249, United States",

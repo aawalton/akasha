@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dollarTree9fcd = {
   id: "019f1aec-0c80-7c4d-bc51-d23779959fcd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dollar-tree-9fcd",
   title: "Dollar Tree",
   latitude: 47.6860452,

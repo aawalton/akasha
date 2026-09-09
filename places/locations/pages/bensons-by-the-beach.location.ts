@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bensonsByTheBeach = {
   id: "019f1aec-0c7c-7aea-b9b6-a207345aff5b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bensons-by-the-beach",
   title: "Benson's By The Beach",
   latitude: 46.3487115,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const casteloDeSJorge = {
   id: "019f1aec-0ecb-76bf-a138-9311f9da1b0f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "castelo-de-s-jorge",
   title: "Castelo de S. Jorge",
   latitude: 38.7139258,

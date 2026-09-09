@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const coronadoBeachDb82 = {
   id: "019f1aec-0f5b-7cf0-9a10-973faabfdb82",
   pageTypeSlug: "location",
+  type: "location",
   slug: "coronado-beach-db82",
   title: "Coronado Beach",
   latitude: 32.6847742,

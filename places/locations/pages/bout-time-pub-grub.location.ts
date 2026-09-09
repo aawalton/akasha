@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const boutTimePubGrub = {
   id: "019f1aec-0d24-75b0-b07c-1f6b514411fe",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bout-time-pub-grub",
   title: "Bout Time Pub & Grub",
   latitude: 39.7693045,

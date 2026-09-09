@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const edelweissChocolates = {
   id: "019f1aec-0f62-76e4-8dc8-bf86263799c7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "edelweiss-chocolates",
   title: "Edelweiss Chocolates",
   latitude: 34.0715374,

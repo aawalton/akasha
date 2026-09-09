@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const brightPediatricDentistry = {
   id: "019f1aec-0f8c-74ed-903f-5987023e54ad",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bright-pediatric-dentistry",
   title: "Bright Pediatric Dentistry",
   address: "1434 E 9400 S #205, Sandy, UT 84093, United States",

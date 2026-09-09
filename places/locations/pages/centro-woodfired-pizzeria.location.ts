@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const centroWoodfiredPizzeria = {
   id: "019f1aec-0ea4-7dab-b574-ed0109e7ba4d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "centro-woodfired-pizzeria",
   title: "Centro Woodfired Pizzeria",
   latitude: 37.6775787,

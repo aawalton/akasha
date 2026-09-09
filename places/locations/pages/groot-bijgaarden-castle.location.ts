@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const grootBijgaardenCastle = {
   id: "019f1b49-56f7-7f3c-a401-6ff9a09dde35",
   pageTypeSlug: "location",
+  type: "location",
   slug: "groot-bijgaarden-castle",
   title: "Groot-Bijgaarden Castle",
   latitude: 50.87134,

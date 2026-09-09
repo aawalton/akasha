@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const caffeMolise = {
   id: "019f1aec-0d1a-7e1c-90e6-29b25da012a6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "caffe-molise",
   title: "Caffé Molise",
   latitude: 40.7604021,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bricksMinifigsOrem = {
   id: "019f1aec-0fe3-7a0a-aa2b-1374f23f7dac",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bricks-minifigs-orem",
   title: "Bricks & Minifigs Orem",
   address: "658 S State St, Orem, UT 84058, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const giverny = {
   id: "019f1b49-541a-7809-ab93-1dc29d924c51",
   pageTypeSlug: "location",
+  type: "location",
   slug: "giverny",
   title: "Giverny",
   latitude: 48.858705,

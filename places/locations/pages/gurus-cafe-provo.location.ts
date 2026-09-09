@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gurusCafeProvo = {
   id: "019f322c-96c2-7fa6-a5ed-dfcdfd9e3d02",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gurus-cafe-provo",
   title: "Gurus Cafe (Provo)",
   address: "Provo, UT",

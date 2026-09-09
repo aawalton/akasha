@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const elBarrilBreakfastLunch = {
   id: "019f1b49-5249-7e03-af65-0659b9f9af1c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "el-barril-breakfast-lunch",
   title: "El Barril Breakfast & Lunch",
   latitude: 42.5898104,

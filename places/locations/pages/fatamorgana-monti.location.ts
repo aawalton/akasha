@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fatamorganaMonti = {
   id: "019f1aec-0da0-7376-9ae2-6d30d29ee214",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fatamorgana-monti",
   title: "Fatamorgana Monti",
   latitude: 41.8956187,

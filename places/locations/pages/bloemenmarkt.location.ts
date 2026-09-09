@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bloemenmarkt = {
   id: "019f1aec-0e39-7dd1-9710-8b7a917c0285",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bloemenmarkt",
   title: "Bloemenmarkt",
   latitude: 52.3669308,

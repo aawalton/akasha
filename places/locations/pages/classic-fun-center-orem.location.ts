@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const classicFunCenterOrem = {
   id: "019f322c-937d-70d0-afb7-5674bc078d1c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "classic-fun-center-orem",
   title: "Classic Fun Center (Orem)",
   address: "Orem, UT",

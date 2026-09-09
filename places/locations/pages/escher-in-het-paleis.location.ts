@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const escherInHetPaleis = {
   id: "019f1aec-0e47-7e81-8746-10862314086f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "escher-in-het-paleis",
   title: "Escher in Het Paleis",
   latitude: 52.0834161,

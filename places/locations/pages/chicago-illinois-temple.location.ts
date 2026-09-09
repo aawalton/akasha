@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chicagoIllinoisTemple = {
   id: "019f1b49-56af-7577-a459-8acbb1391704",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chicago-illinois-temple",
   title: "Chicago Illinois Temple",
   latitude: 41.8748613,

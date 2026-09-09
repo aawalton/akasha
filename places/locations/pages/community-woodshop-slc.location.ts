@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const communityWoodshopSlc = {
   id: "019f1b49-512a-75c5-9dc2-23bf33ccb858",
   pageTypeSlug: "location",
+  type: "location",
   slug: "community-woodshop-slc",
   title: "Community Woodshop SLC",
   latitude: 40.918984,

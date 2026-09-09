@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chipCookies = {
   id: "019f1aec-0f87-7da6-b3eb-532cdd9d084a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chip-cookies",
   title: "Chip Cookies",
   address: "2340 E 4500 S, Holladay, UT 84117, United States",

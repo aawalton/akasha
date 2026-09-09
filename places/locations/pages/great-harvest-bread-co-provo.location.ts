@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const greatHarvestBreadCoProvo = {
   id: "019f322c-96be-79e6-9df0-1347bf177846",
   pageTypeSlug: "location",
+  type: "location",
   slug: "great-harvest-bread-co-provo",
   title: "Great Harvest Bread Co. (Provo)",
   address: "Provo, UT",

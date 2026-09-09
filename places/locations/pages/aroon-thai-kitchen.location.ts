@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const aroonThaiKitchen = {
   id: "019f1b49-571a-7104-8c89-da1eb3e6166e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "aroon-thai-kitchen",
   title: "Aroon Thai Kitchen",
   latitude: 40.6251587,

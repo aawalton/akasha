@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const belleMeadePlantation = {
   id: "019f1aec-0df4-7791-9426-c8977bb94aa0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "belle-meade-plantation",
   title: "Belle Meade Plantation",
   latitude: 36.1057096,

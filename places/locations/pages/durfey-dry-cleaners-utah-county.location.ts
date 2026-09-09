@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const durfeyDryCleanersUtahCounty = {
   id: "019f322c-94d9-74cc-8b5a-123a11106b75",
   pageTypeSlug: "location",
+  type: "location",
   slug: "durfey-dry-cleaners-utah-county",
   title: "Durfey Dry Cleaners (Utah County)",
   address: "Utah County, UT",

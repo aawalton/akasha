@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const castelSantangelo = {
   id: "019f1aec-0dbb-7499-baef-6705289523b6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "castel-santangelo",
   title: "Castel Sant'Angelo",
   latitude: 41.9031178,

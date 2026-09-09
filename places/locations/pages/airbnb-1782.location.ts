@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const airbnb1782 = {
   id: "019f1aec-0f4f-78b5-8b56-c190b4671782",
   pageTypeSlug: "location",
+  type: "location",
   slug: "airbnb-1782",
   title: "Airbnb",
   address: "2118 Elliott Ave, Nashville, TN 37204, USA",

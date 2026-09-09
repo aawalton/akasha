@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const adamAndKisHome = {
   id: "019f1aec-0f59-72ab-a728-ad04b55f6a2a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "adam-and-kis-home",
   title: "Adam and Ki’s Home",
   address: "4234 McKellen Dr Unit 204, Herriman, UT 84096, United States",

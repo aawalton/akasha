@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bahamaBreeze = {
   id: "019f1aec-0efc-7bd4-8764-2c6fe32f53d7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bahama-breeze",
   title: "Bahama Breeze",
   latitude: 28.471729,

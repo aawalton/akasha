@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const goff = {
   id: "019f1aec-0f40-793b-be2a-268c6eed16f8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "goff",
   title: "Goff",
   address: "320 S 1065 W St, Orem, UT 84058, USA",

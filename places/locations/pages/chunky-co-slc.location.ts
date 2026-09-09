@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chunkyCoSlc = {
   id: "019f1b49-5191-7ef1-8863-f8d906002438",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chunky-co-slc",
   title: "Chunky & Co SLC",
   latitude: 37.77823,

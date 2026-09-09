@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fieldOfLight = {
   id: "019f1aec-0d14-79a1-aaac-279a9778af57",
   pageTypeSlug: "location",
+  type: "location",
   slug: "field-of-light",
   title: "Field of Light",
   latitude: -25.2536206,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const berlinWallMemorial = {
   id: "019f1aec-0d5f-7379-b8c7-eee3e41eff6f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "berlin-wall-memorial",
   title: "Berlin Wall Memorial",
   latitude: 52.5375133,

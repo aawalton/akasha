@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const giordanos = {
   id: "019f1aec-0eac-7dae-85d5-f5dc04f4db60",
   pageTypeSlug: "location",
+  type: "location",
   slug: "giordanos",
   title: "Giordano's",
   latitude: 41.8919214,

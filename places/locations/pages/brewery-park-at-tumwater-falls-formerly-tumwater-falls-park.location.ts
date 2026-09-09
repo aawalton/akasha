@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const breweryParkAtTumwaterFallsFormerlyTumwaterFallsPark = {
   id: "019f1b49-50ce-71c9-bc27-e5225702313a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "brewery-park-at-tumwater-falls-formerly-tumwater-falls-park",
   title: "Brewery Park at Tumwater Falls (formerly Tumwater Falls Park)",
   latitude: 47.017058,

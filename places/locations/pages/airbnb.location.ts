@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const airbnb = {
   id: "019f1aec-0f2f-77e3-b72c-98c922d0aa2f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "airbnb",
   title: "Airbnb",
   address: "4442 41st St, San Diego, CA 92116, USA",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const giovannisShrimpTruck = {
   id: "019f1b49-52d1-77ae-95e8-b2585690f6ea",
   pageTypeSlug: "location",
+  type: "location",
   slug: "giovannis-shrimp-truck",
   title: "Giovanni's Shrimp Truck",
   latitude: 21.677198,

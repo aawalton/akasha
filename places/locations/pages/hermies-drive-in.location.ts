@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hermiesDriveIn = {
   id: "019f1aec-0d13-7462-9566-d0647bf7431f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hermies-drive-in",
   title: "Hermie's Drive In",
   latitude: 37.6824509,

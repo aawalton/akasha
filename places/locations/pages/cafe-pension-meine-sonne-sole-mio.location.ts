@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cafePensionMeineSonneSoleMio = {
   id: "019f1b49-574e-78e4-9ae1-5cdf22966f94",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cafe-pension-meine-sonne-sole-mio",
   title: "Café & Pension 'Meine Sonne...Sole Mio'",
   latitude: 52.700755,

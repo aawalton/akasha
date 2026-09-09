@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const blazePizza = {
   id: "019f1aec-0ff7-7580-8e3a-3cf055ea9039",
   pageTypeSlug: "location",
+  type: "location",
   slug: "blaze-pizza",
   title: "Blaze Pizza",
   address: "1350 S State St, Orem, UT 84097, United States",

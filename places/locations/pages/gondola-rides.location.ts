@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gondolaRides = {
   id: "019f1b49-5515-72f4-b143-6b0a3fd746f8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gondola-rides",
   title: "Gondola Rides",
   latitude: 45.4372027,

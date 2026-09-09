@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hellsBackboneGrillFarm = {
   id: "019f1b49-5274-7cd8-ba6a-7aa7a141f209",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hells-backbone-grill-farm",
   title: "Hell's Backbone Grill & Farm",
   latitude: 34.783666,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fleaMarket = {
   id: "019f1b49-52e3-7102-af5b-91372aa36da0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "flea-market",
   title: "Flea Market",
   latitude: 21.1527467,

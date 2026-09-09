@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const burgHayn = {
   id: "019f1b49-562e-7f04-b56d-4d0ca0dbd9b4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "burg-hayn",
   title: "Burg Hayn",
   latitude: 50.1106444,

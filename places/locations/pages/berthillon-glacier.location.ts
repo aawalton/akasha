@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const berthillonGlacier = {
   id: "019f1b49-543a-76d4-99b4-17f11497a182",
   pageTypeSlug: "location",
+  type: "location",
   slug: "berthillon-glacier",
   title: "Berthillon Glacier",
   latitude: 48.8517084,

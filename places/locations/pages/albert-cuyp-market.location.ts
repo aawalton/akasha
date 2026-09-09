@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const albertCuypMarket = {
   id: "019f1aec-0e45-751d-aeaf-721f1db058aa",
   pageTypeSlug: "location",
+  type: "location",
   slug: "albert-cuyp-market",
   title: "Albert Cuyp Market",
   latitude: 52.3552329,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const highCountryAdventureProvo = {
   id: "019f322c-9707-7dc2-967c-c575101ce223",
   pageTypeSlug: "location",
+  type: "location",
   slug: "high-country-adventure-provo",
   title: "High Country Adventure (Provo)",
   address: "Provo, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const downtownDisneyDistrict = {
   id: "019f1aec-0f5f-7ce0-8f65-081ac52511c4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "downtown-disney-district",
   title: "Downtown Disney District",
   latitude: 33.8097925,

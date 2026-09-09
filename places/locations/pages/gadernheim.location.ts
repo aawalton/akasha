@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gadernheim = {
   id: "019f1b49-5625-744e-a047-4eb25db9034b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gadernheim",
   title: "Gadernheim",
   latitude: 50.041821,

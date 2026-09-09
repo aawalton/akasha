@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gameGridLehi = {
   id: "019f322c-9602-795f-a410-e04ff402dbf4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "game-grid-lehi",
   title: "Game Grid (Lehi)",
   address: "Lehi, UT",

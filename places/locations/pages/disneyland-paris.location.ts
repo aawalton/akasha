@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const disneylandParis = {
   id: "019f1b49-541b-7e4d-aae7-e3472abdebd1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "disneyland-paris",
   title: "Disneyland Paris",
   latitude: 48.86272,

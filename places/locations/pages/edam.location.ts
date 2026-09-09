@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const edam = {
   id: "019f1aec-0e2b-78f9-aaaa-0d2c5af8d43d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "edam",
   title: "Edam",
   latitude: 52.5119116,

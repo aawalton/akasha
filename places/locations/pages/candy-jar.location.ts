@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const candyJar = {
   id: "019f1b49-57b8-72e5-a02b-c3b14f3abe40",
   pageTypeSlug: "location",
+  type: "location",
   slug: "candy-jar",
   title: "Candy Jar",
   latitude: 43.495804,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const burgEppstein = {
   id: "019f1b49-5628-74b5-826f-b3a96e17ed5b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "burg-eppstein",
   title: "Burg Eppstein",
   latitude: 50.120597,

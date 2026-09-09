@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const handsOnChildrensMuseum = {
   id: "019f1aec-0c8f-7f40-ab8f-2f5520029a60",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hands-on-childrens-museum",
   title: "Hands On Children's Museum",
   latitude: 47.0480125,

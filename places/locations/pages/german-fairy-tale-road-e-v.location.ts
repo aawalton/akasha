@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const germanFairyTaleRoadEV = {
   id: "019f1b49-5637-710f-be7e-fde25e038c4e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "german-fairy-tale-road-e-v",
   title: "German Fairy Tale Road e.V.",
   latitude: 50.1106444,

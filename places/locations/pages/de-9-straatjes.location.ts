@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const de9Straatjes = {
   id: "019f1aec-0e3b-7db9-a1fa-7854f3baa0c0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "de-9-straatjes",
   title: "De 9 Straatjes",
   latitude: 52.3688508,

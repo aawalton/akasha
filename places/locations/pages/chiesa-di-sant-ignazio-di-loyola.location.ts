@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const chiesaDiSantIgnazioDiLoyola = {
   id: "019f1b49-53ba-7a46-9762-7787cc1b1e63",
   pageTypeSlug: "location",
+  type: "location",
   slug: "chiesa-di-sant-ignazio-di-loyola",
   title: "Chiesa di Sant' Ignazio di Loyola",
   latitude: 41.4080496,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const carlsJrUtahCounty = {
   id: "019f322c-926a-7471-af8f-cdbe0c16e6a0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "carls-jr-utah-county",
   title: "Carl's Jr (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const etchRestaurant = {
   id: "019f1b49-5460-7ec0-84bf-02cdc8b5667f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "etch-restaurant",
   title: "Etch Restaurant",
   latitude: 36.1622767,

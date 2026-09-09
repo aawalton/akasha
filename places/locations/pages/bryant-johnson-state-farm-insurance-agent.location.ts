@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bryantJohnsonStateFarmInsuranceAgent = {
   id: "019f1aec-0fc3-7cc3-8dd8-9e416f0cd59d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bryant-johnson-state-farm-insurance-agent",
   title: "Bryant Johnson - State Farm Insurance Agent",
   address: "1812 N 1120 W, Provo, UT 84604, United States",

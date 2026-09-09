@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const allAmericanDiner = {
   id: "019f1aec-0ea2-7e48-9e5c-7283a6b9cd6b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "all-american-diner",
   title: "All American Diner",
   latitude: 37.6682951,

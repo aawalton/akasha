@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const daliTheatreMuseum = {
   id: "019f1b49-55af-7cc0-9697-d678b9ea3281",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dali-theatre-museum",
   title: "Dalí Theatre-Museum",
   latitude: 42.26806,

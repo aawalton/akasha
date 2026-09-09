@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const funboxUtahCountyOrem = {
   id: "019f1aec-0f8a-7d6d-a78d-72a523168a4e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "funbox-utah-county-orem",
   title: "FUNBOX UTAH COUNTY - OREM",
   address: "650 E Pk Ave, Orem, UT 84097, United States",

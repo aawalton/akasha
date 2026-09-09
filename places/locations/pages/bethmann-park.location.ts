@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bethmannPark = {
   id: "019f1aec-0e91-72fa-a5a8-7b228887079d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bethmann-park",
   title: "Bethmann Park",
   latitude: 50.1190271,

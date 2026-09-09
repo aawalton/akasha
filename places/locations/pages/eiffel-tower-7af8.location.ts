@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const eiffelTower7af8 = {
   id: "019f1aec-0dcd-7faa-bc7b-a467003f7af8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "eiffel-tower-7af8",
   title: "Eiffel Tower",
   latitude: 48.8582599,

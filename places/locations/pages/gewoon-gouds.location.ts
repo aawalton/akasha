@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const gewoonGouds = {
   id: "019f1aec-0e22-7996-907f-63c624e8e24c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "gewoon-gouds",
   title: "Gewoon Gouds",
   latitude: 52.012327,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const akershusFortress = {
   id: "019f1aec-0ee1-7156-9d6e-ab989c0ce87c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "akershus-fortress",
   title: "Akershus Fortress",
   latitude: 59.9075983,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const fairfieldInnSuitesByMarriottTustinOrangeCounty = {
   id: "019f1b49-5790-76a9-b066-dd7d79bfd412",
   pageTypeSlug: "location",
+  type: "location",
   slug: "fairfield-inn-suites-by-marriott-tustin-orange-county",
   title: "Fairfield Inn & Suites by Marriott Tustin Orange County",
   latitude: 33.725826,

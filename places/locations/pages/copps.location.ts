@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const copps = {
   id: "019f1aec-0f6b-788a-a89d-bb765b7d8c59",
   pageTypeSlug: "location",
+  type: "location",
   slug: "copps",
   title: "Copps",
   latitude: 43.013701,

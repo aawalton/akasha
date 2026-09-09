@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const auntieRaesSweetsAndTeaParties = {
   id: "019f1aec-1023-79f5-be71-abb1cd3ac770",
   pageTypeSlug: "location",
+  type: "location",
   slug: "auntie-raes-sweets-and-tea-parties",
   title: "Auntie Rae’s Sweets and Tea Parties",
   address: "4704 Holladay Blvd E, Holladay, UT 84117, United States",

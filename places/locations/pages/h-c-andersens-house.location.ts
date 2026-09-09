@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hCAndersensHouse = {
   id: "019f1b49-5398-7c4e-807e-ea377f17333f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "h-c-andersens-house",
   title: "H. C. Andersens House",
   latitude: 56.803781,

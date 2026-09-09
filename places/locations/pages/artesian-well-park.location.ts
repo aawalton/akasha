@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const artesianWellPark = {
   id: "019f1aec-0cf5-76f0-9ae3-19733bb49115",
   pageTypeSlug: "location",
+  type: "location",
   slug: "artesian-well-park",
   title: "Artesian Well Park",
   latitude: 40.7517178,

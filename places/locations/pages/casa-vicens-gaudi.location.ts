@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const casaVicensGaudi = {
   id: "019f1b49-55c2-7362-826e-939cc6770c99",
   pageTypeSlug: "location",
+  type: "location",
   slug: "casa-vicens-gaudi",
   title: "Casa Vicens Gaudí",
   latitude: 41.394653,

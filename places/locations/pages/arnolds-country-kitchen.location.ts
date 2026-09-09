@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const arnoldsCountryKitchen = {
   id: "019f1aec-0dec-7c06-8783-dc203ec235ba",
   pageTypeSlug: "location",
+  type: "location",
   slug: "arnolds-country-kitchen",
   title: "Arnold's Country Kitchen",
   latitude: 36.1514359,

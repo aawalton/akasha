@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const greaseMonkeyLehi = {
   id: "019f322c-96b4-7a84-95a4-5a9857fb44a7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "grease-monkey-lehi",
   title: "Grease Monkey (Lehi)",
   address: "Lehi, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hangTimeAdventureParkUtahCounty = {
   id: "019f322c-96c7-74d8-998a-f100f596f540",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hang-time-adventure-park-utah-county",
   title: "Hang Time Adventure Park (Utah County)",
   address: "Utah County, UT",

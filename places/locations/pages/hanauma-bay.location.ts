@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hanaumaBay = {
   id: "019f1b49-52d8-7819-bd3a-9f81378452e5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hanauma-bay",
   title: "Hanauma Bay",
   latitude: 30.08084,

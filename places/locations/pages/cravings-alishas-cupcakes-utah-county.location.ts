@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const cravingsAlishasCupcakesUtahCounty = {
   id: "019f322c-9404-7889-a5a2-648dddbd595c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "cravings-alishas-cupcakes-utah-county",
   title: "Cravings Alisha's Cupcakes (Utah County)",
   address: "Utah County, UT",

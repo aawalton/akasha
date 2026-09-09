@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const daliCrepesCateringCafe = {
   id: "019f1b49-51aa-7455-a355-043029a08ae4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dali-crepes-catering-cafe",
   title: "Dali Crepes Catering & Cafe",
   latitude: 39.6524621,

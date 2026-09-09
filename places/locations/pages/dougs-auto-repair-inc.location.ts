@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dougsAutoRepairInc = {
   id: "019f1b49-54b5-7c8a-9aa9-09e0c2c59c87",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dougs-auto-repair-inc",
   title: "Doug's Auto Repair Inc.",
   latitude: 45.686602,

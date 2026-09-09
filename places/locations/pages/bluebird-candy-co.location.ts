@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bluebirdCandyCo = {
   id: "019f1aec-0f0e-7c63-b0df-054bd798598f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "bluebird-candy-co",
   title: "Bluebird Candy Co",
   latitude: 41.7315843,

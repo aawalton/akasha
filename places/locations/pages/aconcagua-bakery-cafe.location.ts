@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const aconcaguaBakeryCafe = {
   id: "019f1aec-0d32-732e-9ee9-43beadc6f082",
   pageTypeSlug: "location",
+  type: "location",
   slug: "aconcagua-bakery-cafe",
   title: "Aconcagua bakery & cafe",
   latitude: 41.0702447,

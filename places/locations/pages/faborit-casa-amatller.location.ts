@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const faboritCasaAmatller = {
   id: "019f1b49-55ab-719f-9909-47d30670a5db",
   pageTypeSlug: "location",
+  type: "location",
   slug: "faborit-casa-amatller",
   title: "Faborit Casa Amatller",
   latitude: 41.3504949,

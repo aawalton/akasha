@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const dippdDesserts = {
   id: "019f1aec-0f86-70dd-8cc6-b7ba810dd99d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dippd-desserts",
   title: "Dipp'd Desserts",
   address: "356 N 750 W Ste D-7, American Fork, UT 84003, United States",

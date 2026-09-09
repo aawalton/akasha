@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const bodyBalanceMassageAndFloatAmericanFork = {
   id: "019f322c-91af-78c9-b71d-32bac067d554",
   pageTypeSlug: "location",
+  type: "location",
   slug: "body-balance-massage-and-float-american-fork",
   title: "Body Balance Massage and Float (American Fork)",
   address: "American Fork, UT",

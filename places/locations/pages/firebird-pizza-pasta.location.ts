@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const firebirdPizzaPasta = {
   id: "019f1aec-0d1f-7b66-9086-6b39428eafab",
   pageTypeSlug: "location",
+  type: "location",
   slug: "firebird-pizza-pasta",
   title: "Firebird Pizza & Pasta",
   latitude: 40.3597853,

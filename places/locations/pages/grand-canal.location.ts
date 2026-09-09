@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const grandCanal = {
   id: "019f1aec-0e1b-7a54-aa94-312680396250",
   pageTypeSlug: "location",
+  type: "location",
   slug: "grand-canal",
   title: "Grand Canal",
   latitude: 45.437773,

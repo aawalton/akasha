@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const goodHappy = {
   id: "019f1aec-0d19-78fd-b5a4-488238e47051",
   pageTypeSlug: "location",
+  type: "location",
   slug: "good-happy",
   title: "Good & Happy",
   latitude: 45.4310567,

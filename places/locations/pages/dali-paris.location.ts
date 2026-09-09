@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const daliParis = {
   id: "019f1aec-0dc7-7ba4-8ff7-d5a18f076e08",
   pageTypeSlug: "location",
+  type: "location",
   slug: "dali-paris",
   title: "Dalí Paris",
   latitude: 48.8634697,
