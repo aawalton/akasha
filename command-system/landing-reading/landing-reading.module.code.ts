@@ -25,18 +25,21 @@ export function recordLanded(given: Given, changes: readonly FileEdit[]): undefi
   }
 }
 
+export const NO_OWING: ReadonlyMap<string, boolean> = new Map()
+
 export function carryLanded(
   root: string,
   base: string,
   running: Running,
   changes: readonly FileEdit[],
-  handed: readonly Carry[]
+  handed: readonly Carry[],
+  owed: ReadonlyMap<string, boolean>
 ): undefined {
   const held: Carry[] = running.readersOweReading ? [] : [...handed]
-  const owed: string[] = []
+  const dropped: string[] = []
   for (const one of changes) {
-    if (one.readersOweReading ?? running.readersOweReading) {
-      owed.push(one.path)
+    if (owed.get(one.path) ?? running.readersOweReading) {
+      dropped.push(one.path)
       continue
     }
     if (one.body === null) continue
@@ -45,7 +48,7 @@ export function carryLanded(
     held.push({ was: one.path, now: one.path, from: blobIdOf(was) })
   }
   carryReadings(root, held)
-  dropReadings(root, owed)
+  dropReadings(root, dropped)
 }
 
 export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {

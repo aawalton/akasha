@@ -7,7 +7,7 @@ import type { Given as Arguments } from "../argument-reading/argument-reading.mo
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { preparing } from "../change-preparing/change-preparing.module.code.ts"
-import { type Bodies, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
+import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { editsOf, type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
@@ -273,7 +273,7 @@ export async function applied(
     prepared.over
   )
   if ("refusals" in done) return done
-  carryLanded(root, head, running, prepared.changes, [])
+  carryLanded(root, head, running, prepared.changes, [], owedOf(said.held))
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   const put = installingIn(root, prepared.changes, moving)
   return {

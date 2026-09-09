@@ -16,6 +16,7 @@ import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import {
   asReadIn,
   carryLanded,
+  NO_OWING,
   recordLanded,
 } from "../landing-reading/landing-reading.module.code.ts"
 import {
@@ -302,7 +303,14 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  carryLanded(given.root, base, runningOf(given.changeKind), held.changes, held.readings ?? [])
+  carryLanded(
+    given.root,
+    base,
+    runningOf(given.changeKind),
+    held.changes,
+    held.readings ?? [],
+    NO_OWING
+  )
   recordLanded(given, formatting.changes)
   const put = installingIn(given.root, held.changes, held.moves ?? [])
   return {

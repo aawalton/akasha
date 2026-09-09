@@ -7,7 +7,7 @@ import type { Kind } from "../calling/calling.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { blobIdOf, readingIn, sameBody } from "../reading/reading.module.code.ts"
-import { carryLanded } from "./landing-reading.module.code.ts"
+import { carryLanded, NO_OWING } from "./landing-reading.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -36,7 +36,7 @@ function carriedOver(kind: Kind | undefined): boolean {
   const base = baseOf(root)
   put(root, ONE_AT, AGAIN)
   const body = readFileSync(join(root, ONE_AT))
-  carryLanded(root, base, runningOf(kind), [{ path: ONE_AT, body }], [])
+  carryLanded(root, base, runningOf(kind), [{ path: ONE_AT, body }], [], NO_OWING)
   return sameBody(readingIn(root, AGENT, ONE_AT), blobIdOf(body))
 }
 
@@ -65,10 +65,14 @@ test("a path whose readers owe reading loses their readings while the path besid
     base,
     runningOf(CHECKED),
     [
-      { path: ONE_AT, body: one, readersOweReading: true },
-      { path: TWO_AT, body: two, readersOweReading: false },
+      { path: ONE_AT, body: one },
+      { path: TWO_AT, body: two },
     ],
-    []
+    [],
+    new Map([
+      [ONE_AT, true],
+      [TWO_AT, false],
+    ])
   )
 
   expect(readingIn(root, AGENT, ONE_AT)).toBe(null)
@@ -88,9 +92,10 @@ test("a path saying nothing of that flag takes what the landing as a whole says"
     runningOf(AUTHORED),
     [
       { path: ONE_AT, body: one },
-      { path: TWO_AT, body: readFileSync(join(root, TWO_AT)), readersOweReading: false },
+      { path: TWO_AT, body: readFileSync(join(root, TWO_AT)) },
     ],
-    []
+    [],
+    new Map([[TWO_AT, false]])
   )
 
   expect(readingIn(root, AGENT, ONE_AT)).toBe(null)
