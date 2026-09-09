@@ -8,7 +8,7 @@ export const cinnamonBun0496ChapterFourHundredAndEightyTwoGetASecond = {
   story: "story-read/cinnamon-bun",
   position: 496,
   ownLength: 1523,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1571080/chapter-four-hundred-and-eighty-two-get-a-second",

@@ -8,7 +8,7 @@ export const cinnamonBun0537ChapterFiveHundredAndTwentyTwoANewChapter = {
   story: "story-read/cinnamon-bun",
   position: 537,
   ownLength: 1402,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2023711/chapter-five-hundred-and-twenty-two-a-new-chapter",

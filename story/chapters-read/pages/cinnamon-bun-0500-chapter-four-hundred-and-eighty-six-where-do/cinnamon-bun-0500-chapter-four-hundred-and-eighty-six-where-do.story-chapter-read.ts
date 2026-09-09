@@ -8,7 +8,7 @@ export const cinnamonBun0500ChapterFourHundredAndEightySixWhereDo = {
   story: "story-read/cinnamon-bun",
   position: 500,
   ownLength: 1488,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1609496/chapter-four-hundred-and-eighty-six-where-do-babies",

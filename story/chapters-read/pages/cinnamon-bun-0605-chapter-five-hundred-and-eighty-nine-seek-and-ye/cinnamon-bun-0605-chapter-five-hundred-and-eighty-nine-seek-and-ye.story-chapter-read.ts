@@ -8,7 +8,7 @@ export const cinnamonBun0605ChapterFiveHundredAndEightyNineSeekAndYe = {
   story: "story-read/cinnamon-bun",
   position: 605,
   ownLength: 1453,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3519863/chapter-five-hundred-and-eighty-nine-seek-and",

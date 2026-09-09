@@ -8,7 +8,7 @@ export const cinnamonBun0555ChapterFiveHundredAndFortyLoveMatters = {
   story: "story-read/cinnamon-bun",
   position: 555,
   ownLength: 1606,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2348058/chapter-five-hundred-and-forty-love-matters",

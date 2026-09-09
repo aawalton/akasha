@@ -8,7 +8,7 @@ export const cinnamonBun0544ChapterFiveHundredAndTwentyNineIScreamYou = {
   story: "story-read/cinnamon-bun",
   position: 544,
   ownLength: 1610,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2136431/chapter-five-hundred-and-twenty-nine-i-scream",

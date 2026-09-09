@@ -8,7 +8,7 @@ export const cinnamonBun0615ChapterFiveHundredAndNinetyNineCardsOnThe = {
   story: "story-read/cinnamon-bun",
   position: 615,
   ownLength: 2299,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3834606/chapter-five-hundred-and-ninety-nine-cards-on",

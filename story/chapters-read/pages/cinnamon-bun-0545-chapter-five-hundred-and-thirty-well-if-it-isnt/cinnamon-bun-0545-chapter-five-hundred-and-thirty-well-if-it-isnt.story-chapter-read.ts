@@ -9,7 +9,7 @@ export const cinnamonBun0545ChapterFiveHundredAndThirtyWellIfItIsnt = {
   story: "story-read/cinnamon-bun",
   position: 545,
   ownLength: 1485,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2152270/chapter-five-hundred-and-thirty-well-if-it-isnt",

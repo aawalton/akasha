@@ -8,7 +8,7 @@ export const cinnamonBun0499ChapterFourHundredAndEightyFiveMoneyTalks = {
   story: "story-read/cinnamon-bun",
   position: 499,
   ownLength: 1461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1600472/chapter-four-hundred-and-eighty-five-money-talks",

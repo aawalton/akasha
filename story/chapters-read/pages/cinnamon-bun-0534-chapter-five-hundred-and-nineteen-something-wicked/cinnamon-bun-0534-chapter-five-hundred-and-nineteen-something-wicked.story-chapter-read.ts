@@ -8,7 +8,7 @@ export const cinnamonBun0534ChapterFiveHundredAndNineteenSomethingWicked = {
   story: "story-read/cinnamon-bun",
   position: 534,
   ownLength: 1508,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1986957/chapter-five-hundred-and-nineteen-something-wicked",

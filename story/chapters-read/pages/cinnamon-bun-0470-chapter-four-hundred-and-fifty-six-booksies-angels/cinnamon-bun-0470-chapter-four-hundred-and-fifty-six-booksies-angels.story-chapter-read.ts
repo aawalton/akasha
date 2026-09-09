@@ -8,7 +8,7 @@ export const cinnamonBun0470ChapterFourHundredAndFiftySixBooksiesAngels = {
   story: "story-read/cinnamon-bun",
   position: 470,
   ownLength: 1488,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1450418/chapter-four-hundred-and-fifty-six-booksies-angels",

@@ -8,7 +8,7 @@ export const cinnamonBun0514ChapterFiveHundredWorldOfDarknessBunOf = {
   story: "story-read/cinnamon-bun",
   position: 514,
   ownLength: 3273,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1749160/chapter-five-hundred-world-of-darkness-bun-of",

@@ -8,7 +8,7 @@ export const cinnamonBun0471ChapterFourHundredAndFiftySevenTwoForThe = {
   story: "story-read/cinnamon-bun",
   position: 471,
   ownLength: 1504,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1456697/chapter-four-hundred-and-fifty-seven-two-for-the",

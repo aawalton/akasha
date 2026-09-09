@@ -8,7 +8,7 @@ export const cinnamonBun0478ChapterFourHundredAndSixtyFourWelcomeAboard = {
   story: "story-read/cinnamon-bun",
   position: 478,
   ownLength: 1484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1492454/chapter-four-hundred-and-sixty-four-welcome-aboard",

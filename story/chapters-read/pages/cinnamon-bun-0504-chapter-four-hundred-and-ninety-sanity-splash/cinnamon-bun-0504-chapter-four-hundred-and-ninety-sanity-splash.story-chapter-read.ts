@@ -8,7 +8,7 @@ export const cinnamonBun0504ChapterFourHundredAndNinetySanitySplash = {
   story: "story-read/cinnamon-bun",
   position: 504,
   ownLength: 1449,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1647097/chapter-four-hundred-and-ninety-sanity-splash",

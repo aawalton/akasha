@@ -8,7 +8,7 @@ export const cinnamonBun0533ChapterFiveHundredAndEighteenPostIDos = {
   story: "story-read/cinnamon-bun",
   position: 533,
   ownLength: 1499,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1962754/chapter-five-hundred-and-eighteen-post-i-dos",

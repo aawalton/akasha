@@ -8,7 +8,7 @@ export const cinnamonBun0593ChapterFiveHundredAndSeventySevenCloudy = {
   story: "story-read/cinnamon-bun",
   position: 593,
   ownLength: 1555,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3167130/chapter-five-hundred-and-seventy-seven-cloudy",

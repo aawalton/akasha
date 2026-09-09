@@ -8,7 +8,7 @@ export const cinnamonBun0486ChapterFourHundredAndSeventyTwoAllYouCant = {
   story: "story-read/cinnamon-bun",
   position: 486,
   ownLength: 1508,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1525896/chapter-four-hundred-and-seventy-two-all-you-cant",

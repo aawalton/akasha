@@ -8,7 +8,7 @@ export const cinnamonBun0614ChapterFiveHundredAndNinetyEightMyEvilPlan = {
   story: "story-read/cinnamon-bun",
   position: 614,
   ownLength: 2038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3804572/chapter-five-hundred-and-ninety-eight-my-evil",

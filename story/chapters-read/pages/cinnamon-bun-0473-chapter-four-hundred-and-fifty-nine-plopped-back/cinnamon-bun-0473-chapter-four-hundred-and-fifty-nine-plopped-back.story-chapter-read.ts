@@ -8,7 +8,7 @@ export const cinnamonBun0473ChapterFourHundredAndFiftyNinePloppedBack = {
   story: "story-read/cinnamon-bun",
   position: 473,
   ownLength: 1527,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1465175/chapter-four-hundred-and-fifty-nine-plopped-back",

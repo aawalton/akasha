@@ -8,7 +8,7 @@ export const cinnamonBun0469ChapterFourHundredAndFiftyFiveChargeOfThe = {
   story: "story-read/cinnamon-bun",
   position: 469,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1447997/chapter-four-hundred-and-fifty-five-charge-of",

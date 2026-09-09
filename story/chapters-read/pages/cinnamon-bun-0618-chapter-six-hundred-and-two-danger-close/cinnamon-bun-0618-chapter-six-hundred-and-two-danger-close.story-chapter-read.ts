@@ -6,7 +6,7 @@ export const cinnamonBun0618ChapterSixHundredAndTwoDangerClose = {
   slug: "cinnamon-bun-0618-chapter-six-hundred-and-two-danger-close",
   position: 618,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3935131",
   source: "royal-road",
   title: "Chapter Six Hundred and Two - Danger Close",

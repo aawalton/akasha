@@ -8,7 +8,7 @@ export const cinnamonBun0556ChapterFiveHundredAndFortyOneGoWestYoung = {
   story: "story-read/cinnamon-bun",
   position: 556,
   ownLength: 1461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2376461/chapter-five-hundred-and-forty-one-go-west-young",

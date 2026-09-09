@@ -8,7 +8,7 @@ export const cinnamonBun0567ChapterFiveHundredAndFiftyTwoIHaveTheHigh = {
   story: "story-read/cinnamon-bun",
   position: 567,
   ownLength: 1574,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2572746/chapter-five-hundred-and-fifty-two-i-have-the",

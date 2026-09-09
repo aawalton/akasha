@@ -8,7 +8,7 @@ export const cinnamonBun0527ChapterFiveHundredAndTwelveCleaningUpThe = {
   story: "story-read/cinnamon-bun",
   position: 527,
   ownLength: 1606,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-06",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1888141/chapter-five-hundred-and-twelve-cleaning-up-the",

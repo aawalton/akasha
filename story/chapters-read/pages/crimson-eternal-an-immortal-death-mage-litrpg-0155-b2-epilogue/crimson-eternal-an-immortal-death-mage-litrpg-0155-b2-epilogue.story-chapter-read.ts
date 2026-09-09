@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0155B2Epilogue = {
   position: 155,
   ownLength: 1125,
   ownProgress: 1125,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:10:59.505Z",
   publishedAt: "2024-05-08",
   externalLink:

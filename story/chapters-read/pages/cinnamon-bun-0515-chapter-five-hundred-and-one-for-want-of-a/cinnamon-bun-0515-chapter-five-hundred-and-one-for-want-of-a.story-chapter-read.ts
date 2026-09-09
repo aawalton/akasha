@@ -8,7 +8,7 @@ export const cinnamonBun0515ChapterFiveHundredAndOneForWantOfA = {
   story: "story-read/cinnamon-bun",
   position: 515,
   ownLength: 1726,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1757792/chapter-five-hundred-and-one-for-want-of-a-thousand",

@@ -8,7 +8,7 @@ export const cinnamonBun0476ChapterFourHundredAndSixtyTwoAffection = {
   story: "story-read/cinnamon-bun",
   position: 476,
   ownLength: 1461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1479648/chapter-four-hundred-and-sixty-two-affection",

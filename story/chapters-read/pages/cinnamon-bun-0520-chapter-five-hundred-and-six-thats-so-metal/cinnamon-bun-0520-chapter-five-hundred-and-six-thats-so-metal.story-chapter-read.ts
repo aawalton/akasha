@@ -8,7 +8,7 @@ export const cinnamonBun0520ChapterFiveHundredAndSixThatsSoMetal = {
   story: "story-read/cinnamon-bun",
   position: 520,
   ownLength: 1594,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1808598/chapter-five-hundred-and-six-thats-so-metal",

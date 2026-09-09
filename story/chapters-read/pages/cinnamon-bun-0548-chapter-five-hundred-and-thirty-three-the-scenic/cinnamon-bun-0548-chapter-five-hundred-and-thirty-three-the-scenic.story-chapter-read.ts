@@ -8,7 +8,7 @@ export const cinnamonBun0548ChapterFiveHundredAndThirtyThreeTheScenic = {
   story: "story-read/cinnamon-bun",
   position: 548,
   ownLength: 1531,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2206956/chapter-five-hundred-and-thirty-three-the-scenic",

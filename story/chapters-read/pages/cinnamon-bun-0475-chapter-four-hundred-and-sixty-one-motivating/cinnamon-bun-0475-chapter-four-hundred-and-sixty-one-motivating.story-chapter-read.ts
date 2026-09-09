@@ -8,7 +8,7 @@ export const cinnamonBun0475ChapterFourHundredAndSixtyOneMotivating = {
   story: "story-read/cinnamon-bun",
   position: 475,
   ownLength: 1459,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1473557/chapter-four-hundred-and-sixty-one-motivating",

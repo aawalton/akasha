@@ -8,7 +8,7 @@ export const cinnamonBun0565ChapterFiveHundredAndFiftySlowOnTheUptake = {
   story: "story-read/cinnamon-bun",
   position: 565,
   ownLength: 1386,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2534626/chapter-five-hundred-and-fifty-slow-on-the-uptake",

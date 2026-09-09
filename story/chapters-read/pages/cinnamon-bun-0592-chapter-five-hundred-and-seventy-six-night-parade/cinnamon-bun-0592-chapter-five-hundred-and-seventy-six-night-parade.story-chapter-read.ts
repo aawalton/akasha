@@ -8,7 +8,7 @@ export const cinnamonBun0592ChapterFiveHundredAndSeventySixNightParade = {
   story: "story-read/cinnamon-bun",
   position: 592,
   ownLength: 1453,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3140453/chapter-five-hundred-and-seventy-six-night-parade",

@@ -8,7 +8,7 @@ export const cinnamonBun0464ChapterFourHundredAndFiftyFishingFor = {
   story: "story-read/cinnamon-bun",
   position: 464,
   ownLength: 1557,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1427533/chapter-four-hundred-and-fifty-fishing-for-information",

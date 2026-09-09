@@ -8,7 +8,7 @@ export const cinnamonBun0479ChapterFourHundredAndSixtyFiveWakeUpAnd = {
   story: "story-read/cinnamon-bun",
   position: 479,
   ownLength: 1513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1495064/chapter-four-hundred-and-sixty-five-wake-up-and",

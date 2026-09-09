@@ -8,7 +8,7 @@ export const cinnamonBun0550ChapterFiveHundredAndThirtyFiveAManOutOf = {
   story: "story-read/cinnamon-bun",
   position: 550,
   ownLength: 1535,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2243654/chapter-five-hundred-and-thirty-five-a-man-out",

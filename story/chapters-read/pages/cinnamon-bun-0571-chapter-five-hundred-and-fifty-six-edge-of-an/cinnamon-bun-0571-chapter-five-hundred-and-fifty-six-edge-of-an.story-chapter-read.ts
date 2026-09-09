@@ -8,7 +8,7 @@ export const cinnamonBun0571ChapterFiveHundredAndFiftySixEdgeOfAn = {
   story: "story-read/cinnamon-bun",
   position: 571,
   ownLength: 1497,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2644244/chapter-five-hundred-and-fifty-six-edge-of-an",

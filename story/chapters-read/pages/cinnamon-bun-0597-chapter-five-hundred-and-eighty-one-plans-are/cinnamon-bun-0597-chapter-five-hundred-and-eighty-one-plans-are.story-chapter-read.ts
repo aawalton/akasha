@@ -8,7 +8,7 @@ export const cinnamonBun0597ChapterFiveHundredAndEightyOnePlansAre = {
   story: "story-read/cinnamon-bun",
   position: 597,
   ownLength: 1700,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3276707/chapter-five-hundred-and-eighty-one-plans-are",

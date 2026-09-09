@@ -8,7 +8,7 @@ export const cinnamonBun0561ChapterFiveHundredAndFortySixComeHereAnd = {
   story: "story-read/cinnamon-bun",
   position: 561,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2460195/chapter-five-hundred-and-forty-six-come-here-and",

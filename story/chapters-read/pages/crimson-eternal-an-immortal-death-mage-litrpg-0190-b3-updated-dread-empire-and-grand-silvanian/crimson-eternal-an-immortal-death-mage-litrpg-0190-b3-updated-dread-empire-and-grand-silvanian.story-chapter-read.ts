@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0190B3UpdatedDreadEmpireAndG
   position: 190,
   ownLength: 51,
   ownProgress: 51,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:12:10.956Z",
   publishedAt: "2024-08-05",
   externalLink:

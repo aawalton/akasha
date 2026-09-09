@@ -10,7 +10,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0011ScheduleDiscordPatreonAn
     position: 11,
     ownLength: 413,
     ownProgress: 413,
-    unitSlug: "words",
+    unit: "words",
     completedAt: "2026-06-29T19:06:12.578Z",
     publishedAt: "2024-01-01",
     externalLink:

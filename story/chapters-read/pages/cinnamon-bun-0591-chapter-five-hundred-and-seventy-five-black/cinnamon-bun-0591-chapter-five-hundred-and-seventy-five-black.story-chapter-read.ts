@@ -8,7 +8,7 @@ export const cinnamonBun0591ChapterFiveHundredAndSeventyFiveBlack = {
   story: "story-read/cinnamon-bun",
   position: 591,
   ownLength: 2089,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3116131/chapter-five-hundred-and-seventy-five-black-project",

@@ -8,7 +8,7 @@ export const cinnamonBun0586ChapterFiveHundredAndSeventyWritingNearlyOn = {
   story: "story-read/cinnamon-bun",
   position: 586,
   ownLength: 1567,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2965200/chapter-five-hundred-and-seventy-writing-nearly",

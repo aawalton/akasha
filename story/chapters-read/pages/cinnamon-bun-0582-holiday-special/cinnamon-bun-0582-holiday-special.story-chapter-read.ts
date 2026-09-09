@@ -8,7 +8,7 @@ export const cinnamonBun0582HolidaySpecial = {
   story: "story-read/cinnamon-bun",
   position: 582,
   ownLength: 1034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2877304/holiday-special",

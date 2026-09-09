@@ -8,7 +8,7 @@ export const cinnamonBun0492ChapterFourHundredAndSeventyEightThereWere = {
   story: "story-read/cinnamon-bun",
   position: 492,
   ownLength: 1514,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1551579/chapter-four-hundred-and-seventy-eight-there-were",

@@ -8,7 +8,7 @@ export const cinnamonBun0610ChapterFiveHundredAndNinetyFourDustBunnies = {
   story: "story-read/cinnamon-bun",
   position: 610,
   ownLength: 1451,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3681032/chapter-five-hundred-and-ninety-four-dust-bunnies",

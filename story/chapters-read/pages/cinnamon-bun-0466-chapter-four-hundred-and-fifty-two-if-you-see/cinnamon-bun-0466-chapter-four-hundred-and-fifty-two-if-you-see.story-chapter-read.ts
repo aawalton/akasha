@@ -8,7 +8,7 @@ export const cinnamonBun0466ChapterFourHundredAndFiftyTwoIfYouSee = {
   story: "story-read/cinnamon-bun",
   position: 466,
   ownLength: 1555,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1435737/chapter-four-hundred-and-fifty-two-if-you-see",

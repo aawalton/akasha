@@ -8,7 +8,7 @@ export const cinnamonBun0578ChapterFiveHundredAndSixtyThreeAnchors = {
   story: "story-read/cinnamon-bun",
   position: 578,
   ownLength: 1508,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2794957/chapter-five-hundred-and-sixty-three-anchors-aweigh",

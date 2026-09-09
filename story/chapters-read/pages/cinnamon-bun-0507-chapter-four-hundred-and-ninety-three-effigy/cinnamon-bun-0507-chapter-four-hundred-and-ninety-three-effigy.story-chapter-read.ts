@@ -8,7 +8,7 @@ export const cinnamonBun0507ChapterFourHundredAndNinetyThreeEffigy = {
   story: "story-read/cinnamon-bun",
   position: 507,
   ownLength: 1552,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1672385/chapter-four-hundred-and-ninety-three-effigy",

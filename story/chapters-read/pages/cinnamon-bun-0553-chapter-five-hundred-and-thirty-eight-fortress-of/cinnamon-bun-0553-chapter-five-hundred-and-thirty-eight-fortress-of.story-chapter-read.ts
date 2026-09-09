@@ -8,7 +8,7 @@ export const cinnamonBun0553ChapterFiveHundredAndThirtyEightFortressOf = {
   story: "story-read/cinnamon-bun",
   position: 553,
   ownLength: 1795,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2312428/chapter-five-hundred-and-thirty-eight-fortress",

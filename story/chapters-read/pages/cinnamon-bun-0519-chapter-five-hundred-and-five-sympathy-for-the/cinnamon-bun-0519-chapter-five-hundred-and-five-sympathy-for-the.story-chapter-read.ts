@@ -8,7 +8,7 @@ export const cinnamonBun0519ChapterFiveHundredAndFiveSympathyForThe = {
   story: "story-read/cinnamon-bun",
   position: 519,
   ownLength: 1664,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1799216/chapter-five-hundred-and-five-sympathy-for-the",

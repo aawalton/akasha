@@ -8,7 +8,7 @@ export const cinnamonBun0523ChapterFiveHundredAndNineAddressingProblems = {
   story: "story-read/cinnamon-bun",
   position: 523,
   ownLength: 1722,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1841794/chapter-five-hundred-and-nine-addressing-problems",

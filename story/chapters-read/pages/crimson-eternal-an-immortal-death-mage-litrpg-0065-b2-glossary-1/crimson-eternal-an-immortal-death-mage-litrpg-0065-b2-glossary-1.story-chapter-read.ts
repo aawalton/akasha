@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0065B2Glossary1 = {
   position: 65,
   ownLength: 3582,
   ownProgress: 3582,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:08:07.390Z",
   publishedAt: "2024-01-27",
   externalLink:

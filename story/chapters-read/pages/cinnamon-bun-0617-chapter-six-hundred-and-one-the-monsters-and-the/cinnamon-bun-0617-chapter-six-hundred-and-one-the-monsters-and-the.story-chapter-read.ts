@@ -8,7 +8,7 @@ export const cinnamonBun0617ChapterSixHundredAndOneTheMonstersAndThe = {
   story: "story-read/cinnamon-bun",
   position: 617,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3900833/chapter-six-hundred-and-one-the-monsters-and-the",

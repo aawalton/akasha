@@ -8,7 +8,7 @@ export const cinnamonBun0535ChapterFiveHundredAndTwentyMysteryBox = {
   story: "story-read/cinnamon-bun",
   position: 535,
   ownLength: 1516,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1998903/chapter-five-hundred-and-twenty-mystery-box",

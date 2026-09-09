@@ -8,7 +8,7 @@ export const cinnamonBun0564ChapterFiveHundredAndFortyNineAllFourOne = {
   story: "story-read/cinnamon-bun",
   position: 564,
   ownLength: 1473,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2516456/chapter-five-hundred-and-forty-nine-all-four-one",

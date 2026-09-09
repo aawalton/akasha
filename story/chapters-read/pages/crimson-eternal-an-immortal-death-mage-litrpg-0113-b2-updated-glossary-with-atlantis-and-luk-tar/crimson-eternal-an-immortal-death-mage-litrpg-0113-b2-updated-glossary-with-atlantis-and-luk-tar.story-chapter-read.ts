@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0113B2UpdatedGlossaryWithAtl
   position: 113,
   ownLength: 4917,
   ownProgress: 4917,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:09:47.772Z",
   publishedAt: "2024-02-27",
   externalLink:

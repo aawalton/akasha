@@ -9,7 +9,7 @@ export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
   story: "story-read/cinnamon-bun",
   position: 525,
   ownLength: 1469,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1874924/chapter-five-hundred-and-eleven-proactively-circling",

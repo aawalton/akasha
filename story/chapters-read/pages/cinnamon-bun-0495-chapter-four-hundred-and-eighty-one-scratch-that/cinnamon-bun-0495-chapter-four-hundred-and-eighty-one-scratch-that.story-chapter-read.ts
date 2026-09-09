@@ -8,7 +8,7 @@ export const cinnamonBun0495ChapterFourHundredAndEightyOneScratchThat = {
   story: "story-read/cinnamon-bun",
   position: 495,
   ownLength: 1558,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1569311/chapter-four-hundred-and-eighty-one-scratch-that",

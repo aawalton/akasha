@@ -8,7 +8,7 @@ export const cinnamonBun0538ChapterFiveHundredAndTwentyThreeLookingA = {
   story: "story-read/cinnamon-bun",
   position: 538,
   ownLength: 1461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2036922/chapter-five-hundred-and-twenty-three-looking",

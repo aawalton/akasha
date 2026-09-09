@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0094B2LukTarWarMaps = {
   position: 94,
   ownLength: 101,
   ownProgress: 101,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:09:08.100Z",
   publishedAt: "2024-02-10",
   externalLink:

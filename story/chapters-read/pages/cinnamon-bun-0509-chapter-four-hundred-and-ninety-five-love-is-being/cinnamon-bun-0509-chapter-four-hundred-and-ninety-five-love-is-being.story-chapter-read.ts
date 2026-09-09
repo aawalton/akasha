@@ -8,7 +8,7 @@ export const cinnamonBun0509ChapterFourHundredAndNinetyFiveLoveIsBeing = {
   story: "story-read/cinnamon-bun",
   position: 509,
   ownLength: 1455,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1703257/chapter-four-hundred-and-ninety-five-love-is-being",

@@ -8,7 +8,7 @@ export const cinnamonBun0581ChapterFiveHundredAndSixtySixNoRedshirts = {
   story: "story-read/cinnamon-bun",
   position: 581,
   ownLength: 1442,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2856467/chapter-five-hundred-and-sixty-six-no-redshirts",

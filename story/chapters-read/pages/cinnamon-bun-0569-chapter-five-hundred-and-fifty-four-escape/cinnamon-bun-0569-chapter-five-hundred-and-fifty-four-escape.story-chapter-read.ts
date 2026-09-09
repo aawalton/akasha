@@ -8,7 +8,7 @@ export const cinnamonBun0569ChapterFiveHundredAndFiftyFourEscape = {
   story: "story-read/cinnamon-bun",
   position: 569,
   ownLength: 1781,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2608844/chapter-five-hundred-and-fifty-four-escape-velocity",

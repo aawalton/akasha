@@ -8,7 +8,7 @@ export const cinnamonBun0557ChapterFiveHundredAndFortyTwoComeHereAlive = {
   story: "story-read/cinnamon-bun",
   position: 557,
   ownLength: 1541,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2385427/chapter-five-hundred-and-forty-two-come-here-alive",

@@ -8,7 +8,7 @@ export const cinnamonBun0588ChapterFiveHundredAndSeventyTwoNthTimesThe = {
   story: "story-read/cinnamon-bun",
   position: 588,
   ownLength: 1516,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3011802/chapter-five-hundred-and-seventy-two-nth-times",

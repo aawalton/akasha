@@ -8,7 +8,7 @@ export const cinnamonBun0526AwensHalloweenSpecial = {
   story: "story-read/cinnamon-bun",
   position: 526,
   ownLength: 1334,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1876903/awens-halloween-special",

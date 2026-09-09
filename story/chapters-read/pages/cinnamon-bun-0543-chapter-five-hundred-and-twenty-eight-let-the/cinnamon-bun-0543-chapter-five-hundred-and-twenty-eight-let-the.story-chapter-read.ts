@@ -8,7 +8,7 @@ export const cinnamonBun0543ChapterFiveHundredAndTwentyEightLetThe = {
   story: "story-read/cinnamon-bun",
   position: 543,
   ownLength: 1846,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2122478/chapter-five-hundred-and-twenty-eight-let-the",

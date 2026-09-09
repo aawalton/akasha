@@ -8,7 +8,7 @@ export const cinnamonBun0522ChapterFiveHundredAndEightBridalWail = {
   story: "story-read/cinnamon-bun",
   position: 522,
   ownLength: 1467,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1831464/chapter-five-hundred-and-eight-bridal-wail",

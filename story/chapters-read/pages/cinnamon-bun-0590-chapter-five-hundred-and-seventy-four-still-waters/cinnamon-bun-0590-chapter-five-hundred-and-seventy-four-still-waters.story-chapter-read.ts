@@ -8,7 +8,7 @@ export const cinnamonBun0590ChapterFiveHundredAndSeventyFourStillWaters = {
   story: "story-read/cinnamon-bun",
   position: 590,
   ownLength: 1575,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3068611/chapter-five-hundred-and-seventy-four-still-waters",

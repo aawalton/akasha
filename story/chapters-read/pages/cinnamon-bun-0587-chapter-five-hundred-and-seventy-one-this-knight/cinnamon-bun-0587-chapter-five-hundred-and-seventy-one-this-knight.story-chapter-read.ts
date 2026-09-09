@@ -8,7 +8,7 @@ export const cinnamonBun0587ChapterFiveHundredAndSeventyOneThisKnight = {
   story: "story-read/cinnamon-bun",
   position: 587,
   ownLength: 1570,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2988812/chapter-five-hundred-and-seventy-one-this-knight",

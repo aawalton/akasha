@@ -8,7 +8,7 @@ export const cinnamonBun0485ChapterFourHundredAndSeventyOneHaveYourDay = {
   story: "story-read/cinnamon-bun",
   position: 485,
   ownLength: 1536,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1520176/chapter-four-hundred-and-seventy-one-have-your",

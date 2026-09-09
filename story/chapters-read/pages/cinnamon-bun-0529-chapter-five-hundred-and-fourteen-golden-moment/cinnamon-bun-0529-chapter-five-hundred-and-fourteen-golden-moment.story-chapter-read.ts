@@ -8,7 +8,7 @@ export const cinnamonBun0529ChapterFiveHundredAndFourteenGoldenMoment = {
   story: "story-read/cinnamon-bun",
   position: 529,
   ownLength: 1469,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1915069/chapter-five-hundred-and-fourteen-golden-moment",

@@ -9,7 +9,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0100B2Chapter31 = {
   position: 100,
   ownLength: 1535,
   ownProgress: 1535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:09:20.348Z",
   publishedAt: "2024-02-13",
   externalLink:

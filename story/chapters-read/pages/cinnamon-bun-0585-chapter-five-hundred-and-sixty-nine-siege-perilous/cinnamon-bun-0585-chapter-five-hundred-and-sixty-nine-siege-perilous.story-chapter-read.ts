@@ -8,7 +8,7 @@ export const cinnamonBun0585ChapterFiveHundredAndSixtyNineSiegePerilous = {
   story: "story-read/cinnamon-bun",
   position: 585,
   ownLength: 1453,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2942393/chapter-five-hundred-and-sixty-nine-siege-perilous",

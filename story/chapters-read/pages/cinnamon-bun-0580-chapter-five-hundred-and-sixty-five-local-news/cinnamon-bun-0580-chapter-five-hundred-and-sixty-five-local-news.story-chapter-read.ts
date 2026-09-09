@@ -8,7 +8,7 @@ export const cinnamonBun0580ChapterFiveHundredAndSixtyFiveLocalNews = {
   story: "story-read/cinnamon-bun",
   position: 580,
   ownLength: 1450,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2836358/chapter-five-hundred-and-sixty-five-local-news",

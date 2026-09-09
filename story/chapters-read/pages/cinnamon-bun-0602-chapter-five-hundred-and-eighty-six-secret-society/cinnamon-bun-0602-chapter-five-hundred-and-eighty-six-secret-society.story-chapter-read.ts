@@ -8,7 +8,7 @@ export const cinnamonBun0602ChapterFiveHundredAndEightySixSecretSociety = {
   story: "story-read/cinnamon-bun",
   position: 602,
   ownLength: 1448,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3422600/chapter-five-hundred-and-eighty-six-secret-society",

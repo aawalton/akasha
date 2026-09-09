@@ -8,7 +8,7 @@ export const cinnamonBun0498ChapterFourHundredAndEightyFourZapZap = {
   story: "story-read/cinnamon-bun",
   position: 498,
   ownLength: 1493,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1589692/chapter-four-hundred-and-eighty-four-zap-zap",

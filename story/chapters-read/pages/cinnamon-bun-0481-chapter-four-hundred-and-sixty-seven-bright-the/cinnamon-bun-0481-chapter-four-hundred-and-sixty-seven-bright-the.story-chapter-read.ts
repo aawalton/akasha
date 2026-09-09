@@ -8,7 +8,7 @@ export const cinnamonBun0481ChapterFourHundredAndSixtySevenBrightThe = {
   story: "story-read/cinnamon-bun",
   position: 481,
   ownLength: 1468,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1502642/chapter-four-hundred-and-sixty-seven-bright-the",

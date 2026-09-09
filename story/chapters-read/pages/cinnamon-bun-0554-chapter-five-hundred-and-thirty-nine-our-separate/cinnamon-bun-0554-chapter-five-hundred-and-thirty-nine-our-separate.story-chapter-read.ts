@@ -8,7 +8,7 @@ export const cinnamonBun0554ChapterFiveHundredAndThirtyNineOurSeparate = {
   story: "story-read/cinnamon-bun",
   position: 554,
   ownLength: 1578,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2331258/chapter-five-hundred-and-thirty-nine-our-separate",

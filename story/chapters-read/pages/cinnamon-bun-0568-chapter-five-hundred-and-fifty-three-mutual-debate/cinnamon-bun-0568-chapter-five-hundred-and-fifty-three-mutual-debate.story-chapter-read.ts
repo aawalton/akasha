@@ -8,7 +8,7 @@ export const cinnamonBun0568ChapterFiveHundredAndFiftyThreeMutualDebate = {
   story: "story-read/cinnamon-bun",
   position: 568,
   ownLength: 2018,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2591393/chapter-five-hundred-and-fifty-three-mutual-debate",

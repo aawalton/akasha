@@ -8,7 +8,7 @@ export const cinnamonBun0616ChapterSixHundredDifferencesOfOpinion = {
   story: "story-read/cinnamon-bun",
   position: 616,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3868450/chapter-six-hundred-differences-of-opinion",

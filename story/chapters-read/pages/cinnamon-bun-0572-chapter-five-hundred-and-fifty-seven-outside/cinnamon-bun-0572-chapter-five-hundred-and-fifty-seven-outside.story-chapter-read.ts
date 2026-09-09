@@ -8,7 +8,7 @@ export const cinnamonBun0572ChapterFiveHundredAndFiftySevenOutside = {
   story: "story-read/cinnamon-bun",
   position: 572,
   ownLength: 1509,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2662081/chapter-five-hundred-and-fifty-seven-outside-context",

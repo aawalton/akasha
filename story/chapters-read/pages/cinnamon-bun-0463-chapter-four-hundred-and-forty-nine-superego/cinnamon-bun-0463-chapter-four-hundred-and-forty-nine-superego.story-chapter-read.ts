@@ -8,7 +8,7 @@ export const cinnamonBun0463ChapterFourHundredAndFortyNineSuperego = {
   story: "story-read/cinnamon-bun",
   position: 463,
   ownLength: 1529,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1425542/chapter-four-hundred-and-forty-nine-superego",

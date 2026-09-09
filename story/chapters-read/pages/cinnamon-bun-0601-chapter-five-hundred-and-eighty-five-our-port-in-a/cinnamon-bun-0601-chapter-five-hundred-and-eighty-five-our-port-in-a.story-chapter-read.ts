@@ -8,7 +8,7 @@ export const cinnamonBun0601ChapterFiveHundredAndEightyFiveOurPortInA = {
   story: "story-read/cinnamon-bun",
   position: 601,
   ownLength: 1665,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3390422/chapter-five-hundred-and-eighty-five-our-port",

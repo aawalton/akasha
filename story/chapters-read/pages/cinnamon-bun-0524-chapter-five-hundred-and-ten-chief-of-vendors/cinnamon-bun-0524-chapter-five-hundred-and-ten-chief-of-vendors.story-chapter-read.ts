@@ -8,7 +8,7 @@ export const cinnamonBun0524ChapterFiveHundredAndTenChiefOfVendors = {
   story: "story-read/cinnamon-bun",
   position: 524,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1865122/chapter-five-hundred-and-ten-chief-of-vendors",

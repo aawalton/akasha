@@ -8,7 +8,7 @@ export const cinnamonBun0511ChapterFourHundredAndNinetySevenOldHistory = {
   story: "story-read/cinnamon-bun",
   position: 511,
   ownLength: 1454,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1721916/chapter-four-hundred-and-ninety-seven-old-history",

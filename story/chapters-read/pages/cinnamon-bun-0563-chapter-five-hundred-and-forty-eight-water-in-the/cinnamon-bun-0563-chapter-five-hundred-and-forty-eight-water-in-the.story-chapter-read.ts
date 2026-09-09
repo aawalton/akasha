@@ -8,7 +8,7 @@ export const cinnamonBun0563ChapterFiveHundredAndFortyEightWaterInThe = {
   story: "story-read/cinnamon-bun",
   position: 563,
   ownLength: 1470,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2497429/chapter-five-hundred-and-forty-eight-water-in",

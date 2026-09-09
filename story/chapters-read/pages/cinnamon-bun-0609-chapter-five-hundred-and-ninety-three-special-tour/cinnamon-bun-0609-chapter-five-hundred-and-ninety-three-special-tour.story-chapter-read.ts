@@ -8,7 +8,7 @@ export const cinnamonBun0609ChapterFiveHundredAndNinetyThreeSpecialTour = {
   story: "story-read/cinnamon-bun",
   position: 609,
   ownLength: 1493,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3649328/chapter-five-hundred-and-ninety-three-special",

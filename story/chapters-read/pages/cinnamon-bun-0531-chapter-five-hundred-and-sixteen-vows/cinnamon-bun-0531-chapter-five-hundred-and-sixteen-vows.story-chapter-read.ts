@@ -8,7 +8,7 @@ export const cinnamonBun0531ChapterFiveHundredAndSixteenVows = {
   story: "story-read/cinnamon-bun",
   position: 531,
   ownLength: 1954,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1939381/chapter-five-hundred-and-sixteen-vows",

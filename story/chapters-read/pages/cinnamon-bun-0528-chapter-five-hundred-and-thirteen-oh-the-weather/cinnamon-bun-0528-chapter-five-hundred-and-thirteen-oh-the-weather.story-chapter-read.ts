@@ -8,7 +8,7 @@ export const cinnamonBun0528ChapterFiveHundredAndThirteenOhTheWeather = {
   story: "story-read/cinnamon-bun",
   position: 528,
   ownLength: 1639,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/1901960/chapter-five-hundred-and-thirteen-oh-the-weather",

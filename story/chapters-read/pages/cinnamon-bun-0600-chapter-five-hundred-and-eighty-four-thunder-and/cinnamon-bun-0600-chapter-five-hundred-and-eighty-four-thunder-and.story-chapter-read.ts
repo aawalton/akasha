@@ -9,7 +9,7 @@ export const cinnamonBun0600ChapterFiveHundredAndEightyFourThunderAnd = {
   story: "story-read/cinnamon-bun",
   position: 600,
   ownLength: 1513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3362406/chapter-five-hundred-and-eighty-four-thunder-and",

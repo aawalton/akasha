@@ -8,7 +8,7 @@ export const cinnamonBun0552ChapterFiveHundredAndThirtySeven = {
   story: "story-read/cinnamon-bun",
   position: 552,
   ownLength: 1620,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/2278292/chapter-five-hundred-and-thirty-seven-unpublishable",

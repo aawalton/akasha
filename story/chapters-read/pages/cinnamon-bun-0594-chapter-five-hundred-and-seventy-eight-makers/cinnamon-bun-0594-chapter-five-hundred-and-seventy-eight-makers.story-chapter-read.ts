@@ -8,7 +8,7 @@ export const cinnamonBun0594ChapterFiveHundredAndSeventyEightMakers = {
   story: "story-read/cinnamon-bun",
   position: 594,
   ownLength: 1501,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3192473/chapter-five-hundred-and-seventy-eight-makers",
