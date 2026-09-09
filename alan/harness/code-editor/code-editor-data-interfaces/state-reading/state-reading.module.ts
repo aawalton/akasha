@@ -45,5 +45,17 @@ export const stateReading = {
       invariantKind: "absence",
       statement: "Nothing here works a picture out from the repository.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A read that is saved changes nothing a caller can see.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A test fails where the name filter is taken out.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The name filter is shown by the count of events a folder raises.",
+    },
   ],
 } as const satisfies Module
