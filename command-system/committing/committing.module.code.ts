@@ -221,13 +221,13 @@ function identifying(writer: string): readonly string[] {
   return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
 }
 
-function blobFor(root: string, path: string): string {
-  return gitIn(root, ["hash-object", "-w", "--", path]).trim()
+function blobOf(root: string, body: Uint8Array): string {
+  return gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: body }).trim()
 }
 
 export function committed(
   root: string,
-  wrote: readonly string[],
+  wrote: ReadonlyMap<string, Uint8Array>,
   took: readonly string[],
   message: string,
   writer: string | null
@@ -235,9 +235,9 @@ export function committed(
   const head = nameOf(root)
   if (head === UNNAMED) throw new Error("HEAD names no commit, so nothing lands onto it")
   const was = gitIn(root, ["rev-parse", `${head}^{tree}`]).trim()
-  const modes = modesFor(root, head, wrote, took)
+  const modes = modesFor(root, head, [...wrote.keys()], took)
   const put = new Map<string, string | null>()
-  for (const one of wrote) put.set(one, blobFor(root, one))
+  for (const [path, body] of wrote) put.set(path, blobOf(root, body))
   for (const one of took) put.set(one, null)
   const tree = treeFrom(root, was, nodeOf(put), modes, "") ?? madeFrom(root, [])
   if (tree === was) return null

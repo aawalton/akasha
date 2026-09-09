@@ -176,7 +176,7 @@ test("a path that is no plain file keeps the mode HEAD recorded for it", () => {
   symlinkSync("one.txt", join(root, "link"))
   tookAnother(root, "link")
   expect(landedMode(root, "link")).toBe("120000")
-  committed(root, ["link"], [], "the link again", null)
+  committed(root, new Map([["link", bytes("one.txt")]]), [], "the link again", null)
   expect(landedMode(root, "link")).toBe("120000")
 })
 

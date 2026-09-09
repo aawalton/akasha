@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
@@ -108,10 +108,11 @@ export function headOf(root: string): string {
 }
 
 function committedPatch(root: string, at: string, why: string): undefined {
-  const there = existsSync(join(root, at))
+  const body = existsSync(join(root, at)) ? readFileSync(join(root, at)) : null
+  const wrote = new Map<string, Uint8Array>(body === null ? [] : [[at, body]])
   try {
     holding(root, () => {
-      committed(root, there ? [at] : [], there ? [] : [at], `${at} ${why}`, null)
+      committed(root, wrote, body === null ? [at] : [], `${at} ${why}`, null)
     })
   } catch {}
 }

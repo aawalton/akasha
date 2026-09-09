@@ -151,6 +151,22 @@ function wroteOnto(
   return { wrote, took }
 }
 
+function bodiesOf(
+  putting: readonly FileEdit[],
+  moving: readonly FileMove[],
+  onto: readonly FileEdit[],
+  before: ReadonlyMap<string, Uint8Array | null>
+): ReadonlyMap<string, Uint8Array> {
+  const held = new Map<string, Uint8Array>()
+  for (const one of putting) if (one.body !== null) held.set(one.path, one.body)
+  for (const one of moving) {
+    const body = before.get(one.from) ?? null
+    if (body !== null) held.set(one.to, body)
+  }
+  for (const one of onto) if (one.body !== null) held.set(one.path, one.body)
+  return held
+}
+
 function heldBack(
   root: string,
   changed: readonly FileEdit[]
@@ -405,24 +421,19 @@ export async function landing(
     ])
     const keeping = indexingLoaded()
     try {
-      const put = wroteOnto(
-        root,
-        split.committing.filter((one) => !lands.has(one.path))
-      )
+      const putting = split.committing.filter((one) => !lands.has(one.path))
+      const put = wroteOnto(root, putting)
       const noted = indexed(root, changes, moving.committing, before, keeping)
       const back = movedOnto(root, moves)
       try {
-        const then = wroteOnto(
-          root,
-          split.committing.filter((one) => lands.has(one.path))
-        )
-        const wrote = [
-          ...new Set([...put.wrote, ...moving.committing.map((one) => one.to), ...then.wrote]),
-        ]
+        const onto = split.committing.filter((one) => lands.has(one.path))
+        const then = wroteOnto(root, onto)
+        const bodies = bodiesOf(putting, moving.committing, onto, before)
+        const wrote = [...bodies.keys()]
         const took = [
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
-        const commit = committed(root, wrote, took, message, writer)
+        const commit = committed(root, bodies, took, message, writer)
         wroteOnto(root, split.uncommitted)
         const gone = [...put.took, ...then.took, ...moves.map((one) => one.from)]
         const cleared = clearedOff(root, gone)
