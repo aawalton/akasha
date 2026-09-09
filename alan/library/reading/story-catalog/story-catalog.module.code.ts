@@ -18,7 +18,7 @@ export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
 const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 
 const STORY_KEYS_BY_CHAPTER_TYPE: Readonly<Record<string, readonly string[]>> = {
-  "story-chapter-read": ["story", "storySlug"],
+  "story-chapter-read": ["story"],
   "story-chapter-played": ["story"],
   "story-chapter-written": ["story"],
 }

@@ -43,7 +43,7 @@ export function assertStoryExists(): undefined {
   }
 }
 
-const STORY_KEYS = ["story", "storySlug"] as const
+const STORY_KEYS = ["story"] as const
 
 export function filedChapterLinks(): ReadonlySet<string> {
   const links = new Set<string>()

@@ -11,7 +11,7 @@ import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title
-  story?: ReadChapterStory
+  story: ReadChapterStory
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
@@ -55,7 +55,7 @@ export const storyChapterRead = {
     },
   },
   sequence: {
-    groupBy: "storySlug",
+    groupBy: "story",
     orderBy: "position",
     direction: "asc",
   },
@@ -77,7 +77,7 @@ export const storyChapterRead = {
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/read-chapter-story", required: false, many: false },
+    { pageProperty: "relation-property/read-chapter-story", required: true, many: false },
     { pageProperty: "number-property/own-length", required: true, many: false },
     { pageProperty: "url-property/external-link", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },

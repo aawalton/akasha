@@ -22,7 +22,6 @@ const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
 const STORY = "story"
-const STORY_SLUG = "storySlug"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
@@ -152,7 +151,7 @@ export function chapterIdIn(row: Row): string | null {
 export function heldChapters(): Held {
   const asked = asking(ROOT, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", "externalId", "externalLink", STORY, STORY_SLUG],
+    keys: ["slug", "externalId", "externalLink", STORY],
   })
   if ("refused" in asked) {
     throw new SyncRefused(
@@ -173,7 +172,7 @@ export function heldChapters(): Held {
     if (slug !== null) slugs.add(slug)
     const id = chapterIdIn(row)
     if (id === null) continue
-    const story = storySlugOf(row[STORY] ?? row[STORY_SLUG])
+    const story = storySlugOf(row[STORY])
     if (story === null) continue
     const ids = idsByStory.get(story) ?? new Set<string>()
     ids.add(id)
