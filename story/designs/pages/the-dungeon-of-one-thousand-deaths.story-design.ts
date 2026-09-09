@@ -6,8 +6,7 @@ export const theDungeonOfOneThousandDeaths = {
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths — story design",
   worldSlug: "the-dungeon-of-one-thousand-deaths",
-  premise:
-    "An episodic story where each chapter is told from the perspective of a different character exploring a dungeon. Every viewpoint character dies until there have been 1000 deaths, then character #1001 completes the dungeon.",
+  premise: "md",
   genre: "LitRPG / Dark Fantasy",
   tone: "Dark and serious. Each death is tragic, meaningful. The dungeon is genuinely horrific. Readers feel the weight of every life lost.",
   themes:

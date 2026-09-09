@@ -1,0 +1,1 @@
+Fifteen women, fifteen rooms, fifteen nights that have nothing to do with each other. Each chapter is one encounter, entered late and left early: you arrive, she takes you, you go. No plot runs between them. The only thing they share is that in every one of them she has already decided, and you find that out in the first hundred words.

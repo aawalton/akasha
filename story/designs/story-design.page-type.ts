@@ -3,7 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { World } from "../stories-played/properties/world.relation-property.ts"
-import type { ArcStructure } from "./properties/arc-structure.text-property.ts"
+import type { ArcStructure } from "./properties/arc-structure.file-property.ts"
 import type { BookTitle } from "./properties/book-title.text-property.ts"
 import type { ChapterNumbering } from "./properties/chapter-numbering.text-property.ts"
 import type { Continuity } from "./properties/continuity.text-property.ts"
@@ -18,7 +18,7 @@ import type { Narrator } from "./properties/narrator.text-property.ts"
 import type { SeriesName } from "./properties/series-name.text-property.ts"
 import type { SeriesStatus } from "./properties/series-status.text-property.ts"
 import type { StoryGenre } from "./properties/story-genre.text-property.ts"
-import type { StoryPremise } from "./properties/story-premise.text-property.ts"
+import type { StoryPremise } from "./properties/story-premise.file-property.ts"
 import type { StoryReaderFraming } from "./properties/story-reader-framing.text-property.ts"
 import type { StoryThemes } from "./properties/story-themes.text-property.ts"
 import type { StoryTone } from "./properties/story-tone.text-property.ts"
@@ -66,7 +66,7 @@ export const storyDesign = {
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
-    "text-property/story-premise",
+    "file-property/story-premise",
     "text-property/story-genre",
     "text-property/story-tone",
     "text-property/story-themes",
@@ -74,7 +74,7 @@ export const storyDesign = {
     "text-property/story-reader-framing",
     "text-property/narrator",
     "text-property/design-system",
-    "text-property/arc-structure",
+    "file-property/arc-structure",
     "text-property/writing-philosophy",
     "text-property/structure",
     "text-property/series-name",
@@ -94,7 +94,7 @@ export const storyDesign = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "relation-property/world-window", required: false, many: false },
-    { pageProperty: "text-property/story-premise", required: false, many: false },
+    { pageProperty: "file-property/story-premise", required: false, many: false },
     { pageProperty: "text-property/story-genre", required: false, many: false },
     { pageProperty: "text-property/story-tone", required: false, many: false },
     { pageProperty: "text-property/story-themes", required: false, many: false },
@@ -102,7 +102,7 @@ export const storyDesign = {
     { pageProperty: "text-property/story-reader-framing", required: false, many: false },
     { pageProperty: "text-property/narrator", required: false, many: false },
     { pageProperty: "text-property/design-system", required: false, many: false },
-    { pageProperty: "text-property/arc-structure", required: false, many: false },
+    { pageProperty: "file-property/arc-structure", required: false, many: false },
     { pageProperty: "text-property/writing-philosophy", required: false, many: false },
     { pageProperty: "text-property/structure", required: false, many: false },
     { pageProperty: "text-property/series-name", required: false, many: false },

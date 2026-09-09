@@ -6,8 +6,7 @@ export const bathhouseConfession = {
   slug: "bathhouse-confession",
   title: "Bathhouse Confession — story design",
   worldSlug: "bathhouse-confession",
-  premise:
-    "A standalone explicit Yuri one-shot. Rumi, Mira, and Zoey — the three members of the demon-hunting K-pop group HUNTR/X, all adults — visit a traditional bathhouse together for the first time. In the quiet steam, away from stage and duty, the unspoken three-way attraction between them finally surfaces. They confess their feelings and share a first, tender collective experience of physical intimacy.",
+  premise: "md",
   genre: "fanfiction, yuri, romance, erotica, one-shot",
   tone: "sensitive, sensual, warm, emotionally grounded; explicit but tender rather than crude",
   themes:

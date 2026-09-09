@@ -6,8 +6,7 @@ export const theVioletHour = {
   slug: "the-violet-hour",
   title: "The Violet Hour — story design",
   worldSlug: "personas",
-  premise:
-    "The hour the water goes violet. Stories and tellings built to drift — enough pull to hold attention off the day's churn, loose enough to let go as sleep takes him.",
+  premise: "md",
   tone: "hushed, unhurried, twilight-low; safe; gently progressing; built to release, never grip",
   visualStyle:
     "violet dusk-water; a dim lamplit bedroom edge; still lake at twilight; soft diffuse light, deep calm purples and silver",

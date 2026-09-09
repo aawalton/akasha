@@ -1,0 +1,1 @@
+Six young Chicagoans with rare Harmony Aspects — a bond-based magic system the Tower was built for — discover that what makes them uniquely powerful is also what makes them uniquely necessary, and that the Tower has been waiting for exactly them.

@@ -1,0 +1,1 @@
+An episodic story where each chapter is told from the perspective of a different character exploring a dungeon. Every viewpoint character dies until there have been 1000 deaths, then character #1001 completes the dungeon.
