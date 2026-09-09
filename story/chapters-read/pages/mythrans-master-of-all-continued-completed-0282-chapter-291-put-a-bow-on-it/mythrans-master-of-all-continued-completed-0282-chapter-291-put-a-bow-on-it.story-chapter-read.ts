@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0282Chapter291PutABowOnIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0282-chapter-291-put-a-bow-on-it",
   title: "Chapter 291 - Put A Bow On It",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 282,
   ownLength: 3168,
   unitSlug: "words",

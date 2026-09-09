@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0234Chapter245StudioTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0234-chapter-245-studio-time",
   title: "Chapter 245 - Studio Time",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 234,
   ownLength: 3464,
   unitSlug: "words",

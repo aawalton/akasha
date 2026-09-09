@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0284Chapter293TheAward = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0284-chapter-293-the-award",
   title: "Chapter 293 - The Award",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 284,
   ownLength: 4851,
   unitSlug: "words",

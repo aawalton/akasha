@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0326Chapter334SettlingThings =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0326-chapter-334-settling-things",
   title: "Chapter 334 - Settling Things",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 326,
   ownLength: 4689,
   unitSlug: "words",

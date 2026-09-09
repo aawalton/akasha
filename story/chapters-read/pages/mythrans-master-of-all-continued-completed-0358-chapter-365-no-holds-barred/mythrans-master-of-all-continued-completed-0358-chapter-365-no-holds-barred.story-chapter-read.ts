@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0358Chapter365NoHoldsBarred = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0358-chapter-365-no-holds-barred",
   title: "Chapter 365 - No Holds Barred",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 358,
   ownLength: 3348,
   unitSlug: "words",

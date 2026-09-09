@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0172Chapter184TheTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0172-chapter-184-the-talk",
   title: "Chapter 184 - The Talk",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 172,
   ownLength: 4614,
   unitSlug: "words",

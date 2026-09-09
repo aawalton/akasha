@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0179Chapter191TheSecretsOut = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0179-chapter-191-the-secrets-out",
   title: "Chapter 191 - The Secret's Out",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 179,
   ownLength: 3498,
   unitSlug: "words",

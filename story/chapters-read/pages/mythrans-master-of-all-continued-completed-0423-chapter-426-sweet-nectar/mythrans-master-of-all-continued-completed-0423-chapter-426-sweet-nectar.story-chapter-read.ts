@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0423Chapter426SweetNectar = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0423-chapter-426-sweet-nectar",
   title: "Chapter 426 - Sweet Nectar",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 423,
   ownLength: 3594,
   unitSlug: "words",

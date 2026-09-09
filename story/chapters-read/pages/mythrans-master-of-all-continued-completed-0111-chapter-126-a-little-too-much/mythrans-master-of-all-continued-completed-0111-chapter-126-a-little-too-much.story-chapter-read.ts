@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0111Chapter126ALittleTooMuch =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0111-chapter-126-a-little-too-much",
   title: "Chapter 126 - A Little Too Much",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 111,
   ownLength: 4947,
   unitSlug: "words",

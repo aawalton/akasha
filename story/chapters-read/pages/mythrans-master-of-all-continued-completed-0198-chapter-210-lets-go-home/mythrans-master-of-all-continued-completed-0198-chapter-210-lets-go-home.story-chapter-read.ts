@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0198Chapter210LetsGoHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0198-chapter-210-lets-go-home",
   title: "Chapter 210 - Let's Go Home",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 198,
   ownLength: 3142,
   unitSlug: "words",

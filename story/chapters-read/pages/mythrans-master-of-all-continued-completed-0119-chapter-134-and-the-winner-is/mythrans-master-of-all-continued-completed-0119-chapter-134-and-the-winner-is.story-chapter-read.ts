@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0119Chapter134AndTheWinnerIs =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0119-chapter-134-and-the-winner-is",
   title: "Chapter 134 - And The Winner Is...",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 119,
   ownLength: 4124,
   unitSlug: "words",

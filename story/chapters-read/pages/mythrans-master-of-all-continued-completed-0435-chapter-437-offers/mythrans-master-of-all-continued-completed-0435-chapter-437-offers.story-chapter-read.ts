@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0435Chapter437Offers = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0435-chapter-437-offers",
   title: "Chapter 437 - Offers",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 435,
   ownLength: 4094,
   unitSlug: "words",

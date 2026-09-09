@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0140Chapter154HelloDoggie = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0140-chapter-154-hello-doggie",
   title: "Chapter 154 - Hello, Doggie!",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 140,
   ownLength: 4093,
   unitSlug: "words",

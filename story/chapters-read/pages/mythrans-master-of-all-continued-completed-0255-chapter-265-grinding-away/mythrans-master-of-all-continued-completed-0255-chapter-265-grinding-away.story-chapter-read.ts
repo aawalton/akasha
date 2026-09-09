@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0255Chapter265GrindingAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0255-chapter-265-grinding-away",
   title: "Chapter 265 - Grinding Away",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 255,
   ownLength: 3268,
   unitSlug: "words",

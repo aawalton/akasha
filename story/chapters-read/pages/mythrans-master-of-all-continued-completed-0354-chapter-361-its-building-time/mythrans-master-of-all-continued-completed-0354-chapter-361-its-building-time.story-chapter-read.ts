@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0354Chapter361ItsBuildingTime 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0354-chapter-361-its-building-time",
   title: "Chapter 361 - It's Building Time",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 354,
   ownLength: 5075,
   unitSlug: "words",

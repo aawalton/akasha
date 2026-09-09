@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0401Chapter404AGoodTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0401-chapter-404-a-good-talk",
   title: "Chapter 404 - A Good Talk",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 401,
   ownLength: 3543,
   unitSlug: "words",

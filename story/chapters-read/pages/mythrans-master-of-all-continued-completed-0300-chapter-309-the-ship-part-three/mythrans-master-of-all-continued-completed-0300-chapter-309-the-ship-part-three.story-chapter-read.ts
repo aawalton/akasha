@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0300Chapter309TheShipPartThree
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0300-chapter-309-the-ship-part-three",
   title: "Chapter 309 - The Ship: Part Three",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 300,
   ownLength: 3017,
   unitSlug: "words",
