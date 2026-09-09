@@ -245,5 +245,9 @@ export const commandServer = {
       invariantKind: "departure",
       statement: "A command that throws while running is refused by name rather than answered.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A lease once spent stays spent for every ask after it.",
+    },
   ],
 } as const satisfies Module
