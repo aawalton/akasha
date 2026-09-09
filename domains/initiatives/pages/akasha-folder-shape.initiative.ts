@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
-        "106 of 141 relation properties were named `<x>-slug` or `<x>-slugs`. Two agent calls and one landing rename one: `rename-page-property-property-slug` at the property's page with the new key under `to:`, then `rename-page` at that path. Neither reaches code reading the key as a string, and such code spells it kebab as often as camel, so grep both. A reader running during a check is read off disk while the pages come from the fold, so it takes three landings: read both keys, rename, read one key.",
+        "Two agent calls rename one: `rename-page-property-property-slug` at the property's page with the new key under `to:`, then `rename-page` at that path. Neither reaches code reading the key as a string, and such code spells it kebab as often as camel, so grep both. A reader running during a check is read off disk while the pages come from the fold, so it takes three landings: read both keys, rename, read one key. A page slug a DOM global declares, `parent` among them, is refused.",
     },
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
