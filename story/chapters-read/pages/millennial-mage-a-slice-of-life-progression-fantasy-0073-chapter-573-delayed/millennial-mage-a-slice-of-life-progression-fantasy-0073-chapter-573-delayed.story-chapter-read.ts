@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0073Chapter573Delayed =
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0073-chapter-573-delayed",
   title: "Chapter: 573 - Delayed",
-  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 73,
   ownLength: 2601,
   ownProgress: 2601,

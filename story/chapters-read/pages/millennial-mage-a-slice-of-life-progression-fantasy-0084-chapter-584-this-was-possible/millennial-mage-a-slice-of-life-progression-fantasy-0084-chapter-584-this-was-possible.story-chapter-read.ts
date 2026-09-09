@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0084Chapter584ThisWasPo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0084-chapter-584-this-was-possible",
   title: "Chapter: 584 - This Was Possible",
-  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 84,
   ownLength: 2651,
   ownProgress: 2651,

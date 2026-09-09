@@ -5,7 +5,7 @@ export const metaworldHopecore0068Chapter37ForWhatItSWorth = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0068-chapter-37-for-what-it-s-worth",
   title: "Chapter 37 - For What It's Worth",
-  partOfCollectionSlugs: ["metaworld-hopecore"],
+  storySlug: "metaworld-hopecore",
   position: 68,
   ownLength: 2280,
   unitSlug: "words",

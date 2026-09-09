@@ -5,7 +5,7 @@ export const metaworldHopecore0169Chapter97WhenTheLeveeBreaks2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0169-chapter-97-when-the-levee-breaks-2",
   title: "CHAPTER 97 - When the Levee Breaks (2)",
-  partOfCollectionSlugs: ["metaworld-hopecore"],
+  storySlug: "metaworld-hopecore",
   position: 169,
   ownLength: 2032,
   unitSlug: "words",

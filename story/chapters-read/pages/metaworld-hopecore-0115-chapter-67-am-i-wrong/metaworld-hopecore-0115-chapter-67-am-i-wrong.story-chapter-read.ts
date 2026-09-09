@@ -5,7 +5,7 @@ export const metaworldHopecore0115Chapter67AmIWrong = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0115-chapter-67-am-i-wrong",
   title: "CHAPTER 67 - Am I Wrong",
-  partOfCollectionSlugs: ["metaworld-hopecore"],
+  storySlug: "metaworld-hopecore",
   position: 115,
   ownLength: 2967,
   unitSlug: "words",

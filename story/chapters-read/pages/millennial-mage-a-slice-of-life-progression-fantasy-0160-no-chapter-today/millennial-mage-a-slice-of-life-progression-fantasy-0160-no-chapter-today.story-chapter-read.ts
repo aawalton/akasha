@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0160NoChapterToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0160-no-chapter-today",
   title: "No Chapter Today!",
-  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 160,
   ownLength: 107,
   ownProgress: 107,

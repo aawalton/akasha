@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0013ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0013-continue-the-story-book-3-binding",
   title: "Continue the Story [Book 3 - Binding]",
-  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 13,
   ownLength: 178,
   ownProgress: 178,

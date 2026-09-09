@@ -5,7 +5,7 @@ export const metaworldHopecore0143Chapter84Uprising = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0143-chapter-84-uprising",
   title: "CHAPTER 84 - Uprising",
-  partOfCollectionSlugs: ["metaworld-hopecore"],
+  storySlug: "metaworld-hopecore",
   position: 143,
   ownLength: 3043,
   unitSlug: "words",
