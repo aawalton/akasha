@@ -8,7 +8,7 @@ export const chrysalis0455Chapter1802UnderConstruction = {
   story: "story-read/chrysalis",
   position: 455,
   ownLength: 1070,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473202/chapter-1802-under-construction",

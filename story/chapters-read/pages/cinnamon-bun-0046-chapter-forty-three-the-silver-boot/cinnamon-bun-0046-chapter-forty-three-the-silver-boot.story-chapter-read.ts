@@ -8,7 +8,7 @@ export const cinnamonBun0046ChapterFortyThreeTheSilverBoot = {
   story: "story-read/cinnamon-bun",
   position: 46,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/511834/chapter-forty-three-the-silver-boot",

@@ -9,7 +9,7 @@ export const chrysalis0392Chapter1740WhatCouldVeBeenDone = {
   position: 392,
   ownLength: 1032,
   ownProgress: 1032,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:20.169Z",
   publishedAt: "2026-02-23",
   externalLink:

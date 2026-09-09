@@ -9,7 +9,7 @@ export const chrysalis0360Chapter1708Reevaluate = {
   position: 360,
   ownLength: 828,
   ownProgress: 828,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:19.600Z",
   publishedAt: "2025-12-17",
   externalLink:

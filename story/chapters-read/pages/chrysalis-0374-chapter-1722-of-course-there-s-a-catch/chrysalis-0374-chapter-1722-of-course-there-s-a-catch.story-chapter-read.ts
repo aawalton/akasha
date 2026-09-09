@@ -9,7 +9,7 @@ export const chrysalis0374Chapter1722OfCourseThereSACatch = {
   position: 374,
   ownLength: 1223,
   ownProgress: 1223,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:46.219Z",
   publishedAt: "2026-01-28",
   externalLink:

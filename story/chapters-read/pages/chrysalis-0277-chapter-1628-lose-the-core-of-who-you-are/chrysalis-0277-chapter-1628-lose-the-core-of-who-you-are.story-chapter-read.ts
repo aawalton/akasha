@@ -9,7 +9,7 @@ export const chrysalis0277Chapter1628LoseTheCoreOfWhoYouAre = {
   position: 277,
   ownLength: 1143,
   ownProgress: 1143,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:40.501Z",
   publishedAt: "2025-08-21",
   externalLink:

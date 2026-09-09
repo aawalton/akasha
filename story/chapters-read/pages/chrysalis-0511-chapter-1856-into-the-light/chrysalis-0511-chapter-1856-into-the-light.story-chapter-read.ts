@@ -8,7 +8,7 @@ export const chrysalis0511Chapter1856IntoTheLight = {
   story: "story-read/chrysalis",
   position: 511,
   ownLength: 1128,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3893505/chapter-1856-into-the-light",

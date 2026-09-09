@@ -8,7 +8,7 @@ export const cinnamonBun0053ChapterFiftyAmbush = {
   story: "story-read/cinnamon-bun",
   position: 53,
   ownLength: 2007,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/516044/chapter-fifty-ambush",

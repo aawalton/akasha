@@ -8,7 +8,7 @@ export const cinnamonBun0082ChapterSeventyNineHappyDance = {
   story: "story-read/cinnamon-bun",
   position: 82,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/541494/chapter-seventy-nine-happy-dance",

@@ -9,7 +9,7 @@ export const chrysalis0383Chapter1731TheGreatCommercialEmpireOfOurTime = {
   position: 383,
   ownLength: 1127,
   ownProgress: 1127,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:03.416Z",
   publishedAt: "2026-02-10",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0337Chapter1685WellDesigned = {
   position: 337,
   ownLength: 947,
   ownProgress: 947,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:35.595Z",
   publishedAt: "2025-11-17",
   externalLink:

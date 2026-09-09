@@ -8,7 +8,7 @@ export const chrysalis0507Chapter1852DependableDemon = {
   story: "story-read/chrysalis",
   position: 507,
   ownLength: 1270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3865938/chapter-1852-dependable-demon",

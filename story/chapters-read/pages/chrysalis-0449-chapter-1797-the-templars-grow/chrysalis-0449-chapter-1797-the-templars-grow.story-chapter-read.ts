@@ -8,7 +8,7 @@ export const chrysalis0449Chapter1797TheTemplarsGrow = {
   story: "story-read/chrysalis",
   position: 449,
   ownLength: 1077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3420733/chapter-1797-the-templars-grow",

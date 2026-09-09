@@ -8,7 +8,7 @@ export const cinnamonBun0078ChapterSeventyFiveFlowerPicking = {
   story: "story-read/cinnamon-bun",
   position: 78,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/538509/chapter-seventy-five-flower-picking",

@@ -9,7 +9,7 @@ export const chrysalis0398Chapter1746Sentencing = {
   position: 398,
   ownLength: 1167,
   ownProgress: 1167,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:31.712Z",
   publishedAt: "2026-03-03",
   externalLink:

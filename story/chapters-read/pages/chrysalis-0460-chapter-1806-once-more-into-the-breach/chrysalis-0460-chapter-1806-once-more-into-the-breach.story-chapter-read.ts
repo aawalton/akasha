@@ -8,7 +8,7 @@ export const chrysalis0460Chapter1806OnceMoreIntoTheBreach = {
   story: "story-read/chrysalis",
   position: 460,
   ownLength: 1044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3481012/chapter-1806-once-more-into-the-breach",

@@ -8,7 +8,7 @@ export const cinnamonBun0004ChapterTwoWhoYouGonnaCall = {
   story: "story-read/cinnamon-bun",
   position: 4,
   ownLength: 1984,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/478742/chapter-two-who-you-gonna-call",

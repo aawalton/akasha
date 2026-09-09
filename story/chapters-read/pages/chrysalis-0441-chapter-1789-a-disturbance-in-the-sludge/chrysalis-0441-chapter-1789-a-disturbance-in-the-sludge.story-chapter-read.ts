@@ -8,7 +8,7 @@ export const chrysalis0441Chapter1789ADisturbanceInTheSludge = {
   story: "story-read/chrysalis",
   position: 441,
   ownLength: 1327,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3368933/chapter-1789-a-disturbance-in-the-sludge",

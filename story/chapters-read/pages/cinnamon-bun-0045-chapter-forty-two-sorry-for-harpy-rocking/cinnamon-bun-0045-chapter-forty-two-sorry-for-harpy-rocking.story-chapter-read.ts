@@ -8,7 +8,7 @@ export const cinnamonBun0045ChapterFortyTwoSorryForHarpyRocking = {
   story: "story-read/cinnamon-bun",
   position: 45,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/511401/chapter-forty-two-sorry-for-harpy-rocking",

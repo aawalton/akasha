@@ -8,7 +8,7 @@ export const chrysalis0437Chapter1785WorldOfSludge = {
   story: "story-read/chrysalis",
   position: 437,
   ownLength: 874,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3352012/chapter-1785-world-of-sludge",

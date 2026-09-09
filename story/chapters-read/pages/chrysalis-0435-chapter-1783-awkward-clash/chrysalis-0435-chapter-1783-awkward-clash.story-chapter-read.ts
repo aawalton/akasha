@@ -8,7 +8,7 @@ export const chrysalis0435Chapter1783AwkwardClash = {
   story: "story-read/chrysalis",
   position: 435,
   ownLength: 999,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3335369/chapter-1783-awkward-clash",

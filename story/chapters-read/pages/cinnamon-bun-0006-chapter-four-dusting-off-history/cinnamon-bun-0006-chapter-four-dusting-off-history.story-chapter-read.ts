@@ -8,7 +8,7 @@ export const cinnamonBun0006ChapterFourDustingOffHistory = {
   story: "story-read/cinnamon-bun",
   position: 6,
   ownLength: 2120,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479680/chapter-four-dusting-off-history",

@@ -8,7 +8,7 @@ export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   story: "story-read/cinnamon-bun",
   position: 103,
   ownLength: 3597,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/562576/chapter-one-hundred-no-strings-attached",

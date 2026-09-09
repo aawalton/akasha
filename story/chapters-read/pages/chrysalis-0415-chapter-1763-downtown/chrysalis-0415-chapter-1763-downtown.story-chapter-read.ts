@@ -8,7 +8,7 @@ export const chrysalis0415Chapter1763Downtown = {
   story: "story-read/chrysalis",
   position: 415,
   ownLength: 1021,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-02",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3220633/chapter-1763-downtown",

@@ -8,7 +8,7 @@ export const chrysalis0404Chapter1752ExpandedNursery = {
   story: "story-read/chrysalis",
   position: 404,
   ownLength: 1301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145669/chapter-1752-expanded-nursery",

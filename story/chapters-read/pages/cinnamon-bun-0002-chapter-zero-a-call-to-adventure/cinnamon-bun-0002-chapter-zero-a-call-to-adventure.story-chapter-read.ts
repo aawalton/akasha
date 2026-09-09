@@ -8,7 +8,7 @@ export const cinnamonBun0002ChapterZeroACallToAdventure = {
   story: "story-read/cinnamon-bun",
   position: 2,
   ownLength: 2179,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/477911/chapter-zero-a-call-to-adventure",

@@ -8,7 +8,7 @@ export const cinnamonBun0102ChapterNinetyNineWhatIsANormalAdventurer = {
   story: "story-read/cinnamon-bun",
   position: 102,
   ownLength: 1962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/561428/chapter-ninety-nine-what-is-a-normal-adventurer",

@@ -8,7 +8,7 @@ export const cinnamonBun0101ChapterNinetyEightBunOfHerWord = {
   story: "story-read/cinnamon-bun",
   position: 101,
   ownLength: 1966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/559895/chapter-ninety-eight-bun-of-her-word",

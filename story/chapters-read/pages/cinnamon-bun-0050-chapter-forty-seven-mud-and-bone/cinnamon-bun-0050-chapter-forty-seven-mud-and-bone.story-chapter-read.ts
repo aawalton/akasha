@@ -8,7 +8,7 @@ export const cinnamonBun0050ChapterFortySevenMudAndBone = {
   story: "story-read/cinnamon-bun",
   position: 50,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/514648/chapter-forty-seven-mud-and-bone",

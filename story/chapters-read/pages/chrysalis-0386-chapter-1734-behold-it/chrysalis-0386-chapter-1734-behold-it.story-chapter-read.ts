@@ -9,7 +9,7 @@ export const chrysalis0386Chapter1734BeholdIt = {
   position: 386,
   ownLength: 1114,
   ownProgress: 1114,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:09.209Z",
   publishedAt: "2026-02-13",
   externalLink:

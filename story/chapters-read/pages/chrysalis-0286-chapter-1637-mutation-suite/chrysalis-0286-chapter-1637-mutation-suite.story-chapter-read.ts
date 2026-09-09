@@ -9,7 +9,7 @@ export const chrysalis0286Chapter1637MutationSuite = {
   position: 286,
   ownLength: 1965,
   ownProgress: 1965,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:57.732Z",
   publishedAt: "2025-09-03",
   externalLink:

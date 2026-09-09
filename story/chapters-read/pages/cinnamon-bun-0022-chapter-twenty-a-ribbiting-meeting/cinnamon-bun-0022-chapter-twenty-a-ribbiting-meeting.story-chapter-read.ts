@@ -8,7 +8,7 @@ export const cinnamonBun0022ChapterTwentyARibbitingMeeting = {
   story: "story-read/cinnamon-bun",
   position: 22,
   ownLength: 2383,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/495010/chapter-twenty-a-ribbiting-meeting",

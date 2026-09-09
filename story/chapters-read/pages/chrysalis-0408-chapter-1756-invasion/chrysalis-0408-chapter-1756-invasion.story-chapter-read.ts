@@ -8,7 +8,7 @@ export const chrysalis0408Chapter1756Invasion = {
   story: "story-read/chrysalis",
   position: 408,
   ownLength: 986,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3186047/chapter-1756-invasion",

@@ -8,7 +8,7 @@ export const cinnamonBun0028ChapterTwentySixSellingForABargain = {
   story: "story-read/cinnamon-bun",
   position: 28,
   ownLength: 2086,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/499075/chapter-twenty-six-selling-for-a-bargain",

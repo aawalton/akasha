@@ -8,7 +8,7 @@ export const chrysalis0467Chapter1813Religion = {
   story: "story-read/chrysalis",
   position: 467,
   ownLength: 854,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3522271/chapter-1813-religion",

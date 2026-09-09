@@ -8,7 +8,7 @@ export const chrysalis0431Chapter1779IVeFoundSomething = {
   story: "story-read/chrysalis",
   position: 431,
   ownLength: 937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3311494/chapter-1779-ive-found-something",

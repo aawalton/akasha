@@ -8,7 +8,7 @@ export const chrysalis0471Chapter1817AirWays = {
   story: "story-read/chrysalis",
   position: 471,
   ownLength: 1172,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3550133/chapter-1817-air-ways",

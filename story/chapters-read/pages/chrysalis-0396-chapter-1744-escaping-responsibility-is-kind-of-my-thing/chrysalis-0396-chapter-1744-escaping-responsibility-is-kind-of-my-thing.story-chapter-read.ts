@@ -9,7 +9,7 @@ export const chrysalis0396Chapter1744EscapingResponsibilityIsKindOfMyThing = {
   position: 396,
   ownLength: 1061,
   ownProgress: 1061,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:27.864Z",
   publishedAt: "2026-02-27",
   externalLink:

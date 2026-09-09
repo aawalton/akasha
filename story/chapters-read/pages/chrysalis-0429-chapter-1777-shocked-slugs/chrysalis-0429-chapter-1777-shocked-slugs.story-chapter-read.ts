@@ -8,7 +8,7 @@ export const chrysalis0429Chapter1777ShockedSlugs = {
   story: "story-read/chrysalis",
   position: 429,
   ownLength: 1117,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299040/chapter-1777-shocked-slugs",

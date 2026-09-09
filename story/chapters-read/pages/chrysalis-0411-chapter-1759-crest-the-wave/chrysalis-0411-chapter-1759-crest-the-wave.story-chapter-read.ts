@@ -8,7 +8,7 @@ export const chrysalis0411Chapter1759CrestTheWave = {
   story: "story-read/chrysalis",
   position: 411,
   ownLength: 1032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3197877/chapter-1759-crest-the-wave",

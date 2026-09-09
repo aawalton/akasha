@@ -8,7 +8,7 @@ export const cinnamonBun0014ChapterTwelveTeaTime = {
   story: "story-read/cinnamon-bun",
   position: 14,
   ownLength: 2026,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/488305/chapter-twelve-tea-time",

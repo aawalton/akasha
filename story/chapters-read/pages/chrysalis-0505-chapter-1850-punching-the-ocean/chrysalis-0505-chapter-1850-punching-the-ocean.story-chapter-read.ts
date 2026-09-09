@@ -8,7 +8,7 @@ export const chrysalis0505Chapter1850PunchingTheOcean = {
   story: "story-read/chrysalis",
   position: 505,
   ownLength: 917,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3856298/chapter-1850-punching-the-ocean",

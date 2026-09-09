@@ -8,7 +8,7 @@ export const chrysalis0425Chapter1773TheGoods = {
   story: "story-read/chrysalis",
   position: 425,
   ownLength: 1417,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-16",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3279404/chapter-1773-the-goods",

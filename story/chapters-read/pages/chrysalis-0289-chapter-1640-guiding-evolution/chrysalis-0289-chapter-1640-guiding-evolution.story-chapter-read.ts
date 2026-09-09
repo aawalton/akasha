@@ -9,7 +9,7 @@ export const chrysalis0289Chapter1640GuidingEvolution = {
   position: 289,
   ownLength: 1046,
   ownProgress: 1046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:03.569Z",
   publishedAt: "2025-09-08",
   externalLink:

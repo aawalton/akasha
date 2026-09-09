@@ -8,7 +8,7 @@ export const chrysalis0513Chapter1858WhyMe = {
   story: "story-read/chrysalis",
   position: 513,
   ownLength: 1063,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3903003/chapter-1858-why-me",

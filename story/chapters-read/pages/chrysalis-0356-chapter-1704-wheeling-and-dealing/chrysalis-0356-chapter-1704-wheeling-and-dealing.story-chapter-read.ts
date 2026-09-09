@@ -9,7 +9,7 @@ export const chrysalis0356Chapter1704WheelingAndDealing = {
   position: 356,
   ownLength: 895,
   ownProgress: 895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:12.168Z",
   publishedAt: "2025-12-12",
   externalLink:

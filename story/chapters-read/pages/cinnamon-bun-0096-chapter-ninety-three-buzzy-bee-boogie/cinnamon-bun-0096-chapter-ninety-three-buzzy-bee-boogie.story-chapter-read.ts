@@ -8,7 +8,7 @@ export const cinnamonBun0096ChapterNinetyThreeBuzzyBeeBoogie = {
   story: "story-read/cinnamon-bun",
   position: 96,
   ownLength: 1958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/554591/chapter-ninety-three-buzzy-bee-boogie",

@@ -8,7 +8,7 @@ export const cinnamonBun0112ChapterOneHundredAndSevenBringingAKnifeTo = {
   story: "story-read/cinnamon-bun",
   position: 112,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566397/chapter-one-hundred-and-seven-bringing-a-knife",

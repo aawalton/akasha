@@ -9,7 +9,7 @@ export const chrysalis0368Chapter1716BeamOfTheHeavens = {
   position: 368,
   ownLength: 993,
   ownProgress: 993,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:35.089Z",
   publishedAt: "2026-01-20",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0352Chapter1700Scolded = {
   position: 352,
   ownLength: 977,
   ownProgress: 977,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:04.484Z",
   publishedAt: "2025-12-09",
   externalLink:

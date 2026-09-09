@@ -8,7 +8,7 @@ export const chrysalis0495Chapter1840ClearAir = {
   story: "story-read/chrysalis",
   position: 495,
   ownLength: 1072,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3793412/chapter-1840-clear-air",

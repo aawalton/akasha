@@ -8,7 +8,7 @@ export const cinnamonBun0036ChapterThirtyThreeTheFirstStepInAShort = {
   story: "story-read/cinnamon-bun",
   position: 36,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/505231/chapter-thirty-three-the-first-step-in-a-short",

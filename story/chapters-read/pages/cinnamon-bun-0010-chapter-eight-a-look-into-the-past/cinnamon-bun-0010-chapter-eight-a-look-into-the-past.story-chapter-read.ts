@@ -8,7 +8,7 @@ export const cinnamonBun0010ChapterEightALookIntoThePast = {
   story: "story-read/cinnamon-bun",
   position: 10,
   ownLength: 2044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/483656/chapter-eight-a-look-into-the-past",

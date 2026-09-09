@@ -8,7 +8,7 @@ export const cinnamonBun0105ChapterOneHundredAndTwoBounceBack = {
   story: "story-read/cinnamon-bun",
   position: 105,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563329/chapter-one-hundred-and-two-bounce-back",

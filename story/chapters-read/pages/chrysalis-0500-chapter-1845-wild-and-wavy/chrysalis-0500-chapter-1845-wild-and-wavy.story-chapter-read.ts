@@ -8,7 +8,7 @@ export const chrysalis0500Chapter1845WildAndWavy = {
   story: "story-read/chrysalis",
   position: 500,
   ownLength: 928,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3823617/chapter-1845-wild-and-wavy",

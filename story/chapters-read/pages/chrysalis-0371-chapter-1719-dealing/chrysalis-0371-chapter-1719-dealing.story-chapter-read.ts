@@ -9,7 +9,7 @@ export const chrysalis0371Chapter1719Dealing = {
   position: 371,
   ownLength: 1133,
   ownProgress: 1133,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:40.469Z",
   publishedAt: "2026-01-23",
   externalLink:

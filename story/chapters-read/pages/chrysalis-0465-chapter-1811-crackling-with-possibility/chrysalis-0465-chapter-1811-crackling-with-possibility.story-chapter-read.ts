@@ -8,7 +8,7 @@ export const chrysalis0465Chapter1811CracklingWithPossibility = {
   story: "story-read/chrysalis",
   position: 465,
   ownLength: 1255,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3512927/chapter-1811-crackling-with-possibility",

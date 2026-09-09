@@ -8,7 +8,7 @@ export const chrysalis0427Chapter1775IDonTThinkTheyReHappyToSeeMe = {
   story: "story-read/chrysalis",
   position: 427,
   ownLength: 942,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3295802/chapter-1775-i-dont-think-theyre-happy-to-see",

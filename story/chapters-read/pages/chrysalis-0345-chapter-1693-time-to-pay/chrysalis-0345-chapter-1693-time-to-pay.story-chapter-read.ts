@@ -9,7 +9,7 @@ export const chrysalis0345Chapter1693TimeToPay = {
   position: 345,
   ownLength: 852,
   ownProgress: 852,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:51.087Z",
   publishedAt: "2025-11-27",
   externalLink:

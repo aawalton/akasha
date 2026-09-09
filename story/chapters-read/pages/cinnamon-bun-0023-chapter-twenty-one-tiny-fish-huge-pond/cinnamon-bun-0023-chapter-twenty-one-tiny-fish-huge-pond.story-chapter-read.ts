@@ -8,7 +8,7 @@ export const cinnamonBun0023ChapterTwentyOneTinyFishHugePond = {
   story: "story-read/cinnamon-bun",
   position: 23,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/495420/chapter-twenty-one-tiny-fish-huge-pond",

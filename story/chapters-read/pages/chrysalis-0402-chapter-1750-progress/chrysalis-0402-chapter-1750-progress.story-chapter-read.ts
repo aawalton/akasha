@@ -8,7 +8,7 @@ export const chrysalis0402Chapter1750Progress = {
   story: "story-read/chrysalis",
   position: 402,
   ownLength: 946,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145657/chapter-1750-progress",

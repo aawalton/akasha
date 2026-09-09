@@ -9,7 +9,7 @@ export const chrysalis0373Chapter1721ThatSNotAThing = {
   position: 373,
   ownLength: 1259,
   ownProgress: 1259,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:44.259Z",
   publishedAt: "2026-01-27",
   externalLink:

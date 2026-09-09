@@ -9,7 +9,7 @@ export const chrysalis0376Chapter1724ReturnOfTheDetail = {
   position: 376,
   ownLength: 977,
   ownProgress: 977,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:50.040Z",
   publishedAt: "2026-01-30",
   externalLink:

@@ -8,7 +8,7 @@ export const cinnamonBun0029ChapterTwentySevenPlantingTheSeedsOfAQuest = {
   story: "story-read/cinnamon-bun",
   position: 29,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/500049/chapter-twenty-seven-planting-the-seeds-of-a-quest",

@@ -8,7 +8,7 @@ export const chrysalis0401Chapter1749UnwantedDevelopments = {
   story: "story-read/chrysalis",
   position: 401,
   ownLength: 950,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-06",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3120863/chapter-1749-unwanted-developments",

@@ -8,7 +8,7 @@ export const cinnamonBun0015ChapterThirteenOffWithHerHead = {
   story: "story-read/cinnamon-bun",
   position: 15,
   ownLength: 1969,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/489435/chapter-thirteen-off-with-her-head",

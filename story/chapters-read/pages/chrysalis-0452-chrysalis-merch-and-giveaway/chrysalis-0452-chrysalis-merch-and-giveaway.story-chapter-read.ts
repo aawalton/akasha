@@ -8,7 +8,7 @@ export const chrysalis0452ChrysalisMerchAndGiveaway = {
   story: "story-read/chrysalis",
   position: 452,
   ownLength: 58,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3439366/chrysalis-merch-and-giveaway",

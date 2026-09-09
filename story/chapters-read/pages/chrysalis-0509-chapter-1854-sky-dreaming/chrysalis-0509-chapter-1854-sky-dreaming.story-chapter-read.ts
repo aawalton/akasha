@@ -8,7 +8,7 @@ export const chrysalis0509Chapter1854SkyDreaming = {
   story: "story-read/chrysalis",
   position: 509,
   ownLength: 967,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3875192/chapter-1854-sky-dreaming",

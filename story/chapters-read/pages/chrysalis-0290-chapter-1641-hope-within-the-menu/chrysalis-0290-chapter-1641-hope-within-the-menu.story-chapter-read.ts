@@ -9,7 +9,7 @@ export const chrysalis0290Chapter1641HopeWithinTheMenu = {
   position: 290,
   ownLength: 1179,
   ownProgress: 1179,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:05.494Z",
   publishedAt: "2025-09-09",
   externalLink:

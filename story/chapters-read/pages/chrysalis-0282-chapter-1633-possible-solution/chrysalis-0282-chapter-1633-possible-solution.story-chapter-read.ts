@@ -9,7 +9,7 @@ export const chrysalis0282Chapter1633PossibleSolution = {
   position: 282,
   ownLength: 1149,
   ownProgress: 1149,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:49.968Z",
   publishedAt: "2025-08-28",
   externalLink:

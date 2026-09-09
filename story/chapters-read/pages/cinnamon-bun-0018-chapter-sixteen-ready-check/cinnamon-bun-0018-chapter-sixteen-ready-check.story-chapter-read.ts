@@ -8,7 +8,7 @@ export const cinnamonBun0018ChapterSixteenReadyCheck = {
   story: "story-read/cinnamon-bun",
   position: 18,
   ownLength: 2074,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/492244/chapter-sixteen-ready-check",

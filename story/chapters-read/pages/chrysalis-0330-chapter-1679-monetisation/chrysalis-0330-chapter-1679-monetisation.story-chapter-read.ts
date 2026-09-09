@@ -9,7 +9,7 @@ export const chrysalis0330Chapter1679Monetisation = {
   position: 330,
   ownLength: 1132,
   ownProgress: 1132,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:22.131Z",
   publishedAt: "2025-11-03",
   externalLink:

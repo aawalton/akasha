@@ -8,7 +8,7 @@ export const chrysalis0436Chapter1784PurityAndDarkness = {
   story: "story-read/chrysalis",
   position: 436,
   ownLength: 1156,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3339073/chapter-1784-purity-and-darkness",

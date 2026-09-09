@@ -9,7 +9,7 @@ export const chrysalis0294Chapter1645TheSnailProcession = {
   position: 294,
   ownLength: 961,
   ownProgress: 961,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:13.170Z",
   publishedAt: "2025-09-15",
   externalLink:

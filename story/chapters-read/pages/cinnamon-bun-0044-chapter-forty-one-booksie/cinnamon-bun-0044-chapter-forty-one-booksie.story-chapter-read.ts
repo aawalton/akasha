@@ -8,7 +8,7 @@ export const cinnamonBun0044ChapterFortyOneBooksie = {
   story: "story-read/cinnamon-bun",
   position: 44,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/510890/chapter-forty-one-booksie",

@@ -8,7 +8,7 @@ export const chrysalis0477Chapter1823TheGreatPumping = {
   story: "story-read/chrysalis",
   position: 477,
   ownLength: 1038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3587219/chapter-1823-the-great-pumping",

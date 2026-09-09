@@ -9,7 +9,7 @@ export const chrysalis0341Chapter1689WordsOfTheCouncil = {
   position: 341,
   ownLength: 940,
   ownProgress: 940,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:43.229Z",
   publishedAt: "2025-11-21",
   externalLink:

@@ -8,7 +8,7 @@ export const chrysalis0416Chapter1764BoilingCorruption = {
   story: "story-read/chrysalis",
   position: 416,
   ownLength: 961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3224624/chapter-1764-boiling-corruption",

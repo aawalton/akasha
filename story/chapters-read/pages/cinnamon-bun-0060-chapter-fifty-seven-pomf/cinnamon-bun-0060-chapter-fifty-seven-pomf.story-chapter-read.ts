@@ -8,7 +8,7 @@ export const cinnamonBun0060ChapterFiftySevenPomf = {
   story: "story-read/cinnamon-bun",
   position: 60,
   ownLength: 1983,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/522646/chapter-fifty-seven-pomf",

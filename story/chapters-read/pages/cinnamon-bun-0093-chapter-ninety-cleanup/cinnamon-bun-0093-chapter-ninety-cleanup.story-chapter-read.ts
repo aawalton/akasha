@@ -8,7 +8,7 @@ export const cinnamonBun0093ChapterNinetyCleanup = {
   story: "story-read/cinnamon-bun",
   position: 93,
   ownLength: 2152,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551078/chapter-ninety-cleanup",

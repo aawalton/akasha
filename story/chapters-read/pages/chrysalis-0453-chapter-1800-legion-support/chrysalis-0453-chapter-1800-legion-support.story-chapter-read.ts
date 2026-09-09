@@ -8,7 +8,7 @@ export const chrysalis0453Chapter1800LegionSupport = {
   story: "story-read/chrysalis",
   position: 453,
   ownLength: 1119,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473197/chapter-1800-legion-support",

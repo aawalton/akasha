@@ -8,7 +8,7 @@ export const chrysalis0428Chapter1776AWeb = {
   story: "story-read/chrysalis",
   position: 428,
   ownLength: 958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3299039/chapter-1776-a-web",

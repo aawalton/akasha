@@ -9,7 +9,7 @@ export const chrysalis0303Chapter1654ItSpreadLikeAVirusPt1 = {
   position: 303,
   ownLength: 1192,
   ownProgress: 1192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:30.246Z",
   publishedAt: "2025-09-26",
   externalLink:

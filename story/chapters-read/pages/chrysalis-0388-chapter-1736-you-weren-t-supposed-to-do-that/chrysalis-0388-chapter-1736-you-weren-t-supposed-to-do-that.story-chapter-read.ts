@@ -9,7 +9,7 @@ export const chrysalis0388Chapter1736YouWerenTSupposedToDoThat = {
   position: 388,
   ownLength: 1039,
   ownProgress: 1039,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:12.914Z",
   publishedAt: "2026-02-17",
   externalLink:

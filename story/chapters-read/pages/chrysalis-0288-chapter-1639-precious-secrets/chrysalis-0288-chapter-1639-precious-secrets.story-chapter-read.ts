@@ -9,7 +9,7 @@ export const chrysalis0288Chapter1639PreciousSecrets = {
   position: 288,
   ownLength: 997,
   ownProgress: 997,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:01.511Z",
   publishedAt: "2025-09-05",
   externalLink:

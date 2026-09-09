@@ -8,7 +8,7 @@ export const cinnamonBun0074ChapterSeventyOneFriendshipIsMagical = {
   story: "story-read/cinnamon-bun",
   position: 74,
   ownLength: 1937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/535575/chapter-seventy-one-friendship-is-magical",

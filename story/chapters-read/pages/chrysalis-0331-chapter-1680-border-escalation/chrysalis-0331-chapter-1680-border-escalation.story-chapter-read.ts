@@ -9,7 +9,7 @@ export const chrysalis0331Chapter1680BorderEscalation = {
   position: 331,
   ownLength: 988,
   ownProgress: 988,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:24.066Z",
   publishedAt: "2025-11-03",
   externalLink:

@@ -8,7 +8,7 @@ export const chrysalis0480Chapter1826SurfSUp = {
   story: "story-read/chrysalis",
   position: 480,
   ownLength: 890,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3610911/chapter-1826-surfs-up",

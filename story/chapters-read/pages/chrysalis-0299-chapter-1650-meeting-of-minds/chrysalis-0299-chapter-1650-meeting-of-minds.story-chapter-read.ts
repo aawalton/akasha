@@ -9,7 +9,7 @@ export const chrysalis0299Chapter1650MeetingOfMinds = {
   position: 299,
   ownLength: 1124,
   ownProgress: 1124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:22.762Z",
   publishedAt: "2025-09-22",
   externalLink:

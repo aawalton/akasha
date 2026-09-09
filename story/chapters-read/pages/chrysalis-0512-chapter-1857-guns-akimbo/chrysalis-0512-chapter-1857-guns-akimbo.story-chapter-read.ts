@@ -8,7 +8,7 @@ export const chrysalis0512Chapter1857GunsAkimbo = {
   story: "story-read/chrysalis",
   position: 512,
   ownLength: 881,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3898421/chapter-1857-guns-akimbo",

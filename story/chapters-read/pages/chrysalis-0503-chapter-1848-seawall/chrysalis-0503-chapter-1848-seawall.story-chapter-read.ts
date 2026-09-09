@@ -8,7 +8,7 @@ export const chrysalis0503Chapter1848Seawall = {
   story: "story-read/chrysalis",
   position: 503,
   ownLength: 1021,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841421/chapter-1848-seawall",

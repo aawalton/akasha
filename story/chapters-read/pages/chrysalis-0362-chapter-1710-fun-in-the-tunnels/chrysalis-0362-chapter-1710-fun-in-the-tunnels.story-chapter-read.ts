@@ -9,7 +9,7 @@ export const chrysalis0362Chapter1710FunInTheTunnels = {
   position: 362,
   ownLength: 1087,
   ownProgress: 1087,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:23.489Z",
   publishedAt: "2026-01-12",
   externalLink:

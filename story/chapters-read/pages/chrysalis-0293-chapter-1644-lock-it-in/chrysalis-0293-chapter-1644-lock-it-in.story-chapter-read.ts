@@ -9,7 +9,7 @@ export const chrysalis0293Chapter1644LockItIn = {
   position: 293,
   ownLength: 1070,
   ownProgress: 1070,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:11.249Z",
   publishedAt: "2025-09-12",
   externalLink:

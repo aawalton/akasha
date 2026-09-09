@@ -9,7 +9,7 @@ export const chrysalis0379Chapter1727DonTLookAGiftChurchArmyInTheFace = {
   position: 379,
   ownLength: 939,
   ownProgress: 939,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:55.663Z",
   publishedAt: "2026-02-04",
   externalLink:

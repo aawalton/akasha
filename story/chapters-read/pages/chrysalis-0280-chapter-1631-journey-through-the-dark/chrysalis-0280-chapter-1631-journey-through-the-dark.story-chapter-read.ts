@@ -9,7 +9,7 @@ export const chrysalis0280Chapter1631JourneyThroughTheDark = {
   position: 280,
   ownLength: 1012,
   ownProgress: 1012,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:46.114Z",
   publishedAt: "2025-08-26",
   externalLink:

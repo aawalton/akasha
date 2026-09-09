@@ -9,7 +9,7 @@ export const chrysalis0322Chapter1672ShakeYourMoneyMakerPt2 = {
   position: 322,
   ownLength: 1133,
   ownProgress: 1133,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:06.836Z",
   publishedAt: "2025-10-22",
   externalLink:

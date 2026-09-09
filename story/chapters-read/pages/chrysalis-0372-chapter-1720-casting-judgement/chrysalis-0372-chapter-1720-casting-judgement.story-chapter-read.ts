@@ -9,7 +9,7 @@ export const chrysalis0372Chapter1720CastingJudgement = {
   position: 372,
   ownLength: 1037,
   ownProgress: 1037,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:42.253Z",
   publishedAt: "2026-01-26",
   externalLink:

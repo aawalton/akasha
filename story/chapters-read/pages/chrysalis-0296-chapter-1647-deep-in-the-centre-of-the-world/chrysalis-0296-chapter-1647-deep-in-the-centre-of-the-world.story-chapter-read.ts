@@ -9,7 +9,7 @@ export const chrysalis0296Chapter1647DeepInTheCentreOfTheWorld = {
   position: 296,
   ownLength: 961,
   ownProgress: 961,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:17.013Z",
   publishedAt: "2025-09-17",
   externalLink:

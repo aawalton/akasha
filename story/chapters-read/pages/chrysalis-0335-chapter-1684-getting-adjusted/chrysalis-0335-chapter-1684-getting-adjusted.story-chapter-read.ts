@@ -9,7 +9,7 @@ export const chrysalis0335Chapter1684GettingAdjusted = {
   position: 335,
   ownLength: 1007,
   ownProgress: 1007,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:31.742Z",
   publishedAt: "2025-11-07",
   externalLink:

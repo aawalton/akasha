@@ -9,7 +9,7 @@ export const chrysalis0297Chapter1648WizardWays = {
   position: 297,
   ownLength: 1020,
   ownProgress: 1020,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:18.929Z",
   publishedAt: "2025-09-18",
   externalLink:

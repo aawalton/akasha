@@ -9,7 +9,7 @@ export const chrysalis0334Chapter1683PurifiedAndSanctified = {
   position: 334,
   ownLength: 1236,
   ownProgress: 1236,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:29.816Z",
   publishedAt: "2025-11-06",
   externalLink:

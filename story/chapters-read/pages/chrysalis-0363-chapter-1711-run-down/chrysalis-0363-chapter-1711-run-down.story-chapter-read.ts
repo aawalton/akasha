@@ -9,7 +9,7 @@ export const chrysalis0363Chapter1711RunDown = {
   position: 363,
   ownLength: 1132,
   ownProgress: 1132,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:25.412Z",
   publishedAt: "2026-01-13",
   externalLink:

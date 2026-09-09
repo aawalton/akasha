@@ -9,7 +9,7 @@ export const chrysalis0292Chapter1643TheUnwantedEvolution = {
   position: 292,
   ownLength: 1283,
   ownProgress: 1283,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:09.329Z",
   publishedAt: "2025-09-11",
   externalLink:

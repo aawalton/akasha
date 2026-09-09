@@ -8,7 +8,7 @@ export const chrysalis0418Chapter1766DefendersReborn = {
   story: "story-read/chrysalis",
   position: 418,
   ownLength: 970,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3241639/chapter-1766-defenders-reborn",

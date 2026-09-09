@@ -8,7 +8,7 @@ export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   story: "story-read/chrysalis",
   position: 405,
   ownLength: 1091,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145673/chapter-1753-out-into-the-slime-once-more",

@@ -9,7 +9,7 @@ export const chrysalis0390Chapter1738ASmashingGoodTime = {
   position: 390,
   ownLength: 939,
   ownProgress: 939,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:16.485Z",
   publishedAt: "2026-02-19",
   externalLink:

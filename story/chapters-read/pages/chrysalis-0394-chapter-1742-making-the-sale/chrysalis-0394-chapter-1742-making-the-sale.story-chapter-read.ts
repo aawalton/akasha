@@ -9,7 +9,7 @@ export const chrysalis0394Chapter1742MakingTheSale = {
   position: 394,
   ownLength: 1055,
   ownProgress: 1055,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:24.002Z",
   publishedAt: "2026-02-25",
   externalLink:

@@ -8,7 +8,7 @@ export const chrysalis0451Chapter1799AbyssalBabysitting = {
   story: "story-read/chrysalis",
   position: 451,
   ownLength: 1099,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3429872/chapter-1799-abyssal-babysitting",

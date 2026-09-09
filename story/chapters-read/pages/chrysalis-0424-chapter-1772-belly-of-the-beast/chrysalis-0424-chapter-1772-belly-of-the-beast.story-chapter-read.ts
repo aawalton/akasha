@@ -8,7 +8,7 @@ export const chrysalis0424Chapter1772BellyOfTheBeast = {
   story: "story-read/chrysalis",
   position: 424,
   ownLength: 962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3275087/chapter-1772-belly-of-the-beast",

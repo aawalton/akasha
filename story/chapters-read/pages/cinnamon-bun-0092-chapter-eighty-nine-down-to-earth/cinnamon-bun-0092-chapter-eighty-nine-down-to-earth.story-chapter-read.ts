@@ -8,7 +8,7 @@ export const cinnamonBun0092ChapterEightyNineDownToEarth = {
   story: "story-read/cinnamon-bun",
   position: 92,
   ownLength: 2016,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/549598/chapter-eighty-nine-down-to-earth",

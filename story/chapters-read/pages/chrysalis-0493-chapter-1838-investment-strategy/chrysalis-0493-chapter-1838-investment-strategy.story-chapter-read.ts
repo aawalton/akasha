@@ -8,7 +8,7 @@ export const chrysalis0493Chapter1838InvestmentStrategy = {
   story: "story-read/chrysalis",
   position: 493,
   ownLength: 957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3776185/chapter-1838-investment-strategy",

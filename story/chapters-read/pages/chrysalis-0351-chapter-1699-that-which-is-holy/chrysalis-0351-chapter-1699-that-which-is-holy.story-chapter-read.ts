@@ -9,7 +9,7 @@ export const chrysalis0351Chapter1699ThatWhichIsHoly = {
   position: 351,
   ownLength: 929,
   ownProgress: 929,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:02.563Z",
   publishedAt: "2025-12-05",
   externalLink:

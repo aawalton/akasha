@@ -8,7 +8,7 @@ export const chrysalis0430Chapter1778GeneralPlans = {
   story: "story-read/chrysalis",
   position: 430,
   ownLength: 1050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3307532/chapter-1778-general-plans",

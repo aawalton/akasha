@@ -8,7 +8,7 @@ export const cinnamonBun0052ChapterFortyNineRift = {
   story: "story-read/cinnamon-bun",
   position: 52,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/515467/chapter-forty-nine-rift",

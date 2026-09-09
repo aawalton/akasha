@@ -9,7 +9,7 @@ export const chrysalis0343Chapter1691EmergeOnceMore = {
   position: 343,
   ownLength: 1149,
   ownProgress: 1149,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:47.081Z",
   publishedAt: "2025-11-25",
   externalLink:

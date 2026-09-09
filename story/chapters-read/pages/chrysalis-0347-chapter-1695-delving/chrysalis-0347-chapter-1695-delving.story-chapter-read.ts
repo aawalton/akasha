@@ -9,7 +9,7 @@ export const chrysalis0347Chapter1695Delving = {
   position: 347,
   ownLength: 1001,
   ownProgress: 1001,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:54.944Z",
   publishedAt: "2025-12-01",
   externalLink:

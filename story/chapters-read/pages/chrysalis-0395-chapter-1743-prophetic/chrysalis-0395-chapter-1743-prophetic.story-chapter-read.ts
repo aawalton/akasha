@@ -9,7 +9,7 @@ export const chrysalis0395Chapter1743Prophetic = {
   position: 395,
   ownLength: 1006,
   ownProgress: 1006,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:25.937Z",
   publishedAt: "2026-02-26",
   externalLink:

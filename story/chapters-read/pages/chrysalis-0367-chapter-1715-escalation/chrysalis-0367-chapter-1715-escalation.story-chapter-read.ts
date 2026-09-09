@@ -9,7 +9,7 @@ export const chrysalis0367Chapter1715Escalation = {
   position: 367,
   ownLength: 968,
   ownProgress: 968,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:33.173Z",
   publishedAt: "2026-01-19",
   externalLink:

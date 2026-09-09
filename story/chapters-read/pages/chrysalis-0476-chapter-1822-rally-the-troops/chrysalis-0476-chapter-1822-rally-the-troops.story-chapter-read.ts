@@ -8,7 +8,7 @@ export const chrysalis0476Chapter1822RallyTheTroops = {
   story: "story-read/chrysalis",
   position: 476,
   ownLength: 958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3582249/chapter-1822-rally-the-troops",

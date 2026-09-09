@@ -8,7 +8,7 @@ export const cinnamonBun0084ChapterEightyOneInCaseOfPuzzleBreakGlass = {
   story: "story-read/cinnamon-bun",
   position: 84,
   ownLength: 1886,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/542383/chapter-eighty-one-in-case-of-puzzle-break-glass",

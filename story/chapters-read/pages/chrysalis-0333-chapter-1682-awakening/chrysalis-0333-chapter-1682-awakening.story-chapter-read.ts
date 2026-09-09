@@ -9,7 +9,7 @@ export const chrysalis0333Chapter1682Awakening = {
   position: 333,
   ownLength: 989,
   ownProgress: 989,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:27.917Z",
   publishedAt: "2025-11-05",
   externalLink:

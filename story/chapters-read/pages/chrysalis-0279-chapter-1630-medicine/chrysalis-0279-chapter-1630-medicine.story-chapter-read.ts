@@ -9,7 +9,7 @@ export const chrysalis0279Chapter1630Medicine = {
   position: 279,
   ownLength: 1155,
   ownProgress: 1155,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:44.329Z",
   publishedAt: "2025-08-25",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0369Chapter1717WordIsOut = {
   position: 369,
   ownLength: 1007,
   ownProgress: 1007,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:36.884Z",
   publishedAt: "2026-01-21",
   externalLink:

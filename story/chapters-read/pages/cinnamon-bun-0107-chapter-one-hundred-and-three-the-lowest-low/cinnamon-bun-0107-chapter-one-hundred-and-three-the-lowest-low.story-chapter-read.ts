@@ -8,7 +8,7 @@ export const cinnamonBun0107ChapterOneHundredAndThreeTheLowestLow = {
   story: "story-read/cinnamon-bun",
   position: 107,
   ownLength: 2029,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-05",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/564878/chapter-one-hundred-and-three-the-lowest-low",

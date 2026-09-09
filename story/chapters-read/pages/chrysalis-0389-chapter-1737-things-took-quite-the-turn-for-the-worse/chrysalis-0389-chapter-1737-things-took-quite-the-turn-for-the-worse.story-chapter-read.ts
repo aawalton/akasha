@@ -9,7 +9,7 @@ export const chrysalis0389Chapter1737ThingsTookQuiteTheTurnForTheWorse = {
   position: 389,
   ownLength: 915,
   ownProgress: 915,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:14.702Z",
   publishedAt: "2026-02-18",
   externalLink:

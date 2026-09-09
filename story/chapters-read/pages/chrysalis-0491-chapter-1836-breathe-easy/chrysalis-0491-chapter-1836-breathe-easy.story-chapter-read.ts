@@ -8,7 +8,7 @@ export const chrysalis0491Chapter1836BreatheEasy = {
   story: "story-read/chrysalis",
   position: 491,
   ownLength: 864,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3766403/chapter-1836-breathe-easy",

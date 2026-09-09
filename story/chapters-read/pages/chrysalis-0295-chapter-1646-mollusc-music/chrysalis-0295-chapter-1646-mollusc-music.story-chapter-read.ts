@@ -9,7 +9,7 @@ export const chrysalis0295Chapter1646MolluscMusic = {
   position: 295,
   ownLength: 1316,
   ownProgress: 1316,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:15.096Z",
   publishedAt: "2025-09-16",
   externalLink:

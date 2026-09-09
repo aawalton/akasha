@@ -8,7 +8,7 @@ export const chrysalis0481Chapter1827InvasionOfTheHeart = {
   story: "story-read/chrysalis",
   position: 481,
   ownLength: 919,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3614880/chapter-1827-invasion-of-the-heart",

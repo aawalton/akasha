@@ -8,7 +8,7 @@ export const cinnamonBun0091ChapterEightyEightWyvern = {
   story: "story-read/cinnamon-bun",
   position: 91,
   ownLength: 1973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/548495/chapter-eighty-eight-wyvern",

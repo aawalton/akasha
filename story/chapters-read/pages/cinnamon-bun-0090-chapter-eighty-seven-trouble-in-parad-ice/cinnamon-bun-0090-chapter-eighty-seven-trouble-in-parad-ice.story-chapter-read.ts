@@ -8,7 +8,7 @@ export const cinnamonBun0090ChapterEightySevenTroubleInParadIce = {
   story: "story-read/cinnamon-bun",
   position: 90,
   ownLength: 2001,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/547416/chapter-eighty-seven--trouble-in-parad-ice",

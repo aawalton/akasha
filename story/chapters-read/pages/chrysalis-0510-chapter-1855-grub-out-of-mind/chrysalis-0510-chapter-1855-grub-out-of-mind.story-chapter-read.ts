@@ -8,7 +8,7 @@ export const chrysalis0510Chapter1855GrubOutOfMind = {
   story: "story-read/chrysalis",
   position: 510,
   ownLength: 1128,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3888035/chapter-1855-grub-out-of-mind",

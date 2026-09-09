@@ -9,7 +9,7 @@ export const chrysalis0353Chapter1701Hunting = {
   position: 353,
   ownLength: 1091,
   ownProgress: 1091,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:06.409Z",
   publishedAt: "2025-12-09",
   externalLink:

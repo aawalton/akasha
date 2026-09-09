@@ -8,7 +8,7 @@ export const chrysalis0464Chapter1810EndOfTheFifth = {
   story: "story-read/chrysalis",
   position: 464,
   ownLength: 1051,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3512906/chapter-1810-end-of-the-fifth",

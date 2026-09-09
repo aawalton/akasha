@@ -8,7 +8,7 @@ export const chrysalis0479Chapter1825RideTheWave = {
   story: "story-read/chrysalis",
   position: 479,
   ownLength: 918,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3610905/chapter-1825-ride-the-wave",

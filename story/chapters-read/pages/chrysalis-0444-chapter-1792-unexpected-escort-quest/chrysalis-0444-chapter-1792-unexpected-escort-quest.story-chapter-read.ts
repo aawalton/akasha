@@ -8,7 +8,7 @@ export const chrysalis0444Chapter1792UnexpectedEscortQuest = {
   story: "story-read/chrysalis",
   position: 444,
   ownLength: 932,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3388817/chapter-1792-unexpected-escort-quest",

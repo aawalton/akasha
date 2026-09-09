@@ -9,7 +9,7 @@ export const chrysalis0319Chapter1670Politicking = {
   position: 319,
   ownLength: 1024,
   ownProgress: 1024,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:01.016Z",
   publishedAt: "2025-10-20",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0298Chapter1649SolantSurveys = {
   position: 298,
   ownLength: 1543,
   ownProgress: 1543,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:20.840Z",
   publishedAt: "2025-09-19",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0384Chapter1732ArmyWideRumble = {
   position: 384,
   ownLength: 1010,
   ownProgress: 1010,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:05.341Z",
   publishedAt: "2026-02-11",
   externalLink:

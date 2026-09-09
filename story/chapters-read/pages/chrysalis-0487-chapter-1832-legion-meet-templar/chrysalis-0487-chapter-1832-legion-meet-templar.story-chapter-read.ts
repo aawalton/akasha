@@ -8,7 +8,7 @@ export const chrysalis0487Chapter1832LegionMeetTemplar = {
   story: "story-read/chrysalis",
   position: 487,
   ownLength: 1124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3739806/chapter-1832-legion-meet-templar",

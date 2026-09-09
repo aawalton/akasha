@@ -8,7 +8,7 @@ export const chrysalis0419Chapter1767TheDeepTunnels = {
   story: "story-read/chrysalis",
   position: 419,
   ownLength: 1036,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3246037/chapter-1767-the-deep-tunnels",

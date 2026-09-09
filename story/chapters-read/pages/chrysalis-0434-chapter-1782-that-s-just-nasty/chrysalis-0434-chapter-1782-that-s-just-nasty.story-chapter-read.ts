@@ -8,7 +8,7 @@ export const chrysalis0434Chapter1782ThatSJustNasty = {
   story: "story-read/chrysalis",
   position: 434,
   ownLength: 988,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3331259/chapter-1782-thats-just-nasty",

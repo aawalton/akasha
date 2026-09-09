@@ -8,7 +8,7 @@ export const chrysalis0468Chapter1814GatheringOfCultists = {
   story: "story-read/chrysalis",
   position: 468,
   ownLength: 1338,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3526817/chapter-1814-gathering-of-cultists",

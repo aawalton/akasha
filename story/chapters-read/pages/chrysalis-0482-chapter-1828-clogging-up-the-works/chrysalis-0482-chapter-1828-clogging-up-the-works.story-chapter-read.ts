@@ -8,7 +8,7 @@ export const chrysalis0482Chapter1828CloggingUpTheWorks = {
   story: "story-read/chrysalis",
   position: 482,
   ownLength: 1053,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3619832/chapter-1828-clogging-up-the-works",

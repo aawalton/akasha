@@ -8,7 +8,7 @@ export const cinnamonBun0042ChapterThirtyNineGuildMeUpButtercup = {
   story: "story-read/cinnamon-bun",
   position: 42,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508995/chapter-thirty-nine-guild-me-up-buttercup",

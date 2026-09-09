@@ -8,7 +8,7 @@ export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   story: "story-read/cinnamon-bun",
   position: 94,
   ownLength: 1973,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/551983/chapter-ninety-one-core-values",

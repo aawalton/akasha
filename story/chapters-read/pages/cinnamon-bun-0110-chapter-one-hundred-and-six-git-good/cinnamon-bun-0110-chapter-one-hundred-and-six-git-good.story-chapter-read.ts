@@ -8,7 +8,7 @@ export const cinnamonBun0110ChapterOneHundredAndSixGitGood = {
   story: "story-read/cinnamon-bun",
   position: 110,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/566380/chapter-one-hundred-and-six-git-good",

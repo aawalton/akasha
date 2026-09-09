@@ -8,7 +8,7 @@ export const chrysalis0498Chapter1843OpenEyes = {
   story: "story-read/chrysalis",
   position: 498,
   ownLength: 944,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3806865/chapter-1843-open-eyes",

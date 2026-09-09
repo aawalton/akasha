@@ -8,7 +8,7 @@ export const cinnamonBun0061ChapterFiftyEightOpportunityComesKicking = {
   story: "story-read/cinnamon-bun",
   position: 61,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/524016/chapter-fifty-eight-opportunity-comes-kicking",

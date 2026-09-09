@@ -9,7 +9,7 @@ export const chrysalis0302Chapter1653SpeedIAmSpeed = {
   position: 302,
   ownLength: 1002,
   ownProgress: 1002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:28.468Z",
   publishedAt: "2025-09-25",
   externalLink:

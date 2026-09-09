@@ -8,7 +8,7 @@ export const cinnamonBun0033ChapterThirtyOneInWhichBroccoliGivesThe = {
   story: "story-read/cinnamon-bun",
   position: 33,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504280/chapter-thirty-one-in-which-broccoli-gives-the",

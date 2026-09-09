@@ -9,7 +9,7 @@ export const chrysalis0393Chapter1741ReturnAndReflect = {
   position: 393,
   ownLength: 1043,
   ownProgress: 1043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:22.086Z",
   publishedAt: "2026-02-24",
   externalLink:

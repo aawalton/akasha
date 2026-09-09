@@ -8,7 +8,7 @@ export const cinnamonBun0065ChapterSixtyTwoTheDungeonBook = {
   story: "story-read/cinnamon-bun",
   position: 65,
   ownLength: 2126,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528178/chapter-sixty-two-the-dungeon-book",

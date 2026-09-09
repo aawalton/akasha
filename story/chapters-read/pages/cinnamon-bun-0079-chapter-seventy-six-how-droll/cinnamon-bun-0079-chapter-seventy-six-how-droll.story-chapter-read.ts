@@ -8,7 +8,7 @@ export const cinnamonBun0079ChapterSeventySixHowDroll = {
   story: "story-read/cinnamon-bun",
   position: 79,
   ownLength: 1978,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/539030/chapter-seventy-six-how-droll",

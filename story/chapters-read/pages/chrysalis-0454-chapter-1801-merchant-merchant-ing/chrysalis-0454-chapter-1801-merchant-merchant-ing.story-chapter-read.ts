@@ -8,7 +8,7 @@ export const chrysalis0454Chapter1801MerchantMerchantIng = {
   story: "story-read/chrysalis",
   position: 454,
   ownLength: 1041,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473199/chapter-1801-merchant-merchant-ing",

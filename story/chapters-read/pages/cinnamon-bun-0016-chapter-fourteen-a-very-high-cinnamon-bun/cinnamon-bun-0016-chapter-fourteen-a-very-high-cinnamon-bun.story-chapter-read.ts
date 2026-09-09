@@ -8,7 +8,7 @@ export const cinnamonBun0016ChapterFourteenAVeryHighCinnamonBun = {
   story: "story-read/cinnamon-bun",
   position: 16,
   ownLength: 2340,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/490458/chapter-fourteen-a-very-high-cinnamon-bun",

@@ -8,7 +8,7 @@ export const cinnamonBun0009ChapterSevenGrave = {
   story: "story-read/cinnamon-bun",
   position: 9,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/482677/chapter-seven-grave",

@@ -8,7 +8,7 @@ export const chrysalis0433Chapter1781BadToWorse = {
   story: "story-read/chrysalis",
   position: 433,
   ownLength: 1032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3327327/chapter-1781-bad-to-worse",

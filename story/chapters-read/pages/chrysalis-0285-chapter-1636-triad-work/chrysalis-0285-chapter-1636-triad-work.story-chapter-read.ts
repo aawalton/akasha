@@ -9,7 +9,7 @@ export const chrysalis0285Chapter1636TriadWork = {
   position: 285,
   ownLength: 972,
   ownProgress: 972,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:55.945Z",
   publishedAt: "2025-09-02",
   externalLink:

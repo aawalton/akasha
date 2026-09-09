@@ -8,7 +8,7 @@ export const chrysalis0406Chapter1754DancingInTheRuinsOfWhatWas = {
   story: "story-read/chrysalis",
   position: 406,
   ownLength: 976,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3145686/chapter-1754-dancing-in-the-ruins-of-what-was",

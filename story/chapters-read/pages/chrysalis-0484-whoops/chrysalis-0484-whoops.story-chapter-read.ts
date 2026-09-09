@@ -8,7 +8,7 @@ export const chrysalis0484Whoops = {
   story: "story-read/chrysalis",
   position: 484,
   ownLength: 65,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-16",
   externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3683004/whoops",
   externalId: "3683004",

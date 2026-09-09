@@ -9,7 +9,7 @@ export const chrysalis0387Chapter1735NightTimeInTheCityAbove = {
   position: 387,
   ownLength: 1150,
   ownProgress: 1150,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:11.135Z",
   publishedAt: "2026-02-15",
   externalLink:

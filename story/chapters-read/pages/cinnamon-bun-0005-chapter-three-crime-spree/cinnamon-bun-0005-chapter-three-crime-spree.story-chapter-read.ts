@@ -8,7 +8,7 @@ export const cinnamonBun0005ChapterThreeCrimeSpree = {
   story: "story-read/cinnamon-bun",
   position: 5,
   ownLength: 2004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/479147/chapter-three-crime-spree",

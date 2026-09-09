@@ -8,7 +8,7 @@ export const cinnamonBun0059ChapterFiftySixDreamingBig = {
   story: "story-read/cinnamon-bun",
   position: 59,
   ownLength: 1885,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/521597/chapter-fifty-six-dreaming-big",

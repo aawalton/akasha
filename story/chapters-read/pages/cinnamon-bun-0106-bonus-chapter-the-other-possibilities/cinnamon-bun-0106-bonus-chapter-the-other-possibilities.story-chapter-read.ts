@@ -8,7 +8,7 @@ export const cinnamonBun0106BonusChapterTheOtherPossibilities = {
   story: "story-read/cinnamon-bun",
   position: 106,
   ownLength: 2010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/563489/bonus-chapter-the-other-possibilities",

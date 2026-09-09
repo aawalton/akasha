@@ -8,7 +8,7 @@ export const cinnamonBun0081ChapterSeventyEightGlasslighting = {
   story: "story-read/cinnamon-bun",
   position: 81,
   ownLength: 2341,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/540977/chapter-seventy-eight-glasslighting",

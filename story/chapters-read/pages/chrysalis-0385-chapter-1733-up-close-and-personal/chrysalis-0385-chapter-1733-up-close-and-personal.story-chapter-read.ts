@@ -9,7 +9,7 @@ export const chrysalis0385Chapter1733UpCloseAndPersonal = {
   position: 385,
   ownLength: 856,
   ownProgress: 856,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:07.273Z",
   publishedAt: "2026-02-12",
   externalLink:

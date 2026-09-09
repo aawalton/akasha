@@ -8,7 +8,7 @@ export const chrysalis0447Chapter1795UnstoppableAssault = {
   story: "story-read/chrysalis",
   position: 447,
   ownLength: 952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3411937/chapter-1795-unstoppable-assault",

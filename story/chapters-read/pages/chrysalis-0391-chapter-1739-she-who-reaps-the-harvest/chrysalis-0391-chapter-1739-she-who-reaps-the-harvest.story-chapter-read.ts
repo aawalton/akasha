@@ -9,7 +9,7 @@ export const chrysalis0391Chapter1739SheWhoReapsTheHarvest = {
   position: 391,
   ownLength: 826,
   ownProgress: 826,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:18.288Z",
   publishedAt: "2026-02-20",
   externalLink:

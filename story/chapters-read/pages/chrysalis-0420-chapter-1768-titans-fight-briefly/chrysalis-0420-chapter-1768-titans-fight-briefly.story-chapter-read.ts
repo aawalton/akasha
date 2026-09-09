@@ -8,7 +8,7 @@ export const chrysalis0420Chapter1768TitansFightBriefly = {
   story: "story-read/chrysalis",
   position: 420,
   ownLength: 1138,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3250228/chapter-1768-titans-fight-briefly",

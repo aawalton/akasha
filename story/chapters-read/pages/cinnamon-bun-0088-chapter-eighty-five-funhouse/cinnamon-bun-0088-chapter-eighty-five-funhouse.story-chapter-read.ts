@@ -8,7 +8,7 @@ export const cinnamonBun0088ChapterEightyFiveFunhouse = {
   story: "story-read/cinnamon-bun",
   position: 88,
   ownLength: 1945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545427/chapter-eighty-five-funhouse",

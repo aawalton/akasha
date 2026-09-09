@@ -8,7 +8,7 @@ export const cinnamonBun0064ChapterSixtyOneSpendingTheNightInn = {
   story: "story-read/cinnamon-bun",
   position: 64,
   ownLength: 2168,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/527112/chapter-sixty-one-spending-the-night-inn",

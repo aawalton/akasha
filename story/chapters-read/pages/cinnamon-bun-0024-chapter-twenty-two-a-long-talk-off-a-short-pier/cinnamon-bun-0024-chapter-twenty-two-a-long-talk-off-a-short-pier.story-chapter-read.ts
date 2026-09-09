@@ -8,7 +8,7 @@ export const cinnamonBun0024ChapterTwentyTwoALongTalkOffAShortPier = {
   story: "story-read/cinnamon-bun",
   position: 24,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/495831/chapter-twenty-two-a-long-talk-off-a-short-pier",

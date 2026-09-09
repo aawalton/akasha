@@ -8,7 +8,7 @@ export const cinnamonBun0066ChapterSixtyThreeTheShadyLady = {
   story: "story-read/cinnamon-bun",
   position: 66,
   ownLength: 2027,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/528882/chapter-sixty-three-the-shady-lady",

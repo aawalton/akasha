@@ -8,7 +8,7 @@ export const cinnamonBun0054ChapterFiftyOneFetchingHelp = {
   story: "story-read/cinnamon-bun",
   position: 54,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/517291/chapter-fifty-one-fetching-help",

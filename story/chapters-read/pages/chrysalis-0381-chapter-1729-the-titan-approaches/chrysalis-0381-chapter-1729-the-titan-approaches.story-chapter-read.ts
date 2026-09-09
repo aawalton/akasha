@@ -9,7 +9,7 @@ export const chrysalis0381Chapter1729TheTitanApproaches = {
   position: 381,
   ownLength: 964,
   ownProgress: 964,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:59.567Z",
   publishedAt: "2026-02-06",
   externalLink:

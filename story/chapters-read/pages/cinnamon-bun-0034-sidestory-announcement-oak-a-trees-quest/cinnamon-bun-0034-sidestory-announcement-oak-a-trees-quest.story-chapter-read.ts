@@ -8,7 +8,7 @@ export const cinnamonBun0034SidestoryAnnouncementOakATreesQuest = {
   story: "story-read/cinnamon-bun",
   position: 34,
   ownLength: 168,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/504423/sidestory-announcement-oak-a-trees-quest",

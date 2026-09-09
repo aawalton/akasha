@@ -9,7 +9,7 @@ export const chrysalis0316Chapter1667BorderTensions = {
   position: 316,
   ownLength: 1141,
   ownProgress: 1141,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:55.255Z",
   publishedAt: "2025-10-15",
   externalLink:

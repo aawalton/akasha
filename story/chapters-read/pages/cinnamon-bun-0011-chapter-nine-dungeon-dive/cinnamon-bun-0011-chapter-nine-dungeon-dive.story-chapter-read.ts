@@ -8,7 +8,7 @@ export const cinnamonBun0011ChapterNineDungeonDive = {
   story: "story-read/cinnamon-bun",
   position: 11,
   ownLength: 2049,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/485041/chapter-nine-dungeon-dive",

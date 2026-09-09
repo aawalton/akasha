@@ -9,7 +9,7 @@ export const chrysalis0375Chapter1723WindingUpMutations = {
   position: 375,
   ownLength: 963,
   ownProgress: 963,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:48.116Z",
   publishedAt: "2026-01-29",
   externalLink:

@@ -8,7 +8,7 @@ export const chrysalis0438Chapter1786ItJustDoesnTStop = {
   story: "story-read/chrysalis",
   position: 438,
   ownLength: 1085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3356198/chapter-1786-it-just-doesnt-stop",

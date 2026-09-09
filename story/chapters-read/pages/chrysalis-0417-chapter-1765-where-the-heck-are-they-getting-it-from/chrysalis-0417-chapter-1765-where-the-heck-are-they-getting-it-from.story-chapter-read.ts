@@ -8,7 +8,7 @@ export const chrysalis0417Chapter1765WhereTheHeckAreTheyGettingItFrom = {
   story: "story-read/chrysalis",
   position: 417,
   ownLength: 1056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-06",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3237060/chapter-1765-where-the-heck-are-they-getting-it",

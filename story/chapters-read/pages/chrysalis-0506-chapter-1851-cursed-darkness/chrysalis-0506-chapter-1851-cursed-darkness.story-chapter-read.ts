@@ -8,7 +8,7 @@ export const chrysalis0506Chapter1851CursedDarkness = {
   story: "story-read/chrysalis",
   position: 506,
   ownLength: 1283,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3861596/chapter-1851-cursed-darkness",

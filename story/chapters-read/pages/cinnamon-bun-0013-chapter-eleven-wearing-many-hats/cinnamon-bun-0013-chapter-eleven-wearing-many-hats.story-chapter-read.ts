@@ -8,7 +8,7 @@ export const cinnamonBun0013ChapterElevenWearingManyHats = {
   story: "story-read/cinnamon-bun",
   position: 13,
   ownLength: 2088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/486922/chapter-eleven-wearing-many-hats",

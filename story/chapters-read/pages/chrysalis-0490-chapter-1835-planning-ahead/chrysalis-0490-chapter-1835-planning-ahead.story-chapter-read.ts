@@ -8,7 +8,7 @@ export const chrysalis0490Chapter1835PlanningAhead = {
   story: "story-read/chrysalis",
   position: 490,
   ownLength: 941,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3762035/chapter-1835-planning-ahead",

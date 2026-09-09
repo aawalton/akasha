@@ -9,7 +9,7 @@ export const chrysalis0365Chapter1713ReNegotiate = {
   position: 365,
   ownLength: 989,
   ownProgress: 989,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:29.243Z",
   publishedAt: "2026-01-15",
   externalLink:

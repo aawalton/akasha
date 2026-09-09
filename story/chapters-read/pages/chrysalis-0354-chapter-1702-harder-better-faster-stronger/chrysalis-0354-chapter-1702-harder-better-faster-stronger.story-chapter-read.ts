@@ -9,7 +9,7 @@ export const chrysalis0354Chapter1702HarderBetterFasterStronger = {
   position: 354,
   ownLength: 1045,
   ownProgress: 1045,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:08.329Z",
   publishedAt: "2025-12-10",
   externalLink:

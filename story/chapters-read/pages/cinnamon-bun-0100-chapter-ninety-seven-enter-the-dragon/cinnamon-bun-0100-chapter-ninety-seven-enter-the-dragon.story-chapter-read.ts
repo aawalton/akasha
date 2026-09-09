@@ -8,7 +8,7 @@ export const cinnamonBun0100ChapterNinetySevenEnterTheDragon = {
   story: "story-read/cinnamon-bun",
   position: 100,
   ownLength: 1933,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/558853/chapter-ninety-seven-enter-the-dragon",

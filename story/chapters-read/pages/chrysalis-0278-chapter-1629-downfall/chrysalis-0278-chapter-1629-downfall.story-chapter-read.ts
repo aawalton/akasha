@@ -9,7 +9,7 @@ export const chrysalis0278Chapter1629Downfall = {
   position: 278,
   ownLength: 977,
   ownProgress: 977,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:42.425Z",
   publishedAt: "2025-08-22",
   externalLink:

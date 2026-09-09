@@ -9,7 +9,7 @@ export const chrysalis0281Chapter1632HowToSolveAProblemLikeTheorazzn = {
   position: 281,
   ownLength: 1076,
   ownProgress: 1076,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:48.045Z",
   publishedAt: "2025-08-27",
   externalLink:

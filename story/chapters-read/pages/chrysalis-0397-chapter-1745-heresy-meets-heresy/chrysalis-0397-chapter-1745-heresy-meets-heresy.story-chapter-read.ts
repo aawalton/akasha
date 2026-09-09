@@ -9,7 +9,7 @@ export const chrysalis0397Chapter1745HeresyMeetsHeresy = {
   position: 397,
   ownLength: 1072,
   ownProgress: 1072,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:29.789Z",
   publishedAt: "2026-03-02",
   externalLink:

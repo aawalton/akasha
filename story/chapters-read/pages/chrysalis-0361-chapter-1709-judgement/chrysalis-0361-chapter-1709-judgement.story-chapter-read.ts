@@ -9,7 +9,7 @@ export const chrysalis0361Chapter1709Judgement = {
   position: 361,
   ownLength: 1230,
   ownProgress: 1230,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:21.519Z",
   publishedAt: "2025-12-17",
   externalLink:

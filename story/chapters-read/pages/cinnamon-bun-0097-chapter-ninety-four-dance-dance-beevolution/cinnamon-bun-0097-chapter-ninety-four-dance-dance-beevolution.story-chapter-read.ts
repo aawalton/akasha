@@ -8,7 +8,7 @@ export const cinnamonBun0097ChapterNinetyFourDanceDanceBeevolution = {
   story: "story-read/cinnamon-bun",
   position: 97,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/555452/chapter-ninety-four-dance-dance-beevolution",

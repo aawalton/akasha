@@ -8,7 +8,7 @@ export const cinnamonBun0057ChapterFiftyFourTheReturn = {
   story: "story-read/cinnamon-bun",
   position: 57,
   ownLength: 2003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/519278/chapter-fifty-four-the-return",

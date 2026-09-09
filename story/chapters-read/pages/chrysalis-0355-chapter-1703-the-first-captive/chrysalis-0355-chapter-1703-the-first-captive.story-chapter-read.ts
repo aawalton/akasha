@@ -9,7 +9,7 @@ export const chrysalis0355Chapter1703TheFirstCaptive = {
   position: 355,
   ownLength: 1013,
   ownProgress: 1013,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:10.248Z",
   publishedAt: "2025-12-11",
   externalLink:

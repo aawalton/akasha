@@ -8,7 +8,7 @@ export const cinnamonBun0008ChapterSixArmouredAndReady = {
   story: "story-read/cinnamon-bun",
   position: 8,
   ownLength: 2096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/481687/chapter-six-armoured-and-ready",

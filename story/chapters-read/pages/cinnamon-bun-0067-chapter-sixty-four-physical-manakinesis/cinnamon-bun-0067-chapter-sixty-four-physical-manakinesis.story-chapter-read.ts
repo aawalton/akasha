@@ -8,7 +8,7 @@ export const cinnamonBun0067ChapterSixtyFourPhysicalManakinesis = {
   story: "story-read/cinnamon-bun",
   position: 67,
   ownLength: 1978,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/530255/chapter-sixty-four-physical-manakinesis",

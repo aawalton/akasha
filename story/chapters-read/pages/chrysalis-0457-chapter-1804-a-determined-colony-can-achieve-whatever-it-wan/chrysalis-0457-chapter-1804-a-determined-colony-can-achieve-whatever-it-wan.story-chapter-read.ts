@@ -8,7 +8,7 @@ export const chrysalis0457Chapter1804ADeterminedColonyCanAchieveWhateverItWan = 
   story: "story-read/chrysalis",
   position: 457,
   ownLength: 935,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3473212/chapter-1804-a-determined-colony-can-achieve-whatever",

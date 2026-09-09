@@ -8,7 +8,7 @@ export const chrysalis0448Chapter1796ReturningToTheFortress = {
   story: "story-read/chrysalis",
   position: 448,
   ownLength: 1092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3416569/chapter-1796-returning-to-the-fortress",

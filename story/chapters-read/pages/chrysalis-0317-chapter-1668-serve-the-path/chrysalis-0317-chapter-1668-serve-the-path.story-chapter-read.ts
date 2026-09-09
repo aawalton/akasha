@@ -9,7 +9,7 @@ export const chrysalis0317Chapter1668ServeThePath = {
   position: 317,
   ownLength: 1025,
   ownProgress: 1025,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:57.177Z",
   publishedAt: "2025-10-16",
   externalLink:

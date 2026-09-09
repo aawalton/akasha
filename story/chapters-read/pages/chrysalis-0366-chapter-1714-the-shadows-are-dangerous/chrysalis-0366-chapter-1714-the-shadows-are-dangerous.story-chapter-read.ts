@@ -9,7 +9,7 @@ export const chrysalis0366Chapter1714TheShadowsAreDangerous = {
   position: 366,
   ownLength: 1030,
   ownProgress: 1030,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:31.243Z",
   publishedAt: "2026-01-16",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0370Chapter1718SweptClean = {
   position: 370,
   ownLength: 1019,
   ownProgress: 1019,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:38.703Z",
   publishedAt: "2026-01-22",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0344Chapter1692WhatSolantWantsWhatSolantGets = {
   position: 344,
   ownLength: 1017,
   ownProgress: 1017,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:49.037Z",
   publishedAt: "2025-11-26",
   externalLink:

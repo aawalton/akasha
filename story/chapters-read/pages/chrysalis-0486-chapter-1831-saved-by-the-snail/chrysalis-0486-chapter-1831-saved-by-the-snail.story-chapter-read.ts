@@ -8,7 +8,7 @@ export const chrysalis0486Chapter1831SavedByTheSnail = {
   story: "story-read/chrysalis",
   position: 486,
   ownLength: 909,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3735448/chapter-1831-saved-by-the-snail",

@@ -9,7 +9,7 @@ export const chrysalis0321KickstarterIsLive = {
   position: 321,
   ownLength: 60,
   ownProgress: 60,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:04.923Z",
   publishedAt: "2025-10-21",
   externalLink:

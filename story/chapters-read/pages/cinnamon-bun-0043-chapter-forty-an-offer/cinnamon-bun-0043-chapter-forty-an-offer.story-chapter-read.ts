@@ -8,7 +8,7 @@ export const cinnamonBun0043ChapterFortyAnOffer = {
   story: "story-read/cinnamon-bun",
   position: 43,
   ownLength: 1950,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/509569/chapter-forty-an-offer",

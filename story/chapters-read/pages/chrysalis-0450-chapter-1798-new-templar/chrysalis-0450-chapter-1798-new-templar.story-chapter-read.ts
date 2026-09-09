@@ -8,7 +8,7 @@ export const chrysalis0450Chapter1798NewTemplar = {
   story: "story-read/chrysalis",
   position: 450,
   ownLength: 1000,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3425438/chapter-1798-new-templar",

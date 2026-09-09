@@ -8,7 +8,7 @@ export const cinnamonBun0040ChapterThirtySevenLetMeLevelWithYou = {
   story: "story-read/cinnamon-bun",
   position: 40,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/508062/chapter-thirty-seven-let-me-level-with-you",

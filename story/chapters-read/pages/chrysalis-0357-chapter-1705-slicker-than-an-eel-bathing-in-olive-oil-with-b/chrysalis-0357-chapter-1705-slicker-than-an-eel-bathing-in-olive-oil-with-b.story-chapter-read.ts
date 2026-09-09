@@ -10,7 +10,7 @@ export const chrysalis0357Chapter1705SlickerThanAnEelBathingInOliveOilWithB = {
   position: 357,
   ownLength: 967,
   ownProgress: 967,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:13.951Z",
   publishedAt: "2025-12-17",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0318Chapter1669Security = {
   position: 318,
   ownLength: 1135,
   ownProgress: 1135,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:59.097Z",
   publishedAt: "2025-10-17",
   externalLink:

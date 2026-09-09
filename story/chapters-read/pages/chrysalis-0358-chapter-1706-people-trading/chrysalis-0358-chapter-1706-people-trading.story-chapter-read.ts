@@ -9,7 +9,7 @@ export const chrysalis0358Chapter1706PeopleTrading = {
   position: 358,
   ownLength: 1441,
   ownProgress: 1441,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:15.740Z",
   publishedAt: "2025-12-17",
   externalLink:

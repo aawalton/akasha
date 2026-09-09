@@ -8,7 +8,7 @@ export const chrysalis0478Chapter1824BroodMother = {
   story: "story-read/chrysalis",
   position: 478,
   ownLength: 991,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3591860/chapter-1824-brood-mother",

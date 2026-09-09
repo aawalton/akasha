@@ -9,7 +9,7 @@ export const chrysalis0332Chapter1681SlowlyWaking = {
   position: 332,
   ownLength: 1059,
   ownProgress: 1059,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:26.002Z",
   publishedAt: "2025-11-04",
   externalLink:

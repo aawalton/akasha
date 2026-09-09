@@ -8,7 +8,7 @@ export const chrysalis0440Chapter1788UnintendedConsequences = {
   story: "story-read/chrysalis",
   position: 440,
   ownLength: 985,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3364760/chapter-1788-unintended-consequences",

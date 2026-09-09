@@ -8,7 +8,7 @@ export const cinnamonBun0031ChapterTwentyNineMadHare = {
   story: "story-read/cinnamon-bun",
   position: 31,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/502099/chapter-twenty-nine-mad-hare",

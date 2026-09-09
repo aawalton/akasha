@@ -9,7 +9,7 @@ export const chrysalis0301Chapter1652StabilityAtLast = {
   position: 301,
   ownLength: 978,
   ownProgress: 978,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:26.600Z",
   publishedAt: "2025-09-24",
   externalLink:

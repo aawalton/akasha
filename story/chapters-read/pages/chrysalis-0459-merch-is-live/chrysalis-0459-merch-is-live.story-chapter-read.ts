@@ -8,7 +8,7 @@ export const chrysalis0459MerchIsLive = {
   story: "story-read/chrysalis",
   position: 459,
   ownLength: 602,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3476050/merch-is-live",
   externalId: "3476050",

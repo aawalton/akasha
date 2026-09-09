@@ -8,7 +8,7 @@ export const chrysalis0432Chapter1780Doomed = {
   story: "story-read/chrysalis",
   position: 432,
   ownLength: 874,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3323430/chapter-1780-doomed",

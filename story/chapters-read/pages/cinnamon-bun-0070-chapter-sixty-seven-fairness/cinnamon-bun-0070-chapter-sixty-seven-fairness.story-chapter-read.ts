@@ -8,7 +8,7 @@ export const cinnamonBun0070ChapterSixtySevenFairness = {
   story: "story-read/cinnamon-bun",
   position: 70,
   ownLength: 2054,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/533652/chapter-sixty-seven-fairness",

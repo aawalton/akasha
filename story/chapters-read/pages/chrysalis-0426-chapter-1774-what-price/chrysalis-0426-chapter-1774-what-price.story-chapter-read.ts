@@ -8,7 +8,7 @@ export const chrysalis0426Chapter1774WhatPrice = {
   story: "story-read/chrysalis",
   position: 426,
   ownLength: 1017,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3283555/chapter-1774-what-price",

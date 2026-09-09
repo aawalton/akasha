@@ -9,7 +9,7 @@ export const chrysalis0378Chapter1726UnexpectedWins = {
   position: 378,
   ownLength: 926,
   ownProgress: 926,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:53.748Z",
   publishedAt: "2026-02-03",
   externalLink:

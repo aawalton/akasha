@@ -8,7 +8,7 @@ export const chrysalis0422Chapter1770ALotOfWorkHasBeenDoneHere = {
   story: "story-read/chrysalis",
   position: 422,
   ownLength: 1147,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3266195/chapter-1770-a-lot-of-work-has-been-done-here",

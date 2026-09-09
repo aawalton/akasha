@@ -8,7 +8,7 @@ export const cinnamonBun0020ChapterEighteenPickAPixie = {
   story: "story-read/cinnamon-bun",
   position: 20,
   ownLength: 1935,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/493150/chapter-eighteen-pick-a-pixie",

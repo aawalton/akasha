@@ -9,7 +9,7 @@ export const chrysalis0380Chapter1728DiscussingTheDivine = {
   position: 380,
   ownLength: 941,
   ownProgress: 941,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:57.662Z",
   publishedAt: "2026-02-05",
   externalLink:

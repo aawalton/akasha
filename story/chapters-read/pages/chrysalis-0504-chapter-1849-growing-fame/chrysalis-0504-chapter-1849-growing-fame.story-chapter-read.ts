@@ -8,7 +8,7 @@ export const chrysalis0504Chapter1849GrowingFame = {
   story: "story-read/chrysalis",
   position: 504,
   ownLength: 1103,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3841423/chapter-1849-growing-fame",

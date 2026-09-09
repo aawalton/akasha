@@ -8,7 +8,7 @@ export const chrysalis0409Chapter1757Unstoppable = {
   story: "story-read/chrysalis",
   position: 409,
   ownLength: 960,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3190181/chapter-1757-unstoppable",

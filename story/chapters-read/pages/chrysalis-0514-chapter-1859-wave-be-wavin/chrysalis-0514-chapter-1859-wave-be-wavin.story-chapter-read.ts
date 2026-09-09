@@ -7,7 +7,7 @@ export const chrysalis0514Chapter1859WaveBeWavin = {
   story: "story-read/chrysalis",
   position: 514,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3907373",
   source: "royal-road",
   title: "Chapter 1859 - Wave be Wavin’",

@@ -8,7 +8,7 @@ export const cinnamonBun0089ChapterEightySixBroccoliOnIce = {
   story: "story-read/cinnamon-bun",
   position: 89,
   ownLength: 1979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/545876/chapter-eighty-six-broccoli-on-ice",

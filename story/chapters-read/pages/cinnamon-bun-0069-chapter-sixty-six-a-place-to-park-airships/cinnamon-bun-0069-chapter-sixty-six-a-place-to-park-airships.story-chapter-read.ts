@@ -8,7 +8,7 @@ export const cinnamonBun0069ChapterSixtySixAPlaceToParkAirships = {
   story: "story-read/cinnamon-bun",
   position: 69,
   ownLength: 1943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/532220/chapter-sixty-six-a-place-to-park-airships",

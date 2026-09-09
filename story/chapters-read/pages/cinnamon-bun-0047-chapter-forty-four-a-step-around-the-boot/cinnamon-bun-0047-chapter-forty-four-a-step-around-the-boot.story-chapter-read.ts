@@ -8,7 +8,7 @@ export const cinnamonBun0047ChapterFortyFourAStepAroundTheBoot = {
   story: "story-read/cinnamon-bun",
   position: 47,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/512324/chapter-forty-four-a-step-around-the-boot",

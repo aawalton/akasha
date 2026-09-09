@@ -9,7 +9,7 @@ export const chrysalis0314Chapter1665ShiftsInTheSanctumPart2 = {
   position: 314,
   ownLength: 979,
   ownProgress: 979,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:53:51.329Z",
   publishedAt: "2025-10-13",
   externalLink:

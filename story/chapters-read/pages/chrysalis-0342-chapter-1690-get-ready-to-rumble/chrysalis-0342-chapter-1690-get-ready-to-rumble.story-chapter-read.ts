@@ -9,7 +9,7 @@ export const chrysalis0342Chapter1690GetReadyToRumble = {
   position: 342,
   ownLength: 954,
   ownProgress: 954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:45.173Z",
   publishedAt: "2025-11-24",
   externalLink:

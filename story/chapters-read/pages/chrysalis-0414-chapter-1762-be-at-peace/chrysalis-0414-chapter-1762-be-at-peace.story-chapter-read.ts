@@ -8,7 +8,7 @@ export const chrysalis0414Chapter1762BeAtPeace = {
   story: "story-read/chrysalis",
   position: 414,
   ownLength: 969,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3216502/chapter-1762-be-at-peace",

@@ -9,7 +9,7 @@ export const chrysalis0336TakingABriefBreak = {
   position: 336,
   ownLength: 174,
   ownProgress: 174,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:33.658Z",
   publishedAt: "2025-11-10",
   externalLink:

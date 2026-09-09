@@ -8,7 +8,7 @@ export const cinnamonBun0062ChapterFiftyNineLordAbrahamBristlecone = {
   story: "story-read/cinnamon-bun",
   position: 62,
   ownLength: 2064,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/524868/chapter-fifty-nine-lord-abraham-bristlecone",

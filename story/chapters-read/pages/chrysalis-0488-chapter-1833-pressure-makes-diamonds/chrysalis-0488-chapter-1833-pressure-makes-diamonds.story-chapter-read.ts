@@ -8,7 +8,7 @@ export const chrysalis0488Chapter1833PressureMakesDiamonds = {
   story: "story-read/chrysalis",
   position: 488,
   ownLength: 893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3744398/chapter-1833-pressure-makes-diamonds",

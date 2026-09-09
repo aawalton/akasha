@@ -8,7 +8,7 @@ export const chrysalis0400Chapter1748TimeForVengeance = {
   story: "story-read/chrysalis",
   position: 400,
   ownLength: 1032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3117642/chapter-1748-time-for-vengeance",

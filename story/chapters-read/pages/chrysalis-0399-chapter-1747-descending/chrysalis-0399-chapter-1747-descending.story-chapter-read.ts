@@ -9,7 +9,7 @@ export const chrysalis0399Chapter1747Descending = {
   position: 399,
   ownLength: 964,
   ownProgress: 521,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3113964/chapter-1747-descending",

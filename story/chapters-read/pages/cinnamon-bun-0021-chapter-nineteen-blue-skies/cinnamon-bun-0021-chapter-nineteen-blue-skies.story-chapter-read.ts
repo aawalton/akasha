@@ -8,7 +8,7 @@ export const cinnamonBun0021ChapterNineteenBlueSkies = {
   story: "story-read/cinnamon-bun",
   position: 21,
   ownLength: 2033,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/493629/chapter-nineteen-blue-skies",

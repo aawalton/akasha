@@ -9,7 +9,7 @@ export const chrysalis0348Chapter1696HowTheTablesDoTheTurnThing = {
   position: 348,
   ownLength: 827,
   ownProgress: 827,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:54:56.746Z",
   publishedAt: "2025-12-02",
   externalLink:

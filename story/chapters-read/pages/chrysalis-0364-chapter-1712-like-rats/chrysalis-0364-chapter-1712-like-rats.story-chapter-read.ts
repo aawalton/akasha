@@ -9,7 +9,7 @@ export const chrysalis0364Chapter1712LikeRats = {
   position: 364,
   ownLength: 1026,
   ownProgress: 1026,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:27.339Z",
   publishedAt: "2026-01-14",
   externalLink:

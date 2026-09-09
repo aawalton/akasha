@@ -9,7 +9,7 @@ export const chrysalis0377Chapter1725FloatingAlongTheTunnels = {
   position: 377,
   ownLength: 898,
   ownProgress: 898,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:55:51.825Z",
   publishedAt: "2026-02-02",
   externalLink:

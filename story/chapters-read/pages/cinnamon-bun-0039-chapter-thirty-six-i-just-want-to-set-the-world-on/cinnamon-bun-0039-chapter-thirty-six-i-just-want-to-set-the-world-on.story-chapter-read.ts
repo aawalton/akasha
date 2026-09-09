@@ -8,7 +8,7 @@ export const cinnamonBun0039ChapterThirtySixIJustWantToSetTheWorldOn = {
   story: "story-read/cinnamon-bun",
   position: 39,
   ownLength: 2052,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/507441/chapter-thirty-six-i-just-want-to-set-the-world",

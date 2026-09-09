@@ -8,7 +8,7 @@ export const cinnamonBun0075ChapterSeventyTwoTheAdventurerLook = {
   story: "story-read/cinnamon-bun",
   position: 75,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/537204/chapter-seventy-two-the-adventurer-look",

@@ -8,7 +8,7 @@ export const chrysalis0494Chapter1839Cleanup = {
   story: "story-read/chrysalis",
   position: 494,
   ownLength: 935,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/22518/chrysalis/chapter/3780267/chapter-1839-cleanup",
