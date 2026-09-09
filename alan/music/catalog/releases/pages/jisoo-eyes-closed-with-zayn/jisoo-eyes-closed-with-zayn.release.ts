@@ -9,7 +9,7 @@ export const jisooEyesClosedWithZayn = {
   position: 0,
   ownLength: 3.022917,
   ownProgress: 3.022917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-10",

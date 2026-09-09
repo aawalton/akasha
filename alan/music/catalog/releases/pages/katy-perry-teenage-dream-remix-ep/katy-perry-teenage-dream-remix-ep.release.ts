@@ -9,7 +9,7 @@ export const katyPerryTeenageDreamRemixEp = {
   position: 0,
   ownLength: 17.656667,
   ownProgress: 17.656667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalId: "1FRRBe4H2wtYI2jEJpmBYg",

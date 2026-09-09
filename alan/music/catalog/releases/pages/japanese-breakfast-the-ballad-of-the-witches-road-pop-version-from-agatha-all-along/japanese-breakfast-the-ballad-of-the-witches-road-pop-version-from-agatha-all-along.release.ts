@@ -9,7 +9,7 @@ export const japaneseBreakfastTheBalladOfTheWitchesRoadPopVersionFromAgathaAllAl
   position: 0,
   ownLength: 2.52325,
   ownProgress: 2.52325,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-18",
   externalId: "5JrcjA3eetOUQ5bUbKfjVm",

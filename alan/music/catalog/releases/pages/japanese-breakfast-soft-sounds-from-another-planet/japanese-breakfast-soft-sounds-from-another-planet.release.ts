@@ -9,7 +9,7 @@ export const japaneseBreakfastSoftSoundsFromAnotherPlanet = {
   position: 0,
   ownLength: 37.175367,
   ownProgress: 37.175367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-14",
   externalId: "6PnTp1NIlueJGURW4zSYua",

@@ -9,7 +9,7 @@ export const jessicaBaioWhatAreYouAfraidOf = {
   position: 0,
   ownLength: 10.087917,
   ownProgress: 10.087917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-09-13",

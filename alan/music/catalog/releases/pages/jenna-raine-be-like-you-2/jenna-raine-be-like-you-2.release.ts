@@ -9,7 +9,7 @@ export const jennaRaineBeLikeYou2 = {
   position: 0,
   ownLength: 20.077283,
   ownProgress: 20.077283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-11-08",

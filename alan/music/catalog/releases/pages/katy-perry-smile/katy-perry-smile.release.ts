@@ -9,7 +9,7 @@ export const katyPerrySmile = {
   position: 0,
   ownLength: 2.781633,
   ownProgress: 2.781633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
   externalId: "61HTU0pcDaTmotLnBQgoLs",

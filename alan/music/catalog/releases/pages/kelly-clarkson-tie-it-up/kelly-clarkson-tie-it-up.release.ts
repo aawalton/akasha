@@ -9,7 +9,7 @@ export const kellyClarksonTieItUp = {
   position: 0,
   ownLength: 2.798433,
   ownProgress: 2.798433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-06-25",
   externalId: "19ib87nPhblt4szZPG499r",

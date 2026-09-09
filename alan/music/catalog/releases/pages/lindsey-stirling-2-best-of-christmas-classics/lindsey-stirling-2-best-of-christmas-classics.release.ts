@@ -9,7 +9,7 @@ export const lindseyStirling2BestOfChristmasClassics = {
   position: 0,
   ownLength: 79.0825,
   ownProgress: 79.0825,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-22",
   externalId: "36ryPypXv6fd4peLrA8zso",

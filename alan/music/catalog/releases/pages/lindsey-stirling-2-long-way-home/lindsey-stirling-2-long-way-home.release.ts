@@ -9,7 +9,7 @@ export const lindseyStirling2LongWayHome = {
   position: 0,
   ownLength: 2.629617,
   ownProgress: 2.629617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-30",
   externalId: "4oTgs7iS9gty8setMf2ljq",

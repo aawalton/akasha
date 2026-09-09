@@ -9,7 +9,7 @@ export const katyPerryFirework = {
   position: 0,
   ownLength: 0.503867,
   ownProgress: 0.503867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalId: "2oKE3HhxPaI0EsUBajZHJg",

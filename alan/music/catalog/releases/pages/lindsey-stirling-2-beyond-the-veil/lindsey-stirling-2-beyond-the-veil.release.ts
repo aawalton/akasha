@@ -9,7 +9,7 @@ export const lindseyStirling2BeyondTheVeil = {
   position: 0,
   ownLength: 4.25125,
   ownProgress: 4.25125,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-15",
   externalId: "1kUdsXXw767lPjqeXQmplH",

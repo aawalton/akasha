@@ -9,7 +9,7 @@ export const lindseyStirling2MyImmortal = {
   position: 0,
   ownLength: 4.189333,
   ownProgress: 4.189333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-01",
   externalId: "4DzeDnY2sUTMSPqQI40GIs",

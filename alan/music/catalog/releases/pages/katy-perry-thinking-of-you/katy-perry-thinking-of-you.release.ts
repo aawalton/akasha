@@ -9,7 +9,7 @@ export const katyPerryThinkingOfYou = {
   position: 0,
   ownLength: 8.958383,
   ownProgress: 8.958383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalId: "6QMt0VIXFUFDrYaDBnjfYO",

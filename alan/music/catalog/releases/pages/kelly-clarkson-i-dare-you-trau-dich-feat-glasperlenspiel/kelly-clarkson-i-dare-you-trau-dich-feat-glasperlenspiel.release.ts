@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouTrauDichFeatGlasperlenspiel = {
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-11",
   externalId: "4blV2ZIUY1ssDtKSCDXoFJ",

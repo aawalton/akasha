@@ -9,7 +9,7 @@ export const leonardCohenVariousPositions = {
   position: 0,
   ownLength: 35.3015,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1984-12-11",
   externalId: "6I58qJMqZHhb8jtNT3CuJB",

@@ -9,7 +9,7 @@ export const kellyClarksonUnderTheMistletoe = {
   position: 0,
   ownLength: 3.76145,
   ownProgress: 3.76145,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-28",
   externalId: "2nndXLmS4C16yX7UJBWW2U",

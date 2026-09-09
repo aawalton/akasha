@@ -9,7 +9,7 @@ export const kellyClarksonHeartbeatSongTheRemixes = {
   position: 0,
   ownLength: 25.584183,
   ownProgress: 25.584183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-24",
   externalId: "5R7sUIjFhWTie6OWlJI5yE",

@@ -9,7 +9,7 @@ export const katyPerryHarleysInHawaiiKandyRemix = {
   position: 0,
   ownLength: 2.75015,
   ownProgress: 2.75015,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-13",
   externalId: "2ptDoWK5hL9gzZ3SXLSVmX",

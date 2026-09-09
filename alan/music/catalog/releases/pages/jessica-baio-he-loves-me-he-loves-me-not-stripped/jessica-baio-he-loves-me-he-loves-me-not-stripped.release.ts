@@ -9,7 +9,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   position: 0,
   ownLength: 5.403533,
   ownProgress: 5.403533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-14",

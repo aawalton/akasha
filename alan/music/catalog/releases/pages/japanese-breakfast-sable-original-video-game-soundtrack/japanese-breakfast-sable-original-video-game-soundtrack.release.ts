@@ -9,7 +9,7 @@ export const japaneseBreakfastSableOriginalVideoGameSoundtrack = {
   position: 0,
   ownLength: 96.050783,
   ownProgress: 96.050783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-09-24",

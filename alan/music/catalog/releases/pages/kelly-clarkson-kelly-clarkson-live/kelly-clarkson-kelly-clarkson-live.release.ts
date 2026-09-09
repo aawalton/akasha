@@ -9,7 +9,7 @@ export const kellyClarksonKellyClarksonLive = {
   position: 0,
   ownLength: 7.403567,
   ownProgress: 7.403567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-09",
   externalId: "4LLwHRxNL24BFuKPHgvGz6",

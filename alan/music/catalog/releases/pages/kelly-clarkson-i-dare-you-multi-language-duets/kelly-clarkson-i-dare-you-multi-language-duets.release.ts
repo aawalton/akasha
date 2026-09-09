@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouMultiLanguageDuets = {
   position: 0,
   ownLength: 21.646483,
   ownProgress: 21.646483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-16",
   externalId: "4OUdmzLsYYpcUbCPS7TTZ7",

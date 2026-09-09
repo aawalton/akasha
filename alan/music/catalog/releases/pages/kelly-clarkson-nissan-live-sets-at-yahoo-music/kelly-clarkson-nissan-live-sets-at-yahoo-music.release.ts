@@ -9,7 +9,7 @@ export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   position: 0,
   ownLength: 28.9846,
   ownProgress: 28.9846,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2007-07-31",
   externalId: "6NEzXXoQlQqLROVlqpXJHX",

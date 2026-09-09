@@ -9,7 +9,7 @@ export const katyPerryTeenageDreamTheCompleteConfection = {
   position: 0,
   ownLength: 77.007033,
   ownProgress: 77.007033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-03-12",
   externalId: "5BvgP623rtvlc0HDcpzquz",

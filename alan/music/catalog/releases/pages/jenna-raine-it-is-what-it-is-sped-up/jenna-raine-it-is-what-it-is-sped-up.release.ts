@@ -9,7 +9,7 @@ export const jennaRaineItIsWhatItIsSpedUp = {
   position: 0,
   ownLength: 4.661533,
   ownProgress: 4.661533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-11",

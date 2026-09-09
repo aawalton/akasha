@@ -9,7 +9,7 @@ export const lilithMaxStardust = {
   position: 0,
   ownLength: 3.414833,
   ownProgress: 3.414833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2021-07-30",

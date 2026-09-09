@@ -9,7 +9,7 @@ export const katyPerryWhenIMGoneWithKatyPerry = {
   position: 0,
   ownLength: 2.687767,
   ownProgress: 2.687767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-29",
   externalId: "5itVTi6rI3MlOcWBxROxd9",

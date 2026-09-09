@@ -9,7 +9,7 @@ export const kellyClarksonLighthouse = {
   position: 0,
   ownLength: 6.833567,
   ownProgress: 6.833567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-12",
   externalId: "4DzAjjwEIpOvWQPVrI9lva",

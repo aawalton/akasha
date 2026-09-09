@@ -9,7 +9,7 @@ export const kellyClarksonPeopleLikeUsRemixes = {
   position: 0,
   ownLength: 33.903317,
   ownProgress: 33.903317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-04-30",
   externalId: "2mzLTXC7VT8Grfvm8IvfwJ",

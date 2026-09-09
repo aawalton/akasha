@@ -9,7 +9,7 @@ export const jessicaBaioRadioRemixes = {
   position: 0,
   ownLength: 7.484433,
   ownProgress: 7.484433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-18",

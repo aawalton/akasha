@@ -9,7 +9,7 @@ export const katyPerryChainedToTheRhythmFeatLilYachty = {
   position: 0,
   ownLength: 4.170667,
   ownProgress: 4.170667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-11",
   externalId: "2mAoxdlQ6zsGL1vFbB8iNB",

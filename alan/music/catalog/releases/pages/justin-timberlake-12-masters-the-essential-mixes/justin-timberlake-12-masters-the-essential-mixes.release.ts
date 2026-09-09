@@ -9,7 +9,7 @@ export const justinTimberlake12MastersTheEssentialMixes = {
   position: 0,
   ownLength: 74.3866,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-17",
   externalId: "5nEa8zZQgZetmabLXu72Ko",

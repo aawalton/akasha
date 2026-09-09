@@ -9,7 +9,7 @@ export const katyPerryCosmicEnergy = {
   position: 0,
   ownLength: 22.368233,
   ownProgress: 22.368233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-18",
   externalId: "3MXubEDnkXIaacR9an5d9e",

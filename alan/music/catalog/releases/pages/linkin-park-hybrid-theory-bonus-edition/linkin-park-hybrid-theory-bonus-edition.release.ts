@@ -9,7 +9,7 @@ export const linkinParkHybridTheoryBonusEdition = {
   position: 0,
   ownLength: 49.144383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2000-10-24",
   externalId: "6hPkbAV3ZXpGZBGUvL6jVM",

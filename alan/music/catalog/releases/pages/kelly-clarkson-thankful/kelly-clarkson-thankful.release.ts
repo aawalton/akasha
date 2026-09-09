@@ -9,7 +9,7 @@ export const kellyClarksonThankful = {
   position: 0,
   ownLength: 45.600167,
   ownProgress: 45.600167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-04-15",
   externalId: "5ErgI599IvfYniy0UWVGBN",

@@ -9,7 +9,7 @@ export const kellyClarksonMineLiveFromTheBelasco = {
   position: 0,
   ownLength: 3.3723,
   ownProgress: 3.3723,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-17",
   externalId: "1AMJ7zubViKtgMM0oSc0uO",

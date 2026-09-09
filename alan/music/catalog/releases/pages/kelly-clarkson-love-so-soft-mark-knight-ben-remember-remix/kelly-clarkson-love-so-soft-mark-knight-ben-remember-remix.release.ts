@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemix = {
   position: 0,
   ownLength: 6.856,
   ownProgress: 6.856,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
   externalId: "7Cl6UUqbPNnu0Smn0NRAYU",

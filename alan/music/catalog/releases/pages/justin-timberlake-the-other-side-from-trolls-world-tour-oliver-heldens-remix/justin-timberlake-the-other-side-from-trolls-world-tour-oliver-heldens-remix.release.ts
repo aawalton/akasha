@@ -9,7 +9,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOliverHeldensRemix =
   position: 0,
   ownLength: 3.935117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-10",
   externalId: "2Pmbbx6FMe27iG2ReNrTyz",

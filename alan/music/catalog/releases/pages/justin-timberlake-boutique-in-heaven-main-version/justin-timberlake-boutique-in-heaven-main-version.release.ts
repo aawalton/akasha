@@ -9,7 +9,7 @@ export const justinTimberlakeBoutiqueInHeavenMainVersion = {
   position: 0,
   ownLength: 4.14,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2006-12-19",
   externalId: "0lM6qzeuSr2CTI0JsOq3LU",

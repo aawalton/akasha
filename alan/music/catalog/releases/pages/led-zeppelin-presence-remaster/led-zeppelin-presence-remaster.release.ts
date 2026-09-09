@@ -9,7 +9,7 @@ export const ledZeppelinPresenceRemaster = {
   position: 0,
   ownLength: 44.796183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1976-03-31",
   externalId: "3uhD8hNpb0m3iIZ18RHH5u",

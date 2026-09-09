@@ -9,7 +9,7 @@ export const lilithMaxIceAge = {
   position: 0,
   ownLength: 3.141183,
   ownProgress: 3.141183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-02-11",

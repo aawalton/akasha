@@ -9,7 +9,7 @@ export const lilithMaxOrion = {
   position: 0,
   ownLength: 5.901883,
   ownProgress: 5.901883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-12",

@@ -9,7 +9,7 @@ export const justinTimberlakeFuturesexLovesounds = {
   position: 0,
   ownLength: 66.28105,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2006-09-12",
   externalId: "2scB1uhcCI1TSf6b9TCZK3",

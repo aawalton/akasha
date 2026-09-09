@@ -9,7 +9,7 @@ export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixes = {
   position: 0,
   ownLength: 40.084183,
   ownProgress: 40.084183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-03-29",
   externalId: "7hNpQCnCqxhvlYYtNp8WjZ",

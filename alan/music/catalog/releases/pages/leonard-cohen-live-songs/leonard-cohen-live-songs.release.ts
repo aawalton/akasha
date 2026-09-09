@@ -9,7 +9,7 @@ export const leonardCohenLiveSongs = {
   position: 0,
   ownLength: 48.49505,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1973-04-01",
   externalId: "2E0441zcodrrkrNiffdEiC",

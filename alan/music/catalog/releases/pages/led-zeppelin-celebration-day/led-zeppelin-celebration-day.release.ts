@@ -9,7 +9,7 @@ export const ledZeppelinCelebrationDay = {
   position: 0,
   ownLength: 115.57615,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-11-19",
   externalId: "0kTe1sQd9yhDsdG2Zth7X6",

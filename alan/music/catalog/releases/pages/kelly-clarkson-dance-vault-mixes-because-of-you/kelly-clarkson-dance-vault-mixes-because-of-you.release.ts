@@ -9,7 +9,7 @@ export const kellyClarksonDanceVaultMixesBecauseOfYou = {
   position: 0,
   ownLength: 46.3666,
   ownProgress: 46.3666,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-10-03",
   externalId: "5OYq6HUAn2aQ8jg1vxEaBI",

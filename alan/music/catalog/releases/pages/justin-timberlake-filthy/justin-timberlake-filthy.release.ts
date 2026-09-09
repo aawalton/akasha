@@ -9,7 +9,7 @@ export const justinTimberlakeFilthy = {
   position: 0,
   ownLength: 4.8991,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-05",
   externalId: "730MjVEfvrWeEloF42B5U1",

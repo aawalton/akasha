@@ -9,7 +9,7 @@ export const jennaRaineBigDumbHeartChapter1 = {
   position: 0,
   ownLength: 15.862317,
   ownProgress: 15.862317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-05",

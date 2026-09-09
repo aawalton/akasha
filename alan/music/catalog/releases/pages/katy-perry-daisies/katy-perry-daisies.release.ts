@@ -9,7 +9,7 @@ export const katyPerryDaisies = {
   position: 0,
   ownLength: 2.885383,
   ownProgress: 2.885383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-15",
   externalId: "2m5J1DUH7hJpPSOromIqpN",

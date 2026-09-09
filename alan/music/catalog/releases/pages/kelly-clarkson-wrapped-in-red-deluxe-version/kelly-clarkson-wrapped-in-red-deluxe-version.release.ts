@@ -9,7 +9,7 @@ export const kellyClarksonWrappedInRedDeluxeVersion = {
   position: 0,
   ownLength: 51.85095,
   ownProgress: 51.85095,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-29",
   externalId: "0ccJYENQpzoy98XNBDwIVO",

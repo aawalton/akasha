@@ -9,7 +9,7 @@ export const lilithMaxInMemory = {
   position: 0,
   ownLength: 3.24215,
   ownProgress: 3.24215,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2020-12-11",

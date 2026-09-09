@@ -9,7 +9,7 @@ export const jessicaBaioAccident = {
   position: 0,
   ownLength: 12.4115,
   ownProgress: 12.4115,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-24",
   externalId: "1txZIezoR87PmBEO6QPTqK",

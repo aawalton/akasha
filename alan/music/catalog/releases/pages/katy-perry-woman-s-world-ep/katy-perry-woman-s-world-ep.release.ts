@@ -9,7 +9,7 @@ export const katyPerryWomanSWorldEp = {
   position: 0,
   ownLength: 17.596067,
   ownProgress: 17.596067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-15",
   externalId: "6zSIkJTqQm06zGCunKbmaR",

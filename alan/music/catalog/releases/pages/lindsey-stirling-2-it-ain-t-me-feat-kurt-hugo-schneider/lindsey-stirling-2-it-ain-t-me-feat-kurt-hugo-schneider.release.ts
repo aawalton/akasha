@@ -9,7 +9,7 @@ export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
   position: 0,
   ownLength: 2.51225,
   ownProgress: 2.51225,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-17",
   externalId: "5lADouoV6pxMBncyavs5Ma",

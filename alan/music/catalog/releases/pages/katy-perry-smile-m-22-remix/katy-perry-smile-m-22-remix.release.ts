@@ -9,7 +9,7 @@ export const katyPerrySmileM22Remix = {
   position: 0,
   ownLength: 3.01515,
   ownProgress: 3.01515,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-18",
   externalId: "1zWTqN1kSs4420dq2tqUzo",

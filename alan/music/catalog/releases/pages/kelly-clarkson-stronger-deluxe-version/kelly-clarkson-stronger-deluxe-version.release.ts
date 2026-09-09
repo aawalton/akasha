@@ -9,7 +9,7 @@ export const kellyClarksonStrongerDeluxeVersion = {
   position: 0,
   ownLength: 61.879917,
   ownProgress: 61.879917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-24",
   externalId: "1MNvMtEmMMdBXZBDcFNcWj",

@@ -9,7 +9,7 @@ export const jessicaBaioIfINever = {
   position: 0,
   ownLength: 2.937467,
   ownProgress: 2.937467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-01-15",

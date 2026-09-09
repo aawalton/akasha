@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouArkadiRemix = {
   position: 0,
   ownLength: 7.021133,
   ownProgress: 7.021133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-12",
   externalId: "4MG8PMIxtbAiEmNLczDoaC",

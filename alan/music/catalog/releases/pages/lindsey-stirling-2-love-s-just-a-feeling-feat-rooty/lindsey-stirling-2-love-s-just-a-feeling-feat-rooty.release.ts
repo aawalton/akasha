@@ -9,7 +9,7 @@ export const lindseyStirling2LoveSJustAFeelingFeatRooty = {
   position: 0,
   ownLength: 6.8419,
   ownProgress: 6.8419,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-28",
   externalId: "4NKdaweIWgiRF30ulkbqcb",

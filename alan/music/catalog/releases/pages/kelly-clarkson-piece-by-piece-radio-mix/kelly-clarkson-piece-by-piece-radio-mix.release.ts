@@ -9,7 +9,7 @@ export const kellyClarksonPieceByPieceRadioMix = {
   position: 0,
   ownLength: 3.745333,
   ownProgress: 3.745333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-19",
   externalId: "1Iz4Bvj0LG1puWmKJngIGl",

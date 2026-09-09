@@ -9,7 +9,7 @@ export const katyPerryChainedToTheRhythmHotChipRemix = {
   position: 0,
   ownLength: 5.700083,
   ownProgress: 5.700083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-17",
   externalId: "5F1lG0zd72qY4dU57JmEPn",

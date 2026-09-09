@@ -9,7 +9,7 @@ export const jessicaBaioBiteTheBullet = {
   position: 0,
   ownLength: 2.34875,
   ownProgress: 2.34875,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-07-19",

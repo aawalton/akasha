@@ -9,7 +9,7 @@ export const katyPerrySwishSwishBlondeRemix = {
   position: 0,
   ownLength: 4.108,
   ownProgress: 4.108,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-25",
   externalId: "6ble6YnRhxaCaQmeYjaHNJ",

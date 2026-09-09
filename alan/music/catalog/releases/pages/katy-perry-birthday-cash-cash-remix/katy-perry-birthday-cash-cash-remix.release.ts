@@ -9,7 +9,7 @@ export const katyPerryBirthdayCashCashRemix = {
   position: 0,
   ownLength: 4.423817,
   ownProgress: 4.423817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalId: "3Fr4iY7qw7KZHxseIwYqIp",

@@ -9,7 +9,7 @@ export const katyPerryRoar = {
   position: 0,
   ownLength: 3.7111,
   ownProgress: 3.7111,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "7tl8VkZBE0bSMaMcqscnCk",

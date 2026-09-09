@@ -9,7 +9,7 @@ export const katyPerryWitnessDeluxe = {
   position: 0,
   ownLength: 65.117717,
   ownProgress: 65.117717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-09",
   externalId: "0UlbGi4oAth8s6rwaGSU8Z",

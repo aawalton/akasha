@@ -9,7 +9,7 @@ export const kellyClarksonHappierThanEver = {
   position: 0,
   ownLength: 6.331883,
   ownProgress: 6.331883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-25",
   externalId: "6Yg2WbhAn0F3vFiwFnC7wO",

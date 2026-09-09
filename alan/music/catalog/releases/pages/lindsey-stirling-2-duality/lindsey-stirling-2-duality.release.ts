@@ -9,7 +9,7 @@ export const lindseyStirling2Duality = {
   position: 0,
   ownLength: 43.325267,
   ownProgress: 43.325267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-14",
   externalId: "124LdmYiB3SM7x2EefHBoa",

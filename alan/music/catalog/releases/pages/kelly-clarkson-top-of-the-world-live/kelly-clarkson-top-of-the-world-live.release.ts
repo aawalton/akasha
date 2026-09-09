@@ -9,7 +9,7 @@ export const kellyClarksonTopOfTheWorldLive = {
   position: 0,
   ownLength: 5.272717,
   ownProgress: 5.272717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalId: "7zkWoyqV3PnXhCkYNC1eaR",

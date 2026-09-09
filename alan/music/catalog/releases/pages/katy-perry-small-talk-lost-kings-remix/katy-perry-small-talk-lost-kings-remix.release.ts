@@ -9,7 +9,7 @@ export const katyPerrySmallTalkLostKingsRemix = {
   position: 0,
   ownLength: 2.870967,
   ownProgress: 2.870967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
   externalId: "32MI2kSHvHvXZLdOqZ3RcJ",

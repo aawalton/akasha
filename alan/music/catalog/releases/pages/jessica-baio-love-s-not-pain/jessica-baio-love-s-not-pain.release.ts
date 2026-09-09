@@ -9,7 +9,7 @@ export const jessicaBaioLoveSNotPain = {
   position: 0,
   ownLength: 12.535167,
   ownProgress: 12.535167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-11",

@@ -9,7 +9,7 @@ export const linkinParkFriendlyFireACappellaInstrumental = {
   position: 0,
   ownLength: 5.922483,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-29",
   externalId: "2JGoWZYDsksSiHcRqbGa3o",

@@ -9,7 +9,7 @@ export const ledZeppelinPresenceDeluxeEdition = {
   position: 0,
   ownLength: 76.359183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1976-03-31",
   externalId: "6vSiY2OVanKKforfEOT2PD",

@@ -9,7 +9,7 @@ export const kellyClarksonIRunToYouTheVoicePerformance = {
   position: 0,
   ownLength: 2.839683,
   ownProgress: 2.839683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-18",
   externalId: "5La9ktnZmlKPSzv4W9aLJP",

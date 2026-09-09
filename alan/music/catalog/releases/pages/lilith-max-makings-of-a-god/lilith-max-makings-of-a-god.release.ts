@@ -9,7 +9,7 @@ export const lilithMaxMakingsOfAGod = {
   position: 0,
   ownLength: 15.205133,
   ownProgress: 15.205133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-26",

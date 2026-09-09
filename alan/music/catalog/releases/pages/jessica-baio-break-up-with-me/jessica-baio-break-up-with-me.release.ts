@@ -9,7 +9,7 @@ export const jessicaBaioBreakUpWithMe = {
   position: 0,
   ownLength: 7.38555,
   ownProgress: 7.38555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-08-16",

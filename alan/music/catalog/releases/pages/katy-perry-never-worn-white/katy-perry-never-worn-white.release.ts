@@ -9,7 +9,7 @@ export const katyPerryNeverWornWhite = {
   position: 0,
   ownLength: 3.75065,
   ownProgress: 3.75065,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-05",
   externalId: "0Gubs5k8ay34m9a0yiliRa",

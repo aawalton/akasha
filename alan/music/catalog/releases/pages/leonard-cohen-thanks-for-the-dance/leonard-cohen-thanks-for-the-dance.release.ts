@@ -9,7 +9,7 @@ export const leonardCohenThanksForTheDance = {
   position: 0,
   ownLength: 29.351733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-11-22",
   externalId: "603qWApi8Q89JnkVAbixrb",

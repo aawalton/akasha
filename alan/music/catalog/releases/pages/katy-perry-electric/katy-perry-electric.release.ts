@@ -9,7 +9,7 @@ export const katyPerryElectric = {
   position: 0,
   ownLength: 3.225717,
   ownProgress: 3.225717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-14",
   externalId: "2kjyPzcMPYUZlB9CJzu10f",

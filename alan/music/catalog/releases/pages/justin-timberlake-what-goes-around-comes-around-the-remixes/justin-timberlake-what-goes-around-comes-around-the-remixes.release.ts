@@ -9,7 +9,7 @@ export const justinTimberlakeWhatGoesAroundComesAroundTheRemixes = {
   position: 0,
   ownLength: 41.688883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-02-27",
   externalId: "6G2boZuVyTIIxlmTG52NsI",

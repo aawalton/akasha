@@ -9,7 +9,7 @@ export const justinTimberlakeFollowMyLeadFeatEsmeeDenters = {
   position: 0,
   ownLength: 3.786883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-11-18",
   externalId: "2fn396iwhYixSewfPwXlIi",

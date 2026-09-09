@@ -9,7 +9,7 @@ export const katyPerryThisIsHowWeDo = {
   position: 0,
   ownLength: 3.392383,
   ownProgress: 3.392383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-25",
   externalId: "4eY1j8WJYPSsSj6BLi6ku2",

@@ -9,7 +9,7 @@ export const justinTimberlakeSuitTieFeatJayZFeatJayZRadioEdit = {
   position: 0,
   ownLength: 4.485767,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-15",
   externalId: "5jlQrOtSuTXojcvBCpivyo",

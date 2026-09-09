@@ -9,7 +9,7 @@ export const kellyClarksonMrKnowItAllCountryVersion = {
   position: 0,
   ownLength: 3.636217,
   ownProgress: 3.636217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-04-03",
   externalId: "4oiSIpVpFQPwkSFEb6stky",

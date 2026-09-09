@@ -9,7 +9,7 @@ export const lindseyStirling2EvilTwinFeatShuba = {
   position: 0,
   ownLength: 7.59355,
   ownProgress: 7.59355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-30",
   externalId: "5TdxDUUW3Teu2wnJDx7oMe",

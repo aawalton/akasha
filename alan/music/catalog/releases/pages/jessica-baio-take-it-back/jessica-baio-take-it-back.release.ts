@@ -9,7 +9,7 @@ export const jessicaBaioTakeItBack = {
   position: 0,
   ownLength: 4.904117,
   ownProgress: 4.904117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-18",

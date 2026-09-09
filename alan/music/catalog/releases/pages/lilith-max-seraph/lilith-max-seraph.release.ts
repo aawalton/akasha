@@ -9,7 +9,7 @@ export const lilithMaxSeraph = {
   position: 0,
   ownLength: 6.505333,
   ownProgress: 6.505333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-21",

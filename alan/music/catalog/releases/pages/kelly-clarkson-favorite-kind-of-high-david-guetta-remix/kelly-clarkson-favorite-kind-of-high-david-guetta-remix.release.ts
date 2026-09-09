@@ -9,7 +9,7 @@ export const kellyClarksonFavoriteKindOfHighDavidGuettaRemix = {
   position: 0,
   ownLength: 5.483333,
   ownProgress: 5.483333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-25",
   externalId: "6wMEg3O3cbrXcOYXSnFYR6",

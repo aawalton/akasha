@@ -9,7 +9,7 @@ export const katyPerryBonAppetit3lauRemix = {
   position: 0,
   ownLength: 3.074,
   ownProgress: 3.074,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-17",
   externalId: "12AWGZH31AHqTjk2ykcwjS",

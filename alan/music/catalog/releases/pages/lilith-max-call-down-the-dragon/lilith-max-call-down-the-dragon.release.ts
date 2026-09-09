@@ -9,7 +9,7 @@ export const lilithMaxCallDownTheDragon = {
   position: 0,
   ownLength: 15.76785,
   ownProgress: 15.76785,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-05-16",

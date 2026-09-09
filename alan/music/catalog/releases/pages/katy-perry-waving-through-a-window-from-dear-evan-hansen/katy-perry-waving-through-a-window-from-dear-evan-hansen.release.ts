@@ -9,7 +9,7 @@ export const katyPerryWavingThroughAWindowFromDearEvanHansen = {
   position: 0,
   ownLength: 3.9331,
   ownProgress: 3.9331,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-02",
   externalId: "6BabrVf6FzOZVIZsvpZasb",

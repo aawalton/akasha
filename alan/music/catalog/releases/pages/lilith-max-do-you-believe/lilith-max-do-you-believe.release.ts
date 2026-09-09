@@ -9,7 +9,7 @@ export const lilithMaxDoYouBelieve = {
   position: 0,
   ownLength: 2.8685,
   ownProgress: 2.8685,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-07-14",

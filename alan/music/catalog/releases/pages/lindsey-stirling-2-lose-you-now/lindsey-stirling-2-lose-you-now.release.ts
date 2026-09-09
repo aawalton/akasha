@@ -9,7 +9,7 @@ export const lindseyStirling2LoseYouNow = {
   position: 0,
   ownLength: 3.223233,
   ownProgress: 3.223233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-15",
   externalId: "6Ii8t4334stUzKevBsLUMf",

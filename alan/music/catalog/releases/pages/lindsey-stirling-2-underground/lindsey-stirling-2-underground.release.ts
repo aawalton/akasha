@@ -9,7 +9,7 @@ export const lindseyStirling2Underground = {
   position: 0,
   ownLength: 4.404983,
   ownProgress: 4.404983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-21",
   externalId: "0AAPCaReAdGtbGVYSIv6qj",

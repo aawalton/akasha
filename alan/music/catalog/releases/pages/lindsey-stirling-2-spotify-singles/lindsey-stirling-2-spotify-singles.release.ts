@@ -9,7 +9,7 @@ export const lindseyStirling2SpotifySingles = {
   position: 0,
   ownLength: 5.213083,
   ownProgress: 5.213083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-30",
   externalId: "1XXSHevNKbENDXqH5iRSEC",

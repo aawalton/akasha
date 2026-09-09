@@ -9,7 +9,7 @@ export const kellyClarksonMeaningOfLife = {
   position: 0,
   ownLength: 44.220817,
   ownProgress: 44.220817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-27",
   externalId: "6GBu7GU6dztLYlZuUHiwA2",

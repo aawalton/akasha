@@ -9,7 +9,7 @@ export const kellyClarksonHeatPaulMorrellRemix = {
   position: 0,
   ownLength: 3.335633,
   ownProgress: 3.335633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-04",
   externalId: "4uY0lfj229287RRSxC7k3o",

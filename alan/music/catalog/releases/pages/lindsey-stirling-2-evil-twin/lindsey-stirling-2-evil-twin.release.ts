@@ -9,7 +9,7 @@ export const lindseyStirling2EvilTwin = {
   position: 0,
   ownLength: 11.416867,
   ownProgress: 11.416867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-17",
   externalId: "70ntdGVYxNVwsKafaIeIPy",

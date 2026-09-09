@@ -9,7 +9,7 @@ export const justinTimberlakeSupplies = {
   position: 0,
   ownLength: 3.76,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-18",
   externalId: "0kO76uncDF4puhrLgtszIy",

@@ -9,7 +9,7 @@ export const jennaRaineTalkOfTheTown = {
   position: 0,
   ownLength: 3.0891,
   ownProgress: 3.0891,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-26",

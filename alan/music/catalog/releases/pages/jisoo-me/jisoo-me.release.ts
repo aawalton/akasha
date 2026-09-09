@@ -9,7 +9,7 @@ export const jisooMe = {
   position: 0,
   ownLength: 5.610933,
   ownProgress: 5.610933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-03-31",

@@ -9,7 +9,7 @@ export const justinTimberlakeLovestoned = {
   position: 0,
   ownLength: 32.489717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-06-29",
   externalId: "1tze7ApbUfn71mNcaixlX6",

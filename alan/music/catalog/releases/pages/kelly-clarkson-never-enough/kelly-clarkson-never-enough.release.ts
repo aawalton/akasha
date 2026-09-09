@@ -9,7 +9,7 @@ export const kellyClarksonNeverEnough = {
   position: 0,
   ownLength: 3.402217,
   ownProgress: 3.402217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-09",
   externalId: "3THom8qoWFJIQZ8oUHU2uX",

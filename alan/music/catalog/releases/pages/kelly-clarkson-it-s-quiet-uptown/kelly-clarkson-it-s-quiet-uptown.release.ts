@@ -9,7 +9,7 @@ export const kellyClarksonItSQuietUptown = {
   position: 0,
   ownLength: 4.63145,
   ownProgress: 4.63145,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
   externalId: "61qEqIfpr68xdRTb0W1frK",

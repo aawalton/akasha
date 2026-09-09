@@ -9,7 +9,7 @@ export const ledZeppelinKashmirLiveFromKnebworth1979 = {
   position: 0,
   ownLength: 9.033567,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-29",
   externalId: "2ct3TqugFG535SBjnKmgNM",

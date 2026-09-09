@@ -9,7 +9,7 @@ export const jennaRaineMyEscapeIfIHadTheSummer = {
   position: 0,
   ownLength: 6.200483,
   ownProgress: 6.200483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-10",

@@ -9,7 +9,7 @@ export const lindseyStirling21OriginalOneCover = {
   position: 0,
   ownLength: 7.500433,
   ownProgress: 7.500433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-14",
   externalId: "6W5kZEO4zUyyIQvnsHe3I7",

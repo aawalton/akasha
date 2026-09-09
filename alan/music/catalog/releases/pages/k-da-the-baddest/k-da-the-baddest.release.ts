@@ -9,7 +9,7 @@ export const kDaTheBaddest = {
   position: 0,
   ownLength: 2.71,
   ownProgress: 2.71,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-27",
   externalId: "3qo3MiVHiorkDRbuhjKK5d",

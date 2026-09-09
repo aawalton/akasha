@@ -9,7 +9,7 @@ export const kellyClarksonDjPlayAChristmasSong = {
   position: 0,
   ownLength: 4.042217,
   ownProgress: 4.042217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-08",
   externalId: "6YPrceRYDOvKzxMFwvR31s",

@@ -9,7 +9,7 @@ export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
   position: 0,
   ownLength: 2.913333,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-03-10",
   externalId: "40Obfin2HVz6rEL5kIqstb",

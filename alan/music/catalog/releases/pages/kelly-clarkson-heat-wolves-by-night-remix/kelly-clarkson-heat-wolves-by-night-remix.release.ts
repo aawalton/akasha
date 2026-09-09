@@ -9,7 +9,7 @@ export const kellyClarksonHeatWolvesByNightRemix = {
   position: 0,
   ownLength: 3.154467,
   ownProgress: 3.154467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
   externalId: "1yi5SfHjsYMTseJXS4jDfw",

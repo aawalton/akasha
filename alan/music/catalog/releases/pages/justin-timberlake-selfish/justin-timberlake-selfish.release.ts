@@ -9,7 +9,7 @@ export const justinTimberlakeSelfish = {
   position: 0,
   ownLength: 3.822183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-25",
   externalId: "3G89Vbw7shdM38VCVsFdoy",

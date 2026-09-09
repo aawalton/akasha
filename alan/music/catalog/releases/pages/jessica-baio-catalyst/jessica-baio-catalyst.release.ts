@@ -9,7 +9,7 @@ export const jessicaBaioCatalyst = {
   position: 0,
   ownLength: 17.88575,
   ownProgress: 17.88575,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-03-10",

@@ -9,7 +9,7 @@ export const jessicaBaioSkin = {
   position: 0,
   ownLength: 3.209783,
   ownProgress: 3.209783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2021-12-17",

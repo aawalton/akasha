@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouLashRemix = {
   position: 0,
   ownLength: 6.701783,
   ownProgress: 6.701783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
   externalId: "3kvs8dz4kILtu1LJtUYqZ1",

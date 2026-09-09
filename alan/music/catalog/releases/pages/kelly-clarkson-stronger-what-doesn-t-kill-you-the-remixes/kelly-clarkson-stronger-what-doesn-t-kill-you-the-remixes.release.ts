@@ -9,7 +9,7 @@ export const kellyClarksonStrongerWhatDoesnTKillYouTheRemixes = {
   position: 0,
   ownLength: 47.535533,
   ownProgress: 47.535533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-02-03",
   externalId: "1p9sin2qhmixugni0ya7gE",

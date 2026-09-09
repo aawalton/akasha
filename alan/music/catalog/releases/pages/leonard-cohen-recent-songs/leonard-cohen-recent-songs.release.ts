@@ -9,7 +9,7 @@ export const leonardCohenRecentSongs = {
   position: 0,
   ownLength: 53.34905,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1979-01-01",
   externalId: "1GwKLK3cSRr35Z6jlGIOqv",

@@ -9,7 +9,7 @@ export const leonardCohenSongsFromARoom = {
   position: 0,
   ownLength: 35.786167,
   ownProgress: 35.786167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1969-03-24",
   externalId: "2pTyJZOTqFYn2UPP30zZNl",

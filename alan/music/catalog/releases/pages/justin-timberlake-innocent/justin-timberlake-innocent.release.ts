@@ -9,7 +9,7 @@ export const justinTimberlakeInnocent = {
   position: 0,
   ownLength: 2.889017,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-06-24",
   externalId: "72LhQh2TSGItWp5RHLg8sL",

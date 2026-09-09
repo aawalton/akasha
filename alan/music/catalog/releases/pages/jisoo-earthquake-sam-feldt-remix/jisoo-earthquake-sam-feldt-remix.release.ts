@@ -9,7 +9,7 @@ export const jisooEarthquakeSamFeldtRemix = {
   position: 0,
   ownLength: 2.484833,
   ownProgress: 2.484833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-03-14",

@@ -9,7 +9,7 @@ export const kellyClarksonGlow = {
   position: 0,
   ownLength: 3.30465,
   ownProgress: 3.30465,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-14",
   externalId: "1gGakSDaIqMO3AvJyNPxBX",

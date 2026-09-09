@@ -9,7 +9,7 @@ export const leonardCohenLeonardCohenLiveAtTheIsleOfWight1970 = {
   position: 0,
   ownLength: 77.3621,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-20",
   externalId: "30juFhWr8RPtDT75soYnJb",

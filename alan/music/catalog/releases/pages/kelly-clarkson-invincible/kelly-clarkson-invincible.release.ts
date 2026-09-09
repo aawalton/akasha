@@ -9,7 +9,7 @@ export const kellyClarksonInvincible = {
   position: 0,
   ownLength: 3.97265,
   ownProgress: 3.97265,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-23",
   externalId: "3GuMnhTwoYNFURGVt4f57S",

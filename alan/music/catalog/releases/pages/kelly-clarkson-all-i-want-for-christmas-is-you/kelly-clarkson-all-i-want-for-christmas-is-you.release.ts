@@ -9,7 +9,7 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   position: 0,
   ownLength: 3.779883,
   ownProgress: 3.779883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalId: "7IV7v5ybT4Ebd0wGWNgIyJ",

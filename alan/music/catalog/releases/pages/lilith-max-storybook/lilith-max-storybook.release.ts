@@ -9,7 +9,7 @@ export const lilithMaxStorybook = {
   position: 0,
   ownLength: 16.166217,
   ownProgress: 16.166217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-04",

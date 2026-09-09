@@ -9,7 +9,7 @@ export const lindseyStirling2IceStorm = {
   position: 0,
   ownLength: 3.119433,
   ownProgress: 3.119433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-25",
   externalId: "2W1Xql9xJLBRliLXgaiKEj",

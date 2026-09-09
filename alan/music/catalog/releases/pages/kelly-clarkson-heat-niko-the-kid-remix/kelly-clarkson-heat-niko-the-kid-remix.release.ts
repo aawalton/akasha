@@ -9,7 +9,7 @@ export const kellyClarksonHeatNikoTheKidRemix = {
   position: 0,
   ownLength: 3.535133,
   ownProgress: 3.535133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
   externalId: "4jY2DJaUtt3ATHb3ama6sA",

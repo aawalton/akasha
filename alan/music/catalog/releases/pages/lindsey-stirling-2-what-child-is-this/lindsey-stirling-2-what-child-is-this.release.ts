@@ -9,7 +9,7 @@ export const lindseyStirling2WhatChildIsThis = {
   position: 0,
   ownLength: 3.520833,
   ownProgress: 3.520833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-27",
   externalId: "20uMSjx8g44aYx1dZHWIIn",

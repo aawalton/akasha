@@ -9,7 +9,7 @@ export const katyPerryIMHisHeSMineFeatDoechii = {
   position: 0,
   ownLength: 3.307683,
   ownProgress: 3.307683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
   externalId: "56ZRSnpSNktoMERdzBjdS3",

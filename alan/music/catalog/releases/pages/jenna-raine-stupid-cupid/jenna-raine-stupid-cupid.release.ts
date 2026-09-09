@@ -9,7 +9,7 @@ export const jennaRaineStupidCupid = {
   position: 0,
   ownLength: 2.899233,
   ownProgress: 2.899233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-03-17",

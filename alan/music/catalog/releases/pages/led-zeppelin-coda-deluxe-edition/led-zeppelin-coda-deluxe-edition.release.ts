@@ -9,7 +9,7 @@ export const ledZeppelinCodaDeluxeEdition = {
   position: 0,
   ownLength: 97.261783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1982-11-19",
   externalId: "56G9UnPmRifbubzPDJfAyd",

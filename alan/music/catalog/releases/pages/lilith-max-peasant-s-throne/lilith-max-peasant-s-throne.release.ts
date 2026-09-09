@@ -9,7 +9,7 @@ export const lilithMaxPeasantSThrone = {
   position: 0,
   ownLength: 2.856983,
   ownProgress: 2.856983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-01-19",

@@ -9,7 +9,7 @@ export const kellyClarksonDanceVaultMixesBehindTheseHazelEyes = {
   position: 0,
   ownLength: 20.460433,
   ownProgress: 20.460433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-08-01",
   externalId: "0kpIPQLw3kiz27SHUmuBX7",

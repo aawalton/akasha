@@ -9,7 +9,7 @@ export const katyPerryRise = {
   position: 0,
   ownLength: 3.391233,
   ownProgress: 3.391233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-07-15",
   externalId: "7oqEOzrJhQkMHvHKEHEMrK",

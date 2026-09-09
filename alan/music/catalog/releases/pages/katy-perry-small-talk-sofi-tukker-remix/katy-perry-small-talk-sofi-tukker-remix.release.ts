@@ -9,7 +9,7 @@ export const katyPerrySmallTalkSofiTukkerRemix = {
   position: 0,
   ownLength: 3.194217,
   ownProgress: 3.194217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
   externalId: "0LJe9wjQloxWKHFcGmQuNI",

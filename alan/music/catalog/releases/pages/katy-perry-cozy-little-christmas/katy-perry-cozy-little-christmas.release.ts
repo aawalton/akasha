@@ -9,7 +9,7 @@ export const katyPerryCozyLittleChristmas = {
   position: 0,
   ownLength: 3.042,
   ownProgress: 3.042,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-15",
   externalId: "5IxObv8TvRsYE6DGKnbrXn",

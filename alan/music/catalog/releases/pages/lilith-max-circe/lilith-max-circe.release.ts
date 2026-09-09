@@ -9,7 +9,7 @@ export const lilithMaxCirce = {
   position: 0,
   ownLength: 3.126367,
   ownProgress: 3.126367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-08-08",

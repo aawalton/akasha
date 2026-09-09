@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastGoldenDavidGuettaRemXFromTheNetflixFilmKpopDemo
   position: 0,
   ownLength: 10.097617,
   ownProgress: 10.097617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-25",
   externalId: "5DLI2kMdzrauXjS5fB3OFv",

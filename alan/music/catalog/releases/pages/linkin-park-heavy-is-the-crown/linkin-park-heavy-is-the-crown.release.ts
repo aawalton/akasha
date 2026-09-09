@@ -9,7 +9,7 @@ export const linkinParkHeavyIsTheCrown = {
   position: 0,
   ownLength: 5.957317,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-24",
   externalId: "3Su6Sgi0YjcUFuCzjLKYYq",

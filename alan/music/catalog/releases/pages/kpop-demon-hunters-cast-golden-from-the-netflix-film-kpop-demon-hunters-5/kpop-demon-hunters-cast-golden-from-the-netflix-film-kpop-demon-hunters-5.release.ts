@@ -9,7 +9,7 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters5 = {
   position: 0,
   ownLength: 19.746317,
   ownProgress: 19.746317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-19",
   externalId: "47e8dQUtcC8mdI9RUfptpd",

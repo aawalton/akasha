@@ -9,7 +9,7 @@ export const lilithMaxMaidenSNight = {
   position: 0,
   ownLength: 6.569033,
   ownProgress: 6.569033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-04",

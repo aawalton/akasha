@@ -9,7 +9,7 @@ export const jessicaBaioSkinAcoustic = {
   position: 0,
   ownLength: 3.324533,
   ownProgress: 3.324533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-22",

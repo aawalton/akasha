@@ -9,7 +9,7 @@ export const leonardCohenHallelujahSongsFromHisAlbums = {
   position: 0,
   ownLength: 76.02745,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-06-03",
   externalId: "0ZSKPKsorX97OZfuWQCa8x",

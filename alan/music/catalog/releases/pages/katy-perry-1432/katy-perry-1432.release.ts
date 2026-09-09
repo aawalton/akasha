@@ -9,7 +9,7 @@ export const katyPerry1432 = {
   position: 0,
   ownLength: 44.930917,
   ownProgress: 44.930917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-20",
   externalId: "5Xd0KCzb0EJtPbUEiyxYVH",

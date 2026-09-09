@@ -9,7 +9,7 @@ export const justinTimberlakeMirrorsRadioEdit = {
   position: 0,
   ownLength: 4.621767,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-02-11",
   externalId: "28GWVLkctSuSWQ1EUIxZ8m",

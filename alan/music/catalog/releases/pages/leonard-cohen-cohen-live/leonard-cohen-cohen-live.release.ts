@@ -9,7 +9,7 @@ export const leonardCohenCohenLive = {
   position: 0,
   ownLength: 71.831483,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-01-01",
   externalId: "6hpdLjR6verctKUoiTJJoL",

@@ -9,7 +9,7 @@ export const justinTimberlakeStayWithMeWithJustinTimberlakeHalseyPharrell = {
   position: 0,
   ownLength: 3.821367,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-07-15",
   externalId: "62SWIKrov7HPXU0Jpc6LY1",

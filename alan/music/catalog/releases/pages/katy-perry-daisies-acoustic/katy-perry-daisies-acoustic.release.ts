@@ -9,7 +9,7 @@ export const katyPerryDaisiesAcoustic = {
   position: 0,
   ownLength: 3.091767,
   ownProgress: 3.091767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-01",
   externalId: "6RY76U2nPOnRdR2aZ95KIK",

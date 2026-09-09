@@ -9,7 +9,7 @@ export const jennaRaineNotAgain = {
   position: 0,
   ownLength: 3.611017,
   ownProgress: 3.611017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-05-27",

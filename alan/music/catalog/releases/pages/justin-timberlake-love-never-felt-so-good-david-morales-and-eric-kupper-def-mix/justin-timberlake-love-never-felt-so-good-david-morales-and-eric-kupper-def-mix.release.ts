@@ -9,7 +9,7 @@ export const justinTimberlakeLoveNeverFeltSoGoodDavidMoralesAndEricKupperDefMix 
   position: 0,
   ownLength: 27.3522,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-08",
   externalId: "3dfI9hHNfOeLKtYbk6HIXR",

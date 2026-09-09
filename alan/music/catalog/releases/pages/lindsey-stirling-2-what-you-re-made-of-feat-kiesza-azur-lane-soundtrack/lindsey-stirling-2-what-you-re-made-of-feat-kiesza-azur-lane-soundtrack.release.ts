@@ -9,7 +9,7 @@ export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrack = {
   position: 0,
   ownLength: 3.443283,
   ownProgress: 3.443283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-12",
   externalId: "3M0OxNR7sHtrA4I42ETvjI",

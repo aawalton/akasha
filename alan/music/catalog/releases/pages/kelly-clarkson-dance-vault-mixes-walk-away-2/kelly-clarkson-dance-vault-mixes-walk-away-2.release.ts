@@ -9,7 +9,7 @@ export const kellyClarksonDanceVaultMixesWalkAway2 = {
   position: 0,
   ownLength: 28.56975,
   ownProgress: 28.56975,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-03-28",
   externalId: "2MXLMfZ5VB7KjAU1DiStCS",

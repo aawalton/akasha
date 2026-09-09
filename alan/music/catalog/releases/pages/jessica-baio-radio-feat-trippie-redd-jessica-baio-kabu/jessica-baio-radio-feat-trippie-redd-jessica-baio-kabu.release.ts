@@ -9,7 +9,7 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabu = {
   position: 0,
   ownLength: 2.488883,
   ownProgress: 2.488883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-28",

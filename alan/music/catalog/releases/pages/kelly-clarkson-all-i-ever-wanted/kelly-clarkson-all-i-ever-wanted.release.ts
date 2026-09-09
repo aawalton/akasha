@@ -9,7 +9,7 @@ export const kellyClarksonAllIEverWanted = {
   position: 0,
   ownLength: 58.874117,
   ownProgress: 58.874117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-03-06",
   externalId: "4h8seeFAi6iYhslcWIxTSG",

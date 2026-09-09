@@ -9,7 +9,7 @@ export const katyPerryPartOfMeJacquesLuContSThinWhiteDukeMix = {
   position: 0,
   ownLength: 6.035417,
   ownProgress: 6.035417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "6FvQt4cl6CptRn1U0R2j8b",

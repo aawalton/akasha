@@ -9,7 +9,7 @@ export const ledZeppelinPhysicalGraffitiDeluxeEdition = {
   position: 0,
   ownLength: 124.434983,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1975-02-24",
   externalId: "26tH0kjUhkxBEd3ipGkx3Y",

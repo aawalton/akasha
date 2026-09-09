@@ -9,7 +9,7 @@ export const linkinParkCollisionCourse = {
   position: 0,
   ownLength: 21.302633,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-01-01",
   externalId: "5NH94cATqx5fjBE794xZLy",

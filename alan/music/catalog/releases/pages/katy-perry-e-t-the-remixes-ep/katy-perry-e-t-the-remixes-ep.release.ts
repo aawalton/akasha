@@ -9,7 +9,7 @@ export const katyPerryETTheRemixesEp = {
   position: 0,
   ownLength: 27.88755,
   ownProgress: 27.88755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalId: "3VpqmLjsrW9kEHHw4IAm9i",

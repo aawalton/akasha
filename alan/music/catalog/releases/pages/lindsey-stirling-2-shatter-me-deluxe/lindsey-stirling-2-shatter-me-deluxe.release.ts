@@ -9,7 +9,7 @@ export const lindseyStirling2ShatterMeDeluxe = {
   position: 0,
   ownLength: 64.221733,
   ownProgress: 64.221733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-26",
   externalId: "3iZrxTBRLvQ2b9W7sAwDBe",

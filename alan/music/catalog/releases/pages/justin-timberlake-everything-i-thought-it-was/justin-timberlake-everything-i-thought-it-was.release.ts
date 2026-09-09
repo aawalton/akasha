@@ -9,7 +9,7 @@ export const justinTimberlakeEverythingIThoughtItWas = {
   position: 0,
   ownLength: 77.04475,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-15",
   externalId: "716B2iWcwoKolCXrqwLGQh",

@@ -9,7 +9,7 @@ export const lindseyStirling2CarolOfTheBellsLiveFromSummerTour2023 = {
   position: 0,
   ownLength: 8.611217,
   ownProgress: 8.611217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-08",
   externalId: "3JFzVwrtR8hjKerpRl5hI9",

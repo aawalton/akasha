@@ -9,7 +9,7 @@ export const leonardCohenMoreBestOf = {
   position: 0,
   ownLength: 71.113933,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1997-08-08",
   externalId: "5Tt73Fi2zEcfDJEPopgEv7",

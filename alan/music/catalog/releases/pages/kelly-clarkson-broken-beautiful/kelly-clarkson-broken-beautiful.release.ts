@@ -9,7 +9,7 @@ export const kellyClarksonBrokenBeautiful = {
   position: 0,
   ownLength: 3.649133,
   ownProgress: 3.649133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-27",
   externalId: "5UHs9Jq0Vy5E3eUdkgcZvj",

@@ -9,7 +9,7 @@ export const kellyClarksonWhenChemistryComesAround = {
   position: 0,
   ownLength: 17.315567,
   ownProgress: 17.315567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-06",
   externalId: "70t04rsb7d4zLcTeJKZlm9",

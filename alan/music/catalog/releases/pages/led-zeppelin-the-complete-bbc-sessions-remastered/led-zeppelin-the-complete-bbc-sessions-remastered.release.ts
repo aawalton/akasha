@@ -9,7 +9,7 @@ export const ledZeppelinTheCompleteBbcSessionsRemastered = {
   position: 0,
   ownLength: 201.81935,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-16",
   externalId: "6VH2op0GKIl3WNTbZmmcmI",

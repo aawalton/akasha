@@ -9,7 +9,7 @@ export const jennaRaineHaveYourselfAMerryLittleChristmas = {
   position: 0,
   ownLength: 2.1004,
   ownProgress: 2.1004,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-15",

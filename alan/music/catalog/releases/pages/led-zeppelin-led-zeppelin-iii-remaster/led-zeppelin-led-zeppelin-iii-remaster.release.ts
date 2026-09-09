@@ -9,7 +9,7 @@ export const ledZeppelinLedZeppelinIiiRemaster = {
   position: 0,
   ownLength: 43.1406,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   externalId: "6P5QHz4XtxOmS5EuiGIPut",
   externalLink: "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut",

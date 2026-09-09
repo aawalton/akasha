@@ -9,7 +9,7 @@ export const lilithMaxStrangerSEyes = {
   position: 0,
   ownLength: 3.238283,
   ownProgress: 3.238283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2021-03-26",

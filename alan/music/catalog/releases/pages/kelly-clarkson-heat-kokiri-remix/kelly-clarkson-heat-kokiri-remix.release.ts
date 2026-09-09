@@ -9,7 +9,7 @@ export const kellyClarksonHeatKokiriRemix = {
   position: 0,
   ownLength: 3.131467,
   ownProgress: 3.131467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-01",
   externalId: "4Rc26yvVyDnUoJ0Pv1efjz",

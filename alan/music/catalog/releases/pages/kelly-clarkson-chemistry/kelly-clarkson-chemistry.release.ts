@@ -9,7 +9,7 @@ export const kellyClarksonChemistry = {
   position: 0,
   ownLength: 44.751317,
   ownProgress: 44.751317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-23",
   externalId: "5c56JYNgc48iDnwHHlOcye",

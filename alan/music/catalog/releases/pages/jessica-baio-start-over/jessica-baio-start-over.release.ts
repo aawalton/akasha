@@ -9,7 +9,7 @@ export const jessicaBaioStartOver = {
   position: 0,
   ownLength: 3.415133,
   ownProgress: 3.415133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-12-02",

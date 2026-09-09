@@ -9,7 +9,7 @@ export const leonardCohenTenNewSongs = {
   position: 0,
   ownLength: 52.318183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2001-10-09",
   externalId: "0AMbk6F6ZJ57OqlpB214gV",

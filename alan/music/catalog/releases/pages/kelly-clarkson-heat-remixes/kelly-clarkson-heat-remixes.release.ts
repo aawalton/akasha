@@ -9,7 +9,7 @@ export const kellyClarksonHeatRemixes = {
   position: 0,
   ownLength: 26.104617,
   ownProgress: 26.104617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-15",
   externalId: "19etwgLPhQgyWRIob3fpPZ",

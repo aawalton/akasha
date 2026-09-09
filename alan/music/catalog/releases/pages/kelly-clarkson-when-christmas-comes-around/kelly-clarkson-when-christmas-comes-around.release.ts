@@ -9,7 +9,7 @@ export const kellyClarksonWhenChristmasComesAround = {
   position: 0,
   ownLength: 48.011767,
   ownProgress: 48.011767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-15",
   externalId: "5sVFXIMrFRKBtDOexVlBBU",

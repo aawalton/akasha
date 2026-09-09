@@ -9,7 +9,7 @@ export const lilithMaxBearsWolves = {
   position: 0,
   ownLength: 3.313167,
   ownProgress: 3.313167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-15",

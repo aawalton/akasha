@@ -9,7 +9,7 @@ export const kellyClarksonIDonTThinkAboutYouRemixes = {
   position: 0,
   ownLength: 14.807983,
   ownProgress: 14.807983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-23",
   externalId: "2JMPMwjqeshIByUOk4KXDW",

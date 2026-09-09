@@ -9,7 +9,7 @@ export const jennaRaineHypothetically = {
   position: 0,
   ownLength: 2.69985,
   ownProgress: 2.69985,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-06-07",

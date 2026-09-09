@@ -9,7 +9,7 @@ export const lindseyStirling2InnerGoldFeatRoyalTheSerpent = {
   position: 0,
   ownLength: 7.621317,
   ownProgress: 7.621317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-12",
   externalId: "5ItWhPQqLqYtw9uLHWATEH",

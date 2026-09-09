@@ -9,7 +9,7 @@ export const jessicaBaioBestFriendsWithYourGirlfriend = {
   position: 0,
   ownLength: 2.056667,
   ownProgress: 2.056667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-06-30",

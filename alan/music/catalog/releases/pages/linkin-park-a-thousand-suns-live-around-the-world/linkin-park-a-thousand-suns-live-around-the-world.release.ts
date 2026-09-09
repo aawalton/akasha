@@ -9,7 +9,7 @@ export const linkinParkAThousandSunsLiveAroundTheWorld = {
   position: 0,
   ownLength: 40.865483,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-19",
   externalId: "0hJ3A7sih1AXDoMjXHLr7Q",

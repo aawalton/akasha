@@ -9,7 +9,7 @@ export const justinTimberlakeBetterPlaceFromTrollsBandTogether = {
   position: 0,
   ownLength: 3.6111,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-29",
   externalId: "6kF2smJylLgcekEyliE3p8",

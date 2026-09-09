@@ -9,7 +9,7 @@ export const lilithMaxBornToDie = {
   position: 0,
   ownLength: 2.277483,
   ownProgress: 2.277483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-07-09",

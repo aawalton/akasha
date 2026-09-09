@@ -9,7 +9,7 @@ export const jessicaBaioItSNotChristmasWithoutYou = {
   position: 0,
   ownLength: 2.229767,
   ownProgress: 2.229767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-07",
   externalId: "7CyZpo9YTPNzl9ODl5gCTj",

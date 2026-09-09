@@ -9,7 +9,7 @@ export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   position: 0,
   ownLength: 9.338217,
   ownProgress: 9.338217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-09-23",
   externalId: "5amDFKbMhtcUn2WHXnKe0W",

@@ -9,7 +9,7 @@ export const leonardCohenDeathOfALadiesMan = {
   position: 0,
   ownLength: 42.552183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1977-11-13",
   externalId: "0qghwsBOHAhmIukaW08IOT",

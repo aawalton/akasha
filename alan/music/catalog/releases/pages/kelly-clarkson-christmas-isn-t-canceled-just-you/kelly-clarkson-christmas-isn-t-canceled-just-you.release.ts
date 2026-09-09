@@ -9,7 +9,7 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   position: 0,
   ownLength: 3.85915,
   ownProgress: 3.85915,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-24",
   externalId: "6I9HJMBHYYRgrYUmAOqBDI",

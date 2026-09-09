@@ -9,7 +9,7 @@ export const justinTimberlakeBelieveFeatJustinTimberlake = {
   position: 0,
   ownLength: 3.521717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-07",
   externalId: "4A78487MGk0C4nLEVO1DWE",

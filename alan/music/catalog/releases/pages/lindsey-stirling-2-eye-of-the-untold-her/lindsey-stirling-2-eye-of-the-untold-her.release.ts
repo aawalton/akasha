@@ -9,7 +9,7 @@ export const lindseyStirling2EyeOfTheUntoldHer = {
   position: 0,
   ownLength: 3.67955,
   ownProgress: 3.67955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
   externalId: "0xIAQRcqdqEN493rC0p29Y",

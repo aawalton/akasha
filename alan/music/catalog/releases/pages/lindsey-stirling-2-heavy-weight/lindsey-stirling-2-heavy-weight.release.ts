@@ -9,7 +9,7 @@ export const lindseyStirling2HeavyWeight = {
   position: 0,
   ownLength: 4.370783,
   ownProgress: 4.370783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-11",
   externalId: "7u4XNeOhJdiHhsEATzpBmG",

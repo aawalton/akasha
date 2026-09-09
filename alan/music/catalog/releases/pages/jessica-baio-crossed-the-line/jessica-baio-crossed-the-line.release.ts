@@ -9,7 +9,7 @@ export const jessicaBaioCrossedTheLine = {
   position: 0,
   ownLength: 2.730083,
   ownProgress: 2.730083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-06-03",

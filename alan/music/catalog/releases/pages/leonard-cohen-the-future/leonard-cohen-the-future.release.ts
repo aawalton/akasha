@@ -9,7 +9,7 @@ export const leonardCohenTheFuture = {
   position: 0,
   ownLength: 59.375517,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1992-10-22",
   externalId: "7E4FRoU4Pk0WuO1SQMV1Bo",

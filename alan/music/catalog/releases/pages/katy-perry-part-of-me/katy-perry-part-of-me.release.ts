@@ -9,7 +9,7 @@ export const katyPerryPartOfMe = {
   position: 0,
   ownLength: 17.00535,
   ownProgress: 17.00535,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "5INuonUsIvNm8lrepTm41x",

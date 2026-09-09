@@ -9,7 +9,7 @@ export const katyPerrySmileJoelCorryRemix = {
   position: 0,
   ownLength: 3.026733,
   ownProgress: 3.026733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-02",
   externalId: "7c47yayjXtwCHIz9fKdUkn",

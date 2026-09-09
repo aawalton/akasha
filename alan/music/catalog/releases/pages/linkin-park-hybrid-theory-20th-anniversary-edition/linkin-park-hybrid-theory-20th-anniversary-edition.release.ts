@@ -9,7 +9,7 @@ export const linkinParkHybridTheory20thAnniversaryEdition = {
   position: 0,
   ownLength: 265.732067,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-09",
   externalId: "28DUZ0itKISf2sr6hlseMy",

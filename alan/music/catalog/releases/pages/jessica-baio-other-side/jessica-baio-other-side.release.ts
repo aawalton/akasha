@@ -9,7 +9,7 @@ export const jessicaBaioOtherSide = {
   position: 0,
   ownLength: 3.012667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
   externalId: "5Pl3VjIKGLGFes8Kh5nSij",

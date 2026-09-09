@@ -9,7 +9,7 @@ export const leonardCohenDearHeather = {
   position: 0,
   ownLength: 48.920167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-10-26",
   externalId: "2A2w7NSKKyAfDvwx6GEHEg",

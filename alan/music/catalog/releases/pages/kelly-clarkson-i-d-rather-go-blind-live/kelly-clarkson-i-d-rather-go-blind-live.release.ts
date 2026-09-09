@@ -9,7 +9,7 @@ export const kellyClarksonIDRatherGoBlindLive = {
   position: 0,
   ownLength: 2.933417,
   ownProgress: 2.933417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-03",
   externalId: "7DoR6JyqLpo0w259mGwElg",

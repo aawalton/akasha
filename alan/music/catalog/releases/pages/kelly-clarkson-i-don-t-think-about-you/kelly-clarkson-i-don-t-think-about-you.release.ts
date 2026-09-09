@@ -9,7 +9,7 @@ export const kellyClarksonIDonTThinkAboutYou = {
   position: 0,
   ownLength: 3.736883,
   ownProgress: 3.736883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-09",
   externalId: "1NNEW3psvveAy8wNnoyoLV",

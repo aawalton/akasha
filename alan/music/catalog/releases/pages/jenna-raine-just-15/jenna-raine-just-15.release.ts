@@ -9,7 +9,7 @@ export const jennaRaineJust15 = {
   position: 0,
   ownLength: 3.52805,
   ownProgress: 3.52805,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-14",
   externalId: "5LBXud41nbrah1k83EYgs7",

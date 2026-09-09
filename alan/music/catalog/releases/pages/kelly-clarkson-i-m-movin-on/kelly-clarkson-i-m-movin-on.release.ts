@@ -9,7 +9,7 @@ export const kellyClarksonIMMovinOn = {
   position: 0,
   ownLength: 3.7411,
   ownProgress: 3.7411,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-14",
   externalId: "7FQLBkD3mdfh2UiLzhvNnN",

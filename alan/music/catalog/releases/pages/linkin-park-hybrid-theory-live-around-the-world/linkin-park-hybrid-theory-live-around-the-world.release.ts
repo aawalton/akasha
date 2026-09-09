@@ -9,7 +9,7 @@ export const linkinParkHybridTheoryLiveAroundTheWorld = {
   position: 0,
   ownLength: 29.076617,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-05-31",
   externalId: "1FiRqhpAowNK8gTl5sOhxZ",

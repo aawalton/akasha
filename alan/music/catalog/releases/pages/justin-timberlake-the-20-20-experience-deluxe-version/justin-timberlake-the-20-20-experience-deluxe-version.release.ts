@@ -9,7 +9,7 @@ export const justinTimberlakeThe2020ExperienceDeluxeVersion = {
   position: 0,
   ownLength: 79.4577,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-03-15",
   externalId: "0O82niJ0NpcptYRxogeEZu",

@@ -9,7 +9,7 @@ export const kellyClarksonIHateLoveFeatSteveMartin = {
   position: 0,
   ownLength: 13.240033,
   ownProgress: 13.240033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
   externalId: "6jD3QU3DuJphSxH1vdplVV",

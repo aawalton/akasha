@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouFeatFaouzia = {
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-13",
   externalId: "6gWtultZeBwfN8DEA7IFTB",

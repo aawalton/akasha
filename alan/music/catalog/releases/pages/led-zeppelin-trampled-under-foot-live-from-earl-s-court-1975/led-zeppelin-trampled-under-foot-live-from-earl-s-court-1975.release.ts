@@ -9,7 +9,7 @@ export const ledZeppelinTrampledUnderFootLiveFromEarlSCourt1975 = {
   position: 0,
   ownLength: 9.094433,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-24",
   externalId: "28JQQKINEpVxzwlulEwKD3",

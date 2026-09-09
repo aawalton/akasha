@@ -9,7 +9,7 @@ export const katyPerrySmallTalkWhitePandaRemix = {
   position: 0,
   ownLength: 3.206317,
   ownProgress: 3.206317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-11",
   externalId: "4EMXkvH1Pq6WjYYo1ZLO7e",

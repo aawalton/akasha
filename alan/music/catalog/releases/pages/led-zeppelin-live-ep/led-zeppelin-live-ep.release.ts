@@ -9,7 +9,7 @@ export const ledZeppelinLiveEp = {
   position: 0,
   ownLength: 34.842267,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-09-12",
   externalId: "6PqoCDu8nTLw3p49WAIfY8",

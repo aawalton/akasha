@@ -9,7 +9,7 @@ export const linkinParkALightThatNeverComesRemix = {
   position: 0,
   ownLength: 33.83815,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-01-21",
   externalId: "32tg5xFm8LTrBXRFEpjv6A",

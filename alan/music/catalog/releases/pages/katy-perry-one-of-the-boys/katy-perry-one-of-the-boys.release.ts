@@ -9,7 +9,7 @@ export const katyPerryOneOfTheBoys = {
   position: 0,
   ownLength: 43.68565,
   ownProgress: 43.68565,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-17",
   externalId: "0r2BUyPTmpbfuz4rR39mLl",

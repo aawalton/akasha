@@ -9,7 +9,7 @@ export const ledZeppelinHowTheWestWasWonRemaster = {
   position: 0,
   ownLength: 148.202783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-27",
   externalId: "3otvl9PN3kOgk5uwAh1CBL",

@@ -9,7 +9,7 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirling = {
   position: 0,
   ownLength: 79.0825,
   ownProgress: 79.0825,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-04",
   externalId: "5MeXoEhbJsKVBZPmkWHULE",

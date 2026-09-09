@@ -9,7 +9,7 @@ export const ledZeppelinLedZeppelinXLedZeppelin = {
   position: 0,
   ownLength: 156.519083,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-27",
   externalId: "5jQEuOsezpHOAhfQXMGTLo",

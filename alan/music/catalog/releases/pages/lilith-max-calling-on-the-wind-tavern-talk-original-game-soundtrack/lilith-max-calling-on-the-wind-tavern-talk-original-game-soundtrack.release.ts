@@ -9,7 +9,7 @@ export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   position: 0,
   ownLength: 3.292067,
   ownProgress: 3.292067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-06-20",

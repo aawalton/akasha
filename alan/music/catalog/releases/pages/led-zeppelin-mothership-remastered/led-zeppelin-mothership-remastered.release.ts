@@ -9,7 +9,7 @@ export const ledZeppelinMothershipRemastered = {
   position: 0,
   ownLength: 136.345917,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-01",
   externalId: "4wExFfncaUIqSgoxnqa3Eh",

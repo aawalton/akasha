@@ -9,7 +9,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTour = {
   position: 0,
   ownLength: 3.136433,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-26",
   externalId: "50ZTMRi6Biq1i1pWbcaKaJ",

@@ -9,7 +9,7 @@ export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   position: 0,
   ownLength: 50.569133,
   ownProgress: 50.569133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-20",
   externalId: "4E0vDZuTPYYySw3TcVi6H0",

@@ -9,7 +9,7 @@ export const katyPerryLifetimes = {
   position: 0,
   ownLength: 3.2,
   ownProgress: 3.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-08",
   externalId: "6UEGp3MQnsKoK9rwKcKBUo",

@@ -9,7 +9,7 @@ export const linkinParkFriendlyFire = {
   position: 0,
   ownLength: 2.94835,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-23",
   externalId: "601IEigQO3enlyrbn4SpNM",

@@ -9,7 +9,7 @@ export const jessicaBaioUnsaidDeluxe = {
   position: 0,
   ownLength: 37.398883,
   ownProgress: 37.398883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-05-09",

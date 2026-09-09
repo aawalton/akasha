@@ -9,7 +9,7 @@ export const kellyClarksonHeat = {
   position: 0,
   ownLength: 3.166667,
   ownProgress: 3.166667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-07",
   externalId: "3ldfffdVymqylDoMmnGWjJ",

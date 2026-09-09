@@ -9,7 +9,7 @@ export const kellyClarksonCatchMyBreathRemixes = {
   position: 0,
   ownLength: 36.768833,
   ownProgress: 36.768833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-12-14",
   externalId: "19NUlgOco60hM1jLr5RiSS",

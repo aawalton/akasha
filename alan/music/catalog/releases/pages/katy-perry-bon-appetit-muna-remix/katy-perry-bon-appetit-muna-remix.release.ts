@@ -9,7 +9,7 @@ export const katyPerryBonAppetitMunaRemix = {
   position: 0,
   ownLength: 3.356433,
   ownProgress: 3.356433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-17",
   externalId: "60l6w74hVfqDboeNacX7RW",

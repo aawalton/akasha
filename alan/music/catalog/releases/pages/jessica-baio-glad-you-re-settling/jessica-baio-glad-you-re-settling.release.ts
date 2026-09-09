@@ -9,7 +9,7 @@ export const jessicaBaioGladYouReSettling = {
   position: 0,
   ownLength: 8.135317,
   ownProgress: 8.135317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-22",

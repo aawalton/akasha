@@ -9,7 +9,7 @@ export const justinTimberlakeJustified = {
   position: 0,
   ownLength: 63.352133,
   ownProgress: 63.352133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-11-04",
   externalId: "6QPkyl04rXwTGlGlcYaRoW",

@@ -9,7 +9,7 @@ export const linkinParkIridescentFromTransformers3DarkOfTheMoon = {
   position: 0,
   ownLength: 3.9951,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-05-28",
   externalId: "1SVY5PTqx4hzKijy53oRuJ",

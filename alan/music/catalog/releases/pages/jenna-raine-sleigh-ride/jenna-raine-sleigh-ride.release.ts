@@ -9,7 +9,7 @@ export const jennaRaineSleighRide = {
   position: 0,
   ownLength: 3.077417,
   ownProgress: 3.077417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-12-07",

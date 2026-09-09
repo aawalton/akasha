@@ -9,7 +9,7 @@ export const katyPerryCaliforniaGurlsFeatSnoopDogg = {
   position: 0,
   ownLength: 8.059317,
   ownProgress: 8.059317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalId: "58WjN295lBQlajYL241P6Y",

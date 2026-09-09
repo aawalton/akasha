@@ -9,7 +9,7 @@ export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
   position: 0,
   ownLength: 3.936383,
   ownProgress: 3.936383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-08-13",
   externalId: "7CPbaEYWQaYhuo8DmOxOf5",

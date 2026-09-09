@@ -9,7 +9,7 @@ export const katyPerryScorpioSzn = {
   position: 0,
   ownLength: 22.418233,
   ownProgress: 22.418233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-26",
   externalId: "6qZ5OAEVumaniVTF2Sumga",

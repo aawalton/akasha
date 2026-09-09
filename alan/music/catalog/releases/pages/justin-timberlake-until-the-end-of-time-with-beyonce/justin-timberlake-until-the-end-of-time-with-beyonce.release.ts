@@ -9,7 +9,7 @@ export const justinTimberlakeUntilTheEndOfTimeWithBeyonce = {
   position: 0,
   ownLength: 21.399967,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-11-13",
   externalId: "3E81KB8Gxn4kkh8GP5M3DK",

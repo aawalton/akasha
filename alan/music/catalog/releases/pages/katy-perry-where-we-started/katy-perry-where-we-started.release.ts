@@ -9,7 +9,7 @@ export const katyPerryWhereWeStarted = {
   position: 0,
   ownLength: 3.033767,
   ownProgress: 3.033767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-31",
   externalId: "6AkWdIHq1og7xa6dLrzHeQ",

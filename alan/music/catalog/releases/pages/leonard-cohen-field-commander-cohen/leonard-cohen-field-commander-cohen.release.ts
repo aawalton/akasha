@@ -9,7 +9,7 @@ export const leonardCohenFieldCommanderCohen = {
   position: 0,
   ownLength: 62.8977,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2001-02-20",
   externalId: "0veLxMmMMFlBraLGyQ48mq",

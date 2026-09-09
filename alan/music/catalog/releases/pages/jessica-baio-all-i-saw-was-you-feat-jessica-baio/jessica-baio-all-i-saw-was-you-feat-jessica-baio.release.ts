@@ -9,7 +9,7 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   position: 0,
   ownLength: 3.091767,
   ownProgress: 3.091767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-14",
   externalId: "4NgDWmNwmNjKXp3pppJjsp",

@@ -9,7 +9,7 @@ export const leonardCohenSongsOfLoveAndHate = {
   position: 0,
   ownLength: 44.576183,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1971-03-19",
   externalId: "5WGGkUyTDomzIAdj9Vz6v9",

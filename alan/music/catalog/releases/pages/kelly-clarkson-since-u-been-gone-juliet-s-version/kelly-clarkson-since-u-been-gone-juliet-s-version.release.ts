@@ -9,7 +9,7 @@ export const kellyClarksonSinceUBeenGoneJulietSVersion = {
   position: 0,
   ownLength: 2.827833,
   ownProgress: 2.827833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-16",
   externalId: "4f5ao8f2W8n7Rx24Dpn9TT",

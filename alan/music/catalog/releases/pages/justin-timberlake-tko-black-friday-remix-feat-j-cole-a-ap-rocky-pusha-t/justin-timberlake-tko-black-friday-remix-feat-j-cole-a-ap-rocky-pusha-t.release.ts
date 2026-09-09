@@ -9,7 +9,7 @@ export const justinTimberlakeTkoBlackFridayRemixFeatJColeAApRockyPushaT = {
   position: 0,
   ownLength: 4.5451,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-12-11",
   externalId: "46GFWEybCT9t4ey4s9sfHt",

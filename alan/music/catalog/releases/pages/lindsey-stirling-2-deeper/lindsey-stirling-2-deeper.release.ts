@@ -9,7 +9,7 @@ export const lindseyStirling2Deeper = {
   position: 0,
   ownLength: 3.089333,
   ownProgress: 3.089333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-05",
   externalId: "70XogNjkwKIj5NU8kB94Lt",

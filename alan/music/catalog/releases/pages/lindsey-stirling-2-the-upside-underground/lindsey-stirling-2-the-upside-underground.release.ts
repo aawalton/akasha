@@ -9,7 +9,7 @@ export const lindseyStirling2TheUpsideUnderground = {
   position: 0,
   ownLength: 8.189417,
   ownProgress: 8.189417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-05",
   externalId: "3hKQ8AIy8fuYu3woz3OnDw",

@@ -9,7 +9,7 @@ export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformance = {
   position: 0,
   ownLength: 2.70615,
   ownProgress: 2.70615,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-25",
   externalId: "3LuzvONDuCDrkOXdE4VY1n",

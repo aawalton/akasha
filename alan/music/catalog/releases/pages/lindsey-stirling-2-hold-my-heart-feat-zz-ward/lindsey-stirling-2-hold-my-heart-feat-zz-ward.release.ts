@@ -9,7 +9,7 @@ export const lindseyStirling2HoldMyHeartFeatZzWard = {
   position: 0,
   ownLength: 3.49835,
   ownProgress: 3.49835,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-03",
   externalId: "5lGkMiRfmGD3yhkwdFSlWD",

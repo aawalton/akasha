@@ -9,7 +9,7 @@ export const katyPerryRiseRemixes = {
   position: 0,
   ownLength: 10.882417,
   ownProgress: 10.882417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-26",
   externalId: "4Z280iRLhrqePZNblTYyEY",

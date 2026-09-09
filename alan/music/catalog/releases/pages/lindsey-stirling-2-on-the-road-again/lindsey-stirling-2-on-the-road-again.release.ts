@@ -9,7 +9,7 @@ export const lindseyStirling2OnTheRoadAgain = {
   position: 0,
   ownLength: 2.693233,
   ownProgress: 2.693233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-14",
   externalId: "14xykOd1POb4x8tu0EYabH",

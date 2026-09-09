@@ -9,7 +9,7 @@ export const jessicaBaioSlowDown = {
   position: 0,
   ownLength: 5.15075,
   ownProgress: 5.15075,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-24",

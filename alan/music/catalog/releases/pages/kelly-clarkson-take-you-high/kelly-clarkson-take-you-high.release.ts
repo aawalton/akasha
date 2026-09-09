@@ -9,7 +9,7 @@ export const kellyClarksonTakeYouHigh = {
   position: 0,
   ownLength: 4.336817,
   ownProgress: 4.336817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-26",
   externalId: "5m9CHbxfVCk3UgbN7FlbBP",

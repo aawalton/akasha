@@ -9,7 +9,7 @@ export const katyPerryAllYouNeedIsLove = {
   position: 0,
   ownLength: 3.435633,
   ownProgress: 3.435633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-25",
   externalId: "0yLJMIgyF3luW7T884EOGR",

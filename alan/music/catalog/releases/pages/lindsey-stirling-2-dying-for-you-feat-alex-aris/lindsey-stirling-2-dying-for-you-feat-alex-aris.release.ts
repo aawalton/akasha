@@ -9,7 +9,7 @@ export const lindseyStirling2DyingForYouFeatAlexAris = {
   position: 0,
   ownLength: 3.316167,
   ownProgress: 3.316167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-01-15",
   externalId: "25a4dxbFd1fAZBM1pGceY1",

@@ -9,7 +9,7 @@ export const leonardCohenLiveInLondon = {
   position: 0,
   ownLength: 155.76695,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-03-30",
   externalId: "4rgYbbaJOr9fv0MdEcIkIY",

@@ -9,7 +9,7 @@ export const kellyClarksonRunRunRunFeatJohnLegend = {
   position: 0,
   ownLength: 4.544817,
   ownProgress: 4.544817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-02-25",
   externalId: "1irhuZ1wmaD5TbkBHyOysq",

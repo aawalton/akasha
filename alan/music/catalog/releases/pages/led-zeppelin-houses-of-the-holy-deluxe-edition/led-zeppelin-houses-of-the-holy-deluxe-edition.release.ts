@@ -9,7 +9,7 @@ export const ledZeppelinHousesOfTheHolyDeluxeEdition = {
   position: 0,
   ownLength: 77.168217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1973-03-28",
   externalId: "7gS8ozSkvPW3VBPLnXOZ7S",

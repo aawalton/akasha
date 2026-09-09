@@ -9,7 +9,7 @@ export const leonardCohenSongsFromTheRoad = {
   position: 0,
   ownLength: 67.2717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-10",
   externalId: "2gyoqhcdYUTxcgYxZQbFOD",

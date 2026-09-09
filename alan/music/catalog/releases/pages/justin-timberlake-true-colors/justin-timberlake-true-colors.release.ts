@@ -9,7 +9,7 @@ export const justinTimberlakeTrueColors = {
   position: 0,
   ownLength: 4.062,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-16",
   externalId: "7M83W7iXqtZ2qjYCOXvgWj",

@@ -9,7 +9,7 @@ export const kellyClarksonFromTheJumpDuetVersion = {
   position: 0,
   ownLength: 3.86275,
   ownProgress: 3.86275,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-19",
   externalId: "1cScP0vTcI9hTtjoYMeosl",

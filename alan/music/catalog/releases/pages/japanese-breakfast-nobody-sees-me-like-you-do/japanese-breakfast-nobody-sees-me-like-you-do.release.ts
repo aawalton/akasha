@@ -9,7 +9,7 @@ export const japaneseBreakfastNobodySeesMeLikeYouDo = {
   position: 0,
   ownLength: 3.52725,
   ownProgress: 3.52725,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-26",
   externalId: "6W8UhZlIF4yuQolmJPAO1P",

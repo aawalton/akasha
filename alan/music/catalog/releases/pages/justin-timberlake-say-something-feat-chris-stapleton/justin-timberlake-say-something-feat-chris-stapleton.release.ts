@@ -9,7 +9,7 @@ export const justinTimberlakeSaySomethingFeatChrisStapleton = {
   position: 0,
   ownLength: 4.648217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-25",
   externalId: "7Hau1KXnaqrXt4JMx6DS4Y",

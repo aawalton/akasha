@@ -9,7 +9,7 @@ export const lindseyStirling2Artemis = {
   position: 0,
   ownLength: 51.2967,
   ownProgress: 51.2967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-06",
   externalId: "1Fp7KUob6eXag90SkbBbnU",

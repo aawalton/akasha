@@ -9,7 +9,7 @@ export const justinTimberlake3dJustinTimberlakeRemix = {
   position: 0,
   ownLength: 2.682367,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-24",
   externalId: "4SNBgrYqk2aV4LyXbTSkYA",

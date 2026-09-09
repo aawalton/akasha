@@ -9,7 +9,7 @@ export const kellyClarksonBreakaway = {
   position: 0,
   ownLength: 44.797033,
   ownProgress: 44.797033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2004-01-17",
   externalId: "5gDAEao3VxFdbm8vS0koQq",

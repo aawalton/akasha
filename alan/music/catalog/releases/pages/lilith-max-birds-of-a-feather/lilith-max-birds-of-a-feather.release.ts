@@ -9,7 +9,7 @@ export const lilithMaxBirdsOfAFeather = {
   position: 0,
   ownLength: 2.97585,
   ownProgress: 2.97585,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-10",

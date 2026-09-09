@@ -9,7 +9,7 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixes = {
   position: 0,
   ownLength: 8.352217,
   ownProgress: 8.352217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-14",
   externalId: "1K2wTjP6DYiAljLN10283k",

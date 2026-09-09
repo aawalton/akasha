@@ -9,7 +9,7 @@ export const lilithMaxAmIFree = {
   position: 0,
   ownLength: 2.380767,
   ownProgress: 2.380767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-03",

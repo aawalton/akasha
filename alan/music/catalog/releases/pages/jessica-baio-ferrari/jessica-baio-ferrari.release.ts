@@ -9,7 +9,7 @@ export const jessicaBaioFerrari = {
   position: 0,
   ownLength: 9.127933,
   ownProgress: 9.127933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-09-26",

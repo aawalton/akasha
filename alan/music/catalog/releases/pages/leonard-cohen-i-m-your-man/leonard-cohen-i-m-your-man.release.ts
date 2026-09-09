@@ -9,7 +9,7 @@ export const leonardCohenIMYourMan = {
   position: 0,
   ownLength: 40.801717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1988-02-02",
   externalId: "3gUw30X6A7WEGcRdv1nFr9",

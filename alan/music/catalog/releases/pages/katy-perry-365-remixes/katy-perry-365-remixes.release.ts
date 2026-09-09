@@ -9,7 +9,7 @@ export const katyPerry365Remixes = {
   position: 0,
   ownLength: 13.477267,
   ownProgress: 13.477267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-22",
   externalId: "7gTwELYieNEJjBhmPvOm71",

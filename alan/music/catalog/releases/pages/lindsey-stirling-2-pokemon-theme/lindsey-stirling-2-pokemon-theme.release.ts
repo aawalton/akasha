@@ -9,7 +9,7 @@ export const lindseyStirling2PokemonTheme = {
   position: 0,
   ownLength: 3.34245,
   ownProgress: 3.34245,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-26",
   externalId: "0wGufUPY82qnaOdNHJlXWN",

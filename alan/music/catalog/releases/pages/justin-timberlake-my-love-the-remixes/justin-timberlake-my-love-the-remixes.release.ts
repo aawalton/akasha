@@ -9,7 +9,7 @@ export const justinTimberlakeMyLoveTheRemixes = {
   position: 0,
   ownLength: 31.618867,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-01-02",
   externalId: "2T4Y4BOSbReX4EEM79hIO6",

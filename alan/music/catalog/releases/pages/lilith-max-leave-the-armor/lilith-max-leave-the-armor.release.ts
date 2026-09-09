@@ -9,7 +9,7 @@ export const lilithMaxLeaveTheArmor = {
   position: 0,
   ownLength: 4.282933,
   ownProgress: 4.282933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2020-08-28",

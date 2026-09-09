@@ -9,7 +9,7 @@ export const kellyClarksonBecauseOfYouRemixes = {
   position: 0,
   ownLength: 46.742817,
   ownProgress: 46.742817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-03-21",
   externalId: "7aGO8llWJb9DmDYS0SKTep",

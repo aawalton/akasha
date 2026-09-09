@@ -9,7 +9,7 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
   position: 0,
   ownLength: 3.259167,
   ownProgress: 3.259167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-25",
   externalId: "0Z6X6Mbo17M13PENoc1E2Q",

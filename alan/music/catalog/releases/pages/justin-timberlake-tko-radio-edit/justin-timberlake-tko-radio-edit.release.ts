@@ -9,7 +9,7 @@ export const justinTimberlakeTkoRadioEdit = {
   position: 0,
   ownLength: 4.810433,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-09-20",
   externalId: "68OUv0y3fkHMM091wUBIHv",

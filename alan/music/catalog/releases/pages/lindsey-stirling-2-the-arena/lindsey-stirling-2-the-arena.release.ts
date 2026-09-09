@@ -9,7 +9,7 @@ export const lindseyStirling2TheArena = {
   position: 0,
   ownLength: 3.871333,
   ownProgress: 3.871333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-28",
   externalId: "2NyVPZtDWaIxjJ5UzBwtuY",

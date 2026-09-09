@@ -9,7 +9,7 @@ export const lindseyStirling2LoseYouNowAcoustic = {
   position: 0,
   ownLength: 3.151433,
   ownProgress: 3.151433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-22",
   externalId: "0CiJCYgMMfzGI6LSV0bBzA",

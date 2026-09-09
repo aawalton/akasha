@@ -9,7 +9,7 @@ export const katyPerryHotNCold3 = {
   position: 0,
   ownLength: 3.672667,
   ownProgress: 3.672667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "7t536KbHOO8GOEhHpk0Tyv",

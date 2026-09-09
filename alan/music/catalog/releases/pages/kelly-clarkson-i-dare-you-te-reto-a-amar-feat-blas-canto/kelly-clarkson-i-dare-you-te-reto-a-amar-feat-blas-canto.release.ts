@@ -9,7 +9,7 @@ export const kellyClarksonIDareYouTeRetoAAmarFeatBlasCanto = {
   position: 0,
   ownLength: 3.601783,
   ownProgress: 3.601783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-12",
   externalId: "64afI65C3IUQN0Rzr2B2BU",

@@ -9,7 +9,7 @@ export const jessicaBaioLethal = {
   position: 0,
   ownLength: 2.776217,
   ownProgress: 2.776217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-04",

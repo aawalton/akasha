@@ -9,7 +9,7 @@ export const kellyClarksonIVeLovedYouSinceForever = {
   position: 0,
   ownLength: 1.349117,
   ownProgress: 1.349117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-08",
   externalId: "1Ho585tHTmk4lrbtqakCNH",

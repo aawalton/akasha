@@ -9,7 +9,7 @@ export const kellyClarksonYouForChristmas = {
   position: 0,
   ownLength: 2.900067,
   ownProgress: 2.900067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
   externalId: "30Kw3uH0UKxEllvLTZuE4q",

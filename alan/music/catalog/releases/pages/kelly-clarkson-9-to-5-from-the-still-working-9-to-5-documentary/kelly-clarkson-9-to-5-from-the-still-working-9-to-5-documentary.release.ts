@@ -9,7 +9,7 @@ export const kellyClarkson9To5FromTheStillWorking9To5Documentary = {
   position: 0,
   ownLength: 3.6091,
   ownProgress: 3.6091,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-09",
   externalId: "6PH9FkIY5DVDh0JUktLlLR",

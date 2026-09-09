@@ -9,7 +9,7 @@ export const jennaRaineOnlyStartedGrowing = {
   position: 0,
   ownLength: 17.185483,
   ownProgress: 17.185483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-25",

@@ -9,7 +9,7 @@ export const jennaRaineBiteTheBullet = {
   position: 0,
   ownLength: 5.961967,
   ownProgress: 5.961967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-11",

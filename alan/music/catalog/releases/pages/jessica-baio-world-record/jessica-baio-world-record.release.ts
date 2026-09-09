@@ -9,7 +9,7 @@ export const jessicaBaioWorldRecord = {
   position: 0,
   ownLength: 3.0238,
   ownProgress: 3.0238,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2020-01-02",

@@ -9,7 +9,7 @@ export const kellyClarksonHeatLukeSolomonRemix = {
   position: 0,
   ownLength: 10.8913,
   ownProgress: 10.8913,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-27",
   externalId: "5yNbvb6bwjiTwRWlAG0gdc",
