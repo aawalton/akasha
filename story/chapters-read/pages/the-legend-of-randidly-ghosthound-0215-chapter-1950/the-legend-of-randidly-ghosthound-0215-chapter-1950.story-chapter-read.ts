@@ -5,7 +5,7 @@ export const theLegendOfRandidlyGhosthound0215Chapter1950 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0215-chapter-1950",
   title: "Chapter 1950",
-  storySlug: "story-read/the-legend-of-randidly-ghosthound",
+  story: "story-read/the-legend-of-randidly-ghosthound",
   position: 215,
   ownLength: 2072,
   unitSlug: "words",
