@@ -6,4 +6,15 @@ export const idleSaves = {
   slug: "idle-saves",
   definition: "a player's idle save read from and written to Supabase",
   code: "ts",
+  invariants: [
+    { invariantKind: "gap", statement: "`idle-save` is no page type the pages system holds." },
+    {
+      invariantKind: "departure",
+      statement: "A save that went unread is refused rather than answered as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A save that did not land is refused rather than answered as written.",
+    },
+  ],
 } as const satisfies Module

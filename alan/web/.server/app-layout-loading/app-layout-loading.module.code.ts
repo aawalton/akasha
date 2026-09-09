@@ -6,13 +6,6 @@ import { ALANWALTON_APP_SLUG } from "../../alan-app-id/alan-app-id.module.code.t
 const NAV_PAGE_TYPE_SLUG = "nav"
 
 const NAV_ITEM_LIMIT = 200
-
-// THE SIDEBAR IS PAINTED BEFORE THE BROWSER ASKS FOR IT. The shell reads these rows as its first
-// nav items and falls through to its own fetch once that answers, so a reader sees the navigation
-// on the first frame rather than after hydration.
-//
-// A NAV ITEM NAMES ITS APP BY SLUG. The `nav` page type declares `appSlug` and no key holding an
-// app's id, and a key a page type declares nothing for is refused rather than left out.
 async function navItemsFor(): Promise<ReadonlyArray<Record<string, unknown>> | null> {
   try {
     const { rows } = await getPages({

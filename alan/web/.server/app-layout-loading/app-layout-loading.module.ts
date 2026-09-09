@@ -6,4 +6,14 @@ export const appLayoutLoading = {
   slug: "app-layout-loading",
   definition: "what the signed-in layout loads before it is drawn",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The layout loads the nav items rather than the shell fetching them first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The sidebar is drawn on the first frame rather than after hydration.",
+    },
+  ],
 } as const satisfies Module
