@@ -1,5 +1,7 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { everyOfType, listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
@@ -35,6 +37,14 @@ const KIND = "dispatchedAs"
 const ID = "id"
 
 const SUFFIX = ".subagent.ts"
+
+const TAKE_PAGE = "change-mechanical-file/remove-file-page"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
 
 export type Went = { readonly went: true } | { readonly why: string }
 
@@ -162,14 +172,21 @@ export function seatPageIn(root: string, seatName: string): string | null {
   return listedAt(root, SEAT, seatName)[0]?.path ?? null
 }
 
-export async function took(root: string, seatName: string, own: string): Promise<Went> {
+export async function took(
+  root: string,
+  seatName: string,
+  own: string,
+  landing: Landing = runMechanicalChange
+): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return WENT
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
-  const gone = await handed(root, [{ path: at, body: null }], why)
-  if (!("why" in gone)) dropReadings(root, [at])
-  return gone
+  const landed = await landing(root, [{ at: TAKE_PAGE, given: { at } }], why)
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return { why: wrong.join(" ").trim() }
+  dropReadings(root, [at])
+  return WENT
 }
 
 export function pathsUnder(root: string, seatName: string): readonly string[] {

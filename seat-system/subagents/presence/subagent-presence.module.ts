@@ -133,8 +133,22 @@ export const subagentPresence = {
       statement: "The page a seat sits at is read from the index rather than composed from a name.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing is taken in beside a page that goes.",
+      invariantKind: "departure",
+      statement: "A page that goes takes the files beside that page with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page goes through the change taking a page away rather than through a raw edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a page goes through is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the index files no page at refuses the take-down rather than falling back.",
     },
     {
       invariantKind: "departure",

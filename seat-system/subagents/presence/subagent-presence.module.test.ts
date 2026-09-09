@@ -15,6 +15,7 @@ import {
   asking,
   assignedTo,
   bodyOf,
+  type Landing,
   LOG_AT,
   landingAgain,
   logPathOf,
@@ -41,6 +42,7 @@ import {
   LOCKED,
   landedAt,
   landedUnder,
+  landingNaming,
   loggedAt,
   MECHANICAL,
   messageIn,
@@ -187,10 +189,22 @@ test("a page composed is landed by a program, and goes when the subagent is done
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
     recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
     expect(readingIn(root, AGENT, at)).not.toBe(null)
-    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+    const named: string[] = []
+    expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
+    expect(named).toEqual(["change-mechanical-file/remove-file-page"])
     expect(existsSync(join(root, at))).toBe(false)
     expect(messageIn(root)).not.toContain(MECHANICAL)
     expect(readingIn(root, AGENT, at)).toBe(null)
+  })
+})
+
+test("a take-down the landing refuses answers why and takes no page away", async () => {
+  await underSeat(async (root) => {
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+    const at = pathOf(slugOf("akasha", OWN))
+    const refusing: Landing = () => Promise.resolve({ refusals: ["the index files no page there"] })
+    expect(whyIn(await took(root, "akasha", OWN, refusing))).toBe("the index files no page there")
+    expect(existsSync(join(root, at))).toBe(true)
   })
 })
 
@@ -232,7 +246,7 @@ test("a page in history is taken up with its id and kind, and comes back with th
     expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
     expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
-    expect(await took(root, "akasha", OWN)).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, landingNaming([]))).toEqual(WENT)
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
   })

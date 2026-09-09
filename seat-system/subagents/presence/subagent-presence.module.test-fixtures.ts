@@ -5,7 +5,25 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { bodyOf, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
+import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
+import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
+
+export function landingNaming(named: string[]): Landing {
+  return async (root, changes, message) => {
+    const paths: string[] = []
+    for (const one of changes) {
+      named.push(one.at)
+      paths.push((one.given as { readonly at: string }).at)
+    }
+    const answer = await landedMechanically(
+      root,
+      "subagent-presence",
+      paths.map((path) => ({ path, body: null })),
+      message
+    )
+    return { refusals: answer.code === 0 ? [] : answer.refusals }
+  }
+}
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
