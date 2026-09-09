@@ -11,7 +11,7 @@ export const iAmWholeFoodPlantBased = {
   identityStatementRank: "a-rank",
   replacesStatementSlugs: ["i-eat-whatever-is-easiest"],
   identityStatementStatus: "in-progress",
-  subStatementSlugs: [
+  subStatements: [
     "i-like-plants",
     "i-dont-like-sugar",
     "i-dont-like-processed-foods",

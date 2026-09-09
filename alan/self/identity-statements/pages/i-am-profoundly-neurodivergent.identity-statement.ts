@@ -10,7 +10,7 @@ export const iAmProfoundlyNeurodivergent = {
   notionId: "1e405326fa05467cba1213b5e2b78383",
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
-  subStatementSlugs: [
+  subStatements: [
     "i-am-an-omni-sensory-aphant",
     "i-am-audhd",
     "i-am-universally-extraordinary",

@@ -10,7 +10,7 @@ export const myPsychologicalGenderIs80Masculine = {
   notionId: "0a7a0efc2e9349d38d1fd20a64dafee7",
   identityStatementRank: "s-rank",
   identityStatementStatus: "in-progress",
-  subStatementSlugs: [
+  subStatements: [
     "femininity-has-a-dark-side-as-well-as-a-light-side",
     "masculinity-has-a-light-side-as-well-as-a-dark-side",
   ],
