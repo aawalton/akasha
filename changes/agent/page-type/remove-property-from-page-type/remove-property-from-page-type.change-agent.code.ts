@@ -1,6 +1,6 @@
 import { addressIn } from "@akasha/pages/page-address"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
-import { textAt, textsAt } from "@akasha/pages/page-value-reading"
+import { textAt } from "@akasha/pages/page-value-reading"
 import {
   gathered,
   missing,
@@ -24,8 +24,6 @@ const REMOVE_RECORD = "change-mechanical-file-content/remove-property-record"
 const PROPERTIES = "properties"
 
 const PARTS = "parts"
-
-const PART_SLUGS = "part-slugs"
 
 const PROPERTY_SLUG = "property-slug"
 
@@ -74,7 +72,7 @@ export async function removePropertyFromPageType(
   answers.push(member.said)
   const part = await reach(over, REMOVE_VALUE, {
     at: given.at,
-    key: textsAt(owner, PARTS) === null ? exportedAs(PART_SLUGS) : PARTS,
+    key: PARTS,
     value: given.property,
   })
   if (part.said.refused !== null) return part.said

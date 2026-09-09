@@ -82,7 +82,7 @@ test("the property goes from among the page type's parts in the same answer", as
   const seen: Reached[] = []
   await answering(seen)
   expect(seen[1]?.at).toBe(VALUE)
-  expect(seen[1]?.given.key).toBe("partSlugs")
+  expect(seen[1]?.given.key).toBe("parts")
   expect(seen[1]?.given.value).toBe(PROPERTY)
 })
 

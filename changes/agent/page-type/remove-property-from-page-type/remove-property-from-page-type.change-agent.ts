@@ -25,6 +25,19 @@ export const removePropertyFromPageType = {
     },
     {
       invariantKind: "departure",
+      statement: "The part taken out is keyed `parts` rather than looked for under a second key.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type keeping the property in its parts alone or its properties alone is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property no page type declares after this goes in the same landing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The member taken out is the one keyed by the key the property answers to.",
     },
     {
