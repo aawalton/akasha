@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const icloudPhotos = {
   id: "01a06585-5f39-7952-9837-205f11953eba",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "icloud-photos",
   definition: "the photos an iCloud shared album holds, read out of Apple's CloudKit",
-  manifest: "json",
   parts: ["module/album-pulling"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const icloudPhotos = {
       statement: "An album is reached by a public token rather than by an account.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -21,7 +21,6 @@
         "@akasha/google-oauth": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
-        "@akasha/icloud-photos": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
@@ -240,13 +239,6 @@
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/ssh-access": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "alan/harness/icloud-photos": {
-      "name": "@akasha/icloud-photos",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2423,8 +2415,6 @@
     "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:alan/harness/health-samples-import"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
-
-    "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:alan/harness/icloud-photos"],
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 

@@ -14,7 +14,6 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",
-    "@akasha/icloud-photos": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-url": "workspace:*",

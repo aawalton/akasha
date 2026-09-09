@@ -1,6 +1,6 @@
 import { mkdir } from "node:fs/promises"
 import { exitCodeForThrowable, OperationalError } from "@akasha/errors-core/exit-code"
-import type { PhotoAsset } from "@akasha/icloud-photos/album-pulling"
+import type { PhotoAsset } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
 import {
   buildQueryRequest,
   buildResolveRequest,
@@ -10,7 +10,7 @@ import {
   parseResolveResponse,
   parseShareToken,
   resolveOutputDir,
-} from "@akasha/icloud-photos/album-pulling"
+} from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
