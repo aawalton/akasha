@@ -44,5 +44,6 @@ export const akashaFolderShape = {
     "A page-property path names the page type, then the scope property and its value, then the unique property and its value.",
     "The property `uniquePropertySlug` names is declared on the same page type, is required, and carries one value.",
     "The domain parts edge and the collections parts edge stay two relations.",
+    "A property page takes no bare slug another page type's property page holds, because the index keys a property's target by bare slug alone.",
   ],
 } as const satisfies Initiative
