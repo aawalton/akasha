@@ -15,7 +15,7 @@ import { patchConditions } from "../rule-card-conditions-patch/rule-card-conditi
 export function useConditionHandlers(
   ruleId: string,
   conditions: CategoryRule["conditions"],
-  onUpdate: (ruleId: string, patch: Partial<CategoryRule>) => void
+  onUpdate: (said: string, patch: Partial<CategoryRule>) => void
 ) {
   function handleQualityChange(value: string) {
     onUpdate(ruleId, {
