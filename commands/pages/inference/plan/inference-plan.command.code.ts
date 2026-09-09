@@ -1,7 +1,7 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
-import { reconcile } from "@akasha/inference-pool/inference-reconcile"
 import { codeRoot } from "@akasha/pages/code-root"
+import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import {
   keyedLines,
   wasRefused,

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const inferencePool = {
   id: "01a06815-9efd-7015-b82a-e620372e1e32",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "inference-pool",
   definition: "the model services one machine fronts, one resident at a time",
-  manifest: "json",
   parts: [
     "module/cop-admin",
     "module/gui-session",
@@ -60,4 +59,4 @@ export const inferencePool = {
       statement: "The host is reached over ssh rather than by an agent running on that host.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

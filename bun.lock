@@ -19,7 +19,6 @@
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
-        "@akasha/inference-pool": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
@@ -672,15 +671,6 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "inference/pool": {
-      "name": "@akasha/inference-pool",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1949,8 +1939,6 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
     "@akasha/inference-clients": ["@akasha/inference-clients@workspace:inference/clients"],
-
-    "@akasha/inference-pool": ["@akasha/inference-pool@workspace:inference/pool"],
 
     "@akasha/inference-runs": ["@akasha/inference-runs@workspace:inference/runs"],
 

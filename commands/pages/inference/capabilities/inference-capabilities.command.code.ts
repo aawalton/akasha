@@ -1,12 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { getHost } from "@akasha/inference-pool/inference-hosts"
-import { parseMfluxTools } from "@akasha/inference-pool/inference-reconcile"
-import type { InferenceService } from "@akasha/inference-pool/inference-schema"
-import { SERVICES } from "@akasha/inference-pool/inference-services"
-import { runSshCapture } from "@akasha/inference-pool/inference-ssh"
-import { buildMfluxQueryScript } from "@akasha/inference-pool/provision-script"
+import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import { parseMfluxTools } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
+import type { InferenceService } from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
+import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
+import { buildMfluxQueryScript } from "akasha/inference/pool/provision-script/provision-script.module.code.ts"
 import {
   boundTo,
   targetOf,

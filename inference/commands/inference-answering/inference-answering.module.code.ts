@@ -1,8 +1,11 @@
 import { readFile } from "node:fs/promises"
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { getHost } from "@akasha/inference-pool/inference-hosts"
-import type { InferenceHost, InferenceService } from "@akasha/inference-pool/inference-schema"
-import { SERVICES } from "@akasha/inference-pool/inference-services"
+import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
+import type {
+  InferenceHost,
+  InferenceService,
+} from "akasha/inference/pool/inference-schema/inference-schema.module.code.ts"
+import { SERVICES } from "akasha/inference/pool/inference-services/inference-services.module.code.ts"
 
 export const PROSE_ROUTE = "-file"
 
