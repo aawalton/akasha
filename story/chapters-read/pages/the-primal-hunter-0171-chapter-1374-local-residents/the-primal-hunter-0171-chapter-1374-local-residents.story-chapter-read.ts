@@ -4,7 +4,7 @@ export const thePrimalHunter0171Chapter1374LocalResidents = {
   id: "01a07252-4cd5-7bf5-a695-bfadc553931b",
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0171-chapter-1374-local-residents",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 171,
   publishedAt: "2026-09-03",
   unitSlug: "words",

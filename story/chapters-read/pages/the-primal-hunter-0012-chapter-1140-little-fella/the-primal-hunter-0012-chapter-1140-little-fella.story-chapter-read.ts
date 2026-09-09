@@ -5,7 +5,7 @@ export const thePrimalHunter0012Chapter1140LittleFella = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0012-chapter-1140-little-fella",
   title: "Chapter 1140 - Little Fella",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 12,
   ownLength: 2794,
   unitSlug: "words",

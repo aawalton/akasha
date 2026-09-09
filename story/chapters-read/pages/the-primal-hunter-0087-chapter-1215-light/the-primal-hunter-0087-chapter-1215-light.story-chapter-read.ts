@@ -5,7 +5,7 @@ export const thePrimalHunter0087Chapter1215Light = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0087-chapter-1215-light",
   title: "Chapter 1215 - Light",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 87,
   ownLength: 3052,
   unitSlug: "words",

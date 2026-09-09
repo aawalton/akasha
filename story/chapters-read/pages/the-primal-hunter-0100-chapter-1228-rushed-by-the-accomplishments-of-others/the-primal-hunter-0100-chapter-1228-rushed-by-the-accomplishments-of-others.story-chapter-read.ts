@@ -5,7 +5,7 @@ export const thePrimalHunter0100Chapter1228RushedByTheAccomplishmentsOfOthers = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0100-chapter-1228-rushed-by-the-accomplishments-of-others",
   title: "Chapter 1228 - Rushed By The Accomplishments of Others",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 100,
   ownLength: 2871,
   unitSlug: "words",

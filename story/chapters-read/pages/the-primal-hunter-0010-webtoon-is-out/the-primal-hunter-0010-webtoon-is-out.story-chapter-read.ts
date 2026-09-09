@@ -5,7 +5,7 @@ export const thePrimalHunter0010WebtoonIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0010-webtoon-is-out",
   title: "Webtoon Is Out!",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 10,
   ownLength: 428,
   unitSlug: "words",

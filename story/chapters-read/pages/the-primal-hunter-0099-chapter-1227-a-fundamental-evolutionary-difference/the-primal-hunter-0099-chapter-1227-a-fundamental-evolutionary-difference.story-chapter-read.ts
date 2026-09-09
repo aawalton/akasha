@@ -5,7 +5,7 @@ export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0099-chapter-1227-a-fundamental-evolutionary-difference",
   title: "Chapter 1227 - A Fundamental Evolutionary Difference",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 99,
   ownLength: 2691,
   unitSlug: "words",

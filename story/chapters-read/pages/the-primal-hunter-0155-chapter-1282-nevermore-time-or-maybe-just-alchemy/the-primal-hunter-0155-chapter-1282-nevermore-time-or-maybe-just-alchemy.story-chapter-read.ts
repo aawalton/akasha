@@ -5,7 +5,7 @@ export const thePrimalHunter0155Chapter1282NevermoreTimeOrMaybeJustAlchemy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0155-chapter-1282-nevermore-time-or-maybe-just-alchemy",
   title: "Chapter 1282 - Nevermore Time!? Or Maybe Just Alchemy...",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 155,
   ownLength: 2844,
   unitSlug: "words",

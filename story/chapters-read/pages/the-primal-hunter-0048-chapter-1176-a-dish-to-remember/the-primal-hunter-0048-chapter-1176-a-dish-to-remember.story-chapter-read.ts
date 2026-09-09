@@ -5,7 +5,7 @@ export const thePrimalHunter0048Chapter1176ADishToRemember = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0048-chapter-1176-a-dish-to-remember",
   title: "Chapter 1176 - A Dish To Remember",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 48,
   ownLength: 2877,
   unitSlug: "words",

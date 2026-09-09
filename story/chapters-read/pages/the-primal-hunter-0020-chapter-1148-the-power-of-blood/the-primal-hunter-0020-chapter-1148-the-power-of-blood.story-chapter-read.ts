@@ -5,7 +5,7 @@ export const thePrimalHunter0020Chapter1148ThePowerOfBlood = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0020-chapter-1148-the-power-of-blood",
   title: "Chapter 1148 - The Power of Blood",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 20,
   ownLength: 3076,
   unitSlug: "words",

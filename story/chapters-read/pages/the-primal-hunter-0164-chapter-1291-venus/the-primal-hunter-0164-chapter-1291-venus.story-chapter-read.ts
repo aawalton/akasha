@@ -5,7 +5,7 @@ export const thePrimalHunter0164Chapter1291Venus = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0164-chapter-1291-venus",
   title: "Chapter 1291 - Venus(?)",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 164,
   ownLength: 2786,
   unitSlug: "words",

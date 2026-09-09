@@ -5,7 +5,7 @@ export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0183-chapter-1309-precarious-circumstances",
   title: "Chapter 1309 - Precarious Circumstances",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 183,
   ownLength: 2898,
   unitSlug: "words",

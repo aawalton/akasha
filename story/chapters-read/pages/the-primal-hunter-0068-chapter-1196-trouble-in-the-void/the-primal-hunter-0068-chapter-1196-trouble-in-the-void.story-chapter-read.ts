@@ -5,7 +5,7 @@ export const thePrimalHunter0068Chapter1196TroubleInTheVoid = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0068-chapter-1196-trouble-in-the-void",
   title: "Chapter 1196 - Trouble In the Void",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 68,
   ownLength: 2840,
   unitSlug: "words",

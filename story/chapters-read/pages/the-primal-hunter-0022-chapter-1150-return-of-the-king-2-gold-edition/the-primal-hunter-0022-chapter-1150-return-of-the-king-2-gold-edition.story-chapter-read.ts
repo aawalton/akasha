@@ -5,7 +5,7 @@ export const thePrimalHunter0022Chapter1150ReturnOfTheKing2GoldEdition = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0022-chapter-1150-return-of-the-king-2-gold-edition",
   title: "Chapter 1150 - Return of the King 2: Gold Edition",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 22,
   ownLength: 2709,
   unitSlug: "words",

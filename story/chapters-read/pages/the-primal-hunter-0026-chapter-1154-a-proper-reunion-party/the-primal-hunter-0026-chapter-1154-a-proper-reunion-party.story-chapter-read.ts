@@ -5,7 +5,7 @@ export const thePrimalHunter0026Chapter1154AProperReunionParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0026-chapter-1154-a-proper-reunion-party",
   title: "Chapter 1154 - A Proper Reunion Party",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 26,
   ownLength: 2787,
   unitSlug: "words",

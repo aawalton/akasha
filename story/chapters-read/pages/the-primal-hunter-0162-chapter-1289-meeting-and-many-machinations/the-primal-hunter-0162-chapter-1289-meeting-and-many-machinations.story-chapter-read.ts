@@ -5,7 +5,7 @@ export const thePrimalHunter0162Chapter1289MeetingAndManyMachinations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0162-chapter-1289-meeting-and-many-machinations",
   title: "Chapter 1289 - Meeting & Many Machinations",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 162,
   ownLength: 2939,
   unitSlug: "words",

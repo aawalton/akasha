@@ -5,7 +5,7 @@ export const thePrimalHunter0140Chapter1267TheoriesAndVisitors = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0140-chapter-1267-theories-and-visitors",
   title: "Chapter 1267 - Theories & Visitors",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 140,
   ownLength: 2953,
   unitSlug: "words",

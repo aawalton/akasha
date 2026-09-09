@@ -5,7 +5,7 @@ export const thePrimalHunter0053Chapter1181Planeswarper = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0053-chapter-1181-planeswarper",
   title: "Chapter 1181 - Planeswarper",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 53,
   ownLength: 2814,
   unitSlug: "words",

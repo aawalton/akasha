@@ -5,7 +5,7 @@ export const thePrimalHunter0163Chapter1366ALazyEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0163-chapter-1366-a-lazy-encounter",
   title: "Chapter 1366 - A Lazy Encounter",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 163,
   ownLength: 2915,
   unitSlug: "words",

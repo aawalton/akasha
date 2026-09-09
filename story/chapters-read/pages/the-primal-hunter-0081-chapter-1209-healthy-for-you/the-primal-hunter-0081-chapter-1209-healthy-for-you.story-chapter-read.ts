@@ -5,7 +5,7 @@ export const thePrimalHunter0081Chapter1209HealthyForYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0081-chapter-1209-healthy-for-you",
   title: 'Chapter 1209 - "Healthy For You."',
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 81,
   ownLength: 2706,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePathOfAscension0111PoaNowHasALightNovelNotAChapter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-path-of-ascension-0111-poa-now-has-a-light-novel-not-a-chapter",
   title: "PoA now has a light novel! (Not a chapter)",
-  storySlug: "story-read/the-path-of-ascension",
+  story: "story-read/the-path-of-ascension",
   position: 111,
   ownLength: 120,
   unitSlug: "words",

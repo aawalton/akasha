@@ -5,7 +5,7 @@ export const thePathOfAscension0172AsterPlushies = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-path-of-ascension-0172-aster-plushies",
   title: "Aster plushies!",
-  storySlug: "story-read/the-path-of-ascension",
+  story: "story-read/the-path-of-ascension",
   position: 172,
   ownLength: 100,
   unitSlug: "words",

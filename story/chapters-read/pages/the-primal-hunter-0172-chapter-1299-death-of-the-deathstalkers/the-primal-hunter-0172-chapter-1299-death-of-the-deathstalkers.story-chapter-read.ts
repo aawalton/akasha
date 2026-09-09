@@ -5,7 +5,7 @@ export const thePrimalHunter0172Chapter1299DeathOfTheDeathstalkers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0172-chapter-1299-death-of-the-deathstalkers",
   title: "Chapter 1299 - Death of the Deathstalkers",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 172,
   ownLength: 3025,
   unitSlug: "words",

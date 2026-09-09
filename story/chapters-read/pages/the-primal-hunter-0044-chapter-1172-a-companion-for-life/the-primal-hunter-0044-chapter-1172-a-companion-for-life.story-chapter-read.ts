@@ -5,7 +5,7 @@ export const thePrimalHunter0044Chapter1172ACompanionForLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0044-chapter-1172-a-companion-for-life",
   title: "Chapter 1172 - A Companion For Life",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 44,
   ownLength: 3064,
   unitSlug: "words",

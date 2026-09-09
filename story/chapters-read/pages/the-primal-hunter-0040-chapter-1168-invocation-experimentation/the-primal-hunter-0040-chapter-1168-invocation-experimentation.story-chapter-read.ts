@@ -5,7 +5,7 @@ export const thePrimalHunter0040Chapter1168InvocationExperimentation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0040-chapter-1168-invocation-experimentation",
   title: "Chapter 1168 - Invocation Experimentation",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 40,
   ownLength: 2862,
   unitSlug: "words",

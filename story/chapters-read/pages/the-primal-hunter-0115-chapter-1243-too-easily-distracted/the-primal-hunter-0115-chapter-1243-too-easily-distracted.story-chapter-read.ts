@@ -5,7 +5,7 @@ export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0115-chapter-1243-too-easily-distracted",
   title: "Chapter 1243 - Too Easily Distracted",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 115,
   ownLength: 2791,
   unitSlug: "words",

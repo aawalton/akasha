@@ -5,7 +5,7 @@ export const thePrimalHunter0131Chapter1258AGhastlyDomain = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0131-chapter-1258-a-ghastly-domain",
   title: "Chapter 1258 - A Ghastly Domain",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 131,
   ownLength: 3005,
   unitSlug: "words",

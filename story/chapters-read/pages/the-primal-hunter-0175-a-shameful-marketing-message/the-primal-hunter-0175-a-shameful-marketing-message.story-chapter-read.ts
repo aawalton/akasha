@@ -5,7 +5,7 @@ export const thePrimalHunter0175AShamefulMarketingMessage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0175-a-shameful-marketing-message",
   title: "A Shameful Marketing Message",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 175,
   ownLength: 280,
   unitSlug: "words",
