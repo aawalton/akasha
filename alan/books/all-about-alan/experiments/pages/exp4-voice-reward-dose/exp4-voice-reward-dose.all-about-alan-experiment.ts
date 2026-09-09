@@ -1,4 +1,4 @@
-import type { AllAboutAlanExperiment } from "../../all-about-alan-experiment.page-type.ts"
+import type { AllAboutAlanExperiment } from "../../all-about-alan-experiment.page-type.types.ts"
 
 export const exp4VoiceRewardDose = {
   id: "01a0657f-a729-7ea4-8551-8aa71ce29c6e",

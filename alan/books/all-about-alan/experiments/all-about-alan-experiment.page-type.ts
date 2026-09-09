@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { LineSet } from "./properties/line-set.file-property.ts"
-
-export type AllAboutAlanExperiment = Page & {
-  title: Title
-  definition: Definition
-  lineSet?: LineSet
-}
 
 export const allAboutAlanExperiment = {
   id: "01a0657f-a729-7906-84f8-825c8af36228",
@@ -39,4 +29,5 @@ export const allAboutAlanExperiment = {
       statement: "An experiment is kept whether or not the experiment has been run yet.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
