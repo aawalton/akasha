@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperFormulaFramework = {
   id: "01a06070-82da-7f4b-92e5-5796473bfa9d",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-formula-framework",
   definition: "the arithmetic behind a character's numbers and the effects feeding that arithmetic",
-  manifest: "json",
   parts: [
     "module/arithmetic-node",
     "module/arithmetic-evaluate",
@@ -57,4 +56,4 @@ export const temperFormulaFramework = {
       statement: "A module here reaching a Date is never reached by addon code.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

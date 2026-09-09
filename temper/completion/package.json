@@ -12,7 +12,6 @@
     "./recipe-types": "./recipe-types/recipe-types.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-formula-framework": "workspace:*",
     "zod": "^4.3.6"
   }
 }

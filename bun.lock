@@ -49,7 +49,6 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
@@ -991,7 +990,6 @@
       "name": "@akasha/temper-build-support",
       "dependencies": {
         "@akasha/pages-url": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
       },
     },
     "temper/capture-datamining-addon": {
@@ -1021,7 +1019,6 @@
     "temper/character-sources": {
       "name": "@akasha/temper-character-sources",
       "dependencies": {
-        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1054,7 +1051,6 @@
     "temper/completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
-        "@akasha/temper-formula-framework": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1083,12 +1079,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
-      },
-    },
-    "temper/formula-framework": {
-      "name": "@akasha/temper-formula-framework",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/housing-addon": {
@@ -1271,7 +1261,6 @@
     "temper/skill-kinds": {
       "name": "@akasha/temper-skill-kinds",
       "dependencies": {
-        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1374,7 +1363,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -1616,8 +1604,6 @@
     "@akasha/temper-eso-types": ["@akasha/temper-eso-types@workspace:temper/temper-eso-types"],
 
     "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/events-addon"],
-
-    "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/formula-framework"],
 
     "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
 

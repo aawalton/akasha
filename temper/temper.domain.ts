@@ -67,7 +67,7 @@ export const temper = {
     "eso-addon/temper-lib-shifter-box",
     "eso-addon/temper-lib-price",
     "eso-addon/temper-lib-extended-journal",
-    "workspace-package/temper-formula-framework",
+    "domain/temper-formula-framework",
     "domain/temper-saved-vars-migration",
     "workspace-package/temper-addon-generators",
     "domain/temper-capture-host",

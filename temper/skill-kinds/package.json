@@ -19,7 +19,6 @@
     "./target-types": "./target-types/target-types.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

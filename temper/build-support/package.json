@@ -9,7 +9,6 @@
     "./row-grouping": "./row-grouping/row-grouping.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-url": "workspace:*",
-    "@akasha/temper-formula-framework": "workspace:*"
+    "@akasha/pages-url": "workspace:*"
   }
 }
