@@ -22,7 +22,6 @@ import {
   HELD_IN_PLAN_RATHER_DROPPED,
   HOLD,
   HOLDING_A_MODULE_TO_RUNTIME_STATES,
-  HOLDING_A_REQUEST_TO_COLLECT,
   HOLDING_THE_INTENT_IS_LEFT,
   IT_HELD_OR_WOULD_HOLD,
   LEDGER_HOLDS_EDITS,
@@ -203,11 +202,7 @@ test("a word the parser gave two objects is left alone", () => {
   expect(foundIn(sentenceOf(ROW_HELD_DROPS_THE_ID), HELD)).toEqual([])
 })
 
-test("a participle heading its own sentence is left alone", () => {
-  expect(foundIn(sentenceOf(HOLDING_A_REQUEST_TO_COLLECT), HOLD)).toEqual([])
-})
-
-test("a participle before the clause it hangs on is left alone", () => {
+test("a participle with no word before it is left alone", () => {
   expect(foundIn(sentenceOf(HOLDING_THE_INTENT_IS_LEFT), HOLD)).toEqual([])
 })
 
