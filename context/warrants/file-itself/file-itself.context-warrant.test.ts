@@ -20,7 +20,7 @@ afterAll(scratch.sweep)
 
 const PATH = "akasha/thing/thing.module.ts"
 
-const NAMED = "named-file-property"
+const FILE_PROPERTY = "file-property"
 
 const PAGE_TYPE = "page-type"
 
@@ -28,7 +28,7 @@ const WORKSPACE = "workspace"
 
 const LOCKFILE = "bun.lock"
 
-const PROPERTY_AT = "akasha/lockfile.named-file-property.ts"
+const PROPERTY_AT = "akasha/lockfile.file-property.ts"
 
 const PROPERTY_ID = "01a06d4d-0000-7000-8000-00000000000a"
 
@@ -44,11 +44,11 @@ const ELSEWHERE = "node_modules/one/bun.lock"
 
 function seeded(value: Value): string {
   const root = scratch.rootFor("akasha-file-itself-")
-  listedFiled(root, NAMED, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  listedFiled(root, FILE_PROPERTY, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
   idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
-  schemaFiled(root, NAMED, "lockfile", [
+  schemaFiled(root, FILE_PROPERTY, "lockfile", [
     {
-      pageTypeSlug: NAMED,
+      pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,
       unique: null,
       slug: "lockfile",
@@ -56,7 +56,7 @@ function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
+  valueAlsoFiled(root, FILE_PROPERTY, [{ path: PROPERTY_AT, value }])
   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
     { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },

@@ -38,7 +38,7 @@ test("the type a page type declares is that name with its first character raised
 })
 
 test("a type name is raised once, so the hyphens inside it are answered the same way", () => {
-  expect(typedAs("named-file-property")).toBe("NamedFileProperty")
+  expect(typedAs("named-folder-property")).toBe("NamedFolderProperty")
 })
 
 test("an empty slug names no type rather than refusing", () => {

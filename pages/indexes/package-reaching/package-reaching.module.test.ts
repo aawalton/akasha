@@ -40,9 +40,9 @@ const BODIES = reading({ "akasha/one/package.json": ONE, "akasha/two/package.jso
 
 function worldAt(): string {
   const root = scratch.rootFor(PREFIX)
-  schemaFiled(root, "named-file-property", "manifest", [
+  schemaFiled(root, "file-property", "manifest", [
     {
-      pageTypeSlug: "named-file-property",
+      pageTypeSlug: "file-property",
       targetPageTypeSlug: null,
       unique: null,
       slug: "manifest",

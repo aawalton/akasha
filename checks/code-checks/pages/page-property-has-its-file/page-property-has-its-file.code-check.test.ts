@@ -307,7 +307,7 @@ test("a property naming a file relabels no file the grammar built", () => {
 test("a page stating a file its property names, standing nowhere, is refused by that property", () => {
   const root = rooted(["code", "test"], ["code", "test", "manifest"])
   declaring(root, "manifest", {
-    pageTypeSlug: "named-file-property",
+    pageTypeSlug: "file-property",
     unique: null,
     fileName: "package.json",
   })

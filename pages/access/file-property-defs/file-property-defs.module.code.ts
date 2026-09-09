@@ -97,7 +97,6 @@ const RENDERED_AS: Readonly<Record<string, string>> = {
   "email-address-property": RENDERED_PLAIN,
   "file-property": RENDERED_PLAIN,
   "instant-property": "instant",
-  "named-file-property": RENDERED_PLAIN,
   "number-property": "number",
   "one-of-property": RENDERED_PLAIN,
   "page-property-entry": "json",

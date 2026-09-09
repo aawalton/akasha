@@ -140,8 +140,8 @@ test("a line carries the key a page reads the property by", () => {
 
 test("a schema line stating a file name says the property is held in a file of that name", () => {
   const index = scratch.rootFor("akasha-entries-named-")
-  declaring(index, "named-file-property", "manifest", {
-    pageTypeSlug: "named-file-property",
+  declaring(index, "file-property", "manifest", {
+    pageTypeSlug: "file-property",
     slug: "manifest",
     propertySlug: "manifest",
     fileName: "package.json",

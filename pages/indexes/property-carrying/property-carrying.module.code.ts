@@ -23,8 +23,6 @@ const RECORD_PROPERTY = "record-property"
 
 const FILE_NAME = "fileName"
 
-const NAMED_FILE_PROPERTY = "named-file-property"
-
 const MACHINE_WRITTEN = "machineWritten"
 
 const FILE_PROPERTY = "file-property"
@@ -171,7 +169,7 @@ function kindedIn(given: string | Reading): Kinded {
 export function machineWrittenAt(given: string | Reading, path: string): boolean {
   try {
     if (sectionHeld(path, slugsWhere(kindedIn(given), machineWrote))) return true
-    return heldBeside(path, valuesOfType(given, NAMED_FILE_PROPERTY), machineWrote, (named) =>
+    return heldBeside(path, valuesOfType(given, FILE_PROPERTY), machineWrote, (named) =>
       carryingOf(given, named)
     )
   } catch {

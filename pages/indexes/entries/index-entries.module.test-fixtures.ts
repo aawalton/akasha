@@ -196,7 +196,7 @@ export function declaring(
 }
 
 export function manifest(slug: string, fileName: string): Value {
-  return { id: slug, pageTypeSlug: "named-file-property", slug, propertySlug: "manifest", fileName }
+  return { id: slug, pageTypeSlug: "file-property", slug, propertySlug: "manifest", fileName }
 }
 
 export const HELD_PAGE = "deep/a.held-type.ts"
@@ -250,13 +250,13 @@ export const NEARER: readonly Value[] = [
     id: "a",
     pageTypeSlug: "page-type",
     slug: "far",
-    properties: [{ pagePropertySlug: "named-file-property/far-manifest" }],
+    properties: [{ pagePropertySlug: "file-property/far-manifest" }],
   },
   {
     id: "b",
     pageTypeSlug: "page-type",
     slug: "near",
-    properties: [{ pagePropertySlug: "named-file-property/near-manifest" }],
+    properties: [{ pagePropertySlug: "file-property/near-manifest" }],
   },
   { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
   {
@@ -274,13 +274,13 @@ export const EQUALLY_NEAR: readonly Value[] = [
     id: "a",
     pageTypeSlug: "page-type",
     slug: "first-parent",
-    properties: [{ pagePropertySlug: "named-file-property/first-manifest" }],
+    properties: [{ pagePropertySlug: "file-property/first-manifest" }],
   },
   {
     id: "b",
     pageTypeSlug: "page-type",
     slug: "second-parent",
-    properties: [{ pagePropertySlug: "named-file-property/second-manifest" }],
+    properties: [{ pagePropertySlug: "file-property/second-manifest" }],
   },
   {
     id: "c",

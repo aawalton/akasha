@@ -38,7 +38,7 @@ const TEXT = "txt"
 
 const WHOLE_PROSE = "prose"
 
-const NAMED_FILE_PROPERTY = "named-file-property"
+const FILE_PROPERTY = "file-property"
 
 const RUNS = "runsFileLength"
 
@@ -63,7 +63,7 @@ function namingIn(shadow: Shadow): readonly Naming[] {
   const found = NAMING.get(shadow)
   if (found !== undefined) return found
   const made = shadow.index
-    .everyOfType(NAMED_FILE_PROPERTY)
+    .everyOfType(FILE_PROPERTY)
     .map((listed) => ({ path: listed.path, value: shadow.pageOf(listed.path) }))
   NAMING.set(shadow, made)
   return made

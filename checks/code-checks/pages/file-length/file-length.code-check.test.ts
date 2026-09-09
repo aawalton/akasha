@@ -210,9 +210,7 @@ afterAll(scratch.sweep)
 
 const LOCKFILE = "bun.lock"
 
-const NAMED = "named-file-property"
-
-const PROPERTY_AT = "akasha/lockfile.named-file-property.ts"
+const PROPERTY_AT = "akasha/lockfile.file-property.ts"
 
 const PROPERTY_ID = "01a06d55-0000-7000-8000-00000000000a"
 
@@ -236,7 +234,6 @@ const STEM = "01a06d55-0000-7000-8000-0000000000"
 
 const ABOVE: readonly (readonly [string, string])[] = [
   [FILE_PROPERTY, "page-type/page-property"],
-  [NAMED, `page-type/${FILE_PROPERTY}`],
   [DRAFTED, `page-type/${FILE_PROPERTY}`],
 ]
 
@@ -268,11 +265,11 @@ function alsoSeeded(root: string): undefined {
 
 function seeded(value: Value): string {
   const root = scratch.rootFor("akasha-file-length-")
-  listedFiled(root, NAMED, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
+  listedFiled(root, FILE_PROPERTY, "lockfile", [{ path: PROPERTY_AT, id: PROPERTY_ID }])
   idFiled(root, PROPERTY_ID, [{ path: PROPERTY_AT, id: PROPERTY_ID }])
-  schemaFiled(root, NAMED, "lockfile", [
+  schemaFiled(root, FILE_PROPERTY, "lockfile", [
     {
-      pageTypeSlug: NAMED,
+      pageTypeSlug: FILE_PROPERTY,
       targetPageTypeSlug: null,
       unique: null,
       slug: "lockfile",
@@ -280,10 +277,10 @@ function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  valueAlsoFiled(root, NAMED, [
+  valueAlsoFiled(root, FILE_PROPERTY, [
     {
       path: PROPERTY_AT,
-      value: { id: PROPERTY_ID, pageTypeSlug: NAMED, slug: "lockfile", ...value },
+      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value },
     },
   ])
   listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])

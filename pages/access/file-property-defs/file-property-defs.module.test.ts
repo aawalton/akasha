@@ -33,7 +33,6 @@ const DECLARERS = [
   "email-address-property",
   "file-property",
   "instant-property",
-  "named-file-property",
   "number-property",
   "one-of-property",
   "page-property",
