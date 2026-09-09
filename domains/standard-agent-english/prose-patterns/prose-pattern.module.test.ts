@@ -174,7 +174,7 @@ test("a participle beside another clause on the same word is left alone", () => 
   expect(foundIn(sentenceOf(THE_TIME_HOLDING_OBJECTS_TAKES), HOLD)).toEqual([])
 })
 
-test("a participle joined to another word is left alone", () => {
+test("a participle another word is joined to is left alone", () => {
   expect(foundIn(sentenceOf(A_DAY_HOLDING_ROWS_AND_DECLARING), HOLD)).toEqual([])
 })
 
@@ -214,11 +214,11 @@ test("a participle under a form of `be` is left alone", () => {
   expect(foundIn(sentenceOf(A_BODY_IS_HOLDING_A_CONFLICT), HOLD)).toEqual([])
 })
 
-test("a participle set against a word by `rather than` is left alone", () => {
+test("a participle joined after `rather than` is left alone", () => {
   expect(foundIn(sentenceOf(NAMES_A_PATH_RATHER_THAN_HOLDING), HOLD)).toEqual([])
 })
 
-test("a participle the parser joined to a thing is left alone", () => {
+test("a participle joined to a thing is left alone", () => {
   expect(foundIn(sentenceOf(A_TERMINAL_HOLDING_KEYS), HOLD)).toEqual([])
 })
 

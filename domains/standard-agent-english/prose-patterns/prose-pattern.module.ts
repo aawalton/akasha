@@ -130,7 +130,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A participle joined to another word by `and` is left alone.",
+      statement: "A participle either side of a joining is left alone.",
     },
     {
       invariantKind: "departure",
@@ -164,14 +164,6 @@ export const prosePattern = {
     {
       invariantKind: "departure",
       statement: "A participle under a form of `be` names an act, so it describes no thing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A participle set against a word by `rather than` is left alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A participle the parser joined to a thing describes no thing.",
     },
     {
       invariantKind: "departure",

@@ -286,14 +286,8 @@ function beBeside(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, AUXILIARY).some((one) => BEING.has(lower(one)))
 }
 
-function setApart(sentence: DepSentence, token: DepToken): boolean {
-  return childrenByRel(sentence, token.id, COORDINATOR).some((one) => lower(one) === RATHER)
-}
-
-function thingConjoined(sentence: DepSentence, token: DepToken): boolean {
-  if (token.deprel !== CONJUNCT) return false
-  const above = byId(sentence, token.head)
-  return above !== undefined && THINGS.has(above.upos)
+function joined(sentence: DepSentence, token: DepToken): boolean {
+  return token.deprel === CONJUNCT || hasChild(sentence, token.id, CONJUNCT)
 }
 
 function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
@@ -302,9 +296,7 @@ function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (adverbBefore(sentence, token)) return null
   if (clauseBeside(sentence, token)) return null
   if (beBeside(sentence, token)) return null
-  if (setApart(sentence, token)) return null
-  if (thingConjoined(sentence, token)) return null
-  return verbConjoined(sentence, token) ? null : PARTICIPLE_FRAME
+  return joined(sentence, token) ? null : PARTICIPLE_FRAME
 }
 
 function objectAsked(sentence: DepSentence, token: DepToken): boolean {
