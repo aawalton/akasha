@@ -36,5 +36,9 @@ export const spotifyAuthCli = {
       invariantKind: "absence",
       statement: "No server listens for the callback here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A run naming no step runs the first step.",
+    },
   ],
 } as const satisfies Module
