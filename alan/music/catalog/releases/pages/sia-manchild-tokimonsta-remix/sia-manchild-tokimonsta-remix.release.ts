@@ -5,7 +5,7 @@ export const siaManchildTokimonstaRemix = {
   pageTypeSlug: "release",
   slug: "sia-manchild-tokimonsta-remix",
   title: "Manchild (TOKiMONSTA Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 6.250317,
   ownProgress: 6.250317,

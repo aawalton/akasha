@@ -5,7 +5,7 @@ export const taylorSwift2AntiHeroAcousticVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-anti-hero-acoustic-version",
   title: "Anti-Hero (Acoustic Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.27455,
   ownProgress: 3.27455,

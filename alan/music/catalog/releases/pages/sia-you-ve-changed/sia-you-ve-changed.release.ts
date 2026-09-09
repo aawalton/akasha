@@ -5,7 +5,7 @@ export const siaYouVeChanged = {
   pageTypeSlug: "release",
   slug: "sia-you-ve-changed",
   title: "You've Changed",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.186433,
   ownProgress: 3.186433,

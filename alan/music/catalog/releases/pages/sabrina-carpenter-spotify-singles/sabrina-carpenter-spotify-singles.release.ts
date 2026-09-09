@@ -5,7 +5,7 @@ export const sabrinaCarpenterSpotifySingles = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-spotify-singles",
   title: "Spotify Singles",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 6.984483,
   ownProgress: 6.984483,

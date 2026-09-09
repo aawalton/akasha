@@ -5,7 +5,7 @@ export const siaIForgiveYou = {
   pageTypeSlug: "release",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 14.33215,
   ownProgress: 14.33215,

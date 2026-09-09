@@ -5,7 +5,7 @@ export const sabrinaCarpenterSilverNights = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-silver-nights",
   title: "Silver Nights",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.442,
   ownProgress: 2.442,

@@ -5,7 +5,7 @@ export const siaHereIAmFromTheDumplinOriginalMotionPictureSoundtrack = {
   pageTypeSlug: "release",
   slug: "sia-here-i-am-from-the-dumplin-original-motion-picture-soundtrack",
   title: "Here I Am (from the Dumplin' Original Motion Picture Soundtrack)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.544117,
   ownProgress: 4.544117,

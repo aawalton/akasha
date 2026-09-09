@@ -5,7 +5,7 @@ export const taylorSwift2FearlessTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-fearless-taylor-s-version",
   title: "Fearless (Taylor's Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 106.5415,
   ownProgress: 106.5415,

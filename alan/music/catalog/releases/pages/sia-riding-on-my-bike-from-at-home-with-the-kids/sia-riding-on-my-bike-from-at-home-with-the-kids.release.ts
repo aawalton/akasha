@@ -5,7 +5,7 @@ export const siaRidingOnMyBikeFromAtHomeWithTheKids = {
   pageTypeSlug: "release",
   slug: "sia-riding-on-my-bike-from-at-home-with-the-kids",
   title: "Riding On My Bike (from “At home with the kids”)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 1.784,
   ownProgress: 1.784,

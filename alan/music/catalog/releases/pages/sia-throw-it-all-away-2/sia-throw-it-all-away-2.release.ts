@@ -5,7 +5,7 @@ export const siaThrowItAllAway2 = {
   pageTypeSlug: "release",
   slug: "sia-throw-it-all-away-2",
   title: "Throw It All Away",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 8.9891,
   ownProgress: 8.9891,

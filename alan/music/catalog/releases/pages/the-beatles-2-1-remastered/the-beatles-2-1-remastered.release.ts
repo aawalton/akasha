@@ -5,7 +5,7 @@ export const theBeatles21Remastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-1-remastered",
   title: "1 (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 79.197017,
   ownProgress: 79.197017,

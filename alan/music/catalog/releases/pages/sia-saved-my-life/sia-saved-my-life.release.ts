@@ -5,7 +5,7 @@ export const siaSavedMyLife = {
   pageTypeSlug: "release",
   slug: "sia-saved-my-life",
   title: "Saved My Life",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.925517,
   ownProgress: 3.925517,

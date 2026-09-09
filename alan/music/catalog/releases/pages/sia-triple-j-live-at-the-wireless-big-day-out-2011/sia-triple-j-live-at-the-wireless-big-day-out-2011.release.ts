@@ -5,7 +5,7 @@ export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   pageTypeSlug: "release",
   slug: "sia-triple-j-live-at-the-wireless-big-day-out-2011",
   title: "Triple J Live at the Wireless - Big Day out 2011",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 10.627933,
   ownProgress: 10.627933,

@@ -5,7 +5,7 @@ export const theBeatles2PleasePleaseMeRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-please-please-me-remastered",
   title: "Please Please Me (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 32.521933,
   ownProgress: 32.521933,

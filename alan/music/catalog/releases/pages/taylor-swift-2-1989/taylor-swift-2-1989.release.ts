@@ -5,7 +5,7 @@ export const taylorSwift21989 = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-1989",
   title: "1989",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 48.797733,
   ownProgress: 48.797733,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareAChristmasGloriaWithTheCanadianBras
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-a-christmas-gloria-with-the-canadian-brass-legacy-series",
   title: "A Christmas Gloria with the Canadian Brass (Legacy Series)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 51.923717,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const siaHeliumSiaVsDavidGuettaAfrojack = {
   pageTypeSlug: "release",
   slug: "sia-helium-sia-vs-david-guetta-afrojack",
   title: "Helium (Sia vs. David Guetta & Afrojack)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.9562,
   ownProgress: 3.9562,

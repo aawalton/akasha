@@ -5,7 +5,7 @@ export const thePianoGuys3PopOnPiano = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-pop-on-piano",
   title: "Pop On Piano",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 49.705933,
   ownProgress: 49.705933,

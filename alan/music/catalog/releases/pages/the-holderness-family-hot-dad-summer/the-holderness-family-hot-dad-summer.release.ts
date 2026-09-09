@@ -5,7 +5,7 @@ export const theHoldernessFamilyHotDadSummer = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-hot-dad-summer",
   title: "Hot Dad Summer",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 2.9035,
   ownProgress: 2.9035,

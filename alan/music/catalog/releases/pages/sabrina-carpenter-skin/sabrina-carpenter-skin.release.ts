@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkin = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-skin",
   title: "Skin",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.958333,
   ownProgress: 2.958333,

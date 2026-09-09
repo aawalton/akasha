@@ -5,7 +5,7 @@ export const taylorSwift2AllTooWell10MinuteVersionTheShortFilm = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-all-too-well-10-minute-version-the-short-film",
   title: "All Too Well (10 Minute Version) (The Short Film)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 11.4337,
   ownProgress: 11.4337,

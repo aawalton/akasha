@@ -5,7 +5,7 @@ export const taylorSwift2EvermoreDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-evermore-deluxe-version",
   title: "evermore (deluxe version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 69.081267,
   ownProgress: 69.081267,

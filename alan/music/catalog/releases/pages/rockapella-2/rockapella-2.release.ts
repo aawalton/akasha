@@ -5,7 +5,7 @@ export const rockapella2 = {
   pageTypeSlug: "release",
   slug: "rockapella-2",
   title: "2",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 46.120917,
   ownProgress: 46.120917,

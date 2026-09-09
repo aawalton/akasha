@@ -5,7 +5,7 @@ export const taylorSwift2TheLakesOriginalVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-lakes-original-version",
   title: "the lakes (original version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.786717,
   ownProgress: 3.786717,

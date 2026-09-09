@@ -5,7 +5,7 @@ export const taylorSwift2Folklore = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-folklore",
   title: "folklore",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 63.609783,
   ownProgress: 63.609783,

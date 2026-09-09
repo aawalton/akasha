@@ -5,7 +5,7 @@ export const thePianoGuys3MainTitleFromJurassicPark = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-main-title-from-jurassic-park",
   title: 'Main Title (From "Jurassic Park")',
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.931133,
   ownProgress: 3.931133,

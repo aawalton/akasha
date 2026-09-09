@@ -5,7 +5,7 @@ export const pentatonixWettenDassMedley = {
   pageTypeSlug: "release",
   slug: "pentatonix-wetten-dass-medley",
   title: '"Wetten, dass..?" Medley',
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.888867,
   ownProgress: 3.888867,

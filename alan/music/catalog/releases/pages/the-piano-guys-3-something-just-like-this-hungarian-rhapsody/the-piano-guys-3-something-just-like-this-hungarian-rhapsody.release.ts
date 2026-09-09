@@ -5,7 +5,7 @@ export const thePianoGuys3SomethingJustLikeThisHungarianRhapsody = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-something-just-like-this-hungarian-rhapsody",
   title: "Something Just Like This / Hungarian Rhapsody",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.89735,
   ownProgress: 3.89735,

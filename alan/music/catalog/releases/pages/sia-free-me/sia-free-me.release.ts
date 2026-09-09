@@ -5,7 +5,7 @@ export const siaFreeMe = {
   pageTypeSlug: "release",
   slug: "sia-free-me",
   title: "Free Me",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.767817,
   ownProgress: 4.767817,

@@ -5,7 +5,7 @@ export const siaAngelByTheWings = {
   pageTypeSlug: "release",
   slug: "sia-angel-by-the-wings",
   title: "Angel By The Wings",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 5.32,
   ownProgress: 5.32,

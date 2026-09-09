@@ -5,7 +5,7 @@ export const siaTheGirlYouLostToCocaine = {
   pageTypeSlug: "release",
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost To Cocaine",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 45.43285,
   ownProgress: 45.43285,

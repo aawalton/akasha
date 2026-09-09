@@ -5,7 +5,7 @@ export const theBeatles2TheBeatles196219662023Edition = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-the-beatles-1962-1966-2023-edition",
   title: "The Beatles 1962 – 1966 (2023 Edition)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 94.7162,
   ownProgress: 94.7162,

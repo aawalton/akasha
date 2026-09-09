@@ -5,7 +5,7 @@ export const thePianoGuys3OComeOComeEmmanuel = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 5.2588,
   ownProgress: 5.2588,

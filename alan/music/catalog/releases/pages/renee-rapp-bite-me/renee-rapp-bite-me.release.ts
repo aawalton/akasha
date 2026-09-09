@@ -5,7 +5,7 @@ export const reneeRappBiteMe = {
   pageTypeSlug: "release",
   slug: "renee-rapp-bite-me",
   title: "BITE ME",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 33.484367,
   ownProgress: 33.484367,

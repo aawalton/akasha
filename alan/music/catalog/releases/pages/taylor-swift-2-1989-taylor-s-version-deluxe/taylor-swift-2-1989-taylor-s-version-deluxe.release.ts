@@ -5,7 +5,7 @@ export const taylorSwift21989TaylorSVersionDeluxe = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-1989-taylor-s-version-deluxe",
   title: "1989 (Taylor's Version) [Deluxe]",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 81.301667,
   ownProgress: 81.301667,

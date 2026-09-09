@@ -5,7 +5,7 @@ export const reneeRappTattoos = {
   pageTypeSlug: "release",
   slug: "renee-rapp-tattoos",
   title: "Tattoos",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 2.883767,
   ownProgress: 2.883767,

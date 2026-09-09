@@ -5,7 +5,7 @@ export const pentatonixShallow = {
   pageTypeSlug: "release",
   slug: "pentatonix-shallow",
   title: "Shallow",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.334867,
   ownProgress: 3.334867,

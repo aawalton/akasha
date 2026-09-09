@@ -5,7 +5,7 @@ export const phoebeBridgersKillerTheSound = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-killer-the-sound",
   title: "Killer + The Sound",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 7.919767,
   ownProgress: 7.919767,

@@ -5,7 +5,7 @@ export const taylorSwift2AntiHeroRemixes = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-anti-hero-remixes",
   title: "Anti-Hero (Remixes)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 18.976633,
   ownProgress: 18.976633,

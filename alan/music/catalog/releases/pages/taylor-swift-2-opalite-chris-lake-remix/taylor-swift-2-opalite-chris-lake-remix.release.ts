@@ -5,7 +5,7 @@ export const taylorSwift2OpaliteChrisLakeRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-opalite-chris-lake-remix",
   title: "Opalite (Chris Lake Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.815783,
   ownProgress: 0,

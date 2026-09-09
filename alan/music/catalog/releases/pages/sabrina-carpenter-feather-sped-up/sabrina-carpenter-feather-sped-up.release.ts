@@ -5,7 +5,7 @@ export const sabrinaCarpenterFeatherSpedUp = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-feather-sped-up",
   title: "Feather (Sped Up)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 5.643983,
   ownProgress: 5.643983,

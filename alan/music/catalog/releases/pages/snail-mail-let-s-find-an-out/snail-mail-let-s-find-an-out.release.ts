@@ -5,7 +5,7 @@ export const snailMailLetSFindAnOut = {
   pageTypeSlug: "release",
   slug: "snail-mail-let-s-find-an-out",
   title: "Let's Find an Out",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 2.220433,
   ownProgress: 0,

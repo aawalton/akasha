@@ -5,7 +5,7 @@ export const sylviaDaleyRubikSCube = {
   pageTypeSlug: "release",
   slug: "sylvia-daley-rubik-s-cube",
   title: "Rubik's Cube",
-  partOfCollectionSlugs: ["sylvia-daley"],
+  partOfCollections: ["sylvia-daley"],
   position: 0,
   ownLength: 5.491683,
   ownProgress: 5.491683,

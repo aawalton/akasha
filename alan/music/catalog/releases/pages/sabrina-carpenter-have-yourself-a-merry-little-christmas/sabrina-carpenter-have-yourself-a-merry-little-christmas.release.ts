@@ -5,7 +5,7 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 3.77855,
   ownProgress: 3.77855,

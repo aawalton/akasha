@@ -5,7 +5,7 @@ export const sabrinaCarpenterEspresso = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-espresso",
   title: "Espresso",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.924317,
   ownProgress: 2.924317,

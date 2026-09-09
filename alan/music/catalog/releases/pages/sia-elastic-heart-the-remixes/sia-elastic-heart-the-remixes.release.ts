@@ -5,7 +5,7 @@ export const siaElasticHeartTheRemixes = {
   pageTypeSlug: "release",
   slug: "sia-elastic-heart-the-remixes",
   title: "Elastic Heart (The Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 38.3115,
   ownProgress: 38.3115,

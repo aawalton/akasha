@@ -5,7 +5,7 @@ export const siaButtons = {
   pageTypeSlug: "release",
   slug: "sia-buttons",
   title: "Buttons",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 36.37485,
   ownProgress: 36.37485,

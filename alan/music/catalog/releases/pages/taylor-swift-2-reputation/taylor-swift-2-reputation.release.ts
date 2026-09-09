@@ -5,7 +5,7 @@ export const taylorSwift2Reputation = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-reputation",
   title: "reputation",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 55.755,
   ownProgress: 55.755,

@@ -5,7 +5,7 @@ export const siaDynamite = {
   pageTypeSlug: "release",
   slug: "sia-dynamite",
   title: "Dynamite",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.544467,
   ownProgress: 3.544467,

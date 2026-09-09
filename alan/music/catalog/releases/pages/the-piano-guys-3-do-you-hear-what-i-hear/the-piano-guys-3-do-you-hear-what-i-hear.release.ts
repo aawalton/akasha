@@ -5,7 +5,7 @@ export const thePianoGuys3DoYouHearWhatIHear = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-do-you-hear-what-i-hear",
   title: "Do You Hear What I Hear?",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.33695,
   ownProgress: 3.33695,

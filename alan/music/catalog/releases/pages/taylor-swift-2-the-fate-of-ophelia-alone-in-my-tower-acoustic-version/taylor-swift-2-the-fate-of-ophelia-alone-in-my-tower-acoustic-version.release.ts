@@ -5,7 +5,7 @@ export const taylorSwift2TheFateOfOpheliaAloneInMyTowerAcousticVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-alone-in-my-tower-acoustic-version",
   title: "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 7.531483,
   ownProgress: 7.531483,

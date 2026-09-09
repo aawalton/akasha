@@ -5,7 +5,7 @@ export const siaGimmeLoveReasonableWomanVersion = {
   pageTypeSlug: "release",
   slug: "sia-gimme-love-reasonable-woman-version",
   title: "Gimme Love (Reasonable Woman Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 7.135667,
   ownProgress: 7.135667,

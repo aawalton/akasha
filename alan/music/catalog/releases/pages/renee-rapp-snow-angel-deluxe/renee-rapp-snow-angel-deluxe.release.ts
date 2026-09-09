@@ -5,7 +5,7 @@ export const reneeRappSnowAngelDeluxe = {
   pageTypeSlug: "release",
   slug: "renee-rapp-snow-angel-deluxe",
   title: "Snow Angel (Deluxe)",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 48.696117,
   ownProgress: 48.696117,

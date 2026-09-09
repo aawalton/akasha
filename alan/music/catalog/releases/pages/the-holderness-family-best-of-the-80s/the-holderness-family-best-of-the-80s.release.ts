@@ -5,7 +5,7 @@ export const theHoldernessFamilyBestOfThe80s = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-best-of-the-80s",
   title: "Best of the 80s",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 28.46215,
   ownProgress: 28.46215,

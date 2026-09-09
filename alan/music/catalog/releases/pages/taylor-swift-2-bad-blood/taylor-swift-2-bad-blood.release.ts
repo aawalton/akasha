@@ -5,7 +5,7 @@ export const taylorSwift2BadBlood = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-bad-blood",
   title: "Bad Blood",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.3351,
   ownProgress: 3.3351,

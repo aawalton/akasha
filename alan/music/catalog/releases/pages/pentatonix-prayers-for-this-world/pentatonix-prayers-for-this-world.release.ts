@@ -5,7 +5,7 @@ export const pentatonixPrayersForThisWorld = {
   pageTypeSlug: "release",
   slug: "pentatonix-prayers-for-this-world",
   title: "Prayers For This World",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.707767,
   ownProgress: 3.707767,

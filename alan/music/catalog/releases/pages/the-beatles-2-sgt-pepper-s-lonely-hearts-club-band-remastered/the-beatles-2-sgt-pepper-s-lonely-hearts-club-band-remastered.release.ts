@@ -5,7 +5,7 @@ export const theBeatles2SgtPepperSLonelyHeartsClubBandRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-sgt-pepper-s-lonely-hearts-club-band-remastered",
   title: "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 39.920567,
   ownProgress: 39.920567,

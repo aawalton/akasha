@@ -5,7 +5,7 @@ export const phoebeBridgersChristmasSong = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-christmas-song",
   title: "Christmas Song",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 3.698433,
   ownProgress: 3.698433,

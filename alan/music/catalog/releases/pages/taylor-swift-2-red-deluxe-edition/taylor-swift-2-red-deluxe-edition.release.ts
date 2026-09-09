@@ -5,7 +5,7 @@ export const taylorSwift2RedDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-red-deluxe-edition",
   title: "Red (Deluxe Edition)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 90.217667,
   ownProgress: 90.217667,

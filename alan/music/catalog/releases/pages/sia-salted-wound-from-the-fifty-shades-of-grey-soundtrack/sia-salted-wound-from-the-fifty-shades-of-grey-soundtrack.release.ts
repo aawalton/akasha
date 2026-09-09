@@ -5,7 +5,7 @@ export const siaSaltedWoundFromTheFiftyShadesOfGreySoundtrack = {
   pageTypeSlug: "release",
   slug: "sia-salted-wound-from-the-fifty-shades-of-grey-soundtrack",
   title: 'Salted Wound (From The" Fifty Shades Of Grey" Soundtrack)',
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.522217,
   ownProgress: 4.522217,

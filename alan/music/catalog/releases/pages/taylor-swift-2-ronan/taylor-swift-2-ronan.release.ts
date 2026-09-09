@@ -5,7 +5,7 @@ export const taylorSwift2Ronan = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-ronan",
   title: "Ronan",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.421767,
   ownProgress: 4.421767,

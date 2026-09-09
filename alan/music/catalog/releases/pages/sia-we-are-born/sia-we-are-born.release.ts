@@ -5,7 +5,7 @@ export const siaWeAreBorn = {
   pageTypeSlug: "release",
   slug: "sia-we-are-born",
   title: "We Are Born",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 50.273917,
   ownProgress: 50.273917,

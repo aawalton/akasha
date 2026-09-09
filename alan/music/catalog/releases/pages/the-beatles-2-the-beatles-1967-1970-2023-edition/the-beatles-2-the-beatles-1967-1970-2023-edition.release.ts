@@ -5,7 +5,7 @@ export const theBeatles2TheBeatles196719702023Edition = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-the-beatles-1967-1970-2023-edition",
   title: "The Beatles 1967 – 1970 (2023 Edition)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 134.719783,
   ownProgress: 134.719783,

@@ -5,7 +5,7 @@ export const siaLetSLoveRobinSchulzRemix = {
   pageTypeSlug: "release",
   slug: "sia-let-s-love-robin-schulz-remix",
   title: "Let's Love (Robin Schulz Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 7.091367,
   ownProgress: 7.091367,

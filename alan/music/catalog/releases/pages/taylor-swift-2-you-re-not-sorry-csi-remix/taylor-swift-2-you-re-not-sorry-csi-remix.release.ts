@@ -5,7 +5,7 @@ export const taylorSwift2YouReNotSorryCsiRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-you-re-not-sorry-csi-remix",
   title: "You're Not Sorry (CSI Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.374,
   ownProgress: 4.374,

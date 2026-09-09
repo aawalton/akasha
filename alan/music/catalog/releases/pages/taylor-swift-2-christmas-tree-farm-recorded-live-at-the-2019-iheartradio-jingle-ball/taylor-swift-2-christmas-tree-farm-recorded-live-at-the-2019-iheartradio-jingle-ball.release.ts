@@ -5,7 +5,7 @@ export const taylorSwift2ChristmasTreeFarmRecordedLiveAtThe2019IheartradioJingle
   pageTypeSlug: "release",
   slug: "taylor-swift-2-christmas-tree-farm-recorded-live-at-the-2019-iheartradio-jingle-ball",
   title: "Christmas Tree Farm (Recorded Live at the 2019 iHeartRadio Jingle Ball)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.2311,
   ownProgress: 4.2311,

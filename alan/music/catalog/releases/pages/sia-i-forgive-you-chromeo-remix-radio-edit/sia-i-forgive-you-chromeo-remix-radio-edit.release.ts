@@ -5,7 +5,7 @@ export const siaIForgiveYouChromeoRemixRadioEdit = {
   pageTypeSlug: "release",
   slug: "sia-i-forgive-you-chromeo-remix-radio-edit",
   title: "I Forgive You [(Chromeo Remix) [radio edit]]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.35205,
   ownProgress: 3.35205,

@@ -5,7 +5,7 @@ export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   pageTypeSlug: "release",
   slug: "pentatonix-when-you-believe-black-stereo-faith-underground-mix",
   title: "When You Believe (Black Stereo Faith Underground Mix)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 5.238983,
   ownProgress: 5.238983,

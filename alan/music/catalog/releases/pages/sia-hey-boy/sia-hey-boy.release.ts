@@ -5,7 +5,7 @@ export const siaHeyBoy = {
   pageTypeSlug: "release",
   slug: "sia-hey-boy",
   title: "Hey Boy",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 14.714383,
   ownProgress: 14.714383,

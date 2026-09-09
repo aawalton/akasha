@@ -5,7 +5,7 @@ export const phoebeBridgersStrangerInTheAlps = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-stranger-in-the-alps",
   title: "Stranger in the Alps",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 44.322383,
   ownProgress: 44.322383,

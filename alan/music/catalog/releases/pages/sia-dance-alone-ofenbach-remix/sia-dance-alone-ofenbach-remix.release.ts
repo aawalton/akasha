@@ -5,7 +5,7 @@ export const siaDanceAloneOfenbachRemix = {
   pageTypeSlug: "release",
   slug: "sia-dance-alone-ofenbach-remix",
   title: "Dance Alone (Ofenbach Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 8.969633,
   ownProgress: 8.969633,

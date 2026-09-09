@@ -5,7 +5,7 @@ export const siaHealingIsDifficult10thAnniversaryEdition = {
   pageTypeSlug: "release",
   slug: "sia-healing-is-difficult-10th-anniversary-edition",
   title: "Healing Is Difficult (10th Anniversary Edition)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 57.098833,
   ownProgress: 57.098833,

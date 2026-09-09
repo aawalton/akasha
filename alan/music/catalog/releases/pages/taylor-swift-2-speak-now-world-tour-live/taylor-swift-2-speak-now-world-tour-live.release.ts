@@ -5,7 +5,7 @@ export const taylorSwift2SpeakNowWorldTourLive = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-speak-now-world-tour-live",
   title: "Speak Now World Tour Live",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 79.232317,
   ownProgress: 79.232317,

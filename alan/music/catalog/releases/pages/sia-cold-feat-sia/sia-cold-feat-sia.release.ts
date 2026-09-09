@@ -5,7 +5,7 @@ export const siaColdFeatSia = {
   pageTypeSlug: "release",
   slug: "sia-cold-feat-sia",
   title: "Cold (feat. Sia)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.327383,
   ownProgress: 3.327383,

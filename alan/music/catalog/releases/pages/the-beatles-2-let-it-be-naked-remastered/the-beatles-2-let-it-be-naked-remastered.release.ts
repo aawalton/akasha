@@ -5,7 +5,7 @@ export const theBeatles2LetItBeNakedRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-let-it-be-naked-remastered",
   title: "Let It Be... Naked (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 35.082217,
   ownProgress: 35.082217,

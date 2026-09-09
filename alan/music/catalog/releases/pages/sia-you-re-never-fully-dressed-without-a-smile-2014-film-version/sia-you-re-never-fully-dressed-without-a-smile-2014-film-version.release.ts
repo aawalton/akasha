@@ -5,7 +5,7 @@ export const siaYouReNeverFullyDressedWithoutASmile2014FilmVersion = {
   pageTypeSlug: "release",
   slug: "sia-you-re-never-fully-dressed-without-a-smile-2014-film-version",
   title: "You're Never Fully Dressed Without a Smile (2014 Film Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.172883,
   ownProgress: 3.172883,

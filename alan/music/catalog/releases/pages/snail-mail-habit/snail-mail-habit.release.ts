@@ -5,7 +5,7 @@ export const snailMailHabit = {
   pageTypeSlug: "release",
   slug: "snail-mail-habit",
   title: "Habit",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 30.096833,
   ownProgress: 0,

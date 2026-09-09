@@ -5,7 +5,7 @@ export const siaYouCanDoAnythingMtgDaSiaWithJasonDerulo = {
   pageTypeSlug: "release",
   slug: "sia-you-can-do-anything-mtg-da-sia-with-jason-derulo",
   title: "You Can Do Anything (MTG DA SIA) (with Jason Derulo)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.9472,
   ownProgress: 3.9472,

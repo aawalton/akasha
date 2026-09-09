@@ -5,7 +5,7 @@ export const pentatonixKidOnChristmasFeatMeghanTrainor = {
   pageTypeSlug: "release",
   slug: "pentatonix-kid-on-christmas-feat-meghan-trainor",
   title: "Kid On Christmas (feat. Meghan Trainor)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.376667,
   ownProgress: 3.376667,

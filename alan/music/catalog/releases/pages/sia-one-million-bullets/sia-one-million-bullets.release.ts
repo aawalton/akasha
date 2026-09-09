@@ -5,7 +5,7 @@ export const siaOneMillionBullets = {
   pageTypeSlug: "release",
   slug: "sia-one-million-bullets",
   title: "One Million Bullets",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.182883,
   ownProgress: 4.182883,

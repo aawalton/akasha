@@ -5,7 +5,7 @@ export const snailMailValentineDemos = {
   pageTypeSlug: "release",
   slug: "snail-mail-valentine-demos",
   title: "Valentine (Demos)",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 15.663083,
   ownProgress: 0,

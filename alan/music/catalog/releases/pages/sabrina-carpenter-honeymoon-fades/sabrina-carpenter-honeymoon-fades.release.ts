@@ -5,7 +5,7 @@ export const sabrinaCarpenterHoneymoonFades = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-honeymoon-fades",
   title: "Honeymoon Fades",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 3.252683,
   ownProgress: 3.252683,

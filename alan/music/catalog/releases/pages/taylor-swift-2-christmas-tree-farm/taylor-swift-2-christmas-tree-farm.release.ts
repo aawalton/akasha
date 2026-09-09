@@ -5,7 +5,7 @@ export const taylorSwift2ChristmasTreeFarm = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-christmas-tree-farm",
   title: "Christmas Tree Farm",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 11.908417,
   ownProgress: 11.908417,

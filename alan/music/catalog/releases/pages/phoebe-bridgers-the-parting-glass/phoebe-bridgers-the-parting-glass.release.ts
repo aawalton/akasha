@@ -5,7 +5,7 @@ export const phoebeBridgersThePartingGlass = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-the-parting-glass",
   title: "The Parting Glass",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 26.008583,
   ownProgress: 26.008583,

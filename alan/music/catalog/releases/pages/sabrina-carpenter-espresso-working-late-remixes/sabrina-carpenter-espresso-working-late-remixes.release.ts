@@ -5,7 +5,7 @@ export const sabrinaCarpenterEspressoWorkingLateRemixes = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-espresso-working-late-remixes",
   title: "Espresso (Working Late Remixes)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 11.6299,
   ownProgress: 11.6299,

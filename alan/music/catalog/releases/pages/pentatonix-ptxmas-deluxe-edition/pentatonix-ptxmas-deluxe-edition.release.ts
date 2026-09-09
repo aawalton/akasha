@@ -5,7 +5,7 @@ export const pentatonixPtxmasDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "pentatonix-ptxmas-deluxe-edition",
   title: "PTXmas (Deluxe Edition)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 28.3961,
   ownProgress: 28.3961,

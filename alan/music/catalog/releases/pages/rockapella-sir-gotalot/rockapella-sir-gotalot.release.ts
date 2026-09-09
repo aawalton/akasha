@@ -5,7 +5,7 @@ export const rockapellaSirGotalot = {
   pageTypeSlug: "release",
   slug: "rockapella-sir-gotalot",
   title: "Sir GotALot",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 3.20115,
   ownProgress: 3.20115,

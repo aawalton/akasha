@@ -5,7 +5,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008 = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-live-from-clear-channel-stripped-2008",
   title: "Live From Clear Channel Stripped 2008",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 27.92925,
   ownProgress: 27.92925,

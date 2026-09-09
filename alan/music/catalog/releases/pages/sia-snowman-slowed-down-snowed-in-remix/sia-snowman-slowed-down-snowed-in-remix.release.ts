@@ -5,7 +5,7 @@ export const siaSnowmanSlowedDownSnowedInRemix = {
   pageTypeSlug: "release",
   slug: "sia-snowman-slowed-down-snowed-in-remix",
   title: "Snowman (Slowed Down & Snowed In Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.004583,
   ownProgress: 3.004583,

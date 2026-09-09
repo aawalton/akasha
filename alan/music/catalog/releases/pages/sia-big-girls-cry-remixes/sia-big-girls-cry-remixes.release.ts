@@ -5,7 +5,7 @@ export const siaBigGirlsCryRemixes = {
   pageTypeSlug: "release",
   slug: "sia-big-girls-cry-remixes",
   title: "Big Girls Cry (Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 27.960633,
   ownProgress: 27.960633,

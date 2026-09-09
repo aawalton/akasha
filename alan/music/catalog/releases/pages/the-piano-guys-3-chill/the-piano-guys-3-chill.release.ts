@@ -5,7 +5,7 @@ export const thePianoGuys3Chill = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-chill",
   title: "Chill",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 49.04045,
   ownProgress: 49.04045,

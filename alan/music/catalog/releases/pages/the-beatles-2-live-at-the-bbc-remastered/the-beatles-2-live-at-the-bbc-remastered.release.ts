@@ -5,7 +5,7 @@ export const theBeatles2LiveAtTheBbcRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-live-at-the-bbc-remastered",
   title: "Live At The BBC (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 136.214217,
   ownProgress: 136.214217,

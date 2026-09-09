@@ -5,7 +5,7 @@ export const siaDanceAlone = {
   pageTypeSlug: "release",
   slug: "sia-dance-alone",
   title: "Dance Alone",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.870767,
   ownProgress: 2.870767,

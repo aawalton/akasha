@@ -6,7 +6,7 @@ export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   slug: "the-lord-of-the-rings-music-the-hobbit-the-battle-of-the-five-armies",
   title:
     "The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-music"],
+  partOfCollections: ["the-lord-of-the-rings-music"],
   position: 6,
   ownLength: 108.639217,
   ownProgress: 0,

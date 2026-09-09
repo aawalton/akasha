@@ -5,7 +5,7 @@ export const sabrinaCarpenterOnMyWay = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-on-my-way",
   title: "On My Way",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 3.22995,
   ownProgress: 3.22995,

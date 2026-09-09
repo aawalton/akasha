@@ -5,7 +5,7 @@ export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-opalite-official-music-video-extended-versions",
   title: "Opalite [Official Music Video (Extended Versions)]",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 26.51725,
   ownProgress: 0,

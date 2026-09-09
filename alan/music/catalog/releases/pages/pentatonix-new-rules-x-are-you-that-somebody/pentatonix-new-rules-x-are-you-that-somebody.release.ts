@@ -5,7 +5,7 @@ export const pentatonixNewRulesXAreYouThatSomebody = {
   pageTypeSlug: "release",
   slug: "pentatonix-new-rules-x-are-you-that-somebody",
   title: "New Rules x Are You That Somebody?",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.972667,
   ownProgress: 2.972667,

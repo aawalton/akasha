@@ -5,7 +5,7 @@ export const siaSomePeopleHaveRealProblems = {
   pageTypeSlug: "release",
   slug: "sia-some-people-have-real-problems",
   title: "Some People Have REAL Problems",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 61.1288,
   ownProgress: 61.1288,

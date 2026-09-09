@@ -5,7 +5,7 @@ export const phoebeBridgersNothingElseMatters = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-nothing-else-matters",
   title: "Nothing Else Matters",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 4.5751,
   ownProgress: 4.5751,

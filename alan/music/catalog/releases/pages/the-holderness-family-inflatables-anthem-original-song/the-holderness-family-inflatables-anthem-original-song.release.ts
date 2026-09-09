@@ -5,7 +5,7 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-inflatables-anthem-original-song",
   title: "Inflatables Anthem (Original Song)",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 2.6088,
   ownProgress: 2.6088,

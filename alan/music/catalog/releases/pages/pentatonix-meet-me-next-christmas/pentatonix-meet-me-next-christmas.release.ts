@@ -5,7 +5,7 @@ export const pentatonixMeetMeNextChristmas = {
   pageTypeSlug: "release",
   slug: "pentatonix-meet-me-next-christmas",
   title: "Meet Me Next Christmas",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.732033,
   ownProgress: 2.732033,

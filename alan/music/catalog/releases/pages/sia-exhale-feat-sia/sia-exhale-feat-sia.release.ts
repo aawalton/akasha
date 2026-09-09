@@ -5,7 +5,7 @@ export const siaExhaleFeatSia = {
   pageTypeSlug: "release",
   slug: "sia-exhale-feat-sia",
   title: "EXHALE (feat. Sia)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.5739,
   ownProgress: 2.5739,

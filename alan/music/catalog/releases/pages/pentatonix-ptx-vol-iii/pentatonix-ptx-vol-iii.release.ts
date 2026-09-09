@@ -5,7 +5,7 @@ export const pentatonixPtxVolIii = {
   pageTypeSlug: "release",
   slug: "pentatonix-ptx-vol-iii",
   title: "PTX, Vol. III",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 24.078617,
   ownProgress: 24.078617,

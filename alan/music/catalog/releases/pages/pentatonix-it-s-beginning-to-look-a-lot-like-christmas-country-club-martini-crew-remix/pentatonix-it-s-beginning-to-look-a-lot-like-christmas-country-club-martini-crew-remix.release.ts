@@ -5,7 +5,7 @@ export const pentatonixItSBeginningToLookALotLikeChristmasCountryClubMartiniCrew
   pageTypeSlug: "release",
   slug: "pentatonix-it-s-beginning-to-look-a-lot-like-christmas-country-club-martini-crew-remix",
   title: "It's Beginning To Look A Lot Like Christmas (Country Club Martini Crew Remix)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.568183,
   ownProgress: 3.568183,

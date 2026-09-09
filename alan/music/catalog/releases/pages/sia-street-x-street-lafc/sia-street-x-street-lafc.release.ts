@@ -5,7 +5,7 @@ export const siaStreetXStreetLafc = {
   pageTypeSlug: "release",
   slug: "sia-street-x-street-lafc",
   title: "STREET X STREET (LAFC)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.8857,
   ownProgress: 2.8857,

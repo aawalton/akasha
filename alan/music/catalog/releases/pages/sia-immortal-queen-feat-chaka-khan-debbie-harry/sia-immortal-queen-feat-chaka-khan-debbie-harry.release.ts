@@ -5,7 +5,7 @@ export const siaImmortalQueenFeatChakaKhanDebbieHarry = {
   pageTypeSlug: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-debbie-harry",
   title: "Immortal Queen (feat. Chaka Khan & Debbie Harry)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.5761,
   ownProgress: 3.5761,

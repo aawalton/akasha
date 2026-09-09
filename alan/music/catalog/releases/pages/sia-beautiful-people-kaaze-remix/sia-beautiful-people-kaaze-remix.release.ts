@@ -5,7 +5,7 @@ export const siaBeautifulPeopleKaazeRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-kaaze-remix",
   title: "Beautiful People (KAAZE Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 15.50155,
   ownProgress: 15.50155,

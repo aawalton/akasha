@@ -5,7 +5,7 @@ export const thePianoGuys3AvatarTheTheme = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-avatar-the-theme",
   title: "Avatar (The Theme)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.054167,
   ownProgress: 3.054167,

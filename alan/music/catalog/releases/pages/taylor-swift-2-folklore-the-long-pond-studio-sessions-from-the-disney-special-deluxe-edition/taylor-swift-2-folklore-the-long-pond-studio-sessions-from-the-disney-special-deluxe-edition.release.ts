@@ -5,7 +5,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   pageTypeSlug: "release",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
   title: "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 134.704517,
   ownProgress: 134.704517,

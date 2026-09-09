@@ -5,7 +5,7 @@ export const phoebeBridgersDayAfterTomorrow = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-day-after-tomorrow",
   title: "Day After Tomorrow",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 17.76525,
   ownProgress: 17.76525,

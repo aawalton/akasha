@@ -5,7 +5,7 @@ export const taylorSwift2LoverLiveFromParis = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-lover-live-from-paris",
   title: "Lover (Live From Paris)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.828883,
   ownProgress: 3.828883,

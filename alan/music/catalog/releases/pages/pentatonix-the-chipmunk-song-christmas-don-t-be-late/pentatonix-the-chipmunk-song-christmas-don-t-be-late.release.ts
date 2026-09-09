@@ -5,7 +5,7 @@ export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   pageTypeSlug: "release",
   slug: "pentatonix-the-chipmunk-song-christmas-don-t-be-late",
   title: "The Chipmunk Song (Christmas Don't Be Late)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.465417,
   ownProgress: 2.465417,

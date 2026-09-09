@@ -5,7 +5,7 @@ export const sabrinaCarpenterManSBestFriend = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-man-s-best-friend",
   title: "Man’s Best Friend",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 38.415183,
   ownProgress: 38.415183,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
   title: "Let Me Move You (From the Netflix film Work It)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.451167,
   ownProgress: 2.451167,

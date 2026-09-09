@@ -5,7 +5,7 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwift = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-joker-and-the-queen-feat-taylor-swift",
   title: "The Joker And The Queen (feat. Taylor Swift)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.090367,
   ownProgress: 3.090367,

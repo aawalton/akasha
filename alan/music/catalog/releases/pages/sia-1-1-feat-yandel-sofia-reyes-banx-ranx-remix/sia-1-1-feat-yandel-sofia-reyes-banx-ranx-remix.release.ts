@@ -5,7 +5,7 @@ export const sia11FeatYandelSofiaReyesBanxRanxRemix = {
   pageTypeSlug: "release",
   slug: "sia-1-1-feat-yandel-sofia-reyes-banx-ranx-remix",
   title: "1+1 (feat. Yandel & Sofía Reyes) [Banx & Ranx Remix]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.411783,
   ownProgress: 3.411783,

@@ -5,7 +5,7 @@ export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   pageTypeSlug: "release",
   slug: "sia-fly-me-to-the-moon-inspired-by-final-fantasy-xiv",
   title: "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.842217,
   ownProgress: 2.842217,

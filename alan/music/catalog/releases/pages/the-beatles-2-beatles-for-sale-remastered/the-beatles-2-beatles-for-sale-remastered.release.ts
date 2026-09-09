@@ -5,7 +5,7 @@ export const theBeatles2BeatlesForSaleRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-beatles-for-sale-remastered",
   title: "Beatles For Sale (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 33.78615,
   ownProgress: 33.78615,

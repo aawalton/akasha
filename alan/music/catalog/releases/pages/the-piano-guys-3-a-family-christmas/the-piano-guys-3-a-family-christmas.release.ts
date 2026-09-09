@@ -5,7 +5,7 @@ export const thePianoGuys3AFamilyChristmas = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-a-family-christmas",
   title: "A Family Christmas",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 46.494183,
   ownProgress: 46.494183,

@@ -5,7 +5,7 @@ export const siaGimmeLoveArminVanBuurenRemix = {
   pageTypeSlug: "release",
   slug: "sia-gimme-love-armin-van-buuren-remix",
   title: "Gimme Love (Armin van Buuren Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 15.334433,
   ownProgress: 15.334433,

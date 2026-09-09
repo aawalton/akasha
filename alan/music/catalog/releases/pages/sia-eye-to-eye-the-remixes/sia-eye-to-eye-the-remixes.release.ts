@@ -5,7 +5,7 @@ export const siaEyeToEyeTheRemixes = {
   pageTypeSlug: "release",
   slug: "sia-eye-to-eye-the-remixes",
   title: "Eye To Eye (The Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 48.7632,
   ownProgress: 48.7632,

@@ -5,7 +5,7 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-that-s-not-how-this-works-feat-dan-shay-sabrina-carpenter-sabrina-s-version",
   title: "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 5.53765,
   ownProgress: 5.53765,

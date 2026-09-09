@@ -5,7 +5,7 @@ export const thePianoGuys3GoldenHour = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-golden-hour",
   title: "Golden Hour",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 2.64285,
   ownProgress: 2.64285,

@@ -5,7 +5,7 @@ export const phoebeBridgersISeeYou = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-i-see-you",
   title: "I See You",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 9.904967,
   ownProgress: 9.904967,

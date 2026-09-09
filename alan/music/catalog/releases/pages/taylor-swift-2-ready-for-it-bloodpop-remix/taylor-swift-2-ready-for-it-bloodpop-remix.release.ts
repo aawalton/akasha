@@ -5,7 +5,7 @@ export const taylorSwift2ReadyForItBloodpopRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-ready-for-it-bloodpop-remix",
   title: "...Ready For It? (BloodPop® Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.158467,
   ownProgress: 3.158467,

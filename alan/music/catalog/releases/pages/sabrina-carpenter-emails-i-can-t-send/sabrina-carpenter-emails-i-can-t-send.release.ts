@@ -5,7 +5,7 @@ export const sabrinaCarpenterEmailsICanTSend = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-emails-i-can-t-send",
   title: "emails i can't send",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 39.349283,
   ownProgress: 39.349283,

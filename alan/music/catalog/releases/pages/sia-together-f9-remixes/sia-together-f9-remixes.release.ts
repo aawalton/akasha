@@ -5,7 +5,7 @@ export const siaTogetherF9Remixes = {
   pageTypeSlug: "release",
   slug: "sia-together-f9-remixes",
   title: "Together (F9 Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 14.583017,
   ownProgress: 14.583017,

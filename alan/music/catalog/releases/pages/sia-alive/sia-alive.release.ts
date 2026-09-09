@@ -5,7 +5,7 @@ export const siaAlive = {
   pageTypeSlug: "release",
   slug: "sia-alive",
   title: "Alive",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.398217,
   ownProgress: 4.398217,

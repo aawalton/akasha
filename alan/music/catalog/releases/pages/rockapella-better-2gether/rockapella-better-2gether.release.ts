@@ -5,7 +5,7 @@ export const rockapellaBetter2gether = {
   pageTypeSlug: "release",
   slug: "rockapella-better-2gether",
   title: "Better 2gether",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 2.859917,
   ownProgress: 2.859917,

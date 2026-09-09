@@ -5,7 +5,7 @@ export const siaCheapThrillsRemixes = {
   pageTypeSlug: "release",
   slug: "sia-cheap-thrills-remixes",
   title: "Cheap Thrills (Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 31.460633,
   ownProgress: 31.460633,

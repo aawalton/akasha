@@ -5,7 +5,7 @@ export const thePianoGuys3Yesterday = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-yesterday",
   title: "Yesterday",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.471867,
   ownProgress: 3.471867,

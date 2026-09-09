@@ -5,7 +5,7 @@ export const phoebeBridgersGardenSong = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-garden-song",
   title: "Garden Song",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 3.66775,
   ownProgress: 3.66775,

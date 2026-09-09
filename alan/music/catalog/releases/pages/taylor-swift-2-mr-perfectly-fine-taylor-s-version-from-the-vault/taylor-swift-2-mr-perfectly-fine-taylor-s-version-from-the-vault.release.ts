@@ -5,7 +5,7 @@ export const taylorSwift2MrPerfectlyFineTaylorSVersionFromTheVault = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-mr-perfectly-fine-taylor-s-version-from-the-vault",
   title: "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.626517,
   ownProgress: 4.626517,

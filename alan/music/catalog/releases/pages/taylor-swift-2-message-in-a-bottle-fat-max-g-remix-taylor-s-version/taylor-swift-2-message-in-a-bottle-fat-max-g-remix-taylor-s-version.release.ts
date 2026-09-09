@@ -5,7 +5,7 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-message-in-a-bottle-fat-max-g-remix-taylor-s-version",
   title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 7.5102,
   ownProgress: 7.5102,

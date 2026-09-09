@@ -5,7 +5,7 @@ export const siaTogetherInitialTalkRemix = {
   pageTypeSlug: "release",
   slug: "sia-together-initial-talk-remix",
   title: "Together (Initial Talk Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 6.722,
   ownProgress: 6.722,

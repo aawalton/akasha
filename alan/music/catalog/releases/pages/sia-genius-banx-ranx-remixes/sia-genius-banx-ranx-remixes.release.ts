@@ -5,7 +5,7 @@ export const siaGeniusBanxRanxRemixes = {
   pageTypeSlug: "release",
   slug: "sia-genius-banx-ranx-remixes",
   title: "Genius (Banx & Ranx Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 6.205333,
   ownProgress: 6.205333,

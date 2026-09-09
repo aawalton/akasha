@@ -5,7 +5,7 @@ export const theBeatles2YellowSubmarineRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-yellow-submarine-remastered",
   title: "Yellow Submarine (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 39.718817,
   ownProgress: 39.718817,

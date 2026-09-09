@@ -5,7 +5,7 @@ export const theHoldernessFamilyWelcomeToTheClubMillennials = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-welcome-to-the-club-millennials",
   title: "Welcome to the Club, Millennials",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 2.648417,
   ownProgress: 2.648417,

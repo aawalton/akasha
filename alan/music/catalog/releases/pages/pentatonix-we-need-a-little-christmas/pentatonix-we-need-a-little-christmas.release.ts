@@ -5,7 +5,7 @@ export const pentatonixWeNeedALittleChristmas = {
   pageTypeSlug: "release",
   slug: "pentatonix-we-need-a-little-christmas",
   title: "We Need A Little Christmas",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 38.564817,
   ownProgress: 38.564817,

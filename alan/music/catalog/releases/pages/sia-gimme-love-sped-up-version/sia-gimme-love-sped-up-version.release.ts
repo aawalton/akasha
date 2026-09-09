@@ -5,7 +5,7 @@ export const siaGimmeLoveSpedUpVersion = {
   pageTypeSlug: "release",
   slug: "sia-gimme-love-sped-up-version",
   title: "Gimme Love (Sped Up Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.582333,
   ownProgress: 2.582333,

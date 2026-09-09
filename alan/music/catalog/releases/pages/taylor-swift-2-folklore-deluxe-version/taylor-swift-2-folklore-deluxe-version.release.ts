@@ -5,7 +5,7 @@ export const taylorSwift2FolkloreDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-folklore-deluxe-version",
   title: "folklore (deluxe version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 67.139933,
   ownProgress: 67.139933,

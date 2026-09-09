@@ -5,7 +5,7 @@ export const pentatonixSweet = {
   pageTypeSlug: "release",
   slug: "pentatonix-sweet",
   title: "Sweet",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.6373,
   ownProgress: 2.6373,

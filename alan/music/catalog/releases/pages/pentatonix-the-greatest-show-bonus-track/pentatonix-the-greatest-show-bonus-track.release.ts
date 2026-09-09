@@ -5,7 +5,7 @@ export const pentatonixTheGreatestShowBonusTrack = {
   pageTypeSlug: "release",
   slug: "pentatonix-the-greatest-show-bonus-track",
   title: "The Greatest Show (Bonus Track)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.41955,
   ownProgress: 3.41955,

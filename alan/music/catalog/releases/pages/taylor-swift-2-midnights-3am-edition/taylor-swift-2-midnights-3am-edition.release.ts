@@ -5,7 +5,7 @@ export const taylorSwift2Midnights3amEdition = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-midnights-3am-edition",
   title: "Midnights (3am Edition)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 69.487733,
   ownProgress: 69.487733,

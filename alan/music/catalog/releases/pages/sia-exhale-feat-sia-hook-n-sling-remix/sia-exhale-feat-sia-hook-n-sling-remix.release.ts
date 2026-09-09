@@ -5,7 +5,7 @@ export const siaExhaleFeatSiaHookNSlingRemix = {
   pageTypeSlug: "release",
   slug: "sia-exhale-feat-sia-hook-n-sling-remix",
   title: "EXHALE (feat. Sia) [Hook N Sling Remix]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 5.202333,
   ownProgress: 5.202333,

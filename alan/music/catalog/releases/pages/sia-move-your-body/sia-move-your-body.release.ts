@@ -5,7 +5,7 @@ export const siaMoveYourBody = {
   pageTypeSlug: "release",
   slug: "sia-move-your-body",
   title: "Move Your Body",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.201333,
   ownProgress: 4.201333,

@@ -5,7 +5,7 @@ export const siaStepByStepAmazonOriginal = {
   pageTypeSlug: "release",
   slug: "sia-step-by-step-amazon-original",
   title: "Step By Step (Amazon Original)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.155717,
   ownProgress: 4.155717,

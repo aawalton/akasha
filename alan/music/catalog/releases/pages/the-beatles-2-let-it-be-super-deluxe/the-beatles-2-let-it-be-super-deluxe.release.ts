@@ -5,7 +5,7 @@ export const theBeatles2LetItBeSuperDeluxe = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-let-it-be-super-deluxe",
   title: "Let It Be (Super Deluxe)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 164.79795,
   ownProgress: 164.79795,

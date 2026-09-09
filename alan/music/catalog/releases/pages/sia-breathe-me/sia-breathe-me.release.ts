@@ -5,7 +5,7 @@ export const siaBreatheMe = {
   pageTypeSlug: "release",
   slug: "sia-breathe-me",
   title: "Breathe Me",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 11.049767,
   ownProgress: 11.049767,

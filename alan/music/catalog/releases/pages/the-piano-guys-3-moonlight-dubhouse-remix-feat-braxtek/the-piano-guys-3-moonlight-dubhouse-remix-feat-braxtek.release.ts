@@ -5,7 +5,7 @@ export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-moonlight-dubhouse-remix-feat-braxtek",
   title: "Moonlight (Dubhouse Remix) (feat. Braxtek)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.7717,
   ownProgress: 4.7717,

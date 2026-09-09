@@ -5,7 +5,7 @@ export const phoebeBridgersThatFunnyFeeling = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-that-funny-feeling",
   title: "That Funny Feeling",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 6.676083,
   ownProgress: 6.676083,

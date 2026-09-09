@@ -5,7 +5,7 @@ export const pentatonixPentatonixDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "pentatonix-pentatonix-deluxe-version",
   title: "Pentatonix (Deluxe Version)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 54.077,
   ownProgress: 54.077,

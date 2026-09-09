@@ -5,7 +5,7 @@ export const taylorSwift2MidnightsTheTilDawnEdition = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition",
   title: "Midnights (The Til Dawn Edition)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 80.586083,
   ownProgress: 80.586083,

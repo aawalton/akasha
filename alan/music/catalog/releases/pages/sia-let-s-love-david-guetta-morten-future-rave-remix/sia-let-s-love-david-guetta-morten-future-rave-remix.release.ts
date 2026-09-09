@@ -5,7 +5,7 @@ export const siaLetSLoveDavidGuettaMortenFutureRaveRemix = {
   pageTypeSlug: "release",
   slug: "sia-let-s-love-david-guetta-morten-future-rave-remix",
   title: "Let's Love (David Guetta & MORTEN Future Rave Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 8.380783,
   ownProgress: 8.380783,

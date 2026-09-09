@@ -5,7 +5,7 @@ export const siaMtgDaSiaAngelByTheWings = {
   pageTypeSlug: "release",
   slug: "sia-mtg-da-sia-angel-by-the-wings",
   title: "MTG DA SIA - ANGEL BY THE WINGS",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.053117,
   ownProgress: 2.053117,

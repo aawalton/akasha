@@ -5,7 +5,7 @@ export const pentatonixPleaseSantaPlease = {
   pageTypeSlug: "release",
   slug: "pentatonix-please-santa-please",
   title: "Please Santa Please",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.2891,
   ownProgress: 3.2891,

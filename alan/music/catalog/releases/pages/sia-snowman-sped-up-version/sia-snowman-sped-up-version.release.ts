@@ -5,7 +5,7 @@ export const siaSnowmanSpedUpVersion = {
   pageTypeSlug: "release",
   slug: "sia-snowman-sped-up-version",
   title: "Snowman (Sped Up Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 2.292967,
   ownProgress: 2.292967,

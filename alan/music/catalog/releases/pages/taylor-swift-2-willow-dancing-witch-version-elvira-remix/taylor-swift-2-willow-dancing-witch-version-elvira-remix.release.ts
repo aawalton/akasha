@@ -5,7 +5,7 @@ export const taylorSwift2WillowDancingWitchVersionElviraRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-willow-dancing-witch-version-elvira-remix",
   title: "willow [dancing witch version (Elvira remix)]",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.080317,
   ownProgress: 3.080317,

@@ -5,7 +5,7 @@ export const thePianoGuys3IWantYouBack = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-i-want-you-back",
   title: "I Want You Back",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.017033,
   ownProgress: 3.017033,

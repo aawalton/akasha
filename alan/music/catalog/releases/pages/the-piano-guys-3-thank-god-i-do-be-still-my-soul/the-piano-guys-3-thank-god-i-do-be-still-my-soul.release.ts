@@ -5,7 +5,7 @@ export const thePianoGuys3ThankGodIDoBeStillMySoul = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-thank-god-i-do-be-still-my-soul",
   title: "Thank God I Do / Be Still My Soul",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.119667,
   ownProgress: 4.119667,

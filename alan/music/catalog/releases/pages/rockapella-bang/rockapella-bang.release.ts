@@ -5,7 +5,7 @@ export const rockapellaBang = {
   pageTypeSlug: "release",
   slug: "rockapella-bang",
   title: "Bang",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 46.951083,
   ownProgress: 46.951083,

@@ -5,7 +5,7 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheTwoTowersTheCompleteRecor
   pageTypeSlug: "release",
   slug: "the-lord-of-the-rings-music-the-lord-of-the-rings-the-two-towers-the-complete-recordings",
   title: "The Lord of the Rings: The Two Towers - the Complete Recordings",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-music"],
+  partOfCollections: ["the-lord-of-the-rings-music"],
   position: 2,
   ownLength: 188.617083,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-test-drive-from-how-to-train-your-dragon",
   title: 'Test Drive (From "How To Train Your Dragon")',
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.109467,
   ownProgress: 3.109467,

@@ -5,7 +5,7 @@ export const taylorSwift2LoveStoryTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-love-story-taylor-s-version",
   title: "Love Story (Taylor’s Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.929433,
   ownProgress: 3.929433,

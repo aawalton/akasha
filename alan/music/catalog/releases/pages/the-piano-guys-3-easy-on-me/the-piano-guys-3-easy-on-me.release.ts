@@ -5,7 +5,7 @@ export const thePianoGuys3EasyOnMe = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-easy-on-me",
   title: "Easy On Me",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 2.9859,
   ownProgress: 2.9859,

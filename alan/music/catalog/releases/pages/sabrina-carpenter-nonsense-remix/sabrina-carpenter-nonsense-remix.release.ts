@@ -5,7 +5,7 @@ export const sabrinaCarpenterNonsenseRemix = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-nonsense-remix",
   title: "Nonsense (Remix)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.927467,
   ownProgress: 2.927467,

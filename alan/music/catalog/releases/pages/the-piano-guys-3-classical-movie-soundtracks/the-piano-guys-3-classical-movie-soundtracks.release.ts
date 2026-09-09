@@ -5,7 +5,7 @@ export const thePianoGuys3ClassicalMovieSoundtracks = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-classical-movie-soundtracks",
   title: "Classical Movie Soundtracks",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 40.67505,
   ownProgress: 40.67505,

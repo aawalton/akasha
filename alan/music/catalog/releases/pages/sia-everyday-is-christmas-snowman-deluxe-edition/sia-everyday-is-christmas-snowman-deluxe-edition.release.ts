@@ -5,7 +5,7 @@ export const siaEverydayIsChristmasSnowmanDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "sia-everyday-is-christmas-snowman-deluxe-edition",
   title: "Everyday Is Christmas (Snowman Deluxe Edition)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 69.9475,
   ownProgress: 69.9475,

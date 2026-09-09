@@ -5,7 +5,7 @@ export const taylorSwift2LavenderHazeAcousticVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-lavender-haze-acoustic-version",
   title: "Lavender Haze (Acoustic Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 2.90625,
   ownProgress: 2.90625,

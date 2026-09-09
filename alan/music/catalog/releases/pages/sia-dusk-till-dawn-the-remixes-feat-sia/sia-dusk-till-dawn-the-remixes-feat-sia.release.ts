@@ -5,7 +5,7 @@ export const siaDuskTillDawnTheRemixesFeatSia = {
   pageTypeSlug: "release",
   slug: "sia-dusk-till-dawn-the-remixes-feat-sia",
   title: "Dusk Till Dawn (The Remixes) (feat. Sia)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 10.232417,
   ownProgress: 10.232417,

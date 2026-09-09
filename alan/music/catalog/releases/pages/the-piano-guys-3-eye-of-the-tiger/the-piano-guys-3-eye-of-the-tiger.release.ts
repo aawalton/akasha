@@ -5,7 +5,7 @@ export const thePianoGuys3EyeOfTheTiger = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-eye-of-the-tiger",
   title: "Eye of the Tiger",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.046083,
   ownProgress: 4.046083,

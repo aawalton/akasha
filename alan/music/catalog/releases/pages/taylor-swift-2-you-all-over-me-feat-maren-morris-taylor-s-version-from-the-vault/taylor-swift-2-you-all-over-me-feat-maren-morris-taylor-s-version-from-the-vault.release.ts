@@ -5,7 +5,7 @@ export const taylorSwift2YouAllOverMeFeatMarenMorrisTaylorSVersionFromTheVault =
   pageTypeSlug: "release",
   slug: "taylor-swift-2-you-all-over-me-feat-maren-morris-taylor-s-version-from-the-vault",
   title: "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.68065,
   ownProgress: 3.68065,

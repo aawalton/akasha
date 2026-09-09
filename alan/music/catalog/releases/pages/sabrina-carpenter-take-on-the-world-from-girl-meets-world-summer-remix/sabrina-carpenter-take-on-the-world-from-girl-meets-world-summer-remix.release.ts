@@ -5,7 +5,7 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemix = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-take-on-the-world-from-girl-meets-world-summer-remix",
   title: "Take On the World (From “Girl Meets World”/Summer Remix)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.990883,
   ownProgress: 2.990883,

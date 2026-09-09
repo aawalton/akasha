@@ -5,7 +5,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthology = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-tortured-poets-department-the-anthology",
   title: "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 122.645733,
   ownProgress: 122.645733,

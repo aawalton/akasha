@@ -5,7 +5,7 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-i-can-do-it-with-a-broken-heart-dombresky-remix",
   title: "I Can Do It With a Broken Heart (Dombresky Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 10.423317,
   ownProgress: 10.423317,

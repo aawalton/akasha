@@ -5,7 +5,7 @@ export const pentatonixIRise = {
   pageTypeSlug: "release",
   slug: "pentatonix-i-rise",
   title: "I Rise",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.347817,
   ownProgress: 3.347817,

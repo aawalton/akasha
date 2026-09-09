@@ -5,7 +5,7 @@ export const siaUnstoppableClarenceClarityRemix = {
   pageTypeSlug: "release",
   slug: "sia-unstoppable-clarence-clarity-remix",
   title: "Unstoppable (Clarence Clarity Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.796567,
   ownProgress: 3.796567,

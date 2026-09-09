@@ -5,7 +5,7 @@ export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   pageTypeSlug: "release",
   slug: "rockapella-where-in-the-world-is-carmen-sandiego-ep",
   title: "Where in the World Is Carmen Sandiego EP",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 17.4482,
   ownProgress: 17.4482,

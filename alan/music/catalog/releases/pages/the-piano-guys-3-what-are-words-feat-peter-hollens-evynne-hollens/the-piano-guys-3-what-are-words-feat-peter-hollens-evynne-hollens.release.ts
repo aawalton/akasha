@@ -5,7 +5,7 @@ export const thePianoGuys3WhatAreWordsFeatPeterHollensEvynneHollens = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-what-are-words-feat-peter-hollens-evynne-hollens",
   title: "What Are Words (feat. Peter Hollens & Evynne Hollens)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.633333,
   ownProgress: 3.633333,

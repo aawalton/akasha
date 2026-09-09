@@ -5,7 +5,7 @@ export const taylorSwift2SafeSoundTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-safe-sound-taylor-s-version",
   title: "Safe & Sound (Taylor's Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.994467,
   ownProgress: 3.994467,

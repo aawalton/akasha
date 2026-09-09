@@ -5,7 +5,7 @@ export const taylorSwift2LoveStoryPopMix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-love-story-pop-mix",
   title: "Love Story (Pop Mix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.894217,
   ownProgress: 3.894217,

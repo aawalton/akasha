@@ -5,7 +5,7 @@ export const pentatonixWhiteChristmas = {
   pageTypeSlug: "release",
   slug: "pentatonix-white-christmas",
   title: "White Christmas",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.060667,
   ownProgress: 3.060667,

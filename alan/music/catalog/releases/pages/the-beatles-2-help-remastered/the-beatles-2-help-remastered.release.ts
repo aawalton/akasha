@@ -5,7 +5,7 @@ export const theBeatles2HelpRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-help-remastered",
   title: "Help! (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 33.917017,
   ownProgress: 33.917017,

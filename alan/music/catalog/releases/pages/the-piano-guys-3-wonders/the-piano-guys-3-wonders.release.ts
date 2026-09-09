@@ -5,7 +5,7 @@ export const thePianoGuys3Wonders = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-wonders",
   title: "Wonders",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 47.300383,
   ownProgress: 47.300383,

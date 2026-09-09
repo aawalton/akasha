@@ -5,7 +5,7 @@ export const siaGimmeChristmas = {
   pageTypeSlug: "release",
   slug: "sia-gimme-christmas",
   title: "Gimme Christmas",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 18.955083,
   ownProgress: 18.955083,

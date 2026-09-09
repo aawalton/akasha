@@ -5,7 +5,7 @@ export const thePianoGuys3ChristmasTogether = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-christmas-together",
   title: "Christmas Together",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 47.211967,
   ownProgress: 47.211967,

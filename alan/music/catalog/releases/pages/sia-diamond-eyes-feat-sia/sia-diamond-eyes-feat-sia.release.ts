@@ -5,7 +5,7 @@ export const siaDiamondEyesFeatSia = {
   pageTypeSlug: "release",
   slug: "sia-diamond-eyes-feat-sia",
   title: "Diamond Eyes (feat. Sia)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.72525,
   ownProgress: 3.72525,

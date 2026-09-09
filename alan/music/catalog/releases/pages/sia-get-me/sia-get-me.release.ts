@@ -5,7 +5,7 @@ export const siaGetMe = {
   pageTypeSlug: "release",
   slug: "sia-get-me",
   title: "Get Me",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 10.5907,
   ownProgress: 10.5907,

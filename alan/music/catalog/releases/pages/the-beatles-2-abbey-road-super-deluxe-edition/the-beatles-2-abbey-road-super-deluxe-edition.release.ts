@@ -5,7 +5,7 @@ export const theBeatles2AbbeyRoadSuperDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-abbey-road-super-deluxe-edition",
   title: "Abbey Road (Super Deluxe Edition)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 133.48335,
   ownProgress: 133.48335,

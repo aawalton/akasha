@@ -5,7 +5,7 @@ export const siaHeyBoyFeatBurnaBoy = {
   pageTypeSlug: "release",
   slug: "sia-hey-boy-feat-burna-boy",
   title: "Hey Boy (feat. Burna Boy)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 17.740283,
   ownProgress: 17.740283,

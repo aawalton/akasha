@@ -5,7 +5,7 @@ export const theBeatles2RevolverRemastered = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-revolver-remastered",
   title: "Revolver (Remastered)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 34.765933,
   ownProgress: 34.765933,

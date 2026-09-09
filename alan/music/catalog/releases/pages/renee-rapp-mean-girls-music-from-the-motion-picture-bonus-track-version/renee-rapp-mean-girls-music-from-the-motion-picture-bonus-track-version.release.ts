@@ -5,7 +5,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersion = {
   pageTypeSlug: "release",
   slug: "renee-rapp-mean-girls-music-from-the-motion-picture-bonus-track-version",
   title: "Mean Girls (Music From The Motion Picture – Bonus Track Version)",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 43.139117,
   ownProgress: 43.139117,

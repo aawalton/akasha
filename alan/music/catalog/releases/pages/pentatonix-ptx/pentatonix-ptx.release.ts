@@ -5,7 +5,7 @@ export const pentatonixPtx = {
   pageTypeSlug: "release",
   slug: "pentatonix-ptx",
   title: "PTX",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 60.632783,
   ownProgress: 60.632783,

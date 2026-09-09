@@ -5,7 +5,7 @@ export const rockapellaJamsVol2 = {
   pageTypeSlug: "release",
   slug: "rockapella-jams-vol-2",
   title: "Jams, Vol. 2",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 37.985917,
   ownProgress: 37.985917,

@@ -5,7 +5,7 @@ export const theLordOfTheRingsMusicTheLordOfTheRingsTheFellowshipOfTheRingTheCom
   pageTypeSlug: "release",
   slug: "the-lord-of-the-rings-music-the-lord-of-the-rings-the-fellowship-of-the-ring-the-complete-recordings",
   title: "The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-music"],
+  partOfCollections: ["the-lord-of-the-rings-music"],
   position: 1,
   ownLength: 180.944017,
   ownProgress: 180.944017,

@@ -5,7 +5,7 @@ export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-taylor-swift-holiday-collection",
   title: "The Taylor Swift Holiday Collection",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 19.119083,
   ownProgress: 19.119083,

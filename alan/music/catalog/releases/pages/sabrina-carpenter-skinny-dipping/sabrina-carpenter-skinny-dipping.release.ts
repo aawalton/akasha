@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkinnyDipping = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-skinny-dipping",
   title: "skinny dipping",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 2.9625,
   ownProgress: 2.9625,

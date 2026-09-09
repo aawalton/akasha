@@ -5,7 +5,7 @@ export const thePianoGuys3RollingInTheDeep = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-rolling-in-the-deep",
   title: "Rolling in the Deep",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.016217,
   ownProgress: 4.016217,

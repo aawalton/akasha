@@ -5,7 +5,7 @@ export const siaButtonsCssFilterheadzRemixes = {
   pageTypeSlug: "release",
   slug: "sia-buttons-css-filterheadz-remixes",
   title: "Buttons (CSS & Filterheadz Remixes)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 11.13955,
   ownProgress: 11.13955,

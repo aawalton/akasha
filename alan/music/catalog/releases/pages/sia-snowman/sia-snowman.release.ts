@@ -5,7 +5,7 @@ export const siaSnowman = {
   pageTypeSlug: "release",
   slug: "sia-snowman",
   title: "Snowman",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 5.762,
   ownProgress: 5.762,

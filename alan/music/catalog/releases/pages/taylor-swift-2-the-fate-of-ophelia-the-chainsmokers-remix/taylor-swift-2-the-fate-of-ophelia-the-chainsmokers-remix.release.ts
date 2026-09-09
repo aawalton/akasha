@@ -5,7 +5,7 @@ export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-the-chainsmokers-remix",
   title: "The Fate of Ophelia (The Chainsmokers Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 10.46215,
   ownProgress: 10.46215,

@@ -5,7 +5,7 @@ export const pentatonixWhenYouBelieveDaveAudeRemix = {
   pageTypeSlug: "release",
   slug: "pentatonix-when-you-believe-dave-aude-remix",
   title: "When You Believe (Dave Audé Remix)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.91935,
   ownProgress: 3.91935,

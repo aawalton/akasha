@@ -5,7 +5,7 @@ export const reneeRappEverythingToEveryone = {
   pageTypeSlug: "release",
   slug: "renee-rapp-everything-to-everyone",
   title: "Everything To Everyone",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 19.3732,
   ownProgress: 19.3732,

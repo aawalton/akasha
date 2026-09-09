@@ -5,7 +5,7 @@ export const reneeRappNotMyFaultWithMeganTheeStallion = {
   pageTypeSlug: "release",
   slug: "renee-rapp-not-my-fault-with-megan-thee-stallion",
   title: "Not My Fault (with Megan Thee Stallion)",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 2.842133,
   ownProgress: 2.842133,

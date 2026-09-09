@@ -5,7 +5,7 @@ export const taylorSwift2LoverFirstDanceRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-lover-first-dance-remix",
   title: "Lover (First Dance Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.8911,
   ownProgress: 3.8911,

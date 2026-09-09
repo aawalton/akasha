@@ -5,7 +5,7 @@ export const siaElasticHeartFromTheHungerGamesCatchingFireSoundtrack = {
   pageTypeSlug: "release",
   slug: "sia-elastic-heart-from-the-hunger-games-catching-fire-soundtrack",
   title: "Elastic Heart (From “The Hunger Games: Catching Fire” Soundtrack)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.299767,
   ownProgress: 4.299767,

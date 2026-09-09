@@ -5,7 +5,7 @@ export const theBeatles2HelterSkelterSecondVersionTake17 = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-helter-skelter-second-version-take-17",
   title: "Helter Skelter (Second Version - Take 17)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 8.094433,
   ownProgress: 8.094433,

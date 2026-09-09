@@ -5,7 +5,7 @@ export const thePianoGuys3Anyone = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-anyone",
   title: "Anyone",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.6998,
   ownProgress: 3.6998,

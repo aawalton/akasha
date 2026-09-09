@@ -5,7 +5,7 @@ export const siaBirdSetFree = {
   pageTypeSlug: "release",
   slug: "sia-bird-set-free",
   title: "Bird Set Free",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.21355,
   ownProgress: 4.21355,

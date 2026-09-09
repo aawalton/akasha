@@ -5,7 +5,7 @@ export const siaThisIsActingDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "sia-this-is-acting-deluxe-version",
   title: "This Is Acting (Deluxe Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 74.323433,
   ownProgress: 74.323433,

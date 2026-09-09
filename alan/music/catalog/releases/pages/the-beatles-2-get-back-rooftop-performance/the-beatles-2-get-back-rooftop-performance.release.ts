@@ -5,7 +5,7 @@ export const theBeatles2GetBackRooftopPerformance = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-get-back-rooftop-performance",
   title: "Get Back (Rooftop Performance)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 38.534167,
   ownProgress: 38.534167,

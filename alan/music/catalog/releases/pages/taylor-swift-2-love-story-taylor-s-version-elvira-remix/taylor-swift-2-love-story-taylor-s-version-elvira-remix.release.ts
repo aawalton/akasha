@@ -5,7 +5,7 @@ export const taylorSwift2LoveStoryTaylorSVersionElviraRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-love-story-taylor-s-version-elvira-remix",
   title: "Love Story (Taylor's Version) [Elvira Remix]",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.53095,
   ownProgress: 3.53095,

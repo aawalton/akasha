@@ -5,7 +5,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexHectorSRollerJamMix = {
   pageTypeSlug: "release",
   slug: "sia-floating-through-space-feat-david-guetta-hex-hector-s-roller-jam-mix",
   title: "Floating Through Space (feat. David Guetta) [Hex Hector’s Roller Jam Mix]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 6.2047,
   ownProgress: 6.2047,

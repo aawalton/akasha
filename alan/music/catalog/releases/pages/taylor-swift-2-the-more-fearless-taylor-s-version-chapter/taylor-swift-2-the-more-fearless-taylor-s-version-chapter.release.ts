@@ -5,7 +5,7 @@ export const taylorSwift2TheMoreFearlessTaylorSVersionChapter = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-more-fearless-taylor-s-version-chapter",
   title: "The More Fearless (Taylor’s Version) Chapter",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 19.666967,
   ownProgress: 19.666967,

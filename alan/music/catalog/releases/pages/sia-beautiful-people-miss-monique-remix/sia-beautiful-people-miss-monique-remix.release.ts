@@ -5,7 +5,7 @@ export const siaBeautifulPeopleMissMoniqueRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-miss-monique-remix",
   title: "Beautiful People (Miss Monique Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 6.793633,
   ownProgress: 6.793633,

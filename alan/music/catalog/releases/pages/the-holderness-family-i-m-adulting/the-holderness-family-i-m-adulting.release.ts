@@ -5,7 +5,7 @@ export const theHoldernessFamilyIMAdulting = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-i-m-adulting",
   title: "I'm Adulting",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 2.700617,
   ownProgress: 2.700617,

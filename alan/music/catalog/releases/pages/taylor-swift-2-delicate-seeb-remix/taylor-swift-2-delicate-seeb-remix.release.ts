@@ -5,7 +5,7 @@ export const taylorSwift2DelicateSeebRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-delicate-seeb-remix",
   title: "Delicate (Seeb Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 2.88775,
   ownProgress: 2.88775,

@@ -5,7 +5,7 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-rock-meets-rachmaninoff-after-s-rachmaninoff-s-prelude-in-c-sharp-minor-op-3",
   title: "Rock Meets Rachmaninoff (After S. Rachmaninoff's Prelude in C-Sharp Minor, Op. 3)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.41355,
   ownProgress: 3.41355,

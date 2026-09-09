@@ -5,7 +5,7 @@ export const siaSaturdayChurchOfficialConceptAlbum = {
   pageTypeSlug: "release",
   slug: "sia-saturday-church-official-concept-album",
   title: "Saturday Church (Official Concept Album)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 58.446217,
   ownProgress: 58.446217,

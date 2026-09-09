@@ -5,7 +5,7 @@ export const siaBeautifulPeopleSethHillsRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-seth-hills-remix",
   title: "Beautiful People (Seth Hills Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 16.409833,
   ownProgress: 16.409833,

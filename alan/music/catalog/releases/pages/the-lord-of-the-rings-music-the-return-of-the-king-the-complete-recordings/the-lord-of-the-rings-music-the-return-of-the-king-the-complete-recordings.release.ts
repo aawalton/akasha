@@ -6,7 +6,7 @@ export const theLordOfTheRingsMusicTheReturnOfTheKingTheCompleteRecordings = {
   slug: "the-lord-of-the-rings-music-the-return-of-the-king-the-complete-recordings",
   title:
     "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-music"],
+  partOfCollections: ["the-lord-of-the-rings-music"],
   position: 3,
   ownLength: 229.664817,
   ownProgress: 0,

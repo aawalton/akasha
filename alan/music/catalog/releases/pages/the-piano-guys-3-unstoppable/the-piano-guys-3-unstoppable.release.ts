@@ -5,7 +5,7 @@ export const thePianoGuys3Unstoppable = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-unstoppable",
   title: "Unstoppable",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.1673,
   ownProgress: 4.1673,

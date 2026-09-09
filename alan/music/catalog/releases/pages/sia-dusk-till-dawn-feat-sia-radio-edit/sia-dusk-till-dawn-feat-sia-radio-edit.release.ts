@@ -5,7 +5,7 @@ export const siaDuskTillDawnFeatSiaRadioEdit = {
   pageTypeSlug: "release",
   slug: "sia-dusk-till-dawn-feat-sia-radio-edit",
   title: "Dusk Till Dawn (feat. Sia) [Radio Edit]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.983333,
   ownProgress: 3.983333,

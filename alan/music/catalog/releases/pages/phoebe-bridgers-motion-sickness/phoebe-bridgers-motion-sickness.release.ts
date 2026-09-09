@@ -5,7 +5,7 @@ export const phoebeBridgersMotionSickness = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-motion-sickness",
   title: "Motion Sickness",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 3.829333,
   ownProgress: 3.829333,

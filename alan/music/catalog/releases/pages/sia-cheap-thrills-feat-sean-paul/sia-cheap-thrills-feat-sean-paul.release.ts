@@ -5,7 +5,7 @@ export const siaCheapThrillsFeatSeanPaul = {
   pageTypeSlug: "release",
   slug: "sia-cheap-thrills-feat-sean-paul",
   title: "Cheap Thrills (feat. Sean Paul)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.746883,
   ownProgress: 3.746883,

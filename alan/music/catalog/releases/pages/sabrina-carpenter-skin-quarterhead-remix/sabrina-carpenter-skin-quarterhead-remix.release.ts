@@ -5,7 +5,7 @@ export const sabrinaCarpenterSkinQuarterheadRemix = {
   pageTypeSlug: "release",
   slug: "sabrina-carpenter-skin-quarterhead-remix",
   title: "Skin (Quarterhead Remix)",
-  partOfCollectionSlugs: ["sabrina-carpenter"],
+  partOfCollections: ["sabrina-carpenter"],
   position: 0,
   ownLength: 3.116667,
   ownProgress: 3.116667,

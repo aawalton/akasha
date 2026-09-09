@@ -5,7 +5,7 @@ export const taylorSwift2Lover = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-lover",
   title: "Lover",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 61.85635,
   ownProgress: 61.85635,

@@ -5,7 +5,7 @@ export const siaLivingOutLoud = {
   pageTypeSlug: "release",
   slug: "sia-living-out-loud",
   title: "Living Out Loud",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.9906,
   ownProgress: 3.9906,

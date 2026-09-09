@@ -5,7 +5,7 @@ export const siaLabrinthSiaDiploPresentLsdRemixesFeatSiaDiploLabrinth = {
   pageTypeSlug: "release",
   slug: "sia-labrinth-sia-diplo-present-lsd-remixes-feat-sia-diplo-labrinth",
   title: "LABRINTH, SIA, DIPLO PRESENT... LSD (REMIXES) (feat. Sia, Diplo & Labrinth)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 30.91665,
   ownProgress: 30.91665,

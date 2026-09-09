@@ -5,7 +5,7 @@ export const siaImmortalQueenFeatChakaKhanNenehCherry = {
   pageTypeSlug: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-neneh-cherry",
   title: "Immortal Queen (feat. Chaka Khan & Neneh Cherry)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.580467,
   ownProgress: 3.580467,

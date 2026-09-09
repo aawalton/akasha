@@ -5,7 +5,7 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-tuya-es-la-gloria-arr-for-choir-orchestra-solo-cello-and-piano-by-mack-wilberg",
   title: "Tuya Es La Gloria (arr. for Choir, Orchestra, Solo Cello, and Piano by Mack Wilberg)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.950517,
   ownProgress: 3.950517,

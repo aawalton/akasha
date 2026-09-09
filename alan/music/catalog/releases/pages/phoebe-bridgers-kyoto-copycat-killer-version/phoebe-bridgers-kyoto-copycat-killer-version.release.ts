@@ -5,7 +5,7 @@ export const phoebeBridgersKyotoCopycatKillerVersion = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-kyoto-copycat-killer-version",
   title: "Kyoto (Copycat Killer Version)",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 3.020217,
   ownProgress: 3.020217,

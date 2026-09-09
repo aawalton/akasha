@@ -5,7 +5,7 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-if-this-was-a-movie-taylor-s-version",
   title: "If This Was A Movie (Taylor’s Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.950367,
   ownProgress: 3.950367,

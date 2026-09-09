@@ -5,7 +5,7 @@ export const siaBeautifulPeopleJustusRemix = {
   pageTypeSlug: "release",
   slug: "sia-beautiful-people-justus-remix",
   title: "Beautiful People (Justus Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 15.14145,
   ownProgress: 15.14145,

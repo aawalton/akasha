@@ -5,7 +5,7 @@ export const rockapellaDonTTellMeYouDo = {
   pageTypeSlug: "release",
   slug: "rockapella-don-t-tell-me-you-do",
   title: "Don't Tell Me You Do",
-  partOfCollectionSlugs: ["rockapella"],
+  partOfCollections: ["rockapella"],
   position: 0,
   ownLength: 49.074883,
   ownProgress: 49.074883,

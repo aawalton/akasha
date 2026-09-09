@@ -5,7 +5,7 @@ export const thePianoGuys3AvengersPortals = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-avengers-portals",
   title: "Avengers/Portals",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 2.95,
   ownProgress: 2.95,

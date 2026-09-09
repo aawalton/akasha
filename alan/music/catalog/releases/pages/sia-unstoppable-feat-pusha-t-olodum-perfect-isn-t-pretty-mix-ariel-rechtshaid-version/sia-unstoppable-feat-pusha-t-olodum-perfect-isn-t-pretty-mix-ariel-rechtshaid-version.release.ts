@@ -6,7 +6,7 @@ export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVe
   slug: "sia-unstoppable-feat-pusha-t-olodum-perfect-isn-t-pretty-mix-ariel-rechtshaid-version",
   title:
     "Unstoppable (feat. Pusha T & Olodum) [Perfect Isn't Pretty Mix - Ariel Rechtshaid Version]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.760667,
   ownProgress: 3.760667,

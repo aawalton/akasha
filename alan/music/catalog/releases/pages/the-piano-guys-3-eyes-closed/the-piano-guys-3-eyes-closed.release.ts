@@ -5,7 +5,7 @@ export const thePianoGuys3EyesClosed = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-eyes-closed",
   title: "Eyes Closed",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.0759,
   ownProgress: 4.0759,

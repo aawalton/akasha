@@ -5,7 +5,7 @@ export const phoebeBridgersWalkingOnAString = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-walking-on-a-string",
   title: "Walking on a String",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 8.783983,
   ownProgress: 8.783983,

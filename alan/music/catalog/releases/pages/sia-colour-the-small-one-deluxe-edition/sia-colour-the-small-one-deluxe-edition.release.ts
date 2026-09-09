@@ -5,7 +5,7 @@ export const siaColourTheSmallOneDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "sia-colour-the-small-one-deluxe-edition",
   title: "Colour The Small One (Deluxe Edition)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 84.575217,
   ownProgress: 84.575217,

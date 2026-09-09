@@ -5,7 +5,7 @@ export const snailMailLush = {
   pageTypeSlug: "release",
   slug: "snail-mail-lush",
   title: "Lush",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 38.330383,
   ownProgress: 0,

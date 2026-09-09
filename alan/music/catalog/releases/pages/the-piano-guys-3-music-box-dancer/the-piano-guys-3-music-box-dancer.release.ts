@@ -5,7 +5,7 @@ export const thePianoGuys3MusicBoxDancer = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-music-box-dancer",
   title: "Music Box Dancer",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 2.716267,
   ownProgress: 2.716267,

@@ -5,7 +5,7 @@ export const siaImmortalQueenFeatChakaKhanBiancaCosta = {
   pageTypeSlug: "release",
   slug: "sia-immortal-queen-feat-chaka-khan-bianca-costa",
   title: "Immortal Queen (feat. Chaka Khan & Bianca Costa)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.36265,
   ownProgress: 3.36265,

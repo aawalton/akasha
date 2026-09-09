@@ -5,7 +5,7 @@ export const theBeatles2RevolverSuperDeluxe = {
   pageTypeSlug: "release",
   slug: "the-beatles-2-revolver-super-deluxe",
   title: "Revolver (Super Deluxe)",
-  partOfCollectionSlugs: ["the-beatles-2"],
+  partOfCollections: ["the-beatles-2"],
   position: 0,
   ownLength: 162.292317,
   ownProgress: 162.292317,

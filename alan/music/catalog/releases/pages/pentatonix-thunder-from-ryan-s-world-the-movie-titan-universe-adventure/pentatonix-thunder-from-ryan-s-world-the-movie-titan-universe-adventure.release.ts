@@ -5,7 +5,7 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   pageTypeSlug: "release",
   slug: "pentatonix-thunder-from-ryan-s-world-the-movie-titan-universe-adventure",
   title: 'Thunder (From "Ryan\'s World the Movie: Titan Universe Adventure")',
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.222683,
   ownProgress: 2.222683,

@@ -5,7 +5,7 @@ export const taylorSwift2OnlyTheYoungFeaturedInMissAmericana = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-only-the-young-featured-in-miss-americana",
   title: "Only The Young (Featured in Miss Americana)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 2.625117,
   ownProgress: 2.625117,

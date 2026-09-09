@@ -5,7 +5,7 @@ export const snailMailHeatWave = {
   pageTypeSlug: "release",
   slug: "snail-mail-heat-wave",
   title: "Heat Wave",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 5.1391,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const phoebeBridgersIfWeMakeItThroughDecember = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-if-we-make-it-through-december",
   title: "If We Make It Through December",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 11.679567,
   ownProgress: 11.679567,

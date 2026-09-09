@@ -5,7 +5,7 @@ export const snailMailMadonna = {
   pageTypeSlug: "release",
   slug: "snail-mail-madonna",
   title: "Madonna",
-  partOfCollectionSlugs: ["snail-mail"],
+  partOfCollections: ["snail-mail"],
   position: 0,
   ownLength: 9.182217,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const sia1000FormsOfFearDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "sia-1000-forms-of-fear-deluxe-version",
   title: "1000 Forms Of Fear (Deluxe Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 84.62565,
   ownProgress: 84.62565,

@@ -5,7 +5,7 @@ export const thePianoGuys3AMillionDreams = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-a-million-dreams",
   title: "A Million Dreams",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.76395,
   ownProgress: 4.76395,

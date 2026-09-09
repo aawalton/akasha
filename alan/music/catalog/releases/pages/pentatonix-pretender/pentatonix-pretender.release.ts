@@ -5,7 +5,7 @@ export const pentatonixPretender = {
   pageTypeSlug: "release",
   slug: "pentatonix-pretender",
   title: "Pretender",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.9208,
   ownProgress: 2.9208,

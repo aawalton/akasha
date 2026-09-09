@@ -5,7 +5,7 @@ export const thePianoGuys3ItSGonnaBeOkayWithCliffRichard = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-it-s-gonna-be-okay-with-cliff-richard",
   title: "(It's Gonna Be) Okay (with Cliff Richard)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.503983,
   ownProgress: 3.503983,

@@ -5,7 +5,7 @@ export const thePianoGuys3WaterfallFeatRichardElliott = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-waterfall-feat-richard-elliott",
   title: "Waterfall (feat. Richard Elliott)",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.1216,
   ownProgress: 3.1216,

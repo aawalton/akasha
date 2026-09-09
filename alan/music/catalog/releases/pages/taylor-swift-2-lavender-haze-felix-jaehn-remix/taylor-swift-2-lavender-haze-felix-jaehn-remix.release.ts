@@ -5,7 +5,7 @@ export const taylorSwift2LavenderHazeFelixJaehnRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-lavender-haze-felix-jaehn-remix",
   title: "Lavender Haze (Felix Jaehn Remix)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 2.859367,
   ownProgress: 2.859367,

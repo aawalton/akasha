@@ -5,7 +5,7 @@ export const thePianoGuys3AsItWas = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-as-it-was",
   title: "As It Was",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 5.9315,
   ownProgress: 5.9315,

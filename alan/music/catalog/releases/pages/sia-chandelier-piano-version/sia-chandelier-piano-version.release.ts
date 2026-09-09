@@ -5,7 +5,7 @@ export const siaChandelierPianoVersion = {
   pageTypeSlug: "release",
   slug: "sia-chandelier-piano-version",
   title: "Chandelier (Piano Version)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.006667,
   ownProgress: 4.006667,

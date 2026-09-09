@@ -5,7 +5,7 @@ export const thePianoGuys3WhenYouReGone = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-when-you-re-gone",
   title: "When You're Gone",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 10.722417,
   ownProgress: 10.722417,

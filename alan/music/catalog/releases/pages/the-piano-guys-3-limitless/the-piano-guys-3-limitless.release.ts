@@ -5,7 +5,7 @@ export const thePianoGuys3Limitless = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-limitless",
   title: "Limitless",
-  partOfCollectionSlugs: ["the-piano-guys-3"],
+  partOfCollections: ["the-piano-guys-3"],
   position: 0,
   ownLength: 55.02105,
   ownProgress: 55.02105,

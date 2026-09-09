@@ -5,7 +5,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-track-by-track-version",
   title: "The Life of a Showgirl (Track by Track Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 50.7555,
   ownProgress: 50.7555,

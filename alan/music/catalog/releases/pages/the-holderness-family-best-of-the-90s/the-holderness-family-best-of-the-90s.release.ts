@@ -5,7 +5,7 @@ export const theHoldernessFamilyBestOfThe90s = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-best-of-the-90s",
   title: "Best of the 90s",
-  partOfCollectionSlugs: ["the-holderness-family"],
+  partOfCollections: ["the-holderness-family"],
   position: 0,
   ownLength: 34.094483,
   ownProgress: 34.094483,

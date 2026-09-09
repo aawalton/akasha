@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquare100YearsCelebratingACenturyOfRecord
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-100-years-celebrating-a-century-of-recording-excellence",
   title: "100 Years: Celebrating a Century of Recording Excellence",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 135.914967,
   ownProgress: 0,

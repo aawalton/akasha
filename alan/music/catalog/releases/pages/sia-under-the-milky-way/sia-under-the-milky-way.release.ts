@@ -5,7 +5,7 @@ export const siaUnderTheMilkyWay = {
   pageTypeSlug: "release",
   slug: "sia-under-the-milky-way",
   title: "Under the Milky Way",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.58155,
   ownProgress: 3.58155,

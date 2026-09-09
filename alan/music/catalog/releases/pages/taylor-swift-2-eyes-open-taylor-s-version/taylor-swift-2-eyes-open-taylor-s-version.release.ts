@@ -5,7 +5,7 @@ export const taylorSwift2EyesOpenTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-eyes-open-taylor-s-version",
   title: "Eyes Open (Taylor's Version)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.0544,
   ownProgress: 4.0544,

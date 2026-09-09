@@ -5,7 +5,7 @@ export const phoebeBridgersSoMuchWine = {
   pageTypeSlug: "release",
   slug: "phoebe-bridgers-so-much-wine",
   title: "So Much Wine",
-  partOfCollectionSlugs: ["phoebe-bridgers"],
+  partOfCollections: ["phoebe-bridgers"],
   position: 0,
   ownLength: 21.82525,
   ownProgress: 21.82525,

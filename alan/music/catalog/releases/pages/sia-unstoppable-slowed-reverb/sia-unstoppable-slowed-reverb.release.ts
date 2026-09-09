@@ -5,7 +5,7 @@ export const siaUnstoppableSlowedReverb = {
   pageTypeSlug: "release",
   slug: "sia-unstoppable-slowed-reverb",
   title: "Unstoppable (Slowed & Reverb)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 4.2125,
   ownProgress: 4.2125,

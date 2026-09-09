@@ -5,7 +5,7 @@ export const pentatonixWavingThroughAWindow = {
   pageTypeSlug: "release",
   slug: "pentatonix-waving-through-a-window",
   title: "Waving Through a Window",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.85185,
   ownProgress: 3.85185,

@@ -5,7 +5,7 @@ export const reneeRappSnowAngel = {
   pageTypeSlug: "release",
   slug: "renee-rapp-snow-angel",
   title: "Snow Angel",
-  partOfCollectionSlugs: ["renee-rapp"],
+  partOfCollections: ["renee-rapp"],
   position: 0,
   ownLength: 36.582367,
   ownProgress: 36.582367,

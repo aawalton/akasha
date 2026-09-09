@@ -5,7 +5,7 @@ export const siaHeavenCanWaitTheAstonShuffleRemix = {
   pageTypeSlug: "release",
   slug: "sia-heaven-can-wait-the-aston-shuffle-remix",
   title: "Heaven Can Wait (The Aston Shuffle Remix)",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 3.63955,
   ownProgress: 3.63955,

@@ -5,7 +5,7 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwards = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-betty-live-from-the-2020-academy-of-country-music-awards",
   title: "betty (Live from the 2020 Academy of Country Music Awards)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 5.2023,
   ownProgress: 5.2023,

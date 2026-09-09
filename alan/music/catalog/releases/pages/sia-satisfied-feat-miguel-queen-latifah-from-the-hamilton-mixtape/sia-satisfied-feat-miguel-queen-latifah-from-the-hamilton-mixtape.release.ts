@@ -5,7 +5,7 @@ export const siaSatisfiedFeatMiguelQueenLatifahFromTheHamiltonMixtape = {
   pageTypeSlug: "release",
   slug: "sia-satisfied-feat-miguel-queen-latifah-from-the-hamilton-mixtape",
   title: "Satisfied (feat. Miguel & Queen Latifah) [from The Hamilton Mixtape]",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 5.3065,
   ownProgress: 5.3065,

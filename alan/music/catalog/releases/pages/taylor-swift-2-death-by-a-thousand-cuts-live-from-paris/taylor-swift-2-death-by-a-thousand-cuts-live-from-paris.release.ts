@@ -5,7 +5,7 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-death-by-a-thousand-cuts-live-from-paris",
   title: "Death By A Thousand Cuts (Live From Paris)",
-  partOfCollectionSlugs: ["taylor-swift-2"],
+  partOfCollections: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.317767,
   ownProgress: 3.317767,

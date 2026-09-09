@@ -5,7 +5,7 @@ export const siaWhereIBelongRemixes1 = {
   pageTypeSlug: "release",
   slug: "sia-where-i-belong-remixes-1",
   title: "Where I Belong Remixes 1",
-  partOfCollectionSlugs: ["sia"],
+  partOfCollections: ["sia"],
   position: 0,
   ownLength: 11.637767,
   ownProgress: 11.637767,
