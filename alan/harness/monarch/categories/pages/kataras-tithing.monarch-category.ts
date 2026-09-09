@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const katarasTithing = {
   id: "01a06559-5ea8-7039-9318-38f03cb33a71",

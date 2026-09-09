@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const kidsLearning = {
   id: "01a06559-5ea8-703a-b6a2-0fc80b89ea19",

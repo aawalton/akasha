@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const transportation = {
   id: "01a06559-5ea9-7006-b3de-e2a0c24779f5",

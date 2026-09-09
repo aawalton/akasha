@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const paychecks = {
   id: "01a06559-5ea8-7044-83bb-5e8c3902605c",

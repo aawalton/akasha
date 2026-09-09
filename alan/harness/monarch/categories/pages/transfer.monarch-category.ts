@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const transfer = {
   id: "01a06559-5ea9-7005-ab8a-37d1853bd655",

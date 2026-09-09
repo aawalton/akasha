@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const christmas = {
   id: "01a06559-5ea8-7020-a785-61a0a4563ff1",

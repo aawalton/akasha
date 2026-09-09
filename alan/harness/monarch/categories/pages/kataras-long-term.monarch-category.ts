@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const katarasLongTerm = {
   id: "01a06559-5ea8-7036-9b3e-3f201cbbac10",

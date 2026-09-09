@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const fastOffering = {
   id: "01a06559-5ea8-7026-81d6-840d46ee1a78",

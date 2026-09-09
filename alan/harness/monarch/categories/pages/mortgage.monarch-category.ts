@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const mortgage = {
   id: "01a06559-5ea8-7042-928f-c5e0448f995e",

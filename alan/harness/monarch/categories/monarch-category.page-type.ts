@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
-import type { CategoryGroup } from "./properties/category-group.text-property.ts"
-import type { CategoryGroupType } from "./properties/category-group-type.select-property.ts"
-
-export type MonarchCategory = MonarchRecord & {
-  categoryGroup?: CategoryGroup
-  categoryGroupType?: CategoryGroupType
-}
 
 export const monarchCategory = {
   id: "01a0680a-1a00-700c-9f28-6e4a7b2d110c",
@@ -44,4 +36,5 @@ export const monarchCategory = {
       statement: "A category with no group is a category Alan wrote and Monarch never had.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { MonarchCategory } from "../monarch-category.page-type.ts"
+import type { MonarchCategory } from "../monarch-category.page-type.types.ts"
 
 export const sell = {
   id: "01a06559-5ea9-7002-9375-2b928c0bc97e",
