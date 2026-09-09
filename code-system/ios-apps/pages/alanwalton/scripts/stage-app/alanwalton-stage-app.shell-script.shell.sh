@@ -18,6 +18,8 @@ set -a
 [[ -f "${web_dir}/.env.local" ]] && . "${web_dir}/.env.local"
 export NEXT_PUBLIC_API_ORIGIN="https://alanwalton.com"
 export VITE_API_ORIGIN="${NEXT_PUBLIC_API_ORIGIN}"
+export VITE_SUPABASE_URL="${VITE_SUPABASE_URL:-${NEXT_PUBLIC_SUPABASE_URL:-}}"
+export VITE_SUPABASE_ANON_KEY="${VITE_SUPABASE_ANON_KEY:-${NEXT_PUBLIC_SUPABASE_ANON_KEY:-}}"
 export NEXT_PUBLIC_BUILD_SHA="${NEXT_PUBLIC_BUILD_SHA:-$(git -C "${web_dir}" rev-parse HEAD)}"
 export VITE_BUILD_SHA="${NEXT_PUBLIC_BUILD_SHA}"
 for _var in VITE_API_ORIGIN VITE_SUPABASE_URL VITE_SUPABASE_ANON_KEY VITE_BUILD_SHA; do
