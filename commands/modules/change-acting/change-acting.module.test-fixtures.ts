@@ -5,7 +5,7 @@ import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
-import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
 import {
   DROP_WORDS,
   dropping,

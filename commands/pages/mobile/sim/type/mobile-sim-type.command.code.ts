@@ -1,6 +1,5 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
-import { inputIn } from "@akasha/command-system/piping"
 import {
   activeElement,
   clickElement,
@@ -12,6 +11,7 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import { inputIn } from "../../../../modules/piping/piping.module.code.ts"
 
 const TEXT = "--text"
 

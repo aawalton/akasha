@@ -10,8 +10,8 @@ import {
 import { MECHANICAL } from "../../../../command-system/asking/asking.module.code.ts"
 import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { scratch } from "../../../../command-system/landing/landing.module.test-fixtures.ts"
-import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
 import { builtIn } from "../../../modules/file-arguing/file-arguing.module.code.ts"
+import { inputIn } from "../../../modules/piping/piping.module.code.ts"
 import { alanTracking, NO_GLASS, strayIn } from "./alan-tracking.command.code.ts"
 
 const ROOT = "/nowhere"

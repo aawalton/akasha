@@ -5,7 +5,6 @@ import { agentPathOf } from "akasha/context/modules/warranting/warranting.module
 import { mistaking } from "../../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../../../../command-system/reading/reading.module.code.ts"
 import type { Given as Arguments } from "../../../modules/argument-reading/argument-reading.module.code.ts"
 import {
@@ -13,6 +12,7 @@ import {
   noPageSaid,
   worldFor,
 } from "../../../modules/change-running/change-running.module.code.ts"
+import { inputIn } from "../../../modules/piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../../modules/said-pathing/said-pathing.module.code.ts"
 import { ANSWER_CEILING, countLines, numbered } from "../../read/long-body/long-body.module.code.ts"
 

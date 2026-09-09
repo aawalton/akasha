@@ -2,10 +2,10 @@ import { readFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import type { Piping } from "@akasha/command-system/piping"
-import { inputIn } from "@akasha/command-system/piping"
 import { buildComposeInput } from "@akasha/google-email/compose-input-from-arguments"
 import type { ComposeInput } from "@akasha/google-email/types"
+import type { Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
+import { inputIn } from "../../../../commands/modules/piping/piping.module.code.ts"
 
 export const INPUT = "-"
 

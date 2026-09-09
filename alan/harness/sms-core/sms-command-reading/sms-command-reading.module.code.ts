@@ -3,7 +3,7 @@ import { resolve } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
 import { type Filing, filing } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { inputIn, type Piping } from "@akasha/command-system/piping"
+import { inputIn, type Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
 
 export const JSON_SAID = "--json"
 

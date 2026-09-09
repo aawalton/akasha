@@ -4,7 +4,7 @@ import { bodyIn, droppedAll, editsIn, keptEdits } from "@akasha/changes/edits-ke
 import { handedPageOf, handedUnder } from "@akasha/changes/subagent-handed"
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
-import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"

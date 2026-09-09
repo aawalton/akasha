@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { TERMINAL } from "../../../command-system/piping/piping.module.test-fixtures.ts"
+import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
 import { askedFor, filing } from "./mechanical-filing.module.code.ts"
 
 const GIVEN: Given = {

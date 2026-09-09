@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { put } from "@akasha/testing-system/putting"
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
-import { TERMINAL } from "../../../command-system/piping/piping.module.test-fixtures.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
+import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"
 import { builtIn } from "./file-arguing.module.code.ts"
 
 const scratch = scratchWorld()

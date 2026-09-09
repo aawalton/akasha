@@ -103,6 +103,7 @@ export const command = {
     "module/seat-act-calling",
     "module/parse-args",
     "module/answer-bytes",
+    "module/piping",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",
