@@ -5,6 +5,6 @@ export const chaosTheoryLowRisk = {
   pageTypeSlug: "world-skill",
   slug: "chaos-theory-low-risk",
   title: "Chaos Theory (Low-Risk)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

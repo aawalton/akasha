@@ -5,6 +5,6 @@ export const backalleyShortcut = {
   pageTypeSlug: "world-skill",
   slug: "backalley-shortcut",
   title: "Backalley Shortcut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

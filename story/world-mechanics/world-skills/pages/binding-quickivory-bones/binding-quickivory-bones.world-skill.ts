@@ -5,6 +5,6 @@ export const bindingQuickivoryBones = {
   pageTypeSlug: "world-skill",
   slug: "binding-quickivory-bones",
   title: "Binding: Quickivory Bones",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

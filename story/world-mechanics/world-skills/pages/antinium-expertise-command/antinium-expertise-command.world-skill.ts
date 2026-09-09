@@ -5,6 +5,6 @@ export const antiniumExpertiseCommand = {
   pageTypeSlug: "world-skill",
   slug: "antinium-expertise-command",
   title: "Antinium-Expertise Command",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

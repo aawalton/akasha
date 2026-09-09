@@ -5,6 +5,6 @@ export const antisepticJab = {
   pageTypeSlug: "world-skill",
   slug: "antiseptic-jab",
   title: "Antiseptic Jab",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const combinationBladeArtTheLonelySwordsSing = {
   pageTypeSlug: "world-skill",
   slug: "combination-blade-art-the-lonely-swords-sing",
   title: "Combination Blade Art: The Lonely Swords Sing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

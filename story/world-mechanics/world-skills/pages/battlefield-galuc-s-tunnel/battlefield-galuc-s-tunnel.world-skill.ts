@@ -5,6 +5,6 @@ export const battlefieldGalucSTunnel = {
   pageTypeSlug: "world-skill",
   slug: "battlefield-galuc-s-tunnel",
   title: "Battlefield: Galuc’s Tunnel",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

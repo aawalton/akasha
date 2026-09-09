@@ -5,6 +5,6 @@ export const boundSpellWordOfUndeath = {
   pageTypeSlug: "world-skill",
   slug: "bound-spell-word-of-undeath",
   title: "Bound Spell: Word of Undeath",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

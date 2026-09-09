@@ -5,6 +5,6 @@ export const channelStrike = {
   pageTypeSlug: "world-skill",
   slug: "channel-strike",
   title: "Channel Strike",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

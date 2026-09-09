@@ -5,6 +5,6 @@ export const bellhammerSImpact = {
   pageTypeSlug: "world-skill",
   slug: "bellhammer-s-impact",
   title: "Bellhammer’s Impact",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

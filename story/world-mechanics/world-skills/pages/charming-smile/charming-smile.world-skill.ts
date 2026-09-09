@@ -5,7 +5,7 @@ export const charmingSmile = {
   pageTypeSlug: "world-skill",
   slug: "charming-smile",
   title: "Charming Smile",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["enthralling-glance"],
   references: "jsonl",
 } as const satisfies WorldSkill

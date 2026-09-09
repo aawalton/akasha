@@ -5,6 +5,6 @@ export const awakenTheConstructs = {
   pageTypeSlug: "world-skill",
   slug: "awaken-the-constructs",
   title: "Awaken the Constructs",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

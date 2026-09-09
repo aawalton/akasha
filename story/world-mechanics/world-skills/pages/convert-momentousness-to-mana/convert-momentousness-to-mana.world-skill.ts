@@ -5,6 +5,6 @@ export const convertMomentousnessToMana = {
   pageTypeSlug: "world-skill",
   slug: "convert-momentousness-to-mana",
   title: "Convert Momentousness to Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

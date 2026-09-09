@@ -5,6 +5,6 @@ export const blessingOfArmor = {
   pageTypeSlug: "world-skill",
   slug: "blessing-of-armor",
   title: "Blessing of Armor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

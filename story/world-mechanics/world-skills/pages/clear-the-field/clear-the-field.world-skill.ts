@@ -5,6 +5,6 @@ export const clearTheField = {
   pageTypeSlug: "world-skill",
   slug: "clear-the-field",
   title: "Clear the Field",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

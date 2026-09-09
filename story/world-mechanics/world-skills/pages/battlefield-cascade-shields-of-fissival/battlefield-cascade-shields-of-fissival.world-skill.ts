@@ -5,6 +5,6 @@ export const battlefieldCascadeShieldsOfFissival = {
   pageTypeSlug: "world-skill",
   slug: "battlefield-cascade-shields-of-fissival",
   title: "Battlefield: Cascade Shields of Fissival",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

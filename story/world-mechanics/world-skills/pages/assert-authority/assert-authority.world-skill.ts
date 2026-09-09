@@ -5,6 +5,6 @@ export const assertAuthority = {
   pageTypeSlug: "world-skill",
   slug: "assert-authority",
   title: "Assert Authority",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

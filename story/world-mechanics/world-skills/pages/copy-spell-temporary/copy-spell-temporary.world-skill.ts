@@ -5,6 +5,6 @@ export const copySpellTemporary = {
   pageTypeSlug: "world-skill",
   slug: "copy-spell-temporary",
   title: "Copy Spell (Temporary)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

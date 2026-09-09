@@ -5,6 +5,6 @@ export const burnProtection = {
   pageTypeSlug: "world-skill",
   slug: "burn-protection",
   title: "Burn Protection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

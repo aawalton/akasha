@@ -5,6 +5,6 @@ export const championsAriseToBattleInArmorAndHealth = {
   pageTypeSlug: "world-skill",
   slug: "champions-arise-to-battle-in-armor-and-health",
   title: "Champions, Arise to Battle in Armor and Health",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

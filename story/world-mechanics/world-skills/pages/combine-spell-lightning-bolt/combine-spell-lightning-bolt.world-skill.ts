@@ -5,6 +5,6 @@ export const combineSpellLightningBolt = {
   pageTypeSlug: "world-skill",
   slug: "combine-spell-lightning-bolt",
   title: "Combine Spell: Lightning Bolt",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

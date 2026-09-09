@@ -5,6 +5,6 @@ export const apistaFormChangeAshbringerScourgebee = {
   pageTypeSlug: "world-skill",
   slug: "apista-form-change-ashbringer-scourgebee",
   title: "Apista: Form Change (Ashbringer Scourgebee)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

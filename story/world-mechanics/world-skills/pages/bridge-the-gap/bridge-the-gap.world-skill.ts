@@ -5,6 +5,6 @@ export const bridgeTheGap = {
   pageTypeSlug: "world-skill",
   slug: "bridge-the-gap",
   title: "Bridge the Gap",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

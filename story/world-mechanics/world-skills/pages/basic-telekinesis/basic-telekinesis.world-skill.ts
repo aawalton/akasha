@@ -5,6 +5,6 @@ export const basicTelekinesis = {
   pageTypeSlug: "world-skill",
   slug: "basic-telekinesis",
   title: "Basic Telekinesis",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const barSelectiveAdmission = {
   pageTypeSlug: "world-skill",
   slug: "bar-selective-admission",
   title: "Bar: Selective Admission",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

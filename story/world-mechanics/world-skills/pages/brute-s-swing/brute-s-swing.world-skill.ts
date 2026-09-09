@@ -5,7 +5,7 @@ export const bruteSSwing = {
   pageTypeSlug: "world-skill",
   slug: "brute-s-swing",
   title: "Brute’s Swing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["knight-s-riposte"],
   references: "jsonl",
 } as const satisfies WorldSkill

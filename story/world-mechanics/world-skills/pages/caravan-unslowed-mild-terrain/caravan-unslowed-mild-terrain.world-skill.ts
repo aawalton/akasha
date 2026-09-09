@@ -5,6 +5,6 @@ export const caravanUnslowedMildTerrain = {
   pageTypeSlug: "world-skill",
   slug: "caravan-unslowed-mild-terrain",
   title: "Caravan Unslowed (Mild Terrain)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

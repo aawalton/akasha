@@ -5,6 +5,6 @@ export const artifactsUncoverPotential = {
   pageTypeSlug: "world-skill",
   slug: "artifacts-uncover-potential",
   title: "Artifacts: Uncover Potential",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

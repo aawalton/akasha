@@ -5,6 +5,6 @@ export const constantFoeUndead = {
   pageTypeSlug: "world-skill",
   slug: "constant-foe-undead",
   title: "Constant Foe (Undead)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

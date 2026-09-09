@@ -5,6 +5,6 @@ export const apistaAgileFlier = {
   pageTypeSlug: "world-skill",
   slug: "apista-agile-flier",
   title: "Apista: Agile Flier",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

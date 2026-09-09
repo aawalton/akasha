@@ -5,6 +5,6 @@ export const antimagicIai = {
   pageTypeSlug: "world-skill",
   slug: "antimagic-iai",
   title: "Antimagic Iai",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

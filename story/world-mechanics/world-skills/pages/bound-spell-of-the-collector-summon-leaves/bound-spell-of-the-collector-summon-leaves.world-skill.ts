@@ -5,6 +5,6 @@ export const boundSpellOfTheCollectorSummonLeaves = {
   pageTypeSlug: "world-skill",
   slug: "bound-spell-of-the-collector-summon-leaves",
   title: "Bound Spell of the Collector – Summon Leaves",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

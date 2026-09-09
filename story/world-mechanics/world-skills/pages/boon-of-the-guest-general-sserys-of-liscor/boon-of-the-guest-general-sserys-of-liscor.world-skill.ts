@@ -5,6 +5,6 @@ export const boonOfTheGuestGeneralSserysOfLiscor = {
   pageTypeSlug: "world-skill",
   slug: "boon-of-the-guest-general-sserys-of-liscor",
   title: "Boon of the Guest: General Sserys of Liscor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const boonOfNumbtongue = {
   pageTypeSlug: "world-skill",
   slug: "boon-of-numbtongue",
   title: "Boon of Numbtongue",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

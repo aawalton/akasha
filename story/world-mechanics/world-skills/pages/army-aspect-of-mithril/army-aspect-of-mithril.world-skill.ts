@@ -5,6 +5,6 @@ export const armyAspectOfMithril = {
   pageTypeSlug: "world-skill",
   slug: "army-aspect-of-mithril",
   title: "Army: Aspect of Mithril",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

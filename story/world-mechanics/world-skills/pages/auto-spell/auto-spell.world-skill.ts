@@ -5,6 +5,6 @@ export const autoSpell = {
   pageTypeSlug: "world-skill",
   slug: "auto-spell",
   title: "Auto Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

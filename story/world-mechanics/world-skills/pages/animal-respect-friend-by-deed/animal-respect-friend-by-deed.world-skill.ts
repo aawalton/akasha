@@ -5,6 +5,6 @@ export const animalRespectFriendByDeed = {
   pageTypeSlug: "world-skill",
   slug: "animal-respect-friend-by-deed",
   title: "Animal Respect: Friend by Deed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

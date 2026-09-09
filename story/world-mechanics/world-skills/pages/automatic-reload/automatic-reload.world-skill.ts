@@ -5,6 +5,6 @@ export const automaticReload = {
   pageTypeSlug: "world-skill",
   slug: "automatic-reload",
   title: "Automatic Reload",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

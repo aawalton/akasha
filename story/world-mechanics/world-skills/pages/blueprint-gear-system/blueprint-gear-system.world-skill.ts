@@ -5,6 +5,6 @@ export const blueprintGearSystem = {
   pageTypeSlug: "world-skill",
   slug: "blueprint-gear-system",
   title: "Blueprint: Gear System",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

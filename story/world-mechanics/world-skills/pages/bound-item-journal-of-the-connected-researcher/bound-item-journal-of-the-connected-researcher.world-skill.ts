@@ -5,6 +5,6 @@ export const boundItemJournalOfTheConnectedResearcher = {
   pageTypeSlug: "world-skill",
   slug: "bound-item-journal-of-the-connected-researcher",
   title: "Bound Item: Journal of the Connected Researcher",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

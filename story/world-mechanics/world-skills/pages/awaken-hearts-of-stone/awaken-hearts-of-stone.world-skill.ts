@@ -5,6 +5,6 @@ export const awakenHeartsOfStone = {
   pageTypeSlug: "world-skill",
   slug: "awaken-hearts-of-stone",
   title: "Awaken, Hearts of Stone",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

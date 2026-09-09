@@ -5,6 +5,6 @@ export const coatingOfAcid = {
   pageTypeSlug: "world-skill",
   slug: "coating-of-acid",
   title: "Coating of Acid",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

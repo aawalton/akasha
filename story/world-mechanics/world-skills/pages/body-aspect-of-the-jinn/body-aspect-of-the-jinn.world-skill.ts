@@ -5,5 +5,5 @@ export const bodyAspectOfTheJinn = {
   pageTypeSlug: "world-skill",
   slug: "body-aspect-of-the-jinn",
   title: "Body: Aspect of the Jinn",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

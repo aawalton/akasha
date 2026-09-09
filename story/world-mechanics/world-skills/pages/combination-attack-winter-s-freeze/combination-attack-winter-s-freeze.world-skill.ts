@@ -5,6 +5,6 @@ export const combinationAttackWinterSFreeze = {
   pageTypeSlug: "world-skill",
   slug: "combination-attack-winter-s-freeze",
   title: "Combination Attack: Winter’s Freeze",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

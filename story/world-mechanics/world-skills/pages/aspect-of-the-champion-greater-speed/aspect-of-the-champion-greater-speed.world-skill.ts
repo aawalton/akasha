@@ -5,7 +5,7 @@ export const aspectOfTheChampionGreaterSpeed = {
   pageTypeSlug: "world-skill",
   slug: "aspect-of-the-champion-greater-speed",
   title: "Aspect of the Champion: Greater Speed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Aspect of the Champion – Greater Speed"],
   references: "jsonl",
 } as const satisfies WorldSkill

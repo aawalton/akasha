@@ -5,6 +5,6 @@ export const artbookSavedSketch = {
   pageTypeSlug: "world-skill",
   slug: "artbook-saved-sketch",
   title: "Artbook: Saved Sketch",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

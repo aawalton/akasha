@@ -5,6 +5,6 @@ export const clearStatementSpirits = {
   pageTypeSlug: "world-skill",
   slug: "clear-statement-spirits",
   title: "Clear Statement (Spirits)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

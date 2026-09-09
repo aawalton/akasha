@@ -5,6 +5,6 @@ export const barrierCrystallineDefense = {
   pageTypeSlug: "world-skill",
   slug: "barrier-crystalline-defense",
   title: "Barrier: Crystalline Defense",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const apistaBasicTraining = {
   pageTypeSlug: "world-skill",
   slug: "apista-basic-training",
   title: "Apista: Basic Training",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

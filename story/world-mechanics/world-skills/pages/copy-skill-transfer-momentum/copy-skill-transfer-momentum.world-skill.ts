@@ -5,6 +5,6 @@ export const copySkillTransferMomentum = {
   pageTypeSlug: "world-skill",
   slug: "copy-skill-transfer-momentum",
   title: "Copy Skill: Transfer Momentum",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

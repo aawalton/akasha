@@ -5,6 +5,6 @@ export const automaticAiming = {
   pageTypeSlug: "world-skill",
   slug: "automatic-aiming",
   title: "Automatic Aiming",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

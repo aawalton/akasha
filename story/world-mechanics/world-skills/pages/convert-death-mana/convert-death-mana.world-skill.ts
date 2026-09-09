@@ -5,6 +5,6 @@ export const convertDeathMana = {
   pageTypeSlug: "world-skill",
   slug: "convert-death-mana",
   title: "Convert Death Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

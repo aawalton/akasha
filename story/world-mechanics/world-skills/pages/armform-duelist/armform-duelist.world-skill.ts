@@ -5,6 +5,6 @@ export const armformDuelist = {
   pageTypeSlug: "world-skill",
   slug: "armform-duelist",
   title: "Armform: Duelist",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

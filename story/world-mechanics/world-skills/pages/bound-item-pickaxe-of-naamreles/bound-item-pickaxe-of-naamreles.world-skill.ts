@@ -5,5 +5,5 @@ export const boundItemPickaxeOfNaamreles = {
   pageTypeSlug: "world-skill",
   slug: "bound-item-pickaxe-of-naamreles",
   title: "Bound Item: Pickaxe of Naamreles",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

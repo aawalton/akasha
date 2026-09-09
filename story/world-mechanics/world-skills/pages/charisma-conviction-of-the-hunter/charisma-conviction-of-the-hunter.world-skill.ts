@@ -5,6 +5,6 @@ export const charismaConvictionOfTheHunter = {
   pageTypeSlug: "world-skill",
   slug: "charisma-conviction-of-the-hunter",
   title: "Charisma: Conviction of the Hunter",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

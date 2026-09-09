@@ -5,6 +5,6 @@ export const assignTitleReinhartFamily = {
   pageTypeSlug: "world-skill",
   slug: "assign-title-reinhart-family",
   title: "Assign Title (Reinhart Family)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

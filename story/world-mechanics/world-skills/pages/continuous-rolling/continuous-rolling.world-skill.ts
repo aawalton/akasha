@@ -5,6 +5,6 @@ export const continuousRolling = {
   pageTypeSlug: "world-skill",
   slug: "continuous-rolling",
   title: "Continuous Rolling",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

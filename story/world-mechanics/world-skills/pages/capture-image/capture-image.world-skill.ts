@@ -5,6 +5,6 @@ export const captureImage = {
   pageTypeSlug: "world-skill",
   slug: "capture-image",
   title: "Capture Image",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

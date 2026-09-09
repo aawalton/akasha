@@ -5,6 +5,6 @@ export const bansheeSVoice = {
   pageTypeSlug: "world-skill",
   slug: "banshee-s-voice",
   title: "Banshee’s Voice",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

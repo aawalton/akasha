@@ -5,6 +5,6 @@ export const changeViscosityOil = {
   pageTypeSlug: "world-skill",
   slug: "change-viscosity-oil",
   title: "Change Viscosity (Oil)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

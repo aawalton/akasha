@@ -5,6 +5,6 @@ export const coordinatedActionSafeBoarding = {
   pageTypeSlug: "world-skill",
   slug: "coordinated-action-safe-boarding",
   title: "Coordinated Action: Safe Boarding",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

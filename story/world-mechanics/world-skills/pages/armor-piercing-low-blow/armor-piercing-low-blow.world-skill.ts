@@ -5,6 +5,6 @@ export const armorPiercingLowBlow = {
   pageTypeSlug: "world-skill",
   slug: "armor-piercing-low-blow",
   title: "Armor-piercing Low Blow",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

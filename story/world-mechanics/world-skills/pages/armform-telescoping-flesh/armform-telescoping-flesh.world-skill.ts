@@ -5,6 +5,6 @@ export const armformTelescopingFlesh = {
   pageTypeSlug: "world-skill",
   slug: "armform-telescoping-flesh",
   title: "Armform: Telescoping Flesh",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

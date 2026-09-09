@@ -5,6 +5,6 @@ export const aspectOfTheInnTheGardenOfSanctuary = {
   pageTypeSlug: "world-skill",
   slug: "aspect-of-the-inn-the-garden-of-sanctuary",
   title: "Aspect of the Inn: The Garden of Sanctuary",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

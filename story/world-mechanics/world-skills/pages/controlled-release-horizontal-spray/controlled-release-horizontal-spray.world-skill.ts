@@ -5,6 +5,6 @@ export const controlledReleaseHorizontalSpray = {
   pageTypeSlug: "world-skill",
   slug: "controlled-release-horizontal-spray",
   title: "Controlled Release: Horizontal Spray",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const blessingOfThePaintedAntiniumSColors = {
   pageTypeSlug: "world-skill",
   slug: "blessing-of-the-painted-antinium-s-colors",
   title: "Blessing of the Painted Antinium’s Colors",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

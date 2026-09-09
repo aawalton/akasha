@@ -5,6 +5,6 @@ export const armformLiquid = {
   pageTypeSlug: "world-skill",
   slug: "armform-liquid",
   title: "Armform: Liquid",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

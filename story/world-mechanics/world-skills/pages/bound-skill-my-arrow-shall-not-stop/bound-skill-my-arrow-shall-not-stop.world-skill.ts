@@ -5,6 +5,6 @@ export const boundSkillMyArrowShallNotStop = {
   pageTypeSlug: "world-skill",
   slug: "bound-skill-my-arrow-shall-not-stop",
   title: "Bound Skill: My Arrow Shall Not Stop",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

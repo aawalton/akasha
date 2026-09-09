@@ -5,6 +5,6 @@ export const angleCut = {
   pageTypeSlug: "world-skill",
   slug: "angle-cut",
   title: "Angle Cut",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

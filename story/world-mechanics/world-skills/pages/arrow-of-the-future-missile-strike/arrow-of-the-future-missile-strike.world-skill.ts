@@ -5,6 +5,6 @@ export const arrowOfTheFutureMissileStrike = {
   pageTypeSlug: "world-skill",
   slug: "arrow-of-the-future-missile-strike",
   title: "Arrow of the Future: Missile Strike",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

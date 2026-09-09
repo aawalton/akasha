@@ -5,6 +5,6 @@ export const bodyRestoreStamina = {
   pageTypeSlug: "world-skill",
   slug: "body-restore-stamina",
   title: "Body: Restore Stamina",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const combinationSkillDanceOfTheTitan = {
   pageTypeSlug: "world-skill",
   slug: "combination-skill-dance-of-the-titan",
   title: "Combination Skill: Dance of the Titan",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

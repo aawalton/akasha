@@ -5,6 +5,6 @@ export const basicPerfectActionQuickSlash = {
   pageTypeSlug: "world-skill",
   slug: "basic-perfect-action-quick-slash",
   title: "Basic Perfect Action: Quick Slash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

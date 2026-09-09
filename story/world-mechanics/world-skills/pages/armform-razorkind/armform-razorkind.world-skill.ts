@@ -5,7 +5,7 @@ export const armformRazorkind = {
   pageTypeSlug: "world-skill",
   slug: "armform-razorkind",
   title: "Armform: Razorkind",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Armform (Razorkind)"],
   references: "jsonl",
 } as const satisfies WorldSkill

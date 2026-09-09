@@ -5,6 +5,6 @@ export const applyBasicEnchantment = {
   pageTypeSlug: "world-skill",
   slug: "apply-basic-enchantment",
   title: "Apply Basic Enchantment",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const assignRareQuests = {
   pageTypeSlug: "world-skill",
   slug: "assign-rare-quests",
   title: "Assign Rare Quests",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

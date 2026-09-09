@@ -5,6 +5,6 @@ export const bladeArtTwinCurvesOfTheMoon = {
   pageTypeSlug: "world-skill",
   slug: "blade-art-twin-curves-of-the-moon",
   title: "Blade Art: Twin Curves of the Moon",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

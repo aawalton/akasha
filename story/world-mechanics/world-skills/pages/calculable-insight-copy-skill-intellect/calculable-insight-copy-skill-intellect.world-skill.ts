@@ -5,6 +5,6 @@ export const calculableInsightCopySkillIntellect = {
   pageTypeSlug: "world-skill",
   slug: "calculable-insight-copy-skill-intellect",
   title: "Calculable Insight: Copy Skill (Intellect)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

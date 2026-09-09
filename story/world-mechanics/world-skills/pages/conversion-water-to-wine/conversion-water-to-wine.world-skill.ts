@@ -5,6 +5,6 @@ export const conversionWaterToWine = {
   pageTypeSlug: "world-skill",
   slug: "conversion-water-to-wine",
   title: "Conversion: Water to Wine",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

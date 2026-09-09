@@ -5,6 +5,6 @@ export const copyMagicalSeal = {
   pageTypeSlug: "world-skill",
   slug: "copy-magical-seal",
   title: "Copy Magical Seal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

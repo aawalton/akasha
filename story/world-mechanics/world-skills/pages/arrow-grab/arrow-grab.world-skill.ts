@@ -5,6 +5,6 @@ export const arrowGrab = {
   pageTypeSlug: "world-skill",
   slug: "arrow-grab",
   title: "Arrow Grab",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

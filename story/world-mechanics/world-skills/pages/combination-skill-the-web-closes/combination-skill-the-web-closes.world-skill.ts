@@ -5,6 +5,6 @@ export const combinationSkillTheWebCloses = {
   pageTypeSlug: "world-skill",
   slug: "combination-skill-the-web-closes",
   title: "Combination Skill: The Web Closes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

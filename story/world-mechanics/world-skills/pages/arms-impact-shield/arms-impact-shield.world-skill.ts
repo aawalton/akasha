@@ -5,6 +5,6 @@ export const armsImpactShield = {
   pageTypeSlug: "world-skill",
   slug: "arms-impact-shield",
   title: "Arms: Impact Shield",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

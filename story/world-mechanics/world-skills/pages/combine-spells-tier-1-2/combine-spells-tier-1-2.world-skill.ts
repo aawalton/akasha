@@ -5,6 +5,6 @@ export const combineSpellsTier12 = {
   pageTypeSlug: "world-skill",
   slug: "combine-spells-tier-1-2",
   title: "Combine Spells (Tier 1-2)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
