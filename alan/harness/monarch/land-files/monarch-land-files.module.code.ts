@@ -96,7 +96,7 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
     accountName: maps.accountNames.get(t.account.id) ?? t.account.name,
     accountSlug,
     categorySlug: t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
-    tagSlugs: t.tags.flatMap((tag) => {
+    tags: t.tags.flatMap((tag) => {
       const slug = maps.tags.get(tag.id)
       return slug === undefined ? [] : [slug]
     }),
@@ -224,7 +224,7 @@ const ENTRY_KEYS = [
   "categorySource",
   "categoryDecidedBy",
   "amazonOrderNumber",
-  "tagSlugs",
+  "tags",
   "split",
   "recurring",
   "needsReview",

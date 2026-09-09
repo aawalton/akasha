@@ -33,7 +33,7 @@ export type TransactionLine = {
   readonly categorySlug?: string
   readonly categorySource?: string
   readonly categoryDecidedBy?: string
-  readonly tagSlugs?: readonly string[]
+  readonly tags?: readonly string[]
   readonly transactionNote?: string
   readonly pending?: boolean
   readonly recurring?: boolean
