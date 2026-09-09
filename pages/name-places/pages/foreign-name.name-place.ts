@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const foreignName = {
   id: "01a04feb-819f-7c88-a837-385bf1c6a294",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "foreign-name",
   definition: "a name whose owner is outside akasha",
   nameFormat: null,

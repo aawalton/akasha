@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const pageHref = {
   id: "01a04fd4-3d75-7213-bde5-59110fc1ae06",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "page-href",
   definition: "the address a page is reached by from outside",
   nameFormat: null,

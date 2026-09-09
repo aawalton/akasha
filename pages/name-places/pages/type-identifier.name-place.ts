@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const typeIdentifier = {
   id: "01a04fc9-2ad6-7975-b70f-a1d56a933ee6",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "type-identifier",
   definition: "the name a type carries in code",
   nameFormat: "name-format/upper-camel-case",

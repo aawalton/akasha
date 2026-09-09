@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const thePlacesSheCarries = {
   id: "01a0657d-bb8e-7f49-9570-3db923301bf3",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "the-places-she-carries",
   title: "The Places She Carries — story design",
   world: "the-places-she-carries",

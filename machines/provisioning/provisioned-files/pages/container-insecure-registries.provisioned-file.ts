@@ -3,6 +3,7 @@ import type { ProvisionedFile } from "../provisioned-file.page-type.ts"
 export const containerInsecureRegistries = {
   id: "01a06862-af5c-7fa0-91f1-92764202b14a",
   pageTypeSlug: "provisioned-file",
+  type: "provisioned-file",
   slug: "container-insecure-registries",
   definition: "the cluster registry reached over plain http",
   content: "conf",

@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const folderName = {
   id: "01a04fd0-c6ea-77f5-8c92-d3fab1cd61b5",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "folder-name",
   definition: "the name a folder carries",
   nameFormat: "name-format/lower-kebab-case",

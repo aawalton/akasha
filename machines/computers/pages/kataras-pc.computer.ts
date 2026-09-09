@@ -3,6 +3,7 @@ import type { Computer } from "../computer.page-type.ts"
 export const katarasPc = {
   id: "019e8b92-3a42-758b-99e9-f9c73c1bc608",
   pageTypeSlug: "computer",
+  type: "computer",
   slug: "kataras-pc",
   title: "Katara’s PC",
   brand: "msi",

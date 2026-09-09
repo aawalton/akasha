@@ -3,6 +3,7 @@ import type { Stylesheet } from "@akasha/code/stylesheet"
 export const idleLook = {
   id: "01a0655e-d39a-7009-a44b-ee3914034117",
   pageTypeSlug: "stylesheet",
+  type: "stylesheet",
   slug: "idle-look",
   definition: "the look the idle game wears",
   styles: "css",

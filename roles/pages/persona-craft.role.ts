@@ -3,6 +3,7 @@ import type { Role } from "../role.page-type.ts"
 export const personaCraft = {
   id: "01a053c5-8d2c-7876-8481-ef02e6ed86e0",
   pageTypeSlug: "role",
+  type: "role",
   slug: "persona-craft",
   definition: "an agent making a persona's definition true and her voice her own",
   onCall: false,

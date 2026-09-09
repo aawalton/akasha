@@ -3,6 +3,7 @@ import type { Stylesheet } from "@akasha/code/stylesheet"
 export const readoutLook = {
   id: "01a05b01-48b2-799e-b213-1859233baef5",
   pageTypeSlug: "stylesheet",
+  type: "stylesheet",
   slug: "readout-look",
   definition: "how a reading and the rung it reached are dressed in a browser",
   styles: "css",

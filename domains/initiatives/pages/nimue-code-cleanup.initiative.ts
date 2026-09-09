@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const nimueCodeCleanup = {
   id: "01a07693-7ea9-7fa0-ab70-5d8e33381c8c",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "nimue-code-cleanup",
   domain: "workspace-package/code-system",
   persona: "nimue",

@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const aelwynStrengthTraining = {
   id: "01a07cf1-f428-7e0b-b26f-c7c657f361ba",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "aelwyn-strength-training",
   domain: "domain/fitness",
   persona: "aelwyn",

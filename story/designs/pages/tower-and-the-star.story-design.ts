@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const towerAndTheStar = {
   id: "01a0657d-bb8e-732f-a331-29297b95d834",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "tower-and-the-star",
   title: "Tower And The Star — story design",
   world: "tower-and-the-star",

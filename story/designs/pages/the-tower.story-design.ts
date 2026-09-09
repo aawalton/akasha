@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const theTower = {
   id: "01a0657d-bb8e-764d-a24a-103a24ed8e84",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "the-tower",
   title: "The Tower — story design",
   world: "personas",

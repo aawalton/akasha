@@ -3,6 +3,7 @@ import type { Computer } from "../computer.page-type.ts"
 export const alansLaptop = {
   id: "019e8b92-3b02-7f7c-8e7a-fcc28ccc57d8",
   pageTypeSlug: "computer",
+  type: "computer",
   slug: "alans-laptop",
   title: "Alan’s Laptop",
   brand: "apple",

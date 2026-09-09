@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const emberRepairTemperTasks = {
   id: "01a06cac-aa56-7519-8281-5622fa42a987",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "ember-repair-temper-tasks",
   domain: "domain/temper",
   persona: "ember",

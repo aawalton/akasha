@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const routeSegment = {
   id: "01a04fd4-3d73-79db-a3a7-e6f88084420c",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "route-segment",
   definition: "a fixed part of a route's path",
   nameFormat: "name-format/lower-kebab-case",

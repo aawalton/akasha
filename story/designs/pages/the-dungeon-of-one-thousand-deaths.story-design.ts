@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const theDungeonOfOneThousandDeaths = {
   id: "01a0657d-bb8d-7ffc-b09c-d6f4c937653e",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths — story design",
   world: "the-dungeon-of-one-thousand-deaths",

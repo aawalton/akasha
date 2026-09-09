@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const awenPageFoldersByIndex = {
   id: "01a0823b-74ce-744f-a860-1dc482cbd1c9",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "awen-page-folders-by-index",
   domain: "workspace-package/page",
   persona: "awen",

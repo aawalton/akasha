@@ -3,6 +3,7 @@ import type { Computer } from "../computer.page-type.ts"
 export const jensPc = {
   id: "019e8b92-3ac9-7d38-9957-fe81dda8abbb",
   pageTypeSlug: "computer",
+  type: "computer",
   slug: "jens-pc",
   title: "Jen’s PC",
   brand: "dell",

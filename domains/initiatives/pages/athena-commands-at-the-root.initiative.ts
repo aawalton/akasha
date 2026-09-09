@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const athenaCommandsAtTheRoot = {
   id: "01a06d11-9fb0-74b6-9028-01e427fb002d",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "athena-commands-at-the-root",
   domain: "workspace-package/command-system",
   persona: "athena",

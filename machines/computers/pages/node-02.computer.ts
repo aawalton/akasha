@@ -3,6 +3,7 @@ import type { Computer } from "../computer.page-type.ts"
 export const node02 = {
   id: "019e8b92-3b99-7f0e-b56f-6b072412828a",
   pageTypeSlug: "computer",
+  type: "computer",
   slug: "node-02",
   title: "node-02",
   cpuScore: 12969,

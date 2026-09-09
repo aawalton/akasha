@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const comeHere = {
   id: "01a0657d-bb8d-72ba-b35c-47714272cbed",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "come-here",
   title: "Come Here — story design",
   world: "come-here",

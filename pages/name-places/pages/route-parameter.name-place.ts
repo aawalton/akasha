@@ -3,6 +3,7 @@ import type { NamePlace } from "../name-place.page-type.ts"
 export const routeParameter = {
   id: "01a04fd4-3d74-7647-b787-d329d989e09e",
   pageTypeSlug: "name-place",
+  type: "name-place",
   slug: "route-parameter",
   definition: "the name of a part of a route's path that is filled in",
   nameFormat: "name-format/lower-camel-case",

@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const auraHarnessDrive = {
   id: "01a0675d-9d5f-79ba-aefb-404d5c9502eb",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "aura-harness-drive",
   domain: "domain/game-design",
   persona: "aura",

@@ -3,6 +3,7 @@ import type { Initiative } from "../initiative.page-type.ts"
 export const aranyaRootFolderShape = {
   id: "01a08257-6635-725b-b328-6665c66c0e46",
   pageTypeSlug: "initiative",
+  type: "initiative",
   slug: "aranya-root-folder-shape",
   domain: "domain/akasha",
   persona: "aranya",

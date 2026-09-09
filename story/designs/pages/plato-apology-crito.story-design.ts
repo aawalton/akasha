@@ -3,6 +3,7 @@ import type { StoryDesign } from "../story-design.page-type.ts"
 export const platoApologyCrito = {
   id: "01a0657d-bb8d-7b92-a031-b037bbba81cf",
   pageTypeSlug: "story-design",
+  type: "story-design",
   slug: "plato-apology-crito",
   title: "Plato: Apology, Crito — story design",
   world: "plato-apology-crito",
