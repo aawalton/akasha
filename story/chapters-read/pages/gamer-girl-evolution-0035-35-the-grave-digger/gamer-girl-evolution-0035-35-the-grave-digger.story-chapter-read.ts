@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution003535TheGraveDigger = {
   id: "01a06731-b0dd-7014-ba6b-1abb112cb990",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0035-35-the-grave-digger",
   title: "35 - The Grave Digger",
   story: "gamer-girl-evolution",

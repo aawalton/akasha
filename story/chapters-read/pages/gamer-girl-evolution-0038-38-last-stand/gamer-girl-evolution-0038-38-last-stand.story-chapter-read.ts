@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution003838LastStand = {
   id: "01a06731-b0dd-7017-a813-d9580428506a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0038-38-last-stand",
   title: "38 - Last Stand",
   story: "gamer-girl-evolution",

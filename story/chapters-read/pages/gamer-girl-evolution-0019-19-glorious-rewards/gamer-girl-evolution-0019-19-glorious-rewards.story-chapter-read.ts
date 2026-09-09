@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution001919GloriousRewards = {
   id: "01a06731-b0dd-7004-b8e4-220b8381bb7e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0019-19-glorious-rewards",
   title: "19 - Glorious Rewards",
   story: "gamer-girl-evolution",

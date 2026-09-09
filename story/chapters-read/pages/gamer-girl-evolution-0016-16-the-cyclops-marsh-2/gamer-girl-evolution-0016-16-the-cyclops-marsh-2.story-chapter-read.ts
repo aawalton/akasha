@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution001616TheCyclopsMarsh2 = {
   id: "01a06731-b0dd-7001-821e-e0bb946328c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0016-16-the-cyclops-marsh-2",
   title: "16 - The Cyclops' Marsh (2)",
   story: "gamer-girl-evolution",

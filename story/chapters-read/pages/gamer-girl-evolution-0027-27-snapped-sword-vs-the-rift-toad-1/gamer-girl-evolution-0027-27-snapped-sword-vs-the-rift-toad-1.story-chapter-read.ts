@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution002727SnappedSwordVsTheRiftToad1 = {
   id: "01a06731-b0dd-700c-80d9-b2e2bd6db01c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0027-27-snapped-sword-vs-the-rift-toad-1",
   title: "27 - Snapped Sword vs The Rift Toad (1)",
   story: "gamer-girl-evolution",

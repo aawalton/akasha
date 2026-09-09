@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004646TheEonianKing2 = {
   id: "01a06731-b0de-7002-bad0-f56eedb2409b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0046-46-the-eonian-king-2",
   title: "46 - The Eonian King (2)",
   story: "gamer-girl-evolution",

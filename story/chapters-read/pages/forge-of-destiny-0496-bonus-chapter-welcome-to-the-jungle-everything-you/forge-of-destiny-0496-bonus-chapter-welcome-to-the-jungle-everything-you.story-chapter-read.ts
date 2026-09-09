@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0496BonusChapterWelcomeToTheJungleEverythingYou = {
   id: "01a0672c-eb52-7008-9e20-70c0b50651d3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0496-bonus-chapter-welcome-to-the-jungle-everything-you",
   title: "Bonus Chapter Welcome to the Jungle: Everything you Want",
   story: "forge-of-destiny",

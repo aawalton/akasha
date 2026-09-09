@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004444TrainWreck = {
   id: "01a06731-b0de-7000-a022-029af1134b76",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0044-44-train-wreck",
   title: "44 - Train Wreck?",
   story: "gamer-girl-evolution",

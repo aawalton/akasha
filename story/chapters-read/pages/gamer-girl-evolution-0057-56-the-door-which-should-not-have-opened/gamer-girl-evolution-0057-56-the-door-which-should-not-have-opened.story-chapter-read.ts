@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution005756TheDoorWhichShouldNotHaveOpened = {
   id: "01a06731-b0df-7006-b4cf-6796a9b0534f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0057-56-the-door-which-should-not-have-opened",
   title: "56 - The Door Which Should Not Have Opened ",
   story: "gamer-girl-evolution",

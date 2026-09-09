@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution00033BlingBlingMaxing = {
   id: "01a06731-b0db-7014-8e4a-aa78c42912c3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0003-3-bling-bling-maxing",
   title: "3 – Bling Bling Maxing",
   story: "gamer-girl-evolution",

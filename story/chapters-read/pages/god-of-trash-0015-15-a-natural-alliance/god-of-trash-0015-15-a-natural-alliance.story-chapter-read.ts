@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash001515ANaturalAlliance = {
   id: "01a0672c-edb2-7002-9500-faef8bb5bb1f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0015-15-a-natural-alliance",
   title: "15. A Natural Alliance",
   story: "god-of-trash",

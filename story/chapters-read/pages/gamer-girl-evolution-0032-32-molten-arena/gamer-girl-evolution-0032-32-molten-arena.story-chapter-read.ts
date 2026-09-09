@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution003232MoltenArena = {
   id: "01a06731-b0dd-7011-9f04-657541f80f96",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0032-32-molten-arena",
   title: "32 - Molten Arena",
   story: "gamer-girl-evolution",

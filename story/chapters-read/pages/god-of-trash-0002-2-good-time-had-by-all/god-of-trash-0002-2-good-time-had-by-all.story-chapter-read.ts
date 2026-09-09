@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash00022GoodTimeHadByAll = {
   id: "01a0672c-edac-7000-8a97-55b9809499e3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0002-2-good-time-had-by-all",
   title: "2. Good Time Had By All",
   story: "god-of-trash",

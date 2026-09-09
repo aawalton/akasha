@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution005655AnotherDoorOpens = {
   id: "01a06731-b0df-7005-aa27-e10e65956844",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0056-55-another-door-opens",
   title: "55 - Another Door Opens!",
   story: "gamer-girl-evolution",

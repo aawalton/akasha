@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004242AquaRiftCore = {
   id: "01a06731-b0dd-701b-9fef-e18bbd53e471",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0042-42-aqua-rift-core",
   title: "42 - Aqua Rift-Core",
   story: "gamer-girl-evolution",

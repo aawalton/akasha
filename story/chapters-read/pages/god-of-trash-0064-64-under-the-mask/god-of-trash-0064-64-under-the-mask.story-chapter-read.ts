@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash006464UnderTheMask = {
   id: "01a0672c-edbe-7001-87da-da99d3bcac72",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0064-64-under-the-mask",
   title: "64. Under the Mask",
   story: "god-of-trash",

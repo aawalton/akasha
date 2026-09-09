@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash004141SmallFavorsForWetWomen = {
   id: "01a0672c-edb9-7002-bb94-5083dac86f37",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0041-41-small-favors-for-wet-women",
   title: "41. Small Favors for Wet Women",
   story: "god-of-trash",

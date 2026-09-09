@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004141HaveYouEverSeenAWeaponLikeThis = {
   id: "01a06731-b0dd-701a-a6a6-44bc0d45986c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0041-41-have-you-ever-seen-a-weapon-like-this",
   title: "41 - Have You Ever Seen A Weapon Like This?",
   story: "gamer-girl-evolution",

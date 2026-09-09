@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004848TheAncientDragonSovereignOfCurses = {
   id: "01a06731-b0de-7004-9ff6-ef25c3665ad5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0048-48-the-ancient-dragon-sovereign-of-curses",
   title: "48 - The Ancient Dragon Sovereign of Curses",
   story: "gamer-girl-evolution",

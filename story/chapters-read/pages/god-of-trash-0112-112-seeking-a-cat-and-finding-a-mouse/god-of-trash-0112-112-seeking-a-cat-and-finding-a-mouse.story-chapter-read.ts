@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0112112SeekingACatAndFindingAMouse = {
   id: "01a0672c-edc7-700b-a628-e25c0c3b3e7d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0112-112-seeking-a-cat-and-finding-a-mouse",
   title: "112. Seeking a Cat and Finding a Mouse",
   story: "god-of-trash",

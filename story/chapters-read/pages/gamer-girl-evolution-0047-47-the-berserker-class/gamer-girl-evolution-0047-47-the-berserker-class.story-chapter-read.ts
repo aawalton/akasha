@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution004747TheBerserkerClass = {
   id: "01a06731-b0de-7003-b561-087a83cb54aa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0047-47-the-berserker-class",
   title: "47 - The Berserker Class",
   story: "gamer-girl-evolution",

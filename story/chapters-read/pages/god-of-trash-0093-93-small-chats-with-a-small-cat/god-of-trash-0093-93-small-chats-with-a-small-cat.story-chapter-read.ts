@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash009393SmallChatsWithASmallCat = {
   id: "01a0672c-edc6-7000-91ed-e6562e5f3702",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0093-93-small-chats-with-a-small-cat",
   title: "93. Small Chats with a Small Cat",
   story: "god-of-trash",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash009292OnTheWayHome = {
   id: "01a0672c-edc5-7003-9f3c-2f89b00e2fae",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0092-92-on-the-way-home",
   title: "92. On The Way Home",
   story: "god-of-trash",

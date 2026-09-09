@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution001313HeyCelicaWhatSANoob = {
   id: "01a06731-b0dc-7004-903f-a17f9e6741ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0013-13-hey-celica-what-s-a-noob",
   title: "13 - Hey Celica... What's a Noob?",
   story: "gamer-girl-evolution",

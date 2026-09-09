@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash007979BellyOfTheBeast = {
   id: "01a0672c-edc3-7002-9afa-5dc9e2f32443",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0079-79-belly-of-the-beast",
   title: "79. Belly of the Beast",
   story: "god-of-trash",

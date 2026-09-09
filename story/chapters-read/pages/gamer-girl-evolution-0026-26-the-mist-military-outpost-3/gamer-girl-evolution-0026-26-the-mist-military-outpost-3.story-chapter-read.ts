@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution002626TheMistMilitaryOutpost3 = {
   id: "01a06731-b0dd-700b-b5c5-06a56e700f1e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0026-26-the-mist-military-outpost-3",
   title: "26 - The Mist Military Outpost (3)",
   story: "gamer-girl-evolution",

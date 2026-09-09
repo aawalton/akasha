@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution0053TemporaryHiatus = {
   id: "01a06731-b0df-7002-a444-4111faf569f2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0053-temporary-hiatus",
   title: "Temporary Hiatus",
   story: "gamer-girl-evolution",

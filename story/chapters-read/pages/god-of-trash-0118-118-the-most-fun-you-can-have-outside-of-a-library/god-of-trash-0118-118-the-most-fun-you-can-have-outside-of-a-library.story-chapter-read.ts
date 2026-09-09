@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const godOfTrash0118118TheMostFunYouCanHaveOutsideOfALibrary = {
   id: "01a0672c-edc8-7005-a2fc-92baa4105b76",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "god-of-trash-0118-118-the-most-fun-you-can-have-outside-of-a-library",
   title: "118. The Most Fun You Can Have Outside of a Library",
   story: "god-of-trash",

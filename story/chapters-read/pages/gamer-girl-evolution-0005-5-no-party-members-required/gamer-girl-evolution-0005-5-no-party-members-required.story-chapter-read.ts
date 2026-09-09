@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const gamerGirlEvolution00055NoPartyMembersRequired = {
   id: "01a06731-b0db-7016-a447-129a0a0ad65e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "gamer-girl-evolution-0005-5-no-party-members-required",
   title: "5 – No Party Members Required",
   story: "gamer-girl-evolution",
