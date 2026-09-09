@@ -16,7 +16,7 @@ import {
   writingFor,
 } from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const FOLDER = "temper/temper-progress/temper-tasks/pages"
+const FOLDER = "temper/progressions/temper-tasks/pages"
 
 const ROWS_PROPERTY = "progress"
 

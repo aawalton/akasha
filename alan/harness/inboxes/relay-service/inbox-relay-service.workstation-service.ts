@@ -9,7 +9,7 @@ export const inboxRelayService = {
   runs: [
     "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/inboxes-email/inboxes-email.readout.ts https://alanwalton.com",
     "-bun readouts/relay/readout-relay.module.code.ts readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts https://alanwalton.com",
-    "-bun readouts/relay/readout-relay.module.code.ts temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
+    "-bun readouts/relay/readout-relay.module.code.ts temper/progressions/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts https://alanwalton.com",
   ],
   enabled: true,
   needsSecrets: true,

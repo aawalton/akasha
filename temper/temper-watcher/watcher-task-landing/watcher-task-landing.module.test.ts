@@ -9,10 +9,10 @@ import {
   taskProgressPath,
 } from "./watcher-task-landing.module.code.ts"
 
-const PAGE_PATH = "temper/temper-progress/temper-tasks/pages/held-task/held-task.temper-task.ts"
+const PAGE_PATH = "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.ts"
 
 const PROGRESS_PATH =
-  "temper/temper-progress/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
+  "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
 
 const BODY =
   'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
