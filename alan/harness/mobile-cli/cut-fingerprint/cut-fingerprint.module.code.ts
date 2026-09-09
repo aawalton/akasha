@@ -133,7 +133,7 @@ export function fingerprintOf(values: z.infer<typeof cutFingerprintValues>): Cut
 export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
   const slug = cutPageNameFor(appSlug, fp.buildNumber)
   return [
-    `import type { MobileCut } from "../../${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.ts"`,
+    `import type { MobileCut } from "../../${MOBILE_CUT_PAGE_TYPE_SLUG}.page-type.types.ts"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
