@@ -5,7 +5,7 @@ import { partAt } from "@akasha/pages/page-file-parts"
 import type { MinedRestorePotion } from "../potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
 const MINE_PAGES: readonly string[] = [
-  "temper/temper-character/mines/pages/eso/eso.temper-mine.ts",
+  "temper/characters/mines/pages/eso/eso.temper-mine.ts",
   "pages/temper-mine/eso.temper-mine.md",
 ]
 
