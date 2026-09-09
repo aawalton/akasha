@@ -37,5 +37,6 @@ export const smilingjennyWeb = {
     "route/jenny-api-push-register",
     "route/jenny-sign-out",
     "route/jenny-sign-in",
+    "route/jenny-home",
   ],
 } as const satisfies RouterApp
