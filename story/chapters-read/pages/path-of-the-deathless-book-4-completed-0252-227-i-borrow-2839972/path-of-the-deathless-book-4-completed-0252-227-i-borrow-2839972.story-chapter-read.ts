@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0252227IBorrow2839972 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0252-227-i-borrow-2839972",
   title: "227 (I) Borrow",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 252,
   ownLength: 2499,
   unitSlug: "words",

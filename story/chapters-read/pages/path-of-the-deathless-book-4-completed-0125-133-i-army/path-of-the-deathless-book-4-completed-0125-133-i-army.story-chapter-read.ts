@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0125133IArmy = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0125-133-i-army",
   title: "133 (I) Army",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 125,
   ownLength: 0,
   unitSlug: "words",

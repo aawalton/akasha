@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0257229IiVolunteerIi2847794 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0257-229-ii-volunteer-ii-2847794",
   title: "229 (II) Volunteer [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 257,
   ownLength: 2021,
   unitSlug: "words",

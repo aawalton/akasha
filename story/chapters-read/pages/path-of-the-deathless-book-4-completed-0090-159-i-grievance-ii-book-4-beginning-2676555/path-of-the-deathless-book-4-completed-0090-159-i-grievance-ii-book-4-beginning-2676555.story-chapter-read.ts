@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0090159IGrievanceIiBook4Beginning26
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0090-159-i-grievance-ii-book-4-beginning-2676555",
   title: "159 (I) Grievance [II] [Book 4 Beginning]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 90,
   ownLength: 3032,
   unitSlug: "words",

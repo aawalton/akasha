@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0211169ICell = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0211-169-i-cell",
   title: "169 (I) Cell",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 211,
   ownLength: 0,
   unitSlug: "words",

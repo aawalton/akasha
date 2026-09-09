@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0131136IAssimilationI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0131-136-i-assimilation-i",
   title: "136 (I)  Assimilation [I] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 131,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0169154IiWeapon = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0169-154-ii-weapon",
   title: "154 (II) Weapon",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 169,
   ownLength: 0,
   unitSlug: "words",

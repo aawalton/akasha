@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0233218IGaslight2812923 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0233-218-i-gaslight-2812923",
   title: "218 (I) Gaslight",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 233,
   ownLength: 2580,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0168188IiiDecider2749821 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0168-188-iii-decider-2749821",
   title: "188 (III) Decider",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 168,
   ownLength: 3298,
   unitSlug: "words",

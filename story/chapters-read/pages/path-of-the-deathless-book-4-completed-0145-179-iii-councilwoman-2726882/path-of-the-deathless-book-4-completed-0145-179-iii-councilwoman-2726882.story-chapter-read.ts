@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0145179IiiCouncilwoman2726882 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0145-179-iii-councilwoman-2726882",
   title: "179 (III) Councilwoman",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 145,
   ownLength: 2227,
   unitSlug: "words",

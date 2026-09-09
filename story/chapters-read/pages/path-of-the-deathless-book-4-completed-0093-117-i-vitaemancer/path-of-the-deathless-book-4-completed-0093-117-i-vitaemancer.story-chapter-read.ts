@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0093117IVitaemancer = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0093-117-i-vitaemancer",
   title: "117 (I)   Vitaemancer",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 93,
   ownLength: 0,
   unitSlug: "words",

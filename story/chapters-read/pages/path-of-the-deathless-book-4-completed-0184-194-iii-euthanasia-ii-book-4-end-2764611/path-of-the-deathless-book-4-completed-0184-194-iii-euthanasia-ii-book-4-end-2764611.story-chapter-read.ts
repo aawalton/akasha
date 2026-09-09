@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0184194IiiEuthanasiaIiBook4End27646
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0184-194-iii-euthanasia-ii-book-4-end-2764611",
   title: "194 (III) Euthanasia [II] [Book 4 End]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 184,
   ownLength: 3233,
   unitSlug: "words",

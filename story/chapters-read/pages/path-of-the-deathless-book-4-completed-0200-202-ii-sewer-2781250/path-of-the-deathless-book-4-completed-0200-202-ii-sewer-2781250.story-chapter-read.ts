@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0200202IiSewer2781250 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0200-202-ii-sewer-2781250",
   title: "202 (II) Sewer",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 200,
   ownLength: 2693,
   unitSlug: "words",

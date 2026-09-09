@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0114168ILegend2696894 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0114-168-i-legend-2696894",
   title: "168 (I) Legend",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 114,
   ownLength: 7875,
   unitSlug: "words",

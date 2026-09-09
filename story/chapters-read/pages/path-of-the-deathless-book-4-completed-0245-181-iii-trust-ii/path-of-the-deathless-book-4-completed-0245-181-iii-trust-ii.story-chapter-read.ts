@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0245181IiiTrustIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0245-181-iii-trust-ii",
   title: "181 (III) Trust [II] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 245,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0111126ICompetition = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0111-126-i-competition",
   title: "126 (I)  Competition",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 111,
   ownLength: 0,
   unitSlug: "words",

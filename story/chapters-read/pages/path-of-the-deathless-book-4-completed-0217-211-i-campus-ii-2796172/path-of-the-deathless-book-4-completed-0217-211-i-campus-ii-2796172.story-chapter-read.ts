@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0217211ICampusIi2796172 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0217-211-i-campus-ii-2796172",
   title: "211 (I) Campus [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 217,
   ownLength: 2424,
   unitSlug: "words",

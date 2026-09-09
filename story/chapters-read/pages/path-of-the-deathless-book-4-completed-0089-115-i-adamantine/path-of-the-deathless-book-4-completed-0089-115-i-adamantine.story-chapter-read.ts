@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0089115IAdamantine = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0089-115-i-adamantine",
   title: "115 (I)   Adamantine",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 89,
   ownLength: 0,
   unitSlug: "words",

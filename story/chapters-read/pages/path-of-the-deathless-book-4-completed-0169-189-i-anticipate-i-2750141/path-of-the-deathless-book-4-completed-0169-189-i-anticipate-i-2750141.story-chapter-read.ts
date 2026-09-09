@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0169189IAnticipateI2750141 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0169-189-i-anticipate-i-2750141",
   title: "189 (I) Anticipate [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 169,
   ownLength: 3528,
   unitSlug: "words",

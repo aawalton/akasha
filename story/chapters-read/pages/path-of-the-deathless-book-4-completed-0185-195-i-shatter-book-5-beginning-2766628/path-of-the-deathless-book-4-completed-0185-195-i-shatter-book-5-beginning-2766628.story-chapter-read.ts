@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0185195IShatterBook5Beginning276662
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0185-195-i-shatter-book-5-beginning-2766628",
   title: "195 (I) Shatter [Book 5 Beginning]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 185,
   ownLength: 3109,
   unitSlug: "words",

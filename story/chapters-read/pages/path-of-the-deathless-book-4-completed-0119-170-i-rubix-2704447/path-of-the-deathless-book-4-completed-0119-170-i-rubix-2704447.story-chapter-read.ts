@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0119170IRubix2704447 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0119-170-i-rubix-2704447",
   title: "170 (I) Rubix",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 119,
   ownLength: 3869,
   unitSlug: "words",

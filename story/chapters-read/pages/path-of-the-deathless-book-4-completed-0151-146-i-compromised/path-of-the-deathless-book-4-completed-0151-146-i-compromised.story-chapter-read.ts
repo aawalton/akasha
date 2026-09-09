@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0151146ICompromised = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0151-146-i-compromised",
   title: "146 (I) Compromised",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 151,
   ownLength: 0,
   unitSlug: "words",

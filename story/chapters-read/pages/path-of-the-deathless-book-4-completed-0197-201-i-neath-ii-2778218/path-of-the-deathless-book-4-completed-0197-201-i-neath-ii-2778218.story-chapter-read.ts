@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0197201INeathIi2778218 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0197-201-i-neath-ii-2778218",
   title: "201 (I) Neath [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 197,
   ownLength: 2898,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0134175IiiEscape2717561 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0134-175-iii-escape-2717561",
   title: "175 (III) Escape",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 134,
   ownLength: 2381,
   unitSlug: "words",

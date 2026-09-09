@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0180157IWeakness = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0180-157-i-weakness",
   title: "157 (I)  Weakness",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 180,
   ownLength: 0,
   unitSlug: "words",

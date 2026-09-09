@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0209206IiiAcademyIv2789497 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0209-206-iii-academy-iv-2789497",
   title: "206 (III) Academy [IV]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 209,
   ownLength: 4609,
   unitSlug: "words",

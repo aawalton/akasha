@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0094160IAvatar2679317 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0094-160-i-avatar-2679317",
   title: "160 (I) Avatar",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 94,
   ownLength: 3229,
   unitSlug: "words",

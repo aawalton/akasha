@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0138139IiLeveling = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0138-139-ii-leveling",
   title: "139 (II) Leveling ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 138,
   ownLength: 0,
   unitSlug: "words",

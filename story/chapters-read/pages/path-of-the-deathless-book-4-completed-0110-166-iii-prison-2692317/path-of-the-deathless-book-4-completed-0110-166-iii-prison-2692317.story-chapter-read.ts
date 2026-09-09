@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0110166IiiPrison2692317 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0110-166-iii-prison-2692317",
   title: "166 (III) Prison",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 110,
   ownLength: 1489,
   unitSlug: "words",

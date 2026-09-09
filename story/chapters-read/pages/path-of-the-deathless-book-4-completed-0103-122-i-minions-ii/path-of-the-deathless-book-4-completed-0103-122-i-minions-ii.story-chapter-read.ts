@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0103122IMinionsIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0103-122-i-minions-ii",
   title: "122 (I) Minions [II] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 103,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0217171IBreakout = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0217-171-i-breakout",
   title: "171 (I) Breakout",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 217,
   ownLength: 0,
   unitSlug: "words",
