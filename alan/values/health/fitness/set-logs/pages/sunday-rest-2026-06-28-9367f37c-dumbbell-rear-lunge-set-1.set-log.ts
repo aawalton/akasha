@@ -12,7 +12,7 @@ export const sundayRest202606289367f37cDumbbellRearLungeSet1 = {
   rpe: 5,
   sessionSlug: "sunday-rest-2026-06-28-9367f37c",
   setLogDate: "2026-06-28",
-  daySlug: "day-2026-06-28",
+  day: "day-2026-06-28",
   setNumber: 1,
   weight: 20,
 } as const satisfies SetLog

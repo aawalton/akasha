@@ -12,6 +12,6 @@ export const saturdayLegs20260725C0759e62SingleLegGluteBridgeSet1 = {
   rpe: 7,
   sessionSlug: "saturday-legs-2026-07-25-c0759e62",
   setLogDate: "2026-07-25",
-  daySlug: "day-2026-07-25",
+  day: "day-2026-07-25",
   setNumber: 1,
 } as const satisfies SetLog

@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { ActivityType } from "./properties/activity-type.select-property.ts"
-import type { DaySlug } from "./properties/day-slug.relation-property.ts"
+import type { Day } from "./properties/day.relation-property.ts"
 import type { Distance } from "./properties/distance.number-property.ts"
 import type { DurationSeconds } from "./properties/duration-seconds.number-property.ts"
 import type { ExerciseSlug } from "./properties/exercise-slug.relation-property.ts"
@@ -28,7 +28,7 @@ export type SetLog = Page & {
   sessionSlug: SessionSlug
   setLogDate: SetLogDate
   setNumber: SetNumber
-  daySlug: DaySlug
+  day: Day
   weight?: Weight
 }
 
@@ -50,7 +50,7 @@ export const setLog = {
     "number-property/weight",
     "relation-property/exercise-slug",
     "text-property/session-slug",
-    "relation-property/day-slug",
+    "relation-property/day",
     "computed-property/set-volume",
     "select-property/activity-type",
     "text-property/note",
@@ -67,7 +67,7 @@ export const setLog = {
     { pagePropertySlug: "number-property/rpe", required: false, many: false },
     { pagePropertySlug: "text-property/session-slug", required: true, many: false },
     { pagePropertySlug: "calendar-date-property/set-log-date", required: true, many: false },
-    { pagePropertySlug: "relation-property/day-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/day", required: true, many: false },
     { pagePropertySlug: "number-property/set-number", required: true, many: false },
     { pagePropertySlug: "number-property/weight", required: false, many: false },
     { pagePropertySlug: "computed-property/set-volume", required: false, many: false },

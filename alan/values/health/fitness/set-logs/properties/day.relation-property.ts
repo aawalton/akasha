@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type DaySlug = Slug
+export type Day = Slug
 
-export const daySlug = {
+export const day = {
   id: "01a077c9-150b-7560-ba89-d3c1c8821d62",
   pageTypeSlug: "relation-property",
-  slug: "day-slug",
-  propertySlug: "day-slug",
+  slug: "day",
+  propertySlug: "day",
   definition: "the tracked day a set falls on",
   targetPageTypeSlug: "page-type/day",
   invariants: [
