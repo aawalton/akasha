@@ -72,6 +72,7 @@ export const command = {
     "module/holding",
     "module/body-merging",
     "module/change-freshness",
+    "module/commit-author",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
