@@ -1,8 +1,8 @@
 import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { DEFAULT_VOICE_INFER_URL } from "@akasha/voice-core/voice/infer-endpoint"
-import { buildKokoroSpeechSegments } from "@akasha/voice-core/voice/speech"
+import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
+import { buildKokoroSpeechSegments } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 import { ensureReadAloudRendition } from "../../kokoro-render/kokoro-render.module.code.ts"
 import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 

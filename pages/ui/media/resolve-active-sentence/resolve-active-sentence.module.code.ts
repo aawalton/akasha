@@ -1,4 +1,4 @@
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 
 export function resolveActiveSentence(
   marks: readonly SentenceMark[],

@@ -5,8 +5,8 @@ import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import {
   estimateChapterSentenceMarks,
   estimateChapterSentenceMarksFromN,
-} from "@akasha/voice-core/voice/estimate-marks"
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+} from "akasha/alan/harness/voice-core/estimate-marks/estimate-marks.module.code.ts"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { parseHlsExtinf } from "../hls-extinf/hls-extinf.module.code.ts"
 
 async function readReadAloudPlaylist(

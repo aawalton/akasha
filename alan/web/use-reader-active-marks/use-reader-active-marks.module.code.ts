@@ -2,7 +2,10 @@
 
 import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { useOptionalPlayingSession } from "@akasha/pages-ui/media/playing-session-context"
-import { type SentenceMark, sentenceMarkSchema } from "@akasha/voice-core/voice/mark-schema"
+import {
+  type SentenceMark,
+  sentenceMarkSchema,
+} from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 

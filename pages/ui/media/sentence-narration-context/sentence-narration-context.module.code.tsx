@@ -1,6 +1,6 @@
 "use client"
 
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { createContext, type ReactNode, useContext } from "react"
 
 export interface SentenceNarrationValue {

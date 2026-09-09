@@ -64,7 +64,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/voice-core": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "@fontsource-variable/literata": "^5.2.5",
     "@supabase/supabase-js": "^2.104.0",

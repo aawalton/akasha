@@ -4,7 +4,7 @@ import { KOKORO_STREAM_VARIANT, STORED_READ_ALOUD_VARIANT } from "@akasha/pages-
 import { planPlayFromSentence } from "@akasha/pages-ui/media/play-from-sentence"
 import type { ActiveSessionInit } from "@akasha/pages-ui/media/playing-session"
 import { useOptionalPlayingSession } from "@akasha/pages-ui/media/playing-session-context"
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { type ComponentProps, useCallback, useMemo } from "react"
 import { useLocation } from "react-router"
 import { PageDetailWithReadMark } from "../page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"

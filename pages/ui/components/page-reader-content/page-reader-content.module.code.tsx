@@ -34,7 +34,7 @@ import { useReaderProgressWriter } from "@akasha/pages-ui-components/use-reader-
 import { useRestoreReadPosition } from "@akasha/pages-ui-components/use-restore-read-position"
 import { useSentenceHighlight } from "@akasha/pages-ui-components/use-sentence-highlight"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000

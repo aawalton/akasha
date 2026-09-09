@@ -13,7 +13,7 @@ import {
 } from "@akasha/pages-ui/media/media-src"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import { isRecord } from "@akasha/utils/narrow/is-record"
-import type { SentenceMark } from "@akasha/voice-core/voice/mark-schema"
+import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
 
 const READING_STORY_SLUG = "reading-story"

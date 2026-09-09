@@ -258,12 +258,6 @@
         "react-router": ">=7",
       },
     },
-    "alan/harness/voice-core": {
-      "name": "@akasha/voice-core",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "alan/music/spotify": {
       "name": "@akasha/spotify",
       "bin": {
@@ -300,7 +294,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/voice-core": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "@fontsource-variable/literata": "^5.2.5",
         "@supabase/supabase-js": "^2.104.0",
@@ -792,7 +785,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/voice-core": "workspace:*",
         "@types/mdast": "^4.0.4",
         "mdast-util-to-hast": "^13.2.1",
         "react-markdown": "^10.1.0",
@@ -836,7 +828,6 @@
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/voice-core": "workspace:*",
         "@tanstack/react-virtual": "^3.14.10",
         "zod": "^4.3.6",
       },
@@ -2042,8 +2033,6 @@
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
-
-    "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 

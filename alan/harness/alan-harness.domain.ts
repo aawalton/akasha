@@ -20,7 +20,7 @@ export const alanHarness = {
     "domain/alan-readouts",
     "domain/attributes",
     "workspace-package/readout",
-    "workspace-package/voice-core",
+    "domain/voice-core",
     "workspace-package/idle-system",
     "domain/sms-access",
     "domain/sms-core",

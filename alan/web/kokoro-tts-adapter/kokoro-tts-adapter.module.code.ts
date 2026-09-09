@@ -1,5 +1,5 @@
 import type { NativeTtsAdapter, NativeTtsEvent } from "@akasha/pages-ui/media/native-tts-adapter"
-import { buildKokoroSpeechInput } from "@akasha/voice-core/voice/speech"
+import { buildKokoroSpeechInput } from "akasha/alan/harness/voice-core/speech/speech.module.code.ts"
 import { z } from "zod"
 import {
   getKokoroTts,

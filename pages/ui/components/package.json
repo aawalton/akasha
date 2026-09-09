@@ -142,7 +142,6 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/voice-core": "workspace:*",
     "@tanstack/react-virtual": "^3.14.10",
     "zod": "^4.3.6"
   }
