@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaSolsburyHill = {
   id: "019ea4ca-ccef-700f-b7bf-ee9320a7888e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-solsbury-hill",
   title: "Solsbury Hill",
   artist: "sia",

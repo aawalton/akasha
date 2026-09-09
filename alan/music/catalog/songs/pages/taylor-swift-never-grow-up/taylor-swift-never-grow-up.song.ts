@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftNeverGrowUp = {
   id: "019ea416-3dfa-7293-9f7c-209dae686435",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-never-grow-up",
   title: "Never Grow Up",
   artist: "taylor-swift",

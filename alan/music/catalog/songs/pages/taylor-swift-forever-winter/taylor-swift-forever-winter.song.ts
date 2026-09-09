@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftForeverWinter = {
   id: "019ea416-2788-7c07-a873-84fd6d4df077",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-forever-winter",
   title: "Forever Winter",
   artist: "taylor-swift",

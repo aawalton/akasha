@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIThinkHeKnows = {
   id: "019ea416-29f6-78de-bc79-ad8c9baa9289",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-think-he-knows",
   title: "I Think He Knows",
   artist: "taylor-swift",

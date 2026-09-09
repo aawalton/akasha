@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBlankSpace = {
   id: "019ea416-0298-7727-96de-056ed3e397b8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-blank-space",
   title: "Blank Space",
   artist: "taylor-swift",

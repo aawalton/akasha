@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaSpaceBetween = {
   id: "019ea4cb-a6df-72f9-99bf-150e98de0e4e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-space-between",
   title: "Space Between",
   artist: "sia",

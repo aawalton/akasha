@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftShouldVeSaidNo = {
   id: "019ea416-3d8a-7dc5-bac2-8cc0702f1065",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-should-ve-said-no",
   title: "Should’ve Said No",
   artist: "taylor-swift",

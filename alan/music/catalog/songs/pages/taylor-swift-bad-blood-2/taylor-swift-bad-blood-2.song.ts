@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBadBlood2 = {
   id: "019ea416-160e-73e8-a107-8ca2b92b4358",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-bad-blood-2",
   title: "Bad Blood",
   artist: "taylor-swift",

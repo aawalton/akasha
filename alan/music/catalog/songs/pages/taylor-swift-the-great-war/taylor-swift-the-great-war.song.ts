@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheGreatWar = {
   id: "019ea416-41ed-75ef-9fef-6f616649f07a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-great-war",
   title: "The Great War",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAllTooWellJakeSVersion = {
   id: "019ea416-0426-7245-81b5-555d83e7a831",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-all-too-well-jake-s-version",
   title: "All Too Well (Jake’s version)",
   artist: "taylor-swift",

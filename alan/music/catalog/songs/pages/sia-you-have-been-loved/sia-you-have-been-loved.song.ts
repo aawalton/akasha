@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaYouHaveBeenLoved = {
   id: "019ea4ce-0e3f-7213-94bf-c8645fc41714",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-you-have-been-loved",
   title: "You Have Been Loved",
   artist: "sia",

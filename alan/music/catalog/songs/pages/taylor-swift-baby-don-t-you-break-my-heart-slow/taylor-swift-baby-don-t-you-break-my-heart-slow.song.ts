@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBabyDonTYouBreakMyHeartSlow = {
   id: "019ea416-0f2e-7c54-b436-3053295f63da",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-baby-don-t-you-break-my-heart-slow",
   title: "Baby, Don’t You Break My Heart Slow",
   artist: "taylor-swift",

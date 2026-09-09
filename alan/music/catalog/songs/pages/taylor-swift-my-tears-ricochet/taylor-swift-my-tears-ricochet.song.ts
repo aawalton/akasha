@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMyTearsRicochet = {
   id: "019ea416-318a-78fa-9607-abcc129f5ddd",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-my-tears-ricochet",
   title: "my tears ricochet",
   artist: "taylor-swift",

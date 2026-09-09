@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftClothesFromMissMabel = {
   id: "019ea416-0cf1-7101-9601-658c61beb4d1",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-clothes-from-miss-mabel",
   title: "Clothes From Miss Mabel",
   artist: "taylor-swift",

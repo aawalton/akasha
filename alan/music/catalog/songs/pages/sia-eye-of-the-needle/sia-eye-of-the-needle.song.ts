@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaEyeOfTheNeedle = {
   id: "019ea4c5-e39e-7b42-9741-4a4d84dbd98b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
   artist: "sia",

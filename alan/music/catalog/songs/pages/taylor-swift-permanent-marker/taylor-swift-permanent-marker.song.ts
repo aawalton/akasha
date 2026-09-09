@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftPermanentMarker = {
   id: "019ea416-39e0-7229-b085-74d0790eee81",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-permanent-marker",
   title: "Permanent Marker",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaNoNewFriends = {
   id: "019ea4c6-cb25-7152-b074-5bf743023162",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-no-new-friends",
   title: "No New Friends",
   artist: "sia",

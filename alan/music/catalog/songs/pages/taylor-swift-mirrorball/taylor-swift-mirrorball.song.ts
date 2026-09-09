@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMirrorball = {
   id: "019ea416-3d24-7b71-8f41-cd23dba27f16",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-mirrorball",
   title: "mirrorball",
   artist: "taylor-swift",

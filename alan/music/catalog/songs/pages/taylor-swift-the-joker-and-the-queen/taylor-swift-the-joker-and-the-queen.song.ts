@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheJokerAndTheQueen = {
   id: "019ea416-3ec2-7c2b-88e6-4ee9e073ceae",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-joker-and-the-queen",
   title: "The Joker and the Queen",
   artist: "taylor-swift",

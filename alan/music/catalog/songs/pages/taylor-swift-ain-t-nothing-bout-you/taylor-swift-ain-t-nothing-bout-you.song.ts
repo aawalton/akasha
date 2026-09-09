@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAinTNothingBoutYou = {
   id: "019ea416-139d-7ec4-86fc-c6f91793a265",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-ain-t-nothing-bout-you",
   title: "Ain’t Nothing ’bout You",
   artist: "taylor-swift",

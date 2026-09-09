@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaSchneemann = {
   id: "019ea4ca-84e6-7142-b0ee-d8fd9a8425b6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-schneemann",
   title: "Schneemann",
   artist: "sia",

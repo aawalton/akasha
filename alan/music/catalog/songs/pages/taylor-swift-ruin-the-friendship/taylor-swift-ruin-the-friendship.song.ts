@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftRuinTheFriendship = {
   id: "019ea416-34ed-712f-a34c-0d28b8a29929",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-ruin-the-friendship",
   title: "Ruin the Friendship",
   artist: "taylor-swift",

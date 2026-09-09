@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaNeverGiveUp = {
   id: "019ea4c8-952e-7364-968f-e9803ccfc0b8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-never-give-up",
   title: "Never Give Up",
   artist: "sia",

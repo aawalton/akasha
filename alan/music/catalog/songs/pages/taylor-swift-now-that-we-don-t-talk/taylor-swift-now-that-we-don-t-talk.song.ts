@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftNowThatWeDonTTalk = {
   id: "019ea416-3e46-7aa5-a11e-a453598f7d53",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-now-that-we-don-t-talk",
   title: "Now That We Don’t Talk",
   artist: "taylor-swift",

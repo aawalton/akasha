@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftSoHighSchool = {
   id: "019ea416-2e80-7432-9715-24ceae68e00a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-so-high-school",
   title: "So High School",
   artist: "taylor-swift",

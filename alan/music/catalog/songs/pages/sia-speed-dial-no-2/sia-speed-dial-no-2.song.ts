@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaSpeedDialNo2 = {
   id: "019ea4cb-8255-7587-a5f3-094394a1d057",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-speed-dial-no-2",
   title: "Speed Dial No 2",
   artist: "sia",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftShakeItOff = {
   id: "019ea416-3564-7a0c-93c0-8d74d5703c1a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-shake-it-off",
   title: "Shake It Off",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIBetYouThinkAboutMe = {
   id: "019ea416-1ce2-7073-ad7d-80f793adfdb9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-bet-you-think-about-me",
   title: "I Bet You Think About Me",
   artist: "taylor-swift",

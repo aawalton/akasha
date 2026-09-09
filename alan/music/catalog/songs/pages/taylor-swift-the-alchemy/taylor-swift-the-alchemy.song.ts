@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheAlchemy = {
   id: "019ea416-3fe6-7e6b-981f-c58c680acd44",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-alchemy",
   title: "The Alchemy",
   artist: "taylor-swift",

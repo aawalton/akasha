@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaMyHeartIsOpen = {
   id: "019ea4c9-c649-779b-9d77-87af59f17db2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-my-heart-is-open",
   title: "My Heart Is Open",
   artist: "sia",

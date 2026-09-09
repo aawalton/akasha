@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIDLie = {
   id: "019ea416-28be-768f-982c-16a26cbc5f94",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-d-lie",
   title: "I’d Lie",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftICanFixHimNoReallyICan = {
   id: "019ea416-2c60-7966-a896-e67907f279ce",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-can-fix-him-no-really-i-can",
   title: "I Can Fix Him (No Really I Can)",
   artist: "taylor-swift",

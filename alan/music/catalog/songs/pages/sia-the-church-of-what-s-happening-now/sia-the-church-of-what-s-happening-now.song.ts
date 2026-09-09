@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaTheChurchOfWhatSHappeningNow = {
   id: "019ea4cc-7986-7fc9-b02e-ab4fcf4995cc",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-the-church-of-what-s-happening-now",
   title: "The Church of What’s Happening Now",
   artist: "sia",

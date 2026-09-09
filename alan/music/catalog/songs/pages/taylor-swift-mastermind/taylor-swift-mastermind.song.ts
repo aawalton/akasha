@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMastermind = {
   id: "019ea416-2526-7682-b105-33902152c3f5",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-mastermind",
   title: "Mastermind",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheFateOfOphelia = {
   id: "019ea416-2da5-7dd3-b9ac-dc60676e5d68",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-fate-of-ophelia",
   title: "The Fate of Ophelia",
   artist: "taylor-swift",

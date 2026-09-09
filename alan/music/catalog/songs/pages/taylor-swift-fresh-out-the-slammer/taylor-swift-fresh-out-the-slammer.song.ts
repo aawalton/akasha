@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftFreshOutTheSlammer = {
   id: "019ea416-1c16-7aaa-aa6d-3ade7d51823d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-fresh-out-the-slammer",
   title: "Fresh Out the Slammer",
   artist: "taylor-swift",

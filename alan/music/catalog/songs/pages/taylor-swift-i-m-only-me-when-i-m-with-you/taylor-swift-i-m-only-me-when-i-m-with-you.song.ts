@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIMOnlyMeWhenIMWithYou = {
   id: "019ea416-2626-7fd4-b4df-88ac63226b95",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-m-only-me-when-i-m-with-you",
   title: "I’m Only Me When I’m With You",
   artist: "taylor-swift",

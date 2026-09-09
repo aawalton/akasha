@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBeinWithMyBaby = {
   id: "019ea416-0fd0-7715-9d41-4160de49d4ae",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-bein-with-my-baby",
   title: "Bein’ With My Baby",
   artist: "taylor-swift",

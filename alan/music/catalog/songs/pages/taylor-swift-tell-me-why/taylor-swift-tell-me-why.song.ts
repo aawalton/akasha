@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTellMeWhy = {
   id: "019ea416-3018-782b-b3cb-20573907c3d4",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-tell-me-why",
   title: "Tell Me Why",
   artist: "taylor-swift",

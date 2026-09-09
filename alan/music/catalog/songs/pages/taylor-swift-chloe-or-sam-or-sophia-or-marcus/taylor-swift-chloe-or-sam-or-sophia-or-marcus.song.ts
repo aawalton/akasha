@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftChloeOrSamOrSophiaOrMarcus = {
   id: "019ea416-0ba3-7b21-b168-fb7e6d87d452",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-chloe-or-sam-or-sophia-or-marcus",
   title: "Chloe or Sam or Sophia or Marcus",
   artist: "taylor-swift",

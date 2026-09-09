@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheBlackDog = {
   id: "019ea416-3597-7445-b8d5-95a65138af9f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-black-dog",
   title: "The Black Dog",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDuskTillDawn = {
   id: "019ea4c4-0188-7839-b7e7-743573ddc7c7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-dusk-till-dawn",
   title: "Dusk Till Dawn",
   artist: "sia",

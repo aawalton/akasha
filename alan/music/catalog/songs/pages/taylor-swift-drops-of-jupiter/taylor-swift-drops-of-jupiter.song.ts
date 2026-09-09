@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftDropsOfJupiter = {
   id: "019ea416-150a-775f-9de8-cac316cc4929",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-drops-of-jupiter",
   title: "Drops of Jupiter",
   artist: "taylor-swift",

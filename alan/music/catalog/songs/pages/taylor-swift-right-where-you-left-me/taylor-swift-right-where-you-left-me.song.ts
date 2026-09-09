@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftRightWhereYouLeftMe = {
   id: "019ea416-3be2-7a70-a8d6-8200e2b45a29",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-right-where-you-left-me",
   title: "right where you left me",
   artist: "taylor-swift",

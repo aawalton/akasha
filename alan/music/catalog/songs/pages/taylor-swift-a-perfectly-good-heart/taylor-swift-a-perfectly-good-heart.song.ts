@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAPerfectlyGoodHeart = {
   id: "019ea416-1306-7f3f-8315-2787b145240c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-a-perfectly-good-heart",
   title: "A Perfectly Good Heart",
   artist: "taylor-swift",

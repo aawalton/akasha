@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftOutOfTheWoods = {
   id: "019ea416-2fb4-74ae-b45f-d0c33c04a27a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-out-of-the-woods",
   title: "Out of the Woods",
   artist: "taylor-swift",

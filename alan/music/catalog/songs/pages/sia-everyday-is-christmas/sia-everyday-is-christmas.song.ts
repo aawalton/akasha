@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaEverydayIsChristmas = {
   id: "019ea4c5-7b55-76e0-827f-d0fca75beedc",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-everyday-is-christmas",
   title: "Everyday Is Christmas",
   artist: "sia",

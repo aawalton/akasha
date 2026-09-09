@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaYouReMyFlame = {
   id: "019ea4ce-95fa-75ce-a8dc-0e2f7ca403eb",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-you-re-my-flame",
   title: "You’re My Flame",
   artist: "sia",

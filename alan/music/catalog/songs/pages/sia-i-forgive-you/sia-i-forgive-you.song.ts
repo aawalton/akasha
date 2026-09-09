@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaIForgiveYou = {
   id: "019ea4c9-935c-743f-acf2-2b4ac958c488",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",
   artist: "sia",

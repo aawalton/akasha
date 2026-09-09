@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftGuiltyAsSin = {
   id: "019ea416-1e43-75a4-9e7a-e137f7100f59",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-guilty-as-sin",
   title: "Guilty as Sin?",
   artist: "taylor-swift",

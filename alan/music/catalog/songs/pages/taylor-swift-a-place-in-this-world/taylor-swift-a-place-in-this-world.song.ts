@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAPlaceInThisWorld = {
   id: "019ea416-133a-7a88-8de0-71f90ffc0e84",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-a-place-in-this-world",
   title: "A Place in This World",
   artist: "taylor-swift",

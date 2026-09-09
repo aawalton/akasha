@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaSoberAndUnkissed = {
   id: "019ea4cc-42a2-7d3c-8b09-8c126b21555c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-sober-and-unkissed",
   title: "Sober and Unkissed",
   artist: "sia",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIForgotThatYouExisted = {
   id: "019ea416-2cc7-7ccf-a2f7-dddb4618e9c3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-forgot-that-you-existed",
   title: "I Forgot That You Existed",
   artist: "taylor-swift",

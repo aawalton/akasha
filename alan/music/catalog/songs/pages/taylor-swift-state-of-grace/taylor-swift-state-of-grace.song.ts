@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftStateOfGrace = {
   id: "019ea416-362e-72fa-9d0b-c2096a0f4f15",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-state-of-grace",
   title: "State of Grace",
   artist: "taylor-swift",

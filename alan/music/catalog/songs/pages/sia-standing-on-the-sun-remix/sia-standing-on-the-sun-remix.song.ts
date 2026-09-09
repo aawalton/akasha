@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaStandingOnTheSunRemix = {
   id: "019ea4ce-8c36-7443-8c28-82a1c98fe532",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-standing-on-the-sun-remix",
   title: "Standing on the Sun Remix",
   artist: "sia",

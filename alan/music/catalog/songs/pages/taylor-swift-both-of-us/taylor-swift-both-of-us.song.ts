@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBothOfUs = {
   id: "019ea416-10f0-7771-ba66-efeb5c3db614",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-both-of-us",
   title: "Both of Us",
   artist: "taylor-swift",

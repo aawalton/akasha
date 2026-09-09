@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftSnowOnTheBeach = {
   id: "019ea416-3dbf-74cb-bb79-4554c17aa1a3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-snow-on-the-beach",
   title: "Snow on the Beach",
   artist: "taylor-swift",

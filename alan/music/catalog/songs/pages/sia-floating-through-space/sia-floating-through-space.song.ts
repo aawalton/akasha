@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaFloatingThroughSpace = {
   id: "019ea4c7-81f5-77fe-9baf-7197c661f681",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-floating-through-space",
   title: "Floating Through Space",
   artist: "sia",

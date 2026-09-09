@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftPaperRings = {
   id: "019ea416-341d-7fcf-99d5-b4ff53af99ee",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-paper-rings",
   title: "Paper Rings",
   artist: "taylor-swift",

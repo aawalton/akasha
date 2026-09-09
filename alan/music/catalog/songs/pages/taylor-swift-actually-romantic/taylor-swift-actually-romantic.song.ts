@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftActuallyRomantic = {
   id: "019ea416-0abe-77e3-99b3-367dc4845257",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-actually-romantic",
   title: "Actually Romantic",
   artist: "taylor-swift",

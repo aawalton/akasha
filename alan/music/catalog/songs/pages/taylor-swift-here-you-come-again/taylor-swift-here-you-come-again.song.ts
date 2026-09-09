@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftHereYouComeAgain = {
   id: "019ea416-18c1-78dc-9a1f-898beb11f437",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-here-you-come-again",
   title: "Here You Come Again",
   artist: "taylor-swift",

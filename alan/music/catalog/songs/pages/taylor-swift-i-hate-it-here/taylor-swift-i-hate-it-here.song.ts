@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIHateItHere = {
   id: "019ea416-2b57-7b22-8a9b-4e5f4b9dccfc",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-hate-it-here",
   title: "I Hate It Here",
   artist: "taylor-swift",

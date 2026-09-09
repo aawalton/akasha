@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftSoItGoes = {
   id: "019ea416-2ee6-7aae-9a43-6400034989e2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-so-it-goes",
   title: "So It Goes…",
   artist: "taylor-swift",

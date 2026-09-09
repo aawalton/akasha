@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaExperteaseReadySetGo = {
   id: "019ea4c2-98b1-72b0-9d41-07a17d06cf4c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-expertease-ready-set-go",
   title: "Expertease (Ready Set Go)",
   artist: "sia",

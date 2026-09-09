@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAllYouHadToDoWasStay = {
   id: "019ea416-0c11-740e-b4e7-209d2de3da22",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-all-you-had-to-do-was-stay",
   title: "All You Had to Do Was Stay",
   artist: "taylor-swift",

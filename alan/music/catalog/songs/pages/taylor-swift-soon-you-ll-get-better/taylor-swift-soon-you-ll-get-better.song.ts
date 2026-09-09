@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftSoonYouLlGetBetter = {
   id: "019ea416-37ed-76c1-b766-cba8308cef95",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-soon-you-ll-get-better",
   title: "Soon You’ll Get Better",
   artist: "taylor-swift",

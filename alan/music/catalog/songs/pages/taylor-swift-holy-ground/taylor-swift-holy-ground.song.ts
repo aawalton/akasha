@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftHolyGround = {
   id: "019ea416-268a-7981-af4e-abafa98e318c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-holy-ground",
   title: "Holy Ground",
   artist: "taylor-swift",

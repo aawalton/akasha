@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIWishYouWould = {
   id: "019ea416-2052-7448-88b1-4361f2076ac7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-wish-you-would",
   title: "I Wish You Would",
   artist: "taylor-swift",

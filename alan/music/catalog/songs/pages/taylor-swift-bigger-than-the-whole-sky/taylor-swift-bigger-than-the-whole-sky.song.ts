@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBiggerThanTheWholeSky = {
   id: "019ea416-049d-7128-84ec-d9ac056475be",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-bigger-than-the-whole-sky",
   title: "Bigger Than the Whole Sky",
   artist: "taylor-swift",

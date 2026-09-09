@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftFatherFigure = {
   id: "019ea416-26bc-7544-bfde-f304ab7ce8c4",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-father-figure",
   title: "Father Figure",
   artist: "taylor-swift",

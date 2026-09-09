@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftEyesOpen = {
   id: "019ea416-1dac-7916-9bb7-5c9c5ad81df0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-eyes-open",
   title: "Eyes Open",
   artist: "taylor-swift",

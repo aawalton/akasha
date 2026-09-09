@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftICanSeeYou = {
   id: "019ea416-22de-7d3e-b2a8-a0ae55bb30fa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-can-see-you",
   title: "I Can See You",
   artist: "taylor-swift",

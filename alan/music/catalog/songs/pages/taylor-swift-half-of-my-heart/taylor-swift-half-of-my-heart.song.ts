@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftHalfOfMyHeart = {
   id: "019ea416-2857-7ccc-8fd6-296e9e7307f1",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-half-of-my-heart",
   title: "Half of My Heart",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaStrongerThanEver = {
   id: "019ea4cd-4598-7bab-95e7-e080ccccc47e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-stronger-than-ever",
   title: "Stronger Than Ever",
   artist: "sia",

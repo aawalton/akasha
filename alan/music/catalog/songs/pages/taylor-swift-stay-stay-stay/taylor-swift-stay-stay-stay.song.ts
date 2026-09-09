@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftStayStayStay = {
   id: "019ea416-3b45-774e-b4d8-a1eedc20ea06",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-stay-stay-stay",
   title: "Stay Stay Stay",
   artist: "taylor-swift",

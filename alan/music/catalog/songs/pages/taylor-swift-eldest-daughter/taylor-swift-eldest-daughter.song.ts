@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftEldestDaughter = {
   id: "019ea416-0efc-7213-b32f-654eaab8e452",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-eldest-daughter",
   title: "Eldest Daughter",
   artist: "taylor-swift",

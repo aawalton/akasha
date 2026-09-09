@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIKnewItIKnewYou = {
   id: "019ea416-27bb-7a46-8a89-b77c34aa503b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-knew-it-i-knew-you",
   title: "I Knew It, I Knew You",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMessageInABottle = {
   id: "019ea416-1ab8-7193-adee-760f43754a0f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-message-in-a-bottle",
   title: "Message in a Bottle",
   artist: "taylor-swift",

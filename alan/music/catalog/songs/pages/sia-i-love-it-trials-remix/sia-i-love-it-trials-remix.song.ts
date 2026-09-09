@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaILoveItTrialsRemix = {
   id: "019ea4c8-7af1-7b36-866c-e3402b0d5ef8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-i-love-it-trials-remix",
   title: "I Love It (Trials remix)",
   artist: "sia",

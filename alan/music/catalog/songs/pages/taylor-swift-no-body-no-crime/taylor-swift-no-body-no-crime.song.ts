@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftNoBodyNoCrime = {
   id: "019ea416-2f19-75d4-95f9-3807d3358a72",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-no-body-no-crime",
   title: "no body, no crime",
   artist: "taylor-swift",

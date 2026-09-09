@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMaroon = {
   id: "019ea416-2125-7cb1-91d6-0174291052b2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-maroon",
   title: "Maroon",
   artist: "taylor-swift",

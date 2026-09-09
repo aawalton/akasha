@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaUnderneathTheMistletoe = {
   id: "019ea4ca-b001-74de-ab8b-ec1553d21833",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-underneath-the-mistletoe",
   title: "Underneath the Mistletoe",
   artist: "sia",

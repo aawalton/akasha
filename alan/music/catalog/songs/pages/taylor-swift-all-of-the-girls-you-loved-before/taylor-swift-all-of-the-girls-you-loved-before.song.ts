@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   id: "019ea416-03eb-7d00-9f5f-e10a64b78e60",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-all-of-the-girls-you-loved-before",
   title: "All of the Girls You Loved Before",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheBestDay = {
   id: "019ea416-40e9-7a5b-9a00-31dd37cbf3b3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-best-day",
   title: "The Best Day",
   artist: "taylor-swift",

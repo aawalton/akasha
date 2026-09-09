@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftSayDonTGo = {
   id: "019ea416-411e-7bf3-bd96-5ac7e4d04579",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-say-don-t-go",
   title: "Say Don’t Go",
   artist: "taylor-swift",

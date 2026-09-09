@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftEvermore = {
   id: "019ea416-0555-7b7a-ac17-0202e8b1e550",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-evermore",
   title: "evermore",
   artist: "taylor-swift",

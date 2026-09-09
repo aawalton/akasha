@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBetteDavisEyes = {
   id: "019ea416-12d0-7b96-b16f-78e18540ebef",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-bette-davis-eyes",
   title: "Bette Davis Eyes",
   artist: "taylor-swift",

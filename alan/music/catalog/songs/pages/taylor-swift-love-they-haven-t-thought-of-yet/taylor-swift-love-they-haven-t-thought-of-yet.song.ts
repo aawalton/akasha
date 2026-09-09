@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftLoveTheyHavenTThoughtOfYet = {
   id: "019ea416-2203-750f-a88c-fd98bc97ed3e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-love-they-haven-t-thought-of-yet",
   title: "Love They Haven't Thought Of Yet",
   artist: "taylor-swift",

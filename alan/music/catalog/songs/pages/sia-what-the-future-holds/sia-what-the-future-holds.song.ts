@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaWhatTheFutureHolds = {
   id: "019ea4cc-1730-78d8-8e59-d723ac55a5af",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-what-the-future-holds",
   title: "What the Future Holds",
   artist: "sia",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBestDaysOfYourLife = {
   id: "019ea416-146c-75ff-bcae-3520d4523e44",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-best-days-of-your-life",
   title: "Best Days of Your Life",
   artist: "taylor-swift",

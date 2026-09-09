@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAllNightDiner = {
   id: "019ea416-16ab-72db-92f6-1a9e0b810b6a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-all-night-diner",
   title: "All Night Diner",
   artist: "taylor-swift",

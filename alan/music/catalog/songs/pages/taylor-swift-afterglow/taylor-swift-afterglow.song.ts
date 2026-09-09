@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftAfterglow = {
   id: "019ea416-1164-73ac-9224-9b8106bba941",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-afterglow",
   title: "Afterglow",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftMyBoyOnlyBreaksHisFavoriteToys = {
   id: "019ea416-394b-7004-8756-84feff7f58bb",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-my-boy-only-breaks-his-favorite-toys",
   title: "My Boy Only Breaks His Favorite Toys",
   artist: "taylor-swift",

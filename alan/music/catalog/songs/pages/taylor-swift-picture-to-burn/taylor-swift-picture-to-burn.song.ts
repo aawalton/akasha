@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftPictureToBurn = {
   id: "019ea416-4220-7363-ba25-a8e40f30feb0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-picture-to-burn",
   title: "Picture to Burn",
   artist: "taylor-swift",

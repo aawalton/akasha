@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftHoax = {
   id: "019ea416-2319-75d5-a1d4-7f75d1364887",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-hoax",
   title: "hoax",
   artist: "taylor-swift",

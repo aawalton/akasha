@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftGetawayCar = {
   id: "019ea416-1ee1-714f-9760-f05a767d1962",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-getaway-car",
   title: "Getaway Car",
   artist: "taylor-swift",

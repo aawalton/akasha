@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftForeverAlways = {
   id: "019ea416-1ddf-7421-ae69-caaec616ca50",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-forever-always",
   title: "Forever & Always",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIAmEveryShellWashedUponTheShore = {
   id: "019ea416-2bf0-74b0-91e1-513e4ad7ed43",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-am-every-shell-washed-upon-the-shore",
   title: "I Am Every Shell Washed Upon the Shore",
   artist: "taylor-swift",

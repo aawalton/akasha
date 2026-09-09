@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftBetterThanRevenge = {
   id: "019ea416-08db-7778-abbe-341cd056eb74",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-better-than-revenge",
   title: "Better Than Revenge",
   artist: "taylor-swift",

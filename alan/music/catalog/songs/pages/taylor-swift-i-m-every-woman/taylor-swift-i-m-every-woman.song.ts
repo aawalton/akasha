@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftIMEveryWoman = {
   id: "019ea416-1b78-726a-aa87-ab27d2879237",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-i-m-every-woman",
   title: "I’m Every Woman",
   artist: "taylor-swift",
