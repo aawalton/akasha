@@ -7,7 +7,7 @@ export const howFarBehindIAmOnPeople = {
   title: "How Far Behind I Am On People",
   definition: "connection as a debt I carry rather than a tank I refill",
   parents: ["resources"],
-  relatedSlugs: ["how-much-company-i-can-take", "being-alone-on-purpose"],
+  related: ["how-much-company-i-can-take", "being-alone-on-purpose"],
   settled:
     "It builds at about an hour a day even with nobody, and a good hour pays it down.\n\nA bad hour puts about ten back on, so avoiding one is worth seeking ten.\n\nThe unit is a quality-weighted hour, not a clock hour, and the two differ by an order of magnitude.\n\nAbout ten thousand hours of it stand behind me, out of twenty years of decline.\n\nLoneliness is the gauge, and watching it moves the needle.",
 } as const satisfies AllAboutAlanTopic

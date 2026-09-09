@@ -7,7 +7,7 @@ export const theOddsOfAHardEvening = {
   title: "The Odds Of A Hard Evening",
   definition: "how often time with Jen comes in hard, and why I cannot feel the odds",
   parents: ["what-makes-a-person-expensive"],
-  relatedSlugs: [
+  related: [
     "why-i-overspend-on-the-marriage",
     "why-people-read-as-unsafe",
     "blank-check-mode-and-recovery-mode",

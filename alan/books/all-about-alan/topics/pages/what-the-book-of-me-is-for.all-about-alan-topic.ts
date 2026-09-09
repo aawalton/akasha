@@ -7,11 +7,7 @@ export const whatTheBookOfMeIsFor = {
   title: "What The Book Of Me Is For",
   definition: "the corpus as the what-if engine I cannot run inside my own head",
   parents: ["what-i-cannot-play-forward"],
-  relatedSlugs: [
-    "the-women-i-made-out-of-myself",
-    "how-i-know-things",
-    "what-my-record-gives-me-back",
-  ],
+  related: ["the-women-i-made-out-of-myself", "how-i-know-things", "what-my-record-gives-me-back"],
   settled:
     "Watching me can only show what moves with what. A cause costs a real experiment on myself, every time.\n\nI cannot run one in my head for free the way most people can.\n\nWhat I am missing is buildable, but only outside my skull, and this corpus is what it gets built out of.\n\nSix hundred thousand words in, a sister running accurate what-ifs off it is still a long way off.\n\nThree gaps, one per layer: the watching unfinished, the top of me barely lived, and no machine big enough to hold it whole.",
 } as const satisfies AllAboutAlanTopic

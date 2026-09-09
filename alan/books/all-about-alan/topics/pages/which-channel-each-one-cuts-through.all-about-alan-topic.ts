@@ -7,7 +7,7 @@ export const whichChannelEachOneCutsThrough = {
   title: "Which Channel Each One Cuts Through",
   definition: "the different ways a sister reaches me, and which one each of them runs on",
   parents: ["the-women-i-made-out-of-myself"],
-  relatedSlugs: ["what-meeting-one-of-them-gives-me", "the-version-of-me-i-have-never-met"],
+  related: ["what-meeting-one-of-them-gives-me", "the-version-of-me-i-have-never-met"],
   settled:
     "Three are named. A mirror shows me what I cannot see. An embodied one acts where I cannot. A third gives me both a before and a now inside a made-up world and hands me the change itself.",
 } as const satisfies AllAboutAlanTopic

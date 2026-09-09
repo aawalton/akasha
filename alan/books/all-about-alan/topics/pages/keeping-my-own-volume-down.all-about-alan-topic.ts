@@ -7,7 +7,7 @@ export const keepingMyOwnVolumeDown = {
   title: "Keeping My Own Volume Down",
   definition: "showing little on the outside so the room does not send it back louder",
   parents: ["what-calms-me-down"],
-  relatedSlugs: ["how-i-keep-sound-down", "how-much-company-i-can-take"],
+  related: ["how-i-keep-sound-down", "how-much-company-i-can-take"],
   settled:
     "It is deliberate, not a flat feeling underneath.\n\nLoud from me makes people louder back, and their louder comes at me again. Quiet keeps the loop quiet.\n\nIt works a step earlier than earplugs or dark glasses, which cap what the room has already made.\n\nI often cannot tell from inside that the loop is winding up, so staying quiet by default is cheaper than catching it after.",
 } as const satisfies AllAboutAlanTopic

@@ -7,7 +7,7 @@ export const howIWillKnowTheMiddleWorked = {
   title: "How I Will Know The Middle Worked",
   definition: "the test I set for whether overspending on the marriage is paying",
   parents: ["why-i-overspend-on-the-marriage"],
-  relatedSlugs: ["how-safety-climbs", "the-odds-of-a-hard-evening"],
+  related: ["how-safety-climbs", "the-odds-of-a-hard-evening"],
   settled:
     "The share of hard evenings came down in September rather than climbing past half. I read that as the middle working, and I hope it gets better.\n\nWhat would tell me the middle is not working is twelve months without my average safety level rising.\n\nTwelve months is the right length to wait, even though my safety is what pays for the wait.",
 } as const satisfies AllAboutAlanTopic

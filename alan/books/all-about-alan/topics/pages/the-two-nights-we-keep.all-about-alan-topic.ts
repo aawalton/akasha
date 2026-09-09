@@ -7,7 +7,7 @@ export const theTwoNightsWeKeep = {
   title: "The Two Nights We Keep",
   definition: "two nights a week on the calendar, one for how she connects and one for how I do",
   parents: ["living-with-jen"],
-  relatedSlugs: [
+  related: [
     "how-a-hard-talk-with-jen-gets-safer",
     "what-an-activity-costs-me",
     "working-out-how-she-thinks",

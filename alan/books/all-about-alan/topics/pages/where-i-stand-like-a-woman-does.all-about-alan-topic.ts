@@ -7,7 +7,7 @@ export const whereIStandLikeAWomanDoes = {
   title: "Where I Stand Like A Woman Does",
   definition: "the shape my position shares with women's, and why their material lands on me",
   parents: ["where-i-land-on-gender"],
-  relatedSlugs: ["being-alone-at-the-centre"],
+  related: ["being-alone-at-the-centre"],
   settled:
     "Both of us are measured against the defaults of the group we are not in, and both do the translating inside a system built to those defaults.\n\nDominance, exploitation and condescension run the same direction in both, still load-bearing though shifting.\n\nFeminist songs land because they describe a shared coping shape rather than a shared grievance.\n\nA woman's presence reliably raises my safety, and the positive reaction to women and to feminine signals built up over years.",
 } as const satisfies AllAboutAlanTopic

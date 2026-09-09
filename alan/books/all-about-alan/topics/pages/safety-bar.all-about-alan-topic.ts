@@ -7,5 +7,5 @@ export const safetyBar = {
   title: "Safety Bar",
   definition: "the calm my body can hold",
   parents: ["resource-bars"],
-  relatedSlugs: ["safety-level"],
+  related: ["safety-level"],
 } as const satisfies AllAboutAlanTopic

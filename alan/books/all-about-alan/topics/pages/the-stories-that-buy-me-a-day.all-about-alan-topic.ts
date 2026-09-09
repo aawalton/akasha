@@ -8,7 +8,7 @@ export const theStoriesThatBuyMeADay = {
   definition:
     "reading someone who hurt like this and lived, because hope has to arrive from outside",
   parents: ["what-has-kept-me-here"],
-  relatedSlugs: ["how-i-know-things"],
+  related: ["how-i-know-things"],
   settled:
     "The arguments stop the act and supply no will to go on. This is where the will comes from.\n\nReal or invented makes no difference. What counts is that someone who hurt like this got through.\n\nI cannot picture a better future and feel it from inside, so hope cannot be made in here. It has to arrive as a record that survival happened to someone.\n\nIt is not the same job as cheap fiction letting a backlog out. That one drains and this one carries.",
 } as const satisfies AllAboutAlanTopic

@@ -7,7 +7,7 @@ export const whenACompanyChangesHands = {
   title: "When A Company Changes Hands",
   definition: "a trusted organisation changing owners or leaders puts its trust back to zero",
   parents: ["which-organisations-i-trust"],
-  relatedSlugs: ["how-i-grade-an-organisation", "getting-out-from-under-a-dependency"],
+  related: ["how-i-grade-an-organisation", "getting-out-from-under-a-dependency"],
   settled:
     "The old record tells me what the old entity did, not what the new one will do.\n\nA sale, a flotation, an acquisition, a new chief, a reshuffled board or a rewritten mission each counts.\n\nI would rather reset one that was fine than keep leaning on one that has changed, so the list is deliberately wide.\n\nRe-earning is quick, because everyone's first decisions under pressure right now show up fast.\n\nI only notice reactively, when the service gets worse, and then go and look at who owns it.",
 } as const satisfies AllAboutAlanTopic

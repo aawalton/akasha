@@ -7,7 +7,7 @@ export const howMuchCompanyICanTake = {
   title: "How Much Company I Can Take",
   definition: "the dose of people that pays without crashing the thing that makes it affordable",
   parents: ["alan"],
-  relatedSlugs: [
+  related: [
     "being-known",
     "waiting-until-i-can-afford-people",
     "why-getting-close-hurts",

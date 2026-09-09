@@ -7,7 +7,7 @@ export const howOftenIStartOver = {
   title: "How Often I Start Over",
   definition: "the rate I rebuild a foundation layer at",
   parents: ["why-i-rebuilt-everything"],
-  relatedSlugs: ["what-my-record-gives-me-back"],
+  related: ["what-my-record-gives-me-back"],
   settled:
     "I think about this as an idle game. Every time I rebuild a foundation layer I am prestiging: starting over for permanent gains.\n\nAt the beginning of the year I prestiged about once a month.\n\nLast month it was about once a week.\n\nFor the last week it has been four times a day.\n\nI think I have moved at least six million lines in restructuring in just the past few days.",
 } as const satisfies AllAboutAlanTopic

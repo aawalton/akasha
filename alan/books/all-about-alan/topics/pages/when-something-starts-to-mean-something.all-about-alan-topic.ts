@@ -7,7 +7,7 @@ export const whenSomethingStartsToMeanSomething = {
   title: "When Something Starts To Mean Something",
   definition: "meaning arriving when a mechanism comes clear rather than when a thing completes",
   parents: ["how-understanding-arrives"],
-  relatedSlugs: ["what-makes-an-hour-count", "what-i-cannot-play-forward"],
+  related: ["what-makes-an-hour-count", "what-i-cannot-play-forward"],
   settled:
     "Understanding a thing is supposed to kill the wonder in it. For me it runs the other way.\n\nNothing means anything until the mechanism is clear. The clarity is where the meaning starts, not where it ends.\n\nI have no store of old feeling to reach back for and no way to pre-feel a payoff, so it comes from neither.\n\nWhat is left is the present moment a structure resolves, which is the same event as something reading true.",
 } as const satisfies AllAboutAlanTopic

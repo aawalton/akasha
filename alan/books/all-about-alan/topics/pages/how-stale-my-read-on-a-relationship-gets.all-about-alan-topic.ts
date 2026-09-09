@@ -8,6 +8,6 @@ export const howStaleMyReadOnARelationshipGets = {
   definition:
     "how my read on where a relationship stands goes out of date, and which way it drifts",
   parents: ["how-far-behind-i-am-on-people"],
-  relatedSlugs: ["working-out-how-she-thinks", "how-well-i-can-measure"],
+  related: ["working-out-how-she-thinks", "how-well-i-can-measure"],
   settled: "The error bars widen as time passes, and the centre stays where she last set it.",
 } as const satisfies AllAboutAlanTopic

@@ -7,7 +7,7 @@ export const howMuchAttentionIHave = {
   title: "How Much Attention I Have",
   definition: "what is left to spend after the room I am in has taken its share",
   parents: ["how-my-attention-works"],
-  relatedSlugs: ["what-my-senses-cost-me"],
+  related: ["what-my-senses-cost-me"],
   settled:
     "Some of it goes on processing whatever is around me, whether I am using it or not.\n\nThat cost stays about the same while the total swings, so it can be a rounding error or the whole budget.\n\nToo much and too little stimulation are one fixed cost read against a budget that moved.",
 } as const satisfies AllAboutAlanTopic

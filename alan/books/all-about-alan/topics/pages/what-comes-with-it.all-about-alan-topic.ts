@@ -7,7 +7,7 @@ export const whatComesWithIt = {
   title: "What Comes With It",
   definition: "the body-side conditions that ride along with my neurotype",
   parents: ["alan"],
-  relatedSlugs: ["resources", "how-warm-i-run", "sleep"],
+  related: ["resources", "how-warm-i-run", "sleep"],
   settled:
     "The hypothesis is that my neurotype is a change in the pathways running the regulatory nervous system, which widens the risk across everything that system runs.\n\nThese are the one tier I would fix. The neurotype itself I would not.\n\nAutonomic trouble applies but not POTS, and low mood is downstream of stress rather than primary.\n\nAlexithymia arrives twice over, once from each side of how I am built.\n\nGut trouble, chronic pain, migraines, tinnitus and tics do not apply.",
 } as const satisfies AllAboutAlanTopic

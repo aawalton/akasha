@@ -7,7 +7,7 @@ export const whenSomethingIsFun = {
   title: "When Something Is Fun",
   definition: "what decides whether an activity is fun, and the two stages of it",
   parents: ["playing-again"],
-  relatedSlugs: ["what-i-do-when-i-am-past-bearing", "letting-a-feeling-in-through-a-story"],
+  related: ["what-i-do-when-i-am-past-bearing", "letting-a-feeling-in-through-a-story"],
   settled:
     "Fun is doing a thing as the thing. A use it also has is fine; doing it for that use kills it.\n\nI hold one thing at a time, so a purpose I am doing it for takes the room the activity needed.\n\nIt comes in two stages: full focus, which I get even at the bottom, and enjoyment on top, which needs safety at three.\n\nTwenty years ran on the first alone, occupied and empty. Twelve thousand hours in one game is what that was.\n\nI cannot set which way it points. I read why I started, rather than setting it.",
 } as const satisfies AllAboutAlanTopic

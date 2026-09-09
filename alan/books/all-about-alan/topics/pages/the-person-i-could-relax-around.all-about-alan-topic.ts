@@ -8,7 +8,7 @@ export const thePersonICouldRelaxAround = {
   definition:
     "the one warm, always-there person my alarm could lie down around, and what it took to have one",
   parents: ["living-with-jen"],
-  relatedSlugs: [
+  related: [
     "being-alone-at-the-centre",
     "what-it-costs-someone-to-know-me",
     "waiting-until-i-can-afford-people",

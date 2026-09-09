@@ -7,7 +7,7 @@ export const theScaffoldingIBuilt = {
   title: "The Scaffolding I Built",
   definition: "the twenty years of structure I run on, holding what my head cannot",
   parents: ["alan"],
-  relatedSlugs: [
+  related: [
     "how-i-get-anything-done",
     "how-i-remember-anything",
     "how-i-watch-my-agents",

@@ -7,7 +7,7 @@ export const blankCheckModeAndRecoveryMode = {
   title: "Blank Check Mode And Recovery Mode",
   definition: "the two extremes I have lived at, one paying any cost and one counting every cost",
   parents: ["the-marriage-lever-i-cannot-read", "the-two-decades-i-came-through"],
-  relatedSlugs: [
+  related: [
     "the-budget-i-run-my-days-on",
     "when-i-lost-who-i-was",
     "the-years-with-my-parents",

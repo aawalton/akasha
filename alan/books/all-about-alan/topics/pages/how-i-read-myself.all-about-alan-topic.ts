@@ -7,7 +7,7 @@ export const howIReadMyself = {
   title: "How I Read Myself",
   definition: "measuring myself from the outside, because the inside is dark",
   parents: ["alan"],
-  relatedSlugs: ["how-well-i-can-measure", "resources"],
+  related: ["how-well-i-can-measure", "resources"],
   settled:
     "Measuring a thing about myself tends to improve it, so a sharper instrument often beats the obvious lever.\n\nI am short of eyes rather than hands. The levers work once they can see what they act on.\n\nI cannot run my state forward or back, and the sensor I do have gets quieter as my safety drops.\n\nA reading is gone by the next moment unless written down, so my instruments live outside me.\n\nWhere nothing can be read I hold a spread of what might be true and leave it uncollapsed.",
 } as const satisfies AllAboutAlanTopic

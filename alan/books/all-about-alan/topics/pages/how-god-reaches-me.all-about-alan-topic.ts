@@ -7,7 +7,7 @@ export const howGodReachesMe = {
   title: "How God Reaches Me",
   definition: "the right person, book or idea arriving exactly when I needed it",
   parents: ["my-faith"],
-  relatedSlugs: ["what-i-take-in", "how-i-know-things"],
+  related: ["what-i-take-in", "how-i-know-things"],
   settled:
     "I take it that God reaches different people differently, in words for one and dreams for another.\n\nWords and visions are closed to me, and I generate no alternatives of my own, so outside is the only way in.\n\nThat is what makes this channel the clearest one: a door I could not have made appearing exactly when it fits.\n\nI run no test on a candidate. I cannot choose what to believe, so a false one simply does not stick.",
 } as const satisfies AllAboutAlanTopic

@@ -8,7 +8,7 @@ export const theFiveRulesIGrewUpWith = {
   definition:
     "the five rules I learned as a child that still fire, long after I stopped believing them",
   parents: ["which-lever-reaches-a-response"],
-  relatedSlugs: ["why-i-have-to-be-perfect", "rules-instead-of-a-brake"],
+  related: ["why-i-have-to-be-perfect", "rules-instead-of-a-brake"],
   settled:
     "Always be nice, always be quiet, do not take up space, do not ask for anything, take care of yourself.\n\nThey run from below thought, so winning the argument against them did not stop them.",
 } as const satisfies AllAboutAlanTopic

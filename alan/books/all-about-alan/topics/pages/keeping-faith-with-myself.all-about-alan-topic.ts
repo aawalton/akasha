@@ -7,7 +7,7 @@ export const keepingFaithWithMyself = {
   title: "Keeping Faith With Myself",
   definition: "my first value read wide: running true to the me my structures hold",
   parents: ["what-i-value-in-order"],
-  relatedSlugs: ["my-faith", "the-three-seconds-i-am"],
+  related: ["my-faith", "the-three-seconds-i-am"],
   settled:
     "Me is the reasoning self in the current three seconds. Real, renewed each moment, gone.\n\nNothing felt makes me continuous. What does is held outside me, and deeper, in a map that never breaks as it changes.\n\nA river rather than a stone: continuous through unbroken change, not through anything staying put.\n\nSo my first value is wider than religion: running true to the me my structures hold.\n\nReligious faith is that move pointed at the largest question, part of it rather than beside it.",
 } as const satisfies AllAboutAlanTopic

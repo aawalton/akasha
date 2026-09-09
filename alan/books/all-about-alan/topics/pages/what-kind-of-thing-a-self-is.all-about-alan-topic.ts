@@ -7,7 +7,7 @@ export const whatKindOfThingASelfIs = {
   title: "What Kind Of Thing A Self Is",
   definition: "three selves stacked, one made of my map and two made of the relation between maps",
   parents: ["the-crowd-that-has-been-me"],
-  relatedSlugs: ["the-three-seconds-i-am", "self-improvement", "the-three-parts-of-me"],
+  related: ["the-three-seconds-i-am", "self-improvement", "the-three-parts-of-me"],
   settled:
     "The immediate self is a single frame, made of the conceptual map.\n\nThe timeline self and the multiverse self are closures over overlapping frames, made of the relation between maps rather than of map.\n\nThey are different kinds of object, and conflating them is where most confusion about my identity comes from.",
 } as const satisfies AllAboutAlanTopic

@@ -8,7 +8,7 @@ export const whatICannotSayToHer = {
   definition:
     "her stability and her feeling loved both need my silence, and being met needs me to speak",
   parents: ["being-alone-at-the-centre"],
-  relatedSlugs: [
+  related: [
     "the-person-i-could-relax-around",
     "why-i-keep-hard-truths-back",
     "what-it-costs-someone-to-know-me",

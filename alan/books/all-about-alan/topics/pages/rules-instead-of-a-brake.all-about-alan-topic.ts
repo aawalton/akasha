@@ -7,6 +7,6 @@ export const rulesInsteadOfABrake = {
   title: "Rules Instead Of A Brake",
   definition: "the standing rules I use to keep myself from overreaching",
   parents: ["how-i-decide"],
-  relatedSlugs: ["not-wanting-to-is-the-gauge"],
+  related: ["not-wanting-to-is-the-gauge"],
   settled: "I keep them written down because nothing in the moment tells me to stop.",
 } as const satisfies AllAboutAlanTopic

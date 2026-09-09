@@ -7,7 +7,7 @@ export const safetyLevel = {
   title: "Safety Level",
   definition: "how settled my body is underneath the day",
   parents: ["safety-stack"],
-  relatedSlugs: ["safety-bar"],
+  related: ["safety-bar"],
   settled:
     "It is roughly my stress capacity averaged over time.\n\nI read it as about nine involuntary gates rather than as a number, coarse on purpose so a bad reading costs sharpness rather than the whole read.\n\nWorking above my rung pays cost out of the same average that sets the price, so it comes down while I work.\n\nI drop the difficulty sooner or later, either by my tooling smoothing out or when it is time to go to sleep.",
 } as const satisfies AllAboutAlanTopic

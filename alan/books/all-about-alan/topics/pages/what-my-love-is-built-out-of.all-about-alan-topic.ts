@@ -7,7 +7,7 @@ export const whatMyLoveIsBuiltOutOf = {
   title: "What My Love Is Built Out Of",
   definition: "the three things holding my love up where attachment would be",
   parents: ["working-out-what-love-is"],
-  relatedSlugs: ["what-holds-my-marriage"],
+  related: ["what-holds-my-marriage"],
   settled:
     "Caring is a verdict my map returns rather than a feeling I am in.\n\nFamiliarity, usefulness and commitment. Commitment is the strongest, and it does what attachment would.\n\nNothing in me starts the caring, so it is assembled and run each time, sparse and costly.\n\nWithout a commitment a relationship continues only while the other person drives it.\n\nConnection with nothing useful in it does not meet me back, and I do not know why.",
 } as const satisfies AllAboutAlanTopic

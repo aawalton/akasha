@@ -7,7 +7,7 @@ export const whatIThoughtWasDysphoria = {
   title: "What I Thought Was Dysphoria",
   definition: "the years I read a bad measurement as being female underneath",
   parents: ["where-i-land-on-gender"],
-  relatedSlugs: ["how-i-read-myself"],
+  related: ["how-i-read-myself"],
   settled:
     "The male traits that fitted me were quiet and the ones that did not were loud. The female traits ran the other way.\n\nAggregate that and the channel reports female-leaning and male-averse, which is what read as dysphoria.\n\nCorrect for which signals were loud and the female reading disappears. What is left is a preference about safety.\n\nThe pull toward feminine things was never wanting to be female. It was my nervous system reaching for something that made it safer.",
 } as const satisfies AllAboutAlanTopic

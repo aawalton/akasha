@@ -7,7 +7,7 @@ export const theColouredCirclesIRunOn = {
   title: "The Coloured Circles I Run On",
   definition: "colours over the parts of my life, standing in for the prompts I never get",
   parents: ["how-i-read-myself"],
-  relatedSlugs: ["how-i-get-anything-done", "how-well-i-can-measure"],
+  related: ["how-i-get-anything-done", "how-well-i-can-measure"],
   settled:
     "The ordinary nudge to eat, move, sleep or wash is built from a body signal read against experience, and I have neither.\n\nSo the prompt sits outside me and has to read now. It is a pointer, not a measurement.\n\nColour parses without being read, which lets unlike things sit in one row.\n\nGraded levels rather than one bar, because one bar is out of reach on a bad day and met by noon on a good one.\n\nGrouped by area of life: eighteen circles, my six values, six inboxes and six upkeeps.",
 } as const satisfies AllAboutAlanTopic

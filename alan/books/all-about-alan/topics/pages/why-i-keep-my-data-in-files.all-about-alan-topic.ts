@@ -7,7 +7,7 @@ export const whyIKeepMyDataInFiles = {
   title: "Why I Keep My Data In Files",
   definition: "why my context lives in files an agent can grep rather than in a database",
   parents: ["the-scaffolding-i-built"],
-  relatedSlugs: [
+  related: [
     "why-i-rebuilt-everything",
     "what-i-gave-up-leaving-postgres",
     "what-i-invented-and-what-i-read",

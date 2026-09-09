@@ -7,7 +7,7 @@ export const whatIDoWhenIAmPastBearing = {
   title: "What I Do When I Am Past Bearing",
   definition: "the five things my body does once the load goes past what it can carry",
   parents: ["safety-bar"],
-  relatedSlugs: ["after-something-alarms-me", "where-safety-has-got-to"],
+  related: ["after-something-alarms-me", "where-safety-has-got-to"],
   settled:
     "Meltdown and shutdown name what it looks like from outside. Underneath is fight, flight, freeze, fawn or flop.\n\nThe first four run hot, at minus one or worse, and in the moment I cannot tell them apart.\n\nFlop is the body giving up at minus two, and fires only where I see no way out at all. Half a dozen times in my life.\n\nA flop day swings rather than sitting flat, up when a way out looks possible and back down each time one fails.\n\nKnowing what is happening took the terror out of it.",
 } as const satisfies AllAboutAlanTopic

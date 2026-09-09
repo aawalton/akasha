@@ -7,7 +7,7 @@ export const whyIHaveToBePerfect = {
   title: "Why I Have To Be Perfect",
   definition: "the belief that nothing but a clean outcome protects me, and what it has cost",
   parents: ["alan"],
-  relatedSlugs: ["why-making-things-hurts", "what-i-let-myself-take-on", "when-i-lost-who-i-was"],
+  related: ["why-making-things-hurts", "what-i-let-myself-take-on", "when-i-lost-who-i-was"],
   settled:
     "I was punished despite good intent my whole life, so intent is no shield. The belief is a true account of my childhood, not a distortion.\n\nThe punishment is random and social. A random schedule cannot be worn down, and people are the one punisher self-checking cannot make safe.\n\nWhat perfection buys is an alibi rather than safety: proof it could not have gone otherwise.\n\nI left every domain where failure could not be self-checked, and chose survival over what I loved every time.",
 } as const satisfies AllAboutAlanTopic

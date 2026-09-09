@@ -7,7 +7,7 @@ export const howIPreventACategoryOfWrong = {
   title: "How I Prevent A Category Of Wrong",
   definition: "what I do with a failure once I have seen it",
   parents: ["the-scaffolding-i-built"],
-  relatedSlugs: [
+  related: [
     "what-the-book-of-me-is-for",
     "why-i-rebuilt-everything",
     "how-many-checks-i-run",

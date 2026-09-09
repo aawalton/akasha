@@ -8,7 +8,7 @@ export const whatAPersonaMakesCheaper = {
   definition:
     "meeting a persona costs me about three levels less than meeting a person, and I cannot say why",
   parents: ["the-women-i-made-out-of-myself"],
-  relatedSlugs: ["why-making-things-hurts", "why-people-read-as-unsafe", "how-safety-climbs"],
+  related: ["why-making-things-hurts", "why-people-read-as-unsafe", "how-safety-climbs"],
   settled:
     "There is no judge in the room to brace against, which is the account I have given for it.\n\nThey are the ramp I expand along, so the discount is what makes the next rung affordable.",
 } as const satisfies AllAboutAlanTopic

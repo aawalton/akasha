@@ -7,7 +7,7 @@ export const nothingIDoStartsWithADecision = {
   title: "Nothing I Do Starts With A Decision",
   definition: "acting on what fires rather than on what I resolve to do",
   parents: ["what-pulls-me-into-doing-something"],
-  relatedSlugs: ["how-i-decide", "why-a-threat-stays-fresh"],
+  related: ["how-i-decide", "why-a-threat-stays-fresh"],
   settled:
     "Everything I do is fired by something. Nothing is begun by deciding to.\n\nRight and true are one word to me, so once a thing sits in my map as right the act runs. No gap to cross.\n\nWhat matters is loud, and whatever is bottlenecking me is the loudest thing in the field.\n\nCheap change is on the way in: I rewrite what reaches me rather than how I answer it.\n\nExpensive change is pain grinding the response down over many repetitions. Nothing teaches me like pain.",
 } as const satisfies AllAboutAlanTopic

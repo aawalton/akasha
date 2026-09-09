@@ -7,7 +7,7 @@ export const whatWearsMyBodyDown = {
   title: "What Wears My Body Down",
   definition: "the cost of carrying stress over years, and how much of it I can clear",
   parents: ["health-bar"],
-  relatedSlugs: ["what-limits-me", "what-calms-me-down"],
+  related: ["what-limits-me", "what-calms-me-down"],
   settled:
     "It is the bottleneck everything else sits under, ahead of any one organ or diagnosis.\n\nI breathe eight to twelve hours a day. The whole recovery stack exists to defend this one thing.\n\nI cannot feel the load at all, so I work over the list of usual sources and follow whatever is left.\n\nEvery trip for ten years put me past capacity and ended in illness. The current one lands merely at the edge, and being overwhelmed is still my base case.",
 } as const satisfies AllAboutAlanTopic

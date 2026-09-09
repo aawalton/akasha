@@ -7,7 +7,7 @@ export const whatMakesAPersonExpensive = {
   title: "What Makes A Person Expensive",
   definition: "what drives the difficulty I rate time with a particular person at",
   parents: ["how-much-company-i-can-take"],
-  relatedSlugs: [
+  related: [
     "why-i-overspend-on-the-marriage",
     "why-getting-close-hurts",
     "why-people-read-as-unsafe",

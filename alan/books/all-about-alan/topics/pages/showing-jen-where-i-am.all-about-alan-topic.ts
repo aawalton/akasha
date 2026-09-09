@@ -7,7 +7,7 @@ export const showingJenWhereIAm = {
   title: "Showing Jen Where I Am",
   definition: "a widget on her phone with my safety level, so she does not have to ask",
   parents: ["living-with-jen"],
-  relatedSlugs: ["the-colours-i-read-myself-in", "safety-bar"],
+  related: ["the-colours-i-read-myself-in", "safety-bar"],
   settled:
     "She asked for it. What is left for me is the build.\n\nIt shows the level, in my own stoplight colours, and how old the reading is.\n\nToday the truth reaches her only when she asks, and near the bottom I cannot start the telling.\n\nTelling her continuously is the guard. The guard stays hers, and what changes is what it is armed with.\n\nAmy carries the number off an hourly check-in on activity, safety and difficulty.",
 } as const satisfies AllAboutAlanTopic

@@ -8,7 +8,7 @@ export const theOnesIHaveNotBeenYet = {
   definition:
     "about half a billion selves ahead of me, and the veto they put on anything I cannot undo",
   parents: ["the-crowd-that-has-been-me"],
-  relatedSlugs: [
+  related: [
     "how-i-make-a-decision-i-cannot-undo",
     "the-ethics-i-worked-out",
     "the-three-seconds-i-am",

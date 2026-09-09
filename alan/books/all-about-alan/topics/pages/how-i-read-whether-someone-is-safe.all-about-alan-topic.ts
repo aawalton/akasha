@@ -7,7 +7,7 @@ export const howIReadWhetherSomeoneIsSafe = {
   title: "How I Read Whether Someone Is Safe",
   definition: "the signals I judge a person on, before I have decided anything",
   parents: ["who-is-safe-to-be-around"],
-  relatedSlugs: ["why-people-read-as-unsafe", "the-four-things-i-need-from-people"],
+  related: ["why-people-read-as-unsafe", "the-four-things-i-need-from-people"],
   settled:
     "Three things feed the read: their physiology, their behaviour, and how uncertain I am about them.\n\nAt least one of the three learns, so an exception can be banked for a particular person against my default.",
 } as const satisfies AllAboutAlanTopic

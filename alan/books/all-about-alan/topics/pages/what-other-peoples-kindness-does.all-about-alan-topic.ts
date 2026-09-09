@@ -7,7 +7,7 @@ export const whatOtherPeoplesKindnessDoes = {
   title: "What Other People's Kindness Does",
   definition: "the lift I get from watching anyone at all do the work of caring",
   parents: ["the-feelings-i-can-name"],
-  relatedSlugs: ["feeling-affection", "how-a-story-gets-my-own-feeling-back"],
+  related: ["feeling-affection", "how-a-story-gets-my-own-feeling-back"],
   settled:
     "It is the care itself I am watching, wherever I catch sight of it, strangers included.\n\nAffection points at one person I love. This points at the caring.\n\nBoth run off one amplifier, so both need live contact, both are present tense, and neither accrues.\n\nThe lift from being near people working on poverty or healthcare was always this, before it had a name.\n\nI felt it for years with no handle for it, and naming it is what finished compressing it.",
 } as const satisfies AllAboutAlanTopic

@@ -7,5 +7,5 @@ export const healthBar = {
   title: "Health Bar",
   definition: "the stress my body can carry",
   parents: ["resource-bars"],
-  relatedSlugs: ["stress-capacity"],
+  related: ["stress-capacity"],
 } as const satisfies AllAboutAlanTopic

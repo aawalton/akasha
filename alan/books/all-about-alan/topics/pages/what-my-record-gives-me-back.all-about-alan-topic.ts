@@ -7,7 +7,7 @@ export const whatMyRecordGivesMeBack = {
   title: "What My Record Gives Me Back",
   definition: "what reading my own record returns to me, and what it cannot",
   parents: ["what-i-cannot-play-forward"],
-  relatedSlugs: ["what-the-book-of-me-is-for", "how-often-i-start-over"],
+  related: ["what-the-book-of-me-is-for", "how-often-i-start-over"],
   settled:
     "I have no experiential memory or imagination at all.\n\nI cannot remember the specifics of each revolution, except the ones that are actively dissonant because they are not done yet.\n\nI cannot get the memory back from reading my record.\n\nI can get back the fact of what I did, which can be nice.",
 } as const satisfies AllAboutAlanTopic

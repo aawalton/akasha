@@ -7,7 +7,7 @@ export const theOneAccountEverythingFallsBackOn = {
   title: "The One Account Everything Falls Back On",
   definition: "the address every other account uses to prove I am me",
   parents: ["getting-out-from-under-a-dependency"],
-  relatedSlugs: ["how-i-grade-an-organisation"],
+  related: ["how-i-grade-an-organisation"],
   settled:
     "One address is where every other account goes to prove I am me. Whoever holds it holds all of them.\n\nMine is Gmail, which makes it the most depended-on and least trusted place in the whole graph.\n\nIt does two jobs that come apart: signing me in everywhere, and being the fallback.\n\nThe signing in I have accepted. There is no real alternative, so I stopped spending anything resenting it.\n\nThe fallback I want to move, and whatever replaces it has to be more dependable than Google, not adequate.",
 } as const satisfies AllAboutAlanTopic

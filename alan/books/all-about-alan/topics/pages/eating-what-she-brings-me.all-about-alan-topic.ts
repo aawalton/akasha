@@ -8,7 +8,7 @@ export const eatingWhatSheBringsMe = {
   definition:
     "eating her food is how her care lands, so a lot of what I eat has nothing to do with hunger",
   parents: ["how-i-eat", "living-with-jen"],
-  relatedSlugs: [
+  related: [
     "what-makes-me-start-eating",
     "working-out-how-she-thinks",
     "what-my-love-is-built-out-of",

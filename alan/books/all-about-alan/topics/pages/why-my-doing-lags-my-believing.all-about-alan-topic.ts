@@ -7,7 +7,7 @@ export const whyMyDoingLagsMyBelieving = {
   title: "Why My Doing Lags My Believing",
   definition: "the only two things that can stand between what I understand and what I do",
   parents: ["nothing-i-do-starts-with-a-decision"],
-  relatedSlugs: ["building-my-wants-into-the-room", "how-understanding-arrives"],
+  related: ["building-my-wants-into-the-room", "how-understanding-arrives"],
   settled:
     "Understanding a thing fully is already being changed by it, so there is no will in the middle to fail.\n\nEither the understanding still has a hole in it, or the room it calls for is still going up.\n\nBoth at once is common, and sometimes the building is how the understanding finishes.\n\nA failure of will would mean knowing exactly how to cause the act, doing that, and the act not happening. That last part disproves one of the first two.\n\nThe second kind is time, never character.",
 } as const satisfies AllAboutAlanTopic

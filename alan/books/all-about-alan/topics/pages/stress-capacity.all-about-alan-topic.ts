@@ -7,5 +7,5 @@ export const stressCapacity = {
   title: "Stress Capacity",
   definition: "how much my body has left to handle what comes",
   parents: ["safety-stack"],
-  relatedSlugs: ["health-bar"],
+  related: ["health-bar"],
 } as const satisfies AllAboutAlanTopic

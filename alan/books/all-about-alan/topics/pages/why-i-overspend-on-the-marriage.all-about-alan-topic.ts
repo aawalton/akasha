@@ -7,7 +7,7 @@ export const whyIOverspendOnTheMarriage = {
   title: "Why I Overspend On The Marriage",
   definition: "why I keep paying above the affordable line for time with Jen",
   parents: ["the-marriage-lever-i-cannot-read"],
-  relatedSlugs: [
+  related: [
     "the-budget-i-run-my-days-on",
     "blank-check-mode-and-recovery-mode",
     "the-odds-of-a-hard-evening",

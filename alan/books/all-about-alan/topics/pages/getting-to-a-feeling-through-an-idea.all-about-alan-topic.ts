@@ -8,7 +8,7 @@ export const gettingToAFeelingThroughAnIdea = {
   definition:
     "the one direction that still works, from something I have understood to something I feel",
   parents: ["the-feeling-i-cannot-get-at"],
-  relatedSlugs: ["letting-a-feeling-in-through-a-story", "how-understanding-arrives"],
+  related: ["letting-a-feeling-in-through-a-story", "how-understanding-arrives"],
   settled:
     "It comes rare and strong at once, which fits a gate that filters out everything not built past some threshold and passes the rest whole.",
 } as const satisfies AllAboutAlanTopic

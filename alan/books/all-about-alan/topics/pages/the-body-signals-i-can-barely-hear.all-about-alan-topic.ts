@@ -7,7 +7,7 @@ export const theBodySignalsICanBarelyHear = {
   title: "The Body Signals I Can Barely Hear",
   definition: "hunger, thirst, heat and the rest arriving too quietly to insist on anything",
   parents: ["how-i-read-myself"],
-  relatedSlugs: ["how-much-attention-i-have", "what-calms-me-down"],
+  related: ["how-much-attention-i-have", "what-calms-me-down"],
   settled:
     "Every channel works. They run quiet and are easy to ignore.\n\nIt is a loudness problem rather than a broken one. The outside senses win the same attention, and sound alone lands five times louder on me.\n\nStrip the room bare and they come back, so a quiet room doubles as a way of hearing my own body.\n\nAttention pointed at a quiet signal raises it. Listening for loneliness made it louder.\n\nWhere a drive is missing outright I build a trigger to stand in for it, which is how I eat.",
 } as const satisfies AllAboutAlanTopic

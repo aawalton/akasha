@@ -7,5 +7,5 @@ export const theCompanyYears = {
   title: "The Company Years",
   definition: "the years at the company, which I have called a special kind of hell",
   parents: ["the-chapters-of-my-life"],
-  relatedSlugs: ["why-i-stopped-working", "what-i-let-myself-take-on"],
+  related: ["why-i-stopped-working", "what-i-let-myself-take-on"],
 } as const satisfies AllAboutAlanTopic

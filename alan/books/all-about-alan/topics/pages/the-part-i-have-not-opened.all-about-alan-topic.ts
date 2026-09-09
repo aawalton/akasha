@@ -7,7 +7,7 @@ export const thePartIHaveNotOpened = {
   title: "The Part I Have Not Opened",
   definition: "the seams in my marriage I have left shut, and the state I would need to open them",
   parents: ["living-with-jen"],
-  relatedSlugs: ["what-i-cannot-say-to-her", "whether-i-stay"],
+  related: ["what-i-cannot-say-to-her", "whether-i-stay"],
   settled:
     "It is shut by my own choice rather than by anyone else's pacing, and it is mine to open. The pace I set is gently, honestly, start.",
 } as const satisfies AllAboutAlanTopic

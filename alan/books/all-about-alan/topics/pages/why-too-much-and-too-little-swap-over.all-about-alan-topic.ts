@@ -7,7 +7,7 @@ export const whyTooMuchAndTooLittleSwapOver = {
   title: "Why Too Much And Too Little Swap Over",
   definition: "the same load reading as overwhelming or as empty depending on what I have left",
   parents: ["how-stimulated-i-am"],
-  relatedSlugs: ["how-warm-i-run", "what-wears-my-body-down"],
+  related: ["how-warm-i-run", "what-wears-my-body-down"],
   settled:
     "My wiring carries more than most: more connections, less pruned away. That part does not change.\n\nWhat changes is whether the metering sitting on top of it is working.\n\nLow on resources nothing meters, and the same traffic jams. The jam is the overwhelm.\n\nHigh on resources it clears so cleanly the day can feel empty at exactly the same load.\n\nThe metering runs warm, which is why cold reads as too much and hot reads as too little.",
 } as const satisfies AllAboutAlanTopic

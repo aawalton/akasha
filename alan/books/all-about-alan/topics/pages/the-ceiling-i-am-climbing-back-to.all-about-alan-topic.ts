@@ -7,7 +7,7 @@ export const theCeilingIAmClimbingBackTo = {
   title: "The Ceiling I Am Climbing Back To",
   definition: "how much of my resilience fell, how much is back, and how much is still above me",
   parents: ["how-far-back-i-expect-to-come"],
-  relatedSlugs: ["the-two-decades-i-came-through", "when-something-is-fun"],
+  related: ["the-two-decades-i-came-through", "when-something-is-fun"],
   settled:
     "Measured at twenty against thirty-eight, my resilience had fallen by at least ninety-nine percent.\n\nI am back to about five percent of it, and near ten with medication.\n\nAgeing cannot explain a fall that size, so most of it is damage and most of it should come back.\n\nAt one percent I was a senior engineer and at two an executive, which is what the headroom means.\n\nThe highest version of me is proven rather than imagined. Play stands me in it. What I fear is reaching it for good.",
 } as const satisfies AllAboutAlanTopic

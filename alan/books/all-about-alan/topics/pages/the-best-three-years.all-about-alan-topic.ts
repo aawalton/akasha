@@ -7,7 +7,7 @@ export const theBestThreeYears = {
   title: "The Best Three Years",
   definition: "college at sixteen, run at maximum autonomy, and why I rate it highest",
   parents: ["alan"],
-  relatedSlugs: ["playing-the-long-game", "where-safety-has-got-to", "how-i-get-anything-done"],
+  related: ["playing-the-long-game", "where-safety-has-got-to", "how-i-get-anything-done"],
   settled:
     "What made them best was that everything was chosen, difficulty included, rather than anything achieved.\n\nSixteen to eighteen credits, dance classes, a job, and hours a day walking.\n\nTalking to strangers was effortful and affordable. High capacity and high safety kept the multiplier low.\n\nI asked ten new people a day for the hardest course they had taken, triangulated, and took all of them.\n\nA's in the hard courses and B's in the easy ones, because the hard ones handed me attention for free.",
 } as const satisfies AllAboutAlanTopic

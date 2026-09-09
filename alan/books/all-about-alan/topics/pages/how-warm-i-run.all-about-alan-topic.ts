@@ -7,7 +7,7 @@ export const howWarmIRun = {
   title: "How Warm I Run",
   definition: "how hot or cold I am, which follows my safety level rather than the room",
   parents: ["resources"],
-  relatedSlugs: ["how-stimulated-i-am"],
+  related: ["how-stimulated-i-am"],
   settled:
     "The room stays where it is while I swing from shivering to sweating.\n\nHigh safety runs me hot and low safety runs me cold, so cold-leaning is a low-safety signature rather than a constant.\n\nThe sensing works. What fails is producing the heat, too little at the bottom and too much at the top.\n\nI am cold after eating whatever else is true.",
 } as const satisfies AllAboutAlanTopic

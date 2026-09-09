@@ -7,7 +7,7 @@ export const workingOutHowSheThinks = {
   title: "Working Out How She Thinks",
   definition: "I cannot simulate her, so understanding her is a map I build slowly and by hand",
   parents: ["living-with-jen"],
-  relatedSlugs: [
+  related: [
     "what-i-cannot-play-forward",
     "being-curious-about-her",
     "how-a-hard-talk-with-jen-gets-safer",

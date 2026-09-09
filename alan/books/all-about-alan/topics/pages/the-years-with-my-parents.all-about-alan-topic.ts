@@ -8,7 +8,7 @@ export const theYearsWithMyParents = {
   definition:
     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
   parents: ["the-chapters-of-my-life"],
-  relatedSlugs: [
+  related: [
     "what-the-book-of-me-is-for",
     "why-getting-close-hurts",
     "blank-check-mode-and-recovery-mode",
