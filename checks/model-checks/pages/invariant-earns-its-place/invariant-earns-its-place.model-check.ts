@@ -1,4 +1,4 @@
-import type { ModelCheck } from "../../model-check.page-type.ts"
+import type { ModelCheck } from "../../model-check.page-type.types.ts"
 
 export const invariantEarnsItsPlace = {
   id: "01a05a0b-3a49-7d40-9dae-f16b21c7ffe2",
