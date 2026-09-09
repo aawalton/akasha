@@ -56,7 +56,9 @@ export const HELP_SHORT = "-h"
 
 const DEFINITION = "definition"
 
-const CHANGE_KIND = "changeKindSlug"
+const CHANGE_KIND = "changeKind"
+
+const CHANGE_KIND_SLUG = "changeKindSlug"
 
 const RUNS_CHECKS = "runsChecks"
 
@@ -178,7 +180,9 @@ export function kindNamed(root: string, slug: string): Kind | null {
 }
 
 function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {
-  const said = page === null ? null : page[CHANGE_KIND]
+  if (page === null) return null
+  const named = page[CHANGE_KIND]
+  const said = typeof named === "string" ? named : page[CHANGE_KIND_SLUG]
   return typeof said === "string" ? kindNamed(root, said) : null
 }
 
