@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Swift } from "../ios-components/properties/swift.file-property.ts"
+import type { Swift } from "../ios-components/properties/swift.code-file-property.ts"
 import type { Main } from "../ios-programs/properties/main.file-property.ts"
 
 export type IosHarness = Domain & {
@@ -28,7 +28,7 @@ export const iosHarness = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/swift", required: false, many: false },
+    { pagePropertySlug: "code-file-property/swift", required: false, many: false },
     { pagePropertySlug: "file-property/main", required: false, many: false },
   ],
   invariants: [

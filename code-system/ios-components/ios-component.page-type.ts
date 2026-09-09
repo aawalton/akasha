@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Swift } from "./properties/swift.file-property.ts"
+import type { Swift } from "./properties/swift.code-file-property.ts"
 
 export type IosComponent = Domain & {
   swift: Swift
@@ -38,10 +38,10 @@ export const iosComponent = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
-    "file-property/swift",
+    "code-file-property/swift",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/swift", required: true, many: false }],
+  properties: [{ pagePropertySlug: "code-file-property/swift", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
