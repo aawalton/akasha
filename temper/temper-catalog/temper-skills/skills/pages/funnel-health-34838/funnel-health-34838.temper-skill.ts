@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const funnelHealth34838 = {
   id: "019e6f53-a26a-7820-b748-04ca542b4bf4",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "funnel-health-34838",
   title: "Funnel Health",
   key: "funnel-health-34838",

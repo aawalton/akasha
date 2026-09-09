@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bladeCloak = {
   id: "019e6f53-9f17-7175-a7bb-f9459dc65461",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "blade-cloak",
   title: "Blade Cloak",
   key: "blade-cloak",

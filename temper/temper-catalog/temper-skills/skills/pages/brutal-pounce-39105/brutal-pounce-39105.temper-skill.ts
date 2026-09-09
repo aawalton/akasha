@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const brutalPounce39105 = {
   id: "019e6f53-9f93-7889-b797-2a1a7459a7cd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "brutal-pounce-39105",
   title: "Brutal Pounce",
   key: "brutal-pounce-39105",

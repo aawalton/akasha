@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const criticalRush = {
   id: "019e6226-00dd-7825-9439-7ece7644e5de",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "critical-rush",
   title: "Critical Rush",
   key: "critical-rush",

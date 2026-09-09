@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const deathGleaning116230 = {
   id: "019e6f53-a09a-75c8-bcab-486525f4001e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "death-gleaning-116230",
   title: "Death Gleaning",
   key: "death-gleaning-116230",

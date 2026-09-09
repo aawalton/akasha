@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const enduringRays = {
   id: "019e6245-a669-781b-87db-a3f22f3cb9c5",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "enduring-rays",
   title: "Enduring Rays",
   key: "enduring-rays",

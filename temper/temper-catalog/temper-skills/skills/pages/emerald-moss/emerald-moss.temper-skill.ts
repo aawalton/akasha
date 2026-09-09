@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const emeraldMoss = {
   id: "019e6245-a661-7d7b-905a-6f129f72797e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "emerald-moss",
   title: "Emerald Moss",
   key: "emerald-moss",

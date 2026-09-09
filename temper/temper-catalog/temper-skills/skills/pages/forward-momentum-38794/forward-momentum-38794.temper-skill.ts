@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const forwardMomentum38794 = {
   id: "019e6f53-a238-7fd9-9a59-cdad1c7725bf",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "forward-momentum-38794",
   title: "Forward Momentum",
   key: "forward-momentum-38794",

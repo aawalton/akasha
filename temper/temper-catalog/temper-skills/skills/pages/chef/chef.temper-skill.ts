@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const chef = {
   id: "019e6224-cc8e-720f-b708-89c452c66b15",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "chef",
   title: "Chef",
   key: "chef",

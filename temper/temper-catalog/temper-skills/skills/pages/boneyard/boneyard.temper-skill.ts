@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const boneyard = {
   id: "019e6f53-9f76-76be-bdb1-ab8d323ed670",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "boneyard",
   title: "Boneyard",
   key: "boneyard",

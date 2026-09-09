@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const fulminatingRune = {
   id: "019e6245-a68d-7c0b-a3eb-8dcdbb55446f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "fulminating-rune",
   title: "Fulminating Rune",
   key: "fulminating-rune",

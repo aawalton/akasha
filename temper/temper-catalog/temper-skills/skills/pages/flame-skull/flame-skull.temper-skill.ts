@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const flameSkull = {
   id: "019e6f53-a205-7386-a061-26a6dc9ec0bb",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "flame-skull",
   title: "Flame Skull",
   key: "flame-skull",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const cinderStorm = {
   id: "019e6245-a61c-7734-acd0-5084ec5d1b80",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "cinder-storm",
   title: "Cinder Storm",
   key: "cinder-storm",

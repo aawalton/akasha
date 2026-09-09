@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const channeledFocus = {
   id: "019e6245-a61a-77df-9b65-ad536aab95f8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "channeled-focus",
   title: "Channeled Focus",
   key: "channeled-focus",

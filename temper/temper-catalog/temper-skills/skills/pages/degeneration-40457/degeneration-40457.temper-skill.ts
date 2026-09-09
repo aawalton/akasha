@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const degeneration40457 = {
   id: "019e6f53-a0ba-7709-a1ab-6ce962f929ba",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "degeneration-40457",
   title: "Degeneration",
   key: "degeneration-40457",

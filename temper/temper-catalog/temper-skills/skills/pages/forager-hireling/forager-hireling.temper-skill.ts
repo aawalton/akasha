@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const foragerHireling = {
   id: "019e6224-cc95-7e6b-bec6-bbb383e0f8f0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "forager-hireling",
   title: "Forager Hireling",
   key: "forager-hireling",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const curativeCurse = {
   id: "019e6245-a62d-7a45-946b-34db598fc25a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "curative-curse",
   title: "Curative Curse",
   key: "curative-curse",

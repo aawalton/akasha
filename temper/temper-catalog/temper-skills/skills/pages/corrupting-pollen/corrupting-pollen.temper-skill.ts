@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const corruptingPollen = {
   id: "019e6245-a623-766b-b15f-bffe842b7cc1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "corrupting-pollen",
   title: "Corrupting Pollen",
   key: "corrupting-pollen",

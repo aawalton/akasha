@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const eruption = {
   id: "019e6245-a671-79eb-b487-683720b390d1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "eruption",
   title: "Eruption",
   key: "eruption",

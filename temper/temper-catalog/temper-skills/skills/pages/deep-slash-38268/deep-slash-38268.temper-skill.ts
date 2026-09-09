@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const deepSlash38268 = {
   id: "019e6f53-a0aa-7710-9bde-ca4242893c42",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "deep-slash-38268",
   title: "Deep Slash",
   key: "deep-slash-38268",

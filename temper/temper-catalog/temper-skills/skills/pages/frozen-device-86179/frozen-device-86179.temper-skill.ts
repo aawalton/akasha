@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const frozenDevice86179 = {
   id: "019e6f53-a254-75a5-8b28-822beddd9673",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "frozen-device-86179",
   title: "Frozen Device",
   key: "frozen-device-86179",

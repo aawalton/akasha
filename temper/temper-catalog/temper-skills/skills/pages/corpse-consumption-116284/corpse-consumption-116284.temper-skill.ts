@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const corpseConsumption116284 = {
   id: "019e6f53-a025-7a6b-b86f-16c612eea501",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "corpse-consumption-116284",
   title: "Corpse Consumption",
   key: "corpse-consumption-116284",

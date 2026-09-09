@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const glyphicOfTheTides193794 = {
   id: "019e6f53-a293-73ac-9423-e96e96fc3656",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "glyphic-of-the-tides-193794",
   title: "Glyphic of the Tides",
   key: "glyphic-of-the-tides-193794",

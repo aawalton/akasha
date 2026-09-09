@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const daedricProtection31417 = {
   id: "019e6f53-a064-7d9d-95e0-0189c7c1560a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "daedric-protection-31417",
   title: "Daedric Protection",
   key: "daedric-protection-31417",

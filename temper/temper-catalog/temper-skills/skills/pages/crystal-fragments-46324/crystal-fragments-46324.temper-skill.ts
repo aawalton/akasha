@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const crystalFragments46324 = {
   id: "019e6f53-a048-7e2a-8594-ab2ebbe8b350",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "crystal-fragments-46324",
   title: "Crystal Fragments",
   key: "crystal-fragments-46324",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const dilation139307 = {
   id: "019e6f53-a0cf-71f8-a621-c5c36c74ffdf",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "dilation-139307",
   title: "Dilation",
   key: "dilation-139307",

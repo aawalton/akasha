@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const glacialColossus = {
   id: "019e6245-a691-7c97-9185-0450381e6db0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "glacial-colossus",
   title: "Glacial Colossus",
   key: "glacial-colossus",

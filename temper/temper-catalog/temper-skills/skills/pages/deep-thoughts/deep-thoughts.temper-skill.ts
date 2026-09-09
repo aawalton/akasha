@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const deepThoughts = {
   id: "019e6238-c2b1-7347-b321-74fa09a497c2",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "deep-thoughts",
   title: "Deep Thoughts",
   key: "deep-thoughts",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bondWithNature86064 = {
   id: "019e6f53-9f6d-7f1a-bc14-c36ff755c766",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bond-with-nature-86064",
   title: "Bond with Nature",
   key: "bond-with-nature-86064",

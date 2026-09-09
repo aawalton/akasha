@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const chokingTalons20251 = {
   id: "019e6f53-9fe2-78ba-987a-9b47c62a8d6b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "choking-talons-20251",
   title: "Choking Talons",
   key: "choking-talons-20251",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const findersKeepers = {
   id: "019e6238-c2bd-7899-b7db-89380eb3e789",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "finders-keepers",
   title: "Finders Keepers",
   key: "finders-keepers",

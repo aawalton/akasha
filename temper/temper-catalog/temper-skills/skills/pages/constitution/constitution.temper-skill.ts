@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const constitution = {
   id: "019e6238-c2ad-7ba1-8359-5a75a15d6450",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "constitution",
   title: "Constitution",
   key: "constitution",

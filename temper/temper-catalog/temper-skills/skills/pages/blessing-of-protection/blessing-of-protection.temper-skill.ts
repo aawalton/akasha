@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const blessingOfProtection = {
   id: "019e6f53-9f30-70bb-8995-08c75a464425",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "blessing-of-protection",
   title: "Blessing of Protection",
   key: "blessing-of-protection",

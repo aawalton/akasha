@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const boundAegis24163 = {
   id: "019e6f53-9f7b-7d77-b2fd-0c5dbe9dba06",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bound-aegis-24163",
   title: "Bound Aegis",
   key: "bound-aegis-24163",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bloodMagic = {
   id: "019e6245-a5fd-7845-b9e1-625c5eefc4f8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "blood-magic",
   title: "Blood Magic",
   key: "blood-magic",

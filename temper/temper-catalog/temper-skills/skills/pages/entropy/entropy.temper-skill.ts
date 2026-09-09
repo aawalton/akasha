@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const entropy = {
   id: "019e6f53-a194-765d-94b1-fa934697f56c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "entropy",
   title: "Entropy",
   key: "entropy",

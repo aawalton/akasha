@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const crescentSweep22139 = {
   id: "019e6f53-a030-77ed-9b2d-6313550ad5b3",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "crescent-sweep-22139",
   title: "Crescent Sweep",
   key: "crescent-sweep-22139",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const beckoningArmor118237 = {
   id: "019e6f53-9eff-76ce-9cce-c9bf9dec646c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "beckoning-armor-118237",
   title: "Beckoning Armor",
   key: "beckoning-armor-118237",

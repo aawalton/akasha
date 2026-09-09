@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const echoingVigor = {
   id: "019e6251-4cab-7fad-be0f-fd157585a0dd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "echoing-vigor",
   title: "Echoing Vigor",
   key: "echoing-vigor",

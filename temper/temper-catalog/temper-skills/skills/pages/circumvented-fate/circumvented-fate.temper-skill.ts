@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const circumventedFate = {
   id: "019e6245-a61d-7791-8cf0-c818f2bb3ff1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "circumvented-fate",
   title: "Circumvented Fate",
   key: "circumvented-fate",

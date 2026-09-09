@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const blessingAtThePeak = {
   id: "019e6f53-9f2e-7464-9d24-8832f82790fe",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "blessing-at-the-peak",
   title: "Blessing at the Peak",
   key: "blessing-at-the-peak",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bolsteringDarkness = {
   id: "019e6245-a600-7858-b6a0-7a97cd8c8868",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bolstering-darkness",
   title: "Bolstering Darkness",
   key: "bolstering-darkness",

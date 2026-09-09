@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const coreOfFlame = {
   id: "019e6f53-a022-7eb0-81e3-8ef22c2ae44d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "core-of-flame",
   title: "Core of Flame",
   key: "core-of-flame",

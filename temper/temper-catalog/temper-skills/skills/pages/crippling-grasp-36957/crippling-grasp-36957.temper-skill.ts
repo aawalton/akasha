@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const cripplingGrasp36957 = {
   id: "019e6f53-a034-74de-8561-80705d6a92d8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "crippling-grasp-36957",
   title: "Crippling Grasp",
   key: "crippling-grasp-36957",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const curativeSurge = {
   id: "019e6245-a62e-7ece-8f2b-018d83f6b09d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "curative-surge",
   title: "Curative Surge",
   key: "curative-surge",

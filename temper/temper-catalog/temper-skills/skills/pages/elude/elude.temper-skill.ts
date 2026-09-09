@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const elude = {
   id: "019e6238-c2b5-78df-a869-e3412244cac4",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "elude",
   title: "Elude",
   key: "elude",

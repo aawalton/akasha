@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const clawsOfAnguish58864 = {
   id: "019e6f53-9ff0-7563-aceb-b7026c5acfcd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "claws-of-anguish-58864",
   title: "Claw Fury",
   key: "claws-of-anguish-58864",

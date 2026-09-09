@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const deadlyCloak38906 = {
   id: "019e6f53-a091-7f4d-ba38-36b24da2a394",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "deadly-cloak-38906",
   title: "Deadly Cloak",
   key: "deadly-cloak-38906",

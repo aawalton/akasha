@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const followUp = {
   id: "019e6226-00f2-7c16-9995-54924f771bb5",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "follow-up",
   title: "Follow Up",
   key: "follow-up",

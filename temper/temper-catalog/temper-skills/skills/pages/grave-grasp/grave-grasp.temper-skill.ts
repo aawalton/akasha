@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const graveGrasp = {
   id: "019e6f53-a29d-7d71-8583-ce289b5b3a54",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "grave-grasp",
   title: "Grave Grasp",
   key: "grave-grasp",

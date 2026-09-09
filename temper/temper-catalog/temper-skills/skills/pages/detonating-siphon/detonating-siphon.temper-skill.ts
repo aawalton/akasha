@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const detonatingSiphon = {
   id: "019e6245-a652-7c31-8c2f-031fe3e58169",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "detonating-siphon",
   title: "Detonating Siphon",
   key: "detonating-siphon",

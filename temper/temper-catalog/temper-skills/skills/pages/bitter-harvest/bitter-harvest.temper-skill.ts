@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bitterHarvest = {
   id: "019e6f53-9f15-758c-9ef9-08a590d7e9d2",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bitter-harvest",
   title: "Bitter Harvest",
   key: "bitter-harvest",

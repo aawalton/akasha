@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const fleetFootedGate = {
   id: "019e6245-a685-78ca-86f8-b76f23128850",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "fleet-footed-gate",
   title: "Fleet-Footed Gate",
   key: "fleet-footed-gate",

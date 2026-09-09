@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const darkConversion24589 = {
   id: "019e6f53-a073-716a-b4f8-cfa9cc54085e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "dark-conversion-24589",
   title: "Dark Conversion",
   key: "dark-conversion-24589",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const dawnbreakerOfSmiting = {
   id: "019e6238-c2b0-75c0-878f-8421daaec9a2",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "dawnbreaker-of-smiting",
   title: "Dawnbreaker of Smiting",
   key: "dawnbreaker-of-smiting",

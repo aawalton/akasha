@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const combatMedic = {
   id: "019e6251-4c9f-7e59-8c08-4a644bccc46d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "combat-medic",
   title: "Combat Medic",
   key: "combat-medic",

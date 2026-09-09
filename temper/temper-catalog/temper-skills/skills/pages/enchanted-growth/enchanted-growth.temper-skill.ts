@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const enchantedGrowth = {
   id: "019e6245-a666-73fd-b18d-ff5a9d3618d9",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "enchanted-growth",
   title: "Enchanted Growth",
   key: "enchanted-growth",

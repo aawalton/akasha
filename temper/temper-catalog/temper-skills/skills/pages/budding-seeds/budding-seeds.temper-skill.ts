@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const buddingSeeds = {
   id: "019e6245-a607-7d9d-a649-843bf0020d04",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "budding-seeds",
   title: "Budding Seeds",
   key: "budding-seeds",

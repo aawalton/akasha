@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const domination = {
   id: "019e6251-4ca9-7658-9a4f-7e06d38645e6",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "domination",
   title: "Domination",
   key: "domination",

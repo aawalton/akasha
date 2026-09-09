@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const earthspikeMantle = {
   id: "019e6f53-a0fe-76f2-8968-087d472f9fbd",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "earthspike-mantle",
   title: "Earthspike Mantle",
   key: "earthspike-mantle",

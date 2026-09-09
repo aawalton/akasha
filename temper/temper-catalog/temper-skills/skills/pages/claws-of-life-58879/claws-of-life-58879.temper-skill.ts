@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const clawsOfLife58879 = {
   id: "019e6f53-9ff3-73e4-8617-449c1588832f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "claws-of-life-58879",
   title: "Bloodclaws",
   key: "claws-of-life-58879",

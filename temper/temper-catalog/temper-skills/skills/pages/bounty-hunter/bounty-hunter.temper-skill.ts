@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const bountyHunter = {
   id: "019e6238-c29e-715a-b1c9-1452572e3902",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bounty-hunter",
   title: "Bounty Hunter",
   key: "bounty-hunter",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const elderDragon29460 = {
   id: "019e6f53-a10c-7208-8334-79f279a7d48a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "elder-dragon-29460",
   title: "Elder Dragon",
   key: "elder-dragon-29460",

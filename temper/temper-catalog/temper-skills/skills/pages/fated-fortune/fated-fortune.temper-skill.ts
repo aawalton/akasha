@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const fatedFortune = {
   id: "019e6245-a680-71b7-b269-65d3840a53b0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "fated-fortune",
   title: "Fated Fortune",
   key: "fated-fortune",

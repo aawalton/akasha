@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const fortress = {
   id: "019e6226-00f5-735a-a4e2-5efcff7c22ed",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "fortress",
   title: "Fortress",
   key: "fortress",

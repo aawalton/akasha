@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const drainPower = {
   id: "019e6f53-a0e9-7b9c-8c11-dde553e4b1ec",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "drain-power",
   title: "Drain Power",
   key: "drain-power",

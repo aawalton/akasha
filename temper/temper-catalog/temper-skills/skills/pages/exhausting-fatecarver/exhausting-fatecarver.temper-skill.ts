@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const exhaustingFatecarver = {
   id: "019e6245-a677-7edb-a0ca-ca62e83ca80b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "exhausting-fatecarver",
   title: "Exhausting Fatecarver",
   key: "exhausting-fatecarver",

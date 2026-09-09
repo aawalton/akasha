@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const concentration = {
   id: "019e6238-c2ab-7300-a822-caf917244679",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "concentration",
   title: "Concentration",
   key: "concentration",

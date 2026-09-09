@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const chakramOfDestiny = {
   id: "019e6245-a619-765a-b402-4b4becff383f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "chakram-of-destiny",
   title: "Chakram of Destiny",
   key: "chakram-of-destiny",

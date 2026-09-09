@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const giftOfMagnus = {
   id: "019e624a-12ca-732b-bda2-e3a5e7e6bf79",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "gift-of-magnus",
   title: "Gift of Magnus",
   key: "gift-of-magnus",

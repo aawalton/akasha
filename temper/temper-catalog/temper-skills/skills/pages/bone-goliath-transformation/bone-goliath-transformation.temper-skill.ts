@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const boneGoliathTransformation = {
   id: "019e6f53-9f70-7487-a540-436302ac6103",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "bone-goliath-transformation",
   title: "Bone Goliath Transformation",
   key: "bone-goliath-transformation",

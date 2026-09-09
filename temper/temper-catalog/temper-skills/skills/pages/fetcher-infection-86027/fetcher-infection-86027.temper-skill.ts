@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const fetcherInfection86027 = {
   id: "019e6f53-a1f9-7ab0-a0d5-e3f60e5c5a9c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "fetcher-infection-86027",
   title: "Fetcher Infection",
   key: "fetcher-infection-86027",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const coalescence = {
   id: "019e6251-4c9c-7ec4-b3ad-07230d75a11c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "coalescence",
   title: "Coalescence",
   key: "coalescence",

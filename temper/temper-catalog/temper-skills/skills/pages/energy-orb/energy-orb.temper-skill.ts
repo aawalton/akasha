@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const energyOrb = {
   id: "019e6238-c2b8-730a-bd80-67b03c978f7a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "energy-orb",
   title: "Energy Orb",
   key: "energy-orb",
