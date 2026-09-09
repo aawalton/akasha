@@ -6,6 +6,7 @@ export type QuestionAskedBy = Slug
 export const questionAskedBy = {
   id: "01a06823-89b2-7002-ab72-c525aa8adb1e",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "question-asked-by",
   propertySlug: "asked-by",
   definition: "the persona who put a question to Alan",

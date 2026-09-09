@@ -6,6 +6,7 @@ export type BuildScript = Slug
 export const buildScript = {
   id: "01a059b5-9616-700c-8d3b-e1a440b57051",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "build-script",
   propertySlug: "build-script",
   definition: "the script that builds an app",

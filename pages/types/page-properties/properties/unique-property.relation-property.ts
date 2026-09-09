@@ -5,6 +5,7 @@ export type UniqueProperty = string
 export const uniqueProperty = {
   id: "01a07c96-3272-7d36-9394-051287145f2a",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "unique-property",
   propertySlug: "unique-property",
   definition: "the property whose value a unique value is unique within",

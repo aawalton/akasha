@@ -6,6 +6,7 @@ export type Owner = Slug
 export const owner = {
   id: "01a06c50-b15f-7d22-9f4b-7590e602dd05",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "owner",
   propertySlug: "owner",
   definition: "the property naming the account a page belongs to",

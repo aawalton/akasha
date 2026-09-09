@@ -7,6 +7,7 @@ export type ModelTests = List<Slug>
 export const modelTests = {
   id: "01a05911-aa17-7af6-9941-6715a1205f25",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "model-tests",
   propertySlug: "model-tests",
   definition: "the tests a check puts to a model, in the order they are run",

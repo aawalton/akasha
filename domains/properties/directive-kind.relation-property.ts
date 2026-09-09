@@ -5,6 +5,7 @@ export type DirectiveKind = "rule" | "principle"
 export const directiveKind = {
   id: "01a04e1f-cbf6-7619-8cf2-ab2e898f5abe",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "directive-kind",
   propertySlug: "directive-kind",
   definition: "which sort of directive one entry is",

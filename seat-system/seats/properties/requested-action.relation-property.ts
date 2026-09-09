@@ -6,6 +6,7 @@ export type RequestedAction = Slug
 export const requestedAction = {
   id: "01a0542c-d18d-723c-8b98-1841c0eeef14",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "requested-action",
   propertySlug: "action",
   definition: "what a seat's supervisor has been asked to do",

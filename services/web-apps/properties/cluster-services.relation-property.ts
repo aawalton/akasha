@@ -7,6 +7,7 @@ export type ClusterServices = List<Slug>
 export const clusterServices = {
   id: "01a05b26-f8b6-7334-a5d4-d44ab19e071e",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "cluster-services",
   propertySlug: "cluster-services",
   definition: "the cluster services running a web app",

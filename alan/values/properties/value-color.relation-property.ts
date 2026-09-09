@@ -6,6 +6,7 @@ export type ValueColor = Slug
 export const valueColor = {
   id: "01a06d7a-e9f7-7f1b-b0c4-15f3742e8352",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "value-color",
   propertySlug: "color",
   definition: "the color a value is always drawn in",

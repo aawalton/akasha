@@ -6,6 +6,7 @@ export type Guards = Slug
 export const guards = {
   id: "01a07744-1311-7388-8533-715d6c538707",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "guards",
   propertySlug: "guards",
   definition: "a guard that runs on the answer a change gives",

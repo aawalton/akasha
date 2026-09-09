@@ -6,6 +6,7 @@ export type TurnStateColor = Slug
 export const turnStateColor = {
   id: "01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "turn-state-color",
   propertySlug: "color",
   definition: "the color a seat in this turn state is drawn in",

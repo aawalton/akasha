@@ -6,6 +6,7 @@ export type LogSource = Slug
 export const logSource = {
   id: "01a0657c-cb14-750f-8488-9fcedbe02a80",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "log-source",
   propertySlug: "source",
   definition: "the stream a day of lines was written by",

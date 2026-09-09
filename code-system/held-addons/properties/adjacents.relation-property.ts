@@ -7,6 +7,7 @@ export type Adjacents = List<Slug>
 export const adjacents = {
   id: "01a0819d-cca3-7df9-8049-79ddfe74c1e3",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "adjacents",
   propertySlug: "adjacents",
   definition: "the addons a bite at this addon reaches",

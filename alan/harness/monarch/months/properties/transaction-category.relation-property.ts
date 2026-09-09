@@ -6,6 +6,7 @@ export type TransactionCategory = Slug
 export const transactionCategory = {
   id: "01a0680b-2b00-700b-b148-5a2c9e7d210c",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "transaction-category",
   propertySlug: "category",
   definition: "what a transaction counts as",

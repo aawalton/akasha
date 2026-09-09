@@ -6,6 +6,7 @@ export type SectionOf = Slug
 export const sectionOf = {
   id: "01a08189-6150-743e-b860-1baeba37171d",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "section-of",
   propertySlug: "section-of",
   definition: "the collection a section is an instalment of",

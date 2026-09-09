@@ -6,6 +6,7 @@ export type SourcePersona = Slug
 export const sourcePersona = {
   id: "01a06d68-851d-7f22-97a3-73cc26de43fd",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "source-persona",
   propertySlug: "persona",
   definition: "the persona whose points a source is counted into",

@@ -6,6 +6,7 @@ export type AnsweredBy = Slug
 export const answeredBy = {
   id: "01a053e6-3585-7b1a-86ec-d3f1f6b2169f",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "answered-by",
   propertySlug: "answered-by",
   definition: "the persona a person hears from",

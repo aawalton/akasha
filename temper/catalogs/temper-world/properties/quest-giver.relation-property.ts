@@ -5,6 +5,7 @@ export type QuestGiver = string
 export const questGiver = {
   id: "01a05fc4-7a93-7960-9695-186bd5fc0248",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "quest-giver",
   propertySlug: "quest-giver",
   definition: "the character handing out a dungeon's pledge",

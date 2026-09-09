@@ -6,6 +6,7 @@ export type Attribute = Slug
 export const attribute = {
   id: "01a081ef-0b0a-7889-962d-2e766b9aedee",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "attribute",
   propertySlug: "attribute",
   definition: "the attribute whose points a reading counts",

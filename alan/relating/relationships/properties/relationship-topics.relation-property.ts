@@ -6,6 +6,7 @@ export type RelationshipTopics = Slug
 export const relationshipTopics = {
   id: "01a06594-c6e2-763a-bd70-ce2e63227768",
   pageTypeSlug: "relation-property",
+  type: "relation-property",
   slug: "relationship-topics",
   propertySlug: "relationship-topics",
   definition: "the subjects Alan and this person talk about",
