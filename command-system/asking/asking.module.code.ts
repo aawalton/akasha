@@ -5,6 +5,7 @@ import type { Judging } from "@akasha/checks/judging"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils/fs/missing"
+import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { preparing, sequenced } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
@@ -27,7 +28,6 @@ import {
   reported,
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
-import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"

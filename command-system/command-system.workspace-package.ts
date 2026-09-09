@@ -34,7 +34,6 @@ export const commandSystem = {
     "module/change-freshness",
     "module/value-minting",
     "module/folder-clearing",
-    "module/manifest-locking",
     "module/address-mapping",
     "module/argument-reading",
     "module/body-merging",

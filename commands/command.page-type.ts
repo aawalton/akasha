@@ -59,6 +59,7 @@ export const command = {
     "module/worked-typing",
     "module/type-generating",
     "module/export-naming",
+    "module/manifest-locking",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
