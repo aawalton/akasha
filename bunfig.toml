@@ -1,6 +1,6 @@
 [test]
 preload = [
-  "@akasha/testing-system/dom-guard-setting",
+  "akasha/testing-system/dom-guard-setting/dom-guard-setting.module.code.ts",
   "@akasha/pages/test-run-marking",
 ]
 
