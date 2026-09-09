@@ -8,7 +8,7 @@ import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.
 import { counted } from "../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { holding } from "../../modules/holding/holding.module.code.ts"
-import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "../infrastructure/service/name-drawing/name-drawing.module.code.ts"
 
 export const REFRESH = "refresh"
 

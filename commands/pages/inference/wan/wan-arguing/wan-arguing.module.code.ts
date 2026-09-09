@@ -1,5 +1,5 @@
 import type { Given } from "../../../../modules/calling/calling.module.code.ts"
-import { namesDrawn } from "../../../../modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "../../../infrastructure/service/name-drawing/name-drawing.module.code.ts"
 import {
   heldOnce,
   numberIn as numbered,

@@ -10,7 +10,7 @@ import { everyService, readFor } from "@akasha/service/service-reading"
 import { installedUnitName } from "@akasha/service/unit-writing"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "./name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1
 const DATA = 2

@@ -30,7 +30,7 @@ import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
+import { namesDrawn } from "../service/name-drawing/name-drawing.module.code.ts"
 import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 
 export const BOOTSTRAP = "bootstrap"
