@@ -29,7 +29,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const STAGE_FLAG = "--stage"
 
-const GENERATED_DIR_REL = "temper/build-deploy-checks/generated"
+const GENERATED_DIR_REL = "temper/build-deploy-checks"
 
 const STEM = "eso-colon-methods"
 
