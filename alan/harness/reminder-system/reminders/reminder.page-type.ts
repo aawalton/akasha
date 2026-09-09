@@ -1,18 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { NextAt } from "./properties/next-at.instant-property.ts"
-import type { ReminderSchedule } from "./properties/reminder-schedule.text-property.ts"
-import type { ReminderText } from "./properties/reminder-text.text-property.ts"
-import type { SentFrom } from "./properties/sent-from.relation-property.ts"
-import type { SentTo } from "./properties/sent-to.relation-property.ts"
-
-export type Reminder = Page & {
-  to: SentTo
-  from: SentFrom
-  schedule: ReminderSchedule
-  text: ReminderText
-  nextAt?: NextAt
-}
 
 export const reminder = {
   id: "01a05f42-d941-7001-9948-d1816099c8ac",
@@ -74,4 +60,5 @@ export const reminder = {
       statement: "A reminder says nothing about how the words reach the persona named.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
