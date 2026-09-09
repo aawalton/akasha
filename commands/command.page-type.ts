@@ -67,6 +67,7 @@ export const command = {
     "module/restating",
     "module/differing",
     "module/patching",
+    "module/folder-clearing",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",

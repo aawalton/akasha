@@ -29,7 +29,6 @@ export const commandSystem = {
     "module/scratching",
     "module/change-freshness",
     "module/value-minting",
-    "module/folder-clearing",
     "module/argument-reading",
     "module/body-merging",
     "module/drafting",
