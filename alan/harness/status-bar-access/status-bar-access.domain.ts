@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const statusBarAccess = {
   id: "01a05c9d-4096-7000-9ca0-5ff9f4e38802",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "status-bar-access",
   definition: "a day's cardio reading, drawn from the health samples a watch recorded",
-  manifest: "json",
   parts: ["module/session-reading"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const statusBarAccess = {
       statement: "Nothing here reaches the store itself.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

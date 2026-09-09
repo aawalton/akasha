@@ -48,7 +48,7 @@ export const alanHarness = {
     "workspace-package/supabase-client",
     "workspace-package/errors-client",
     "workspace-package/supabase-rr",
-    "workspace-package/status-bar-access",
+    "domain/status-bar-access",
     "workspace-package/mobile-cli",
     "workspace-package/icloud-photos",
     "workspace-package/rules-engine",

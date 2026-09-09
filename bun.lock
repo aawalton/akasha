@@ -14,6 +14,8 @@
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/google-email": "workspace:*",
+        "@akasha/health-samples-access": "workspace:*",
+        "@akasha/health-samples-day": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
@@ -284,13 +286,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "alan/harness/status-bar-access": {
-      "name": "@akasha/status-bar-access",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@akasha/health-samples-day": "workspace:*",
-      },
-    },
     "alan/harness/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -413,7 +408,6 @@
         "@akasha/persons": "workspace:*",
         "@akasha/reading": "workspace:*",
         "@akasha/sms-core": "workspace:*",
-        "@akasha/status-bar-access": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -1239,7 +1233,6 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/persons": "workspace:*",
-        "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "isbot": "^5.1.36",
@@ -2760,8 +2753,6 @@
     "@akasha/spotify": ["@akasha/spotify@workspace:alan/music/spotify"],
 
     "@akasha/ssh-access": ["@akasha/ssh-access@workspace:alan/harness/ssh-access"],
-
-    "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:alan/harness/status-bar-access"],
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
