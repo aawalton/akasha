@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0003248TheAftermath = {
   story: "speedrunning-the-multiverse-complete",
   position: 3,
   ownLength: 1817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1256080/248-the-aftermath",

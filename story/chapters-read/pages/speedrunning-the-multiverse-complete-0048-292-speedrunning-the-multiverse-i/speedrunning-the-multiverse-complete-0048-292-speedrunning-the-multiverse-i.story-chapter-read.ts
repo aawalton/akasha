@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0048292SpeedrunningTheMultiverseI 
   story: "speedrunning-the-multiverse-complete",
   position: 48,
   ownLength: 2027,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1321216/292-speedrunning-the-multiverse-i",

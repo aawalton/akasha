@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0034Book2CoverRevealPoll = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 34,
   ownLength: 1449,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3695869/book-2-cover-reveal-poll",

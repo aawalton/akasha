@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0002Chapter2CowInACage = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 2,
   ownLength: 2794,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525635/chapter-2-cow-in-a-cage",

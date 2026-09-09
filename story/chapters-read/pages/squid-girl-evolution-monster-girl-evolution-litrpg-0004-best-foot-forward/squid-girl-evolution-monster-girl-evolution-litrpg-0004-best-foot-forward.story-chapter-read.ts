@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0004BestFootForward = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 4,
   ownLength: 1455,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2558971/best-foot-forward",

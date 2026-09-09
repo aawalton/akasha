@@ -8,7 +8,7 @@ export const savageDivinity0853Epilogue4Mila = {
   story: "savage-divinity",
   position: 853,
   ownLength: 7377,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662653/epilogue-4-mila",

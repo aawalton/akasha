@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0019Chapter19CowInTown = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 19,
   ownLength: 2078,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2628288/chapter-19-cow-in-town",

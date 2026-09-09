@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0003Embody = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 3,
   ownLength: 1608,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2554451/embody",

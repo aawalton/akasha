@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0040Chapter35GoldMine = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 40,
   ownLength: 1909,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3779331/chapter-35-gold-mine",

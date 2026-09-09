@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0029Chapter29CowOnTheGap = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 29,
   ownLength: 2178,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2841868/chapter-29-cow-on-the-gap",

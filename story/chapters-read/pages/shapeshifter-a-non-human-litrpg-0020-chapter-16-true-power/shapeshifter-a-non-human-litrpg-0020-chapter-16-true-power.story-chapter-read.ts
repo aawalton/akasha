@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0020Chapter16TruePower = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 20,
   ownLength: 1672,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3427349/chapter-16-true-power",

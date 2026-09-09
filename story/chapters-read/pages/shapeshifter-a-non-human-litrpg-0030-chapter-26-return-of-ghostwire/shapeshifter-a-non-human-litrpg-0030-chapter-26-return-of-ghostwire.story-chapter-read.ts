@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0030Chapter26ReturnOfGhostwire = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 30,
   ownLength: 1825,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3588846/chapter-26-return-of-ghostwire",

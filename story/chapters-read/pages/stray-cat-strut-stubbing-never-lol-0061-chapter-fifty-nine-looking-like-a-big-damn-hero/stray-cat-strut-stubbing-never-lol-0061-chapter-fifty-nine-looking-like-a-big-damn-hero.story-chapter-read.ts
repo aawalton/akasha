@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0061ChapterFiftyNineLookingLikeABigDam
   story: "stray-cat-strut-stubbing-never-lol",
   position: 61,
   ownLength: 1376,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559418/chapter-fifty-nine-looking-like-a-big-damn-hero",

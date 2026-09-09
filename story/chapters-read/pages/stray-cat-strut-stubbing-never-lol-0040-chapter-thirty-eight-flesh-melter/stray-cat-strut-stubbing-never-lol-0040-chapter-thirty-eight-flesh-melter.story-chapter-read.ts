@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0040ChapterThirtyEightFleshMelter = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 40,
   ownLength: 1048,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/540574/chapter-thirty-eight-flesh-melter",

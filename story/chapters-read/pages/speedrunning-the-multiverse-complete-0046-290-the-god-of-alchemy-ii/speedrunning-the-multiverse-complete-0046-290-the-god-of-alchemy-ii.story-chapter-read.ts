@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0046290TheGodOfAlchemyIi = {
   story: "speedrunning-the-multiverse-complete",
   position: 46,
   ownLength: 1696,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1319139/290-the-god-of-alchemy-ii",

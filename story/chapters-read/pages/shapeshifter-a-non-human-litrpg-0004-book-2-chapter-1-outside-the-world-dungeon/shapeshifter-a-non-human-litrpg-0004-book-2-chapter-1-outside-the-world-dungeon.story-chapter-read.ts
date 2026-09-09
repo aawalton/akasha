@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0004Book2Chapter1OutsideTheWorldDungeon 
   story: "shapeshifter-a-non-human-litrpg",
   position: 4,
   ownLength: 2085,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3169084/book-2-chapter-1-outside-the-world-dungeon",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0018Chapter14HealersInstinct = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 18,
   ownLength: 2161,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3394590/chapter-14-healers-instinct",

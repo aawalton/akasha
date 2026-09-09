@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0015Chapter11BackIntoTheDungeon = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 15,
   ownLength: 1997,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3308975/chapter-11-back-into-the-dungeon",

@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0038282TheGoddessOfLightIx = {
   story: "speedrunning-the-multiverse-complete",
   position: 38,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1306673/282-the-goddess-of-light-ix",

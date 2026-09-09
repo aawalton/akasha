@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0026Chapter22CorpseInspection = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 26,
   ownLength: 1710,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3523890/chapter-22-corpse-inspection",

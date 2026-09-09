@@ -8,7 +8,7 @@ export const savageDivinity0849Chapter840TheEnd = {
   story: "savage-divinity",
   position: 849,
   ownLength: 9596,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1000695/chapter-840-the-end",

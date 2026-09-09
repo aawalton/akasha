@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0024Chapter24CowAtACeremony = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 24,
   ownLength: 1875,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2717149/chapter-24-cow-at-a-ceremony",

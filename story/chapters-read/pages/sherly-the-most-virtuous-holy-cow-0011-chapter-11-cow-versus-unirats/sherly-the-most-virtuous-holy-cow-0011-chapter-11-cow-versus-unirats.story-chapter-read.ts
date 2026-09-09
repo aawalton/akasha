@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0011Chapter11CowVersusUnirats = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 11,
   ownLength: 2412,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2541580/chapter-11-cow-versus-unirats",

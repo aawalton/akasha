@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0001Chapter1CowOnTheRun = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 1,
   ownLength: 2545,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525463/chapter-1-cow-on-the-run",

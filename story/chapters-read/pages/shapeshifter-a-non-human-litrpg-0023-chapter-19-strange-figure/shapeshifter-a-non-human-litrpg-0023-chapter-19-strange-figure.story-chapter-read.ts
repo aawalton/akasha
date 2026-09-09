@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0023Chapter19StrangeFigure = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 23,
   ownLength: 1950,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3482743/chapter-19-strange-figure",

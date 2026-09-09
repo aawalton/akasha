@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0014Chapter10NewParty = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 14,
   ownLength: 1481,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3303004/chapter-10-new-party",

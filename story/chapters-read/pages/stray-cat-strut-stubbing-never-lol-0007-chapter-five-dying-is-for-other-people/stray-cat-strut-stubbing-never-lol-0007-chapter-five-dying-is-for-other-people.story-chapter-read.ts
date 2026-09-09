@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0007ChapterFiveDyingIsForOtherPeople =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 7,
   ownLength: 1163,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/527782/chapter-five-dying-is-for-other-people",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0007Chapter4PoliceAtTheDoor = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 7,
   ownLength: 2005,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3214183/chapter-4-police-at-the-door",

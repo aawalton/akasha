@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0043Chapter38Dreamscape = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 43,
   ownLength: 1964,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3903749/chapter-38-dreamscape",

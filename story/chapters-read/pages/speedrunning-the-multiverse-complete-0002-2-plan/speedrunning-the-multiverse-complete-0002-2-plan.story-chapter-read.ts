@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete00022Plan = {
   story: "speedrunning-the-multiverse-complete",
   position: 2,
   ownLength: 2325,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745992/2-plan",

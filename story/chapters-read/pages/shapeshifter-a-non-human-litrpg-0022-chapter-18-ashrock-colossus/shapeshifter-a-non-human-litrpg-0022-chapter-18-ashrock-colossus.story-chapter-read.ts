@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0022Chapter18AshrockColossus = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 22,
   ownLength: 2098,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3460129/chapter-18-ashrock-colossus",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0029Chapter25LevelingParadise = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 29,
   ownLength: 2194,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3579541/chapter-25-leveling-paradise",

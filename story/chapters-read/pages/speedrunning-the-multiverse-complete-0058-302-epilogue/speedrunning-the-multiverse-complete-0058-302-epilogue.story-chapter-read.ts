@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0058302Epilogue = {
   story: "speedrunning-the-multiverse-complete",
   position: 58,
   ownLength: 867,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1329442/302-epilogue",

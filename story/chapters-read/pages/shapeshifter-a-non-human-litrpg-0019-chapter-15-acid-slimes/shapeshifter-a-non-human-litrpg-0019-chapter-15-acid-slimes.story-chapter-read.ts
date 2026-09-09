@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0019Chapter15AcidSlimes = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 19,
   ownLength: 1971,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3418122/chapter-15-acid-slimes",

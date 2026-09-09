@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0001Chapter1Devour = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 1,
   ownLength: 2571,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/2405412/chapter-1-devour",

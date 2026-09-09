@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0008Chapter5GuildAssociationsHeadquarter
   story: "shapeshifter-a-non-human-litrpg",
   position: 8,
   ownLength: 1510,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3222200/chapter-5-guild-associations-headquarters",

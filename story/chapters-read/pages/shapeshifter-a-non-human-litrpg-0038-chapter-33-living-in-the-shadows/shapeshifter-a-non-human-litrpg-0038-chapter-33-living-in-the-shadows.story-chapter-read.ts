@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 38,
   ownLength: 1965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3745964/chapter-33-living-in-the-shadows",

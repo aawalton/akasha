@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0042Chapter37Ascension = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 42,
   ownLength: 1872,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3894466/chapter-37-ascension",

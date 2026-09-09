@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0032Chapter28BountyHunting = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 32,
   ownLength: 1937,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3621649/chapter-28-bounty-hunting",

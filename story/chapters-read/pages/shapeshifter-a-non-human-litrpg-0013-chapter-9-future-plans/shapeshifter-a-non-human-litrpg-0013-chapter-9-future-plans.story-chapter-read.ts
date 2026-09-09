@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0013Chapter9FuturePlans = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 13,
   ownLength: 1901,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3281055/chapter-9-future-plans",

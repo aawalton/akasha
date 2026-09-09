@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0018Chapter18CowReadsBetweenTheLines = 
   story: "sherly-the-most-virtuous-holy-cow",
   position: 18,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2613038/chapter-18-cow-reads-between-the-lines",

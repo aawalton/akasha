@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0012Chapter8FoundingAGuild = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 12,
   ownLength: 2269,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3272344/chapter-8-founding-a-guild",

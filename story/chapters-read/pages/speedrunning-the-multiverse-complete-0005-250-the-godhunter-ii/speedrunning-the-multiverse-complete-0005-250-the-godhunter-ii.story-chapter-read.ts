@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0005250TheGodhunterIi = {
   story: "speedrunning-the-multiverse-complete",
   position: 5,
   ownLength: 1577,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1260072/250-the-godhunter-ii",

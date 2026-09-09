@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0023Chapter23CowsNewDay = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 23,
   ownLength: 2153,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2709043/chapter-23-cows-new-day",

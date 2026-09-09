@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete00011TimeStartsNow = {
   story: "speedrunning-the-multiverse-complete",
   position: 1,
   ownLength: 2759,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/745468/1-time-starts-now",

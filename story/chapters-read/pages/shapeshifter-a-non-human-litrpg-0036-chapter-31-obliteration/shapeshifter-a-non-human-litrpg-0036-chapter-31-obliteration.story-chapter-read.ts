@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0036Chapter31Obliteration = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 36,
   ownLength: 1417,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3714712/chapter-31-obliteration",

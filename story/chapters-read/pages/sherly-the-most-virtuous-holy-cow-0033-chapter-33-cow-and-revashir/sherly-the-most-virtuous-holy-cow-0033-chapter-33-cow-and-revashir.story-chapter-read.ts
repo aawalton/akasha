@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0033Chapter33CowAndRevashir = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 33,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2973561/chapter-33-cow-and-revashir",

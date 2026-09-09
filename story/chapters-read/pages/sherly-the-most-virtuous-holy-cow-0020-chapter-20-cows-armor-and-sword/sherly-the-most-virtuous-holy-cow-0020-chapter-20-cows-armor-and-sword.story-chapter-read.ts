@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0020Chapter20CowsArmorAndSword = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 20,
   ownLength: 2021,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2643547/chapter-20-cows-armor-and-sword",

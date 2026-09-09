@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0005Chapter5CowEatCow = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 5,
   ownLength: 2027,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525698/chapter-5-cow-eat-cow",

@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0021Book1KindleAudibleLaunch = {
   story: "speedrunning-the-multiverse-complete",
   position: 21,
   ownLength: 150,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1282277/book-1-kindle-audible-launch",

@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0026270MtTaiV = {
   story: "speedrunning-the-multiverse-complete",
   position: 26,
   ownLength: 1964,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1289396/270-mt-tai-v",

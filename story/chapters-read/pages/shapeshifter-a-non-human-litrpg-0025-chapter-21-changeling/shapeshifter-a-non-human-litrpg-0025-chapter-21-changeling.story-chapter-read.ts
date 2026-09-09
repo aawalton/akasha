@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0025Chapter21Changeling = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 25,
   ownLength: 2345,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3514229/chapter-21-changeling",

@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0001DigitalSquid = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 1,
   ownLength: 1351,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2552746/digital-squid",

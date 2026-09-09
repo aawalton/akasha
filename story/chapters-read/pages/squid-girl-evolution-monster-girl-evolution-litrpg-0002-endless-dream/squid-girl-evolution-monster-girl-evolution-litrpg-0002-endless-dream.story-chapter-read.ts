@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0002EndlessDream = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 2,
   ownLength: 1328,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2553903/endless-dream",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0016Chapter12CanopyStalker = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 16,
   ownLength: 1785,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3328749/chapter-12-canopy-stalker",

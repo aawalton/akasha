@@ -8,7 +8,7 @@ export const savageDivinity0851Epilogue2Yan = {
   story: "savage-divinity",
   position: 851,
   ownLength: 7254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662651/epilogue-2-yan",

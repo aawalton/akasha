@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0062ChapterSixtyAUniqueCombatDoctrine 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 62,
   ownLength: 1475,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/559899/chapter-sixty-a-unique-combat-doctrine",

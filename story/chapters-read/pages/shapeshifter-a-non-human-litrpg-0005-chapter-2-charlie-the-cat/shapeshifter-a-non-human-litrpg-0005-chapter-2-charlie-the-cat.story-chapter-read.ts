@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0005Chapter2CharlieTheCat = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 5,
   ownLength: 2041,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3187501/chapter-2-charlie-the-cat",

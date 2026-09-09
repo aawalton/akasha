@@ -8,7 +8,7 @@ export const savageDivinity0852Epilogue3LuoLuo = {
   story: "savage-divinity",
   position: 852,
   ownLength: 7170,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662652/epilogue-3-luo-luo",

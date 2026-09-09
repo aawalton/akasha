@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0056300FinaleVi = {
   story: "speedrunning-the-multiverse-complete",
   position: 56,
   ownLength: 2120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1328759/300-finale-vi",

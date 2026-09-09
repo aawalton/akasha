@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0017Chapter17CowBackToSafety = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 17,
   ownLength: 2500,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2605043/chapter-17-cow-back-to-safety",

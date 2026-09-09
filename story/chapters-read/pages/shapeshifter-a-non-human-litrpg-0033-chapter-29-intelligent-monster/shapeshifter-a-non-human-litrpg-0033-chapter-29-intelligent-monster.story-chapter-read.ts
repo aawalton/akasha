@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0033Chapter29IntelligentMonster = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 33,
   ownLength: 1621,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3684623/chapter-29-intelligent-monster",

@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0008Fleshmob = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 8,
   ownLength: 3187,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2595628/fleshmob",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0031Chapter27LyingInWait = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 31,
   ownLength: 1780,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3612004/chapter-27-lying-in-wait",

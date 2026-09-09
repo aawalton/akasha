@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0015Chapter15CowGirlChanges = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 15,
   ownLength: 2060,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2576110/chapter-15-cow-girl-changes",

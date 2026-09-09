@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0029273ThePowerOfTheGodhunterIii =
   story: "speedrunning-the-multiverse-complete",
   position: 29,
   ownLength: 1777,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1292644/273-the-power-of-the-godhunter-iii",

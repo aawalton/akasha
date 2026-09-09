@@ -8,7 +8,7 @@ export const savageDivinity0854Epilogue5LiSong = {
   story: "savage-divinity",
   position: 854,
   ownLength: 7108,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/1662654/epilogue-5-li-song",

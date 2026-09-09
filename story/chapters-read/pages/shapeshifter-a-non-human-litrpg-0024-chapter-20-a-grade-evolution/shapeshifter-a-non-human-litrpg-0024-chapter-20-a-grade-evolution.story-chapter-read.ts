@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0024Chapter20AGradeEvolution = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 24,
   ownLength: 1535,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3491844/chapter-20-a-grade-evolution",

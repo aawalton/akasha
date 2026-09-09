@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0044ChapterFortyTwoBackAgainstTheWall 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 44,
   ownLength: 1547,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/542429/chapter-forty-two-back-against-the-wall",

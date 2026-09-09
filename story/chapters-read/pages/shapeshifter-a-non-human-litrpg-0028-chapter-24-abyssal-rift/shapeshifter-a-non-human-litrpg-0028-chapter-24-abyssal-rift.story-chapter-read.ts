@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0028Chapter24AbyssalRift = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 28,
   ownLength: 1720,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3556464/chapter-24-abyssal-rift",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0011Chapter7ElfHealer = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 11,
   ownLength: 2267,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3251578/chapter-7-elf-healer",

@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0044288TheChimera = {
   story: "speedrunning-the-multiverse-complete",
   position: 44,
   ownLength: 1552,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1315204/288-the-chimera",

@@ -8,7 +8,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0009CampAtTheBailey = {
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 9,
   ownLength: 1492,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2633124/camp-at-the-bailey",

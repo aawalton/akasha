@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0003Chapter3CowHatesDemonCattle = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 3,
   ownLength: 2340,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525650/chapter-3-cow-hates-demon-cattle",

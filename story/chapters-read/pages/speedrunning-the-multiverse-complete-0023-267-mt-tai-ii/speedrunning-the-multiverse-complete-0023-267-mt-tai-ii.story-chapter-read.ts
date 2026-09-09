@@ -8,7 +8,7 @@ export const speedrunningTheMultiverseComplete0023267MtTaiIi = {
   story: "speedrunning-the-multiverse-complete",
   position: 23,
   ownLength: 1683,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1284057/267-mt-tai-ii",

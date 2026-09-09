@@ -8,7 +8,7 @@ export const sherlyTheMostVirtuousHolyCow0009Chapter9CowStudy = {
   story: "sherly-the-most-virtuous-holy-cow",
   position: 9,
   ownLength: 2053,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow/chapter/2525776/chapter-9-cow-study",

@@ -8,7 +8,7 @@ export const shapeshifterANonHumanLitrpg0027Chapter23Infiltrator = {
   story: "shapeshifter-a-non-human-litrpg",
   position: 27,
   ownLength: 1370,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/123277/faceless-hunter-a-shapeshifter-litrpg/chapter/3547425/chapter-23-infiltrator",
