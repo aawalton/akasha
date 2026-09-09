@@ -5,7 +5,7 @@ export const forgeOfDestiny0541LaunchDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0541-launch-day",
   title: "Launch Day!",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 541,
   ownLength: 119,
   unitSlug: "words",

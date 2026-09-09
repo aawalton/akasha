@@ -5,7 +5,7 @@ export const gamerGirlEvolution003636OneShot = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0036-36-one-shot",
   title: "36 - One-Shot?",
-  partOfCollectionSlugs: ["gamer-girl-evolution"],
+  storySlug: "gamer-girl-evolution",
   position: 36,
   ownLength: 1674,
   ownProgress: 1674,

@@ -5,7 +5,7 @@ export const godOfTrash008888SurelyAYoungMaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0088-88-surely-a-young-master",
   title: "88. Surely a Young Master",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 88,
   ownLength: 2118,
   unitSlug: "words",

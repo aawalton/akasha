@@ -5,7 +5,7 @@ export const gamerGirlEvolution001313HeyCelicaWhatSANoob = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0013-13-hey-celica-what-s-a-noob",
   title: "13 - Hey Celica... What's a Noob?",
-  partOfCollectionSlugs: ["gamer-girl-evolution"],
+  storySlug: "gamer-girl-evolution",
   position: 13,
   ownLength: 1678,
   ownProgress: 1678,

@@ -5,7 +5,7 @@ export const godOfTrash005959PurpleDawnAcademy = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0059-59-purple-dawn-academy",
   title: "59. Purple Dawn Academy",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 59,
   ownLength: 2766,
   unitSlug: "words",

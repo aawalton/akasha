@@ -5,7 +5,7 @@ export const forgeOfDestiny0517Threads472Glass2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0517-threads-472-glass-2",
   title: "Threads 472-Glass 2",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 517,
   ownLength: 2529,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0530Threads485Market2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0530-threads-485-market-2",
   title: "Threads 485 Market 2",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 530,
   ownLength: 1651,
   unitSlug: "words",

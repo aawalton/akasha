@@ -5,7 +5,7 @@ export const godOfTrash001919CombatPractice = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0019-19-combat-practice",
   title: "19. Combat Practice",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 19,
   ownLength: 2456,
   unitSlug: "words",

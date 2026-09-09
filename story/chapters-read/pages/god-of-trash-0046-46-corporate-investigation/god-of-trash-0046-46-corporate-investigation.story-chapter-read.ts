@@ -5,7 +5,7 @@ export const godOfTrash004646CorporateInvestigation = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0046-46-corporate-investigation",
   title: "46. Corporate Investigation",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 46,
   ownLength: 2981,
   unitSlug: "words",

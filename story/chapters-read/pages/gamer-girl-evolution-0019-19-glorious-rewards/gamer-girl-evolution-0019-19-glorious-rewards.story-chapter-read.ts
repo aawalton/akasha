@@ -5,7 +5,7 @@ export const gamerGirlEvolution001919GloriousRewards = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0019-19-glorious-rewards",
   title: "19 - Glorious Rewards",
-  partOfCollectionSlugs: ["gamer-girl-evolution"],
+  storySlug: "gamer-girl-evolution",
   position: 19,
   ownLength: 2190,
   ownProgress: 2190,

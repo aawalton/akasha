@@ -5,7 +5,7 @@ export const godOfTrash00055Scalping = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0005-5-scalping",
   title: "5. Scalping",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 5,
   ownLength: 4113,
   unitSlug: "words",

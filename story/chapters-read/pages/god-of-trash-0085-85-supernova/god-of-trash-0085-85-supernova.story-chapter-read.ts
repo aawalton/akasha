@@ -5,7 +5,7 @@ export const godOfTrash008585Supernova = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0085-85-supernova",
   title: "85. Supernova",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 85,
   ownLength: 2310,
   unitSlug: "words",

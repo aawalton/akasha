@@ -5,7 +5,7 @@ export const godOfTrash008282FirstMatch = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0082-82-first-match",
   title: "82. First Match",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 82,
   ownLength: 3040,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash004141SmallFavorsForWetWomen = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0041-41-small-favors-for-wet-women",
   title: "41. Small Favors for Wet Women",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 41,
   ownLength: 2619,
   unitSlug: "words",

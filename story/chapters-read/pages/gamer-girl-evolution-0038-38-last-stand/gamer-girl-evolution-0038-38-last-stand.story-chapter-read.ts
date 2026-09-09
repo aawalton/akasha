@@ -5,7 +5,7 @@ export const gamerGirlEvolution003838LastStand = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0038-38-last-stand",
   title: "38 - Last Stand",
-  partOfCollectionSlugs: ["gamer-girl-evolution"],
+  storySlug: "gamer-girl-evolution",
   position: 38,
   ownLength: 1905,
   ownProgress: 1905,

@@ -5,7 +5,7 @@ export const godOfTrash005050PluckingADiamond = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0050-50-plucking-a-diamond",
   title: "50. Plucking a Diamond",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 50,
   ownLength: 1876,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash006363RareEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0063-63-rare-encounter",
   title: "63. Rare Encounter",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 63,
   ownLength: 3944,
   unitSlug: "words",

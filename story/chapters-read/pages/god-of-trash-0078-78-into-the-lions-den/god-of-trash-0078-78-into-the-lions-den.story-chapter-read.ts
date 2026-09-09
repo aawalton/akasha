@@ -5,7 +5,7 @@ export const godOfTrash007878IntoTheLionsDen = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0078-78-into-the-lions-den",
   title: "78. Into the Lion's Den",
-  partOfCollectionSlugs: ["god-of-trash"],
+  storySlug: "god-of-trash",
   position: 78,
   ownLength: 3873,
   unitSlug: "words",
