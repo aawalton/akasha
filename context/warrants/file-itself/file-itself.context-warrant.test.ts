@@ -56,7 +56,12 @@ function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  valueAlsoFiled(root, FILE_PROPERTY, [{ path: PROPERTY_AT, value }])
+  valueAlsoFiled(root, FILE_PROPERTY, [
+    {
+      path: PROPERTY_AT,
+      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value },
+    },
+  ])
   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
     { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },
@@ -66,7 +71,7 @@ function seeded(value: Value): string {
   valueAlsoFiled(root, WORKSPACE, [
     { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: WORKSPACE, slug: "one" } },
   ])
-  relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  relationFiled(root, PROPERTY_ID, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   writing(root, OWNER_AT, "one\n")
   writing(root, LOCKFILE, "one\n")
   writing(root, ELSEWHERE, "one\n")
