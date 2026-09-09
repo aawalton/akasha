@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut27
   id: "01a08396-559b-7f6e-9158-7991a97dafc5",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0022-my-next-story-song-of-the-gift-giver-is-now-out-2708278",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 22,
   publishedAt: "2025-10-27",
   unitSlug: "words",

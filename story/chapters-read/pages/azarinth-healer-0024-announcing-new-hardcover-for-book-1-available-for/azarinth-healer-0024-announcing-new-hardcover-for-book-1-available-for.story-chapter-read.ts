@@ -4,7 +4,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableFor = {
   id: "01a08396-10be-73cd-af54-3ab227d75a96",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0024-announcing-new-hardcover-for-book-1-available-for",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 24,
   publishedAt: "2026-03-13",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bewareOfChicken0049V4c36TheLabourSEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0049-v4c36-the-labour-s-end",
   title: "v4c36: The Labour's End",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 49,
   ownLength: 2671,
   ownProgress: 2671,

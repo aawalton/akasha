@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0004InterludeTheMagicElementsExplained = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0004-interlude-the-magic-elements-explained",
   title: "Interlude - The Magic Elements Explained!",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 4,
   ownLength: 1392,
   unitSlug: "words",

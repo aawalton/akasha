@@ -4,7 +4,7 @@ export const arkendrithyst0445255bYggdrasilsGuideToMargleknot = {
   id: "01a08395-9334-7a11-b8d8-ca89a49ed3fd",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0445-255b-yggdrasils-guide-to-margleknot",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 445,
   publishedAt: "2023-10-13",
   unitSlug: "words",

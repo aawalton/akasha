@@ -4,7 +4,7 @@ export const bewareOfChicken0016V4c10Boundaries1222026 = {
   id: "01a08396-642f-7555-b4f6-520fc904dbeb",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0016-v4c10-boundaries-1222026",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 16,
   publishedAt: "2023-05-23",
   unitSlug: "words",

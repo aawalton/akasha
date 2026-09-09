@@ -5,7 +5,7 @@ export const bewareOfChicken0057V4c44APickledPrank = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0057-v4c44-a-pickled-prank",
   title: "v4c44: A Pickled Prank",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 57,
   ownLength: 2283,
   ownProgress: 2283,

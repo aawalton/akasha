@@ -4,7 +4,7 @@ export const bewareOfChicken0025V4c17TheVerdantBladeSect1254955 = {
   id: "01a08396-6c5b-77f0-8cec-727eeda56f02",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0025-v4c17-the-verdant-blade-sect-1254955",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 25,
   publishedAt: "2023-06-23",
   unitSlug: "words",

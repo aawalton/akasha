@@ -4,7 +4,7 @@ export const bewareOfChicken0014V4c8VictoryAndLoss1217680 = {
   id: "01a08396-625e-7ba8-baf4-6feaf9d8a67a",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0014-v4c8-victory-and-loss-1217680",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 14,
   publishedAt: "2023-05-19",
   unitSlug: "words",

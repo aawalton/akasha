@@ -4,7 +4,7 @@ export const azarinthHealer0009Chapter930Shelter1149664 = {
   id: "01a08396-02b2-7223-8bb6-1a7a79b39a2e",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0009-chapter-930-shelter-1149664",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 9,
   publishedAt: "2023-03-27",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0020-hey-where-did-the-chapters-go",
   title: "Hey! Where did the chapters go?",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 20,
   ownLength: 80,
   unitSlug: "words",

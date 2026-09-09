@@ -4,7 +4,7 @@ export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAnd = {
   id: "01a08396-0867-7147-a9db-9bf79d8201b1",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0015-azarinth-healer-book-3-out-today-on-amazon-and",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 15,
   publishedAt: "2023-12-11",
   unitSlug: "words",

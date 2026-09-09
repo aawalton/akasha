@@ -4,7 +4,7 @@ export const azarinthHealer0003Chapter3GlowingMoss198179 = {
   id: "01a08395-fd2f-790b-9c5a-b107ce4c6f76",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0003-chapter-3-glowing-moss-198179",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 3,
   publishedAt: "2018-03-02",
   unitSlug: "words",

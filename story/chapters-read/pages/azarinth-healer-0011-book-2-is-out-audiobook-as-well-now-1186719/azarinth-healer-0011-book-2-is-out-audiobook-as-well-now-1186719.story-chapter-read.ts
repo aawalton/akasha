@@ -4,7 +4,7 @@ export const azarinthHealer0011Book2IsOutAudiobookAsWellNow1186719 = {
   id: "01a08396-048b-7830-9d94-16af55a80ba5",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0011-book-2-is-out-audiobook-as-well-now-1186719",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 11,
   publishedAt: "2023-04-20",
   unitSlug: "words",

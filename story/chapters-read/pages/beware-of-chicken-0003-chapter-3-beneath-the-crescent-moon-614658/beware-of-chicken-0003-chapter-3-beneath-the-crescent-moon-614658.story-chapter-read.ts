@@ -4,7 +4,7 @@ export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon614658 = {
   id: "01a08396-585f-76c1-af7e-88db474f1ba1",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0003-chapter-3-beneath-the-crescent-moon-614658",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 3,
   publishedAt: "2021-01-14",
   unitSlug: "words",

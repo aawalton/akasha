@@ -4,7 +4,7 @@ export const bewareOfChicken0009V4c43TheOldMonstersPlanP3 = {
   id: "01a08396-5dec-7916-8f37-58c7263bbd63",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0009-v4c43-the-old-monsters-plan-p3",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 9,
   publishedAt: "2023-04-30",
   unitSlug: "words",

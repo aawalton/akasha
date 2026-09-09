@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0014ChapterTheWish1875405 = {
   id: "01a08396-4e6a-709e-9a4c-0ea26e2d0f4f",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0014-chapter-the-wish-1-875405",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 14,
   publishedAt: "2022-04-01",
   unitSlug: "words",

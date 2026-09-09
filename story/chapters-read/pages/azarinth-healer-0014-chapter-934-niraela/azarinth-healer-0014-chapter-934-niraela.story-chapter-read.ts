@@ -5,7 +5,7 @@ export const azarinthHealer0014Chapter934Niraela = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0014-chapter-934-niraela",
   title: "Chapter 934 Niraela",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 14,
   ownLength: 3009,
   unitSlug: "words",

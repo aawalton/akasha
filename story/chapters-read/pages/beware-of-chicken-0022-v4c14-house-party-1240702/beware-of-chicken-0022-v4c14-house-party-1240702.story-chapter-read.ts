@@ -4,7 +4,7 @@ export const bewareOfChicken0022V4c14HouseParty1240702 = {
   id: "01a08396-699f-7238-bc26-53160bc6a663",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0022-v4c14-house-party-1240702",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 22,
   publishedAt: "2023-06-10",
   unitSlug: "words",

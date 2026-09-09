@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork1374936 = {
   id: "01a08396-51f4-7768-8899-4c71f712a49e",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0018-btdem-crossover-artwork-1374936",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 18,
   publishedAt: "2023-10-15",
   unitSlug: "words",

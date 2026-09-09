@@ -5,7 +5,7 @@ export const bewareOfChicken0036V4c27TheLifeBefore = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0036-v4c27-the-life-before",
   title: "v4c27: The Life Before",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 36,
   ownLength: 2896,
   ownProgress: 2896,

@@ -4,7 +4,7 @@ export const bewareOfChicken0026V4c18LeaderOfTheNextGeneration1257104 = {
   id: "01a08396-6d4a-725d-a08c-d6a4b78fbc34",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0026-v4c18-leader-of-the-next-generation-1257104",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 26,
   publishedAt: "2023-06-25",
   unitSlug: "words",

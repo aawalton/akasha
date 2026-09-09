@@ -4,7 +4,7 @@ export const bewareOfChicken0047V4c35TheGrassSeaCastleCrashers1324390 = {
   id: "01a08396-b261-77a7-ac4b-a910d7a43e9e",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0047-v4c35-the-grass-sea-castle-crashers-1324390",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 47,
   publishedAt: "2023-08-28",
   unitSlug: "words",

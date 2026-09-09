@@ -5,7 +5,7 @@ export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0050-v4c37-the-legend-of-the-azure-heroes",
   title: "v4c37: The Legend of the Azure Heroes",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 50,
   ownLength: 2904,
   ownProgress: 2904,

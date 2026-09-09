@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0015TheProblemsWithBeneathTheDragoneyeMoons
   id: "01a08396-4f4b-724c-aabb-40a88e0c2f38",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0015-the-problems-with-beneath-the-dragoneye-moons-941664",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 15,
   publishedAt: "2022-07-04",
   unitSlug: "words",

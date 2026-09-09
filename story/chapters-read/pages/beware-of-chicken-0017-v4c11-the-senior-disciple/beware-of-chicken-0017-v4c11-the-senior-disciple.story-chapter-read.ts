@@ -5,7 +5,7 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0017-v4c11-the-senior-disciple",
   title: "v4c11: The Senior Disciple",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 17,
   ownLength: 3907,
   ownProgress: 3907,

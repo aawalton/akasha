@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon1224011 = {
   id: "01a08396-510f-7d8f-a598-af8792721c84",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0017-book-10-is-now-on-amazon-1224011",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 17,
   publishedAt: "2023-05-24",
   unitSlug: "words",

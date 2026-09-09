@@ -4,7 +4,7 @@ export const bewareOfChicken0055V4c42FortyYearsAndFortyMore1349716 = {
   id: "01a08396-b9a3-7cab-a3fb-48f2443e0265",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0055-v4c42-forty-years-and-forty-more-1349716",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 55,
   publishedAt: "2023-09-21",
   unitSlug: "words",

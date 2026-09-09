@@ -5,7 +5,7 @@ export const arkendrithyst0445255bYggdrasilSGuideToMargleknot = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0445-255b-yggdrasil-s-guide-to-margleknot",
   title: "255b, Yggdrasil's Guide to Margleknot",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 445,
   ownLength: 2177,
   ownProgress: 2177,

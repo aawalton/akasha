@@ -4,7 +4,7 @@ export const bewareOfChicken0052V4c39SellingMoonlight1336135 = {
   id: "01a08396-b6e9-7a2e-a13d-122e7389937e",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0052-v4c39-selling-moonlight-1336135",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 52,
   publishedAt: "2023-09-08",
   unitSlug: "words",

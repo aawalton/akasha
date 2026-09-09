@@ -4,7 +4,7 @@ export const bewareOfChicken0017V4c11TheSeniorDisciple1224170 = {
   id: "01a08396-651b-7f01-a418-da49726c8f10",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0017-v4c11-the-senior-disciple-1224170",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 17,
   publishedAt: "2023-05-25",
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const bewareOfChicken0004WebVolume4releaseVolume6BeginsChapter1 = {
   id: "01a08396-5946-759b-9e9d-b35a04248057",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0004-web-volume-4release-volume-6-begins-chapter-1",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 4,
   publishedAt: "2023-04-17",
   unitSlug: "words",

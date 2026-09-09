@@ -4,7 +4,7 @@ export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes1332094 = {
   id: "01a08396-b51a-7f49-b718-d24a792a6687",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0050-v4c37-the-legend-of-the-azure-heroes-1332094",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 50,
   publishedAt: "2023-09-04",
   unitSlug: "words",

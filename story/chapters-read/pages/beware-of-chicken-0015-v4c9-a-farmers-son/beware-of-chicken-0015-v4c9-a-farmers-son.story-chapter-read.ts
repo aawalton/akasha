@@ -4,7 +4,7 @@ export const bewareOfChicken0015V4c9AFarmersSon = {
   id: "01a08396-6343-73f5-8a69-c26c7025dcda",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0015-v4c9-a-farmers-son",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 15,
   publishedAt: "2023-05-21",
   unitSlug: "words",

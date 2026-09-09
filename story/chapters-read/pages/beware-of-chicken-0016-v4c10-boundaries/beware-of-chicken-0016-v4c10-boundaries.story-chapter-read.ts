@@ -5,7 +5,7 @@ export const bewareOfChicken0016V4c10Boundaries = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0016-v4c10-boundaries",
   title: "v4c10 Boundaries",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 16,
   ownLength: 1753,
   ownProgress: 1753,

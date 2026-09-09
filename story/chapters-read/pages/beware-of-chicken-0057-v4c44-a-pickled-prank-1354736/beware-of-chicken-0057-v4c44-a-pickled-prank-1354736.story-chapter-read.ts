@@ -4,7 +4,7 @@ export const bewareOfChicken0057V4c44APickledPrank1354736 = {
   id: "01a08396-bb70-7fa8-b71a-4899ec91e594",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0057-v4c44-a-pickled-prank-1354736",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 57,
   publishedAt: "2023-09-26",
   unitSlug: "words",

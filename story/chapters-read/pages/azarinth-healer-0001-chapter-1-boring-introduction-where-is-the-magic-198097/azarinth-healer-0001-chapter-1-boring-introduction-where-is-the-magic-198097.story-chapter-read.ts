@@ -4,7 +4,7 @@ export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic198097 =
   id: "01a08395-fb5a-70d7-b77a-71e963219388",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0001-chapter-1-boring-introduction-where-is-the-magic-198097",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 1,
   publishedAt: "2018-03-02",
   unitSlug: "words",

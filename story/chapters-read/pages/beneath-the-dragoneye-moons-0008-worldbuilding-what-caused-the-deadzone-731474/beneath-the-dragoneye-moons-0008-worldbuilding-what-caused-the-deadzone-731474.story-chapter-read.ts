@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone73147
   id: "01a08396-491c-7a74-93d3-ab192cb83e5c",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0008-worldbuilding-what-caused-the-deadzone-731474",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 8,
   publishedAt: "2021-08-10",
   unitSlug: "words",

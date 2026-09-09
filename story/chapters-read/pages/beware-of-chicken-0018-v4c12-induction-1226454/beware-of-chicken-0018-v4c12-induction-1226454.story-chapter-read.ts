@@ -4,7 +4,7 @@ export const bewareOfChicken0018V4c12Induction1226454 = {
   id: "01a08396-660a-784c-bfd9-c8e6b9ebd0a9",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0018-v4c12-induction-1226454",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 18,
   publishedAt: "2023-05-27",
   unitSlug: "words",

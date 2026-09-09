@@ -4,7 +4,7 @@ export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooks = {
   id: "01a08396-00d9-73d7-b1a7-a60fc6ef3b43",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0007-azarinth-healer-book-one-edited-by-portal-books",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 7,
   publishedAt: "2022-11-08",
   unitSlug: "words",

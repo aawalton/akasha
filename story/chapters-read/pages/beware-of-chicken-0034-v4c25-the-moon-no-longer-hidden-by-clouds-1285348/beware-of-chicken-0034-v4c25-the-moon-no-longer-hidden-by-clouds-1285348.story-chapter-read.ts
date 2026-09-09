@@ -4,7 +4,7 @@ export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds1285348 = {
   id: "01a08396-a692-7709-ba84-7d19851c12c3",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0034-v4c25-the-moon-no-longer-hidden-by-clouds-1285348",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 34,
   publishedAt: "2023-07-22",
   unitSlug: "words",

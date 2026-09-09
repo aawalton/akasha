@@ -4,7 +4,7 @@ export const bewareOfChicken0019V4c122InductionPart2 = {
   id: "01a08396-66f1-7088-8e0d-d1660107a9fc",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0019-v4c122-induction-part-2",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 19,
   publishedAt: "2023-06-01",
   unitSlug: "words",

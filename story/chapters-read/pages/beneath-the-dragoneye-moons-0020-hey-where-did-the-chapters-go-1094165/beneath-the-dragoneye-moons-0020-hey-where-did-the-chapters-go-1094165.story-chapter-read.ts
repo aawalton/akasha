@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo1094165 = {
   id: "01a08396-53bd-78dc-b386-12e413518023",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0020-hey-where-did-the-chapters-go-1094165",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 20,
   publishedAt: "2023-01-22",
   unitSlug: "words",

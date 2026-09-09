@@ -4,7 +4,7 @@ export const bewareOfChicken0044V4c33TheTyrantOrTheGuardianPart11309703 = {
   id: "01a08396-afb7-7488-8ef2-d6b4bd18e2a5",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0044-v4c33-the-tyrant-or-the-guardian-part-1-1309703",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 44,
   publishedAt: "2023-08-14",
   unitSlug: "words",

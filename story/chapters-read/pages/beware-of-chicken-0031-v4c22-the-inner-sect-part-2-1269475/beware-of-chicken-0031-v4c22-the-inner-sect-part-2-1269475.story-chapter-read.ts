@@ -4,7 +4,7 @@ export const bewareOfChicken0031V4c22TheInnerSectPart21269475 = {
   id: "01a08396-a3d8-7668-b751-9749933cbdee",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0031-v4c22-the-inner-sect-part-2-1269475",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 31,
   publishedAt: "2023-07-07",
   unitSlug: "words",

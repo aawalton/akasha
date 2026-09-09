@@ -5,7 +5,7 @@ export const azarinthHealer0003Chapter3GlowingMoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0003-chapter-3-glowing-moss",
   title: "Chapter 3 Glowing Moss",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 3,
   ownLength: 3544,
   unitSlug: "words",

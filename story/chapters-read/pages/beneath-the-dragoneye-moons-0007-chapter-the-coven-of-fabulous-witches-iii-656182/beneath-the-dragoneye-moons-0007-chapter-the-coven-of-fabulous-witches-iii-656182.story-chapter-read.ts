@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0007ChapterTheCovenOfFabulousWitchesIii6561
   id: "01a08396-4839-74a2-8c37-56b491e49723",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0007-chapter-the-coven-of-fabulous-witches-iii-656182",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 7,
   publishedAt: "2021-04-01",
   unitSlug: "words",

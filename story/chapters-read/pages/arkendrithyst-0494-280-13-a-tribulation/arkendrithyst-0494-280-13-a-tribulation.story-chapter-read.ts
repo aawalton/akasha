@@ -4,7 +4,7 @@ export const arkendrithyst049428013ATribulation = {
   id: "01a08395-f091-7bcb-8561-a080da0a8642",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0494-280-13-a-tribulation",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 494,
   publishedAt: "2024-04-20",
   unitSlug: "words",

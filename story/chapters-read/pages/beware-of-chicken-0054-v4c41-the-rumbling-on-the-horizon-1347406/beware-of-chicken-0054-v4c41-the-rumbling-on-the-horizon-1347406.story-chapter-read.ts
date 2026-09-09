@@ -4,7 +4,7 @@ export const bewareOfChicken0054V4c41TheRumblingOnTheHorizon1347406 = {
   id: "01a08396-b8b6-7592-8c8f-c5238bf7f62e",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0054-v4c41-the-rumbling-on-the-horizon-1347406",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 54,
   publishedAt: "2023-09-19",
   unitSlug: "words",

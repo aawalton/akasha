@@ -4,7 +4,7 @@ export const bewareOfChicken0001Chapter1HeBravelyTurnedHisTailAndFled614481 = {
   id: "01a08396-5688-706d-8d05-21592ae0a930",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0001-chapter-1-he-bravely-turned-his-tail-and-fled-614481",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 1,
   publishedAt: "2021-01-14",
   unitSlug: "words",

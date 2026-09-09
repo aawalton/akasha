@@ -4,7 +4,7 @@ export const arkendrithyst044125412StartOfBook9 = {
   id: "01a08395-8f88-7c95-bcd2-1bc8189f04ef",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0441-254-12-start-of-book-9",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 441,
   publishedAt: "2023-10-01",
   unitSlug: "words",

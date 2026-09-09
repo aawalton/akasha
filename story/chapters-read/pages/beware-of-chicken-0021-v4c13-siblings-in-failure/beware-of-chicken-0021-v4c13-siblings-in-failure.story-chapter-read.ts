@@ -5,7 +5,7 @@ export const bewareOfChicken0021V4c13SiblingsInFailure = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0021-v4c13-siblings-in-failure",
   title: "v4c13: Siblings in Failure",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 21,
   ownLength: 2875,
   ownProgress: 2875,

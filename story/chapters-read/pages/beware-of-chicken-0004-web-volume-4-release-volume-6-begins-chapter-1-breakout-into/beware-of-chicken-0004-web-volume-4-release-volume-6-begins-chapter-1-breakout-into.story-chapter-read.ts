@@ -5,7 +5,7 @@ export const bewareOfChicken0004WebVolume4ReleaseVolume6BeginsChapter1BreakoutIn
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0004-web-volume-4-release-volume-6-begins-chapter-1-breakout-into",
   title: "WEB Volume 4/Release Volume 6 Begins: Chapter 1: Breakout, into the World",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 4,
   ownLength: 3155,
   ownProgress: 3155,

@@ -5,7 +5,7 @@ export const azarinthHealer0013Chapter933Coffee = {
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0013-chapter-933-coffee",
   title: "Chapter 933 Coffee",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 13,
   ownLength: 2750,
   unitSlug: "words",

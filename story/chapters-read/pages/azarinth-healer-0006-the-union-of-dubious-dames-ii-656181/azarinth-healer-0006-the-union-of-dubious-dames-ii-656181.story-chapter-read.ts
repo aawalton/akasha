@@ -4,7 +4,7 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi656181 = {
   id: "01a08395-fff2-75aa-b40a-b06e4f7e0ef8",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii-656181",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 6,
   publishedAt: "2021-04-01",
   unitSlug: "words",

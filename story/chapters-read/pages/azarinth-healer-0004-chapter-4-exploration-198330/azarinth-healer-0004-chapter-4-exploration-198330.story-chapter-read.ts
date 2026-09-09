@@ -4,7 +4,7 @@ export const azarinthHealer0004Chapter4Exploration198330 = {
   id: "01a08395-fe1c-7af0-b46d-e94b1af48303",
   pageTypeSlug: "story-chapter-read",
   slug: "azarinth-healer-0004-chapter-4-exploration-198330",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 4,
   publishedAt: "2018-03-03",
   unitSlug: "words",

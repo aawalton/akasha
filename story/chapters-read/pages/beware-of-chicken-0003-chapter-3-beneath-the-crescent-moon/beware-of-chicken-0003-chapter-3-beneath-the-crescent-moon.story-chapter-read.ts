@@ -5,7 +5,7 @@ export const bewareOfChicken0003Chapter3BeneathTheCrescentMoon = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0003-chapter-3-beneath-the-crescent-moon",
   title: "Chapter 3: Beneath the Crescent Moon",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 3,
   ownLength: 1461,
   ownProgress: 1461,

@@ -4,7 +4,7 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowwhiteDove
   id: "01a08396-4673-7d18-bae2-6c1209ab1fef",
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0005-interlude-bonus-content-black-crowwhite-dove",
-  storySlug: "story-read/beneath-the-dragoneye-moons",
+  story: "story-read/beneath-the-dragoneye-moons",
   position: 5,
   publishedAt: "2021-02-28",
   unitSlug: "words",

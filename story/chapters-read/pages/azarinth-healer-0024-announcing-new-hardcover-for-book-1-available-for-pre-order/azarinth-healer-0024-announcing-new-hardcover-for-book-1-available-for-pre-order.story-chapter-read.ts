@@ -6,7 +6,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrde
   slug: "azarinth-healer-0024-announcing-new-hardcover-for-book-1-available-for-pre-order",
   title:
     "Announcing new hardcover for book 1 available for pre-order! Not a chapter again, I'm sorry.",
-  storySlug: "story-read/azarinth-healer",
+  story: "story-read/azarinth-healer",
   position: 24,
   ownLength: 84,
   unitSlug: "words",

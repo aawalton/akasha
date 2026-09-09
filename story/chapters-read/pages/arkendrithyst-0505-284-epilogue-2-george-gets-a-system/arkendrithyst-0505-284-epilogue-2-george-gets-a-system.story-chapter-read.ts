@@ -5,7 +5,7 @@ export const arkendrithyst0505284Epilogue2GeorgeGetsASystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0505-284-epilogue-2-george-gets-a-system",
   title: "284 - Epilogue 2, George gets a System",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 505,
   ownLength: 20640,
   ownProgress: 20640,

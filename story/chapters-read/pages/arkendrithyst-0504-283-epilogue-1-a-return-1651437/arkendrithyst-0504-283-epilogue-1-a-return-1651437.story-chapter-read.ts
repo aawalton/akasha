@@ -4,7 +4,7 @@ export const arkendrithyst0504283Epilogue1AReturn1651437 = {
   id: "01a08395-f989-72c9-876b-85d7a9d5aab7",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0504-283-epilogue-1-a-return-1651437",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 504,
   publishedAt: "2024-05-26",
   unitSlug: "words",

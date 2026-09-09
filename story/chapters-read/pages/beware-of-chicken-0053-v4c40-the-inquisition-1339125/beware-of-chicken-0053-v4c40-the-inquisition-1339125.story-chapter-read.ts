@@ -4,7 +4,7 @@ export const bewareOfChicken0053V4c40TheInquisition1339125 = {
   id: "01a08396-b7c5-7ead-b1d9-2e8cebf85d64",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0053-v4c40-the-inquisition-1339125",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 53,
   publishedAt: "2023-09-11",
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const bewareOfChicken0029V4c21LifeInTheOuterSect1264311 = {
   id: "01a08396-a1d4-7bf1-9022-13cbd14e14d2",
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0029-v4c21-life-in-the-outer-sect-1264311",
-  storySlug: "story-read/beware-of-chicken",
+  story: "story-read/beware-of-chicken",
   position: 29,
   publishedAt: "2023-07-02",
   unitSlug: "words",
