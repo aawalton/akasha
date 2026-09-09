@@ -4,7 +4,7 @@ export const theCatalogCliIsAliveBehindTwoAkashaCommandsThatRefuse = {
   id: "01a060d3-cb3b-75bc-927e-a6d032494083",
   pageTypeSlug: "finding",
   slug: "the-catalog-cli-is-alive-behind-two-akasha-commands-that-refuse",
-  domain: "workspace-package/temper-catalog-side-file",
+  domain: "domain/temper-catalog-side-file",
   claim:
     "A survey called `temper/catalog-cli` the closest call to an unreached package in temper. It is reached: two live command entry points read it through one adapter, and the two akasha commands meant to replace them both answer a refusal naming the very code it holds. Its `src/index.ts` is `export {}`, which is what made it read as unreached. The two modules that carry the work have landed as `temper-catalog-side-file`.",
   evidence:

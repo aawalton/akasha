@@ -21,7 +21,6 @@
     "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@akasha/temper-catalog-side-file": "workspace:*",
     "@akasha/temper-community-addons": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-errors-triage": "workspace:*",

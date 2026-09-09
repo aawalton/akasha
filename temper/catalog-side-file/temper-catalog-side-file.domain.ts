@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCatalogSideFile = {
   id: "01a060ce-b8ca-70c9-aff9-a8d013b9d7e5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-catalog-side-file",
   definition: "what the catalog addon is told to collect again, written where the addon reads it",
-  manifest: "json",
   parts: ["module/catalog-side-file", "module/catalog-file-paths"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const temperCatalogSideFile = {
       statement: "Nothing here opens a file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

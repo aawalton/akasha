@@ -51,7 +51,6 @@
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-catalog-side-file": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
@@ -1274,14 +1273,6 @@
         "@akasha/temper-game-catalog-capture-addon": "workspace:*",
       },
     },
-    "temper/catalog-side-file": {
-      "name": "@akasha/temper-catalog-side-file",
-      "dependencies": {
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/characters-capture-addon": {
       "name": "@akasha/temper-characters-capture-addon",
       "dependencies": {
@@ -2419,8 +2410,6 @@
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/temper-catalog-core"],
-
-    "@akasha/temper-catalog-side-file": ["@akasha/temper-catalog-side-file@workspace:temper/catalog-side-file"],
 
     "@akasha/temper-champion-points": ["@akasha/temper-champion-points@workspace:temper/temper-champion-points"],
 
