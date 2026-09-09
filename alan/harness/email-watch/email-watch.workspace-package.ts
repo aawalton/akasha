@@ -6,7 +6,7 @@ export const emailWatch = {
   slug: "email-watch",
   definition: "what becomes of a message that arrives in Alan's inbox",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/email-rule-deciding",
     "module/email-rule-reading",
     "module/email-rule-set",

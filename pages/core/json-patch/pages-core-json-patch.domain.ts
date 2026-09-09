@@ -5,5 +5,5 @@ export const pagesCoreJsonPatch = {
   pageTypeSlug: "domain",
   slug: "pages-core-json-patch",
   definition: "a change to a JSON value said as a patch",
-  partSlugs: ["module/apply", "module/jsonb-ops"],
+  parts: ["module/apply", "module/jsonb-ops"],
 } as const satisfies Domain

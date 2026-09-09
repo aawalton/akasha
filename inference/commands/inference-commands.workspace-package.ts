@@ -6,7 +6,7 @@ export const inferenceCommands = {
   slug: "inference-commands",
   definition: "what an agent runs by name over the models the inference hosts serve",
   manifest: "json",
-  partSlugs: ["module/inference-answering"],
+  parts: ["module/inference-answering"],
   invariants: [
     {
       invariantKind: "departure",

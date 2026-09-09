@@ -6,7 +6,7 @@ export const lokiService = {
   slug: "loki-service",
   definition: "the manifests the cluster's log store and its collector are applied as",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "manifest/loki",
     "manifest/promtail",
     "module/loki-constants",

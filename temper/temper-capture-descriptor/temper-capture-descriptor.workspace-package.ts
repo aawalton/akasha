@@ -6,7 +6,7 @@ export const temperCaptureDescriptor = {
   slug: "temper-capture-descriptor",
   definition: "the shape an add-on's captured state takes where the game saves it",
   manifest: "json",
-  partSlugs: ["module/descriptor"],
+  parts: ["module/descriptor"],
   invariants: [
     {
       invariantKind: "departure",

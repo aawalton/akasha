@@ -6,7 +6,7 @@ export const statusBarAccess = {
   slug: "status-bar-access",
   definition: "a day's cardio reading, drawn from the health samples a watch recorded",
   manifest: "json",
-  partSlugs: ["module/session-reading"],
+  parts: ["module/session-reading"],
   invariants: [
     {
       invariantKind: "departure",

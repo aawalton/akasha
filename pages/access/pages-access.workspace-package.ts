@@ -6,7 +6,7 @@ export const pagesAccess = {
   slug: "pages-access",
   definition: "reading and writing pages, in the store and in the tree",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/answer",
     "module/answer-write",
     "module/capture-error",

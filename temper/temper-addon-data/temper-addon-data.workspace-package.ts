@@ -6,7 +6,7 @@ export const temperAddonData = {
   slug: "temper-addon-data",
   definition: "where each data file temper renders from its own pages is landed",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/addon-data-output-dirs",
     "module/addon-data-page-rows",
     "module/addon-data-pages",

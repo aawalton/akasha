@@ -6,7 +6,7 @@ export const k8sTypes = {
   slug: "k8s-types",
   definition: "the types a Kubernetes manifest is written from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/cdk8s-synth",
     "module/hostnames",
     "module/hostnames-ci-enrollment",

@@ -6,7 +6,7 @@ export const temperDungeonChampions = {
   slug: "temper-dungeon-champions",
   definition: "the group bosses of the public dungeons and delves of Tamriel, drawn on the map",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/dungeon-champion-names",
     "module/dungeon-champion-colors",
     "module/dungeon-champion-labels",

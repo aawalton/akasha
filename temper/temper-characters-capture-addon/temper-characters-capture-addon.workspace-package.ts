@@ -6,7 +6,7 @@ export const temperCharactersCaptureAddon = {
   slug: "temper-characters-capture-addon",
   definition: "what the game answers about the character playing now, read out as a build hash",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/character-capture-alliance-map",
     "module/character-capture-base-ability",
     "module/character-capture-build",

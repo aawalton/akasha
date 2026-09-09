@@ -6,7 +6,7 @@ export const pagesQuery = {
   slug: "pages-query",
   definition: "the page store reached over HTTP",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/store-page-asking",
     "module/store-questioning",
     "module/store-reaching",

@@ -6,7 +6,7 @@ export const readout = {
   slug: "readout",
   definition: "how a reading reaches the person it is for",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/readout",
     "page-type/readout-group",
     "page-type/readout-scale",

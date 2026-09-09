@@ -5,7 +5,7 @@ export const pagesUiBlockEditor = {
   pageTypeSlug: "domain",
   slug: "pages-ui-block-editor",
   definition: "a page edited as blocks",
-  partSlugs: [
+  parts: [
     "module/block-accessory-bar",
     "module/block-editor",
     "module/block-row",

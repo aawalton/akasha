@@ -5,7 +5,7 @@ export const personaPoints = {
   pageTypeSlug: "domain",
   slug: "persona-points",
   definition: "a measure of the attention Alan gave one part of his life",
-  partSlugs: ["module/persona-points-keeping"],
+  parts: ["module/persona-points-keeping"],
   invariants: [
     {
       invariantKind: "departure",

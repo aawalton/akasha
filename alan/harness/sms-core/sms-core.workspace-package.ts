@@ -6,7 +6,7 @@ export const smsCore = {
   slug: "sms-core",
   definition: "how a text message from a phone reaches the seat that answers it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/verify-signature",
     "module/telnyx-inbound",
     "module/sms-identity",

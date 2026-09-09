@@ -5,5 +5,5 @@ export const pagesUiCoverClick = {
   pageTypeSlug: "domain",
   slug: "pages-ui-cover-click",
   definition: "a click on a page's cover",
-  partSlugs: ["module/cover-click-registry", "module/cover-mask-registry"],
+  parts: ["module/cover-click-registry", "module/cover-mask-registry"],
 } as const satisfies Domain

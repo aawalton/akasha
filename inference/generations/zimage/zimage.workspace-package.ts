@@ -6,7 +6,7 @@ export const zimage = {
   slug: "zimage",
   definition: "images made from a prompt by the Z-Image diffusion model",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "container-recipe/zimage-image",
     "module/zimage-explore-batch",
     "module/zimage-explore-worker",

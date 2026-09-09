@@ -6,7 +6,7 @@ export const pagesUrl = {
   slug: "pages-url",
   definition: "the addresses a browser reaches pages at, and the ones a reader may be sent to",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/page-type-slug",
     "module/page-href",
     "module/page-listing-href",

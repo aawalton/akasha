@@ -6,7 +6,7 @@ export const persons = {
   slug: "persons",
   definition: "a human this system reaches, and what serving them takes",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/access-kind",
     "page-type/authority-kind",
     "page-type/device-secret",

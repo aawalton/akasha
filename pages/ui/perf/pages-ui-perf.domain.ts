@@ -5,5 +5,5 @@ export const pagesUiPerf = {
   pageTypeSlug: "domain",
   slug: "pages-ui-perf",
   definition: "how long drawing a page takes",
-  partSlugs: ["module/page-card-perf"],
+  parts: ["module/page-card-perf"],
 } as const satisfies Domain

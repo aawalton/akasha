@@ -6,7 +6,7 @@ export const designForms = {
   slug: "design-forms",
   definition: "the controls a form is built from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/calendar",
     "module/date-parser",
     "module/editable-number",

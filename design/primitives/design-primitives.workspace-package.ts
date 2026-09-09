@@ -6,7 +6,7 @@ export const designPrimitives = {
   slug: "design-primitives",
   definition: "the plain controls and surfaces every other design package is built from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/accordion",
     "module/alert",
     "module/alert-dialog",

@@ -6,7 +6,7 @@ export const healthSamplesImport = {
   slug: "health-samples-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/verdict-reading",
     "module/health-export",
     "module/laptop-host",

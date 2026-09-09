@@ -7,7 +7,7 @@ export const temperCharacterSources = {
   definition:
     "the effect sources a character build carries beyond its class, race, gear and skills",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/alliances",
     "module/character-roles",
     "module/curses",

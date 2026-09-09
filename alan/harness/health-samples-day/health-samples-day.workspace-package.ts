@@ -6,7 +6,7 @@ export const healthSamplesDay = {
   slug: "health-samples-day",
   definition: "a day's health readings, counted from the moment that day opened",
   manifest: "json",
-  partSlugs: ["module/opening-window", "module/active-calories"],
+  parts: ["module/opening-window", "module/active-calories"],
   invariants: [
     {
       invariantKind: "absence",

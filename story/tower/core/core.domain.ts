@@ -5,7 +5,7 @@ export const core = {
   pageTypeSlug: "domain",
   slug: "core",
   definition: "the shapes a tower game's characters, floors and saved state are stored in",
-  partSlugs: [
+  parts: [
     "module/character-schema",
     "module/floor-schema",
     "module/revealed-sheet",

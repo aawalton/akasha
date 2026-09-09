@@ -5,5 +5,5 @@ export const pagesUiTree = {
   pageTypeSlug: "domain",
   slug: "pages-ui-tree",
   definition: "pages held under one another",
-  partSlugs: ["module/parent-child-tree"],
+  parts: ["module/parent-child-tree"],
 } as const satisfies Domain

@@ -6,7 +6,7 @@ export const storyEngineCore = {
   slug: "story-engine-core",
   definition: "the shapes and the rules of an Awen game, shared by everything that runs one",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/action-bar-message",
     "module/action-box",
     "module/audit-record-schema",

@@ -6,7 +6,7 @@ export const temperCharacter = {
   slug: "temper-character",
   definition: "an account, the characters on it, and what each character is built as",
   pluralSlug: "temper-characters",
-  partSlugs: [
+  parts: [
     "page-type/character-build",
     "page-type/companion-build",
     "page-type/temper-account",

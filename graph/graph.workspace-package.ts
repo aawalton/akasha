@@ -6,7 +6,7 @@ export const graph = {
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/graph-node",
     "page-type/graph-edge",
     "page-type/graph-attribute",

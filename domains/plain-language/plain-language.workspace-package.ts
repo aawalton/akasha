@@ -6,7 +6,7 @@ export const plainLanguage = {
   slug: "plain-language",
   definition: "whether a sentence is written in plain language",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/parse-doubt",
     "module/shape-reading",
     "module/spelt-scanning",

@@ -6,7 +6,7 @@ export const pagesUi = {
   slug: "pages-ui",
   definition: "what draws pages in a browser and takes what a reader does to them",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "workspace-package/components",
     "domain/pages-ui-action-verbs",
     "domain/pages-ui-app-version",

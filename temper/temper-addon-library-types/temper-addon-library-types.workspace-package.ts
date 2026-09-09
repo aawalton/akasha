@@ -6,7 +6,7 @@ export const temperAddonLibraryTypes = {
   slug: "temper-addon-library-types",
   definition: "the types a compiler reads for the libraries an Elder Scrolls Online addon calls",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "type-declaration/arkadius-trade-tools",
     "type-declaration/bui",
     "type-declaration/custom-compass-pins",

@@ -6,7 +6,7 @@ export const temperEsoTypes = {
   slug: "temper-eso-types",
   definition: "the types a compiler reads for the globals an Elder Scrolls Online addon runs among",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "type-declaration/eso-addon-list",
     "type-declaration/eso-addon-manager",
     "type-declaration/eso-addon-screen",

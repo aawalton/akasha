@@ -16,7 +16,7 @@ export const watcherTray = {
     "rust-module/watcher-tray-tray",
     "rust-module/watcher-tray-updater",
   ],
-  partSlugs: [
+  parts: [
     "rust-module/watcher-tray-installer",
     "rust-module/watcher-tray-logger",
     "rust-module/watcher-tray-main",

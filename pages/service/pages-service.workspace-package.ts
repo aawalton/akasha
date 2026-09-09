@@ -6,7 +6,7 @@ export const pagesService = {
   slug: "pages-service",
   definition: "the pages reached over HTTP",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "manifest/page-store",
     "module/file-answering",
     "module/kinds-gathering",

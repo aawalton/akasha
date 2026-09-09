@@ -5,10 +5,5 @@ export const utilsRun = {
   pageTypeSlug: "domain",
   slug: "utils-run",
   definition: "a process this one starts and what it says",
-  partSlugs: [
-    "module/running",
-    "module/spawn-ceiling",
-    "module/run-relaying",
-    "module/run-serving",
-  ],
+  parts: ["module/running", "module/spawn-ceiling", "module/run-relaying", "module/run-serving"],
 } as const satisfies Domain

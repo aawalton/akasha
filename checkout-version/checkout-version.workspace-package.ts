@@ -6,7 +6,7 @@ export const checkoutVersion = {
   slug: "checkout-version",
   definition: "which commit of which checkout the code now running was taken from",
   manifest: "json",
-  partSlugs: ["module/provenance"],
+  parts: ["module/provenance"],
   invariants: [
     {
       invariantKind: "departure",

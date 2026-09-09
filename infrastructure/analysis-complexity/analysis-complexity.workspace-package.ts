@@ -6,7 +6,7 @@ export const analysisComplexity = {
   slug: "analysis-complexity",
   definition: "how complex the TypeScript in a checkout measures",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/complexity-rows",
     "module/cyclomatic",
     "module/file-discovery",

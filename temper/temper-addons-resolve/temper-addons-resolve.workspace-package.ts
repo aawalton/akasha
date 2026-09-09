@@ -6,7 +6,7 @@ export const temperAddonsResolve = {
   slug: "temper-addons-resolve",
   definition: "which addons the repository has and what each addon needs to be built",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/addon-json",
     "module/addon-manifest-file",
     "module/workspace-closure",

@@ -5,7 +5,7 @@ export const seatTurn = {
   pageTypeSlug: "domain",
   slug: "seat-turn",
   definition: "whether an agent in a seat is working",
-  partSlugs: ["module/turn-working"],
+  parts: ["module/turn-working"],
   invariants: [
     {
       invariantKind: "departure",

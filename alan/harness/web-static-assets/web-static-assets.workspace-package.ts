@@ -6,7 +6,7 @@ export const webStaticAssets = {
   slug: "web-static-assets",
   definition: "a built file handed back from disk with the cache lifetime it is given",
   manifest: "json",
-  partSlugs: ["module/serve-static"],
+  parts: ["module/serve-static"],
   invariants: [
     {
       invariantKind: "departure",

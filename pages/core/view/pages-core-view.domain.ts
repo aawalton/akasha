@@ -5,7 +5,7 @@ export const pagesCoreView = {
   pageTypeSlug: "domain",
   slug: "pages-core-view",
   definition: "what a view makes of the rows handed to it",
-  partSlugs: [
+  parts: [
     "module/apply-filters",
     "module/apply-grouping",
     "module/apply-grouping-shared",

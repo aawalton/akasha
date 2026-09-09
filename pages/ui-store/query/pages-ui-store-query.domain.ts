@@ -5,7 +5,7 @@ export const pagesUiStoreQuery = {
   pageTypeSlug: "domain",
   slug: "pages-ui-store-query",
   definition: "a view read as a query the store runs",
-  partSlugs: [
+  parts: [
     "module/condition-eval",
     "module/condition-expr",
     "module/id-suffix-pipeline",

@@ -5,7 +5,7 @@ export const type = {
   pageTypeSlug: "domain",
   slug: "type",
   definition: "the shape a value must have",
-  partSlugs: ["domain/type-import"],
+  parts: ["domain/type-import"],
   invariants: [
     {
       invariantKind: "constraint",

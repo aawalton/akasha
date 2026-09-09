@@ -5,7 +5,7 @@ export const pagesUiFrame = {
   pageTypeSlug: "domain",
   slug: "pages-ui-frame",
   definition: "the frame a page is drawn inside",
-  partSlugs: [
+  parts: [
     "module/display-frame",
     "module/frame-config",
     "module/frame-safe-area-masks",

@@ -6,7 +6,7 @@ export const codeSystem = {
   slug: "code-system",
   definition: "the code a machine runs",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/audit-ast-unused",
     "page-type/component",
     "page-type/flag",

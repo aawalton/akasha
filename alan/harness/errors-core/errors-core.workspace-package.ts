@@ -6,7 +6,7 @@ export const errorsCore = {
   slug: "errors-core",
   definition: "a caught error reduced to what can be reported, compared and exited on",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/runtime-error",
     "module/error-report",
     "module/exit-code",

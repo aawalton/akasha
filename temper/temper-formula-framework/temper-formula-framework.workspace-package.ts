@@ -6,7 +6,7 @@ export const temperFormulaFramework = {
   slug: "temper-formula-framework",
   definition: "the arithmetic behind a character's numbers and the effects feeding that arithmetic",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/arithmetic-node",
     "module/arithmetic-evaluate",
     "module/topological-sort",

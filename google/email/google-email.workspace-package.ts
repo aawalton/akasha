@@ -6,7 +6,7 @@ export const googleEmail = {
   slug: "google-email",
   definition: "Alan's Gmail mailbox read, written to and kept in order",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/gmail-credentials",
     "module/gmail-auth",
     "module/gmail-client",

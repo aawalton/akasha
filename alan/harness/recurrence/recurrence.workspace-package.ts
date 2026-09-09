@@ -6,7 +6,7 @@ export const recurrence = {
   slug: "recurrence",
   definition: "when a repeating thing next falls due",
   manifest: "json",
-  partSlugs: ["module/recurrence-shape", "module/parsing", "module/labeling", "module/scheduling"],
+  parts: ["module/recurrence-shape", "module/parsing", "module/labeling", "module/scheduling"],
   invariants: [
     {
       invariantKind: "departure",

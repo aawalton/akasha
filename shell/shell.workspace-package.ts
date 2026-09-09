@@ -6,7 +6,7 @@ export const shell = {
   slug: "shell",
   definition: "text a POSIX shell reads as a command",
   manifest: "json",
-  partSlugs: ["module/quoting"],
+  parts: ["module/quoting"],
   invariants: [
     {
       invariantKind: "absence",

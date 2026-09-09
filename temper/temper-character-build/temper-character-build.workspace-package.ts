@@ -6,7 +6,7 @@ export const temperCharacterBuild = {
   slug: "temper-character-build",
   definition: "the shape a character build is held in, and a new one made",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/race-source",
     "module/build-types",
     "module/build-factory",

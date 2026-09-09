@@ -6,7 +6,7 @@ export const infrastructureCommands = {
   slug: "infrastructure-commands",
   definition: "what an agent runs by name over what the system runs on",
   manifest: "json",
-  partSlugs: [],
+  parts: [],
   invariants: [
     {
       invariantKind: "departure",

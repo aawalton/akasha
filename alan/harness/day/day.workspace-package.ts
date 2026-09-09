@@ -6,7 +6,7 @@ export const day = {
   slug: "day",
   definition: "which day an instant falls on, where a day does not start at midnight",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/day-string",
     "module/us-zone-offset",
     "module/eso-day",

@@ -6,7 +6,7 @@ export const temperCapturePerf = {
   slug: "temper-capture-perf",
   definition: "how long an add-on took to load",
   manifest: "json",
-  partSlugs: ["module/perf-trace"],
+  parts: ["module/perf-trace"],
   invariants: [
     {
       invariantKind: "departure",

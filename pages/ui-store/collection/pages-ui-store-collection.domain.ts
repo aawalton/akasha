@@ -5,7 +5,7 @@ export const pagesUiStoreCollection = {
   pageTypeSlug: "domain",
   slug: "pages-ui-store-collection",
   definition: "the rows a store keeps for one page type",
-  partSlugs: [
+  parts: [
     "module/acquire",
     "module/content-persistence",
     "module/fetch-attach",

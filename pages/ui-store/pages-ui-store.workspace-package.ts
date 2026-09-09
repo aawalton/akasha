@@ -6,7 +6,7 @@ export const pagesUiStore = {
   slug: "pages-ui-store",
   definition: "the page rows a browser holds, and the queries and writes run against them",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/pages-ui-store-collection",
     "module/diagnostics",
     "domain/pages-ui-store-optimistic",

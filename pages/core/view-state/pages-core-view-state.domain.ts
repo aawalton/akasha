@@ -5,5 +5,5 @@ export const pagesCoreViewState = {
   pageTypeSlug: "domain",
   slug: "pages-core-view-state",
   definition: "what a view has between one change and the next",
-  partSlugs: ["module/reducers", "module/view-state-change"],
+  parts: ["module/reducers", "module/view-state-change"],
 } as const satisfies Domain

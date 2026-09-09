@@ -6,7 +6,7 @@ export const temperSkills = {
   slug: "temper-skills",
   definition: "what a character can do and where the doing is learned",
   pluralSlug: "temper-skillss",
-  partSlugs: [
+  parts: [
     "page-type/temper-affix-script",
     "page-type/temper-class",
     "page-type/temper-focus-script",

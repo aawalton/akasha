@@ -6,7 +6,7 @@ export const googleCalendar = {
   slug: "google-calendar",
   definition: "Alan's Google calendar events read, made, changed and answered",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/calendar-credentials",
     "module/calendar-auth",
     "module/calendar-client",

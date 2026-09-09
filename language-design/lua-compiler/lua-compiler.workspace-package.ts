@@ -6,7 +6,7 @@ export const luaCompiler = {
   slug: "lua-compiler",
   definition: "the compiler turning TypeScript into Lua",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
     "lualib/array-concat",

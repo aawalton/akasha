@@ -6,7 +6,7 @@ export const sshAccess = {
   slug: "ssh-access",
   definition: "how a script is run on another machine over ssh and its output read back",
   manifest: "json",
-  partSlugs: ["module/ssh-target", "module/ssh-reach"],
+  parts: ["module/ssh-target", "module/ssh-reach"],
   invariants: [
     {
       invariantKind: "departure",

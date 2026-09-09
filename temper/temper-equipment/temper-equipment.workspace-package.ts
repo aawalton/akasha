@@ -6,7 +6,7 @@ export const temperEquipment = {
   slug: "temper-equipment",
   definition: "the types an Elder Scrolls Online gear set and the pieces it covers are named by",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/set-ids",
     "module/set-ids-a-to-o",
     "module/set-ids-p-to-z",

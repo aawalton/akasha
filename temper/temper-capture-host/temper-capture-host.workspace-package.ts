@@ -6,7 +6,7 @@ export const temperCaptureHost = {
   slug: "temper-capture-host",
   definition: "the check every capture host makes that its zod schema and payload type agree",
   manifest: "json",
-  partSlugs: ["module/assert-schema-matches-payload"],
+  parts: ["module/assert-schema-matches-payload"],
   invariants: [
     {
       invariantKind: "departure",

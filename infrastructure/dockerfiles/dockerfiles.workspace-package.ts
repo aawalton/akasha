@@ -6,7 +6,7 @@ export const dockerfiles = {
   slug: "dockerfiles",
   definition: "the Dockerfile each service is built from, written from what the service imports",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/built-image",
     "module/dockerfile-builder",
     "module/dockerfile-bun-service",

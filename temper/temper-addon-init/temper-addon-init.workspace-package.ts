@@ -6,7 +6,7 @@ export const temperAddonInit = {
   slug: "temper-addon-init",
   definition: "the moment the game has finished loading one add-on",
   manifest: "json",
-  partSlugs: ["module/addon-init"],
+  parts: ["module/addon-init"],
   invariants: [
     {
       invariantKind: "departure",

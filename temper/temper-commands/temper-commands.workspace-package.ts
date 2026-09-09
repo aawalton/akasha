@@ -6,7 +6,7 @@ export const temperCommands = {
   slug: "temper-commands",
   definition: "what an agent runs by name over temper",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/inventory-characters-reading",
     "module/inventory-config-reading",
     "module/inventory-eval-env",

@@ -5,7 +5,7 @@ export const pagesCoreGenerated = {
   pageTypeSlug: "domain",
   slug: "pages-core-generated",
   definition: "code a command writes rather than a person",
-  partSlugs: [
+  parts: [
     "module/entries-00",
     "module/entries-01",
     "module/entries-02",

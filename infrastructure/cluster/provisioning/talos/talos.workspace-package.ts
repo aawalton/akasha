@@ -6,7 +6,7 @@ export const talos = {
   slug: "talos",
   definition: "the Talos machine configuration a cluster's nodes are declared in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/build-patch",
     "module/build-schematic",
     "module/build-volumes",

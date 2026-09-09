@@ -6,7 +6,7 @@ export const temperChampionPoints = {
   slug: "temper-champion-points",
   definition: "the champion stars a character earns past level fifty",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/champion-point-source",
     "module/craft-passives",
     "module/craft-slottables",

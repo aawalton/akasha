@@ -7,7 +7,7 @@ export const temperCompanionCodec = {
   definition:
     "packing a companion build into text and reading one back at whichever update wrote it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/companion-codec",
     "module/companion-codec-indices",
     "module/companion-codec-v48",

@@ -6,7 +6,7 @@ export const page = {
   slug: "page",
   definition: "how we keep track of things",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/entry-ceiling",
     "module/markdown-document",
     "module/markdown-page-at",

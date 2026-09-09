@@ -6,12 +6,7 @@ export const voiceCore = {
   slug: "voice-core",
   definition: "how written text is cut into what a voice can speak, and when each sentence is said",
   manifest: "json",
-  partSlugs: [
-    "module/speech",
-    "module/mark-schema",
-    "module/estimate-marks",
-    "module/infer-endpoint",
-  ],
+  parts: ["module/speech", "module/mark-schema", "module/estimate-marks", "module/infer-endpoint"],
   invariants: [
     {
       invariantKind: "departure",

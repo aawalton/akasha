@@ -6,7 +6,7 @@ export const check = {
   slug: "check",
   definition: "how a change is judged against what must be true of it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/body-not-utf8",
     "module/refusal-text",
     "page-type/code-check",

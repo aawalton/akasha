@@ -6,7 +6,7 @@ export const temperPursuits = {
   slug: "temper-pursuits",
   definition: "what the game keeps a tally of a player having sought out",
   pluralSlug: "temper-pursuitss",
-  partSlugs: [
+  parts: [
     "page-type/temper-achievement-category",
     "page-type/temper-antiquity-category",
     "page-type/temper-cadwell-level",

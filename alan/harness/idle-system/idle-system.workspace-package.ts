@@ -6,7 +6,7 @@ export const idleSystem = {
   slug: "idle-system",
   definition: "the rules an idle game's roster earns and grows by",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/idle-persona-card",
     "page-type/idle-save",
     "module/idle-state",

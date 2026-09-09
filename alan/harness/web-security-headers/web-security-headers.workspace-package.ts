@@ -6,7 +6,7 @@ export const webSecurityHeaders = {
   slug: "web-security-headers",
   definition: "the response headers every page of a site is served under",
   manifest: "json",
-  partSlugs: ["module/security-headers"],
+  parts: ["module/security-headers"],
   invariants: [
     {
       invariantKind: "departure",

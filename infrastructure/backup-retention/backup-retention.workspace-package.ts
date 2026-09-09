@@ -7,7 +7,7 @@ export const backupRetention = {
   definition: "what thins the database's backups as the backups age",
   manifest: "json",
   dockerfileExtensions: "json",
-  partSlugs: [
+  parts: [
     "manifest/gfs-promoter",
     "manifest/seaweedfs-backup-longtail",
     "module/keep-decision",

@@ -5,7 +5,7 @@ export const pagesCorePropertyTypes = {
   pageTypeSlug: "domain",
   slug: "pages-core-property-types",
   definition: "what one kind of page property means",
-  partSlugs: [
+  parts: [
     "module/action-button",
     "module/aggregate",
     "module/aggregate-filter",

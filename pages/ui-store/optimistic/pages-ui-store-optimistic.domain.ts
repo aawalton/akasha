@@ -5,5 +5,5 @@ export const pagesUiStoreOptimistic = {
   pageTypeSlug: "domain",
   slug: "pages-ui-store-optimistic",
   definition: "a change shown before the server has answered",
-  partSlugs: ["module/convergence", "module/optimistic-mutation", "module/plan"],
+  parts: ["module/convergence", "module/optimistic-mutation", "module/plan"],
 } as const satisfies Domain

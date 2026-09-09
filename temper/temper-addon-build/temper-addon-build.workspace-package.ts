@@ -6,7 +6,7 @@ export const temperAddonBuild = {
   slug: "temper-addon-build",
   definition: "what building temper's ESO addons out of TypeScript needs to know",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/lua-build-command",
     "module/addon-load-order",
     "module/addon-metadata-copy",

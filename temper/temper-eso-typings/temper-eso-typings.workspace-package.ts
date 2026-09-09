@@ -6,7 +6,7 @@ export const temperEsoTypings = {
   slug: "temper-eso-typings",
   definition: "the game's own API documentation dump read as TypeScript declarations",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/eso-doc-tokens",
     "module/eso-token-scope",
     "module/eso-declaration-text",

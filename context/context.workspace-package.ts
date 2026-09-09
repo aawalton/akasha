@@ -6,7 +6,7 @@ export const context = {
   slug: "context",
   definition: "what a change requires its writer to have read",
   manifest: "json",
-  partSlugs: ["page-type/context-warrant", "module/agent-stated", "module/warranting"],
+  parts: ["page-type/context-warrant", "module/agent-stated", "module/warranting"],
   invariants: [
     {
       invariantKind: "departure",

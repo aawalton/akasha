@@ -5,5 +5,5 @@ export const pagesUiStoreSql = {
   pageTypeSlug: "domain",
   slug: "pages-ui-store-sql",
   definition: "the SQL a store hands the server",
-  partSlugs: ["module/options"],
+  parts: ["module/options"],
 } as const satisfies Domain

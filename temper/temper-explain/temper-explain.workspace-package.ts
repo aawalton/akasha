@@ -6,7 +6,7 @@ export const temperExplain = {
   slug: "temper-explain",
   definition: "an account of what the inventory rules did to one item",
   manifest: "json",
-  partSlugs: ["module/explain-walk"],
+  parts: ["module/explain-walk"],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,7 +6,7 @@ export const voiceInference = {
   slug: "voice-inference",
   definition: "speech turned into text and text turned into speech on one card",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "container-recipe/voice-infer-image",
     "manifest/voice-infer",
     "python-module/voice-infer-server",

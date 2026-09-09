@@ -6,7 +6,7 @@ export const esoRig = {
   slug: "eso-rig",
   definition: "the substrate a Windows game client runs on with no display, keyboard or human",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "container-recipe/eso-rig-image",
     "manifest/eso-rig-manifests",
     "python-module/eso-rig-probe",

@@ -5,7 +5,7 @@ export const componentsQuickAdd = {
   pageTypeSlug: "domain",
   slug: "components-quick-add",
   definition: "a page made from one line of text",
-  partSlugs: [
+  parts: [
     "module/compute-quick-add-payload",
     "module/parse-inline-tokens",
     "module/use-active-quick-add-page-type",

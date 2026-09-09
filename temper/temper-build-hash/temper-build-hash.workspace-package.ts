@@ -7,7 +7,7 @@ export const temperBuildHash = {
   definition:
     "the bits a character build is packed into away from the game, and the text carrying them",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/build-hash-base64url",
     "module/build-hash-bit-reader",
     "module/build-hash-bit-writer",

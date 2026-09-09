@@ -6,7 +6,7 @@ export const inferenceClients = {
   slug: "inference-clients",
   definition: "how a caller reaches a model service and reads back what that service made",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/ace-step-client",
     "module/comfy-client",
     "module/cop-fetch",

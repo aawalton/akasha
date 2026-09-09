@@ -6,7 +6,7 @@ export const persona = {
   slug: "persona",
   definition: "who answers for a part of Alan's life, and what is kept of her",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/persona-points",
     "email-address-property/email-address",
     "page-type/closeness-level",

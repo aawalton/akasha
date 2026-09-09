@@ -6,7 +6,7 @@ export const supabaseClient = {
   slug: "supabase-client",
   definition: "the Supabase client a person acts through rather than a server",
   manifest: "json",
-  partSlugs: ["module/user-client"],
+  parts: ["module/user-client"],
   invariants: [
     {
       invariantKind: "absence",

@@ -6,7 +6,7 @@ export const spotify = {
   slug: "spotify",
   definition: "Alan's Spotify account reached over the Web API",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/spotify-credentials",
     "module/spotify-fetching",
     "module/spotify-cache-file",

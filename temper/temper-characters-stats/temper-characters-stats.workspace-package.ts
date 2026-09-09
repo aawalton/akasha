@@ -6,7 +6,7 @@ export const temperCharactersStats = {
   slug: "temper-characters-stats",
   definition: "the character stats an Elder Scrolls Online build is measured by",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/metric-value-types",
     "module/metric-tree-types",
     "module/formula-types",

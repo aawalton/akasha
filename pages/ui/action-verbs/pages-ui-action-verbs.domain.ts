@@ -5,5 +5,5 @@ export const pagesUiActionVerbs = {
   pageTypeSlug: "domain",
   slug: "pages-ui-action-verbs",
   definition: "a named act a page offers",
-  partSlugs: ["module/action-verb-registry"],
+  parts: ["module/action-verb-registry"],
 } as const satisfies Domain

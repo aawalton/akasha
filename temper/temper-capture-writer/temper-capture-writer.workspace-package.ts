@@ -6,7 +6,7 @@ export const temperCaptureWriter = {
   slug: "temper-capture-writer",
   definition: "the add-on side of a capture, where the game is asked to save what was gathered",
   manifest: "json",
-  partSlugs: ["module/capture-writer", "module/account-wide-vars", "module/run-batched"],
+  parts: ["module/capture-writer", "module/account-wide-vars", "module/run-batched"],
   invariants: [
     {
       invariantKind: "departure",

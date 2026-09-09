@@ -5,5 +5,5 @@ export const pagesUiUnits = {
   pageTypeSlug: "domain",
   slug: "pages-ui-units",
   definition: "how much text is read at one time",
-  partSlugs: ["module/reading-units"],
+  parts: ["module/reading-units"],
 } as const satisfies Domain

@@ -6,7 +6,7 @@ export const clusterApi = {
   slug: "cluster-api",
   definition: "how a program reaches the cluster's API server and what it asks of it",
   manifest: "json",
-  partSlugs: ["module/cluster-fetch", "module/cluster-jobs", "module/cluster-workloads"],
+  parts: ["module/cluster-fetch", "module/cluster-jobs", "module/cluster-workloads"],
   invariants: [
     {
       invariantKind: "departure",

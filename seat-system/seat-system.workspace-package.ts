@@ -6,7 +6,7 @@ export const seatSystem = {
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/kill-target-plan",
     "module/window-duration",
     "module/launch-seat-tmux",

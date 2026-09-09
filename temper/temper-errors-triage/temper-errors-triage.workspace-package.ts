@@ -6,7 +6,7 @@ export const temperErrorsTriage = {
   slug: "temper-errors-triage",
   definition: "how an error the game reported is judged",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/errors-saved-variables",
     "module/errors-collect",
     "module/errors-crash-signatures",

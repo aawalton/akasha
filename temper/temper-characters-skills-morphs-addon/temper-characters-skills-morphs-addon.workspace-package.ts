@@ -7,7 +7,7 @@ export const temperCharactersSkillsMorphsAddon = {
   definition:
     "the morphs a character has taken, read from the game and shown on that character's tasks",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/skill-morph-strip",
     "module/skill-morph-tracking",
     "module/skill-morph-task-hud",

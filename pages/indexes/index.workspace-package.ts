@@ -6,7 +6,7 @@ export const index = {
   slug: "index",
   definition: "the indexes the pages are read through, each answering one question of them",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "index/index-identity",
     "index/index-relation",
     "index/index-schema",

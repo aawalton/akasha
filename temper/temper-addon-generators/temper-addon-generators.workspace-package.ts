@@ -6,7 +6,7 @@ export const temperAddonGenerators = {
   slug: "temper-addon-generators",
   definition: "the source text of every data file temper renders from its own pages",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/addon-data-page",
     "module/classes",
     "module/identity-of-key",

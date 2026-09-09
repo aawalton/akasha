@@ -5,7 +5,7 @@ export const story = {
   pageTypeSlug: "domain",
   slug: "story",
   definition: "worlds and their stories, kept true to each other",
-  partSlugs: [
+  parts: [
     "domain/narrative-production",
     "domain/story-engine",
     "domain/narrative-story-turn-promotion",

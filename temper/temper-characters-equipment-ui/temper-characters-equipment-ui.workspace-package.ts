@@ -6,7 +6,7 @@ export const temperCharactersEquipmentUi = {
   slug: "temper-characters-equipment-ui",
   definition: "the pieces a browser draws a character's equipment with",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/equipment-icon",
     "module/equipment-quality-rules",
     "module/eso-quality-text-classes",

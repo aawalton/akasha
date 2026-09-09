@@ -6,7 +6,7 @@ export const temperEsoPaths = {
   slug: "temper-eso-paths",
   definition: "what a workstation has of the game and of the game's own sources",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/eso-paths",
     "module/eso-paths-resolve",
     "module/eso-clone-stamp",

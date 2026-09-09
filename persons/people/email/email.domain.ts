@@ -5,7 +5,7 @@ export const email = {
   pageTypeSlug: "domain",
   slug: "email",
   definition: "the email a person sends and receives",
-  partSlugs: [
+  parts: [
     "domain/email-action",
     "domain/email-rule-delay",
     "domain/email-rule-match",

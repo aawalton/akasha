@@ -6,7 +6,7 @@ export const upscale = {
   slug: "upscale",
   definition: "an image remade at a higher resolution than the one it came in at",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "container-recipe/upscale-cluster-image",
     "container-recipe/upscale-image",
     "module/upscale-bench-synth",

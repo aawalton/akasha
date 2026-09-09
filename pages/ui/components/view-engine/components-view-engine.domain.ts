@@ -5,7 +5,7 @@ export const componentsViewEngine = {
   pageTypeSlug: "domain",
   slug: "components-view-engine",
   definition: "the rows a view draws on screen",
-  partSlugs: [
+  parts: [
     "module/build-page-resolver",
     "module/generate-group-definitions",
     "module/use-page-view",

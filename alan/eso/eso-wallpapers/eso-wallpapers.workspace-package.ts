@@ -6,5 +6,5 @@ export const esoWallpapers = {
   slug: "eso-wallpapers",
   definition: "the Elder Scrolls Online wallpapers fetched and cropped for Alan's desktop",
   manifest: "json",
-  partSlugs: ["module/eso-wallpaper-crop", "module/eso-wallpaper-download"],
+  parts: ["module/eso-wallpaper-crop", "module/eso-wallpaper-download"],
 } as const satisfies WorkspacePackage

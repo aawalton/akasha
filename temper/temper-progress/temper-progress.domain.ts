@@ -6,7 +6,7 @@ export const temperProgress = {
   slug: "temper-progress",
   definition: "what has been done in the game and what is left",
   pluralSlug: "temper-progressions",
-  partSlugs: [
+  parts: [
     "page-type/temper-activity-category",
     "page-type/temper-comparison-op",
     "page-type/temper-completion-category",

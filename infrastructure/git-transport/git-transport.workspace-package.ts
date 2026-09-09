@@ -6,7 +6,7 @@ export const gitTransport = {
   slug: "git-transport",
   definition: "the repositories this system keeps, served over the network",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "manifest/git-transport-janitor",
     "manifest/git-transport-manifests",
     "module/transport-repos",

@@ -5,7 +5,7 @@ export const ui = {
   pageTypeSlug: "domain",
   slug: "ui",
   definition: "one game session shaped for the browser a player reads it in",
-  partSlugs: [
+  parts: [
     "module/alert-controls",
     "module/alert-notification",
     "module/alert-sound",

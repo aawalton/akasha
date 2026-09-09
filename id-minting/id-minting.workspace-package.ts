@@ -6,7 +6,7 @@ export const idMinting = {
   slug: "id-minting",
   definition: "how a fresh identifier is made",
   manifest: "json",
-  partSlugs: ["module/random-id", "module/uuid-version-7"],
+  parts: ["module/random-id", "module/uuid-version-7"],
   invariants: [
     {
       invariantKind: "absence",

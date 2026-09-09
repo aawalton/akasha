@@ -6,5 +6,5 @@ export const change = {
   slug: "change",
   definition: "how a change to the repository is worked out and reached by name",
   manifest: "json",
-  partSlugs: ["page-type/change"],
+  parts: ["page-type/change"],
 } as const satisfies WorkspacePackage

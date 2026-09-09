@@ -5,5 +5,5 @@ export const products = {
   pageTypeSlug: "domain",
   slug: "products",
   definition: "what Alan makes for people outside this system",
-  partSlugs: ["domain/archive-of-worlds", "domain/audhdalan"],
+  parts: ["domain/archive-of-worlds", "domain/audhdalan"],
 } as const satisfies Domain

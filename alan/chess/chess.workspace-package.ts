@@ -6,7 +6,7 @@ export const chess = {
   slug: "chess",
   definition: "a chess engine spoken to as a program, and a game played out through it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/chess-engine",
     "module/chess-uci",
     "module/chess-position",

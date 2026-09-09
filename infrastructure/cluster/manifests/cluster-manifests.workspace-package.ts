@@ -7,7 +7,7 @@ export const clusterManifests = {
   definition: "the Kubernetes manifests each part of the cluster is applied as",
   manifest: "json",
   tunnelRoutes: "ts",
-  partSlugs: [
+  parts: [
     "module/app-namespaces-synth",
     "module/cert-manager-synth",
     "module/cloudnative-pg-synth",

@@ -5,7 +5,7 @@ export const pagesCoreSchema = {
   pageTypeSlug: "domain",
   slug: "pages-core-schema",
   definition: "the shape a zod validator names a config value must have",
-  partSlugs: [
+  parts: [
     "module/action-button-config",
     "module/badge-display",
     "module/coherence-rules",

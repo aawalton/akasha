@@ -6,7 +6,7 @@ export const designLayout = {
   slug: "design-layout",
   definition: "the frame, columns and panels a browser draws a page's content in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/app-shell",
     "module/app-shell-bottom-nav",
     "module/app-shell-context",

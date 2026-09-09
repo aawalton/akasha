@@ -5,7 +5,7 @@ export const emailAction = {
   pageTypeSlug: "domain",
   slug: "email-action",
   definition: "something done in response to a piece of mail",
-  partSlugs: [
+  parts: [
     "domain/email-action-archive",
     "domain/email-action-forward",
     "domain/email-action-notify",

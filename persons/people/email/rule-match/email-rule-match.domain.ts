@@ -5,5 +5,5 @@ export const emailRuleMatch = {
   pageTypeSlug: "domain",
   slug: "email-rule-match",
   definition: "which mail an email rule applies to",
-  partSlugs: ["domain/email-rule-match-condition"],
+  parts: ["domain/email-rule-match-condition"],
 } as const satisfies Domain

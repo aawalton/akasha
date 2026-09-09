@@ -5,7 +5,7 @@ export const pagesUiMedia = {
   pageTypeSlug: "domain",
   slug: "pages-ui-media",
   definition: "the sound and picture a page carries",
-  partSlugs: [
+  parts: [
     "module/is-webkit",
     "module/media-renditions",
     "module/media-src",

@@ -6,7 +6,7 @@ export const ciBenchmark = {
   slug: "ci-benchmark",
   definition: "one CI node's substrate measured against the whole check registry on a cold store",
   manifest: "json",
-  partSlugs: ["module/toolchain-manifest"],
+  parts: ["module/toolchain-manifest"],
   invariants: [
     {
       invariantKind: "departure",

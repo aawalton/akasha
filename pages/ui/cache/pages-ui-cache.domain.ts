@@ -5,7 +5,7 @@ export const pagesUiCache = {
   pageTypeSlug: "domain",
   slug: "pages-ui-cache",
   definition: "an answer held from before",
-  partSlugs: [
+  parts: [
     "module/boot-gate",
     "module/tanstack-live",
     "module/use-core-definitions-ready",

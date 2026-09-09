@@ -6,5 +6,5 @@ export const temperClasses = {
   slug: "temper-classes",
   definition: "the classes a character is one of",
   manifest: "json",
-  partSlugs: ["module/character-class"],
+  parts: ["module/character-class"],
 } as const satisfies WorkspacePackage

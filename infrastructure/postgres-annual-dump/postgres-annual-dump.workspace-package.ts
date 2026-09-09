@@ -6,7 +6,7 @@ export const postgresAnnualDump = {
   slug: "postgres-annual-dump",
   definition: "the yearly whole copy of the database, and what it is taken by",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "manifest/postgres-annual-dump-manifests",
     "shell-script/annual-dump",
     "container-recipe/postgres-annual-dump-image",

@@ -6,7 +6,7 @@ export const agent = {
   slug: "agent",
   definition: "an agent and what puts its work to a model",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/claude-code",
     "domain/model",
     "module/patch-keeping",

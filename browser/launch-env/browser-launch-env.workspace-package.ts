@@ -6,7 +6,7 @@ export const browserLaunchEnv = {
   slug: "browser-launch-env",
   definition: "the environment a browser is started with",
   manifest: "json",
-  partSlugs: ["module/launch-env"],
+  parts: ["module/launch-env"],
   invariants: [
     {
       invariantKind: "absence",

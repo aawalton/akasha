@@ -6,7 +6,7 @@ export const commandSystem = {
   slug: "command-system",
   definition: "what an agent runs by name",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/parse-args",
     "module/answer-bytes",
     "page-type/command",

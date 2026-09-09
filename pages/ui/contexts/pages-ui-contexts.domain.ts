@@ -5,5 +5,5 @@ export const pagesUiContexts = {
   pageTypeSlug: "domain",
   slug: "pages-ui-contexts",
   definition: "a value a React tree carries down",
-  partSlugs: ["module/page-resolver-context", "module/relation-picker-context"],
+  parts: ["module/page-resolver-context", "module/relation-picker-context"],
 } as const satisfies Domain

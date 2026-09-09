@@ -6,7 +6,7 @@ export const musicChoosing = {
   slug: "music-choosing",
   definition: "the choice of what Alan hears next",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/rating-ladder",
     "module/music-exploration",
     "module/track-candidate",

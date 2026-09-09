@@ -6,7 +6,7 @@ export const temperCaptureDataminingReader = {
   slug: "temper-capture-datamining-reader",
   definition: "what the datamining addon wrote out, read back and checked",
   manifest: "json",
-  partSlugs: ["module/mined-data-parse", "module/saved-variables-schema"],
+  parts: ["module/mined-data-parse", "module/saved-variables-schema"],
   invariants: [
     {
       invariantKind: "departure",

@@ -6,7 +6,7 @@ export const supabaseRr = {
   slug: "supabase-rr",
   definition: "Supabase reached from a React Router app, on the server and in the browser",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/auth-mode",
     "module/cookie-options",
     "module/request-memo",

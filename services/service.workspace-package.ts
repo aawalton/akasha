@@ -6,7 +6,7 @@ export const service = {
   slug: "service",
   definition: "what the system runs without being asked each time",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/secret-placing",
     "module/secret-saying",
     "module/tick-sleeping",

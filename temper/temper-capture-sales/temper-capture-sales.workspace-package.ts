@@ -6,7 +6,7 @@ export const temperCaptureSales = {
   slug: "temper-capture-sales",
   definition: "the shape a sale through a guild store takes where the game saves it",
   manifest: "json",
-  partSlugs: ["module/sales-payload", "module/sales-descriptor"],
+  parts: ["module/sales-payload", "module/sales-descriptor"],
   invariants: [
     {
       invariantKind: "departure",

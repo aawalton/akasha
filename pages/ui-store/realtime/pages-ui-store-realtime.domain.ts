@@ -5,7 +5,7 @@ export const pagesUiStoreRealtime = {
   pageTypeSlug: "domain",
   slug: "pages-ui-store-realtime",
   definition: "a change arriving from the server as it happens",
-  partSlugs: [
+  parts: [
     "module/jwt-exp",
     "module/jwt-sub",
     "module/payload-translator",

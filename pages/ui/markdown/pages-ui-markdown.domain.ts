@@ -5,7 +5,7 @@ export const pagesUiMarkdown = {
   pageTypeSlug: "domain",
   slug: "pages-ui-markdown",
   definition: "markdown drawn for a reader",
-  partSlugs: [
+  parts: [
     "module/markdown-renderer",
     "module/mention-chip",
     "module/remark-mentions",

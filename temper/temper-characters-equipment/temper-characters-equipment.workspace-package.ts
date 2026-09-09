@@ -6,7 +6,7 @@ export const temperCharactersEquipment = {
   slug: "temper-characters-equipment",
   definition: "every piece of gear a character wears, with the effects each piece carries",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/item-composites",
     "module/level-scaling",
     "module/loadout-types",

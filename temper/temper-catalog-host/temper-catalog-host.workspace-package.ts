@@ -6,7 +6,7 @@ export const temperCatalogHost = {
   slug: "temper-catalog-host",
   definition: "what the catalog addon saved, read back as one summary for each account",
   manifest: "json",
-  partSlugs: ["module/saved-variables-reader"],
+  parts: ["module/saved-variables-reader"],
   invariants: [
     {
       invariantKind: "absence",

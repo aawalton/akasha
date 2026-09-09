@@ -6,7 +6,7 @@ export const temperCatalogCore = {
   slug: "temper-catalog-core",
   definition: "the shape a capture of the game's reference data takes, and the walk that fills it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/catalog-payload",
     "module/catalog-descriptor",
     "module/domain-keys",

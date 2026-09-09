@@ -6,7 +6,7 @@ export const inferenceRun = {
   slug: "inference-run",
   definition: "the record kept of every run a model was asked for and of what that run made",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/generation-log",
     "module/inference-command-line",
     "module/inference-run-record",

@@ -6,7 +6,7 @@ export const temperEquipmentKinds = {
   slug: "temper-equipment-kinds",
   definition: "the slots, types and quality tiers a piece of Elder Scrolls Online gear is named by",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/armor-slots",
     "module/armor-types",
     "module/jewelry-slots",

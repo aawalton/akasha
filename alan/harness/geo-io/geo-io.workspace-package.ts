@@ -6,7 +6,7 @@ export const geoIo = {
   slug: "geo-io",
   definition: "a point on the earth, found by the name of a place and measured against another",
   manifest: "json",
-  partSlugs: ["module/coord", "module/geoapify"],
+  parts: ["module/coord", "module/geoapify"],
   invariants: [
     {
       invariantKind: "absence",

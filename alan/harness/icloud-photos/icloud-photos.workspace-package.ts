@@ -6,7 +6,7 @@ export const icloudPhotos = {
   slug: "icloud-photos",
   definition: "the photos an iCloud shared album holds, read out of Apple's CloudKit",
   manifest: "json",
-  partSlugs: ["module/album-pulling"],
+  parts: ["module/album-pulling"],
   invariants: [
     {
       invariantKind: "absence",

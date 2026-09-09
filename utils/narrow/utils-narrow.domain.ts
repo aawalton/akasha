@@ -5,7 +5,7 @@ export const utilsNarrow = {
   pageTypeSlug: "domain",
   slug: "utils-narrow",
   definition: "how a wide value is read as the narrow one it must be, or refused",
-  partSlugs: [
+  parts: [
     "module/shape",
     "module/shape-core",
     "module/shape-object",

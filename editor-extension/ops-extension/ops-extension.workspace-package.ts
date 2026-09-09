@@ -6,7 +6,7 @@ export const opsExtension = {
   slug: "ops-extension",
   definition: "the extension this repository gives the editor",
   manifest: "json",
-  partSlugs: ["module/extension-entry"],
+  parts: ["module/extension-entry"],
   invariants: [
     {
       invariantKind: "departure",

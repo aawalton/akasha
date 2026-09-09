@@ -6,7 +6,7 @@ export const reminderSystem = {
   slug: "reminder-system",
   definition: "what is sent to somebody at the times it names",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/due-reminder-sending",
     "module/reminder-sending",
     "page-type/reminder",

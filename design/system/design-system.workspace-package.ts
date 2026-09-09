@@ -6,7 +6,7 @@ export const designSystem = {
   slug: "design-system",
   definition: "the look every product wears and the gallery showing what it is made of",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/borders",
     "module/brand-heart",
     "module/brand-tab",

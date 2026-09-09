@@ -6,7 +6,7 @@ export const designTokens = {
   slug: "design-tokens",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
   manifest: "json",
-  partSlugs: ["module/surface-color", "module/semantic-color", "module/text-color"],
+  parts: ["module/surface-color", "module/semantic-color", "module/text-color"],
   invariants: [
     {
       invariantKind: "departure",

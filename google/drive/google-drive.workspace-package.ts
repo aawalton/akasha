@@ -6,7 +6,7 @@ export const googleDrive = {
   slug: "google-drive",
   definition: "reading a file out of Alan's Google Drive",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/drive-credentials",
     "module/drive-auth",
     "module/drive-client",

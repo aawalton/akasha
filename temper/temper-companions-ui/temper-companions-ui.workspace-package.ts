@@ -6,5 +6,5 @@ export const temperCompanionsUi = {
   slug: "temper-companions-ui",
   definition: "the companion builds a player keeps, listed, edited and shared",
   manifest: "json",
-  partSlugs: ["module/companion-quality-rules", "module/use-companions"],
+  parts: ["module/companion-quality-rules", "module/use-companions"],
 } as const satisfies WorkspacePackage

@@ -6,7 +6,7 @@ export const temperCaptureDatamining = {
   slug: "temper-capture-datamining",
   definition: "the shape a sweep of every item and quest id writes where the game saves it",
   manifest: "json",
-  partSlugs: ["module/datamining-payload", "module/datamining-descriptor"],
+  parts: ["module/datamining-payload", "module/datamining-descriptor"],
   invariants: [
     {
       invariantKind: "departure",

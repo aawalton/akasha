@@ -6,7 +6,7 @@ export const digitPadding = {
   slug: "digit-padding",
   definition: "how a number too short is filled out with leading zeros",
   manifest: "json",
-  partSlugs: ["module/pad-two"],
+  parts: ["module/pad-two"],
   invariants: [
     {
       invariantKind: "absence",

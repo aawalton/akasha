@@ -6,7 +6,7 @@ export const temperGameCatalogCaptureHost = {
   slug: "temper-game-catalog-capture-host",
   definition: "the zod schemas reading every game catalog a capture addon saved",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/achievement-catalog-schema",
     "module/antiquity-lore-catalog-schema",
     "module/cadwell-catalog-schema",

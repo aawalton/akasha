@@ -7,7 +7,7 @@ export const temperBuildCodec = {
   definition:
     "packing a character build into text and reading one back at whichever update wrote it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/build-codec",
     "module/build-codec-indices",
     "module/build-codec-v48",

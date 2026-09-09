@@ -5,7 +5,7 @@ export const utilsProcess = {
   pageTypeSlug: "domain",
   slug: "utils-process",
   definition: "a process another did not start, read from outside it and ended from outside it",
-  partSlugs: [
+  parts: [
     "module/pid-signal",
     "module/port-holding",
     "module/proc-environ",

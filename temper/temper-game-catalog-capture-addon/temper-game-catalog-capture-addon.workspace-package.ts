@@ -7,7 +7,7 @@ export const temperGameCatalogCaptureAddon = {
   definition:
     "the collectors reading the game's reference catalogs into an add-on's saved variables",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/achievement-catalog-capture",
     "module/antiquity-lore-catalog-capture",
     "module/armor-type-constants",

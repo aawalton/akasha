@@ -6,5 +6,5 @@ export const audhdalan = {
   slug: "audhdalan",
   definition: "what Alan publishes about living autistic and ADHD",
   pluralSlug: "audhdalans",
-  partSlugs: ["router-app/audhdalan-web", "page-type/audhdalan-subscriber"],
+  parts: ["router-app/audhdalan-web", "page-type/audhdalan-subscriber"],
 } as const satisfies Domain

@@ -6,7 +6,7 @@ export const temperBuildDeployChecks = {
   slug: "temper-build-deploy-checks",
   definition: "how a game add-on is judged before it is built and shipped",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/population-bound",
     "module/error-message",
     "module/suggest-closest",

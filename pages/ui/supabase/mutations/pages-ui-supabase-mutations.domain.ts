@@ -5,7 +5,7 @@ export const pagesUiSupabaseMutations = {
   pageTypeSlug: "domain",
   slug: "pages-ui-supabase-mutations",
   definition: "a write sent through Supabase",
-  partSlugs: [
+  parts: [
     "module/apply-prediction",
     "module/build-patch-plan",
     "module/build-predicted-row",

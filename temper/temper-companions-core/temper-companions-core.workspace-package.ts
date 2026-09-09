@@ -6,7 +6,7 @@ export const temperCompanionsCore = {
   slug: "temper-companions-core",
   definition: "the gear, roles and traits a companion in The Elder Scrolls Online is built from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/companion-armor-slots",
     "module/companion-armor-weights",
     "module/companion-base-roles",

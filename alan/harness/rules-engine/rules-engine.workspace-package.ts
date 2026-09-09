@@ -7,7 +7,7 @@ export const rulesEngine = {
   definition:
     "which rule claims a subject, and what a set of rules leaves overlapping or unclaimed",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/instructions-rule",
     "module/rule-conditions",
     "module/rule-partition",

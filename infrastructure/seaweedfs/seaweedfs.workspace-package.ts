@@ -6,7 +6,7 @@ export const seaweedfs = {
   slug: "seaweedfs",
   definition: "the manifests the cluster's own object store is applied as",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "manifest/seaweedfs-backup-assets",
     "manifest/seaweedfs-backup-bulk",
     "manifest/seaweedfs-backup-cnpg",

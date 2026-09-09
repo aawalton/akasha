@@ -6,7 +6,7 @@ export const temperCaptureErrors = {
   slug: "temper-capture-errors",
   definition: "the shape an error raised inside the game takes where the game saves it",
   manifest: "json",
-  partSlugs: ["module/errors-payload", "module/errors-descriptor"],
+  parts: ["module/errors-payload", "module/errors-descriptor"],
   invariants: [
     {
       invariantKind: "departure",

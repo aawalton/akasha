@@ -5,7 +5,7 @@ export const technology = {
   pageTypeSlug: "domain",
   slug: "technology",
   definition: "how outside systems should be used",
-  partSlugs: ["domain/technology-definitions", "domain/mcp"],
+  parts: ["domain/technology-definitions", "domain/mcp"],
   invariants: [
     {
       invariantKind: "constraint",

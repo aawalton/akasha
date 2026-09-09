@@ -5,5 +5,5 @@ export const pagesUiMutators = {
   pageTypeSlug: "domain",
   slug: "pages-ui-mutators",
   definition: "the callbacks a view changes through",
-  partSlugs: ["module/view-callbacks"],
+  parts: ["module/view-callbacks"],
 } as const satisfies Domain

@@ -6,7 +6,7 @@ export const temperCommunityAddons = {
   slug: "temper-community-addons",
   definition: "addons other people wrote, fetched from ESOUI and kept current",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/addon-update-plan",
     "module/esoui-catalog",
     "module/installed-addons",

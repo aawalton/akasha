@@ -6,7 +6,7 @@ export const pagesCore = {
   slug: "pages-core",
   definition: "what a page's values mean before any store or screen",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/pages-core-property-types",
     "domain/pages-core-schema",
     "domain/pages-core-json-patch",

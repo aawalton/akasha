@@ -5,5 +5,5 @@ export const pagesUiAppVersion = {
   pageTypeSlug: "domain",
   slug: "pages-ui-app-version",
   definition: "which build of the app is running",
-  partSlugs: ["module/app-version-check", "module/use-app-version-check"],
+  parts: ["module/app-version-check", "module/use-app-version-check"],
 } as const satisfies Domain

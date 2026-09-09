@@ -6,7 +6,7 @@ export const errorsClient = {
   slug: "errors-client",
   definition: "an error caught in a browser sent to the site that served it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/error-reporting",
     "module/global-error-capture",
     "module/error-capture-installer",

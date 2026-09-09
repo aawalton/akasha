@@ -6,7 +6,7 @@ export const imessage = {
   slug: "imessage",
   definition: "how Alan's iMessage history is read and how a message is handed to Messages",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/imessage-host",
     "module/typedstream",
     "module/contacts-db",

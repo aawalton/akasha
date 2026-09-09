@@ -6,7 +6,7 @@ export const objectStore = {
   slug: "object-store",
   definition: "bytes kept under a key in a SeaweedFS bucket",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/object-store-key",
     "module/s3-multipart",
     "module/s3-signing",

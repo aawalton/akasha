@@ -6,7 +6,7 @@ export const components = {
   slug: "components",
   definition: "the parts a page and its listings are drawn from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/action-button-property-badge",
     "module/aggregate-property-badge",
     "module/badge-registry",

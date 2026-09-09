@@ -6,7 +6,7 @@ export const temperBuildSupport = {
   slug: "temper-build-support",
   definition: "what a character build and a companion build are both handled with",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/automation-settings",
     "module/build-url",
     "module/eso-name",

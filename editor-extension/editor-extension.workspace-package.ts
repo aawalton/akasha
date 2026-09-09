@@ -6,7 +6,7 @@ export const editorExtension = {
   slug: "editor-extension",
   definition: "what the editor draws of the system it sits in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/champions-tree",
     "module/command-server",
     "module/command-server-client",

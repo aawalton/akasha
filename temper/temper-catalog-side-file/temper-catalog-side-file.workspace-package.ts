@@ -6,7 +6,7 @@ export const temperCatalogSideFile = {
   slug: "temper-catalog-side-file",
   definition: "what the catalog addon is told to collect again, written where the addon reads it",
   manifest: "json",
-  partSlugs: ["module/catalog-side-file", "module/catalog-file-paths"],
+  parts: ["module/catalog-side-file", "module/catalog-file-paths"],
   invariants: [
     {
       invariantKind: "departure",

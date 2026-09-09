@@ -6,7 +6,7 @@ export const temperBuildMetadata = {
   slug: "temper-build-metadata",
   definition: "the name, description and roles a saved build carries beside its state",
   manifest: "json",
-  partSlugs: ["module/build-metadata"],
+  parts: ["module/build-metadata"],
   invariants: [
     {
       invariantKind: "departure",

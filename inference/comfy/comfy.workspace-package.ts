@@ -6,5 +6,5 @@ export const comfy = {
   slug: "comfy",
   definition: "what ComfyUI is asked to run",
   manifest: "json",
-  partSlugs: ["module/comfy-graph"],
+  parts: ["module/comfy-graph"],
 } as const satisfies WorkspacePackage

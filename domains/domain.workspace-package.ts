@@ -6,7 +6,7 @@ export const domain = {
   slug: "domain",
   definition: "how we define how things should be",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/domain-rows",
     "module/work-initiatives",
     "page-type/domain",

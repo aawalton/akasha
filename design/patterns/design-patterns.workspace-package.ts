@@ -6,7 +6,7 @@ export const designPatterns = {
   slug: "design-patterns",
   definition: "the recurring pieces a list, a card and a toolbar are built from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/add-filter-button",
     "module/add-sort-button",
     "module/auth-page-content",

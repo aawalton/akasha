@@ -6,7 +6,7 @@ export const wan = {
   slug: "wan",
   definition: "video made from a still image by the Wan diffusion model",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "container-recipe/wan-image",
     "module/wan-backbone",
     "module/wan-extend-graph",

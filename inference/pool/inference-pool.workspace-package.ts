@@ -6,7 +6,7 @@ export const inferencePool = {
   slug: "inference-pool",
   definition: "the model services one machine fronts, one resident at a time",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/cop-admin",
     "module/gui-session",
     "module/inference-hosts",

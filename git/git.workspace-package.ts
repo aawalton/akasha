@@ -6,7 +6,7 @@ export const git = {
   slug: "git",
   definition: "git run in a repository, and what it said",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/oid",
     "module/git-running",
     "module/git-answering",

@@ -6,7 +6,7 @@ export const mobileCommands = {
   slug: "mobile-commands",
   definition: "what an agent runs by name over the ios apps and the simulator driving them",
   manifest: "json",
-  partSlugs: ["module/mobile-answering"],
+  parts: ["module/mobile-answering"],
   invariants: [
     {
       invariantKind: "departure",

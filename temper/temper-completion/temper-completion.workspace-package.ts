@@ -6,7 +6,7 @@ export const temperCompletion = {
   slug: "temper-completion",
   definition: "what a player has finished across an account, a character and a companion",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/completion-progress",
     "module/completion-record",
     "module/completion-writer-schema",

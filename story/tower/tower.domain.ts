@@ -5,7 +5,7 @@ export const tower = {
   pageTypeSlug: "domain",
   slug: "tower",
   definition: "a tower game's chapters, rolls and combatants as its saved story has them",
-  partSlugs: [
+  parts: [
     "domain/core",
     "domain/engine",
     "module/page-slugs",

@@ -5,7 +5,7 @@ export const wanderingInn = {
   pageTypeSlug: "domain",
   slug: "wandering-inn",
   definition: "The Wandering Inn as a website read for its chapters",
-  partSlugs: [
+  parts: [
     "module/chapter",
     "module/chapter-filing",
     "module/site",

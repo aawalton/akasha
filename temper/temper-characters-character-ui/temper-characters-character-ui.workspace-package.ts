@@ -6,5 +6,5 @@ export const temperCharactersCharacterUi = {
   slug: "temper-characters-character-ui",
   definition: "the character builds a player keeps, listed, edited and shared",
   manifest: "json",
-  partSlugs: ["module/use-characters"],
+  parts: ["module/use-characters"],
 } as const satisfies WorkspacePackage

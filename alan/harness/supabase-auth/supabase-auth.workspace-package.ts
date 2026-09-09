@@ -6,7 +6,7 @@ export const supabaseAuth = {
   slug: "supabase-auth",
   definition: "signing in to Supabase, and who the signed-in user is",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/auth",
     "module/claims",
     "module/protected-user",

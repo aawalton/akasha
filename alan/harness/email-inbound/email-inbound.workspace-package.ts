@@ -6,7 +6,7 @@ export const emailInbound = {
   slug: "email-inbound",
   definition: "what an arriving email is read into before anything acts on it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/inbound-message",
     "module/sender",
     "module/agent-channel",

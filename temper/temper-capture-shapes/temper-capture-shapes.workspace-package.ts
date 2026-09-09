@@ -6,7 +6,7 @@ export const temperCaptureShapes = {
   slug: "temper-capture-shapes",
   definition: "the shape of every catalog the addon captures out of the running game",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/class-catalog",
     "module/skill-catalog",
     "module/companion-skill-catalog",

@@ -6,7 +6,7 @@ export const designBadges = {
   slug: "design-badges",
   definition: "the badges a browser draws a short value in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/badge",
     "module/badge-layout-context",
     "module/badge-toggle-group",

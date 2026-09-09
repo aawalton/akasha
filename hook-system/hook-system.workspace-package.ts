@@ -6,7 +6,7 @@ export const hookSystem = {
   slug: "hook-system",
   definition: "how a tool call is judged",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "page-type/agent-hook",
     "module/bun-calls",
     "module/chain-refusal",

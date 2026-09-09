@@ -6,7 +6,7 @@ export const temperCompletionImport = {
   slug: "temper-completion-import",
   definition: "the addon's saved variables read back as what a player has completed",
   manifest: "json",
-  partSlugs: ["module/completion-input-schema", "module/completion-saved-variables-parser"],
+  parts: ["module/completion-input-schema", "module/completion-saved-variables-parser"],
   invariants: [
     {
       invariantKind: "departure",

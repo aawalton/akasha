@@ -6,5 +6,5 @@ export const namedFor = {
   slug: "named-for",
   definition: "the name a page is filed under, worked out from a rule and what fills the rule",
   manifest: "json",
-  partSlugs: ["module/page-stem", "module/name-rule"],
+  parts: ["module/page-stem", "module/name-rule"],
 } as const satisfies WorkspacePackage

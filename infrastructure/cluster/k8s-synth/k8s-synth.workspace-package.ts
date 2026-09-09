@@ -6,7 +6,7 @@ export const k8sSynth = {
   slug: "k8s-synth",
   definition: "the Kubernetes YAML the synth files in a checkout generate",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/generated-file",
     "module/synth-discovery",
     "module/synth-drift",

@@ -6,5 +6,5 @@ export const smilingjenny = {
   slug: "smilingjenny",
   definition: "what Jenny is shown and asked of her own day",
   pluralSlug: "smilingjennies",
-  partSlugs: ["router-app/smilingjenny-web"],
+  parts: ["router-app/smilingjenny-web"],
 } as const satisfies Domain
