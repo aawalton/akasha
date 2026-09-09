@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Date as ReviewedOn } from "../../alan/track/days/properties/date.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
+import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
 import type { ReviewSessionNotes } from "./properties/review-session-notes.file-property.ts"
 import type { SessionPersona } from "./properties/session-persona.relation-property.ts"
 

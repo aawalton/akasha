@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Icon } from "../../../temper/temper-things/properties/icon.text-property.ts"
+import type { Icon } from "../../../temper/things/properties/icon.text-property.ts"
 import type { About } from "./properties/about.select-property.ts"
 import type { IdentityStatementLevel } from "./properties/identity-statement-level.number-property.ts"
 import type { IdentityStatementRank } from "./properties/identity-statement-rank.select-property.ts"

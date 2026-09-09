@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { ItemId } from "../../temper-catalog/temper-catalog-things/properties/item-id.number-property.ts"
 import type { ItemName } from "../../temper-character/mines/properties/item-name.text-property.ts"
-import type { TemperThing } from "../../temper-things/temper-thing.page-type.ts"
+import type { TemperThing } from "../../things/temper-thing.page-type.ts"
 import type { BuyerName } from "./properties/buyer-name.text-property.ts"
 import type { GuildName } from "./properties/guild-name.text-property.ts"
 import type { NetPayout } from "./properties/net-payout.number-property.ts"
