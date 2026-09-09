@@ -4,7 +4,7 @@ import type { MessagedPersona } from "./messaged-persona.relation-property.ts"
 import type { MessagesSent } from "./messages-sent.number-property.ts"
 
 export type PersonaMessage = {
-  personaSlug: MessagedPersona
+  persona: MessagedPersona
   sent: MessagesSent
 }
 

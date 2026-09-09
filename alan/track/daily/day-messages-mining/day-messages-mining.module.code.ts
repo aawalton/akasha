@@ -106,7 +106,7 @@ export function heldBy(one: Transcript, known: ReadonlySet<string>): string | nu
 function rowsOf(on: ReadonlyMap<string, number>): readonly Counted[] {
   return [...on]
     .sort((one, two) => (one[0] < two[0] ? -1 : 1))
-    .map(([personaSlug, sent]) => ({ personaSlug, sent }))
+    .map(([persona, sent]) => ({ persona, sent }))
 }
 
 export function countedOver(

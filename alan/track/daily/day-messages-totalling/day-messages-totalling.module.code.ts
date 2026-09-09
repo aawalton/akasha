@@ -25,7 +25,7 @@ export function sentOver(days: readonly Dayed[]): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
   for (const one of days) {
     for (const row of one.counted) {
-      found.set(row.personaSlug, (found.get(row.personaSlug) ?? 0) + row.sent)
+      found.set(row.persona, (found.get(row.persona) ?? 0) + row.sent)
     }
   }
   return found

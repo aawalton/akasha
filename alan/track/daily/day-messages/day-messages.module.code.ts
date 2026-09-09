@@ -11,7 +11,7 @@ const PERSONA_SLUG = "personaSlug"
 
 const SENT = "sent"
 
-export type Counted = { readonly personaSlug: string; readonly sent: number }
+export type Counted = { readonly persona: string; readonly sent: number }
 
 export function countedIn(held: unknown): readonly Counted[] {
   if (!Array.isArray(held)) return []
@@ -22,23 +22,21 @@ export function countedIn(held: unknown): readonly Counted[] {
     const slug = row[PERSONA] ?? row[PERSONA_SLUG]
     const sent = row[SENT]
     if (typeof slug !== "string" || slug === "" || typeof sent !== "number") continue
-    found.push({ personaSlug: slug, sent })
+    found.push({ persona: slug, sent })
   }
   return found
 }
 
 export function sentIn(counted: readonly Counted[], slug: string): number | null {
   for (const one of counted) {
-    if (one.personaSlug === slug) return one.sent
+    if (one.persona === slug) return one.sent
   }
   return null
 }
 
 export function raisedIn(counted: readonly Counted[], slug: string): readonly Counted[] {
-  if (sentIn(counted, slug) === null) return [...counted, { personaSlug: slug, sent: 1 }]
-  return counted.map((one) =>
-    one.personaSlug === slug ? { personaSlug: slug, sent: one.sent + 1 } : one
-  )
+  if (sentIn(counted, slug) === null) return [...counted, { persona: slug, sent: 1 }]
+  return counted.map((one) => (one.persona === slug ? { persona: slug, sent: one.sent + 1 } : one))
 }
 
 export function dayPageAt(root: string, dayStr: string): string | null {

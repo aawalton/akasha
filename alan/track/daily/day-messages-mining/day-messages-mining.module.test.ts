@@ -105,7 +105,7 @@ test("a transcript answering to nobody is held by nobody", () => {
 test("a message before six in the morning in New York falls on the day before", () => {
   const one: Transcript = { ...EMPTY, named: "aura", wrote: ["2026-09-08T05:00:00.000Z"] }
   expect(countedOver([one], KNOWN)).toEqual([
-    { day: "2026-09-07", counted: [{ personaSlug: "aura", sent: 1 }] },
+    { day: "2026-09-07", counted: [{ persona: "aura", sent: 1 }] },
   ])
 })
 
@@ -120,8 +120,8 @@ test("the personas on a day sit in the order of their names", () => {
     {
       day: "2026-09-08",
       counted: [
-        { personaSlug: "amy", sent: 2 },
-        { personaSlug: "thea", sent: 1 },
+        { persona: "amy", sent: 2 },
+        { persona: "thea", sent: 1 },
       ],
     },
   ])

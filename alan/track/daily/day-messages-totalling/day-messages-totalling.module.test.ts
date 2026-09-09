@@ -8,16 +8,16 @@ import {
 } from "./day-messages-totalling.module.code.ts"
 
 const DAYS: readonly Dayed[] = [
-  { day: "2026-08-05", counted: [{ personaSlug: "aura", sent: 400 }] },
-  { day: "2026-09-08", counted: [{ personaSlug: "aura", sent: 150 }] },
+  { day: "2026-08-05", counted: [{ persona: "aura", sent: 400 }] },
+  { day: "2026-09-08", counted: [{ persona: "aura", sent: 150 }] },
   {
     day: "2026-09-09",
     counted: [
-      { personaSlug: "aura", sent: 60 },
-      { personaSlug: "amy", sent: 30 },
+      { persona: "aura", sent: 60 },
+      { persona: "amy", sent: 30 },
     ],
   },
-  { day: "2026-09-10", counted: [{ personaSlug: "aura", sent: 999 }] },
+  { day: "2026-09-10", counted: [{ persona: "aura", sent: 999 }] },
 ]
 
 test("counting begins on the day the counting began", () => {
