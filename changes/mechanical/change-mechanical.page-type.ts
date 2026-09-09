@@ -1,5 +1,5 @@
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { Change } from "../change.page-type.ts"
+import type { Change } from "../change.page-type.types.ts"
 import type { Guards } from "./properties/guards.relation-property.ts"
 
 export type ChangeMechanical = Change & {
