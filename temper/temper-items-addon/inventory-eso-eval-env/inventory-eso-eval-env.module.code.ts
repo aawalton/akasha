@@ -1,6 +1,6 @@
 import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
-import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
 import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
+import type { EvalEnv } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/temper-items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isCompanionWornSlotFilled } from "../inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"

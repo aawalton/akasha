@@ -1,10 +1,13 @@
-import type { EvalContext } from "@akasha/temper-items-rules-eval/eval-env"
+import { requireAt } from "@akasha/utils/narrow/require-at"
+import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type {
   IndeterminateReason,
   RuleEvalResult,
-} from "@akasha/temper-items-rules-eval/eval-result"
-import { evaluateRule, walkRules } from "@akasha/temper-items-rules-eval/evaluator"
-import { requireAt } from "@akasha/utils/narrow/require-at"
+} from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
+import {
+  evaluateRule,
+  walkRules,
+} from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,

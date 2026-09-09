@@ -7,8 +7,8 @@ import "@akasha/temper-eso-types/eso-globals"
 import {
   buildItemFactsFromInventoryItem,
   resolveStaticItemKey,
-} from "@akasha/temper-items-rules-eval/build-item-facts-from-inventory-item"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+} from "akasha/temper/items-rules-eval/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"

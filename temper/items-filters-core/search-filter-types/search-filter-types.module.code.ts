@@ -1,5 +1,5 @@
 import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 export type FilterId = string
 

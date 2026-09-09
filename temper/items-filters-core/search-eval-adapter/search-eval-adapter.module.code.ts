@@ -1,7 +1,10 @@
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import type { ConditionCheckResult } from "@akasha/temper-items-rules-eval/check-result"
-import type { EvalContext, EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import type { ConditionCheckResult } from "akasha/temper/items-rules-eval/check-result/check-result.module.code.ts"
+import type {
+  EvalContext,
+  EvalEnv,
+} from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 
 export type PureFactsChecker = (
   rule: CompiledOrderedRule,

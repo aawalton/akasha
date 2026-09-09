@@ -5,11 +5,14 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "@akasha/temper-items-rules-core/use-destination-types"
-import type { EvalContext } from "@akasha/temper-items-rules-eval/eval-env"
-import type { RuleEvalResult, WalkTrace } from "@akasha/temper-items-rules-eval/eval-result"
-import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
 import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import { requireAt } from "@akasha/utils/narrow/require-at"
+import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import type {
+  RuleEvalResult,
+  WalkTrace,
+} from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
+import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"

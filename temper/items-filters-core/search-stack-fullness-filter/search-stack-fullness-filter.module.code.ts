@@ -1,4 +1,4 @@
-import { checkStackFullness } from "@akasha/temper-items-rules-eval/check-stack-fullness"
+import { checkStackFullness } from "akasha/temper/items-rules-eval/check-stack-fullness/check-stack-fullness.module.code.ts"
 import { runChecker } from "../search-eval-adapter/search-eval-adapter.module.code.ts"
 import type { FilterToggleValue } from "../search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"

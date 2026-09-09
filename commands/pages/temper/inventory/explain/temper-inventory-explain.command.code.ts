@@ -2,13 +2,6 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import type {
-  IndeterminateReason,
-  RejectionReason,
-  RuleEvalResult,
-  WalkOutcome,
-} from "@akasha/temper-items-rules-eval/eval-result"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
 import {
   formatExplainWalk,
   type JsonOutput,
@@ -16,6 +9,13 @@ import {
   type RuleTraceRow,
   type TtcBreakdown,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
+import type {
+  IndeterminateReason,
+  RejectionReason,
+  RuleEvalResult,
+  WalkOutcome,
+} from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
+import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import { checkClassification } from "@akasha/temper-items-rules-eval/check-classification"
+import { checkClassification } from "akasha/temper/items-rules-eval/check-classification/check-classification.module.code.ts"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,

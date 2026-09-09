@@ -1,5 +1,5 @@
-import { computeStockGroups } from "@akasha/temper-items-rules-eval/compute-stock-groups"
-import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
+import { computeStockGroups } from "akasha/temper/items-rules-eval/compute-stock-groups/compute-stock-groups.module.code.ts"
+import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {

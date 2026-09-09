@@ -1,8 +1,11 @@
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { TOTAL_SCRIPT_COUNT } from "@akasha/temper-items-rules-core/scribing-total-script-count"
-import type { EvalEnv, WantedEquipmentFacts } from "@akasha/temper-items-rules-eval/eval-env"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type {
+  EvalEnv,
+  WantedEquipmentFacts,
+} from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/temper-items-core/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/temper-items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/temper-items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"

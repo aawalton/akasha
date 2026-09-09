@@ -107,7 +107,7 @@ export const temper = {
     "workspace-package/temper-character-sources",
     "domain/temper-player-completion",
     "domain/temper-companions-core",
-    "workspace-package/temper-items-rules-eval",
+    "domain/temper-items-rules-eval",
     "domain/temper-items-filters-core",
     "domain/temper-items-filters-addon",
     "domain/temper-lost-treasure",

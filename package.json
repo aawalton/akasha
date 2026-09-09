@@ -55,7 +55,6 @@
     "@akasha/pages-query": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
-    "@akasha/temper-items-rules-eval": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",
