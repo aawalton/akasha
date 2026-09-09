@@ -7,7 +7,7 @@ import {
   unrestatedIn,
 } from "./restating.module.code.ts"
 
-const NO_BIOME = "/tmp/no-such-root-for-restating"
+const NO_BIOME = "/nowhere/no-such-root-for-restating"
 
 const AT = "one.ts"
 
