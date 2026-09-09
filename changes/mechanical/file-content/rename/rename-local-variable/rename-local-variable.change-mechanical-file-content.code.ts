@@ -179,6 +179,23 @@ function localDeclaration(declared: ts.Node): string | null {
   return blocked ? null : "a `var` binding is scoped by its function rather than by its block"
 }
 
+function exportedIn(source: ts.SourceFile, declared: ts.Node, of: string): boolean {
+  let held: ts.Node | undefined = declared
+  while (held !== undefined && !ts.isSourceFile(held)) {
+    if (ts.canHaveModifiers(held)) {
+      for (const one of ts.getModifiers(held) ?? []) {
+        if (one.kind === ts.SyntaxKind.ExportKeyword) return true
+      }
+    }
+    held = held.parent
+  }
+  for (const one of identifiersIn(source)) {
+    const up = one.parent
+    if (up !== undefined && ts.isExportSpecifier(up) && one.text === of) return true
+  }
+  return false
+}
+
 function shadowedIn(scope: ts.Node, of: string): boolean {
   let found = false
   const walk = (node: ts.Node): undefined => {
@@ -219,8 +236,8 @@ export function renameLocalVariable(path: string, text: string, given: Asked): S
   if (named.text === given.to) return refusing(`\`${given.to}\` is the name it already carries`)
   const bound = bindingOf(named)
   if (bound === null) return refusing(`\`${named.text}\` is bound by nothing in this file`)
-  if (ts.isSourceFile(bound.scope))
-    return refusing(`\`${named.text}\` is bound by the file rather than locally`)
+  if (ts.isSourceFile(bound.scope) && exportedIn(source, bound.declared, named.text))
+    return refusing(`\`${named.text}\` is exported, so its reach runs past this file`)
   const why = localDeclaration(bound.declared)
   if (why !== null) return refusing(why)
   if (shadowedIn(bound.scope, named.text))

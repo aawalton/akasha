@@ -47,9 +47,21 @@ test("a property of the same name is left alone", () => {
   )
 })
 
-test("a binding the file declares is refused", () => {
-  const text = "const n = 1\nexport function f(): number {\n  return n\n}\n"
-  expect(whyOf(text, "n = 1", "total")).toBe("`n` is bound by the file rather than locally")
+test("a binding the file declares and no export carries is spelled anew", () => {
+  const text = "const n = 1\nexport function f(): number {\n  return n + n\n}\n"
+  expect(bodyIn(text, "n = 1", "total")).toBe(
+    "const total = 1\nexport function f(): number {\n  return total + total\n}\n"
+  )
+})
+
+test("a binding the file exports is refused", () => {
+  const text = "export const n = 1\nexport function f(): number {\n  return n\n}\n"
+  expect(whyOf(text, "n = 1", "total")).toBe("`n` is exported, so its reach runs past this file")
+})
+
+test("a binding an export clause names is refused", () => {
+  const text = "const n = 1\nexport { n }\n"
+  expect(whyOf(text, "n = 1", "total")).toBe("`n` is exported, so its reach runs past this file")
 })
 
 test("a name already in scope is refused", () => {
