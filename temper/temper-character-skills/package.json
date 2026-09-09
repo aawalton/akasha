@@ -117,7 +117,6 @@
   },
   "dependencies": {
     "@akasha/temper-characters-equipment": "workspace:*",
-    "@akasha/temper-classes": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",

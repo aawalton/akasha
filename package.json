@@ -82,7 +82,6 @@
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
-    "@akasha/temper-classes": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-races": "workspace:*",

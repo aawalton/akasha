@@ -1,5 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { classes } from "@akasha/temper-classes/character-class"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import type { CompletionCharacter } from "@akasha/temper-player-completion/completion-ui-types"
@@ -23,6 +22,7 @@ import type {
 } from "@akasha/temper-skill-morphs/morph-progress-types"
 import { morphableSkillLineIds } from "@akasha/temper-skill-morphs/morphable-skills"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 
 interface SkillMorphsProgressPanelCardProps {
   id?: CharacterCardId

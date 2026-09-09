@@ -73,7 +73,7 @@ export const temper = {
     "workspace-package/temper-addon-generators",
     "domain/temper-capture-host",
     "workspace-package/temper-champion-points",
-    "workspace-package/temper-classes",
+    "domain/temper-classes",
     "domain/temper-alchemy",
     "workspace-package/temper-completion",
     "domain/temper-catalog-host",

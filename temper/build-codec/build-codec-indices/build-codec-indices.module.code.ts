@@ -15,7 +15,6 @@ import { jewelryEnchants } from "@akasha/temper-characters-equipment/jewelry-enc
 import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
 import { weaponEnchantments } from "@akasha/temper-characters-equipment/weapon-enchants"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
-import { classes } from "@akasha/temper-classes/character-class"
 import { armorTraits } from "@akasha/temper-equipment/armor-traits"
 import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
 import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
@@ -29,6 +28,7 @@ import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-
 import { skillSlots } from "@akasha/temper-skill-kinds/skill-slots"
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { poisons } from "akasha/temper/temper-alchemy/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 

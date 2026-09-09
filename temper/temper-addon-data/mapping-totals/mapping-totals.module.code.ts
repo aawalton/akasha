@@ -11,7 +11,6 @@ import { jewelryEnchants } from "@akasha/temper-characters-equipment/jewelry-enc
 import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
 import { weaponEnchantments } from "@akasha/temper-characters-equipment/weapon-enchants"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
-import { classes } from "@akasha/temper-classes/character-class"
 import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { companions } from "@akasha/temper-companions-core/companions"
 import { armorTraits } from "@akasha/temper-equipment/armor-traits"
@@ -22,6 +21,7 @@ import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { passiveSkillIds } from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {

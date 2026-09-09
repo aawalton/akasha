@@ -1,4 +1,4 @@
-import { classes } from "@akasha/temper-classes/character-class"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 export function generateClassMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

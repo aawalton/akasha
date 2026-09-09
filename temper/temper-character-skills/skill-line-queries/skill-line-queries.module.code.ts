@@ -1,6 +1,5 @@
 import { armorWeights } from "@akasha/temper-characters-equipment/armor-weights"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
-import { classes } from "@akasha/temper-classes/character-class"
 import type { ArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
@@ -12,6 +11,7 @@ import {
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
 import { requireGet } from "@akasha/utils/narrow/require-get"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { Skill } from "../character-skills/character-skills.module.code.ts"
 import { findSkillById } from "../find-skill-by-id/find-skill-by-id.module.code.ts"
 import type {

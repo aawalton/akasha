@@ -1,6 +1,5 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { getRacialSkillLineIdForRace } from "@akasha/temper-character-skills/passive-queries"
-import { classes } from "@akasha/temper-classes/character-class"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import type {
@@ -22,6 +21,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "@akasha/temper-skill-lines/skill-lines"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,

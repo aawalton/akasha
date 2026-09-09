@@ -4,7 +4,6 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { classes } from "@akasha/temper-classes/character-class"
 import type {
   BuildHash,
   BuildId,
@@ -13,6 +12,7 @@ import type {
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { races } from "@akasha/temper-races/races"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
