@@ -55,12 +55,13 @@ const CARRIED: readonly Value[] = [
 
 function alsoSeeded(root: string): undefined {
   let held = 20
-  const filing = (kind: string, slug: string, path: string, value: Value): undefined => {
+  const filing = (kind: string, slug: string, path: string, value: Value): string => {
     const id = `${STEM}${held}`
     held += 1
     listedFiled(root, kind, slug, [{ path, id }])
     idFiled(root, id, [{ path, id }])
     valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
+    return id
   }
   for (const [slug, above] of ABOVE) {
     const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
@@ -69,7 +70,11 @@ function alsoSeeded(root: string): undefined {
   for (const value of CARRIED) {
     const kind = String(value["pageTypeSlug"])
     const slug = String(value["slug"])
-    filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
+    const id = filing(kind, slug, `akasha/${slug}.${kind}.ts`, value)
+    schemaFiled(root, kind, slug, [
+      { pageTypeSlug: kind, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
+    ])
+    relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   }
 }
 

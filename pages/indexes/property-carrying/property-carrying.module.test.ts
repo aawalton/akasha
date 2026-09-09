@@ -236,9 +236,20 @@ const SECTIONED = "akasha/one.thing.entries.jsonl"
 
 function entriesFiled(root: string, said: Value): undefined {
   const path = pageAt("entries", "file-property")
+  schemaFiled(root, "file-property", "entries", [
+    {
+      pageTypeSlug: "file-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "entries",
+      propertySlug: "entries",
+      fileName: null,
+    },
+  ])
   listedFiled(root, "file-property", "entries", [{ path, id: ENTRIES }])
   valueAlsoFiled(root, "file-property", [{ path, value: said }])
   idFiled(root, ENTRIES, [{ path, id: ENTRIES }])
+  declares(root, ENTRIES, THING, pageAt("thing", "page-type"))
 }
 
 const SAYS: Value = {
@@ -264,6 +275,14 @@ test("a file carrying no section is not the file of a property naming no file", 
   const root = rooted()
   entriesFiled(root, { ...SAYS, generated: true })
   expect(generatedAt(root, "akasha/one.thing.ts")).toBe(false)
+})
+
+test("that section under a page type not carrying the property names no generated file", () => {
+  const root = rooted()
+  entriesFiled(root, { ...SAYS, generated: true })
+  filed(root, "other", "page-type", OTHER)
+  listedAndValued(root, "other", "two", "akasha/two.other.ts", TWO)
+  expect(generatedAt(root, "akasha/two.other.entries.jsonl")).toBe(false)
 })
 
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {

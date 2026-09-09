@@ -84,7 +84,13 @@ export const fileLength = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file that section names is let off wherever that file sits.",
+      statement:
+        "A file that section names is let off only under a page type carrying that property.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two properties sharing a section name are told apart by the page type in the name.",
     },
     {
       invariantKind: "departure",

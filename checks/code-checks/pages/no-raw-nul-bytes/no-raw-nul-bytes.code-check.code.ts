@@ -73,7 +73,7 @@ function kindedIn(shadow: Shadow): Kinded {
 function bytesHeld(shadow: Shadow): ReadonlySet<string> {
   const found = BYTES.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(kindedIn(shadow), holdingBytes)
+  const made = slugsWhere(kindedIn(shadow), holdingBytes, (named) => shadow.index.carryingOf(named))
   BYTES.set(shadow, made)
   return made
 }

@@ -78,7 +78,7 @@ function namingIn(shadow: Shadow): readonly Naming[] {
 function sectionsOff(shadow: Shadow): ReadonlySet<string> {
   const found = HELD_OFF.get(shadow)
   if (found !== undefined) return found
-  const made = slugsWhere(kindedIn(shadow), heldOff)
+  const made = slugsWhere(kindedIn(shadow), heldOff, (named) => shadow.index.carryingOf(named))
   HELD_OFF.set(shadow, made)
   return made
 }

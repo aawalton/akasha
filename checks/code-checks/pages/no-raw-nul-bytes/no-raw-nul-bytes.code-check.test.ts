@@ -13,6 +13,7 @@ import {
 import {
   CERTIFICATE,
   ELSEWHERE,
+  FOREIGN,
   letThrough,
   scratch,
   seeded,
@@ -50,6 +51,10 @@ test("a file of that name where no page carries the property is judged", () => {
 
 test("a property naming no file lets its section through wherever that file sits", () => {
   expect(exemptIn(WALLPAPER, shadowAt(HOLDING))).toBe(true)
+})
+
+test("that same section under a page type carrying no such property is judged", () => {
+  expect(exemptIn(FOREIGN, shadowAt(HOLDING))).toBe(false)
 })
 
 test("a property naming a file it says nothing about leaves that file judged", () => {

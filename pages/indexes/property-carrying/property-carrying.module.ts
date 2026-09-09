@@ -89,7 +89,16 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "A property naming no file says each file the property's section names is generated.",
+        "A property naming no file says its section is generated only under the types carrying it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two properties sharing a section name are told apart by the page type the file's name has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which page types carry a property is the question already answered here.",
     },
     {
       invariantKind: "departure",

@@ -169,8 +169,9 @@ function kindedIn(given: string | Reading): Kinded {
 export function generatedAt(given: string | Reading, path: string): boolean {
   try {
     const kinded = kindedIn(given)
-    if (sectionHeld(path, slugsWhere(kinded, generates))) return true
-    return heldBeside(path, namingUnder(kinded), generates, (named) => carryingOf(given, named))
+    const carrying = (named: string): Carried => carryingOf(given, named)
+    if (sectionHeld(path, slugsWhere(kinded, generates, carrying))) return true
+    return heldBeside(path, namingUnder(kinded), generates, carrying)
   } catch {
     return false
   }
@@ -182,8 +183,8 @@ export type Facing = Kinded & {
 
 export function generatedIn(given: Facing, path: string): boolean {
   try {
-    if (sectionHeld(path, slugsWhere(given, generates))) return true
-    return heldBeside(path, namingUnder(given), generates, (named) => given.carryingOf(named))
+    if (sectionHeld(path, slugsWhere(given, generates, given.carryingOf))) return true
+    return heldBeside(path, namingUnder(given), generates, given.carryingOf)
   } catch {
     return false
   }
@@ -195,7 +196,15 @@ export type Kinded = {
   readonly valueAt: (path: string) => Value | null
 }
 
-export function slugsWhere(given: Kinded, wanted: (value: Value) => boolean): ReadonlySet<string> {
+function sectionKey(pageTypeSlug: string, propertySlug: string): string {
+  return `${pageTypeSlug}/${propertySlug}`
+}
+
+export function slugsWhere(
+  given: Kinded,
+  wanted: (value: Value) => boolean,
+  carriedBy: (named: string) => Carried
+): ReadonlySet<string> {
   const made = new Set<string>()
   for (const kind of given.kindsUnder(FILE_PROPERTY)) {
     for (const listed of given.everyOfType(kind)) {
@@ -203,7 +212,11 @@ export function slugsWhere(given: Kinded, wanted: (value: Value) => boolean): Re
       if (value === null || !wanted(value)) continue
       if (typeof value[FILE_NAME] === "string") continue
       const slug = value[PROPERTY_SLUG]
-      if (typeof slug === "string") made.add(slug)
+      const said = partedIn(listed.path)
+      if (typeof slug !== "string" || said === null || said.sections.length > 0) continue
+      const held = carriedBy(`${said.pageType}/${said.slug}`)
+      if ("refused" in held) continue
+      for (const one of held.carrying) made.add(sectionKey(one.pageTypeSlug, slug))
     }
   }
   return made
@@ -223,5 +236,5 @@ export function sectionHeld(path: string, slugs: ReadonlySet<string>): boolean {
   const said = partedIn(path)
   if (said === null) return false
   const held = sectionedIn(said)
-  return held !== null && slugs.has(held.propertySlug)
+  return held !== null && slugs.has(sectionKey(said.pageType, held.propertySlug))
 }

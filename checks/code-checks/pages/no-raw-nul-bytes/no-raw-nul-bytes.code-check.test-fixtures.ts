@@ -14,7 +14,9 @@ export const CERTIFICATE = "ca.crt"
 
 export const ELSEWHERE = "node_modules/one/ca.crt"
 
-export const WALLPAPER = "far/away/one.persona.wallpaper.png"
+export const WALLPAPER = "far/away/one.certificate-authority.wallpaper.png"
+
+export const FOREIGN = "far/away/one.persona.wallpaper.png"
 
 const PROPERTY_AT = "akasha/authority-certificate.file-property.ts"
 
@@ -45,12 +47,13 @@ const CARRIED: readonly Value[] = [
 
 function alsoSeeded(root: string): undefined {
   let held = 20
-  const filing = (kind: string, slug: string, path: string, value: Value): undefined => {
+  const filing = (kind: string, slug: string, path: string, value: Value): string => {
     const id = `${STEM}${held}`
     held += 1
     listedFiled(root, kind, slug, [{ path, id }])
     idFiled(root, id, [{ path, id }])
     valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
+    return id
   }
   filing(PAGE_TYPE, FILE_PROPERTY, `akasha/${FILE_PROPERTY}.page-type.ts`, {
     pageTypeSlug: PAGE_TYPE,
@@ -59,7 +62,17 @@ function alsoSeeded(root: string): undefined {
   })
   for (const value of CARRIED) {
     const slug = String(value["slug"])
-    filing(FILE_PROPERTY, slug, `akasha/${slug}.${FILE_PROPERTY}.ts`, value)
+    const id = filing(FILE_PROPERTY, slug, `akasha/${slug}.${FILE_PROPERTY}.ts`, value)
+    schemaFiled(root, FILE_PROPERTY, slug, [
+      {
+        pageTypeSlug: FILE_PROPERTY,
+        targetPageTypeSlug: null,
+        unique: null,
+        slug,
+        propertySlug: slug,
+      },
+    ])
+    relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   }
 }
 

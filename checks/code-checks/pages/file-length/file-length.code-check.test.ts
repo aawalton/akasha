@@ -256,7 +256,7 @@ test("the check lets off the file beside the page and refuses the one elsewhere"
   expect(fileLength(change, shadowAt(root)).map((one) => one.path)).toEqual([ELSEWHERE])
 })
 
-const UNDER = "seat/pages/one-a1.subagent"
+const UNDER = "seat/pages/one-a1.workspace"
 
 const DRAFT = `${UNDER}.patch.diff`
 
@@ -288,6 +288,10 @@ test("a file whose section names no property is held to the ceiling", () => {
 
 test("a property of a kind this check names nowhere lets its files off just the same", () => {
   expect(exemptIn(SKETCHED, shadowAt(letOff()))).toBe(true)
+})
+
+test("that same section under a page type carrying no such property is held to the ceiling", () => {
+  expect(exemptIn("seat/pages/one-a1.subagent.patch.diff", shadowAt(letOff()))).toBe(false)
 })
 
 test("a property naming its file outright lets off no file sectioned by its slug", () => {
