@@ -4,7 +4,7 @@ import type { Code } from "../modules/properties/code.code-file-property.ts"
 import type { CompiledLua } from "./properties/compiled-lua.code-file-property.ts"
 import type { LuaExport } from "./properties/lua-export.text-property.ts"
 import type { LuaFeature } from "./properties/lua-feature.text-property.ts"
-import type { Lua50Code } from "./properties/lua50-code.file-property.ts"
+import type { Lua50Code } from "./properties/lua50-code.code-file-property.ts"
 
 export type Lualib = Domain & {
   code: Code
@@ -22,14 +22,14 @@ export const lualib = {
   pluralSlug: "lualibs",
   partSlugs: [
     "code-file-property/compiled-lua",
-    "file-property/lua50-code",
+    "code-file-property/lua50-code",
     "text-property/lua-export",
     "text-property/lua-feature",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code-file-property/code", required: true, many: false },
-    { pagePropertySlug: "file-property/lua50-code", required: false, many: false },
+    { pagePropertySlug: "code-file-property/lua50-code", required: false, many: false },
     { pagePropertySlug: "code-file-property/compiled-lua", required: false, many: false },
     { pagePropertySlug: "text-property/lua-export", required: true, many: false },
     { pagePropertySlug: "text-property/lua-feature", required: false, many: false },
