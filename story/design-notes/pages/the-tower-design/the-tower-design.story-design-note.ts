@@ -5,7 +5,7 @@ export const theTowerDesign = {
   pageTypeSlug: "story-design-note",
   slug: "the-tower-design",
   title: "The Tower — LitRPG immersion experiment (aura-coordinated)",
-  worldSlug: "personas",
+  world: "personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

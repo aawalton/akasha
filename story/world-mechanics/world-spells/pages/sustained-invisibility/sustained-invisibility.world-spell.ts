@@ -5,6 +5,6 @@ export const sustainedInvisibility = {
   pageTypeSlug: "world-spell",
   slug: "sustained-invisibility",
   title: "Sustained Invisibility",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

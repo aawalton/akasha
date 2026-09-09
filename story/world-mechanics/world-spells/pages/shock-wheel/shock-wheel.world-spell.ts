@@ -5,6 +5,6 @@ export const shockWheel = {
   pageTypeSlug: "world-spell",
   slug: "shock-wheel",
   title: "Shock Wheel",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

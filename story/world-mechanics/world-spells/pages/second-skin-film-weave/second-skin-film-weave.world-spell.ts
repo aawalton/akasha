@@ -5,6 +5,6 @@ export const secondSkinFilmWeave = {
   pageTypeSlug: "world-spell",
   slug: "second-skin-film-weave",
   title: "Second Skin: Film Weave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

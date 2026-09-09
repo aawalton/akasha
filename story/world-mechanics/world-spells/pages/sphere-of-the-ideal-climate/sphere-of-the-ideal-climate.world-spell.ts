@@ -5,6 +5,6 @@ export const sphereOfTheIdealClimate = {
   pageTypeSlug: "world-spell",
   slug: "sphere-of-the-ideal-climate",
   title: "Sphere of the Ideal Climate",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

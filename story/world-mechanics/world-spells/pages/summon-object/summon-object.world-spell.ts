@@ -5,6 +5,6 @@ export const summonObject = {
   pageTypeSlug: "world-spell",
   slug: "summon-object",
   title: "Summon Object",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

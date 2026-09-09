@@ -5,6 +5,6 @@ export const resonanceChitrxMetal = {
   pageTypeSlug: "world-spell",
   slug: "resonance-chitrx-metal",
   title: "Resonance: Chitrx Metal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

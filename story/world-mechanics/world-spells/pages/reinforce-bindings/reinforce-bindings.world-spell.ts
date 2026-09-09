@@ -5,6 +5,6 @@ export const reinforceBindings = {
   pageTypeSlug: "world-spell",
   slug: "reinforce-bindings",
   title: "Reinforce Bindings",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

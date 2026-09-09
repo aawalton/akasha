@@ -5,6 +5,6 @@ export const windwardBarrierSelf = {
   pageTypeSlug: "world-spell",
   slug: "windward-barrier-self",
   title: "Windward Barrier: Self",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

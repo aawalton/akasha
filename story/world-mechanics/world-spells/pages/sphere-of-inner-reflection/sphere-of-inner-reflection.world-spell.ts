@@ -5,6 +5,6 @@ export const sphereOfInnerReflection = {
   pageTypeSlug: "world-spell",
   slug: "sphere-of-inner-reflection",
   title: "Sphere of Inner Reflection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

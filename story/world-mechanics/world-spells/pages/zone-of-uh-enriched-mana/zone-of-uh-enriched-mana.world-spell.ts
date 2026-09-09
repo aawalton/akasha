@@ -5,6 +5,6 @@ export const zoneOfUhEnrichedMana = {
   pageTypeSlug: "world-spell",
   slug: "zone-of-uh-enriched-mana",
   title: "Zone of…uh…Enriched Mana",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const refractionBarrierFlame = {
   pageTypeSlug: "world-spell",
   slug: "refraction-barrier-flame",
   title: "Refraction Barrier: Flame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

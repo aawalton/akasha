@@ -5,6 +5,6 @@ export const ritualOfTheVerdantBloom = {
   pageTypeSlug: "world-spell",
   slug: "ritual-of-the-verdant-bloom",
   title: "Ritual of the Verdant Bloom",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,7 +5,7 @@ export const haremHotelFloorsFloor1V4 = {
   pageTypeSlug: "story-design-note",
   slug: "harem-hotel-floors-floor-1-v4",
   title: "Floor 1 V4",
-  worldSlug: "personas",
+  world: "personas",
   subject: "floors",
   prose: "txt",
 } as const satisfies StoryDesignNote

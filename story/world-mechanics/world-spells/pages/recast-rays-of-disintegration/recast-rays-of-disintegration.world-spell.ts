@@ -5,6 +5,6 @@ export const recastRaysOfDisintegration = {
   pageTypeSlug: "world-spell",
   slug: "recast-rays-of-disintegration",
   title: "Recast: Rays of Disintegration",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const localLandmark = {
   pageTypeSlug: "world-title",
   slug: "local-landmark",
   title: "Local Landmark",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldTitle

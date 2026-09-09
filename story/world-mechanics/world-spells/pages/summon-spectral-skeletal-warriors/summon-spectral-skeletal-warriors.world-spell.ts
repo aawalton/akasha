@@ -5,6 +5,6 @@ export const summonSpectralSkeletalWarriors = {
   pageTypeSlug: "world-spell",
   slug: "summon-spectral-skeletal-warriors",
   title: "Summon Spectral Skeletal Warriors",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

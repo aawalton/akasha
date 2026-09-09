@@ -5,6 +5,6 @@ export const selectiveLoudness = {
   pageTypeSlug: "world-spell",
   slug: "selective-loudness",
   title: "Selective Loudness",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const summonTheSwarmsOfNerrhaviaSGardens = {
   pageTypeSlug: "world-spell",
   slug: "summon-the-swarms-of-nerrhavia-s-gardens",
   title: "Summon the Swarms of Nerrhavia’s Gardens",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

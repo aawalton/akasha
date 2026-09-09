@@ -5,6 +5,6 @@ export const spark = {
   pageTypeSlug: "world-spell",
   slug: "spark",
   title: "Spark",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

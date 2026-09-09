@@ -5,6 +5,6 @@ export const shadowsConsumeAll = {
   pageTypeSlug: "world-spell",
   slug: "shadows-consume-all",
   title: "Shadows Consume All",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

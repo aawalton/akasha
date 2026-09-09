@@ -5,7 +5,7 @@ export const decisionCh1FirstHarvest = {
   pageTypeSlug: "story-decision",
   slug: "decision-ch1-first-harvest",
   title: "First Harvest — Colette Vane (ch1)",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   chapterNumber: 1,
   decisionType: "stat",
   options:

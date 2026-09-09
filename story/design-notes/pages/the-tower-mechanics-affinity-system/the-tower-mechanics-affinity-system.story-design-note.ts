@@ -5,7 +5,7 @@ export const theTowerMechanicsAffinitySystem = {
   pageTypeSlug: "story-design-note",
   slug: "the-tower-mechanics-affinity-system",
   title: "Affinity System (mechanic — full spec)",
-  worldSlug: "personas",
+  world: "personas",
   subject: "mechanics",
   prose: "txt",
 } as const satisfies StoryDesignNote

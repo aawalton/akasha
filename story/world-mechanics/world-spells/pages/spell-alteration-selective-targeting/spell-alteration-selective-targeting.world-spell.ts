@@ -5,6 +5,6 @@ export const spellAlterationSelectiveTargeting = {
   pageTypeSlug: "world-spell",
   slug: "spell-alteration-selective-targeting",
   title: "Spell Alteration: Selective Targeting",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

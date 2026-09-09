@@ -5,6 +5,6 @@ export const synchronizeSenses = {
   pageTypeSlug: "world-spell",
   slug: "synchronize-senses",
   title: "Synchronize Senses",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

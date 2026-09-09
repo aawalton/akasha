@@ -5,7 +5,7 @@ export const towerOfNimueBuild = {
   pageTypeSlug: "story-build",
   slug: "tower-of-nimue-build",
   title: "Nimue — Build",
-  worldSlug: "tower-of-nimue",
+  world: "tower-of-nimue",
   chapterNumber: 1,
   level: 1,
   gameSystem:

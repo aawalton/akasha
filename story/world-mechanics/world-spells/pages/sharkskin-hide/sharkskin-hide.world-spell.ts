@@ -5,6 +5,6 @@ export const sharkskinHide = {
   pageTypeSlug: "world-spell",
   slug: "sharkskin-hide",
   title: "Sharkskin Hide",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

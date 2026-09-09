@@ -5,7 +5,7 @@ export const dragonsAndDungeonsOperations = {
   pageTypeSlug: "story-design-note",
   slug: "dragons-and-dungeons-operations",
   title: "Dragons & Dungeons — how this game is stored and played",
-  worldSlug: "personas",
+  world: "personas",
   subject: "dragons-and-dungeons",
   prose: "txt",
 } as const satisfies StoryDesignNote

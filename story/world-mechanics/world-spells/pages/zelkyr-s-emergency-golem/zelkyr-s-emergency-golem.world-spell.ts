@@ -5,6 +5,6 @@ export const zelkyrSEmergencyGolem = {
   pageTypeSlug: "world-spell",
   slug: "zelkyr-s-emergency-golem",
   title: "Zelkyr’s Emergency Golem",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

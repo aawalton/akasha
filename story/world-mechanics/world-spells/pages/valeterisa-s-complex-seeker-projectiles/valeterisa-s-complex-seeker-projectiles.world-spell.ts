@@ -5,6 +5,6 @@ export const valeterisaSComplexSeekerProjectiles = {
   pageTypeSlug: "world-spell",
   slug: "valeterisa-s-complex-seeker-projectiles",
   title: "Valeterisa’s Complex Seeker Projectiles",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

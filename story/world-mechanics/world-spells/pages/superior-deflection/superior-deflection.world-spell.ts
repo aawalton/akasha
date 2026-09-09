@@ -5,6 +5,6 @@ export const superiorDeflection = {
   pageTypeSlug: "world-spell",
   slug: "superior-deflection",
   title: "Superior Deflection",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

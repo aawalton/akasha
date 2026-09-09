@@ -5,6 +5,6 @@ export const plagueOfLice = {
   pageTypeSlug: "world-spell",
   slug: "plague-of-lice",
   title: "Plague of Lice",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

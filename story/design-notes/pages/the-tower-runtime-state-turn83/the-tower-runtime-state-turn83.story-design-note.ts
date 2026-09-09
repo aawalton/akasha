@@ -5,7 +5,7 @@ export const theTowerRuntimeStateTurn83 = {
   pageTypeSlug: "story-design-note",
   slug: "the-tower-runtime-state-turn83",
   title: "runtime-state-turn83",
-  worldSlug: "personas",
+  world: "personas",
   subject: "the-tower",
   prose: "txt",
 } as const satisfies StoryDesignNote

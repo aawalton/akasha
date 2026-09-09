@@ -5,6 +5,6 @@ export const unlockObject = {
   pageTypeSlug: "world-spell",
   slug: "unlock-object",
   title: "Unlock Object",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

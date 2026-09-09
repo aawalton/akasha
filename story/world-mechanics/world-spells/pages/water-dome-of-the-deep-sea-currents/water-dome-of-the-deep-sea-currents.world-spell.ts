@@ -5,6 +5,6 @@ export const waterDomeOfTheDeepSeaCurrents = {
   pageTypeSlug: "world-spell",
   slug: "water-dome-of-the-deep-sea-currents",
   title: "Water Dome of the Deep Sea Currents",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

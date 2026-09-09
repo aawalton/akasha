@@ -5,5 +5,5 @@ export const inheritorOfTheFuture = {
   pageTypeSlug: "world-title",
   slug: "inheritor-of-the-future",
   title: "Inheritor of the Future",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

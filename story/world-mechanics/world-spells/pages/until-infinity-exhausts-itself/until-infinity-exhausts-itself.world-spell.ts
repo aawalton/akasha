@@ -5,6 +5,6 @@ export const untilInfinityExhaustsItself = {
   pageTypeSlug: "world-spell",
   slug: "until-infinity-exhausts-itself",
   title: "Until Infinity Exhausts Itself",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

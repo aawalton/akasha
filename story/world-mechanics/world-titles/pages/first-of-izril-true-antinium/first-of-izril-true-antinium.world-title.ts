@@ -5,5 +5,5 @@ export const firstOfIzrilTrueAntinium = {
   pageTypeSlug: "world-title",
   slug: "first-of-izril-true-antinium",
   title: "First of Izril: True Antinium",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

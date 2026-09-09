@@ -5,7 +5,7 @@ export const timeStop = {
   pageTypeSlug: "world-spell",
   slug: "time-stop",
   title: "TIME STOP",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Time Stop"],
   references: "jsonl",
 } as const satisfies WorldSpell

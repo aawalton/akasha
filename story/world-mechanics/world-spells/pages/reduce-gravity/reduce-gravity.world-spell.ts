@@ -5,6 +5,6 @@ export const reduceGravity = {
   pageTypeSlug: "world-spell",
   slug: "reduce-gravity",
   title: "Reduce Gravity",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

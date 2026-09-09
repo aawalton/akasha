@@ -5,6 +5,6 @@ export const stasisBox = {
   pageTypeSlug: "world-spell",
   slug: "stasis-box",
   title: "Stasis Box",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

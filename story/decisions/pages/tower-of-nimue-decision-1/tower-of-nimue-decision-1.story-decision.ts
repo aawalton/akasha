@@ -5,7 +5,7 @@ export const towerOfNimueDecision1 = {
   pageTypeSlug: "story-decision",
   slug: "tower-of-nimue-decision-1",
   title: "Decision #1 — The Anchor (Ch.1): The Seer",
-  worldSlug: "tower-of-nimue",
+  world: "tower-of-nimue",
   chapterNumber: 1,
   decisionType: "other",
   options:

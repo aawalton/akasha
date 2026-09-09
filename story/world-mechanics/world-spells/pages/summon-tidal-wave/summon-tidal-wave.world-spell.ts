@@ -5,6 +5,6 @@ export const summonTidalWave = {
   pageTypeSlug: "world-spell",
   slug: "summon-tidal-wave",
   title: "Summon Tidal Wave",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

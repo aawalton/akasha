@@ -5,6 +5,6 @@ export const stiffenFabric = {
   pageTypeSlug: "world-spell",
   slug: "stiffen-fabric",
   title: "Stiffen Fabric",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

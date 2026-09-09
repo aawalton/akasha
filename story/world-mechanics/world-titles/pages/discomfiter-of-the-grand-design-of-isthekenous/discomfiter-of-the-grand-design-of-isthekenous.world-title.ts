@@ -5,5 +5,5 @@ export const discomfiterOfTheGrandDesignOfIsthekenous = {
   pageTypeSlug: "world-title",
   slug: "discomfiter-of-the-grand-design-of-isthekenous",
   title: "Discomfiter of the Grand Design of Isthekenous",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

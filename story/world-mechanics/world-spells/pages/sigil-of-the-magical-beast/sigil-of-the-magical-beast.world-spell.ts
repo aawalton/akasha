@@ -5,5 +5,5 @@ export const sigilOfTheMagicalBeast = {
   pageTypeSlug: "world-spell",
   slug: "sigil-of-the-magical-beast",
   title: "Sigil of the Magical Beast",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

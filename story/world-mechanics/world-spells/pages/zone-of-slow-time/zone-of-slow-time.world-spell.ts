@@ -5,6 +5,6 @@ export const zoneOfSlowTime = {
   pageTypeSlug: "world-spell",
   slug: "zone-of-slow-time",
   title: "Zone of Slow Time",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

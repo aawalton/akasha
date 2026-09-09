@@ -5,6 +5,6 @@ export const rayOfEntropy = {
   pageTypeSlug: "world-spell",
   slug: "ray-of-entropy",
   title: "Ray of Entropy",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const translationField = {
   pageTypeSlug: "world-spell",
   slug: "translation-field",
   title: "Translation Field",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

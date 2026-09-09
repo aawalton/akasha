@@ -5,5 +5,5 @@ export const rediscoveryOfTheBloodyFoe = {
   pageTypeSlug: "world-title",
   slug: "rediscovery-of-the-bloody-foe",
   title: "Rediscovery of the Bloody Foe",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

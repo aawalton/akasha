@@ -5,7 +5,7 @@ export const playfulRadiantFishies = {
   pageTypeSlug: "world-spell",
   slug: "playful-radiant-fishies",
   title: "Playful Radiant Fishies",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Playful Radiant…Fishies"],
   references: "jsonl",
 } as const satisfies WorldSpell

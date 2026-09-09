@@ -5,6 +5,6 @@ export const prismaticWall = {
   pageTypeSlug: "world-spell",
   slug: "prismatic-wall",
   title: "Prismatic Wall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

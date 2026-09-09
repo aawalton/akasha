@@ -5,7 +5,7 @@ export const whiteflameJet = {
   pageTypeSlug: "world-spell",
   slug: "whiteflame-jet",
   title: "Whiteflame Jet",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["—Whiteflame Jet"],
   references: "jsonl",
 } as const satisfies WorldSpell

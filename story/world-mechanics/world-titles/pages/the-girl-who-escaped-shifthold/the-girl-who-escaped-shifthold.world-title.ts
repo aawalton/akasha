@@ -5,5 +5,5 @@ export const theGirlWhoEscapedShifthold = {
   pageTypeSlug: "world-title",
   slug: "the-girl-who-escaped-shifthold",
   title: "The Girl Who Escaped Shifthold",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

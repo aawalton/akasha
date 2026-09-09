@@ -5,7 +5,7 @@ export const theTowerMechanicsEssence = {
   pageTypeSlug: "story-design-note",
   slug: "the-tower-mechanics-essence",
   title: "Essence & Affinities (mechanic — pre-decided 2026-06-24, activated in play)",
-  worldSlug: "personas",
+  world: "personas",
   subject: "mechanics",
   prose: "txt",
 } as const satisfies StoryDesignNote

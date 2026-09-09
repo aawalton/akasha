@@ -5,6 +5,6 @@ export const shapeformArmamentsOfMoltenStone = {
   pageTypeSlug: "world-spell",
   slug: "shapeform-armaments-of-molten-stone",
   title: "Shapeform: Armaments of Molten Stone",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

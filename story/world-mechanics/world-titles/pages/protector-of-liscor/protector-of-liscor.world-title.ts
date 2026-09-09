@@ -5,5 +5,5 @@ export const protectorOfLiscor = {
   pageTypeSlug: "world-title",
   slug: "protector-of-liscor",
   title: "Protector of Liscor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

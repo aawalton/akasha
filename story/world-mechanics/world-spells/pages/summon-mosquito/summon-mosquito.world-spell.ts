@@ -5,5 +5,5 @@ export const summonMosquito = {
   pageTypeSlug: "world-spell",
   slug: "summon-mosquito",
   title: "Summon Mosquito",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSpell

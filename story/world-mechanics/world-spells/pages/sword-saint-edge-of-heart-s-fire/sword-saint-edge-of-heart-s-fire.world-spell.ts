@@ -5,6 +5,6 @@ export const swordSaintEdgeOfHeartSFire = {
   pageTypeSlug: "world-spell",
   slug: "sword-saint-edge-of-heart-s-fire",
   title: "Sword Saint: Edge of Heart’s Fire",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

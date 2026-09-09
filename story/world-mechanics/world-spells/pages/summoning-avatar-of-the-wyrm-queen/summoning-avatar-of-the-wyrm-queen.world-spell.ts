@@ -5,6 +5,6 @@ export const summoningAvatarOfTheWyrmQueen = {
   pageTypeSlug: "world-spell",
   slug: "summoning-avatar-of-the-wyrm-queen",
   title: "Summoning: Avatar of the Wyrm-Queen",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

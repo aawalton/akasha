@@ -5,6 +5,6 @@ export const tenfoldHomingSpeedLightArrows = {
   pageTypeSlug: "world-spell",
   slug: "tenfold-homing-speed-light-arrows",
   title: "Tenfold Homing Speed Light Arrows",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

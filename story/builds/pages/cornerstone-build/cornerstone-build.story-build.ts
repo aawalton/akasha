@@ -5,7 +5,7 @@ export const cornerstoneBuild = {
   pageTypeSlug: "story-build",
   slug: "cornerstone-build",
   title: "Cornerstone — Build",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   chapterNumber: 0,
   level: 1,
   className: "The Waking Stone — Blind",

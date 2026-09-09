@@ -5,6 +5,6 @@ export const spatialEarworm = {
   pageTypeSlug: "world-spell",
   slug: "spatial-earworm",
   title: "Spatial Earworm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const remoteTeleportation = {
   pageTypeSlug: "world-spell",
   slug: "remote-teleportation",
   title: "Remote Teleportation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

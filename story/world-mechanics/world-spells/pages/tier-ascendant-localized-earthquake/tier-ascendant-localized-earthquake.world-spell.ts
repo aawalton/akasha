@@ -5,6 +5,6 @@ export const tierAscendantLocalizedEarthquake = {
   pageTypeSlug: "world-spell",
   slug: "tier-ascendant-localized-earthquake",
   title: "Tier Ascendant: Localized Earthquake",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const theFlowerOfAnapulis = {
   pageTypeSlug: "world-spell",
   slug: "the-flower-of-anapulis",
   title: "The Flower of Anapulis",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

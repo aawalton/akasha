@@ -5,7 +5,7 @@ export const haremHotelWorldLogicCompanionBind = {
   pageTypeSlug: "story-design-note",
   slug: "harem-hotel-world-logic-companion-bind",
   title: "Companion Bind",
-  worldSlug: "personas",
+  world: "personas",
   subject: "world-logic",
   prose: "txt",
 } as const satisfies StoryDesignNote

@@ -5,6 +5,6 @@ export const transferRune = {
   pageTypeSlug: "world-spell",
   slug: "transfer-rune",
   title: "Transfer Rune",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

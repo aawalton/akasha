@@ -5,5 +5,5 @@ export const conquerorOfAHundredQuestsBasic = {
   pageTypeSlug: "world-title",
   slug: "conqueror-of-a-hundred-quests-basic",
   title: "Conqueror of a Hundred Quests (Basic)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

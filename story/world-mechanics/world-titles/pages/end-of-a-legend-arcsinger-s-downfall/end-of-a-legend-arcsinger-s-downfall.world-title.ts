@@ -5,5 +5,5 @@ export const endOfALegendArcsingerSDownfall = {
   pageTypeSlug: "world-title",
   slug: "end-of-a-legend-arcsinger-s-downfall",
   title: "End of a Legend: Arcsinger’s Downfall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

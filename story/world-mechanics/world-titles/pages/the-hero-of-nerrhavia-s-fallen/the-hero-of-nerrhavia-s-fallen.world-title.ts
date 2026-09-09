@@ -5,5 +5,5 @@ export const theHeroOfNerrhaviaSFallen = {
   pageTypeSlug: "world-title",
   slug: "the-hero-of-nerrhavia-s-fallen",
   title: "The Hero of Nerrhavia’s Fallen",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldTitle

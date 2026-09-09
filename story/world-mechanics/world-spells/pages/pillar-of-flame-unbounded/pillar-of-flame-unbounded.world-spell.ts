@@ -5,6 +5,6 @@ export const pillarOfFlameUnbounded = {
   pageTypeSlug: "world-spell",
   slug: "pillar-of-flame-unbounded",
   title: "Pillar of Flame, Unbounded",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

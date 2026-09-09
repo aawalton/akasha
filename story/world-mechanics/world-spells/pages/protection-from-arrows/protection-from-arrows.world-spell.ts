@@ -5,6 +5,6 @@ export const protectionFromArrows = {
   pageTypeSlug: "world-spell",
   slug: "protection-from-arrows",
   title: "Protection from Arrows",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

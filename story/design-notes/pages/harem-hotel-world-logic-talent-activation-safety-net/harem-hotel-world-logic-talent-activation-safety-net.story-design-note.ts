@@ -5,7 +5,7 @@ export const haremHotelWorldLogicTalentActivationSafetyNet = {
   pageTypeSlug: "story-design-note",
   slug: "harem-hotel-world-logic-talent-activation-safety-net",
   title: "Talent Activation Safety Net",
-  worldSlug: "personas",
+  world: "personas",
   subject: "world-logic",
   prose: "txt",
 } as const satisfies StoryDesignNote

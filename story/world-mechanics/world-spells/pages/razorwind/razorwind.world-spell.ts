@@ -5,6 +5,6 @@ export const razorwind = {
   pageTypeSlug: "world-spell",
   slug: "razorwind",
   title: "Razorwind",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell

@@ -5,6 +5,6 @@ export const pinpointSpell = {
   pageTypeSlug: "world-spell",
   slug: "pinpoint-spell",
   title: "Pinpoint Spell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSpell
