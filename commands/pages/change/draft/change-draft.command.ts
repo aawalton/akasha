@@ -97,5 +97,10 @@ export const changeDraft = {
       invariantKind: "absence",
       statement: "No taking is stated here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A draft's answer names every page written, and no redirect carries that answer to a file.",
+    },
   ],
 } as const satisfies Command

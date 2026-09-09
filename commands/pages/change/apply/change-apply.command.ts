@@ -126,5 +126,10 @@ export const changeApply = {
       invariantKind: "departure",
       statement: "An apply a change reached is recorded as a run of its own.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "An apply's time tracks the test files standing beside the batch rather than the pages in it.",
+    },
   ],
 } as const satisfies Command
