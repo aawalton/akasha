@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const iStoleABetterTomorrow = {
   id: "01a06575-981c-7b98-91b3-faf27ac6567b",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "i-stole-a-better-tomorrow",
   title: "I Stole a Better Tomorrow",
   world: "the-wandering-inn",

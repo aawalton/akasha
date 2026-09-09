@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const groundLightning = {
   id: "01a06575-9817-7651-bd60-6ac92b363b50",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "ground-lightning",
   title: "Ground Lightning",
   world: "the-wandering-inn",

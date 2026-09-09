@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const iWillNeverLetYouGo = {
   id: "01a06575-981c-74d6-8cde-f7ea6685e4c9",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "i-will-never-let-you-go",
   title: "I Will Never Let You Go",
   world: "the-wandering-inn",

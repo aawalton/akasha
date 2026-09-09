@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const frozenFloor = {
   id: "01a06575-9811-7d95-a5e6-f187ac925489",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "frozen-floor",
   title: "Frozen Floor",
   world: "the-wandering-inn",

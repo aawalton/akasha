@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const greaterEndurance = {
   id: "01a06575-9817-7ce2-bc5a-9d33d46915cf",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "greater-endurance",
   title: "Greater Endurance",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const giantSSword = {
   id: "01a06575-9815-7274-bde4-5a26c8a522f8",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "giant-s-sword",
   title: "Giant’s Sword",
   world: "the-wandering-inn",

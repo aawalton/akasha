@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const healerSOrders = {
   id: "01a06575-9819-71db-8bbf-ea169bae4d7e",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "healer-s-orders",
   title: "Healer’s Orders",
   world: "the-wandering-inn",
