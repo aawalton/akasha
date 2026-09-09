@@ -1,11 +1,11 @@
 "use client"
 
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
 import type {
   DestinationCategory,
   MoveToDestination,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { useMemo } from "react"
 import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"

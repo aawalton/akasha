@@ -1,5 +1,5 @@
-import type { CompletionCharacterInput } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import type { CompletionCharacterInput } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined

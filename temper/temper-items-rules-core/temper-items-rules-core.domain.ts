@@ -1,13 +1,12 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemsRulesCore = {
   id: "01a060d9-44cd-7bbd-88e3-944b7a932e9a",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-items-rules-core",
   definition:
     "the rules saying what becomes of an item and the conditions those rules are written in",
-  manifest: "json",
   parts: [
     "module/rule-constants",
     "module/comparison-op-data",
@@ -118,4 +117,4 @@ export const temperItemsRulesCore = {
       statement: "No code here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

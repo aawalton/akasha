@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
+import type { HeldRule } from "akasha/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
   type ExportSettingsSeams,
   runExportSettings,

@@ -1,5 +1,11 @@
-import { addBuyRule, bulkUpdateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-settings"
-import type { BuyRule, BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
+import {
+  addBuyRule,
+  bulkUpdateBuyRules,
+} from "akasha/temper/temper-items-rules-core/buy-rule-settings/buy-rule-settings.module.code.ts"
+import type {
+  BuyRule,
+  BuySource,
+} from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   ACTIVE,
   answering,

@@ -1,11 +1,11 @@
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { isConsolidateDest } from "../inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import {
   computePlanItemValue,

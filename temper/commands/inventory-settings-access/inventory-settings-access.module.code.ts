@@ -2,18 +2,18 @@ import { deletePages } from "@akasha/pages-access/delete"
 import { getPages } from "@akasha/pages-access/get"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
-import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
-import {
-  heldFromRows,
-  rulesFromPages,
-} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
-import { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
-import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { AutomationSettingsShape } from "akasha/temper/inventory-automation/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+import type { HeldRule } from "akasha/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import {
+  heldFromRows,
+  rulesFromPages,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { createDefaultRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { writesFor } from "akasha/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

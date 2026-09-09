@@ -51,7 +51,6 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/temper-build-deploy-checks": "workspace:*",
     "@akasha/pages-query": "workspace:*",
-    "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",

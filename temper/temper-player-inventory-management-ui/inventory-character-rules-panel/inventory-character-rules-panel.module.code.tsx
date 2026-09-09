@@ -3,10 +3,10 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
-import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import type { ControlledRule } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { useCallback, useState } from "react"
 import type {
   ActiveStatusFilter,

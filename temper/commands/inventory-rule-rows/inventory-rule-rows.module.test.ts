@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,

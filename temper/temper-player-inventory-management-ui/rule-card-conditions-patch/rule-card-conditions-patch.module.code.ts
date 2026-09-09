@@ -1,9 +1,9 @@
-import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import type { RequiredCurseStateCondition } from "@akasha/temper-items-rules-core/required-curse-state-filter-types"
-import type { RequiredSkillLinesCondition } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
-import type { RuleConstantKey } from "@akasha/temper-items-rules-core/rule-constants"
 import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
+import type { ComparisonOpId } from "akasha/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.code.ts"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/temper-items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/temper-items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import type { RuleConstantKey } from "akasha/temper/temper-items-rules-core/rule-constants/rule-constants.module.code.ts"
 import {
   buildConditions,
   resolveOptionalThreshold,

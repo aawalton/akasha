@@ -1,5 +1,5 @@
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import { hashItemKey } from "@akasha/temper-items-rules-core/use-destination-resolver"
+import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import { hashItemKey } from "akasha/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import { buildWantedEquipmentFacts } from "../check-equip-target/check-equip-target.module.code.ts"
 import {
   inferInspireCraftingType,

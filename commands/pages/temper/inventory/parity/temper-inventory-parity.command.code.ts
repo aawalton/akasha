@@ -1,6 +1,5 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type {
@@ -8,6 +7,7 @@ import type {
   WalkTrace,
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,

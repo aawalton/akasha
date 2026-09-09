@@ -8,8 +8,8 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import type { MoveToDestination } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import type { MoveToDestination } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import type { ActionVariant } from "../action-options/action-options.module.code.ts"

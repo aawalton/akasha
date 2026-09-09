@@ -1,12 +1,12 @@
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
   RuleMatcherContext,
-} from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   buildGetCharacterCanLevelMorphs,
   compileCharacterCanLevelMorphs,

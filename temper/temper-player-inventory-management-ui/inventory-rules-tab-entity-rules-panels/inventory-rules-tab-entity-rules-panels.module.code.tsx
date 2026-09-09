@@ -1,8 +1,8 @@
 "use client"
 
-import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { ControlledRule } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type * as React from "react"
 import { CharacterRulesPanel } from "../inventory-character-rules-panel/inventory-character-rules-panel.module.code.tsx"
 import { CompanionRulesPanel } from "../inventory-companion-rules-panel/inventory-companion-rules-panel.module.code.tsx"

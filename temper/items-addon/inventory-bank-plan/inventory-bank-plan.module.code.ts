@@ -1,4 +1,4 @@
-import type { CharacterId } from "@akasha/temper-items-rules-core/use-destination-types"
+import type { CharacterId } from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import { resolveCharacterNameById } from "../inventory-character-names/inventory-character-names.module.code.ts"
 import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
 import {

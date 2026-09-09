@@ -1,7 +1,7 @@
 import type {
   ItemAction,
   MoveToDestination,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { withDepositNote } from "../inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,

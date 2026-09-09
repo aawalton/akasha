@@ -1,7 +1,7 @@
-import { migrateControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
-import { createDefaultRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-settings"
-import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { migrateControlledRules } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import { createDefaultRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { type RefObject, useCallback, useMemo, useRef } from "react"
 import { useInventorySettings } from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {

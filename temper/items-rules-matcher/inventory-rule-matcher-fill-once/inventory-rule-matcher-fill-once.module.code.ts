@@ -1,10 +1,10 @@
+import { signatureMatchesItem } from "akasha/temper/temper-items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { ESO_BAG_WORN } from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import { signatureMatchesItem } from "akasha/temper/temper-items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import { ESO_BAG_WORN } from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ClassifiedInventoryItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export interface FillOnceResult {
   included: readonly ClassifiedInventoryItem[]

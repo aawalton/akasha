@@ -9,14 +9,14 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import type {
   CategoryRule,
   DestinationChain,
   MoveToDestination,
   StockScope,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import {
   ACTION_OPTIONS,

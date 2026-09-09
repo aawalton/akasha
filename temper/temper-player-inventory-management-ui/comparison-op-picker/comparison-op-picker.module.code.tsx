@@ -9,7 +9,7 @@ import {
 import {
   type ComparisonOpId,
   comparisonOps,
-} from "@akasha/temper-items-rules-core/comparison-op-data"
+} from "akasha/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.code.ts"
 
 interface ComparisonOpPickerProps {
   value: ComparisonOpId

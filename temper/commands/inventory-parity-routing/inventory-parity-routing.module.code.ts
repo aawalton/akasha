@@ -1,15 +1,15 @@
-import {
-  narrowDestination,
-  parseItemAction,
-} from "@akasha/temper-items-rules-core/inventory-destination-parse"
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import type {
-  ItemAction,
-  MoveToDestination,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
 import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import {
+  narrowDestination,
+  parseItemAction,
+} from "akasha/temper/temper-items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type {
+  ItemAction,
+  MoveToDestination,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export interface MatchedRoute {
   readonly action: ItemAction

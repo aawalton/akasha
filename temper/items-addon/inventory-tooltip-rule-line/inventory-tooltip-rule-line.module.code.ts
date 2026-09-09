@@ -1,5 +1,5 @@
-import { formatActionLabel } from "@akasha/temper-items-rules-core/inventory-rule-action-labels"
-import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { formatActionLabel } from "akasha/temper/temper-items-rules-core/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
+import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { resolveCharacterNameById } from "../inventory-character-names/inventory-character-names.module.code.ts"
 import { isItemAtMoveToDestination } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
 import { resolveVenueLabel } from "../inventory-plan/inventory-plan.module.code.ts"

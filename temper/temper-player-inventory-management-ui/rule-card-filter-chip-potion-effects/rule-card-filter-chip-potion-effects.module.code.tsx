@@ -9,12 +9,12 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
-import { POTION_EFFECTS_OPTIONS } from "@akasha/temper-items-rules-core/potion-effects-filter"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { POTION_EFFECTS_OPTIONS } from "akasha/temper/temper-items-rules-core/potion-effects-filter/potion-effects-filter.module.code.ts"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

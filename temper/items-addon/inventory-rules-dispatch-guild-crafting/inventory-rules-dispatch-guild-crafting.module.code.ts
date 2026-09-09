@@ -1,5 +1,5 @@
-import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { requireAt } from "@akasha/utils/narrow/require-at"
+import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import { getGuildBankLocationKey } from "../inventory-location-keys/inventory-location-keys.module.code.ts"
 import {

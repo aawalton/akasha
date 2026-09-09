@@ -1,4 +1,4 @@
-import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export type RejectionReason =
   | { readonly kind: "category-mismatch"; readonly ruleCategoryId: string }

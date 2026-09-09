@@ -1,14 +1,14 @@
 "use client"
 
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getNodeChildren,
   getNodePath,
-} from "@akasha/temper-items-rules-core/item-category-tree-utils"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { useMemo } from "react"
 import { CategoryBadgeSelect } from "../rule-card-category-row/rule-card-category-row.module.code.tsx"
 

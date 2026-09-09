@@ -8,16 +8,16 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import type { ControlledRule } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "@akasha/temper-items-rules-core/inventory-rule-goals"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule

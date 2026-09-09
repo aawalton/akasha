@@ -1,7 +1,7 @@
 import {
   reorderCategoryRule,
   resolveAnchorIndex,
-} from "@akasha/temper-items-rules-core/inventory-rule-settings"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import {
   answering,
   DATA,

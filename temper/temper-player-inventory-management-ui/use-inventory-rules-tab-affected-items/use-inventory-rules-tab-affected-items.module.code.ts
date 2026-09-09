@@ -1,17 +1,5 @@
 "use client"
 
-import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
-import { compileCategoryRuleToOrdered } from "@akasha/temper-items-rules-core/inventory-rule-compiler"
-import type {
-  AffectedItem,
-  ClassifiedInventoryItem,
-} from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import {
-  type CategoryRule,
-  IMPLICIT_TERMINAL_RULE_ID,
-  type ItemRule,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,
@@ -21,6 +9,18 @@ import { buildManagementPlan } from "akasha/temper/items-rules-routing/inventory
 import { applyDestinationCapacityFilter } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import { compileCategoryRuleToOrdered } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
+import type {
+  AffectedItem,
+  ClassifiedInventoryItem,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import {
+  type CategoryRule,
+  IMPLICIT_TERMINAL_RULE_ID,
+  type ItemRule,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { useMemo, useRef } from "react"
 
 export interface InventoryRulesTabAffectedItems {

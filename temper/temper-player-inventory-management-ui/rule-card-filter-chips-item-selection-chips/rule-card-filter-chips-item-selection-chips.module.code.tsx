@@ -2,10 +2,10 @@
 
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Text } from "@akasha/design-primitives/text-body"
-import { LOCATION_OPTIONS } from "@akasha/temper-items-rules-core/location-filter"
-import { SET_SOURCE_TYPE_OPTIONS } from "@akasha/temper-items-rules-core/set-sources-filter"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { LOCATION_OPTIONS } from "akasha/temper/temper-items-rules-core/location-filter/location-filter.module.code.ts"
+import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/temper-items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
 import type { ReactNode } from "react"
 import type { RuleCardState } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 

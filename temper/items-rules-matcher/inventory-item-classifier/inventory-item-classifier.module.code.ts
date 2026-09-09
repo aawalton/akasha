@@ -1,7 +1,7 @@
-import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import type { ClassifiedInventoryItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export function classifyAllInventoryItems(
   inventory: InventoryDatabase

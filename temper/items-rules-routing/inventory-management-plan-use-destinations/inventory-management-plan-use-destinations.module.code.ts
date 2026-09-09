@@ -1,24 +1,24 @@
-import { composeCharEligibilityPredicate } from "@akasha/temper-items-rules-core/eligibility-predicate-composer"
-import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import { composeCharEligibilityPredicate } from "akasha/temper/temper-items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import { narrowDestination } from "akasha/temper/temper-items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   ItemAction,
   ItemRule,
   MoveToDestination,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { planStockDestinationsForStack } from "@akasha/temper-items-rules-core/stock-destination-planner"
-import type { StockDestinationContext } from "@akasha/temper-items-rules-core/stock-destination-types"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { planStockDestinationsForStack } from "akasha/temper/temper-items-rules-core/stock-destination-planner/stock-destination-planner.module.code.ts"
+import type { StockDestinationContext } from "akasha/temper/temper-items-rules-core/stock-destination-types/stock-destination-types.module.code.ts"
 import {
   buildUseDestinationContext,
   inventoryItemUseKey,
-} from "@akasha/temper-items-rules-core/use-destination-context-builder"
-import { planUseDestinationsForStack } from "@akasha/temper-items-rules-core/use-destination-resolver"
+} from "akasha/temper/temper-items-rules-core/use-destination-context-builder/use-destination-context-builder.module.code.ts"
+import { planUseDestinationsForStack } from "akasha/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {
   type CharacterId,
   characterId,
-} from "@akasha/temper-items-rules-core/use-destination-types"
+} from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 export function fillUseAllocationsInPlace(
   rules: readonly CompiledOrderedRule[],

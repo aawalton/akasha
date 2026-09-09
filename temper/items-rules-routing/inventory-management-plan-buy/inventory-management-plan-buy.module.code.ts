@@ -1,8 +1,8 @@
-import { evaluateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-eval"
-import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
 import type { PlanItem } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { computeItemStock } from "akasha/temper/temper-items-core/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { evaluateBuyRules } from "akasha/temper/temper-items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
+import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import type {
   CharSimState,
   SimStep,

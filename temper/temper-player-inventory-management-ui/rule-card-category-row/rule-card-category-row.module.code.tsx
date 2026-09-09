@@ -7,13 +7,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { getNodeChildren } from "@akasha/temper-items-rules-core/item-category-tree-utils"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { getNodeChildren } from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { ChevronRight } from "lucide-react"
 
 interface RuleCardCategoryRowProps {

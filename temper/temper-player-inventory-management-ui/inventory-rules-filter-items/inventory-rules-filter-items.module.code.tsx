@@ -1,10 +1,10 @@
 "use client"
 
-import { inventoryRuleGoals } from "@akasha/temper-items-rules-core/inventory-rule-goals"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { inventoryRuleGoals } from "akasha/temper/temper-items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import {
   type ActiveStatusFilter,
   isActiveStatusFilter,

@@ -1,10 +1,10 @@
 import { USER_ID } from "@akasha/supabase-auth/user-id"
-import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   readAutomationSettings,
   readInventoryRuleSettings,

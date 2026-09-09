@@ -101,7 +101,7 @@ export const temper = {
     "domain/temper-hud-window",
     "domain/temper-errors-triage",
     "domain/temper-catalog-side-file",
-    "workspace-package/temper-items-rules-core",
+    "domain/temper-items-rules-core",
     "workspace-package/temper-skill-kinds",
     "eso-addon/temper-interface-addon",
     "workspace-package/temper-character-sources",

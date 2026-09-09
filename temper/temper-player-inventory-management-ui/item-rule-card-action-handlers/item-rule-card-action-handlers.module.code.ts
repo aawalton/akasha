@@ -6,7 +6,7 @@ import type {
   MoveToDestination,
   StockScope,
   Tier,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   ACTION_OPTIONS,
   SELL_ACTIONS,

@@ -1,16 +1,16 @@
 "use client"
 
-import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
-import { classifyRule } from "@akasha/temper-items-rules-core/inventory-rule-classify"
-import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
-import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import { classifyRule } from "akasha/temper/temper-items-rules-core/inventory-rule-classify/inventory-rule-classify.module.code.ts"
+import type { ControlledRule } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import { buildAllControlledRules } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type {
   CategoryRule,
   InventoryRuleSettings,
   ItemRule,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
-import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ruleFingerprint } from "akasha/temper/temper-items-rules-core/rule-fingerprint/rule-fingerprint.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 
 export interface AssembledInventoryRules {

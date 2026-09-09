@@ -17,15 +17,15 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import {
   goalIdToValue,
   goalValueToId,
   inventoryRuleGoals,
-} from "@akasha/temper-items-rules-core/inventory-rule-goals"
-import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { EllipsisVertical, Info } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 import {

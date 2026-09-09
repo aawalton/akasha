@@ -1,5 +1,5 @@
-import { isBackpackRequiredAction } from "@akasha/temper-items-rules-core/action-storage-capability"
-import type { CompiledRuleConfig } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import { isBackpackRequiredAction } from "akasha/temper/temper-items-rules-core/action-storage-capability/action-storage-capability.module.code.ts"
+import type { CompiledRuleConfig } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
 import { setItemIsJunkGated } from "../inventory-junk-queue/inventory-junk-queue.module.code.ts"
 import {

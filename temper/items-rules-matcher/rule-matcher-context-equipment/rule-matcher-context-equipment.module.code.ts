@@ -1,17 +1,3 @@
-import {
-  compileWantedCompanionEquipmentForBuild,
-  compileWantedEquipmentForBuild,
-} from "@akasha/temper-items-rules-core/equipment-signature-compiler"
-import type {
-  WantedCompanionEquipmentSignature,
-  WantedEquipmentSignature,
-} from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
-import type {
-  CharacterBuildInput,
-  CompanionBuildInput,
-  CompletionCharacterInput,
-  CompletionCompanionInput,
-} from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import {
@@ -19,6 +5,20 @@ import {
   resolveCompanionToggles,
 } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import {
+  compileWantedCompanionEquipmentForBuild,
+  compileWantedEquipmentForBuild,
+} from "akasha/temper/temper-items-rules-core/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
+import type {
+  WantedCompanionEquipmentSignature,
+  WantedEquipmentSignature,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type {
+  CharacterBuildInput,
+  CompanionBuildInput,
+  CompletionCharacterInput,
+  CompletionCompanionInput,
+} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function compileWantedEquipment(

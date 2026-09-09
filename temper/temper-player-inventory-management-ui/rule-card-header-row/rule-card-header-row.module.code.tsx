@@ -9,7 +9,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@akasha/design-primitives/dropdown-menu"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
 
 interface RuleCardHeaderRowProps {

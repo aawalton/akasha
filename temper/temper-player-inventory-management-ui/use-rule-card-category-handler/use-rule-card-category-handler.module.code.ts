@@ -1,13 +1,13 @@
 "use client"
 
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
-} from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { INVENTORY_RULE_FILTERS } from "@akasha/temper-items-rules-core/rule-filter-registry"
-import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
-import { getTraitFamily } from "@akasha/temper-items-rules-core/traits-filter"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { INVENTORY_RULE_FILTERS } from "akasha/temper/temper-items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
+import type { FilterId } from "akasha/temper/temper-items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import { getTraitFamily } from "akasha/temper/temper-items-rules-core/traits-filter/traits-filter.module.code.ts"
 import type React from "react"
 import type { RuleCardOnUpdate } from "../use-rule-card/use-rule-card.module.code.ts"
 

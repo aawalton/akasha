@@ -1,11 +1,11 @@
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   AffectedItem,
   AllRuleAffectedItemsResult,
   ClassifiedInventoryItem,
-} from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+} from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 
 export type ResidueEntries = readonly (readonly [number, number])[]
 

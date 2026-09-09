@@ -1,5 +1,5 @@
-import { buildAllControlledRules } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
-import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { buildAllControlledRules } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   answering,
   categoryRow,

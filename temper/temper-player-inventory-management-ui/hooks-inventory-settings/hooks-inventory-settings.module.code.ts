@@ -11,12 +11,6 @@ import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import {
-  heldFromRows,
-  rulesFromPages,
-} from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
-import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import type {
@@ -33,6 +27,12 @@ import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
 } from "akasha/temper/temper-items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
+import {
+  heldFromRows,
+  rulesFromPages,
+} from "akasha/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { writesFor } from "akasha/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
