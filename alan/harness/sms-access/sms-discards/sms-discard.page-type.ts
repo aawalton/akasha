@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { SmsDiscardDiscardedAt } from "./properties/sms-discard-discarded-at.instant-property.ts"
-import type { SmsDiscardReason } from "./properties/sms-discard-reason.text-property.ts"
-import type { SmsDiscardSender } from "./properties/sms-discard-sender.text-property.ts"
-
-export type SmsDiscard = Page & {
-  sender: SmsDiscardSender
-  reason: SmsDiscardReason
-  discardedAt: SmsDiscardDiscardedAt
-}
 
 export const smsDiscard = {
   id: "019fee8b-0d29-7123-afe0-de23c4c7338d",
@@ -47,4 +37,5 @@ export const smsDiscard = {
       statement: "An SMS this system turns away lands as a page under this type.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
