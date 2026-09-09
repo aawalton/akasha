@@ -184,5 +184,10 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A participle with no word before it names an act, so it describes no thing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A participle read as a clause's own subject names an act, so it describes no thing.",
+    },
   ],
 } as const satisfies Module

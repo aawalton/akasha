@@ -455,6 +455,16 @@ export const A_TERMINAL_HOLDING_KEYS: readonly Row[] = [
   ["keys", "NOUN", 5, "obj"],
 ]
 
+export const HOLDING_ITS_FILES_DOES_NOT_REVEAL: readonly Row[] = [
+  ["values", "NOUN", 2, "nsubj"],
+  ["carries", "VERB", 0, "root"],
+  ["that", "SCONJ", 7, "mark"],
+  ["holding", "VERB", 7, "csubj"],
+  ["files", "NOUN", 4, "obj"],
+  ["does", "AUX", 7, "aux"],
+  ["reveal", "VERB", 2, "ccomp"],
+]
+
 export const HOLDING_THE_INTENT_IS_LEFT: readonly Row[] = [
   ["Holding", "VERB", 5, "advcl"],
   ["the", "DET", 3, "det"],

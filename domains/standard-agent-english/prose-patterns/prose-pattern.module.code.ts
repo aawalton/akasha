@@ -54,6 +54,8 @@ const MODIFIER = "nmod"
 
 const CONJUNCT = "conj"
 
+const CLAUSAL_SUBJECT = "csubj"
+
 const COORDINATOR = "cc"
 
 const AUXILIARY = "aux"
@@ -300,6 +302,7 @@ function setApart(sentence: DepSentence, token: DepToken): boolean {
 
 function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.id === FIRST) return null
+  if (token.deprel === CLAUSAL_SUBJECT) return null
   if (underAPreposition(sentence, token)) return null
   if (adverbBefore(sentence, token)) return null
   if (clauseBeside(sentence, token)) return null
