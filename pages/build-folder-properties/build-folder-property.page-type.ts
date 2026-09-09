@@ -1,4 +1,4 @@
-import type { NamedFolderProperty } from "../named-folder-properties/named-folder-property.page-type.ts"
+import type { NamedFolderProperty } from "../named-folder-properties/named-folder-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type BuildFolderProperty = NamedFolderProperty

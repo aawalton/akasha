@@ -1,10 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { FolderName } from "./properties/folder-name.text-property.ts"
-
-export type NamedFolderProperty = PageProperty & {
-  folderName: FolderName
-}
 
 export const namedFolderProperty = {
   id: "01a081cc-8980-7180-b875-7b4681fea93d",
@@ -42,4 +36,5 @@ export const namedFolderProperty = {
       statement: "A page states whether it has the folder rather than what the folder holds.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
