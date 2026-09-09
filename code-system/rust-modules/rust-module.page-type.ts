@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Rust } from "./properties/rust.file-property.ts"
+import type { Rust } from "./properties/rust.code-file-property.ts"
 import type { RustModuleName } from "./properties/rust-module-name.text-property.ts"
 
 export type RustModule = Domain & {
@@ -14,10 +14,10 @@ export const rustModule = {
   slug: "rust-module",
   definition: "code a Rust crate is built from",
   pluralSlug: "rust-modules",
-  partSlugs: ["file-property/rust", "text-property/rust-module-name"],
+  partSlugs: ["code-file-property/rust", "text-property/rust-module-name"],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/rust", required: true, many: false },
+    { pagePropertySlug: "code-file-property/rust", required: true, many: false },
     { pagePropertySlug: "text-property/rust-module-name", required: false, many: false },
   ],
   invariants: [
