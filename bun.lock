@@ -268,7 +268,6 @@
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/shell": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
@@ -1177,9 +1176,6 @@
         "@akasha/utils": "workspace:*",
         "yaml": "^2.8.1",
       },
-    },
-    "shell": {
-      "name": "@akasha/shell",
     },
     "smilingjenny/smilingjenny-web": {
       "name": "@akasha/smilingjenny-web",
@@ -2509,8 +2505,6 @@
     "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
 
     "@akasha/service": ["@akasha/service@workspace:services"],
-
-    "@akasha/shell": ["@akasha/shell@workspace:shell"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/smilingjenny-web"],
 

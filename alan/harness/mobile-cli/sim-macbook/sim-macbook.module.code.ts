@@ -1,6 +1,6 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { quoted } from "@akasha/shell/quoting"
 import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { z } from "zod"
 import { APPIUM_BASE, appiumReady } from "../appium-client/appium-client.module.code.ts"
 import {

@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/shell",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./quoting": "./quoting/quoting.module.code.ts"
-  }
-}

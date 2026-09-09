@@ -1,5 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import { quoted } from "@akasha/shell/quoting"
+import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 import { z } from "zod"
 import {
   componentSwiftFor,
