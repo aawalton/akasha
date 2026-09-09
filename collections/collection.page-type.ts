@@ -15,7 +15,6 @@ import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
 import type { Status } from "./properties/status.select-property.ts"
 import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
-import type { UnitWindow } from "./properties/unit-window.relation-property.ts"
 import type { UnitWords } from "./properties/unit-words.number-property.ts"
 
 export type Collection = Page & {
@@ -32,8 +31,7 @@ export type Collection = Page & {
   rank?: Rank
   status?: Status
   tags?: readonly CollectionTags[]
-  unitSlug?: UnitSlug
-  unit?: UnitWindow
+  unit?: UnitSlug
   unitWords?: UnitWords
   collectionType?: CollectionType
 }
@@ -78,7 +76,6 @@ export const collection = {
     "relation-property/collection-type",
     "relation-property/part-of-collections",
     "relation-property/unit-slug",
-    "relation-property/unit-window",
     "select-property/status",
     "text-property/collection-author",
     "text-property/collection-tags",
@@ -122,7 +119,6 @@ export const collection = {
       maxCount: null,
     },
     { pageProperty: "relation-property/unit-slug", required: false, many: false },
-    { pageProperty: "relation-property/unit-window", required: false, many: false },
     { pageProperty: "computed-property/collection-completion", required: false, many: false },
     { pageProperty: "relation-property/collection-type", required: false, many: false },
     { pageProperty: "computed-property/own-length-in-words", required: false, many: false },
