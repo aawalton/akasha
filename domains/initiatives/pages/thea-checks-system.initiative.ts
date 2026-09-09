@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "The tooling is done and measured: code-check holds nine member files from its type alone, a check page stating none of them, and heldIn reads .audit.code.ts as a property rather than a stray. checking loads .check.code.ts where it is there, and judging states Auditing, which takes the root alone. id-is-a-uuid-version-7 is migrated, its decision and audit split out; 55 left, one a turn. Then akasha audit runs the audits, then each .code.ts becomes .check.code.ts and the old properties go.",
+        "code-check holds nine member files from its type alone, a check page stating none of them; heldIn reads .audit.code.ts as a property. checking loads .check.code.ts where it is there, and judging states Auditing, taking the root alone. 9 of 55 are migrated, alphabetically through file-length, one a turn. A check already holding an Asking splits cleanest; one with no text to judge takes a Shadow. An audit over the tree takes everythingIn(root).changed. Then akasha audit runs them.",
     },
     {
       statement:
