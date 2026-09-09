@@ -2,8 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
@@ -30,6 +28,11 @@ import {
 import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
+import {
+  type ArmorSlotId,
+  armorSlots,
+} from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ArmorUpdateParams } from "../armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "../armor-card/armor-card.module.code.tsx"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"

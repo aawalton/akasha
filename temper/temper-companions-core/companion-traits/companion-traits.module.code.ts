@@ -1,5 +1,5 @@
-import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { CompanionEquipmentQualityId } from "../companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionMetricEffect } from "../companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"

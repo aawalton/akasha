@@ -1,4 +1,4 @@
-import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ItemLevel } from "../item-composites/item-composites.module.code.ts"
 
 function itemLevelToArmorEffectiveLevel(level: ItemLevel | undefined): number {

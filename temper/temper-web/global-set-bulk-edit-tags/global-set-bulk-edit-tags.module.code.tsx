@@ -1,11 +1,6 @@
 "use client"
 
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
-import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
   AVAILABLE_QUALITY_OPTIONS,
@@ -31,6 +26,11 @@ import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-ty
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo } from "react"
+import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
+import { weaponSlots } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 

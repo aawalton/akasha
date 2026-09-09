@@ -1,12 +1,6 @@
 import type { BitReaderState } from "@akasha/temper-build-hash/build-hash-bit-reader"
 import { readBits } from "@akasha/temper-build-hash/build-hash-bit-reader"
 import { recordFromKeys } from "@akasha/temper-build-hash/record-from-keys"
-import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
-import type {
-  EquipmentQualityId,
-  EquipmentQualityOptionId,
-} from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
@@ -14,6 +8,12 @@ import type {
   WeaponSlot,
   WeaponSlotItem,
 } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { ArmorSlotId } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type {
+  EquipmentQualityId,
+  EquipmentQualityOptionId,
+} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { JewelrySlotId } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   ARMOR_ENCHANT_BITS,
   ARMOR_TRAIT_BITS,

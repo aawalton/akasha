@@ -1,13 +1,13 @@
-import {
-  type EquipmentQualityId,
-  minQuality,
-  resolveQuality,
-} from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import { getInfusedWeaponBonus } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import {
+  type EquipmentQualityId,
+  minQuality,
+  resolveQuality,
+} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponItem } from "../item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "../weapon-types-data/weapon-types-data.module.code.ts"
 export const TEMPER_WEAPON_ENCHANTS_BY_ID = {

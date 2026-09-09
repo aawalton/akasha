@@ -1,13 +1,13 @@
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
   jewelryTraits,
 } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
 
 function calculateBloodthirstyValue(maxValue: number, targetHealth: number): number {

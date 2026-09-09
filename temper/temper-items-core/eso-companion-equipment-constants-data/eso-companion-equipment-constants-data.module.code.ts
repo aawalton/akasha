@@ -1,4 +1,4 @@
-import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 
 export const ESO_EQUIP_TYPES = {
   EQUIP_TYPE_HEAD: 1,

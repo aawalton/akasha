@@ -1,6 +1,3 @@
-import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import { resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
@@ -27,6 +24,9 @@ import {
   PLAYER_QUALITY_TO_ESO,
   PLAYER_WEAPON_TYPE_TO_ESO,
 } from "akasha/temper/temper-items-core/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
+import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import { resolveQuality } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

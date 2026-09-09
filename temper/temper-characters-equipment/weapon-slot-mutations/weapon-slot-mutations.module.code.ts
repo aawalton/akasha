@@ -1,4 +1,4 @@
-import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
+import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import type { ShieldItem, WeaponItem } from "../item-composites/item-composites.module.code.ts"
 import type {
   WeaponBars,

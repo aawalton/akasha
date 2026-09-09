@@ -1,13 +1,13 @@
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   WEAPON_TRAIT_QUALITY_VALUES,
   weaponTraits,
 } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import {
+  type EquipmentQualityId,
+  resolveQuality,
+} from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponItem } from "../item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "../weapon-types-data/weapon-types-data.module.code.ts"
 

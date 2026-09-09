@@ -1,5 +1,5 @@
-import type { ArmorSlotId } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { JewelrySlotId } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import type { ArmorSlotId } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { JewelrySlotId } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import type {
   JewelryItem,
   ShieldItem,

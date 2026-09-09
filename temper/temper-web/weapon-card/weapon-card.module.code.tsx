@@ -8,9 +8,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
-import { type WeaponSlot, weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
@@ -56,6 +53,12 @@ import {
 } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/temper-equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import { useMemo, useState } from "react"
+import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
+import {
+  type WeaponSlot,
+  weaponSlots,
+} from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 
 interface WeaponCardProps {

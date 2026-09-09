@@ -6,10 +6,6 @@ import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-sour
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import { jewelryTypes } from "@akasha/temper-equipment-kinds/jewelry-types"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
@@ -32,6 +28,10 @@ import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-t
 import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 import * as z from "zod"
+import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import { equipmentQualities } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
+import { jewelryTypes } from "../../equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
 import { races } from "../../races/races/races.module.code.ts"
 
 const qualityOptionSchema = z.enum(equipmentQualities.ids).optional()

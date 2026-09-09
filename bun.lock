@@ -1031,6 +1031,12 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/equipment-kinds": {
+      "name": "@akasha/temper-equipment-kinds",
+      "dependencies": {
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/errors-addon": {
       "name": "@akasha/temper-errors-addon",
       "dependencies": {
@@ -1245,12 +1251,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
-      },
-    },
-    "temper/temper-equipment-kinds": {
-      "name": "@akasha/temper-equipment-kinds",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/temper-eso-types": {
@@ -1607,7 +1607,7 @@
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
 
-    "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/temper-equipment-kinds"],
+    "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/equipment-kinds"],
 
     "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/errors-addon"],
 

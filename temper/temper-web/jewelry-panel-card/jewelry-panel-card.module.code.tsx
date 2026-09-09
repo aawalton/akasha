@@ -2,8 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
-import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
@@ -27,6 +25,11 @@ import {
 } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
+import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import {
+  type JewelrySlotId,
+  jewelrySlots,
+} from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "../equipment-types/equipment-types.module.code.ts"

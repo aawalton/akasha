@@ -7,8 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
-import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
@@ -41,6 +39,11 @@ import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"
+import {
+  type ArmorSlotId,
+  armorSlots,
+} from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
+import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 
 export interface ArmorUpdateParams {
