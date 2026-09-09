@@ -98,6 +98,7 @@ export const page = {
     "page-type/named-folder-property",
     "page-type/build-folder-property",
     "workstation-service/sweep-page-answers",
+    "module/type-keys",
   ],
   invariants: [
     {
