@@ -52,5 +52,9 @@ export const commandServerClient = {
       invariantKind: "absence",
       statement: "Two servings share no session.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A server's exit refuses no ask until the answer pipe has ended.",
+    },
   ],
 } as const satisfies Module

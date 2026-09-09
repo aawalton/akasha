@@ -49,6 +49,7 @@ interface Session {
   readonly protocol: Readable
   readonly waiting: Map<number, Waiting>
   lost: boolean
+  went: string | null
 }
 
 function refusalOf(refusal: string, saying: string): CommandServerRefusal {
@@ -153,7 +154,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         )
         return
       }
-      const fresh: Session = { child, protocol, waiting: new Map(), lost: false }
+      const fresh: Session = { child, protocol, waiting: new Map(), lost: false, went: null }
       let settled = false
       const timer = setTimeout(() => {
         if (settled) {
@@ -181,7 +182,8 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
       })
       child.on("exit", (code, signal) => {
-        lose(fresh, `the command server exited (code ${String(code)}, signal ${String(signal)})`)
+        fresh.went = `the command server exited (code ${String(code)}, signal ${String(signal)})`
+        dropped(fresh)
         if (!settled) {
           settled = true
           clearTimeout(timer)
@@ -190,8 +192,14 @@ export function servingFrom(at: CommandServerAt): Serving {
       })
 
       let held = ""
-      protocol.on("close", () => noise(`protocol closed pid=${String(child.pid)}`))
-      protocol.on("end", () => noise(`protocol ended pid=${String(child.pid)}`))
+      protocol.on("close", () => {
+        noise(`protocol closed pid=${String(child.pid)}`)
+        lose(fresh, fresh.went ?? "the answer pipe closed")
+      })
+      protocol.on("end", () => {
+        noise(`protocol ended pid=${String(child.pid)}`)
+        lose(fresh, fresh.went ?? "the answer pipe ended")
+      })
       protocol.on("error", (err) =>
         noise(`protocol errored pid=${String(child.pid)} ${String(err)}`)
       )
@@ -259,14 +267,16 @@ export function servingFrom(at: CommandServerAt): Serving {
     return undefined
   }
 
-  function lose(one: Session, saying: string): undefined {
-    if (one.lost) {
-      return undefined
-    }
+  function dropped(one: Session): undefined {
     one.lost = true
     if (session === one) {
       session = null
     }
+    return undefined
+  }
+
+  function lose(one: Session, saying: string): undefined {
+    dropped(one)
     closePipe(one)
     for (const [id, held] of [...one.waiting]) {
       one.waiting.delete(id)
@@ -284,17 +294,13 @@ export function servingFrom(at: CommandServerAt): Serving {
   }
 
   function retire(one: Session, how: NodeJS.Signals): undefined {
-    if (session === one) {
-      session = null
-    }
-    one.lost = true
     try {
       one.child.stdin?.end()
     } catch {}
     try {
       one.child.kill(how)
     } catch {}
-    closePipe(one)
+    lose(one, `the command server was stopped with ${how}`)
     return undefined
   }
 
