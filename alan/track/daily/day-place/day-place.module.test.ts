@@ -4,7 +4,7 @@ import { join } from "node:path"
 
 const HERE = import.meta.dir
 
-const REPO = join(HERE, "..", "..", "..", "..", "..")
+const REPO = join(HERE, "..", "..", "..", "..")
 
 const CORPUS = join(REPO, "pages", "daily-tracking")
 
