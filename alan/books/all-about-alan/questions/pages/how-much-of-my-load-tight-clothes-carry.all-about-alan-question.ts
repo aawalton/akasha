@@ -4,6 +4,6 @@ export const howMuchOfMyLoadTightClothesCarry = {
   id: "01a077e3-2057-74a5-8064-1ef7bce04ec2",
   pageTypeSlug: "all-about-alan-question",
   slug: "how-much-of-my-load-tight-clothes-carry",
-  topicSlug: "tight-clothes",
+  topic: "tight-clothes",
   ask: "Ten to twenty-five percent of my load is a wide range. What controlled comparison would narrow that range?",
 } as const satisfies AllAboutAlanQuestion

@@ -4,6 +4,6 @@ export const whichDisapprovalIAmAtPeaceWith = {
   id: "01a077ea-c745-7cd5-b9d6-c192f4437400",
   pageTypeSlug: "all-about-alan-question",
   slug: "which-disapproval-i-am-at-peace-with",
-  topicSlug: "where-the-scar-ends",
+  topic: "where-the-scar-ends",
   ask: "Which disapproval am I at peace with?",
 } as const satisfies AllAboutAlanQuestion

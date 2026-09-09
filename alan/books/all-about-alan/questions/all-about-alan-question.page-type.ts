@@ -1,10 +1,10 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { OpenQuestion } from "./properties/open-question.text-property.ts"
-import type { QuestionTopicSlug } from "./properties/question-topic-slug.relation-property.ts"
+import type { QuestionTopic } from "./properties/question-topic.relation-property.ts"
 
 export type AllAboutAlanQuestion = Page & {
-  topicSlug: QuestionTopicSlug
+  topic: QuestionTopic
   ask: OpenQuestion
 }
 
@@ -16,9 +16,9 @@ export const allAboutAlanQuestion = {
   pluralSlug: "all-about-alan-questions",
   extendsSlug: ["page-type/page"],
   mortal: true,
-  partSlugs: ["relation-property/question-topic-slug", "text-property/open-question"],
+  partSlugs: ["relation-property/question-topic", "text-property/open-question"],
   properties: [
-    { pagePropertySlug: "relation-property/question-topic-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/question-topic", required: true, many: false },
     { pagePropertySlug: "text-property/open-question", required: true, many: false },
   ],
   invariants: [

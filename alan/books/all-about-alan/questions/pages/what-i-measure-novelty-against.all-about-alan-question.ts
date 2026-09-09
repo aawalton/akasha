@@ -4,6 +4,6 @@ export const whatIMeasureNoveltyAgainst = {
   id: "01a077e4-c71d-7893-b4b2-d210706ce647",
   pageTypeSlug: "all-about-alan-question",
   slug: "what-i-measure-novelty-against",
-  topicSlug: "how-i-know-things",
+  topic: "how-i-know-things",
   ask: "What do I measure novelty against: stored attempts, or distance from my model?",
 } as const satisfies AllAboutAlanQuestion

@@ -4,6 +4,6 @@ export const howIWouldCatchCodeDriftingFromDocs = {
   id: "01a077ed-808a-7f1b-bcaf-56a9f190205f",
   pageTypeSlug: "all-about-alan-question",
   slug: "how-i-would-catch-code-drifting-from-docs",
-  topicSlug: "not-reading-code-any-more",
+  topic: "not-reading-code-any-more",
   ask: "How would I find out if the code stopped matching the documentation it runs off?",
 } as const satisfies AllAboutAlanQuestion

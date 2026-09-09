@@ -4,6 +4,6 @@ export const whetherPullingBackAttentionWorksEverywhere = {
   id: "01a077e2-8352-7c34-90ec-85074b7c8495",
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-pulling-back-attention-works-everywhere",
-  topicSlug: "being-alone-on-purpose",
+  topic: "being-alone-on-purpose",
   ask: "Pulling back my attention works as recovery around people. Does pulling it back work wherever my attention goes?",
 } as const satisfies AllAboutAlanQuestion

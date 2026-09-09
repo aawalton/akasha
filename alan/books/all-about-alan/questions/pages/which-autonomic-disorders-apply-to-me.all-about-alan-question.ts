@@ -4,6 +4,6 @@ export const whichAutonomicDisordersApplyToMe = {
   id: "01a077eb-c348-7b28-a519-8cd4304099cc",
   pageTypeSlug: "all-about-alan-question",
   slug: "which-autonomic-disorders-apply-to-me",
-  topicSlug: "what-comes-with-it",
+  topic: "what-comes-with-it",
   ask: "Which autonomic disorders apply to me beyond my knowing that POTS does not?",
 } as const satisfies AllAboutAlanQuestion

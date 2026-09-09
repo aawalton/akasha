@@ -4,6 +4,6 @@ export const whatTriggersMyMapToMove = {
   id: "01a077ea-1092-7604-9cae-534f815d1d43",
   pageTypeSlug: "all-about-alan-question",
   slug: "what-triggers-my-map-to-move",
-  topicSlug: "calling-something-weather",
+  topic: "calling-something-weather",
   ask: "What actually triggers my map to move: direct evidence that a thing cannot change, repeated failed attempts, or someone else's framing?",
 } as const satisfies AllAboutAlanQuestion
