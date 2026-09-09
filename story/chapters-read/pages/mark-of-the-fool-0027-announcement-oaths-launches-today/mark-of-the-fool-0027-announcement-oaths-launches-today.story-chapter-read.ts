@@ -5,7 +5,7 @@ export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "mark-of-the-fool-0027-announcement-oaths-launches-today",
   title: "Announcement: Oaths Launches Today!",
-  partOfCollectionSlugs: ["story-read/mark-of-the-fool"],
+  storySlug: "story-read/mark-of-the-fool",
   position: 27,
   ownLength: 297,
   unitSlug: "words",

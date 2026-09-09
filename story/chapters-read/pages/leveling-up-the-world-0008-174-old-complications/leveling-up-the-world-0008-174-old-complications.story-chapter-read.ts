@@ -5,7 +5,7 @@ export const levelingUpTheWorld0008174OldComplications = {
   pageTypeSlug: "story-chapter-read",
   slug: "leveling-up-the-world-0008-174-old-complications",
   title: "174. Old Complications",
-  partOfCollectionSlugs: ["story-read/leveling-up-the-world"],
+  storySlug: "story-read/leveling-up-the-world",
   position: 8,
   ownLength: 3078,
   ownProgress: 3078,

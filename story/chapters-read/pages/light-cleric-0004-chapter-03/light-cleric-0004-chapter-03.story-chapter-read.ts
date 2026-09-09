@@ -5,7 +5,7 @@ export const lightCleric0004Chapter03 = {
   pageTypeSlug: "story-chapter-read",
   slug: "light-cleric-0004-chapter-03",
   title: "Chapter 03",
-  partOfCollectionSlugs: ["light-cleric"],
+  storySlug: "light-cleric",
   position: 4,
   ownLength: 5949,
   unitSlug: "words",

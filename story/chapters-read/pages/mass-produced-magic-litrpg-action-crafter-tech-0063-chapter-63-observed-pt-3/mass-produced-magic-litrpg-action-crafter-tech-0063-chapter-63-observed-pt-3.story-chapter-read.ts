@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0063Chapter63ObservedPt3 = 
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0063-chapter-63-observed-pt-3",
   title: "Chapter 63 – Observed – Pt 3",
-  partOfCollectionSlugs: ["mass-produced-magic-litrpg-action-crafter-tech"],
+  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 63,
   ownLength: 1707,
   unitSlug: "words",
