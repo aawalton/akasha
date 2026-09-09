@@ -84,7 +84,7 @@ test("a page is answered under its address", () => {
 
 test("the part edge is read off the page naming the part", () => {
   const root = scratch.rootFor("akasha-domains-")
-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
+  filing(root, "domain", "over", ONE, { parts: ["domain/under"] })
   filing(root, "domain", "under", TWO)
   const drawn = domainsDrawn(root)
   expect(drawn.find((held) => held.slug === "domain/under")?.parent).toBe("domain/over")
@@ -93,7 +93,7 @@ test("the part edge is read off the page naming the part", () => {
 
 test("an order is read off the page holding the parts", () => {
   const root = scratch.rootFor("akasha-domains-")
-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/second", "domain/first"] })
+  filing(root, "domain", "over", ONE, { parts: ["domain/second", "domain/first"] })
   filing(root, "domain", "first", TWO)
   filing(root, "domain", "second", THREE)
   const over = domainsDrawn(root).find((held) => held.slug === "domain/over")
@@ -102,14 +102,14 @@ test("an order is read off the page holding the parts", () => {
 
 test("a page whose every part names nothing listed is answered with no order", () => {
   const root = scratch.rootFor("akasha-domains-")
-  filing(root, "domain", "one", ONE, { partSlugs: ["domain/absent"] })
+  filing(root, "domain", "one", ONE, { parts: ["domain/absent"] })
   expect(domainsDrawn(root)[0]?.sequence).toEqual([])
 })
 
 test("a page under two parents sits under none", () => {
   const root = scratch.rootFor("akasha-domains-")
-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
-  filing(root, "domain", "also", TWO, { partSlugs: ["domain/under"] })
+  filing(root, "domain", "over", ONE, { parts: ["domain/under"] })
+  filing(root, "domain", "also", TWO, { parts: ["domain/under"] })
   filing(root, "domain", "under", THREE)
   expect(domainsDrawn(root).find((held) => held.slug === "domain/under")?.parent).toBe(null)
 })

@@ -10,7 +10,7 @@ import { textAt, type Value, valueAt } from "../../../pages/value/page-value.mod
 
 const DOMAIN = "domain"
 
-const PARTS = "partSlugs"
+const PARTS = "parts"
 
 const PERSONA = "persona"
 
