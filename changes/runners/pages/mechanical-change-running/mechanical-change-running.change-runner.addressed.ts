@@ -131,6 +131,9 @@ export type Changes = {
   "change-mechanical/add-file-page-type": Parameters<
     typeof import("../../../mechanical/file/add/add-file-page-type/add-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/move-code-export": Parameters<
+    typeof import("../../../mechanical/file-content/move/move-code-export/move-code-export.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/move-file-code": Parameters<
     typeof import("../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts")["runChange"]
   >[1]

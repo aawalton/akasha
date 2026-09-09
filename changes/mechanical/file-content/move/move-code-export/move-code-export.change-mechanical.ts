@@ -1,0 +1,45 @@
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+
+export const moveCodeExport = {
+  id: "01a08799-4f75-7fb6-bcf9-3392494a57da",
+  pageTypeSlug: "change-mechanical",
+  slug: "move-code-export",
+  changeMode: "change-mode-move",
+  changeTargetType: "change-target-type/file-content",
+  definition:
+    "one exported type moved from one code body to a sibling body, with every importer repointed",
+  code: "ts",
+  test: "ts",
+  guards: ["change-guard/import-not-left-hanging"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A landing path outside the folder the body sits in is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing path a body already sits at is refused rather than written over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body declaring no exported type of that name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The declaration is carried whole, with the imports that declaration names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import the body left behind no longer names goes with the declaration.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every body importing that type names the path that type landed at.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes a body of its own.",
+    },
+  ],
+  changeKind: "change-mechanical",
+} as const satisfies ChangeMechanical

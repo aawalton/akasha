@@ -5,15 +5,19 @@ export const changeMechanicalFileContentMove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-content-move",
   definition: "a mechanical change moving part of what a file holds to another place",
-  parts: ["change-mechanical-file-content/move-property-value"],
+  parts: [
+    "change-mechanical-file-content/move-property-value",
+    "change-mechanical/move-code-export",
+  ],
   invariants: [
     {
-      invariantKind: "absence",
-      statement: "No rung here moves a value out of one file and into another.",
+      invariantKind: "departure",
+      statement: "A rung here carries a declaration out of one body and into a body beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "Such a move is a remove and an add, which the changes for those answer.",
+      statement:
+        "Such a rung reaches the changes for removing and for adding rather than writing a body.",
     },
   ],
 } as const satisfies Domain
