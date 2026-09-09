@@ -32,7 +32,11 @@ function programPage(programSlug: string): ProgramPage {
 
 export function componentSwiftForProgram(programSlug: string): readonly string[] {
   const page = programPage(programSlug)
-  const named: readonly string[] = page.componentSlugs ?? []
+  const said = page as {
+    readonly components?: readonly string[]
+    readonly componentSlugs?: readonly string[]
+  }
+  const named: readonly string[] = said.components ?? said.componentSlugs ?? []
   return named.map((one) => {
     if (!one.startsWith(COMPONENT_PREFIX)) {
       throw new InputError(
