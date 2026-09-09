@@ -1,13 +1,13 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { ChessGameSlug } from "./properties/chess-game-slug.relation-property.ts"
+import type { ChessGame } from "./properties/chess-game.relation-property.ts"
 import type { ChessReviewSessionNotes } from "./properties/chess-review-session-notes.file-property.ts"
 import type { ReviewedAt } from "./properties/reviewed-at.instant-property.ts"
 
 export type ChessReviewSession = Page & {
   title: Title
-  chessGameSlug: ChessGameSlug
+  chessGame: ChessGame
   reviewedAt: ReviewedAt
   notes: ChessReviewSessionNotes
 }
@@ -22,11 +22,11 @@ export const chessReviewSession = {
   partSlugs: [
     "file-property/chess-review-session-notes",
     "instant-property/reviewed-at",
-    "relation-property/chess-game-slug",
+    "relation-property/chess-game",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/chess-game-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/chess-game", required: true, many: false },
     { pagePropertySlug: "instant-property/reviewed-at", required: true, many: false },
     { pagePropertySlug: "file-property/chess-review-session-notes", required: true, many: false },
   ],
