@@ -13,6 +13,7 @@ const TS = "ts"
 const GUARDS = "guards"
 const RUN_CHANGE = "runChange"
 const RUN_GUARD = "runGuard"
+const SUBTYPE = "changeTargetSubtype"
 const SUBTYPE_SLUG = "changeTargetSubtypeSlug"
 const FILE = "file"
 const AT = "at"
@@ -132,7 +133,9 @@ export function subtypeIn(world: World, address: string): string | null {
   const parts = partsOf(address)
   if (parts === null) return null
   const value = world.index.pageAt(parts[0], parts[1])
-  const named = value === null ? null : value[SUBTYPE_SLUG]
+  if (value === null) return null
+  const acts = value[SUBTYPE]
+  const named = typeof acts === "string" ? acts : value[SUBTYPE_SLUG]
   return typeof named === "string" ? slugIn(named) : null
 }
 
