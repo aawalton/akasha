@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The wide FileEdit type no longer exists.",
       workingMemory:
-        "`file-arguing.builtIn` reads argv into `{ changes: FileEdit[], message }`, the one place an edit is composed outside the landing. Two near-identical `askedFor` twins decode those bytes back to strings and name a change, in `mechanical-filing` and `tracking-landing`, differing in the write address. `builtIn` answering `Asking[]` takes both with it. `subagent-presence` is the only other reach in. A decoy in `pages/shadow` sorts first in a search.",
+        "`landing:29` declares `FileEdit` and takes an array of it. Its callers outside tests are `applied`, `landingAsked` and `draftingAsked`, each handing it `prepared.changes`, so everything upstream holds `FileEdit` because landing does. `statedFrom:281` already turns that array into `FileChange[]` for the draft road; the land road throws the rows away. Moves and removals ride beside the array rather than in it — `moves` is its own argument, a removal is `body: null`.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
