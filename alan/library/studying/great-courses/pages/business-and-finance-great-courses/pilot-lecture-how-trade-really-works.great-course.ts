@@ -10,7 +10,7 @@ export const pilotLectureHowTradeReallyWorks = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-how-trade-really-works",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-trade-really-works",

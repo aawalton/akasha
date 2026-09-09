@@ -9,7 +9,7 @@ export const bakingBootCampCakesAndCrusts = {
   unitSlug: "minutes",
   ownLength: 171.6,
   ownProgress: 171.6,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "baking-boot-camp-cakes-crusts",
   externalLink: "https://www.thegreatcoursesplus.com/baking-boot-camp-cakes-crusts",

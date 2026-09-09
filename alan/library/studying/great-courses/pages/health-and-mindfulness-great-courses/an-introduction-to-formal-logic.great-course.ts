@@ -10,7 +10,7 @@ export const anIntroductionToFormalLogic = {
   unitSlug: "minutes",
   ownLength: 742.8,
   ownProgress: 742.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "mathematics-great-courses",

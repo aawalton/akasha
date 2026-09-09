@@ -5,7 +5,7 @@ export const hosea = {
   pageTypeSlug: "scripture-collection",
   slug: "hosea",
   title: "Hosea",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 28,
   ownLength: 0,
   ownProgress: 0,

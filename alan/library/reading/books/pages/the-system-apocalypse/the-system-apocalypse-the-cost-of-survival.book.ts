@@ -12,7 +12,7 @@ export const theSystemApocalypseTheCostOfSurvival = {
   ownLength: 75750,
   ownProgress: 75750,
   publishedAt: "2018-01-24",
-  partOfCollectionSlugs: ["book-series/the-system-apocalypse"],
+  partOfCollections: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B079B7B4GP",
   externalLink: "https://amazon.com/dp/B079B7B4GP",

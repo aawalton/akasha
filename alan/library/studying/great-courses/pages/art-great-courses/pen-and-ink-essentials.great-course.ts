@@ -10,7 +10,7 @@ export const penAndInkEssentials = {
   unitSlug: "minutes",
   ownLength: 140.4,
   ownProgress: 140.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

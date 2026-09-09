@@ -10,11 +10,7 @@ export const charlemagneFatherOfEurope = {
   unitSlug: "minutes",
   ownLength: 387.6,
   ownProgress: 387.6,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "charlemagne-father-of-europe",
   externalLink: "https://www.thegreatcoursesplus.com/charlemagne-father-of-europe",

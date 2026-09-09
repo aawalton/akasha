@@ -10,7 +10,7 @@ export const showStoppingMakeAheadDesserts = {
   unitSlug: "minutes",
   ownLength: 175.8,
   ownProgress: 175.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

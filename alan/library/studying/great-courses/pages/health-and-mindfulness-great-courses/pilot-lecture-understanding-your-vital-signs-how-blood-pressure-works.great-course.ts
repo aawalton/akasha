@@ -10,7 +10,7 @@ export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
   unitSlug: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

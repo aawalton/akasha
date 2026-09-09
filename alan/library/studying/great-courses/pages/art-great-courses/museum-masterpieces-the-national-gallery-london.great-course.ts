@@ -10,7 +10,7 @@ export const museumMasterpiecesTheNationalGalleryLondon = {
   unitSlug: "minutes",
   ownLength: 738.6,
   ownProgress: 738.6,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "museum-masterpieces-the-national-gallery-london",
   externalLink:

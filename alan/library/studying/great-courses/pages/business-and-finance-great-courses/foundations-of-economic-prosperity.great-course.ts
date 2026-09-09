@@ -9,7 +9,7 @@ export const foundationsOfEconomicProsperity = {
   unitSlug: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "foundations-of-economic-prosperity",
   externalLink: "https://www.thegreatcoursesplus.com/foundations-of-economic-prosperity",

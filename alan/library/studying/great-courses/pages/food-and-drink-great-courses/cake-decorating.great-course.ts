@@ -10,7 +10,7 @@ export const cakeDecorating = {
   unitSlug: "minutes",
   ownLength: 302.4,
   ownProgress: 302.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

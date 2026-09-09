@@ -10,7 +10,7 @@ export const africaSCulinaryDiasporaInTheAmericas = {
   unitSlug: "minutes",
   ownLength: 289.8,
   ownProgress: 289.8,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "africa-s-culinary-diaspora-in-the-americas",
   externalLink: "https://www.thegreatcoursesplus.com/africa-s-culinary-diaspora-in-the-americas",

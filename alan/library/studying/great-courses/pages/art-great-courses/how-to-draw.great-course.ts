@@ -10,7 +10,7 @@ export const howToDraw = {
   unitSlug: "minutes",
   ownLength: 1087.8,
   ownProgress: 1087.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

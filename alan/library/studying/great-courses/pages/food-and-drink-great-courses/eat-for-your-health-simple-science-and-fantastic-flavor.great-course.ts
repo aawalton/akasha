@@ -10,7 +10,7 @@ export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
   unitSlug: "minutes",
   ownLength: 420,
   ownProgress: 420,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "eat-for-your-health-simple-science-and-fantastic-flavor",
   externalLink:

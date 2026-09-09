@@ -10,7 +10,7 @@ export const greatArtistsOfTheItalianRenaissance = {
   unitSlug: "minutes",
   ownLength: 1092,
   ownProgress: 1092,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "great-artists-of-the-italian-renaissance",
   externalLink: "https://www.thegreatcoursesplus.com/great-artists-of-the-italian-renaissance",

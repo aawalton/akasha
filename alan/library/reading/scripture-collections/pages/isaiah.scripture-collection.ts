@@ -5,7 +5,7 @@ export const isaiah = {
   pageTypeSlug: "scripture-collection",
   slug: "isaiah",
   title: "Isaiah",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

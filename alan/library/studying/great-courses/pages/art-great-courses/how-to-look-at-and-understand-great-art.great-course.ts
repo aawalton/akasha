@@ -10,7 +10,7 @@ export const howToLookAtAndUnderstandGreatArt = {
   unitSlug: "minutes",
   ownLength: 1106.4,
   ownProgress: 1106.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

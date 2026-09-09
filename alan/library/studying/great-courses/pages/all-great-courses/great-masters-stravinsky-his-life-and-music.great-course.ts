@@ -9,7 +9,7 @@ export const greatMastersStravinskyHisLifeAndMusic = {
   unitSlug: "minutes",
   ownLength: 373.783333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "great-masters-stravinsky-his-life-and-music",
   externalLink: "https://www.thegreatcoursesplus.com/great-masters-stravinsky-his-life-and-music",

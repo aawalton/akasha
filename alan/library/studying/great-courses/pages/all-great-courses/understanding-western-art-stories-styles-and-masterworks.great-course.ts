@@ -9,7 +9,7 @@ export const understandingWesternArtStoriesStylesAndMasterworks = {
   unitSlug: "minutes",
   ownLength: 800.933333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-western-art-stories-styles-and-masterworks",
   externalLink:

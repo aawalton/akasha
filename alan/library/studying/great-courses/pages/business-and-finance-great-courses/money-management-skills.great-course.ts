@@ -10,7 +10,7 @@ export const moneyManagementSkills = {
   unitSlug: "minutes",
   ownLength: 370.8,
   ownProgress: 370.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",

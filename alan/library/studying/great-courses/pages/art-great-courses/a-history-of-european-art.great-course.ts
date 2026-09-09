@@ -10,7 +10,7 @@ export const aHistoryOfEuropeanArt = {
   unitSlug: "minutes",
   ownLength: 1452,
   ownProgress: 1452,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-european-art",
   externalLink: "https://www.thegreatcoursesplus.com/a-history-of-european-art",

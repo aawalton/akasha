@@ -11,7 +11,7 @@ export const salvosSacrifices = {
   position: 14,
   ownLength: 72750,
   publishedAt: "2025-05-02",
-  partOfCollectionSlugs: ["book-series/salvos"],
+  partOfCollections: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0DNFKQ25Z",
   externalLink: "https://amazon.com/dp/B0DNFKQ25Z",

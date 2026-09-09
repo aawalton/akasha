@@ -11,7 +11,7 @@ export const somniaOnlineAnomaly = {
   ownLength: 88750,
   ownProgress: 88750,
   publishedAt: "2018-08-16",
-  partOfCollectionSlugs: ["book-series/somnia-online"],
+  partOfCollections: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B07GCZ87G1",
   externalLink: "https://amazon.com/dp/B07GCZ87G1",

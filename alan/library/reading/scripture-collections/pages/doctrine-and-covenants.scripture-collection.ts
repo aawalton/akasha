@@ -5,7 +5,7 @@ export const doctrineAndCovenants = {
   pageTypeSlug: "scripture-collection",
   slug: "doctrine-and-covenants",
   title: "Doctrine and Covenants",
-  partOfCollectionSlugs: ["scriptures"],
+  partOfCollections: ["scriptures"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

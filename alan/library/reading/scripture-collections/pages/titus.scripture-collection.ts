@@ -5,7 +5,7 @@ export const titus = {
   pageTypeSlug: "scripture-collection",
   slug: "titus",
   title: "Titus",
-  partOfCollectionSlugs: ["new-testament"],
+  partOfCollections: ["new-testament"],
   position: 17,
   ownLength: 0,
   ownProgress: 0,

@@ -10,7 +10,7 @@ export const simpleAndStunningWatercolorTechniques = {
   unitSlug: "minutes",
   ownLength: 151.8,
   ownProgress: 151.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "simple-and-stunning-watercolor-techniques",
   externalLink: "https://www.thegreatcoursesplus.com/simple-and-stunning-watercolor-techniques",

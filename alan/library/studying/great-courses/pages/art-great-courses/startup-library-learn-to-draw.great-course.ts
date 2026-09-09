@@ -10,7 +10,7 @@ export const startupLibraryLearnToDraw = {
   unitSlug: "minutes",
   ownLength: 355.8,
   ownProgress: 355.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

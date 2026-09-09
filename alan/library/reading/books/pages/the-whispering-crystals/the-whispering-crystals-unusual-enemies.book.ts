@@ -11,7 +11,7 @@ export const theWhisperingCrystalsUnusualEnemies = {
   ownLength: 73750,
   ownProgress: 73750,
   publishedAt: "2021-05-12",
-  partOfCollectionSlugs: ["book-series/the-whispering-crystals"],
+  partOfCollections: ["book-series/the-whispering-crystals"],
   source: "kindle",
   externalId: "B094WX8N9K",
   externalLink: "https://amazon.com/dp/B094WX8N9K",

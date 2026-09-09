@@ -10,7 +10,7 @@ export const nationalGeographicMastersOfPhotography = {
   unitSlug: "minutes",
   ownLength: 766.8,
   ownProgress: 766.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -8,6 +8,6 @@ export const greatCoursesBySubject = {
   status: "in-progress",
   rank: "B",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["the-great-courses"],
+  partOfCollections: ["the-great-courses"],
   source: "the-great-courses",
 } as const satisfies GreatCoursesCollection

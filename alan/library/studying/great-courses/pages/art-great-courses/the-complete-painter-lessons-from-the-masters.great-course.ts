@@ -10,7 +10,7 @@ export const theCompletePainterLessonsFromTheMasters = {
   unitSlug: "minutes",
   ownLength: 976.2,
   ownProgress: 976.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const postImpressionismTheBeginningsOfModernArt = {
   unitSlug: "minutes",
   ownLength: 642.6,
   ownProgress: 642.6,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "post-impressionism-the-beginnings-of-modern-art",
   externalLink:

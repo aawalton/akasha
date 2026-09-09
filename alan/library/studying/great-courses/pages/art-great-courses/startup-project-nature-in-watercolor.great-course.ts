@@ -10,7 +10,7 @@ export const startupProjectNatureInWatercolor = {
   unitSlug: "minutes",
   ownLength: 132.6,
   ownProgress: 132.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

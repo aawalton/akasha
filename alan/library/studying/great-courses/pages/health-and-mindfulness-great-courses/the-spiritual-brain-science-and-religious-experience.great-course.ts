@@ -9,7 +9,7 @@ export const theSpiritualBrainScienceAndReligiousExperience = {
   unitSlug: "minutes",
   ownLength: 738.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "philosophy-and-religion-great-courses",

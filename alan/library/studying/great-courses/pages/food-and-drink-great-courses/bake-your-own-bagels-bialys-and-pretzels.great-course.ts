@@ -10,7 +10,7 @@ export const bakeYourOwnBagelsBialysAndPretzels = {
   unitSlug: "minutes",
   ownLength: 113.4,
   ownProgress: 113.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

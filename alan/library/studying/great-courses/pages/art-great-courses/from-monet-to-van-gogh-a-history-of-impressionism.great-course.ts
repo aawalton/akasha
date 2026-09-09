@@ -10,7 +10,7 @@ export const fromMonetToVanGoghAHistoryOfImpressionism = {
   unitSlug: "minutes",
   ownLength: 730.8,
   ownProgress: 730.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "from-monet-to-van-gogh-a-history-of-impressionism",
   externalLink:

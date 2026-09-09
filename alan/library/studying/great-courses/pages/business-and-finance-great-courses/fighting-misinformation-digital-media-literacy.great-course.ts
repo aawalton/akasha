@@ -9,7 +9,7 @@ export const fightingMisinformationDigitalMediaLiteracy = {
   unitSlug: "minutes",
   ownLength: 214.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

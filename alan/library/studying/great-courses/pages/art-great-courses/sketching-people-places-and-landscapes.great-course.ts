@@ -10,7 +10,7 @@ export const sketchingPeoplePlacesAndLandscapes = {
   unitSlug: "minutes",
   ownLength: 763.2,
   ownProgress: 763.2,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "sketching-people-places-and-landscapes",
   externalLink: "https://www.thegreatcoursesplus.com/sketching-people-places-and-landscapes",

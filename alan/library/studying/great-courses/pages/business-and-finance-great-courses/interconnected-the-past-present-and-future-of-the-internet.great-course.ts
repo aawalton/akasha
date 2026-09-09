@@ -10,7 +10,7 @@ export const interconnectedThePastPresentAndFutureOfTheInternet = {
   unitSlug: "minutes",
   ownLength: 108,
   ownProgress: 108,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "science-great-courses",

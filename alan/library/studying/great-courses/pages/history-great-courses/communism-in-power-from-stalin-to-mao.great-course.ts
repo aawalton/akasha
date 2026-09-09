@@ -9,7 +9,7 @@ export const communismInPowerFromStalinToMao = {
   unitSlug: "minutes",
   ownLength: 354,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "communism-in-power-from-stalin-to-mao",
   externalLink: "https://www.thegreatcoursesplus.com/communism-in-power-from-stalin-to-mao",

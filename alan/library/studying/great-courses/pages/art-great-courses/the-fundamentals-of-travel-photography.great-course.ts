@@ -10,7 +10,7 @@ export const theFundamentalsOfTravelPhotography = {
   unitSlug: "minutes",
   ownLength: 601.2,
   ownProgress: 601.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

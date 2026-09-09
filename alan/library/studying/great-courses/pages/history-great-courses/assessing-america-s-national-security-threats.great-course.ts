@@ -10,7 +10,7 @@ export const assessingAmericaSNationalSecurityThreats = {
   unitSlug: "minutes",
   ownLength: 282.6,
   ownProgress: 282.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "assessing-america-s-national-security-threats",
   externalLink: "https://www.thegreatcoursesplus.com/assessing-america-s-national-security-threats",

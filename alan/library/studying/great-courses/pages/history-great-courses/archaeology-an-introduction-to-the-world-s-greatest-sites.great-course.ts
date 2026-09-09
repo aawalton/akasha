@@ -10,7 +10,7 @@ export const archaeologyAnIntroductionToTheWorldSGreatestSites = {
   unitSlug: "minutes",
   ownLength: 772.2,
   ownProgress: 772.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "archaeology-an-introduction-to-the-worlds-greatest-sites",
   externalLink:

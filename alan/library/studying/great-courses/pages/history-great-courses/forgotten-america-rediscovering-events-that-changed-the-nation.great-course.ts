@@ -9,7 +9,7 @@ export const forgottenAmericaRediscoveringEventsThatChangedTheNation = {
   unitSlug: "minutes",
   ownLength: 352.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "forgotten-america-rediscovering-events-that-changed-the-nation",
   externalLink:

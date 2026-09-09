@@ -11,7 +11,7 @@ export const salvosWars = {
   position: 13,
   ownLength: 110250,
   publishedAt: "2024-11-15",
-  partOfCollectionSlugs: ["book-series/salvos"],
+  partOfCollections: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0D1WNPTCC",
   externalLink: "https://amazon.com/dp/B0D1WNPTCC",

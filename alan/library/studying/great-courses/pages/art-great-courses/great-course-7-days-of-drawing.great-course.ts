@@ -10,7 +10,7 @@ export const greatCourse7DaysOfDrawing = {
   unitSlug: "minutes",
   ownLength: 94.2,
   ownProgress: 94.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

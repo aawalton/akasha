@@ -9,7 +9,7 @@ export const thePowerOfMindOverBody = {
   unitSlug: "minutes",
   ownLength: 345,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "the-power-of-mind-over-body",
   externalLink: "https://www.thegreatcoursesplus.com/the-power-of-mind-over-body",

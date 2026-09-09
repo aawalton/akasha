@@ -10,11 +10,7 @@ export const englandFromTheFallOfRomeToTheNormanConquest = {
   unitSlug: "minutes",
   ownLength: 723,
   ownProgress: 723,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "england-from-the-fall-of-rome-to-the-norman-conquest",
   externalLink:

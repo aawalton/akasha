@@ -9,7 +9,7 @@ export const earlyHumansIceStoneAndSurvival = {
   unitSlug: "minutes",
   ownLength: 471,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "early-humans-ice-stone-and-survival",
   externalLink: "https://www.thegreatcoursesplus.com/early-humans-ice-stone-and-survival",

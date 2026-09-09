@@ -10,7 +10,7 @@ export const salvosTheChildMonster = {
   position: 12,
   ownLength: 114000,
   publishedAt: "2024-04-02",
-  partOfCollectionSlugs: ["book-series/salvos"],
+  partOfCollections: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0CM825NXK",
   externalLink: "https://amazon.com/dp/B0CM825NXK",

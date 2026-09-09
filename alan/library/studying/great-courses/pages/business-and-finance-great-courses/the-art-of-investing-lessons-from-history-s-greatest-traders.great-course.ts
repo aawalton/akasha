@@ -9,7 +9,7 @@ export const theArtOfInvestingLessonsFromHistorySGreatestTraders = {
   unitSlug: "minutes",
   ownLength: 720,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "the-art-of-investing-lessons-from-historys-greatest-traders",
   externalLink:

@@ -9,7 +9,7 @@ export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
   unitSlug: "minutes",
   ownLength: 738.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-tradition",
   externalLink:

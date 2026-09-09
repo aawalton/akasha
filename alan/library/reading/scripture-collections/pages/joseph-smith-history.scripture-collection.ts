@@ -5,7 +5,7 @@ export const josephSmithHistory = {
   pageTypeSlug: "scripture-collection",
   slug: "joseph-smith-history",
   title: "Joseph Smith--History",
-  partOfCollectionSlugs: ["pearl-of-great-price"],
+  partOfCollections: ["pearl-of-great-price"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

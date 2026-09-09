@@ -5,7 +5,7 @@ export const habakkuk = {
   pageTypeSlug: "scripture-collection",
   slug: "habakkuk",
   title: "Habakkuk",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 35,
   ownLength: 0,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const theWorldOfBeerTastesOfHistoryScienceAndCulture = {
   unitSlug: "minutes",
   ownLength: 425.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-world-of-beer-tastes-of-history-science-and-culture",
   externalLink:

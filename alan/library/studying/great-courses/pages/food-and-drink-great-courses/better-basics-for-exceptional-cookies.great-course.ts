@@ -10,7 +10,7 @@ export const betterBasicsForExceptionalCookies = {
   unitSlug: "minutes",
   ownLength: 166.8,
   ownProgress: 166.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

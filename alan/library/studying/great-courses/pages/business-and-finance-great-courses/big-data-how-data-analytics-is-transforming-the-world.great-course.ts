@@ -9,7 +9,7 @@ export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
   unitSlug: "minutes",
   ownLength: 756.6,
   ownProgress: 662.025,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "mathematics-great-courses",

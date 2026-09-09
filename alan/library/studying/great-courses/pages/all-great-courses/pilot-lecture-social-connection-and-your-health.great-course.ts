@@ -10,7 +10,7 @@ export const pilotLectureSocialConnectionAndYourHealth = {
   unitSlug: "minutes",
   ownLength: 35.683333,
   ownProgress: 35.683333,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-social-connection-and-your-health",
   externalLink:

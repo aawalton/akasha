@@ -9,7 +9,7 @@ export const greeceRomeAndTheBirthOfWesternPhilosophy = {
   unitSlug: "minutes",
   ownLength: 726,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "greece-rome-and-the-birth-of-western-philosophy",
   externalLink:

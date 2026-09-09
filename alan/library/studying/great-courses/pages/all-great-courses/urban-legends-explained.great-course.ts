@@ -9,7 +9,7 @@ export const urbanLegendsExplained = {
   unitSlug: "minutes",
   ownLength: 322.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "urban-legends-explained",
   externalLink: "https://www.thegreatcoursesplus.com/urban-legends-explained",

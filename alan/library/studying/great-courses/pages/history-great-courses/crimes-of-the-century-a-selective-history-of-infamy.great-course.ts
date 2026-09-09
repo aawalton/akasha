@@ -9,7 +9,7 @@ export const crimesOfTheCenturyASelectiveHistoryOfInfamy = {
   unitSlug: "minutes",
   ownLength: 333.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "crimes-of-the-century-a-selective-history-of-infamy",
   externalLink:

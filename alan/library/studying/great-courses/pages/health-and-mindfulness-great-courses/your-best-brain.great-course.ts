@@ -9,7 +9,7 @@ export const yourBestBrain = {
   unitSlug: "minutes",
   ownLength: 770.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "professional-growth-great-courses",

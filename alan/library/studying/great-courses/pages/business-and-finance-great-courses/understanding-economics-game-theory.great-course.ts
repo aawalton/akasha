@@ -9,7 +9,7 @@ export const understandingEconomicsGameTheory = {
   unitSlug: "minutes",
   ownLength: 360,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-economics-game-theory",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-economics-game-theory",

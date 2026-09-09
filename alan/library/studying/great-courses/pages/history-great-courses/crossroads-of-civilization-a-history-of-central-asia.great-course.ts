@@ -9,7 +9,7 @@ export const crossroadsOfCivilizationAHistoryOfCentralAsia = {
   unitSlug: "minutes",
   ownLength: 684.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "crossroads-of-civilization-a-history-of-central-asia",
   externalLink:

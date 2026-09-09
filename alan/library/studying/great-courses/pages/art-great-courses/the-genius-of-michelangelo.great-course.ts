@@ -10,7 +10,7 @@ export const theGeniusOfMichelangelo = {
   unitSlug: "minutes",
   ownLength: 1075.8,
   ownProgress: 1075.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "the-genius-of-michelangelo",
   externalLink: "https://www.thegreatcoursesplus.com/the-genius-of-michelangelo",

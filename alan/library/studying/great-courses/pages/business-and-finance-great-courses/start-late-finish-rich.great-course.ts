@@ -9,7 +9,7 @@ export const startLateFinishRich = {
   unitSlug: "minutes",
   ownLength: 336,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "start-late-finish-rich",
   externalLink: "https://www.thegreatcoursesplus.com/start-late-finish-rich",

@@ -9,7 +9,7 @@ export const theMayoClinicDietTheHealthyApproachToWeightLoss = {
   unitSlug: "minutes",
   ownLength: 400.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
   externalLink:

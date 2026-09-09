@@ -10,7 +10,7 @@ export const theWorldSGreatestPaintings = {
   unitSlug: "minutes",
   ownLength: 732,
   ownProgress: 732,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "the-world-s-greatest-paintings",
   externalLink: "https://www.thegreatcoursesplus.com/the-world-s-greatest-paintings",

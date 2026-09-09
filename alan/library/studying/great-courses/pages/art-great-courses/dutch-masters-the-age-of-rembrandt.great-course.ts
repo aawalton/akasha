@@ -10,7 +10,7 @@ export const dutchMastersTheAgeOfRembrandt = {
   unitSlug: "minutes",
   ownLength: 1083,
   ownProgress: 1083,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "dutch-masters-the-age-of-rembrandt",
   externalLink: "https://www.thegreatcoursesplus.com/dutch-masters-the-age-of-rembrandt",

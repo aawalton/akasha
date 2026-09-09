@@ -9,7 +9,7 @@ export const theEnlightenmentInventionOfTheModernSelf = {
   unitSlug: "minutes",
   ownLength: 726.116667,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-enlightenment-invention-of-the-modern-self",
   externalLink:

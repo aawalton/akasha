@@ -10,7 +10,7 @@ export const coloredPencilBasics = {
   unitSlug: "minutes",
   ownLength: 643.2,
   ownProgress: 643.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

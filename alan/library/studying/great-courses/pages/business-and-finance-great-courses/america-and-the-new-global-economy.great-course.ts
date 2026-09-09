@@ -10,7 +10,7 @@ export const americaAndTheNewGlobalEconomy = {
   unitSlug: "minutes",
   ownLength: 1120.2,
   ownProgress: 1120.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "history-great-courses",

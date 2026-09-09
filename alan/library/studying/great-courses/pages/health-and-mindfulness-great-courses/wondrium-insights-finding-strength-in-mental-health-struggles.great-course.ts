@@ -10,7 +10,7 @@ export const wondriumInsightsFindingStrengthInMentalHealthStruggles = {
   unitSlug: "minutes",
   ownLength: 177.6,
   ownProgress: 177.6,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-insights-finding-strength-in-mental-health-struggles",
   externalLink:

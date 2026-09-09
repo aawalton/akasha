@@ -5,7 +5,7 @@ export const scriptureCollection2Samuel = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-2-samuel",
   title: "2 Samuel",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

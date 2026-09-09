@@ -10,7 +10,7 @@ export const cookingBasicsWhatEveryoneShouldKnow = {
   unitSlug: "minutes",
   ownLength: 789.6,
   ownProgress: 789.6,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "cooking-basics-what-everyone-should-know",
   externalLink: "https://www.thegreatcoursesplus.com/cooking-basics-what-everyone-should-know",

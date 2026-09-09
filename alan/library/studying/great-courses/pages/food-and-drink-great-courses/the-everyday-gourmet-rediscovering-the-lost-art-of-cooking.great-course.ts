@@ -9,7 +9,7 @@ export const theEverydayGourmetRediscoveringTheLostArtOfCooking = {
   unitSlug: "minutes",
   ownLength: 850.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
   externalLink:

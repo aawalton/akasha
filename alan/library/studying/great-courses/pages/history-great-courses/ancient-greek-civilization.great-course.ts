@@ -10,7 +10,7 @@ export const ancientGreekCivilization = {
   unitSlug: "minutes",
   ownLength: 723,
   ownProgress: 723,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "ancient-greek-civilization",
   externalLink: "https://www.thegreatcoursesplus.com/ancient-greek-civilization",

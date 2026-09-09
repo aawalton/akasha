@@ -10,7 +10,7 @@ export const greatCourse10EssentialTechniquesForBetterDrawing = {
   unitSlug: "minutes",
   ownLength: 153,
   ownProgress: 153,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "10-essential-techniques-for-better-drawing",
   externalLink: "https://www.thegreatcoursesplus.com/10-essential-techniques-for-better-drawing",

@@ -10,7 +10,7 @@ export const celebrateWithCookies19FavoriteDesigns = {
   unitSlug: "minutes",
   ownLength: 157.2,
   ownProgress: 157.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

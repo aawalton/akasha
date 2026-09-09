@@ -11,7 +11,7 @@ export const somniaOnlineSynergy = {
   ownLength: 89500,
   ownProgress: 89500,
   publishedAt: "2020-11-12",
-  partOfCollectionSlugs: ["book-series/somnia-online"],
+  partOfCollections: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B08MTKN7BG",
   externalLink: "https://amazon.com/dp/B08MTKN7BG",

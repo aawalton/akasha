@@ -10,7 +10,7 @@ export const lostArtTheStoriesOfMissingMasterpieces = {
   unitSlug: "minutes",
   ownLength: 361.8,
   ownProgress: 361.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "lost-art-the-stories-of-missing-masterpieces",
   externalLink: "https://www.thegreatcoursesplus.com/lost-art-the-stories-of-missing-masterpieces",

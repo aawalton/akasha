@@ -10,7 +10,7 @@ export const pilotLectureTheGreatLibraryOfAlexandria = {
   unitSlug: "minutes",
   ownLength: 34.3,
   ownProgress: 34.3,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-great-library-of-alexandria",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-the-great-library-of-alexandria",

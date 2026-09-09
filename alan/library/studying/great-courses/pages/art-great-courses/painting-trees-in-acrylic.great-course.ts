@@ -10,7 +10,7 @@ export const paintingTreesInAcrylic = {
   unitSlug: "minutes",
   ownLength: 167.4,
   ownProgress: 167.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const medicalSchoolForEveryonePediatricsGrandRounds = {
   unitSlug: "minutes",
   ownLength: 733.8,
   ownProgress: 733.8,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "medical-school-for-everyone-pediatrics-grand-rounds",
   externalLink:

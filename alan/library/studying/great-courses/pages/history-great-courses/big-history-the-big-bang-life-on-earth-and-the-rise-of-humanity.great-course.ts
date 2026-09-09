@@ -10,7 +10,7 @@ export const bigHistoryTheBigBangLifeOnEarthAndTheRiseOfHumanity = {
   unitSlug: "minutes",
   ownLength: 1482.6,
   ownProgress: 1482.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "big-history-the-big-bang-life-on-earth-and-the-rise-of-humanity",
   externalLink:

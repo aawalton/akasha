@@ -10,7 +10,7 @@ export const apollo11LessonsForAllTime = {
   unitSlug: "minutes",
   ownLength: 72.6,
   ownProgress: 72.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

@@ -9,7 +9,7 @@ export const fromYaoToMao5000YearsOfChineseHistory = {
   unitSlug: "minutes",
   ownLength: 1087.25,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "from-yao-to-mao-5000-years-of-chinese-history",
   externalLink: "https://www.thegreatcoursesplus.com/from-yao-to-mao-5000-years-of-chinese-history",

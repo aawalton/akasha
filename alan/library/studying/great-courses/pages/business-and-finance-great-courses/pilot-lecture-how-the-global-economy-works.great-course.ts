@@ -10,7 +10,7 @@ export const pilotLectureHowTheGlobalEconomyWorks = {
   unitSlug: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-how-the-global-economy-works",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-the-global-economy-works",

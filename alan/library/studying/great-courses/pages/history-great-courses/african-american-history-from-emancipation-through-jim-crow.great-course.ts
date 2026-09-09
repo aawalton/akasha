@@ -10,7 +10,7 @@ export const africanAmericanHistoryFromEmancipationThroughJimCrow = {
   unitSlug: "minutes",
   ownLength: 418.8,
   ownProgress: 418.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "african-american-history-from-emancipation-through-jim-crow",
   externalLink:

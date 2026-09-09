@@ -10,7 +10,7 @@ export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   unitSlug: "minutes",
   ownLength: 30.183333,
   ownProgress: 30.183333,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-the-birth-of-the-american-film-industry",
   externalLink:

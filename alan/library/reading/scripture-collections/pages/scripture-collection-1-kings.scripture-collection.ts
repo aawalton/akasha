@@ -5,7 +5,7 @@ export const scriptureCollection1Kings = {
   pageTypeSlug: "scripture-collection",
   slug: "scripture-collection-1-kings",
   title: "1 Kings",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

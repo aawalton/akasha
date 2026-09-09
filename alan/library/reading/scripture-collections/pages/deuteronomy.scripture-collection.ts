@@ -5,7 +5,7 @@ export const deuteronomy = {
   pageTypeSlug: "scripture-collection",
   slug: "deuteronomy",
   title: "Deuteronomy",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

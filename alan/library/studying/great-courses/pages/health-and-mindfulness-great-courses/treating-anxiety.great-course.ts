@@ -9,7 +9,7 @@ export const treatingAnxiety = {
   unitSlug: "minutes",
   ownLength: 357,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "treating-anxiety",
   externalLink: "https://www.thegreatcoursesplus.com/treating-anxiety",

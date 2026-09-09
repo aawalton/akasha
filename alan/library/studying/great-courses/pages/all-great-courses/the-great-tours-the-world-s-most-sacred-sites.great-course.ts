@@ -9,7 +9,7 @@ export const theGreatToursTheWorldSMostSacredSites = {
   unitSlug: "minutes",
   ownLength: 708.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-tours-the-world-s-most-sacred-sites",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-tours-the-world-s-most-sacred-sites",

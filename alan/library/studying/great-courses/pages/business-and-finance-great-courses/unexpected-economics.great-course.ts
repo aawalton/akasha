@@ -9,7 +9,7 @@ export const unexpectedEconomics = {
   unitSlug: "minutes",
   ownLength: 727.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "unexpected-economics",
   externalLink: "https://www.thegreatcoursesplus.com/unexpected-economics",

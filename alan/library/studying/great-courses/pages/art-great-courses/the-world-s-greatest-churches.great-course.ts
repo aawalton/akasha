@@ -10,7 +10,7 @@ export const theWorldSGreatestChurches = {
   unitSlug: "minutes",
   ownLength: 757.8,
   ownProgress: 757.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "history-great-courses",

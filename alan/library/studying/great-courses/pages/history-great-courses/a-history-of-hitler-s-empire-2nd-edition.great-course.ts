@@ -10,7 +10,7 @@ export const aHistoryOfHitlerSEmpire2ndEdition = {
   unitSlug: "minutes",
   ownLength: 381,
   ownProgress: 381,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-hitlers-empire-2nd-edition",
   externalLink: "https://www.thegreatcoursesplus.com/a-history-of-hitlers-empire-2nd-edition",

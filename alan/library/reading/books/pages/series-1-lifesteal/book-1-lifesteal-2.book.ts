@@ -11,7 +11,7 @@ export const book1Lifesteal2 = {
   position: 2,
   ownLength: 180500,
   publishedAt: "2025-06-18",
-  partOfCollectionSlugs: ["book-series-1-lifesteal"],
+  partOfCollections: ["book-series-1-lifesteal"],
   source: "kindle",
   externalId: "B0DYPKC21K",
   externalLink: "https://amazon.com/dp/B0DYPKC21K",

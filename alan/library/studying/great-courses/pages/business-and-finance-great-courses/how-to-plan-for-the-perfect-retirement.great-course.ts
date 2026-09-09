@@ -9,7 +9,7 @@ export const howToPlanForThePerfectRetirement = {
   unitSlug: "minutes",
   ownLength: 357.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",

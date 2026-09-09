@@ -11,7 +11,7 @@ export const theWhisperingCrystalsUnimaginedAdventures = {
   ownLength: 101250,
   ownProgress: 101250,
   publishedAt: "2021-12-27",
-  partOfCollectionSlugs: ["book-series/the-whispering-crystals"],
+  partOfCollections: ["book-series/the-whispering-crystals"],
   source: "kindle",
   externalId: "B09PBYK1XV",
   externalLink: "https://amazon.com/dp/B09PBYK1XV",

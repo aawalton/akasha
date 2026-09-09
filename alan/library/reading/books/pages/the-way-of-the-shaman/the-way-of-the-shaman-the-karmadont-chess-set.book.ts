@@ -11,7 +11,7 @@ export const theWayOfTheShamanTheKarmadontChessSet = {
   ownLength: 126250,
   ownProgress: 126250,
   publishedAt: "2017-04-02",
-  partOfCollectionSlugs: ["book-series/the-way-of-the-shaman"],
+  partOfCollections: ["book-series/the-way-of-the-shaman"],
   source: "kindle",
   externalId: "B01MR50Z43",
   externalLink: "https://amazon.com/dp/B01MR50Z43",

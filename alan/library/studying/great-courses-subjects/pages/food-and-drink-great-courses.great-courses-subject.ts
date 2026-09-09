@@ -8,7 +8,7 @@ export const foodAndDrinkGreatCourses = {
   status: "in-progress",
   rank: "C",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-food-drink",
 } as const satisfies GreatCoursesSubject

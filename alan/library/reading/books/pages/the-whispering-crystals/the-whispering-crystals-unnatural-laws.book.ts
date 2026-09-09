@@ -11,7 +11,7 @@ export const theWhisperingCrystalsUnnaturalLaws = {
   ownLength: 88500,
   ownProgress: 88500,
   publishedAt: "2020-11-03",
-  partOfCollectionSlugs: ["book-series/the-whispering-crystals"],
+  partOfCollections: ["book-series/the-whispering-crystals"],
   source: "kindle",
   externalId: "B08MQTLMZ9",
   externalLink: "https://amazon.com/dp/B08MQTLMZ9",

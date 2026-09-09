@@ -10,7 +10,7 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
   unitSlug: "minutes",
   ownLength: 1472.4,
   ownProgress: 1472.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "history-great-courses",

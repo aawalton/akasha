@@ -9,7 +9,7 @@ export const introductionToMachineLearning = {
   unitSlug: "minutes",
   ownLength: 726,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

@@ -10,7 +10,7 @@ export const getStartedWatercoloringFreshFlorals = {
   unitSlug: "minutes",
   ownLength: 123.6,
   ownProgress: 123.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

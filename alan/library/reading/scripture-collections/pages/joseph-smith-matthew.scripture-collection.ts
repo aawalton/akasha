@@ -5,7 +5,7 @@ export const josephSmithMatthew = {
   pageTypeSlug: "scripture-collection",
   slug: "joseph-smith-matthew",
   title: "Joseph Smith--Matthew",
-  partOfCollectionSlugs: ["pearl-of-great-price"],
+  partOfCollections: ["pearl-of-great-price"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

@@ -10,7 +10,7 @@ export const pilotLectureEthicalHealthCareInTheAgeOfAi = {
   unitSlug: "minutes",
   ownLength: 30,
   ownProgress: 30,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

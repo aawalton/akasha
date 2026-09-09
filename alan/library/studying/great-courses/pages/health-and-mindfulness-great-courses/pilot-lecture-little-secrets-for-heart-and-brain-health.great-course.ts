@@ -10,7 +10,7 @@ export const pilotLectureLittleSecretsForHeartAndBrainHealth = {
   unitSlug: "minutes",
   ownLength: 28.2,
   ownProgress: 28.2,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-little-secrets-for-heart-and-brain-health",
   externalLink:

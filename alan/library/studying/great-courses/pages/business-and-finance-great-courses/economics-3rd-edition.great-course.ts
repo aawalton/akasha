@@ -9,7 +9,7 @@ export const economics3rdEdition = {
   unitSlug: "minutes",
   ownLength: 1111.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "economics-3rd-edition",
   externalLink: "https://www.thegreatcoursesplus.com/economics-3rd-edition",

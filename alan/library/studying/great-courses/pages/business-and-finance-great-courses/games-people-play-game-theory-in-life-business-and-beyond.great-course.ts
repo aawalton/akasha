@@ -9,7 +9,7 @@ export const gamesPeoplePlayGameTheoryInLifeBusinessAndBeyond = {
   unitSlug: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "mathematics-great-courses",

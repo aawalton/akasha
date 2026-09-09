@@ -10,7 +10,7 @@ export const alexanderTheGreatAndTheMacedonianEmpire = {
   unitSlug: "minutes",
   ownLength: 1102.2,
   ownProgress: 1102.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "alexander-the-great-and-the-macedonian-empire",
   externalLink: "https://www.thegreatcoursesplus.com/alexander-the-great-and-the-macedonian-empire",

@@ -10,7 +10,7 @@ export const jewelryDesignForBeadArtists = {
   unitSlug: "minutes",
   ownLength: 124.8,
   ownProgress: 124.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

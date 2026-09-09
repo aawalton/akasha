@@ -11,7 +11,7 @@ export const stonehavenLeagueFortressOfShadows = {
   ownLength: 96000,
   ownProgress: 96000,
   publishedAt: "2018-06-16",
-  partOfCollectionSlugs: ["book-series/stonehaven-league"],
+  partOfCollections: ["book-series/stonehaven-league"],
   source: "kindle",
   externalId: "B07DT62F48",
   externalLink: "https://amazon.com/dp/B07DT62F48",

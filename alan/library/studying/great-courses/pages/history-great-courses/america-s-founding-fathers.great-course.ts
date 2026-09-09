@@ -10,7 +10,7 @@ export const americaSFoundingFathers = {
   unitSlug: "minutes",
   ownLength: 1079.4,
   ownProgress: 1079.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "americas-founding-fathers",
   externalLink: "https://www.thegreatcoursesplus.com/americas-founding-fathers",

@@ -9,7 +9,7 @@ export const meaningFromDataStatisticsMadeClear = {
   unitSlug: "minutes",
   ownLength: 744,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "mathematics-great-courses",

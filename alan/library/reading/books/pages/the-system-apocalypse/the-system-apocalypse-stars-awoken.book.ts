@@ -11,7 +11,7 @@ export const theSystemApocalypseStarsAwoken = {
   ownLength: 85500,
   ownProgress: 85500,
   publishedAt: "2019-06-01",
-  partOfCollectionSlugs: ["book-series/the-system-apocalypse"],
+  partOfCollections: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B07RF21QNH",
   externalLink: "https://amazon.com/dp/B07RF21QNH",

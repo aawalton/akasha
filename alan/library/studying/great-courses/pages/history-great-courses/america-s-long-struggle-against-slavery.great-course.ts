@@ -10,7 +10,7 @@ export const americaSLongStruggleAgainstSlavery = {
   unitSlug: "minutes",
   ownLength: 790.8,
   ownProgress: 790.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "americas-long-struggle-against-slavery",
   externalLink: "https://www.thegreatcoursesplus.com/americas-long-struggle-against-slavery",

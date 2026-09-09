@@ -9,7 +9,7 @@ export const theAddictiveBrain = {
   unitSlug: "minutes",
   ownLength: 383.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "learning-paths-great-courses",

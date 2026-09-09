@@ -10,7 +10,7 @@ export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
   unitSlug: "minutes",
   ownLength: 157.8,
   ownProgress: 157.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

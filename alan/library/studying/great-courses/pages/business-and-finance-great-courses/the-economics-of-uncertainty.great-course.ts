@@ -9,7 +9,7 @@ export const theEconomicsOfUncertainty = {
   unitSlug: "minutes",
   ownLength: 747.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "the-economics-of-uncertainty",
   externalLink: "https://www.thegreatcoursesplus.com/the-economics-of-uncertainty",

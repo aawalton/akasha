@@ -10,7 +10,7 @@ export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "philosophy-and-religion-great-courses",

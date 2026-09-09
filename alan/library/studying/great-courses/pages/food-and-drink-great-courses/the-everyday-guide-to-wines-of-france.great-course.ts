@@ -10,7 +10,7 @@ export const theEverydayGuideToWinesOfFrance = {
   unitSlug: "minutes",
   ownLength: 213,
   ownProgress: 213,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-guide-to-wines-of-france",
   externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-wines-of-france",

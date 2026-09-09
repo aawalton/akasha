@@ -9,7 +9,7 @@ export const cognitiveBehavioralTherapyTechniquesForRetrainingYourBrain = {
   unitSlug: "minutes",
   ownLength: 757.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "professional-growth-great-courses",

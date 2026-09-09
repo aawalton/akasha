@@ -10,7 +10,7 @@ export const ancientCivilizationsOfNorthAmerica = {
   unitSlug: "minutes",
   ownLength: 742.8,
   ownProgress: 742.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "ancient-civilizations-of-north-america",
   externalLink: "https://www.thegreatcoursesplus.com/ancient-civilizations-of-north-america",

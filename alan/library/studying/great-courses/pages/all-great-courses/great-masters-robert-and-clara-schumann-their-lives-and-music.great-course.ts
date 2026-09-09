@@ -9,7 +9,7 @@ export const greatMastersRobertAndClaraSchumannTheirLivesAndMusic = {
   unitSlug: "minutes",
   ownLength: 375.183333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "great-masters-robert-and-clara-schumann-their-lives-and-music",
   externalLink:

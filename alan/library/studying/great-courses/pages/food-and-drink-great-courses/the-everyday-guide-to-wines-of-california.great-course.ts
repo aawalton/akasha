@@ -10,7 +10,7 @@ export const theEverydayGuideToWinesOfCalifornia = {
   unitSlug: "minutes",
   ownLength: 195.6,
   ownProgress: 195.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "travel-and-culture-great-courses",

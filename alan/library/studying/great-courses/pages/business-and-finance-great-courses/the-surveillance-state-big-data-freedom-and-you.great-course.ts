@@ -9,7 +9,7 @@ export const theSurveillanceStateBigDataFreedomAndYou = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

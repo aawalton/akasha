@@ -10,7 +10,7 @@ export const salvosRevelation = {
   position: 10,
   ownLength: 101000,
   publishedAt: "2023-05-27",
-  partOfCollectionSlugs: ["book-series/salvos"],
+  partOfCollections: ["book-series/salvos"],
   source: "kindle",
   externalId: "B0BTLXNH9V",
   externalLink: "https://amazon.com/dp/B0BTLXNH9V",

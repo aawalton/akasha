@@ -10,7 +10,7 @@ export const cakeLogisticsFromStartToFinish = {
   unitSlug: "minutes",
   ownLength: 97.8,
   ownProgress: 97.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

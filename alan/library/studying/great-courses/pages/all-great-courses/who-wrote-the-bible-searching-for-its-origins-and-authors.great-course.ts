@@ -9,7 +9,7 @@ export const whoWroteTheBibleSearchingForItsOriginsAndAuthors = {
   unitSlug: "minutes",
   ownLength: 634.033333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "who-wrote-the-bible-searching-for-its-origins-and-authors",
   externalLink:

@@ -10,7 +10,7 @@ export const museumMasterpiecesTheLouvre = {
   unitSlug: "minutes",
   ownLength: 382.8,
   ownProgress: 382.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "museum-masterpieces-the-louvre",
   externalLink: "https://www.thegreatcoursesplus.com/museum-masterpieces-the-louvre",

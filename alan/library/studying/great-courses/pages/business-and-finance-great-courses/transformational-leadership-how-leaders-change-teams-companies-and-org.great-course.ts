@@ -9,7 +9,7 @@ export const transformationalLeadershipHowLeadersChangeTeamsCompaniesAndOrg = {
   unitSlug: "minutes",
   ownLength: 756.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

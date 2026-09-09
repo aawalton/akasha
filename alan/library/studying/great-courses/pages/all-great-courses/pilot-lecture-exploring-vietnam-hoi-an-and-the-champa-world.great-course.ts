@@ -10,7 +10,7 @@ export const pilotLectureExploringVietnamHoiAnAndTheChampaWorld = {
   unitSlug: "minutes",
   ownLength: 32.35,
   ownProgress: 32.35,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-exploring-vietnam-hoi-an-and-the-champa-world",
   externalLink:

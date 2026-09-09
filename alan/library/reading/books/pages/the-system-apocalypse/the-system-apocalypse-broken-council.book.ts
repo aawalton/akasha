@@ -11,7 +11,7 @@ export const theSystemApocalypseBrokenCouncil = {
   ownLength: 114750,
   ownProgress: 114750,
   publishedAt: "2021-02-01",
-  partOfCollectionSlugs: ["book-series/the-system-apocalypse"],
+  partOfCollections: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B08SWNPLCW",
   externalLink: "https://amazon.com/dp/B08SWNPLCW",

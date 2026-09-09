@@ -9,7 +9,7 @@ export const europeanHistoryAndEuropeanLives1715To1914 = {
   unitSlug: "minutes",
   ownLength: 1107.133333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "european-history-and-european-lives-1715-to-1914",
   externalLink:

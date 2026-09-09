@@ -10,7 +10,7 @@ export const essentialSeedBeadTechniques = {
   unitSlug: "minutes",
   ownLength: 154.8,
   ownProgress: 154.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

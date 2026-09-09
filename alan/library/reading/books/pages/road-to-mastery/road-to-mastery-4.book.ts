@@ -12,7 +12,7 @@ export const roadToMastery4 = {
   ownLength: 178000,
   ownProgress: 178000,
   publishedAt: "2024-06-12",
-  partOfCollectionSlugs: ["book-series/road-to-mastery"],
+  partOfCollections: ["book-series/road-to-mastery"],
   source: "kindle",
   externalId: "B0CT9QGBVV",
   externalLink: "https://amazon.com/dp/B0CT9QGBVV",

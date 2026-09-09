@@ -9,7 +9,7 @@ export const whatAreTheChancesProbabilityMadeClear = {
   unitSlug: "minutes",
   ownLength: 370.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "mathematics-great-courses",

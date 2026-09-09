@@ -10,7 +10,7 @@ export const foundationsOfWesternCivilizationIiAHistoryOfTheModernWestern = {
   unitSlug: "minutes",
   ownLength: 1469.4,
   ownProgress: 1469.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "foundations-of-western-civilization-ii-a-history-of-the-modern-western-world",
   externalLink:

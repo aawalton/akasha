@@ -9,7 +9,7 @@ export const lawSchoolForEveryoneCorporateLaw = {
   unitSlug: "minutes",
   ownLength: 348,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "learning-paths-great-courses",

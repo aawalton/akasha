@@ -10,7 +10,7 @@ export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
   unitSlug: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-antioxidants-what-are-they-and-why-do-we-need-them",
   externalLink:

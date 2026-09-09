@@ -10,7 +10,7 @@ export const inTheFootstepsOfVincentVanGogh = {
   unitSlug: "minutes",
   ownLength: 339.6,
   ownProgress: 339.6,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "in-the-footsteps-of-vincent-van-gogh",
   externalLink: "https://www.thegreatcoursesplus.com/in-the-footsteps-of-vincent-van-gogh",

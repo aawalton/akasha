@@ -5,7 +5,7 @@ export const haggai = {
   pageTypeSlug: "scripture-collection",
   slug: "haggai",
   title: "Haggai",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 37,
   ownLength: 0,
   ownProgress: 0,

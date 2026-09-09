@@ -10,7 +10,7 @@ export const theNationalGeographicGuideToLandscapeAndWildlifePhotography = {
   unitSlug: "minutes",
   ownLength: 721.2,
   ownProgress: 721.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

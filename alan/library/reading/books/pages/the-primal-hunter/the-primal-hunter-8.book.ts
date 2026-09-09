@@ -12,7 +12,7 @@ export const thePrimalHunter8 = {
   ownLength: 151000,
   ownProgress: 151000,
   publishedAt: "2024-01-17",
-  partOfCollectionSlugs: ["book-series/the-primal-hunter"],
+  partOfCollections: ["book-series/the-primal-hunter"],
   source: "kindle",
   externalId: "B0CHSJVWL7",
   externalLink: "https://amazon.com/dp/B0CHSJVWL7",

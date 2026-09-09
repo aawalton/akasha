@@ -12,7 +12,7 @@ export const theGam3SacrificialPieces = {
   ownLength: 69500,
   ownProgress: 69500,
   publishedAt: "2019-02-07",
-  partOfCollectionSlugs: ["book-series/the-gam3"],
+  partOfCollections: ["book-series/the-gam3"],
   source: "kindle",
   externalId: "B07NJ7381N",
   externalLink: "https://amazon.com/dp/B07NJ7381N",

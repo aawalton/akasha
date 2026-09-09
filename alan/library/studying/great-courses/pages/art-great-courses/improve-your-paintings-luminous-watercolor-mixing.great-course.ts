@@ -10,7 +10,7 @@ export const improveYourPaintingsLuminousWatercolorMixing = {
   unitSlug: "minutes",
   ownLength: 119.4,
   ownProgress: 119.4,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-improve-your-paintings-luminous-watercolor-mixing",
   externalLink:

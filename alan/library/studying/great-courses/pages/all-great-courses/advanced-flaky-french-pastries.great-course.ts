@@ -10,7 +10,7 @@ export const advancedFlakyFrenchPastries = {
   unitSlug: "minutes",
   ownLength: 135.2,
   ownProgress: 135.2,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "advanced-flaky-french-pastries",
   externalLink: "https://www.thegreatcoursesplus.com/advanced-flaky-french-pastries",

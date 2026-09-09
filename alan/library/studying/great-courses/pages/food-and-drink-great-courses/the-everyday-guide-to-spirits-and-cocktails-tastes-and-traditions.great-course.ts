@@ -10,7 +10,7 @@ export const theEverydayGuideToSpiritsAndCocktailsTastesAndTraditions = {
   unitSlug: "minutes",
   ownLength: 252,
   ownProgress: 252,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-guide-to-spirits-and-cocktails-tastes-and-traditions",
   externalLink:

@@ -12,7 +12,7 @@ export const theSystemApocalypseStarsAsunder = {
   ownLength: 118000,
   ownProgress: 118000,
   publishedAt: "2020-07-01",
-  partOfCollectionSlugs: ["book-series/the-system-apocalypse"],
+  partOfCollections: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B085HS8R2D",
   externalLink: "https://amazon.com/dp/B085HS8R2D",

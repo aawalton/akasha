@@ -10,7 +10,7 @@ export const howToGrowAnythingFoodGardeningForEveryone = {
   unitSlug: "minutes",
   ownLength: 363,
   ownProgress: 363,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

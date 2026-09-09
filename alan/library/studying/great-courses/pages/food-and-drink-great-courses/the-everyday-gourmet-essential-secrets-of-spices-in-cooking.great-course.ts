@@ -10,7 +10,7 @@ export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   unitSlug: "minutes",
   ownLength: 195.6,
   ownProgress: 195.6,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-essential-secrets-of-spices-in-cooking",
   externalLink:

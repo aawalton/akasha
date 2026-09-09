@@ -10,7 +10,7 @@ export const greatCourse30MasterpiecesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 1117.8,
   ownProgress: 1117.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "30-masterpieces-of-the-ancient-world",
   externalLink: "https://www.thegreatcoursesplus.com/30-masterpieces-of-the-ancient-world",

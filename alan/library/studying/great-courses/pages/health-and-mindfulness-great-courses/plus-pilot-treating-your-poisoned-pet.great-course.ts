@@ -10,7 +10,7 @@ export const plusPilotTreatingYourPoisonedPet = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilot-treating-your-poisoned-pet",
   externalLink: "https://www.thegreatcoursesplus.com/plus-pilot-treating-your-poisoned-pet",

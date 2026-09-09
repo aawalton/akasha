@@ -11,7 +11,7 @@ export const thePathOfAscension11 = {
   position: 11,
   ownLength: 164000,
   publishedAt: "2026-03-04",
-  partOfCollectionSlugs: ["book-series/the-path-of-ascension"],
+  partOfCollections: ["book-series/the-path-of-ascension"],
   source: "kindle",
   externalId: "B0FT45KVPP",
   externalLink: "https://amazon.com/dp/B0FT45KVPP",

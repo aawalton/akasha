@@ -7,6 +7,6 @@ export const learningPathsGreatCourses = {
   title: "Learning Paths Great Courses",
   status: "paused",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
 } as const satisfies GreatCoursesSubject

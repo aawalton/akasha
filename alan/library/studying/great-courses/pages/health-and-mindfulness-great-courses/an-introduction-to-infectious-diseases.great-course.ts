@@ -10,7 +10,7 @@ export const anIntroductionToInfectiousDiseases = {
   unitSlug: "minutes",
   ownLength: 765,
   ownProgress: 765,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

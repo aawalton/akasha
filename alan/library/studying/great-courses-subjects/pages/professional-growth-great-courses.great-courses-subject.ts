@@ -7,7 +7,7 @@ export const professionalGrowthGreatCourses = {
   title: "Professional Growth Great Courses",
   status: "paused",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-professional-growth",
 } as const satisfies GreatCoursesSubject

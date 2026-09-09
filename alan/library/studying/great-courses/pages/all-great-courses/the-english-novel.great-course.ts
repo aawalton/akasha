@@ -9,7 +9,7 @@ export const theEnglishNovel = {
   unitSlug: "minutes",
   ownLength: 745.95,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-english-novel",
   externalLink: "https://www.thegreatcoursesplus.com/the-english-novel",

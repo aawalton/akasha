@@ -9,7 +9,7 @@ export const theArtOfReading = {
   unitSlug: "minutes",
   ownLength: 24,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-art-of-reading",
   externalLink: "https://plus.thegreatcourses.com/the-art-of-reading",

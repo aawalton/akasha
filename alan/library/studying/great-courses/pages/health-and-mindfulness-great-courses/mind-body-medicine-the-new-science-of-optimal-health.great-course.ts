@@ -9,7 +9,7 @@ export const mindBodyMedicineTheNewScienceOfOptimalHealth = {
   unitSlug: "minutes",
   ownLength: 1147.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

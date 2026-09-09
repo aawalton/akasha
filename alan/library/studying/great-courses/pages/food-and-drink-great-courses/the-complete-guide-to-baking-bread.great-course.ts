@@ -10,7 +10,7 @@ export const theCompleteGuideToBakingBread = {
   unitSlug: "minutes",
   ownLength: 603,
   ownProgress: 603,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

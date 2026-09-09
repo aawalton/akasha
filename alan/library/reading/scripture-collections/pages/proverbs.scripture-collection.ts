@@ -5,7 +5,7 @@ export const proverbs = {
   pageTypeSlug: "scripture-collection",
   slug: "proverbs",
   title: "Proverbs",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 20,
   ownLength: 0,
   ownProgress: 0,

@@ -12,7 +12,7 @@ export const somniaOnlineInitializing = {
   ownLength: 108000,
   ownProgress: 108000,
   publishedAt: "2018-05-14",
-  partOfCollectionSlugs: ["book-series/somnia-online"],
+  partOfCollections: ["book-series/somnia-online"],
   source: "kindle",
   externalId: "B07CV1DZ3P",
   externalLink: "https://amazon.com/dp/B07CV1DZ3P",

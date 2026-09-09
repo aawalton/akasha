@@ -10,7 +10,7 @@ export const nosferatuExaminedTheDraculaConnection = {
   unitSlug: "minutes",
   ownLength: 10.8,
   ownProgress: 10.8,
-  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollections: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "nosferatu-examined-the-dracula-connection",
   externalLink: "https://www.thegreatcoursesplus.com/nosferatu-examined-the-dracula-connection",

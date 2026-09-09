@@ -5,7 +5,7 @@ export const bookOfMormon = {
   pageTypeSlug: "scripture-collection",
   slug: "book-of-mormon",
   title: "Book of Mormon",
-  partOfCollectionSlugs: ["scriptures"],
+  partOfCollections: ["scriptures"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

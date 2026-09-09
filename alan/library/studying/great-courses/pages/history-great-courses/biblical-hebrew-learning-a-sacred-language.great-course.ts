@@ -10,7 +10,7 @@ export const biblicalHebrewLearningASacredLanguage = {
   unitSlug: "minutes",
   ownLength: 1241.4,
   ownProgress: 1241.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

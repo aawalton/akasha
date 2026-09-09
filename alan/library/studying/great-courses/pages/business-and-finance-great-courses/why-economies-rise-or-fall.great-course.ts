@@ -9,7 +9,7 @@ export const whyEconomiesRiseOrFall = {
   unitSlug: "minutes",
   ownLength: 727.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "why-economies-rise-or-fall",
   externalLink: "https://www.thegreatcoursesplus.com/why-economies-rise-or-fall",

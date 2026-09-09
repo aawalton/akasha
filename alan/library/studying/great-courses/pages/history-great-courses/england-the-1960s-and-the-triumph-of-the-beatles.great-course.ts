@@ -10,7 +10,7 @@ export const englandThe1960sAndTheTriumphOfTheBeatles = {
   unitSlug: "minutes",
   ownLength: 310.2,
   ownProgress: 310.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "music-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "england-the-1960s-and-the-triumph-of-the-beatles",
   externalLink:

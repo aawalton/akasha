@@ -9,7 +9,7 @@ export const naturalLawAndHumanNature = {
   unitSlug: "minutes",
   ownLength: 737.816667,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "natural-law-and-human-nature",
   externalLink: "https://www.thegreatcoursesplus.com/natural-law-and-human-nature",

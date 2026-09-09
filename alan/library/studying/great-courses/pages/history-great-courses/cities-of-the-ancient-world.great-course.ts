@@ -10,7 +10,7 @@ export const citiesOfTheAncientWorld = {
   unitSlug: "minutes",
   ownLength: 709.8,
   ownProgress: 709.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "cities-of-the-ancient-world",
   externalLink: "https://www.thegreatcoursesplus.com/cities-of-the-ancient-world",

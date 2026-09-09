@@ -9,7 +9,7 @@ export const theMythsOfNutritionAndFitness = {
   unitSlug: "minutes",
   ownLength: 190.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "the-myths-of-nutrition-and-fitness",
   externalLink: "https://www.thegreatcoursesplus.com/the-myths-of-nutrition-and-fitness",

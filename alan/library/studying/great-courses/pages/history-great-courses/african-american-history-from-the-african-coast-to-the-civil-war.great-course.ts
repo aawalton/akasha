@@ -10,11 +10,7 @@ export const africanAmericanHistoryFromTheAfricanCoastToTheCivilWar = {
   unitSlug: "minutes",
   ownLength: 750,
   ownProgress: 750,
-  partOfCollectionSlugs: [
-    "all-great-courses",
-    "history-great-courses",
-    "learning-paths-great-courses",
-  ],
+  partOfCollections: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
   source: "the-great-courses",
   externalId: "african-american-history-from-the-african-coast-to-the-civil-war",
   externalLink:

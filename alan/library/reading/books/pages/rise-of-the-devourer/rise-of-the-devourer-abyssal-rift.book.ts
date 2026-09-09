@@ -10,7 +10,7 @@ export const riseOfTheDevourerAbyssalRift = {
   position: 2,
   ownLength: 142000,
   publishedAt: "2024-01-24",
-  partOfCollectionSlugs: ["book-series/rise-of-the-devourer"],
+  partOfCollections: ["book-series/rise-of-the-devourer"],
   source: "kindle",
   externalId: "B0CKZHJDF4",
   externalLink: "https://amazon.com/dp/B0CKZHJDF4",

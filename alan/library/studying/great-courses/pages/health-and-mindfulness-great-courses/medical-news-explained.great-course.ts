@@ -10,7 +10,7 @@ export const medicalNewsExplained = {
   unitSlug: "minutes",
   ownLength: 72,
   ownProgress: 72,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "medical-news-explained",
   externalLink: "https://www.thegreatcoursesplus.com/medical-news-explained",

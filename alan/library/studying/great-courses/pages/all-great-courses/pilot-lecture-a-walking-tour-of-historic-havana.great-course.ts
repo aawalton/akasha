@@ -10,7 +10,7 @@ export const pilotLectureAWalkingTourOfHistoricHavana = {
   unitSlug: "minutes",
   ownLength: 40.2,
   ownProgress: 40.2,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-a-walking-tour-of-historic-havana",
   externalLink:

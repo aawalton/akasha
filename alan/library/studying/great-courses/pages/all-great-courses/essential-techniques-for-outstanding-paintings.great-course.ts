@@ -10,7 +10,7 @@ export const essentialTechniquesForOutstandingPaintings = {
   unitSlug: "minutes",
   ownLength: 118.8,
   ownProgress: 118.8,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "essential-techniques-for-outstanding-paintings",
   externalLink:

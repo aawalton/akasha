@@ -10,7 +10,7 @@ export const bakingWithTheGlutenFreeGirl = {
   unitSlug: "minutes",
   ownLength: 114.6,
   ownProgress: 114.6,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "baking-with-the-gluten-free-girl",
   externalLink: "https://www.thegreatcoursesplus.com/baking-with-the-gluten-free-girl",

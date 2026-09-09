@@ -7,7 +7,7 @@ export const philosophyAndReligionGreatCourses = {
   title: "Philosophy & Religion Great Courses",
   status: "paused",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-philosophy-religion",
 } as const satisfies GreatCoursesSubject

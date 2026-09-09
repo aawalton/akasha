@@ -10,7 +10,7 @@ export const theOpioidEpidemicAmericaSDeadlyAddiction = {
   unitSlug: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

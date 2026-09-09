@@ -11,7 +11,7 @@ export const riseOfTheLivingForge3 = {
   ownLength: 181250,
   ownProgress: 181250,
   publishedAt: "2025-04-16",
-  partOfCollectionSlugs: ["book-series/rise-of-the-living-forge"],
+  partOfCollections: ["book-series/rise-of-the-living-forge"],
   source: "kindle",
   externalId: "B0DQ22ZB23",
   externalLink: "https://amazon.com/dp/B0DQ22ZB23",

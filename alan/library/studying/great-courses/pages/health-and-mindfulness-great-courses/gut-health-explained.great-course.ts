@@ -9,7 +9,7 @@ export const gutHealthExplained = {
   unitSlug: "minutes",
   ownLength: 259.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "gut-health-explained",
   externalLink: "https://www.thegreatcoursesplus.com/gut-health-explained",

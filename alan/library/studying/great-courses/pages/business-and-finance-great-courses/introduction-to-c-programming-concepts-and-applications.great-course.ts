@@ -9,7 +9,7 @@ export const introductionToCProgrammingConceptsAndApplications = {
   unitSlug: "minutes",
   ownLength: 779.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "mathematics-great-courses",

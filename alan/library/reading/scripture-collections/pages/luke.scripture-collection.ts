@@ -5,7 +5,7 @@ export const luke = {
   pageTypeSlug: "scripture-collection",
   slug: "luke",
   title: "Luke",
-  partOfCollectionSlugs: ["new-testament"],
+  partOfCollections: ["new-testament"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

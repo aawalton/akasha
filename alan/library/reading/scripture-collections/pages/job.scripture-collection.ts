@@ -5,7 +5,7 @@ export const job = {
   pageTypeSlug: "scripture-collection",
   slug: "job",
   title: "Job",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

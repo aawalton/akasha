@@ -5,7 +5,7 @@ export const colossians = {
   pageTypeSlug: "scripture-collection",
   slug: "colossians",
   title: "Colossians",
-  partOfCollectionSlugs: ["new-testament"],
+  partOfCollections: ["new-testament"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

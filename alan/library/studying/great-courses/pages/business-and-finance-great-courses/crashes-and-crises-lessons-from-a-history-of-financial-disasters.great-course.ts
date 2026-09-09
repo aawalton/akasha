@@ -9,7 +9,7 @@ export const crashesAndCrisesLessonsFromAHistoryOfFinancialDisasters = {
   unitSlug: "minutes",
   ownLength: 694.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "crashes-and-crises-lessons-from-a-history-of-financial-disasters",
   externalLink:

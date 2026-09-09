@@ -9,7 +9,7 @@ export const learningMedicalTerminology = {
   unitSlug: "minutes",
   ownLength: 622.966667,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "learning-medical-terminology",
   externalLink: "https://www.thegreatcoursesplus.com/learning-medical-terminology",

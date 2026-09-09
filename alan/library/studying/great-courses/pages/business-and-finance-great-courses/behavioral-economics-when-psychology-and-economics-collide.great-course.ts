@@ -10,7 +10,7 @@ export const behavioralEconomicsWhenPsychologyAndEconomicsCollide = {
   unitSlug: "minutes",
   ownLength: 714.6,
   ownProgress: 714.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

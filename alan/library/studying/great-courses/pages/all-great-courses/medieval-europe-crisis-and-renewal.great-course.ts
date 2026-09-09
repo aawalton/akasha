@@ -9,7 +9,7 @@ export const medievalEuropeCrisisAndRenewal = {
   unitSlug: "minutes",
   ownLength: 713.9,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "medieval-europe-crisis-and-renewal",
   externalLink: "https://www.thegreatcoursesplus.com/medieval-europe-crisis-and-renewal",

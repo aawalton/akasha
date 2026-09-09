@@ -9,7 +9,7 @@ export const whatScienceKnowsAboutCancer = {
   unitSlug: "minutes",
   ownLength: 750,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

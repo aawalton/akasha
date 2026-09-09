@@ -10,7 +10,7 @@ export const afterThePlague = {
   unitSlug: "minutes",
   ownLength: 627.6,
   ownProgress: 627.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "after-the-plague",
   externalLink: "https://www.thegreatcoursesplus.com/after-the-plague",

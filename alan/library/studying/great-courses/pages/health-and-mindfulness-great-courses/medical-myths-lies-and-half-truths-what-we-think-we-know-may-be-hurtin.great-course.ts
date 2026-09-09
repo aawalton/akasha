@@ -9,7 +9,7 @@ export const medicalMythsLiesAndHalfTruthsWhatWeThinkWeKnowMayBeHurtin = {
   unitSlug: "minutes",
   ownLength: 746.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

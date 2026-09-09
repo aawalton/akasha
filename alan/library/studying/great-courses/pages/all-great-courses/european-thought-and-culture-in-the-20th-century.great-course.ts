@@ -9,7 +9,7 @@ export const europeanThoughtAndCultureInThe20thCentury = {
   unitSlug: "minutes",
   ownLength: 735.783333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "european-thought-and-culture-in-the-20th-century",
   externalLink:

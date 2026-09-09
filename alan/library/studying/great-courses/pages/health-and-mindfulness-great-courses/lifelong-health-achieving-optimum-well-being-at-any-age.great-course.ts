@@ -9,7 +9,7 @@ export const lifelongHealthAchievingOptimumWellBeingAtAnyAge = {
   unitSlug: "minutes",
   ownLength: 1087.8,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "lifelong-health-achieving-optimum-well-being-at-any-age",
   externalLink:

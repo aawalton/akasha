@@ -9,7 +9,7 @@ export const effectiveResearchMethodsForAnyProject = {
   unitSlug: "minutes",
   ownLength: 729.6,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

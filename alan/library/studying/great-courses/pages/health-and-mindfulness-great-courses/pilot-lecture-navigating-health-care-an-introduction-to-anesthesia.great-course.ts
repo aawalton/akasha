@@ -10,7 +10,7 @@ export const pilotLectureNavigatingHealthCareAnIntroductionToAnesthesia = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 36,
-  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-navigating-health-care-an-introduction-to-anesthesia",
   externalLink:

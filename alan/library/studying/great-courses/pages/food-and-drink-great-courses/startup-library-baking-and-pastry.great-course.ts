@@ -10,7 +10,7 @@ export const startupLibraryBakingAndPastry = {
   unitSlug: "minutes",
   ownLength: 223.2,
   ownProgress: 223.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

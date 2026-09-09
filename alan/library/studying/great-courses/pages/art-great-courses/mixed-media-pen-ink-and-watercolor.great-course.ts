@@ -10,7 +10,7 @@ export const mixedMediaPenInkAndWatercolor = {
   unitSlug: "minutes",
   ownLength: 187.8,
   ownProgress: 187.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

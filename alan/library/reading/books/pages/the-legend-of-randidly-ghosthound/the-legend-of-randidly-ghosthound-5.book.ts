@@ -11,7 +11,7 @@ export const theLegendOfRandidlyGhosthound5 = {
   ownLength: 182500,
   ownProgress: 182500,
   publishedAt: "2023-08-09",
-  partOfCollectionSlugs: ["book-series/the-legend-of-randidly-ghosthound"],
+  partOfCollections: ["book-series/the-legend-of-randidly-ghosthound"],
   source: "kindle",
   externalId: "B0C34H43ST",
   externalLink: "https://amazon.com/dp/B0C34H43ST",

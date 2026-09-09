@@ -10,7 +10,7 @@ export const handLetteringForBeginners = {
   unitSlug: "minutes",
   ownLength: 116.4,
   ownProgress: 116.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

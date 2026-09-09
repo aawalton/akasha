@@ -9,7 +9,7 @@ export const machiavelliInContext = {
   unitSlug: "minutes",
   ownLength: 736.5,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "machiavelli-in-context",
   externalLink: "https://www.thegreatcoursesplus.com/machiavelli-in-context",

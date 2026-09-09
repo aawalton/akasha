@@ -10,7 +10,7 @@ export const theConnectedSystemWarbreakersRage = {
   position: 3,
   ownLength: 175250,
   publishedAt: "2024-09-11",
-  partOfCollectionSlugs: ["book-series/the-connected-system"],
+  partOfCollections: ["book-series/the-connected-system"],
   source: "kindle",
   externalId: "B0CW1HZNTT",
   externalLink: "https://amazon.com/dp/B0CW1HZNTT",

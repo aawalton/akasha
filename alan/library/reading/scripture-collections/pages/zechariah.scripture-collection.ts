@@ -5,7 +5,7 @@ export const zechariah = {
   pageTypeSlug: "scripture-collection",
   slug: "zechariah",
   title: "Zechariah",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 38,
   ownLength: 0,
   ownProgress: 0,

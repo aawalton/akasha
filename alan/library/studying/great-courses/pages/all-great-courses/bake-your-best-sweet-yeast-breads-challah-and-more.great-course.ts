@@ -10,7 +10,7 @@ export const bakeYourBestSweetYeastBreadsChallahAndMore = {
   unitSlug: "minutes",
   ownLength: 135.6,
   ownProgress: 135.6,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "bake-your-best-sweet-yeast-breads-challah-more",
   externalLink:

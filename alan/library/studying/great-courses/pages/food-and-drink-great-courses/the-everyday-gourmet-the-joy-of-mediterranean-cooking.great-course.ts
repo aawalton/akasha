@@ -9,7 +9,7 @@ export const theEverydayGourmetTheJoyOfMediterraneanCooking = {
   unitSlug: "minutes",
   ownLength: 559.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-the-joy-of-mediterranean-cooking",
   externalLink:

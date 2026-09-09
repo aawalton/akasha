@@ -10,7 +10,7 @@ export const booksThatMatterTheHistoryOfTheDeclineAndFallOfTheRomanEmp = {
   unitSlug: "minutes",
   ownLength: 734.4,
   ownProgress: 734.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "literature-great-courses",

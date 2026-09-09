@@ -10,7 +10,7 @@ export const americanIdealsFoundingARepublicOfVirtue = {
   unitSlug: "minutes",
   ownLength: 363.6,
   ownProgress: 363.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "american-ideals-founding-a-republic-of-virtue",
   externalLink: "https://www.thegreatcoursesplus.com/american-ideals-founding-a-republic-of-virtue",

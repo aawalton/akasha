@@ -10,7 +10,7 @@ export const foodScienceAndTheHumanBody = {
   unitSlug: "minutes",
   ownLength: 1072.8,
   ownProgress: 1072.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "health-and-mindfulness-great-courses",

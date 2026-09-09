@@ -10,7 +10,7 @@ export const cookieDecoratingSeasonBySeason = {
   unitSlug: "minutes",
   ownLength: 123,
   ownProgress: 123,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

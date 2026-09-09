@@ -5,7 +5,7 @@ export const numbers = {
   pageTypeSlug: "scripture-collection",
   slug: "numbers",
   title: "Numbers",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

@@ -9,7 +9,7 @@ export const aHistoryOfTheUnitedStates2ndEdition = {
   unitSlug: "minutes",
   ownLength: 2576.4,
   ownProgress: 1288.2,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-the-united-states-2nd-edition",
   externalLink: "https://www.thegreatcoursesplus.com/a-history-of-the-united-states-2nd-edition",

@@ -10,7 +10,7 @@ export const theInstantSommelierChoosingYourBestWine = {
   unitSlug: "minutes",
   ownLength: 186,
   ownProgress: 186,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-instant-sommelier-choosing-your-best-wine",
   externalLink: "https://www.thegreatcoursesplus.com/the-instant-sommelier-choosing-your-best-wine",

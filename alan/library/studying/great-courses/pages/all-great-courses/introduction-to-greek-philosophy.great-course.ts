@@ -9,7 +9,7 @@ export const introductionToGreekPhilosophy = {
   unitSlug: "minutes",
   ownLength: 736.05,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "introduction-to-greek-philosophy",
   externalLink: "https://www.thegreatcoursesplus.com/introduction-to-greek-philosophy",

@@ -5,7 +5,7 @@ export const articlesOfFaith = {
   pageTypeSlug: "scripture-collection",
   slug: "articles-of-faith",
   title: "Articles of Faith",
-  partOfCollectionSlugs: ["pearl-of-great-price"],
+  partOfCollections: ["pearl-of-great-price"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

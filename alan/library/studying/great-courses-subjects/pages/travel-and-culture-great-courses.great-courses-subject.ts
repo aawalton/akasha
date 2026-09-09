@@ -8,7 +8,7 @@ export const travelAndCultureGreatCourses = {
   status: "following",
   rank: "B",
   unitSlug: "minutes",
-  partOfCollectionSlugs: ["great-courses-by-subject"],
+  partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-travel-culture",
 } as const satisfies GreatCoursesSubject

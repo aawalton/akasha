@@ -9,7 +9,7 @@ export const theEverydayGourmetCookingWithVegetables = {
   unitSlug: "minutes",
   ownLength: 846.6,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-cooking-with-vegetables",
   externalLink: "https://www.thegreatcoursesplus.com/the-everyday-gourmet-cooking-with-vegetables",

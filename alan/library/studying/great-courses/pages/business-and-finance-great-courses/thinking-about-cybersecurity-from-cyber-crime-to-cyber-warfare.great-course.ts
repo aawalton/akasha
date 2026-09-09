@@ -9,7 +9,7 @@ export const thinkingAboutCybersecurityFromCyberCrimeToCyberWarfare = {
   unitSlug: "minutes",
   ownLength: 581.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

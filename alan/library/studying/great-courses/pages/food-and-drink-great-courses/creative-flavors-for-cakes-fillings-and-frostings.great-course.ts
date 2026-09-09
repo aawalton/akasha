@@ -10,7 +10,7 @@ export const creativeFlavorsForCakesFillingsAndFrostings = {
   unitSlug: "minutes",
   ownLength: 213,
   ownProgress: 213,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const cardmakingEssentialsThankYouCards = {
   unitSlug: "minutes",
   ownLength: 131.4,
   ownProgress: 131.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const fundamentalsOfPhotography = {
   unitSlug: "minutes",
   ownLength: 756,
   ownProgress: 756,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

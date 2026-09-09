@@ -9,7 +9,7 @@ export const howToPublishYourBook = {
   unitSlug: "minutes",
   ownLength: 697.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "literature-great-courses",

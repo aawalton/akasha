@@ -5,7 +5,7 @@ export const mosiah = {
   pageTypeSlug: "scripture-collection",
   slug: "mosiah",
   title: "Mosiah",
-  partOfCollectionSlugs: ["book-of-mormon"],
+  partOfCollections: ["book-of-mormon"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

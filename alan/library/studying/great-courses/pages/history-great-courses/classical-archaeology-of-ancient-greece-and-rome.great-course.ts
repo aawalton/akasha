@@ -9,7 +9,7 @@ export const classicalArchaeologyOfAncientGreeceAndRome = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "classical-archaeology-of-ancient-greece-and-rome",
   externalLink: "https://plus.thegreatcourses.com/classical-archaeology-of-ancient-greece-and-rome",

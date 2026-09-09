@@ -5,7 +5,7 @@ export const amos = {
   pageTypeSlug: "scripture-collection",
   slug: "amos",
   title: "Amos",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 30,
   ownLength: 0,
   ownProgress: 0,

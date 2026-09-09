@@ -11,7 +11,7 @@ export const theSystemApocalypseRebelStar = {
   ownLength: 103750,
   ownProgress: 103750,
   publishedAt: "2019-12-01",
-  partOfCollectionSlugs: ["book-series/the-system-apocalypse"],
+  partOfCollections: ["book-series/the-system-apocalypse"],
   source: "kindle",
   externalId: "B07Z9N8JKM",
   externalLink: "https://amazon.com/dp/B07Z9N8JKM",

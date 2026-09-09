@@ -9,7 +9,7 @@ export const understandingTheWorldOfFinancialMarkets = {
   unitSlug: "minutes",
   ownLength: 308.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-the-world-of-financial-markets",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-world-of-financial-markets",

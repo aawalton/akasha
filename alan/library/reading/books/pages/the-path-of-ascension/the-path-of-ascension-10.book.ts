@@ -12,7 +12,7 @@ export const thePathOfAscension10 = {
   ownLength: 183000,
   ownProgress: 183000,
   publishedAt: "2025-10-08",
-  partOfCollectionSlugs: ["book-series/the-path-of-ascension"],
+  partOfCollections: ["book-series/the-path-of-ascension"],
   source: "kindle",
   externalId: "B0F966RKWX",
   externalLink: "https://amazon.com/dp/B0F966RKWX",

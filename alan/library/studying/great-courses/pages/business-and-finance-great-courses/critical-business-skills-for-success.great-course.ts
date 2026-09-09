@@ -9,7 +9,7 @@ export const criticalBusinessSkillsForSuccess = {
   unitSlug: "minutes",
   ownLength: 1884.6,
   ownProgress: 157.05,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "learning-paths-great-courses",

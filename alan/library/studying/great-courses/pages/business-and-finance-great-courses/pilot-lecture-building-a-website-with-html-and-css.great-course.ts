@@ -10,7 +10,7 @@ export const pilotLectureBuildingAWebsiteWithHtmlAndCss = {
   unitSlug: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",

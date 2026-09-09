@@ -10,7 +10,7 @@ export const pilotLectureWhatIsMoney = {
   unitSlug: "minutes",
   ownLength: 25.8,
   ownProgress: 25.8,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "plus-lecture-what-is-money",
   externalLink: "https://www.thegreatcoursesplus.com/plus-lecture-what-is-money",

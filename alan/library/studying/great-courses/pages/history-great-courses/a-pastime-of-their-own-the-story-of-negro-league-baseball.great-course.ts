@@ -10,7 +10,7 @@ export const aPastimeOfTheirOwnTheStoryOfNegroLeagueBaseball = {
   unitSlug: "minutes",
   ownLength: 371.4,
   ownProgress: 371.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-pastime-of-their-own-the-story-of-negro-league-baseball",
   externalLink:

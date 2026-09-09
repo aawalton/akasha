@@ -10,7 +10,7 @@ export const exploringTheMayanWorld = {
   unitSlug: "minutes",
   ownLength: 205.8,
   ownProgress: 205.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "history-great-courses",
     "travel-and-culture-great-courses",

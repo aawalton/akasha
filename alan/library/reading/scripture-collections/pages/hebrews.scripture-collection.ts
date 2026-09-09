@@ -5,7 +5,7 @@ export const hebrews = {
   pageTypeSlug: "scripture-collection",
   slug: "hebrews",
   title: "Hebrews",
-  partOfCollectionSlugs: ["new-testament"],
+  partOfCollections: ["new-testament"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

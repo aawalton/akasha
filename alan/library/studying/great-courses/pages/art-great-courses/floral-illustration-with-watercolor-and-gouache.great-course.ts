@@ -10,7 +10,7 @@ export const floralIllustrationWithWatercolorAndGouache = {
   unitSlug: "minutes",
   ownLength: 82.8,
   ownProgress: 82.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

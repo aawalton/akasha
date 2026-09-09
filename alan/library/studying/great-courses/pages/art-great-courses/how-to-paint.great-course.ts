@@ -10,7 +10,7 @@ export const howToPaint = {
   unitSlug: "minutes",
   ownLength: 778.2,
   ownProgress: 778.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

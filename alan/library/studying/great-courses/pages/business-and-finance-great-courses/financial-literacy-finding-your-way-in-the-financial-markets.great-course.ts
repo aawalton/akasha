@@ -10,7 +10,7 @@ export const financialLiteracyFindingYourWayInTheFinancialMarkets = {
   unitSlug: "minutes",
   ownLength: 711,
   ownProgress: 711,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "hobby-and-personal-pursuits-great-courses",

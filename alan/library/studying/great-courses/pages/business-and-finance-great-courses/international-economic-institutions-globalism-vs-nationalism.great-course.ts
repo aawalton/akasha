@@ -9,7 +9,7 @@ export const internationalEconomicInstitutionsGlobalismVsNationalism = {
   unitSlug: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "international-economic-institutions-globalism-vs-nationalism",
   externalLink:

@@ -10,7 +10,7 @@ export const breakingTheirSilence = {
   unitSlug: "minutes",
   ownLength: 135.6,
   ownProgress: 135.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "breaking-their-silence",
   externalLink: "https://www.thegreatcoursesplus.com/breaking-their-silence",

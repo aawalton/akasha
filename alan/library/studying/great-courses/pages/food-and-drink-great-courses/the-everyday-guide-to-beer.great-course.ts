@@ -10,7 +10,7 @@ export const theEverydayGuideToBeer = {
   unitSlug: "minutes",
   ownLength: 340.2,
   ownProgress: 340.2,
-  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-guide-to-beer",
   externalLink: "https://www.thegreatcoursesplus.com/the-everyday-guide-to-beer",

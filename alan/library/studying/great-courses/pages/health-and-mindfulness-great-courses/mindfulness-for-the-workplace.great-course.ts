@@ -9,7 +9,7 @@ export const mindfulnessForTheWorkplace = {
   unitSlug: "minutes",
   ownLength: 289.8,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",

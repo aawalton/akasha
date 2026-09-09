@@ -10,7 +10,7 @@ export const pilotLectureFiguringOutFats = {
   unitSlug: "minutes",
   ownLength: 31.316667,
   ownProgress: 31.316667,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-figuring-out-fats",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-figuring-out-fats",

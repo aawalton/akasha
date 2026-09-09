@@ -9,7 +9,7 @@ export const whiteCollarCriminalLawExplained = {
   unitSlug: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

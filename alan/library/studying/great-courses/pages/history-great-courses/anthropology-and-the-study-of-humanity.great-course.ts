@@ -10,7 +10,7 @@ export const anthropologyAndTheStudyOfHumanity = {
   unitSlug: "minutes",
   ownLength: 720.6,
   ownProgress: 720.6,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "anthropology-and-the-study-of-humanity",
   externalLink: "https://www.thegreatcoursesplus.com/anthropology-and-the-study-of-humanity",

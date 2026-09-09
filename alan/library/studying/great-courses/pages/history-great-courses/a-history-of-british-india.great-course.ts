@@ -10,7 +10,7 @@ export const aHistoryOfBritishIndia = {
   unitSlug: "minutes",
   ownLength: 737.4,
   ownProgress: 737.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-british-india",
   externalLink: "https://www.thegreatcoursesplus.com/a-history-of-british-india",

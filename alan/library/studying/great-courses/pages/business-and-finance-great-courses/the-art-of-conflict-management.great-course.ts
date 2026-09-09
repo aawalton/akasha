@@ -9,7 +9,7 @@ export const theArtOfConflictManagement = {
   unitSlug: "minutes",
   ownLength: 743.4,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

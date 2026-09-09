@@ -9,7 +9,7 @@ export const skepticsAndBelieversReligiousDebateInTheWesternIntellectualTr = {
   unitSlug: "minutes",
   ownLength: 1119.55,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "skeptics-and-believers-religious-debate-in-the-western-intellectual-tradition",
   externalLink:

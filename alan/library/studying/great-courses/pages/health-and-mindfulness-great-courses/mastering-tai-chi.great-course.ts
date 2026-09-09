@@ -10,7 +10,7 @@ export const masteringTaiChi = {
   unitSlug: "minutes",
   ownLength: 751.8,
   ownProgress: 751.8,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -9,7 +9,7 @@ export const capitalismVsSocialismComparingEconomicSystems = {
   unitSlug: "minutes",
   ownLength: 727.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "capitalism-vs-socialism-comparing-economic-systems",
   externalLink:

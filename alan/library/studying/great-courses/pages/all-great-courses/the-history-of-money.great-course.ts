@@ -9,7 +9,7 @@ export const theHistoryOfMoney = {
   unitSlug: "minutes",
   ownLength: 598.2,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-history-of-money",
   externalLink: "https://www.thegreatcoursesplus.com/the-history-of-money",

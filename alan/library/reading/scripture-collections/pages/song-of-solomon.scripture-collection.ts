@@ -5,7 +5,7 @@ export const songOfSolomon = {
   pageTypeSlug: "scripture-collection",
   slug: "song-of-solomon",
   title: "Song of Solomon",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

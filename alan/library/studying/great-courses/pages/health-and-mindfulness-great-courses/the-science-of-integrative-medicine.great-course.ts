@@ -9,7 +9,7 @@ export const theScienceOfIntegrativeMedicine = {
   unitSlug: "minutes",
   ownLength: 357,
   ownProgress: 0,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

@@ -10,7 +10,7 @@ export const classicCroissantsModernTechniques = {
   unitSlug: "minutes",
   ownLength: 108,
   ownProgress: 108,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

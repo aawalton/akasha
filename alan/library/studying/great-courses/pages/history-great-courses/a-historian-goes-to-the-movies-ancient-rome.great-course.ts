@@ -10,7 +10,7 @@ export const aHistorianGoesToTheMoviesAncientRome = {
   unitSlug: "minutes",
   ownLength: 392.4,
   ownProgress: 392.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-historian-goes-to-the-movies-ancient-rome",
   externalLink: "https://www.thegreatcoursesplus.com/a-historian-goes-to-the-movies-ancient-rome",

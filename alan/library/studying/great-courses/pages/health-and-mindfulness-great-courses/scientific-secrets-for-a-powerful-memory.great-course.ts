@@ -10,7 +10,7 @@ export const scientificSecretsForAPowerfulMemory = {
   unitSlug: "minutes",
   ownLength: 185.4,
   ownProgress: 185.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "hobby-and-personal-pursuits-great-courses",

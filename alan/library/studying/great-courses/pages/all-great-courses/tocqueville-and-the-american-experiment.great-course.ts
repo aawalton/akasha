@@ -9,7 +9,7 @@ export const tocquevilleAndTheAmericanExperiment = {
   unitSlug: "minutes",
   ownLength: 738.25,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "tocqueville-and-the-american-experiment",
   externalLink: "https://www.thegreatcoursesplus.com/tocqueville-and-the-american-experiment",

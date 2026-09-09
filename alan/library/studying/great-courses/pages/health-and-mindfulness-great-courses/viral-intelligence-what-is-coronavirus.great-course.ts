@@ -10,7 +10,7 @@ export const viralIntelligenceWhatIsCoronavirus = {
   unitSlug: "minutes",
   ownLength: 18,
   ownProgress: 18,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

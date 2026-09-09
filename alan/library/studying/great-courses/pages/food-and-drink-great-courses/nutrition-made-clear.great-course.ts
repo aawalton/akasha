@@ -9,7 +9,7 @@ export const nutritionMadeClear = {
   unitSlug: "minutes",
   ownLength: 1115.4,
   ownProgress: 433.766667,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "health-and-mindfulness-great-courses",

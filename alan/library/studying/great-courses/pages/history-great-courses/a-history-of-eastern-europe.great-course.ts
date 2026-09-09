@@ -10,7 +10,7 @@ export const aHistoryOfEasternEurope = {
   unitSlug: "minutes",
   ownLength: 724.8,
   ownProgress: 724.8,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-eastern-europe",
   externalLink: "https://www.thegreatcoursesplus.com/a-history-of-eastern-europe",

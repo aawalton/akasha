@@ -10,7 +10,7 @@ export const illustratedNatureJournaling = {
   unitSlug: "minutes",
   ownLength: 137.4,
   ownProgress: 137.4,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const theGuideToEssentialItaly = {
   unitSlug: "minutes",
   ownLength: 1080,
   ownProgress: 1080,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "history-great-courses",

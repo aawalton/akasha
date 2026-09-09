@@ -9,7 +9,7 @@ export const theOther1492FerdinandIsabellaAndTheMakingOfAnEmpire = {
   unitSlug: "minutes",
   ownLength: 371.583333,
   ownProgress: 0,
-  partOfCollectionSlugs: ["all-great-courses"],
+  partOfCollections: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
   externalLink:

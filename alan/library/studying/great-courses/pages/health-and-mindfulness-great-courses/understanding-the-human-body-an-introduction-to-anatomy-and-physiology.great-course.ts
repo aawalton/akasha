@@ -9,7 +9,7 @@ export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   unitSlug: "minutes",
   ownLength: 1453.8,
   ownProgress: 90.8625,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "science-great-courses",

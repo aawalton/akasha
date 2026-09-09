@@ -10,7 +10,7 @@ export const thePerfectCupcake = {
   unitSlug: "minutes",
   ownLength: 151.2,
   ownProgress: 151.2,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "food-and-drink-great-courses",
     "hobby-and-personal-pursuits-great-courses",

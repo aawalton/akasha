@@ -5,7 +5,7 @@ export const ezekiel = {
   pageTypeSlug: "scripture-collection",
   slug: "ezekiel",
   title: "Ezekiel",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 26,
   ownLength: 0,
   ownProgress: 0,

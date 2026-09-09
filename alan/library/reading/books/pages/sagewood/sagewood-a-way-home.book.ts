@@ -10,7 +10,7 @@ export const sagewoodAWayHome = {
   position: 3,
   ownLength: 96000,
   publishedAt: "2024-12-04",
-  partOfCollectionSlugs: ["book-series/sagewood"],
+  partOfCollections: ["book-series/sagewood"],
   source: "kindle",
   externalId: "B0DDQHN65Y",
   externalLink: "https://amazon.com/dp/B0DDQHN65Y",

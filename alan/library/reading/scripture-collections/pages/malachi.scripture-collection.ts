@@ -5,7 +5,7 @@ export const malachi = {
   pageTypeSlug: "scripture-collection",
   slug: "malachi",
   title: "Malachi",
-  partOfCollectionSlugs: ["old-testament"],
+  partOfCollections: ["old-testament"],
   position: 39,
   ownLength: 0,
   ownProgress: 0,

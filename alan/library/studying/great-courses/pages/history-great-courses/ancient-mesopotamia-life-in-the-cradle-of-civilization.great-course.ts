@@ -10,7 +10,7 @@ export const ancientMesopotamiaLifeInTheCradleOfCivilization = {
   unitSlug: "minutes",
   ownLength: 680.4,
   ownProgress: 680.4,
-  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollections: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "ancient-mesopotamia-life-in-the-cradle-of-civilization",
   externalLink:

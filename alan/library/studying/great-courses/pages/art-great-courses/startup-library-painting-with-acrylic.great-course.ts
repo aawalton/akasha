@@ -10,7 +10,7 @@ export const startupLibraryPaintingWithAcrylic = {
   unitSlug: "minutes",
   ownLength: 306.6,
   ownProgress: 306.6,
-  partOfCollectionSlugs: [
+  partOfCollections: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",
