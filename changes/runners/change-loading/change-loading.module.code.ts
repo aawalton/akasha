@@ -46,7 +46,7 @@ async function exportedAt(world: World, address: string, named: string): Promise
   return held[named] ?? null
 }
 
-export function guardSlugsIn(world: World, address: string): readonly string[] {
+export function guardsNamedIn(world: World, address: string): readonly string[] {
   const parts = partsOf(address)
   if (parts === null) return []
   const value = world.index.pageAt(parts[0], parts[1])
@@ -57,7 +57,7 @@ export function guardSlugsIn(world: World, address: string): readonly string[] {
 
 async function guardsIn(world: World, address: string): Promise<readonly Guard[] | string> {
   const found: Guard[] = []
-  for (const slug of guardSlugsIn(world, address)) {
+  for (const slug of guardsNamedIn(world, address)) {
     const held = await exportedAt(world, slug, RUN_GUARD)
     if (typeof held !== "function") {
       return `\`${slug}\` names no guard exporting \`${RUN_GUARD}\`, so the change is not run`

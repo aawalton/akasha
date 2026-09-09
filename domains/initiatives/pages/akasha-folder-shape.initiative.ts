@@ -30,7 +30,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation value lands that akasha cannot key to one page.",
       workingMemory:
-        "`identifier-names-one-page` now runs on a patch, on the worktree, at deploy and at audit, and the whole tree judges clean over 122262 files. What remains: `add-page-property` and `remove-page-property` name no `guardSlugs`, so the mechanical path a bulk migration takes writes a relation value that no guard reads.",
+        "`identifier-names-one-page` now runs on a patch, on the worktree, at deploy and at audit, and the whole tree judges clean over 122262 files. What remains: `add-page-property` and `remove-page-property` name no `guards`, so the mechanical path a bulk migration takes writes a relation value that no guard reads.",
     },
     {
       statement: "Every relation value in akasha is a page address of one of the three kinds.",
