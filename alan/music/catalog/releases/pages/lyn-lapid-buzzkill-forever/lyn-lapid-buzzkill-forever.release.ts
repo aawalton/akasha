@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidBuzzkillForever = {
   id: "01a0676a-d719-704d-bab1-d8802beb7baf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-buzzkill-forever",
   title: "BUZZKILL (forever)",
   partOfCollections: ["lyn-lapid"],

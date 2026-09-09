@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryBonAppetitMartinJensenRemix = {
   id: "01a0676a-d719-701e-b199-2cb110203221",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-bon-appetit-martin-jensen-remix",
   title: "Bon Appétit (Martin Jensen Remix)",
   partOfCollections: ["katy-perry"],

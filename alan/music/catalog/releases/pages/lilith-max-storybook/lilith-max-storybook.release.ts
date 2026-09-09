@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxStorybook = {
   id: "01a0676a-d72a-7027-aa78-adf1321f9b19",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-storybook",
   title: "Storybook",
   partOfCollections: ["lilith-max"],

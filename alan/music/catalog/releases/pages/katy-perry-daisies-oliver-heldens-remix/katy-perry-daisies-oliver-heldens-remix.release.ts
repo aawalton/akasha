@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryDaisiesOliverHeldensRemix = {
   id: "01a0676a-d71b-704f-bf2e-fb6b22cf1f18",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-daisies-oliver-heldens-remix",
   title: "Daisies (Oliver Heldens Remix)",
   partOfCollections: ["katy-perry"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonChristmasIsnTCanceledJustYou = {
   id: "01a0676a-d71a-703c-b2b1-3058489547d1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn't Canceled (Just You)",
   partOfCollections: ["kelly-clarkson"],

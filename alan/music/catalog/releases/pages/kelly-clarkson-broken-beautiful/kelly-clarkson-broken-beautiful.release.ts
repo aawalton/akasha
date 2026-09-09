@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonBrokenBeautiful = {
   id: "01a0676a-d719-703a-92fb-5e1a0ef20a19",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-broken-beautiful",
   title: "Broken & Beautiful",
   partOfCollections: ["kelly-clarkson"],

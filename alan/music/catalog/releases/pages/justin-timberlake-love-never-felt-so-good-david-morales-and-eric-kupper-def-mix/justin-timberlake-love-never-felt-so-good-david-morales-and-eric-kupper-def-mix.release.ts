@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeLoveNeverFeltSoGoodDavidMoralesAndEricKupperDefMix = {
   id: "01a0676a-d723-7076-8f8c-87e5b1cbd95e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-love-never-felt-so-good-david-morales-and-eric-kupper-def-mix",
   title: "Love Never Felt So Good (David Morales and Eric Kupper Def Mix)",
   partOfCollections: ["justin-timberlake"],

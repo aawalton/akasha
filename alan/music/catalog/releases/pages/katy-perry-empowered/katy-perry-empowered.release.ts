@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryEmpowered = {
   id: "01a0676a-d71d-700c-b96b-ce850132c6d6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-empowered",
   title: "Empowered",
   partOfCollections: ["katy-perry"],

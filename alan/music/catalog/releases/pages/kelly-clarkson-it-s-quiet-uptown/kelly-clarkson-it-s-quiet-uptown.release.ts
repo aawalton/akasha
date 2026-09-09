@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonItSQuietUptown = {
   id: "01a0676a-d722-7012-9270-0798fc16739b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-it-s-quiet-uptown",
   title: "It's Quiet Uptown",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaKillEmAllRemastered = {
   id: "01a0676a-d722-7041-b239-6736357c286a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-kill-em-all-remastered",
   title: "Kill 'Em All (Remastered)",
   partOfCollections: ["metallica"],

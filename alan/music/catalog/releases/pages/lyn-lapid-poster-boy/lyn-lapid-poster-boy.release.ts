@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidPosterBoy = {
   id: "01a0676a-d727-700e-9c23-4d2ca0927073",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-poster-boy",
   title: "poster boy",
   partOfCollections: ["lyn-lapid"],

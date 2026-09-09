@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   id: "01a0676a-d725-7061-8162-31ff7d9a5ff1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music",
   title: "Nissan Live Sets At Yahoo! Music",
   partOfCollections: ["kelly-clarkson"],

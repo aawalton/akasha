@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxMakingsOfAGod = {
   id: "01a0676a-d724-7030-a9fb-7a5a563bd2d9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-makings-of-a-god",
   title: "Makings of a God",
   partOfCollections: ["lilith-max"],

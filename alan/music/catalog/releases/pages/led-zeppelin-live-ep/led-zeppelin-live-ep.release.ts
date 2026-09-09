@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinLiveEp = {
   id: "01a0676a-d723-704a-ad71-13213ab7d8ce",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-live-ep",
   title: "Live EP",
   partOfCollections: ["led-zeppelin"],

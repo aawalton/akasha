@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonDanceVaultMixesBecauseOfYou = {
   id: "01a0676a-d71b-705a-b41b-4e52a2dc142a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-because-of-you",
   title: "Dance Vault Mixes - Because Of You",
   partOfCollections: ["kelly-clarkson"],

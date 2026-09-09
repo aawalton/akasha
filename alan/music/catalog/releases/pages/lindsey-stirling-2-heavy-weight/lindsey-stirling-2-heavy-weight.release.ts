@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2HeavyWeight = {
   id: "01a0676a-d720-7026-acea-abc4387f3ff0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-heavy-weight",
   title: "Heavy Weight",
   partOfCollections: ["lindsey-stirling-2"],

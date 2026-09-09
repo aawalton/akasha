@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryChainedToTheRhythmOliverHeldensRemix = {
   id: "01a0676a-d71a-700f-8646-f946fd0e1fdf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-chained-to-the-rhythm-oliver-heldens-remix",
   title: "Chained To The Rhythm (Oliver Heldens Remix)",
   partOfCollections: ["katy-perry"],

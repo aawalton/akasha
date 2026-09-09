@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonStrongerTrackByTrack = {
   id: "01a0676a-d72a-7032-81c7-2fc5f05a11c0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-stronger-track-by-track",
   title: "Stronger (Track by Track)",
   partOfCollections: ["kelly-clarkson"],

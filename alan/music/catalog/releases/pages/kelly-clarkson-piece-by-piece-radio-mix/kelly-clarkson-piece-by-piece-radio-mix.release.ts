@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonPieceByPieceRadioMix = {
   id: "01a0676a-d726-7080-8dc7-3339087277e2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-piece-by-piece-radio-mix",
   title: "Piece by Piece (Radio Mix)",
   partOfCollections: ["kelly-clarkson"],

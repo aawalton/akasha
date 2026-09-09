@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkHybridTheory20thAnniversaryEdition = {
   id: "01a0676a-d720-707c-93f0-b7487a035eb0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-hybrid-theory-20th-anniversary-edition",
   title: "Hybrid Theory (20th Anniversary Edition)",
   partOfCollections: ["linkin-park"],

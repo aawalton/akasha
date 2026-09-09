@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkMeteora20thAnniversaryEdition = {
   id: "01a0676a-d724-7056-942b-2c5bcc5aaba9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-meteora-20th-anniversary-edition",
   title: "Meteora 20th Anniversary Edition",
   partOfCollections: ["linkin-park"],

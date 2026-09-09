@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonWrappedInRedDeluxeVersion = {
   id: "01a0676a-d731-703c-9874-cb6be93b6df9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-wrapped-in-red-deluxe-version",
   title: "Wrapped In Red (Deluxe Version)",
   partOfCollections: ["kelly-clarkson"],

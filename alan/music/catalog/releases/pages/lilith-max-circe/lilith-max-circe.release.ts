@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxCirce = {
   id: "01a0676a-d71a-704f-a4d2-b46c19fff16b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-circe",
   title: "Circe",
   partOfCollections: ["lilith-max"],

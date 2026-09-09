@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d729-7047-8958-8523bf448a77",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters",
   title: "Soda Pop (from the Netflix film KPop Demon Hunters)",
   partOfCollections: ["kpop-demon-hunters-cast"],

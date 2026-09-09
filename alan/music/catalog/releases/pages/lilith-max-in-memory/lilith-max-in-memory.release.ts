@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxInMemory = {
   id: "01a0676a-d721-7068-aed1-3ab08e4514a1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-in-memory",
   title: "In Memory",
   partOfCollections: ["lilith-max"],

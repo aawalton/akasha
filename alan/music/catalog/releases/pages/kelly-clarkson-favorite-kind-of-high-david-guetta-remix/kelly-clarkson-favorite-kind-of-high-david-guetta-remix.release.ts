@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonFavoriteKindOfHighDavidGuettaRemix = {
   id: "01a0676a-d71d-7068-a7ed-311a8a57b19b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-favorite-kind-of-high-david-guetta-remix",
   title: "favorite kind of high (David Guetta Remix)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeTheOtherSideFromTrollsWorldTour = {
   id: "01a0676a-d72d-704d-9fff-43b8fefb8058",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour",
   title: "The Other Side (from Trolls World Tour)",
   partOfCollections: ["justin-timberlake"],

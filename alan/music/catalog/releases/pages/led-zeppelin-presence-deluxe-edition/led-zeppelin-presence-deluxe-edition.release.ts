@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinPresenceDeluxeEdition = {
   id: "01a0676a-d727-7015-a8f9-0979e1d40d11",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-presence-deluxe-edition",
   title: "Presence (Deluxe Edition)",
   partOfCollections: ["led-zeppelin"],

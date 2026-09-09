@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kDaTheBaddest = {
   id: "01a0676a-d72c-7027-b6b0-4404e5c88664",
   pageTypeSlug: "release",
+  type: "release",
   slug: "k-da-the-baddest",
   title: "THE BADDEST",
   partOfCollections: ["k-da"],

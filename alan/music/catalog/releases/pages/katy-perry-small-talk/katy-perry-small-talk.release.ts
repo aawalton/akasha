@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySmallTalk = {
   id: "01a0676a-d729-7026-ada2-94c5d32e6ca0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-small-talk",
   title: "Small Talk",
   partOfCollections: ["katy-perry"],

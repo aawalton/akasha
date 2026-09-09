@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2ShatterMeDeluxe = {
   id: "01a0676a-d728-706f-a448-cba1a51c490a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-shatter-me-deluxe",
   title: "Shatter Me (Deluxe)",
   partOfCollections: ["lindsey-stirling-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryTeenageDreamRemixEp = {
   id: "01a0676a-d72c-7009-917c-5bd60d26fc93",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-teenage-dream-remix-ep",
   title: "Teenage Dream - Remix EP",
   partOfCollections: ["katy-perry"],

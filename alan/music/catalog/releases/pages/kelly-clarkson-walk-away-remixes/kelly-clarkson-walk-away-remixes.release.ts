@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonWalkAwayRemixes = {
   id: "01a0676a-d730-7011-8ae4-808856bb0eda",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-walk-away-remixes",
   title: "Walk Away - Remixes",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const meYou = {
   id: "01a0676a-d724-7040-9334-4e3da22a68de",
   pageTypeSlug: "release",
+  type: "release",
   slug: "me-you",
   title: "Me & You",
   position: 0,

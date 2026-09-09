@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkFromZeroDeluxeEdition = {
   id: "01a0676a-d71e-7041-ba46-81cb92e42bbc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-from-zero-deluxe-edition",
   title: "From Zero (Deluxe Edition)",
   partOfCollections: ["linkin-park"],

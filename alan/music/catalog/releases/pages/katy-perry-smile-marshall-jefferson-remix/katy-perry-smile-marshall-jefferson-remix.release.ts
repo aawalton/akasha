@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySmileMarshallJeffersonRemix = {
   id: "01a0676a-d729-7030-ae4b-ac74e3a28ccf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-smile-marshall-jefferson-remix",
   title: "Smile (Marshall Jefferson Remix)",
   partOfCollections: ["katy-perry"],

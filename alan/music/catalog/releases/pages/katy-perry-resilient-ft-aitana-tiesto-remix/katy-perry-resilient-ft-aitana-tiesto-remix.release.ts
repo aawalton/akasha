@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryResilientFtAitanaTiestoRemix = {
   id: "01a0676a-d727-706c-af20-91d1e0706534",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-resilient-ft-aitana-tiesto-remix",
   title: "Resilient (ft. Aitana) [Tiësto Remix]",
   partOfCollections: ["katy-perry"],

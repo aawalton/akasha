@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonDanceVaultMixesWalkAway4 = {
   id: "01a0676a-d71b-705e-bfb4-a3374577a586",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-walk-away-4",
   title: "Dance Vault Mixes - Walk Away (4)",
   partOfCollections: ["kelly-clarkson"],

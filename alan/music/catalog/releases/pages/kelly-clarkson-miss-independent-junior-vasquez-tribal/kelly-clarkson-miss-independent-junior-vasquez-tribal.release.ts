@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   id: "01a0676a-d724-7077-9a28-36ae3bd1af51",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-miss-independent-junior-vasquez-tribal",
   title: "Miss Independent (Junior Vasquez Tribal)",
   partOfCollections: ["kelly-clarkson"],

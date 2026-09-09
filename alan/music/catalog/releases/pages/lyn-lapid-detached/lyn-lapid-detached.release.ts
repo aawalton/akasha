@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidDetached = {
   id: "01a0676a-d71c-700e-87d6-9497f28de273",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-detached",
   title: "Detached",
   partOfCollections: ["lyn-lapid"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIHateLoveFeatSteveMartin = {
   id: "01a0676a-d721-7020-8259-4565aead7b55",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-hate-love-feat-steve-martin",
   title: "i hate love (feat. Steve Martin)",
   partOfCollections: ["kelly-clarkson"],

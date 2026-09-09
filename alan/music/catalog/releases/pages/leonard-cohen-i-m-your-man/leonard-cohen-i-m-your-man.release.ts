@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenIMYourMan = {
   id: "01a0676a-d721-7036-aad0-7bc750259cf0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-i-m-your-man",
   title: "I'm Your Man",
   partOfCollections: ["leonard-cohen"],

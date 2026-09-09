@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2LoveSJustAFeelingFeatRooty = {
   id: "01a0676a-d723-707a-81e3-d9272c37488c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-love-s-just-a-feeling-feat-rooty",
   title: "Love's Just a Feeling (feat. Rooty)",
   partOfCollections: ["lindsey-stirling-2"],

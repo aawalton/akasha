@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinCelebrationDay = {
   id: "01a0676a-d71a-7009-8710-47bcc45f85ba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-celebration-day",
   title: "Celebration Day",
   partOfCollections: ["led-zeppelin"],

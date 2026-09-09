@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeThe2020ExperienceDeluxeVersion = {
   id: "01a0676a-d72c-7022-990f-21a5b0df1e04",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-the-20-20-experience-deluxe-version",
   title: "The 20/20 Experience (Deluxe Version)",
   partOfCollections: ["justin-timberlake"],

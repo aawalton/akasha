@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidWhenSheLovedMe = {
   id: "01a0676a-d730-7058-9441-f78a1666f390",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-when-she-loved-me",
   title: "When She Loved Me",
   partOfCollections: ["lyn-lapid"],

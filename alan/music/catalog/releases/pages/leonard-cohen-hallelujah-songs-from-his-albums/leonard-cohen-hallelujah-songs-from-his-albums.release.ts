@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenHallelujahSongsFromHisAlbums = {
   id: "01a0676a-d71f-703c-91c0-ac02dac24708",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-hallelujah-songs-from-his-albums",
   title: "Hallelujah & Songs from His Albums",
   partOfCollections: ["leonard-cohen"],

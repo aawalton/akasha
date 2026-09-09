@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemix = {
   id: "01a0676a-d723-707f-bc33-ead204168d7b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-love-so-soft-mark-knight-ben-remember-remix",
   title: "Love So Soft (Mark Knight & Ben Remember Remix)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2UnfoldingFeatRachelPlatten = {
   id: "01a0676a-d72f-703f-80f7-07d87ef64715",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-unfolding-feat-rachel-platten",
   title: "Unfolding [Feat. Rachel Platten]",
   partOfCollections: ["lindsey-stirling-2"],

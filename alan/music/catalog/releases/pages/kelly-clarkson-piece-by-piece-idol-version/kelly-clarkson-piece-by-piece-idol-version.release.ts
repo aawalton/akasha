@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonPieceByPieceIdolVersion = {
   id: "01a0676a-d726-707f-9ff4-01f236bacb96",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-piece-by-piece-idol-version",
   title: "Piece by Piece (Idol Version)",
   partOfCollections: ["kelly-clarkson"],

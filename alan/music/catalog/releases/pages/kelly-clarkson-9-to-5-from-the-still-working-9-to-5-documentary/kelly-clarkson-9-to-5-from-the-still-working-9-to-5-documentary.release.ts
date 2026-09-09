@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarkson9To5FromTheStillWorking9To5Documentary = {
   id: "01a0676a-d715-701a-b45a-a1a564b92ee1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-9-to-5-from-the-still-working-9-to-5-documentary",
   title: "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
   partOfCollections: ["kelly-clarkson"],

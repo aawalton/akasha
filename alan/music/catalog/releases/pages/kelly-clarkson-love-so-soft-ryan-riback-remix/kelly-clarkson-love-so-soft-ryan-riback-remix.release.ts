@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonLoveSoSoftRyanRibackRemix = {
   id: "01a0676a-d723-7081-8e95-6d8a68aee214",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-love-so-soft-ryan-riback-remix",
   title: "Love So Soft (Ryan Riback Remix)",
   partOfCollections: ["kelly-clarkson"],

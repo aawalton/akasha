@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonLoveMeLikeAManLive = {
   id: "01a0676a-d723-7071-b699-48472a6aba2b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-love-me-like-a-man-live",
   title: "Love Me Like a Man (Live)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryChainedToTheRhythmFeatLilYachty = {
   id: "01a0676a-d71a-700d-988c-fa5d43c6d3e7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-chained-to-the-rhythm-feat-lil-yachty",
   title: "Chained To The Rhythm (Feat. Lil Yachty)",
   partOfCollections: ["katy-perry"],

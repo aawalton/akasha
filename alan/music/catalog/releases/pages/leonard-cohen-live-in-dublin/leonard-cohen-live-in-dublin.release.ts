@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenLiveInDublin = {
   id: "01a0676a-d723-7050-8e60-69bf091a9c92",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-live-in-dublin",
   title: "Live In Dublin",
   partOfCollections: ["leonard-cohen"],

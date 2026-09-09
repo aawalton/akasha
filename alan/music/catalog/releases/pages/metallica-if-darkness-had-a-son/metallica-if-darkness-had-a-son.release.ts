@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaIfDarknessHadASon = {
   id: "01a0676a-d721-7050-8dd3-b2b43970a373",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-if-darkness-had-a-son",
   title: "If Darkness Had a Son",
   partOfCollections: ["metallica"],

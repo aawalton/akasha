@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouArkadiRemix = {
   id: "01a0676a-d721-7008-b22a-56df37473bd0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-arkadi-remix",
   title: "I Dare You (Arkadi Remix)",
   partOfCollections: ["kelly-clarkson"],

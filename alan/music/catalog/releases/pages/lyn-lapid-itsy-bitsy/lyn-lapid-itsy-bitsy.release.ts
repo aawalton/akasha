@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidItsyBitsy = {
   id: "01a0676a-d722-7019-bc24-6dd0bbe0b737",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-itsy-bitsy",
   title: "Itsy Bitsy",
   partOfCollections: ["lyn-lapid"],

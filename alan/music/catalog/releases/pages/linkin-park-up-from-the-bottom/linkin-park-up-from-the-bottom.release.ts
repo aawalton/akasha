@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkUpFromTheBottom = {
   id: "01a0676a-d72f-7057-a713-6ba412ab0d39",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-up-from-the-bottom",
   title: "Up From the Bottom",
   partOfCollections: ["linkin-park"],

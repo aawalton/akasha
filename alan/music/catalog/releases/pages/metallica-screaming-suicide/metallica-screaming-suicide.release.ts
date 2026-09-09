@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaScreamingSuicide = {
   id: "01a0676a-d728-7059-b2c9-9340d84c2855",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-screaming-suicide",
   title: "Screaming Suicide",
   partOfCollections: ["metallica"],

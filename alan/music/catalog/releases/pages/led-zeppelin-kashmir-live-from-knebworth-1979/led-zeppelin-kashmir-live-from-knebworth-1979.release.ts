@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinKashmirLiveFromKnebworth1979 = {
   id: "01a0676a-d722-7037-a8ea-f8310dbad756",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-kashmir-live-from-knebworth-1979",
   title: "Kashmir (Live from Knebworth, 1979)",
   partOfCollections: ["led-zeppelin"],

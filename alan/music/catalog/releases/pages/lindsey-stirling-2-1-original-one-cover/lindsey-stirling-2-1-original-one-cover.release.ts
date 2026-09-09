@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling21OriginalOneCover = {
   id: "01a0676a-d714-700c-999f-5c12cac424b5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-1-original-one-cover",
   title: "1 Original, ONE Cover",
   partOfCollections: ["lindsey-stirling-2"],

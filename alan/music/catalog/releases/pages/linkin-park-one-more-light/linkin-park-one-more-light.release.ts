@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkOneMoreLight = {
   id: "01a0676a-d726-7031-a8dd-dcb23669f469",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-one-more-light",
   title: "One More Light",
   partOfCollections: ["linkin-park"],

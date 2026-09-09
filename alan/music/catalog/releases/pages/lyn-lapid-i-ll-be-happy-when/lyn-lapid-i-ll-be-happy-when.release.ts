@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidILlBeHappyWhen = {
   id: "01a0676a-d721-7028-9a5f-ecaea768d090",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-i-ll-be-happy-when",
   title: "i'll be happy when",
   partOfCollections: ["lyn-lapid"],

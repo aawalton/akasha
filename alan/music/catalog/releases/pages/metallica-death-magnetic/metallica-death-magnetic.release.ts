@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaDeathMagnetic = {
   id: "01a0676a-d71b-7072-baa6-f66552257618",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-death-magnetic",
   title: "Death Magnetic",
   partOfCollections: ["metallica"],

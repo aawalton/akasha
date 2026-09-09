@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonMineTySunderlandRemix = {
   id: "01a0676a-d724-706c-a6cd-bb33363799f9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-mine-ty-sunderland-remix",
   title: "mine (Ty Sunderland Remix)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidCoraline = {
   id: "01a0676a-d71b-7029-bba6-7288bafea8f3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-coraline",
   title: "coraline",
   partOfCollections: ["lyn-lapid"],

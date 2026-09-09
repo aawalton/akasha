@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonDjPlayAChristmasSong = {
   id: "01a0676a-d71c-7017-8506-cf9f0c06b2e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-dj-play-a-christmas-song",
   title: "DJ Play A Christmas Song",
   partOfCollections: ["kelly-clarkson"],

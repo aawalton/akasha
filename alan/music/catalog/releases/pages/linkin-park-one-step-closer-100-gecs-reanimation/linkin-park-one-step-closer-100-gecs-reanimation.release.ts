@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkOneStepCloser100GecsReanimation = {
   id: "01a0676a-d726-7037-a74c-9de1a4e92946",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-one-step-closer-100-gecs-reanimation",
   title: "One Step Closer (100 gecs Reanimation)",
   partOfCollections: ["linkin-park"],

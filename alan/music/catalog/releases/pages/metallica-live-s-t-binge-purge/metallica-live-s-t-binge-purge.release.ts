@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaLiveSTBingePurge = {
   id: "01a0676a-d723-7054-bfaf-8ebc831bcfd4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-live-s-t-binge-purge",
   title: "Live S**t: Binge & Purge",
   partOfCollections: ["metallica"],

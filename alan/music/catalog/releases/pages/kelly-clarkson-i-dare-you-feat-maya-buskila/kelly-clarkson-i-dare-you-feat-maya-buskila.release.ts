@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouFeatMayaBuskila = {
   id: "01a0676a-d721-700b-9824-ab071bc10754",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-feat-maya-buskila",
   title: "I Dare You (בוא נראה) [feat. Maya Buskila]",
   partOfCollections: ["kelly-clarkson"],

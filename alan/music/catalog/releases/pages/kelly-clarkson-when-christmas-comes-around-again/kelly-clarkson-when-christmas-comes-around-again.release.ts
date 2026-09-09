@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonWhenChristmasComesAroundAgain = {
   id: "01a0676a-d730-7052-8dc9-dfc0f11ea7ba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-when-christmas-comes-around-again",
   title: "When Christmas Comes Around… Again",
   partOfCollections: ["kelly-clarkson"],

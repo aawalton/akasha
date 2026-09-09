@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidProducerMan = {
   id: "01a0676a-d727-7026-933e-aa53a850d836",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-producer-man",
   title: "Producer Man",
   partOfCollections: ["lyn-lapid"],

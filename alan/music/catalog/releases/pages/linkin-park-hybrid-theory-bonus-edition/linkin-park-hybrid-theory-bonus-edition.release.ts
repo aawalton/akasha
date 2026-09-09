@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkHybridTheoryBonusEdition = {
   id: "01a0676a-d720-707d-873e-c9f1338f5e4c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-hybrid-theory-bonus-edition",
   title: "Hybrid Theory (Bonus Edition)",
   partOfCollections: ["linkin-park"],

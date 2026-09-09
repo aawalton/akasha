@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidWhereIsMyMindCoverVersion = {
   id: "01a0676a-d731-700e-af67-a0a613e954d3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-where-is-my-mind-cover-version",
   title: "Where Is My Mind? (Cover Version)",
   partOfCollections: ["lyn-lapid"],

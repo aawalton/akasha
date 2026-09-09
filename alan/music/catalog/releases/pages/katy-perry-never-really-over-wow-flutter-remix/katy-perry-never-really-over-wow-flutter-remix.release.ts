@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryNeverReallyOverWowFlutterRemix = {
   id: "01a0676a-d725-704e-8286-25964c05d91a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-never-really-over-wow-flutter-remix",
   title: "Never Really Over (Wow & Flutter Remix)",
   partOfCollections: ["katy-perry"],

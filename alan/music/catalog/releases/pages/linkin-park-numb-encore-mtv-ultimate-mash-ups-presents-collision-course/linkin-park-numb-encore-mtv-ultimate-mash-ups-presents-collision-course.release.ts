@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkNumbEncoreMtvUltimateMashUpsPresentsCollisionCourse = {
   id: "01a0676a-d726-7005-b88a-4053dead1b5c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-numb-encore-mtv-ultimate-mash-ups-presents-collision-course",
   title: "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
   partOfCollections: ["linkin-park"],

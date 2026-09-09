@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2ComeWithUsFeatCanTStopWonTStop = {
   id: "01a0676a-d71b-701c-b162-fc2e2efd5830",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-come-with-us-feat-can-t-stop-won-t-stop",
   title: "Come With Us (feat. Can't Stop Won't Stop)",
   partOfCollections: ["lindsey-stirling-2"],

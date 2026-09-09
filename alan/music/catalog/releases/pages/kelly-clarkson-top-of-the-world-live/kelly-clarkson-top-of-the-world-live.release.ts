@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonTopOfTheWorldLive = {
   id: "01a0676a-d72f-7015-abd9-fb130f59f6d4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-top-of-the-world-live",
   title: "Top of the World (Live)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidToLoveInThe21stCenturyTheEpilogue = {
   id: "01a0676a-d72f-7006-9ab3-c616e4c88de7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-to-love-in-the-21st-century-the-epilogue",
   title: "to love in the 21st century: the epilogue",
   partOfCollections: ["lyn-lapid"],

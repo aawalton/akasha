@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenDeathOfALadiesMan = {
   id: "01a0676a-d71b-7073-993d-86bcdf3f7b6d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-death-of-a-ladies-man",
   title: "Death Of A Ladies' Man",
   partOfCollections: ["leonard-cohen"],

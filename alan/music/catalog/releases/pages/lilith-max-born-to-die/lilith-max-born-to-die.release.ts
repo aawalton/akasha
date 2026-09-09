@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxBornToDie = {
   id: "01a0676a-d719-7024-ad22-f53f77bf7014",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
   partOfCollections: ["lilith-max"],

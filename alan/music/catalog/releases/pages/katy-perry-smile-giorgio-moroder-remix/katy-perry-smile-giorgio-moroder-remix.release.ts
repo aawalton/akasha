@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySmileGiorgioMoroderRemix = {
   id: "01a0676a-d729-702d-91ca-95608057b828",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-smile-giorgio-moroder-remix",
   title: "Smile (Giorgio Moroder Remix)",
   partOfCollections: ["katy-perry"],

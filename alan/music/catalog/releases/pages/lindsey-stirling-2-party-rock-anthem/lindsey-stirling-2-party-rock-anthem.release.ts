@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2PartyRockAnthem = {
   id: "01a0676a-d726-7062-aa73-2f532dc18c3f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-party-rock-anthem",
   title: "Party Rock Anthem",
   partOfCollections: ["lindsey-stirling-2"],

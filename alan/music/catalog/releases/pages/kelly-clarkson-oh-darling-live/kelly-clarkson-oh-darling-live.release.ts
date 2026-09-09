@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonOhDarlingLive = {
   id: "01a0676a-d726-701a-8b4a-925befb85381",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-oh-darling-live",
   title: "Oh! Darling (Live)",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2ItAinTMeFeatKurtHugoSchneider = {
   id: "01a0676a-d722-7004-9e63-11355a0fb4aa",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-it-ain-t-me-feat-kurt-hugo-schneider",
   title: "It Ain't Me (feat. Kurt Hugo Schneider)",
   partOfCollections: ["lindsey-stirling-2"],

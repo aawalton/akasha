@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinPhysicalGraffitiDeluxeEdition = {
   id: "01a0676a-d726-7077-8980-ead213acda91",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-physical-graffiti-deluxe-edition",
   title: "Physical Graffiti (Deluxe Edition)",
   partOfCollections: ["led-zeppelin"],

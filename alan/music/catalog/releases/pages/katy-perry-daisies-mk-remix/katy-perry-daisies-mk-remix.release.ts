@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryDaisiesMkRemix = {
   id: "01a0676a-d71b-704e-a844-b78ff832222e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-daisies-mk-remix",
   title: "Daisies (MK Remix)",
   partOfCollections: ["katy-perry"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonMrKnowItAllCountryVersion = {
   id: "01a0676a-d725-7010-ac3d-b839254f7d9a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-mr-know-it-all-country-version",
   title: "Mr. Know It All (Country Version)",
   partOfCollections: ["kelly-clarkson"],

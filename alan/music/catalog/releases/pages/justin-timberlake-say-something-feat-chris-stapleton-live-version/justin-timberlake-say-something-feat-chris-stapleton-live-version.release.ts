@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeSaySomethingFeatChrisStapletonLiveVersion = {
   id: "01a0676a-d728-704f-83e3-7c25b97f5d95",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-say-something-feat-chris-stapleton-live-version",
   title: "Say Something (feat. Chris Stapleton) [Live Version]",
   partOfCollections: ["justin-timberlake"],

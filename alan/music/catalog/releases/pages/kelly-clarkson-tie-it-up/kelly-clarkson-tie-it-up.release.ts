@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonTieItUp = {
   id: "01a0676a-d72e-7041-8555-f042edd2b208",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-tie-it-up",
   title: "Tie It Up",
   partOfCollections: ["kelly-clarkson"],

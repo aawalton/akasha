@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDRatherGoBlindLive = {
   id: "01a0676a-d721-7006-a791-a17add681893",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-d-rather-go-blind-live",
   title: "I'd Rather Go Blind (Live)",
   partOfCollections: ["kelly-clarkson"],

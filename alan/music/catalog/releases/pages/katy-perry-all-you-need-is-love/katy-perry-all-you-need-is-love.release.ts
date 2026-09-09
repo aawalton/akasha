@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryAllYouNeedIsLove = {
   id: "01a0676a-d716-702c-b0cd-d7e3d905a320",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-all-you-need-is-love",
   title: "All You Need Is Love",
   partOfCollections: ["katy-perry"],

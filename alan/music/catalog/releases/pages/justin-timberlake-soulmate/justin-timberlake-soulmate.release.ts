@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeSoulmate = {
   id: "01a0676a-d729-706d-bdd2-6bb82fa488f8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-soulmate",
   title: "SoulMate",
   partOfCollections: ["justin-timberlake"],

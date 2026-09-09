@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinHowTheWestWasWonRemaster = {
   id: "01a0676a-d720-7072-9a29-fd9a67b51162",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-how-the-west-was-won-remaster",
   title: "How the West Was Won (Remaster)",
   partOfCollections: ["led-zeppelin"],

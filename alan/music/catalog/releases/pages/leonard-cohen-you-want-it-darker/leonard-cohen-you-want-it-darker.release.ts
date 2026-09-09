@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenYouWantItDarker = {
   id: "01a0676a-d732-701d-adad-a90a52ded6ba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-you-want-it-darker",
   title: "You Want It Darker",
   partOfCollections: ["leonard-cohen"],

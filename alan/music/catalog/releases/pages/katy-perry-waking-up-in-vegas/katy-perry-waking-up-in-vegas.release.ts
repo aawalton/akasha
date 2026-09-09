@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryWakingUpInVegas = {
   id: "01a0676a-d730-700f-ac51-a3b3ab80a38c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-waking-up-in-vegas",
   title: "Waking Up In Vegas",
   partOfCollections: ["katy-perry"],

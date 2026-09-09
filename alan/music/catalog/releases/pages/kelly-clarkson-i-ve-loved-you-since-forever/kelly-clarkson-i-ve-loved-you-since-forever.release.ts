@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIVeLovedYouSinceForever = {
   id: "01a0676a-d721-7042-858d-32b05e037291",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-ve-loved-you-since-forever",
   title: "I've Loved You Since Forever",
   partOfCollections: ["kelly-clarkson"],

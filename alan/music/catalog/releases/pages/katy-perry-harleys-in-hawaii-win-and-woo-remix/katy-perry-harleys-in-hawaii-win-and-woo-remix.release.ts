@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryHarleysInHawaiiWinAndWooRemix = {
   id: "01a0676a-d71f-7053-b4e4-4b2bc1f43896",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-harleys-in-hawaii-win-and-woo-remix",
   title: "Harleys In Hawaii (Win and Woo Remix)",
   partOfCollections: ["katy-perry"],

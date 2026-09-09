@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonHeartbeatSongTheRemixes = {
   id: "01a0676a-d720-700d-94ca-5fcda194caa5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-heartbeat-song-the-remixes",
   title: "Heartbeat Song (The Remixes)",
   partOfCollections: ["kelly-clarkson"],

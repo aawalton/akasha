@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2TheUpsideUnderground = {
   id: "01a0676a-d72e-701a-ae1d-37a102801052",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-the-upside-underground",
   title: "The Upside / Underground",
   partOfCollections: ["lindsey-stirling-2"],

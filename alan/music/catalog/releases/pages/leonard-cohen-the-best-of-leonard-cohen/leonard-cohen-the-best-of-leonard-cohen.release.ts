@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenTheBestOfLeonardCohen = {
   id: "01a0676a-d72c-7031-95d0-c3f16df3820f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-the-best-of-leonard-cohen",
   title: "The Best Of Leonard Cohen",
   partOfCollections: ["leonard-cohen"],

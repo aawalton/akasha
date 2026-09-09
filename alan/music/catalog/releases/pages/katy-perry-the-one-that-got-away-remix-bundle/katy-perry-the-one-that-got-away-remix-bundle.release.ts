@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryTheOneThatGotAwayRemixBundle = {
   id: "01a0676a-d72d-704b-816e-9be1e60a195a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-the-one-that-got-away-remix-bundle",
   title: "The One That Got Away (Remix Bundle)",
   partOfCollections: ["katy-perry"],

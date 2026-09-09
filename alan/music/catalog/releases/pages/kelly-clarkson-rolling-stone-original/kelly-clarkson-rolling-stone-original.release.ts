@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonRollingStoneOriginal = {
   id: "01a0676a-d728-701d-ae77-2c0e9771b818",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-rolling-stone-original",
   title: "Rolling Stone Original",
   partOfCollections: ["kelly-clarkson"],

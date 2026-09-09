@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2LoseYouNowAcoustic = {
   id: "01a0676a-d723-7065-a4a0-6dde4fa5a73a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-lose-you-now-acoustic",
   title: "Lose You Now (Acoustic)",
   partOfCollections: ["lindsey-stirling-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonPeopleLikeUsRemixes = {
   id: "01a0676a-d726-706c-8afd-c14d1b599a87",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-people-like-us-remixes",
   title: "People Like Us (Remixes)",
   partOfCollections: ["kelly-clarkson"],

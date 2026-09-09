@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   id: "01a0676a-d720-702c-9c5e-21d5d3b7ec99",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-helping-hands-live-acoustic-at-the-masonic",
   title: "Helping Hands...Live & Acoustic at The Masonic",
   partOfCollections: ["metallica"],

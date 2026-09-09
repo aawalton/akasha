@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2BeyondTheVeil = {
   id: "01a0676a-d718-7055-86a3-6837c5bcea23",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-beyond-the-veil",
   title: "Beyond the Veil",
   partOfCollections: ["lindsey-stirling-2"],

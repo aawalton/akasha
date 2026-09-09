@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDonTThinkAboutYouRemixes = {
   id: "01a0676a-d721-7015-adc2-e45cd1cb860a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-don-t-think-about-you-remixes",
   title: "I Don't Think About You (Remixes)",
   partOfCollections: ["kelly-clarkson"],

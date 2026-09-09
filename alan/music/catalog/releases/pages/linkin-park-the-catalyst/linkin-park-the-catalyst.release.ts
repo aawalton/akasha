@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkTheCatalyst = {
   id: "01a0676a-d72c-703a-bfc0-2584b0548f0a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-the-catalyst",
   title: "The Catalyst",
   partOfCollections: ["linkin-park"],

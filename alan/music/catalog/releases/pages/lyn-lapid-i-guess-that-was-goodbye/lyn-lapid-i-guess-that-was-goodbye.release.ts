@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidIGuessThatWasGoodbye = {
   id: "01a0676a-d721-701f-a57c-6038ea375171",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-i-guess-that-was-goodbye",
   title: "I Guess That Was Goodbye",
   partOfCollections: ["lyn-lapid"],

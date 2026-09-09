@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonReadyForLoveLive = {
   id: "01a0676a-d727-7050-8ba7-10148d17a208",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-ready-for-love-live",
   title: "Ready for Love (Live)",
   partOfCollections: ["kelly-clarkson"],

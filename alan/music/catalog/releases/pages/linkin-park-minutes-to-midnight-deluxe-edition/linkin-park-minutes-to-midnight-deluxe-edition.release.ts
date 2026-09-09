@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkMinutesToMidnightDeluxeEdition = {
   id: "01a0676a-d724-706f-b241-c415f177e0da",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-minutes-to-midnight-deluxe-edition",
   title: "Minutes to Midnight (Deluxe Edition)",
   partOfCollections: ["linkin-park"],

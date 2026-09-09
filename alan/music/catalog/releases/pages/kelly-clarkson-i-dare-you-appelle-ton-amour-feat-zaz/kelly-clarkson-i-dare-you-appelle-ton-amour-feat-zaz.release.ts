@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouAppelleTonAmourFeatZaz = {
   id: "01a0676a-d721-7007-8f51-1e0e3c882ce9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-appelle-ton-amour-feat-zaz",
   title: "I Dare You (Appelle Ton Amour) [feat. Zaz]",
   partOfCollections: ["kelly-clarkson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkReanimation = {
   id: "01a0676a-d727-7051-ad3a-97a385550b94",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-reanimation",
   title: "Reanimation",
   partOfCollections: ["linkin-park"],

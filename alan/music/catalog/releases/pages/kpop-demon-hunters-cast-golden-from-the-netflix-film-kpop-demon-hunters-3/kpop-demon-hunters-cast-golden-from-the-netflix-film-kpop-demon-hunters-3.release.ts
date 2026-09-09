@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters3 = {
   id: "01a0676a-d71f-7016-9813-a0ec13523edb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-3",
   title: "Golden (from the Netflix film KPop Demon Hunters)",
   partOfCollections: ["kpop-demon-hunters-cast"],

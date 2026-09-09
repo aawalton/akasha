@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryNeverWornWhite = {
   id: "01a0676a-d725-704f-b542-27c0dd4b5c54",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-never-worn-white",
   title: "Never Worn White",
   partOfCollections: ["katy-perry"],

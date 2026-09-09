@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenSongsOfLoveAndHate = {
   id: "01a0676a-d729-706a-83d2-2b479e5e97b3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-songs-of-love-and-hate",
   title: "Songs of Love and Hate",
   partOfCollections: ["leonard-cohen"],

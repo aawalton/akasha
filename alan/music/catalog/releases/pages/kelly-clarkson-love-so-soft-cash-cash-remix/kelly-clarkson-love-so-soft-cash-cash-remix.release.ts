@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonLoveSoSoftCashCashRemix = {
   id: "01a0676a-d723-707c-a6cc-c15e1d52b962",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-love-so-soft-cash-cash-remix",
   title: "Love So Soft (Cash Cash Remix)",
   partOfCollections: ["kelly-clarkson"],

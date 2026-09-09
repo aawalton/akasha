@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2PokemonTheme = {
   id: "01a0676a-d727-7000-bf9b-f6b466cc4f8d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-pokemon-theme",
   title: "Pokemon Theme",
   partOfCollections: ["lindsey-stirling-2"],

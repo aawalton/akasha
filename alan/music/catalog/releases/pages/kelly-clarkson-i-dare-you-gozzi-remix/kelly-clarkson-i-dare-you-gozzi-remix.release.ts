@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouGozziRemix = {
   id: "01a0676a-d721-700c-9f27-a97809704c84",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-gozzi-remix",
   title: "I Dare You (Gozzi Remix)",
   partOfCollections: ["kelly-clarkson"],

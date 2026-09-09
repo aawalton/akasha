@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkInterviewMikeShinoda = {
   id: "01a0676a-d721-7079-85e6-e47dc1ac9bb4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-interview-mike-shinoda",
   title: "Interview: Mike Shinoda",
   partOfCollections: ["linkin-park"],

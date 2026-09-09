@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkTheHuntingPartyAcapellasInstrumentals = {
   id: "01a0676a-d72d-7029-b1c3-0a334426c66a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-the-hunting-party-acapellas-instrumentals",
   title: "The Hunting Party: Acapellas + Instrumentals",
   partOfCollections: ["linkin-park"],

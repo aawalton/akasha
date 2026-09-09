@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkLostPlzTetheredVersion = {
   id: "01a0676a-d723-706a-a6cc-825b59b209ae",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-lost-plz-tethered-version",
   title: "Lost (PLZ Tethered Version)",
   partOfCollections: ["linkin-park"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonHappierThanEver = {
   id: "01a0676a-d71f-7047-b906-51a93362e444",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
   partOfCollections: ["kelly-clarkson"],

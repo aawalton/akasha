@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkLiveInTexas = {
   id: "01a0676a-d723-7052-9cc3-5df42dbc22a3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-live-in-texas",
   title: "Live in Texas",
   partOfCollections: ["linkin-park"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonSinceUBeenGoneJulietSVersion = {
   id: "01a0676a-d729-700d-9014-3241f1a742b8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-since-u-been-gone-juliet-s-version",
   title: "Since U Been Gone (Juliet’s Version)",
   partOfCollections: ["kelly-clarkson"],

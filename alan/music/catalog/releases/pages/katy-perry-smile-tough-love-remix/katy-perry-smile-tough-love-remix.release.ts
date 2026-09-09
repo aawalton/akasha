@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySmileToughLoveRemix = {
   id: "01a0676a-d729-7031-b1ce-f165e92c6414",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-smile-tough-love-remix",
   title: "Smile (Tough Love Remix)",
   partOfCollections: ["katy-perry"],

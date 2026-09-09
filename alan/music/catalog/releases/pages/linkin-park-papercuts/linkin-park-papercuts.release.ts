@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkPapercuts = {
   id: "01a0676a-d726-7059-8286-b796be12f617",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-papercuts",
   title: "Papercuts",
   partOfCollections: ["linkin-park"],

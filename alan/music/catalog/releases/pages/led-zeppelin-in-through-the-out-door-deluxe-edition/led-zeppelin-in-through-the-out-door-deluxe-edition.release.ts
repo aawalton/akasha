@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinInThroughTheOutDoorDeluxeEdition = {
   id: "01a0676a-d721-706d-9592-7ee0528005ca",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-in-through-the-out-door-deluxe-edition",
   title: "In Through the out Door (Deluxe Edition)",
   partOfCollections: ["led-zeppelin"],

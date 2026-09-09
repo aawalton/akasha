@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouFeatFaouzia = {
   id: "01a0676a-d721-700a-83cb-e82e3eaaa847",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-feat-faouzia",
   title: "I Dare You (كنتحداك) [feat. Faouzia]",
   partOfCollections: ["kelly-clarkson"],

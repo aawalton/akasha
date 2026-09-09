@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkRoadToRevolutionLiveAtMiltonKeynes = {
   id: "01a0676a-d728-7014-9177-e46a09bc7977",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-road-to-revolution-live-at-milton-keynes",
   title: "Road to Revolution (Live at Milton Keynes)",
   partOfCollections: ["linkin-park"],

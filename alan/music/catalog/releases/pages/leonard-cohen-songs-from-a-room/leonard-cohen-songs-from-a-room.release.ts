@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const leonardCohenSongsFromARoom = {
   id: "01a0676a-d729-7062-a1ba-21c23b185508",
   pageTypeSlug: "release",
+  type: "release",
   slug: "leonard-cohen-songs-from-a-room",
   title: "Songs From A Room",
   partOfCollections: ["leonard-cohen"],

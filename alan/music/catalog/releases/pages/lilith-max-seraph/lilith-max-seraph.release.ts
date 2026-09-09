@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxSeraph = {
   id: "01a0676a-d728-7062-91d1-20cc16856160",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-seraph",
   title: "Seraph",
   partOfCollections: ["lilith-max"],

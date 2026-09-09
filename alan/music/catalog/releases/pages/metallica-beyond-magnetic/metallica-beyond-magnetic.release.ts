@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaBeyondMagnetic = {
   id: "01a0676a-d718-7054-9c08-3eaf90c58955",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-beyond-magnetic",
   title: "Beyond Magnetic",
   partOfCollections: ["metallica"],

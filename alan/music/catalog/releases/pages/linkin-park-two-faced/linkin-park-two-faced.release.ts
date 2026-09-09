@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkTwoFaced = {
   id: "01a0676a-d72f-7027-9095-2cd04bd79b4c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-two-faced",
   title: "Two Faced",
   partOfCollections: ["linkin-park"],

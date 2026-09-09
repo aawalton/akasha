@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonWhenChemistryComesAround = {
   id: "01a0676a-d730-7050-9198-610bc66ee1c8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-when-chemistry-comes-around",
   title: "When chemistry Comes Around",
   partOfCollections: ["kelly-clarkson"],

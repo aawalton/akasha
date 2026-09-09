@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidBuzzkill = {
   id: "01a0676a-d719-704c-b9cb-cfdf3a71df48",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-buzzkill",
   title: "BUZZKILL",
   partOfCollections: ["lyn-lapid"],

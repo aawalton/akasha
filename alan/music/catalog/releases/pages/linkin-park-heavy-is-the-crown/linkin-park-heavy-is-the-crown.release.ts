@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkHeavyIsTheCrown = {
   id: "01a0676a-d720-7025-ae91-57d257d0a50e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-heavy-is-the-crown",
   title: "Heavy Is the Crown",
   partOfCollections: ["linkin-park"],

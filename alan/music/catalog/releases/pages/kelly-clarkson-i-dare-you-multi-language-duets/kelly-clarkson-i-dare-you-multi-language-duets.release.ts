@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonIDareYouMultiLanguageDuets = {
   id: "01a0676a-d721-700e-a0e9-35d1f18a7746",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-i-dare-you-multi-language-duets",
   title: "I Dare You (Multi-Language Duets)",
   partOfCollections: ["kelly-clarkson"],

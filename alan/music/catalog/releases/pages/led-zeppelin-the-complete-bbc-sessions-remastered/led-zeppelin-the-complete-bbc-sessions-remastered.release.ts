@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinTheCompleteBbcSessionsRemastered = {
   id: "01a0676a-d72c-7042-9638-5efb1e0a2b07",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-the-complete-bbc-sessions-remastered",
   title: "The Complete BBC Sessions (Remastered)",
   partOfCollections: ["led-zeppelin"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkFriendlyFireACappellaInstrumental = {
   id: "01a0676a-d71e-7037-b663-801ee942a477",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-friendly-fire-a-cappella-instrumental",
   title: "Friendly Fire: A Cappella + Instrumental",
   partOfCollections: ["linkin-park"],

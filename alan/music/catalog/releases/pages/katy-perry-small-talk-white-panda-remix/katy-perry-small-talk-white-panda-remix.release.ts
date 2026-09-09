@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySmallTalkWhitePandaRemix = {
   id: "01a0676a-d729-7029-bf34-1753acbec373",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-small-talk-white-panda-remix",
   title: "Small Talk (White Panda Remix)",
   partOfCollections: ["katy-perry"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaRideTheLightningRemastered = {
   id: "01a0676a-d728-7005-a7ab-3853a6a2a909",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-ride-the-lightning-remastered",
   title: "Ride The Lightning (Remastered)",
   partOfCollections: ["metallica"],

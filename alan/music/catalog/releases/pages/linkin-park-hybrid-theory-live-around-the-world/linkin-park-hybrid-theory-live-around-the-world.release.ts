@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkHybridTheoryLiveAroundTheWorld = {
   id: "01a0676a-d720-707e-a5ce-3311d9903d44",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-hybrid-theory-live-around-the-world",
   title: "Hybrid Theory Live Around the World",
   partOfCollections: ["linkin-park"],

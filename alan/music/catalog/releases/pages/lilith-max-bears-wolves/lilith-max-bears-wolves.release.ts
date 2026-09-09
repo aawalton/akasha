@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxBearsWolves = {
   id: "01a0676a-d718-7024-8315-d22a60eb897f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
   partOfCollections: ["lilith-max"],

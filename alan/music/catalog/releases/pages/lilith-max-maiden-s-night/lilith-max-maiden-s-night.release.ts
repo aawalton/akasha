@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lilithMaxMaidenSNight = {
   id: "01a0676a-d724-702a-a684-a26b18f8945b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",
   partOfCollections: ["lilith-max"],

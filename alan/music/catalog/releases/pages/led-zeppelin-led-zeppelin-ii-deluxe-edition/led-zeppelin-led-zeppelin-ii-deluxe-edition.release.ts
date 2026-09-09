@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinLedZeppelinIiDeluxeEdition = {
   id: "01a0676a-d722-706b-aa69-656581947bc5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-led-zeppelin-ii-deluxe-edition",
   title: "Led Zeppelin II (Deluxe Edition)",
   partOfCollections: ["led-zeppelin"],

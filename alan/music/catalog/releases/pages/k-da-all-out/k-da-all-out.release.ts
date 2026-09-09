@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kDaAllOut = {
   id: "01a0676a-d716-7024-9785-d113f7278972",
   pageTypeSlug: "release",
+  type: "release",
   slug: "k-da-all-out",
   title: "ALL OUT",
   partOfCollections: ["k-da"],

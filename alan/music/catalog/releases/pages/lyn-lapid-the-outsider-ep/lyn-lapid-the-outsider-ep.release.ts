@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lynLapidTheOutsiderEp = {
   id: "01a0676a-d72d-7051-b08a-b07fb86b477c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lyn-lapid-the-outsider-ep",
   title: "The Outsider EP",
   partOfCollections: ["lyn-lapid"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonHeatWolvesByNightRemix = {
   id: "01a0676a-d720-701c-a339-9da194d0295c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-heat-wolves-by-night-remix",
   title: "Heat (Wolves by Night Remix)",
   partOfCollections: ["kelly-clarkson"],

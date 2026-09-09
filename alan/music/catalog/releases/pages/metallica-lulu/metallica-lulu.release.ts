@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallicaLulu = {
   id: "01a0676a-d724-7015-aae4-99c6d89c4ec4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-lulu",
   title: "Lulu",
   partOfCollections: ["metallica"],

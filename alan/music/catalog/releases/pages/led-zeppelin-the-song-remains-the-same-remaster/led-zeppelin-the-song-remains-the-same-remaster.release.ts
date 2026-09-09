@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const ledZeppelinTheSongRemainsTheSameRemaster = {
   id: "01a0676a-d72e-700d-af24-8ea4f4657eeb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "led-zeppelin-the-song-remains-the-same-remaster",
   title: "The Song Remains the Same (Remaster)",
   partOfCollections: ["led-zeppelin"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonRunRunRunFeatJohnLegend = {
   id: "01a0676a-d728-702b-8e0b-6e81100fb7dc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-run-run-run-feat-john-legend",
   title: "Run Run Run (feat. John Legend)",
   partOfCollections: ["kelly-clarkson"],

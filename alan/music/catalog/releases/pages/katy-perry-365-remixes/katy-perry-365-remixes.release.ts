@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerry365Remixes = {
   id: "01a0676a-d715-7009-baea-79b1e1ae04f9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-365-remixes",
   title: "365 (Remixes)",
   partOfCollections: ["katy-perry"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryHotNCold3 = {
   id: "01a0676a-d720-7063-b2ef-46c5ed20da81",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-hot-n-cold-3",
   title: "Hot N Cold",
   partOfCollections: ["katy-perry"],

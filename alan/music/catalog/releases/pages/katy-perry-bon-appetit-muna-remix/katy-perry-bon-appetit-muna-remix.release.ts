@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryBonAppetitMunaRemix = {
   id: "01a0676a-d719-701f-a4c5-ddf0a4044923",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-bon-appetit-muna-remix",
   title: "Bon Appétit (MUNA Remix)",
   partOfCollections: ["katy-perry"],

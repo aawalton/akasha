@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryPartOfMeJacquesLuContSThinWhiteDukeMix = {
   id: "01a0676a-d726-7061-b209-c6b50de1e2b1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-part-of-me-jacques-lu-cont-s-thin-white-duke-mix",
   title: "Part Of Me (Jacques Lu Cont's Thin White Duke Mix)",
   partOfCollections: ["katy-perry"],

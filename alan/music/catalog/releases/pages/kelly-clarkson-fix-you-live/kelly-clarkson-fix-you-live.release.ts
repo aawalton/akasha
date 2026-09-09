@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonFixYouLive = {
   id: "01a0676a-d71e-7009-ba67-4dabc11930e1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-fix-you-live",
   title: "Fix You (Live)",
   partOfCollections: ["kelly-clarkson"],

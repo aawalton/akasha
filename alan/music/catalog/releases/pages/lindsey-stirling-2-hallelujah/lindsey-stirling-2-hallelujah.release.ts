@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const lindseyStirling2Hallelujah = {
   id: "01a0676a-d71f-7039-a889-4627cbd63b13",
   pageTypeSlug: "release",
+  type: "release",
   slug: "lindsey-stirling-2-hallelujah",
   title: "Hallelujah",
   partOfCollections: ["lindsey-stirling-2"],

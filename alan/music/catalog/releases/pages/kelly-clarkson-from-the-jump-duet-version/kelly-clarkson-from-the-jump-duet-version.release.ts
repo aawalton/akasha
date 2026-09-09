@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonFromTheJumpDuetVersion = {
   id: "01a0676a-d71e-703b-8232-1a7225f4029a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-from-the-jump-duet-version",
   title: "From The Jump (Duet Version)",
   partOfCollections: ["kelly-clarkson"],

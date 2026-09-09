@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const metallica72Seasons = {
   id: "01a0676a-d715-7016-9b70-41d57de33c5f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "metallica-72-seasons",
   title: "72 Seasons",
   partOfCollections: ["metallica"],

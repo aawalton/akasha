@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerrySwishSwishValentinoKhanRemix = {
   id: "01a0676a-d72b-7007-90dc-177602aa1b84",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-swish-swish-valentino-khan-remix",
   title: "Swish Swish (Valentino Khan Remix)",
   partOfCollections: ["katy-perry"],

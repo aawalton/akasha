@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonHeatKokiriRemix = {
   id: "01a0676a-d720-7014-b20b-595908534dc7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-heat-kokiri-remix",
   title: "Heat (Kokiri Remix)",
   partOfCollections: ["kelly-clarkson"],

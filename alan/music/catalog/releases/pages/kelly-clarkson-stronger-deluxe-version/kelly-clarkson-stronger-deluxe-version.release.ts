@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonStrongerDeluxeVersion = {
   id: "01a0676a-d72a-7031-96fe-7bfe5fdc01ef",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-stronger-deluxe-version",
   title: "Stronger (Deluxe Version)",
   partOfCollections: ["kelly-clarkson"],

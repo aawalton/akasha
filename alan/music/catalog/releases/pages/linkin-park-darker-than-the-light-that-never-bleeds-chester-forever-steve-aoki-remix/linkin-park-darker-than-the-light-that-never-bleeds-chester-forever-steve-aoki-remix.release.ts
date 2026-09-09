@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const linkinParkDarkerThanTheLightThatNeverBleedsChesterForeverSteveAokiRemix = {
   id: "01a0676a-d71b-706a-ae2d-d76046a6f68b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "linkin-park-darker-than-the-light-that-never-bleeds-chester-forever-steve-aoki-remix",
   title: "Darker Than The Light That Never Bleeds (Chester Forever Steve Aoki Remix)",
   partOfCollections: ["linkin-park"],

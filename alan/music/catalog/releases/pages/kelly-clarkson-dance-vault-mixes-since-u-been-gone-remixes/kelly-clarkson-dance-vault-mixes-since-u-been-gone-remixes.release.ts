@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const kellyClarksonDanceVaultMixesSinceUBeenGoneRemixes = {
   id: "01a0676a-d71b-705c-9922-da8b68b20d03",
   pageTypeSlug: "release",
+  type: "release",
   slug: "kelly-clarkson-dance-vault-mixes-since-u-been-gone-remixes",
   title: "Dance Vault Mixes - Since U Been Gone (Remixes)",
   partOfCollections: ["kelly-clarkson"],

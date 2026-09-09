@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryETTheRemixesEp = {
   id: "01a0676a-d71c-7049-a6da-0c2c689d2d95",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-e-t-the-remixes-ep",
   title: "E.T. (The Remixes) - EP",
   partOfCollections: ["katy-perry"],

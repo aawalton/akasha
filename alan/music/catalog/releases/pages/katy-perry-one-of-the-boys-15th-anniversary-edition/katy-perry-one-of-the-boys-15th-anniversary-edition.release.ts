@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryOneOfTheBoys15thAnniversaryEdition = {
   id: "01a0676a-d726-7035-8025-d99dec21d9c5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-one-of-the-boys-15th-anniversary-edition",
   title: "One Of The Boys (15th Anniversary Edition)",
   partOfCollections: ["katy-perry"],

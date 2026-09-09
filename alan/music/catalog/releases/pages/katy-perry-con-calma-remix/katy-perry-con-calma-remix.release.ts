@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const katyPerryConCalmaRemix = {
   id: "01a0676a-d71b-7020-873d-78c68f5cfb1d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "katy-perry-con-calma-remix",
   title: "Con Calma (Remix)",
   partOfCollections: ["katy-perry"],
