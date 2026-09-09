@@ -27,6 +27,18 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
+      statement: "A specifier a manifest names reaches the file that manifest points it at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a manifest names is read as a way in only where that name is a specifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier is respelled only where the file that specifier reaches moved.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The body is read from the path that body sits at once the caller has carried it.",
     },
     {

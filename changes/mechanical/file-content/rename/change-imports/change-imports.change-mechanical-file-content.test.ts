@@ -7,6 +7,8 @@ import { changeImports } from "./change-imports.change-mechanical-file-content.c
 
 const TABLE = "akasha/one/routes.ts"
 
+const ALIAS = "@akasha/two/other"
+
 const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
 
 const TYPED_ROUTE_AT = "akasha/one/routes/addon-parcel/addon-parcel.route.code.ts"
@@ -98,6 +100,36 @@ test("a body moving under the name it has keeps the types specifier it already s
   const text = `import type { Route } from "./+types/keep"\n`
 
   const said = changeImports(was, now, text, new Map([[was, now]]))
+
+  expect(said.edits).toEqual([])
+})
+
+test("a specifier a manifest names is followed to where the file it reached moved", () => {
+  const naming = new Map([[ALIAS, TARGET]])
+  const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
+
+  const said = changeImports(HOLDER, HOLDER, text, new Map([[TARGET, ARRIVES]]), naming)
+  const one = said.edits[0]
+
+  expect(one?.kind === "replace" && one.contentTo).toBe(
+    'import { other } from "../four/other.module.code.ts"'
+  )
+})
+
+test("a name a manifest names is followed only where that name is a specifier", () => {
+  const naming = new Map([[ALIAS, TARGET]])
+  const text = `export const at = "${ALIAS}"\n`
+
+  const said = changeImports(TABLE, TABLE, text, new Map([[TARGET, ARRIVES]]), naming)
+
+  expect(said.edits).toEqual([])
+})
+
+test("a specifier a manifest names reaching nothing that moved is left alone", () => {
+  const naming = new Map([[ALIAS, TARGET]])
+  const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
+
+  const said = changeImports(HOLDER, HOLDER, text, new Map(), naming)
 
   expect(said.edits).toEqual([])
 })
