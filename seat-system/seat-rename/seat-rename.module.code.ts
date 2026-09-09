@@ -1,4 +1,4 @@
-import { basename } from "node:path"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import {
   composeSeatName,
   FLEET,
@@ -19,10 +19,6 @@ function slotsOf(seat: NameableSeat): string {
     .map((one) => one ?? "")
     .join(SLOT_JOINER)
 }
-
-export const SEAT_ID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
-
-const PAGE_SUFFIX = ".md"
 
 export function composedNameOf(agent: string): string | null {
   return seatNameForAgent(agent)
@@ -54,7 +50,7 @@ export async function followName(
   next: NameableSeat,
   takeLiveName = false
 ): Promise<Following> {
-  if (!SEAT_ID.test(agent)) return { kind: "unchanged", name: null }
+  if (!lowerUuid(agent.toLowerCase())) return { kind: "unchanged", name: null }
   const name = composeSeatName(next, root)
   if (name === null) return { kind: "unchanged", name: null }
   const slots = slotsOf(next)
