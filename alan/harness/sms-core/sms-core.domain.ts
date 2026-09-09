@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const smsCore = {
   id: "01a05b6f-999c-7a6b-9de1-eb062ff820b3",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "sms-core",
   definition: "how a text message from a phone reaches the seat that answers it",
-  manifest: "json",
   parts: [
     "module/verify-signature",
     "module/telnyx-inbound",
@@ -45,4 +44,4 @@ export const smsCore = {
       statement: "A command here is the one thing that reaches the carrier.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

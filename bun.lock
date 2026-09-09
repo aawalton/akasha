@@ -36,7 +36,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
-        "@akasha/sms-core": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/ssh-access": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
@@ -286,14 +285,6 @@
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
     },
-    "alan/harness/sms-core": {
-      "name": "@akasha/sms-core",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/harness/ssh-access": {
       "name": "@akasha/ssh-access",
       "dependencies": {
@@ -407,7 +398,6 @@
         "@akasha/personas": "workspace:*",
         "@akasha/persons": "workspace:*",
         "@akasha/reading": "workspace:*",
-        "@akasha/sms-core": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
@@ -2544,8 +2534,6 @@
     "@akasha/shell": ["@akasha/shell@workspace:shell"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/smilingjenny-web"],
-
-    "@akasha/sms-core": ["@akasha/sms-core@workspace:alan/harness/sms-core"],
 
     "@akasha/spotify": ["@akasha/spotify@workspace:alan/music/spotify"],
 

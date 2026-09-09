@@ -1,5 +1,5 @@
-import type { RecordResult } from "@akasha/sms-core/handle-inbound"
-import type { DiscardedInbound } from "@akasha/sms-core/normalize"
+import type { RecordResult } from "akasha/alan/harness/sms-core/handle-inbound/handle-inbound.module.code.ts"
+import type { DiscardedInbound } from "akasha/alan/harness/sms-core/normalize/normalize.module.code.ts"
 
 export const SMS_DISCARD_PAGE_TYPE_SLUG = "sms-discard"
 

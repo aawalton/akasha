@@ -87,7 +87,6 @@
     "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-items-rules-routing": "workspace:*",
     "@akasha/temper-items-rules-routing-core": "workspace:*",
-    "@akasha/sms-core": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/temper-capture-datamining": "workspace:*",

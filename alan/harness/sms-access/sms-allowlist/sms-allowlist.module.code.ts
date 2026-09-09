@@ -1,4 +1,4 @@
-import type { SmsExternalIdentity } from "@akasha/sms-core/sms-identity"
+import type { SmsExternalIdentity } from "akasha/alan/harness/sms-core/sms-identity/sms-identity.module.code.ts"
 
 export const RELATIONSHIP_PAGE_TYPE_SLUG = "relationship"
 
