@@ -147,7 +147,7 @@ test("a key two properties carry reaches neither where the page's type declares 
   })
   const known = knownAt(root, repo)
 
-  expect(known.slugOfKeyIn({ pageTypeSlug: "domain" }, "partSlugs")).toBe(null)
+  expect(known.slugOfKeyIn({ type: "domain" }, "partSlugs")).toBe(null)
 })
 
 test("a field reaches only a property the record it stands in declares", () => {
