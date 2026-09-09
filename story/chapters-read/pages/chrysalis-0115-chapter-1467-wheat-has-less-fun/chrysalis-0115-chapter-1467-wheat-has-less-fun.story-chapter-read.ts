@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0115Chapter1467WheatHasLessFun = {
   id: "01a0672c-eb5f-7001-8999-fd4dd5cdff79",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0115-chapter-1467-wheat-has-less-fun",
   title: "Chapter 1467 - Wheat Has Less Fun",
   story: "story-read/chrysalis",

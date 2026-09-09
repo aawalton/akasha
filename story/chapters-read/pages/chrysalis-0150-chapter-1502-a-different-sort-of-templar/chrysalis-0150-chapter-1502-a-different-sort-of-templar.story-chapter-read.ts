@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0150Chapter1502ADifferentSortOfTemplar = {
   id: "01a0672c-eb60-700b-83f4-91f2cde6fb91",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0150-chapter-1502-a-different-sort-of-templar",
   title: "Chapter 1502 - A Different Sort of Templar",
   story: "story-read/chrysalis",

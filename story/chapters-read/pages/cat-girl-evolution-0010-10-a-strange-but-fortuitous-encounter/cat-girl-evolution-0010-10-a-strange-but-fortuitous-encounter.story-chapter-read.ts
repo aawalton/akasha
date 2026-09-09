@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   id: "01a06731-afeb-7009-ab6d-85482d8f56e5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0010-10-a-strange-but-fortuitous-encounter",
   title: "10 - A Strange, but Fortuitous Encounter",
   story: "cat-girl-evolution",

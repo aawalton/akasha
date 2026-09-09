@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0069NotAChapterScheduleUpdateB4CoverRevealOtherNews = {
   id: "01a06731-ae6b-7000-91bf-6b645adca421",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0069-not-a-chapter-schedule-update-b4-cover-reveal-other-news",
   title: "(NOT A CHAPTER) Schedule update + B4 cover reveal + other news",
   story: "story-read/bunny-girl-evolution",

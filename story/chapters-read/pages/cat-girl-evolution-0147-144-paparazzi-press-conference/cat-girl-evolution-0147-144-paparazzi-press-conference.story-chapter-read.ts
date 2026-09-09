@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0147144PaparazziPressConference = {
   id: "01a06731-b01f-7000-97d2-f4c0c1c659f8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0147-144-paparazzi-press-conference",
   title: "144 - Paparazzi Press Conference",
   story: "cat-girl-evolution",

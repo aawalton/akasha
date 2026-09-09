@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0166166ABiggerWorld = {
   id: "01a06731-adb0-7010-b04d-70c37ecd8a3b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0166-166-a-bigger-world",
   title: "166. A Bigger World",
   story: "story-read/breaker-of-horizons",

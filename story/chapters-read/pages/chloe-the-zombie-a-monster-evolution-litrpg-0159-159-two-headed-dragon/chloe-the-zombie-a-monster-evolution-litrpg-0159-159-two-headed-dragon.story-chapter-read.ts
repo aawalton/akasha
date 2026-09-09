@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0159159TwoHeadedDragon = {
   id: "01a06731-ad7d-7014-9814-86126d2c81f1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0159-159-two-headed-dragon",
   title: "159: Two Headed Dragon",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0187187TheBestCloak = {
   id: "01a06731-ad7f-700f-820b-2d803a8042ce",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0187-187-the-best-cloak",
   title: "187: The Best Cloak",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

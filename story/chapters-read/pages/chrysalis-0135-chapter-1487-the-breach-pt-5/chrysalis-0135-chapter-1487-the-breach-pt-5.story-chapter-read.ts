@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0135Chapter1487TheBreachPt5 = {
   id: "01a0672c-eb5f-7015-b772-bec6e34d37bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0135-chapter-1487-the-breach-pt-5",
   title: "Chapter 1487 - The Breach pt 5",
   story: "story-read/chrysalis",

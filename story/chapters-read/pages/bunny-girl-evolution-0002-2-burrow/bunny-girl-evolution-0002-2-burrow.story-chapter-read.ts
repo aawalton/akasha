@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution00022Burrow = {
   id: "01a06743-b34a-7000-8581-3503eacd36bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0002-2-burrow",
   title: "2 - Burrow",
   story: "story-read/bunny-girl-evolution",

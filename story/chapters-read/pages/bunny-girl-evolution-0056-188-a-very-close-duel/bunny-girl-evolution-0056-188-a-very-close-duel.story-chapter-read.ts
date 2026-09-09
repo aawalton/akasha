@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0056188AVeryCloseDuel = {
   id: "01a06731-ae5a-7000-8f2e-0b4a29580c75",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0056-188-a-very-close-duel",
   title: "188 - A Very Close Duel",
   story: "story-read/bunny-girl-evolution",

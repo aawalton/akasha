@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg003535HappyPlace = {
   id: "01a06731-ad6f-7002-a357-e6324f3c71a8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0035-35-happy-place",
   title: "35: Happy Place",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

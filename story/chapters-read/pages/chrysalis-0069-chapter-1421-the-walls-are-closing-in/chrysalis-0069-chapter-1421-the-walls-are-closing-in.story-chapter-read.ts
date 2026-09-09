@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0069Chapter1421TheWallsAreClosingIn = {
   id: "01a0672c-eb5c-700e-8f56-993cf5f401c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0069-chapter-1421-the-walls-are-closing-in",
   title: "Chapter 1421 - The Walls are Closing In",
   story: "story-read/chrysalis",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0126124YonaTheDevourer = {
   id: "01a06731-b018-7003-8a03-bec3ff737220",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0126-124-yona-the-devourer",
   title: "124 - Yona, the Devourer",
   story: "cat-girl-evolution",

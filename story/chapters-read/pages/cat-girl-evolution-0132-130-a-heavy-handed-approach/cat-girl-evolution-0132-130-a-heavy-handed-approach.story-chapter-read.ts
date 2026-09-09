@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0132130AHeavyHandedApproach = {
   id: "01a06731-b018-7009-9cda-c57a4aa5f88e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0132-130-a-heavy-handed-approach",
   title: "130 - A Heavy-Handed Approach",
   story: "cat-girl-evolution",

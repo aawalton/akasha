@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0105103TheGoddessOfFemaleDogsB2End = {
   id: "01a06731-b012-7000-90ae-41a61df98640",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0105-103-the-goddess-of-female-dogs-b2-end",
   title: "103 - The Goddess of Female Dogs (B2 end)",
   story: "cat-girl-evolution",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0015106LyingVsActing = {
   id: "01a06743-b372-7000-9d43-af6a5a397292",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0015-106-lying-vs-acting",
   title: "106 - Lying vs Acting",
   story: "story-read/bunny-girl-evolution",

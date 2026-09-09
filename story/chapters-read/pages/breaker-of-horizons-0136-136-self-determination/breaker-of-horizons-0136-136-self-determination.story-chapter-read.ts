@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0136136SelfDetermination = {
   id: "01a06731-adaf-7004-83c7-2beac847d0cc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0136-136-self-determination",
   title: "136. Self-Determination",
   story: "story-read/breaker-of-horizons",

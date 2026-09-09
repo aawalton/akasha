@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution001313SilverLevelThreat = {
   id: "01a06731-afec-7000-b66b-307765404117",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0013-13-silver-level-threat",
   title: "13 - Silver Level Threat",
   story: "cat-girl-evolution",

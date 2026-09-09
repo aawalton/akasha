@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0026160CheatingOnATest = {
   id: "01a06743-b38c-7000-b5ca-eaa9b36a970f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0026-160-cheating-on-a-test",
   title: "160 - Cheating on a Test",
   story: "story-read/bunny-girl-evolution",

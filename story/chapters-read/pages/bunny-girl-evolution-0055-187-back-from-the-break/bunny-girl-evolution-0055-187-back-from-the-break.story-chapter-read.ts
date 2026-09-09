@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0055187BackFromTheBreak = {
   id: "01a06731-ae59-7000-9194-4d12ba43d3cb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0055-187-back-from-the-break",
   title: "187 - Back from the Break",
   story: "story-read/bunny-girl-evolution",

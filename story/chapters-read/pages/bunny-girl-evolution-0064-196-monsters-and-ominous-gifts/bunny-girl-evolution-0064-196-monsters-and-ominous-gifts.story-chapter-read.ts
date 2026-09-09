@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0064196MonstersAndOminousGifts = {
   id: "01a06731-ae65-7000-961a-a42e238a2fbe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0064-196-monsters-and-ominous-gifts",
   title: "196 - Monsters and Ominous Gifts",
   story: "story-read/bunny-girl-evolution",

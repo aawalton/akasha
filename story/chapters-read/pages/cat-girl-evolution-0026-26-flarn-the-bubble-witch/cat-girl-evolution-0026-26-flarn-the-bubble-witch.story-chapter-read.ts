@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution002626FlarnTheBubbleWitch = {
   id: "01a06731-afef-7000-808d-cda44b178982",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0026-26-flarn-the-bubble-witch",
   title: "26 - Flarn, the Bubble Witch",
   story: "cat-girl-evolution",

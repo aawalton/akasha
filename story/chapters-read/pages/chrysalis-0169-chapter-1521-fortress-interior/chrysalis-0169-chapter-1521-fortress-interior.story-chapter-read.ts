@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0169Chapter1521FortressInterior = {
   id: "01a0672c-eb61-7002-a31f-40c30c168160",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0169-chapter-1521-fortress-interior",
   title: "Chapter 1521 - Fortress Interior",
   story: "story-read/chrysalis",

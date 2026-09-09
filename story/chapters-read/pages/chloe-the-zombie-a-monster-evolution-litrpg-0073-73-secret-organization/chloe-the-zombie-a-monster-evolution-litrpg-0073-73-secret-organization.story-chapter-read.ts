@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg007373SecretOrganization = {
   id: "01a06731-ad7a-7004-a2a2-e4d958cb4dd8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0073-73-secret-organization",
   title: "73: Secret Organization",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

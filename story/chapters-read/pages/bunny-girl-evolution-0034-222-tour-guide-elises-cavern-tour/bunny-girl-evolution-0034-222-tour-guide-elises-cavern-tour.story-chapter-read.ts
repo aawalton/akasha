@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0034222TourGuideElisesCavernTour = {
   id: "01a07fd8-7b74-79fa-b7ce-5857436a6ab4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0034-222-tour-guide-elises-cavern-tour",
   story: "story-read/bunny-girl-evolution",
   position: 34,

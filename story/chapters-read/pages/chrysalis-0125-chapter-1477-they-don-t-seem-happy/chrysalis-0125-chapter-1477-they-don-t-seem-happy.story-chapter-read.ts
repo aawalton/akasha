@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0125Chapter1477TheyDonTSeemHappy = {
   id: "01a0672c-eb5f-700b-b233-3216eae4ff2a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0125-chapter-1477-they-don-t-seem-happy",
   title: "Chapter 1477 - They Don’t Seem Happy",
   story: "story-read/chrysalis",

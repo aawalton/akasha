@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution009090BreakingTheSystemAgain = {
   id: "01a06731-b00a-7003-9a34-c4df47309c6d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0090-90-breaking-the-system-again",
   title: "90 - Breaking the System (again)",
   story: "cat-girl-evolution",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution009897RulesAndRestrictionsMayApply = {
   id: "01a06731-b00d-7001-a68d-b9c37a4f2995",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0098-97-rules-and-restrictions-may-apply",
   title: "97 - Rules and Restrictions May Apply",
   story: "cat-girl-evolution",

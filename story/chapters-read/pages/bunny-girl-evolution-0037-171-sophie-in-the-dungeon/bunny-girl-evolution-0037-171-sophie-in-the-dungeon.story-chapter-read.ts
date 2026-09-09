@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0037171SophieInTheDungeon = {
   id: "01a06743-b3a7-7001-a3e3-78454713e5cd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0037-171-sophie-in-the-dungeon",
   title: "171 - Sophie in the Dungeon",
   story: "story-read/bunny-girl-evolution",

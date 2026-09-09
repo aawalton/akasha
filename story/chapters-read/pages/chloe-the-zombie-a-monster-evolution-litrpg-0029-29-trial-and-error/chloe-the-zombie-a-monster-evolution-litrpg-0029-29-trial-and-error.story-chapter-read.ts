@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg002929TrialAndError = {
   id: "01a06731-ad6e-7008-bc91-e6cedd7d08a1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0029-29-trial-and-error",
   title: "29: Trial and Error",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

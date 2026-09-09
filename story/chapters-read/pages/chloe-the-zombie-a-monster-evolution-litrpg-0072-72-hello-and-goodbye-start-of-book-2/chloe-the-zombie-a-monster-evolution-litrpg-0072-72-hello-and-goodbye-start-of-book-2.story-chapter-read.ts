@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBook2 = {
   id: "01a06731-ad7a-7003-bb53-2ea46a39ef53",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0072-72-hello-and-goodbye-start-of-book-2",
   title: "72: Hello and Goodbye (Start of Book 2)",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0185185PieceByPiece = {
   id: "01a06731-ad7f-700d-b231-057a4159b56c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0185-185-piece-by-piece",
   title: "185: Piece by Piece",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

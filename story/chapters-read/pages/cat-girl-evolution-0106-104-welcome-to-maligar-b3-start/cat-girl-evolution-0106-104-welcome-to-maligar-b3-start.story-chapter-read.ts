@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0106104WelcomeToMaligarB3Start = {
   id: "01a06731-b012-7001-8c98-a02d4513a791",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0106-104-welcome-to-maligar-b3-start",
   title: "104 - Welcome to Maligar (B3 start)",
   story: "cat-girl-evolution",

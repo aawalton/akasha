@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0035169PreliminaryDungeonCompetitionTeam = {
   id: "01a06743-b3a6-7001-afdc-91f15e5a2e9d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0035-169-preliminary-dungeon-competition-team",
   title: "169 - Preliminary Dungeon Competition Team",
   story: "story-read/bunny-girl-evolution",

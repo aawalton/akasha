@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg004343YnettTheWhiteWitch = {
   id: "01a06731-ad70-7007-b9af-564bff9afa4b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0043-43-ynett-the-white-witch",
   title: "43: Ynett, the White Witch",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

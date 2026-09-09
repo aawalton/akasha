@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0150147SpaceFrogs = {
   id: "01a06731-b01f-7003-8a8f-a93c3573789b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0150-147-space-frogs",
   title: "147 - Space Frogs",
   story: "cat-girl-evolution",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0120Chapter1472UpsetTheNaturalOrder = {
   id: "01a0672c-eb5f-7006-8e38-b6b7df37e3ed",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0120-chapter-1472-upset-the-natural-order",
   title: "Chapter 1472 - Upset the Natural Order",
   story: "story-read/chrysalis",

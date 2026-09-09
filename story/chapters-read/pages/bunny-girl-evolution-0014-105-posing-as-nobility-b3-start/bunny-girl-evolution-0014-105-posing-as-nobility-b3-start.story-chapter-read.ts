@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0014105PosingAsNobilityB3Start = {
   id: "01a06743-b36e-7000-90a2-ff48048e3afb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0014-105-posing-as-nobility-b3-start",
   title: "105 - Posing as Nobility (B3 start)",
   story: "story-read/bunny-girl-evolution",

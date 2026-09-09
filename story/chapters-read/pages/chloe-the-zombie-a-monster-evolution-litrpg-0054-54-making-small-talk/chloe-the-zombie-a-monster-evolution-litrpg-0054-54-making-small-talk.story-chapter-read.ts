@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg005454MakingSmallTalk = {
   id: "01a06731-ad75-7000-bbbe-6d306972d504",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0054-54-making-small-talk",
   title: "54: Making Small Talk",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

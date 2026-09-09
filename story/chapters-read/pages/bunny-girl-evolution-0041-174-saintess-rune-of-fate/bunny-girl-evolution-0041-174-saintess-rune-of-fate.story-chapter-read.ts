@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0041174SaintessRuneOfFate = {
   id: "01a06959-f7ce-7000-8f7c-829e1094fa19",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0041-174-saintess-rune-of-fate",
   title: "174 - Saintess' {Rune of Fate}",
   story: "story-read/bunny-girl-evolution",

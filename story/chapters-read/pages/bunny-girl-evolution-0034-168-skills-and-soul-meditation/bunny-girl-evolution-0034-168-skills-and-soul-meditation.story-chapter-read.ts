@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0034168SkillsAndSoulMeditation = {
   id: "01a06743-b3a6-7000-ad0b-f7da7218c2f9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0034-168-skills-and-soul-meditation",
   title: "168 - Skills and Soul Meditation",
   story: "story-read/bunny-girl-evolution",

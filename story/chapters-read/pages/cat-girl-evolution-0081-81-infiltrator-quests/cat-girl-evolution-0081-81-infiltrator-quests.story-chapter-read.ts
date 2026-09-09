@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution008181InfiltratorQuests = {
   id: "01a06731-b007-7002-896e-d3918e401176",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0081-81-infiltrator-quests",
   title: "81 - Infiltrator Quests",
   story: "cat-girl-evolution",

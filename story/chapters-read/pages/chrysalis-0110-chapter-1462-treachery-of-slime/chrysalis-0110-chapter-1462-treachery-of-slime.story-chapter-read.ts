@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0110Chapter1462TreacheryOfSlime = {
   id: "01a0672c-eb5e-700a-a08b-1536af71ae67",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0110-chapter-1462-treachery-of-slime",
   title: "Chapter 1462 - Treachery of Slime",
   story: "story-read/chrysalis",

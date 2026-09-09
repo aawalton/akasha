@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0105105BirdBrain = {
   id: "01a06731-ad7b-7010-ab49-099df13cd8ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0105-105-bird-brain",
   title: "105: Bird Brain",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

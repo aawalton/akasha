@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0151151TooFastTooFurious = {
   id: "01a06731-ad7d-700c-99fc-9b6ec4ec85ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0151-151-too-fast-too-furious",
   title: "151: Too Fast, Too Furious",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

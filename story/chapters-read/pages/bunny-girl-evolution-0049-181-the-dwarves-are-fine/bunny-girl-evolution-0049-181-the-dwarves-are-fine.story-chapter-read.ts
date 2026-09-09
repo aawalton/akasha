@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0049181TheDwarvesAreFine = {
   id: "01a06731-ae53-7000-9df2-711b8d3c661e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0049-181-the-dwarves-are-fine",
   title: "181 - The Dwarves Are Fine",
   story: "story-read/bunny-girl-evolution",

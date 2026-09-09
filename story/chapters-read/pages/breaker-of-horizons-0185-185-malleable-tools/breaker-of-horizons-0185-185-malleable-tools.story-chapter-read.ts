@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0185185MalleableTools = {
   id: "01a06731-adb1-700d-b458-e1c6b144ae90",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0185-185-malleable-tools",
   title: "185. Malleable Tools",
   story: "story-read/breaker-of-horizons",

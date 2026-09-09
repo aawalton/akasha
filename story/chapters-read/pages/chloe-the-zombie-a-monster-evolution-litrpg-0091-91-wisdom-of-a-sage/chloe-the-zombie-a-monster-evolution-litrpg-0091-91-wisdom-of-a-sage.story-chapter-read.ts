@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg009191WisdomOfASage = {
   id: "01a06731-ad7b-7002-a62d-45caec85ea33",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0091-91-wisdom-of-a-sage",
   title: "91: Wisdom of a Sage",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

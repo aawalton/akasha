@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0033221EliseGetsANewRoommate = {
   id: "01a07252-32ea-73e2-b491-e146386430dd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0033-221-elise-gets-a-new-roommate",
   story: "story-read/bunny-girl-evolution",
   position: 33,

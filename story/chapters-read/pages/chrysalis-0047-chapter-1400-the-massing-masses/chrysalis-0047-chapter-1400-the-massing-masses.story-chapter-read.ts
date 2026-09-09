@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0047Chapter1400TheMassingMasses = {
   id: "01a0672c-eb5b-7015-9ab2-53eb328ec61c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0047-chapter-1400-the-massing-masses",
   title: "Chapter 1400 - The Massing Masses",
   story: "story-read/chrysalis",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution007171ABusyDayAtWork = {
   id: "01a06731-b004-7000-9979-8c4c4598ce14",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0071-71-a-busy-day-at-work",
   title: "71 - A Busy Day at Work",
   story: "cat-girl-evolution",

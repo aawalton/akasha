@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0170170BindingPower = {
   id: "01a06731-adb0-7014-a53c-f4fb0b47183b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0170-170-binding-power",
   title: "170. Binding Power",
   story: "story-read/breaker-of-horizons",

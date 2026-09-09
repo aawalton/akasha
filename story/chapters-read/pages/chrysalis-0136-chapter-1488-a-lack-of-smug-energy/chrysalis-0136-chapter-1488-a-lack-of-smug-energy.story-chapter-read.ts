@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0136Chapter1488ALackOfSmugEnergy = {
   id: "01a0672c-eb5f-7016-9d99-c2a03cded102",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0136-chapter-1488-a-lack-of-smug-energy",
   title: "Chapter 1488 - A Lack of Smug Energy",
   story: "story-read/chrysalis",

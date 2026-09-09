@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0162162WalkingAndWalking = {
   id: "01a06731-ad7d-7017-996b-cfede6dcdad4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0162-162-walking-and-walking",
   title: "162: Walking and Walking",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

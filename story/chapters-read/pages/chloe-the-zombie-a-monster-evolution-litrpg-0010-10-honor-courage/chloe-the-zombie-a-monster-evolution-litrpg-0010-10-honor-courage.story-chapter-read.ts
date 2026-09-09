@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg001010HonorCourage = {
   id: "01a06731-ad66-7000-bd5b-0dc1ea35ca6c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0010-10-honor-courage",
   title: "10: Honor & Courage",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

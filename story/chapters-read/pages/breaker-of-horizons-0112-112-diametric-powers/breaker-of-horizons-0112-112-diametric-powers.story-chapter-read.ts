@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0112112DiametricPowers = {
   id: "01a06731-adae-7000-84c7-a5321e53254e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0112-112-diametric-powers",
   title: "112. Diametric Powers",
   story: "story-read/breaker-of-horizons",

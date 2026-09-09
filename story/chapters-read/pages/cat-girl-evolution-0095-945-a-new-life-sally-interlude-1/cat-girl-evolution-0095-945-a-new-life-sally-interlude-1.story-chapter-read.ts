@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0095945ANewLifeSallyInterlude1 = {
   id: "01a06731-b00b-7001-a181-c2e3e7831196",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0095-945-a-new-life-sally-interlude-1",
   title: "94.5 - A New Life (Sally Interlude 1)",
   story: "cat-girl-evolution",

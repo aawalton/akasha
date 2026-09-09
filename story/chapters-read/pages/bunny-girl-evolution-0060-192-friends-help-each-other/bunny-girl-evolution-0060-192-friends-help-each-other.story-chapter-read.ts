@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0060192FriendsHelpEachOther = {
   id: "01a06731-ae60-7000-b8df-8ee690955e29",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0060-192-friends-help-each-other",
   title: "192 - Friends Help Each Other",
   story: "story-read/bunny-girl-evolution",

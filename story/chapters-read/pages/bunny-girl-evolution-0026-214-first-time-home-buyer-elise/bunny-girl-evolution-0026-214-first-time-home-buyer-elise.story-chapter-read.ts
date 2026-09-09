@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0026214FirstTimeHomeBuyerElise = {
   id: "01a06743-b38c-7001-ad98-44c067f5c086",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0026-214-first-time-home-buyer-elise",
   title: "214 - First Time Home Buyer Elise",
   story: "story-read/bunny-girl-evolution",

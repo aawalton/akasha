@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0144144UnderTheMoon = {
   id: "01a06731-ad7d-7005-a725-721fd9cacd2b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0144-144-under-the-moon",
   title: "144: Under the Moon",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

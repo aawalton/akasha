@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chloeTheZombieAMonsterEvolutionLitrpg0101101UncertainFuture = {
   id: "01a06731-ad7b-700c-bb49-ff4ae80989f9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0101-101-uncertain-future",
   title: "101: Uncertain Future",
   story: "chloe-the-zombie-a-monster-evolution-litrpg",

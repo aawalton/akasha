@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution001057AgentSnowberry = {
   id: "01a06743-b35a-7000-87f2-e72d11a01c1d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0010-57-agent-snowberry",
   title: "57 - Agent Snowberry",
   story: "story-read/bunny-girl-evolution",

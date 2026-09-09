@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution005050FanaticalDevotion = {
   id: "01a06731-affb-7004-9044-0b1b07c368e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0050-50-fanatical-devotion",
   title: "50 - Fanatical Devotion",
   story: "cat-girl-evolution",

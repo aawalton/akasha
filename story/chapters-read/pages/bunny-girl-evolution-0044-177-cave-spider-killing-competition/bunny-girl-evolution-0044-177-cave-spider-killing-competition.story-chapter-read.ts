@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   id: "01a06731-ae50-7000-8332-ae61f887263d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0044-177-cave-spider-killing-competition",
   title: "177 - Cave Spider Killing Competition",
   story: "story-read/bunny-girl-evolution",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const catGirlEvolution0117115ItsAlwaysTheSinTraits = {
   id: "01a06731-b016-7002-b486-d32d749e065a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cat-girl-evolution-0117-115-its-always-the-sin-traits",
   title: "115 - It's Always the Sin Traits",
   story: "cat-girl-evolution",

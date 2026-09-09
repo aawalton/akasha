@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons0142142CosmicConfrontation = {
   id: "01a06731-adaf-700a-afde-2bf999f4ed83",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0142-142-cosmic-confrontation",
   title: "142. Cosmic Confrontation",
   story: "story-read/breaker-of-horizons",

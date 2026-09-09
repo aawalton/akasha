@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bunnyGirlEvolution0045178TheMysteriousRedHerring = {
   id: "01a06731-ae50-7001-b064-3c594372d4b8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bunny-girl-evolution-0045-178-the-mysterious-red-herring",
   title: "178 - The Mysterious Red Herring",
   story: "story-read/bunny-girl-evolution",
