@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonWhereIsYourHeart = {
   id: "019ea4c1-6961-7e79-bbf0-00980d443ee2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-where-is-your-heart",
   title: "Where Is Your Heart",
   artist: "kelly-clarkson",

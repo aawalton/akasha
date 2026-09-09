@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonYouThoughtWrong = {
   id: "019ea4b2-d0df-7223-8697-5c5cf53ca4d8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-you-thought-wrong",
   title: "You Thought Wrong",
   artist: "kelly-clarkson",

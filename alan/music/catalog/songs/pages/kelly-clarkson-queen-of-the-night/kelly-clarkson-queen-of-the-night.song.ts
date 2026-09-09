@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonQueenOfTheNight = {
   id: "019ea4b1-b15d-7c45-9792-b528614b7560",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-queen-of-the-night",
   title: "Queen of the Night",
   artist: "kelly-clarkson",

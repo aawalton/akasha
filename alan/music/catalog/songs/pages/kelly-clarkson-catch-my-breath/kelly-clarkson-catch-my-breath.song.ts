@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonCatchMyBreath = {
   id: "019ea4ae-dc91-7f1b-abe7-2e2ec2914695",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-catch-my-breath",
   title: "Catch My Breath",
   artist: "kelly-clarkson",

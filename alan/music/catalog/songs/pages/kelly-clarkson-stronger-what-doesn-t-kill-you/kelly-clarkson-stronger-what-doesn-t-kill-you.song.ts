@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonStrongerWhatDoesnTKillYou = {
   id: "019ea4b2-0167-78cd-ad23-6354ed0cbd55",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you",
   title: "Stronger (What Doesn't Kill You)",
   artist: "kelly-clarkson",

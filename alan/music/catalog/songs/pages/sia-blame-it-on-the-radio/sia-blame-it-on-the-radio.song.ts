@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBlameItOnTheRadio = {
   id: "019ea4c3-b6a0-7f62-bc24-e2973240e75f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-blame-it-on-the-radio",
   title: "Blame It on the Radio",
   artist: "sia",

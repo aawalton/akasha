@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonWinterDreamsBrandonSSong = {
   id: "019ea4b1-cc25-7414-9c9d-82ac954238f6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-winter-dreams-brandon-s-song",
   title: "Winter Dreams (Brandon's Song)",
   artist: "kelly-clarkson",

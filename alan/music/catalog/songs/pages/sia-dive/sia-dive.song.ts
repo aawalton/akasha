@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDive = {
   id: "019ea4c3-4bd2-71eb-81ef-54f11806f91b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-dive",
   title: "Dive",
   artist: "sia",

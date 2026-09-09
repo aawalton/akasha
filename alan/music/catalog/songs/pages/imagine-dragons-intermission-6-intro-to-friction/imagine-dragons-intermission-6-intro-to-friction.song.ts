@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const imagineDragonsIntermission6IntroToFriction = {
   id: "019ea498-13d2-7836-8727-8a0efb798be1",
   pageTypeSlug: "song",
+  type: "song",
   slug: "imagine-dragons-intermission-6-intro-to-friction",
   title: "Intermission #6: Intro to Friction",
   artist: "imagine-dragons",

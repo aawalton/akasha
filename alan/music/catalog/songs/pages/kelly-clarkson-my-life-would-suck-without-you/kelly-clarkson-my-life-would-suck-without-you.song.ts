@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonMyLifeWouldSuckWithoutYou = {
   id: "019ea4ad-b538-7a5c-953b-e4add41c1c5d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-my-life-would-suck-without-you",
   title: "My Life Would Suck Without You",
   artist: "kelly-clarkson",

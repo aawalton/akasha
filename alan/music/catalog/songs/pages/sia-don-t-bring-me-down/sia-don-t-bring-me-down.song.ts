@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDonTBringMeDown = {
   id: "019ea4c5-ea63-7116-9b3f-b249de55a1ea",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-don-t-bring-me-down",
   title: "Don’t Bring Me Down",
   artist: "sia",

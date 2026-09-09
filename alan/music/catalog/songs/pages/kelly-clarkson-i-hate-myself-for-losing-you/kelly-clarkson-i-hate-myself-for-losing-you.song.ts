@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonIHateMyselfForLosingYou = {
   id: "019ea4ad-6a0b-704c-814b-fab27c523c73",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-i-hate-myself-for-losing-you",
   title: "I Hate Myself for Losing You",
   artist: "kelly-clarkson",

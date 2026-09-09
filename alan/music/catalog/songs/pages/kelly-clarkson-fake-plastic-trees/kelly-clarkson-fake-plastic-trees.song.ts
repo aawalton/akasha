@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonFakePlasticTrees = {
   id: "019ea4af-18d6-7494-af58-8ef556ffdbfa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-fake-plastic-trees",
   title: "Fake Plastic Trees",
   artist: "kelly-clarkson",

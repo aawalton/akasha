@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonSoftlyAndTenderly = {
   id: "019ea4b2-bcfc-73f7-bc12-ae88ab6e7140",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-softly-and-tenderly",
   title: "Softly and Tenderly",
   artist: "kelly-clarkson",

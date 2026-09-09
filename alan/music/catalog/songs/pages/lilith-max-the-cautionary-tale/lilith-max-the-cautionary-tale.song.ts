@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxTheCautionaryTale = {
   id: "019ea4f6-6db4-76e9-8740-488eb312d860",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-the-cautionary-tale",
   title: "The Cautionary Tale",
   artist: "lilith-max",

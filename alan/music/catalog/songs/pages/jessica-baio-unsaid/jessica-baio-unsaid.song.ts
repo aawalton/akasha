@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioUnsaid = {
   id: "019ea4f9-0a1f-7dd1-8f66-e1e8bb94b031",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-unsaid",
   title: "unsaid",
   artist: "jessica-baio",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiLetMyLoveOpenTheDoor = {
   id: "019f0ea8-4571-7ffe-932d-7af6d35b962a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-let-my-love-open-the-door",
   title: "Let My Love Open the Door",
   artist: "mitski",

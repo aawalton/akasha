@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiAsGoodAsItGets = {
   id: "019f0ea8-a82f-7cae-8291-1d1ea1cf04d5",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-as-good-as-it-gets",
   title: "As Good as It Gets",
   artist: "mitski",

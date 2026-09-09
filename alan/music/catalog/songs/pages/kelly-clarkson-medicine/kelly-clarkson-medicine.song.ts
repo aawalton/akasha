@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonMedicine = {
   id: "019ea4ad-9ddd-7206-8000-d9694dd0b323",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-medicine",
   title: "Medicine",
   artist: "kelly-clarkson",

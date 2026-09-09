@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxInMemory = {
   id: "019ea4f6-0adb-70e8-9c72-c798b42637eb",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-in-memory",
   title: "In Memory",
   artist: "lilith-max",

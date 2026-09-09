@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonReadyForLove = {
   id: "019ea4c1-73ca-735a-b974-de43d3e89a83",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-ready-for-love",
   title: "Ready for Love",
   artist: "kelly-clarkson",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonMerryChristmasToTheOneIUsedToKnow = {
   id: "019ea4b0-e47d-7774-88b5-ce89e8f7632b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-merry-christmas-to-the-one-i-used-to-know",
   title: "Merry Christmas (to the One I Used to Know)",
   artist: "kelly-clarkson",

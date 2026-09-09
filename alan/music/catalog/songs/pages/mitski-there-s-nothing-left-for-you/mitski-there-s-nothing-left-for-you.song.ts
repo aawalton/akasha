@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiThereSNothingLeftForYou = {
   id: "019f0ea4-b0bb-7215-8e55-3c94a85fecaf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-there-s-nothing-left-for-you",
   title: "There’s Nothing Left for You",
   artist: "mitski",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxCallDownTheDragon = {
   id: "019ea4f5-a1ce-7a2b-a95a-3b855db848e9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-call-down-the-dragon",
   title: "Call Down the Dragon",
   artist: "lilith-max",

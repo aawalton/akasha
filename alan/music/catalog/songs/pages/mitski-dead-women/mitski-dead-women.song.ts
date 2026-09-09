@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiDeadWomen = {
   id: "019f0ea4-e5d2-7760-b243-207a87beffdb",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-dead-women",
   title: "Dead Women",
   artist: "mitski",

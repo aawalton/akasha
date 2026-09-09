@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBeautifulThingsCanHappen = {
   id: "019ea4c3-9e4b-7b70-a031-7975262fa052",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-beautiful-things-can-happen",
   title: "Beautiful Things Can Happen",
   artist: "sia",

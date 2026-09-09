@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioWhatAreYouAfraidOf = {
   id: "019ea4f9-18eb-700f-875a-063522c51e76",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-what-are-you-afraid-of",
   title: "what are you afraid of?",
   artist: "jessica-baio",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonHappierThanEver = {
   id: "019ea4aa-e95d-7446-9457-2ab561c8d01d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
   artist: "kelly-clarkson",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiBecauseDreamingCostsMoneyMyDear = {
   id: "019f0ea5-aca0-7643-9edd-758bd5385da3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-because-dreaming-costs-money-my-dear",
   title: "Because Dreaming Costs Money, My Dear",
   artist: "mitski",

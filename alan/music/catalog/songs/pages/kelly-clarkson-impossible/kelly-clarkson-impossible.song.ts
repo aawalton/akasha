@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonImpossible = {
   id: "019ea4ae-721e-7a1c-b9a3-2cf2e33ec96e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-impossible",
   title: "Impossible",
   artist: "kelly-clarkson",

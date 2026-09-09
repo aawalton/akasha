@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBornYesterday = {
   id: "019ea4c2-ea8f-7b3d-9c81-67c004965fb1",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-born-yesterday",
   title: "Born Yesterday",
   artist: "sia",

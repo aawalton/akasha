@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxAtlas = {
   id: "019ea4f5-4ae7-7ed7-a1fe-60d0197aa178",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-atlas",
   title: "Atlas",
   artist: "lilith-max",

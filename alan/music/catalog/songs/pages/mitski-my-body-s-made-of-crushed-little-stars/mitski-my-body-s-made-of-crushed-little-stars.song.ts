@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiMyBodySMadeOfCrushedLittleStars = {
   id: "019f0ea3-9824-71f3-bbe0-76041264f4ae",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-my-body-s-made-of-crushed-little-stars",
   title: "My Body’s Made of Crushed Little Stars",
   artist: "mitski",

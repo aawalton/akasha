@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxBearsWolves = {
   id: "019ea4f5-52c1-7082-a9e2-123eb8b483d9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
   artist: "lilith-max",

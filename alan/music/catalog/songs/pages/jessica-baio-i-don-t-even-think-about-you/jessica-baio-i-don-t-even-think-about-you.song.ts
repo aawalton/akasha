@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioIDonTEvenThinkAboutYou = {
   id: "019ea4f7-caea-7461-8cde-e6e16181acdf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-i-don-t-even-think-about-you",
   title: "I Don't Even Think About You",
   artist: "jessica-baio",

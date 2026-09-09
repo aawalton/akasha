@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonLoveOnTheBrain = {
   id: "019ea4ae-61d7-76c0-8c0a-e8793d1762a3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-love-on-the-brain",
   title: "Love on the Brain",
   artist: "kelly-clarkson",

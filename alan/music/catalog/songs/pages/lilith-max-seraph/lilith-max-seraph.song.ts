@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxSeraph = {
   id: "019ea4f6-39f5-716c-a1d6-0d3dff2dfeee",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-seraph",
   title: "Seraph",
   artist: "lilith-max",

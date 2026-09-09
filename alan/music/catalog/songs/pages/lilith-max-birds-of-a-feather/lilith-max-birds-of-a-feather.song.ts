@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxBirdsOfAFeather = {
   id: "019ea4f5-7b25-7710-9127-8c68f77d253c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-birds-of-a-feather",
   title: "Birds of a Feather",
   artist: "lilith-max",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonIrvineChivas = {
   id: "019ea4b0-f7cc-7d1a-a426-7f654b37a55f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-irvine-chivas",
   title: "Irvine / Chivas",
   artist: "kelly-clarkson",

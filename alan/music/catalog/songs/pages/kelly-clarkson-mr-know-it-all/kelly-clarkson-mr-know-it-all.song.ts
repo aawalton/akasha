@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonMrKnowItAll = {
   id: "019ea4ae-d4df-7b25-968d-11b1e5461fc0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-mr-know-it-all",
   title: "Mr. Know It All",
   artist: "kelly-clarkson",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxStillWithMe = {
   id: "019ea4f6-5e9b-78ab-8519-e8e0ab283e25",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
   artist: "lilith-max",

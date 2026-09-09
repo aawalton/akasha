@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiDanTheDancer = {
   id: "019f0ea7-ef8d-7214-8ca0-bcbccf136756",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-dan-the-dancer",
   title: "Dan the Dancer",
   artist: "mitski",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonAllIAskOfYou = {
   id: "019ea4ae-c6d4-7fa7-9df8-20b4900fa7fd",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-all-i-ask-of-you",
   title: "All I Ask of You",
   artist: "kelly-clarkson",

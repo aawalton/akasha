@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiTheDeal = {
   id: "019f0e9c-b750-7ce5-8443-6acbe0dce022",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-the-deal",
   title: "The Deal",
   artist: "mitski",

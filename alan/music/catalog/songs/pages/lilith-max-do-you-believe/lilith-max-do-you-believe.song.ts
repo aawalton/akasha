@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxDoYouBelieve = {
   id: "019ea4f5-faa4-7b7c-8c40-7f260a87a648",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-do-you-believe",
   title: "Do You Believe",
   artist: "lilith-max",

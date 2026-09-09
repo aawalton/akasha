@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonOComeOComeEmmanuel = {
   id: "019ea4b1-4f76-77f9-b8ca-c2984aab8989",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-o-come-o-come-emmanuel",
   title: "O Come, O Come, Emmanuel",
   artist: "kelly-clarkson",

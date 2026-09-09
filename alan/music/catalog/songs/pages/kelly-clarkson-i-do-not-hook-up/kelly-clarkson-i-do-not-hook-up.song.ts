@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonIDoNotHookUp = {
   id: "019ea4ad-3c8b-72d3-905d-9666ee461fd3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-i-do-not-hook-up",
   title: "I Do Not Hook Up",
   artist: "kelly-clarkson",

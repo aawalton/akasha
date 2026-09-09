@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiPinkInTheNight = {
   id: "019f0e9f-70ed-7c63-806a-90e4d5fdb357",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-pink-in-the-night",
   title: "Pink in the Night",
   artist: "mitski",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonJustForNow = {
   id: "019ea4ac-e79d-7071-92a1-35830f572f3b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-just-for-now",
   title: "Just for Now",
   artist: "kelly-clarkson",

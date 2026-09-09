@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDeathByChocolate = {
   id: "019ea4c6-632a-7a7a-a7e8-213906ba96cf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-death-by-chocolate",
   title: "Death by Chocolate",
   artist: "sia",

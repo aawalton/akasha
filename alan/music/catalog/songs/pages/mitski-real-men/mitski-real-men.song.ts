@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiRealMen = {
   id: "019f0ea6-7b4b-79aa-a425-433edaf9912e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-real-men",
   title: "Real Men",
   artist: "mitski",

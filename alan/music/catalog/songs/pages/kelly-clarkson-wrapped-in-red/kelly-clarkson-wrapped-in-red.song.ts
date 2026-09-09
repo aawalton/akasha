@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonWrappedInRed = {
   id: "019ea4c1-58f8-7297-b214-cc04b2e9e61d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-wrapped-in-red",
   title: "Wrapped in Red",
   artist: "kelly-clarkson",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaCrushMeWithYourLove = {
   id: "019ea4c4-bf45-779e-95fa-ac530395cdaa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-crush-me-with-your-love",
   title: "Crush Me With Your Love",
   artist: "sia",

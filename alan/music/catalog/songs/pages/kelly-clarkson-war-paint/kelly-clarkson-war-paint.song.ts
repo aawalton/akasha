@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonWarPaint = {
   id: "019ea4b1-a055-7184-909c-871089be40c4",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-war-paint",
   title: "War Paint",
   artist: "kelly-clarkson",

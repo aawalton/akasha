@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonBabyItSColdOutside = {
   id: "019ea4ae-79c9-70b6-8443-ea0c551aa3a8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-baby-it-s-cold-outside",
   title: "Baby, It’s Cold Outside",
   artist: "kelly-clarkson",

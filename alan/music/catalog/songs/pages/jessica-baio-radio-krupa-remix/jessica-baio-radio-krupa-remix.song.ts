@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioRadioKrupaRemix = {
   id: "019ea4f8-a4d3-71f9-865d-cca02fead284",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-radio-krupa-remix",
   title: "Radio (Krupa remix)",
   artist: "jessica-baio",

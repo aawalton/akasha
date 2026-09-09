@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonKeepingScore = {
   id: "019ea4af-c931-77e6-b919-eabc62d7c96c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-keeping-score",
   title: "Keeping Score",
   artist: "kelly-clarkson",

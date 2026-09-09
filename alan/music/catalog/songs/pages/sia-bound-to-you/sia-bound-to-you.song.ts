@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBoundToYou = {
   id: "019ea4c3-a508-7765-a256-27a5e97c3ae3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-bound-to-you",
   title: "Bound to You",
   artist: "sia",

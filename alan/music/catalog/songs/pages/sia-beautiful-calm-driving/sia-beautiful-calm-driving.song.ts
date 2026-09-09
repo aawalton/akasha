@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBeautifulCalmDriving = {
   id: "019ea4c4-cec4-7484-b8d7-fbdd18f1331f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-beautiful-calm-driving",
   title: "Beautiful Calm Driving",
   artist: "sia",

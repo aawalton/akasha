@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonItSBeginningToLookALotLikeChristmas = {
   id: "019ea4b1-276c-7450-8576-e5fe72172ac6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-it-s-beginning-to-look-a-lot-like-christmas",
   title: "It’s Beginning to Look a Lot Like Christmas",
   artist: "kelly-clarkson",

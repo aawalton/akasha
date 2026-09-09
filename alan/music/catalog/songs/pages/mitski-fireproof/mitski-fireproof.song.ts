@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiFireproof = {
   id: "019f0ea8-6914-7acc-809e-d6631c32438d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-fireproof",
   title: "Fireproof",
   artist: "mitski",

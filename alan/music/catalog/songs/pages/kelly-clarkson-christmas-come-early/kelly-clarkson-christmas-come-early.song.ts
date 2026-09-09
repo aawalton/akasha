@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonChristmasComeEarly = {
   id: "019ea4af-10fa-7f31-a20f-7856960ea643",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-christmas-come-early",
   title: "Christmas Come Early",
   artist: "kelly-clarkson",

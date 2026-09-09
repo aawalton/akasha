@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonTheDayWeFellApart = {
   id: "019ea4b1-e24e-799b-b76d-037b9e67261b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-the-day-we-fell-apart",
   title: "The Day We Fell Apart",
   artist: "kelly-clarkson",

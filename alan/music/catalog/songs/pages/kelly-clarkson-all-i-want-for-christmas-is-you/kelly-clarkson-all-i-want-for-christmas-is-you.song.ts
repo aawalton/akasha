@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonAllIWantForChristmasIsYou = {
   id: "019ea4b0-3a6a-7739-929c-bcd8ecbc0745",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you",
   title: "All I Want for Christmas Is You",
   artist: "kelly-clarkson",

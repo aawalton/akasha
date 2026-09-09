@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDeerInHeadlights = {
   id: "019ea4c4-7911-7561-9816-12e0c9443493",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-deer-in-headlights",
   title: "Deer in Headlights",
   artist: "sia",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonBehindTheseHazelEyes = {
   id: "019ea4af-bfe7-78e6-ba4e-a6cd0396b392",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-behind-these-hazel-eyes",
   title: "Behind These Hazel Eyes",
   artist: "kelly-clarkson",

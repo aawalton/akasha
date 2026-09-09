@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiOnceMoreToSeeYou = {
   id: "019f0e9e-f905-7510-9bb9-56095c493f66",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-once-more-to-see-you",
   title: "Once More to See You",
   artist: "mitski",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiIBetOnLosingDogs = {
   id: "019f0ea7-d3d6-7446-a0c5-c1311ff30b05",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-i-bet-on-losing-dogs",
   title: "I Bet on Losing Dogs",
   artist: "mitski",

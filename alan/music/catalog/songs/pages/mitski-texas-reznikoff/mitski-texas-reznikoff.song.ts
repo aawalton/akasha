@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiTexasReznikoff = {
   id: "019f0e9e-be0d-727c-b4ad-e634cc8bd49f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-texas-reznikoff",
   title: "Texas Reznikoff",
   artist: "mitski",

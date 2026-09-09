@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiFirstLoveLateSpring = {
   id: "019f0ea3-6500-7774-a1f1-561b0dcc4381",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-first-love-late-spring",
   title: "First Love / Late Spring",
   artist: "mitski",

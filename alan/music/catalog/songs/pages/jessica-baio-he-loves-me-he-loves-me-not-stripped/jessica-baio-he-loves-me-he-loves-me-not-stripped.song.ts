@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   id: "019ea4f7-b9d2-77bd-b1df-55bcff8e0e07",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-he-loves-me-he-loves-me-not-stripped",
   title: "he loves me, he loves me not (stripped)",
   artist: "jessica-baio",

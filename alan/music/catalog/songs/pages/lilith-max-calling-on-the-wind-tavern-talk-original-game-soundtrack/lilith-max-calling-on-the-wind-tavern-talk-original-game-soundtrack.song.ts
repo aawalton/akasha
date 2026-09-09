@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxCallingOnTheWindTavernTalkOriginalGameSoundtrack = {
   id: "019ea4f5-ad97-7807-bd59-8427b29382c8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-calling-on-the-wind-tavern-talk-original-game-soundtrack",
   title: "Calling on the Wind (Tavern Talk Original Game Soundtrack)",
   artist: "lilith-max",

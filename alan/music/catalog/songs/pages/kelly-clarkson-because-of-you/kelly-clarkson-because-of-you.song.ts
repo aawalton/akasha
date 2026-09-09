@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonBecauseOfYou = {
   id: "019ea4b0-629d-7d14-875b-8b92824532b7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-because-of-you",
   title: "Because of You",
   artist: "kelly-clarkson",

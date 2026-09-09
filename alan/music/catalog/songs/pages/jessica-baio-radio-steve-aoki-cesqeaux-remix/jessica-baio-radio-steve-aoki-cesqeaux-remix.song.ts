@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const jessicaBaioRadioSteveAokiCesqeauxRemix = {
   id: "019ea4f8-ad22-7394-a20f-3bfea331a205",
   pageTypeSlug: "song",
+  type: "song",
   slug: "jessica-baio-radio-steve-aoki-cesqeaux-remix",
   title: "Radio (Steve Aoki & Cesqeaux remix)",
   artist: "jessica-baio",

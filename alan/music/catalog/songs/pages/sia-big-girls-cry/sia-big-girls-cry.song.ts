@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBigGirlsCry = {
   id: "019ea4c3-253d-71c5-80c3-406c878b1089",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-big-girls-cry",
   title: "Big Girls Cry",
   artist: "sia",

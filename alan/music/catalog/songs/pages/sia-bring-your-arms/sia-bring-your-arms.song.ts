@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaBringYourArms = {
   id: "019ea4c3-bd7b-703d-bbcc-f157531641ed",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-bring-your-arms",
   title: "Bring Your Arms",
   artist: "sia",

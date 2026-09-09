@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonUnderneathTheTree = {
   id: "019ea4c1-8bc5-7063-bf28-01431d7e0856",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-underneath-the-tree",
   title: "Underneath the Tree",
   artist: "kelly-clarkson",

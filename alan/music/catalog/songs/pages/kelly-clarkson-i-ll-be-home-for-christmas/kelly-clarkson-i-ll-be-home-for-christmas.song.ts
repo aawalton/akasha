@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonILlBeHomeForChristmas = {
   id: "019ea4ad-1cc7-772b-931c-5ffca5c35710",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-i-ll-be-home-for-christmas",
   title: "I’ll Be Home for Christmas",
   artist: "kelly-clarkson",

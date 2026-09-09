@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaAsrepOnosim = {
   id: "019ea4c4-8447-7538-9dd8-67321e80f85e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-asrep-onosim",
   title: "Asrep onosim",
   artist: "sia",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiAHorseNamedColdAir = {
   id: "019f0ea7-3288-7fb6-b83b-caf87d9636a8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-a-horse-named-cold-air",
   title: "A Horse Named Cold Air",
   artist: "mitski",

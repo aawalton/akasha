@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonHaveYourselfAMerryLittleChristmas = {
   id: "019ea4ad-6376-7559-8d2d-15ab69788c1a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
   artist: "kelly-clarkson",

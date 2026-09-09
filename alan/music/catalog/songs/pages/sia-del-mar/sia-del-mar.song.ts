@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const siaDelMar = {
   id: "019ea4c3-5605-78cd-a751-041d186d0b13",
   pageTypeSlug: "song",
+  type: "song",
   slug: "sia-del-mar",
   title: "Del mar",
   artist: "sia",

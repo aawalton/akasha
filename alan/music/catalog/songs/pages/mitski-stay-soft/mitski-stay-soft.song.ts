@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiStaySoft = {
   id: "019f0e9e-80ae-7705-98e2-e2e8d6ed9ad2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-stay-soft",
   title: "Stay Soft",
   artist: "mitski",

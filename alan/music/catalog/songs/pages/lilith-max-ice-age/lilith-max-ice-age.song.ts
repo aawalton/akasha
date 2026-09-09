@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const lilithMaxIceAge = {
   id: "019ea4f6-0344-7634-b340-d05b2231ae6f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "lilith-max-ice-age",
   title: "Ice Age",
   artist: "lilith-max",

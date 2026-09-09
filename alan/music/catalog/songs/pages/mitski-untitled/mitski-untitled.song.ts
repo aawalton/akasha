@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const mitskiUntitled = {
   id: "019f0ea8-e5a9-7822-8e40-159532478020",
   pageTypeSlug: "song",
+  type: "song",
   slug: "mitski-untitled",
   title: "グライド",
   artist: "mitski",

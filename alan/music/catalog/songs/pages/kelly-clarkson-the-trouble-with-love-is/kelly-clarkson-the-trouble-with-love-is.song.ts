@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonTheTroubleWithLoveIs = {
   id: "019ea4b2-d77c-7669-b475-adaee4ef5312",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-the-trouble-with-love-is",
   title: "The Trouble With Love Is",
   artist: "kelly-clarkson",

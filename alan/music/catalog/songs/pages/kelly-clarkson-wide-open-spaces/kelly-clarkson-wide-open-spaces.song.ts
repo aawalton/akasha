@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const kellyClarksonWideOpenSpaces = {
   id: "019ea4b2-2b4b-7f95-bc30-c9d3f5b39e60",
   pageTypeSlug: "song",
+  type: "song",
   slug: "kelly-clarkson-wide-open-spaces",
   title: "Wide Open Spaces",
   artist: "kelly-clarkson",
