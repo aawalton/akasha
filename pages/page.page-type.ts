@@ -1,6 +1,7 @@
 import type { Cover } from "./properties/cover.text-property.ts"
 import type { Description } from "./properties/description.text-property.ts"
 import type { Id } from "./properties/id.text-property.ts"
+import type { PagePageType } from "./properties/page-page-type.relation-property.ts"
 import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
 import type { Slug } from "./properties/slug.text-property.ts"
 import type { Title } from "./properties/title.text-property.ts"
@@ -9,6 +10,7 @@ import type { PageType } from "./types/page-type.page-type.ts"
 export type Page = {
   id: Id
   pageTypeSlug: PageTypeSlug
+  type?: PagePageType
   slug: Slug
   title?: Title
   description?: Description
@@ -24,13 +26,15 @@ export const page = {
   extends: [],
   properties: [
     { pagePropertySlug: "text-property/id", required: true, many: false },
-    { pagePropertySlug: "relation-property/page-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/page-type-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/page-page-type", required: false, many: false },
     { pagePropertySlug: "text-property/slug", required: true, many: false },
     { pagePropertySlug: "text-property/title", required: false, many: false },
     { pagePropertySlug: "text-property/description", required: false, many: false },
     { pagePropertySlug: "text-property/cover", required: false, many: false },
   ],
   partSlugs: [
+    "relation-property/page-page-type",
     "relation-property/page-type-slug",
     "text-property/cover",
     "text-property/description",
