@@ -1,8 +1,11 @@
 import { reaches } from "@akasha/indexes/reaching"
-import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import {
+  readFor,
+  singleIn,
+  targetsIn,
+} from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PROPERTY_VALUE = "change-mechanical-file-content/add-property-value"
@@ -20,15 +23,6 @@ export type AddPropertyValueAsked = {
   readonly key: string
   readonly value: string
   readonly after?: string
-}
-
-function singleIn(world: World, value: Value, key: string): boolean {
-  const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
-  if (stated === null) return false
-  const carried = world.index.propertiesIfNamed(slugOf(stated))
-  if (carried === null) return false
-  const one = carried.find((each) => each.key === key)
-  return one !== undefined && !one.many
 }
 
 export async function addPropertyValue(

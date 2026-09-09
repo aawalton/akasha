@@ -8,7 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
-import { namersIn, pageIn, readFor, targetsIn } from "./page-knowing.module.code.ts"
+import { namersIn, pageIn, readFor, singleIn, targetsIn } from "./page-knowing.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -72,4 +72,20 @@ test("the pages naming a path under one property are answered", () => {
 
 test("a property no page names the path under answers no page", () => {
   expect(namersIn(worldIn(), HELD_PAGE, "definition")).toEqual([])
+})
+
+test("a key the page's type holds one value under is single", () => {
+  const world = worldIn()
+  const read = readFor(world, HELD_PAGE)
+  if ("refused" in read) throw new Error(read.refused)
+
+  expect(singleIn(world, read.value, "code")).toBe(true)
+})
+
+test("a key the page's type names under no property holds many values", () => {
+  const world = worldIn()
+  const read = readFor(world, HELD_PAGE)
+  if ("refused" in read) throw new Error(read.refused)
+
+  expect(singleIn(world, read.value, "namedByNoProperty")).toBe(false)
 })

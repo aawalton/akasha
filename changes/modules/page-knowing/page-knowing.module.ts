@@ -51,6 +51,14 @@ export const pageKnowing = {
       statement: "A key reaching no property names no page.",
     },
     {
+      invariantKind: "departure",
+      statement: "Whether a key holds one value is read from the type the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key the page's type names under no property holds many values.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out a body.",
     },

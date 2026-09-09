@@ -1,7 +1,7 @@
 import type { Named } from "@akasha/indexes"
 import { eachTarget, type Shaped } from "@akasha/indexes/reaching"
 import { partedIn } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
+import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
 import type { World } from "../shadow/change-shadow.module.code.ts"
 
 export type Read = { readonly known: Shaped; readonly value: Value } | { readonly refused: string }
@@ -49,4 +49,13 @@ export function readFor(world: World, at: string): Read {
   }
   if (value === null) return { refused: `\`${at}\` names no page` }
   return { known: held.known, value }
+}
+
+export function singleIn(world: World, value: Value, key: string): boolean {
+  const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  if (stated === null) return false
+  const carried = world.index.propertiesIfNamed(slugOf(stated))
+  if (carried === null) return false
+  const one = carried.find((each) => each.key === key)
+  return one !== undefined && !one.many
 }

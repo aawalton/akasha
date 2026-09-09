@@ -17,6 +17,9 @@ export type Changes = {
   "change-agent/add-property-value": Parameters<
     typeof import("../../../agent/file-content/add-property-value/add-property-value.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-property-values": Parameters<
+    typeof import("../../../agent/file-content/add-property-values/add-property-values.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/change-domain-parent": Parameters<
     typeof import("../../../agent/file-content/change-domain-parent/change-domain-parent.change-agent.code.ts")["runChange"]
   >[1]
