@@ -10,7 +10,7 @@ import {
   prometheusPvYaml,
   prometheusRbacYaml,
   prometheusServiceYaml,
-} from "./modules/prometheus-manifests/prometheus-manifests.module.code.ts"
+} from "./modules/manifests/prometheus-manifests.module.code.ts"
 
 export default async function synth(): Promise<
   readonly { readonly name: string; readonly yaml: string }[]

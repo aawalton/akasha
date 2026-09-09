@@ -8,7 +8,7 @@ import {
   PROMETHEUS_LABELS,
   PROMETHEUS_SELECTOR_LABELS,
 } from "../../../prometheus-constants/prometheus-constants.module.code.ts"
-import { PROMETHEUS_YML } from "../prometheus-config/prometheus-config.module.code.ts"
+import { PROMETHEUS_YML } from "../config/prometheus-config.module.code.ts"
 
 const NO_ALERT_RULES = "groups: []\n"
 
