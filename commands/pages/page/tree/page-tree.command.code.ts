@@ -23,8 +23,6 @@ const SUFFIX = "-property"
 
 const TARGET_PAGE_TYPE = "targetPageType"
 
-const WAS_TARGET_PAGE_TYPE = "targetPageTypeSlug"
-
 export interface Row {
   readonly at: string
   readonly values: Readonly<Record<string, string | readonly string[] | null>>
@@ -122,7 +120,7 @@ function baseOf(kind: string): string {
 }
 
 function typeOf(one: Held, said: Declaration): string {
-  const target = slugAt(one.value, TARGET_PAGE_TYPE) ?? slugAt(one.value, WAS_TARGET_PAGE_TYPE)
+  const target = slugAt(one.value, TARGET_PAGE_TYPE)
   const format = slugAt(one.value, "nameFormat")
   const inner =
     target !== null

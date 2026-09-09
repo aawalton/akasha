@@ -15,7 +15,7 @@ test("a target naming its page type is filed as the slug alone", () => {
     pageTypeSlug: "relation-property",
     slug: "page-domain",
     propertySlug: "domain",
-    targetPageTypeSlug: "page-type/domain",
+    targetPageType: "page-type/domain",
   }
 
   expect(schemaIn(value)).toEqual([
@@ -32,7 +32,7 @@ test("a property naming many pages is filed under its slug with the target it na
     pageTypeSlug: "relation-property",
     slug: "part-slugs",
     propertySlug: "part-slugs",
-    targetPageTypeSlug: "page-type/domain",
+    targetPageType: "page-type/domain",
   }
 
   expect(schemaIn(value)).toEqual([

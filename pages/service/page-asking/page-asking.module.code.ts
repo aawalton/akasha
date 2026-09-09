@@ -14,8 +14,6 @@ const PAGE_TYPE = "page-type"
 
 const TARGET_PAGE_TYPE = "targetPageType"
 
-const WAS_TARGET_PAGE_TYPE = "targetPageTypeSlug"
-
 export const TESTS_RUN: readonly string[] = [
   "is",
   "in",
@@ -118,10 +116,6 @@ export function titledAs(propertySlug: string): string {
     .join(" ")
 }
 
-function targetIn(page: Value): string | null {
-  return slugAt(page, TARGET_PAGE_TYPE) ?? slugAt(page, WAS_TARGET_PAGE_TYPE)
-}
-
 export function declaredOf(one: Carried, page: Value | undefined, on: string): Declared {
   return {
     key: one.propertySlug,
@@ -131,7 +125,7 @@ export function declaredOf(one: Carried, page: Value | undefined, on: string): D
     on,
     values: page === undefined ? null : (page["values"] ?? null),
     renderedAs: page === undefined ? null : textAt(page, "renderedAs"),
-    targetSlug: page === undefined ? null : targetIn(page),
+    targetSlug: page === undefined ? null : slugAt(page, TARGET_PAGE_TYPE),
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,
   }

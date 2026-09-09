@@ -146,7 +146,7 @@ test("a property pointing at a page type is drawn as pointing at it", () => {
       [
         {
           path: "one/owner.relation-property.ts",
-          value: { slug: "title", propertySlug: "title", targetPageTypeSlug: "page-type/page" },
+          value: { slug: "title", propertySlug: "title", targetPageType: "page-type/page" },
         },
       ],
     ],
