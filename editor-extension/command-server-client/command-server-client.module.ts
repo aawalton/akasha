@@ -27,20 +27,6 @@ export const commandServerClient = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer naming no age is treated as older than any bound.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A caller naming a lease bound replaces the server's number here rather than tightening that number.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An answer older than the bound is refused here though the server let the answer through.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A server that has not answered within the timeout is killed rather than asked again.",
     },
@@ -52,10 +38,6 @@ export const commandServerClient = {
       invariantKind: "departure",
       statement:
         "An ask refused for a lease or for a gone server is asked once more on a fresh server.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An ask refused as over-lease is not asked again.",
     },
     {
       invariantKind: "departure",

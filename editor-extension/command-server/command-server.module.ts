@@ -114,10 +114,6 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller checks the lease bound a second time against the age an answer carries.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An idle bound reaps a server whose caller stopped asking without closing stdin.",
     },
     {

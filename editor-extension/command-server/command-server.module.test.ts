@@ -10,7 +10,6 @@ import {
   CommandServerRefusal,
   REFUSAL_GONE,
   REFUSAL_LEASE,
-  REFUSAL_OVER_LEASE,
   type Serving,
   servingFrom,
 } from "../command-server-client/command-server-client.module.code.ts"
@@ -33,10 +32,7 @@ function rootWith(color: string): string {
   return at
 }
 
-function clientAt(
-  root: string,
-  more: { readonly leaseBoundMs?: number; readonly serverLeaseMs?: number } = {}
-): Serving {
+function clientAt(root: string, more: { readonly serverLeaseMs?: number } = {}): Serving {
   const client = servingFrom({
     bun: BUN,
     serverFile: SERVER,
@@ -47,7 +43,6 @@ function clientAt(
       ...(more.serverLeaseMs === undefined ? {} : { [LEASE_ENV]: String(more.serverLeaseMs) }),
     },
     startTimeoutMs: 20_000,
-    ...(more.leaseBoundMs === undefined ? {} : { leaseBoundMs: more.leaseBoundMs }),
   })
   STARTED.push(client)
   return client
@@ -138,22 +133,6 @@ describe("the command server where it cannot answer", () => {
     )
     expect(thrown.refused).toBe(true)
     expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_LEASE)
-  }, 60_000)
-
-  test("an answer older than the caller's own bound is refused, not passed on", async () => {
-    const root = rootWith("chartreuse")
-    const client = clientAt(root, { serverLeaseMs: 30_000, leaseBoundMs: 1_000 })
-    const first = await colorSaid(client)
-    expect(first.color).toBe("chartreuse")
-
-    await rested(1_400)
-
-    const thrown = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS).then(
-      (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
-      (err: unknown) => ({ refused: true, saying: err })
-    )
-    expect(thrown.refused).toBe(true)
-    expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_OVER_LEASE)
   }, 60_000)
 })
 

@@ -5,8 +5,6 @@ export const REFUSAL_LEASE = "lease"
 
 export const REFUSAL_GONE = "gone"
 
-export const REFUSAL_OVER_LEASE = "over-lease"
-
 export const REFUSAL_HUNG = "hung"
 
 export const REFUSAL_START = "start"
@@ -29,7 +27,6 @@ export interface ServedAnswer {
   readonly stdout: string
   readonly stderr: string
   readonly code: number
-  readonly ageMs: number
   readonly pid: number
 }
 
@@ -38,7 +35,6 @@ export interface CommandServerAt {
   readonly serverFile: string
   readonly env: NodeJS.ProcessEnv
   readonly startTimeoutMs: number
-  readonly leaseBoundMs?: number
   readonly onNoise?: (text: string) => void
 }
 
@@ -52,7 +48,6 @@ interface Session {
   readonly child: ChildProcess
   readonly protocol: Readable
   readonly waiting: Map<number, Waiting>
-  leaseMs: number
   lost: boolean
 }
 
@@ -102,14 +97,6 @@ export function servingFrom(at: CommandServerAt): Serving {
         refuse(refusalOf(REFUSAL_GONE, `the ask could not be written: ${String(thrown)}`))
       }
     })
-    const bound = at.leaseBoundMs ?? asking.leaseMs
-    if (answer.ageMs > bound) {
-      retire(asking, "SIGTERM")
-      throw refusalOf(
-        REFUSAL_OVER_LEASE,
-        `${command} was answered by a server ${answer.ageMs}ms old, past its bound of ${bound}ms`
-      )
-    }
     return answer
   }
 
@@ -166,7 +153,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         )
         return
       }
-      const fresh: Session = { child, protocol, waiting: new Map(), leaseMs: 0, lost: false }
+      const fresh: Session = { child, protocol, waiting: new Map(), lost: false }
       let settled = false
       const timer = setTimeout(() => {
         if (settled) {
@@ -234,7 +221,6 @@ export function servingFrom(at: CommandServerAt): Serving {
             }
             settled = true
             clearTimeout(timer)
-            fresh.leaseMs = typeof said["leaseMs"] === "number" ? said["leaseMs"] : 0
             ready(fresh)
             continue
           }
@@ -268,7 +254,6 @@ export function servingFrom(at: CommandServerAt): Serving {
       stdout: typeof said["stdout"] === "string" ? said["stdout"] : "",
       stderr: typeof said["stderr"] === "string" ? said["stderr"] : "",
       code: typeof said["code"] === "number" ? said["code"] : 0,
-      ageMs: typeof said["ageMs"] === "number" ? said["ageMs"] : Number.POSITIVE_INFINITY,
       pid: typeof said["pid"] === "number" ? said["pid"] : 0,
     })
     return undefined
