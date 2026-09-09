@@ -66,6 +66,7 @@ export const commandSystem = {
     "module/change-preparing",
     "module/path-moving",
     "module/command-stopping",
+    "performance/landing-throughput",
   ],
   invariants: [
     {

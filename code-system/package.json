@@ -38,6 +38,7 @@
     "./name-series": "./name-series/name-series.module.code.ts",
     "./module/test": "./modules/properties/test.code-file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
+    "./performance": "./performances/performance.page-type.ts",
     "./python-module": "./python-modules/python-module.page-type.ts",
     "./route": "./routes/route.page-type.ts",
     "./router-app/root-route": "./router-apps/properties/root-route.file-property.ts",
