@@ -106,11 +106,11 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries the age of the server composing the answer.",
+      statement: "An answer has the age of the server composing the answer.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries the pid composing the answer.",
+      statement: "An answer has the pid composing the answer.",
     },
     {
       invariantKind: "departure",
