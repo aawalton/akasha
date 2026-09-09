@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0029Chapter28HaleyAndEdward 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0029-chapter-28-haley-and-edward",
   title: "Chapter 28 - Haley and Edward",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 29,
   ownLength: 2659,
   unitSlug: "words",

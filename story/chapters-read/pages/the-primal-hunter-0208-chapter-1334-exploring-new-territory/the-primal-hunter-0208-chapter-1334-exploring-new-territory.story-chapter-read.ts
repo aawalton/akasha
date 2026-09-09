@@ -5,7 +5,7 @@ export const thePrimalHunter0208Chapter1334ExploringNewTerritory = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0208-chapter-1334-exploring-new-territory",
   title: "Chapter 1334 - Exploring New Territory",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 208,
   ownLength: 2824,
   unitSlug: "words",

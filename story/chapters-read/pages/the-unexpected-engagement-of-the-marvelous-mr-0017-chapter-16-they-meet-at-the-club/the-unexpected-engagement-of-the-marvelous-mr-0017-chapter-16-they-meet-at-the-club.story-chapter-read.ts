@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0017Chapter16TheyMeetAtTheCl
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0017-chapter-16-they-meet-at-the-club",
   title: "Chapter 16 - They Meet at the Club",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 17,
   ownLength: 2034,
   unitSlug: "words",

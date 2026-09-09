@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0025Chapter24TheRescue = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0025-chapter-24-the-rescue",
   title: "Chapter 24 - The Rescue",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 25,
   ownLength: 3658,
   unitSlug: "words",

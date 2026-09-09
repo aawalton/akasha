@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0023Chapter94DiversifyingTheB
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0023-chapter-94-diversifying-the-basics-iii",
   title: "Chapter 94 - Diversifying the Basics III",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 23,
   ownLength: 17178,
   unitSlug: "words",

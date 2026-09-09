@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0006Chapter79TheVariousAvenue
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0006-chapter-79-the-various-avenues-of-training",
   title: "Chapter 79 - The Various Avenues of Training",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 6,
   ownLength: 20759,
   unitSlug: "words",

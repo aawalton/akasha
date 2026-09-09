@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0026Chapter25AtTheHospital =
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0026-chapter-25-at-the-hospital",
   title: "Chapter 25 - At the Hospital",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 26,
   ownLength: 1865,
   unitSlug: "words",

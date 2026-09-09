@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0028Chapter99TheLiberationOfL
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0028-chapter-99-the-liberation-of-lonvoron",
   title: "Chapter 99 - The Liberation of Lonvoron",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 28,
   ownLength: 15179,
   unitSlug: "words",

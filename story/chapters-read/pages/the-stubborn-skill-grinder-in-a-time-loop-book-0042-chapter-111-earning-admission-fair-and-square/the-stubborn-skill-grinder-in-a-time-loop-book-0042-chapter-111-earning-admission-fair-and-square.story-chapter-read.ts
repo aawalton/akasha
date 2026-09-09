@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0042Chapter111EarningAdmissio
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0042-chapter-111-earning-admission-fair-and-square",
   title: "Chapter 111 - Earning Admission Fair & Square",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 42,
   ownLength: 11055,
   unitSlug: "words",

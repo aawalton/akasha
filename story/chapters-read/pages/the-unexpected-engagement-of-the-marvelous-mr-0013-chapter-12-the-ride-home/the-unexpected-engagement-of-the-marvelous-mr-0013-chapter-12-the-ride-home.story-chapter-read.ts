@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0013Chapter12TheRideHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0013-chapter-12-the-ride-home",
   title: "Chapter 12 - The Ride Home",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 13,
   ownLength: 2785,
   unitSlug: "words",

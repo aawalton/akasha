@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0022Chapter21Farnham = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0022-chapter-21-farnham",
   title: "Chapter 21 - Farnham",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 22,
   ownLength: 1789,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0027Chapter98PreparingAlastai
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0027-chapter-98-preparing-alastaia",
   title: "Chapter 98 - Preparing Alastaia",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 27,
   ownLength: 13193,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0037Chapter106RecoveryAndANew
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0037-chapter-106-recovery-and-a-new-goal",
   title: "Chapter 106 - Recovery & A New Goal",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 37,
   ownLength: 10028,
   unitSlug: "words",

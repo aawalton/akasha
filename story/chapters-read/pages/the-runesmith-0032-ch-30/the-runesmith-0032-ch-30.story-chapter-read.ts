@@ -5,7 +5,7 @@ export const theRunesmith0032Ch30 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-runesmith-0032-ch-30",
   title: "Ch: 30",
-  storySlug: "the-runesmith",
+  story: "the-runesmith",
   position: 32,
   ownLength: 4994,
   unitSlug: "words",

@@ -6,7 +6,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0015TheStubbornSkillGrinderIn
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0015-the-stubborn-skill-grinder-in-a-time-loop-is",
   title:
     "The Stubborn Skill-Grinder In A Time Loop is available on Kindle, Kindle Unlimited and Audible!",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 15,
   ownLength: 89,
   unitSlug: "words",

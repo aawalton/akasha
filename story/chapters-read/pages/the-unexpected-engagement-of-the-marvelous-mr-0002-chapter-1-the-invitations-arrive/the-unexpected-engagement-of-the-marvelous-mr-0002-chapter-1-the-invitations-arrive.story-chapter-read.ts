@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0002Chapter1TheInvitationsAr
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0002-chapter-1-the-invitations-arrive",
   title: "Chapter 1 - The Invitations Arrive",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 2,
   ownLength: 2179,
   unitSlug: "words",

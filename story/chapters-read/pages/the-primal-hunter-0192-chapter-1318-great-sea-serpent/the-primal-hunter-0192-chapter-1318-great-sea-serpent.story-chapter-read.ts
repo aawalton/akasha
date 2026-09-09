@@ -5,7 +5,7 @@ export const thePrimalHunter0192Chapter1318GreatSeaSerpent = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0192-chapter-1318-great-sea-serpent",
   title: "Chapter 1318 - Great Sea Serpent",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 192,
   ownLength: 2726,
   unitSlug: "words",

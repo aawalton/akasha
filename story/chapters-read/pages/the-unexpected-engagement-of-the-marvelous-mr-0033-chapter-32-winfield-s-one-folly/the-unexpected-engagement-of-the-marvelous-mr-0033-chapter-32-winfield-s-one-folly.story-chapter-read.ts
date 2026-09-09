@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFol
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0033-chapter-32-winfield-s-one-folly",
   title: "Chapter 32 - Winfield's One Folly",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 33,
   ownLength: 1377,
   unitSlug: "words",

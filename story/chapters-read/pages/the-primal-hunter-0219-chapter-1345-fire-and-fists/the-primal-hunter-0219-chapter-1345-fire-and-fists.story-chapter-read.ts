@@ -5,7 +5,7 @@ export const thePrimalHunter0219Chapter1345FireAndFists = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0219-chapter-1345-fire-and-fists",
   title: "Chapter 1345 - Fire & Fists",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 219,
   ownLength: 2801,
   unitSlug: "words",

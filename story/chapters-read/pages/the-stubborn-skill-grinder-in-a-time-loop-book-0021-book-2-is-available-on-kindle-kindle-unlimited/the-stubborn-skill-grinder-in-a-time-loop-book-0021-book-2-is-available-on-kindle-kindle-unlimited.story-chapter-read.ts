@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0021Book2IsAvailableOnKindleK
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0021-book-2-is-available-on-kindle-kindle-unlimited",
   title: "Book 2 is available on Kindle, Kindle Unlimited and Audible!",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 21,
   ownLength: 138,
   unitSlug: "words",

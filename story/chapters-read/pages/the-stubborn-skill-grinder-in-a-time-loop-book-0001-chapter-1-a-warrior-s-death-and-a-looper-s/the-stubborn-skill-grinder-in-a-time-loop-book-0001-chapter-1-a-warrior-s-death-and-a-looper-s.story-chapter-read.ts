@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0001Chapter1AWarriorSDeathAnd
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0001-chapter-1-a-warrior-s-death-and-a-looper-s",
   title: "Chapter 1 - A Warrior's Death And A Looper's Beginning",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 1,
   ownLength: 7917,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0015Chapter14EleanorSStateme
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0015-chapter-14-eleanor-s-statement",
   title: "Chapter 14 - Eleanor's Statement",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 15,
   ownLength: 2174,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0005Chapter4TheEveningAndMor
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0005-chapter-4-the-evening-and-morning-editions",
   title: "Chapter 4 - The Evening and Morning Editions",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 5,
   ownLength: 2442,
   unitSlug: "words",

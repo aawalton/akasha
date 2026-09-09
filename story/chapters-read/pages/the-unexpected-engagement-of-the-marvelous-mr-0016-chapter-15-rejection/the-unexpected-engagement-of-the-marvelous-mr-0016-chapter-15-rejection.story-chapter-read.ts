@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0016Chapter15Rejection = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0016-chapter-15-rejection",
   title: "Chapter 15 - Rejection",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 16,
   ownLength: 2253,
   unitSlug: "words",

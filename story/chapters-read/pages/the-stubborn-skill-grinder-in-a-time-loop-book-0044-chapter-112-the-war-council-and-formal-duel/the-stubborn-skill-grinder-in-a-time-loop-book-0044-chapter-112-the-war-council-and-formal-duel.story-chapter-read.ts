@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAn
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0044-chapter-112-the-war-council-and-formal-duel",
   title: "Chapter 112 - The War Council & Formal Duel",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 44,
   ownLength: 13381,
   unitSlug: "words",

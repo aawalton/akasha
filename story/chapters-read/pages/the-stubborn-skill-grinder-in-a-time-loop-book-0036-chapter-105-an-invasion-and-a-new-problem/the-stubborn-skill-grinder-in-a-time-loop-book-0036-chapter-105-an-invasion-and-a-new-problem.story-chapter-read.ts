@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0036Chapter105AnInvasionAndAN
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0036-chapter-105-an-invasion-and-a-new-problem",
   title: "Chapter 105 - An Invasion & A New Problem",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 36,
   ownLength: 22607,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0031Chapter30HaleyAndMassey 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0031-chapter-30-haley-and-massey",
   title: "Chapter 30 - Haley and Massey",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 31,
   ownLength: 2684,
   unitSlug: "words",

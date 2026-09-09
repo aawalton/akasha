@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0038Chapter107PreparationsFor
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0038-chapter-107-preparations-for-venturing-to-the",
   title: "Chapter 107 - Preparations For Venturing To The Edge",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 38,
   ownLength: 10012,
   unitSlug: "words",

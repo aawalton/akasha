@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0001IntroductionLettersToThe
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0001-introduction-letters-to-the-editor-of-the",
   title: "Introduction - Letters to the Editor of the Quotidian",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 1,
   ownLength: 627,
   unitSlug: "words",

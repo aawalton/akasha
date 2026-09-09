@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0003Chapter2ThePoliceman = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0003-chapter-2-the-policeman",
   title: "Chapter 2 - The Policeman",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 3,
   ownLength: 2279,
   unitSlug: "words",

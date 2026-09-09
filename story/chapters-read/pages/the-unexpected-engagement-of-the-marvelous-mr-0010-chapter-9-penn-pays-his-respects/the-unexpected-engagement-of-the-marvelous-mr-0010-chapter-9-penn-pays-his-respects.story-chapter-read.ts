@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0010Chapter9PennPaysHisRespe
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0010-chapter-9-penn-pays-his-respects",
   title: "Chapter 9 - Penn Pays His Respects",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 10,
   ownLength: 2235,
   unitSlug: "words",

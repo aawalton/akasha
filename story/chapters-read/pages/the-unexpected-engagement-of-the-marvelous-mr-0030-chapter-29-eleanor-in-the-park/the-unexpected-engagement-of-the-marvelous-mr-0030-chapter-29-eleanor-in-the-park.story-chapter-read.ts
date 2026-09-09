@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0030Chapter29EleanorInThePar
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0030-chapter-29-eleanor-in-the-park",
   title: "Chapter 29 - Eleanor in the Park",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 30,
   ownLength: 2818,
   unitSlug: "words",

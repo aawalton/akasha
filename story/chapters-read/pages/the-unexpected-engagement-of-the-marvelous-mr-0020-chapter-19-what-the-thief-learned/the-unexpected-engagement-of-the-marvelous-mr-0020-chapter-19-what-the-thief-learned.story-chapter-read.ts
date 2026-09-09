@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0020Chapter19WhatTheThiefLea
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0020-chapter-19-what-the-thief-learned",
   title: "Chapter 19 - What the Thief Learned",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 20,
   ownLength: 1925,
   unitSlug: "words",

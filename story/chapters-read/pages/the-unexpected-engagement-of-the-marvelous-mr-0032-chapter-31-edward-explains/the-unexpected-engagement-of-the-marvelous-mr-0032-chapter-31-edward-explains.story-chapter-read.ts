@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0032Chapter31EdwardExplains 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0032-chapter-31-edward-explains",
   title: "Chapter 31 - Edward Explains ",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 32,
   ownLength: 615,
   unitSlug: "words",

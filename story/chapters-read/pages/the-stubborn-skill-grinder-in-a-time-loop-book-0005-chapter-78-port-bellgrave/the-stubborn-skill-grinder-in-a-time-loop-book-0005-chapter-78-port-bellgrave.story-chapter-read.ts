@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0005-chapter-78-port-bellgrave",
   title: "Chapter 78 - Port Bellgrave",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 5,
   ownLength: 19090,
   unitSlug: "words",

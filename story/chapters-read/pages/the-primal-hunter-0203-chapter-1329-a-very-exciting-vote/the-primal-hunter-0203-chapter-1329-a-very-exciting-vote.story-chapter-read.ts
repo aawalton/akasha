@@ -5,7 +5,7 @@ export const thePrimalHunter0203Chapter1329AVeryExcitingVote = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0203-chapter-1329-a-very-exciting-vote",
   title: "Chapter 1329 - A Very Exciting Vote",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 203,
   ownLength: 2591,
   unitSlug: "words",

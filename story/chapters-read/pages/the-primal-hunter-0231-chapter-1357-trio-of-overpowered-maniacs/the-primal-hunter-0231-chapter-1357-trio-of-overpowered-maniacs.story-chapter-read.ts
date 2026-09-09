@@ -5,7 +5,7 @@ export const thePrimalHunter0231Chapter1357TrioOfOverpoweredManiacs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0231-chapter-1357-trio-of-overpowered-maniacs",
   title: "Chapter 1357 - Trio of Overpowered Maniacs",
-  storySlug: "story-read/the-primal-hunter",
+  story: "story-read/the-primal-hunter",
   position: 231,
   ownLength: 2817,
   unitSlug: "words",

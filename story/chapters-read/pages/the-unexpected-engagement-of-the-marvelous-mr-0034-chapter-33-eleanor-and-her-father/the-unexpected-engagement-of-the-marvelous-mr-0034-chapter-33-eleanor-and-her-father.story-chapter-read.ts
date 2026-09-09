@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0034Chapter33EleanorAndHerFa
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0034-chapter-33-eleanor-and-her-father",
   title: "Chapter 33 - Eleanor and Her Father",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 34,
   ownLength: 913,
   unitSlug: "words",

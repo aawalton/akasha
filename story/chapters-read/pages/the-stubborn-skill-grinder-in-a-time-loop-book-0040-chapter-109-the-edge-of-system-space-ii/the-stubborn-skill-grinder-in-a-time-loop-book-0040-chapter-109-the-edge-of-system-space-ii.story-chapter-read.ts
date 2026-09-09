@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0040Chapter109TheEdgeOfSystem
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0040-chapter-109-the-edge-of-system-space-ii",
   title: "Chapter 109 - The Edge of System Space II",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 40,
   ownLength: 8613,
   unitSlug: "words",

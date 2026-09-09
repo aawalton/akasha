@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndCon
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0016-chapter-88-peace-quiet-and-consolidation-i",
   title: "Chapter 88 - Peace, Quiet & Consolidation I",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 16,
   ownLength: 8236,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0009Chapter8Preparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0009-chapter-8-preparations",
   title: "Chapter 8 - Preparations ",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 9,
   ownLength: 1400,
   unitSlug: "words",

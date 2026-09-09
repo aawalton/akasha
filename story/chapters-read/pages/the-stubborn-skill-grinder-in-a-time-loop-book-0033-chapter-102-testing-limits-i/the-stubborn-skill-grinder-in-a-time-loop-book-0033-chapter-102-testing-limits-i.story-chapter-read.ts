@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0033Chapter102TestingLimitsI 
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0033-chapter-102-testing-limits-i",
   title: "Chapter 102 - Testing Limits I",
-  storySlug: "the-stubborn-skill-grinder-in-a-time-loop-book",
+  story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 33,
   ownLength: 15250,
   unitSlug: "words",
