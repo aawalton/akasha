@@ -25,6 +25,7 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
 export type Landing = {
   readonly held: Bodies
   readonly moves: readonly FileMove[]
+  readonly formatted: ReadonlyMap<string, Uint8Array>
 }
 
 export function movesIn(said: Said): readonly FileMove[] {
@@ -51,10 +52,12 @@ export function bodiesFrom(root: string, said: Said): Landing | { readonly why: 
   if ("refused" in after) return { why: after.refused }
   const owed = owingIn(said)
   const held = new Map<string, Body>()
+  const formatted = new Map<string, Uint8Array>()
   for (const [path, body] of after) {
     if (moved.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
     const done = body === null ? null : formattedBody(root, path, BYTES.encode(body))
+    if (done !== null) formatted.set(path, done.body)
     const owes = owed.get(path)
     held.set(path, {
       was: bytesOf(reads(path)),
@@ -62,5 +65,5 @@ export function bodiesFrom(root: string, said: Said): Landing | { readonly why: 
       ...(owes === undefined ? {} : { readersOweReading: owes }),
     })
   }
-  return { held, moves }
+  return { held, moves, formatted }
 }

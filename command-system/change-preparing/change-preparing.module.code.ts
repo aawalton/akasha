@@ -16,11 +16,25 @@ export type Formatting = {
   readonly formatted: readonly string[]
 }
 
-export function formattingIn(root: string, changes: readonly FileEdit[]): Formatting {
+function sameAs(one: Uint8Array, other: Uint8Array): boolean {
+  if (one.byteLength !== other.byteLength) return false
+  return one.every((byte, at) => byte === other[at])
+}
+
+export function formattingIn(
+  root: string,
+  changes: readonly FileEdit[],
+  already: ReadonlyMap<string, Uint8Array> = new Map()
+): Formatting {
   const held: FileEdit[] = []
   const formatted: string[] = []
   for (const one of changes) {
     if (one.body === null) {
+      held.push(one)
+      continue
+    }
+    const was = already.get(one.path)
+    if (was !== undefined && sameAs(was, one.body)) {
       held.push(one)
       continue
     }
@@ -55,9 +69,10 @@ export function preparing(
   root: string,
   base: string,
   changes: readonly FileEdit[],
-  moves: readonly FileMove[] = []
+  moves: readonly FileMove[] = [],
+  already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Prepared | Refused {
-  const formatting = formattingIn(root, changes)
+  const formatting = formattingIn(root, changes, already)
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return { refusals: unexportable }
   const locking = lockingFor(root, base, formatting.changes, moves)

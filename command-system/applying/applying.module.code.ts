@@ -179,6 +179,7 @@ export type Carried = {
   readonly held: Bodies
   readonly running: Running
   readonly moves?: readonly FileMove[]
+  readonly formatted?: ReadonlyMap<string, Uint8Array>
 }
 
 export type Applied = {
@@ -253,7 +254,7 @@ export async function applied(
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
-  const prepared = preparing(root, head, editsOf(said.held), moving)
+  const prepared = preparing(root, head, editsOf(said.held), moving, holding.formatted)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)

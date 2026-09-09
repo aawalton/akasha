@@ -19,6 +19,10 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "What the formatter left for each path is handed on beside the bodies.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path the answer carries away is handed on as no body.",
     },
     {

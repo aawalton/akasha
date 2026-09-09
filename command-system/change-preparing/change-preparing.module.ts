@@ -15,6 +15,14 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "A body handed in as the fold already formatted it is not formatted again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that moved since the fold formatted it is formatted again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body of any other kind reaches the gate as the caller handed the body in.",
     },
     {
