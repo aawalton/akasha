@@ -6,7 +6,7 @@ export const containerImage = {
   slug: "container-image",
   definition: "a built copy of everything a program needs to run",
   parts: [
-    "workspace-package/dockerfiles",
+    "domain/dockerfiles",
     "container-recipe/postgres-cnpg-image",
     "manifest/buildkit",
     "manifest/buildkit-prune",

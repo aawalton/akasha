@@ -88,6 +88,7 @@
         "@akasha/upscale": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/wan": "workspace:*",
+        "@akasha/workspace-paths": "workspace:*",
         "@akasha/zimage": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -532,15 +533,12 @@
       "name": "@akasha/checks",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/dockerfiles": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "typescript": "5.9.3",
         "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
-        "yaml": "^2.8.1",
-        "zod": "^4.3.6",
       },
     },
     "code-system": {
@@ -942,14 +940,6 @@
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/talos": "workspace:*",
-      },
-    },
-    "infrastructure/dockerfiles": {
-      "name": "@akasha/dockerfiles",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "infrastructure/storage/object-store": {
@@ -2571,8 +2561,6 @@
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:design/primitives"],
 
     "@akasha/design-system": ["@akasha/design-system@workspace:design/system"],
-
-    "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:infrastructure/dockerfiles"],
 
     "@akasha/domains": ["@akasha/domains@workspace:domains"],
 
