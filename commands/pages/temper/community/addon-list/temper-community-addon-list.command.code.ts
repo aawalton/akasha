@@ -6,7 +6,7 @@ import {
 import { fetchCatalog } from "akasha/temper/community-addons/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { saidBy as messageOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

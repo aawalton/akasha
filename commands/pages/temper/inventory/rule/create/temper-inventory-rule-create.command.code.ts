@@ -13,13 +13,13 @@ import {
   TITLE,
   toldOf,
   webIn,
-} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
   parseConditionsJson,
-} from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "../../../../../../temper/commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 

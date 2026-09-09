@@ -10,12 +10,12 @@ import {
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import { esoDocPathForLuaRoot } from "../../../../../../temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
-import { extractColonMethodNames } from "../../../../../../temper/temper-commands/eso-colon-methods/eso-colon-methods.module.code.ts"
+import { extractColonMethodNames } from "../../../../../../temper/commands/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {
   saidFor,
   saidShort,
   stagingAt,
-} from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 

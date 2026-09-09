@@ -17,8 +17,8 @@ import {
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils/run/running"
-import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
-import { inNameOrder } from "../../../../../temper/temper-commands/name-ordering/name-ordering.module.code.ts"
+import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { inNameOrder } from "../../../../../temper/commands/name-ordering/name-ordering.module.code.ts"
 
 const SAID_WRONG = 1
 const DATA = 2

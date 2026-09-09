@@ -13,7 +13,7 @@ import { collectGlobalWritesFromSource } from "../../../../../temper/build-deplo
 import {
   namesIn,
   valuesOf,
-} from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+} from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 

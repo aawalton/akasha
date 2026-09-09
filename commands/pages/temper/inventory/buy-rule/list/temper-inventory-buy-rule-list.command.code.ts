@@ -11,11 +11,11 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   latestSnapshot,
   snapshotDatabase,
-} from "../../../../../../temper/temper-commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+} from "../../../../../../temper/commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-list"

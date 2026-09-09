@@ -11,7 +11,7 @@ import type {
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
-import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
   classifyItem,
@@ -22,7 +22,7 @@ import {
   planChecklist,
   planInputs,
   ruleMatcher,
-} from "../../../../../temper/temper-commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+} from "../../../../../temper/commands/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

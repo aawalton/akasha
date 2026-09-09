@@ -13,7 +13,7 @@ import {
 } from "@akasha/temper-addons-resolve/distributable-set"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { type Zippable, zipSync } from "fflate"
-import { valuesOf } from "../../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

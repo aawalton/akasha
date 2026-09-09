@@ -16,14 +16,14 @@ import type {
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
   type ExplainCapabilities,
   explainCapabilities,
   type ResolvedInventoryItem,
   resolveItemFromInventory,
-} from "../../../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
+} from "../../../../../temper/commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

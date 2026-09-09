@@ -5,7 +5,7 @@ import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-pa
 import {
   saidFor,
   saidShort,
-} from "../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 

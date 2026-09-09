@@ -7,11 +7,11 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
-} from "../../../../../../temper/temper-commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+} from "../../../../../../temper/commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-list"

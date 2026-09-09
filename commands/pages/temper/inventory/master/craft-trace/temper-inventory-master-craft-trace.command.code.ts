@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { readMasterCraftTraces } from "../../../../../../temper/temper-commands/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
+import { readMasterCraftTraces } from "../../../../../../temper/commands/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"
 import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"

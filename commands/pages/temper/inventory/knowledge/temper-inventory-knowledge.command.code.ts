@@ -4,7 +4,7 @@ import { STYLE_TO_CHAPTERS } from "akasha/temper/temper-items-core/motif-chapter
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
-} from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+} from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

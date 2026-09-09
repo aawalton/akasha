@@ -5,7 +5,7 @@ import {
   type JsonOutput,
   type RuleTraceRow,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
-import { readLastExplain } from "../../../../../temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts"
+import { readLastExplain } from "../../../../../temper/commands/explain-replay-reading/explain-replay-reading.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

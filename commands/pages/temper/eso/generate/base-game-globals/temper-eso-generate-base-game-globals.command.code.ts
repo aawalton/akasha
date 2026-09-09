@@ -13,12 +13,12 @@ import { esoDocPathForLuaRoot } from "../../../../../../temper/build-deploy-chec
 import {
   extractGlobalNames,
   extractStringIdNames,
-} from "../../../../../../temper/temper-commands/eso-base-game-globals/eso-base-game-globals.module.code.ts"
+} from "../../../../../../temper/commands/eso-base-game-globals/eso-base-game-globals.module.code.ts"
 import {
   saidFor,
   saidShort,
   stagingAt,
-} from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 

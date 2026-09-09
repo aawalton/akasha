@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { manifestFor } from "../../../../../temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { temperAddonList } from "./temper-addon-list.command.code.ts"
 
 const scratch = scratchWorld()

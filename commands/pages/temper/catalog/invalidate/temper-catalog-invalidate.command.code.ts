@@ -7,7 +7,7 @@ import {
   serializeSideFile,
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
 import { CATALOG_DOMAIN_KEYS } from "../../../../../temper/catalog-core/domain-keys/domain-keys.module.code.ts"
-import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { saidBy as messageOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"

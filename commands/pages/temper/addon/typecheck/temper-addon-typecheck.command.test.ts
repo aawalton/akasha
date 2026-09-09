@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { codeRoot } from "@akasha/pages/code-root"
-import { manifestFor } from "../../../../../temper/temper-commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
+import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
 
 const scratch = scratchWorld()

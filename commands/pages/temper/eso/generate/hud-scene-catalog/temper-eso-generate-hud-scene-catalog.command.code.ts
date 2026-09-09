@@ -12,7 +12,7 @@ import { HUD_SCENE_SOURCE } from "akasha/temper/hud-components/hud-scene-source/
 import {
   saidFor,
   saidShort,
-} from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+} from "../../../../../../temper/commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 

@@ -2,7 +2,7 @@ import type { AutomationSettings } from "akasha/temper/inventory-automation/auto
 import {
   inventorySettings,
   type Toggles,
-} from "../../../../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+} from "../../../../../../temper/commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
