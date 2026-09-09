@@ -62,6 +62,13 @@ function foldedOver(...runs: readonly (readonly FileEdit[])[]): readonly FileEdi
   return [...held.values()]
 }
 
+export function sequenced(
+  edits: readonly FileEdit[],
+  rows: readonly (Adding | Replacing)[]
+): readonly FileEdit[] {
+  return rows.length === 0 ? edits : foldedOver(edits, bodiedFrom(rows))
+}
+
 export type Prepared = {
   readonly formatting: Formatting
   readonly authored: readonly FileEdit[]

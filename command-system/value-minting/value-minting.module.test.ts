@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Replacing } from "@akasha/changes/change-answer/types"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
@@ -102,11 +103,8 @@ function carrying(body: string): FileEdit {
   return { path: AT, body: new TextEncoder().encode(body) }
 }
 
-function textOf(changes: readonly FileEdit[], path: string = AT): string {
-  const found = changes.find((one) => one.path === path)
-  return found?.body === null || found?.body === undefined
-    ? ""
-    : new TextDecoder().decode(found.body)
+function textOf(edits: readonly Replacing[], path: string = AT): string {
+  return edits.find((one) => one.path === path)?.contentTo ?? ""
 }
 
 test("a kind nothing here works out is refused rather than left unfilled", () => {
@@ -116,7 +114,7 @@ test("a kind nothing here works out is refused rather than left unfilled", () =>
 test("a property stating no generator is worked out nowhere", () => {
   const root = rooted(null)
   expect([...earlyIn(root, [carrying(BODY)])]).toEqual([])
-  expect(textOf(mintingOnto(root, [carrying(BODY)]).changes)).toBe(BODY)
+  expect(mintingOnto(root, [carrying(BODY)]).edits).toEqual([])
 })
 
 test("a property worked out after the checks is not worked out here", () => {
@@ -133,7 +131,7 @@ test("a page being created is given the value it does not carry", () => {
   expect(said.filled).toEqual([
     { path: AT, keys: ["id"], why: "a page being created states none of its own" },
   ])
-  expect(textOf(said.changes)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
+  expect(textOf(said.edits)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
 })
 
 test("a page of a page type landing in the same change is given the value it does not carry", () => {
@@ -145,7 +143,7 @@ test("a page of a page type landing in the same change is given the value it doe
   expect(said.filled).toEqual([
     { path: WIDGET_AT, keys: ["id"], why: "a page being created states none of its own" },
   ])
-  expect(textOf(said.changes, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "widget"/)
+  expect(textOf(said.edits, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "widget"/)
 })
 
 test("a page carrying the value already keeps the one it carries", () => {
@@ -153,7 +151,7 @@ test("a page carrying the value already keeps the one it carries", () => {
   const body = BODY.replace("{ ", `{ id: "${HELD_ID}", `)
   const said = mintingOnto(root, [carrying(body)])
   expect(said.filled).toEqual([])
-  expect(textOf(said.changes)).toBe(body)
+  expect(said.edits).toEqual([])
 })
 
 test("a path naming no page takes no value", () => {
@@ -175,7 +173,7 @@ test("a path taken away takes no value", () => {
   const root = rooted("uuid-v7")
   const said = mintingOnto(root, [{ path: AT, body: null }])
   expect(said.filled).toEqual([])
-  expect(said.changes).toEqual([{ path: AT, body: null }])
+  expect(said.edits).toEqual([])
 })
 
 test("an entry arriving without an id is given one, and the id goes in first", () => {

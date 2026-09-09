@@ -1,3 +1,5 @@
+import type { Replacing } from "@akasha/changes/change-answer/types"
+import { textIn } from "@akasha/code/body-text"
 import { insertedInto } from "@akasha/code/value-inserting"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
@@ -25,9 +27,30 @@ export type Filled = {
   readonly why: string
 }
 
-export type Minted = {
+type Rewritten = {
   readonly changes: readonly FileEdit[]
   readonly filled: readonly Filled[]
+}
+
+export type Minted = {
+  readonly edits: readonly Replacing[]
+  readonly filled: readonly Filled[]
+}
+
+const NOTHING_MINTED: Minted = { edits: [], filled: [] }
+
+function rowsFor(was: readonly FileEdit[], now: readonly FileEdit[]): readonly Replacing[] {
+  const before = new Map(was.map((one) => [one.path, one.body]))
+  const rows: Replacing[] = []
+  for (const one of now) {
+    const held = before.get(one.path)
+    if (held === undefined || held === null || one.body === null) continue
+    const from = textIn(held)
+    const to = textIn(one.body)
+    if (from === to) continue
+    rows.push({ kind: "replace", path: one.path, contentFrom: from, contentTo: to })
+  }
+  return rows
 }
 
 export function mintedFor(kind: string, slug: string): string {
@@ -81,7 +104,7 @@ export function identifiedOver(text: string): string | null {
   return turned ? said.join("\n") : null
 }
 
-function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Minted {
+function entriedOnto(shadow: Shadow, changes: readonly FileEdit[]): Rewritten {
   const shapes = shadow.index.entryShapesAt()
   if (shapes.size === 0) return { changes, filled: [] }
   const pageTypes = shadow.index.pageTypesIn()
@@ -127,12 +150,12 @@ function couldTurn(change: Change, changes: readonly FileEdit[]): boolean {
 
 export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted {
   const change = changeOf(root, { base: baseOf(root), edits: changes })
-  if (!couldTurn(change, changes)) return { changes, filled: [] }
+  if (!couldTurn(change, changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
-  if ("refused" in cast) return { changes, filled: [] }
+  if ("refused" in cast) return NOTHING_MINTED
   const entried = entriedOnto(cast.shadow, changes)
   const early = earlyOf(cast.shadow)
-  if (early.size === 0) return entried
+  if (early.size === 0) return { edits: rowsFor(changes, entried.changes), filled: entried.filled }
   const pageTypes = cast.shadow.index.pageTypesIn()
   const held: FileEdit[] = []
   const filled: Filled[] = []
@@ -165,5 +188,5 @@ export function mintingOnto(root: string, changes: readonly FileEdit[]): Minted 
     held.push({ ...one, body: new TextEncoder().encode(text) })
     filled.push({ path: one.path, keys, why: NEW_PAGE })
   }
-  return { changes: held, filled: [...entried.filled, ...filled] }
+  return { edits: rowsFor(changes, held), filled: [...entried.filled, ...filled] }
 }

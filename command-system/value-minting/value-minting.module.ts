@@ -84,8 +84,8 @@ export const valueMinting = {
       statement: "Nothing here writes a file or reaches git.",
     },
     {
-      invariantKind: "absence",
-      statement: "This module answers the changes as those changes would be with their values in.",
+      invariantKind: "departure",
+      statement: "This module answers a change per body it put a value into, and nothing else.",
     },
   ],
 } as const satisfies Module

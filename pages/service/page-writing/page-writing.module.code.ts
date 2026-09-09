@@ -54,8 +54,6 @@ const TAKE = "change-mechanical-file/remove-file"
 
 const BYTES = new TextEncoder()
 
-const TEXT = new TextDecoder()
-
 type Edit = Extract<Asking, { readonly at: typeof PUT | typeof TAKE }>
 
 export function pathsIn(asked: Asked): readonly string[] {
@@ -135,12 +133,12 @@ export function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[
       ? { path: one.given.at, body: null }
       : { path: one.given.at, body: BYTES.encode(one.given.body) }
   )
-  return mintingOnto(root, held).changes.map(
-    (one): Edit =>
-      one.body === null
-        ? { at: TAKE, given: { at: one.path } }
-        : { at: PUT, given: { at: one.path, body: TEXT.decode(one.body) } }
-  )
+  const minted = new Map(mintingOnto(root, held).edits.map((one) => [one.path, one.contentTo]))
+  return changes.map((one): Edit => {
+    if (one.at === TAKE) return one
+    const body = minted.get(one.given.at)
+    return body === undefined ? one : { at: PUT, given: { ...one.given, body } }
+  })
 }
 
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
