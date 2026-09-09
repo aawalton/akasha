@@ -14,14 +14,7 @@ export const sync = {
   pluralSlug: "syncs",
   extends: ["page-type/page"],
   parts: ["page-property-entry/sync-runs"],
-  properties: [
-    {
-      pageProperty: "page-property-entry/sync-runs",
-      required: true,
-      many: true,
-      maxCount: null,
-    },
-  ],
+  properties: [{ pageProperty: "page-property-entry/sync-runs", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
