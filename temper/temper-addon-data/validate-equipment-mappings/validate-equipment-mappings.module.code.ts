@@ -1,12 +1,12 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages/code-root"
+import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
   COMPANION_ARMOR_WEIGHT_IDS,
   companionTraitIds,
   companionWeaponTypeIds,
-} from "@akasha/temper-companion-codec/companion-codec-indices"
-import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
+} from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
 import { z } from "zod"
 
 const EQUIPMENT_MAPPINGS = "temper-bit-codec/equipment-mappings/equipment-mappings.module.code.ts"

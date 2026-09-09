@@ -42,7 +42,6 @@
     "@akasha/temper-characters-equipment-ui": "workspace:*",
     "@akasha/temper-characters-stats": "workspace:*",
     "@akasha/temper-classes": "workspace:*",
-    "@akasha/temper-companion-codec": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-companions-ui": "workspace:*",
     "@akasha/temper-completion": "workspace:*",

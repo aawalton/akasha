@@ -6,7 +6,6 @@ import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restora
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { decodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionBaseRoleId } from "@akasha/temper-companions-core/companion-base-roles"
 import {
   buildOverallRankMap,
@@ -18,6 +17,7 @@ import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { useAllCompanionList } from "@akasha/temper-companions-ui/use-companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
+import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompanionsBuildBrowseTab } from "../companions-build-browse-tab/companions-build-browse-tab.module.code.tsx"
 import type { FilterValues } from "../companions-filter-types/companions-filter-types.module.code.ts"

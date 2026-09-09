@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCompanionCodec = {
   id: "01a062e7-4dda-7f1d-8fd9-fe2d9062ea42",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-companion-codec",
   definition:
     "packing a companion build into text and reading one back at whichever update wrote it",
-  manifest: "json",
   parts: [
     "module/companion-codec",
     "module/companion-codec-indices",
@@ -32,4 +31,4 @@ export const temperCompanionCodec = {
       statement: "A build whose first two bytes are not recognised is read as nothing.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

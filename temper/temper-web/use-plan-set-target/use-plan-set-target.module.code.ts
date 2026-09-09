@@ -5,7 +5,6 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import {
   type useAllCompanionList,
@@ -13,6 +12,10 @@ import {
 } from "@akasha/temper-companions-ui/use-companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
+import {
+  decodeCompanion,
+  encodeCompanion,
+} from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
 
 interface UsePlanSetTargetArgs {

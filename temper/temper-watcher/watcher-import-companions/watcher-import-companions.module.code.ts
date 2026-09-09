@@ -1,5 +1,4 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { decodeCompanion, encodeCompanion } from "@akasha/temper-companion-codec/companion-codec"
 import { companionRoles } from "@akasha/temper-companions-core/companion-roles"
 import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
@@ -8,6 +7,10 @@ import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils/narrow/as-record"
+import {
+  decodeCompanion,
+  encodeCompanion,
+} from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,

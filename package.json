@@ -72,7 +72,6 @@
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "@akasha/temper-build-metadata": "workspace:*",
-    "@akasha/temper-companion-codec": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-companions-ui": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",

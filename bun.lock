@@ -52,7 +52,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-companion-codec": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -1111,18 +1110,6 @@
         "@akasha/temper-addon-init": "workspace:*",
       },
     },
-    "temper/companion-codec": {
-      "name": "@akasha/temper-companion-codec",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/temper-build-hash": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/completion": {
       "name": "@akasha/temper-completion",
       "dependencies": {
@@ -1730,7 +1717,6 @@
         "@akasha/temper-characters-equipment-ui": "workspace:*",
         "@akasha/temper-characters-stats": "workspace:*",
         "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-companion-codec": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -1991,8 +1977,6 @@
     "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:temper/collections-addon"],
 
     "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/temper-combat-addon"],
-
-    "@akasha/temper-companion-codec": ["@akasha/temper-companion-codec@workspace:temper/companion-codec"],
 
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/temper-companions-addon"],
 
