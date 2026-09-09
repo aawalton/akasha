@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const theDeathOfMagic = {
   id: "019dda20-9231-7c70-937c-8215629e57d1",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "the-death-of-magic",
   title: "The Death of Magic",
   displayOrder: 19,

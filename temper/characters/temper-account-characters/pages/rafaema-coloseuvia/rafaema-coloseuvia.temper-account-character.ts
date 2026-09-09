@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const rafaemaColoseuvia = {
   id: "019dda20-9803-7566-8a23-432c0301720b",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "rafaema-coloseuvia",
   title: "Rafaema Coloseuvia",
   displayOrder: 8,

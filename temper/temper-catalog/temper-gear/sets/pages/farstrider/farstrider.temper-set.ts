@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const farstrider = {
   id: "019e66ec-7728-7caf-a9ef-aea97d47de61",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "farstrider",
   title: "Farstrider",
   key: "farstrider",

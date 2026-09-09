@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const seraphelDuMarquin = {
   id: "019dda20-7e2b-7e3f-a07e-62a06010184e",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "seraphel-du-marquin",
   title: "Seraphel du Marquín",
   displayOrder: 16,

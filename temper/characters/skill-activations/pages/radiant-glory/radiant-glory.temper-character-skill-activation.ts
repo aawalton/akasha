@@ -3,6 +3,7 @@ import type { TemperCharacterSkillActivation } from "../../temper-character-skil
 export const radiantGlory = {
   id: "019e646c-c4ec-7752-bf6b-35862f20781c",
   pageTypeSlug: "temper-character-skill-activation",
+  type: "temper-character-skill-activation",
   slug: "radiant-glory",
   title: "Radiant Glory",
   descriptionTemplate:

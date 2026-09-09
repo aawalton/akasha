@@ -3,6 +3,7 @@ import type { CompanionBuild } from "../../companion-build.page-type.ts"
 export const comp15882Build = {
   id: "01a06862-a02e-7e4e-987b-b39c16a46465",
   pageTypeSlug: "companion-build",
+  type: "companion-build",
   slug: "comp15882-build",
   title: "Comp15882 Build",
   buildHash: "AjEIJzHMcxzHMcxzExMTAzGzAAAAAAMI",

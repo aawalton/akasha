@@ -3,6 +3,7 @@ import type { TemperCompanionProgress } from "../temper-companion-progress.page-
 export const zerithVar = {
   id: "019dda20-f573-7169-a65a-edcca64e45ba",
   pageTypeSlug: "temper-companion-progress",
+  type: "temper-companion-progress",
   slug: "zerith-var",
   title: "Zerith-var",
   companionId: "zerith-var",

@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const blindPathInduction = {
   id: "019e66e6-a061-76a6-abd0-5f103991244d",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "blind-path-induction",
   title: "Blind Path Induction",
   key: "blind-path-induction",

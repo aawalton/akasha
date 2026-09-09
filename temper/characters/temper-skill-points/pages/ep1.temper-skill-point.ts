@@ -3,6 +3,7 @@ import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 export const ep1 = {
   id: "019e6471-152e-7aff-8b17-022cfaa7b019",
   pageTypeSlug: "temper-skill-point",
+  type: "temper-skill-point",
   slug: "ep1",
   title: "Stonefalls",
   key: "EP1",

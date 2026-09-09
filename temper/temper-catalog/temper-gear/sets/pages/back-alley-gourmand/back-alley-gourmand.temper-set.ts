@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const backAlleyGourmand = {
   id: "019e66e7-6a43-78a3-93c7-07d3fdfc6d3b",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "back-alley-gourmand",
   title: "Back-Alley Gourmand",
   key: "back-alley-gourmand",

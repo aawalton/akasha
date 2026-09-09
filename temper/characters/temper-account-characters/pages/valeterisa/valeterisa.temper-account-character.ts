@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const valeterisa = {
   id: "019dda20-83ff-7e21-bcc6-a0b3bed56960",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "valeterisa",
   title: "Valeterisa",
   displayOrder: 7,

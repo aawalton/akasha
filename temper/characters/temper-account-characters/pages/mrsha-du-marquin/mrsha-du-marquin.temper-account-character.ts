@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const mrshaDuMarquin = {
   id: "019dda20-a396-715c-b6a7-bf556e159ddb",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "mrsha-du-marquin",
   title: "Mrsha du Marquín",
   displayOrder: 13,

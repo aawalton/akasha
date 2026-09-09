@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const fortifiedBrass = {
   id: "019e668e-9a45-775c-9752-af3d45122b1a",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "fortified-brass",
   title: "Fortified Brass",
   key: "fortified-brass",

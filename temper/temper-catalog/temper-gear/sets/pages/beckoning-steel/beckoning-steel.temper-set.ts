@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const beckoningSteel = {
   id: "019e66ec-7657-73d9-9283-c66b85288888",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "beckoning-steel",
   title: "Beckoning Steel",
   key: "beckoning-steel",

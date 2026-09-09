@@ -3,6 +3,7 @@ import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
 export const solstice = {
   id: "01a06165-cbbf-7005-88ee-a5980ebfe323",
   pageTypeSlug: "temper-world-zone",
+  type: "temper-world-zone",
   slug: "solstice",
   title: "Solstice",
   esoZoneId: 1502,

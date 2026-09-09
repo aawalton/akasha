@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const ceriaSpringwater = {
   id: "019dda20-9adf-7228-b05e-34eadfba7800",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "ceria-springwater",
   title: "Ceria Springwater",
   displayOrder: 14,

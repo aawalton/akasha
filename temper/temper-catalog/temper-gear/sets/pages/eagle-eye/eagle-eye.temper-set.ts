@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const eagleEye = {
   id: "019e66ec-76f5-7e48-93f0-c502da95dd60",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "eagle-eye",
   title: "Eagle Eye",
   key: "eagle-eye",

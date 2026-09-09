@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const heemJasRetribution = {
   id: "019e66e6-a08d-7a90-a05e-a469b383adb5",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "heem-jas-retribution",
   title: "Heem-Jas' Retribution",
   key: "heem-jas-retribution",

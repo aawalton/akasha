@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const ondreaPellhaven = {
   id: "019f9801-b172-77cd-a8fb-1ee9914a0e90",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "ondrea-pellhaven",
   title: "Ondrea Pellhaven",
   esoCharacterId: "1500000000000004",

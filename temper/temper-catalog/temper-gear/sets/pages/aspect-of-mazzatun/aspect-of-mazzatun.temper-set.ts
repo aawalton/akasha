@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const aspectOfMazzatun = {
   id: "019e66e6-a05b-72fd-b6e2-93703b94edcf",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "aspect-of-mazzatun",
   title: "Aspect of Mazzatun",
   key: "aspect-of-mazzatun",

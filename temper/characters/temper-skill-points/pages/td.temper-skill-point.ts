@@ -3,6 +3,7 @@ import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
 export const td = {
   id: "019e6471-154a-794a-9016-9612b0f4fb6e",
   pageTypeSlug: "temper-skill-point",
+  type: "temper-skill-point",
   slug: "td",
   title: "The Deadlands",
   key: "TD",

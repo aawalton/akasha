@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const auriel = {
   id: "019f97f0-f5cf-7d4c-b725-44d252daebf5",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "auriel",
   title: "Auriel",
   esoCharacterId: "char-1",

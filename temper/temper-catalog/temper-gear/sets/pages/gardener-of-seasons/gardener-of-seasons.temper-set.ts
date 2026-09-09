@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const gardenerOfSeasons = {
   id: "019e6484-5fe1-7eef-a50e-ad3fa62701fb",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "gardener-of-seasons",
   title: "Gardener of Seasons",
   key: "gardener-of-seasons",

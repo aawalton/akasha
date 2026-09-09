@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const dureneFaerise = {
   id: "019dda20-723a-792a-99cc-c642ede18861",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "durene-faerise",
   title: "Durene Faerise",
   displayOrder: 10,

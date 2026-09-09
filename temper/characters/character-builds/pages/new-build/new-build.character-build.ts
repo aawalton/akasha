@@ -3,6 +3,7 @@ import type { CharacterBuild } from "../../character-build.page-type.ts"
 export const newBuild = {
   id: "019df354-9a74-74f8-b563-83f3ecaaa8f3",
   pageTypeSlug: "character-build",
+  type: "character-build",
   slug: "new-build",
   title: "New Build",
   buildHash:

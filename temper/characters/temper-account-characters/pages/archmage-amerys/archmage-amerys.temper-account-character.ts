@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const archmageAmerys = {
   id: "019dda20-785c-725c-9755-e858993eda07",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "archmage-amerys",
   title: "Archmage Amerys",
   displayOrder: 9,

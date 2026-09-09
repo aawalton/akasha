@@ -3,6 +3,7 @@ import type { TemperCharacterSkillActivation } from "../../temper-character-skil
 export const unstableCore = {
   id: "019e646c-c4e8-763f-9f7b-5e61f8c7b754",
   pageTypeSlug: "temper-character-skill-activation",
+  type: "temper-character-skill-activation",
   slug: "unstable-core",
   title: "Unstable Core",
   descriptionTemplate:

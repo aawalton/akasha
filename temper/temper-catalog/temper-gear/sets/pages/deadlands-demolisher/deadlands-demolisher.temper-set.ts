@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const deadlandsDemolisher = {
   id: "019e668e-9a3f-75fa-a650-15098d99e7a2",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "deadlands-demolisher",
   title: "Deadlands Demolisher",
   key: "deadlands-demolisher",

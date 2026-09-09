@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const defensivePosition = {
   id: "019e66ec-7aca-7af0-8deb-91f46cebf23c",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "defensive-position",
   title: "Defensive Position",
   key: "defensive-position",

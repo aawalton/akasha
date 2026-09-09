@@ -3,6 +3,7 @@ import type { TemperCompanionProgress } from "../temper-companion-progress.page-
 export const azandar = {
   id: "019dda20-ef86-78be-bf43-b241b052add2",
   pageTypeSlug: "temper-companion-progress",
+  type: "temper-companion-progress",
   slug: "azandar",
   title: "Azandar",
   companionId: "azandar",

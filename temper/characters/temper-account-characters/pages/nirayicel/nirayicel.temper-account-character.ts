@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const nirayicel = {
   id: "019dda20-a672-7ca7-bb4c-c533c9c3c754",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "nirayicel",
   title: "Nirayicel",
   displayOrder: 3,

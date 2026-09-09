@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const iceheart = {
   id: "019e6484-5ffb-7041-8601-b4cfcaf14038",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "iceheart",
   title: "Iceheart",
   key: "iceheart",

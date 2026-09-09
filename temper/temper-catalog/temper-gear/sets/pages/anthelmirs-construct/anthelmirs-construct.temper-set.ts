@@ -3,6 +3,7 @@ import type { TemperSet } from "../../temper-set.page-type.ts"
 export const anthelmirsConstruct = {
   id: "019e6484-5feb-7c88-940a-e74e9af364d7",
   pageTypeSlug: "temper-set",
+  type: "temper-set",
   slug: "anthelmirs-construct",
   title: "Anthelmir's Construct",
   key: "anthelmirs-construct",

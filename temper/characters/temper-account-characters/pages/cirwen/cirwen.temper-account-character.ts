@@ -3,6 +3,7 @@ import type { TemperAccountCharacter } from "../../temper-account-character.page
 export const cirwen = {
   id: "019f97f0-f6a7-7ae3-abbb-ac15cee83ab9",
   pageTypeSlug: "temper-account-character",
+  type: "temper-account-character",
   slug: "cirwen",
   title: "Cirwen",
   esoCharacterId: "char-3",
