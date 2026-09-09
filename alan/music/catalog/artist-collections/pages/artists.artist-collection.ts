@@ -1,4 +1,4 @@
-import type { ArtistCollection } from "../artist-collection.page-type.ts"
+import type { ArtistCollection } from "../artist-collection.page-type.types.ts"
 
 export const artists = {
   id: "01a06808-78fa-7000-8e30-9da42659901b",
