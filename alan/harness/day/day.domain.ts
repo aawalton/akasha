@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const day = {
   id: "01a05c77-31e4-7f97-8fe6-c273915285af",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "day",
   definition: "which day an instant falls on, where a day does not start at midnight",
-  manifest: "json",
   parts: [
     "module/day-string",
     "module/us-zone-offset",
@@ -24,4 +23,4 @@ export const day = {
       statement: "No zone database is read.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

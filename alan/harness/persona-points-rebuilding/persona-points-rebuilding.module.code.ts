@@ -1,6 +1,6 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepPoints, pointsIn } from "@akasha/personas/persona-points-keeping"
 import { personaAt } from "@akasha/personas/persona-reading"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   daysCounted,
   daysMessaged,

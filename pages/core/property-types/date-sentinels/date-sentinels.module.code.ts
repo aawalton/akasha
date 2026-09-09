@@ -1,10 +1,10 @@
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   getEsoDayAnchor,
   getEsoDayStr,
   getEsoDayStrOffset,
   getEsoResetTime,
-} from "@akasha/day/eso-day"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 
 type DateSentinel =
   | "today"

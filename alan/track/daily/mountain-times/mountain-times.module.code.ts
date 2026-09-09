@@ -1,4 +1,4 @@
-import { denverOffsetMs } from "@akasha/day/us-zone-offset"
+import { denverOffsetMs } from "akasha/alan/harness/day/us-zone-offset/us-zone-offset.module.code.ts"
 
 function pad2(n: number): string {
   return n < 10 ? `0${n}` : String(n)

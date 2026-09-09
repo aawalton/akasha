@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   type PollLogger,
   pollInboxCounts,

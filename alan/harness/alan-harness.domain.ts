@@ -33,7 +33,7 @@ export const alanHarness = {
     "workspace-package/health-samples-day",
     "workspace-package/health-samples-import",
     "workspace-package/location-traces-access",
-    "workspace-package/day",
+    "domain/day",
     "domain/geo-io",
     "domain/web-static-assets",
     "domain/web-security-headers",

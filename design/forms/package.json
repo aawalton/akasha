@@ -18,7 +18,6 @@
     "./search-multi-select": "./search-multi-select/search-multi-select.module.code.tsx"
   },
   "dependencies": {
-    "@akasha/day": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "chrono-node": "^2.9.0",
     "class-variance-authority": "^0.7.1",

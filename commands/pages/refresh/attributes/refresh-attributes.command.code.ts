@@ -1,4 +1,4 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { keepPointsBeforeToday } from "../../../../alan/attributes/points/attribute-points.module.code.ts"
 import {
   ATTRIBUTE_OF,

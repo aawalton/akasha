@@ -1,6 +1,5 @@
 "use client"
 
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
@@ -11,6 +10,7 @@ import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-ba
 import { labelRrule } from "@akasha/recurrence/labeling"
 import { parseRecurringText } from "@akasha/recurrence/parsing"
 import { getOccurrenceAtOrAfter } from "@akasha/recurrence/scheduling"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { useId, useState } from "react"
 
 interface RruleValue {

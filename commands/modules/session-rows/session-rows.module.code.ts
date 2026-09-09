@@ -1,9 +1,12 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
 import { valuesByPath } from "@akasha/indexes"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
+import {
+  mountainWallAt,
+  readMountainWallTime,
+} from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import {

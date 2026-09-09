@@ -1,6 +1,5 @@
 import { join } from "node:path"
 import { saidBy } from "@akasha/command-system/fault-saying"
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
@@ -13,6 +12,7 @@ import {
   statedIn,
 } from "@akasha/readouts/readout-relay"
 import { followFolders } from "@akasha/service/file-following"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   pollTaskCounts,
   type TaskCounts,

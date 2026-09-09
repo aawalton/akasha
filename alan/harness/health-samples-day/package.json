@@ -7,7 +7,6 @@
     "./opening-window": "./opening-window/opening-window.module.code.ts"
   },
   "dependencies": {
-    "@akasha/day": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*"

@@ -68,7 +68,6 @@
     "./view/page-query-times": "./view/page-query-times/page-query-times.module.code.ts"
   },
   "dependencies": {
-    "@akasha/day": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/recurrence": "workspace:*",
     "@akasha/utils": "workspace:*",

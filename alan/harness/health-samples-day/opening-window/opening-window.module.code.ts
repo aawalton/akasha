@@ -1,11 +1,14 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
-import { nyWallToInstant } from "@akasha/day/new-york-wall"
 import { listedAt } from "@akasha/indexes"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { entriesIn } from "@akasha/pages/page-entries"
 import { besideAt } from "@akasha/pages/page-file-name"
+import {
+  getEsoDayStr,
+  getEsoDayWindow,
+} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { nyWallToInstant } from "akasha/alan/harness/day/new-york-wall/new-york-wall.module.code.ts"
 
 export interface DayWindow {
   readonly from: string

@@ -1,4 +1,3 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { instantToMillis } from "@akasha/pages-core/property-types/instant"
 import {
   type CompletionShape,
@@ -11,6 +10,7 @@ import {
 import type { Row } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
 import { isCumulativeCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
 import {
   type SignedInReader,

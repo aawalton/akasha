@@ -1,6 +1,5 @@
 "use client"
 
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
 import {
@@ -10,6 +9,7 @@ import {
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import type { DragStartEvent } from "@dnd-kit/core"
 import { KeyboardSensor, PointerSensor, useSensor, useSensors } from "@dnd-kit/core"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageCalendarState({

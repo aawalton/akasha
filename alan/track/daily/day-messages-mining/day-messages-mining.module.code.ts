@@ -1,9 +1,9 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { getEsoDayStrAt } from "@akasha/day/eso-day"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { personasStanding } from "@akasha/personas/persona-reading"
+import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { type Counted, dayPageAt } from "../day-messages/day-messages.module.code.ts"
 
 const PROJECTS = "projects"

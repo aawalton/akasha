@@ -1,4 +1,7 @@
-import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
+import {
+  getEsoDayStr,
+  getEsoDayWindow,
+} from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 
 const MS_AN_HOUR = 3_600_000
 

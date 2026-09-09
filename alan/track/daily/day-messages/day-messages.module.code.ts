@@ -1,5 +1,5 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { dayStanding } from "../akasha-day/akasha-day.module.code.ts"
 import { dayNameOf } from "../day-place/day-place.module.code.ts"
 

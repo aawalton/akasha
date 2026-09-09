@@ -1,6 +1,6 @@
-import { getEsoDayStr } from "@akasha/day/eso-day"
 import { keepReading } from "@akasha/readouts/readout-reading"
 import { activityIn } from "@akasha/readouts/upkeep-activity"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-activity/upkeep-activity.readout.ts"

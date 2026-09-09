@@ -42,7 +42,6 @@
   },
   "dependencies": {
     "@akasha/chess-core": "workspace:*",
-    "@akasha/day": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",

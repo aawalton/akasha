@@ -13,7 +13,6 @@
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/changes": "workspace:*",
     "@akasha/comfy": "workspace:*",
-    "@akasha/day": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",

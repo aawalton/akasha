@@ -36,7 +36,6 @@
     "./topological-sort": "./topological-sort/topological-sort.module.code.ts"
   },
   "dependencies": {
-    "@akasha/day": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

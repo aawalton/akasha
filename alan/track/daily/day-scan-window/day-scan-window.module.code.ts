@@ -1,4 +1,4 @@
-import { getEsoDayStrOffset as esoDayStrOffset } from "@akasha/day/eso-day"
+import { getEsoDayStrOffset as esoDayStrOffset } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 
 export const SOURCE_POINTS_FIELD = "sourcePoints"
 

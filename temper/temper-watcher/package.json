@@ -59,7 +59,6 @@
     "./watcher-main": "./watcher-main/watcher-main.module.code.ts"
   },
   "dependencies": {
-    "@akasha/day": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",

@@ -10,7 +10,6 @@
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
-        "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
@@ -80,7 +79,6 @@
       "dependencies": {
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -160,9 +158,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/day": {
-      "name": "@akasha/day",
-    },
     "alan/harness/email-inbound": {
       "name": "@akasha/email-inbound",
     },
@@ -194,7 +189,6 @@
     "alan/harness/health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
       },
@@ -202,7 +196,6 @@
     "alan/harness/health-samples-day": {
       "name": "@akasha/health-samples-day",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -407,7 +400,6 @@
       "name": "@akasha/music-commands",
       "dependencies": {
         "@akasha/command-system": "workspace:*",
-        "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
@@ -431,7 +423,6 @@
       "name": "@akasha/alanwalton-web",
       "dependencies": {
         "@akasha/chess-core": "workspace:*",
-        "@akasha/day": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -708,7 +699,6 @@
     "design/forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "chrono-node": "^2.9.0",
         "class-variance-authority": "^0.7.1",
@@ -1156,7 +1146,6 @@
     "pages/core": {
       "name": "@akasha/pages-core",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1236,7 +1225,6 @@
     "pages/ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
@@ -1404,7 +1392,6 @@
       "name": "@akasha/smilingjenny-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -2348,7 +2335,6 @@
     "temper/temper-formula-framework": {
       "name": "@akasha/temper-formula-framework",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -2610,7 +2596,6 @@
     "temper/temper-watcher": {
       "name": "@akasha/temper-watcher",
       "dependencies": {
-        "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -2864,8 +2849,6 @@
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
     "@akasha/context": ["@akasha/context@workspace:context"],
-
-    "@akasha/day": ["@akasha/day@workspace:alan/harness/day"],
 
     "@akasha/design-badges": ["@akasha/design-badges@workspace:design/badges"],
 
