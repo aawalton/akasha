@@ -1,4 +1,4 @@
-import type { IdlePersonaCard } from "../idle-persona-card.page-type.ts"
+import type { IdlePersonaCard } from "../idle-persona-card.page-type.types.ts"
 
 export const nova5a895ca7 = {
   id: "01a0659f-c5ba-700e-92e1-03ccd8a2951e",
