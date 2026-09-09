@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0245Chapter256Episode3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0245-chapter-256-episode-3",
   title: "Chapter 256 - Episode 3",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 245,
   ownLength: 4825,
   unitSlug: "words",

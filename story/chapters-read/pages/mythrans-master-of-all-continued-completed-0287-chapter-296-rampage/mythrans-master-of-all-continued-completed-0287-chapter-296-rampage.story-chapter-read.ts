@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0287Chapter296Rampage = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0287-chapter-296-rampage",
   title: "Chapter 296 - Rampage",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 287,
   ownLength: 3328,
   unitSlug: "words",

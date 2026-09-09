@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0155Chapter168AnOldFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0155-chapter-168-an-old-friend",
   title: "Chapter 168 - An Old Friend",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 155,
   ownLength: 4781,
   unitSlug: "words",

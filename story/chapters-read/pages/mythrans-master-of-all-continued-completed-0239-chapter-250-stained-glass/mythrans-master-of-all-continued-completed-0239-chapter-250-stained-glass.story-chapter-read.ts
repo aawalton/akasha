@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0239Chapter250StainedGlass = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0239-chapter-250-stained-glass",
   title: "Chapter 250 - Stained Glass",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 239,
   ownLength: 3576,
   unitSlug: "words",

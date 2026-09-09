@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0126Chapter141TheShowdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0126-chapter-141-the-showdown",
   title: "Chapter 141 - The Showdown",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 126,
   ownLength: 5108,
   unitSlug: "words",

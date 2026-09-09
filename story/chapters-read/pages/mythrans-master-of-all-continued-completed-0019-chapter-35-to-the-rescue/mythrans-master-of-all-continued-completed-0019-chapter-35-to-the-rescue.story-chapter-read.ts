@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0019Chapter35ToTheRescue = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0019-chapter-35-to-the-rescue",
   title: "Chapter 35 - To The Rescue",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 19,
   ownLength: 2039,
   unitSlug: "words",

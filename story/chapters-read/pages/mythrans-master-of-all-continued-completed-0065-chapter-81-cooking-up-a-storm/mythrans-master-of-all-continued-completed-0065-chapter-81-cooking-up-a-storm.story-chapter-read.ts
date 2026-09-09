@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0065Chapter81CookingUpAStorm =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0065-chapter-81-cooking-up-a-storm",
   title: "Chapter 81 - Cooking Up A Storm",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 65,
   ownLength: 4587,
   unitSlug: "words",

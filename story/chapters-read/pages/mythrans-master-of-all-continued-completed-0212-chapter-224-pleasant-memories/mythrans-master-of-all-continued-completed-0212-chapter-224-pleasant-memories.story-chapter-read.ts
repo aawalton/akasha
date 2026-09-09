@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0212Chapter224PleasantMemories
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0212-chapter-224-pleasant-memories",
   title: "Chapter 224 - Pleasant Memories",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 212,
   ownLength: 3701,
   unitSlug: "words",

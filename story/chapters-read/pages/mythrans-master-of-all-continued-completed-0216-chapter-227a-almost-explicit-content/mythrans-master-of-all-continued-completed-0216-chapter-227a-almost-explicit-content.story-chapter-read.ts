@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0216Chapter227aAlmostExplicitC
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0216-chapter-227a-almost-explicit-content",
   title: "Chapter 227A - Almost (Explicit Content)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 216,
   ownLength: 2846,
   unitSlug: "words",

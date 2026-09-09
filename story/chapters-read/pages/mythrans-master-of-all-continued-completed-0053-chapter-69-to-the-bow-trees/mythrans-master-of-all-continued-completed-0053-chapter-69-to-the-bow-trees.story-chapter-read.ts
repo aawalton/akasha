@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0053Chapter69ToTheBowTrees = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0053-chapter-69-to-the-bow-trees",
   title: "Chapter 69 - To The Bow Trees!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 53,
   ownLength: 2809,
   unitSlug: "words",

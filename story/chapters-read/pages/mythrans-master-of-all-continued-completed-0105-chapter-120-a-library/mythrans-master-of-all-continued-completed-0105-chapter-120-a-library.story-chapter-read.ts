@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0105Chapter120ALibrary = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0105-chapter-120-a-library",
   title: "Chapter 120 - A Library?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 105,
   ownLength: 3298,
   unitSlug: "words",

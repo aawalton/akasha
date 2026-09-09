@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0305Chapter314HighExpectations
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0305-chapter-314-high-expectations",
   title: "Chapter 314 - High Expectations",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 305,
   ownLength: 3171,
   unitSlug: "words",

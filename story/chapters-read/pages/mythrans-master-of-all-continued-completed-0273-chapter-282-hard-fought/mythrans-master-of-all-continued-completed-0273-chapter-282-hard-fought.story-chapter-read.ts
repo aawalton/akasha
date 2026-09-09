@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0273Chapter282HardFought = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0273-chapter-282-hard-fought",
   title: "Chapter 282 - Hard Fought",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 273,
   ownLength: 3275,
   unitSlug: "words",

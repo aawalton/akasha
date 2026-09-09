@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0153Chapter166CastlePanic = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0153-chapter-166-castle-panic",
   title: "Chapter 166 - Castle Panic",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 153,
   ownLength: 3866,
   unitSlug: "words",

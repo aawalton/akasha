@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0253Chapter263ToGiveIsToGet = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0253-chapter-263-to-give-is-to-get",
   title: "Chapter 263 - To Give Is To Get",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 253,
   ownLength: 3545,
   unitSlug: "words",

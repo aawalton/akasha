@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0181Chapter193SellingAndBuying
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0181-chapter-193-selling-and-buying",
   title: "Chapter 193 - Selling and Buying",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 181,
   ownLength: 3087,
   unitSlug: "words",

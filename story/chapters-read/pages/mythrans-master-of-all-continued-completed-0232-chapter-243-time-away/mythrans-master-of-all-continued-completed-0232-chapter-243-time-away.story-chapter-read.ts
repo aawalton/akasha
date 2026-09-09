@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0232Chapter243TimeAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0232-chapter-243-time-away",
   title: "Chapter 243 - Time Away",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 232,
   ownLength: 3290,
   unitSlug: "words",

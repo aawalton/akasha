@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0052Chapter68AnotherDayAnother
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0052-chapter-68-another-day-another-tool",
   title: "Chapter 68 - Another Day, Another Tool",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 52,
   ownLength: 3777,
   unitSlug: "words",

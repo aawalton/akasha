@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0046Chapter62LetThemEatCake = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0046-chapter-62-let-them-eat-cake",
   title: "Chapter 62 - Let Them Eat Cake",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 46,
   ownLength: 2662,
   unitSlug: "words",

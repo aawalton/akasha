@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0024Chapter40ANormalDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0024-chapter-40-a-normal-day",
   title: "Chapter 40 - A Normal Day",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 24,
   ownLength: 2040,
   unitSlug: "words",

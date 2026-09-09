@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0044Chapter60DonansTeachings =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0044-chapter-60-donans-teachings",
   title: "Chapter 60 - Donan's Teachings",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 44,
   ownLength: 3941,
   unitSlug: "words",

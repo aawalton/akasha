@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0139Chapter153PrintThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0139-chapter-153-print-that",
   title: "Chapter 153 - Print That",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 139,
   ownLength: 4973,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0263Chapter273MixingBusinessAn
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0263-chapter-273-mixing-business-and-pleasure",
   title: "Chapter 273 - Mixing Business and Pleasure",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 263,
   ownLength: 4315,
   unitSlug: "words",

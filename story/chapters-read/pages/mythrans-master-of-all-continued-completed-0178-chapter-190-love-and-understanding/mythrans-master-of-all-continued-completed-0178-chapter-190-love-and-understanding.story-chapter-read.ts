@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0178Chapter190LoveAndUnderstan
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0178-chapter-190-love-and-understanding",
   title: "Chapter 190 - Love And Understanding",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 178,
   ownLength: 3031,
   unitSlug: "words",

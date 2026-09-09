@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0171Chapter183WillThatWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0171-chapter-183-will-that-work",
   title: "Chapter 183 - Will That Work?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 171,
   ownLength: 4085,
   unitSlug: "words",

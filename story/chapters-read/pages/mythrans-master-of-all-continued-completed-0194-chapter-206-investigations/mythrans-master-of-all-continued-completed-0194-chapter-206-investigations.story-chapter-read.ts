@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0194Chapter206Investigations =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0194-chapter-206-investigations",
   title: "Chapter 206 - Investigations",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 194,
   ownLength: 6867,
   unitSlug: "words",

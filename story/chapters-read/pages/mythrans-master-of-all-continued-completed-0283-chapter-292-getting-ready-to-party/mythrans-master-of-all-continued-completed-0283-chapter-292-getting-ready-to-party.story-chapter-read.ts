@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0283Chapter292GettingReadyToPa
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0283-chapter-292-getting-ready-to-party",
   title: "Chapter 292 - Getting Ready To Party",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 283,
   ownLength: 4469,
   unitSlug: "words",

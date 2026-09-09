@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0199Chapter211IJustWantToTalk 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0199-chapter-211-i-just-want-to-talk",
   title: "Chapter 211 - I Just Want To Talk",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 199,
   ownLength: 5185,
   unitSlug: "words",

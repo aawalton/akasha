@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0185Chapter197Discussions = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0185-chapter-197-discussions",
   title: "Chapter 197 - Discussions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 185,
   ownLength: 3771,
   unitSlug: "words",

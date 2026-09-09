@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0197Chapter209GiantProblems = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0197-chapter-209-giant-problems",
   title: "Chapter 209 - Giant Problems",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 197,
   ownLength: 3292,
   unitSlug: "words",

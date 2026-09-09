@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0152Chapter165aMaamYesMaamExpl
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0152-chapter-165a-maam-yes-maam-explicit-content",
   title: "Chapter 165A - Ma'am! Yes, Ma'am! (Explicit Content)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 152,
   ownLength: 2628,
   unitSlug: "words",

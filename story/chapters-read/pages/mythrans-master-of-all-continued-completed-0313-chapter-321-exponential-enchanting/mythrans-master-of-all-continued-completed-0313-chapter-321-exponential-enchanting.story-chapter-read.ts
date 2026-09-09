@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0313Chapter321ExponentialEncha
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0313-chapter-321-exponential-enchanting",
   title: "Chapter 321 - Exponential Enchanting",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 313,
   ownLength: 2538,
   unitSlug: "words",

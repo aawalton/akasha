@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0330Chapter337CaravanVersion2 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0330-chapter-337-caravan-version-2",
   title: "Chapter 337 - Caravan Version 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 330,
   ownLength: 3921,
   unitSlug: "words",

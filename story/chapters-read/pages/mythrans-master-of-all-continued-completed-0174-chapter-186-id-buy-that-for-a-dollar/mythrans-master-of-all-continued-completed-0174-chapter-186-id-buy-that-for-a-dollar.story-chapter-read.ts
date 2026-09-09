@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0174Chapter186IdBuyThatForADol
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0174-chapter-186-id-buy-that-for-a-dollar",
   title: "Chapter 186 - I'd Buy That For A Dollar",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 174,
   ownLength: 2935,
   unitSlug: "words",

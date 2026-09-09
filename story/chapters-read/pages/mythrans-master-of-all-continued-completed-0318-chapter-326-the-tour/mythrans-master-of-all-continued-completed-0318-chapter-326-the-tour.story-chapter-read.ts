@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0318Chapter326TheTour = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0318-chapter-326-the-tour",
   title: "Chapter 326 - The Tour",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 318,
   ownLength: 4846,
   unitSlug: "words",

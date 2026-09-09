@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0265Chapter275FoodForThought =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0265-chapter-275-food-for-thought",
   title: "Chapter 275 - Food For Thought",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 265,
   ownLength: 3375,
   unitSlug: "words",

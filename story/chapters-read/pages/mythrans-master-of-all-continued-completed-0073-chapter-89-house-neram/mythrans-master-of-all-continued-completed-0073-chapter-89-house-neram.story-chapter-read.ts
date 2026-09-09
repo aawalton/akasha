@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0073Chapter89HouseNeram = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0073-chapter-89-house-neram",
   title: "Chapter 89 - House Neram",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 73,
   ownLength: 5019,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0290Chapter299AlmostDone = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0290-chapter-299-almost-done",
   title: "Chapter 299 - Almost Done",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 290,
   ownLength: 3148,
   unitSlug: "words",

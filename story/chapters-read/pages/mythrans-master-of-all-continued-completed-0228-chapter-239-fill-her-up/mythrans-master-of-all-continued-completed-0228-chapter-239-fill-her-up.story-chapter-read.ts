@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0228Chapter239FillHerUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0228-chapter-239-fill-her-up",
   title: "Chapter 239 - Fill Her Up",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 228,
   ownLength: 3112,
   unitSlug: "words",

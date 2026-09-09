@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0221Chapter232NotNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0221-chapter-232-not-now",
   title: "Chapter 232 - Not Now!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 221,
   ownLength: 3520,
   unitSlug: "words",

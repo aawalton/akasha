@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0102Chapter117ATheCondomSomeEx
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0102-chapter-117-a-the-condom-some-explicit-content",
   title: "Chapter 117 A - The Condom (Some Explicit Content)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 102,
   ownLength: 1670,
   unitSlug: "words",

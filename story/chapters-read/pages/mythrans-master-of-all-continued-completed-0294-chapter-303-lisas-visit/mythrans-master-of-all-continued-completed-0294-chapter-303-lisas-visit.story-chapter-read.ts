@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0294Chapter303LisasVisit = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0294-chapter-303-lisas-visit",
   title: "Chapter 303 - Lisa's Visit",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 294,
   ownLength: 5075,
   unitSlug: "words",

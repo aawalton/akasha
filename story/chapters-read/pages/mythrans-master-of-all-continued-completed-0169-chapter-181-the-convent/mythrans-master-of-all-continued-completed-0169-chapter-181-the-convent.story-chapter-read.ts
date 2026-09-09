@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0169Chapter181TheConvent = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0169-chapter-181-the-convent",
   title: "Chapter 181 - The Convent",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 169,
   ownLength: 4336,
   unitSlug: "words",

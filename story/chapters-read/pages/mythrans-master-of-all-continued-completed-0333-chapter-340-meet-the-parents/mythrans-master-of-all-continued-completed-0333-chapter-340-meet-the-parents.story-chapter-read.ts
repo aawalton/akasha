@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0333Chapter340MeetTheParents =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0333-chapter-340-meet-the-parents",
   title: "Chapter 340 - Meet The Parents",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 333,
   ownLength: 3745,
   unitSlug: "words",

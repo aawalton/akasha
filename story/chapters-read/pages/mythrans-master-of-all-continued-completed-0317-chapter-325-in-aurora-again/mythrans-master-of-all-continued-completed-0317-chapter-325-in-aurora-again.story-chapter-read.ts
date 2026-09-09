@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0317Chapter325InAuroraAgain = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0317-chapter-325-in-aurora-again",
   title: "Chapter 325 - In Aurora Again",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 317,
   ownLength: 3789,
   unitSlug: "words",

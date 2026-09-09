@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0275Chapter284AnotherSurprisin
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0275-chapter-284-another-surprising-discovery",
   title: "Chapter 284 - Another Surprising Discovery",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 275,
   ownLength: 4105,
   unitSlug: "words",

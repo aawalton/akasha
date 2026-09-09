@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0341Chapter348ShoppingAtTheCap
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0341-chapter-348-shopping-at-the-capital",
   title: "Chapter 348 - Shopping At The Capital",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 341,
   ownLength: 3063,
   unitSlug: "words",

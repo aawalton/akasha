@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0271Chapter280ICouldUseThat = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0271-chapter-280-i-could-use-that",
   title: "Chapter 280 - I Could Use That",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 271,
   ownLength: 3901,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0219Chapter230PenPlay = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0219-chapter-230-pen-play",
   title: "Chapter 230 - Pen Play",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 219,
   ownLength: 3658,
   unitSlug: "words",

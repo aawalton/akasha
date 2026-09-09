@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0066Chapter82GatheringSupplies
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0066-chapter-82-gathering-supplies",
   title: "Chapter 82 - Gathering Supplies",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 66,
   ownLength: 3808,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0004Chapter20OutOfTheFryingPan
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0004-chapter-20-out-of-the-frying-pan",
   title: "Chapter 20 - Out Of The Frying Pan",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 4,
   ownLength: 2115,
   unitSlug: "words",

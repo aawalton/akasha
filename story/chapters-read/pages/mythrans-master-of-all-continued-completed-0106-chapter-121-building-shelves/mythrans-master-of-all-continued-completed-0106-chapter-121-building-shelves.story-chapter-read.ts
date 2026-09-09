@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0106Chapter121BuildingShelves 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0106-chapter-121-building-shelves",
   title: "Chapter 121 - Building Shelves",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 106,
   ownLength: 4714,
   unitSlug: "words",

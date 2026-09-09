@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0329Chapter336ABitOfBonding = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0329-chapter-336-a-bit-of-bonding",
   title: "Chapter 336 - A Bit Of Bonding",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 329,
   ownLength: 3314,
   unitSlug: "words",

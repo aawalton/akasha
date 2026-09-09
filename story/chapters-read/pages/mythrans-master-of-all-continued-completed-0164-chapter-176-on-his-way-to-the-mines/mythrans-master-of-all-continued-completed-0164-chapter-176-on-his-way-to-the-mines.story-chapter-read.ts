@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0164Chapter176OnHisWayToTheMin
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0164-chapter-176-on-his-way-to-the-mines",
   title: "Chapter 176 - On His Way To The Mines",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 164,
   ownLength: 4656,
   unitSlug: "words",

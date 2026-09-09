@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0135Chapter150ItComes = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0135-chapter-150-it-comes",
   title: "Chapter 150 - It Comes",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 135,
   ownLength: 5284,
   unitSlug: "words",

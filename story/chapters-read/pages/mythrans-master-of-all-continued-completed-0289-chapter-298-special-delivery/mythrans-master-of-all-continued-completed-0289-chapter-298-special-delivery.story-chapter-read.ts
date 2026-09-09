@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0289Chapter298SpecialDelivery 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0289-chapter-298-special-delivery",
   title: "Chapter 298 - Special Delivery",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 289,
   ownLength: 4242,
   unitSlug: "words",

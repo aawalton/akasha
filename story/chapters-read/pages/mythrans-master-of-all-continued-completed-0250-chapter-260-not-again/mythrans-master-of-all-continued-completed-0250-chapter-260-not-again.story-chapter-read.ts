@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0250Chapter260NotAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0250-chapter-260-not-again",
   title: "Chapter 260 - Not Again",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 250,
   ownLength: 3501,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0307Chapter315aRedheadFever = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0307-chapter-315a-redhead-fever",
   title: "Chapter 315A - Redhead Fever",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 307,
   ownLength: 2212,
   unitSlug: "words",

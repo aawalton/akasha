@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0016Chapter32IsThatAClue = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0016-chapter-32-is-that-a-clue",
   title: "Chapter 32 - Is That A Clue?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 16,
   ownLength: 2072,
   unitSlug: "words",

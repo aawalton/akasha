@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0348Chapter355BlowOnThis = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0348-chapter-355-blow-on-this",
   title: "Chapter 355 - Blow On This",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 348,
   ownLength: 3621,
   unitSlug: "words",

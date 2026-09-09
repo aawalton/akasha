@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0277Chapter286ToTheHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0277-chapter-286-to-the-house",
   title: "Chapter 286 - To The House",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 277,
   ownLength: 3278,
   unitSlug: "words",

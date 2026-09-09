@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0007Chapter23TheField = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0007-chapter-23-the-field",
   title: "Chapter 23 - The Field",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 7,
   ownLength: 2895,
   unitSlug: "words",

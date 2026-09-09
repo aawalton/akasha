@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0316Chapter324OnTheShore = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0316-chapter-324-on-the-shore",
   title: "Chapter 324 - On The Shore",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 316,
   ownLength: 3227,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0230Chapter241TheGiftThatKeeps
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0230-chapter-241-the-gift-that-keeps-on-giving",
   title: "Chapter 241 - The Gift That Keeps On Giving",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 230,
   ownLength: 3494,
   unitSlug: "words",

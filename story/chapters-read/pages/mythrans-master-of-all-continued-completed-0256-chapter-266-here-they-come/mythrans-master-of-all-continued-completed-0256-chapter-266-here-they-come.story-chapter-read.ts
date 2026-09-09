@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0256Chapter266HereTheyCome = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0256-chapter-266-here-they-come",
   title: "Chapter 266 - Here They Come",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 256,
   ownLength: 10484,
   unitSlug: "words",

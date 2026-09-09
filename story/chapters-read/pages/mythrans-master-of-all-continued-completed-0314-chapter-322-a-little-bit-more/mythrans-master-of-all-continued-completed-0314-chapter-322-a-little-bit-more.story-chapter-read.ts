@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0314Chapter322ALittleBitMore =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0314-chapter-322-a-little-bit-more",
   title: "Chapter 322 - A Little Bit More",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 314,
   ownLength: 3175,
   unitSlug: "words",

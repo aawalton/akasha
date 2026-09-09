@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0180Chapter192CongratulationsI
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0180-chapter-192-congratulations-its-a-mine",
   title: "Chapter 192 - Congratulations! It's A Mine!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 180,
   ownLength: 3503,
   unitSlug: "words",

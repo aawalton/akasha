@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0148Chapter162ToTheVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0148-chapter-162-to-the-village",
   title: "Chapter 162 - To The Village",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 148,
   ownLength: 2994,
   unitSlug: "words",

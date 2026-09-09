@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0324Chapter332PurrFectTiming =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0324-chapter-332-purr-fect-timing",
   title: "Chapter 332 - Purr-fect Timing",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 324,
   ownLength: 3607,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0293Chapter302JobsDone = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0293-chapter-302-jobs-done",
   title: "Chapter 302 - Job's Done",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 293,
   ownLength: 3445,
   unitSlug: "words",

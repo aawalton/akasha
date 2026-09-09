@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0133Chapter148HolyCrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0133-chapter-148-holy-crap",
   title: "Chapter 148 - Holy Crap!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 133,
   ownLength: 3190,
   unitSlug: "words",

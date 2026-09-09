@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0295Chapter304LisasVisitPart2 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0295-chapter-304-lisas-visit-part-2",
   title: "Chapter 304 - Lisa's Visit Part 2",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 295,
   ownLength: 3893,
   unitSlug: "words",

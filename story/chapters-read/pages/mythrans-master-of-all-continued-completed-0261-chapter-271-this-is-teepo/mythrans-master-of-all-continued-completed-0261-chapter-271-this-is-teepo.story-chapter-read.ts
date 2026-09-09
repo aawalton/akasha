@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0261Chapter271ThisIsTeepo = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0261-chapter-271-this-is-teepo",
   title: "Chapter 271 - This Is Teepo",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 261,
   ownLength: 3419,
   unitSlug: "words",

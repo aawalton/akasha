@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0071Chapter87TheDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0071-chapter-87-the-duel",
   title: "Chapter 87 - The Duel",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 71,
   ownLength: 3972,
   unitSlug: "words",

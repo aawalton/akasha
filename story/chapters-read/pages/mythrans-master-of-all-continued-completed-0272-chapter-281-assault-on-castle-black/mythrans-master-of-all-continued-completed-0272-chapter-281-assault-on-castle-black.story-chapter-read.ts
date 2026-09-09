@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0272Chapter281AssaultOnCastleB
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0272-chapter-281-assault-on-castle-black",
   title: "Chapter 281 - Assault on Castle Black",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 272,
   ownLength: 3902,
   unitSlug: "words",

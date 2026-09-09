@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0177Chapter189TunedIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0177-chapter-189-tuned-in",
   title: "Chapter 189 - Tuned In",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 177,
   ownLength: 3991,
   unitSlug: "words",

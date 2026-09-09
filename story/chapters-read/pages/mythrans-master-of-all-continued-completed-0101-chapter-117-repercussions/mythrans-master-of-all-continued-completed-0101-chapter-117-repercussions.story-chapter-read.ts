@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0101Chapter117Repercussions = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0101-chapter-117-repercussions",
   title: "Chapter 117 - Repercussions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 101,
   ownLength: 3743,
   unitSlug: "words",

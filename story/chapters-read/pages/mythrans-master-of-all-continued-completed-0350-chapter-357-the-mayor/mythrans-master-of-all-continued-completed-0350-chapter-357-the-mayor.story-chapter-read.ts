@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0350Chapter357TheMayor = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0350-chapter-357-the-mayor",
   title: "Chapter 357 - The Mayor",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 350,
   ownLength: 3261,
   unitSlug: "words",

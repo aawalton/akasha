@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0321Chapter329ThePinkPearl = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0321-chapter-329-the-pink-pearl",
   title: "Chapter 329 - The Pink Pearl",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 321,
   ownLength: 4148,
   unitSlug: "words",

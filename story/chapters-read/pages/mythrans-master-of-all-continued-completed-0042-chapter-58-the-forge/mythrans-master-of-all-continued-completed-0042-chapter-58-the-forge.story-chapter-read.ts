@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0042Chapter58TheForge = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0042-chapter-58-the-forge",
   title: "Chapter 58 - The Forge",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 42,
   ownLength: 3948,
   unitSlug: "words",

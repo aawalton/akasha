@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0121Chapter136ItStillFloats = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0121-chapter-136-it-still-floats",
   title: "Chapter 136 - It Still Floats",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 121,
   ownLength: 6646,
   unitSlug: "words",

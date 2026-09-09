@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0050Chapter66CaptainOfTheGuard
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0050-chapter-66-captain-of-the-guard",
   title: "Chapter 66 - Captain of the Guard",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 50,
   ownLength: 4046,
   unitSlug: "words",

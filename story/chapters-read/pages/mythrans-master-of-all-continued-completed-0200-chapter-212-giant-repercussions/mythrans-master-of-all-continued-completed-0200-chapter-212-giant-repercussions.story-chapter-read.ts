@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0200Chapter212GiantRepercussio
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0200-chapter-212-giant-repercussions",
   title: "Chapter 212 - Giant Repercussions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 200,
   ownLength: 2715,
   unitSlug: "words",

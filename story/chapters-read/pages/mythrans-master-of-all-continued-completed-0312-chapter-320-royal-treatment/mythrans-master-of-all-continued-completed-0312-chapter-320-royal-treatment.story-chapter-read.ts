@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0312Chapter320RoyalTreatment =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0312-chapter-320-royal-treatment",
   title: "Chapter 320 - Royal Treatment",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 312,
   ownLength: 3673,
   unitSlug: "words",

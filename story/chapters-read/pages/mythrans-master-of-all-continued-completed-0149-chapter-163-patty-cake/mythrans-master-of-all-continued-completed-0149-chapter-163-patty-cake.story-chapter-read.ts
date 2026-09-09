@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0149Chapter163PattyCake = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0149-chapter-163-patty-cake",
   title: "Chapter 163 - Patty Cake",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 149,
   ownLength: 3689,
   unitSlug: "words",

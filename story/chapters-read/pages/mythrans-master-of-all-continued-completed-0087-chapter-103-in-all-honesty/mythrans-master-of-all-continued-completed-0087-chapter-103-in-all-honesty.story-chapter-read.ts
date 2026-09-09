@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0087Chapter103InAllHonesty = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0087-chapter-103-in-all-honesty",
   title: "Chapter 103 - In All Honesty",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 87,
   ownLength: 3437,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0161Chapter173LetMeDrive = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0161-chapter-173-let-me-drive",
   title: "Chapter 173 - Let Me Drive",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 161,
   ownLength: 4862,
   unitSlug: "words",

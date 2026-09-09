@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0115Chapter130Barracks = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0115-chapter-130-barracks",
   title: "Chapter 130 - Barracks?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 115,
   ownLength: 3447,
   unitSlug: "words",

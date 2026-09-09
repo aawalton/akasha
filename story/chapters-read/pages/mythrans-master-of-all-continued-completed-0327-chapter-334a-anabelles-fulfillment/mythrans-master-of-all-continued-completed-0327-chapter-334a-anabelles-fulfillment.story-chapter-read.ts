@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0327Chapter334aAnabellesFulfil
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0327-chapter-334a-anabelles-fulfillment",
   title: "Chapter 334A - Anabelle's Fulfillment",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 327,
   ownLength: 1795,
   unitSlug: "words",

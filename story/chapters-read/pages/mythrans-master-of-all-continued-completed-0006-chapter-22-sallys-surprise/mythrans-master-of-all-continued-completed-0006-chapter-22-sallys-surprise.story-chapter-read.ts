@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0006Chapter22SallysSurprise = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0006-chapter-22-sallys-surprise",
   title: "Chapter 22 - Sally's Surprise",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 6,
   ownLength: 3172,
   unitSlug: "words",

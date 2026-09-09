@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0218Chapter229FrenchToast = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0218-chapter-229-french-toast",
   title: "Chapter 229 - French Toast",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 218,
   ownLength: 3498,
   unitSlug: "words",

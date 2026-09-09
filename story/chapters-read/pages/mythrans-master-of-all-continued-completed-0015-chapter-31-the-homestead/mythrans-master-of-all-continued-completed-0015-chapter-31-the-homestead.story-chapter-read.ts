@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0015Chapter31TheHomestead = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0015-chapter-31-the-homestead",
   title: "Chapter 31 - The Homestead",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 15,
   ownLength: 2733,
   unitSlug: "words",

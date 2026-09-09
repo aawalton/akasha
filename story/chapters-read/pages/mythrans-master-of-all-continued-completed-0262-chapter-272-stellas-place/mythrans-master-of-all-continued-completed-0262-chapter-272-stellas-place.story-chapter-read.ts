@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0262Chapter272StellasPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0262-chapter-272-stellas-place",
   title: "Chapter 272 - Stella's Place",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 262,
   ownLength: 3462,
   unitSlug: "words",

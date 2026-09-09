@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0236Chapter247DinnerDate = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0236-chapter-247-dinner-date",
   title: "Chapter 247 - Dinner Date",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 236,
   ownLength: 3872,
   unitSlug: "words",

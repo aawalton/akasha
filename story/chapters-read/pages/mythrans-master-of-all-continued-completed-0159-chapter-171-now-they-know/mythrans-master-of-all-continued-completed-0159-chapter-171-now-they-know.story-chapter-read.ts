@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0159Chapter171NowTheyKnow = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0159-chapter-171-now-they-know",
   title: "Chapter 171 - Now They Know",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 159,
   ownLength: 3389,
   unitSlug: "words",

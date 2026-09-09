@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0038Chapter54DoneTravelling = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0038-chapter-54-done-travelling",
   title: "Chapter 54 - Done Travelling",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 38,
   ownLength: 2621,
   unitSlug: "words",

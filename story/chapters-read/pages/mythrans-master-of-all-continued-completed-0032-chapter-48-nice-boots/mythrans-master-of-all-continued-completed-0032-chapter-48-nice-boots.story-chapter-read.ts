@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0032Chapter48NiceBoots = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0032-chapter-48-nice-boots",
   title: "Chapter 48 - Nice Boots",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 32,
   ownLength: 2218,
   unitSlug: "words",

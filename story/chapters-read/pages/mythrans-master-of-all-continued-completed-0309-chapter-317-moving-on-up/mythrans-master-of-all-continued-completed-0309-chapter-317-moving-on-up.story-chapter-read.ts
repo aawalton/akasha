@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0309Chapter317MovingOnUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0309-chapter-317-moving-on-up",
   title: "Chapter 317 - Moving On Up",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 309,
   ownLength: 3451,
   unitSlug: "words",

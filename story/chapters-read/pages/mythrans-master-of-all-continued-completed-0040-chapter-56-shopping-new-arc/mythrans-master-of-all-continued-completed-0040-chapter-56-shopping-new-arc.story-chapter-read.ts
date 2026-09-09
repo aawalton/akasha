@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0040Chapter56ShoppingNewArc = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0040-chapter-56-shopping-new-arc",
   title: "Chapter 56 - Shopping (New Arc)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 40,
   ownLength: 2051,
   unitSlug: "words",

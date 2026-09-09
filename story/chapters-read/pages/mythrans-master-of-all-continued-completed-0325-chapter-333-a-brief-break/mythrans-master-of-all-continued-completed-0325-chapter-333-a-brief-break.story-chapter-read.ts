@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0325Chapter333ABriefBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0325-chapter-333-a-brief-break",
   title: "Chapter 333 - A Brief Break",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 325,
   ownLength: 3404,
   unitSlug: "words",

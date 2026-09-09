@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0276Chapter285TheyAreLoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0276-chapter-285-they-are-loot",
   title: "Chapter 285 - They Are Loot",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 276,
   ownLength: 3928,
   unitSlug: "words",

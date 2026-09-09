@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0269Chapter278TroubleWithEreka
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0269-chapter-278-trouble-with-ereka",
   title: "Chapter 278 - Trouble With Ereka",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 269,
   ownLength: 3600,
   unitSlug: "words",

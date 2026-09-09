@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0013Chapter29IntoTheWild = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0013-chapter-29-into-the-wild",
   title: "Chapter 29 - Into The Wild",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 13,
   ownLength: 2891,
   unitSlug: "words",

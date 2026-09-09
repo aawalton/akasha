@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0345Chapter352CanYouResistChan
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0345-chapter-352-can-you-resist-change",
   title: "Chapter 352 - Can You Resist Change?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 345,
   ownLength: 3645,
   unitSlug: "words",

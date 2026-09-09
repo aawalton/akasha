@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0201Chapter213SoThatsWhy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0201-chapter-213-so-thats-why",
   title: "Chapter 213 - So That's Why",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 201,
   ownLength: 2804,
   unitSlug: "words",

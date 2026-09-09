@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0224Chapter235Confrontations =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0224-chapter-235-confrontations",
   title: "Chapter 235 - Confrontations",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 224,
   ownLength: 3485,
   unitSlug: "words",

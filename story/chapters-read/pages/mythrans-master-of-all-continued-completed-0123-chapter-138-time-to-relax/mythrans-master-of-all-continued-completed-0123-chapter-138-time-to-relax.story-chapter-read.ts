@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0123Chapter138TimeToRelax = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0123-chapter-138-time-to-relax",
   title: "Chapter 138 - Time To Relax",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 123,
   ownLength: 5112,
   unitSlug: "words",

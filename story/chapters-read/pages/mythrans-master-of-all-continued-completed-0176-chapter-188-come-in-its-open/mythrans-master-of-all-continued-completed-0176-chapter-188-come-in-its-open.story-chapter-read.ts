@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0176Chapter188ComeInItsOpen = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0176-chapter-188-come-in-its-open",
   title: "Chapter 188 - Come In, It's Open",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 176,
   ownLength: 4753,
   unitSlug: "words",

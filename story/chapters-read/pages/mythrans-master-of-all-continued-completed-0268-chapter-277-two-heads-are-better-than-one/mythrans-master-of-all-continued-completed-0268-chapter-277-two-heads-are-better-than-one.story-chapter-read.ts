@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0268Chapter277TwoHeadsAreBette
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0268-chapter-277-two-heads-are-better-than-one",
   title: "Chapter 277 - Two Heads Are Better Than One",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 268,
   ownLength: 3067,
   unitSlug: "words",

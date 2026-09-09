@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0064Chapter80BowBracers = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0064-chapter-80-bow-bracers",
   title: "Chapter 80 - Bow Bracers",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 64,
   ownLength: 4449,
   unitSlug: "words",

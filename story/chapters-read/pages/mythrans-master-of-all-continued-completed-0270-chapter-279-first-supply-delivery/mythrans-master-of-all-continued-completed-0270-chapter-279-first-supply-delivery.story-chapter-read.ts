@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0270Chapter279FirstSupplyDeliv
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0270-chapter-279-first-supply-delivery",
   title: "Chapter 279 - First Supply Delivery",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 270,
   ownLength: 3586,
   unitSlug: "words",

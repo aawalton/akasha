@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0055Chapter71ANightInJail = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0055-chapter-71-a-night-in-jail",
   title: "Chapter 71 - A Night In Jail",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 55,
   ownLength: 5218,
   unitSlug: "words",

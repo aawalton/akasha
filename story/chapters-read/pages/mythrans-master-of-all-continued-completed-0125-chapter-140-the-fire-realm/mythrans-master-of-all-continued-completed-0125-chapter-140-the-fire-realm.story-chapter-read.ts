@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0125Chapter140TheFireRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0125-chapter-140-the-fire-realm",
   title: "Chapter 140 - The Fire Realm",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 125,
   ownLength: 6516,
   unitSlug: "words",

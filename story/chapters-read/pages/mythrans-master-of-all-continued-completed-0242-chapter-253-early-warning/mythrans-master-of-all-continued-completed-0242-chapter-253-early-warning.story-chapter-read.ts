@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0242Chapter253EarlyWarning = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0242-chapter-253-early-warning",
   title: "Chapter 253 - Early Warning",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 242,
   ownLength: 3479,
   unitSlug: "words",

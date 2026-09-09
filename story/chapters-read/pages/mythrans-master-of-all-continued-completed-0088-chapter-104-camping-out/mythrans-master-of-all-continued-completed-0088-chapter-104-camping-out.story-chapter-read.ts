@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0088Chapter104CampingOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0088-chapter-104-camping-out",
   title: "Chapter 104 - Camping Out",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 88,
   ownLength: 6407,
   unitSlug: "words",

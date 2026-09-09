@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0210Chapter222CampGiant = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0210-chapter-222-camp-giant",
   title: "Chapter 222 - Camp Giant",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 210,
   ownLength: 3774,
   unitSlug: "words",

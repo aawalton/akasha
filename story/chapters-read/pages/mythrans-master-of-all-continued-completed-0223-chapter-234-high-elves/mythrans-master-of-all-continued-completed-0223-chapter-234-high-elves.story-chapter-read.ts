@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0223Chapter234HighElves = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0223-chapter-234-high-elves",
   title: "Chapter 234 - High Elves",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 223,
   ownLength: 3111,
   unitSlug: "words",

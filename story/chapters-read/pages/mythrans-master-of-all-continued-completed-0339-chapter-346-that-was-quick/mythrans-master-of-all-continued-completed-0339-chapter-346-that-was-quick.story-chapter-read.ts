@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0339Chapter346ThatWasQuick = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0339-chapter-346-that-was-quick",
   title: "Chapter 346 - That Was Quick",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 339,
   ownLength: 3641,
   unitSlug: "words",

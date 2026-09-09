@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0243Chapter254PreparationG = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0243-chapter-254-preparation-g",
   title: "Chapter 254 - Preparation G",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 243,
   ownLength: 4298,
   unitSlug: "words",

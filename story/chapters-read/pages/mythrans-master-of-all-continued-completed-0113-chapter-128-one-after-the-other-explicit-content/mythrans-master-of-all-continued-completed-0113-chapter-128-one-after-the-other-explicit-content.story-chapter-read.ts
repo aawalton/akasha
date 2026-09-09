@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0113Chapter128OneAfterTheOther
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0113-chapter-128-one-after-the-other-explicit-content",
   title: "Chapter 128 - One After The Other (Explicit Content)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 113,
   ownLength: 8429,
   unitSlug: "words",

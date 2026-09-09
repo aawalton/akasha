@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0175Chapter187InnocenceLostSli
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0175-chapter-187-innocence-lost-slightly-explicit",
   title: "Chapter 187 - Innocence Lost (Slightly Explicit)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 175,
   ownLength: 5067,
   unitSlug: "words",

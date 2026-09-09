@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0127Chapter142FireGood = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0127-chapter-142-fire-good",
   title: "Chapter 142 - Fire Good!",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 127,
   ownLength: 2910,
   unitSlug: "words",

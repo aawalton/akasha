@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0162Chapter174ItsSoFluffy = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0162-chapter-174-its-so-fluffy",
   title: "Chapter 174 - It's So Fluffy",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 162,
   ownLength: 5407,
   unitSlug: "words",
