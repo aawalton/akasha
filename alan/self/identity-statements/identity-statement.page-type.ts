@@ -10,7 +10,7 @@ import type { IdentityStatementTags } from "./properties/identity-statement-tags
 import type { IdentityStatementValueSlug } from "./properties/identity-statement-value-slug.relation-property.ts"
 import type { NotionId } from "./properties/notion-id.text-property.ts"
 import type { ParentStatement } from "./properties/parent-statement.relation-property.ts"
-import type { ReplacedByStatementSlugs } from "./properties/replaced-by-statement-slugs.relation-property.ts"
+import type { ReplacedByStatements } from "./properties/replaced-by-statements.relation-property.ts"
 import type { ReplacesStatements } from "./properties/replaces-statements.relation-property.ts"
 import type { SubStatements } from "./properties/sub-statements.relation-property.ts"
 
@@ -21,7 +21,7 @@ export type IdentityStatement = Page & {
   notionId: NotionId
   parentStatement?: ParentStatement
   identityStatementRank: IdentityStatementRank
-  replacedByStatementSlugs?: readonly ReplacedByStatementSlugs[]
+  replacedByStatements?: readonly ReplacedByStatements[]
   replacesStatements?: readonly ReplacesStatements[]
   identityStatementStatus: IdentityStatementStatus
   subStatements?: readonly SubStatements[]
@@ -41,7 +41,7 @@ export const identityStatement = {
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value-slug",
     "relation-property/parent-statement",
-    "relation-property/replaced-by-statement-slugs",
+    "relation-property/replaced-by-statements",
     "relation-property/replaces-statements",
     "relation-property/sub-statements",
     "select-property/about",
@@ -58,7 +58,7 @@ export const identityStatement = {
     { pagePropertySlug: "relation-property/parent-statement", required: false, many: false },
     { pagePropertySlug: "select-property/identity-statement-rank", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/replaced-by-statement-slugs",
+      pagePropertySlug: "relation-property/replaced-by-statements",
       required: false,
       many: true,
       maxCount: null,

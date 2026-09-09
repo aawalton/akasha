@@ -9,7 +9,7 @@ export const iEatWhateverIsEasiest = {
   identityStatementLevel: -0.4,
   notionId: "2d95cf0bf24a8087812dd90d84f5ada3",
   identityStatementRank: "d-rank",
-  replacedByStatementSlugs: ["i-am-whole-food-plant-based"],
+  replacedByStatements: ["i-am-whole-food-plant-based"],
   identityStatementStatus: "deprecated",
   identityStatementTags: ["eat"],
   identityStatementValueSlug: "health",
