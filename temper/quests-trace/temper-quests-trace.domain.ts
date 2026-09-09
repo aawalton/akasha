@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperQuestsTrace = {
   id: "01a06098-98a2-7c25-8f77-066842973eb3",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-quests-trace",
   definition: "what the quest addon decided, read back from what the addon saved",
-  manifest: "json",
   parts: ["module/auto-quest-trace"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperQuestsTrace = {
       statement: "No game function is called here.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

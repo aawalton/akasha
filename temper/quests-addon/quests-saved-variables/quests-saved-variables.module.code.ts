@@ -1,5 +1,5 @@
-import type { AutoQuestTraceEntry } from "@akasha/temper-quests-trace/auto-quest-trace"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   SAVED_VARIABLES_NAME,
   SAVED_VARIABLES_VERSION,

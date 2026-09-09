@@ -1,4 +1,4 @@
-import type { AutoQuestTraceEntry } from "@akasha/temper-quests-trace/auto-quest-trace"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import {
   chatterOptionTypeName,
   interactionTypeName,

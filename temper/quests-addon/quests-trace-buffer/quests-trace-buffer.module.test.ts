@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { AutoQuestTraceEntry } from "@akasha/temper-quests-trace/auto-quest-trace"
+import type { AutoQuestTraceEntry } from "akasha/temper/quests-trace/auto-quest-trace/auto-quest-trace.module.code.ts"
 import { appendBounded, TRACE_CAP } from "./quests-trace-buffer.module.code.ts"
 
 function action(at: number): AutoQuestTraceEntry {
