@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const masterGamesStudyLucenaPosition1497 = {
   id: "019f248f-e855-716b-92d3-540364ae0f16",

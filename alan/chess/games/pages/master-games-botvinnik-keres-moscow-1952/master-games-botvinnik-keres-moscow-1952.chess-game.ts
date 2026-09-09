@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const masterGamesBotvinnikKeresMoscow1952 = {
   id: "019f248f-e85d-7f24-9e34-2a70141d75a2",

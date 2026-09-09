@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const masterGamesStudyFahrniAlapinTriangulation1917 = {
   id: "019f248f-e852-7a17-a1df-335656c3bb0a",

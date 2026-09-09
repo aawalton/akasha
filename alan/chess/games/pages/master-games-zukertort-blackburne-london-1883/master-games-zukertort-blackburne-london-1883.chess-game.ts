@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const masterGamesZukertortBlackburneLondon1883 = {
   id: "019f1e68-978d-79e2-9d08-c149b5ef540a",

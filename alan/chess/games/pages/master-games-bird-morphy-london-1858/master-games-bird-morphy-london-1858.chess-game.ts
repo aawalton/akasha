@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const masterGamesBirdMorphyLondon1858 = {
   id: "019f1e68-9799-7f36-9f9b-065a9607e6e5",

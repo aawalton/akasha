@@ -1,4 +1,4 @@
-import type { ChessGame } from "../../chess-game.page-type.ts"
+import type { ChessGame } from "../../chess-game.page-type.types.ts"
 
 export const maiaGame1787197093002 = {
   id: "01a01d3f-9831-7000-a934-66dcc2251505",
