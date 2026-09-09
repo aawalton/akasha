@@ -5,7 +5,7 @@ export const theEditorLayoutWriteCommandIsRegisteredAndNeverContributed = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-editor-layout-write-command-is-registered-and-never-contributed",
-  domain: "workspace-package/editor-extension",
+  domain: "domain/editor-extension",
   claim:
     "`editor-layout-panel` registers the command `opsEditorLayout.writeNow`, and the extension manifest contributes no such command. A command the manifest does not name is callable through `executeCommand` and invisible in the palette, so the one way Alan could ask for the arrangement to be written now is a way he cannot reach. Every other command this extension registers is contributed.",
   evidence:

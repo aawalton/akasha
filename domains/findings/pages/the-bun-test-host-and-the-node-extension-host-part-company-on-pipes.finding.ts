@@ -5,7 +5,7 @@ export const theBunTestHostAndTheNodeExtensionHostPartCompanyOnPipes = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-bun-test-host-and-the-node-extension-host-part-company-on-pipes",
-  domain: "workspace-package/editor-extension",
+  domain: "domain/editor-extension",
   claim:
     "The observation writer's suite runs under bun and the extension host is node, and the two part company on pipes in two measured ways the suite has to work around. Bun loses a race handing the parent its end of a fourth stdio pipe, refusing between one in twenty and one in five spawns where node refused none of thirty. And bun delivers bytes written to a stream already ended, where node drops them and raises an unhandled error event that takes the host process down.",
   evidence:

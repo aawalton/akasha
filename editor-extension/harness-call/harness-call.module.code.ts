@@ -3,7 +3,7 @@ import * as fs from "node:fs"
 import * as os from "node:os"
 import * as path from "node:path"
 import { promisify } from "node:util"
-import { isServed } from "@akasha/editor-extension/commands-served"
+import { isServed } from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
 import { answerBytesSaid } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   askServed,

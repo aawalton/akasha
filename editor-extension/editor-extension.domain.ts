@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const editorExtension = {
   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "editor-extension",
   definition: "what the editor draws of the system it sits in",
-  manifest: "json",
   parts: [
     "module/champions-tree",
     "module/command-server",
@@ -129,4 +128,4 @@ export const editorExtension = {
       statement: "A row with a match is drawn open while a filter is there.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
