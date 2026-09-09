@@ -4,7 +4,7 @@ export const macStudioGatesTwoRemediations = {
   id: "01a06555-9f3e-743e-94d2-1f3bca617e70",
   pageTypeSlug: "finding",
   slug: "mac-studio-gates-two-remediations",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Two of Alan's dependency remediations wait on the same hardware purchase. Retiring four Anthropic Max subscriptions needs a Mac Studio with 512GB or more of memory to run local models, and that machine is not currently buyable — the plan is blocked on Apple's product cadence, so the standing position is to keep paying and prepare. The same machine is what would make a local model a partial replacement for Google search, so search remediation is blocked behind the same purchase.",
   evidence:

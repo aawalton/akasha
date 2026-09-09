@@ -4,7 +4,7 @@ export const conditionalGradesUnstated = {
   id: "01a06555-9f3d-7dfc-ad0a-63d5c0957452",
   pageTypeSlug: "finding",
   slug: "conditional-grades-unstated",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Some grades across Alan's nine audit files are conditional on an outer constraint without saying so. A grade resting on his residency, his jurisdiction, or a position further up the constraint cascade reads identically to one resting on the organisation itself, so a reader cannot tell which grades would move if the outer condition changed. Most grades given to third-party organisations are not conditional; the residency-rooted, jurisdiction-rooted and cascade-rooted ones are.",
   evidence:

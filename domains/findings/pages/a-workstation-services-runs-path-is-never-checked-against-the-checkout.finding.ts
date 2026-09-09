@@ -4,7 +4,7 @@ export const aWorkstationServicesRunsPathIsNeverCheckedAgainstTheCheckout = {
   id: "01a06358-546d-7476-bdea-920a8b70bea6",
   pageTypeSlug: "finding",
   slug: "a-workstation-services-runs-path-is-never-checked-against-the-checkout",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "A workstation service's `runs` path is never checked against the checkout, so a rename that moves the target leaves the service naming a file that is not there. It dies at its next start with nothing reporting the cause. I found three at once, one of them the constant writing `ExecStart` for every long-running TypeScript workstation service. The call I took: repair the three and leave the check for Alan, whom Alan Approves Checks reserves it to.",
   evidence:

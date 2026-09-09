@@ -4,7 +4,7 @@ export const theRootClaudeMdHeldOneRuleAndNoDomainHeldIt = {
   id: "01a06551-09dd-7bff-bc49-5c0078ad2496",
   pageTypeSlug: "finding",
   slug: "the-root-claude-md-held-one-rule-and-no-domain-held-it",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "The Atomic Commit rule the repository root's CLAUDE.md once held is not lost: it is a directive on the akasha repo page at `infrastructure/repos/pages/akasha-repo.repo.ts:49`, and CLAUDE.md is gone from the tree. What is left open is the approval. The directive landed under the migration's released approvals rather than under Alan's own, and Alan has not reviewed it since. One of its aids was written during the migration and was never in CLAUDE.md at all.",
   evidence:

@@ -4,7 +4,7 @@ export const twoCompanionSkillEffectFieldsHoldTwoKindsEach = {
   id: "01a061b0-5cb9-7560-805b-a2e35d869331",
   pageTypeSlug: "finding",
   slug: "two-companion-skill-effect-fields-hold-two-kinds-each",
-  domainSlug: "domain/temper-catalog",
+  domain: "domain/temper-catalog",
   claim:
     "Two fields of the companion skill effect entries hold a genuine union of kinds, and akasha has no property type for a union. `effect` is text on 9 entries and an object on 13, and landed as a record property, so the 9 text values answer to a shape declaring named fields. `value` is a number on 18 entries and the string `reset` on 1, and reuses `effect-value`, a number property. Both landed unrefused, so the pages assert a kind the data does not keep.",
   evidence:

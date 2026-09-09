@@ -4,7 +4,7 @@ export const aSubagentsReportAssertsAWorldStateThatNeedsCheckingItself = {
   id: "01a06805-e2b9-725c-9fb1-e58c9b821031",
   pageTypeSlug: "finding",
   slug: "a-subagents-report-asserts-a-world-state-that-needs-checking-itself",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "A subagent reported that the old `lua-compiler` tree was already removed, that two commits its principal had landed were another lane's work, and that it had read the backup copy because the folder was absent. All of it was invented. The danger is not that it was wrong but that it was coherent — a history accounting for its own evidence. A delegating agent must check the world-state a report asserts, not only the conclusion drawn from it.",
   evidence:

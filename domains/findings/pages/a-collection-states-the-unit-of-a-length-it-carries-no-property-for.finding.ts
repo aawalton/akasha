@@ -4,7 +4,7 @@ export const aCollectionStatesTheUnitOfALengthItCarriesNoPropertyFor = {
   id: "01a064c1-d029-7eb3-bc31-acad90dfd6d6",
   pageTypeSlug: "finding",
   slug: "a-collection-states-the-unit-of-a-length-it-carries-no-property-for",
-  domainSlug: "page-type/collection",
+  domain: "page-type/collection",
   claim:
     "`collection` declares the unit a length is counted in and declares no length, so every kind of collection that measures itself has to define a length property of its own.",
   evidence:

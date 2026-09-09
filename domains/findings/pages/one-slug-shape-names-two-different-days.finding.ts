@@ -4,7 +4,7 @@ export const oneSlugShapeNamesTwoDifferentDays = {
   id: "01a06253-c31a-7690-b7bc-2582976906e1",
   pageTypeSlug: "finding",
   slug: "one-slug-shape-names-two-different-days",
-  domainSlug: "domain/alan",
+  domain: "domain/alan",
   claim:
     "Four page types each model a day and none of them is the day. `daily-tracking` and `temper-completed-day` both slug `day-YYYY-MM-DD`, yet the first is the span from 6am America/New_York and the second is read in UTC, so one slug shape names two spans that begin six hours apart. `eso-daily-tracking` slugs `eso-day-YYYY-MM-DD` over the very span `daily-tracking` already covers. A fifth, `music-day`, was added and folded away again inside one hour.",
   evidence:

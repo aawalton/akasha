@@ -4,7 +4,7 @@ export const oneLiftDragsInEveryBlockHoldingImporter = {
   id: "01a06254-6932-7e77-baef-6ccd4f854e9f",
   pageTypeSlug: "finding",
   slug: "one-lift-drags-in-every-block-holding-importer",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`no-global-in-a-module` judges the whole body of every file a write touches, not the lines the write changed. Taking a package's declarations module away means dropping its bare import from every sibling, and a sibling holding its own `declare global` then refuses on that one-line strip. So one lift drags in the lift of every block-holding importer, in the same commit. What is left after this session is 20 modules in 13 packages, every one typed by something a module exports.",
   evidence:

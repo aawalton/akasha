@@ -4,7 +4,7 @@ export const elevenInventorySnapshotsCountChunksThatAreNotThere = {
   id: "01a05fdf-9a2c-70a0-b16d-dff82335e524",
   pageTypeSlug: "finding",
   slug: "eleven-inventory-snapshots-count-chunks-that-are-not-there",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "Eleven of temper's 162 inventory snapshots say they were divided into three chunks and fewer than three chunks were kept. Five kept none at all, and name no capture group anywhere in the source. All eleven carry no `stacks` sidecar, so no slot of those eleven readings is in akasha. The six that kept one chunk or two are not wholly gone: their prefixes hold 11,691 whole item objects.",
   evidence:

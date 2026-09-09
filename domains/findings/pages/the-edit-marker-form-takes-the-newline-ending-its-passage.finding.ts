@@ -4,7 +4,7 @@ export const theEditMarkerFormTakesTheNewlineEndingItsPassage = {
   id: "01a06297-3921-795e-a0a9-67cfda397279",
   pageTypeSlug: "finding",
   slug: "the-edit-marker-form-takes-the-newline-ending-its-passage",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "The marker form `akasha edit` reads from standard input takes the newline ending a passage's line into the passage. So a passage written there as a fragment matches only where the file breaks the line at exactly that point, which for a fragment it almost never does. The refusal says `matches no passage`, which reads the same whether the text is absent or carries one byte more than the file has.",
   evidence:

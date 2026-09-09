@@ -4,7 +4,7 @@ export const trustCriterionSignalsAbsent = {
   id: "01a06555-9f3f-7b76-91ab-9a44b88c9009",
   pageTypeSlug: "finding",
   slug: "trust-criterion-signals-absent",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's trust criterion decides which organisations he depends on, and the signals that would let anyone apply it are unenumerated — ownership structure, how employees are treated, transparency, longevity, governance, and evidence of resisting pressure. Two further questions sit open on it: whether trust in an organisation can be established faster than over years, and whether the rule by which he learns to trust a person is the same mechanism as the rule for an organisation.",
   evidence:

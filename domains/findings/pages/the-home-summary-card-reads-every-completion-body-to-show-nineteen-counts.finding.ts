@@ -4,7 +4,7 @@ export const theHomeSummaryCardReadsEveryCompletionBodyToShowNineteenCounts = {
   id: "01a076d4-25ec-75a9-a5dd-027610a91df4",
   pageTypeSlug: "finding",
   slug: "the-home-summary-card-reads-every-completion-body-to-show-nineteen-counts",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "Temper's home page reads about 7.5 MB of completion bodies to show a card of counts. `home-page-content.module.code.tsx:47` calls `useCompletionProgress(undefined)` and keeps only `accountSummary`, `characterSummary` and `companionSummary`, and each of those is worked out in the browser from every character's whole completion body together with the account's. The read is not newly heavy: until the browser asked for bodies at all, the same card was free and every count read 0, so this is what a right answer costs on the road as it now runs. A count is the one thing that could be worked out where the body already sits.",
   evidence:

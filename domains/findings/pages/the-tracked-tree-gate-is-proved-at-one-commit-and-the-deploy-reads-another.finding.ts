@@ -4,7 +4,7 @@ export const theTrackedTreeGateIsProvedAtOneCommitAndTheDeployReadsAnother = {
   id: "01a05b91-7ef1-7e2b-923d-34b13b1a6ebd",
   pageTypeSlug: "finding",
   slug: "the-tracked-tree-gate-is-proved-at-one-commit-and-the-deploy-reads-another",
-  domainSlug: "page-type/web-app",
+  domain: "page-type/web-app",
   claim:
     "The tracked-tree install gate is sound, but an agent proves it at whatever HEAD stood when it ran, and `akasha deploy` reads HEAD again for itself. Where lanes land every few minutes those are different commits, so a green gate says nothing about the commit actually pushed and built. The gate belongs inside the deploy, against the commit it is about to push.",
   evidence:

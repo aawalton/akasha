@@ -4,7 +4,7 @@ export const aParameterTypeWidensOutOfARuleCheck = {
   id: "01a05c12-ce1a-7b11-aea1-0fae37e720d0",
   pageTypeSlug: "finding",
   slug: "a-parameter-type-widens-out-of-a-rule-check",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "no-rule-in-two-files reads a rule as a function's token string, and that string carries parameter type annotations. Two functions with identical bodies do not refuse each other when they name different parameter types. `isJsonObject(value: Json)` and `isRecord(value: unknown)` have byte-identical bodies and stand side by side. What this check counts is the least there could be, and widening a parameter type is a way out from under it that nothing states.",
   evidence:

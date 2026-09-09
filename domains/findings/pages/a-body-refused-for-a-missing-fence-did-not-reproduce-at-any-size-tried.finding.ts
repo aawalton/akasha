@@ -4,7 +4,7 @@ export const aBodyRefusedForAMissingFenceDidNotReproduceAtAnySizeTried = {
   id: "01a0820f-9471-7763-b6cc-cd6938f126fc",
   pageTypeSlug: "finding",
   slug: "a-body-refused-for-a-missing-fence-did-not-reproduce-at-any-size-tried",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A body of 4320 bytes and one of 20480 bytes reached `akasha change draft` whole, and the non-blocking read behind it answers EAGAIN rather than 0 while a writer is still open, so the one report of a correctly closed 4 KB body refused for a missing fence is unreproduced, and a short read in `takenFrom` is ruled out as its cause.",
   evidence:

@@ -4,7 +4,7 @@ export const nonHabituationRerouteAndBacklinkOwed = {
   id: "01a06555-9f3e-7a3f-8d99-4c62a488c2cb",
   pageTypeSlug: "finding",
   slug: "non-habituation-reroute-and-backlink-owed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Two corpus repairs stand owed on Alan's non-habituation material. The way indirect cost is composed there needs rerouting through the account of his aphantasia as an asymmetry rather than a plain absence, and the link to the trauma-encoding material runs only one way with no reciprocal pointer back.",
   evidence:

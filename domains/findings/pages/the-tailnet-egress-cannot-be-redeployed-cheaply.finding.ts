@@ -4,7 +4,7 @@ export const theTailnetEgressCannotBeRedeployedCheaply = {
   id: "01a05abf-bf21-7bd3-93e0-e09306a52a3b",
   pageTypeSlug: "finding",
   slug: "the-tailnet-egress-cannot-be-redeployed-cheaply",
-  domainSlug: "page-type/cluster-service",
+  domain: "page-type/cluster-service",
   claim:
     "The tailnet egress keeps its private-network enrolment in an emptyDir, so every restart enrols a fresh node under a fresh name and abandons the last one, and it can only do so while its pre-auth key is still good. Redeploying it is therefore not the free act its manifests suggest, which is why the new page store's traffic to it was left unnamed by any network policy rather than admitted by editing the egress.",
   evidence:

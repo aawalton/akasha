@@ -4,7 +4,7 @@ export const theUtilsAndLuaAstSplitLandedWholeInTwoNewModules = {
   id: "01a06798-4d53-7003-97b5-1d133729238a",
   pageTypeSlug: "finding",
   slug: "the-utils-and-lua-ast-split-landed-whole-in-two-new-modules",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "The old `lua-compiler/src/utils.ts` and `src/transformation/utils/lua-ast.ts` were split out while landing at `akasha/language-design/lua-compiler`. Three agents auditing the landing independently hit the same difficulty mapping the old files to their destinations — a piece three readers cannot place is a piece whose home is missing. Both files in fact landed wholesale, each into one new module, and that mapping belongs on the destination pages rather than being re-discovered by each reader.",
   evidence:

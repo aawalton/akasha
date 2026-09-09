@@ -4,7 +4,7 @@ export const oneInventoryReadingIsFiledUnderTwoMomentsWithTwoTotals = {
   id: "01a0675d-dda6-7352-b1c5-61ec83c8cb19",
   pageTypeSlug: "finding",
   slug: "one-inventory-reading-is-filed-under-two-moments-with-two-totals",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "`totalValue` is not derived from the bytes it is filed beside. The captures 2026-08-19-23-46-47 and 2026-08-20-13-58-00 are byte-identical across all 3 shards and share one `meta.lastFullScan`, and their two snapshot pages state different totals, 516395436.74359727 against 516795362.2235968. That number was worked out at file time against price data outside the scan. It holds for every capture rather than this pair alone, and the 790 `temper-net-worth-hour` pages rest on it.",
   evidence:

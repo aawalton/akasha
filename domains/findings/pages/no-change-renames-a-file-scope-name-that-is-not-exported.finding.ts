@@ -4,7 +4,7 @@ export const noChangeRenamesAFileScopeNameThatIsNotExported = {
   id: "01a08258-2265-7f99-acb0-5950b4249d22",
   pageTypeSlug: "finding",
   slug: "no-change-renames-a-file-scope-name-that-is-not-exported",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "No change renames a name a file declares at its top level and does not export. `rename-code-token` sends an exported name to `rename-export`, which restates it across the file and every importer, and sends every other name to `rename-local-variable`, which refuses a name the file itself declares rather than a body inside it. A name at file scope that is not exported falls between the two roads and is refused by both. Every helper type, helper function and constant in a test file is in that gap, and that is where the barred terms live, so a barred term in a test can only be taken out by `change-file` restating the passage by hand.",
   evidence:

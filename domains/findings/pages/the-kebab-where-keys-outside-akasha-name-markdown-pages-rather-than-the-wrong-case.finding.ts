@@ -4,7 +4,7 @@ export const theKebabWhereKeysOutsideAkashaNameMarkdownPagesRatherThanTheWrongCa
   id: "01a05b4b-4db6-7830-9102-7286b93f461e",
   pageTypeSlug: "finding",
   slug: "the-kebab-where-keys-outside-akasha-name-markdown-pages-rather-than-the-wrong-case",
-  domainSlug: "workspace-package/pages-query",
+  domain: "workspace-package/pages-query",
   claim:
     "Thirty-odd `where` clauses across tools, collections and Alan's site ask under kebab keys through `@akasha/pages-query`. They are not miscased. Every page type they name lives as markdown under `pages/`, whose frontmatter keys are kebab, and none of them stands in akasha. Their fault is the store they are pointed at rather than the key they spell. Against the akasha store the kebab-versus-camel class has one confirmed instance, and it was the readout route.",
   evidence:

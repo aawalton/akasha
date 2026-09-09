@@ -4,7 +4,7 @@ export const landingAManifestUnderAkashaWasSeenToOverwriteTheRootManifest = {
   id: "01a06471-8a2f-7000-b6c4-3d05e8a71b29",
   pageTypeSlug: "finding",
   slug: "landing-a-manifest-under-akasha-was-seen-to-overwrite-the-root-manifest",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "Landing a new `package.json` under `akasha/` was seen once to leave the repository's root `package.json` holding the body of the new file. The root manifest lost its workspaces array and every dependency, in the working tree only — the commit was correct. Nobody has reproduced it, so this records an observation and not a mechanism.",
   evidence:

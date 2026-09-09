@@ -4,7 +4,7 @@ export const aLandingReplacesTheWarningSignAndRefusesToPutItBack = {
   id: "01a064ba-fcf2-7480-872e-d0365ec4e384",
   pageTypeSlug: "finding",
   slug: "a-landing-replaces-the-warning-sign-and-refuses-to-put-it-back",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A landing replaces the warning sign U+26A0 with an exclamation mark in code, and nothing puts it back: the replacement is idempotent, so an edit handing the character in is answered as a change already made. It is narrow rather than general — emoji and U+26AB survive a landing byte for byte.",
   evidence:

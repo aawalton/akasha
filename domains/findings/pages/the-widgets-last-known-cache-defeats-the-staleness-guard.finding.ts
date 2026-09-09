@@ -4,7 +4,7 @@ export const theWidgetsLastKnownCacheDefeatsTheStalenessGuard = {
   id: "01a05b7e-984e-7e12-96b8-73d2d9a3127f",
   pageTypeSlug: "finding",
   slug: "the-widgets-last-known-cache-defeats-the-staleness-guard",
-  domainSlug: "ios-component/alanwalton-widget-feed",
+  domain: "ios-component/alanwalton-widget-feed",
   claim:
     "The route refuses a reading older than 45 minutes so that no stale count is shown, and the widget then shows a stale count anyway. A 503 saying there is no fresh reading is read as `.unreachable`, which falls back to `LastKnownStore`, whose entry has no age and is never expired. So the tile draws a number of unbounded age in the same type as a live one, with nothing to tell Alan which he is looking at. The server's staleness guard changes nothing a reader can see.",
   evidence:

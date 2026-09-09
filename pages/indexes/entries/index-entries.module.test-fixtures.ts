@@ -18,9 +18,9 @@ export const SCHEMA = {
   code:
     '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
     '"slug":"code","propertySlug":"code","fileName":null,"folderName":null}',
-  domainSlug:
+  pageDomain:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
-    '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null,"folderName":null}',
+    '"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}',
   partSlugs:
     '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
     '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null,"folderName":null}',
@@ -92,7 +92,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     pageTypeSlug: "one-of-property",
     slug: "either",
     propertySlug: "either",
-    members: ["relation-property/domain-slug", "relation-property/note-slug"],
+    members: ["relation-property/page-domain", "relation-property/note-slug"],
   })
   filed(
     "identity/page-type/record-property/slug/parts.jsonl",
@@ -104,7 +104,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   )
   const declared: readonly (readonly [string, string, string])[] = [
     ["file-property", "code", SCHEMA.code],
-    ["relation-property", "domain-slug", SCHEMA.domainSlug],
+    ["relation-property", "page-domain", SCHEMA.pageDomain],
     ["relation-property", "part-slugs", SCHEMA.partSlugs],
     ["relation-property", "note-slug", SCHEMA.noteSlug],
     ["one-of-property", "either", SCHEMA.either],

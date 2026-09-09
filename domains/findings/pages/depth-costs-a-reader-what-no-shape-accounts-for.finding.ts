@@ -4,7 +4,7 @@ export const depthCostsAReaderWhatNoShapeAccountsFor = {
   id: "01a05e08-d523-7c39-9c40-5b5be80e7944",
   pageTypeSlug: "finding",
   slug: "depth-costs-a-reader-what-no-shape-accounts-for",
-  domainSlug: "page-type/sentence-shape",
+  domain: "page-type/sentence-shape",
   claim:
     "A sentence built only from shapes akasha allows can still cost a reader more than its shapes account for. Load comes from how deeply the shapes nest as well as from which shapes they are. No shape can bound depth, because a shape is one rule rather than a count of how often that rule is reached.",
   evidence:

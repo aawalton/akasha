@@ -4,7 +4,7 @@ export const nothingButTheAgentSurfacesACheckBypassThatAgentTook = {
   id: "01a06488-e217-7263-b6ed-65bd3e959673",
   pageTypeSlug: "finding",
   slug: "nothing-but-the-agent-surfaces-a-check-bypass-that-agent-took",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`--break-the-glass <reason>` lands a change with no check run. `bypassIn` takes any non-null string, so no seat, lane or principal is consulted, and the flag is on six commands. Nothing reads the `Checks-bypassed:` trailer it writes, and 5,394 of the 5,422 commits carrying that trailer are routine mechanical and program bypasses. A parent learns of a subagent's break only if the subagent says so.",
   evidence:

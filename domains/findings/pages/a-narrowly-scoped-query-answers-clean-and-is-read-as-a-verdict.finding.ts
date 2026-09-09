@@ -4,7 +4,7 @@ export const aNarrowlyScopedQueryAnswersCleanAndIsReadAsAVerdict = {
   id: "01a05ff5-97ca-7915-a7c1-a4bb8aa99f6b",
   pageTypeSlug: "finding",
   slug: "a-narrowly-scoped-query-answers-clean-and-is-read-as-a-verdict",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "Five times in one session a query answered truthfully about the region it covered and its answer was read as a verdict on the whole. The fifth was the checker built to judge this very migration: it weighs 18884 values with no fault and cannot see that every landed day lost the rollup those values are computed from, because it compares what is kept and a rollup is worked out. None of the five named its own reach in its answer.",
   evidence:

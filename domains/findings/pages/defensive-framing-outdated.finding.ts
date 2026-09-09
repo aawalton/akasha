@@ -4,7 +4,7 @@ export const defensiveFramingOutdated = {
   id: "01a06555-9f3d-79a4-b1f7-d145343bcb74",
   pageTypeSlug: "finding",
   slug: "defensive-framing-outdated",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's personal-freedom thesis has been corrected to hold that sovereignty is a positive good — freedom to, not only freedom from — and the corpus around it still reads defensively. The reasoning that every dependence is an exposure runs through the audit files, the not-needing direction is written as subtraction, and the remediation logic reads purely as reducing exposure. The correction landed in one place and the writing it supersedes stands everywhere else.",
   evidence:

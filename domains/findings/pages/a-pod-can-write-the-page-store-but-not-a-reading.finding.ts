@@ -4,7 +4,7 @@ export const aPodCanWriteThePageStoreButNotAReading = {
   id: "01a05b44-9d68-731e-8ba6-22d1817a4656",
   pageTypeSlug: "finding",
   slug: "a-pod-can-write-the-page-store-but-not-a-reading",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "The constraint `The reading is taken on a workstation because a pod cannot write the page store` names the wrong reason. Pods write the page store today, with a git token their secret carries. What no caller can write through the store is a reading, workstation included, because a reading is an uncommitted value and the store's only write is a commit. The reading belongs on the workstation because the file it lands in never leaves the machine that took it.",
   evidence:

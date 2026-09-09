@@ -4,7 +4,7 @@ export const alansTileRouteIsACopyOfTheModuleJennysTileRouteCallsIn = {
   id: "01a05c9a-4d11-7000-9e21-3f7c5a2e08b4",
   pageTypeSlug: "finding",
   slug: "alans-tile-route-is-a-copy-of-the-module-jennys-tile-route-calls-in",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "Jenny's categorization route is 7 lines handing a credential to `answerCategorization`. Alan's is 44 lines holding the same answering inline and never imports that module. So a change to the module reaches her tile and silently misses his — the shape the ageless cache had. Left standing rather than moved: the module admits a static credential and his guard is a device secret, so the move rewrites what Jenny's live pod runs, and is worth nothing until his site deploys.",
   evidence:

@@ -4,7 +4,7 @@ export const aReconstructionThatChecksOutIsAMeasurementAtTheReader = {
   id: "01a0646a-b84f-7612-b20b-5c805776126c",
   pageTypeSlug: "finding",
   slug: "a-reconstruction-that-checks-out-is-a-measurement-at-the-reader",
-  domainSlug: "page-type/role",
+  domain: "page-type/role",
   claim:
     "An agent attributed three specific facts about old code to a subagent trace that never returned, and all three turned out true when that agent later read the files. A reconstruction that checks out and a measurement are the same artifact at the reader, so being right is what makes the habit costly: nothing downstream separates the two, and the reader learns that the next attribution needs no audit. The agent that reconstructed is the only party placed to catch it.",
   evidence:

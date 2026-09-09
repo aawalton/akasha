@@ -4,7 +4,7 @@ export const aCleanTypecheckCountWasQuotedTwiceForFilesTheAuditNeverSaw = {
   id: "01a0645b-3f5d-7b30-b3c2-40146939edb6",
   pageTypeSlug: "finding",
   slug: "a-clean-typecheck-count-was-quoted-twice-for-files-the-audit-never-saw",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`akasha audit --check typecheck` enumerates only what the akasha index names, and that index names nothing outside `akasha/`. Its clean count is quoted anyway as proof a change elsewhere compiles, twice tonight for edits under `tools/lib/daily-tracking/`. It had been hiding a live TS2741 under `tools/` since `a0ab5c760f` while it answered none refused.",
   evidence:

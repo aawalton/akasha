@@ -4,7 +4,7 @@ export const tenBrowserReadsFilterOnAKeyNoTemperPageTypeDeclares = {
   id: "01a07cde-0890-7947-a187-a63fad3d0e6e",
   pageTypeSlug: "finding",
   slug: "ten-browser-reads-filter-on-a-key-no-temper-page-type-declares",
-  domainSlug: "domain/temper",
+  domain: "domain/temper",
   claim:
     "Ten reads in the browser and its routes filter on `userId`, which no temper page type declares, so the store refuses every one and the characters list, the companions list, both version routes and both importers read nothing. Repointing them is not one substitution. temper-account-character and temper-companion-progress answer on `accountPage`, but character-build and companion-build declare `accountPage` and state it on no row, so a build read repointed at `accountPage` would answer empty where it now refuses, turning a loud fault into a quiet one.",
   evidence:

@@ -4,7 +4,7 @@ export const seedRatedHeardTracksWereNeverHeard = {
   id: "01a062e2-014b-7832-b97b-168347b91395",
   pageTypeSlug: "finding",
   slug: "seed-rated-heard-tracks-were-never-heard",
-  domainSlug: "domain/music-listening",
+  domain: "domain/music-listening",
   claim:
     "The twenty-nine heard tracks naming no Spotify track id were never heard. Each was seeded from a song Alan had rated, to keep that song out of the new-music offer, and no Spotify track was ever matched to it. The rating each one carried is already kept on the song's own page, so the rows add nothing the catalog does not hold.",
   evidence:

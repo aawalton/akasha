@@ -4,7 +4,7 @@ export const nothingWatchesWhetherMonarchRowsAreStillArriving = {
   id: "01a061c8-e06e-7001-8b4b-d768d2339227",
   pageTypeSlug: "finding",
   slug: "nothing-watches-whether-monarch-rows-are-still-arriving",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "`monarch-poll` failed 9,179 times over six days and nothing anywhere said so. Every watchdog under `services/` is hand-built for one subject, monarch has none, and nothing in the repository sweeps systemd for units in a failed state — no `is-failed`, no `--state=failed`, no equivalent. `services/health-samples-arrival-watchdog.ts` is the shape this wants and already exists, built after the same silence swallowed Alan's health readings for nine days.",
   evidence:

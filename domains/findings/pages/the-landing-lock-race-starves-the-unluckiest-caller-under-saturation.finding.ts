@@ -4,7 +4,7 @@ export const theLandingLockRaceStarvesTheUnluckiestCallerUnderSaturation = {
   id: "01a06556-142b-7221-bffd-1449f1536cbe",
   pageTypeSlug: "finding",
   slug: "the-landing-lock-race-starves-the-unluckiest-caller-under-saturation",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "The landing lock's wait is a race with no queue, so a caller that has waited long has no priority over one that just arrived. Forty processes each holding 250ms wait 0.75s at the median and 54.6s at the worst, which is 5.5 times what a fair queue would cost and 45 percent of the 120s ceiling. The lock is 7 percent busy in this checkout today, so the tail is latent rather than felt, and it grows with how long a busy period lasts rather than with how many callers there are.",
   evidence:

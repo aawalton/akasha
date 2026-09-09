@@ -4,7 +4,7 @@ export const aGenericSourceFileNameCannotSurviveTheFlatLayout = {
   id: "01a06436-474c-7e3e-b326-467db9afd270",
   pageTypeSlug: "finding",
   slug: "a-generic-source-file-name-cannot-survive-the-flat-layout",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "Flattening makes every module compete in one global slug space, and a grouping folder was hiding collisions before it. `stats/types.ts` could not keep its name: `types` is already a landed module under `pages-access`, so it came in as `stats-types`. Under a grouped path the folder made it unique while the slug never was. The depth ruling is not free of renames, and a seat has to census its generic file names before writing.",
   evidence:

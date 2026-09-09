@@ -4,7 +4,7 @@ export const nothingLocalTellsAKeptCheckoutFromADiscardedOne = {
   id: "01a060ab-6301-77b6-a498-77c9fc58a04b",
   pageTypeSlug: "finding",
   slug: "nothing-local-tells-a-kept-checkout-from-a-discarded-one",
-  domainSlug: "workspace-package/health-samples-access",
+  domain: "workspace-package/health-samples-access",
   claim:
     "No local fact separates the checkout that keeps a write from the one that throws it away. The workstation and the web pod name the same `origin`, so no remote test, environment test or commit test tells them apart, and both a commit and a push from the pod would answer success and still be lost. A writer that needs to know therefore has to be told, and the health writer now refuses unless something names the very checkout it is about to write into.",
   evidence:

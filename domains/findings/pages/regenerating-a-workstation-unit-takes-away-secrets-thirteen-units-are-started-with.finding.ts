@@ -4,7 +4,7 @@ export const regeneratingAWorkstationUnitTakesAwaySecretsThirteenUnitsAreStarted
   id: "01a0696a-b614-7a13-b7ee-59739dc8f91c",
   pageTypeSlug: "finding",
   slug: "regenerating-a-workstation-unit-takes-away-secrets-thirteen-units-are-started-with",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "Rewriting the workstation units from their pages is not inert. Thirteen units whose installed `ExecStart` sources `~/.secrets.env` lose that sourcing, their pages omitting `needsSecrets`, and `surplus-fall-notifier` also loses `RestartPreventExitStatus=1`, which no page property writes. A regeneration repairs the paths and quietly takes credentials away from services that read them. Anyone rewriting a unit owes a census of what its import closure reads out of the environment.",
   evidence:

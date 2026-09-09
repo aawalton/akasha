@@ -4,7 +4,7 @@ export const twoInstallersShareOneUnitFolderAndOwnershipIsGuessed = {
   id: "01a05b48-7d50-7503-bdd4-ecd7acaab780",
   pageTypeSlug: "finding",
   slug: "two-installers-share-one-unit-folder-and-ownership-is-guessed",
-  domainSlug: "module/service-installing",
+  domain: "module/service-installing",
   claim:
     "The akasha installer and the old ops installer write into one unit folder, and neither records which wrote what, so akasha reads ownership off location alone. It claims all 56 linked units there; 51 were written by the old installer. Naming a slug is safe, but installing them all would disable and delete those 51, `monarch-poll` and `temper-watcher` among them. The same shared namespace let an akasha service take the unit name and port of an older service of the same name, unwarned.",
   evidence:

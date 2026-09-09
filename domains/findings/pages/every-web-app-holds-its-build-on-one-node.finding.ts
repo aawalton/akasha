@@ -4,7 +4,7 @@ export const everyWebAppHoldsItsBuildOnOneNode = {
   id: "01a05b08-26f6-7003-ac30-d9e8f8f02f09",
   pageTypeSlug: "finding",
   slug: "every-web-app-holds-its-build-on-one-node",
-  domainSlug: "page-type/cluster-service",
+  domain: "page-type/cluster-service",
   claim:
     "All six web apps run on the one node labelled for serving, and each keeps its checkout and its build in a folder on that node's disk. A pod restart is safe only because the pod comes back to the same node. If that node is ever lost or relabelled, every site starts with no build at all.",
   evidence:

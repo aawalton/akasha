@@ -4,7 +4,7 @@ export const theCategoryRulesAreDataAndTheNameCodeMeansCarriedOutByCode = {
   id: "01a0657f-0c53-7000-aacc-5fbfb4971be1",
   pageTypeSlug: "finding",
   slug: "the-category-rules-are-data-and-the-name-code-means-carried-out-by-code",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "The 104 `category-rule-code` pages hold no code. Every one is a `# Match` list of clauses over six keys and four comparisons, and the word `code` in the page type's name distinguishes a rule a program carries out from one an agent carries out. They were migrated as data carrying a `matches` record rather than as akasha modules, and nothing about them is executed.",
   evidence:

@@ -4,7 +4,7 @@ export const twoPageTypesUnderTemperWorldAreNeitherPlacesNorPeople = {
   id: "01a05fc7-f922-77b0-8297-c8401ce4691e",
   pageTypeSlug: "finding",
   slug: "two-page-types-under-temper-world-are-neither-places-nor-people",
-  domainSlug: "domain/temper-world",
+  domain: "domain/temper-world",
   claim:
     "`temper-catalog-domain` and `temper-source-category` are filed under a domain defined as the places of Tamriel and the people who live in them, and neither is a place or a person. The grouping was mine and it was wrong.",
   evidence:

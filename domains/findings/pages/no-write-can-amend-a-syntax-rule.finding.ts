@@ -4,7 +4,7 @@ export const noWriteCanAmendASyntaxRule = {
   id: "01a060af-3213-72cf-9215-cd29e220b18f",
   pageTypeSlug: "finding",
   slug: "no-write-can-amend-a-syntax-rule",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "A write that edits a syntax rule's `.code.ts` body always throws, so no rule can be amended except under `--break-the-glass`. `no-refused-syntax` loads each rule's body through `shadow.codeAt`, which answers a path only where the after-bytes equal some before-bytes, meaning a move. An edit answers `null`, and the fallback refuses because the file already existed. A tested narrowing of `no-void-return` could not land, and 133 ESO declarations were re-spelled to route around the rule.",
   evidence:

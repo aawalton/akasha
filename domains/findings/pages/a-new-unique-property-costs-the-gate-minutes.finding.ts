@@ -4,7 +4,7 @@ export const aNewUniquePropertyCostsTheGateMinutes = {
   id: "01a062e3-c9e9-7b4d-a03c-a9e0ed13d154",
   pageTypeSlug: "finding",
   slug: "a-new-unique-property-costs-the-gate-minutes",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "A change introducing a property that declares `unique` costs the gate minutes rather than seconds, while the same change declaring no `unique` costs seconds.",
   evidence:

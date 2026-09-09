@@ -4,7 +4,7 @@ export const aRecordNestedInAnEntryRowIsJudgedByNothing = {
   id: "01a05ffa-53e2-7eca-8b07-93742ab29357",
   pageTypeSlug: "finding",
   slug: "a-record-nested-in-an-entry-row-is-judged-by-nothing",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "A field of an entry row may itself be a record, and what that record holds is judged by nothing. The two measures a field gets both act on text alone and hand anything else back unmeasured. A record nested in a row is therefore declared by a shape, written into the commit, and tested by no check at all.",
   evidence:

@@ -4,7 +4,7 @@ export const streamingSubscriptionsUnreviewed = {
   id: "01a06555-9f3e-7d7f-a678-37d3c2771482",
   pageTypeSlug: "finding",
   slug: "streaming-subscriptions-unreviewed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Four streaming subscriptions — Netflix, Disney+, Crunchyroll and YouTube Premium — all sit at a D grade as convenience purchases in Alan's software audit, and one or two of them are probably redundant against the others. Nothing has compared what each costs against what it delivers, and the whole cluster ranks low for remediation despite being among the easiest things to cancel.",
   evidence:

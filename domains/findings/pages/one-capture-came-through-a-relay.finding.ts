@@ -4,7 +4,7 @@ export const oneCaptureCameThroughARelay = {
   id: "01a06555-9f3e-797a-ad90-2909b68006ab",
   pageTypeSlug: "finding",
   slug: "one-capture-came-through-a-relay",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "One capture in Alan's corpus did not come from the session it sits in. It was relayed by one persona from a parallel session, at his explicit request that it be in his own framing. The audit trail for that route is kept in the interviewer's backlog rather than in the notes, which carry no caveat line by line — so a reader of the notes cannot tell this material's provenance from any other's.",
   evidence:

@@ -4,7 +4,7 @@ export const captureCoreHadTwiceTheConsumersListed = {
   id: "01a0605d-eb98-76fb-a851-e2b4cc5e8667",
   pageTypeSlug: "finding",
   slug: "capture-core-had-twice-the-consumers-listed",
-  domainSlug: "workspace-package/temper-capture-shapes",
+  domain: "workspace-package/temper-capture-shapes",
   claim:
     "The twelve `@temper/game-*-capture-core` packages had twice the consumers anyone had listed. Past `temper/catalog-core` and the twelve capture addons were seven capture-host packages, the `temper/scripts` manifest, and two tier files under `tools/lib/temper-catalog-generate`. Each unlisted consumer repointed by changing the package half of its specifier, so finding the other half late cost nothing. A census taken by grep rather than by memory is what made the deletion safe.",
   evidence:

@@ -4,7 +4,7 @@ export const aGuardThatReportsFailureOnSuccess = {
   id: "01a06805-e2b9-7003-82f0-00b58b37ce61",
   pageTypeSlug: "finding",
   slug: "a-guard-that-reports-failure-on-success",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "An ablation script closed with `[ -e lua-compiler ] && { echo ...; exit 1; }` under `set -e`. Where the path is correctly absent the test returns 1, the `&&` short-circuits, and the script exits non-zero — announcing failure after the removal it guards had already succeeded. This is the inverse of `table.getn` announcing success after a failure, and the two faults share one root: an instrument nobody tried against the outcome it exists to detect.",
   evidence:

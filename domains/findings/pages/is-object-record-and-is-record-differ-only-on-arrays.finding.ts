@@ -3,7 +3,7 @@ import type { Finding } from "../finding.page-type.ts"
 export const isObjectRecordAndIsRecordDifferOnlyOnArrays = {
   id: "01a05cb7-586b-7001-9b6e-14779448c85b",
   pageTypeSlug: "finding",
-  domainSlug: "domain/utils-narrow",
+  domain: "domain/utils-narrow",
   slug: "is-object-record-and-is-record-differ-only-on-arrays",
   claim:
     "utils-narrow carries isObjectRecord and isRecord whose bodies differ only by excluding arrays. A private isRecord in web-app-building was the same rule as isObjectRecord rather than as the module sharing its name, so merging by name would have quietly made build-env parsing stricter. Anyone collapsing the two modules as duplicates changes that caller without seeing it.",

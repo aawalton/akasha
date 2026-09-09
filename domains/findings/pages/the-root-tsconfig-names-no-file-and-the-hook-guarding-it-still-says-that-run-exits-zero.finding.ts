@@ -4,7 +4,7 @@ export const theRootTsconfigNamesNoFileAndTheHookGuardingItStillSaysThatRunExits
   id: "01a07323-840d-765e-b236-257f922a0d2e",
   pageTypeSlug: "finding",
   slug: "the-root-tsconfig-names-no-file-and-the-hook-guarding-it-still-says-that-run-exits-zero",
-  domainSlug: "domain/instrument",
+  domain: "domain/instrument",
   claim:
     '`tsconfig.json` at the repository root is two lines, `{ "files": [] }` — no `include`, no `references`, no `compilerOptions` — so it names nothing to compile. It does not report clean over that nothing: `tsc --noEmit -p tsconfig.json` exits 2 with TS18002, and the root `typecheck` script, `bunx @typescript/native-preview -b`, exits 2 with the same error. `block-typecheck.agent-hook.ts:48` states as a constraint that such a run "compiles no file and exits 0", which stopped being true at `0c8dc795c8`, where the four `references` the config carried were taken away. Of nine tsconfigs the root alone carries the empty list. `akasha typecheck` judges the files named and every file importing them, and its `--seeded` control puts a fault into each named file in memory and refuses where that file draws no diagnostic. Nothing in the tree tells a reader to run `tsc`.',
   evidence:

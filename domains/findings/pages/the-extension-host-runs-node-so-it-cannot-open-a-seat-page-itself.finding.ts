@@ -4,7 +4,7 @@ export const theExtensionHostRunsNodeSoItCannotOpenASeatPageItself = {
   id: "01a06811-01d3-7006-859a-d62a552760e8",
   pageTypeSlug: "finding",
   slug: "the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself",
-  domainSlug: "workspace-package/editor-extension",
+  domain: "workspace-package/editor-extension",
   claim:
     "Opening the values kept beside a seat's page needs a transpiler only bun carries. The extension host runs node, so doing it in the host throws `Bun is not defined`. Everything the extension wants out of the pages is therefore asked of a bun child through the harness rather than read in the host. A change that reads a page directly from extension code typechecks clean and throws at load.",
   evidence:

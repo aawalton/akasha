@@ -4,7 +4,7 @@ export const aProcessStartTimeSurvivesExecSoItCannotDateASupervisorsLoadedCode =
   id: "01a0697b-4542-7d05-ae72-7c2ce432ffe8",
   pageTypeSlug: "finding",
   slug: "a-process-start-time-survives-exec-so-it-cannot-date-a-supervisors-loaded-code",
-  domainSlug: "domain/instrument",
+  domain: "domain/instrument",
 
   claim:
     "`ps -o lstart` dates a process's fork rather than the code it loaded, and it survives `execve`, so it cannot say how old the code a re-execing supervisor holds is.",

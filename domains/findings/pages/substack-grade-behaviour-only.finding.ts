@@ -4,7 +4,7 @@ export const substackGradeBehaviourOnly = {
   id: "01a06555-9f3e-7f8b-b64f-c39ee0fc48a7",
   pageTypeSlug: "finding",
   slug: "substack-grade-behaviour-only",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Substack holds a B in Alan's information audit purely on how it behaves now, with no structural insulation behind the grade — nothing in its ownership or governance stops it turning. Under his own framework any capture signal resets that trust to zero, and the signals that would count are known: changes to content-moderation policy, extraction moves such as mandatory paid tiers or fee shifts, and features that lock writers or readers in.",
   evidence:

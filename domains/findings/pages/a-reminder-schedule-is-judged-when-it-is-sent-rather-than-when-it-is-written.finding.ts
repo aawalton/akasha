@@ -4,7 +4,7 @@ export const aReminderScheduleIsJudgedWhenItIsSentRatherThanWhenItIsWritten = {
   id: "01a05f71-8d3b-7000-8ec1-ace3d075aedf",
   pageTypeSlug: "finding",
   slug: "a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written",
-  domainSlug: "workspace-package/reminder-system",
+  domain: "workspace-package/reminder-system",
   claim:
     "The recreation lost the reading a schedule got when a reminder was written, so a schedule no clock can read is caught on the next run of the service rather than by the write that put it there.",
   evidence:

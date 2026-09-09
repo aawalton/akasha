@@ -4,7 +4,7 @@ export const theInventoryChunkAttachmentsHoldRowsHeldNowhereElseInAkasha = {
   id: "01a0674d-6ced-7b51-9809-88fb5372165f",
   pageTypeSlug: "finding",
   slug: "the-inventory-chunk-attachments-hold-rows-held-nowhere-else-in-akasha",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "Letting the 451 inventory chunk attachments of the parsing captures go would destroy about 126,641 rows held nowhere else. `the-inventory-chunk-gap-is-already-closed-for-every-capture-that-parses` is wrong at its own scope: walking all 151 parsing captures finds 15 homeless field groups rather than four small fields, among them every currency balance, every crafting rank, all 80,850 placed furnishings and all 8,850 bag sizes. Its recommendation that those files go should not be acted on.",
   evidence:

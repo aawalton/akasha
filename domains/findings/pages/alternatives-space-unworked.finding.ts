@@ -4,7 +4,7 @@ export const alternativesSpaceUnworked = {
   id: "01a06555-9f3d-7d15-9bcd-f9ba1578037a",
   pageTypeSlug: "finding",
   slug: "alternatives-space-unworked",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's alternatives space names six tiers — trustworthy larger organisations, smaller and local ones, co-ops and mutuals, self-reliance, decentralised or federated options, and government-as-utility — and holds no worked examples beneath them: no named co-ops with the mechanism that insulates each, no self-reliance categories with their costs, no federated services he would use. What makes an alternative viable is also undefined: no cost ceiling, no quality floor, no test of feasibility.",
   evidence:

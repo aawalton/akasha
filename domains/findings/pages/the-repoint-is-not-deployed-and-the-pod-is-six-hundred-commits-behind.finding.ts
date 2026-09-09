@@ -4,7 +4,7 @@ export const theRepointIsNotDeployedAndThePodIsSixHundredCommitsBehind = {
   id: "01a05e67-cd80-7dd2-b541-c7f2c0a5c426",
   pageTypeSlug: "finding",
   slug: "the-repoint-is-not-deployed-and-the-pod-is-six-hundred-commits-behind",
-  domainSlug: "cluster-service/alanwalton-web",
+  domain: "cluster-service/alanwalton-web",
   claim:
     "The generic readout answerer is committed and proved, and it is not live. Deploying it is not a small act: the pod's checkout is six hundred and thirty-seven commits behind HEAD, by six different authors, so a deploy ships all of that at once. I left it undeployed rather than carry six lanes' in-flight work into production to make one change of mine live.",
   evidence:

@@ -4,7 +4,7 @@ export const tableGetnTracksLuaTargetNotWhichVariantFileWasSelected = {
   id: "01a06798-4d53-7000-ad60-81bb8f86c4bc",
   pageTypeSlug: "finding",
   slug: "table-getn-tracks-lua-target-not-which-variant-file-was-selected",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "`table.getn` looked like the marker proving lualib's `rootDirs` variant selector picked the right source for a Lua 5.0 build — 0 occurrences in a universal-target bundle, 62 in a 5.0-target bundle. It is not a selection marker: it is what the 5.0 codegen backend emits for the `#` operator, so it tracks `luaTarget` rather than which of `src/universal` or `src/5.0` actually resolved for `CountVarargs`, `Match`, `MathModf`, `SparseArraySpread` and `Unpack`.",
   evidence:

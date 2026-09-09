@@ -4,7 +4,7 @@ export const theMonarchAgreementAlertMarksItselfFiledBeforeItFiles = {
   id: "01a061cc-ec2e-7000-ad8f-e19e141614fa",
   pageTypeSlug: "finding",
   slug: "the-monarch-agreement-alert-marks-itself-filed-before-it-files",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     '`monarch/agreement.ts` writes its de-duplication latch at line 121 and only then, at line 122, spawns `ops seat record` to file the alert — a command `ops` does not carry. The spawn\'s non-zero exit is written to `console.error` and nothing else. So the first attempt poisons the latch with a body that was never filed, and every later run with the same divergence answers "unchanged since the last record filed, so no second one" and returns quietly. One failure buys permanent silence.',
   evidence:

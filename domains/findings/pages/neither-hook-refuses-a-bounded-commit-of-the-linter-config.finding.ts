@@ -4,7 +4,7 @@ export const neitherHookRefusesABoundedCommitOfTheLinterConfig = {
   id: "01a061b8-8b04-731b-ba15-97477cd91554",
   pageTypeSlug: "finding",
   slug: "neither-hook-refuses-a-bounded-commit-of-the-linter-config",
-  domainSlug: "workspace-package/hook-system",
+  domain: "workspace-package/hook-system",
   claim:
     "A seat held that no agent could commit the linter's config, `block-biome` refusing any call carrying its file name and `block-git-writes` refusing any commit it cannot resolve. Both halves are false. `block-biome` reads only the first word of a segment, so a git call naming the config is no biome call, and `block-git-writes` lets a commit through when every path after `--` is outside `akasha/`. That second hook's refusal text prescribes the exact form.",
   evidence:

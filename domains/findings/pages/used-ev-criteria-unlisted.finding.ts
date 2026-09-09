@@ -4,7 +4,7 @@ export const usedEvCriteriaUnlisted = {
   id: "01a06555-9f3f-7c1c-9393-33cae2b79328",
   pageTypeSlug: "finding",
   slug: "used-ev-criteria-unlisted",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's vehicle-replacement plan wants a used EV chosen on durability and maintainability — older simpler designs, an established parts supply, repair knowledge available, and as little manufacturer software lock-in as possible — and no specific models have been identified against those criteria. The step sits second in a three-step transport-autonomy strategy and orders behind rooftop solar.",
   evidence:

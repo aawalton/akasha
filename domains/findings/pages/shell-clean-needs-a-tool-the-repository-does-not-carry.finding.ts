@@ -4,7 +4,7 @@ export const shellCleanNeedsAToolTheRepositoryDoesNotCarry = {
   id: "01a07c9d-8804-7c13-87d4-6381de9d2251",
   pageTypeSlug: "finding",
   slug: "shell-clean-needs-a-tool-the-repository-does-not-carry",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`shell-clean` runs `shellcheck` from PATH rather than from the declared dependencies, and fails closed where it is absent, answering that a linter which could not look has verified nothing. Turning the check on at patch therefore makes a change touching any of the 112 shell scripts unlandable on a machine without shellcheck, and the refusal names the linter rather than the change, so the author is told the tool is missing rather than what is wrong with their work. Every other check running at patch today depends only on code this repository carries.",
   evidence:

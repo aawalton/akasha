@@ -4,7 +4,7 @@ export const nimueCodeCleanup = {
   id: "01a07693-7ea9-7fa0-ab70-5d8e33381c8c",
   pageTypeSlug: "initiative",
   slug: "nimue-code-cleanup",
-  domainSlug: "workspace-package/code-system",
+  domain: "workspace-package/code-system",
   persona: "nimue",
   intents: [
     {

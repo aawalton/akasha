@@ -4,7 +4,7 @@ export const anImportTypeReachesTheRemedyWithoutRestatingASignature = {
   id: "01a0625f-6d05-7bd5-9164-79064d884a12",
   pageTypeSlug: "finding",
   slug: "an-import-type-reaches-the-remedy-without-restating-a-signature",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`no-global-in-a-module` tells a seat to lift the block into a `.d.ts`, and that remedy is reachable wherever the global's type is a module's. An `import()` type is a type reference rather than an import, so the declaration file is still a declaration file and no signature is written twice. Every one of the 16 blocks left under `akasha/temper` moved this way, none restated, and no module body under `akasha/temper` declares a global now.",
   evidence:

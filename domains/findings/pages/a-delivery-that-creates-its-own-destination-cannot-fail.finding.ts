@@ -4,7 +4,7 @@ export const aDeliveryThatCreatesItsOwnDestinationCannotFail = {
   id: "01a06202-3164-7000-a507-9237ebfc019d",
   pageTypeSlug: "finding",
   slug: "a-delivery-that-creates-its-own-destination-cannot-fail",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "A delivery that creates its own destination cannot fail, so a wrong address reads as a successful send. `writeMessage` made the recipient's directory as it wrote, so a misspelled name was answered `written` with an id rather than refused. Three defects of this one shape sat on the temper-watcher alert path at once: the send, the report of the send, and the stamp recording it.",
   evidence:

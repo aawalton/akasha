@@ -4,7 +4,7 @@ export const nothingChecksThatAServiceReachesItsOwnPageBySlug = {
   id: "01a076d0-6388-76ee-a590-c8dc854e251d",
   pageTypeSlug: "finding",
   slug: "nothing-checks-that-a-service-reaches-its-own-page-by-slug",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     'Nothing checks that a service reaches its own page by slug. After the pages service\'s page was renamed, `pages/service/page-listening/page-listening.module.code.ts:7` still held `SERVICE_SLUG = "pages-system-service"`, so the service looked itself up, found no page, and died in a restart loop until systemd gave up. A sibling finding covers the `runs` path a service page names; this is the same reference in the other direction, from the code back to the page, and no check reaches it. The repoint tool did see it: its dry run reported the old slug in 24 places and handed the judgment back with `read each and judge it`, at the point in a rename where a seat is least able to exercise it.',
   evidence:

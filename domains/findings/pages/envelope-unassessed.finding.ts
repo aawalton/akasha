@@ -4,7 +4,7 @@ export const envelopeUnassessed = {
   id: "01a06555-9f3d-7608-a08d-7f239ca9d12b",
   pageTypeSlug: "finding",
   slug: "envelope-unassessed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The envelope of the Provo house has never been assessed, and the retrofit turning on it has no settled scope, cost or date. That one measurement picks which of 48,000, 73,000 or 87,000 kWh/yr the project sizes against, and the thread ranks the retrofit its largest controllable lever on cost. Two costs stand for it, $8,000–15,000 and $30,000–80,000, the second silently adding window work the thread ranks worst. Whether it precedes the PV is settled in one file and left conditional in another.",
   evidence:

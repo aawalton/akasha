@@ -4,7 +4,7 @@ export const aHandedSetThatNoLongerFoldsCanBeNeitherTakenNorLetGo = {
   id: "01a08264-8036-770c-953f-36f911e346ac",
   pageTypeSlug: "finding",
   slug: "a-handed-set-that-no-longer-folds-can-be-neither-taken-nor-let-go",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "A set of edits a stopped subagent handed over cannot be let go once it no longer folds. `change-take` refuses it, correctly, saying the file holds no such passage. `change-drop` reaches only edits kept beside this agent's own page, and a handed set is kept beside the subagent's, so every path named answers that nothing went. The set is then named by `change-list` on every call, for good: no act lands it and no act lets it go. What is left is taking away the subagent's edits file itself, which no command offers as a discard and which reads as clearing debris rather than as a decision about work.",
   evidence:

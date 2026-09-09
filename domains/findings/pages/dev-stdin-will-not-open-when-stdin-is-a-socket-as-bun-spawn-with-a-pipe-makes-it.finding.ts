@@ -4,7 +4,7 @@ export const devStdinWillNotOpenWhenStdinIsASocketAsBunSpawnWithAPipeMakesIt = {
   id: "01a08210-09bb-72b1-ad4f-d5ac17ee8bb5",
   pageTypeSlug: "finding",
   slug: "dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`Bun.spawn` given `stdin` as a pipe hands the child a socket rather than a pipe, and a socket cannot be reopened through `/proc/self/fd/0`, so `inputIn` gets ENXIO from `/dev/stdin` and every akasha command driven that way is refused for arguments that would not open rather than reading the body it was written.",
   evidence:

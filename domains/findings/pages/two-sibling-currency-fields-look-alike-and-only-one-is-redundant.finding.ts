@@ -4,7 +4,7 @@ export const twoSiblingCurrencyFieldsLookAlikeAndOnlyOneIsRedundant = {
   id: "01a0675a-8cc6-776f-8141-3057b25a27d8",
   pageTypeSlug: "finding",
   slug: "two-sibling-currency-fields-look-alike-and-only-one-is-redundant",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "`currencies.characters[*].displayName` and `currencies.characters[*].lastScanned` sit side by side in every capture and look like the same duplication of the matching `locations[*]` fields. Only the first is. Across the 151 parsing captures there are 3,000 character currency records: 3,000 of 3,000 display names equal the location's, and 2,854 of 3,000 scan times do, so 146 differ. Dropping both because one was proved duplicated would destroy 146 measurements.",
   evidence:

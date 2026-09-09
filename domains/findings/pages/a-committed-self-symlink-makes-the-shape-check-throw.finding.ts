@@ -4,7 +4,7 @@ export const aCommittedSelfSymlinkMakesTheShapeCheckThrow = {
   id: "01a0735b-88cd-7eee-b4d1-427374818f72",
   pageTypeSlug: "finding",
   slug: "a-committed-self-symlink-makes-the-shape-check-throw",
-  domainSlug: "code-check/folder-matches-a-shape",
+  domain: "code-check/folder-matches-a-shape",
   claim:
     "`folder-matches-a-shape` throws EISDIR and judges nothing over any tree holding a committed symlink to a directory whose parent folder is no workspace package, so three subtrees of `story` are judged by it not at all.",
   evidence:

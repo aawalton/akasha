@@ -4,7 +4,7 @@ export const theTwelveUnitsARegenerationWouldTakeSecretsFromReadNoneOfThem = {
   id: "01a069ba-68fd-717b-9010-c7c47ee5630d",
   pageTypeSlug: "finding",
   slug: "the-twelve-units-a-regeneration-would-take-secrets-from-read-none-of-them",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "Every one of the thirteen workstation units whose installed ExecStart sources `~/.secrets.env` reaches no name that file declares. Measured per unit over the import closure against all 72 declared names, with a per-unit seeded arm sighted on 12 of 12 and two sibling services firing as positive controls. The loss a regeneration creates is therefore real and inert today: the twelve units still to be rewritten lose the sourcing of 72 names and read none of them, while `surplus-fall-notifier` already lost it at 16:34. The hazard is a future one, because a service that later reads a secret fails silently rather than loudly, its page omitting `needsSecrets`. Only `send-due-reminders.timer` loses a second directive, `AccuracySec=1s`, which no generator property writes.",
   evidence:

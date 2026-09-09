@@ -4,7 +4,7 @@ export const noClusterServiceAttachmentUnderAkashaIsClaimedByItsPage = {
   id: "01a06875-2e58-7f74-95ab-cbb255af5191",
   pageTypeSlug: "finding",
   slug: "no-cluster-service-attachment-under-akasha-is-claimed-by-its-page",
-  domainSlug: "page-type/cluster-service",
+  domain: "page-type/cluster-service",
   claim:
     "A cluster service names its manifest code by path in a required property, and that naming puts no entry in the index. `file-has-its-page` reads the index alone, so it refuses every attachment. All 49 attachments already under `akasha/` are in the same position, which means each landed with the glass broken and the next lane to carry one in must break it again.",
   evidence:

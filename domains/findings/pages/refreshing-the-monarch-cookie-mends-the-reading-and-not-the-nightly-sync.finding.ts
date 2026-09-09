@@ -4,7 +4,7 @@ export const refreshingTheMonarchCookieMendsTheReadingAndNotTheNightlySync = {
   id: "01a06429-5129-7d28-a28f-4ee8265343d9",
   pageTypeSlug: "finding",
   slug: "refreshing-the-monarch-cookie-mends-the-reading-and-not-the-nightly-sync",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "Alan's Monarch credential is live, and his nightly full sync has failed for seven days anyway. The reading his widget draws authenticates fine; `monarch-sync` answers `Monarch API 401` from its very first query and has every night since 2026-08-27. The credential was refreshed on 09-01 and the sync failed again after that, so refreshing it is not the remedy and treating this as an expired cookie will keep missing it.",
   evidence:

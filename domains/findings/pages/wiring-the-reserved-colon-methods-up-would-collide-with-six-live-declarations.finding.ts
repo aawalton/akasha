@@ -4,7 +4,7 @@ export const wiringTheReservedColonMethodsUpWouldCollideWithSixLiveDeclarations 
   id: "01a062d0-a0c5-7bde-8c4f-c364b87f4585",
   pageTypeSlug: "finding",
   slug: "wiring-the-reserved-colon-methods-up-would-collide-with-six-live-declarations",
-  domainSlug: "workspace-package/temper-eso-types",
+  domain: "workspace-package/temper-eso-types",
   claim:
     "The eight reserved-colon-method interfaces were never once referenced in their whole life, and connecting them to `Control`, `ButtonControl`, `EditControl` and `SceneFragment` was never available: every member a live caller wants is declared a second time already, in a shape that disagrees. They were deleted rather than connected.",
   evidence:

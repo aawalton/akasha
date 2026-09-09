@@ -4,7 +4,7 @@ export const aHookTestSpawningTheHookReadsTheBodyOnDiskRatherThanTheChange = {
   id: "01a081c6-fcd3-7912-a592-7d178669dfbc",
   pageTypeSlug: "finding",
   slug: "a-hook-test-spawning-the-hook-reads-the-body-on-disk-rather-than-the-change",
-  domainSlug: "hook-system",
+  domain: "hook-system",
   claim:
     "A hook test that runs the hook as a subprocess cannot assert wording the same change introduces, because the subprocess reads the code file from disk while the checks judge the change's own body. The two roads through one hook disagree for the length of every rename, and the disagreement reads as a test that is simply wrong.",
   evidence:

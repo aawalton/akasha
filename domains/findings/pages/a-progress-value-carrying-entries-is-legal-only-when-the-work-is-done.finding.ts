@@ -4,7 +4,7 @@ export const aProgressValueCarryingEntriesIsLegalOnlyWhenTheWorkIsDone = {
   id: "01a06423-2306-73a5-8c58-869d9c615ddf",
   pageTypeSlug: "finding",
   slug: "a-progress-value-carrying-entries-is-legal-only-when-the-work-is-done",
-  domainSlug: "workspace-package/pages-core",
+  domain: "workspace-package/pages-core",
   claim:
     "A progress value carrying entries and naming no active entry key is refused unless every entry is already complete, so that shape is legal only for work that is finished. Dropping the active entry key to let the top pair describe the roster therefore does not work for a roster in progress, which is the case that occurs. A value carrying no entries at all keeps the roster pair and is always legal.",
   evidence:

@@ -4,7 +4,7 @@ export const temperProgressNamesNoManifestSoItsReadoutCodeIsUnreachable = {
   id: "01a06230-b156-7bba-923f-09fa6e74fced",
   pageTypeSlug: "finding",
   slug: "temper-progress-names-no-manifest-so-its-readout-code-is-unreachable",
-  domainSlug: "domain/temper-progress",
+  domain: "domain/temper-progress",
   claim:
     "`inboxes-temper-tasks` is one of Alan's three inboxes and its code is the only one of the three nothing outside its own folder can import, because `temper-progress` is a domain rather than a workspace package. The reading script names the tracking key a second time to get around this.",
   evidence:

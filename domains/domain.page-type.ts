@@ -23,7 +23,7 @@ export const domain = {
     "record-property/directives",
     "record-property/invariants",
     "relation-property/directive-kind",
-    "relation-property/domain-slug",
+    "relation-property/page-domain",
     "relation-property/invariant-kind",
     "relation-property/part-slugs",
     "standard-agent-english-property/act",

@@ -4,7 +4,7 @@ export const theDeviceTokenMarkdownIsUnreadAndTheRulingStillKeepsIt = {
   id: "01a060f6-e4f9-707e-ae4a-2ed301ab8125",
   pageTypeSlug: "finding",
   slug: "the-device-token-markdown-is-unread-and-the-ruling-still-keeps-it",
-  domainSlug: "workspace-package/persons",
+  domain: "workspace-package/persons",
   claim:
     "`pages/device-token/*.md` is read by nothing, and it was left in place anyway. Alan's ruling that the old pages and page types stay names one exception, `error`, and device-token is not it. The move onto the pages system service is done and both stores hold the same three tokens, so the sweep is safe whenever the ruling is lifted. Unread is not unfiled: the markdown page type is here yet and files them yet.",
   evidence:

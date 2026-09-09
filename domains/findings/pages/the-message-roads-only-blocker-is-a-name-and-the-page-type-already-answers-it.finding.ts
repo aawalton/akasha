@@ -4,7 +4,7 @@ export const theMessageRoadsOnlyBlockerIsANameAndThePageTypeAlreadyAnswersIt = {
   id: "01a069b5-5020-70ad-8d90-0dadaef2c49a",
   pageTypeSlug: "finding",
   slug: "the-message-roads-only-blocker-is-a-name-and-the-page-type-already-answers-it",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "A message could not be written as a TypeScript page because a message slug is a uuid, and a uuid's camelCase form opens with a digit, which no `export const` may be declared under. That is the whole of the blocker, and the repo already answers it: the page type slug in front of the uuid makes a legal export name, which is what `wake-day-2026-08-20` and `great-course-7-days-of-drawing` already do. Composing a real message against the akasha `message` page type succeeds today, so the messaging system's move onto the pages road is blocked by no missing machinery.",
   evidence:

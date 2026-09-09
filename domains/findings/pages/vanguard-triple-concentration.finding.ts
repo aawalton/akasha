@@ -4,7 +4,7 @@ export const vanguardTripleConcentration = {
   id: "01a06555-9f3f-71c7-bb01-c7a527c7937e",
   pageTypeSlug: "finding",
   slug: "vanguard-triple-concentration",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's invested assets sit entirely at Vanguard and entirely in VTIAX — three concentrations stacked on each other: one institution, one fund, one asset class. It is the single largest financial dependency he has. The argument holding it in place is structural, that Vanguard's mutual ownership insulates it, and recent complaints about service quality are possible early signs of that insulation weakening.",
   evidence:

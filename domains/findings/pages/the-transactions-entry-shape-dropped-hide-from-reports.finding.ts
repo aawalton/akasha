@@ -4,7 +4,7 @@ export const theTransactionsEntryShapeDroppedHideFromReports = {
   id: "01a0675e-6da8-7001-b504-77a1c9e27440",
   pageTypeSlug: "finding",
   slug: "the-transactions-entry-shape-dropped-hide-from-reports",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "The migrated `transactions` entry shape declares no `hide-from-reports`, and the markdown-era writer wrote one. Monarch still reports the flag and monarch still parses it, so the mirror fetches a fact about every row and discards it. Whether the flag was meant to go or was lost in the rewrite is recorded nowhere.",
   evidence:

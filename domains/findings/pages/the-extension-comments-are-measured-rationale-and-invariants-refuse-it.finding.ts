@@ -4,7 +4,7 @@ export const theExtensionCommentsAreMeasuredRationaleAndInvariantsRefuseIt = {
   id: "01a064a8-86d3-757f-b6d6-84d80c95d162",
   pageTypeSlug: "finding",
   slug: "the-extension-comments-are-measured-rationale-and-invariants-refuse-it",
-  domainSlug: "workspace-package/editor-extension",
+  domain: "workspace-package/editor-extension",
   claim:
     "The code editor extension's 651 comment lines carry measured rationale rather than explanation: 132 of its 138 logical comments record replayed traces and reverted experiments with their numbers. An invariant says what is true rather than why, and caps at 100 characters, so rewriting these as invariants loses the numbers.",
   evidence:

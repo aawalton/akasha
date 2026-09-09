@@ -4,7 +4,7 @@ export const threeDemandTotalsStand = {
   id: "01a06555-9f3f-76ff-9cfa-25c348960d6d",
   pageTypeSlug: "finding",
   slug: "three-demand-totals-stand",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The solar thread carries three unreconciled annual-demand roll-ups and two unreconciled all-in costs, and the file that notices calls both valid rather than choosing. `energy-demand.md` heads 52,000 / 70,000 / 92,000 kWh a year; `totals.md` rolls the same sub-files to 77,950 and 94,400; `sizing/demand.md` plans against 48,000 / 73,000 / 87,000. On cost, `sizing.md` heads ~$172,000 and `cost.md` ~$209,000 for the same case.",
   evidence:

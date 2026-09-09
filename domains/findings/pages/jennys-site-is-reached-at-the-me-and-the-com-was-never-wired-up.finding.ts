@@ -4,7 +4,7 @@ export const jennysSiteIsReachedAtTheMeAndTheComWasNeverWiredUp = {
   id: "01a05b69-fc8a-777e-8ab9-90938516ec71",
   pageTypeSlug: "finding",
   slug: "jennys-site-is-reached-at-the-me-and-the-com-was-never-wired-up",
-  domainSlug: "page-type/web-app",
+  domain: "page-type/web-app",
   claim:
     "Jenny's site is reachable from the internet at `smilingjenny.me`, the only name the system gives it. `smilingjenny.com` is a separate domain of Alan's that was never wired up: it is spelled nowhere in this repository, it is not in the tunnel, and its zone was never delegated to Cloudflare. Taking the parked `.com` for Jenny's site being down mistakes a domain nobody wired for the one that serves.",
   evidence:

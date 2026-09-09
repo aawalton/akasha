@@ -4,7 +4,7 @@ export const threeChunkPagesWereReMintedOverIdsThatWereAlreadyUuidV7 = {
   id: "01a06763-14c8-72e7-8e80-95cbfa10ceff",
   pageTypeSlug: "finding",
   slug: "three-chunk-pages-were-re-minted-over-ids-that-were-already-uuid-v7",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "Of the 458 `temper-inventory-chunk` pages, 455 carry forward the id of the markdown page they were made from and 3 do not. The 3 are the 2026-08-29-20-59-15 capture, and they are exactly the 3 backup pages carrying no `slug` field, so the absent slug and the broken lineage are one event rather than two. The old ids were already uuid v7, so nothing licensed replacing them, and the replacements keep none of the last eight hex either.",
   evidence:

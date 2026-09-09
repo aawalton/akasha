@@ -4,7 +4,7 @@ export const abandonedIslandArchitectureStands = {
   id: "01a06555-9f3d-7ff3-840d-0b6853da6726",
   pageTypeSlug: "finding",
   slug: "abandoned-island-architecture-stands",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     'The off-grid architecture the solar project abandoned still reads as live in the files leading in. `scope.md` records the pivot: the grid-as-seasonal-battery framing was wrong, the February credit reset kills it, PV is now sized to annual load. `energy-demand.md` still declares self-sufficiency the sizing target and asks 2× PV with 250–500 kWh battery; `self-sufficiency.md` still closes on 60 kW PV, 300 kWh and a propane generator; `sizing.md` still opens "The grid is the seasonal battery".',
   evidence:

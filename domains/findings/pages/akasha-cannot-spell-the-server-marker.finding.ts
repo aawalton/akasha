@@ -4,7 +4,7 @@ export const akashaCannotSpellTheServerMarker = {
   id: "01a063d6-69ce-7000-aea8-93218c31b356",
   pageTypeSlug: "finding",
   slug: "akasha-cannot-spell-the-server-marker",
-  domainSlug: "domain/naming",
+  domain: "domain/naming",
   claim:
     "akasha's naming grammar cannot spell the `.server` marker, so carrying Alan's device-secret, push and idle modules into akasha would quietly remove the build-time guard that keeps them out of the browser bundle.",
   evidence:

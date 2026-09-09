@@ -4,7 +4,7 @@ export const gradingScaleRulesImplicit = {
   id: "01a06555-9f3e-72d4-8788-1ae358bfac72",
   pageTypeSlug: "finding",
   slug: "grading-scale-rules-implicit",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's grading scale runs on rules it does not state. The mapping from component scores to a letter grade works on a worst-component rule that is implicit rather than written. Ownership structure is not scored as a dimension of its own despite doing much of the work elsewhere in the framework. No per-component band thresholds are published, so nothing says whether a low ethics score caps a grade. And the research prompt behind a grade does not check for capture signals directly.",
   evidence:

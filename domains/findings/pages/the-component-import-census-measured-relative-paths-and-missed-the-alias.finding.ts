@@ -4,7 +4,7 @@ export const theComponentImportCensusMeasuredRelativePathsAndMissedTheAlias = {
   id: "01a06426-cc4a-7171-8f59-d446c157541f",
   pageTypeSlug: "finding",
   slug: "the-component-import-census-measured-relative-paths-and-missed-the-alias",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "The import census over temper's 271 component files measured `./`, `../` and `~/`, reported 35 relative imports with none using `~/`, and concluded that most files need no repointing. It never measured `@/`, the alias temper's own tsconfig maps onto the app tree and the ordinary way one component reaches another. In the companion family alone 118 `@/` lines are spread over 45 of its 80 files, so 53 of 78 modules needed repointing rather than the handful the census implied.",
   evidence:

@@ -4,7 +4,7 @@ export const mockModuleLeaksIntoEveryLaterTestFile = {
   id: "01a05bbe-127b-7000-b446-759b78e1b2f7",
   pageTypeSlug: "finding",
   slug: "mock-module-leaks-into-every-later-test-file",
-  domainSlug: "workspace-package/testing-system",
+  domain: "workspace-package/testing-system",
   claim:
     "A test calling `mock.module` replaces that module for every test file running after it, so a package landing with a mocked store breaks tests it never names.",
   evidence:

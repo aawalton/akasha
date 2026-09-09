@@ -4,7 +4,7 @@ export const theNotifierAndAkashaHoldTwoDisjointDeviceTokenStores = {
   id: "01a060a0-1c52-7627-8206-34821df55117",
   pageTypeSlug: "finding",
   slug: "the-notifier-and-akasha-hold-two-disjoint-device-token-stores",
-  domainSlug: "workspace-package/persons",
+  domain: "workspace-package/persons",
   claim:
     "Device tokens are kept in two stores nothing bridges. `apns-push-notifier` reads `pages/device-token/*.md` through the markdown engine under `user-id` and `bundle-id`; akasha holds `device-token` pages under `personSlug` and `iosAppSlug` that nothing on the send road reads. So `registerDeviceToken` is left throwing: a token landed in akasha would be sent nowhere, and one landed in the markdown from the web pod dies at the next pod start. The notifier reading akasha is owed first.",
   evidence:

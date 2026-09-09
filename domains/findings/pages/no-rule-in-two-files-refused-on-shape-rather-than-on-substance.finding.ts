@@ -4,7 +4,7 @@ export const noRuleInTwoFilesRefusedOnShapeRatherThanOnSubstance = {
   id: "01a06101-b033-7000-b115-20410532eb18",
   pageTypeSlug: "finding",
   slug: "no-rule-in-two-files-refused-on-shape-rather-than-on-substance",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`no-rule-in-two-files` refused on shape rather than on substance. A body holding no literal, no operator and no branch only passes names along, and nothing in it can drift, so it is no rule. The check passes such a body over now, and refusals fall from 139 to 68. The call taken in Alan's absence: a duplication check that leaves adding a module as the only way to satisfy it works against what the check is for.",
   evidence:

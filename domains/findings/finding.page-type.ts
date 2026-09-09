@@ -1,11 +1,11 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { DomainSlug } from "../properties/domain-slug.relation-property.ts"
+import type { PageDomain } from "../properties/page-domain.relation-property.ts"
 import type { Claim } from "./properties/claim.text-property.ts"
 import type { Evidence } from "./properties/evidence.text-property.ts"
 
 export type Finding = Page & {
-  domainSlug: DomainSlug
+  domain: PageDomain
   claim: Claim
   evidence: Evidence
 }
@@ -19,7 +19,7 @@ export const finding = {
   partSlugs: ["text-property/claim", "text-property/evidence"],
   extendsSlug: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/page-domain", required: true, many: false },
     { pagePropertySlug: "text-property/claim", required: true, many: false },
     { pagePropertySlug: "text-property/evidence", required: true, many: false },
   ],

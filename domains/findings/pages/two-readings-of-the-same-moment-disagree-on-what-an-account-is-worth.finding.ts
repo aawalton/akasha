@@ -4,7 +4,7 @@ export const twoReadingsOfTheSameMomentDisagreeOnWhatAnAccountIsWorth = {
   id: "01a05fdf-9a2d-73e8-bfbf-00fd2252447e",
   pageTypeSlug: "finding",
   slug: "two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "An inventory snapshot and a net worth reading taken at the same millisecond by the same account give different totals. 151 of the 162 snapshots share a moment with a net worth reading, and only one of the 151 agrees on the number. Nothing in temper says which total answers the question of what an account is worth.",
   evidence:

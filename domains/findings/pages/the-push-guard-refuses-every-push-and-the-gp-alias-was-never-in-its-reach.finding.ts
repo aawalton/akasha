@@ -4,7 +4,7 @@ export const thePushGuardRefusesEveryPushAndTheGpAliasWasNeverInItsReach = {
   id: "01a068ff-e61a-7e15-bf0f-d0a22f123bc8",
   pageTypeSlug: "finding",
   slug: "the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "`block-destructive-git` refuses every `git push`, not only a forced one, and answers with `akasha push` in its place. The `gp` alias was never in that hook's reach and never can be: a hook is handed the words of a tool call, and `gitCallIn` answers null wherever the head basename is not `git`, so no git predicate here reads anything out of `gp`. That route is closed at the alias instead, which now spells `akasha push`. Three akasha commands reach the remote past every hook — `push`, and the two deploys, which push for themselves — and each pushes to whatever remote the root it is handed names.",
   evidence:

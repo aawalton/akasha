@@ -4,7 +4,7 @@ export const everyPathAnswersASettledIndexForPagedPathsAndABaseIndexForTheRest =
   id: "01a07cd0-4409-7e34-8cd7-97fdb9a93a53",
   pageTypeSlug: "finding",
   slug: "every-path-answers-a-settled-index-for-paged-paths-and-a-base-index-for-the-rest",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`shadow.index.everyPath()` answers a mixed index while a change is judged. A path some page claims is already absent where the change takes that page away, and the files beside that page are absent with it. A path no page claims is answered whether the change takes that path away or not. No path the change adds is answered at all. Nothing says so on the shadow page or on the index page. A check working out what a change takes away from `everyPath()` alone therefore misses the page moves that check is built to catch, while catching the same move of a file no page claims.",
   evidence:

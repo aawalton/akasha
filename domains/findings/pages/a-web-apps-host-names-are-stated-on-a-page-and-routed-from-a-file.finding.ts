@@ -4,7 +4,7 @@ export const aWebAppsHostNamesAreStatedOnAPageAndRoutedFromAFile = {
   id: "01a05b26-f8b6-7ffd-b7e7-e2624681524c",
   pageTypeSlug: "finding",
   slug: "a-web-apps-host-names-are-stated-on-a-page-and-routed-from-a-file",
-  domainSlug: "page-type/web-app",
+  domain: "page-type/web-app",
   claim:
     "A web app page now states the host names reaching it, and nothing reads them. The tunnel is still configured from a `tunnel-routes.ts` standing beside each app's source, which no page names. The two agree tonight because they were copied across by hand and checked one by one. Nothing would notice if they stopped agreeing.",
   evidence:

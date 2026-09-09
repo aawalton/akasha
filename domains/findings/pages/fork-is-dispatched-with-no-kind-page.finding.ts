@@ -4,7 +4,7 @@ export const forkIsDispatchedWithNoKindPage = {
   id: "01a06dc2-4b27-7b44-bdd9-6e1d005492ab",
   pageTypeSlug: "finding",
   slug: "fork-is-dispatched-with-no-kind-page",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "A seat dispatches subagents as `fork`, and no subagent-kind page carries that name. Every kind page holds the name a seat dispatches it by in `dispatched-as`, so a subagent dispatched as `fork` reaches no kind page and its own page names no kind.",
   evidence:

@@ -4,7 +4,7 @@ export const aChangedUniqueReachWalksEveryPageAndDoesNotFinish = {
   id: "01a07326-3258-7c50-9e3b-b9a2fa506206",
   pageTypeSlug: "finding",
   slug: "a-changed-unique-reach-walks-every-page-and-does-not-finish",
-  domainSlug: "workspace-package/page",
+  domain: "workspace-package/page",
   claim:
     "A change altering the `unique` reach of a property carried by every page walks all 120666 paths and reaches no answer in 41 minutes, while the same command against a page whose reach nothing declares answers in 143 seconds.",
   evidence:

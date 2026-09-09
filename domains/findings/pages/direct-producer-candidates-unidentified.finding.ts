@@ -4,7 +4,7 @@ export const directProducerCandidatesUnidentified = {
   id: "01a06555-9f3d-70dd-9336-c3af6ad4a294",
   pageTypeSlug: "finding",
   slug: "direct-producer-candidates-unidentified",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's household food comes substantially from Smiths and Walmart, and the direct-from-producer alternatives that would reduce that fraction are named only as categories: bulk dry goods, produce through a local farm share, eggs or dairy through a neighbour, meat direct from a rancher. No specific producer has been identified in any category, so the shape he uses to cultivate local relationships elsewhere has never been applied to food.",
   evidence:

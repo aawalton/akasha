@@ -4,7 +4,7 @@ export const nothingTheWebPodCommitsEverLeavesItsNode = {
   id: "01a06093-2f10-79ab-bdb0-0dbc798159fa",
   pageTypeSlug: "finding",
   slug: "nothing-the-web-pod-commits-ever-leaves-its-node",
-  domainSlug: "cluster-service/alanwalton-web",
+  domain: "cluster-service/alanwalton-web",
   claim:
     "No commit the alanwalton-web pod makes in its own checkout ever reaches main. Nothing pushes it, and `git reset --hard origin/main` runs at every pod start, so a local commit dies there and only untracked files outlive it. The error and device-token roads were moved off that checkout already. One road was not: the health-sample writer edits a tracked file in place and never commits, so every row the phone sends is thrown away by the next pod start.",
   evidence:

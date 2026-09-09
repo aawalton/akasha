@@ -4,7 +4,7 @@ export const theWriteGateNamesReadPathsThatAreNotThere = {
   id: "01a06302-83de-78ab-aaad-d2fb56d76965",
   pageTypeSlug: "finding",
   slug: "the-write-gate-names-read-paths-that-are-not-there",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "The write gate tells an agent to read files at paths where no file is. It names the seat and subagent property folders in the singular, and those folders were renamed to the plural. Running the exact command the gate prints answers that it names no file, so the gate's own remedy fails and the agent has to guess the spelling.",
   evidence:

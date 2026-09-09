@@ -4,7 +4,7 @@ export const aShellGlobSkipsDottedDirectoriesAndUndercountsACensus = {
   id: "01a0674c-196d-79a3-9ef4-c0d15204d776",
   pageTypeSlug: "finding",
   slug: "a-shell-glob-skips-dotted-directories-and-undercounts-a-census",
-  domainSlug: "domain/instrument",
+  domain: "domain/instrument",
   claim:
     "A shell `*/` glob skips directories whose names open with a dot, so a census written that way omits them silently and reports a plausible total. Counting module pages under `akasha/temper/temper-web` that way gave 289; `find` over the same tree gave 299. The ten it missed sit under `.server/`. Neither number announces itself as wrong.",
   evidence:

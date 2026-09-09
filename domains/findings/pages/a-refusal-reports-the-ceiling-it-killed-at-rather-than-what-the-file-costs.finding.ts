@@ -4,7 +4,7 @@ export const aRefusalReportsTheCeilingItKilledAtRatherThanWhatTheFileCosts = {
   id: "01a081e7-d82d-7b86-947b-4352111dfdf6",
   pageTypeSlug: "finding",
   slug: "a-refusal-reports-the-ceiling-it-killed-at-rather-than-what-the-file-costs",
-  domainSlug: "module/code-tests",
+  domain: "module/code-tests",
   claim:
     "A test file over the cost ceiling is re-run with the ceiling armed to find out what it spent, so that run is killed at five processor seconds and the number the refusal reports is the kill threshold rather than the file's cost. Every file over the line reports about 5.1 seconds, whether it costs 5.2 or 15.0. A refusal therefore cannot say how far over a file is, and a plan made against that number cannot tell a file needing one division from a file needing three.",
   evidence:

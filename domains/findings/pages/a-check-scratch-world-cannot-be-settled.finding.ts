@@ -4,7 +4,7 @@ export const aCheckScratchWorldCannotBeSettled = {
   id: "01a08276-3c87-746a-bbe3-8ffc21c0f7ab",
   pageTypeSlug: "finding",
   slug: "a-check-scratch-world-cannot-be-settled",
-  domainSlug: "module/check-scratch",
+  domain: "module/check-scratch",
   claim:
     "A world `typed()` builds cannot be settled, so a check test proving move behaviour on that world proves nothing.",
   evidence:

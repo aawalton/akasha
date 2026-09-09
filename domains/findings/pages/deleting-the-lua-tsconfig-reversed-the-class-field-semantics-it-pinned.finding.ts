@@ -4,7 +4,7 @@ export const deletingTheLuaTsconfigReversedTheClassFieldSemanticsItPinned = {
   id: "01a06806-7243-7ac0-8ce1-747d89e12c2d",
   pageTypeSlug: "finding",
   slug: "deleting-the-lua-tsconfig-reversed-the-class-field-semantics-it-pinned",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "The old `lua-compiler/tsconfig.json` pinned `target: ES2019` with `useDefineForClassFields: false`. Deleting that tree at `554c6ad331` took the pin with it, and the gate's own typecheck compiles the landed package at `target: ESNext`, where the option defaults to true. So the landed files are not unenforced: they are enforced to define semantics where the old tree pinned set semantics.",
   evidence:

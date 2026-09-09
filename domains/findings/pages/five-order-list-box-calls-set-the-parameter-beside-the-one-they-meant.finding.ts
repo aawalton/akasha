@@ -4,7 +4,7 @@ export const fiveOrderListBoxCallsSetTheParameterBesideTheOneTheyMeant = {
   id: "01a062c3-06b5-7b39-9cdd-78c3994658fe",
   pageTypeSlug: "finding",
   slug: "five-order-list-box-calls-set-the-parameter-beside-the-one-they-meant",
-  domainSlug: "eso-addon/temper-lib-addon-menu-order-list-box",
+  domain: "eso-addon/temper-lib-addon-menu-order-list-box",
   claim:
     "Five calls pass `true` believing they set `reselectingDuringRebuild`, and the game reads it as `animateInstantly`. Both are optional booleans in the corrected declaration, so nothing type-errors and no emitted Lua moves. What the widget does in the client is therefore open, and only whoever owns it can settle it.",
   evidence:

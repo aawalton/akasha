@@ -4,7 +4,7 @@ export const aGateOutsideTheHoldLetsASiblingStripAModeBeforeItCommits = {
   id: "01a062ed-716f-7863-9623-28767404df5b",
   pageTypeSlug: "finding",
   slug: "a-gate-outside-the-hold-lets-a-sibling-strip-a-mode-before-it-commits",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A mode a landing means to commit is stripped before it commits. `landing` judges outside the hold, `judged()` at :260 and `holding()` at :269, so across a gate of minutes a sibling's `restore-akasha-when-dirty` runs `git checkout HEAD -- akasha` and puts the file back at the mode HEAD holds before `committed` reads it off disk. The landing then answers `nothing was committed — what was asked for already stands`, which reads as success. Every executable file anyone lands meets this.",
   evidence:

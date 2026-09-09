@@ -1,8 +1,8 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
-import type { DomainSlug } from "./domain-slug.relation-property.ts"
+import type { PageDomain } from "./page-domain.relation-property.ts"
 
-export type PartSlugs = List<DomainSlug>
+export type PartSlugs = List<PageDomain>
 
 export const partSlugs = {
   id: "01a049cb-c488-7b90-ba0a-f6463fcda254",

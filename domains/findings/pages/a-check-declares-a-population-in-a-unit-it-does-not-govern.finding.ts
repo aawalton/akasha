@@ -4,7 +4,7 @@ export const aCheckDeclaresAPopulationInAUnitItDoesNotGovern = {
   id: "01a05cf8-fcf2-7001-935f-d1f548f27840",
   pageTypeSlug: "finding",
   slug: "a-check-declares-a-population-in-a-unit-it-does-not-govern",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "The harness already refuses a population of zero and has since the audits tree was made, so no check goes green while reading literally nothing. What still gets through is a check declaring its population in a unit it does not read: the denominator looks healthy while the thing it actually looks for sits at zero. That is what left `command-help-bound` green over 7969 files and no declaration, and the same shape is green elsewhere today.",
   evidence:

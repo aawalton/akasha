@@ -4,7 +4,7 @@ export const healthcareAuditGaps = {
   id: "01a06555-9f3e-736d-aef0-517ea046ebf9",
   pageTypeSlug: "finding",
   slug: "healthcare-audit-gaps",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Two gaps stand open in the healthcare audit of a five-person household. No eye-care provider is captured at all, so none has been graded against the framework. And there is no recorded plan for care outside routine hours — no stated urgent-care preference, no chosen emergency room, nothing for after-hours or weekend need. Both are the kind of dependency that is discovered under pressure rather than chosen.",
   evidence:

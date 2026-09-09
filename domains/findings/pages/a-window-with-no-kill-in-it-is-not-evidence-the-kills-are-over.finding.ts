@@ -4,7 +4,7 @@ export const aWindowWithNoKillInItIsNotEvidenceTheKillsAreOver = {
   id: "01a05edb-b36b-79ae-95e8-44610e8fa384",
   pageTypeSlug: "finding",
   slug: "a-window-with-no-kill-in-it-is-not-evidence-the-kills-are-over",
-  domainSlug: "cluster-service/alanwalton-web",
+  domain: "cluster-service/alanwalton-web",
   claim:
     "The liveness kills did not stop. A finding filed earlier today said they had, on a window that was true when it was read and false three minutes later: web-868f5f9c55-kv58b failed its liveness probe six times between 20:33:44Z and 20:34:34Z and was killed. Taking readoutCatalog off the request path did not fix them and the cause is still unknown. A stretch with no kill in it is not evidence the kills are over, because that is what every gap between them looks like.",
   evidence:

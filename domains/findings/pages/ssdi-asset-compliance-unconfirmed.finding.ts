@@ -4,7 +4,7 @@ export const ssdiAssetComplianceUnconfirmed = {
   id: "01a06555-9f3e-7f38-b4ce-3b6ba3f72d9f",
   pageTypeSlug: "finding",
   slug: "ssdi-asset-compliance-unconfirmed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Legacy savings accounts at UCCU exist for a specific reason: to keep household assets off the books of relatives who receive SSDI, where exceeding an asset cap would cost them their benefit. Whether each custodial arrangement actually meets the Social Security Administration's asset-attribution rules has never been confirmed, and the documentation discipline that would keep the arrangement defensible is unrecorded.",
   evidence:

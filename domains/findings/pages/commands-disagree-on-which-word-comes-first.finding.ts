@@ -4,7 +4,7 @@ export const commandsDisagreeOnWhichWordComesFirst = {
   id: "01a073c1-e073-7304-9fd2-d312e380e985",
   pageTypeSlug: "finding",
   slug: "commands-disagree-on-which-word-comes-first",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "Which of a command's words comes first is stated by each command rather than bound once, and the commands disagree. Ten say the act comes first and three say the subject does. The command page type says nothing about word order, though it binds other facts true of every command. Five of the ten also say it a second time in their help notes, so one page states one fact in two properties.",
   evidence:

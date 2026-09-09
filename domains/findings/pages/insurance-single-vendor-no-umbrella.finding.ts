@@ -4,7 +4,7 @@ export const insuranceSingleVendorNoUmbrella = {
   id: "01a06555-9f3e-7c92-836d-6356c432945c",
   pageTypeSlug: "finding",
   slug: "insurance-single-vendor-no-umbrella",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "One D-grade vendor, State Farm, carries both Alan's home and auto insurance, which doubles what a capture event or a behaviour failure there would cost him. Meanwhile no umbrella policy covers tail liability against roughly $1.75M of investable assets and $1.2M of home equity, at a typical cost of $200 to $500 a year. Both decisions turn on the same absent thing: a B-tier insurer. Without one, adding the umbrella at State Farm is the cheaper path and deepens the bundle.",
   evidence:

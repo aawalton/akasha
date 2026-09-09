@@ -4,7 +4,7 @@ export const anUndecidedSentenceShapeIsABooleanLeftOut = {
   id: "01a05dae-85a6-7668-890a-bbc92c7dc59d",
   pageTypeSlug: "finding",
   slug: "an-undecided-sentence-shape-is-a-boolean-left-out",
-  domainSlug: "page-type/sentence-shape",
+  domain: "page-type/sentence-shape",
   claim:
     "A sentence shape carries three states and the page type holds two of them. Allowed and refused are `allowed` set true or false, and undecided is `allowed` left out. A reader meets an absent property and has to be told that absence is a decision rather than an oversight, and nothing in the value says which.",
   evidence:

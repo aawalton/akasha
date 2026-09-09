@@ -4,7 +4,7 @@ export const aModuleSlugIsTheOnlyWayIntoItsCode = {
   id: "01a0607c-474e-7189-a859-47e13764e206",
   pageTypeSlug: "finding",
   slug: "a-module-slug-is-the-only-way-into-its-code",
-  domainSlug: "workspace-package/temper-catalog-core",
+  domain: "workspace-package/temper-catalog-core",
   claim:
     "A workspace package holds that a way in naming a module's code is spelled as that module's slug, so recreating a package renames every import subpath its consumers spell, not just the package half. Four of catalog-core's nine ways in changed name. A seat planning a recreation should count the subpath renames as part of the repointing rather than expecting the package half alone to move, which is what the twelve capture-shapes packages had led seats to expect.",
   evidence:

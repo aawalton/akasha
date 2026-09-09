@@ -4,7 +4,7 @@ export const theReaderThrowsAwayTheReasonAGameRefused = {
   id: "01a062a2-a8f5-7c7c-a631-3fd86d81f0f1",
   pageTypeSlug: "finding",
   slug: "the-reader-throws-away-the-reason-a-game-refused",
-  domainSlug: "domain/story-engine",
+  domain: "domain/story-engine",
   claim:
     "The server half of the reader says gone out loud and the client half draws it as empty. `loadGame` throws an `unheld()` message naming the game it cannot answer for, and the one reader that still runs catches every failure with a bare `catch`, keeps no reason, and renders the host app's generic fallback. A player in the native shell sees a page with nothing on it and no word that the reader refused.",
   evidence:

@@ -4,7 +4,7 @@ export const elevenThousandSlotsSitInTheSixTruncatedPrefixesAndNowhereElse = {
   id: "01a0675a-8cc6-7bb2-ae6a-046c96267289",
   pageTypeSlug: "finding",
   slug: "eleven-thousand-slots-sit-in-the-six-truncated-prefixes-and-nowhere-else",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "The 6 captures that do not parse are not empty. `locations` is the first top-level key of every capture, so each truncated prefix holds whole item objects up to the break: 1,596, 1,697, 1,683, 1,684, 1,683 and 3,348, or 11,691 together. Their snapshot pages carry no `stacks` sidecar. Only 10,095 of the 11,691 are held nowhere else: the first 1,596 are already in akasha under a different moment. Keep the 7 shard files until someone settles whether to recover them.",
   evidence:

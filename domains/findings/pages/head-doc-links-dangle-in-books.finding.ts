@@ -4,7 +4,7 @@ export const headDocLinksDangleInBooks = {
   id: "01a06555-9f3e-75c2-9f12-59c704b623cd",
   pageTypeSlug: "finding",
   slug: "head-doc-links-dangle-in-books",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Seven tracked files in `~/books/all-about-alan/` carry nine markdown links to a `CLAUDE.md` that exists nowhere in the books repository, so every one renders as a broken link to a reader of the live corpus. The standing sweep for this citation form measures `~/code` source files and cannot reach another repository, so a repair driven by it completes while all nine stand.",
   evidence:

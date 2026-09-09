@@ -4,7 +4,7 @@ export const nothingSchedulesTheAuditThatMechanicalChangesAreOwed = {
   id: "01a06065-7e0c-7e88-9701-7e1ac5e3b878",
   pageTypeSlug: "finding",
   slug: "nothing-schedules-the-audit-that-mechanical-changes-are-owed",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`change-mechanical` carries a gap invariant reading `A fault a mechanical change lands is found by the audit.` Nothing runs the audit. No systemd timer, no unit, no service and no workflow calls `akasha audit`, so the promise is empty: a mechanical change is judged by nothing at the gate and by nothing afterwards. Seven commands name that kind — move, remove, refactor, seat and three temper generators — and `landedMechanically` is reached by the seat, subagent and reminder writers besides.",
   evidence:

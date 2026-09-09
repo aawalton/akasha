@@ -4,7 +4,7 @@ export const aranyaRootFolderShape = {
   id: "01a08257-6635-725b-b328-6665c66c0e46",
   pageTypeSlug: "initiative",
   slug: "aranya-root-folder-shape",
-  domainSlug: "domain/akasha",
+  domain: "domain/akasha",
   persona: "aranya",
   parent: "initiative/akasha-folder-shape",
   intents: [

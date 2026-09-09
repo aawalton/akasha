@@ -4,7 +4,7 @@ export const movingTheObservationWriteOffTheHostThreadIsWhatUnfrozeThePanels = {
   id: "01a0680d-8b77-7000-9cef-02b19c09f764",
   pageTypeSlug: "finding",
   slug: "moving-the-observation-write-off-the-host-thread-is-what-unfroze-the-panels",
-  domainSlug: "workspace-package/editor-extension",
+  domain: "workspace-package/editor-extension",
   claim:
     "One observation write held the extension host's only thread for 202-430ms, median 307ms, and six in a row read as one unbroken 1521ms block. The pollers ask for a write about once a second, so about a third of the event loop sat in this call, and a blocked host repaints nothing, which is why every panel and the status line froze together. Writing less often was tried and reverted: blocked medians 11438ms against 20486ms, no improvement. Handing the same call to a bun child is what fixed it.",
   evidence:

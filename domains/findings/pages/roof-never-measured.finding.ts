@@ -4,7 +4,7 @@ export const roofNeverMeasured = {
   id: "01a06555-9f3e-7261-b4a1-7d5672abb36d",
   pageTypeSlug: "finding",
   slug: "roof-never-measured",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Every PV size in `projects/solar-power` rests on a roof nobody has measured. The working assumption is ~1,500 sq ft usable; the planning case is 49 kWp DC, which the thread's own anchor puts at ~2,905 sq ft. The gap is carried as a $22,500 supplement structure budgeted against the unmeasured input rather than against a measured shortfall. Azimuth, tilt, shaded fraction and usable area per face are each named as needed, and none is recorded anywhere in the thread.",
   evidence:

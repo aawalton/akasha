@@ -4,7 +4,7 @@ export const aPathKeyedRuleFailsOpenWhenThePathMoves = {
   id: "01a05b66-5c35-7fd6-ab2d-789fd7302c3c",
   pageTypeSlug: "finding",
   slug: "a-path-keyed-rule-fails-open-when-the-path-moves",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
 
   claim:
     "A package's folder path is spelled as a bare string in places no move repoints, and nothing ties the string back to the folder. For `shared/pages-core` the worst is a biome override banning react and the design packages from it: move the folder and the override matches nothing, the ban quietly stops applying, and biome reports success. The rot is already visible rather than feared, because the one other list of this kind carries an entry naming a folder this repository does not have.",

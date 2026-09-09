@@ -4,7 +4,7 @@ export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
   id: "01a06cf7-51d4-7000-9125-07804c6337ce",
   pageTypeSlug: "finding",
   slug: "the-shell-write-hook-reads-text-that-is-not-shell-as-shell",
-  domainSlug: "workspace-package/hook-system",
+  domain: "workspace-package/hook-system",
   claim:
     "`block-akasha-shell-writes` refuses four shapes of call that write nothing into the checkout. Three of the four are one defect: it reads text that the shell would never run as a command as though it were one. The fourth resolves a relative path against the wrong directory. Each cost real time on 2026-09-04 and each pushed the agent that met it toward a workaround rather than the call it meant to make.",
   evidence:

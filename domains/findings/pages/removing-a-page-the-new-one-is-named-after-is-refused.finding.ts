@@ -4,7 +4,7 @@ export const removingAPageTheNewOneIsNamedAfterIsRefused = {
   id: "01a06348-077e-701d-a2c1-dda5893eb0aa",
   pageTypeSlug: "finding",
   slug: "removing-a-page-the-new-one-is-named-after-is-refused",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A migration that keeps a slug cannot delete what it replaced. `akasha remove` looks for the last part of each path as text in every tracked body, so the new page naming the old page's slug reads as a file still naming it, and the removal is refused. The cost is the second wall: one call over two paths takes 28 seconds, because every tracked body is read once for each path named, so a folder of 4,422 files does not finish.",
   evidence:

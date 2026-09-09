@@ -4,7 +4,7 @@ export const designSystemCarriesItsDependentsInCssAndItsBlockersInTsx = {
   id: "01a05c50-e3b4-7116-ab2b-5f96eaec8f77",
   pageTypeSlug: "finding",
   slug: "design-system-carries-its-dependents-in-css-and-its-blockers-in-tsx",
-  domainSlug: "domain/design",
+  domain: "domain/design",
   claim:
     "shared/design-system cannot land whole today. Thirteen typecheck errors stand in four of its 36 `.tsx`, every one a React setter handed to a prop the landed akasha design packages type `(value: string) => undefined`, which the no-void-return narrowing another lane holds is what fixes. Its two halves are unlike: seven products reach only its five `.css`, and one route on one site reaches the whole 36-file demo gallery.",
   evidence:

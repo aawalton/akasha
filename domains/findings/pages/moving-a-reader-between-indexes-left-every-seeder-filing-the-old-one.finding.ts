@@ -4,7 +4,7 @@ export const movingAReaderBetweenIndexesLeftEverySeederFilingTheOldOne = {
   id: "01a076f6-9f6d-7d55-b101-298d9fe4c6cd",
   pageTypeSlug: "finding",
   slug: "moving-a-reader-between-indexes-left-every-seeder-filing-the-old-one",
-  domainSlug: "workspace-package/page",
+  domain: "workspace-package/page",
   claim:
     "`a276e2a032` moved `everyOfType` and `slugsOfType` onto the value index and changed no seeder, so every test seeding a page through `listedFiled` files the index those readers no longer read. The readers answer empty rather than refusing, so the suites went quiet at the seam and red somewhere far from it. Two lines in one fixture file took `warranting.module.test.ts` from 22 of 54 to 54 of 54 and both file-property warrant suites to 16 of 16. Twenty more suites that seed this way are red, deterministically, and how many share this cause is unmeasured.",
   evidence:

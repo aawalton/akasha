@@ -4,7 +4,7 @@ export const anInstallInOneLaneFailsATestFileInAnother = {
   id: "01a05ba7-1c40-7000-b2e8-5d1f3a90c7be",
   pageTypeSlug: "finding",
   slug: "an-install-in-one-lane-fails-a-test-file-in-another",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A red suite naming nothing broken, with a victim that moves between runs and passes alone, is two lanes sharing one `node_modules` rather than state leaking between test files. A package being relinked is unreachable while it is gone, so every test file whose imports reach it fails to load, and which file that is depends only on what is being stood up.",
   evidence:

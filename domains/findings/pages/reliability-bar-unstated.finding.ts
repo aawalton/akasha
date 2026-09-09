@@ -4,7 +4,7 @@ export const reliabilityBarUnstated = {
   id: "01a06555-9f3e-7a46-a9db-b3e0271aaefa",
   pageTypeSlug: "finding",
   slug: "reliability-bar-unstated",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's framework grades organisations on trust in detail and states no reliability bar at all — no uptime floor, no target for mean time between failures, no statement that a given dependency must be at least as reliable as some named thing. The identity-recovery anchor is where the omission binds, being the first dependency whose limiting constraint is reliability rather than trust: an anchor he trusts entirely is useless at the moment it is unreachable.",
   evidence:

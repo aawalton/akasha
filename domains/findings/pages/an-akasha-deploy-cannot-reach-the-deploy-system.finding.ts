@@ -4,7 +4,7 @@ export const anAkashaDeployCannotReachTheDeploySystem = {
   id: "01a05b08-26f6-7002-b2b2-70eaaa535aa2",
   pageTypeSlug: "finding",
   slug: "an-akasha-deploy-cannot-reach-the-deploy-system",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "The old deploy could not be repaired where it stood and reached from akasha, because an akasha file imports no file outside the akasha folder and `deploy-system` is a folder of loose files no manifest names. Carrying it in would have carried four more folders with it. It was rebuilt narrow inside akasha instead, so two spellings of a deploy now stand and the old one is still the only one that builds in a pod.",
   evidence:

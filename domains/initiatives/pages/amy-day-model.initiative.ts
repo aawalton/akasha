@@ -4,7 +4,7 @@ export const amyDayModel = {
   id: "01a0822f-86b1-7075-9318-ba9ec1888f24",
   pageTypeSlug: "initiative",
   slug: "amy-day-model",
-  domainSlug: "domain/track",
+  domain: "domain/track",
   persona: "amy",
   constraints: [
     "Stop and talk to Alan where a change to the day model is not easy, fast and safe.",

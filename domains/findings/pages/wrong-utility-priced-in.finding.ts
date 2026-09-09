@@ -4,7 +4,7 @@ export const wrongUtilityPricedIn = {
   id: "01a06555-9f3f-77f0-bfb0-65a5e38658fc",
   pageTypeSlug: "finding",
   slug: "wrong-utility-priced-in",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The solar thread prices in programmes belonging to a utility that does not serve the house. The site is on Provo City Power; six files carry Rocky Mountain Power's rebates, free audit, export programme and reliability figures as though they applied, one making the RMP audit step one of the bid strategy. `scope.md` catches one file, and records that Provo Power's own rebates need research nothing has done. Two files credit ownership with a 30% federal credit the corpus records as terminated.",
   evidence:

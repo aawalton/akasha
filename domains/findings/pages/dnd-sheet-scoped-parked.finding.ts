@@ -4,7 +4,7 @@ export const dndSheetScopedParked = {
   id: "01a06555-9f3d-70b6-b5e0-04caac311b7c",
   pageTypeSlug: "finding",
   slug: "dnd-sheet-scoped-parked",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "A real-life DND-style character sheet for Alan, reading live values-levels, persona-relationship-levels and real-life progress data, is scoped and parked, likely to compose with astra's custom-display platform as its rendering rail.",
   evidence:

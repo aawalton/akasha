@@ -4,7 +4,7 @@ export const theUnnamedHalfReadsNoStylesheet = {
   id: "01a06318-4aaf-7e11-a77f-4f6aa63a59fc",
   pageTypeSlug: "finding",
   slug: "the-unnamed-half-reads-no-stylesheet",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "manifest-names-what-is-reached reads its two halves by different extensions. `holdingBy` asks `bodyNamed` and credits a reach from a `.ts`, a `.tsx` or a `.css`. The guard before `unnamedIn` asks `textNamed` and refuses from a `.ts` or a `.tsx` alone. A package reaching from a stylesheet is credited for what it names and never refused for what it leaves out. Nothing is hidden by this today: no stylesheet under akasha reaches a package its own manifest does not name.",
   evidence:

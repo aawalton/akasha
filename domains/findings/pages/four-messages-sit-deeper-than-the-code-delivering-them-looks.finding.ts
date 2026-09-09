@@ -4,7 +4,7 @@ export const fourMessagesSitDeeperThanTheCodeDeliveringThemLooks = {
   id: "01a082e2-8d52-7fc5-a5f7-91e9b7431180",
   pageTypeSlug: "finding",
   slug: "four-messages-sit-deeper-than-the-code-delivering-them-looks",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "Four message pages sit a folder deeper than the rest, where the code delivering messages never looks.",
   evidence:

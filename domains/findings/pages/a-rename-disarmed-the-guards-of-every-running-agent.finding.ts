@@ -4,7 +4,7 @@ export const aRenameDisarmedTheGuardsOfEveryRunningAgent = {
   id: "01a062e1-8244-73a1-881f-51a0c39dc314",
   pageTypeSlug: "finding",
   slug: "a-rename-disarmed-the-guards-of-every-running-agent",
-  domainSlug: "workspace-package/hook-system",
+  domain: "workspace-package/hook-system",
   claim:
     "Live state holding a resolved path is disarmed by a rename, and quietly. Each agent hook was registered as a shell command naming its code file by absolute path, in a settings document composed once at launch and never read again. Renaming `akasha/hook-system/agent-hook/` to `agent-hooks/` left every running agent registering thirteen commands at paths nothing was at. A hook that will not run is reported and passed over rather than refused, so those agents kept writing with every guard off.",
   evidence:

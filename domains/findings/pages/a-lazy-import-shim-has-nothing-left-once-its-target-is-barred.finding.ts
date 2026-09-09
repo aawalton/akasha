@@ -4,7 +4,7 @@ export const aLazyImportShimHasNothingLeftOnceItsTargetIsBarred = {
   id: "01a06039-c825-700d-917b-29f9fbdc32ee",
   pageTypeSlug: "finding",
   slug: "a-lazy-import-shim-has-nothing-left-once-its-target-is-barred",
-  domainSlug: "workspace-package/temper-addon-build",
+  domain: "workspace-package/temper-addon-build",
   claim:
     "Two of temper's files exist only to hold an import back until someone needs it, and neither holds anything else. Once akasha bars the import they wrap, nothing is left to recreate. The saving they bought was real and is lost with them: about 110ms off every `temper addon` call. Whatever eventually reaches the addon resolver from inside akasha has to buy that saving again.",
   evidence:

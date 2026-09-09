@@ -4,7 +4,7 @@ export const jennysCategorizationRouteLandsAsAModuleSinceNoRoutePageTypeStands =
   id: "01a05bdc-98ff-7c1d-b142-ecbef0776099",
   pageTypeSlug: "finding",
   slug: "jennys-categorization-route-lands-as-a-module-since-no-route-page-type-stands",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "Jenny's categorization route lands in akasha as a module rather than as a route page. No route page type stands, and the intent that would model one is Alan's and unmet. The call taken in his absence: the answering moves into `module/readout-categorization`, and the route file keeps only the wiring, reading the credential her site names and handing it in. The file itself stays outside akasha, since nothing has shown react-router resolving a route module through a symlinked package root.",
   evidence:

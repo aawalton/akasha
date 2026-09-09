@@ -4,7 +4,7 @@ export const elevenSpotifyEndpointFamiliesAndTwoTolerancesReachedNoCaller = {
   id: "01a06275-4a8f-7000-ad23-61dfe69acb27",
   pageTypeSlug: "finding",
   slug: "eleven-spotify-endpoint-families-and-two-tolerances-reached-no-caller",
-  domainSlug: "domain/music",
+  domain: "domain/music",
   claim:
     "Eleven of the Spotify client's fifteen endpoint families are absent from the recreation at `akasha/alan/music/spotify`: albums, artists, audiobooks, browse, chapters, episodes, follow, library, playlists, shows, users. So are `harness.ts`, `fetch-stub.ts`, `endpoints/types.ts`, `reachability.ts` and `restriction.ts`. Nothing outside the old package imported any of them.",
   evidence:

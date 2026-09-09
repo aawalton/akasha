@@ -4,7 +4,7 @@ export const theReadoutCatalogCostIsTheListingNotTheFrontmatterParse = {
   id: "01a0613b-d7c2-720f-a9e4-18b0b62a6166",
   pageTypeSlug: "finding",
   slug: "the-readout-catalog-cost-is-the-listing-not-the-frontmatter-parse",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "readoutCatalog does not parse frontmatter across all the files. It opens 518 of the 54,860 tracked markdown pages, 0.94%, and that parse is about 6ms of a 57ms build. The other 51ms lists both checkouts and names all 104,593 tracked paths to reach those 518. Removing the readouts would not have taken the cost out by the route named. Building once per call did, and moved nothing.",
   evidence:

@@ -4,7 +4,7 @@ export const familyOfFiveNeverCosted = {
   id: "01a06555-9f3d-7321-9b61-224b0093ee78",
   pageTypeSlug: "finding",
   slug: "family-of-five-never-costed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Every cost figure ranking the second-passport destinations is priced for a family of four, and the family is five. Both synthesis files state the correction once — add ~12–15% to living costs, 25–40% to rent — and never apply it. The tables, the cheapest lists and the €4,500-a-month sweet-spot filter run on unadjusted numbers. Athens at €3,873 clears that threshold as written and fails it under the file's own uplift, so a city listed among the cheapest is one this arithmetic excludes.",
   evidence:

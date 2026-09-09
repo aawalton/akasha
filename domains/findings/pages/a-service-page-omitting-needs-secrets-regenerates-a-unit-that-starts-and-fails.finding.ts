@@ -4,7 +4,7 @@ export const aServicePageOmittingNeedsSecretsRegeneratesAUnitThatStartsAndFails 
   id: "01a06871-54e5-7003-b0d9-fa6eef6cf784",
   pageTypeSlug: "finding",
   slug: "a-service-page-omitting-needs-secrets-regenerates-a-unit-that-starts-and-fails",
-  domainSlug: "page-type/workstation-service",
+  domain: "page-type/workstation-service",
   claim:
     "A workstation service page that omits `needsSecrets` regenerates a unit that starts cleanly and then fails on every pass, because the credentials the service reads are sourced by the unit rather than by the code. The old failure is loud at boot and the new one is quiet inside a caught pass, so regenerating the unit looks like a repair while it is the opposite. A unit standing on disk is evidence of what the machine needs that its own page does not carry.",
   evidence:

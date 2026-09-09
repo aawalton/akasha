@@ -4,7 +4,7 @@ export const theRepoTypecheckNumberReadItsOwnHarnessHighAndLow = {
   id: "01a05ff7-cf13-7000-8880-aeb418e56e61",
   pageTypeSlug: "finding",
   slug: "the-repo-typecheck-number-read-its-own-harness-high-and-low",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "typecheck-repo's 2660 errors measured its own temporary tree rather than this repository, and read wrong in both directions: of 2611 adjudicated against each package's own typecheck, 2599 are errors no package has, while 2 that infra/cluster-checks does have went unreported because the harness dropped noUncheckedIndexedAccess. A broken check's number is neither a ceiling nor a floor. Deleted, with tools/lib/typecheck-run.ts, its only reader.",
   evidence:

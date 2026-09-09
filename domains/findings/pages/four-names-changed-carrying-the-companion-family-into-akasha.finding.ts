@@ -4,7 +4,7 @@ export const fourNamesChangedCarryingTheCompanionFamilyIntoAkasha = {
   id: "01a06426-cc4a-7470-8834-af03d5578eca",
   pageTypeSlug: "finding",
   slug: "four-names-changed-carrying-the-companion-family-into-akasha",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "Four names could not be carried unchanged. A module slug is unique across every module in the repository, an exported module-level constant is named in upper snake case, and a slug is lower kebab case. Nothing lost behaviour, but two of the four renamed an exported name that importers outside the companion family may reach, and the old names are nowhere under akasha to be found by search.",
   evidence:

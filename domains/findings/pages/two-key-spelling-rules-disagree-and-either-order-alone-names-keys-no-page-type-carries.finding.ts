@@ -4,7 +4,7 @@ export const twoKeySpellingRulesDisagreeAndEitherOrderAloneNamesKeysNoPageTypeCa
   id: "01a07323-840c-721f-8695-7431cb225c16",
   pageTypeSlug: "finding",
   slug: "two-key-spelling-rules-disagree-and-either-order-alone-names-keys-no-page-type-carries",
-  domainSlug: "workspace-package/page",
+  domain: "workspace-package/page",
   claim:
     '`property-slug` states two rules for spelling the key a page carries, and neither is stated as running before the other. "The key a page carries is this written in camel" camelises the property slug; "A key drops the words its declarer\'s name already says" takes a word out first. Over `event-types`, `run-seq` and `run-error-message` the dropping rule read first yields `types`, `seq` and `errorMessage`, where the keys the page types carry are `eventTypes`, `runSeq` and `runErrorMessage`. `types` and `errorMessage` are carried by no page type; `seq` is carried by two, neither of them `sync-run`, so the wrong reading of that one lands on a key that exists somewhere else. The two rules resolve opposite ways within one checkout: `calendar-event` drops the repeated word and `sync-run` keeps it.',
   evidence:

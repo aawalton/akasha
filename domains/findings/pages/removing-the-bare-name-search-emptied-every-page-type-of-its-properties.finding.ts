@@ -4,7 +4,7 @@ export const removingTheBareNameSearchEmptiedEveryPageTypeOfItsProperties = {
   id: "01a07353-48b3-79ee-91e0-fc018c3cf453",
   pageTypeSlug: "finding",
   slug: "removing-the-bare-name-search-emptied-every-page-type-of-its-properties",
-  domainSlug: "workspace-package/page",
+  domain: "workspace-package/page",
   claim:
     "Taking the bare-name search out of `shapedIn` left 443 of 453 page types declaring no properties at all, and left every one of the 914 unique keys unfiled, because 2563 of the 2601 `pagePropertySlug` values in the tree name a property with no page type before it. Three of the four callers of `schemaOf` hand it a bare name, and each of the three answers a refusal by dropping the result rather than by refusing, so nothing failed loudly and 26 tests went green over the change that did it.",
   evidence:

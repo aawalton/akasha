@@ -4,7 +4,7 @@ export const theReadoutQueryPropertiesBlockNothingBecauseNothingAnswersAQuery = 
   id: "01a060ef-7636-7eb2-ab0a-cc60cb313394",
   pageTypeSlug: "finding",
   slug: "the-readout-query-properties-block-nothing-because-nothing-answers-a-query",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "readoutCatalog was held blocked on four query properties the akasha readout page type lacks. It is not. The code those properties feed is already dead: `askThrough` is never called and the only `Ask` ever built throws for every slug. Every surviving caller reads structure alone — slug, label, scale, groupSlugs, place, wireKey — and the akasha page type declares all six. The figures the blocker rested on were wrong, and one of its citations named lines in a file that has none.",
   evidence:

@@ -4,7 +4,7 @@ export const dallaDraftIntoAPatch = {
   id: "01a05f32-3256-7b26-94ec-82af5035c9bb",
   pageTypeSlug: "initiative",
   slug: "dalla-draft-into-a-patch",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   persona: "dalla",
   intents: [
     {

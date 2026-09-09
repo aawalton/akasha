@@ -4,7 +4,7 @@ export const anAuditCannotFinishBeforeTheTreeItJudgedIsGone = {
   id: "01a062cd-7242-7780-86ba-1e193ec95ab9",
   pageTypeSlug: "finding",
   slug: "an-audit-cannot-finish-before-the-tree-it-judged-is-gone",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "An audit reads every file the index names and holds nothing still while it runs. Under a swarm `typecheck` has two failure modes that both produce zero bytes: the kernel takes it for its 9.6 GB, or a concurrent write rebuilds the index it is reading. A killed run and a clean run are told apart only by an exit code, and no run names one tree.",
   evidence:

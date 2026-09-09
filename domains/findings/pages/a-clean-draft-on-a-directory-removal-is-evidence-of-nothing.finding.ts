@@ -4,7 +4,7 @@ export const aCleanDraftOnADirectoryRemovalIsEvidenceOfNothing = {
   id: "01a06433-8ace-7bd8-8800-f49b00510e7a",
   pageTypeSlug: "finding",
   slug: "a-clean-draft-on-a-directory-removal-is-evidence-of-nothing",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`akasha edit --remove` naming a directory draws both deletions into the drafted patch, yet the checks judge a tree the removal was never worked into, and the land then fails with EISDIR. Naming the page file works the removal in and the checks judge it truly. So a clean draft on the directory form is evidence of nothing. Nothing was harmed: the failed land rolled back whole.",
   evidence:

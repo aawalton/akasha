@@ -4,7 +4,7 @@ export const thePageStoreNowAnswersAnyBodyUnderAkasha = {
   id: "01a05b34-b267-7443-82fe-92d2d4224aa7",
   pageTypeSlug: "finding",
   slug: "the-page-store-now-answers-any-body-under-akasha",
-  domainSlug: "workspace-package/pages-service",
+  domain: "workspace-package/pages-service",
   claim:
     "`POST /read` hands any caller the whole body standing at any path under `akasha/`, out of the commit at HEAD, save the two sidecars a page's own values stand in: a `.sops.yaml` and an `.uncommitted.ts` are refused by name. Until this route the store answered only the keys a page declares. Whoever reaches the store reads the rest of the tree.",
   evidence:

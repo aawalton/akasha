@@ -4,7 +4,7 @@ export const theValuesParentIsNotDanglingAndRepointingItFreesNoDeletion = {
   id: "01a0646d-e131-72ab-8ab7-413ba3059653",
   pageTypeSlug: "finding",
   slug: "the-values-parent-is-not-dangling-and-repointing-it-frees-no-deletion",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "The six `alan/value/*.value.md` pages are not orphaned. `readouts/group/values.readout-group.md` is still there and their `domain-parent-slug: readout-group/values` resolves six deep; `d2d8f2ae0a` ablated only the akasha twins. Repointing that parent would free no deletion of `readouts/`, because the same six reach that tree twice more heavily, through `extends-slug: readout` and the eight property declarations under `readouts/readout/`.",
   evidence:

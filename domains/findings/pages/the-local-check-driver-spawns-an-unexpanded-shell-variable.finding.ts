@@ -4,7 +4,7 @@ export const theLocalCheckDriverSpawnsAnUnexpandedShellVariable = {
   id: "01a05cc3-f730-772b-bdf7-37427fa7332b",
   pageTypeSlug: "finding",
   slug: "the-local-check-driver-spawns-an-unexpanded-shell-variable",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`routedCheckArgv` hands back an argv array whose first element is the literal text `$AKASHA_ROOT/...`. Only a shell expands that, and the one caller that spawns it passes the array straight to `Bun.spawnSync`, which does not. Both checks the local driver routes die at module resolution having judged nothing, and are recorded as failing the thing they were meant to judge.",
   evidence:

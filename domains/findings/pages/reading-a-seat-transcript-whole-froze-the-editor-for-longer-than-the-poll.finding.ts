@@ -4,7 +4,7 @@ export const readingASeatTranscriptWholeFrozeTheEditorForLongerThanThePoll = {
   id: "01a06811-01d3-7005-9b69-8da1c638490c",
   pageTypeSlug: "finding",
   slug: "reading-a-seat-transcript-whole-froze-the-editor-for-longer-than-the-poll",
-  domainSlug: "workspace-package/editor-extension",
+  domain: "workspace-package/editor-extension",
   claim:
     "Reading a seat's transcript whole on every poll cost, on this fleet at load 30-37, up to 1,799 MB read and 9,507 ms of held event loop for one tick against a one-second poll. Wall time and loop-held time agreed to within 3 ms, so the whole of it was synchronous, and a blocked extension host repaints nothing: every panel and the status line froze together. This is what the appended-bytes fold in `transcript-reading` stands against.",
   evidence:

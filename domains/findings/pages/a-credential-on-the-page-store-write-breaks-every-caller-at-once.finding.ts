@@ -4,7 +4,7 @@ export const aCredentialOnThePageStoreWriteBreaksEveryCallerAtOnce = {
   id: "01a05ba6-1855-7000-b73b-7b7fde2810ea",
   pageTypeSlug: "finding",
   slug: "a-credential-on-the-page-store-write-breaks-every-caller-at-once",
-  domainSlug: "workspace-package/pages-service",
+  domain: "workspace-package/pages-service",
   claim:
     "Asking `/write` for a credential stops every caller in the same instant, because none carries one and no second route stands to fall back to. The callers are the workstation's own tools, the pods, and the agents, and the pods are reached through a socat that forwards bytes and can add no header. What the change costs is counted here so the call takes one sitting rather than a re-derivation.",
   evidence:

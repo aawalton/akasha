@@ -4,7 +4,7 @@ export const fourAuditDomainsUnpopulated = {
   id: "01a06555-9f3e-78d0-9b21-d1ffb6c90867",
   pageTypeSlug: "finding",
   slug: "four-audit-domains-unpopulated",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Four domains of Alan's dependency audit stand unpopulated while the rest are worked. Housing holds mortgage or rent, water, electric, gas, sewer, trash and property tax. Communications holds his internet provider, mobile carrier, email provider and the source his phone number ports from. Energy holds the electric grid as a system distinct from the utility relationship, vehicle and heating fuel, and any solar or battery. Income holds employers, clients and business arrangements. None has a note.",
   evidence:

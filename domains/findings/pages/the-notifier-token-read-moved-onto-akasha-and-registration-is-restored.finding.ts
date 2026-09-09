@@ -4,7 +4,7 @@ export const theNotifierTokenReadMovedOntoAkashaAndRegistrationIsRestored = {
   id: "01a060b2-779b-7000-8f96-d584577504b8",
   pageTypeSlug: "finding",
   slug: "the-notifier-token-read-moved-onto-akasha-and-registration-is-restored",
-  domainSlug: "workspace-package/persons",
+  domain: "workspace-package/persons",
   claim:
     "The notifier reads its device tokens from akasha through the pages system service, and `registerDeviceToken` writes again rather than raising. The blocker its refusal named was true and is gone. Both stores held the same three tokens byte for byte, so the move lost nothing. Alan's second device is still dark; what is repaired is that a fresh registration now reaches the sender.",
   evidence:

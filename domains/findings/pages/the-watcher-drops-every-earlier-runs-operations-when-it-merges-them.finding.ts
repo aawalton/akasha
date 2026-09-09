@@ -4,7 +4,7 @@ export const theWatcherDropsEveryEarlierRunsOperationsWhenItMergesThem = {
   id: "01a063c4-d269-7560-b66d-486a70656391",
   pageTypeSlug: "finding",
   slug: "the-watcher-drops-every-earlier-runs-operations-when-it-merges-them",
-  domainSlug: "workspace-package/temper-watcher",
+  domain: "workspace-package/temper-watcher",
   claim:
     "The legacy watcher writes its run outcome as JSON text and reads that property back through a `z.object`, which refuses text. The read answers an empty list every time, so merging keeps only the newest run's operations and every earlier run's operations are dropped. The property never holds more than one run whatever it is asked to merge. The akasha twin reads the text back as JSON before merging.",
   evidence:

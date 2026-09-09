@@ -4,7 +4,7 @@ export const theBookOfEverythingScoredTreeIsNowhereOnDisk = {
   id: "01a06589-aff9-7000-a725-2c1327d37bdf",
   pageTypeSlug: "finding",
   slug: "the-book-of-everything-scored-tree-is-nowhere-on-disk",
-  domainSlug: "domain/authoring",
+  domain: "domain/authoring",
   claim:
     "The Book of Everything's scored node tree is on no disk here. Its own tools read a `book-of-everything/` folder at the repository root, and there is none, in this repository or in the backup. So the coverage numbers migrated as the `book-of-everything-coverage-dashboard` record cannot be computed again, and the three records migrated out of `dirty/book-of-everything/` are the whole of what is left of the Book.",
   evidence:

@@ -4,7 +4,7 @@ export const theSharedIosScriptsFolderWasRenamedAndFourScriptsStillNameTheOldOne
   id: "01a0657e-994b-72c0-bd83-4bb8c304ed8b",
   pageTypeSlug: "finding",
   slug: "the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one",
-  domainSlug: "workspace-package/code-system",
+  domain: "workspace-package/code-system",
   claim:
     "The shared iOS scripts folder is `akasha/code-system/ios-apps/scripts`, and four shell scripts across alanwalton and smilingjenny still resolve it as `shell-scripts`, a folder that is not there. Each one exits on its own guard, so neither app can run its seam or its add. A rename repointed the TypeScript importers and reached no shell script.",
   evidence:

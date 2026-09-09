@@ -4,7 +4,7 @@ export const anIgnoredSidecarOutlivesItsPageAndTheRemovalSaysItIsNotThere = {
   id: "01a0644a-d9a5-7000-a30b-957ee209db95",
   pageTypeSlug: "finding",
   slug: "an-ignored-sidecar-outlives-its-page-and-the-removal-says-it-is-not-there",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`akasha edit --remove` and `akasha write --remove` ask whether a path is there by the body the commit holds at it. A git-ignored sidecar is in no commit, so it always answers as not there: it is dropped when its page goes, and naming it directly is refused. The page goes and the sidecar keeps a page's uncommitted values under no page. `akasha remove` asks the disk instead and takes the same file.",
   evidence:

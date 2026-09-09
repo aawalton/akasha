@@ -4,7 +4,7 @@ export const authorshipMarkingUnmeasured = {
   id: "01a06555-9f3d-7b16-a297-d243f8012e6e",
   pageTypeSlug: "finding",
   slug: "authorship-marking-unmeasured",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The Authorship rule on `domains/all-about-alan.md` lets a seat write its own reading of Alan where it marks the reading as its own, and nothing reads whether a mark is there. 24 of the 256 tracked files under `notes/` carry any confirmation language at all. In the other 232 an unmarked inference and a sentence Alan said are the same shape, and no mark is the default state, so the figure bounds nothing.",
   evidence:

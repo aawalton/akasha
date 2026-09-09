@@ -4,7 +4,7 @@ export const theThirteenLandingRefusalsAreOneStallRatherThanLoad = {
   id: "01a07677-f445-722c-9311-d0cf7b1e4e50",
   pageTypeSlug: "finding",
   slug: "the-thirteen-landing-refusals-are-one-stall-rather-than-load",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "The 13 landing refusals in the subagent presence logs are one stall rather than lock contention under load. All 13 fell between 09:38:14 and 09:39:51 on 2026-09-05 across three supervisors, inside a 266-second gap in commits. Three hours later the same tree took 99 commits in one minute and 2107 in one hour, its busiest ever recorded, and refused none. `installingIn` does run `bun install` under the landing lock, and that hazard is real, but it is not what these 13 measured. Nothing dates the stall itself, because no supervisor log line survives in that window.",
   evidence:

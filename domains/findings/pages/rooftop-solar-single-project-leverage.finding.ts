@@ -4,7 +4,7 @@ export const rooftopSolarSingleProjectLeverage = {
   id: "01a06555-9f3e-73f1-8cd6-4b1cff541f3c",
   pageTypeSlug: "finding",
   slug: "rooftop-solar-single-project-leverage",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "One capital project carries more leverage than anything else in Alan's audit: rooftop solar reduces his dependence on Provo Power, on Dominion for natural gas, and on public charging for a future EV at once, and sits under the whole household electric load besides. It also gates the second stage — a heat pump replacing gas heating and hot water, induction replacing gas cooking. Its scope is unsketched, no installer is assessed, and it is gated on burnout recovery rather than money.",
   evidence:

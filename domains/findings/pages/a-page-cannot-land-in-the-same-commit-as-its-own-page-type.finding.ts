@@ -4,7 +4,7 @@ export const aPageCannotLandInTheSameCommitAsItsOwnPageType = {
   id: "01a05fc7-f922-7efb-abb1-26f1072e3dd3",
   pageTypeSlug: "finding",
   slug: "a-page-cannot-land-in-the-same-commit-as-its-own-page-type",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A page whose page type arrives in the same change is refused twice, and neither refusal names the ordering. Its id is never worked out, so it enters no index, and the checks then report it as a file no page is answerable for and as a page stating no id.",
   evidence:

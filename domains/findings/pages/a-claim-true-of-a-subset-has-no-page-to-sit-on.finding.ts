@@ -4,7 +4,7 @@ export const aClaimTrueOfASubsetHasNoPageToSitOn = {
   id: "01a073c0-e30f-7181-8107-17836bc0b993",
   pageTypeSlug: "finding",
   slug: "a-claim-true-of-a-subset-has-no-page-to-sit-on",
-  domainSlug: "workspace-package/domain",
+  domain: "workspace-package/domain",
   claim:
     "A claim true of a real subset of a domain's parts, where no page names that subset, is written onto every member of the subset instead of bound once. Six agents settling duplicated invariants left twelve of fifteen wide sibling groups alone for this reason: the claim was false of the other pages under the same parent, so it could not move up, and nothing sat between the parent and the members for it to move to.",
   evidence:

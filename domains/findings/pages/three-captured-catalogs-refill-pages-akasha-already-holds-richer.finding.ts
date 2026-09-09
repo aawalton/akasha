@@ -4,7 +4,7 @@ export const threeCapturedCatalogsRefillPagesAkashaAlreadyHoldsRicher = {
   id: "01a06050-8062-7736-ae0b-e7099dd6f8dc",
   pageTypeSlug: "finding",
   slug: "three-captured-catalogs-refill-pages-akasha-already-holds-richer",
-  domainSlug: "domain/temper-catalog",
+  domain: "domain/temper-catalog",
   claim:
     "Of the nineteen catalogs `temper-capture-shapes` describes, three are already held under `temper-catalog` as pages carrying strictly more than the capture does: skill, scribing and item-set. Four more are held in part. The shapes were landed anyway, since a shape says what the addon writes into saved variables rather than what akasha keeps, and the capture is how the pages get refilled. What the shapes do not settle is whether those three captures still need to run.",
   evidence:

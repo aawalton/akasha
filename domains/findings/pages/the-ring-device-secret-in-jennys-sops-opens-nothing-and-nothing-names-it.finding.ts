@@ -4,7 +4,7 @@ export const theRingDeviceSecretInJennysSopsOpensNothingAndNothingNamesIt = {
   id: "01a05bae-093f-71b2-8b01-3379de9a30b8",
   pageTypeSlug: "finding",
   slug: "the-ring-device-secret-in-jennys-sops-opens-nothing-and-nothing-names-it",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "`ALANWALTON_RING_DEVICE_SECRET` stands in Jenny's sops and in her live cluster Secret, but no file in the repository reads it and the value it carries opens nothing: Alan's pod refuses it with `no device secret stands for the secret presented`. It is why the ring could not be proved open live without minting a device secret, which was refused.",
   evidence:

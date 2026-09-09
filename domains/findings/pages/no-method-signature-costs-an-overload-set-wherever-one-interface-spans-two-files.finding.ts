@@ -4,7 +4,7 @@ export const noMethodSignatureCostsAnOverloadSetWhereverOneInterfaceSpansTwoFile
   id: "01a060cc-6ac2-705f-bf46-babe6e2cc59f",
   pageTypeSlug: "finding",
   slug: "no-method-signature-costs-an-overload-set-wherever-one-interface-spans-two-files",
-  domainSlug: "workspace-package/temper-eso-types",
+  domain: "workspace-package/temper-eso-types",
   claim:
     "The ESO declarations write each game method as a property holding a function type, which is what no-method-signature asks for. Two declarations of one interface merge their methods into an overload set and collide their properties, so 20 members of 12 interfaces answered TS2717 and only one of the two reached a caller. Where the other declaration is TypeScript's own lib, no property shape mends it: three TSTL extensions of Object cannot be restored while the rule holds.",
   evidence:

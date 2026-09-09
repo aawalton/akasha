@@ -4,7 +4,7 @@ export const aReferenceCensusOverImportsCannotSeeADispatchConfig = {
   id: "01a06294-7b41-7c08-ba5e-3f1d9a7e2c60",
   pageTypeSlug: "finding",
   slug: "a-reference-census-over-imports-cannot-see-a-dispatch-config",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "A reference census over imports alone cannot see a dispatch config. An import census reported `widget-sites.ts` and `alanwalton-ios-seam.ts` orphaned, yet `check-configs.ts` names both as `dispatchNodes` string literals. A path named as a string survives every import-graph analysis, so `unreferenced` and `unreferenced by imports` come back as the same word. Such a census sweeps string literals for repo-relative paths before anything is removed.",
   evidence:

@@ -4,7 +4,7 @@ export const aMoveRewritesImportsThatNoCheckThenJudges = {
   id: "01a06437-706c-73f9-ab72-0cda730db8df",
   pageTypeSlug: "finding",
   slug: "a-move-rewrites-imports-that-no-check-then-judges",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "`akasha move` rewrote 11 import lines across 7 files while flattening 56 modules, then reported that a change-mechanical change runs no check and this landing was judged by none. Its dry run had said no file naming what moved needed repointing, which is true only of files outside the moved set and reads as though nothing would be rewritten. A move edits code, its dry run understates what it will edit, and nothing type-checks the result.",
   evidence:

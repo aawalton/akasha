@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type DomainSlug = Slug
+export type PageDomain = Slug
 
-export const domainSlug = {
+export const pageDomain = {
   id: "01a04a08-fcf3-7003-9b33-ccbd3edd35cb",
   pageTypeSlug: "relation-property",
-  slug: "domain-slug",
-  propertySlug: "domain-slug",
+  slug: "page-domain",
+  propertySlug: "domain",
   definition: "a slug naming a domain",
   targetPageTypeSlug: "page-type/domain",
 } as const satisfies RelationProperty

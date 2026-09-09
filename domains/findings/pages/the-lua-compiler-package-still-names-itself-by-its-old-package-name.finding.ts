@@ -4,7 +4,7 @@ export const theLuaCompilerPackageStillNamesItselfByItsOldPackageName = {
   id: "01a06805-e2b9-74d4-bf3d-84c5da961cbb",
   pageTypeSlug: "finding",
   slug: "the-lua-compiler-package-still-names-itself-by-its-old-package-name",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "The compiler package moved to `akasha/language-design/lua-compiler` and is reached as `@akasha/lua-compiler`, but six strings inside it still say `@temper/shared-build-deploy-tstl`: the CLI name, two Node version messages, the help text for `--luaPlugins`, the `source` set on diagnostics, and the comparison that filters diagnostics by that source. Nothing is broken today, because the setter and the comparison agree with each other.",
   evidence:

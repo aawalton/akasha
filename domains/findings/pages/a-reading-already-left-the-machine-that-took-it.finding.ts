@@ -4,7 +4,7 @@ export const aReadingAlreadyLeftTheMachineThatTookIt = {
   id: "01a05b73-d737-7863-8cc2-0f009397d2c5",
   pageTypeSlug: "finding",
   slug: "a-reading-already-left-the-machine-that-took-it",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "The invariant `A reading never leaves the machine that took it` was already false before anything changed tonight, so narrowing it corrects a wrong statement rather than departing from a true one. A reading has been crossing the public internet between two pods for as long as Jenny's tile has drawn one. What the invariant meant is true of the file rather than of the reading, and what it was reaching for stands beside it already: a reading never reaches the commit.",
   evidence:

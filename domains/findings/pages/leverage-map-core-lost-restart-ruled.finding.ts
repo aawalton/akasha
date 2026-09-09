@@ -4,7 +4,7 @@ export const leverageMapCoreLostRestartRuled = {
   id: "01a06555-9f3e-779b-8465-3e2e773fb45b",
   pageTypeSlug: "finding",
   slug: "leverage-map-core-lost-restart-ruled",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The live 37-line Leverage Map core did not survive the 2026-07-27 harness rebuild, Alan ruled restart-from-scratch on 2026-07-28, and loose ends from that day's session are captured only as a routing pointer awaiting Book-of-Alan intake, which Alan explicitly deferred.",
   evidence:

@@ -4,7 +4,7 @@ export const tenCatalogCollectorPackagesLandedAsOne = {
   id: "01a060ec-47c2-7c9d-b02b-696e2d213345",
   pageTypeSlug: "finding",
   slug: "ten-catalog-collector-packages-landed-as-one",
-  domainSlug: "workspace-package/temper-game-catalog-capture-addon",
+  domain: "workspace-package/temper-game-catalog-capture-addon",
   claim:
     "The ten `@temper/game-*-capture-addon` catalog packages held fifteen collectors between them and nothing else. They landed as one workspace package holding fifteen modules rather than as ten siblings. Not one carried an `addon.json`, so not one was an addon; each was a library the TemperCatalog addon bundles. What goes is the ten-package boundary, which cost a manifest and a typecheck config for every one or two collector files. No capability goes.",
   evidence:

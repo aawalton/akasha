@@ -4,7 +4,7 @@ export const oneRuleIsACheckSwitchedOffAndTheOtherIsJudgedOnlyWhenAValueIsAnswer
   id: "01a07323-840d-7cb7-b8b2-7c98cbb3d3ce",
   pageTypeSlug: "finding",
   slug: "one-rule-is-a-check-switched-off-and-the-other-is-judged-only-when-a-value-is-answered",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     'Two rules go unjudged, in different ways. A computed property states `holds` and its calculation states `Held` in `Work<Page, Held>`; the two are joined by nothing but the file stem, and no check reads both. Over all 31 computed properties none disagree, and a runtime guard in `page-computing` already judges the answered value against `holds` for any page that flows through it. The manifest rule is a check already: `manifest-names-what-is-reached` states "A dependency named and not reached is the other half", implements it and carries a test. It runs on no phase — 36 of 43 code-checks run on none — and it credits every name the akasha folder holds before weighing evidence, so switched fully on it would still refuse none of the 53 unreferenced workspace declarations across 30 manifests.',
   evidence:

@@ -4,7 +4,7 @@ export const aCommandCannotWriteALineBeforeItAnswers = {
   id: "01a0603f-86ce-7198-9574-af2d5f3ca41e",
   pageTypeSlug: "finding",
   slug: "a-command-cannot-write-a-line-before-it-answers",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "An akasha command answers once, with a finished array of report lines. A command that must emit as it goes, or hand its terminal to a child process, has nowhere to put that. Two of temper's 66 commands need it and cannot be recreated whole: `temper-addon-build --watch` hands the terminal to a compiler that never exits, and `temper-watcher-logs` emits one JSON record per line as it reads. Several long builds also printed progress a caller watched.",
   evidence:

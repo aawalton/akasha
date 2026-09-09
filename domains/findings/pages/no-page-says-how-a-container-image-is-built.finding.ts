@@ -4,7 +4,7 @@ export const noPageSaysHowAContainerImageIsBuilt = {
   id: "01a0603e-0c89-7d05-bd81-73dfba0e7c1c",
   pageTypeSlug: "finding",
   slug: "no-page-says-how-a-container-image-is-built",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "A cluster service names the image its pods run, and nothing in akasha says how that image is built. The temper watcher's build is a Dockerfile with three stages that cross-compiles a Rust tray and a Bun worker for Windows and copies both executables out. No akasha page type carries a container build, so the Dockerfile has nowhere to go.",
   evidence:

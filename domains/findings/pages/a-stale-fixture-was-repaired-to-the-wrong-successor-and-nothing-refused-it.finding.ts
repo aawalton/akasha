@@ -4,7 +4,7 @@ export const aStaleFixtureWasRepairedToTheWrongSuccessorAndNothingRefusedIt = {
   id: "01a0769d-6a4e-74b4-ba80-15c571cf537b",
   pageTypeSlug: "finding",
   slug: "a-stale-fixture-was-repaired-to-the-wrong-successor-and-nothing-refused-it",
-  domainSlug: "workspace-package/pages-query",
+  domain: "workspace-package/pages-query",
   claim:
     "A test that asserts only that something names a domain cannot tell a right subject from a wrong one, so it keeps agreeing when the fixture is repaired to the wrong page. `store-page-asking`'s live naming test named `workspace-package/pages-system`, a slug already gone when the test was written. Repairing it by name similarity pointed it at `workspace-package/pages-system-service`, a different package defined as `the pages reached over HTTP`, and the test went green. The slug's real successor is `workspace-package/page`, the same page under a new name.",
   evidence:

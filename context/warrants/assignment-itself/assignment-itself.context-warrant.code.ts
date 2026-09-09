@@ -16,7 +16,7 @@ const INITIATIVE_TYPE = "initiative"
 
 const KEY = "assignmentSlug"
 
-const DOMAIN_KEY = "domainSlug"
+const DOMAIN_KEY = "domain"
 
 function warrantAt(root: string, path: string, owed: string): readonly Warrant[] {
   const oid = blobAt(root, path)

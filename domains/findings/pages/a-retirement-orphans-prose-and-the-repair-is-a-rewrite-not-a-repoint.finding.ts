@@ -4,7 +4,7 @@ export const aRetirementOrphansProseAndTheRepairIsARewriteNotARepoint = {
   id: "01a06441-182f-779a-b3e8-4290fd9f837a",
   pageTypeSlug: "finding",
   slug: "a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "Retiring a finding is itself a removal, and it orphans the prose of any page whose evidence names the slug going with it. `akasha edit --remove` judges the paths it takes away and never whether another page names them, so clearing dangling citations makes new ones. Repointing would not close it: a page retired for being false took a fact with it, so the sentence citing it wants rewriting rather than a new address.",
   evidence:

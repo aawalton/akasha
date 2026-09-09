@@ -4,7 +4,7 @@ export const liftingADeclareGlobalNeedsTheTypeAmbientFirst = {
   id: "01a06226-e590-712b-ba21-b6c391fddbbe",
   pageTypeSlug: "finding",
   slug: "lifting-a-declare-global-needs-the-type-ambient-first",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`no-global-in-a-module` tells a seat to lift the block into a `.d.ts`, and that remedy is reachable only where the global's type is already ambient. No declaration file in akasha carries an import, so a declaration file cannot name a type a module holds. Where the type is a module's, the seat has two other moves and the refusal names neither: reach the global through a cast, or make the type ambient first.",
   evidence:

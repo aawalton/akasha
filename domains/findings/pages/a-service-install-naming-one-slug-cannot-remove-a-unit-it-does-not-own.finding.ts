@@ -4,7 +4,7 @@ export const aServiceInstallNamingOneSlugCannotRemoveAUnitItDoesNotOwn = {
   id: "01a0696a-b614-71f7-8f6a-4c0450d9d862",
   pageTypeSlug: "finding",
   slug: "a-service-install-naming-one-slug-cannot-remove-a-unit-it-does-not-own",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "The bar on `akasha service install` is owed by the `--all` form alone. Name a slug and the command narrows what it owns to that service's own two unit names before it plans, so its remove list can hold nothing else. Measured: the one-slug dry run plans two acts and no removal, and `--all` today plans 83 writes, 47 enables, 3 stops and no removal at all. The 37-unit removal was what an unpopulated index answered, not a property of the command.",
   evidence:

@@ -4,7 +4,7 @@ export const aDeviceSecretIsACredentialKeptInTheCommit = {
   id: "01a05b4b-4db6-79f3-ae76-1b3953664d3f",
   pageTypeSlug: "finding",
   slug: "a-device-secret-is-a-credential-kept-in-the-commit",
-  domainSlug: "page-type/device-secret",
+  domain: "page-type/device-secret",
   claim:
     "A device secret stands as a page, so every mint and every revoke is a commit to this repository and the hash of a live credential stays in its history after the page is deleted. Recording when a secret was last presented would be a commit on every readout request, so it is written nowhere. Minting a fresh secret takes a session only Alan holds, but two unrevoked secrets carried over from the markdown pages already stand for him, so the first one took no sign-in.",
   evidence:

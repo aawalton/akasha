@@ -4,7 +4,7 @@ export const theMigratedBookOverviewsLinkToFilesThatWent = {
   id: "01a06589-aff9-7100-a572-404ca8cf1e91",
   pageTypeSlug: "finding",
   slug: "the-migrated-book-overviews-link-to-files-that-went",
-  domainSlug: "domain/authoring",
+  domain: "domain/authoring",
   claim:
     "The three overviews migrated into `book-record` pages carry sixty markdown links into their own books, and every one reaches nothing today. All About Alan's forty-seven reach `notes/*.md` files that were rewritten as `all-about-alan-topic` pages under other slugs and then deleted. My Strategy's eleven reach `chapters/NNN-*.md`, which are outside akasha under another name. My Faith's two reach a `CLAUDE.md` that is nowhere.",
   evidence:

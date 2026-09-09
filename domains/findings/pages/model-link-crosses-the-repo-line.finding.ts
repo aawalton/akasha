@@ -4,7 +4,7 @@ export const modelLinkCrossesTheRepoLine = {
   id: "01a06555-9f3e-7903-8c75-d798446897b0",
   pageTypeSlug: "finding",
   slug: "model-link-crosses-the-repo-line",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The note that grounds the automaticity framework points at its simulation by a relative path that resolves to nothing: `alan/books/all-about-alan/src/` does not exist in the books repo, and the script it names is tracked in the code repo instead.",
   evidence:

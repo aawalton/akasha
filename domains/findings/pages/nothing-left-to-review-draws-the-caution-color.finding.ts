@@ -4,7 +4,7 @@ export const nothingLeftToReviewDrawsTheCautionColor = {
   id: "01a05b7e-984e-7bdb-9caa-b174b30cefa0",
   pageTypeSlug: "finding",
   slug: "nothing-left-to-review-draws-the-caution-color",
-  domainSlug: "readout-scale/backlog-count",
+  domain: "readout-scale/backlog-count",
   claim:
     "`backlog-count` states `yellowAt: 0`, and the ring turns a tier on at or above its rung, so every count from zero up is yellow and no count is ever uncolored. The best state the readout has draws the same caution color as a small backlog, beside the words `All reviewed!` and a party emoji. Any scale stating a zero rung has this, because zero is not a threshold a count can fall below.",
   evidence:

@@ -4,7 +4,7 @@ export const theWatchersFinishedForeverReadIgnoresTheNestedProgressStillDeclared
   id: "01a063e9-a1db-7e53-addd-555c7a148ed1",
   pageTypeSlug: "finding",
   slug: "the-watchers-finished-forever-read-ignores-the-nested-progress-still-declared",
-  domainSlug: "workspace-package/temper-watcher",
+  domain: "workspace-package/temper-watcher",
   claim:
     "`isCompleteForever` in the akasha watcher reads `progressCurrent` and `progressTotal` and never reads `progress`, while the writer it recreates read `progress.current` and `progress.total`. The `temper-task` page type declares all three, so this is a declared property going unread rather than a dropped one. A task whose counts sit under `progress` reads as unfinished where it read as finished before.",
   evidence:

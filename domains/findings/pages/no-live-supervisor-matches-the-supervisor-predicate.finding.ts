@@ -4,7 +4,7 @@ export const noLiveSupervisorMatchesTheSupervisorPredicate = {
   id: "01a07371-81f2-77cf-b789-528e4fdabbd0",
   pageTypeSlug: "finding",
   slug: "no-live-supervisor-matches-the-supervisor-predicate",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
 
   claim:
     "`isSupervisorCmdline` requires the literal `supervisor.ts` in a command line, and no file of that name is in the repository. It matches none of the live supervisors. The memory reaper draws the roots of its per-tree leg from that predicate, so the per-tree ceiling has no tree to measure and cannot fire. The unit test asserts the predicate against a command line shape the repository no longer produces, so a passing test reports on a predicate that can never match.",

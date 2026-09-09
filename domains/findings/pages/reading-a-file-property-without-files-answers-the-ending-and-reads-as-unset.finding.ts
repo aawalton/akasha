@@ -4,7 +4,7 @@ export const readingAFilePropertyWithoutFilesAnswersTheEndingAndReadsAsUnset = {
   id: "01a08279-b0b0-7829-8656-8a20ed7ced07",
   pageTypeSlug: "finding",
   slug: "reading-a-file-property-without-files-answers-the-ending-and-reads-as-unset",
-  domainSlug: "workspace-package/pages-service",
+  domain: "workspace-package/pages-service",
   claim:
     "Reading a file property without naming it under `files` answers the ending rather than the body, and a caller that parses the answer reads it as unset. `getPage`, and a query naming the key only under `keys`, both hand back the four characters `json` for `settings`. Three callers in temper took that as an empty blob: the command reading a player's automation, the command writing it back, and the watcher's item-rule verdict importer. Each was silent about it rather than refusing. The browser is the only caller that guards the case, with a check it wrote for itself.",
   evidence:

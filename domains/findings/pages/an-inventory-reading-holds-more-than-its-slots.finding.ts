@@ -4,7 +4,7 @@ export const anInventoryReadingHoldsMoreThanItsSlots = {
   id: "01a06079-e46e-7439-8bc0-91365d3f28a6",
   pageTypeSlug: "finding",
   slug: "an-inventory-reading-holds-more-than-its-slots",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "The rows now beside each inventory reading carry what was in its bags and nothing else. A reassembled capture also states the account's currencies, every character's crafting ranks, the transmute crystal count and its cap, each location's name, scan time and bag sizes, the furnishings placed in each house, and on 62 of 151 captures a set of open cooldowns. None of that reached akasha with the rows.",
   evidence:

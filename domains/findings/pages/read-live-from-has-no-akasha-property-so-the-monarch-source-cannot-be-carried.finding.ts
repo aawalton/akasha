@@ -4,7 +4,7 @@ export const readLiveFromHasNoAkashaPropertySoTheMonarchSourceCannotBeCarried = 
   id: "01a0641a-d59b-7969-a13f-820e1245001a",
   pageTypeSlug: "finding",
   slug: "read-live-from-has-no-akasha-property-so-the-monarch-source-cannot-be-carried",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "The markdown `unreviewed` readout declares `read-live-from: monarch`. The akasha readout page type declares no such property, so the value cannot be carried by an edit at all: it wants a page type change first. It is the only declaration of how the categorization reading is sourced, and akasha's twin carries neither an equivalent nor a `querySlug`.",
   evidence:

@@ -4,7 +4,7 @@ export const threeImagesTheClusterPullsAreBuiltByNothingHere = {
   id: "01a08267-9e2d-7852-a917-a3800c09d5c8",
   pageTypeSlug: "finding",
   slug: "three-images-the-cluster-pulls-are-built-by-nothing-here",
-  domainSlug: "workspace-package/dockerfiles",
+  domain: "workspace-package/dockerfiles",
   claim:
     "Three container images the cluster pulls are built by nothing in the tree. `bun-git` is pulled by eight cluster services, `ci` by six, and `postgres-gfs-promoter` by four. Each is a built-image page, and the generator that would write its Dockerfile resolves its root one level above the checkout, so it cannot run. The nine container-recipe pages are the working half of the same idea: each holds a Dockerfile beside it and buildctl builds it, and every image they back is both pulled and reproducible. Four further built-image pages — buildkit, kubectl, auth-proxy and alanwalton-calendar-sync — are pulled by nothing.",
   evidence:

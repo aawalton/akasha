@@ -4,7 +4,7 @@ export const aRefusedApplyLeavesEditsThatMakeTheRedraftRefuseForTheWrongReason =
   id: "01a08353-7557-71c8-8ed0-da6d9e6d6853",
   pageTypeSlug: "finding",
   slug: "a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "An apply that refuses lands nothing and leaves its edits kept. Those edits shadow the tree, so drafting the same change again reads a world where the source paths have already been renamed away, and the second refusal says a file could not be read. Neither refusal names the kept edits as the cause and neither names `akasha change drop` as the remedy. An agent reading the second refusal at face value looks for a missing file in the tree, where the file is exactly where it should be.",
   evidence:

@@ -4,7 +4,7 @@ export const homeschoolLawLoadBearing = {
   id: "01a06555-9f3e-7489-b4da-a8889e7c6098",
   pageTypeSlug: "finding",
   slug: "homeschool-law-load-bearing",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Utah's homeschool law is the one government service in Alan's inventory graded B, and it carries more than the household's education strategy: it is the positive that lifts Utah's own conditional grade from D to C. Erosion of it — curriculum approval, testing requirements, parent-qualification rules — would re-open the whole Utah-residency layer of his constraint cascade rather than downgrade one entry. Nobody tracks the legislative sessions where such a change would appear.",
   evidence:

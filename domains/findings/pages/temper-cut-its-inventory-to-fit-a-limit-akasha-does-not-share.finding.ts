@@ -4,7 +4,7 @@ export const temperCutItsInventoryToFitALimitAkashaDoesNotShare = {
   id: "01a05fdf-9a2c-77b7-9fa8-7c0771adbc38",
   pageTypeSlug: "finding",
   slug: "temper-cut-its-inventory-to-fit-a-limit-akasha-does-not-share",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "The 458 inventory chunk pages are not 458 things. They are 157 inventory captures, each written as one JSON document and then divided on a 900,000-byte count that has nothing to do with what the document says. A chunk boundary falls mid-token, so a chunk alone parses as nothing. Once the bytes come back, one capture is one page.",
   evidence:

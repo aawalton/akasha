@@ -4,7 +4,7 @@ export const aMoveThatLosesItsRaceLeavesATreeThatBlocksTheRetry = {
   id: "01a06349-4215-781c-a5a3-c1b337e6383c",
   pageTypeSlug: "finding",
   slug: "a-move-that-loses-its-race-leaves-a-tree-that-blocks-the-retry",
-  domainSlug: "module/move-spreading",
+  domain: "module/move-spreading",
   claim:
     "A move that loses a ref-lock race puts every body back and says so truthfully, but leaves behind the folders it made at the destination. That tree holds no file and nothing git tracks, so nothing reports it. The retry is then refused, because the guard asks whether the destination path resolves and an empty folder answers yes. The command has blocked itself, and the refusal reads as a real occupant rather than as its own debris.",
   evidence:

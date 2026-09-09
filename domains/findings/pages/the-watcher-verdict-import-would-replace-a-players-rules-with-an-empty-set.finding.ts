@@ -4,7 +4,7 @@ export const theWatcherVerdictImportWouldReplaceAPlayersRulesWithAnEmptySet = {
   id: "01a07233-6e9d-7640-990d-aa54a760a6d5",
   pageTypeSlug: "finding",
   slug: "the-watcher-verdict-import-would-replace-a-players-rules-with-an-empty-set",
-  domainSlug: "domain/temper",
+  domain: "domain/temper",
   claim:
     "The watcher's item rule verdict import rebuilds a player's inventory settings from an empty set and writes that back, because the settings it means to amend read as unreadable rather than as absent. One unrelated guard is all that holds the write off, and that guard's own words ask for the change that would arm it.",
   evidence:

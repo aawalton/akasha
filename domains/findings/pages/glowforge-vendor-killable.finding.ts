@@ -4,7 +4,7 @@ export const glowforgeVendorKillable = {
   id: "01a06555-9f3e-729c-80f2-e83bc616820f",
   pageTypeSlug: "finding",
   slug: "glowforge-vendor-killable",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's GlowForge is both a self-reliance asset and a dependency on the vendor that sold it. It is the tool he fabricates repairs and replacements with, and it requires cloud connectivity to run, which means the vendor can disable it remotely. Nothing documents what breaks if that cloud disappears, and no local-operation path — third-party firmware, an open-source pivot, or offline-capable replacement hardware — has been identified in advance.",
   evidence:

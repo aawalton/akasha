@@ -4,7 +4,7 @@ export const aPrivateCastLandingInAkashaRefusesAgainstOneItCannotImport = {
   id: "01a05cc3-34bc-79e3-84aa-461717f2cdd3",
   pageTypeSlug: "finding",
   slug: "a-private-cast-landing-in-akasha-refuses-against-one-it-cannot-import",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "A file landing in akasha carries its private cast helpers in with it, and each one that matches a private helper already standing raises a `no-rule-in-two-files` refusal that no importer can answer, because the file it matches does not export the name and its package does not name that module.",
   evidence:

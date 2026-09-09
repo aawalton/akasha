@@ -4,7 +4,7 @@ export const aCastHelperLaundersADoubleCastPastTheRuleThatRefusesIt = {
   id: "01a0614d-16f2-7336-ab0c-f444bafa59a3",
   pageTypeSlug: "finding",
   slug: "a-cast-helper-launders-a-double-cast-past-the-rule-that-refuses-it",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`function asT(value: unknown): T { return value as T }` is a double cast wearing a function's clothes. `no-double-cast` refuses `x as unknown as T` written out, but a helper taking `unknown` and asserting `T` widens the same way at every call site and the rule never sees it. Fourteen addon library modules held such helpers, hiding nine widenings TypeScript refuses outright, two of them needless. The nine are mended, so the finding is about the shape rather than a backlog.",
   evidence:

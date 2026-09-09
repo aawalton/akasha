@@ -4,7 +4,7 @@ export const anAkashaTsxPackageSeesTwoCopiesOfTheReactTypes = {
   id: "01a05b91-37b0-7438-bdce-9f5aa9568a05",
   pageTypeSlug: "finding",
   slug: "an-akasha-tsx-package-sees-two-copies-of-the-react-types",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "An akasha package names no devDependencies, since manifest-names-what-is-reached refuses what it cannot see reached, so bun links no node_modules beside it. Its TSX then resolves @types/react at the root real directory while every shared package resolves the same version through its own symlink into .bun. TypeScript keys declarations by resolved path, so the two are unrelated, and an akasha file spreading ref-bearing props into a shared component is refused.",
   evidence:

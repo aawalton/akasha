@@ -4,7 +4,7 @@ export const infoDietPostureUnreviewed = {
   id: "01a06555-9f3e-77bc-8bb7-3b711ff6df75",
   pageTypeSlug: "finding",
   slug: "info-diet-posture-unreviewed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's information diet is sparse by design — no news, no podcasts, almost no information-side social media — and it is the highest-leverage move available in that domain, already in place. What it is not is a permanent commitment: it is an assessment of what he needs now, and no review revisits whether each eliminated category should stay eliminated when circumstances change, such as an election cycle, a professional pivot, or a health event in the household.",
   evidence:

@@ -4,7 +4,7 @@ export const aMockIsJudgedOnlyAgainstItsOwnPackage = {
   id: "01a05b9d-46fd-7000-9af5-74829e1604ae",
   pageTypeSlug: "finding",
   slug: "a-mock-is-judged-only-against-its-own-package",
-  domainSlug: "domain/test",
+  domain: "domain/test",
   claim:
     "The mock-module-leak check weighs a `mock.module` site only against consumers standing in the mocker's own package, so a test stubbing a package specifier that resolves into another package is judged against nothing and reads clean. That is how a stub of `writePage` came to stand in front of `pages-query`'s own test, green alone and red in the suite.",
   evidence:

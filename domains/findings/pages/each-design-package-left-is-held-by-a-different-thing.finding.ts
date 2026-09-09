@@ -4,7 +4,7 @@ export const eachDesignPackageLeftIsHeldByADifferentThing = {
   id: "01a05c26-3b16-74ea-a002-b5ac33f7ea23",
   pageTypeSlug: "finding",
   slug: "each-design-package-left-is-held-by-a-different-thing",
-  domainSlug: "domain/design",
+  domain: "domain/design",
   claim:
     "The three design packages left are each held by a different thing. design-system holds no `.ts` at all, so manifest-names-what-is-reached sees it reach nothing and would refuse all ten dependencies it names, landing as design-badges did: naming none. design-patterns is held by its barrel, whose exports re-export two sibling packages. design-primitives stands and is reached, but its move stalled: akasha's own design packages still reach the old name.",
   evidence:

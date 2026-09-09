@@ -4,7 +4,7 @@ export const theLastPollToFinishIsNotTheOneThatReadLatest = {
   id: "01a06816-69fa-7003-9357-4cdc4fc7183d",
   pageTypeSlug: "finding",
   slug: "the-last-poll-to-finish-is-not-the-one-that-read-latest",
-  domainSlug: "workspace-package/editor-extension",
+  domain: "workspace-package/editor-extension",
   claim:
     "Four of this extension's features poll on a timer while other triggers also start a read, and each read takes longer than the interval between triggers. Two reads in flight both write the same held state, so what stands is whatever finished last rather than whatever read latest \u2014 with no error anywhere, because nothing was wrong with either read. Each of the four now holds one read in flight and makes a trigger arriving mid-read wait for it.",
   evidence:

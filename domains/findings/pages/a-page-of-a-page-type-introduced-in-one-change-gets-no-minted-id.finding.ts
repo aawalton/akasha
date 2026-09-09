@@ -4,7 +4,7 @@ export const aPageOfAPageTypeIntroducedInOneChangeGetsNoMintedId = {
   id: "01a06271-8a44-7001-9e02-4b7c15d8a339",
   pageTypeSlug: "finding",
   slug: "a-page-of-a-page-type-introduced-in-one-change-gets-no-minted-id",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "A page whose page type lands in the same change carries an id written by hand or lands not at all, while a page of a page type already landed needs none. The entry rows beside those same first pages were each given an id as the change landed, so the two halves of minting disagree about a shape introduced alongside what leans on that shape.",
   evidence:

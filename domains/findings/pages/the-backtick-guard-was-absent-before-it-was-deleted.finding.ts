@@ -4,7 +4,7 @@ export const theBacktickGuardWasAbsentBeforeItWasDeleted = {
   id: "01a06140-90cd-7000-9bd0-42267931019f",
   pageTypeSlug: "finding",
   slug: "the-backtick-guard-was-absent-before-it-was-deleted",
-  domainSlug: "page-type/agent-hook",
+  domain: "page-type/agent-hook",
   claim:
     "Deleting the backtick guard did not create a gap; it revealed one. A complete five-state quoting model for Bash calls sat in `tools/hooks/` and `tools/lib/`, registered in neither live hook set since 2026-08-27, so backticks in Bash calls have been unguarded on this workstation for a week and nothing noticed. The file was the only thing suggesting otherwise. If the guard is wanted it belongs in `akasha/hook-system/agent-hook/`, where the live set is derived.",
   evidence:

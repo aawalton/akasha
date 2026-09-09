@@ -4,7 +4,7 @@ export const additionBiasRuledClosed = {
   id: "01a06555-9f3d-7936-b06e-acedbff86c7b",
   pageTypeSlug: "finding",
   slug: "addition-bias-ruled-closed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan was asked directly whether he wanted the writing economy's gradient changed, and declined, so the addition bias is settled rather than an open defect. The economy pays for bytes added and nothing for a correction: a new synthesis earns, un-hardening a wrong one does not. Nothing live records that he ruled on it, so an agent meeting the gradient reads it as a defect and proposes a correction bounty or a deletion credit — a proposal that reads as diligence each time it returns.",
   evidence:

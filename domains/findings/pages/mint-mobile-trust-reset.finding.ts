@@ -4,7 +4,7 @@ export const mintMobileTrustReset = {
   id: "01a06555-9f3e-748f-adc5-1eceb2baf3f3",
   pageTypeSlug: "finding",
   slug: "mint-mobile-trust-reset",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "T-Mobile's acquisition of Mint Mobile, closed in 2024, is a capture event under Alan's own framework, which resets the vendor's trust to zero regardless of how the service currently behaves. The household's cellular still runs on it, and no alternative has been evaluated against his trust criterion.",
   evidence:

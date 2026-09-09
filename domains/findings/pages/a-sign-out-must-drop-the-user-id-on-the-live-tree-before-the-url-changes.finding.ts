@@ -4,7 +4,7 @@ export const aSignOutMustDropTheUserIdOnTheLiveTreeBeforeTheUrlChanges = {
   id: "01a0822f-15b8-7147-922b-8d2f40f70892",
   pageTypeSlug: "finding",
   slug: "a-sign-out-must-drop-the-user-id-on-the-live-tree-before-the-url-changes",
-  domainSlug: "router-app/alan-web",
+  domain: "router-app/alan-web",
   claim:
     "A sign-out has to drop the reader's user id on the live component tree, and the url must not change until that render's effects have run, or the phone's keychain item is never cleared. `DeviceSecretSync` keys its effect on the user id, and the edge from an id to null is the only route to `clearAndRevoke`, which calls the native `DeviceSecret.clear()` — the one way a stale keychain item ever leaves the phone. Two ways of getting this wrong both leave the item on the phone forever. Returning from the sign-out branch without setting the id leaves the context holding the old id, so the effect never re-runs. Moving to `/sign-in` in the same commit unmounts `DeviceSecretSync`, because that route is outside the layout mounting the provider, so React runs the cleanup rather than the null-id effect. A whole-document reload is worse still: the remounted tree has no earlier id to compare against, so `signedOutFrom` is null and the clear is skipped on every sign-out.",
   evidence:

@@ -4,7 +4,7 @@ export const aDeployPlansFromTheMarkdownHalfOfASplitServicePage = {
   id: "01a05c17-8228-713b-a897-4e499bec198f",
   pageTypeSlug: "finding",
   slug: "a-deploy-plans-from-the-markdown-half-of-a-split-service-page",
-  domainSlug: "page-type/cluster-service",
+  domain: "page-type/cluster-service",
   claim:
     "`ops deploy` reads only the `.md` half of a cluster-service page, so for the six services carrying both spellings it plans from the older half and cannot see `image`, `replicas`, `containerPort` or `manifestCode`, which stand only in the `.ts`. This is not the kebab and camel fault in another hat: the markdown says `kind` where the TypeScript says `resourceKind`.",
   evidence:

@@ -4,7 +4,7 @@ export const aCalculationsHoldsAndItsReturnTypeAreOneRuleWrittenTwice = {
   id: "01a07694-85e5-7478-92fa-70efeedcd058",
   pageTypeSlug: "finding",
   slug: "a-calculations-holds-and-its-return-type-are-one-rule-written-twice",
-  domainSlug: "workspace-package/page",
+  domain: "workspace-package/page",
   claim:
     'A computed property states the kind it holds on its page and states it again in the type its calculation returns, and nothing compares the two. A property stating `holds: "number"` beside a code file exporting `Work<Page, string>` typechecks, passes every check, and lands. The disagreement is caught when a query asks that property and not before, so a landing that is wrong reads exactly like a landing that is right.',
   evidence:

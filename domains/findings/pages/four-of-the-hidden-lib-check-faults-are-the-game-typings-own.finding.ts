@@ -4,7 +4,7 @@ export const fourOfTheHiddenLibCheckFaultsAreTheGameTypingsOwn = {
   id: "01a063b0-9db6-7de6-869c-93827128f1fd",
   pageTypeSlug: "finding",
   slug: "four-of-the-hidden-lib-check-faults-are-the-game-typings-own",
-  domainSlug: "workspace-package/temper-eso-types",
+  domain: "workspace-package/temper-eso-types",
   claim:
     "Turning lib checking off draws faults from `temper-eso-types` itself, which a landed finding puts wholly in `temper-addon-library-types`. Of the seventeen missing names sixteen are the library package's; the seventeenth is `FcocsSkillLinesTreeNode` in the game typings. Three more are TS2717 on `Object.keys`, `values` and `entries`, which every add-on reads.",
   evidence:

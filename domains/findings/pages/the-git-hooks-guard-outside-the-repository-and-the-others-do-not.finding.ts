@@ -4,7 +4,7 @@ export const theGitHooksGuardOutsideTheRepositoryAndTheOthersDoNot = {
   id: "01a05f45-b27b-74eb-a431-0d00b7b9fb8a",
   pageTypeSlug: "finding",
   slug: "the-git-hooks-guard-outside-the-repository-and-the-others-do-not",
-  domainSlug: "workspace-package/hook-system",
+  domain: "workspace-package/hook-system",
   claim:
     "Four of the twelve agent hooks let a call through where its working directory sits outside the repository the hook's own file is in. `block-destructive-git` and `block-git-writes` do not. Both build their judge with `judgingCalls`, which is handed only the command, so the working directory never reaches the judge and a git act is refused wherever it runs. Nothing on either page says whether that is a decision or an oversight.",
   evidence:

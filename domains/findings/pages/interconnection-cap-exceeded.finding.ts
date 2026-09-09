@@ -4,7 +4,7 @@ export const interconnectionCapExceeded = {
   id: "01a06555-9f3e-74ad-83c0-152fd14a42ff",
   pageTypeSlug: "finding",
   slug: "interconnection-cap-exceeded",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The solar planning case does not fit the interconnection it is designed against. Provo City Code 12.03.080(5) puts standard residential net metering under 25 kW on inverter AC nameplate; the planning case is 40–41 kW AC on 49 kWp DC. `scope.md` sets the revised target at or below 25 kW AC, and every sizing file under it plans 49 kWp regardless. `customer-generation.md` names the two ways out — derate the AC side, or take the commercial licence at a worse export credit — and picks neither.",
   evidence:

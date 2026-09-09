@@ -4,7 +4,7 @@
   "type": "module",
   "exports": {
     "./domain": "./domain.page-type.ts",
-    "./domain-slug": "./properties/domain-slug.relation-property.ts",
+    "./page-domain": "./properties/page-domain.relation-property.ts",
     "./initiative": "./initiatives/properties/initiative.relation-property.ts",
     "./domain-reading": "./modules/reading/domain-reading.module.code.ts",
     "./term-census": "./standard-agent-english/term-census/term-census.module.code.ts",

@@ -4,7 +4,7 @@ export const aReadoutAblatedInTypescriptIsStillAnsweredFromItsMarkdownTwin = {
   id: "01a06274-d2eb-7919-b8e5-37e2a37d0ef2",
   pageTypeSlug: "finding",
   slug: "a-readout-ablated-in-typescript-is-still-answered-from-its-markdown-twin",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "Two engines answer readout groups and neither can see the other's pages. `answerStoplightsAdmittedBy` asks the akasha store, feeding the HTTP routes and the iOS widget. `readoutCatalog` reads `*.readout.md` out of the checkout, feeding the editor status bar and the daily-points denominator. The readout page type's markdown-only `files:` glob is what parts them. So an inbox ablation reached three on the wire while the status bar answered five, and no check compares the two.",
   evidence:

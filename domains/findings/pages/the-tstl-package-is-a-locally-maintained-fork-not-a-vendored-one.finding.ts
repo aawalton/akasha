@@ -4,7 +4,7 @@ export const theTstlPackageIsALocallyMaintainedForkNotAVendoredOne = {
   id: "01a06798-4d53-7004-b27c-434f9652728f",
   pageTypeSlug: "finding",
   slug: "the-tstl-package-is-a-locally-maintained-fork-not-a-vendored-one",
-  domainSlug: "workspace-package/lua-compiler",
+  domain: "workspace-package/lua-compiler",
   claim:
     "Supersedes `the-tstl-package-counted-against-temper-is-a-root-folder-reached-by-a-dead-symlink`, which is done: it calls the tstl package a vendored fork of typescript-to-lua. It is not — it is a locally maintained fork, 48 commits deep, carrying local structural rules and ESO game-specific code no upstream copy would carry, and it now lives at `akasha/language-design/lua-compiler` rather than at the root-folder path that old finding examined.",
   evidence:

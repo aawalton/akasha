@@ -4,7 +4,7 @@ export const aLandingWhoseCleanupFailsLeavesItsEditsKeptAndRefusesEveryLaterChan
   id: "01a0815d-b87e-77c1-aee6-fe4e8de1a70d",
   pageTypeSlug: "finding",
   slug: "a-landing-whose-cleanup-fails-leaves-its-edits-kept-and-refuses-every-later-change",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "A landing whose cleanup step fails leaves the edits it already committed kept beside the agent's page. Every later change by that agent replays those edits first, and a replay against a tree they already landed on refuses with `<path> holds no such passage`. The refusal names the stale path rather than the path the change was handed, so it reads as a fault in the change just written. Nothing is appended and nothing lands until the stale edits are taken away by hand.",
   evidence:

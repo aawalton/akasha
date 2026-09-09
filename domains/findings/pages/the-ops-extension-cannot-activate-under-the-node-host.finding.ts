@@ -4,7 +4,7 @@ export const theOpsExtensionCannotActivateUnderTheNodeHost = {
   id: "01a06882-b069-7994-8961-ec642313ae4e",
   pageTypeSlug: "finding",
   slug: "the-ops-extension-cannot-activate-under-the-node-host",
-  domainSlug: "workspace-package/ops-extension",
+  domain: "workspace-package/ops-extension",
   claim:
     "The ops extension the editor host loads cannot activate. Its entry reaches unguarded `Bun.spawn` and `Bun.spawnSync` through `akasha/command-system/commit-reading` and `akasha/utils-run/running`, and the host is node rather than bun. Its manifest `main` is TypeScript needing a bundle, and the `ops editor-extension bundle` step that wrote one runs through a wrapper no checkout holds, so `code-editor/tools/promote.sh` refuses at its bundling step before it ships anything.",
   evidence:

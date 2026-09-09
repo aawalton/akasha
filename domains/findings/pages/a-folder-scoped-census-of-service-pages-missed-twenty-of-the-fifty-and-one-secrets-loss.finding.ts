@@ -4,7 +4,7 @@ export const aFolderScopedCensusOfServicePagesMissedTwentyOfTheFiftyAndOneSecret
   id: "01a069c7-4fb5-7a67-9705-ab8cace62fa4",
   pageTypeSlug: "finding",
   slug: "a-folder-scoped-census-of-service-pages-missed-twenty-of-the-fifty-and-one-secrets-loss",
-  domainSlug: "workspace-package/service",
+  domain: "workspace-package/service",
   claim:
     "Workstation-service pages sit in twenty-one folders, not one. A census reading only `service-system/workstation-services/pages` sees 30 of 50 and its every count is short. Correcting two findings landed tonight: the units losing their secrets sourcing on a regeneration are fourteen rather than thirteen, the missed one being `temper-watcher`, whose page is under `akasha/temper`; and the systemd options a page states that no unit is written from are nine rather than six, `temper-watcher` stating three of the five I had called stated by nobody. Two of those three are worse than dropped: the generator writes `SuccessExitStatus=143` and `RestartForceExitStatus=79` as constants, so temper-watcher's stated 75 is overruled. Every one of the 81 installed files maps to a page, so no unit is unreachable.",
   evidence:

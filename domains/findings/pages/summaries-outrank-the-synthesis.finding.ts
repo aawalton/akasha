@@ -4,7 +4,7 @@ export const summariesOutrankTheSynthesis = {
   id: "01a06555-9f3e-7da1-be97-09d044b605b1",
   pageTypeSlug: "finding",
   slug: "summaries-outrank-the-synthesis",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The second-passport corpus has two layers that disagree on which paths are live, and the layer pointed to as the full surface is the out-of-date one. The four summaries carry Cyprus as the second-fastest EU route at ~4.7 years and France's two-year decree as the fastest in the dataset; `passive-income.md` has removed Cyprus and `active-income.md` the French study track, for reasons the summaries do not carry. Cyprus turns on a check nobody ran that the file expects to fail.",
   evidence:

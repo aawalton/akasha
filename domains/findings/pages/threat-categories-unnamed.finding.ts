@@ -4,7 +4,7 @@ export const threatCategoriesUnnamed = {
   id: "01a06555-9f3f-706e-8ccb-40112d3f89f9",
   pageTypeSlug: "finding",
   slug: "threat-categories-unnamed",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Enshittification is the only threat Alan's dependency framework treats explicitly, and five siblings go unnamed: sudden denial of service through account closure, discontinuation or an identity-based ban; surveillance and data extraction; capture, where a trustworthy organisation turns untrustworthy through acquisition or a change of leadership; lock-in, where switching cost is grown deliberately; and cascading dependency, where depending on one thing creates another.",
   evidence:

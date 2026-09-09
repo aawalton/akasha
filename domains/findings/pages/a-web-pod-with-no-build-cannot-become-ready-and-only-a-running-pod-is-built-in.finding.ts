@@ -4,7 +4,7 @@ export const aWebPodWithNoBuildCannotBecomeReadyAndOnlyARunningPodIsBuiltIn = {
   id: "01a08220-887b-7fbc-adc7-740f4ab217f8",
   pageTypeSlug: "finding",
   slug: "a-web-pod-with-no-build-cannot-become-ready-and-only-a-running-pod-is-built-in",
-  domainSlug: "router-app/alan-web",
+  domain: "router-app/alan-web",
   claim:
     "A web pod's server loads `build/server/index.js` on its first line, so a pod with no build beside that server never becomes ready. A deploy makes its build inside a pod that is already running, so a pod that cannot become ready is a pod no deploy can build for: nothing builds until something is up, and nothing comes up until something has built. `alan/web` alone breaks that deadlock, with an init container that builds at pod start where no build is there and exits at once where one is, so a fresh commit's build is served rather than made a second time. The other four web apps emit no such container and the deadlock is open for them.",
   evidence:

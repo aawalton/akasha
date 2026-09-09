@@ -4,7 +4,7 @@ export const sixToTwentysevenUnreconciled = {
   id: "01a06555-9f3e-7635-b835-07356ac27f88",
   pageTypeSlug: "finding",
   slug: "six-to-twentyseven-unreconciled",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's persona system expanded from six values to a wider set of domains and the corpus has not caught up. The main note still describes the six-value shape and the persona guidance still frames souls around the value axis, so the mapping needs restating domain-keyed. Two structural questions ride on it — whether a single shared conceptual slot and a milestone alternation still hold at the larger size — and which past captures assumed six values has never been audited.",
   evidence:

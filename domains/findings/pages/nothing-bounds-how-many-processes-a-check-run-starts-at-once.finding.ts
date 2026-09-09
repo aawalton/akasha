@@ -4,7 +4,7 @@ export const nothingBoundsHowManyProcessesACheckRunStartsAtOnce = {
   id: "01a08385-97f3-72e2-881a-233c6abdd82c",
   pageTypeSlug: "finding",
   slug: "nothing-bounds-how-many-processes-a-check-run-starts-at-once",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "Nothing in the repository bounds how many processes a check or test run may have alive at once, so a wide run can exhaust the machine. `rg -ln availableParallelism` answers nothing, and no worker count, lane count or in-flight limit exists anywhere in the check or test path. The ceilings that do exist are cost-shaped rather than count-shaped: the `CEILING_MS` bands in run-cost.module.code.ts bound elapsed milliseconds, `cpuCeiling` bounds processor seconds, and `BATCH` in code-tests.module.code.ts bounds test files per `bun test` invocation rather than processes alive. The only count-shaped ceiling in the tree is `TasksMax=2000` on the systemd scope of a seat, which bounds a seat rather than a run.",
   evidence:

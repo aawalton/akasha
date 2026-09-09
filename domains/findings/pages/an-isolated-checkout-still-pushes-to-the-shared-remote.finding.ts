@@ -4,7 +4,7 @@ export const anIsolatedCheckoutStillPushesToTheSharedRemote = {
   id: "01a060be-c946-7003-b783-d6cf1127590b",
   pageTypeSlug: "finding",
   slug: "an-isolated-checkout-still-pushes-to-the-shared-remote",
-  domainSlug: "page-type/change",
+  domain: "page-type/change",
   claim:
     "A checkout copied with `cp -a` inherits `origin`, and three commands carry the branch to whatever remote that copy names without asking whether the root is the resolved akasha checkout: `push`, and the two deploys, which push for themselves before they build. The automatic half is gone: no landing hands a push off any more and `handOffPush` has no caller left, so a copy no longer pushes unasked. What remains is that asking works — a push from a copy reaches the shared remote exactly as it would from the real checkout, and a test commit lands on the shared branch. Isolating the working tree still does not isolate the remote, and nothing in the copy says so.",
   evidence:

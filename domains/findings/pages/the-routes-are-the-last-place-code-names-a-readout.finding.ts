@@ -4,7 +4,7 @@ export const theRoutesAreTheLastPlaceCodeNamesAReadout = {
   id: "01a05e65-7b6e-78b7-b83b-35131469d19e",
   pageTypeSlug: "finding",
   slug: "the-routes-are-the-last-place-code-names-a-readout",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "Every module under readout-system is now generic: none names a readout, a scale or a group. The two categorization routes each name the one readout they serve, and that literal cannot go until a route is itself a page, because tying a URL to data needs one name written somewhere and there is nowhere else to write it.",
   evidence:

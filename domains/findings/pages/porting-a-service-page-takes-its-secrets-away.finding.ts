@@ -4,7 +4,7 @@ export const portingAServicePageTakesItsSecretsAway = {
   id: "01a05a59-38f3-7101-a67a-9df4f6ec9c9e",
   pageTypeSlug: "finding",
   slug: "porting-a-service-page-takes-its-secrets-away",
-  domainSlug: "page-type/workstation-service",
+  domain: "page-type/workstation-service",
   claim:
     "Twenty-eight of the thirty-four workstation services standing today are handed every secret in the home secrets file by saying nothing about secrets, because the old reader defaults that field to true. The akasha property defaults the other way, so a service stating nothing is handed none. Copying one of those pages across unchanged therefore takes its secrets away, and neither the old page nor the new one says a word about it.",
   evidence:

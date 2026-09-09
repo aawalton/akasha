@@ -4,7 +4,7 @@ export const aRightNumberPresentedAsCurrentIsStillTheDefect = {
   id: "01a068c4-ede7-79fd-88c0-60d908e08694",
   pageTypeSlug: "finding",
   slug: "a-right-number-presented-as-current-is-still-the-defect",
-  domainSlug: "domain/inbox",
+  domain: "domain/inbox",
   claim:
     "`inbox-reading-service` reported success on every run for 2h41m while the mail reading was dead, and the number it left standing was correct the whole time. The coincidence is not mitigation. What Alan was shown was not a count of his inbox but the last count anyone took, and nothing downstream could tell the two apart. A reading nothing could be taken for must not leave the number before it standing as though it were current, whatever that number happens to be.",
   evidence:

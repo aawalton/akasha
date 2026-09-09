@@ -4,7 +4,7 @@ export const fourOfAlansDaysCarryNutritionPointsAFixtureWrote = {
   id: "01a068d1-d568-7000-923f-fbdf0be899c2",
   pageTypeSlug: "finding",
   slug: "four-of-alans-days-carry-nutrition-points-a-fixture-wrote",
-  domainSlug: "domain/plants",
+  domain: "domain/plants",
   claim:
     "Four wake-day pages state nutrition points no food Alan ate accounts for. 2026-08-24 states 2400, 2026-08-26 1920, 2026-08-27 5240 and 2026-08-29 280, and each is exactly forty grams times the number of `fixture-broccoli` food entries another lane seeded on that day. The seeds went through the nutrition roll-up onto Alan's own day and were never taken back off. The migration was right to leave the fixtures behind, so a reader that counts the food entries standing today reads zero on all four, and it is the recorded figure that is wrong rather than the reader.",
   evidence:

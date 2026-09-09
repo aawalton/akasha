@@ -4,7 +4,7 @@ export const bookDependenciesHaveAlternatives = {
   id: "01a06555-9f3d-7fc6-ad96-66405e67d11b",
   pageTypeSlug: "finding",
   slug: "book-dependencies-have-alternatives",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's reading and listening run through Amazon Kindle and Audible, both D-tier, and two replacements sit identified and unused. Provo Library with Libby and Hoopla is free, aligned with his own preference for government-as-utility, and needs only a library card and two apps set up. Libro.fm is the paid alternative, aligned with independent booksellers rather than Amazon, and has not been trialled. Neither path has begun taking any of the volume.",
   evidence:

@@ -4,7 +4,7 @@ export const aCodeTokenRenameRefusesAConstantItsOwnPageSaysItRenames = {
   id: "01a08325-f8e0-7000-8fa7-9eb4dd84f78b",
   pageTypeSlug: "finding",
   slug: "a-code-token-rename-refuses-a-constant-its-own-page-says-it-renames",
-  domainSlug: "change-agent/rename-code-token",
+  domain: "change-agent/rename-code-token",
   claim:
     "`rename-code-token` states it renames a name a code file declares whether that name is exported or not, and it refuses every name a file declares that is not exported.",
   evidence:

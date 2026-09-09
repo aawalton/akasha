@@ -4,7 +4,7 @@ export const aCspNonceRestsOnRandomIdStayingUnpredictableAndNothingSaysSo = {
   id: "01a05c77-45e6-711b-ac95-370cb69c228f",
   pageTypeSlug: "finding",
   slug: "a-csp-nonce-rests-on-random-id-staying-unpredictable-and-nothing-says-so",
-  domainSlug: "workspace-package/id-minting",
+  domain: "workspace-package/id-minting",
   claim:
     "Six sites mint their CSP nonce from `randomId`, whose value must be unpredictable per response, and nothing in `id-minting` says so. Its page says only that it makes a fresh identifier. Most of the tree mints identifiers with `Bun.randomUUIDv7()`, which is time-ordered by design and carries 74 random bits rather than 122. Unifying `randomId` onto v7 would look like tidying, would pass every check and test here, and would silently weaken six live nonces.",
   evidence:

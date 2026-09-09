@@ -4,7 +4,7 @@ export const aMoveCarriesNothingIntoAkasha = {
   id: "01a05b5a-708e-793f-b0ca-09e8413431bb",
   pageTypeSlug: "finding",
   slug: "a-move-carries-nothing-into-akasha",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`akasha move` refuses any path that is not under `akasha/`, so it cannot carry a file into the folder. The migration's central act, a package standing outside akasha coming to stand inside it, has no command. It is done by writing every file anew through `akasha write` and deleting the originals with plain git, which is two commits where the command promises one, and leaves the old copy and the new copy both standing in between.",
   evidence:

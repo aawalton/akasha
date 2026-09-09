@@ -4,7 +4,7 @@ export const aPageKindCarryingNoFileOfItsOwnStillHoldsRows = {
   id: "01a0636b-ea30-7adc-871e-3b747b1486d5",
   pageTypeSlug: "finding",
   slug: "a-page-kind-carrying-no-file-of-its-own-still-holds-rows",
-  domainSlug: "domain/story-engine",
+  domain: "domain/story-engine",
   claim:
     "A page kind declaring `files: none` still holds data. Its rows are entries in a JSONL sidecar beside a parent page, addressed `<file>#<row>`, so counting folders under `pages/` or filenames spelling the slug answers 0 for a kind holding hundreds. Seven `game` kinds answer 0 that way and 5, 13, 38, 74, 30, 4 and 139 when the store is asked. `the-tower` carries 1 climb, 5 floors, 5 characters and 33 turns, all tracked since 27 August.",
   evidence:

@@ -4,7 +4,7 @@ export const fiveAlertRunbooksNameANamespaceTheClusterNoLongerHolds = {
   id: "01a08232-bdd6-72d3-b63d-1e678cca611a",
   pageTypeSlug: "finding",
   slug: "five-alert-runbooks-name-a-namespace-the-cluster-no-longer-holds",
-  domainSlug: "page-type/alert",
+  domain: "page-type/alert",
   claim:
     "Five alert runbooks hand a reader `kubectl -n ci`, and the `ci` namespace went with the pipeline engine. Four of them name a `git-mirror-probe` job and one a `domain-expiry-probe` CronJob, and this repository declares neither. The conditions the alerts name still matter, so the alerts are worth keeping, but the checks their runbooks hand a reader cannot be run and the gauges they speak of have no producer left. What each runbook should tell a reader instead is a choice nobody has made.",
   evidence:

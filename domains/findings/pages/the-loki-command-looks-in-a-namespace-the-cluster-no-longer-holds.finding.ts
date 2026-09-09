@@ -4,7 +4,7 @@ export const theLokiCommandLooksInANamespaceTheClusterNoLongerHolds = {
   id: "01a08232-eeec-7e57-b85e-1d07246e4a8b",
   pageTypeSlug: "finding",
   slug: "the-loki-command-looks-in-a-namespace-the-cluster-no-longer-holds",
-  domainSlug: "command/infrastructure-loki",
+  domain: "command/infrastructure-loki",
   claim:
     "`akasha loki logs <pod>` looks in namespace `ci` where the caller names none, and the `ci` namespace went with the pipeline engine. A call naming no namespace therefore answers no line, however many the pod wrote. What the default should become is a choice: refuse a call naming no namespace, or look across every namespace the pod has streams in.",
   evidence:

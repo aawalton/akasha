@@ -4,7 +4,7 @@ export const notNeedingDirectionUnphased = {
   id: "01a06555-9f3e-7d90-a394-3ca48174b5d4",
   pageTypeSlug: "finding",
   slug: "not-needing-direction-unphased",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The not-needing direction in Alan's framework — replacing a vendor with a capability or asset of his own — runs without its phases named. Building a capability is not the same as operating it or having it be load-bearing, and the garden with eight fruit trees shows the gap: the capability is built and harvesting is a separate capability again. The financial instance is unnamed too: self-insuring long-term care, medication independence, local models and rooftop solar share one shape.",
   evidence:

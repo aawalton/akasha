@@ -4,7 +4,7 @@ export const aRelayReportsSuccessCarryingAReadingNothingRefreshed = {
   id: "01a05e50-ef81-7702-a7a1-1eb6d61f4033",
   pageTypeSlug: "finding",
   slug: "a-relay-reports-success-carrying-a-reading-nothing-refreshed",
-  domainSlug: "workspace-package/readout",
+  domain: "workspace-package/readout",
   claim:
     "`monarch-relay-service` exits 0 and logs a reading carried to both sites whether or not anything took a fresh one. For eighty minutes it carried the same frozen reading every five minutes and reported success each time, while the service that takes the reading failed every run. The half that was working reported loudly and the half that was broken reported into a unit nobody watches.",
   evidence:

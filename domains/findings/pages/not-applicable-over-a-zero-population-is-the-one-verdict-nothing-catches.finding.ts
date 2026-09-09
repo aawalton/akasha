@@ -4,7 +4,7 @@ export const notApplicableOverAZeroPopulationIsTheOneVerdictNothingCatches = {
   id: "01a05cf8-fcf2-7002-aef7-c2dadb56ef54",
   pageTypeSlug: "finding",
   slug: "not-applicable-over-a-zero-population-is-the-one-verdict-nothing-catches",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "There is a status in the check harness that reports no verdict and costs nothing: `not-applicable`. `certified()` rewrites a green result measuring zero into a failure but exempts every other status, and the exit code counts only failures. So a check answering `skip()` while declaring a population of zero is silently neither green nor red. Fifteen of the thirty-one checks hold such an escape, most on the path taken when what they read is not there.",
   evidence:

@@ -4,7 +4,7 @@ export const inferenceLoadHasNoArchitecture = {
   id: "01a06555-9f3e-70df-9343-8b1dd47a3388",
   pageTypeSlug: "finding",
   slug: "inference-load-has-no-architecture",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The load the solar project was told to design around is the one nobody has sized. `scope.md` records that the twelve PCs will eventually host significant inference work and requires the system to absorb that step without reworking PV, interconnection or panel. How much of the cluster goes to sustained compute is unanswered, and the range spans the project: one machine adds ~3,900 kWh a year, four ~15,600, twelve ~47,000. The all-twelve case exceeds every PV size considered here.",
   evidence:

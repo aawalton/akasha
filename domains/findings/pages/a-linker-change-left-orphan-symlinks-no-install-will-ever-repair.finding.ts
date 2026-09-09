@@ -4,7 +4,7 @@ export const aLinkerChangeLeftOrphanSymlinksNoInstallWillEverRepair = {
   id: "01a05cc3-f730-76f9-85a0-f8929ccf6329",
   pageTypeSlug: "finding",
   slug: "a-linker-change-left-orphan-symlinks-no-install-will-ever-repair",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "Switching the workspace to the hoisted linker orphaned every per-package `node_modules/<dep>` symlink an earlier isolated install had written. A hoisted install does not manage those entries, so `bun install` reports no changes and leaves them dangling forever, while each one shadows the resolution that would otherwise succeed. 190 packages could not resolve `typescript` at all. 260 such orphans still stand.",
   evidence:

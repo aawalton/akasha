@@ -4,7 +4,7 @@ export const akashaSaysADaysSpanTwiceAndTheTwoDoNotAgree = {
   id: "01a06433-8ace-70cd-84a6-569f23e88da4",
   pageTypeSlug: "finding",
   slug: "akasha-says-a-days-span-twice-and-the-two-do-not-agree",
-  domainSlug: "workspace-package/health-samples-day",
+  domain: "workspace-package/health-samples-day",
   claim:
     "akasha says a day's span twice and the two do not agree. `WakeWindow` counts milliseconds since the epoch; `DayWindow` in `health-samples-day` counts ISO text, so swapping one for the other is a false declaration rather than a rename. The millisecond shape was copied into `status-bar-access` to free it from the markdown tree. Reconciling the two onto one is unclaimed.",
   evidence:

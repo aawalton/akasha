@@ -13,15 +13,15 @@ test("a property is filed under its page type and slug, and a target it does not
 test("a target naming its page type is filed as the slug alone", () => {
   const value = {
     pageTypeSlug: "relation-property",
-    slug: "domain-slug",
-    propertySlug: "domain-slug",
+    slug: "page-domain",
+    propertySlug: "domain",
     targetPageTypeSlug: "page-type/domain",
   }
 
   expect(schemaIn(value)).toEqual([
     {
-      at: "schema/page-property/relation-property/slug/domain-slug.jsonl",
-      line: SCHEMA.domainSlug,
+      at: "schema/page-property/relation-property/slug/page-domain.jsonl",
+      line: SCHEMA.pageDomain,
     },
   ])
 })

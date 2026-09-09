@@ -4,7 +4,7 @@ export const aRenameLeavesAPartFileNamedForTheOldPage = {
   id: "01a082a1-fb72-7bbe-99be-24cced56eb25",
   pageTypeSlug: "finding",
   slug: "a-rename-leaves-a-part-file-named-for-the-old-page",
-  domainSlug: "domain/change-mechanical-file-rename",
+  domain: "domain/change-mechanical-file-rename",
   claim:
     "A rename carries a property's numbered part files under the old page's name, so each names a page that is gone.",
   evidence:

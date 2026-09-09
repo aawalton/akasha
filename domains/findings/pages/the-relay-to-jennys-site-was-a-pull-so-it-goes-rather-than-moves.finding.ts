@@ -4,7 +4,7 @@ export const theRelayToJennysSiteWasAPullSoItGoesRatherThanMoves = {
   id: "01a05b94-72d3-7b66-adc0-866f685521a5",
   pageTypeSlug: "finding",
   slug: "the-relay-to-jennys-site-was-a-pull-so-it-goes-rather-than-moves",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "What carried Alan's reading to Jenny's site was not a relay but a pull, and once the workstation took the reading the pull had nothing left to do. It goes rather than moving into akasha. The call taken in Alan's absence: the relay already in akasha carries to both origins, since it takes its destination where it is run.",
   evidence:

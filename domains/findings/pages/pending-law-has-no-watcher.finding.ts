@@ -4,7 +4,7 @@ export const pendingLawHasNoWatcher = {
   id: "01a06555-9f3e-7d75-8ad2-221d20c7629f",
   pageTypeSlug: "finding",
   slug: "pending-law-has-no-watcher",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The second-passport research is a May 2026 snapshot resting on roughly three dozen outcomes still pending in foreign legislatures and courts, and it names no one to watch them. Files instruct the reader to watch particular bills and cycles without naming a watcher, a date, or a place an answer would land. Several dates have passed: Sweden's eight-year rule took effect 6 June 2026 and Denmark's declaration windows closed 1 July 2026. Nothing re-reads any of it.",
   evidence:

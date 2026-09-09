@@ -4,7 +4,7 @@ export const aComponentIsReadFromItsBodyRatherThanFromItsCallers = {
   id: "01a0618d-cd66-7000-ae6b-b1311248b068",
   pageTypeSlug: "finding",
   slug: "a-component-is-read-from-its-body-rather-than-from-its-callers",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`identifier-matches-its-place` reads a component off a function body holding JSX rather than off a caller opening an element with the name. A component holding no JSX, every element for it in another file, is refused under the very name its callers require. `1185e1a2ca` closed the three shapes one file can see. This fourth none can see alone, since the check judges one path at a time. Two findings against instances of it were removed 2026-09-02 as resolved; the instances were, the gap was not.",
   evidence:

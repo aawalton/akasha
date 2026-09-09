@@ -4,7 +4,7 @@ export const oneAsJsonNowStandsBehindASoundCastAndAnUncheckedOne = {
   id: "01a05ccc-36f0-7adc-a935-fb95531828b9",
   pageTypeSlug: "finding",
   slug: "one-as-json-now-stands-behind-a-sound-cast-and-an-unchecked-one",
-  domainSlug: "workspace-package/pages-core",
+  domain: "workspace-package/pages-core",
   claim:
     "The one `asJson` in pages-core now answers three call sites that rest on different warrants. jsonb-ops casts a `JsonObject` it built itself and the cast is sound. collection-lookup casts a value the store read out of a jsonb column and it is sound too. build-patch-plan casts whatever a caller put in `set`, and nothing has checked it. Hardening the body to read its argument is therefore no longer a decision pages-core can take alone.",
   evidence:

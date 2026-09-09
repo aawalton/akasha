@@ -4,7 +4,7 @@ export const noRuleInTwoFilesRefusesTheRemedyItNames = {
   id: "01a060f3-ad30-7805-a80b-2ef41bc2dcd0",
   pageTypeSlug: "finding",
   slug: "no-rule-in-two-files-refuses-the-remedy-it-names",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`no-rule-in-two-files` says one rule belongs in one file, reached by importing it, and yet a file doing exactly that is refused all the same. A rule's fingerprint leaves out the function's own name and keeps an imported name as its text, so twenty files each holding `return shared()` are twenty copies of one rule. Clearing it wants each caller to hand in something of its own.",
   evidence:

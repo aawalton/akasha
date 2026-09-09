@@ -4,7 +4,7 @@ export const aCompletionNamingNoTaskLosesWhatOnlyATaskHolds = {
   id: "01a06097-5064-7bac-b79e-765b32668b51",
   pageTypeSlug: "finding",
   slug: "a-completion-naming-no-task-loses-what-only-a-task-holds",
-  domainSlug: "domain/temper-progress",
+  domain: "domain/temper-progress",
   claim:
     "`temper-completed-day` reads a completion's title, scope, priority and recurrence from the task the completion names. A completion naming no task has no task to read them from, so those fields have no home. Of the 1,425 completions temper kept, 253 name no task: 253 lose `scope`, 218 lose `rrule-rule` and `rrule-anchor-from-completion`, 106 lose `priority`, 55 lose `link`, 26 lose `icon` and 19 lose `description`.",
   evidence:

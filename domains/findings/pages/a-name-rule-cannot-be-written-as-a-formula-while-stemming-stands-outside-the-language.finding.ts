@@ -4,7 +4,7 @@ export const aNameRuleCannotBeWrittenAsAFormulaWhileStemmingStandsOutsideTheLang
   id: "01a06860-a0ef-7f25-93d7-e6e5da8a4cd7",
   pageTypeSlug: "finding",
   slug: "a-name-rule-cannot-be-written-as-a-formula-while-stemming-stands-outside-the-language",
-  domainSlug: "domain/naming",
+  domain: "domain/naming",
   claim:
     "A name rule cannot be restated as a formula. Every rule is put through the page stem, which the formula language has no function for, so a formula answers the raw joined text where the rule answers a stem. Four rules also write a number into a text literal, which the language refuses, because both sides of `??` must be of one type.",
   evidence:

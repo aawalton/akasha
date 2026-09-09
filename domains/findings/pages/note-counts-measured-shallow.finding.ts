@@ -4,7 +4,7 @@ export const noteCountsMeasuredShallow = {
   id: "01a06555-9f3e-7ec9-a695-3105490d40cf",
   pageTypeSlug: "finding",
   slug: "note-counts-measured-shallow",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The third-person gap under `alan/books/all-about-alan/notes/` is wider than the filed figures say, and nothing shows it growing. Counted recursively there are 256 markdown files under `notes/`, 214 naming Alan in the third person. Two findings in this domain carry 217 and 186, which are the non-recursive counts of the same trees. A reviewer read the 217-to-256 difference as the corpus growing during its review; it is the two methods.",
   evidence:

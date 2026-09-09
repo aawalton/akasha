@@ -4,7 +4,7 @@ export const theWideBadgeVariantUnionIsReadByOneFileAndItsEightMemberSubsetByTen
   id: "01a07323-840b-7b3f-90da-9a056795a68d",
   pageTypeSlug: "finding",
   slug: "the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten",
-  domainSlug: "domain/utils-narrow",
+  domain: "domain/utils-narrow",
   claim:
     "Two exported unions are named `BadgeVariant`, and the eight members of the one in `pages/core/schema/color-rule-variant` are a strict subset of the eighteen in `utils-narrow/badge-variant`. The wide one is read by one file, which draws six of its eighteen; the narrow one is read by ten, all under `pages/`. No file imports both. The eighteen are exactly the eighteen keys of `VARIANT_MAP` in `design/badges/badge`, the table that paints a badge, so the wide union restates the drawing vocabulary and the narrow one holds under half of it. Committed source holds nine declarations spelled `BadgeVariant` rather than two. The module slug `badge-variant` is already held by `utils-narrow`, and a slug is unique among the pages of its page type, so renaming the `color-rule-variant` module to `badge-variant` is refused.",
   evidence:

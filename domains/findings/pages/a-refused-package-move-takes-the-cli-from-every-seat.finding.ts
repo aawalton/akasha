@@ -4,7 +4,7 @@ export const aRefusedPackageMoveTakesTheCliFromEverySeat = {
   id: "01a0735b-f44b-7046-bd29-811b663c568a",
   pageTypeSlug: "finding",
   slug: "a-refused-package-move-takes-the-cli-from-every-seat",
-  domainSlug: "domain/akasha",
+  domain: "domain/akasha",
   claim:
     "A move of a package folder relinks that package under `node_modules` before the checks judge the move, so a move that is then refused leaves the link naming a folder that never came to exist, and every `akasha` call in the checkout fails until the link is put back.",
   evidence:

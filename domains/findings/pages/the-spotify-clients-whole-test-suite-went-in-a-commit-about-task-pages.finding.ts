@@ -4,7 +4,7 @@ export const theSpotifyClientsWholeTestSuiteWentInACommitAboutTaskPages = {
   id: "01a06275-4a8f-7001-8ac3-4c7a4dd150bd",
   pageTypeSlug: "finding",
   slug: "the-spotify-clients-whole-test-suite-went-in-a-commit-about-task-pages",
-  domainSlug: "domain/music",
+  domain: "domain/music",
   claim:
     "`collections/music-spotify/src` carried no test before this migration. Its 21 test files and 2,899 lines went in commit `09f964f5c5` on 30 August 2026, whose subject is `Ablate the task pages and every page's conditional reading of them`. The build output still holds all 21 as `.unit.test.d.ts` declarations.",
   evidence:

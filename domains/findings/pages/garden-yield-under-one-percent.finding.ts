@@ -4,7 +4,7 @@ export const gardenYieldUnderOnePercent = {
   id: "01a06555-9f3e-7b37-8f13-dcbb84abea79",
   pageTypeSlug: "finding",
   slug: "garden-yield-under-one-percent",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The infrastructure for food self-reliance is already built at Alan's house — eight raised beds of four feet by eight, and eight fruit trees, six of them mature — and it supplies less than one percent of what the household eats. The bottleneck is not capital: it is the harvest-and-preserve workflow, the planting decisions, and an operational rhythm that does not exist. Jenny already has the food-preservation capability the ramp would run through.",
   evidence:

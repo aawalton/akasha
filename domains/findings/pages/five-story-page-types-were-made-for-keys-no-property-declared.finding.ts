@@ -4,7 +4,7 @@ export const fiveStoryPageTypesWereMadeForKeysNoPropertyDeclared = {
   id: "01a06584-deb2-7072-8909-802201a4fcc0",
   pageTypeSlug: "finding",
   slug: "five-story-page-types-were-made-for-keys-no-property-declared",
-  domainSlug: "domain/story-engine",
+  domain: "domain/story-engine",
   claim:
     "Five story page types and thirty-three page properties were made under constraint 21 so the ninety design and wiki documents held under dirty/ had somewhere to land, and Alan has reviewed none of them.",
   evidence:

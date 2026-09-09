@@ -4,7 +4,7 @@ export const voiceRuleStateUnwritten = {
   id: "01a06555-9f3f-7015-add0-9a005a7c155d",
   pageTypeSlug: "finding",
   slug: "voice-rule-state-unwritten",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "The Voice rule on `domains/all-about-alan.md` describes a state its corpus is not in, and no Intent entry says so. 186 of the 217 files under `notes/` name Alan in the third person. Read as a rule over new writes the document is coherent as it stands. Read as a rule over the corpus, `domains/domain-intent.md` describes precisely the entry that is absent — a state the domain should be in, not yet true, leaving once it is.",
   evidence:

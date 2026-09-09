@@ -4,7 +4,7 @@ export const aScratchWorldLandingLeavesNoIdWhileEveryLiveSubagentPageCarriesOne 
   id: "01a08225-fa5f-7802-b93f-82b97af23dcb",
   pageTypeSlug: "finding",
   slug: "a-scratch-world-landing-leaves-no-id-while-every-live-subagent-page-carries-one",
-  domainSlug: "workspace-package/seat-system",
+  domain: "workspace-package/seat-system",
   claim:
     "The tests beside `subagent-presence` do not prove that landing a composed page mints the id that page keeps, and two of them assert the opposite. Both build a scratch world, land a freshly composed subagent page through `wrote`, and then assert the landed file carries no id at all. Every one of the 34 subagent pages alive in the tree carries one, so the scratch world those tests build does not mint an id where the real repository does. The departure the module page states about minting is proven by nothing beside it, and what the two tests lock in is an artifact of the world they build rather than a fact about the landing. The page cannot be corrected today: carrying it draws a test file costing 8.1 processor seconds against a 5 second ceiling, so the change is refused.",
   evidence:

@@ -4,7 +4,7 @@ export const aelwynStrengthTraining = {
   id: "01a07cf1-f428-7e0b-b26f-c7c657f361ba",
   pageTypeSlug: "initiative",
   slug: "aelwyn-strength-training",
-  domainSlug: "domain/fitness",
+  domain: "domain/fitness",
   persona: "aelwyn",
   intents: [
     {

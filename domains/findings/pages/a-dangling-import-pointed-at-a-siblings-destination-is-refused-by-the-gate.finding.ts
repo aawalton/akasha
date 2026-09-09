@@ -4,7 +4,7 @@ export const aDanglingImportPointedAtASiblingsDestinationIsRefusedByTheGate = {
   id: "01a06426-cc4a-7bb2-91f9-89309307e25a",
   pageTypeSlug: "finding",
   slug: "a-dangling-import-pointed-at-a-siblings-destination-is-refused-by-the-gate",
-  domainSlug: "router-app/temper-web",
+  domain: "router-app/temper-web",
   claim:
     "Pointing an import at the destination path a sibling seat will land, and deliberately not creating the file, cannot itself be landed. The gate type-checks the change and TS2307 refuses the whole batch, which lands or is refused as one. Eleven such components blocked 22 of the companion family's 78 modules at the widest; as sibling seats landed theirs it fell to four and 6. The instruction to point and not create describes the finished graph rather than any state one landing can reach.",
   evidence:

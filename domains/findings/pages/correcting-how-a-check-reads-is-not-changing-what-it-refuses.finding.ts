@@ -4,7 +4,7 @@ export const correctingHowACheckReadsIsNotChangingWhatItRefuses = {
   id: "01a063bd-a4ba-7303-877b-a2aa48cb5e3c",
   pageTypeSlug: "finding",
   slug: "correcting-how-a-check-reads-is-not-changing-what-it-refuses",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "`identifier-matches-its-place` reads a component off what a function answers with rather than off JSX sitting anywhere inside it. That is how the check reads rather than what it refuses, which `Alan Approves Checks` reserves: the check's definition is untouched, both name places are untouched, and the reading adds refusals as well as lifting them, which no narrowing does. Over 23,650 `.ts` and `.tsx` under `akasha/` the count is 80 before and 80 after, line for line the same 80.",
   evidence:

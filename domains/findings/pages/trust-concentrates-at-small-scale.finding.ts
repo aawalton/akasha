@@ -4,7 +4,7 @@ export const trustConcentratesAtSmallScale = {
   id: "01a06555-9f3f-79ff-a04c-fe54e50c6187",
   pageTypeSlug: "finding",
   slug: "trust-concentrates-at-small-scale",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Across Alan's audits the B grades sit in one place: local, individual, person-to-person relationships. Costco Pharmacy, Dr Robinson, the pediatric dentist and Edgemont Auto all reach B in sectors graded C or D by default, while the banking audit peaked at an institutional B and never a personal one. What the outliers share is deliberate structural alignment. Grading at that level carries a fragility — a person can leave, sell or change — and the institution's grade is the floor left behind.",
   evidence:

@@ -4,7 +4,7 @@ export const twoEppieScoringRulesWereDeadBecauseNoPageCarriedTheirFields = {
   id: "01a06281-4d9d-7005-97ec-d604d1b436f5",
   pageTypeSlug: "finding",
   slug: "two-eppie-scoring-rules-were-dead-because-no-page-carried-their-fields",
-  domainSlug: "domain/music",
+  domain: "domain/music",
   claim:
     "The selection recreated as `@akasha/music-choosing/music-exploration` drops two rules `collections/music/src/eppie/select.ts` held. An artist rank of `S-Rank` down to `D-Rank` no longer breaks a tie between artists, and an artist no longer gains two points for being named a related artist of one Alan loves. Both rules read fields no page carries. Four more files came across as nothing: `cli/now-playing.ts`, `auth.ts`, `auth-cli.ts` and `spotify-reads.ts`.",
   evidence:

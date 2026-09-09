@@ -4,7 +4,7 @@ export const findingsCarryAnUnsourcedDate = {
   id: "01a06555-9f3e-7e99-b8af-ba7ef9334c58",
   pageTypeSlug: "finding",
   slug: "findings-carry-an-unsourced-date",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     'Thirty-seven findings on `all-about-alan` qualify their claims with "as of 2026-07-10". That date appears nowhere in the backlog those findings were migrated from. The dates the backlog does carry are 2026-06-30, 2026-07-02, 2026-07-06, 2026-07-07 and 2026-07-11. A date attached to a claim is what tells a later reader how stale the reading is, so thirty-seven findings carry a staleness marker that traces to no source.',
   evidence:

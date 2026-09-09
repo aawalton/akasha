@@ -4,7 +4,7 @@ export const aRenamedModuleLeavesItsInstalledUnitOnTheOldPath = {
   id: "01a05e50-ef80-7355-a5e8-5c4165e3cc3e",
   pageTypeSlug: "finding",
   slug: "a-renamed-module-leaves-its-installed-unit-on-the-old-path",
-  domainSlug: "page-type/workstation-service",
+  domain: "page-type/workstation-service",
   claim:
     "`akasha service install` writes a systemd unit out of a service page once, and nothing rewrites it when the page changes. A lane renamed `akasha/alan-harness/` to `akasha/alan/harness/` and corrected the page; the unit already installed kept the old path and failed every run for eighty minutes. The pages were right the whole time and the machine was wrong, so nothing that reads the tree could see it.",
   evidence:

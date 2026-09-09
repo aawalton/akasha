@@ -4,7 +4,7 @@ export const theRuleTemplateTableDeclaresOnePartAndTheDiskHoldsTwo = {
   id: "01a0721e-0864-7398-b603-00a81c658fb4",
   pageTypeSlug: "finding",
   slug: "the-rule-template-table-declares-one-part-and-the-disk-holds-two",
-  domainSlug: "domain/temper",
+  domain: "domain/temper",
   claim:
     "The addon data run would write the rule template table over the file that composes it. The target declares one part, the disk holds two parts and a composer, and no part count the code admits produces the names the disk carries.",
   evidence:

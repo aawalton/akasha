@@ -4,7 +4,7 @@ export const temperTaskProgressNamedCharactersByIdsThatDidNotCarryAcross = {
   id: "01a05fda-025e-7627-be42-eab4c600e312",
   pageTypeSlug: "finding",
   slug: "temper-task-progress-named-characters-by-ids-that-did-not-carry-across",
-  domainSlug: "domain/temper-progress",
+  domain: "domain/temper-progress",
   claim:
     "The per-character progress rollup on a `temper-task` named each character by a temper uuid, and those ids do not carry across. The 240 rows landed keyed by the character's in-game name instead, which no page resolves, because the `temper-character` domain holds no character pages yet. The link and the active-entry marker each row carried were dropped.",
   evidence:

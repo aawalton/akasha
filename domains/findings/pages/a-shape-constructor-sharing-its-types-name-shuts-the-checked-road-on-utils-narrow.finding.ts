@@ -4,7 +4,7 @@ export const aShapeConstructorSharingItsTypesNameShutsTheCheckedRoadOnUtilsNarro
   id: "01a069d8-6dae-7305-8b15-4502a7e278a7",
   pageTypeSlug: "finding",
   slug: "a-shape-constructor-sharing-its-types-name-shuts-the-checked-road-on-utils-narrow",
-  domainSlug: "domain/utils-narrow",
+  domain: "domain/utils-narrow",
   claim:
     "The checked road refuses every change to `akasha/utils-narrow/shape-core` and `shape-object` whatever the change is, because each declares a constructor function whose name is not lower camel case: `Shape` at shape-core line 70, `ObjectShape` at shape-object line 97. `shape-scalar` carries three more of the same form. Each name is merged by declaration with a type of the same name, which is why it was chosen, so renaming the function alone parts a constructor from its type. That is a design decision about the library rather than a repair, and it is why a real repair to the shape constraint had to be carried by the mechanical road instead.",
   evidence:

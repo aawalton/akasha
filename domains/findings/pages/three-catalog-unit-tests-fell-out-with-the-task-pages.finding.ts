@@ -4,7 +4,7 @@ export const threeCatalogUnitTestsFellOutWithTheTaskPages = {
   id: "01a0607c-4750-7938-8ee4-d76f0bb39bdb",
   pageTypeSlug: "finding",
   slug: "three-catalog-unit-tests-fell-out-with-the-task-pages",
-  domainSlug: "workspace-package/temper-catalog-core",
+  domain: "workspace-package/temper-catalog-core",
   claim:
     "Three unit tests over catalog-core's pure logic were deleted two days before this migration by a commit about something else, and nothing noticed because the package's compiled declarations kept naming them. They are restored here beside the modules they prove. A seat recreating a package should read the old `dist` for names its `src` no longer holds.",
   evidence:

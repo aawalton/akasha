@@ -4,7 +4,7 @@ export const traitToSystemsMappingUndecided = {
   id: "01a06555-9f3f-7bef-b22c-d53b7d0c1d5e",
   pageTypeSlug: "finding",
   slug: "trait-to-systems-mapping-undecided",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Each of Alan's executive-function traits, autism traits and aphantasia effects is meant to have a matching treatment of the system that compensates for it, and the mapping does not exist. Whether the systems side should mirror the traits side file for file or aggregate by category of system is also undecided, so the structure has to be settled before the mapping can be built.",
   evidence:

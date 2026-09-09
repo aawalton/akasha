@@ -4,7 +4,7 @@ export const theTaskRoundTripsReturnLegDropsEveryPerCharacterCompletion = {
   id: "01a076db-bd59-7117-8652-98f15e098967",
   pageTypeSlug: "finding",
   slug: "the-task-round-trips-return-leg-drops-every-per-character-completion",
-  domainSlug: "workspace-package/temper-watcher",
+  domain: "workspace-package/temper-watcher",
   claim:
     "The return leg of the temper task round trip drops every completion the game records against one character. `watcher-import-tasks.module.code.ts` keeps a completion only where `namesWholeTask` holds, and that is false for any key spelled `<taskId>:<characterId>`. Read twice fourteen minutes apart, the saved variables held 14 such completions and then 19, and the import captured 0 both times. A scoped completion becomes a whole one only once every one of the 20 recorded characters has done that task, so a task 4 characters have done imports as nothing and will keep doing so. The export leg is healthy at 24 tasks. The game keeps counting and the web keeps reading nothing.",
   evidence:

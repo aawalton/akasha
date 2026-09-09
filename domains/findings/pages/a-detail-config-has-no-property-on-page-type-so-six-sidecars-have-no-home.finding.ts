@@ -4,7 +4,7 @@ export const aDetailConfigHasNoPropertyOnPageTypeSoSixSidecarsHaveNoHome = {
   id: "01a06828-1949-79c0-82bb-547d1fe3dff7",
   pageTypeSlug: "finding",
   slug: "a-detail-config-has-no-property-on-page-type-so-six-sidecars-have-no-home",
-  domainSlug: "workspace-package/pages-core",
+  domain: "workspace-package/pages-core",
   claim:
     "The `page-type` page type declares `media-config` and `sequence` but declares nothing for a detail config, so no `.page-type.ts` can say how its pages are drawn on their own detail page. Six `detail-config` sidecars in `pages/page-type` therefore have nowhere to land, and the display kind they carry is live code rather than dead configuration.",
   evidence:

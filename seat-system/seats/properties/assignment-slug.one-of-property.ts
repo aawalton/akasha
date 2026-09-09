@@ -1,8 +1,8 @@
-import type { DomainSlug } from "@akasha/domains/domain-slug"
 import type { Initiative } from "@akasha/domains/initiative"
+import type { PageDomain } from "@akasha/domains/page-domain"
 import type { OneOfProperty } from "@akasha/pages/one-of-property"
 
-export type AssignmentSlug = DomainSlug | Initiative
+export type AssignmentSlug = PageDomain | Initiative
 
 export const assignmentSlug = {
   id: "01a053a2-d0e7-7948-a966-74efed3c62f0",
@@ -10,7 +10,7 @@ export const assignmentSlug = {
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
   definition: "the domain or initiative whose work a seat answers to",
-  members: ["relation-property/domain-slug", "relation-property/initiative"],
+  members: ["relation-property/page-domain", "relation-property/initiative"],
   invariants: [
     {
       invariantKind: "departure",

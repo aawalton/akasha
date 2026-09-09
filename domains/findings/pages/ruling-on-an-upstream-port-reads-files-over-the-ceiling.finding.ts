@@ -4,7 +4,7 @@ export const rulingOnAnUpstreamPortReadsFilesOverTheCeiling = {
   id: "01a06039-c825-7e98-b879-4d308ce709ff",
   pageTypeSlug: "finding",
   slug: "ruling-on-an-upstream-port-reads-files-over-the-ceiling",
-  domainSlug: "workspace-package/temper-upstream-data",
+  domain: "workspace-package/temper-upstream-data",
   claim:
     "The four modules that rule on whether a ported upstream library still matches the game read the ported data itself, and four of those generated files run from twice to twenty times the 15,000 byte ceiling. Even once the Lua machine reaches akasha, ruling on a port cannot follow until the ported data is split or the ceiling is settled. Splitting a generated file means changing what generates it, which is beyond this seat's reach.",
   evidence:

@@ -4,7 +4,7 @@ export const meaningfulDependenciesUncarved = {
   id: "01a06555-9f3e-77ef-b25a-1cbaf0bdd514",
   pageTypeSlug: "finding",
   slug: "meaningful-dependencies-uncarved",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Some of Alan's dependencies are chosen because they mean something, not defaulted into, and his framework has no space for them — so they read as D-tier targets while being nothing of the kind. Jenny's restaurant-going as a hobby, the commitment to a family of five, the children's homeschooling, and the deliberately Provo-anchored life are all anchored by design rather than by default. The framework grades them the same as any dependency and offers no carve-out from grade-driven remediation.",
   evidence:

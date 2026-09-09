@@ -4,7 +4,7 @@ export const deletingAGlobalDeclarationIsJudgedByNothing = {
   id: "01a072f8-4bc2-7bd3-bd17-d44cf3b282e2",
   pageTypeSlug: "finding",
   slug: "deleting-a-global-declaration-is-judged-by-nothing",
-  domainSlug: "code-check/typecheck",
+  domain: "code-check/typecheck",
   claim:
     "`typecheck` runs at patch and refuses a fault written into a declaration file, but a change that deletes one is judged by nothing at all. `rootsOf` walks import edges, and a file that only declares globals is reached by no import, so the roots come back empty and the check returns before a program is built. Every file relying on those globals lands broken. The same hole covers any file nothing imports.",
   evidence:

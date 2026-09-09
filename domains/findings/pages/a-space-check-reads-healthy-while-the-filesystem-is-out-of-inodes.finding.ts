@@ -4,7 +4,7 @@ export const aSpaceCheckReadsHealthyWhileTheFilesystemIsOutOfInodes = {
   id: "01a068bc-1aad-7178-ab11-f2944acae41d",
   pageTypeSlug: "finding",
   slug: "a-space-check-reads-healthy-while-the-filesystem-is-out-of-inodes",
-  domainSlug: "domain/instrument",
+  domain: "domain/instrument",
   claim:
     "A space check reports healthy while the filesystem cannot create one more file, so ENOSPC is no evidence of a full disk. `/tmp` here is tmpfs mounted `size=32590204k,nr_inodes=1048576`: one inode per 31.08 KiB, so inodes bind before space whenever the mean file is under 31 KiB, and the swarm's mean is 12.22 KiB. Demonstrated in a private namespace rather than inferred: `open()` returned errno 28 ENOSPC with all 67108864 bytes free and `df -h` reading 0%, while writing 8 MiB into an already existing file on that same filesystem still succeeded. One lane extracting a full tree into scratch costs about 190000 inodes and 1.9 GiB, so the inode budget allows 5.5 such copies where space allows 16.4: the box dies at 34% space used. Three stood concurrently while this was written, 49% of the inode cap at 18% of space.",
   evidence:

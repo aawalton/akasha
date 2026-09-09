@@ -4,7 +4,7 @@ export const auraRibMayBePageDerived = {
   id: "01a06555-9f3d-793e-8f3f-04626cb58178",
   pageTypeSlug: "finding",
   slug: "aura-rib-may-be-page-derived",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "One persona's rib may come from a page rather than from Alan. Aura is recorded as curator or maker of personas, while he explicitly corrected that same creator role away from Sophia. Aura's operating channel is unconfirmed too, standing as a mirror-adjacent hypothesis only. Both settle only from a real session with her, and there has not been one.",
   evidence:

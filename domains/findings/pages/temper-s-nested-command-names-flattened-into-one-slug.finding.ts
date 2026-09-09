@@ -4,7 +4,7 @@ export const temperSNestedCommandNamesFlattenedIntoOneSlug = {
   id: "01a0603f-86cf-7e54-862b-8c7522e98b90",
   pageTypeSlug: "finding",
   slug: "temper-s-nested-command-names-flattened-into-one-slug",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "Temper's commands were reached by a path up to four words deep, and akasha reaches a command by one slug. Recreating them turned `ops temper inventory buy-rule create` into `akasha temper-inventory-buy-rule-create`. The grouping is now a naming convention no code reads: nothing lists the commands under one group, nothing gives a group its own help, and 66 entries were added flat to what `akasha --help` prints.",
   evidence:

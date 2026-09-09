@@ -4,7 +4,7 @@ export const theMonarchCookieStandingTonightIsDead = {
   id: "01a05b44-9d6a-7826-a924-bc44b9c0eaa1",
   pageTypeSlug: "finding",
   slug: "the-monarch-cookie-standing-tonight-is-dead",
-  domainSlug: "domain/monarch",
+  domain: "domain/monarch",
   claim:
     "The MONARCH_COOKIE standing in the home secrets file tonight is expired. Monarch answers 401 to it. So the reading service is complete and installed and running on its timer, and every run of it fails on the credential until Alan signs in at a browser and writes a fresh Cookie header into that file. That one thing is unproven: no reading has been taken from live Monarch.",
   evidence:

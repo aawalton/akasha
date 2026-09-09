@@ -4,7 +4,7 @@ export const aPackageRepointIsEveryConstantThatJoinsOntoItsRoot = {
   id: "01a06798-4d53-7001-99dc-22205557575d",
   pageTypeSlug: "finding",
   slug: "a-package-repoint-is-every-constant-that-joins-onto-its-root",
-  domainSlug: "workspace-package/temper-addon-build",
+  domain: "workspace-package/temper-addon-build",
   claim:
     "A repoint of a package is a file's worth of constants, not a line's. The switchover brief for `lua-build-command.module.code.ts` named only line 4, `COMPILER_PACKAGE`. The file held two more old-tree-relative constants, `COMPILER_ENTRY` and `PLUGIN_DIR`, that the brief missed — it was written from a grep for the specifier rather than from reading the file. Repointing line 4 alone would have left `tstlCommand()` naming an entry that does not exist and both plugins unreachable.",
   evidence:

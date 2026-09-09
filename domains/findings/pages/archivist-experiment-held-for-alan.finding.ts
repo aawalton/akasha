@@ -4,7 +4,7 @@ export const archivistExperimentHeldForAlan = {
   id: "01a06555-9f3d-7ce0-9823-779d456afe96",
   pageTypeSlug: "finding",
   slug: "archivist-experiment-held-for-alan",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan has an idea for a background agent that would act as an archivist, and it is deliberately unrecorded. It is held back from capture as deserving direct conversation, so its concept, its intent and its relation to the existing harness all wait on him raising it.",
   evidence:

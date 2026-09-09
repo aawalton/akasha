@@ -4,7 +4,7 @@ export const aDeletedTestIsTheCatalogAddOnsOnlyProofOfFailClosedConfig = {
   id: "01a063b0-9da1-79be-afb7-075547fa1d86",
   pageTypeSlug: "finding",
   slug: "a-deleted-test-is-the-catalog-add-ons-only-proof-of-fail-closed-config",
-  domainSlug: "workspace-package/temper-catalog-core",
+  domain: "workspace-package/temper-catalog-core",
   claim:
     "`temper/catalog-addon/src/side-file-config.unit.test.ts` went at `09f964f5c5` on 2026-08-30, 74 lines and ten cases, under a message about ablating task pages. Nothing in akasha holds `getPendingInvalidation`, so those ten are the only record of what its validation refuses. At the tip the add-on and akasha are at parity with zero tests each, which would license the ablation.",
   evidence:

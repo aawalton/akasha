@@ -4,7 +4,7 @@ export const temperSkyshardsCarriesALoggerNothingReaches = {
   id: "01a061b1-a094-79ac-a8ff-62ce3b0983d3",
   pageTypeSlug: "finding",
   slug: "temper-skyshards-carries-a-logger-nothing-reaches",
-  domainSlug: "workspace-package/temper-skyshards",
+  domain: "workspace-package/temper-skyshards",
   claim:
     "`skyshards-logger` is imported by nothing, in akasha or upstream. Its body creates a `LibDebugLogger` instance at load and it exports `setShowLog` and the writers around it, and no module in the package reaches any of them. It was carried across rather than lost in the recreation. It is a candidate deletion, and deleting it takes `LibDebugLogger` and `DebugLogViewer` off what the package needs.",
   evidence:

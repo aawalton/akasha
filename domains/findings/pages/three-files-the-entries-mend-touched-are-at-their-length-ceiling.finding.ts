@@ -4,7 +4,7 @@ export const threeFilesTheEntriesMendTouchedAreAtTheirLengthCeiling = {
   id: "01a062be-6566-7cb8-a47a-34f33e6b3519",
   pageTypeSlug: "finding",
   slug: "three-files-the-entries-mend-touched-are-at-their-length-ceiling",
-  domainSlug: "workspace-package/check",
+  domain: "workspace-package/check",
   claim:
     "Three files landed at `741975d358` are within twelve bytes of the 15,000-byte `file-length` ceiling: 14,989, 14,994 and 14,988. The next agent to add one line to any of them is refused by a check that names bytes and says nothing about why the file is that shape. The ceiling already bent that mend twice, and neither compromise is visible in the code it left behind. A correct mend could not be written plainly.",
   evidence:

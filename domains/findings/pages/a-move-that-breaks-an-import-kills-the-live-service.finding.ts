@@ -4,7 +4,7 @@ export const aMoveThatBreaksAnImportKillsTheLiveService = {
   id: "01a05f21-9be3-70e7-b011-c79968564395",
   pageTypeSlug: "finding",
   slug: "a-move-that-breaks-an-import-kills-the-live-service",
-  domainSlug: "workspace-package/command-system",
+  domain: "workspace-package/command-system",
   claim:
     "`akasha move` runs no check, and `pages-system-service` reloads from the checkout on every commit, so one move that breaks an import kills the live service before whoever made the move can repair the break. Alan's widgets answered nothing for about four minutes on 1 September while `where-testing` was rehomed.",
   evidence:

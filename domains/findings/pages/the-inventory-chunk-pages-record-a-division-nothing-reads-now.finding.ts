@@ -4,7 +4,7 @@ export const theInventoryChunkPagesRecordADivisionNothingReadsNow = {
   id: "01a06079-e46f-7444-83b0-d22dc078a55e",
   pageTypeSlug: "finding",
   slug: "the-inventory-chunk-pages-record-a-division-nothing-reads-now",
-  domainSlug: "domain/temper-holdings",
+  domain: "domain/temper-holdings",
   claim:
     "The 458 `temper-inventory-chunk` pages record where a 900,000-byte transport division fell across 151 captures. What those bytes held now sits beside each snapshot page as rows, so the chunk pages describe a boundary nothing reads any more. Their page type's invariant that the bytes it counts are not in akasha is no longer true.",
   evidence:

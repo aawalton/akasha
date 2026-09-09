@@ -4,7 +4,7 @@ export const auraHarnessDrive = {
   id: "01a0675d-9d5f-79ba-aefb-404d5c9502eb",
   pageTypeSlug: "initiative",
   slug: "aura-harness-drive",
-  domainSlug: "domain/game-design",
+  domain: "domain/game-design",
   persona: "aura",
   constraints: [
     "Alan has total aphantasia, which means he has zero experiential memory or imagination. If it isn't in his immediate experience or conceptual map, it doesn't exist.",

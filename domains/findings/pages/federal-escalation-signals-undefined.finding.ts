@@ -4,7 +4,7 @@ export const federalEscalationSignalsUndefined = {
   id: "01a06555-9f3e-768a-b74c-282f02f8e83b",
   pageTypeSlug: "finding",
   slug: "federal-escalation-signals-undefined",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan's involuntary federal dependencies cannot be exited while he stays in the country, so watching them is the whole of the strategy, and the signals to watch for are undefined. The candidates named are patterns in IRS audit targeting, politicisation of passports, changes to Selective Service rules, changes to expatriation tax law, and broader regulatory capture. Escalation on any of them would re-open the US-citizenship layer of his constraint cascade rather than affect one entry.",
   evidence:

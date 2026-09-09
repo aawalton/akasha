@@ -210,14 +210,14 @@ test("a relation property is answered with the shape it is and the page type it 
     targetPageTypeSlug: "domain",
     unique: null,
     uniquePropertySlug: null,
-    slug: "domain-slug",
-    propertySlug: "domain-slug",
+    slug: "page-domain",
+    propertySlug: "domain",
     fileName: null,
     folderName: null,
   }
-  schemaFiled(root, "relation-property", "domain-slug", [held])
+  schemaFiled(root, "relation-property", "page-domain", [held])
 
-  expect(schemaOf(root, "relation-property/domain-slug")).toEqual({ schema: held })
+  expect(schemaOf(root, "relation-property/page-domain")).toEqual({ schema: held })
 })
 
 test("a property that names no page is answered with a shape that is not a relation", () => {

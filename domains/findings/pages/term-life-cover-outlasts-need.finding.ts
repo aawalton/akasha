@@ -4,7 +4,7 @@ export const termLifeCoverOutlastsNeed = {
   id: "01a06555-9f3f-70f8-b483-825db71f82ab",
   pageTypeSlug: "finding",
   slug: "term-life-cover-outlasts-need",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Alan carries $4M of term life cover against a need that shrinks as his children reach independence — Lizzy in five to seven years, Joseph in seven to nine, Katara in ten or more. Nothing re-evaluates the face value against that shrinking need on any cadence, and nothing tracks the policies' expiration dates or their renewal and re-rate windows, so cover could drop off at a moment nobody chose.",
   evidence:

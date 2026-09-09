@@ -4,7 +4,7 @@ export const anAgentsCeilingOnFlowIsSetByConventionsNoPromptCanCarryHonestly = {
   id: "01a07740-d031-7bdc-87c4-60aa71d3b15a",
   pageTypeSlug: "finding",
   slug: "an-agents-ceiling-on-flow-is-set-by-conventions-no-prompt-can-carry-honestly",
-  domainSlug: "domain/monarch-eval",
+  domain: "domain/monarch-eval",
   claim:
     "Where a household's category is a convention rather than a fact about the purchase, an agent cannot reach it and no honest prompt can carry it. On the first development run the agent collapsed on FLOW almost entirely on one shape: Venmo and named-person payments through the Personal Profile account are Transfer by this household's convention, and the agent called them Shopping. It was not being stupid — the gloss it was given says Transfer is money moving between accounts the household already holds, and by that reading a Venmo to a neighbour for bread is not a transfer. The convention exists nowhere except in Jenny's head and in the history, so writing it into the prompt would copy the answer key out of the history and the score afterwards would describe this history rather than the next transaction. The prompt was left standing and a one-line rule settles the shape exactly.",
   evidence:

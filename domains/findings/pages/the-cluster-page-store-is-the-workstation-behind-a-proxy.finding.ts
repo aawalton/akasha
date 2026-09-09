@@ -4,7 +4,7 @@ export const theClusterPageStoreIsTheWorkstationBehindAProxy = {
   id: "01a05b6b-c39e-7bf4-9cf9-ba5a31e641c7",
   pageTypeSlug: "finding",
   slug: "the-cluster-page-store-is-the-workstation-behind-a-proxy",
-  domainSlug: "module/store-reaching",
+  domain: "module/store-reaching",
   claim:
     "The store the cluster reaches is not a second store. `page-store.page-store.svc.cluster.local:8787` is a proxy forwarding to `workstation.alanwalton.ts.net:8787`, which is the store a workstation also reaches at `127.0.0.1:8787`. A page committed and indexed on the workstation is live to the cluster at once, with no push and no second index. The cluster holds no page store of its own, so it reads nothing while that workstation sleeps or leaves the tailnet.",
   evidence:

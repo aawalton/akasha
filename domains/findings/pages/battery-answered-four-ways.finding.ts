@@ -4,7 +4,7 @@ export const batteryAnsweredFourWays = {
   id: "01a06555-9f3d-7793-b4d6-d01dce844a16",
   pageTypeSlug: "finding",
   slug: "battery-answered-four-ways",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Whether to buy a battery, and how big, is a $40,000 question the solar thread answers four ways at once. `sizing/battery.md` puts 40 kWh at $40,000 into the planning case. `scope.md` rules a battery does not improve payback under Provo's rates. `pricing.md` advises skipping it on the first install. `self-sufficiency.md` calls for 250–500 kWh. `sizing/battery.md` rests its own case on a tariff check nobody ran, and two files disagree on whether Provo Power has time-of-use pricing at all.",
   evidence:

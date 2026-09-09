@@ -4,7 +4,7 @@ export const noPassportPathChosen = {
   id: "01a06555-9f3e-7818-94f0-87a5bca66b32",
   pageTypeSlug: "finding",
   slug: "no-passport-path-chosen",
-  domainSlug: "domain/all-about-alan",
+  domain: "domain/all-about-alan",
   claim:
     "Ninety-six files of second-passport research narrow forty-two countries to a handful of survivors and stop before anyone picks one. The two synthesis files rank survivors by clock, cost and financial bar, and record that the two cannot be had together: no surviving EU active-income path meets both a clock under seven years and a city cost under €4,500 a month. Nothing records a country chosen, a budget, a date, a first act, or which criterion the family weighs most.",
   evidence:
