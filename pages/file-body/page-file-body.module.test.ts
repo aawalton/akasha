@@ -5,7 +5,7 @@ import { bodyAt, bytesAt, filedAmong, filedValue } from "./page-file-body.module
 
 const ROOT = join(import.meta.dir, "..", "..")
 
-const A_PERSONA_AT = "personas/ember/ember.persona.ts"
+const A_PERSONA_AT = "personas/pages/ember/ember.persona.ts"
 
 const PORTRAIT = { key: "portrait", propertySlug: "portrait", pageTypeSlug: "file-property" }
 
@@ -21,8 +21,6 @@ const SCRATCH_AT = process.env["SCRATCH_AT"] ?? "/var/tmp"
 
 const A_PICTURE_AT = "holder/holder.persona.ts"
 
-// THE FIRST BYTE OF A PNG IS THE ONE A DECODER TAKES. No encoding admits 0x89 at the head of a
-// stream, so a decoder answers the replacement character, which re-encodes as three other bytes.
 const A_PICTURE = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00])
 
 const scratch = mkdtempSync(join(SCRATCH_AT, "page-file-body-"))
