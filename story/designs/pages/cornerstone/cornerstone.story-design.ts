@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const cornerstone = {
   id: "01a0657d-bb8d-7066-b242-19bc27c9bf8c",

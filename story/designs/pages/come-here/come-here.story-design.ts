@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const comeHere = {
   id: "01a0657d-bb8d-72ba-b35c-47714272cbed",

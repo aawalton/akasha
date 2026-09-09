@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const dragonsAndDungeons = {
   id: "01a0657d-bb8d-7c2e-b887-6f19b2ee678c",

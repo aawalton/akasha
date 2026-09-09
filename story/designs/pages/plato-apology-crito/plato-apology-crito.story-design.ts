@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const platoApologyCrito = {
   id: "01a0657d-bb8d-7b92-a031-b037bbba81cf",

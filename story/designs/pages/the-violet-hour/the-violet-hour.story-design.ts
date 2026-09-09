@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const theVioletHour = {
   id: "01a0657d-bb8e-7ad0-a154-2f2d8a670bbf",

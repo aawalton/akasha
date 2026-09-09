@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const theBeholder = {
   id: "01a0657d-bb8d-761c-af48-1d61b81985b6",

@@ -1,4 +1,4 @@
-import type { StoryDesign } from "../story-design.page-type.ts"
+import type { StoryDesign } from "../../story-design.page-type.ts"
 
 export const thePlacesSheCarries = {
   id: "01a0657d-bb8e-7f49-9570-3db923301bf3",
