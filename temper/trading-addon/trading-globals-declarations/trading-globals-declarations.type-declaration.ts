@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const tradingGlobalsDeclarations = {
   id: "01a0625f-6d05-7cd5-8333-70b627b2aa35",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "trading-globals-declarations",
   definition: "the global name another add-on reads this add-on's listings through",
   d: "ts",

@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const addonMenuEsoCombobox = {
   id: "01a06100-0000-7000-8000-000000000030",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "addon-menu-eso-combobox",
   definition: "the game combo box members the dropdown widget reaches",
   d: "ts",

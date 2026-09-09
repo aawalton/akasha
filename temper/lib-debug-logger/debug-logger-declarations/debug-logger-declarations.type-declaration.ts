@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const debugLoggerDeclarations = {
   id: "01a0620a-a166-7f46-895d-4d74d6165dbc",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "debug-logger-declarations",
   definition: "the Lua and game names this library reaches without importing them",
   d: "ts",

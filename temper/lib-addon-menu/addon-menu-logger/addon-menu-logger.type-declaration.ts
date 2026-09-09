@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const addonMenuLogger = {
   id: "01a06100-0000-7000-8000-000000000033",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "addon-menu-logger",
   definition: "the logging surface this library takes from the debug logger library",
   d: "ts",

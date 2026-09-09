@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const lorebooksStringIds = {
   id: "01a06176-9c43-7d61-914f-8fa115636dec",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "lorebooks-string-ids",
   definition: "the string identifiers this add-on registers its own English text under",
   d: "ts",

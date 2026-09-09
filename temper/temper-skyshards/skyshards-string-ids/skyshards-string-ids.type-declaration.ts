@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const skyshardsStringIds = {
   id: "01a061a8-9c6c-77af-ab8d-fc301a1713ff",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "skyshards-string-ids",
   definition: "the string identifiers this add-on has its own English text under",
   d: "ts",

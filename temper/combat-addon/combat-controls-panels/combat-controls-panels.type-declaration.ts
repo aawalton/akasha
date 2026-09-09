@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const combatControlsPanels = {
   id: "01a06202-ba79-7215-983d-29d50072ef06",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "combat-controls-panels",
   definition:
     "the panel and plot controls the layout defines, named for the code that reaches them",

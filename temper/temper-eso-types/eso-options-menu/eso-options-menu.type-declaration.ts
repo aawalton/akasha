@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const esoOptionsMenu = {
   id: "01a06259-bfbb-741e-b9cc-630b4b8a9583",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "eso-options-menu",
   definition: "the game's settings menu names that more than one add-on reaches",
   d: "ts",

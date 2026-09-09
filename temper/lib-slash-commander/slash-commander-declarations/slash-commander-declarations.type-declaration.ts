@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const slashCommanderDeclarations = {
   id: "01a06066-8404-79a4-bfb3-28f543c2cd7a",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "slash-commander-declarations",
   definition: "the Lua and game names this addon reaches without importing them",
   d: "ts",

@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const libMediaProvider = {
   id: "01a06090-f5b4-7581-bf0a-912fd220ca16",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "lib-media-provider",
   definition: "what the lib-media-provider library leaves in another add-on's reach",
   d: "ts",

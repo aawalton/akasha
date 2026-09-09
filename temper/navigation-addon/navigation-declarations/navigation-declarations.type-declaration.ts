@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const navigationDeclarations = {
   id: "01a06269-2b16-7e93-92d5-2c6e6bb9cb17",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "navigation-declarations",
   definition:
     "the tables this add-on publishes under its four names, and the font and saved variables it makes",

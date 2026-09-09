@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const keybinderDeclarations = {
   id: "01a06381-67c1-7169-bc94-c11e7fb0d171",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "keybinder-declarations",
   definition: "the key-bind shapes only this add-on reaches",
   d: "ts",

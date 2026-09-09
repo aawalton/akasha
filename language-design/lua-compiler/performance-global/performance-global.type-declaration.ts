@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const performanceGlobal = {
   id: "01a06c82-21b6-70be-aed0-9bc2e1d7da47",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "performance-global",
   definition: "the clock a compiled program reads the elapsed time from",
   d: "ts",

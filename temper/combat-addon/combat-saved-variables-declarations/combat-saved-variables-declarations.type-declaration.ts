@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const combatSavedVariablesDeclarations = {
   id: "01a06228-a428-73dc-98b5-d1af1118feb3",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "combat-saved-variables-declarations",
   definition: "the saved table the game loads this add-on's settings from",
   d: "ts",

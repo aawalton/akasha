@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const libAsync = {
   id: "01a0616f-b192-7482-9bc6-4ccb88f428ca",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "lib-async",
   definition: "the tasks LibAsync runs a little at a time",
   d: "ts",

@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const addonMenuEsoControls = {
   id: "01a06100-0000-7000-8000-000000000029",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "addon-menu-eso-controls",
   definition: "the game control members and color constants the option widgets reach",
   d: "ts",

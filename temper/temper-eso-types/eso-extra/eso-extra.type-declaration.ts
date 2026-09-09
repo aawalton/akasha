@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const esoExtra = {
   id: "01a0608f-b084-776f-8521-0382ce356a21",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "eso-extra",
   definition: "the game globals an addon reaches that the generated declarations leave out",
   d: "ts",

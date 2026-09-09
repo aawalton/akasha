@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const collectionsAddonDeclarations = {
   id: "01a0624c-a660-7de2-9dfa-409076eab77b",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "collections-addon-declarations",
   definition: "the global with this add-on's name and version",
   d: "ts",

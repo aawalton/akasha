@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../../../code-system/type-declaratio
 export const treeRow = {
   id: "01a07254-9a16-7f32-8d54-29daa3227516",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "tree-row",
   definition: "the fields every row of every tree the editor draws carries",
   d: "ts",

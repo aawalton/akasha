@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "@akasha/code/type-declaration"
 export const minimapStringIds = {
   id: "01a06269-2b15-7ed4-828d-87a96fe2a139",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "minimap-string-ids",
   definition: "the string ids the minimap makes for its settings and key bindings",
   d: "ts",

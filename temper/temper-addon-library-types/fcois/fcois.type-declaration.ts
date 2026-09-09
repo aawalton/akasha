@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const fcois = {
   id: "01a06090-f5af-7080-b8fc-01b528ed4009",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "fcois",
   definition: "what the fcois library leaves in another add-on's reach",
   d: "ts",

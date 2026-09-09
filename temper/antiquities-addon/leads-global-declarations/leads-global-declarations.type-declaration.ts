@@ -3,6 +3,7 @@ import type { TypeDeclaration } from "../../../code-system/type-declarations/typ
 export const leadsGlobalDeclarations = {
   id: "01a06274-b08b-7d77-84f1-e4cc639b4458",
   pageTypeSlug: "type-declaration",
+  type: "type-declaration",
   slug: "leads-global-declarations",
   definition: "the shape of the table the lead window's markup calls into",
   d: "ts",
