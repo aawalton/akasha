@@ -5,7 +5,7 @@ export const manifestNamesWhatIsReached = {
   pageTypeSlug: "code-check",
   slug: "manifest-names-what-is-reached",
   definition:
-    "the check holding a package's dependencies and the packages its own code reaches to one set",
+    "the check judging a package's dependencies and the packages its own code reaches to be one set",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -98,7 +98,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "The files a package holds are the files the index names as the change leaves those files.",
+        "The files a package has are the files the index names as the change leaves those files.",
     },
     {
       invariantKind: "departure",
