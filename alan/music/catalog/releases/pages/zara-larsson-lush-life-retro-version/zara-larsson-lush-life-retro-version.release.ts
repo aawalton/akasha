@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonLushLifeRetroVersion = {
   id: "01a0676a-d724-701c-8787-2dfcb718eb17",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-lush-life-retro-version",
   title: "Lush Life (Retro Version)",
   partOfCollections: ["zara-larsson"],

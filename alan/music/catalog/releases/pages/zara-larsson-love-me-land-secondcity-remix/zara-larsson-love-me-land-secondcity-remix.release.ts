@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonLoveMeLandSecondcityRemix = {
   id: "01a0676a-d723-706f-8683-4de6cd4e3e1c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-love-me-land-secondcity-remix",
   title: "Love Me Land (Secondcity Remix)",
   partOfCollections: ["zara-larsson"],

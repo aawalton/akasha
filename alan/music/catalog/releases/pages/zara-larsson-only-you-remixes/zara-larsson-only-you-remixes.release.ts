@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonOnlyYouRemixes = {
   id: "01a0676a-d726-703c-9c11-5cea8131e17d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-only-you-remixes",
   title: "Only You + Remixes",
   partOfCollections: ["zara-larsson"],

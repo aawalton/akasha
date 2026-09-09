@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonLayAllYourLoveOnMeSpotifySingles = {
   id: "01a0676a-d722-7065-9e0d-8f60bd1371bf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-lay-all-your-love-on-me-spotify-singles",
   title: "Lay All Your Love On Me - Spotify Singles",
   partOfCollections: ["zara-larsson"],

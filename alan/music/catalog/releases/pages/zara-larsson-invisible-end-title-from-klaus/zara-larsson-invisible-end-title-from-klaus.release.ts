@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonInvisibleEndTitleFromKlaus = {
   id: "01a0676a-d721-7081-bc60-89fdaa7498a5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-invisible-end-title-from-klaus",
   title: "Invisible (End Title from Klaus)",
   partOfCollections: ["zara-larsson"],

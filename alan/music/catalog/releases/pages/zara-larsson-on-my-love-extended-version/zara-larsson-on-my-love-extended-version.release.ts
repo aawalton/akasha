@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonOnMyLoveExtendedVersion = {
   id: "01a0676a-d726-7021-9cb8-5772f066e8d3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-on-my-love-extended-version",
   title: "On My Love (Extended Version)",
   partOfCollections: ["zara-larsson"],

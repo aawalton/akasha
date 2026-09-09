@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   id: "01a0676a-d731-703a-b9b4-b9e1a21f7ac2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-wow-feat-sabrina-carpenter-remix",
   title: "WOW (feat. Sabrina Carpenter) [Remix]",
   partOfCollections: ["zara-larsson"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonINeedLoveFeatTrevorDaniel = {
   id: "01a0676a-d721-7038-a795-5b9d5efd9674",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-i-need-love-feat-trevor-daniel",
   title: "I Need Love (feat. Trevor Daniel)",
   partOfCollections: ["zara-larsson"],
