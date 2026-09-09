@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "None is installed separately from the root: the service Dockerfiles reproduce the root install inside the image. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches and lands broken in silence; they are the react-router route modules under the five apps and `lua-compiler/lualib/src`, and 19 packages are named from them. `temper/temper-web` shows the shape that claims a route.",
+        "Three `ios-app` folders must stay packages: `app-building` rsyncs the app folder and three shared paths to `$HOME/.akasha-ios-build`, carrying neither root manifest nor lockfile, and `build-sim` runs `npm install` there against six registry-pinned `@capacitor/*` deps and no `workspace:*`. Every other folder reproduces the root install. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches; 19 packages are named from them.",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
