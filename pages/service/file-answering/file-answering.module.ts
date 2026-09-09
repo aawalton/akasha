@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const fileAnswering = {
   id: "01a0784a-085f-7c1d-aec3-7e04a398f007",
   pageTypeSlug: "module",
+  type: "module",
   slug: "file-answering",
   definition: "the bytes a page keeps under one file property",
   code: "ts",

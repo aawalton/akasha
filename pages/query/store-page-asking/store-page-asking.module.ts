@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const storePageAsking = {
   id: "01a05aec-eaaa-78d0-9e24-94f935464bf0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "store-page-asking",
   definition:
     "one page, a page type's shape, the roster, and what names a page, each off composed queries",

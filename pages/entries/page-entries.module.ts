@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageEntries = {
   id: "01a05fa9-de48-7998-bf7c-a433b344bba0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-entries",
   definition: "the values a page keeps one to a line in a file beside the page",
   code: "ts",

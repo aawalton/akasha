@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageFileParts = {
   id: "01a0610b-6431-783b-94f0-006f071dfd63",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-file-parts",
   definition: "the ordered files one property of a page is held in",
   code: "ts",

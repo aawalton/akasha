@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageQueryShape = {
   id: "01a06876-e5ea-7000-a25d-769b1225404c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-query-shape",
   definition: "the shape a page query is stated in and the shape it is answered in",
   code: "ts",

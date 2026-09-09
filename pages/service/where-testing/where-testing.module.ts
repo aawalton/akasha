@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const whereTesting = {
   id: "01a05bdd-d54c-7989-aac7-52cb42d778c4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "where-testing",
   definition: "the tests a `where` states run over one value, and how two values order",
   code: "ts",

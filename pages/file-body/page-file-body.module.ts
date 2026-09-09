@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageFileBody = {
   id: "01a07323-6246-7319-bab0-db087f92380d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-file-body",
   definition: "the body a page keeps in a file beside the page under one file property",
   code: "ts",

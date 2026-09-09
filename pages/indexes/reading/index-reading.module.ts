@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const indexReading = {
   id: "01a04bdd-596c-7b76-9978-92ebfa6a20e4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "index-reading",
   definition: "the answers the index gives back, each one a file read",
   code: "ts",

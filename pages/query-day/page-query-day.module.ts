@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageQueryDay = {
   id: "01a0686e-6807-7005-9027-bd2e25430a73",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-query-day",
   definition: "the type a query argument takes when what it names is one of Alan's tracked days",
   code: "ts",

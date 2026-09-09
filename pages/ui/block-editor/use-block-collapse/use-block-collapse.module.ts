@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const useBlockCollapse = {
   id: "01a05c7d-d06a-7b77-86c9-2c7e176a7012",
   pageTypeSlug: "module",
+  type: "module",
   slug: "use-block-collapse",
   definition:
     "which blocks are collapsed, and the toggles that shut them the first time they are seen",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageLandingJudge = {
   id: "01a0686e-6807-7002-99df-198a80301ced",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-landing-judge",
   definition: "which of the acts that land on a page land on a row of it",
   code: "ts",

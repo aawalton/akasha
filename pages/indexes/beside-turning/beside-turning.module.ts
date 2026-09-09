@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const besideTurning = {
   id: "01a079a7-c9d9-7936-a9d3-e002d3f8e708",
   pageTypeSlug: "module",
+  type: "module",
   slug: "beside-turning",
   definition: "the pages a change files again though the change has none of them",
   code: "ts",

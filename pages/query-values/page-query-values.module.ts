@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageQueryValues = {
   id: "01a0686e-6807-7004-b553-004544e7e12b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-query-values",
   definition: "the text, or the list of text, that one key of a page's values holds",
   code: "ts",

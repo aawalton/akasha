@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const sortResolve = {
   id: "01a05b69-4550-734f-b117-9948906f14a9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sort-resolve",
   definition: "the value a page row sorts by under one key",
   code: "ts",

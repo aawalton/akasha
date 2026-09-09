@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const indexing = {
   id: "01a04a62-b0ad-71cf-ae80-7af5dfb84ffd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "indexing",
   definition: "the index entries the pages imply",
   code: "ts",

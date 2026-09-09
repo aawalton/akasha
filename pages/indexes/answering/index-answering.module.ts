@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const indexAnswering = {
   id: "01a05eca-0849-789d-8118-1e8d7ae05244",
   pageTypeSlug: "module",
+  type: "module",
   slug: "index-answering",
   definition: "the index's answers bound to one reading, each asked without naming an index",
   code: "ts",

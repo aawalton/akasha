@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageEntryLanding = {
   id: "01a062a1-8add-7a0c-ad1f-760fd4c73c13",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-entry-landing",
   definition: "a page's entry values put on the disk beside that page",
   code: "ts",

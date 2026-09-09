@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageReading = {
   id: "01a05b1e-1347-77b8-9b46-d0b4f449e698",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-reading",
   definition: "the whole body standing at a path, and the commit it was read at",
   code: "ts",

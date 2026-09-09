@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageQueryNarrow = {
   id: "01a06876-e5ea-7001-86ce-58ce3040f4b6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-query-narrow",
   definition: "the tests a page query narrows by, read out of what a caller stated",
   code: "ts",

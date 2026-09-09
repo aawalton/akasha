@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const kindsGathering = {
   id: "01a0723b-ed99-778a-8adb-131a72c2cd98",
   pageTypeSlug: "module",
+  type: "module",
   slug: "kinds-gathering",
   definition:
     "the rows of one page type and of every page type under it, each worked against its own type",

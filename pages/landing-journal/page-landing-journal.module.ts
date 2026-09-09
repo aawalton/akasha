@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageLandingJournal = {
   id: "01a0686e-6807-7006-92df-5547fb44ef9f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-landing-journal",
   definition:
     "what a writer has queued to land, kept outside the checkout so another process can find it",

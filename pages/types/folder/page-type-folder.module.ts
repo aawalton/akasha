@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageTypeFolder = {
   id: "01a07690-d4cb-70b5-ab1b-698ad6ee2f09",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-type-folder",
   definition: "the folder a page type's pages sit in, made from its plural and its parent's name",
   code: "ts",

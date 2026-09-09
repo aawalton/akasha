@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const packageReaching = {
   id: "01a05ae4-fc70-7001-89b1-ea70915be49e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "package-reaching",
   definition: "where each specifier naming a package lands, read from the manifests standing",
   code: "ts",

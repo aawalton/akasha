@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageCalling = {
   id: "01a05e09-12dc-7b16-9bed-9d7b314f2d15",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-calling",
   definition: "the pages asked for and written over HTTP by whoever is not the workstation",
   code: "ts",

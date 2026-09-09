@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageComposing = {
   id: "01a05de9-57a4-7810-8d1f-402752b1598b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-composing",
   definition: "the values a caller hands over, made into a page and what it keeps beside it",
   code: "ts",

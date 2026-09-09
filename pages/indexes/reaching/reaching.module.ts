@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const reaching = {
   id: "01a04f4d-00d6-727f-b504-659312870b32",
   pageTypeSlug: "module",
+  type: "module",
   slug: "reaching",
   definition: "the page a name reaches, and the edges the names in a page imply",
   code: "ts",
