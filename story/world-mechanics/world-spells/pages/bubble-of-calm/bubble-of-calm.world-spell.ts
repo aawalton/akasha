@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const bubbleOfCalm = {
   id: "01a06572-95b7-79d7-b599-10ed52d64268",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "bubble-of-calm",
   title: "Bubble of Calm",
   world: "the-wandering-inn",

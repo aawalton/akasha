@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const causticAcidOrb = {
   id: "01a06572-95b8-7e46-ab70-95614f9346da",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "caustic-acid-orb",
   title: "Caustic Acid Orb",
   world: "the-wandering-inn",

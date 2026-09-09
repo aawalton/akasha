@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const dimensionalLock = {
   id: "01a06572-95bd-727b-8036-77f21a91c109",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "dimensional-lock",
   title: "Dimensional Lock",
   world: "the-wandering-inn",

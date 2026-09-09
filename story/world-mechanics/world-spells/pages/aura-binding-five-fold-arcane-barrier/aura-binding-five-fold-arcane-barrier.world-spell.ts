@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const auraBindingFiveFoldArcaneBarrier = {
   id: "01a06572-95b5-76ab-ba0d-666ae4ef6306",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "aura-binding-five-fold-arcane-barrier",
   title: "Aura Binding: Five-fold Arcane Barrier",
   world: "the-wandering-inn",

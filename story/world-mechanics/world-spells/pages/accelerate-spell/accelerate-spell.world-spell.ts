@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const accelerateSpell = {
   id: "01a06572-95b3-7590-9dda-d12bb232b6a2",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "accelerate-spell",
   title: "Accelerate Spell",
   world: "the-wandering-inn",

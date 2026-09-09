@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const acidWave = {
   id: "01a06572-95b3-7abe-8e04-8196001411c7",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "acid-wave",
   title: "Acid Wave",
   world: "the-wandering-inn",

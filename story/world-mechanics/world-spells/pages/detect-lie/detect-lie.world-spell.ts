@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const detectLie = {
   id: "01a06572-95bc-7ecc-b7d4-1dbc586d5758",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "detect-lie",
   title: "Detect Lie",
   world: "the-wandering-inn",

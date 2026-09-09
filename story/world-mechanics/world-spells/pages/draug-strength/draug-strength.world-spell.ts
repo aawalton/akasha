@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const draugStrength = {
   id: "01a06572-95be-731c-ab30-09d480c5547f",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "draug-strength",
   title: "Draug Strength",
   world: "the-wandering-inn",
