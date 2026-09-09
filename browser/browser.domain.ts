@@ -7,7 +7,7 @@ export const browser = {
   definition: "a browser driven from code, and what is kept of a run",
   parts: [
     "domain/browser-commands",
-    "workspace-package/browser-launch-env",
+    "domain/browser-launch-env",
     "workspace-package/browser-test-harness",
   ],
 } as const satisfies Domain

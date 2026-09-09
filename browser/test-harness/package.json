@@ -14,7 +14,6 @@
     "./worktree-git-facts": "./worktree-git-facts/worktree-git-facts.module.code.ts"
   },
   "dependencies": {
-    "@akasha/browser-launch-env": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "zod": "^4.3.6"

@@ -9,7 +9,6 @@
     "./*": "./*"
   },
   "dependencies": {
-    "@akasha/browser-launch-env": "workspace:*",
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/changes": "workspace:*",
     "@akasha/comfy": "workspace:*",

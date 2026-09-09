@@ -5,7 +5,6 @@
     "": {
       "name": "akasha",
       "dependencies": {
-        "@akasha/browser-launch-env": "workspace:*",
         "@akasha/browser-test-harness": "workspace:*",
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
@@ -530,13 +529,9 @@
         "vite": "^8.0.3",
       },
     },
-    "browser/launch-env": {
-      "name": "@akasha/browser-launch-env",
-    },
     "browser/test-harness": {
       "name": "@akasha/browser-test-harness",
       "dependencies": {
-        "@akasha/browser-launch-env": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@supabase/supabase-js": "^2.104.0",
         "zod": "^4.3.6",
@@ -2741,8 +2736,6 @@
     "@akasha/book-of-everything": ["@akasha/book-of-everything@workspace:alan/library/book-of-everything"],
 
     "@akasha/book-of-everything-commands": ["@akasha/book-of-everything-commands@workspace:alan/library/book-of-everything/commands"],
-
-    "@akasha/browser-launch-env": ["@akasha/browser-launch-env@workspace:browser/launch-env"],
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:browser/test-harness"],
 

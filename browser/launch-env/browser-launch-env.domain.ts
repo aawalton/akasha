@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const browserLaunchEnv = {
   id: "01a05c48-deeb-7003-a5da-3a33a507b7c8",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "browser-launch-env",
   definition: "the environment a browser is started with",
-  manifest: "json",
   parts: ["module/launch-env"],
   invariants: [
     {
@@ -13,4 +12,4 @@ export const browserLaunchEnv = {
       statement: "Nothing here starts a browser.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

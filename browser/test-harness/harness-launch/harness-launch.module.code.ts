@@ -1,6 +1,6 @@
-import { buildBrowserLaunchEnv } from "@akasha/browser-launch-env"
 import { signInWithPassword } from "@akasha/supabase-auth/auth"
 import { createClient } from "@supabase/supabase-js"
+import { buildBrowserLaunchEnv } from "akasha/browser/launch-env/launch-env/launch-env.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 import {
   type ConsoleCapture,
