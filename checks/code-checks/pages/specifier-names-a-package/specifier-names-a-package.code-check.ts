@@ -10,7 +10,7 @@ export const specifierNamesAPackage = {
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
@@ -67,12 +67,12 @@ export const specifierNamesAPackage = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This check runs at audit because the body that strands is not the body a fold carries.",
+      statement: "This check judges on no phase until Alan has approved it.\n",
     },
     {
       invariantKind: "departure",
-      statement: "Audit hands every body over, and that reach is what this check is for.",
+      statement:
+        "Audit is the phase this check is for, as the body that strands is no body a fold carries.\n",
     },
     {
       invariantKind: "absence",
