@@ -1120,6 +1120,9 @@
     "temper/lib-debug-logger": {
       "name": "@akasha/temper-lib-debug-logger",
     },
+    "temper/lib-extended-journal": {
+      "name": "@akasha/temper-lib-extended-journal",
+    },
     "temper/lib-gps": {
       "name": "@akasha/temper-lib-gps",
     },
@@ -1327,9 +1330,6 @@
       "dependencies": {
         "@akasha/temper-settings-panel": "workspace:*",
       },
-    },
-    "temper/temper-lib-extended-journal": {
-      "name": "@akasha/temper-lib-extended-journal",
     },
     "temper/temper-lib-histoire": {
       "name": "@akasha/temper-lib-histoire",
@@ -1653,7 +1653,7 @@
 
     "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:temper/lib-debug-logger"],
 
-    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:temper/temper-lib-extended-journal"],
+    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:temper/lib-extended-journal"],
 
     "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/lib-gps"],
 
