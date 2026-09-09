@@ -11,7 +11,9 @@ const DOMAIN = "domain"
 
 const PART_SLUGS = "part-slugs"
 
-const PARTS = "partSlugs"
+const PARTS = "parts"
+
+const WAS_PARTS = "partSlugs"
 
 const THE_WHOLE = "akasha"
 
@@ -45,8 +47,13 @@ const UNDER_DOMAIN: Selector<Paged> = {
 }
 
 function partsOf(value: Value | null): readonly string[] {
-  const held = value === null ? null : value[PARTS]
+  const held = value === null ? null : (value[PARTS] ?? value[WAS_PARTS])
   return held === null || held === undefined ? [] : namesIn(held)
+}
+
+function namersOf(shadow: Shadow, id: string): readonly string[] {
+  const held = shadow.index.idsNaming(id, PARTS)
+  return held.length === 0 ? shadow.index.idsNaming(id, PART_SLUGS) : held
 }
 
 function partsWere(change: Change, path: string): readonly string[] {
@@ -90,7 +97,7 @@ function loops(shadow: Shadow, settled: Map<string, boolean>, from: string): boo
     if (seen.has(at)) break
     seen.add(at)
     climbing.push(at)
-    const above = shadow.index.idsNaming(at, PART_SLUGS)[0]
+    const above = namersOf(shadow, at)[0]
     if (above === undefined) {
       ended = false
       break
@@ -111,7 +118,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const judge = (path: string, id: string, shown: string): undefined => {
     if (judged.has(path)) return
     judged.add(path)
-    const namers = shadow.index.idsNaming(id, PART_SLUGS)
+    const namers = namersOf(shadow, id)
     if (namers.length === 0) {
       said.push({ path, reason: reasonFor(shown) })
       return

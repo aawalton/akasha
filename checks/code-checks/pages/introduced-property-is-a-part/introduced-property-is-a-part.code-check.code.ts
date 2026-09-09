@@ -15,7 +15,9 @@ const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
 
-const PARTS = "partSlugs"
+const PARTS = "parts"
+
+const WAS_PARTS = "partSlugs"
 
 const ABOVE = "extends"
 
@@ -67,7 +69,7 @@ export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
 }
 
 export function partedIn(value: Value | null): ReadonlySet<string> {
-  const held = value === null ? null : value[PARTS]
+  const held = value === null ? null : (value[PARTS] ?? value[WAS_PARTS])
   const found = new Set<string>()
   if (held === null || held === undefined) return found
   for (const said of namesIn(held)) found.add(addressedIn(said))

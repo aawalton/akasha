@@ -53,6 +53,8 @@ const SCRIPTS = "scripts"
 
 const PLURAL_SLUG = "pluralSlug"
 
+const PARTS = "parts"
+
 const PART_SLUGS = "partSlugs"
 
 const PART_OF_COLLECTION_SLUGS = "partOfCollectionSlugs"
@@ -277,7 +279,7 @@ export function pairedIn(pages: readonly Held[]): readonly Held[] {
 function declaredBy(index: Answering, page: Held | undefined): readonly string[] {
   if (page === undefined || page.slug === null || page.pageTypeSlug === null) return []
   const value = index.pageAt(page.pageTypeSlug, page.slug)
-  return value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])
+  return value === null ? [] : (textsAt(value, PARTS) ?? textsAt(value, PART_SLUGS) ?? [])
 }
 
 function identityOf(page: Held | undefined): readonly string[] {
@@ -310,7 +312,7 @@ export function holdingOver(
         names: plural === null ? [page.slug] : [page.slug, plural],
         holds: [...identityOf(paired[0]), ...identityOf(paired[1])],
         declared: new Set<string>([
-          ...(value === null ? [] : (textsAt(value, PART_SLUGS) ?? [])),
+          ...(value === null ? [] : (textsAt(value, PARTS) ?? textsAt(value, PART_SLUGS) ?? [])),
           ...declaredBy(index, paired[1]),
         ]),
       }
