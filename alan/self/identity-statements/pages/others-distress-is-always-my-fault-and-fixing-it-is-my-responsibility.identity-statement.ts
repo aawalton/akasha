@@ -11,6 +11,6 @@ export const othersDistressIsAlwaysMyFaultAndFixingItIsMyResponsibility = {
   identityStatementRank: "d-rank",
   replacedByStatements: ["others-distress-is-not-my-fault-and-fixing-it-is-not-my-responsibility"],
   identityStatementStatus: "deprecated",
-  identityStatementValueSlug: "love",
+  identityStatementValue: "love",
   icon: "file-text",
 } as const satisfies IdentityStatement

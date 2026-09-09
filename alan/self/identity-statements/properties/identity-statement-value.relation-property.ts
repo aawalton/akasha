@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type IdentityStatementValueSlug = Slug
+export type IdentityStatementValue = Slug
 
-export const identityStatementValueSlug = {
+export const identityStatementValue = {
   id: "01a0658a-739f-7952-921f-4eb125f1399c",
   pageTypeSlug: "relation-property",
-  slug: "identity-statement-value-slug",
-  propertySlug: "identity-statement-value-slug",
+  slug: "identity-statement-value",
+  propertySlug: "identity-statement-value",
   definition: "the value the statement serves",
   targetPageTypeSlug: "page-type/value",
 } as const satisfies RelationProperty

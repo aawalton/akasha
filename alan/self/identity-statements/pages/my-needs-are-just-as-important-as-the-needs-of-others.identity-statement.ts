@@ -11,6 +11,6 @@ export const myNeedsAreJustAsImportantAsTheNeedsOfOthers = {
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
-  identityStatementValueSlug: "love",
+  identityStatementValue: "love",
   icon: "file-text",
 } as const satisfies IdentityStatement

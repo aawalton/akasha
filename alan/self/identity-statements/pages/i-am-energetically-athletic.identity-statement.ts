@@ -12,6 +12,6 @@ export const iAmEnergeticallyAthletic = {
   replacesStatements: ["i-am-functionally-stable"],
   identityStatementStatus: "in-progress",
   identityStatementTags: ["move"],
-  identityStatementValueSlug: "health",
+  identityStatementValue: "health",
   icon: "file-text",
 } as const satisfies IdentityStatement

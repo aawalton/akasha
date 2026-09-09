@@ -15,6 +15,6 @@ export const myPsychologicalGenderIs80Masculine = {
     "masculinity-has-a-light-side-as-well-as-a-dark-side",
   ],
   identityStatementTags: ["gender"],
-  identityStatementValueSlug: "faith",
+  identityStatementValue: "faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

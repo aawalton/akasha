@@ -12,6 +12,6 @@ export const iEatWhateverIsEasiest = {
   replacedByStatements: ["i-am-whole-food-plant-based"],
   identityStatementStatus: "deprecated",
   identityStatementTags: ["eat"],
-  identityStatementValueSlug: "health",
+  identityStatementValue: "health",
   icon: "file-text",
 } as const satisfies IdentityStatement

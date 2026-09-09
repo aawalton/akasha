@@ -19,6 +19,6 @@ export const iAmWholeFoodPlantBased = {
     "i-dont-mind-dairy",
   ],
   identityStatementTags: ["eat"],
-  identityStatementValueSlug: "health",
+  identityStatementValue: "health",
   icon: "file-text",
 } as const satisfies IdentityStatement

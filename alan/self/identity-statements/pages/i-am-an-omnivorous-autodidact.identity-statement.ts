@@ -11,6 +11,6 @@ export const iAmAnOmnivorousAutodidact = {
   identityStatementRank: "b-rank",
   replacedByStatements: ["i-am-a-prolific-polymath"],
   identityStatementStatus: "deprecated",
-  identityStatementValueSlug: "learn",
+  identityStatementValue: "learn",
   icon: "file-text",
 } as const satisfies IdentityStatement

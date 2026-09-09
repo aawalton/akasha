@@ -11,6 +11,6 @@ export const iAmANomadicEscapist = {
   identityStatementRank: "c-rank",
   replacedByStatements: ["i-am-a-playful-creator"],
   identityStatementStatus: "deprecated",
-  identityStatementValueSlug: "fun",
+  identityStatementValue: "fun",
   icon: "file-text",
 } as const satisfies IdentityStatement

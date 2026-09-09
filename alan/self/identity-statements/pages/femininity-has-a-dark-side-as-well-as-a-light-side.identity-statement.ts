@@ -12,6 +12,6 @@ export const femininityHasADarkSideAsWellAsALightSide = {
   identityStatementRank: "s-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["gender"],
-  identityStatementValueSlug: "faith",
+  identityStatementValue: "faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

@@ -11,6 +11,6 @@ export const iAmRepulsedByTheAggressiveAndThreateningNatureOfStereotypical = {
   identityStatementRank: "d-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["attraction"],
-  identityStatementValueSlug: "love",
+  identityStatementValue: "love",
   icon: "file-text",
 } as const satisfies IdentityStatement

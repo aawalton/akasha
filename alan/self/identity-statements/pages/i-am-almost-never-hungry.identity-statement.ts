@@ -12,6 +12,6 @@ export const iAmAlmostNeverHungry = {
   replacedByStatements: ["i-am-content-when-i-am-80-full"],
   identityStatementStatus: "current",
   identityStatementTags: ["eat"],
-  identityStatementValueSlug: "health",
+  identityStatementValue: "health",
   icon: "file-text",
 } as const satisfies IdentityStatement

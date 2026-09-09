@@ -11,6 +11,6 @@ export const iAmUnusuallyIntelligent = {
   identityStatementRank: "b-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
-  identityStatementValueSlug: "faith",
+  identityStatementValue: "faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

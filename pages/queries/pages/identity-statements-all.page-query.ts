@@ -11,6 +11,6 @@ export const identityStatementsAll = {
     "identityStatementRank",
     "about",
     "identityStatementLevel",
-    "identityStatementValueSlug",
+    "identityStatementValue",
   ],
 } as const satisfies PageQuery

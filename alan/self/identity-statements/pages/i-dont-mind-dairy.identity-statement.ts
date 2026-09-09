@@ -11,6 +11,6 @@ export const iDontMindDairy = {
   identityStatementRank: "b-rank",
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
-  identityStatementValueSlug: "health",
+  identityStatementValue: "health",
   icon: "file-text",
 } as const satisfies IdentityStatement

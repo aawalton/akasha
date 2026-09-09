@@ -12,6 +12,6 @@ export const iAmAnOmniSensoryAndEmotionalAphant = {
   identityStatementRank: "a-rank",
   identityStatementStatus: "current",
   identityStatementTags: ["neurodiversity"],
-  identityStatementValueSlug: "faith",
+  identityStatementValue: "faith",
   icon: "file-text",
 } as const satisfies IdentityStatement

@@ -11,6 +11,6 @@ export const iAmFullyIntegrated = {
   identityStatementRank: "a-rank",
   replacesStatements: ["i-am-conceptually-anchored"],
   identityStatementStatus: "planned",
-  identityStatementValueSlug: "faith",
+  identityStatementValue: "faith",
   icon: "file-text",
 } as const satisfies IdentityStatement
