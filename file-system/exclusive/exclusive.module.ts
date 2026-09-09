@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const exclusive = {
   id: "01a05cb3-7cca-7c81-8846-ff73179e6498",
   pageTypeSlug: "module",
+  type: "module",
   slug: "exclusive",
   definition: "the turn one process takes over a path while it acts on it",
   code: "ts",

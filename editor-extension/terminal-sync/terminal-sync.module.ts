@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const terminalSync = {
   id: "01a06811-01d3-7007-b8c1-0a170c1070e7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "terminal-sync",
   definition: "the name and the color a terminal is given for the seat in it",
   code: "ts",

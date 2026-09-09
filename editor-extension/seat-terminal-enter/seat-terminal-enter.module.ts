@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const seatTerminalEnter = {
   id: "01a07810-d1a0-7a18-9605-db774e7b7fc2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-terminal-enter",
   definition: "the submit key pressed in a seat's terminal, passed on and marked as a message",
   code: "ts",

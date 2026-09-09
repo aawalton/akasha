@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const subagentCore = {
   id: "01a064f0-734e-7c00-b4ef-b9db7fa30feb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "subagent-core",
   definition: "the subagents a session's records show running",
   code: "ts",

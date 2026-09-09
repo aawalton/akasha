@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const treeDescription = {
   id: "01a081eb-4c68-74d1-b315-5777eb9c2046",
   pageTypeSlug: "module",
+  type: "module",
   slug: "tree-description",
   definition: "what a panel says beside its title of how many rows that panel drew",
   code: "ts",

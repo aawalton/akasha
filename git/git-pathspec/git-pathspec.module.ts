@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitPathspec = {
   id: "01a068ae-fd9c-7001-ba59-e2b9fc02888f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-pathspec",
   definition:
     "git asked and told about many paths at once, under the ceiling one command line takes",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitCommitting = {
   id: "01a068ae-fd9c-7002-a92c-6db5c1336239",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-committing",
   definition: "named paths committed as one author, waiting out the index lock other writers take",
   code: "ts",

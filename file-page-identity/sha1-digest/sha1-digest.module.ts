@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const sha1Digest = {
   id: "01a05d42-bbcb-7988-8b8e-e0a7b0f48b07",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sha1-digest",
   definition: "the sha1 digest of some bytes, worked out in TypeScript and nothing else",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const workTreePanel = {
   id: "01a06867-dbcc-7879-ad46-099350c0a109",
   pageTypeSlug: "module",
+  type: "module",
   slug: "work-tree-panel",
   definition: "the Work panel brought up, and the initiatives drawn into it from one file",
   code: "ts",

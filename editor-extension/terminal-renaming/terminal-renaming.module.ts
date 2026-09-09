@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const terminalRenaming = {
   id: "01a06811-01d3-7008-a808-17b815c1fd1f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "terminal-renaming",
   definition: "the naming that puts every terminal on its seat, and what sets one going",
   code: "ts",

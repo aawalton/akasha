@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const pageTreeReading = {
   id: "01a06867-dbcb-7300-9560-2f216f804af7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-tree-reading",
   definition: "how many rows a page tree holds and how many of them open a document",
   code: "ts",

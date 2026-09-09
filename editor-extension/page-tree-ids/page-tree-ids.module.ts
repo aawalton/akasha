@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const pageTreeIds = {
   id: "01a064c8-9a9c-7e5f-b6da-e2f88bc5c4c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-tree-ids",
   definition: "the strings the editor knows the page tree's view and refresh command by",
   code: "ts",

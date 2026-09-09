@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const commandTreeView = {
   id: "01a07c94-33b9-7ddc-97b7-5878bb0f8a07",
   pageTypeSlug: "module",
+  type: "module",
   slug: "command-tree-view",
   definition: "the rows the editor asks for of the command tree and what each row is drawn as",
   code: "ts",

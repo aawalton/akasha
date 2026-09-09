@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const turnColorScheme = {
   id: "01a0680b-7175-7000-bad0-dd03b18ea236",
   pageTypeSlug: "module",
+  type: "module",
   slug: "turn-color-scheme",
   definition: "the color a turn path is drawn in and the sentence a turn state reads as",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const subagentReading = {
   id: "01a0686b-bfe9-77b0-aecf-6c31f4ae928a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "subagent-reading",
   definition:
     "the subagents running under each seat, folded out of the bytes each transcript gained",

@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const subagentCheckpoints = {
   id: "01a0686b-bfe9-752c-8f69-90fe541e5755",
   pageTypeSlug: "module",
+  type: "module",
   slug: "subagent-checkpoints",
   definition:
     "where a seat's fold was banked, with the bytes that say the file still reads that way",

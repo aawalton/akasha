@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const seatTabContext = {
   id: "01a0686b-bfe9-74a9-988e-2d1c89ebe36f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-tab-context",
   definition: "the terminal tabs a seat is in, published as the contexts a menu reads",
   code: "ts",

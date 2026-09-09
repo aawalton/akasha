@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const commandsServed = {
   id: "01a06a01-acd1-7e50-9625-c26fe1fb1044",
   pageTypeSlug: "module",
+  type: "module",
   slug: "commands-served",
   definition: "which commands the held-open server answers, and how stale what answers may get",
   code: "ts",

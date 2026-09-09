@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const porcelainStatus = {
   id: "01a06816-2f10-7f63-bec8-aabc4cd78c0b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "porcelain-status",
   definition: "the machine-readable status git prints, and the entries read out of it",
   code: "ts",

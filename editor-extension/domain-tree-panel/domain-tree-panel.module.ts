@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const domainTreePanel = {
   id: "01a06867-dbcb-7dfc-899e-b45619e04890",
   pageTypeSlug: "module",
+  type: "module",
   slug: "domain-tree-panel",
   definition: "the Domains panel brought up, and the domains drawn into it from one file",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const seatObservations = {
   id: "01a0680d-8b1a-7000-abf8-16f7ab595a99",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-observations",
   definition: "what each feature was last seen doing, and the key saying two readings differ",
   code: "ts",

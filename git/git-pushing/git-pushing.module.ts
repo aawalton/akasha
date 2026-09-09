@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitPushing = {
   id: "01a068ae-fd9c-7003-9693-a93bade6fb89",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-pushing",
   definition:
     "the branch pushed to the remote it tracks, saying plainly what a failure did and did not cost",

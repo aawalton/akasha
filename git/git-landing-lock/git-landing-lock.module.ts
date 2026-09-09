@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitLandingLock = {
   id: "01a068ae-fd9c-7000-b1a4-27f1d42e2a33",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-landing-lock",
   definition:
     "one landing at a time in a checkout, serialised on a lock file beside the git common directory",

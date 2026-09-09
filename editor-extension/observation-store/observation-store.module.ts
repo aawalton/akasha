@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const observationStore = {
   id: "01a0680d-8b48-7000-aaf0-e6ce2670d86b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "observation-store",
   definition:
     "each feature's last observation held for one window, and the settled write that lands it",

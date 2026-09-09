@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const seatMode = {
   id: "01a064c8-9a9c-7a5f-8924-880a9eff5f02",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-mode",
   definition: "the two ways a seat runs, and the zod schema admitting one",
   code: "ts",

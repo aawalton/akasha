@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const workTreeView = {
   id: "01a06867-dbcb-79d0-8994-08ee6fe57d12",
   pageTypeSlug: "module",
+  type: "module",
   slug: "work-tree-view",
   definition: "the rows the editor asks for of the work tree and the color each row is drawn in",
   code: "ts",

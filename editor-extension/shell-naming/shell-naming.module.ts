@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const shellNaming = {
   id: "01a072c8-44bf-7715-ac61-a04e16e5f422",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shell-naming",
   definition: "the name of the program a pid is running",
   code: "ts",

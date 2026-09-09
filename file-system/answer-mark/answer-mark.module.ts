@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const answerMark = {
   id: "01a05cb3-7cca-73df-aa84-7bd0d93da845",
   pageTypeSlug: "module",
+  type: "module",
   slug: "answer-mark",
   definition: "the one name a kind and a subject and a runtime and a set of inputs hash down to",
   code: "ts",

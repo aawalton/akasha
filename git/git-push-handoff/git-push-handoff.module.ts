@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitPushHandoff = {
   id: "01a068b3-8055-7000-b301-1ef5cf968dde",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-push-handoff",
   definition:
     "the push handed to a background process, so a landing reports without waiting on the network",

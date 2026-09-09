@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const observationMerging = {
   id: "01a0680d-8b27-7000-b34e-0480ba0f1ccb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "observation-merging",
   definition:
     "one observation folded onto the last, and the worst sweep kept across every sweep so far",

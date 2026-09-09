@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const answerKeeping = {
   id: "01a05cb3-7cca-755d-8ec0-66cd112b7c85",
   pageTypeSlug: "module",
+  type: "module",
   slug: "answer-keeping",
   definition:
     "an answer written under the git directory and found again by the key it was filed under",

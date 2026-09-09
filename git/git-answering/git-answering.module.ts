@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitAnswering = {
   id: "01a06816-2f10-79aa-bee4-b5831ee0eaca",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-answering",
   definition: "a git command run without a throw, and the code and both streams it answered",
   code: "ts",

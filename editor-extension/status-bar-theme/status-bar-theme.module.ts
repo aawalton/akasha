@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const statusBarTheme = {
   id: "01a064c8-9a9c-7a35-9db1-b8f1d3cbf839",
   pageTypeSlug: "module",
+  type: "module",
   slug: "status-bar-theme",
   definition:
     "the two colors the status bar's usage slots take and the color and glyph a separator takes",

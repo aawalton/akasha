@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const workTreeDragging = {
   id: "01a081e8-84f4-78f4-89ef-3f3d801114cb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "work-tree-dragging",
   definition: "the row dragged in the work tree read as one intent's new place",
   code: "ts",

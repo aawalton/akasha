@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const seatTerminals = {
   id: "01a0686b-bfe9-73ac-9c09-182376783320",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-terminals",
   definition:
     "which of this window's terminals a seat is working in, and which column each sits in",
