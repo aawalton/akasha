@@ -1,9 +1,12 @@
-import { type CatalogWalkVerdict, runCatalogWalk } from "@akasha/temper-catalog-core/catalog-walk"
+import {
+  type CatalogWalkVerdict,
+  runCatalogWalk,
+} from "../../catalog-core/catalog-walk/catalog-walk.module.code.ts"
 import {
   type CatalogDomainEntry,
   getCatalogDomains,
-} from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import {
   hasCollectedDomain,
   logLine,

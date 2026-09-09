@@ -2,12 +2,12 @@ import "@akasha/temper-eso-types/eso-enums-04"
 import "@akasha/temper-eso-types/eso-functions-06"
 import "@akasha/temper-eso-types/eso-globals"
 
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   ScribingCatalogGrimoire,
   ScribingCatalogScript,
 } from "akasha/temper/capture-shapes/scribing-catalog/scribing-catalog.module.code.ts"
+import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 export const SCRIBING_SLOTS = [
   SCRIBING_SLOT_PRIMARY,

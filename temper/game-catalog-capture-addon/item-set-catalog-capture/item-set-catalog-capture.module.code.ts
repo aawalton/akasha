@@ -4,14 +4,17 @@ import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/eso-globals"
 
-import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-config"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,
 } from "akasha/temper/capture-shapes/item-set-catalog/item-set-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
+import {
+  BATCH_DELAY,
+  BATCH_SIZE,
+} from "../../catalog-core/batch-config/batch-config.module.code.ts"
+import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string
   subcategoryName?: string

@@ -2,13 +2,13 @@ import "@akasha/temper-eso-types/eso-functions-05"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
   LoreLibraryCatalogCollection,
 } from "akasha/temper/capture-shapes/lore-library-catalog/lore-library-catalog.module.code.ts"
+import { registerCatalogDomain } from "../../catalog-core/domain-registry/domain-registry.module.code.ts"
+import { getSavedVariables } from "../../catalog-core/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
 const COLLECTION_BOOK_PROBE_CEILING = 100
 

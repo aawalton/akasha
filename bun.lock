@@ -966,6 +966,9 @@
         "@akasha/temper-catalog-core": "workspace:*",
       },
     },
+    "temper/catalog-core": {
+      "name": "@akasha/temper-catalog-core",
+    },
     "temper/character-sources": {
       "name": "@akasha/temper-character-sources",
       "dependencies": {
@@ -1201,9 +1204,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/temper-catalog-core": {
-      "name": "@akasha/temper-catalog-core",
-    },
     "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
     },
@@ -1429,7 +1429,7 @@
 
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 
-    "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/temper-catalog-core"],
+    "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/catalog-core"],
 
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:temper/character-sources"],
 

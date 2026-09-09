@@ -1,4 +1,4 @@
-import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
+import { CATALOG_DOMAIN_KEYS } from "../../../../../temper/catalog-core/domain-keys/domain-keys.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 
 const JSON_FLAG = "--json"
