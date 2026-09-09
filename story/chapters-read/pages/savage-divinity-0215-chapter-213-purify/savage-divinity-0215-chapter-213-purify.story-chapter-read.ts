@@ -8,7 +8,7 @@ export const savageDivinity0215Chapter213Purify = {
   story: "savage-divinity",
   position: 215,
   ownLength: 3618,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/139463/chapter-213-purify",

@@ -8,7 +8,7 @@ export const savageDivinity0311Chapter304Dichotomy = {
   story: "savage-divinity",
   position: 311,
   ownLength: 3106,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/197278/chapter-304-dichotomy",

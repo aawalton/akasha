@@ -8,7 +8,7 @@ export const savageDivinity0240Chapter233Introspection = {
   story: "savage-divinity",
   position: 240,
   ownLength: 2821,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/152223/chapter-233-introspection",

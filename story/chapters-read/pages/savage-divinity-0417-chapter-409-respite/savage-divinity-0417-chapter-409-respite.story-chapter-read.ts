@@ -8,7 +8,7 @@ export const savageDivinity0417Chapter409Respite = {
   story: "savage-divinity",
   position: 417,
   ownLength: 3514,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/325469/chapter-409-respite",

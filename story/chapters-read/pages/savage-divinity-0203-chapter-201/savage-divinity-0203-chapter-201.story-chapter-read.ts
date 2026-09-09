@@ -8,7 +8,7 @@ export const savageDivinity0203Chapter201 = {
   story: "savage-divinity",
   position: 203,
   ownLength: 2997,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-05-01",
   externalLink: "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/133469/chapter-201",
   externalId: "133469",

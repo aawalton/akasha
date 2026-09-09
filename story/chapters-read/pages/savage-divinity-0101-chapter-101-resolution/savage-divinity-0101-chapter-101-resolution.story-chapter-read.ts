@@ -8,7 +8,7 @@ export const savageDivinity0101Chapter101Resolution = {
   story: "savage-divinity",
   position: 101,
   ownLength: 3430,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/84700/chapter-101-resolution",

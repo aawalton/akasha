@@ -8,7 +8,7 @@ export const savageDivinity0118Chapter118Baptism = {
   story: "savage-divinity",
   position: 118,
   ownLength: 3746,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/92650/chapter-118-baptism",

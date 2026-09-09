@@ -8,7 +8,7 @@ export const savageDivinity0079Chapter79Trials = {
   story: "savage-divinity",
   position: 79,
   ownLength: 3647,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/75360/chapter-79-trials",

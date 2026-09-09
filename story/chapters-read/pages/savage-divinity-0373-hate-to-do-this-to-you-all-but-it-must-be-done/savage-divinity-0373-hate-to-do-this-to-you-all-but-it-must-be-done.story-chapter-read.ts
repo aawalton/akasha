@@ -8,7 +8,7 @@ export const savageDivinity0373HateToDoThisToYouAllButItMustBeDone = {
   story: "savage-divinity",
   position: 373,
   ownLength: 172,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/284458/hate-to-do-this-to-you-all-but-it-must-be-done",

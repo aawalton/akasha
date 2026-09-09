@@ -8,7 +8,7 @@ export const savageDivinity0292Chapter285Sojourn = {
   story: "savage-divinity",
   position: 292,
   ownLength: 3347,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/185899/chapter-285-sojourn",

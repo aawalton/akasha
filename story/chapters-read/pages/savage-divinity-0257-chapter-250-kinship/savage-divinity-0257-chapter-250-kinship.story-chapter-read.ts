@@ -8,7 +8,7 @@ export const savageDivinity0257Chapter250Kinship = {
   story: "savage-divinity",
   position: 257,
   ownLength: 3703,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-09-22",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/163593/chapter-250-kinship",

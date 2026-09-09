@@ -8,7 +8,7 @@ export const savageDivinity0195Chapter193Turmoil = {
   story: "savage-divinity",
   position: 195,
   ownLength: 3048,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/129130/chapter-193-turmoil",

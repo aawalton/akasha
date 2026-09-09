@@ -8,7 +8,7 @@ export const savageDivinity0161Chapter159Purge = {
   story: "savage-divinity",
   position: 161,
   ownLength: 3253,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/111728/chapter-159-purge",

@@ -8,7 +8,7 @@ export const savageDivinity0382Chapter374Revelation = {
   story: "savage-divinity",
   position: 382,
   ownLength: 3794,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/290159/chapter-374-revelation",
