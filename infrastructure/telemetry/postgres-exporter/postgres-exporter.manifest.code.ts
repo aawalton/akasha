@@ -2,7 +2,7 @@ import {
   postgresExporterDeploymentYaml,
   postgresExporterQueriesConfigmapYaml,
   postgresExporterServiceYaml,
-} from "./modules/postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts"
+} from "./modules/manifests/postgres-exporter-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
