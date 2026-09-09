@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftWhiteBlankPage = {
   id: "019ea416-4627-7c2f-8c8b-a96936c46f3f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-white-blank-page",
   title: "White Blank Page",
   artist: "taylor-swift",

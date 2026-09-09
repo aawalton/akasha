@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftWhoSAfraidOfLittleOldMe = {
   id: "019ea416-4ba9-78fe-8ff8-d52b1dd86cee",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-who-s-afraid-of-little-old-me",
   title: "Who’s Afraid of Little Old Me?",
   artist: "taylor-swift",

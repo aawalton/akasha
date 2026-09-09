@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonDonTLetMeBeYours = {
   id: "019ea49e-9d9d-7afb-b485-9af1a7a5aed6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-don-t-let-me-be-yours",
   title: "Don’t Let Me Be Yours",
   artist: "zara-larsson",

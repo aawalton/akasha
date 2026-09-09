@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheVeryFirstNight = {
   id: "019ea416-48b8-7915-9ef5-da87f3a00489",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-very-first-night",
   title: "The Very First Night",
   artist: "taylor-swift",

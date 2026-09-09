@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftThisIsWhatYouCameFor = {
   id: "019ea416-42bb-7092-b39f-980eef6735e8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-this-is-what-you-came-for",
   title: "This Is What You Came For",
   artist: "taylor-swift",

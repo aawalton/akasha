@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftWildestDreams = {
   id: "019ea416-4352-7c35-9511-fa84cfde4400",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-wildest-dreams",
   title: "Wildest Dreams",
   artist: "taylor-swift",

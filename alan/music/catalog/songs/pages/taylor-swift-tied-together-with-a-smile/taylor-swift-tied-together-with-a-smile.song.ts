@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTiedTogetherWithASmile = {
   id: "019ea416-4402-72a7-9e6b-270da6c1fd44",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-tied-together-with-a-smile",
   title: "Tied Together With a Smile",
   artist: "taylor-swift",

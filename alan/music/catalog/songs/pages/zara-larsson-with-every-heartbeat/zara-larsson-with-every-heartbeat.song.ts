@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonWithEveryHeartbeat = {
   id: "019ea49f-c0e1-710b-b59f-d2fe0e751ffa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-with-every-heartbeat",
   title: "With Every Heartbeat",
   artist: "zara-larsson",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonTheyHeardIWasGood = {
   id: "019ea49e-cf24-739b-bcdc-c87c6266dadc",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-they-heard-i-was-good",
   title: "They Heard I Was Good",
   artist: "zara-larsson",

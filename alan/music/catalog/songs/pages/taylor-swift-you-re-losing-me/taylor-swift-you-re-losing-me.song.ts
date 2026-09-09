@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftYouReLosingMe = {
   id: "019ea416-468f-7909-9f63-6527a5a40cfa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-you-re-losing-me",
   title: "You’re Losing Me",
   artist: "taylor-swift",

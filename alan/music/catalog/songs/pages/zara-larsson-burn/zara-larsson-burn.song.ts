@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonBurn = {
   id: "019ea49f-acd2-757e-bcfe-a68ac48b1a0b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-burn",
   title: "Burn",
   artist: "zara-larsson",

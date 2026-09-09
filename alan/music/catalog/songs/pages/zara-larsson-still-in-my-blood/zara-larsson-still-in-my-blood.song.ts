@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonStillInMyBlood = {
   id: "019ea49e-aced-7fff-ab52-fcf41bfc56d6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-still-in-my-blood",
   title: "Still in My Blood",
   artist: "zara-larsson",

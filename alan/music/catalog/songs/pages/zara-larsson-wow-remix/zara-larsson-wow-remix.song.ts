@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonWowRemix = {
   id: "019ea4a2-b6fa-70db-936e-f9a3ef30e013",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-wow-remix",
   title: "WOW (remix)",
   artist: "zara-larsson",

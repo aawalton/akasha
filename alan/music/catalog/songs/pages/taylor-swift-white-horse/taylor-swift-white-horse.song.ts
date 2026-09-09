@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftWhiteHorse = {
   id: "019ea416-4b42-7adf-b3c6-d61026d8303e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-white-horse",
   title: "White Horse",
   artist: "taylor-swift",

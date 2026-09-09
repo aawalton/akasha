@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTwoIsBetterThanOne = {
   id: "019ea416-4505-790f-a1c7-8bf115744da6",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-two-is-better-than-one",
   title: "Two Is Better Than One",
   artist: "taylor-swift",

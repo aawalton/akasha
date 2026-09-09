@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheSmallestManWhoEverLived = {
   id: "019ea416-38e7-798f-9762-bc4df8219861",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-smallest-man-who-ever-lived",
   title: "The Smallest Man Who Ever Lived",
   artist: "taylor-swift",

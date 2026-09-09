@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTisTheDamnSeason = {
   id: "019ea416-1087-7d53-be98-2db273b522f7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-tis-the-damn-season",
   title: "‘tis the damn season",
   artist: "taylor-swift",

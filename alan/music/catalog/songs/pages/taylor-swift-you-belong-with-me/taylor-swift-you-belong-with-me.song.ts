@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftYouBelongWithMe = {
   id: "019ea416-456d-79b3-9f81-296b185f8212",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-you-belong-with-me",
   title: "You Belong with Me",
   artist: "taylor-swift",

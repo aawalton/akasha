@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftThereSYourTrouble = {
   id: "019ea416-479e-7a92-a826-b455a71e8e0c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-there-s-your-trouble",
   title: "There’s Your Trouble",
   artist: "taylor-swift",

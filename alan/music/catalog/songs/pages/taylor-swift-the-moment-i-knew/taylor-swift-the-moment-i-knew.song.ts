@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheMomentIKnew = {
   id: "019ea416-36b0-7e08-9dc6-37e339d1fa0c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-moment-i-knew",
   title: "The Moment I Knew",
   artist: "taylor-swift",

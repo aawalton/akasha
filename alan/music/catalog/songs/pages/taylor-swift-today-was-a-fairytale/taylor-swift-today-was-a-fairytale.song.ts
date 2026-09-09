@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTodayWasAFairytale = {
   id: "019ea416-465c-788e-9537-49c9b08d5936",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-today-was-a-fairytale",
   title: "Today Was a Fairytale",
   artist: "taylor-swift",

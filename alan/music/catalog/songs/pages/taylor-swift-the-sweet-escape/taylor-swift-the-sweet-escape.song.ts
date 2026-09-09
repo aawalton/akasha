@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTheSweetEscape = {
   id: "019ea416-3752-7d77-a0f9-492e87ebf6e3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-the-sweet-escape",
   title: "The Sweet Escape",
   artist: "taylor-swift",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const zaraLarssonEndOfTime = {
   id: "019ea4a0-daf0-786e-80eb-00b0b3504b7a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "zara-larsson-end-of-time",
   title: "End of Time",
   artist: "zara-larsson",

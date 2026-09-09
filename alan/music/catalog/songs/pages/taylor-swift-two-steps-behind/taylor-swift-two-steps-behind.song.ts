@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftTwoStepsBehind = {
   id: "019ea416-4b76-7644-9d58-0fde6820ecaf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-two-steps-behind",
   title: "Two Steps Behind",
   artist: "taylor-swift",

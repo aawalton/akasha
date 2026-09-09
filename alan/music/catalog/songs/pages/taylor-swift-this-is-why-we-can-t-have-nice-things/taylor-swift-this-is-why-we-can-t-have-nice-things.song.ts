@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   id: "019ea416-45f4-7c7d-8f6f-aed1b20f2e1d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-this-is-why-we-can-t-have-nice-things",
   title: "This Is Why We Can’t Have Nice Things",
   artist: "taylor-swift",

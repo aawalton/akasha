@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const taylorSwiftYouAllOverMe = {
   id: "019ea416-4384-7518-a0b8-98d478c28fad",
   pageTypeSlug: "song",
+  type: "song",
   slug: "taylor-swift-you-all-over-me",
   title: "You All Over Me",
   artist: "taylor-swift",
