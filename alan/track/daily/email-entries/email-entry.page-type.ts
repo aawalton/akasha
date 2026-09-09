@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Date as TrackedDate } from "../../days/properties/date.text-property.ts"
-import type { LowestInboxCount } from "./properties/lowest-inbox-count.number-property.ts"
+import type { LowestInboxCount } from "../../days/properties/lowest-inbox-count.number-property.ts"
 
 export type EmailEntry = Page & {
   title: Title
