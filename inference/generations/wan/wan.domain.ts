@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const wan = {
   id: "01a06815-9efd-7028-bfc6-b3c3933ac08c",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "wan",
   definition: "video made from a still image by the Wan diffusion model",
   parts: [

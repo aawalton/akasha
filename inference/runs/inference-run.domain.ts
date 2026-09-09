@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const inferenceRun = {
   id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "inference-run",
   definition: "the record kept of every run a model was asked for and of what that run made",
   parts: [

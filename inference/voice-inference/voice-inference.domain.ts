@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const voiceInference = {
   id: "01a06815-9efd-701e-a4d4-a26f49e97554",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "voice-inference",
   definition: "speech turned into text and text turned into speech on one card",
   parts: [

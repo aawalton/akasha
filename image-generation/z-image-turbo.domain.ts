@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const zImageTurbo = {
   id: "01a06553-a9b6-7dda-a90b-f47bdd7d29c8",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "z-image-turbo",
   definition: "Tongyi's distilled model making an image from text",
   invariants: [

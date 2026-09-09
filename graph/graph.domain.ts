@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const graph = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "graph",
   definition: "what follows from the pages, and what each answer rests on",
   parts: [
