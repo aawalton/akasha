@@ -47,12 +47,12 @@ export const monarchEval = {
     },
     {
       invariantKind: "constraint",
-      statement: "A row carrying no category anyone chose has no answer to be scored against.",
+      statement: "A row with no category anyone chose has no answer to be scored against.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The rows carrying no category anyone chose are the rows this pipeline most exists to serve.",
+        "The rows with no category anyone chose are the rows this pipeline most exists to serve.",
     },
     {
       invariantKind: "departure",
