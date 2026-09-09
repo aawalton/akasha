@@ -51,5 +51,7 @@ export const alanAtlasWeb = {
     "route/atlas-api-errors",
     "route/atlas-api-page-types",
     "route/atlas-api-page-write",
+    "route/atlas-sign-out",
+    "route/atlas-sign-up",
   ],
 } as const satisfies RouterApp
