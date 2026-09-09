@@ -8,6 +8,8 @@ export const parserWeights = {
   slug: "parser-weights",
   propertySlug: "parser-weights",
   definition: "the trained graph saying which word a word hangs off",
+  generated: true,
+  runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",
