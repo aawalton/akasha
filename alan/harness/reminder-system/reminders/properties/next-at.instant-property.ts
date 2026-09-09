@@ -5,6 +5,7 @@ export type NextAt = string
 export const nextAt = {
   id: "01a05f42-d941-7005-9b78-ea153ee9fc0f",
   pageTypeSlug: "instant-property",
+  type: "instant-property",
   slug: "next-at",
   propertySlug: "next-at",
   definition: "when a repeating thing next falls due",

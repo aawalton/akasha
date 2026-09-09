@@ -5,6 +5,7 @@ export type FirstSeenAt = string
 export const errorFirstSeenAt = {
   id: "01a05f3f-e3e0-79ae-a33f-a08a9966c72b",
   pageTypeSlug: "instant-property",
+  type: "instant-property",
   slug: "error-first-seen-at",
   propertySlug: "first-seen-at",
   definition: "when an error was met for the first time",
