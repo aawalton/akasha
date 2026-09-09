@@ -13,7 +13,9 @@ import {
 } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 
-const DECLARES = "page-property-slug"
+const DECLARES = "page-property"
+
+const WAS_DECLARES = "page-property-slug"
 
 const EXTENDS = "extends-type"
 
@@ -48,7 +50,13 @@ export type Declaring = {
 export function declaringOf(given: string | Reading, id: string): readonly Declaring[] {
   const reading = readingIn(given)
   const found: Declaring[] = []
-  for (const said of idsNaming(reading, id, DECLARES)) {
+  const seen = new Set<string>()
+  for (const said of [
+    ...idsNaming(reading, id, DECLARES),
+    ...idsNaming(reading, id, WAS_DECLARES),
+  ]) {
+    if (seen.has(said)) continue
+    seen.add(said)
     const listed = listedById(reading, said)
     if (listed === null) continue
     const named = partedIn(listed.path)

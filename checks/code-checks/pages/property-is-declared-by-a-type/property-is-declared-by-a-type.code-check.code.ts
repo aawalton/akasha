@@ -8,7 +8,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 
-const DECLARES = ["page-property-slug", "members"] as const
+const DECLARES = ["page-property", "page-property-slug", "members"] as const
 
 const DECLARED = "properties"
 
