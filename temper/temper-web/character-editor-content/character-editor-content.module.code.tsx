@@ -15,11 +15,11 @@ import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-
 import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
-import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
-} from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
+} from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

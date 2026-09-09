@@ -3,11 +3,11 @@ import type {
   RuleMatcherContext,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+import { useCharacterList } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import {
   buildDerivedContext,
   mergeInventoryContext,
 } from "akasha/temper/items-rules-matcher/rule-matcher-context/rule-matcher-context.module.code.ts"
-import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import {

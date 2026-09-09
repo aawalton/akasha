@@ -20,7 +20,7 @@ import { applyCharacterMetadata } from "akasha/temper/build-metadata/build-metad
 import {
   useAllCharacterList,
   useCharacterLifecycle,
-} from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
+} from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useCompletionCharactersByUser } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
