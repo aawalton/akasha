@@ -3,14 +3,13 @@ import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { getRequestServerClient } from "@akasha/supabase-rr/request-session-cache"
 import { data } from "react-router"
-import { readHomeNavItemParam } from "../.server/home-dni-param/home-dni-param.module.code.ts"
-import type { Route } from "./+types/home"
+import { readHomeNavItemParam } from "../../.server/home-dni-param/home-dni-param.module.code.ts"
 
 export function meta() {
   return [{ title: "Home" }]
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { headers } = getRequestServerClient(request)
   const { user } = await getUser(request)
   if (!user) return data({ navItemIdParam: null }, { headers })
@@ -18,7 +17,11 @@ export async function loader({ request }: Route.LoaderArgs) {
   return data({ navItemIdParam }, { headers })
 }
 
-export default function HomeRoute({ loaderData }: Route.ComponentProps) {
+export default function HomeRoute({
+  loaderData,
+}: {
+  loaderData: { navItemIdParam: string | null }
+}) {
   if (loaderData.navItemIdParam === null) {
     return (
       <PageLayout>
