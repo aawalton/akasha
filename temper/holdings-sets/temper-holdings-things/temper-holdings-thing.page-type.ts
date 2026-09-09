@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CapturedAt } from "../../catalogs/temper-world/properties/captured-at.instant-property.ts"
-import type { TemperThing } from "../../things/temper-thing.page-type.ts"
-import type { TotalValue } from "./properties/total-value.number-property.ts"
-
-export type TemperHoldingsThing = TemperThing & {
-  capturedAt?: CapturedAt
-  totalValue?: TotalValue
-}
 
 export const temperHoldingsThing = {
   id: "01a05fcb-fd2b-77f2-923a-cb5f59585696",
@@ -27,4 +19,5 @@ export const temperHoldingsThing = {
       statement: "A reading states an account's worth at one moment.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
