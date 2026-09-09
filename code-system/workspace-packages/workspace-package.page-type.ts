@@ -70,4 +70,18 @@ export const workspacePackage = {
       statement: "The workspace installs every package the tree has.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "Package Only When Needed",
+      act: "Make a folder a package only where the folder needs to be one.",
+      warrant:
+        "A folder is simpler than a package, so a package earns its place only by making the whole simpler.",
+      aids: [
+        "The root folder needs to be a package.",
+        "A folder installed separately from the root needs to be a package.",
+        "No other folder needs to be a package.",
+      ],
+    },
+  ],
 } as const satisfies PageType
