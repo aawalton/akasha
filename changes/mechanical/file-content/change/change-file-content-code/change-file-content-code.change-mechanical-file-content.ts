@@ -10,7 +10,7 @@ export const changeFileContentCode = {
   definition: "one passage of one code body replaced, with the imports that body names judged",
   code: "ts",
   test: "ts",
-  guardSlugs: ["change-guard/import-reaches-a-file"],
+  guards: ["change-guard/import-reaches-a-file"],
   invariants: [
     {
       invariantKind: "departure",

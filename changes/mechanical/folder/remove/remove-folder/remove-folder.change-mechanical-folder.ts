@@ -10,7 +10,7 @@ export const removeFolder = {
   definition: "one folder and every file under it taken away",
   code: "ts",
   test: "ts",
-  guardSlugs: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
+  guards: ["change-guard/relation-not-left-hanging", "change-guard/import-not-left-hanging"],
   invariants: [
     {
       invariantKind: "departure",

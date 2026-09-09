@@ -10,7 +10,7 @@ export const changePagePageProperty = {
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
-  guardSlugs: ["change-guard/identity-not-already-held"],
+  guards: ["change-guard/identity-not-already-held"],
   invariants: [
     {
       invariantKind: "departure",

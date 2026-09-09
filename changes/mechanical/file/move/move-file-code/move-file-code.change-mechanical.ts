@@ -10,7 +10,7 @@ export const moveFileCode = {
   definition: "one code file moved to another path, with every body importing it repointed",
   code: "ts",
   test: "ts",
-  guardSlugs: ["change-guard/import-not-left-hanging"],
+  guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
       invariantKind: "departure",

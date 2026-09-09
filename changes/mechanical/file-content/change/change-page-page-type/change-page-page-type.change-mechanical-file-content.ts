@@ -10,7 +10,7 @@ export const changePagePageType = {
   definition: "the page type a body states, restated with the type that body satisfies",
   code: "ts",
   test: "ts",
-  guardSlugs: ["change-guard/import-reaches-a-file", "change-guard/relation-reaches-a-page"],
+  guards: ["change-guard/import-reaches-a-file", "change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "departure",

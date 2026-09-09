@@ -10,7 +10,7 @@ export const moveFolder = {
   definition: "one folder and every file under it moved to another path",
   code: "ts",
   test: "ts",
-  guardSlugs: [
+  guards: [
     "change-guard/import-not-left-hanging",
     "change-guard/claimed-file-not-left-behind",
     "change-guard/folder-not-left-named",
